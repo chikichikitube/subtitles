@@ -10,11 +10,6 @@ If you'd like to update an existing sub file, or take a machine generated subfil
 ### subtitles
 Subs extracted from The Silent Library versions of videos
 
-**Structure**
-- show name
-  - episode/clip/special
-    - subfile
-
 ### subtitles_machine
 SRT sub files transcribed/translated using [OpenAI Whisper](https://github.com/openai/whisper)
 
