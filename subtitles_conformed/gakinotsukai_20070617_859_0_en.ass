@@ -1,0 +1,1002 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Aegisub Video Aspect Ratio: c1.776527
+Video Aspect Ratio: c1.77778
+
+[Aegisub Project Garbage]
+Last Style Storage: 2017
+Audio File: C:/Users/Scion/Desktop/ffmpeg/bin/Food Battle vs Galsone.mp4
+Video File: C:/Users/Scion/Desktop/ffmpeg/bin/Food Battle vs Galsone.mp4
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.508333
+Scroll Position: 920
+Video Position: 42794
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.47267,3.47267,2,10,10,11,1
+Style: Matsumoto,Arial,50,&H002039DE,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Yamazaki,Arial,50,&H0021D72F,&H000000FF,&H00E8FDE9,&H00000000,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Endo,Arial,50,&H000C65DF,&H000000FF,&H00E4F5FD,&H00000000,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Tanaka,Arial,50,&H00E624BC,&H000000FF,&H00FFEEFA,&H00000000,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Hamada,Arial,50,&H00DD4137,&H000000FF,&H00FFF2E8,&H00000000,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Black,Arial,50,&H00000000,&H00000000,&H00FBFBFD,&H00000000,-1,0,0,0,100,100,0,0,1,3.47267,3.47267,2,10,10,11,1
+Style: Talking Red,Arial,50,&H00FFFFFF,&H000000FF,&H003925B7,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,7.49996,7.49996,2,10,10,11,1
+Style: Talking orange,Arial,50,&H00FFFFFF,&H000000FF,&H002071AD,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2.49996,2.49996,2,10,10,11,1
+Style: Talking purple,Arial,50,&H00FFFFFF,&H000000FF,&H008D0288,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,7.49996,7.49996,2,10,10,11,1
+Style: Talking light blue,Arial,50,&H00FFFFFF,&H000000FF,&H00E1AE7A,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,7.49996,7.49996,2,10,10,11,1
+Style: Talking greenish,Arial,50,&H00FFFFFF,&H000000FF,&H007AB727,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,7.49996,7.49996,2,10,10,11,1
+Style: Pink,Arial,50,&H00C839FF,&H000000FF,&H00FCEFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.49996,2.49996,2,10,10,10,1
+Style: Talking green,Arial,50,&H00FFFFFF,&H000000FF,&H0021D72F,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,5.20901,5.20901,2,10,10,11,1
+Style: Chono,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H002420C4,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,11,1
+Style: Normal,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,5,3,2,10,10,11,1
+Style: Yellow announcmend,Arial,56,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,4,3,2,10,10,11,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:23:47.88,Normal,,0,0,0,,{\i1\fs30\pos(1408,38)}TG
+Dialogue: 0,0:00:04.88,0:00:11.99,Yellow announcmend,,0,0,0,,{\fs72\fad(1200,1200)\pos(722,94)}Team Gaki Presents
+Dialogue: 0,0:00:04.88,0:00:11.99,Matsumoto,,0,0,0,,{\u1\fs40\fad(1200,1200)\pos(1208,203)}Translators:
+Dialogue: 0,0:00:04.88,0:00:11.99,Tanaka,,0,0,0,,{\fs40\fad(1200,1200)\pos(1210,255)}Mickstar
+Dialogue: 0,0:00:04.88,0:00:11.99,Matsumoto,,0,0,0,,{\u1\fs40\fad(1200,1200)\pos(220,203)}Typesetter:
+Dialogue: 0,0:00:04.88,0:00:11.99,Black,,0,0,0,,{\fs40\fad(1200,1200)\pos(218,255)}Sacro
+Dialogue: 0,0:00:04.88,0:00:11.99,Black,,0,0,0,,{\u1\fs40\fad(1200,1200)\3c&H0000FF&\pos(218,351.143)}English Checker:
+Dialogue: 0,0:00:04.88,0:00:11.99,Matsumoto,,0,0,0,,{\fs40\fad(1200,1200)\3c&H000000&\pos(218.286,412)}James
+Dialogue: 0,0:00:00.00,0:00:00.31,Default,,0,0,0,,
+Dialogue: 0,0:00:00.31,0:00:04.88,Default,,0,0,0,,{\fs60\fad(350,0)\pos(729,616.5)}The 7 Gaki Members do the Oogui challenge
+Dialogue: 0,0:00:00.31,0:00:04.88,Default,,0,0,0,,{\fs40\pos(719.5,121)}Note: Oogui is a thing in Japan where people consume a shitload of food in one sitting. There are genuine competitions where people compete against one another, seeing who can eat more of various dishes.
+Dialogue: 0,0:00:00.78,0:00:04.46,Default,,0,0,0,,Tonight, the 7 Gaki members take on the Oogui challenge!
+Dialogue: 0,0:00:05.47,0:00:07.67,Hamada,,0,0,0,,The first annual Gaki no Tsukai Chiki Chiki
+Dialogue: 0,0:00:07.67,0:00:10.08,Hamada,,0,0,0,,Work together and defeat Gal Sone
+Dialogue: 0,0:00:10.08,0:00:13.14,Hamada,,0,0,0,,Oogui Competition!
+Dialogue: 0,0:00:18.10,0:00:19.60,Hamada,,0,0,0,,We're going to defeat Gal Sone?
+Dialogue: 0,0:00:18.30,0:00:22.50,Default,,0,0,0,,{\fad(350,0)\pos(718.499,778.5)\c&H06940A&\3c&HFFFFFF&}Downtown
+Dialogue: 0,0:00:18.30,0:00:22.50,Default,,0,0,0,,{\fad(350,0)\3c&HFF012E&\pos(453.001,892.499)}Matsumoto Hitoshi
+Dialogue: 0,0:00:18.30,0:00:22.50,Default,,0,0,0,,{\fad(350,0)\3c&HFF0000&\pos(1001.25,895.5)}Hamada Masatoshi
+Dialogue: 0,0:00:19.80,0:00:21.76,Matsumoto,,0,0,0,,Apparently so...
+Dialogue: 0,0:00:22.17,0:00:23.76,Hamada,,0,0,0,,Surely we can't do it?
+Dialogue: 0,0:00:23.50,0:00:25.53,Matsumoto,,0,0,0,,But if we all try our best,
+Dialogue: 0,0:00:25.53,0:00:27.56,Matsumoto,,0,0,0,,maybe we can beat her
+Dialogue: 0,0:00:26.07,0:00:29.21,Default,,0,0,0,,{\3c&HFF0000&\pos(273,873)}Yamasaki Hosei
+Dialogue: 0,0:00:26.07,0:00:29.21,Default,,0,0,0,,{\3c&HFF0000&\pos(952.5,793.5)}Cocorico
+Dialogue: 0,0:00:26.07,0:00:29.21,Default,,0,0,0,,{\3c&HFF0000&\pos(744,874.5)}Endo Shozo
+Dialogue: 0,0:00:26.07,0:00:29.21,Default,,0,0,0,,{\3c&HFF0000&\pos(1164,883.5)}Tanaka Naoki
+Dialogue: 0,0:00:27.46,0:00:28.62,Yamazaki,,0,0,0,,We can do it!
+Dialogue: 0,0:00:27.98,0:00:29.07,Hamada,,0,0,0,,No no no no!
+Dialogue: 0,0:00:28.94,0:00:31.02,Matsumoto,,0,0,0,,But you know, just with the regulars
+Dialogue: 0,0:00:31.02,0:00:32.90,Matsumoto,,0,0,0,,it would be a bit too tough
+Dialogue: 0,0:00:31.85,0:00:32.93,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:00:32.36,0:00:32.94,Hamada,,0,0,0,,I see
+Dialogue: 0,0:00:32.97,0:00:34.85,Matsumoto,,0,0,0,,So we
+Dialogue: 0,0:00:34.99,0:00:37.01,Matsumoto,,0,0,0,,get Vacuum Fujiwara today...
+Dialogue: 0,0:00:36.79,0:00:37.85,Chono,,0,0,0,,Thank you very much
+Dialogue: 0,0:00:37.25,0:00:40.39,Default,,0,0,0,,{\3c&HFF0000&\pos(693,709.5)}The Charanporan
+Dialogue: 0,0:00:37.25,0:00:40.39,Default,,0,0,0,,{\fs50\pos(969,813)\c&H232CA6&\3c&HFFFFFF&}Vacuum Fujiwara
+Dialogue: 0,0:00:37.25,0:00:40.39,Default,,0,0,0,,{\3c&HFF0000&\pos(418.5,892.5)}Inomoto Takafumi
+Dialogue: 0,0:00:37.25,0:00:40.39,Default,,0,0,0,,{\3c&HFF0000&\pos(1020,894)}Fujiwara Kazuhiro
+Dialogue: 0,0:00:37.99,0:00:38.81,Yamazaki,,0,0,0,,Vacuum-san!
+Dialogue: 0,0:00:38.40,0:00:39.10,Tanaka,,0,0,0,,The Vacuum!
+Dialogue: 0,0:00:39.10,0:00:40.37,Endo,,0,0,0,,Hello Vacuum-san!
+Dialogue: 0,0:00:40.45,0:00:44.05,Default,,0,0,0,,{\fad(300,150)\fs70\fnBookman old Style\3c&HFFFFFF&\c&H9E000B&\pos(739.5,829.5)}What is the reason he is called Vacuum Fujiwara!?
+Dialogue: 0,0:00:40.77,0:00:44.34,Default,,0,0,0,,The man who just sucks up his meals, Vacuum Fujiwara
+Dialogue: 0,0:00:44.16,0:01:03.71,Default,,0,0,0,,{\i1\fad(300,0)\pos(328.5,85.5)\3c&H101668&}Aired 5th November 2006
+Dialogue: 0,0:00:44.16,0:00:49.73,Default,,0,0,0,,{\fad(300,300)\bord0\pos(1101,88.5)}Narrator Chihiro Tago
+Dialogue: 0,0:00:44.16,0:00:49.73,Default,,0,0,0,,{\fs60\fad(300,300)\3c&HFFFFFF&\pos(730.5,877.5)\c&H05660D&}On the episode "Eat snacks with rice", Fujiwara...
+Dialogue: 0,0:00:44.34,0:00:48.22,Default,,0,0,0,,Last year in November, in an episode where they had to eat loads of rice
+Dialogue: 0,0:00:48.22,0:00:49.61,Default,,0,0,0,,Fujiwara dominated
+Dialogue: 0,0:00:50.13,0:00:50.86,Chono,,0,0,0,,This is good
+Dialogue: 0,0:00:51.35,0:00:52.06,Tanaka,,0,0,0,,I bet
+Dialogue: 0,0:00:51.86,0:00:54.49,Hamada,,0,0,0,,It might taste good, but seriously, how many bowls do you want to eat?
+Dialogue: 0,0:00:54.57,0:01:03.71,Default,,0,0,0,,{\3c&HFFFFFF&\fnBookman old Style\fs70\c&H000000&\4c&H0203FF&\move(2030,784.5,741,784.5,22,151)}shoved 9 bowls of rice into his stomach
+Dialogue: 0,0:00:55.00,0:00:56.54,Default,,0,0,0,,Everyone suffered,
+Dialogue: 0,0:00:56.54,0:00:59.71,Default,,0,0,0,,but this man shoved 9 bowls of rice into his stomach
+Dialogue: 0,0:01:00.04,0:01:03.33,Default,,0,0,0,,And this is how Vacuum Fujiwara was born
+Dialogue: 0,0:01:04.01,0:01:04.78,Chono,,0,0,0,,Whatever happens, I always {\alphaHFF}eat my meals
+Dialogue: 0,0:01:04.78,0:01:07.35,Chono,,0,0,0,,Whatever happens, I always eat my meals
+Dialogue: 0,0:01:05.19,0:01:06.22,Matsumoto,,0,0,0,,Whatever happens...
+Dialogue: 0,0:01:05.63,0:01:06.38,Default,,0,0,0,,Obviously...
+Dialogue: 0,0:01:06.50,0:01:09.05,Matsumoto,,0,0,0,,He got dressed up for this occasion today to look special but...
+Dialogue: 0,0:01:09.08,0:01:13.75,Default,,0,0,0,,{\fs40\pos(722.25,56.25)}NOTE: TAMORI IS A FAMOUS JAPANESE TARENTO
+Dialogue: 0,0:01:09.08,0:01:09.48,Matsumoto,,0,0,0,,he just looks like Tamori-san{\alphaHFF} from the old times
+Dialogue: 0,0:01:09.48,0:01:13.75,Matsumoto,,0,0,0,,he just looks like Tamori-san from the old times
+Dialogue: 0,0:01:10.95,0:01:11.63,Endo,,0,0,0,,Oh yeah!
+Dialogue: 0,0:01:12.73,0:01:13.67,Tanaka,,0,0,0,,That's true
+Dialogue: 0,0:01:14.53,0:01:18.89,Default,,0,0,0,,And the person they will go against this time, Gal Sone appears.
+Dialogue: 1,0:01:16.09,0:01:21.73,Matsumoto,,0,0,0,,{\fad(300,300)\c&HFFFFFF&\3c&H5403A5&\pos(709.5,853.5)}Food Fighter
+Dialogue: 1,0:01:16.09,0:01:21.73,Matsumoto,,0,0,0,,{\fad(300,300)\c&HFFFFFF&\3c&H5403A5&\pos(708,948)}Gal Sone
+Dialogue: 0,0:01:16.09,0:01:21.73,Matsumoto,,0,0,0,,{\fad(300,300)\p1\bord\bord0\shad0\alpha50\an7\pos(427.5,783)\c&HBE60F2&}m 0 0 l 600 0 l 600 210 l 0 210 l 0 0
+Dialogue: 0,0:01:19.41,0:01:21.51,Matsumoto,,0,0,0,,The fact this girl here eats loads
+Dialogue: 0,0:01:21.42,0:01:22.66,Tanaka,,0,0,0,,I know
+Dialogue: 0,0:01:21.73,0:01:23.09,Matsumoto,,0,0,0,,I just don't see it
+Dialogue: 0,0:01:22.94,0:01:23.92,Pink,,0,0,0,,Thank you
+Dialogue: 0,0:01:24.39,0:01:27.71,Hamada,,0,0,0,,On a live broadcast this morning, she was eating loads of okonomiyaki as well...
+Dialogue: 0,0:01:26.16,0:01:33.21,Matsumoto,,0,0,0,,{\fad(150,0)\c&H93FFFD&\3c&H000000&\pos(717,843)}On this morning's "Radical" (TV program)
+Dialogue: 0,0:01:26.16,0:01:33.21,Matsumoto,,0,0,0,,{\fad(150,0)\c&H8E8CFC&\3c&H000000&\pos(718.5,936)} she ate 3kg of Okonomiyaki
+Dialogue: 0,0:01:27.71,0:01:29.24,Pink,,0,0,0,,My stomach is a bit out at the moment; please touch it
+Dialogue: 0,0:01:30.43,0:01:31.50,Hamada,,0,0,0,,See, her stomach is out
+Dialogue: 0,0:01:31.66,0:01:32.66,Matsumoto,,0,0,0,,Holy shit, that's so scary!
+Dialogue: 0,0:01:34.51,0:01:37.51,Matsumoto,,0,0,0,,She's like a mermaid
+Dialogue: 0,0:01:36.40,0:01:37.66,Hamada,,0,0,0,,Like "Let me come out already"
+Dialogue: 0,0:01:38.98,0:01:43.08,Default,,0,0,0,,{\fnBookman old Style\fs60\bord0\shad0\move(750,0,750,90,22,119)}Oogui Battle
+Dialogue: 0,0:01:38.98,0:01:43.08,Matsumoto,,0,0,0,,{\bord0\c&HFE6188&\move(379.5,1075,379.5,883.5,22,119)}Gaki Team
+Dialogue: 0,0:01:38.98,0:01:43.08,Matsumoto,,0,0,0,,{\bord0\c&H793EFE&\move(1048.5,1075,1048.5,877.5,22,119)}Gal Sone
+Dialogue: 0,0:01:39.14,0:01:40.50,Default,,0,0,0,,This battle
+Dialogue: 0,0:01:40.50,0:01:43.30,Default,,0,0,0,,is a 7 vs 1 battle
+Dialogue: 0,0:01:43.15,0:01:50.29,Matsumoto,,0,0,0,,{\fad(300,150)\fs60\bord0\c&H1620EC&\pos(742.5,754.5)}7 meals of {\c&HFFFFFF&}7kg
+Dialogue: 0,0:01:43.15,0:01:50.29,Matsumoto,,0,0,0,,{\fad(300,150)\bord0\fs60\c&HFFFFFF&\pos(745.5,895.5)}Whoever eats it all first wins!
+Dialogue: 0,0:01:44.54,0:01:49.53,Default,,0,0,0,,Whoever eats all 7 meals, weighing around 7kg, first wins!
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(226.5,348)}Sushi
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(552,352.5)}Yakisoba
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(879,357)}Hamburger
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(1203,348)}Curry
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(288,673.5)}Cake
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(709.5,670.5)}Okonomiyaki
+Dialogue: 0,0:01:48.79,0:01:58.29,Matsumoto,,0,0,0,,{\fad(300,0)\bord0\fs40\c&H4BF5F0&\pos(1165.5,669)}Gyoza
+Dialogue: 0,0:01:50.15,0:01:53.79,Matsumoto,,0,0,0,,{\fad(150,150)\bord0\fs60\c&HFFFFFF&\pos(724.5,786)}Gal Sone {\c&H1822E6&}will eat all 7 meals{\\c&HFFFFFF&} by herself
+Dialogue: 0,0:01:50.80,0:01:53.79,Default,,0,0,0,,Gal Sone will eat all of this by herself
+Dialogue: 0,0:01:53.66,0:01:58.39,Matsumoto,,0,0,0,,{\fad(150,150)\bord0\fs60\c&HFFFFFF&\pos(490.5,768)}The 7 members of Gaki
+Dialogue: 0,0:01:53.66,0:01:58.39,Matsumoto,,0,0,0,,{\fad(150,150)\bord0\fs60\pos(726,895.5)}will aim to eat{\c&HFFFFFF&} 1 dish each
+Dialogue: 0,0:01:53.80,0:01:57.46,Default,,0,0,0,,Gaki will eat in a relay style, eating one dish each
+Dialogue: 0,0:01:58.26,0:02:04.90,Matsumoto,,0,0,0,,{\fad(150,0)\bord0\fs60\c&H01CFF3&\pos(321,765)}Vacuum Button
+Dialogue: 0,0:01:58.26,0:02:04.90,Matsumoto,,0,0,0,,{\fad(150,00)\bord0\fs60\c&HFFFFFF&\pos(447,841.5)}If one of them cannot eat it all
+Dialogue: 0,0:01:58.26,0:02:04.90,Matsumoto,,0,0,0,,{\fad(150,0)\bord0\fs50\c&HFFFFFF&\pos(712.5,928.5)}press the button {\c}and Vacuum Fujiwara will suck it up for you!
+Dialogue: 0,0:01:58.66,0:02:05.18,Default,,0,0,0,,However, if you really cannot eat anymore, Vacuum Fujiwara will suck it up right for you
+Dialogue: 0,0:02:04.94,0:02:10.51,Matsumoto,,0,0,0,,{\fad(150,00)\bord2\fs60\c&H59FFFB&\3c&H000000&\pos(711,766.5)}Vacuum Fujiwara is the key
+Dialogue: 0,0:02:04.94,0:02:10.51,Matsumoto,,0,0,0,,{\fad(150,00)\bord2\fs60\c&H59FFFB&\3c&H000000&\pos(618,898.5)}to the outcome of this battle!
+Dialogue: 0,0:02:05.18,0:02:09.05,Default,,0,0,0,,So, Fujiwara holds the key to the outcome of this battle!
+Dialogue: 0,0:02:09.57,0:02:11.11,Yamazaki,,0,0,0,,But Matsumoto-san is awful
+Dialogue: 0,0:02:10.82,0:02:11.37,Hamada,,0,0,0,,Why?
+Dialogue: 0,0:02:11.38,0:02:13.62,Yamazaki,,0,0,0,,2 hours ago, he ate a meal!
+Dialogue: 0,0:02:13.68,0:02:14.57,Hamada,,0,0,0,,No way!
+Dialogue: 0,0:02:15.34,0:02:16.31,Yamazaki,,0,0,0,,I know...
+Dialogue: 0,0:02:15.83,0:02:17.15,Tanaka,,0,0,0,,Take this seriously, man!
+Dialogue: 0,0:02:17.99,0:02:20.28,Normal,,0,0,0,,Hamada-san had pilaf an hour ago...
+Dialogue: 0,0:02:20.77,0:02:21.76,Chono,,0,0,0,,Are you serious?!
+Dialogue: 0,0:02:21.30,0:02:22.54,Yamazaki,,0,0,0,,What the hell is wrong with Downtown?!
+Dialogue: 0,0:02:22.66,0:02:24.31,Endo,,0,0,0,,Downtown!
+Dialogue: 0,0:02:24.20,0:02:25.16,Tanaka,,0,0,0,,What is wrong with you!?
+Dialogue: 0,0:02:24.61,0:02:25.42,Yamazaki,,0,0,0,,Seriously!
+Dialogue: 0,0:02:25.89,0:02:26.36,Chono,,0,0,0,,Do you have 0 {\alphaHFF}kindness!?
+Dialogue: 0,0:02:26.36,0:02:29.56,Chono,,0,0,0,,Do you have 0 kindness!?
+Dialogue: 0,0:02:27.97,0:02:29.24,Endo,,0,0,0,,You'd think that!
+Dialogue: 0,0:02:28.75,0:02:29.47,Normal,,0,0,0,,Right?
+Dialogue: 0,0:02:30.16,0:02:30.56,Matsumoto,,0,0,0,,This isn't {\alphaHFF}a show where we really give it our all...
+Dialogue: 0,0:02:30.56,0:02:30.93,Matsumoto,,0,0,0,,This isn't a show where {\alphaHFF}we really give it our all...
+Dialogue: 0,0:02:30.93,0:02:31.63,Matsumoto,,0,0,0,,This isn't a show where we really give it {\alphaHFF}our all...
+Dialogue: 0,0:02:31.63,0:02:34.00,Matsumoto,,0,0,0,,This isn't a show where we really give it our all...
+Dialogue: 0,0:02:32.76,0:02:33.99,Endo,,0,0,0,,Don't say that!
+Dialogue: 0,0:02:45.14,0:02:46.51,Hamada,,0,0,0,,We need to decide our order
+Dialogue: 0,0:02:45.28,0:02:50.05,Default,,0,0,0,,{\fad(0,300)\move(720,1062,720,730,19,219)}Gaki Team decide their order of eating
+Dialogue: 0,0:02:46.14,0:02:48.89,Matsumoto,,0,0,0,,So we can only really eat 1 dish each
+Dialogue: 0,0:02:47.62,0:02:48.35,Pink,,0,0,0,,Am I over here?
+Dialogue: 0,0:02:48.82,0:02:50.07,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:02:49.37,0:02:50.15,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:02:50.15,0:02:51.54,Endo,,0,0,0,,Hamada-san loves yakisoba though
+Dialogue: 0,0:02:51.44,0:02:52.40,Tanaka,,0,0,0,,That's true
+Dialogue: 0,0:02:52.04,0:02:55.14,Endo,,0,0,0,,If it's something you love, you can probably eat more than usual...
+Dialogue: 0,0:02:55.14,0:02:55.95,Matsumoto,,0,0,0,,Don't you guys underestimate us
+Dialogue: 0,0:02:55.99,0:02:56.79,Matsumoto,,0,0,0,,Don't underestimate {\alphaHFF}the over 40's!
+Dialogue: 0,0:02:56.79,0:03:00.59,Matsumoto,,0,0,0,,Don't underestimate the over 40's!
+Dialogue: 0,0:02:59.10,0:03:00.48,Hamada,,0,0,0,,Yeah, seriously!
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(570,123)\clip(192,36,1360.5,36)\t(57,91,\clip(192,36,1360.5,969))}Sushi
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(570,249)\clip(192,36,1360.5,36)\t(57,124,\clip(192,36,1360.5,969))}Yakisoba
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(571.5,381)\clip(192,36,1360.5,36)\t(57,157,\clip(192,36,1360.5,969))}Hamburger
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(573,519)\clip(192,36,1360.5,36)\t(57,191,\clip(192,36,1360.5,969))}Curry
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(573,643.5)\clip(192,36,1360.5,36)\t(57,224,\clip(192,36,1360.5,969))}Cake
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(577.5,763.5)\clip(192,36,1360.5,36)\t(57,257,\clip(192,36,1360.5,969))}Okonomiyaki
+Dialogue: 0,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\c&H20F0EC&\pos(579,883.5)\clip(192,36,1360.5,36)\t(57,291,\clip(192,36,1360.5,969))}Gyoza
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1057.5,115.5)\clip(192,36,1360.5,36)\t(57,91,\clip(192,36,1360.5,969))}Inomoto Takafumi
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1051.5,241.5)\clip(192,36,1360.5,36)\t(57,124,\clip(192,36,1360.5,969))}Hamada Masatoshi
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1053,370.5)\clip(192,36,1360.5,36)\t(57,157,\clip(192,36,1360.5,969))}Matsumoto Hitoshi
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1060.5,499.5)\clip(192,36,1360.5,36)\t(57,191,\clip(192,36,1360.5,969))}Endo Shozo
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1059,624)\clip(192,36,1360.5,36)\t(57,224,\clip(192,36,1360.5,969))}Yamasaki Hosei
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1051.5,757.5)\clip(192,36,1360.5,36)\t(57,257,\clip(192,36,1360.5,969))}Tanaka Naoki
+Dialogue: 1,0:03:00.59,0:03:06.60,Default,,0,0,0,,{\pos(1053,888)\clip(192,36,1360.5,36)\t(57,291,\clip(192,36,1360.5,969))}Vacuum Fujiwara
+Dialogue: 0,0:03:01.06,0:03:04.91,Default,,0,0,0,,Will they be able to eat all 7 meals?!
+Dialogue: 0,0:03:05.22,0:03:06.10,Default,,0,0,0,,And lastly..
+Dialogue: 0,0:03:06.57,0:03:07.59,Hamada,,0,0,0,,On our side
+Dialogue: 0,0:03:07.46,0:03:08.05,Matsumoto,,0,0,0,,Yup
+Dialogue: 0,0:03:07.94,0:03:10.37,Hamada,,0,0,0,,If we can't go any further
+Dialogue: 0,0:03:10.40,0:03:10.93,Tanaka,,0,0,0,,Uh huh
+Dialogue: 0,0:03:11.42,0:03:12.68,Hamada,,0,0,0,,We can surrender
+Dialogue: 0,0:03:12.17,0:03:23.82,Default,,0,0,0,,{\fad(150,150)\c&H030BD2&\3c&HFFFFFF&\pos(729,759.6)}White flag button
+Dialogue: 0,0:03:12.17,0:03:23.82,Default,,0,0,0,,{\fad(150,150)\c&H72EEFA&\pos(725.4,856.8)}If either team cannot eat anymore,
+Dialogue: 0,0:03:12.17,0:03:23.82,Default,,0,0,0,,{\fad(150,150)\c&H5BF6FE&\pos(727.2,939.6)}they can surrender and end the battle
+Dialogue: 0,0:03:12.87,0:03:13.69,Endo,,0,0,0,,I see
+Dialogue: 0,0:03:12.87,0:03:13.74,Tanaka,,0,0,0,,Surrender
+Dialogue: 0,0:03:13.74,0:03:16.44,Matsumoto,,0,0,0,,But the only person to press that button should be Vacuum-san, right?
+Dialogue: 0,0:03:17.52,0:03:18.11,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:03:18.76,0:03:20.72,Matsumoto,,0,0,0,,And Gal Sone, I'm sure you'll be fine but...
+Dialogue: 0,0:03:19.85,0:03:23.17,Hamada,,0,0,0,,That's right, you can press it too if you can't eat anymore.
+Dialogue: 0,0:03:23.07,0:03:23.57,Pink,,0,0,0,,Okay
+Dialogue: 0,0:03:23.10,0:03:24.02,Matsumoto,,0,0,0,,But you know
+Dialogue: 0,0:03:23.21,0:03:23.83,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:03:24.16,0:03:25.54,Hamada,,0,0,0,,Oogui battle
+Dialogue: 0,0:03:24.94,0:03:26.72,Matsumoto,,0,0,0,,It looks delicious though, when you look from here
+Dialogue: 0,0:03:29.52,0:03:32.46,Default,,0,0,0,,{\fs80\fad(300,0)\fnBookman old Style\pos(725.4,786.6)\c&H3DE4F0&}Oogui Battle: Start!
+Dialogue: 0,0:03:31.46,0:03:32.65,Yamazaki,,0,0,0,,Go, Inomoto!
+Dialogue: 0,0:03:32.62,0:03:39.63,Default,,0,0,0,,{\fs60\fad(300,300)\pos(720,892.8)}First dish: 35 nigiri pieces
+Dialogue: 0,0:03:32.96,0:03:36.99,Default,,0,0,0,,The Oogui battle that 7 men challenged the 1 woman...
+Dialogue: 0,0:03:36.99,0:03:40.06,Default,,0,0,0,,Starts with 35 pieces of sushi
+Dialogue: 0,0:03:40.87,0:03:42.15,Hamada,,0,0,0,,But damn, this...
+Dialogue: 0,0:03:41.67,0:03:44.17,Pink,,0,0,0,,{\pos(708.75,885.5)}It's SO good!
+Dialogue: 0,0:03:42.58,0:03:43.93,Tanaka,,0,0,0,,There's a lot...
+Dialogue: 0,0:03:42.82,0:03:43.67,Hamada,,0,0,0,,Yeah?
+Dialogue: 0,0:03:44.06,0:03:45.34,Pink,,0,0,0,,It's so delicious
+Dialogue: 0,0:03:44.24,0:03:45.71,Endo,,0,0,0,,You got this...
+Dialogue: 0,0:03:45.34,0:03:46.13,Hamada,,0,0,0,,Yeah?
+Dialogue: 0,0:03:48.14,0:03:48.94,Hamada,,0,0,0,,This one{\alphaHFF} likes to taste her food and eat it.
+Dialogue: 0,0:03:48.94,0:03:49.37,Hamada,,0,0,0,,This one likes to taste her food {\alphaHFF}and eat it.
+Dialogue: 0,0:03:49.37,0:03:51.44,Hamada,,0,0,0,,This one likes to taste her food and eat it.
+Dialogue: 0,0:03:52.04,0:03:54.45,Matsumoto,,0,0,0,,She's not a super quick eater then.
+Dialogue: 0,0:03:54.45,0:03:56.92,Normal,,0,0,0,,I kind of lied to you, Matsumoto-san, I said I could eat a fair bit...
+Dialogue: 0,0:03:58.82,0:03:59.65,Normal,,0,0,0,,I eat about as much {\alphaHFF}as a rabbit...
+Dialogue: 0,0:03:59.65,0:04:02.32,Normal,,0,0,0,,I eat about as much as a rabbit...
+Dialogue: 0,0:04:00.95,0:04:02.15,Endo,,0,0,0,,Are you going to be okay?
+Dialogue: 0,0:04:02.02,0:04:02.79,Matsumoto,,0,0,0,,Do your best, man!
+Dialogue: 0,0:04:03.05,0:04:04.42,Tanaka,,0,0,0,,We're counting on you, man; you're the first one up!
+Dialogue: 0,0:04:04.42,0:04:06.32,Chono,,0,0,0,,Why the hell did you get cocky and go for the sushi then!?
+Dialogue: 0,0:04:07.39,0:04:08.83,Matsumoto,,0,0,0,,This probably is the biggest plate out of the lot!
+Dialogue: 0,0:04:08.66,0:04:10.30,Yamazaki,,0,0,0,,Yeah, definitely, it has rice too
+Dialogue: 0,0:04:09.93,0:04:11.30,Endo,,0,0,0,,Why would you choose this one?
+Dialogue: 0,0:04:11.56,0:04:13.57,Hamada,,0,0,0,,She's already eaten all of the Toro (Medium Fatty Tuna)
+Dialogue: 0,0:04:13.60,0:04:14.40,Matsumoto,,0,0,0,,Oh I see...
+Dialogue: 0,0:04:14.90,0:04:15.73,Pink,,0,0,0,,It's so good!
+Dialogue: 0,0:04:15.00,0:04:17.60,Matsumoto,,0,0,0,,You said before she doesn't eat that fast
+Dialogue: 0,0:04:17.60,0:04:18.50,Matsumoto,,0,0,0,,But she's not that slow {\alphaHFF}at all...
+Dialogue: 0,0:04:18.50,0:04:20.87,Matsumoto,,0,0,0,,But she's not that slow at all...
+Dialogue: 0,0:04:18.70,0:04:19.40,Normal,,0,0,0,,I know, right?!
+Dialogue: 0,0:04:19.40,0:04:20.11,Chono,,0,0,0,,Yeah...
+Dialogue: 0,0:04:20.04,0:04:20.84,Tanaka,,0,0,0,,Her tempo is good...
+Dialogue: 0,0:04:21.51,0:04:22.87,Default,,0,0,0,,And that is true
+Dialogue: 0,0:04:22.87,0:04:25.78,Default,,0,0,0,,When Gal Sone shoves one of the nigiri into her mouth,
+Dialogue: 0,0:04:25.78,0:04:29.41,Default,,0,0,0,,she tastes and enjoys it, but breaks it down quickly,
+Dialogue: 0,0:04:30.28,0:04:32.55,Default,,0,0,0,,and in 10 seconds, she moves onto the next piece...
+Dialogue: 0,0:04:33.42,0:04:34.62,Default,,0,0,0,,She should be feared!
+Dialogue: 0,0:04:36.09,0:04:37.52,Yamazaki,,0,0,0,,She's so fast!
+Dialogue: 0,0:04:37.02,0:04:38.22,Chono,,0,0,0,,1 piece is like...
+Dialogue: 0,0:04:37.69,0:04:37.92,Matsumoto,,0,0,0,,Oi {\alphaHFF}Inamoto. It's not decreasing at all!
+Dialogue: 0,0:04:37.92,0:04:39.12,Matsumoto,,0,0,0,,Oi Inomoto. {\alphaHFF}It's not decreasing at all!
+Dialogue: 0,0:04:39.12,0:04:39.66,Matsumoto,,0,0,0,,Oi Inomoto. It's not decreasing{\alphaHFF} at all!
+Dialogue: 0,0:04:39.66,0:04:41.89,Matsumoto,,0,0,0,,Oi Inomoto. It's not decreasing at all!
+Dialogue: 0,0:04:40.79,0:04:42.13,Endo,,0,0,0,,Come on man
+Dialogue: 0,0:04:41.59,0:04:42.53,Chono,,0,0,0,,We're counting on you!
+Dialogue: 0,0:04:42.13,0:04:44.06,Tanaka,,0,0,0,,Inomoto!
+Dialogue: 0,0:04:43.16,0:04:44.73,Matsumoto,,0,0,0,,Are you screwed in the head?
+Dialogue: 0,0:04:44.50,0:04:47.67,Endo,,0,0,0,,You're first up, come on man
+Dialogue: 0,0:04:46.46,0:04:47.67,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:04:48.10,0:04:48.63,Matsumoto,,0,0,0,,Have you come with {\alphaHFF}your family?
+Dialogue: 0,0:04:48.63,0:04:50.64,Matsumoto,,0,0,0,,Have you come with your family?
+Dialogue: 0,0:04:50.77,0:04:53.64,Hamada,,0,0,0,,Eat some of the white fish too!
+Dialogue: 0,0:04:52.04,0:04:54.04,Matsumoto,,0,0,0,,Eat it!
+Dialogue: 0,0:04:53.81,0:04:54.47,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:04:54.61,0:04:56.61,Hamada,,0,0,0,,Look, she's nearly finished!
+Dialogue: 0,0:04:57.64,0:04:59.74,Yamazaki,,0,0,0,,Eat the squid, the squid
+Dialogue: 0,0:04:58.31,0:04:59.48,Endo,,0,0,0,,Really?!
+Dialogue: 0,0:04:59.08,0:04:59.74,Chono,,0,0,0,,Holy shit, she's quick
+Dialogue: 0,0:04:59.88,0:05:01.55,Yamazaki,,0,0,0,,Eat the salmon roe and squid
+Dialogue: 0,0:05:01.58,0:05:02.78,Tanaka,,0,0,0,,We're counting on you
+Dialogue: 0,0:05:02.11,0:05:04.25,Endo,,0,0,0,,And she's not drunk any water or anything
+Dialogue: 0,0:05:04.08,0:05:06.05,Hamada,,0,0,0,,He's probably thinking, "You fuckers try this then!"
+Dialogue: 0,0:05:06.85,0:05:07.72,Matsumoto,,0,0,0,,I'm sorry but this is awful
+Dialogue: 0,0:05:08.42,0:05:09.32,Yamazaki,,0,0,0,,This is
+Dialogue: 0,0:05:09.15,0:05:10.22,Endo,,0,0,0,,He should be quicker than this
+Dialogue: 0,0:05:10.09,0:05:11.52,Yamazaki,,0,0,0,,Inomoto, hurry up and eat!
+Dialogue: 0,0:05:11.22,0:05:12.69,Tanaka,,0,0,0,,Inomoto!
+Dialogue: 0,0:05:13.19,0:05:14.13,Hamada,,0,0,0,,He's biting so slowly...
+Dialogue: 0,0:05:13.89,0:05:14.43,Matsumoto,,0,0,0,,{\pos(742.5,855.25)}Are you at your {\alphaHFF}girlfriend's place?!
+Dialogue: 0,0:05:14.43,0:05:16.59,Matsumoto,,0,0,0,,{\pos(742.5,855.25)}Are you at your girlfriend's place?!
+Dialogue: 0,0:05:16.66,0:05:17.80,Hamada,,0,0,0,,He'll eat even slower than this...
+Dialogue: 0,0:05:18.93,0:05:19.30,Matsumoto,,0,0,0,,Are you worried what her {\alphaHFF}parents might think?
+Dialogue: 0,0:05:19.30,0:05:21.57,Matsumoto,,0,0,0,,Are you worried what her parents might think?
+Dialogue: 0,0:05:23.57,0:05:24.64,Pink,,0,0,0,,Excuse me
+Dialogue: 0,0:05:24.20,0:05:25.07,Chono,,0,0,0,,Shit!
+Dialogue: 0,0:05:25.50,0:05:26.10,Tanaka,,0,0,0,,Wow
+Dialogue: 0,0:05:26.10,0:05:27.04,Pink,,0,0,0,,Can I get some {\alphaHFF}ice cream please?
+Dialogue: 0,0:05:27.04,0:05:29.11,Pink,,0,0,0,,Can I get some ice cream please?
+Dialogue: 0,0:05:29.11,0:05:32.51,Hamada,,0,0,0,,It's a chaser
+Dialogue: 0,0:05:32.34,0:05:35.28,Matsumoto,,0,0,0,,It's just filling her up more so it's not against the rules
+Dialogue: 0,0:05:33.61,0:05:34.41,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:05:35.48,0:05:36.18,Tanaka,,0,0,0,,About 25
+Dialogue: 0,0:05:35.85,0:05:37.65,Endo,,0,0,0,,Try eating 25 at least
+Dialogue: 0,0:05:37.65,0:05:38.75,Endo,,0,0,0,,please
+Dialogue: 0,0:05:38.58,0:05:40.59,Hamada,,0,0,0,,She's about to eat a chaser
+Dialogue: 0,0:05:41.22,0:05:42.19,Endo,,0,0,0,,Amazing...
+Dialogue: 0,0:05:42.29,0:05:43.46,Endo,,0,0,0,,What does that do?
+Dialogue: 0,0:05:43.15,0:05:44.86,Matsumoto,,0,0,0,,She's totally taking the piss out of us
+Dialogue: 0,0:05:43.22,0:05:44.49,Pink,,0,0,0,,It's so nice!
+Dialogue: 0,0:05:44.76,0:05:45.69,Tanaka,,0,0,0,,{\pos(722.25,974.5)}Yeah
+Dialogue: 0,0:05:44.96,0:05:45.92,Pink,,0,0,0,,If you eat a dessert mid-meal, {\alphaHFF}the taste changes and it becomes easier to eat
+Dialogue: 0,0:05:45.92,0:05:47.86,Pink,,0,0,0,,If you eat a dessert mid-meal, the taste changes {\alphaHFF}and it becomes easier to eat
+Dialogue: 0,0:05:47.86,0:05:52.70,Pink,,0,0,0,,If you eat a dessert mid-meal, the taste changes and it becomes easier to eat.
+Dialogue: 0,0:05:49.29,0:05:50.76,Normal,,0,0,0,,Excuse me, please get me some ice cream
+Dialogue: 0,0:05:50.53,0:05:51.76,Endo,,0,0,0,,No!
+Dialogue: 0,0:05:51.50,0:05:52.40,Tanaka,,0,0,0,,Think about this
+Dialogue: 0,0:05:51.56,0:05:52.50,Chono,,0,0,0,,Why!?
+Dialogue: 0,0:05:52.30,0:05:53.60,Endo,,0,0,0,,You're first up!
+Dialogue: 0,0:05:53.20,0:05:54.03,Tanaka,,0,0,0,,You going to be able to eat that?
+Dialogue: 0,0:05:53.53,0:05:55.30,Matsumoto,,0,0,0,,But the gari (pickled ginger) will be good!
+Dialogue: 0,0:05:54.53,0:05:55.30,Chono,,0,0,0,,Oh yeah
+Dialogue: 0,0:05:55.07,0:05:56.13,Hamada,,0,0,0,,Yeah, good idea
+Dialogue: 0,0:05:55.67,0:05:56.57,Chono,,0,0,0,,Instead of ice cream
+Dialogue: 0,0:05:56.74,0:05:57.74,Hamada,,0,0,0,,It will change the taste
+Dialogue: 0,0:05:57.34,0:05:58.84,Matsumoto,,0,0,0,,It might help with digestion
+Dialogue: 0,0:05:58.47,0:05:59.74,Chono,,0,0,0,,Don't bring the ice cream please
+Dialogue: 0,0:05:59.77,0:06:01.37,Matsumoto,,0,0,0,,If you order ice cream and don't eat it, {\alphaHFF}Vacuum-san will have to suck that up too
+Dialogue: 0,0:06:01.37,0:06:04.51,Matsumoto,,0,0,0,,If you order ice cream and don't eat it, Vacuum-san will have to suck that up too
+Dialogue: 0,0:06:03.24,0:06:04.41,Chono,,0,0,0,,Please don't eat ice cream then!
+Dialogue: 0,0:06:04.51,0:06:17.22,Default,,0,0,0,,{\fad(300,0)\pos(379.636,908.182)}Gaki Team: Inomoto:{\c&H57F6F1&} 11 pieces
+Dialogue: 0,0:06:04.98,0:06:06.11,Default,,0,0,0,,5 minutes since they've started
+Dialogue: 0,0:06:06.11,0:06:08.45,Default,,0,0,0,,Inomoto has eaten 11 pieces
+Dialogue: 0,0:06:08.45,0:06:11.28,Default,,0,0,0,,Gal Sone has already shoved 25 in her stomach
+Dialogue: 0,0:06:09.55,0:06:17.22,Default,,0,0,0,,{\fad(300,0)\pos(1076.727,909)}Gal Cone: {\c&H57F6F1&}25 pieces
+Dialogue: 0,0:06:11.28,0:06:13.08,Default,,0,0,0,,The gap between the two keeps increasing
+Dialogue: 0,0:06:13.52,0:06:16.35,Yamazaki,,0,0,0,,But you're full already, right?
+Dialogue: 0,0:06:15.85,0:06:17.19,Chono,,0,0,0,,Come on, she's going to finish soon
+Dialogue: 0,0:06:17.26,0:06:19.02,Yamazaki,,0,0,0,,And she moves onto the next dish?
+Dialogue: 0,0:06:19.69,0:06:21.13,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:06:19.99,0:06:21.19,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:06:20.53,0:06:21.93,Matsumoto,,0,0,0,,So we need to catch up... big time.
+Dialogue: 0,0:06:22.23,0:06:23.56,Chono,,0,0,0,,What?!
+Dialogue: 0,0:06:22.43,0:06:28.17,Default,,0,0,0,,{\fs60\fnBookman old Style\i1\c&H000000&\3c&H4657DF&\move(2141.272,811.636,-641.272,811.636,25,5698)}HELP ME, VACUUM-SAN!
+Dialogue: 0,0:06:24.00,0:06:25.60,Chono,,0,0,0,,WHAT ARE YOU DOING?!
+Dialogue: 0,0:06:25.06,0:06:26.00,Endo,,0,0,0,,Go!
+Dialogue: 0,0:06:26.33,0:06:27.03,Chono,,0,0,0,,You're kidding me?!
+Dialogue: 0,0:06:27.53,0:06:28.53,Tanaka,,0,0,0,,Is it okay to use him so early?
+Dialogue: 0,0:06:28.20,0:06:29.00,Matsumoto,,0,0,0,,Hurry, hurry!
+Dialogue: 0,0:06:28.93,0:06:30.10,Chono,,0,0,0,,I can't believe this...
+Dialogue: 0,0:06:29.43,0:06:30.77,Endo,,0,0,0,,Go for 2
+Dialogue: 0,0:06:30.90,0:06:33.20,Default,,0,0,0,,Earlier than anticipated, Vacuum Fujiwara appears!
+Dialogue: 0,0:06:31.80,0:06:35.77,Default,,0,0,0,,{\fad(150,0)\pos(271.636,754.364)\c&H05089D&\3c&HFFFFFF&}After this
+Dialogue: 0,0:06:31.80,0:06:35.77,Default,,0,0,0,,{\fad(150,0)\c&HB3064A&\3c&HFFFFFF&\pos(741.272,857.455)}See for yourself: Vacuum Fujiwara's eating abilities!
+Dialogue: 0,0:06:33.20,0:06:35.01,Default,,0,0,0,,This man's appetite is...
+Dialogue: 0,0:06:36.01,0:06:36.57,Endo,,0,0,0,,Vacuum-san
+Dialogue: 0,0:06:36.51,0:06:37.14,Yamazaki,,0,0,0,,Vacuum-san...
+Dialogue: 0,0:06:36.78,0:06:38.14,Endo,,0,0,0,,You eat 2 pieces in one go, huh?
+Dialogue: 0,0:06:39.61,0:06:41.38,Yamazaki,,0,0,0,,He's definitely going to break his body...
+Dialogue: 0,0:06:41.75,0:06:42.98,Endo,,0,0,0,,You're going to get a fever again...
+Dialogue: 0,0:06:41.75,0:06:42.98,Tanaka,,0,0,0,,Will you be okay?
+Dialogue: 0,0:06:42.85,0:06:44.22,Yamazaki,,0,0,0,,He definitely will...
+Dialogue: 0,0:06:44.08,0:06:45.25,Endo,,0,0,0,,You're working tomorrow, right?
+Dialogue: 0,0:06:45.28,0:06:47.25,Tanaka,,0,0,0,,2 at a time, you sure?
+Dialogue: 0,0:06:47.65,0:06:50.32,Endo,,0,0,0,,She has what, 3... 2 pieces?
+Dialogue: 0,0:06:50.69,0:06:52.92,Yamazaki,,0,0,0,,Can she not eat a bit slower?
+Dialogue: 0,0:06:50.76,0:06:51.66,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:06:52.92,0:06:54.93,Endo,,0,0,0,,On the other hand, Vacuum-san here is...
+Dialogue: 0,0:06:55.53,0:06:56.56,Hamada,,0,0,0,,He's last anyway
+Dialogue: 0,0:06:57.86,0:07:05.60,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(728.182,805.091)}Gal Sone
+Dialogue: 0,0:06:57.86,0:07:05.60,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(729.818,904.909)}35 sushi pieces: 6 minutes 38 seconds
+Dialogue: 0,0:06:58.00,0:07:00.47,Endo,,0,0,0,,Hold a minute, what the hell is with this?
+Dialogue: 0,0:06:59.46,0:07:01.93,Yamazaki,,0,0,0,,It's not even competitive in the slightest...
+Dialogue: 0,0:07:02.33,0:07:03.37,Yamazaki,,0,0,0,,We're like barely halfway
+Dialogue: 0,0:07:03.07,0:07:05.14,Matsumoto,,0,0,0,,Not a battle at all...
+Dialogue: 0,0:07:04.84,0:07:05.60,Yamazaki,,0,0,0,,Come on man!
+Dialogue: 0,0:07:05.54,0:07:06.74,Hamada,,0,0,0,,I told you this would happen...
+Dialogue: 0,0:07:06.77,0:07:07.74,Matsumoto,,0,0,0,,This is bad man
+Dialogue: 0,0:07:07.77,0:07:10.54,Yamazaki,,0,0,0,,But if you get through this, Hamada-san will destroy the yakisoba
+Dialogue: 0,0:07:10.18,0:07:11.71,Endo,,0,0,0,,Hamada-san will...
+Dialogue: 0,0:07:11.08,0:07:17.95,Default,,0,0,0,,{\fad(300,300)\fs60\fnBookman old Style\c&H4F53FF&\pos(726.545,901.636)}Gal Sone 2nd plate:{\c} 4 people's worth of Yakisoba
+Dialogue: 0,0:07:11.41,0:07:12.81,Tanaka,,0,0,0,,Yeah, let's get through this
+Dialogue: 0,0:07:12.88,0:07:14.15,Endo,,0,0,0,,He will get us right back on track
+Dialogue: 0,0:07:14.45,0:07:15.51,Tanaka,,0,0,0,,Let's count on Hamada-san
+Dialogue: 0,0:07:15.55,0:07:16.61,Pink,,0,0,0,,But you know
+Dialogue: 0,0:07:16.61,0:07:18.02,Pink,,0,0,0,,I love ginger too
+Dialogue: 0,0:07:21.05,0:07:21.92,Endo,,0,0,0,,Vacuum-san...
+Dialogue: 0,0:07:21.59,0:07:22.49,Chono,,0,0,0,,Give me a second
+Dialogue: 0,0:07:22.69,0:07:23.46,Tanaka,,0,0,0,,What's wrong?
+Dialogue: 0,0:07:23.12,0:07:24.02,Yamazaki,,0,0,0,,Hold on a minute...
+Dialogue: 0,0:07:23.79,0:07:24.76,Tanaka,,0,0,0,,When we looked away for a second...
+Dialogue: 0,0:07:24.66,0:07:25.89,Matsumoto,,0,0,0,,Are you a fucking idiot?
+Dialogue: 0,0:07:26.96,0:07:28.26,Chono,,0,0,0,,No
+Dialogue: 0,0:07:26.99,0:07:27.99,Matsumoto,,0,0,0,,You are...
+Dialogue: 0,0:07:28.39,0:07:29.19,Matsumoto,,0,0,0,,We should be {\alphaHFF}winning, at least on speed...
+Dialogue: 0,0:07:29.19,0:07:29.73,Matsumoto,,0,0,0,,We should be winning, {\alphaHFF}at least on speed...
+Dialogue: 0,0:07:29.73,0:07:30.93,Matsumoto,,0,0,0,,We should be winning, at least {\alphaHFF}on speed...
+Dialogue: 0,0:07:30.93,0:07:32.70,Matsumoto,,0,0,0,,We should be winning, at least on speed...
+Dialogue: 0,0:07:31.53,0:07:32.76,Yamazaki,,0,0,0,,Definitely, we should
+Dialogue: 0,0:07:32.60,0:07:34.73,Pink,,0,0,0,,This is so delicious!
+Dialogue: 0,0:07:32.70,0:07:33.40,Chono,,0,0,0,,Easy to {\alphaHFF}say!
+Dialogue: 0,0:07:33.40,0:07:37.37,Chono,,0,0,0,,Easy to say!
+Dialogue: 0,0:07:35.33,0:07:36.23,Matsumoto,,0,0,0,,Hurry up, man!
+Dialogue: 0,0:07:36.47,0:07:37.97,Pink,,0,0,0,,Yakisoba is delicious!
+Dialogue: 0,0:07:38.04,0:07:38.84,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:07:39.00,0:07:41.01,Yamazaki,,0,0,0,,We might give up without even finishing the sushi...
+Dialogue: 0,0:07:41.74,0:07:44.04,Endo,,0,0,0,,What should we do...
+Dialogue: 0,0:07:43.21,0:07:44.68,Yamazaki,,0,0,0,,Be the first time ever...
+Dialogue: 0,0:07:45.31,0:07:46.78,Endo,,0,0,0,,Vacuum-san
+Dialogue: 0,0:07:45.81,0:07:46.91,Tanaka,,0,0,0,,Come on, man
+Dialogue: 0,0:07:47.65,0:07:48.48,Matsumoto,,0,0,0,,All the two of you have {\alphaHFF}done is eat the sushi
+Dialogue: 0,0:07:48.48,0:07:49.08,Matsumoto,,0,0,0,,All the two of you have done is eat {\alphaHFF}the sushi
+Dialogue: 0,0:07:49.08,0:07:53.99,Matsumoto,,0,0,0,,All the two of you have done is eat the sushi
+Dialogue: 0,0:07:51.05,0:07:52.55,Yamazaki,,0,0,0,,I know!
+Dialogue: 0,0:07:52.65,0:07:53.89,Endo,,0,0,0,,I know!
+Dialogue: 0,0:07:54.45,0:07:56.25,Default,,0,0,0,,10 minutes since the start
+Dialogue: 0,0:07:56.75,0:08:03.86,Default,,0,0,0,,{\fad(300,0)\pos(381.273,903.273)}Gaki Team {\c&H57F6F1&}Sushi
+Dialogue: 0,0:07:56.75,0:08:03.86,Default,,0,0,0,,{\fad(300,0)\pos(1073.25,902.25)}Gal Sone {\c&H57F6F1&}Yakisoba
+Dialogue: 0,0:07:56.89,0:08:00.19,Default,,0,0,0,,Gal Sone is already halfway through the yakisoba
+Dialogue: 0,0:08:00.79,0:08:06.26,Default,,0,0,0,,The Gaki Team just has to finish the heavy on the jaw, squid sushi...
+Dialogue: 0,0:08:06.90,0:08:09.10,Yamazaki,,0,0,0,,Can you not just swallow it down?
+Dialogue: 0,0:08:09.10,0:08:11.44,Chono,,0,0,0,,CAN YOU DO IT?!
+Dialogue: 0,0:08:09.10,0:08:11.44,Default,,0,0,0,,{\fs40\pos(706.5,45)}Note: Since he is Hosei's junior, shouldn't say omae as it isn't polite
+Dialogue: 0,0:08:11.07,0:08:12.00,Matsumoto,,0,0,0,,Don't say "Omae"
+Dialogue: 0,0:08:12.80,0:08:13.67,Normal,,0,0,0,,He's your senpai, man!
+Dialogue: 0,0:08:14.34,0:08:17.21,Default,,0,0,0,,Vacuum decides to separate the squid
+Dialogue: 0,0:08:17.21,0:08:19.31,Default,,0,0,0,,And plans on only eating the rice
+Dialogue: 0,0:08:22.65,0:08:23.21,Hamada,,0,0,0,,You're not {\alphaHFF}Vacuum-san at all!
+Dialogue: 0,0:08:23.21,0:08:23.85,Hamada,,0,0,0,,You're not Vacuum-san {\alphaHFF}at all!
+Dialogue: 0,0:08:23.85,0:08:25.98,Hamada,,0,0,0,,You're not Vaccum-san at all!
+Dialogue: 0,0:08:26.22,0:08:27.25,Matsumoto,,0,0,0,,This is just normal...
+Dialogue: 0,0:08:26.92,0:08:28.99,Hamada,,0,0,0,,He's not sucking up anything!
+Dialogue: 0,0:08:29.25,0:08:30.46,Matsumoto,,0,0,0,,He's just the everyday
+Dialogue: 0,0:08:30.49,0:08:30.96,Matsumoto,,0,0,0,,old guy {\alphaHFF}chilling with a hostess
+Dialogue: 0,0:08:30.96,0:08:31.62,Matsumoto,,0,0,0,,old guy chilling with {\alphaHFF}a hostess
+Dialogue: 0,0:08:31.62,0:08:35.23,Matsumoto,,0,0,0,,old guy chilling with a hostess
+Dialogue: 0,0:08:33.29,0:08:34.83,Matsumoto,,0,0,0,,Just a normal bloke
+Dialogue: 0,0:08:35.13,0:08:37.50,Hamada,,0,0,0,,He's going to finish the sushi about the same time she finishes her dish...
+Dialogue: 0,0:08:37.16,0:08:39.80,Endo,,0,0,0,,She's nearly done with the yakisoba
+Dialogue: 0,0:08:40.06,0:08:41.53,Yamazaki,,0,0,0,,Who the hell gave you the nickname "Vacuum-san"
+Dialogue: 0,0:08:42.50,0:08:43.37,Chono,,0,0,0,,YOU FUCKERS DID!
+Dialogue: 0,0:08:45.64,0:08:50.17,Default,,0,0,0,,{\fs40\pos(686.25,54)}Note: Talking about how he can't suck anything up
+Dialogue: 0,0:08:45.64,0:08:46.20,Matsumoto,,0,0,0,,Coro-coro, {\alphaHFF}Coro-coro
+Dialogue: 0,0:08:46.20,0:08:50.17,Matsumoto,,0,0,0,,Coro-coro, Coro-coro.
+Dialogue: 0,0:08:46.44,0:08:47.67,Yamazaki,,0,0,0,,Yeah he's right
+Dialogue: 0,0:08:48.21,0:08:49.37,Yamazaki,,0,0,0,,You really are...
+Dialogue: 0,0:08:50.21,0:08:52.28,Normal,,0,0,0,,Why do you have to be such a disappointment?
+Dialogue: 0,0:08:52.38,0:08:53.18,Endo,,0,0,0,,Just the squid left now
+Dialogue: 0,0:08:53.48,0:08:55.45,Default,,0,0,0,,She easily finishes the yakisoba
+Dialogue: 0,0:08:55.25,0:09:00.29,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(728.182,805.091)}Gal Sone
+Dialogue: 0,0:08:55.25,0:09:00.29,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(723.273,906.546)}4 people's worth of yakisoba: 12 minutes 58 seconds
+Dialogue: 0,0:08:55.81,0:09:00.18,Default,,0,0,0,,In just under 13 minutes, she flushed 2kg worth of food into her stomach
+Dialogue: 0,0:09:01.15,0:09:02.02,Yamazaki,,0,0,0,,Vacuum!
+Dialogue: 0,0:09:01.52,0:09:02.29,Tanaka,,0,0,0,,Vacuum!
+Dialogue: 0,0:09:02.35,0:09:03.19,Endo,,0,0,0,,Here comes the next one!
+Dialogue: 0,0:09:03.89,0:09:10.06,Default,,0,0,0,,{\fad(300,300)\fs60\fnBookman old Style\c&H4F53FF&\pos(703.636,896.727)}Gal Sone {\c}3rd dish: 5 servings of hamburger
+Dialogue: 0,0:09:04.19,0:09:05.62,Pink,,0,0,0,,This looks delicious!
+Dialogue: 0,0:09:06.09,0:09:08.19,Hamada,,0,0,0,,Damn, it's huge!
+Dialogue: 0,0:09:07.56,0:09:10.03,Matsumoto,,0,0,0,,How is it in the centre? It better have been cooked right through.
+Dialogue: 0,0:09:10.13,0:09:11.70,Hamada,,0,0,0,,It's fine, absolutely fine
+Dialogue: 0,0:09:11.66,0:09:13.10,Endo,,0,0,0,,It's so thick
+Dialogue: 0,0:09:13.23,0:09:13.87,Matsumoto,,0,0,0,,I know...
+Dialogue: 0,0:09:13.50,0:09:14.60,Chono,,0,0,0,,Do I have to finish this?
+Dialogue: 0,0:09:13.87,0:09:14.87,Hamada,,0,0,0,,There she goes...
+Dialogue: 0,0:09:14.77,0:09:15.67,Matsumoto,,0,0,0,,Of course you do!
+Dialogue: 0,0:09:15.87,0:09:17.54,Pink,,0,0,0,,So delicious!
+Dialogue: 0,0:09:16.50,0:09:17.44,Matsumoto,,0,0,0,,Obviously you idiot!
+Dialogue: 0,0:09:17.64,0:09:20.57,Matsumoto,,0,0,0,,Hurry up and eat the squid, stop eating it 1 at a time!
+Dialogue: 0,0:09:20.64,0:09:21.81,Tanaka,,0,0,0,,Come on man!
+Dialogue: 0,0:09:20.74,0:09:21.81,Endo,,0,0,0,,Just go for it!
+Dialogue: 0,0:09:21.81,0:09:22.91,Yamazaki,,0,0,0,,Eat them both at once
+Dialogue: 0,0:09:22.24,0:09:24.54,Tanaka,,0,0,0,,Come on
+Dialogue: 0,0:09:23.58,0:09:24.11,Chono,,0,0,0,,{\pos(715.5,850.75)}I can't eat as much {\alphaHFF}squid as I thought!
+Dialogue: 0,0:09:24.11,0:09:24.74,Chono,,0,0,0,,{\pos(715.5,850.75)}I can't eat as much squid {\alphaHFF}as I thought!
+Dialogue: 0,0:09:24.74,0:09:26.88,Chono,,0,0,0,,{\pos(715.5,850.75)}I can't eat as much squid as I thought!
+Dialogue: 0,0:09:26.91,0:09:27.75,Matsumoto,,0,0,0,,What the hell man..?
+Dialogue: 0,0:09:27.98,0:09:31.48,Default,,0,0,0,,Gal Sone tastes and eats the food...
+Dialogue: 0,0:09:31.48,0:09:34.62,Default,,0,0,0,,You don't sense she is struggling at all with all this food...
+Dialogue: 0,0:09:37.19,0:09:40.06,Matsumoto,,0,0,0,,You're putting on way too much soy sauce!
+Dialogue: 0,0:09:38.39,0:09:39.72,Yamazaki,,0,0,0,,If there were legs, you wouldn't be able to eat that
+Dialogue: 0,0:09:42.36,0:09:44.26,Yamazaki,,0,0,0,,The taste would be too strong
+Dialogue: 0,0:09:44.40,0:09:49.13,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(728.182,805.091)}Gaki Team
+Dialogue: 0,0:09:44.40,0:09:49.13,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(720,909.818)}35 pieces of sushi: 14 minutes 23 seconds
+Dialogue: 0,0:09:47.03,0:09:48.27,Endo,,0,0,0,,Hamada-san, we are counting on you!
+Dialogue: 0,0:09:47.87,0:09:48.63,Tanaka,,0,0,0,,We are counting on you!
+Dialogue: 0,0:09:49.33,0:09:56.14,Default,,0,0,0,,{\fad(300,300)\fs60\fnBookman old Style\c&HF85A97&\pos(703.636,896.727)}Gaki Team {\c}2nd dish: 4 people's worth of yakisoba
+Dialogue: 0,0:09:49.53,0:09:54.61,Default,,0,0,0,,They finally finish the sushi, and now Hamada takes on the yakisoba
+Dialogue: 0,0:09:54.61,0:09:57.08,Default,,0,0,0,,Will he be able to close the gap?
+Dialogue: 0,0:09:57.74,0:09:58.58,Matsumoto,,0,0,0,,Go for it
+Dialogue: 0,0:10:02.65,0:10:03.78,Tanaka,,0,0,0,,Great!
+Dialogue: 0,0:10:05.32,0:10:07.72,Matsumoto,,0,0,0,,This is what I am talking about
+Dialogue: 0,0:10:06.48,0:10:07.42,Tanaka,,0,0,0,,This right here!
+Dialogue: 0,0:10:07.75,0:10:08.89,Yamazaki,,0,0,0,,Amazing, just as we expected
+Dialogue: 0,0:10:09.29,0:10:12.42,Matsumoto,,0,0,0,,And... he's stopped...
+Dialogue: 0,0:10:12.69,0:10:13.79,Yamazaki,,0,0,0,,Hang on, you had one mouthful!
+Dialogue: 0,0:10:14.49,0:10:15.63,Matsumoto,,0,0,0,,He ate a bit too much on his first bite...
+Dialogue: 0,0:10:16.26,0:10:17.63,Yamazaki,,0,0,0,,Come on!
+Dialogue: 0,0:10:16.96,0:10:17.80,Chono,,0,0,0,,Are you serious?!
+Dialogue: 0,0:10:17.73,0:10:19.40,Endo,,0,0,0,,That was a bit quick
+Dialogue: 0,0:10:18.23,0:10:19.50,Yamazaki,,0,0,0,,At least this part!
+Dialogue: 0,0:10:18.73,0:10:21.50,Matsumoto,,0,0,0,,He just took a bit too big a bite on the first one, give him a second...
+Dialogue: 0,0:10:21.27,0:10:22.37,Endo,,0,0,0,,That was a bit quick...
+Dialogue: 0,0:10:26.00,0:10:27.24,Tanaka,,0,0,0,,A bit quick to be drinking water...
+Dialogue: 0,0:10:26.64,0:10:27.44,Endo,,0,0,0,,Yeah, isn't it?
+Dialogue: 0,0:10:27.71,0:10:29.21,Matsumoto,,0,0,0,,You shouldn't drink too much water
+Dialogue: 0,0:10:28.51,0:10:30.11,Hamada,,0,0,0,,{\pos(695.25,774.25)}Just before, {\alphaHFF}I had a beef pilaf with Suga-chan...
+Dialogue: 0,0:10:30.11,0:10:30.64,Hamada,,0,0,0,,{\pos(695.25,774.25)}Just before, I had a {\alphaHFF}beef pilaf with Suga-chan...
+Dialogue: 0,0:10:30.64,0:10:31.28,Hamada,,0,0,0,,{\pos(695.25,774.25)}Just before, I had a beef pilaf {\alphaHFF}with Suga-chan...
+Dialogue: 0,0:10:31.28,0:10:33.71,Hamada,,0,0,0,,{\pos(695.25,774.25)}Just before, I had a beef pilaf with Suga-chan...
+Dialogue: 0,0:10:31.71,0:10:33.08,Matsumoto,,0,0,0,,What the hell...
+Dialogue: 0,0:10:33.38,0:10:34.91,Yamazaki,,0,0,0,,Why did you eat a beef pilaf?
+Dialogue: 0,0:10:34.75,0:10:37.45,Endo,,0,0,0,,Suga-san, why didn't you stop him? You knew we were going to do this today...
+Dialogue: 0,0:10:37.45,0:10:40.45,Matsumoto,,0,0,0,,I know...
+Dialogue: 0,0:10:40.85,0:10:42.99,Endo,,0,0,0,,It's not going down that slowly...
+Dialogue: 0,0:10:42.55,0:10:43.52,Tanaka,,0,0,0,,It's good
+Dialogue: 0,0:10:44.89,0:10:46.56,Chono,,0,0,0,,Oh dear...
+Dialogue: 0,0:10:47.66,0:10:48.56,Normal,,0,0,0,,He put his chopsticks down...
+Dialogue: 0,0:10:48.83,0:10:49.96,Normal,,0,0,0,,He put it down...
+Dialogue: 0,0:10:49.56,0:10:50.50,Matsumoto,,0,0,0,,{\pos(717.75,853)}He looks like {\alphaHFF}he's in hell...
+Dialogue: 0,0:10:50.50,0:10:53.30,Matsumoto,,0,0,0,,{\pos(717.75,853)}He looks like he's in hell...
+Dialogue: 0,0:10:53.26,0:10:54.97,Yamazaki,,0,0,0,,You cannot press the button whatever happens...
+Dialogue: 0,0:10:54.57,0:10:55.30,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:10:55.47,0:10:56.80,Yamazaki,,0,0,0,,You already ate that much?!
+Dialogue: 0,0:10:57.37,0:10:58.50,Chono,,0,0,0,,That's amazing...
+Dialogue: 0,0:11:00.10,0:11:00.57,Matsumoto,,0,0,0,,Your lips are so  {\alphaHFF}fucking shiny...
+Dialogue: 0,0:11:00.57,0:11:04.08,Matsumoto,,0,0,0,,Your lips are so fucking shiny...
+Dialogue: 0,0:11:03.71,0:11:05.54,Yamazaki,,0,0,0,,Honestly, it's quite disgusting to look at...
+Dialogue: 0,0:11:06.54,0:11:08.58,Hamada,,0,0,0,,You guys eat this then! You'll get shiny lips too!
+Dialogue: 0,0:11:09.28,0:11:10.25,Matsumoto,,0,0,0,,Naa...
+Dialogue: 0,0:11:10.98,0:11:12.32,Default,,0,0,0,,20 minutes in
+Dialogue: 0,0:11:11.48,0:11:15.62,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(703.636,896.727)}Something happens to Gal Sone's body
+Dialogue: 0,0:11:12.32,0:11:15.49,Default,,0,0,0,,Here, something strange happens to Gal Sone's body
+Dialogue: 0,0:11:16.42,0:11:18.26,Hamada,,0,0,0,,You're going to undo your belt?
+Dialogue: 0,0:11:18.62,0:11:20.26,Pink,,0,0,0,,Yes, just loosen it a bit
+Dialogue: 0,0:11:19.26,0:11:20.32,Hamada,,0,0,0,,Just take your pants off
+Dialogue: 0,0:11:25.06,0:11:25.86,Endo,,0,0,0,,Maybe it IS tough for {\alphaHFF}Gal Sone-chan too...
+Dialogue: 0,0:11:25.86,0:11:28.23,Endo,,0,0,0,,Maybe it IS tough for Gal Sone-chan too...
+Dialogue: 0,0:11:26.90,0:11:27.53,Matsumoto,,0,0,0,,Maybe, yeah.
+Dialogue: 0,0:11:27.33,0:11:29.63,Yamazaki,,0,0,0,,I wonder, let's just observe for a while longer.
+Dialogue: 0,0:11:29.50,0:11:30.84,Endo,,0,0,0,,Yeah, let's do that
+Dialogue: 0,0:11:31.94,0:11:33.77,Matsumoto,,0,0,0,,He's got the weird sweats...
+Dialogue: 0,0:11:32.87,0:11:33.60,Yamazaki,,0,0,0,,Holy shit
+Dialogue: 0,0:11:33.44,0:11:35.04,Normal,,0,0,0,,I totally feel you
+Dialogue: 0,0:11:33.84,0:11:35.24,Yamazaki,,0,0,0,,He's sweating so much
+Dialogue: 0,0:11:34.91,0:11:35.47,Tanaka,,0,0,0,,Yeah...
+Dialogue: 0,0:11:35.71,0:11:36.77,Matsumoto,,0,0,0,,The weird sweats...
+Dialogue: 0,0:11:36.94,0:11:38.41,Pink,,0,0,0,,This hamburger is so nice!
+Dialogue: 0,0:11:38.41,0:11:39.44,Normal,,0,0,0,,He said, "I can't"
+Dialogue: 0,0:11:39.44,0:11:41.21,Yamazaki,,0,0,0,,Don't look him in the eye...
+Dialogue: 0,0:11:40.38,0:11:41.71,Tanaka,,0,0,0,,Yeah, don't
+Dialogue: 0,0:11:41.81,0:11:42.98,Yamazaki,,0,0,0,,Don't look at him
+Dialogue: 0,0:11:42.98,0:11:44.28,Tanaka,,0,0,0,,Don't look at him, Inomoto!
+Dialogue: 0,0:11:43.82,0:11:45.02,Yamazaki,,0,0,0,,Don't look him in the eyes.
+Dialogue: 0,0:11:44.72,0:11:45.35,Tanaka,,0,0,0,,Don't do it!
+Dialogue: 0,0:11:45.35,0:11:46.28,Normal,,0,0,0,,He was saying something.
+Dialogue: 0,0:11:45.85,0:11:46.52,Tanaka,,0,0,0,,Don't!
+Dialogue: 0,0:11:46.78,0:11:47.99,Matsumoto,,0,0,0,,He touched me!
+Dialogue: 0,0:11:48.22,0:11:49.15,Matsumoto,,0,0,0,,He touched me!
+Dialogue: 0,0:11:49.99,0:11:51.22,Matsumoto,,0,0,0,,Something touched me right here...
+Dialogue: 0,0:11:50.99,0:11:51.82,Endo,,0,0,0,,No no...
+Dialogue: 0,0:11:51.79,0:11:53.79,Matsumoto,,0,0,0,,Shit, it stinks!
+Dialogue: 0,0:11:51.99,0:11:52.59,Yamazaki,,0,0,0,,Just your imagination
+Dialogue: 0,0:11:55.59,0:11:57.06,Matsumoto,,0,0,0,,Maybe put some mayonnaise on.
+Dialogue: 0,0:11:56.79,0:11:59.10,Hamada,,0,0,0,,It won't do anything!
+Dialogue: 0,0:12:00.00,0:12:02.20,Yamazaki,,0,0,0,,You've only eaten one person's worth...
+Dialogue: 0,0:12:01.97,0:12:02.77,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:12:02.17,0:12:03.27,Matsumoto,,0,0,0,,You really are...
+Dialogue: 0,0:12:02.80,0:12:04.70,Hamada,,0,0,0,,That's good, if I ate one person's worth
+Dialogue: 0,0:12:04.74,0:12:05.70,Yamazaki,,0,0,0,,That's not enough
+Dialogue: 0,0:12:06.07,0:12:07.71,Hamada,,0,0,0,,What the hell is wrong with this? It's not coming out that well!
+Dialogue: 0,0:12:10.01,0:12:10.98,Hamada,,0,0,0,,What the hell is this?!
+Dialogue: 0,0:12:11.38,0:12:13.71,Matsumoto,,0,0,0,,But if you put too much on...
+Dialogue: 0,0:12:14.85,0:12:18.65,Endo,,0,0,0,,She's nearly finished the hamburger, just the carrots left
+Dialogue: 0,0:12:18.25,0:12:20.95,Matsumoto,,0,0,0,,Don't you ever say you love yakisoba again...
+Dialogue: 0,0:12:24.66,0:12:26.96,Endo,,0,0,0,,He was saying "I'm going for it" at the beginning..
+Dialogue: 0,0:12:25.09,0:12:27.83,Matsumoto,,0,0,0,,What happened to the pace at the start?
+Dialogue: 0,0:12:29.16,0:12:35.10,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(728.182,805.091)}Gal Sone
+Dialogue: 0,0:12:29.16,0:12:35.10,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\cc\3cFFFFFF\pos(728.182,906.546)}5 servings of hamburger: 21 minutes 19 seconds
+Dialogue: 0,0:12:29.99,0:12:33.80,Default,,0,0,0,,Gal Sone eats 3kg worth of food in less than 22 minutes.
+Dialogue: 0,0:12:34.03,0:12:35.20,Tanaka,,0,0,0,,This...
+Dialogue: 0,0:12:34.23,0:12:37.20,Matsumoto,,0,0,0,,There's no way we can win
+Dialogue: 0,0:12:35.27,0:12:36.43,Endo,,0,0,0,,This is bad
+Dialogue: 0,0:12:36.60,0:12:42.31,Default,,0,0,0,,{\fs60\fnBookman old Style\i1\c&H000000&\3c&H4657DF&\move(2141.272,811.636,-641.272,811.636,25,5698)}HELP ME, VACUUM-SAN!
+Dialogue: 0,0:12:38.14,0:12:39.00,Tanaka,,0,0,0,,HE'S PUSHED IT!
+Dialogue: 0,0:12:39.70,0:12:41.04,Yamazaki,,0,0,0,,Okay!
+Dialogue: 0,0:12:41.11,0:12:42.41,Matsumoto,,0,0,0,,Here's where it really begins, Vacuum!
+Dialogue: 0,0:12:42.67,0:12:43.57,Tanaka,,0,0,0,,Go get it!
+Dialogue: 0,0:12:44.54,0:12:48.11,Default,,0,0,0,,His second appearance, Vacuum Fujiwara reappears!
+Dialogue: 0,0:12:48.91,0:12:53.12,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&H5355FF&\pos(698.727,747.818)}Gal Sone {\c}4th dish: 3 people's worth of curry
+Dialogue: 0,0:12:49.35,0:12:52.82,Default,,0,0,0,,Gal Sone tackles the 4th dish, 3 people's worth of curry.
+Dialogue: 0,0:12:53.82,0:12:54.89,Matsumoto,,0,0,0,,Uh oh...
+Dialogue: 0,0:12:57.09,0:12:57.76,Yamazaki,,0,0,0,,The image of Vacuum{\alphaHFF} I've become accustomed to seeing
+Dialogue: 0,0:12:57.76,0:13:00.53,Yamazaki,,0,0,0,,The image of Vacuum I've become accustomed to seeing
+Dialogue: 0,0:12:59.42,0:13:00.42,Endo,,0,0,0,,This freezing part right?
+Dialogue: 0,0:13:00.83,0:13:02.03,Yamazaki,,0,0,0,,I see him like this often
+Dialogue: 0,0:13:01.96,0:13:03.23,Pink,,0,0,0,,{\pos(693,761.75)}But Vacuum-san, isn't the {\alphaHFF}yakisoba really easy to eat?
+Dialogue: 0,0:13:03.23,0:13:05.86,Pink,,0,0,0,,{\pos(693,761.75)}But Vacuum-san, isn't the yakisoba really easy to eat?
+Dialogue: 0,0:13:05.96,0:13:06.86,Chono,,0,0,0,,Is it?
+Dialogue: 0,0:13:09.03,0:13:10.57,Endo,,0,0,0,,Your answer isn't "Yes, you're right"?
+Dialogue: 0,0:13:13.37,0:13:15.37,Hamada,,0,0,0,,Damn, this is amazing
+Dialogue: 0,0:13:14.01,0:13:16.37,Yamazaki,,0,0,0,,Look at the pace she is going at!
+Dialogue: 0,0:13:16.97,0:13:18.08,Yamazaki,,0,0,0,,This is seriously bad!
+Dialogue: 0,0:13:18.34,0:13:19.81,Matsumoto,,0,0,0,,She's getting into it
+Dialogue: 0,0:13:19.58,0:13:20.75,Endo,,0,0,0,,Yeah...
+Dialogue: 0,0:13:21.01,0:13:22.15,Pink,,0,0,0,,The curry has lots of meat and{\alphaHFF} veg in it, so it's delicious
+Dialogue: 0,0:13:22.15,0:13:25.18,Pink,,0,0,0,,The curry has lots of meat and veg in it, so it's delicious
+Dialogue: 0,0:13:22.78,0:13:23.65,Matsumoto,,0,0,0,,For real?
+Dialogue: 0,0:13:23.92,0:13:24.82,Yamazaki,,0,0,0,,Is she serious?
+Dialogue: 0,0:13:24.62,0:13:25.82,Endo,,0,0,0,,Amazing...
+Dialogue: 0,0:13:26.62,0:13:27.59,Endo,,0,0,0,,Vacuum-san!
+Dialogue: 0,0:13:27.49,0:13:29.12,Matsumoto,,0,0,0,,He's like seriously...
+Dialogue: 0,0:13:28.59,0:13:30.05,Tanaka,,0,0,0,,Vacuum!
+Dialogue: 0,0:13:29.02,0:13:30.09,Endo,,0,0,0,,Vacuum-san!
+Dialogue: 0,0:13:30.35,0:13:33.52,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(705.273,854.182)}Vacuum Fujiwara not functioning at all
+Dialogue: 0,0:13:31.36,0:13:32.62,Tanaka,,0,0,0,,Vacuum!
+Dialogue: 0,0:13:32.46,0:13:33.89,Yamazaki,,0,0,0,,Vacuum-san
+Dialogue: 0,0:13:34.06,0:13:36.33,Yamazaki,,0,0,0,,he's just scooping it up and putting it back
+Dialogue: 0,0:13:36.63,0:13:38.16,Hamada,,0,0,0,,This is it
+Dialogue: 0,0:13:37.16,0:13:40.36,Matsumoto,,0,0,0,,I got it, let's just keep rotating then
+Dialogue: 0,0:13:40.26,0:13:40.90,Yamazaki,,0,0,0,,Yeah
+Dialogue: 0,0:13:41.27,0:13:42.10,Normal,,0,0,0,,Eat a bit, and then
+Dialogue: 0,0:13:41.90,0:13:42.80,Matsumoto,,0,0,0,,Then rotate
+Dialogue: 0,0:13:42.93,0:13:47.94,Default,,0,0,0,,{\fad()\fs60\bord0\shad0\fnBookman old Style\c&HFF83B2&\3cFFFFFF\pos(464.727,96.546)}Gaki Team
+Dialogue: 0,0:13:42.97,0:13:47.94,Default,,0,0,0,,{\fad(500,0)\fs60\fnBookman old Style\c&H066E00&\3c&H6FFFFA&\pos(734.727,844.364)}Change the rules so they can keep rotating
+Dialogue: 0,0:13:43.30,0:13:47.97,Default,,0,0,0,,Gaki Team changes the rules so they can keep rotating so the battle goes on.
+Dialogue: 0,0:13:48.31,0:13:53.48,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H00009A&\3cFFFFFF\pos(261.818,756)}After this
+Dialogue: 0,0:13:48.31,0:13:53.48,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&HB50061&\3cFFFFFF\pos(723.273,870.546)}Matsumoto makes a miracle happen!!
+Dialogue: 0,0:13:48.74,0:13:53.08,Default,,0,0,0,,And finally, Matsumoto appears. Will a miracle happen?!
+Dialogue: 0,0:13:54.48,0:13:56.41,Yamazaki,,0,0,0,,Get out, Vacuum-san. Matsumoto-san, go
+Dialogue: 0,0:13:56.41,0:13:57.58,Normal,,0,0,0,,Let's have Vacuum rest.
+Dialogue: 0,0:13:57.82,0:14:00.79,Default,,0,0,0,,They change the rules, and Matsumoto goes for his first attack
+Dialogue: 0,0:14:00.79,0:14:02.85,Default,,0,0,0,,Will they be able to make a miracle happen here!?
+Dialogue: 0,0:14:02.92,0:14:03.65,Yamazaki,,0,0,0,,Just as expected...
+Dialogue: 0,0:14:03.52,0:14:04.36,Normal,,0,0,0,,Here we go
+Dialogue: 0,0:14:04.89,0:14:05.56,Endo,,0,0,0,,Amazing
+Dialogue: 0,0:14:06.16,0:14:09.49,Hamada,,0,0,0,,We need to hurry up, she's already done with her hamburger
+Dialogue: 0,0:14:08.03,0:14:09.03,Tanaka,,0,0,0,,I know
+Dialogue: 0,0:14:09.23,0:14:10.66,Endo,,0,0,0,,Should we eat till we're full?
+Dialogue: 0,0:14:10.90,0:14:13.56,Yamazaki,,0,0,0,,We just keep rotating
+Dialogue: 0,0:14:12.40,0:14:13.36,Tanaka,,0,0,0,,Rotate?
+Dialogue: 0,0:14:14.17,0:14:16.50,Yamazaki,,0,0,0,,Yeah, otherwise we can't win
+Dialogue: 0,0:14:15.17,0:14:16.10,Tanaka,,0,0,0,,Yeah, let's do that
+Dialogue: 0,0:14:16.73,0:14:18.24,Hamada,,0,0,0,,You're not that fucking fast!
+Dialogue: 0,0:14:21.74,0:14:23.31,Normal,,0,0,0,,He got SO angry at him!
+Dialogue: 0,0:14:23.51,0:14:24.21,Hamada,,0,0,0,,OI
+Dialogue: 0,0:14:24.94,0:14:26.34,Normal,,0,0,0,,Do you have to get that angry?
+Dialogue: 0,0:14:26.14,0:14:27.11,Endo,,0,0,0,,Apparently so...
+Dialogue: 0,0:14:26.98,0:14:28.65,Hamada,,0,0,0,,You're lips are fucking shiny too!
+Dialogue: 0,0:14:30.41,0:14:31.42,Matsumoto,,0,0,0,,It &£(*£(*...
+Dialogue: 0,0:14:31.42,0:14:31.95,Hamada,,0,0,0,,What?
+Dialogue: 0,0:14:32.05,0:14:35.69,Matsumoto,,0,0,0,,{\clip(517.5,1008,517,1080)\t(21,888,\clip(517.5,1008,918,1080))}It won't go down...
+Dialogue: 0,0:14:36.99,0:14:37.89,Yamazaki,,0,0,0,,She's finished the curry!
+Dialogue: 0,0:14:37.29,0:14:38.29,Hamada,,0,0,0,,The curry!
+Dialogue: 0,0:14:39.32,0:14:40.39,Tanaka,,0,0,0,,She's basically done
+Dialogue: 0,0:14:39.36,0:14:40.16,Yamazaki,,0,0,0,,Shit
+Dialogue: 0,0:14:40.09,0:14:41.49,Hamada,,0,0,0,,Yama-chan, swap in
+Dialogue: 0,0:14:41.13,0:14:41.76,Tanaka,,0,0,0,,Zaki-san!
+Dialogue: 0,0:14:42.76,0:14:44.06,Tanaka,,0,0,0,,Let's just keep rotating
+Dialogue: 0,0:14:47.57,0:14:48.60,Hamada,,0,0,0,,It's hard.
+Dialogue: 0,0:14:48.43,0:14:49.57,Tanaka,,0,0,0,,I see...
+Dialogue: 0,0:14:51.87,0:14:55.51,Hamada,,0,0,0,,You're just moving your hands!
+Dialogue: 0,0:14:54.97,0:14:56.01,Endo,,0,0,0,,Come on...
+Dialogue: 0,0:14:56.14,0:14:57.21,Matsumoto,,0,0,0,,There's no point in {\alphaHFF}gathering it all to the centre
+Dialogue: 0,0:14:57.21,0:14:59.94,Matsumoto,,0,0,0,,There's no point in gathering it all to the centre
+Dialogue: 0,0:14:58.68,0:15:01.05,Endo,,0,0,0,,You got to eat all of that!
+Dialogue: 0,0:15:00.61,0:15:02.48,Matsumoto,,0,0,0,,Is there a point in doing this?
+Dialogue: 0,0:15:02.65,0:15:04.95,Hamada,,0,0,0,,He's trying to show he's doing something
+Dialogue: 0,0:15:04.32,0:15:05.62,Tanaka,,0,0,0,,He's trying to make it look like...
+Dialogue: 0,0:15:06.45,0:15:07.35,Pink,,0,0,0,,That was delicious
+Dialogue: 0,0:15:07.55,0:15:08.92,Hamada,,0,0,0,,She's already done
+Dialogue: 0,0:15:09.79,0:15:15.33,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(711.818,801.818)}Gal Sone
+Dialogue: 0,0:15:09.79,0:15:15.33,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(716.727,909.818)}3 people's worth of curry: 24 minutes 50 seconds
+Dialogue: 0,0:15:10.66,0:15:12.22,Endo,,0,0,0,,Can we not just eat the next dish together?
+Dialogue: 0,0:15:12.46,0:15:14.26,Matsumoto,,0,0,0,,Didn't the curry disappear like really quickly?!
+Dialogue: 0,0:15:14.59,0:15:18.63,Default,,0,0,0,,To counter the super speed Gal Sone ate the curry
+Dialogue: 0,0:15:16.46,0:15:21.53,Default,,0,0,0,,{\fad(500,0)\fs60\fnBookman old Style\c&H066E00&\3c&H6FFFFA&\pos(724.909,860.728)}Rule change- they can all eat together!
+Dialogue: 0,0:15:18.63,0:15:21.37,Default,,0,0,0,,Gaki Team changes the rules and eat the food together!
+Dialogue: 0,0:15:22.23,0:15:25.87,Default,,0,0,0,,Gal Sone seems comfortable and starts on the 10 people worth of cake
+Dialogue: 0,0:15:22.50,0:15:26.50,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&H5355FF&\pos(706.909,685.636)}Gal Sone {\c}5th dish: 10 pieces of cake
+Dialogue: 0,0:15:27.20,0:15:27.87,Matsumoto,,0,0,0,,Good
+Dialogue: 0,0:15:27.81,0:15:28.34,Yamazaki,,0,0,0,,You're doing well
+Dialogue: 0,0:15:28.37,0:15:29.41,Matsumoto,,0,0,0,,Cocorico are doing well
+Dialogue: 0,0:15:29.97,0:15:31.74,Matsumoto,,0,0,0,,Okay, great.
+Dialogue: 0,0:15:30.21,0:15:31.18,Hamada,,0,0,0,,We're done
+Dialogue: 0,0:15:31.94,0:15:36.58,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(697.091,806.727)}Gaki Team
+Dialogue: 0,0:15:31.94,0:15:36.58,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(698.727,906.545)}4 people's worth of yakisoba: 25 minutes 49 seconds
+Dialogue: 0,0:15:32.38,0:15:33.54,Matsumoto,,0,0,0,,Good
+Dialogue: 0,0:15:32.91,0:15:34.15,Hamada,,0,0,0,,Endo, sit and keep eating!
+Dialogue: 0,0:15:36.15,0:15:36.85,Matsumoto,,0,0,0,,There it is
+Dialogue: 0,0:15:36.15,0:15:37.25,Tanaka,,0,0,0,,Go, Endo!
+Dialogue: 0,0:15:37.38,0:15:38.12,Matsumoto,,0,0,0,,His mask slips...
+Dialogue: 0,0:15:38.75,0:15:39.82,Tanaka,,0,0,0,,Go, Endo!
+Dialogue: 0,0:15:39.95,0:15:41.35,Hamada,,0,0,0,,Come on, cut it up
+Dialogue: 0,0:15:41.39,0:15:42.95,Matsumoto,,0,0,0,,Cut it up, okay.
+Dialogue: 0,0:15:42.62,0:15:44.16,Yamazaki,,0,0,0,,Yeah, cut, cut
+Dialogue: 0,0:15:42.92,0:15:47.79,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&HFB5C93&\pos(695.454,903.272)}Gaki Team {\c}3rd Dish: 5 servings of hamburger
+Dialogue: 0,0:15:44.19,0:15:45.29,Tanaka,,0,0,0,,Go go.
+Dialogue: 0,0:15:45.29,0:15:46.36,Hamada,,0,0,0,,It's huge!
+Dialogue: 0,0:15:46.42,0:15:47.99,Endo,,0,0,0,,This is really big!
+Dialogue: 0,0:15:46.42,0:15:47.56,Tanaka,,0,0,0,,Cut it so it's easier to eat
+Dialogue: 0,0:15:48.03,0:15:48.79,Tanaka,,0,0,0,,Make sure it's easy to eat
+Dialogue: 0,0:15:50.49,0:15:51.10,Endo,,0,0,0,,Let's go one piece {\alphaHFF}per person
+Dialogue: 0,0:15:51.10,0:15:54.17,Endo,,0,0,0,,Let's go one piece per person
+Dialogue: 0,0:15:54.17,0:15:56.20,Endo,,0,0,0,,Yeah?
+Dialogue: 0,0:15:56.10,0:15:57.07,Endo,,0,0,0,,Please?
+Dialogue: 0,0:15:57.70,0:16:03.04,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(374.727,906.545)}Gaki Team {\c&H50F3F3&}- Hamburger
+Dialogue: 0,0:15:57.70,0:16:03.04,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(1073.454,901.636)}Gal Sone {\c&H4FF4FE&}- Cake
+Dialogue: 0,0:16:00.60,0:16:01.21,Hamada,,0,0,0,,Still..
+Dialogue: 0,0:16:01.21,0:16:02.04,Endo,,0,0,0,,That isn't the last dish right?
+Dialogue: 0,0:16:01.91,0:16:03.11,Yamazaki,,0,0,0,,We've still got curry
+Dialogue: 0,0:16:03.17,0:16:05.34,Endo,,0,0,0,,Go for that one.
+Dialogue: 0,0:16:04.41,0:16:04.81,Matsumoto,,0,0,0,,{\pos(738.021,864.455)}Why is Vacuum-san {\alphaHFF}not eating at all?
+Dialogue: 0,0:16:04.81,0:16:05.48,Matsumoto,,0,0,0,,{\pos(738.021,864.455)}Why is Vacuum-san not eating {\alphaHFF}at all?
+Dialogue: 0,0:16:05.48,0:16:09.15,Matsumoto,,0,0,0,,{\pos(738.021,864.455)}Why is Vacuum-san not eating at all?
+Dialogue: 0,0:16:07.41,0:16:08.08,Tanaka,,0,0,0,,Vacuum!
+Dialogue: 0,0:16:08.01,0:16:09.01,Matsumoto,,0,0,0,,What the hell?
+Dialogue: 0,0:16:09.88,0:16:13.32,Hamada,,0,0,0,,Yama-chan, don't take the small pieces, take one of the huge ones
+Dialogue: 0,0:16:13.25,0:16:14.12,Yamazaki,,0,0,0,,{\pos(744.573,695.909)}I've got a {\alphaHFF}small mouth...
+Dialogue: 0,0:16:14.12,0:16:16.95,Yamazaki,,0,0,0,,{\pos(744.573,695.909)}I've got a small mouth...
+Dialogue: 0,0:16:17.56,0:16:19.06,Endo,,0,0,0,,I'm eating so much of this...
+Dialogue: 0,0:16:17.92,0:16:19.09,Hamada,,0,0,0,,What the hell...
+Dialogue: 0,0:16:18.76,0:16:19.76,Tanaka,,0,0,0,,Let's go
+Dialogue: 0,0:16:21.13,0:16:22.19,Pink,,0,0,0,,Damn, they're fast
+Dialogue: 0,0:16:22.26,0:16:22.93,Tanaka,,0,0,0,,Really?
+Dialogue: 0,0:16:22.76,0:16:23.89,Endo,,0,0,0,,Half each then
+Dialogue: 0,0:16:24.36,0:16:26.60,Hamada,,0,0,0,,I'm getting really full now...
+Dialogue: 0,0:16:27.93,0:16:28.60,Yamazaki,,0,0,0,,You finish up
+Dialogue: 0,0:16:28.60,0:16:29.37,Tanaka,,0,0,0,,You can do this
+Dialogue: 0,0:16:29.57,0:16:30.33,Yamazaki,,0,0,0,,Endo, keep going
+Dialogue: 0,0:16:30.17,0:16:31.37,Endo,,0,0,0,,Me?
+Dialogue: 0,0:16:31.54,0:16:32.20,Yamazaki,,0,0,0,,Go
+Dialogue: 0,0:16:32.40,0:16:33.17,Hamada,,0,0,0,,We're done
+Dialogue: 0,0:16:34.51,0:16:37.07,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(697.091,798.545)}Gaki Team
+Dialogue: 0,0:16:34.51,0:16:37.07,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(721.432,904.909)}5 servings of hamburger: 27 minutes 30 seconds
+Dialogue: 0,0:16:34.81,0:16:37.21,Default,,0,0,0,,Gaki Team, finally finish their 3rd dish
+Dialogue: 0,0:16:38.38,0:16:39.04,Hamada,,0,0,0,,Here we go
+Dialogue: 0,0:16:40.28,0:16:40.88,Hamada,,0,0,0,,Shozo, {\alphaHFF}go alone for now
+Dialogue: 0,0:16:40.88,0:16:43.21,Hamada,,0,0,0,,Shozo, go alone for now
+Dialogue: 0,0:16:42.88,0:16:43.95,Tanaka,,0,0,0,,Let us rest up for a second.
+Dialogue: 0,0:16:43.21,0:16:47.25,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(734.727,898.363)\c&HFF5D8D&}Gaki Team {\c}4th dish: 3 people's worth of curry
+Dialogue: 0,0:16:44.42,0:16:46.35,Endo,,0,0,0,,I feel like I'm doing Vacuum's job
+Dialogue: 0,0:16:47.72,0:16:48.49,Chono,,0,0,0,,No no...
+Dialogue: 0,0:16:47.92,0:16:49.42,Yamazaki,,0,0,0,,That's true
+Dialogue: 0,0:16:48.99,0:16:49.92,Endo,,0,0,0,,Come on, man
+Dialogue: 0,0:16:49.59,0:16:50.82,Tanaka,,0,0,0,,Come on Endo
+Dialogue: 0,0:16:50.89,0:16:51.96,Yamazaki,,0,0,0,,He's taken over
+Dialogue: 0,0:16:51.92,0:16:53.26,Pink,,0,0,0,,Endo-san, you eat a lot, huh?
+Dialogue: 0,0:16:53.26,0:16:54.46,Endo,,0,0,0,,You know,
+Dialogue: 0,0:16:54.46,0:16:55.96,Endo,,0,0,0,,I actually did this 8 years ago (Oogui)
+Dialogue: 0,0:16:56.13,0:16:56.89,Hamada,,0,0,0,,Just eat.
+Dialogue: 0,0:16:58.90,0:16:59.23,Endo,,0,0,0,,Jesus, man, {\alphaHFF}who cares if I just explain it quickly?
+Dialogue: 0,0:16:59.23,0:16:59.76,Endo,,0,0,0,,Jesus, man, who cares if I {\alphaHFF}just explain it quickly?
+Dialogue: 0,0:16:59.76,0:17:03.27,Endo,,0,0,0,,Jesus, man, who cares if I just explain it quickly?
+Dialogue: 0,0:17:00.87,0:17:02.60,Normal,,0,0,0,,Endo-san, come on
+Dialogue: 0,0:17:04.10,0:17:06.77,Default,,0,0,0,,30 minutes since the start
+Dialogue: 0,0:17:07.27,0:17:13.54,Default,,0,0,0,,{\fad(300,300)\fs60\fnBookman old Style\pos(713.454,878.728)}Gal Sone's pace hasn't slowed down
+Dialogue: 0,0:17:07.34,0:17:13.18,Default,,0,0,0,,Gal Sone's pace still hasn't decreased, and she's eating the cake very quickly
+Dialogue: 0,0:17:14.51,0:17:15.91,Matsumoto,,0,0,0,,She really does eat a shitload...
+Dialogue: 0,0:17:16.55,0:17:19.38,Default,,0,0,0,,Does this woman's stomach not have a limit?
+Dialogue: 0,0:17:20.22,0:17:21.85,Endo,,0,0,0,,Vacuum, swap in for me.
+Dialogue: 0,0:17:21.95,0:17:27.66,Default,,0,0,0,,{\fs60\fnBookman old Style\i1\c&H000000&\3c&H4657DF&\move(2141.272,811.636,-641.272,811.636,25,5729)}HELP ME, VACUUM-SAN!
+Dialogue: 0,0:17:22.95,0:17:24.09,Matsumoto,,0,0,0,,You should still be okay to go
+Dialogue: 0,0:17:25.09,0:17:27.19,Yamazaki,,0,0,0,,You can just eat this real quick
+Dialogue: 0,0:17:25.72,0:17:26.42,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:17:27.22,0:17:28.59,Yamazaki,,0,0,0,,It should all just go in real quickly
+Dialogue: 0,0:17:28.86,0:17:30.63,Yamazaki,,0,0,0,,You need to show us your worth here
+Dialogue: 0,0:17:29.86,0:17:31.76,Hamada,,0,0,0,,I was so full before...
+Dialogue: 0,0:17:31.76,0:17:33.66,Hamada,,0,0,0,,Like literally
+Dialogue: 0,0:17:34.17,0:17:35.47,Matsumoto,,0,0,0,,Hey, if you leave that much {\alphaHFF}rice, is the balance going to be okay? (between rice and sauce)
+Dialogue: 0,0:17:35.47,0:17:36.37,Matsumoto,,0,0,0,,Hey, if you leave that much rice, is the balance{\alphaHFF} going to be okay? (between rice and sauce)
+Dialogue: 0,0:17:36.90,0:17:37.64,Tanaka,,0,0,0,,Right?
+Dialogue: 0,0:17:36.37,0:17:38.70,Matsumoto,,0,0,0,,Hey, if you leave that much rice, is the balance going to be okay? (between rice and sauce)
+Dialogue: 0,0:17:38.04,0:17:39.37,Endo,,0,0,0,,You do love your rice
+Dialogue: 0,0:17:38.60,0:17:39.67,Tanaka,,0,0,0,,Come on
+Dialogue: 0,0:17:40.44,0:17:41.54,Matsumoto,,0,0,0,,She's really something else though...
+Dialogue: 0,0:17:41.21,0:17:42.14,Tanaka,,0,0,0,,I know
+Dialogue: 0,0:17:41.97,0:17:44.84,Matsumoto,,0,0,0,,It's nice to watch.
+Dialogue: 0,0:17:43.04,0:17:44.88,Yamazaki,,0,0,0,,Yeah, it really is
+Dialogue: 0,0:17:45.14,0:17:46.78,Normal,,0,0,0,,That all goes in her...
+Dialogue: 0,0:17:49.31,0:17:50.31,Hamada,,0,0,0,,He stopped again...
+Dialogue: 0,0:17:50.05,0:17:50.85,Endo,,0,0,0,,Not again...
+Dialogue: 0,0:17:51.52,0:17:53.02,Hamada,,0,0,0,,Vacuum-san stopped again...
+Dialogue: 0,0:17:53.32,0:17:54.65,Yamazaki,,0,0,0,,Just some random boy now.
+Dialogue: 0,0:17:54.62,0:17:55.25,Endo,,0,0,0,,Keep going, man
+Dialogue: 0,0:17:55.22,0:17:55.79,Matsumoto,,0,0,0,,{\pos(717.75,864.25)}You look like one of the{\alphaHFF}old men outside...
+Dialogue: 0,0:17:55.79,0:17:56.25,Matsumoto,,0,0,0,,{\pos(717.75,864.25)}You look like one of the old men{\alphaHFF} outside...
+Dialogue: 0,0:17:56.25,0:17:58.52,Matsumoto,,0,0,0,,{\pos(717.75,864.25)}You look like one of the old men outside...
+Dialogue: 0,0:17:58.46,0:18:00.12,Yamazaki,,0,0,0,,He's completely ignoring the potatoes
+Dialogue: 0,0:18:01.09,0:18:03.83,Matsumoto,,0,0,0,,What are you planning on doing, leaving all those potatoes to the side?
+Dialogue: 0,0:18:06.40,0:18:07.23,Hamada,,0,0,0,,He threw it to the side...
+Dialogue: 0,0:18:07.43,0:18:08.00,Matsumoto,,0,0,0,,You're never going to be able to  {\alphaHFF}escape from the reality of potatoes
+Dialogue: 0,0:18:08.00,0:18:08.97,Matsumoto,,0,0,0,,You're never going to be able to escape from the reality of {\alphaHFF}potatoes
+Dialogue: 0,0:18:08.97,0:18:11.54,Matsumoto,,0,0,0,,You're never going to be able to escape from the reality of potatoes
+Dialogue: 0,0:18:15.17,0:18:17.84,Yamazaki,,0,0,0,,It's bad our pace has gone down now
+Dialogue: 0,0:18:18.51,0:18:19.31,Endo,,0,0,0,,Who?
+Dialogue: 0,0:18:18.64,0:18:24.35,Matsumoto,,0,0,0,,{\fs60\fnBookman old Style\i1\c&H000000&\3c&H4657DF&\move(2141.272,811.636,-641.272,811.636,25,5729)}Who?
+Dialogue: 0,0:18:20.18,0:18:21.01,Endo,,0,0,0,,Who?
+Dialogue: 0,0:18:20.68,0:18:21.81,Tanaka,,0,0,0,,You're Vacuum-san!
+Dialogue: 0,0:18:21.85,0:18:22.88,Endo,,0,0,0,,Who?
+Dialogue: 0,0:18:22.51,0:18:23.61,Default,,0,0,0,,You're giving the sunglasses?
+Dialogue: 0,0:18:24.08,0:18:25.42,Tanaka,,0,0,0,,Vacuum-san!
+Dialogue: 0,0:18:25.15,0:18:28.19,Yamazaki,,0,0,0,,You don't become Vacuum-san if you wear the sunglasses you know?!
+Dialogue: 0,0:18:29.39,0:18:30.75,Matsumoto,,0,0,0,,Come on, finish it
+Dialogue: 0,0:18:30.42,0:18:31.39,Normal,,0,0,0,,He started eating again...
+Dialogue: 0,0:18:31.32,0:18:32.69,Endo,,0,0,0,,Of course
+Dialogue: 0,0:18:31.76,0:18:34.26,Matsumoto,,0,0,0,,Of course, this is awful
+Dialogue: 0,0:18:34.93,0:18:35.93,Matsumoto,,0,0,0,,That whole cake...
+Dialogue: 0,0:18:34.96,0:18:35.96,Yamazaki,,0,0,0,,Let's go
+Dialogue: 0,0:18:36.19,0:18:37.23,Matsumoto,,0,0,0,,Hold on?
+Dialogue: 0,0:18:37.26,0:18:37.80,Hamada,,0,0,0,,What?
+Dialogue: 0,0:18:37.90,0:18:38.80,Normal,,0,0,0,,Next is Okonomiyaki
+Dialogue: 0,0:18:38.23,0:18:39.63,Yamazaki,,0,0,0,,Just okonomiyaki and gyoza...
+Dialogue: 0,0:18:39.30,0:18:40.20,Tanaka,,0,0,0,,Just them
+Dialogue: 0,0:18:41.83,0:18:43.73,Yamazaki,,0,0,0,,She really eats so much
+Dialogue: 0,0:18:42.17,0:18:43.47,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:18:44.70,0:18:45.37,Tanaka,,0,0,0,,Amazing
+Dialogue: 0,0:18:45.57,0:18:48.81,Matsumoto,,0,0,0,,This isn't fake like at all as well...
+Dialogue: 0,0:18:46.57,0:18:47.64,Endo,,0,0,0,,Nope
+Dialogue: 0,0:18:47.74,0:18:48.44,Yamazaki,,0,0,0,,Amazing
+Dialogue: 0,0:18:48.81,0:18:50.88,Pink,,0,0,0,,It's delicious
+Dialogue: 0,0:18:50.61,0:18:51.41,Matsumoto,,0,0,0,,Yeah?
+Dialogue: 0,0:18:51.11,0:18:51.88,Normal,,0,0,0,,Delicious?
+Dialogue: 0,0:18:52.64,0:18:54.04,Endo,,0,0,0,,Still at this point?
+Dialogue: 0,0:18:53.61,0:18:54.91,Normal,,0,0,0,,It's amazing she can still say that
+Dialogue: 0,0:18:54.55,0:18:55.71,Matsumoto,,0,0,0,,She can still say that...
+Dialogue: 0,0:18:57.31,0:19:00.38,Default,,0,0,0,,Gal Sone eats the 10 people's worth of cake with no problem
+Dialogue: 0,0:18:58.25,0:19:02.85,Black,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\pos(716.454,805.228)}Gal Sone
+Dialogue: 0,0:18:58.25,0:19:02.85,Black,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\pos(716.454,914.728)}10 people's worth of cake: 33 minutes 42 seconds
+Dialogue: 0,0:19:00.62,0:19:02.75,Default,,0,0,0,,Meanwhile, Vacuum, who is not responding...
+Dialogue: 0,0:19:02.85,0:19:03.59,Yamazaki,,0,0,0,,What are you going to do?
+Dialogue: 0,0:19:05.26,0:19:06.06,Matsumoto,,0,0,0,,Are you serious?
+Dialogue: 0,0:19:05.32,0:19:06.36,Tanaka,,0,0,0,,Vacuum-san?
+Dialogue: 0,0:19:07.46,0:19:08.36,Matsumoto,,0,0,0,,Are you serious right now?
+Dialogue: 0,0:19:08.83,0:19:09.69,Yamazaki,,0,0,0,,Amazing..
+Dialogue: 0,0:19:09.86,0:19:14.87,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&H5357FF&\pos(715.227,896.863)}Gal Sone {\c}6th plate: 5 people's worth of okonomiyaki
+Dialogue: 0,0:19:11.00,0:19:12.20,Hamada,,0,0,0,,Oh yeah
+Dialogue: 0,0:19:12.43,0:19:13.70,Hamada,,0,0,0,,She's killing us
+Dialogue: 0,0:19:15.07,0:19:16.87,Matsumoto,,0,0,0,,Put whatever you want on
+Dialogue: 0,0:19:18.30,0:19:19.64,Matsumoto,,0,0,0,,Good good
+Dialogue: 0,0:19:19.40,0:19:20.30,Tanaka,,0,0,0,,Oh here we go
+Dialogue: 0,0:19:20.10,0:19:21.54,Matsumoto,,0,0,0,,He's just moving his hands about loads
+Dialogue: 0,0:19:21.11,0:19:21.97,Hamada,,0,0,0,,I know
+Dialogue: 0,0:19:22.54,0:19:23.24,Endo,,0,0,0,,So true
+Dialogue: 0,0:19:22.94,0:19:23.64,Hamada,,0,0,0,,I know
+Dialogue: 0,0:19:23.37,0:19:25.14,Endo,,0,0,0,,He's just trying to show he's eating a lot...
+Dialogue: 0,0:19:25.51,0:19:27.18,Hamada,,0,0,0,,He just looks fast...
+Dialogue: 0,0:19:29.25,0:19:31.62,Endo,,0,0,0,,So many unnecessary movements...
+Dialogue: 0,0:19:31.42,0:19:32.42,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:19:32.38,0:19:33.32,Normal,,0,0,0,,That's no good!
+Dialogue: 0,0:19:33.72,0:19:35.35,Matsumoto,,0,0,0,,Don't muck around!
+Dialogue: 0,0:19:34.15,0:19:35.99,Endo,,0,0,0,,Don't!
+Dialogue: 0,0:19:35.35,0:19:36.45,Normal,,0,0,0,,We can't have that!
+Dialogue: 0,0:19:36.45,0:19:38.19,Hamada,,0,0,0,,Yama-chan, you won't hold out like that
+Dialogue: 0,0:19:37.79,0:19:38.96,Endo,,0,0,0,,You've only had 3 mouthfuls...
+Dialogue: 0,0:19:39.26,0:19:40.16,Yamazaki,,0,0,0,,I'll eat all the rice
+Dialogue: 0,0:19:40.49,0:19:41.26,Hamada,,0,0,0,,All the rice?
+Dialogue: 0,0:19:41.53,0:19:42.76,Matsumoto,,0,0,0,,Wow, good stuff
+Dialogue: 0,0:19:44.50,0:19:47.23,Matsumoto,,0,0,0,,Man, whilst we were talking, she's like nearly halfway through hers...
+Dialogue: 0,0:19:46.93,0:19:48.63,Endo,,0,0,0,,Damn
+Dialogue: 0,0:19:47.03,0:19:47.93,Tanaka,,0,0,0,,Amazing
+Dialogue: 0,0:19:47.73,0:19:49.33,Yamazaki,,0,0,0,,Right, here we go
+Dialogue: 0,0:19:50.27,0:19:51.07,Matsumoto,,0,0,0,,Good
+Dialogue: 0,0:19:51.14,0:19:53.27,Hamada,,0,0,0,,Damn, the cake will be tough
+Dialogue: 0,0:19:52.94,0:19:54.34,Endo,,0,0,0,,I don't like cake...
+Dialogue: 0,0:19:54.77,0:19:55.81,Matsumoto,,0,0,0,,Good stuff
+Dialogue: 0,0:19:56.51,0:19:58.08,Hamada,,0,0,0,,Finished?
+Dialogue: 0,0:19:58.58,0:20:01.35,Default,,0,0,0,,Yamasaki does well and finishes the curry
+Dialogue: 0,0:19:58.14,0:20:01.71,Black,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\pos(716.454,805.228)}Gaki Team
+Dialogue: 0,0:19:58.14,0:20:01.71,Black,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\pos(716.454,911.728)}3 people's worth of curry: 36 minutes 43 seconds
+Dialogue: 0,0:20:04.25,0:20:09.52,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&HF75A8D&\pos(715.227,896.863)}Gaki Team {\c}5th plate: 10 people's worth of cake
+Dialogue: 0,0:20:05.08,0:20:06.52,Endo,,0,0,0,,Tanaka loves cake
+Dialogue: 0,0:20:07.08,0:20:07.82,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:20:07.85,0:20:08.45,Endo,,0,0,0,,Yep
+Dialogue: 0,0:20:09.02,0:20:11.36,Hamada,,0,0,0,,You're just moving your hands and not eating that much!
+Dialogue: 0,0:20:12.42,0:20:12.96,Yamazaki,,0,0,0,,Oh yeah
+Dialogue: 0,0:20:13.56,0:20:14.96,Matsumoto,,0,0,0,,You're just eating the cream
+Dialogue: 0,0:20:14.79,0:20:16.53,Endo,,0,0,0,,Come on, eat up
+Dialogue: 0,0:20:17.43,0:20:20.10,Default,,0,0,0,,40 minutes from the start
+Dialogue: 0,0:20:20.10,0:20:25.34,Default,,0,0,0,,Gaki Team's "altogether" tactic is working and, even though only a bit, the gap is starting to decrease
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(429,119.5)}Gaki Team
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1015.5,119.5)}Gal Sone
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(423,263.5)}Sushi {\c&H151098&} DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(415.5,368.5)}Yakisoba {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(415.5,484)}Hamburger {\c&H151098&} DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(415.5,598)}Curry {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(420,704.5)}Cake {\c&H151098&}1/5
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(415.5,812.5)}Okonomiyaki
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(414,923.5)}Gyoza
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1027.5,260.5)}Sushi {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1015.5,376)}Yakisoba {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1020,496)}Hamburger {\c&H151098&} DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1020,608.5)}Curry {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1020,712)}Cake {\c&H151098&}DONE
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1021.5,812.5)}Okonomiyaki {\c&H151098&} 3/4
+Dialogue: 0,0:20:20.13,0:20:27.14,Black,,0,0,0,,{\fad(400,0)\pos(1014,926.5)}Gyoza
+Dialogue: 0,0:20:25.77,0:20:26.90,Default,,0,0,0,,However...
+Dialogue: 0,0:20:27.84,0:20:31.04,Default,,0,0,0,,Gal Sone's pace has not dropped, even now
+Dialogue: 0,0:20:37.31,0:20:40.08,Matsumoto,,0,0,0,,You've only eaten like 2 or 3 pieces at this point...
+Dialogue: 0,0:20:45.16,0:20:46.36,Hamada,,0,0,0,,Inomoto, you go
+Dialogue: 0,0:20:46.82,0:20:47.69,Hamada,,0,0,0,,Inomoto, go
+Dialogue: 0,0:20:50.29,0:20:51.40,Matsumoto,,0,0,0,,Damn
+Dialogue: 0,0:20:51.66,0:20:53.86,Hamada,,0,0,0,,After that, Yama-chan will go
+Dialogue: 0,0:20:54.53,0:20:55.80,Yamazaki,,0,0,0,,Inomoto, eat it all
+Dialogue: 0,0:20:56.13,0:20:57.10,Yamazaki,,0,0,0,,You can do this
+Dialogue: 0,0:20:57.80,0:20:59.14,Yamazaki,,0,0,0,,You can do it all!
+Dialogue: 0,0:21:01.44,0:21:02.04,Matsumoto,,0,0,0,,Vacuum-san{\alphaHFF} hasn't said a word in about 20 minutes
+Dialogue: 0,0:21:02.04,0:21:02.64,Matsumoto,,0,0,0,,Vacuum-san hasn't said a word {\alphaHFF}in about 20 minutes
+Dialogue: 0,0:21:02.64,0:21:03.27,Matsumoto,,0,0,0,,Vacuum-san hasn't said a word in about {\alphaHFF}20 minutes
+Dialogue: 0,0:21:03.27,0:21:06.58,Matsumoto,,0,0,0,,Vacuum-san hasn't said a word in about 20 minutes
+Dialogue: 0,0:21:05.68,0:21:06.24,Matsumoto,,0,0,0,,Are you okay?
+Dialogue: 0,0:21:05.68,0:21:06.48,Endo,,0,0,0,,Vacuum-san?
+Dialogue: 0,0:21:06.38,0:21:07.04,Tanaka,,0,0,0,,Vacuum-san?
+Dialogue: 0,0:21:07.18,0:21:09.01,Hamada,,0,0,0,,She's only one mouthful away...
+Dialogue: 0,0:21:08.48,0:21:09.41,Endo,,0,0,0,,Wow!!
+Dialogue: 0,0:21:09.48,0:21:10.78,Hamada,,0,0,0,,Shall we eat altogether?
+Dialogue: 0,0:21:10.51,0:21:11.48,Yamazaki,,0,0,0,,Yeah, let's
+Dialogue: 0,0:21:11.62,0:21:15.85,Default,,0,0,0,,Gal Sone, in just over 40 minutes, has eaten 6kg worth of food
+Dialogue: 0,0:21:11.22,0:21:16.22,Black,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\pos(704.454,812.728)}Gal Sone
+Dialogue: 0,0:21:11.22,0:21:16.22,Black,,0,0,0,,{\fad(300,0)\fs58\fnBookman old Style\pos(714.204,912.478)}5 people's worth of okonomiyaki: 42 minutes 6 seconds
+Dialogue: 0,0:21:16.02,0:21:16.89,Hamada,,0,0,0,,Amazing
+Dialogue: 0,0:21:16.95,0:21:17.69,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:21:17.52,0:21:18.89,Hamada,,0,0,0,,One mouthful is so nice
+Dialogue: 0,0:21:20.52,0:21:22.79,Default,,0,0,0,,Gal Sone moves onto her final dish
+Dialogue: 0,0:21:20.02,0:21:27.63,Default,,0,0,0,,{\fad(300,0)\fs60\fnBookman old Style\c&H5357FF&\pos(715.227,896.863)}Gal Sone {\c}7th plate: 7 servings of Gyoza
+Dialogue: 0,0:21:22.79,0:21:24.06,Default,,0,0,0,,Jumbo Gyoza!
+Dialogue: 0,0:21:25.03,0:21:27.40,Default,,0,0,0,,However, here...  A problem arises.
+Dialogue: 0,0:21:28.43,0:21:29.80,Pink,,0,0,0,,It's a bit too hot,{\alphaHFF} I can't eat it yet
+Dialogue: 0,0:21:29.80,0:21:33.10,Pink,,0,0,0,,It's a bit too hot, I can't eat it yet
+Dialogue: 0,0:21:30.70,0:21:31.20,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:21:31.20,0:21:31.97,Pink,,0,0,0,,It's really hot
+Dialogue: 0,0:21:33.50,0:21:36.74,Default,,0,0,0,,A strange weakness is found on the final dish!
+Dialogue: 0,0:21:33.30,0:21:38.61,Matsumoto,,0,0,0,,{\fad(300,0)\fnBookman old Style\bord2\fs60\pos(726,869)}They've found her weakness!
+Dialogue: 0,0:21:38.28,0:21:40.58,Default,,0,0,0,,This is the final chance for the Gaki Team
+Dialogue: 0,0:21:38.64,0:21:40.94,Matsumoto,,0,0,0,,{\fad(150,0)\fnBookman old Style\bord2\fs60\pos(744,458)\c&H42F4F7&\3c&H000000&}Gaki Team's final chance!!
+Dialogue: 0,0:21:43.18,0:21:44.15,Hamada,,0,0,0,,Oi oi!
+Dialogue: 0,0:21:45.62,0:21:46.22,Endo,,0,0,0,,Hold on...
+Dialogue: 0,0:21:47.69,0:21:48.89,Tanaka,,0,0,0,,What's this?
+Dialogue: 0,0:21:48.99,0:21:49.99,Matsumoto,,0,0,0,,Seriously, what's with him?
+Dialogue: 0,0:21:50.19,0:21:51.16,Tanaka,,0,0,0,,Yeah man
+Dialogue: 0,0:21:51.92,0:21:53.66,Matsumoto,,0,0,0,,He was doing some show in the other studio, no?
+Dialogue: 0,0:21:51.86,0:21:56.36,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H00059B&\3cFFFFFF\pos(266.182,750.409)}After this
+Dialogue: 0,0:21:51.86,0:21:56.36,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&HAA0358&\3cFFFFFF\pos(735.682,871.909)}Can the Gaki Team produce a miracle?
+Dialogue: 0,0:21:57.13,0:21:59.46,Default,,0,0,0,,Whilst Gal Sone is waiting for the Gyoza to cool down
+Dialogue: 0,0:21:59.46,0:22:01.93,Default,,0,0,0,,The Gaki Team finish their 5th plate
+Dialogue: 0,0:21:58.83,0:22:04.10,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(716.182,798.409)}Gaki Team
+Dialogue: 0,0:21:58.83,0:22:04.10,Default,,0,0,0,,{\fad(150,0)\fs60\fnBookman old Style\c&H000000&\3cFFFFFF\pos(714.682,903.409)}10 people's worth of cake: 44 minutes 49 seconds
+Dialogue: 0,0:22:02.30,0:22:03.47,Pink,,0,0,0,,Damn, this gyoza is amazing
+Dialogue: 0,0:22:03.87,0:22:05.54,Pink,,0,0,0,,This is amazing, filled right up
+Dialogue: 0,0:22:05.87,0:22:06.74,Endo,,0,0,0,,Damn
+Dialogue: 0,0:22:06.40,0:22:07.54,Pink,,0,0,0,,This is amazing
+Dialogue: 0,0:22:07.34,0:22:08.44,Matsumoto,,0,0,0,,That is tough
+Dialogue: 0,0:22:08.47,0:22:09.21,Pink,,0,0,0,,This is really amazing
+Dialogue: 0,0:22:08.81,0:22:10.04,Matsumoto,,0,0,0,,Damn that looks tough
+Dialogue: 0,0:22:10.47,0:22:11.41,Pink,,0,0,0,,This is amazing
+Dialogue: 0,0:22:16.08,0:22:17.65,Default,,0,0,0,,And now, Gal Sone
+Dialogue: 0,0:22:17.65,0:22:20.42,Default,,0,0,0,,has started eating the final dish
+Dialogue: 0,0:22:20.92,0:22:26.22,Default,,0,0,0,,{\fad(300,300)\fs58\fnBookman old Style\c&HFF619A&\pos(715.227,896.863)}Gaki Team {\c}6th plate: 5 people's worth of okonomiyaki
+Dialogue: 0,0:22:21.72,0:22:26.09,Default,,0,0,0,,Fujiwara reappears for Gaki Team's 6th plate, okonomiyaki.
+Dialogue: 0,0:22:35.03,0:22:36.60,Yamazaki,,0,0,0,,Go, Vacuum!
+Dialogue: 0,0:22:36.30,0:22:37.13,Tanaka,,0,0,0,,Go go!
+Dialogue: 0,0:22:38.74,0:22:39.70,Endo,,0,0,0,,Vacuum-san?
+Dialogue: 0,0:22:39.97,0:22:41.74,Hamada,,0,0,0,,What the hell are you doing?!
+Dialogue: 0,0:22:43.61,0:22:46.44,Matsumoto,,0,0,0,,You definitely haven't eaten like 9 bowls worth of food today...
+Dialogue: 0,0:22:46.98,0:22:47.85,Chono,,0,0,0,,I have...
+Dialogue: 0,0:22:51.15,0:22:52.05,Tanaka,,0,0,0,,He's angry again...
+Dialogue: 0,0:22:51.98,0:22:52.65,Endo,,0,0,0,,Are you angry again?
+Dialogue: 0,0:22:53.02,0:22:57.62,Matsumoto,,0,0,0,,But you know, I am done now...
+Dialogue: 0,0:22:56.35,0:22:57.49,Yamazaki,,0,0,0,,Me too
+Dialogue: 0,0:22:56.79,0:22:57.76,Normal,,0,0,0,,Me too
+Dialogue: 0,0:22:58.59,0:22:59.09,Hamada,,0,0,0,,All that's left is {\alphaHFF}if he pushes this button or not
+Dialogue: 0,0:22:59.09,0:22:59.49,Hamada,,0,0,0,,All that's left is if he pushes this button{\alphaHFF} or not
+Dialogue: 0,0:22:59.49,0:23:01.93,Hamada,,0,0,0,,All that's left is if he pushes this button or not
+Dialogue: 0,0:23:01.26,0:23:02.03,Endo,,0,0,0,,I see
+Dialogue: 0,0:23:01.56,0:23:02.53,Tanaka,,0,0,0,,Oh yeah
+Dialogue: 0,0:23:02.56,0:23:04.13,Endo,,0,0,0,,Either that, or she finishes
+Dialogue: 0,0:23:03.66,0:23:04.63,Hamada,,0,0,0,,Or the white flag
+Dialogue: 0,0:23:04.36,0:23:05.30,Endo,,0,0,0,,I see
+Dialogue: 0,0:23:05.70,0:23:06.46,Yamazaki,,0,0,0,,I see
+Dialogue: 0,0:23:06.56,0:23:07.60,Yamazaki,,0,0,0,,I wonder if she'll finish
+Dialogue: 0,0:23:15.41,0:23:19.04,Default,,0,0,0,,{\fad(150,0)\fnBookman old Style\fs80\pos(745.5,622)\c&H000000&\3c&H4A4BFF&}BATTLE OVER
+Dialogue: 0,0:23:15.41,0:23:19.04,Default,,0,0,0,,{\fad(150,0)\fnBookman old Style\fs60\pos(741,896.5)\c&H4FD7F7&\3c&H43068A&}GAL SONE WINS!
+Dialogue: 0,0:23:20.11,0:23:21.61,Matsumoto,,0,0,0,,Wow wow wow wow...
+Dialogue: 0,0:23:21.18,0:23:22.55,Endo,,0,0,0,,What??
+Dialogue: 0,0:23:22.15,0:23:23.78,Matsumoto,,0,0,0,,What about our feelings?
+Dialogue: 0,0:23:22.91,0:23:23.75,Normal,,0,0,0,,Yeah
+Dialogue: 0,0:23:24.78,0:23:26.18,Matsumoto,,0,0,0,,What about our feelings?
+Dialogue: 0,0:23:27.32,0:23:28.99,Chono,,0,0,0,,I don't give a shit about your feelings...
+Dialogue: 0,0:23:30.69,0:23:32.39,Normal,,0,0,0,,Were you at your limit much earlier on?
+Dialogue: 0,0:23:32.59,0:23:34.56,Chono,,0,0,0,,I was pretty damn full after the sushi...
+Dialogue: 0,0:23:35.46,0:23:36.83,Yamazaki,,0,0,0,,After the sushi?!
+Dialogue: 0,0:23:36.83,0:23:37.59,Tanaka,,0,0,0,,That's the first one!
+Dialogue: 0,0:23:37.80,0:23:38.56,Yamazaki,,0,0,0,,The first one?!
+Dialogue: 0,0:23:37.93,0:23:40.53,Matsumoto,,0,0,0,,Seriously, don't you EVER say you're a vacuum to me again
+Dialogue: 0,0:23:40.70,0:23:41.50,Endo,,0,0,0,,Yeah man!
+Dialogue: 0,0:23:41.57,0:23:42.70,Tanaka,,0,0,0,,Give us a break!
+Dialogue: 0,0:23:43.20,0:23:44.87,Matsumoto,,0,0,0,,Quit now on that stupid dream of yours!
+Dialogue: 0,0:23:46.64,0:23:47.74,Endo,,0,0,0,,It ends here!
+

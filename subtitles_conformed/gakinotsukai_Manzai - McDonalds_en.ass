@@ -1,0 +1,162 @@
+﻿[Script Info]
+ScriptType: v4.00+
+SabbuVersion: 0.3.0
+Title: Default Aegisub file
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 0
+Last Style Storage: Matsumoto Dialouge
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: BIG,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Medium,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Yamasaki,Arial,30,&H00059802,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Endo,Arial,30,&H0000A5FA,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Matsumoto,Arial,30,&H00FFFFFF,&H000708B1,&H000708B1,&H000708B1,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Hamada,Arial,30,&H00FFFFFF,&H00FF5200,&H00FF5200,&H00FF5200,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Tanaka,Arial,30,&H00B605A0,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Blue Fujiwara,Arial,30,&H00A77511,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,3,2,10,10,10,1
+Style: black,Arial,25,&H00000100,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,3,2,10,10,10,1
+Style: normal people,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: white  announcmend,Arial,26,&H00FEFEFE,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Talking over,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:03.02,white  announcmend,,0,0,0,,{\pos(199,89)}Original translation by (if you know please let me know)
+Dialogue: 0,0:00:00.00,0:00:03.02,white  announcmend,,0,0,0,,{\pos(382,425)}Revised and colored by {\c&H825D57&\4c&HFFFFFF&}Yakarin.
+Dialogue: 0,0:00:08.03,0:00:11.04,Matsumoto,Matsumoto,0,0,0,,Everyone's so excited!
+Dialogue: 0,0:00:11.04,0:00:13.04,Matsumoto,Matsumoto,0,0,0,,QUIET!!!
+Dialogue: 0,0:00:14.00,0:00:16.43,Hamada,Hamada,0,0,0,,Yeah, everyone's so excited!
+Dialogue: 0,0:00:16.43,0:00:20.99,Matsumoto,Matsumoto,0,0,0,,You know, when I think about it, I seem like I'm always angry on TV.
+Dialogue: 0,0:00:18.37,0:00:20.37,Hamada,Hamada,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:00:21.14,0:00:24.32,Matsumoto,,0,0,0,,I have the image of always being angry.
+Dialogue: 0,0:00:24.32,0:00:26.32,Matsumoto,,0,0,0,,I'm really thinking of not getting angry anymore...
+Dialogue: 0,0:00:26.32,0:00:28.32,Hamada,,0,0,0,,Ah, ahh!
+Dialogue: 0,0:00:28.32,0:00:29.88,Hamada,,0,0,0,,Is that so?
+Dialogue: 0,0:00:29.88,0:00:34.46,Matsumoto,,0,0,0,,Yeah, I'm thinking of that but, I bought the TV Taro the other day...
+Dialogue: 0,0:00:34.46,0:00:36.46,Hamada,,0,0,0,,TV Taro?
+Dialogue: 0,0:00:37.40,0:00:38.77,Hamada,,0,0,0,,Something like a TV guide?
+Dialogue: 0,0:00:36.72,0:00:38.28,Matsumoto,,0,0,0,,You know, TV Taro.
+Dialogue: 0,0:00:39.41,0:00:42.77,Matsumoto,,0,0,0,,Yes, it's a monthly subscription,  and it's called TV Taro.
+Dialogue: 0,0:00:42.77,0:00:43.20,Hamada,,0,0,0,,Ok, ok.
+Dialogue: 0,0:00:43.20,0:00:49.64,Matsumoto,,0,0,0,,I'll never forget, March 26th, I bought the TV Taro.
+Dialogue: 0,0:00:50.81,0:00:53.58,Hamada,,0,0,0,,Ok, ok, the date doesn't really matter...
+Dialogue: 0,0:00:52.35,0:00:53.71,Matsumoto,,0,0,0,,Well, it does.
+Dialogue: 0,0:00:53.71,0:00:54.48,Hamada,,0,0,0,,So, what about the TV Taro?
+Dialogue: 0,0:00:54.48,0:00:57.03,Matsumoto,,0,0,0,,Well, you only need to buy that once a month, right?
+Dialogue: 0,0:00:57.03,0:00:59.74,Matsumoto,,0,0,0,,So, that's why I bought it on March 26th.
+Dialogue: 0,0:00:59.74,0:01:04.28,Matsumoto,,0,0,0,,Then I went home, and I was reading it... I really didn't notice at first.
+Dialogue: 0,0:01:04.28,0:01:06.31,Matsumoto,,0,0,0,,Ah, I see, I see...
+Dialogue: 0,0:01:08.52,0:01:10.65,Matsumoto,,0,0,0,,Huh? I've seen this before...
+Dialogue: 0,0:01:12.42,0:01:13.89,Matsumoto,,0,0,0,,I looked at the cover again...
+Dialogue: 0,0:01:13.89,0:01:16.03,Matsumoto,,0,0,0,,It's the March issue.
+Dialogue: 0,0:01:16.03,0:01:18.03,Hamada,,0,0,0,,So you bought the same one?
+Dialogue: 0,0:01:18.03,0:01:20.99,Matsumoto,,0,0,0,,It's definitely the convenience store's fault, right?
+Dialogue: 0,0:01:20.99,0:01:21.80,Hamada,,0,0,0,,Why?
+Dialogue: 0,0:01:21.80,0:01:26.02,Matsumoto,,0,0,0,,Because the next issue of TV Taro is already out!
+Dialogue: 0,0:01:26.02,0:01:28.39,Matsumoto,,0,0,0,,It comes out on the 23th!
+Dialogue: 0,0:01:28.39,0:01:30.39,Matsumoto,,0,0,0,,They hadn't changed it!
+Dialogue: 0,0:01:30.39,0:01:35.00,Matsumoto,,0,0,0,,And the cover of TV Taro. It's always some portrait of a Hollywood star going like this...
+Dialogue: 0,0:01:36.62,0:01:40.01,Matsumoto,,0,0,0,,One doesn't really notice the changes every month.
+Dialogue: 0,0:01:40.01,0:01:43.84,Matsumoto,,0,0,0,,When you see it on the shelves, you think it's the right one! You think: it has to be the April issue!
+Dialogue: 0,0:01:43.97,0:01:47.27,Matsumoto,,0,0,0,,I bought the TV Taro just for 3 days!
+Dialogue: 0,0:01:48.57,0:01:50.93,Matsumoto,,0,0,0,,Absurd, isn't it!?
+Dialogue: 0,0:01:51.30,0:01:53.86,Hamada,,0,0,0,,However, that was your mistake, right...?
+Dialogue: 0,0:01:53.86,0:01:55.86,Matsumoto,,0,0,0,,NO, NO, NO, NO, NO, NO!
+Dialogue: 0,0:01:55.86,0:02:02.34,Matsumoto,,0,0,0,,Because you don't agree with me, I get more pissed off!
+Dialogue: 0,0:02:03.56,0:02:06.10,Hamada,,0,0,0,,Well, it's your fault for not checking, right?
+Dialogue: 0,0:02:06.69,0:02:09.12,Matsumoto,,0,0,0,,It's completely the store's fault!
+Dialogue: 0,0:02:09.12,0:02:10.93,Matsumoto,,0,0,0,,Why is it looking like I'm wrong or something?
+Dialogue: 0,0:02:10.93,0:02:13.83,Hamada,,0,0,0,,You could have just checked to see...
+Dialogue: 0,0:02:15.03,0:02:16.05,Matsumoto,,0,0,0,,No, no, no, no...
+Dialogue: 0,0:02:17.01,0:02:18.03,Matsumoto,,0,0,0,,Hamada-san...
+Dialogue: 0,0:02:18.82,0:02:22.32,Matsumoto,,0,0,0,,It's the end of March and you see the TV Taro on the shelves...
+Dialogue: 0,0:02:22.51,0:02:24.53,Matsumoto,,0,0,0,,You don't bother to check!
+Dialogue: 0,0:02:25.73,0:02:30.25,Hamada,,0,0,0,,Well, if you thought the store was wrong, why didn't you just go back and return it?
+Dialogue: 0,0:02:30.57,0:02:33.42,Matsumoto,,0,0,0,,Who goes back to the store at 5:00am in the morning?
+Dialogue: 0,0:02:33.42,0:02:35.32,Hamada,,0,0,0,,Just go back the next day then!
+Dialogue: 0,0:02:35.32,0:02:36.51,Hamada,,0,0,0,,The next day!
+Dialogue: 0,0:02:36.66,0:02:37.60,Matsumoto,,0,0,0,,{\pos(340,441)}But...
+Dialogue: 0,0:02:36.96,0:02:38.15,Hamada,,0,0,0,,If you thought they were wrong.
+Dialogue: 0,0:02:38.15,0:02:40.86,Matsumoto,,0,0,0,,You go for me... I'm too tired for that...
+Dialogue: 0,0:02:41.01,0:02:45.57,Matsumoto,,0,0,0,,In the old days, I would of, I would of went back and said: GAAAAAA!
+Dialogue: 0,0:02:45.57,0:02:47.57,Matsumoto,,0,0,0,,I'm too old for that!
+Dialogue: 0,0:02:47.57,0:02:49.51,Matsumoto,,0,0,0,,I don't have the energy anymore...
+Dialogue: 0,0:02:49.51,0:02:51.51,Hamada,,0,0,0,,Look, I went to McDonald's the other day.
+Dialogue: 0,0:02:51.51,0:02:53.51,Hamada,,0,0,0,,Because the meat was missing.
+Dialogue: 0,0:02:54.27,0:02:55.51,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:02:55.51,0:02:57.51,Hamada,,0,0,0,,Bread, bread, beef, bread.
+Dialogue: 0,0:02:58.76,0:03:00.76,Matsumoto,,0,0,0,,Oh, it's supposed to be...
+Dialogue: 0,0:03:00.81,0:03:03.03,Matsumoto,,0,0,0,,What kind of food are you eating anyway??
+Dialogue: 0,0:03:03.03,0:03:06.03,Hamada,,0,0,0,,Well, don't you eat McDonald's?
+Dialogue: 0,0:03:06.03,0:03:07.46,Matsumoto,,0,0,0,,What kind of burger?
+Dialogue: 0,0:03:07.46,0:03:09.32,Hamada,,0,0,0,,The one that's double.
+Dialogue: 0,0:03:08.46,0:03:09.27,Matsumoto,,0,0,0,,Double...
+Dialogue: 0,0:03:09.32,0:03:11.11,Matsumoto,,0,0,0,,You're so young!!
+Dialogue: 0,0:03:12.39,0:03:14.60,Matsumoto,,0,0,0,,You're eating that kind of stuff at this age?
+Dialogue: 0,0:03:14.67,0:03:17.59,Hamada,,0,0,0,,No, no, my wife got it for the kids, and I heard.
+Dialogue: 0,0:03:17.59,0:03:19.59,Hamada,,0,0,0,,"What is this??"
+Dialogue: 0,0:03:19.59,0:03:22.13,Hamada,,0,0,0,,So I got up and looked...
+Dialogue: 0,0:03:22.13,0:03:24.13,Hamada,,0,0,0,,It was bread, bread, meet, bread.
+Dialogue: 0,0:03:24.13,0:03:28.46,Matsumoto,,0,0,0,,Bread, bread... ahh... I see, you're right.
+Dialogue: 0,0:03:28.46,0:03:30.76,Hamada,,0,0,0,,I asked her and she said she just bought it so...
+Dialogue: 0,0:03:30.84,0:03:33.13,Hamada,,0,0,0,,I thought: "that's interesting"... I said "Give it to me"
+Dialogue: 0,0:03:34.28,0:03:38.43,Hamada,,0,0,0,,I wrapped it back, changed my pajama...
+Dialogue: 0,0:03:38.43,0:03:43.48,Hamada,,0,0,0,,took the receipt and drove the car.
+Dialogue: 0,0:03:41.35,0:03:42.78,Matsumoto,,0,0,0,,Ok...ok...
+Dialogue: 0,0:03:44.98,0:03:48.69,Matsumoto,,0,0,0,,So, the people in the store were like: "Ah, it's Hamada"?
+Dialogue: 0,0:03:48.69,0:03:53.65,Hamada,,0,0,0,,I just barged in with the burger, so no one tried to come close to me.
+Dialogue: 0,0:03:54.08,0:03:56.36,Hamada,,0,0,0,,I guess they probably knew I was pissed off.
+Dialogue: 0,0:03:57.23,0:04:00.11,Matsumoto,,0,0,0,,They probably saw fumes coming out of your head...
+Dialogue: 0,0:04:00.11,0:04:03.22,Hamada,,0,0,0,,I thought I went in the store normally, but my face was probably like this...
+Dialogue: 0,0:04:04.25,0:04:05.48,Matsumoto,,0,0,0,,So young!
+Dialogue: 0,0:04:05.57,0:04:06.70,Hamada,,0,0,0,,They said "Yes?"
+Dialogue: 0,0:04:06.70,0:04:09.68,Matsumoto,,0,0,0,,Ah, it had to be just some part-time employee, right?
+Dialogue: 0,0:04:09.68,0:04:11.68,Hamada,,0,0,0,,So I said "Could you get the manager, please?"
+Dialogue: 0,0:04:14.75,0:04:17.27,Hamada,,0,0,0,,No, no, no, no. I'm not wrong, right?
+Dialogue: 0,0:04:17.27,0:04:18.74,Matsumoto,,0,0,0,,Probably in the back they were saying...
+Dialogue: 0,0:04:18.83,0:04:21.17,Matsumoto,,0,0,0,,"Manager, there's a gorilla in the store".
+Dialogue: 0,0:04:30.70,0:04:32.40,Hamada,,0,0,0,,Not a gorilla!
+Dialogue: 0,0:04:32.49,0:04:36.56,Hamada,,0,0,0,,Not a gorilla, I was just standing like this.
+Dialogue: 0,0:04:36.56,0:04:38.56,Hamada,,0,0,0,,And the manager comes and says "How can I help you?"
+Dialogue: 0,0:04:38.56,0:04:40.08,Hamada,,0,0,0,,So I asked "Are you the manager?"
+Dialogue: 0,0:04:40.23,0:04:41.50,Matsumoto,,0,0,0,,I swear you didn't speak that nicely!
+Dialogue: 0,0:04:41.50,0:04:44.55,Hamada,,0,0,0,,"Are you the manager?", he says "Yes" so,
+Dialogue: 0,0:04:44.55,0:04:46.54,Hamada,,0,0,0,,I said "I bought this earlier but..."
+Dialogue: 0,0:04:46.98,0:04:49.09,Hamada,,0,0,0,,"...could you tell me if this is {\3c&H4D8D2B&\4c&H4D8D2B&}correct {\3c&HFF5200&\4c&HFF5200&}or {\3c&H0708B1&\4c&H0708B1&}incorrect?"
+Dialogue: 0,0:04:49.37,0:04:52.27,Matsumoto,,0,0,0,,What kind of question is that??
+Dialogue: 0,0:04:52.27,0:04:54.27,Hamada,,0,0,0,,Just in case, right?
+Dialogue: 0,0:04:54.27,0:04:56.27,Hamada,,0,0,0,,He says "Huh?" opens it and notices...
+Dialogue: 0,0:04:56.27,0:04:58.27,Hamada,,0,0,0,,"Ahhhhhhh!!..."
+Dialogue: 0,0:05:00.86,0:05:02.14,Matsumoto,,0,0,0,,{\pos(323,437)}Yeah...
+Dialogue: 0,0:05:01.58,0:05:02.67,Hamada,,0,0,0,,"We're sorry"
+Dialogue: 0,0:05:02.67,0:05:04.67,Hamada,,0,0,0,,"Well, which is it, {\3c&H4D8D2B&\4c&H4D8D2B&}correct {\3c&HFF5200&\4c&HFF5200&}or {\3c&H0708B1&\4c&H0708B1&}incorrect?"
+Dialogue: 0,0:05:05.23,0:05:07.98,Matsumoto,,0,0,0,,That's enough! Show mercy on him, he said "sorry"!
+Dialogue: 0,0:05:08.36,0:05:09.98,Hamada,,0,0,0,,Well, I want to hear it.
+Dialogue: 0,0:05:11.81,0:05:13.86,Hamada,,0,0,0,,"It's... {\3c&H0708B1&\4c&H0708B1&}incorrect"{\3c&HFF5200&\4c&HFF5200&}...
+Dialogue: 0,0:05:14.07,0:05:15.67,Matsumoto,,0,0,0,,You made him say "It's incorrect"
+Dialogue: 0,0:05:15.67,0:05:16.91,Hamada,,0,0,0,,I replied "That's right, right?"
+Dialogue: 0,0:05:17.12,0:05:19.64,Hamada,,0,0,0,,I have the receipt here, I just bought it.
+Dialogue: 0,0:05:21.96,0:05:23.39,Matsumoto,,0,0,0,,Oh really... and  then?
+Dialogue: 0,0:05:23.58,0:05:25.01,Hamada,,0,0,0,,"Bye"... and I left.
+Dialogue: 0,0:05:25.63,0:05:28.27,Matsumoto,,0,0,0,,No, wait, wait. You got a new one, right?
+Dialogue: 0,0:05:28.27,0:05:30.38,Hamada,,0,0,0,,They insisted but I said "No thanks". And just went home.
+Dialogue: 0,0:05:31.81,0:05:33.24,Hamada,,0,0,0,,I just wanted to tell them that.
+Dialogue: 0,0:05:34.69,0:05:36.69,Hamada,,0,0,0,,That "You're wrong!"
+Dialogue: 0,0:05:37.50,0:05:39.42,Matsumoto,,0,0,0,,Such an evil personality...
+Dialogue: 0,0:05:39.57,0:05:42.89,Hamada,,0,0,0,,Why? They might make the same mistake with another person, right?
+Dialogue: 0,0:05:42.96,0:05:47.05,Matsumoto,,0,0,0,,Refusing the new sandwich is... It's just nasty...
+Dialogue: 0,0:05:46.24,0:05:47.84,Talking over,,0,0,0,,{\pos(327,425)}"Yeah!!"
+Dialogue: 0,0:05:47.62,0:05:49.50,Hamada,,0,0,0,,Wait, wait, what do you mean by "Yeah!"??
+Dialogue: 0,0:05:50.42,0:05:54.70,Matsumoto,,0,0,0,,You wanted them to owe you, so that you can demand stuff later, right?
+Dialogue: 0,0:05:55.89,0:05:58.41,Hamada,,0,0,0,,What kind... What kind of stuff??
+Dialogue: 0,0:05:58.41,0:06:00.93,Matsumoto,,0,0,0,,Something... like.... mmmm... small fries....
+Dialogue: 0,0:06:02.63,0:06:04.83,Matsumoto,,0,0,0,,That's why...
+

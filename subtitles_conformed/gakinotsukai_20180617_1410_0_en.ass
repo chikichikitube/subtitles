@@ -1,0 +1,773 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: F:/Downloads/Gaki_180617_#1410_2nd Let's Play World Tabletop Game (2).mp4
+Video File: F:/Downloads/Gaki_180617_#1410_2nd Let's Play World Tabletop Game (2).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 707
+Active Line: 708
+Video Position: 136
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Tanaka,Arial,63,&H00C32FAD,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Matsumoto,Arial,63,&H002223C0,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Hamada,Arial,63,&H00B33A32,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Endo,Arial,63,&H002087FA,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Yamazaki,Arial,63,&H0038DB45,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Fujiwara,Arial,63,&H00496500,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Black font,Arial,63,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,11,11,15,1
+Style: White font,Arial,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Other,Arial,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:09.28,Default,,0,0,0,,{\fad(400,0)\c&HE14DF8&\3c&HFFFFFF&\4c&HFF7600&\fnKristen ITC\b1\fs84\pos(704.25,888)}Let's play with {\c&HF6B446&\3c&HFFFFFF&}table games {\c&HCA3AEF&}from around the world~!!{\b0}
+Dialogue: 0,0:00:03.00,0:00:09.28,Default,,0,0,0,,{\fad(400,0)\c&H0000CB&\3c&HFFFFFF&\4c&HFFFFFF&\fnHaettenschweiler\b1\fs60\pos(1271.25,747)\frz357\4a&HFF&}SECOND HALF
+Dialogue: 0,0:00:03.57,0:00:04.93,White font,,0,0,0,,On today's Gaki No Tsukai
+Dialogue: 0,0:00:04.93,0:00:08.50,White font,,0,0,0,,We'll see the second half of the previous table games episode!
+Dialogue: 0,0:00:09.90,0:00:15.82,Black font,,0,0,0,,{\fad(400,0)\c&H00A911&\3c&HFFFFFF&\4c&HFF7600&\fnKristen ITC\b1\fs84\pos(537.75,798)}It's time to have a good time playing
+Dialogue: 0,0:00:09.90,0:00:15.82,Black font,,0,0,0,,{\fad(400,0)\c&HFFFFFF&\3c&H00A911&\4c&HFF7600&\fnKristen ITC\b1\fs84\pos(904.5,933)}several games from different countries!
+Dialogue: 0,0:00:09.90,0:00:11.37,White font,,0,0,0,,Just as last week
+Dialogue: 0,0:00:11.37,0:00:15.48,White font,,0,0,0,,They'll play with lots of tabletop games from different countries!
+Dialogue: 0,0:00:15.82,0:00:23.83,Other,,0,0,0,,{\3c&H1819AC&\4c&H000000&\4a&HFF&\pos(276.75,63)}Translation & Subtitles by {\c&H75B0F2&}Shion
+Dialogue: 0,0:00:15.82,0:00:23.83,Other,,0,0,0,,{\c&HE99E5E&\3c&H1819AC&\3a&H00&\4c&H000000&\4a&HFF&\pos(258.75,117)}facebook.com/shionnotsukai
+Dialogue: 0,0:00:15.82,0:00:23.83,Other,,0,0,0,,{\c&H7BEB83&\3c&H1819AC&\3a&H00&\4c&H000000&\4a&HFF&\pos(261,165)}shionnotsukai.wordpress.com
+Dialogue: 0,0:00:24.03,0:00:25.36,Tanaka,,0,0,0,,This one
+Dialogue: 0,0:00:25.36,0:00:28.93,Tanaka,,0,0,0,,{\pos(724.5,921)}We'll have to play it in front of the table
+Dialogue: 0,0:00:27.69,0:00:28.66,Matsumoto,,0,0,0,,Roger     {\c&H0096FF&}  - Ok
+Dialogue: 0,0:00:29.10,0:00:36.04,Other,,0,0,0,,{\fad(1000,0)\fs69\c&H000000&\3c&HFFFFFF&\pos(688.5,765)}Captain Rhino (huge version) - {\c&H0079FF&\4c&H1011CF&}Germany
+Dialogue: 0,0:00:29.00,0:00:36.04,Other,,0,0,0,,{\fad(1000,0)\fs84\c&H3028C6&\3c&HFFFFFF&\4c&H3028C6&\pos(724.5,894)}Use your turned-down card as a pillar to rise a building!!
+Dialogue: 0,0:00:30.23,0:00:32.26,White font,,0,0,0,,The game Tanaka chose
+Dialogue: 0,0:00:32.26,0:00:35.16,White font,,0,0,0,,Is "Captain Rhino", from Germany!
+Dialogue: 0,0:00:36.16,0:00:41.47,Tanaka,,0,0,0,,You have to use face-down cards as pillar \Nto gradually build a tower, it's a balance game
+Dialogue: 0,0:00:41.47,0:00:43.28,Tanaka,,0,0,0,,Cards will start piling up
+Dialogue: 0,0:00:43.28,0:00:46.75,Tanaka,,0,0,0,,And the one who tears it down will lose, that's the game
+Dialogue: 0,0:00:44.97,0:00:46.13,Hamada,,0,0,0,,I see
+Dialogue: 0,0:00:47.17,0:00:57.80,Other,,0,0,0,,{\fad(200,0)\c&H0096FF&\3c&HFFFFFF&\4c&HB41009&\fnKristen ITC\b1\fs84\\pos(711,765)}Germany -  {\c&HA81A5E&}Captain Rhino (huge version)
+Dialogue: 0,0:00:47.17,0:00:57.80,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs60\\pos(726.75,873)}First you place your "wall-cards" in the position showed on the base-card
+Dialogue: 0,0:00:47.17,0:00:57.80,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs54\\pos(598.5,954)}Then you place a "roof-card" from those you have in your hand
+Dialogue: 0,0:00:47.17,0:00:57.80,Other,,0,0,0,,{\fad(200,0)\fnImpact\fs45\4c&H000000&\4a&HFF&\pos(724.5,42)}note: narrator voice = same as text
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(463.5,198)}CHANGE ORDER
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(1111.5,201)}SKIP ONE PLAYER
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(369,471)}THE NEXT PLAYER
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(470.25,570)}ADDS AN EXTRA ROOF CARD
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(1028.25,573)}ROOF CARD
+Dialogue: 0,0:00:57.80,0:01:13.04,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(1055.25,474)}PLACE AN EXTRA
+Dialogue: 0,0:00:57.80,0:01:07.73,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(796.5,783)}THE NEXT PLAYER WILL PLACE "CAPTAIN RHINO"
+Dialogue: 0,0:00:57.80,0:01:07.73,Other,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(636.75,879)}OVER THE DISPLAYED MARK
+Dialogue: 0,0:01:07.73,0:01:13.04,Other,,0,0,0,,{\fad(150,0)\c&H2525BB&\3c&HFFFFFF&\pos(796.5,783)}THE NEXT PLAYER WILL PLACE "CAPTAIN RHINO"
+Dialogue: 0,0:01:07.73,0:01:13.04,Other,,0,0,0,,{\fad(150,0)\c&H2525BB&\3c&HFFFFFF&\pos(636.75,879)}OVER THE DISPLAYED MARK
+Dialogue: 0,0:00:58.75,0:01:02.26,White font,,0,0,0,,This 5 marks appears over the roof cards you can place
+Dialogue: 0,0:01:02.70,0:01:06.80,White font,,0,0,0,,The players will stack em up while following their directions
+Dialogue: 0,0:01:08.43,0:01:12.10,White font,,0,0,0,,This mark is the most important between them
+Dialogue: 0,0:01:13.20,0:01:14.21,Tanaka,,0,0,0,,One thing
+Dialogue: 0,0:01:14.21,0:01:17.01,Tanaka,,0,0,0,,If a player places a roof-card with the {\c&H67FFF6&\3c&H000000&}Rhino mark
+Dialogue: 0,0:01:17.01,0:01:19.55,Tanaka,,0,0,0,,The next person in order must
+Dialogue: 0,0:01:19.55,0:01:23.45,Tanaka,,0,0,0,,Place {\c&H00FFF1&\3c&H000000&}Rhino {\c&HC32FAD&\3c&HFFFFFF&}over it and keep on building
+Dialogue: 0,0:01:19.55,0:01:35.46,Other,,0,0,0,,{\3c&HCC8104&\4c&HCC8104&\pos(182.25,618)}Rhino
+Dialogue: 0,0:01:23.45,0:01:26.32,Yamazaki,,0,0,0,,{\pos(810,912)}So is it a {\c&H00D2FF&\3c&H000000&}special card{\c&H38DB45&\3c&HFFFFFF&} ?
+Dialogue: 0,0:01:24.84,0:01:27.50,Tanaka,,0,0,0,,In a way this one has a special function
+Dialogue: 0,0:01:27.50,0:01:29.43,Tanaka,,0,0,0,,'Cause you can't just move it
+Dialogue: 0,0:01:27.08,0:01:28.35,Yamazaki,,0,0,0,,So it's special, right?
+Dialogue: 0,0:01:29.43,0:01:33.34,Black font,,0,0,0,,{\4c&HFF0376&\3c&HFF0376&\pos(1089,915)}monster
+Dialogue: 0,0:01:29.43,0:01:33.34,Matsumoto,,0,0,0,,{\pos(830.25,918)}Where do we have to place this {\c&H000000&\4c&HFF0376&}monster{\4c&H000000&\c&H2525BB&}, then?
+Dialogue: 0,0:01:30.46,0:01:33.34,Tanaka,,0,0,0,,{\frz356\pos(864,780)}It's not a monster!
+Dialogue: 0,0:01:33.34,0:01:35.46,Tanaka,,0,0,0,,{\c&H67FFF6&\3c&H000000&\pos(843.75,924)}Rhino {\c&HC32FAD&\3c&HFFFFFF&}is supposed to be a loveable character!
+Dialogue: 0,0:01:31.68,0:01:33.34,Yamazaki,,0,0,0,,It's Rhino     {\c&H2525BB&}- In the middle?
+Dialogue: 0,0:01:35.46,0:01:40.13,Tanaka,,0,0,0,,Let's try a bit to... that's right, we have to try it
+Dialogue: 0,0:01:36.34,0:01:38.16,Hamada,,0,0,0,,If I don't try it I won't get it
+Dialogue: 0,0:01:38.16,0:01:40.13,Endo,,0,0,0,,Maybe while you explain it...
+Dialogue: 0,0:01:40.13,0:01:40.87,Tanaka,,0,0,0,,Ok so...
+Dialogue: 0,0:01:40.87,0:01:42.51,Tanaka,,0,0,0,,Let's start from me
+Dialogue: 0,0:01:42.51,0:01:44.30,Tanaka,,0,0,0,,First of all place it
+Dialogue: 0,0:01:44.60,0:01:46.48,Tanaka,,0,0,0,,Following the directions
+Dialogue: 0,0:01:46.48,0:01:49.14,Hamada,,0,0,0,,{\pos(337.5,912)}Which directions?
+Dialogue: 0,0:01:47.71,0:01:49.14,Tanaka,,0,0,0,,This is, uh... it's
+Dialogue: 0,0:01:49.14,0:01:52.65,Tanaka,,0,0,0,,{\pos(1194.75,867)\c&H67FFF6&\3c&H000000&}The illustrations
+Dialogue: 0,0:01:49.14,0:01:52.65,Tanaka,,0,0,0,,{\pos(1129.5,915)\c&H67FFF6&\3c&H000000&}down here
+Dialogue: 0,0:01:53.70,0:01:54.55,Tanaka,,0,0,0,,And now
+Dialogue: 0,0:01:54.55,0:01:55.71,Tanaka,,0,0,0,,I'm placing this
+Dialogue: 0,0:01:55.71,0:01:57.28,Matsumoto,,0,0,0,,You place it-- oh, there's Rhino
+Dialogue: 0,0:01:57.28,0:01:58.01,Tanaka,,0,0,0,,Here's Rhino
+Dialogue: 0,0:01:58.01,0:01:58.91,Endo,,0,0,0,,Rhino already?!
+Dialogue: 0,0:01:58.91,0:02:00.70,Tanaka,,0,0,0,,So now Endo-san
+Dialogue: 0,0:02:00.70,0:02:03.22,Tanaka,,0,0,0,,Has to place Rhino before the cards
+Dialogue: 0,0:02:03.22,0:02:04.99,Endo,,0,0,0,,Wait a moment, already?
+Dialogue: 0,0:02:01.01,0:02:04.99,Other,,0,0,0,,{\fad(150,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&\pos(666,912)}THE NEXT PERSON MUST PLACE RHINO ON TOP
+Dialogue: 0,0:02:04.99,0:02:07.29,Endo,,0,0,0,,So I guess it's here?      {\c&H2525BB&}- Place Rhino there
+Dialogue: 0,0:02:07.29,0:02:08.79,Endo,,0,0,0,,Placed    {\c&HC32FAD&} - Now the walls
+Dialogue: 0,0:02:08.79,0:02:09.90,Hamada,,0,0,0,,Two cards for this?
+Dialogue: 0,0:02:09.90,0:02:10.80,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:02:10.80,0:02:12.02,Hamada,,0,0,0,,Is it always two cards?
+Dialogue: 0,0:02:12.02,0:02:14.00,Tanaka,,0,0,0,,Nope, could also be a single card
+Dialogue: 0,0:02:14.00,0:02:17.47,Matsumoto,,0,0,0,,{\pos(596.25,915)}Who knocks it down
+Dialogue: 0,0:02:15.74,0:02:17.47,Black font,,0,0,0,,{\4c&HB33A32&\pos(931.5,894)}loses
+Dialogue: 0,0:02:15.36,0:02:15.76,Tanaka,,0,0,0,,Yes?
+Dialogue: 0,0:02:15.76,0:02:17.47,Tanaka,,0,0,0,,That's right    {\c&H2525BB&} - Got it got it
+Dialogue: 0,0:02:17.47,0:02:19.57,Tanaka,,0,0,0,,Now Endo-san
+Dialogue: 0,0:02:19.57,0:02:21.08,Tanaka,,0,0,0,,{\pos(708.75,924)}Has to choose which {\alpha&HFF&}of his card to use as his roof-card
+Dialogue: 0,0:02:21.08,0:02:23.98,Tanaka,,0,0,0,,{\pos(708.75,924)}Has to choose which of his card to use as his roof-card
+Dialogue: 0,0:02:23.10,0:02:23.98,Matsumoto,,0,0,0,,Ok ok ok
+Dialogue: 0,0:02:23.98,0:02:25.00,Endo,,0,0,0,,I'm going then
+Dialogue: 0,0:02:25.00,0:02:26.07,Tanaka,,0,0,0,,It's a Rhino card again
+Dialogue: 0,0:02:27.04,0:02:28.68,Tanaka,,0,0,0,,Ok, Hamada-san is next
+Dialogue: 0,0:02:28.68,0:02:31.12,Matsumoto,,0,0,0,,{\pos(720,924)}You have to take that {\c&H67FFF6&\3c&H000000&}Rhino {\c&H2525BB&\3c&HFFFFFF&}first
+Dialogue: 0,0:02:30.00,0:02:32.01,Endo,,0,0,0,,Make sure to take it first
+Dialogue: 0,0:02:32.01,0:02:32.55,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:02:32.55,0:02:34.86,Hamada,,0,0,0,,{\pos(846,909)}So are we reusing
+Dialogue: 0,0:02:32.55,0:02:34.86,Black font,,0,0,0,,{\4c&HFF0376&\pos(1158.75,912)}this thing?
+Dialogue: 0,0:02:32.55,0:02:34.86,Other,,0,0,0,,{\3c&HCC8104&\4c&HCC8104&\pos(182.25,618)}Rhino
+Dialogue: 0,0:02:33.51,0:02:35.70,Tanaka,,0,0,0,,Could you stop calling it "thing"?
+Dialogue: 0,0:02:35.70,0:02:37.65,Tanaka,,0,0,0,,Let's avoid this abusive language
+Dialogue: 0,0:02:37.65,0:02:38.38,Endo,,0,0,0,,It's Rhino-chan
+Dialogue: 0,0:02:38.38,0:02:41.34,Matsumoto,,0,0,0,,I mean, I guess it's still bearable at this height     {\c&HC32FAD&} - Yes
+Dialogue: 0,0:02:41.34,0:02:44.10,Hamada,,0,0,0,,Right, but things won't be that easy as it gets taller
+Dialogue: 0,0:02:44.32,0:02:48.64,Black font,,0,0,0,,{\fad(100,0)\c&H941810&\4c&H67FFF6&\pos(724.5,873)}After that, Hamada {\c&H00D2FF&\3c&H000000&\4c&H02425D&}safely clears a round
+Dialogue: 0,0:02:44.96,0:02:48.64,White font,,0,0,0,,Hamada then proceeds to safely place his wall-cards
+Dialogue: 0,0:02:49.64,0:02:52.83,White font,,0,0,0,,After him, Matsumoto too clears it easily
+Dialogue: 0,0:02:49.05,0:02:54.27,Black font,,0,0,0,,{\fad(100,0)\c&H0000CB&\4c&H67FFF6&\pos(724.5,873)\3c&HFFFFFF&}Matsumoto too {\c&H00D2FF&\3c&H000000&\4c&H02425D&}easily clears a round!
+Dialogue: 0,0:02:53.83,0:02:55.70,White font,,0,0,0,,And next one is Housei
+Dialogue: 0,0:02:54.50,0:02:56.38,Black font,,0,0,0,,{\fad(100,0)\pos(729,864)\c&H38DB45&\4c&H00D2FF&}Housei{\c&H000000&} is next
+Dialogue: 0,0:02:55.93,0:02:56.68,Tanaka,,0,0,0,,Place Rhino first
+Dialogue: 0,0:02:56.68,0:02:59.45,Yamazaki,,0,0,0,,{\pos(726.75,924)}Oh, {\c&H67FFF6&\3c&H000000&}Rhino-chan {\3c&HFFFFFF&\c&H38DB45&}first?
+Dialogue: 0,0:02:57.20,0:02:58.37,Tanaka,,0,0,0,,Yes, Rhino-chan first
+Dialogue: 0,0:02:58.37,0:03:01.20,Yamazaki,,0,0,0,,Then I place this      {\c&HC32FAD&}- Place it, right
+Dialogue: 0,0:03:01.60,0:03:02.77,Matsumoto,,0,0,0,,This is...
+Dialogue: 0,0:03:03.44,0:03:05.34,Matsumoto,,0,0,0,,This is a bit...
+Dialogue: 0,0:03:07.21,0:03:08.48,Yamazaki,,0,0,0,,Ok, done      {\c&HC32FAD&}- Alright
+Dialogue: 0,0:03:08.48,0:03:08.98,Matsumoto,,0,0,0,,Woah!
+Dialogue: 0,0:03:08.98,0:03:10.12,Hamada,,0,0,0,,This one kinda
+Dialogue: 0,0:03:10.12,0:03:11.99,Black font,,0,0,0,,{\pos(722.25,918)\c&HC42E24&}Gives me {\c&H000000&\4c&H055F01&}a bad sense of stability
+Dialogue: 0,0:03:10.45,0:03:11.81,Endo,,0,0,0,,It's scary, yeah
+Dialogue: 0,0:03:13.45,0:03:14.89,Tanaka,,0,0,0,,This-- Oh, you used that?
+Dialogue: 0,0:03:14.89,0:03:17.15,Tanaka,,0,0,0,,This is a reverse card
+Dialogue: 0,0:03:17.15,0:03:18.19,Hamada,,0,0,0,,Flips the order
+Dialogue: 0,0:03:17.90,0:03:19.27,Tanaka,,0,0,0,,{\pos(990,843)}And now it's Matsumoto's turn
+Dialogue: 0,0:03:18.72,0:03:19.27,Hamada,,0,0,0,,Got it
+Dialogue: 0,0:03:15.15,0:03:19.27,Other,,0,0,0,,{\fad(150,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&\pos(411.75,867)}CHANGE ORDER
+Dialogue: 0,0:03:22.12,0:03:23.54,Matsumoto,,0,0,0,,Can you see
+Dialogue: 0,0:03:23.54,0:03:26.44,Matsumoto,,0,0,0,,{\pos(454.5,750)}The way he's trying to create
+Dialogue: 0,0:03:23.54,0:03:26.44,Black font,,0,0,0,,{\4c&H0000CB&\pos(1048.5,750)}this sort-of-fighting mood?
+Dialogue: 0,0:03:26.44,0:03:28.87,Matsumoto,,0,0,0,,{\pos(724.5,906)}It's like those {\c&HDE71FA&}rival dojo in comedy manga{\c&H2525BB&}, {\alpha&HFF&}isn't it irritating?
+Dialogue: 0,0:03:28.87,0:03:29.94,Matsumoto,,0,0,0,,{\pos(724.5,906)}It's like those {\c&HDE71FA&}rival dojo in comedy manga{\c&H2525BB&}, isn't it irritating?
+Dialogue: 0,0:03:30.47,0:03:32.40,Matsumoto,,0,0,0,,It's like those of Suzuki-sensei or...
+Dialogue: 0,0:03:32.40,0:03:33.57,Yamazaki,,0,0,0,,Or Kaminaga-sensei
+Dialogue: 0,0:03:33.57,0:03:35.38,Matsumoto,,0,0,0,,Yeah that's the setting he's aiming at
+Dialogue: 0,0:03:35.38,0:03:38.32,Yamazaki,,0,0,0,,{\pos(978.75,909)}We're gonna need tons of lawyers for that
+Dialogue: 0,0:03:37.41,0:03:38.32,Matsumoto,,0,0,0,,Yeah, right
+Dialogue: 0,0:03:30.44,0:03:38.32,White font,,0,0,0,,{\fnkawaii手書き文字\fs45\4c&H000000&\4a&HFF&\b1\pos(189,978)}Suzuki{\fs15} {\fs45}Yoshiji{\b0}
+Dialogue: 0,0:03:32.28,0:03:38.32,White font,,0,0,0,,{\fnkawaii手書き文字\fs45\4c&H000000&\4a&HFF&\b1\pos(423,981)}Kaminaga{\fs15} {\fs45}Ichiro{\b0}
+Dialogue: 0,0:03:40.21,0:03:40.71,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:03:41.52,0:03:43.12,Matsumoto,,0,0,0,,{\pos(731.25,918)}What should I do?
+Dialogue: 0,0:03:46.29,0:03:47.30,Yamazaki,,0,0,0,,Which is it?
+Dialogue: 0,0:03:47.65,0:03:51.63,White font,,0,0,0,,{\fad(150,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&\pos(411.75,867)}CHANGE ORDER
+Dialogue: 0,0:03:49.09,0:03:51.63,Hamada,,0,0,0,,{\pos(1017,849)}It's {\c&H67FFF6&\3c&H000000&}reverse {\c&HC42E24&\3c&HFFFFFF&}again
+Dialogue: 0,0:03:47.82,0:03:49.08,Endo,,0,0,0,,That one...
+Dialogue: 0,0:03:50.88,0:03:51.63,Tanaka,,0,0,0,,Back to Housei-san
+Dialogue: 0,0:03:51.63,0:03:55.67,Yamazaki,,0,0,0,,{\pos(720,912)}Have I forgot to mention{\c&H084761&} "rival-relationships are old fashioned"{\c&H38DB45&}?
+Dialogue: 0,0:03:55.67,0:03:58.17,Endo,,0,0,0,,{\pos(418.5,795)}As long as it is
+Dialogue: 0,0:03:55.67,0:03:58.17,Endo,,0,0,0,,{\pos(639,927)}Funny, it doesn't matter that much
+Dialogue: 0,0:03:57.66,0:04:00.07,Hamada,,0,0,0,,We're back to Yama-chan     {\c&HC32FAD&} - Your turn, Housei-san
+Dialogue: 0,0:04:00.07,0:04:02.10,Matsumoto,,0,0,0,,This is pretty harsh
+Dialogue: 0,0:04:02.10,0:04:03.61,Matsumoto,,0,0,0,,Now that we end up to this
+Dialogue: 0,0:04:03.61,0:04:04.23,Endo,,0,0,0,,Watch out
+Dialogue: 0,0:04:06.23,0:04:06.87,Yamazaki,,0,0,0,,This is risky!
+Dialogue: 0,0:04:06.87,0:04:07.44,Hamada,,0,0,0,,Seriously
+Dialogue: 0,0:04:07.44,0:04:07.90,Tanaka,,0,0,0,,Ok
+Dialogue: 0,0:04:07.90,0:04:08.87,Matsumoto,,0,0,0,,This one was risky
+Dialogue: 0,0:04:08.87,0:04:09.57,Yamazaki,,0,0,0,,Yeah
+Dialogue: 0,0:04:12.34,0:04:13.41,Yamazaki,,0,0,0,,I've made it
+Dialogue: 0,0:04:14.01,0:04:16.04,Matsumoto,,0,0,0,,It would suck to get Rhino by now
+Dialogue: 0,0:04:16.84,0:04:19.28,Matsumoto,,0,0,0,,What if we pull out Rhino now?
+Dialogue: 0,0:04:19.28,0:04:20.70,Endo,,0,0,0,,You have to place it    {\c&HC42E24&} - Matsumoto-san
+Dialogue: 0,0:04:20.70,0:04:21.13,White font,,0,0,0,,You're next
+Dialogue: 0,0:04:21.13,0:04:23.59,White font,,0,0,0,,{\pos(652.5,933)}It's {\c&H67FFF6&}reverse{\c&HFFFFFF&} again
+Dialogue: 0,0:04:21.13,0:04:23.59,White font,,0,0,0,,{\pos(544.5,813)}(staff)
+Dialogue: 0,0:04:18.89,0:04:21.13,White font,,0,0,0,,{\fad(150,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&\pos(411.75,867)}CHANGE ORDER
+Dialogue: 0,0:04:25.80,0:04:30.57,Black font,,0,0,0,,{\fad(100,0)\fscx75\fscy100\t(0,17,\fscx150\fscy200\t(17,250,\fscx112.5\fscy150))\pos(741.15,894.9)}{\pos(726.75,879)\c&H0B0C95&}It's not that hilarious, man !!
+Dialogue: 0,0:04:31.10,0:04:34.30,Yamazaki,,0,0,0,,{\pos(724.5,918)}I guess two turns were enough!!
+Dialogue: 0,0:04:33.59,0:04:36.20,Tanaka,,0,0,0,,It got old already     {\c&H2525BB&} - What, wait a moment
+Dialogue: 0,0:04:38.04,0:04:42.71,Black font,,0,0,0,,{\fad(100,100)\c&H0000CB&\4c&H67FFF6&\pos(724.5,873)\3c&HFFFFFF&}Matsumoto, {\c&HC42E24&}Hamada {\3c&H000000&\c&H00D2FF&}and {\c&H0096FF&}Endo {\c&H00D2FF&\3c&H000000&}too {\c&H00D2FF&\3c&H000000&\4c&H02425D&}clear their rounds splendidly!
+Dialogue: 0,0:04:43.08,0:04:48.05,Black font,,0,0,0,,{\fad(200,200)\c&HF6B446&\4c&H67FFF6&\pos(724.5,873)\3c&HFFFFFF&}The building {\c&H0000CB&}reaches the tenth floor!
+Dialogue: 0,0:04:38.42,0:04:39.27,White font,,0,0,0,,After that
+Dialogue: 0,0:04:39.27,0:04:42.87,White font,,0,0,0,,Matsumoto, Hamada and Endo perfectly make it through
+Dialogue: 0,0:04:43.77,0:04:45.04,White font,,0,0,0,,And the building
+Dialogue: 0,0:04:45.04,0:04:46.57,White font,,0,0,0,,Reaches its 10 floor!
+Dialogue: 0,0:04:49.45,0:04:52.46,Yamazaki,,0,0,0,,{\pos(726.75,909)}Tanaka, this...
+Dialogue: 0,0:04:50.71,0:04:53.71,Endo,,0,0,0,,This is... we're pushing it to its limits
+Dialogue: 0,0:04:52.46,0:04:54.79,Tanaka,,0,0,0,,{\pos(717.75,921)}I really want to add a floor to this
+Dialogue: 0,0:04:54.18,0:04:55.28,Matsumoto,,0,0,0,,Of course you want to
+Dialogue: 0,0:04:55.28,0:04:56.58,Yamazaki,,0,0,0,,One, two, three, four, five...
+Dialogue: 0,0:04:56.58,0:04:58.08,Endo,,0,0,0,,This is the worst part
+Dialogue: 0,0:04:59.53,0:05:05.27,Matsumoto,,0,0,0,,{\pos(380.25,912)}If the game would end here
+Dialogue: 0,0:05:00.30,0:05:05.27,Black font,,0,0,0,,{\pos(1001.25,912)}it won't be funny at all
+Dialogue: 0,0:05:02.35,0:05:03.79,Yamazaki,,0,0,0,,I guess you're right
+Dialogue: 0,0:05:05.39,0:05:07.23,Hamada,,0,0,0,,Even if you say so...
+Dialogue: 0,0:05:07.57,0:05:10.67,Matsumoto,,0,0,0,,{\pos(616.5,903)}If this ends here
+Dialogue: 0,0:05:09.04,0:05:10.67,Black font,,0,0,0,,{\c&HC32FAD&\4c&H000000&\pos(1030.5,879)}Tanaka is the worst
+Dialogue: 0,0:05:12.77,0:05:14.13,Matsumoto,,0,0,0,,Concentrate, concentrate
+Dialogue: 0,0:05:14.13,0:05:15.70,Yamazaki,,0,0,0,,Concentrate, you're doing it
+Dialogue: 0,0:05:15.70,0:05:16.97,Yamazaki,,0,0,0,,It's fine
+Dialogue: 0,0:05:17.80,0:05:19.51,Matsumoto,,0,0,0,,This is nothing good
+Dialogue: 0,0:05:19.51,0:05:21.35,Endo,,0,0,0,,{\pos(724.5,924)}Which card is it next?
+Dialogue: 0,0:05:21.67,0:05:22.07,Tanaka,,0,0,0,,This
+Dialogue: 0,0:05:22.07,0:05:23.64,Endo,,0,0,0,,Skip one player?
+Dialogue: 0,0:05:21.98,0:05:24.72,White font,,0,0,0,,{\fad(150,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&\pos(411.75,867)}SKIP ONE PLAYER
+Dialogue: 0,0:05:24.72,0:05:26.11,Hamada,,0,0,0,,It's on Matsumoto-san then
+Dialogue: 0,0:05:28.21,0:05:29.61,Endo,,0,0,0,,Rules are rules
+Dialogue: 0,0:05:30.08,0:05:31.06,Yamazaki,,0,0,0,,His choice is right
+Dialogue: 0,0:05:31.06,0:05:32.63,Matsumoto,,0,0,0,,Dude that's so sly
+Dialogue: 0,0:05:32.63,0:05:34.23,Yamazaki,,0,0,0,,He can but please
+Dialogue: 0,0:05:34.23,0:05:36.40,Black font,,0,0,0,,{\4c&H38DB45&\pos(735.75,900)}Please don't fail on this one !!
+Dialogue: 0,0:05:34.52,0:05:38.36,Matsumoto,,0,0,0,,Come on Tanaka, you don't have to go that far to stop me
+Dialogue: 0,0:05:39.20,0:05:40.13,Hamada,,0,0,0,,{\pos(715.5,927)}He made it
+Dialogue: 0,0:05:39.62,0:05:40.13,Yamazaki,,0,0,0,,He did it
+Dialogue: 0,0:05:40.13,0:05:41.20,Hamada,,0,0,0,,Ok
+Dialogue: 0,0:05:41.20,0:05:42.50,Hamada,,0,0,0,,{\pos(722.25,927)}Yama-chan {\c&H67FFF6&\3c&H000000&}will be skipping this turn, {\alpha&HFF&}{\3c&HFFFFFF&\c&HC42E24&}so it's on Matsumoto-san
+Dialogue: 0,0:05:42.50,0:05:44.27,Hamada,,0,0,0,,{\pos(722.25,927)}Yama-chan {\c&H67FFF6&\3c&H000000&}will be skipping this turn, {\3c&HFFFFFF&\c&HC42E24&}so it's on Matsumoto-san
+Dialogue: 0,0:05:43.43,0:05:44.27,Yamazaki,,0,0,0,,Ok, Matsumoto-san
+Dialogue: 0,0:05:45.27,0:05:46.54,Endo,,0,0,0,,Matsumoto-san...
+Dialogue: 0,0:05:46.54,0:05:50.38,Endo,,0,0,0,,{\pos(461.25,768)}If it falls right now
+Dialogue: 0,0:05:46.54,0:05:50.38,Black font,,0,0,0,,{\pos(994.5,768)}it's not going to be funny at all
+Dialogue: 0,0:05:50.38,0:05:51.58,Yamazaki,,0,0,0,,It would be the worst
+Dialogue: 0,0:05:51.58,0:05:54.22,Black font,,0,0,0,,{\c&H6E0802&\pos(600.75,909)}It's really the unfunniest distance
+Dialogue: 0,0:05:53.15,0:05:54.22,Black font,,0,0,0,,{\pos(1104.75,909)\c&H6E0802&}I mean height
+Dialogue: 0,0:05:54.22,0:05:55.75,Matsumoto,,0,0,0,,{\pos(717.75,918)}I really have no idea how's up there,{\alpha&HFF&} I can't see anything!
+Dialogue: 0,0:05:55.75,0:05:57.79,Matsumoto,,0,0,0,,{\pos(717.75,918)}I really have no idea how's up there,{\c&H000000&\4c&H0000CB&} I can't see anything!
+Dialogue: 0,0:05:56.80,0:05:57.50,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:05:57.50,0:05:58.01,Endo,,0,0,0,,That's true
+Dialogue: 0,0:05:58.01,0:05:58.81,Yamazaki,,0,0,0,,It's too high
+Dialogue: 0,0:05:58.81,0:05:59.78,Matsumoto,,0,0,0,,I don't know its shape
+Dialogue: 0,0:05:59.78,0:06:01.68,Endo,,0,0,0,,Woah, here we are...
+Dialogue: 0,0:06:06.43,0:06:09.70,Yamazaki,,0,0,0,,{\pos(724.5,921)}Which shape is it?
+Dialogue: 0,0:06:07.33,0:06:09.70,Matsumoto,,0,0,0,,{\pos(315,684)}It's a single one
+Dialogue: 0,0:06:08.22,0:06:10.20,Yamazaki,,0,0,0,,A single one?     {\c&H0096FF&}- Just one?    {\c&HC32FAD&} - One...
+Dialogue: 0,0:06:10.20,0:06:12.63,Matsumoto,,0,0,0,,{\c&H67FFF6&\3c&H000000&\pos(726.75,915)}A single "V" {\c&H2525BB&\3c&HFFFFFF&}on its center
+Dialogue: 0,0:06:12.63,0:06:13.67,Tanaka,,0,0,0,,{\pos(724.5,912)}If you manage to get through this,{\alpha&HFF&} the next player will be pressured
+Dialogue: 0,0:06:13.67,0:06:15.97,Tanaka,,0,0,0,,{\pos(724.5,912)}If you manage to get through this,{\c&H000000&\4c&HC32FAD&} the next player will be pressured
+Dialogue: 0,0:06:14.74,0:06:15.49,Endo,,0,0,0,,Yeah, right
+Dialogue: 0,0:06:15.49,0:06:17.09,Endo,,0,0,0,,Pretty high...
+Dialogue: 0,0:06:17.09,0:06:19.00,Hamada,,0,0,0,,This is a bit too much...
+Dialogue: 0,0:06:17.48,0:06:19.84,Yamazaki,,0,0,0,,{\pos(731.25,918)}You can do it, Matsumoto-san!
+Dialogue: 0,0:06:24.94,0:06:27.05,Endo,,0,0,0,,{\pos(720,924)}He actually made it
+Dialogue: 0,0:06:25.47,0:06:26.44,Yamazaki,,0,0,0,,See?
+Dialogue: 0,0:06:27.05,0:06:29.55,Hamada,,0,0,0,,{\pos(722.25,924)}Are you for real?
+Dialogue: 0,0:06:30.84,0:06:32.88,Hamada,,0,0,0,,This is impossible by now
+Dialogue: 0,0:06:33.22,0:06:36.22,Black font,,0,0,0,,{\4c&HC42E24&\pos(715.5,879)}Speak louder!
+Dialogue: 0,0:06:37.29,0:06:41.49,Matsumoto,,0,0,0,,{\fad(200,0)\c&H2223C0&\1a&H5F&\3c&HFFFFFF&\3a&H70&\4c&H000000&\4a&HAB&\pos(722.25,915)}I have a really bad feeling about this
+Dialogue: 0,0:06:41.49,0:06:43.82,Hamada,,0,0,0,,This is a bit too much...
+Dialogue: 0,0:06:49.12,0:06:51.23,Endo,,0,0,0,,It's on, it's on, it's on!
+Dialogue: 0,0:06:51.23,0:06:53.26,Tanaka,,0,0,0,,Ok, ok, ok, ok, ok
+Dialogue: 0,0:06:53.26,0:06:54.01,Endo,,0,0,0,,That means
+Dialogue: 0,0:06:54.01,0:06:55.81,Endo,,0,0,0,,{\pos(720,933)}Hamada-san is next
+Dialogue: 0,0:06:55.81,0:06:58.18,Hamada,,0,0,0,,This is impossible by now
+Dialogue: 0,0:06:58.18,0:06:59.24,Hamada,,0,0,0,,{\pos(715.5,915)}I don't think{\c&H000000&} I can see{\c&HC42E24&}{\alpha&HFF&} its top from this stepladder
+Dialogue: 0,0:06:59.24,0:07:00.78,Hamada,,0,0,0,,{\pos(715.5,915)}I don't think{\c&H000000&} I can see{\c&HC42E24&} its top from this stepladder
+Dialogue: 0,0:07:00.78,0:07:03.52,Yamazaki,,0,0,0,,{\pos(733.5,921)}Let's do it with a taller one then
+Dialogue: 0,0:07:03.52,0:07:05.64,Endo,,0,0,0,,I think you can do this
+Dialogue: 0,0:07:05.64,0:07:08.81,Hamada,,0,0,0,,Yeah but it's shaking like crazy!
+Dialogue: 0,0:07:11.05,0:07:12.25,Tanaka,,0,0,0,,This should do it
+Dialogue: 0,0:07:15.25,0:07:15.93,Matsumoto,,0,0,0,,Yeah but
+Dialogue: 0,0:07:15.93,0:07:17.80,Matsumoto,,0,0,0,,{\pos(726.75,924)}Shouldn't we let Hamada place it?
+Dialogue: 0,0:07:17.80,0:07:19.35,Endo,,0,0,0,,Man, it can't be that near
+Dialogue: 0,0:07:19.35,0:07:20.46,Matsumoto,,0,0,0,,This is scary
+Dialogue: 0,0:07:31.12,0:07:32.40,Endo,,0,0,0,,If you please
+Dialogue: 0,0:07:39.04,0:07:40.45,Black font,,0,0,0,,{\fscx112.5\fscy300\t(0,319,\fscx112.5\fscy150\t(519,820,\fscx112.5\fscy150))\pos(393.75,880.5)}{\pos(383.249,853.5)\4c&HC42E24&}{\fs48}Scary !!
+Dialogue: 0,0:07:40.68,0:07:43.25,Hamada,,0,0,0,,{\pos(735.75,924)}That's 'cause you placed this single card here
+Dialogue: 0,0:07:44.15,0:07:45.36,Endo,,0,0,0,,Why the other side?
+Dialogue: 0,0:07:45.36,0:07:47.32,Black font,,0,0,0,,{\fscx112.5\fscy150\t(200,219,\fscx225\fscy150\t(169,620,\fscx112.5\fscy150))\c&H6E0802&\pos(571.5,889.5)}Nnnope !!
+Dialogue: 0,0:07:47.32,0:07:49.65,Matsumoto,,0,0,0,,The other side! The other!
+Dialogue: 0,0:07:49.65,0:07:51.62,Hamada,,0,0,0,,It's not a matter of sides---
+Dialogue: 0,0:07:52.90,0:07:53.46,Matsumoto,,0,0,0,,You suck
+Dialogue: 0,0:07:53.46,0:07:56.70,Yamazaki,,0,0,0,,{\pos(717.75,924)}Moreover, it happened {\c&H000000&\4c&H38DB45&}without him realizing it
+Dialogue: 0,0:07:56.70,0:07:59.00,Black font,,0,0,0,,{\4c&H2223C0&\pos(720,894)}Yeah it was like "I have no idea what's goin' on"
+Dialogue: 0,0:07:59.66,0:08:01.49,Matsumoto,,0,0,0,,He really had no idea it was happening
+Dialogue: 0,0:08:01.49,0:08:02.40,Yamazaki,,0,0,0,,He ignored it!
+Dialogue: 0,0:08:02.40,0:08:04.10,Hamada,,0,0,0,,As soon as I placed it
+Dialogue: 0,0:08:04.10,0:08:06.53,Hamada,,0,0,0,,I suddenly got it back cause it was shaky
+Dialogue: 0,0:08:05.68,0:08:07.78,Black font,,0,0,0,,{\pos(708.75,882)\c&H0B0C95&}Alright, you're no good!!
+Dialogue: 0,0:08:08.74,0:08:09.54,White font,,0,0,0,,Coming up
+Dialogue: 0,0:08:09.54,0:08:12.54,White font,,0,0,0,,Matsumoto's outburst with a battle game!?
+Dialogue: 0,0:08:08.50,0:08:13.82,White font,,0,0,0,,{\fad(350,0)\c&HECB139&\3c&HFFFFFF&\4c&H4A3F01&\fnKristen ITC\b1\fs94.5\\2c&HFFFFFF&\pos(722.25,900)}Matsumoto snaps playing a occupy-the-base game!?
+Dialogue: 0,0:08:14.72,0:08:21.19,Other,,0,0,0,,{\fad(1000,0)\fs69\c&H000000&\3c&HFFFFFF&\pos(688.5,765)}Blokus - {\c&HC32FAD&\4c&H646F74&}France
+Dialogue: 0,0:08:14.72,0:08:21.19,Other,,0,0,0,,{\fad(1000,0)\fs75\c&H3028C6&\3c&HFFFFFF&\4c&H3028C6&\pos(724.5,894)}Link together the pieces with your color and line them up!!
+Dialogue: 0,0:08:15.44,0:08:17.78,White font,,0,0,0,,The next game Tanaka chose
+Dialogue: 0,0:08:17.78,0:08:20.28,White font,,0,0,0,,Is "Blokus", from France!
+Dialogue: 0,0:08:21.50,0:08:32.07,Other,,0,0,0,,{\fad(200,0)\c&H0096FF&\3c&HFFFFFF&\4c&HB41009&\fnKristen ITC\b1\fs84\\pos(711,765)}France -  {\c&HA81A5E&}Blokus
+Dialogue: 0,0:08:21.50,0:08:32.07,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs60\\pos(722.25,873)}It's a game about occupying the others' base, in which 4 players,
+Dialogue: 0,0:08:21.50,0:08:32.07,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs60\\pos(643.5,963)}in order, has to connect the pieces with his own color
+Dialogue: 0,0:08:22.37,0:08:23.85,White font,,0,0,0,,4 players, in turns,
+Dialogue: 0,0:08:23.85,0:08:25.85,White font,,0,0,0,,While connecting their own pieces
+Dialogue: 0,0:08:25.85,0:08:28.49,White font,,0,0,0,,Must place them on the gameboard
+Dialogue: 0,0:08:29.12,0:08:29.79,White font,,0,0,0,,However
+Dialogue: 0,0:08:29.79,0:08:31.62,White font,,0,0,0,,There's a single rule...
+Dialogue: 0,0:08:32.12,0:08:34.70,Tanaka,,0,0,0,,You have to line each of them up one after another
+Dialogue: 0,0:08:34.70,0:08:36.20,Tanaka,,0,0,0,,{\pos(726.75,789)}As a rule, {\alpha&HFF&}at least one spot of each piece must adhere
+Dialogue: 0,0:08:36.20,0:08:43.38,Tanaka,,0,0,0,,{\pos(726.75,789)}As a rule, at least {\c&H67FFF6&\3c&H000000&}one spot{\c&HC32FAD&\3c&HFFFFFF&} of each piece must adhere
+Dialogue: 0,0:08:39.21,0:08:43.38,Tanaka,,0,0,0,,{\pos(573.75,939)}To that of another piece you've placed
+Dialogue: 0,0:08:37.78,0:08:39.16,Matsumoto,,0,0,0,,It must touch, right?
+Dialogue: 0,0:08:39.63,0:08:42.33,Matsumoto,,0,0,0,,Just one spot, right?
+Dialogue: 0,0:08:43.38,0:08:45.21,Tanaka,,0,0,0,,{\pos(722.25,930)}You have to make sure their {\c&H67FFF6&\3c&H000000&}edges{\3c&HFFFFFF&\c&HC32FAD&} touch
+Dialogue: 0,0:08:45.20,0:08:45.77,Endo,,0,0,0,,The edges?
+Dialogue: 0,0:08:45.77,0:08:48.17,Tanaka,,0,0,0,,But you can't make them touch like this
+Dialogue: 0,0:08:48.17,0:08:49.38,Endo,,0,0,0,,We can't?     {\c&H2223C0&} - Is it not good?
+Dialogue: 0,0:08:49.38,0:08:50.25,Tanaka,,0,0,0,,Yeah this is no good
+Dialogue: 0,0:08:50.25,0:08:52.22,Tanaka,,0,0,0,,{\pos(720,915)}If the {\c&H67FFF6&\3c&H000000&}sides{\c&HC32FAD&\3c&HFFFFFF&} are touching, {\c&H000000&\4c&HC42E24&}it isn't ok
+Dialogue: 0,0:08:52.22,0:08:52.85,Hamada,,0,0,0,,Edges only?
+Dialogue: 0,0:08:52.85,0:08:54.49,Tanaka,,0,0,0,,{\pos(729,924)}Yes, it's {\c&H67FFF6&\3c&H000000&}only the edges
+Dialogue: 0,0:08:54.49,0:08:56.83,Tanaka,,0,0,0,,You do like this with just the edges...{\c&H2223C0&}      - I see...
+Dialogue: 0,0:08:56.83,0:08:58.39,Tanaka,,0,0,0,,And gradually connect them
+Dialogue: 0,0:08:58.39,0:09:02.00,Tanaka,,0,0,0,,By doing that you widen your own field
+Dialogue: 0,0:09:02.00,0:09:06.03,Tanaka,,0,0,0,,{\pos(715.5,918)}You also have to think on{\c&H000000&} how to block your opponents' invasion
+Dialogue: 0,0:09:04.86,0:09:06.03,Endo,,0,0,0,,That's hard!     {\c&H38DB45&}- I see
+Dialogue: 0,0:09:06.03,0:09:06.67,Tanaka,,0,0,0,,You have to
+Dialogue: 0,0:09:06.67,0:09:08.17,Tanaka,,0,0,0,,{\pos(715.5,915)}Use your head
+Dialogue: 0,0:09:08.17,0:09:11.97,Tanaka,,0,0,0,,{\pos(715.5,912)}The player who thinks he {\c&H000000&\4c&HC32FAD&}can't go further than that{\4c&H000000&}, {\c&H6E0802&}is out
+Dialogue: 0,0:09:11.36,0:09:12.56,Hamada,,0,0,0,,I see, I see
+Dialogue: 0,0:09:11.97,0:09:15.71,Tanaka,,0,0,0,,{\pos(726.75,924)}Keep on playing until the end {\c&H67FFF6&\3c&H000000&}with those who still can
+Dialogue: 0,0:09:15.40,0:09:16.80,Matsumoto,,0,0,0,,Woah you can't really...
+Dialogue: 0,0:09:16.80,0:09:19.87,Matsumoto,,0,0,0,,Win this game if you don't corner the others
+Dialogue: 0,0:09:18.60,0:09:19.34,Tanaka,,0,0,0,,Pretty much
+Dialogue: 0,0:09:20.50,0:09:24.22,Black font,,0,0,0,,{\fad(100,0)\fs90\pos(720,885)\fnBauhaus 93\c&HFFFFFF&\3c&H0096FF&\4c&H00D2FF&}Starting{\c&H0096FF&\3c&HFFFFFF&} from Endo
+Dialogue: 0,0:09:21.44,0:09:23.41,Endo,,0,0,0,,Lots of them have edges... Ok, I'm going
+Dialogue: 0,0:09:23.41,0:09:24.22,Tanaka,,0,0,0,,Ok
+Dialogue: 0,0:09:24.22,0:09:25.61,Tanaka,,0,0,0,,Nice choice
+Dialogue: 0,0:09:25.61,0:09:26.74,Tanaka,,0,0,0,,Next up is Hamada
+Dialogue: 0,0:09:26.74,0:09:28.95,Tanaka,,0,0,0,,Choose which one to use between these
+Dialogue: 0,0:09:28.62,0:10:00.15,White font,,0,0,0,,{\fs37.5\4c&H000000&\4a&HFF&\pos(312.75,42)}upper right corner: in-game color of the players
+Dialogue: 0,0:09:28.62,0:10:00.15,White font,,0,0,0,,{\fs45\4c&H000000&\4a&HFF&\pos(1082.25,48)\c&H38DB45&}Endo {\c&HFFFFFF&}→ {\c&H292AFF&}Hamada {\c&HFFFFFF&}→ {\c&HFF6A00&}Matsumoto {\c&HFFFFFF&}→ {\c&H00EFE1&}Housei
+Dialogue: 0,0:09:28.95,0:09:29.68,Hamada,,0,0,0,,Alright
+Dialogue: 0,0:09:29.68,0:09:30.11,Tanaka,,0,0,0,,Good
+Dialogue: 0,0:09:32.72,0:09:33.42,Tanaka,,0,0,0,,Like that
+Dialogue: 0,0:09:36.50,0:09:37.02,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:09:37.02,0:09:38.12,Tanaka,,0,0,0,,Back to Endo-san
+Dialogue: 0,0:09:39.49,0:09:41.33,Tanaka,,0,0,0,,Yes, yes, yes, just like that
+Dialogue: 0,0:09:41.33,0:09:44.07,Hamada,,0,0,0,,Why pointing that out? I can see it
+Dialogue: 0,0:09:45.66,0:09:47.53,Tanaka,,0,0,0,,'Cause the rules are surprisingly hard
+Dialogue: 0,0:09:47.53,0:09:49.11,Matsumoto,,0,0,0,,Let's see...
+Dialogue: 0,0:09:49.11,0:09:50.20,Tanaka,,0,0,0,,Alright, alright
+Dialogue: 0,0:09:51.76,0:09:52.20,Tanaka,,0,0,0,,Ok
+Dialogue: 0,0:09:54.55,0:09:55.67,Tanaka,,0,0,0,,Yes, that's fine
+Dialogue: 0,0:09:56.51,0:09:59.48,Matsumoto,,0,0,0,,I have no idea what to do, though    {\c&HC42E24&}  - Yeah me too
+Dialogue: 0,0:10:01.79,0:10:03.12,Black font,,0,0,0,,{\c&H951A6F&\pos(715.5,885)}You can't do that!!
+Dialogue: 0,0:10:03.12,0:10:07.16,Tanaka,,0,0,0,,{\pos(720,924)}'Cause the {\c&H67FFF6&\3c&H000000&}sides{\c&HC32FAD&\3c&HFFFFFF&} are touching right here
+Dialogue: 0,0:10:05.21,0:10:07.16,Hamada,,0,0,0,,But it wasn't touching over there
+Dialogue: 0,0:10:07.16,0:10:07.63,Tanaka,,0,0,0,,Yeah but
+Dialogue: 0,0:10:07.63,0:10:11.13,Tanaka,,0,0,0,,{\pos(726.75,921)}Even if it touches just one side{\c&H000000&\4c&H6E0802&} is still not ok
+Dialogue: 0,0:10:11.13,0:10:13.13,Matsumoto,,0,0,0,,So like that?    {\c&HC32FAD&}  - Yeah, that's fine
+Dialogue: 0,0:10:14.00,0:10:17.90,Black font,,0,0,0,,{\fad(200,200)\fnBauhaus 93\fs72\c&H38DB45&\4c&H67FFF6&\pos(726.75,903)}The four of them easily place their pieces
+Dialogue: 0,0:10:18.50,0:10:23.68,Black font,,0,0,0,,{\fad(200,0)\fnBauhaus 93\fs72\c&H951A6F&\4c&H646F74&\pos(706.5,897)}However, the space on the board is reaching its {\c&H3C4245&}limits
+Dialogue: 0,0:10:18.50,0:10:23.68,Black font,,0,0,0,,{\fad(200,0)\fnBauhaus 93\fs142.5\c&H951A6F&\4c&H646F74&\frz355.4\1a&HDA&\3c&HFFFFFF&\3a&HE2&\4a&HE6&\pos(724.5,1035)}However, the space on the board
+Dialogue: 0,0:10:23.85,0:10:27.48,Other,,0,0,0,,{\fad(150,0)\pos(177.75,876)}8th round
+Dialogue: 0,0:10:24.17,0:10:25.43,Yamazaki,,0,0,0,,Give me a second     {\c&HC32FAD&}- Ok
+Dialogue: 0,0:10:26.24,0:10:27.48,Matsumoto,,0,0,0,,Should I do a countdown?    {\c&H38DB45&}- Ok
+Dialogue: 0,0:10:32.02,0:10:34.35,Black font,,0,0,0,,{\4c&H0000CB&\pos(720,900)}You ignored it
+Dialogue: 0,0:10:34.35,0:10:36.24,Hamada,,0,0,0,,You're all cornering me
+Dialogue: 0,0:10:36.91,0:10:38.24,Tanaka,,0,0,0,,Good, good
+Dialogue: 0,0:10:43.00,0:10:44.00,Yamazaki,,0,0,0,,Is that good?     {\c&H0096FF&}- Yeah
+Dialogue: 0,0:10:49.12,0:10:49.66,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:10:56.17,0:10:58.68,Tanaka,,0,0,0,,{\pos(717.75,918)}Matsumoto-san, you're next
+Dialogue: 0,0:11:02.00,0:11:03.07,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:11:03.07,0:11:03.51,Hamada,,0,0,0,,It
+Dialogue: 0,0:11:03.51,0:11:07.45,Hamada,,0,0,0,,{\pos(722.25,927)}It just took you{\alpha&HFF&} a long time to realize that
+Dialogue: 0,0:11:07.45,0:11:09.85,Hamada,,0,0,0,,{\pos(722.25,927)}It just took you a {\c&H000000&}long {\c&HC42E24&}time to realize that
+Dialogue: 0,0:11:09.85,0:11:11.31,Matsumoto,,0,0,0,,Its' just that...
+Dialogue: 0,0:11:10.24,0:11:12.55,Hamada,,0,0,0,,You were just going 3, 2, 1 to us
+Dialogue: 0,0:11:12.19,0:11:15.83,Matsumoto,,0,0,0,,{\pos(400.5,777)}It's just that none of you
+Dialogue: 0,0:11:13.26,0:11:15.83,White font,,0,0,0,,{\pos(659.25,921)}Reacted to my countdown at all, so I wonder why
+Dialogue: 0,0:11:15.83,0:11:17.12,Matsumoto,,0,0,0,,It backfired just at me
+Dialogue: 0,0:11:17.68,0:11:18.12,Matsumoto,,0,0,0,,Ok
+Dialogue: 0,0:11:18.49,0:11:20.12,Tanaka,,0,0,0,,Alright, good, good
+Dialogue: 0,0:11:22.26,0:11:23.26,Tanaka,,0,0,0,,Ok, ok, ok
+Dialogue: 0,0:11:25.10,0:11:29.44,Matsumoto,,0,0,0,,{\pos(715.5,912)}It's about time for a {\c&H000000&}drop-out
+Dialogue: 0,0:11:25.89,0:11:28.53,Tanaka,,0,0,0,,Yes, it will slowly get more severe
+Dialogue: 0,0:11:28.53,0:11:30.00,Tanaka,,0,0,0,,So someone will surely lose soon
+Dialogue: 0,0:11:30.00,0:11:31.16,Endo,,0,0,0,,I see...      {\c&HC32FAD&} - Yes
+Dialogue: 0,0:11:33.91,0:11:36.08,Tanaka,,0,0,0,,{\pos(726.75,924)}Ah!! A {\c&H67FFF6&\3c&H000000&}side {\c&HC32FAD&\3c&HFFFFFF&}is touching there
+Dialogue: 0,0:11:36.08,0:11:38.25,Black font,,0,0,0,,{\pos(717.75,897)\4c&H0000CB&}How many times are ya doin' this?
+Dialogue: 0,0:11:38.98,0:11:40.35,Black font,,0,0,0,,{\4c&H0000CB&\pos(1035,882)}countless times
+Dialogue: 0,0:11:38.25,0:11:40.35,Black font,,0,0,0,,{\4c&H0000CB&\pos(519.75,882)}You're the only one who did this
+Dialogue: 0,0:11:42.33,0:11:44.22,Black font,,0,0,0,,{\fad(100,0)\4c&HC42E24&\pos(690.75,648)\frz347.2}Shut the hell up!!
+Dialogue: 0,0:11:44.22,0:11:45.91,Hamada,,0,0,0,,What the hell, man
+Dialogue: 0,0:11:45.91,0:11:47.85,Hamada,,0,0,0,,This piece is long
+Dialogue: 0,0:11:49.30,0:11:51.43,Matsumoto,,0,0,0,,Tanaka, shouldn't we use a penalty system?
+Dialogue: 0,0:11:51.43,0:11:53.73,Matsumoto,,0,0,0,,{\pos(726.75,903)}You've made the {\c&H67FFF6&\3c&H000000&}sides {\c&H2223C0&\3c&HFFFFFF&}touch again !!
+Dialogue: 0,0:11:53.73,0:11:57.37,Black font,,0,0,0,,{\4c&H0000CB&\pos(758.25,861)\c&H000067&}Can you do this more seriously?!
+Dialogue: 0,0:11:59.32,0:12:00.27,Tanaka,,0,0,0,,Alright, alright
+Dialogue: 0,0:12:03.67,0:12:06.27,Black font,,0,0,0,,{\4c&HC42E24&\pos(717.75,891)}Hurry the hell up!!
+Dialogue: 0,0:12:08.18,0:12:10.75,Matsumoto,,0,0,0,,{\pos(720,915)}Say what you like but I'm always hurryin' up
+Dialogue: 0,0:12:10.75,0:12:12.75,Matsumoto,,0,0,0,,I have this big one
+Dialogue: 0,0:12:14.98,0:12:17.09,Black font,,0,0,0,,{\4c&H0000CB&\pos(717.75,909)}You just wanted to say that, don't you?
+Dialogue: 0,0:12:18.59,0:12:21.16,Matsumoto,,0,0,0,,{\pos(726.75,918)}I've found a pretty good spot
+Dialogue: 0,0:12:19.61,0:12:22.18,Tanaka,,0,0,0,,He's right, that's ok, alright
+Dialogue: 0,0:12:24.33,0:12:26.59,Matsumoto,,0,0,0,,{\pos(312.75,636)}What are you doin'?
+Dialogue: 0,0:12:25.63,0:12:29.53,Black font,,0,0,0,,{\c&HC42E24&\pos(717.75,924)}You said{\c&H000000&} it's not ok to touch sides, so...
+Dialogue: 0,0:12:27.03,0:12:29.53,Matsumoto,,0,0,0,,{\frz354.6\pos(400.5,828)}Don't check their {\c&H67FFF6&\3c&H000000&}length
+Dialogue: 0,0:12:31.20,0:12:32.79,Matsumoto,,0,0,0,,The situation quickly worsened
+Dialogue: 0,0:12:32.79,0:12:34.87,Tanaka,,0,0,0,,Alright Endo-san, that was good
+Dialogue: 0,0:12:34.87,0:12:37.54,Hamada,,0,0,0,,{\pos(717.75,921)}Can I {\c&H000067&}snap one of them in half?
+Dialogue: 0,0:12:35.84,0:12:37.54,Tanaka,,0,0,0,,{\pos(992.25,762)}You can't
+Dialogue: 0,0:12:37.54,0:12:38.63,Endo,,0,0,0,,You {\c&HC32FAD&}can't
+Dialogue: 0,0:12:38.63,0:12:39.51,Endo,,0,0,0,,That's obvious
+Dialogue: 0,0:12:39.51,0:12:41.88,Matsumoto,,0,0,0,,{\pos(733.5,933)}You just want to {\c&H67FFF6&\3c&H000000&}tear them all to pieces
+Dialogue: 0,0:12:43.53,0:12:44.94,Endo,,0,0,0,,Oh!    {\c&HC32FAD&} - Ok, ok
+Dialogue: 0,0:12:44.94,0:12:45.70,Endo,,0,0,0,,I see
+Dialogue: 0,0:12:50.15,0:12:53.15,Black font,,0,0,0,,{\pos(717.75,927)\c&H2223C0&}Am I the one {\c&H6E0802&}who's screwed after all?
+Dialogue: 0,0:12:55.00,0:12:55.78,Hamada,,0,0,0,,Well...    {\c&H38DB45&} - Seems so
+Dialogue: 0,0:12:58.06,0:12:58.65,Black font,,0,0,0,,{\fscx75\fscy800\t(0,17,\fscx150\fscy100\t(17,250,\fscx112.5\fscy450))\c&H000067&\4c&H0000CB&\pos(745.65,894.9)}YAMAZAKI!!
+Dialogue: 0,0:12:58.65,0:13:01.29,Black font,,0,0,0,,{\fscx75\fscy400\t(0,17,\fscx112.5\fscy450\t(17,250,\fscx75\fscy100))\c&H000067&\4c&H0000CB&\pos(745.65,891.9)}YAMAZAKI!!
+Dialogue: 0,0:13:01.29,0:13:03.43,Black font,,0,0,0,,{\4c&H0000CB&\pos(756,867)}YOU DID IT, YOU FUCKER!!
+Dialogue: 0,0:13:03.43,0:13:04.13,Hamada,,0,0,0,,He's right
+Dialogue: 0,0:13:04.13,0:13:07.47,Hamada,,0,0,0,,{\pos(717.75,930)}This is pretty {\c&H000000&\4c&H6E0802&}bad for him
+Dialogue: 0,0:13:05.59,0:13:07.86,Endo,,0,0,0,,I think he's done for      {\c&HC32FAD&}- Yeah pretty much
+Dialogue: 0,0:13:07.86,0:13:09.06,Yamazaki,,0,0,0,,Probably     {\c&H0096FF&} - This is...
+Dialogue: 0,0:13:09.90,0:13:11.94,Matsumoto,,0,0,0,,{\pos(724.5,924)}I wonder if I can overcome this
+Dialogue: 0,0:13:14.70,0:13:15.80,Tanaka,,0,0,0,,Right, right, right
+Dialogue: 0,0:13:17.73,0:13:19.60,White font,,0,0,0,,After that, Housei
+Dialogue: 0,0:13:20.57,0:13:21.65,White font,,0,0,0,,Endo
+Dialogue: 0,0:13:22.98,0:13:25.60,White font,,0,0,0,,And Hamada place their pieces easily
+Dialogue: 0,0:13:25.60,0:13:28.04,White font,,0,0,0,,And it's Matsumoto's turn again
+Dialogue: 0,0:13:28.41,0:13:28.94,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:13:28.94,0:13:30.35,Tanaka,,0,0,0,,Up to you, Matsumoto-san
+Dialogue: 0,0:13:30.35,0:13:30.99,Matsumoto,,0,0,0,,Man
+Dialogue: 0,0:13:30.99,0:13:35.03,Matsumoto,,0,0,0,,{\pos(720,909)}The situation {\c&H000000&}got pretty harsh for me
+Dialogue: 0,0:13:35.03,0:13:36.95,Matsumoto,,0,0,0,,Do I have fitting pieces for that?
+Dialogue: 0,0:13:37.93,0:13:40.57,Matsumoto,,0,0,0,,{\pos(747,924)}Am I done for!?
+Dialogue: 0,0:13:42.99,0:13:45.16,Matsumoto,,0,0,0,,I think it's impossible
+Dialogue: 0,0:13:47.81,0:13:50.18,Black font,,0,0,0,,{\4c&H0000CB&\pos(715.5,681)}Get the hell away from me!!
+Dialogue: 0,0:13:50.74,0:13:53.21,Matsumoto,,0,0,0,,{\pos(724.5,933)}There must be a spot!
+Dialogue: 0,0:13:52.43,0:13:55.00,Hamada,,0,0,0,,Yeah but... not much left
+Dialogue: 0,0:13:55.00,0:13:55.80,Matsumoto,,0,0,0,,Oh! This one!
+Dialogue: 0,0:13:56.17,0:13:56.91,Tanaka,,0,0,0,,He found one!
+Dialogue: 0,0:13:56.91,0:13:58.80,Endo,,0,0,0,,Alright!
+Dialogue: 0,0:13:58.80,0:14:00.07,Tanaka,,0,0,0,,He did pretty good!
+Dialogue: 0,0:14:00.07,0:14:02.71,Hamada,,0,0,0,,His range got really wide
+Dialogue: 0,0:14:00.69,0:14:02.72,Tanaka,,0,0,0,,{\pos(724.5,927)}He did a great move
+Dialogue: 0,0:14:02.72,0:14:03.95,Tanaka,,0,0,0,,He made his comeback
+Dialogue: 0,0:14:04.38,0:14:06.38,Tanaka,,0,0,0,,This felt so good
+Dialogue: 0,0:14:05.18,0:14:06.71,Hamada,,0,0,0,,An unexpected turn
+Dialogue: 0,0:14:08.69,0:14:10.69,Black font,,0,0,0,,{\c&H0096FF&\pos(726.75,933)}You can't{\c&H000000&}{\4c&H0096FF&} place that over there
+Dialogue: 0,0:14:10.69,0:14:12.92,Matsumoto,,0,0,0,,You really want to stand in my way, don't you?
+Dialogue: 0,0:14:12.92,0:14:14.69,Hamada,,0,0,0,,Can he do that? I'm not sure
+Dialogue: 0,0:14:14.35,0:14:16.17,Black font,,0,0,0,,{\fad(100,0)\fscx112.5\fscy150\t(0,519,\fscx225\fscy150\t(189,320,\fscx112.5\fscy150))\pos(708.75,907.5)\4c&H0000CB&}This is 100% illegal
+Dialogue: 0,0:14:16.17,0:14:19.24,Black font,,0,0,0,,{\pos(722.25,900)\c&H0B0C95&}And on top of that you are a friggin' {\c&H83075C&}unpleasant {\c&H0B0C95&}presence!!
+Dialogue: 0,0:14:20.16,0:14:23.07,Tanaka,,0,0,0,,They were completely attached      {\c&HC42E24&}  - What the hell was that?
+Dialogue: 0,0:14:23.25,0:14:27.08,Black font,,0,0,0,,{\fad(250,0)\c&H0096FF&\pos(704.25,885)}Endo{\c&H000000&}'s {\c&H000000&}situation is going to...
+Dialogue: 0,0:14:24.03,0:14:24.80,White font,,0,0,0,,At this point
+Dialogue: 0,0:14:24.80,0:14:26.80,White font,,0,0,0,,Things don't look good for Endo
+Dialogue: 0,0:14:27.71,0:14:31.18,Endo,,0,0,0,,{\pos(724.5,930)}I think I've just {\c&H000000&}run out {\c&H2087FA&}of free space
+Dialogue: 0,0:14:29.97,0:14:30.97,Tanaka,,0,0,0,,Probably
+Dialogue: 0,0:14:31.52,0:14:33.95,Matsumoto,,0,0,0,,{\pos(724.5,915)}Of course this was {\c&H000000&}impossible{\c&H2223C0&} for Endo
+Dialogue: 0,0:14:33.95,0:14:37.39,Matsumoto,,0,0,0,,{\pos(420.75,780)}'Cause {\c&H67FFF6&\3c&H000000&}baseball
+Dialogue: 0,0:14:33.95,0:14:37.39,Matsumoto,,0,0,0,,{\pos(735.75,924)}Is the only thing he ever did in his entire life
+Dialogue: 0,0:14:37.39,0:14:38.29,Tanaka,,0,0,0,,Looks like
+Dialogue: 0,0:14:38.29,0:14:43.83,Tanaka,,0,0,0,,{\pos(596.25,918)}Endo-san has
+Dialogue: 0,0:14:39.95,0:14:43.83,Black font,,0,0,0,,{\fad(250,0)\pos(879.75,918)}no space left
+Dialogue: 0,0:14:39.20,0:14:40.31,Endo,,0,0,0,,I'm done for, right?
+Dialogue: 0,0:14:40.31,0:14:41.68,Endo,,0,0,0,,I have no space left
+Dialogue: 0,0:14:41.68,0:14:43.70,Yamazaki,,0,0,0,,Do you have a 1x1 square piece?
+Dialogue: 0,0:14:43.70,0:14:45.82,Yamazaki,,0,0,0,,Have you used it already?      {\c&H0096FF&} - Yeah I used it
+Dialogue: 0,0:14:46.56,0:14:49.20,Matsumoto,,0,0,0,,{\pos(445.5,780)}If only {\c&H67FFF6&\3c&H000000&}baseball
+Dialogue: 0,0:14:46.56,0:14:49.20,Matsumoto,,0,0,0,,{\pos(747,924)}Wasn't the only thing he ever did to this day
+Dialogue: 0,0:14:49.20,0:14:51.10,Matsumoto,,0,0,0,,{\pos(729,909)}That's what made him waste his {\c&HFFFFFF&\3c&H000000&\4c&HF6B446&}1x1 square
+Dialogue: 0,0:14:51.39,0:14:54.17,Endo,,0,0,0,,{\fad(250,0)\pos(722.25,921)}This all happened 'cause I did nothing but {\c&H67FFF6&\3c&H000000&}baseball
+Dialogue: 0,0:14:54.56,0:14:56.90,Endo,,0,0,0,,Yup, I can't do anything      {\c&HC32FAD&}- You're out then
+Dialogue: 0,0:14:56.90,0:14:59.74,Black font,,0,0,0,,{\fad(1000,0)\c&H0096FF&\pos(724.5,807)}ENDO {\c&H000000&\4c&H0096FF&}DROPS OUT
+Dialogue: 0,0:14:57.90,0:14:59.74,Tanaka,,0,0,0,,Leave your pieces here, we count them later
+Dialogue: 0,0:14:59.74,0:15:01.74,Matsumoto,,0,0,0,,It's Da-Hama's turn
+Dialogue: 0,0:15:01.74,0:15:03.95,Tanaka,,0,0,0,,Now it's battle between 3 players
+Dialogue: 0,0:15:03.95,0:15:06.08,Matsumoto,,0,0,0,,{\pos(726.75,921)}I think Da-Hama-san too{\alpha&HFF&} ran out of space
+Dialogue: 0,0:15:06.08,0:15:08.58,Matsumoto,,0,0,0,,{\pos(726.75,921)}I think Da-Hama-san too{\c&H000000&} ran out {\c&H2223C0&}of space
+Dialogue: 0,0:15:06.41,0:15:08.58,Tanaka,,0,0,0,,Yes, the situation got really strict by now
+Dialogue: 0,0:15:08.58,0:15:12.89,White font,,0,0,0,,{\pos(335.25,819)}(staff)
+Dialogue: 0,0:15:08.58,0:15:12.89,White font,,0,0,0,,{\pos(747,939)}If he hasn't any {\c&H67FFF6&}1 or 2 square pieces{\c&HFFFFFF&} left, he's...
+Dialogue: 0,0:15:11.19,0:15:13.69,Tanaka,,0,0,0,,Well, he doesn't have any of those, so...
+Dialogue: 0,0:15:13.69,0:15:17.03,Hamada,,0,0,0,,{\pos(724.5,918)}Nothing left for me to do but {\c&H000067&}snap them in half
+Dialogue: 0,0:15:15.88,0:15:19.55,Tanaka,,0,0,0,,Giving that you can't do that, it means you're out
+Dialogue: 0,0:15:19.55,0:15:20.20,Hamada,,0,0,0,,Alright
+Dialogue: 0,0:15:20.20,0:15:21.06,Tanaka,,0,0,0,,So now
+Dialogue: 0,0:15:17.24,0:15:20.50,Black font,,0,0,0,,{\fad(800,0)\c&HC42E24&\pos(724.5,807)}HAMADA {\c&H000000&\4c&HC42E24&}DROPS OUT
+Dialogue: 0,0:15:21.06,0:15:22.20,Tanaka,,0,0,0,,{\pos(715.5,927)}Now it's a 1 vs 1
+Dialogue: 0,0:15:23.00,0:15:27.77,White font,,0,0,0,,{\fad(350,0)\c&HECB139&\3c&HFFFFFF&\4c&H4A3F01&\fnKristen ITC\b1\fs94.5\\2c&HFFFFFF&\pos(724.5,882)}Matsumoto vs Housei: the unexpected conclusion!?
+Dialogue: 0,0:15:28.24,0:15:30.44,Tanaka,,0,0,0,,So, it's a 1 vs 1 now
+Dialogue: 0,0:15:30.44,0:15:30.97,Matsumoto,,0,0,0,,Oh but
+Dialogue: 0,0:15:30.97,0:15:34.78,Matsumoto,,0,0,0,,{\pos(720,918)}I still have the {\c&HFFFFFF&\4c&HF6B446&\3c&H000000&}1x1 square piece{\4c&H000000&\3c&HFFFFFF&\c&H2223C0&} left
+Dialogue: 0,0:15:32.18,0:15:34.03,Endo,,0,0,0,,He's right      {\c&HC32FAD&}- Incredible!      {\c&HC42E24&} - I see
+Dialogue: 0,0:15:34.03,0:15:36.37,Hamada,,0,0,0,,It could come in handy
+Dialogue: 0,0:15:36.37,0:15:38.18,Tanaka,,0,0,0,,Yeah but he has to widen his range
+Dialogue: 0,0:15:38.18,0:15:41.02,Matsumoto,,0,0,0,,{\pos(720,933)}I think this is the only place left...
+Dialogue: 0,0:15:41.02,0:15:43.78,Matsumoto,,0,0,0,,{\pos(720,924)}There's nowhere but here, right?
+Dialogue: 0,0:15:42.40,0:15:44.11,Endo,,0,0,0,,Tanaka-san?
+Dialogue: 0,0:15:44.11,0:15:45.54,Hamada,,0,0,0,,This...       {\c&HC32FAD&} - Matsumoto-san...
+Dialogue: 0,0:15:47.31,0:15:47.82,Hamada,,0,0,0,,What the-
+Dialogue: 0,0:15:47.82,0:15:49.96,Tanaka,,0,0,0,,{\pos(724.5,921)}That isn't {\c&H000000&\4c&HC42E24&}attached to anything
+Dialogue: 0,0:15:49.96,0:15:50.89,Endo,,0,0,0,,{\pos(722.25,921)}If that was ok,{\alpha&HFF&} it would have changed the whole course
+Dialogue: 0,0:15:50.89,0:15:53.36,Endo,,0,0,0,,{\pos(722.25,921)}If that was ok, {\c&H000000&\4c&H0096FF&}it would have changed the whole course
+Dialogue: 0,0:15:52.40,0:15:53.36,Tanaka,,0,0,0,,Anywhere would be ok
+Dialogue: 0,0:15:58.43,0:15:59.50,Hamada,,0,0,0,,I see, there...
+Dialogue: 0,0:15:59.50,0:16:02.00,Tanaka,,0,0,0,,{\pos(830.25,924)}That is so satisfying to watch!
+Dialogue: 0,0:16:00.66,0:16:02.13,Endo,,0,0,0,,It felt so good
+Dialogue: 0,0:16:02.13,0:16:03.59,Tanaka,,0,0,0,,Yeah, it did
+Dialogue: 0,0:16:04.43,0:16:14.08,Black font,,0,0,0,,{\fad(300,0)\c&H0000CB&\4c&H67FFF6&\pos(729,864)}Matsumoto{\c&H000000&} vs {\c&H38DB45&}Housei{\c&H000000&} - they both only have {\c&HC32FAD&}5 pieces left{\c&H000000&}...
+Dialogue: 0,0:16:04.80,0:16:05.80,White font,,0,0,0,,After that
+Dialogue: 0,0:16:05.80,0:16:08.37,White font,,0,0,0,,The battle between Matsumoto and Housei continues
+Dialogue: 0,0:16:08.37,0:16:11.17,White font,,0,0,0,,And both their pieces are down to five
+Dialogue: 0,0:16:11.17,0:16:13.70,White font,,0,0,0,,And now it's Matsumoto's turn!
+Dialogue: 0,0:16:16.54,0:16:18.94,Matsumoto,,0,0,0,,This one? No, maybe it's wrong..?
+Dialogue: 0,0:16:20.85,0:16:23.32,White font,,0,0,0,,{\pos(715.5,834)}I'm going home !!
+Dialogue: 0,0:16:25.05,0:16:26.06,Endo,,0,0,0,,See you, then
+Dialogue: 0,0:16:25.15,0:16:28.29,Hamada,,0,0,0,,Why is that? Just play this
+Dialogue: 0,0:16:28.70,0:16:31.30,Hamada,,0,0,0,,{\pos(717.75,900)}Come on!!
+Dialogue: 0,0:16:31.30,0:16:33.07,Hamada,,0,0,0,,{\pos(720,918)}Why do you want to go home? {\alpha&HFF&}Hurry up and finish this
+Dialogue: 0,0:16:33.07,0:16:35.64,Hamada,,0,0,0,,{\pos(720,918)}Why do you want to go home? Hurry up and finish this
+Dialogue: 0,0:16:40.00,0:16:42.78,Black font,,0,0,0,,{\fad(150,0)\4c&H0000CB&\pos(717.75,879)}It stinks!!
+Dialogue: 0,0:16:43.30,0:16:45.31,Hamada,,0,0,0,,Come on, he's just messing around
+Dialogue: 0,0:16:45.31,0:16:46.61,Hamada,,0,0,0,,{\pos(720,909)}I bet you just {\c&H000000&\4c&HC42E24&}felt the urge {\alpha&HFF&}to say that giving the moment!
+Dialogue: 0,0:16:46.61,0:16:49.28,Hamada,,0,0,0,,{\pos(720,909)}I bet you just {\c&H000000&\4c&HC42E24&}felt the urge to say that giving the moment!
+Dialogue: 0,0:16:49.28,0:16:50.41,Hamada,,0,0,0,,Come on, man
+Dialogue: 0,0:16:50.41,0:16:51.07,Matsumoto,,0,0,0,,Found it
+Dialogue: 0,0:16:53.08,0:16:54.48,Tanaka,,0,0,0,,Woah, Matsumoto!
+Dialogue: 0,0:16:54.84,0:16:55.91,Tanaka,,0,0,0,,And now...
+Dialogue: 0,0:16:57.39,0:16:59.66,Tanaka,,0,0,0,,{\pos(807.75,924)}The situation has become {\c&H67FFF6&\3c&H000000&}sort of numb {\c&HC32FAD&\3c&HFFFFFF&}by now
+Dialogue: 0,0:17:00.26,0:17:02.53,Endo,,0,0,0,,{\pos(823.5,921)}It's the{\c&H67FFF6&\3c&H000000&} legendary duel
+Dialogue: 0,0:17:01.02,0:17:01.75,Tanaka,,0,0,0,,That's true
+Dialogue: 0,0:17:06.59,0:17:07.89,Tanaka,,0,0,0,,Alright, alright, alright
+Dialogue: 0,0:17:14.01,0:17:17.91,Matsumoto,,0,0,0,,{\pos(720,924)}I should have make it reach that other side there...
+Dialogue: 0,0:17:17.91,0:17:21.95,Matsumoto,,0,0,0,,{\pos(720,924)}I had no idea at first that it would turn out like this
+Dialogue: 0,0:17:25.14,0:17:27.68,Matsumoto,,0,0,0,,Whatever I do isn't ok
+Dialogue: 0,0:17:27.68,0:17:28.91,Matsumoto,,0,0,0,,This is not good
+Dialogue: 0,0:17:28.91,0:17:30.34,Matsumoto,,0,0,0,,This too won't do
+Dialogue: 0,0:17:30.34,0:17:31.81,Matsumoto,,0,0,0,,And even this move
+Dialogue: 0,0:17:32.05,0:17:32.66,Matsumoto,,0,0,0,,Does it mean
+Dialogue: 0,0:17:32.66,0:17:34.99,Matsumoto,,0,0,0,,{\pos(801,924)}Is this a {\c&H000000&\4c&H2223C0&}stalemate{\c&H2223C0&\4c&H000000&}!?
+Dialogue: 0,0:17:33.48,0:17:35.78,Hamada,,0,0,0,,I think you just have to use the 1x1 square
+Dialogue: 0,0:17:34.60,0:17:37.48,Tanaka,,0,0,0,,Yeah I think you don't have anything left
+Dialogue: 0,0:17:36.46,0:17:38.43,Matsumoto,,0,0,0,,{\pos(814.5,924)}I'll use it and hope for a{\c&H67FFF6&\3c&H000000&} chance of winning
+Dialogue: 0,0:17:38.43,0:17:38.82,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:17:38.82,0:17:40.52,Hamada,,0,0,0,,You just have that corner left
+Dialogue: 0,0:17:40.52,0:17:41.29,Matsumoto,,0,0,0,,Where?
+Dialogue: 0,0:17:41.29,0:17:43.16,Hamada,,0,0,0,,Like here, this part
+Dialogue: 0,0:17:43.16,0:17:45.16,Matsumoto,,0,0,0,,You mean here?
+Dialogue: 0,0:17:45.16,0:17:47.16,Matsumoto,,0,0,0,,I think that's the only thing to do
+Dialogue: 0,0:17:53.45,0:17:54.01,Matsumoto,,0,0,0,,He did it!
+Dialogue: 0,0:17:54.44,0:17:57.45,Tanaka,,0,0,0,,{\pos(819,927)}Can you still go on?
+Dialogue: 0,0:17:57.45,0:17:58.85,Yamazaki,,0,0,0,,I'm probably done for
+Dialogue: 0,0:17:58.85,0:18:00.62,Matsumoto,,0,0,0,,{\pos(967.5,639)}You're probably {\c&H000000&}done for
+Dialogue: 0,0:17:59.70,0:18:00.62,Yamazaki,,0,0,0,,I think I am
+Dialogue: 0,0:18:00.62,0:18:02.21,Hamada,,0,0,0,,You can't with those pieces
+Dialogue: 0,0:18:02.21,0:18:04.32,Tanaka,,0,0,0,,I think it's impossible for Housei-san too
+Dialogue: 0,0:18:04.32,0:18:06.79,Matsumoto,,0,0,0,,{\pos(726.75,918)}We gotta {\c&H67FFF6&\3c&H000000&}measure them
+Dialogue: 0,0:18:04.94,0:18:06.79,Tanaka,,0,0,0,,Yes, we have to    {\c&H38DB45&} - Wait a moment...
+Dialogue: 0,0:18:06.79,0:18:09.00,Matsumoto,,0,0,0,,This two are the same
+Dialogue: 0,0:18:09.00,0:18:11.65,Matsumoto,,0,0,0,,Same goes for these two
+Dialogue: 0,0:18:11.65,0:18:12.90,Matsumoto,,0,0,0,,It's on these two
+Dialogue: 0,0:18:12.90,0:18:15.80,Matsumoto,,0,0,0,,1, 2, 3, 4, 5... 1, 2, 3, 4, 5
+Dialogue: 0,0:18:15.80,0:18:18.37,Endo,,0,0,0,,{\pos(720,912)}They {\c&H67FFF6&\3c&H000000&}scored the same
+Dialogue: 0,0:18:17.46,0:18:18.37,Hamada,,0,0,0,,Same points...
+Dialogue: 0,0:18:18.37,0:18:21.87,Tanaka,,0,0,0,,{\pos(706.5,933)}You fought that much just for a {\c&H6E0802&}draw
+Dialogue: 0,0:18:21.87,0:18:23.43,Endo,,0,0,0,,So, is it a draw in the end?
+Dialogue: 0,0:18:23.43,0:18:24.84,Tanaka,,0,0,0,,It's a draw in the end
+Dialogue: 0,0:18:24.84,0:18:26.34,Endo,,0,0,0,,{\c&H000000&\pos(726.75,924)}No winner {\c&H0096FF&}in the end?
+Dialogue: 0,0:18:27.07,0:18:32.68,White font,,0,0,0,,{\fad(350,0)\c&HECB139&\3c&HFFFFFF&\4c&H4A3F01&\fnKristen ITC\b1\fs94.5\\2c&HFFFFFF&\pos(724.5,882)}An hard fight playing a game from Korea!?
+Dialogue: 0,0:18:33.53,0:18:39.72,Other,,0,0,0,,{\fad(450,0)\c&H6E0802&\3c&HFFFFFF&\4c&HB41009&\fnKristen ITC\b1\fs84\\pos(711,765)}Korea -  {\c&H000000&\4c&H565555&}Click Clack Lumberjack
+Dialogue: 0,0:18:33.47,0:18:39.72,Other,,0,0,0,,{\fad(1000,0)\fs75\c&H3028C6&\3c&HFFFFFF&\4c&H3028C6&\pos(724.5,894)}Let's strike down the tree bark and make it fall!
+Dialogue: 0,0:18:34.14,0:18:36.34,White font,,0,0,0,,The next game Tanaka chose
+Dialogue: 0,0:18:36.34,0:18:39.01,White font,,0,0,0,,Is "Click Clack Lumberjack", from Korea!
+Dialogue: 0,0:18:39.96,0:18:49.73,Other,,0,0,0,,{\fad(200,0)\c&H6E0802&\3c&HFFFFFF&\4c&HB41009&\fnKristen ITC\b1\fs84\\pos(711,765)}Korea -  {\c&H0096FF&}Click Clack Lumberjack
+Dialogue: 0,0:18:39.96,0:18:49.73,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs60\\pos(724.5,882)}In order, each player hits the tree with the axe 2 times
+Dialogue: 0,0:18:39.96,0:18:49.73,Other,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\3c&HB41009&\4c&H747474&\fnKristen ITC\b1\fs60\\pos(711,963)}The player who collects more fallen bark, wins!
+Dialogue: 0,0:18:40.75,0:18:42.08,White font,,0,0,0,,Rules are simple
+Dialogue: 0,0:18:42.08,0:18:45.48,White font,,0,0,0,,In order, each player hits the tree 2 times with the axe
+Dialogue: 0,0:18:45.48,0:18:48.62,White font,,0,0,0,,The player who makes more bark fall down, wins!
+Dialogue: 0,0:18:49.73,0:18:52.97,Tanaka,,0,0,0,,{\pos(715.5,930)}Let's start from Endo-san
+Dialogue: 0,0:18:50.66,0:18:51.41,Endo,,0,0,0,,From me?     {\c&HC32FAD&}- Yes
+Dialogue: 0,0:18:51.41,0:18:52.26,Endo,,0,0,0,,Ok, here I go
+Dialogue: 0,0:18:57.96,0:19:00.01,Endo,,0,0,0,,Nothing fell down from it
+Dialogue: 0,0:19:00.01,0:19:01.98,Endo,,0,0,0,,{\pos(726.75,930)}This is harder than you'd expect
+Dialogue: 0,0:19:04.91,0:19:08.55,Matsumoto,,0,0,0,,{\pos(731.25,921)}So friggin' {\c&H67FFF6&\3c&H000000&}violent...
+Dialogue: 0,0:19:06.52,0:19:07.41,Endo,,0,0,0,,So crude...
+Dialogue: 0,0:19:07.41,0:19:08.55,Hamada,,0,0,0,,Sorry, sorry, sorry, sorry
+Dialogue: 0,0:19:08.55,0:19:09.88,Matsumoto,,0,0,0,,{\pos(715.5,903)}Even if we're playing, {\alpha&HFF&}it's not funny at all with this guy
+Dialogue: 0,0:19:09.88,0:19:12.05,Matsumoto,,0,0,0,,{\pos(715.5,903)}Even if we're playing, {\c&H000000&\4c&H6E0802&}it's not funny at all{\c&H2223C0&\4c&H000000&} with this guy
+Dialogue: 0,0:19:10.60,0:19:12.05,Hamada,,0,0,0,,I'm sorry, I'll fix this
+Dialogue: 0,0:19:12.05,0:19:13.89,Matsumoto,,0,0,0,,{\fad(100,0)\pos(740.25,921)}At least scream an {\c&H6E0802&}"AAAAAAAH!"
+Dialogue: 0,0:19:15.11,0:19:17.83,Endo,,0,0,0,,That was harsh     {\c&HC42E24&} - I'm still learning this!
+Dialogue: 0,0:19:17.83,0:19:19.86,Yamazaki,,0,0,0,,{\pos(724.5,903)}Such a {\c&H000000&\4c&H38DB45&}rough character
+Dialogue: 0,0:19:18.89,0:19:20.06,Hamada,,0,0,0,,That' not it, that's not it
+Dialogue: 0,0:19:20.06,0:19:21.76,Hamada,,0,0,0,,It's just hard to set the power     {\c&H0096FF&} - Right
+Dialogue: 0,0:19:21.76,0:19:25.27,Matsumoto,,0,0,0,,Let's continue from me then, this guy is no good after all
+Dialogue: 0,0:19:21.98,0:19:25.27,White font,,0,0,0,,{\fad(150,0)\pos(722.25,870)\4c&H67FFF6&\3c&H0000CB&}Going back to square one, {\c&H0000CB&\3c&HFFFFFF&}they'll start again from Matsumoto
+Dialogue: 0,0:19:25.89,0:19:26.66,Matsumoto,,0,0,0,,Here I go
+Dialogue: 0,0:19:28.63,0:19:29.90,Black font,,0,0,0,,{\fad(100,0)\c&H2223C0&\frz348.8\pos(470.25,576)}AAAAAAAH!
+Dialogue: 0,0:19:31.34,0:19:34.67,Endo,,0,0,0,,{\pos(724.5,942)}Come on, Downtown-san...
+Dialogue: 0,0:19:32.50,0:19:33.96,Tanaka,,0,0,0,,So strong!
+Dialogue: 0,0:19:36.13,0:19:37.28,Matsumoto,,0,0,0,,Ok, real talk now
+Dialogue: 0,0:19:37.28,0:19:40.08,Matsumoto,,0,0,0,,{\pos(740.25,906)}I had no idea how hard{\c&H67FFF6&\3c&H000000&} I should have hit it!
+Dialogue: 0,0:19:38.88,0:19:40.08,Endo,,0,0,0,,I know, right?
+Dialogue: 0,0:19:40.64,0:19:41.92,Endo,,0,0,0,,You don't know at first
+Dialogue: 0,0:19:41.92,0:19:44.02,Matsumoto,,0,0,0,,{\pos(722.25,930)}I didn't know how {\c&H67FFF6&\3c&H000000&}it felt{\c&H2223C0&\3c&HFFFFFF&}, I'm sorry!
+Dialogue: 0,0:19:44.02,0:19:46.24,Hamada,,0,0,0,,You wouldn't think of it as being that light
+Dialogue: 0,0:19:46.24,0:19:46.62,Yamazaki,,0,0,0,,Really?
+Dialogue: 0,0:19:46.62,0:19:47.79,Matsumoto,,0,0,0,,{\pos(724.5,933)}This bitch is way {\alpha&HFF&}{\c&H6E0802&}more unreliable {\c&H2223C0&}than I thought
+Dialogue: 0,0:19:47.79,0:19:48.99,Matsumoto,,0,0,0,,{\pos(724.5,933)}This bitch is way {\c&H6E0802&}more unreliable {\c&H2223C0&}than I thought
+Dialogue: 0,0:19:48.31,0:19:48.99,Hamada,,0,0,0,,It's weak
+Dialogue: 0,0:19:48.99,0:19:50.49,Tanaka,,0,0,0,,It's better to go soft on it
+Dialogue: 0,0:19:49.18,0:19:51.39,White font,,0,0,0,,{\fad(250,0)\pos(722.25,870)\4c&H67FFF6&\3c&H38DB45&}They'll start again {\c&H38DB45&\3c&HFFFFFF&}from Housei
+Dialogue: 0,0:19:51.78,0:19:52.29,Yamazaki,,0,0,0,,I'm going
+Dialogue: 0,0:19:52.29,0:19:52.82,Endo,,0,0,0,,Ok
+Dialogue: 0,0:19:54.10,0:19:55.45,Endo,,0,0,0,,Yeah, that's how you do it
+Dialogue: 0,0:19:56.50,0:19:59.26,Matsumoto,,0,0,0,,That's 'cause we aimed to get a point at the very start
+Dialogue: 0,0:19:58.29,0:19:59.26,Hamada,,0,0,0,,Yeah, that's right
+Dialogue: 0,0:20:03.06,0:20:04.56,Tanaka,,0,0,0,,Something like this
+Dialogue: 0,0:20:04.56,0:20:05.60,Hamada,,0,0,0,,I guess that's it
+Dialogue: 0,0:20:12.18,0:20:14.21,Endo,,0,0,0,,{\pos(729,933)}It's pretty hard to get points in this
+Dialogue: 0,0:20:12.45,0:20:13.74,Hamada,,0,0,0,,They're not fallin'
+Dialogue: 0,0:20:17.74,0:20:18.85,Matsumoto,,0,0,0,,He's so gentle now
+Dialogue: 0,0:20:18.85,0:20:21.32,Endo,,0,0,0,,{\pos(724.5,903)}That was without a doubt {\c&H6E0802&}way too weak {\c&H0096FF&}for a hit!
+Dialogue: 0,0:20:21.32,0:20:24.82,Matsumoto,,0,0,0,,{\pos(724.5,906)}Who are you, {\c&H063549&}an old shoemaker?
+Dialogue: 0,0:20:24.82,0:20:26.11,Matsumoto,,0,0,0,,Geez, this
+Dialogue: 0,0:20:26.11,0:20:27.65,Matsumoto,,0,0,0,,This is pretty hard
+Dialogue: 0,0:20:27.65,0:20:28.78,Yamazaki,,0,0,0,,Yeah it's hard
+Dialogue: 0,0:20:29.65,0:20:30.78,Endo,,0,0,0,,Oh, I see
+Dialogue: 0,0:20:32.69,0:20:33.64,Matsumoto,,0,0,0,,Awww, but it's possible
+Dialogue: 0,0:20:33.64,0:20:34.64,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:20:36.17,0:20:37.94,Yamazaki,,0,0,0,,{\pos(722.25,933)}I think it's here
+Dialogue: 0,0:20:37.94,0:20:39.56,Endo,,0,0,0,,What is there? You can do it?
+Dialogue: 0,0:20:39.56,0:20:40.03,Yamazaki,,0,0,0,,See?
+Dialogue: 0,0:20:40.70,0:20:42.03,Tanaka,,0,0,0,,Alright, one point
+Dialogue: 0,0:20:44.83,0:20:46.54,Matsumoto,,0,0,0,,I guess we'll make some points from now
+Dialogue: 0,0:20:46.54,0:20:48.40,Hamada,,0,0,0,,I see, I see      {\c&H38DB45&}- 'Cause it's crumbling
+Dialogue: 0,0:20:49.65,0:20:52.58,Other,,0,0,0,,{\fad(150,0)\pos(177.75,876)}3rd round
+Dialogue: 0,0:20:53.91,0:20:55.59,Endo,,0,0,0,,Look at this one!
+Dialogue: 0,0:20:55.59,0:20:59.36,Endo,,0,0,0,,{\pos(726.75,927)}It came out with a click
+Dialogue: 0,0:20:56.89,0:20:59.36,White font,,0,0,0,,{\pos(855,696)}(staff)
+Dialogue: 0,0:20:56.89,0:20:59.36,White font,,0,0,0,,{\pos(1093.5,798)}Doesn't count if it doesn't fall
+Dialogue: 0,0:21:00.49,0:21:03.43,Tanaka,,0,0,0,,{\pos(715.5,927)}This could be a{\c&H67FFF6&\3c&H000000&} chance
+Dialogue: 0,0:21:00.95,0:21:03.28,Endo,,0,0,0,,You're right, it's easy to take off this piece
+Dialogue: 0,0:21:03.66,0:21:06.00,Hamada,,0,0,0,,{\pos(724.5,924)}Why is it a {\c&H67FFF6&\3c&H000000&}chance{\c&HC42E24&\3c&HFFFFFF&} ?
+Dialogue: 0,0:21:04.59,0:21:06.00,Endo,,0,0,0,,'Cause this...
+Dialogue: 0,0:21:06.00,0:21:07.73,Endo,,0,0,0,,{\pos(722.25,921)}Maybe it's better not to say it
+Dialogue: 0,0:21:06.65,0:21:07.60,Matsumoto,,0,0,0,,Right, don't say it
+Dialogue: 0,0:21:10.82,0:21:11.56,Matsumoto,,0,0,0,,Are you kidding?
+Dialogue: 0,0:21:11.07,0:21:14.37,Black font,,0,0,0,,{\pos(722.25,894)\c&H83075C&}He chickened out
+Dialogue: 0,0:21:15.20,0:21:16.37,Hamada,,0,0,0,,You can do that?
+Dialogue: 0,0:21:16.37,0:21:16.96,Tanaka,,0,0,0,,Look!
+Dialogue: 0,0:21:18.07,0:21:20.64,Endo,,0,0,0,,{\pos(722.25,924)}Does that one count?
+Dialogue: 0,0:21:19.10,0:21:20.90,White font,,0,0,0,,(staff) Yes, it counts
+Dialogue: 0,0:21:20.90,0:21:22.90,Hamada,,0,0,0,,You should have told me that
+Dialogue: 0,0:21:23.53,0:21:24.20,Tanaka,,0,0,0,,He took two
+Dialogue: 0,0:21:24.20,0:21:25.26,Endo,,0,0,0,,I see
+Dialogue: 0,0:21:25.26,0:21:27.25,Black font,,0,0,0,,{\4c&HC42E24&\pos(722.25,915)}Why are you telling me this only now?
+Dialogue: 0,0:21:27.25,0:21:28.84,Endo,,0,0,0,,I didn't know side hits were ok too
+Dialogue: 0,0:21:28.84,0:21:29.55,Hamada,,0,0,0,,Yeah, right?
+Dialogue: 0,0:21:29.55,0:21:30.18,Tanaka,,0,0,0,,He's good!
+Dialogue: 0,0:21:30.18,0:21:32.42,Matsumoto,,0,0,0,,Yamazaki is scoring a point after another
+Dialogue: 0,0:21:32.42,0:21:33.02,Hamada,,0,0,0,,{\pos(715.5,879)}I bet you {\alpha&HFF&}already have this game at home!
+Dialogue: 0,0:21:33.02,0:21:35.36,Black font,,0,0,0,,{\pos(715.5,879)\4c&H0000CB&\c&H6E0802&}I bet you already have this game at home!
+Dialogue: 0,0:21:35.95,0:21:37.32,Tanaka,,0,0,0,,Yeah I mean, it's strange
+Dialogue: 0,0:21:37.32,0:21:39.23,Endo,,0,0,0,,You can't be this good at it!
+Dialogue: 0,0:21:39.23,0:21:40.96,Yamazaki,,0,0,0,,{\pos(380.25,894)}That's the first time I saw it!
+Dialogue: 0,0:21:40.96,0:21:43.37,Yamazaki,,0,0,0,,{\pos(726.75,924)}I don't have one myself!
+Dialogue: 0,0:21:40.79,0:21:42.15,Endo,,0,0,0,,Are you sure?
+Dialogue: 0,0:21:42.15,0:21:43.32,Matsumoto,,0,0,0,,He's secretly trained
+Dialogue: 0,0:21:43.72,0:21:51.24,Black font,,0,0,0,,{\fad(250,0)\pos(722.25,870)\4c&H000000&\3c&HFFFFFF&\c&H83075C&}Tanaka {\c&H000000&}& {\c&H0096FF&}Endo{\c&H000000&} too failed their round
+Dialogue: 0,0:21:44.04,0:21:45.75,White font,,0,0,0,,Following Housei
+Dialogue: 0,0:21:45.75,0:21:48.37,White font,,0,0,0,,Tanaka and Endo try to score points too
+Dialogue: 0,0:21:48.37,0:21:50.60,White font,,0,0,0,,But they're not able to make any bark fall
+Dialogue: 0,0:21:51.56,0:21:52.27,Hamada,,0,0,0,,So...
+Dialogue: 0,0:21:52.27,0:21:55.14,Hamada,,0,0,0,,{\pos(254.25,903)}If I use my axe
+Dialogue: 0,0:21:53.41,0:21:55.14,Hamada,,0,0,0,,{\fscx75\fscy100\t(0,17,\fscx112.5\fscy150\t(17,250,\fscx75\fscy100))\pos(522.9,903.9)}{\pos(524.25,903)\c&H67FFF6&\3c&H000000&}and swipe
+Dialogue: 0,0:21:53.41,0:21:55.14,Hamada,,0,0,0,,{\pos(999,903)}it this like this am breaking rules?
+Dialogue: 0,0:21:54.27,0:21:55.14,Matsumoto,,0,0,0,,No, you can do it
+Dialogue: 0,0:21:55.14,0:21:56.00,Hamada,,0,0,0,,I can?     {\c&H2223C0&}- Yes
+Dialogue: 0,0:21:56.00,0:21:56.55,Tanaka,,0,0,0,,Only the bark
+Dialogue: 0,0:21:56.55,0:21:58.68,Matsumoto,,0,0,0,,{\pos(722.25,927)}As long as you{\c&H67FFF6&\3c&H000000&} hit it
+Dialogue: 0,0:22:01.32,0:22:02.42,Endo,,0,0,0,,{\fscx75\fscy100\t(0,519,\fscx225\fscy300\t(169,380,\fscx75\fscy100))\pos(717.75,895.5)}So good!
+Dialogue: 0,0:22:02.42,0:22:04.95,Endo,,0,0,0,,{\pos(735.75,876)}He's suddenly so good at it !!
+Dialogue: 0,0:22:04.95,0:22:07.59,Black font,,0,0,0,,{\4c&H38DB45&\pos(720,903)}I bet you have this game at home!!
+Dialogue: 0,0:22:07.59,0:22:08.16,Matsumoto,,0,0,0,,But Hamada
+Dialogue: 0,0:22:08.16,0:22:10.13,Matsumoto,,0,0,0,,{\pos(720,924)}Wouldn't it be better to {\c&H67FFF6&\3c&H000000&}end this round with one hit?
+Dialogue: 0,0:22:10.13,0:22:12.16,Endo,,0,0,0,,Nice idea     {\c&HC32FAD&}  - You can if you want to
+Dialogue: 0,0:22:12.53,0:22:13.16,Matsumoto,,0,0,0,,{\pos(711,921)}In the end the most unnecessary thing has been said {\alpha&HFF&}by me
+Dialogue: 0,0:22:13.16,0:22:14.90,Matsumoto,,0,0,0,,{\pos(711,921)}In the end the most unnecessary thing has been said{\c&H000000&\4c&H0000CB&} by me
+Dialogue: 0,0:22:15.90,0:22:17.53,Endo,,0,0,0,,That was sweet of you
+Dialogue: 0,0:22:17.53,0:22:18.53,Yamazaki,,0,0,0,,You can strike 1 or 2 times?
+Dialogue: 0,0:22:18.30,0:22:20.33,Matsumoto,,0,0,0,,{\pos(492.75,927)}On this next round
+Dialogue: 0,0:22:18.30,0:22:20.33,Black font,,0,0,0,,{\4c&H0000CB&\pos(924.75,927)}I'm gonna be screwed
+Dialogue: 0,0:22:19.42,0:22:20.33,Hamada,,0,0,0,,No doubts on that
+Dialogue: 0,0:22:20.33,0:22:21.86,Matsumoto,,0,0,0,,This isn't easy
+Dialogue: 0,0:22:21.00,0:22:23.16,Hamada,,0,0,0,,Why don't you try to place it back upright?
+Dialogue: 0,0:22:22.79,0:22:24.11,Endo,,0,0,0,,He's right
+Dialogue: 0,0:22:23.19,0:22:24.11,Matsumoto,,0,0,0,,I have to study this
+Dialogue: 0,0:22:24.27,0:22:26.94,Matsumoto,,0,0,0,,{\pos(722.25,927)}I can hit it as if I'm scraping it off, right?
+Dialogue: 0,0:22:25.16,0:22:26.53,Tanaka,,0,0,0,,Oh, you' wanna take that down?
+Dialogue: 0,0:22:32.00,0:22:33.00,Matsumoto,,0,0,0,,I'm sorry
+Dialogue: 0,0:22:33.40,0:22:34.64,Yamazaki,,0,0,0,,Was that even something?
+Dialogue: 0,0:22:35.11,0:22:36.64,Matsumoto,,0,0,0,,It's this way! I got this
+Dialogue: 0,0:22:42.02,0:22:43.79,Matsumoto,,0,0,0,,{\pos(717.75,936)}It kinda went back
+Dialogue: 0,0:22:43.79,0:22:46.43,Hamada,,0,0,0,,{\pos(726.75,933)}The top got risky
+Dialogue: 0,0:22:44.85,0:22:46.78,Endo,,0,0,0,,He's right, watch out Housei
+Dialogue: 0,0:22:46.78,0:22:48.02,Yamazaki,,0,0,0,,Right, one strike
+Dialogue: 0,0:22:47.70,0:22:50.69,Matsumoto,,0,0,0,,I think if it goes well now there's no way we can reach his points
+Dialogue: 0,0:22:50.69,0:22:51.39,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:22:48.02,0:22:48.69,Hamada,,0,0,0,,Push it back
+Dialogue: 0,0:22:53.22,0:22:54.12,Endo,,0,0,0,,That was risky!
+Dialogue: 0,0:23:01.54,0:23:02.98,Black font,,0,0,0,,
+Dialogue: 0,0:23:01.54,0:23:02.98,Black font,,0,0,0,,{\pos(729,924)\c&H0096FF&}He's {\c&H00D2FF&}a prodigy
+Dialogue: 0,0:23:02.98,0:23:05.95,Black font,,0,0,0,,{\fscx7.5\fscy100\t(0,519,\fscx75\fscy100\t(109,220,\fscx75\fscy100))\c&H6E0802&\pos(697.5,907.5)}There's no doubt he got this game at home !!
+Dialogue: 0,0:23:04.50,0:23:06.24,Endo,,0,0,0,,You have it, don't you?
+Dialogue: 0,0:23:06.24,0:23:07.63,Matsumoto,,0,0,0,,That's so strange
+Dialogue: 0,0:23:07.63,0:23:08.74,Tanaka,,0,0,0,,That's amazing!
+Dialogue: 0,0:23:08.74,0:23:09.64,Matsumoto,,0,0,0,,So strange
+Dialogue: 0,0:23:10.45,0:23:12.32,Tanaka,,0,0,0,,{\pos(729,921)}I'll try to place it back
+Dialogue: 0,0:23:14.74,0:23:15.49,Yamazaki,,0,0,0,,Nice one
+Dialogue: 0,0:23:15.49,0:23:18.39,Yamazaki,,0,0,0,,{\pos(717.75,918)}Maybe placing it back won't get you points
+Dialogue: 0,0:23:17.08,0:23:18.39,Matsumoto,,0,0,0,,It makes you bring out your character
+Dialogue: 0,0:23:18.39,0:23:19.15,Hamada,,0,0,0,,I see
+Dialogue: 0,0:23:19.15,0:23:20.52,Matsumoto,,0,0,0,,It brings out your character
+Dialogue: 0,0:23:22.12,0:23:22.63,Matsumoto,,0,0,0,,Man
+Dialogue: 0,0:23:22.63,0:23:26.03,Matsumoto,,0,0,0,,{\pos(708.75,909)}Tanaka sure likes {\c&HFFFFFF&\3c&H000000&}to return it to its uprightness
+Dialogue: 0,0:23:24.85,0:23:26.26,Hamada,,0,0,0,,"Its uprightness"
+Dialogue: 0,0:23:26.26,0:23:28.27,Tanaka,,0,0,0,,I guess I like to do that
+Dialogue: 0,0:23:28.90,0:23:32.04,Matsumoto,,0,0,0,,{\pos(717.75,921)}But I guess {\c&H67FFF6&\3c&H000000&}you managed to get 1 point after all
+Dialogue: 0,0:23:32.04,0:23:34.97,Matsumoto,,0,0,0,,{\pos(364.5,900)}Endo isn't
+Dialogue: 0,0:23:33.07,0:23:34.97,Black font,,0,0,0,,{\4c&H0000CB&\pos(846,888)}thinking of anything anymore
+Dialogue: 0,0:23:34.97,0:23:36.98,Matsumoto,,0,0,0,,{\pos(488.25,915)}'Cause he's really an
+Dialogue: 0,0:23:34.97,0:23:36.98,Black font,,0,0,0,,{\c&HBEEE09&\3c&H000000&\pos(765,915)}idiot
+Dialogue: 0,0:23:34.97,0:23:36.98,Matsumoto,,0,0,0,,{\pos(945,915)}, that's why
+Dialogue: 0,0:23:37.60,0:23:38.10,Matsumoto,,0,0,0,,See?
+Dialogue: 0,0:23:39.14,0:23:40.68,Black font,,0,0,0,,{\c&H000067&\pos(722.25,900)}That was no good at all
+Dialogue: 0,0:23:41.08,0:23:41.80,Yamazaki,,0,0,0,,Are we done?
+Dialogue: 0,0:23:41.80,0:23:42.20,Hamada,,0,0,0,,Are we?
+Dialogue: 0,0:23:42.20,0:23:43.87,Matsumoto,,0,0,0,,You cleared it by smashing it
+Dialogue: 0,0:23:45.51,0:23:47.28,Matsumoto,,0,0,0,,You're really the worst!
+Dialogue: 0,0:23:48.00,0:23:49.11,Matsumoto,,0,0,0,,The worst!
+Dialogue: 0,0:23:49.11,0:23:50.65,Endo,,0,0,0,,The one on top is so light!
+Dialogue: 0,0:23:50.65,0:23:51.58,Yamazaki,,0,0,0,,Of course it is!
+Dialogue: 0,0:23:51.58,0:23:54.32,Matsumoto,,0,0,0,,It's like smacking down the Daruma first in Daruma-Otoshi
+Dialogue: 0,0:23:54.32,0:23:56.33,Matsumoto,,0,0,0,,The game wouldn't be fun at all!
+Dialogue: 0,0:23:56.33,0:23:58.65,Yamazaki,,0,0,0,,Of course it's light, it's on top of them!
+Dialogue: 0,0:23:58.65,0:24:00.22,Endo,,0,0,0,,But I wanted it to make this fall--
+Dialogue: 0,0:24:00.22,0:24:02.99,Matsumoto,,0,0,0,,We all did our best not to do that!
+Dialogue: 0,0:24:05.46,0:24:09.46,Endo,,0,0,0,,I'm sorry... I'm sorry
+Dialogue: 0,0:23:40.00,0:23:45.00,Other,,0,0,0,,{\fad(200,200)\3c&H1819AC&\4c&H000000&\4a&HFF&\pos(1165.5,57)}Translation & Subtitles by {\c&H75B0F2&}Shion
+Dialogue: 0,0:23:45.00,0:23:50.00,Other,,0,0,0,,{\fad(200,200)\c&H7BEB83&\3c&H0D5E16&\3a&H00&\4c&H000000&\4a&HFF&\pos(1134,54)}www.shionnotsukai.wordpress.com
+Dialogue: 0,0:23:50.00,0:23:55.00,Other,,0,0,0,,{\fad(200,200)\c&HE99E5E&\3c&HFEFEFE&\3a&H00&\4c&H000000&\4a&HFF&\pos(1136.25,57)}www.facebook.com/shionnotsukai
+Dialogue: 0,0:23:55.00,0:24:09.00,Other,,0,0,0,,{\fad(200,200)\c&HFFFFFF&\3c&H000000&\3a&H00&\4c&H000000&\4a&HFF&\pos(774,54)}Want to {\c&H37EFE4&\3c&H2525BB&}support {\c&HFFFFFF&\3c&H000000&}my translations? Consider donating @ {\c&HE2FF00&\3c&H941810&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:18:26.63,0:18:30.00,Matsumoto,,0,0,0,,Maaaan, just look how it turned out...
+Dialogue: 0,0:18:30.00,0:18:31.50,Yamazaki,,0,0,0,,This game was really fun to play
+Dialogue: 0,0:18:31.50,0:18:32.64,Endo,,0,0,0,,Yes, it's a brainy one
+Dialogue: 0,0:18:32.64,0:18:34.64,Endo,,0,0,0,,
+

@@ -1,0 +1,766 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: #1027 (2010.10.24) GIROLAMO E SHOJI.mp4
+Video File: #1027 (2010.10.24) GIROLAMO E SHOJI.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 411
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Tanaka,Arial,63,&H00C02EBD,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Matsumoto,Arial,63,&H00172CE7,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Hamada,Arial,63,&H00C3321A,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Endo,Arial,63,&H001A8CFF,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Yamazaki,Arial,63,&H0036C741,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Girolamo,Arial,63,&H00FFFFFF,&H000019FF,&H00000000,&H00FFFFFF,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Black font,Arial,63,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: White font,Arial,63,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Yellow font,Arial,63,&H003EF4FB,&H000019FF,&H00000000,&H003EF4FB,0,0,0,0,75,100,0,0,1,6,4.5,2,12,12,15,1
+Style: Bauhaus (notes),Arial,57,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Tegaki,Arial,57,&H00FFFFFF,&H000019FF,&H00000000,&HFFF47410,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: Murakami,Arial,63,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,4.5,4.5,2,12,12,15,1
+Style: BORDERED,Arial,60,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,5.25,7.5,2,12,12,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.96,0:00:02.50,White font,,0,0,0,,An usual recording day
+Dialogue: 0,0:00:00.44,0:00:06.15,Black font,,0,0,0,,{\fad(300,300)\pos(726.75,444)}Gaki no Tsukai recording day
+Dialogue: 0,0:00:03.03,0:00:06.17,White font,,0,0,0,,But on this day, things will be\N settled with a certain character
+Dialogue: 0,0:00:06.67,0:00:10.11,Matsumoto,,0,0,0,,We just... have to go, I guess
+Dialogue: 0,0:00:06.67,0:00:12.05,BORDERED,,0,0,0,,{\fad(300,300)\c&H379A3E&\3c&HFFFFFF&\pos(729,783)}Downtown
+Dialogue: 0,0:00:06.67,0:00:12.05,BORDERED,,0,0,0,,{\fad(300,300)\4c&HF1D108&\pos(515.25,915)}Matsumoto Hitoshi
+Dialogue: 0,0:00:06.67,0:00:12.05,BORDERED,,0,0,0,,{\fad(300,300)\4c&HF1D108&\pos(929.25,915)}Hamada Masatoshi
+Dialogue: 0,0:00:12.75,0:00:15.75,Matsumoto,,0,0,0,,{\pos(706.5,891)}I don't think we're wrong this time
+Dialogue: 0,0:00:16.30,0:00:17.48,Hamada,,0,0,0,,Excuse us
+Dialogue: 0,0:00:18.18,0:00:21.15,White font,,0,0,0,,Their faces became unusually stiff
+Dialogue: 0,0:00:16.45,0:00:22.79,BORDERED,,0,0,0,,{\fad(200,200)\pos(717.75,882)\3c&HFFFFFF&\c&HFB1B3D&\fscx74.25\fscy98}As nervousness takes over their faces, they pay a visit to that certain character
+Dialogue: 0,0:00:23.15,0:00:25.13,White font,,0,0,0,,The person they'll face...
+Dialogue: 0,0:00:26.62,0:00:27.96,White font,,0,0,0,,Is Shoji Murakami
+Dialogue: 0,0:00:28.42,0:00:30.16,White font,,0,0,0,,The man in charge of the "class" series
+Dialogue: 0,0:00:30.16,0:00:32.83,White font,,0,0,0,,Responsible for countless rating drops
+Dialogue: 0,0:00:25.52,0:00:33.14,BORDERED,,0,0,0,,{\fad(500,0)\fs90\pos(720,846)\3c&HFFFFFF&\c&H25AFB5&}Shoji Murakami
+Dialogue: 0,0:00:33.16,0:00:36.53,White font,,0,0,0,,For Shoji, who had a bad influence on this show,
+Dialogue: 0,0:00:36.53,0:00:39.03,White font,,0,0,0,,The time has come to move on!
+Dialogue: 0,0:00:33.50,0:00:39.28,BORDERED,,0,0,0,,{\fad(300,300)\c&H0042FF&\3c&HFFFFFF&\pos(722.25,885)}He'll make a remonstrance about how he's going to move on from the show!
+Dialogue: 0,0:00:39.70,0:00:43.08,Murakami,,0,0,0,,So, what's goin' on today?
+Dialogue: 0,0:00:43.08,0:00:46.14,Matsumoto,,0,0,0,,Well...
+Dialogue: 0,0:00:46.14,0:00:48.74,Matsumoto,,0,0,0,,Sorry but I...
+Dialogue: 0,0:00:48.74,0:00:51.38,Matsumoto,,0,0,0,,My hips aren't really ok lately, so...
+Dialogue: 0,0:00:47.39,0:00:51.46,BORDERED,,0,0,0,,{\fad(200,0)\c&H10840F&\3c&HFFFFFF&\fscx72\fscy85\pos(528.75,570)}Cocorico
+Dialogue: 0,0:00:47.39,0:00:51.46,BORDERED,,0,0,0,,{\fad(200,0)\4c&HEE24F9&\pos(771.75,510)}Yamazaki Housei
+Dialogue: 0,0:00:47.39,0:00:51.46,BORDERED,,0,0,0,,{\fad(200,0)\pos(652.5,768)}{\fad(200,0)\pos(407.25,774)\4c&H2E99FF&}Endo Shozo
+Dialogue: 0,0:00:47.39,0:00:51.46,BORDERED,,0,0,0,,{\fad(200,0)\4c&H2E99FF&\pos(409.5,768)}Tanaka Naoki
+Dialogue: 0,0:00:51.38,0:00:52.33,Murakami,,0,0,0,,How are you now?
+Dialogue: 0,0:00:52.33,0:00:54.55,Matsumoto,,0,0,0,,I'm quite ok by now, I think
+Dialogue: 0,0:00:54.55,0:00:55.52,Murakami,,0,0,0,,Isn't it good?
+Dialogue: 0,0:00:55.52,0:00:56.45,Matsumoto,,0,0,0,,Oh, thank you
+Dialogue: 0,0:00:56.92,0:00:59.42,Matsumoto,,0,0,0,,So, err...
+Dialogue: 0,0:01:00.63,0:01:03.87,Matsumoto,,0,0,0,,{\pos(713.25,894)}About what we originally planned
+Dialogue: 0,0:01:03.87,0:01:07.46,Matsumoto,,0,0,0,,I mean, about the "class" series you've been doing
+Dialogue: 0,0:01:07.46,0:01:09.30,Matsumoto,,0,0,0,,We had to skip one episode of it
+Dialogue: 0,0:01:09.30,0:01:13.88,Murakami,,0,0,0,,It's fine, 'cause this was, like, \Nyou know, I mean it's just for once
+Dialogue: 0,0:01:13.88,0:01:17.11,Matsumoto,,0,0,0,,Sorry but I have no idea what you just said
+Dialogue: 0,0:01:17.11,0:01:18.05,Matsumoto,,0,0,0,,What was that?
+Dialogue: 0,0:01:18.05,0:01:20.41,Murakami,,0,0,0,,I mean, that was one week ago, right?\N{\c&H172CE7&}- Yeah...
+Dialogue: 0,0:01:20.41,0:01:23.41,Murakami,,0,0,0,,We always made em until they were good\N{\c&H172CE7&}- Yes
+Dialogue: 0,0:01:23.41,0:01:25.18,Murakami,,0,0,0,,But now you're telling me this
+Dialogue: 0,0:01:25.18,0:01:29.08,Matsumoto,,0,0,0,,Yeah, I'm sorry we had to \Ncancel it because of my condition
+Dialogue: 0,0:01:29.63,0:01:32.66,Murakami,,0,0,0,,{\pos(717.75,906)}You want me to start a new one now?
+Dialogue: 0,0:01:32.66,0:01:34.49,Murakami,,0,0,0,,'Cause we co%$&"#@!" a class %$£!§ !!
+Dialogue: 0,0:01:34.49,0:01:36.49,Murakami,,0,0,0,,I mean, if we have time
+Dialogue: 0,0:01:34.87,0:01:37.24,Yamazaki,,0,0,0,,{\pos(1179,672)}What?
+Dialogue: 0,0:01:34.87,0:01:37.24,Endo,,0,0,0,,{\pos(713.25,669)}What?
+Dialogue: 0,0:01:36.49,0:01:38.67,Murakami,,0,0,0,,I'm all in for the class series
+Dialogue: 0,0:01:38.47,0:01:40.61,Hamada,,0,0,0,,{\pos(720,900)}We have no idea what you're sayin', big bro
+Dialogue: 0,0:01:40.61,0:01:43.81,Matsumoto,,0,0,0,,{\pos(720,900)}Has your articulation always been that bad?
+Dialogue: 0,0:01:43.81,0:01:46.20,Matsumoto,,0,0,0,,I can't really understand \Nwhat he's saying, today
+Dialogue: 0,0:01:46.20,0:01:48.07,Yamazaki,,0,0,0,,Yeah, I have no idea
+Dialogue: 0,0:01:48.28,0:01:51.07,Matsumoto,,0,0,0,,So, I'm really sorry, but...
+Dialogue: 0,0:01:51.07,0:01:52.02,Matsumoto,,0,0,0,,You see...
+Dialogue: 0,0:01:52.02,0:01:53.15,Matsumoto,,0,0,0,,{\pos(693,900)}We tried something{\alpha&HFF&} about the class series...
+Dialogue: 0,0:01:53.15,0:01:57.09,Matsumoto,,0,0,0,,{\pos(693,900)}We tried something about the class series...
+Dialogue: 0,0:01:55.32,0:01:57.09,Hamada,,0,0,0,,{\pos(596.25,627)}We actually had one
+Dialogue: 0,0:01:57.72,0:01:59.76,Murakami,,0,0,0,,{\pos(722.25,879)}Mh?
+Dialogue: 0,0:01:59.76,0:02:01.13,Hamada,,0,0,0,,I mean, your series
+Dialogue: 0,0:02:01.13,0:02:02.79,Hamada,,0,0,0,,{\pos(717.75,897)}We had our {\alpha&HFF&}own episode of your class series
+Dialogue: 0,0:02:02.79,0:02:04.76,Hamada,,0,0,0,,{\pos(717.75,897)}We had our own episode of your class series
+Dialogue: 0,0:02:04.76,0:02:07.42,Murakami,,0,0,0,,Without me and just you guys?
+Dialogue: 0,0:02:07.42,0:02:08.03,Hamada,,0,0,0,,No, it's...
+Dialogue: 0,0:02:08.03,0:02:09.90,Hamada,,0,0,0,,{\pos(715.5,903)}We had a different teacher for that
+Dialogue: 0,0:02:10.76,0:02:11.49,Hamada,,0,0,0,,Yeah...
+Dialogue: 0,0:02:09.90,0:02:12.14,Murakami,,0,0,0,,{\pos(715.5,903)}With another teacher?
+Dialogue: 0,0:02:12.14,0:02:14.64,Murakami,,0,0,0,,{\pos(720,897)}On the contrary, isn't it good? I mean
+Dialogue: 0,0:02:14.64,0:02:18.60,Murakami,,0,0,0,,I mean, lessons could become more\N interesting with another teacher
+Dialogue: 0,0:02:18.60,0:02:20.32,Murakami,,0,0,0,,That's nice, 'cause it----
+Dialogue: 0,0:02:20.32,0:02:22.91,Murakami,,0,0,0,,{\fad(100,0)\fnScream Again\fscx105\fscy169\pos(726.75,873)}YOU FUCKING IDIOTS{\fn源界明朝\b1} !!
+Dialogue: 0,0:02:24.97,0:02:26.69,Murakami,,0,0,0,,{\fad(100,0)\fnScream Again\fscx105\fscy169\pos(726.75,873)}YOU FUCKING IDIOTS{\fn源界明朝\b1} !!
+Dialogue: 0,0:02:26.69,0:02:29.85,Murakami,,0,0,0,,{\pos(720,897)}You know there can be only one teacher, right?
+Dialogue: 0,0:02:28.74,0:02:29.94,Matsumoto,,0,0,0,,I know but...
+Dialogue: 0,0:02:29.94,0:02:35.13,Murakami,,0,0,0,,A teacher does one thing, another does another one, \Nof course two teachers can't teach the same thing!
+Dialogue: 0,0:02:35.13,0:02:37.96,Matsumoto,,0,0,0,,Of course we're aware of that
+Dialogue: 0,0:02:37.96,0:02:39.20,Matsumoto,,0,0,0,,{\pos(713.25,906)}But why don't you {\alpha&HFF&}at least take a look at what we did...?
+Dialogue: 0,0:02:39.20,0:02:43.10,Matsumoto,,0,0,0,,{\pos(713.25,906)}But why don't you at least take a look at what we did...?
+Dialogue: 0,0:02:43.10,0:02:45.30,Murakami,,0,0,0,,Well I guess that...
+Dialogue: 0,0:02:45.87,0:02:47.34,Murakami,,0,0,0,,{\pos(726.75,903)}Not looking at it would been weird
+Dialogue: 0,0:02:47.90,0:02:49.50,White font,,0,0,0,,Things will be settled tonight!
+Dialogue: 0,0:02:49.50,0:02:53.80,White font,,0,0,0,,Who will be the one to take over Murakami's place?
+Dialogue: 0,0:02:48.03,0:02:53.95,BORDERED,,0,0,0,,{\fad(200,0)\fs60\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\c&HFB1B3D&\pos(378,60)}The person who will take Shoji Murakami's place
+Dialogue: 0,0:02:48.03,0:02:53.95,BORDERED,,0,0,0,,{\fad(200,0)\fs60\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\c&H152CF3&\pos(281.25,117)}as their new teacher is going to be...
+Dialogue: 0,0:02:53.95,0:03:04.96,Bauhaus (notes),,0,0,0,,{\3c&H951A7E&\4c&H000000&\4a&HFF&\pos(416.25,63)}Translation & Subtitles by {\c&H72B3F9&\3c&H000000&}Shion {\c&HDEF8C7&}(@FGRNDNoises)
+Dialogue: 0,0:02:53.95,0:03:04.96,Bauhaus (notes),,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HC43A2A&\pos(261,117)}facebook.com/shionnotsukai
+Dialogue: 0,0:02:53.95,0:03:04.96,Bauhaus (notes),,0,0,0,,{\c&HFFFFFF&\3c&H379A3E&\3a&H00&\4c&H000000&\4a&HFF&\pos(263.25,171)}shionnotsukai.wordpress.com
+Dialogue: 0,0:02:53.95,0:03:04.96,Bauhaus (notes),,0,0,0,,{\4c&H000000&\4a&HFF&\3c&H172CE7&\pos(715.5,1056)}Want to support my works? consider donating @ {\c&H3EF4FB&\3c&H917B00&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:03:06.91,0:03:09.58,White font,,0,0,0,,Appointed day of the class series
+Dialogue: 0,0:03:05.79,0:03:10.56,BORDERED,,0,0,0,,{\fad(200,200)\4c&H000000&\4a&HFF&\pos(1138.5,759)}CLEAR WEATHER
+Dialogue: 0,0:03:15.12,0:03:17.09,Endo,,0,0,0,,It's the best, it feels nice
+Dialogue: 0,0:03:11.00,0:03:17.10,Matsumoto,,0,0,0,,{\pos(189,891)}Weather,
+Dialogue: 0,0:03:12.20,0:03:17.10,Matsumoto,,0,0,0,,{\pos(432,891)}temperature,
+Dialogue: 0,0:03:13.33,0:03:17.10,Matsumoto,,0,0,0,,{\pos(749.25,891)}humidity level...
+Dialogue: 0,0:03:14.60,0:03:17.10,Matsumoto,,0,0,0,,{\pos(1136.25,891)}aren't they perfect?
+Dialogue: 0,0:03:17.10,0:03:19.06,Matsumoto,,0,0,0,,How is this even possible?
+Dialogue: 0,0:03:19.97,0:03:23.27,Hamada,,0,0,0,,{\pos(425.25,789)}(the times with Shoji)
+Dialogue: 0,0:03:19.97,0:03:23.27,Hamada,,0,0,0,,{\pos(648,1053)}It was always cold as heck and nothing more
+Dialogue: 0,0:03:23.27,0:03:24.91,Matsumoto,,0,0,0,,{\pos(726.75,906)}There were times when it rained, {\alpha&HFF&}even thunders sometimes
+Dialogue: 0,0:03:24.91,0:03:27.01,Matsumoto,,0,0,0,,{\pos(726.75,906)}There were times when it rained, even thunders sometimes
+Dialogue: 0,0:03:26.31,0:03:28.34,Hamada,,0,0,0,,Look at this sign, it's so stylish!
+Dialogue: 0,0:03:28.34,0:03:30.17,Matsumoto,,0,0,0,,It surely is!
+Dialogue: 0,0:03:29.04,0:03:31.65,Bauhaus (notes),,0,0,0,,{\fad(0,0)\fs45\4c&H000000&\4a&HFF&\pos(735.75,57)}note: on the sign: "the ninja class is here"
+Dialogue: 0,0:03:32.60,0:03:34.08,Hamada,,0,0,0,,Yeah you're right
+Dialogue: 0,0:03:31.65,0:03:34.85,Yamazaki,,0,0,0,,{\pos(720,900)}I'm getting excited for real!
+Dialogue: 0,0:03:34.85,0:03:37.69,Matsumoto,,0,0,0,,{\pos(720,897)}Makes me really wanna pay the monthly fee
+Dialogue: 0,0:03:36.98,0:03:38.81,Hamada,,0,0,0,,It's making us wanting to do this
+Dialogue: 0,0:03:38.81,0:03:40.98,Matsumoto,,0,0,0,,Now we just have to wait for our teacher\N{\3c&H000000&\c&HFFFFFF&}- Yes
+Dialogue: 0,0:03:41.83,0:03:43.09,Girolamo,,0,0,0,,{\pos(265.5,708)}Ciao
+Dialogue: 0,0:03:42.09,0:03:43.09,Girolamo,,0,0,0,,{\pos(499.5,708)}Ciao!
+Dialogue: 0,0:03:44.50,0:03:45.73,Endo,,0,0,0,,So cool!!
+Dialogue: 0,0:03:45.73,0:03:48.70,Hamada,,0,0,0,,{\pos(713.25,915)}So friggin' cool!
+Dialogue: 0,0:03:49.10,0:03:51.10,Hamada,,0,0,0,,{\pos(722.25,915)}He's even wearing boots!
+Dialogue: 0,0:03:52.15,0:03:53.40,Girolamo,,0,0,0,,Looks like I made it in time
+Dialogue: 0,0:03:57.24,0:03:58.84,Girolamo,,0,0,0,,{\pos(706.5,900)}How do you like my chest hairs?
+Dialogue: 0,0:03:59.97,0:04:01.30,White font,,0,0,0,,Pioneer of fashion
+Dialogue: 0,0:04:01.30,0:04:04.61,White font,,0,0,0,,Girolamo the dandy will be their teacher!
+Dialogue: 0,0:03:58.84,0:04:05.18,BORDERED,,0,0,0,,{\fad(400,0)\4c&H000000&\4a&HFF&\pos(310.5,633)}The pioneer of wild-look
+Dialogue: 0,0:03:58.84,0:04:05.18,BORDERED,,0,0,0,,{\fad(400,0)\fs75\4c&H25AFB5&\c&H25AFB5&\3c&H9FF9FD&\pos(299.25,789)}Girolamo Panzetta
+Dialogue: 0,0:04:05.21,0:04:07.18,Girolamo,,0,0,0,,So today, we're here...
+Dialogue: 0,0:04:09.68,0:04:10.40,Hamada,,0,0,0,,Thank you!
+Dialogue: 0,0:04:07.89,0:04:10.96,Girolamo,,0,0,0,,{\pos(717.75,906)}We're here to have ourselves a ninja class
+Dialogue: 0,0:04:10.40,0:04:12.10,Yamazaki,,0,0,0,,Thanks!
+Dialogue: 0,0:04:12.48,0:04:16.25,Girolamo,,0,0,0,,You know, there was another one\N before me, but wasn't that popular...
+Dialogue: 0,0:04:15.45,0:04:16.84,Murakami,,0,0,0,,{\fscx49.5\fscy78\pos(200.25,369)}Isn't he italian?!\N{\c&HC43A2A&}- Yes{\4c&H000000&\4a&HFF&\c&HC43A2A&\1a&HFF&\3c&HFFFFFF&\3a&HFF&}...................
+Dialogue: 0,0:04:13.36,0:04:17.66,Black font,,0,0,0,,{\fscx68.25\fscy93\frz350.3\pos(524.25,111)}pin pon pan pon
+Dialogue: 0,0:04:17.66,0:04:20.03,Girolamo,,0,0,0,,{\pos(612,912)}We're first of all supposed to have fun here
+Dialogue: 0,0:04:17.66,0:04:20.03,Girolamo,,0,0,0,,{\pos(290.25,777)}I think that
+Dialogue: 0,0:04:20.03,0:04:22.03,Girolamo,,0,0,0,,{\pos(740.25,888)}After all we italians are all friendly
+Dialogue: 0,0:04:22.20,0:04:23.60,Girolamo,,0,0,0,,{\pos(726.75,894)}In Italy, the word for "friend" {\alpha&HFF&}is "amico"
+Dialogue: 0,0:04:24.33,0:04:25.86,Matsumoto,,0,0,0,,Amigo?   {\c&HC924A5&}- Amigo...
+Dialogue: 0,0:04:23.60,0:04:26.30,Girolamo,,0,0,0,,{\pos(726.75,894)}In Italy, the word for "friend" is "amico"
+Dialogue: 0,0:04:26.30,0:04:28.31,Girolamo,,0,0,0,,{\pos(720,903)}It's amiCo!
+Dialogue: 0,0:04:27.33,0:04:28.36,Yellow font,,0,0,0,,Amico!
+Dialogue: 0,0:04:28.36,0:04:29.37,Girolamo,,0,0,0,,Say it again
+Dialogue: 0,0:04:29.37,0:04:31.44,Yellow font,,0,0,0,,{\pos(729,870)}Amico!
+Dialogue: 0,0:04:30.40,0:04:33.08,Girolamo,,0,0,0,,Yeah! I'll teach you lots of things today
+Dialogue: 0,0:04:33.21,0:04:36.21,Yamazaki,,0,0,0,,{\pos(726.75,903)}His sunglasses are pretty cool, aren't they?
+Dialogue: 0,0:04:34.70,0:04:36.47,Girolamo,,0,0,0,,Are you ready? Shall we start?
+Dialogue: 0,0:04:37.22,0:04:40.45,Girolamo,,0,0,0,,{\pos(713.25,891)}Let's do this!
+Dialogue: 0,0:04:38.14,0:04:40.45,Yellow font,,0,0,0,,Yeah!!
+Dialogue: 0,0:04:41.24,0:04:43.96,White font,,0,0,0,,The training will begin
+Dialogue: 0,0:04:43.96,0:04:46.21,White font,,0,0,0,,By remodeling the old-fashioned ninjas
+Dialogue: 0,0:04:40.45,0:04:46.46,BORDERED,,0,0,0,,{\4c&HFFFFFF&\c&H152CF3&\3c&HFFFFFF&\4a&H6F&\pos(186.75,720)}Training 1
+Dialogue: 0,0:04:40.45,0:04:46.46,BORDERED,,0,0,0,,{\fs75\pos(607.5,816)\4c&HFFFFFF&\4a&H60&\3c&HFFFFFF&\c&H2E7932&}Aim to be a wild-looking cool ninja
+Dialogue: 0,0:04:46.58,0:04:49.52,Girolamo,,0,0,0,,Sudden change: style change training!
+Dialogue: 0,0:04:49.52,0:04:51.55,Yellow font,,0,0,0,,Yeah!!
+Dialogue: 0,0:04:51.55,0:04:52.59,Murakami,,0,0,0,,{\fscx54.75\fscy78\pos(184.5,324)}What the f-?
+Dialogue: 0,0:04:49.95,0:04:56.63,BORDERED,,0,0,0,,{\fad(200,500)\c&H1326CB&\3c&HFFFFFF&\fscx54\fscy87\pos(407.25,618)}Sudden Change!
+Dialogue: 0,0:04:49.95,0:04:56.63,BORDERED,,0,0,0,,{\fad(200,500)\fnBritannic Bold\fs90\fscx114.75\fscy128\frx358\fry326\3c&HFFFFFF&\c&HCD7F23&\pos(441,819)}Style
+Dialogue: 0,0:04:49.95,0:04:56.63,BORDERED,,0,0,0,,{\fad(200,500)\fnBritannic Bold\fscx129\fscy184\pos(780.75,807)\c&H3F9B23&\3c&HFFFFFF&}Change
+Dialogue: 0,0:04:49.95,0:04:56.63,BORDERED,,0,0,0,,{\fad(200,500)\fnBritannic Bold\fscx141\fscy193\frx338\fry42\pos(1118.25,828)\c&H07BFFF&\3c&HFFFFFF&}Training
+Dialogue: 0,0:04:57.06,0:05:00.00,Girolamo,,0,0,0,,Don't you think the image of \Nninjas is outdated by now?
+Dialogue: 0,0:05:00.00,0:05:00.96,Girolamo,,0,0,0,,I mean, just black
+Dialogue: 0,0:05:00.96,0:05:01.93,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:05:01.93,0:05:03.93,Girolamo,,0,0,0,,We'll try to make it more fashionable
+Dialogue: 0,0:05:03.93,0:05:05.97,Yellow font,,0,0,0,,More fashionable...
+Dialogue: 0,0:05:05.97,0:05:07.97,Girolamo,,0,0,0,,You can see lots of items here
+Dialogue: 0,0:05:07.97,0:05:08.90,Matsumoto,,0,0,0,,This is amazing!
+Dialogue: 0,0:05:08.90,0:05:10.36,Endo,,0,0,0,,So many fashionable items!
+Dialogue: 0,0:05:10.36,0:05:12.36,Girolamo,,0,0,0,,Just pick some of them
+Dialogue: 0,0:05:02.27,0:05:12.52,Bauhaus (notes),,0,0,0,,{\fad(300,300)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\pos(720,900)\fscx67.5\fscy100}Training: use the fashionable items and make your own wild-looking cool ninja
+Dialogue: 0,0:05:12.36,0:05:13.52,Girolamo,,0,0,0,,And make it cooler
+Dialogue: 0,0:05:13.52,0:05:15.08,Girolamo,,0,0,0,,We'll start from Hamada
+Dialogue: 0,0:05:15.08,0:05:17.51,Matsumoto,,0,0,0,,Oh! Hamada    {\c&H36C741&}- Hamada-san!
+Dialogue: 0,0:05:14.91,0:05:18.18,Murakami,,0,0,0,,{\fscx34.5\fscy75\pos(195.75,366)}But ninjas aren't supposed \Nto be spotted by the enemy
+Dialogue: 0,0:05:18.85,0:05:20.55,Yamazaki,,0,0,0,,Are we choosing them ourselves?
+Dialogue: 0,0:05:20.06,0:05:20.59,Girolamo,,0,0,0,,{\pos(720,894)}Next up {\alpha&HFF&}is Abe-san
+Dialogue: 0,0:05:20.59,0:05:22.19,Girolamo,,0,0,0,,{\pos(720,894)}Next up is Abe-san
+Dialogue: 0,0:05:22.82,0:05:23.62,Girolamo,,0,0,0,,Oh, sorry
+Dialogue: 0,0:05:22.19,0:05:24.50,Endo,,0,0,0,,{\pos(722.25,900)}I'm Endo by the way
+Dialogue: 0,0:05:23.62,0:05:24.50,Endo,,0,0,0,,It's ok
+Dialogue: 0,0:05:24.50,0:05:27.79,Endo,,0,0,0,,Amico, right? Amico!
+Dialogue: 0,0:05:27.79,0:05:29.09,Yamazaki,,0,0,0,,That's amico
+Dialogue: 0,0:05:29.09,0:05:31.03,Matsumoto,,0,0,0,,{\fscx39.75\fscy73\pos(200.25,315)}That's a weird mistake
+Dialogue: 0,0:05:31.00,0:05:33.76,White font,,0,0,0,,Endo will be the first challenger
+Dialogue: 0,0:05:30.27,0:05:34.27,BORDERED,,0,0,0,,{\fs90\c&H000000&\3c&HFFFFFF&\4c&H1326CB&\pos(731.25,426)}ENDO'S CHALLENGE
+Dialogue: 0,0:05:35.63,0:05:38.75,Yellow font,,0,0,0,,{\fad(0,150)}Yaaaaay!
+Dialogue: 0,0:05:34.32,0:05:39.88,Girolamo,,0,0,0,,{\pos(720,870)}Tokyo Ninja Collection!
+Dialogue: 0,0:05:41.64,0:05:43.27,Girolamo,,0,0,0,,So cool!
+Dialogue: 0,0:05:47.13,0:05:48.71,Yamazaki,,0,0,0,,Looking good, Endo!
+Dialogue: 0,0:05:46.38,0:05:49.12,Matsumoto,,0,0,0,,{\pos(720,897)}Amico!
+Dialogue: 0,0:05:48.71,0:05:50.11,Girolamo,,0,0,0,,Pretty cool, right?
+Dialogue: 0,0:05:50.11,0:05:52.91,Girolamo,,0,0,0,,As expected from Louis Vuitton sunglasses
+Dialogue: 0,0:05:53.58,0:05:54.86,Endo,,0,0,0,,Thank you!
+Dialogue: 0,0:05:52.91,0:05:56.46,BORDERED,,0,0,0,,{\fad(300,0)\4c&H000000&\4a&HFF&\3c&HFFFFFF&\c&HC924A5&\fnLucida Calligraphy\b1\pos(965.25,912)}Louis Vuitton {\c&H000000&}Sunglasses{\b0}
+Dialogue: 0,0:05:54.86,0:05:57.32,Girolamo,,0,0,0,,Maybe it's a bit too hot today for this
+Dialogue: 0,0:05:57.32,0:05:59.13,Girolamo,,0,0,0,,Even this scarf color is amazing
+Dialogue: 0,0:05:59.49,0:06:00.90,Hamada,,0,0,0,,This is so popular
+Dialogue: 0,0:06:00.90,0:06:01.97,Girolamo,,0,0,0,,This is cool but
+Dialogue: 0,0:05:59.50,0:06:01.97,BORDERED,,0,0,0,,{\fad(300,0)\4c&H000000&\4a&HFF&\3c&HFFFFFF&\c&HC924A5&\fnLucida Calligraphy\b1\pos(985.5,912)}Silk {\c&H000000&}Scarf{\b0}
+Dialogue: 0,0:06:01.97,0:06:04.47,Girolamo,,0,0,0,,{\pos(688.5,780)}It's probably lacking something to be cooler
+Dialogue: 0,0:06:04.47,0:06:05.80,Endo,,0,0,0,,I don't know much about it
+Dialogue: 0,0:06:05.80,0:06:07.54,Yamazaki,,0,0,0,,{\pos(726.75,900)}He does look incomplete
+Dialogue: 0,0:06:07.54,0:06:09.70,Girolamo,,0,0,0,,A black diamond
+Dialogue: 0,0:06:10.57,0:06:13.47,Endo,,0,0,0,,Woah, this raises the bar!
+Dialogue: 0,0:06:09.86,0:06:14.35,BORDERED,,0,0,0,,{\fad(300,300)\4c&H000000&\4a&HFF&\3c&HFFFFFF&\c&HC924A5&\fnLucida Calligraphy\b1\pos(1021.5,903)}Black Diam{\c&H000000&}ond Ring{\b0}
+Dialogue: 0,0:06:13.47,0:06:14.84,Murakami,,0,0,0,,{\fscx45.75\fscy76\pos(191.25,321)}The hell is this!?
+Dialogue: 0,0:06:14.84,0:06:17.42,Matsumoto,,0,0,0,,It will stand out when throwing shurikens
+Dialogue: 0,0:06:19.52,0:06:23.36,Girolamo,,0,0,0,,{\pos(720,882)}More than for battle, this is for being popular with girls
+Dialogue: 0,0:06:24.67,0:06:26.86,Girolamo,,0,0,0,,I'm giving them all to you
+Dialogue: 0,0:06:26.86,0:06:28.99,Endo,,0,0,0,,For real?!\N{\c&HFFFFFF&\4c&HFFFFFF&\3c&H000000&}- It's ok, leave it to me
+Dialogue: 0,0:06:28.99,0:06:33.76,Matsumoto,,0,0,0,,Amico!!
+Dialogue: 0,0:06:29.28,0:06:33.87,BORDERED,,0,0,0,,{\fad(200,0)\4c&H40F2FD&\c&H000000&\3c&HFFFFFF&\pos(724.5,840)}Endo {\c&H1326CB&}receives a (around) 700'000 yen worth set of items!
+Dialogue: 0,0:06:37.17,0:06:43.78,BORDERED,,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\4c&HC43A2A&\pos(758.25,861)}Hamada too {\c&HC43A2A&}changes into a wild-looking cool ninja
+Dialogue: 0,0:06:44.51,0:06:47.51,BORDERED,,0,0,0,,{\fad(300,300)\4c&H000000&\4a&HFF&\3c&HFFFFFF&\c&HC924A5&\fnLucida Calligraphy\b1\pos(1021.5,903)}Rayban{\c&H000000&} Sunglasses{\b0}
+Dialogue: 0,0:06:45.90,0:06:47.67,Murakami,,0,0,0,,{\fscx48.75\fscy78\pos(231.75,321)}The hell is this shit?!
+Dialogue: 0,0:06:47.67,0:06:49.24,Girolamo,,0,0,0,,This will make you look badass
+Dialogue: 0,0:06:49.35,0:06:51.05,Matsumoto,,0,0,0,,{\pos(1048.5,753)}He's not gonna wear them
+Dialogue: 0,0:06:49.47,0:06:52.21,Murakami,,0,0,0,,{\fscx48.75\fscy78\pos(193.5,366)}How is he supposed\N to wield that?!
+Dialogue: 0,0:06:47.88,0:06:52.65,BORDERED,,0,0,0,,{\fad(300,300)\4c&H000000&\4a&HFF&\3c&HFFFFFF&\c&HC924A5&\fnLucida Calligraphy\b1\pos(1068.75,906)}Bottega Veneta{\c&H000000&} Gloves{\b0}
+Dialogue: 0,0:06:53.61,0:06:57.01,Matsumoto,,0,0,0,,Amico!
+Dialogue: 0,0:06:57.01,0:06:59.11,Girolamo,,0,0,0,,Pretty good, huh?
+Dialogue: 0,0:06:53.32,0:06:59.59,BORDERED,,0,0,0,,{\fad(200,200)\4c&HFFFFFF&\c&H000000&\3c&HFFFFFF&\pos(677.25,861)}With sunglasses and gloves{\4c&H40F2FD&\c&H1326CB&} his style got upgraded
+Dialogue: 0,0:06:58.21,0:06:59.81,Murakami,,0,0,0,,{\fscx51\fscy78\pos(198,321)}What the fuck!!
+Dialogue: 0,0:06:59.81,0:07:00.96,Girolamo,,0,0,0,,These are all presents
+Dialogue: 0,0:07:00.96,0:07:04.83,BORDERED,,0,0,0,,{\fad(200,0)\4c&H40F2FD&\c&H000000&\3c&HFFFFFF&\pos(724.5,840)}Hamada {\c&H1326CB&}receives a (around) 150'000 yen worth set of items!
+Dialogue: 0,0:07:05.35,0:07:08.62,White font,,0,0,0,,Lastly, here's the teacher's example
+Dialogue: 0,0:07:04.83,0:07:08.83,BORDERED,,0,0,0,,{\fs75\c&H000000&\3c&HFFFFFF&\4c&H1326CB&\pos(731.25,426)}THE TEACHER'S EXAMPLE
+Dialogue: 0,0:07:12.62,0:07:13.82,Endo,,0,0,0,,Is that a ninja?
+Dialogue: 0,0:07:14.33,0:07:15.80,Murakami,,0,0,0,,{\fscx58.5\fscy71\pos(204.75,321)}This is just bad
+Dialogue: 0,0:07:13.71,0:07:17.28,BORDERED,,0,0,0,,{\fad(200,0)\4c&H000000&\4a&HFF&\pos(1163.25,873)}Leather Coat & Belt by
+Dialogue: 0,0:07:17.28,0:07:20.35,Yellow font,,0,0,0,,Amico!!
+Dialogue: 0,0:07:17.90,0:07:20.35,Murakami,,0,0,0,,{\fscx48.75\fscy77\pos(193.5,369)}I don't get the\N meaning of this!!
+Dialogue: 0,0:07:20.35,0:07:22.51,Tanaka,,0,0,0,,As expected by our teacher!
+Dialogue: 0,0:07:22.51,0:07:23.91,Girolamo,,0,0,0,,Leave it to me
+Dialogue: 0,0:07:23.91,0:07:26.28,Tanaka,,0,0,0,,Amazing!\N{\c&HC43A2A&}- Fashionable!
+Dialogue: 0,0:07:26.28,0:07:28.92,Girolamo,,0,0,0,,After the ninja are done with their job they go have fun, right?
+Dialogue: 0,0:07:31.22,0:07:32.99,Girolamo,,0,0,0,,Listen to me, what's our hobby?
+Dialogue: 0,0:07:32.99,0:07:33.79,Endo,,0,0,0,,Our hobby?
+Dialogue: 0,0:07:33.79,0:07:37.53,Girolamo,,0,0,0,,{\pos(726.75,864)}It's to make good use of women
+Dialogue: 0,0:07:36.23,0:07:37.99,Murakami,,0,0,0,,{\fscx42.75\fscy77\pos(189,366)}The hell is he\N talkin' about?!
+Dialogue: 0,0:07:38.75,0:07:39.99,Murakami,,0,0,0,,{\fscx48.75\fscy77\pos(193.5,324)}Is he an idiot?!
+Dialogue: 0,0:07:39.45,0:07:41.32,Matsumoto,,0,0,0,,{\fad(0,200)}Amicoooo~
+Dialogue: 0,0:07:41.97,0:07:44.36,Endo,,0,0,0,,He's cool, right?\N{\c&HC02EBD&}- He's amazing
+Dialogue: 0,0:07:44.36,0:07:46.57,Matsumoto,,0,0,0,,In a way, yeah...
+Dialogue: 0,0:07:46.57,0:07:47.94,Hamada,,0,0,0,,{\pos(717.75,891)}His point is that {\alpha&HFF&}ninjas are outdated by now
+Dialogue: 0,0:07:47.94,0:07:49.54,Hamada,,0,0,0,,{\pos(717.75,891)}His point is that ninjas are outdated by now
+Dialogue: 0,0:07:49.54,0:07:51.08,Murakami,,0,0,0,,But that's not the issue
+Dialogue: 0,0:07:51.08,0:07:52.91,Murakami,,0,0,0,,{\pos(726.75,900)}Does he even know what "ninja" means?
+Dialogue: 0,0:07:52.91,0:07:53.65,Murakami,,0,0,0,,Besides
+Dialogue: 0,0:07:53.65,0:07:54.91,Murakami,,0,0,0,,{\pos(726.75,894)}Why are you guys like that?!
+Dialogue: 0,0:07:54.91,0:07:57.55,Murakami,,0,0,0,,Acting as if your boss threw a dining party
+Dialogue: 0,0:07:57.55,0:08:02.19,Murakami,,0,0,0,,{\pos(567,771)}And he's like "I'll pay your taxi home"
+Dialogue: 0,0:07:58.88,0:08:02.19,Murakami,,0,0,0,,{\pos(564.75,1059)}And you're like "Wow, thanks boss!!"
+Dialogue: 0,0:08:00.59,0:08:02.19,Murakami,,0,0,0,,{\pos(1118.25,1059)}Are you idiots?
+Dialogue: 0,0:08:02.19,0:08:03.72,Matsumoto,,0,0,0,,To be honest...
+Dialogue: 0,0:08:03.72,0:08:08.53,Matsumoto,,0,0,0,,{\pos(488.25,780)}Aren't there plenty of dark affairs
+Dialogue: 0,0:08:04.92,0:08:08.53,Matsumoto,,0,0,0,,{\pos(742.5,1059)}Involving you directly, Shoji big bro? Let's talk about those
+Dialogue: 0,0:08:08.53,0:08:10.53,Matsumoto,,0,0,0,,Like, a lot of stuff
+Dialogue: 0,0:08:18.69,0:08:19.63,Murakami,,0,0,0,,{\pos(1271.25,795)}Wait a sec
+Dialogue: 0,0:08:15.27,0:08:19.90,Hamada,,0,0,0,,{\pos(630,777)}I think he thought the same
+Dialogue: 0,0:08:16.57,0:08:19.90,Hamada,,0,0,0,,{\pos(679.5,1053)}As he was talking about it before
+Dialogue: 0,0:08:20.33,0:08:22.66,Murakami,,0,0,0,,That has nothing to do with the class!
+Dialogue: 0,0:08:22.84,0:08:24.00,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:08:24.00,0:08:26.00,Murakami,,0,0,0,,I'm talking about this class
+Dialogue: 0,0:08:26.00,0:08:27.01,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:08:27.01,0:08:27.25,Murakami,,0,0,0,,Also
+Dialogue: 0,0:08:27.25,0:08:28.75,Murakami,,0,0,0,,{\pos(729,888)}My daughter is attending college now, {\alpha&HFF&}it'd be awful
+Dialogue: 0,0:08:28.75,0:08:32.15,Murakami,,0,0,0,,{\pos(729,888)}My daughter is attending college now, it'd be awful
+Dialogue: 0,0:08:33.41,0:08:34.42,Hamada,,0,0,0,,I see that
+Dialogue: 0,0:08:34.52,0:08:39.76,Murakami,,0,0,0,,{\pos(645.75,777)}If you start talking about that thing,
+Dialogue: 0,0:08:36.52,0:08:39.76,Murakami,,0,0,0,,{\pos(733.5,1056)}I think this episode would just end right here
+Dialogue: 0,0:08:39.76,0:08:41.26,Matsumoto,,0,0,0,,Back on our topic...
+Dialogue: 0,0:08:41.26,0:08:43.33,Matsumoto,,0,0,0,,{\pos(720,897)}Our staff decided to do{\alpha&HFF&} something about this situation...
+Dialogue: 0,0:08:43.33,0:08:44.76,Matsumoto,,0,0,0,,{\pos(720,897)}Our staff decided to do something about this situation...
+Dialogue: 0,0:08:44.76,0:08:45.36,Matsumoto,,0,0,0,,And so
+Dialogue: 0,0:08:46.72,0:08:47.69,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:08:45.36,0:08:47.90,Matsumoto,,0,0,0,,{\pos(724.5,894)}And did a sort of street interview
+Dialogue: 0,0:08:47.90,0:08:53.10,Matsumoto,,0,0,0,,{\pos(738,780)}You know, about the teacher from before (Girolamo)
+Dialogue: 0,0:08:50.84,0:08:53.10,Matsumoto,,0,0,0,,{\pos(389.25,1053)}And you, Shoji-sensei
+Dialogue: 0,0:08:53.10,0:08:54.77,Hamada,,0,0,0,,{\pos(724.5,894)}A sort of comparison
+Dialogue: 0,0:08:54.77,0:08:57.84,Murakami,,0,0,0,,Of course I'm better than him, I mean...
+Dialogue: 0,0:08:57.84,0:09:00.71,Murakami,,0,0,0,,{\pos(722.25,894)}Is it a survey about who's the funniest, right?
+Dialogue: 0,0:08:59.43,0:09:02.40,Matsumoto,,0,0,0,,To be honest, I don't really know it myself
+Dialogue: 0,0:09:02.40,0:09:04.08,Matsumoto,,0,0,0,,Shall we take a look?
+Dialogue: 0,0:09:05.25,0:09:07.71,White font,,0,0,0,,Girolamo or Shoji Murakami...
+Dialogue: 0,0:09:07.71,0:09:10.41,White font,,0,0,0,,Who would you rather sleep with?
+Dialogue: 0,0:09:06.68,0:09:10.55,BORDERED,,0,0,0,,{\fad(200,200)\3c&HA534C7&\pos(452.25,792)}Girolamo Panzetta
+Dialogue: 0,0:09:06.68,0:09:10.55,BORDERED,,0,0,0,,{\fad(200,200)\3c&HA534C7&\pos(981,786)}Shoji Murakami
+Dialogue: 0,0:09:04.44,0:09:10.81,BORDERED,,0,0,0,,{\fad(1000,200)\4c&H084579&\c&H0894FF&\3c&H42D7FF&\pos(720,87)}Gaki No Tsukai Image Survey
+Dialogue: 0,0:09:05.24,0:09:10.81,BORDERED,,0,0,0,,{\fad(500,200)\pos(726.75,906)\c&HFFFFFF&\3c&H084579&}Who would you rather sleep with?
+Dialogue: 0,0:09:12.86,0:09:15.26,White font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(920.25,651)}Girolamo
+Dialogue: 0,0:09:15.53,0:09:18.90,White font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\fscx46.5\fscy93\pos(902.25,639)}'cause he looks like a man who knows how to treat a woman
+Dialogue: 0,0:09:19.40,0:09:21.00,White font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(920.25,651)}Girolamo
+Dialogue: 0,0:09:11.75,0:09:23.20,BORDERED,,0,0,0,,{\fad(200,0)\4c&H000000&\4a&HFF&\fscx62.25\fscy81\pos(189,906)}Girolamo
+Dialogue: 0,0:09:11.75,0:09:23.20,BORDERED,,0,0,0,,{\fad(200,0)\4c&H000000&\4a&HFF&\fscx62.25\fscy81\pos(191.25,987)\c&H000000&\3c&HFFFFFF&}Murakami
+Dialogue: 0,0:09:11.75,0:09:23.20,BORDERED,,0,0,0,,{\fad(200,0)\4c&H000000&\4a&HFF&\fscx68.25\fscy110\pos(292.5,774)}Girolamo vs{\3c&HFFFFFF&\c&H000000&} Murakami:\N{\c&HFFFFFF&\3c&H000000&}Who will you choose?
+Dialogue: 0,0:09:11.75,0:09:23.20,BORDERED,,0,0,0,,{\fad(200,0)\c&H40F2FD&\3c&H10528B&\4c&H020A56&\4a&HFF&\frz6.105\pos(270,549)}Gaki no Tsukai image survey
+Dialogue: 0,0:09:21.00,0:09:23.20,White font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(882,648)}Isn't he a "ladies first" type of guy?
+Dialogue: 0,0:09:24.07,0:09:26.34,BORDERED,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(596.25,639)}Of course
+Dialogue: 0,0:09:24.77,0:09:26.34,BORDERED,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(821.25,639)}I'd pick Girolamo
+Dialogue: 0,0:09:26.34,0:09:29.27,Black font,,0,0,0,,{\pos(999,654)}Is there a reason for why
+Dialogue: 0,0:09:26.34,0:09:31.28,Black font,,0,0,0,,{\pos(576,564)}(staff)
+Dialogue: 0,0:09:29.27,0:09:31.28,Black font,,0,0,0,,{\fscx64.5\fscy91\pos(1001.25,639)}You didn't choose Murakami?
+Dialogue: 0,0:09:31.28,0:09:31.93,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(911.25,747)}He kinda...
+Dialogue: 0,0:09:33.48,0:09:36.82,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(895.5,642)\fscx69\fscy93}It'd be creepy if he would touch me...
+Dialogue: 0,0:09:37.58,0:09:39.98,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(920.25,651)}Girolamo
+Dialogue: 0,0:09:41.01,0:09:41.65,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(909,744)}I guess
+Dialogue: 0,0:09:41.65,0:09:43.89,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(913.5,645)}I'd go for Girolamo
+Dialogue: 0,0:09:49.03,0:09:52.63,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\fscx45\fscy80\pos(978.75,567)}Murakami
+Dialogue: 0,0:09:50.10,0:09:52.63,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\fscx45\fscy80\pos(1113.75,567)}George
+Dialogue: 0,0:09:50.10,0:09:52.63,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\fscx45\fscy80\pos(1080,522)}.
+Dialogue: 0,0:09:52.83,0:09:55.37,Black font,,0,0,0,,{\pos(641.25,570)}(staff)
+Dialogue: 0,0:09:52.83,0:09:55.37,Black font,,0,0,0,,{\pos(1012.5,642)\fscx68.25\fscy100}Is there a reason why?
+Dialogue: 0,0:09:55.37,0:09:58.50,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(884.25,639)}Let's see...
+Dialogue: 0,0:09:58.50,0:10:00.67,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(893.25,642)}What does this person do?
+Dialogue: 0,0:10:01.44,0:10:03.44,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(913.5,645)}Girolamo
+Dialogue: 0,0:10:03.44,0:10:06.54,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(884.25,639)}Girolamo Panzetta
+Dialogue: 0,0:10:07.64,0:10:09.17,Black font,,0,0,0,,{\fscx57.75\fscy88\pos(699.75,573)}(staff) Why is that?
+Dialogue: 0,0:10:06.54,0:10:10.15,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(884.25,639)\fscx64.5\fscy97}No way I'm choosing him (Murakami)
+Dialogue: 0,0:10:10.15,0:10:11.35,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(924.75,639)}No way! {\alpha&HFF&}I don't like him
+Dialogue: 0,0:10:11.35,0:10:12.78,Black font,,0,0,0,,{\4c&HFFA940&\c&HFFA940&\3c&HFFFFFF&\pos(924.75,639)}No way! I don't like him
+Dialogue: 0,0:10:13.02,0:10:14.62,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(913.5,645)}Girolamo
+Dialogue: 0,0:09:23.54,0:10:16.35,BORDERED,,0,0,0,,{\fad(0,0)\4c&H000000&\4a&HFF&\fscx62.25\fscy81\pos(189,906)}Girolamo
+Dialogue: 0,0:09:23.54,0:10:16.35,BORDERED,,0,0,0,,{\fad(0,0)\4c&H000000&\4a&HFF&\fscx62.25\fscy81\pos(191.25,987)\c&H000000&\3c&HFFFFFF&}Murakami
+Dialogue: 0,0:09:23.54,0:10:16.35,BORDERED,,0,0,0,,{\fad(0,0)\4c&H000000&\4a&HFF&\fscx68.25\fscy110\pos(292.5,774)}Girolamo vs{\3c&HFFFFFF&\c&H000000&} Murakami:\N{\c&HFFFFFF&\3c&H000000&}Who will you choose?
+Dialogue: 0,0:09:23.54,0:10:16.35,BORDERED,,0,0,0,,{\fad(0,0)\c&H40F2FD&\3c&H10528B&\4c&H020A56&\4a&HFF&\frz6.105\pos(270,549)}Gaki no Tsukai image survey
+Dialogue: 0,0:10:14.62,0:10:16.35,Black font,,0,0,0,,{\4c&HAE44FF&\c&HAE44FF&\3c&HFFFFFF&\pos(913.5,645)}Girolamo is ok
+Dialogue: 0,0:10:17.35,0:10:22.93,BORDERED,,0,0,0,,{\fad(100,0)\pos(704.25,1041)\c&H65E9FF&\3c&H1326CB&}Girolamo Panzetta
+Dialogue: 0,0:10:26.03,0:10:28.93,Murakami,,0,0,0,,{\pos(722.25,900)}What kind of survey was that?
+Dialogue: 0,0:10:29.20,0:10:31.40,Matsumoto,,0,0,0,,{\pos(713.25,897)}That was something the staff{\alpha&HFF&} always liked to do, so...
+Dialogue: 0,0:10:31.40,0:10:33.97,Matsumoto,,0,0,0,,{\pos(713.25,897)}That was something the staff always liked to do, so...
+Dialogue: 0,0:10:32.73,0:10:35.37,Murakami,,0,0,0,,Wait a sec, regardless of that
+Dialogue: 0,0:10:35.37,0:10:36.91,Murakami,,0,0,0,,This is
+Dialogue: 0,0:10:36.91,0:10:38.88,Murakami,,0,0,0,,{\pos(724.5,897)}The "class" series, you know
+Dialogue: 0,0:10:38.10,0:10:38.88,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:10:39.14,0:10:43.42,Matsumoto,,0,0,0,,{\pos(432,777)}I got mad at 'em myself too
+Dialogue: 0,0:10:40.81,0:10:43.42,Matsumoto,,0,0,0,,{\pos(582.75,1053)}And told them like "this is unrelated to it"
+Dialogue: 0,0:10:43.42,0:10:46.35,Murakami,,0,0,0,,{\pos(742.5,900)}"Who would you rather sleep with" - geez!
+Dialogue: 0,0:10:46.35,0:10:51.26,Murakami,,0,0,0,,{\pos(587.25,909)}Also, there was one of them...
+Dialogue: 0,0:10:47.32,0:10:51.26,Murakami,,0,0,0,,{\pos(1066.5,909)}what the hell?
+Dialogue: 0,0:10:53.75,0:10:56.22,Endo,,0,0,0,,She wants you     {\c&H14BC02&}- You were chosen
+Dialogue: 0,0:10:51.26,0:10:58.30,Murakami,,0,0,0,,{\pos(801,777)}I mean, what's the deal
+Dialogue: 0,0:10:52.36,0:10:58.30,Murakami,,0,0,0,,{\pos(760.5,918)}With that old lady?
+Dialogue: 0,0:10:56.22,0:10:58.30,Matsumoto,,0,0,0,,They found her on the street, we don't know
+Dialogue: 0,0:10:58.30,0:11:06.71,Murakami,,0,0,0,,{\pos(704.25,780)}Isn't it strange it was not a survey about something like
+Dialogue: 0,0:11:01.87,0:11:06.71,Murakami,,0,0,0,,{\pos(612,1056)}"who would be funnier in a ninja class episode?"
+Dialogue: 0,0:11:05.19,0:11:06.71,Hamada,,0,0,0,,{\pos(742.5,726)}The staff probably got it wrong
+Dialogue: 0,0:11:06.71,0:11:07.33,Yamazaki,,0,0,0,,A mistake
+Dialogue: 0,0:11:07.33,0:11:08.76,Matsumoto,,0,0,0,,Yes. Hey, you guys.
+Dialogue: 0,0:11:09.20,0:11:10.90,Yamazaki,,0,0,0,,What was that?\N{\c&H1326CB&}- That's no good!
+Dialogue: 0,0:11:10.90,0:11:12.67,Tanaka,,0,0,0,,Must be that\N{\c&HC3321A&}- It's our staff
+Dialogue: 0,0:11:12.67,0:11:14.25,Matsumoto,,0,0,0,,Dontcha make this mistake again!
+Dialogue: 0,0:11:15.05,0:11:16.04,Matsumoto,,0,0,0,,Got it!?
+Dialogue: 0,0:11:16.04,0:11:17.11,Yamazaki,,0,0,0,,Don't be mad
+Dialogue: 0,0:11:17.47,0:11:19.52,Murakami,,0,0,0,,Also, that was all about...
+Dialogue: 0,0:11:19.52,0:11:21.69,Murakami,,0,0,0,,{\pos(731.25,903)}This whole "wild-looking dude" thing but
+Dialogue: 0,0:11:21.69,0:11:23.86,Murakami,,0,0,0,,{\pos(724.5,897)}But I don't have any qualities like that
+Dialogue: 0,0:11:23.86,0:11:27.69,Murakami,,0,0,0,,{\pos(573.75,771)\fscx63.75\fscy98}Even though back then I used to
+Dialogue: 0,0:11:23.86,0:11:27.69,Murakami,,0,0,0,,{\pos(720,1056)}Eat and run away without paying or such
+Dialogue: 0,0:11:30.06,0:11:31.85,Matsumoto,,0,0,0,,{\fscx52.5\fscy76\pos(247.5,627)}It's not our fault\N you were like this!
+Dialogue: 0,0:11:27.69,0:11:32.96,Murakami,,0,0,0,,{\pos(569.25,747)}But such things are bad!
+Dialogue: 0,0:11:28.59,0:11:32.96,Murakami,,0,0,0,,{\pos(603,1059)}They're not worth praising!
+Dialogue: 0,0:11:33.52,0:11:34.94,Murakami,,0,0,0,,Alright, whatever
+Dialogue: 0,0:11:35.34,0:11:36.59,Murakami,,0,0,0,,Let's get over this\N{\c&H1326CB&}- Yes
+Dialogue: 0,0:11:37.96,0:11:39.26,Matsumoto,,0,0,0,,Yeah it goes on
+Dialogue: 0,0:11:37.20,0:11:40.11,Murakami,,0,0,0,,{\pos(720,900)}Is there still some recording left?
+Dialogue: 0,0:11:39.26,0:11:40.50,Yamazaki,,0,0,0,,Yeah, there is
+Dialogue: 0,0:11:40.50,0:11:42.80,Matsumoto,,0,0,0,,It's not so long, so, please...
+Dialogue: 0,0:11:43.50,0:11:46.60,Girolamo,,0,0,0,,Wiggling Kunoichi Twister Training!
+Dialogue: 0,0:11:43.50,0:11:46.60,Bauhaus (notes),,0,0,0,,{\fscx49.5\fscy91\pos(717.75,54)\4c&H000000&\4a&HFF&}note: kunoichi = female ninja
+Dialogue: 0,0:11:46.95,0:11:53.92,BORDERED,,0,0,0,,{\fad(0,200)\3c&HFFFFFF&\c&H1628F3&\frz19.8\pos(211.5,594)\4c&HFFFFFF&\4a&H5B&}Wiggling
+Dialogue: 0,0:11:46.95,0:11:53.92,BORDERED,,0,0,0,,{\fad(0,200)\3c&HFFFFFF&\c&H1628F3&\frz19.8\pos(249.75,711)\4c&HFFFFFF&\4a&H76&}Kunoichi
+Dialogue: 0,0:11:46.95,0:11:53.92,BORDERED,,0,0,0,,{\fad(0,200)\4c&H95216F&\c&H832AEA&\3c&HFFFFFF&\fscx116.25\fscy117\pos(544.5,762)\frz9.104}Twister
+Dialogue: 0,0:11:46.95,0:11:53.92,BORDERED,,0,0,0,,{\fad(0,200)\frz356.5\4c&H000000&\4a&HFF&\c&H05EFE7&\3c&HC43A2A&\pos(906.75,720)}TRAI
+Dialogue: 0,0:11:46.95,0:11:53.92,BORDERED,,0,0,0,,{\fad(0,200)\frz351.6\pos(1059.75,783)\4c&H000000&\4a&HFF&\c&H05EFE7&\3c&H22822B&}NING
+Dialogue: 0,0:11:54.59,0:11:58.49,Girolamo,,0,0,0,,{\pos(717.75,891)}So, don't you agree balance is important for a ninja?
+Dialogue: 0,0:11:56.40,0:11:58.49,Yellow font,,0,0,0,,Oh yes
+Dialogue: 0,0:11:58.49,0:11:59.06,Girolamo,,0,0,0,,But...
+Dialogue: 0,0:11:59.06,0:12:01.89,Girolamo,,0,0,0,,{\pos(731.25,894)}Do you like surfing?
+Dialogue: 0,0:12:00.42,0:12:02.63,Hamada,,0,0,0,,I never did it before      {\c&HFFFFFF&\3c&H000000&\4c&HFFFFFF&}- You did not?
+Dialogue: 0,0:12:02.63,0:12:06.26,Girolamo,,0,0,0,,{\pos(711,900)}Oh don't worry about it, ninjas don't do surf
+Dialogue: 0,0:12:06.26,0:12:08.50,Girolamo,,0,0,0,,{\pos(733.5,894)}It was just an italian joke
+Dialogue: 0,0:12:08.50,0:12:12.10,Yellow font,,0,0,0,,Amico!!
+Dialogue: 0,0:12:12.10,0:12:13.96,Girolamo,,0,0,0,,I've prepared Twister for you
+Dialogue: 0,0:12:12.47,0:12:19.21,Bauhaus (notes),,0,0,0,,{\fad(300,300)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\pos(720,900)\fscx67.5\fscy100}Training: make good use of the Twister game to increase your balancing skills
+Dialogue: 0,0:12:16.10,0:12:19.37,Girolamo,,0,0,0,,But it's no fun if only dudes are playing
+Dialogue: 0,0:12:19.58,0:12:21.95,Girolamo,,0,0,0,,Here are some cuties!
+Dialogue: 0,0:12:21.95,0:12:23.35,Girolamo,,0,0,0,,Come, please
+Dialogue: 0,0:12:26.84,0:12:28.39,Girolamo,,0,0,0,,They're beautiful, right?
+Dialogue: 0,0:12:28.39,0:12:29.35,Yamazaki,,0,0,0,,{\pos(722.25,897)}Kunoichi?
+Dialogue: 0,0:12:30.37,0:12:32.61,White font,,0,0,0,,Their helpers for this training
+Dialogue: 0,0:12:32.61,0:12:36.99,White font,,0,0,0,,Will be the sexy "Kunoichis from the World"!
+Dialogue: 0,0:12:30.35,0:12:37.60,BORDERED,,0,0,0,,{\fad(150,300)\pos(353.25,714)\4c&HF06CFF&\4a&H69&\c&HAAF0FE&}Their partners for Twister
+Dialogue: 0,0:12:30.35,0:12:37.60,BORDERED,,0,0,0,,{\fad(150,300)\4c&HF06CFF&\4a&H69&\c&HF06CFF&\pos(490.5,864)\3c&HAAF0FE&}Will be the sexy "Kunoichis from the World"
+Dialogue: 0,0:12:36.00,0:12:37.79,Hamada,,0,0,0,,{\fscx36\fscy68\pos(209.25,318)}"Kunoichis from the World?!"
+Dialogue: 0,0:12:38.40,0:12:41.22,White font,,0,0,0,,Our first challenger will be Matsumoto
+Dialogue: 0,0:12:37.60,0:12:41.60,BORDERED,,0,0,0,,{\fs90\c&H000000&\3c&HFFFFFF&\4c&H1326CB&\pos(731.25,426)}MATSUMOTO'S CHALLENGE
+Dialogue: 0,0:12:41.79,0:12:44.40,Endo,,0,0,0,,Ok, let's start!! \N{\c&HC43A2A&}- Let's go
+Dialogue: 0,0:12:44.40,0:12:47.57,Endo,,0,0,0,,{\pos(717.75,876)}Roulette: Start!
+Dialogue: 0,0:12:47.57,0:12:49.57,Matsumoto,,0,0,0,,Countin' on ya, Abe-chan
+Dialogue: 0,0:12:49.57,0:12:51.41,Endo,,0,0,0,,Ok, both of you
+Dialogue: 0,0:12:56.00,0:12:57.34,Tanaka,,0,0,0,,Right foot, huh     {\c&H1326CB&} - What?
+Dialogue: 0,0:12:51.41,0:12:57.72,Endo,,0,0,0,,{\pos(330.75,780)}Right foot on
+Dialogue: 0,0:12:52.78,0:12:57.72,Endo,,0,0,0,,{\pos(522,780)}red
+Dialogue: 0,0:12:53.31,0:12:57.72,Endo,,0,0,0,,{\pos(639,780)}green
+Dialogue: 0,0:12:53.75,0:12:57.72,Endo,,0,0,0,,{\pos(794.25,780)}yellow
+Dialogue: 0,0:12:54.01,0:12:57.72,Endo,,0,0,0,,{\pos(1055.25,780)}or blue spots
+Dialogue: 0,0:12:54.01,0:12:57.72,Endo,,0,0,0,,{\pos(443.25,918)}on the board, please
+Dialogue: 0,0:12:58.82,0:13:01.49,Matsumoto,,0,0,0,,{\pos(731.25,882)}Abe-chan?
+Dialogue: 0,0:13:01.49,0:13:03.82,Endo,,0,0,0,,{\pos(731.25,900)}I think I didn't understand the rules
+Dialogue: 0,0:13:02.38,0:13:04.02,Matsumoto,,0,0,0,,How can you not?!
+Dialogue: 0,0:13:04.02,0:13:05.85,Endo,,0,0,0,,I'm sorry\N{\c&H1326CB&}- Right foot yellow, right?
+Dialogue: 0,0:13:07.02,0:13:08.28,Matsumoto,,0,0,0,,Here?     {\c&H14BC02&}- Anywhere is fine
+Dialogue: 0,0:13:05.85,0:13:08.32,Matsumoto,,0,0,0,,{\fscx36\fscy58\pos(189,342)}He can only \Nunderstand baseball
+Dialogue: 0,0:13:08.28,0:13:10.28,Yamazaki,,0,0,0,,As long as it is yellow
+Dialogue: 0,0:13:10.28,0:13:11.95,Endo,,0,0,0,,Ok, moving on!
+Dialogue: 0,0:13:11.95,0:13:12.75,Matsumoto,,0,0,0,,Go, Abe-chan
+Dialogue: 0,0:13:14.26,0:13:15.82,Yamazaki,,0,0,0,,Right hand on blue!
+Dialogue: 0,0:13:15.82,0:13:17.33,Yamazaki,,0,0,0,,Right hand blue\N{\c&H1326CB&}- Right hand blue?
+Dialogue: 0,0:13:17.33,0:13:18.99,Girolamo,,0,0,0,,You should aim to the closer one
+Dialogue: 0,0:13:18.99,0:13:20.33,Girolamo,,0,0,0,,Nice
+Dialogue: 0,0:13:20.33,0:13:22.13,Matsumoto,,0,0,0,,Sorry for this
+Dialogue: 0,0:13:26.47,0:13:28.30,Girolamo,,0,0,0,,You've found a nice spot!
+Dialogue: 0,0:13:29.31,0:13:34.05,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&H7C1C98&\pos(454.5,894)}The training's toughness increases...
+Dialogue: 0,0:13:34.79,0:13:40.29,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&H1122B8&\pos(553.5,849)}The balance of their bodies is steadily crumbling down...
+Dialogue: 0,0:13:41.16,0:13:44.79,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&H133FE2&\pos(733.5,852)}And finally, a conclusion on the 8th round
+Dialogue: 0,0:13:44.92,0:13:46.39,Endo,,0,0,0,,Left foot red
+Dialogue: 0,0:13:46.55,0:13:47.16,Girolamo,,0,0,0,,Red
+Dialogue: 0,0:13:54.73,0:13:55.83,Hamada,,0,0,0,,Alright, you did it!
+Dialogue: 0,0:13:55.83,0:13:56.70,Murakami,,0,0,0,,{\fscx53.25\fscy76\pos(193.5,324)}What the-?
+Dialogue: 0,0:13:57.23,0:13:58.97,Girolamo,,0,0,0,,This was good
+Dialogue: 0,0:13:54.73,0:13:59.38,BORDERED,,0,0,0,,{\fad(100,200)\4c&H05EFE7&\3c&HFFFFFF&\c&H000000&\pos(708.75,552)}MATSUMOTO: {\c&H05EFE7&\3c&H000000&}VICTORY
+Dialogue: 0,0:13:58.97,0:14:00.70,Girolamo,,0,0,0,,Amico!
+Dialogue: 0,0:14:01.94,0:14:08.55,BORDERED,,0,0,0,,{\fad(200,200)\4c&H50EBF4&\3c&HFFFFFF&\c&H000000&\pos(738,873)}Following up, Yamazaki {\c&H1326CB&}performs several tricky balancing techniques
+Dialogue: 0,0:14:11.85,0:14:13.82,Endo,,0,0,0,,Right foot yellow
+Dialogue: 0,0:14:17.25,0:14:19.75,BORDERED,,0,0,0,,{\fad(100,200)\4c&H05EFE7&\3c&HFFFFFF&\c&H000000&\pos(713.25,450)}YAMAZAKI: {\c&H05EFE7&\3c&H000000&}VICTORY
+Dialogue: 0,0:14:19.75,0:14:20.77,Hamada,,0,0,0,,{\fscx50.25\fscy78\pos(198,318)}What the...
+Dialogue: 0,0:14:20.77,0:14:22.67,Girolamo,,0,0,0,,{\pos(717.75,891)}This is the best, isn't it?
+Dialogue: 0,0:14:21.96,0:14:23.00,Yellow font,,0,0,0,,It is
+Dialogue: 0,0:14:23.00,0:14:24.57,Girolamo,,0,0,0,,{\pos(706.5,897)}Let's move to the next one
+Dialogue: 0,0:14:23.29,0:14:24.86,Hamada,,0,0,0,,{\fscx54\fscy76\pos(193.5,324)}Was it?
+Dialogue: 0,0:14:24.57,0:14:27.81,Yellow font,,0,0,0,,{\fad(0,1000)\pos(751.5,825)}Yaaa~y!!
+Dialogue: 0,0:14:28.87,0:14:30.94,Hamada,,0,0,0,,{\pos(722.25,888)}So, that was {\alpha&HFF&}a balance training
+Dialogue: 0,0:14:31.23,0:14:33.47,Yamazaki,,0,0,0,,Right, balance
+Dialogue: 0,0:14:30.94,0:14:33.65,Hamada,,0,0,0,,{\pos(722.25,888)}So, that was a balance training
+Dialogue: 0,0:14:34.24,0:14:36.25,Murakami,,0,0,0,,A balance training is fine\N{\c&H1628F3&}- Yes
+Dialogue: 0,0:14:36.25,0:14:38.25,Murakami,,0,0,0,,But you didn't even know the rules
+Dialogue: 0,0:14:38.25,0:14:39.58,Murakami,,0,0,0,,I mean, Twister's\N{\c&H007FFF&}- Well that...
+Dialogue: 0,0:14:39.58,0:14:42.02,Endo,,0,0,0,,Was my first...\N{\c&H000000&}- Even those who did it
+Dialogue: 0,0:14:42.41,0:14:44.99,Murakami,,0,0,0,,Balance my ass, you didn't have any
+Dialogue: 0,0:14:45.66,0:14:49.33,Murakami,,0,0,0,,{\pos(724.5,894)}All you showed me was bad balance
+Dialogue: 0,0:14:50.75,0:14:51.53,Matsumoto,,0,0,0,,We're sorry
+Dialogue: 0,0:14:52.13,0:14:54.87,Yamazaki,,0,0,0,,{\pos(717.75,903)}It was because of the kunoichi...
+Dialogue: 0,0:14:53.25,0:14:54.87,Murakami,,0,0,0,,Do they have anything to do with this?
+Dialogue: 0,0:14:54.87,0:14:59.74,Yamazaki,,0,0,0,,{\pos(722.25,894)}Well, they were the Kunoichi from the World, so...
+Dialogue: 0,0:14:58.23,0:14:59.74,Endo,,0,0,0,,He said it clearly
+Dialogue: 0,0:15:02.34,0:15:08.65,Matsumoto,,0,0,0,,{\pos(697.5,780)}I didn't really get that thing about surfing
+Dialogue: 0,0:15:04.18,0:15:08.65,Matsumoto,,0,0,0,,{\pos(465.75,1059)}You know, that joke
+Dialogue: 0,0:15:06.21,0:15:08.65,Matsumoto,,0,0,0,,{\pos(886.5,1059)}Girolamo told us...
+Dialogue: 0,0:15:08.65,0:15:10.34,Murakami,,0,0,0,,Where was the joke?
+Dialogue: 0,0:15:11.42,0:15:15.12,Murakami,,0,0,0,,{\pos(740.25,873)}He's such an unfunny old dude!!
+Dialogue: 0,0:15:15.12,0:15:18.85,Murakami,,0,0,0,,I'm 100% sure you would \Nhave made fun of me if I said that
+Dialogue: 0,0:15:18.85,0:15:21.30,Murakami,,0,0,0,,And yet you were all like "yay yay"
+Dialogue: 0,0:15:21.30,0:15:22.40,Murakami,,0,0,0,,Sayin' "amico" and shit
+Dialogue: 0,0:15:22.40,0:15:23.89,Murakami,,0,0,0,,The hell is wrong with you?
+Dialogue: 0,0:15:24.34,0:15:26.56,Matsumoto,,0,0,0,,So, you know...
+Dialogue: 0,0:15:26.56,0:15:28.33,Matsumoto,,0,0,0,,{\pos(720,897)}Our staff{\alpha&HFF&} did something for this episode
+Dialogue: 0,0:15:28.33,0:15:30.27,Matsumoto,,0,0,0,,{\pos(720,897)}Our staff did something for this episode
+Dialogue: 0,0:15:30.27,0:15:33.74,Matsumoto,,0,0,0,,{\pos(724.5,894)}So it did another street interview, a survey
+Dialogue: 0,0:15:33.74,0:15:37.48,Matsumoto,,0,0,0,,{\pos(715.5,894)}Or something like that, I don't know I haven't watched it
+Dialogue: 0,0:15:37.48,0:15:41.00,Matsumoto,,0,0,0,,Of course not about which of you\N to have sex with or nonsense like that
+Dialogue: 0,0:15:41.00,0:15:41.80,Hamada,,0,0,0,,Not like that
+Dialogue: 0,0:15:42.20,0:15:44.11,Matsumoto,,0,0,0,,I think it's different this time
+Dialogue: 0,0:15:44.11,0:15:45.64,Matsumoto,,0,0,0,,So, shall we...?
+Dialogue: 0,0:15:46.88,0:15:49.91,White font,,0,0,0,,"Tell us your impression about this person"
+Dialogue: 0,0:15:45.68,0:15:50.69,BORDERED,,0,0,0,,{\3c&H007FFF&\4c&H10528B&\c&HAAF0FE&\pos(717.75,135)}Gaki no Tsukai image survey
+Dialogue: 0,0:15:45.68,0:15:50.69,BORDERED,,0,0,0,,{\3c&H4D4E58&\4c&HAAF0FE&\4a&H84&\fscx91.5\fscy128\pos(733.5,822)}Tell us your impression on this person
+Dialogue: 0,0:15:51.01,0:15:53.42,White font,,0,0,0,,Let's start with Girolamo Panzetta
+Dialogue: 0,0:15:50.69,0:15:54.19,BORDERED,,0,0,0,,{\3c&H4D4E58&\4c&HFFFFFF&\4a&H7B&\pos(722.25,867)}Girolamo Panzetta
+Dialogue: 0,0:15:54.19,0:15:57.00,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(713.25,897)}He's really cool and
+Dialogue: 0,0:15:57.00,0:16:00.23,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(450,780)}He looks like he's really
+Dialogue: 0,0:15:57.00,0:16:00.23,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(679.5,1056)}good at dealing with women, he looks skilled
+Dialogue: 0,0:16:00.50,0:16:08.57,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(558,780)}He seems a honest person
+Dialogue: 0,0:16:05.94,0:16:08.57,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(758.25,1062)}Like the type of person who never lies, kinda
+Dialogue: 0,0:16:08.57,0:16:12.01,Black font,,0,0,0,,{\4c&H007FFF&\c&H349BFF&\pos(722.25,891)}I've seen him before on a cooking show
+Dialogue: 0,0:16:12.01,0:16:14.68,Black font,,0,0,0,,{\4c&H007FFF&\c&H349BFF&\pos(722.25,891)}And he's pretty good at cooking, you know
+Dialogue: 0,0:16:14.68,0:16:17.48,Black font,,0,0,0,,{\4c&H007FFF&\c&H349BFF&\pos(722.25,891)\fscx62.25\fscy98}It made me think how good it would be to have an husband like him
+Dialogue: 0,0:16:18.82,0:16:22.29,Black font,,0,0,0,,{\4c&HBC6D11&\c&HBC6D11&\pos(720,897)}He really gives out this grown-adult image
+Dialogue: 0,0:16:22.29,0:16:28.56,Black font,,0,0,0,,{\4c&HBC6D11&\c&HBC6D11&\pos(704.25,780)}I think that when I'll grow up I want
+Dialogue: 0,0:16:25.39,0:16:28.56,Black font,,0,0,0,,{\4c&HBC6D11&\c&HBC6D11&\pos(708.75,1059)}To become a refined man just like him
+Dialogue: 0,0:16:29.12,0:16:31.75,White font,,0,0,0,,What about Shoji Murakami's image?
+Dialogue: 0,0:16:28.56,0:16:32.06,BORDERED,,0,0,0,,{\3c&H4D4E58&\4c&HFFFFFF&\4a&H7B&\pos(722.25,867)}Shoji Murakami
+Dialogue: 0,0:16:34.77,0:16:37.24,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(713.25,897)}I have no idea who this person is
+Dialogue: 0,0:16:37.24,0:16:42.54,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(447.75,774)}I guess his image...
+Dialogue: 0,0:16:38.77,0:16:42.54,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(445.5,1050)}Is in the category of
+Dialogue: 0,0:16:39.84,0:16:42.54,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(976.5,1050)}"people I don't like or dislike"
+Dialogue: 0,0:16:44.58,0:16:45.21,Black font,,0,0,0,,{\4c&H007FFF&\c&H349BFF&\pos(722.25,891)\fscx57.75\fscy97}He doesn't seem to be{\alpha&HFF&} a knowledgeable guy
+Dialogue: 0,0:16:45.21,0:16:47.91,Black font,,0,0,0,,{\4c&H007FFF&\c&H349BFF&\pos(722.25,891)\fscx57.75\fscy97}He doesn't seem to be a knowledgeable guy
+Dialogue: 0,0:16:49.28,0:16:50.65,Black font,,0,0,0,,{\4c&HBC6D11&\c&HBC6D11&\pos(715.5,900)}Whenever I see this guy on tv,{\alpha&HFF&} I always change channel
+Dialogue: 0,0:16:50.65,0:16:54.49,Black font,,0,0,0,,{\4c&HBC6D11&\c&HBC6D11&\pos(715.5,900)}Whenever I see this guy on tv, I always change channel
+Dialogue: 0,0:16:54.92,0:16:56.72,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(729,891)}He's the guy who does {\alpha&HFF&}"doooing!"
+Dialogue: 0,0:16:56.72,0:16:59.32,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(729,891)}He's the guy who does "doooing!"
+Dialogue: 0,0:16:56.72,0:16:59.32,Bauhaus (notes),,0,0,0,,{\4c&H000000&\4a&HFF&\fscx56.25\fscy77\pos(726.75,48)}note: a gag by Murakami
+Dialogue: 0,0:16:59.32,0:17:03.66,Black font,,0,0,0,,{\pos(240.75,786)}(staff)
+Dialogue: 0,0:16:59.32,0:17:03.66,Black font,,0,0,0,,{\pos(870.75,888)}Do you get any other image from him?
+Dialogue: 0,0:17:03.66,0:17:05.80,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(720,894)}Mmhh...
+Dialogue: 0,0:17:06.46,0:17:08.63,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(722.25,888)}"Doooing!"
+Dialogue: 0,0:17:09.20,0:17:12.44,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(688.5,774)}I have no idea what this guy does because I've
+Dialogue: 0,0:17:09.20,0:17:12.44,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(445.5,1050)}never seen him before
+Dialogue: 0,0:17:12.67,0:17:15.81,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(402.75,783)}His face kinda...
+Dialogue: 0,0:17:12.67,0:17:15.81,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(697.5,1062)}I've never seen him before, so I have no idea
+Dialogue: 0,0:17:15.81,0:17:16.88,Black font,,0,0,0,,{\pos(405,783)}(staff)
+Dialogue: 0,0:17:15.81,0:17:16.88,Black font,,0,0,0,,{\pos(942.75,891)}You really don't know him?
+Dialogue: 0,0:17:16.88,0:17:18.84,Black font,,0,0,0,,{\c&H832AEA&\4c&H832AEA&\pos(726.75,897)}No, I don't
+Dialogue: 0,0:17:20.11,0:17:22.58,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(720,894)}I think he focus his comedy on unfunny stuff
+Dialogue: 0,0:17:23.78,0:17:25.52,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(720,894)}To be honest,{\alpha&HFF&} I don't like him nor hate him
+Dialogue: 0,0:17:25.52,0:17:26.99,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(720,894)}To be honest, I don't like him nor hate him
+Dialogue: 0,0:17:26.99,0:17:28.72,Black font,,0,0,0,,{\c&HBC6D11&\4c&HBC6D11&\pos(720,879)}It's more of a "I don't care" for me
+Dialogue: 0,0:17:37.36,0:17:40.03,Murakami,,0,0,0,,{\pos(726.75,891)}Bring those people here
+Dialogue: 0,0:17:40.03,0:17:41.53,Murakami,,0,0,0,,What's with this "image" thing?
+Dialogue: 0,0:17:41.53,0:17:44.36,Matsumoto,,0,0,0,,That's right, we're not dealing with this
+Dialogue: 0,0:17:46.13,0:17:46.86,Murakami,,0,0,0,,What's that?
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HBC6D11&\fscx51\fscy73\pos(130.5,294)}Girolamo Panzetta
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\pos(117,369)\c&HC43A2A&}- kind to women
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\pos(67.5,432)\c&HC43A2A&}- honest
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\pos(99,498)\c&HC43A2A&}- fashionable
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\pos(128.25,558)\c&HC43A2A&}- good at cooking
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\pos(180,624)\c&HC43A2A&}- "I want to be like him"
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&H133FE2&\fscx51\fscy73\c&HFFFFFF&\pos(1316.25,294)}Murakami Shoji
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\c&H133FE2&\pos(1253.25,384)}- "Never seen him before"
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\c&H133FE2&\pos(1284.75,453)}- Not knowledgeable
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\c&H133FE2&\pos(1280.25,522)}- "I change channel"
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\c&H133FE2&\pos(1336.5,600)}- "Doooing"
+Dialogue: 0,0:17:43.33,0:17:47.17,Tegaki,,0,0,0,,{\4c&HF47410&\4a&HFF&\3c&HFFFFFF&\fscx51\fscy73\c&H133FE2&\pos(1316.25,663)}- "Who cares"
+Dialogue: 0,0:17:47.18,0:17:48.76,Matsumoto,,0,0,0,,Hey, what's this?!
+Dialogue: 0,0:17:48.76,0:17:49.81,Murakami,,0,0,0,,This is new
+Dialogue: 0,0:17:49.81,0:17:52.81,Matsumoto,,0,0,0,,{\pos(724.5,870)}Bad staff
+Dialogue: 0,0:17:53.68,0:17:54.35,Murakami,,0,0,0,,{\pos(726.75,906)}I wonder if{\alpha&HFF&} this stuff is going to be broadcasted on tv
+Dialogue: 0,0:17:54.35,0:17:57.52,Murakami,,0,0,0,,{\pos(726.75,906)}I wonder if this stuff is going to be broadcasted on tv
+Dialogue: 0,0:17:57.52,0:18:03.19,Murakami,,0,0,0,,{\pos(711,774)}Maybe it won't air, who cares, but there were
+Dialogue: 0,0:17:58.58,0:18:03.19,Murakami,,0,0,0,,{\pos(690.75,1056)}People sayin' "I don't care" talking about me
+Dialogue: 0,0:18:04.02,0:18:08.93,Murakami,,0,0,0,,{\pos(715.5,891)}I mean, they even said "I never saw him before"
+Dialogue: 0,0:18:09.73,0:18:12.73,Matsumoto,,0,0,0,,{\pos(720,777)}I think we're now about to look at the last VTR
+Dialogue: 0,0:18:09.73,0:18:12.73,Matsumoto,,0,0,0,,{\pos(405,1053)}for today's episode
+Dialogue: 0,0:18:14.54,0:18:16.42,Yamazaki,,0,0,0,,Yes, it's our last one
+Dialogue: 0,0:18:16.42,0:18:17.39,Tanaka,,0,0,0,,Take a look, please
+Dialogue: 0,0:18:12.73,0:18:17.64,Matsumoto,,0,0,0,,{\pos(636.75,888)}Ninja class:
+Dialogue: 0,0:18:14.27,0:18:17.64,Matsumoto,,0,0,0,,{\pos(884.25,888)}final act
+Dialogue: 0,0:18:17.86,0:18:19.49,Girolamo,,0,0,0,,"Buono buono" training!
+Dialogue: 0,0:18:19.49,0:18:21.83,Yellow font,,0,0,0,,{\fad(0,100)}Yeeeeah!
+Dialogue: 0,0:18:22.70,0:18:23.77,Girolamo,,0,0,0,,Buono buono!
+Dialogue: 0,0:18:23.77,0:18:24.67,Yamazaki,,0,0,0,,Buono?
+Dialogue: 0,0:18:24.67,0:18:27.20,Girolamo,,0,0,0,,Buono, it means "good"
+Dialogue: 0,0:18:27.20,0:18:28.80,Girolamo,,0,0,0,,Buono
+Dialogue: 0,0:18:19.93,0:18:29.28,BORDERED,,0,0,0,,{\fad(100,300)\fscx174\fscy191\pos(684,768)\c&H007FFF&\3c&H082945&\4c&HFFFFFF&}BUONO BUONO {\c&H0019FF&}TRAINING
+Dialogue: 0,0:18:19.93,0:18:29.28,BORDERED,,0,0,0,,{\fad(100,300)\fscx174\fscy191\pos(684,768)\c&H0047FF&\3c&H082945&\4c&HFFFFFF&\clip(219,708,765,870)}BUONO BUONO {\c&H0019FF&}TRAINING
+Dialogue: 0,0:18:29.00,0:18:29.65,Girolamo,,0,0,0,,And so
+Dialogue: 0,0:18:29.65,0:18:33.49,Girolamo,,0,0,0,,{\pos(495,771)}The image of a ninja
+Dialogue: 0,0:18:31.65,0:18:33.49,Girolamo,,0,0,0,,{\pos(652.5,1065)}Is something really though, isn't it?
+Dialogue: 0,0:18:33.49,0:18:35.49,Girolamo,,0,0,0,,{\pos(720,891)}I mean, you have to endure even your hunger
+Dialogue: 0,0:18:34.94,0:18:35.49,Hamada,,0,0,0,,Right
+Dialogue: 0,0:18:35.49,0:18:37.68,Girolamo,,0,0,0,,Let's get rid of this image
+Dialogue: 0,0:18:37.68,0:18:39.65,Girolamo,,0,0,0,,Let's bring you something tasty, here
+Dialogue: 0,0:18:39.65,0:18:41.05,Girolamo,,0,0,0,,Today for all of you guys
+Dialogue: 0,0:18:41.05,0:18:41.50,Hamada,,0,0,0,,Yes?
+Dialogue: 0,0:18:41.50,0:18:43.18,Girolamo,,0,0,0,,I've brought you a delicious pizza
+Dialogue: 0,0:18:35.85,0:18:43.70,Bauhaus (notes),,0,0,0,,{\fad(300,300)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\pos(720,900)\fscx67.5\fscy100}Training: satisfy your hunger by eating something delicious
+Dialogue: 0,0:18:43.18,0:18:44.02,Endo,,0,0,0,,Really?
+Dialogue: 0,0:18:44.02,0:18:45.63,Girolamo,,0,0,0,,But first, a quiz
+Dialogue: 0,0:18:45.63,0:18:48.39,Girolamo,,0,0,0,,What type of pizza is inside?
+Dialogue: 0,0:18:48.39,0:18:50.96,Yellow font,,0,0,0,,Woah... I really have no idea
+Dialogue: 0,0:18:45.96,0:18:52.50,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&H000000&\4c&H000000&\4a&HFF&\pos(321.75,810)}Girolamo's Quiz
+Dialogue: 0,0:18:45.96,0:18:52.50,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&H0013D1&\4c&H000000&\4a&HFF&\pos(589.5,906)}Q. Try to guess which type of pizza is inside the tray
+Dialogue: 0,0:18:51.76,0:18:52.87,Girolamo,,0,0,0,,Tanaka, give it a try
+Dialogue: 0,0:18:53.37,0:18:56.27,Tanaka,,0,0,0,,{\pos(306,882)}Maybe anchovies...
+Dialogue: 0,0:18:54.27,0:18:56.27,Girolamo,,0,0,0,,{\fad(100,0)\pos(816.75,798)}Anchovies
+Dialogue: 0,0:18:54.27,0:18:56.27,Girolamo,,0,0,0,,{\fad(100,0)\pos(945,1050)}are stinky, aren't they?
+Dialogue: 0,0:18:56.53,0:18:57.71,Hamada,,0,0,0,,Must be something easier
+Dialogue: 0,0:18:56.27,0:19:00.08,Girolamo,,0,0,0,,{\pos(722.25,786)}If you eat them, then you can't kiss anyone, right?
+Dialogue: 0,0:18:57.71,0:19:00.08,Girolamo,,0,0,0,,{\pos(438.75,1056)}It's something lighter
+Dialogue: 0,0:19:00.08,0:19:02.11,Matsumoto,,0,0,0,,{\pos(720,894)}How was that popular one called?
+Dialogue: 0,0:19:02.11,0:19:03.25,Matsumoto,,0,0,0,,{\pos(702,891)}Margheri...?
+Dialogue: 0,0:19:03.25,0:19:05.25,Tanaka,,0,0,0,,{\pos(720,870)}Margherita!!
+Dialogue: 0,0:19:03.90,0:19:05.71,Girolamo,,0,0,0,,Urrà!!
+Dialogue: 0,0:19:03.90,0:19:05.71,Bauhaus (notes),,0,0,0,,{\4c&H000000&\4a&HFF&\pos(704.25,54)\fscx48.75\fscy80}note: italian for "hooray"
+Dialogue: 0,0:19:05.95,0:19:09.15,Girolamo,,0,0,0,,{\pos(515.25,903)}You got it in one guess!
+Dialogue: 0,0:19:08.02,0:19:09.15,Girolamo,,0,0,0,,{\pos(1041.75,903)}I'm impressed
+Dialogue: 0,0:19:09.15,0:19:09.42,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:09.42,0:19:09.75,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:09.75,0:19:10.09,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:10.09,0:19:10.42,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:10.42,0:19:10.76,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:10.76,0:19:11.09,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:11.09,0:19:11.42,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:09.15,0:19:11.61,Yamazaki,,0,0,0,,That's what you say for guessing it right?
+Dialogue: 0,0:19:11.42,0:19:11.76,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:11.76,0:19:12.09,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:12.09,0:19:12.42,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:12.42,0:19:12.76,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H000000&}CORRECT ANSWER
+Dialogue: 0,0:19:11.61,0:19:12.96,Girolamo,,0,0,0,,As expected from ninjas
+Dialogue: 0,0:19:12.76,0:19:12.96,BORDERED,,0,0,0,,{\pos(724.5,825)\4c&H0013D1&\3c&HFFFFFF&\c&H0013D1&}CORRECT ANSWER
+Dialogue: 0,0:19:14.56,0:19:16.28,Murakami,,0,0,0,,{\fscx42\fscy61\pos(195.75,357)}This has nothing \Nto do with ninjas
+Dialogue: 0,0:19:16.28,0:19:18.32,Girolamo,,0,0,0,,I'm impressed, as expected from ninjas!
+Dialogue: 0,0:19:18.32,0:19:19.76,Matsumoto,,0,0,0,,It looks delicious
+Dialogue: 0,0:19:19.76,0:19:22.03,Girolamo,,0,0,0,,{\pos(726.75,897)}Feel free to dig in!
+Dialogue: 0,0:19:22.03,0:19:23.23,Matsumoto,,0,0,0,,{\pos(713.25,903)}Can we eat it?!
+Dialogue: 0,0:19:23.23,0:19:25.44,Girolamo,,0,0,0,,Of course, of course
+Dialogue: 0,0:19:25.44,0:19:26.71,Murakami,,0,0,0,,{\fscx46.5\fscy71\pos(198,318)}That's just... eating
+Dialogue: 0,0:19:28.68,0:19:29.67,Girolamo,,0,0,0,,Tasty, right?
+Dialogue: 0,0:19:26.71,0:19:32.18,Hamada,,0,0,0,,{\pos(684,717)}We never were offered anything to eat before, I mean...
+Dialogue: 0,0:19:29.67,0:19:32.18,Hamada,,0,0,0,,{\pos(348.75,1065)}In our previous classes
+Dialogue: 0,0:19:30.50,0:19:32.18,Tanaka,,0,0,0,,{\pos(987.75,1065)}Not even once
+Dialogue: 0,0:19:32.18,0:19:35.18,Yamazaki,,0,0,0,,{\pos(729,900)}Those were just so shitty
+Dialogue: 0,0:19:34.68,0:19:35.70,Matsumoto,,0,0,0,,
+Dialogue: 0,0:19:38.50,0:19:39.07,Hamada,,0,0,0,,So good!
+Dialogue: 0,0:19:39.07,0:19:42.15,Matsumoto,,0,0,0,,{\fad(400,0)\pos(715.5,831)}Buo~no~!!
+Dialogue: 0,0:19:41.40,0:19:44.15,Girolamo,,0,0,0,,You know, I had a friend come from Italy to make this
+Dialogue: 0,0:19:44.15,0:19:47.93,Matsumoto,,0,0,0,,You can tell, it's nothing like our \Ndelivery pizza, this is buono!!
+Dialogue: 0,0:19:48.48,0:19:50.82,Girolamo,,0,0,0,,Remember the cuties from before?
+Dialogue: 0,0:19:50.82,0:19:52.82,Girolamo,,0,0,0,,Let's make em join our group!
+Dialogue: 0,0:19:51.55,0:19:53.09,Matsumoto,,0,0,0,,{\pos(731.25,786)}Bambina!! (baby)
+Dialogue: 0,0:19:47.93,0:19:54.17,BORDERED,,0,0,0,,{\fad(150,200)\4c&H50EBF4&\3c&HFFFFFF&\c&HF06CFF&\pos(733.5,849)}The "Kunoichis" join them {\c&H1326CB&}for the training's gran finale
+Dialogue: 0,0:19:53.59,0:19:55.06,Girolamo,,0,0,0,,Bambina~
+Dialogue: 0,0:19:53.89,0:19:55.49,Murakami,,0,0,0,,{\fscx47.25\fscy67\pos(195.75,318)}The hell is this?!
+Dialogue: 0,0:19:55.06,0:19:56.57,Hamada,,0,0,0,,This is too much, I mean
+Dialogue: 0,0:19:56.57,0:19:57.20,Hamada,,0,0,0,,{\pos(693,858)}Our previous teacher {\alpha&HFF&}was pure shit!!
+Dialogue: 0,0:19:57.20,0:20:00.04,Hamada,,0,0,0,,{\pos(693,858)}Our previous teacher was pure shit!!
+Dialogue: 0,0:19:58.36,0:20:00.04,Girolamo,,0,0,0,,Yeah I think so too
+Dialogue: 0,0:20:00.04,0:20:01.19,Yamazaki,,0,0,0,,This is really good!
+Dialogue: 0,0:20:01.19,0:20:05.47,Girolamo,,0,0,0,,We never got to see this \Ntype of ninja before, right?
+Dialogue: 0,0:20:06.20,0:20:08.50,Girolamo,,0,0,0,,Eat, eat, that's passion
+Dialogue: 0,0:20:08.75,0:20:11.82,Girolamo,,0,0,0,,So, how was it today? Did you have fun?
+Dialogue: 0,0:20:10.65,0:20:14.72,Hamada,,0,0,0,,{\pos(945,777)}We had fun!
+Dialogue: 0,0:20:11.42,0:20:14.72,Tanaka,,0,0,0,,{\pos(393.75,774)}It was the best!
+Dialogue: 0,0:20:12.37,0:20:14.72,Girolamo,,0,0,0,,I had fun too, let's do this again one day
+Dialogue: 0,0:20:14.72,0:20:16.89,Hamada,,0,0,0,,{\pos(720,897)}Yeah, let's do this again
+Dialogue: 0,0:20:15.91,0:20:17.45,Girolamo,,0,0,0,,Thank you guys!
+Dialogue: 0,0:20:17.86,0:20:18.42,Hamada,,0,0,0,,{\pos(715.5,855)}Our previous teacher {\alpha&HFF&}is a turd, isn't him?
+Dialogue: 0,0:20:20.08,0:20:21.92,Matsumoto,,0,0,0,,Amico~!
+Dialogue: 0,0:20:18.42,0:20:22.69,Hamada,,0,0,0,,{\fad(0,1000)\pos(715.5,855)}Our previous teacher is a turd, isn't him?
+Dialogue: 0,0:20:23.43,0:20:26.83,Murakami,,0,0,0,,{\pos(542.25,897)}Sorry for my late introduction,
+Dialogue: 0,0:20:24.96,0:20:26.83,Murakami,,0,0,0,,{\pos(1046.25,897)}my name is turd
+Dialogue: 0,0:20:26.83,0:20:29.33,Murakami,,0,0,0,,{\fad(100,0)\pos(720,864)}The hell is that supposed to be, you morons?!
+Dialogue: 0,0:20:29.33,0:20:31.66,Hamada,,0,0,0,,We all said that...
+Dialogue: 0,0:20:31.66,0:20:34.73,Murakami,,0,0,0,,You think you can call \Nme that because of this?
+Dialogue: 0,0:20:34.73,0:20:36.74,Murakami,,0,0,0,,Why should ninjas do that?
+Dialogue: 0,0:20:36.74,0:20:40.11,Murakami,,0,0,0,,{\pos(729,903)}I mean havin' a banquet for no absolute reason?!
+Dialogue: 0,0:20:40.11,0:20:42.81,Murakami,,0,0,0,,That's not the way you praise a ninja
+Dialogue: 0,0:20:42.81,0:20:44.51,Murakami,,0,0,0,,You'll just spoil him this way
+Dialogue: 0,0:20:44.57,0:20:47.61,Murakami,,0,0,0,,Ok, you could have been \Nenjoying the moment, I see that
+Dialogue: 0,0:20:48.31,0:20:50.81,Murakami,,0,0,0,,But calling me "shitty teacher" or "turd"...
+Dialogue: 0,0:20:51.41,0:20:52.34,Matsumoto,,0,0,0,,Yes...
+Dialogue: 0,0:20:55.59,0:20:58.59,Murakami,,0,0,0,,{\pos(717.75,894)}Let it down
+Dialogue: 0,0:20:57.15,0:20:58.59,Murakami,,0,0,0,,Let that panel down
+Dialogue: 0,0:21:00.22,0:21:01.33,Matsumoto,,0,0,0,,So...
+Dialogue: 0,0:21:01.33,0:21:04.04,Matsumoto,,0,0,0,,{\pos(711,900)}What do you think about it?
+Dialogue: 0,0:21:04.04,0:21:05.87,Yamazaki,,0,0,0,,{\pos(724.5,888)}I think this class had a different feeling from {\alpha&HFF&}the others
+Dialogue: 0,0:21:05.87,0:21:07.87,Yamazaki,,0,0,0,,{\pos(724.5,888)}I think this class had a different feeling from the others
+Dialogue: 0,0:21:07.87,0:21:10.98,Tanaka,,0,0,0,,{\pos(731.25,900)}It felt like something new
+Dialogue: 0,0:21:10.98,0:21:13.80,Murakami,,0,0,0,,See, I know by seeing you that you had fun
+Dialogue: 0,0:21:13.80,0:21:15.85,Murakami,,0,0,0,,Cause you were part of it
+Dialogue: 0,0:21:15.85,0:21:18.52,Murakami,,0,0,0,,So you had fun and everything, but what about
+Dialogue: 0,0:21:18.52,0:21:21.02,Murakami,,0,0,0,,{\pos(373.5,777)}Our audience made of
+Dialogue: 0,0:21:19.65,0:21:21.02,Murakami,,0,0,0,,{\pos(1001.25,888)}big fans of my class series?
+Dialogue: 0,0:21:21.02,0:21:24.92,Murakami,,0,0,0,,I mean, even the big ones from Lumine or Gap
+Dialogue: 0,0:21:24.92,0:21:29.28,Murakami,,0,0,0,,They'd be like "Where's the class series?!\N I'm about to go crazy!"
+Dialogue: 0,0:21:31.58,0:21:33.22,Murakami,,0,0,0,,Don't laugh at me, it's true
+Dialogue: 0,0:21:34.06,0:21:36.79,Murakami,,0,0,0,,They'd be like "What the hell is going on?!"
+Dialogue: 0,0:21:37.79,0:21:40.76,Yamazaki,,0,0,0,,They would be like that?
+Dialogue: 0,0:21:40.76,0:21:42.96,Murakami,,0,0,0,,It's true, I have to say them "just wait"
+Dialogue: 0,0:21:42.96,0:21:46.27,Murakami,,0,0,0,,"It's cause Macchan is like that, he told me"
+Dialogue: 0,0:21:47.04,0:21:49.61,Murakami,,0,0,0,,You know, that thing...
+Dialogue: 0,0:21:49.61,0:21:52.25,Murakami,,0,0,0,,{\pos(729,897)}'Cause your crotch got weird lately
+Dialogue: 0,0:21:52.25,0:21:54.71,Murakami,,0,0,0,,So I'm like "his crotch got weird, you have to wait"
+Dialogue: 0,0:21:54.71,0:21:56.51,Endo,,0,0,0,,Is that so? I see
+Dialogue: 0,0:21:56.51,0:21:58.51,Murakami,,0,0,0,,Leaving that aside
+Dialogue: 0,0:21:58.51,0:22:01.72,Murakami,,0,0,0,,Why did you take part on such thing, I mean
+Dialogue: 0,0:22:01.72,0:22:04.96,Murakami,,0,0,0,,My intention was to train you, not to loiter around
+Dialogue: 0,0:22:04.96,0:22:05.69,Hamada,,0,0,0,,Yes...
+Dialogue: 0,0:22:05.69,0:22:07.37,Murakami,,0,0,0,,That was total crap
+Dialogue: 0,0:22:07.37,0:22:11.40,Hamada,,0,0,0,,{\pos(387,768)}Anyway, I still think that
+Dialogue: 0,0:22:08.33,0:22:11.40,Hamada,,0,0,0,,{\pos(722.25,1059)}You took good care of us in all the previous classes, big bro
+Dialogue: 0,0:22:11.40,0:22:15.04,Hamada,,0,0,0,,{\pos(576,777)}I mean, we can't just deny that
+Dialogue: 0,0:22:12.44,0:22:15.04,Hamada,,0,0,0,,{\pos(684,1065)}So, in order, starting from Cocorico, we...
+Dialogue: 0,0:22:15.04,0:22:17.03,Hamada,,0,0,0,,Some presents...
+Dialogue: 0,0:22:17.03,0:22:20.04,Tanaka,,0,0,0,,You took care of us all the time
+Dialogue: 0,0:22:20.67,0:22:22.24,Tanaka,,0,0,0,,So I want you give you this
+Dialogue: 0,0:22:22.24,0:22:23.94,Hamada,,0,0,0,,'Cause Tanaka loves animals
+Dialogue: 0,0:22:23.94,0:22:25.74,Matsumoto,,0,0,0,,He really loves em
+Dialogue: 0,0:22:22.55,0:22:25.85,Bauhaus (notes),,0,0,0,,{\4c&H000000&\4a&HFF&\fscx50.25\fscy76\pos(733.5,45)}note: "children picture book: bizarre & surprising animals"
+Dialogue: 0,0:22:25.85,0:22:26.88,Tanaka,,0,0,0,,It's extensive
+Dialogue: 0,0:22:27.24,0:22:29.18,Murakami,,0,0,0,,What's going on..?
+Dialogue: 0,0:22:29.18,0:22:30.09,Hamada,,0,0,0,,Next up, Endo\N{\c&H007FFF&}- Yes
+Dialogue: 0,0:22:30.09,0:22:33.05,Endo,,0,0,0,,Those are coupons for gyoza
+Dialogue: 0,0:22:33.05,0:22:35.75,Endo,,0,0,0,,We got them for a Gaki shoot
+Dialogue: 0,0:22:35.75,0:22:37.50,Endo,,0,0,0,,We got quite a lot of em
+Dialogue: 0,0:22:38.32,0:22:39.52,Matsumoto,,0,0,0,,That's a lot\N{\c&H007FFF&}- It is
+Dialogue: 0,0:22:40.36,0:22:41.76,Hamada,,0,0,0,,You like em\N{\c&H007FFF&}- I do
+Dialogue: 0,0:22:46.70,0:22:48.02,Endo,,0,0,0,,Yes, those are enough
+Dialogue: 0,0:22:45.54,0:22:48.17,Murakami,,0,0,0,,{\pos(722.25,900)}You're not giving all of them?
+Dialogue: 0,0:22:50.40,0:22:54.07,White font,,0,0,0,,Each of them gives him gifts full of memories
+Dialogue: 0,0:22:54.90,0:22:55.77,Hamada,,0,0,0,,It's an headcover
+Dialogue: 0,0:22:55.77,0:22:56.54,Endo,,0,0,0,,That's nice
+Dialogue: 0,0:22:49.24,0:22:57.84,BORDERED,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\c&HD237A9&\pos(724.5,867)}The members give their farewell gifts according to their tastes
+Dialogue: 0,0:22:56.94,0:22:58.28,Endo,,0,0,0,,These are popular
+Dialogue: 0,0:22:58.28,0:23:00.64,Matsumoto,,0,0,0,,I'm giving you this ticket case
+Dialogue: 0,0:23:00.64,0:23:02.64,Hamada,,0,0,0,,You can use it for passes
+Dialogue: 0,0:23:03.41,0:23:04.00,Endo,,0,0,0,,Useful
+Dialogue: 0,0:23:04.00,0:23:06.36,Hamada,,0,0,0,,Passes or Suica
+Dialogue: 0,0:23:06.36,0:23:07.99,Yellow font,,0,0,0,,Thank you for everything
+Dialogue: 0,0:23:07.99,0:23:09.46,Murakami,,0,0,0,,{\pos(720,897)}Thanks for this long time
+Dialogue: 0,0:23:09.46,0:23:11.96,Murakami,,0,0,0,,{\pos(720,870)}Are you idiots!?
+Dialogue: 0,0:23:11.96,0:23:12.59,Hamada,,0,0,0,,{\c&HC3321A&\1a&H48&\3c&HFFFFFF&\3a&H62&\4c&H000000&\4a&H67&}Let's go
+Dialogue: 0,0:23:12.75,0:23:13.49,Murakami,,0,0,0,,Hey!
+Dialogue: 0,0:23:14.03,0:23:15.49,Murakami,,0,0,0,,Wait a second
+Dialogue: 0,0:23:15.92,0:23:16.74,Murakami,,0,0,0,,Hey
+Dialogue: 0,0:23:17.03,0:23:18.33,Yellow font,,0,0,0,,Thanks for everything
+Dialogue: 0,0:23:18.33,0:23:19.96,Murakami,,0,0,0,,"Thanks for everything" my ass!
+Dialogue: 0,0:23:21.17,0:23:22.46,Murakami,,0,0,0,,Wait!
+Dialogue: 0,0:23:23.50,0:23:24.37,Murakami,,0,0,0,,What was that?
+Dialogue: 0,0:23:26.57,0:23:27.54,Murakami,,0,0,0,,Endo!!
+Dialogue: 0,0:23:28.54,0:23:30.24,Hamada,,0,0,0,,Thanks for everything
+Dialogue: 0,0:23:30.24,0:23:31.64,Murakami,,0,0,0,,Wait---\N{\c&HD237A9&}- Thank you
+Dialogue: 0,0:23:27.30,0:23:35.30,Bauhaus (notes),,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\4c&H000000&\4a&HFF&\pos(1030.5,63)\c&HA57CFF&}Translation & Subtitles by {\c&HFFC782&}Shion (@FGRNDNoises)
+Dialogue: 0,0:23:33.64,0:23:36.11,Murakami,,0,0,0,,Ha--- Hama--- Hama-chan? Macchan!
+Dialogue: 0,0:23:35.30,0:23:41.30,Bauhaus (notes),,0,0,0,,{\fad(200,200)\c&H2E99FF&\3c&HFFFFFF&\3a&H00&\4c&H000000&\4a&HFF&\pos(1129.5,57)}www.shionnotsukai.wordpress.com
+Dialogue: 0,0:23:41.30,0:23:46.30,Bauhaus (notes),,0,0,0,,{\fad(200,200)\c&HED9C57&\3c&HFFFFFF&\3a&H00&\4c&H000000&\4a&HFF&\pos(1136.25,60)}www.facebook.com/shionnotsukai
+Dialogue: 0,0:23:45.52,0:23:47.12,Murakami,,0,0,0,,Can I just take my lunch and leave?
+Dialogue: 0,0:23:49.09,0:23:50.06,Murakami,,0,0,0,,Wait
+Dialogue: 0,0:23:53.04,0:23:56.41,Murakami,,0,0,0,,{\pos(976.5,486)}I'm not
+Dialogue: 0,0:23:53.04,0:23:56.41,Murakami,,0,0,0,,{\pos(1080,717)}quitting this yet!
+Dialogue: 0,0:23:56.41,0:23:59.07,Hamada,,0,0,0,,That was very Yama-chan of him
+Dialogue: 0,0:24:00.00,0:24:01.47,Yamazaki,,0,0,0,,You're right
+Dialogue: 0,0:24:01.77,0:24:03.44,Matsumoto,,0,0,0,,Who is him, Yamazaki?
+Dialogue: 0,0:23:46.30,0:24:04.84,Bauhaus (notes),,0,0,0,,{\fad(200,200)\c&HFFFFFF&\3c&H000000&\3a&H00&\4c&H000000&\4a&HFF&\pos(911.25,51)}{\fs45}Want to {\c&H2FE3E6&\3c&H2333C8&}support {\c&HFFFFFF&\3c&H000000&}my translations? Consider donating @ {\c&HE4E500&\3c&H991E0E&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:24:03.44,0:24:05.11,Endo,,0,0,0,,I thought so too
+Dialogue: 0,0:24:04.84,0:24:09.89,Bauhaus (notes),,0,0,0,,{\fad(200,0)\pos(738,63)\3c&HFFFFFF&\4c&H000000&\4a&HFF&\c&H5EAA08&}find more Gaki episodes on {\c&H7EBFFF&}www.shionnotsukai.wordpress.com
+

@@ -1,0 +1,776 @@
+﻿[Script Info]
+Title: Default SSA V4+ (ASS)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: THIRDCUT.mp4
+Video File: THIRDCUT.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Video Position: 146
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: Box,Arial,54,&HFFFFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+Style: Rubi,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: On screen,Arial,54,&H00FFFFFF,&H000000FF,&H00151515,&HFF151515,-1,0,0,0,120,100,0,0,1,2,2,1,10,10,10,0
+Style: Smogo,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,150,120,0,0,1,3,2.22222,2,7,7,6,1
+Style: Testhand,Arial,17,&H00FFFFFF,&H000000FF,&H00171717,&HFF000000,-1,0,0,0,150,150,0,0,1,2.77778,2.77778,2,8,8,6,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:21:46.50,0:21:48.40,Default,,0,0,0,,REAL
+Comment: 0,0:21:51.77,0:21:56.27,Default,,0,0,0,,REAL
+Comment: 0,0:21:46.50,0:21:48.40,Default,,0,0,0,,COPY
+Comment: 0,0:21:51.77,0:21:56.27,Default,,0,0,0,,COPY
+Dialogue: 0,0:00:01.38,0:00:10.66,On screen,,0,0,0,,{\fscx103\fscy90\pos(34.666,170.667)}{\fade(1500,1500)}{\blur20}"We were each other's first ever friends"\N
+Dialogue: 0,0:00:01.38,0:00:10.66,On screen,,0,0,0,,{\fscx103\fscy90\pos(958.667,236)}{\fade(1500,1500)}{\blur20}-Mom\N
+Dialogue: 0,0:00:10.99,0:00:15.33,Smogo,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx53\fscy56\pos(1148,714)}Translated by: Otviss\N
+Dialogue: 0,0:00:10.99,0:00:15.33,Smogo,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx53\fscy56\pos(376,34)}For more, please visit: http://tofupandas.tumblr.com/matsumotoke\N
+Dialogue: 0,0:00:10.99,0:00:15.33,Smogo,,0,0,0,,{\fscx113\fscy101\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H399306&\pos(804.001,113.333)}The Matsumoto family's\N
+Dialogue: 0,0:00:10.99,0:00:15.33,Smogo,,0,0,0,,{\fscx113\fscy101\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H030FCA&\pos(804.001,166.667)}Day off\N
+Dialogue: 0,0:00:15.63,0:00:18.17,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}What do you mean?\N
+Dialogue: 0,0:00:18.17,0:00:21.50,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Well then, Here we are in Kyobashi\N
+Dialogue: 0,0:00:18.17,0:00:21.50,Default,,0,0,0,,{\pos(306,558)}We've arrived\N
+Dialogue: 0,0:00:21.50,0:00:23.44,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}What are you on about?\N
+Dialogue: 0,0:00:21.50,0:00:23.44,Default,,0,0,0,,{\pos(360,558)\c&Hffff00&}Grand Chateaux from here on?\N
+Dialogue: 0,0:00:23.44,0:00:26.91,Default,,0,0,0,,{\pos(440,478)}That's right\N
+Dialogue: 0,0:00:23.44,0:00:26.91,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Here in Kyobashi\N
+Dialogue: 0,0:00:26.91,0:00:28.94,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}the memories are...\N
+Dialogue: 0,0:00:26.91,0:00:28.94,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}My memories am I right?\N
+Dialogue: 0,0:00:28.94,0:00:31.38,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Yeah that's right\N
+Dialogue: 0,0:00:28.94,0:00:31.38,Default,,0,0,0,,{\pos(600,558)\c&H00ffff&}Kyobashi...\N
+Dialogue: 0,0:00:31.38,0:00:36.05,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}So in the next place we're going to\N
+Dialogue: 0,0:00:31.38,0:00:36.05,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}there's a former partner of yours waiting \N
+Dialogue: 0,0:00:36.05,0:00:37.95,Default,,0,0,0,,{\pos(706,558)\c&Hffff00&}What?\N
+Dialogue: 0,0:00:39.09,0:00:44.06,On screen,,0,0,0,,{\fscx103\fscy90\pos(341.333,457.333)}{\fade(650,0)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}Mom's former acquaintance\N
+Dialogue: 0,0:00:44.36,0:00:46.73,Default,,0,0,0,,{\pos(840,478)\c&Hffff00&}former partner?\N
+Dialogue: 0,0:00:44.36,0:00:46.73,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}When I hear former partner\N
+Dialogue: 0,0:00:46.73,0:00:50.03,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}I naturally think, there's no other than\N
+Dialogue: 0,0:00:46.73,0:00:50.03,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Hamada, ya know?\N
+Dialogue: 0,0:00:50.03,0:00:51.70,Default,,0,0,0,,{\pos(680,478)\c&Hffff00&}Huh?\N
+Dialogue: 0,0:00:50.03,0:00:51.70,Default,,0,0,0,,{\pos(280,558)\c&H00ff00&}Oh really?\N
+Dialogue: 0,0:00:51.70,0:00:57.31,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}So there's nothing that rings a bell\N
+Dialogue: 0,0:00:51.70,0:00:57.31,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}from ages ago when you did Manzai?\N
+Dialogue: 0,0:00:57.31,0:01:01.88,Default,,0,0,0,,{\c&Hffff00&\pos(690,478)}former partner though \N
+Dialogue: 0,0:00:57.31,0:01:01.88,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}So maybe from my student years?\N
+Dialogue: 0,0:01:01.88,0:01:05.22,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}Like grade school\N
+Dialogue: 0,0:01:01.88,0:01:05.22,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}There were definitely some there\N
+Dialogue: 0,0:01:05.22,0:01:08.55,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}What kind of people did you\N
+Dialogue: 0,0:01:05.22,0:01:08.55,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}hang out with then?\N
+Dialogue: 0,0:01:08.55,0:01:11.56,Default,,0,0,0,,{\pos(573,478)\c&H00ffff&}Well, Ito\N
+Dialogue: 0,0:01:08.55,0:01:11.56,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Ito\N
+Dialogue: 0,0:01:11.56,0:01:15.73,Default,,0,0,0,,{\fade(0,400)\pos(290,478)}{\pos(386,478)\c&H00ffff&}There were three of us with a guy "Morioka"\N
+Dialogue: 0,0:01:11.56,0:01:15.73,Default,,0,0,0,,{\fade(0,400}{\pos(226,558)\c&H00ff00&}Ah ah I see, Morioka\N
+Dialogue: 0,0:01:16.23,0:01:21.77,On screen,,0,0,0,,{\fscx103\fscy90\pos(195.999,473.333)}{\fade(650,1500)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}Mom was actually in a trio in the old days \N
+Dialogue: 0,0:01:19.90,0:01:25.24,On screen,,0,0,0,,{\fscx103\fscy90\pos(155.999,473.333)}{\fade(650,0)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}And the name was... "The Koma third branch" \N
+Dialogue: 0,0:01:25.64,0:01:30.01,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}Yeah so around 4th-5th grade\N
+Dialogue: 0,0:01:25.64,0:01:30.01,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}of grade school\N
+Dialogue: 0,0:01:30.01,0:01:31.91,Default,,0,0,0,,{\fade(0,400}{\pos(226,478)\c&H00ff00&}Oh?\N
+Dialogue: 0,0:01:30.01,0:01:31.91,Default,,0,0,0,,{\fade(0,400}{\pos(573,558)\c&H00ffff&}Yeah..\N
+Dialogue: 0,0:01:32.14,0:01:36.65,On screen,,0,0,0,,{\fscx103\fscy90\pos(66.666,473.333)}{\fade(650,0)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}Mom started doing manzai in 4th grade of grade school \N
+Dialogue: 0,0:01:37.75,0:01:40.32,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}So from what I've heard\N
+Dialogue: 0,0:01:37.75,0:01:40.32,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}That would be before Hamada\N
+Dialogue: 0,0:01:40.32,0:01:42.45,Default,,0,0,0,,{\pos(680,558)\c&H00ffff&}Yeah that's right\N
+Dialogue: 0,0:01:42.45,0:01:45.52,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}I was with Ito quite a while but...\N
+Dialogue: 0,0:01:45.52,0:01:50.80,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Kyobashi and him\N
+Dialogue: 0,0:01:45.52,0:01:50.80,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}definitely don't sound right together...\N
+Dialogue: 0,0:01:50.80,0:01:53.47,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Yes, It's actually someone from the Moriokas\N
+Dialogue: 0,0:01:50.80,0:01:53.47,Default,,0,0,0,,{\pos(680,558)\c&H00ffff&}There you go!\N
+Dialogue: 0,0:01:55.74,0:01:58.44,Default,,0,0,0,,{\pos(573,478)\c&H00ffff&}Morioka?\N
+Dialogue: 0,0:01:55.74,0:01:58.44,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Yes, Morioka\N
+Dialogue: 0,0:01:58.44,0:02:00.74,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}{\fade(0,400}That Morioka though, right?\N
+Dialogue: 0,0:02:01.71,0:02:05.98,On screen,,0,0,0,,{\fscx103\fscy90\pos(281.332,473.333)}{\fade(650,0)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}A partner before Hamada, Morioka\N
+Dialogue: 0,0:02:06.28,0:02:10.95,Default,,0,0,0,,{\pos(306,478)\c&H00ffff&}Ok so, we did have a trio together\N
+Dialogue: 0,0:02:06.28,0:02:10.95,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}But he didn't speak a word\N
+Dialogue: 0,0:02:12.29,0:02:13.99,Default,,0,0,0,,{\pos(360,478)\c&Hffff00&}Then it's meaningless isn't it?\N
+Dialogue: 0,0:02:12.29,0:02:13.99,Default,,0,0,0,,{\pos(600,558)\c&H00ffff&}Seriously\N
+Dialogue: 0,0:02:13.99,0:02:17.89,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}First time he ever spoke was\N
+Dialogue: 0,0:02:13.99,0:02:17.89,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}when he was about 7 years old...\N
+Dialogue: 0,0:02:17.89,0:02:20.60,Default,,0,0,0,,{\pos(360,478)\c&Hffff00&}So it was kind of like\N
+Dialogue: 0,0:02:17.89,0:02:20.60,Default,,0,0,0,,{\pos(386,558)\c&Hffff00&}the wolf girl?(Manga)\N
+Dialogue: 0,0:02:20.60,0:02:22.60,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}So he didn't speak\N
+Dialogue: 0,0:02:20.60,0:02:22.60,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}even though he was as old as 7?\N
+Dialogue: 0,0:02:22.60,0:02:25.03,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I'm absolutely serious, go ask the real person\N
+Dialogue: 0,0:02:22.60,0:02:25.03,Default,,0,0,0,,{\pos(786,558)\c&Hffff00&}You serious?\N
+Dialogue: 0,0:02:25.03,0:02:28.77,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}So how many years has it been? Since you meet\N
+Dialogue: 0,0:02:25.03,0:02:28.77,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}It's not just a matter of a couple of years\N
+Dialogue: 0,0:02:28.77,0:02:34.08,Default,,0,0,0,,{\pos(413,478)\c&H00ffff&}It must be more than 30 years now...\N
+Dialogue: 0,0:02:28.77,0:02:34.08,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}30?\N
+Dialogue: 0,0:02:35.54,0:02:40.98,On screen,,0,0,0,,{\fscx103\fscy90\pos(261.332,473.333)}{\fade(650,0)\c&H282828&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}After a time of 30 years, A reunion\N
+Dialogue: 0,0:02:40.98,0:02:43.55,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}You know,\N
+Dialogue: 0,0:02:40.98,0:02:43.55,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}He's the eldest son of 6 siblings\N
+Dialogue: 0,0:02:43.55,0:02:47.09,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Wow\N
+Dialogue: 0,0:02:43.55,0:02:47.09,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}6 siblings.. That's a remarkably large family\N
+Dialogue: 0,0:02:47.09,0:02:50.76,Default,,0,0,0,,{\pos(573,558)\c&H00ffff&}They were ridiculously poor\N
+Dialogue: 0,0:02:50.76,0:02:55.77,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I mean we were fairly poor too but\N
+Dialogue: 0,0:02:50.76,0:02:55.77,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}that guy was completely beyond poor \N
+Dialogue: 0,0:02:55.77,0:02:57.80,Default,,0,0,0,,{\pos(733,558)\c&Hffff00&}Are you serious?\N
+Dialogue: 0,0:02:57.80,0:03:02.11,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}So that Morioka is now\N
+Dialogue: 0,0:02:57.80,0:03:02.11,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}working somewhere in this vicinity?\N
+Dialogue: 0,0:03:02.11,0:03:04.98,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Yes,\N
+Dialogue: 0,0:03:02.11,0:03:04.98,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}What kind of store do you think it is?\N
+Dialogue: 0,0:03:04.98,0:03:10.08,Default,,0,0,0,,{\c&H00ffff&\pos(302,478)}Somehow, him doing something at a food\N
+Dialogue: 0,0:03:04.98,0:03:10.08,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}and drink place sounds right to me\N
+Dialogue: 0,0:03:10.08,0:03:12.92,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}In any case, because he was always...\N
+Dialogue: 0,0:03:12.92,0:03:16.45,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Because he was ALWAYS so hungry\N
+Dialogue: 0,0:03:17.09,0:03:19.46,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}That's why?\N
+Dialogue: 0,0:03:17.09,0:03:19.46,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}He could eat anytime\N
+Dialogue: 0,0:03:19.46,0:03:22.59,Default,,0,0,0,,{\pos(360,478)\c&H00ffff&}So now that he's older, I feel like\N
+Dialogue: 0,0:03:19.46,0:03:22.59,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}he would want to continue\N
+Dialogue: 0,0:03:22.59,0:03:25.43,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}doing something\N
+Dialogue: 0,0:03:22.59,0:03:25.43,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}with food that's very laidback like that\N
+Dialogue: 0,0:03:25.43,0:03:27.60,Default,,0,0,0,,{\pos(573,558)\c&Hffff00&}You remember don'tcha?\N
+Dialogue: 0,0:03:27.60,0:03:31.97,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Anyhow, Morioka has\N
+Dialogue: 0,0:03:31.97,0:03:35.91,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}for 12 years, independently been\N
+Dialogue: 0,0:03:31.97,0:03:35.91,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}the owner of this here\N
+Dialogue: 0,0:03:35.91,0:03:40.15,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}Wow, that Morioka huh?\N
+Dialogue: 0,0:03:35.91,0:03:40.15,Default,,0,0,0,,{\pos(733,558)\c&Hffff00&}The owner boss\N
+Dialogue: 0,0:03:40.15,0:03:42.98,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Here it is, "Kamon"\N
+Dialogue: 0,0:03:40.15,0:03:42.98,Default,,0,0,0,,{\pos(386,558)\c&Hffff00&}Hang on a second, this is high class\N
+Dialogue: 0,0:03:42.98,0:03:45.42,Default,,0,0,0,,{\pos(226,478)}Amazing\N
+Dialogue: 0,0:03:42.98,0:03:45.42,Default,,0,0,0,,{\pos(626,558)\c&H00ffff&}Is that Morioka?\N
+Dialogue: 0,0:03:45.42,0:03:47.32,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}You saw Morioka?\N
+Dialogue: 0,0:03:45.42,0:03:47.32,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}Is that Morioka?\N
+Dialogue: 0,0:03:47.32,0:03:49.52,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Ah he's laughing\N
+Dialogue: 0,0:03:47.32,0:03:49.52,Default,,0,0,0,,{\pos(546,558)\c&H00ffff&}Are you Morioka!?\N
+Dialogue: 0,0:03:49.52,0:03:51.19,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}We found Morioka\N
+Dialogue: 0,0:03:49.52,0:03:51.19,Default,,0,0,0,,{\pos(333,558)\c&Hffff00&}Haha, He's laughing\N
+Dialogue: 0,0:03:51.19,0:03:53.36,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}We found Morioka\N
+Dialogue: 0,0:03:51.19,0:03:53.36,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}Well let's get going then\N
+Dialogue: 0,0:03:53.36,0:03:55.86,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Let's go\N
+Dialogue: 0,0:03:53.36,0:03:55.86,Default,,0,0,0,,{\pos(653,558)\c&H00ffff&}Hmm?\N
+Dialogue: 0,0:04:00.70,0:04:03.17,Default,,0,0,0,,{\pos(813,558)\c&H00ffff&}You Morioka?\N
+Dialogue: 0,0:04:03.17,0:04:05.14,Default,,0,0,0,,{\pos(493,478)\c&H00ffff&}It's freaking Morioka\N
+Dialogue: 0,0:04:03.17,0:04:05.14,Default,,0,0,0,,{\pos(493,558)\c&Hffff00&}Good evening\N
+Dialogue: 0,0:04:05.14,0:04:07.61,Default,,0,0,0,,{\pos(440,478)\c&H00ff00&}Good evening, nice to meet you\N
+Dialogue: 0,0:04:05.14,0:04:07.61,Default,,0,0,0,,{\pos(733,558)}Likewise\N
+Dialogue: 0,0:04:07.61,0:04:09.94,Default,,0,0,0,,{\pos(653,478)\c&H00ffff&}Huh? Is this your wife?\N
+Dialogue: 0,0:04:07.61,0:04:09.94,Default,,0,0,0,,{\pos(226,558)}Yes\N
+Dialogue: 0,0:04:09.94,0:04:12.31,Default,,0,0,0,,{\pos(680,478)}Wow!\N
+Dialogue: 0,0:04:09.94,0:04:12.31,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}Hello there, nice to meet you!\N
+Dialogue: 0,0:04:12.31,0:04:14.35,Default,,0,0,0,,{\pos(840,558)\c&H00ffff&}I'm Matsumoto\N
+Dialogue: 0,0:04:14.35,0:04:17.09,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}This is amazing...\N
+Dialogue: 0,0:04:14.35,0:04:17.09,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}We totally get Morioka\N
+Dialogue: 0,0:04:17.09,0:04:19.95,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}He looks so kind\N
+Dialogue: 0,0:04:17.09,0:04:19.95,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}So, did he tell you\N
+Dialogue: 0,0:04:19.95,0:04:22.12,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}anything about me?\N
+Dialogue: 0,0:04:19.95,0:04:22.12,Default,,0,0,0,,{\pos(386,558)}Yes he did\N
+Dialogue: 0,0:04:22.12,0:04:25.39,Default,,0,0,0,,{\pos(360,238)\c&H00ffff&}What did he say?\N
+Dialogue: 0,0:04:22.12,0:04:25.39,Default,,0,0,0,,{\pos(386,318)\c&H00ffff&}He was talking crap about me right?\N
+Dialogue: 0,0:04:25.39,0:04:27.73,Default,,0,0,0,,{\pos(816,320)}A little bit\N
+Dialogue: 0,0:04:27.73,0:04:29.43,Default,,0,0,0,,{\pos(226,318)\c&Hffff00&}So he said something\N
+Dialogue: 0,0:04:29.43,0:04:32.43,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}You're the owner of this place right?\N
+Dialogue: 0,0:04:29.43,0:04:32.43,Default,,0,0,0,,{\pos(680,558)}Yes\N
+Dialogue: 0,0:04:32.43,0:04:34.34,Default,,0,0,0,,{\pos(760,478)}More or less... yeah\N
+Dialogue: 0,0:04:32.43,0:04:34.34,Default,,0,0,0,,{\pos(226,558)}He really is the owner though!\N
+Dialogue: 0,0:04:34.34,0:04:36.14,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I mean, Morioka\N
+Dialogue: 0,0:04:34.34,0:04:36.14,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}being the owner here\N
+Dialogue: 0,0:04:36.14,0:04:38.57,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}The fact that we're having a\N
+Dialogue: 0,0:04:36.14,0:04:38.57,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}a normal conversation is so surprising\N
+Dialogue: 0,0:04:38.57,0:04:41.41,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}He seriously didn't speak a word\N
+Dialogue: 0,0:04:41.41,0:04:45.15,Default,,0,0,0,,{\pos(226,478)}That's right, He still doesn't\N
+Dialogue: 0,0:04:41.41,0:04:45.15,Default,,0,0,0,,{\pos(253,558)}talk to people he doesn't know\N
+Dialogue: 0,0:04:45.15,0:04:48.52,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Morioka,\N
+Dialogue: 0,0:04:45.15,0:04:48.52,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}Here's a little thing we heard from before\N
+Dialogue: 0,0:04:48.52,0:04:50.35,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Up until you were 7 years old\N
+Dialogue: 0,0:04:48.52,0:04:50.35,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}you didn't speak at all\N
+Dialogue: 0,0:04:50.35,0:04:53.46,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Is that true?\N
+Dialogue: 0,0:04:50.35,0:04:53.46,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}You didn't speak at all right?\N
+Dialogue: 0,0:04:53.46,0:04:57.39,Default,,0,0,0,,{\pos(440,198)}That's saying too much...\N
+Dialogue: 0,0:04:53.46,0:04:57.39,Default,,0,0,0,,{\pos(226,278)\c&H00ffff&}You were late with talking...\N
+Dialogue: 0,0:04:57.66,0:05:01.57,Default,,0,0,0,,{\pos(226,198)\c&Hffff00&}So that's how it was\N
+Dialogue: 0,0:04:57.66,0:05:01.57,Default,,0,0,0,,{\pos(306,278)\c&H00ffff&}The oldest of 6 siblings right?\N
+Dialogue: 0,0:05:01.57,0:05:03.70,Default,,0,0,0,,{\pos(226,478)}Seven actually...\N
+Dialogue: 0,0:05:01.57,0:05:03.70,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Huh? 7 people!?\N
+Dialogue: 0,0:05:03.70,0:05:06.84,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}7 people? You increased to 7 huh?\N
+Dialogue: 0,0:05:06.84,0:05:09.51,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}You got one more?\N
+Dialogue: 0,0:05:06.84,0:05:09.51,Default,,0,0,0,,{\pos(360,558)}14 years younger..\N
+Dialogue: 0,0:05:09.51,0:05:11.41,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Wow..\N
+Dialogue: 0,0:05:09.51,0:05:11.41,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}That's just amazing\N
+Dialogue: 0,0:05:11.41,0:05:14.48,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Here's someone with a lot of legends\N
+Dialogue: 0,0:05:14.48,0:05:17.48,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Morioka...\N
+Dialogue: 0,0:05:14.48,0:05:17.48,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}He's a remarkable person\N
+Dialogue: 0,0:05:17.48,0:05:21.05,Default,,0,0,0,,{\pos(226,478)}I'm going to enjoy listening to those\N
+Dialogue: 0,0:05:17.48,0:05:21.05,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Haha, it's not like that..\N
+Dialogue: 0,0:05:21.05,0:05:23.06,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}{\fade(0,200}Let's sit down, shall we?\N
+Dialogue: 0,0:05:21.05,0:05:23.06,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}{\fade(0,200}Let's do that and calm down for a moment\N
+Dialogue: 0,0:05:25.12,0:05:36.57,On screen,,0,0,0,,{\fscx86\fscy80\pos(26,630)}{\fade(850,0)\c&H452EF6&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}Chinese Cuisine:\N
+Dialogue: 0,0:05:25.12,0:05:36.57,On screen,,0,0,0,,{\fscx93\fscy90\pos(342,612)}{\fade(850,0)\c&H452EF6&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}Kamon\N
+Dialogue: 0,0:05:23.32,0:05:36.57,On screen,,0,0,0,,{\fscx72\fscy65\pos(487.333,680.667)}{\fade(400,0)\c&HFFFFFF&\3c&H151515&\3a&HFF&\4c&H151515&\4a&HFF&}A talk with the legendary former partner\N Funny and exciting memories
+Dialogue: 0,0:05:36.90,0:05:40.94,Default,,0,0,0,,{\c&H00ffff&\pos(176,478)}As expected, you wanted to manage a food place I see\N
+Dialogue: 0,0:05:36.90,0:05:40.94,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}Cause you were constantly hungry\N
+Dialogue: 0,0:05:42.54,0:05:44.24,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Is that really true?\N
+Dialogue: 0,0:05:42.54,0:05:44.24,Default,,0,0,0,,{\pos(626,558)}Yes it is..\N
+Dialogue: 0,0:05:44.24,0:05:48.88,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}In those days ya know\N
+Dialogue: 0,0:05:44.24,0:05:48.88,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Tanaka Kakuei was the prime minister\N
+Dialogue: 0,0:05:48.88,0:05:50.55,Default,,0,0,0,,{\pos(226,278)\c&Hffff00&}Yeah yeah\N
+Dialogue: 0,0:05:49.15,0:05:58.39,Testhand,,0,0,0,,{\fscx187\fscy197\pos(550,624)\frz3.78}Mom: Matsumoto\N
+Dialogue: 0,0:05:49.15,0:05:58.39,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(762,322)}Morioka\N
+Dialogue: 0,0:05:50.55,0:05:53.05,Default,,0,0,0,,{\pos(226,278)\c&H00ffff&}And I was taking my dog for a walk in the park\N
+Dialogue: 0,0:05:53.05,0:05:54.72,Default,,0,0,0,,{\pos(413,278)\c&H00ffff&}And then, since Morioka\N
+Dialogue: 0,0:05:54.72,0:05:56.36,Default,,0,0,0,,{\pos(360,278)\c&H00ffff&}lived adjacent to that park\N
+Dialogue: 0,0:05:56.36,0:05:59.53,Default,,0,0,0,,{\pos(280,278)\c&H00ffff&}And from afar\N
+Dialogue: 0,0:05:59.53,0:06:02.50,Default,,0,0,0,,{\pos(546,478)\c&H00ffff&}And their dad was SO poor\N
+Dialogue: 0,0:05:59.53,0:06:02.50,Default,,0,0,0,,{\c&H00ffff&\pos(449,558)}and kind of hot headed\N
+Dialogue: 0,0:06:02.50,0:06:04.97,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}So when I was walking the dog\N
+Dialogue: 0,0:06:02.50,0:06:04.97,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}I seriously heard this:\N
+Dialogue: 0,0:06:04.97,0:06:08.30,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}Tanaka, you freaking idiot!\N
+Dialogue: 0,0:06:09.44,0:06:11.94,Default,,0,0,0,,{\c&Hffff00&\pos(178,558)}To the prime minister? The prime minister at the time?\N
+Dialogue: 0,0:06:11.94,0:06:15.51,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Yeah, Morioka's dad completely shaken\N
+Dialogue: 0,0:06:11.94,0:06:15.51,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}let out a cry like that..\N
+Dialogue: 0,0:06:15.51,0:06:18.15,Default,,0,0,0,,{\pos(413,478)\c&H00ff00&}Hahaha!\N
+Dialogue: 0,0:06:15.51,0:06:18.15,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Because they were so poor?\N
+Dialogue: 0,0:06:18.15,0:06:21.08,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}Then my dog just went "ooooh"\N
+Dialogue: 0,0:06:21.08,0:06:24.35,Default,,0,0,0,,{\pos(440,478)\c&H00ff00&}That was the reaction?\N
+Dialogue: 0,0:06:21.08,0:06:24.35,Default,,0,0,0,,{\pos(466,558)\c&H00ff00&}That was its response?\N
+Dialogue: 0,0:06:24.35,0:06:26.76,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}But right? It happened right?\N
+Dialogue: 0,0:06:26.76,0:06:28.86,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Hiroshi Morioka.\N
+Dialogue: 0,0:06:26.76,0:06:28.86,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}His dad was called that.\N
+Dialogue: 0,0:06:28.86,0:06:32.33,Default,,0,0,0,,{\pos(253,558)}After that, we heard "Hiroshi, you fool!" \N
+Dialogue: 0,0:06:32.33,0:06:35.23,Default,,0,0,0,,{\pos(733,478)}From the two Itos and him\N
+Dialogue: 0,0:06:32.33,0:06:35.23,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Hiroshi, you fool\N
+Dialogue: 0,0:06:35.23,0:06:37.23,Default,,0,0,0,,{\pos(440,478)\c&H00ff00&}Did they really\N
+Dialogue: 0,0:06:35.23,0:06:37.23,Default,,0,0,0,,{\pos(466,558)\c&H00ff00&}say that?\N
+Dialogue: 0,0:06:37.23,0:06:39.47,Default,,0,0,0,,{\pos(333,478)}And then\N
+Dialogue: 0,0:06:37.23,0:06:39.47,Default,,0,0,0,,{\pos(360,558)}my dad got seriously angry\N
+Dialogue: 0,0:06:39.47,0:06:43.91,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}His dad was really mad at us\N
+Dialogue: 0,0:06:39.47,0:06:43.91,Default,,0,0,0,,{\pos(280,558)}Every time they saw his face\N
+Dialogue: 0,0:06:43.91,0:06:46.68,Default,,0,0,0,,{\pos(573,558)}They uttered "Hiroshi, hiroshi"\N
+Dialogue: 0,0:06:46.68,0:06:50.15,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}That sure is funny\N
+Dialogue: 0,0:06:46.68,0:06:50.15,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}Yeah, His dad was kind of messed up\N
+Dialogue: 0,0:06:50.15,0:06:52.05,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}Hiroshi Morioka\N
+Dialogue: 0,0:06:52.05,0:06:55.92,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}When we went to play at his house\N
+Dialogue: 0,0:06:52.05,0:06:55.92,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}He brought out a bunch of porn mags\N
+Dialogue: 0,0:06:55.92,0:06:58.76,Default,,0,0,0,,{\c&H00ff00&\pos(161,478)}Huh? For you kids? But you were in grade school right?\N
+Dialogue: 0,0:06:55.92,0:06:58.76,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Yeah\N
+Dialogue: 0,0:06:58.76,0:07:01.33,Default,,0,0,0,,{\pos(333,478)\c&H00ff00&}You were shown porn mags?\N
+Dialogue: 0,0:06:58.76,0:07:01.33,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Yeah he just threw them on the table\N
+Dialogue: 0,0:07:01.33,0:07:05.26,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I think it was during spring cleaning or something\N
+Dialogue: 0,0:07:01.33,0:07:05.26,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}He said I can't deal with these anymore\N
+Dialogue: 0,0:07:05.26,0:07:07.57,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}So he threw them in a bonfire\N
+Dialogue: 0,0:07:07.57,0:07:13.14,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}And we kids were looking at this\N
+Dialogue: 0,0:07:07.57,0:07:13.14,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}"This one I don't need, this neither..."\N
+Dialogue: 0,0:07:13.14,0:07:16.28,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Ah, I haven't finished watching this one yet\N
+Dialogue: 0,0:07:17.94,0:07:20.58,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}What happened with him anyway?\N
+Dialogue: 0,0:07:20.58,0:07:24.05,Default,,0,0,0,,{\pos(226,478)}He's healthy...\N
+Dialogue: 0,0:07:20.58,0:07:24.05,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Huh!? He's still alive? Wow\N
+Dialogue: 0,0:07:24.95,0:07:26.99,Default,,0,0,0,,{\pos(573,478)}He's still well\N
+Dialogue: 0,0:07:24.95,0:07:26.99,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}That idiot...\N
+Dialogue: 0,0:07:26.99,0:07:29.06,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Please stop\N
+Dialogue: 0,0:07:29.06,0:07:30.96,Default,,0,0,0,,{\pos(680,478)\c&H00ffff&}Seriously?\N
+Dialogue: 0,0:07:29.06,0:07:30.96,Default,,0,0,0,,{\pos(386,558)\c&H00ff00&}Morioka's reaction\N
+Dialogue: 0,0:07:30.96,0:07:32.93,Default,,0,0,0,,{\pos(280,558)\c&H00ff00&}is as if he's dead\N
+Dialogue: 0,0:07:32.93,0:07:34.96,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}My wife isn't saying anything so\N
+Dialogue: 0,0:07:32.93,0:07:34.96,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}I'm completely dead now\N
+Dialogue: 0,0:07:34.96,0:07:36.96,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Like in an instant\N
+Dialogue: 0,0:07:34.96,0:07:36.96,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Right?\N
+Dialogue: 0,0:07:36.96,0:07:39.70,Default,,0,0,0,,{\pos(248,478)}I wonder what happened for a moment there\N
+Dialogue: 0,0:07:36.96,0:07:39.70,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}I guess so, you're fully alive though..\N
+Dialogue: 0,0:07:39.70,0:07:44.77,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Saying "I wonder what happened for a moment"\N
+Dialogue: 0,0:07:39.70,0:07:44.77,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}These are the things this boring ass\N
+Dialogue: 0,0:07:44.77,0:07:47.14,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}is saying, after all\N
+Dialogue: 0,0:07:47.14,0:07:49.18,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Come on, you just met him after all this time\N
+Dialogue: 0,0:07:49.18,0:07:51.88,Default,,0,0,0,,{\pos(364,430)}35 years\N
+Dialogue: 0,0:07:49.18,0:07:51.88,Default,,0,0,0,,{\pos(226,358)\c&H00ff00&}How long has it been?\N
+Dialogue: 0,0:07:51.88,0:07:54.35,Default,,0,0,0,,{\pos(226,358)\c&H00ff00&}35 years huh, when exactly was the last time?\N
+Dialogue: 0,0:07:54.35,0:07:58.35,Default,,0,0,0,,{\pos(440,278)}At Osaka station..\N
+Dialogue: 0,0:07:54.35,0:07:58.35,Default,,0,0,0,,{\pos(466,358)\c&H00ffff&}Oh we met?\N
+Dialogue: 0,0:07:58.35,0:08:03.09,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}At that disgusting under passage right?\N
+Dialogue: 0,0:07:58.35,0:08:03.09,Default,,0,0,0,,{\pos(600,558)}Yeah, exactly\N
+Dialogue: 0,0:08:03.09,0:08:07.30,Default,,0,0,0,,{\pos(306,558)}The manzai contest... Imamiya\N
+Dialogue: 0,0:08:07.30,0:08:10.67,Default,,0,0,0,,{\pos(258,478)}So kind of in the middle of that. On your way home\N
+Dialogue: 0,0:08:07.30,0:08:10.67,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}Really?\N
+Dialogue: 0,0:08:10.67,0:08:14.50,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Wow, we met at an amazing place then\N
+Dialogue: 0,0:08:10.67,0:08:14.50,Default,,0,0,0,,{\pos(546,558)}And at that time\N
+Dialogue: 0,0:08:14.50,0:08:18.87,Default,,0,0,0,,{\pos(284,558)}Your partner Hamada, cried out in a loud voice\N
+Dialogue: 0,0:08:18.87,0:08:23.31,Default,,0,0,0,,{\pos(386,558)}"Morioka!"... at like the grounds there...\N
+Dialogue: 0,0:08:23.31,0:08:26.52,Default,,0,0,0,,{\pos(280,478)}What are you saying? Who the hell is this? \N
+Dialogue: 0,0:08:23.31,0:08:26.52,Default,,0,0,0,,{\pos(306,558)}What in the world...\N
+Dialogue: 0,0:08:26.52,0:08:31.52,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}Forget about that,\N
+Dialogue: 0,0:08:26.52,0:08:31.52,Default,,0,0,0,,{\c&H00ffff&\pos(14,558)}He cried out your name and you didnt know what he was saying?\N
+Dialogue: 0,0:08:34.12,0:08:36.56,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}When he saw Morioka\N
+Dialogue: 0,0:08:34.12,0:08:36.56,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}that's what he had to say, in a whoosh\N
+Dialogue: 0,0:08:36.56,0:08:38.56,Default,,0,0,0,,{\pos(386,558)\c&H00ff00&}Hamada's body just had to\N
+Dialogue: 0,0:08:38.56,0:08:41.37,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}When he saw him\N
+Dialogue: 0,0:08:38.56,0:08:41.37,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}his body just went Morioka!\N
+Dialogue: 0,0:08:41.37,0:08:43.80,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Anyhow, he's a super kind guy\N
+Dialogue: 0,0:08:43.80,0:08:46.40,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}We totally understand that\N
+Dialogue: 0,0:08:43.80,0:08:46.40,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Aren't you?\N
+Dialogue: 0,0:08:46.40,0:08:48.54,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}When you look at him, you understand\N
+Dialogue: 0,0:08:46.40,0:08:48.54,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Yeah\N
+Dialogue: 0,0:08:48.54,0:08:52.04,Default,,0,0,0,,{\pos(306,478)\c&H00ffff&}He's never been angry right?\N
+Dialogue: 0,0:08:48.54,0:08:52.04,Default,,0,0,0,,{\pos(413,558)}Yeah, that's right\N
+Dialogue: 0,0:08:52.04,0:08:55.48,Default,,0,0,0,,{\pos(280,598)\c&Hffff00&}I can't imagine that\N
+Dialogue: 0,0:08:52.04,0:08:55.48,Default,,0,0,0,,{\pos(493,678)\c&H00ffff&}A bit of a poor talker\N
+Dialogue: 0,0:08:55.48,0:08:57.12,Default,,0,0,0,,{\pos(493,478)\c&H00ff00&}Exactly\N
+Dialogue: 0,0:08:55.48,0:08:57.12,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}But we understand\N
+Dialogue: 0,0:08:57.12,0:08:58.78,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}He doesn't get that angry\N
+Dialogue: 0,0:08:58.78,0:09:01.22,Default,,0,0,0,,{\pos(306,478)\c&H00ffff&}I kind of\N
+Dialogue: 0,0:08:58.78,0:09:01.22,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}want to eat something Morioka has made\N
+Dialogue: 0,0:09:01.22,0:09:03.99,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Let's eat!\N
+Dialogue: 0,0:09:01.22,0:09:03.99,Default,,0,0,0,,{\pos(760,558)\c&H00ff00&}So...\N
+Dialogue: 0,0:09:03.99,0:09:07.23,Default,,0,0,0,,{\pos(360,478)\c&H00ff00&}How about your recommendation?\N
+Dialogue: 0,0:09:03.99,0:09:07.23,Default,,0,0,0,,{\pos(386,558)\c&H00ff00&}First of all, what is it?\N
+Dialogue: 0,0:09:07.23,0:09:11.00,Default,,0,0,0,,{\pos(386,478)}My recommendation would be Mapo Tofu\N
+Dialogue: 0,0:09:07.23,0:09:11.00,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Ah, there ya go, Mapo Tofu\N
+Dialogue: 0,0:09:11.00,0:09:17.24,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}I never thought I'd be eating Morioka's\N
+Dialogue: 0,0:09:11.00,0:09:17.24,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}Mapo Tofu...\N
+Dialogue: 0,0:09:17.24,0:09:21.21,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I didn't think it would happen\N
+Dialogue: 0,0:09:17.24,0:09:21.21,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}I've heard he worked his way up to be a head chef\N
+Dialogue: 0,0:09:21.21,0:09:23.31,Default,,0,0,0,,{\pos(680,478)}Wow..\N
+Dialogue: 0,0:09:21.21,0:09:23.31,Default,,0,0,0,,{\pos(573,558)\c&H00ff00&}And then 12 years ago\N
+Dialogue: 0,0:09:23.31,0:09:26.71,Default,,0,0,0,,{\pos(573,478)\c&H00ff00&}He became independent\N
+Dialogue: 0,0:09:23.31,0:09:26.71,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}You worked hard didn't you...\N
+Dialogue: 0,0:09:26.71,0:09:29.55,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}That's incredible\N
+Dialogue: 0,0:09:29.55,0:09:32.89,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Yeah, it really is\N
+Dialogue: 0,0:09:29.55,0:09:32.89,Default,,0,0,0,,{\pos(733,558)\c&H00ffff&}It is, it is\N
+Dialogue: 0,0:09:32.89,0:09:37.12,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}Is everybody..\N
+Dialogue: 0,0:09:32.89,0:09:37.12,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}Is Yumi in good health?\N
+Dialogue: 0,0:09:37.12,0:09:38.79,Default,,0,0,0,,{\pos(546,558)}Yeah, everyone is...\N
+Dialogue: 0,0:09:38.79,0:09:40.80,Default,,0,0,0,,{\pos(360,478)\c&H00ff00&}Who is that? Yumi\N
+Dialogue: 0,0:09:38.79,0:09:40.80,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}Well, his little sister\N
+Dialogue: 0,0:09:40.80,0:09:45.47,Default,,0,0,0,,{\pos(466,478)}They are all well\N
+Dialogue: 0,0:09:40.80,0:09:45.47,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Everyone is healthy huh? That's amazing\N
+Dialogue: 0,0:09:45.47,0:09:47.30,Default,,0,0,0,,{\pos(706,678)\c&H00ffff&}There's Yoshitaka, Yumi\N
+Dialogue: 0,0:09:47.30,0:09:49.47,Default,,0,0,0,,{\pos(600,598)}And Kouji\N
+Dialogue: 0,0:09:47.30,0:09:49.47,Default,,0,0,0,,{\pos(706,678)\c&H00ffff&}Ah, Kouji\N
+Dialogue: 0,0:09:49.47,0:09:51.14,Default,,0,0,0,,{\pos(733,598)}Masako\N
+Dialogue: 0,0:09:49.47,0:09:51.14,Default,,0,0,0,,{\pos(813,678)\c&H00ffff&}Masako\N
+Dialogue: 0,0:09:51.14,0:09:52.77,Default,,0,0,0,,{\pos(733,598)}Eiko\N
+Dialogue: 0,0:09:51.14,0:09:52.77,Default,,0,0,0,,{\pos(813,678)\c&H00ffff&}Eiko\N
+Dialogue: 0,0:09:52.77,0:09:54.48,Default,,0,0,0,,{\pos(733,598)}and Kazuo\N
+Dialogue: 0,0:09:52.77,0:09:54.48,Default,,0,0,0,,{\pos(813,678)\c&H00ffff&}Kazuo\N
+Dialogue: 0,0:09:54.48,0:09:56.11,Default,,0,0,0,,{\pos(546,598)}And then at the very end Yoshiyuki\N
+Dialogue: 0,0:09:54.48,0:09:56.11,Default,,0,0,0,,{\pos(600,678)}Yoshiyuki\N
+Dialogue: 0,0:09:56.11,0:09:59.05,Default,,0,0,0,,{\pos(520,598)\c&H00ffff&}Yoshiyuki...\N
+Dialogue: 0,0:09:56.11,0:09:59.05,Default,,0,0,0,,{\pos(546,678)\c&H00ffff&}So maybe Kouji?\N
+Dialogue: 0,0:09:59.05,0:10:01.55,Default,,0,0,0,,{\pos(733,598)}The third one\N
+Dialogue: 0,0:09:59.05,0:10:01.55,Default,,0,0,0,,{\pos(813,678)\c&H00ffff&}Yeah the third one\N
+Dialogue: 0,0:10:01.55,0:10:05.65,Default,,0,0,0,,{\pos(493,478)\c&H00ffff&}That dude\N
+Dialogue: 0,0:10:01.55,0:10:05.65,Default,,0,0,0,,{\pos(520,558)\c&H00ffff&}was always taking persimmons!\N
+Dialogue: 0,0:10:05.65,0:10:08.19,Default,,0,0,0,,{\pos(626,478)}Hahaha\N
+Dialogue: 0,0:10:05.65,0:10:08.19,Default,,0,0,0,,{\pos(360,558)\c&Hffff00&}From the neighbourhood?\N
+Dialogue: 0,0:10:08.19,0:10:10.99,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Cause ya didn't have anything to eat\N
+Dialogue: 0,0:10:08.19,0:10:10.99,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}You know what,\N
+Dialogue: 0,0:10:10.99,0:10:13.86,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}There was a persimmon tree\N
+Dialogue: 0,0:10:10.99,0:10:13.86,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}next to the Dobu River\N
+Dialogue: 0,0:10:13.86,0:10:18.00,Default,,0,0,0,,{\pos(546,558)\c&H00ffff&}And there, like the tree was\N
+Dialogue: 0,0:10:18.00,0:10:21.00,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}how should I say, bending down\N
+Dialogue: 0,0:10:18.00,0:10:21.00,Default,,0,0,0,,{\pos(733,558)\c&H00ff00&}It was too crooked?\N
+Dialogue: 0,0:10:21.00,0:10:23.11,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}No no no, it was like...\N
+Dialogue: 0,0:10:23.11,0:10:24.88,Default,,0,0,0,,{\pos(413,478)\c&H00ffff&}The tree was like in a complete arch,\N
+Dialogue: 0,0:10:23.11,0:10:24.88,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}What do you call that?\N
+Dialogue: 0,0:10:24.88,0:10:26.74,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}You couldn't really tell at first glance\N
+Dialogue: 0,0:10:26.74,0:10:30.15,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}And then, Kouji was like holding on to the tree\N
+Dialogue: 0,0:10:26.74,0:10:30.15,Default,,0,0,0,,{\pos(840,558)\c&H00ff00&}Whaaa!\N
+Dialogue: 0,0:10:30.15,0:10:31.78,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}And as his back was almost\N
+Dialogue: 0,0:10:31.78,0:10:35.79,Default,,0,0,0,,{\pos(306,478)\c&H00ffff&}touching the river\N
+Dialogue: 0,0:10:31.78,0:10:35.79,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}He munched on the persimmons\N
+Dialogue: 0,0:10:35.95,0:10:38.92,Default,,0,0,0,,{\c&H00ff00&\pos(677,558)}Like a bear! He was a bear!\N
+Dialogue: 0,0:10:38.92,0:10:41.59,Default,,0,0,0,,{\pos(440,558)\c&H00ff00&}That's how bears eat\N
+Dialogue: 0,0:10:41.59,0:10:44.46,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Cause he was hungry\N
+Dialogue: 0,0:10:41.59,0:10:44.46,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Hah, because he was hungry?\N
+Dialogue: 0,0:10:44.46,0:10:46.10,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}They didn't have a choice\N
+Dialogue: 0,0:10:46.10,0:10:50.67,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Have you met any\N
+Dialogue: 0,0:10:46.10,0:10:50.67,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}other peeps from Amagasaki?\N
+Dialogue: 0,0:10:50.67,0:10:53.61,Default,,0,0,0,,{\pos(760,558)}Uhm...\N
+Dialogue: 0,0:10:53.61,0:10:56.44,Default,,0,0,0,,{\pos(404,478)}One time... uh... the guy from the meat shop\N
+Dialogue: 0,0:10:53.61,0:10:56.44,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}Yamazato?\N
+Dialogue: 0,0:10:56.44,0:11:02.41,Default,,0,0,0,,{\pos(466,478)}I went to him one time when... uhm..\N
+Dialogue: 0,0:10:56.44,0:11:02.41,Default,,0,0,0,,{\pos(493,558)}they were closing\N
+Dialogue: 0,0:11:02.41,0:11:06.42,Default,,0,0,0,,{\pos(493,478)}And uh then...\N
+Dialogue: 0,0:11:02.41,0:11:06.42,Default,,0,0,0,,{\pos(462,558)}we went and kept them some company\N
+Dialogue: 0,0:11:08.52,0:11:10.92,Default,,0,0,0,,{\pos(280,478)}But after that,\N
+Dialogue: 0,0:11:08.52,0:11:10.92,Default,,0,0,0,,{\pos(306,558)}We had them all stay for dinner here\N
+Dialogue: 0,0:11:10.92,0:11:12.93,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Your talking is completely hopeless\N
+Dialogue: 0,0:11:13.96,0:11:17.40,Default,,0,0,0,,{\pos(333,478)\c&Hffff00&}There's no mistaking there\N
+Dialogue: 0,0:11:13.96,0:11:17.40,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}His talking is hopeless\N
+Dialogue: 0,0:11:17.40,0:11:20.20,Default,,0,0,0,,{\pos(440,478)\c&H00ffff&}You know, It's because\N
+Dialogue: 0,0:11:17.40,0:11:20.20,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}he didn't speak until he was 7\N
+Dialogue: 0,0:11:20.20,0:11:23.84,Default,,0,0,0,,{\pos(386,478)}You're strict, I'm just a common guy\N
+Dialogue: 0,0:11:20.20,0:11:23.84,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Hahahaha\N
+Dialogue: 0,0:11:23.84,0:11:27.34,Default,,0,0,0,,{\pos(520,478)\c&H00ffff&}Ooooh!\N
+Dialogue: 0,0:11:23.84,0:11:27.34,Default,,0,0,0,,{\pos(520,558)\c&H00ff00&}Hey!\N
+Dialogue: 0,0:11:27.34,0:11:29.78,Default,,0,0,0,,{\pos(333,478)}Mapo Tofu\N
+Dialogue: 0,0:11:27.34,0:11:29.78,Default,,0,0,0,,{\pos(520,558)\c&Hffff00&}Wow!\N
+Dialogue: 0,0:11:29.78,0:11:31.85,Default,,0,0,0,,{\pos(253,558)}You can put some peppers on to your liking\N
+Dialogue: 0,0:11:31.85,0:11:35.72,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Wow, this is amazing\N
+Dialogue: 0,0:11:31.85,0:11:35.72,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Eating Mapo Tofu that Morioka has made...\N
+Dialogue: 0,0:11:35.72,0:11:38.85,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}It's...\N
+Dialogue: 0,0:11:35.72,0:11:38.85,Default,,0,0,0,,{\pos(360,558)\c&Hffff00&}Please eat up\N
+Dialogue: 0,0:11:38.85,0:11:42.19,Default,,0,0,0,,{\pos(440,478)\c&Hffff00&}It looks delicious\N
+Dialogue: 0,0:11:38.85,0:11:42.19,Default,,0,0,0,,{\pos(280,558)\c&H00ff00&}Wah, it really does\N
+Dialogue: 0,0:11:42.19,0:11:46.29,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}This is really professional, Morioka\N
+Dialogue: 0,0:11:46.29,0:11:48.70,Default,,0,0,0,,{\pos(546,478)}I've been trying hard to figure it out \N
+Dialogue: 0,0:11:46.29,0:11:48.70,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Hmm?\N
+Dialogue: 0,0:11:48.70,0:11:52.53,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}You're not the one to have\N
+Dialogue: 0,0:11:48.70,0:11:52.53,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}"Figured out" Mapo Tofu though\N
+Dialogue: 0,0:11:52.67,0:11:55.20,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}That's the chinese\N
+Dialogue: 0,0:11:55.20,0:11:58.31,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}The taste though, It's Morioka's take on it\N
+Dialogue: 0,0:11:55.20,0:11:58.31,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Ah, so that's what he meant\N
+Dialogue: 0,0:11:58.31,0:12:00.41,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Digging in...\N
+Dialogue: 0,0:12:00.41,0:12:02.45,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}Mmm!\N
+Dialogue: 0,0:12:04.98,0:12:07.05,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}It's delicious!\N
+Dialogue: 0,0:12:04.98,0:12:07.05,Default,,0,0,0,,{\pos(600,558)}Thank you\N
+Dialogue: 0,0:12:07.05,0:12:09.69,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Wow, that's delish!\N
+Dialogue: 0,0:12:09.69,0:12:12.92,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}It's delicious but\N
+Dialogue: 0,0:12:09.69,0:12:12.92,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}also has a "originality" to it\N
+Dialogue: 0,0:12:12.92,0:12:15.89,Default,,0,0,0,,{\pos(680,478)\c&H00ff00&}Yummy!\N
+Dialogue: 0,0:12:12.92,0:12:15.89,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}It's like different to\N
+Dialogue: 0,0:12:15.89,0:12:17.66,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}normal Mapo Tofu\N
+Dialogue: 0,0:12:15.89,0:12:17.66,Default,,0,0,0,,{\pos(520,558)}Way off\N
+Dialogue: 0,0:12:17.66,0:12:20.53,Default,,0,0,0,,{\pos(440,478)}It's completely different\N
+Dialogue: 0,0:12:17.66,0:12:20.53,Default,,0,0,0,,{\pos(226,558)}He's saying that because he has worked hard\N
+Dialogue: 0,0:12:20.53,0:12:22.57,Default,,0,0,0,,{\pos(50,558)}to figure out the perfect combination\N
+Dialogue: 0,0:12:22.57,0:12:25.60,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Isn't your wife's support a little sloppy?\N
+Dialogue: 0,0:12:25.60,0:12:27.91,Default,,0,0,0,,{\pos(226,558)}I especially praise his cooking\N
+Dialogue: 0,0:12:27.91,0:12:29.54,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}huh, whats going on?\N
+Dialogue: 0,0:12:29.54,0:12:31.51,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}At first the spicyness isn't so noticeable\N
+Dialogue: 0,0:12:31.51,0:12:33.61,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}What is this magic?\N
+Dialogue: 0,0:12:31.51,0:12:33.61,Default,,0,0,0,,{\pos(653,558)\c&H00ff00&}It's delicious, the sweetness\N
+Dialogue: 0,0:12:33.61,0:12:35.48,Default,,0,0,0,,{\pos(280,478)\c&Hffff00&}It's delightful\N
+Dialogue: 0,0:12:33.61,0:12:35.48,Default,,0,0,0,,{\pos(680,558)\c&H00ff00&}The sweetness is delightful\N
+Dialogue: 0,0:12:35.48,0:12:37.52,Default,,0,0,0,,{\pos(413,478)\c&H00ff00&}And the peppers...\N
+Dialogue: 0,0:12:35.48,0:12:37.52,Default,,0,0,0,,{\pos(466,558)}If you put on some peppers\N
+Dialogue: 0,0:12:37.52,0:12:39.55,Default,,0,0,0,,{\pos(360,478)}The tang changes again\N
+Dialogue: 0,0:12:37.52,0:12:39.55,Default,,0,0,0,,{\pos(386,558)\c&H00ff00&}Yes, exactly that\N
+Dialogue: 0,0:12:39.55,0:12:41.59,Default,,0,0,0,,{\pos(386,558)\c&Hffff00&}This is freaking good\N
+Dialogue: 0,0:12:41.59,0:12:45.26,Default,,0,0,0,,{\pos(333,478)\c&H00ff00&}It's good, the originality\N
+Dialogue: 0,0:12:41.59,0:12:45.26,Default,,0,0,0,,{\pos(360,558)\c&H00ff00&}is really prominent\N
+Dialogue: 0,0:12:45.26,0:12:47.53,Default,,0,0,0,,{\pos(413,478)\c&H00ffff&}Eat up everyone\N
+Dialogue: 0,0:12:47.53,0:12:49.50,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}This really is good\N
+Dialogue: 0,0:12:49.50,0:12:51.16,Default,,0,0,0,,{\pos(306,478)\c&H00ff00&}Shall we go for one more thing?\N
+Dialogue: 0,0:12:49.50,0:12:51.16,Default,,0,0,0,,{\pos(360,558)}Yeah?\N
+Dialogue: 0,0:12:51.16,0:12:52.83,Default,,0,0,0,,{\pos(573,558)\c&H00ff00&}Yes\N
+Dialogue: 0,0:12:52.83,0:12:56.40,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}What was it now?\N
+Dialogue: 0,0:12:52.83,0:12:56.40,Default,,0,0,0,,{\c&H00ffff&\fscx77\fscy78\pos(570,512)}Spinning top\N
+Dialogue: 0,0:12:52.83,0:12:56.40,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}It was called the "Koma third branch" right?\N
+Dialogue: 0,0:12:56.40,0:12:59.14,Default,,0,0,0,,{\pos(440,478)}Yes, that's right\N
+Dialogue: 0,0:12:56.40,0:12:59.14,Default,,0,0,0,,{\pos(413,558)\c&H00ffff&}So the third koma branch was\N
+Dialogue: 0,0:12:59.14,0:13:02.21,Default,,0,0,0,,{\pos(413,478)\c&H00ffff&}the name of the trio, yeah\N
+Dialogue: 0,0:12:59.14,0:13:02.21,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}The manzai group\N
+Dialogue: 0,0:13:02.21,0:13:04.68,Default,,0,0,0,,{\pos(360,478)\c&H00ff00&}Do you remember any sketches?\N
+Dialogue: 0,0:13:04.68,0:13:07.85,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}I told you, he doesn't speak\N
+Dialogue: 0,0:13:09.22,0:13:14.52,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Anyway, Ito was...\N
+Dialogue: 0,0:13:13.19,0:13:22.63,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(398,624)}Iron top\N
+Dialogue: 0,0:13:15.72,0:13:22.63,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(580,450)}Wood top\N
+Dialogue: 0,0:13:20.13,0:13:22.63,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(736,232)}Plastic top\N
+Dialogue: 0,0:13:29.04,0:13:33.21,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(398,624)}Iron top\N
+Dialogue: 0,0:13:29.04,0:13:33.21,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(580,450)}Wood top\N
+Dialogue: 0,0:13:29.04,0:13:33.21,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(736,232)}Plastic top\N
+Dialogue: 0,0:15:07.14,0:15:17.05,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(398,624)}Iron top\N
+Dialogue: 0,0:15:07.14,0:15:17.05,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(580,450)}Wood top\N
+Dialogue: 0,0:15:07.14,0:15:17.05,Testhand,,0,0,0,,{\fscx187\fscy197\frz3.78\pos(736,232)}Plastic top\N
+Dialogue: 0,0:13:09.22,0:13:14.52,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}He was called the "Iron spin top"\N
+Dialogue: 0,0:13:14.52,0:13:17.36,Default,,0,0,0,,{\pos(413,238)\c&H00ffff&}and I was called the "wood spin top"\N
+Dialogue: 0,0:13:14.52,0:13:17.36,Default,,0,0,0,,{\pos(466,318)\c&Hffff00&}Iron, wood...\N
+Dialogue: 0,0:13:17.36,0:13:19.49,Default,,0,0,0,,{\pos(413,398)\c&H00ffff&}Then naturally, Morioka was\N
+Dialogue: 0,0:13:19.49,0:13:21.80,Default,,0,0,0,,{\pos(226,398)\c&H00ffff&}was called the "plastic spin top"\N
+Dialogue: 0,0:13:21.80,0:13:24.23,Default,,0,0,0,,{\pos(253,398)\c&H00ffff&}The most boring one\N
+Dialogue: 0,0:13:26.23,0:13:28.04,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}The plastic spin top?\N
+Dialogue: 0,0:13:26.23,0:13:28.04,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}The simple guy huh\N
+Dialogue: 0,0:13:28.04,0:13:29.74,Default,,0,0,0,,{\pos(680,198)\c&H00ff00&}A simple guy\N
+Dialogue: 0,0:13:29.74,0:13:31.37,Default,,0,0,0,,{\pos(360,198)\c&H00ffff&}Such an unimportant guy\N
+Dialogue: 0,0:13:29.74,0:13:31.37,Default,,0,0,0,,{\pos(306,278)\c&H00ff00&}The cheap one\N
+Dialogue: 0,0:13:31.37,0:13:33.71,Default,,0,0,0,,{\pos(466,198)\c&H00ffff&}Haha, That's right\N
+Dialogue: 0,0:13:33.71,0:13:36.08,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}The wife is laughing like crazy\N
+Dialogue: 0,0:13:37.95,0:13:40.88,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}We had like songs too right?\N
+Dialogue: 0,0:13:40.88,0:13:42.55,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Songs?\N
+Dialogue: 0,0:13:40.88,0:13:42.55,Default,,0,0,0,,{\pos(466,558)}However...\N
+Dialogue: 0,0:13:42.55,0:13:44.75,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}The song of the "Spin top third division"\N
+Dialogue: 0,0:13:44.75,0:13:49.66,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}You don't remember? You cold hearted jerk\N
+Dialogue: 0,0:13:49.66,0:13:52.60,Default,,0,0,0,,{\pos(440,478)\c&H00ffff&}♬The wood top is so kind \N
+Dialogue: 0,0:13:49.66,0:13:52.60,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}and iron is always smiling♬\N
+Dialogue: 0,0:13:55.33,0:14:00.74,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}♬And the plastic top is so poor♬\N
+Dialogue: 0,0:14:00.74,0:14:02.27,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Hahahaha!\N
+Dialogue: 0,0:14:02.27,0:14:05.84,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Am I right? Morioka, you must remember\N
+Dialogue: 0,0:14:02.27,0:14:05.84,Default,,0,0,0,,{\pos(760,558)}Hearing it now,\N
+Dialogue: 0,0:14:05.84,0:14:09.71,Default,,0,0,0,,{\pos(280,478)}I remembered a little bit\N
+Dialogue: 0,0:14:05.84,0:14:09.71,Default,,0,0,0,,{\pos(306,558)}But I can't say I remember anything\N
+Dialogue: 0,0:14:09.71,0:14:11.78,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}You sure do remember a lot\N
+Dialogue: 0,0:14:11.78,0:14:14.75,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}How come is it\N
+Dialogue: 0,0:14:11.78,0:14:14.75,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}that you, such a quiet guy\N
+Dialogue: 0,0:14:14.75,0:14:17.22,Default,,0,0,0,,{\pos(360,478)\c&H00ff00&}joined Matsumoto's group?\N
+Dialogue: 0,0:14:17.22,0:14:21.53,Default,,0,0,0,,{\pos(280,478)}Through grade and middle school\N
+Dialogue: 0,0:14:17.22,0:14:21.53,Default,,0,0,0,,{\pos(333,558)}It was always us 3 together...\N
+Dialogue: 0,0:14:21.53,0:14:23.46,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}Yeah we were somehow together\N
+Dialogue: 0,0:14:23.46,0:14:26.73,Default,,0,0,0,,{\pos(413,478)}And we often went to Ito's\N
+Dialogue: 0,0:14:23.46,0:14:26.73,Default,,0,0,0,,{\pos(440,558)}house and play...\N
+Dialogue: 0,0:14:26.73,0:14:30.44,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Listen, Morioka was not a guy who\N
+Dialogue: 0,0:14:26.73,0:14:30.44,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}shared his feelings a lot\N
+Dialogue: 0,0:14:30.44,0:14:34.54,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}So you were tagging along, right?\N
+Dialogue: 0,0:14:30.44,0:14:34.54,Default,,0,0,0,,{\pos(546,558)}Uhm...\N
+Dialogue: 0,0:14:34.54,0:14:37.94,Default,,0,0,0,,{\pos(466,478)}Well, I was lonely so...\N
+Dialogue: 0,0:14:34.54,0:14:37.94,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Lonely?\N
+Dialogue: 0,0:14:37.94,0:14:41.75,Default,,0,0,0,,{\pos(333,478)\c&H00ff00&}I'm gonna cry\N
+Dialogue: 0,0:14:37.94,0:14:41.75,Default,,0,0,0,,{\c&H00ff00&\pos(166,558)}Tears might be coming out at any moment\N
+Dialogue: 0,0:14:41.75,0:14:45.58,Default,,0,0,0,,{\pos(493,478)\c&H00ff00&}What's up with that? Suddenly...\N
+Dialogue: 0,0:14:41.75,0:14:45.58,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Well regarding that...\N
+Dialogue: 0,0:14:45.58,0:14:48.35,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Us 3 did manzai quite often\N
+Dialogue: 0,0:14:48.35,0:14:51.06,Default,,0,0,0,,{\pos(440,478)\c&H00ffff&}and we were killing it too\N
+Dialogue: 0,0:14:48.35,0:14:51.06,Default,,0,0,0,,{\pos(280,558)\c&H00ff00&}Where did you guys perform manzai?\N
+Dialogue: 0,0:14:51.06,0:14:54.83,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}Well at like, christmas meetings\N
+Dialogue: 0,0:14:51.06,0:14:54.83,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}and when there were other various assemblies\N
+Dialogue: 0,0:14:54.83,0:14:59.93,Default,,0,0,0,,{\c&H00ffff&\pos(218,478)}and because we did manzai in our own special way\N
+Dialogue: 0,0:14:54.83,0:14:59.93,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}we often killed it\N
+Dialogue: 0,0:14:59.93,0:15:02.00,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}At times, me and Ito\N
+Dialogue: 0,0:15:02.00,0:15:05.51,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}were often thinking\N
+Dialogue: 0,0:15:02.00,0:15:05.51,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}do we even need Morioka?\N
+Dialogue: 0,0:15:05.51,0:15:08.78,Default,,0,0,0,,{\c&H00ffff&\pos(36,198)}Because it was only the two of us who thought out the sketches\N
+Dialogue: 0,0:15:08.78,0:15:10.58,Default,,0,0,0,,{\pos(333,198)\c&H00ffff&}and sometimes only us two speaking\N
+Dialogue: 0,0:15:10.58,0:15:12.71,Default,,0,0,0,,{\pos(333,198)\c&H00ffff&}So Morioka didn't do much\N
+Dialogue: 0,0:15:12.71,0:15:14.82,Default,,0,0,0,,{\pos(253,198)\c&H00ffff&}and we thought let's do it without him then\N
+Dialogue: 0,0:15:14.82,0:15:17.62,Default,,0,0,0,,{\pos(253,198)\c&H00ffff&}That one time we did it without him\N
+Dialogue: 0,0:15:17.62,0:15:20.86,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}was a complete disaster, we bombed\N
+Dialogue: 0,0:15:17.62,0:15:20.86,Default,,0,0,0,,{\pos(840,558)\c&H00ff00&}Wow!\N
+Dialogue: 0,0:15:20.86,0:15:27.66,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}So at that time, we thought "We DO need him"\N
+Dialogue: 0,0:15:20.86,0:15:27.66,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}With this type of "Morioka" being with us\N
+Dialogue: 0,0:15:27.66,0:15:30.07,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}We figured out the balance\N
+Dialogue: 0,0:15:27.66,0:15:30.07,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Ah, I see\N
+Dialogue: 0,0:15:30.07,0:15:33.87,Default,,0,0,0,,{\c&H00ffff&\pos(80,478)}Me and Ito always wanted to mess around with each other\N
+Dialogue: 0,0:15:30.07,0:15:33.87,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}It was very brash\N
+Dialogue: 0,0:15:33.87,0:15:37.44,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}I get it\N
+Dialogue: 0,0:15:33.87,0:15:37.44,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}and we were just freaking wasting time\N
+Dialogue: 0,0:15:37.44,0:15:41.31,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}Isn't noticing that in 4th grade\N
+Dialogue: 0,0:15:37.44,0:15:41.31,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}amazing?\N
+Dialogue: 0,0:15:41.31,0:15:43.35,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Yeah it is\N
+Dialogue: 0,0:15:41.31,0:15:43.35,Default,,0,0,0,,{\pos(893,558)\c&H00ff00&}Very harsh\N
+Dialogue: 0,0:15:43.35,0:15:45.05,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}So Morioka made it important\N
+Dialogue: 0,0:15:43.35,0:15:45.05,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}around that\N
+Dialogue: 0,0:15:45.05,0:15:47.22,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Yeah, exactly\N
+Dialogue: 0,0:15:45.05,0:15:47.22,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}Because of the balance\N
+Dialogue: 0,0:15:47.22,0:15:50.65,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Wow, that's interesting\N
+Dialogue: 0,0:15:50.65,0:15:52.96,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}If that didn't happen\N
+Dialogue: 0,0:15:50.65,0:15:52.96,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}You probably wouldn't have made it would you\N
+Dialogue: 0,0:15:52.96,0:15:56.06,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}Exactly, that you're right.\N
+Dialogue: 0,0:15:52.96,0:15:56.06,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}Morioka, are you even listening?\N
+Dialogue: 0,0:15:56.06,0:15:58.26,Default,,0,0,0,,{\pos(786,398)}Yes sir, I'm listening\N
+Dialogue: 0,0:15:58.26,0:16:01.70,Default,,0,0,0,,{\pos(226,318)\c&Hffff00&}"Yes sir"\N
+Dialogue: 0,0:15:58.26,0:16:01.70,Default,,0,0,0,,{\pos(226,398)\c&H00ffff&}Why the hell are you being so polite?\N
+Dialogue: 0,0:16:02.13,0:16:06.40,Default,,0,0,0,,{\pos(493,478)\c&H00ffff&}Morioka is just...\N
+Dialogue: 0,0:16:02.13,0:16:06.40,Default,,0,0,0,,{\pos(466,558)\c&H00ff00&}It's like you guys are brothers...\N
+Dialogue: 0,0:16:07.87,0:16:10.88,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Classmates, right?\N
+Dialogue: 0,0:16:07.87,0:16:10.88,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}It's because you're former partners\N
+Dialogue: 0,0:16:10.88,0:16:13.18,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Yeah he's a good guy though right?\N
+Dialogue: 0,0:16:13.18,0:16:15.81,Default,,0,0,0,,{\pos(573,478)}Yes.. he is\N
+Dialogue: 0,0:16:13.18,0:16:15.81,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}Right?\N
+Dialogue: 0,0:16:15.81,0:16:20.02,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Hey, your wife is saying kind things about you\N
+Dialogue: 0,0:16:20.02,0:16:26.19,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}I'm glad all siblings are alive and happy\N
+Dialogue: 0,0:16:26.19,0:16:29.76,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}It sure is good\N
+Dialogue: 0,0:16:26.19,0:16:29.76,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Absolutely\N
+Dialogue: 0,0:16:29.76,0:16:33.50,Default,,0,0,0,,{\pos(226,598)\c&H00ff00&}It's a little...\N
+Dialogue: 0,0:16:29.76,0:16:33.50,Default,,0,0,0,,{\pos(253,678)\c&H00ff00&}What's up with this atmosphere?\N
+Dialogue: 0,0:16:33.50,0:16:36.60,Default,,0,0,0,,{\pos(226,598)\c&H00ff00&}Anything you remember,\N
+Dialogue: 0,0:16:33.50,0:16:36.60,Default,,0,0,0,,{\pos(253,678)\c&H00ff00&}Don't you have any memories of\N
+Dialogue: 0,0:16:36.60,0:16:38.64,Default,,0,0,0,,{\pos(440,478)\c&H00ff00&}Matsumoto?\N
+Dialogue: 0,0:16:36.60,0:16:38.64,Default,,0,0,0,,{\pos(333,558)}Plenty of them\N
+Dialogue: 0,0:16:38.64,0:16:42.07,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Morioka, did you like me?\N
+Dialogue: 0,0:16:38.64,0:16:42.07,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Oh, that's a good one\N
+Dialogue: 0,0:16:42.07,0:16:44.04,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}To begin with\N
+Dialogue: 0,0:16:42.07,0:16:44.04,Default,,0,0,0,,{\pos(493,558)}I liked you from the start...\N
+Dialogue: 0,0:16:44.04,0:16:47.35,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Really? I thought I was disliked though\N
+Dialogue: 0,0:16:47.35,0:16:50.45,Default,,0,0,0,,{\pos(226,558)}I don't think you remember but,\N
+Dialogue: 0,0:16:50.45,0:16:53.82,Default,,0,0,0,,{\pos(520,558)}When we were in kindergarden...\N
+Dialogue: 0,0:16:53.82,0:16:58.09,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Yeah we were in kindergarden together\N
+Dialogue: 0,0:16:53.82,0:16:58.09,Default,,0,0,0,,{\pos(306,558)}Together yeah, and I had to hop off midstream\N
+Dialogue: 0,0:16:58.09,0:17:01.66,Default,,0,0,0,,{\pos(493,478)}And then at the kindergarden's...\N
+Dialogue: 0,0:16:58.09,0:17:01.66,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}He just said he had to hop off kindergarden,\N
+Dialogue: 0,0:17:01.66,0:17:04.80,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}Isn't that amazing?\N
+Dialogue: 0,0:17:01.66,0:17:04.80,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}Completely cause of economic reasons..\N
+Dialogue: 0,0:17:04.80,0:17:06.77,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Well I guess that's how it was\N
+Dialogue: 0,0:17:06.77,0:17:11.24,Default,,0,0,0,,{\pos(360,478)\c&H00ffff&}Right, Morioka?\N
+Dialogue: 0,0:17:06.77,0:17:11.24,Default,,0,0,0,,{\pos(253,558)}So I quit midstream... and then I\N
+Dialogue: 0,0:17:11.24,0:17:14.38,Default,,0,0,0,,{\pos(466,478)}was always waiting outside\N
+Dialogue: 0,0:17:11.24,0:17:14.38,Default,,0,0,0,,{\pos(493,558)}the school gate\N
+Dialogue: 0,0:17:14.38,0:17:19.78,Default,,0,0,0,,{\pos(280,478)}And then,\N
+Dialogue: 0,0:17:14.38,0:17:19.78,Default,,0,0,0,,{\pos(306,558)}I heard macchan call for me\N
+Dialogue: 0,0:17:19.78,0:17:22.18,Default,,0,0,0,,{\pos(466,558)}And then..kind of..from there\N
+Dialogue: 0,0:17:24.92,0:17:27.96,Default,,0,0,0,,{\pos(360,558)}we started talking..\N
+Dialogue: 0,0:17:27.96,0:17:30.53,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Huh?\N
+Dialogue: 0,0:17:27.96,0:17:30.53,Default,,0,0,0,,{\pos(520,558)}That's the first\N
+Dialogue: 0,0:17:30.53,0:17:32.76,Default,,0,0,0,,{\pos(158,478)}You can call it the first time we started hanging out\N
+Dialogue: 0,0:17:30.53,0:17:32.76,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}I don't really get it but,\N
+Dialogue: 0,0:17:32.76,0:17:36.83,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}It feels like I'm starting to cry\N
+Dialogue: 0,0:17:32.76,0:17:36.83,Default,,0,0,0,,{\c&H00ff00&\pos(305.333,558)}Makes you want to cry all of a sudden right?\N
+Dialogue: 0,0:17:36.83,0:17:39.00,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Oh, here it is!\N
+Dialogue: 0,0:17:39.00,0:17:41.20,Default,,0,0,0,,{\pos(306,558)}Wow, that looks amazing\N
+Dialogue: 0,0:17:41.20,0:17:44.94,Default,,0,0,0,,{\pos(333,558)\c&H00ff00&}Right after the story; "Shhuuwaa"\N
+Dialogue: 0,0:17:44.94,0:17:46.88,Default,,0,0,0,,{\pos(546,558)\c&H00ff00&}This looks so delicious!\N
+Dialogue: 0,0:17:46.88,0:17:49.31,Default,,0,0,0,,{\c&H00ff00&\pos(503.333,478)}So you...\N
+Dialogue: 0,0:17:46.88,0:17:49.31,Default,,0,0,0,,{\c&H00ff00&\pos(522.333,558)}You remember something like that?\N
+Dialogue: 0,0:17:49.31,0:17:52.08,Default,,0,0,0,,{\pos(386,478)\c&H00ff00&}One doesn't really have many\N
+Dialogue: 0,0:17:49.31,0:17:52.08,Default,,0,0,0,,{\pos(413,558)\c&H00ff00&}memories from kindergarden\N
+Dialogue: 0,0:17:52.08,0:17:54.75,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}Was that the earliest memory you have?\N
+Dialogue: 0,0:17:54.75,0:17:58.42,Default,,0,0,0,,{\pos(386,478)}Yeah the earliest...\N
+Dialogue: 0,0:17:54.75,0:17:58.42,Default,,0,0,0,,{\pos(413,558)}That voice, calling for me\N
+Dialogue: 0,0:17:58.42,0:18:02.43,Default,,0,0,0,,{\pos(360,478)}Made me very happy...\N
+Dialogue: 0,0:17:58.42,0:18:02.43,Default,,0,0,0,,{\pos(280,558)}That's why I have no trouble remembering it now\N
+Dialogue: 0,0:18:02.43,0:18:04.83,Default,,0,0,0,,{\pos(386,478)}I think of it sometimes\N
+Dialogue: 0,0:18:02.43,0:18:04.83,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}So that's how it is, I guess I did do that.\N
+Dialogue: 0,0:18:04.83,0:18:06.90,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}You think of it sometimes?\N
+Dialogue: 0,0:18:06.90,0:18:09.47,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}I guess I did that...\N
+Dialogue: 0,0:18:06.90,0:18:09.47,Default,,0,0,0,,{\pos(546,558)\c&Hffff00&}Remarkable\N
+Dialogue: 0,0:18:09.47,0:18:12.47,Default,,0,0,0,,{\pos(520,478)}Calling out for me..\N
+Dialogue: 0,0:18:09.47,0:18:12.47,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}What a great story\N
+Dialogue: 0,0:18:12.47,0:18:16.37,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Morioka might actually be\N
+Dialogue: 0,0:18:12.47,0:18:16.37,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}my first ever friend\N
+Dialogue: 0,0:18:16.37,0:18:19.11,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}Am i right?\N
+Dialogue: 0,0:18:19.11,0:18:22.01,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}It was like that for him\N
+Dialogue: 0,0:18:19.11,0:18:22.01,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}and same for me\N
+Dialogue: 0,0:18:22.01,0:18:25.89,Default,,0,0,0,,{\pos(333,478)}We were in the same class\N
+Dialogue: 0,0:18:22.01,0:18:25.89,Default,,0,0,0,,{\pos(298,558)}all the way from grade school to 6th grade so...\N
+Dialogue: 0,0:18:25.89,0:18:28.75,Default,,0,0,0,,{\pos(253,478)\c&H00ffff&}Yeah yeah yeah\N
+Dialogue: 0,0:18:25.89,0:18:28.75,Default,,0,0,0,,{\pos(280,558)\c&H00ffff&}It's unbelievable we were in the same class\N
+Dialogue: 0,0:18:28.75,0:18:32.56,Default,,0,0,0,,{\pos(226,478)\c&H00ffff&}Me and Hamada never ended up in\N
+Dialogue: 0,0:18:28.75,0:18:32.56,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}the same class. Not even once\N
+Dialogue: 0,0:18:32.56,0:18:35.93,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}It was a wonder.\N
+Dialogue: 0,0:18:32.56,0:18:35.93,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}There were only 3 classes you know\N
+Dialogue: 0,0:18:35.93,0:18:38.30,Default,,0,0,0,,{\pos(466,598)\c&Hffff00&}What an amazing story\N
+Dialogue: 0,0:18:35.93,0:18:38.30,Default,,0,0,0,,{\pos(360,678)\c&H00ffff&}Especially during 4th and 5th grade\N
+Dialogue: 0,0:18:38.30,0:18:40.37,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}We became 2 classes right?\N
+Dialogue: 0,0:18:38.30,0:18:40.37,Default,,0,0,0,,{\pos(386,678)}Exactly\N
+Dialogue: 0,0:18:40.37,0:18:42.57,Default,,0,0,0,,{\pos(280,598)\c&H00ffff&}Despite that,\N
+Dialogue: 0,0:18:40.37,0:18:42.57,Default,,0,0,0,,{\pos(306,678)\c&H00ffff&}Me and Hamada didn't end up in the same one\N
+Dialogue: 0,0:18:42.57,0:18:47.34,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}unfortunately. However, with Morioka\N
+Dialogue: 0,0:18:42.57,0:18:47.34,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}we were ALWAYS together\N
+Dialogue: 0,0:18:47.34,0:18:51.05,Default,,0,0,0,,{\c&H00ffff&\pos(221.333,478)}But if you add it all up\N
+Dialogue: 0,0:18:47.34,0:18:51.05,Default,,0,0,0,,{\c&H00ffff&\pos(278,558)}we've probably talked for 20 minutes all together\N
+Dialogue: 0,0:18:51.05,0:18:54.42,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}That's short! Shorter than now\N
+Dialogue: 0,0:18:51.05,0:18:54.42,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}It must have been longer\N
+Dialogue: 0,0:18:54.42,0:18:56.98,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}A lot longer...\N
+Dialogue: 0,0:18:54.42,0:18:56.98,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}You remember a lot\N
+Dialogue: 0,0:18:56.98,0:19:01.16,Default,,0,0,0,,{\pos(306,478)\c&H00ff00&}Morioka, What is this?\N
+Dialogue: 0,0:18:56.98,0:19:01.16,Default,,0,0,0,,{\pos(333,558)}It's fried seafood rice\N
+Dialogue: 0,0:19:01.16,0:19:03.16,Default,,0,0,0,,{\pos(546,558)\c&H00ff00&}Fried rice (Scorched rice)\N
+Dialogue: 0,0:19:05.19,0:19:08.80,Default,,0,0,0,,{\c&H00ffff&\pos(345,476.667)}You're obsessed with it\N
+Dialogue: 0,0:19:05.19,0:19:08.80,Default,,0,0,0,,{\pos(413,558)\c&H00ff00&}My thinking is just different\N
+Dialogue: 0,0:19:12.30,0:19:14.34,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Oh wow\N
+Dialogue: 0,0:19:14.34,0:19:17.44,Default,,0,0,0,,{\pos(386,478)\c&H00ffff&}You've done well Morioka\N
+Dialogue: 0,0:19:14.34,0:19:17.44,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Delicious\N
+Dialogue: 0,0:19:19.68,0:19:22.04,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}So good\N
+Dialogue: 0,0:19:22.04,0:19:24.41,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}You've done very well\N
+Dialogue: 0,0:19:22.04,0:19:24.41,Default,,0,0,0,,{\pos(626,558)}Hahaha\N
+Dialogue: 0,0:19:24.41,0:19:27.12,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}It's seriously what I think, You've done well\N
+Dialogue: 0,0:19:28.62,0:19:31.99,Default,,0,0,0,,{\pos(680,478)\c&H00ff00&}It's really good!\N
+Dialogue: 0,0:19:28.62,0:19:31.99,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}It's crazy good\N
+Dialogue: 0,0:19:31.99,0:19:35.99,Default,,0,0,0,,{\pos(653,478)\c&H00ff00&}The fried rice is also delicious\N
+Dialogue: 0,0:19:31.99,0:19:35.99,Default,,0,0,0,,{\pos(253,558)\c&H00ffff&}So you can make stuff like this, huh!\N
+Dialogue: 0,0:19:37.96,0:19:41.37,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Cause he's a master chef\N
+Dialogue: 0,0:19:37.96,0:19:41.37,Default,,0,0,0,,{\pos(226,558)\c&H00ffff&}Yeah\N
+Dialogue: 0,0:19:41.63,0:19:45.64,Default,,0,0,0,,{\c&Hffff00&\pos(226,476.667)}So how about,\N
+Dialogue: 0,0:19:41.63,0:19:45.64,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}Matsumoto's girlfriends...\N
+Dialogue: 0,0:19:45.64,0:19:49.34,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}Do you know any\N
+Dialogue: 0,0:19:45.64,0:19:49.34,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}moments when he had one?\N
+Dialogue: 0,0:19:49.34,0:19:54.25,Default,,0,0,0,,{\pos(253,558)}3rd year of middle school, in the recording room\N
+Dialogue: 0,0:19:55.98,0:19:58.95,Default,,0,0,0,,{\pos(306,478)\c&H00ffff&}Oh that's right\N
+Dialogue: 0,0:19:55.98,0:19:58.95,Default,,0,0,0,,{\pos(333,558)\c&H00ffff&}You were also in that club right?\N
+Dialogue: 0,0:19:58.95,0:20:03.12,Default,,0,0,0,,{\pos(386,478)}So yeah, when I was\N
+Dialogue: 0,0:19:58.95,0:20:03.12,Default,,0,0,0,,{\pos(440,558)}in the recording room\N
+Dialogue: 0,0:20:03.12,0:20:07.76,Default,,0,0,0,,{\pos(386,478)}You guys together, Hamada and yourself\N
+Dialogue: 0,0:20:03.12,0:20:07.76,Default,,0,0,0,,{\pos(413,558)}went in there and\N
+Dialogue: 0,0:20:07.76,0:20:10.10,Default,,0,0,0,,{\pos(466,478)}told me to go out for a moment\N
+Dialogue: 0,0:20:10.10,0:20:12.70,Default,,0,0,0,,{\pos(398,478)}And said, we're gonna do some confessing\N
+Dialogue: 0,0:20:10.10,0:20:12.70,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Confessing?\N
+Dialogue: 0,0:20:12.70,0:20:17.04,Default,,0,0,0,,{\pos(278.333,478)}Soon after\N
+Dialogue: 0,0:20:12.70,0:20:17.04,Default,,0,0,0,,{\pos(258.667,558)}the girls came in and they were "confessing"...\N
+Dialogue: 0,0:20:17.04,0:20:19.04,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}What the?\N
+Dialogue: 0,0:20:17.04,0:20:19.04,Default,,0,0,0,,{\pos(680,558)}Huh?\N
+Dialogue: 0,0:20:19.04,0:20:21.41,Default,,0,0,0,,{\pos(893,558)\c&H00ff00&}Hm?\N
+Dialogue: 0,0:20:21.41,0:20:24.78,Default,,0,0,0,,{\pos(226,558)}Then after a few minutes they came out\N
+Dialogue: 0,0:20:24.78,0:20:27.95,Default,,0,0,0,,{\pos(333,558)}and when I asked how it went\N
+Dialogue: 0,0:20:27.95,0:20:31.58,Default,,0,0,0,,{\pos(466,478)}I could tell on their faces that\N
+Dialogue: 0,0:20:27.95,0:20:31.58,Default,,0,0,0,,{\pos(493,558)}they were blushing and then\N
+Dialogue: 0,0:20:31.58,0:20:36.32,Default,,0,0,0,,{\pos(110,558)} they both told me "I guess it was okay!"\N
+Dialogue: 0,0:20:36.32,0:20:39.99,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}Seriously,\N
+Dialogue: 0,0:20:36.32,0:20:39.99,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}couldn't you tell that story a little better?\N
+Dialogue: 0,0:20:43.66,0:20:46.17,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}We want to talk about things\N
+Dialogue: 0,0:20:43.66,0:20:46.17,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}appropriate for the episode though\N
+Dialogue: 0,0:20:46.17,0:20:49.70,Default,,0,0,0,,{\pos(360,478)\c&H00ffff&}Yeah so,\N
+Dialogue: 0,0:20:46.17,0:20:49.70,Default,,0,0,0,,{\pos(386,558)\c&H00ffff&}It was like a double date\N
+Dialogue: 0,0:20:49.70,0:20:53.78,Default,,0,0,0,,{\pos(280,478)\c&H00ffff&}With Hamada...That's\N
+Dialogue: 0,0:20:49.70,0:20:53.78,Default,,0,0,0,,{\pos(306,558)\c&H00ffff&}actually related to that park ya know\N
+Dialogue: 0,0:20:53.78,0:20:57.05,Default,,0,0,0,,{\pos(466,478)\c&H00ffff&}The Amagasaki one\N
+Dialogue: 0,0:20:53.78,0:20:57.05,Default,,0,0,0,,{\pos(466,558)\c&H00ff00&}Oh right! Your first kiss\N
+Dialogue: 0,0:20:57.05,0:21:02.95,Default,,0,0,0,,{\pos(546,478)\c&H00ff00&}Wow\N
+Dialogue: 0,0:20:57.05,0:21:02.95,Default,,0,0,0,,{\pos(360,558)\c&Hffff00&}That's some amazing history\N
+Dialogue: 0,0:21:02.95,0:21:08.09,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}You were kind of a late bloomer right?\N
+Dialogue: 0,0:21:02.95,0:21:08.09,Default,,0,0,0,,{\pos(493,678)}Uhm yes.. around that time\N
+Dialogue: 0,0:21:08.09,0:21:10.89,Default,,0,0,0,,{\pos(333,598)}however,\N
+Dialogue: 0,0:21:08.09,0:21:10.89,Default,,0,0,0,,{\pos(360,678)}I actually did date some girls though\N
+Dialogue: 0,0:21:10.89,0:21:13.76,Default,,0,0,0,,{\pos(520,678)\c&H00ffff&}HUH!?\N
+Dialogue: 0,0:21:13.76,0:21:17.67,Default,,0,0,0,,{\pos(226,598)\c&Hffff00&}So you were hiding it?\N
+Dialogue: 0,0:21:13.76,0:21:17.67,Default,,0,0,0,,{\pos(333,678)}No I wasn't hiding it but...\N
+Dialogue: 0,0:21:17.67,0:21:20.14,Default,,0,0,0,,{\pos(285,678)}It was a senior from the same broadcasting club\N
+Dialogue: 0,0:21:20.14,0:21:22.41,Default,,0,0,0,,{\pos(493,678)\c&H00ffff&}Wait!\N
+Dialogue: 0,0:21:23.91,0:21:26.08,Default,,0,0,0,,{\pos(733,598)\c&H00ff00&}Did you know about this?\N
+Dialogue: 0,0:21:23.91,0:21:26.08,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}You didn't know?\N
+Dialogue: 0,0:21:26.08,0:21:30.15,Default,,0,0,0,,{\pos(360,678)\c&H00ffff&}Dang he's a player...\N
+Dialogue: 0,0:21:31.62,0:21:34.42,Default,,0,0,0,,{\pos(226,598)\c&H00ff00&}{\fade(0,400}Morioka, were you really?\N
+Dialogue: 0,0:21:31.62,0:21:34.42,Default,,0,0,0,,{\pos(226,678)\c&H00ffff&}{\fade(0,400}So freaking much\N
+Dialogue: 0,0:21:35.79,0:21:37.96,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}Oh so this is from middle school\N
+Dialogue: 0,0:21:35.79,0:21:37.96,Default,,0,0,0,,{\pos(534,678)}This is from the middle school years\N
+Dialogue: 0,0:21:37.96,0:21:40.59,Default,,0,0,0,,{\pos(226,598)\c&Hffff00&}Wow, it's well kept\N
+Dialogue: 0,0:21:40.59,0:21:43.13,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}Wow,\N
+Dialogue: 0,0:21:40.59,0:21:43.13,Default,,0,0,0,,{\pos(253,678)\c&H00ffff&}I also have this in my house but\N
+Dialogue: 0,0:21:43.13,0:21:46.50,Default,,0,0,0,,{\pos(360,678)\c&H00ffff&}I don't really look in it\N
+Dialogue: 0,0:21:46.50,0:21:48.40,Default,,0,0,0,,{\pos(466,558)}So the, broadcasting club\N
+Dialogue: 0,0:21:48.40,0:21:51.77,Default,,0,0,0,,{\pos(760,478)\c&H00ff00&}Ah the club\N
+Dialogue: 0,0:21:48.40,0:21:51.77,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}It's right here, the broadcasting club\N
+Dialogue: 0,0:21:51.77,0:21:54.51,Default,,0,0,0,,{\pos(440,478)\c&H00ffff&}Ito, Myself and Hamada here\N
+Dialogue: 0,0:21:51.77,0:21:54.51,Default,,0,0,0,,{\pos(706,558)\c&H00ff00&}Oh wow\N
+Dialogue: 0,0:21:54.51,0:21:56.84,Default,,0,0,0,,{\pos(466,558)}So the, broadcasting club\N
+Dialogue: 0,0:21:56.85,0:22:00.28,Default,,0,0,0,,{\pos(760,478)\c&H00ff00&}Ah the club\N
+Dialogue: 0,0:21:56.84,0:22:00.28,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}It's right here, the broadcasting club\N
+Dialogue: 0,0:22:00.31,0:22:04.45,Default,,0,0,0,,{\pos(440,478)\c&H00ffff&}Ito, Myself and Hamada here\N
+Dialogue: 0,0:22:00.31,0:22:04.45,Default,,0,0,0,,{\pos(706,558)\c&H00ff00&}Oh wow\N
+Dialogue: 0,0:22:06.55,0:22:09.82,Default,,0,0,0,,{\pos(306,598)\c&H00ffff&}And here's Hayashi-sensei\N
+Dialogue: 0,0:22:06.55,0:22:09.82,Default,,0,0,0,,{\pos(333,678)\c&H00ffff&}who was in charge of Hamada\N
+Dialogue: 0,0:22:09.82,0:22:13.26,Default,,0,0,0,,{\pos(680,598)}Right right\N
+Dialogue: 0,0:22:09.82,0:22:13.26,Default,,0,0,0,,{\pos(226,678)\c&H00ffff&}And during the 3rd year\N
+Dialogue: 0,0:22:13.26,0:22:16.43,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}When we had to start worrying about our\N
+Dialogue: 0,0:22:13.26,0:22:16.43,Default,,0,0,0,,{\pos(253,678)\c&H00ffff&}high school applications\N
+Dialogue: 0,0:22:16.43,0:22:22.17,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}This teacher here went to Hamada\N
+Dialogue: 0,0:22:16.43,0:22:22.17,Default,,0,0,0,,{\c&H00ffff&\pos(45,678)}and said "you should worry about brushing your teeth instead"\N
+Dialogue: 0,0:22:22.87,0:22:27.04,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}High school is out of your league,\N
+Dialogue: 0,0:22:22.87,0:22:27.04,Default,,0,0,0,,{\pos(253,678)\c&H00ffff&}you hobo\N
+Dialogue: 0,0:22:27.04,0:22:30.41,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}Are you really taking care of your hygiene properly?\N
+Dialogue: 0,0:22:27.04,0:22:30.41,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}Hahaha!\N
+Dialogue: 0,0:22:30.41,0:22:33.38,Default,,0,0,0,,{\pos(226,598)\c&Hffff00&}What kind of inspection is that?\N
+Dialogue: 0,0:22:30.41,0:22:33.38,Default,,0,0,0,,{\pos(226,678)\c&H00ff00&}What does that mean?\N
+Dialogue: 0,0:22:33.38,0:22:37.32,Default,,0,0,0,,{\pos(226,598)\c&H00ffff&}Anyway,\N
+Dialogue: 0,0:22:33.38,0:22:37.32,Default,,0,0,0,,{\c&H00ffff&\pos(183,678)}Morioka's personality is really shining through isn't it\N
+Dialogue: 0,0:22:37.32,0:22:40.29,Default,,0,0,0,,{\pos(226,598)\c&Hffff00&}Just like you told us, It's really...\N
+Dialogue: 0,0:22:37.32,0:22:40.29,Default,,0,0,0,,{\pos(226,678)\c&H00ff00&}Really showing through\N
+Dialogue: 0,0:22:40.29,0:22:43.16,Default,,0,0,0,,{\pos(386,598)\c&H00ffff&}When everybody were done with \N
+Dialogue: 0,0:22:40.29,0:22:43.16,Default,,0,0,0,,{\pos(413,678)\c&H00ffff&}their snacks and threw them away\N
+Dialogue: 0,0:22:43.16,0:22:46.43,Default,,0,0,0,,{\c&H00ffff&\pos(188,678)}You picked them up again and ate them didn't you\N
+Dialogue: 0,0:22:46.56,0:22:49.50,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}This has been really successful\N
+Dialogue: 0,0:22:49.50,0:22:52.77,Default,,0,0,0,,{\pos(493,598)\c&H00ff00&}With this good food,\N
+Dialogue: 0,0:22:49.50,0:22:52.77,Default,,0,0,0,,{\pos(520,678)\c&H00ff00&}It was really delicious\N
+Dialogue: 0,0:22:52.77,0:22:55.07,Default,,0,0,0,,{\c&H00ff00&\pos(314,598)}and that you got to meet him after all this time\N
+Dialogue: 0,0:22:52.77,0:22:55.07,Default,,0,0,0,,{\pos(440,678)\c&H00ffff&}Thank you\N
+Dialogue: 0,0:22:55.07,0:22:56.74,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}How about taking a commemorative photo\N
+Dialogue: 0,0:22:56.74,0:22:58.37,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}The long-awaited...\N
+Dialogue: 0,0:22:56.74,0:22:58.37,Default,,0,0,0,,{\pos(733,558)\c&H00ff00&}Let's do it\N
+Dialogue: 0,0:22:58.37,0:23:00.41,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Alright I'm taking one,\N
+Dialogue: 0,0:22:58.37,0:23:00.41,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}wow, that peace sign...\N
+Dialogue: 0,0:23:00.41,0:23:04.01,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}Okay, going now, smile!\N
+Dialogue: 0,0:23:00.41,0:23:04.01,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}That was a good one!\N
+Dialogue: 0,0:23:04.01,0:23:06.42,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}Oh my\N
+Dialogue: 0,0:23:06.42,0:23:08.85,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}This time was good\N
+Dialogue: 0,0:23:06.42,0:23:08.85,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}Definitely\N
+Dialogue: 0,0:23:10.19,0:23:13.36,Default,,0,0,0,,{\pos(413,598)\c&H00ffff&}♬The wood top is so kind\N
+Dialogue: 0,0:23:10.19,0:23:13.36,Default,,0,0,0,,{\pos(440,678)\c&H00ffff&}and iron is always smiling\N
+Dialogue: 0,0:23:15.39,0:23:21.43,Default,,0,0,0,,{\pos(280,678)\c&H00ffff&}...And the plastic top is so poor♬\N
+Dialogue: 0,0:23:21.80,0:23:24.57,Default,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\b1\fscx70\fscy76\pos(308.001,235.999)}Next time\N{\b0}
+Dialogue: 0,0:23:21.80,0:23:24.57,Default,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\b1\fscx82\fscy90\pos(446.667,284)}Let's head to drunken crab island!\N{\b0}
+

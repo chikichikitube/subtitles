@@ -1,0 +1,346 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 11
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki no Tsukai #0776 (2005.10.09) - Unseen footage High School Batsu Game.avi
+Video File: Gaki no Tsukai #0776 (2005.10.09) - Unseen footage High School Batsu Game.avi
+Video AR Mode: 4
+Video AR Value: 1.333333
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: BIG,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Medium,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Yamasaki,Arial,30,&H00059802,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Endo,Arial,30,&H0000A5FA,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Matsumoto,Arial,30,&H000708B1,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Hamada,Arial,30,&H00FF5200,&H00FFFFFF,&H00FFFFFF,&H001A1A1A,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Tanaka,Arial,30,&H00B605A0,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Blue Fujiwara,Arial,30,&H00A77511,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1,3,2,10,10,10,1
+Style: black,Arial,25,&H00000100,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1,3,2,10,10,10,1
+Style: normal people,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: white  announcmend,Arial,26,&H00FEFEFE,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Talking over,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Girls,Arial,30,&H008900FF,&H000000FF,&H00F7D2FF,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\b1\c&H00B1FA&\3c&HE27C7A&\pos(170,34)}Subbed by: ShadiHD & Zurui{\b0}
+Dialogue: 0,0:00:00.00,0:00:05.07,Default,,0,0,0,,{\pos(536,40)}Color coding:
+Dialogue: 0,0:00:00.00,0:00:05.00,Matsumoto,,0,0,0,,{\pos(537,71)}Matsumoto
+Dialogue: 0,0:00:00.00,0:00:05.00,Yamasaki,,0,0,0,,{\pos(533,99)}Yamasaki
+Dialogue: 0,0:00:00.00,0:00:05.00,Endo,,0,0,0,,{\pos(509,126)}Endo
+Dialogue: 0,0:00:00.00,0:00:05.00,Tanaka,,0,0,0,,{\pos(523,156)}Tanaka
+Dialogue: 0,0:00:00.00,0:00:05.00,Hamada,,0,0,0,,{\pos(527,187)}Hamada
+Dialogue: 0,0:00:00.00,0:00:05.00,Blue Fujiwara,,0,0,0,,{\pos(530,213)}Fujiwara
+Dialogue: 0,0:00:01.07,0:00:05.97,Hamada,,0,0,0,,{\pos(320,477)}Welcome to Gaki no tsukai Batsu game Special episode!
+Dialogue: 0,0:00:01.00,0:00:04.00,Yamasaki,,0,0,0,,{\fs36\b1\pos(314,349)}Downtown {\b0}
+Dialogue: 0,0:00:01.00,0:00:04.40,Default,,0,0,0,,{\b1\3c&HFF0000&\pos(327,407)}Matsumoto Hitoshi  {\b1}   Hamada Masatoshi{\b0}
+Dialogue: 0,0:00:06.00,0:00:09.00,Default,,0,0,0,,{\b1\3c&HFF0000&\pos(433,340)}Endo Shozo  {\b1}   Tanaka Naoki{\b0}
+Dialogue: 0,0:00:05.97,0:00:09.07,Default,,0,0,0,,{\b1\3c&HFF0000&\fs26\pos(426,309)}Cocorico{\b0}
+Dialogue: 0,0:00:05.97,0:00:09.00,Default,,0,0,0,,{\b1\3c&HFF0000&\pos(126,304)}Yamazaki Hosei  {\b1}
+Dialogue: 0,0:00:09.97,0:00:14.00,Hamada,,0,0,0,,We have a time issue, so this special won't include all of the material
+Dialogue: 0,0:00:14.00,0:00:23.00,Matsumoto,,0,0,0,,{\pos(312,460)}This was a 2 hour special but it still wasn't enough time for all of our punishments
+Dialogue: 0,0:00:15.89,0:00:16.89,Hamada,,0,0,0,,{\pos(321,396)}--Yeah
+Dialogue: 0,0:00:25.00,0:00:29.00,BIG,,0,0,0,,{\fs72\3c&H00FF00&\c&H0BC8D9&\pos(333,459)}Downtown\NGaki no Tsukai\Nya Arahende!!
+Dialogue: 0,0:00:37.00,0:00:39.00,BIG,,0,0,0,,{\c&H0BABD9&\b1\fs72\pos(320,250)}Don't laugh\N in\N High school {\b0}
+Dialogue: 0,0:00:36.97,0:00:40.00,Default,,0,0,0,,{\c&H0708B1&\3c&HFFFFFF&\b1\fs72\pos(336,414)}Never-seen before scenes!!{\b0}
+Dialogue: 0,0:00:40.00,0:00:42.88,black,,0,0,0,,{\pos(319,259)\fs48}Slippers Scene
+Dialogue: 0,0:00:45.39,0:00:47.39,Endo,,0,0,0,,We're entering!
+Dialogue: 0,0:00:45.88,0:00:46.88,Matsumoto,,0,0,0,,Here we go!
+Dialogue: 0,0:00:49.22,0:00:52.88,Talking over,,0,0,0,,They start the Batsu game where they must not laugh or get punished
+Dialogue: 0,0:00:54.02,0:00:58.02,Blue Fujiwara,,0,0,0,,So, whatcha ya think? you're going to be studying\N here, It's not bad, huh?
+Dialogue: 0,0:00:52.88,0:00:54.88,Talking over,,0,0,0,,We already seen this scene
+Dialogue: 0,0:00:56.58,0:00:58.88,Talking over,,0,0,0,,but then when they were heading to Morning Assembly...
+Dialogue: 0,0:01:02.11,0:01:03.11,black,,0,0,0,,Hey!
+Dialogue: 0,0:01:04.48,0:01:05.88,black,,0,0,0,,Why were you late?
+Dialogue: 0,0:01:06.20,0:01:08.20,normal people,,0,0,0,,My bicycle had a flat tire.
+Dialogue: 0,0:01:08.50,0:01:09.50,black,,0,0,0,,and you?
+Dialogue: 0,0:01:09.50,0:01:11.50,normal people,,0,0,0,,I overslept.
+Dialogue: 0,0:01:11.11,0:01:13.50,Endo,,0,0,0,,{\4c&HFFFFFF&\c&H000000&\fn\fs36\pos(319,434)}Gekidan Hitori \N(comedian)
+Dialogue: 0,0:01:15.00,0:01:16.30,black,,0,0,0,,Come closer
+Dialogue: 0,0:01:19.08,0:01:22.00,black,,0,0,0,,Why are YOU late?
+Dialogue: 0,0:01:21.00,0:01:26.00,normal people,,0,0,0,,My little sister got sick, so I took her to the hospital.
+Dialogue: 0,0:01:28.44,0:01:30.00,black,,0,0,0,,Why are you late?
+Dialogue: 0,0:01:31.22,0:01:33.00,normal people,,0,0,0,,My sister got sick a---
+Dialogue: 0,0:01:34.00,0:01:36.00,black,,0,0,0,,Why are you late?
+Dialogue: 0,0:01:36.00,0:01:37.00,white  announcmend,,0,0,0,,My sister--
+Dialogue: 0,0:01:44.00,0:01:46.00,black,,0,0,0,,{\pos(397,336)}You little... come with me!
+Dialogue: 0,0:01:46.77,0:01:49.00,white  announcmend,,0,0,0,,{\pos(323,398)\4c&HC05583&}Principal's greeting
+Dialogue: 0,0:01:50.00,0:01:54.00,Talking over,,0,0,0,,They were greeted by the Principal and the teachers
+Dialogue: 0,0:01:59.00,0:02:04.44,white  announcmend,,0,0,0,,{\pos(316,343)}Teacher scolding students for not wearing slippers inside the school
+Dialogue: 0,0:01:59.97,0:02:01.97,black,,0,0,0,,Why aren't you wearing your slippers ?
+Dialogue: 0,0:02:02.97,0:02:05.97,black,,0,0,0,,Don't do that again, now get out of here!
+Dialogue: 0,0:02:09.97,0:02:11.00,black,,0,0,0,,You come closer
+Dialogue: 0,0:02:11.75,0:02:14.55,black,,0,0,0,,Why aren't you wearing your slippers?
+Dialogue: 0,0:02:14.55,0:02:19.40,normal people,,0,0,0,,Someone is playing a prank on me and took the slippers from my locker.
+Dialogue: 0,0:02:21.20,0:02:23.40,black,,0,0,0,,Why aren't you wearing your slippers?
+Dialogue: 0,0:02:24.39,0:02:26.39,normal people,,0,0,0,,Someone took them from---
+Dialogue: 0,0:02:29.39,0:02:32.39,black,,0,0,0,,You moron!, come with me.
+Dialogue: 0,0:02:38.39,0:02:40.39,Matsumoto,,0,0,0,,That's enough!
+Dialogue: 0,0:02:43.39,0:02:45.99,black,,0,0,0,,{\pos(319,259)\fs48}Reading Haiku?
+Dialogue: 0,0:02:46.39,0:02:49.99,normal people,,0,0,0,,{\pos(143,257)}Fujikumi sensei
+Dialogue: 0,0:02:46.39,0:02:48.39,normal people,,0,0,0,,{\pos(131,434)}Fujiwara Hiroshi\N{\fn\fs16}(former downtown manager)
+Dialogue: 0,0:02:47.39,0:02:49.39,Blue Fujiwara,,0,0,0,,Open your books to page 57.
+Dialogue: 0,0:02:50.39,0:02:53.39,Talking over,,0,0,0,,Fujikumi sensei requested to open page 57 to study the modern 31 syllabled verse and the haiku.
+Dialogue: 0,0:02:55.11,0:02:59.39,BIG,,0,0,0,,{\b1\3c&HFF0000&\pos(306,397)}This textbook has a trap{\b0}
+Dialogue: 0,0:02:55.56,0:03:03.56,Talking over,,0,0,0,,Along with Ishikawa Takuboku and other famous poets, there's a section for the works of Suga Kenji--the chief producer of the show.
+Dialogue: 0,0:03:03.56,0:03:05.56,Talking over,,0,0,0,,what will his haiku talk about?
+Dialogue: 0,0:03:10.56,0:03:12.56,Blue Fujiwara,,0,0,0,,Next is Suga Kenji.
+Dialogue: 0,0:03:18.56,0:03:20.56,Talking over,,0,0,0,,They fell easily for the trap
+Dialogue: 0,0:03:22.56,0:03:25.56,Blue Fujiwara,,0,0,0,,You are going to need imagination
+Dialogue: 0,0:03:25.56,0:03:35.56,Talking over,,0,0,0,,There will be questions that they have to create a story from.
+Dialogue: 0,0:03:30.56,0:03:35.56,BIG,,0,0,0,,{\b1\fs28\3c&H7171B7&\pos(365,369)}The 4 of them will use this blank textbook\N to create a story from the title{\b0}
+Dialogue: 0,0:03:36.48,0:03:39.56,Blue Fujiwara,,0,0,0,,This is the title
+Dialogue: 0,0:03:39.88,0:03:42.73,Blue Fujiwara,,0,0,0,,3 Matsuzaka cows
+Dialogue: 0,0:03:40.56,0:03:42.56,Blue Fujiwara,,0,0,0,,{\b1\c&H0BC8D9&\pos(322,393)}Title{\b0}\N {\b1\c&H0000FF&}3 Matsuzaka cows{\b0}
+Dialogue: 0,0:03:43.99,0:03:45.84,Blue Fujiwara,,0,0,0,,Matsumoto, you start
+Dialogue: 0,0:03:50.57,0:03:52.23,Matsumoto,,0,0,0,,What is this feeling of "freedom"
+Dialogue: 0,0:03:53.63,0:03:54.97,Matsumoto,,0,0,0,,that's what the Matsuzaka were thinking...
+Dialogue: 0,0:04:02.60,0:04:04.63,Yamasaki,,0,0,0,,Why are you looking at me like that?
+Dialogue: 0,0:04:08.26,0:04:13.56,Matsumoto,,0,0,0,,Matsuzaka can't keep still, so suddenly he went outside...
+Dialogue: 0,0:04:16.56,0:04:17.69,Matsumoto,,0,0,0,,Hana Masa arrived
+Dialogue: 0,0:04:25.56,0:04:27.56,Matsumoto,,0,0,0,,Because the teacher's laughing!
+Dialogue: 0,0:04:30.56,0:04:31.56,Blue Fujiwara,,0,0,0,,Next, Yamazaki
+Dialogue: 0,0:04:32.56,0:04:37.05,Yamasaki,,0,0,0,,Matsuzaka and Hana Masa are 3 calves
+Dialogue: 0,0:04:38.56,0:04:41.56,Yamasaki,,0,0,0,,How...
+Dialogue: 0,0:04:41.90,0:04:45.55,Yamasaki,,0,0,0,,how do we care for them then eat them?
+Dialogue: 0,0:04:53.56,0:04:55.56,black,,0,0,0,,{\pos(319,259)\fs48}Lunch scene
+Dialogue: 0,0:04:58.56,0:05:06.75,Talking over,,0,0,0,,They all eat their various box lunches, and take a much needed rest.\Nhowever this will never last long!
+Dialogue: 0,0:05:15.28,0:05:18.52,normal people,,0,0,0,,(Tsuruko) Let's answer questions!
+Dialogue: 0,0:05:21.21,0:05:27.75,normal people,,0,0,0,,Tsuruko will answer any question from the Kuchibiru West High school
+Dialogue: 0,0:05:21.72,0:05:27.72,normal people,,0,0,0,,{\b1\fn\fs22\pos(394,337)}{\fnTahoma\fs36}Grade 3 Class C\NBroadcasting from school{\b0}
+Dialogue: 0,0:05:27.72,0:05:31.75,normal people,,0,0,0,,Let's hear the question that can't be answered
+Dialogue: 0,0:05:31.92,0:05:33.20,Girls,,0,0,0,,Nice to meet you
+Dialogue: 0,0:05:33.75,0:05:35.75,normal people,,0,0,0,,Your high pitched voice sounds nice
+Dialogue: 0,0:05:35.75,0:05:36.75,Girls,,0,0,0,,Thank you
+Dialogue: 0,0:05:36.75,0:05:38.75,normal people,,0,0,0,,Please introduce yourself
+Dialogue: 0,0:05:38.75,0:05:42.20,Girls,,0,0,0,,Grade2, class C, Koumoto Junko
+Dialogue: 0,0:05:43.09,0:05:44.75,Girls,,0,0,0,,Everyone calls me Jun-chan
+Dialogue: 0,0:05:42.75,0:05:53.75,normal people,,0,0,0,,{\b1\pos(114,258)}Jun-chan{\b0}
+Dialogue: 0,0:05:42.75,0:05:53.75,normal people,,0,0,0,,{\b1\pos(111,449)}Koumoto\N Junichi{\b0}
+Dialogue: 0,0:05:44.82,0:05:48.75,normal people,,0,0,0,,So, what problem, can I help you with?
+Dialogue: 0,0:05:48.75,0:05:53.75,Girls,,0,0,0,,I fell in love with someone
+Dialogue: 0,0:05:53.75,0:05:55.99,normal people,,0,0,0,,You fell in love.. what's your age? 10?
+Dialogue: 0,0:05:56.47,0:05:58.18,Girls,,0,0,0,,I'm 17
+Dialogue: 0,0:05:58.16,0:06:01.11,normal people,,0,0,0,,17... Is this your first love?
+Dialogue: 0,0:06:01.33,0:06:05.60,Girls,,0,0,0,,Yes, it's the first time, and I have weird feelings
+Dialogue: 0,0:06:05.79,0:06:08.75,normal people,,0,0,0,,I know it's hard, but can you say his name?
+Dialogue: 0,0:06:09.60,0:06:11.75,normal people,,0,0,0,,If not, how about just the initials?
+Dialogue: 0,0:06:11.75,0:06:15.14,Girls,,0,0,0,,Uh.. ah.. Hitoshi
+Dialogue: 0,0:06:14.75,0:06:15.75,normal people,,0,0,0,,What?  What?
+Dialogue: 0,0:06:15.72,0:06:17.72,Girls,,0,0,0,,H-kun.. with H-kun...
+Dialogue: 0,0:06:17.72,0:06:18.72,normal people,,0,0,0,,H-kun?
+Dialogue: 0,0:06:18.31,0:06:19.47,Girls,,0,0,0,,Because it's Hitoshi
+Dialogue: 0,0:06:20.72,0:06:28.68,Girls,,0,0,0,,With H-kun... when I do it with H-kun... he feels good.. then it's done
+Dialogue: 0,0:06:29.64,0:06:31.72,normal people,,0,0,0,,Usually you do (censored)
+Dialogue: 0,0:06:32.72,0:06:36.60,Girls,,0,0,0,,Hitoshi-kun... H-kun, doesn't have anything
+Dialogue: 0,0:06:40.35,0:06:41.60,Matsumoto,,0,0,0,,What are they saying?
+Dialogue: 0,0:06:43.22,0:06:44.43,Endo,,0,0,0,,Yeah, really
+Dialogue: 0,0:06:45.93,0:06:48.72,BIG,,0,0,0,,{\b1\c&H0000FF&\3c&HFFFFFF&\fnTahoma\fs48\pos(326,432)}End of broadcast{\b0}
+Dialogue: 0,0:06:54.72,0:06:57.72,normal people,,0,0,0,,{\b1\fn\fs36\pos(310,393)}The real Jun-chan appears{\b0}
+Dialogue: 0,0:06:55.72,0:06:56.72,Girls,,0,0,0,,I caught you!
+Dialogue: 0,0:06:58.72,0:07:02.72,black,,0,0,0,,Jun-chan, was that OK to say that over the air?
+Dialogue: 0,0:07:02.72,0:07:04.10,Girls,,0,0,0,,Sure, no problem
+Dialogue: 0,0:07:04.22,0:07:06.39,Girls,,0,0,0,,Because I didn't say any names...
+Dialogue: 0,0:07:06.89,0:07:10.10,Girls,,0,0,0,,I didn't say Matsumoto-kun's name so it should be OK
+Dialogue: 0,0:07:10.72,0:07:12.64,black,,0,0,0,,You should have said his name
+Dialogue: 0,0:07:12.72,0:07:15.77,Girls,,0,0,0,,I can't do something like that, if I did...
+Dialogue: 0,0:07:17.52,0:07:19.72,Girls,,0,0,0,,If I said his name, he would be angry
+Dialogue: 0,0:07:20.39,0:07:23.47,black,,0,0,0,,But you did "it" with Matsumoto-kun, right?
+Dialogue: 0,0:07:23.77,0:07:24.72,Girls,,0,0,0,,I did
+Dialogue: 0,0:07:24.85,0:07:31.85,Girls,,0,0,0,,{\pos(222,471)}In the pool
+Dialogue: 0,0:07:29.27,0:07:31.85,Girls,,0,0,0,,{\pos(424,470)}we did "it"
+Dialogue: 0,0:07:40.97,0:07:42.72,Endo,,0,0,0,,Give me a break
+Dialogue: 0,0:07:48.75,0:07:50.75,black,,0,0,0,,{\pos(319,259)\fs48}Science Class scene
+Dialogue: 0,0:07:51.75,0:07:53.99,Talking over,,0,0,0,,{\3c&H0E0EA6&\pos(318,384)}Science Teacher
+Dialogue: 0,0:07:51.72,0:07:53.99,Talking over,,0,0,0,,{\pos(310,432)}Hosshan Sensei (Comedian)
+Dialogue: 0,0:07:51.72,0:07:53.99,normal people,,0,0,0,,For today's class, I'd like to study about
+Dialogue: 0,0:07:55.39,0:07:57.55,normal people,,0,0,0,,the science of breathing.
+Dialogue: 0,0:08:00.55,0:08:08.55,Talking over,,0,0,0,,Hosshan Sensei was explaining to the four how breathing works
+Dialogue: 0,0:08:00.35,0:08:05.35,BIG,,0,0,0,,{\pos(116,436)}Udon Noodle
+Dialogue: 0,0:08:13.35,0:08:16.35,Default,,0,0,0,,{\pos(316,430)}Hosshan Sensei is a professional at passing things through his nose. (Do not try this at home)
+Dialogue: 0,0:08:14.35,0:08:17.35,Matsumoto,,0,0,0,,That's...who wouldn't laugh at that?
+Dialogue: 0,0:08:18.35,0:08:19.35,Endo,,0,0,0,,Sensei, that's just wrong.
+Dialogue: 0,0:08:21.35,0:08:23.35,normal people,,0,0,0,,This is freeze frame of breathing
+Dialogue: 0,0:08:31.35,0:08:33.35,Tanaka,,0,0,0,,We already get that
+Dialogue: 0,0:08:37.35,0:08:40.05,normal people,,0,0,0,,This is no good. this is the type of tube for going down the throat.
+Dialogue: 0,0:08:42.05,0:08:43.45,Talking over,,0,0,0,,Later on...
+Dialogue: 0,0:08:45.45,0:08:50.45,normal people,,0,0,0,,So you now understand how we inhale oxygen and then exhale carbon dioxide
+Dialogue: 0,0:08:50.43,0:08:57.43,black,,0,0,0,,Hosshan sensei, you have a phone call, please report to the teacher's lounge.
+Dialogue: 0,0:08:59.43,0:09:01.43,normal people,,0,0,0,,Ok I have to go.
+Dialogue: 0,0:09:01.43,0:09:06.43,Talking over,,0,0,0,,Hosshan Sensei had to leave, but there's no relief to our four since the wolf came in to ensure they laugh again.
+Dialogue: 0,0:09:09.43,0:09:13.43,Blue Fujiwara,,0,0,0,,Hosshan Sensei went out because he has a meeting, so I brought a Video with me.
+Dialogue: 0,0:09:13.43,0:09:15.43,Endo,,0,0,0,,I really have a bad feeling about this
+Dialogue: 0,0:09:15.43,0:09:17.43,Tanaka,,0,0,0,,Yea me too
+Dialogue: 0,0:09:21.43,0:09:24.43,Tanaka,,0,0,0,,{\b1\fn\fs36\3c&H000000&\c&HE27C7A&\pos(316,324)}The Balance of Life{\b0}
+Dialogue: 0,0:09:29.43,0:09:33.43,Talking over,,0,0,0,,In the Neutral world there's a Balance & Order
+Dialogue: 0,0:09:33.43,0:09:37.43,Talking over,,0,0,0,,there are animals that eat grass and bugs and there are animals who pray on other animals.
+Dialogue: 0,0:09:40.43,0:09:48.43,Talking over,,0,0,0,,It's called the Cycle of life, and it creates the balance in the neutral world to make everything in order
+Dialogue: 0,0:09:50.43,0:09:56.43,Talking over,,0,0,0,,it starts here from the very grains of sand where millions of Microorganism live
+Dialogue: 0,0:09:58.43,0:10:01.43,Talking over,,0,0,0,,and then we take the sample of sand and study the Microorganism that lives in it.
+Dialogue: 0,0:10:06.43,0:10:07.43,Talking over,,0,0,0,,we found Heipo
+Dialogue: 0,0:10:06.43,0:10:15.43,BIG,,0,0,0,,{\b1\pos(463,400)}Heipo (Director){\b0}
+Dialogue: 0,0:10:07.43,0:10:19.43,Talking over,,0,0,0,,Heipo multiply & duplicate itself and creating hundreds of similar Microorganism resulting in what we call the Heipo multiplier
+Dialogue: 0,0:10:26.43,0:10:28.43,Yamasaki,,0,0,0,,How can you control yourself?
+Dialogue: 0,0:10:28.43,0:10:41.43,Talking over,,0,0,0,,Then Heipo emerges from the ground and grows, but he get prayed on by small Animals, and then bigger Animals pray on them.
+Dialogue: 0,0:10:46.43,0:10:48.43,Yamasaki,,0,0,0,,{\pos(323,441)}Seriously, How can you not laugh at that!
+Dialogue: 0,0:10:46.43,0:10:48.43,Endo,,0,0,0,,--It's not easy
+Dialogue: 0,0:10:49.43,0:10:53.43,Talking over,,0,0,0,,and the snake get prayed on by an eagle, and then the greatest Animal prays on both.
+Dialogue: 0,0:10:55.43,0:10:58.43,Talking over,,0,0,0,,Then Heipo returns to the sand once again
+Dialogue: 0,0:10:58.43,0:11:03.03,Talking over,,0,0,0,,thus creating the balanced cycle of life
+Dialogue: 0,0:11:13.43,0:11:15.43,Endo,,0,0,0,,That's too much
+Dialogue: 0,0:11:17.43,0:11:19.43,black,,0,0,0,,{\fs48\pos(317,298)}Matsumoto explodes by himself!
+Dialogue: 0,0:11:21.43,0:11:24.43,Talking over,,0,0,0,,It's been 5hrs and 30 minutes since starting
+Dialogue: 0,0:11:24.93,0:11:28.43,Talking over,,0,0,0,,Matsumoto has a break down all by himself
+Dialogue: 0,0:11:29.40,0:11:31.43,Matsumoto,,0,0,0,,I've been thinking...
+Dialogue: 0,0:11:31.63,0:11:33.43,Matsumoto,,0,0,0,,You guys...
+Dialogue: 0,0:11:34.43,0:11:36.43,Matsumoto,,0,0,0,,When I'm... I'm...
+Dialogue: 0,0:11:37.11,0:11:40.43,Matsumoto,,0,0,0,,ready to laugh, like just now...
+Dialogue: 0,0:11:42.13,0:11:42.88,Matsumoto,,0,0,0,,right?
+Dialogue: 0,0:11:42.88,0:11:43.48,Yamasaki,,0,0,0,,What?
+Dialogue: 0,0:11:55.18,0:11:56.43,Yamasaki,,0,0,0,,Like now, right?
+Dialogue: 0,0:11:56.43,0:11:57.43,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:11:57.43,0:11:59.43,Yamasaki,,0,0,0,,It's not our fault
+Dialogue: 0,0:11:59.43,0:12:01.43,Endo,,0,0,0,,We're just listening to you
+Dialogue: 0,0:12:04.43,0:12:08.43,Matsumoto,,0,0,0,,If I were in a Batsu game with my senior
+Dialogue: 0,0:12:08.43,0:12:11.43,Matsumoto,,0,0,0,,if he...
+Dialogue: 0,0:12:11.94,0:12:15.43,Matsumoto,,0,0,0,,was having a hard time...
+Dialogue: 0,0:12:15.48,0:12:19.43,Matsumoto,,0,0,0,,I would take the punishment for him by laughing first
+Dialogue: 0,0:12:21.43,0:12:27.28,Yamasaki,,0,0,0,,So you're saying if we see\N that you are ready to laugh, we should laugh\N and take the punishment for you?
+Dialogue: 0,0:12:27.88,0:12:31.43,Matsumoto,,0,0,0,,I'm not saying that in so many words
+Dialogue: 0,0:12:33.61,0:12:35.43,Matsumoto,,0,0,0,,But, yes
+Dialogue: 0,0:12:48.43,0:12:51.43,Endo,,0,0,0,,Again we were just listening seriously, we didn't do anything
+Dialogue: 0,0:12:53.43,0:12:55.43,Matsumoto,,0,0,0,,For example if I were with my senior Shinsuke
+Dialogue: 0,0:12:55.43,0:12:56.43,Yamasaki,,0,0,0,,Yeah
+Dialogue: 0,0:12:56.43,0:12:57.11,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:12:57.11,0:12:57.88,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:12:57.68,0:13:01.43,Matsumoto,,0,0,0,,If he was in trouble and I...
+Dialogue: 0,0:13:01.44,0:13:06.43,Matsumoto,,0,0,0,,saw that Shinsuke might be hurt
+Dialogue: 0,0:13:06.53,0:13:10.43,Matsumoto,,0,0,0,,I wouldn't want him to take more punishment...
+Dialogue: 0,0:13:26.88,0:13:29.43,black,,0,0,0,,{\pos(319,259)\fs48}Club Activity
+Dialogue: 0,0:13:30.88,0:13:33.66,Blue Fujiwara,,0,0,0,,Everyone lets go and see the clubs
+Dialogue: 0,0:13:35.08,0:13:40.43,Talking over,,0,0,0,,They are going to see the club activites with Fujikumi sensei
+Dialogue: 0,0:13:41.08,0:13:42.61,Talking over,,0,0,0,,What's waiting for them?
+Dialogue: 0,0:13:46.64,0:13:49.43,normal people,,0,0,0,,{\fs20\b1\pos(151,453)}Doomo Tsuyoshi    Doomo Koichi
+Dialogue: 0,0:14:20.24,0:14:21.43,Matsumoto,,0,0,0,,Totally different
+Dialogue: 0,0:14:22.04,0:14:23.43,Matsumoto,,0,0,0,,Because they are totally different
+Dialogue: 0,0:14:24.69,0:14:27.43,Talking over,,0,0,0,,And then someone appears
+Dialogue: 0,0:14:31.43,0:14:33.83,normal people,,0,0,0,,{\pos(194,443)}Matsumoto pinches his butt \Nto stop from laughing
+Dialogue: 0,0:14:41.11,0:14:47.43,normal people,,0,0,0,,{\pos(107,460)}Tsunsuku
+Dialogue: 0,0:14:58.76,0:15:00.27,Talking over,,0,0,0,,And then...
+Dialogue: 0,0:15:05.43,0:15:11.43,normal people,,0,0,0,,{\pos(117,436)}Rapper\N{\fs24\b1}(Tajima Manager)
+Dialogue: 0,0:15:12.43,0:15:16.43,black,,0,0,0,,"My name is Tajima Yuichi" "I'm the number 1 bad boy in Yoshimoto"
+Dialogue: 0,0:15:16.43,0:15:18.43,black,,0,0,0,,"I want you to hear my rapping skills"
+Dialogue: 0,0:15:18.43,0:15:21.43,black,,0,0,0,,"Listen now, to my rapping skills"
+Dialogue: 0,0:15:28.24,0:15:31.99,Talking over,,0,0,0,,Matsumoto fell for all 3 tricks
+Dialogue: 0,0:15:37.45,0:15:39.23,black,,0,0,0,,{\fs48\pos(316,259)}Extended dance scene
+Dialogue: 0,0:15:40.64,0:15:45.43,Talking over,,0,0,0,,While eating in the Gym, Itao's wife appears with Madonna's song
+Dialogue: 0,0:15:46.05,0:15:47.43,Talking over,,0,0,0,,Itao's wife
+Dialogue: 0,0:15:57.53,0:16:05.43,normal people,,0,0,0,,{\pos(111,439)}Itao's Wife
+Dialogue: 0,0:16:21.05,0:16:25.23,Talking over,,0,0,0,,Her famous style of dancing is 100% effective in making them laugh
+Dialogue: 0,0:16:28.34,0:16:32.43,Talking over,,0,0,0,,Actually she has a super version of this dance
+Dialogue: 0,0:17:00.14,0:17:01.43,Matsumoto,,0,0,0,,That's excellent
+Dialogue: 0,0:17:01.43,0:17:02.43,Endo,,0,0,0,,Very good
+Dialogue: 0,0:17:02.43,0:17:04.43,Matsumoto,,0,0,0,,What's with that sad face
+Dialogue: 0,0:17:03.89,0:17:04.89,Tanaka,,0,0,0,,--I can't stand it
+Dialogue: 0,0:17:05.58,0:17:07.43,Matsumoto,,0,0,0,,Don't make that sad face
+Dialogue: 0,0:17:08.11,0:17:09.89,Matsumoto,,0,0,0,,Stop making that face
+Dialogue: 0,0:17:12.43,0:17:13.43,Matsumoto,,0,0,0,,What the hell?
+Dialogue: 0,0:17:15.73,0:17:16.43,Matsumoto,,0,0,0,,I understand already
+Dialogue: 0,0:17:16.43,0:17:17.98,Endo,,0,0,0,,Yes we get it already
+Dialogue: 0,0:17:21.20,0:17:22.43,Matsumoto,,0,0,0,,Don't get excited
+Dialogue: 0,0:17:22.43,0:17:23.43,Endo,,0,0,0,,What the hell?
+Dialogue: 0,0:17:26.43,0:17:27.43,Yamasaki,,0,0,0,,She's amazing
+Dialogue: 0,0:17:31.43,0:17:34.43,black,,0,0,0,,{\fs48\pos(326,261)}Hamada Silent Library Game
+Dialogue: 0,0:17:36.43,0:17:38.43,Hamada,,0,0,0,,We're entering the Library keep quite!
+Dialogue: 0,0:17:39.43,0:17:46.43,Talking over,,0,0,0,,Hamada takes the four into a library where he'll make them play a batsu game within a Batsu game, the Silent Library!
+Dialogue: 0,0:17:47.43,0:17:53.43,Hamada,,0,0,0,,These are four cards, and uh...I think you know the rules already
+Dialogue: 0,0:17:54.43,0:17:58.43,BIG,,0,0,0,,{\pos(320,413)\b1\3c&H0000FF&}The one who draws the card which has the "lip" on it receives a punishment {\b0}
+Dialogue: 0,0:18:00.43,0:18:02.43,Hamada,,0,0,0,,Ok, Ready...set
+Dialogue: 0,0:18:04.11,0:18:05.43,Matsumoto,,0,0,0,,Tanaka got the Lip card
+Dialogue: 0,0:18:06.43,0:18:08.43,Hamada,,0,0,0,,Ok, here's Tanaka's punishment
+Dialogue: 0,0:18:08.43,0:18:11.43,Medium,,0,0,0,,{\b1}Thai Kick{\b0}
+Dialogue: 0,0:18:11.43,0:18:13.43,Tanaka,,0,0,0,,You gotta be kidding me!
+Dialogue: 0,0:18:13.43,0:18:16.43,Tanaka,,0,0,0,,This is so wrong!
+Dialogue: 0,0:18:16.43,0:18:18.43,Hamada,,0,0,0,,Tanaka stand over here
+Dialogue: 0,0:18:18.43,0:18:21.43,Tanaka,,0,0,0,,This is wrong, this is the worst punishment yet!
+Dialogue: 0,0:18:21.43,0:18:23.43,Hamada,,0,0,0,,Tanaka come over here
+Dialogue: 0,0:18:23.43,0:18:25.43,Tanaka,,0,0,0,,Are you for real?
+Dialogue: 0,0:18:30.43,0:18:32.43,Hamada,,0,0,0,,Quiet!
+Dialogue: 0,0:18:36.43,0:18:38.43,Hamada,,0,0,0,,Tanaka be quiet!
+Dialogue: 0,0:18:38.43,0:18:40.43,Hamada,,0,0,0,,Ok again
+Dialogue: 0,0:18:40.43,0:18:42.43,Hamada,,0,0,0,,Ready...set
+Dialogue: 0,0:18:45.43,0:18:47.43,Hamada,,0,0,0,,Matsumoto-san punishment is...
+Dialogue: 0,0:18:47.43,0:18:51.43,BIG,,0,0,0,,{\b1}Tickling army {\b0}
+Dialogue: 0,0:18:51.43,0:18:53.43,Hamada,,0,0,0,,Come in
+Dialogue: 0,0:19:21.43,0:19:23.43,Hamada,,0,0,0,,Ok that's enough
+Dialogue: 0,0:19:26.43,0:19:28.43,Hamada,,0,0,0,,Why are you laughing?
+Dialogue: 0,0:19:36.43,0:19:38.43,Hamada,,0,0,0,,Yama-chan you're taking it gracefully
+Dialogue: 0,0:19:42.43,0:19:45.43,black,,0,0,0,,{\pos(319,259)\fs48}Shocking remark!!
+Dialogue: 0,0:19:46.43,0:19:48.43,Blue Fujiwara,,0,0,0,,A student should sleep early
+Dialogue: 0,0:19:48.43,0:19:50.43,Blue Fujiwara,,0,0,0,,Go to sleep
+Dialogue: 0,0:19:51.43,0:19:56.43,Talking over,,0,0,0,,After the lights went out there was a shocking remark from Matsumoto!
+Dialogue: 0,0:19:58.43,0:20:01.43,Endo,,0,0,0,,It's annoying that we can't tell what time is since there's no clock in this class
+Dialogue: 0,0:19:59.18,0:20:03.18,normal people,,0,0,0,,{\b1}Our four can't tell what time it is since there's no clock in the classroom{\b0}
+Dialogue: 0,0:20:01.43,0:20:03.43,Matsumoto,,0,0,0,,{\pos(317,454)}Can I say something?
+Dialogue: 0,0:20:04.43,0:20:06.63,Matsumoto,,0,0,0,,If it's pass 12 o'clock
+Dialogue: 0,0:20:10.63,0:20:12.63,Matsumoto,,0,0,0,,then it's my birthday
+Dialogue: 0,0:20:13.13,0:20:16.63,normal people,,0,0,0,,{\b1\pos(126,99)}Current time\N 1:13 AM{\b0}
+Dialogue: 0,0:20:21.63,0:20:24.63,Matsumoto,,0,0,0,,Did I have my birthday? I don't know...
+Dialogue: 0,0:20:30.63,0:20:31.63,Yamasaki,,0,0,0,,Happy Birthday
+Dialogue: 0,0:20:33.63,0:20:34.63,Endo,,0,0,0,,Happy Birthday
+Dialogue: 0,0:20:34.63,0:20:36.63,Tanaka,,0,0,0,,Happy Birthday
+Dialogue: 0,0:20:36.63,0:20:39.63,Blue Fujiwara,,0,0,0,,(Fujiwara):- Matsumoto Happy Birthday, now go to sleep!
+Dialogue: 0,0:20:45.63,0:20:47.63,Matsumoto,,0,0,0,,What the...
+Dialogue: 0,0:20:47.63,0:20:49.63,Matsumoto,,0,0,0,,This is wrong!
+Dialogue: 0,0:20:48.99,0:20:53.63,normal people,,0,0,0,,{\b1\pos(316,371)}Matsumoto has reached his Birthday{\b0}
+Dialogue: 0,0:21:00.63,0:21:01.63,Matsumoto,,0,0,0,,Matsumoto Happy Birthday
+Dialogue: 0,0:21:01.63,0:21:03.63,Matsumoto,,0,0,0,,Now go to sleep!
+Dialogue: 0,0:21:03.63,0:21:05.63,Matsumoto,,0,0,0,,Matsumoto Out
+Dialogue: 0,0:21:06.63,0:21:07.63,Matsumoto,,0,0,0,,That's incredible
+Dialogue: 0,0:21:08.46,0:21:11.11,Hamada,,0,0,0,,You should let me know which scenes you want aired
+Dialogue: 0,0:21:11.75,0:21:13.11,Yamasaki,,0,0,0,,At the end...
+Dialogue: 0,0:21:13.11,0:21:17.11,Yamasaki,,0,0,0,,when we finished the graduation, and the Diamond group appeared
+Dialogue: 0,0:21:17.11,0:21:18.11,Hamada,,0,0,0,,Oh, yeah
+Dialogue: 0,0:21:19.11,0:21:21.11,Matsumoto,,0,0,0,,Why were they mad?
+Dialogue: 0,0:21:20.11,0:21:23.11,Yamasaki,,0,0,0,,Yeah, Diamond was really mad
+Dialogue: 0,0:21:23.55,0:21:25.11,Default,,0,0,0,,{\b1\3c&HFF0000&\pos(310,426)}Chief Producer\N\NSuga Kenji
+Dialogue: 0,0:21:24.00,0:21:27.11,Matsumoto,,0,0,0,,I wondered why Diamond was so mad
+Dialogue: 0,0:21:27.11,0:21:33.11,Matsumoto,,0,0,0,,{\pos(321,474)}I asked the staff and they said that he was supposed to have a rifle, but it wasn't ready
+Dialogue: 0,0:21:30.77,0:21:35.11,normal people,,0,0,0,,{\pos(352,364)}Diamond Kesuke is supposed to carry a gun
+Dialogue: 0,0:21:30.77,0:21:35.11,normal people,,0,0,0,,{\pos(496,420)}Chief producer Suga
+Dialogue: 0,0:21:34.67,0:21:37.11,Tanaka,,0,0,0,,Oh, that's why he was mad!
+Dialogue: 0,0:21:38.46,0:21:42.11,Hamada,,0,0,0,,He wasn't carrying anything.. that's why his hands were lonely
+Dialogue: 0,0:21:42.11,0:21:45.11,Matsumoto,,0,0,0,,He took out his anger on us
+Dialogue: 0,0:21:46.11,0:21:48.11,black,,0,0,0,,{\pos(319,259)\fs48}Diamond Scene
+Dialogue: 0,0:21:48.80,0:21:50.74,Blue Fujiwara,,0,0,0,,Graduation students, you may leave
+Dialogue: 0,0:21:52.52,0:21:54.11,Talking over,,0,0,0,,During the graduation
+Dialogue: 0,0:21:54.58,0:22:00.36,Talking over,,0,0,0,,a group of men were waiting in the silent forest
+Dialogue: 0,0:22:00.40,0:22:02.34,Talking over,,0,0,0,,The 4 had no idea
+Dialogue: 0,0:22:04.11,0:22:06.11,Talking over,,0,0,0,,The group is...
+Dialogue: 0,0:22:14.11,0:22:17.11,normal people,,0,0,0,,{\pos(326,390)}The Angry Diamond Group
+Dialogue: 0,0:22:18.75,0:22:24.21,normal people,,0,0,0,,{\pos(319,387)}Police woman  Diamond     Hatomura   Police woman
+Dialogue: 0,0:22:18.75,0:22:24.21,normal people,,0,0,0,,{\fs28\b1\pos(316,448)}(Old lady #1)  (Suga Kenji)  (Nakamura)   (Old lady #2)
+Dialogue: 0,0:22:40.21,0:22:42.21,Endo,,0,0,0,,Why are you so mad?
+Dialogue: 0,0:22:50.21,0:22:52.21,black,,0,0,0,,{\pos(319,259)\fs48}Punisher from Hell
+Dialogue: 0,0:22:54.21,0:22:56.21,Talking over,,0,0,0,,And finally
+Dialogue: 0,0:23:00.84,0:23:05.21,Talking over,,0,0,0,,Super Sadist Hamada unleashes his final beating
+Dialogue: 0,0:23:05.51,0:23:07.21,Matsumoto,,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:23:15.21,0:23:17.21,Matsumoto,,0,0,0,,We already left!
+Dialogue: 0,0:23:18.97,0:23:21.21,Talking over,,0,0,0,,We have come to the end
+Dialogue: 0,0:23:21.21,0:23:24.21,Matsumoto,,0,0,0,,{\b1\c&H0000FF&\4c&HFFFFFF&\fs72\pos(317,362)}By the way\N Super Sadist Hamada\N Couldn't stop...{\b0}
+Dialogue: 0,0:23:28.95,0:23:36.48,Talking over,,0,0,0,,Number one comedian, Super sadist Hamada is going to follow them to hell!
+Dialogue: 0,0:23:44.21,0:23:46.51,Matsumoto,,0,0,0,,Stop!  Stop!
+Dialogue: 0,0:23:46.21,0:23:48.21,Matsumoto,,0,0,0,,
+

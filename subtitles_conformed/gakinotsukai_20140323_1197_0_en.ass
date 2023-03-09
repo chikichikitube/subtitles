@@ -1,0 +1,560 @@
+﻿[Script Info]
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hamada,Arial,62,&H008B2013,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,9,2,10,10,10,1
+Style: Matsu,Arial,62,&H000000B8,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Housei,Arial,62,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Endo,Arial,62,&H000061CD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Tanaka,Arial,62,&H00970081,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Narrator,Arial,62,&H003C3C3C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Title White L,Arial,58,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Interview Question,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H50000000,0,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Black,Arial,62,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Title White,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Interviewer1,Arial,62,&H008E7217,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Info Text,Arial,48,&H00FFFFFF,&H000000FF,&H942B2B2B,&H71363636,-1,0,0,0,100,100,0,0,3,10,6,2,10,10,10,1
+Style: Info Text2,Arial,48,&H00FFFFFF,&H000000FF,&H942B2B2B,&H71363636,-1,0,0,0,100,100,3.2,0,3,10,6,7,10,10,10,1
+Style: MatsuC,Arial,40,&H00000097,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,9,10,10,10,1
+Style: EndoC,Arial,40,&H000061CD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,9,10,10,10,1
+Style: HouseiC,Arial,40,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,4,6,9,10,10,10,1
+Style: TanakaC,Arial,40,&H00980082,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,9,10,10,10,1
+Style: HamadaC,Arial,40,&H00993228,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,9,10,10,10,1
+Style: Interviewer2,Arial,62,&H006002B1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Interviewer3,Arial,62,&H000B3764,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Other,Arial,62,&H0000737E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Service,Arial,62,&H00736036,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Thin Black Text,Arial,70,&H00000000,&H000000FF,&H00FFFFFF,&HADFFFFFF,0,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Note,Arial,42,&H006C6909,&H000000FF,&H00F9FFE4,&H00728C1B,-1,0,0,0,100,100,0,0,1,3,6,2,10,10,10,1
+Style: Title - Small,Arial,30,&H00FFF6A4,&H000000FF,&H008A6124,&H004343B4,-1,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Title - Small - Copy,Arial,42,&H00F9F6E2,&H000000FF,&H00271506,&H004D3F38,-1,0,0,0,100,100,0,0,1,3,4,7,10,10,10,1
+Style: Title White R,Arial,58,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,3,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:15.06,Title - Small - Copy,,0,0,0,,Translation: Mickstar813 ~ Typesetting: YamasakiGIFs
+Dialogue: 0,0:00:00.41,0:00:05.88,Housei,,0,0,0,,I want to summon up all of my 46 years of living.
+Dialogue: 0,0:00:07.55,0:00:13.49,Title White R,,0,0,0,,{\pos(1355,218)}Narrator:\NYamada\NShinichi
+Dialogue: 0,0:00:07.19,0:00:15.06,Narrator,,0,0,0,,{\fad(200,0)}For Housei's 46 birthday he's doing a 24 hour long interview!
+Dialogue: 0,0:00:16.06,0:00:18.33,Narrator,,0,0,0,,Speaking about his whole life,
+Dialogue: 0,0:00:18.33,0:00:22.17,Narrator,,0,0,0,,he will talk for 24 hours straight, this is a new challenge.
+Dialogue: 0,0:00:23.00,0:00:27.24,Narrator,,0,0,0,,Loads of unknown stuff from his past!
+Dialogue: 0,0:00:27.51,0:00:31.41,Housei,,0,0,0,,When I was in middle school, I bought like 'eccentric clothing for delinquients'.
+Dialogue: 0,0:00:31.78,0:00:33.01,Hamada,,0,0,0,,For real?
+Dialogue: 0,0:00:33.01,0:00:35.08,Matsu,,0,0,0,,Are you mucking about?
+Dialogue: 0,0:00:35.35,0:00:37.42,Housei,,0,0,0,,I formed the band in 1st year.
+Dialogue: 0,0:00:35.15,0:00:37.42,Title White L,,0,0,0,,{\pos(713,827.333)\fad(200,0)}7 HOURS SINCE THE START
+Dialogue: 0,0:00:37.42,0:00:39.82,Thin Black Text,,0,0,0,,{\pos(716,1072.667)}What kind of activities did you do?
+Dialogue: 0,0:00:40.19,0:00:43.46,Interview Question,,0,0,0,,{\pos(720,1056.667)}We performed in a studio.
+Dialogue: 0,0:00:43.62,0:00:47.79,Thin Black Text,,0,0,0,,{\pos(1214,810)}In front of people?
+Dialogue: 0,0:00:45.52,0:00:47.79,Interview Question,,0,0,0,,Well, we didn't perform in front of people but...
+Dialogue: 0,0:00:51.00,0:00:56.77,Title White L,,0,0,0,,{\fad(200,0)\pos(714,912.667)}The interview continues without rest for 15 hours
+Dialogue: 0,0:00:51.53,0:00:54.90,Narrator,,0,0,0,,Time seems to stop for him...
+Dialogue: 0,0:01:01.27,0:01:13.02,Title White L,,0,0,0,,{\pos(717,898)}An emotional episode about Tsukitei Happo\Ngetting him into the Kyoto Rakugo Association
+Dialogue: 0,0:00:54.90,0:00:59.34,Narrator,,0,0,0,,As he starts to reach his limit, he continues to talk.
+Dialogue: 0,0:01:01.81,0:01:03.68,Narrator,,0,0,0,,And then in the middle of his massage,
+Dialogue: 0,0:01:03.68,0:01:05.68,Narrator,,0,0,0,,he talks about how Tsukitei Happo defended him
+Dialogue: 0,0:01:05.68,0:01:07.45,Narrator,,0,0,0,,whilst the other rakugoka's were against him.
+Dialogue: 0,0:01:07.45,0:01:12.18,Narrator,,0,0,0,,He tells us a touching story of how he got to be a rakugoka.
+Dialogue: 0,0:01:13.19,0:01:16.76,Interview Question,,0,0,0,,{\pos(712,1056.667)}"If Housei does something wrong, I'll quit"
+Dialogue: 0,0:01:17.12,0:01:21.06,Housei,,0,0,0,,For him to do that much for me...
+Dialogue: 0,0:01:21.06,0:01:23.13,Housei,,0,0,0,,I've never thought it was possible for someone to do that...
+Dialogue: 0,0:01:23.13,0:01:26.03,Matsu,,0,0,0,,Those are some disgusting tears, eh!?
+Dialogue: 0,0:01:26.67,0:01:28.23,Matsu,,0,0,0,,Damn!
+Dialogue: 0,0:01:28.23,0:01:30.54,Matsu,,0,0,0,,Jesus!!!
+Dialogue: 0,0:01:30.54,0:01:32.30,Matsu,,0,0,0,,What a disgusting picture!
+Dialogue: 0,0:01:32.30,0:01:38.31,Title White L,,0,0,0,,{\pos(726,271.333)}Questions answered from his\Nchildhood to his move to rakugo
+Dialogue: 0,0:01:33.27,0:01:37.24,Narrator,,0,0,0,,Up until now, the amount of questions he has answered is...
+Dialogue: 0,0:01:35.31,0:01:38.31,Title White L,,0,0,0,,{\fad(200,0)\pos(722,878)}1006 Questions
+Dialogue: 0,0:01:37.24,0:01:38.74,Narrator,,0,0,0,,And there's more!
+Dialogue: 0,0:01:38.31,0:01:42.45,Title White L,,0,0,0,,{\pos(726,271.333)}Character count from his childhood to his move to rakugo
+Dialogue: 0,0:01:38.74,0:01:42.45,Title White L,,0,0,0,,There has been a total of 160,242 characters written.
+Dialogue: 0,0:01:42.95,0:01:49.69,Narrator,,0,0,0,,Will Housei be able to beat the 24 Hour Interview!?
+Dialogue: 0,0:01:56.03,0:02:01.73,Title White L,,0,0,0,,{\fad(300,0)\pos(722,712)}17 hours and 28 minutes since the start
+Dialogue: 0,0:01:56.03,0:01:58.70,Narrator,,0,0,0,,2:28AM...
+Dialogue: 0,0:01:58.70,0:02:01.73,Narrator,,0,0,0,,There's 6 and a half hours 'till the finish.
+Dialogue: 0,0:02:02.30,0:02:08.17,Narrator,,0,0,0,,Now that the massage is over, the interview starts back up.
+Dialogue: 0,0:02:08.17,0:02:09.51,Interviewer3,,0,0,0,,Hmm.. Let's see...
+Dialogue: 0,0:02:09.51,0:02:13.38,Thin Black Text,,0,0,0,,Now we enter into the frank questions.
+Dialogue: 0,0:02:13.38,0:02:15.55,Thin Black Text,,0,0,0,,What did you eat yesterday?
+Dialogue: 0,0:02:19.68,0:02:21.79,Housei,,0,0,0,,Eh~ What did I eat....?
+Dialogue: 0,0:02:29.90,0:02:32.03,Housei,,0,0,0,,Eh~ What did I eat!?
+Dialogue: 0,0:02:32.86,0:02:37.37,Thin Black Text,,0,0,0,,First, let's try to remember breakfast.
+Dialogue: 0,0:02:40.67,0:02:43.24,Housei,,0,0,0,,I didn't eat breakfast.
+Dialogue: 0,0:02:43.28,0:02:44.58,Interview Question,,0,0,0,,I just remembered {\alphaFF}it was Shabu-Shabu.
+Dialogue: 0,0:02:44.58,0:02:46.78,Interview Question,,0,0,0,,I just remembered it was Shabu-Shabu.
+Dialogue: 0,0:02:45.54,0:02:46.71,Interviewer3,,0,0,0,,{\pos(700,926)}For breakfast?
+Dialogue: 0,0:02:46.78,0:02:48.15,Housei,,0,0,0,,Not for breakfast.
+Dialogue: 0,0:02:49.55,0:02:52.05,Housei,,0,0,0,,I had it in the evening.
+Dialogue: 0,0:02:56.99,0:03:00.73,Thin Black Text,,0,0,0,,{\pos(566,939.334)}Where?
+Dialogue: 0,0:02:58.92,0:03:00.73,Thin Black Text,,0,0,0,,{\pos(850,936.667)}Where?
+Dialogue: 0,0:02:58.52,0:03:00.73,Housei,,0,0,0,,{\pos(708,1078)}Huh?
+Dialogue: 0,0:03:00.73,0:03:01.99,Housei,,0,0,0,,In Osaka...
+Dialogue: 0,0:03:01.99,0:03:03.99,Housei,,0,0,0,,Namba.
+Dialogue: 0,0:03:05.53,0:03:08.60,Thin Black Text,,0,0,0,,How did it taste?
+Dialogue: 0,0:03:11.90,0:03:15.41,Interview Question,,0,0,0,,Is there nothing more to ask?
+Dialogue: 0,0:03:14.57,0:03:16.14,EndoC,,0,0,0,,{\pos(1400,278)}You would\Nreact like that.
+Dialogue: 0,0:03:16.78,0:03:18.28,Matsu,,0,0,0,,I don't care...
+Dialogue: 0,0:03:26.32,0:03:29.89,Title White L,,0,0,0,,{\fad(300,0)\pos(705,718)}18 hours and 1 minute since the start
+Dialogue: 0,0:03:26.79,0:03:29.89,Narrator,,0,0,0,,6 hours remain until the finish.
+Dialogue: 0,0:03:34.59,0:03:36.76,Interviewer1,,0,0,0,,Now for the next question.
+Dialogue: 0,0:03:37.53,0:03:40.90,Interviewer1,,0,0,0,,Could you wake up please Housei-san?
+Dialogue: 0,0:03:40.90,0:03:47.27,Narrator,,0,0,0,,{\pos(724,915.333)}The interview continues as he fights
+Dialogue: 0,0:03:40.90,0:03:47.27,Narrator,,0,0,0,,against the temptation to sleep.
+Dialogue: 0,0:03:47.27,0:04:01.19,Interview Question,,0,0,0,,{\fad(200,0)\pos(720,1070)}Who do you like better, Endo or Tanaka?
+Dialogue: 0,0:03:52.24,0:03:53.75,Interview Question,,0,0,0,,{\pos(724,912.667)}Endo.
+Dialogue: 0,0:03:53.75,0:04:01.15,Interview Question,,0,0,0,,{\pos(725,915.333)}I really like Endo when he's doing High Tension.
+Dialogue: 0,0:03:53.75,0:04:01.19,Note,,0,0,0,,{\pos(731,67.333)}High Tension - A series of Gaki episodes
+Dialogue: 0,0:04:03.05,0:04:04.69,Housei,,0,0,0,,Alright.
+Dialogue: 0,0:04:04.72,0:04:06.46,Interview Question,,0,0,0,,What time is it?
+Dialogue: 0,0:04:08.36,0:04:10.36,Housei,,0,0,0,,You're lying~
+Dialogue: 0,0:04:12.46,0:04:15.07,Housei,,0,0,0,,Eh~ Only 2 hours have passed since then?
+Dialogue: 0,0:04:15.07,0:04:17.04,Housei,,0,0,0,,You've got to be kidding me...
+Dialogue: 0,0:04:17.04,0:04:19.00,Housei,,0,0,0,,This is bad!
+Dialogue: 0,0:04:19.24,0:04:26.24,Interview Question,,0,0,0,,{\fad(200,0)}What do you play with your kids?
+Dialogue: 0,0:04:24.44,0:04:26.24,Interview Question,,0,0,0,,{\pos(724,907.333)}Right now, jigsaw puzzles.
+Dialogue: 0,0:04:26.24,0:04:30.42,Housei,,0,0,0,,I bought a 1000 piece puzzle of 'The Seven Deities of Good Luck'
+Dialogue: 0,0:04:30.42,0:04:33.49,Thin Black Text,,0,0,0,,{\pos(546,923.334)}Have you finished it yet?
+Dialogue: 0,0:04:32.95,0:04:33.49,Housei,,0,0,0,,No~
+Dialogue: 0,0:04:33.49,0:04:35.59,Interview Question,,0,0,0,,Right now, just the frame.
+Dialogue: 0,0:04:36.05,0:04:47.07,Interview Question,,0,0,0,,{\fad(200,0)\pos(722,1070)}Could you show me your piano skills?
+Dialogue: 0,0:04:38.59,0:04:47.07,Black,,0,0,0,,{\pos(710,1003.333)}♫ Hums "Merry Christmas, Mr. Lawrence" ♫
+Dialogue: 0,0:04:47.47,0:04:49.97,Hamada,,0,0,0,,What the hell is this!!
+Dialogue: 0,0:04:50.47,0:04:52.97,Interviewer2,,0,0,0,,Are you okay Housei~?
+Dialogue: 0,0:05:00.61,0:05:09.19,Interview Question,,0,0,0,,When do you think rock died?
+Dialogue: 0,0:05:03.28,0:05:05.62,Interview Question,,0,0,0,,{\pos(710,915.334)}Rock hasn't died.
+Dialogue: 0,0:05:05.62,0:05:09.19,Interview Question,,0,0,0,,{\pos(724,920.666)}Rock will continue to live forever.
+Dialogue: 0,0:05:09.79,0:05:11.79,Matsu,,0,0,0,,It's like he's preaching!
+Dialogue: 0,0:05:12.79,0:05:14.96,Interviewer1,,0,0,0,,Do you ever feel old?
+Dialogue: 0,0:05:15.06,0:05:17.13,Interview Question,,0,0,0,,I'm feeling it right now.
+Dialogue: 0,0:05:17.13,0:05:19.80,Interview Question,,0,0,0,,My farts just don't stop.
+Dialogue: 0,0:05:21.63,0:05:23.70,TanakaC,,0,0,0,,{\pos(1289,278)}It's getting\Nbrighter!
+Dialogue: 0,0:05:20.17,0:05:23.67,Housei,,0,0,0,,It's not something{\alphaFF} I can control with my will anymore.
+Dialogue: 0,0:05:23.67,0:05:28.31,Housei,,0,0,0,,It's not something I can control with my will anymore.
+Dialogue: 0,0:05:29.07,0:05:31.78,Housei,,0,0,0,,They've just started running wildly...
+Dialogue: 0,0:05:31.78,0:05:38.85,Interview Question,,0,0,0,,Is your hair okay?
+Dialogue: 0,0:05:34.71,0:05:38.85,Interview Question,,0,0,0,,{\pos(702,923.333)}It hasn't changed at all.
+Dialogue: 0,0:05:38.22,0:05:39.92,HamadaC,,0,0,0,,{\pos(1289,278)}It has.
+Dialogue: 0,0:05:38.85,0:05:41.09,Interviewer1,,0,0,0,,Your hair seems black
+Dialogue: 0,0:05:41.09,0:05:45.06,Interviewer1,,0,0,0,,but you haven't started balding?
+Dialogue: 0,0:05:42.65,0:05:45.06,Housei,,0,0,0,,No, no I have not.
+Dialogue: 0,0:05:45.06,0:05:47.79,Housei,,0,0,0,,I get picked on about it.
+Dialogue: 0,0:05:47.79,0:05:50.10,Housei,,0,0,0,,It's honestly a joke.
+Dialogue: 0,0:05:50.10,0:05:56.33,Housei,,0,0,0,,We just do it as friends.
+Dialogue: 0,0:06:01.07,0:06:04.68,Interviewer2,,0,0,0,,What do you love about your wife?
+Dialogue: 0,0:06:04.68,0:06:06.64,Housei,,0,0,0,,She's just{\alphaFF} so kind.
+Dialogue: 0,0:06:06.64,0:06:09.11,Housei,,0,0,0,,She's just so kind.
+Dialogue: 0,0:06:09.11,0:06:11.12,Housei,,0,0,0,,Her kindness is just{\alphaFF} so deep.
+Dialogue: 0,0:06:11.12,0:06:14.75,Housei,,0,0,0,,Her kindness is just so deep.
+Dialogue: 0,0:06:15.02,0:06:19.99,Narrator,,0,0,0,,The city starts to bustle around once it's daybreak.
+Dialogue: 0,0:06:15.09,0:06:19.99,Title White L,,0,0,0,,{\fad(200,0)\pos(708,712.667)}22 Hours and 3 minutes
+Dialogue: 0,0:06:20.46,0:06:22.86,Thin Black Text,,0,0,0,,There is now 2 hours remaining.
+Dialogue: 0,0:06:24.36,0:06:25.70,MatsuC,,0,0,0,,{\pos(1400,278)}Amazing huh?
+Dialogue: 0,0:06:28.17,0:06:35.97,Title White L,,0,0,0,,{\pos(726,800.667)}As the interview prepare's for the next question
+Dialogue: 0,0:06:28.17,0:06:35.97,Title White L,,0,0,0,,{\pos(722,939.334)}What sort of question will she throw at him!?
+Dialogue: 0,0:06:28.83,0:06:32.80,Narrator,,0,0,0,,Up until now the interviewer has thrown various questions at him,
+Dialogue: 0,0:06:32.80,0:06:36.71,Narrator,,0,0,0,,what will she throw at him next in the remaining 2 hours!?
+Dialogue: 0,0:06:45.85,0:06:48.02,Thin Black Text,,0,0,0,,Is there anything you want me to ask you?
+Dialogue: 0,0:06:51.39,0:06:53.39,TanakaC,,0,0,0,,{\pos(1400,278)}So this is what\Nhappens, huh?
+Dialogue: 0,0:06:53.39,0:06:56.03,HamadaC,,0,0,0,,{\pos(1400,278)}Damn,\Nthat was funny.
+Dialogue: 0,0:06:56.03,0:06:58.83,HamadaC,,0,0,0,,{\pos(1400,278)}"Is there anything\Nyou want me\N to ask you?"
+Dialogue: 0,0:06:56.56,0:06:58.83,MatsuC,,0,0,0,,{\pos(1400,415.334)}And he's\Nstruggling to\Nanswer that...
+Dialogue: 0,0:07:07.74,0:07:08.67,Housei,,0,0,0,,Hmm...
+Dialogue: 0,0:07:08.67,0:07:12.18,Interview Question,,0,0,0,,I don't think there's anything I want you to ask.
+Dialogue: 0,0:07:14.28,0:07:18.28,Thin Black Text,,0,0,0,,{\pos(726,934)}If you were born as a girl
+Dialogue: 0,0:07:14.28,0:07:18.28,Thin Black Text,,0,0,0,,what sort of job would you want to do?
+Dialogue: 0,0:07:19.08,0:07:23.62,Interview Question,,0,0,0,,A woman's clothes designer.
+Dialogue: 0,0:07:23.62,0:07:29.53,Housei,,0,0,0,,I think women understand women's clothes the best...
+Dialogue: 0,0:07:29.53,0:07:33.70,Interview Question,,0,0,0,,I think being a designer would be cool.
+Dialogue: 0,0:07:33.70,0:07:37.60,Thin Black Text,,0,0,0,,{\fad(200,0)}What would be your brand name?
+Dialogue: 0,0:07:37.60,0:07:40.47,Interview Question,,0,0,0,,I'd want to attach "HOUSEI" to it.
+Dialogue: 0,0:07:40.47,0:07:45.54,Interview Question,,0,0,0,,But would everyone pronounce it as "HOUSE"?
+Dialogue: 0,0:07:43.01,0:07:45.54,Interviewer2,,0,0,0,,{\pos(720,915.333)}Oh yeah, that's true.
+Dialogue: 0,0:07:46.88,0:07:48.91,Housei,,0,0,0,,I think if I did it
+Dialogue: 0,0:07:49.05,0:07:53.18,Housei,,0,0,0,,「ＨＯＵＳＥ{\alphaFF} - i 」。
+Dialogue: 0,0:07:53.18,0:07:54.72,Housei,,0,0,0,,「ＨＯＵＳＥ - i 」。
+Dialogue: 0,0:08:01.33,0:08:03.56,HamadaC,,0,0,0,,{\pos(1400,278)}Oh I don't give a shit.
+Dialogue: 0,0:08:02.59,0:08:04.96,Thin Black Text,,0,0,0,,{\fs50\pos(1047,499.333)}What about the image of it?
+Dialogue: 0,0:08:04.96,0:08:10.37,Housei,,0,0,0,,Coco Chanel herself said what the best colour was.
+Dialogue: 0,0:08:10.37,0:08:11.97,Housei,,0,0,0,,Black,{\alphaFF} this is the best colour.
+Dialogue: 0,0:08:11.97,0:08:14.84,Housei,,0,0,0,,Black, this is the best colour.
+Dialogue: 0,0:08:14.84,0:08:16.57,Housei,,0,0,0,,So...
+Dialogue: 0,0:08:16.57,0:08:22.95,Housei,,0,0,0,,HOUSE-i would have to have the 'best colour.'
+Dialogue: 0,0:08:22.95,0:08:24.82,Interviewer2,,0,0,0,,So what colour would that be for you?
+Dialogue: 0,0:08:24.82,0:08:26.85,Housei,,0,0,0,,I think it's got to be black.
+Dialogue: 0,0:08:25.82,0:08:27.72,MatsuC,,0,0,0,,{\pos(1400,278)}The same!?
+Dialogue: 0,0:08:26.85,0:08:29.19,Interviewer2,,0,0,0,,So it would look a lot like Chanel clothing...
+Dialogue: 0,0:08:29.19,0:08:32.16,Housei,,0,0,0,,Yeah but there is no other colour...
+Dialogue: 0,0:08:32.49,0:08:35.79,Housei,,0,0,0,,Well HOUSE-i is
+Dialogue: 0,0:08:35.79,0:08:39.60,Housei,,0,0,0,,not Coco Chanel's rebirth or anything,
+Dialogue: 0,0:08:39.60,0:08:41.93,Housei,,0,0,0,,but I would want to go with black.
+Dialogue: 0,0:08:41.93,0:08:44.34,Interviewer2,,0,0,0,,Since we are now talking about fashion,
+Dialogue: 0,0:08:44.34,0:08:47.44,Interviewer2,,0,0,0,,when you look back on your life
+Dialogue: 0,0:08:47.44,0:08:52.14,Interviewer2,,0,0,0,,there were a few stories about your fashion\Nchoice so I just want to touch on that again...
+Dialogue: 0,0:08:52.14,0:08:55.88,Interviewer2,,0,0,0,,{\pos(706,926)}So in middle school,
+Dialogue: 0,0:08:52.14,0:08:55.88,Interviewer2,,0,0,0,,you were wearing 'eccentric clothing for delinquents'?
+Dialogue: 0,0:08:55.88,0:08:57.45,Thin Black Text,,0,0,0,,After that,{\alphaFF} you were a surfer?
+Dialogue: 0,0:08:57.45,0:09:01.32,Thin Black Text,,0,0,0,,After that, you were a surfer?
+Dialogue: 0,0:08:58.95,0:09:01.32,Housei,,0,0,0,,{\pos(722,936.667)}Yea, that's right.
+Dialogue: 0,0:09:01.32,0:09:04.02,Interview Question,,0,0,0,,{\pos(714,1067.333)}A complete surfer.
+Dialogue: 0,0:09:04.02,0:09:08.43,Thin Black Text,,0,0,0,,{\pos(1257,1056.667)}What was\Nthe fashion?
+Dialogue: 0,0:09:06.02,0:09:08.43,Interview Question,,0,0,0,,Trainers of course.
+Dialogue: 0,0:09:08.43,0:09:11.20,Thin Black Text,,0,0,0,,Weren't you too hot wearing trainers on a beach?
+Dialogue: 0,0:09:17.30,0:09:19.77,EndoC,,0,0,0,,{\pos(1400,278)}What the hell...\NA surfer wearing\N trainers....
+Dialogue: 0,0:09:19.77,0:09:22.64,HamadaC,,0,0,0,,{\pos(1400,278)}What the\Nhell is this!
+Dialogue: 0,0:09:20.54,0:09:22.64,EndoC,,0,0,0,,{\pos(1400,390)}Whenever it gets\Nbad he goes to \Ndrink something!
+Dialogue: 0,0:09:22.64,0:09:24.14,TanakaC,,0,0,0,,{\pos(1400,278)}Since the start.
+Dialogue: 0,0:09:24.14,0:09:27.01,Hamada,,0,0,0,,It looks like when things are\Ngetting bad you go for a drink huh~
+Dialogue: 0,0:09:27.08,0:09:32.48,Thin Black Text,,0,0,0,,{\fad(300,0)\pos(704,846)}When this interview is over why don't you
+Dialogue: 0,0:09:27.08,0:09:32.48,Thin Black Text,,0,0,0,,{\fad(300,0)}phone your wife and tell her how happy you are?
+Dialogue: 0,0:09:32.48,0:09:36.25,Interview Question,,0,0,0,,Yea, that's good.
+Dialogue: 0,0:09:36.29,0:09:38.52,Thin Black Text,,0,0,0,,{\fad(300,0)}What do you think your wife is going to say?
+Dialogue: 0,0:09:38.52,0:09:41.59,Housei,,0,0,0,,She'll be like "Oh my god, great work
+Dialogue: 0,0:09:41.59,0:09:43.83,Housei,,0,0,0,,that must have been so tough!
+Dialogue: 0,0:09:43.83,0:09:47.67,Housei,,0,0,0,,But seriously, great work.
+Dialogue: 0,0:09:47.67,0:09:51.07,Housei,,0,0,0,,What time are you coming home today?"
+Dialogue: 0,0:09:51.07,0:09:52.04,Housei,,0,0,0,,Umm...
+Dialogue: 0,0:09:52.04,0:09:56.87,Housei,,0,0,0,,Tonight I have my birthday party.
+Dialogue: 0,0:09:56.87,0:09:59.21,Interviewer2,,0,0,0,,Were you the type of person to always accomplish his goals?
+Dialogue: 0,0:09:59.21,0:10:02.38,Interviewer2,,0,0,0,,Like 'Once you start, you always accomplish it'?
+Dialogue: 0,0:10:03.11,0:10:06.05,Housei,,0,0,0,,No, I wasn't.
+Dialogue: 0,0:10:06.05,0:10:10.66,Interview Question,,0,0,0,,{\pos(730,926)}And that's why for example,
+Dialogue: 0,0:10:06.05,0:10:10.66,Interview Question,,0,0,0,,I've never finished a jigsaw puzzle.
+Dialogue: 0,0:10:10.66,0:10:17.43,Note,,0,0,0,,{\pos(714,99.333)}Fukuwarai - 'Lucky Laugh' a game\Nsimilar to Pin The Tail On The Donkey.
+Dialogue: 0,0:10:10.66,0:10:13.93,Interviewer2,,0,0,0,,So the Fukuwarai you're doing right now...
+Dialogue: 0,0:10:13.93,0:10:16.93,Housei,,0,0,0,,{\pos(724,928.667)}Fukuwarai?
+Dialogue: 0,0:10:14.56,0:10:17.43,Interviewer2,,0,0,0,,Were you not playing Fukuwarai with your daughters...?
+Dialogue: 0,0:10:17.43,0:10:20.20,Interviewer2,,0,0,0,,Wait I'm wrong... What was that jigsaw puzzle?
+Dialogue: 0,0:10:25.04,0:10:26.24,Interviewer2,,0,0,0,,What was it again?
+Dialogue: 0,0:10:26.24,0:10:28.57,Housei,,0,0,0,,'The Seven Deities of Good Luck.'
+Dialogue: 0,0:10:26.80,0:10:28.57,Interviewer2,,0,0,0,,{\pos(724,923.333)}Yes...
+Dialogue: 0,0:10:28.57,0:10:31.74,Interviewer2,,0,0,0,,Sorry, when we carried on speaking after this...
+Dialogue: 0,0:10:31.74,0:10:35.71,Interviewer2,,0,0,0,,I just got really sleepy there...
+Dialogue: 0,0:10:39.28,0:10:42.42,Housei,,0,0,0,,Yeah, I mean I'm not really surprised...
+Dialogue: 0,0:10:44.26,0:10:50.86,Title White L,,0,0,0,,{\fad(200,0)\pos(724,712.667)}23 hours and 46 minutes since the start
+Dialogue: 0,0:10:47.29,0:10:51.56,Narrator,,0,0,0,,Finally we visit the moment of fate.
+Dialogue: 0,0:10:51.63,0:10:56.17,Interviewer2,,0,0,0,,And now, finally we have nearly finished the 24 hours.
+Dialogue: 0,0:10:54.93,0:10:56.17,Housei,,0,0,0,,{\pos(728,832.667)}Yep.
+Dialogue: 0,0:10:56.17,0:11:01.01,Thin Black Text,,0,0,0,,This really is the last question.
+Dialogue: 0,0:10:58.57,0:11:01.01,Housei,,0,0,0,,{\pos(718,923.333)}Yes.
+Dialogue: 0,0:11:01.27,0:11:07.71,Thin Black Text,,0,0,0,,{\fad(300,0)}What do you feel looking back on this whole experience?
+Dialogue: 0,0:11:07.71,0:11:10.08,Interview Question,,0,0,0,,Looking back on it I...
+Dialogue: 0,0:11:10.18,0:11:13.82,Interview Question,,0,0,0,,I didn't think I'd talk about my wife so much.
+Dialogue: 0,0:11:14.59,0:11:18.69,Interview Question,,0,0,0,,{\fad(300,0)}I think, I was saved{\alphaFF} by my wife.
+Dialogue: 0,0:11:18.69,0:11:20.26,Interview Question,,0,0,0,,I think, I was saved by my wife.
+Dialogue: 0,0:11:20.26,0:11:21.29,Interview Question,,0,0,0,,{\fad(300,0)}My wife and I {\alphaFF}are the protagonists.
+Dialogue: 0,0:11:21.29,0:11:23.90,Interview Question,,0,0,0,,My wife and I are the protagonists.
+Dialogue: 0,0:11:23.90,0:11:32.27,Interview Question,,0,0,0,,My fate is my wife's fate and my wife's fate is my fate.
+Dialogue: 0,0:11:32.27,0:11:36.11,Interview Question,,0,0,0,,{\pos(712,942)}If my wife is working hard
+Dialogue: 0,0:11:33.94,0:11:36.11,Housei,,0,0,0,,I'll work just as hard.
+Dialogue: 0,0:11:36.17,0:11:37.41,Housei,,0,0,0,,The philosophy I just said,
+Dialogue: 0,0:11:37.41,0:11:39.84,Interview Question,,0,0,0,,my wife shares the same view.
+Dialogue: 0,0:11:39.88,0:11:41.31,Housei,,0,0,0,,I consult first with my wife.
+Dialogue: 0,0:11:41.31,0:11:43.95,Housei,,0,0,0,,Everything is my wife.
+Dialogue: 0,0:11:43.95,0:11:47.79,Interviewer2,,0,0,0,,There's a saying 'If you're going to die, die on stage'...
+Dialogue: 0,0:11:47.79,0:11:53.26,Housei,,0,0,0,,Well I've never thought I would die on stage.
+Dialogue: 0,0:11:54.26,0:11:58.13,Housei,,0,0,0,,When that happens, I want my family...
+Dialogue: 0,0:11:58.13,0:12:01.50,Housei,,0,0,0,,at least my wife, by my side.
+Dialogue: 0,0:12:01.50,0:12:05.24,Housei,,0,0,0,,I guess the stage is fine, as long as she is watching.
+Dialogue: 0,0:12:07.94,0:12:10.37,Narrator,,0,0,0,,The thing he learned from this challenge
+Dialogue: 0,0:12:10.37,0:12:15.18,Narrator,,0,0,0,,is his deep love for his wife.
+Dialogue: 0,0:12:22.35,0:12:23.65,Black,,0,0,0,,Good morning!
+Dialogue: 0,0:12:23.65,0:12:26.16,Black,,0,0,0,,24 hours is up,{\alphaFF} congratulations!
+Dialogue: 0,0:12:26.16,0:12:29.56,Black,,0,0,0,,24 hours is up, congratulations!
+Dialogue: 0,0:12:37.30,0:12:45.91,Title White L,,0,0,0,,{\fad(0,300)\pos(722,811.333)}He calls his wife to convey the emotions he's
+Dialogue: 0,0:12:37.30,0:12:45.91,Title White L,,0,0,0,,{\fad(0,300)\pos(576,936.667)}feeling after the 24 Hour interview.
+Dialogue: 0,0:12:39.57,0:12:42.14,Narrator,,0,0,0,,For the sake of informing his achievement,
+Dialogue: 0,0:12:42.14,0:12:44.14,Narrator,,0,0,0,,he calls his wife.
+Dialogue: 0,0:12:46.88,0:12:48.51,Interview Question,,0,0,0,,I'm gonna call her.
+Dialogue: 0,0:12:48.51,0:12:50.08,Black,,0,0,0,,Alright.
+Dialogue: 0,0:13:22.71,0:13:25.88,Service,,0,0,0,,You've reached the voicemail service from AU.
+Dialogue: 0,0:13:27.85,0:13:31.52,Service,,0,0,0,,When you hear the signal....
+Dialogue: 0,0:13:35.46,0:13:38.30,Interview Question,,0,0,0,,{\fad(300,0)}Well!{\alphaFF} Let's go home.
+Dialogue: 0,0:13:38.30,0:13:40.03,Interview Question,,0,0,0,,Well! Let's go home.
+Dialogue: 0,0:13:40.53,0:13:48.47,Title White L,,0,0,0,,{\fad(300,0)\pos(706,366)}24 Hour Long Interview complete
+Dialogue: 0,0:13:40.90,0:13:46.00,Narrator,,0,0,0,,With this the curtain for the 24 hour long interview
+Dialogue: 0,0:13:46.00,0:13:48.47,Narrator,,0,0,0,,comes to a close.
+Dialogue: 0,0:13:48.47,0:13:49.97,Matsu,,0,0,0,,Maybe she was sleeping?
+Dialogue: 0,0:13:49.97,0:13:52.04,Housei,,0,0,0,,Yeah, probably...
+Dialogue: 0,0:13:52.04,0:13:53.31,Matsu,,0,0,0,,At 9 AM?
+Dialogue: 0,0:13:53.31,0:13:55.01,Housei,,0,0,0,,At 9 AM.
+Dialogue: 0,0:13:55.55,0:13:58.85,Housei,,0,0,0,,If I could, this time... Um...
+Dialogue: 0,0:13:59.02,0:14:06.46,Housei,,0,0,0,,{\pos(716,624.666)}My interview
+Dialogue: 0,0:14:03.55,0:14:06.46,Housei,,0,0,0,,{\pos(734,883.333)}was transferred onto paper
+Dialogue: 0,0:14:04.12,0:14:06.46,Hamada,,0,0,0,,{\pos(308,1039.333)}Ah, amazing!
+Dialogue: 0,0:14:04.92,0:14:06.46,Endo,,0,0,0,,{\pos(1059,1040.667)}Uwa!
+Dialogue: 0,0:14:06.46,0:14:08.56,Housei,,0,0,0,,There is a character count of{\alphaFF} 225,037 characters.
+Dialogue: 0,0:14:08.56,0:14:13.06,Housei,,0,0,0,,There is a character count of 225,037 characters.
+Dialogue: 0,0:14:13.06,0:14:15.57,Housei,,0,0,0,,Because a normal novel contains 70,000 characters,
+Dialogue: 0,0:14:15.57,0:14:16.90,Housei,,0,0,0,,this is 4...{\alphaFF} No 3 times more!
+Dialogue: 0,0:14:16.90,0:14:18.80,Housei,,0,0,0,,this is 4... No 3 times more!
+Dialogue: 0,0:14:18.80,0:14:20.94,Housei,,0,0,0,,Wait a second Matsumoto.
+Dialogue: 0,0:14:18.80,0:14:20.94,Matsu,,0,0,0,,Amazing!
+Dialogue: 0,0:14:20.94,0:14:22.34,Housei,,0,0,0,,Please try reading it.
+Dialogue: 0,0:14:22.51,0:14:27.18,Thin Black Text,,0,0,0,,{\fad(300,0)\fs(60)}Because of the Baby Boom Age, there were too many for one class~
+Dialogue: 0,0:14:27.18,0:14:27.98,Thin Black Text,,0,0,0,,In 1st year was there 8 classes... {\alphaFF}Or 9 classes...
+Dialogue: 0,0:14:27.98,0:14:29.25,Thin Black Text,,0,0,0,,In 1st year was there 8 classes... Or 9 classes...
+Dialogue: 0,0:14:29.25,0:14:33.58,Thin Black Text,,0,0,0,,Maybe there was 10 classes?
+Dialogue: 0,0:14:31.38,0:14:33.58,Hamada,,0,0,0,,{\pos(708,899.333)}How many were there then...?
+Dialogue: 0,0:14:35.65,0:14:36.95,Matsu,,0,0,0,,Well, this thing...
+Dialogue: 0,0:14:37.02,0:14:40.09,Housei,,0,0,0,,No, no, please read more!
+Dialogue: 0,0:14:38.19,0:14:40.09,Matsu,,0,0,0,,No, no, no.
+Dialogue: 0,0:14:40.09,0:14:42.06,Matsu,,0,0,0,,I've already watched enough!
+Dialogue: 0,0:14:42.06,0:14:44.23,Matsu,,0,0,0,,Seriously, it's all actually been written here...
+Dialogue: 0,0:14:44.23,0:14:45.76,Housei,,0,0,0,,Well then, with this,
+Dialogue: 0,0:14:45.76,0:14:48.70,Housei,,0,0,0,,I'm publishing a book!
+Dialogue: 0,0:14:47.93,0:14:50.57,Tanaka,,0,0,0,,{\pos(571,884.667)}Of this!?
+Dialogue: 0,0:14:48.70,0:14:50.57,Housei,,0,0,0,,{\pos(910,875.333)}Yes.
+Dialogue: 0,0:14:49.70,0:14:51.24,Hamada,,0,0,0,,Oh, right.
+Dialogue: 0,0:14:51.24,0:14:56.04,Hamada,,0,0,0,,So you are asking if someone wants to publish that?
+Dialogue: 0,0:14:55.14,0:14:56.14,Housei,,0,0,0,,{\pos(724,782)}Yeah, that's right.
+Dialogue: 0,0:14:56.04,0:14:58.98,Hamada,,0,0,0,,So you're going to ask them to contact you...
+Dialogue: 0,0:14:56.51,0:14:58.98,Matsu,,0,0,0,,That's completely different to what you said...
+Dialogue: 0,0:14:58.98,0:15:00.78,Matsu,,0,0,0,,It's totally different...
+Dialogue: 0,0:15:00.78,0:15:02.95,Matsu,,0,0,0,,So get this published, huh?
+Dialogue: 0,0:15:02.95,0:15:05.88,Matsu,,0,0,0,,But what are you going to do with this, if no one wants to publish it?
+Dialogue: 0,0:15:05.88,0:15:07.92,Housei,,0,0,0,,But this, I somehow want to...
+Dialogue: 0,0:15:08.99,0:15:15.33,Matsu,,0,0,0,,As it is now, why don't you stick it in the\Ndrawer beside the bed in hotel rooms?
+Dialogue: 0,0:15:15.33,0:15:18.03,Matsu,,0,0,0,,Instead of the bible?
+Dialogue: 0,0:15:17.40,0:15:19.70,Housei,,0,0,0,,Instead of the bible?
+Dialogue: 0,0:15:18.03,0:15:20.06,Matsu,,0,0,0,,It'll be a hotel guideline.
+Dialogue: 0,0:15:20.10,0:15:22.57,Housei,,0,0,0,,They'd be surprised huh? Thinking "What is this?"
+Dialogue: 0,0:15:24.30,0:15:27.97,Housei,,0,0,0,,To all the publishers who may want to publish this
+Dialogue: 0,0:15:27.97,0:15:30.24,Housei,,0,0,0,,I will be waiting to hear from you.
+Dialogue: 0,0:15:30.24,0:15:34.68,Housei,,0,0,0,,Everyone here will do their best promoting the book.
+Dialogue: 0,0:15:34.68,0:15:36.68,Housei,,0,0,0,,So please, I am counting on you!
+Dialogue: 0,0:15:38.72,0:15:42.69,Title White L,,0,0,0,,{\fad(200,200)\pos(702,739.333)}5 Minute Free Talk
+Dialogue: 0,0:15:38.72,0:15:42.69,Title White L,,0,0,0,,{\fad(200,200)}When did you cry recently?
+Dialogue: 0,0:15:42.95,0:15:45.92,Tanaka,,0,0,0,,We've got a postcard!
+Dialogue: 0,0:15:45.06,0:15:45.92,Hamada,,0,0,0,,Alright.
+Dialogue: 0,0:15:45.92,0:15:52.03,Thin Black Text,,0,0,0,,{\fad(200,0)\fs59\pos(712,843.333)}Hello everyone, when I was watching the Olympics,
+Dialogue: 0,0:15:45.92,0:15:52.03,Thin Black Text,,0,0,0,,{\fad(200,0)\fs59}I saw the various skills and abilities of people like Mao Asada.
+Dialogue: 0,0:15:52.03,0:15:56.40,Thin Black Text,,0,0,0,,{\fs59}It gave me a rush of emotions and I cried a lot.
+Dialogue: 0,0:15:56.40,0:16:05.81,Thin Black Text,,0,0,0,,{\fs59\pos(720,840.667)}Lately, I've had the feeling you guys cry at more things,
+Dialogue: 0,0:15:56.40,0:16:05.81,Thin Black Text,,0,0,0,,{\fs59\}have you cried at the Olympics or at anything in your daily lives?
+Dialogue: 0,0:16:05.81,0:16:07.81,Endo,,0,0,0,,This is like serious...
+Dialogue: 0,0:16:07.81,0:16:09.78,Endo,,0,0,0,,Not like the person who wrote this.
+Dialogue: 0,0:16:09.78,0:16:11.28,Tanaka,,0,0,0,,Like properly crying...
+Dialogue: 0,0:16:10.55,0:16:11.28,Endo,,0,0,0,,Yeah.
+Dialogue: 0,0:16:11.28,0:16:13.68,Endo,,0,0,0,,I was watching unedited footage of the opening ceremony,
+Dialogue: 0,0:16:13.68,0:16:15.69,Endo,,0,0,0,,on the television in real time of course.
+Dialogue: 0,0:16:15.69,0:16:16.32,Matsu,,0,0,0,,The Olympics?
+Dialogue: 0,0:16:16.32,0:16:18.12,Endo,,0,0,0,,Yes, the opening ceremony.
+Dialogue: 0,0:16:18.12,0:16:20.32,Endo,,0,0,0,,They lit the Olympic torch
+Dialogue: 0,0:16:20.32,0:16:22.29,Endo,,0,0,0,,and you know they do that thing...
+Dialogue: 0,0:16:22.29,0:16:24.13,Endo,,0,0,0,,Then finally it was lit but
+Dialogue: 0,0:16:24.13,0:16:26.13,Endo,,0,0,0,,at that time I sort of leaned forward out of my kotatsu.
+Dialogue: 0,0:16:27.73,0:16:28.77,Endo,,0,0,0,,That was amazing.
+Dialogue: 0,0:16:28.77,0:16:33.80,Endo,,0,0,0,,Because of all the tension at that time,\NI don't know if I'd call myself easily brought to tears but
+Dialogue: 0,0:16:33.80,0:16:35.74,Endo,,0,0,0,,I cried!
+Dialogue: 0,0:16:40.98,0:16:45.78,Title White L,,0,0,0,,{\pos(867,854)}Downtown's middle school happening!!
+Dialogue: 0,0:16:35.97,0:16:39.38,Matsu,,0,0,0,,Actually I want to talk about something a bit different...
+Dialogue: 0,0:16:39.38,0:16:42.41,Matsu,,0,0,0,,I remembered this recently, and during middle school…
+Dialogue: 0,0:16:42.41,0:16:45.78,Matsu,,0,0,0,,I was with Hamada for ages.
+Dialogue: 0,0:16:46.65,0:16:50.05,Matsu,,0,0,0,,Actually I want to talk about something a bit different...
+Dialogue: 0,0:16:50.05,0:16:52.82,Matsu,,0,0,0,,I remembered this recently, and during middle school…
+Dialogue: 0,0:16:52.82,0:16:55.73,Matsu,,0,0,0,,I was with Hamada for ages,
+Dialogue: 0,0:16:55.73,0:16:57.66,Matsu,,0,0,0,,and we were at someone's house.
+Dialogue: 0,0:16:57.66,0:17:01.47,Matsu,,0,0,0,,{\pos(742,910)}We were watching the
+Dialogue: 0,0:16:57.66,0:17:01.47,Matsu,,0,0,0,,closing ceremony of high school baseball.
+Dialogue: 0,0:17:01.47,0:17:04.24,Matsu,,0,0,0,,Closing ceremony, that's what it's called, right?
+Dialogue: 0,0:17:03.07,0:17:04.24,Endo,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:17:04.24,0:17:10.14,Matsu,,0,0,0,,Hamada was like "I want to watch the closing ceremony."
+Dialogue: 0,0:17:08.01,0:17:09.54,Hamada,,0,0,0,,{\pos(734,899.333)}Yeah...
+Dialogue: 0,0:17:10.14,0:17:11.21,Matsu,,0,0,0,,And I{\alphaFF} had no idea at all why he wanted to watch it...
+Dialogue: 0,0:17:11.21,0:17:14.15,Matsu,,0,0,0,,And I had no idea at all why he wanted to watch it...
+Dialogue: 0,0:17:14.15,0:17:16.81,Matsu,,0,0,0,,Like why the hell do you want to watch that?
+Dialogue: 0,0:17:16.81,0:17:20.79,Matsu,,0,0,0,,And this program called 'Our Journey' was on at the same time,
+Dialogue: 0,0:17:20.79,0:17:22.89,Matsu,,0,0,0,,something like that anyway...
+Dialogue: 0,0:17:21.79,0:17:23.85,Hamada,,0,0,0,,Like a drama series...
+Dialogue: 0,0:17:22.89,0:17:25.66,Matsu,,0,0,0,,And I really wanted to watch that...
+Dialogue: 0,0:17:25.66,0:17:29.59,Matsu,,0,0,0,,He was like "No no, Mattsun, just no."
+Dialogue: 0,0:17:29.59,0:17:32.33,Matsu,,0,0,0,,We're obviously going to watch the\Nclosing ceremony of the high school baseball.
+Dialogue: 0,0:17:32.33,0:17:35.33,Matsu,,0,0,0,,I was like what the fuck!?\NI thought he was kidding at first.
+Dialogue: 0,0:17:35.33,0:17:38.60,Matsu,,0,0,0,,There's no way someone would\Nwant to watch a high schooler...
+Dialogue: 0,0:17:38.60,0:17:40.81,Matsu,,0,0,0,,Like literally...
+Dialogue: 0,0:17:40.81,0:17:42.87,Matsu,,0,0,0,,I was thinking "How could you want to watch that?"
+Dialogue: 0,0:17:42.87,0:17:47.45,Matsu,,0,0,0,,It was like the first time ever we nearly got in a fight...
+Dialogue: 0,0:17:47.45,0:17:50.01,Matsu,,0,0,0,,When I think about it now, I still don't get it.
+Dialogue: 0,0:17:50.01,0:17:53.25,Matsu,,0,0,0,,Like why the hell did you want to watch that...?
+Dialogue: 0,0:17:53.25,0:17:55.62,Matsu,,0,0,0,,Obviously, we should've watched 'Our Journey'...
+Dialogue: 0,0:17:55.62,0:17:57.56,Hamada,,0,0,0,,Yeah, I get you... When I think about it now.
+Dialogue: 0,0:17:57.56,0:18:00.83,Matsu,,0,0,0,,Why the hell did you want to watch it then!?
+Dialogue: 0,0:17:58.59,0:18:00.83,Hamada,,0,0,0,,I wonder what made me want to...
+Dialogue: 0,0:18:00.83,0:18:02.59,Housei,,0,0,0,,And it was the closing ceremony as well...
+Dialogue: 0,0:18:02.59,0:18:04.03,Matsu,,0,0,0,,It was, yeah... And then
+Dialogue: 0,0:18:04.03,0:18:05.93,Matsu,,0,0,0,,I was like, "Wait, are you serious?"
+Dialogue: 0,0:18:05.93,0:18:08.53,Matsu,,0,0,0,,Like, "What is fun about that?"
+Dialogue: 0,0:18:06.73,0:18:09.07,Hamada,,0,0,0,,But before it, isn't there the actual final?
+Dialogue: 0,0:18:08.53,0:18:10.94,Black,,0,0,0,,Yes.
+Dialogue: 0,0:18:09.07,0:18:10.94,Matsu,,0,0,0,,No, the final had already finished.
+Dialogue: 0,0:18:10.94,0:18:12.27,Matsu,,0,0,0,,It finished...
+Dialogue: 0,0:18:10.94,0:18:12.27,Hamada,,0,0,0,,No, so..
+Dialogue: 0,0:18:12.27,0:18:17.17,Hamada,,0,0,0,,So the winners and losers came together and...
+Dialogue: 0,0:18:15.27,0:18:17.17,Matsu,,0,0,0,,No, that finished as well...
+Dialogue: 0,0:18:17.17,0:18:19.64,Matsu,,0,0,0,,The final finished and it was like "Okay, it's finished"...
+Dialogue: 0,0:18:19.64,0:18:22.01,Matsu,,0,0,0,,And to be honest, I don't really care too much\Nfor high school baseball anyway...
+Dialogue: 0,0:18:22.01,0:18:25.28,Matsu,,0,0,0,,And I was like "Okay, great, 'Our Journey'\Nis about to start on TV so let's switch the channel"...
+Dialogue: 0,0:18:25.28,0:18:27.52,Matsu,,0,0,0,,You were like "Just no... Let's watch the closing ceremony"
+Dialogue: 0,0:18:27.52,0:18:30.19,Matsu,,0,0,0,,You were like "Just no... Let's watch the closing ceremony"
+Dialogue: 0,0:18:30.19,0:18:31.99,Matsu,,0,0,0,,I was like, no, no, no, no...
+Dialogue: 0,0:18:31.99,0:18:33.26,Matsu,,0,0,0,,What the hell!?
+Dialogue: 0,0:18:33.26,0:18:36.23,Matsu,,0,0,0,,You were like, "No, just no... Seriously, just no..."
+Dialogue: 0,0:18:36.23,0:18:38.26,Matsu,,0,0,0,,I'm serious...
+Dialogue: 0,0:18:36.79,0:18:38.26,Hamada,,0,0,0,,No, no, no...
+Dialogue: 0,0:18:38.26,0:18:42.43,Endo,,0,0,0,,Obviously there was a reason he wanted to watch it...
+Dialogue: 0,0:18:39.46,0:18:42.43,Matsu,,0,0,0,,I was like, "What the hell!! He's messing with me!"
+Dialogue: 0,0:18:42.43,0:18:43.77,Hamada,,0,0,0,,Like...
+Dialogue: 0,0:18:43.77,0:18:45.40,Matsu,,0,0,0,,You were like, "Obviously I want to watch it...
+Dialogue: 0,0:18:45.40,0:18:48.04,Matsu,,0,0,0,,Everyone was trying so hard..."
+Dialogue: 0,0:18:48.04,0:18:49.47,Matsu,,0,0,0,,I'm serious, I'm serious!
+Dialogue: 0,0:18:49.47,0:18:52.51,Matsu,,0,0,0,,{\pos(730,790)}"Everyone was trying so hard
+Dialogue: 0,0:18:49.47,0:18:52.51,Matsu,,0,0,0,,and the winner has been decided...
+Dialogue: 0,0:18:52.51,0:18:55.41,Matsu,,0,0,0,,Obviously I want to watch the closing ceremony..."
+Dialogue: 0,0:18:57.62,0:18:59.18,Hamada,,0,0,0,,I don't know...
+Dialogue: 0,0:18:58.42,0:18:59.75,Matsu,,0,0,0,,I was like "WHAT...!?"
+Dialogue: 0,0:18:59.18,0:19:02.05,Hamada,,0,0,0,,Maybe I wanted to see the reaction and stuff...
+Dialogue: 0,0:19:02.05,0:19:04.79,Endo,,0,0,0,,{\pos(224,1063.333)}Maybe that was it...
+Dialogue: 0,0:19:02.05,0:19:04.79,Tanaka,,0,0,0,,{\pos(1048,1056.667)}Yeah and he wanted to watch that...
+Dialogue: 0,0:19:03.12,0:19:04.79,Matsu,,0,0,0,,{\pos(720,978)}No way would you want to watch that...
+Dialogue: 0,0:19:04.79,0:19:07.12,Matsu,,0,0,0,,Who gives a shit about the aftermath...
+Dialogue: 0,0:19:07.42,0:19:10.56,Matsu,,0,0,0,,To this day, I do not understand the reason...
+Dialogue: 0,0:19:10.56,0:19:14.17,Matsu,,0,0,0,,I don't really remember what actually happened that day...
+Dialogue: 0,0:19:14.17,0:19:17.27,Matsu,,0,0,0,,I just can't shake it off...
+Dialogue: 0,0:19:18.64,0:19:20.60,Tanaka,,0,0,0,,You were about to fight...
+Dialogue: 0,0:19:19.60,0:19:20.60,Matsu,,0,0,0,,Yeah...
+Dialogue: 0,0:19:20.60,0:19:23.07,Matsu,,0,0,0,,We were literally so close to a full on fight...
+Dialogue: 0,0:19:23.07,0:19:25.38,Matsu,,0,0,0,,I asked so many times, "But why, just why?"
+Dialogue: 0,0:19:25.38,0:19:28.31,Matsu,,0,0,0,,He would just answer, "'Cause everyone tried so hard."
+Dialogue: 0,0:19:28.31,0:19:32.72,Title White L,,0,0,0,,{\pos(817,856.667)}Tanaka's scary first meeting with Hamada!?
+Dialogue: 0,0:19:28.78,0:19:30.11,Endo,,0,0,0,,"They tried so hard"?
+Dialogue: 0,0:19:30.11,0:19:32.72,Hamada,,0,0,0,,Oh just cut it out!!
+Dialogue: 0,0:19:33.52,0:19:35.09,Tanaka,,0,0,0,,Yesterday, Matsumoto-san
+Dialogue: 0,0:19:35.09,0:19:37.09,Tanaka,,0,0,0,,talked to us about when
+Dialogue: 0,0:19:37.09,0:19:39.99,Tanaka,,0,0,0,,we first met...
+Dialogue: 0,0:19:39.99,0:19:45.56,Tanaka,,0,0,0,,Does everyone here like remember how they felt when meeting each other?
+Dialogue: 0,0:19:45.56,0:19:48.73,Tanaka,,0,0,0,,So for example, when Housei-san met Downtown...
+Dialogue: 0,0:19:48.73,0:19:51.67,Tanaka,,0,0,0,,Like your first impressions of them...
+Dialogue: 0,0:19:50.00,0:19:51.67,Housei,,0,0,0,,Of course.
+Dialogue: 0,0:19:51.67,0:19:54.10,Tanaka,,0,0,0,,What was it like?
+Dialogue: 0,0:19:52.57,0:19:54.10,Hamada,,0,0,0,,I don't remember at all.
+Dialogue: 0,0:19:54.10,0:19:55.47,Housei,,0,0,0,,The second chome theatre.
+Dialogue: 0,0:19:55.47,0:19:56.51,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:19:55.47,0:19:56.51,Housei,,0,0,0,,{\pos(710,899.333)}Yes.
+Dialogue: 0,0:19:56.51,0:19:59.01,Housei,,0,0,0,,You were on that program 'It's 4pm apparently'.
+Dialogue: 0,0:19:56.51,0:20:01.65,Note,,0,0,0,,{\pos(604,132.666)}* Broadcast from April 6, 1987\Nto September 29, 1989
+Dialogue: 0,0:19:57.71,0:19:59.01,Hamada,,0,0,0,,{\pos(728,896.667)}That far back huh?
+Dialogue: 0,0:19:59.01,0:20:00.28,Endo,,0,0,0,,The time of that program?
+Dialogue: 0,0:20:00.28,0:20:02.71,Housei,,0,0,0,,Yeah, "It's 4pm apparently" was starting to take off.
+Dialogue: 0,0:20:02.71,0:20:07.55,Matsu,,0,0,0,,So we were like 23, 24 years old...
+Dialogue: 0,0:20:05.08,0:20:07.55,Housei,,0,0,0,,Yeah, that's right.
+Dialogue: 0,0:20:07.55,0:20:09.05,Housei,,0,0,0,,Hamada-san was
+Dialogue: 0,0:20:09.05,0:20:14.09,Housei,,0,0,0,,you met me next to the corridor next to the audience.
+Dialogue: 0,0:20:14.09,0:20:16.66,Housei,,0,0,0,,And I said "Good morning", you were like "Oh, morning."
+Dialogue: 0,0:20:16.66,0:20:20.03,Housei,,0,0,0,,You were a bit scary but you said "Oh, morning."
+Dialogue: 0,0:20:20.03,0:20:22.07,Matsu,,0,0,0,,Oh, he didn't run and try and hit you?
+Dialogue: 0,0:20:22.07,0:20:24.44,Hamada,,0,0,0,,What the hell, why would I hit him?
+Dialogue: 0,0:20:24.44,0:20:26.67,Housei,,0,0,0,,He was just like "Oh, good morning"...
+Dialogue: 0,0:20:25.70,0:20:26.67,Hamada,,0,0,0,,How about Matsumoto?
+Dialogue: 0,0:20:26.67,0:20:30.27,Housei,,0,0,0,,He was in his dressing room
+Dialogue: 0,0:20:30.27,0:20:33.01,Housei,,0,0,0,,and was reading a newspaper.
+Dialogue: 0,0:20:33.01,0:20:35.08,Housei,,0,0,0,,And when I said, "Good morning!"
+Dialogue: 0,0:20:35.08,0:20:37.01,Housei,,0,0,0,,He was like, "Yeahhh"...
+Dialogue: 0,0:20:37.01,0:20:39.68,Hamada,,0,0,0,,Damn... You wouldn't even look him in the eye...
+Dialogue: 0,0:20:39.68,0:20:41.55,Endo,,0,0,0,,Damn that's scary...
+Dialogue: 0,0:20:42.55,0:20:44.59,Endo,,0,0,0,,He wouldn't even look you in the face.
+Dialogue: 0,0:20:44.59,0:20:48.36,Endo,,0,0,0,,When I first said my greetings to Hamada-san...
+Dialogue: 0,0:20:48.36,0:20:50.93,Endo,,0,0,0,,We were filming for Gaki at Sanseido...
+Dialogue: 0,0:20:50.93,0:20:52.40,Matsu,,0,0,0,,Oh yeah...
+Dialogue: 0,0:20:52.40,0:20:55.40,Endo,,0,0,0,,And we finished the opening and we went to say hello...
+Dialogue: 0,0:20:55.40,0:20:59.00,Endo,,0,0,0,,I mean my part didn't get into the final edit that time...
+Dialogue: 0,0:20:59.00,0:21:03.11,Endo,,0,0,0,,So we were at the car park, waiting...
+Dialogue: 0,0:21:03.11,0:21:04.98,Endo,,0,0,0,,And Hamada-san walked in front of us.
+Dialogue: 0,0:21:04.98,0:21:06.98,Endo,,0,0,0,,We were like, "Good morning"...
+Dialogue: 0,0:21:06.98,0:21:10.98,Endo,,0,0,0,,He didn't even look at our face and just said "Yeah"...
+Dialogue: 0,0:21:10.98,0:21:12.38,Matsu,,0,0,0,,He does that, right?
+Dialogue: 0,0:21:11.65,0:21:13.72,Endo,,0,0,0,,{\pos(728,899.333)}Like I remember it so well...
+Dialogue: 0,0:21:12.38,0:21:16.39,Matsu,,0,0,0,,You should definitely look them\Nin the eyes and say hello at least...
+Dialogue: 0,0:21:16.39,0:21:17.96,Hamada,,0,0,0,,That goes for you too then!!
+Dialogue: 0,0:21:17.96,0:21:20.06,Matsu,,0,0,0,,You'd think that's common sense, right?
+Dialogue: 0,0:21:20.06,0:21:24.53,Tanaka,,0,0,0,,I was told that I was going to be on Gaki
+Dialogue: 0,0:21:24.53,0:21:26.93,Tanaka,,0,0,0,,and they told me, "From next week."
+Dialogue: 0,0:21:26.93,0:21:31.57,Tanaka,,0,0,0,,{\pos(736,904.667)}And the week before,
+Dialogue: 0,0:21:26.93,0:21:31.57,Tanaka,,0,0,0,,I went to introduce myself to you two.
+Dialogue: 0,0:21:31.57,0:21:33.67,Matsu,,0,0,0,,But I had already met you right?
+Dialogue: 0,0:21:32.57,0:21:35.21,Tanaka,,0,0,0,,Yes, Matsumoto-san, you had.
+Dialogue: 0,0:21:33.67,0:21:35.21,Matsu,,0,0,0,,At Tokyo station, right?
+Dialogue: 0,0:21:35.21,0:21:37.21,Tanaka,,0,0,0,,And I was just...
+Dialogue: 0,0:21:37.21,0:21:41.58,Tanaka,,0,0,0,,for the first time, I went to introduce myself to you.
+Dialogue: 0,0:21:39.71,0:21:41.58,Hamada,,0,0,0,,{\pos(724,894)}Oh, was it?
+Dialogue: 0,0:21:41.58,0:21:44.65,Tanaka,,0,0,0,,I said "My name is Cocorico and I will\Nbe working with you from next week."
+Dialogue: 0,0:21:44.65,0:21:48.19,Tanaka,,0,0,0,,"My name is Tanaka..." That is what I was going to say.
+Dialogue: 0,0:21:48.19,0:21:52.59,Tanaka,,0,0,0,,And as I said "Oh, I am Cocorico's Tanaka...\NI will be working with you from next week..."
+Dialogue: 0,0:21:52.59,0:21:54.66,Tanaka,,0,0,0,,You had already walked off...
+Dialogue: 0,0:21:54.66,0:21:58.33,Matsu,,0,0,0,,Just as a human being...
+Dialogue: 0,0:21:56.29,0:21:58.33,Hamada,,0,0,0,,Don't take the piss!
+Dialogue: 0,0:21:58.33,0:22:02.47,Tanaka,,0,0,0,,I was literally just like this...
+Dialogue: 0,0:21:59.30,0:22:02.47,Matsu,,0,0,0,,I hate people like that...
+Dialogue: 0,0:22:02.47,0:22:05.30,Matsu,,0,0,0,,I really hate people like that.
+Dialogue: 0,0:22:03.43,0:22:05.30,Hamada,,0,0,0,,You've got to be kidding me.
+Dialogue: 0,0:22:05.30,0:22:07.20,Matsu,,0,0,0,,It makes me want to quit Yoshimoto.
+Dialogue: 0,0:22:07.20,0:22:09.57,Hamada,,0,0,0,,Surely you don't feel that strongly about it...
+Dialogue: 0,0:22:09.57,0:22:12.01,Matsu,,0,0,0,,It's important though...
+Dialogue: 0,0:22:10.67,0:22:13.01,Hamada,,0,0,0,,I was probably in a rush...
+Dialogue: 0,0:22:12.01,0:22:14.48,Tanaka,,0,0,0,,Yeah probably, I was stuttering a bit...
+Dialogue: 0,0:22:14.48,0:22:17.41,Tanaka,,0,0,0,,In my first and second year...
+Dialogue: 0,0:22:17.41,0:22:19.32,Tanaka,,0,0,0,,Along with 'All Hanshin Kyojin'
+Dialogue: 0,0:22:19.32,0:22:21.75,Tanaka,,0,0,0,,when I was meant to introduce myself
+Dialogue: 0,0:22:21.75,0:22:24.02,Tanaka,,0,0,0,,I was just so nervous.
+Dialogue: 0,0:22:24.02,0:22:25.96,Tanaka,,0,0,0,,Before I introduced myself to them...
+Dialogue: 0,0:22:25.96,0:22:29.39,Tanaka,,0,0,0,,I was thinking in my head,\N"You're introducing yourself to All Hanshin Kyojin"...
+Dialogue: 0,0:22:29.39,0:22:31.26,Tanaka,,0,0,0,,So I knocked and said "Excuse me..."
+Dialogue: 0,0:22:31.26,0:22:35.43,Tanaka,,0,0,0,,I said "Nice to meet you, I am All Hanshin Kyojin"...
+Dialogue: 0,0:22:35.43,0:22:36.93,Tanaka,,0,0,0,,This is real.
+Dialogue: 0,0:22:36.93,0:22:39.44,Tanaka,,0,0,0,,I just freaked out.
+Dialogue: 0,0:22:38.14,0:22:39.44,Matsu,,0,0,0,,That's so scary!
+Dialogue: 0,0:22:39.44,0:22:40.74,Tanaka,,0,0,0,,I really freaked out...
+Dialogue: 0,0:22:39.44,0:22:40.74,Housei,,0,0,0,,That...
+Dialogue: 0,0:22:40.74,0:22:44.01,Housei,,0,0,0,,If they had taken that the wrong way they could've\Nbeen like "Who does this punk think he is...?"
+Dialogue: 0,0:22:44.01,0:22:45.34,Tanaka,,0,0,0,,They hadn't heard what I said...
+Dialogue: 0,0:22:45.34,0:22:47.78,Endo,,0,0,0,,No no no, that wasn't it...
+Dialogue: 0,0:22:46.28,0:22:47.78,Tanaka,,0,0,0,,Was it not?
+Dialogue: 0,0:22:47.78,0:22:48.95,Endo,,0,0,0,,They reacted to what you said in your favour...
+Dialogue: 0,0:22:47.78,0:22:48.98,Tanaka,,0,0,0,,Did they?
+Dialogue: 0,0:22:48.98,0:22:52.02,Endo,,0,0,0,,They said "That's US!" to him.
+Dialogue: 0,0:22:52.02,0:22:54.42,Housei,,0,0,0,,That was so good!
+Dialogue: 0,0:22:53.78,0:22:55.25,Endo,,0,0,0,,{\pos(720,992.667)}No, seriously.
+Dialogue: 0,0:22:54.42,0:22:58.26,Matsu,,0,0,0,,Forget that, your impersonation of him was so good!
+Dialogue: 0,0:22:58.26,0:23:00.46,Housei,,0,0,0,,What is with that high quality??
+Dialogue: 0,0:22:59.86,0:23:01.26,Endo,,0,0,0,,{\pos(710,910)}Oh, really?
+Dialogue: 0,0:23:00.46,0:23:04.13,Matsu,,0,0,0,,Surely you didn't need to make that impersonation that good...
+Dialogue: 0,0:23:04.13,0:23:05.70,Endo,,0,0,0,,Was it really that good?
+Dialogue: 0,0:23:04.70,0:23:05.70,Housei,,0,0,0,,Yeah, it was.
+Dialogue: 0,0:23:05.70,0:23:07.53,Endo,,0,0,0,,He said "That's US" whilst laughing...
+Dialogue: 0,0:23:07.53,0:23:09.93,Matsu,,0,0,0,,No, the one before was better!
+Dialogue: 0,0:23:09.93,0:23:11.57,Hamada,,0,0,0,,Oh just leave it.
+Dialogue: 0,0:23:11.57,0:23:12.97,Endo,,0,0,0,,Yeah, he said that to you.
+Dialogue: 0,0:23:12.97,0:23:14.97,Tanaka,,0,0,0,,Was it? I was just so nervous...
+Dialogue: 0,0:23:14.97,0:23:19.38,Matsu,,0,0,0,,So he must have thought,\N"Oh, this poor kid must be so nervous"
+Dialogue: 0,0:23:19.38,0:23:21.08,Matsu,,0,0,0,,and reacted to make you less nervous...
+Dialogue: 0,0:23:21.08,0:23:23.31,Endo,,0,0,0,,That was probably it.
+Dialogue: 0,0:23:21.71,0:23:23.31,Hamada,,0,0,0,,Yeah, probably.
+Dialogue: 0,0:23:23.31,0:23:25.35,Housei,,0,0,0,,Yeah, they could probably\Ntell you were just nervous.
+Dialogue: 0,0:23:25.35,0:23:26.85,Tanaka,,0,0,0,,And Hamada-san as well,
+Dialogue: 0,0:23:26.85,0:23:30.25,Tanaka,,0,0,0,,I had just watched you always on TV and
+Dialogue: 0,0:23:30.25,0:23:32.99,Tanaka,,0,0,0,,I was to introduce myself to you...
+Dialogue: 0,0:23:32.99,0:23:35.06,Tanaka,,0,0,0,,I was like in the same state...
+Dialogue: 0,0:23:35.06,0:23:38.60,Tanaka,,0,0,0,,I was like so nervous and seriously...
+Dialogue: 0,0:23:38.60,0:23:41.93,Tanaka,,0,0,0,,I was so close to saying,\N"Nice to meet you, I'm Hamada."
+Dialogue: 0,0:23:41.93,0:23:43.97,Tanaka,,0,0,0,,Seriously, I just held back
+Dialogue: 0,0:23:43.97,0:23:46.07,Tanaka,,0,0,0,,and panicked at the time...
+Dialogue: 0,0:23:46.07,0:23:49.37,Matsu,,0,0,0,,Well if you had said it,\Nhe would as usual just have hit you.
+Dialogue: 0,0:23:50.37,0:23:52.04,Housei,,0,0,0,,Don't you have anything else to ask...?
+Dialogue: 0,0:23:55.21,0:24:09.69,Title White L,,0,0,0,,Gaki no Tsukai #1198 (2014.03.30) - Heipo Review
+

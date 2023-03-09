@@ -1,0 +1,707 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1104
+PlayResY: 622
+
+[Aegisub Project Garbage]
+Last Style Storage: OLD
+Audio File: #1071 (2011.09.11) - Heipo's Camping Trip with COWCOW & Family.mp4
+Video File: #1071 (2011.09.11) - Heipo's Camping Trip with COWCOW & Family.mp4
+Video AR Mode: 4
+Video AR Value: 1.776527
+Video Zoom Percent: 0.625000
+Scroll Position: 659
+Active Line: 651
+Video Position: 42030
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Hamada,Arial,40,&H00F61718,&H000000FF,&H00FFFFFF,&H00F61718,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,40,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,40,&H000372E3,&H000000FF,&H00FFFFFF,&H000372E3,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,40,&H00C014BF,&H000000FF,&H00FFFFFF,&H00C014BF,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Hosei,Arial,40,&H001EBB1B,&H000000FF,&H00FFFFFF,&H001EBB1B,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Staff,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00807F7F,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Yamada,Arial,40,&H00F76036,&H000000FF,&H00FFFFFF,&H00807F7F,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Nikori,Arial,40,&H000E78ED,&H000000FF,&H00FFFFFF,&H00807F7F,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Sakuharu,Arial,40,&H001E8325,&H000000FF,&H00FFFFFF,&H00807F7F,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Mayo,Arial,40,&H00CC2AFF,&H000000FF,&H00FFFFFF,&H00807F7F,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Heipo,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Credits,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,7,10,10,10,1
+Style: Red,Arial,40,&H001536E3,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Song,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,3,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:03:58.08,0:04:04.92,Yamada,,0,0,0,,https://www.google.com/search?q=%E3%81%97%E3%82%85%E3%81%A3%E3%81%B1%E3%81%A4%E3%81%97%E3%82%93%E3%81%93%E3%81%86&client=firefox-b-d&sxsrf=ALeKk035Z14CDFKDhmt3rF88NURutEs_BA:1612869477825&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiooa2C19zuAhWWu6QKHX8kCWQQ_AUoAXoECAUQAw&biw=1536&bih=722
+Comment: 0,0:22:08.78,0:22:12.82,Song,,0,0,0,,Tatsuro Yamashita - Bokura No Natsu No Yume || https://www.youtube.com/watch?v=qsIEkmHEP0I
+Dialogue: 0,0:00:00.48,0:00:05.48,Default,,0,0,0,,{\4c&H233DC7&\pos(305.995,509.664)}If there's an animal nearby
+Dialogue: 0,0:00:01.88,0:00:05.48,Red,,0,0,0,,{\pos(770.26,490.681)}I can't eat at all!
+Dialogue: 0,0:00:04.84,0:00:06.66,Default,,0,0,0,,Around a month ago
+Dialogue: 0,0:00:05.78,0:00:13.65,Credits,,0,0,0,,{\fs30}(you can find this episode on {\c&H94EB4F&}shionnotsukai.wordpress.com{\c&HFFFFFF&})
+Dialogue: 0,0:00:05.78,0:00:13.65,Default,,0,0,0,,{\fs30\fad(100,0)\c&HFFCC68&\pos(300.019,492.979)}Yamada Yoshi's House{\c&H56F7FC&} sleepover!!
+Dialogue: 0,0:00:05.78,0:00:13.65,Default,,0,0,0,,{\fs22\bord2\c&HC24523&\3c&HFFFFFF&\pos(588,418)}Yoshi
+Dialogue: 0,0:00:05.78,0:00:13.65,Default,,0,0,0,,{\fs22\bord2\c&HBA37FA&\3c&HFFFFFF&\pos(717,418)}Mayo
+Dialogue: 0,0:00:05.78,0:00:13.65,Default,,0,0,0,,{\fs22\bord2\c&H0C73FF&\3c&HFFFFFF&\pos(832,418)}Nikori
+Dialogue: 0,0:00:05.78,0:00:13.65,Default,,0,0,0,,{\fs22\bord2\c&H158C19&\3c&HFFFFFF&\pos(958,418)}Sakuharu
+Dialogue: 0,0:00:06.66,0:00:10.01,Default,,0,0,0,,In order to learn more about comedians as a producer
+Dialogue: 0,0:00:10.35,0:00:13.72,Default,,0,0,0,,Heipo stayed in CowCow Yoshi's house
+Dialogue: 0,0:00:14.55,0:00:19.02,Default,,0,0,0,,{\fade(250,0)\pos(563,498)\4c&H2DA744&\t(0,0,\fs45}Heipo used{\c&H000000&\3c&HFFFFFF&} to hate{\r\4c&H2DA744&\t(0,0,\fs45} animals...
+Dialogue: 0,0:00:14.44,0:00:19.02,Default,,0,0,0,,And then, even though he said he didn't like animals...
+Dialogue: 0,0:00:19.22,0:00:24.08,Default,,0,0,0,,{\fade(250,0)\shad0\blur3\pos(825,241)\3c&HB865FE&\t(0,0,\fs45}Affection for the dogs
+Dialogue: 0,0:00:19.36,0:00:21.00,Default,,0,0,0,,What's wrong? Aren't you sleepy?
+Dialogue: 0,0:00:21.00,0:00:24.08,Default,,0,0,0,,Heipo grew fond of Yoshi's dogs
+Dialogue: 0,0:00:24.32,0:00:30.48,Default,,0,0,0,,{\fade(250,0)\pos(550,497)\4c&H892256&\t(0,0,\fs45}Heipo used{\c&H000000&\3c&HFFFFFF&} to dislike{\r\4c&H892256&\t(0,0,\fs45} kids...
+Dialogue: 0,0:00:25.42,0:00:30.48,Default,,0,0,0,,Not only, our single-man Heipo didn't even like children...
+Dialogue: 0,0:00:32.18,0:00:37.65,Default,,0,0,0,,{\fade(250,0)\shad0\blur3\pos(353,244)\3c&HD5A743&\t(0,0,\fs45}Doting on Yoshi's kids
+Dialogue: 0,0:00:34.42,0:00:37.65,Default,,0,0,0,,But then he fell in love with his kids
+Dialogue: 0,0:00:37.92,0:00:44.12,Default,,0,0,0,,{\pos(545,492)\c&H000000&\3c&HFFFFFF&\4c&H0CC3D3&\t(0,0,\fs45}Heipo became more like a human,{\c&H2919CA&} but what now!?
+Dialogue: 0,0:00:39.14,0:00:44.04,Default,,0,0,0,,But what's in store now for our completely changed Heipo?
+Dialogue: 0,0:00:44.58,0:00:50.82,Hamada,,0,0,0,,First time ever on Gaki no Tsukai!\N{\fs38}World Famous Heipo's Camp Trip with CowCow Yoshi's family!
+Dialogue: 0,0:00:51.68,0:00:52.98,Endo,,0,0,0,,Oh yeah!
+Dialogue: 0,0:00:54.05,0:00:56.48,Matsumoto,,0,0,0,,Oh boy, this is our second time
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&H9928EA&\pos(220,447)}Yamazaki Hosei
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&H1188FF&\pos(546,447)}Endo Shozo
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&H1188FF&\pos(892,445)}Tanaka Naoki
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&HF4DF2D&\pos(220,519)}Matsumoto Hitoshi
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&HF4DF2D&\pos(890,523)}Hamada Masatoshi
+Dialogue: 0,0:00:55.18,0:00:59.68,Default,,0,0,0,,{\fade(250,250)\4c&H47E00F&\pos(535,523)}Heipo
+Dialogue: 0,0:00:56.48,0:00:58.00,Hamada,,0,0,0,,It is\N{\rMatsumoto}- Incredible
+Dialogue: 0,0:00:58.00,0:01:02.35,Hamada,,0,0,0,,He already had a sleepover some time ago\N{\rMatsumoto}- Let me say this
+Dialogue: 0,0:01:02.55,0:01:05.12,Matsumoto,,0,0,0,,That episode had a huge response!!
+Dialogue: 0,0:01:05.12,0:01:07.68,Hamada,,0,0,0,,And yet the viewing rate sucked...
+Dialogue: 0,0:01:05.64,0:01:07.68,Matsumoto,,0,0,0,,{\pos(552,509.402)}Well---
+Dialogue: 0,0:01:07.68,0:01:11.78,Matsumoto,,0,0,0,,{\pos(552,509.402)}Lots of people were surprised \Na Gaki episode could be so touching
+Dialogue: 0,0:01:10.30,0:01:11.78,Endo,,0,0,0,,{\pos(550.398,427.644)}- I see
+Dialogue: 0,0:01:10.74,0:01:14.68,Hosei,,0,0,0,,That's what I said, it improved Heipo's image to me!
+Dialogue: 0,0:01:14.68,0:01:17.62,Hamada,,0,0,0,,But the viewing rate sucked...
+Dialogue: 0,0:01:16.02,0:01:19.46,Default,,0,0,0,,{\pos(552,491.768)}Come on, enough with that!
+Dialogue: 0,0:01:17.12,0:01:19.46,Tanaka,,0,0,0,,Come on, it's fine
+Dialogue: 0,0:01:17.62,0:01:19.46,Hamada,,0,0,0,,- Really...
+Dialogue: 0,0:01:19.46,0:01:21.60,Matsumoto,,0,0,0,,It was really amazing...
+Dialogue: 0,0:01:21.60,0:01:26.72,Matsumoto,,0,0,0,,Well, that's what, like, only two people told me...
+Dialogue: 0,0:01:24.08,0:01:25.96,Hamada,,0,0,0,,{\pos(801.962,506.196)}It figures\N{\rTanaka}- Come on!
+Dialogue: 0,0:01:25.96,0:01:27.68,Hosei,,0,0,0,,{\pos(342.096,442.072)}That's enough, isn't it?
+Dialogue: 0,0:01:27.68,0:01:31.52,Matsumoto,,0,0,0,,And I don't even remember who it was
+Dialogue: 0,0:01:30.16,0:01:31.52,Endo,,0,0,0,,{\pos(550.398,506.196)}That doesn't help
+Dialogue: 0,0:01:31.52,0:01:34.38,Tanaka,,0,0,0,,By the way, it meant so much to him
+Dialogue: 0,0:01:34.38,0:01:39.04,Tanaka,,0,0,0,,That after that, he gave the kids a present
+Dialogue: 0,0:01:39.04,0:01:41.72,Matsumoto,,0,0,0,,After the On-air?\N{\rTanaka}- Yes, unrelated to it
+Dialogue: 0,0:01:41.72,0:01:43.52,Hamada,,0,0,0,,Like, a toy or something?
+Dialogue: 0,0:01:42.22,0:01:43.52,Tanaka,,0,0,0,,{\pos(552,511.005)}Yes, for the record
+Dialogue: 0,0:01:43.53,0:01:48.08,Tanaka,,0,0,0,,He bought a Nintendo 3DS for Nikori and a bicycle for Saku
+Dialogue: 0,0:01:44.15,0:01:51.32,Default,,0,0,0,,{\fs22\fade(250,0)\shad0\c&HC352FA&\3c&HFFFFFF&\pos(383.005,478)}Present for Nikori
+Dialogue: 0,0:01:44.15,0:01:51.32,Default,,0,0,0,,{\fs(30)\fade(250,0)\shad0\c&H000000&\3c&HFFFFFF&\pos(402,522)}Nintendo 3DS
+Dialogue: 0,0:01:46.98,0:01:51.32,Default,,0,0,0,,{\fs20\fade(250,0)\shad0\c&H058F05&\3c&HFFFFFF&\pos(794.035,476.603)}Present for Sakuharu
+Dialogue: 0,0:01:46.98,0:01:51.32,Default,,0,0,0,,{\fs(30)\fade(250,0)\shad0\c&H000000&\3c&HFFFFFF&\pos(801,516)}Bicycle
+Dialogue: 0,0:01:44.50,0:01:46.58,Default,,0,0,0,,That's right
+Dialogue: 0,0:01:48.08,0:01:48.68,Default,,0,0,0,,That's true
+Dialogue: 0,0:01:48.68,0:01:50.30,Endo,,0,0,0,,You paid for those?\N{\rDefault}- Of course
+Dialogue: 0,0:01:50.30,0:01:52.92,Hamada,,0,0,0,,That's a lot, man\N{\rEndo}- Really
+Dialogue: 0,0:01:52.92,0:01:56.35,Matsumoto,,0,0,0,,I was scared when he said "toy" at first, you know...
+Dialogue: 0,0:01:54.42,0:01:56.35,Default,,0,0,0,,{\pos(539.181,443.675)}No way!
+Dialogue: 0,0:01:56.62,0:02:00.68,Default,,0,0,0,,{\fade(0,250)\pos(562,574)\c&H0AAEF5&\3c&HFFFFFF&\4c&H1D33FF&}Downtown's Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:01:56.35,0:02:07.85,Credits,,0,0,0,,{\pos(138.185,3.588)}TYPESET & QC BY {\c&H00AEFF&}KEDOMAS\N{\r}TRANSLATION BY {\c&H00AEFF&}SHION        {\c&H34E5AD&}shionnotsukai.wordpress.com\N{\r}FOLLOW: {\c&H5AEB4F&}FB.COM/SHIONNOTSUKAI {\r}~{\c&HB1EB4F&} TWITTER.COM/SHIONNOTSUKAI\N\N{\r}WANT TO SUPPORT? YOU CAN:\N- DONATE ON {\c&HFF8872&}KO-FI.COM/SHIONNOTSUKAI\N{\r}- BECOME A PATRON ON {\c&HB8B7FF&}PATREON.COM/SHIONNOTSUKAI\N{\alpha&HFF&},.,{\r}AND GET EARLY ACCESS TO RAWS, SOFTSUBS & UPDATES!
+Dialogue: 0,0:02:02.55,0:02:07.85,Default,,0,0,0,,{\c&H09F2EA&}Heipo + kids + street at night = ??\NCamping with Yoshi's family!!
+Dialogue: 0,0:02:09.35,0:02:19.72,Default,,0,0,0,,{\fade(250,250)\blur4\bord4\c&H000000&\3c&HFFFFFF&\pos(367.795,381.799)}This is World Famous Heipo's\N\N\N\NVTR of him enjoying a camp trip\N\N\N\Nwith the children, just that.
+Dialogue: 0,0:02:20.78,0:02:24.42,Default,,0,0,0,,{\fs30\pos(717.591,378)}Somewhere in Tokyo
+Dialogue: 0,0:02:22.56,0:02:24.42,Default,,0,0,0,,It's a day in August
+Dialogue: 0,0:02:24.96,0:02:31.50,Default,,0,0,0,,Heipo heads to a public park to meet Yoshi's family, \Nwhich he first met around a month ago
+Dialogue: 0,0:02:28.58,0:02:32.72,Default,,0,0,0,,{\fade(250,0)\pos(554.595,45.052)}Headed to a park to meet Yoshi's family
+Dialogue: 0,0:02:28.90,0:02:32.90,Matsumoto,,0,0,0,,{\a7\fs25\pos(1012.649,177.603)}Even the way\Nhe walks has\Nchanged\N{\rEndo\fs25}- You're right
+Dialogue: 0,0:02:32.95,0:02:36.52,Staff,,0,0,0,,staff) make sure to leave some good memories
+Dialogue: 0,0:02:34.24,0:02:36.52,Default,,0,0,0,,{\pos(571.228,530.242)}Of course, it's Summer, that's for sure
+Dialogue: 0,0:02:37.08,0:02:38.52,Default,,0,0,0,,{\c&H0D38F4&\3c&HFFFFFF&}And I love them{\r}, you know!
+Dialogue: 0,0:02:38.68,0:02:39.86,Default,,0,0,0,,Is it here?
+Dialogue: 0,0:02:39.86,0:02:41.88,Default,,0,0,0,,Mr. Heipo!!
+Dialogue: 0,0:02:41.88,0:02:45.15,Default,,0,0,0,,Aah~ It's been a while! How are you?
+Dialogue: 0,0:02:45.15,0:02:48.12,Default,,0,0,0,,Oh my,{\c&H0D38F4&\3c&HFFFFFF&} you got so big, didn't you?
+Dialogue: 0,0:02:48.32,0:02:53.78,Default,,0,0,0,,{\fade(250,0)\i1\pos(715,471)}Nikori
+Dialogue: 0,0:02:48.32,0:02:53.78,Default,,0,0,0,,{\fade(250,0)\i1\pos(882.432,514.206)}6 years old
+Dialogue: 0,0:02:51.48,0:02:53.78,Default,,0,0,0,,{\fade(250,0)\i1\pos(164,470)}Sakuharu
+Dialogue: 0,0:02:51.48,0:02:53.78,Default,,0,0,0,,{\fade(250,0)\i1\pos(333.865,513.412)}4 years old
+Dialogue: 0,0:02:48.12,0:02:49.58,Default,,0,0,0,,Hi there
+Dialogue: 0,0:02:50.56,0:02:53.78,Default,,0,0,0,,How's the bicycle, Saku?
+Dialogue: 0,0:02:55.02,0:02:58.12,Nikori,,0,0,0,,Thanks for the 3DS, Heipo
+Dialogue: 0,0:02:57.06,0:02:59.08,Default,,0,0,0,,Did you use it? Yes?
+Dialogue: 0,0:02:59.48,0:03:03.38,Default,,0,0,0,,{\fade(250,250)\pos(551.9,51.381)}The bicycle he got for him
+Dialogue: 0,0:02:59.08,0:03:00.56,Hamada,,0,0,0,,Incredible
+Dialogue: 0,0:03:01.78,0:03:04.02,Endo,,0,0,0,,That's a good bicycle
+Dialogue: 0,0:03:04.02,0:03:05.72,Default,,0,0,0,,He's doing great
+Dialogue: 0,0:03:06.58,0:03:09.18,Default,,0,0,0,,He looks good\N{\rMatsumoto}- Did you buy the helmet too?
+Dialogue: 0,0:03:09.18,0:03:11.58,Default,,0,0,0,,No, I didn't buy that
+Dialogue: 0,0:03:11.58,0:03:13.58,Hamada,,0,0,0,,Why didn't you? Geez
+Dialogue: 0,0:03:12.88,0:03:16.82,Default,,0,0,0,,{\fade(250,250)\pos(551.9,51.381)}The game he got for her
+Dialogue: 0,0:03:14.02,0:03:17.48,Default,,0,0,0,,You gave me this, right?\N- Yeah, I really don't know much about it
+Dialogue: 0,0:03:17.48,0:03:19.55,Default,,0,0,0,,I mean, there are so many DSs around!
+Dialogue: 0,0:03:19.55,0:03:23.22,Default,,0,0,0,,{\fs35}They told me why am I buying it if I don't even know what it is!
+Dialogue: 0,0:03:23.66,0:03:25.22,Default,,0,0,0,,What's going on, Saku-chan?
+Dialogue: 0,0:03:26.95,0:03:29.55,Red,,0,0,0,,So cute, like always!
+Dialogue: 0,0:03:28.42,0:03:29.55,Red,,0,0,0,,{\frz341.3\pos(881.327,483.328)}Ufufufu~
+Dialogue: 0,0:03:29.55,0:03:30.94,Hosei,,0,0,0,,That's...
+Dialogue: 0,0:03:30.94,0:03:33.65,Hamada,,0,0,0,,What a weird way to say it\N{\rDefault}- He's cute, that's a fact!
+Dialogue: 0,0:03:34.15,0:03:41.02,Default,,0,0,0,,{\p1\bord0\shad0\c&HFFFFFF&\1a&H1C&\pos(838,267)\fscx1266\fscy293}m 0 0 l -25 0 l -25 20 l 25 20 l 25 0 l 0 0
+Dialogue: 0,0:03:34.15,0:03:41.02,Default,,0,0,0,,{\p1\bord0\shad0\c&HFFFFFF&\1a&H1C&\pos(842,435)\fscx1305\fscy839}m 0 0 l -25 0 l -25 20 l 25 20 l 25 0 l 0 0
+Dialogue: 0,0:03:34.15,0:03:41.02,Default,,0,0,0,,{\shad0\bord0\c&H273E51&\fnComic Sans MS\pos(518.46,285.848)}World Famous Heipo + CowCow Yoshi's family
+Dialogue: 0,0:03:34.15,0:03:41.02,Default,,0,0,0,,{\fs70\bord2\shad0\c&H034295&\fnComic Sans MS\pos(544,399)}Camp Trip{\i1}!!
+Dialogue: 0,0:03:34.68,0:03:39.77,Default,,0,0,0,,World Famous Heipo and Yoshi's family\Nare ready for camping!
+Dialogue: 0,0:03:37.36,0:03:39.06,Hamada,,0,0,0,,- World famous my ass
+Dialogue: 0,0:03:41.38,0:03:46.18,Default,,0,0,0,,{\fade(250,250)\pos(559.344,40.861)}Going to the camp with Yoshi's car
+Dialogue: 0,0:03:41.02,0:03:43.74,Default,,0,0,0,,Like this?\N- We should get Heipo's first
+Dialogue: 0,0:03:43.74,0:03:46.55,Default,,0,0,0,,Like this?\N- Behind that
+Dialogue: 0,0:03:46.88,0:03:50.12,Default,,0,0,0,,{\fade(250,0)\i1\pos(153,455)}Wife
+Dialogue: 0,0:03:46.88,0:03:50.12,Default,,0,0,0,,{\fade(250,0)\i1\pos(327,512)}Mayo (29 years old)
+Dialogue: 0,0:03:46.55,0:03:48.05,Default,,0,0,0,,Are you excited?
+Dialogue: 0,0:03:48.26,0:03:51.95,Default,,0,0,0,,Not at all!\N{\rMatsumoto}- You can tell his wife wanted to be only with the family
+Dialogue: 0,0:03:50.45,0:03:54.82,Default,,0,0,0,,{\fade(250,250)\pos(559.344,40.861)}Their pet Chihuahua is going with them
+Dialogue: 0,0:03:51.95,0:03:54.82,Default,,0,0,0,,Are you all ready?
+Dialogue: 0,0:03:54.82,0:03:56.78,Default,,0,0,0,,We're off!\N- Oh boy!
+Dialogue: 0,0:03:56.78,0:03:58.08,Default,,0,0,0,,Alright, let's go
+Dialogue: 0,0:03:58.08,0:03:58.88,Yamada,,0,0,0,,One, two and{\rDefault\alpha&HFF&} departu~re! let's go~!
+Dialogue: 0,0:03:58.88,0:04:00.82,Yamada,,0,0,0,,One, two and{\rDefault} departu~re!{\alpha&HFF&} let's go~!
+Dialogue: 0,0:04:00.82,0:04:04.92,Yamada,,0,0,0,,One, two and{\rDefault} departu~re! let's go~!
+Dialogue: 0,0:04:02.60,0:04:04.92,Default,,0,0,0,,{\pos(560.012,501.387)}- Alright kids, I'm ready
+Dialogue: 0,0:04:05.32,0:04:12.15,Default,,0,0,0,,{\fade(250,250)\pos(749.205,373)}Departure
+Dialogue: 0,0:04:04.92,0:04:06.92,Default,,0,0,0,,I wanna go!
+Dialogue: 0,0:04:06.92,0:04:08.28,Default,,0,0,0,,Me too
+Dialogue: 0,0:04:08.28,0:04:11.63,Default,,0,0,0,,And so, the trip for making good\Nmemories for the kids has begun
+Dialogue: 0,0:04:11.63,0:04:13.46,Hamada,,0,0,0,,They must be so excited for it
+Dialogue: 0,0:04:12.78,0:04:15.88,Nikori,,0,0,0,,{\pos(547.193,530.242)}I can't wait!
+Dialogue: 0,0:04:13.68,0:04:15.88,Default,,0,0,0,,That's right, I agree
+Dialogue: 0,0:04:16.42,0:04:18.58,Default,,0,0,0,,What? That sticker has a scent?
+Dialogue: 0,0:04:19.02,0:04:20.34,Default,,0,0,0,,Lemme see
+Dialogue: 0,0:04:22.25,0:04:26.95,Default,,0,0,0,,{\fade(250,0)\pos(559.344,40.861)}Niko-chan loves to collect stickers
+Dialogue: 0,0:04:20.76,0:04:23.30,Default,,0,0,0,,Oh, you're right
+Dialogue: 0,0:04:23.42,0:04:26.95,Default,,0,0,0,,Niko-chan loves to collect stickers
+Dialogue: 0,0:04:28.92,0:04:32.15,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\pos(558.356,84.557)}And also something else...
+Dialogue: 0,0:04:27.18,0:04:29.42,Default,,0,0,0,,Bye bye!
+Dialogue: 0,0:04:29.42,0:04:31.08,Default,,0,0,0,,But she also likes...
+Dialogue: 0,0:04:33.15,0:04:38.85,Default,,0,0,0,,{\shad0\fade(250,250)\3c&H9B62CA&\i1\pos(300.019,612.251)}♪ Heavy Rotation - AKB48{\i0}
+Dialogue: 0,0:04:36.62,0:04:39.05,Yamada,,0,0,0,,{\pos(533,473)}Who's your favorite idol, Niko?
+Dialogue: 0,0:04:39.05,0:04:42.12,Nikori,,0,0,0,,Yuko Oshima
+Dialogue: 0,0:04:40.82,0:04:42.12,Default,,0,0,0,,{\pos(550.398,522.227)}- Oh, I see
+Dialogue: 0,0:04:42.12,0:04:44.65,Nikori,,0,0,0,,Is she your friend?
+Dialogue: 0,0:04:43.15,0:04:44.65,Default,,0,0,0,,{\pos(555,460)}Oh yes, I happen to know her
+Dialogue: 0,0:04:44.98,0:04:48.65,Default,,0,0,0,,{\fade(250,250)\pos(558.923,127.742)}Most likely a lie...
+Dialogue: 0,0:04:44.65,0:04:45.72,Matsumoto,,0,0,0,,Eh? Really?
+Dialogue: 0,0:04:46.00,0:04:48.56,Default,,0,0,0,,Really?!\N- Yeah, I know her
+Dialogue: 0,0:04:48.56,0:04:52.05,Matsumoto,,0,0,0,,No way that's true\N{\rDefault}- No it's true, I know her
+Dialogue: 0,0:04:51.65,0:04:56.98,Default,,0,0,0,,{\fade(250,250)\pos(550.835,51.639)}Niko-chan is obsessed with Yuko Oshima
+Dialogue: 0,0:04:52.30,0:04:54.72,Default,,0,0,0,,You know a lot about her, don't you?
+Dialogue: 0,0:04:54.72,0:04:58.72,Default,,0,0,0,,Niko-chan really likes Yuko Oshima
+Dialogue: 0,0:05:00.34,0:05:03.72,Default,,0,0,0,,It's been 2 and a half hours of driving so far
+Dialogue: 0,0:05:04.62,0:05:10.22,Default,,0,0,0,,{\fade(250,250)\pos(570.549,44.433)}Arrived at Yasuragi-no-Sato camp, Ibaraki prefecture
+Dialogue: 0,0:05:05.08,0:05:10.22,Default,,0,0,0,,They arrived at {\i1}Yasuragi-no-Sato {\i0}camp, in Ibaraki prefecture
+Dialogue: 0,0:05:05.08,0:05:10.22,Default,,0,0,0,,{\fs25\i1\pos(471.884,570.32)}serenity village
+Dialogue: 0,0:05:08.08,0:05:10.22,Matsumoto,,0,0,0,,{\a7\fs30\pos(1012.649,177.603)}Pretty long ride, huh
+Dialogue: 0,0:05:13.58,0:05:18.52,Default,,0,0,0,,{\fade(250,250)\pos(599.232,41.799)}Camp site shrouded in nature
+Dialogue: 0,0:05:11.88,0:05:16.78,Default,,0,0,0,,They chose it so the city-raised kids can enjoy the nature
+Dialogue: 0,0:05:19.22,0:05:23.15,Default,,0,0,0,,{\fade(250,250)\pos(583.344,63.273)}The cottage where they'll stay for the night
+Dialogue: 0,0:05:16.78,0:05:20.00,Matsumoto,,0,0,0,,So, that's why you all drove for 2 and a half hours
+Dialogue: 0,0:05:20.00,0:05:23.13,Default,,0,0,0,,But first, they head to the cottage where they'll stay
+Dialogue: 0,0:05:23.62,0:05:26.52,Default,,0,0,0,,Let's go～
+Dialogue: 0,0:05:23.84,0:05:26.52,Hamada,,0,0,0,,{\a7\fs30\pos(1012.649,177.603)}Such a nice place
+Dialogue: 0,0:05:26.52,0:05:27.75,Endo,,0,0,0,,{\a7\fs30\pos(1012.649,177.603)}- Really
+Dialogue: 0,0:05:32.18,0:05:36.54,Hosei,,0,0,0,,{\a7\fs30\pos(1074.702,178.475)}But really... such a waste\Nto bring Heipo with them\N{\rMatsumoto\fs30}- It should have been family-only
+Dialogue: 0,0:05:32.62,0:05:36.22,Default,,0,0,0,,Alright, let's get in
+Dialogue: 0,0:05:36.92,0:05:40.32,Default,,0,0,0,,This is so good
+Dialogue: 0,0:05:36.54,0:05:40.32,Endo,,0,0,0,,{\a7\fs30\pos(1021.116,174.13)}Can't disagree on that\N{\rMatsumoto\fs30}- He's such a burden
+Dialogue: 0,0:05:40.32,0:05:44.52,Default,,0,0,0,,Don't call me like that!\N{\rHamada}- But that's what you are
+Dialogue: 0,0:05:44.52,0:05:48.75,Matsumoto,,0,0,0,,I want him to leave our planet Earth
+Dialogue: 0,0:05:46.58,0:05:48.75,Default,,0,0,0,,{\pos(540.784,509.402)}Come on...
+Dialogue: 0,0:05:49.78,0:05:52.68,Sakuharu,,0,0,0,,{\pos(729,402)}Heipo, come see the bathtub!
+Dialogue: 0,0:05:52.00,0:05:54.64,Default,,0,0,0,,You want me to?
+Dialogue: 0,0:05:53.08,0:05:54.64,Hamada,,0,0,0,,- Just go!
+Dialogue: 0,0:05:54.64,0:05:57.78,Hosei,,0,0,0,,Follow him\N{\rHamada}- Don't question them
+Dialogue: 0,0:05:57.78,0:05:59.78,Default,,0,0,0,,This one?
+Dialogue: 0,0:05:59.78,0:06:02.78,Matsumoto,,0,0,0,,I bet the kids are so excited\N{\rEndo}- Totally
+Dialogue: 0,0:06:06.08,0:06:08.22,Default,,0,0,0,,Watch your steps
+Dialogue: 0,0:06:09.18,0:06:12.08,Hamada,,0,0,0,,Don't\N{\rDefault}- Pretty big, huh?
+Dialogue: 0,0:06:12.42,0:06:16.88,Default,,0,0,0,,{\fade(250,250)\pos(560.139,48.448)}The kids are loving it
+Dialogue: 0,0:06:13.12,0:06:18.97,Default,,0,0,0,,The kids are really enjoying the\Nnature surrounding this place
+Dialogue: 0,0:06:19.85,0:06:21.97,Default,,0,0,0,,Why with your hands raised?
+Dialogue: 0,0:06:22.52,0:06:23.72,Default,,0,0,0,,Alright, what do we do?
+Dialogue: 0,0:06:23.72,0:06:25.58,Nikori,,0,0,0,,Let's go to the river!
+Dialogue: 0,0:06:25.58,0:06:27.45,Default,,0,0,0,,Wanna go to the river?\N- Let's go
+Dialogue: 0,0:06:27.85,0:06:31.48,Default,,0,0,0,,{\pos(710,377)}Playing by the river
+Dialogue: 0,0:06:33.45,0:06:35.78,Default,,0,0,0,,Can't we do anything about the skipping?
+Dialogue: 0,0:06:35.78,0:06:37.45,Default,,0,0,0,,We should de-excite them a bit
+Dialogue: 0,0:06:37.65,0:06:40.75,Default,,0,0,0,,{\fade(250,0)\pos(563.537,143.376)}Very excited
+Dialogue: 0,0:06:37.82,0:06:44.22,Default,,0,0,0,,{\fs27\fade(250,0)\c&H1F5BFF&\pos(165.133,177.143)}filmed by Yoshi
+Dialogue: 0,0:06:39.26,0:06:40.75,Default,,0,0,0,,They're so lively
+Dialogue: 0,0:06:40.75,0:06:42.38,Default,,0,0,0,,Look at them run
+Dialogue: 0,0:06:42.38,0:06:44.22,Mayo,,0,0,0,,They're really excited!
+Dialogue: 0,0:06:44.55,0:06:49.35,Default,,0,0,0,,{\fade(250,250)\pos(552.321,67.031)}Playing by the river to their heart's content
+Dialogue: 0,0:06:45.62,0:06:49.48,Default,,0,0,0,,It's time to enjoy the nature to the fullest
+Dialogue: 0,0:06:51.32,0:06:55.15,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\pos(556.139,63.84)}Something strange occurs to Heipo
+Dialogue: 0,0:06:51.02,0:06:55.15,Default,,0,0,0,,But something happens to Heipo...
+Dialogue: 0,0:06:53.52,0:06:55.15,Hamada,,0,0,0,,- What now?!
+Dialogue: 0,0:06:55.55,0:06:58.85,Default,,0,0,0,,Wait-- I dislocated my shoulder...
+Dialogue: 0,0:06:56.30,0:06:58.85,Default,,0,0,0,,{\pos(561.614,528.639)}Can we go?\N- Wait
+Dialogue: 0,0:06:58.85,0:07:02.22,Default,,0,0,0,,I can't move my shoulder, what the?
+Dialogue: 0,0:07:00.28,0:07:02.22,Default,,0,0,0,,{\pos(558.409,525.433)}Can we just go?
+Dialogue: 0,0:07:02.58,0:07:07.05,Default,,0,0,0,,{\fade(250,250)\pos(555.911,156.263)}Dislocated shoulder!?
+Dialogue: 0,0:07:02.22,0:07:06.50,Default,,0,0,0,,You know when I had to put on my seatbelt?\NI put it like this
+Dialogue: 0,0:07:06.50,0:07:08.24,Default,,0,0,0,,It's been hurting since that!\N- Is it out of place?
+Dialogue: 0,0:07:08.24,0:07:10.48,Default,,0,0,0,,I think it's fine, but...
+Dialogue: 0,0:07:10.48,0:07:11.62,Default,,0,0,0,,It's probably ok
+Dialogue: 0,0:07:11.62,0:07:14.18,Staff,,0,0,0,,staff) you're moving it without problems!
+Dialogue: 0,0:07:15.22,0:07:19.35,Default,,0,0,0,,{\fade(250,0)\pos(560.765,55.397)}He lied because he doesn't want to swim
+Dialogue: 0,0:07:13.78,0:07:15.72,Default,,0,0,0,,But it's true! It hurts
+Dialogue: 0,0:07:15.72,0:07:19.35,Default,,0,0,0,,Heipo refuses to swim so much he chose to lie
+Dialogue: 0,0:07:19.85,0:07:23.45,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\pos(552.332,50.778)}There's a reason for why he doesn't want to undress...
+Dialogue: 0,0:07:20.08,0:07:23.45,Default,,0,0,0,,He says there's a reason for why\N he doesn't want to get undressed
+Dialogue: 0,0:07:23.75,0:07:26.32,Default,,0,0,0,,{\pos(552,528.639)}Sorry, director
+Dialogue: 0,0:07:25.04,0:07:27.88,Default,,0,0,0,,Watch out for your feet, you should wear some slippers
+Dialogue: 0,0:07:27.88,0:07:30.75,Default,,0,0,0,,{\pos(555.33,496.8)}Hot hot hot hot hot hot!!
+Dialogue: 0,0:07:30.75,0:07:33.52,Default,,0,0,0,,I have a {\rRed}pimple{\r} on my chest...
+Dialogue: 0,0:07:33.52,0:07:35.68,Default,,0,0,0,,Can I keep my T-shirt on?
+Dialogue: 0,0:07:35.04,0:07:36.52,Default,,0,0,0,,{\pos(548.795,527.036)}Are you embarrassed?\N- Kinda
+Dialogue: 0,0:07:36.52,0:07:37.68,Staff,,0,0,0,,staff) undress, if you can...
+Dialogue: 0,0:07:37.18,0:07:38.24,Default,,0,0,0,,{\pos(548.795,527.036)}Got it
+Dialogue: 0,0:07:38.05,0:07:42.02,Default,,0,0,0,,{\fade(250,250)\pos(587.209,56.732)}He's embarrassed about the pimple on his chest
+Dialogue: 0,0:07:39.56,0:07:44.56,Default,,0,0,0,,Heipo still wants to be popular among the female audience
+Dialogue: 0,0:07:43.50,0:07:45.61,Hamada,,0,0,0,,- What the heck!
+Dialogue: 0,0:07:44.56,0:07:47.64,Default,,0,0,0,,Looks like he wanted to hide the pimple
+Dialogue: 0,0:07:44.92,0:07:49.98,Default,,0,0,0,,{\fade(250,0)\pos(591.372,63.141)}Very aware of the female audience
+Dialogue: 0,0:07:47.64,0:07:50.63,Default,,0,0,0,,Why the freeze frame? Come on!
+Dialogue: 0,0:07:51.58,0:07:53.28,Hosei,,0,0,0,,It's pretty big, isn't it?
+Dialogue: 0,0:07:53.50,0:07:56.78,Default,,0,0,0,,The kids are playing innocently by the river
+Dialogue: 0,0:07:56.78,0:07:58.72,Hamada,,0,0,0,,A slide?\N{\rDefault}- Yes
+Dialogue: 0,0:08:00.62,0:08:03.95,Default,,0,0,0,,Oh shi- it's so cold! Aah! Move aside, move!
+Dialogue: 0,0:08:03.95,0:08:05.87,Default,,0,0,0,,Here I come
+Dialogue: 0,0:08:09.10,0:08:10.32,Hamada,,0,0,0,,What the heck
+Dialogue: 0,0:08:10.32,0:08:12.95,Default,,0,0,0,,Huh? My glasses, my glasses!
+Dialogue: 0,0:08:11.40,0:08:12.95,Hamada,,0,0,0,,{\pos(548.275,525.952)}You have them on, you dumbfuck
+Dialogue: 0,0:08:12.95,0:08:15.08,Default,,0,0,0,,Oh, I had them on me, geez...
+Dialogue: 0,0:08:15.08,0:08:16.87,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:08:17.18,0:08:19.68,Sakuharu,,0,0,0,,You're wearing your glasses!
+Dialogue: 0,0:08:18.18,0:08:20.22,Hamada,,0,0,0,,{\pos(553.602,520.624)}Of course you are
+Dialogue: 0,0:08:20.22,0:08:22.25,Sakuharu,,0,0,0,,{\pos(286,468)}Attack!
+Dialogue: 0,0:08:22.96,0:08:25.75,Default,,0,0,0,,Aaah! What are you doing?!
+Dialogue: 0,0:08:27.18,0:08:29.82,Default,,0,0,0,,Oh, come on! You got me
+Dialogue: 0,0:08:31.05,0:08:32.55,Default,,0,0,0,,I even drank some of it!
+Dialogue: 0,0:08:33.68,0:08:35.08,Default,,0,0,0,,Watch out
+Dialogue: 0,0:08:35.58,0:08:40.42,Default,,0,0,0,,{\fade(250,250)\pos(566.128,118.139)}Fully enjoying playing by the river
+Dialogue: 0,0:08:36.48,0:08:40.30,Default,,0,0,0,,Heipo is enjoying the river with the kids
+Dialogue: 0,0:08:40.30,0:08:41.48,Hamada,,0,0,0,,This place is great
+Dialogue: 0,0:08:41.48,0:08:44.18,Nikori,,0,0,0,,Let's slide down together, Heipo!
+Dialogue: 0,0:08:42.52,0:08:44.98,Hamada,,0,0,0,,{\fs30\a7\pos(1012.491,173)}She really likes you\N{\rDefault\fs30}- Yes
+Dialogue: 0,0:08:44.50,0:08:46.76,Default,,0,0,0,,Hold firmly, Saku-chan
+Dialogue: 0,0:08:46.95,0:08:48.55,Default,,0,0,0,,Can we do this together?
+Dialogue: 0,0:08:48.55,0:08:50.95,Hosei,,0,0,0,,Is it gonna hold?\N{\rMatsumoto}- I hope so
+Dialogue: 0,0:08:53.00,0:08:55.62,Matsumoto,,0,0,0,,They're going--- what was that?!
+Dialogue: 0,0:08:56.85,0:08:58.38,Default,,0,0,0,,It's so cold!
+Dialogue: 0,0:08:58.65,0:09:00.82,Default,,0,0,0,,{\pos(553.997,526.103)}Oh shi--- I lost my glasses for real!
+Dialogue: 0,0:08:58.65,0:09:00.82,Matsumoto,,0,0,0,,- Just take them off...
+Dialogue: 0,0:09:01.22,0:09:03.18,Default,,0,0,0,,Look out for his glasses!
+Dialogue: 0,0:09:03.58,0:09:05.20,Default,,0,0,0,,Over there, Saku-chan
+Dialogue: 0,0:09:05.20,0:09:08.05,Default,,0,0,0,,Oh, here they are! Arigato! Thank you!
+Dialogue: 0,0:09:08.05,0:09:09.28,Default,,0,0,0,,Sorry for that
+Dialogue: 0,0:09:09.28,0:09:11.48,Default,,0,0,0,,Oof, save me
+Dialogue: 0,0:09:10.46,0:09:13.30,Hamada,,0,0,0,,{\fs30\a7\pos(1019.274,179)}Were you tired?{\rDefault\fs30}\N- Definitely
+Dialogue: 0,0:09:11.82,0:09:13.38,Mayo,,0,0,0,,Are you ok?
+Dialogue: 0,0:09:16.58,0:09:19.08,Matsumoto,,0,0,0,,What's wrong?\N{\rHosei}- What was that for?
+Dialogue: 0,0:09:19.08,0:09:22.12,Default,,0,0,0,,Ah-- ah- sorry, my feet hurt
+Dialogue: 0,0:09:21.06,0:09:23.38,Endo,,0,0,0,,He's listening to your complaints
+Dialogue: 0,0:09:23.25,0:09:27.05,Default,,0,0,0,,{\fade(250,0)\pos(555.321,51.923)}The one who needs the most care is this 56-yo man
+Dialogue: 0,0:09:27.25,0:09:30.05,Default,,0,0,0,,{\bord0\shad0}To grant the kids the best memories...
+Dialogue: 0,0:09:30.25,0:09:31.62,Default,,0,0,0,,Over here!
+Dialogue: 0,0:09:32.12,0:09:35.72,Default,,0,0,0,,After playing by the river, it's time\Nfor bug-hunting in the forest
+Dialogue: 0,0:09:32.65,0:09:35.85,Default,,0,0,0,,{\fade(0,250)\pos(719,383)}Bug hunting
+Dialogue: 0,0:09:35.95,0:09:38.98,Nikori,,0,0,0,,Ah! I got a big one!
+Dialogue: 0,0:09:36.84,0:09:38.98,Default,,0,0,0,,{\pos(558.409,523.83)}Eh?? What??
+Dialogue: 0,0:09:38.02,0:09:39.80,Hamada,,0,0,0,,{\fs30\a7\pos(1012.491,173)}Nice one, girl
+Dialogue: 0,0:09:39.68,0:09:41.45,Default,,0,0,0,,Look, a butterfly! Try to catch it
+Dialogue: 0,0:09:41.45,0:09:42.75,Hamada,,0,0,0,,That's not rare at all
+Dialogue: 0,0:09:42.75,0:09:44.25,Default,,0,0,0,,Seen anything?
+Dialogue: 0,0:09:44.25,0:09:47.08,Default,,0,0,0,,Aren't you afraid of cicada shells?
+Dialogue: 0,0:09:47.08,0:09:48.45,Default,,0,0,0,,Like this
+Dialogue: 0,0:09:48.45,0:09:50.58,Default,,0,0,0,,{\pos(557,525)}Aren't you afraid of it?
+Dialogue: 0,0:09:49.20,0:09:51.20,Default,,0,0,0,,- It's empty inside
+Dialogue: 0,0:09:50.58,0:09:52.82,Default,,0,0,0,,See? The real cicadas are up above
+Dialogue: 0,0:09:51.78,0:09:56.75,Default,,0,0,0,,{\fade(250,250)\pos(588.221,63.701)}He wants to let the kids touch the bugs
+Dialogue: 0,0:09:53.28,0:09:55.02,Default,,0,0,0,,Here it is\N- Way too high
+Dialogue: 0,0:09:55.02,0:09:57.02,Default,,0,0,0,,Yes, but that's how they do it
+Dialogue: 0,0:09:57.75,0:09:59.15,Default,,0,0,0,,Oopsie daisy
+Dialogue: 0,0:10:00.52,0:10:03.22,Default,,0,0,0,,Ah, I can't reach it at all! What the--?!
+Dialogue: 0,0:10:03.98,0:10:05.75,Yamada,,0,0,0,,It flew away
+Dialogue: 0,0:10:04.72,0:10:05.75,Default,,0,0,0,,{\pos(550.398,472.531)}It's gone...
+Dialogue: 0,0:10:06.05,0:10:08.12,Default,,0,0,0,,Aaaaah! Agh--
+Dialogue: 0,0:10:08.82,0:10:11.17,Default,,0,0,0,,It's a branch...\N{\rHosei}- You're making them worried
+Dialogue: 0,0:10:10.82,0:10:14.92,Default,,0,0,0,,{\fade(250,0)\pos(555.356,53.335)}Traps for rhinoceros beetles
+Dialogue: 0,0:10:11.52,0:10:14.22,Default,,0,0,0,,This is pretty awesome, isn't it?
+Dialogue: 0,0:10:15.55,0:10:18.48,Yamada,,0,0,0,,Let's go get them back tomorrow morning
+Dialogue: 0,0:10:18.72,0:10:21.25,Default,,0,0,0,,{\pos(738.421,372.603)}Dinner time
+Dialogue: 0,0:10:21.42,0:10:23.92,Default,,0,0,0,,{\fade(250,0)\pos(563.707,129.536)}Making some yaki-soba
+Dialogue: 0,0:10:19.74,0:10:23.92,Default,,0,0,0,,For dinner, he'll be making yaki-soba with the kids
+Dialogue: 0,0:10:21.88,0:10:24.48,Hamada,,0,0,0,,- This is actually nice
+Dialogue: 0,0:10:24.48,0:10:29.28,Sakuharu,,0,0,0,,Heipo, do you like yaki-soba?
+Dialogue: 0,0:10:25.10,0:10:27.00,Hamada,,0,0,0,,{\pos(555.205,527.036)}- With the bbq and all
+Dialogue: 0,0:10:27.28,0:10:29.28,Default,,0,0,0,,{\pos(555.205,527.036)}- I love it, it's so good
+Dialogue: 0,0:10:29.95,0:10:34.25,Default,,0,0,0,,It looks so good, but there's a lot of it
+Dialogue: 0,0:10:34.25,0:10:36.22,Default,,0,0,0,,It looks tasty\N- Really
+Dialogue: 0,0:10:36.56,0:10:38.38,Hamada,,0,0,0,,Do we need this shot?
+Dialogue: 0,0:10:38.52,0:10:42.55,Default,,0,0,0,,Let's dig in!!
+Dialogue: 0,0:10:42.95,0:10:46.65,Matsumoto,,0,0,0,,Maybe he smelled suspense in the air?
+Dialogue: 0,0:10:44.52,0:10:46.65,Tanaka,,0,0,0,,{\pos(553.602,511.005)}- It must have been that
+Dialogue: 0,0:10:47.08,0:10:49.32,Yamada,,0,0,0,,The yaki-soba is great
+Dialogue: 0,0:10:48.38,0:10:50.38,Default,,0,0,0,,{\pos(548.795,527.036)}- It's good, yes
+Dialogue: 0,0:10:51.02,0:10:53.82,Default,,0,0,0,,So? Do you like your yaki-soba?
+Dialogue: 0,0:10:56.80,0:11:00.48,Default,,0,0,0,,After dinner, they got back to their cottage
+Dialogue: 0,0:10:57.85,0:11:01.45,Default,,0,0,0,,{\fade(250,0)\pos(551.128,92.84)}Back to the cottage after dinner
+Dialogue: 0,0:11:02.82,0:11:04.58,Default,,0,0,0,,What's that thing?
+Dialogue: 0,0:11:06.32,0:11:09.85,Default,,0,0,0,,{\fade(250,0)\pos(323.935,122.314)}Touching the dog with ease
+Dialogue: 0,0:11:05.42,0:11:07.58,Matsumoto,,0,0,0,,I bet you all were tired
+Dialogue: 0,0:11:08.48,0:11:10.48,Default,,0,0,0,,Ah, that one...\N{\rMatsumoto}- He's fine with it by now
+Dialogue: 0,0:11:11.42,0:11:14.48,Default,,0,0,0,,I think the dog wants to drink some water
+Dialogue: 0,0:11:10.48,0:11:11.42,Hamada,,0,0,0,,Really
+Dialogue: 0,0:11:14.48,0:11:16.14,Default,,0,0,0,,Can I use this?\N- Sure
+Dialogue: 0,0:11:16.14,0:11:20.35,Default,,0,0,0,,Yes, that one should do it\N{\rHosei}- He's not afraid of it anymore
+Dialogue: 0,0:11:20.35,0:11:23.05,Default,,0,0,0,,Look, his ears got all pointy-- he's going!
+Dialogue: 0,0:11:23.05,0:11:24.82,Default,,0,0,0,,See? He really wanted to drink water
+Dialogue: 0,0:11:24.82,0:11:27.38,Default,,0,0,0,,That means I was right
+Dialogue: 0,0:11:26.15,0:11:27.38,Mayo,,0,0,0,,{\pos(547,466)}That's impressive
+Dialogue: 0,0:11:27.72,0:11:30.95,Default,,0,0,0,,{\fade(250,0)\pos(554.911,82.603)}He understands how the dog feels
+Dialogue: 0,0:11:27.38,0:11:30.95,Default,,0,0,0,,Yeah, I kind of felt that\N{\rMatsumoto}- Is it really that impressive?
+Dialogue: 0,0:11:31.35,0:11:33.38,Hamada,,0,0,0,,He barely did anything
+Dialogue: 0,0:11:31.82,0:11:33.38,Default,,0,0,0,,{\pos(558.409,530.242)}- What's wrong?
+Dialogue: 0,0:11:33.38,0:11:35.55,Default,,0,0,0,,Oh boy,{\rRed} you're so cute!
+Dialogue: 0,0:11:34.30,0:11:35.90,Hamada,,0,0,0,,{\pos(566.421,522.227)}- The hell are you doing?!
+Dialogue: 0,0:11:38.62,0:11:42.25,Default,,0,0,0,,{\pos(727,376)}Fireflies sightseeing
+Dialogue: 0,0:11:38.18,0:11:40.00,Default,,0,0,0,,It's not a problem!
+Dialogue: 0,0:11:40.00,0:11:42.25,Default,,0,0,0,,After resting a while in the cottage...
+Dialogue: 0,0:11:42.25,0:11:46.68,Matsumoto,,0,0,0,,So many events...\N{\rDefault}- The children want to see the fireflies by all means
+Dialogue: 0,0:11:46.68,0:11:48.74,Hamada,,0,0,0,,Heipo can barely stand up
+Dialogue: 0,0:11:48.42,0:11:53.22,Default,,0,0,0,,{\fade(250,250)\pos(589.062,59.655)}Heading towards a spot near the river
+Dialogue: 0,0:11:49.22,0:11:53.92,Default,,0,0,0,,They leave Mayo behind and go to\Nthe river to see the fireflies
+Dialogue: 0,0:11:53.92,0:11:56.32,Default,,0,0,0,,Let's go, Saku-chan. You ok, Niko-chan?
+Dialogue: 0,0:11:55.58,0:11:58.08,Mayo,,0,0,0,,{\pos(558.409,528.639)}Be careful!
+Dialogue: 0,0:11:54.98,0:11:56.92,Hamada,,0,0,0,,{\a7\fs30\pos(1012.649,177.603)}Are they gonna be fine?
+Dialogue: 0,0:11:56.94,0:11:59.88,Hosei,,0,0,0,,{\a7\fs30\pos(1012.649,177.603)}I hope so{\pos(667.367,613.603)}\N{\rHamada\fs30}- I mean, that's scary
+Dialogue: 0,0:11:59.88,0:12:01.52,Sakuharu,,0,0,0,,Wait for us, mama!
+Dialogue: 0,0:12:01.88,0:12:05.85,Matsumoto,,0,0,0,,You should have sent your sister instead
+Dialogue: 0,0:12:06.60,0:12:08.18,Default,,0,0,0,,Aren't you scared, Saku-chan?
+Dialogue: 0,0:12:08.78,0:12:11.82,Default,,0,0,0,,Yoshi) Are you scared? You're good?
+Dialogue: 0,0:12:10.32,0:12:11.82,Default,,0,0,0,,{\pos(552,528.639)}- You're ok?
+Dialogue: 0,0:12:11.82,0:12:12.78,Default,,0,0,0,,Saku) I'm not scared
+Dialogue: 0,0:12:12.98,0:12:16.48,Default,,0,0,0,,{\fade(250,0)\pos(560.718,56.129)}A fearless 4-year-old boy
+Dialogue: 0,0:12:12.78,0:12:16.48,Default,,0,0,0,,Saku-chan is amazing, isn't he?
+Dialogue: 0,0:12:17.05,0:12:18.85,Default,,0,0,0,,Aahhh...{\alpha&HFF&} Aa{\fs(45)}aa{\fs(47)}aa{\fs(49)}aa{\fs(51)}ah!!
+Dialogue: 0,0:12:18.85,0:12:20.82,Default,,0,0,0,,Aahhh... Aa{\fs(45)}aa{\fs(47)}aa{\fs(49)}aa{\fs(51)}ah!!
+Dialogue: 0,0:12:19.46,0:12:21.17,Default,,0,0,0,,{\pos(560.012,525.433)}I stepped on something
+Dialogue: 0,0:12:21.17,0:12:22.68,Default,,0,0,0,,I feel safe with papa around
+Dialogue: 0,0:12:22.68,0:12:25.55,Default,,0,0,0,,Aaah! Something's there!
+Dialogue: 0,0:12:23.38,0:12:25.55,Default,,0,0,0,,{\pos(578,445)}Ee{\fs(45)}ee{\fs(47)}ee{\fs(49)}ee{\fs(51)}ee{\fs(53)}eh!!
+Dialogue: 0,0:12:25.55,0:12:26.82,Hosei,,0,0,0,,Oh shit
+Dialogue: 0,0:12:26.55,0:12:31.08,Default,,0,0,0,,{\fade(250,0)\pos(560.537,67.495)}A 6-year-old girl toying with Heipo's emotions
+Dialogue: 0,0:12:27.58,0:12:31.08,Default,,0,0,0,,You scared me! Pranks are no good!
+Dialogue: 0,0:12:31.08,0:12:34.62,Default,,0,0,0,,Man, these kids are brave
+Dialogue: 0,0:12:35.12,0:12:37.55,Default,,0,0,0,,{\pos(558.409,527.036)}Yoshi) Hear that? It's the sound of the river
+Dialogue: 0,0:12:36.84,0:12:40.67,Default,,0,0,0,,I can clearly hear it, man, it's so scary in here
+Dialogue: 0,0:12:37.88,0:12:41.62,Default,,0,0,0,,{\fade(250,0)\pos(554.73,134.964)}Arrived by the river
+Dialogue: 0,0:12:40.70,0:12:42.36,Default,,0,0,0,,Watch your steps, ok?
+Dialogue: 0,0:12:42.48,0:12:44.48,Default,,0,0,0,,It's a glove!
+Dialogue: 0,0:12:42.90,0:12:44.00,Default,,0,0,0,,{\pos(558.409,527.036)}Look
+Dialogue: 0,0:12:44.00,0:12:45.48,Default,,0,0,0,,{\pos(558.409,527.036)}This is some scary stuff
+Dialogue: 0,0:12:45.48,0:12:48.15,Default,,0,0,0,,Aaaaaah! No way {\fs(47)}no way {\fs(51)}no way!!
+Dialogue: 0,0:12:48.15,0:12:50.22,Default,,0,0,0,,There was something...{\rRed\alpha&HFF&} I don't know
+Dialogue: 0,0:12:50.22,0:12:52.22,Default,,0,0,0,,There was something...{\rRed} I don't know
+Dialogue: 0,0:12:47.40,0:12:49.72,Default,,0,0,0,,{\pos(558.409,528.639)}- Eh? What's going on--?
+Dialogue: 0,0:12:50.95,0:12:53.00,Default,,0,0,0,,{\pos(558.409,528.639)}But I felt something
+Dialogue: 0,0:12:51.80,0:12:53.22,Tanaka,,0,0,0,,{\fs30\a7\pos(1012.491,173)}Here he goes
+Dialogue: 0,0:12:53.22,0:12:55.25,Tanaka,,0,0,0,,{\fs30\a7\pos(1012.491,173)}That's a classic
+Dialogue: 0,0:12:55.25,0:12:57.25,Default,,0,0,0,,Was there something there, Saku-chan?
+Dialogue: 0,0:12:57.25,0:13:01.28,Default,,0,0,0,,Nothing\N{\rEndo}- That's a face I've seen countless times
+Dialogue: 0,0:13:04.52,0:13:06.08,Default,,0,0,0,,Aaah!! {\fs(45)}Aaaaah!! {\fs(50)\alpha&HFF&}Scaryyy~!!
+Dialogue: 0,0:13:06.08,0:13:07.45,Default,,0,0,0,,Aaah!! {\fs(45)}Aaaaah!! {\fs(50)}Scaryyy~!!
+Dialogue: 0,0:13:07.45,0:13:09.08,Default,,0,0,0,,There's something! Something! Something!
+Dialogue: 0,0:13:09.08,0:13:12.18,Default,,0,0,0,,I saw it, it's here!
+Dialogue: 0,0:13:12.18,0:13:14.85,Hamada,,0,0,0,,What the--?\N{\rDefault}- How can you be so calm?
+Dialogue: 0,0:13:14.85,0:13:16.62,Default,,0,0,0,,{\pos(577.969,527.435)}Saku-chan is so brave
+Dialogue: 0,0:13:15.98,0:13:18.56,Default,,0,0,0,,- He's a strong boy
+Dialogue: 0,0:13:18.56,0:13:21.06,Matsumoto,,0,0,0,,This is scary, for real
+Dialogue: 0,0:13:19.75,0:13:21.58,Default,,0,0,0,,{\pos(561.614,528.639)}You ok? Are you scared?
+Dialogue: 0,0:13:21.06,0:13:23.34,Hosei,,0,0,0,,The kids must be so confused
+Dialogue: 0,0:13:21.58,0:13:24.48,Default,,0,0,0,,{\pos(571.228,485.356)}I'm holding Niko-chan's hand so tight right now
+Dialogue: 0,0:13:23.34,0:13:27.20,Hamada,,0,0,0,,They're gonna hate him    {\rDefault}- Stay close, Niko-chan
+Dialogue: 0,0:13:26.35,0:13:31.65,Default,,0,0,0,,{\fade(250,250)\pos(586.607,59.242)}Niko-chan annoyed by Heipo
+Dialogue: 0,0:13:27.20,0:13:29.77,Default,,0,0,0,,Be quiet...
+Dialogue: 0,0:13:29.90,0:13:31.73,Default,,0,0,0,,Wanna walk some more?
+Dialogue: 0,0:13:32.08,0:13:34.88,Default,,0,0,0,,Where are the fireflies?\N- Ahead
+Dialogue: 0,0:13:34.88,0:13:41.15,Default,,0,0,0,,♪ Let's walk, let's walk, I am...--
+Dialogue: 0,0:13:41.15,0:13:43.48,Default,,0,0,0,,AAAAAAAAAAAAAAAAAAH
+Dialogue: 0,0:13:43.48,0:13:47.15,Default,,0,0,0,,Heipo){\rRed} It's a tree, sorry
+Dialogue: 0,0:13:46.10,0:13:47.75,Endo,,0,0,0,,{\fs30\a7\pos(1012.491,173)}Come on...
+Dialogue: 0,0:13:47.75,0:13:51.72,Default,,0,0,0,,Niko) Heipo is making me jump off all the time
+Dialogue: 0,0:13:51.72,0:13:53.72,Default,,0,0,0,,Niko){\rRed} Go back home!
+Dialogue: 0,0:13:50.34,0:13:52.32,Default,,0,0,0,,{\pos(460.668,528.639)}- Yes...
+Dialogue: 0,0:13:52.68,0:13:54.13,Hamada,,0,0,0,,{\fs30\a7\pos(1012.491,173)}Go home--?!
+Dialogue: 0,0:13:54.22,0:13:56.38,Tanaka,,0,0,0,,{\fs30\a7\pos(1012.491,173)}She's right
+Dialogue: 0,0:13:54.85,0:13:56.38,Default,,0,0,0,,Heipo) I don't wanna go alone
+Dialogue: 0,0:13:56.38,0:13:58.92,Default,,0,0,0,,A ghost could pop out...
+Dialogue: 0,0:13:56.90,0:13:58.92,Default,,0,0,0,,{\pos(539.181,528.639)}- No ghost will pop out
+Dialogue: 0,0:13:58.92,0:14:01.75,Default,,0,0,0,,You're so strong, Niko-chan, let's just go
+Dialogue: 0,0:14:01.75,0:14:03.62,Default,,0,0,0,,Niko){\rRed} There's a cobweb in there
+Dialogue: 0,0:14:03.62,0:14:05.12,Default,,0,0,0,,Niko){\rRed} There's a cobweb in there!!
+Dialogue: 0,0:14:05.38,0:14:08.98,Default,,0,0,0,,{\fade(250,0)\pos(550.104,116.711)}Niko-chan is furious
+Dialogue: 0,0:14:05.12,0:14:06.90,Matsumoto,,0,0,0,,She snapped
+Dialogue: 0,0:14:06.90,0:14:10.34,Default,,0,0,0,,- What's wrong?\N{\rHamada}You suck, man
+Dialogue: 0,0:14:09.32,0:14:12.78,Default,,0,0,0,,{\fade(250,0)\pos(550.104,59)}Heipo is the only one shouting and ranting
+Dialogue: 0,0:14:10.34,0:14:12.78,Default,,0,0,0,,Heipo is making a fuss over everything
+Dialogue: 0,0:14:13.28,0:14:18.95,Default,,0,0,0,,Niko-chan got angry, and the\Nfireflies sightseeing is suspended
+Dialogue: 0,0:14:15.52,0:14:19.58,Default,,0,0,0,,{\fade(250,0)\pos(553.309,102.284)}Fireflight sightseeing: canceled
+Dialogue: 0,0:14:19.58,0:14:22.72,Sakuharu,,0,0,0,,Heipo was very scared
+Dialogue: 0,0:14:21.28,0:14:22.72,Default,,0,0,0,,{\pos(553.602,525.433)}I was, wasn't I?
+Dialogue: 0,0:14:22.72,0:14:24.28,Default,,0,0,0,,A lot
+Dialogue: 0,0:14:24.28,0:14:25.78,Default,,0,0,0,,Papa was so strong, right Niko-chan?
+Dialogue: 0,0:14:26.12,0:14:31.12,Default,,0,0,0,,{\fade(250,250)\pos(561.911,75.603)}Ignoring Heipo as much as she can
+Dialogue: 0,0:14:25.98,0:14:28.66,Default,,0,0,0,,I'm glad there was another adult with me
+Dialogue: 0,0:14:28.92,0:14:32.52,Default,,0,0,0,,Sorry about that, by the way
+Dialogue: 0,0:14:33.35,0:14:35.52,Default,,0,0,0,,It's time to sleep
+Dialogue: 0,0:14:36.55,0:14:40.22,Default,,0,0,0,,The parents are concerned about their angry daughter
+Dialogue: 0,0:14:40.48,0:14:43.58,Yamada,,0,0,0,,Niko-chan, wanna sleep here with Heipo?
+Dialogue: 0,0:14:43.75,0:14:47.62,Default,,0,0,0,,{\fade(250,0)\pos(574.004,117.237)}Sleeping with Heipo so they\Ncan be friends again
+Dialogue: 0,0:14:44.50,0:14:47.62,Default,,0,0,0,,Are you ok by now?
+Dialogue: 0,0:14:47.95,0:14:52.95,Default,,0,0,0,,{\fade(250,250)\pos(551.73,345.603)}The parents and Saku-chan\Nwill sleep in the other room
+Dialogue: 0,0:14:49.14,0:14:53.31,Default,,0,0,0,,Wife, husband and Saku-chan will sleep in the other room
+Dialogue: 0,0:14:54.35,0:14:59.02,Default,,0,0,0,,{\fade(250,250)\pos(559.742,77.887)}Heipo and Niko-chan
+Dialogue: 0,0:14:54.96,0:14:59.72,Default,,0,0,0,,Ahh--- the futon feels so nice\N- It really does, huh?
+Dialogue: 0,0:14:59.72,0:15:01.52,Default,,0,0,0,,Let's go to sleep, ok?
+Dialogue: 0,0:15:01.52,0:15:03.55,Nikori,,0,0,0,,No! Picture book!
+Dialogue: 0,0:15:02.00,0:15:03.55,Default,,0,0,0,,{\pos(550.398,530.242)}Want me to read it?
+Dialogue: 0,0:15:03.55,0:15:06.72,Nikori,,0,0,0,,Yes, because tomorrow we can't
+Dialogue: 0,0:15:04.90,0:15:06.72,Default,,0,0,0,,{\pos(550.398,530.242)}Right, I'm reading it
+Dialogue: 0,0:15:06.72,0:15:09.60,Hosei,,0,0,0,,Oh, a recovery chance\N{\rTanaka}- It's crucial
+Dialogue: 0,0:15:09.68,0:15:13.85,Default,,0,0,0,,{\fade(250,0)\pos(554.935,137.201)}Quarrel-solver picture book
+Dialogue: 0,0:15:09.60,0:15:12.95,Default,,0,0,0,,{\i1}His figure reflected in the snow light{\i0}...
+Dialogue: 0,0:15:12.95,0:15:13.98,Default,,0,0,0,,Here\N- Yes
+Dialogue: 0,0:15:13.98,0:15:19.15,Default,,0,0,0,,{\i1}The white-bearded old man put his hat back on{\i0}...
+Dialogue: 0,0:15:19.58,0:15:22.32,Default,,0,0,0,,Is this a famous book?
+Dialogue: 0,0:15:23.12,0:15:26.25,Nikori,,0,0,0,,I don't think it's famous
+Dialogue: 0,0:15:24.22,0:15:26.25,Default,,0,0,0,,{\pos(560.012,528.639)}So it's not, huh
+Dialogue: 0,0:15:26.45,0:15:30.85,Nikori,,0,0,0,,But you are famous, aren't you?
+Dialogue: 0,0:15:29.02,0:15:30.85,Default,,0,0,0,,{\pos(560.012,530.242)}In a way yes, I guess so
+Dialogue: 0,0:15:31.18,0:15:37.52,Default,,0,0,0,,{\fade(250,250)\pos(568.367,74.809)}Niko-chan has forgiven him
+Dialogue: 0,0:15:30.98,0:15:37.88,Default,,0,0,0,,Looks like Niko-chan has forgiven\NHeipo's attitude from before
+Dialogue: 0,0:15:38.22,0:15:41.05,Nikori,,0,0,0,,{\pos(550.398,528.639)}I can't sleep if it's bright...
+Dialogue: 0,0:15:40.40,0:15:43.25,Default,,0,0,0,,You can't if there's a light? I see...
+Dialogue: 0,0:15:43.25,0:15:46.45,Default,,0,0,0,,I prefer it when it's brighter, though
+Dialogue: 0,0:15:44.62,0:15:46.45,Hamada,,0,0,0,,{\fs30\a7\pos(1012.491,173)}Who cares?
+Dialogue: 0,0:15:46.45,0:15:50.42,Red,,0,0,0,,Whoa, you'll sleep soon
+Dialogue: 0,0:15:48.94,0:15:50.42,Hamada,,0,0,0,,{\fs30\a7\pos(1012.491,173)}What does that mean?
+Dialogue: 0,0:15:50.65,0:15:54.48,Default,,0,0,0,,Sleep well, ok? Alright, so cute
+Dialogue: 0,0:15:54.92,0:15:57.48,Default,,0,0,0,,Goodnight!\N{\rHosei}- "You'll sleep"...
+Dialogue: 0,0:15:58.85,0:16:02.52,Nikori,,0,0,0,,{\pos(542,369)}Do you think Saku-chan is sleeping already?
+Dialogue: 0,0:16:00.34,0:16:02.52,Default,,0,0,0,,I bet he is, he felt so sleepy before
+Dialogue: 0,0:16:02.85,0:16:11.18,Default,,0,0,0,,{\fade(250,250)\pos(547.718,82.031)}The parents and Saku-chan
+Dialogue: 0,0:16:05.74,0:16:08.11,Matsumoto,,0,0,0,,That snoring... is it Yoshi?
+Dialogue: 0,0:16:08.86,0:16:12.22,Endo,,0,0,0,,Holy cow\N{\rTanaka}- That's impressive
+Dialogue: 0,0:16:12.82,0:16:18.85,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\pos(254.663,518)}coming up
+Dialogue: 0,0:16:12.82,0:16:18.85,Default,,0,0,0,,{\fade(250,0)\c&H1737DF&\3c&HFFFFFF&\pos(648,495)}Big trouble before parting!!
+Dialogue: 0,0:16:15.66,0:16:18.02,Hamada,,0,0,0,,You can't make that face
+Dialogue: 0,0:16:22.55,0:16:23.92,Default,,0,0,0,,The next morning
+Dialogue: 0,0:16:23.55,0:16:27.52,Default,,0,0,0,,{\fade(250,0)\pos(546.707,77.856)}Going to get the rhinoceros beetle
+Dialogue: 0,0:16:24.22,0:16:29.27,Default,,0,0,0,,The four of them woke up early to go check\Nthe trap for the rhinoceros beetle they set
+Dialogue: 0,0:16:30.86,0:16:31.85,Default,,0,0,0,,Let's go
+Dialogue: 0,0:16:31.85,0:16:33.46,Default,,0,0,0,,Let's go, Saku-chan
+Dialogue: 0,0:16:33.85,0:16:34.98,Default,,0,0,0,,Come on
+Dialogue: 0,0:16:35.42,0:16:37.42,Default,,0,0,0,,Is it here?
+Dialogue: 0,0:16:37.68,0:16:39.72,Default,,0,0,0,,Oh, here it is! It's here!
+Dialogue: 0,0:16:39.72,0:16:40.50,Hosei,,0,0,0,,Really?
+Dialogue: 0,0:16:40.05,0:16:42.42,Nikori,,0,0,0,,{\pos(546,527)}It's a big one
+Dialogue: 0,0:16:40.50,0:16:42.79,Default,,0,0,0,,This is incredible!
+Dialogue: 0,0:16:43.22,0:16:45.45,Default,,0,0,0,,Go get it, it's here
+Dialogue: 0,0:16:45.65,0:16:47.72,Default,,0,0,0,,Oh man, here we go
+Dialogue: 0,0:16:48.02,0:16:50.18,Default,,0,0,0,,Here, I took it Saku-chan
+Dialogue: 0,0:16:50.18,0:16:51.18,Default,,0,0,0,,Check it out!
+Dialogue: 0,0:16:51.18,0:16:53.68,Sakuharu,,0,0,0,,Noo～
+Dialogue: 0,0:16:52.04,0:16:53.68,Default,,0,0,0,,{\pos(558.409,528.639)}What's wrong? You ok?
+Dialogue: 0,0:16:53.68,0:16:55.49,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:16:54.92,0:16:57.55,Endo,,0,0,0,,{\a7\fs30\pos(1018.9,175)}What--\N{\rMatsumoto\fs30}- What's happening?
+Dialogue: 0,0:16:56.48,0:16:57.92,Nikori,,0,0,0,,What the heck!!
+Dialogue: 0,0:16:58.18,0:17:02.48,Default,,0,0,0,,{\fade(250,250)\pos(557.321,150.995)}Siblings quarrel
+Dialogue: 0,0:16:57.92,0:17:01.10,Hamada,,0,0,0,,What's going on?\N{\rEndo}- They're fighting
+Dialogue: 0,0:17:01.10,0:17:03.72,Hamada,,0,0,0,,What happened?\N{\rDefault}- What should I do...?
+Dialogue: 0,0:17:03.72,0:17:05.36,Default,,0,0,0,,Where do you want to put it in?
+Dialogue: 0,0:17:05.36,0:17:06.92,Default,,0,0,0,,{\pos(564.819,533.448)}You want it in your box?
+Dialogue: 0,0:17:05.92,0:17:09.85,Default,,0,0,0,,You want it inside your box? I see, that's it...
+Dialogue: 0,0:17:06.92,0:17:09.85,Hamada,,0,0,0,,{\a7\fs30\pos(1018.9,175)}He wanted it for him\N{\rHosei\fs30}- Ahh, I see...
+Dialogue: 0,0:17:09.85,0:17:12.70,Default,,0,0,0,,As soon as I put it in, close the lid\N{\rHamada}- What about Niko now?
+Dialogue: 0,0:17:12.70,0:17:14.28,Default,,0,0,0,,Like that, nice
+Dialogue: 0,0:17:14.28,0:17:17.38,Yamada,,0,0,0,,Alright, Niko-chan, wanna take that stag beetle?
+Dialogue: 0,0:17:15.52,0:17:17.38,Default,,0,0,0,,{\pos(545.591,527.036)}Nice, huh?
+Dialogue: 0,0:17:17.38,0:17:19.85,Nikori,,0,0,0,,I don't wanna
+Dialogue: 0,0:17:18.26,0:17:19.85,Default,,0,0,0,,{\pos(555.205,530.242)}Are you afraid of touching it?
+Dialogue: 0,0:17:20.32,0:17:22.15,Default,,0,0,0,,It's a big one\N - It is
+Dialogue: 0,0:17:22.15,0:17:23.92,Default,,0,0,0,,It's a stag beetle\N- A big one
+Dialogue: 0,0:17:23.92,0:17:28.02,Default,,0,0,0,,Don't you want it, Niko-chan...?
+Dialogue: 0,0:17:25.40,0:17:28.02,Default,,0,0,0,,{\pos(548.795,533.448)}- Put it in, Niko
+Dialogue: 0,0:17:28.02,0:17:31.38,Default,,0,0,0,,This looks fine
+Dialogue: 0,0:17:31.52,0:17:33.52,Matsumoto,,0,0,0,,There's a lot going on here
+Dialogue: 0,0:17:32.08,0:17:36.42,Nikori,,0,0,0,,{\pos(550.002,518.111)}I can't open this up!! I'm getting mad
+Dialogue: 0,0:17:33.88,0:17:36.42,Default,,0,0,0,,Heipo, can you open it for her?
+Dialogue: 0,0:17:38.85,0:17:43.58,Default,,0,0,0,,{\fade(250,0)\pos(552.9,65.443)}Niko-chan's mood is awful
+Dialogue: 0,0:17:39.56,0:17:43.58,Default,,0,0,0,,And now, Niko-chan's mood is awful
+Dialogue: 0,0:17:44.45,0:17:47.62,Default,,0,0,0,,But it's almost time for their camping trip to end
+Dialogue: 0,0:17:48.48,0:17:51.22,Yamada,,0,0,0,,How was the camp, Niko-chan?
+Dialogue: 0,0:17:49.02,0:17:51.22,Default,,0,0,0,,{\pos(555.205,529.724)}I'll get you the change of clothes
+Dialogue: 0,0:17:53.38,0:17:58.02,Default,,0,0,0,,{\fade(250,250)\pos(561.525,75.649)}Ignoring her dad's question
+Dialogue: 0,0:17:54.76,0:17:56.78,Endo,,0,0,0,,Oh no...
+Dialogue: 0,0:17:56.78,0:17:59.16,Default,,0,0,0,,She's not in her best mood
+Dialogue: 0,0:17:59.16,0:18:01.52,Default,,0,0,0,,The atmosphere is really tense
+Dialogue: 0,0:18:02.05,0:18:05.68,Default,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\pos(563.104,78.031)}A surprise from Heipo
+Dialogue: 0,0:18:01.72,0:18:04.72,Default,,0,0,0,,But Heipo has a surprise for the kids...
+Dialogue: 0,0:18:04.72,0:18:06.52,Hosei,,0,0,0,,Well done\N{\rHamada}- Good one
+Dialogue: 0,0:18:06.25,0:18:08.62,Default,,0,0,0,,{\fade(250,0)\pos(559.707,108.077)}AKB48 theater
+Dialogue: 0,0:18:06.52,0:18:07.68,Hamada,,0,0,0,,That's actually nice
+Dialogue: 0,0:18:07.68,0:18:13.98,Default,,0,0,0,,Heipo heard that both Niko and Saku are a fan of Oshima Yuko, so he reached her out
+Dialogue: 0,0:18:11.35,0:18:20.52,Default,,0,0,0,,{\i1\fs25\pos(927.947,500.004)}Oshima Yuko
+Dialogue: 0,0:18:14.04,0:18:16.66,Default,,0,0,0,,And he managed to get her sign
+Dialogue: 0,0:18:16.66,0:18:26.32,Default,,0,0,0,,{\fade(0,250)\a6\i1\fs30\c&H000000&\3c&HFFFFFF&}for Niko-chan and Saku-chan\Nstick with me some more!{\i0}
+Dialogue: 0,0:18:16.66,0:18:18.52,Endo,,0,0,0,,Nice\N{\rHamada}- That's really nice
+Dialogue: 0,0:18:20.32,0:18:24.28,Default,,0,0,0,,With this, Niko-chan should rejoice\N{\rHamada}- Well done
+Dialogue: 0,0:18:21.18,0:18:26.32,Default,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\pos(552.104,345.938)}Niko-chan's smile will return
+Dialogue: 0,0:18:27.58,0:18:29.35,Default,,0,0,0,,Speaking of something else...
+Dialogue: 0,0:18:29.82,0:18:32.22,Default,,0,0,0,,Who's your favorite girl from AKB?
+Dialogue: 0,0:18:32.88,0:18:34.35,Nikori,,0,0,0,,{\pos(542.012,528.767)}Acchan (Atsuko Maeda)
+Dialogue: 0,0:18:32.88,0:18:35.22,Default,,0,0,0,,Yuko Oshima, right?
+Dialogue: 0,0:18:34.35,0:18:35.22,Nikori,,0,0,0,,{\pos(542.012,520.776)}No, it's Acchan (Atsuko Maeda)!
+Dialogue: 0,0:18:34.68,0:18:35.92,Endo,,0,0,0,,{\a7\fs30\pos(1015.695,171.794)}Huh?
+Dialogue: 0,0:18:35.38,0:18:39.05,Default,,0,0,0,,{\fade(250,0)\pos(556.9,63.778)}"Acchan", unexpectedly
+Dialogue: 0,0:18:36.52,0:18:37.84,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:37.84,0:18:39.68,Endo,,0,0,0,,What a turn of events
+Dialogue: 0,0:18:39.68,0:18:41.98,Default,,0,0,0,,But you said you liked Yuko Oshima...
+Dialogue: 0,0:18:42.52,0:18:44.75,Nikori,,0,0,0,,{\fs50}I like Acchan more than her!!
+Dialogue: 0,0:18:44.98,0:18:47.52,Yamada,,0,0,0,,Niko, don't say it like that
+Dialogue: 0,0:18:46.46,0:18:47.52,Default,,0,0,0,,{\pos(558.409,528.639)}So stubborn...
+Dialogue: 0,0:18:47.58,0:18:49.68,Default,,0,0,0,,She's being sassy
+Dialogue: 0,0:18:50.12,0:18:55.15,Default,,0,0,0,,I got a sign from Yuko Oshima, you know...
+Dialogue: 0,0:18:52.96,0:18:55.15,Default,,0,0,0,,{\pos(553.602,523.805)}Oh! Amazing!
+Dialogue: 0,0:18:55.15,0:18:59.18,Default,,0,0,0,,Sometimes I meet her when I'm working...
+Dialogue: 0,0:18:58.04,0:18:59.92,Matsumoto,,0,0,0,,{\pos(553.998,526.103)}That's a lie
+Dialogue: 0,0:18:59.18,0:19:01.12,Default,,0,0,0,,It says "for Niko-chan and Saku-chan"
+Dialogue: 0,0:19:01.12,0:19:02.78,Default,,0,0,0,,It's real
+Dialogue: 0,0:19:02.78,0:19:06.42,Yamada,,0,0,0,,Incredible!
+Dialogue: 0,0:19:03.95,0:19:06.42,Mayo,,0,0,0,,{\pos(561,472)}It's really incredible!
+Dialogue: 0,0:19:04.56,0:19:06.42,Default,,0,0,0,,{\pos(553.602,427.644)}She wrote this for you
+Dialogue: 0,0:19:06.42,0:19:09.28,Default,,0,0,0,,She made it for you, will you take it?
+Dialogue: 0,0:19:09.88,0:19:14.82,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\pos(328.995,518.332)}coming up
+Dialogue: 0,0:19:09.88,0:19:14.82,Default,,0,0,0,,{\fs36\fade(250,0)\c&H1738E7&\3c&HFFFFFF&\pos(650.313,494.664)}an unexpected conclusion!!
+Dialogue: 0,0:19:15.44,0:19:17.42,Default,,0,0,0,,Niko-chan...
+Dialogue: 0,0:19:17.42,0:19:21.82,Default,,0,0,0,,I got a sign from Yuko Oshima, you know...
+Dialogue: 0,0:19:20.25,0:19:21.82,Default,,0,0,0,,{\pos(563.32,524.771)}Amazing!
+Dialogue: 0,0:19:21.82,0:19:25.45,Yamada,,0,0,0,,Incredible
+Dialogue: 0,0:19:22.98,0:19:25.45,Mayo,,0,0,0,,{\pos(548.683,473.996)}That's incredible!
+Dialogue: 0,0:19:23.66,0:19:25.45,Default,,0,0,0,,{\pos(553.602,427.644)}She wrote this for you
+Dialogue: 0,0:19:24.85,0:19:27.68,Hosei,,0,0,0,,{\a7\fs30\pos(1018.104,175.397)}That's so nice\Nof him
+Dialogue: 0,0:19:25.45,0:19:29.35,Default,,0,0,0,,She made it for you, will you take it?
+Dialogue: 0,0:19:27.92,0:19:29.35,Default,,0,0,0,,{\pos(555.205,530.242)}- Thanks so much
+Dialogue: 0,0:19:29.35,0:19:31.06,Default,,0,0,0,,No problem
+Dialogue: 0,0:19:36.58,0:19:38.24,Default,,0,0,0,,Alright, stand up
+Dialogue: 0,0:19:38.24,0:19:41.08,Default,,0,0,0,,Come with me
+Dialogue: 0,0:19:44.38,0:19:46.46,Matsumoto,,0,0,0,,She got angry\N{\rHamada}- Yeah...
+Dialogue: 0,0:19:46.46,0:19:49.15,Hamada,,0,0,0,,You can't make that face now
+Dialogue: 0,0:19:49.58,0:19:53.15,Hamada,,0,0,0,,That's not the face you should make\N{\rDefault}- She likes Yuko Oshima, right?
+Dialogue: 0,0:19:53.15,0:19:56.95,Yamada,,0,0,0,,Yes, she's really happy about it, but...
+Dialogue: 0,0:19:54.50,0:19:56.95,Default,,0,0,0,,{\pos(549.337,530.513)}- Yes, I kind of get it
+Dialogue: 0,0:19:58.08,0:20:00.75,Mayo,,0,0,0,,{\pos(318.948,612)}Tell me what's the problem
+Dialogue: 0,0:20:02.88,0:20:07.48,Mayo,,0,0,0,,{\a1\pos(255.691,478.154)}We'll have to say goodbye to Heipo\Nin a few minutes, you know?
+Dialogue: 0,0:20:07.48,0:20:09.18,Default,,0,0,0,,I don't...
+Dialogue: 0,0:20:09.18,0:20:11.88,Mayo,,0,0,0,,Behave!{\alpha&HFF&} What do you want to do?
+Dialogue: 0,0:20:11.88,0:20:14.62,Mayo,,0,0,0,,Behave! What do you want to do?
+Dialogue: 0,0:20:09.88,0:20:14.62,Default,,0,0,0,,{\pos(552,530.242)}I don't wanna...
+Dialogue: 0,0:20:14.62,0:20:17.97,Mayo,,0,0,0,,Everyone's waiting, can you behave properly?
+Dialogue: 0,0:20:20.32,0:20:24.12,Mayo,,0,0,0,,They can't wait for you to calm down at your pace
+Dialogue: 0,0:20:24.12,0:20:26.35,Mayo,,0,0,0,,If that's so, just stay there
+Dialogue: 0,0:20:28.06,0:20:29.98,Hosei,,0,0,0,,Heipo...?
+Dialogue: 0,0:20:30.52,0:20:32.55,Mayo,,0,0,0,,{\pos(621.961,277)}Sorry for that...
+Dialogue: 0,0:20:31.22,0:20:32.55,Default,,0,0,0,,It's fine, don't worry
+Dialogue: 0,0:20:34.12,0:20:36.12,Hamada,,0,0,0,,Don't make that face!
+Dialogue: 0,0:20:35.88,0:20:40.85,Default,,0,0,0,,{\fade(250,250)\pos(532.865,56.572)}The mood before parting away is the worst
+Dialogue: 0,0:20:36.28,0:20:41.72,Default,,0,0,0,,The camping trip should have been full of beautiful memories, but now the mood is the worst...
+Dialogue: 0,0:20:44.20,0:20:46.95,Default,,0,0,0,,What will you do, Heipo?
+Dialogue: 0,0:20:53.48,0:20:54.75,Default,,0,0,0,,Excuse me...
+Dialogue: 0,0:20:54.75,0:20:56.98,Default,,0,0,0,,There's still something I want to give her
+Dialogue: 0,0:20:55.80,0:20:57.36,Hamada,,0,0,0,,{\pos(550.002,526.103)}Nice, go
+Dialogue: 0,0:20:57.36,0:21:00.52,Endo,,0,0,0,,We're counting on you!\N{\rHamada}- That's the best thing he's ever done
+Dialogue: 0,0:21:00.52,0:21:02.38,Default,,0,0,0,,The first?!\N{\rHosei}- In your entire life
+Dialogue: 0,0:21:02.38,0:21:04.02,Default,,0,0,0,,Niko-chan?
+Dialogue: 0,0:21:04.76,0:21:06.08,Default,,0,0,0,,Look
+Dialogue: 0,0:21:06.08,0:21:08.28,Default,,0,0,0,,{\pos(400,449)}I got this picture book too
+Dialogue: 0,0:21:09.30,0:21:10.48,Default,,0,0,0,,Together with this
+Dialogue: 0,0:21:10.48,0:21:16.08,Default,,0,0,0,,{\pos(462.673,367.09)}She said "give it to Niko-chan"
+Dialogue: 0,0:21:16.08,0:21:19.88,Nikori,,0,0,0,,{\fad(0,400)\pos(395.308,452)}Thank you so much...
+Dialogue: 0,0:21:18.02,0:21:20.60,Default,,0,0,0,,Sure, and sorry
+Dialogue: 0,0:21:21.42,0:21:23.25,Default,,0,0,0,,Hey...
+Dialogue: 0,0:21:23.62,0:21:28.15,Red,,0,0,0,,{\pos(486,452)}I also have this secret sticker, only for you
+Dialogue: 0,0:21:28.15,0:21:30.38,Default,,0,0,0,,{\pos(497.986,452)}Don't tell Saku-chan or he'll steal it, ok?
+Dialogue: 0,0:21:30.38,0:21:31.88,Default,,0,0,0,,Let's go back, ok?
+Dialogue: 0,0:21:31.88,0:21:35.52,Matsumoto,,0,0,0,,Makes sense...\N{\rHamada}- Very nice Heipo, you did great here
+Dialogue: 0,0:21:33.98,0:21:37.48,Default,,0,0,0,,- It's fine, here's Niko-chan
+Dialogue: 0,0:21:38.18,0:21:39.48,Default,,0,0,0,,Here we are
+Dialogue: 0,0:21:39.48,0:21:42.95,Default,,0,0,0,,Take care of it, ok?
+Dialogue: 0,0:21:40.70,0:21:42.95,Default,,0,0,0,,{\pos(552,528.639)}- Ok?
+Dialogue: 0,0:21:48.75,0:21:51.05,Yamada,,0,0,0,,{\pos(760.034,499.328)}Say thanks to Mr. Heipo
+Dialogue: 0,0:21:52.62,0:21:54.65,Nikori,,0,0,0,,{\fade(250,0)\pos(453.327,485.745)}Thank you...
+Dialogue: 0,0:21:53.95,0:21:56.02,Default,,0,0,0,,Sure, it's fine
+Dialogue: 0,0:21:56.02,0:21:58.15,Mayo,,0,0,0,,Say you're sorry and give him a hug
+Dialogue: 0,0:21:59.35,0:22:00.88,Default,,0,0,0,,A hug? For me?
+Dialogue: 0,0:22:00.88,0:22:03.08,Default,,0,0,0,,It's fine, come here
+Dialogue: 0,0:22:02.58,0:22:05.68,Nikori,,0,0,0,,{\fade(250,500)\pos(511.981,482)}I'm sorry...
+Dialogue: 0,0:22:03.08,0:22:06.83,Hamada,,0,0,0,,Shit man, this turned out to be so nice\N{\rDefault}- Cheer up, ok? It's fine
+Dialogue: 0,0:22:07.52,0:22:09.42,Hosei,,0,0,0,,Unexpectedly wholesome\N{\rEndo}- It's so good
+Dialogue: 0,0:22:08.78,0:22:14.64,Song,,0,0,0,,{\i1}♪ Our very own Summer{\i0}
+Dialogue: 0,0:22:14.64,0:22:19.40,Song,,0,0,0,,{\i1}♪ Lies behind that hill
+Dialogue: 0,0:22:19.40,0:22:24.92,Song,,0,0,0,,{\i1}♪ We can't even hear the sound of the wind
+Dialogue: 0,0:22:26.30,0:22:30.62,Song,,0,0,0,,{\i1}♪ For we're so fixed on staring at it
+Dialogue: 0,0:22:30.62,0:22:36.64,Song,,0,0,0,,{\i1}♪ Our hearts on top of each other
+Dialogue: 0,0:22:36.64,0:22:42.42,Song,,0,0,0,,{\i1}♪ Dreaming of that Summer we shared
+Dialogue: 0,0:22:42.42,0:22:49.92,Song,,0,0,0,,{\i1}♪ Our hands firmly joined together
+Dialogue: 0,0:22:52.58,0:22:57.43,Song,,0,0,0,,{\i1}♪ And a little miracle is born
+Dialogue: 0,0:22:58.34,0:23:03.35,Song,,0,0,0,,{\i1}♪ Our miracle is born
+Dialogue: 0,0:23:04.58,0:23:08.23,Song,,0,0,0,,{\i1}♪ Our midsummer miracle
+Dialogue: 0,0:22:08.98,0:22:12.32,Default,,0,0,0,,{\fade(250,250)\pos(560.695,173.469)}Time to say goodbye
+Dialogue: 0,0:22:09.42,0:22:10.98,Default,,0,0,0,,Say bye to Heipo
+Dialogue: 0,0:22:11.18,0:22:12.72,Default,,0,0,0,,Here goes
+Dialogue: 0,0:22:12.85,0:22:14.08,Default,,0,0,0,,You're so cute!
+Dialogue: 0,0:22:14.08,0:22:15.72,Default,,0,0,0,,Let me give you a kiss
+Dialogue: 0,0:22:15.72,0:22:18.62,Default,,0,0,0,,Thank you so much
+Dialogue: 0,0:22:18.95,0:22:22.72,Default,,0,0,0,,{\fade(250,0)\pos(554.672,320.479)}Heading back to Tokyo for work
+Dialogue: 0,0:22:18.76,0:22:20.22,Default,,0,0,0,,Thanks for everything
+Dialogue: 0,0:22:20.22,0:22:22.72,Default,,0,0,0,,Bye bye! See you again
+Dialogue: 0,0:22:22.12,0:22:24.19,Hamada,,0,0,0,,Work? You?
+Dialogue: 0,0:22:22.72,0:22:24.92,Default,,0,0,0,,Bye!
+Dialogue: 0,0:22:24.92,0:22:28.48,Default,,0,0,0,,Bye bye!\N- They're so adorable
+Dialogue: 0,0:22:29.18,0:22:30.32,Default,,0,0,0,,They're coming along
+Dialogue: 0,0:22:30.32,0:22:33.20,Hamada,,0,0,0,,Enough of this
+Dialogue: 0,0:22:35.48,0:22:42.08,Default,,0,0,0,,{\fade(250,250)\blur3\shad0\3c&H3375E6&\move(541,514,470.361,514,0,6354)}It was their first ever camping trip...
+Dialogue: 0,0:22:42.98,0:22:50.08,Default,,0,0,0,,{\fade(250,250)\blur3\shad0\3c&HE9B54D&\pos(660,498)\t(0,0,\fs45}And Heipo's wish is only one
+Dialogue: 0,0:22:53.58,0:23:01.08,Default,,0,0,0,,{\fade(250,250)\blur3\shad0\3c&H238F26&\move(417.052,514,528.37,514,0,10187)}Even though it was just a single day:
+Dialogue: 0,0:23:05.08,0:23:10.32,Default,,0,0,0,,{\a4\fade(250,250)\blur3\shad0\3c&HB36ADB&\t(0,0,\fs45)\pos(314.288,153.17)}To hope this becomes\Nan unforgettable memory to them
+Dialogue: 0,0:23:09.52,0:23:12.95,Hamada,,0,0,0,,That was really something\N{\rHosei}- I know, right?
+Dialogue: 0,0:23:12.95,0:23:14.48,Hamada,,0,0,0,,Oh man, oh man...
+Dialogue: 0,0:23:14.48,0:23:16.82,Endo,,0,0,0,,Such a nice episode\N{\rTanaka}- Really
+Dialogue: 0,0:23:16.82,0:23:18.25,Matsumoto,,0,0,0,,Yeah, but don't forget
+Dialogue: 0,0:23:18.25,0:23:21.52,Matsumoto,,0,0,0,,How scared shitless Heipo was when the mom got angry!
+Dialogue: 0,0:23:20.98,0:23:22.62,Tanaka,,0,0,0,,{\pos(665.862,440.861)}- Pure terror!
+Dialogue: 0,0:23:21.52,0:23:23.82,Matsumoto,,0,0,0,,{\pos(682.509,612)}She wasn't angry with you, you know!
+Dialogue: 0,0:23:22.62,0:23:23.82,Default,,0,0,0,,{\pos(665.862,440.861)}- I know...
+Dialogue: 0,0:23:23.82,0:23:26.32,Heipo,,0,0,0,,{\pos(693.829,508.788)}But she was so scary!!
+Dialogue: 0,0:23:23.82,0:23:26.32,Endo,,0,0,0,,{\pos(655.875,612)}- I don't blame him
+Dialogue: 0,0:23:26.32,0:23:29.98,Matsumoto,,0,0,0,,But overall yeah, it was nice, wasn't it?
+Dialogue: 0,0:23:29.98,0:23:33.88,Matsumoto,,0,0,0,,After seeing it all, I'm even glad you went with them
+Dialogue: 0,0:23:29.98,0:23:31.62,Hosei,,0,0,0,,- Yeah, I agree
+Dialogue: 0,0:23:33.88,0:23:37.08,Hosei,,0,0,0,,Did you grow even more attached to them?\N{\rDefault}- Oh yes, no doubt
+Dialogue: 0,0:23:37.08,0:23:41.12,Default,,0,0,0,,Niko-chan is... you know, good and--- eh? what?
+Dialogue: 0,0:23:41.48,0:23:42.82,Default,,0,0,0,,Eh? What's going on?
+Dialogue: 0,0:23:42.82,0:23:45.25,Matsumoto,,0,0,0,,Which one of your personalities is that?\N{\rHamada}- What the?
+Dialogue: 0,0:23:45.25,0:23:46.52,Tanaka,,0,0,0,,Who are you?
+Dialogue: 0,0:23:46.52,0:23:49.28,Endo,,0,0,0,,It's getting crowded\N{\rTanaka}- How many people are in there?
+Dialogue: 0,0:23:49.28,0:23:56.72,Credits,,0,0,0,,{\pos(13.204,317.794)}TYPESET & QC BY {\c&H00AEFF&}KEDOMAS\N{\r}TRANSLATION BY {\c&H00AEFF&}SHION        {\c&H34E5AD&}shionnotsukai.wordpress.com\N{\r}FOLLOW: {\c&H5AEB4F&}FB.COM/SHIONNOTSUKAI {\r}~{\c&HB1EB4F&} TWITTER.COM/SHIONNOTSUKAI\N\N{\r}WANT TO SUPPORT? YOU CAN:\N- DONATE ON {\c&HFF8872&}KO-FI.COM/SHIONNOTSUKAI\N{\r}- BECOME A PATRON ON {\c&HB8B7FF&}PATREON.COM/SHIONNOTSUKAI\N{\alpha&HFF&},.,{\r}AND GET EARLY ACCESS TO RAWS, SOFTSUBS & UPDATES!
+

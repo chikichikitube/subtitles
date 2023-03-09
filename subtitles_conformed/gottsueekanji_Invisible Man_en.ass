@@ -1,0 +1,49 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../trimmed raws/ダウンタウンのごっつええ感じ 1994.05.01 #096 [DivX505 640x480 46m55s]-00.24.05.178-00.24.37.110.avi
+Video File: ../trimmed raws/ダウンタウンのごっつええ感じ 1994.05.01 #096 [DivX505 640x480 46m55s]-00.24.05.178-00.24.37.110.avi
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.375000
+Active Line: 4
+Video Position: 41
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.33333,0,2,5,5,7,1
+Style: filop,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.33333,1.33333,2,5,5,7,1
+Style: TILT,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,7,1,1.33333,1.33333,2,5,5,7,1
+Style: GEKIHA,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,68,1,1.33333,1.33333,2,5,5,7,1
+Style: 90°,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.33333,1.33333,2,5,5,7,1
+Style: Tanaka,Arial,28,&H00A81A5E,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Matsumoto,Arial,28,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Hamada,Arial,28,&H00B41009,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Endo,Arial,28,&H002087FA,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Yamazaki,Arial,28,&H00009F09,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Fujiwara,Arial,28,&H00496500,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Black font,Arial,28,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: White font,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Interviewer,Arial,28,&H00594A4A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Questions / Answers,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Guesses,Arial,25,&H00FFFFFF,&H000000FF,&H00EE761A,&H00EE761A,-1,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: nippon no uso,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,2,5,5,7,1
+Style: MISSING,Arial,16,&H000000FF,&H000000FF,&H0000FFDF,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,2,5,5,7,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.90,Default,,0,0,0,,{\fad(0,1600)\b1\3c&H9C9931&\c&HFFFFFF&\1a&HFF&\i1\pos(333,166.667)}THE INVISIBLE MAN{\b0\i0}
+Dialogue: 0,0:00:13.39,0:00:16.78,Default,,0,0,0,,Man, I'm tired...
+Dialogue: 0,0:00:22.00,0:00:23.97,Default,,0,0,0,,Oh shit!
+Dialogue: 0,0:00:23.97,0:00:25.25,Default,,0,0,0,,That hurt!
+Dialogue: 0,0:00:00.00,0:00:28.93,Default,,0,0,0,,{\b1\3c&H88764F&\c&HFFFFFF&\1a&HCD&\fscx37\fscy35\pos(99.885,40)}are these even subs?{\b0}
+Dialogue: 0,0:00:00.00,0:00:28.93,Default,,0,0,0,,{\fscx50\fscy53\b1\3c&H88764F&\c&HFFFFFF&\1a&HC7&\pos(102.885,22.667)}facebook.com/shionnotsukai
+

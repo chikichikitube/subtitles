@@ -1,0 +1,829 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Aegisub Video Aspect Ratio: c1.800000
+
+[Aegisub Project Garbage]
+Audio File: Gaki No Tsukai #1162 (2013.07.07) - Kiki 33 - Fish Sausage.mp4
+Video File: Gaki No Tsukai #1162 (2013.07.07) - Kiki 33 - Fish Sausage.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 757
+Active Line: 773
+Video Position: 43449
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,9,1
+Style: Hamada,Arial,50,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Matsumoto,Arial,50,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Yamasaki,Arial,50,&H0011AA16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Endo,Arial,50,&H002CA0F9,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Tanaka,Arial,50,&H00E91694,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Sign,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,10,10,9,1
+Style: Black Text,Arial,59,&H00010101,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: White Text,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,9,1
+Style: Yellow text,Arial,59,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,9,1
+Style: Red Sign,Arial,100,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,3,2,10,10,9,1
+Style: Narrator,Arial,50,&H00FFFF00,&H000000FF,&H00000008,&H00000008,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,9,1
+Style: Tofu panda title,Arial,45,&H00020000,&H000000FF,&H00FAFAFF,&H000E9105,0,0,0,0,100,100,0,0,1,3,2,2,10,10,9,1
+Style: Intro Background,Arial,59,&H0009A6E8,&H000000FF,&H00FAFAFF,&H000000FA,0,-1,0,0,100,100,0,0,1,3,4,2,10,10,9,1
+Style: TPF,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,9,1
+Style: Talking over,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.99998,1.99998,2,10,10,11,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,100,100,0,0,3,50.0001,2,5,10,10,9,1
+Style: Blue rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H13A8271B,0,0,0,0,100,100,0,0,3,50.0001,2,2,10,10,9,1
+Style: Red rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H0D16175A,0,0,0,0,100,100,0,0,3,50.0001,2,2,10,10,9,1
+Style: Matsumoto comic sans,Arial,50,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+Style: Titlered,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,8.00001,2,10,10,9,1
+Style: Top,Arial,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,9,1
+Style: Punishment,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,9,1
+Style: Blocky,Arial,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.66667,2.66667,2,9,9,7,1
+Style: Corner notice,Arial,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.33333,2,9,9,7,1
+Style: Newtofupandatitle,Arial,39,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,9,1
+Style: Matsumoto comic sans 2,Arial,50,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,10,10,9,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:05:01.20,0:05:05.98,Matsumoto,,0,0,0,,Waiting for reference
+Comment: 1,0:05:41.87,0:05:44.52,Punishment,,0,0,0,,Make effect or change
+Comment: 0,0:08:41.22,0:09:07.51,Rules,,0,0,0,,Start
+Comment: 0,0:08:41.22,0:09:07.51,Top,,0,0,0,,Start of DHA effect
+Comment: 0,0:08:44.75,0:09:07.51,Top,,0,0,0,,End of DHA effect
+Comment: 0,0:08:44.75,0:09:07.51,Top,,0,0,0,,End of tasting effect
+Comment: 0,0:08:41.22,0:09:07.51,Top,,0,0,0,,Effect after translation
+Comment: 1,0:09:24.95,0:09:27.37,Punishment,,0,0,0,,Batsu effect?
+Comment: 0,0:09:38.12,0:09:40.19,Matsumoto,,0,0,0,,waiting for check
+Comment: 0,0:10:56.67,0:10:59.02,Endo,,0,0,0,,change and don't split?
+Comment: 0,0:11:54.86,0:11:57.56,Matsumoto,,0,0,0,,In cahoots
+Comment: 1,0:13:37.92,0:13:41.67,Punishment,,0,0,0,,Batsu Effect?
+Comment: 0,0:14:04.72,0:14:06.89,Yamasaki,,0,0,0,,Lei!
+Comment: 0,0:15:21.17,0:15:22.83,Top,,0,0,0,,End of tasting
+Comment: 0,0:15:21.17,0:15:22.83,Top,,0,0,0,,Start of homo sausage
+Comment: 0,0:15:17.91,0:15:22.85,Top,,0,0,0,,Start of tasting
+Comment: 0,0:15:17.91,0:15:22.85,Rules,,0,0,0,,End of first homo sausage effect
+Comment: 0,0:15:25.32,0:15:52.91,Top,,0,0,0,,Second tasting effect
+Comment: 0,0:15:28.62,0:15:52.91,Top,,0,0,0,,End of 2nd tasting
+Comment: 0,0:15:25.32,0:15:52.91,Top,,0,0,0,,Start 2nd homo
+Comment: 0,0:15:25.32,0:15:52.91,Top,,0,0,0,,Make effect
+Comment: 1,0:16:22.52,0:16:27.65,Punishment,,0,0,0,,Batsu
+Comment: 0,0:20:08.19,0:20:11.02,Matsumoto comic sans,,0,0,0,,Needs changing after translation
+Comment: 0,0:22:17.85,0:22:20.42,Matsumoto comic sans,,0,0,0,,Note to self. Fix effect after translation
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Ignore this line
+Dialogue: 0,0:00:00.52,0:00:04.05,Hamada,,0,0,0,,Gaki no Tsukai ya Arahende!! Chiki Chiki, bet your life on this one bite
+Dialogue: 0,0:00:04.12,0:00:10.27,Hamada,,0,0,0,,100,000 yen prize! Kiki Fish Sausage!!
+Dialogue: 0,0:00:13.35,0:00:14.42,Endo,,0,0,0,,Number 33!
+Dialogue: 0,0:00:14.50,0:00:16.20,Matsumoto,,0,0,0,,33rd, right?
+Dialogue: 0,0:00:16.32,0:00:18.07,Hamada,,0,0,0,,Yes, this is the 33rd installment
+Dialogue: 0,0:00:16.06,0:00:19.63,Matsumoto,,0,0,0,,{\fade(400,0)}{\pos(387,885)}Matsumoto Hitoshi
+Dialogue: 0,0:00:16.06,0:00:19.63,Hamada,,0,0,0,,{\fade(400,0)}{\pos(1051,891)}Hamada Masatoshi
+Dialogue: 0,0:00:16.06,0:00:19.63,Endo,,0,0,0,,{\fade(400,0)}{\fscx182\fscy183\pos(724.5,819)}{\c&H218D06&\3c&HFFFFFF&\4c&H000000&}Downtown
+Dialogue: 0,0:00:18.17,0:00:19.71,Hamada,,0,0,0,,Last episode was Castella
+Dialogue: 0,0:00:19.72,0:00:21.55,Hamada,,0,0,0,,It's been 7 years for Matsumoto-san
+Dialogue: 0,0:00:21.55,0:00:23.07,Tanaka,,0,0,0,,7 years!?
+Dialogue: 0,0:00:19.97,0:00:24.27,Endo,,0,0,0,,{\fade(400,400)}{\fscx158\fscy196\pos(1080,621)}{\c&H218D06&\3c&HFFFFFF&\4c&H000000&}Cocorico
+Dialogue: 0,0:00:19.97,0:00:24.27,Endo,,0,0,0,,{\fade(400,400)}{\pos(890,680)}Endo Shozo
+Dialogue: 0,0:00:19.97,0:00:24.27,Tanaka,,0,0,0,,{\fade(400,400)}{\pos(1281,685)}Tanaka Naoki
+Dialogue: 0,0:00:19.97,0:00:24.27,Yamasaki,,0,0,0,,{\fade(400,400)}{\pos(315.5,680)} Tsukitei Hosei
+Dialogue: 0,0:00:19.97,0:00:24.27,Yamasaki,,0,0,0,,{\fade(400,400)}{\pos(315.5,680)} Tsukitei Hosei
+Dialogue: 0,0:00:24.10,0:00:25.30,Tanaka,,0,0,0,,{\pos(1179,621)}Yes, I was correct
+Dialogue: 0,0:00:23.12,0:00:25.32,Hamada,,0,0,0,,and it's been 1 year for Tanaka
+Dialogue: 0,0:00:25.30,0:00:28.12,Hamada,,0,0,0,,7 years!
+Dialogue: 0,0:00:19.97,0:00:28.14,Rectangle,,0,0,0,,{\fade(400,0)}{\p1\clip(114,801,1323,1015)\pos(552,924)\fscx996\fscy345\4c&H28282B&}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:00:19.97,0:00:28.16,Sign,,0,0,0,,{\fade(400,0)}{\pos(725,882)}Last episode  {\c&H0000FF&\3c&HFFFFFF&}Kiki Castella
+Dialogue: 0,0:00:19.97,0:00:28.16,Sign,,0,0,0,,{\fade(400,0)}{\fscx140\fscy147\pos(817.649,1005.8)}{\c&HEA249B&\3c&HFFFFFF&}Tan
+Dialogue: 0,0:00:19.97,0:00:28.16,Sign,,0,0,0,,{\fade(400,0)\pos(189,1002)}{\fscx140\fscy147\pos(817.649,1005.8)}{\c&H0000FF&\3c&HFFFFFF&}Ma
+Dialogue: 0,0:00:19.97,0:00:28.16,Sign,,0,0,0,,{\fade(400,0)}{\pos(510.597,996.4)\fscx72\fscy121}7 years since correct
+Dialogue: 0,0:00:19.97,0:00:28.16,Sign,,0,0,0,,{\fade(400,0)}{\pos(1120.79,993.2)\fscx72\fscy121}1 year since correct
+Dialogue: 0,0:00:28.25,0:00:32.78,Matsumoto,,0,0,0,,{\fscx82\fscy112}More importantly, I was really excited about the fact that we have the chance to win real money
+Dialogue: 0,0:00:32.82,0:00:34.67,Endo,,0,0,0,,Oh right, you can win money
+Dialogue: 0,0:00:33.50,0:00:34.67,Tanaka,,0,0,0,,Yes, I received money
+Dialogue: 0,0:00:35.82,0:00:38.52,Matsumoto,,0,0,0,,Well, they truly did do &#%!@?!
+Dialogue: 0,0:00:38.60,0:00:39.52,Matsumoto,,0,0,0,,How nice
+Dialogue: 0,0:00:39.52,0:00:41.65,Endo,,0,0,0,,What an antiquated way to say it, &#%!@?!
+Dialogue: 0,0:00:41.95,0:00:47.59,Newtofupandatitle,,0,0,0,,{\fs80\fscx80\fscy106\pos(693.034,154.533)}Tofu Panda Fansubs presents
+Dialogue: 0,0:00:41.95,0:00:47.59,Newtofupandatitle,,0,0,0,,{\fscx87\fscy151\pos(692.983,220.4)\c&H8EDFFF&\3c&H0004FF&\4c&H000000&}Down Town's Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:00:48.18,0:00:53.92,Default,,0,0,0,,{\bord0\shad0\fade(500,0)\alpha20\p1\c&HE3BFBC&\3c&HBB2135&\fscx6074\fscy2422\pos(719.999,954.666)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(384,704)}Translator:
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(680,701.333)}Typesetter:
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(1010,704)}Proofreader:
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(379.333,832)}Lei   \N(Team Gaki)
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(682,794.666)}GakiFanSub
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(680,880)}Otviss
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(1007.833,835.416)}James   \N(Team Gaki)
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx82\fscy101\pos(515.5,84.667)}Will the 100,000 yen prize be claimed?!
+Dialogue: 0,0:00:48.18,0:00:53.92,Yellow text,,0,0,0,,{\fade(400,0)\fscx81\fscy100\pos(948,1040)}33rd installment: Kiki Fish Sausage!!
+Dialogue: 0,0:00:54.53,0:00:59.57,Talking green,,0,0,0,,{\pos(719,715)\clip(5,1,1440,1080)\fscx231\fscy247\c&H21C035&\3c&H34E3F3&\4c&H000000&}Kiki Series #33
+Dialogue: 0,0:00:54.53,0:00:59.57,Talking green,,0,0,0,,{\pos(720,828)\fscx219\fscy243\c&H1456FC&\3c&HFFFFFF&\4c&H000000&}Fish Sausage
+Dialogue: 0,0:00:54.72,0:00:59.82,White Text,,0,0,0,,Kiki's 33rd installment is a treat that is super popular among children: fish sausage!
+Dialogue: 0,0:00:59.77,0:01:04.33,Rectangle,,0,0,0,,{\fade(400,0)}{\p1\clip(225,794,1218,992)\pos(555.74,883.2)\fscx714\fscy364\4c&H333437&}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:00:59.77,0:01:04.33,Sign,,0,0,0,,{\fade(400,0)}{\c&H0000FF&\3c&HFFFFFF&\pos(725.017,720.467)\fscx134\fscy133}"Kiki Fish Sausage"
+Dialogue: 0,0:00:59.77,0:01:04.33,Default,,0,0,0,,{\fade(400,0)}{\c&H00FFFF&\fs40\3c&HBB2135&\fscx159\fscy185\pos(714,956)} Out of 12 sausages, they will identify the     \N one they ate while they were blindfolded
+Dialogue: 0,0:01:04.53,0:01:09.90,White Text,,0,0,0,,{\fscx67\fscy113}If they're correct, they will receive 100,000 yen! If they're wrong, they will receive harsh punishment!
+Dialogue: 0,0:01:04.53,0:01:09.90,Rectangle,,0,0,0,,{\fade(400,0)}{\p1\pos(555.74,883.2)\fscx714\fscy364\4c&H333437&\clip(224,757,1219,995)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:01:04.53,0:01:09.90,Default,,0,0,0,,{\fade(400,0)}{\pos(693.947,847)\fscx164\fscy138}If correct,  {\c&H00F0FF&\4c&HFFFFFF&}100,000 yen prize
+Dialogue: 0,0:01:04.53,0:01:09.90,Default,,0,0,0,,{\fade(400,0)}{\pos(693.246,948.6)\fscx164\fscy138}If incorrect,  {\c&HD731CA&\4c&HFFFFFF&}harsh punishment
+Dialogue: 0,0:01:10.15,0:01:12.32,Hamada,,0,0,0,,Well, with that, let's get right into it
+Dialogue: 0,0:01:12.37,0:01:14.09,Hamada,,0,0,0,,Who shall we start with?
+Dialogue: 0,0:01:14.09,0:01:17.19,Endo,,0,0,0,,{\pos(720,1058)}Usually it's me though
+Dialogue: 0,0:01:15.85,0:01:17.76,Yamasaki,,0,0,0,,{\pos(239,772)}Yeah, first up
+Dialogue: 0,0:01:18.80,0:01:21.47,White Text,,0,0,0,,First up is Endo
+Dialogue: 0,0:01:21.76,0:01:27.22,Endo,,0,0,0,,{\fade(400,0)\c&H2CA0F9&\3c&HFFFFFF&\fs60\pos(374.649,662.2)}Endo's Challenge
+Dialogue: 0,0:01:21.76,0:01:27.22,Blue rectangle,,0,0,0,,{\fade(400,0)\p1\clip(387,775,1249,1015)\fscx515\fscy227\pos(648.406,901.8)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:01:21.76,0:01:27.22,Sign,,0,0,0,,{\fade(400,0)\pos(796.351,867.2)\c&H2DFFFA&}Fish Sausage
+Dialogue: 0,0:01:21.76,0:01:27.22,Sign,,0,0,0,,{\fade(400,0)\pos(819,981)\fscx81\fscy88\c&H2DFFFA&}(Marudai Food Co.)
+Dialogue: 0,0:01:21.46,0:01:27.22,White Text,,0,0,0,,{\fscx81\fscy95}His challenge is leading processed food supplier Marudai Food's Fish Sausage
+Dialogue: 0,0:01:27.30,0:01:29.97,Endo,,0,0,0,,This is so stiff
+Dialogue: 0,0:01:31.90,0:01:34.44,Matsumoto,,0,0,0,,How is it?
+Dialogue: 0,0:01:33.15,0:01:34.44,Endo,,0,0,0,,The texture is firm
+Dialogue: 0,0:01:34.44,0:01:38.11,Matsumoto,,0,0,0,,You've put a lot of different things in your mouth, right?
+Dialogue: 0,0:01:36.20,0:01:38.11,Yamasaki,,0,0,0,,{\pos(309,648)}Lots of things in your mouth
+Dialogue: 0,0:01:39.85,0:01:41.65,Hamada,,0,0,0,,If you chew it like that, it feels more stiff
+Dialogue: 0,0:01:38.61,0:01:42.81,Matsumoto,,0,0,0,,{\pos(734,915)}Out of everyone in Yoshimoto*, you've put the most things in your mouth
+Dialogue: 0,0:01:42.81,0:01:43.55,Yamasaki,,0,0,0,,His tongue's surface{\alpha&HFF&} is the dirtiest in all of Yoshimoto
+Dialogue: 0,0:01:43.55,0:01:45.32,Yamasaki,,0,0,0,,His tongue's surface is the dirtiest in all of Yoshimoto
+Dialogue: 0,0:01:38.61,0:01:48.42,Default,,0,0,0,,{\b0\fscx86\fscy94\pos(412.5,200)}Translator's note: Yoshimoto is their production company{\b1}
+Dialogue: 0,0:01:45.32,0:01:48.42,Matsumoto,,0,0,0,,They're saying you've licked some dirty things
+Dialogue: 0,0:01:50.00,0:01:54.00,Endo,,0,0,0,,It didn't seem like it was very high-end
+Dialogue: 0,0:01:54.12,0:01:58.35,Matsumoto,,0,0,0,,Well it is a fish sausage after all, so
+Dialogue: 0,0:01:49.41,0:02:02.12,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:01:49.41,0:02:02.12,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:01:49.41,0:02:02.12,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1249,1016.667)\fscx1092.593\fscy629}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:01:49.41,0:02:02.12,Top,,0,0,0,,{\fade(400,0)\pos(1250,1009)\fscx73.333\fscy108}Fish Sausage\N(Marudai Food Co.)
+Dialogue: 0,0:01:58.47,0:02:04.10,Endo,,0,0,0,,Well, I'm going to try this "Glico Ham Gun-Gun Sausage"
+Dialogue: 0,0:02:02.02,0:02:04.15,Yamasaki,,0,0,0,,Ahh Glico
+Dialogue: 0,0:02:04.25,0:02:07.47,Endo,,0,0,0,,"A long selling item with a history of over 50 years..."
+Dialogue: 0,0:02:04.44,0:02:07.51,Black Text,,0,0,0,,{\pos(1097.351,940.8)\fscx51\fscy106}Long selling item with a history of over 50 years
+Dialogue: 0,0:02:04.44,0:02:11.61,Rectangle,,0,0,0,,{\p1\fscx366\fscy437\pos(1016.3,946)\clip(837,733,1356,1018)\4c&HFDFDFD&\4a&H0D&}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:02:04.44,0:02:11.61,Default,,0,0,0,,{\c&H1B08F2&\b1\3c&HFFFFFF&\pos(1096.052,816.4)\fscx95\fscy103}About the product on the table
+Dialogue: 0,0:02:07.51,0:02:11.61,Black Text,,0,0,0,,{\pos(1096,933.6)\fscx45\fscy120}Not just a kid's snack, it can also be paired with alcohol
+Dialogue: 0,0:02:07.62,0:02:11.62,Endo,,0,0,0,,"It's not just a kids snack, it can also be paired with alcohol"
+Dialogue: 0,0:02:11.61,0:02:16.95,Matsumoto,,0,0,0,,{\pos(560,796)}By reading it
+Dialogue: 0,0:02:13.30,0:02:16.95,Matsumoto,,0,0,0,,{\pos(698.8,936.841)}he's trying to create appeal
+Dialogue: 0,0:02:16.25,0:02:18.32,Yamasaki,,0,0,0,,You've exposed him
+Dialogue: 0,0:02:19.10,0:02:20.35,Yamasaki,,0,0,0,,He can't use it
+Dialogue: 0,0:02:19.50,0:02:21.65,Matsumoto,,0,0,0,,How uncool
+Dialogue: 0,0:02:21.75,0:02:23.97,Endo,,0,0,0,,This is completely wrong
+Dialogue: 0,0:02:23.99,0:02:25.79,Yamasaki,,0,0,0,,{\pos(728,909)}It's always like this
+Dialogue: 0,0:02:24.05,0:02:26.80,Endo,,0,0,0,,It feels like it softly expands in my mouth
+Dialogue: 0,0:02:25.42,0:02:28.05,Tanaka,,0,0,0,,{\pos(1110,494)}He does say it often
+Dialogue: 0,0:02:27.09,0:02:28.23,Yamasaki,,0,0,0,,{\pos(649,801)}It's always {\alpha&HFF&}"I know
+Dialogue: 0,0:02:28.23,0:02:31.56,Yamasaki,,0,0,0,,{\pos(649,801)}It's always "I know
+Dialogue: 0,0:02:28.92,0:02:31.56,Yamasaki,,0,0,0,,{\pos(726.6,926)}that I'm correct" that is what he's saying
+Dialogue: 0,0:02:29.83,0:02:32.60,Endo,,0,0,0,,I think I know this, though
+Dialogue: 0,0:02:32.70,0:02:36.27,Endo,,0,0,0,,Oh the aftertaste is completely different too, this one really comes at me
+Dialogue: 0,0:02:35.27,0:02:37.64,Yamasaki,,0,0,0,,{\pos(713,909)}it's the same
+Dialogue: 0,0:02:37.64,0:02:39.15,Yamasaki,,0,0,0,,{\pos(715,907)}every time the same comment
+Dialogue: 0,0:02:36.57,0:02:42.20,Endo,,0,0,0,,The one I ate was NOT Gun-Gun Sausage
+Dialogue: 0,0:02:02.48,0:02:42.42,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:02.48,0:02:42.42,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:02:02.48,0:02:42.42,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx980.741\fscy694\pos(199.6,1023.52)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:02.48,0:02:42.42,Top,,0,0,0,,{\fade(400,400)\pos(201.767,1009.88)\fscx76.296\fscy103}Gun-Gun Sausage \N(Glico Ham)
+Dialogue: 0,0:02:43.90,0:02:45.32,Endo,,0,0,0,,Unexpectedly not too hard
+Dialogue: 0,0:02:43.06,0:02:48.66,Corner notice,,0,0,0,,{\fade(400,0)\pos(410,930)\fscx161\fscy170}*He is disposing an empty bag
+Dialogue: 0,0:02:44.80,0:02:48.75,Matsumoto,,0,0,0,,You sure? It's dangerous if you go through it like that
+Dialogue: 0,0:02:48.92,0:02:51.72,Endo,,0,0,0,,No, it was surprisingly different
+Dialogue: 0,0:02:49.47,0:02:51.72,Tanaka,,0,0,0,,Totally different?
+Dialogue: 0,0:02:51.80,0:02:53.65,Endo,,0,0,0,,White shrimp sausage...
+Dialogue: 0,0:02:53.65,0:02:57.72,Yamasaki,,0,0,0,,He's eventually going to forget, since he doesn't know which it is
+Dialogue: 0,0:02:58.30,0:03:00.72,Endo,,0,0,0,,Oh wow, this is completely different
+Dialogue: 0,0:03:00.49,0:03:01.56,Matsumoto,,0,0,0,,{\pos(715,909)}He's desperately {\alpha&HFF&}thinking "I need to be on screen"
+Dialogue: 0,0:03:01.56,0:03:04.46,Matsumoto,,0,0,0,,{\pos(715,909)}He's desperately thinking "I need to be on screen"
+Dialogue: 0,0:03:02.70,0:03:04.52,Hamada,,0,0,0,,{\pos(1162,542)}Seriously
+Dialogue: 0,0:03:04.46,0:03:07.17,Hamada,,0,0,0,,{\pos(515.456,802)}When you're right
+Dialogue: 0,0:03:05.16,0:03:07.17,Hamada,,0,0,0,,you're supposed to quickly move on
+Dialogue: 0,0:03:07.17,0:03:09.77,Matsumoto,,0,0,0,,{\pos(718.649,802.8)}Can we make the display low quality?
+Dialogue: 0,0:03:07.17,0:03:09.77,Matsumoto,,0,0,0,,Only when Endo is onscreen
+Dialogue: 0,0:03:09.77,0:03:12.64,Matsumoto,,0,0,0,,{\pos(720,795.6)}Can we switch the low quality display
+Dialogue: 0,0:03:09.77,0:03:12.64,Matsumoto,,0,0,0,,at the Tokyo Tower?
+Dialogue: 0,0:03:13.47,0:03:15.10,Matsumoto,,0,0,0,,Especially for him!
+Dialogue: 0,0:03:15.20,0:03:16.65,Matsumoto,,0,0,0,,That's rather amazing!
+Dialogue: 0,0:03:16.65,0:03:18.65,Matsumoto,,0,0,0,,In this high-tech world, we'd revert to analog TV!
+Dialogue: 0,0:03:24.35,0:03:26.92,Endo,,0,0,0,,Oh, this is so delicious
+Dialogue: 0,0:03:27.00,0:03:29.72,Endo,,0,0,0,,There's white shrimp in it... Oh but the flavor is very different
+Dialogue: 0,0:03:29.85,0:03:32.09,Matsumoto,,0,0,0,,It sounds like he's saying "white snake"*
+Dialogue: 0,0:03:29.85,0:03:33.83,Default,,0,0,0,,{\fscx85\fscy93\pos(342,216)}*{\b0}translator's note: shrimp is "ebi"; snake is "hebi"{\b1}
+Dialogue: 0,0:03:32.32,0:03:33.83,Matsumoto,,0,0,0,,{\pos(732,912)}So difficult to hear
+Dialogue: 0,0:03:32.32,0:03:33.83,Yamasaki,,0,0,0,,{\pos(944,588)}Hard to hear
+Dialogue: 0,0:03:33.70,0:03:38.05,Endo,,0,0,0,,The one I ate was NOT White Shrimp Sausage
+Dialogue: 0,0:03:35.63,0:03:38.13,Hamada,,0,0,0,,{\pos(720,907)}He's being harshly criticized
+Dialogue: 0,0:02:54.64,0:03:38.58,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:54.64,0:03:38.58,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:02:54.64,0:03:38.58,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx825.185\fscy629\pos(202.5,1019.84)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:54.64,0:03:38.58,Top,,0,0,0,,{\fade(400,400)\fscx55.556\fscy106\pos(202.867,1015.16)}White Shrimp Sausage  \N(Nakajima Group)
+Dialogue: 0,0:03:40.12,0:03:43.65,Yamasaki,,0,0,0,,He usually doesn't have that sort of character
+Dialogue: 0,0:03:43.65,0:03:44.60,Matsumoto,,0,0,0,,They're really bad, yeah
+Dialogue: 0,0:03:44.47,0:03:47.54,Matsumoto,,0,0,0,,{\pos(722,791)}If I was the kouhai,
+Dialogue: 0,0:03:45.70,0:03:47.54,Matsumoto,,0,0,0,,{\pos(722,918)}I would definitely be bullied
+Dialogue: 0,0:03:44.47,0:03:47.54,Default,,0,0,0,,{\b0\fscx91\fscy85\pos(814,736)}(Junior){\b1}
+Dialogue: 0,0:03:47.54,0:03:49.01,Matsumoto,,0,0,0,,"You, what the hell!?"
+Dialogue: 0,0:03:49.71,0:03:52.11,Matsumoto,,0,0,0,,"What the hell kind of response is that?"
+Dialogue: 0,0:03:52.11,0:03:54.15,Yamasaki,,0,0,0,,{\pos(574,904)}Reject, reject everything
+Dialogue: 0,0:03:53.32,0:03:54.82,Hamada,,0,0,0,,What are you going on about..?
+Dialogue: 0,0:03:54.90,0:03:57.62,Endo,,0,0,0,,You guys can keep that to yourselves
+Dialogue: 0,0:03:57.63,0:04:00.80,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\fscx911.111\fscy649\pos(196.5,1019.84)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:03:57.63,0:04:00.80,Top,,0,0,0,,{\pos(197.067,1012.84)\fscx83.704\fscy106}BIG Arabiki   \N(Maruzen)
+Dialogue: 0,0:03:58.57,0:04:04.37,White Text,,0,0,0,,After that, Endo sucessfully cleared 2 rounds
+Dialogue: 0,0:03:57.63,0:04:04.41,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:03:57.63,0:04:04.41,Top,,0,0,0,,{\fade(0,0)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:04:00.80,0:04:04.41,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\fscx888.148\fscy656\pos(196.5,1023.679)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:04:00.80,0:04:04.41,Top,,0,0,0,,{\fscx71\fscy100\pos(196.867,1012.36)}Too Thick Sausage \N(Toyo Suisan)
+Dialogue: 0,0:04:05.75,0:04:08.65,Matsumoto,,0,0,0,,He's not going to stall here
+Dialogue: 0,0:04:04.57,0:04:09.38,Default,,0,0,0,,{\fade(400,400)\c&H1000FB&\3c&HFFFFFF&\4c&HFFFFFF&\pos(256.667,838.2)}4 cleared
+Dialogue: 0,0:04:04.57,0:04:09.38,Default,,0,0,0,,{\fade(400,400)\pos(254.333,954.4)\c&H000000&\3c&HFFFFFF&}Out of 12
+Dialogue: 0,0:04:08.85,0:04:11.37,Endo,,0,0,0,,Maybe it's about time I go for my target
+Dialogue: 0,0:04:11.45,0:04:13.77,Matsumoto,,0,0,0,,You've had a target?
+Dialogue: 0,0:04:12.85,0:04:15.87,Endo,,0,0,0,,Yes, my target is this "Homo Sausage"
+Dialogue: 0,0:04:15.92,0:04:18.40,Endo,,0,0,0,,LET'S GO, this homo sausage
+Dialogue: 0,0:04:19.75,0:04:21.91,Endo,,0,0,0,,Whaaat?
+Dialogue: 0,0:04:18.60,0:04:21.92,Matsumoto,,0,0,0,,For 60 years, right?
+Dialogue: 0,0:04:27.60,0:04:31.60,Endo,,0,0,0,,No, it wasn't this stiff
+Dialogue: 0,0:04:31.70,0:04:34.62,Endo,,0,0,0,,Ahhh, but then
+Dialogue: 0,0:04:34.77,0:04:36.71,Endo,,0,0,0,,It has the same
+Dialogue: 0,0:04:36.72,0:04:43.17,Endo,,0,0,0,,"Whoa I'm eating a fish meat sausage" sort of sense I got up there
+Dialogue: 0,0:04:43.25,0:04:44.82,Yamasaki,,0,0,0,,Ah yeah, you were saying that
+Dialogue: 0,0:04:44.90,0:04:49.15,Endo,,0,0,0,,But it really wasn't this stiff
+Dialogue: 0,0:04:49.67,0:04:52.40,Endo,,0,0,0,,{\pos(707,801)}Maybe I'll go ahead anyway
+Dialogue: 0,0:04:50.92,0:04:52.40,Endo,,0,0,0,,maybe I'll take the chance
+Dialogue: 0,0:04:54.52,0:04:56.31,Matsumoto,,0,0,0,,Oh, that's what you meant
+Dialogue: 0,0:04:55.50,0:04:56.31,Endo,,0,0,0,,Yes
+Dialogue: 0,0:04:56.31,0:05:00.51,Endo,,0,0,0,,{\pos(720,912)}It's been 60 years (since its announcement), so as a long selling...
+Dialogue: 0,0:04:58.20,0:05:00.51,Matsumoto,,0,0,0,,When you say 60 years, that's really amazing
+Dialogue: 0,0:05:03.55,0:05:05.65,Hamada,,0,0,0,,longer than that
+Dialogue: 0,0:05:01.20,0:05:05.98,Matsumoto,,0,0,0,,{\pos(817,904)}about as long as Ke-shi-
+Dialogue: 0,0:05:01.20,0:05:06.00,Yellow text,,0,0,0,,{\c&H00FFFF&\fscx63\fscy87\pos(453,950.666)}Ke-shi- Takamine*
+Dialogue: 0,0:05:01.20,0:05:06.00,Default,,0,0,0,,{\pos(454.447,672.6)\b0}Japanese actor{\b1}
+Dialogue: 0,0:05:06.45,0:05:09.25,Endo,,0,0,0,,I might do it anyway
+Dialogue: 0,0:05:05.98,0:05:09.35,Matsumoto,,0,0,0,,The sausage's history is as long as Ke-shi- Takamine's career
+Dialogue: 0,0:05:09.47,0:05:12.02,Endo,,0,0,0,,I've seen this before too...
+Dialogue: 0,0:05:12.10,0:05:15.87,Endo,,0,0,0,,I ate it right here, too
+Dialogue: 0,0:05:16.50,0:05:17.45,Endo,,0,0,0,,Here goes
+Dialogue: 0,0:05:18.09,0:05:19.45,Endo,,0,0,0,,Ahh, I'm begging you please
+Dialogue: 0,0:05:20.35,0:05:30.20,Endo,,0,0,0,,The one I ate WAS Maruzen Homo Sausage
+Dialogue: 0,0:02:11.95,0:05:31.74,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:11.95,0:05:31.74,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:02:11.95,0:05:31.74,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1249,1016.667)\fscx1092.593\fscy629}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:02:11.95,0:05:31.74,Top,,0,0,0,,{\fade(400,0)\pos(1250,1009)\fscx73.333\fscy108}Fish Sausage\N(Marudai Food Co.)
+Dialogue: 0,0:04:15.82,0:05:31.76,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:04:15.82,0:05:31.76,Top,,0,0,0,,{\fade(400,0)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:04:15.82,0:05:31.76,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx885.926\fscy680\pos(200.9,1023.999)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:04:15.82,0:05:31.76,Top,,0,0,0,,{\fade(400,0)\pos(203.267,1015)\fscx77.037\fscy113}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:05:32.30,0:05:35.35,Hamada,,0,0,0,,Of course not!
+Dialogue: 0,0:05:35.50,0:05:38.15,Matsumoto,,0,0,0,,You can't fail as the first challenger!
+Dialogue: 0,0:05:36.52,0:05:39.82,Endo,,0,0,0,,Ahh it's so difficult...
+Dialogue: 0,0:05:39.90,0:05:41.37,Endo,,0,0,0,,Ah ah he's here he's here
+Dialogue: 3,0:05:41.87,0:05:44.66,Punishment,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(682,789)}SHALL I TRAIN YOUR BRAIN TOO?
+Dialogue: 2,0:05:41.87,0:05:44.66,Punishment,,0,0,0,,{\bord6\3c&H1D07A5&\pos(682,789)}SHALL I TRAIN YOUR BRAIN TOO?
+Dialogue: 1,0:05:41.87,0:05:44.66,Punishment,,0,0,0,,{\bord10\pos(682,789)}SHALL I TRAIN YOUR BRAIN TOO?
+Dialogue: 0,0:05:49.47,0:05:50.47,Yamasaki,,0,0,0,,What?
+Dialogue: 0,0:05:50.62,0:05:52.45,Matsumoto,,0,0,0,,I might not want this
+Dialogue: 0,0:05:53.37,0:05:55.62,Yamasaki,,0,0,0,,That was very strict, too
+Dialogue: 0,0:05:55.65,0:05:57.72,Endo,,0,0,0,,This- ah- this is very strict
+Dialogue: 0,0:05:58.14,0:06:02.01,Hamada,,0,0,0,,{\pos(717,912)}Well you were first up so it couldnt've been helped
+Dialogue: 0,0:06:02.17,0:06:04.34,Endo,,0,0,0,,It was dried out, so it was a bit stiff
+Dialogue: 0,0:06:04.34,0:06:07.25,Matsumoto,,0,0,0,,The humidity is high today
+Dialogue: 0,0:06:06.85,0:06:07.25,Tanaka,,0,0,0,,{\pos(542,372)}Yes
+Dialogue: 0,0:06:07.25,0:06:10.25,Matsumoto,,0,0,0,,so I don't know what could have dried it out
+Dialogue: 0,0:06:10.65,0:06:12.25,Yamasaki,,0,0,0,,Is it dried out?
+Dialogue: 0,0:06:12.35,0:06:15.45,Endo,,0,0,0,,Are you going to use this footage of me getting scolded?
+Dialogue: 0,0:06:15.62,0:06:17.82,Matsumoto,,0,0,0,,That's all we're going to use!
+Dialogue: 0,0:06:21.86,0:06:26.70,Tanaka,,0,0,0,,{\fade(400,0)\fs60\pos(374.649,662.2)}Tanaka's Challenge
+Dialogue: 0,0:06:21.86,0:06:26.70,Blue rectangle,,0,0,0,,{\fade(400,0)\p1\clip(387,775,1249,1015)\fscx515\fscy227\pos(648.406,901.8)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:06:21.86,0:06:26.70,Sign,,0,0,0,,{\fade(400,0)\pos(796.351,867.2)\c&H2DFFFA&}DHA Included Risala Sausage
+Dialogue: 0,0:06:21.86,0:06:26.70,Sign,,0,0,0,,{\fade(400,0)\pos(819,981)\fscx81\fscy88\c&H2DFFFA&}(Maruha Nichiro)
+Dialogue: 0,0:06:19.47,0:06:26.70,White Text,,0,0,0,,{\fscx78\fscy118}Tanaka's challenge Maruha Nichiro's easy on the body, DHA Included Risala Sausage
+Dialogue: 0,0:06:27.77,0:06:30.10,Hamada,,0,0,0,,The answer is already there
+Dialogue: 0,0:06:30.22,0:06:32.07,Endo,,0,0,0,,You can't do that to your senpai
+Dialogue: 0,0:06:32.15,0:06:34.07,Matsumoto,,0,0,0,,Yeah, you can't do that
+Dialogue: 0,0:06:34.24,0:06:36.94,Matsumoto,,0,0,0,,Hamada is so annoying
+Dialogue: 0,0:06:36.94,0:06:39.81,Matsumoto,,0,0,0,,Hamada from Downtown
+Dialogue: 0,0:06:40.80,0:06:43.08,Tanaka,,0,0,0,,I'm going to eat it all in one go
+Dialogue: 0,0:06:43.08,0:06:46.32,Hamada,,0,0,0,,Well you're allowed to eat it however you want
+Dialogue: 0,0:06:46.32,0:06:47.59,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:06:47.59,0:06:48.15,Tanaka,,0,0,0,,{\fscx123\fscy130}Oh yeah
+Dialogue: 0,0:06:48.15,0:06:49.37,Tanaka,,0,0,0,,{\fscx158\fscy150}Yeah
+Dialogue: 0,0:06:49.75,0:06:52.22,Tanaka,,0,0,0,,It has a good amount of stickiness
+Dialogue: 0,0:06:51.17,0:06:53.09,Hamada,,0,0,0,,{\frz7.283\fscx138\fscy143\pos(976,563)}Cough
+Dialogue: 0,0:06:51.62,0:06:53.09,Hamada,,0,0,0,,{\\pos(1045.5,686)\fscx138\fscy143\frz19.02\frx358\fry0}Cough
+Dialogue: 0,0:06:53.67,0:06:54.63,Matsumoto,,0,0,0,,Hamada is coughing so {\alpha&HFF&}be quiet
+Dialogue: 0,0:06:53.09,0:06:56.13,Matsumoto,,0,0,0,,{\pos(374,810)}Right now
+Dialogue: 0,0:06:54.63,0:06:56.13,Matsumoto,,0,0,0,,Hamada is coughing so be quiet
+Dialogue: 0,0:06:56.13,0:06:58.33,Yamasaki,,0,0,0,,{\pos(724,912)}Tanaka has to be quiet
+Dialogue: 0,0:06:57.40,0:06:58.80,Tanaka,,0,0,0,,What about you guys be quiet?
+Dialogue: 0,0:06:58.86,0:06:59.43,Endo,,0,0,0,,Hamada-san is currently{\alpha&HFF&} in the process of coughing
+Dialogue: 0,0:06:59.43,0:07:01.10,Endo,,0,0,0,,Hamada-san is currently in the process of coughing
+Dialogue: 0,0:07:02.62,0:07:04.75,Tanaka,,0,0,0,,Is it alright if I start off
+Dialogue: 0,0:07:04.82,0:07:06.62,Tanaka,,0,0,0,,with something that's totally different?
+Dialogue: 0,0:07:06.70,0:07:08.67,Matsumoto,,0,0,0,,You'll gauge it from the difference
+Dialogue: 0,0:07:08.67,0:07:10.12,Tanaka,,0,0,0,,Yes, I'll see what I'm dealing with
+Dialogue: 0,0:07:10.12,0:07:12.30,Tanaka,,0,0,0,,I want to try Arabiki
+Dialogue: 0,0:07:12.30,0:07:14.07,Tanaka,,0,0,0,,I'll try it
+Dialogue: 0,0:07:13.70,0:07:14.87,Matsumoto,,0,0,0,,Yes, Arabiki
+Dialogue: 0,0:07:17.62,0:07:20.00,Tanaka,,0,0,0,,Nope, wrong
+Dialogue: 0,0:07:20.07,0:07:22.69,Matsumoto,,0,0,0,,And one is enough?
+Dialogue: 0,0:07:21.00,0:07:22.69,Tanaka,,0,0,0,,Yes, one is enough
+Dialogue: 0,0:07:10.79,0:07:26.37,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:10.79,0:07:26.37,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:07:10.79,0:07:26.37,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx911.111\fscy649\pos(196.5,1019.84)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:10.79,0:07:26.37,Top,,0,0,0,,{\fade(400,400)\pos(197.067,1012.84)\fscx83.704\fscy106}BIG Arabiki   \N(Maruzen)
+Dialogue: 0,0:07:22.80,0:07:26.95,Tanaka,,0,0,0,,The one I ate was NOT BIG Arabiki Sausage
+Dialogue: 0,0:07:27.35,0:07:30.60,Yamasaki,,0,0,0,,Well, if you had gotten it wrong there that would have been...
+Dialogue: 0,0:07:30.75,0:07:34.50,Matsumoto,,0,0,0,,But you purposely tried the one that was the most different, right?
+Dialogue: 0,0:07:34.50,0:07:37.67,Endo,,0,0,0,,So you'll get closer now?
+Dialogue: 0,0:07:35.32,0:07:37.67,Tanaka,,0,0,0,,Yes, with this I will get closer to it
+Dialogue: 0,0:07:37.67,0:07:39.50,Tanaka,,0,0,0,,{\pos(362,415)}I'll narrow it down
+Dialogue: 0,0:07:38.65,0:07:41.01,Yamasaki,,0,0,0,,Yeah, that's right. That's how you get it right.
+Dialogue: 0,0:07:41.01,0:07:43.25,Hamada,,0,0,0,,We didn't ask him
+Dialogue: 0,0:07:43.75,0:07:46.37,Tanaka,,0,0,0,,Let's move on!
+Dialogue: 0,0:07:46.65,0:07:48.92,Tanaka,,0,0,0,,Glico Ham Gun-Gun Sausage
+Dialogue: 0,0:07:49.00,0:07:54.12,Tanaka,,0,0,0,,Clearly it has a different vibe from the one I tried
+Dialogue: 0,0:07:52.07,0:07:54.12,Matsumoto,,0,0,0,,Smell?
+Dialogue: 0,0:07:57.36,0:07:57.82,Tanaka,,0,0,0,,More {\alpha&HFF&}#&%$^
+Dialogue: 0,0:07:57.82,0:08:00.59,Tanaka,,0,0,0,,More #&%$^
+Dialogue: 0,0:07:59.67,0:08:01.12,Endo,,0,0,0,,{\pos(817,464)}What did you say?
+Dialogue: 0,0:08:01.22,0:08:02.85,Hamada,,0,0,0,,{\pos(1160,583)}WHAT IS IT?
+Dialogue: 0,0:08:03.90,0:08:06.43,Tanaka,,0,0,0,,It came to me stronger
+Dialogue: 0,0:08:04.95,0:08:06.43,Hamada,,0,0,0,,You're not making sense
+Dialogue: 0,0:08:06.52,0:08:08.60,Matsumoto,,0,0,0,,Are you serious?
+Dialogue: 0,0:08:08.60,0:08:11.07,Tanaka,,0,0,0,,{\pos(724.052,918)}I felt like it came stronger
+Dialogue: 0,0:08:09.92,0:08:13.37,Matsumoto,,0,0,0,,Oh that's it? I had NO idea
+Dialogue: 0,0:08:11.80,0:08:13.37,Yamasaki,,0,0,0,,NO idea
+Dialogue: 0,0:08:12.45,0:08:13.37,Hamada,,0,0,0,,That's what he wanted to say
+Dialogue: 0,0:08:13.67,0:08:17.37,Tanaka,,0,0,0,,It's close, it's actually very close
+Dialogue: 0,0:08:17.55,0:08:19.67,Tanaka,,0,0,0,,but the stiffness is different
+Dialogue: 0,0:08:19.82,0:08:20.41,Tanaka,,0,0,0,,the flavor is also different
+Dialogue: 0,0:08:20.41,0:08:22.41,Tanaka,,0,0,0,,No, this is aimed for children
+Dialogue: 0,0:08:23.47,0:08:27.35,Tanaka,,0,0,0,,The one I ate was NOT Gun-Gun Sausage
+Dialogue: 0,0:08:26.12,0:08:27.37,Matsumoto,,0,0,0,,Well, this is
+Dialogue: 0,0:07:02.08,0:08:27.47,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:02.08,0:08:27.47,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:07:02.08,0:08:27.47,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx945.185\fscy772\pos(1249,1018.827)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:02.08,0:08:27.47,Top,,0,0,0,,{\fade(400,0)\fscx71\fscy100\pos(1254.433,1021.174)}DHA Included  \NRisala Sausage   \N(Maruha NIchiro)
+Dialogue: 0,0:07:48.40,0:08:27.47,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:48.40,0:08:27.47,Top,,0,0,0,,{\fade(400,0)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:07:48.40,0:08:27.47,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx980.741\fscy694\pos(199.6,1023.52)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:07:48.40,0:08:27.47,Top,,0,0,0,,{\fade(400,0)\pos(201.767,1009.88)\fscx76.296\fscy103}Gun-Gun Sausage \N(Glico Ham)
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\pos(461.5,236)\c&H000000&\3c&HFFFFFF&}Nissui
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\pos(461.5,502)\c&H000000&\3c&HFFFFFF&\}Fish's Sausage
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\c&H000000&\3c&HFFFFFF&\\pos(184,700)}Marudai Food Co.
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\c&H000000&\3c&HFFFFFF&\\pos(184,970)}Fish Sausage
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\c&H000000&\3c&HFFFFFF&\\pos(826,704)}Maruzen
+Dialogue: 0,0:08:27.45,0:08:33.26,Default,,0,0,0,,{\b0\c&H000000&\3c&HFFFFFF&\\pos(826,966)}Homo Sausage
+Dialogue: 0,0:08:27.47,0:08:33.27,Default,,0,0,0,,After this he piles up his victories and successfully clear 3 rounds!
+Dialogue: 0,0:08:35.67,0:08:36.70,Yamasaki,,0,0,0,,You did it
+Dialogue: 0,0:08:36.72,0:08:37.87,Endo,,0,0,0,,You've passed it
+Dialogue: 0,0:08:33.26,0:08:38.56,Default,,0,0,0,,{\c&H1000FB&\3c&HFFFFFF&\4c&HFFFFFF&\pos(256.667,838.2)}5 cleared
+Dialogue: 0,0:08:33.26,0:08:38.56,Default,,0,0,0,,{\pos(254.333,954.4)\c&H000000&\3c&HFFFFFF&}Out of 12
+Dialogue: 0,0:08:37.95,0:08:38.95,Yamasaki,,0,0,0,,Alright, keep going!
+Dialogue: 0,0:08:39.90,0:08:40.65,Matsumoto,,0,0,0,,{\pos(1229,529)}Go go!
+Dialogue: 0,0:08:38.93,0:08:41.10,Tanaka,,0,0,0,,Alright, I will continue
+Dialogue: 0,0:08:42.72,0:08:43.37,Top,,0,0,0,,{\fscx71\fscy100\pos(200,1016)\c&H0000FF&\3c&H00FCFF&}DHA Included   \NRisala Sausage \N(Maruha Nichiro)
+Dialogue: 0,0:08:42.72,0:08:43.37,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:08:43.75,0:08:44.35,Top,,0,0,0,,{\fscx71\fscy100\pos(200,1016)\c&H0000FF&\3c&H00FCFF&}DHA Included   \NRisala Sausage \N(Maruha Nichiro)
+Dialogue: 0,0:08:43.75,0:08:44.35,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:08:41.32,0:08:45.72,Tanaka,,0,0,0,,DHA Included Risala Sausage
+Dialogue: 0,0:08:44.29,0:08:45.90,Matsumoto,,0,0,0,,What does "DHA included" mean?
+Dialogue: 0,0:08:45.90,0:08:47.36,Yamasaki,,0,0,0,,DHA...
+Dialogue: 0,0:08:49.85,0:08:52.70,Matsumoto,,0,0,0,,He is very focused
+Dialogue: 0,0:08:53.22,0:08:55.85,Tanaka,,0,0,0,,No, the flavor was stronger
+Dialogue: 0,0:08:56.10,0:08:58.42,Endo,,0,0,0,,That was dangerous, just now
+Dialogue: 0,0:08:58.55,0:09:00.85,Matsumoto,,0,0,0,,His articulation today is more...
+Dialogue: 0,0:09:00.85,0:09:07.22,Tanaka,,0,0,0,,The one I ate was NOT DHA Included Risala Sausage
+Dialogue: 0,0:08:33.27,0:09:07.51,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:08:33.27,0:09:07.51,Top,,0,0,0,,{\fade(0,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:08:33.27,0:09:07.51,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx945.185\fscy772\pos(1249,1018.827)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:08:33.27,0:09:07.51,Top,,0,0,0,,{\fade(0,0)\fscx71\fscy100\pos(1254.433,1021.174)}DHA Included  \NRisala Sausage   \N(Maruha NIchiro)
+Dialogue: 0,0:08:41.22,0:09:07.51,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:08:41.22,0:09:07.51,Default,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx945.185\fscy772\pos(201.2,1017.09)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:08:41.22,0:09:07.51,Top,,0,0,0,,{\fscx71\fscy100\pos(200,1016)}DHA Included   \NRisala Sausage \N(Maruha Nichiro)
+Dialogue: 0,0:08:44.75,0:09:07.51,Top,,0,0,0,,{\fscx71\fscy100\pos(200,1016)\c&H0000FF&\3c&H00FCFF&}DHA Included   \NRisala Sausage \N(Maruha Nichiro)
+Dialogue: 0,0:08:41.22,0:09:07.51,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:08:44.75,0:09:07.51,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:09:09.67,0:09:12.47,Matsumoto,,0,0,0,,Such a shitty presentation!
+Dialogue: 0,0:09:12.62,0:09:15.28,Matsumoto,,0,0,0,,What a shitty ending!
+Dialogue: 0,0:09:16.40,0:09:18.02,Yamasaki,,0,0,0,,You had no clue!
+Dialogue: 0,0:09:18.12,0:09:20.10,Matsumoto,,0,0,0,,The shittiest ending!
+Dialogue: 0,0:09:20.25,0:09:22.05,Yamasaki,,0,0,0,,Everything you say is a lie
+Dialogue: 0,0:09:23.85,0:09:24.87,Yamasaki,,0,0,0,,Yes
+Dialogue: 0,0:09:22.25,0:09:24.92,Hamada,,0,0,0,,He didn't know at all, right?
+Dialogue: 3,0:09:24.95,0:09:27.55,Punishment,,0,0,0,,{\fade(0,400)}{\c&H000000&\3c&HFFFFFF&\pos(682,789)}STUDY YOUR FISH FROM THE VERY START!
+Dialogue: 2,0:09:24.95,0:09:27.55,Punishment,,0,0,0,,{\fade(0,400)}{\bord6\3c&H1D07A5&\pos(682,789)}STUDY YOUR FISH FROM THE VERY START!
+Dialogue: 1,0:09:24.95,0:09:27.55,Punishment,,0,0,0,,{\fade(0,400)}{\bord10\pos(682,789)}STUDY YOUR FISH FROM THE VERY START!
+Dialogue: 0,0:09:31.02,0:09:32.92,Matsumoto,,0,0,0,,Sh{\i1}i{\i0}tty
+Dialogue: 0,0:09:32.92,0:09:35.25,Matsumoto,,0,0,0,,He's the one who said sh{\i1}i{\i0}tty
+Dialogue: 0,0:09:35.25,0:09:37.09,Matsumoto,,0,0,0,,He's a very formal one
+Dialogue: 0,0:09:37.09,0:09:38.12,Yamasaki,,0,0,0,,He's very formal
+Dialogue: 0,0:09:38.12,0:09:40.19,Matsumoto,,0,0,0,,So sh{\i1}i{\i0}tty
+Dialogue: 0,0:09:41.50,0:09:44.82,White Text,,0,0,0,,Hamada's challenge is the very thick,
+Dialogue: 0,0:09:44.23,0:09:48.10,Hamada,,0,0,0,,{\fade(400,0)\fs60\pos(374.649,662.2)}Hamada's Challenge
+Dialogue: 0,0:09:44.23,0:09:48.10,Blue rectangle,,0,0,0,,{\fade(400,0)\p1\clip(387,775,1249,1015)\fscx515\fscy227\pos(648.406,901.8)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:09:44.23,0:09:48.10,Sign,,0,0,0,,{\fade(400,0)\pos(796.351,867.2)\c&H2DFFFA&}Too Thick Sausage
+Dialogue: 0,0:09:44.23,0:09:48.10,Sign,,0,0,0,,{\fade(400,0)\pos(819,981)\fscx81\fscy88\c&H2DFFFA&}(Toyo Suisan)
+Dialogue: 0,0:09:44.90,0:09:48.10,White Text,,0,0,0,,Toyo Suisan's Too Thick Sausage
+Dialogue: 0,0:09:52.57,0:09:56.50,Matsumoto,,0,0,0,,He's trying to feel it from many different places
+Dialogue: 0,0:09:57.20,0:09:58.60,Endo,,0,0,0,,He's really sniffing it
+Dialogue: 0,0:09:57.12,0:09:59.35,Hamada,,0,0,0,,It's not...
+Dialogue: 0,0:09:59.74,0:10:00.24,Matsumoto,,0,0,0,,Just look at that, {\alpha&HFF&}how disgusting
+Dialogue: 0,0:10:00.24,0:10:03.11,Matsumoto,,0,0,0,,Just look at that, how disgusting
+Dialogue: 0,0:10:03.75,0:10:05.58,Matsumoto,,0,0,0,,So grotesque
+Dialogue: 0,0:10:05.72,0:10:08.35,Endo,,0,0,0,,Is it "guro"?
+Dialogue: 0,0:10:06.30,0:10:08.35,Matsumoto,,0,0,0,,"Guro"
+Dialogue: 0,0:10:07.10,0:10:08.37,Yamasaki,,0,0,0,,Grotesque...
+Dialogue: 0,0:10:09.87,0:10:11.52,Yamasaki,,0,0,0,,You good?
+Dialogue: 0,0:10:11.57,0:10:15.33,Hamada,,0,0,0,,Yes, it has a sense of "yes, this is a sausage"
+Dialogue: 0,0:10:16.85,0:10:20.25,Hamada,,0,0,0,,Now, I don't want to take too much time
+Dialogue: 0,0:10:20.35,0:10:23.70,Yamasaki,,0,0,0,,That will help you win, right
+Dialogue: 0,0:10:25.14,0:10:27.34,Hamada,,0,0,0,,These over here have something in them, right?
+Dialogue: 0,0:10:27.34,0:10:30.41,Hamada,,0,0,0,,{\fscx129\fscy125}Fish meat and
+Dialogue: 0,0:10:30.41,0:10:32.20,Hamada,,0,0,0,,white shrimp, and tuna
+Dialogue: 0,0:10:31.14,0:10:32.91,Matsumoto,,0,0,0,,{\pos(715,896)\fscx162\fscy142}WHAT!?
+Dialogue: 0,0:10:33.65,0:10:35.31,Matsumoto,,0,0,0,,If you take out the fish meat, {\alpha&HFF&}then there's nothing left
+Dialogue: 0,0:10:35.31,0:10:37.65,Matsumoto,,0,0,0,,If you take out the fish meat, then there's nothing left
+Dialogue: 0,0:10:38.15,0:10:41.12,Matsumoto,,0,0,0,,{\pos(722,901)}We're doing fish meat, you know
+Dialogue: 0,0:10:39.95,0:10:41.82,Endo,,0,0,0,,He should remain faithful to the title
+Dialogue: 0,0:10:41.92,0:10:42.59,Matsumoto,,0,0,0,,HE WANTS{\alpha&HFF&} TO TAKE OUT THE FISH MEAT
+Dialogue: 0,0:10:42.59,0:10:44.39,Matsumoto,,0,0,0,,HE WANTS TO TAKE OUT THE FISH MEAT
+Dialogue: 0,0:10:44.39,0:10:45.29,Matsumoto,,0,0,0,,NOTHING{\alpha&HFF&} WILL BE LEFT~
+Dialogue: 0,0:10:45.29,0:10:47.16,Matsumoto,,0,0,0,,NOTHING WILL BE LEFT~
+Dialogue: 0,0:10:46.35,0:10:48.02,Hamada,,0,0,0,,{\pos(248,567)\fscx178\fscy150}Shut up!
+Dialogue: 0,0:10:48.36,0:10:50.63,Matsumoto,,0,0,0,,Of course I'll get noisy about it
+Dialogue: 0,0:10:52.70,0:10:56.60,Matsumoto,,0,0,0,,{\pos(592.5,1070)}This is our "tsukkomi". that is what is said, so
+Dialogue: 0,0:10:56.67,0:10:59.02,Endo,,0,0,0,,{\pos(1114,480)}That's at the top
+Dialogue: 0,0:10:57.17,0:11:00.00,Matsumoto,,0,0,0,,He's a "boke", completely
+Dialogue: 0,0:10:59.97,0:11:02.51,Matsumoto,,0,0,0,,This is definitely "boke" stuff
+Dialogue: 0,0:11:02.52,0:11:06.65,Hamada,,0,0,0,,I'm going to try this one now
+Dialogue: 0,0:11:10.22,0:11:15.15,Hamada,,0,0,0,,Was it this soft?
+Dialogue: 0,0:11:17.45,0:11:21.65,Hamada,,0,0,0,,This has a very light flavor
+Dialogue: 0,0:11:21.85,0:11:25.20,Hamada,,0,0,0,,The one I had was more like, "sausaaage"
+Dialogue: 0,0:11:25.30,0:11:27.27,Matsumoto,,0,0,0,,Yes but that one is very...
+Dialogue: 0,0:11:27.27,0:11:29.93,Yamasaki,,0,0,0,,It must be the oldest one here
+Dialogue: 0,0:11:29.95,0:11:33.71,Matsumoto,,0,0,0,,{\pos(825,1047)}It is the same as Ke-shi-
+Dialogue: 0,0:11:29.95,0:11:33.71,Yellow text,,0,0,0,,{\b0\c&H12F5E8&\3c&H000000&\4c&H000000&\pos(456.333,941.334)\fscx88\fscy77}Ke-shi- Takamine
+Dialogue: 0,0:11:34.75,0:11:35.54,Hamada,,0,0,0,,It's wrong
+Dialogue: 0,0:11:35.64,0:11:39.60,Matsumoto,,0,0,0,,Sausage Takamine
+Dialogue: 0,0:11:39.80,0:11:44.28,Hamada,,0,0,0,,The one I ate was NOT Maruzen Homo Sausage
+Dialogue: 0,0:11:02.86,0:11:44.77,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:11:02.86,0:11:44.77,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:11:02.86,0:11:44.77,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx885.926\fscy680\pos(200.9,1023.999)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:11:02.86,0:11:44.77,Top,,0,0,0,,{\fade(400,400)\pos(203.267,1015)\fscx77.037\fscy113}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:11:44.87,0:11:47.94,Default,,0,0,0,,{\fade(400,0)\fscx83\fscy98\pos(410,930)}*He is disposing an empty bag
+Dialogue: 0,0:11:47.92,0:11:50.69,Endo,,0,0,0,,He has the most stars on his chest
+Dialogue: 0,0:11:50.72,0:11:52.30,Yamasaki,,0,0,0,,Hamada's getting them right
+Dialogue: 0,0:11:52.35,0:11:54.27,Yamasaki,,0,0,0,,He has 6 stars
+Dialogue: 0,0:11:54.86,0:11:57.56,Matsumoto,,0,0,0,,He's sleeping around
+Dialogue: 0,0:11:57.56,0:12:00.63,Matsumoto,,0,0,0,,and it could be with anybody
+Dialogue: 0,0:12:00.63,0:12:02.10,Matsumoto,,0,0,0,,{\fscx163\fscy198}I HEARD THE RUMOR
+Dialogue: 0,0:12:02.10,0:12:04.87,Yamasaki,,0,0,0,,With anybody!?
+Dialogue: 0,0:12:03.02,0:12:04.87,Matsumoto,,0,0,0,,Yes, with anybody
+Dialogue: 0,0:12:04.95,0:12:08.84,Matsumoto,,0,0,0,,{\pos(699,793)}His pants' zippers are very loose
+Dialogue: 0,0:12:04.95,0:12:08.84,Matsumoto,,0,0,0,,{\pos(697,918)}from what I've heard
+Dialogue: 0,0:12:09.91,0:12:10.48,Yamasaki,,0,0,0,,"Guro" {\alpha&HFF&}it's "guro"
+Dialogue: 0,0:12:10.48,0:12:12.88,Yamasaki,,0,0,0,,"Guro" it's "guro"
+Dialogue: 0,0:12:14.75,0:12:18.28,Hamada,,0,0,0,,If we're talking about the aftertaste, this is very close
+Dialogue: 0,0:12:19.62,0:12:22.75,Hamada,,0,0,0,,No, I'm telling you this is super close
+Dialogue: 0,0:12:24.45,0:12:26.67,Matsumoto,,0,0,0,,So that means you'll choose that one?
+Dialogue: 0,0:12:26.77,0:12:30.37,Hamada,,0,0,0,,Well I've already eaten it, so I'm wondering which to choose
+Dialogue: 0,0:12:30.42,0:12:35.25,Hamada,,0,0,0,,but the thing is, this was the one that went to Tanaka;
+Dialogue: 0,0:12:35.35,0:12:37.34,Hamada,,0,0,0,,would the same one be used for me?
+Dialogue: 0,0:12:45.15,0:12:46.64,Matsumoto,,0,0,0,,What happened? What's wrong?
+Dialogue: 0,0:12:47.25,0:12:49.00,Yamasaki,,0,0,0,,In front of the phone
+Dialogue: 0,0:12:49.01,0:12:51.28,Endo,,0,0,0,,He's thinking about making a call*
+Dialogue: 0,0:12:49.01,0:12:55.72,Default,,0,0,0,,{\pos(539.5,66)\fscx65\fscy77}Translator's note: Kakeru (the word they're using) means to risk and to make a call
+Dialogue: 0,0:12:54.92,0:12:55.72,Endo,,0,0,0,,{\pos(884,477)}You're right
+Dialogue: 0,0:12:54.92,0:12:55.72,Tanaka,,0,0,0,,{\pos(1208,362)}Yes
+Dialogue: 0,0:12:52.22,0:12:57.62,Matsumoto,,0,0,0,,{\pos(602,803)}If you risk it once,
+Dialogue: 0,0:12:54.39,0:12:57.62,Matsumoto,,0,0,0,,then you have to go all in
+Dialogue: 0,0:12:57.67,0:13:00.30,Endo,,0,0,0,,Oh, he's holding the receiver
+Dialogue: 0,0:13:00.40,0:13:01.85,Endo,,0,0,0,,Is he going to call?
+Dialogue: 0,0:13:03.10,0:13:04.40,Endo,,0,0,0,,Ah whatever
+Dialogue: 0,0:13:01.95,0:13:04.42,Yamasaki,,0,0,0,,It's better to call
+Dialogue: 0,0:13:01.95,0:13:04.42,Yamasaki,,0,0,0,,Here he goes
+Dialogue: 0,0:13:06.93,0:13:07.98,Hamada,,0,0,0,,I'm gonna do it anyway
+Dialogue: 0,0:13:07.98,0:13:09.05,Hamada,,0,0,0,,it's no use to ponder it
+Dialogue: 0,0:13:09.05,0:13:10.28,Hamada,,0,0,0,,it was so bland
+Dialogue: 0,0:13:10.28,0:13:12.28,Hamada,,0,0,0,,this is the one
+Dialogue: 0,0:13:12.87,0:13:22.15,Hamada,,0,0,0,,The one I ate WAS DHA Included Risala Sausage
+Dialogue: 0,0:10:53.03,0:13:25.62,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:10:53.05,0:13:25.63,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:10:53.05,0:13:25.63,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\fscx888.148\fscy656\pos(1246.1,1023.679)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:10:53.05,0:13:25.63,Top,,0,0,0,,{\fscx71\fscy100\pos(1246.467,1010.2)}Too Thick Sausage \N(Toyo Suisan)
+Dialogue: 0,0:12:02.45,0:13:25.63,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:12:02.45,0:13:25.63,Top,,0,0,0,,{\fade(400,0)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:12:02.45,0:13:25.63,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx945.185\fscy805\pos(201.2,1018.98)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:12:02.45,0:13:25.63,Top,,0,0,0,,{\fade(400,0)\fscx71\fscy100\pos(202.867,1017.187)}DHA Included  \NRisala Sausage     \N(Maruha Nichiro)
+Dialogue: 0,0:13:26.27,0:13:28.25,Matsumoto,,0,0,0,,No, that's no good
+Dialogue: 0,0:13:29.17,0:13:31.80,Matsumoto,,0,0,0,,He really put it all on the line
+Dialogue: 0,0:13:31.95,0:13:34.12,Matsumoto,,0,0,0,,He put it all out
+Dialogue: 0,0:13:34.25,0:13:36.11,Matsumoto,,0,0,0,,Freeze his face please
+Dialogue: 0,0:13:36.11,0:13:37.24,Matsumoto,,0,0,0,,I'm scared of this, though
+Dialogue: 3,0:13:37.92,0:13:41.83,Punishment,,0,0,0,,{\fade(0,400)}{\c&H000000&\3c&HFFFFFF&\pos(682,789)}AREN'T YOU SUPPOSED TO BE FAMILIAR WITH KIDS' FOOD!?
+Dialogue: 2,0:13:37.92,0:13:41.83,Punishment,,0,0,0,,{\fade(0,400)}{\bord6\3c&H1D07A5&\pos(682,789)}AREN'T YOU SUPPOSED TO BE FAMILIAR WITH KIDS' FOOD!?
+Dialogue: 1,0:13:37.92,0:13:41.83,Punishment,,0,0,0,,{\fade(0,400)}{\bord10\pos(682,789)}AREN'T YOU SUPPOSED TO BE FAMILIAR WITH KIDS' FOOD!?
+Dialogue: 0,0:13:42.85,0:13:44.08,Matsumoto,,0,0,0,,Ahh, how scary
+Dialogue: 0,0:13:45.95,0:13:47.47,Hamada,,0,0,0,,Which was it?
+Dialogue: 0,0:13:47.47,0:13:49.85,Endo,,0,0,0,,It was this "Too Thick Sausage"
+Dialogue: 0,0:13:50.10,0:13:52.84,Yamasaki,,0,0,0,,Please, try it
+Dialogue: 0,0:13:55.98,0:13:56.48,Hamada,,0,0,0,,{\pos(720,888)}No, {\alpha&HFF&}it's wrong
+Dialogue: 0,0:13:56.78,0:13:59.37,Matsumoto,,0,0,0,,Whaaat!?
+Dialogue: 0,0:13:56.48,0:13:59.48,Hamada,,0,0,0,,{\pos(720,888)}No, it's wrong
+Dialogue: 0,0:13:59.48,0:14:02.00,Yamasaki,,0,0,0,,Please decrease the amount of options
+Dialogue: 0,0:14:01.99,0:14:03.49,Matsumoto,,0,0,0,,Decrease it!
+Dialogue: 0,0:14:03.49,0:14:04.72,Yamasaki,,0,0,0,,{\pos(912,453)}A decreasing rule!
+Dialogue: 0,0:14:03.49,0:14:06.89,Matsumoto,,0,0,0,,{\pos(705,774)}DECREASE IT!
+Dialogue: 0,0:14:04.72,0:14:06.89,Yamasaki,,0,0,0,,He's calling for a decreasing rule!
+Dialogue: 0,0:14:08.32,0:14:11.42,White Text,,0,0,0,,The Kiki Fish Sausage has proven to be a struggle for everyone,
+Dialogue: 0,0:14:11.33,0:14:16.30,Yamasaki,,0,0,0,,{\fade(400,0)\fs60\pos(374.649,662.2)}Hosei's Challenge
+Dialogue: 0,0:14:11.33,0:14:16.30,Blue rectangle,,0,0,0,,{\fade(400,0)\p1\clip(387,775,1249,1015)\fscx515\fscy227\pos(648.406,901.8)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:14:11.33,0:14:16.30,Sign,,0,0,0,,{\fade(400,0)\pos(796.351,867.2)\c&H2DFFFA&}Homo Sausage
+Dialogue: 0,0:14:11.33,0:14:16.30,Sign,,0,0,0,,{\fade(400,0)\pos(819,981)\fscx81\fscy88\c&H2DFFFA&}(Maruzen)
+Dialogue: 0,0:14:11.50,0:14:16.32,White Text,,0,0,0,,Hosei's challenge is Maruzen's Homo Sausage
+Dialogue: 0,0:14:16.42,0:14:19.10,Yamasaki,,0,0,0,,This is properly cut into a square, right?
+Dialogue: 0,0:14:20.05,0:14:22.92,Matsumoto,,0,0,0,,Yes, they're diced
+Dialogue: 0,0:14:23.62,0:14:25.01,Yamasaki,,0,0,0,,Huh?
+Dialogue: 0,0:14:25.01,0:14:26.88,Yamasaki,,0,0,0,,It's so average!
+Dialogue: 0,0:14:26.88,0:14:28.31,Yamasaki,,0,0,0,,Softness, average!
+Dialogue: 0,0:14:28.31,0:14:29.57,Yamasaki,,0,0,0,,Smell, average!
+Dialogue: 0,0:14:30.50,0:14:32.23,Yamasaki,,0,0,0,,And then, when I
+Dialogue: 0,0:14:32.23,0:14:35.84,Yamasaki,,0,0,0,,grate it against my teeth,
+Dialogue: 0,0:14:38.27,0:14:41.78,Yamasaki,,0,0,0,,the smell from the part that was split open!
+Dialogue: 0,0:14:44.40,0:14:46.05,Yamasaki,,0,0,0,,It has one {\alpha&HFF&}a scent {\alpha&HFF&}mhm
+Dialogue: 0,0:14:46.05,0:14:47.33,Yamasaki,,0,0,0,,It has one a scent{\alpha&HFF&} mhm
+Dialogue: 0,0:14:47.33,0:14:48.95,Yamasaki,,0,0,0,,It has one a scent mhm
+Dialogue: 0,0:14:48.97,0:14:50.94,Hamada,,0,0,0,,What a solidly failed attempt to make us laugh
+Dialogue: 0,0:14:50.94,0:14:52.40,Matsumoto,,0,0,0,,I mean, I {\alpha&HFF&}liked it, so
+Dialogue: 0,0:14:52.40,0:14:54.57,Matsumoto,,0,0,0,,I mean, I liked it, so
+Dialogue: 0,0:14:54.57,0:14:58.28,Matsumoto,,0,0,0,,Even though anybody else would say that's wrong
+Dialogue: 0,0:14:56.24,0:14:58.28,Hamada,,0,0,0,,{\pos(721,788)}The public, right?
+Dialogue: 0,0:15:00.00,0:15:02.25,Yamasaki,,0,0,0,,One thing I can say is that,
+Dialogue: 0,0:15:02.32,0:15:04.27,Yamasaki,,0,0,0,,the surface was very smooth
+Dialogue: 0,0:15:04.27,0:15:05.90,Yamasaki,,0,0,0,,of the one I ate
+Dialogue: 0,0:15:06.32,0:15:08.15,Matsumoto,,0,0,0,,Aren't they all like that?
+Dialogue: 0,0:15:08.25,0:15:11.85,Yamasaki,,0,0,0,,That one is so rough, there are rough ones
+Dialogue: 0,0:15:10.15,0:15:12.77,Matsumoto,,0,0,0,,{\pos(987,504)}You won't know unless you test with your tongue
+Dialogue: 0,0:15:12.85,0:15:13.94,Yamasaki,,0,0,0,,Ah but wait a minute,
+Dialogue: 0,0:15:13.94,0:15:14.81,Yamasaki,,0,0,0,,what should I choose with-
+Dialogue: 0,0:15:14.81,0:15:15.84,Yamasaki,,0,0,0,,I'll base it off of the saltiness
+Dialogue: 0,0:15:15.84,0:15:16.67,Yamasaki,,0,0,0,,alright
+Dialogue: 0,0:15:19.12,0:15:19.77,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:19.12,0:15:19.77,Top,,0,0,0,,{\fscx71\fscy100\pos(202.5,1015)\c&H0000FF&\3c&H00FCFF&}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:15:20.25,0:15:20.90,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:20.25,0:15:20.90,Top,,0,0,0,,{\fscx71\fscy100\pos(202.5,1015)\c&H0000FF&\3c&H00FCFF&}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:15:16.67,0:15:21.45,Yamasaki,,0,0,0,,I'm ready to go! I will try Homo Sausage!
+Dialogue: 0,0:15:21.17,0:15:22.83,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:21.17,0:15:22.83,Top,,0,0,0,,{\fscx71\fscy100\pos(202.5,1015)\c&H0000FF&\3c&H00FCFF&}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:15:17.91,0:15:22.85,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx885.926\fscy680\pos(200.9,1023.999)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:15:17.91,0:15:22.85,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:15:17.91,0:15:22.85,Top,,0,0,0,,{\fade(400,0)\fscx71\fscy100\pos(202.5,1015)}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:15:17.91,0:15:22.85,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:15:26.60,0:15:27.30,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:26.60,0:15:27.30,Top,,0,0,0,,{\fscx71\fscy100\pos(196.5,1011)\c&H0000FF&\3c&H00FCFF&}Homo Sausage  \N(Maruzen)
+Dialogue: 0,0:15:27.65,0:15:28.25,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:27.65,0:15:28.25,Top,,0,0,0,,{\fscx71\fscy100\pos(196.5,1011)\c&H0000FF&\3c&H00FCFF&}Homo Sausage  \N(Maruzen)
+Dialogue: 0,0:15:23.25,0:15:28.87,Yamasaki,,0,0,0,,I'm ready to go! I will try Homo Sausage!
+Dialogue: 0,0:15:31.22,0:15:32.37,Yamasaki,,0,0,0,,Oh, this is completely different
+Dialogue: 0,0:15:32.37,0:15:34.37,Yamasaki,,0,0,0,,the smell is completely different
+Dialogue: 0,0:15:35.92,0:15:38.27,Yamasaki,,0,0,0,,the hardness is also completely different
+Dialogue: 0,0:15:38.27,0:15:40.23,Yamasaki,,0,0,0,,this one is not a problem
+Dialogue: 0,0:15:43.37,0:15:50.34,Yamasaki,,0,0,0,,The one I ate was NOT Maruzen's Homo Sausage!
+Dialogue: 0,0:14:59.19,0:15:52.91,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:14:59.19,0:15:52.91,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:14:59.19,0:15:52.91,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx885.926\fscy680\pos(1248.9,1026.159)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:14:59.19,0:15:52.91,Top,,0,0,0,,{\fade(400,0)\fscx77.037\fscy113\pos(1249.667,1019.32)}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:15:25.32,0:15:52.91,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:15:25.32,0:15:52.91,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:15:28.62,0:15:52.91,Top,,0,0,0,,{\pos(198,702)\fscx70.37\fscy102}{\c&H0000FF&\3c&H00FCFF&}Currently Tasting
+Dialogue: 0,0:15:25.32,0:15:52.91,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx885.926\fscy680\pos(200.9,1023.999)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:15:25.32,0:15:52.91,Top,,0,0,0,,{\fade(400,0)\fscx71\fscy100\pos(196.5,1011)}Homo Sausage  \N(Maruzen)
+Dialogue: 0,0:15:28.62,0:15:52.91,Top,,0,0,0,,{\fscx71\fscy100\pos(196.5,1011)\c&H0000FF&\3c&H00FCFF&}Homo Sausage  \N(Maruzen)
+Dialogue: 0,0:15:55.90,0:15:58.00,Matsumoto,,0,0,0,,SO SHITTY!
+Dialogue: 0,0:15:58.20,0:16:00.57,Matsumoto,,0,0,0,,No more of this!
+Dialogue: 0,0:16:00.67,0:16:03.37,Hamada,,0,0,0,,Nobody will get it right!
+Dialogue: 0,0:16:03.57,0:16:06.65,Matsumoto,,0,0,0,,There's no chance of getting it right!
+Dialogue: 0,0:16:06.77,0:16:09.25,Hamada,,0,0,0,,You got it on the first try!
+Dialogue: 0,0:16:09.75,0:16:10.65,Matsumoto,,0,0,0,,{\pos(720,915)}I was really struggling{\alpha&HFF&} not to laugh
+Dialogue: 0,0:16:10.65,0:16:12.88,Matsumoto,,0,0,0,,{\pos(720,915)}I was really struggling not to laugh
+Dialogue: 0,0:16:11.92,0:16:14.15,Hamada,,0,0,0,,It was RIGHT AFTER you ate it
+Dialogue: 0,0:16:14.25,0:16:15.65,Yamasaki,,0,0,0,,You're kidding right!?
+Dialogue: 0,0:16:15.72,0:16:16.44,Matsumoto,,0,0,0,,It was so bad,
+Dialogue: 0,0:16:16.44,0:16:20.52,Matsumoto,,0,0,0,,he was SO CLOSE and then he decided, "Nope, it's totally different"
+Dialogue: 0,0:16:20.60,0:16:22.10,Yamasaki,,0,0,0,,What the hell!?
+Dialogue: 3,0:16:22.52,0:16:27.47,Punishment,,0,0,0,,{\fade(0,400)\fscx68\fscy102}{\c&H000000&\3c&HFFFFFF&\pos(674,813)}EVEN THOUGH YOU CHANGED YOUR NAME, YOU ARE STILL UNSUCCESSFUL
+Dialogue: 2,0:16:22.52,0:16:27.47,Punishment,,0,0,0,,{\fade(0,400)}{\bord6\3c&H1D07A5&\pos(674,813)}{\fscx68\fscy102}EVEN THOUGH YOU CHANGED YOUR NAME, YOU ARE STILL UNSUCCESSFUL
+Dialogue: 1,0:16:22.52,0:16:27.47,Punishment,,0,0,0,,{\fade(0,400)}{\bord10\pos(674,813)}{\fscx68\fscy102}EVEN THOUGH YOU CHANGED YOUR NAME, YOU ARE STILL UNSUCCESSFUL
+Dialogue: 0,0:16:27.77,0:16:29.02,Matsumoto,,0,0,0,,I didn't understand a thing
+Dialogue: 0,0:16:28.25,0:16:30.22,Hamada,,0,0,0,,What did he even say
+Dialogue: 0,0:16:30.27,0:16:31.60,Endo,,0,0,0,,I have no idea of what he just said
+Dialogue: 0,0:16:31.55,0:16:33.32,Hamada,,0,0,0,,NO idea
+Dialogue: 0,0:16:32.05,0:16:34.40,Endo,,0,0,0,,You already know, it was the Homo Sausage
+Dialogue: 0,0:16:35.45,0:16:36.27,Matsumoto,,0,0,0,,Seriously
+Dialogue: 0,0:16:36.35,0:16:38.61,Yamasaki,,0,0,0,,I had no idea!
+Dialogue: 0,0:16:37.45,0:16:38.62,Matsumoto,,0,0,0,,Cut down the number!
+Dialogue: 0,0:16:38.72,0:16:40.91,Yamasaki,,0,0,0,,I had NO idea!
+Dialogue: 0,0:16:42.22,0:16:44.40,White Text,,0,0,0,,Matsumoto's challenge is
+Dialogue: 0,0:16:44.95,0:16:49.79,Matsumoto,,0,0,0,,{\fade(400,0)\fs60\pos(374.649,662.2)}Matsumoto's Challenge
+Dialogue: 0,0:16:44.95,0:16:49.79,Blue rectangle,,0,0,0,,{\fade(400,0)\p1\clip(387,775,1249,1015)\fscx515\fscy227\pos(648.406,901.8)}m 0 0 l 0 15 l 24.25 15 l 24.25 0
+Dialogue: 0,0:16:44.95,0:16:49.79,Sign,,0,0,0,,{\fade(400,0)\pos(796.351,867.2)\c&H2DFFFA&}Homo Sausage
+Dialogue: 0,0:16:44.95,0:16:49.79,Sign,,0,0,0,,{\fade(400,0)\pos(819,981)\fscx81\fscy88\c&H2DFFFA&}(Maruzen)
+Dialogue: 0,0:16:44.50,0:16:49.79,White Text,,0,0,0,,{\fscx87\fscy105}the one that made Hosei eat his tears after one try: Maruzen's Homo Sausage
+Dialogue: 0,0:16:50.72,0:16:52.39,Matsumoto,,0,0,0,,I'VE GOT IT!
+Dialogue: 0,0:16:52.45,0:16:53.97,Matsumoto,,0,0,0,,I KNOW!
+Dialogue: 0,0:16:54.09,0:16:55.26,Matsumoto,,0,0,0,,I'VE DISCOVERED {\alpha&HFF&}A NEW TECHNIQUE TO FIND OUT
+Dialogue: 0,0:16:55.26,0:16:57.09,Matsumoto,,0,0,0,,I'VE DISCOVERED A NEW TECHNIQUE TO FIND OUT
+Dialogue: 0,0:16:57.20,0:16:58.06,Matsumoto,,0,0,0,,This is what I'll do
+Dialogue: 0,0:16:58.06,0:17:00.00,Matsumoto,,0,0,0,,No biting
+Dialogue: 0,0:17:00.00,0:17:01.33,Matsumoto,,0,0,0,,No tasting
+Dialogue: 0,0:17:01.33,0:17:03.33,Matsumoto,,0,0,0,,I'M GOING TO SWALLOW IT WHOLE!
+Dialogue: 0,0:17:05.30,0:17:07.92,Yamasaki,,0,0,0,,All of it!?
+Dialogue: 0,0:17:11.32,0:17:12.87,Endo,,0,0,0,,Of course that would happen
+Dialogue: 0,0:17:14.60,0:17:15.54,Hamada,,0,0,0,,It got stuck in your throat
+Dialogue: 0,0:17:14.60,0:17:16.77,Endo,,0,0,0,,Well the pieces are big, so
+Dialogue: 0,0:17:16.85,0:17:18.70,Hamada,,0,0,0,,You're an idiot
+Dialogue: 0,0:17:18.75,0:17:20.27,Endo,,0,0,0,,Ah, it came out
+Dialogue: 0,0:17:19.98,0:17:25.92,Blocky,,0,0,0,,{\fade(400,400\pos(723,889))\c&H000000&\3c&HFFFFFF&\pos(727,888)\fscx126\fscy128}He actually tasted it firmly {\c&H2338E8&}and the results!?
+Dialogue: 0,0:17:20.85,0:17:26.06,White Text,,0,0,0,,Actually, Matsumoto firmly tasted it. What are the results!?
+Dialogue: 0,0:17:29.97,0:17:31.03,Tanaka,,0,0,0,,{\pos(1244,438)}Please do
+Dialogue: 0,0:17:29.20,0:17:31.03,Endo,,0,0,0,,{\pos(1242,494)}Make it happen!
+Dialogue: 0,0:17:27.53,0:17:31.16,Matsumoto,,0,0,0,,I'm going to perform a miracle!
+Dialogue: 0,0:17:31.20,0:17:33.85,Matsumoto,,0,0,0,,I know that it's very very difficult to perform miracles though
+Dialogue: 0,0:17:33.97,0:17:35.75,Matsumoto,,0,0,0,,Too Thick Sausage
+Dialogue: 0,0:17:35.80,0:17:38.40,Matsumoto,,0,0,0,,Shappuri Agemasu*
+Dialogue: 0,0:17:39.04,0:17:40.87,Endo,,0,0,0,,It's very clear, his voice
+Dialogue: 0,0:17:40.87,0:17:44.30,Endo,,0,0,0,,Your voice is loud and clear, really
+Dialogue: 0,0:17:44.31,0:17:45.21,Matsumoto,,0,0,0,,Until Shappuri Age, {\alpha&HFF&}10 seconds!!
+Dialogue: 0,0:17:45.21,0:17:48.78,Matsumoto,,0,0,0,,Until Shappuri Age, 10 seconds!!
+Dialogue: 0,0:17:46.58,0:17:48.78,Hamada,,0,0,0,,{\frz12.34\fscx204\fscy190\pos(843,822)}HURRY UP!!
+Dialogue: 0,0:17:48.78,0:17:51.80,Hamada,,0,0,0,,Just eat it already!
+Dialogue: 0,0:17:51.90,0:17:53.85,Endo,,0,0,0,,He's really on fire
+Dialogue: 0,0:17:54.00,0:17:56.35,Matsumoto,,0,0,0,,I KNOW this is different!
+Dialogue: 0,0:17:56.42,0:17:59.52,Matsumoto,,0,0,0,,Surprisingly
+Dialogue: 0,0:18:00.79,0:18:01.59,Matsumoto,,0,0,0,,I'm seriously {\alpha&HFF&}going to quit this program
+Dialogue: 0,0:17:59.62,0:18:04.23,Matsumoto,,0,0,0,,{\pos(716,814)}If this is wrong
+Dialogue: 0,0:18:01.59,0:18:04.23,Matsumoto,,0,0,0,,I'm seriously going to quit this program
+Dialogue: 0,0:18:04.23,0:18:05.46,Endo,,0,0,0,,You don't have to quit over that...
+Dialogue: 0,0:18:05.77,0:18:12.24,Matsumoto,,0,0,0,,The one I ate was NOT Maruzen's Too Thick Sausage
+Dialogue: 0,0:17:34.21,0:18:13.62,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:17:34.21,0:18:13.62,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:17:34.21,0:18:13.62,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx888.148\fscy656\pos(196.5,1023.679)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:17:34.21,0:18:13.62,Top,,0,0,0,,{\fade(400,400)\fscx71\fscy100\pos(196.867,1012.36)}Too Thick Sausage \N(Toyo Suisan)
+Dialogue: 0,0:18:15.07,0:18:17.80,Hamada,,0,0,0,,Your heart was surely pounding
+Dialogue: 0,0:18:14.10,0:18:17.82,Matsumoto,,0,0,0,,I knew it was definitely not it
+Dialogue: 0,0:18:16.70,0:18:18.42,Endo,,0,0,0,,{\pos(1163,453)}You were so nervous!
+Dialogue: 0,0:18:14.17,0:18:18.60,Default,,0,0,0,,{\pos(392.5,949)\fscx88.889\fscy87\b0}**He's throwing away an empty bag**{\b1}
+Dialogue: 0,0:18:18.55,0:18:21.02,Matsumoto,,0,0,0,,There was the possibility that I was wrong!!
+Dialogue: 0,0:18:21.10,0:18:23.50,Matsumoto,,0,0,0,,Even though I knew it was definitely wrong...
+Dialogue: 0,0:18:23.51,0:18:25.65,Matsumoto,,0,0,0,,What about these..?
+Dialogue: 0,0:18:25.72,0:18:27.80,Matsumoto,,0,0,0,,Got it, I'll go with this
+Dialogue: 0,0:18:27.89,0:18:31.19,Matsumoto,,0,0,0,,SHAPPURI AGEMA~SU!!
+Dialogue: 0,0:18:33.47,0:18:34.62,Yamasaki,,0,0,0,,Has it flown away before?
+Dialogue: 0,0:18:32.09,0:18:34.63,Hamada,,0,0,0,,{\pos(724,922)}It would be nice if his voice flew away
+Dialogue: 0,0:18:34.72,0:18:37.88,Hamada,,0,0,0,,No, no, it doesn't fly, but it'd be nice
+Dialogue: 0,0:18:48.67,0:18:49.70,Matsumoto,,0,0,0,,No.
+Dialogue: 0,0:18:52.35,0:18:53.07,Matsumoto,,0,0,0,,No...
+Dialogue: 0,0:18:54.70,0:18:55.94,Matsumoto,,0,0,0,,It's so close...
+Dialogue: 0,0:19:06.15,0:19:07.12,Matsumoto,,0,0,0,,No!
+Dialogue: 0,0:19:07.13,0:19:08.90,Matsumoto,,0,0,0,,This is no time to doubt!
+Dialogue: 0,0:19:08.90,0:19:10.72,Matsumoto,,0,0,0,,Nope! Wrong!
+Dialogue: 0,0:19:10.82,0:19:13.63,Matsumoto,,0,0,0,,What I ate was{\alpha&HFF&} NOT Tuna Sausage!
+Dialogue: 0,0:19:13.63,0:19:16.27,Matsumoto,,0,0,0,,What I ate was NOT Tuna Sausage!
+Dialogue: 0,0:18:28.07,0:19:16.42,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:18:28.07,0:19:16.42,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:18:28.07,0:19:16.42,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx926.667\fscy697\pos(199.6,1020.001)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:18:28.07,0:19:16.42,Top,,0,0,0,,{\fade(400,400)\fscx81.481\fscy112\pos(201.1,1011.159)}Tuna Sausage  \N(Fujimitsu)
+Dialogue: 0,0:17:26.97,0:19:18.22,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:17:26.97,0:19:18.22,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:17:26.97,0:19:18.22,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx835.556\fscy632\pos(1247.5,1016.001)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:17:26.97,0:19:18.22,Top,,0,0,0,,{\fade(400,0)\fscx77.037\fscy113\pos(1248.067,1015)}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:19:18.55,0:19:22.92,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx825.185\fscy629\pos(202.5,1019.84)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:18.55,0:19:22.92,Top,,0,0,0,,{\fade(0,0)\fscx55.556\fscy106\pos(202.867,1015.16)}White Shrimp Sausage  \N(Nakajima Group)
+Dialogue: 0,0:19:20.07,0:19:25.65,White Text,,0,0,0,,The very lucky Matsumoto successfully clears 4 rounds!
+Dialogue: 0,0:19:25.75,0:19:27.95,Matsumoto,,0,0,0,,SHAPPURI AGEMASU!
+Dialogue: 0,0:19:22.92,0:19:28.03,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199,1022)\fscx922.222\fscy681}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:22.92,0:19:28.03,Top,,0,0,0,,{\pos(200.7,1013.16)\fscx60.741\fscy109}Original Fish Sausage  \N(Seinan Kaihatsu)
+Dialogue: 0,0:19:28.05,0:19:30.20,Matsumoto,,0,0,0,,Daiei's Fish Sausage
+Dialogue: 0,0:19:30.27,0:19:33.52,Matsumoto,,0,0,0,,SHAPPURI AGEMASU!!!
+Dialogue: 0,0:19:28.03,0:19:33.53,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\pos(196,1020)\fscx906.667\fscy659}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:28.03,0:19:33.53,Top,,0,0,0,,{\pos(198.8,1012.16)\fscx83.704\fscy113}Fish Sausage \N(Daiei)
+Dialogue: 0,0:19:33.60,0:19:34.90,Matsumoto,,0,0,0,,Glico's{\alpha&HFF&} Gun-Gun Sausage
+Dialogue: 0,0:19:34.90,0:19:37.22,Matsumoto,,0,0,0,,Glico's Gun-Gun Sausage
+Dialogue: 0,0:19:37.22,0:19:39.39,Matsumoto,,0,0,0,,{\c&H4444F6&\1a&H8C&\3c&HFFFFFF&\3a&H8C&\4c&H000000&\4a&H8C&}Shappuri Agema~su
+Dialogue: 0,0:19:39.39,0:19:41.23,Hamada,,0,0,0,,He's getting softer
+Dialogue: 0,0:19:18.55,0:19:43.81,Rules,,0,0,0,,{\fade(0,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:18.55,0:19:43.81,Top,,0,0,0,,{\fade(0,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:19:33.53,0:19:43.81,Rules,,0,0,0,,{\fade(0,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx980.741\fscy694\pos(199.6,1023.52)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:33.53,0:19:43.81,Top,,0,0,0,,{\fade(0,400)\pos(201.767,1009.88)\fscx76.296\fscy103}Gun-Gun Sausage \N(Glico Ham)
+Dialogue: 0,0:19:41.60,0:19:45.87,White Text,,0,0,0,,And then, the last half...
+Dialogue: 0,0:19:45.16,0:19:48.67,Default,,0,0,0,,{\fade(400,0)\c&H1000FB&\3c&HFFFFFF&\4c&HFFFFFF&\pos(256.667,838.2)}6 cleared
+Dialogue: 0,0:19:45.16,0:19:48.67,Default,,0,0,0,,{\fade(400,0)\pos(254.333,954.4)\c&H000000&\3c&HFFFFFF&}Out of 12
+Dialogue: 0,0:19:47.26,0:19:48.67,Endo,,0,0,0,,{\pos(729,918)}Only 6 more {\alpha&HFF&}half of them
+Dialogue: 0,0:19:45.95,0:19:49.55,Matsumoto,,0,0,0,,Isn't this amazing?
+Dialogue: 0,0:19:48.67,0:19:50.77,Endo,,0,0,0,,{\pos(729,918)}Only 6 more half of them
+Dialogue: 0,0:19:52.15,0:19:55.82,Matsumoto,,0,0,0,,From this point, I just have to keep going
+Dialogue: 0,0:19:56.45,0:19:59.52,Matsumoto,,0,0,0,,This is it, I'm going to go from here
+Dialogue: 0,0:19:59.61,0:20:01.55,Matsumoto,,0,0,0,,Watch this! {\alpha&HFF&}My lifestyle!
+Dialogue: 0,0:20:01.55,0:20:03.51,Matsumoto,,0,0,0,,Watch this! My lifestyle!
+Dialogue: 0,0:20:03.60,0:20:08.17,Matsumoto,,0,0,0,,MARUDAI FOOD FISH SAUSAGE
+Dialogue: 0,0:20:08.19,0:20:10.29,Matsumoto comic sans,,0,0,0,,{\clip(325,828,445,1007)\t(02,0\clip(317,834,1141,990))\pos(716.892,956.75)\fscx244\fscy244}SHAPPURI AGEMASU!!
+Dialogue: 0,0:20:10.29,0:20:11.02,Matsumoto comic sans,,0,0,0,,{\fscx244\fscy244\pos(716.892,956.75)}SHAPPURI AGEMASU!!
+Dialogue: 0,0:20:18.72,0:20:21.07,Yamasaki,,0,0,0,,Very nice
+Dialogue: 0,0:20:19.90,0:20:21.07,Endo,,0,0,0,,It is nice
+Dialogue: 0,0:20:21.22,0:20:23.50,Endo,,0,0,0,,It's compelling
+Dialogue: 0,0:20:23.50,0:20:27.10,Yamasaki,,0,0,0,,Genius
+Dialogue: 0,0:20:24.22,0:20:27.10,Endo,,0,0,0,,Incredible, it's very compelling
+Dialogue: 0,0:20:28.55,0:20:29.97,Matsumoto,,0,0,0,,Wrong
+Dialogue: 0,0:20:30.07,0:20:31.50,Matsumoto,,0,0,0,,It's completely wrong
+Dialogue: 0,0:19:57.49,0:20:35.50,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:57.49,0:20:35.50,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:19:57.49,0:20:35.50,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(198.5,1028)\fscx926.667\fscy675}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:57.49,0:20:35.50,Top,,0,0,0,,{\fade(400,0)\fscx64.444\fscy108\pos(199.2,1018.71)}Fish Sausage\N(Marudai Food Co.)
+Dialogue: 0,0:20:31.57,0:20:35.77,Matsumoto,,0,0,0,,The one I ate was NOT Fish Sausage!
+Dialogue: 0,0:20:35.87,0:20:38.97,Matsumoto,,0,0,0,,SEE!!
+Dialogue: 0,0:20:39.27,0:20:41.47,Matsumoto,,0,0,0,,Well I guess I'm gonna go in order now
+Dialogue: 0,0:20:41.57,0:20:42.51,Matsumoto,,0,0,0,,Alright, got it
+Dialogue: 0,0:20:42.51,0:20:44.51,Matsumoto,,0,0,0,,I'll go with this one
+Dialogue: 0,0:20:44.51,0:20:46.12,Matsumoto,,0,0,0,,Nissui Fish Sausage
+Dialogue: 0,0:20:49.33,0:20:50.79,Matsumoto comic sans 2,,0,0,0,,{\c&H1D28D6&\fscx138\fscy179\pos(716.892,908.75)}{\clip(303,805,406,1004)\t(02,0\clip(303,805,1149,1004))}SHAPPURI AGEMA~SU
+Dialogue: 0,0:20:48.29,0:20:52.96,Matsumoto comic sans 2,,0,0,0,,{\pos(698,762)\c&H1D28D6&\fscx166\fscy166}FISH'S SAUSAGE
+Dialogue: 0,0:20:50.79,0:20:52.96,Matsumoto comic sans 2,,0,0,0,,{\fscx138\fscy179\pos(716.892,908.75)\c&H1D28D6&}SHAPPURI AGEMA~SU
+Dialogue: 0,0:20:52.00,0:20:54.00,Matsumoto,,0,0,0,,This is wrong, right?
+Dialogue: 0,0:20:55.23,0:20:56.40,Yamasaki,,0,0,0,,I wanted to {\alpha&HFF&}hear the one from earlier
+Dialogue: 0,0:20:56.40,0:20:58.10,Yamasaki,,0,0,0,,I wanted to hear the one from earlier
+Dialogue: 0,0:20:58.10,0:21:00.30,Matsumoto,,0,0,0,,I don't know
+Dialogue: 0,0:20:44.54,0:21:03.79,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:20:44.54,0:21:03.79,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:20:44.54,0:21:03.79,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx892.593\fscy669\pos(200.6,1019.52)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:20:44.54,0:21:03.79,Top,,0,0,0,,{\fade(400,400)\pos(199.1,1007.361)\fscx80\fscy103}Fish's Sausage   \N(Nissui)
+Dialogue: 0,0:21:00.75,0:21:05.25,White Text,,0,0,0,,After that, he safely clears his 8th sausage
+Dialogue: 0,0:21:05.35,0:21:08.25,White Text,,0,0,0,,There are only 4 remaining...
+Dialogue: 0,0:21:05.21,0:21:09.78,Titlered,,0,0,0,,{\fade(400,400)\fscx132\fscy190\pos(349.258,890.75)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H64&}Remaining {\c&H1D2AD6&\3c&HFFFFFF&\4c&HFFFFFF&}4
+Dialogue: 0,0:21:08.32,0:21:14.35,Matsumoto,,0,0,0,,This is it, this is where I will show you the difference between my level and yours
+Dialogue: 0,0:21:15.55,0:21:18.32,Matsumoto,,0,0,0,,I feel like I've eaten this one before, and this one, ahhh
+Dialogue: 0,0:21:18.35,0:21:20.70,Matsumoto,,0,0,0,,so I should probably try the ones between
+Dialogue: 0,0:21:20.84,0:21:26.31,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\pos(196.5,1019.84)\fscx961.481\fscy646}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:20.84,0:21:26.31,Top,,0,0,0,,{\pos(197.067,1012.84)\fscx83.704\fscy106}BIG Arabiki   \N(Maruzen)
+Dialogue: 0,0:21:21.85,0:21:26.45,White Text,,0,0,0,,{\fscx80\fscy95}He successfully takes out his targets, Matsumoto who has no doubts!
+Dialogue: 0,0:21:26.60,0:21:30.10,Matsumoto,,0,0,0,,FISH SAUSAGE, SHAPPURI AGEMA~SU!!
+Dialogue: 0,0:19:18.55,0:21:31.59,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:18.55,0:21:31.59,Top,,0,0,0,,{\fade(0,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:19:18.55,0:21:31.59,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx835.556\fscy632\pos(1247.5,1016.001)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:19:18.55,0:21:31.59,Top,,0,0,0,,{\fade(0,0)\fscx77.037\fscy113\pos(1251.2,1010.88)}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:21:20.84,0:21:31.59,Rules,,0,0,0,,{\fade(0,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:20.84,0:21:31.59,Top,,0,0,0,,{\fade(0,0)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:21:26.31,0:21:31.59,Rules,,0,0,0,,{\alpha20\p1\c&H291D53&\3c&H291D53&\pos(197.5,1024)\fscx814.815\fscy655}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:26.31,0:21:31.59,Top,,0,0,0,,{\fscx71\fscy100\pos(198.8,1011.681)}Fish Sausage   \N(Maruha Nichiro)
+Dialogue: 0,0:21:30.20,0:21:33.50,White Text,,0,0,0,,And finally, he has two left!
+Dialogue: 0,0:21:36.42,0:21:38.72,Endo,,0,0,0,,Wow, it's out
+Dialogue: 0,0:21:31.90,0:21:40.13,Titlered,,0,0,0,,{\fade(400,400)\fscx132\fscy190\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H64&\pos(1066.726,859.25)}Remaining {\c&H1D2AD6&\3c&HFFFFFF&\4c&HFFFFFF&}2
+Dialogue: 0,0:21:31.90,0:21:40.13,Default,,0,0,0,,{\c&H1000FB&\3c&HFFFFFF&\4c&HFFFFFF&\pos(256.667,838.2)}10 cleared
+Dialogue: 0,0:21:31.90,0:21:40.13,Default,,0,0,0,,{\pos(254.333,954.4)\c&H000000&\3c&HFFFFFF&}Out of 12
+Dialogue: 0,0:21:40.70,0:21:43.78,Endo,,0,0,0,,{\pos(1027,386)}He's here
+Dialogue: 0,0:21:41.37,0:21:43.78,Yamasaki,,0,0,0,,{\pos(834,477)}He's Michael Jackson
+Dialogue: 0,0:21:40.75,0:21:43.80,Blocky,,0,0,0,,{\fade(300,300)\pos(666,881.5)\c&H1801D0&\3c&HFFFFFF&\4c&H000000&\fscx203\fscy231}Will he choose the right one!?
+Dialogue: 0,0:21:45.85,0:21:47.77,Endo,,0,0,0,,{\pos(1232,451)}Yes, that's right
+Dialogue: 0,0:21:44.55,0:21:47.82,Matsumoto,,0,0,0,,This means I have to go up there now, right?
+Dialogue: 0,0:21:44.23,0:21:49.45,Black Text,,0,0,0,,{\fade(400,0)\fscx132\fscy190\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&H64&\pos(347.57,852.5)}Remaining {\c&H1D2AD6&\3c&HFFFFFF&\4c&HFFFFFF&}2
+Dialogue: 0,0:21:47.87,0:21:50.35,Yamasaki,,0,0,0,,So, which one is it?
+Dialogue: 0,0:21:54.69,0:21:57.29,Matsumoto,,0,0,0,,I'm more nervous than I was for my wedding...
+Dialogue: 0,0:22:04.02,0:22:08.30,Matsumoto,,0,0,0,,This really makes you nervous...
+Dialogue: 0,0:22:12.38,0:22:13.64,Matsumoto comic sans,,0,0,0,,{\clip(325,828,445,1077)\t(02,0\clip(325,828,1146,1077))\b1}{\c&H1A2CD2&\fscx169\fscy261}DHA INCLUDED{\alpha&HFF&} RISALA SAUSAGE
+Dialogue: 0,0:22:14.65,0:22:16.35,Matsumoto comic sans,,0,0,0,,{\b1\c&H202DD3&\fscx169\fscy261\pos(904.5,1068)}{\clip(691,814,742,1068)\t(02,0,\clip(691,814,1126,1068))}RISALA SAUSAGE
+Dialogue: 0,0:22:13.64,0:22:17.82,Matsumoto comic sans,,0,0,0,,{\b1\fscx169\fscy261}{\c&H1A2CD2&\fscx169\fscy261}DHA INCLUDED{\alpha&HFF&} RISALA SAUSAGE
+Dialogue: 0,0:22:16.35,0:22:17.82,Matsumoto comic sans,,0,0,0,,{\b1\c&H202DD3&\fscx169\fscy261\pos(904.5,1068)}RISALA SAUSAGE
+Dialogue: 0,0:22:17.85,0:22:20.42,Matsumoto comic sans,,0,0,0,,{\b1\c&H1A2CD2&\fscx254\fscy284}{\clip(330,806,364,1071)\t(02,0,\clip(330,806,1126,1071))\i1}SHAPPURI AGEMASU!!
+Dialogue: 0,0:22:20.42,0:22:22.39,Matsumoto comic sans,,0,0,0,,{\b1\c&H1A2CD2&\fscx254\fscy284\i1}SHAPPURI AGEMASU!!
+Dialogue: 0,0:22:27.66,0:22:29.96,Yamasaki,,0,0,0,,PLEASE DO!
+Dialogue: 0,0:17:35.80,0:22:33.40,Default,,0,0,0,,{\b0\c&HFFFFFF&\1a&H3C&\2c&H0000FF&\2a&H64&\4c&H000000&\4a&H3C&\3c&H000000&\3a&H3C&\pos(629,41.333)\fscx65.926\fscy84}*"Shappuri Agemasu" doesn't actually mean anything, but it resembles a meaning of "I'm confident"{\b1}
+Dialogue: 0,0:22:46.92,0:22:50.90,Matsumoto,,0,0,0,,This is incredible...
+Dialogue: 0,0:22:54.75,0:22:58.82,Matsumoto,,0,0,0,,I think it's this one
+Dialogue: 0,0:23:00.25,0:23:03.75,Matsumoto,,0,0,0,,No, I don't have a doubt anymore
+Dialogue: 0,0:23:06.32,0:23:08.60,Matsumoto,,0,0,0,,Risala...
+Dialogue: 0,0:23:08.65,0:23:12.12,Matsumoto,,0,0,0,,HERE I GO!
+Dialogue: 0,0:23:12.27,0:23:17.45,Matsumoto,,0,0,0,,THE ONE THAT I ATE WAAAAAS
+Dialogue: 0,0:23:19.90,0:23:25.52,Matsumoto,,0,0,0,,RISAAAAALAAA!!!
+Dialogue: 0,0:21:43.80,0:23:27.90,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(1251.5,702.665)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:43.80,0:23:27.90,Top,,0,0,0,,{\fade(400,0)\fscx65\fscy112\pos(1250.5,698)}Correct Answer
+Dialogue: 0,0:21:43.80,0:23:27.90,Rules,,0,0,0,,{\fade(400,0)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx835.556\fscy632\pos(1247.5,1016.001)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:43.80,0:23:27.90,Top,,0,0,0,,{\fade(400,0)\fscx77.037\fscy113\pos(1249.667,1010.68)}Homo Sausage   \N(Maruzen)
+Dialogue: 0,0:21:59.51,0:23:27.90,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\pos(199.5,706)\fscx780.741\fscy340}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:59.51,0:23:27.90,Top,,0,0,0,,{\fade(400,400)\pos(198,702)\fscx70.37\fscy102}Currently Tasting
+Dialogue: 0,0:21:59.51,0:23:27.90,Rules,,0,0,0,,{\fade(400,400)\alpha20\p1\c&H291D53&\3c&H291D53&\fscx957.037\fscy838\pos(199,1024.16)}m 0 0 l 0 15 l 24.25 15 l 24.25 0{\p0}
+Dialogue: 0,0:21:59.51,0:23:27.90,Top,,0,0,0,,{\fade(400,400)\fscx71\fscy100\pos(200.8,1019.84)}DHA Included   \NRisala Sausage   \N(Maruha Nichiro)
+Dialogue: 0,0:23:28.95,0:23:31.97,Matsumoto,,0,0,0,,YOU'RE KIDDING!!
+Dialogue: 0,0:23:37.17,0:23:39.05,Endo,,0,0,0,,Poor thing!
+Dialogue: 0,0:23:39.25,0:23:41.65,Matsumoto,,0,0,0,,This one should be okay!!
+Dialogue: 0,0:23:40.40,0:23:41.67,Yamasaki,,0,0,0,,Poor Captain!
+Dialogue: 0,0:23:41.77,0:23:44.40,Matsumoto,,0,0,0,,I am too pitiable!!
+Dialogue: 0,0:23:44.45,0:23:48.87,Hamada,,0,0,0,,Alright, go ahead
+Dialogue: 0,0:23:49.77,0:23:54.62,White Text,,0,0,0,,I will crush you like fish meat
+Dialogue: 0,0:23:54.70,0:23:57.40,Yamasaki,,0,0,0,,That was long
+Dialogue: 0,0:23:57.50,0:24:00.07,Endo,,0,0,0,,Captain
+Dialogue: 0,0:24:00.15,0:24:02.45,Endo,,0,0,0,,Captain!
+Dialogue: 0,0:24:03.55,0:24:05.47,Endo,,0,0,0,,Captain, good work
+Dialogue: 0,0:00:00.00,0:24:09.76,Newtofupandatitle,,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,8,1436,1080)\pos(1520.625,217.5)\fscx31.533\fscy40}0 0 m -298 -66.5 b -308.625 -68 -337.5 -66.5 -334.5 -42.5 b -336 -29 -307.125 -1.875 -299.5 -0.5 b -287.375 7.375 -282.875 -1.875 -275.25 -3.375 b -266.125 -12.5 -257 -15.5 -247.875 -38 b -244.875 -59.125 -264.625 -60.625 -266.125 -61.875 b -278.25 -68 -288.875 -66.5 -298 -66.5 m -290.375 -59.125 b -276.75 -61.875 -258.5 -53 -261.625 -44 b -272.25 -55.875 -281.25 -55.875 -290.375 -59.125 m -367.875 -190.875 b -361.75 -190.875 -310.125 -180.625 -317.75 -111.5 b -328.375 -68 -357.25 -46.875 -366.375 -42.5 b -370.875 -40.875 -395.25 -21.375 -428.625 -53 b -436.25 -68 -451.375 -84.375 -440.75 -121.875 b -436.25 -136.875 -428.625 -165.5 -401.25 -181.875 b -393.75 -186.5 -381.5 -194.125 -367.875 -190.875 m -231.25 -194.125 b -228.125 -194.125 -191.75 -204.375 -159.75 -149 b -155.25 -135.5 -143.125 -119 -150.75 -77 b -159.75 -42.5 -175 -40.875 -184.125 -38 b -191.75 -38 -202.375 -29 -238.75 -54.375 b -250.875 -65 -269.125 -70.875 -276.75 -113.125 b -275.25 -113.125 -293.5 -139.875 -255.5 -181.875 b -247.875 -188 -240.25 -194.125 -231.25 -194.125 m -370.875 -144.5 b -413.5 -136.875 -389.125 -90.5 -369.375 -95 b -363.375 -95 -349.625 -98 -346.625 -119 b -351.125 -142.875 -360.25 -141.375 -370.875 -144.5 m -370.875 -131 b -361.75 -134 -357.25 -121.875 -358.75 -119 b -358.75 -106.875 -367.875 -106.875 -372.375 -106.875 b -378.5 -108.375 -381.5 -114.375 -380 -121.875 b -380 -124.875 -377 -131 -370.875 -131 m -367.875 -124.875 b -372.375 -123.375 -370.875 -117.5 -367.875 -117.5 b -364.875 -117.5 -361.75 -123.375 -367.875 -124.875 m -220.5 -144.5 b -254 -138.375 -238.75 -91.75 -220.5 -96.5 b -214.5 -95 -199.25 -98 -199.25 -124.875 b -203.875 -142.875 -216 -144.5 -220.5 -144.5 m -220.5 -131 b -200.875 -131 -206.875 -106.875 -217.5 -106.875 b -220.5 -105.5 -232.75 -108.375 -229.625 -121.875 b -229.625 -124.875 -228.125 -131 -220.5 -131 m -217.5 -124.875 b -222.125 -121.875 -219 -115.875 -216 -117.5 b -211.5 -119 -214.5 -124.875 -217.5 -124.875 m -374 -117.5 b -377 -117.5 -375.5 -113.125 -374 -113.125 b -372.375 -113.125 -370.875 -117.5 -374 -117.5 m -222.125 -115.875 b -225.125 -115.875 -223.625 -111.5 -222.125 -111.5 b -220.5 -111.5 -219 -115.875 -222.125 -115.875 m -451.375 -218 l -141.625 -218 l -141.625 86.875 l -451.375 86.875 m -144.625 -215 l -448.375 -215 l -448.375 84 l -144.625 84
+Dialogue: 0,0:00:00.00,0:24:09.76,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-26,3,1433,1195)\fscx65.185\fscy78\pos(1379.236,126.999)}TPF
+Dialogue: 0,0:23:35.73,0:24:09.76,Newtofupandatitle,,0,0,0,,{\fade(400,0)\pos(703.951,696.3)\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\\pos(709.951,720.3)\fscx100\fscy137}This video was brought to you by tofu panda fansubs
+

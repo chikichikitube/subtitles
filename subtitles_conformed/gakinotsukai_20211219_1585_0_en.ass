@@ -1,0 +1,502 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Audio File: 1585.mp4
+Video File: 1585.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 7
+Video Position: 503
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H001ACCFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,2,2,2,8,8,10,1
+Style: White,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Matsumoto,Arial,55,&H001A1BBD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Hamada,Arial,55,&H0086530D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Yamasaki,Arial,55,&H00257E1F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Endo,Arial,55,&H00066CF6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Tanaka,Arial,55,&H008B319F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Guest1,Arial,55,&H0092C840,&H000000FF,&H00000000,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Guest2,Arial,55,&H007D95B6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Other,Arial,48,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6.6,2,2,8,8,10,1
+Style: Black - Small,Arial,26,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,67.5,104,0,0,1,5,2,2,8,8,10,1
+Style: Black,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Classic Yellow,Arial,55,&H001ACCFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,68,104,0,0,1,5,2,2,8,8,10,1
+Style: Red Small,Arial,29,&H003839D8,&H005680EA,&H0093B7FF,&H00000000,-1,0,0,0,67.5,104,0,0,1,2.8,2,2,8,8,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.44,0:00:03.02,Hamada,,0,0,0,,6th time on Gaki no Tsukai CHIKI CHIKI
+Dialogue: 0,0:00:03.02,0:00:08.22,Hamada,,0,0,0,,"Let's ask for the best 3 in a new town"
+Dialogue: 0,0:00:07.73,0:00:09.33,Matsumoto,,0,0,0,,Very loud isn't he?
+Dialogue: 0,0:00:08.22,0:00:11.87,Hamada,,0,0,0,,The 6th installment after 2 years
+Dialogue: 0,0:00:11.02,0:00:12.67,Matsumoto,,0,0,0,,Just a bit too loud
+Dialogue: 0,0:00:12.26,0:00:14.18,Matsumoto,,0,0,0,,So this is the 6th one,
+Dialogue: 0,0:00:14.18,0:00:17.33,Matsumoto,,0,0,0,,And we've going to mostly Chiba!
+Dialogue: 0,0:00:16.76,0:00:19.76,Black,,0,0,0,,{\pos(722.4,858.8)}Kanagawa
+Dialogue: 0,0:00:16.76,0:00:19.76,Black,,0,0,0,,{\pos(998.4,858.8)}Chiba
+Dialogue: 0,0:00:16.76,0:00:19.76,Black,,0,0,0,,{\pos(1266,858.8)}Chiba
+Dialogue: 0,0:00:16.76,0:00:19.76,Black,,0,0,0,,{\pos(448.8,858.8)}Chiba
+Dialogue: 0,0:00:16.76,0:00:19.76,Black,,0,0,0,,{\pos(172.8,858.8)}Chiba
+Dialogue: 0,0:00:16.76,0:00:18.09,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:00:17.33,0:00:19.20,Endo,,0,0,0,,A lot of Chiba
+Dialogue: 0,0:00:19.76,0:00:22.58,Matsumoto,,0,0,0,,And we hate Chiba, don't we?
+Dialogue: 0,0:00:21.33,0:00:22.58,Endo,,0,0,0,,No, that's not true
+Dialogue: 0,0:00:23.73,0:00:26.31,Tanaka,,0,0,0,,I love Chiba!
+Dialogue: 0,0:00:25.82,0:00:28.49,Matsumoto,,0,0,0,,You're going too far there
+Dialogue: 0,0:00:27.20,0:00:30.58,Matsumoto,,0,0,0,,You love a lot of things too much
+Dialogue: 0,0:00:30.58,0:00:32.18,Matsumoto,,0,0,0,,I was just kidding!
+Dialogue: 0,0:00:33.73,0:00:37.69,Classic Yellow,,0,0,0,,Their destination depends on this lottery
+Dialogue: 0,0:00:37.69,0:00:43.51,Classic Yellow,,0,0,0,,1 out of the approximately 2500 stations in Kanto's 6 prefectures,
+Dialogue: 0,0:00:44.00,0:00:47.83,Classic Yellow,,0,0,0,,What town was chosen this time?
+Dialogue: 0,0:00:47.83,0:00:49.56,Hamada,,0,0,0,,So where is it?
+Dialogue: 0,0:00:50.09,0:00:52.09,Endo,,0,0,0,,Takezawa
+Dialogue: 0,0:00:52.09,0:00:54.36,Endo,,0,0,0,,Takezawa...
+Dialogue: 0,0:00:54.39,0:00:57.73,Matsumoto,,0,0,0,,This is seriously the first time I've heard of that place
+Dialogue: 0,0:00:58.34,0:01:00.40,Hamada,,0,0,0,,Where is Takezawa?
+Dialogue: 0,0:01:00.40,0:01:01.96,White,,0,0,0,,Saitama
+Dialogue: 0,0:01:00.89,0:01:03.24,Endo,,0,0,0,,Ah, Saitama
+Dialogue: 0,0:01:02.78,0:01:05.56,Yamasaki,,0,0,0,,Down here? Oh no, up there
+Dialogue: 0,0:01:05.56,0:01:07.33,Endo,,0,0,0,,There it is!
+Dialogue: 0,0:01:07.33,0:01:10.00,Hamada,,0,0,0,,Takezawa?
+Dialogue: 0,0:01:08.98,0:01:12.04,Endo,,0,0,0,,And it's the perfect distance from here!
+Dialogue: 0,0:01:10.00,0:01:12.89,Hamada,,0,0,0,,What the hell are you talking about?\N
+Dialogue: 0,0:01:14.83,0:01:17.56,Classic Yellow,,0,0,0,,subbed by senor_wristband
+Dialogue: 0,0:01:17.56,0:01:20.56,Default,,0,0,0,,{\pos(399,1060)}If you'd like to support my subs,\N I've setup these accounts :)\N {\pos(766.5,1072)}patreon.com/senor_wristband \N  ko-fi.com/buresurettosan
+Dialogue: 0,0:01:22.49,0:01:26.13,Classic Yellow,,0,0,0,,Their destination is 1.5 hours by car from Tokyo,
+Dialogue: 0,0:01:26.13,0:01:28.87,Classic Yellow,,0,0,0,,In Ogawa, Hiki District, Saitama Prefecture
+Dialogue: 0,0:01:29.78,0:01:31.73,Classic Yellow,,0,0,0,,Takezawa Station
+Dialogue: 0,0:01:32.31,0:01:38.71,Classic Yellow,,0,0,0,,30 trains a day run at this unmanned station, with an average of 31 passengers,
+Dialogue: 0,0:01:40.48,0:01:45.60,Classic Yellow,,0,0,0,,They want to time the start of the shooting with the arrival of the train
+Dialogue: 0,0:01:41.42,0:01:44.49,Yamasaki,,0,0,0,,Oh there, it's coming it's coming
+Dialogue: 0,0:01:46.13,0:01:50.36,Hamada,,0,0,0,,Here we are, at Takezawa station
+Dialogue: 0,0:01:51.69,0:01:53.60,Endo,,0,0,0,,That was timed perfectly
+Dialogue: 0,0:01:52.31,0:01:55.56,Hamada,,0,0,0,,Yeah, if we missed this we'd have to wait another hour
+Dialogue: 0,0:01:58.58,0:01:59.82,Classic Yellow,,0,0,0,,However,
+Dialogue: 0,0:01:59.82,0:02:03.07,Hamada,,0,0,0,,Nobody got off the train
+Dialogue: 0,0:02:03.09,0:02:04.36,Endo,,0,0,0,,What?
+Dialogue: 0,0:02:04.76,0:02:06.81,Tanaka,,0,0,0,,Hold on, we can't ask people then
+Dialogue: 0,0:02:06.81,0:02:10.04,Hamada,,0,0,0,,The next train is in 1 hour
+Dialogue: 0,0:02:08.31,0:02:09.68,Yamasaki,,0,0,0,,1 hour?!
+Dialogue: 0,0:02:09.68,0:02:12.82,Tanaka,,0,0,0,,Hold on, we can't do anything here,
+Dialogue: 0,0:02:11.65,0:02:14.70,Yamasaki,,0,0,0,,We'll just have to wait
+Dialogue: 0,0:02:13.80,0:02:15.50,Classic Yellow,,0,0,0,,But then in front of them,
+Dialogue: 0,0:02:14.70,0:02:17.49,Classic Yellow,,0,0,0,,They found some locals
+Dialogue: 0,0:02:17.49,0:02:18.85,Endo,,0,0,0,,Hello!
+Dialogue: 0,0:02:17.95,0:02:19.82,Tanaka,,0,0,0,,Hello, excuse us
+Dialogue: 0,0:02:21.45,0:02:23.26,Hamada,,0,0,0,,Please, hear us out
+Dialogue: 0,0:02:23.95,0:02:27.35,Hamada,,0,0,0,,Hold on, why are they running away?
+Dialogue: 0,0:02:27.35,0:02:29.80,Matsumoto,,0,0,0,,I get it though,
+Dialogue: 0,0:02:30.55,0:02:33.40,Matsumoto,,0,0,0,,It's cause of Hamada, cause he called to them
+Dialogue: 0,0:02:33.40,0:02:36.70,Matsumoto,,0,0,0,,You need Tanaka for this sort of thing
+Dialogue: 0,0:02:36.70,0:02:39.55,Hamada,,0,0,0,,They just don't like me?
+Dialogue: 0,0:02:38.55,0:02:41.51,Matsumoto,,0,0,0,,They think you're gonna smack them like "BAN!"
+Dialogue: 0,0:02:42.25,0:02:45.62,Classic Yellow,,0,0,0,,They managed to talk to them
+Dialogue: 0,0:02:46.10,0:02:48.75,Hamada,,0,0,0,,How long have you ladies lived here?
+Dialogue: 0,0:02:48.77,0:02:51.55,White,,0,0,0,,Yes, it's been 50 years now
+Dialogue: 0,0:02:50.30,0:02:52.35,Tanaka,,0,0,0,,50 years?
+Dialogue: 0,0:02:53.76,0:02:57.09,Matsumoto,,0,0,0,,Is this a nice place?
+Dialogue: 0,0:02:54.40,0:02:56.45,White,,0,0,0,,Yes, it's very nice!
+Dialogue: 0,0:02:56.48,0:03:00.70,Matsumoto,,0,0,0,,None of us feel the same way at all
+Dialogue: 0,0:03:00.10,0:03:02.00,Endo,,0,0,0,,That's not true
+Dialogue: 0,0:03:01.35,0:03:04.60,Tanaka,,0,0,0,,We've only just gotten here, yes
+Dialogue: 0,0:03:05.50,0:03:10.10,Classic Yellow,,0,0,0,,What suggestion does the mother who has been living in Takezawa for 50 years have for number 3?
+Dialogue: 0,0:03:10.87,0:03:14.48,Hamada,,0,0,0,,We were thinking of going to the nice spots in this town,
+Dialogue: 0,0:03:14.48,0:03:17.55,Hamada,,0,0,0,,You might have a top 3 in mind,
+Dialogue: 0,0:03:17.55,0:03:20.45,Hamada,,0,0,0,,Could you give us what #3 is?
+Dialogue: 0,0:03:18.55,0:03:21.60,Matsumoto,,0,0,0,,And we've got exactly 3 of you here
+Dialogue: 0,0:03:21.00,0:03:22.85,Matsumoto,,0,0,0,,Who could have known
+Dialogue: 0,0:03:22.85,0:03:27.52,Hamada,,0,0,0,,Somethin like "Oh you should check that place out"
+Dialogue: 0,0:03:27.52,0:03:29.95,White,,0,0,0,,It's towards Arashiyama,
+Dialogue: 0,0:03:29.95,0:03:34.50,White,,0,0,0,,They specialise in making Japanese Paper in that area,
+Dialogue: 0,0:03:35.83,0:03:39.00,Matsumoto,,0,0,0,,Ah, and are you involved with that?
+Dialogue: 0,0:03:38.53,0:03:41.38,White,,0,0,0,,No, not really
+Dialogue: 0,0:03:43.11,0:03:46.41,Classic Yellow,,0,0,0,,{\pos(720,918)}Driving to Arashiyama from here would take 20 minutes
+Dialogue: 0,0:03:41.82,0:03:47.07,Yamasaki,,0,0,0,,Sorry, it's just we have to stay near the station
+Dialogue: 0,0:03:48.67,0:03:52.22,Tanaka,,0,0,0,,Is there anything nearby the station?
+Dialogue: 0,0:03:52.84,0:03:55.42,White,,0,0,0,,I think the Yoshida Family House
+Dialogue: 0,0:04:00.18,0:04:03.02,White,,0,0,0,,I think it has to be the Yoshida Family House then
+Dialogue: 0,0:04:02.56,0:04:04.86,Matsumoto,,0,0,0,,Yoshida Family?
+Dialogue: 0,0:04:03.02,0:04:06.13,White,,0,0,0,,Yoshida Family House
+Dialogue: 0,0:04:04.86,0:04:10.67,White,,0,0,0,, It's an estate built 300 years ago, and it's been preserved,
+Dialogue: 0,0:04:09.38,0:04:10.68,Hamada,,0,0,0,,They've preserved it?
+Dialogue: 0,0:04:10.67,0:04:13.47,White,,0,0,0,,It's been maintained to be the same way
+Dialogue: 0,0:04:12.27,0:04:14.87,Matsumoto,,0,0,0,,You're so knowledgeable...
+Dialogue: 0,0:04:14.87,0:04:18.18,Matsumoto,,0,0,0,,Did you plan this?
+Dialogue: 0,0:04:17.02,0:04:19.91,White,,0,0,0,,I was just passing through
+Dialogue: 0,0:04:18.18,0:04:19.93,Tanaka,,0,0,0,,She was so articulate
+Dialogue: 0,0:04:20.89,0:04:27.78,Classic Yellow,,0,0,0,,They jot down Yoshida Family House, but they want to find something a little closer to the station
+Dialogue: 0,0:04:31.56,0:04:34.06,Hamada,,0,0,0,,There's nobody walking outside
+Dialogue: 0,0:04:34.49,0:04:36.69,Matsumoto,,0,0,0,,Yeah this is amazing,
+Dialogue: 0,0:04:36.69,0:04:40.58,Hamada,,0,0,0,,If we keep messing about, it'll turn dark by 4 you know!
+Dialogue: 0,0:04:39.47,0:04:42.09,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:04:41.38,0:04:44.36,Tanaka,,0,0,0,,That's true, we need to finish before 4
+Dialogue: 0,0:04:43.64,0:04:46.36,Matsumoto,,0,0,0,,I have to go the dentist today...
+Dialogue: 0,0:04:46.36,0:04:48.41,Hamada,,0,0,0,,Today it's the dentist huh?
+Dialogue: 0,0:04:50.44,0:04:52.93,Hamada,,0,0,0,,There's a sake store up ahead,
+Dialogue: 0,0:04:52.00,0:04:55.20,Tanaka,,0,0,0,,Oh, there is
+Dialogue: 0,0:04:56.25,0:04:58.31,Tanaka,,0,0,0,,Let's go inside
+Dialogue: 0,0:04:55.20,0:04:56.25,Hamada,,0,0,0,,Well then,
+Dialogue: 0,0:05:00.15,0:05:02.31,Endo,,0,0,0,,Excuse me, hello
+Dialogue: 0,0:05:01.91,0:05:03.16,Endo,,0,0,0,,Ah, excuse me,
+Dialogue: 0,0:05:03.16,0:05:08.49,Endo,,0,0,0,,We're looking for recommended places here in Takezawa,
+Dialogue: 0,0:05:09.38,0:05:12.49,White,,0,0,0,,You should go to the Yoshida House
+Dialogue: 0,0:05:12.49,0:05:14.27,White,,0,0,0,,The Yoshida Family House
+Dialogue: 0,0:05:13.87,0:05:15.40,Endo,,0,0,0,,Woah, the same as before
+Dialogue: 0,0:05:15.40,0:05:18.18,Endo,,0,0,0,, For example, a nice restaurant
+Dialogue: 0,0:05:18.18,0:05:22.31,White,,0,0,0,,There's lad here who sells ramen,
+Dialogue: 0,0:05:22.31,0:05:25.87,White,,0,0,0,,It's 3 types in 1
+Dialogue: 0,0:05:24.53,0:05:25.87,Tanaka,,0,0,0,,Oh it's a special?
+Dialogue: 0,0:05:25.42,0:05:27.38,Endo,,0,0,0,,Is it close by?
+Dialogue: 0,0:05:26.84,0:05:30.38,White,,0,0,0,,Yup, right next to Yoshida House
+Dialogue: 0,0:05:29.51,0:05:32.40,Endo,,0,0,0,,Sir, could I get your name?
+Dialogue: 0,0:05:30.38,0:05:33.33,White,,0,0,0,,Yoshida Nobuaki
+Dialogue: 0,0:05:31.91,0:05:33.98,Endo,,0,0,0,,Yoshida-san?
+Dialogue: 0,0:05:32.40,0:05:34.76,Matsumoto,,0,0,0,,What a coincidence
+Dialogue: 0,0:05:33.98,0:05:35.78,Endo,,0,0,0,,Thank you very much
+Dialogue: 0,0:05:34.76,0:05:38.78,Classic Yellow,,0,0,0,,They get a side-suggestion after talking to him,
+Dialogue: 0,0:05:39.79,0:05:42.09,Endo,,0,0,0,,His name was Yoshida-san
+Dialogue: 0,0:05:40.98,0:05:42.80,Matsumoto,,0,0,0,,How old was he?
+Dialogue: 0,0:05:42.09,0:05:44.27,Endo,,0,0,0,,Ah, I didn't ask hi-
+Dialogue: 0,0:05:43.42,0:05:45.38,Hamada,,0,0,0,,Ask that!
+Dialogue: 0,0:05:44.84,0:05:48.58,Endo,,0,0,0,,I just asked his name, Yoshida-san...
+Dialogue: 0,0:05:47.80,0:05:50.31,Hamada,,0,0,0,,Oh, there's something!
+Dialogue: 0,0:05:50.32,0:05:52.97,Hamada,,0,0,0,,What is that, a convenience store?
+Dialogue: 0,0:05:50.84,0:05:53.56,Matsumoto,,0,0,0,,It is a convenience store
+Dialogue: 0,0:05:53.59,0:05:55.33,Matsumoto,,0,0,0,,Hello
+Dialogue: 0,0:05:54.44,0:05:56.57,Tanaka,,0,0,0,,Hello, excuse us,
+Dialogue: 0,0:05:55.82,0:05:59.69,Matsumoto,,0,0,0,,Is there a specialty in this town?
+Dialogue: 0,0:05:58.67,0:06:03.07,Hamada,,0,0,0,,Something in this town that stands out, something you would suggest?
+Dialogue: 0,0:06:04.09,0:06:06.13,White,,0,0,0,,Near here?
+Dialogue: 0,0:06:07.42,0:06:12.77,Classic Yellow,,0,0,0,,What does Yoshida-san suggest, in this convenience store near the station?
+Dialogue: 0,0:06:13.19,0:06:16.00,White,,0,0,0,,There's the Yoshida Family House,
+Dialogue: 0,0:06:15.11,0:06:17.64,Matsumoto,,0,0,0,,Everyone is saying that huh?
+Dialogue: 0,0:06:16.00,0:06:18.46,Hamada,,0,0,0,,A lot of people have suggested that,
+Dialogue: 0,0:06:18.04,0:06:20.27,White,,0,0,0,,Ogawa Genki Plaza,
+Dialogue: 0,0:06:19.16,0:06:21.24,Matsumoto,,0,0,0,,Genki Plaza?
+Dialogue: 0,0:06:20.71,0:06:26.80,White,,0,0,0,,In the mountains nearby, there's school facilities and a planetarium,
+Dialogue: 0,0:06:25.51,0:06:28.17,White,,0,0,0,,Anyone can go in though
+Dialogue: 0,0:06:27.42,0:06:31.17,Matsumoto,,0,0,0,,Is the planetarium open right now?
+Dialogue: 0,0:06:31.17,0:06:34.11,Yamasaki,,0,0,0,,A planetarium would be nice,
+Dialogue: 0,0:06:34.11,0:06:37.73,Hamada,,0,0,0,,That family house keeps coming,
+Dialogue: 0,0:06:36.27,0:06:40.08,Hamada,,0,0,0,,I think we better go there,
+Dialogue: 0,0:06:40.76,0:06:46.36,Classic Yellow,,0,0,0,,Since everyone said Yoshida Family House, they were gonna go there,
+Dialogue: 0,0:06:46.93,0:06:51.60,Hamada,,0,0,0,,But then that Family House should be #1 then right?
+Dialogue: 0,0:06:49.73,0:06:52.23,Tanaka,,0,0,0,,Since everyone is saying it,
+Dialogue: 0,0:06:52.23,0:06:56.67,Yamasaki,,0,0,0,,But we can't move on until we're done with #3,
+Dialogue: 0,0:06:55.73,0:06:58.53,Hamada,,0,0,0,,Do you have a #3?
+Dialogue: 0,0:06:58.10,0:07:02.49,Matsumoto,,0,0,0,,Can you go and find out if we can go to the planetarium today?
+Dialogue: 0,0:07:00.80,0:07:03.42,Endo,,0,0,0,,No no, we'll do it
+Dialogue: 0,0:07:04.31,0:07:04.31,Hamada,,0,0,0,,He's running the store right now
+Dialogue: 0,0:07:06.13,0:07:11.75,Classic Yellow,,0,0,0,,However, we couldn't film inside the Planetarium today,
+Dialogue: 0,0:07:12.40,0:07:17.59,White,,0,0,0,,At Segenyama, there's a roller slide
+Dialogue: 0,0:07:16.09,0:07:18.18,Tanaka,,0,0,0,,A roller slide?
+Dialogue: 0,0:07:17.07,0:07:19.87,Yamasaki,,0,0,0,,Sounds interesting!
+Dialogue: 0,0:07:19.87,0:07:22.87,Hamada,,0,0,0,,Like a park?
+Dialogue: 0,0:07:21.60,0:07:24.22,White,,0,0,0,,You can slide down the mountain
+Dialogue: 0,0:07:23.59,0:07:25.50,Matsumoto,,0,0,0,,Oh, that sounds nice!
+Dialogue: 0,0:07:25.50,0:07:28.89,Matsumoto,,0,0,0,,Sir, who are you gonna go down the slide after?
+Dialogue: 0,0:07:26.40,0:07:28.89,Hamada,,0,0,0,,Why the hell?
+Dialogue: 0,0:07:28.89,0:07:31.73,Hamada,,0,0,0,,He's running the store!
+Dialogue: 0,0:07:31.03,0:07:33.11,Hamada,,0,0,0,,Thank you very much
+Dialogue: 0,0:07:32.58,0:07:35.69,Matsumoto,,0,0,0,,Thank you very much, sorry for the sudden intrusion
+Dialogue: 0,0:07:34.58,0:07:37.44,White,,0,0,0,,We've prepared the car
+Dialogue: 0,0:07:37.44,0:07:40.93,Matsumoto,,0,0,0,,Now you can go find out that old man's first name
+Dialogue: 0,0:07:39.78,0:07:42.49,Hamada,,0,0,0,,His first name and his age
+Dialogue: 0,0:07:42.04,0:07:44.44,Endo,,0,0,0,,Yoshida, Yoshitake-san I th-
+Dialogue: 0,0:07:44.44,0:07:47.24,Matsumoto,,0,0,0,,Just, hurry!
+Dialogue: 0,0:07:46.31,0:07:49.69,Endo,,0,0,0,,They're always making me run!
+Dialogue: 0,0:07:55.60,0:07:59.07,Matsumoto,,0,0,0,,If I was Endo, I'd bring the old man with me
+Dialogue: 0,0:07:59.07,0:08:01.56,Matsumoto,,0,0,0,,I'd give him a piggy back ride
+Dialogue: 0,0:08:00.09,0:08:02.13,Yamasaki,,0,0,0,,That far?
+Dialogue: 0,0:08:01.07,0:08:04.53,Matsumoto,,0,0,0,,I want him to go that far
+Dialogue: 0,0:08:06.00,0:08:10.81,Endo,,0,0,0,,I've come here to ask his first name and his age,
+Dialogue: 0,0:08:10.81,0:08:13.01,White,,0,0,0,,Yoshida Nobuaki
+Dialogue: 0,0:08:11.91,0:08:14.18,Endo,,0,0,0,,Nobuaki-san? Could I get your age too please
+Dialogue: 0,0:08:14.18,0:08:16.27,White,,0,0,0,,91 years old
+Dialogue: 0,0:08:16.27,0:08:19.07,Endo,,0,0,0,,Wow, 91 years old. You look very healthy!
+Dialogue: 0,0:08:18.58,0:08:20.40,Endo,,0,0,0,,Thank you
+Dialogue: 0,0:08:21.47,0:08:24.80,Endo,,0,0,0,,Yoshida ... Yoshida Nobuaki-san
+Dialogue: 0,0:08:25.59,0:08:27.29,Matsumoto,,0,0,0,,Now we're waiting on Endo
+Dialogue: 0,0:08:26.93,0:08:28.89,Tanaka,,0,0,0,,He said Yoshitake-san
+Dialogue: 0,0:08:28.91,0:08:31.49,Tanaka,,0,0,0,,He said something like that
+Dialogue: 0,0:08:30.27,0:08:31.51,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:08:31.51,0:08:33.47,Hamada,,0,0,0,,Ah he's back!
+Dialogue: 0,0:08:32.36,0:08:34.30,Endo,,0,0,0,,I asked him
+Dialogue: 0,0:08:34.30,0:08:35.73,Endo,,0,0,0,,I asked him,
+Dialogue: 0,0:08:34.76,0:08:37.16,Hamada,,0,0,0,,What was his name?
+Dialogue: 0,0:08:36.22,0:08:40.00,Endo,,0,0,0,,Yoshida ... Nobuaki-san
+Dialogue: 0,0:08:40.00,0:08:41.73,Yamasaki,,0,0,0,,You were way off
+Dialogue: 0,0:08:40.93,0:08:43.51,Hamada,,0,0,0,,His age?
+Dialogue: 0,0:08:42.41,0:08:44.36,Endo,,0,0,0,,91 years old
+Dialogue: 0,0:08:44.36,0:08:46.84,Matsumoto,,0,0,0,,His wife, was she there?
+Dialogue: 0,0:08:47.56,0:08:49.84,Endo,,0,0,0,,... She was ...
+Dialogue: 0,0:08:49.11,0:08:50.67,Tanaka,,0,0,0,,Really?
+Dialogue: 0,0:08:49.84,0:08:52.76,Endo,,0,0,0,,His wife was next to him
+Dialogue: 0,0:08:51.47,0:08:53.78,Hamada,,0,0,0,,What was her name?
+Dialogue: 0,0:08:53.20,0:08:56.09,Endo,,0,0,0,,I didn't ask her
+Dialogue: 0,0:08:56.10,0:08:57.91,Endo,,0,0,0,,Isn't Yoshida-san enough?
+Dialogue: 0,0:08:58.62,0:09:01.33,Endo,,0,0,0,,Isn't that good enough?
+Dialogue: 0,0:09:02.89,0:09:05.91,Classic Yellow,,0,0,0,,After getting in the car,
+Dialogue: 0,0:09:05.91,0:09:11.64,Classic Yellow,,0,0,0,,The 5 head to Segenyama Hill View Park
+Dialogue: 0,0:09:11.65,0:09:14.67,Matsumoto,,0,0,0,,We said it was his wife, but it might have been his sister,
+Dialogue: 0,0:09:14.67,0:09:18.58,Endo,,0,0,0,,Ahh ... I think it was his wife though
+Dialogue: 0,0:09:19.28,0:09:22.62,Matsumoto,,0,0,0,, Endo doesn't really care about people
+Dialogue: 0,0:09:20.67,0:09:22.63,Endo,,0,0,0,,No that's not ture
+Dialogue: 0,0:09:22.21,0:09:24.40,Matsumoto,,0,0,0,,You only care about yourself
+Dialogue: 0,0:09:23.60,0:09:25.07,Endo,,0,0,0,,That's not true, that's not true,
+Dialogue: 0,0:09:25.07,0:09:27.96,Endo,,0,0,0,,I don't even care about myself that much
+Dialogue: 0,0:09:27.16,0:09:30.55,Matsumoto,,0,0,0,,Then just die already
+Dialogue: 0,0:09:30.55,0:09:33.33,Matsumoto,,0,0,0,,I'm glad the weather turned out fine
+Dialogue: 0,0:09:36.62,0:09:37.64,Tanaka,,0,0,0,,Ah we're here
+Dialogue: 0,0:09:38.80,0:09:40.43,Yamasaki,,0,0,0,,This is it
+Dialogue: 0,0:09:41.16,0:09:46.50,Classic Yellow,,0,0,0,,The car arrives at Sengenyama Hill View Park
+Dialogue: 0,0:09:47.96,0:09:52.22,Classic Yellow,,0,0,0,,You can see great views of Ogawa at this park,
+Dialogue: 0,0:09:53.02,0:09:59.73,Classic Yellow,,0,0,0,,And what about the 203 metre roller slide here?
+Dialogue: 0,0:10:01.78,0:10:03.16,Endo,,0,0,0,,We're here
+Dialogue: 0,0:10:04.27,0:10:06.99,Yamasaki,,0,0,0,,Wow, the weather is nice
+Dialogue: 0,0:10:07.01,0:10:08.58,Endo,,0,0,0,,"Roller Slide"
+Dialogue: 0,0:10:08.04,0:10:10.31,Yamasaki,,0,0,0,,I wanna see DownTown go down together
+Dialogue: 0,0:10:09.91,0:10:11.60,Tanaka,,0,0,0,,They do seem love slides
+Dialogue: 0,0:10:11.60,0:10:13.43,Hamada,,0,0,0,,We love slides?
+Dialogue: 0,0:10:13.43,0:10:16.09,Hamada,,0,0,0,,This is amazing!
+Dialogue: 0,0:10:17.33,0:10:20.40,Matsumoto,,0,0,0,,203 metres...
+Dialogue: 0,0:10:21.47,0:10:24.53,Matsumoto,,0,0,0,,Yeah it even says it there, 200 yen
+Dialogue: 0,0:10:25.11,0:10:28.54,Matsumoto,,0,0,0,,So it's 1 yen per metre
+Dialogue: 0,0:10:39.29,0:10:41.76,Classic Yellow,,0,0,0,,They start off with Hosei
+Dialogue: 0,0:10:43.02,0:10:44.76,Yamasaki,,0,0,0,,This is pretty scary!
+Dialogue: 0,0:10:44.76,0:10:49.91,White,,0,0,0,,If you'd like, you can together, for example the 2 of you
+Dialogue: 0,0:10:54.09,0:10:56.13,Yamasaki,,0,0,0,,Here I go!
+Dialogue: 0,0:10:58.74,0:11:00.40,Endo,,0,0,0,,It's pretty fast
+Dialogue: 0,0:11:06.44,0:11:08.27,Hamada,,0,0,0,,Alright Tanaka you go
+Dialogue: 0,0:11:07.69,0:11:09.64,Tanaka,,0,0,0,,Here I go!
+Dialogue: 0,0:11:09.64,0:11:14.22,Classic Yellow,,0,0,0,,Next is Tanaka, and then Matsumoto
+Dialogue: 0,0:11:20.36,0:11:24.27,Classic Yellow,,0,0,0,,And then Hosei reaches the end!
+Dialogue: 0,0:11:26.60,0:11:28.36,Yamasaki,,0,0,0,,How am I supposed to get off?
+Dialogue: 0,0:11:28.39,0:11:31.51,Yamasaki,,0,0,0,,How are you supposed to get off that?
+Dialogue: 0,0:11:34.18,0:11:35.96,Classic Yellow,,0,0,0,,And Tanaka as well...
+Dialogue: 0,0:11:39.82,0:11:41.11,Tanaka,,0,0,0,,That hurt
+Dialogue: 0,0:11:41.52,0:11:42.98,Tanaka,,0,0,0,,Oh there's Matsumoto-san!
+Dialogue: 0,0:11:43.00,0:11:45.56,Yamasaki,,0,0,0,,His hemorrhoids are in danger
+Dialogue: 0,0:11:50.36,0:11:53.16,Matsumoto,,0,0,0,,Of course that would happen!
+Dialogue: 0,0:11:52.00,0:11:54.04,Tanaka,,0,0,0,,Exactly, exactly!
+Dialogue: 0,0:11:53.64,0:11:55.07,Yamasaki,,0,0,0,,This thing
+Dialogue: 0,0:11:55.07,0:11:56.80,Tanaka,,0,0,0,,They never told us about this!
+Dialogue: 0,0:11:55.82,0:11:57.78,Matsumoto,,0,0,0,,They didn't tell us anything!
+Dialogue: 0,0:11:59.51,0:12:03.56,Classic Yellow,,0,0,0,,Next is Hamada and Endo's turn
+Dialogue: 0,0:12:23.79,0:12:27.47,Tanaka,,0,0,0,,Will Hamada-san's hemmoroids be alright?
+Dialogue: 0,0:12:29.87,0:12:32.00,Hamada,,0,0,0,,That's gonna hurt
+Dialogue: 0,0:12:32.58,0:12:36.51,Endo,,0,0,0,,The end is scary! This is scary!
+Dialogue: 0,0:12:41.02,0:12:42.93,Endo,,0,0,0,,Oh no!
+Dialogue: 0,0:12:45.56,0:12:48.53,Hamada,,0,0,0,,No way
+Dialogue: 0,0:12:47.24,0:12:49.38,Hamada,,0,0,0,,This is how it ends?
+Dialogue: 0,0:12:48.53,0:12:50.04,Tanaka,,0,0,0,,Exactly!
+Dialogue: 0,0:12:49.38,0:12:52.04,Matsumoto,,0,0,0,,They didn't tell us this right?
+Dialogue: 0,0:12:52.84,0:12:54.44,Hamada,,0,0,0,,Yeah!
+Dialogue: 0,0:12:53.42,0:12:57.29,Matsumoto,,0,0,0,,Honestly, this "welcome mat" thing is no good!
+Dialogue: 0,0:12:57.29,0:12:59.11,Endo,,0,0,0,,Exactly
+Dialogue: 0,0:12:57.96,0:13:00.00,Matsumoto,,0,0,0,,It should be a bit softer
+Dialogue: 0,0:12:59.11,0:13:02.27,Hamada,,0,0,0,,Exactly, we should tell them!
+Dialogue: 0,0:13:03.29,0:13:07.64,Matsumoto,,0,0,0,,Right around there you go "Hmm?"
+Dialogue: 0,0:13:06.89,0:13:09.73,Matsumoto,,0,0,0,,"This is impossible isn't it?"
+Dialogue: 0,0:13:08.40,0:13:11.02,Hamada,,0,0,0,,It's just straight up impossible
+Dialogue: 0,0:13:11.96,0:13:20.71,Classic Yellow,,0,0,0,,With that, the number 3 suggestion around Takezawa is Sengenyama Hill View Park
+Dialogue: 0,0:13:21.58,0:13:25.25,Classic Yellow,,0,0,0,,They set off to ask for #2
+Dialogue: 0,0:13:25.25,0:13:28.53,Hamada,,0,0,0,,Ma'am, are you a local?
+Dialogue: 0,0:13:28.53,0:13:31.53,White,,0,0,0,,We're from Funabashi
+Dialogue: 0,0:13:30.31,0:13:33.60,Matsumoto,,0,0,0,,You're wearing a Tiara and eating Onigiri!
+Dialogue: 0,0:13:36.00,0:13:39.47,Hamada,,0,0,0,,So you don't know too much about this town?
+Dialogue: 0,0:13:37.60,0:13:38.84,White,,0,0,0,,Yes
+Dialogue: 0,0:13:39.47,0:13:42.62,Hamada,,0,0,0,,I guess we can't really ask a non-local. Thank you!
+Dialogue: 0,0:13:41.97,0:13:43.64,White,,0,0,0,,It's my first time here
+Dialogue: 0,0:13:42.62,0:13:44.89,Endo,,0,0,0,,Oh, your first time? Thank you!
+Dialogue: 0,0:13:45.44,0:13:47.94,Hamada,,0,0,0,,That old man from before
+Dialogue: 0,0:13:47.94,0:13:49.33,Endo,,0,0,0,,Thank you!
+Dialogue: 0,0:13:50.93,0:13:53.07,Tanaka,,0,0,0,,When did you get here?
+Dialogue: 0,0:13:51.42,0:13:54.13,Matsumoto,,0,0,0,,Did you slide down here just now?
+Dialogue: 0,0:13:53.64,0:13:58.65,Classic Yellow,,0,0,0,,They ask the gentleman from before for his #2
+Dialogue: 0,0:13:59.42,0:14:01.62,Hamada,,0,0,0,,Like a restaurant or such
+Dialogue: 0,0:14:03.56,0:14:06.27,White,,0,0,0,,This used to be a castle town,
+Dialogue: 0,0:14:06.80,0:14:09.97,White,,0,0,0,,There's a very old establishment there called Futaba
+Dialogue: 0,0:14:09.97,0:14:11.53,Hamada,,0,0,0,,What sort of establishment?
+Dialogue: 0,0:14:11.53,0:14:13.73,White,,0,0,0,,Ochazuke
+Dialogue: 0,0:14:11.53,0:14:14.98,Classic Yellow,,0,0,0,,{\pos(720,910)}TN: Ochazuke is a rice dish served in tea, broth, or hot water
+Dialogue: 0,0:14:12.67,0:14:14.98,Hamada,,0,0,0,,That sounds nice, an Ochazuke store
+Dialogue: 0,0:14:15.67,0:14:18.09,Endo,,0,0,0,,Sorry, could I get your name?
+Dialogue: 0,0:14:16.62,0:14:19.38,White,,0,0,0,,Me? My name is Ogino
+Dialogue: 0,0:14:18.09,0:14:19.96,Endo,,0,0,0,,And your first name?
+Dialogue: 0,0:14:19.38,0:14:21.38,White,,0,0,0,,It's Katsuji
+Dialogue: 0,0:14:20.36,0:14:22.18,Endo,,0,0,0,,And your age?
+Dialogue: 0,0:14:21.38,0:14:23.33,White,,0,0,0,,I'm 78 years old!
+Dialogue: 0,0:14:22.93,0:14:25.11,Endo,,0,0,0,,Thank you, sorry for the bother!
+Dialogue: 0,0:14:24.25,0:14:26.95,Matsumoto,,0,0,0,,Thank you, goodbye!
+Dialogue: 0,0:14:28.84,0:14:32.98,Classic Yellow,,0,0,0,,It's a 5 minute drive from the park to Futaba
+Dialogue: 0,0:14:32.36,0:14:34.62,Classic Yellow,,0,0,0,,They set off right away
+Dialogue: 0,0:14:35.29,0:14:38.98,Matsumoto,,0,0,0,,The wind was really strong
+Dialogue: 0,0:14:42.13,0:14:45.60,Matsumoto,,0,0,0,,Wow ... ignored like that ...
+Dialogue: 0,0:14:45.24,0:14:47.40,Endo,,0,0,0,,I said "yes"
+Dialogue: 0,0:14:47.40,0:14:50.22,Endo,,0,0,0,,I'm not sure about the people in the back though
+Dialogue: 0,0:14:49.20,0:14:51.29,Hamada,,0,0,0,,{\pos(720,916)}I didn't hear your "yes"
+Dialogue: 0,0:14:50.76,0:14:52.17,Endo,,0,0,0,, I said "yes"
+Dialogue: 0,0:14:52.17,0:14:55.69,Matsumoto,,0,0,0,,If this was our first time meeting you would be done for
+Dialogue: 0,0:14:57.16,0:15:00.42,Hamada,,0,0,0,,When was the last time you had Ochazuke?
+Dialogue: 0,0:15:00.42,0:15:03.42,Matsumoto,,0,0,0,,I have it a couple times a year
+Dialogue: 0,0:15:01.87,0:15:05.20,Hamada,,0,0,0,,Oh really? When do you eat it?
+Dialogue: 0,0:15:08.80,0:15:10.98,Hamada,,0,0,0,,Ignored
+Dialogue: 0,0:15:12.09,0:15:16.00,Hamada,,0,0,0,,Wow ... ignored like that ...
+Dialogue: 0,0:15:16.40,0:15:18.58,Endo,,0,0,0,,Isn't that it?
+Dialogue: 0,0:15:18.58,0:15:20.93,Endo,,0,0,0,,"Futaba-san", we're here
+Dialogue: 0,0:15:20.17,0:15:25.04,Classic Yellow,,0,0,0,,They arrive at the Futaba Inn
+Dialogue: 0,0:15:30.71,0:15:32.18,Yamasaki,,0,0,0,,So nice!
+Dialogue: 0,0:15:32.80,0:15:34.31,Matsumoto,,0,0,0,,It's great
+Dialogue: 0,0:15:34.31,0:15:36.36,Yamasaki,,0,0,0,,It's amazing!
+Dialogue: 0,0:15:35.82,0:15:38.09,Matsumoto,,0,0,0,,It's brilliant
+Dialogue: 0,0:15:38.09,0:15:41.82,Endo,,0,0,0,,Wow! I like this Japanese style
+Dialogue: 0,0:15:44.84,0:15:46.71,Matsumoto,,0,0,0,,Where should we sit?
+Dialogue: 0,0:15:46.36,0:15:47.82,Matsumoto,,0,0,0,,Is it OK here?
+Dialogue: 0,0:15:51.20,0:15:54.09,Matsumoto,,0,0,0,,Thank you very much
+Dialogue: 0,0:15:55.91,0:16:02.71,Classic Yellow,,0,0,0,,Futaba Kappou Inn
+Dialogue: 0,0:16:00.98,0:16:06.93,Classic Yellow,,0,0,0,,A 270 year old establishment preserving the history of Saitama
+Dialogue: 0,0:16:07.55,0:16:09.64,Endo,,0,0,0,,What do you suggest?
+Dialogue: 0,0:16:08.71,0:16:14.89,White,,0,0,0,,We suggest the Chushichi-meshi Nori Ochazuke, one of Japan's "5 Great Rice dishes"
+Dialogue: 0,0:16:15.39,0:16:20.13,White,,0,0,0,,{\pos(720,768)}The Japanese Imperial Household decided on this dish in Showa 4 (1929)
+Dialogue: 0,0:16:22.37,0:16:24.04,White,,0,0,0,,We'll get that
+Dialogue: 0,0:16:23.42,0:16:24.84,White,,0,0,0,,Understood
+Dialogue: 0,0:16:24.84,0:16:26.89,Endo,,0,0,0,,Thank you
+Dialogue: 0,0:16:26.89,0:16:29.60,Matsumoto,,0,0,0,,Why does he get to decide?
+Dialogue: 0,0:16:30.71,0:16:33.87,White,,0,0,0,,You guys should try the specialty
+Dialogue: 0,0:16:31.60,0:16:33.89,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:16:36.49,0:16:39.69,Classic Yellow,,0,0,0,,They wait 10 minutes for the food to cook,
+Dialogue: 0,0:16:47.42,0:16:51.59,Classic Yellow,,0,0,0,,This is a dish that uses local ingredients and produce,
+Dialogue: 0,0:16:53.91,0:16:55.60,Yamasaki,,0,0,0,,It looks so good
+Dialogue: 0,0:17:00.84,0:17:04.81,Classic Yellow,,0,0,0,,And this is the specialty Chushichi-meshi
+Dialogue: 0,0:17:05.78,0:17:08.27,Classic Yellow,,0,0,0,,With seaweed sprinkled over rice,
+Dialogue: 0,0:17:08.67,0:17:12.52,Classic Yellow,,0,0,0,,And served with yuzu, spring onion, and wasabi
+Dialogue: 0,0:17:13.64,0:17:19.42,Classic Yellow,,0,0,0,,Enjoy it like an ochazuke, with hot water poured on top
+Dialogue: 0,0:17:30.62,0:17:32.98,Matsumoto,,0,0,0,,It's delicious
+Dialogue: 0,0:17:32.98,0:17:34.40,Matsumoto,,0,0,0,,The seaweed is the great
+Dialogue: 0,0:17:35.47,0:17:36.89,Endo,,0,0,0,,That's true
+Dialogue: 0,0:17:38.53,0:17:39.89,Tanaka,,0,0,0,,Delicious
+Dialogue: 0,0:17:41.74,0:17:44.04,Endo,,0,0,0,,We can only eat this here right?
+Dialogue: 0,0:17:42.93,0:17:45.02,White,,0,0,0,,Are you done with that?
+Dialogue: 0,0:17:44.04,0:17:46.31,Endo,,0,0,0,,We can't get this in Tokyo right?
+Dialogue: 0,0:17:46.31,0:17:48.49,Tanaka,,0,0,0,,Yes thank you
+Dialogue: 0,0:17:48.89,0:17:51.51,Tanaka,,0,0,0,,We can only get this here?
+Dialogue: 0,0:17:49.60,0:17:51.51,White,,0,0,0,,Thank you
+Dialogue: 0,0:17:51.96,0:17:54.51,Matsumoto,,0,0,0,,We can only get this here?
+Dialogue: 0,0:17:52.53,0:17:53.33,White,,0,0,0,,Yes
+Dialogue: 0,0:17:55.38,0:17:59.40,Matsumoto,,0,0,0,,We can't get Chushichi-meshi in the city can we?
+Dialogue: 0,0:17:59.40,0:18:02.62,White,,0,0,0,,Yes. Thank you very much
+Dialogue: 0,0:18:02.62,0:18:04.20,Tanaka,,0,0,0,,Just here then
+Dialogue: 0,0:18:05.20,0:18:08.80,Classic Yellow,,0,0,0,,Futaba-san, thank you for the meal!
+Dialogue: 0,0:18:09.96,0:18:16.08,Classic Yellow,,0,0,0,,Only #1 is left in the Takezawa recommendation ranking
+Dialogue: 0,0:18:16.84,0:18:23.29,Classic Yellow,,0,0,0,,Since so many people suggested it, they consider Yoshida Family House
+Dialogue: 0,0:18:25.11,0:18:27.51,Classic Yellow,,0,0,0,,They asked the Futaba-san host
+Dialogue: 0,0:18:27.96,0:18:31.16,Hamada,,0,0,0,,A lot of people have told us about this Family House
+Dialogue: 0,0:18:30.00,0:18:33.96,White,,0,0,0,,The Yoshida Family House, that's right, that's an interesting place
+Dialogue: 0,0:18:32.18,0:18:33.96,Endo,,0,0,0,,It's interesting?
+Dialogue: 0,0:18:33.96,0:18:36.58,Hamada,,0,0,0,,It's famous?
+Dialogue: 0,0:18:34.62,0:18:36.58,White,,0,0,0,,Yes, it is
+Dialogue: 0,0:18:40.09,0:18:42.45,Matsumoto,,0,0,0,,Do you remember of that guy from before?
+Dialogue: 0,0:18:42.04,0:18:43.60,Yamasaki,,0,0,0,,The very first guy
+Dialogue: 0,0:18:43.02,0:18:45.51,Matsumoto,,0,0,0,,The very first person
+Dialogue: 0,0:18:44.00,0:18:48.04,Endo,,0,0,0,,The very first person was Yoshida ... Nobuaki-san
+Dialogue: 0,0:18:48.62,0:18:50.84,Matsumoto,,0,0,0,,The guy from the slide?
+Dialogue: 0,0:18:49.38,0:18:52.89,Endo,,0,0,0,,The guy from the slide? Honestly I ...
+Dialogue: 0,0:18:53.85,0:18:55.56,Endo,,0,0,0,,O-Ogiku?
+Dialogue: 0,0:18:55.56,0:18:57.64,Endo,,0,0,0,,Ogicha?
+Dialogue: 0,0:18:56.13,0:18:59.47,Matsumoto,,0,0,0,,That's definitely not it
+Dialogue: 0,0:18:58.35,0:19:00.58,Matsumoto,,0,0,0,,Hagi... Hagi no ...
+Dialogue: 0,0:19:00.58,0:19:05.73,Matsumoto,,0,0,0,,{\pos(717,1070)}His name was like "Hagi no Tsuki" or something
+Dialogue: 0,0:19:00.58,0:19:05.73,Classic Yellow,,0,0,0,,{\pos(720,906)}TN: Hagi no Tsuki is a sponge cake dessert
+Dialogue: 0,0:19:06.62,0:19:09.96,Endo,,0,0,0,,If it was "Hagi no Tsuki" I'd definitely remember
+Dialogue: 0,0:19:09.96,0:19:14.49,Classic Yellow,,0,0,0,,It's a 10 minute drive to Yoshida Family House
+Dialogue: 0,0:19:16.04,0:19:18.27,Matsumoto,,0,0,0,,Oh we came back here
+Dialogue: 0,0:19:18.27,0:19:21.84,Matsumoto,,0,0,0,,That's where Endo's BFF lives
+Dialogue: 0,0:19:21.84,0:19:25.24,Endo,,0,0,0,,Yoshida-san thank you very much
+Dialogue: 0,0:19:27.60,0:19:29.87,Yamasaki,,0,0,0,,That looks like it
+Dialogue: 0,0:19:28.53,0:19:30.82,Hamada,,0,0,0,,It says it right there
+Dialogue: 0,0:19:31.60,0:19:34.22,Yamasaki,,0,0,0,,It was written there
+Dialogue: 0,0:19:33.02,0:19:35.56,Matsumoto,,0,0,0,,Hmm? Is that it?
+Dialogue: 0,0:19:43.56,0:19:50.24,Classic Yellow,,0,0,0,,Takezawa station's #1, the Yoshida Family House
+Dialogue: 0,0:20:00.95,0:20:02.33,Endo,,0,0,0,,Oh, here?
+Dialogue: 0,0:20:03.51,0:20:06.09,Tanaka,,0,0,0,,It's amazing
+Dialogue: 0,0:20:06.09,0:20:08.27,Matsumoto,,0,0,0,,Hamada-san, there's a donation box
+Dialogue: 0,0:20:10.27,0:20:11.96,Hamada,,0,0,0,,There sure is
+Dialogue: 0,0:20:15.24,0:20:16.58,Hamada,,0,0,0,,Hello
+Dialogue: 0,0:20:15.73,0:20:18.27,Yamasaki,,0,0,0,,Sorry for the intrusion
+Dialogue: 0,0:20:17.07,0:20:19.69,Hamada,,0,0,0,,Ah, it's the smell of that
+Dialogue: 0,0:20:19.69,0:20:22.69,Endo,,0,0,0,,There's a lot of food here, like Dango
+Dialogue: 0,0:20:25.33,0:20:29.75,Classic Yellow,,0,0,0,,Takezawa Station's #1 - The Yoshida Family House
+Dialogue: 0,0:20:30.49,0:20:33.47,Classic Yellow,,0,0,0,,Turning 300 years old this year,
+Dialogue: 0,0:20:34.04,0:20:36.58,Classic Yellow,,0,0,0,,Preserving the country's national heritage,
+Dialogue: 0,0:20:36.58,0:20:41.02,Classic Yellow,,0,0,0,,The oldest house in Saitama Prefecture
+Dialogue: 0,0:20:41.78,0:20:45.49,Classic Yellow,,0,0,0,,They light the fire with a prayer, and dig in
+Dialogue: 0,0:20:55.51,0:20:57.96,Endo,,0,0,0,,How many hundreds of years old is this place?
+Dialogue: 0,0:20:57.96,0:21:00.84,White,,0,0,0,,Exactly 300 this year
+Dialogue: 0,0:21:00.18,0:21:01.74,Matsumoto,,0,0,0,,Exactly
+Dialogue: 0,0:21:00.84,0:21:02.93,White,,0,0,0,,Exactly
+Dialogue: 0,0:21:01.74,0:21:03.78,Endo,,0,0,0,,This used to be a house?
+Dialogue: 0,0:21:03.78,0:21:06.80,White,,0,0,0,,They lived here normally until the start of Hesei (1989)
+Dialogue: 0,0:21:06.80,0:21:08.67,Endo,,0,0,0,,Until the Hesei-era?
+Dialogue: 0,0:21:08.22,0:21:10.58,White,,0,0,0,,Yes, they lived here normally up until then
+Dialogue: 0,0:21:10.58,0:21:15.29,White,,0,0,0,,We can date this house back 300 years,
+Dialogue: 0,0:21:15.31,0:21:20.22,White,,0,0,0,,And the way we do that is using the Munefuda (building tag)
+Dialogue: 0,0:21:20.22,0:21:24.04,White,,0,0,0,,And that tag was placed right there
+Dialogue: 0,0:21:25.07,0:21:27.20,White,,0,0,0,,Do you get it?
+Dialogue: 0,0:21:26.71,0:21:29.33,Tanaka,,0,0,0,,Tanaka go look at it, hurry
+Dialogue: 0,0:21:29.73,0:21:30.84,Tanaka,,0,0,0,,This thing?
+Dialogue: 0,0:21:30.84,0:21:32.76,White,,0,0,0,,It was placed in that manner
+Dialogue: 0,0:21:32.76,0:21:38.40,White,,0,0,0,,And since the writing is on the reverse, nobody knew how old it was
+Dialogue: 0,0:21:39.02,0:21:42.84,White,,0,0,0,,So when they decided to demolish this place and build a new house,
+Dialogue: 0,0:21:43.29,0:21:47.73,White,,0,0,0,,But then they thought "Wait, I think they did say it was 300 years old or something"
+Dialogue: 0,0:21:48.42,0:21:52.89,White,,0,0,0,, And then after doing some research they found out
+Dialogue: 0,0:21:53.29,0:21:55.83,White,,0,0,0,,That's genuinely what happened
+Dialogue: 0,0:21:54.09,0:21:55.83,Endo,,0,0,0,, Wow, it was almost demolished
+Dialogue: 0,0:21:55.83,0:22:00.13,White,,0,0,0,,So if that pillar wasn't there in Kyoho 6 (1721), they couldn't have placed the tag there
+Dialogue: 0,0:21:58.95,0:22:00.71,Hamada,,0,0,0,,I see
+Dialogue: 0,0:22:00.13,0:22:03.73,White,,0,0,0,,So it's a good thing that pillar was there
+Dialogue: 0,0:22:03.29,0:22:06.49,White,,0,0,0,,If you look up there, everything has been kept exactly the same
+Dialogue: 0,0:22:06.04,0:22:11.15,White,,0,0,0,,It's rare for things like that to be left so intact
+Dialogue: 0,0:22:11.15,0:22:15.15,White,,0,0,0,,And with that, this place recieved a National Desgination
+Dialogue: 0,0:22:15.15,0:22:18.18,White,,0,0,0,,That looks like it's just right
+Dialogue: 0,0:22:16.89,0:22:18.93,Matsumoto,,0,0,0,,Thank you very much
+Dialogue: 0,0:22:18.93,0:22:21.78,White,,0,0,0,,There used to be 4 dango, but now there's 3
+Dialogue: 0,0:22:21.78,0:22:24.84,White,,0,0,0,,Why do you think that might be?
+Dialogue: 0,0:22:23.49,0:22:24.84,Matsumoto,,0,0,0,,Oh, why?
+Dialogue: 0,0:22:24.84,0:22:29.16,White,,0,0,0,,Because "Dango 3-Kyodai" was popular at the time! (3 Dango Brothers)
+Dialogue: 0,0:22:24.84,0:22:29.16,Classic Yellow,,0,0,0,,TN: "Dango 3-Kyodai" is a popular song from 1999
+Dialogue: 0,0:22:28.27,0:22:30.49,White,,0,0,0,,There were 4 dango up until then
+Dialogue: 0,0:22:30.93,0:22:32.44,White,,0,0,0,,You didn't know that?
+Dialogue: 0,0:22:32.68,0:22:34.90,Yamasaki,,0,0,0,,No, I know Dango 3-kyodai
+Dialogue: 0,0:22:34.80,0:22:40.87,Matsumoto,,0,0,0,,I think when talking about the 300 year old history, it's best not to bring something like that up
+Dialogue: 0,0:22:44.27,0:22:46.77,Hamada,,0,0,0,,Is that ready?
+Dialogue: 0,0:22:45.98,0:22:48.20,Yamasaki,,0,0,0,,Thank you for the meal!
+Dialogue: 0,0:22:48.87,0:22:52.25,Hamada,,0,0,0,,Ah, but, it's delicious
+Dialogue: 0,0:22:52.25,0:22:53.87,Endo,,0,0,0,,It's nice and chewy
+Dialogue: 0,0:22:53.87,0:22:56.87,Hamada,,0,0,0,,How was this episode? It seemed to go smoother than usual
+Dialogue: 0,0:22:58.39,0:23:00.93,Hamada,,0,0,0,,It's not like nothing happened
+Dialogue: 0,0:23:00.13,0:23:02.10,Yamasaki,,0,0,0,,A lot happened
+Dialogue: 0,0:23:00.13,0:23:02.11,Tanaka,,0,0,0,,Yes, we experienced a lot
+Dialogue: 0,0:23:02.11,0:23:04.40,Matsumoto,,0,0,0,,Endo, you still have that job left,
+Dialogue: 0,0:23:05.03,0:23:08.27,Matsumoto,,0,0,0,,That old lady's name
+Dialogue: 0,0:23:08.27,0:23:11.81,Endo,,0,0,0,,You know every time I have some errand to do
+Dialogue: 0,0:23:11.81,0:23:13.87,Endo,,0,0,0,,Like every time-
+Dialogue: 0,0:23:13.87,0:23:16.88,Hamada,,0,0,0,,Yeah last time we were at that cafe place,
+Dialogue: 0,0:23:16.20,0:23:18.40,Endo,,0,0,0,,Yes and you all left
+Dialogue: 0,0:23:18.40,0:23:23.13,Endo,,0,0,0,,When I got back I saw your car pass by
+Dialogue: 0,0:23:21.93,0:23:25.02,Endo,,0,0,0,,"Hmm?" "It's over?"
+Dialogue: 0,0:23:25.04,0:23:30.93,Hamada,,0,0,0,,You never know, next time we might even visit your town!
+Dialogue: 0,0:23:32.73,0:23:35.13,Yamasaki,,0,0,0,,Was it always this kind of show?
+Dialogue: 0,0:23:33.40,0:23:36.87,Tanaka,,0,0,0,,Was the ending always like this?
+Dialogue: 0,0:23:36.87,0:23:39.87,Tanaka,,0,0,0,,
+

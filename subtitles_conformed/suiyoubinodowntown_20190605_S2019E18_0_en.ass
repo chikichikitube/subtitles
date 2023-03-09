@@ -1,0 +1,945 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: zwanster fix
+Audio File: WEDNESDAY DOWNTOWN 2019-06-05.mp4
+Video File: WEDNESDAY DOWNTOWN 2019-06-05.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 888
+Active Line: 905
+Video Position: 83858
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,90,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.43,0:00:06.74,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 0,0:00:06.74,0:00:09.97,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:11.59,0:00:12.92,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:14.58,0:00:16.23,normal_Wed,,0,0,0,,Hello everyone
+Dialogue: 0,0:00:16.23,0:00:19.54,normal_Wed,,0,0,0,,It's Jinnai Tomonori!
+Dialogue: 0,0:00:19.76,0:00:23.41,normal_Wed,,0,0,0,,Has everyone heard of the phrase "set phrase"?
+Dialogue: 0,0:00:24.05,0:00:26.21,normal_Wed,,0,0,0,,So have you ever had the experience of being set up?
+Dialogue: 0,0:00:26.21,0:00:27.90,normal_Wed,,0,0,0,,What happened exactly?
+Dialogue: 0,0:00:27.90,0:00:32.96,normal_Wed,,0,0,0,,At a handshake event, a fan came over and said they were meeting me for the first time
+Dialogue: 0,0:00:32.96,0:00:36.08,normal_Wed,,0,0,0,,So I said "nice to meet you" but was then told "it's not the first time we've met"
+Dialogue: 0,0:00:36.08,0:00:39.03,normal_Wed,,0,0,0,,Wow, that's bad
+Dialogue: 0,0:00:39.03,0:00:40.74,normal_Wed,,0,0,0,,Have you ever been trapped in a conversation?
+Dialogue: 0,0:00:40.74,0:00:42.79,normal_Wed,,0,0,0,,Those guys from Weekly Magazine
+Dialogue: 0,0:00:42.79,0:00:45.65,normal_Wed,,0,0,0,,I thought I was talking to them about something they already knew, so I confessed everything
+Dialogue: 0,0:00:45.65,0:00:48.16,normal_Wed,,0,0,0,,After saying that, the guys actually looked surprised with a "is that so" look
+Dialogue: 0,0:00:48.16,0:00:50.56,normal_Wed,,0,0,0,,I didn't know how far the other side had investigated
+Dialogue: 0,0:00:50.57,0:00:53.28,normal_Wed,,0,0,0,,After that, I had to give a press conference and get a divorce
+Dialogue: 0,0:00:53.28,0:00:54.88,normal_Wed,,0,0,0,,That's enough from you
+Dialogue: 0,0:00:53.28,0:00:58.18,note_Wed,,0,0,0,,{\blur4}※In 2009, the day after he filed for divorce, he held a press conference and admitted that the reason for his divorce was that he was having an affair with multiple women
+Dialogue: 0,0:00:54.88,0:00:58.18,normal_Wed,,0,0,0,,Don't mention that, Junior, it was 10 years ago
+Dialogue: 0,0:00:58.18,0:01:00.96,normal_Wed,,0,0,0,,It happens
+Dialogue: 0,0:01:00.96,0:01:03.15,normal_Wed,,0,0,0,,So, the theory I bring you this time is:
+Dialogue: 0,0:01:03.91,0:01:10.35,normal_Wed,,0,0,0,,"Is there anything you have to say to me?" If you're told this, you'll likely say something that's unnecessary
+Dialogue: 0,0:01:10.41,0:01:12.26,normal_Wed,,0,0,0,,I see  \N-That's scary
+Dialogue: 0,0:01:12.26,0:01:16.73,normal_Wed,,0,0,0,,I think we all think the same thing in that we'd definitely say something
+Dialogue: 0,0:01:16.73,0:01:18.36,normal_Wed,,0,0,0,,In this case, for example
+Dialogue: 0,0:01:18.36,0:01:21.14,normal_Wed,,0,0,0,,If you go to Hamada's lounge and are told this line by Hamada
+Dialogue: 0,0:01:21.14,0:01:22.57,normal_Wed,,0,0,0,,You'll probably be interrogated for more than 2 hours
+Dialogue: 0,0:01:23.55,0:01:24.67,normal_Wed,,0,0,0,,Why!?
+Dialogue: 0,0:01:24.67,0:01:26.93,normal_Wed,,0,0,0,,No, no, that's if Hamada's getting told off by his wife
+Dialogue: 0,0:01:26.93,0:01:28.92,normal_Wed,,0,0,0,,He'll confess until the sea runs dry
+Dialogue: 0,0:01:28.92,0:01:31.74,normal_Wed,,0,0,0,,He'll just keep going
+Dialogue: 0,0:01:32.07,0:01:33.27,normal_Wed,,0,0,0,,Later
+Dialogue: 0,0:01:35.22,0:01:38.48,normal_Wed,,0,0,0,,Will they really say unnecessary things?
+Dialogue: 0,0:01:38.84,0:01:39.95,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:01:41.22,0:01:44.87,normal_Wed,,0,0,0,,Connecting Udo's overuse of "Sorry" with Amano's daily life
+Dialogue: 0,0:01:45.41,0:01:47.95,normal_Wed,,0,0,0,,Will either notice the connection?
+Dialogue: 0,0:01:48.46,0:01:52.16,normal_Wed,,0,0,0,,And, if the pitcher and first baseman are magicians
+Dialogue: 0,0:01:52.16,0:01:55.44,normal_Wed,,0,0,0,,Can they use a hidden ball to get batters out one by one?
+Dialogue: 0,0:02:12.32,0:02:20.39,normal_Wed,,0,0,0,,"Is there anything you have to say to me?" If you're told this, you'll like something that's unnecessary
+Dialogue: 0,0:02:21.27,0:02:25.21,normal_Wed,,0,0,0,,The initial pair is Impulse
+Dialogue: 0,0:02:23.90,0:02:25.56,wipe_Wed,,0,0,0,,This guy won't listen anyway
+Dialogue: 0,0:02:25.56,0:02:26.72,wipe_Wed,,0,0,0,,Definitely
+Dialogue: 0,0:02:26.19,0:02:28.29,normal_Wed,,0,0,0,,I can't really imagine what will happen
+Dialogue: 0,0:02:28.29,0:02:30.53,normal_Wed,,0,0,0,,It's a little scary... truly
+Dialogue: 0,0:02:31.04,0:02:32.03,normal_Wed,,0,0,0,,So...
+Dialogue: 0,0:02:32.03,0:02:37.34,normal_Wed,,0,0,0,,If he confesses to a crime or something, it's over for us
+Dialogue: 0,0:02:37.34,0:02:42.21,normal_Wed,,0,0,0,,I'm quite nervous as the pranker
+Dialogue: 0,0:02:43.01,0:02:49.07,normal_Wed,,0,0,0,,After calling out his partner under the pretext of "we need to discuss something," the verification begins
+Dialogue: 0,0:02:51.22,0:02:52.42,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:02:53.82,0:02:56.56,normal_Wed,,0,0,0,,Is there anything you haven't told me yet?
+Dialogue: 0,0:02:55.69,0:02:56.93,wipe_Wed,,0,0,0,,So believable
+Dialogue: 0,0:02:58.04,0:02:58.92,wipe_Wed,,0,0,0,,So believable
+Dialogue: 0,0:02:58.96,0:03:00.43,normal_Wed,,0,0,0,,Something I haven't told you?
+Dialogue: 0,0:03:00.43,0:03:03.20,normal_Wed,,0,0,0,,There's something I haven't been told, right?
+Dialogue: 0,0:03:04.00,0:03:08.93,normal_Wed,,0,0,0,,Something that needs to be said?
+Dialogue: 0,0:03:15.94,0:03:17.68,normal_Wed,,0,0,0,,The autograph thing?
+Dialogue: 0,0:03:17.94,0:03:18.84,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:03:18.84,0:03:21.38,normal_Wed,,0,0,0,,Autograph \N-Autograph?
+Dialogue: 0,0:03:21.38,0:03:23.48,normal_Wed,,0,0,0,,That...
+Dialogue: 0,0:03:23.85,0:03:29.99,normal_Wed,,0,0,0,,I was requested to sign our autograph
+Dialogue: 0,0:03:29.99,0:03:33.79,normal_Wed,,0,0,0,,So I signed your name as well
+Dialogue: 0,0:03:33.65,0:03:34.57,wipe_Wed,,0,0,0,,So cute
+Dialogue: 0,0:03:35.26,0:03:36.63,normal_Wed,,0,0,0,,Because it was requested...
+Dialogue: 0,0:03:37.03,0:03:38.80,normal_Wed,,0,0,0,,That doesn't matter
+Dialogue: 0,0:03:38.80,0:03:40.93,normal_Wed,,0,0,0,,That doesn't matter at all!
+Dialogue: 0,0:03:40.93,0:03:46.77,normal_Wed,,0,0,0,,That's not what i'm referring to
+Dialogue: 0,0:03:43.17,0:03:44.09,wipe_Wed,,0,0,0,,He laughed!
+Dialogue: 0,0:03:48.54,0:03:49.98,normal_Wed,,0,0,0,,Ah...the gym?
+Dialogue: 0,0:03:49.98,0:03:50.88,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:03:50.88,0:03:51.60,normal_Wed,,0,0,0,,The gym
+Dialogue: 0,0:03:52.38,0:03:53.68,normal_Wed,,0,0,0,,What about the gym?
+Dialogue: 0,0:03:53.70,0:04:00.49,normal_Wed,,0,0,0,,I lost 2KG of weight after exercise?
+Dialogue: 0,0:04:00.49,0:04:01.94,normal_Wed,,0,0,0,,Had a slight change in body size
+Dialogue: 0,0:04:01.94,0:04:04.16,normal_Wed,,0,0,0,,No, why would I call you out because of this?
+Dialogue: 0,0:04:04.16,0:04:08.59,normal_Wed,,0,0,0,,You lost 7KG when you were forced out of the business because of the scandal
+Dialogue: 0,0:04:08.59,0:04:12.86,normal_Wed,,0,0,0,,I wouldn't call you out today to talk about losing 2KG
+Dialogue: 0,0:04:12.86,0:04:16.20,normal_Wed,,0,0,0,,Well, yes, yes, that's right...
+Dialogue: 0,0:04:16.20,0:04:18.40,normal_Wed,,0,0,0,,Although I could say it
+Dialogue: 0,0:04:18.40,0:04:20.54,normal_Wed,,0,0,0,,"It's like this" can also be said
+Dialogue: 0,0:04:21.01,0:04:24.48,normal_Wed,,0,0,0,,I think it's better to let you confess yourself
+Dialogue: 0,0:04:24.11,0:04:25.09,wipe_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:04:25.81,0:04:28.18,normal_Wed,,0,0,0,,Western...Western restaurant thing?
+Dialogue: 0,0:04:28.55,0:04:30.88,normal_Wed,,0,0,0,,Eh, what? What Western restaurant?
+Dialogue: 0,0:04:31.28,0:04:33.69,normal_Wed,,0,0,0,,I want to open a western restaurant
+Dialogue: 0,0:04:33.69,0:04:36.19,normal_Wed,,0,0,0,,Gotta get a health permit
+Dialogue: 0,0:04:36.26,0:04:38.42,normal_Wed,,0,0,0,,Seems like the kind of thing that would actually happen
+Dialogue: 0,0:04:38.84,0:04:40.86,normal_Wed,,0,0,0,,An interesting pursuit
+Dialogue: 0,0:04:40.86,0:04:41.53,wipe_Wed,,0,0,0,,His look suits a Western restaurant
+Dialogue: 0,0:04:41.53,0:04:43.46,normal_Wed,,0,0,0,,Eh? Western food...
+Dialogue: 0,0:04:43.46,0:04:47.47,normal_Wed,,0,0,0,,Since i've been back at work I've wanted to open a Western restaurant
+Dialogue: 0,0:04:46.47,0:04:47.70,wipe_Wed,,0,0,0,,It has become an interrogation
+Dialogue: 0,0:04:48.33,0:04:50.61,normal_Wed,,0,0,0,,Although forced to talk
+Dialogue: 0,0:04:51.46,0:04:55.04,normal_Wed,,0,0,0,,All he gives are useless updates
+Dialogue: 0,0:04:55.97,0:04:58.72,normal_Wed,,0,0,0,,Explosive announcements seem to be few
+Dialogue: 0,0:04:59.60,0:05:00.75,normal_Wed,,0,0,0,,After that too
+Dialogue: 0,0:05:01.15,0:05:04.52,normal_Wed,,0,0,0,,Is it about preparing to study abroad in summer?
+Dialogue: 0,0:05:04.78,0:05:10.42,normal_Wed,,0,0,0,,Want to open a cooking channel on Youtube?
+Dialogue: 0,0:05:10.79,0:05:12.62,normal_Wed,,0,0,0,,Debt...debt?
+Dialogue: 0,0:05:13.12,0:05:14.59,normal_Wed,,0,0,0,,Hair regrowth?
+Dialogue: 0,0:05:14.96,0:05:17.83,normal_Wed,,0,0,0,,Dad...that I was beaten by my dad?
+Dialogue: 0,0:05:18.98,0:05:21.46,normal_Wed,,0,0,0,,The small material keeps on coming
+Dialogue: 0,0:05:22.40,0:05:29.47,normal_Wed,,0,0,0,,Even telling a story like "I was beaten up by my father" is unbelievable for someone over 40 years old
+Dialogue: 0,0:05:31.54,0:05:33.01,normal_Wed,,0,0,0,,It's not that
+Dialogue: 0,0:05:28.10,0:05:30.33,wipe_Wed,,0,0,0,,Originally this guy is bad
+Dialogue: 0,0:05:33.85,0:05:35.58,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:05:35.57,0:05:37.42,normal_Wed,,0,0,0,,After saying "it's not that" repeatedly
+Dialogue: 0,0:05:37.42,0:05:40.62,normal_Wed,,0,0,0,,If I say "It's this" then that's the end of it
+Dialogue: 0,0:05:40.62,0:05:42.42,normal_Wed,,0,0,0,,I need to hear the words  \N-Um...
+Dialogue: 0,0:05:42.85,0:05:45.82,normal_Wed,,0,0,0,,If it doesn't come directly from you
+Dialogue: 0,0:05:45.82,0:05:47.83,normal_Wed,,0,0,0,,I won't be in the mood to help you
+Dialogue: 0,0:05:49.02,0:05:53.13,normal_Wed,,0,0,0,,Things that I should say to you...
+Dialogue: 0,0:05:54.06,0:05:59.01,normal_Wed,,0,0,0,,The last thing he squeezes out after thinking incredibly hard is...
+Dialogue: 0,0:06:00.77,0:06:02.47,normal_Wed,,0,0,0,,That...
+Dialogue: 0,0:06:02.47,0:06:04.18,normal_Wed,,0,0,0,,The encounter
+Dialogue: 0,0:06:04.48,0:06:07.78,normal_Wed,,0,0,0,,What encounter? Go on
+Dialogue: 0,0:06:07.78,0:06:08.88,normal_Wed,,0,0,0,,Let's see if it's right
+Dialogue: 0,0:06:08.88,0:06:11.25,normal_Wed,,0,0,0,,Signed up for the dating app that thing?
+Dialogue: 0,0:06:13.04,0:06:14.26,wipe_Wed,,0,0,0,,Already laughing
+Dialogue: 0,0:06:14.25,0:06:15.04,normal_Wed,,0,0,0,,Laughing so obviously!
+Dialogue: 0,0:06:15.04,0:06:16.79,normal_Wed,,0,0,0,,Don't laugh!
+Dialogue: 0,0:06:17.52,0:06:18.49,normal_Wed,,0,0,0,,It's really funny though
+Dialogue: 0,0:06:18.89,0:06:20.89,normal_Wed,,0,0,0,,Never had the opportunity to find an attractive...
+Dialogue: 0,0:06:21.59,0:06:24.80,normal_Wed,,0,0,0,,Is this it? Eh, is it?
+Dialogue: 0,0:06:24.80,0:06:26.33,normal_Wed,,0,0,0,,Did you register under your real name?
+Dialogue: 0,0:06:26.70,0:06:29.17,normal_Wed,,0,0,0,,No, it says "42-year-old company employee"
+Dialogue: 0,0:06:29.47,0:06:32.04,normal_Wed,,0,0,0,,Did you upload photos?  \N-No, I didn't
+Dialogue: 0,0:06:32.24,0:06:35.44,normal_Wed,,0,0,0,,But if you don't show your face, it's a little bit...
+Dialogue: 0,0:06:35.77,0:06:38.31,normal_Wed,,0,0,0,,It'll eventually end in...
+Dialogue: 0,0:06:38.31,0:06:41.71,normal_Wed,,0,0,0,,When we meet, it'll be "You're Teshita, right?"
+Dialogue: 0,0:06:41.71,0:06:44.55,normal_Wed,,0,0,0,,Is this something that will cause you problems?
+Dialogue: 0,0:06:44.85,0:06:47.79,normal_Wed,,0,0,0,,No, these kinds of things don't matter at all
+Dialogue: 0,0:06:48.46,0:06:51.22,normal_Wed,,0,0,0,,So, we reveal the truth
+Dialogue: 0,0:06:52.06,0:06:53.46,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:06:53.46,0:06:55.63,normal_Wed,,0,0,0,,These familiar faces will make you understand
+Dialogue: 0,0:06:57.43,0:06:58.53,normal_Wed,,0,0,0,,Wednesday?
+Dialogue: 0,0:06:59.16,0:07:00.30,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:07:00.30,0:07:01.47,normal_Wed,,0,0,0,,What just happened?
+Dialogue: 0,0:07:01.47,0:07:03.00,normal_Wed,,0,0,0,,What's happening?
+Dialogue: 0,0:07:03.00,0:07:04.40,normal_Wed,,0,0,0,,Did I do something?
+Dialogue: 0,0:07:05.20,0:07:07.46,normal_Wed,,0,0,0,,After conveying the theory
+Dialogue: 0,0:07:08.51,0:07:11.04,normal_Wed,,0,0,0,,Don't air the thing about the dating app thing!
+Dialogue: 0,0:07:11.28,0:07:12.88,normal_Wed,,0,0,0,,How are the results of the dating app
+Dialogue: 0,0:07:12.88,0:07:13.91,normal_Wed,,0,0,0,,Nothing at all
+Dialogue: 0,0:07:14.15,0:07:18.28,normal_Wed,,0,0,0,,The guy who "earns 150 thousand a year at the age of 42" has no chance at all, right?
+Dialogue: 0,0:07:19.06,0:07:21.28,normal_Wed,,0,0,0,,Next is
+Dialogue: 0,0:07:21.28,0:07:24.67,normal_Wed,,0,0,0,,A survey of seniors and juniors who usually have a good relationship
+Dialogue: 0,0:07:26.42,0:07:27.41,normal_Wed,,0,0,0,,And so
+Dialogue: 0,0:07:29.09,0:07:32.70,normal_Wed,,0,0,0,,TKO's Kinoshita-san seems pretty bad
+Dialogue: 0,0:07:32.73,0:07:34.83,normal_Wed,,0,0,0,,Really stingy
+Dialogue: 0,0:07:35.47,0:07:37.20,normal_Wed,,0,0,0,,And Yukio's brain is a bit wrong, right?
+Dialogue: 0,0:07:37.20,0:07:39.24,normal_Wed,,0,0,0,,From what Matsushita says
+Dialogue: 0,0:07:39.07,0:07:40.25,wipe_Wed,,0,0,0,,This guy keeps talking about it
+Dialogue: 0,0:07:39.67,0:07:41.94,normal_Wed,,0,0,0,,They're obviously trying hard but still being told they don't get it
+Dialogue: 0,0:07:41.94,0:07:43.21,normal_Wed,,0,0,0,,I don't understand why he doesn't understand
+Dialogue: 0,0:07:43.21,0:07:44.61,normal_Wed,,0,0,0,,We all work very hard
+Dialogue: 0,0:07:44.61,0:07:46.21,normal_Wed,,0,0,0,,Really? What about Otake?
+Dialogue: 0,0:07:47.65,0:07:52.38,normal_Wed,,0,0,0,,Nadal who does not stop badmouthing his seniors
+Dialogue: 0,0:07:53.87,0:07:56.88,normal_Wed,,0,0,0,,Will soon be faced with the statement
+Dialogue: 0,0:07:57.76,0:08:04.20,normal_Wed,,0,0,0,,Nadal, do you have something to say to me
+Dialogue: 0,0:08:04.76,0:08:06.93,normal_Wed,,0,0,0,,No no
+Dialogue: 0,0:08:06.93,0:08:08.73,normal_Wed,,0,0,0,,There is
+Dialogue: 0,0:08:09.07,0:08:11.90,normal_Wed,,0,0,0,,Something I have to tell you?
+Dialogue: 0,0:08:13.34,0:08:15.01,normal_Wed,,0,0,0,,There is
+Dialogue: 0,0:08:17.48,0:08:19.91,normal_Wed,,0,0,0,,Is it about LUMINE? LUMINE
+Dialogue: 0,0:08:20.78,0:08:23.31,normal_Wed,,0,0,0,,Talking about your Heroshow segment?
+Dialogue: 0,0:08:24.68,0:08:27.42,normal_Wed,,0,0,0,,Talking about our segment?
+Dialogue: 0,0:08:28.98,0:08:31.96,normal_Wed,,0,0,0,,They've been doing the same thing for 18 years
+Dialogue: 0,0:08:33.12,0:08:35.79,normal_Wed,,0,0,0,,"It's always the same, and the people listening to it remember it", something like that
+Dialogue: 0,0:08:35.79,0:08:37.06,normal_Wed,,0,0,0,,I think someone said that
+Dialogue: 0,0:08:39.16,0:08:40.77,normal_Wed,,0,0,0,,Who said that?
+Dialogue: 0,0:08:41.00,0:08:42.50,normal_Wed,,0,0,0,,Who said it...
+Dialogue: 0,0:08:42.50,0:08:43.54,normal_Wed,,0,0,0,,Anthony did
+Dialogue: 0,0:08:44.94,0:08:46.44,normal_Wed,,0,0,0,,Anthony?
+Dialogue: 0,0:08:45.26,0:08:46.88,wipe_Wed,,0,0,0,,Immediately betrayed the man
+Dialogue: 0,0:08:46.87,0:08:48.71,normal_Wed,,0,0,0,,Is it really what Anthony said?
+Dialogue: 0,0:08:48.94,0:08:51.38,normal_Wed,,0,0,0,,"It's always Heroshow"
+Dialogue: 0,0:08:51.78,0:08:54.18,normal_Wed,,0,0,0,,Anthony? He was looking down on it?
+Dialogue: 0,0:08:54.18,0:08:57.52,normal_Wed,,0,0,0,,Funny... funny damage
+Dialogue: 0,0:08:57.52,0:08:58.85,normal_Wed,,0,0,0,,What does funny damage mean?
+Dialogue: 0,0:09:01.29,0:09:02.29,normal_Wed,,0,0,0,,I didn't understand either
+Dialogue: 0,0:09:04.09,0:09:07.69,normal_Wed,,0,0,0,,I've already heard about that, to be honest
+Dialogue: 0,0:09:07.93,0:09:09.49,normal_Wed,,0,0,0,,It reached my ears
+Dialogue: 0,0:09:11.13,0:09:12.93,normal_Wed,,0,0,0,,Don't eat the mushrooms
+Dialogue: 0,0:09:14.12,0:09:15.59,wipe_Wed,,0,0,0,,Finished it in one bite!
+Dialogue: 0,0:09:15.67,0:09:17.94,normal_Wed,,0,0,0,,I told you not to eat mushrooms
+Dialogue: 0,0:09:19.10,0:09:21.71,normal_Wed,,0,0,0,,I really do not know what you are talking about
+Dialogue: 0,0:09:21.71,0:09:23.61,normal_Wed,,0,0,0,,I haven't done anything
+Dialogue: 0,0:09:23.61,0:09:26.71,normal_Wed,,0,0,0,,I really do not want to be the one to say it, Nadal
+Dialogue: 0,0:09:27.18,0:09:29.41,normal_Wed,,0,0,0,,Eh...the private work thing?
+Dialogue: 0,0:09:31.25,0:09:34.52,normal_Wed,,0,0,0,,I really don't want to take private work, but I can barely afford to eat
+Dialogue: 0,0:09:34.95,0:09:35.75,normal_Wed,,0,0,0,,How often do you do it?
+Dialogue: 0,0:09:35.75,0:09:37.89,normal_Wed,,0,0,0,,Not that often
+Dialogue: 0,0:09:37.89,0:09:41.56,normal_Wed,,0,0,0,,This golden week, there are "Golden Private Shows" and such
+Dialogue: 0,0:09:41.93,0:09:43.46,normal_Wed,,0,0,0,,You can live well if you don't take private work
+Dialogue: 0,0:09:43.46,0:09:46.66,normal_Wed,,0,0,0,,Although I hate to say this
+Dialogue: 0,0:09:46.66,0:09:50.40,normal_Wed,,0,0,0,,ZAKO said this
+Dialogue: 0,0:09:50.40,0:09:52.04,normal_Wed,,0,0,0,,He said "Why is private work dark?"
+Dialogue: 0,0:09:52.04,0:09:53.61,normal_Wed,,0,0,0,,I said "Yeah"
+Dialogue: 0,0:09:53.61,0:09:57.31,normal_Wed,,0,0,0,,He replied "When the darkness is gone, the light comes"
+Dialogue: 0,0:09:57.31,0:09:57.81,normal_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:09:58.08,0:10:01.65,normal_Wed,,0,0,0,,Don't do private work, you're on TV after all
+Dialogue: 0,0:10:05.14,0:10:07.72,normal_Wed,,0,0,0,,Yes, I'm sorry
+Dialogue: 0,0:10:08.09,0:10:10.96,normal_Wed,,0,0,0,,But its not this... private work does not matter what
+Dialogue: 0,0:10:11.57,0:10:12.88,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:10:12.93,0:10:15.29,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:10:15.29,0:10:16.73,normal_Wed,,0,0,0,,X？
+Dialogue: 0,0:10:16.73,0:10:18.06,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:10:18.48,0:10:19.81,normal_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:10:19.81,0:10:20.96,normal_Wed,,0,0,0,,Not good not good
+Dialogue: 0,0:10:22.64,0:10:25.06,normal_Wed,,0,0,0,,So we disclose the truth
+Dialogue: 0,0:10:28.66,0:10:30.26,wipe_Wed,,0,0,0,,That face!
+Dialogue: 0,0:10:30.26,0:10:31.63,wipe_Wed,,0,0,0,,Always staring!
+Dialogue: 0,0:10:31.63,0:10:32.97,wipe_Wed,,0,0,0,,A good bad expression
+Dialogue: 0,0:10:39.28,0:10:42.29,normal_Wed,,0,0,0,,Wait a minute Fujimoto
+Dialogue: 0,0:10:42.29,0:10:45.28,normal_Wed,,0,0,0,,A lot of good info came out
+Dialogue: 0,0:10:45.28,0:10:46.92,normal_Wed,,0,0,0,,I also said the X thing
+Dialogue: 0,0:10:47.86,0:10:48.57,wipe_Wed,,0,0,0,,Look at his eyes
+Dialogue: 0,0:10:48.66,0:10:50.26,normal_Wed,,0,0,0,,What is this thing?
+Dialogue: 0,0:10:50.66,0:10:52.20,normal_Wed,,0,0,0,,What day of the week is it?
+Dialogue: 0,0:10:52.43,0:10:56.40,normal_Wed,,0,0,0,,Wed... Wednesday Downtown
+Dialogue: 0,0:10:56.40,0:10:57.90,normal_Wed,,0,0,0,,Seriously?
+Dialogue: 0,0:10:57.90,0:10:59.47,normal_Wed,,0,0,0,,Don't be like this, seriously
+Dialogue: 0,0:10:59.47,0:11:01.94,normal_Wed,,0,0,0,,FUJIWARA's Heroshow segment
+Dialogue: 0,0:11:02.17,0:11:03.61,normal_Wed,,0,0,0,,It's being looked down on
+Dialogue: 0,0:11:03.84,0:11:05.21,normal_Wed,,0,0,0,,By Anthony and you
+Dialogue: 0,0:11:05.21,0:11:07.78,normal_Wed,,0,0,0,,No...that's what everyone says
+Dialogue: 0,0:11:07.78,0:11:11.25,normal_Wed,,0,0,0,,What do you mean "everyone says so"?
+Dialogue: 0,0:11:12.04,0:11:16.67,normal_Wed,,0,0,0,,Next is also a senior and junior who have a good relationship in private
+Dialogue: 0,0:11:16.19,0:11:18.19,wipe_Wed,,0,0,0,,What about the master-disciple relationship?
+Dialogue: 0,0:11:17.99,0:11:19.96,normal_Wed,,0,0,0,,Recently I heard some bad rumors
+Dialogue: 0,0:11:19.96,0:11:23.19,normal_Wed,,0,0,0,,Is there something you're not telling me
+Dialogue: 0,0:11:24.00,0:11:24.72,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:11:28.93,0:11:30.50,normal_Wed,,0,0,0,,Bento? The bento thing?
+Dialogue: 0,0:11:30.50,0:11:33.00,normal_Wed,,0,0,0,,Bento...ah, bento...ah
+Dialogue: 0,0:11:33.97,0:11:35.34,normal_Wed,,0,0,0,,Bento?
+Dialogue: 0,0:11:37.54,0:11:39.68,normal_Wed,,0,0,0,,I took the bento?
+Dialogue: 0,0:11:39.68,0:11:40.91,normal_Wed,,0,0,0,,Who?
+Dialogue: 0,0:11:40.91,0:11:41.61,normal_Wed,,0,0,0,,Me
+Dialogue: 0,0:11:41.61,0:11:42.91,normal_Wed,,0,0,0,,Who's?
+Dialogue: 0,0:11:43.65,0:11:45.68,normal_Wed,,0,0,0,,Yours
+Dialogue: 0,0:11:45.68,0:11:46.75,normal_Wed,,0,0,0,,From the lounge?
+Dialogue: 0,0:11:46.75,0:11:47.49,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:11:48.08,0:11:50.35,normal_Wed,,0,0,0,,You took my bento from the lounge?
+Dialogue: 0,0:11:50.35,0:11:52.36,normal_Wed,,0,0,0,,Yes, I'm sorry
+Dialogue: 0,0:11:53.42,0:11:55.13,normal_Wed,,0,0,0,,Is it this?
+Dialogue: 0,0:11:55.79,0:11:57.93,normal_Wed,,0,0,0,,How can it be this?
+Dialogue: 0,0:11:58.06,0:11:59.40,normal_Wed,,0,0,0,,I went with various people...
+Dialogue: 0,0:11:59.40,0:12:03.17,normal_Wed,,0,0,0,,I have worked in various places with different people and done it there
+Dialogue: 0,0:12:03.70,0:12:04.74,normal_Wed,,0,0,0,,Bento thief?
+Dialogue: 0,0:12:04.74,0:12:06.57,normal_Wed,,0,0,0,,Yes... yes
+Dialogue: 0,0:12:07.34,0:12:09.61,normal_Wed,,0,0,0,,I've done it to loads of my seniors
+Dialogue: 0,0:12:09.61,0:12:12.28,normal_Wed,,0,0,0,,Who? Your seniors?
+Dialogue: 0,0:12:14.32,0:12:16.45,normal_Wed,,0,0,0,,Viking's Nishimura and a few others
+Dialogue: 0,0:12:16.85,0:12:18.35,normal_Wed,,0,0,0,,What's wrong with you?
+Dialogue: 0,0:12:18.35,0:12:20.18,normal_Wed,,0,0,0,,Who? Viking's Nishimura
+Dialogue: 0,0:12:20.18,0:12:21.75,normal_Wed,,0,0,0,,Nishimura
+Dialogue: 0,0:12:22.72,0:12:24.62,normal_Wed,,0,0,0,,But this doesn't constitute a crime, right?
+Dialogue: 0,0:12:24.62,0:12:27.09,normal_Wed,,0,0,0,,I didn't say anything about crime in the first place
+Dialogue: 0,0:12:28.09,0:12:31.83,normal_Wed,,0,0,0,,But isn't this something that everyone knows
+Dialogue: 0,0:12:32.26,0:12:34.23,normal_Wed,,0,0,0,,I don't care about the bento
+Dialogue: 0,0:12:36.43,0:12:38.50,normal_Wed,,0,0,0,,That? The thing with the AV actress?
+Dialogue: 0,0:12:38.87,0:12:41.07,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:12:41.34,0:12:45.38,normal_Wed,,0,0,0,,Having dinner with the AV actress?
+Dialogue: 0,0:12:47.01,0:12:50.72,normal_Wed,,0,0,0,,My wife realised
+Dialogue: 0,0:12:50.72,0:12:51.52,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:12:51.78,0:12:55.55,normal_Wed,,0,0,0,,Kumomoto... I told her it was your fault
+Dialogue: 0,0:12:56.25,0:13:04.43,normal_Wed,,0,0,0,,And now my wife is wary of you
+Dialogue: 0,0:13:04.43,0:13:06.33,normal_Wed,,0,0,0,,You've overthinking it
+Dialogue: 0,0:13:08.17,0:13:11.13,normal_Wed,,0,0,0,,As a liaison with an AV actress is exposed...
+Dialogue: 0,0:13:12.08,0:13:15.22,normal_Wed,,0,0,0,,Kumomot's reputation is unexpectedly brought into question
+Dialogue: 0,0:13:15.51,0:13:17.49,wipe_Wed,,0,0,0,,Yeah, this'll happen
+Dialogue: 0,0:13:16.49,0:13:17.68,normal_Wed,,0,0,0,,And there's more
+Dialogue: 0,0:13:17.68,0:13:18.68,normal_Wed,,0,0,0,,Macau?
+Dialogue: 0,0:13:18.98,0:13:20.61,normal_Wed,,0,0,0,,Eh?\N  -Macau?
+Dialogue: 0,0:13:20.61,0:13:21.35,normal_Wed,,0,0,0,,Macau?
+Dialogue: 0,0:13:21.78,0:13:25.32,normal_Wed,,0,0,0,,In Macau...
+Dialogue: 0,0:13:26.05,0:13:27.62,normal_Wed,,0,0,0,,The thing about that woman?
+Dialogue: 0,0:13:27.62,0:13:28.99,normal_Wed,,0,0,0,,Eh? Woman from Macau?
+Dialogue: 0,0:13:29.29,0:13:31.09,normal_Wed,,0,0,0,,Was I there?
+Dialogue: 0,0:13:31.09,0:13:32.36,normal_Wed,,0,0,0,,You were there
+Dialogue: 0,0:13:32.36,0:13:34.69,normal_Wed,,0,0,0,,We went together, right?
+Dialogue: 0,0:13:34.69,0:13:35.49,normal_Wed,,0,0,0,,Don't don't
+Dialogue: 0,0:13:36.76,0:13:38.20,normal_Wed,,0,0,0,,No no no
+Dialogue: 0,0:13:39.27,0:13:45.66,normal_Wed,,0,0,0,,With both about to suffer, the verification is brought to an end
+Dialogue: 0,0:13:45.66,0:13:46.50,wipe_Wed,,0,0,0,,This...
+Dialogue: 0,0:13:51.31,0:13:55.65,normal_Wed,,0,0,0,,Due to the damage it will bring to Kumomot's reputation, please cut this out
+Dialogue: 0,0:13:56.01,0:13:58.05,normal_Wed,,0,0,0,,That's reasonable, right?
+Dialogue: 0,0:13:58.05,0:14:02.02,normal_Wed,,0,0,0,,Kumomoto's wife... right?
+Dialogue: 0,0:14:02.02,0:14:03.49,normal_Wed,,0,0,0,,I'm sorry, Kumomoto's
+Dialogue: 0,0:14:03.49,0:14:06.36,normal_Wed,,0,0,0,,I'm so sorry
+Dialogue: 0,0:14:07.04,0:14:12.74,normal_Wed,,0,0,0,,Last is Morita who will be questioning his junior
+Dialogue: 0,0:14:26.98,0:14:33.21,normal_Wed,,0,0,0,,Last is Morita who will be questioning his junior
+Dialogue: 0,0:14:33.32,0:14:35.49,normal_Wed,,0,0,0,,You two have something to talk about
+Dialogue: 0,0:14:35.49,0:14:37.79,normal_Wed,,0,0,0,,Eh, what? What? What? What? What?
+Dialogue: 0,0:14:37.79,0:14:38.58,normal_Wed,,0,0,0,,So i'm leaving
+Dialogue: 0,0:14:38.58,0:14:39.96,normal_Wed,,0,0,0,,Wait a bit
+Dialogue: 0,0:14:42.59,0:14:44.26,normal_Wed,,0,0,0,,It doesn't matter if he's here?
+Dialogue: 0,0:14:44.26,0:14:46.33,normal_Wed,,0,0,0,,First of all, it's just us two
+Dialogue: 0,0:14:46.40,0:14:49.90,normal_Wed,,0,0,0,,First? What do you mean, first?
+Dialogue: 0,0:14:52.30,0:14:54.17,normal_Wed,,0,0,0,,Eh, what? What? What? What? What?
+Dialogue: 0,0:14:54.17,0:15:01.98,normal_Wed,,0,0,0,,Is there anything you have to say to me?
+Dialogue: 0,0:15:03.15,0:15:05.42,normal_Wed,,0,0,0,,Something I have to say?
+Dialogue: 0,0:15:05.42,0:15:06.65,normal_Wed,,0,0,0,,Hmm
+Dialogue: 0,0:15:06.65,0:15:08.52,normal_Wed,,0,0,0,,No there isn't
+Dialogue: 0,0:15:08.92,0:15:10.67,normal_Wed,,0,0,0,,There must be something you have you say to me
+Dialogue: 0,0:15:10.67,0:15:16.29,normal_Wed,,0,0,0,,I don't understand your reply at all
+Dialogue: 0,0:15:16.59,0:15:18.76,normal_Wed,,0,0,0,,I already know
+Dialogue: 0,0:15:19.00,0:15:20.65,normal_Wed,,0,0,0,,What kind of interrogation is this?
+Dialogue: 0,0:15:20.65,0:15:22.13,normal_Wed,,0,0,0,,It's not like that
+Dialogue: 0,0:15:22.13,0:15:23.90,normal_Wed,,0,0,0,,Not "not like that"
+Dialogue: 0,0:15:24.47,0:15:26.36,normal_Wed,,0,0,0,,If you know, then say it
+Dialogue: 0,0:15:26.44,0:15:28.11,normal_Wed,,0,0,0,,I want to hear it from your own mouth
+Dialogue: 0,0:15:28.11,0:15:30.47,normal_Wed,,0,0,0,,What are you angry about?
+Dialogue: 0,0:15:30.47,0:15:33.28,normal_Wed,,0,0,0,,I am completely confused about what is going on here
+Dialogue: 0,0:15:31.97,0:15:33.14,wipe_Wed,,0,0,0,,The atmosphere is getting interesting
+Dialogue: 0,0:15:33.28,0:15:34.68,normal_Wed,,0,0,0,,What exactly do you want to hear?
+Dialogue: 0,0:15:34.75,0:15:35.85,normal_Wed,,0,0,0,,I already know
+Dialogue: 0,0:15:35.85,0:15:38.18,normal_Wed,,0,0,0,,If you know then just say it
+Dialogue: 0,0:15:38.32,0:15:40.75,normal_Wed,,0,0,0,,I want you to hear it from your own mouth!
+Dialogue: 0,0:15:40.75,0:15:42.89,normal_Wed,,0,0,0,,But there's nothing, I've said nothing
+Dialogue: 0,0:15:42.89,0:15:44.16,normal_Wed,,0,0,0,,I already know!
+Dialogue: 0,0:15:44.16,0:15:47.66,normal_Wed,,0,0,0,,Then say it!
+Dialogue: 0,0:15:47.66,0:15:49.49,normal_Wed,,0,0,0,,You just keep saying "I know, I know!"
+Dialogue: 0,0:15:49.84,0:15:55.18,normal_Wed,,0,0,0,,Unlike the previous three groups, this group does not have a particularly obvious senior-junior relationship
+Dialogue: 0,0:15:56.10,0:15:58.62,normal_Wed,,0,0,0,,Thus, the scene turns into an argument
+Dialogue: 0,0:15:59.30,0:16:02.27,normal_Wed,,0,0,0,,We have set up a personal office
+Dialogue: 0,0:16:02.51,0:16:06.54,normal_Wed,,0,0,0,,It is absolutely necessary to understand each other. It is not possible for us not to share things, right?
+Dialogue: 0,0:16:06.54,0:16:09.05,normal_Wed,,0,0,0,,Since it's such an important thing, just say it
+Dialogue: 0,0:16:09.05,0:16:10.38,normal_Wed,,0,0,0,,Why do you refuse to say it?
+Dialogue: 0,0:16:10.38,0:16:14.45,normal_Wed,,0,0,0,,Say it, or do you not know anything?
+Dialogue: 0,0:16:14.45,0:16:16.12,normal_Wed,,0,0,0,,What do you really want to hear?
+Dialogue: 0,0:16:16.12,0:16:16.92,normal_Wed,,0,0,0,,That is, with
+Dialogue: 0,0:16:16.92,0:16:19.52,normal_Wed,,0,0,0,,Don't just say "you know", it won't get the conversation going
+Dialogue: 0,0:16:20.02,0:16:21.79,normal_Wed,,0,0,0,,What do you hope to achieve with this type of set phrase?
+Dialogue: 0,0:16:21.79,0:16:25.23,normal_Wed,,0,0,0,,It's not a "set phrase"
+Dialogue: 0,0:16:25.43,0:16:29.70,normal_Wed,,0,0,0,,Then just come with some evidence and say "what is this?"
+Dialogue: 0,0:16:29.70,0:16:31.94,normal_Wed,,0,0,0,,You've gotta do both
+Dialogue: 0,0:16:32.90,0:16:36.01,normal_Wed,,0,0,0,,It's because i'm not doing that that you don't want to do it
+Dialogue: 0,0:16:36.31,0:16:37.43,normal_Wed,,0,0,0,,What do you want to do then?
+Dialogue: 0,0:16:37.43,0:16:40.48,normal_Wed,,0,0,0,,If you confessed from the start I wouldn't be angry
+Dialogue: 0,0:16:40.48,0:16:43.25,normal_Wed,,0,0,0,,What, is it a business thing?
+Dialogue: 0,0:16:43.25,0:16:44.98,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:16:45.48,0:16:47.22,normal_Wed,,0,0,0,,What? Business?
+Dialogue: 0,0:16:49.22,0:16:51.69,normal_Wed,,0,0,0,,Yeah, business? Yes
+Dialogue: 0,0:16:52.19,0:16:55.39,normal_Wed,,0,0,0,,So it's that!
+Dialogue: 0,0:16:55.39,0:17:00.97,normal_Wed,,0,0,0,,Well... I took on jobs and so on...
+Dialogue: 0,0:17:00.97,0:17:05.54,normal_Wed,,0,0,0,,I went alone and did a hosting gig
+Dialogue: 0,0:17:06.04,0:17:11.78,normal_Wed,,0,0,0,,I didn't tell the company that I did it
+Dialogue: 0,0:17:14.05,0:17:17.48,normal_Wed,,0,0,0,,Eh, the company?
+Dialogue: 0,0:17:18.25,0:17:19.58,normal_Wed,,0,0,0,,Is that not it?
+Dialogue: 0,0:17:20.88,0:17:22.69,normal_Wed,,0,0,0,,He took the bait in the end in such a typical manner
+Dialogue: 0,0:17:24.77,0:17:30.22,normal_Wed,,0,0,0,,The duo and their manager are the only three people in their company
+Dialogue: 0,0:17:30.22,0:17:32.45,normal_Wed,,0,0,0,,And thus engage in a private business-focused exchange
+Dialogue: 0,0:17:34.13,0:17:38.13,normal_Wed,,0,0,0,,Morita, who couldn't hide his shakiness in the face of such a real betrayal
+Dialogue: 0,0:17:38.13,0:17:40.64,normal_Wed,,0,0,0,,This is not the same as ordinary private work
+Dialogue: 0,0:17:40.64,0:17:41.81,normal_Wed,,0,0,0,,Yeah, because it's personal
+Dialogue: 0,0:17:41.97,0:17:43.55,normal_Wed,,0,0,0,,Eh? What? You took a job?
+Dialogue: 0,0:17:43.55,0:17:45.88,normal_Wed,,0,0,0,,Isn't that the thing?
+Dialogue: 0,0:17:47.11,0:17:48.78,normal_Wed,,0,0,0,,It's also a bit related to this
+Dialogue: 0,0:17:48.78,0:17:50.95,normal_Wed,,0,0,0,,I don't think this is what you were referring to
+Dialogue: 0,0:17:50.95,0:17:52.28,normal_Wed,,0,0,0,,It's not about this, is it?
+Dialogue: 0,0:17:53.38,0:17:54.92,normal_Wed,,0,0,0,,What about the pay?
+Dialogue: 0,0:17:54.93,0:17:56.52,normal_Wed,,0,0,0,,How much did you get?
+Dialogue: 0,0:17:56.52,0:17:59.22,normal_Wed,,0,0,0,,Basically just pocket money
+Dialogue: 0,0:17:59.22,0:18:01.59,normal_Wed,,0,0,0,,We're supposed to share half of everything!
+Dialogue: 0,0:18:01.59,0:18:04.80,normal_Wed,,0,0,0,,You take a share of all my solo work
+Dialogue: 0,0:18:05.06,0:18:07.77,normal_Wed,,0,0,0,,That's because it's all on the firm's books, so it can't be helped
+Dialogue: 0,0:18:07.77,0:18:09.77,normal_Wed,,0,0,0,,Then isn't it wrong to do it outside of the company?
+Dialogue: 0,0:18:09.77,0:18:11.44,normal_Wed,,0,0,0,,How much did you take? Enough is enough
+Dialogue: 0,0:18:11.44,0:18:14.04,normal_Wed,,0,0,0,,Just say how much you've taken, and don't worry about the rest
+Dialogue: 0,0:18:14.21,0:18:16.71,normal_Wed,,0,0,0,,How much did you get paid?
+Dialogue: 0,0:18:16.71,0:18:17.71,normal_Wed,,0,0,0,,20
+Dialogue: 0,0:18:19.54,0:18:21.28,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:18:21.28,0:18:22.35,normal_Wed,,0,0,0,,20？
+Dialogue: 0,0:18:23.41,0:18:24.58,normal_Wed,,0,0,0,,You didn't talk about it with Yamane?
+Dialogue: 0,0:18:24.58,0:18:26.25,normal_Wed,,0,0,0,,I didn't, so i'm sorry, but this is beside the point
+Dialogue: 0,0:18:26.25,0:18:29.29,normal_Wed,,0,0,0,,This is obviously not what you wanted to ask about
+Dialogue: 0,0:18:29.29,0:18:31.39,normal_Wed,,0,0,0,,Saying this out loud means i've already half lost!
+Dialogue: 0,0:18:33.47,0:18:34.76,normal_Wed,,0,0,0,,It's not a loss
+Dialogue: 0,0:18:34.76,0:18:35.83,normal_Wed,,0,0,0,,It is because of the way you are talking
+Dialogue: 0,0:18:35.83,0:18:37.53,normal_Wed,,0,0,0,,A half-loss
+Dialogue: 0,0:18:37.53,0:18:41.47,normal_Wed,,0,0,0,,No, no, no. \N -A half loss means you still have another half
+Dialogue: 0,0:18:41.47,0:18:42.43,normal_Wed,,0,0,0,,No no no
+Dialogue: 0,0:18:42.43,0:18:44.54,normal_Wed,,0,0,0,,You just said half of it  \N-Wait, wait, wait, it's just one
+Dialogue: 0,0:18:44.54,0:18:48.17,normal_Wed,,0,0,0,,It's not because there are two halves that you say "half lost"
+Dialogue: 0,0:18:48.54,0:18:50.94,normal_Wed,,0,0,0,,Something needs to be cut into two halves to have lost half of it
+Dialogue: 0,0:18:50.94,0:18:53.14,normal_Wed,,0,0,0,,Do you have something you need to say?
+Dialogue: 0,0:18:54.58,0:18:55.71,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:18:55.71,0:18:58.55,normal_Wed,,0,0,0,,You also have something to say to me, don't you?
+Dialogue: 0,0:18:59.14,0:19:04.02,normal_Wed,,0,0,0,,Suddenly, an unanticipated counterattack is launched
+Dialogue: 0,0:19:05.12,0:19:08.89,normal_Wed,,0,0,0,,Like you said, it has to come out of your own mouth
+Dialogue: 0,0:19:10.53,0:19:12.43,normal_Wed,,0,0,0,,No, really
+Dialogue: 0,0:19:12.90,0:19:14.89,normal_Wed,,0,0,0,,That's enough out of you!
+Dialogue: 0,0:19:14.89,0:19:15.93,normal_Wed,,0,0,0,,Don't do this!
+Dialogue: 0,0:19:15.93,0:19:17.03,normal_Wed,,0,0,0,,This question is too annoying
+Dialogue: 0,0:19:17.03,0:19:19.57,normal_Wed,,0,0,0,,So, what about that? In Fukuoka?
+Dialogue: 0,0:19:22.34,0:19:23.41,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:19:23.81,0:19:26.04,normal_Wed,,0,0,0,,When was it?
+Dialogue: 0,0:19:26.04,0:19:28.23,normal_Wed,,0,0,0,,You took a job at the beginning of the year, right?
+Dialogue: 0,0:19:31.72,0:19:36.85,normal_Wed,,0,0,0,,At that time, we agreed to go to dinner with our clients
+Dialogue: 0,0:19:36.85,0:19:40.12,normal_Wed,,0,0,0,,Only you said stuff like "I've got something later"
+Dialogue: 0,0:19:40.12,0:19:42.89,normal_Wed,,0,0,0,,You're the only one who didn't show up, saying "I'm going home"
+Dialogue: 0,0:19:43.53,0:19:46.56,normal_Wed,,0,0,0,,Yes, I said, "I'm not feeling well, I'm going home."
+Dialogue: 0,0:19:46.96,0:19:48.57,normal_Wed,,0,0,0,,Bad health but you actually went out, right?
+Dialogue: 0,0:19:51.70,0:19:52.34,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:19:52.50,0:19:54.44,normal_Wed,,0,0,0,,You were in bad health but you went out?
+Dialogue: 0,0:19:57.84,0:19:58.74,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:19:58.74,0:20:00.04,normal_Wed,,0,0,0,,What do you mean "huh"?
+Dialogue: 0,0:20:00.04,0:20:01.38,normal_Wed,,0,0,0,,You went out at that time right
+Dialogue: 0,0:20:01.41,0:20:02.91,normal_Wed,,0,0,0,,No I didn't
+Dialogue: 0,0:20:02.91,0:20:03.98,normal_Wed,,0,0,0,,I already know!
+Dialogue: 0,0:20:03.98,0:20:05.05,normal_Wed,,0,0,0,,No no no no
+Dialogue: 0,0:20:05.05,0:20:07.07,normal_Wed,,0,0,0,,That's enough. Don't go on like this!
+Dialogue: 0,0:20:07.07,0:20:09.09,normal_Wed,,0,0,0,,You went out \N -Huh?
+Dialogue: 0,0:20:09.19,0:20:10.72,normal_Wed,,0,0,0,,One of the girls sent me a private message
+Dialogue: 0,0:20:10.72,0:20:12.76,normal_Wed,,0,0,0,,No, no, no, no, no, wait, wait
+Dialogue: 0,0:20:12.76,0:20:13.79,normal_Wed,,0,0,0,,No, no, no, wait
+Dialogue: 0,0:20:13.79,0:20:14.26,normal_Wed,,0,0,0,,I know!
+Dialogue: 0,0:20:14.26,0:20:15.93,normal_Wed,,0,0,0,,No, I'm talking about you
+Dialogue: 0,0:20:15.93,0:20:16.59,normal_Wed,,0,0,0,,I already know about it!
+Dialogue: 0,0:20:16.59,0:20:17.29,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:20:17.56,0:20:20.43,normal_Wed,,0,0,0,,I got a private message from Fukuoka!
+Dialogue: 0,0:20:20.43,0:20:22.47,normal_Wed,,0,0,0,,"I work at a hostess club", like that, and you went there
+Dialogue: 0,0:20:22.47,0:20:23.97,normal_Wed,,0,0,0,,That's enough, that's enough!
+Dialogue: 0,0:20:23.97,0:20:26.54,normal_Wed,,0,0,0,,This topic is closed
+Dialogue: 0,0:20:26.54,0:20:30.27,normal_Wed,,0,0,0,,It's weird you don't wanna talk about yourself
+Dialogue: 0,0:20:30.27,0:20:31.14,normal_Wed,,0,0,0,,I'm tired, i'm tired
+Dialogue: 0,0:20:31.14,0:20:32.74,normal_Wed,,0,0,0,,I'm the one that's tired!
+Dialogue: 0,0:20:32.74,0:20:33.71,normal_Wed,,0,0,0,,I'm really tired
+Dialogue: 0,0:20:34.38,0:20:36.97,normal_Wed,,0,0,0,,And so, we reveal the truth
+Dialogue: 0,0:20:37.08,0:20:39.15,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:20:39.15,0:20:42.69,normal_Wed,,0,0,0,,What? What? What? What? What? What? What? Enough, i'm tired
+Dialogue: 0,0:20:42.69,0:20:43.49,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:20:43.95,0:20:46.82,normal_Wed,,0,0,0,,I don't get what's going on
+Dialogue: 0,0:20:46.82,0:20:49.09,normal_Wed,,0,0,0,,Eh? You, eh?
+Dialogue: 0,0:20:49.09,0:20:51.33,normal_Wed,,0,0,0,,What is this all about?
+Dialogue: 0,0:20:51.33,0:20:52.30,normal_Wed,,0,0,0,,You...
+Dialogue: 0,0:20:52.30,0:20:53.56,normal_Wed,,0,0,0,,No, it's you, isn't it?
+Dialogue: 0,0:20:53.56,0:20:54.53,normal_Wed,,0,0,0,,You did something, didn't you?
+Dialogue: 0,0:20:54.53,0:20:56.00,normal_Wed,,0,0,0,,It's strange for you to ask me "what's going on?"
+Dialogue: 0,0:20:56.00,0:20:58.00,normal_Wed,,0,0,0,,So what is going on?
+Dialogue: 0,0:20:58.00,0:20:58.60,normal_Wed,,0,0,0,,Isn't it you?
+Dialogue: 0,0:20:59.54,0:21:06.98,normal_Wed,,0,0,0,,Due to the counterattack, Morita thinks that he has been counter-pranked
+Dialogue: 0,0:21:07.88,0:21:10.71,normal_Wed,,0,0,0,,A trick, right? No?
+Dialogue: 0,0:21:10.88,0:21:13.18,normal_Wed,,0,0,0,,I knew nothing of it
+Dialogue: 0,0:21:13.18,0:21:16.02,normal_Wed,,0,0,0,,So what is this?
+Dialogue: 0,0:21:16.02,0:21:17.80,normal_Wed,,0,0,0,,What kind of magic is this?
+Dialogue: 0,0:21:17.80,0:21:18.86,normal_Wed,,0,0,0,,I don't know!
+Dialogue: 0,0:21:19.35,0:21:23.49,normal_Wed,,0,0,0,,{\c&H0201FB&\3c&HFFFFFF&}In summary\N{\c\3c}this a theory that no one benefits from
+Dialogue: 0,0:21:25.86,0:21:27.27,normal_Wed,,0,0,0,,Very explosive
+Dialogue: 0,0:21:27.27,0:21:28.18,normal_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:21:28.18,0:21:29.39,normal_Wed,,0,0,0,,Yeah, no good
+Dialogue: 0,0:21:29.39,0:21:32.24,normal_Wed,,0,0,0,,It became like an Obon Kobon event
+Dialogue: 0,0:21:33.28,0:21:34.43,normal_Wed,,0,0,0,,The way of quarrelling
+Dialogue: 0,0:21:34.43,0:21:35.83,normal_Wed,,0,0,0,,I'm relieved about Teshita
+Dialogue: 0,0:21:36.63,0:21:38.02,normal_Wed,,0,0,0,,Each reveal was quite cute
+Dialogue: 0,0:21:38.41,0:21:40.64,normal_Wed,,0,0,0,,Wants to run a Western restaurant and stuff like that
+Dialogue: 0,0:21:41.57,0:21:42.88,normal_Wed,,0,0,0,,I'm cheering him on
+Dialogue: 2,0:21:44.90,0:21:47.35,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 2,0:21:53.84,0:21:55.77,normal_Wed,,0,0,0,,Zun's Iio!
+Dialogue: 2,0:21:58.07,0:21:59.32,normal_Wed,,0,0,0,,First time seeing you
+Dialogue: 2,0:21:59.32,0:22:02.70,normal_Wed,,0,0,0,,Matsumoto, I've been here two or three times already
+Dialogue: 2,0:22:03.20,0:22:05.89,normal_Wed,,0,0,0,,Hamada, what has happened to him?
+Dialogue: 2,0:22:05.89,0:22:07.30,normal_Wed,,0,0,0,,What theories have you brought so far?
+Dialogue: 2,0:22:07.30,0:22:13.58,normal_Wed,,0,0,0,,5 years ago, Udo's good nature is insane
+Dialogue: 2,0:22:13.58,0:22:15.02,normal_Wed,,0,0,0,,Oh yeah
+Dialogue: 2,0:22:15.02,0:22:18.94,normal_Wed,,0,0,0,,What was particularly unusual about that verification
+Dialogue: 2,0:22:18.94,0:22:21.58,normal_Wed,,0,0,0,,Was Udo's various apologies
+Dialogue: 2,0:22:21.58,0:22:26.02,normal_Wed,,0,0,0,,He was sorry for everything. \N -He apologized for everything
+Dialogue: 2,0:22:26.02,0:22:28.24,normal_Wed,,0,0,0,,"I'm sorry for almost hitting you"
+Dialogue: 2,0:22:28.24,0:22:30.33,normal_Wed,,0,0,0,,No one even noticed  \N-Indeed
+Dialogue: 2,0:22:30.33,0:22:33.66,normal_Wed,,0,0,0,,Last summer, I sat in front of the air conditioner
+Dialogue: 2,0:22:33.66,0:22:36.32,normal_Wed,,0,0,0,,Udo passed between me and the air conditioner
+Dialogue: 2,0:22:36.32,0:22:38.05,normal_Wed,,0,0,0,,Then he turned around and said
+Dialogue: 2,0:22:38.05,0:22:44.07,normal_Wed,,0,0,0,,"Sorry about blocking the cold air from the air conditioner for a moment, Iio"
+Dialogue: 2,0:22:44.22,0:22:48.21,normal_Wed,,0,0,0,,In this regard, we have brought this project
+Dialogue: 2,0:22:48.91,0:22:52.28,normal_Wed,,0,0,0,,Kyaeen's One-day Electric Linked Life
+Dialogue: 2,0:22:54.42,0:22:56.15,normal_Wed,,0,0,0,,One-day Electric Linked Life
+Dialogue: 2,0:22:56.15,0:22:58.96,normal_Wed,,0,0,0,,Every time Udo says "sorry"
+Dialogue: 2,0:22:58.96,0:23:02.26,normal_Wed,,0,0,0,,Amano will receive a shock of electricity
+Dialogue: 2,0:23:02.40,0:23:04.26,normal_Wed,,0,0,0,,This is pretty bad  \N-It's awful
+Dialogue: 2,0:23:04.26,0:23:08.64,normal_Wed,,0,0,0,,The question is, can Amano solve the mystery?
+Dialogue: 2,0:23:08.64,0:23:10.47,normal_Wed,,0,0,0,,And stop the shocks
+Dialogue: 2,0:23:12.47,0:23:15.51,normal_Wed,,0,0,0,,Again, this is the type of project that benefits no one
+Dialogue: 2,0:23:16.11,0:23:20.07,normal_Wed,,0,0,0,,So, the one being shocked is Amano
+Dialogue: 2,0:23:20.07,0:23:23.18,normal_Wed,,0,0,0,,However, the source of the current
+Dialogue: 2,0:23:23.46,0:23:26.23,normal_Wed,,0,0,0,,Has been previously explored
+Dialogue: 1,0:23:25.29,0:23:26.23,wipe_Wed,,0,0,0,,This is the issue
+Dialogue: 1,0:23:26.23,0:23:27.24,wipe_Wed,,0,0,0,,Yes, yes, yes
+Dialogue: 2,0:23:27.32,0:23:30.15,normal_Wed,,0,0,0,,Sorry, please take care of me
+Dialogue: 2,0:23:30.74,0:23:33.60,normal_Wed,,0,0,0,,Udo's mantra: "Sorry"
+Dialogue: 2,0:23:34.92,0:23:39.36,normal_Wed,,0,0,0,,At that time, to co-stars, staff and even agents
+Dialogue: 2,0:23:39.36,0:23:42.09,normal_Wed,,0,0,0,,He apologized like crazy and talked endlessly
+Dialogue: 2,0:23:43.65,0:23:45.47,normal_Wed,,0,0,0,,In this schedule
+Dialogue: 2,0:23:45.47,0:23:52.18,normal_Wed,,0,0,0,,Will Amano be able to detect the linkage and stop the current?
+Dialogue: 2,0:23:52.92,0:23:56.35,normal_Wed,,0,0,0,,So, at 10:00 a.m., it starts with
+Dialogue: 2,0:23:56.60,0:24:00.40,normal_Wed,,0,0,0,,Artiste Navigation Yeah!
+Dialogue: 2,0:24:02.25,0:24:05.27,normal_Wed,,0,0,0,,Using the Sunshine Shopping Building in Ikebukuro as a stage
+Dialogue: 2,0:24:05.27,0:24:10.20,normal_Wed,,0,0,0,,Emotional Udo's trip begins!
+Dialogue: 2,0:24:11.07,0:24:12.63,normal_Wed,,0,0,0,,Before you know it
+Dialogue: 2,0:24:13.16,0:24:14.47,normal_Wed,,0,0,0,,Have you been to Sunshine City?
+Dialogue: 2,0:24:14.47,0:24:16.27,normal_Wed,,0,0,0,,I was just here not long ago
+Dialogue: 2,0:24:16.53,0:24:19.07,normal_Wed,,0,0,0,,There's a planetarium.  \N-Oh, oh, planetarium
+Dialogue: 2,0:24:19.33,0:24:21.84,normal_Wed,,0,0,0,,I remember, Amano he...
+Dialogue: 2,0:24:21.84,0:24:26.00,normal_Wed,,0,0,0,,He worked as a planetarium narrator
+Dialogue: 2,0:24:26.00,0:24:30.28,normal_Wed,,0,0,0,,I think it was here in Ikebukuro Sunshine
+Dialogue: 2,0:24:30.28,0:24:31.11,normal_Wed,,0,0,0,,If not then {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:24:31.35,0:24:32.28,normal_Wed,,0,0,0,,If not then{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:24:32.85,0:24:38.29,normal_Wed,,0,0,0,,It only takes 5 minutes and reaching the topic of Amano for him to say sorry for the first time
+Dialogue: 2,0:24:39.16,0:24:43.36,normal_Wed,,0,0,0,,So, Amano, who is called out for a fake meeting
+Dialogue: 2,0:24:43.36,0:24:45.92,normal_Wed,,0,0,0,,Will taste his first shot of electricity
+Dialogue: 2,0:24:47.46,0:24:52.10,normal_Wed,,0,0,0,,Ow ow ow ow!
+Dialogue: 1,0:24:51.41,0:24:52.82,wipe_Wed,,0,0,0,,His meat is hanging out
+Dialogue: 1,0:24:54.59,0:24:56.56,wipe_Wed,,0,0,0,,A naughty peek at the belly
+Dialogue: 2,0:24:55.71,0:24:57.81,normal_Wed,,0,0,0,,Ow!
+Dialogue: 2,0:25:00.18,0:25:01.25,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 2,0:25:01.48,0:25:03.11,normal_Wed,,0,0,0,,This is scary...
+Dialogue: 2,0:25:03.76,0:25:07.09,normal_Wed,,0,0,0,,Amano, confused by the sudden electric current
+Dialogue: 2,0:25:07.09,0:25:08.50,normal_Wed,,0,0,0,,Is suddenly greeted by the program staff
+Dialogue: 2,0:25:12.52,0:25:15.56,normal_Wed,,0,0,0,,What the hell is this?
+Dialogue: 2,0:25:15.66,0:25:19.30,normal_Wed,,0,0,0,,We are Wednesday Downtown
+Dialogue: 2,0:25:19.80,0:25:22.17,normal_Wed,,0,0,0,,It hurts. Did you guys just do that?\N  -Yes
+Dialogue: 2,0:25:22.17,0:25:26.10,normal_Wed,,0,0,0,,What what what what what what, what a bunch of weirdos you are!
+Dialogue: 2,0:25:26.10,0:25:28.84,normal_Wed,,0,0,0,,What the...what the hell? What are you verifying?
+Dialogue: 2,0:25:30.08,0:25:34.66,normal_Wed,,0,0,0,,Faced with an unaccustomed trick, it takes a while for Amano to get in the mood
+Dialogue: 2,0:25:34.92,0:25:38.08,normal_Wed,,0,0,0,,Subsequently, he is fitted with an electrical device
+Dialogue: 2,0:25:38.49,0:25:39.45,normal_Wed,,0,0,0,,Then
+Dialogue: 2,0:25:39.85,0:25:42.32,normal_Wed,,0,0,0,,So cute, so cute
+Dialogue: 2,0:25:42.32,0:25:44.35,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}, can I ask you a personal question?
+Dialogue: 2,0:25:45.79,0:25:48.09,normal_Wed,,0,0,0,,Idiot, idiot!
+Dialogue: 2,0:25:49.63,0:25:50.69,normal_Wed,,0,0,0,,Too... {\c&H14DFF8&\3c&H050510&}sorry,{\r} really
+Dialogue: 2,0:25:51.06,0:25:53.41,normal_Wed,,0,0,0,,It hurts. It hurts a lot!
+Dialogue: 2,0:25:53.41,0:25:55.93,normal_Wed,,0,0,0,,What kind of experiment is this? Can't you tell me?
+Dialogue: 2,0:25:56.53,0:26:00.47,normal_Wed,,0,0,0,,Of course, it is impossible to reveal the details at this stage
+Dialogue: 2,0:26:00.99,0:26:06.41,normal_Wed,,0,0,0,,Instead, we tell him to enjoy his day to the fullest
+Dialogue: 2,0:26:06.48,0:26:09.05,normal_Wed,,0,0,0,,Next, some more meetings take place
+Dialogue: 2,0:26:09.25,0:26:13.05,normal_Wed,,0,0,0,,So the meetings...all have to be held in this state?\N  -Yes
+Dialogue: 2,0:26:13.05,0:26:14.32,normal_Wed,,0,0,0,,Why?
+Dialogue: 2,0:26:14.79,0:26:24.33,normal_Wed,,0,0,0,,Even though the meetings were fake, we carried on as usual
+Dialogue: 2,0:26:24.33,0:26:27.90,normal_Wed,,0,0,0,,This will be troublesome for others, its not good
+Dialogue: 2,0:26:28.56,0:26:34.04,normal_Wed,,0,0,0,,Thus begins Kyaeen's electric linked day
+Dialogue: 2,0:26:34.71,0:26:36.31,normal_Wed,,0,0,0,,Once again
+Dialogue: 2,0:26:37.17,0:26:39.28,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry, {\r}are there any special events today?
+Dialogue: 2,0:26:41.21,0:26:42.01,normal_Wed,,0,0,0,,Ah, yes yes yes
+Dialogue: 2,0:26:42.75,0:26:44.88,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}
+Dialogue: 2,0:26:46.12,0:26:46.72,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}
+Dialogue: 2,0:26:48.52,0:26:50.55,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} really,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:26:50.55,0:26:51.66,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} taking up your time
+Dialogue: 2,0:26:55.29,0:26:56.79,normal_Wed,,0,0,0,,Thank you very much, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:26:59.23,0:27:00.24,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 2,0:27:00.24,0:27:02.30,normal_Wed,,0,0,0,,Are you okay?  \N-I'm okay
+Dialogue: 2,0:27:02.93,0:27:08.04,normal_Wed,,0,0,0,,The conversation at the service desk alone involved 7 apologies
+Dialogue: 2,0:27:08.67,0:27:10.10,normal_Wed,,0,0,0,,Next...
+Dialogue: 2,0:27:11.34,0:27:13.64,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} what type of guy do you like?
+Dialogue: 2,0:27:15.51,0:27:17.61,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}, this  \N-Ow!
+Dialogue: 2,0:27:17.78,0:27:18.92,normal_Wed,,0,0,0,,Really,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:27:19.18,0:27:24.49,normal_Wed,,0,0,0,,Ahhh I can't stand it... why is it still going on!
+Dialogue: 2,0:27:25.03,0:27:29.19,normal_Wed,,0,0,0,,Even during a break from location shooting
+Dialogue: 2,0:27:30.03,0:27:32.06,normal_Wed,,0,0,0,,Thanks,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:27:32.06,0:27:34.93,normal_Wed,,0,0,0,,I'm really {\c&H14DFF8&\3c&H050510&}sorry{\r}, thank you
+Dialogue: 2,0:27:34.93,0:27:39.17,normal_Wed,,0,0,0,,For making you go to the trouble of putting black honey all over it, i'm really {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:27:39.17,0:27:40.90,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry...{\r}
+Dialogue: 2,0:27:41.64,0:27:43.71,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} thanks very much
+Dialogue: 1,0:27:42.84,0:27:44.66,wipe_Wed,,0,0,0,,An endless barrage!
+Dialogue: 2,0:27:44.28,0:27:47.66,normal_Wed,,0,0,0,,Udo's sorry meter climbs sharply
+Dialogue: 2,0:27:48.78,0:27:53.08,normal_Wed,,0,0,0,,While the staff wait for Udo to use the toilet
+Dialogue: 1,0:27:52.64,0:27:54.07,wipe_Wed,,0,0,0,,Ah, this kind of time...
+Dialogue: 1,0:27:54.64,0:27:56.53,wipe_Wed,,0,0,0,,He'll surely say it
+Dialogue: 2,0:27:58.96,0:28:00.39,normal_Wed,,0,0,0,,Ah, are you waiting for me? \N -Yes
+Dialogue: 2,0:28:01.36,0:28:02.63,normal_Wed,,0,0,0,,Oh i'm very{\c&H14DFF8&\3c&H050510&} sorry,{\r}{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:28:02.63,0:28:05.43,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} really,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:28:05.43,0:28:07.65,normal_Wed,,0,0,0,,You had to wait so long, {\c&H14DFF8&\3c&H050510&}sorry,{\r}{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:28:07.65,0:28:10.17,normal_Wed,,0,0,0,,For me, really, {\c&H14DFF8&\3c&H050510&}sorry...{\r}
+Dialogue: 2,0:28:10.17,0:28:17.27,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}{\c&H14DFF8&\3c&H050510&} sorry{\r} {\c&H14DFF8&\3c&H050510&}sorry{\r} {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:28:18.10,0:28:22.78,normal_Wed,,0,0,0,,An 11-sorry explosion
+Dialogue: 2,0:28:23.28,0:28:24.98,normal_Wed,,0,0,0,,It hasn't stopped yet. It hasn't stopped yet
+Dialogue: 2,0:28:25.53,0:28:29.59,normal_Wed,,0,0,0,,So far, shooting time has lasted for 2 hours
+Dialogue: 2,0:28:29.59,0:28:33.49,normal_Wed,,0,0,0,,And the sorry count is up to 150
+Dialogue: 2,0:28:33.94,0:28:36.74,normal_Wed,,0,0,0,,Amano's next job is
+Dialogue: 2,0:28:37.36,0:28:39.35,normal_Wed,,0,0,0,,I'm Takayanagi  \N-I'm Amano
+Dialogue: 2,0:28:39.35,0:28:40.72,normal_Wed,,0,0,0,,Please advise me
+Dialogue: 2,0:28:42.25,0:28:46.02,normal_Wed,,0,0,0,,A fake location shooting with the full assistance of the "King's Brunch" crew
+Dialogue: 2,0:28:47.04,0:28:50.60,normal_Wed,,0,0,0,,Complete with a host and costumes
+Dialogue: 2,0:28:50.60,0:28:53.83,normal_Wed,,0,0,0,,It's impossible to distinguish from the real thing
+Dialogue: 2,0:28:54.97,0:28:58.35,normal_Wed,,0,0,0,,King's Brunch Shopper!
+Dialogue: 2,0:28:59.69,0:29:03.05,normal_Wed,,0,0,0,,Let's introduce our guests!
+Dialogue: 2,0:29:03.05,0:29:06.22,normal_Wed,,0,0,0,,Hiroyuki Amano!
+Dialogue: 2,0:29:10.26,0:29:13.06,normal_Wed,,0,0,0,,This is the second time you've participated
+Dialogue: 2,0:29:13.10,0:29:17.60,normal_Wed,,0,0,0,,I remember...always remember that...
+Dialogue: 2,0:29:17.60,0:29:21.87,normal_Wed,,0,0,0,,I bought a lot of things that time
+Dialogue: 2,0:29:21.87,0:29:24.57,normal_Wed,,0,0,0,,At that time Yuuka was here
+Dialogue: 2,0:29:24.57,0:29:30.75,normal_Wed,,0,0,0,,Er... Yuka- gave me an amulent... sorry
+Dialogue: 2,0:29:30.75,0:29:32.42,normal_Wed,,0,0,0,,Then let's get started!
+Dialogue: 2,0:29:39.12,0:29:40.72,normal_Wed,,0,0,0,,Let's go!
+Dialogue: 2,0:29:41.23,0:29:47.03,normal_Wed,,0,0,0,,Amano has been haunted by eerie feelings since the beginning of the show
+Dialogue: 2,0:29:48.17,0:29:49.35,normal_Wed,,0,0,0,,Thank you, and I apolgize for making you wait so long
+Dialogue: 2,0:29:49.35,0:29:50.23,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} thank you
+Dialogue: 2,0:29:53.50,0:29:56.57,normal_Wed,,0,0,0,,Look at that look on the clerk's face. \N -Completely stunned
+Dialogue: 2,0:29:56.67,0:29:58.58,normal_Wed,,0,0,0,,The one just now was delicious, {\c&H14DFF8&\3c&H050510&}sorry, {\r}I didn't even thank you for it
+Dialogue: 2,0:30:01.11,0:30:02.38,normal_Wed,,0,0,0,,Thank you very much, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:30:04.18,0:30:06.42,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} I just want to buy something I didn't get
+Dialogue: 2,0:30:06.42,0:30:07.45,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry,{\r} really,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:30:08.16,0:30:12.12,normal_Wed,,0,0,0,,…Yes
+Dialogue: 2,0:30:12.99,0:30:14.46,normal_Wed,,0,0,0,,I said a bunch of inexplicable, really {\c&H14DFF8&\3c&H050510&}sorry{\r} everyone
+Dialogue: 2,0:30:14.46,0:30:16.05,normal_Wed,,0,0,0,,I apologize, really,{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:30:16.80,0:30:21.36,normal_Wed,,0,0,0,,At this point, the filming ends
+Dialogue: 2,0:30:21.95,0:30:22.99,normal_Wed,,0,0,0,,Next
+Dialogue: 2,0:30:24.10,0:30:26.40,normal_Wed,,0,0,0,,A banned word?
+Dialogue: 2,0:30:27.74,0:30:29.94,normal_Wed,,0,0,0,,Once I say that word I'm...
+Dialogue: 2,0:30:30.92,0:30:35.75,normal_Wed,,0,0,0,,Amano fails to consider that someone else may be involved
+Dialogue: 2,0:30:36.86,0:30:40.90,normal_Wed,,0,0,0,,Finally, Amano will join Udo's location shoot
+Dialogue: 2,0:30:41.85,0:30:46.96,normal_Wed,,0,0,0,,Can he detect the link and stop the current or not?
+Dialogue: 2,0:30:48.12,0:30:52.17,normal_Wed,,0,0,0,,5:00 p.m. The stage is changed to the shopping street of Takanouji Temple
+Dialogue: 2,0:30:53.00,0:30:57.17,normal_Wed,,0,0,0,,The shoot continues towards the store where Amano is waiting
+Dialogue: 2,0:30:57.77,0:30:58.98,normal_Wed,,0,0,0,,So
+Dialogue: 2,0:30:59.44,0:31:01.94,normal_Wed,,0,0,0,,Hello, wow so delicious, look
+Dialogue: 2,0:31:01.94,0:31:03.07,normal_Wed,,0,0,0,,Ah{\c&H14DFF8&\3c&H050510&} sorry{\r}
+Dialogue: 2,0:31:03.07,0:31:04.23,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}, really
+Dialogue: 2,0:31:05.88,0:31:08.18,normal_Wed,,0,0,0,,I'm sorry. I'm sorry. I'm sorry.
+Dialogue: 2,0:31:08.85,0:31:14.78,normal_Wed,,0,0,0,,When Amano takes his 393th shock of the day
+Dialogue: 2,0:31:15.55,0:31:17.72,normal_Wed,,0,0,0,,Huh?  \N-Hey, wait a minute
+Dialogue: 2,0:31:21.22,0:31:22.96,normal_Wed,,0,0,0,,Isn't this Amano? Great!
+Dialogue: 2,0:31:22.96,0:31:25.90,normal_Wed,,0,0,0,,I'm waiting for you guys!
+Dialogue: 2,0:31:27.06,0:31:29.40,normal_Wed,,0,0,0,,I'm so happy, Amano. \N -All of a sudden the enthusiasm is high
+Dialogue: 2,0:31:30.49,0:31:33.97,normal_Wed,,0,0,0,,That's great, Amano. You're so cute.  \N-Cute? I'm your partner, right?
+Dialogue: 2,0:31:33.97,0:31:36.07,normal_Wed,,0,0,0,,As soon as I came up, I saw Amano, so warm, so warm
+Dialogue: 2,0:31:37.47,0:31:39.38,normal_Wed,,0,0,0,,A pair of 49 year-olds
+Dialogue: 2,0:31:40.16,0:31:47.51,normal_Wed,,0,0,0,,Udo doesn't even know that his dear Amano is being mercilessly destroyed by his own mantra
+Dialogue: 2,0:31:48.75,0:31:50.09,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}, it's really cute
+Dialogue: 2,0:31:51.79,0:31:53.52,normal_Wed,,0,0,0,,Wait a minute, what's going on here?
+Dialogue: 2,0:31:54.06,0:31:54.72,normal_Wed,,0,0,0,,Next
+Dialogue: 2,0:31:55.59,0:31:57.36,normal_Wed,,0,0,0,,Here you go then.  \N-Is that okay? Really? {\c&H14DFF8&\3c&H050510&}Sorry{\r}, thanks
+Dialogue: 2,0:32:00.36,0:32:03.50,normal_Wed,,0,0,0,,What are you doing? What's the point?
+Dialogue: 2,0:32:03.50,0:32:05.44,normal_Wed,,0,0,0,,What I'm trying to say is...  \N-Do you want to pay?
+Dialogue: 2,0:32:05.44,0:32:07.34,normal_Wed,,0,0,0,,I was going to say, "So there's 1,000 yen"
+Dialogue: 2,0:32:07.74,0:32:14.84,normal_Wed,,0,0,0,,Udo doesn't particularly notice that someone is continuously screaming
+Dialogue: 2,0:32:15.62,0:32:21.35,normal_Wed,,0,0,0,,On the other hand, Amano fails to notice the connection
+Dialogue: 2,0:32:21.75,0:32:23.72,normal_Wed,,0,0,0,,Are you a couple?
+Dialogue: 2,0:32:23.72,0:32:25.46,normal_Wed,,0,0,0,,No  \N-Oh no?
+Dialogue: 2,0:32:26.16,0:32:27.89,normal_Wed,,0,0,0,,I really thought you guys were, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:32:29.83,0:32:31.96,normal_Wed,,0,0,0,,Sorry sorry sorry
+Dialogue: 2,0:32:31.96,0:32:35.30,normal_Wed,,0,0,0,,What are you doing? What is "ay"?
+Dialogue: 2,0:32:35.30,0:32:37.60,normal_Wed,,0,0,0,,Scared, right? {\c&H14DFF8&\3c&H050510&}Sorry{\r}
+Dialogue: 2,0:32:39.04,0:32:40.87,normal_Wed,,0,0,0,,Huh?  -It's okay.
+Dialogue: 2,0:32:41.94,0:32:43.51,normal_Wed,,0,0,0,,Can I ask you what kind of man is your type?
+Dialogue: 2,0:32:43.87,0:32:46.21,normal_Wed,,0,0,0,,Udo!  \N-The first time!
+Dialogue: 2,0:32:46.21,0:32:47.84,normal_Wed,,0,0,0,,Thank you so much!
+Dialogue: 2,0:32:49.08,0:32:50.85,normal_Wed,,0,0,0,,Thank you very much, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:32:52.98,0:32:54.32,normal_Wed,,0,0,0,,I am so happy
+Dialogue: 2,0:32:55.47,0:32:57.09,normal_Wed,,0,0,0,,Thank you very much, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:32:58.36,0:33:00.96,normal_Wed,,0,0,0,,OK OK OK let's go
+Dialogue: 2,0:33:02.12,0:33:05.65,normal_Wed,,0,0,0,,After these 4 consecutive shots, Amano begins to notice something
+Dialogue: 2,0:33:07.33,0:33:08.20,normal_Wed,,0,0,0,,Then
+Dialogue: 2,0:33:08.73,0:33:09.40,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}
+Dialogue: 2,0:33:11.28,0:33:12.65,normal_Wed,,0,0,0,,What are you doing?
+Dialogue: 2,0:33:12.65,0:33:17.71,normal_Wed,,0,0,0,,We are strolling around Takanouji
+Dialogue: 2,0:33:17.71,0:33:21.35,normal_Wed,,0,0,0,,I heard that the sashimi here is very good. \N -Yes
+Dialogue: 2,0:33:21.35,0:33:23.11,normal_Wed,,0,0,0,,Could you please... Store Manager, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:33:23.31,0:33:25.35,normal_Wed,,0,0,0,,Let's have a taste
+Dialogue: 2,0:33:25.82,0:33:27.08,normal_Wed,,0,0,0,,Sure
+Dialogue: 2,0:33:27.22,0:33:29.92,normal_Wed,,0,0,0,,Wait a minute...
+Dialogue: 2,0:33:31.22,0:33:32.56,normal_Wed,,0,0,0,,Wait a minute...
+Dialogue: 2,0:33:33.19,0:33:37.63,normal_Wed,,0,0,0,,At this moment he finally senses something
+Dialogue: 2,0:33:38.03,0:33:40.06,normal_Wed,,0,0,0,,Please have a taste!
+Dialogue: 2,0:33:40.06,0:33:43.20,normal_Wed,,0,0,0,,Dried bamboo shoots and barbecued pork  \N-This much is no longer considered a tasting, right?
+Dialogue: 2,0:33:43.96,0:33:45.40,normal_Wed,,0,0,0,,If you can, please.  \NCome on, Udo
+Dialogue: 2,0:33:45.40,0:33:46.60,normal_Wed,,0,0,0,,Ah, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:33:47.44,0:33:49.37,normal_Wed,,0,0,0,,This is a little scary
+Dialogue: 2,0:33:49.37,0:33:51.37,normal_Wed,,0,0,0,,Are you okay?  \N-That was close
+Dialogue: 2,0:33:51.37,0:33:53.21,normal_Wed,,0,0,0,,Why do you look like a figure skater
+Dialogue: 2,0:33:54.08,0:33:56.91,normal_Wed,,0,0,0,,Oh I thought this was a sign
+Dialogue: 2,0:33:56.91,0:33:59.02,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 2,0:33:59.72,0:34:01.35,normal_Wed,,0,0,0,,Back to the camera, {\c&H14DFF8&\3c&H050510&}sorry{\r}
+Dialogue: 2,0:34:03.55,0:34:07.69,normal_Wed,,0,0,0,,What? Do you want to practice boxing?\N  -No, no, no, no, no, no, no, no
+Dialogue: 2,0:34:07.71,0:34:09.59,normal_Wed,,0,0,0,,Are you dodging before you throw a punch?\N  -Wait a minute
+Dialogue: 2,0:34:09.59,0:34:11.17,normal_Wed,,0,0,0,,Will you shut up for a second?
+Dialogue: 2,0:34:11.49,0:34:13.63,normal_Wed,,0,0,0,,Anyway, don't talk to me.  \N-Why?
+Dialogue: 2,0:34:13.90,0:34:15.57,normal_Wed,,0,0,0,,Do you need anything else?\N  -{\c&H14DFF8&\3c&H050510&}Sorry {\r}
+Dialogue: 1,0:34:14.72,0:34:15.50,wipe_Wed,,0,0,0,,Finally?
+Dialogue: 2,0:34:16.30,0:34:18.67,normal_Wed,,0,0,0,,This excellent barbecue...
+Dialogue: 2,0:34:18.87,0:34:21.24,normal_Wed,,0,0,0,,I'm already convinced
+Dialogue: 2,0:34:21.47,0:34:25.98,normal_Wed,,0,0,0,,I've suffered all day because of you  \N-{\c&H14DFF8&\3c&H050510&}Sorry {\r}
+Dialogue: 2,0:34:28.31,0:34:30.31,normal_Wed,,0,0,0,,What?  \N-This is it!
+Dialogue: 2,0:34:30.86,0:34:36.28,normal_Wed,,0,0,0,,After 8 and a half hours since the start of the verification, after 461 currents
+Dialogue: 2,0:34:36.28,0:34:40.01,normal_Wed,,0,0,0,,Amano finally correctly identifies the source
+Dialogue: 2,0:34:42.06,0:34:44.59,normal_Wed,,0,0,0,,So we disclose the project here
+Dialogue: 2,0:34:46.70,0:34:48.87,normal_Wed,,0,0,0,,Thank you for your hard work
+Dialogue: 2,0:34:50.73,0:34:52.67,normal_Wed,,0,0,0,,Thank you for your hard work
+Dialogue: 2,0:34:55.21,0:34:58.55,normal_Wed,,0,0,0,,After explaining the project to both of them
+Dialogue: 2,0:34:59.28,0:35:02.68,normal_Wed,,0,0,0,,Huh? That location shoot was actually...
+Dialogue: 2,0:35:02.68,0:35:03.85,normal_Wed,,0,0,0,,It won't be broadcast
+Dialogue: 2,0:35:03.85,0:35:07.38,normal_Wed,,0,0,0,,Ah... it was just for "{\c&H14DFF8&\3c&H050510&}sorry{\r}"？
+Dialogue: 2,0:35:07.72,0:35:09.32,normal_Wed,,0,0,0,,Please stop!
+Dialogue: 2,0:35:09.49,0:35:11.45,normal_Wed,,0,0,0,,I've had this thing on since this morning
+Dialogue: 2,0:35:11.75,0:35:14.72,normal_Wed,,0,0,0,,How many apologies have you made?
+Dialogue: 2,0:35:14.98,0:35:18.67,normal_Wed,,0,0,0,,Did you apologize continuously and incessantly?\N  -No
+Dialogue: 2,0:35:18.67,0:35:19.07,normal_Wed,,0,0,0,,What a lie!
+Dialogue: 2,0:35:19.07,0:35:21.00,normal_Wed,,0,0,0,,I guess I did \N-You did, right?
+Dialogue: 2,0:35:21.00,0:35:24.33,normal_Wed,,0,0,0,,I thought the machine was going berserk
+Dialogue: 2,0:35:24.33,0:35:26.14,normal_Wed,,0,0,0,,How many times in total?
+Dialogue: 2,0:35:26.14,0:35:27.74,normal_Wed,,0,0,0,,The total is now 462 times
+Dialogue: 2,0:35:27.74,0:35:33.08,normal_Wed,,0,0,0,,462 times, each time the feeling was as bad as the last!
+Dialogue: 2,0:35:33.08,0:35:35.51,normal_Wed,,0,0,0,,Each impact was like first love
+Dialogue: 2,0:35:36.07,0:35:37.46,normal_Wed,,0,0,0,,So it has come to this
+Dialogue: 2,0:35:38.18,0:35:39.68,normal_Wed,,0,0,0,,Okay, OK
+Dialogue: 2,0:35:39.68,0:35:43.65,normal_Wed,,0,0,0,,That's all for today's shoot. Thank you very much. \N -Thanks
+Dialogue: 2,0:35:43.65,0:35:44.45,normal_Wed,,0,0,0,,Help me dismantle it!
+Dialogue: 2,0:35:45.18,0:35:49.97,normal_Wed,,0,0,0,,Removal of the current device takes place finally after 9 hours
+Dialogue: 2,0:35:51.32,0:35:52.35,normal_Wed,,0,0,0,,But
+Dialogue: 2,0:35:53.96,0:35:55.57,normal_Wed,,0,0,0,,Really{\c&H14DFF8&\3c&H050510&} sorry{\r}, thank you very much
+Dialogue: 2,0:35:55.57,0:35:57.33,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}
+Dialogue: 2,0:35:57.33,0:35:58.23,normal_Wed,,0,0,0,,{\c&H14DFF8&\3c&H050510&}Sorry{\r}, Mr. Driver
+Dialogue: 2,0:36:01.17,0:36:02.64,normal_Wed,,0,0,0,,Stop stop stop pain pain pain pain pain pain
+Dialogue: 2,0:36:02.64,0:36:04.67,normal_Wed,,0,0,0,,Ouch... ouch...
+Dialogue: 2,0:36:04.67,0:36:10.11,normal_Wed,,0,0,0,,That guy is apologizing in some damn place again. It hurts!
+Dialogue: 2,0:36:10.78,0:36:15.10,normal_Wed,,0,0,0,,By the way, if the total current of this day is accumulated
+Dialogue: 2,0:36:15.10,0:36:17.65,normal_Wed,,0,0,0,,It is just over one shot from a taser
+Dialogue: 2,0:36:19.21,0:36:20.08,normal_Wed,,0,0,0,,Surpassed the taser
+Dialogue: 2,0:36:20.08,0:36:23.04,normal_Wed,,0,0,0,,What do you think?  \N-Very impressive
+Dialogue: 2,0:36:23.04,0:36:26.43,normal_Wed,,0,0,0,,The phrase "I'm sorry for making you have you put the black honey on it" is simply...
+Dialogue: 2,0:36:26.44,0:36:28.50,normal_Wed,,0,0,0,,He applies the same amount every time, right?
+Dialogue: 2,0:36:28.50,0:36:30.55,normal_Wed,,0,0,0,,Probably like a tiny little bottle
+Dialogue: 2,0:36:30.55,0:36:35.81,normal_Wed,,0,0,0,,If he doesn't finish it, he'll say, "I'm sorry I didn't finish the honey."\N  -Yeah, yeah, yeah, yeah
+Dialogue: 2,0:36:35.81,0:36:41.74,normal_Wed,,0,0,0,,Taking Downtown as an example, it's the same as Hamada saying "I'll kill you"
+Dialogue: 2,0:36:41.74,0:36:45.18,normal_Wed,,0,0,0,,If I was electrocuted every time he said it i'd be a mess
+Dialogue: 2,0:36:45.18,0:36:47.88,normal_Wed,,0,0,0,,The first sentence of the segment would be "I'll kill you"
+Dialogue: 0,0:36:49.79,0:36:56.56,normal_Wed,,0,0,0,,Next is everybody's theories
+Dialogue: 0,0:36:56.57,0:36:59.03,normal_Wed,,0,0,0,,Tonight's presenter is
+Dialogue: 0,0:36:59.91,0:37:02.05,normal_Wed,,0,0,0,,Kamaitachi!
+Dialogue: 0,0:37:06.42,0:37:09.02,normal_Wed,,0,0,0,,This is our first time, please take care of us
+Dialogue: 0,0:37:09.90,0:37:10.91,normal_Wed,,0,0,0,,So...
+Dialogue: 0,0:37:11.78,0:37:14.94,normal_Wed,,0,0,0,,No, these two people have been rehearsing for a very long time
+Dialogue: 0,0:37:14.94,0:37:15.40,normal_Wed,,0,0,0,,Backstage?
+Dialogue: 0,0:37:15.40,0:37:16.12,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:37:16.12,0:37:18.32,normal_Wed,,0,0,0,,Matsumoto, please don't say that
+Dialogue: 0,0:37:18.32,0:37:20.86,normal_Wed,,0,0,0,,So I was wondering what they'd say
+Dialogue: 0,0:37:20.86,0:37:23.53,normal_Wed,,0,0,0,,We were just confirming the content \N -That's it
+Dialogue: 0,0:37:23.53,0:37:26.51,normal_Wed,,0,0,0,,Please never say we were practicing or anything like that
+Dialogue: 0,0:37:26.51,0:37:27.46,normal_Wed,,0,0,0,,No no no no
+Dialogue: 0,0:37:27.46,0:37:28.69,normal_Wed,,0,0,0,,You didn't practice for ages?
+Dialogue: 0,0:37:28.69,0:37:31.84,normal_Wed,,0,0,0,,People will be concerned to hear we had to practice such a simple thing
+Dialogue: 0,0:37:31.84,0:37:36.46,normal_Wed,,0,0,0,,We all expect a bit of chat after they come out, right?
+Dialogue: 0,0:37:36.46,0:37:39.84,normal_Wed,,0,0,0,,We were really just confirming the details of the process
+Dialogue: 0,0:37:40.89,0:37:42.75,normal_Wed,,0,0,0,,We aren't holding back a big move
+Dialogue: 0,0:37:42.75,0:37:44.72,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:37:45.67,0:37:48.27,normal_Wed,,0,0,0,,How... did this opening become so stifled?
+Dialogue: 0,0:37:48.27,0:37:50.52,normal_Wed,,0,0,0,,It's super hard to get such an opening
+Dialogue: 0,0:37:50.52,0:37:52.54,normal_Wed,,0,0,0,,Everyone, let me ask you a question
+Dialogue: 0,0:37:52.54,0:37:55.62,normal_Wed,,0,0,0,,What are your impressions of "magicians"?
+Dialogue: 0,0:37:55.62,0:37:57.89,normal_Wed,,0,0,0,,Dexterous
+Dialogue: 0,0:37:57.89,0:37:59.99,normal_Wed,,0,0,0,,Good with their hands and stuff
+Dialogue: 0,0:37:59.99,0:38:03.32,normal_Wed,,0,0,0,,Very good at hiding things
+Dialogue: 0,0:38:03.32,0:38:04.34,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:38:04.34,0:38:06.73,normal_Wed,,0,0,0,,So, the theory we bring today is this
+Dialogue: 0,0:38:07.69,0:38:13.38,normal_Wed,,0,0,0,,If the pitcher and first baseman are magicians, they can use a hidden ball to get the opponent out one by one
+Dialogue: 0,0:38:13.51,0:38:14.94,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:38:14.94,0:38:16.42,normal_Wed,,0,0,0,,Should work
+Dialogue: 0,0:38:16.42,0:38:19.04,normal_Wed,,0,0,0,,The fielder hides the ball
+Dialogue: 0,0:38:19.04,0:38:21.29,normal_Wed,,0,0,0,,The moment the runner leaves the base
+Dialogue: 0,0:38:21.29,0:38:24.53,normal_Wed,,0,0,0,,He uses this ball to get the runner out of the game
+Dialogue: 0,0:38:24.53,0:38:26.12,normal_Wed,,0,0,0,,A trick play
+Dialogue: 0,0:38:26.12,0:38:26.71,normal_Wed,,0,0,0,,It's like this
+Dialogue: 0,0:38:26.71,0:38:29.38,normal_Wed,,0,0,0,,So to put it in perspective
+Dialogue: 0,0:38:29.38,0:38:32.01,normal_Wed,,0,0,0,,A magician will hide it cleverly
+Dialogue: 0,0:38:32.01,0:38:33.50,normal_Wed,,0,0,0,,As if holding it over here
+Dialogue: 0,0:38:33.50,0:38:35.44,normal_Wed,,0,0,0,,But it's not. It's this hand that's holding it. \N -Awesome
+Dialogue: 0,0:38:35.44,0:38:36.10,normal_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:38:36.10,0:38:37.80,normal_Wed,,0,0,0,,That's how it'll work
+Dialogue: 0,0:38:38.46,0:38:40.34,normal_Wed,,0,0,0,,That's great, but I hate it
+Dialogue: 0,0:38:40.34,0:38:41.92,normal_Wed,,0,0,0,,Why? Why?
+Dialogue: 0,0:38:41.92,0:38:43.63,normal_Wed,,0,0,0,,Great and annoying
+Dialogue: 0,0:38:43.63,0:38:46.68,normal_Wed,,0,0,0,,While I write he does not anything else other than practice magic
+Dialogue: 0,0:38:46.68,0:38:47.91,normal_Wed,,0,0,0,,Don't say such things!
+Dialogue: 0,0:38:47.91,0:38:50.52,normal_Wed,,0,0,0,,So his current level of magic is super high
+Dialogue: 0,0:38:52.83,0:38:55.32,normal_Wed,,0,0,0,,I go drinking with a magician
+Dialogue: 0,0:38:55.32,0:38:56.42,normal_Wed,,0,0,0,,Regularly?
+Dialogue: 0,0:38:56.42,0:38:57.90,normal_Wed,,0,0,0,,Yes, many times
+Dialogue: 0,0:38:57.90,0:39:01.24,normal_Wed,,0,0,0,,Once we went to a business meeting with a magician. \N -Stop it!
+Dialogue: 0,0:39:01.24,0:39:04.76,normal_Wed,,0,0,0,,To potentially enter the magic business, instead of being comedians
+Dialogue: 0,0:39:04.76,0:39:10.27,normal_Wed,,0,0,0,,Eh what? It's not funny, don't bring up this kind of thing
+Dialogue: 0,0:39:10.27,0:39:12.40,normal_Wed,,0,0,0,,This is the part that you were rehearsing, right?
+Dialogue: 0,0:39:14.20,0:39:15.28,normal_Wed,,0,0,0,,This sequence
+Dialogue: 0,0:39:16.60,0:39:17.81,normal_Wed,,0,0,0,,So...this is it
+Dialogue: 0,0:39:19.21,0:39:22.98,normal_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:39:23.43,0:39:26.27,normal_Wed,,0,0,0,,Are you here to bring shame to the king of conte?
+Dialogue: 0,0:39:26.27,0:39:28.16,normal_Wed,,0,0,0,,We won
+Dialogue: 0,0:39:28.87,0:39:30.00,normal_Wed,,0,0,0,,Here we go again
+Dialogue: 0,0:39:30.00,0:39:34.90,normal_Wed,,0,0,0,,It's not like that, think about it, the depth of the work is completely different
+Dialogue: 0,0:39:37.13,0:39:44.30,normal_Wed,,0,0,0,,If the pitcher and first baseman are magicians, they can use a hidden ball to get the opponent out one by one
+Dialogue: 0,0:39:45.45,0:39:50.73,normal_Wed,,0,0,0,,This time, we used the phrase "1 million dollars if you succeed in stealing a base in front of a former professional baseball catcher"
+Dialogue: 0,0:39:50.73,0:39:57.27,normal_Wed,,0,0,0,,Thus, this fake project attracted several performers known for their running ability
+Dialogue: 0,0:39:59.13,0:40:00.53,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:40:01.56,0:40:05.13,normal_Wed,,0,0,0,,With the cooperation of the former Hanshin's catcher, Kano
+Dialogue: 0,0:40:01.56,0:40:05.13,note_Wed,,0,0,0,,{\blur4}※狩Keisuke Kano: Hanshin Tigers catcher from '01 to '17, most stolen bases in the Central League in '09
+Dialogue: 0,0:40:06.05,0:40:09.55,normal_Wed,,0,0,0,,What do you think of using a hidden ball?
+Dialogue: 0,0:40:09.55,0:40:11.72,normal_Wed,,0,0,0,,How can I put it
+Dialogue: 0,0:40:11.72,0:40:14.49,normal_Wed,,0,0,0,,It would be too bad to be finished by this
+Dialogue: 0,0:40:14.49,0:40:17.49,normal_Wed,,0,0,0,,Even if you are criticized for being careless, there is no way to refute
+Dialogue: 0,0:40:17.49,0:40:19.66,normal_Wed,,0,0,0,,Have you ever experienced it?
+Dialogue: 0,0:40:19.66,0:40:21.53,normal_Wed,,0,0,0,,Not really
+Dialogue: 0,0:40:21.53,0:40:24.90,normal_Wed,,0,0,0,,It would definitely start a fight
+Dialogue: 0,0:40:24.90,0:40:26.30,normal_Wed,,0,0,0,,"What are you doing?" and so on
+Dialogue: 0,0:40:26.30,0:40:27.80,normal_Wed,,0,0,0,,I've never seen it
+Dialogue: 0,0:40:28.37,0:40:34.21,normal_Wed,,0,0,0,,A hidden ball that is extremely difficult to see on the court
+Dialogue: 0,0:40:36.06,0:40:40.90,normal_Wed,,0,0,0,,There have only been four successful ones in baseball history in the last 15 years
+Dialogue: 0,0:40:40.46,0:40:42.45,wipe_Wed,,0,0,0,,So, there are still some
+Dialogue: 0,0:40:41.92,0:40:44.81,normal_Wed,,0,0,0,,It is a trick play that is very rare
+Dialogue: 0,0:40:45.94,0:40:49.65,normal_Wed,,0,0,0,,So, these experts in slight of hand are brought in
+Dialogue: 0,0:40:49.65,0:40:51.93,normal_Wed,,0,0,0,,And should be able to get people out
+Dialogue: 0,0:40:52.93,0:40:57.34,normal_Wed,,0,0,0,,1 million for successful base stealing in front of the former professional baseball catcher
+Dialogue: 0,0:40:59.08,0:41:04.16,normal_Wed,,0,0,0,,So the first challenger is Bobby Ologun
+Dialogue: 0,0:41:04.92,0:41:10.84,normal_Wed,,0,0,0,,The initial target is Bobby Ologun, a regular in such sports projects
+Dialogue: 0,0:41:11.94,0:41:15.93,normal_Wed,,0,0,0,,After a good warm-up
+Dialogue: 0,0:41:17.15,0:41:20.22,normal_Wed,,0,0,0,,Everyone, let's stop Bobby's 1 million
+Dialogue: 0,0:41:23.76,0:41:25.03,normal_Wed,,0,0,0,,Enemy?
+Dialogue: 0,0:41:25.82,0:41:28.86,normal_Wed,,0,0,0,,So, the verification begins
+Dialogue: 0,0:41:30.92,0:41:37.14,normal_Wed,,0,0,0,,First, a magician with pitching experience holds the ball and sets up a stationary position
+Dialogue: 0,0:41:38.02,0:41:41.56,normal_Wed,,0,0,0,,Seeing this, Bobby boldly pulls away
+Dialogue: 0,0:41:41.22,0:41:42.29,wipe_Wed,,0,0,0,,Really>
+Dialogue: 0,0:41:46.75,0:41:49.38,normal_Wed,,0,0,0,,By the way, although they are magicians
+Dialogue: 0,0:41:49.38,0:41:52.72,normal_Wed,,0,0,0,,They are forbidden to use two balls to complete the hidden ball out
+Dialogue: 0,0:41:53.17,0:41:54.37,wipe_Wed,,0,0,0,,I see
+Dialogue: 0,0:41:54.37,0:41:55.40,wipe_Wed,,0,0,0,,No dirty tricks
+Dialogue: 0,0:41:57.54,0:41:58.82,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:41:58.57,0:42:00.32,wipe_Wed,,0,0,0,,I don't think so
+Dialogue: 0,0:42:04.64,0:42:05.56,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:42:07.91,0:42:11.28,wipe_Wed,,0,0,0,,But the distance is so big
+Dialogue: 0,0:42:11.28,0:42:13.08,wipe_Wed,,0,0,0,,A handkerchief?
+Dialogue: 0,0:42:16.94,0:42:19.86,normal_Wed,,0,0,0,,Yes, the thing handed to the pitcher was
+Dialogue: 0,0:42:20.61,0:42:22.41,normal_Wed,,0,0,0,,A rolled-up handkerchief
+Dialogue: 0,0:42:23.30,0:42:24.88,wipe_Wed,,0,0,0,,You wouldn't notice
+Dialogue: 0,0:42:24.44,0:42:27.70,normal_Wed,,0,0,0,,But Bobby completely missed it
+Dialogue: 0,0:42:29.17,0:42:30.66,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:42:30.66,0:42:32.18,wipe_Wed,,0,0,0,,This will be over soon, right?
+Dialogue: 0,0:42:36.23,0:42:37.77,normal_Wed,,0,0,0,,Out!
+Dialogue: 0,0:42:39.07,0:42:41.77,normal_Wed,,0,0,0,,Bobby failed to steal a base
+Dialogue: 0,0:42:41.77,0:42:43.08,wipe_Wed,,0,0,0,,Totally out!
+Dialogue: 0,0:42:44.11,0:42:45.81,normal_Wed,,0,0,0,,OK, well played
+Dialogue: 0,0:42:50.68,0:42:52.44,normal_Wed,,0,0,0,,Challenge failed
+Dialogue: 0,0:42:52.44,0:42:53.25,normal_Wed,,0,0,0,,Blocked successfully
+Dialogue: 0,0:42:53.38,0:42:55.02,normal_Wed,,0,0,0,,Why?
+Dialogue: 0,0:42:55.02,0:42:58.09,normal_Wed,,0,0,0,,You held the ball and threw it to him
+Dialogue: 0,0:42:58.25,0:43:01.39,normal_Wed,,0,0,0,,That's wasn't a ball, it was a handkerchief
+Dialogue: 0,0:43:02.33,0:43:04.69,normal_Wed,,0,0,0,,It was a handkerchief
+Dialogue: 0,0:43:06.13,0:43:07.96,normal_Wed,,0,0,0,,Is this okay?
+Dialogue: 0,0:43:07.96,0:43:09.23,normal_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:43:09.50,0:43:12.03,normal_Wed,,0,0,0,,You didn't confirm where the ball was
+Dialogue: 0,0:43:12.03,0:43:13.87,normal_Wed,,0,0,0,,Who was holding what
+Dialogue: 0,0:43:14.07,0:43:15.77,normal_Wed,,0,0,0,,Do you usually throw handkerchiefs?
+Dialogue: 0,0:43:15.77,0:43:18.37,normal_Wed,,0,0,0,,Can you throw a handkerchief at the Tokyo Dome?
+Dialogue: 0,0:43:18.37,0:43:21.74,normal_Wed,,0,0,0,,There used to be a "Handkerchief Prince"
+Dialogue: 0,0:43:18.37,0:43:23.71,note_Wed,,0,0,0,,{\blur4}※Yuuki Saito: In 2006, Saito's high school division reached the Koshien Summer Conference. His valiant appearance and the way he wiped his sweat with a neatly folded handkerchief on the pitcher's mound caused a media frenzy and the name "Handkerchief Prince" became popular. He only accumulated 15 wins in 8 years of his career as of the 19th season.
+Dialogue: 0,0:43:21.74,0:43:23.71,normal_Wed,,0,0,0,,Took it out of his pocket like this
+Dialogue: 0,0:43:23.71,0:43:26.78,normal_Wed,,0,0,0,,Saito, right? \N -Yes, the same thing.
+Dialogue: 0,0:43:26.78,0:43:31.19,normal_Wed,,0,0,0,,The pitcher was sweating and handed a handkerchief to him at first base
+Dialogue: 0,0:43:31.78,0:43:32.76,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:43:32.76,0:43:34.58,normal_Wed,,0,0,0,,The next target is
+Dialogue: 0,0:43:37.62,0:43:41.72,normal_Wed,,0,0,0,,Giants Sakamoto player's impersonation artist Honzaka
+Dialogue: 0,0:43:37.62,0:43:41.72,note_Wed,,0,0,0,,{\blur4}※akamoto Isato: The current captain of the Yomiuri Giants joined the Giants in 2007. On May 1, 2019, he hit the first home run of the NPB order and era at Tokyo Dome.
+Dialogue: 0,0:43:41.72,0:43:43.25,wipe_Wed,,0,0,0,,Really similar!
+Dialogue: 0,0:43:43.25,0:43:46.48,normal_Wed,,0,0,0,,He belonged to the baseball team as a student
+Dialogue: 0,0:43:45.79,0:43:46.48,wipe_Wed,,0,0,0,,Very true
+Dialogue: 0,0:43:46.48,0:43:47.87,wipe_Wed,,0,0,0,,So similar
+Dialogue: 0,0:43:47.87,0:43:50.23,normal_Wed,,0,0,0,,Will he notice the hidden ball?
+Dialogue: 0,0:43:52.88,0:43:54.61,normal_Wed,,0,0,0,,Sakamoto is this short?
+Dialogue: 0,0:43:56.00,0:43:57.24,normal_Wed,,0,0,0,,The result is...
+Dialogue: 0,0:44:04.93,0:44:08.65,normal_Wed,,0,0,0,,After holding the same position as before
+Dialogue: 0,0:44:09.79,0:44:10.56,normal_Wed,,0,0,0,,Just as a sec
+Dialogue: 0,0:44:10.92,0:44:13.04,normal_Wed,,0,0,0,,Under the guise of a strategy meeting
+Dialogue: 0,0:44:13.04,0:44:15.17,normal_Wed,,0,0,0,,And the fielders gather on the mound
+Dialogue: 0,0:44:17.74,0:44:21.12,normal_Wed,,0,0,0,,Give the ball to first base
+Dialogue: 0,0:44:21.12,0:44:25.88,normal_Wed,,0,0,0,,And on the pitcher's glove is something commonly found in magic
+Dialogue: 0,0:44:26.90,0:44:28.61,wipe_Wed,,0,0,0,,A dove
+Dialogue: 0,0:44:30.03,0:44:30.94,normal_Wed,,0,0,0,,Okay?
+Dialogue: 0,0:44:32.78,0:44:33.53,normal_Wed,,0,0,0,,Open again
+Dialogue: 0,0:44:37.05,0:44:38.65,normal_Wed,,0,0,0,,Sorry, let's start
+Dialogue: 0,0:44:39.31,0:44:43.05,normal_Wed,,0,0,0,,After returning to their respective positions, the game resumes
+Dialogue: 0,0:44:44.70,0:44:49.68,normal_Wed,,0,0,0,,The pitcher gives Honzaka a quick glance at the ball-like object
+Dialogue: 0,0:44:53.96,0:44:57.51,normal_Wed,,0,0,0,,Not surprisingly, the distance between the base bag and the distance...
+Dialogue: 0,0:44:59.70,0:45:01.45,wipe_Wed,,0,0,0,,Wow!
+Dialogue: 0,0:45:03.78,0:45:05.72,normal_Wed,,0,0,0,,Out!
+Dialogue: 0,0:45:10.61,0:45:12.37,normal_Wed,,0,0,0,,Thank you, OK OK
+Dialogue: 0,0:45:12.37,0:45:13.43,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:45:15.52,0:45:19.68,normal_Wed,,0,0,0,,At this time, the plan is revealed
+Dialogue: 0,0:45:21.03,0:45:22.80,normal_Wed,,0,0,0,,No success
+Dialogue: 0,0:45:24.57,0:45:26.20,normal_Wed,,0,0,0,,{\fad(500,0)}Yes... ah
+Dialogue: 0,0:45:26.68,0:45:31.38,normal_Wed,,0,0,0,,The last is the man that has a 10-second record for the 100 meters
+Dialogue: 0,0:45:31.38,0:45:35.84,normal_Wed,,0,0,0,,Dante Carver
+Dialogue: 0,0:45:35.84,0:45:41.34,normal_Wed,,0,0,0,,For this verification a similar approach is used
+Dialogue: 0,0:45:42.62,0:45:48.00,normal_Wed,,0,0,0,,Again the players gather on the mound
+Dialogue: 0,0:45:50.17,0:45:53.86,normal_Wed,,0,0,0,,Where is the ball?
+Dialogue: 0,0:46:03.81,0:46:04.47,normal_Wed,,0,0,0,,Out!
+Dialogue: 0,0:46:07.38,0:46:08.45,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:46:09.48,0:46:10.41,normal_Wed,,0,0,0,,Seriously?
+Dialogue: 0,0:46:10.89,0:46:17.48,normal_Wed,,0,0,0,,{\c&H0201FB&\3c&HFFFFFF&}In summary\N{\c\3c} Regardless of whether it's allowed or not, its impossible to avoid
+Dialogue: 0,0:46:19.67,0:46:20.92,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:46:20.92,0:46:22.25,normal_Wed,,0,0,0,,Not very interesting
+Dialogue: 0,0:46:22.25,0:46:23.80,normal_Wed,,0,0,0,,So direct?
+Dialogue: 0,0:46:23.80,0:46:25.76,normal_Wed,,0,0,0,,No, it's fun
+Dialogue: 0,0:46:26.58,0:46:29.67,normal_Wed,,0,0,0,,Get rid of this VTR
+Dialogue: 0,0:46:29.67,0:46:32.26,normal_Wed,,0,0,0,,Wait, Matsumoto, its our first appearance \N -Magic
+Dialogue: 0,0:46:32.26,0:46:34.05,normal_Wed,,0,0,0,,It's not called magic, it's post magic
+Dialogue: 0,0:46:35.06,0:46:36.38,normal_Wed,,0,0,0,,Post
+Dialogue: 0,0:46:36.38,0:46:37.15,normal_Wed,,0,0,0,,Post magic
+Dialogue: 0,0:46:37.15,0:46:38.94,normal_Wed,,0,0,0,,It's not post magic!
+Dialogue: 0,0:46:39.31,0:47:09.94,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

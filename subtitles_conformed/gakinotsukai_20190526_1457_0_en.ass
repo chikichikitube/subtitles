@@ -1,0 +1,962 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: NEW2
+Audio File: Gaki_190526_#1457_Calbee Potato Chips Game (2).mp4
+Video File: Gaki_190526_#1457_Calbee Potato Chips Game (2).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 907
+Active Line: 910
+Video Position: 43275
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Hamada,Arial,60,&H00FC6F46,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,60,&H00462EF0,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,60,&H000372E3,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,60,&H00C014BF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Hosei,Arial,60,&H001EBB1B,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Credits,Arial,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,8,3,7,10,10,10,1
+Style: Black,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Black2,Arial,100,&H00000000,&H000000FF,&H00FFFFFF,&H00201AD0,-1,0,0,0,75,100,0,0,1,5,5,2,10,10,10,1
+Style: Red,Arial,100,&H000908B7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Red2,Arial,100,&H000E47EF,&H000000FF,&H00FFFFFF,&H00419DFB,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Red3,Arial,51,&H001616E7,&H000000FF,&H00FFFFFF,&H00419DFB,-1,0,0,0,78,100,0,0,1,5,0,2,10,10,10,1
+Style: Purple,Arial,100,&H00FF2094,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Orange,Arial,100,&H001D97FF,&H000000FF,&H00FFFFFF,&H00B6EDFE,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Yellow,Arial,100,&H0004D5FF,&H000000FF,&H000D14C4,&H00419DFB,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Batsu,Arial,100,&H0051F8F6,&H000000FF,&H00000000,&H002F3AAA,-1,0,0,0,75,100,0,0,1,5,5,2,10,10,10,1
+Style: Correct,Arial,60,&H00FFFFFF,&H000000FF,&H000282BC,&H00000000,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Break,Arial,100,&H00FA9304,&H000000FF,&H00FFFFFF,&H00419DFB,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Black/Bigger,Arial,100,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Black3,Arial,100,&H00000000,&H000000FF,&H00FFFFFF,&H0012A2E5,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Red4,Arial,100,&H001A12C6,&H000000FF,&H00FFFFFF,&H0012A2E5,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Blue,Arial,100,&H00FFFFFF,&H000000FF,&H00FF1819,&H00419DFB,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Blue2,Arial,100,&H00B9302C,&H000000FF,&H00FFFFFF,&H0012A2E5,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+Style: Brown,Arial,60,&H000D0D6F,&H000000FF,&H00FFFFFF,&H002C548E,-1,0,0,0,75,100,0,0,1,3,3,2,10,10,10,1
+Style: Default/Bigger,Arial,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.52,0:00:05.99,Yellow,,0,0,0,,{\pos(717,870)}Calbee Potato Chips{\rRed2} Taste Guess
+Dialogue: 0,0:00:00.52,0:00:05.99,Default,,0,0,0,,{\frz354.3\pos(1300.5,754)}Part 2!
+Dialogue: 0,0:00:00.82,0:00:05.78,Default,,0,0,0,,
+Dialogue: 0,0:00:05.99,0:00:20.57,Black,,0,0,0,,{\pos(156,308)}Recap
+Dialogue: 0,0:00:05.99,0:00:07.16,Default,,0,0,0,,These chips
+Dialogue: 0,0:00:07.16,0:00:09.49,Tanaka,,0,0,0,,Ah again, they're...
+Dialogue: 0,0:00:07.48,0:00:09.49,Default,,0,0,0,,
+Dialogue: 0,0:00:09.49,0:00:10.63,Hosei,,0,0,0,,They're rich
+Dialogue: 0,0:00:10.63,0:00:12.40,Hamada,,0,0,0,,They're rich?
+Dialogue: 0,0:00:11.24,0:00:12.40,Hosei,,0,0,0,,Rich?
+Dialogue: 0,0:00:12.40,0:00:15.23,Black,,0,0,0,,{\pos(735,698)}Consome Double Punch
+Dialogue: 0,0:00:12.40,0:00:15.23,Hosei,,0,0,0,,They could be those plain ones
+Dialogue: 0,0:00:14.43,0:00:15.74,Hamada,,0,0,0,,Could be, could be
+Dialogue: 0,0:00:16.67,0:00:20.57,Default,,0,0,0,,{\fade(250,0)\fs120\bord5\blur4\pos(724,882)}I guess I'm lame after all ...
+Dialogue: 0,0:00:17.76,0:00:20.57,Default,,0,0,0,,You're cool!
+Dialogue: 0,0:00:21.10,0:00:23.18,Default,,0,0,0,,From popular varities,
+Dialogue: 0,0:00:23.18,0:00:26.18,Default,,0,0,0,,and limited time special chips
+Dialogue: 0,0:00:26.98,0:00:34.62,Default,,0,0,0,,{\pos(1139,803.333)}* Some have ended production
+Dialogue: 0,0:00:26.98,0:00:34.62,Default,,0,0,0,,{\fs100\c&H0979EC&\3c&HFFFFFF&\pos(753,896)\4c&HA7E8FE&}Calbee Chips{\c&HD205E2&} 72 Varities
+Dialogue: 0,0:00:26.34,0:00:28.70,Default,,0,0,0,,Including some discontinued products,
+Dialogue: 0,0:00:28.70,0:00:34.62,Default,,0,0,0,,specially provided for this game
+Dialogue: 0,0:00:34.79,0:00:38.32,Black/Bigger,,0,0,0,,{\pos(793,894)}The 5 will{\rRed} consult{\r} together
+Dialogue: 0,0:00:38.59,0:00:42.59,Black/Bigger,,0,0,0,,{\pos(718,901.333)}A really {\rPurple} bad guess{\r} gets a punishment!
+Dialogue: 0,0:00:35.54,0:00:39.36,Default,,0,0,0,,This is a team effort kiki
+Dialogue: 0,0:00:39.50,0:00:42.59,Default,,0,0,0,,
+Dialogue: 0,0:00:42.59,0:01:01.98,Black,,0,0,0,,{\pos(156,304)}Recap
+Dialogue: 0,0:00:42.59,0:00:45.93,Matsumoto,,0,0,0,,You just gotta smell it before anyone huh?
+Dialogue: 0,0:00:45.93,0:00:49.27,Hamada,,0,0,0,,The one we ate, was, Chicken Salt flavour!
+Dialogue: 0,0:00:47.36,0:00:51.47,Black,,0,0,0,,{\fade(250,0)\fs100\pos(754,876)}Infinitely Delicious Chicken Salt
+Dialogue: 0,0:00:50.08,0:00:51.47,Default,,0,0,0,,Unfortunatley, incorrect!
+Dialogue: 0,0:00:51.87,0:00:59.44,Purple,,0,0,0,,{\pos(748,884)}{\rDefault\bord\fs100}
+Dialogue: 0,0:00:51.47,0:00:53.88,Default,,0,0,0,,It was 24, Ibburi-Gakki flavour!
+Dialogue: 0,0:00:53.88,0:00:55.67,Hosei,,0,0,0,,Octopus?
+Dialogue: 0,0:00:54.97,0:00:57.57,Default,,0,0,0,,It's a pickle
+Dialogue: 0,0:00:57.18,0:00:59.44,Endo,,0,0,0,,{\rTanaka}Oh yeah, it's ibburi-gakko!
+Dialogue: 0,0:00:59.44,0:01:01.98,Default,,0,0,0,,{\fs100\pos(747,878)}It literally{\rTanaka\fs100} can't be anything else
+Dialogue: 0,0:01:01.98,0:01:08.65,Credits,,0,0,0,,TYPESET BY{\c&HF8A479&} KEDOMAS\N{\r}TRANSLATION BY{\c&H7AF0F8&} SENOR_WRISTBAND
+Dialogue: 0,0:01:08.65,0:01:09.99,Default,,0,0,0,,{\fnImpact\bord0\shad0\pos(734.5,118)\fscx119\fscy151}Down{\c&H000000&}town's
+Dialogue: 0,0:01:08.65,0:01:09.99,Default,,0,0,0,,{\fnImpact\fs120\bord0\shad0\c&H0903BE&\fscx108\fscy106\pos(769,368)}Gaki no Tsukai
+Dialogue: 0,0:01:08.65,0:01:09.99,Default,,0,0,0,,{\fnImpact\fs120\bord0\shad0\c&H4F8DC7&\fscx108\fscy106\pos(739.5,728)}ya Arahende!
+Dialogue: 0,0:01:09.99,0:01:12.14,Hosei,,0,0,0,,The appearance is a good hint, huh?
+Dialogue: 0,0:01:11.40,0:01:12.50,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:01:12.14,0:01:14.19,Default,,0,0,0,,Let's move on to the next chips
+Dialogue: 0,0:01:13.40,0:01:14.66,Tanaka,,0,0,0,,
+Dialogue: 0,0:01:14.29,0:01:15.96,Orange,,0,0,0,,{\fade(250,250)\t(0,0,\fs125\pos(721.5,784))}7th flavour
+Dialogue: 0,0:01:14.42,0:01:17.06,Default,,0,0,0,,Continuing on, these are the next chips
+Dialogue: 0,0:01:17.46,0:01:19.43,Tanaka,,0,0,0,,They look different
+Dialogue: 0,0:01:17.98,0:01:20.20,Hosei,,0,0,0,,They're hard fried
+Dialogue: 0,0:01:19.43,0:01:21.43,Tanaka,,0,0,0,,We can distinguish them
+Dialogue: 0,0:01:21.43,0:01:23.03,Black,,0,0,0,,{\pos(195,982)}7th f
+Dialogue: 0,0:01:21.43,0:01:23.03,Matsumoto,,0,0,0,,Hard fried, they're hard fried!
+Dialogue: 0,0:01:22.60,0:01:24.30,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:01:23.36,0:01:25.42,Endo,,0,0,0,,There's a lot of hard fried...
+Dialogue: 0,0:01:24.42,0:01:26.72,Matsumoto,,0,0,0,,There's a ton of them!
+Dialogue: 0,0:01:25.66,0:01:27.22,Hosei,,0,0,0,,Could be black pepper?
+Dialogue: 0,0:01:27.00,0:01:30.04,Black,,0,0,0,,{\pos(195,986)}7th flavour
+Dialogue: 0,0:01:27.00,0:01:30.04,Matsumoto,,0,0,0,,{\rBlack\pos(892.5,928)}There's not a hint of pepper{\rDefault} you absoulte numpty!
+Dialogue: 0,0:01:30.41,0:01:32.94,Matsumoto,,0,0,0,,There's no black flecks or anything!
+Dialogue: 0,0:01:32.24,0:01:34.11,Hamada,,0,0,0,,Don't make lame jokes!
+Dialogue: 0,0:01:34.11,0:01:44.72,Black,,0,0,0,,{\pos(195,986)}
+Dialogue: 0,0:01:34.11,0:01:36.31,Matsumoto,,0,0,0,,
+Dialogue: 0,0:01:37.52,0:01:40.72,Matsumoto,,0,0,0,,What black pepper are you seeing here?
+Dialogue: 0,0:01:41.28,0:01:43.34,Hosei,,0,0,0,,Lost all my confidence suddenly...
+Dialogue: 0,0:01:45.56,0:01:46.69,Hamada,,0,0,0,,Hmm?
+Dialogue: 0,0:01:46.76,0:01:48.72,Hamada,,0,0,0,,The taste ...
+Dialogue: 0,0:01:48.72,0:01:51.01,Endo,,0,0,0,,It's definitely hard fried
+Dialogue: 0,0:01:51.01,0:01:52.08,Matsumoto,,0,0,0,,I see
+Dialogue: 0,0:01:51.52,0:01:53.46,Default,,0,0,0,,The appearance, right?
+Dialogue: 0,0:01:52.66,0:01:53.94,Endo,,0,0,0,,It's crunchy
+Dialogue: 0,0:01:53.46,0:01:56.87,Black,,0,0,0,,{\pos(201,982)}
+Dialogue: 0,0:01:53.46,0:01:55.00,Matsumoto,,0,0,0,,Uwahh, I see
+Dialogue: 0,0:01:55.00,0:01:56.87,Matsumoto,,0,0,0,,But it's definitely,\N{\rEndo} Yes?
+Dialogue: 0,0:01:56.87,0:02:02.41,Black,,0,0,0,,{\pos(288,634)}Seaweed
+Dialogue: 0,0:01:56.87,0:02:02.41,Black,,0,0,0,,{\pos(727,636)}Edamame Garlic
+Dialogue: 0,0:01:56.87,0:02:02.41,Black,,0,0,0,,{\pos(1162,640)}Wasabi Salt
+Dialogue: 0,0:01:56.87,0:01:59.30,Matsumoto,,0,0,0,,It's not Seaweed from #28,
+Dialogue: 0,0:01:59.30,0:02:02.41,Matsumoto,,0,0,0,,and it's not Edamame or Wasabi either
+Dialogue: 0,0:02:02.41,0:02:05.58,Black,,0,0,0,,{\pos(190,982)}
+Dialogue: 0,0:02:02.41,0:02:05.58,Black,,0,0,0,,{\pos(908.5,860.667)}#27 Black Pepper{\rMatsumoto} - It's not black pepper either
+Dialogue: 0,0:02:03.68,0:02:05.34,Default,,0,0,0,,In that case?
+Dialogue: 0,0:02:05.58,0:02:11.68,Matsumoto,,0,0,0,,It's for sure between 32 and 35
+Dialogue: 0,0:02:05.58,0:02:06.78,Black,,0,0,0,,{\pos(700,612)}Konbu Soy Sauce
+Dialogue: 0,0:02:09.65,0:02:11.68,Black,,0,0,0,,{\pos(700,612)}Kyushu Soy Sauce
+Dialogue: 0,0:02:11.48,0:02:14.02,Default,,0,0,0,,So you've narrowed it down to 4
+Dialogue: 0,0:02:11.68,0:02:21.73,Black,,0,0,0,,{\pos(195,980)}
+Dialogue: 0,0:02:11.68,0:02:21.73,Black,,0,0,0,,{\pos(495.5,898)}Konbu Soy Sauce
+Dialogue: 0,0:02:11.68,0:02:21.73,Black,,0,0,0,,{\pos(747,895.333)}White Shrimp
+Dialogue: 0,0:02:11.68,0:02:21.73,Black,,0,0,0,,{\pos(1014,895.333)}Kansai Dashi Soy
+Dialogue: 0,0:02:11.68,0:02:21.73,Black,,0,0,0,,{\pos(1272,896.001)}Kyushu Soy Sauce
+Dialogue: 0,0:02:13.42,0:02:16.32,Matsumoto,,0,0,0,,I think I am not mistaken here
+Dialogue: 0,0:02:16.32,0:02:17.86,Hosei,,0,0,0,,There is no mistake here
+Dialogue: 0,0:02:17.86,0:02:19.46,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:02:18.28,0:02:19.92,Hosei,,0,0,0,,
+Dialogue: 0,0:02:18.52,0:02:20.90,Default,,0,0,0,,Tanaka-san, and Housei-san agree?
+Dialogue: 0,0:02:20.16,0:02:21.73,Tanaka,,0,0,0,,Yes, no mistake
+Dialogue: 0,0:02:20.53,0:02:25.13,Matsumoto,,0,0,0,,There's no plum taste from 31 either
+Dialogue: 0,0:02:21.73,0:02:27.56,Black,,0,0,0,,{\pos(223.5,606)}Plum and Konbu
+Dialogue: 0,0:02:21.73,0:02:27.56,Black,,0,0,0,,{\pos(463.5,602)}Konbu Soy
+Dialogue: 0,0:02:21.73,0:02:27.56,Black,,0,0,0,,{\pos(711,600)}White Shrimp
+Dialogue: 0,0:02:21.73,0:02:27.56,Black,,0,0,0,,{\pos(967.5,600)}Kansai Dashi Soy
+Dialogue: 0,0:02:21.73,0:02:27.56,Black,,0,0,0,,{\pos(1239,600)}Kyushu Soy Sauce
+Dialogue: 0,0:02:23.76,0:02:26.10,Hamada,,0,0,0,,What about this Kyushu Soy Sauce?
+Dialogue: 0,0:02:25.40,0:02:28.26,Endo,,0,0,0,,Or like Kansai Dashi Soy Sauce
+Dialogue: 0,0:02:25.86,0:02:27.64,Default,,0,0,0,,
+Dialogue: 0,0:02:27.56,0:02:32.50,Black,,0,0,0,,{\pos(199.5,988)}
+Dialogue: 0,0:02:27.56,0:02:32.50,Black,,0,0,0,,{\pos(496.5,1074)}
+Dialogue: 0,0:02:27.56,0:02:32.50,Black,,0,0,0,,{\pos(753,1074)}text
+Dialogue: 0,0:02:27.56,0:02:32.50,Black,,0,0,0,,{\pos(1012.5,1074)}text
+Dialogue: 0,0:02:27.56,0:02:32.50,Black,,0,0,0,,{\pos(1264.5,1074)}text
+Dialogue: 0,0:02:27.64,0:02:29.63,Hamada,,0,0,0,,It has a Kansai taste
+Dialogue: 0,0:02:28.66,0:02:30.46,Tanaka,,0,0,0,,The smell is pretty-
+Dialogue: 0,0:02:29.63,0:02:32.50,Hamada,,0,0,0,,Right? a Kyushu smell
+Dialogue: 0,0:02:30.46,0:02:32.50,Tanaka,,0,0,0,,
+Dialogue: 0,0:02:32.50,0:02:34.24,Hamada,,0,0,0,,It's a deep taste
+Dialogue: 0,0:02:34.24,0:02:35.54,Default,,0,0,0,,I see
+Dialogue: 0,0:02:34.80,0:02:36.82,Hamada,,0,0,0,,
+Dialogue: 0,0:02:36.37,0:02:45.25,Black,,0,0,0,,{\pos(211,980)}
+Dialogue: 0,0:02:37.51,0:02:45.25,Black,,0,0,0,,{\pos(639,879.333)}Kansai Dashi Soy Sauce
+Dialogue: 0,0:02:38.34,0:02:45.25,Black,,0,0,0,,{\pos(1019.5,879.333)}Kyushu Soy Sauce
+Dialogue: 0,0:02:37.30,0:02:38.34,Hamada,,0,0,0,,Kansai?
+Dialogue: 0,0:02:38.34,0:02:39.68,Hamada,,0,0,0,,or Kyushu?
+Dialogue: 0,0:02:39.88,0:02:41.96,Default,,0,0,0,,You're that confident?
+Dialogue: 0,0:02:41.96,0:02:43.55,Default,,0,0,0,,You're confident?
+Dialogue: 0,0:02:42.38,0:02:44.72,Endo,,0,0,0,,It's between those two right?
+Dialogue: 0,0:02:43.42,0:02:45.38,Hamada,,0,0,0,,32 or 34
+Dialogue: 0,0:02:44.72,0:02:46.56,Tanaka,,0,0,0,,
+Dialogue: 0,0:02:45.25,0:02:47.75,Black,,0,0,0,,{\pos(382.5,640)}Kansai Dashi Soy Sauce
+Dialogue: 0,0:02:45.25,0:02:47.75,Black,,0,0,0,,{\pos(1041,638)}Kyushu Soy Sauce
+Dialogue: 0,0:02:45.72,0:02:47.22,Matsumoto,,0,0,0,,It's either one
+Dialogue: 0,0:02:46.56,0:02:47.75,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:02:47.75,0:02:52.89,Black,,0,0,0,,{\pos(196.5,984)}
+Dialogue: 0,0:02:47.75,0:02:52.89,Black,,0,0,0,,{\pos(646.5,1074)}
+Dialogue: 0,0:02:47.75,0:02:52.89,Black,,0,0,0,,{\pos(1020,1074)}
+Dialogue: 0,0:02:47.75,0:02:50.95,Tanaka,,0,0,0,,34 and 35 are both soy sauce,
+Dialogue: 0,0:02:50.95,0:02:52.89,Tanaka,,0,0,0,, just the dashi is different
+Dialogue: 0,0:02:52.89,0:02:55.16,Tanaka,,0,0,0,,So it depends whether we can taste dashi
+Dialogue: 0,0:02:55.16,0:02:56.90,Hamada,,0,0,0,,I see
+Dialogue: 0,0:02:55.96,0:02:58.58,Tanaka,,0,0,0,,The soy sauce is hard to discern
+Dialogue: 0,0:02:57.78,0:02:59.16,Default,,0,0,0,,I see, I see
+Dialogue: 0,0:02:59.16,0:03:00.52,Endo,,0,0,0,,Kansai...
+Dialogue: 0,0:03:01.03,0:03:03.24,Endo,,0,0,0,,has a more delicate flavour?
+Dialogue: 0,0:03:03.57,0:03:06.88,Tanaka,,0,0,0,,Yeah I agree, it's weaker
+Dialogue: 0,0:03:05.72,0:03:07.82,Hamada,,0,0,0,,Then it's Kyushu?
+Dialogue: 0,0:03:07.32,0:03:09.72,Endo,,0,0,0,,It feels like Kyushu ...
+Dialogue: 0,0:03:09.01,0:03:13.94,Hosei,,0,0,0,,I think the dashi taste is the sweetness
+Dialogue: 0,0:03:12.16,0:03:13.72,Hamada,,0,0,0,,I see
+Dialogue: 0,0:03:14.56,0:03:16.44,Default,,0,0,0,,They're really glaring at you!
+Dialogue: 0,0:03:17.36,0:03:19.66,Default,,0,0,0,,That was really cold reaction!
+Dialogue: 0,0:03:19.76,0:03:21.90,Hosei,,0,0,0,,They really don't agree
+Dialogue: 0,0:03:21.18,0:03:22.58,Default,,0,0,0,,Exactly
+Dialogue: 0,0:03:22.64,0:03:24.24,Matsumoto,,0,0,0,,I think it's #35 (Kyushu)
+Dialogue: 0,0:03:24.24,0:03:26.10,Default,,0,0,0,,I see
+Dialogue: 0,0:03:24.60,0:03:26.92,Hamada,,0,0,0,,Kyushu ...
+Dialogue: 0,0:03:26.10,0:03:29.68,Matsumoto,,0,0,0,,It doesn't have that kansai dashi taste
+Dialogue: 0,0:03:30.02,0:03:31.63,Endo,,0,0,0,,I think this is good
+Dialogue: 0,0:03:31.63,0:03:32.82,Default,,0,0,0,,You all agree?
+Dialogue: 0,0:03:32.32,0:03:33.90,Hamada,,0,0,0,,Yup
+Dialogue: 0,0:03:33.40,0:03:35.17,Default,,0,0,0,,Then everyone,
+Dialogue: 0,0:03:34.30,0:03:35.44,Tanaka,,0,0,0,,yes
+Dialogue: 0,0:03:35.17,0:03:36.97,Default,,0,0,0,,are you ready?
+Dialogue: 0,0:03:37.43,0:03:38.88,Default,,0,0,0,,The answer please!
+Dialogue: 0,0:03:38.38,0:03:39.34,Matsumoto,,0,0,0,,Ok
+Dialogue: 0,0:03:39.34,0:03:43.97,Default,,0,0,0,,The one we all ate, was, Kyushu Soy Sauce flavour!
+Dialogue: 0,0:03:41.20,0:03:50.68,Black,,0,0,0,,{\pos(484,916)}Hard Fried Potato
+Dialogue: 0,0:03:41.20,0:03:50.68,Black,,0,0,0,,{\pos(948,876)}Kyushu Soy Sauce Flavour
+Dialogue: 0,0:03:45.48,0:03:50.68,Correct,,0,0,0,,{\pos(120,778)\frz349.5}Correct!
+Dialogue: 0,0:03:45.42,0:03:46.98,Default,,0,0,0,,Correct!
+Dialogue: 0,0:03:47.04,0:03:48.71,Matsumoto,,0,0,0,,YEAHASDHAJSKLD !!!!!!
+Dialogue: 0,0:03:48.95,0:03:50.68,Default,,0,0,0,,Well done!
+Dialogue: 0,0:03:50.24,0:03:51.54,Tanaka,,0,0,0,,We did it!
+Dialogue: 0,0:03:51.54,0:03:52.86,Default,,0,0,0,,That was
+Dialogue: 0,0:03:52.46,0:03:54.20,Default,,0,0,0,,That was well done
+Dialogue: 0,0:03:53.60,0:03:55.75,Endo,,0,0,0,,I'm so happy
+Dialogue: 0,0:03:55.75,0:04:00.66,Default,,0,0,0,,{\pos(596,870)}Limited Time Product (China - Shikoku - Kyushu)
+Dialogue: 0,0:03:55.75,0:03:59.62,Default,,0,0,0,,You narrowed it down first, between 32 and 35
+Dialogue: 0,0:03:58.90,0:04:00.66,Matsumoto,,0,0,0,,This feels great
+Dialogue: 0,0:04:00.10,0:04:01.96,Default,,0,0,0,,That was great
+Dialogue: 0,0:04:00.82,0:04:08.10,Default,,0,0,0,,{\pos(490.5,722)}Kyushu Soy Sauce
+Dialogue: 0,0:04:00.82,0:04:08.10,Red3,,0,0,0,,{\pos(739.5,874)}The rich chicken broth brings out the sweetness in the soy sauce
+Dialogue: 0,0:04:06.84,0:04:08.45,Tanaka,,0,0,0,,I feel great
+Dialogue: 0,0:04:08.10,0:04:10.77,Orange,,0,0,0,,{\fade(250,250)\t(0,0,\fs125\pos(721.5,784))}8th flavour
+Dialogue: 0,0:04:08.13,0:04:11.12,Default,,0,0,0,,Let's continue to these chips
+Dialogue: 0,0:04:11.50,0:04:12.52,Tanaka,,0,0,0,,Oh?
+Dialogue: 0,0:04:12.52,0:04:14.56,Default,,0,0,0,,These are the next chips
+Dialogue: 0,0:04:13.80,0:04:15.50,Hosei,,0,0,0,,The appearance is a hint again
+Dialogue: 0,0:04:15.10,0:04:17.06,Tanaka,,0,0,0,,Right? The pepper
+Dialogue: 0,0:04:17.34,0:04:18.84,Tanaka,,0,0,0,,That's a hint
+Dialogue: 0,0:04:18.84,0:04:21.08,Matsumoto,,0,0,0,,It's pepper, right?
+Dialogue: 0,0:04:19.22,0:04:20.60,Endo,,0,0,0,,This is pepper
+Dialogue: 0,0:04:20.60,0:04:22.05,Matsumoto,,0,0,0,,
+Dialogue: 0,0:04:21.15,0:04:22.76,Matsumoto,,0,0,0,,Definitely pepper
+Dialogue: 0,0:04:22.16,0:04:23.58,Hosei,,0,0,0,,The black flecks?
+Dialogue: 0,0:04:24.05,0:04:25.62,Endo,,0,0,0,,There are black flecks
+Dialogue: 0,0:04:24.52,0:04:26.42,Tanaka,,0,0,0,,
+Dialogue: 0,0:04:28.08,0:04:29.42,Endo,,0,0,0,,
+Dialogue: 0,0:04:29.82,0:04:30.84,Matsumoto,,0,0,0,,
+Dialogue: 0,0:04:31.15,0:04:31.89,Matsumoto,,0,0,0,,It's pepper
+Dialogue: 0,0:04:33.08,0:04:34.52,Hamada,,0,0,0,,It's sweet
+Dialogue: 0,0:04:35.03,0:04:36.51,Endo,,0,0,0,,Sweet, but peppery
+Dialogue: 0,0:04:36.16,0:04:37.36,Hamada,,0,0,0,,Yeah of course
+Dialogue: 0,0:04:37.36,0:04:39.18,Hosei,,0,0,0,,This is pepper
+Dialogue: 0,0:04:38.30,0:04:39.53,Hamada,,0,0,0,,
+Dialogue: 0,0:04:39.18,0:04:40.76,Tanaka,,0,0,0,,It's pepper for sure
+Dialogue: 0,0:04:40.13,0:04:43.90,Hamada,,0,0,0,,Should we just go for the pepper?
+Dialogue: 0,0:04:41.24,0:04:42.46,Endo,,0,0,0,,I think pepper is correct
+Dialogue: 0,0:04:42.46,0:04:44.25,Matsumoto,,0,0,0,,What pepper ones are there?
+Dialogue: 0,0:04:43.44,0:04:45.80,Hamada,,0,0,0,,There's 27 ...
+Dialogue: 0,0:04:43.90,0:04:47.97,Black,,0,0,0,,{\pos(712.5,596)}Hard Fried - Black Pepper
+Dialogue: 0,0:04:45.80,0:04:47.97,Endo,,0,0,0,,It's not hard fried though
+Dialogue: 0,0:04:46.58,0:04:47.97,Matsumoto,,0,0,0,,It's not hard fried right
+Dialogue: 0,0:04:47.97,0:04:49.58,Matsumoto,,0,0,0,,So eliminate that
+Dialogue: 0,0:04:50.06,0:04:51.52,Matsumoto,,0,0,0,,Pepper, pepper
+Dialogue: 0,0:04:50.86,0:04:52.64,Hosei,,0,0,0,,#57
+Dialogue: 0,0:04:53.71,0:04:56.55,Black,,0,0,0,,{\pos(711,568)}Toyama's Black Ramen Flavour
+Dialogue: 0,0:04:52.06,0:04:53.41,Hamada,,0,0,0,,57?
+Dialogue: 0,0:04:53.41,0:04:55.32,Matsumoto,,0,0,0,,Toyama Black Ramen?
+Dialogue: 0,0:04:54.22,0:04:56.44,Hamada,,0,0,0,,Black Ramen?
+Dialogue: 0,0:04:55.44,0:04:56.68,Tanaka,,0,0,0,,Oh yeah
+Dialogue: 0,0:04:56.71,0:05:03.92,Default,,0,0,0,,{\pos(233,978.667)}Toyama Black Ramen
+Dialogue: 0,0:04:56.71,0:05:03.92,Black,,0,0,0,,{\pos(740.5,919.333)}Toyama Local Delicacy Ramen
+Dialogue: 0,0:04:56.68,0:04:58.26,Hamada,,0,0,0,,That black ramen?
+Dialogue: 0,0:04:58.26,0:05:00.28,Hosei,,0,0,0,,Yes\N{\rMatsumoto} We said it's pepper man
+Dialogue: 0,0:05:00.28,0:05:02.05,Hosei,,0,0,0,,That is pepper ramen
+Dialogue: 0,0:05:02.59,0:05:03.96,Hosei,,0,0,0,,It's pepper flavour ramen
+Dialogue: 0,0:05:03.24,0:05:05.18,Matsumoto,,0,0,0,,There's no other pepper flavours, huh?
+Dialogue: 0,0:05:04.68,0:05:06.08,Tanaka,,0,0,0,,Oh yeah
+Dialogue: 0,0:05:05.58,0:05:09.02,Hosei,,0,0,0,,There's also #24, Rich Pepper Flavour
+Dialogue: 0,0:05:10.34,0:05:11.46,Matsumoto,,0,0,0,,That's it!
+Dialogue: 0,0:05:10.96,0:05:12.46,Endo,,0,0,0,,This is the answer
+Dialogue: 0,0:05:11.66,0:05:13.00,Hosei,,0,0,0,,Right?
+Dialogue: 0,0:05:13.56,0:05:15.96,Endo,,0,0,0,,This is definitely kuro kosho flavour
+Dialogue: 0,0:05:13.56,0:05:15.96,Default,,0,0,0,,{\pos(752,75.333)}TN: I think kuro kosho is black pepper (black seasoning)
+Dialogue: 0,0:05:15.96,0:05:17.46,Hosei,,0,0,0,,Right?\N{\rEndo}Yup, yeah
+Dialogue: 0,0:05:17.46,0:05:20.60,Default,,0,0,0,,Are you ready? That was fast.
+Dialogue: 0,0:05:18.34,0:05:29.55,Black,,0,0,0,,{\pos(822.5,860.667)}24 - Rich Black Pepper (Black Seasoning)
+Dialogue: 0,0:05:19.80,0:05:23.64,Matsumoto,,0,0,0,,If we get this, Yamasaki can regain his reputation
+Dialogue: 0,0:05:23.25,0:05:24.86,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:05:23.64,0:05:26.48,Default,,0,0,0,,Understood, are you ready then?
+Dialogue: 0,0:05:25.68,0:05:27.94,Matsumoto,,0,0,0,,This is definitely 24
+Dialogue: 0,0:05:27.64,0:05:30.30,Default,,0,0,0,,Understood, the answer please!
+Dialogue: 0,0:05:30.48,0:05:35.02,Default,,0,0,0,,The one we ate, was, Rich Black Pepper flavour
+Dialogue: 0,0:05:36.60,0:05:38.14,Default,,0,0,0,,Unfortunately, incorrect!
+Dialogue: 0,0:05:38.24,0:05:41.26,Hamada,,0,0,0,,Eh, it's not this one?
+Dialogue: 0,0:05:39.08,0:05:41.26,Hosei,,0,0,0,,It's not my fault, ok?
+Dialogue: 0,0:05:41.59,0:05:43.08,Default,,0,0,0,,Yes that's true but,
+Dialogue: 0,0:05:43.08,0:05:47.08,Default,,0,0,0,,Housei-san you should have been more confident
+Dialogue: 0,0:05:46.02,0:05:47.74,Tanaka,,0,0,0,,Correct answer?
+Dialogue: 0,0:05:47.08,0:05:49.56,Default,,0,0,0,,Toyama's Black Ramen flavour!
+Dialogue: 0,0:05:49.63,0:05:52.30,Black,,0,0,0,,{\fs125\bord5\4c&H0100CD&}SEEE!!!!!!!!!!!!
+Dialogue: 0,0:05:52.47,0:05:58.41,Default,,0,0,0,,{\pos(441,864)}* Discontinued
+Dialogue: 0,0:05:52.47,0:06:09.09,Black,,0,0,0,,Toyama's Black Ramen
+Dialogue: 0,0:05:52.30,0:05:53.90,Default,,0,0,0,,It was that one!
+Dialogue: 0,0:05:52.90,0:05:54.82,Hosei,,0,0,0,,MOUUUUUUUUUUUUUUUUUUUUUUUUUU!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Dialogue: 0,0:05:54.98,0:05:57.14,Hamada,,0,0,0,,It was Toyama Black!
+Dialogue: 0,0:05:56.44,0:05:58.42,Hosei,,0,0,0,,I FUGGIN TOLD YOUUU!!!!!!!!!!!!!!!
+Dialogue: 0,0:05:58.02,0:06:00.73,Default,,0,0,0,,You said it immediately huh?
+Dialogue: 0,0:05:59.91,0:06:03.25,Matsumoto,,0,0,0,,{\pos(730.5,764)}You should have pushed for it more
+Dialogue: 0,0:06:01.30,0:06:02.84,Hamada,,0,0,0,,Exactly
+Dialogue: 0,0:06:02.84,0:06:04.30,Default,,0,0,0,,You were doubted
+Dialogue: 0,0:06:03.00,0:06:04.84,Hosei,,0,0,0,,Someone doubted me
+Dialogue: 0,0:06:04.30,0:06:05.25,Matsumoto,,0,0,0,,Who?
+Dialogue: 0,0:06:05.25,0:06:06.38,Matsumoto,,0,0,0,,Who?!
+Dialogue: 0,0:06:06.55,0:06:08.16,Hosei,,0,0,0,,THIS GUY!
+Dialogue: 0,0:06:10.15,0:06:15.13,Hosei,,0,0,0,,This man destroyed my confidence!
+Dialogue: 0,0:06:13.02,0:06:16.10,Default,,0,0,0,,We thought you were gonna get it
+Dialogue: 0,0:06:13.43,0:06:15.50,Matsumoto,,0,0,0,,Seriously?!
+Dialogue: 0,0:06:15.13,0:06:18.70,Default,,0,0,0,,Amazing, you got it
+Dialogue: 0,0:06:18.86,0:06:25.27,Default,,0,0,0,,{\pos(436.5,674)}A flavour from one of the 47 Prefectures;
+Dialogue: 0,0:06:18.86,0:06:25.27,Red3,,0,0,0,,{\pos(739.5,866)}A rich black soup with lots of umami flavour, with a kick from black pepper
+Dialogue: 0,0:06:22.80,0:06:24.50,Matsumoto,,0,0,0,,That's why it was sweet
+Dialogue: 0,0:06:24.20,0:06:25.84,Hosei,,0,0,0,,Exactly
+Dialogue: 0,0:06:24.76,0:06:27.26,Default,,0,0,0,,You said it was sweet at the beginning
+Dialogue: 0,0:06:25.44,0:06:31.61,Default,,0,0,0,,{\pos(442.5,864)}Discontinued*
+Dialogue: 0,0:06:25.44,0:06:31.61,Black,,0,0,0,,{\pos(796.5,884.667)}Toyama's Black Ramen
+Dialogue: 0,0:06:27.26,0:06:29.64,Tanaka,,0,0,0,,Oh that's why?
+Dialogue: 0,0:06:28.54,0:06:31.32,Matsumoto,,0,0,0,,I haven't had these ones before
+Dialogue: 0,0:06:29.64,0:06:31.32,Endo,,0,0,0,,They are tasty
+Dialogue: 0,0:06:31.47,0:06:33.66,Default,,0,0,0,,Moving on, these chips
+Dialogue: 0,0:06:34.00,0:06:35.76,Endo,,0,0,0,,Yes! We got them again!
+Dialogue: 0,0:06:35.10,0:06:36.46,Matsumoto,,0,0,0,,Hard Fried
+Dialogue: 0,0:06:36.20,0:06:38.85,Tanaka,,0,0,0,,Yes, yes, we can distinguish these
+Dialogue: 0,0:06:37.65,0:06:39.50,Hosei,,0,0,0,,Let's get this bread
+Dialogue: 0,0:06:38.85,0:07:06.71,Black,,0,0,0,,{\pos(202.5,986)}9th flavour
+Dialogue: 0,0:06:38.85,0:06:41.64,Matsumoto,,0,0,0,,Sniffing the shit out of them
+Dialogue: 0,0:06:42.69,0:06:47.62,Matsumoto,,0,0,0,,I almost pinched his head ...
+Dialogue: 0,0:06:43.48,0:06:46.16,Endo,,0,0,0,,That was close
+Dialogue: 0,0:06:47.62,0:06:50.48,Default,,0,0,0,,You might end up smelling his head
+Dialogue: 0,0:06:52.10,0:06:52.96,Hamada,,0,0,0,,
+Dialogue: 0,0:06:53.06,0:06:53.92,Default,,0,0,0,,
+Dialogue: 0,0:06:54.34,0:06:55.60,Endo,,0,0,0,,Yup! Ok!
+Dialogue: 0,0:06:55.20,0:06:57.07,Hosei,,0,0,0,,I got it!
+Dialogue: 0,0:06:55.60,0:06:57.57,Matsumoto,,0,0,0,,Thank you
+Dialogue: 0,0:06:57.57,0:07:02.94,Tanaka,,0,0,0,,I already got it!
+Dialogue: 0,0:06:58.22,0:06:59.98,Matsumoto,,0,0,0,,Thank you for the freebie question
+Dialogue: 0,0:06:59.38,0:07:00.68,Hamada,,0,0,0,,Is it that one?
+Dialogue: 0,0:07:00.68,0:07:02.04,Tanaka,,0,0,0,,I got it
+Dialogue: 0,0:07:02.04,0:07:03.41,Hamada,,0,0,0,,That one right?
+Dialogue: 0,0:07:02.94,0:07:05.88,Matsumoto,,0,0,0,,It's that one, or-
+Dialogue: 0,0:07:03.34,0:07:05.22,Tanaka,,0,0,0,,Absolutely
+Dialogue: 0,0:07:05.31,0:07:06.71,Default,,0,0,0,,Can you all say it together?
+Dialogue: 0,0:07:06.71,0:07:09.38,Default,,0,0,0,,Ready, steady, #31
+Dialogue: 0,0:07:08.68,0:07:10.55,Black,,0,0,0,,{\pos(706.5,608)}Plum and Salted Konbu
+Dialogue: 0,0:07:10.55,0:07:18.29,Hosei,,0,0,0,,{\pos(457.5,814)}Hosei
+Dialogue: 0,0:07:10.55,0:07:18.29,Matsumoto,,0,0,0,,{\pos(675,808)}Matsumoto
+Dialogue: 0,0:07:10.55,0:07:18.29,Hamada,,0,0,0,,{\pos(885,810)}Hamada
+Dialogue: 0,0:07:10.55,0:07:18.29,Endo,,0,0,0,,{\pos(1090.5,810)}Endo
+Dialogue: 0,0:07:10.55,0:07:18.29,Tanaka,,0,0,0,,{\pos(1306.5,814)}Tanaka
+Dialogue: 0,0:07:10.55,0:07:12.95,Matsumoto,,0,0,0,,If this is wrong, we're over\N{\rTanaka}Exactly
+Dialogue: 0,0:07:13.95,0:07:15.26,Hamada,,0,0,0,,Definitely
+Dialogue: 0,0:07:13.95,0:07:16.75,Endo,,0,0,0,,Definitely
+Dialogue: 0,0:07:15.26,0:07:16.75,Default,,0,0,0,,You're ready?
+Dialogue: 0,0:07:16.75,0:07:19.36,Default,,0,0,0,,The answer, please!
+Dialogue: 0,0:07:19.46,0:07:26.03,Default,,0,0,0,,The one we ate, was, Plum and Salted Konbu flavour!
+Dialogue: 0,0:07:21.69,0:07:31.84,Black,,0,0,0,,{\pos(780,868)}Plum and Salted Konbu
+Dialogue: 0,0:07:27.06,0:07:31.84,Correct,,0,0,0,,{\frz345.9\pos(114,782)}CORRECT!
+Dialogue: 0,0:07:27.28,0:07:29.70,Default,,0,0,0,,Well done!
+Dialogue: 0,0:07:28.62,0:07:30.40,Hamada,,0,0,0,,That was fast!
+Dialogue: 0,0:07:29.80,0:07:31.84,Default,,0,0,0,,You guys were quick
+Dialogue: 0,0:07:31.14,0:07:32.88,Hosei,,0,0,0,,I got it from the smell
+Dialogue: 0,0:07:31.84,0:07:33.28,Default,,0,0,0,,Oh really?
+Dialogue: 0,0:07:32.04,0:07:34.87,Hosei,,0,0,0,,It's a delicate smell
+Dialogue: 0,0:07:34.58,0:07:36.31,Matsumoto,,0,0,0,,Right
+Dialogue: 0,0:07:36.47,0:07:47.32,Default,,0,0,0,,{\pos(289.5,678)}Hard Fried
+Dialogue: 0,0:07:36.47,0:07:47.32,Default,,0,0,0,,{\pos(643.5,716.667)}Plum and Salted Konbu
+Dialogue: 0,0:07:36.47,0:07:47.32,Red3,,0,0,0,,{\pos(762,874)}A lingering taste of konbu and a gentle plum aroma
+Dialogue: 0,0:07:36.54,0:07:38.34,Default,,0,0,0,,A skillfully guessed answer
+Dialogue: 0,0:07:38.58,0:07:46.78,Default,,0,0,0,,
+Dialogue: 0,0:07:47.52,0:07:49.65,Orange,,0,0,0,,10th Flavour
+Dialogue: 0,0:07:47.42,0:07:49.72,Default,,0,0,0,,Next up are these
+Dialogue: 0,0:07:49.88,0:07:51.10,Matsumoto,,0,0,0,,These types
+Dialogue: 0,0:07:50.80,0:07:52.18,Hosei,,0,0,0,,
+Dialogue: 0,0:07:51.80,0:07:53.44,Hamada,,0,0,0,,
+Dialogue: 0,0:07:52.74,0:07:54.82,Matsumoto,,0,0,0,,These are ruffled, right?
+Dialogue: 0,0:07:54.32,0:07:56.56,Hosei,,0,0,0,,Yeah these are ruffled right?
+Dialogue: 0,0:07:55.76,0:07:57.14,Endo,,0,0,0,,The shape is different though
+Dialogue: 0,0:07:57.09,0:08:00.80,Black,,0,0,0,,{\pos(634.5,618)}Ruffled - Salt Flavour
+Dialogue: 0,0:07:57.09,0:08:00.80,Black,,0,0,0,,{\pos(1161,606)}Ruffled - Rich Chicken Consome
+Dialogue: 0,0:07:57.14,0:07:59.86,Hosei,,0,0,0,,This could be the ruffled salt
+Dialogue: 0,0:07:59.86,0:08:01.40,Endo,,0,0,0,,Looks like it\N{\rHosei}Yup
+Dialogue: 0,0:08:00.80,0:08:08.94,Black,,0,0,0,,{\pos(196.5,986)}10th flavour
+Dialogue: 0,0:08:03.12,0:08:05.03,Hamada,,0,0,0,,This is that one
+Dialogue: 0,0:08:05.62,0:08:07.50,Matsumoto,,0,0,0,,*cronch* *cronch*
+Dialogue: 0,0:08:06.80,0:08:08.94,Endo,,0,0,0,,This is super rich
+Dialogue: 0,0:08:08.94,0:08:11.84,Endo,,0,0,0,,Is it{\rDefault\c&H14ACFC&\4c&HFFFFFF&} butter?
+Dialogue: 0,0:08:09.80,0:08:11.22,Hamada,,0,0,0,,Yeah, yeah it is
+Dialogue: 0,0:08:10.16,0:08:11.70,Default,,0,0,0,,That was fast
+Dialogue: 0,0:08:11.40,0:08:12.98,Matsumoto,,0,0,0,,Can I say it?
+Dialogue: 0,0:08:12.20,0:08:14.22,Default,,0,0,0,,Matsumoto-san you know it?
+Dialogue: 0,0:08:12.98,0:08:16.35,Matsumoto,,0,0,0,,This is definitely #23
+Dialogue: 0,0:08:15.04,0:08:18.92,Black,,0,0,0,,{\pos(648,620)}Rich Potato - Rich Butter Soy Sauce
+Dialogue: 0,0:08:16.65,0:08:18.92,Default,,0,0,0,,Rich Butter Soy Sauce?
+Dialogue: 0,0:08:18.92,0:08:22.55,Matsumoto,,0,0,0,,{\pos(666,866)}Matsumoto
+Dialogue: 0,0:08:18.92,0:08:22.55,Black,,0,0,0,,{\pos(1000.5,962)}Rich Potato - Rich Butter Soy Sauce
+Dialogue: 0,0:08:18.92,0:08:20.60,Endo,,0,0,0,,It's really rich
+Dialogue: 0,0:08:20.13,0:08:21.28,Hosei,,0,0,0,,It's buttery
+Dialogue: 0,0:08:20.78,0:08:22.15,Hamada,,0,0,0,,It's definitely butter
+Dialogue: 0,0:08:22.15,0:08:24.40,Matsumoto,,0,0,0,,Right? And it's says rich in the name
+Dialogue: 0,0:08:24.76,0:08:27.22,Matsumoto,,0,0,0,,"Rich Potato" right?
+Dialogue: 0,0:08:27.22,0:08:37.80,Matsumoto,,0,0,0,,{\pos(819,810)}Matsumoto
+Dialogue: 0,0:08:27.22,0:08:37.80,Black,,0,0,0,,{\pos(846,874)}Rich Potato - Rich Butter Soy Sauce
+Dialogue: 0,0:08:27.49,0:08:28.78,Matsumoto,,0,0,0,,This one yeah?
+Dialogue: 0,0:08:28.48,0:08:29.96,Default,,0,0,0,,Everyone agrees?
+Dialogue: 0,0:08:29.96,0:08:31.18,Endo,,0,0,0,,Let's go for this one
+Dialogue: 0,0:08:30.60,0:08:33.86,Hamada,,0,0,0,,The richness I'm tasting is from this
+Dialogue: 0,0:08:31.18,0:08:33.66,Default,,0,0,0,,You all agree with this one?
+Dialogue: 0,0:08:34.32,0:08:36.08,Endo,,0,0,0,,Let's say it
+Dialogue: 0,0:08:34.50,0:08:35.72,Default,,0,0,0,,You're ready?
+Dialogue: 0,0:08:35.72,0:08:38.13,Default,,0,0,0,,This tempo is good?
+Dialogue: 0,0:08:38.30,0:08:40.20,Default,,0,0,0,,The answer, please!
+Dialogue: 0,0:08:40.20,0:08:44.67,Default,,0,0,0,,The one we ate, was, Rich Butter Soy Sauce flavour
+Dialogue: 0,0:08:41.94,0:08:49.18,Black,,0,0,0,,{\pos(732,862)}Rich Potato - Rich Butter Soy Sauce
+Dialogue: 0,0:08:45.86,0:08:46.92,Default,,0,0,0,,Unfortunately,
+Dialogue: 0,0:08:46.92,0:08:48.40,Default,,0,0,0,,Incorrect!
+Dialogue: 0,0:08:47.90,0:08:49.34,Hamada,,0,0,0,,No way!
+Dialogue: 0,0:08:51.25,0:08:53.48,Default,,0,0,0,,Who? Who?
+Dialogue: 0,0:08:52.68,0:08:55.05,Default,,0,0,0,,Matsumoto-san is responsible for this tempo
+Dialogue: 0,0:08:55.69,0:08:59.66,Red4,,0,0,0,,{\pos(348,804)\c&H181FD3&\4c&H15A3EF&}Matsumoto
+Dialogue: 0,0:08:55.69,0:08:59.66,Black3,,0,0,0,,{\pos(892.5,804)\4c&H15A3EF&}Batsu Game
+Dialogue: 0,0:08:55.05,0:08:56.50,Hosei,,0,0,0,,He was pointing at me LOL
+Dialogue: 0,0:08:56.50,0:08:58.80,Matsumoto,,0,0,0,,Hold on hold on hold on
+Dialogue: 0,0:08:57.96,0:08:59.78,Hosei,,0,0,0,,Matsumoto is the impostor
+Dialogue: 0,0:08:58.98,0:09:01.18,Default,,0,0,0,,He said "it's definitely this one"
+Dialogue: 0,0:09:00.38,0:09:04.24,Matsumoto,,0,0,0,,If you guys keep it up{\rDefault\c&HC8C7C8&} we'll all stop talking
+Dialogue: 0,0:09:04.43,0:09:07.40,Hamada,,0,0,0,,We won't stop talking\N{\rMatsumoto} I'm just guessing!
+Dialogue: 0,0:09:07.40,0:09:09.07,Batsu,,0,0,0,,{\pos(742.5,880)}Your brain,
+Dialogue: 0,0:09:09.40,0:09:10.40,Default,,0,0,0,,shid - shup
+Dialogue: 0,0:09:10.47,0:09:14.90,Default/Bigger,,0,0,0,,{\pos(741,874)}should I{\rBatsu} dweep fwy it?
+Dialogue: 0,0:09:13.22,0:09:14.90,Hamada,,0,0,0,,What the hell is he saying?
+Dialogue: 0,0:09:15.00,0:09:16.24,Default,,0,0,0,,
+Dialogue: 0,0:09:15.98,0:09:18.02,Matsumoto,,0,0,0,,That hurts!
+Dialogue: 0,0:09:18.68,0:09:20.74,Endo,,0,0,0,,This hurts more than you think
+Dialogue: 0,0:09:20.04,0:09:22.12,Matsumoto,,0,0,0,,What the hell was he saying?
+Dialogue: 0,0:09:21.24,0:09:22.58,Tanaka,,0,0,0,,Our guess is wrong?
+Dialogue: 0,0:09:22.58,0:09:25.68,Default,,0,0,0,,It was incorrect
+Dialogue: 0,0:09:24.16,0:09:25.78,Hosei,,0,0,0,,It was definitely butter
+Dialogue: 0,0:09:25.01,0:09:25.97,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:09:26.38,0:09:36.23,Default,,0,0,0,,{\pos(517,716)}Kiwa Jaga Series - Potato Butter
+Dialogue: 0,0:09:26.38,0:09:36.23,Red3,,0,0,0,,{\pos(750,892)}A chip with a unique width and thickness
+Dialogue: 0,0:09:26.58,0:09:27.70,Default,,0,0,0,,
+Dialogue: 0,0:09:27.70,0:09:35.25,Default,,0,0,0,,
+Dialogue: 0,0:09:36.23,0:09:38.70,Matsumoto,,0,0,0,,A hint for next time,
+Dialogue: 0,0:09:36.39,0:09:41.50,Black,,0,0,0,,{\pos(313,935.333)}Kiwa Jaga - Potato Butter
+Dialogue: 0,0:09:38.70,0:09:41.50,Matsumoto,,0,0,0,,{\pos(711,774)}The quantity is less right? So probably,
+Dialogue: 0,0:09:41.66,0:09:43.80,Matsumoto,,0,0,0,,The chip bag design is different too
+Dialogue: 0,0:09:42.76,0:09:43.96,Tanaka,,0,0,0,,Ah oh yeah it is
+Dialogue: 0,0:09:43.96,0:09:45.07,Hamada,,0,0,0,,I see \N{\rMatsumoto} Right?
+Dialogue: 0,0:09:45.07,0:09:48.44,Matsumoto,,0,0,0,,{\pos(726,922)}It has that, it's a{\c&H20B5F3&\3c&H01335E&\4c&HFFFFFF&} premium type
+Dialogue: 0,0:09:45.98,0:09:47.56,Endo,,0,0,0,,Yeah, yeah
+Dialogue: 0,0:09:47.56,0:09:49.14,Hamada,,0,0,0,,Oh I see
+Dialogue: 0,0:09:48.44,0:09:50.78,Matsumoto,,0,0,0,,So when it's like this, it's a premium type
+Dialogue: 0,0:09:49.98,0:09:51.42,Default,,0,0,0,,That makes sense
+Dialogue: 0,0:09:50.78,0:09:52.34,Matsumoto,,0,0,0,,Like some fancy cheese
+Dialogue: 0,0:09:51.94,0:09:54.22,Default,,0,0,0,,That's how rich it tastes?
+Dialogue: 0,0:09:54.81,0:10:00.55,Yellow,,0,0,0,,{\pos(929.5,813.333)}From now on, \Nit is no longer a group effort
+Dialogue: 0,0:10:00.55,0:10:02.86,Default,,0,0,0,,Let's start off with Tanaka-san
+Dialogue: 0,0:10:01.22,0:10:05.25,Yellow,,0,0,0,,{\pos(576,906)}Single Challenger
+Dialogue: 0,0:10:01.22,0:10:05.25,Default,,0,0,0,,{\fs100\bord5\shad0\3c&HCD0ECA&\pos(1054.5,848)}Tanaka
+Dialogue: 0,0:10:01.56,0:10:03.62,Tanaka,,0,0,0,,Ok
+Dialogue: 0,0:10:02.86,0:10:05.52,Default,,0,0,0,,Tanaka-san, these are your chips
+Dialogue: 0,0:10:05.32,0:10:06.83,Hosei,,0,0,0,,Go ahead divorced man
+Dialogue: 0,0:10:05.98,0:10:07.72,Matsumoto,,0,0,0,,Woah you're lucky
+Dialogue: 0,0:10:06.38,0:10:08.89,Endo,,0,0,0,,This is a lucky question right?
+Dialogue: 0,0:10:08.38,0:10:09.93,Tanaka,,0,0,0,,Hold on ...
+Dialogue: 0,0:10:09.23,0:10:11.20,Matsumoto,,0,0,0,,This is a good one, you're lucky
+Dialogue: 0,0:10:10.34,0:10:12.30,Endo,,0,0,0,,This is a lucky question
+Dialogue: 0,0:10:11.20,0:10:13.60,Matsumoto,,0,0,0,, The colour is definitely that one ...
+Dialogue: 0,0:10:13.33,0:10:23.51,Black,,0,0,0,,{\pos(201,988)}11th flavour
+Dialogue: 0,0:10:13.60,0:10:15.79,Matsumoto,,0,0,0,,You can definitely narrow it down
+Dialogue: 0,0:10:14.34,0:10:16.44,Endo,,0,0,0,,This is a good one
+Dialogue: 0,0:10:16.44,0:10:18.16,Endo,,0,0,0,,It's that one right?\N{\rHamada}Yeah that one
+Dialogue: 0,0:10:18.45,0:10:20.37,Endo,,0,0,0,,That's the one that comes to mind
+Dialogue: 0,0:10:20.37,0:10:21.97,Hamada,,0,0,0,,It's definitely that one
+Dialogue: 0,0:10:22.24,0:10:25.58,Default,,0,0,0,,You guys can guess without eating?
+Dialogue: 0,0:10:23.86,0:10:25.58,Hamada,,0,0,0,,Yeah, it's definitely that one
+Dialogue: 0,0:10:26.18,0:10:28.00,Endo,,0,0,0,,It's that one for sure!
+Dialogue: 0,0:10:27.48,0:10:29.33,Matsumoto,,0,0,0,,Yeah for sure
+Dialogue: 0,0:10:28.00,0:10:30.58,Endo,,0,0,0,,You're so lucky man
+Dialogue: 0,0:10:30.58,0:10:33.55,Matsumoto,,0,0,0,,I thought you were gonna guess it right away\N{\rTanaka} Really?
+Dialogue: 0,0:10:33.82,0:10:35.72,Default,,0,0,0,,Only Tanaka-san doesn't-
+Dialogue: 0,0:10:35.12,0:10:37.72,Tanaka,,0,0,0,,No, no, I got it, I got it
+Dialogue: 0,0:10:36.66,0:10:38.42,Hosei,,0,0,0,,The smell is good right?
+Dialogue: 0,0:10:38.42,0:10:40.52,Matsumoto,,0,0,0,,Go ahead, Tanaka-san
+Dialogue: 0,0:10:39.44,0:10:40.52,Hosei,,0,0,0,,Go ahead
+Dialogue: 0,0:10:40.52,0:10:42.19,Tanaka,,0,0,0,,Please hold on a second
+Dialogue: 0,0:10:41.99,0:10:44.69,Endo,,0,0,0,,Eh really? I can already say it \N{\rDefault} You need some time?
+Dialogue: 0,0:10:44.69,0:10:46.86,Tanaka,,0,0,0,,Really? \N{\rDefault} Even though you didn't eat it?
+Dialogue: 0,0:10:47.30,0:10:48.94,Tanaka,,0,0,0,,You got it? Really?
+Dialogue: 0,0:10:48.14,0:10:49.78,Matsumoto,,0,0,0,,Well yeah
+Dialogue: 0,0:10:48.94,0:10:50.58,Hamada,,0,0,0,,I got it
+Dialogue: 0,0:10:49.78,0:10:51.88,Matsumoto,,0,0,0,,From the smell alone it's gotta be that one
+Dialogue: 0,0:10:51.20,0:10:53.70,Default,,0,0,0,,You guys are really confident
+Dialogue: 0,0:10:51.88,0:10:53.70,Endo,,0,0,0,,It's that one{\rMatsumoto} - It's that one
+Dialogue: 0,0:10:53.70,0:10:55.34,Endo,,0,0,0,,Should I take over?
+Dialogue: 0,0:10:54.14,0:10:56.67,Matsumoto,,0,0,0,,{\pos(798,883.333)}Endo just{\rBlack/Bigger\4c&H0B00E5&} take over
+Dialogue: 0,0:10:55.34,0:10:58.04,Endo,,0,0,0,,Ehhhh I have to take over from you?
+Dialogue: 0,0:10:57.64,0:10:59.46,Tanaka,,0,0,0,,You're gonna take over?
+Dialogue: 0,0:10:58.36,0:11:01.28,Endo,,0,0,0,,I guess I have to
+Dialogue: 0,0:10:59.46,0:11:03.05,Matsumoto,,0,0,0,,Although you'll be {\rDefault\c&H01FDFF&}out right away
+Dialogue: 0,0:11:01.28,0:11:02.58,Endo,,0,0,0,,If I'm incorrect?
+Dialogue: 0,0:11:02.08,0:11:03.80,Default,,0,0,0,,Yeah of course
+Dialogue: 0,0:11:03.10,0:11:05.28,Hosei,,0,0,0,,Yeah of course you will
+Dialogue: 0,0:11:05.28,0:11:09.29,Hamada,,0,0,0,,Then which one of us should take over? I already got it
+Dialogue: 0,0:11:08.40,0:11:10.82,Endo,,0,0,0,,You want to take over?
+Dialogue: 0,0:11:09.04,0:11:11.24,Hosei,,0,0,0,,I want to take over
+Dialogue: 0,0:11:09.04,0:11:11.24,Matsumoto,,0,0,0,,I want to take over
+Dialogue: 0,0:11:10.82,0:11:14.78,Default,,0,0,0,,Tanaka-san's reputation is in the gutter now huh?
+Dialogue: 0,0:11:13.72,0:11:16.02,Hamada,,0,0,0,,Should we do rock paper scissors?
+Dialogue: 0,0:11:15.00,0:11:16.42,Tanaka,,0,0,0,,What shall we do?
+Dialogue: 0,0:11:16.16,0:11:17.99,Matsumoto,,0,0,0,,We can eat it right?
+Dialogue: 0,0:11:16.89,0:11:19.75,Default,,0,0,0,,Of course, this is about taking Tanaka's turn
+Dialogue: 0,0:11:19.09,0:11:21.13,Matsumoto,,0,0,0,,Whoever wins tells him
+Dialogue: 0,0:11:21.13,0:11:23.13,Default,,0,0,0,,
+Dialogue: 0,0:11:23.33,0:11:24.77,Endo,,0,0,0,,
+Dialogue: 0,0:11:23.97,0:11:25.96,Default,,0,0,0,,
+Dialogue: 0,0:11:26.40,0:11:29.28,Endo,,0,0,0,,Wow so lucky\N{\rMatsumoto}Itadakimasu
+Dialogue: 0,0:11:29.28,0:11:32.68,Default,,0,0,0,,You're taking over before the batsu game?
+Dialogue: 0,0:11:32.78,0:11:34.68,Hosei,,0,0,0,, It's a batsu game right away
+Dialogue: 0,0:11:36.96,0:11:39.14,Matsumoto,,0,0,0,,I have no goddamn idea ...
+Dialogue: 0,0:11:39.38,0:11:41.12,Endo,,0,0,0,,What the hell man
+Dialogue: 0,0:11:41.42,0:11:44.95,Break,,0,0,0,,{\pos(902,882)}The taste is totally different?!
+Dialogue: 0,0:11:41.48,0:11:44.95,Tanaka,,0,0,0,,Right? It's harder than you think
+Dialogue: 0,0:11:42.38,0:11:44.95,Endo,,0,0,0,,Seiously?
+Dialogue: 0,0:11:45.66,0:11:48.86,Red2,,0,0,0,,{\pos(742.5,878)}Potato Chips{\rYellow} 72 Flavour Guessing Game
+Dialogue: 0,0:11:49.00,0:11:52.60,Default,,0,0,0,,Matsumoto takes over Tanaka's challenge!
+Dialogue: 0,0:11:49.39,0:11:52.86,Black,,0,0,0,,{\fs100\bord5\pos(736.5,858)}Challenger switched
+Dialogue: 0,0:11:52.86,0:12:13.62,Black,,0,0,0,,{\pos(193.5,978)}Challenger Switched
+Dialogue: 0,0:11:53.30,0:11:55.36,Hosei,,0,0,0,,It's a batsu-game right away
+Dialogue: 0,0:11:57.63,0:11:59.54,Black2,,0,0,0,,{\pos(853.5,868)}I have no goddamn idea
+Dialogue: 0,0:12:00.37,0:12:01.47,Endo,,0,0,0,,What the hell man
+Dialogue: 0,0:12:02.64,0:12:05.14,Tanaka,,0,0,0,,It's difficult right?
+Dialogue: 0,0:12:03.24,0:12:04.96,Endo,,0,0,0,,Seriously?
+Dialogue: 0,0:12:05.31,0:12:06.94,Matsumoto,,0,0,0,,What should I do now?
+Dialogue: 0,0:12:06.44,0:12:09.01,Default,,0,0,0,,You already took his turn
+Dialogue: 0,0:12:09.01,0:12:10.95,Default,,0,0,0,,You have to guess it
+Dialogue: 0,0:12:10.78,0:12:12.51,Hamada,,0,0,0,,You wanted to take his turn
+Dialogue: 0,0:12:11.44,0:12:13.04,Matsumoto,,0,0,0,,This....
+Dialogue: 0,0:12:12.15,0:12:13.62,Hosei,,0,0,0,,It's your fault
+Dialogue: 0,0:12:13.62,0:12:16.82,Matsumoto,,0,0,0,,I thought it was #61
+Dialogue: 0,0:12:14.85,0:12:16.82,Black,,0,0,0,,{\pos(724.5,564)}Shizuoka - Sakura Shrimp
+Dialogue: 0,0:12:16.82,0:12:19.62,Black,,0,0,0,,{\pos(187.5,982)}Challenger Switched
+Dialogue: 0,0:12:16.82,0:12:19.62,Matsumoto,,0,0,0,,But after I ate it, it was totally different
+Dialogue: 0,0:12:19.62,0:12:24.63,Matsumoto,,0,0,0,,There's this redness in the chips,
+Dialogue: 0,0:12:24.79,0:12:26.86,Matsumoto,,0,0,0,,So it could be #64
+Dialogue: 0,0:12:26.86,0:12:29.10,Black,,0,0,0,,{\pos(228,518)}Shiga - Beef Steak
+Dialogue: 0,0:12:26.86,0:12:29.10,Black,,0,0,0,,{\pos(736.5,546)}Osaka - Pickled Ginger (Beni Shoga)
+Dialogue: 0,0:12:26.86,0:12:28.77,Default,,0,0,0,,Beni Shoga?
+Dialogue: 0,0:12:28.77,0:12:31.22,Matsumoto,,0,0,0,,This is REALLY hard\N{\rTanaka} It's difficult yes
+Dialogue: 0,0:12:31.22,0:12:32.70,Matsumoto,,0,0,0,,I got it\N{\rTanaka}This is a hard one
+Dialogue: 0,0:12:32.70,0:12:34.84,Default,,0,0,0,,Then Matsumoto-san, the answer please
+Dialogue: 0,0:12:34.94,0:12:39.81,Matsumoto,,0,0,0,,The one I ate, was, Osaka Pickled Ginger flavour
+Dialogue: 0,0:12:36.41,0:12:42.11,Black/Bigger,,0,0,0,,{\pos(750,872)}Osaka Beni Shoga
+Dialogue: 0,0:12:40.78,0:12:43.16,Default,,0,0,0,,Unfortunately, BATSU GAME!
+Dialogue: 0,0:12:42.15,0:12:46.48,Red4,,0,0,0,,{\pos(312,804)}Matsumoto
+Dialogue: 0,0:12:42.15,0:12:46.48,Black3,,0,0,0,,{\pos(898.5,810)}Batsu Game!
+Dialogue: 0,0:12:43.72,0:12:45.12,Hosei,,0,0,0,,You wanted to take over
+Dialogue: 0,0:12:44.76,0:12:47.72,Default,,0,0,0,,You took his batsu game
+Dialogue: 0,0:12:48.62,0:12:49.94,Hamada,,0,0,0,,
+Dialogue: 0,0:12:50.55,0:12:51.99,Default/Bigger,,0,0,0,,{\pos(727.5,888)}Ta-to, Ta-to
+Dialogue: 0,0:12:51.99,0:12:53.99,Default/Bigger,,0,0,0,,{\pos(744,896)}It's Po-ta-to!
+Dialogue: 0,0:12:53.99,0:12:56.33,Default/Bigger,,0,0,0,,{\pos(757.5,868)}What the hell{\rBatsu} are you making me say?!
+Dialogue: 0,0:12:56.68,0:12:59.06,Endo,,0,0,0,,What the hell was he saying?
+Dialogue: 0,0:12:59.06,0:13:02.50,Matsumoto,,0,0,0,,Ehhhhh? I have no idea\N{\rDefault} Tanaka-san what did you think it was?
+Dialogue: 0,0:13:02.50,0:13:04.30,Black,,0,0,0,,{\pos(723,570)}Shizuoka - Sakura Shrimp
+Dialogue: 0,0:13:02.50,0:13:04.66,Tanaka,,0,0,0,,I thought it was #61
+Dialogue: 0,0:13:03.68,0:13:08.60,Default,,0,0,0,,That's what you thought, and the correct answer is exactly that
+Dialogue: 0,0:13:08.60,0:13:09.97,Default,,0,0,0,,It was sakura shrimp
+Dialogue: 0,0:13:09.97,0:13:13.42,Tanaka,,0,0,0,,Give me my turn back!\N{\rMatsumoto} That's messed up!
+Dialogue: 0,0:13:10.14,0:13:15.81,Default,,0,0,0,,{\pos(462,864)}*Discontinued
+Dialogue: 0,0:13:10.14,0:13:15.81,Black,,0,0,0,,{\pos(175,1058)}Shizuoka Sakura Shrimp
+Dialogue: 0,0:13:13.42,0:13:15.81,Matsumoto,,0,0,0,,What is this turn of events?!
+Dialogue: 0,0:13:15.98,0:13:25.79,Default,,0,0,0,,{\pos(453,672)}A flavour from one of the 47 prefectures
+Dialogue: 0,0:13:15.98,0:13:25.79,Red3,,0,0,0,,{\pos(738,868)}Enjoy the delicious taste of shrimp from Suruga Bay
+Dialogue: 0,0:13:16.54,0:13:20.48,Default,,0,0,0,,Matsumoto's mistake, Shizuoka's Sakura Shrimp Flavour
+Dialogue: 0,0:13:20.48,0:13:25.35,Default,,0,0,0,,
+Dialogue: 0,0:13:25.99,0:13:28.79,Yellow,,0,0,0,,{\pos(598.5,906)}Single Challenger
+Dialogue: 0,0:13:25.99,0:13:28.79,Blue,,0,0,0,,{\pos(1048.5,840)\3c&H0371E4&}Endo
+Dialogue: 0,0:13:26.04,0:13:29.09,Default,,0,0,0,,Endo-san gets these chips
+Dialogue: 0,0:13:29.09,0:13:32.40,Default,,0,0,0,,\N{\rEndo}
+Dialogue: 0,0:13:32.83,0:13:35.40,Matsumoto,,0,0,0,,These should be immediately guessed\N{\rTanaka} Go ahead man
+Dialogue: 0,0:13:36.00,0:13:38.60,Matsumoto,,0,0,0,,Don't take up too much time
+Dialogue: 0,0:13:36.30,0:13:44.01,Black,,0,0,0,,{\pos(192,984)}12th flavour
+Dialogue: 0,0:13:37.60,0:13:40.10,Hamada,,0,0,0,,It's up to him LOL
+Dialogue: 0,0:13:40.67,0:13:42.74,Endo,,0,0,0,,OK, I'm ready
+Dialogue: 0,0:13:41.30,0:13:42.74,Tanaka,,0,0,0,,Already?
+Dialogue: 0,0:13:41.30,0:13:42.74,Default,,0,0,0,,That was fast!
+Dialogue: 0,0:13:42.74,0:13:44.01,Endo,,0,0,0,,#25
+Dialogue: 0,0:13:44.46,0:13:48.18,Black,,0,0,0,,{\pos(729,636)}Thick Cut - Wasabi
+Dialogue: 0,0:13:44.46,0:13:46.50,Matsumoto,,0,0,0,,This is-\N{\rDefault} You're ready?
+Dialogue: 0,0:13:46.50,0:13:48.64,Endo,,0,0,0,,Thick Cut Wasabi\N{\rDefault} That was fast
+Dialogue: 0,0:13:48.64,0:13:52.15,Matsumoto,,0,0,0,,He's so goddamn{\c&HFF6001&} handsome
+Dialogue: 0,0:13:48.64,0:13:50.44,Default,,0,0,0,,You're good with that?
+Dialogue: 0,0:13:52.15,0:13:54.35,Endo,,0,0,0,,Let's go. The one I ate, was,
+Dialogue: 0,0:13:54.42,0:14:01.32,Black,,0,0,0,,{\pos(570,926)}Thick Cut
+Dialogue: 0,0:13:54.42,0:14:01.32,Black/Bigger,,0,0,0,,{\pos(990,878)}Wasabi
+Dialogue: 0,0:13:58.35,0:14:01.32,Correct,,0,0,0,,{\pos(192,780)\frz345.9}CORRECT!
+Dialogue: 0,0:13:54.35,0:13:57.05,Endo,,0,0,0,,Thick Cut, Wasabi flavour
+Dialogue: 0,0:13:58.46,0:13:59.72,Default,,0,0,0,,Correct!!!!!
+Dialogue: 0,0:13:59.72,0:14:01.67,Default,,0,0,0,,Marvelous!
+Dialogue: 0,0:13:59.72,0:14:01.67,Matsumoto,,0,0,0,,So fast!
+Dialogue: 0,0:14:02.66,0:14:04.56,Hamada,,0,0,0,,As soon as you ate it
+Dialogue: 0,0:14:03.70,0:14:05.52,Endo,,0,0,0,,Yes exactly
+Dialogue: 0,0:14:06.00,0:14:13.40,Default,,0,0,0,,{\pos(694,858)}* Limited Regions (China, Shikoku, Kyushu)
+Dialogue: 0,0:14:06.00,0:14:13.40,Black,,0,0,0,,{\pos(266,951.333)}Wasabi
+Dialogue: 0,0:14:05.83,0:14:07.22,Matsumoto,,0,0,0,,That was cool
+Dialogue: 0,0:14:06.72,0:14:07.94,Endo,,0,0,0,,Thank you very much
+Dialogue: 0,0:14:07.22,0:14:09.10,Default,,0,0,0,,That speed...
+Dialogue: 0,0:14:09.10,0:14:13.10,Hamada,,0,0,0,,This was an easy one to guess\N{\rEndo}
+Dialogue: 0,0:14:13.40,0:14:16.61,Default,,0,0,0,,Hamada-san's challenge are these chips
+Dialogue: 0,0:14:13.54,0:14:17.07,Yellow,,0,0,0,,{\pos(622.5,902)}Single Challenger
+Dialogue: 0,0:14:13.54,0:14:17.07,Blue,,0,0,0,,{\pos(1066,835.333)}Gorilla
+Dialogue: 0,0:14:16.84,0:14:18.94,Default,,0,0,0,,Hamada-san gets these chips
+Dialogue: 0,0:14:18.44,0:14:20.50,Matsumoto,,0,0,0,,Ah, these could be those ones
+Dialogue: 0,0:14:19.94,0:14:21.48,Endo,,0,0,0,,Right? I've seen these before
+Dialogue: 0,0:14:20.04,0:15:01.52,Black,,0,0,0,,{\pos(201,986)}13th flavour
+Dialogue: 0,0:14:20.50,0:14:22.35,Matsumoto,,0,0,0,,They're those kinds
+Dialogue: 0,0:14:24.15,0:14:26.40,Matsumoto,,0,0,0,,That type for sure
+Dialogue: 0,0:14:36.43,0:14:39.41,Matsumoto,,0,0,0,,We can totally take over for you
+Dialogue: 0,0:14:39.56,0:14:41.12,Default,,0,0,0,,
+Dialogue: 0,0:14:42.06,0:14:46.40,Hamada,,0,0,0,,There's nothing special here at all ...
+Dialogue: 0,0:14:44.40,0:14:47.20,Default,,0,0,0,,That can't be true
+Dialogue: 0,0:14:47.40,0:14:49.17,Tanaka,,0,0,0,,There's some clue for sure
+Dialogue: 0,0:14:49.17,0:14:52.58,Hamada,,0,0,0,,Ehhh what flavour is this?
+Dialogue: 0,0:14:55.62,0:14:57.44,Hamada,,0,0,0,,Eh what?
+Dialogue: 0,0:14:53.34,0:14:56.48,Matsumoto,,0,0,0,,This is also {\rDefault\c&H01FDFF&}a straight away batsu game
+Dialogue: 0,0:14:56.48,0:14:58.65,Matsumoto,,0,0,0,,Out right away
+Dialogue: 0,0:14:58.65,0:15:01.52,Default,,0,0,0,,If your guess is really bad
+Dialogue: 0,0:14:59.88,0:15:01.52,Hamada,,0,0,0,,Ah I see
+Dialogue: 0,0:15:01.98,0:15:05.25,Matsumoto,,0,0,0,,If you are way off from the right answer
+Dialogue: 0,0:15:05.54,0:15:07.20,Tanaka,,0,0,0,,
+Dialogue: 0,0:15:05.25,0:15:09.09,Default,,0,0,0,,Yes exactly
+Dialogue: 0,0:15:09.09,0:15:10.96,Matsumoto,,0,0,0,,He's eating the shit out of them
+Dialogue: 0,0:15:11.89,0:15:14.66,Matsumoto,,0,0,0,,Hard to believe this guy just took a shit
+Dialogue: 0,0:15:14.80,0:15:17.70,Matsumoto,,0,0,0,,He took a long time shitting, huh?
+Dialogue: 0,0:15:15.36,0:15:21.67,Black/Bigger,,0,0,0,,{\pos(891,944.667)}Took a 10 minute bathroom break
+Dialogue: 0,0:15:17.70,0:15:21.67,Hamada,,0,0,0,,Isn't this the standard lightly salted?
+Dialogue: 0,0:15:22.94,0:15:26.21,Black,,0,0,0,,{\pos(727,682)}Lightly Salted
+Dialogue: 0,0:15:23.10,0:15:25.08,Tanaka,,0,0,0,,At this point\N{\rDefault}At this point
+Dialogue: 0,0:15:25.08,0:15:27.68,Default,,0,0,0,,Then are you ready?
+Dialogue: 0,0:15:26.14,0:15:27.68,Hamada,,0,0,0,,Yes, yes
+Dialogue: 0,0:15:27.68,0:15:30.65,Default,,0,0,0,,Then Hamada-san, the answer please!\N{\rHamada}
+Dialogue: 0,0:15:28.94,0:15:30.65,Hamada,,0,0,0,,The one I ate, was,
+Dialogue: 0,0:15:30.65,0:15:32.42,Hamada,,0,0,0,,lightly salted flavour
+Dialogue: 0,0:15:34.02,0:15:35.55,Default,,0,0,0,,Unfortunately,
+Dialogue: 0,0:15:35.69,0:15:37.12,Default,,0,0,0,,incorrect!
+Dialogue: 0,0:15:36.49,0:15:39.99,Blue2,,0,0,0,,{\pos(361,818)}Hamada
+Dialogue: 0,0:15:36.49,0:15:39.99,Black3,,0,0,0,,{\pos(883,804)}Batsu Game
+Dialogue: 0,0:15:38.06,0:15:40.56,Tanaka,,0,0,0,,Straight away\N{\rMatsumoto}
+Dialogue: 0,0:15:40.66,0:15:45.09,Default,,0,0,0,,Hamada-san your guess was way off
+Dialogue: 0,0:15:44.62,0:15:45.79,Hosei,,0,0,0,,way off?
+Dialogue: 0,0:15:45.39,0:15:47.02,Hamada,,0,0,0,,But that ...
+Dialogue: 0,0:15:46.70,0:15:48.40,Default,,0,0,0,,Your taste buds are useless
+Dialogue: 0,0:15:48.40,0:15:50.80,Batsu,,0,0,0,,{\pos(751,876)}You bloody Potato Baron
+Dialogue: 0,0:15:50.92,0:15:52.28,Batsu,,0,0,0,,
+Dialogue: 0,0:15:53.94,0:15:56.71,Default,,0,0,0,,That was an amazing sound\N{\rHamada} Why the hell was he angry?
+Dialogue: 0,0:15:56.94,0:15:58.86,Tanaka,,0,0,0,,What was that
+Dialogue: 0,0:15:57.60,0:16:00.40,Default,,0,0,0,,You thought it was lightly salted,
+Dialogue: 0,0:16:00.40,0:16:04.64,Default,,0,0,0,,it was this Yokohama Tonkatsu Soy Sauce Ramen flavour
+Dialogue: 0,0:16:03.24,0:16:06.20,Hamada,,0,0,0,,I have no goddamn idea
+Dialogue: 0,0:16:04.64,0:16:05.88,Hamada,,0,0,0,,No idea
+Dialogue: 0,0:16:05.88,0:16:07.98,Default,,0,0,0,,This was difficult?
+Dialogue: 0,0:16:08.15,0:16:16.99,Default,,0,0,0,,{\pos(453,678)}A flavour from one of the 47 prefectures; \N A Kanagawa flavour
+Dialogue: 0,0:16:08.15,0:16:16.99,Red3,,0,0,0,,{\pos(756,872)} Experience the plenitful flavour of Yokohama Tonkatsu Ramen
+Dialogue: 0,0:16:08.35,0:16:16.73,Default,,0,0,0,,
+Dialogue: 0,0:16:17.19,0:16:20.50,Yellow,,0,0,0,,{\pos(595,908)}Single Challenger
+Dialogue: 0,0:16:17.19,0:16:20.50,Blue,,0,0,0,,{\pos(1057,844)\3c&H1237E5&}Matsumoto
+Dialogue: 0,0:16:16.99,0:16:19.73,Default,,0,0,0,,Matsumoto's challenge is these chips
+Dialogue: 0,0:16:19.73,0:16:21.48,Default,,0,0,0,,
+Dialogue: 0,0:16:20.72,0:16:24.20,Matsumoto,,0,0,0,,They look really basic
+Dialogue: 0,0:16:23.20,0:16:25.10,Hamada,,0,0,0,,The appearance yeah
+Dialogue: 0,0:16:25.37,0:16:28.10,Endo,,0,0,0,,Certainly\N{\rMatsumoto} Woah amazing
+Dialogue: 0,0:16:28.10,0:16:30.74,Matsumoto,,0,0,0,,You definitely modified them huh?
+Dialogue: 0,0:16:30.74,0:16:33.08,Default,,0,0,0,,We didn't, we really didn't
+Dialogue: 0,0:16:33.64,0:17:14.12,Black,,0,0,0,,{\pos(199,986)}14th flavour
+Dialogue: 0,0:16:33.08,0:16:36.10,Matsumoto,,0,0,0,,The staff here,{\rDefault\c&HCDD0D0&} I have no trust for them
+Dialogue: 0,0:16:36.10,0:16:39.65,Matsumoto,,0,0,0,,They want me to fail
+Dialogue: 0,0:16:39.72,0:16:43.30,Default,,0,0,0,,We really didn't modify them, you can even see here afterwards
+Dialogue: 0,0:16:42.74,0:16:44.10,Default,,0,0,0,,
+Dialogue: 0,0:16:43.30,0:16:44.92,Matsumoto,,0,0,0,,Oh really?
+Dialogue: 0,0:16:44.10,0:16:46.54,Default,,0,0,0,,We did not modify anything
+Dialogue: 0,0:16:46.54,0:16:47.99,Matsumoto,,0,0,0,,Really?
+Dialogue: 0,0:16:47.99,0:16:49.19,Matsumoto,,0,0,0,,Then,
+Dialogue: 0,0:16:49.76,0:16:53.76,Matsumoto,,0,0,0,,I sincerely apologise for my conduct
+Dialogue: 0,0:16:51.76,0:16:52.80,Default,,0,0,0,,So honest!
+Dialogue: 0,0:16:52.80,0:16:54.64,Default,,0,0,0,,What a supremely decent person!
+Dialogue: 0,0:16:54.64,0:16:56.52,Default,,0,0,0,,What a great person!
+Dialogue: 0,0:16:57.22,0:16:58.88,Hamada,,0,0,0,,What flavour could they be...
+Dialogue: 0,0:17:01.04,0:17:02.44,Matsumoto,,0,0,0,,Uwahhh
+Dialogue: 0,0:17:05.04,0:17:06.61,Matsumoto,,0,0,0,,UwaHH
+Dialogue: 0,0:17:11.61,0:17:13.25,Matsumoto,,0,0,0,,It's that one!
+Dialogue: 0,0:17:14.04,0:17:15.58,Hosei,,0,0,0,,He got it?
+Dialogue: 0,0:17:15.58,0:17:18.64,Default,,0,0,0,,So that "uwahh" didn't mean you were lost
+Dialogue: 0,0:17:18.64,0:17:20.00,Hamada,,0,0,0,,Yeah exactly
+Dialogue: 0,0:17:19.10,0:17:21.68,Endo,,0,0,0,,He knows which one
+Dialogue: 0,0:17:20.00,0:17:21.68,Default,,0,0,0,,You narrowed it down?
+Dialogue: 0,0:17:21.82,0:17:24.39,Matsumoto,,0,0,0,,It's, honestly,
+Dialogue: 0,0:17:25.40,0:17:26.23,Matsumoto,,0,0,0,,how do I say
+Dialogue: 0,0:17:26.23,0:17:29.03,Default,,0,0,0,,{\fs100\bord6\shad0\pos(849,914)\c&HA4F5F7&\3c&H267CF3&}The debut of potato chips
+Dialogue: 0,0:17:29.58,0:17:31.42,Default,,0,0,0,,That's how you feel?
+Dialogue: 0,0:17:31.42,0:17:33.52,Matsumoto,,0,0,0,,Ah, thank you for this!
+Dialogue: 0,0:17:33.84,0:17:35.60,Black,,0,0,0,,{\pos(821.5,868.667)}Lightly Salted
+Dialogue: 0,0:17:33.84,0:17:35.34,Matsumoto,,0,0,0,,It's either Lightly Salted,
+Dialogue: 0,0:17:35.60,0:17:37.94,Black,,0,0,0,,{\pos(717,666)}White Soy Sauce
+Dialogue: 0,0:17:35.34,0:17:37.94,Matsumoto,,0,0,0,,Or #10, White Soy Sauce
+Dialogue: 0,0:17:37.94,0:17:40.71,Matsumoto,,0,0,0,,Actually there's no soy sauce flavour, I GOT IT!
+Dialogue: 0,0:17:40.71,0:17:42.38,Default,,0,0,0,,Are you ready? \N{\rMatsumoto} Ok, yes!
+Dialogue: 0,0:17:42.38,0:17:44.20,Default,,0,0,0,,The answer, please!
+Dialogue: 0,0:17:43.60,0:17:46.14,Matsumoto,,0,0,0,,The one I ate was Lightly Salted flavour!
+Dialogue: 0,0:17:44.58,0:17:55.12,Black/Bigger,,0,0,0,,{\pos(742,864)}Lightly Salted
+Dialogue: 0,0:17:46.35,0:17:47.90,Hosei,,0,0,0,,He's gonna get this one
+Dialogue: 0,0:17:48.85,0:17:55.12,Correct,,0,0,0,,{\frz348\pos(362.5,778)}Correct!
+Dialogue: 0,0:17:51.52,0:17:54.14,Default,,0,0,0,,That was amazing, well done!
+Dialogue: 0,0:17:54.14,0:17:56.87,Default,,0,0,0,,That was really cool!
+Dialogue: 0,0:17:56.87,0:17:59.50,Tanaka,,0,0,0,,That was amazing\N{\rDefault} That was great!
+Dialogue: 0,0:17:59.63,0:18:10.47,Default,,0,0,0,,{\pos(309,746)}Potato Chips
+Dialogue: 0,0:17:59.63,0:18:10.47,Default,,0,0,0,,{\pos(586.5,724.667)}Lightly Salted
+Dialogue: 0,0:17:59.63,0:18:10.47,Red3,,0,0,0,,{\pos(738,884)}The king of flavours, introduced in 1975.
+Dialogue: 0,0:17:59.93,0:18:02.10,Default,,0,0,0,,Well done Matsumoto!
+Dialogue: 0,0:18:02.10,0:18:05.40,Default,,0,0,0,,
+Dialogue: 0,0:18:05.40,0:18:10.17,Default,,0,0,0,,Popular for over 40 years!
+Dialogue: 0,0:18:10.64,0:18:35.83,Black,,0,0,0,,{\pos(306.5,927.333)}Lightly Salted
+Dialogue: 0,0:18:10.47,0:18:11.94,Default,,0,0,0,,Well done!
+Dialogue: 0,0:18:12.35,0:18:14.10,Hosei,,0,0,0,,You really got it
+Dialogue: 0,0:18:13.12,0:18:15.32,Default,,0,0,0,,Hamda-san this is lightly salted
+Dialogue: 0,0:18:14.82,0:18:17.16,Endo,,0,0,0,,Yeah it's the "debut of potato chips"
+Dialogue: 0,0:18:16.46,0:18:18.85,Hamada,,0,0,0,,Yeah you're right
+Dialogue: 0,0:18:19.04,0:18:26.94,Default,,0,0,0,,Even though you said the staff wants you to fail, they gave you the lightly salted!
+Dialogue: 0,0:18:19.60,0:18:21.02,Matsumoto,,0,0,0,,
+Dialogue: 0,0:18:21.02,0:18:22.44,Tanaka,,0,0,0,,
+Dialogue: 0,0:18:27.02,0:18:29.59,Matsumoto,,0,0,0,,I offer my sincerest apologies
+Dialogue: 0,0:18:29.59,0:18:31.49,Default,,0,0,0,,He's really apologising
+Dialogue: 0,0:18:30.58,0:18:33.24,Matsumoto,,0,0,0,,I will never drink alcohol again
+Dialogue: 0,0:18:30.58,0:18:33.24,Default,,0,0,0,,{\pos(728,155.333)}TN: He's making fun of press conferences where celebrities apologise for getting caught drunk driving
+Dialogue: 0,0:18:32.54,0:18:34.80,Default,,0,0,0,,You can still drink alcohol
+Dialogue: 0,0:18:36.03,0:18:41.17,Yellow,,0,0,0,,{\pos(604.5,908)}Single Challenger
+Dialogue: 0,0:18:36.03,0:18:41.17,Blue,,0,0,0,,{\pos(1062,850)\3c&H1BBB18&}Hosei
+Dialogue: 0,0:18:35.85,0:18:38.48,Matsumoto,,0,0,0,,Feels like it's gonna get harder now
+Dialogue: 0,0:18:39.10,0:18:41.60,Default,,0,0,0,,Hosei-san's challenge is these chips
+Dialogue: 0,0:18:42.62,0:18:44.68,Hosei,,0,0,0,,Ah they're hard fried
+Dialogue: 0,0:18:44.18,0:18:47.68,Tanaka,,0,0,0,,Oh yeah they are
+Dialogue: 0,0:18:45.12,0:18:47.12,Matsumoto,,0,0,0,,That's lucky
+Dialogue: 0,0:18:48.51,0:18:50.47,Matsumoto,,0,0,0,,You got good ones
+Dialogue: 0,0:18:51.08,0:18:59.92,Black,,0,0,0,,{\pos(204,986)}15th flavour
+Dialogue: 0,0:18:56.29,0:18:58.20,Hosei,,0,0,0,,I got it
+Dialogue: 0,0:18:57.38,0:18:59.80,Matsumoto,,0,0,0,,I want a good tempo going
+Dialogue: 0,0:19:00.08,0:19:04.16,Matsumoto,,0,0,0,,They look thick, like that Edwin tag
+Dialogue: 0,0:19:04.16,0:19:05.76,Matsumoto,,0,0,0,,The thickness right?
+Dialogue: 0,0:19:05.39,0:19:24.31,Black,,0,0,0,,{\pos(199.5,984)}15th flavour
+Dialogue: 0,0:19:05.76,0:19:08.86,Matsumoto,,0,0,0,,That {\c&H021429&\3c&H3E6C9A&}Edwin{\rMatsumoto} thing right?
+Dialogue: 0,0:19:06.94,0:19:09.44,Endo,,0,0,0,,That thing yeah
+Dialogue: 0,0:19:10.13,0:19:13.67,Default,,0,0,0,,What a cool expression!
+Dialogue: 0,0:19:11.28,0:19:15.34,Hamada,,0,0,0,,Yama-Chan is taking his time huh
+Dialogue: 0,0:19:15.44,0:19:18.79,Default,,0,0,0,,It wasn't a freebie question at all
+Dialogue: 0,0:19:20.60,0:19:22.44,Default,,0,0,0,,Taking his time
+Dialogue: 0,0:19:20.94,0:19:23.14,Endo,,0,0,0,,Yeah \N{\rMatsumoto} I wanna eat them
+Dialogue: 0,0:19:23.42,0:19:29.19,Hosei,,0,0,0,,I'm not sure exactly, but definitely a {\rDefault\c&H29E7E5&}garlic{\r} taste
+Dialogue: 0,0:19:29.20,0:19:32.87,Hamada,,0,0,0,,You're lucky to get one with that distinguishing taste
+Dialogue: 0,0:19:31.82,0:19:34.52,Hosei,,0,0,0,,Right? Thank you very much!
+Dialogue: 0,0:19:34.72,0:19:38.83,Hosei,,0,0,0,,The one I ate, was, Edamame Garlic flavour
+Dialogue: 0,0:19:36.33,0:19:43.50,Black,,0,0,0,,{\pos(469.5,926)}Hard Fried
+Dialogue: 0,0:19:36.33,0:19:43.50,Black/Bigger,,0,0,0,,{\pos(952.5,884)}Edamame Garlic
+Dialogue: 0,0:19:41.36,0:19:43.50,Correct,,0,0,0,,{\frz346.4\pos(129,780)}CORRECT!!
+Dialogue: 0,0:19:38.23,0:19:39.34,Matsumoto,,0,0,0,,Which one is that?
+Dialogue: 0,0:19:39.34,0:19:41.02,Tanaka,,0,0,0,,#29?
+Dialogue: 0,0:19:41.73,0:19:43.83,Default,,0,0,0,,Correct!
+Dialogue: 0,0:19:44.24,0:19:47.02,Default,,0,0,0,,Well done!
+Dialogue: 0,0:19:44.82,0:19:48.48,Hamada,,0,0,0,,That was a lucky one! Mine tasted like lightly salted
+Dialogue: 0,0:19:48.68,0:19:50.26,Hamada,,0,0,0,,So annoying
+Dialogue: 0,0:19:49.42,0:19:51.02,Default,,0,0,0,,He's really feeling it!
+Dialogue: 0,0:19:51.02,0:19:53.48,Hamada,,0,0,0,,\N{\rMatsumoto}
+Dialogue: 0,0:19:53.68,0:20:05.92,Black,,0,0,0,,{\pos(438,950)}Hard Fried
+Dialogue: 0,0:19:53.68,0:20:05.92,Black,,0,0,0,,{\pos(790.5,930)}Edamame Garlic
+Dialogue: 0,0:19:53.94,0:19:55.62,Default,,0,0,0,,
+Dialogue: 0,0:19:54.52,0:19:56.94,Matsumoto,,0,0,0,,He's tap dancing!
+Dialogue: 0,0:19:56.50,0:19:58.30,Default,,0,0,0,,He's tap dancing
+Dialogue: 0,0:19:58.46,0:19:59.80,Tanaka,,0,0,0,,
+Dialogue: 0,0:19:58.70,0:20:00.70,Endo,,0,0,0,,
+Dialogue: 0,0:19:59.80,0:20:01.58,Hamada,,0,0,0,,Ah, it really is that one!
+Dialogue: 0,0:20:01.98,0:20:04.25,Hamada,,0,0,0,,{\pos(744,754)}Tastes just like the real thing
+Dialogue: 0,0:20:02.36,0:20:03.84,Hamada,,0,0,0,,
+Dialogue: 0,0:20:03.38,0:20:05.92,Default,,0,0,0,,Hamada-san you think so?
+Dialogue: 0,0:20:04.46,0:20:07.16,Hamada,,0,0,0,,{\pos(784,864.667)}Just like the real thing, can really taste the Edamame
+Dialogue: 0,0:20:06.09,0:20:15.30,Default,,0,0,0,,{\pos(298.5,672)}Hard Fried - Edamame Garlic
+Dialogue: 0,0:20:06.09,0:20:15.30,Red3,,0,0,0,,{\pos(738,880)}Combining the sweet flavour of Edamame and umami of garlic
+Dialogue: 0,0:20:07.16,0:20:08.61,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:20:09.16,0:20:11.06,Default,,0,0,0,,That was fast
+Dialogue: 0,0:20:09.98,0:20:12.34,Hosei,,0,0,0,,The garlic is the biggest hint
+Dialogue: 0,0:20:12.34,0:20:15.30,Hamada,,0,0,0,,That was easy to guess\N{\rMatsumoto} Tasty
+Dialogue: 0,0:20:15.53,0:20:21.30,Red2,,0,0,0,,{\pos(718.5,872)}Now they sample the flavours they are curious about
+Dialogue: 0,0:20:15.72,0:20:21.30,Default,,0,0,0,,
+Dialogue: 0,0:20:21.30,0:20:22.92,Hosei,,0,0,0,,Can we try the Mirei  Biscuit?
+Dialogue: 0,0:20:22.92,0:20:25.44,Default,,0,0,0,,Mirei?\N #69
+Dialogue: 0,0:20:23.67,0:20:27.41,Black,,0,0,0,,{\pos(715.5,544)}Mirie Biscuit
+Dialogue: 0,0:20:24.76,0:20:27.22,Matsumoto,,0,0,0,,I don't know what Mirei Biscuits are
+Dialogue: 0,0:20:27.22,0:20:30.44,Hosei,,0,0,0,,They're just like normal sweet biscuits
+Dialogue: 0,0:20:27.58,0:20:31.41,Default,,0,0,0,,{\pos(171,986)}Mirei Biscuit
+Dialogue: 0,0:20:27.58,0:20:31.41,Black,,0,0,0,,{\pos(623.5,847.333)}A classic biscuit from Kochi Prefecture
+Dialogue: 0,0:20:30.24,0:20:31.30,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:20:30.62,0:20:31.84,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:20:31.30,0:20:32.96,Matsumoto,,0,0,0,,"Mirei Biscuit"
+Dialogue: 0,0:20:34.00,0:20:35.26,Hosei,,0,0,0,,They're kawaii
+Dialogue: 0,0:20:34.76,0:20:36.56,Tanaka,,0,0,0,,From Kochi?
+Dialogue: 0,0:20:35.16,0:20:36.62,Endo,,0,0,0,,Kochi
+Dialogue: 0,0:20:36.32,0:20:46.90,Default,,0,0,0,,{\pos(430.5,866)}*Discontinued
+Dialogue: 0,0:20:36.32,0:20:46.90,Black,,0,0,0,,{\pos(418,948.667)}Kochi - Mirei Biscuit
+Dialogue: 0,0:20:36.62,0:20:38.52,Endo,,0,0,0,,There's a ton of them
+Dialogue: 0,0:20:38.52,0:20:40.30,Hamada,,0,0,0,,Right?\N{\rEndo}Yeah
+Dialogue: 0,0:20:45.19,0:20:46.90,Hosei,,0,0,0,,Makes a nice sound!
+Dialogue: 0,0:20:47.23,0:20:51.40,Orange,,0,0,0,,{\pos(727.5,886)}Like Champagne!
+Dialogue: 0,0:20:49.14,0:20:50.32,Endo,,0,0,0,,Champagne?
+Dialogue: 0,0:20:49.82,0:20:51.34,Matsumoto,,0,0,0,,Like Dom Perignon
+Dialogue: 0,0:20:51.34,0:20:53.27,Endo,,0,0,0,,Dom Perignon sound
+Dialogue: 0,0:20:51.57,0:20:55.74,Default,,0,0,0,,{\pos(439.5,676)}A flavor from one of the 47 prefectures
+Dialogue: 0,0:20:51.57,0:20:55.74,Red3,,0,0,0,,{\pos(721.5,882)}Mirei Biscuits, popular in Kochi
+Dialogue: 0,0:20:52.67,0:20:54.80,Default,,0,0,0,,He is a rich man
+Dialogue: 0,0:20:54.43,0:20:56.07,Default,,0,0,0,,
+Dialogue: 0,0:20:55.74,0:21:10.12,Black,,0,0,0,,{\pos(355,932.667)}Mirei Biscuit
+Dialogue: 0,0:20:56.07,0:20:57.30,Matsumoto,,0,0,0,,{\pos(709.5,764)}They're sweet
+Dialogue: 0,0:20:56.46,0:20:57.60,Default,,0,0,0,,Sweet?
+Dialogue: 0,0:20:57.60,0:20:59.64,Hamada,,0,0,0,,Oh yeah they are
+Dialogue: 0,0:20:58.70,0:21:00.28,Hosei,,0,0,0,,Yeah they are!
+Dialogue: 0,0:21:00.12,0:21:01.88,Hamada,,0,0,0,,These are tasty!
+Dialogue: 0,0:21:01.18,0:21:03.02,Hosei,,0,0,0,,Very good
+Dialogue: 0,0:21:02.44,0:21:03.92,Tanaka,,0,0,0,,Yes tasty
+Dialogue: 0,0:21:02.82,0:21:05.78,Default,,0,0,0,,They taste like Mirei Biscuits?
+Dialogue: 0,0:21:04.94,0:21:07.74,Tanaka,,0,0,0,,Oh yeah they do
+Dialogue: 0,0:21:06.04,0:21:08.30,Matsumoto,,0,0,0,,These are the sweetest flavour right?
+Dialogue: 0,0:21:07.96,0:21:09.42,Tanaka,,0,0,0,,Yes, very sweet
+Dialogue: 0,0:21:09.42,0:21:10.54,Matsumoto,,0,0,0,, Tasty
+Dialogue: 0,0:21:10.02,0:21:12.76,Default,,0,0,0,,Would you like to try #42?
+Dialogue: 0,0:21:12.76,0:21:18.23,Black/Bigger,,0,0,0,,{\pos(706.5,287.333)}Inca Awakening \N Ishigaki Salt
+Dialogue: 0,0:21:12.76,0:21:14.80,Matsumoto,,0,0,0,,It seems pretty standard though?
+Dialogue: 0,0:21:14.38,0:21:15.94,Hosei,,0,0,0,,It's just salt flavour?
+Dialogue: 0,0:21:15.34,0:21:17.64,Hamada,,0,0,0,,Ishigaki Salt?
+Dialogue: 0,0:21:17.79,0:21:19.61,Tanaka,,0,0,0,,Woah what's this?
+Dialogue: 0,0:21:18.73,0:21:23.93,Break,,0,0,0,,{\pos(809.5,884)}Luxury Potato Chips
+Dialogue: 0,0:21:19.16,0:21:20.76,Hamada,,0,0,0,,Woahhh
+Dialogue: 0,0:21:19.68,0:21:21.20,Hamada,,0,0,0,,
+Dialogue: 0,0:21:21.20,0:21:23.93,Hamada,,0,0,0,,What is this?!\N{\rEndo}Amazing
+Dialogue: 0,0:21:23.93,0:21:28.97,Black/Bigger,,0,0,0,,{\pos(706.5,287.333)}Inca Awakening \N Ishigaki Salt
+Dialogue: 0,0:21:24.30,0:21:26.40,Matsumoto,,0,0,0,,It seems pretty standard though?
+Dialogue: 0,0:21:25.78,0:21:27.50,Hosei,,0,0,0,,It's just salt flavour?
+Dialogue: 0,0:21:26.70,0:21:28.52,Hamada,,0,0,0,,Ishigaki Salt?
+Dialogue: 0,0:21:28.52,0:21:29.94,Tanaka,,0,0,0,,Woah hold on
+Dialogue: 0,0:21:30.34,0:21:32.72,Tanaka,,0,0,0,,Woah what's this?
+Dialogue: 0,0:21:31.92,0:21:34.18,Hamada,,0,0,0,,What is this?!
+Dialogue: 0,0:21:33.12,0:21:35.22,Tanaka,,0,0,0,,Amazing
+Dialogue: 0,0:21:34.18,0:21:36.10,Default,,0,0,0,,Looks very premium
+Dialogue: 0,0:21:35.22,0:21:37.38,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:21:36.10,0:21:38.05,Matsumoto,,0,0,0,,What is "Inca Awakening"?
+Dialogue: 0,0:21:38.21,0:21:42.75,Default,,0,0,0,,{\pos(172.5,1004)}Inca's Awakening
+Dialogue: 0,0:21:38.21,0:21:42.75,Black,,0,0,0,,{\pos(501,918.667)}Have a sweet chestnut flavour
+Dialogue: 0,0:21:38.05,0:21:41.50,Default,,0,0,0,,Inca Awakening is an expensive potato variety
+Dialogue: 0,0:21:41.10,0:21:42.62,Tanaka,,0,0,0,,Oh I see
+Dialogue: 0,0:21:42.62,0:21:44.50,Hosei,,0,0,0,,They're like gifts
+Dialogue: 0,0:21:42.92,0:22:14.22,Default,,0,0,0,,{\pos(435,868)}*Limited to Specialty Stores
+Dialogue: 0,0:21:42.92,0:22:14.22,Black,,0,0,0,,{\pos(356.5,946)}Inca Awakening - Ishigaki Salt
+Dialogue: 0,0:21:43.92,0:21:45.42,Endo,,0,0,0,,Woaah
+Dialogue: 0,0:21:45.42,0:21:47.36,Hamada,,0,0,0,,This kind of packaging?
+Dialogue: 0,0:21:47.36,0:21:49.32,Default,,0,0,0,,They're like gifts
+Dialogue: 0,0:21:49.32,0:21:51.08,Default,,0,0,0,,Yeah like souvenirs
+Dialogue: 0,0:21:50.58,0:21:52.52,Tanaka,,0,0,0,,
+Dialogue: 0,0:21:52.52,0:21:53.90,Matsumoto,,0,0,0,,Woah look
+Dialogue: 0,0:21:53.40,0:21:54.60,Default,,0,0,0,,They're very different
+Dialogue: 0,0:21:54.60,0:21:56.32,Default,,0,0,0,,So thick ( ͡° ͜ʖ ͡°)
+Dialogue: 0,0:21:56.94,0:21:59.04,Default,,0,0,0,,The colour is unique too
+Dialogue: 0,0:22:00.98,0:22:02.66,Endo,,0,0,0,,
+Dialogue: 0,0:22:02.66,0:22:05.30,Matsumoto,,0,0,0,,These are good, they're like,
+Dialogue: 0,0:22:05.60,0:22:07.78,Matsumoto,,0,0,0,,very crunchy
+Dialogue: 0,0:22:07.94,0:22:08.90,Matsumoto,,0,0,0,,
+Dialogue: 0,0:22:08.10,0:22:09.62,Default,,0,0,0,,And they're thick
+Dialogue: 0,0:22:09.82,0:22:11.10,Hamada,,0,0,0,,Tasty, very tasty
+Dialogue: 0,0:22:10.38,0:22:12.22,Endo,,0,0,0,,They would make great gifts
+Dialogue: 0,0:22:10.38,0:22:12.96,Tanaka,,0,0,0,,Tasty, very crispy
+Dialogue: 0,0:22:12.76,0:22:14.04,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:22:13.34,0:22:14.58,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:22:14.38,0:22:20.99,Default,,0,0,0,,{\pos(322.5,674)}Jaga Crispy
+Dialogue: 0,0:22:14.38,0:22:20.99,Default,,0,0,0,,{\pos(595.5,724)}Inca Awakening Isihigaki Salt
+Dialogue: 0,0:22:14.38,0:22:20.99,Default,,0,0,0,,{\pos(1173,722.667)}Approx 880 yen (incl tax)
+Dialogue: 0,0:22:14.38,0:22:20.99,Default,,0,0,0,,{\pos(708,884)}Made using{\rRed3} Inca Awakening{\r} potato variety
+Dialogue: 0,0:22:14.22,0:22:15.60,Hosei,,0,0,0,,How much are these?
+Dialogue: 0,0:22:15.00,0:22:16.40,Tanaka,,0,0,0,,
+Dialogue: 0,0:22:15.80,0:22:17.94,Default,,0,0,0,,These are 880 yen
+Dialogue: 0,0:22:18.36,0:22:19.88,Hamada,,0,0,0,,These are good
+Dialogue: 0,0:22:19.48,0:22:20.96,Default,,0,0,0,,These are good?
+Dialogue: 0,0:22:20.06,0:22:20.98,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:22:20.98,0:22:22.30,Hamada,,0,0,0,,What do you wanna eat?
+Dialogue: 0,0:22:22.46,0:22:24.39,Matsumoto,,0,0,0,,Roasted Manju, #52
+Dialogue: 0,0:22:23.67,0:22:25.28,Tanaka,,0,0,0,,Woah Roasted Manju
+Dialogue: 0,0:22:24.39,0:22:28.03,Black,,0,0,0,,{\pos(702,560)}Gunma - Roasted Manju
+Dialogue: 0,0:22:24.48,0:22:27.10,Default,,0,0,0,,Interesting....
+Dialogue: 0,0:22:26.30,0:22:27.80,Tanaka,,0,0,0,,Want to try it
+Dialogue: 0,0:22:27.80,0:22:30.57,Default,,0,0,0,,This is the package design
+Dialogue: 0,0:22:30.07,0:22:31.88,Hamada,,0,0,0,,Oh like this?
+Dialogue: 0,0:22:31.24,0:22:32.84,Tanaka,,0,0,0,,Grilled Manju
+Dialogue: 0,0:22:32.08,0:22:33.68,Hosei,,0,0,0,,Grilled Manju
+Dialogue: 0,0:22:33.06,0:22:35.06,Hamada,,0,0,0,,
+Dialogue: 0,0:22:33.84,0:22:35.26,Tanaka,,0,0,0,,Interesting
+Dialogue: 0,0:22:34.97,0:22:40.71,Default,,0,0,0,,{\pos(447,864)}*Discontinued
+Dialogue: 0,0:22:34.97,0:22:51.45,Black,,0,0,0,,{\pos(359.5,940.667)}Gunma - Grilled Manju
+Dialogue: 0,0:22:36.80,0:22:38.04,Endo,,0,0,0,,Itadakimasu
+Dialogue: 0,0:22:38.48,0:22:40.84,Matsumoto,,0,0,0,,Woah very unique
+Dialogue: 0,0:22:40.30,0:22:41.74,Default,,0,0,0,,Are they sweet?
+Dialogue: 0,0:22:41.00,0:22:41.98,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:22:42.68,0:22:44.88,Matsumoto,,0,0,0,,{\pos(718.5,754)}I can really taste the{\rBrown} anko
+Dialogue: 0,0:22:45.46,0:22:46.76,Endo,,0,0,0,,Great smell too
+Dialogue: 0,0:22:46.38,0:22:49.14,Hosei,,0,0,0,,Amazing, the smell is like the real thing
+Dialogue: 0,0:22:49.14,0:22:50.44,Tanaka,,0,0,0,,Decently sweet
+Dialogue: 0,0:22:50.04,0:22:51.68,Default,,0,0,0,,The sweetness-
+Dialogue: 0,0:22:51.05,0:22:53.40,Matsumoto,,0,0,0,,Ehh but if I had to guess this one I couldn't
+Dialogue: 0,0:22:53.56,0:22:57.26,Default,,0,0,0,,You can taste the {\rBrown}anko?
+Dialogue: 0,0:22:54.62,0:22:56.78,Matsumoto,,0,0,0,,Yeah I can taste the anko
+Dialogue: 0,0:22:56.08,0:22:57.88,Hamada,,0,0,0,,Anko?
+Dialogue: 0,0:22:57.43,0:23:02.36,Default,,0,0,0,,{\pos(488.5,644.667)}A flavour from one of the\N ln(2.58131289e20) prefectures
+Dialogue: 0,0:22:57.43,0:23:02.36,Default,,0,0,0,,{\pos(751,844)}The taste of Gunma; manju roasted with{\rRed3\fs60\bord3} sweet miso sauce {\r}{\rBatsu\fs60\bord3}(not anko){\r}
+Dialogue: 0,0:22:57.26,0:23:02.36,Default,,0,0,0,,
+Dialogue: 0,0:23:02.36,0:23:05.14,Brown,,0,0,0,,{\rMatsumoto} Like I said, {\r} I don't taste any anko
+Dialogue: 0,0:23:04.98,0:23:06.37,Matsumoto,,0,0,0,,I said I didn't
+Dialogue: 0,0:23:06.37,0:23:07.74,Hamada,,0,0,0,,You said you tasted it!
+Dialogue: 0,0:23:06.87,0:23:08.57,Default,,0,0,0,,You said it
+Dialogue: 0,0:23:08.57,0:23:09.79,Hamada,,0,0,0,,You said Anko
+Dialogue: 0,0:23:09.17,0:23:12.88,Hosei,,0,0,0,,{\pos(750,899.333)}You thought it was Anko Manju
+Dialogue: 0,0:23:12.88,0:23:15.31,Matsumoto,,0,0,0,,I said I DON'T taste any anko
+Dialogue: 0,0:23:15.06,0:23:16.32,Default,,0,0,0,,Miso?
+Dialogue: 0,0:23:15.72,0:23:16.98,Hosei,,0,0,0,,It's Miso
+Dialogue: 0,0:23:16.32,0:23:16.98,Default,,0,0,0,,yeah
+Dialogue: 0,0:23:16.98,0:23:19.58,Brown,,0,0,0,,{\c&H005EBD&}It's sweet Miso
+Dialogue: 0,0:23:18.14,0:23:19.87,Matsumoto,,0,0,0,,I said so!
+Dialogue: 0,0:23:20.00,0:23:22.24,Hosei,,0,0,0,,This deserves a batsu game!
+Dialogue: 0,0:23:21.50,0:23:24.26,Matsumoto,,0,0,0,,I said it, "It doesn't taste like anko!"
+Dialogue: 0,0:23:24.26,0:23:27.48,Default,,0,0,0,,Sorry Matsumoto-san, this is a batsu game!
+Dialogue: 0,0:23:27.09,0:23:32.90,Red4,,0,0,0,,{\pos(354,806)}Matsumoto
+Dialogue: 0,0:23:27.09,0:23:32.90,Black3,,0,0,0,,{\pos(877,804)}Batsu Game!
+Dialogue: 0,0:23:28.30,0:23:31.13,Matsumoto,,0,0,0,,Who cares! We're not playing the game right now!
+Dialogue: 0,0:23:30.73,0:23:32.70,Hamada,,0,0,0,,There's no helping it
+Dialogue: 0,0:23:33.20,0:23:34.91,Hosei,,0,0,0,,You thought it was-
+Dialogue: 0,0:23:33.74,0:23:36.96,Matsumoto,,0,0,0,,I said it doesn't taste like anko!
+Dialogue: 0,0:23:36.50,0:23:39.52,Default,,0,0,0,,Sorry Matsumoto-san, this is a batsu game!
+Dialogue: 0,0:23:39.84,0:23:42.88,Matsumoto,,0,0,0,,Who cares! We're not playing the game right now!
+Dialogue: 0,0:23:42.56,0:23:44.36,Hamada,,0,0,0,,There's no helping it
+Dialogue: 0,0:23:43.12,0:23:45.58,Default,,0,0,0,,
+Dialogue: 0,0:23:45.08,0:23:46.61,Matsumoto,,0,0,0,,I said it doesn't!
+Dialogue: 0,0:23:47.08,0:23:49.04,Matsumoto,,0,0,0,,Like c'mon I-
+Dialogue: 0,0:23:49.04,0:23:50.45,Default,,0,0,0,,Quiet, quiet
+Dialogue: 0,0:23:50.45,0:23:52.08,Default,,0,0,0,,Your head is,
+Dialogue: 0,0:23:52.08,0:23:53.82,Default,,0,0,0,,dweet - podado
+Dialogue: 0,0:23:53.94,0:23:56.04,Batsu,,0,0,0,,lyge a dweed podado!
+Dialogue: 0,0:23:57.12,0:23:58.94,Endo,,0,0,0,,Just speak properly for once!
+Dialogue: 0,0:24:00.14,0:24:01.72,Hamada,,0,0,0,,I see, this kind of taste
+Dialogue: 0,0:24:01.22,0:24:03.93,Default,,0,0,0,,It is this taste
+Dialogue: 0,0:24:02.14,0:24:03.93,Tanaka,,0,0,0,,Tasty, very tasty
+Dialogue: 0,0:24:03.93,0:24:12.06,Credits,,0,0,0,,{\pos(23.5,138)}TYPESET BY{\c&HF8A479&} KEDOMAS\N{\r}TRANSLATION BY{\c&H7AF0F8&} SENOR_WRISTBAND
+

@@ -1,0 +1,33 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 512
+PlayResY: 384
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Just 4 more.mp4
+Video File: Just 4 more.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Active Line: 1
+Video Position: 240
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: 1,Arial,20,&H00FFC6FF,&H000000FF,&H00EB4EC3,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.34,0:00:05.54,1,,0,0,0,,{\fad(1000,1000)\pos(360,295.273)}Just four more
+Dialogue: 0,0:00:03.99,0:00:05.59,Default,,0,0,0,,Just four more...
+Dialogue: 0,0:00:05.59,0:00:07.92,Default,,0,0,0,,When all the tangerines fall...
+Dialogue: 0,0:00:07.92,0:00:09.75,Default,,0,0,0,,I'll die...
+Dialogue: 0,0:00:09.75,0:00:12.99,Default,,0,0,0,,Did you hear that? Hang in there everyone!
+Dialogue: 0,0:00:21.09,0:00:22.22,Default,,0,0,0,,A bird!
+

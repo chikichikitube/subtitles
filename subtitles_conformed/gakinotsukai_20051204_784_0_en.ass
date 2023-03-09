@@ -1,0 +1,736 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Absolutely Tastey and Kiki Series
+Video File: Absolutely Tasty #06 - Tempura [GnT #784 - 2005.12.04].avi
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 25268
+Audio File: ?video
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Medium,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Matsumoto red,Arial,27,&H000000FF,&H6EFFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Hamada Blue,Arial,27,&H00E10B19,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Yamasaki Green,Arial,27,&H0014B51D,&H000000FF,&H00E0FFE2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Tanaka Pink,Arial,27,&H00C400B7,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Endo orange,Arial,27,&H000A82FC,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Heipo Baby Blue,Arial,27,&H00B2BA0D,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Fujiwara,Arial,25,&H0006060A,&H000000FF,&H00FFFFFF,&H0006060A,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: white Fujiwara,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Yellow announcmend,Arial,32,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:15.00,Default,,0,0,0,,{\i1\fs25\pos(148,51)}Translation by {\b1\c&HB5A621&}ShibataBread\N{\c&HFFFFFF&}www.shibatabread.com{\i0}
+Dialogue: 0,0:00:00.00,0:00:15.00,Default,,0,0,0,,{\i1\fs23\pos(476,51)}Edited by {\b1}{\c&H0808FF&}Mrs. ShibataBread\N{\c&HFFFFFF&}Follow her on twitter {\c&H0808FF&}@tofupizza{\i0}
+Dialogue: 0,0:00:00.49,0:00:02.26,Hamada Blue,,0,0,0,,First Annual Gaki No Tsukai Ya Arahende
+Dialogue: 0,0:00:02.28,0:00:04.44,Hamada Blue,,0,0,0,,I have always wanted to try this challenge
+Dialogue: 0,0:00:04.44,0:00:05.99,Hamada Blue,,0,0,0,,Absolutely Tasty
+Dialogue: 0,0:00:06.03,0:00:08.82,Hamada Blue,,0,0,0,,Tempura Tournament !!!!
+Dialogue: 0,0:00:10.30,0:00:12.58,Hamada Blue,,0,0,0,,Let's look back at our previous tournaments
+Dialogue: 0,0:00:12.20,0:00:14.37,Medium,,0,0,0,,{\c&H18B629&\3c&HFFFFFF&\b1\pos(317,352)}{\fad(500,100)}Downtown
+Dialogue: 0,0:00:12.20,0:00:14.37,Medium,,0,0,0,,{\3c&HDE4939&\pos(202,398)}{\pos(204,404)}{\fad(500,100)}Hitoshi Matsumoto
+Dialogue: 0,0:00:12.20,0:00:14.37,Medium,,0,0,0,,{\pos(467,398)}{\3c&HDE4939&}{\fad(500,100)}Masatoshi Hamada\N
+Dialogue: 0,0:00:14.37,0:00:16.47,Medium,,0,0,0,,{\3c&HDE4939&\pos(318,356)}{\fad(500,100)}Cocorico
+Dialogue: 0,0:00:14.37,0:00:16.47,Medium,,0,0,0,,{\3c&HDE4939&\pos(207,396)}{\fad(500,100)}Shozo Endo
+Dialogue: 0,0:00:14.37,0:00:16.47,Medium,,0,0,0,,{\3c&HDE4939&\pos(443,403)}{\fad(500,100)}Naoki Tanaka
+Dialogue: 0,0:00:16.47,0:00:18.68,Medium,,0,0,0,,{\3c&HDE4939&\pos(320,401)}{\fad(500,100}Hosei Yamasaki
+Dialogue: 0,0:00:12.60,0:00:14.41,Hamada Blue,,0,0,0,,We've cooked with Rice, Pizza,
+Dialogue: 0,0:00:14.45,0:00:16.32,Hamada Blue,,0,0,0,,Taiyaki, Chawanmushi, and Mochi so far
+Dialogue: 0,0:00:16.35,0:00:17.49,Hamada Blue,,0,0,0,,By the way, Matsumoto-san,
+Dialogue: 0,0:00:17.49,0:00:18.68,Hamada Blue,,0,0,0,,you scored a perfect 10
+Dialogue: 0,0:00:18.68,0:00:22.32,Hamada Blue,,0,0,0,,using wedding cake as an ingredient
+Dialogue: 0,0:00:19.20,0:00:24.30,Default,,0,0,0,,{\pos(136,261)}{\fad(300,300)}Wedding Cake Mochi
+Dialogue: 0,0:00:20.80,0:00:24.30,Default,,0,0,0,,{\c&H0808FF&\pos(136,426)}{\fad(300,300)}A Perfect 10
+Dialogue: 0,0:00:20.86,0:00:22.36,Yamasaki Green,,0,0,0,,Oh, did he ?
+Dialogue: 0,0:00:22.87,0:00:25.51,Matsumoto red,,0,0,0,,I confess I'm not really into this series...
+Dialogue: 0,0:00:25.53,0:00:26.45,Endo orange,,0,0,0,,How come ?
+Dialogue: 0,0:00:26.45,0:00:27.83,Matsumoto red,,0,0,0,,I just don't feel good about
+Dialogue: 0,0:00:27.85,0:00:29.36,Matsumoto red,,0,0,0,,satisfying my hunger this way
+Dialogue: 0,0:00:26.00,0:00:33.60,Medium,,0,0,0,,{\c&H210CFF&\b1\pos(321,267)}Today's Theme
+Dialogue: 0,0:00:26.00,0:00:33.60,Default,,0,0,0,,{\b1\fs25\pos(319,314)}Members prepare two "Absolutely Tasty Tempura" dishes\Ngraded on a scale of 1 to 10
+Dialogue: 0,0:00:29.66,0:00:30.58,Hamada Blue,,0,0,0,,I'm with you
+Dialogue: 0,0:00:30.60,0:00:32.73,Tanaka Pink,,0,0,0,,This ends up being your dinner for the night
+Dialogue: 0,0:00:32.73,0:00:33.93,Matsumoto red,,0,0,0,,Right, and to top it off,
+Dialogue: 0,0:00:33.93,0:00:36.06,Matsumoto red,,0,0,0,,I won't want to go out afterwards
+Dialogue: 0,0:00:35.59,0:00:36.37,Hamada Blue,,0,0,0,,Right
+Dialogue: 0,0:00:36.37,0:00:38.73,Matsumoto red,,0,0,0,,And I don't even get to eat something I like
+Dialogue: 0,0:00:39.40,0:00:44.20,Medium,,0,0,0,,{\b1\c&HCE5510&\4c&HF7F37B&}{\fad(300,300)}Downtown Presents:\NGaki No Tsukai Ya Arahende
+Dialogue: 0,0:00:45.60,0:00:50.01,Medium,,0,0,0,,{\pos(315,84)}{\fad(300,300)}Sponsor
+Dialogue: 0,0:00:45.60,0:00:50.01,Medium,,0,0,0,,{\pos(320,223)}{\fad(300,300)}Eiffel
+Dialogue: 0,0:00:50.50,0:00:54.69,Hamada Blue,,0,0,0,,{\pos(91,42)}{\fs22}Narration By
+Dialogue: 0,0:00:50.50,0:00:54.69,Hamada Blue,,0,0,0,,{\pos(237,43)}{\fs22}Shinichi Yamada
+Dialogue: 0,0:00:50.50,0:00:54.69,Medium,,0,0,0,,{\fn@MS UI Gothic\b1\move(300,374,300,374,0,4190)}Tempura by Tanaka
+Dialogue: 0,0:00:51.00,0:00:52.46,white Fujiwara,,0,0,0,,First up is Tanaka
+Dialogue: 0,0:00:52.46,0:00:54.87,white Fujiwara,,0,0,0,,What is his ingredient ?
+Dialogue: 0,0:00:54.87,0:00:57.10,Tanaka Pink,,0,0,0,,Here's my first ingredient
+Dialogue: 0,0:00:58.81,0:00:59.64,Matsumoto red,,0,0,0,,I see
+Dialogue: 0,0:00:59.64,0:01:00.24,Yamasaki Green,,0,0,0,,What's this ?
+Dialogue: 0,0:01:00.24,0:01:01.53,Tanaka Pink,,0,0,0,,These are Strawberry Bean Rice Cakes
+Dialogue: 0,0:01:01.53,0:01:02.71,Endo orange,,0,0,0,,There's strawberry in there
+Dialogue: 0,0:01:01.45,0:01:15.45,Default,,0,0,0,,{\pos(94,377)}{\fad(300,300)}Ingredient
+Dialogue: 0,0:01:01.45,0:01:15.45,Default,,0,0,0,,{\pos(111,409)}{\fad(300,300)}Strawberry Bean Rice Cake
+Dialogue: 0,0:01:02.71,0:01:03.76,Tanaka Pink,,0,0,0,,We all know
+Dialogue: 0,0:01:03.76,0:01:06.10,Tanaka Pink,,0,0,0,,how well strawberry and mochi tastes together
+Dialogue: 0,0:01:06.10,0:01:07.64,Hamada Blue,,0,0,0,,There's no doubt this will turn out great
+Dialogue: 0,0:01:07.64,0:01:09.25,Matsumoto red,,0,0,0,,Frying Mochi itself would be good,
+Dialogue: 0,0:01:09.25,0:01:11.85,Matsumoto red,,0,0,0,,but you're taking the extra step with the strawberry
+Dialogue: 0,0:01:10.87,0:01:11.85,Tanaka Pink,,0,0,0,,I'm going for it
+Dialogue: 0,0:01:11.85,0:01:14.51,Tanaka Pink,,0,0,0,,I'm curious to see how this turns out
+Dialogue: 0,0:01:16.02,0:01:17.01,Tanaka Pink,,0,0,0,,Here's my second ingredient
+Dialogue: 0,0:01:17.47,0:01:18.50,Tanaka Pink,,0,0,0,,Here it is
+Dialogue: 0,0:01:20.54,0:01:22.31,Tanaka Pink,,0,0,0,,A bundle of flowers
+Dialogue: 0,0:01:22.51,0:01:41.80,Default,,0,0,0,,{\fad(300,300)\pos(130,374)}Ingredient
+Dialogue: 0,0:01:22.51,0:01:41.80,Default,,0,0,0,,{\fad(300,300)\pos(131,410)}Bouquet of Edible Flowers
+Dialogue: 0,0:01:23.80,0:01:24.75,Yamasaki Green,,0,0,0,,I don't get this
+Dialogue: 0,0:01:24.75,0:01:25.71,Endo orange,,0,0,0,,This is edible ?
+Dialogue: 0,0:01:25.71,0:01:26.47,Tanaka Pink,,0,0,0,,Yes, it is
+Dialogue: 0,0:01:26.47,0:01:28.56,Tanaka Pink,,0,0,0,,I'm using Chrysanthemum flowers
+Dialogue: 0,0:01:27.59,0:01:28.56,Endo orange,,0,0,0,,Why flowers ?
+Dialogue: 0,0:01:28.56,0:01:31.40,Matsumoto red,,0,0,0,,You are AGERU(To Fry) the AGERU(To Give a Gift)
+Dialogue: 0,0:01:31.50,0:01:32.75,Endo orange,,0,0,0,,I see your pun
+Dialogue: 0,0:01:32.79,0:01:35.10,Tanaka Pink,,0,0,0,,Right, and I'm going to AGERU(To Fry) it even further
+Dialogue: 0,0:01:35.10,0:01:36.75,Tanaka Pink,,0,0,0,,Because I'm frying this whole thing
+Dialogue: 0,0:01:37.39,0:01:38.63,Yamasaki Green,,0,0,0,,We can eat it ?
+Dialogue: 0,0:01:38.63,0:01:40.97,Tanaka Pink,,0,0,0,,Don't worry, these are edible flowers
+Dialogue: 0,0:01:40.97,0:01:42.33,Tanaka Pink,,0,0,0,,Just so we're clear on that
+Dialogue: 0,0:01:42.50,0:01:58.70,Default,,0,0,0,,{\pos(77,377)}{\fad(300,300)}Tanaka's 1st Dish
+Dialogue: 0,0:01:42.50,0:01:58.70,Default,,0,0,0,,{\pos(133,412)}{\fad(300,300)}Strawberry Bean Mochi Tempura
+Dialogue: 0,0:01:42.70,0:01:43.89,white Fujiwara,,0,0,0,,Here's Tanaka's first ingredient
+Dialogue: 0,0:01:43.93,0:01:45.61,white Fujiwara,,0,0,0,,First, the strawberry bean mochi
+Dialogue: 0,0:01:45.61,0:01:47.43,white Fujiwara,,0,0,0,,are battered and then fried
+Dialogue: 0,0:01:47.55,0:01:48.60,Tanaka Pink,,0,0,0,,Here we go
+Dialogue: 0,0:01:55.86,0:01:57.13,Tanaka Pink,,0,0,0,,That scared me a little
+Dialogue: 0,0:01:57.43,0:01:58.86,Matsumoto red,,0,0,0,,That looks good
+Dialogue: 0,0:02:01.27,0:02:02.25,Tanaka Pink,,0,0,0,,Incredible !
+Dialogue: 0,0:01:59.64,0:02:15.70,Default,,0,0,0,,{\fad(300,300)\pos(116,377)}Tanaka's 2nd Dish
+Dialogue: 0,0:01:59.64,0:02:15.70,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Flower Tempura
+Dialogue: 0,0:02:03.47,0:02:05.10,Tanaka Pink,,0,0,0,,Here I go
+Dialogue: 0,0:02:08.08,0:02:09.84,Endo orange,,0,0,0,,Wach it, watch it
+Dialogue: 0,0:02:09.84,0:02:10.79,Endo orange,,0,0,0,,Shove that whole thing in there
+Dialogue: 0,0:02:11.55,0:02:13.63,Matsumoto red,,0,0,0,,There will only be crumbs left
+Dialogue: 0,0:02:13.63,0:02:15.02,Hamada Blue,,0,0,0,,You're right
+Dialogue: 0,0:02:15.92,0:02:20.88,Medium,,0,0,0,,{\pos(321,383)}Tanaka's 1st Dish:\N"Strawberry Bean Mochi Tempura"
+Dialogue: 0,0:02:16.35,0:02:18.86,white Fujiwara,,0,0,0,,Here's Tanaka's strawberry bean mochi tempura
+Dialogue: 0,0:02:18.97,0:02:20.62,white Fujiwara,,0,0,0,,How will they fare ?
+Dialogue: 0,0:02:20.96,0:02:22.63,Matsumoto red,,0,0,0,,I'm seriously starving right now
+Dialogue: 0,0:02:22.65,0:02:23.58,Tanaka Pink,,0,0,0,,This will be perfect then
+Dialogue: 0,0:02:23.62,0:02:25.20,Matsumoto red,,0,0,0,,Well, I just want something decent
+Dialogue: 0,0:02:25.25,0:02:27.04,Endo orange,,0,0,0,,They look good so far
+Dialogue: 0,0:02:27.03,0:03:47.80,Default,,0,0,0,,{\pos(79,376)}{\fad(300,300)}Tanaka's 1st Dish
+Dialogue: 0,0:02:27.03,0:03:47.80,Default,,0,0,0,,{\pos(132,411)}{\fad(300,300)}Strawberry Bean Mochi Tempura
+Dialogue: 0,0:02:27.04,0:02:30.03,Hamada Blue,,0,0,0,,Couldn't this show hire a real waitress ?
+Dialogue: 0,0:02:30.04,0:02:30.71,Matsumoto red,,0,0,0,,I agree
+Dialogue: 0,0:02:31.16,0:02:32.70,Matsumoto red,,0,0,0,,Hey, come back here
+Dialogue: 0,0:02:32.70,0:02:34.57,Hamada Blue,,0,0,0,,Seriously, this is where we can do better
+Dialogue: 0,0:02:34.57,0:02:38.30,Matsumoto red,,0,0,0,,It's insulting having this guy serve us
+Dialogue: 0,0:02:36.05,0:02:38.45,Medium,,0,0,0,,{\3c&HDE4939&\pos(364,342)}{\fad(100,100)}Yorihisa Ezure
+Dialogue: 0,0:02:38.45,0:02:40.00,Matsumoto red,,0,0,0,,I mean he would be my one millionth choice
+Dialogue: 0,0:02:40.00,0:02:44.27,Matsumoto red,,0,0,0,,from the bottom of the world population
+Dialogue: 0,0:02:44.27,0:02:46.78,Matsumoto red,,0,0,0,,Tanaka, your mochi looks different
+Dialogue: 0,0:02:46.78,0:02:47.63,Tanaka Pink,,0,0,0,,You're right
+Dialogue: 0,0:02:47.64,0:02:48.85,Hamada Blue,,0,0,0,,You're the one who made it, so that's why
+Dialogue: 0,0:02:48.85,0:02:51.14,Matsumoto red,,0,0,0,,This dish has the potential to be a big hit
+Dialogue: 0,0:02:51.14,0:02:51.74,Hamada Blue,,0,0,0,,We'll see
+Dialogue: 0,0:02:51.74,0:02:53.50,Yamasaki Green,,0,0,0,,This one looks great so far
+Dialogue: 0,0:02:53.58,0:02:54.37,Tanaka Pink,,0,0,0,,Itadakimasu
+Dialogue: 0,0:02:54.73,0:02:55.70,Endo orange,,0,0,0,,Itadakimasu
+Dialogue: 0,0:02:55.70,0:02:57.99,Hamada Blue,,0,0,0,,I hate how it's dripping
+Dialogue: 0,0:03:04.94,0:03:06.03,Matsumoto red,,0,0,0,,This is tasty
+Dialogue: 0,0:03:06.03,0:03:07.28,Tanaka Pink,,0,0,0,,Isn't this delicious ?
+Dialogue: 0,0:03:07.38,0:03:08.21,Hamada Blue,,0,0,0,,This is good
+Dialogue: 0,0:03:08.21,0:03:08.69,Tanaka Pink,,0,0,0,,Right ?
+Dialogue: 0,0:03:08.73,0:03:11.01,Endo orange,,0,0,0,,Delicious
+Dialogue: 0,0:03:11.09,0:03:12.10,Yamasaki Green,,0,0,0,,I admit this is good but...
+Dialogue: 0,0:03:12.10,0:03:13.77,Yamasaki Green,,0,0,0,,not much changed from the original
+Dialogue: 0,0:03:13.79,0:03:14.53,Matsumoto red,,0,0,0,,I second that
+Dialogue: 0,0:03:14.78,0:03:16.53,Matsumoto red,,0,0,0,,This isn't THAT good
+Dialogue: 0,0:03:18.39,0:03:21.41,Endo orange,,0,0,0,,So, the breading is SATSUMA IMO (Sweet Potato)...
+Dialogue: 0,0:03:21.45,0:03:23.15,Endo orange,,0,0,0,,But why Sweet Potato ?
+Dialogue: 0,0:03:23.15,0:03:24.22,Hamada Blue,,0,0,0,,Huh ?
+Dialogue: 0,0:03:25.27,0:03:27.73,Yamasaki Green,,0,0,0,,Hold on, we need to figure out what just happened
+Dialogue: 0,0:03:28.80,0:03:31.22,Endo orange,,0,0,0,,Wait, I meant to say SATSUMA AGE (Fried Fish)
+Dialogue: 0,0:03:31.32,0:03:33.84,Matsumoto red,,0,0,0,,You got those two words mixed up ?
+Dialogue: 0,0:03:33.92,0:03:34.98,Endo orange,,0,0,0,,But you get it, right ?
+Dialogue: 0,0:03:34.99,0:03:36.39,Yamasaki Green,,0,0,0,,Tell your wife, Chiaki, about this
+Dialogue: 0,0:03:36.39,0:03:37.22,Matsumoto red,,0,0,0,,She needs to know about this
+Dialogue: 0,0:03:37.22,0:03:40.48,Yamasaki Green,,0,0,0,,Tell her this wasn't sweet potato
+Dialogue: 0,0:03:40.63,0:03:42.14,Tanaka Pink,,0,0,0,,Yes, just so she's clear on this
+Dialogue: 0,0:03:42.37,0:03:43.69,Endo orange,,0,0,0,,Chiaki !
+Dialogue: 0,0:03:44.07,0:03:46.43,Endo orange,,0,0,0,,This wasn't sweet potato !
+Dialogue: 0,0:03:46.98,0:03:48.04,Endo orange,,0,0,0,,What's this all about ?
+Dialogue: 0,0:03:48.08,0:03:52.23,Medium,,0,0,0,,{\pos(321,383)\b1\c&H29CB42&}Tanaka's 1st Dish:\N"Strawberry and Bean Mochi Tempura"
+Dialogue: 0,0:03:52.50,0:03:57.07,Medium,,0,0,0,,{\pos(285,381)}Tanaka's 2nd Dish: "Flower Tempura"
+Dialogue: 0,0:03:48.65,0:03:52.33,white Fujiwara,,0,0,0,,The flavor didn't live up to its appearance and receives 5 points
+Dialogue: 0,0:03:52.93,0:03:55.39,white Fujiwara,,0,0,0,,His second ingredient is a bouquet of flowers
+Dialogue: 0,0:03:55.39,0:03:56.66,white Fujiwara,,0,0,0,,How does this taste ?
+Dialogue: 0,0:03:58.00,0:04:43.50,Default,,0,0,0,,{\fad(300,300)\pos(116,377)}Tanaka's 2nd Dish
+Dialogue: 0,0:03:58.00,0:04:43.50,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Flower Tempura
+Dialogue: 0,0:03:58.90,0:04:00.35,Matsumoto red,,0,0,0,,Great first impression for sure
+Dialogue: 0,0:04:01.01,0:04:02.74,Tanaka Pink,,0,0,0,,Will you take a look at this ?
+Dialogue: 0,0:04:04.02,0:04:05.21,Tanaka Pink,,0,0,0,,Amazing !
+Dialogue: 0,0:04:05.73,0:04:07.00,Yamasaki Green,,0,0,0,,This serves how many people ?
+Dialogue: 0,0:04:07.02,0:04:08.39,Matsumoto red,,0,0,0,,Can you hold that up ?
+Dialogue: 0,0:04:09.07,0:04:10.10,Matsumoto red,,0,0,0,,Yeah, you got it
+Dialogue: 0,0:04:10.17,0:04:12.20,Matsumoto red,,0,0,0,,So far, the presentation is awesome
+Dialogue: 0,0:04:15.60,0:04:16.85,Matsumoto red,,0,0,0,,It's grand
+Dialogue: 0,0:04:16.33,0:04:17.45,Endo orange,,0,0,0,,Itadakimasu
+Dialogue: 0,0:04:18.02,0:04:18.94,Yamasaki Green,,0,0,0,,Itadakimasu
+Dialogue: 0,0:04:20.48,0:04:22.24,Tanaka Pink,,0,0,0,,This isn't so bad, is it ?
+Dialogue: 0,0:04:23.46,0:04:24.76,Hamada Blue,,0,0,0,,Is this really edible ?
+Dialogue: 0,0:04:28.90,0:04:29.73,Hamada Blue,,0,0,0,,Not good
+Dialogue: 0,0:04:29.77,0:04:30.37,Matsumoto red,,0,0,0,,No can do
+Dialogue: 0,0:04:31.00,0:04:33.25,Matsumoto red,,0,0,0,,It tastes like
+Dialogue: 0,0:04:33.27,0:04:36.60,Matsumoto red,,0,0,0,,I'm rolling around on the grassy lawn
+Dialogue: 0,0:04:37.02,0:04:38.01,Matsumoto red,,0,0,0,,3 points...
+Dialogue: 0,0:04:38.07,0:04:38.93,Hamada Blue,,0,0,0,,2 or 3 points...
+Dialogue: 0,0:04:38.93,0:04:39.70,Tanaka Pink,,0,0,0,,2 or 3 points ?
+Dialogue: 0,0:04:39.70,0:04:41.55,Endo orange,,0,0,0,,You scored 5 points with your first one so...
+Dialogue: 0,0:04:41.55,0:04:43.38,Tanaka Pink,,0,0,0,,You'd give me 3 points for this ?
+Dialogue: 0,0:04:43.83,0:04:47.76,Medium,,0,0,0,,{\b1\c&H29CB42&\pos(316,365)}Tanaka's 2nd Dish:"Flower Tempura"
+Dialogue: 0,0:04:44.48,0:04:47.98,white Fujiwara,,0,0,0,,The flavor didn't live up to its appearance and receives 3 points
+Dialogue: 0,0:04:47.98,0:04:50.65,white Fujiwara,,0,0,0,,Next up is Endo
+Dialogue: 0,0:04:50.72,0:04:52.52,white Fujiwara,,0,0,0,,What are his ingredients ?
+Dialogue: 0,0:04:48.04,0:04:52.53,Medium,,0,0,0,,{\fn@MS UI Gothic\b1\pos(300,374)}Tempura by Endo
+Dialogue: 0,0:04:52.78,0:04:54.53,Endo orange,,0,0,0,,Here's my {\alpha&HFF&}first ingredient !!!!
+Dialogue: 0,0:04:54.53,0:04:56.02,Endo orange,,0,0,0,,Here's my first ingredient !!!!
+Dialogue: 0,0:04:56.66,0:04:57.78,Endo orange,,0,0,0,,Seedless grapes !
+Dialogue: 0,0:04:57.79,0:04:59.99,Hamada Blue,,0,0,0,,Let me just eat them as is !!
+Dialogue: 0,0:04:59.18,0:05:00.77,Matsumoto red,,0,0,0,,Let me eat them now !
+Dialogue: 0,0:04:58.30,0:05:07.10,Default,,0,0,0,,{\fad(300,300)\pos(116,377)}Ingredient
+Dialogue: 0,0:04:58.30,0:05:07.10,Default,,0,0,0,,{\pos(132,411)}{\fad(300,300)}Grapes (Kyoho)
+Dialogue: 0,0:05:01.60,0:05:02.89,Hamada Blue,,0,0,0,,They're so good on their own
+Dialogue: 0,0:05:03.03,0:05:04.40,Endo orange,,0,0,0,,I understand they're good right now
+Dialogue: 0,0:05:04.40,0:05:07.30,Endo orange,,0,0,0,,but today I'm frying these as Tempura !
+Dialogue: 0,0:05:07.30,0:05:09.66,Endo orange,,0,0,0,,Then, I'm hoping this item will finally work wonders this time
+Dialogue: 0,0:05:09.68,0:05:10.38,Endo orange,,0,0,0,,Here it is !
+Dialogue: 0,0:05:10.38,0:05:11.37,Endo orange,,0,0,0,,FRISK mints !
+Dialogue: 0,0:05:11.53,0:05:12.66,Matsumoto red,,0,0,0,,Cut it out !
+Dialogue: 0,0:05:12.78,0:05:14.21,Endo orange,,0,0,0,,Please....Frisk ?!!
+Dialogue: 0,0:05:14.21,0:05:15.00,Endo orange,,0,0,0,,I'm begging you !
+Dialogue: 0,0:05:11.35,0:05:23.45,Default,,0,0,0,,{\fad(300,300)\pos(101,377)}Ingredient
+Dialogue: 0,0:05:11.35,0:05:23.45,Default,,0,0,0,,{\pos(98,414)}{\fad(300,300)}Frisk
+Dialogue: 0,0:05:15.00,0:05:16.79,Hamada Blue,,0,0,0,,Did anyone from Frisk ever contact you ?
+Dialogue: 0,0:05:16.79,0:05:18.02,Endo orange,,0,0,0,,No, zero, nada
+Dialogue: 0,0:05:18.22,0:05:23.79,white Fujiwara,,0,0,0,,Will Endo's passionate plea be answered ?
+Dialogue: 0,0:05:25.80,0:05:28.47,Matsumoto red,,0,0,0,,Imagine if you were the grapes right now...
+Dialogue: 0,0:05:24.55,0:05:50.10,Default,,0,0,0,,{\pos(107,377)}{\fad(300,300)}Endo's 1st Dish
+Dialogue: 0,0:05:24.55,0:05:50.10,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Grape Tempura
+Dialogue: 0,0:05:28.62,0:05:30.79,Endo orange,,0,0,0,,Well, grapes are never subjected to this treatment
+Dialogue: 0,0:05:30.79,0:05:31.95,Matsumoto red,,0,0,0,,I'm not kidding
+Dialogue: 0,0:05:32.29,0:05:36.03,Matsumoto red,,0,0,0,,It's like Yosuke Eguchi doused in flour
+Dialogue: 0,0:05:36.11,0:05:37.20,Endo orange,,0,0,0,,Here I go
+Dialogue: 0,0:05:43.06,0:05:44.57,Hamada Blue,,0,0,0,,What the heck...?
+Dialogue: 0,0:05:44.64,0:05:46.11,Matsumoto red,,0,0,0,,Chef, won't it explode ?
+Dialogue: 0,0:05:46.11,0:05:47.17,white Fujiwara,,0,0,0,,{\fs27}No, it shouldn't
+Dialogue: 0,0:05:47.17,0:05:48.72,Endo orange,,0,0,0,,Grapes, I'm counting on you
+Dialogue: 0,0:05:51.51,0:05:56.97,white Fujiwara,,0,0,0,,The Frisk mints get fried like a "mixed tempura"
+Dialogue: 0,0:05:51.65,0:06:06.40,Default,,0,0,0,,{\pos(110,376)}{\fad(300,300)}Endo's 2nd Dish
+Dialogue: 0,0:05:51.65,0:06:06.40,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Frisk Tempura
+Dialogue: 0,0:05:56.99,0:05:58.01,Matsumoto red,,0,0,0,,I see
+Dialogue: 0,0:05:58.01,0:05:59.43,Matsumoto red,,0,0,0,,So that how this would look fried
+Dialogue: 0,0:05:59.43,0:06:01.42,Hamada Blue,,0,0,0,,Man, I can tell it's a failure already
+Dialogue: 0,0:06:01.42,0:06:03.35,Hamada Blue,,0,0,0,,I don't even have to eat that
+Dialogue: 0,0:06:03.63,0:06:06.75,Endo orange,,0,0,0,,So here's my Frisk in mixed tempura form
+Dialogue: 0,0:06:06.80,0:06:11.80,Medium,,0,0,0,,{\pos(293,379)}Endo's 1st Dish: "Grape Tempura"
+Dialogue: 0,0:06:07.12,0:06:10.39,white Fujiwara,,0,0,0,,Endo's first dish is grape tempura
+Dialogue: 0,0:06:10.41,0:06:11.80,white Fujiwara,,0,0,0,,How does it taste ?
+Dialogue: 0,0:06:12.35,0:07:12.60,Default,,0,0,0,,{\pos(109,377)}{\fad(300,300)}Endo's 1st Dish
+Dialogue: 0,0:06:12.35,0:07:12.60,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Grape Tempura
+Dialogue: 0,0:06:12.53,0:06:14.81,Matsumoto red,,0,0,0,,They look amazing
+Dialogue: 0,0:06:16.79,0:06:18.34,Yamasaki Green,,0,0,0,,I don't know what to say...
+Dialogue: 0,0:06:18.42,0:06:19.21,Hamada Blue,,0,0,0,,It smells good
+Dialogue: 0,0:06:19.21,0:06:21.00,Yamasaki Green,,0,0,0,,It's like a work of art
+Dialogue: 0,0:06:21.55,0:06:22.76,Endo orange,,0,0,0,,Yeah, it looks like that
+Dialogue: 0,0:06:23.50,0:06:24.45,Endo orange,,0,0,0,,They're straight out of the fryer
+Dialogue: 0,0:06:24.45,0:06:26.75,Medium,,0,0,0,,Itadakimasu !
+Dialogue: 0,0:06:26.75,0:06:27.96,Yamasaki Green,,0,0,0,,Hot !
+Dialogue: 0,0:06:29.82,0:06:32.18,Matsumoto red,,0,0,0,,This is way too hot, moron !
+Dialogue: 0,0:06:32.19,0:06:32.79,Endo orange,,0,0,0,,Hot !!!
+Dialogue: 0,0:06:33.35,0:06:34.25,Yamasaki Green,,0,0,0,,It's too hot to eat
+Dialogue: 0,0:06:34.25,0:06:35.44,Matsumoto red,,0,0,0,,Hot !!
+Dialogue: 0,0:06:35.44,0:06:37.48,Hamada Blue,,0,0,0,,I've never had such hot grapes before..
+Dialogue: 0,0:06:40.41,0:06:41.51,Hamada Blue,,0,0,0,,Hot !
+Dialogue: 0,0:06:41.51,0:06:42.78,Endo orange,,0,0,0,,It's good !
+Dialogue: 0,0:06:43.01,0:06:43.65,Yamasaki Green,,0,0,0,,No way
+Dialogue: 0,0:06:44.11,0:06:44.74,Tanaka Pink,,0,0,0,,Not for me
+Dialogue: 0,0:06:44.74,0:06:47.18,Hamada Blue,,0,0,0,,I wouldn't say this is "good"
+Dialogue: 0,0:06:47.34,0:06:48.43,Endo orange,,0,0,0,,But...
+Dialogue: 0,0:06:48.45,0:06:50.94,Endo orange,,0,0,0,,Considering how low your expectation was,
+Dialogue: 0,0:06:50.96,0:06:53.48,Endo orange,,0,0,0,,I think it deserves a good score
+Dialogue: 0,0:06:53.50,0:06:56.04,Matsumoto red,,0,0,0,,Well then, how many points would you give ?
+Dialogue: 0,0:06:56.10,0:07:00.67,Endo orange,,0,0,0,,Because this faced a tough obstacle,
+Dialogue: 0,0:07:00.98,0:07:02.63,Endo orange,,0,0,0,,I'd say at least 8 points...
+Dialogue: 0,0:07:02.67,0:07:04.00,Endo orange,,0,0,0,,Not any lower than that
+Dialogue: 0,0:07:04.02,0:07:05.21,Hamada Blue,,0,0,0,,Don't be a moron
+Dialogue: 0,0:07:05.21,0:07:05.99,Hamada Blue,,0,0,0,,8 points ?
+Dialogue: 0,0:07:06.05,0:07:06.92,Hamada Blue,,0,0,0,,I give you 4 points
+Dialogue: 0,0:07:06.97,0:07:08.19,Endo orange,,0,0,0,,Only 4 points ??
+Dialogue: 0,0:07:08.23,0:07:09.68,Matsumoto red,,0,0,0,,If we gave you 8 points for this,
+Dialogue: 0,0:07:09.70,0:07:12.95,Matsumoto red,,0,0,0,,then it would be a part of an every day diet
+Dialogue: 0,0:07:13.01,0:07:17.27,Medium,,0,0,0,,{\b1\c&H29CB42&\pos(291,365)}Endo's 1st Dish: "Grape Tempura"
+Dialogue: 0,0:07:17.40,0:07:21.95,Medium,,0,0,0,,{\pos(285,384)}Endo's 2nd Dish: "Frisk Tempura"
+Dialogue: 0,0:07:13.01,0:07:17.43,white Fujiwara,,0,0,0,,Endo's grape tempura fails to become part of a daily diet and receives 4 points
+Dialogue: 0,0:07:17.46,0:07:19.65,white Fujiwara,,0,0,0,,His second ingredient is Frisk
+Dialogue: 0,0:07:19.69,0:07:21.95,white Fujiwara,,0,0,0,,Will Endo's prayer be answered ?
+Dialogue: 0,0:07:22.50,0:08:02.05,Default,,0,0,0,,{\pos(110,376)}{\fad(300,300)}Endo's 2nd Dish
+Dialogue: 0,0:07:22.50,0:08:02.05,Default,,0,0,0,,{\fad(300,300)\pos(110,415)}Frisk Tempura
+Dialogue: 0,0:07:22.52,0:07:23.74,Yamasaki Green,,0,0,0,,What the hell....??
+Dialogue: 0,0:07:23.78,0:07:27.69,Matsumoto red,,0,0,0,,Isn't this what you find inside Donbei Cup Noodles ??
+Dialogue: 0,0:07:29.72,0:07:31.58,Matsumoto red,,0,0,0,,It certainly looks...
+Dialogue: 0,0:07:32.11,0:07:34.58,Matsumoto red,,0,0,0,,It certainly looks like it would be great with noodles
+Dialogue: 0,0:07:35.36,0:07:37.00,Endo orange,,0,0,0,,Itadakimasu
+Dialogue: 0,0:07:38.01,0:07:39.52,Hamada Blue,,0,0,0,,I can smell this already
+Dialogue: 0,0:07:45.26,0:07:46.73,Yamasaki Green,,0,0,0,,This is like...
+Dialogue: 0,0:07:46.75,0:07:47.95,Yamasaki Green,,0,0,0,,some kind of curse
+Dialogue: 0,0:07:50.78,0:07:52.92,Hamada Blue,,0,0,0,,The mint flavor has completely taken over
+Dialogue: 0,0:07:52.94,0:07:54.79,Yamasaki Green,,0,0,0,,I'm simply stunned
+Dialogue: 0,0:07:54.81,0:07:57.69,Matsumoto red,,0,0,0,,Wouldn't you run home if you saw this in your bento box ?
+Dialogue: 0,0:07:57.75,0:08:01.86,Matsumoto red,,0,0,0,,And you'd do this at the door as your mom opened it
+Dialogue: 0,0:08:02.69,0:08:06.32,Medium,,0,0,0,,{\pos(286,289)\c&H5AE7F7&\b1}Endo's 2nd Dish: "Frisk Tempura"
+Dialogue: 0,0:08:06.58,0:08:11.05,Medium,,0,0,0,,{\fn@MS UI Gothic\b1\pos(300,374)}Tempura by Yamasaki
+Dialogue: 0,0:08:02.89,0:08:06.34,white Fujiwara,,0,0,0,,Endo's prayer wasn't answered, and it received a skull and crossbones
+Dialogue: 0,0:08:06.56,0:08:08.23,white Fujiwara,,0,0,0,,Next up is Yamasaki
+Dialogue: 0,0:08:08.33,0:08:11.05,white Fujiwara,,0,0,0,,What did he choose ?
+Dialogue: 0,0:08:11.56,0:08:12.95,Yamasaki Green,,0,0,0,,Shall I begin ?
+Dialogue: 0,0:08:13.25,0:08:14.23,Yamasaki Green,,0,0,0,,Here they are !
+Dialogue: 0,0:08:14.23,0:08:16.51,Matsumoto red,,0,0,0,,They look promising
+Dialogue: 0,0:08:16.55,0:08:17.54,Yamasaki Green,,0,0,0,,They are none other than
+Dialogue: 0,0:08:17.54,0:08:18.83,Yamasaki Green,,0,0,0,,Donburi Bowls
+Dialogue: 0,0:08:19.29,0:08:47.00,Default,,0,0,0,,{\fad(300,300)\pos(101,300)}Ingredients
+Dialogue: 0,0:08:20.05,0:08:47.00,Default,,0,0,0,,{\fad(100,300)\pos(100,338)}Chicken Bowl
+Dialogue: 0,0:08:22.80,0:08:47.00,Default,,0,0,0,,{\fad(100,300)\pos(94,376)}Mabo Tofu
+Dialogue: 0,0:08:25.35,0:08:47.00,Default,,0,0,0,,{\fad(100,300)\pos(94,414)}Curry Bowl
+Dialogue: 0,0:08:18.83,0:08:20.32,Yamasaki Green,,0,0,0,,First we have the Chicken Bowl
+Dialogue: 0,0:08:21.45,0:08:23.00,Yamasaki Green,,0,0,0,,Second is the Mabo Tofu
+Dialogue: 0,0:08:23.42,0:08:25.52,Yamasaki Green,,0,0,0,,Last is the Curry Bowl
+Dialogue: 0,0:08:25.58,0:08:27.19,Endo orange,,0,0,0,,Can we just have them as is ?
+Dialogue: 0,0:08:27.19,0:08:28.22,Matsumoto red,,0,0,0,,No kidding
+Dialogue: 0,0:08:28.24,0:08:30.74,Yamasaki Green,,0,0,0,,Well, today's theme is to create Tempura so...
+Dialogue: 0,0:08:30.80,0:08:33.46,Yamasaki Green,,0,0,0,,Anyhow, these are difficult ingredients for tempura
+Dialogue: 0,0:08:33.46,0:08:35.33,Yamasaki Green,,0,0,0,,so I prepared them like this
+Dialogue: 0,0:08:35.35,0:08:37.19,Yamasaki Green,,0,0,0,,These are the same as the contents in the 3 bowls ...
+Dialogue: 0,0:08:37.22,0:08:38.54,Matsumoto red,,0,0,0,,Are they frozen ?
+Dialogue: 0,0:08:38.54,0:08:39.81,Yamasaki Green,,0,0,0,,Yes, they're frozen
+Dialogue: 0,0:08:39.82,0:08:40.59,Endo orange,,0,0,0,,Good idea
+Dialogue: 0,0:08:40.59,0:08:42.18,Endo orange,,0,0,0,,Yes, they're really frozen
+Dialogue: 0,0:08:43.01,0:08:45.01,white Fujiwara,,0,0,0,,Yamasaki's idea is to freeze the ingredients
+Dialogue: 0,0:08:45.04,0:08:47.28,white Fujiwara,,0,0,0,,before they're fried
+Dialogue: 0,0:08:47.90,0:08:50.35,Yamasaki Green,,0,0,0,,And here's my second ingredient
+Dialogue: 0,0:08:50.35,0:08:51.34,Tanaka Pink,,0,0,0,,What's this ?
+Dialogue: 0,0:08:51.83,0:08:52.60,Matsumoto red,,0,0,0,,This isn't good
+Dialogue: 0,0:08:52.20,0:09:00.90,Default,,0,0,0,,{\pos(141,377)}Ingredient
+Dialogue: 0,0:08:52.20,0:09:00.90,Default,,0,0,0,,{\pos(96,411)}Jelly-Beans
+Dialogue: 0,0:08:52.60,0:08:53.57,Yamasaki Green,,0,0,0,,They are...
+Dialogue: 0,0:08:53.57,0:08:54.86,Yamasaki Green,,0,0,0,,Jelly-Beans
+Dialogue: 0,0:08:56.53,0:08:58.84,Yamasaki Green,,0,0,0,,I'm frying them in a mixed tempura form
+Dialogue: 0,0:08:59.47,0:09:01.48,Endo orange,,0,0,0,,They sure look colorful and pretty right now
+Dialogue: 0,0:09:01.75,0:09:08.15,Default,,0,0,0,,{\pos(108,374)}{\fad(300,300)}Yamasaki's 1st Dish
+Dialogue: 0,0:09:01.75,0:09:08.15,Default,,0,0,0,,{\pos(116,414)}{\fad(300,300)}3 Frozen Bowl Tempura
+Dialogue: 0,0:09:02.03,0:09:08.11,white Fujiwara,,0,0,0,,{\fs23}First, Yamasaki fries up each member's choice of ingredients
+Dialogue: 0,0:09:09.50,0:09:20.00,Default,,0,0,0,,{\pos(112,381)}{\fad(300,300)}Yamasaki's 2nd Dish
+Dialogue: 0,0:09:09.50,0:09:20.00,Default,,0,0,0,,{\pos(111,414)}{\fad(300,300)}Jelly-Beans Tempura
+Dialogue: 0,0:09:17.04,0:09:18.38,Hamada Blue,,0,0,0,,It has nice color to it
+Dialogue: 0,0:09:18.38,0:09:20.24,Matsumoto red,,0,0,0,,Looks like mixed vegetables
+Dialogue: 0,0:09:20.24,0:09:25.22,Medium,,0,0,0,,{\pos(312,382)}Yamasaki's 1st Dish: 3 Frozen Bowl Tempura
+Dialogue: 0,0:09:08.98,0:09:11.67,white Fujiwara,,0,0,0,,Yamasaki's second ingredient, Jelly-Beans,
+Dialogue: 0,0:09:11.70,0:09:14.20,white Fujiwara,,0,0,0,,gets fried in mixed tempura form
+Dialogue: 0,0:09:14.37,0:09:16.03,Endo orange,,0,0,0,,They sure look colorful
+Dialogue: 0,0:09:21.26,0:09:23.89,white Fujiwara,,0,0,0,,Yamasaki's first ingredients are 3 different frozen bowls
+Dialogue: 0,0:09:23.89,0:09:25.20,white Fujiwara,,0,0,0,,How do they taste ?
+Dialogue: 0,0:09:25.30,0:09:26.51,Matsumoto red,,0,0,0,,I picked Mah-bo-Tofu
+Dialogue: 0,0:09:25.66,0:10:26.55,Default,,0,0,0,,{\pos(108,374)}{\fad(300,300)}Yamasaki's 1st Dish
+Dialogue: 0,0:09:25.66,0:10:26.55,Default,,0,0,0,,{\pos(116,414)}{\fad(300,300)}3 Frozen Bowl Tempura
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(197,257)}Mabo Tofu
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(197,324)}Matsumoto
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(315,256)}Curry Bowl
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(316,294)}Hamada
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(315,322)}Endo
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(314,355)}Yamasaki
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(431,256)}Chicken Bowl
+Dialogue: 0,0:09:25.66,0:09:30.35,Default,,0,0,0,,{\pos(434,325)}Tanaka
+Dialogue: 0,0:09:31.00,0:09:33.48,Medium,,0,0,0,,{\pos(312,346)}Chicken Bowl Tempura
+Dialogue: 0,0:09:33.48,0:09:36.24,Medium,,0,0,0,,{\pos(325,342)}Mabo Tofu Tempura
+Dialogue: 0,0:09:36.26,0:09:39.04,Medium,,0,0,0,,{\pos(319,341)}Curry Bowl Tempura
+Dialogue: 0,0:09:26.51,0:09:27.69,Endo orange,,0,0,0,,I had curry
+Dialogue: 0,0:09:27.72,0:09:28.70,Hamada Blue,,0,0,0,,I also chose curry
+Dialogue: 0,0:09:28.70,0:09:30.65,Yamasaki Green,,0,0,0,,And I'm having curry also
+Dialogue: 0,0:09:30.72,0:09:32.10,Tanaka Pink,,0,0,0,,I got the chicken bowl
+Dialogue: 0,0:09:33.07,0:09:34.06,Yamasaki Green,,0,0,0,,Are we good ?
+Dialogue: 0,0:09:34.06,0:09:38.19,Matsumoto red,,0,0,0,,{\fs25}Couldn't you have picked something other than curry ?
+Dialogue: 0,0:09:38.19,0:09:38.99,Yamasaki Green,,0,0,0,,What ?
+Dialogue: 0,0:09:39.04,0:09:40.79,Matsumoto red,,0,0,0,,I chose the Tofu and he got the Chicken
+Dialogue: 0,0:09:40.79,0:09:42.60,Hamada Blue,,0,0,0,,{\fs25}Why did you pick curry when two others already have it ?
+Dialogue: 0,0:09:42.62,0:09:43.52,Matsumoto red,,0,0,0,,Let's keep things balanced
+Dialogue: 0,0:09:43.59,0:09:47.36,Yamasaki Green,,0,0,0,,My motto is to eat whatever I want...
+Dialogue: 0,0:09:48.77,0:09:52.05,Matsumoto red,,0,0,0,,I see you never grew out of selfish celebrity status
+Dialogue: 0,0:09:54.31,0:09:56.45,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:09:57.45,0:09:58.63,Endo orange,,0,0,0,,Man, this is still cold
+Dialogue: 0,0:09:59.75,0:10:01.58,Tanaka Pink,,0,0,0,,You're right
+Dialogue: 0,0:10:02.47,0:10:03.26,Tanaka Pink,,0,0,0,,This is cold
+Dialogue: 0,0:10:03.26,0:10:04.81,Matsumoto red,,0,0,0,,It's too bad because this is good
+Dialogue: 0,0:10:06.30,0:10:07.52,Yamasaki Green,,0,0,0,,This is good
+Dialogue: 0,0:10:08.54,0:10:11.22,Matsumoto red,,0,0,0,,Seriously, try mine
+Dialogue: 0,0:10:11.22,0:10:12.69,Matsumoto red,,0,0,0,,It's so good
+Dialogue: 0,0:10:13.13,0:10:15.93,Yamasaki Green,,0,0,0,,Let me get all that breading, too
+Dialogue: 0,0:10:17.74,0:10:19.39,Yamasaki Green,,0,0,0,,You're right
+Dialogue: 0,0:10:19.66,0:10:20.53,Yamasaki Green,,0,0,0,,It's delicious
+Dialogue: 0,0:10:20.64,0:10:22.01,Hamada Blue,,0,0,0,,I'm thinking 9 points
+Dialogue: 0,0:10:22.01,0:10:22.94,Matsumoto red,,0,0,0,,Yeah, 9 points
+Dialogue: 0,0:10:22.94,0:10:23.63,Yamasaki Green,,0,0,0,,Really ?
+Dialogue: 0,0:10:24.65,0:10:25.88,Yamasaki Green,,0,0,0,,That's good news
+Dialogue: 0,0:10:25.88,0:10:27.29,Yamasaki Green,,0,0,0,,That made me happy
+Dialogue: 0,0:10:27.07,0:10:31.48,Medium,,0,0,0,,{\c&HB541D6&\3c&H3114A5&\4c&HB5B2EF&\pos(323,376)}Yamasaki's 1st Dish: 3 Frozen Bowl Tempura
+Dialogue: 0,0:10:31.48,0:10:36.06,Medium,,0,0,0,,{\pos(309,380)}Yamasaki's 2nd Dish: Jelly-Belly Tempura
+Dialogue: 0,0:10:27.29,0:10:31.48,white Fujiwara,,0,0,0,,It could have received a perfect score if fully cooked
+Dialogue: 0,0:10:31.48,0:10:36.04,white Fujiwara,,0,0,0,,Yamasaki's second choice is Jelly-Beans Tempura
+Dialogue: 0,0:10:39.65,0:11:16.40,Default,,0,0,0,,{\pos(108,380)}{\fad(300,300)}Yamasaki's 2nd Dish
+Dialogue: 0,0:10:39.65,0:11:16.40,Default,,0,0,0,,{\pos(111,414)}{\fad(300,300)}Jelly-Beans Tempura
+Dialogue: 0,0:11:16.80,0:11:20.79,Medium,,0,0,0,,{\c&HB541D6&\3c&H3114A5&\4c&HB5B2EF&\pos(318,365)}Yamasaki's 2nd Dish: Jelly-Beans Tempura
+Dialogue: 0,0:11:21.03,0:11:25.52,Medium,,0,0,0,,{\fn@MS UI Gothic\b1\pos(321,374)}Tempura By Hamada
+Dialogue: 0,0:11:28.50,0:11:54.60,Default,,0,0,0,,{\pos(88,374)}Ingredient
+Dialogue: 0,0:11:28.50,0:11:54.60,Default,,0,0,0,,{\pos(96,411)}Dried Kelp Shaving
+Dialogue: 0,0:10:37.91,0:10:41.68,Yamasaki Green,,0,0,0,,Here we have yet another artsy dish
+Dialogue: 0,0:10:42.16,0:10:43.96,Tanaka Pink,,0,0,0,,It sure is colorful
+Dialogue: 0,0:10:44.08,0:10:45.06,Endo orange,,0,0,0,,Itadakimasu
+Dialogue: 0,0:10:45.06,0:10:46.05,Tanaka Pink,,0,0,0,,Itadakimasu
+Dialogue: 0,0:10:51.71,0:10:53.02,Hamada Blue,,0,0,0,,How sweet is this ?
+Dialogue: 0,0:10:58.66,0:11:00.13,Hamada Blue,,0,0,0,,Go home, asshole !
+Dialogue: 0,0:11:01.46,0:11:02.82,Endo orange,,0,0,0,,This is way too sweet
+Dialogue: 0,0:11:02.82,0:11:04.55,Yamasaki Green,,0,0,0,,Well...
+Dialogue: 0,0:11:04.55,0:11:05.65,Yamasaki Green,,0,0,0,,It's edible ??
+Dialogue: 0,0:11:06.23,0:11:07.96,Matsumoto red,,0,0,0,,The heat...
+Dialogue: 0,0:11:08.41,0:11:11.01,Matsumoto red,,0,0,0,,The heat really brought out the sugary taste
+Dialogue: 0,0:11:11.46,0:11:11.89,Yamasaki Green,,0,0,0,,I see
+Dialogue: 0,0:11:11.93,0:11:14.02,Matsumoto red,,0,0,0,,I mean, it doesn't help matters
+Dialogue: 0,0:11:14.02,0:11:16.74,Matsumoto red,,0,0,0,,that the Jelly-Beans are already so sweet
+Dialogue: 0,0:11:16.82,0:11:20.79,white Fujiwara,,0,0,0,,Criticized for being "too sweet," the dish received 2 points
+Dialogue: 0,0:11:21.02,0:11:23.00,white Fujiwara,,0,0,0,,Next up is Hamada
+Dialogue: 0,0:11:23.02,0:11:25.52,white Fujiwara,,0,0,0,,What are his choices for Tempura ?
+Dialogue: 0,0:11:25.58,0:11:26.81,Hamada Blue,,0,0,0,,Here's my first one
+Dialogue: 0,0:11:28.50,0:11:30.53,Yamasaki Green,,0,0,0,,Oh, haven't seen that in years
+Dialogue: 0,0:11:29.91,0:11:31.56,Endo orange,,0,0,0,,It's Fujikko's Jyuntoro
+Dialogue: 0,0:11:31.58,0:11:33.06,Matsumoto red,,0,0,0,,C'mon, you must have seen this recently
+Dialogue: 0,0:11:33.06,0:11:35.02,Hamada Blue,,0,0,0,,This is Tororo (Dried Kelp Shaving)
+Dialogue: 0,0:11:35.43,0:11:37.99,Hamada Blue,,0,0,0,,Each packet contains one serving so ...
+Dialogue: 0,0:11:38.35,0:11:40.12,Tanaka Pink,,0,0,0,,So you're frying that whole thing ?
+Dialogue: 0,0:11:40.12,0:11:43.01,Endo orange,,0,0,0,,I see you're frying one packet for each of us
+Dialogue: 0,0:11:44.40,0:11:46.84,Matsumoto red,,0,0,0,,You love the thick and gooey stuff
+Dialogue: 0,0:11:46.88,0:11:49.01,Hamada Blue,,0,0,0,,What do you mean by that ?
+Dialogue: 0,0:11:50.90,0:11:53.97,Matsumoto red,,0,0,0,,I've never seen anyone do that ?
+Dialogue: 0,0:11:53.97,0:11:55.49,Endo orange,,0,0,0,,It has more volume than I thought
+Dialogue: 0,0:11:55.49,0:11:56.62,Hamada Blue,,0,0,0,,Here's my second choice
+Dialogue: 0,0:11:57.55,0:12:16.30,Default,,0,0,0,,{\pos(133,340)}Ingredients
+Dialogue: 0,0:11:57.55,0:12:16.30,Default,,0,0,0,,{\pos(106,379)}Sliced Bread
+Dialogue: 0,0:11:57.55,0:12:16.30,Default,,0,0,0,,{\pos(99,412)}Corn Soup
+Dialogue: 0,0:11:58.14,0:12:01.46,Hamada Blue,,0,0,0,,So instead of using conventional tempura batter,
+Dialogue: 0,0:12:01.46,0:12:04.69,Hamada Blue,,0,0,0,,I'm going to use this corn soup
+Dialogue: 0,0:12:04.75,0:12:07.88,Hamada Blue,,0,0,0,,I'm soaking the bread in the soup before frying it
+Dialogue: 0,0:12:08.88,0:12:14.60,Default,,0,0,0,,{\pos(360,376)}*Use Corn Soup as battering
+Dialogue: 0,0:12:07.88,0:12:10.39,Matsumoto red,,0,0,0,,That's really an old-fart's way of thinking
+Dialogue: 0,0:12:11.99,0:12:16.02,white Fujiwara,,0,0,0,,How will corn soup turn out as the tempura batter ?
+Dialogue: 0,0:12:17.55,0:12:31.00,Default,,0,0,0,,{\pos(93,375)}{\fad(300,300)}Hamada's 1st Dish
+Dialogue: 0,0:12:17.55,0:12:31.00,Default,,0,0,0,,{\pos(102,414)}{\fad(300,300)}Dried Kelp Shaving
+Dialogue: 0,0:12:32.55,0:13:05.00,Default,,0,0,0,,{\pos(93,375)}{\fad(300,300)}Hamada's 2nd Dish
+Dialogue: 0,0:12:32.55,0:13:05.00,Default,,0,0,0,,{\pos(134,413)}{\fad(300,300)}Bread in Corn Soup Tempura
+Dialogue: 0,0:12:17.26,0:12:21.75,white Fujiwara,,0,0,0,,First step is to batter the dried kelp
+Dialogue: 0,0:12:22.20,0:12:24.47,Matsumoto red,,0,0,0,,Man, it looks like a cocoon
+Dialogue: 0,0:12:24.47,0:12:25.46,Yamasaki Green,,0,0,0,,You're right
+Dialogue: 0,0:12:26.80,0:12:28.02,Endo orange,,0,0,0,,I see
+Dialogue: 0,0:12:28.46,0:12:29.89,Endo orange,,0,0,0,,It doesn't want to sink
+Dialogue: 0,0:12:29.89,0:12:31.46,Yamasaki Green,,0,0,0,,You're right, it's floating
+Dialogue: 0,0:12:32.18,0:12:36.02,Hamada Blue,,0,0,0,,I have the soup ready in this pan
+Dialogue: 0,0:12:36.02,0:12:37.95,Hamada Blue,,0,0,0,,I'm going to coat the bread like so
+Dialogue: 0,0:12:37.95,0:12:39.52,Endo orange,,0,0,0,,I see you already have the soup ready in a pan
+Dialogue: 0,0:12:39.52,0:12:40.71,Hamada Blue,,0,0,0,,Yes
+Dialogue: 0,0:12:41.84,0:12:44.09,Endo orange,,0,0,0,,I've got a feeling that I'm going to like this
+Dialogue: 0,0:12:44.92,0:12:46.82,Endo orange,,0,0,0,,Corn soup is one of my favorites
+Dialogue: 0,0:12:46.84,0:12:48.04,Matsumoto red,,0,0,0,,What is this ?
+Dialogue: 0,0:12:48.76,0:12:49.90,Endo orange,,0,0,0,,I'm afraid this will be a hit
+Dialogue: 0,0:12:50.47,0:12:52.15,Matsumoto red,,0,0,0,,Very innovative if this works out well
+Dialogue: 0,0:12:52.78,0:12:54.45,Matsumoto red,,0,0,0,,No-frill frying
+Dialogue: 0,0:12:54.77,0:12:56.20,Matsumoto red,,0,0,0,,Dip your hand in !
+Dialogue: 0,0:12:57.13,0:12:58.87,Yamasaki Green,,0,0,0,,That was close
+Dialogue: 0,0:12:58.87,0:13:00.32,Matsumoto red,,0,0,0,,I almost had him, too
+Dialogue: 0,0:13:01.04,0:13:04.00,white Fujiwara,,0,0,0,,With such high expectations for Hamada's dish,
+Dialogue: 0,0:13:04.00,0:13:05.43,white Fujiwara,,0,0,0,,how will it taste ?
+Dialogue: 0,0:13:05.47,0:13:10.43,Medium,,0,0,0,,{\pos(314,385)}Hamada's 1st Dish: Dried Kelp Shaving Tempura
+Dialogue: 0,0:13:05.64,0:13:08.96,white Fujiwara,,0,0,0,,First is the Grated Yam Tempura
+Dialogue: 0,0:13:09.02,0:13:10.43,white Fujiwara,,0,0,0,,How does it taste ?
+Dialogue: 0,0:13:11.56,0:13:12.67,Endo orange,,0,0,0,,It looks good so far
+Dialogue: 0,0:13:12.35,0:14:02.80,Default,,0,0,0,,{\pos(93,375)}{\fad(300,300)}Hamada's 1st Dish
+Dialogue: 0,0:13:12.35,0:14:02.80,Default,,0,0,0,,{\pos(123,413)}{\fad(300,300)}Dried Kelp Shaving Tempura
+Dialogue: 0,0:13:13.05,0:13:14.40,Hamada Blue,,0,0,0,,How do you like this presentation ?
+Dialogue: 0,0:13:15.63,0:13:17.72,Matsumoto red,,0,0,0,,Well, it sort of resembles a toupee
+Dialogue: 0,0:13:18.37,0:13:19.68,Endo orange,,0,0,0,,Yes it does
+Dialogue: 0,0:13:21.15,0:13:22.43,Yamasaki Green,,0,0,0,,It has weight to it
+Dialogue: 0,0:13:22.43,0:13:24.26,Hamada Blue,,0,0,0,,It's fluffy
+Dialogue: 0,0:13:24.26,0:13:25.29,Tanaka Pink,,0,0,0,,Itadakimasu
+Dialogue: 0,0:13:28.97,0:13:29.99,Tanaka Pink,,0,0,0,,It's hot
+Dialogue: 0,0:13:35.27,0:13:36.57,Endo orange,,0,0,0,,I don't know what to say...
+Dialogue: 0,0:13:36.58,0:13:37.64,Hamada Blue,,0,0,0,,Hot !
+Dialogue: 0,0:13:37.64,0:13:39.01,Endo orange,,0,0,0,,I have to say...
+Dialogue: 0,0:13:40.07,0:13:41.76,Endo orange,,0,0,0,,this isn't that bad
+Dialogue: 0,0:13:43.45,0:13:49.16,Matsumoto red,,0,0,0,,If this was in smaller pieces, it could be a successful dish
+Dialogue: 0,0:13:49.40,0:13:52.18,Matsumoto red,,0,0,0,,Not like this one giant piece
+Dialogue: 0,0:13:52.22,0:13:53.16,Hamada Blue,,0,0,0,,You think so ?
+Dialogue: 0,0:13:53.33,0:13:55.02,Hamada Blue,,0,0,0,,The inside is still really dense and hard
+Dialogue: 0,0:13:55.04,0:13:56.41,Matsumoto red,,0,0,0,,Look at this
+Dialogue: 0,0:13:57.27,0:13:59.15,Matsumoto red,,0,0,0,,It looks like @#$%
+Dialogue: 0,0:14:01.02,0:14:02.56,Matsumoto red,,0,0,0,,Don't try to duck
+Dialogue: 0,0:14:03.10,0:14:07.40,Medium,,0,0,0,,{\c&HEF7929&\3c&H841408&\pos(310,371)\fs27}Hamada's 1st Dish: Dried Kelp Shaving Tempura
+Dialogue: 0,0:14:07.40,0:14:12.08,Medium,,0,0,0,,{\pos(323,381)}Hamada's 2nd Dish:\NBread in Corn Soup Tempura
+Dialogue: 0,0:14:03.23,0:14:07.33,white Fujiwara,,0,0,0,,The No-Holds-Barred grated yam receives 5 points
+Dialogue: 0,0:14:07.35,0:14:11.82,white Fujiwara,,0,0,0,,How will this creative corn soup batter idea do ?
+Dialogue: 0,0:14:12.16,0:14:14.31,Matsumoto red,,0,0,0,,This dish could just be...
+Dialogue: 0,0:14:12.65,0:15:41.86,Default,,0,0,0,,{\pos(93,375)}{\fad(300,300)}Hamada's 2nd Dish
+Dialogue: 0,0:14:12.65,0:15:41.86,Default,,0,0,0,,{\pos(134,413)}{\fad(300,300)}Bread in Corn Soup Tempura
+Dialogue: 0,0:14:15.43,0:14:17.44,Matsumoto red,,0,0,0,,a breakfast food ?
+Dialogue: 0,0:14:17.44,0:14:19.04,Yamasaki Green,,0,0,0,,Right, it could be
+Dialogue: 0,0:14:20.75,0:14:22.37,Endo orange,,0,0,0,,I'm getting a good vibe from this
+Dialogue: 0,0:14:22.37,0:14:23.69,Matsumoto red,,0,0,0,,I'm feeling this so far
+Dialogue: 0,0:14:23.69,0:14:25.05,Tanaka Pink,,0,0,0,,It smells awesome, too
+Dialogue: 0,0:14:25.05,0:14:27.07,Endo orange,,0,0,0,,Very good so far
+Dialogue: 0,0:14:27.07,0:14:28.73,Yamasaki Green,,0,0,0,,It does smell good
+Dialogue: 0,0:14:29.25,0:14:30.96,Hamada Blue,,0,0,0,,Really good
+Dialogue: 0,0:14:31.95,0:14:33.33,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:14:41.44,0:14:44.05,Matsumoto red,,0,0,0,,How about just 10 points for this, yeah ?
+Dialogue: 0,0:14:45.74,0:14:47.17,Hamada Blue,,0,0,0,,That was way too quick
+Dialogue: 0,0:14:47.17,0:14:48.86,Matsumoto red,,0,0,0,,Right, 10 points ?
+Dialogue: 0,0:14:49.38,0:14:50.90,Matsumoto red,,0,0,0,,This is way too delicious
+Dialogue: 0,0:14:50.93,0:14:53.27,Endo orange,,0,0,0,,This is awesome
+Dialogue: 0,0:14:53.33,0:14:56.79,Matsumoto red,,0,0,0,,How about starting a food-truck business with this ?
+Dialogue: 0,0:14:56.83,0:14:57.78,Hamada Blue,,0,0,0,,Sound good
+Dialogue: 0,0:14:57.80,0:15:00.02,Matsumoto red,,0,0,0,,Seriously, people on a lunch break would love this
+Dialogue: 0,0:15:00.08,0:15:01.73,Matsumoto red,,0,0,0,,I'm not kidding
+Dialogue: 0,0:15:01.89,0:15:03.49,Endo orange,,0,0,0,,I'm telling you this is superb
+Dialogue: 0,0:15:04.48,0:15:06.48,Hamada Blue,,0,0,0,,Put some salt on it
+Dialogue: 0,0:15:06.79,0:15:08.43,Endo orange,,0,0,0,,Yes, salt enhances the flavor
+Dialogue: 0,0:15:08.43,0:15:11.67,Matsumoto red,,0,0,0,,I would give it an "Angel" mark as the score
+Dialogue: 0,0:15:11.70,0:15:14.02,Yamasaki Green,,0,0,0,,I wouldn't disagree
+Dialogue: 0,0:15:14.06,0:15:16.68,Yamasaki Green,,0,0,0,,Shouldn't we consider marketing this ?
+Dialogue: 0,0:15:16.68,0:15:17.89,Matsumoto red,,0,0,0,,I bet we can
+Dialogue: 0,0:15:17.89,0:15:19.88,Tanaka Pink,,0,0,0,,As a "Gaki No Tsukai" product
+Dialogue: 0,0:15:20.00,0:15:22.22,Endo orange,,0,0,0,,Let's do this
+Dialogue: 0,0:15:22.22,0:15:26.11,Matsumoto red,,0,0,0,,I'm telling you right now, in about a month or so,
+Dialogue: 0,0:15:26.13,0:15:29.33,Matsumoto red,,0,0,0,,when you're out and about shooting some show,
+Dialogue: 0,0:15:29.33,0:15:31.31,Matsumoto red,,0,0,0,,you'll find Hamada selling this out of a food-truck
+Dialogue: 0,0:15:31.33,0:15:33.24,Yamasaki Green,,0,0,0,,{\fs23}You mean, Hamada-san will personally be running the business ?
+Dialogue: 0,0:15:33.26,0:15:34.50,Endo orange,,0,0,0,,He's running the business
+Dialogue: 0,0:15:35.64,0:15:38.68,Matsumoto red,,0,0,0,,Well, he ain't frugal for nothing
+Dialogue: 0,0:15:40.35,0:15:42.19,Yamasaki Green,,0,0,0,,Are you saying he's a cheapskate ?
+Dialogue: 0,0:15:42.43,0:15:46.40,Default,,0,0,0,,{\c&HEF7929&\3c&H841408&\fs29\pos(303,285)}Hamada's 2nd Dish:Bread in Corn Soup Tempura
+Dialogue: 0,0:15:46.68,0:15:51.13,Medium,,0,0,0,,{\pos(325,376)}Tempura by Matsumoto
+Dialogue: 0,0:15:42.67,0:15:46.42,white Fujiwara,,0,0,0,,Hamada's second recipe receives an unprecedented "Angel" mark
+Dialogue: 0,0:15:47.09,0:15:48.73,white Fujiwara,,0,0,0,,Last up is Matsumoto
+Dialogue: 0,0:15:49.06,0:15:51.09,white Fujiwara,,0,0,0,,What is his ultimate recipe ?
+Dialogue: 0,0:15:52.26,0:15:53.32,Matsumoto red,,0,0,0,,First up is this
+Dialogue: 0,0:15:54.21,0:15:55.39,Yamasaki Green,,0,0,0,,Pizza
+Dialogue: 0,0:15:55.30,0:16:12.55,Default,,0,0,0,,{\pos(89,380)}{\fad(300,300)}Ingredient
+Dialogue: 0,0:15:55.38,0:16:12.55,Default,,0,0,0,,{\fad(300,300)\pos(71,408)}Pizza
+Dialogue: 0,0:15:55.83,0:15:57.91,Matsumoto red,,0,0,0,,Why not fry this whole thing ?
+Dialogue: 0,0:15:57.91,0:15:59.05,Tanaka Pink,,0,0,0,,Fry the whole pie ?
+Dialogue: 0,0:15:59.05,0:16:03.46,Matsumoto red,,0,0,0,,May I say this is "An Assassin from Napoli, Italy" ?
+Dialogue: 0,0:16:03.50,0:16:04.52,Hamada Blue,,0,0,0,,Duly noted
+Dialogue: 0,0:16:05.21,0:16:08.94,Matsumoto red,,0,0,0,,Well, I wasn't expecting any response other than that
+Dialogue: 0,0:16:08.94,0:16:11.30,Matsumoto red,,0,0,0,,I would have done the same
+Dialogue: 0,0:16:11.30,0:16:13.07,Matsumoto red,,0,0,0,,Forget "An Assassin from Napoli"
+Dialogue: 0,0:16:13.69,0:16:14.59,Matsumoto red,,0,0,0,,And !
+Dialogue: 0,0:16:14.59,0:16:17.28,Matsumoto red,,0,0,0,,I'm fully aware of the risk, but...
+Dialogue: 0,0:16:18.21,0:16:19.73,Endo orange,,0,0,0,,What ?
+Dialogue: 0,0:16:19.30,0:16:29.50,Default,,0,0,0,,{\pos(80,377)}{\fad(300,300)}Ingredient
+Dialogue: 0,0:16:19.30,0:16:29.50,Default,,0,0,0,,{\fad(300,300)\pos(134,410)}Gari Gari Kun Popsicle
+Dialogue: 0,0:16:19.73,0:16:21.37,Matsumoto red,,0,0,0,,Gari Gari kun (a Popsicle)
+Dialogue: 0,0:16:24.25,0:16:25.56,Hamada Blue,,0,0,0,,Well...
+Dialogue: 0,0:16:25.60,0:16:27.26,Hamada Blue,,0,0,0,,I could see fried ice cream but...
+Dialogue: 0,0:16:27.32,0:16:29.23,Matsumoto red,,0,0,0,,I know, this is more like a Popsicle
+Dialogue: 0,0:16:30.13,0:16:43.65,Default,,0,0,0,,{\pos(103,377)}{\fad(300,300)}Matsumoto's 1st Dish
+Dialogue: 0,0:16:30.13,0:16:43.65,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Pizza Tempura
+Dialogue: 0,0:16:30.13,0:16:32.90,white Fujiwara,,0,0,0,,His first ingredient, pizza,
+Dialogue: 0,0:16:32.98,0:16:35.19,white Fujiwara,,0,0,0,,requires covering the whole pie in batter
+Dialogue: 0,0:16:38.15,0:16:40.74,Matsumoto red,,0,0,0,,I need to accept more challenges in life
+Dialogue: 0,0:16:41.49,0:16:43.19,Hamada Blue,,0,0,0,,Looks like a giant rice cracker
+Dialogue: 0,0:16:44.90,0:17:08.10,Default,,0,0,0,,{\pos(90,374)}{\fad(300,300)}Matsumoto's 2nd Dish
+Dialogue: 0,0:16:44.90,0:17:08.10,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Gari Gari kun Tempura
+Dialogue: 0,0:16:44.99,0:16:47.39,white Fujiwara,,0,0,0,,Second is the Gari Gari kun ice pop
+Dialogue: 0,0:16:48.07,0:16:50.34,Hamada Blue,,0,0,0,,I don't know what to say...
+Dialogue: 0,0:16:51.25,0:16:54.41,Matsumoto red,,0,0,0,,{\fs23}Since I saw that your sweet-themed ingredients didn't do well
+Dialogue: 0,0:16:54.41,0:16:57.29,Matsumoto red,,0,0,0,,Like the Frisk and Jelly-Beans
+Dialogue: 0,0:16:59.96,0:17:01.65,Hamada Blue,,0,0,0,,Wouldn't this just melt ?
+Dialogue: 0,0:17:01.65,0:17:03.27,white Fujiwara,,0,0,0,,Yes, it does
+Dialogue: 0,0:17:03.27,0:17:05.04,Matsumoto red,,0,0,0,,I thought so
+Dialogue: 0,0:17:06.75,0:17:08.58,Matsumoto red,,0,0,0,,You need to fry this with care
+Dialogue: 0,0:17:08.58,0:17:09.45,Matsumoto red,,0,0,0,,Well then !
+Dialogue: 0,0:17:09.53,0:17:12.67,Matsumoto red,,0,0,0,,Before we get to try these dishes
+Dialogue: 0,0:17:12.67,0:17:14.00,Matsumoto red,,0,0,0,,And like I've always done in the past...
+Dialogue: 0,0:17:14.02,0:17:14.67,Hamada Blue,,0,0,0,,Again ?
+Dialogue: 0,0:17:14.67,0:17:16.55,Matsumoto red,,0,0,0,,I have one more ingredient
+Dialogue: 0,0:17:17.41,0:17:18.47,Matsumoto red,,0,0,0,,Here it is
+Dialogue: 0,0:17:18.51,0:17:19.40,Yamasaki Green,,0,0,0,,What the hell is this ?
+Dialogue: 0,0:17:19.88,0:17:20.76,Matsumoto red,,0,0,0,,Bee Larvae
+Dialogue: 0,0:17:21.15,0:17:42.05,Default,,0,0,0,,{\pos(80,377)}{\fad(300,300)}Ingredient
+Dialogue: 0,0:17:21.15,0:17:42.05,Default,,0,0,0,,{\fad(300,300)\pos(76,413)}Bee Hive
+Dialogue: 0,0:17:43.55,0:17:50.20,Default,,0,0,0,,{\pos(114,379)}{\fad(300,300)}Matsumoto's 3rd Dish
+Dialogue: 0,0:17:43.55,0:17:50.20,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Bee Hive Tempura
+Dialogue: 0,0:17:50.63,0:17:55.59,Medium,,0,0,0,,{\pos(292,381)}Matsumoto's 1st Dish: Pizza Tempura
+Dialogue: 0,0:17:22.36,0:17:23.83,Matsumoto red,,0,0,0,,They're in a honeycomb
+Dialogue: 0,0:17:24.01,0:17:25.33,Hamada Blue,,0,0,0,,I see they're all in there
+Dialogue: 0,0:17:25.33,0:17:26.68,Endo orange,,0,0,0,,They're in the Larvae stage
+Dialogue: 0,0:17:27.08,0:17:29.24,Matsumoto red,,0,0,0,,I thought I'd fry this up
+Dialogue: 0,0:17:29.57,0:17:31.27,Endo orange,,0,0,0,,This is an expensive ingredient, isn't it ?
+Dialogue: 0,0:17:31.27,0:17:32.45,Yamasaki Green,,0,0,0,,I believe so
+Dialogue: 0,0:17:32.45,0:17:34.03,Matsumoto red,,0,0,0,,Let me say this will be the world premier
+Dialogue: 0,0:17:34.03,0:17:35.76,Matsumoto red,,0,0,0,,of a residence getting fried
+Dialogue: 0,0:17:36.93,0:17:37.68,Endo orange,,0,0,0,,You're right
+Dialogue: 0,0:17:37.73,0:17:39.67,Tanaka Pink,,0,0,0,,I suppose the honeycomb is their residence
+Dialogue: 0,0:17:39.71,0:17:42.01,Matsumoto red,,0,0,0,,Right, their house will be fried
+Dialogue: 0,0:17:43.05,0:17:45.06,white Fujiwara,,0,0,0,,After covering it in batter,
+Dialogue: 0,0:17:45.06,0:17:47.48,white Fujiwara,,0,0,0,,the chef fries the whole honeycomb
+Dialogue: 0,0:17:47.62,0:17:50.59,white Fujiwara,,0,0,0,,They're about to enter unchartered flavor territory
+Dialogue: 0,0:17:51.08,0:17:53.90,white Fujiwara,,0,0,0,,Here's Matsumoto's Pizza Tempura
+Dialogue: 0,0:17:53.97,0:17:55.71,white Fujiwara,,0,0,0,,How is it ?
+Dialogue: 0,0:17:55.71,0:17:57.70,Matsumoto red,,0,0,0,,It looks delicious
+Dialogue: 0,0:17:58.10,0:19:11.30,Default,,0,0,0,,{\pos(125,377)}{\fad(300,300)}Matsumoto's 1st Dish
+Dialogue: 0,0:17:58.10,0:19:11.30,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Pizza Tempura
+Dialogue: 0,0:17:58.69,0:18:00.08,Yamasaki Green,,0,0,0,,I've seen this kind of dish before
+Dialogue: 0,0:18:00.08,0:18:03.17,Matsumoto red,,0,0,0,,Can I say that an Italian would never think to do this ?
+Dialogue: 0,0:18:03.40,0:18:05.79,Matsumoto red,,0,0,0,,Let me just slice right into it
+Dialogue: 0,0:18:05.79,0:18:08.84,Matsumoto red,,0,0,0,,I don't know what to call this tool though
+Dialogue: 0,0:18:08.84,0:18:10.29,Matsumoto red,,0,0,0,,It really does look good
+Dialogue: 0,0:18:10.29,0:18:11.93,Hamada Blue,,0,0,0,,I'm into the crunchy sound
+Dialogue: 0,0:18:11.93,0:18:15.78,Matsumoto red,,0,0,0,,The pizza got crunchier from being fried
+Dialogue: 0,0:18:15.78,0:18:17.14,Matsumoto red,,0,0,0,,It's been crunched !
+Dialogue: 0,0:18:17.14,0:18:19.25,Matsumoto red,,0,0,0,,It's the crunchiest !!
+Dialogue: 0,0:18:20.60,0:18:22.99,Matsumoto red,,0,0,0,,I'd call this the "Anarchy in Crunch"
+Dialogue: 0,0:18:22.99,0:18:26.54,Matsumoto red,,0,0,0,,And don't forget "The Assassin from Napoli"
+Dialogue: 0,0:18:27.49,0:18:30.01,Matsumoto red,,0,0,0,,"Ah here comes the Assassin from Napoli"
+Dialogue: 0,0:18:30.01,0:18:33.19,Matsumoto red,,0,0,0,,That's what comedian Hikomaro would say about this
+Dialogue: 0,0:18:35.70,0:18:36.29,Endo orange,,0,0,0,,Itadakimasu
+Dialogue: 0,0:18:36.29,0:18:37.48,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:18:38.32,0:18:39.78,Endo orange,,0,0,0,,The crumbs are looking...
+Dialogue: 0,0:18:42.11,0:18:43.58,Yamasaki Green,,0,0,0,,Delicious !
+Dialogue: 0,0:18:46.26,0:18:47.13,Endo orange,,0,0,0,,Good
+Dialogue: 0,0:18:47.13,0:18:48.68,Yamasaki Green,,0,0,0,,This is fantastic
+Dialogue: 0,0:18:49.14,0:18:50.61,Matsumoto red,,0,0,0,,But this was...
+Dialogue: 0,0:18:51.33,0:18:53.77,Matsumoto red,,0,0,0,,I was expecting this to be good...
+Dialogue: 0,0:18:53.77,0:18:55.22,Matsumoto red,,0,0,0,,Don't get me wrong, this is great but
+Dialogue: 0,0:18:55.22,0:18:59.55,Matsumoto red,,0,0,0,,it was almost a given that fried pizza would be good
+Dialogue: 0,0:18:59.60,0:19:04.29,Yamasaki Green,,0,0,0,,Well, I've always thought pizza needed more crunch
+Dialogue: 0,0:19:04.36,0:19:06.29,Hamada Blue,,0,0,0,,Now, you're just bullshitting
+Dialogue: 0,0:19:07.49,0:19:09.72,Matsumoto red,,0,0,0,,You're being "teacher's pet"
+Dialogue: 0,0:19:09.72,0:19:11.27,Yamasaki Green,,0,0,0,,I'm serious though
+Dialogue: 0,0:19:11.79,0:19:16.00,Default,,0,0,0,,{\fs30\c&H6334EF&\3c&H1028AD&\pos(312,363)}Matsumoto's 1st Dish: Pizza Tempura
+Dialogue: 0,0:19:16.00,0:19:20.77,Medium,,0,0,0,,{\pos(321,371)}Matsumoto's 2nd Dish: Gari Gari kun Tempura
+Dialogue: 0,0:19:12.58,0:19:16.18,white Fujiwara,,0,0,0,,The crunchiness of pizza helps score a perfect 10
+Dialogue: 0,0:19:16.18,0:19:19.35,white Fujiwara,,0,0,0,,Matsumoto's second ingredient is the Popsicle
+Dialogue: 0,0:19:19.35,0:19:20.50,white Fujiwara,,0,0,0,,How does it taste ?
+Dialogue: 0,0:19:20.79,0:19:22.72,Matsumoto red,,0,0,0,,I believe this is a home-run
+Dialogue: 0,0:19:22.72,0:19:23.58,Hamada Blue,,0,0,0,,I don't know...
+Dialogue: 0,0:19:24.78,0:20:05.30,Default,,0,0,0,,{\pos(100,377)}{\fad(300,300)}Matsumoto's 2nd Dish
+Dialogue: 0,0:19:24.78,0:20:05.30,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Gari Gari kun Tempura
+Dialogue: 0,0:19:23.58,0:19:25.68,Endo orange,,0,0,0,,It's a result of thinking "outside of box"
+Dialogue: 0,0:19:25.68,0:19:28.00,Hamada Blue,,0,0,0,,As I said before, frying ice cream makes sense but...
+Dialogue: 0,0:19:28.04,0:19:30.71,Matsumoto red,,0,0,0,,Remember there's no loser here
+Dialogue: 0,0:19:30.71,0:19:31.71,Hamada Blue,,0,0,0,,That's cool
+Dialogue: 0,0:19:33.03,0:19:36.42,Matsumoto red,,0,0,0,,I recommend this as a dessert
+Dialogue: 0,0:19:36.42,0:19:37.99,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:19:41.48,0:19:42.74,Endo orange,,0,0,0,,What is this ?
+Dialogue: 0,0:19:42.74,0:19:43.65,Matsumoto red,,0,0,0,,This isn't so bad ?
+Dialogue: 0,0:19:43.65,0:19:44.55,Hamada Blue,,0,0,0,,No
+Dialogue: 0,0:19:44.55,0:19:48.90,Hamada Blue,,0,0,0,,Well, the ice Popsicle is OK but...
+Dialogue: 0,0:19:48.90,0:19:51.18,Yamasaki Green,,0,0,0,,This one definitely missed the target
+Dialogue: 0,0:19:51.18,0:19:52.30,Matsumoto red,,0,0,0,,No, listen
+Dialogue: 0,0:19:53.73,0:19:55.42,Tanaka Pink,,0,0,0,,We can't be fooled with this
+Dialogue: 0,0:19:55.93,0:19:56.96,Matsumoto red,,0,0,0,,Listen
+Dialogue: 0,0:19:57.92,0:20:00.53,Matsumoto red,,0,0,0,,This is OK once I take off the breading
+Dialogue: 0,0:20:00.14,0:20:00.76,Hamada Blue,,0,0,0,,Huh ?
+Dialogue: 0,0:20:01.70,0:20:04.18,Endo orange,,0,0,0,,Then you're just eating the "Gari Gari kun"
+Dialogue: 0,0:20:05.78,0:20:10.01,Default,,0,0,0,,{\fs30\c&H6334EF&\3c&H1028AD&\pos(312,363)}Matsumoto's 2nd Dish: Gari Gari kun Tempura
+Dialogue: 0,0:20:10.01,0:20:15.78,Medium,,0,0,0,,{\pos(317,376)}Matsumoto's 3rd Dish: Bee Hive Tempura
+Dialogue: 0,0:20:06.27,0:20:09.88,white Fujiwara,,0,0,0,,Gari Gari kun is better left alone and receives one point
+Dialogue: 0,0:20:09.88,0:20:13.48,white Fujiwara,,0,0,0,,The last item is fried honeycomb
+Dialogue: 0,0:20:13.58,0:20:15.38,white Fujiwara,,0,0,0,,How does it taste ?
+Dialogue: 0,0:20:16.48,0:20:53.40,Default,,0,0,0,,{\pos(114,379)}{\fad(300,300)}Matsumoto's 3rd Dish
+Dialogue: 0,0:20:16.48,0:20:53.40,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Honeycomb Tempura
+Dialogue: 0,0:20:15.81,0:20:19.23,Matsumoto red,,0,0,0,,Bon Appétit
+Dialogue: 0,0:20:19.23,0:20:20.40,Endo orange,,0,0,0,,Here it is
+Dialogue: 0,0:20:20.40,0:20:21.64,Matsumoto red,,0,0,0,,See ?
+Dialogue: 0,0:20:21.64,0:20:24.48,Matsumoto red,,0,0,0,,What do you think of this...
+Dialogue: 0,0:20:24.48,0:20:25.89,Matsumoto red,,0,0,0,,Is it a dish for royalty ?
+Dialogue: 0,0:20:27.79,0:20:29.15,Hamada Blue,,0,0,0,,You're slicing that, too ?
+Dialogue: 0,0:20:29.61,0:20:31.86,Hamada Blue,,0,0,0,,I really don't want this
+Dialogue: 0,0:20:31.86,0:20:34.47,Matsumoto red,,0,0,0,,This looks like {\alpha&HFF&}Buddha's head
+Dialogue: 0,0:20:34.47,0:20:36.55,Matsumoto red,,0,0,0,,This looks like Buddha's head
+Dialogue: 0,0:20:36.55,0:20:38.28,Hamada Blue,,0,0,0,,You're right
+Dialogue: 0,0:20:38.28,0:20:39.69,Hamada Blue,,0,0,0,,Is that soft ?
+Dialogue: 0,0:20:39.69,0:20:41.77,Endo orange,,0,0,0,,You saw something ?
+Dialogue: 0,0:20:41.77,0:20:44.00,Tanaka Pink,,0,0,0,,Incredible
+Dialogue: 0,0:20:45.37,0:20:46.77,Matsumoto red,,0,0,0,,What's wrong with you guys ?
+Dialogue: 0,0:20:46.77,0:20:48.44,Matsumoto red,,0,0,0,,This is so edible
+Dialogue: 0,0:20:48.44,0:20:50.07,Hamada Blue,,0,0,0,,I can't do it
+Dialogue: 0,0:20:50.07,0:20:53.72,Matsumoto red,,0,0,0,,Rumor has it that once you try bee larvae, you'll be hooked
+Dialogue: 0,0:20:53.72,0:20:56.81,Matsumoto red,,0,0,0,,I heard they're sweet beyond belief
+Dialogue: 0,0:20:57.80,0:23:15.75,Default,,0,0,0,,{\pos(114,379)}{\fad(300,300)}Matsumoto's 3rd Dish
+Dialogue: 0,0:20:57.80,0:23:15.75,Default,,0,0,0,,{\pos(105,413)}{\fad(300,300)}Honeycomb Tempura
+Dialogue: 0,0:20:57.43,0:21:00.42,Matsumoto red,,0,0,0,,Let's do rock-paper-scissors, and the loser eats it
+Dialogue: 0,0:21:00.42,0:21:03.19,Hamada Blue,,0,0,0,,Why do we have to eat this ?
+Dialogue: 0,0:21:04.61,0:21:06.32,Tanaka Pink,,0,0,0,,I don't wanna lose this one
+Dialogue: 0,0:21:10.84,0:21:12.14,Endo orange,,0,0,0,,I'm spared !
+Dialogue: 0,0:21:21.68,0:21:25.37,Endo orange,,0,0,0,,{\fs23} Hamada-san, I always knew that you had the balls to try this
+Dialogue: 0,0:21:25.41,0:21:26.39,Hamada Blue,,0,0,0,,Wait a minute
+Dialogue: 0,0:21:26.55,0:21:27.95,Matsumoto red,,0,0,0,,This piece should do
+Dialogue: 0,0:21:28.28,0:21:30.84,Hamada Blue,,0,0,0,,That is one terrifying looking food
+Dialogue: 0,0:21:32.16,0:21:34.43,Endo orange,,0,0,0,,Help me hold him down
+Dialogue: 0,0:21:35.58,0:21:36.99,Yamasaki Green,,0,0,0,,Eat one like this ?
+Dialogue: 0,0:21:37.92,0:21:39.48,Yamasaki Green,,0,0,0,,Good luck
+Dialogue: 0,0:21:41.26,0:21:43.10,Matsumoto red,,0,0,0,,That's a cute little mouth
+Dialogue: 0,0:21:47.17,0:21:48.75,Matsumoto red,,0,0,0,,Open your mouth, Damn it !
+Dialogue: 0,0:21:51.17,0:21:53.04,Endo orange,,0,0,0,,Hamada Sensei, please
+Dialogue: 0,0:21:53.35,0:21:54.98,Hamada Blue,,0,0,0,,I seriously don't wanna do this !
+Dialogue: 0,0:21:54.98,0:21:56.74,Matsumoto red,,0,0,0,,Why do you gotta be like @#%$ ?!
+Dialogue: 0,0:21:58.04,0:21:58.99,Matsumoto red,,0,0,0,,Bite into it like a man
+Dialogue: 0,0:22:00.47,0:22:02.59,Endo orange,,0,0,0,,Open wide
+Dialogue: 0,0:22:07.21,0:22:09.25,Endo orange,,0,0,0,,Try it, try it
+Dialogue: 0,0:22:15.82,0:22:18.57,Endo orange,,0,0,0,,Anybody want to try this ?
+Dialogue: 0,0:22:18.57,0:22:19.82,Yamasaki Green,,0,0,0,,Anyone ?
+Dialogue: 0,0:22:19.89,0:22:26.96,Matsumoto red,,0,0,0,,Well, nobody seems to be really interested...
+Dialogue: 0,0:22:27.85,0:22:29.56,Matsumoto red,,0,0,0,,"Wait, wait for me !"
+Dialogue: 0,0:22:29.56,0:22:30.61,Tanaka Pink,,0,0,0,,That voice !
+Dialogue: 0,0:22:30.61,0:22:32.54,Tanaka Pink,,0,0,0,,That's a really familiar voice !
+Dialogue: 0,0:22:33.60,0:22:37.20,Medium,,0,0,0,,{\3c&HDE4939&\pos(367,404)}{\fad(100,100)}Heipo
+Dialogue: 0,0:22:34.90,0:22:36.53,Endo orange,,0,0,0,,Could that be... ?
+Dialogue: 0,0:22:36.53,0:22:37.84,Tanaka Pink,,0,0,0,,That's Heipo-san
+Dialogue: 0,0:22:38.18,0:22:40.10,Hamada Blue,,0,0,0,,Don't be upset, Heipo !
+Dialogue: 0,0:22:41.54,0:22:43.21,Hamada Blue,,0,0,0,,We didn't forget about you !
+Dialogue: 0,0:22:44.15,0:22:45.79,Yamasaki Green,,0,0,0,,You didn't need to shout out like that
+Dialogue: 0,0:22:45.79,0:22:47.90,Heipo Baby Blue,,0,0,0,,Oh boy, that's really...
+Dialogue: 0,0:22:47.90,0:22:48.97,Heipo Baby Blue,,0,0,0,,a larvae...
+Dialogue: 0,0:22:50.88,0:22:52.89,Endo orange,,0,0,0,,Yep, we've got Heipo-san here
+Dialogue: 0,0:22:53.80,0:22:55.00,Heipo Baby Blue,,0,0,0,,Itadakimasu
+Dialogue: 0,0:22:55.97,0:22:58.01,Matsumoto red,,0,0,0,,Don't spit it out
+Dialogue: 0,0:22:59.69,0:23:00.87,Heipo Baby Blue,,0,0,0,,Give me a sec
+Dialogue: 0,0:23:00.87,0:23:02.11,Matsumoto red,,0,0,0,,Who are you talking to ?
+Dialogue: 0,0:23:02.11,0:23:03.61,Yamasaki Green,,0,0,0,,What's going on ?
+Dialogue: 0,0:23:04.79,0:23:06.09,Tanaka Pink,,0,0,0,,What's he doing ?
+Dialogue: 0,0:23:06.09,0:23:07.22,Yamasaki Green,,0,0,0,,What's with him ?
+Dialogue: 0,0:23:07.88,0:23:09.14,Yamasaki Green,,0,0,0,,He's molting !
+Dialogue: 0,0:23:11.55,0:23:13.54,Matsumoto red,,0,0,0,,Stop Lion Dancing !
+Dialogue: 0,0:23:16.18,0:23:18.13,Endo orange,,0,0,0,,Why don't you just try a single one ?
+Dialogue: 0,0:23:18.50,0:23:19.62,Heipo Baby Blue,,0,0,0,,OK, I'll just eat one
+Dialogue: 0,0:23:20.80,0:23:22.78,Endo orange,,0,0,0,,Make sure you taste it
+Dialogue: 0,0:23:24.02,0:23:25.29,Heipo Baby Blue,,0,0,0,,Delicious !!
+Dialogue: 0,0:23:26.43,0:23:28.48,Heipo Baby Blue,,0,0,0,,Tasty !
+Dialogue: 0,0:23:28.48,0:23:30.80,Heipo Baby Blue,,0,0,0,,I'm not kidding, it's really good !
+Dialogue: 0,0:23:30.80,0:23:34.15,Heipo Baby Blue,,0,0,0,,This is awesome !
+Dialogue: 0,0:23:34.15,0:23:35.39,Endo orange,,0,0,0,,You're kidding
+Dialogue: 0,0:23:35.39,0:23:36.58,Heipo Baby Blue,,0,0,0,,You should try this, it's really good
+Dialogue: 0,0:23:37.55,0:23:40.46,Matsumoto red,,0,0,0,,Did you just reboot your brain or something ?
+Dialogue: 0,0:23:40.61,0:23:42.37,Heipo Baby Blue,,0,0,0,,Wow, this is really good !
+

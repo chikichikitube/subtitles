@@ -1,0 +1,827 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../Wednesday Downtown/2021.09.08-Wednesday Downtown [HARDSUB].mp4
+Video File: ../Wednesday Downtown/2021.09.08-Wednesday Downtown [HARDSUB].mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 315
+Active Line: 344
+Video Position: 35095
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,42,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,45,&H00000000,&H00C9C9D0,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_2,Arial,40,&H00FFFFFF,&H000000FF,&H000F80D8,&H00000000,0,0,0,0,100,135,0,0,1,1.5,0,2,10,10,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000019FF,&H5A353535,&H00000000,0,0,0,0,133.333,135,0,0,1,3,1,8,13,13,10,1
+Style: normal_Wed,Arial,53,&H00FFEC3E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,0,2,10,10,0,1
+Style: Lyrics - 复制,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,-1,0,0,100,120,0,0,1,3,1.5,7,10,200,135,1
+Style: special_Wed_3_3,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,80,0,0,1,1.5,2,2,10,10,10,1
+Style: wipe_Wed_old,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,970,10,250,1
+Style: special_Wed_1_3,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.95,0:00:04.00,normal_Wed,,0,0,0,,It's gonna be like this
+Dialogue: 0,0:00:04.00,0:00:07.31,normal_Wed,,0,0,0,,Really?  \N-Yeah it's just like before
+Dialogue: 0,0:00:07.31,0:00:08.49,normal_Wed,,0,0,0,,Still gotta do things like this
+Dialogue: 0,0:00:08.49,0:00:10.67,normal_Wed,,0,0,0,,The person coming today is the same as before, right?
+Dialogue: 0,0:00:10.67,0:00:12.29,normal_Wed,,0,0,0,,Probably
+Dialogue: 0,0:00:12.29,0:00:14.43,normal_Wed,,0,0,0,,The guy from Osaka
+Dialogue: 0,0:00:14.43,0:00:17.53,normal_Wed,,0,0,0,,Then let's get him out, please
+Dialogue: 0,0:00:20.52,0:00:23.92,normal_Wed,,0,0,0,,It's this one
+Dialogue: 0,0:00:23.92,0:00:25.88,normal_Wed,,0,0,0,,This one is more trouble
+Dialogue: 0,0:00:25.88,0:00:29.25,normal_Wed,,0,0,0,,Why do you talk as if you don't want to see me
+Dialogue: 0,0:00:29.25,0:00:30.50,normal_Wed,,0,0,0,,It's a 2m 4cm one
+Dialogue: 0,0:00:30.50,0:00:33.47,normal_Wed,,0,0,0,,No, I'm 188
+Dialogue: 0,0:00:33.47,0:00:36.10,normal_Wed,,0,0,0,,That's pretty tall!
+Dialogue: 0,0:00:36.10,0:00:37.28,normal_Wed,,0,0,0,,Well, there's no time to lose
+Dialogue: 0,0:00:37.28,0:00:40.59,normal_Wed,,0,0,0,,Today the theories are all the same theme
+Dialogue: 0,0:00:40.59,0:00:44.07,normal_Wed,,0,0,0,,There is a theme that unexpectedly comes up a lot, what do you think it is?
+Dialogue: 0,0:00:44.07,0:00:45.70,normal_Wed,,0,0,0,,There are a variety of topics
+Dialogue: 0,0:00:45.70,0:00:46.88,normal_Wed,,0,0,0,,Eating contest?
+Dialogue: 0,0:00:46.88,0:00:48.97,normal_Wed,,0,0,0,,There are quite a lot of eating contests  \N-Indeed
+Dialogue: 0,0:00:48.97,0:00:52.29,normal_Wed,,0,0,0,,It's actually music
+Dialogue: 0,0:00:52.29,0:00:58.17,normal_Wed,,0,0,0,,So, we have selected some and formed this project today, which is this:
+Dialogue: 0,0:00:58.17,0:01:00.84,normal_Wed,,0,0,0,,Music Theory Day
+Dialogue: 0,0:01:02.31,0:01:05.68,normal_Wed,,0,0,0,,We are taking inspiration from TBS' music special "Music Day"
+Dialogue: 0,0:01:05.68,0:01:09.86,normal_Wed,,0,0,0,,So, we bring you an episode full of musical theories
+Dialogue: 0,0:01:09.86,0:01:14.19,normal_Wed,,0,0,0,,First of all, do you remember this project? Please take a look
+Dialogue: 0,0:01:14.19,0:01:19.22,normal_Wed,,0,0,0,,It is possible to create feel-good lyrics just by using the names of comedians
+Dialogue: 0,0:01:20.03,0:01:24.24,normal_Wed,,0,0,0,,This is an old one, ages ago, right?  \N-I don't remember it at all
+Dialogue: 0,0:01:24.24,0:01:27.82,normal_Wed,,0,0,0,,Hey, do you remember? Did we do this?
+Dialogue: 0,0:01:27.82,0:01:30.94,normal_Wed,,0,0,0,,You probably forgot since you've seen so much since then
+Dialogue: 0,0:01:30.94,0:01:33.61,normal_Wed,,0,0,0,,This was on 100 Seconds Doctor Academy
+Dialogue: 0,0:01:33.61,0:01:36.24,normal_Wed,,0,0,0,,No, no, no, no. How is that possible?
+Dialogue: 0,0:01:36.24,0:01:38.25,normal_Wed,,0,0,0,,It's a theory
+Dialogue: 0,0:01:30.94,0:01:38.25,note_Wed,,0,0,0,,{\blur4}※Dr. 100 Seconds Academy is a former Downtown show
+Dialogue: 0,0:01:39.01,0:01:40.41,normal_Wed,,0,0,0,,It was 6 years ago
+Dialogue: 0,0:01:40.41,0:01:42.04,normal_Wed,,0,0,0,,How could anyone remember that?
+Dialogue: 0,0:01:42.04,0:01:44.12,normal_Wed,,0,0,0,,Music arrangements with only the names of comedians
+Dialogue: 0,0:01:44.12,0:01:46.15,normal_Wed,,0,0,0,,An attempt to form a song with a good feeling
+Dialogue: 0,0:01:46.15,0:01:47.52,normal_Wed,,0,0,0,,That was the theory
+Dialogue: 0,0:01:47.52,0:01:52.52,normal_Wed,,0,0,0,,This time we replaced the second verse of a song with the name of comedians
+Dialogue: 0,0:01:52.52,0:01:57.03,normal_Wed,,0,0,0,,After the original first verse, the changed second verse comes up
+Dialogue: 0,0:01:57.03,0:01:58.81,normal_Wed,,0,0,0,,After listening I may remember
+Dialogue: 0,0:02:02.66,0:02:04.16,wipe_Wed,,0,0,0,,6 years ago
+Dialogue: 0,0:02:05.57,0:02:08.34,wipe_Wed,,0,0,0,,Bearworm
+Dialogue: 0,0:02:08.34,0:02:12.68,normal_Wed,,0,0,0,,New York Skyscrapers
+Dialogue: 0,0:02:12.68,0:02:16.05,normal_Wed,,0,0,0,,A shooting star is a messenger
+Dialogue: 0,0:02:15.18,0:02:17.68,wipe_Wed,,0,0,0,,Like this? We did this?
+Dialogue: 0,0:02:16.05,0:02:25.46,normal_Wed,,0,0,0,,Always from here falling in love
+Dialogue: 0,0:02:22.62,0:02:24.86,wipe_Wed,,0,0,0,,Maybe I was off during this period
+Dialogue: 0,0:02:25.46,0:02:29.63,normal_Wed,,0,0,0,,My home in Downtown
+Dialogue: 0,0:02:29.63,0:02:31.80,normal_Wed,,0,0,0,,Dangerous nights
+Dialogue: 0,0:02:29.63,0:02:31.80,note_Wed,,0,0,0,,{\blur4}※Knights written as "nights"
+Dialogue: 0,0:02:31.80,0:02:34.23,normal_Wed,,0,0,0,,Unstable nights
+Dialogue: 0,0:02:34.23,0:02:36.40,normal_Wed,,0,0,0,,If you have the chance to come a second time
+Dialogue: 0,0:02:36.40,0:02:42.97,normal_Wed,,0,0,0,,Hi-Hi you're such an idiot!
+Dialogue: 0,0:02:42.97,0:02:47.35,normal_Wed,,0,0,0,,The real kids are already a middle school student now
+Dialogue: 0,0:02:42.97,0:02:47.35,note_Wed,,0,0,0,,{\blur4}※Real Kids member Yuuki resigned from Yoshimoto in 2014 due to his debt crisis
+Dialogue: 0,0:02:47.35,0:02:53.99,normal_Wed,,0,0,0,,Goodbye light of youth
+Dialogue: 0,0:02:51.09,0:02:53.99,wipe_Wed,,0,0,0,,There are so many different people!
+Dialogue: 0,0:02:53.99,0:02:58.16,normal_Wed,,0,0,0,,Gorgeous high heels
+Dialogue: 0,0:02:58.16,0:03:02.46,normal_Wed,,0,0,0,,Comfortable asian silk
+Dialogue: 0,0:03:02.46,0:03:04.50,normal_Wed,,0,0,0,,Wagyu's cola cake
+Dialogue: 0,0:03:04.50,0:03:06.23,normal_Wed,,0,0,0,,Replicas of the giants
+Dialogue: 0,0:03:06.23,0:03:14.01,normal_Wed,,0,0,0,,X-GUN's bike, kawasaki motorcycle
+Dialogue: 0,0:03:14.90,0:03:16.85,wipe_Wed,,0,0,0,,Bearworm sings well
+Dialogue: 0,0:03:17.84,0:03:19.81,normal_Wed,,0,0,0,,ZUN ZUN ZUN
+Dialogue: 0,0:03:19.81,0:03:24.48,normal_Wed,,0,0,0,,"Hello Keisuke" "Hey Taku-chan"
+Dialogue: 0,0:03:24.48,0:03:33.99,normal_Wed,,0,0,0,,Same gender are really congratulatory
+Dialogue: 0,0:03:32.02,0:03:34.76,wipe_Wed,,0,0,0,,This was the first verse from that time
+Dialogue: 0,0:03:36.14,0:03:37.83,wipe_Wed,,0,0,0,,The second verse is by Koga Ken
+Dialogue: 0,0:03:39.80,0:03:44.27,normal_Wed,,0,0,0,,Nature in the Grassland
+Dialogue: 0,0:03:44.27,0:03:47.54,normal_Wed,,0,0,0,,Rainbow in the blue sky
+Dialogue: 0,0:03:47.54,0:03:57.12,normal_Wed,,0,0,0,,Isn't twilight under the rainbow great?
+Dialogue: 0,0:03:52.49,0:03:54.15,wipe_Wed,,0,0,0,,Don't know any of them
+Dialogue: 0,0:03:54.15,0:03:57.12,wipe_Wed,,0,0,0,,They're all combos right?
+Dialogue: 0,0:03:57.12,0:04:05.86,normal_Wed,,0,0,0,,Australian Vacation Quiet Couple Time for Two
+Dialogue: 0,0:04:02.36,0:04:04.29,wipe_Wed,,0,0,0,,Well...a little niche
+Dialogue: 0,0:04:05.86,0:04:09.86,normal_Wed,,0,0,0,,Map Messy
+Dialogue: 0,0:04:08.46,0:04:09.86,wipe_Wed,,0,0,0,,So old!
+Dialogue: 0,0:04:09.86,0:04:14.50,normal_Wed,,0,0,0,,Suddenly, into the jungle
+Dialogue: 0,0:04:14.50,0:04:18.80,normal_Wed,,0,0,0,,Pocket Monkey
+Dialogue: 0,0:04:18.80,0:04:25.11,normal_Wed,,0,0,0,,Koala, panther, woolly-nosed wombat
+Dialogue: 0,0:04:21.58,0:04:22.80,wipe_Wed,,0,0,0,,Koala became that?
+Dialogue: 0,0:04:25.11,0:04:29.51,normal_Wed,,0,0,0,,With two pistols BANBANBAN
+Dialogue: 0,0:04:32.90,0:04:34.24,wipe_Wed,,0,0,0,,Hey, that kind of name...
+Dialogue: 0,0:04:29.51,0:04:33.85,normal_Wed,,0,0,0,,Chasing light trucks
+Dialogue: 0,0:04:33.85,0:04:37.72,normal_Wed,,0,0,0,,Monster Engine A-Slip-Smoke
+Dialogue: 0,0:04:37.72,0:04:49.43,normal_Wed,,0,0,0,,Thank you, President of Japan
+Dialogue: 0,0:04:47.13,0:04:48.58,wipe_Wed,,0,0,0,,Good singing
+Dialogue: 0,0:04:49.43,0:04:51.34,normal_Wed,,0,0,0,,ZUN ZUN ZUN
+Dialogue: 0,0:04:50.92,0:04:52.61,wipe_Wed,,0,0,0,,Here we go again.  \N-Don't need them again
+Dialogue: 0,0:04:51.34,0:04:55.97,normal_Wed,,0,0,0,,Who are you guys? Boyfriend
+Dialogue: 0,0:04:55.97,0:05:09.89,normal_Wed,,0,0,0,,Love triangle is not impossible ha
+Dialogue: 0,0:05:02.73,0:05:06.05,wipe_Wed,,0,0,0,,The story is finished
+Dialogue: 0,0:05:11.31,0:05:14.79,normal_Wed,,0,0,0,,That's it. Do you remember?
+Dialogue: 0,0:05:14.79,0:05:19.80,normal_Wed,,0,0,0,,No, I don't remember at all, even after listening to it
+Dialogue: 0,0:05:19.80,0:05:21.51,normal_Wed,,0,0,0,,Even with the photos below it...
+Dialogue: 0,0:05:21.51,0:05:22.66,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:05:22.66,0:05:25.53,normal_Wed,,0,0,0,,He said "so old" when Messy came up
+Dialogue: 0,0:05:25.54,0:05:28.18,normal_Wed,,0,0,0,,That I don't agree with, what do you mean old?
+Dialogue: 0,0:05:29.82,0:05:31.88,normal_Wed,,0,0,0,,The others were more recent
+Dialogue: 0,0:05:31.88,0:05:35.35,normal_Wed,,0,0,0,,Then suddenly there's people even older than us
+Dialogue: 0,0:05:22.66,0:05:28.18,note_Wed,,0,0,0,,{\blur4}※The group formed in 1979 and disbanded in 2008
+Dialogue: 0,0:05:35.35,0:05:37.96,normal_Wed,,0,0,0,,But he really has no memory of it
+Dialogue: 0,0:05:37.96,0:05:40.85,normal_Wed,,0,0,0,,We were both so unimpressed
+Dialogue: 0,0:05:40.85,0:05:43.59,normal_Wed,,0,0,0,,So why bring this back now?
+Dialogue: 0,0:05:44.17,0:05:47.09,normal_Wed,,0,0,0,,Next on Music Theory Day is...
+Dialogue: 0,0:05:47.09,0:05:57.10,normal_Wed,,0,0,0,,Regarding the "Who do you think you are" part of Hikaru Utada's First Love, the theory is that everyone at karaoke sings "Who will you be thinking about daha-"
+Dialogue: 0,0:05:57.85,0:06:02.28,normal_Wed,,0,0,0,,This time we were assisted by this KTV
+Dialogue: 0,0:06:03.44,0:06:05.84,normal_Wed,,0,0,0,,And firstly talked to some visitors
+Dialogue: 0,0:06:05.84,0:06:09.28,normal_Wed,,0,0,0,,We are looking for people who can sing First Love well
+Dialogue: 0,0:06:09.99,0:06:14.49,normal_Wed,,0,0,0,,And launched an investigation under the guise of a singing test
+Dialogue: 0,0:06:15.49,0:06:18.52,normal_Wed,,0,0,0,,The singing is viewed with a fixed camera
+Dialogue: 0,0:06:19.59,0:06:22.40,normal_Wed,,0,0,0,,And so, the test begins
+Dialogue: 0,0:06:23.06,0:06:29.57,normal_Wed,,0,0,0,,The last kiss with the flavor of a cigarette
+Dialogue: 0,0:06:28.27,0:06:30.38,wipe_Wed_old,,0,0,0,,Don't need this part \N -It's quite long
+Dialogue: 0,0:06:39.89,0:06:40.93,wipe_Wed_old,,0,0,0,,Very good at singing
+Dialogue: 0,0:06:30.38,0:06:33.74,normal_Wed,,0,0,0,,Will she really say "da-ha"?
+Dialogue: 0,0:06:34.34,0:06:45.18,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:06:43.25,0:06:45.30,wipe_Wed_old,,0,0,0,,It's the part after this
+Dialogue: 0,0:06:45.30,0:06:46.20,wipe_Wed_old,,0,0,0,,Coming! Coming!
+Dialogue: 0,0:06:45.18,0:06:52.42,normal_Wed,,0,0,0,,Who will you be thinking about daha-
+Dialogue: 0,0:06:54.67,0:06:57.25,normal_Wed,,0,0,0,,She sings "daha-"
+Dialogue: 0,0:06:57.18,0:06:58.83,wipe_Wed_old,,0,0,0,,Must feel a bit stupid
+Dialogue: 0,0:06:57.97,0:06:59.77,normal_Wed,,0,0,0,,The second person is...
+Dialogue: 0,0:07:00.88,0:07:02.07,normal_Wed,,0,0,0,,This woman
+Dialogue: 0,0:07:04.60,0:07:06.10,wipe_Wed_old,,0,0,0,,Too interesting
+Dialogue: 0,0:07:07.44,0:07:09.35,wipe_Wed_old,,0,0,0,,So emotional, singing so powerfully
+Dialogue: 0,0:07:09.35,0:07:13.41,wipe_Wed_old,,0,0,0,,This person will definitely sing wrong, right?
+Dialogue: 0,0:07:02.90,0:07:13.24,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:07:13.24,0:07:21.43,normal_Wed,,0,0,0,,Who will you be thinking about daha-
+Dialogue: 0,0:07:21.43,0:07:24.62,normal_Wed,,0,0,0,,It's like they're going to "da ha" supermarket
+Dialogue: 0,0:07:26.61,0:07:29.39,normal_Wed,,0,0,0,,Also sang it
+Dialogue: 0,0:07:29.39,0:07:30.90,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:07:30.90,0:07:37.84,normal_Wed,,0,0,0,,Who will you be thinking about daha-
+Dialogue: 0,0:07:32.36,0:07:33.95,wipe_Wed_old,,0,0,0,,Very cute these two
+Dialogue: 0,0:07:33.95,0:07:35.62,wipe_Wed_old,,0,0,0,,Don't sing it wrong! Don't sing it wrong!
+Dialogue: 0,0:07:36.40,0:07:37.44,wipe_Wed_old,,0,0,0,,Wrong
+Dialogue: 0,0:07:38.45,0:07:44.11,normal_Wed,,0,0,0,,The friend of this one also takes no issue with the singing
+Dialogue: 0,0:07:44.88,0:07:47.71,normal_Wed,,0,0,0,,By now, three people have sung incorrectly in a row
+Dialogue: 0,0:07:51.92,0:07:54.55,normal_Wed,,0,0,0,,100% rate
+Dialogue: 0,0:07:55.47,0:07:57.67,normal_Wed,,0,0,0,,After that the investigation continued
+Dialogue: 0,0:07:59.55,0:08:02.93,normal_Wed,,0,0,0,,Sure enough, most people sang "da-ha"
+Dialogue: 0,0:08:06.04,0:08:10.13,normal_Wed,,0,0,0,,Let's listen to Utada Hikaru's First Love again
+Dialogue: 0,0:08:11.49,0:08:18.61,normal_Wed,,0,0,0,,Who will you be thinking about daha-
+Dialogue: 0,0:08:20.84,0:08:23.85,normal_Wed,,0,0,0,,She also says "daha-"
+Dialogue: 0,0:08:24.95,0:08:29.89,normal_Wed,,0,0,0,,To be faithful to the original song, you'll have to sing "da-ha-"
+Dialogue: 0,0:08:30.99,0:08:36.40,normal_Wed,,0,0,0,,So, what about  other artists who have covered First Love?
+Dialogue: 0,0:08:36.40,0:08:38.53,normal_Wed,,0,0,0,,First is this person
+Dialogue: 0,0:08:40.60,0:08:44.17,normal_Wed,,0,0,0,,May J
+Dialogue: 0,0:08:46.41,0:08:48.53,normal_Wed,,0,0,0,,Let's verify
+Dialogue: 0,0:08:52.33,0:08:53.32,wipe_Wed_old,,0,0,0,,May J is good!
+Dialogue: 0,0:08:53.32,0:08:55.57,wipe_Wed_old,,0,0,0,,Be careful, May J
+Dialogue: 0,0:08:57.12,0:08:59.97,wipe_Wed_old,,0,0,0,,Don't sing it wrong!
+Dialogue: 0,0:08:49.34,0:08:59.95,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:08:59.95,0:09:07.06,normal_Wed,,0,0,0,,Who will you be thinking about dala-
+Dialogue: 0,0:09:09.80,0:09:12.14,normal_Wed,,0,0,0,,Surprisingly sings "dala-"
+Dialogue: 0,0:09:14.05,0:09:19.66,normal_Wed,,0,0,0,,Next is the talented Taiwanese singer, Lin Yuqun
+Dialogue: 0,0:09:25.91,0:09:32.92,normal_Wed,,0,0,0,,Who will you be thinking about dala-
+Dialogue: 0,0:09:35.32,0:09:38.04,normal_Wed,,0,0,0,,Two people in a row singing "dala-"
+Dialogue: 0,0:09:39.54,0:09:42.21,normal_Wed,,0,0,0,,Has "dala-" become mainstream in covering this song?
+Dialogue: 0,0:09:42.81,0:09:48.25,normal_Wed,,0,0,0,,Next is the well known cover from Tokunaga Eimi
+Dialogue: 0,0:09:48.23,0:09:54.17,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:09:55.18,0:09:56.20,wipe_Wed_old,,0,0,0,,Be careful
+Dialogue: 0,0:09:56.80,0:09:57.68,wipe_Wed_old,,0,0,0,,Brother, please!
+Dialogue: 0,0:09:57.68,0:09:59.68,wipe_Wed_old,,0,0,0,,Be careful
+Dialogue: 0,0:09:54.17,0:10:01.35,normal_Wed,,0,0,0,,Who will you be thinking about?
+Dialogue: 0,0:10:03.10,0:10:05.61,normal_Wed,,0,0,0,,A normal recitation
+Dialogue: 0,0:10:06.18,0:10:07.32,normal_Wed,,0,0,0,,Next is...
+Dialogue: 0,0:10:12.16,0:10:13.02,normal_Wed,,0,0,0,,JUJU
+Dialogue: 0,0:10:13.02,0:10:23.70,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:10:23.70,0:10:30.78,normal_Wed,,0,0,0,,Who will you be thinking about dasa-
+Dialogue: 0,0:10:30.78,0:10:32.81,normal_Wed,,0,0,0,,Dasa-
+Dialogue: 0,0:10:32.81,0:10:34.55,normal_Wed,,0,0,0,,Dasa-
+Dialogue: 0,0:10:35.25,0:10:36.78,normal_Wed,,0,0,0,,This is a joke, right?
+Dialogue: 0,0:10:36.78,0:10:38.88,normal_Wed,,0,0,0,,This one's awesome
+Dialogue: 0,0:10:39.84,0:10:43.91,normal_Wed,,0,0,0,,Surprisingly, the majority of covers sing "dasa-"
+Dialogue: 0,0:10:43.25,0:10:46.40,wipe_Wed_old,,0,0,0,,Anything's fine
+Dialogue: 0,0:10:47.59,0:10:51.76,normal_Wed,,0,0,0,,What about the one we all know well?
+Dialogue: 0,0:10:54.00,0:10:56.00,normal_Wed,,0,0,0,,Otomo Kohei
+Dialogue: 0,0:10:57.09,0:11:01.11,normal_Wed,,0,0,0,,What is the synergy between Otomo Kohei and "daha-"?
+Dialogue: 0,0:11:01.11,0:11:11.55,normal_Wed,,0,0,0,,The last kiss with the flavor of a cigarette
+Dialogue: 0,0:11:11.55,0:11:19.42,normal_Wed,,0,0,0,,A bitter and tiresome fragrance
+Dialogue: 0,0:11:22.56,0:11:32.80,normal_Wed,,0,0,0,,Where will you be tomorrow?
+Dialogue: 0,0:11:27.42,0:11:28.04,wipe_Wed_old,,0,0,0,,Careful!
+Dialogue: 0,0:11:30.97,0:11:33.24,wipe_Wed_old,,0,0,0,,Here's the important part
+Dialogue: 0,0:11:33.24,0:11:34.24,wipe_Wed_old,,0,0,0,,Careful
+Dialogue: 0,0:11:32.80,0:11:40.34,normal_Wed,,0,0,0,,Who will you be thinking about dayo-
+Dialogue: 0,0:11:40.51,0:11:42.95,normal_Wed,,0,0,0,,Dayo—
+Dialogue: 0,0:11:42.95,0:11:44.08,normal_Wed,,0,0,0,,Dayo—
+Dialogue: 0,0:11:48.15,0:11:56.39,normal_Wed,,0,0,0,,{\c&H1300E1&\3c&HFFFFFF&} {\r}\NNot all of them are "da-ha-" but also "da-la-" "da-sa-" and "da-yo-".
+Dialogue: 0,0:11:57.01,0:11:59.90,normal_Wed,,0,0,0,,Next on Music Theory Day is...
+Dialogue: 0,0:11:59.90,0:12:07.57,normal_Wed,,0,0,0,,{\fnFZYunDongHeiS-H-GB\fs55\c&H17FFFA&\bord0\b0\shad5\4c&H000000&} \N{\r}The lyrics of "I'm going to Tokyo" by Yoshizo is exactly the same as that of an existing village.
+Dialogue: 0,0:12:08.35,0:12:09.45,normal_Wed,,0,0,0,,The theory was as follows:
+Dialogue: 0,0:12:09.45,0:12:13.80,normal_Wed,,0,0,0,,We contacted 183 town halls throughout Japan...
+Dialogue: 0,0:12:14.48,0:12:20.08,normal_Wed,,0,0,0,,...and conducted a survey on the synchronization rate with the lyrics of "I'm going to Tokyo" and ranked them.
+Dialogue: 0,0:12:21.39,0:12:26.50,normal_Wed,,0,0,0,,So, is there really a village with a 100% synchronization rate?
+Dialogue: 0,0:12:27.72,0:12:30.04,normal_Wed,,0,0,0,,So, we asked a man with the likeness of the original singer...
+Dialogue: 0,0:12:30.04,0:12:32.33,normal_Wed,,0,0,0,,...to provide a word-for-word version of "I'm going to Tokyo".
+Dialogue: 0,0:12:32.33,0:12:34.27,normal_Wed,,0,0,0,,Firstly
+Dialogue: 0,0:12:38.55,0:12:42.70,normal_Wed,,0,0,0,,In fifth place is Nagano Prefecture, Shimo-Ina-gun, Sagi-mura
+Dialogue: 0,0:12:43.55,0:12:49.68,normal_Wed,,0,0,0,,In addition, all of the videos played along with the song were filmed on location in Sagi-mura.
+Dialogue: 0,0:12:50.68,0:12:51.68,normal_Wed,,0,0,0,,There's TV...
+Dialogue: 0,0:12:51.68,0:12:52.68,normal_Wed,,0,0,0,,There's radio
+Dialogue: 0,0:12:52.68,0:12:54.69,normal_Wed,,0,0,0,,Not many cars on the road
+Dialogue: 0,0:12:54.69,0:12:55.79,normal_Wed,,0,0,0,,There's piano...
+Dialogue: 0,0:12:55.79,0:12:56.69,normal_Wed,,0,0,0,,There's no bars...
+Dialogue: 0,0:12:56.69,0:12:58.52,normal_Wed,,0,0,0,,There are police patrolling...
+Dialogue: 0,0:12:58.52,0:13:02.69,normal_Wed,,0,0,0,,Got up in the morning and took the cows for a walk for over two hours.
+Dialogue: 0,0:13:02.69,0:13:03.86,normal_Wed,,0,0,0,,There's phone...
+Dialogue: 0,0:13:03.86,0:13:04.86,normal_Wed,,0,0,0,,There's gas...
+Dialogue: 0,0:13:04.86,0:13:06.70,normal_Wed,,0,0,0,,Buses come five times a day.
+Dialogue: 0,0:13:06.70,0:13:11.00,normal_Wed,,0,0,0,,I'm tired of selling shellwood.
+Dialogue: 0,0:13:11.00,0:13:15.01,normal_Wed,,0,0,0,,Going to Big Tokyo.
+Dialogue: 0,0:13:15.01,0:13:19.18,normal_Wed,,0,0,0,,For Tokyo, go to Iida Station first.
+Dialogue: 0,0:13:19.18,0:13:23.68,normal_Wed,,0,0,0,,It takes an hour to drive...
+Dialogue: 0,0:13:31.09,0:13:32.09,normal_Wed,,0,0,0,,There's guitar...
+Dialogue: 0,0:13:32.09,0:13:33.09,normal_Wed,,0,0,0,,There's stereo...
+Dialogue: 0,0:13:33.09,0:13:35.13,normal_Wed,,0,0,0,,I've seen this guy before
+Dialogue: 0,0:13:35.13,0:13:36.13,normal_Wed,,0,0,0,,There's tea stores and restaurants.
+Dialogue: 0,0:13:36.13,0:13:37.13,normal_Wed,,0,0,0,,Closed but still there.
+Dialogue: 0,0:13:37.13,0:13:39.13,normal_Wed,,0,0,0,,There's young people...
+Dialogue: 0,0:13:39.13,0:13:43.13,normal_Wed,,0,0,0,,Elementary school, middle school, all just one school together.
+Dialogue: 0,0:13:43.13,0:13:44.34,normal_Wed,,0,0,0,,There's a pharmacy...
+Dialogue: 0,0:13:44.34,0:13:45.44,normal_Wed,,0,0,0,,No movies...
+Dialogue: 0,0:13:45.44,0:13:47.24,normal_Wed,,0,0,0,,Tourists unlikely to visit.
+Dialogue: 0,0:13:47.24,0:13:48.24,normal_Wed,,0,0,0,,No ballroom...
+Dialogue: 0,0:13:48.24,0:13:49.54,normal_Wed,,0,0,0,,No peeping toms...
+Dialogue: 0,0:13:49.54,0:13:52.08,normal_Wed,,0,0,0,,Do you know about laserdiscs?
+Dialogue: 0,0:13:52.08,0:13:53.88,normal_Wed,,0,0,0,,No, I haven't been.
+Dialogue: 0,0:13:53.88,0:13:55.65,normal_Wed,,0,0,0,,Laserdiscs, who are you?
+Dialogue: 0,0:13:55.65,0:13:57.75,normal_Wed,,0,0,0,,Although there's a karaoke...
+Dialogue: 0,0:13:57.75,0:13:59.68,normal_Wed,,0,0,0,,...can't sing without a reservation.
+Dialogue: 0,0:13:59.68,0:14:00.79,normal_Wed,,0,0,0,,No evening papers.
+Dialogue: 0,0:14:00.79,0:14:01.69,normal_Wed,,0,0,0,,No magazines.
+Dialogue: 0,0:14:01.69,0:14:03.69,normal_Wed,,0,0,0,,Occasionally a notice board is passed around.
+Dialogue: 0,0:14:03.69,0:14:06.12,normal_Wed,,0,0,0,,Only two signal lights...
+Dialogue: 0,0:14:06.12,0:14:07.66,normal_Wed,,0,0,0,,...our village has electricity.
+Dialogue: 0,0:14:07.66,0:14:12.00,normal_Wed,,0,0,0,,But shellwood is for sale.
+Dialogue: 0,0:14:12.00,0:14:16.17,normal_Wed,,0,0,0,,Got a hot spring.
+Dialogue: 0,0:14:16.17,0:14:20.00,normal_Wed,,0,0,0,,The hotel has a hot spring.
+Dialogue: 0,0:14:20.00,0:14:24.14,normal_Wed,,0,0,0,,Youth is regained.
+Dialogue: 0,0:14:24.70,0:14:32.28,normal_Wed,,0,0,0,,In summary, the synchronization rate of the lyrics is 37%.
+Dialogue: 0,0:14:34.00,0:14:37.61,normal_Wed,,0,0,0,,Next is tied in fifth place...
+Dialogue: 0,0:14:38.62,0:14:40.77,normal_Wed,,0,0,0,,...Watarunakiki Village, Shimajiri-gun, Okinawa.
+Dialogue: 0,0:14:41.78,0:14:43.67,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:14:43.67,0:14:47.80,normal_Wed,,0,0,0,,Second place is also a tie between two villages
+Dialogue: 0,0:14:48.82,0:14:51.27,normal_Wed,,0,0,0,,Nosakogawa Village, Yoshino-gun, Nara Prefecture
+Dialogue: 0,0:14:53.78,0:14:57.86,normal_Wed,,0,0,0,,And Tokyo Aonoshima Village. The synchronization rate is 40% for both.
+Dialogue: 0,0:14:58.89,0:15:04.52,normal_Wed,,0,0,0,,So, the place with the highest synchronization rate with the lyrics of "I'm going to Tokyo" is...
+Dialogue: 0,0:15:06.13,0:15:09.46,normal_Wed,,0,0,0,,Kagoshima Prefecture, Kagoshima County, Mishima Village.
+Dialogue: 0,0:15:10.38,0:15:14.75,normal_Wed,,0,0,0,,Located about 40 km south of the Satsuma Peninsula.
+Dialogue: 0,0:15:14.75,0:15:20.01,normal_Wed,,0,0,0,,Mishima Village, spread across three small islands, wins 1st prize.
+Dialogue: 0,0:15:20.67,0:15:21.63,normal_Wed,,0,0,0,,There's TV...
+Dialogue: 0,0:15:21.63,0:15:22.70,normal_Wed,,0,0,0,,There's radio...
+Dialogue: 0,0:15:22.70,0:15:24.77,normal_Wed,,0,0,0,,Not many cars on the road.
+Dialogue: 0,0:15:24.77,0:15:25.77,normal_Wed,,0,0,0,,There's a piano...
+Dialogue: 0,0:15:25.77,0:15:26.77,normal_Wed,,0,0,0,,No bar...
+Dialogue: 0,0:15:26.77,0:15:28.61,normal_Wed,,0,0,0,,One policeman patrolling...
+Dialogue: 0,0:15:28.61,0:15:32.78,normal_Wed,,0,0,0,,Got up in the morning and took the cows for a walk for over two hours.
+Dialogue: 0,0:15:32.78,0:15:33.78,normal_Wed,,0,0,0,,There's phone...
+Dialogue: 0,0:15:33.78,0:15:34.95,normal_Wed,,0,0,0,,There's gas...
+Dialogue: 0,0:15:34.95,0:15:36.78,normal_Wed,,0,0,0,,Doesn't even have any busses.
+Dialogue: 0,0:15:36.78,0:15:41.12,normal_Wed,,0,0,0,,I'm sick and tired of Mishima Village...
+Dialogue: 0,0:15:41.12,0:15:45.29,normal_Wed,,0,0,0,,Going to Big Tokyo.
+Dialogue: 0,0:15:45.29,0:15:49.33,normal_Wed,,0,0,0,,Going to Tokyo, got to go to Kagoshima first.
+Dialogue: 0,0:15:49.33,0:15:53.73,normal_Wed,,0,0,0,,The ferry takes four hours.
+Dialogue: 0,0:16:01.11,0:16:02.11,normal_Wed,,0,0,0,,There's guitar...
+Dialogue: 0,0:16:02.11,0:16:03.27,normal_Wed,,0,0,0,,There's stereo...
+Dialogue: 0,0:16:03.27,0:16:05.28,normal_Wed,,0,0,0,,African drums are also popular.
+Dialogue: 0,0:16:05.28,0:16:07.28,normal_Wed,,0,0,0,,There is no coffee shop, but there is a bed and breakfast.
+Dialogue: 0,0:16:07.28,0:16:09.45,normal_Wed,,0,0,0,,There's 20 young people in their 20s.
+Dialogue: 0,0:16:09.45,0:16:11.62,normal_Wed,,0,0,0,,There's no high school, not even one.
+Dialogue: 0,0:16:11.62,0:16:13.45,normal_Wed,,0,0,0,,By the age of 15 all students leave the island.
+Dialogue: 0,0:16:13.45,0:16:14.45,normal_Wed,,0,0,0,,No pharmacies...
+Dialogue: 0,0:16:14.45,0:16:15.49,normal_Wed,,0,0,0,,No movies...
+Dialogue: 0,0:16:15.49,0:16:17.39,normal_Wed,,0,0,0,,Occasionally a boat comes.
+Dialogue: 0,0:16:17.39,0:16:18.39,normal_Wed,,0,0,0,,No ballroom...
+Dialogue: 0,0:16:18.39,0:16:19.39,normal_Wed,,0,0,0,,No peeping toms...
+Dialogue: 0,0:16:19.39,0:16:21.39,normal_Wed,,0,0,0,,There are laser discs available.
+Dialogue: 0,0:16:21.39,0:16:23.49,normal_Wed,,0,0,0,,The karaoke only has 28 songs.
+Dialogue: 0,0:16:23.49,0:16:25.53,normal_Wed,,0,0,0,,Only 28 songs to choose from.
+Dialogue: 0,0:16:25.53,0:16:27.70,normal_Wed,,0,0,0,,Newspapers come four times a week.
+Dialogue: 0,0:16:27.70,0:16:29.53,normal_Wed,,0,0,0,,No island-wide broadcasts...
+Dialogue: 0,0:16:29.53,0:16:31.54,normal_Wed,,0,0,0,,No traffic lights, seriously...
+Dialogue: 0,0:16:31.54,0:16:33.47,normal_Wed,,0,0,0,,But then again, the power is always on.
+Dialogue: 0,0:16:33.47,0:16:37.81,normal_Wed,,0,0,0,,But in Mishima Village, but in Mishima Village...
+Dialogue: 0,0:16:37.81,0:16:41.81,normal_Wed,,0,0,0,,...there's a hot spring.
+Dialogue: 0,0:16:41.81,0:16:45.98,normal_Wed,,0,0,0,,Although there's a hot spring, there's no locker room.
+Dialogue: 0,0:16:45.98,0:16:49.99,normal_Wed,,0,0,0,,There's nothing around it.
+Dialogue: 0,0:16:50.66,0:16:58.18,normal_Wed,,0,0,0,,In summary, Mishima Village's lyrics synchronization rate is 44%
+Dialogue: 0,0:16:59.70,0:17:01.79,normal_Wed,,0,0,0,,In all of Japan...
+Dialogue: 0,0:17:01.79,0:17:05.10,normal_Wed,,0,0,0,,...even the closest villages only has a synchronization rate of 44%.
+Dialogue: 0,0:17:05.78,0:17:08.22,normal_Wed,,0,0,0,,So what if we expand the scope to villages around the world?
+Dialogue: 0,0:17:09.23,0:17:13.74,normal_Wed,,0,0,0,,Will there be a village with the exact same lyrics as "I'm going to Tokyo"?
+Dialogue: 0,0:17:28.12,0:17:31.54,normal_Wed,,0,0,0,,Expanding the scope of the survey to the world...
+Dialogue: 0,0:17:31.54,0:17:34.76,normal_Wed,,0,0,0,,...for the village that best fits the lyrics of "I'm going to Tokyo"...
+Dialogue: 0,0:17:34.76,0:17:37.00,normal_Wed,,0,0,0,,...the world's top ranking is...
+Dialogue: 0,0:17:38.11,0:17:40.88,normal_Wed,,0,0,0,,Laikipia County, Republic of Kenya
+Dialogue: 0,0:17:40.88,0:17:44.88,normal_Wed,,0,0,0,,Samaritan Village, Bois-Rob region, Neri County
+Dialogue: 0,0:17:44.64,0:17:46.64,wipe_Wed_old,,0,0,0,,That's quite a find \N-Yeah
+Dialogue: 0,0:17:47.99,0:17:49.80,wipe_Wed_old,,0,0,0,,That's it!
+Dialogue: 0,0:17:49.80,0:17:51.22,wipe_Wed_old,,0,0,0,,Absolutely.
+Dialogue: 0,0:17:52.15,0:17:54.49,wipe_Wed_old,,0,0,0,,Can't even see any wires.
+Dialogue: 0,0:17:54.49,0:17:56.15,wipe_Wed_old,,0,0,0,,It's true. You can tell just at a glance.
+Dialogue: 0,0:17:46.51,0:17:50.00,normal_Wed,,0,0,0,,What exactly is its lyrics synchronization rate?
+Dialogue: 0,0:17:51.22,0:17:56.82,normal_Wed,,0,0,0,,The live video shot in Kenya reveals the details.
+Dialogue: 0,0:18:01.26,0:18:02.03,normal_Wed,,0,0,0,,No TV...
+Dialogue: 0,0:18:02.03,0:18:03.06,normal_Wed,,0,0,0,,No radio either...
+Dialogue: 0,0:18:03.06,0:18:05.13,normal_Wed,,0,0,0,,No cars either...
+Dialogue: 0,0:18:05.13,0:18:06.13,normal_Wed,,0,0,0,,No piano...
+Dialogue: 0,0:18:06.13,0:18:07.13,normal_Wed,,0,0,0,,No bar...
+Dialogue: 0,0:18:07.13,0:18:08.97,normal_Wed,,0,0,0,,No police patrol but there are warriors.
+Dialogue: 0,0:18:08.97,0:18:13.14,normal_Wed,,0,0,0,,Get up in the morning, take the cows and basically walk around all day.
+Dialogue: 0,0:18:13.14,0:18:14.27,normal_Wed,,0,0,0,,No phone...
+Dialogue: 0,0:18:14.27,0:18:15.31,normal_Wed,,0,0,0,,No gas...
+Dialogue: 0,0:18:15.31,0:18:17.14,normal_Wed,,0,0,0,,Not even a road where a bus can run.
+Dialogue: 0,0:18:17.14,0:18:21.48,normal_Wed,,0,0,0,,I'm sick and tired of Samaritan Village.
+Dialogue: 0,0:18:21.48,0:18:25.65,normal_Wed,,0,0,0,,Going to Nairobi.
+Dialogue: 0,0:18:25.65,0:18:29.89,normal_Wed,,0,0,0,,To Nairobi, first through the roadless wilderness.
+Dialogue: 0,0:18:29.89,0:18:33.72,normal_Wed,,0,0,0,,Drive for six hours...
+Dialogue: 0,0:18:41.63,0:18:42.60,normal_Wed,,0,0,0,,No guitar...
+Dialogue: 0,0:18:42.60,0:18:43.63,normal_Wed,,0,0,0,,No sound...
+Dialogue: 0,0:18:43.63,0:18:45.64,normal_Wed,,0,0,0,,No African drums, no instruments.
+Dialogue: 0,0:18:45.64,0:18:46.64,normal_Wed,,0,0,0,,No coffee shop...
+Dialogue: 0,0:18:46.64,0:18:47.64,normal_Wed,,0,0,0,,No meetings...
+Dialogue: 0,0:18:47.64,0:18:49.74,normal_Wed,,0,0,0,,The village is full of young people.
+Dialogue: 0,0:18:49.74,0:18:53.64,normal_Wed,,0,0,0,,Grandma, grandpa, I can't tell how old you are.
+Dialogue: 0,0:18:53.64,0:18:54.81,normal_Wed,,0,0,0,,No pharmacies...
+Dialogue: 0,0:18:54.81,0:18:55.85,normal_Wed,,0,0,0,,No movies...
+Dialogue: 0,0:18:55.85,0:18:57.75,normal_Wed,,0,0,0,,Apply aloe vera to minor injuries and pains.
+Dialogue: 0,0:18:57.75,0:18:58.75,normal_Wed,,0,0,0,,No ballroom...
+Dialogue: 0,0:18:58.75,0:18:59.75,normal_Wed,,0,0,0,,No peeping toms...
+Dialogue: 0,0:18:59.75,0:19:01.75,normal_Wed,,0,0,0,,What are laser discs?
+Dialogue: 0,0:19:01.75,0:19:03.85,normal_Wed,,0,0,0,,Karaoke even less likely.
+Dialogue: 0,0:19:03.85,0:19:05.89,normal_Wed,,0,0,0,,Singing is ceremony not entertainment.
+Dialogue: 0,0:19:05.89,0:19:06.89,normal_Wed,,0,0,0,,No newspapers...
+Dialogue: 0,0:19:06.89,0:19:07.96,normal_Wed,,0,0,0,,No magazines...
+Dialogue: 0,0:19:07.96,0:19:09.89,normal_Wed,,0,0,0,,It is said that there is no writing in the village.
+Dialogue: 0,0:19:09.89,0:19:11.90,normal_Wed,,0,0,0,,No traffic lights, seriously.
+Dialogue: 0,0:19:11.90,0:19:13.83,normal_Wed,,0,0,0,,My village does not even have electricity.
+Dialogue: 0,0:19:13.83,0:19:18.17,normal_Wed,,0,0,0,,But this is Samaritan Village, but this is Samaritan Village...
+Dialogue: 0,0:19:18.17,0:19:22.17,normal_Wed,,0,0,0,,No disputes, no wants, no needs.
+Dialogue: 0,0:19:22.17,0:19:26.34,normal_Wed,,0,0,0,,No disputes and nothing to do.
+Dialogue: 0,0:19:26.34,0:19:30.35,normal_Wed,,0,0,0,,Drinking in the daytime.
+Dialogue: 0,0:19:31.00,0:19:38.68,normal_Wed,,0,0,0,,To sum up, the lyrics synchronization rate of Samaritan Village in Kenya is 77%.
+Dialogue: 0,0:19:43.09,0:19:47.33,normal_Wed,,0,0,0,,Next, remember the theory related to Yoshizo's commercial songs?
+Dialogue: 0,0:19:47.33,0:19:49.54,normal_Wed,,0,0,0,,I think I remember this one. \N -A commercial song?
+Dialogue: 0,0:19:49.54,0:19:56.74,normal_Wed,,0,0,0,,Workman and New Japan House were both used for commercials but only one is remembered
+Dialogue: 0,0:19:57.61,0:19:58.74,normal_Wed,,0,0,0,,Seems familiar
+Dialogue: 0,0:19:58.74,0:20:02.12,normal_Wed,,0,0,0,,You may remember one but not the other
+Dialogue: 0,0:20:02.12,0:20:05.68,normal_Wed,,0,0,0,,I'm used to living in my house~
+Dialogue: 0,0:20:05.68,0:20:06.97,normal_Wed,,0,0,0,,That's New Japan House
+Dialogue: 0,0:20:07.60,0:20:09.10,normal_Wed,,0,0,0,,And Workman
+Dialogue: 0,0:20:09.10,0:20:10.38,normal_Wed,,0,0,0,,Eh... really?
+Dialogue: 0,0:20:12.46,0:20:13.80,normal_Wed,,0,0,0,,Really?  \N-Yeah
+Dialogue: 0,0:20:13.80,0:20:16.78,normal_Wed,,0,0,0,,Then listen to it. \N -Okay
+Dialogue: 0,0:20:16.78,0:20:19.17,normal_Wed,,0,0,0,,New Japan House, please listen
+Dialogue: 0,0:20:21.00,0:20:22.92,normal_Wed,,0,0,0,,It's coming back to me
+Dialogue: 0,0:20:24.36,0:20:26.57,normal_Wed,,0,0,0,,It appeared every now and then
+Dialogue: 0,0:20:28.10,0:20:30.42,normal_Wed,,0,0,0,,Walking and singing.\N  -Yeah, yeah, yeah
+Dialogue: 0,0:20:32.12,0:20:34.72,normal_Wed,,0,0,0,,Mmm, I know it
+Dialogue: 0,0:20:34.72,0:20:37.38,normal_Wed,,0,0,0,,So you don't remember Workman?
+Dialogue: 0,0:20:37.38,0:20:40.17,normal_Wed,,0,0,0,,But after listening to Workman it might come back to you
+Dialogue: 0,0:20:40.76,0:20:42.00,normal_Wed,,0,0,0,,Workman is this one
+Dialogue: 0,0:20:45.21,0:20:49.48,normal_Wed,,0,0,0,,Really?  \N-Incredible
+Dialogue: 0,0:20:50.92,0:20:53.04,normal_Wed,,0,0,0,,It can be said it's different
+Dialogue: 0,0:20:59.06,0:21:00.90,normal_Wed,,0,0,0,,From here it's very...
+Dialogue: 0,0:21:06.28,0:21:07.66,normal_Wed,,0,0,0,,Ah yes
+Dialogue: 0,0:21:07.66,0:21:11.12,normal_Wed,,0,0,0,,Everyone, Workman together \N -So it is
+Dialogue: 0,0:21:11.74,0:21:14.53,normal_Wed,,0,0,0,,Hamada you can sing along if you listen to it
+Dialogue: 0,0:21:14.53,0:21:17.46,normal_Wed,,0,0,0,,If you listen to New Japan House first, you won't be able to remember
+Dialogue: 0,0:21:17.46,0:21:20.20,normal_Wed,,0,0,0,,It's Yoshizo cutting corners
+Dialogue: 0,0:21:20.20,0:21:22.01,normal_Wed,,0,0,0,,It's not that
+Dialogue: 0,0:21:22.01,0:21:24.60,normal_Wed,,0,0,0,,Next on Music Theory Day is...
+Dialogue: 0,0:21:25.86,0:21:35.54,normal_Wed,,0,0,0,,After being scolded, it would be hard for Yaguchi Mari to let out her "sexy beam" when "Koi no Dance Site" is playing during karaoke.
+Dialogue: 0,0:21:36.52,0:21:40.28,normal_Wed,,0,0,0,,When thinking of Yaguchi's time in Morning Musume
+Dialogue: 0,0:21:46.00,0:21:48.36,normal_Wed,,0,0,0,,Her signature "sexy beam" move always comes to mind
+Dialogue: 0,0:21:48.88,0:21:52.36,normal_Wed,,0,0,0,,This time, Yaguchi is given a lecture by a friend
+Dialogue: 0,0:21:52.36,0:21:54.80,wipe_Wed_old,,0,0,0,,Wow so mean
+Dialogue: 0,0:21:53.90,0:21:58.26,normal_Wed,,0,0,0,,An actress with whom Yaguchi has a close personal relationship
+Dialogue: 0,0:21:57.68,0:21:58.82,wipe_Wed_old,,0,0,0,,Her angry must be scary
+Dialogue: 0,0:21:58.82,0:21:59.66,wipe_Wed_old,,0,0,0,,They are very close
+Dialogue: 0,0:21:59.66,0:22:07.58,normal_Wed,,0,0,0,,So, Yaguchi and her friends start singing karaoke together
+Dialogue: 0,0:22:10.74,0:22:11.60,wipe_Wed_old,,0,0,0,,Good atmosphere
+Dialogue: 0,0:22:11.60,0:22:13.22,wipe_Wed_old,,0,0,0,,Really good vibe
+Dialogue: 0,0:22:13.22,0:22:16.45,normal_Wed,,0,0,0,,Finally, time for the lecture
+Dialogue: 0,0:22:16.45,0:22:19.05,normal_Wed,,0,0,0,,If you don't know anything about current affairs
+Dialogue: 0,0:22:19.05,0:22:24.36,normal_Wed,,0,0,0,,You should have the self awareness of not studying hard enough
+Dialogue: 0,0:22:24.92,0:22:27.66,normal_Wed,,0,0,0,,But I don't think you have to tell me that
+Dialogue: 0,0:22:27.66,0:22:30.13,normal_Wed,,0,0,0,,Why do I feel the need to say this?
+Dialogue: 0,0:22:30.13,0:22:31.46,normal_Wed,,0,0,0,,I don't know. You...
+Dialogue: 0,0:22:31.46,0:22:33.70,normal_Wed,,0,0,0,,Have I done something to you?
+Dialogue: 0,0:22:33.70,0:22:36.50,normal_Wed,,0,0,0,,What i'm saying is the staff's opinion, not mine
+Dialogue: 0,0:22:37.98,0:22:40.04,wipe_Wed_old,,0,0,0,,This is bad
+Dialogue: 0,0:22:40.04,0:22:41.74,wipe_Wed_old,,0,0,0,,So serious
+Dialogue: 0,0:22:37.34,0:22:41.44,normal_Wed,,0,0,0,,Surprisingly, Yaguchi rebuts and a heated argument begins
+Dialogue: 0,0:22:41.74,0:22:43.61,normal_Wed,,0,0,0,,And even if you say that to me now
+Dialogue: 0,0:22:43.61,0:22:45.58,normal_Wed,,0,0,0,,What can I do in my work from now on?
+Dialogue: 0,0:22:45.58,0:22:46.51,normal_Wed,,0,0,0,,I don't know
+Dialogue: 0,0:22:46.51,0:22:49.78,normal_Wed,,0,0,0,,I should refuse work?
+Dialogue: 0,0:22:50.32,0:22:55.72,normal_Wed,,0,0,0,,This argument continued for a period that cannot be broadcast
+Dialogue: 0,0:22:57.30,0:22:58.58,normal_Wed,,0,0,0,,Finally...
+Dialogue: 0,0:22:59.62,0:23:03.76,normal_Wed,,0,0,0,,I don't want to do this either
+Dialogue: 0,0:23:03.76,0:23:05.98,normal_Wed,,0,0,0,,Yaguchi begins to cry
+Dialogue: 0,0:23:05.98,0:23:07.32,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:23:07.97,0:23:11.90,normal_Wed,,0,0,0,,Forget it, help me choose the song
+Dialogue: 0,0:23:13.42,0:23:15.92,normal_Wed,,0,0,0,,Even if Yaguchi is in this state
+Dialogue: 0,0:23:18.18,0:23:19.18,wipe_Wed_old,,0,0,0,,Why did she choose this song?
+Dialogue: 0,0:23:19.18,0:23:21.90,normal_Wed,,0,0,0,,Will she still do her signature move, the sexy beam?
+Dialogue: 0,0:23:21.90,0:23:23.14,wipe_Wed_old,,0,0,0,,How could she
+Dialogue: 0,0:23:22.65,0:23:29.52,normal_Wed,,0,0,0,,Every time you fall in love, heartbeat Bon Bo Ba Bon
+Dialogue: 0,0:23:30.70,0:23:33.26,wipe_Wed_old,,0,0,0,,No, still crying
+Dialogue: 0,0:23:33.26,0:23:34.48,wipe_Wed_old,,0,0,0,,Crying
+Dialogue: 0,0:23:35.86,0:23:38.28,wipe_Wed_old,,0,0,0,,If she's told the truth she won't be happy
+Dialogue: 0,0:23:29.52,0:23:35.93,normal_Wed,,0,0,0,,That's right, the first page of life
+Dialogue: 0,0:23:35.93,0:23:42.83,normal_Wed,,0,0,0,,Just update it with the sexy beam
+Dialogue: 0,0:23:41.00,0:23:41.86,wipe_Wed_old,,0,0,0,,Quickly!
+Dialogue: 0,0:23:43.20,0:23:46.64,normal_Wed,,0,0,0,,It is completely impossible to do it
+Dialogue: 0,0:23:46.64,0:23:48.36,normal_Wed,,0,0,0,,Of course
+Dialogue: 0,0:23:48.36,0:23:51.14,normal_Wed,,0,0,0,,So, the program team entered to explain the situation
+Dialogue: 0,0:23:53.71,0:23:56.38,normal_Wed,,0,0,0,,I hate this
+Dialogue: 0,0:23:56.38,0:23:58.95,normal_Wed,,0,0,0,,I really hate this
+Dialogue: 0,0:24:01.65,0:24:04.39,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:24:04.39,0:24:06.49,normal_Wed,,0,0,0,,Its over...
+Dialogue: 0,0:24:07.26,0:24:09.96,normal_Wed,,0,0,0,,Wait
+Dialogue: 0,0:24:09.96,0:24:12.33,normal_Wed,,0,0,0,,This one is terrible
+Dialogue: 0,0:24:12.33,0:24:13.36,normal_Wed,,0,0,0,,I'm so sorry
+Dialogue: 0,0:24:13.36,0:24:16.13,normal_Wed,,0,0,0,,I don't think that way at all!
+Dialogue: 0,0:24:17.04,0:24:19.08,wipe_Wed_old,,0,0,0,,Their friendship has deepened
+Dialogue: 0,0:24:17.97,0:24:20.44,normal_Wed,,0,0,0,,I'm really sorry. I'm really sorry
+Dialogue: 0,0:24:22.07,0:24:25.68,normal_Wed,,0,0,0,,I don't want this either
+Dialogue: 0,0:24:28.05,0:24:32.10,normal_Wed,,0,0,0,,Why is it still 1 2 3 4
+Dialogue: 0,0:24:32.10,0:24:35.19,normal_Wed,,0,0,0,,Next on Music Theory Day is...
+Dialogue: 0,0:24:35.19,0:24:42.66,normal_Wed,,0,0,0,,{\fnFZYunDongHeiS-H-GB\fs55\c&H17FFFA&\bord0\b0\shad5\4c&H000000&} \N{\r}No one will notice different lyrics to a famous song played as BGM
+Dialogue: 0,0:24:43.36,0:24:47.60,normal_Wed,,0,0,0,,The investigation was conducted at this coffee shop
+Dialogue: 0,0:24:48.36,0:24:50.46,normal_Wed,,0,0,0,,First of all, the first song is
+Dialogue: 0,0:24:54.50,0:24:57.42,normal_Wed,,0,0,0,,TUBE's "Ah-Summer Vacation"
+Dialogue: 0,0:24:55.38,0:24:57.42,wipe_Wed_old,,0,0,0,,Is the chorus changed?
+Dialogue: 0,0:24:57.42,0:24:59.72,normal_Wed,,0,0,0,,To change the lyrics of this song
+Dialogue: 0,0:25:00.84,0:25:05.92,normal_Wed,,0,0,0,,The singer will be BETU, who has a similar appearance and voice
+Dialogue: 0,0:25:05.92,0:25:07.92,wipe_Wed_old,,0,0,0,,It'd have to be, otherwise it will be exposed immediately
+Dialogue: 0,0:25:11.50,0:25:14.10,wipe_Wed_old,,0,0,0,,Fujimoto is very sensitive
+Dialogue: 0,0:25:07.10,0:25:11.50,normal_Wed,,0,0,0,,These targets were called out on separate days for fake interviews
+Dialogue: 0,0:25:13.76,0:25:20.12,normal_Wed,,0,0,0,,The song is played while the person waits for the interviewer
+Dialogue: 0,0:25:29.38,0:25:31.34,wipe_Wed_old,,0,0,0,,Chris may also realize
+Dialogue: 0,0:25:31.34,0:25:33.34,wipe_Wed_old,,0,0,0,,Chris knows a lot
+Dialogue: 0,0:25:33.34,0:25:34.96,wipe_Wed_old,,0,0,0,,After all, he loves ballad songs
+Dialogue: 0,0:25:27.18,0:25:31.40,normal_Wed,,0,0,0,,Can they detect that the lyrics have been changed or not?
+Dialogue: 0,0:25:33.74,0:25:37.01,special_Wed_4_X,,0,0,0,,{\fn方正韵动特黑简体\fs60\pos(711,870)\c&HFFFFFF&\3c&HB82E39&}First, the normal lyrics
+Dialogue: 0,0:25:37.01,0:25:44.25,normal_Wed,,0,0,0,,I saw you through the bamboo curtain in Shonan
+Dialogue: 0,0:25:44.25,0:25:51.76,normal_Wed,,0,0,0,,Everyone turns and has you in their eyes, feel so good
+Dialogue: 0,0:25:46.14,0:25:49.28,wipe_Wed_old,,0,0,0,,He's listening very carefully. Is it okay?
+Dialogue: 0,0:25:52.52,0:25:54.38,normal_Wed,,0,0,0,,Because the vocals are very close
+Dialogue: 0,0:25:54.38,0:25:59.38,normal_Wed,,0,0,0,,The three people have not yet discovered that it is someone else who is singing
+Dialogue: 0,0:26:01.24,0:26:05.62,normal_Wed,,0,0,0,,From here, the lyrics will start to change slightly
+Dialogue: 0,0:26:06.20,0:26:12.66,normal_Wed,,0,0,0,,First of all, "Ah-summer vacation" of Level 1 chorus will become slightly different lyrics
+Dialogue: 0,0:26:09.92,0:26:10.56,wipe_Wed_old,,0,0,0,,Change here?
+Dialogue: 0,0:26:10.56,0:26:12.06,wipe_Wed_old,,0,0,0,,They'll be found out, right?
+Dialogue: 0,0:26:14.46,0:26:16.02,wipe_Wed_old,,0,0,0,,Dangerous to do it here
+Dialogue: 0,0:26:13.98,0:26:15.10,normal_Wed,,0,0,0,,What will change?
+Dialogue: 0,0:26:20.62,0:26:27.10,normal_Wed,,0,0,0,,Ah {\c&H0203FD&}Love summer
+Dialogue: 0,0:26:25.98,0:26:27.06,wipe_Wed_old,,0,0,0,,I see
+Dialogue: 0,0:26:27.06,0:26:28.32,wipe_Wed_old,,0,0,0,,It's like this
+Dialogue: 0,0:26:30.32,0:26:34.12,normal_Wed,,0,0,0,,After all, it was a very subtle change that all three ignored
+Dialogue: 0,0:26:35.68,0:26:37.84,normal_Wed,,0,0,0,,Next is Level 2
+Dialogue: 0,0:26:38.50,0:26:42.48,normal_Wed,,0,0,0,,The second verse has a summer feel, but the content is completely different
+Dialogue: 0,0:26:42.85,0:26:49.75,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}The unicorn will undergo a test of courage at night
+Dialogue: 0,0:26:42.48,0:26:49.75,normal_Wed,,0,0,0,,Night falls, yukata and fireworks
+Dialogue: 0,0:26:49.75,0:26:57.13,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}There are still swimsuits on the beach and swarms of surfers.
+Dialogue: 0,0:26:49.75,0:26:57.13,normal_Wed,,0,0,0,,I can't see through your eyes, time goes by
+Dialogue: 0,0:26:57.13,0:27:03.80,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}Chinese cold noodles or runny vegetarian noodles
+Dialogue: 0,0:26:57.13,0:27:03.80,normal_Wed,,0,0,0,,The back keeps shaking as if to tell something
+Dialogue: 0,0:27:03.06,0:27:06.06,wipe_Wed_old,,0,0,0,,Just continuous summer vocabulary
+Dialogue: 0,0:27:03.80,0:27:11.61,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}Five-person family, a watermelon is not enough to eat
+Dialogue: 0,0:27:03.80,0:27:11.61,normal_Wed,,0,0,0,,Glistening lipstick, wet and writhing, I've got you
+Dialogue: 0,0:27:11.61,0:27:18.58,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}The smoothie that was eaten at the festival
+Dialogue: 0,0:27:11.61,0:27:18.58,normal_Wed,,0,0,0,,The tears buried in the sand are good to forget
+Dialogue: 0,0:27:13.68,0:27:15.41,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(474,532)}Whose cover is this?
+Dialogue: 0,0:27:16.41,0:27:18.58,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(720,660)}Who's cover?
+Dialogue: 0,0:27:16.64,0:27:17.48,wipe_Wed_old,,0,0,0,,So quick
+Dialogue: 0,0:27:17.48,0:27:18.38,wipe_Wed_old,,0,0,0,,Impressive
+Dialogue: 0,0:27:18.38,0:27:19.14,wipe_Wed_old,,0,0,0,,Really!
+Dialogue: 0,0:27:18.58,0:27:27.29,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}The fireflies are so beautiful.
+Dialogue: 0,0:27:18.58,0:27:27.29,normal_Wed,,0,0,0,,Hesitation is gone and the bellworm are crying
+Dialogue: 0,0:27:27.88,0:27:32.66,normal_Wed,,0,0,0,,Chris realizes
+Dialogue: 0,0:27:32.66,0:27:36.62,normal_Wed,,0,0,0,,However, the remaining two do not react
+Dialogue: 0,0:27:37.50,0:27:43.72,normal_Wed,,0,0,0,,The next Level 3 lyrics all become winter
+Dialogue: 0,0:27:44.26,0:27:46.32,wipe_Wed_old,,0,0,0,,This will definitely be noticed, right?
+Dialogue: 0,0:27:48.48,0:27:56.45,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}Winter Love, is the snow going to melt?
+Dialogue: 0,0:27:48.48,0:27:56.45,normal_Wed,,0,0,0,,Hold me tight, isn't it a dream? Such a beautiful meeting
+Dialogue: 0,0:27:56.45,0:28:03.43,special_Wed_5_X,,0,0,0,,{\c&H0000D3&\pos(720,810)}M{\2c&H0000FF&}y love will even melt the ski slopes
+Dialogue: 0,0:27:56.45,0:28:03.43,normal_Wed,,0,0,0,,Every summer I fall in love
+Dialogue: 0,0:28:00.19,0:28:03.43,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(445.5,678)}Doesn't work, it not Maeda's voice, i'm not feeling it
+Dialogue: 0,0:28:03.43,0:28:10.60,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}Pink snow, Lovers are Santa Claus and hearts are dyed white
+Dialogue: 0,0:28:03.43,0:28:10.60,normal_Wed,,0,0,0,,It's all right to hold me in your hot skin
+Dialogue: 0,0:28:10.60,0:28:14.10,special_Wed_4_X,,0,0,0,,{\pos(720,800)\c&H0000D3&}Ah, New Year's Day
+Dialogue: 0,0:28:10.60,0:28:14.10,normal_Wed,,0,0,0,,Ah, summer vacation
+Dialogue: 0,0:28:16.52,0:28:18.36,wipe_Wed_old,,0,0,0,,Fujimoto did not react at all
+Dialogue: 0,0:28:16.17,0:28:20.04,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(720,680)}This is a spoof version, right?
+Dialogue: 0,0:28:20.04,0:28:23.68,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(720,680)}What New Year's Day? Don't be ridiculous!
+Dialogue: 0,0:28:14.10,0:28:23.68,special_Wed_4_X,,0,0,0,,{\c&H0000D3&\pos(720,816)}Uncle will give you a red packet, baby
+Dialogue: 0,0:28:14.10,0:28:23.68,normal_Wed,,0,0,0,,Some tired of swimming, chest cool baby
+Dialogue: 0,0:28:24.54,0:28:26.88,normal_Wed,,0,0,0,,And so we reveal the truth
+Dialogue: 0,0:28:28.29,0:28:30.35,normal_Wed,,0,0,0,,We are from Wednesday Downtown
+Dialogue: 0,0:28:30.35,0:28:31.99,normal_Wed,,0,0,0,,What did you put in this?
+Dialogue: 0,0:28:31.99,0:28:33.19,normal_Wed,,0,0,0,,Didn't put anything in it!
+Dialogue: 0,0:28:33.19,0:28:35.96,normal_Wed,,0,0,0,,Why suspect such a thing
+Dialogue: 0,0:28:35.96,0:28:39.13,normal_Wed,,0,0,0,,How could I not notice it?
+Dialogue: 0,0:28:39.13,0:28:42.17,normal_Wed,,0,0,0,,I know "Ah-summer vacation" ah
+Dialogue: 0,0:28:42.17,0:28:44.13,normal_Wed,,0,0,0,,I feel sorry for Maeda
+Dialogue: 0,0:28:44.68,0:28:49.37,normal_Wed,,0,0,0,,Then, the two who didn't respond are also informed
+Dialogue: 0,0:28:56.28,0:29:01.18,normal_Wed,,0,0,0,,It's getting cold. When did it become winter?
+Dialogue: 0,0:29:01.92,0:29:05.06,normal_Wed,,0,0,0,,Sure enough, didn't notice at all
+Dialogue: 0,0:29:07.29,0:29:09.59,normal_Wed,,0,0,0,,But Fujimoto...
+Dialogue: 0,0:29:09.59,0:29:12.20,normal_Wed,,0,0,0,,I noticed it!
+Dialogue: 0,0:29:12.20,0:29:16.80,normal_Wed,,0,0,0,,But I just thought a funny cover version came out
+Dialogue: 0,0:29:17.57,0:29:20.54,normal_Wed,,0,0,0,,I didn't not know if it was the original singer or not
+Dialogue: 0,0:29:20.54,0:29:24.17,normal_Wed,,0,0,0,,Can you not do this sort of unexpected thing, please?
+Dialogue: 0,0:29:22.52,0:29:23.44,wipe_Wed_old,,0,0,0,,Indeed
+Dialogue: 0,0:29:24.62,0:29:31.00,normal_Wed,,0,0,0,,It's true that if you change the meaning of the lyrics completely, someone will notice
+Dialogue: 0,0:29:31.00,0:29:34.48,normal_Wed,,0,0,0,,Next we try another song
+Dialogue: 0,0:29:34.48,0:29:37.48,normal_Wed,,0,0,0,,Eiaki Tokunaga's "Radio on the verge of breaking"
+Dialogue: 0,0:29:37.92,0:29:39.08,normal_Wed,,0,0,0,,The lyrics will be written by...
+Dialogue: 0,0:29:43.08,0:29:43.66,wipe_Wed_old,,0,0,0,,Why?
+Dialogue: 0,0:29:43.66,0:29:47.70,normal_Wed,,0,0,0,,Hollywood Zakoshi
+Dialogue: 0,0:29:48.28,0:29:50.30,normal_Wed,,0,0,0,,The targets are these three
+Dialogue: 0,0:29:51.68,0:29:52.34,wipe_Wed_old,,0,0,0,,Ito
+Dialogue: 0,0:29:51.24,0:29:52.02,normal_Wed,,0,0,0,,What will be the result?
+Dialogue: 0,0:29:55.84,0:29:57.10,wipe_Wed_old,,0,0,0,,There are many imitation artists
+Dialogue: 0,0:29:59.54,0:30:02.85,normal_Wed,,0,0,0,,HanmaKanma
+Dialogue: 0,0:30:04.48,0:30:06.22,wipe_Wed_old,,0,0,0,,What is this?
+Dialogue: 0,0:30:02.85,0:30:07.02,normal_Wed,,0,0,0,,HanmaKanmaHanmaKanma
+Dialogue: 0,0:30:11.69,0:30:14.16,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\pos(736.5,790)}HanmaKanma? Whose version is this?
+Dialogue: 0,0:30:07.02,0:30:16.39,normal_Wed,,0,0,0,,HanmaKanmaHanmaKanma
+Dialogue: 0,0:30:17.82,0:30:19.18,wipe_Wed_old,,0,0,0,,What does it hope to convey?
+Dialogue: 0,0:30:21.22,0:30:22.94,wipe_Wed_old,,0,0,0,,What's the meaning?
+Dialogue: 0,0:30:24.50,0:30:26.10,normal_Wed,,0,0,0,,Is this pirate radio?
+Dialogue: 0,0:30:40.12,0:30:43.72,normal_Wed,,0,0,0,,After all, there are many covers of Tokunaga's works
+Dialogue: 0,0:30:43.72,0:30:47.32,normal_Wed,,0,0,0,,Is there such a version?
+Dialogue: 0,0:30:49.33,0:30:51.93,normal_Wed,,0,0,0,,HanmaKanma version?
+Dialogue: 0,0:30:56.47,0:30:59.17,normal_Wed,,0,0,0,,Always singing HanmaKanma
+Dialogue: 0,0:31:00.54,0:31:06.98,normal_Wed,,0,0,0,,The result is that HanmaKanma was exposed instantly
+Dialogue: 0,0:31:08.35,0:31:11.08,normal_Wed,,0,0,0,,{\fn方正韵动特黑简体\fs55\c&H17FFFA&\bord0\b0\shad3\4c&H000000&}\N{\r}Your singing sucks if you don't have teeth
+Dialogue: 0,0:31:11.72,0:31:15.69,normal_Wed,,0,0,0,,We go out into the street and talk to people who have no teeth
+Dialogue: 0,0:31:15.69,0:31:16.44,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:31:17.92,0:31:20.39,normal_Wed,,0,0,0,,Excuse me, we are TBS
+Dialogue: 0,0:31:20.39,0:31:21.66,normal_Wed,,0,0,0,,Seriously TBS? \N-Yes
+Dialogue: 0,0:31:21.66,0:31:24.33,normal_Wed,,0,0,0,,Any proof?
+Dialogue: 0,0:31:23.82,0:31:24.89,wipe_Wed_old,,0,0,0,,A wise man
+Dialogue: 0,0:31:24.89,0:31:26.92,normal_Wed,,0,0,0,,"It's okay to sing a song"
+Dialogue: 0,0:31:26.92,0:31:28.37,normal_Wed,,0,0,0,,We will provide these participants, who are willing to open up their hearts
+Dialogue: 0,0:31:29.53,0:31:32.03,normal_Wed,,0,0,0,,With the opportunity to join a toothless karaoke contest
+Dialogue: 0,0:31:33.12,0:31:35.25,normal_Wed,,0,0,0,,First of all, the first person without teeth is
+Dialogue: 0,0:31:36.47,0:31:39.91,normal_Wed,,0,0,0,,I'm Fumio Shima, 67 years old
+Dialogue: 0,0:31:39.36,0:31:40.42,wipe_Wed_old,,0,0,0,,Sloppy speech
+Dialogue: 0,0:31:39.91,0:31:42.08,normal_Wed,,0,0,0,,I have only 2 teeth left
+Dialogue: 0,0:31:42.08,0:31:43.15,normal_Wed,,0,0,0,,Thank you for having me
+Dialogue: 0,0:31:44.60,0:31:46.12,normal_Wed,,0,0,0,,Participant No. 1
+Dialogue: 0,0:31:46.77,0:31:50.58,normal_Wed,,0,0,0,,Shima Fumio, who has 0 teeth on top and just 2 on the bottom
+Dialogue: 0,0:31:50.29,0:31:51.82,wipe_Wed_old,,0,0,0,,A nice close-up
+Dialogue: 0,0:31:51.82,0:31:57.06,special_Wed_3_3,,0,0,0,,{\pos(42,534.667)}{\frz-90\pos(100,100)\fad(300,00)}Q. What is the reason for the loss of the teeth?
+Dialogue: 0,0:31:53.66,0:31:57.23,normal_Wed,,0,0,0,,Mostly because of fighting and tooth decay
+Dialogue: 0,0:31:57.23,0:31:59.50,normal_Wed,,0,0,0,,A frivolous and wasted youth
+Dialogue: 0,0:31:59.50,0:32:02.37,normal_Wed,,0,0,0,,Always a fight at the drop of a hat
+Dialogue: 0,0:32:02.37,0:32:05.00,normal_Wed,,0,0,0,,Little things like bumping into you while walking
+Dialogue: 0,0:32:05.00,0:32:08.77,normal_Wed,,0,0,0,,And so on ... when I was young, I was like that
+Dialogue: 0,0:32:08.77,0:32:10.91,normal_Wed,,0,0,0,,It is indeed hard to understand what he's talking about
+Dialogue: 0,0:32:10.91,0:32:13.01,normal_Wed,,0,0,0,,Yes, if it's not subtitled...
+Dialogue: 0,0:32:13.01,0:32:14.61,normal_Wed,,0,0,0,,But the issue is still the singing \N -Yes
+Dialogue: 0,0:32:15.90,0:32:17.89,normal_Wed,,0,0,0,,His speech seems to be somewhat impaired
+Dialogue: 0,0:32:19.54,0:32:23.71,normal_Wed,,0,0,0,,Will it affect his singing?
+Dialogue: 0,0:32:28.49,0:32:31.23,normal_Wed,,0,0,0,,No need to write "2 teeth"
+Dialogue: 0,0:32:31.23,0:32:35.17,normal_Wed,,0,0,0,,Shima, who usually works in the warehouse as a sorting agent
+Dialogue: 0,0:32:36.16,0:32:40.33,normal_Wed,,0,0,0,,After work, he goes to a small bar he often visits to drink with the female owner
+Dialogue: 0,0:32:40.33,0:32:42.42,normal_Wed,,0,0,0,,This is his only pleasure
+Dialogue: 0,0:32:43.48,0:32:45.46,normal_Wed,,0,0,0,,So, please listen to this song brought to you by Shima
+Dialogue: 0,0:32:46.18,0:32:49.56,normal_Wed,,0,0,0,,"Love Can Can" by Misora Hiba
+Dialogue: 0,0:32:49.56,0:32:50.48,wipe_Wed,,0,0,0,,Can he get the "Can" out?
+Dialogue: 0,0:32:51.01,0:33:02.59,Lyrics - 复制,,0,0,0,,{\blur4\fad(300,0)}The rain falls on my body
+Dialogue: 0,0:33:02.59,0:33:14.40,Lyrics - 复制,,0,0,0,,{\blur4}I'm not sure if I'm happy with the way things are going.
+Dialogue: 0,0:33:14.40,0:33:27.25,Lyrics - 复制,,0,0,0,,{\blur4}People are really sad, with a sad existence
+Dialogue: 0,0:33:27.25,0:33:39.26,Lyrics - 复制,,0,0,0,,Even so, the past still creeps up on me
+Dialogue: 0,0:33:39.26,0:33:51.88,Lyrics - 复制,,0,0,0,,{\blur4}Life is incredible!
+Dialogue: 0,0:33:44.02,0:33:45.00,wipe_Wed_old,,0,0,0,,Very good at singing
+Dialogue: 0,0:33:49.32,0:33:51.58,wipe_Wed_old,,0,0,0,,Very good, good singer
+Dialogue: 0,0:33:16.52,0:33:17.95,wipe_Wed_old,,0,0,0,,I can't believe they shot all of this
+Dialogue: 0,0:33:22.70,0:33:26.78,wipe_Wed_old,,0,0,0,,This show is the worst
+Dialogue: 0,0:33:26.78,0:33:27.96,wipe_Wed_old,,0,0,0,,Where does he chew?
+Dialogue: 0,0:33:53.40,0:33:55.55,normal_Wed,,0,0,0,,The singing is unexpectedly good
+Dialogue: 0,0:33:55.17,0:33:56.06,wipe_Wed_old,,0,0,0,,Accidental?
+Dialogue: 0,0:33:56.06,0:33:58.26,normal_Wed,,0,0,0,,How many points will be scored?
+Dialogue: 0,0:34:03.10,0:34:04.65,normal_Wed,,0,0,0,,Thought I could...
+Dialogue: 0,0:34:04.65,0:34:05.65,wipe_Wed_old,,0,0,0,,Can't understand what he's saying
+Dialogue: 0,0:34:07.40,0:34:11.63,normal_Wed,,0,0,0,,This time the scoring will be done with special mixed rules
+Dialogue: 0,0:34:11.63,0:34:13.12,wipe_Wed_old,,0,0,0,,What are the rules?
+Dialogue: 0,0:34:13.12,0:34:16.40,normal_Wed,,0,0,0,,Given that fewer teeth can be detrimental to singing
+Dialogue: 0,0:34:16.40,0:34:19.71,normal_Wed,,0,0,0,,The number of teeth will be subtracted from the karaoke score
+Dialogue: 0,0:34:19.71,0:34:22.61,normal_Wed,,0,0,0,,The final score will be determined with a toothless handicap
+Dialogue: 0,0:34:22.61,0:34:27.25,normal_Wed,,0,0,0,,Since Shima got 80 points in karaoke
+Dialogue: 0,0:34:27.25,0:34:30.73,normal_Wed,,0,0,0,,After subtracting the number of teeth
+Dialogue: 0,0:34:30.73,0:34:32.96,normal_Wed,,0,0,0,,His final score is 78
+Dialogue: 0,0:34:34.05,0:34:37.36,normal_Wed,,0,0,0,,Incidentally, the number of normal human teeth is 32
+Dialogue: 0,0:34:38.07,0:34:42.09,normal_Wed,,0,0,0,,In other words, even if a person with a full mouth gets 100 points for singing
+Dialogue: 0,0:34:42.09,0:34:44.03,normal_Wed,,0,0,0,,In the end, the most they can get is 68 points
+Dialogue: 0,0:34:44.03,0:34:44.68,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:34:44.68,0:34:45.86,normal_Wed,,0,0,0,,This makes it easy to understand
+Dialogue: 0,0:34:45.86,0:34:48.26,normal_Wed,,0,0,0,,It is not a question of whether it is good or not
+Dialogue: 0,0:34:48.26,0:34:51.56,normal_Wed,,0,0,0,,The No. 2 contestant in the Toothless Sing-Off is
+Dialogue: 0,0:34:51.56,0:34:54.54,normal_Wed,,0,0,0,,0 above, 4 below
+Dialogue: 0,0:34:54.54,0:35:00.14,normal_Wed,,0,0,0,,Tatsuo Ueno, who retired to work in a restaurant, aged 66
+Dialogue: 0,0:35:00.14,0:35:06.28,Lyrics - 复制,,0,0,0,,{\fad(300,0)\blur4}Even with teary eyes
+Dialogue: 0,0:35:06.28,0:35:11.09,Lyrics - 复制,,0,0,0,,{\blur4}You can't stop me
+Dialogue: 0,0:35:11.09,0:35:16.46,Lyrics - 复制,,0,0,0,,{\blur4}Nowadays, there are no more
+Dialogue: 0,0:35:16.46,0:35:21.13,Lyrics - 复制,,0,0,0,,{\blur4}Things that can be lost
+Dialogue: 0,0:35:21.13,0:35:26.00,Lyrics - 复制,,0,0,0,,{\blur4}Love is everything
+Dialogue: 0,0:35:26.00,0:35:30.64,Lyrics - 复制,,0,0,0,,{\blur4}Now I could swear
+Dialogue: 0,0:35:30.64,0:35:35.15,Lyrics - 复制,,0,0,0,,{\blur4}Saturated with love
+Dialogue: 0,0:35:35.15,0:35:40.55,Lyrics - 复制,,0,0,0,,{\blur4}So intense, so intense
+Dialogue: 0,0:35:12.89,0:35:14.72,wipe_Wed_old,,0,0,0,,The view from this side is normal
+Dialogue: 0,0:35:14.72,0:35:16.66,wipe_Wed_old,,0,0,0,,Only this side can you see the teeth
+Dialogue: 0,0:35:18.20,0:35:19.55,wipe_Wed_old,,0,0,0,,Not from this side
+Dialogue: 0,0:35:20.36,0:35:22.17,wipe_Wed_old,,0,0,0,,The tempo is great though, right?
+Dialogue: 0,0:35:41.74,0:35:44.69,normal_Wed,,0,0,0,,Ueno-san scored 90 points at karaoke
+Dialogue: 0,0:35:44.69,0:35:50.56,normal_Wed,,0,0,0,,After subtracting 4 points for 4 teeth, he gets a total of 86 points
+Dialogue: 0,0:35:52.50,0:35:55.15,normal_Wed,,0,0,0,,Next is contestant #3
+Dialogue: 0,0:35:55.15,0:35:57.25,normal_Wed,,0,0,0,,2 above, 4 below
+Dialogue: 0,0:35:57.25,0:36:01.61,normal_Wed,,0,0,0,,Nobuo Hata, who runs a small bar for a living, is 76 years old
+Dialogue: 0,0:35:57.24,0:35:58.24,wipe_Wed_old,,0,0,0,,What the hell!?
+Dialogue: 0,0:36:00.02,0:36:02.51,wipe_Wed_old,,0,0,0,,How could you leave it like that?
+Dialogue: 0,0:36:02.51,0:36:17.52,Lyrics - 复制,,0,0,0,,{\fad(300,0)\blur4}Men's Fountain Festival
+Dialogue: 0,0:36:17.52,0:36:24.99,Lyrics - 复制,,0,0,0,,{\blur4}Born to carry and believe
+Dialogue: 0,0:36:24.99,0:36:35.54,Lyrics - 复制,,0,0,0,,Celebrate, celebrate, celebrate the festival
+Dialogue: 0,0:36:35.54,0:36:40.68,Lyrics - 复制,,0,0,0,,{\blur4}The smell of the land is engraved in my heart
+Dialogue: 0,0:36:40.68,0:36:54.49,Lyrics - 复制,,0,0,0,,The young man's hands are an irreplaceable treasure
+Dialogue: 0,0:36:09.53,0:36:10.67,wipe_Wed_old,,0,0,0,,Also good at singing
+Dialogue: 0,0:36:11.22,0:36:13.34,wipe_Wed_old,,0,0,0,,The singing is also very good
+Dialogue: 0,0:36:14.78,0:36:15.58,wipe_Wed_old,,0,0,0,,Really good
+Dialogue: 0,0:36:18.36,0:36:19.44,wipe_Wed_old,,0,0,0,,Keep the camera away
+Dialogue: 0,0:36:22.76,0:36:24.99,wipe_Wed_old,,0,0,0,,It has nothing to do with teeth at all
+Dialogue: 0,0:36:27.20,0:36:29.77,wipe_Wed_old,,0,0,0,,This is great!
+Dialogue: 0,0:36:33.96,0:36:35.54,wipe_Wed_old,,0,0,0,,Can get the sounds out right
+Dialogue: 0,0:36:51.78,0:36:53.65,wipe_Wed_old,,0,0,0,,Don't need teeth!
+Dialogue: 0,0:36:56.96,0:36:58.08,normal_Wed,,0,0,0,,I'm happy
+Dialogue: 0,0:37:00.50,0:37:06.13,normal_Wed,,0,0,0,,Participating in this program has given me confidence
+Dialogue: 0,0:37:06.13,0:37:11.70,normal_Wed,,0,0,0,,The score for Sanaka Hata is 91 minus 6 for the number of teeth
+Dialogue: 0,0:37:12.25,0:37:13.50,normal_Wed,,0,0,0,,He receives 85 points
+Dialogue: 0,0:37:14.34,0:37:17.92,normal_Wed,,0,0,0,,The highest score so far
+Dialogue: 0,0:37:17.92,0:37:21.63,normal_Wed,,0,0,0,,But Ueno goes down a place because of the toothless handicap mechanism
+Dialogue: 0,0:37:21.63,0:37:23.18,normal_Wed,,0,0,0,,Unfortunately, he ranks 2nd
+Dialogue: 0,0:37:24.48,0:37:27.01,normal_Wed,,0,0,0,,Next is contestant #4
+Dialogue: 0,0:37:27.01,0:37:29.01,normal_Wed,,0,0,0,,0 above, 5 below
+Dialogue: 0,0:37:29.73,0:37:33.66,normal_Wed,,0,0,0,,Masao Kiyomizu, 72, who works as a security guard at the construction site
+Dialogue: 0,0:37:34.70,0:37:38.77,Lyrics - 复制,,0,0,0,,{\fad(300,0)\blur4}The neon lights of the streets are beautifully interlaced.
+Dialogue: 0,0:37:38.77,0:37:44.91,Lyrics - 复制,,0,0,0,,{\blur4}Yokohama Green light, Yokohama
+Dialogue: 0,0:37:39.49,0:37:41.14,wipe_Wed_old,,0,0,0,,A bit off
+Dialogue: 0,0:37:42.35,0:37:43.19,wipe_Wed_old,,0,0,0,,Open your ears!
+Dialogue: 0,0:37:45.88,0:37:50.09,normal_Wed,,0,0,0,,Unfortunately, the karaoke score was not as good as it could have been, with a total of 70 points
+Dialogue: 0,0:37:50.09,0:37:52.58,normal_Wed,,0,0,0,,And so, he's ranked in last place currently
+Dialogue: 0,0:37:52.32,0:37:53.73,wipe_Wed_old,,0,0,0,,It is very clear to hear
+Dialogue: 0,0:37:55.00,0:37:57.00,normal_Wed,,0,0,0,,Next is contestant number 5
+Dialogue: 0,0:37:57.52,0:38:00.03,normal_Wed,,0,0,0,,6 above, 0 below
+Dialogue: 0,0:38:00.03,0:38:03.53,normal_Wed,,0,0,0,,Akiha Masamune, who works at the construction site, 59 years old
+Dialogue: 0,0:38:03.53,0:38:07.73,Lyrics - 复制,,0,0,0,,Don't panic, bride Samba
+Dialogue: 0,0:38:07.73,0:38:11.17,Lyrics - 复制,,0,0,0,,{\blur4}Women are always mysterious
+Dialogue: 0,0:38:08.62,0:38:09.92,wipe_Wed_old,,0,0,0,,Good taste
+Dialogue: 0,0:38:12.01,0:38:15.53,normal_Wed,,0,0,0,,Akiba was the only contestant to select this style of music
+Dialogue: 0,0:38:15.53,0:38:18.28,normal_Wed,,0,0,0,,He scored 80 points
+Dialogue: 0,0:38:19.71,0:38:22.10,normal_Wed,,0,0,0,,Finally, the last toothless opponent
+Dialogue: 0,0:38:23.01,0:38:25.52,normal_Wed,,0,0,0,,Mamoru Kaneko 49 years old
+Dialogue: 0,0:38:26.29,0:38:27.07,wipe_Wed_old,,0,0,0,,He's young
+Dialogue: 0,0:38:27.07,0:38:28.66,normal_Wed,,0,0,0,,0 teeth
+Dialogue: 0,0:38:30.90,0:38:35.70,normal_Wed,,0,0,0,,He lost his teeth in his 40s
+Dialogue: 0,0:38:35.70,0:38:36.70,wipe_Wed_old,,0,0,0,,Only the gums are left
+Dialogue: 0,0:38:36.70,0:38:37.91,wipe_Wed_old,,0,0,0,,How come?
+Dialogue: 0,0:38:37.83,0:38:45.60,special_Wed_3_3,,0,0,0,,{\pos(42,534.667)}{\frz-90\pos(100,100)\fad(300,00)}Q. What is the reason for the loss of the teeth?
+Dialogue: 0,0:38:39.56,0:38:42.97,normal_Wed,,0,0,0,,Uh... why...
+Dialogue: 0,0:38:42.97,0:38:45.60,normal_Wed,,0,0,0,,Always fighting
+Dialogue: 0,0:38:45.42,0:38:46.28,wipe_Wed_old,,0,0,0,,A bunch of rebels
+Dialogue: 0,0:38:46.28,0:38:47.55,wipe_Wed_old,,0,0,0,,This led to broken teeth
+Dialogue: 0,0:38:45.77,0:38:58.05,special_Wed_3_3,,0,0,0,,{\pos(42,625.334)}{\frz-90\pos(100,100)\fad(300,00)}Q. Did fights cause all of the total loss?
+Dialogue: 0,0:38:49.87,0:38:53.74,normal_Wed,,0,0,0,,Apart from fighting
+Dialogue: 0,0:38:53.74,0:38:58.21,normal_Wed,,0,0,0,,Well, there was a little bit of abscess leakage...
+Dialogue: 0,0:38:58.21,0:39:03.69,special_Wed_3_3,,0,0,0,,{\pos(42,534.667)}{\frz-90\pos(100,100)\fad(300,00)}Q. Is there anything you can't eat?
+Dialogue: 0,0:38:58.65,0:39:01.35,normal_Wed,,0,0,0,,Something I can't eat...
+Dialogue: 0,0:39:01.35,0:39:03.69,normal_Wed,,0,0,0,,No
+Dialogue: 0,0:39:05.12,0:39:08.96,normal_Wed,,0,0,0,,Losing the first at 27
+Dialogue: 0,0:39:09.98,0:39:11.58,normal_Wed,,0,0,0,,The straw that broke the camel's back
+Dialogue: 0,0:39:11.58,0:39:13.93,normal_Wed,,0,0,0,,Surprisingly, it was down to soba
+Dialogue: 0,0:39:13.93,0:39:16.45,normal_Wed,,0,0,0,,Listen to this song brought to you by Kaneko, who doesn't even have a single tooth
+Dialogue: 0,0:39:17.19,0:39:18.42,normal_Wed,,0,0,0,,「SINGLE BED」
+Dialogue: 0,0:39:17.07,0:39:29.81,Lyrics - 复制,,0,0,0,,{\blur4}I can't even sing the popular songs of the day, so old-fashioned
+Dialogue: 0,0:39:29.81,0:39:42.09,Lyrics - 复制,,0,0,0,,{\blur4}It's been a year since I left you, trying to become a good man
+Dialogue: 0,0:39:42.09,0:39:53.17,Lyrics - 复制,,0,0,0,,{\blur4}But at this age, born with a naked heart
+Dialogue: 0,0:39:53.17,0:40:05.55,Lyrics - 复制,,0,0,0,,{\blur4}Even if you learn to dress up and change your car, the result remains the same.
+Dialogue: 0,0:40:05.55,0:40:18.53,Lyrics - 复制,,0,0,0,,{\blur4}Hugging dreams and your time in a single bed
+Dialogue: 0,0:40:18.53,0:40:29.97,Lyrics - 复制,,0,0,0,,{\blur4}The two people who used to laugh at each other because of boring little things
+Dialogue: 0,0:40:30.61,0:40:32.92,normal_Wed,,0,0,0,,How many points will he get?
+Dialogue: 0,0:40:35.24,0:40:39.16,normal_Wed,,0,0,0,,Well, I was nervous
+Dialogue: 0,0:40:39.16,0:40:44.48,normal_Wed,,0,0,0,,Kaneko comes in 4th place, and the final results are as shown
+Dialogue: 0,0:40:46.28,0:40:51.80,normal_Wed,,0,0,0,,{\\c&H1400E2&\3c&HFFFFFF&}\N {\c\3c}So, teeth have nothing to do with whether one can sing well or not
+Dialogue: 0,0:40:53.47,0:40:55.77,normal_Wed,,0,0,0,,It's hard to remember music ones
+Dialogue: 0,0:40:55.77,0:40:59.28,normal_Wed,,0,0,0,,After all, we prefer to see others being bullied
+Dialogue: 0,0:40:59.28,0:41:00.90,normal_Wed,,0,0,0,,Bullying is bad behavior
+Dialogue: 0,0:41:00.90,0:41:04.90,normal_Wed,,0,0,0,,When I drank with you once, Matsumoto, I remember your tone of voice being very firm
+Dialogue: 0,0:41:09.22,0:41:12.05,normal_Wed,,0,0,0,,The next theory is something that was proven 6 years ago
+Dialogue: 0,0:41:12.05,0:41:17.69,normal_Wed,,0,0,0,,No one can understand the chorus of SADS's "Forgetting the Air" the first time hearing it
+Dialogue: 0,0:41:17.69,0:41:18.41,normal_Wed,,0,0,0,,Do you two remember?
+Dialogue: 0,0:41:20.38,0:41:20.99,normal_Wed,,0,0,0,,Possibly...
+Dialogue: 0,0:41:20.99,0:41:23.16,normal_Wed,,0,0,0,,Can't understand what he's singing, right?  \N-Yes, yes, yes
+Dialogue: 0,0:41:23.16,0:41:25.39,normal_Wed,,0,0,0,,I remember this very well. \N -Really
+Dialogue: 0,0:41:25.98,0:41:30.86,normal_Wed,,0,0,0,,6 years ago, we sought to see if someone could understand it instantly
+Dialogue: 0,0:41:30.86,0:41:33.77,normal_Wed,,0,0,0,,At that time, the studio guests were invited to undertake the challenge
+Dialogue: 0,0:41:48.71,0:41:52.44,normal_Wed,,0,0,0,,Only understood the last part
+Dialogue: 0,0:41:52.44,0:41:56.66,normal_Wed,,0,0,0,,Isn't the last sentence "can you hear my voice?"
+Dialogue: 0,0:41:56.66,0:41:58.90,normal_Wed,,0,0,0,,At the end, right? I heard that one
+Dialogue: 0,0:41:59.89,0:42:02.35,normal_Wed,,0,0,0,,No one could understand it the first time
+Dialogue: 0,0:42:02.93,0:42:09.51,special_Wed_1_3,,0,0,0,,{\pos(682,757.333)\3c&H1400E2&\c&HFFFFFF&}Under the caramel-colored sky, I can hear the song
+Dialogue: 0,0:42:02.93,0:42:09.51,special_Wed_1_3,,0,0,0,,{\pos(578,821.333)\3c&H1400E2&\c&HFFFFFF&} Can you hear my voice
+Dialogue: 0,0:42:02.35,0:42:03.72,normal_Wed,,0,0,0,,Too difficult
+Dialogue: 0,0:42:03.72,0:42:06.54,normal_Wed,,0,0,0,,I'm calling it quits
+Dialogue: 0,0:42:07.48,0:42:09.26,normal_Wed,,0,0,0,,The correct answer is as follows
+Dialogue: 0,0:42:13.15,0:42:19.63,normal_Wed,,0,0,0,,Under the velvety sky, you can hear the song
+Dialogue: 0,0:42:19.63,0:42:25.60,normal_Wed,,0,0,0,,Avoiding bullshit nonsense, I can hear my voice
+Dialogue: 0,0:42:25.60,0:42:27.20,normal_Wed,,0,0,0,,Did he really sing this?
+Dialogue: 0,0:42:27.96,0:42:29.49,wipe_Wed,,0,0,0,,Bullshit nonsense
+Dialogue: 0,0:42:30.71,0:42:31.38,normal_Wed,,0,0,0,,This...
+Dialogue: 0,0:42:31.38,0:42:33.05,normal_Wed,,0,0,0,,Isn't it just bullshit?
+Dialogue: 0,0:42:34.98,0:42:36.83,normal_Wed,,0,0,0,,He really sings it like this
+Dialogue: 0,0:42:36.83,0:42:38.14,normal_Wed,,0,0,0,,Yes, yes
+Dialogue: 0,0:42:38.90,0:42:40.16,normal_Wed,,0,0,0,,I remember this one
+Dialogue: 0,0:42:40.16,0:42:41.34,normal_Wed,,0,0,0,,This theory was tested
+Dialogue: 0,0:42:41.34,0:42:44.30,normal_Wed,,0,0,0,,So lets verify another song
+Dialogue: 0,0:42:44.30,0:42:47.34,normal_Wed,,0,0,0,,This time, there is a bonus for you two
+Dialogue: 0,0:42:47.34,0:42:52.92,normal_Wed,,0,0,0,,If you guess correctly the first time, you will get 100 million yen
+Dialogue: 0,0:42:52.92,0:42:55.15,normal_Wed,,0,0,0,,It's only fair to be excited
+Dialogue: 0,0:42:55.15,0:42:57.09,normal_Wed,,0,0,0,,It's ridiculous to the extreme
+Dialogue: 0,0:42:57.09,0:42:59.69,normal_Wed,,0,0,0,,If it was 100,000 instead
+Dialogue: 0,0:42:59.69,0:43:01.25,normal_Wed,,0,0,0,,Totally uninteresting
+Dialogue: 0,0:43:01.25,0:43:03.81,normal_Wed,,0,0,0,,Then let's change it to 1 million
+Dialogue: 0,0:43:03.81,0:43:04.73,normal_Wed,,0,0,0,,It's okay, right?
+Dialogue: 0,0:43:04.73,0:43:08.36,normal_Wed,,0,0,0,,Do you think we will agree to that?
+Dialogue: 0,0:43:08.88,0:43:13.44,normal_Wed,,0,0,0,,So we found a song that surpasses "Forget the Sky"
+Dialogue: 0,0:43:13.44,0:43:15.50,normal_Wed,,0,0,0,,Can you guys tell what the lyrics are in one go?
+Dialogue: 0,0:43:18.10,0:43:22.30,normal_Wed,,0,0,0,,That overflowing with loneliness
+Dialogue: 0,0:43:22.30,0:43:25.02,normal_Wed,,0,0,0,,Memories of me in retrospect
+Dialogue: 0,0:43:25.02,0:43:28.25,normal_Wed,,0,0,0,,Repaint the field of view
+Dialogue: 0,0:43:38.06,0:43:38.96,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:43:41.80,0:43:43.81,normal_Wed,,0,0,0,,It ends "give it to him", right?
+Dialogue: 0,0:43:43.81,0:43:46.35,normal_Wed,,0,0,0,,That's it... the end is "give it to him"
+Dialogue: 0,0:43:46.35,0:43:48.41,normal_Wed,,0,0,0,,Is the song "Your Damn Tiger Teeth"
+Dialogue: 0,0:43:48.41,0:43:50.74,normal_Wed,,0,0,0,,"Give Him Your Damn Tiger Teeth"
+Dialogue: 0,0:43:50.74,0:43:53.23,normal_Wed,,0,0,0,,Get your tiger teeth
+Dialogue: 0,0:43:53.23,0:43:54.15,normal_Wed,,0,0,0,,And give it to him
+Dialogue: 0,0:43:54.15,0:43:56.20,normal_Wed,,0,0,0,,What kind of lyrics are these
+Dialogue: 0,0:43:56.20,0:43:57.91,normal_Wed,,0,0,0,,He didn't say "give him your tiger teeth"
+Dialogue: 0,0:43:57.91,0:43:59.96,normal_Wed,,0,0,0,,To the old man with missing teeth? \N -Yes, yes, yes
+Dialogue: 0,0:43:59.96,0:44:02.38,normal_Wed,,0,0,0,,The old man with missing teeth turned his head when he saw an old man with missing teeth
+Dialogue: 0,0:44:02.38,0:44:04.36,normal_Wed,,0,0,0,,"Give him your tiger teeth"
+Dialogue: 0,0:44:04.92,0:44:06.19,normal_Wed,,0,0,0,,Why is SADS singing this kind of song?
+Dialogue: 0,0:44:06.19,0:44:07.42,normal_Wed,,0,0,0,,It's a song written for Ueno Shopping Street
+Dialogue: 0,0:44:07.42,0:44:09.05,normal_Wed,,0,0,0,,That's not correct
+Dialogue: 0,0:44:09.05,0:44:10.66,normal_Wed,,0,0,0,,Let's hear it again \N-"Damn you"...
+Dialogue: 0,0:44:11.35,0:44:12.41,normal_Wed,,0,0,0,,Listen carefully once more
+Dialogue: 0,0:44:13.09,0:44:16.14,normal_Wed,,0,0,0,,Repaint the field of view
+Dialogue: 0,0:44:25.37,0:44:28.03,normal_Wed,,0,0,0,,Why did he have to keep saying tiger teeth
+Dialogue: 0,0:44:28.70,0:44:30.61,normal_Wed,,0,0,0,,I can't hear anything else
+Dialogue: 0,0:44:30.61,0:44:33.15,normal_Wed,,0,0,0,,"Be serious, dammit!", right?
+Dialogue: 0,0:44:33.15,0:44:34.66,normal_Wed,,0,0,0,,That sounds too weird
+Dialogue: 0,0:44:36.23,0:44:39.86,normal_Wed,,0,0,0,,According to you, the lyrics have always been very unreasonable
+Dialogue: 0,0:44:41.06,0:44:42.36,normal_Wed,,0,0,0,,This is his world view
+Dialogue: 0,0:44:42.36,0:44:44.23,normal_Wed,,0,0,0,,Yes...  \N-Let's announce the correct answer
+Dialogue: 0,0:44:44.23,0:44:45.36,normal_Wed,,0,0,0,,Please watch this
+Dialogue: 0,0:44:45.88,0:44:49.17,normal_Wed,,0,0,0,,Repaint the field of view
+Dialogue: 0,0:44:49.17,0:44:55.30,normal_Wed,,0,0,0,,Giving beauty to the feathers as if they were sharp blades
+Dialogue: 0,0:44:55.30,0:44:56.74,normal_Wed,,0,0,0,,So it's a sharp blade
+Dialogue: 0,0:44:56.74,0:44:57.79,normal_Wed,,0,0,0,,What a shame!
+Dialogue: 0,0:44:59.19,0:45:01.64,normal_Wed,,0,0,0,,Blade...  \N-Blade and Tiger
+Dialogue: 0,0:45:01.64,0:45:03.31,normal_Wed,,0,0,0,,No no no no...
+Dialogue: 0,0:45:03.31,0:45:07.21,normal_Wed,,0,0,0,,Although the world view is cool and unique, people can't understand
+Dialogue: 0,0:45:07.21,0:45:08.32,normal_Wed,,0,0,0,,So hard...
+Dialogue: 0,0:45:08.32,0:45:12.82,normal_Wed,,0,0,0,,After singing this, you'll forget how to sing "Workman", right?
+Dialogue: 0,0:45:13.06,0:46:14.75,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03\N
+Dialogue: 0,0:46:14.75,0:46:16.75,normal_Wed,,0,0,0,,
+

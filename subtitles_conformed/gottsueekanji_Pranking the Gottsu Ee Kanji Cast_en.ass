@@ -1,0 +1,233 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ダウンタウンのごっつええ感じ 1996.05.19 #183 [DivX505 640x480 46m57s]-cut-merged-1612046650802.avi
+Video File: ダウンタウンのごっつええ感じ 1996.05.19 #183 [DivX505 640x480 46m57s]-cut-merged-1612046650802.avi
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.000000
+Scroll Position: 158
+Active Line: 194
+Video Position: 15582
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Matsu,Arial,25,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Hamada,Arial,25,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: okamoto,Arial,25,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Okamoto caption,Arial,20,&H00FFFFFF,&H000000FF,&H00FF0000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: caption big,Arial,25,&H00FFFFFF,&H000000FF,&H00975D59,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: caption biggest,Arial,25,&H00AA5452,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: red box,Arial,20,&H00FFFFFF,&H000000FF,&H00362F88,&H00000000,-1,0,0,0,100,100,0,0,3,2,0,2,10,10,10,1
+Style: scroll,Arial,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,10,10,1
+Style: tag,Arial,23,&H96FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.85,0:00:53.93,scroll,,0,0,0,,{\move(1025,24,-1025,24,0,0)}Visit us for more Gaki no Tsukai - {\c&HC406C3&}www.GakiFiles.blogspot.com
+Dialogue: 0,0:00:37.25,0:09:17.07,tag,,0,0,0,,{\pos(544,31)}{\fad(1000,0)}GAKIFILES SUBS
+Dialogue: 0,0:00:07.19,0:00:08.62,Hamada,,0,0,0,,Well, Matsumoto-san.\N{\c&H0000FF&}-Yes.
+Dialogue: 0,0:00:08.72,0:00:12.06,Hamada,,0,0,0,,The last time, we tricked Imada with the Harisame soup.
+Dialogue: 0,0:00:12.06,0:00:14.29,Matsu,,0,0,0,,Yeah we did, that was...
+Dialogue: 0,0:00:15.33,0:00:17.43,Matsu,,0,0,0,,the summer 2 years ago.
+Dialogue: 0,0:00:18.03,0:00:22.00,Hamada,,0,0,0,,He was so happy he was going to buy a Ferrari.
+Dialogue: 0,0:00:22.03,0:00:24.67,Matsu,,0,0,0,,After he was kind of depressed.\N{\c&HFF0000&}-When he found out it was a prank.
+Dialogue: 0,0:00:25.10,0:00:27.54,Hamada,,0,0,0,,Well, it's been 2 years.
+Dialogue: 0,0:00:28.11,0:00:30.14,Matsu,,0,0,0,,Today, we'll be tricking everyone.
+Dialogue: 0,0:00:31.14,0:00:33.11,Hamada,,0,0,0,,Not only one.\N{\c&H0000FF&}-Yes, everyone.
+Dialogue: 0,0:00:33.85,0:00:34.88,Matsu,,0,0,0,,It's everyone.
+Dialogue: 0,0:00:35.45,0:00:36.72,Hamada,,0,0,0,,The prank.
+Dialogue: 0,0:00:36.92,0:00:38.88,Hamada,,0,0,0,,The person behind this is.
+Dialogue: 0,0:00:39.62,0:00:41.65,Hamada,,0,0,0,,Osaki Hiroshi from Yoshimoto Kogyo.
+Dialogue: 0,0:00:40.69,0:00:45.26,Okamoto caption,,0,0,0,,{\pos(177,317)}{\fad(1000,1000)}Trickster
+Dialogue: 0,0:00:40.69,0:00:45.26,Okamoto caption,,0,0,0,,{\pos(318,363)}{\fad(1000,1000)}Osaki Hiroshi - Producer
+Dialogue: 0,0:00:40.69,0:00:45.26,Okamoto caption,,0,0,0,,{\pos(421,411)}{\fad(1000,1000)}(Yoshimoto Kogyo)
+Dialogue: 0,0:00:41.65,0:00:46.76,okamoto,,0,0,0,,I'm not a trickster, I'm just doing what they told me to do.
+Dialogue: 0,0:00:47.26,0:00:49.73,Matsu,,0,0,0,,So you rank under Okamoto?\N{\c&H000000&}-Yes, I do.
+Dialogue: 0,0:00:51.03,0:00:52.96,okamoto,,0,0,0,,I'm just a peon.
+Dialogue: 0,0:00:54.00,0:00:57.07,Hamada,,0,0,0,,Anyway, we're going to be in the room together.
+Dialogue: 0,0:00:57.50,0:01:00.37,Hamada,,0,0,0,,Osaki will come and talk to us.
+Dialogue: 0,0:00:58.90,0:00:59.50,Matsu,,0,0,0,,He'll come out.
+Dialogue: 0,0:01:00.37,0:01:01.81,Matsu,,0,0,0,,Because it's rare to see him.\N{\c&HFF0000&}-Yes.
+Dialogue: 0,0:01:02.11,0:01:05.38,Hamada,,0,0,0,,He will ask to speak to us privately.
+Dialogue: 0,0:01:06.04,0:01:08.38,Hamada,,0,0,0,,The 3 of us will talk in the back.
+Dialogue: 0,0:01:08.81,0:01:10.25,Hamada,,0,0,0,,Then we start fighting.
+Dialogue: 0,0:01:11.98,0:01:16.32,Hamada,,0,0,0,,We can show you now, what will happen.
+Dialogue: 0,0:01:18.46,0:01:22.56,caption big,,0,0,0,,{\pos(323,395)}{\fad(500,500)}Fuji TV - 6th Dressing Room
+Dialogue: 0,0:01:23.63,0:01:27.37,caption biggest,,0,0,0,,{\pos(312,336)}{\fad(500,500)}Team Fight Members Waiting For The Rehearsal
+Dialogue: 0,0:01:26.23,0:01:28.73,Default,,0,0,0,,{\i1}I don't eat this stuff.
+Dialogue: 0,0:01:29.00,0:01:30.04,Default,,0,0,0,,{\i1}Isn't it weird.
+Dialogue: 0,0:01:29.67,0:01:33.74,caption biggest,,0,0,0,,{\pos(319,388)}{\fad(200,100)}Hamada Appears As Usual
+Dialogue: 0,0:01:38.68,0:01:41.85,caption biggest,,0,0,0,,{\pos(317,384)}{\fad(300,100)}5 Minutes Later Mr. Osaki Appears
+Dialogue: 0,0:01:39.34,0:01:41.55,Default,,0,0,0,,{\i1}Hello.
+Dialogue: 0,0:01:42.65,0:01:44.18,Hamada,,0,0,0,,We ate already.
+Dialogue: 0,0:01:44.18,0:01:46.95,Default,,0,0,0,,{\i1}Oh, we have sushi.
+Dialogue: 0,0:01:47.95,0:01:49.52,Default,,0,0,0,,{\i1}Let's eat.
+Dialogue: 0,0:01:49.59,0:01:50.76,Default,,0,0,0,,{\i1}I shall partake.
+Dialogue: 0,0:01:52.66,0:01:57.66,caption biggest,,0,0,0,,{\pos(410,362)}{\fad(500,100)}10 minutes Later Matsumoto
+Dialogue: 0,0:01:52.66,0:01:57.66,caption biggest,,0,0,0,,{\pos(410,385)}{\fad(500,100)}Appears and Looks Sleepy
+Dialogue: 0,0:01:52.72,0:01:53.99,Default,,0,0,0,,{\i1}Hello.
+Dialogue: 0,0:02:05.64,0:02:12.71,caption biggest,,0,0,0,,{\pos(318,391)}{\fad(200,100)}Osaki Starts The Prank
+Dialogue: 0,0:02:11.58,0:02:13.15,okamoto,,0,0,0,,Can I talk to you for a few minutes.
+Dialogue: 0,0:02:17.68,0:02:18.28,Hamada,,0,0,0,,What's going on?
+Dialogue: 0,0:02:23.62,0:02:27.09,caption biggest,,0,0,0,,{\pos(324,395)}{\fad(200,100)}The 3 Of Them Enter The Back Room
+Dialogue: 0,0:02:34.63,0:02:36.37,Default,,0,0,0,,Hey Okamoto!  Where's my oolong tea?
+Dialogue: 0,0:02:36.94,0:02:38.37,Default,,0,0,0,,Okamoto!\N-Yes!
+Dialogue: 0,0:02:40.14,0:02:40.81,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:02:42.84,0:02:44.74,Default,,0,0,0,,I told you about this before!
+Dialogue: 0,0:02:44.88,0:02:46.28,Default,,0,0,0,,Yes, I'm sorry.\N-I told you right?
+Dialogue: 0,0:02:46.48,0:02:50.82,Matsu,,0,0,0,,Hamada also said that he doesn't want to do it.
+Dialogue: 0,0:02:51.12,0:02:53.05,okamoto,,0,0,0,,Hamada didn't mention anything about it.
+Dialogue: 0,0:02:53.05,0:02:54.69,Hamada,,0,0,0,,I didn't say anything.
+Dialogue: 0,0:02:55.19,0:02:57.22,Matsu,,0,0,0,,What ever.
+Dialogue: 0,0:02:56.69,0:03:05.13,red box,,0,0,0,,{\pos(138,43)}Masterful Performance
+Dialogue: 0,0:02:58.56,0:03:01.29,okamoto,,0,0,0,,Don't have that kind of attitude.
+Dialogue: 0,0:03:02.29,0:03:03.26,okamoto,,0,0,0,,It's not like that...
+Dialogue: 0,0:03:03.26,0:03:06.36,Matsu,,0,0,0,,I doesn't matter, I just want to quit!
+Dialogue: 0,0:03:06.53,0:03:08.20,Hamada,,0,0,0,,Never mind, cut it out.
+Dialogue: 0,0:03:11.27,0:03:14.71,Matsu,,0,0,0,,Recently, Osaki explanations aren't making sense.
+Dialogue: 0,0:03:11.77,0:03:17.41,caption biggest,,0,0,0,,{\pos(318,379)}{\fad(200,100)}Why Is Imada Brushing His Teeth!?
+Dialogue: 0,0:03:14.81,0:03:17.04,okamoto,,0,0,0,,I'm not saying anything weird, it's normal.\N{\c&H0000FF&}-Not true.
+Dialogue: 0,0:03:17.11,0:03:19.08,Matsu,,0,0,0,,I don't like it.\N{\c&H000000&}-What?
+Dialogue: 0,0:03:18.58,0:03:21.58,red box,,0,0,0,,{\pos(140,42)}Masterful Performance
+Dialogue: 0,0:03:19.24,0:03:21.78,Matsu,,0,0,0,,It's hard to say, but it's different.
+Dialogue: 0,0:03:22.51,0:03:25.18,okamoto,,0,0,0,,Anyway, just sit down.\N{\c&H0000FF&}-Never mind.
+Dialogue: 0,0:03:25.25,0:03:26.18,okamoto,,0,0,0,,Sit down!
+Dialogue: 0,0:03:26.52,0:03:27.12,Matsu,,0,0,0,,What!
+Dialogue: 0,0:03:27.65,0:03:28.12,okamoto,,0,0,0,,What!
+Dialogue: 0,0:03:28.09,0:03:31.02,red box,,0,0,0,,{\pos(142,37)}Masterful Performance
+Dialogue: 0,0:03:28.22,0:03:29.92,Hamada,,0,0,0,,Just listen.
+Dialogue: 0,0:03:29.92,0:03:31.92,okamoto,,0,0,0,,Sit down!\N{\c&H0000FF&}-Am I the bad person?
+Dialogue: 0,0:03:32.19,0:03:33.89,Hamada,,0,0,0,,I didn't say who's bad.
+Dialogue: 0,0:03:31.96,0:03:36.80,caption biggest,,0,0,0,,{\pos(316,378)}{\fad(200,100)}A Heavy Atmosphere Fills The Dressing Room!!
+Dialogue: 0,0:03:34.56,0:03:36.46,Matsu,,0,0,0,,What!\N{\c&HFF0000&}-Anyway, just listen.
+Dialogue: 0,0:03:37.43,0:03:39.56,Matsu,,0,0,0,,I just don't want to do it!
+Dialogue: 0,0:03:39.56,0:03:41.57,Hamada,,0,0,0,,You can't just say that, you bastard!
+Dialogue: 0,0:03:38.36,0:03:47.61,red box,,0,0,0,,{\pos(142,45)}Masterful Performance
+Dialogue: 0,0:03:46.14,0:03:47.94,Matsu,,0,0,0,,It's really, never mind.
+Dialogue: 0,0:03:48.11,0:03:50.44,okamoto,,0,0,0,,Stop that attitude!\N{\c&H0000FF&}-What!
+Dialogue: 0,0:03:50.44,0:03:50.94,Matsu,,0,0,0,,What!
+Dialogue: 0,0:03:50.94,0:03:51.51,okamoto,,0,0,0,,What!
+Dialogue: 0,0:03:51.51,0:03:52.18,Matsu,,0,0,0,,What!
+Dialogue: 0,0:03:53.91,0:03:55.48,okamoto,,0,0,0,,It's not what, just sit down!
+Dialogue: 0,0:03:55.48,0:03:57.88,Matsu,,0,0,0,,It's doesn't matter!\N{\c&HFF0000&}-Just sit down!  Damn it!
+Dialogue: 0,0:03:58.18,0:03:59.42,Matsu,,0,0,0,,I don't want to!
+Dialogue: 0,0:03:59.62,0:04:00.92,okamoto,,0,0,0,,Stop that!  Stop!
+Dialogue: 0,0:04:01.05,0:04:01.95,Hamada,,0,0,0,,What asshole!
+Dialogue: 0,0:04:02.59,0:04:03.26,Matsu,,0,0,0,,What!
+Dialogue: 0,0:04:03.26,0:04:04.82,Matsu,,0,0,0,,What bastard!
+Dialogue: 0,0:04:06.02,0:04:07.33,okamoto,,0,0,0,,That's enough, OK.
+Dialogue: 0,0:04:07.96,0:04:10.13,okamoto,,0,0,0,,Stop.  What is that!
+Dialogue: 0,0:04:10.43,0:04:11.43,Hamada,,0,0,0,,What bastard!
+Dialogue: 0,0:04:11.43,0:04:12.33,Matsu,,0,0,0,,What!
+Dialogue: 0,0:04:17.70,0:04:18.84,Hamada,,0,0,0,,You bastard!
+Dialogue: 0,0:04:20.07,0:04:21.94,okamoto,,0,0,0,,OK, Hama-chan wins!
+Dialogue: 0,0:04:24.78,0:04:26.34,Matsu,,0,0,0,,No laughter at all!
+Dialogue: 0,0:04:26.95,0:04:29.08,Matsu,,0,0,0,,You're supposed to be laughing.
+Dialogue: 0,0:04:29.31,0:04:31.28,Default,,0,0,0,,Excuse me, but we can't laugh.
+Dialogue: 0,0:04:33.52,0:04:35.02,Default,,0,0,0,,Not a laughing matter.
+Dialogue: 0,0:04:48.97,0:04:50.97,Hamada,,0,0,0,,Sorry but we were fighting over this.
+Dialogue: 0,0:04:53.00,0:04:56.14,Matsu,,0,0,0,,We did it so many times, that's why I didn't want to sit on the horse.
+Dialogue: 0,0:04:57.08,0:04:58.74,Hamada,,0,0,0,,He said "sit down" so many times..
+Dialogue: 0,0:04:59.34,0:05:01.78,Matsu,,0,0,0,,He was saying it from 3 months ago.
+Dialogue: 0,0:05:03.28,0:05:05.98,Matsu,,0,0,0,,I was listening but Hamada wasn't.
+Dialogue: 0,0:05:07.42,0:05:09.22,Hamada,,0,0,0,,I wanted 3 people fighting.
+Dialogue: 0,0:05:11.59,0:05:13.69,Matsu,,0,0,0,,The look on Imada's face...
+Dialogue: 0,0:05:15.43,0:05:17.03,Matsu,,0,0,0,,it was terrible.
+Dialogue: 0,0:05:22.90,0:05:24.97,Matsu,,0,0,0,,In all these years, it's the first time seeing that face.
+Dialogue: 0,0:05:27.54,0:05:29.64,Default,,0,0,0,,I thought Osaki had a bloody jacket on!
+Dialogue: 0,0:05:31.51,0:05:32.84,Default,,0,0,0,,It's really blood, I thought.
+Dialogue: 0,0:05:34.55,0:05:37.35,Default,,0,0,0,,I was really shocked.
+Dialogue: 0,0:05:39.25,0:05:40.62,okamoto,,0,0,0,,I was going to change my pants too.
+Dialogue: 0,0:05:40.69,0:05:43.62,Default,,0,0,0,,I thought I heard someone say "my thumb is hurt so I'm losing".
+Dialogue: 0,0:05:44.39,0:05:45.62,Hamada,,0,0,0,,Stupid.
+Dialogue: 0,0:05:47.26,0:05:49.09,Hamada,,0,0,0,,Why does Imada have tears.
+Dialogue: 0,0:05:49.19,0:05:51.73,Matsu,,0,0,0,,Imada had such a terrible face.
+Dialogue: 0,0:05:53.13,0:05:54.73,Default,,0,0,0,,He has watery eyes.
+Dialogue: 0,0:05:55.60,0:05:56.20,Default,,0,0,0,,He's crying.
+Dialogue: 0,0:05:56.20,0:05:57.40,Matsu,,0,0,0,,Imada is crying.
+Dialogue: 0,0:06:00.81,0:06:02.61,Matsu,,0,0,0,,He's really crying!
+Dialogue: 0,0:06:05.68,0:06:06.91,Hamada,,0,0,0,,Why?
+Dialogue: 0,0:06:09.68,0:06:10.98,Default,,0,0,0,,He's crying!
+Dialogue: 0,0:06:11.62,0:06:13.12,Default,,0,0,0,,He's crying!
+Dialogue: 0,0:06:13.59,0:06:14.82,Hamada,,0,0,0,,Imada... Imada!
+Dialogue: 0,0:06:14.82,0:06:16.65,Hamada,,0,0,0,,Imada, it's a prank.  Prank!
+Dialogue: 0,0:06:17.86,0:06:19.09,Hamada,,0,0,0,,Imada, it's a prank!
+Dialogue: 0,0:06:19.79,0:06:21.06,Hamada,,0,0,0,,Got it?
+Dialogue: 0,0:06:23.73,0:06:25.06,Hamada,,0,0,0,,Imada, it's just a prank.
+Dialogue: 0,0:06:25.43,0:06:26.93,Hamada,,0,0,0,,It was perfect!
+Dialogue: 0,0:06:29.73,0:06:30.84,Hamada,,0,0,0,,Imada...
+Dialogue: 0,0:06:31.77,0:06:33.07,Hamada,,0,0,0,,Imada, it's just a prank.
+Dialogue: 0,0:06:38.08,0:06:39.81,Default,,0,0,0,,No, I understand his feelings.
+Dialogue: 0,0:06:40.88,0:06:42.08,Default,,0,0,0,,You're too mean.
+Dialogue: 0,0:06:43.01,0:06:44.32,Default,,0,0,0,,Didn't you go too far?
+Dialogue: 0,0:06:44.32,0:06:45.48,Default,,0,0,0,,Apologize.
+Dialogue: 0,0:06:45.68,0:06:47.29,Default,,0,0,0,,Hurry and apologize.
+Dialogue: 0,0:06:47.85,0:06:49.12,Hamada,,0,0,0,,I'm sorry Imada.
+Dialogue: 0,0:06:50.32,0:06:51.16,Matsu,,0,0,0,,We're sorry.
+Dialogue: 0,0:06:51.22,0:06:54.09,Hamada,,0,0,0,,We're the ones fighting, why do we have to apologize to him?
+Dialogue: 0,0:06:54.93,0:06:55.69,Default,,0,0,0,,You OK?
+Dialogue: 0,0:06:55.69,0:06:59.76,Matsu,,0,0,0,,Usually he would be way over there.
+Dialogue: 0,0:06:59.76,0:07:02.00,Hamada,,0,0,0,,When I saw him on the monitor,
+Dialogue: 0,0:07:02.10,0:07:05.74,Hamada,,0,0,0,,he was brushing his teeth to try and peek inside the room.
+Dialogue: 0,0:07:06.67,0:07:07.44,Hamada,,0,0,0,,That Imada.
+Dialogue: 0,0:07:09.37,0:07:10.68,Matsu,,0,0,0,,Hey Imada...
+Dialogue: 0,0:07:12.01,0:07:13.61,Matsu,,0,0,0,,everything is not perfect in life.
+Dialogue: 0,0:07:15.11,0:07:16.78,Matsu,,0,0,0,,This is taking too long.
+Dialogue: 0,0:07:18.58,0:07:19.55,Matsu,,0,0,0,,You're OK right?
+Dialogue: 0,0:07:21.32,0:07:23.02,Default,,0,0,0,,I really thought Gottsu ee Kanji was finished.
+Dialogue: 0,0:07:24.49,0:07:26.06,Default,,0,0,0,,I thought, "I'll just go home"
+Dialogue: 0,0:07:26.06,0:07:27.39,Default,,0,0,0,,Like, what now.
+Dialogue: 0,0:07:27.39,0:07:29.36,Hamada,,0,0,0,,The show is over?\N{\c&HFFFFFF&\3c&H000000&}-It's over.
+Dialogue: 0,0:07:29.36,0:07:30.53,Default,,0,0,0,,What now?
+Dialogue: 0,0:07:34.67,0:07:37.87,Matsu,,0,0,0,,You guys didn't even notice it was sugar glass?\N{\c&HFFFFFF&\3c&H000000&}-No we didn't.
+Dialogue: 0,0:07:38.90,0:07:42.11,Default,,0,0,0,,3 guys with 3 different personalties all with hot tempers.
+Dialogue: 0,0:07:42.71,0:07:45.28,Default,,0,0,0,,Nobody could stop you.
+Dialogue: 0,0:07:45.74,0:07:49.21,Hamada,,0,0,0,,Let's ask Imada what he thought.
+Dialogue: 0,0:07:49.48,0:07:51.15,Default,,0,0,0,,He cried!
+Dialogue: 0,0:07:54.12,0:07:55.22,Default,,0,0,0,,Well...
+Dialogue: 0,0:07:56.12,0:07:57.69,Default,,0,0,0,,with everything put together...
+Dialogue: 0,0:07:57.99,0:07:59.76,Default,,0,0,0,,I guess it went really well.
+Dialogue: 0,0:08:01.53,0:08:02.86,Default,,0,0,0,,It made me cry.
+Dialogue: 0,0:08:02.86,0:08:03.76,Matsu,,0,0,0,,You sound nasally.
+Dialogue: 0,0:08:05.73,0:08:07.33,Default,,0,0,0,,But really...
+Dialogue: 0,0:08:07.47,0:08:08.47,Hamada,,0,0,0,,What did you think?
+Dialogue: 0,0:08:08.47,0:08:10.97,Default,,0,0,0,,I just thought, I had to stop you guys all by myself.
+Dialogue: 0,0:08:12.87,0:08:13.67,Default,,0,0,0,,Thank goodness though.
+Dialogue: 0,0:08:13.67,0:08:15.67,Default,,0,0,0,,Yeah, thank goodness.
+Dialogue: 0,0:08:20.83,0:08:23.27,Default,,0,0,0,,You guys were very good.
+Dialogue: 0,0:08:28.21,0:08:29.01,Default,,0,0,0,,That was scary.
+Dialogue: 0,0:08:30.44,0:08:32.41,Default,,0,0,0,,I just couldn't take it as a joke.
+Dialogue: 0,0:08:32.61,0:08:34.31,Default,,0,0,0,,The CCD is amazing.
+Dialogue: 0,0:08:34.75,0:08:38.69,Matsu,,0,0,0,,I thought when we broke through the glass, everyone was going to laugh.
+Dialogue: 0,0:08:38.75,0:08:42.09,Matsu,,0,0,0,,I saw Imada, I thought what kind of face is that.
+Dialogue: 0,0:08:43.06,0:08:44.89,okamoto,,0,0,0,,I kind of thought...
+Dialogue: 0,0:08:45.56,0:08:46.99,okamoto,,0,0,0,,our timing was off.\N{\c&H0000FF&}-Yeah.
+Dialogue: 0,0:08:48.66,0:08:51.50,Matsu,,0,0,0,,It was his idea from the start, evil person.
+Dialogue: 0,0:08:51.93,0:08:53.97,Matsu,,0,0,0,,Be strong!\N{\c&HFFFFFF&\3c&H000000&}-Machan team...
+Dialogue: 0,0:08:54.07,0:08:55.54,Hamada,,0,0,0,,Did you stop crying?
+Dialogue: 0,0:08:58.74,0:09:00.17,Default,,0,0,0,,Please don't mention that!
+Dialogue: 0,0:09:00.54,0:09:03.41,Hamada,,0,0,0,,We won't cut that part out.\N{\c&HFFFFFF&\3c&H000000&}-Please cut it out.
+Dialogue: 0,0:09:03.68,0:09:05.41,Hamada,,0,0,0,,He was bawling earlier.
+Dialogue: 0,0:09:05.58,0:09:07.01,Default,,0,0,0,,What he was crying?
+Dialogue: 0,0:09:07.01,0:09:08.58,Hamada,,0,0,0,,The tears were just flowing.
+Dialogue: 0,0:09:09.18,0:09:11.12,Default,,0,0,0,,Please don't air this.
+Dialogue: 0,0:09:11.12,0:09:12.39,Hamada,,0,0,0,,We wont cut it out.
+Dialogue: 0,0:09:12.39,0:09:13.65,Default,,0,0,0,,Please cut it out.
+Dialogue: 0,0:09:13.65,0:09:14.96,Default,,0,0,0,,I'll pay you to cut it out.
+Dialogue: 0,0:09:15.69,0:09:16.82,Default,,0,0,0,,I'll pay you.
+Dialogue: 0,0:09:16.89,0:09:18.49,Matsu,,0,0,0,,We have enough money.
+Dialogue: 0,0:09:18.49,0:09:21.30,Default,,0,0,0,,Such sarcasm.
+Dialogue: 0,0:09:21.23,0:09:23.23,Matsu,,0,0,0,,
+

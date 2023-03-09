@@ -1,0 +1,90 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 576
+PlayResY: 432
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Kendo Kanji.mp4
+Video File: Kendo Kanji.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Scroll Position: 48
+Active Line: 53
+Video Position: 7808
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: note,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: hit,Arial,28,&H000D00D5,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,35,1
+Style: GOTTSU,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1,2,10,10,10,1
+Style: tittle,Arial,30,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,110,100,0,0,1,0.8,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.10,note,,0,0,0,,{\pos(285,40)}Note: Every kanji in Japan have at least 2 ways of \Nbeing read. The kun-yomi and the on-yumi reading.
+Dialogue: 0,0:00:05.10,0:00:10.10,note,,0,0,0,,{\pos(285,40)}Usually Kun-yumi is used when the kanji stands alone and\Nusually on-yumi is used when it's together with another kanji.
+Dialogue: 0,0:00:10.10,0:00:16.10,note,,0,0,0,,{\pos(285,40)}Matsumoto is using the on-yumi reading of the kanji's,\Nso he's actually using the wrong reading and the words he says doesn't have any meaning.
+Dialogue: 0,0:00:00.69,0:00:04.60,tittle,,0,0,0,,{\fad(600,1000)\pos(232,307)\frz327.8}FENDING
+Dialogue: 0,0:00:07.37,0:00:10.77,GOTTSU,,0,0,0,,We're all ready.. you may start!
+Dialogue: 0,0:00:10.77,0:00:13.45,GOTTSU,,0,0,0,,Thank you very much.
+Dialogue: 0,0:00:18.47,0:00:20.15,hit,,0,0,0,,Face!
+Dialogue: 0,0:00:21.52,0:00:23.42,hit,,0,0,0,,Face!
+Dialogue: 0,0:00:24.60,0:00:26.42,hit,,0,0,0,,Torso!
+Dialogue: 0,0:00:27.84,0:00:28.34,hit,,0,0,0,,Face!
+Dialogue: 0,0:00:28.34,0:00:30.07,hit,,0,0,0,,Torso!
+Dialogue: 0,0:00:31.20,0:00:31.97,hit,,0,0,0,,Floor!
+Dialogue: 0,0:00:32.94,0:00:34.04,hit,,0,0,0,,Floor!
+Dialogue: 0,0:00:34.37,0:00:35.90,hit,,0,0,0,,Heaven!
+Dialogue: 0,0:00:36.50,0:00:38.27,hit,,0,0,0,,Heaven!
+Dialogue: 0,0:00:40.57,0:00:42.07,hit,,0,0,0,,Warm!
+Dialogue: 0,0:00:44.39,0:00:46.49,hit,,0,0,0,,Warm!
+Dialogue: 0,0:00:47.29,0:00:47.95,hit,,0,0,0,,Line.
+Dialogue: 0,0:00:49.02,0:00:49.72,hit,,0,0,0,,Line.
+Dialogue: 0,0:00:50.72,0:00:51.59,hit,,0,0,0,,Car!
+Dialogue: 0,0:00:52.62,0:00:54.65,hit,,0,0,0,,Car!
+Dialogue: 0,0:00:56.22,0:00:57.57,hit,,0,0,0,,Grandchild!
+Dialogue: 0,0:00:59.22,0:01:00.87,hit,,0,0,0,,Grandchild!
+Dialogue: 0,0:01:03.90,0:01:04.97,hit,,0,0,0,,Outside!
+Dialogue: 0,0:01:06.27,0:01:07.27,hit,,0,0,0,,Outside!
+Dialogue: 0,0:01:07.77,0:01:08.70,hit,,0,0,0,,Inside!
+Dialogue: 0,0:01:09.00,0:01:09.60,hit,,0,0,0,,Outside!
+Dialogue: 0,0:01:10.05,0:01:10.85,hit,,0,0,0,,Inside!
+Dialogue: 0,0:01:11.35,0:01:11.77,hit,,0,0,0,,Inside!
+Dialogue: 0,0:01:11.80,0:01:12.45,hit,,0,0,0,,Outside!
+Dialogue: 0,0:01:12.85,0:01:13.55,hit,,0,0,0,,Inside!
+Dialogue: 0,0:01:13.57,0:01:14.37,hit,,0,0,0,,Outside!
+Dialogue: 0,0:01:14.80,0:01:15.65,hit,,0,0,0,,Floor!
+Dialogue: 0,0:01:16.25,0:01:17.59,hit,,0,0,0,,Heaven!
+Dialogue: 0,0:01:21.49,0:01:23.09,hit,,0,0,0,,Dark!
+Dialogue: 0,0:01:24.45,0:01:26.15,hit,,0,0,0,,Dark!
+Dialogue: 0,0:01:27.30,0:01:29.22,hit,,0,0,0,,Bright!
+Dialogue: 0,0:01:30.22,0:01:31.20,hit,,0,0,0,,Bright!
+Dialogue: 0,0:01:32.92,0:01:34.64,hit,,0,0,0,,Heaven!
+Dialogue: 0,0:01:38.40,0:01:39.70,hit,,0,0,0,,Wax!
+Dialogue: 0,0:01:40.97,0:01:44.40,note,,0,0,0,,{\pos(285,40)}Using the kun-yomi. The\Non-yomi reading would be "shun"
+Dialogue: 0,0:01:40.97,0:01:42.30,hit,,0,0,0,,Spring!
+Dialogue: 0,0:01:45.47,0:01:46.80,hit,,0,0,0,,Thinking.
+Dialogue: 0,0:01:47.42,0:01:49.37,hit,,0,0,0,,Thinking.
+Dialogue: 0,0:01:49.57,0:01:54.05,GOTTSU,,0,0,0,,Thinking.
+Dialogue: 0,0:01:57.29,0:01:58.85,hit,,0,0,0,,Sweet!
+Dialogue: 0,0:02:01.70,0:02:02.95,hit,,0,0,0,,America?
+Dialogue: 0,0:02:02.57,0:02:03.22,GOTTSU,,0,0,0,,{\pos(288,425)}No!
+Dialogue: 0,0:02:04.02,0:02:04.60,hit,,0,0,0,,England?
+Dialogue: 0,0:02:04.59,0:02:05.22,GOTTSU,,0,0,0,,{\pos(288,425)}No!
+Dialogue: 0,0:02:07.87,0:02:08.57,hit,,0,0,0,,Italy?
+Dialogue: 0,0:02:08.50,0:02:09.07,GOTTSU,,0,0,0,,{\pos(288,425)}No!
+Dialogue: 0,0:02:09.37,0:02:10.54,hit,,0,0,0,,France?
+Dialogue: 0,0:02:10.12,0:02:10.67,GOTTSU,,0,0,0,,{\pos(288,425)}No!
+Dialogue: 0,0:02:11.17,0:02:12.40,note,,0,0,0,,{\pos(285,20)}Kun-yomi again. on-yomi would be "ka".
+Dialogue: 0,0:02:10.94,0:02:11.40,hit,,0,0,0,,What?
+Dialogue: 0,0:02:11.62,0:02:12.52,GOTTSU,,0,0,0,,{\pos(288,425)}Australia!
+Dialogue: 0,0:02:13.30,0:02:14.87,hit,,0,0,0,,Australia!
+Dialogue: 0,0:02:16.20,0:02:17.65,hit,,0,0,0,,Australia!
+Dialogue: 0,0:02:22.02,0:02:25.25,GOTTSU,,0,0,0,,Thank you very much!
+

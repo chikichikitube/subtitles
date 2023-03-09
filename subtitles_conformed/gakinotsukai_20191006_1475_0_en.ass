@@ -1,0 +1,437 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: #1475-2019.10.06-Bamiyan Eating Marathon (1).mp4
+Video File: #1475-2019.10.06-Bamiyan Eating Marathon (1).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.868519
+Scroll Position: 379
+Active Line: 402
+Video Position: 43247
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Narrator,Arial,64,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,6.6,2,10,10,10,1
+Style: Matsumoto,Arial,64,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Hamada,Arial,64,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Hosei,Arial,64,&H003E733F,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Endo,Arial,64,&H0000A5FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Tanaka,Arial,64,&H00FF00FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: tiny,Arial,12,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.48,0:00:02.62,Default,,0,0,0,,First time ever on Gaki no Tsukai ya Arahende:
+Dialogue: 0,0:00:02.62,0:00:04.47,Default,,0,0,0,,Bamiyan Marathon - 100,000 Yen Prize
+Dialogue: 0,0:00:04.47,0:00:08.11,Default,,0,0,0,,Tokyo 23 Ward Challenge!
+Dialogue: 0,0:00:12.69,0:00:15.52,Matsumoto,,0,0,0,,A series Hamada-san really hates
+Dialogue: 0,0:00:15.81,0:00:19.41,Default,,0,0,0,,He seems to be in a bad mood already
+Dialogue: 0,0:00:17.10,0:00:19.41,Hamada,,0,0,0,,That's not true, why would I hate this
+Dialogue: 0,0:00:19.94,0:00:22.68,Default,,0,0,0,,Well last time, it ended because of Hamada-san
+Dialogue: 0,0:00:22.68,0:00:24.34,Matsumoto,,0,0,0,,In the end it's always his fault
+Dialogue: 0,0:00:24.34,0:00:26.74,Hamada,,0,0,0,,I ended it just in time didn't I?
+Dialogue: 0,0:00:27.30,0:00:29.42,Hamada,,0,0,0,,I knew you guys couldn't eat any more
+Dialogue: 0,0:00:29.93,0:00:31.33,Hamada,,0,0,0,,So I ended there on purpose
+Dialogue: 0,0:00:30.73,0:00:31.75,Endo,,0,0,0,,No no
+Dialogue: 0,0:00:31.74,0:00:35.84,Default,,0,0,0,,If you guys clear all the stores, you can win the prize,
+Dialogue: 0,0:00:35.84,0:00:39.90,Matsumoto,,0,0,0,,So this time to help us- What was your name again?
+Dialogue: 0,0:00:39.90,0:00:43.46,Default,,0,0,0,,It's Fujiwara! You're kidding right?
+Dialogue: 0,0:00:43.46,0:00:47.08,Matsumoto,,0,0,0,,What was your duo's name again?
+Dialogue: 0,0:00:44.36,0:00:47.08,Default,,0,0,0,,LISCENCE! We're starting with that?
+Dialogue: 0,0:00:47.08,0:00:49.58,Default,,0,0,0,,I'm amazed you're letting me take part
+Dialogue: 0,0:00:51.00,0:00:53.86,Narrator,,0,0,0,,Established in 1984,
+Dialogue: 0,0:00:53.86,0:00:57.38,Narrator,,0,0,0,,With 333 stores across the country,
+Dialogue: 0,0:00:57.38,0:01:01.18,Narrator,,0,0,0,,Bamiyan, the Chinese Family Restaurant
+Dialogue: 0,0:01:03.44,0:01:12.42,Narrator,,0,0,0,,The rule; From a menu of 59, they choose 2 dishes at random to finish at each store
+Dialogue: 0,0:01:12.60,0:01:18.68,Narrator,,0,0,0,,Starting with Himonya,  they aim to clear 51 stores accross Tokyo's 23 wards
+Dialogue: 0,0:01:19.34,0:01:22.91,Default,,0,0,0,,So with 2 dishes per store, after 30 stores,
+Dialogue: 0,0:01:22.91,0:01:27.02,Default,,0,0,0,,You'll have eaten every dish here
+Dialogue: 0,0:01:24.88,0:01:26.71,Matsumoto,,0,0,0,,Yeah that's true
+Dialogue: 0,0:01:27.02,0:01:29.06,Default,,0,0,0,,But since this is about clearing all the stores,
+Dialogue: 0,0:01:29.18,0:01:31.55,Default,,0,0,0,,The rest is for part 2 next week
+Dialogue: 0,0:01:31.55,0:01:34.58,Hamada,,0,0,0,,That makes no sense!!
+Dialogue: 0,0:01:34.58,0:01:37.66,Matsumoto,,0,0,0,,So in the first part, we try everything?
+Dialogue: 0,0:01:37.66,0:01:39.36,Matsumoto,,0,0,0,,Then there's a part 2
+Dialogue: 0,0:01:38.88,0:01:42.54,Hamada,,0,0,0,,That makes no sense. If we eat everything it should end.
+Dialogue: 0,0:01:42.88,0:01:44.58,Matsumoto,,0,0,0,,All you do is complain
+Dialogue: 0,0:01:44.58,0:01:47.58,Default,,0,0,0,,Let's be more optimistic
+Dialogue: 0,0:01:48.62,0:01:52.94,Narrator,,0,0,0,,If they can clear 51 stores, there's a prize of 100,000yen
+Dialogue: 0,0:01:53.76,0:02:03.16,Narrator,,0,0,0,,However, if anyone gives up the challenge ends. The one who gives up has to pay for everything the group ate.
+Dialogue: 0,0:02:04.00,0:02:07.72,Narrator,,0,0,0,,First off, the choose the menu for Store #1 Himonya
+Dialogue: 0,0:02:12.52,0:02:15.52,Default,,0,0,0,,Red Mabo Tofu with homemade Chili Oil & Sichuan Pepper
+Dialogue: 0,0:02:20.40,0:02:22.82,Narrator,,0,0,0,,The second dish,
+Dialogue: 0,0:02:22.82,0:02:24.56,Default,,0,0,0,,And the second dish,
+Dialogue: 0,0:02:24.56,0:02:28.06,Matsumoto,,0,0,0,,Oh yeah, I like this, it's a good one I think
+Dialogue: 0,0:02:28.06,0:02:30.25,Default,,0,0,0,,"Bamiyan Ramen" - The signature
+Dialogue: 0,0:02:30.25,0:02:32.75,Default,,0,0,0,,Eat this one please, since it's their specialty
+Dialogue: 0,0:02:33.06,0:02:36.28,Narrator,,0,0,0,,They use cards to decide who takes a break
+Dialogue: 0,0:02:36.84,0:02:39.50,Default,,0,0,0,,Who will be the first person to rest?
+Dialogue: 0,0:02:40.46,0:02:41.76,Default,,0,0,0,,Oh, Tanaka-san!
+Dialogue: 0,0:02:41.76,0:02:45.38,Hosei,,0,0,0,,You take a lot of breaks don't you?
+Dialogue: 0,0:02:42.72,0:02:45.38,Hamada,,0,0,0,,You take a looot of breaks
+Dialogue: 0,0:02:45.38,0:02:46.73,Tanaka,,0,0,0,,Thank you very much!
+Dialogue: 0,0:02:47.18,0:02:51.80,Narrator,,0,0,0,,Tanaka gets to choose something from the side menu
+Dialogue: 0,0:02:53.94,0:02:55.84,Tanaka,,0,0,0,,I'll have....oolong tea.
+Dialogue: 0,0:02:56.67,0:02:58.56,Hosei,,0,0,0,,{\pos(525,916)}There it is.
+Dialogue: 0,0:02:57.27,0:02:58.56,Matsumoto,,0,0,0,,{\pos(935,1070)}A very Tanaka thing to say.
+Dialogue: 0,0:02:58.84,0:03:00.64,Hosei,,0,0,0,,There it is, Tanaka's Oolong tea
+Dialogue: 0,0:03:01.46,0:03:04.06,Narrator,,0,0,0,,The first store, Himonya
+Dialogue: 0,0:03:07.64,0:03:09.70,Narrator,,0,0,0,,They head straight to their table
+Dialogue: 0,0:03:14.37,0:03:18.04,Matsumoto,,0,0,0,,I have an improvement I want to suggest,
+Dialogue: 0,0:03:18.04,0:03:21.03,Matsumoto,,0,0,0,,Why do we gotta wear overalls?
+Dialogue: 0,0:03:21.03,0:03:24.77,Matsumoto,,0,0,0,,You're making us a lot right? It makes me really want a shit sometimes,
+Dialogue: 0,0:03:24.77,0:03:26.73,Matsumoto,,0,0,0,,But overalls, and pooping,
+Dialogue: 0,0:03:26.73,0:03:30.70,Matsumoto,,0,0,0,,It's like oil and water right?
+Dialogue: 0,0:03:28.06,0:03:30.70,Default,,0,0,0,,Yeah that's not good. They should give you jerseys
+Dialogue: 0,0:03:31.08,0:03:34.12,Hamada,,0,0,0,,At least the top and bottom are separate
+Dialogue: 0,0:03:34.77,0:03:36.57,Hosei,,0,0,0,,That other thing is good too,
+Dialogue: 0,0:03:35.52,0:03:37.21,Hosei,,0,0,0,,The thing babies wear
+Dialogue: 0,0:03:37.21,0:03:39.21,Default,,0,0,0,,A romper?
+Dialogue: 0,0:03:40.96,0:03:44.22,Default,,0,0,0,,Would you really want to wear a romper at this age?
+Dialogue: 0,0:03:44.66,0:03:47.69,Matsumoto,,0,0,0,,I'll wear a diaper with it
+Dialogue: 0,0:03:48.24,0:03:51.48,Default,,0,0,0,,And the bib as well
+Dialogue: 0,0:03:51.48,0:03:54.04,Default,,0,0,0,,I think our objective has changed
+Dialogue: 0,0:03:54.56,0:03:56.76,Default,,0,0,0,,Here's the bamiyan ramen.
+Dialogue: 0,0:03:59.90,0:04:02.10,Default,,0,0,0,,This is our Mabo Tofu with homemade chili oil
+Dialogue: 0,0:04:04.10,0:04:07.38,Default,,0,0,0,,Sprinkle this on as you'd like
+Dialogue: 0,0:04:07.38,0:04:10.06,Matsumoto,,0,0,0,,How many people is this for?
+Dialogue: 0,0:04:08.41,0:04:10.35,Default,,0,0,0,,This is for 5 people
+Dialogue: 0,0:04:10.06,0:04:12.16,Matsumoto,,0,0,0,,This is gonna be so easy
+Dialogue: 0,0:04:13.22,0:04:21.04,Narrator,,0,0,0,,The soup, noodles, char siu, and even the toppings are all carefully selected for this most popular dish, Bamiyan Ramen
+Dialogue: 0,0:04:22.66,0:04:30.04,Narrator,,0,0,0,,And notable for it's aroma, red Mabo Tofu with homemade Chili Oil & Sichuan Pepper
+Dialogue: 0,0:04:31.26,0:04:34.04,Default,,0,0,0,,It's gonna be more dishes like this
+Dialogue: 0,0:04:34.40,0:04:35.76,Endo,,0,0,0,,Bon appetit!
+Dialogue: 0,0:04:35.76,0:04:39.11,Default,,0,0,0,,How does it taste Matsumoto-san?
+Dialogue: 0,0:04:37.27,0:04:39.11,Matsumoto,,0,0,0,,It's simply delicious
+Dialogue: 0,0:04:40.88,0:04:41.56,Hosei,,0,0,0,,{\pos(1344,531)}-Tasty!
+Dialogue: 0,0:04:41.56,0:04:43.42,Matsumoto,,0,0,0,,Easy to slurp down
+Dialogue: 0,0:04:46.44,0:04:48.18,Default,,0,0,0,,
+Dialogue: 0,0:04:48.75,0:04:52.64,Endo,,0,0,0,,This Mabo Tofu is the real thing
+Dialogue: 0,0:04:52.64,0:04:55.16,Matsumoto,,0,0,0,,I can dig into this
+Dialogue: 0,0:04:55.16,0:04:56.62,Default,,0,0,0,,Very fast indeed
+Dialogue: 0,0:04:56.62,0:04:58.90,Matsumoto,,0,0,0,,Piece of cake
+Dialogue: 0,0:04:58.90,0:05:01.74,Hamada,,0,0,0,,Yeah for the first one, we're usually fine
+Dialogue: 0,0:05:01.74,0:05:05.54,Default,,0,0,0,,This is seriously tasty!
+Dialogue: 0,0:05:03.62,0:05:05.54,Endo,,0,0,0,,I think we can do this
+Dialogue: 0,0:05:06.24,0:05:09.94,Default,,0,0,0,,Is it easy? You guys ate that up
+Dialogue: 0,0:05:10.74,0:05:13.36,Matsumoto,,0,0,0,,We licked it up
+Dialogue: 0,0:05:12.01,0:05:13.49,Hosei,,0,0,0,,We licked it up
+Dialogue: 0,0:05:13.36,0:05:15.02,Default,,0,0,0,,Could you decide the menu please?
+Dialogue: 0,0:05:15.93,0:05:17.56,Default,,0,0,0,,Are you done Hamada-san?
+Dialogue: 0,0:05:17.56,0:05:20.88,Matsumoto,,0,0,0,,Listen to him
+Dialogue: 0,0:05:20.28,0:05:22.42,Hosei,,0,0,0,,I thought after eating this,
+Dialogue: 0,0:05:22.42,0:05:23.14,Hosei,,0,0,0,,{\s1}It's liggable
+Dialogue: 0,0:05:23.14,0:05:26.84,Hosei,,0,0,0,,Licka-miyan
+Dialogue: 0,0:05:26.84,0:05:28.20,Matsumoto,,0,0,0,,It's not Ba-miyan
+Dialogue: 0,0:05:28.20,0:05:29.36,Hosei,,0,0,0,,It ain't Bamiyan
+Dialogue: 0,0:05:29.36,0:05:32.70,Hosei,,0,0,0,,It's Licka-miyan
+Dialogue: 0,0:05:32.70,0:05:36.30,Hamada,,0,0,0,,"Crunchy and juicy - specialty Oroshi Ponzu Fried Chicken"
+Dialogue: 0,0:05:40.32,0:05:43.52,Default,,0,0,0,,Please discuss amongst yourselves
+Dialogue: 0,0:05:45.58,0:05:47.00,Narrator,,0,0,0,,And the second one?
+Dialogue: 0,0:05:49.32,0:05:50.32,Matsumoto,,0,0,0,,Oh!
+Dialogue: 0,0:05:52.58,0:05:54.38,Default,,0,0,0,,4 of them? (Shoronpo)  (also called Xiaolongbao)
+Dialogue: 0,0:05:54.38,0:05:57.76,Default,,0,0,0,,Which means, we might have 2 people rest
+Dialogue: 0,0:05:57.76,0:06:01.04,Matsumoto,,0,0,0,,What do you mean? 2 of us can take a break?
+Dialogue: 0,0:06:01.04,0:06:07.58,Default,,0,0,0,,(Crosstalk - Agreeing)
+Dialogue: 0,0:06:07.58,0:06:10.72,Narrator,,0,0,0,,And so, it was decided 2 people will rest
+Dialogue: 0,0:06:11.34,0:06:13.60,Matsumoto,,0,0,0,,The two people resting, ready steady boom
+Dialogue: 0,0:06:15.19,0:06:17.76,Default,,0,0,0,,Endo-san and Hamada-san
+Dialogue: 0,0:06:15.87,0:06:19.77,Hamada,,0,0,0,,You're disappointed?
+Dialogue: 0,0:06:20.57,0:06:22.60,Endo,,0,0,0,,I did want to eat
+Dialogue: 0,0:06:23.54,0:06:28.40,Narrator,,0,0,0,,Hamada and Endo's choices are fried chicken with potatoes and oolong tea.
+Dialogue: 0,0:06:30.16,0:06:35.38,Narrator,,0,0,0,,After paying, they head to the second store at Shimokitazawa South
+Dialogue: 0,0:06:36.00,0:06:39.88,Matsumoto,,0,0,0,,I wonder what Bamiyan means
+Dialogue: 0,0:06:39.88,0:06:42.78,Hosei,,0,0,0,,It's definitely a Chinese word
+Dialogue: 0,0:06:42.78,0:06:44.82,Hosei,,0,0,0,,Could we a get a hint
+Dialogue: 0,0:06:44.82,0:06:47.57,Hosei,,0,0,0,,We're all doing a quiz you see
+Dialogue: 0,0:06:47.57,0:06:51.48,Matsumoto,,0,0,0,,We're having a blast you see
+Dialogue: 0,0:06:51.48,0:06:54.58,Matsumoto,,0,0,0,,Is there a meaning? Really?
+Dialogue: 0,0:06:52.46,0:06:54.61,Default,,0,0,0,,There is, there is a meaning
+Dialogue: 0,0:06:54.61,0:06:56.48,Matsumoto,,0,0,0,,It's probably Chinese right?
+Dialogue: 0,0:06:56.84,0:06:59.02,Default,,0,0,0,,It's not
+Dialogue: 0,0:06:59.02,0:07:02.72,Default,,0,0,0,,The store is named after something that exists
+Dialogue: 0,0:07:02.72,0:07:04.94,Hosei,,0,0,0,,Ah, I got it
+Dialogue: 0,0:07:04.94,0:07:08.44,Hosei,,0,0,0,,I got it, since I got it I'll stop now
+Dialogue: 0,0:07:08.44,0:07:13.25,Matsumoto,,0,0,0,,You get it so much you don't even need to hear the answer right?
+Dialogue: 0,0:07:13.25,0:07:15.70,Hosei,,0,0,0,,Shall I tease it out?
+Dialogue: 0,0:07:16.96,0:07:19.42,Hosei,,0,0,0,,"Alrighty"
+Dialogue: 0,0:07:16.96,0:07:19.42,Default,,0,0,0,,{\pos(720,218.638)}TN: Not sure I got this part right
+Dialogue: 0,0:07:19.42,0:07:23.64,Matsumoto,,0,0,0,,Don't say "alrighty" asshole
+Dialogue: 0,0:07:23.64,0:07:26.96,Matsumoto,,0,0,0,,You're trying so hard to be an Idol. What the hell is "Alrighty"
+Dialogue: 0,0:07:28.58,0:07:30.66,Matsumoto,,0,0,0,,So disguting
+Dialogue: 0,0:07:32.04,0:07:34.50,Hosei,,0,0,0,,It's the name of a peach right?
+Dialogue: 0,0:07:34.50,0:07:37.64,Hosei,,0,0,0,,There's some peach they call Bamiyan in China right?
+Dialogue: 0,0:07:38.25,0:07:40.70,Default,,0,0,0,,Completely incorrect
+Dialogue: 0,0:07:40.70,0:07:44.73,Matsumoto,,0,0,0,,You should get a batsu game.
+Dialogue: 0,0:07:41.92,0:07:44.73,Hosei,,0,0,0,,Wait, why should I get a batsu game?!
+Dialogue: 0,0:07:44.73,0:07:47.08,Matsumoto,,0,0,0,,Mandatory
+Dialogue: 0,0:07:47.08,0:07:50.48,Default,,0,0,0,,It's the name of an old city on the Silk Road
+Dialogue: 0,0:07:47.08,0:07:50.48,Narrator,,0,0,0,,{\pos(720,147.404)}TN: Bamiyan, capital of Bamiyan province in Afghanistan
+Dialogue: 0,0:07:47.08,0:07:50.48,tiny,,0,0,0,,{\pos(291.1,176.127)}TN: Also the name of a great Afghan restaurant in the GTA
+Dialogue: 0,0:07:53.24,0:08:02.80,Default,,0,0,0,,They wanted to "Bring Chinese food to new worlds", and so named it Bamiyan
+Dialogue: 0,0:08:03.76,0:08:08.56,Narrator,,0,0,0,,Their car approaches Shimokitazawa
+Dialogue: 0,0:08:13.25,0:08:15.69,Matsumoto,,0,0,0,,The railroad crossing is gone
+Dialogue: 0,0:08:15.69,0:08:17.69,Hosei,,0,0,0,,The Suzunari is gone!
+Dialogue: 0,0:08:17.69,0:08:20.53,Tanaka,,0,0,0,,It's there
+Dialogue: 0,0:08:24.35,0:08:27.65,Hosei,,0,0,0,,Thank goodness, I have a lot of memories there
+Dialogue: 0,0:08:28.89,0:08:31.38,Tanaka,,0,0,0,,Surely you don't have memories at Suzunari
+Dialogue: 0,0:08:31.38,0:08:35.01,Hosei,,0,0,0,,Ah, it's Nitta-san's house\N (DownTown's former manager)
+Dialogue: 0,0:08:33.16,0:08:37.71,Matsumoto,,0,0,0,,Yeah him andOkamoto used to live there
+Dialogue: 0,0:08:33.16,0:08:37.71,Narrator,,0,0,0,,{\pos(720,248.511)}TN: Okamoto is the CEO of Yoshimoto Creative Agency
+Dialogue: 0,0:08:37.71,0:08:41.55,Matsumoto,,0,0,0,,President Okamoto used to live there.
+Dialogue: 0,0:08:41.55,0:08:43.58,Default,,0,0,0,,Oh wow, I didn't know that
+Dialogue: 0,0:08:43.58,0:08:47.40,Matsumoto,,0,0,0,,President Okamoto\N Right?
+Dialogue: 0,0:08:47.40,0:08:52.76,Matsumoto,,0,0,0,,President Okamoto used to live there
+Dialogue: 0,0:08:48.64,0:08:51.33,Endo,,0,0,0,,We got it. There right?
+Dialogue: 0,0:08:52.76,0:08:57.32,Matsumoto,,0,0,0,,We set off fireworks in his house
+Dialogue: 0,0:08:55.86,0:08:57.32,Endo,,0,0,0,,On Gaki?
+Dialogue: 0,0:08:56.45,0:08:57.81,Matsumoto,,0,0,0,,On Gaki
+Dialogue: 0,0:08:57.54,0:08:58.92,Hosei,,0,0,0,,Oh yeah we did!
+Dialogue: 0,0:08:59.55,0:09:04.26,Matsumoto,,0,0,0,,We got away with that kind of stuff back then huh?
+Dialogue: 0,0:09:02.32,0:09:04.26,Hosei,,0,0,0,,I don't know if we got away with that
+Dialogue: 0,0:09:04.26,0:09:07.97,Matsumoto,,0,0,0,,We set fireworks off inside his house
+Dialogue: 0,0:09:06.32,0:09:07.97,Default,,0,0,0,,
+Dialogue: 0,0:09:10.97,0:09:16.06,Narrator,,0,0,0,,After a 20 minute drive, they arrive at Shimokitazawa South
+Dialogue: 0,0:09:34.82,0:09:36.42,Narrator,,0,0,0,,At this store they will dig into;
+Dialogue: 0,0:09:37.22,0:09:41.70,Narrator,,0,0,0,,Shoronpo, which overflows with meat juices from the pork inside,
+Dialogue: 0,0:09:44.82,0:09:48.96,Narrator,,0,0,0,,And the crunchy & juicy speciality Oroshi Ponzu fried chicken,
+Dialogue: 0,0:09:54.14,0:09:56.60,Default,,0,0,0,,This is Tanaka-san's first dish right?
+Dialogue: 0,0:09:55.46,0:09:56.60,Tanaka,,0,0,0,,Mmmm...it's delicious!
+Dialogue: 0,0:09:58.32,0:10:00.46,Tanaka,,0,0,0,,Very satisfying
+Dialogue: 0,0:10:01.26,0:10:03.84,Narrator,,0,0,0,,The second store is cleared in a flash!
+Dialogue: 0,0:10:09.07,0:10:12.46,Matsumoto,,0,0,0,,It's not Bamiyan
+Dialogue: 0,0:10:10.48,0:10:12.46,Default,,0,0,0,,It's not Bamiyan
+Dialogue: 0,0:10:12.46,0:10:15.11,Hosei,,0,0,0,,It's Licka-miyan
+Dialogue: 0,0:10:15.11,0:10:17.08,Default,,0,0,0,,So for the 3rd store,
+Dialogue: 0,0:10:21.82,0:10:23.54,Tanaka,,0,0,0,,"Tanmen with Plenty of Vegetables"
+Dialogue: 0,0:10:23.54,0:10:24.89,Default,,0,0,0,,Oh, very nice
+Dialogue: 0,0:10:24.89,0:10:27.52,Default,,0,0,0,,A rice dish would be nice
+Dialogue: 0,0:10:27.52,0:10:29.58,Tanaka,,0,0,0,,And then,
+Dialogue: 0,0:10:29.58,0:10:31.76,Tanaka,,0,0,0,,Tofu Bon Bon Chicken Salad
+Dialogue: 0,0:10:34.26,0:10:37.18,Tanaka,,0,0,0,,I think this is a good balance
+Dialogue: 0,0:10:35.12,0:10:37.18,Matsumoto,,0,0,0,,Yes, yes the balance is good
+Dialogue: 0,0:10:38.08,0:10:41.78,Narrator,,0,0,0,,Hosei gets to rest, and decided on Anindofu (Apricot Kernel Tofu dessert)
+Dialogue: 0,0:10:44.34,0:10:48.86,Narrator,,0,0,0,,The head for the 3rd store, in Setagaya's Kamisoshigaya district
+Dialogue: 0,0:10:49.58,0:10:52.85,Matsumoto,,0,0,0,,Endo, sing us a song for Bamiyan
+Dialogue: 0,0:10:51.60,0:10:52.85,Endo,,0,0,0,,A song for Bamiyan?
+Dialogue: 0,0:10:52.85,0:10:54.72,Endo,,0,0,0,,There isn't one that exists right?
+Dialogue: 0,0:10:54.72,0:10:57.25,Matsumoto,,0,0,0,,I think there's one inside you Endo
+Dialogue: 0,0:10:57.25,0:11:00.70,Matsumoto,,0,0,0,,I think from time to time you can surprise us
+Dialogue: 0,0:11:01.72,0:11:04.07,Endo,,0,0,0,,I hope I don't disappoint,
+Dialogue: 0,0:11:04.07,0:11:05.07,Endo,,0,0,0,,Here I go...
+Dialogue: 0,0:11:06.52,0:11:09.64,Endo,,0,0,0,,Bamiyan starts with B
+Dialogue: 0,0:11:09.64,0:11:11.63,Endo,,0,0,0,,Totally delicious-
+Dialogue: 0,0:11:11.63,0:11:13.97,Matsumoto,,0,0,0,,Isn't this too long?
+Dialogue: 0,0:11:13.97,0:11:16.00,Hosei,,0,0,0,,You're doing it like that?
+Dialogue: 0,0:11:16.00,0:11:18.51,Hosei,,0,0,0,,You're making up a new song?
+Dialogue: 0,0:11:19.24,0:11:23.98,Matsumoto,,0,0,0,,This guy wants to sing it the whole time we're in the store
+Dialogue: 0,0:11:23.98,0:11:26.82,Hosei,,0,0,0,,Do something they'd use in a commercial
+Dialogue: 0,0:11:26.82,0:11:31.15,Endo,,0,0,0,,Ah I see like a jingle, Ah I see that's what you mean
+Dialogue: 0,0:11:31.15,0:11:33.45,Endo,,0,0,0,,So like a CM?
+Dialogue: 0,0:11:34.54,0:11:35.45,Endo,,0,0,0,,Here it is.
+Dialogue: 0,0:11:36.64,0:11:42.30,Endo,,0,0,0,,Ba-ba-ba-ba-ba.......miyan!
+Dialogue: 0,0:11:42.30,0:11:43.90,Hosei,,0,0,0,,I hate that
+Dialogue: 0,0:11:43.90,0:11:45.83,Hosei,,0,0,0,,I just hate it for some reason
+Dialogue: 0,0:11:51.08,0:11:55.98,Narrator,,0,0,0,,Bamiyan Food Marathon - The aim to clear store #3, Kamisoshigaya
+Dialogue: 0,0:11:57.65,0:12:02.80,Hosei,,0,0,0,,Endo, around this area...
+Dialogue: 0,0:12:00.10,0:12:02.80,Endo,,0,0,0,,Oh yeah, Hosei-san visted me often around Umegaoka
+Dialogue: 0,0:12:03.08,0:12:07.15,Endo,,0,0,0,,I was soon after I came to Tokyo, right?
+Dialogue: 0,0:12:07.42,0:12:10.36,Hosei,,0,0,0,,Your girlfriend lived with you too right?
+Dialogue: 0,0:12:08.80,0:12:12.05,Endo,,0,0,0,,Yes yes, when I came to Tokyo, the very first time
+Dialogue: 0,0:12:13.33,0:12:16.84,Matsumoto,,0,0,0,,The girl you brought to Gaki?
+Dialogue: 0,0:12:14.36,0:12:17.24,Endo,,0,0,0,,{\pos(340,755)}Oh not her
+Dialogue: 0,0:12:15.92,0:12:17.51,Endo,,0,0,0,,Earlier than her
+Dialogue: 0,0:12:16.84,0:12:19.57,Matsumoto,,0,0,0,,At least bring her instead then
+Dialogue: 0,0:12:19.57,0:12:22.57,Matsumoto,,0,0,0,,You should've told me she was your girlfriend
+Dialogue: 0,0:12:22.57,0:12:24.74,Matsumoto,,0,0,0,,I thought she was some girl you picked up
+Dialogue: 0,0:12:24.74,0:12:26.77,Matsumoto,,0,0,0,,It was so awkward
+Dialogue: 0,0:12:26.77,0:12:30.08,Hosei,,0,0,0,,"I'll show her DownTown"
+Dialogue: 0,0:12:27.66,0:12:30.08,Matsumoto,,0,0,0,,Yeah, "I'll show her DownTown"
+Dialogue: 0,0:12:30.08,0:12:32.50,Matsumoto,,0,0,0,,And Endo and I hadn't really met before that
+Dialogue: 0,0:12:32.50,0:12:35.41,Endo,,0,0,0,,That's true, it was basically our first time meeting
+Dialogue: 0,0:12:34.64,0:12:36.88,Matsumoto,,0,0,0,,And you brought a girl you just picked up
+Dialogue: 0,0:12:36.88,0:12:40.55,Matsumoto,,0,0,0,,To our "Free Talk" segment
+Dialogue: 0,0:12:40.55,0:12:42.10,Matsumoto,,0,0,0,,What would you think?
+Dialogue: 0,0:12:42.10,0:12:45.36,Matsumoto,,0,0,0,,Just "Ohhhh I see"
+Dialogue: 0,0:12:45.36,0:12:49.20,Matsumoto,,0,0,0,,Cause I don't know if she's gonna become your wife or something
+Dialogue: 0,0:12:49.20,0:12:52.50,Matsumoto,,0,0,0,,I can't really say anything
+Dialogue: 0,0:12:52.50,0:12:58.51,Matsumoto,,0,0,0,,I can just go "Ahhh Ok"
+Dialogue: 0,0:12:58.51,0:13:02.00,Endo,,0,0,0,,Yeah I'll never forget I did that
+Dialogue: 0,0:13:00.92,0:13:03.72,Matsumoto,,0,0,0,,Yeah that's something you never forget
+Dialogue: 0,0:13:02.00,0:13:03.72,Endo,,0,0,0,,I'll remember that forever
+Dialogue: 0,0:13:03.72,0:13:06.68,Endo,,0,0,0,,I can't undo that
+Dialogue: 0,0:13:06.68,0:13:11.70,Matsumoto,,0,0,0,,And that woman didn't even laugh that much
+Dialogue: 0,0:13:11.70,0:13:15.49,Hosei,,0,0,0,,And Tanaka being Tanaka, the first time he met Matsumoto-san
+Dialogue: 0,0:13:15.49,0:13:18.84,Hosei,,0,0,0,,In the Taxi outside Tokyo Station
+Dialogue: 0,0:13:18.84,0:13:23.26,Matsumoto,,0,0,0,,He got in and sat next to the driver, and didn't speak a single word
+Dialogue: 0,0:13:23.26,0:13:25.83,Matsumoto,,0,0,0,,I thought he was an exchange student at first
+Dialogue: 0,0:13:25.83,0:13:30.94,Matsumoto,,0,0,0,,The taxi driver's exchange student
+Dialogue: 0,0:13:30.94,0:13:32.76,Hosei,,0,0,0,,
+Dialogue: 0,0:13:36.08,0:13:40.16,Matsumoto,,0,0,0,,"Maybe he's learning the streets"
+Dialogue: 0,0:13:40.16,0:13:44.88,Hosei,,0,0,0,,I think I introduced him - "This is my junior Tanaka"
+Dialogue: 0,0:13:44.88,0:13:48.49,Hosei,,0,0,0,,And Tanaka didn't react at all
+Dialogue: 0,0:13:46.74,0:13:48.49,Matsumoto,,0,0,0,,He didn't react at all
+Dialogue: 0,0:13:49.04,0:13:54.45,Tanaka,,0,0,0,,I remember being very nervous, incredibly nervous I remember
+Dialogue: 0,0:13:54.45,0:13:56.54,Matsumoto,,0,0,0,,Did we get food too?
+Dialogue: 0,0:13:56.54,0:14:01.57,Tanaka,,0,0,0,,A Chinese place, around Shibuya if I recall
+Dialogue: 0,0:14:00.12,0:14:01.57,Hosei,,0,0,0,,I don't remember at all
+Dialogue: 0,0:14:01.57,0:14:04.72,Matsumoto,,0,0,0,,When you say Chinese, it's gotta be Bamiyan, right Endo?
+Dialogue: 0,0:14:04.72,0:14:07.71,Endo,,0,0,0,,Ba-ba-ba-baaaaaa.....miyan!
+Dialogue: 0,0:14:09.30,0:14:11.08,Default,,0,0,0,,
+Dialogue: 0,0:14:11.94,0:14:15.24,Narrator,,0,0,0,,The 3rds store, Setagaya's Kamisoshigaya location
+Dialogue: 0,0:14:16.72,0:14:22.74,Narrator,,0,0,0,,At this store; The Tanmen with Plenty of Vegetables,
+Dialogue: 0,0:14:25.98,0:14:29.16,Narrator,,0,0,0,,And notable for its dressing,
+Dialogue: 0,0:14:29.78,0:14:32.40,Narrator,,0,0,0,,the Tofu Bon Bon Chicken Salad
+Dialogue: 0,0:14:35.54,0:14:39.28,Narrator,,0,0,0,,Fujiwara and Tanaka are in charge of distributing the dish
+Dialogue: 0,0:14:43.48,0:14:46.82,Matsumoto,,0,0,0,,Tanaka's good at this. He muight be really good at this.
+Dialogue: 0,0:14:50.60,0:14:53.60,Matsumoto,,0,0,0,,It's 300g right?
+Dialogue: 0,0:14:56.54,0:14:59.46,Matsumoto,,0,0,0,,Wow that's kind of amazing!
+Dialogue: 0,0:14:59.94,0:15:01.34,Matsumoto,,0,0,0,,Tanaka is amazing!
+Dialogue: 0,0:15:05.60,0:15:07.92,Matsumoto,,0,0,0,,Ah, well that's still pretty good
+Dialogue: 0,0:15:08.30,0:15:09.42,Tanaka,,0,0,0,,Here's the last one.
+Dialogue: 0,0:15:10.06,0:15:11.56,Matsumoto,,0,0,0,,Tanaka's amazing
+Dialogue: 0,0:15:16.71,0:15:19.52,Matsumoto,,0,0,0,,The one that's a {\i1}little{\i0} too heavy is Hamada's
+Dialogue: 0,0:15:19.52,0:15:21.55,Default,,0,0,0,,It felt good though didn't it?
+Dialogue: 0,0:15:21.55,0:15:25.86,Default,,0,0,0,,
+Dialogue: 0,0:15:25.86,0:15:29.26,Hamada,,0,0,0,,Let's eat.
+Dialogue: 0,0:15:34.76,0:15:36.54,Endo,,0,0,0,,This is good.
+Dialogue: 0,0:15:37.30,0:15:39.24,Tanaka,,0,0,0,,The salad is great too
+Dialogue: 0,0:15:40.03,0:15:42.44,Matsumoto,,0,0,0,,I'm going along at a good pace
+Dialogue: 0,0:15:42.44,0:15:45.17,Default,,0,0,0,,The distribution was good
+Dialogue: 0,0:15:45.51,0:15:47.94,Matsumoto,,0,0,0,,No problems at all
+Dialogue: 0,0:15:47.94,0:15:51.58,Default,,0,0,0,,So you would say it's easy?
+Dialogue: 0,0:15:52.48,0:15:55.66,Narrator,,0,0,0,,Still finding it easy
+Dialogue: 0,0:15:56.46,0:15:58.52,Narrator,,0,0,0,,The menu for the 4th store?
+Dialogue: 0,0:16:01.88,0:16:03.78,Default,,0,0,0,,Hoikoro.
+Dialogue: 0,0:16:01.88,0:16:03.78,Default,,0,0,0,,{\pos(720,80)}(Note: Also known as "twice-cooked pork.")
+Dialogue: 0,0:16:03.78,0:16:05.24,Default,,0,0,0,,Another non-rice dish?
+Dialogue: 0,0:16:05.24,0:16:06.86,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:16:07.44,0:16:09.68,Hosei,,0,0,0,,"Miso Ramen with Plenty of Vegetables"
+Dialogue: 0,0:16:11.03,0:16:13.08,Hamada,,0,0,0,,We need a rice dish soon
+Dialogue: 0,0:16:17.51,0:16:20.60,Narrator,,0,0,0,,Hosei gets to rest again.
+Dialogue: 0,0:16:20.60,0:16:24.66,Narrator,,0,0,0,,He decided on Honey Fried Bread with Vanilla Ice Cream
+Dialogue: 0,0:16:25.84,0:16:28.80,Narrator,,0,0,0,,#4, the Suginami Miyamae store
+Dialogue: 0,0:16:30.42,0:16:32.58,Default,,0,0,0,,This is the Miso Ramen with Plenty of Vegetables
+Dialogue: 0,0:16:34.22,0:16:35.98,Default,,0,0,0,,And the Hoikoro
+Dialogue: 0,0:16:39.78,0:16:42.42,Narrator,,0,0,0,,Tanaka is once again in charge of the distribution
+Dialogue: 0,0:16:45.04,0:16:47.04,Tanaka,,0,0,0,,300, around 300g
+Dialogue: 0,0:16:47.04,0:16:52.94,Default,,0,0,0,,
+Dialogue: 0,0:16:52.94,0:16:54.32,Endo,,0,0,0,,Oh I didn't see inside
+Dialogue: 0,0:16:55.70,0:16:58.60,Matsumoto,,0,0,0,,Tanaka is unwavering
+Dialogue: 0,0:17:02.56,0:17:03.88,Default,,0,0,0,,Amazing!
+Dialogue: 0,0:17:03.88,0:17:05.88,Default,,0,0,0,,
+Dialogue: 0,0:17:09.40,0:17:10.82,Default,,0,0,0,,Are you for real?!
+Dialogue: 0,0:17:10.82,0:17:13.46,Tanaka,,0,0,0,,This one is a bit on the heavy side
+Dialogue: 0,0:17:18.18,0:17:20.93,Matsumoto,,0,0,0,,It was about 10g over
+Dialogue: 0,0:17:25.34,0:17:27.61,Default,,0,0,0,,This is good hoikorou.\
+Dialogue: 0,0:17:30.60,0:17:32.90,Matsumoto,,0,0,0,,This is our 3rd noodle dish
+Dialogue: 0,0:17:32.90,0:17:36.08,Default,,0,0,0,,Noodles? Oh yeah it is
+Dialogue: 0,0:17:36.08,0:17:38.72,Matsumoto,,0,0,0,,We've eaten 1 bowl of ramen by now
+Dialogue: 0,0:17:38.72,0:17:41.32,Default,,0,0,0,,Ah yes, you might well have
+Dialogue: 0,0:17:41.32,0:17:46.20,Default,,0,0,0,,Finished! Time for the next menu please
+Dialogue: 0,0:17:50.58,0:17:54.52,Default,,0,0,0,,Another noodle dish
+Dialogue: 0,0:17:51.99,0:17:54.52,Narrator,,0,0,0,,Gomoku
+Dialogue: 0,0:17:54.72,0:17:56.02,Endo,,0,0,0,,It's just noodles
+Dialogue: 0,0:17:56.38,0:17:57.62,Default,,0,0,0,,
+Dialogue: 0,0:17:58.94,0:18:02.30,Narrator,,0,0,0,,This will be the 4th ramen dish of the day
+Dialogue: 0,0:18:04.42,0:18:07.58,Narrator,,0,0,0,,And the other dish was Meat Shumai
+Dialogue: 0,0:18:10.48,0:18:12.80,Narrator,,0,0,0,,And the one who rests?
+Dialogue: 0,0:18:15.14,0:18:17.32,Default,,0,0,0,,The third in a row!
+Dialogue: 0,0:18:20.68,0:18:23.14,Matsumoto,,0,0,0,,You guys fixed this again
+Dialogue: 0,0:18:24.72,0:18:28.06,Hosei,,0,0,0,,I'm hungry too you know
+Dialogue: 0,0:18:29.52,0:18:34.72,Narrator,,0,0,0,,With an unexpected 3rd rest, Hosei decides on Shine Muscat
+Dialogue: 0,0:18:36.88,0:18:42.22,Narrator,,0,0,0,,With the 4th store, 8/59 of the dishes are cleared
+Dialogue: 0,0:18:44.22,0:18:46.95,Default,,0,0,0,,How are your stomachs doing? Next is the 5th store
+Dialogue: 0,0:18:46.95,0:18:49.30,Matsumoto,,0,0,0,,I think it's just right
+Dialogue: 0,0:18:49.30,0:18:53.48,Matsumoto,,0,0,0,,It feels just right, like I finished eating dinner
+Dialogue: 0,0:18:53.48,0:18:54.73,Default,,0,0,0,,How about you Hamada-san?
+Dialogue: 0,0:18:54.73,0:18:57.92,Hamada,,0,0,0,,I'd say the same, I'm ready to pay the bill
+Dialogue: 0,0:18:57.92,0:19:03.48,Default,,0,0,0,,Ready to pay the bill?
+Dialogue: 0,0:19:03.60,0:19:07.37,Default,,0,0,0,,There's still,
+Dialogue: 0,0:19:07.37,0:19:13.21,Default,,0,0,0,,46 stores left ... desu
+Dialogue: 0,0:19:07.71,0:19:13.04,Narrator,,0,0,0,,{\pos(720,253.106)}TN: Inomoto was slow with the "desu"; omitting it would be rude when addressing a senior
+Dialogue: 0,0:19:13.21,0:19:16.19,Matsumoto,,0,0,0,,That's no way to talk to us
+Dialogue: 0,0:19:16.19,0:19:18.44,Default,,0,0,0,,I'm saying there's still a lot left
+Dialogue: 0,0:19:20.02,0:19:24.24,Narrator,,0,0,0,,Bamiyan Marathon - #5 is Kamishakuji
+Dialogue: 0,0:19:26.84,0:19:29.06,Narrator,,0,0,0,,At this store they'll enjoy;
+Dialogue: 0,0:19:29.06,0:19:33.48,Narrator,,0,0,0,,Gomoku noodles, with lots of toppings and vegetables
+Dialogue: 0,0:19:36.28,0:19:39.64,Narrator,,0,0,0,,And notable for it's juiciness, Meat Shumai
+Dialogue: 0,0:19:41.64,0:19:45.51,Endo,,0,0,0,,This is tasty.
+Dialogue: 0,0:19:42.74,0:19:45.51,Tanaka,,0,0,0,,Way good.
+Dialogue: 0,0:19:45.51,0:19:48.68,Matsumoto,,0,0,0,,These noodles are firmer than the ones we've had today
+Dialogue: 0,0:19:53.68,0:19:57.20,Narrator,,0,0,0,,They finish quickly, and choose the menu for the 6th store
+Dialogue: 0,0:19:59.20,0:20:02.46,Narrator,,0,0,0,,They want a rice dish now, however...
+Dialogue: 0,0:20:05.34,0:20:10.90,Tanaka,,0,0,0,,Grilled Albacore Tuna with Hoisin (?) sauce
+Dialogue: 0,0:20:09.40,0:20:10.90,Hamada,,0,0,0,,What is that?
+Dialogue: 0,0:20:10.90,0:20:14.94,Tanaka,,0,0,0,,That's true, a rice dish would be nice
+Dialogue: 0,0:20:18.54,0:20:20.40,Default,,0,0,0,,Ajitama Ramen!
+Dialogue: 0,0:20:20.40,0:20:22.40,Endo,,0,0,0,,More noodles!
+Dialogue: 0,0:20:24.20,0:20:26.66,Hamada,,0,0,0,,Give us Chahan at least once
+Dialogue: 0,0:20:26.66,0:20:31.38,Hamada,,0,0,0,,I won't eat Chahan in the second half
+Dialogue: 0,0:20:28.56,0:20:31.38,Default,,0,0,0,,This Albacore Tuna is pretty good I hear
+Dialogue: 0,0:20:32.08,0:20:35.12,Narrator,,0,0,0,,And Fujiwara will be the one to rest
+Dialogue: 0,0:20:35.74,0:20:38.90,Default,,0,0,0,,So just Matsumoto-san left
+Dialogue: 0,0:20:38.90,0:20:43.32,Default,,0,0,0,,No breaks
+Dialogue: 0,0:20:39.76,0:20:43.32,Matsumoto,,0,0,0,,I've been eating noodles this whole time
+Dialogue: 0,0:20:44.52,0:20:49.88,Narrator,,0,0,0,,Fujiwara decided on a Taiwanese dessert, Lemon Ogyichi
+Dialogue: 0,0:20:51.42,0:20:53.94,Narrator,,0,0,0,,They head for the 6th store
+Dialogue: 0,0:20:55.02,0:20:59.68,Matsumoto,,0,0,0,,I'm kind of starting to get pissed off
+Dialogue: 0,0:20:59.68,0:21:01.64,Default,,0,0,0,,Too many noodles?
+Dialogue: 0,0:21:02.50,0:21:07.26,Matsumoto,,0,0,0,,Noodles....noodles...noodles...it's just...
+Dialogue: 0,0:21:09.20,0:21:11.22,Matsumoto,,0,0,0,,Some of us don't like noodles
+Dialogue: 0,0:21:14.24,0:21:18.04,Matsumoto,,0,0,0,,You know I never picked noodles out of the box
+Dialogue: 0,0:21:18.04,0:21:20.54,Default,,0,0,0,,Actually you drew the Bamiyan Ramen
+Dialogue: 0,0:21:21.86,0:21:23.26,Hosei,,0,0,0,,He did do that
+Dialogue: 0,0:21:23.26,0:21:29.02,Matsumoto,,0,0,0,,We can just edit that!
+Dialogue: 0,0:21:26.48,0:21:29.02,Hosei,,0,0,0,,"I'm amazing, we can eat ramen now!"
+Dialogue: 0,0:21:29.02,0:21:34.84,Matsumoto,,0,0,0,,We always decide on editing after our talk
+Dialogue: 0,0:21:36.00,0:21:40.64,Narrator,,0,0,0,,Bamiyan Marthon - The 6th store is the Nerima-kasugacho location
+Dialogue: 0,0:21:42.74,0:21:46.30,Matsumoto,,0,0,0,,My body feels a little heavy
+Dialogue: 0,0:21:46.30,0:21:48.74,Matsumoto,,0,0,0,,It feels like I'm forcing this
+Dialogue: 0,0:21:49.94,0:21:54.94,Narrator,,0,0,0,,At this store, the 5th ramen dish of the day\N Ajitama Ramen, and,
+Dialogue: 0,0:21:56.88,0:22:00.42,Narrator,,0,0,0,,Grilled Albacore Tuna with Hoisin sauce
+Dialogue: 0,0:22:10.38,0:22:11.88,Default,,0,0,0,,The taste has changed a bit?
+Dialogue: 0,0:22:13.29,0:22:16.03,Hamada,,0,0,0,,So little!
+Dialogue: 0,0:22:14.28,0:22:16.03,Hosei,,0,0,0,,That's so little
+Dialogue: 0,0:22:16.20,0:22:19.94,Hosei,,0,0,0,,What are you doing?
+Dialogue: 0,0:22:19.94,0:22:23.55,Tanaka,,0,0,0,,It just so happens the distribution turned out like this
+Dialogue: 0,0:22:22.23,0:22:24.00,Endo,,0,0,0,,But you were spot on before
+Dialogue: 0,0:22:24.00,0:22:26.57,Tanaka,,0,0,0,,It's difficult to do it with Ajitama
+Dialogue: 0,0:22:26.57,0:22:29.44,Matsumoto,,0,0,0,,Let's give Tanaka some noodles
+Dialogue: 0,0:22:27.92,0:22:29.44,Tanaka,,0,0,0,,Alright, I'll take some noodles
+Dialogue: 0,0:22:29.44,0:22:32.43,Matsumoto,,0,0,0,,You have too few noodles, everyone give him a bit
+Dialogue: 0,0:22:31.54,0:22:33.86,Endo,,0,0,0,,Here you go
+Dialogue: 0,0:22:36.42,0:22:39.25,Tanaka,,0,0,0,,Wait a minute, hold on...
+Dialogue: 0,0:22:39.25,0:22:42.75,Tanaka,,0,0,0,,This is enough for 2 people!
+Dialogue: 0,0:22:42.75,0:22:46.64,Matsumoto,,0,0,0,,No no that's a fair amount
+Dialogue: 0,0:22:46.64,0:22:49.64,Hosei,,0,0,0,,The Ajitama is pretty good
+Dialogue: 0,0:22:49.64,0:22:51.85,Default,,0,0,0,,Everyone seems to be slurping it up
+Dialogue: 0,0:22:52.08,0:22:53.64,Default,,0,0,0,,Except Tanaka-san
+Dialogue: 0,0:22:54.88,0:22:57.96,Matsumoto,,0,0,0,,Alright, leave this to me
+Dialogue: 0,0:22:56.28,0:22:57.96,Tanaka,,0,0,0,,Yes, please
+Dialogue: 0,0:22:57.96,0:23:01.98,Matsumoto,,0,0,0,,Can we decide who rests first?
+Dialogue: 0,0:23:01.98,0:23:06.71,Matsumoto,,0,0,0,,If I get to rest, well that'll use up my luck
+Dialogue: 0,0:23:06.71,0:23:11.65,Matsumoto,,0,0,0,,Let these bastards eat noodles
+Dialogue: 0,0:23:13.92,0:23:17.00,Default,,0,0,0,,It's Fujiwara.
+Dialogue: 0,0:23:17.00,0:23:18.00,Endo,,0,0,0,,Again?
+Dialogue: 0,0:23:18.86,0:23:22.42,Default,,0,0,0,,Well this can happen, like with Hosei-san
+Dialogue: 0,0:23:22.42,0:23:24.42,Default,,0,0,0,,Fujiwara gets it in a row
+Dialogue: 0,0:23:25.92,0:23:28.90,Matsumoto,,0,0,0,,We should just take turns resting
+Dialogue: 0,0:23:28.90,0:23:30.84,Narrator,,0,0,0,,Next week...
+Dialogue: 0,0:23:31.30,0:23:34.44,Narrator,,0,0,0,,Bamiyan Marathon Finale
+Dialogue: 0,0:23:35.24,0:23:37.44,Narrator,,0,0,0,,Matsumoto still didn't get to rest
+Dialogue: 0,0:23:42.24,0:23:43.70,Narrator,,0,0,0,,And the challenge;
+Dialogue: 0,0:23:47.96,0:23:51.36,Narrator,,0,0,0,,4 dishes at once!
+Dialogue: 0,0:23:58.36,0:24:02.98,Narrator,,0,0,0,,How will their luck turn out?
+Dialogue: 0,0:24:02.98,0:24:05.98,Narrator,,0,0,0,,
+

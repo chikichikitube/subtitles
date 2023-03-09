@@ -1,0 +1,902 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: zwanster fix
+Audio File: ../../COLD STORAGE/ERNIE/WDT/WEDNESDAY DOWNTOWN 2019-06-19.mp4
+Video File: ../../COLD STORAGE/ERNIE/WDT/WEDNESDAY DOWNTOWN 2019-06-19.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 817
+Active Line: 824
+Video Position: 80437
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,42,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,130,0,0,1,3,1,7,10,10,95,1
+Style: special_Wed_3_X,Arial,40,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H00FFFFFF,&H0000E1FA,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,1,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,3,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H004134D1,-1,0,0,0,100,135,0,0,3,1.5,2,2,10,10,10,1
+Style: Square,Arial,20,&H00F1E7FD,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_5_X - 复制,Arial,40,&H00000000,&H000000FF,&H00050102,&H00050102,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:02:31.63,0:02:40.67,Square,,0,0,0,,{\fs55\p1\pos(315,1012.667)}m 0 0 l 0 111 l 325 111 l 325 0
+Comment: 1,0:02:31.63,0:02:40.67,Square,,0,0,0,,{\fs55\p1\pos(774,1012.667)}m 0 0 l 0 111 l 325 111 l 325 0
+Comment: 1,0:02:31.63,0:02:40.67,Square,,0,0,0,,{\fs55\p1\pos(1237.5,1012.667)}m 0 0 l 0 111 l 315 111 l 315 0
+Comment: 1,0:12:49.75,0:13:04.03,Square,,0,0,0,,{\fs55\p1\pos(315,1012.667)\clip(148.5,904,409.5,1012)}m 0 0 l 0 111 l 325 111 l 325 0
+Comment: 1,0:12:49.75,0:13:04.03,Square,,0,0,0,,{\fs55\p1\pos(774,1012.667)\clip(609,904,870,1020)}m 0 0 l 0 111 l 325 111 l 325 0
+Comment: 1,0:12:49.75,0:13:04.03,Square,,0,0,0,,{\fs55\p1\pos(1233,1012.667)\clip(1065,894,1329,1014)}m 0 0 l 0 111 l 315 111 l 315 0
+Dialogue: 0,0:00:02.34,0:00:06.47,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 0,0:00:08.78,0:00:11.81,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:17.58,0:00:20.45,normal_Wed,,0,0,0,,Savannah's Takahashi
+Dialogue: 0,0:00:21.84,0:00:26.05,normal_Wed,,0,0,0,,Today I bring a theory about IKKO
+Dialogue: 0,0:00:26.78,0:00:28.77,normal_Wed,,0,0,0,,When it comes to IKKO
+Dialogue: 0,0:00:28.77,0:00:36.70,normal_Wed,,0,0,0,,She has phrases like "what the hell?" (don da ke) and "like a dream!"
+Dialogue: 0,0:00:36.70,0:00:41.14,normal_Wed,,0,0,0,,So this time we bring a theory about IKKO's catchphrases
+Dialogue: 0,0:00:42.08,0:00:45.20,normal_Wed,,0,0,0,,IKKO catchphrase contest
+Dialogue: 0,0:00:47.65,0:00:53.65,normal_Wed,,0,0,0,,This involves getting IKKO to use her catchphrases without her noticing
+Dialogue: 0,0:00:53.65,0:00:59.16,normal_Wed,,0,0,0,,A contest on naturally leading her to say certain phrases
+Dialogue: 0,0:00:59.16,0:01:01.52,normal_Wed,,0,0,0,,Like setting up IKKO, right \N-Yes
+Dialogue: 0,0:01:02.22,0:01:06.05,normal_Wed,,0,0,0,,So for instance, what would you do to get her to say "what the hell?"
+Dialogue: 0,0:01:06.05,0:01:08.16,normal_Wed,,0,0,0,,Honestly, I'm always on location
+Dialogue: 0,0:01:08.16,0:01:13.28,normal_Wed,,0,0,0,,IKKO will say "what the hell" even if I just turn to her like 'uh-uh-uh'
+Dialogue: 0,0:01:14.09,0:01:17.05,normal_Wed,,0,0,0,,Is it that simple?  \N-Amazing
+Dialogue: 0,0:01:17.05,0:01:20.21,normal_Wed,,0,0,0,,If I go "uh-uh-uh"... \N -That's too easy.
+Dialogue: 0,0:01:20.21,0:01:21.69,normal_Wed,,0,0,0,,That does not need any preparation
+Dialogue: 0,0:01:21.69,0:01:25.57,normal_Wed,,0,0,0,,You don't have to say anything at all, you just have to go, "Uh-uh-uh-uh-uh-uh..."
+Dialogue: 0,0:01:25.57,0:01:27.51,normal_Wed,,0,0,0,,This'll definitely get a "what the hell?"
+Dialogue: 0,0:01:30.45,0:01:35.32,normal_Wed,,0,0,0,,So, three groups of comedians will attempt to get IKKO to say certain words
+Dialogue: 0,0:01:36.91,0:01:42.05,normal_Wed,,0,0,0,,Who can make the most amount of noise without being called noisy
+Dialogue: 0,0:01:42.54,0:01:44.56,normal_Wed,,0,0,0,,The Daily Life Loudness Competition
+Dialogue: 0,0:01:46.00,0:01:51.60,normal_Wed,,0,0,0,,Also, is it possible to teach a woman a figure four leg lock hold over the phone?
+Dialogue: 3,0:02:08.73,0:02:12.04,normal_Wed,,0,0,0,,IKKO Catchphrase Contest
+Dialogue: 3,0:02:13.33,0:02:16.95,normal_Wed,,0,0,0,,This time, these three groups are participating
+Dialogue: 3,0:02:18.45,0:02:23.27,normal_Wed,,0,0,0,,And are invited to a fake shopping show with IKKO
+Dialogue: 3,0:02:24.80,0:02:29.13,normal_Wed,,0,0,0,,First, they draw lots to determine the IKKO catchphrase for each group
+Dialogue: 2,0:02:31.50,0:02:40.67,special_Wed_1_X,,0,0,0,,{\fs45\move(315,1062,315,902,0,150)}Shoulder drop~
+Dialogue: 2,0:02:31.50,0:02:40.67,special_Wed_1_X,,0,0,0,,{\fs45\move(785,1062,785,902,0,150)}What the hell?
+Dialogue: 2,0:02:31.50,0:02:40.67,special_Wed_1_X,,0,0,0,,{\fs45\move(1239,1062,1239,902,0,150)}Like a dream~
+Dialogue: 3,0:02:39.30,0:02:40.67,normal_Wed,,0,0,0,,I am a beginner
+Dialogue: 3,0:02:40.81,0:02:43.14,normal_Wed,,0,0,0,,"Shoulder drop~" is so hard
+Dialogue: 3,0:02:43.14,0:02:46.08,normal_Wed,,0,0,0,,If you create a certain situation, it should be doable
+Dialogue: 3,0:02:46.08,0:02:49.01,normal_Wed,,0,0,0,,"Shoulder drop~" would only occur when something rude has been said
+Dialogue: 0,0:02:49.01,0:02:52.58,normal_Wed,,0,0,0,,Its the same as something like "I'll beat you up"
+Dialogue: 0,0:02:53.23,0:02:57.61,normal_Wed,,0,0,0,,Then, IKKO, who knows nothing about it, enters the scene
+Dialogue: 0,0:02:59.30,0:03:03.44,normal_Wed,,0,0,0,,And so, the contest begins
+Dialogue: 0,0:03:05.06,0:03:10.54,normal_Wed,,0,0,0,,Let's give IKKO a warm welcome!
+Dialogue: 0,0:03:10.77,0:03:14.91,normal_Wed,,0,0,0,,Hospitality~
+Dialogue: 0,0:03:15.27,0:03:16.84,normal_Wed,,0,0,0,,Really beautiful!
+Dialogue: 0,0:03:17.24,0:03:21.11,normal_Wed,,0,0,0,,No, no, no, no. Really? You guys!
+Dialogue: 0,0:03:21.11,0:03:22.71,normal_Wed,,0,0,0,,Very moist and shiny
+Dialogue: 0,0:03:26.35,0:03:28.72,normal_Wed,,0,0,0,,What are you laughing at?  \N-You're laughing too much
+Dialogue: 0,0:03:28.82,0:03:32.59,normal_Wed,,0,0,0,,Your eyeballs are so prominent
+Dialogue: 0,0:03:32.59,0:03:33.73,normal_Wed,,0,0,0,,Looking from the side
+Dialogue: 0,0:03:34.79,0:03:37.63,note_Wed,,0,0,0,,{\blur4}※Medaka: a fish with huge eyes high on its head
+Dialogue: 0,0:03:34.79,0:03:37.63,normal_Wed,,0,0,0,,Medaka fish～
+Dialogue: 0,0:03:37.63,0:03:40.87,normal_Wed,,0,0,0,,Medaka fish? \N-Medaka fish
+Dialogue: 0,0:03:40.87,0:03:42.93,normal_Wed,,0,0,0,,Never heard of medaka fish?
+Dialogue: 0,0:03:42.93,0:03:45.67,normal_Wed,,0,0,0,,This is your first time meeting us, right?
+Dialogue: 0,0:03:45.67,0:03:47.64,normal_Wed,,0,0,0,,Do you know us? Do you know us?
+Dialogue: 0,0:03:47.74,0:03:50.58,normal_Wed,,0,0,0,,Ah, you are Morita
+Dialogue: 0,0:03:50.58,0:03:51.88,normal_Wed,,0,0,0,,Hey, what about me?
+Dialogue: 0,0:03:54.88,0:03:57.92,normal_Wed,,0,0,0,,Suddenly sounds obscene
+Dialogue: 0,0:03:58.05,0:03:59.48,normal_Wed,,0,0,0,,Let me take a look in your pockets
+Dialogue: 0,0:03:59.62,0:04:03.56,normal_Wed,,0,0,0,,Like a dream~
+Dialogue: 0,0:04:04.56,0:04:10.33,normal_Wed,,0,0,0,,Fujimoto accidentally invokes Goodbye Light of Youth's phrase and starts the game with a mistake
+Dialogue: 0,0:04:12.06,0:04:13.53,normal_Wed,,0,0,0,,Let's go~
+Dialogue: 0,0:04:13.53,0:04:16.03,normal_Wed,,0,0,0,,Here we go, here we go
+Dialogue: 0,0:04:16.13,0:04:17.87,normal_Wed,,0,0,0,,Eh…？
+Dialogue: 0,0:04:19.64,0:04:23.24,normal_Wed,,0,0,0,,We're here at Odaiba shopping street
+Dialogue: 0,0:04:23.42,0:04:28.25,normal_Wed,,0,0,0,,The first store is the Shooting Gallery, commonly known as the airsoft store
+Dialogue: 0,0:04:28.80,0:04:29.65,normal_Wed,,0,0,0,,Please
+Dialogue: 0,0:04:30.98,0:04:35.72,normal_Wed,,0,0,0,,So happy~
+Dialogue: 0,0:04:36.12,0:04:41.93,normal_Wed,,0,0,0,,This is a store where you can experience the airsoft stores of the Showa 30s
+Dialogue: 0,0:04:42.13,0:04:47.03,normal_Wed,,0,0,0,,You were born in Showa 30, right? \N -I was born
+Dialogue: 0,0:04:42.13,0:04:47.03,note_Wed,,0,0,0,,{\blur4}※Showa 30：1955
+Dialogue: 0,0:04:47.03,0:04:49.97,normal_Wed,,0,0,0,,Were you born around Showa 12?\N  -No
+Dialogue: 0,0:04:47.03,0:04:49.97,note_Wed,,0,0,0,,{\blur4}※Showa 12: 1937
+Dialogue: 0,0:04:49.97,0:04:51.54,normal_Wed,,0,0,0,,Showa 20 years? \N -No
+Dialogue: 0,0:04:49.97,0:04:51.54,note_Wed,,0,0,0,,{\blur4}※Showa 20 years: 1945
+Dialogue: 0,0:04:51.54,0:04:53.94,normal_Wed,,0,0,0,,Taisho 5 years? \N -I said no~
+Dialogue: 0,0:04:51.54,0:04:53.94,note_Wed,,0,0,0,,{\blur4}※Taisho 5 years: 1916
+Dialogue: 0,0:04:54.04,0:04:56.88,normal_Wed,,0,0,0,,Jomon...?
+Dialogue: 0,0:04:56.88,0:04:57.81,normal_Wed,,0,0,0,,Jomon era?
+Dialogue: 0,0:04:54.04,0:04:57.81,note_Wed,,0,0,0,,{\blur4}※Jomon period: 16,000 years ago to 2300 years ago, Named after the rope pattern printed on the excavated pottery
+Dialogue: 0,0:04:57.81,0:04:59.01,normal_Wed,,0,0,0,,Who?  \N-IKKO
+Dialogue: 0,0:04:59.01,0:05:03.11,normal_Wed,,0,0,0,,It's not that long ago. It's not that long ago, is it?
+Dialogue: 0,0:05:03.11,0:05:06.45,normal_Wed,,0,0,0,,Like a dream~
+Dialogue: 0,0:05:07.28,0:05:12.60,normal_Wed,,0,0,0,,As Morita takes over Fujimoto's joke, he grabs a "Like a dream~"
+Dialogue: 0,0:05:13.06,0:05:14.89,normal_Wed,,0,0,0,,I hit the...
+Dialogue: 0,0:05:19.36,0:05:21.30,normal_Wed,,0,0,0,,What are you up to?
+Dialogue: 0,0:05:21.43,0:05:25.10,normal_Wed,,0,0,0,,What the hell~
+Dialogue: 0,0:05:25.10,0:05:27.04,normal_Wed,,0,0,0,,IKKO, this is not your level!
+Dialogue: 0,0:05:27.04,0:05:28.81,normal_Wed,,0,0,0,,You knocked down something you shouldn't
+Dialogue: 0,0:05:33.95,0:05:36.88,normal_Wed,,0,0,0,,You can't do this, seriously!
+Dialogue: 0,0:05:36.88,0:05:39.38,normal_Wed,,0,0,0,,Really, if you do it again, you'll...
+Dialogue: 0,0:05:39.38,0:05:40.55,normal_Wed,,0,0,0,,What's the matter with this guy?
+Dialogue: 0,0:05:40.55,0:05:45.66,normal_Wed,,0,0,0,,You'll get it next time!
+Dialogue: 0,0:05:45.66,0:05:47.29,normal_Wed,,0,0,0,,He'll get it?
+Dialogue: 0,0:05:47.59,0:05:49.33,normal_Wed,,0,0,0,,You do it again and i'll really take you out
+Dialogue: 0,0:05:52.56,0:05:54.30,normal_Wed,,0,0,0,,Hand that over now! Hand it over!
+Dialogue: 0,0:05:54.57,0:05:57.84,normal_Wed,,0,0,0,,Konsang Amida~
+Dialogue: 0,0:05:54.57,0:05:57.84,note_Wed,,0,0,0,,{\blur4}※"Kongsang Amida" Japanese pronunciation of Korean for "thank you"
+Dialogue: 0,0:05:57.84,0:05:58.30,normal_Wed,,0,0,0,,What're you talking about?
+Dialogue: 0,0:05:58.48,0:05:59.67,normal_Wed,,0,0,0,,What the heck!?
+Dialogue: 0,0:06:01.17,0:06:05.44,normal_Wed,,0,0,0,,How can you let her say "Kongsang Amida"? It's too rude to IKKO!
+Dialogue: 0,0:06:05.44,0:06:06.28,normal_Wed,,0,0,0,,Why is there a "Konsang Amida"?
+Dialogue: 0,0:06:06.28,0:06:08.08,normal_Wed,,0,0,0,,Sorry. Excuse me
+Dialogue: 0,0:06:08.08,0:06:12.28,normal_Wed,,0,0,0,,Look, Ikko, you should try and stretch forward as much as possible
+Dialogue: 0,0:06:15.42,0:06:19.56,normal_Wed,,0,0,0,,What the hell~
+Dialogue: 0,0:06:20.76,0:06:23.36,normal_Wed,,0,0,0,,Well done, IKKO
+Dialogue: 0,0:06:24.44,0:06:28.22,normal_Wed,,0,0,0,,Fujimoto unwittingly gives points to another team again
+Dialogue: 0,0:06:28.50,0:06:30.50,normal_Wed,,0,0,0,,Watch me
+Dialogue: 0,0:06:36.67,0:06:40.15,normal_Wed,,0,0,0,,Shoulder Drop~
+Dialogue: 0,0:06:39.05,0:06:40.13,wipe_Wed,,0,0,0,,It appeared!
+Dialogue: 0,0:06:49.15,0:06:53.56,normal_Wed,,0,0,0,,Shoulder Drop~
+Dialogue: 0,0:06:59.56,0:07:03.44,normal_Wed,,0,0,0,,What the hell~
+Dialogue: 0,0:07:07.07,0:07:09.81,normal_Wed,,0,0,0,,Kongsang Amida~
+Dialogue: 0,0:07:09.81,0:07:12.68,normal_Wed,,0,0,0,,Why? Why?
+Dialogue: 0,0:07:12.68,0:07:15.31,normal_Wed,,0,0,0,,Hey, what's with the "Konsang Amida~" again?
+Dialogue: 0,0:07:15.31,0:07:17.95,normal_Wed,,0,0,0,,Don't bring out the "Konsang Amida" Oi! So rude!
+Dialogue: 0,0:07:19.65,0:07:22.15,normal_Wed,,0,0,0,,Hey, what's up?
+Dialogue: 0,0:07:22.29,0:07:23.56,normal_Wed,,0,0,0,,I thought this was a target. Sorry
+Dialogue: 0,0:07:23.59,0:07:26.06,normal_Wed,,0,0,0,,You're too dangerous, right?
+Dialogue: 0,0:07:30.63,0:07:35.47,normal_Wed,,0,0,0,,Shoulder Drop~
+Dialogue: 0,0:07:41.74,0:07:44.31,normal_Wed,,0,0,0,,What are you doing here?
+Dialogue: 0,0:07:44.44,0:07:46.01,normal_Wed,,0,0,0,,I'm trying to do this again!
+Dialogue: 0,0:07:48.58,0:07:52.45,normal_Wed,,0,0,0,,Shoulder Drop~
+Dialogue: 0,0:07:52.45,0:07:53.52,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:07:53.62,0:07:55.72,normal_Wed,,0,0,0,,A fully automatic over-the-shoulder machine
+Dialogue: 0,0:07:56.77,0:08:01.86,normal_Wed,,0,0,0,,At the end of the first stage, the scores obtained by each team are as follows
+Dialogue: 0,0:08:03.06,0:08:05.44,normal_Wed,,0,0,0,,FUJIWARA is one step ahead
+Dialogue: 0,0:08:06.51,0:08:10.74,normal_Wed,,0,0,0,,Here outside of the first half, IKKO is isolated
+Dialogue: 0,0:08:11.43,0:08:12.73,normal_Wed,,0,0,0,,At the other end
+Dialogue: 0,0:08:12.84,0:08:14.77,normal_Wed,,0,0,0,,This is simply a game of "You tell me, I guess"
+Dialogue: 0,0:08:15.27,0:08:16.88,normal_Wed,,0,0,0,,If you queue her up, she'll say it
+Dialogue: 0,0:08:16.88,0:08:18.58,normal_Wed,,0,0,0,,I set them up well
+Dialogue: 3,0:08:18.58,0:08:20.41,normal_Wed,,0,0,0,,It's not a long game
+Dialogue: 3,0:08:20.41,0:08:22.85,normal_Wed,,0,0,0,,By the way, what the hell is that "Konsang Amida"?
+Dialogue: 3,0:08:22.85,0:08:25.05,normal_Wed,,0,0,0,,How should I respond to that statement?
+Dialogue: 3,0:08:25.05,0:08:27.22,normal_Wed,,0,0,0,,I don't really get how that started
+Dialogue: 3,0:08:27.73,0:08:31.30,normal_Wed,,0,0,0,,A mini-review session
+Dialogue: 3,0:08:32.33,0:08:36.00,normal_Wed,,0,0,0,,The next stage is a snack store
+Dialogue: 3,0:08:37.78,0:08:42.21,normal_Wed,,0,0,0,,And the phrases are changed
+Dialogue: 2,0:08:46.37,0:09:08.39,special_Wed_4_X,,0,0,0,,{\fs45\move(315,1062,315,902,0,150)}Penniless~
+Dialogue: 2,0:08:46.37,0:09:08.39,special_Wed_4_X,,0,0,0,,{\fs45\move(785,1062,785,902,0,150)\c&H050102&}Theft~
+Dialogue: 2,0:08:46.37,0:09:08.39,special_Wed_4_X,,0,0,0,,{\fs45\move(1239,1062,1239,902,0,150)}{\c&H020202&}Super cheap~
+Dialogue: 3,0:08:54.18,0:08:56.35,normal_Wed,,0,0,0,,Why is this in red?
+Dialogue: 3,0:08:56.35,0:09:02.05,normal_Wed,,0,0,0,,The red words are IKKO's usual phrases
+Dialogue: 3,0:09:02.05,0:09:04.69,normal_Wed,,0,0,0,,Yeah it is
+Dialogue: 3,0:09:04.69,0:09:06.62,normal_Wed,,0,0,0,,You didn't hear her say it?
+Dialogue: 3,0:09:06.62,0:09:08.39,normal_Wed,,0,0,0,,Not even once!
+Dialogue: 0,0:09:08.63,0:09:12.16,normal_Wed,,0,0,0,,Next is this store
+Dialogue: 0,0:09:13.43,0:09:16.07,normal_Wed,,0,0,0,,So happy~
+Dialogue: 0,0:09:16.07,0:09:20.00,normal_Wed,,0,0,0,,So retro~
+Dialogue: 0,0:09:20.00,0:09:22.04,normal_Wed,,0,0,0,,I like snack stores the most
+Dialogue: 0,0:09:22.04,0:09:26.71,normal_Wed,,0,0,0,,These are just 100 yen!
+Dialogue: 0,0:09:26.71,0:09:28.91,normal_Wed,,0,0,0,,This 100 is so casually stated!
+Dialogue: 0,0:09:28.91,0:09:29.68,normal_Wed,,0,0,0,,Can it be bought?
+Dialogue: 0,0:09:30.48,0:09:31.95,normal_Wed,,0,0,0,,Can I buy it?  \N-Yes, you can.
+Dialogue: 0,0:09:31.95,0:09:32.82,normal_Wed,,0,0,0,,Buy buy buy
+Dialogue: 0,0:09:32.82,0:09:34.49,normal_Wed,,0,0,0,,How much is 100g?
+Dialogue: 0,0:09:34.62,0:09:36.22,normal_Wed,,0,0,0,,400 yen
+Dialogue: 0,0:09:36.49,0:09:39.16,normal_Wed,,0,0,0,,It's a bargain!
+Dialogue: 0,0:09:42.19,0:09:43.96,normal_Wed,,0,0,0,,This is only 200 yen!
+Dialogue: 0,0:09:43.96,0:09:46.66,normal_Wed,,0,0,0,,200 yen, from 450 to 200 yen
+Dialogue: 0,0:09:46.66,0:09:49.37,normal_Wed,,0,0,0,,It's a bargain!
+Dialogue: 0,0:09:51.46,0:09:56.66,normal_Wed,,0,0,0,,Instead of the selected phrase, Ikko surprisingly uses "It's a bargain" instead
+Dialogue: 0,0:09:56.66,0:10:00.15,normal_Wed,,0,0,0,,So Morita attemps to change the situation
+Dialogue: 0,0:10:01.55,0:10:04.68,normal_Wed,,0,0,0,,IKKO, this is only 5 yen, you can buy loads!
+Dialogue: 0,0:10:05.54,0:10:06.69,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:10:06.88,0:10:08.39,normal_Wed,,0,0,0,,Hey, is it really 5 yen?
+Dialogue: 0,0:10:08.39,0:10:09.69,normal_Wed,,0,0,0,,Oh its not
+Dialogue: 0,0:10:10.72,0:10:12.26,normal_Wed,,0,0,0,,They said its not. No
+Dialogue: 0,0:10:12.90,0:10:16.50,normal_Wed,,0,0,0,,Fujimoto immediately blocks his play
+Dialogue: 0,0:10:17.46,0:10:19.80,normal_Wed,,0,0,0,,Let Haranishi pay for it
+Dialogue: 0,0:10:19.80,0:10:21.40,normal_Wed,,0,0,0,,This is for IKKO-san, get the money ready
+Dialogue: 0,0:10:21.53,0:10:22.10,normal_Wed,,0,0,0,,100 yen
+Dialogue: 0,0:10:22.10,0:10:23.40,normal_Wed,,0,0,0,,I don't have 100
+Dialogue: 0,0:10:23.40,0:10:27.74,normal_Wed,,0,0,0,,Not even 100? So stingy~
+Dialogue: 0,0:10:27.74,0:10:30.88,normal_Wed,,0,0,0,,Ah... what the hell~
+Dialogue: 0,0:10:30.88,0:10:34.25,normal_Wed,,0,0,0,,So stingy, wont even give 100 yen, stingy, right?
+Dialogue: 0,0:10:34.25,0:10:35.08,normal_Wed,,0,0,0,,Stingy~
+Dialogue: 0,0:10:35.08,0:10:38.08,normal_Wed,,0,0,0,,Stingy~
+Dialogue: 0,0:10:39.28,0:10:41.85,normal_Wed,,0,0,0,,Seriously stingy!
+Dialogue: 0,0:10:42.19,0:10:44.16,normal_Wed,,0,0,0,,You only have 20 yen?
+Dialogue: 0,0:10:44.16,0:10:45.49,normal_Wed,,0,0,0,,I just brought 20
+Dialogue: 0,0:10:45.49,0:10:46.26,normal_Wed,,0,0,0,,Stingy!
+Dialogue: 0,0:10:46.26,0:10:50.16,normal_Wed,,0,0,0,,Reality~
+Dialogue: 0,0:10:51.25,0:10:55.71,normal_Wed,,0,0,0,,Although they try to elicit a "penniless~" by saying stingy, it doesn't work
+Dialogue: 0,0:10:55.71,0:10:56.98,normal_Wed,,0,0,0,,You have a lot of money in your pocket
+Dialogue: 0,0:10:56.98,0:10:58.93,normal_Wed,,0,0,0,,It can't be helped
+Dialogue: 0,0:10:59.70,0:11:03.02,normal_Wed,,0,0,0,,Next, Diane attempt to setup a play
+Dialogue: 0,0:11:03.57,0:11:05.84,normal_Wed,,0,0,0,,This way
+Dialogue: 0,0:11:06.35,0:11:09.06,normal_Wed,,0,0,0,,IKKO, this seems to be 20 yen
+Dialogue: 0,0:11:09.06,0:11:11.55,normal_Wed,,0,0,0,,IKKO you are leaving the store!
+Dialogue: 0,0:11:11.55,0:11:14.05,normal_Wed,,0,0,0,,You people are so annoying~
+Dialogue: 0,0:11:15.76,0:11:16.61,normal_Wed,,0,0,0,,Wait a minute
+Dialogue: 0,0:11:16.61,0:11:18.52,normal_Wed,,0,0,0,,You're just going to walk away, are you?
+Dialogue: 0,0:11:18.52,0:11:19.29,normal_Wed,,0,0,0,,No, wait a minute
+Dialogue: 0,0:11:19.29,0:11:21.79,normal_Wed,,0,0,0,,You're just going to leave?
+Dialogue: 0,0:11:21.79,0:11:22.59,normal_Wed,,0,0,0,,Go back. Go back
+Dialogue: 0,0:11:22.59,0:11:24.06,normal_Wed,,0,0,0,,We're going back~
+Dialogue: 0,0:11:24.06,0:11:26.49,normal_Wed,,0,0,0,,But this play is also prevented by Fujimoto
+Dialogue: 0,0:11:26.49,0:11:29.33,normal_Wed,,0,0,0,,Konsang Amida~
+Dialogue: 0,0:11:28.75,0:11:30.39,wipe_Wed,,0,0,0,,This sentence has been said so many times
+Dialogue: 0,0:11:29.33,0:11:31.04,normal_Wed,,0,0,0,,What does that mean exactly?
+Dialogue: 0,0:11:31.04,0:11:32.00,normal_Wed,,0,0,0,,What are you saying?
+Dialogue: 0,0:11:41.48,0:11:45.08,normal_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:11:45.08,0:11:47.95,normal_Wed,,0,0,0,,What are you thinking?
+Dialogue: 0,0:11:48.82,0:11:50.46,normal_Wed,,0,0,0,,This is no good, this is stealing!
+Dialogue: 0,0:11:50.46,0:11:52.29,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:11:52.39,0:11:53.93,normal_Wed,,0,0,0,,I'll pay for it. Give it to me
+Dialogue: 0,0:11:54.42,0:11:59.30,normal_Wed,,0,0,0,,Fujimoto used an iron wall defense
+Dialogue: 0,0:11:59.96,0:12:05.94,normal_Wed,,0,0,0,,Haranishi, Haranishi, come and pay
+Dialogue: 0,0:12:05.94,0:12:07.61,normal_Wed,,0,0,0,,He really is Hara-stingy
+Dialogue: 0,0:12:07.61,0:12:08.91,normal_Wed,,0,0,0,,I just don't have the money!
+Dialogue: 0,0:12:08.91,0:12:10.44,normal_Wed,,0,0,0,,Really Hara-stingy
+Dialogue: 0,0:12:10.68,0:12:15.55,normal_Wed,,0,0,0,,Penniless~
+Dialogue: 0,0:12:12.40,0:12:14.35,wipe_Wed,,0,0,0,,Said it!
+Dialogue: 0,0:12:16.13,0:12:20.17,normal_Wed,,0,0,0,,Finally a "Penniless~" is obtained
+Dialogue: 0,0:12:20.17,0:12:22.35,normal_Wed,,0,0,0,,IKKO bring that here
+Dialogue: 0,0:12:22.35,0:12:24.12,normal_Wed,,0,0,0,,Over here!
+Dialogue: 0,0:12:24.12,0:12:25.12,normal_Wed,,0,0,0,,No~
+Dialogue: 0,0:12:25.12,0:12:26.92,normal_Wed,,0,0,0,,Over here!
+Dialogue: 0,0:12:27.43,0:12:28.62,normal_Wed,,0,0,0,,This end, this end, this end...
+Dialogue: 0,0:12:28.62,0:12:30.70,normal_Wed,,0,0,0,,Here, over here
+Dialogue: 0,0:12:30.70,0:12:35.77,normal_Wed,,0,0,0,,This, this and this, i've bought~
+Dialogue: 0,0:12:36.33,0:12:39.36,normal_Wed,,0,0,0,,At the end of this second stage
+Dialogue: 0,0:12:39.84,0:12:42.95,normal_Wed,,0,0,0,,The scores for each team are as follows
+Dialogue: 0,0:12:43.78,0:12:45.72,normal_Wed,,0,0,0,,Adult's purchase~
+Dialogue: 0,0:12:43.78,0:12:45.72,note_Wed,,0,0,0,,{\blur4}※Adults purchase: things you can't afford when you're a kid, so when you grow up, you buy a whole box
+Dialogue: 3,0:12:46.57,0:12:49.04,normal_Wed,,0,0,0,,Next is the third stage
+Dialogue: 3,0:12:50.19,0:12:54.26,normal_Wed,,0,0,0,,The words were changed again
+Dialogue: 2,0:12:49.75,0:13:04.03,special_Wed_4_X,,0,0,0,,{\fs45\c&H020202&\pos(283.5,926)}Condolences~
+Dialogue: 2,0:12:49.75,0:13:04.03,special_Wed_4_X,,0,0,0,,{\fs45\c&H020202&\pos(741,926)}Everest~
+Dialogue: 2,0:12:49.75,0:13:04.03,special_Wed_4_X,,0,0,0,,{\fs45\c&H020202&\pos(1204.5,926)}Photoshoot~
+Dialogue: 3,0:12:54.26,0:12:56.50,normal_Wed,,0,0,0,,Shoulder drop～
+Dialogue: 3,0:12:57.54,0:13:02.29,normal_Wed,,0,0,0,,But none of the groups were able to get even a single point
+Dialogue: 3,0:13:04.82,0:13:07.53,normal_Wed,,0,0,0,,Finally, the last stage
+Dialogue: 3,0:13:11.40,0:13:14.85,normal_Wed,,0,0,0,,The respective IKKO phrases are as follows
+Dialogue: 2,0:13:10.60,0:13:15.74,special_Wed_1_X,,0,0,0,,{\fs45\move(298.5,1062,298.5,920,0,150)}Reality~
+Dialogue: 2,0:13:10.60,0:13:15.74,special_Wed_1_X,,0,0,0,,{\fs45\move(736.5,1062,736.5,920,0,150)}It's the same~
+Dialogue: 2,0:13:10.60,0:13:57.88,special_Wed_1_X,,0,0,0,,{\fs45\c&H020202&\move(1206,1062,1206,920,0,150)}Delicious~
+Dialogue: 3,0:13:15.91,0:13:18.71,normal_Wed,,0,0,0,,I want to go on a date with IKKO!
+Dialogue: 3,0:13:18.71,0:13:22.75,normal_Wed,,0,0,0,,I really want to date together, but that's just a dream
+Dialogue: 3,0:13:22.75,0:13:24.34,normal_Wed,,0,0,0,,Like a dream~
+Dialogue: 3,0:13:24.34,0:13:27.08,normal_Wed,,0,0,0,,Reality～
+Dialogue: 3,0:13:27.17,0:13:31.36,normal_Wed,,0,0,0,,It's a dream come true! \N-Great!
+Dialogue: 3,0:13:33.09,0:13:35.99,normal_Wed,,0,0,0,,Ah, it's a mirror. \N -This way
+Dialogue: 3,0:13:36.00,0:13:38.63,normal_Wed,,0,0,0,,Is it?
+Dialogue: 3,0:13:38.63,0:13:41.93,normal_Wed,,0,0,0,,Special effect~
+Dialogue: 3,0:13:41.98,0:13:44.14,normal_Wed,,0,0,0,,What to do...
+Dialogue: 3,0:13:46.80,0:13:49.37,normal_Wed,,0,0,0,,Please tell me it's a dream~
+Dialogue: 3,0:13:49.41,0:13:52.34,normal_Wed,,0,0,0,,Reality~
+Dialogue: 3,0:13:53.24,0:13:56.26,normal_Wed,,0,0,0,,And thus, the contest ends
+Dialogue: 3,0:13:58.66,0:14:00.43,normal_Wed,,0,0,0,,The results are revealed
+Dialogue: 3,0:14:02.21,0:14:03.12,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:14:04.14,0:14:05.20,normal_Wed,,0,0,0,,What what?
+Dialogue: 0,0:14:06.37,0:14:08.52,normal_Wed,,0,0,0,,We FUJIWARA win!
+Dialogue: 0,0:14:10.23,0:14:14.80,normal_Wed,,0,0,0,,Wait, wait a sec, hang on
+Dialogue: 0,0:14:14.80,0:14:16.53,normal_Wed,,0,0,0,,Wait a minute. \N -What?
+Dialogue: 0,0:14:16.53,0:14:17.36,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:14:18.21,0:14:21.94,normal_Wed,,0,0,0,,Thus we explain the project to IKKO
+Dialogue: 0,0:14:23.27,0:14:24.51,normal_Wed,,0,0,0,,Does IKKO know what this program is?
+Dialogue: 0,0:14:24.51,0:14:26.88,normal_Wed,,0,0,0,,What comes to mind? The program name
+Dialogue: 0,0:14:26.88,0:14:30.26,normal_Wed,,0,0,0,,That one, right? The one with Matsumoto and Hamada.\N  -Yes
+Dialogue: 0,0:14:30.31,0:14:33.25,normal_Wed,,0,0,0,,Wednesday Downtown~
+Dialogue: 0,0:14:33.25,0:14:35.72,normal_Wed,,0,0,0,,Fooled~
+Dialogue: 0,0:14:35.72,0:14:38.46,normal_Wed,,0,0,0,,Penniless~
+Dialogue: 0,0:14:38.46,0:14:41.06,normal_Wed,,0,0,0,,This is a mess! \N -No rules
+Dialogue: 0,0:14:41.26,0:14:43.36,normal_Wed,,0,0,0,,For Downtown...
+Dialogue: 0,0:14:43.36,0:14:46.83,normal_Wed,,0,0,0,,Konsang Amida~
+Dialogue: 0,0:14:47.38,0:14:54.13,normal_Wed,,0,0,0,,{\c&H0201FB&\3c&HFFFFFF&}In summary{\3c\c}\NIKKO's most frequently used phrase on the day was "Kongsang Amida" at 16 times
+Dialogue: 0,0:14:54.71,0:14:56.61,normal_Wed,,0,0,0,,Interesting~ \N -Funny
+Dialogue: 0,0:14:56.61,0:14:59.00,normal_Wed,,0,0,0,,What do you think, Matsumoto?
+Dialogue: 0,0:14:59.00,0:15:01.45,normal_Wed,,0,0,0,,What the hell is with "Konsang Amida"?
+Dialogue: 0,0:15:01.45,0:15:05.71,normal_Wed,,0,0,0,,"Thank you."\N  -It means "thank you"
+Dialogue: 0,0:15:05.71,0:15:07.60,normal_Wed,,0,0,0,,This is the most used phrase, right?
+Dialogue: 0,0:15:07.60,0:15:11.85,normal_Wed,,0,0,0,,I have no clue what the rules were for that
+Dialogue: 0,0:15:11.85,0:15:14.24,normal_Wed,,0,0,0,,She shouts constantly, right?
+Dialogue: 0,0:15:14.24,0:15:17.96,normal_Wed,,0,0,0,,I think her voice is probably even stronger than B'z's Inaba
+Dialogue: 0,0:15:23.26,0:15:25.86,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 0,0:15:32.31,0:15:35.62,normal_Wed,,0,0,0,,Audrey's Kasuga!
+Dialogue: 0,0:15:35.62,0:15:36.83,normal_Wed,,0,0,0,,Twoos
+Dialogue: 0,0:15:39.11,0:15:40.11,normal_Wed,,0,0,0,,Thank you Thank you
+Dialogue: 0,0:15:40.11,0:15:42.77,normal_Wed,,0,0,0,,Are you allowed to be on TV?
+Dialogue: 0,0:15:40.11,0:15:46.66,note_Wed,,0,0,0,,{\an5\pos(720,58)}{\blur4}※Kasuga proposed to his girlfriend of 11 years on April 18 on the variety show "Human Watch" and was later revealed to have met a blonde 10 days before the proposal
+Dialogue: 0,0:15:42.77,0:15:46.66,normal_Wed,,0,0,0,,It's okay, it's not a crime.
+Dialogue: 0,0:15:46.66,0:15:47.76,normal_Wed,,0,0,0,,So its ok...
+Dialogue: 0,0:15:47.76,0:15:50.30,normal_Wed,,0,0,0,,You can't do that.  \N-I didn't commit a crime!
+Dialogue: 0,0:15:51.03,0:15:53.18,normal_Wed,,0,0,0,,But it might be on the same level as a crime though
+Dialogue: 0,0:15:53.68,0:15:57.92,normal_Wed,,0,0,0,,I'm sorry for causing a crime level disturbance
+Dialogue: 0,0:15:57.92,0:16:01.64,normal_Wed,,0,0,0,,This time is the loudness tournament
+Dialogue: 0,0:16:01.64,0:16:04.70,normal_Wed,,0,0,0,,But if it is just an ordinary voice then its not interesting
+Dialogue: 0,0:16:04.70,0:16:07.36,normal_Wed,,0,0,0,,So another element has been added
+Dialogue: 0,0:16:07.36,0:16:09.43,normal_Wed,,0,0,0,,This is what was decided
+Dialogue: 0,0:16:10.55,0:16:12.75,normal_Wed,,0,0,0,,Daily Life Loudness Tournament
+Dialogue: 0,0:16:14.08,0:16:14.91,normal_Wed,,0,0,0,,Daily life?
+Dialogue: 0,0:16:14.91,0:16:18.98,normal_Wed,,0,0,0,,When drinking with other artists in your daily life
+Dialogue: 0,0:16:18.98,0:16:22.45,normal_Wed,,0,0,0,,How loud can junior comedians be
+Dialogue: 0,0:16:23.01,0:16:24.34,normal_Wed,,0,0,0,,With seniors right in front of them
+Dialogue: 0,0:16:24.34,0:16:29.25,normal_Wed,,0,0,0,,If the seniors say "You're so noisy" or something like that, they are disqualified
+Dialogue: 0,0:16:29.85,0:16:31.78,normal_Wed,,0,0,0,,And they'll lose their points
+Dialogue: 0,0:16:31.78,0:16:33.28,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:16:33.28,0:16:35.74,normal_Wed,,0,0,0,,The seniors do not know this thing  \N-Of course
+Dialogue: 0,0:16:36.63,0:16:39.62,normal_Wed,,0,0,0,,It depends on how they control the situation
+Dialogue: 0,0:16:39.62,0:16:42.07,normal_Wed,,0,0,0,,Gradually increase the volume. \N -Yes
+Dialogue: 0,0:16:42.85,0:16:45.08,normal_Wed,,0,0,0,,Does this show not do {\3c&H250FEC&\c&HFFFFFF&}theories{\r} anymore?
+Dialogue: 0,0:16:45.84,0:16:46.80,normal_Wed,,0,0,0,,That's true
+Dialogue: 0,0:16:47.86,0:16:49.78,normal_Wed,,0,0,0,,That was a contest, this is a tournament
+Dialogue: 0,0:17:05.24,0:17:07.96,normal_Wed,,0,0,0,,Daily Life Loudness Tournament
+Dialogue: 0,0:17:08.50,0:17:16.53,normal_Wed,,0,0,0,,This time, comedians known for being loud invited their seniors, who are usually on good terms, to dinner
+Dialogue: 0,0:17:11.59,0:17:13.87,wipe_Wed,,0,0,0,,Juniors and seniors
+Dialogue: 0,0:17:17.38,0:17:22.50,normal_Wed,,0,0,0,,At the meal, they will attempt to speak up without getting called out for it
+Dialogue: 0,0:17:22.50,0:17:25.25,normal_Wed,,0,0,0,,And will compete to see who can reach the highest volume
+Dialogue: 0,0:17:26.08,0:17:28.50,normal_Wed,,0,0,0,,The first challenger is
+Dialogue: 0,0:17:28.96,0:17:31.54,normal_Wed,,0,0,0,,Mikkity！
+Dialogue: 0,0:17:31.54,0:17:33.32,normal_Wed,,0,0,0,,Shoji Tomohara
+Dialogue: 0,0:17:34.29,0:17:36.73,normal_Wed,,0,0,0,,Confident? \N -Yes
+Dialogue: 0,0:17:36.73,0:17:41.14,normal_Wed,,0,0,0,,Don't I have the loudest voice?
+Dialogue: 0,0:17:41.37,0:17:47.65,normal_Wed,,0,0,0,,It would be nice to use a loud voice subtly in conversation
+Dialogue: 0,0:17:48.34,0:17:52.26,normal_Wed,,0,0,0,,The target is...
+Dialogue: 0,0:17:56.04,0:17:58.47,normal_Wed,,0,0,0,,Penalty's Wakki
+Dialogue: 0,0:18:00.29,0:18:01.86,wipe_Wed,,0,0,0,,What is this hairstyle
+Dialogue: 0,0:17:59.23,0:18:02.98,normal_Wed,,0,0,0,,My wife said the landlord is coming today
+Dialogue: 0,0:18:03.51,0:18:05.17,normal_Wed,,0,0,0,,So find a good one...
+Dialogue: 0,0:18:06.82,0:18:08.20,wipe_Wed,,0,0,0,,Isn't that a clock?
+Dialogue: 0,0:18:11.32,0:18:12.73,wipe_Wed,,0,0,0,,This is to measure the volume
+Dialogue: 0,0:18:11.30,0:18:13.62,normal_Wed,,0,0,0,,Behind the targets is...
+Dialogue: 0,0:18:13.62,0:18:19.25,normal_Wed,,0,0,0,,A special volume meter with radio microphone is installed
+Dialogue: 0,0:18:20.29,0:18:23.84,normal_Wed,,0,0,0,,That, to begin with, will appear simply to be a clock
+Dialogue: 0,0:18:24.51,0:18:27.88,normal_Wed,,0,0,0,,It will be used to record and show the volume
+Dialogue: 0,0:18:27.88,0:18:33.90,normal_Wed,,0,0,0,,So that challengers can confirm the decibels they are producing
+Dialogue: 0,0:18:34.98,0:18:38.43,normal_Wed,,0,0,0,,And so, the tournament begins
+Dialogue: 0,0:18:39.28,0:18:40.93,normal_Wed,,0,0,0,,And quickly...
+Dialogue: 0,0:18:44.74,0:18:45.90,normal_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:18:48.92,0:18:49.88,normal_Wed,,0,0,0,,Drinking
+Dialogue: 0,0:18:49.88,0:18:51.09,normal_Wed,,0,0,0,,Seriously, that...
+Dialogue: 0,0:18:46.34,0:18:51.11,special_Wed_4_X,,0,0,0,,{\pos(1191,374)\c&HFFFFFF&\3c&H0E00DC&\clip(1009.5,308,1396.5,370)}Peak Volume
+Dialogue: 0,0:18:53.28,0:18:58.79,normal_Wed,,0,0,0,,By making the "drinking a beer breath", the volume went up to 95.9 decibels
+Dialogue: 0,0:18:58.07,0:18:59.14,wipe_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:19:00.88,0:19:05.28,normal_Wed,,0,0,0,,This is the same noise level as a barking dog
+Dialogue: 0,0:19:02.90,0:19:05.27,wipe_Wed,,0,0,0,,Pretty loud
+Dialogue: 0,0:19:06.08,0:19:07.75,normal_Wed,,0,0,0,,It is ignored by Wakki
+Dialogue: 0,0:19:08.46,0:19:12.33,normal_Wed,,0,0,0,,My instagram followers are gradually becoming less and less
+Dialogue: 0,0:19:12.33,0:19:14.14,normal_Wed,,0,0,0,,It can get lower?
+Dialogue: 0,0:19:14.14,0:19:18.94,normal_Wed,,0,0,0,,I've always had very little, only 42,000
+Dialogue: 0,0:19:18.94,0:19:19.90,normal_Wed,,0,0,0,,Always
+Dialogue: 0,0:19:20.07,0:19:23.11,normal_Wed,,0,0,0,,And the number of likes is also really small
+Dialogue: 0,0:19:28.98,0:19:30.68,normal_Wed,,0,0,0,,Damn it
+Dialogue: 0,0:19:31.07,0:19:38.82,normal_Wed,,0,0,0,,I always upload photos from manzai shows, right?
+Dialogue: 0,0:19:38.82,0:19:41.29,normal_Wed,,0,0,0,,Only 350 likes!
+Dialogue: 0,0:19:41.36,0:19:43.26,normal_Wed,,0,0,0,,Damn it
+Dialogue: 0,0:19:44.70,0:19:46.00,normal_Wed,,0,0,0,,Damn it
+Dialogue: 0,0:19:46.64,0:19:51.57,normal_Wed,,0,0,0,,Lamenting the number of instagram followers hits 99 decibels
+Dialogue: 0,0:19:52.37,0:19:57.99,normal_Wed,,0,0,0,,In addition, the challenge will end when the special call button is pressed
+Dialogue: 0,0:19:58.73,0:20:03.23,normal_Wed,,0,0,0,,The highest decibel value up to that point will represent challenger's performance
+Dialogue: 0,0:20:04.21,0:20:05.74,normal_Wed,,0,0,0,,Right at this moment
+Dialogue: 0,0:20:07.92,0:20:11.82,normal_Wed,,0,0,0,,This is soup noodles \N -Soup noodles?
+Dialogue: 0,0:20:14.59,0:20:17.19,normal_Wed,,0,0,0,,I might like that
+Dialogue: 0,0:20:17.19,0:20:20.06,normal_Wed,,0,0,0,,What is this sense of sophistication?
+Dialogue: 0,0:20:20.48,0:20:23.22,normal_Wed,,0,0,0,,Here Shoji fights to win
+Dialogue: 0,0:20:23.22,0:20:25.44,normal_Wed,,0,0,0,,It looks like I'd like it
+Dialogue: 0,0:20:25.54,0:20:27.24,normal_Wed,,0,0,0,,Please can we have some more soup noodles
+Dialogue: 0,0:20:31.48,0:20:35.81,normal_Wed,,0,0,0,,Another serving please
+Dialogue: 0,0:20:35.94,0:20:37.37,wipe_Wed,,0,0,0,,So powerful, over 100
+Dialogue: 0,0:20:37.35,0:20:39.42,normal_Wed,,0,0,0,,Your voice is too loud, right?
+Dialogue: 0,0:20:41.04,0:20:46.00,normal_Wed,,0,0,0,,Shoji is disqualified
+Dialogue: 0,0:20:46.67,0:20:49.31,normal_Wed,,0,0,0,,Thus, the project is revealed
+Dialogue: 0,0:20:52.36,0:20:53.46,normal_Wed,,0,0,0,,Seriously?
+Dialogue: 0,0:20:53.46,0:20:55.70,normal_Wed,,0,0,0,,You're out because he pointed it out
+Dialogue: 0,0:20:55.70,0:20:58.30,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:20:58.67,0:21:00.00,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:21:00.00,0:21:02.21,normal_Wed,,0,0,0,,The sound was too big, too big!
+Dialogue: 0,0:21:02.21,0:21:04.04,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:21:04.44,0:21:06.48,normal_Wed,,0,0,0,,I thought I was doing pretty good...
+Dialogue: 0,0:21:06.48,0:21:11.48,normal_Wed,,0,0,0,,He figured it out? \N-Yes
+Dialogue: 0,0:21:15.39,0:21:16.72,normal_Wed,,0,0,0,,And what is this?
+Dialogue: 0,0:21:18.77,0:21:21.76,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:21:25.88,0:21:27.66,normal_Wed,,0,0,0,,Miki's Kosei
+Dialogue: 0,0:21:27.38,0:21:28.88,wipe_Wed,,0,0,0,,Ah, he's noisy!
+Dialogue: 0,0:21:28.56,0:21:31.21,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:21:34.13,0:21:37.14,normal_Wed,,0,0,0,,Nichokenju's Shuji
+Dialogue: 0,0:21:37.14,0:21:39.98,normal_Wed,,0,0,0,,Are you starring in Jimbocho today?
+Dialogue: 0,0:21:39.98,0:21:43.75,normal_Wed,,0,0,0,,No, how do I put it?
+Dialogue: 0,0:21:43.75,0:21:45.45,normal_Wed,,0,0,0,,It's more of a special guest kind of thing
+Dialogue: 0,0:21:45.45,0:21:46.88,normal_Wed,,0,0,0,,Invited by whom?
+Dialogue: 0,0:21:46.88,0:21:47.82,normal_Wed,,0,0,0,,Hurrica~nes' Arai and the like
+Dialogue: 0,0:21:49.40,0:21:50.87,wipe_Wed,,0,0,0,,So loud, so loud
+Dialogue: 0,0:21:50.87,0:21:52.05,wipe_Wed,,0,0,0,,The sound is so loud
+Dialogue: 0,0:21:49.95,0:21:52.69,normal_Wed,,0,0,0,,After the event there...
+Dialogue: 0,0:21:55.41,0:21:58.80,wipe_Wed,,0,0,0,,Slightly annoying
+Dialogue: 0,0:21:55.76,0:22:00.88,normal_Wed,,0,0,0,,Kosei starts by exceeding 103
+Dialogue: 0,0:22:01.30,0:22:04.07,normal_Wed,,0,0,0,,Which NSC class were you in? \N-Osaka 12
+Dialogue: 0,0:22:01.30,0:22:04.07,note_Wed,,0,0,0,,{\blur4}※NSC is a comprehensive arts academy founded by Yoshimoto, called "New Star Creation"
+Dialogue: 0,0:22:04.08,0:22:05.94,normal_Wed,,0,0,0,,You're 12?
+Dialogue: 0,0:22:05.94,0:22:08.97,normal_Wed,,0,0,0,,I'm 30 \N-You went to NSC?
+Dialogue: 0,0:22:08.97,0:22:11.74,normal_Wed,,0,0,0,,I didn't go, but i'm in that age group
+Dialogue: 0,0:22:11.88,0:22:15.25,normal_Wed,,0,0,0,,You were 12! We're 18 years apart!
+Dialogue: 0,0:22:15.22,0:22:17.12,wipe_Wed,,0,0,0,,Why does he have to say this loudly?
+Dialogue: 0,0:22:15.25,0:22:19.72,normal_Wed,,0,0,0,,You were just a kid when I started out, right?
+Dialogue: 0,0:22:19.72,0:22:21.75,normal_Wed,,0,0,0,,It was '93. \N -93?
+Dialogue: 0,0:22:21.75,0:22:26.92,normal_Wed,,0,0,0,,9…93？
+Dialogue: 0,0:22:27.65,0:22:31.72,normal_Wed,,0,0,0,,This is how you win high scores in a row, by overreacting
+Dialogue: 0,0:22:31.72,0:22:32.82,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:22:34.00,0:22:38.40,normal_Wed,,0,0,0,,Is this it? Is this whale meat?
+Dialogue: 0,0:22:38.51,0:22:39.81,normal_Wed,,0,0,0,,It's not the same at all
+Dialogue: 0,0:22:39.81,0:22:41.17,normal_Wed,,0,0,0,,I'll try it
+Dialogue: 0,0:22:45.59,0:22:47.27,normal_Wed,,0,0,0,,Super delicious!
+Dialogue: 0,0:22:48.18,0:22:50.82,normal_Wed,,0,0,0,,It's super tasty. Try it too. \N -Really?
+Dialogue: 0,0:22:51.70,0:22:55.97,normal_Wed,,0,0,0,,In this way, Kosei continuously hits 100 decibels
+Dialogue: 0,0:22:52.70,0:22:55.30,wipe_Wed,,0,0,0,,So strong, so normal as well
+Dialogue: 0,0:22:56.74,0:23:00.08,normal_Wed,,0,0,0,,Eat it, please
+Dialogue: 0,0:23:01.16,0:23:02.13,normal_Wed,,0,0,0,,This is delicious!
+Dialogue: 0,0:23:02.13,0:23:04.13,normal_Wed,,0,0,0,,Yes!
+Dialogue: 0,0:23:04.95,0:23:10.79,normal_Wed,,0,0,0,,This bewildering "yes!" reaches a record high of 106.5 decibels
+Dialogue: 0,0:23:10.79,0:23:11.40,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:23:11.40,0:23:13.60,normal_Wed,,0,0,0,,Is it good?\N  -Super delicious
+Dialogue: 0,0:23:26.08,0:23:28.62,normal_Wed,,0,0,0,,Eh? What?
+Dialogue: 0,0:23:29.49,0:23:32.06,normal_Wed,,0,0,0,,Here the button is pressed to end the game
+Dialogue: 0,0:23:32.06,0:23:33.01,normal_Wed,,0,0,0,,I made it
+Dialogue: 0,0:23:33.62,0:23:40.24,normal_Wed,,0,0,0,,With a record of 108.5 decibels, Miki's Kosei is temporarily in first place
+Dialogue: 0,0:23:35.19,0:23:37.46,wipe_Wed,,0,0,0,,Impressive to reach 108
+Dialogue: 0,0:23:41.69,0:23:44.70,normal_Wed,,0,0,0,,The next big voice artist to challenge is
+Dialogue: 0,0:23:48.26,0:23:50.52,normal_Wed,,0,0,0,,Sunshine Ikesaki
+Dialogue: 0,0:23:49.14,0:23:51.14,wipe_Wed,,0,0,0,,He's usually pretty quiet
+Dialogue: 0,0:23:51.42,0:23:54.32,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:23:59.60,0:24:02.29,normal_Wed,,0,0,0,,CoolPoko.'s Ono Majime
+Dialogue: 0,0:24:01.37,0:24:02.63,wipe_Wed,,0,0,0,,A good choice
+Dialogue: 0,0:24:03.15,0:24:04.76,normal_Wed,,0,0,0,,What do you want to eat?
+Dialogue: 0,0:24:04.76,0:24:09.36,normal_Wed,,0,0,0,,Well, how about... tempura
+Dialogue: 0,0:24:09.41,0:24:11.60,normal_Wed,,0,0,0,,Don't make so much noise!
+Dialogue: 0,0:24:11.60,0:24:13.30,normal_Wed,,0,0,0,,Don't be so loud
+Dialogue: 0,0:24:13.80,0:24:16.67,normal_Wed,,0,0,0,,Sunshine Ikesaki is disqualified
+Dialogue: 0,0:24:18.00,0:24:20.57,normal_Wed,,0,0,0,,Too fast!
+Dialogue: 0,0:24:21.48,0:24:23.85,normal_Wed,,0,0,0,,The next loudmouth challenger is
+Dialogue: 0,0:24:27.91,0:24:30.10,normal_Wed,,0,0,0,,Jungle Pocket's Saito
+Dialogue: 0,0:24:30.98,0:24:33.32,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:24:35.61,0:24:37.59,normal_Wed,,0,0,0,,Captain Watanabe
+Dialogue: 0,0:24:38.25,0:24:41.79,normal_Wed,,0,0,0,,I'll start with a draft beer
+Dialogue: 0,0:24:42.03,0:24:45.46,normal_Wed,,0,0,0,,It's not just about winning at Oaks, you can't afford not to win anywhere
+Dialogue: 0,0:24:45.46,0:24:50.90,normal_Wed,,0,0,0,,But Oaks and Derby these two weeks
+Dialogue: 0,0:24:50.90,0:24:54.10,normal_Wed,,0,0,0,,It's hard to win in Tokyo, but last time it was at the high-speed track, wasn't it?
+Dialogue: 0,0:24:54.10,0:24:55.51,normal_Wed,,0,0,0,,The horse farm, right?
+Dialogue: 0,0:24:45.46,0:24:50.90,note_Wed,,0,0,0,,{\blur4}※Derby refers to the Tokyo Yusen horse race, which is held by the Japan Central Horse Racing Association at Tokyo Race Course.
+Dialogue: 0,0:24:50.90,0:24:54.10,note_Wed,,0,0,0,,{\blur4}※High-speed racecourse: A track where horses can enter the line quickly.
+Dialogue: 0,0:24:55.51,0:24:58.81,normal_Wed,,0,0,0,,So it won't work at the high-speed track.\N  -This can't be helped
+Dialogue: 0,0:24:59.38,0:25:04.10,normal_Wed,,0,0,0,,The conversation turns to the topic of horse racing, a common hobby of the two men
+Dialogue: 0,0:25:04.38,0:25:06.92,normal_Wed,,0,0,0,,Aren't there Kawasaki Milers today?
+Dialogue: 0,0:25:04.38,0:25:06.92,note_Wed,,0,0,0,,{\blur4}※Kawasaki Milers is a prize horse race held at Kawasaki Racecourse by the Kawasaki Horse Racing Group in Kanagawa Prefecture.
+Dialogue: 0,0:25:06.92,0:25:08.82,normal_Wed,,0,0,0,,I haven't seen it yet. \N -You haven't seen it yet
+Dialogue: 0,0:25:08.82,0:25:10.92,normal_Wed,,0,0,0,,I watched the game and the last one
+Dialogue: 0,0:25:10.92,0:25:15.49,normal_Wed,,0,0,0,,But the last one I didn't win any
+Dialogue: 0,0:25:15.49,0:25:17.03,normal_Wed,,0,0,0,,I already know the results. \N -You do?
+Dialogue: 0,0:25:17.28,0:25:19.41,normal_Wed,,0,0,0,,You better not say, please Cap
+Dialogue: 0,0:25:19.41,0:25:24.10,normal_Wed,,0,0,0,,Don't say it, really. Don't say it, really
+Dialogue: 0,0:25:24.10,0:25:27.30,normal_Wed,,0,0,0,,Don't say anything? I just wanted to give you a little hint
+Dialogue: 0,0:25:27.30,0:25:28.84,normal_Wed,,0,0,0,,No hints, don't say anything
+Dialogue: 0,0:25:28.84,0:25:30.57,normal_Wed,,0,0,0,,No tips either!
+Dialogue: 0,0:25:30.57,0:25:31.71,normal_Wed,,0,0,0,,Seriously, don't say it!
+Dialogue: 0,0:25:31.93,0:25:38.23,normal_Wed,,0,0,0,,The tug-of-war between betting on the outcome of a horse race horse is constantly interspersed with jabbing attacks
+Dialogue: 0,0:25:39.15,0:25:40.28,normal_Wed,,0,0,0,,Wait wait
+Dialogue: 0,0:25:40.28,0:25:43.12,normal_Wed,,0,0,0,,Was your horse in the top three?
+Dialogue: 0,0:25:43.12,0:25:44.45,normal_Wed,,0,0,0,,Are you gonna look?
+Dialogue: 0,0:25:44.76,0:25:46.96,normal_Wed,,0,0,0,,Shall we look together?
+Dialogue: 0,0:25:47.45,0:25:53.76,normal_Wed,,0,0,0,,They watch the video to confirm the results of the match that Saito doesn't know yet
+Dialogue: 0,0:25:54.49,0:25:55.54,normal_Wed,,0,0,0,,It's started!
+Dialogue: 0,0:25:56.22,0:25:59.64,normal_Wed,,0,0,0,,Ah, we're up and running
+Dialogue: 0,0:25:59.64,0:26:02.11,normal_Wed,,0,0,0,,The start is good
+Dialogue: 0,0:26:06.66,0:26:07.84,normal_Wed,,0,0,0,,After
+Dialogue: 0,0:26:13.65,0:26:15.39,normal_Wed,,0,0,0,,It's coming!
+Dialogue: 0,0:26:15.39,0:26:17.42,normal_Wed,,0,0,0,,Charge, charge, charge!
+Dialogue: 0,0:26:17.42,0:26:19.39,normal_Wed,,0,0,0,,Can't you? Can't you?
+Dialogue: 0,0:26:19.39,0:26:20.79,normal_Wed,,0,0,0,,Charge, charge, charge, charge!
+Dialogue: 0,0:26:20.79,0:26:22.59,normal_Wed,,0,0,0,,Charge-
+Dialogue: 0,0:26:22.59,0:26:23.83,normal_Wed,,0,0,0,,Charge, charge, charge, charge!
+Dialogue: 0,0:26:23.83,0:26:24.80,normal_Wed,,0,0,0,,Charge-
+Dialogue: 0,0:26:24.80,0:26:28.40,normal_Wed,,0,0,0,,Charge! Charge-ah-rush!
+Dialogue: 0,0:26:30.32,0:26:34.40,normal_Wed,,0,0,0,,While pretending to fully support the horse he bet on
+Dialogue: 0,0:26:34.75,0:26:39.52,normal_Wed,,0,0,0,,In fact, he is staring at the decibel meter while sending out loud and continuous noises
+Dialogue: 0,0:26:40.45,0:26:41.63,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:26:42.23,0:26:49.15,normal_Wed,,0,0,0,,Can you hear the song of the combatants?
+Dialogue: 0,0:26:49.15,0:26:54.09,normal_Wed,,0,0,0,,Drumming is that what~ you know that song?
+Dialogue: 0,0:26:54.16,0:27:03.33,normal_Wed,,0,0,0,,Hot blooded life is about to start anew♪
+Dialogue: 0,0:27:03.33,0:27:05.00,normal_Wed,,0,0,0,,Not at all
+Dialogue: 0,0:27:05.58,0:27:09.84,normal_Wed,,0,0,0,,The direction is changed to musical style singing
+Dialogue: 0,0:27:10.38,0:27:11.56,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:27:12.37,0:27:17.98,normal_Wed,,0,0,0,,Can you hear the song of the combatants?
+Dialogue: 0,0:27:18.93,0:27:22.22,normal_Wed,,0,0,0,,At this point he is just one step away from the reigning champion
+Dialogue: 0,0:27:22.22,0:27:25.02,normal_Wed,,0,0,0,,A record of 107.9 decibels
+Dialogue: 0,0:27:25.62,0:27:28.39,normal_Wed,,0,0,0,,You love to sing too much, right?
+Dialogue: 0,0:27:28.98,0:27:30.89,normal_Wed,,0,0,0,,Although picked up on his behavior
+Dialogue: 0,0:27:30.89,0:27:34.43,normal_Wed,,0,0,0,,Since this is not a volume alert, it is considered safe
+Dialogue: 0,0:27:35.45,0:27:36.53,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:27:40.50,0:27:41.60,normal_Wed,,0,0,0,,I'd like to order a cup of oolong tea with sake  \N-OK
+Dialogue: 0,0:27:41.60,0:27:43.27,normal_Wed,,0,0,0,,I'll have an oolong tea
+Dialogue: 0,0:27:43.27,0:27:45.88,normal_Wed,,0,0,0,,This is delicious.  \N-Yummy
+Dialogue: 0,0:27:45.88,0:27:48.41,normal_Wed,,0,0,0,,It's really delicious. \N -Thanks
+Dialogue: 0,0:27:48.64,0:27:49.88,normal_Wed,,0,0,0,,Combatants~
+Dialogue: 0,0:27:49.88,0:27:52.28,normal_Wed,,0,0,0,,You're so noisy!
+Dialogue: 0,0:27:52.28,0:27:56.69,normal_Wed,,0,0,0,,Don't do such things to the workers
+Dialogue: 0,0:27:57.46,0:28:01.03,normal_Wed,,0,0,0,,As he couldn't resist in front of the staff
+Dialogue: 0,0:28:01.65,0:28:03.81,normal_Wed,,0,0,0,,He is warned without hesitation
+Dialogue: 0,0:28:04.99,0:28:09.17,normal_Wed,,0,0,0,,Thus, Saito is disqualified
+Dialogue: 0,0:28:10.12,0:28:12.77,normal_Wed,,0,0,0,,The last big voice artist is
+Dialogue: 0,0:28:16.74,0:28:17.77,wipe_Wed,,0,0,0,,Good choice
+Dialogue: 0,0:28:17.59,0:28:19.65,normal_Wed,,0,0,0,,Hollywood Zakoshi
+Dialogue: 0,0:28:21.33,0:28:24.86,normal_Wed,,0,0,0,,The final stage of the competition involves...
+Dialogue: 0,0:28:24.86,0:28:26.21,normal_Wed,,0,0,0,,Hollywood Zakoshi
+Dialogue: 0,0:28:26.54,0:28:27.76,wipe_Wed,,0,0,0,,Certainly loud
+Dialogue: 0,0:28:27.22,0:28:29.55,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:28:33.01,0:28:34.69,normal_Wed,,0,0,0,,Nadani Takeshi
+Dialogue: 0,0:28:37.10,0:28:39.04,wipe_Wed,,0,0,0,,Wow, only one person succeeded!
+Dialogue: 0,0:28:35.62,0:28:38.84,normal_Wed,,0,0,0,,With only Hollywood Zakoshi left
+Dialogue: 0,0:28:38.84,0:28:42.61,normal_Wed,,0,0,0,,Will he be able to take the top spot?
+Dialogue: 0,0:28:46.76,0:28:48.36,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:28:51.58,0:28:56.48,normal_Wed,,0,0,0,,What's that? \N -Bearded Baron
+Dialogue: 0,0:28:56.85,0:28:58.95,normal_Wed,,0,0,0,,I don't see it, its too exaggerated
+Dialogue: 0,0:29:00.09,0:29:04.59,normal_Wed,,0,0,0,,A usual exaggerated imitation hits just a little over 100 decibels
+Dialogue: 0,0:29:04.59,0:29:07.66,normal_Wed,,0,0,0,,I don't see it, its too exaggerated
+Dialogue: 0,0:29:07.76,0:29:11.41,normal_Wed,,0,0,0,,Despite commenting on the imitation, the loudness is ignored
+Dialogue: 0,0:29:12.96,0:29:14.23,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:29:17.33,0:29:22.14,normal_Wed,,0,0,0,,The show just now \N -Club?
+Dialogue: 0,0:29:22.14,0:29:23.47,normal_Wed,,0,0,0,,The club in Shibuya
+Dialogue: 0,0:29:24.01,0:29:27.04,normal_Wed,,0,0,0,,There was someone exactly like my act \N -Who?
+Dialogue: 0,0:29:27.04,0:29:31.50,normal_Wed,,0,0,0,,The person in charge, he wasn't funny at all and got angry
+Dialogue: 0,0:29:31.50,0:29:32.18,normal_Wed,,0,0,0,,What was he like?
+Dialogue: 0,0:29:32.98,0:29:36.79,normal_Wed,,0,0,0,,I can't thank you enough!
+Dialogue: 0,0:29:38.39,0:29:40.96,wipe_Wed,,0,0,0,,The sound is so loud and strong
+Dialogue: 0,0:29:40.77,0:29:42.85,normal_Wed,,0,0,0,,I really thank you for coming.
+Dialogue: 0,0:29:43.49,0:29:45.38,wipe_Wed,,0,0,0,,Wow ah ah ah ah so strong
+Dialogue: 0,0:29:44.89,0:29:47.25,normal_Wed,,0,0,0,,Through a succession of exaggerated imitations
+Dialogue: 0,0:29:47.25,0:29:52.05,normal_Wed,,0,0,0,,He is just 0.2 decibels away from matching the current reigning record
+Dialogue: 0,0:29:52.05,0:29:54.66,normal_Wed,,0,0,0,,108.3 decibels
+Dialogue: 0,0:29:56.26,0:29:57.31,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:29:59.57,0:30:01.98,normal_Wed,,0,0,0,,The unfunny guy? \N -That's the guy who invited you to participate in the unfunny bit
+Dialogue: 0,0:30:02.25,0:30:05.92,normal_Wed,,0,0,0,,Tani reacted like "It's a cold day..." in the lounge
+Dialogue: 0,0:30:05.92,0:30:08.75,normal_Wed,,0,0,0,,How about I pretend to be in charge and say this to you?
+Dialogue: 0,0:30:09.45,0:30:11.59,normal_Wed,,0,0,0,,Ok i'll do a bit
+Dialogue: 0,0:30:11.59,0:30:14.26,normal_Wed,,0,0,0,,A few days ago I was condescendingly criticized
+Dialogue: 0,0:30:14.26,0:30:16.86,normal_Wed,,0,0,0,,Really, it wasn't by a friend either
+Dialogue: 0,0:30:16.86,0:30:20.66,normal_Wed,,0,0,0,,Well, they could be considered a friend, thank you very much
+Dialogue: 0,0:30:20.66,0:30:22.33,normal_Wed,,0,0,0,,Then the scene changes
+Dialogue: 0,0:30:22.97,0:30:28.37,normal_Wed,,0,0,0,,Thank you for your hard work.  \N-Thank you so much
+Dialogue: 0,0:30:28.40,0:30:31.29,normal_Wed,,0,0,0,,I'm so thankful you're here
+Dialogue: 0,0:30:36.01,0:30:38.75,normal_Wed,,0,0,0,,That's pretty much it, right?
+Dialogue: 0,0:30:39.55,0:30:41.69,normal_Wed,,0,0,0,,Eh, what is this?
+Dialogue: 0,0:30:44.67,0:30:49.38,normal_Wed,,0,0,0,,{\c&H0201FB&\3c&HFFFFFF&}In summary{\c\3c}\NHollywood Zakoshi is invincible in this type of project
+Dialogue: 0,0:30:49.38,0:30:50.67,normal_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:30:51.01,0:30:52.31,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:30:52.31,0:30:55.83,normal_Wed,,0,0,0,,Unsurprisingly, Zakoshi was good at it
+Dialogue: 0,0:30:55.83,0:30:57.93,normal_Wed,,0,0,0,,It was wonderful, the whole process
+Dialogue: 0,0:30:57.93,0:31:00.06,normal_Wed,,0,0,0,,As a musician, what do you think?
+Dialogue: 0,0:31:00.06,0:31:03.24,normal_Wed,,0,0,0,,For typical drinking sessions, the style etc
+Dialogue: 0,0:31:03.24,0:31:06.16,normal_Wed,,0,0,0,,I do have the impression that there are a lot of people who can make a scene
+Dialogue: 0,0:31:07.67,0:31:10.84,normal_Wed,,0,0,0,,But in terms of comedians or other people from the entertainment industry drinking
+Dialogue: 0,0:31:10.84,0:31:13.94,normal_Wed,,0,0,0,,I think teams are probably more over the top
+Dialogue: 0,0:31:13.94,0:31:16.94,normal_Wed,,0,0,0,,Bands? \N-Well, musicians
+Dialogue: 0,0:31:16.94,0:31:18.61,normal_Wed,,0,0,0,,It's not a band, it's a team?
+Dialogue: 0,0:31:19.54,0:31:20.66,normal_Wed,,0,0,0,,Because you said "team"
+Dialogue: 0,0:31:20.66,0:31:23.60,normal_Wed,,0,0,0,,In Saitama everyone says "team"
+Dialogue: 0,0:31:23.60,0:31:25.35,normal_Wed,,0,0,0,,I've kept it going
+Dialogue: 0,0:31:28.22,0:31:31.73,normal_Wed,,0,0,0,,Zakoshi's throat is really resitant to so much sound
+Dialogue: 0,0:31:31.73,0:31:34.22,normal_Wed,,0,0,0,,It's really as resistant as B'z's Inaba
+Dialogue: 0,0:31:31.73,0:31:34.22,note_Wed,,0,0,0,,{\blur4}※B'z is a Japanese rock group formed by guitarist Takahiro Matsumoto and vocalist Hiroshi Inaba. Inaba-san is known for his unique voice and singing ability.
+Dialogue: 0,0:31:34.22,0:31:35.27,normal_Wed,,0,0,0,,We've heard enough of that!
+Dialogue: 0,0:31:35.94,0:31:38.82,normal_Wed,,0,0,0,,Why enough? I'm trying to salvage a previous conversation
+Dialogue: 0,0:31:40.81,0:31:47.08,normal_Wed,,0,0,0,,Next is everybody's theories
+Dialogue: 0,0:31:47.68,0:31:49.70,normal_Wed,,0,0,0,,Tonight's presenter is
+Dialogue: 0,0:31:51.63,0:31:55.33,normal_Wed,,0,0,0,,Super Sasadango Machine
+Dialogue: 0,0:31:55.70,0:31:56.30,normal_Wed,,0,0,0,,Hello everyone
+Dialogue: 0,0:31:56.30,0:31:57.85,normal_Wed,,0,0,0,,It's been a long time. \N -It's been a long time indeed
+Dialogue: 0,0:31:57.85,0:31:58.89,normal_Wed,,0,0,0,,Yes, that...
+Dialogue: 0,0:31:58.89,0:32:00.83,normal_Wed,,0,0,0,,Sorry, your mouth is a bit crooked tonight
+Dialogue: 0,0:32:00.83,0:32:01.88,normal_Wed,,0,0,0,,Ah, really?
+Dialogue: 0,0:32:01.88,0:32:04.40,normal_Wed,,0,0,0,,The mask is still new...
+Dialogue: 0,0:32:04.40,0:32:05.54,normal_Wed,,0,0,0,,There you go
+Dialogue: 0,0:32:05.54,0:32:07.07,normal_Wed,,0,0,0,,Most of your face is visible
+Dialogue: 0,0:32:09.05,0:32:10.81,normal_Wed,,0,0,0,,Basically, you can see...
+Dialogue: 0,0:32:12.14,0:32:14.64,normal_Wed,,0,0,0,,Is it okay to continue shooting like this?
+Dialogue: 0,0:32:14.64,0:32:16.17,normal_Wed,,0,0,0,,It's fine it's fine
+Dialogue: 0,0:32:16.17,0:32:19.05,normal_Wed,,0,0,0,,That, because it's been three years
+Dialogue: 0,0:32:19.05,0:32:22.66,normal_Wed,,0,0,0,,I want to start over again with self-introductions
+Dialogue: 0,0:32:22.66,0:32:27.45,normal_Wed,,0,0,0,,Excuse me, my name is Super Sasadango Machine and I'm a wrestler
+Dialogue: 0,0:32:27.45,0:32:32.08,normal_Wed,,0,0,0,,Live in Niigata-shi, Niigata, Higashi-ku, Yuraku 2-chome
+Dialogue: 0,0:32:32.08,0:32:34.69,normal_Wed,,0,0,0,,Now 41 years old, father of two. \N -Your whole life story
+Dialogue: 0,0:32:35.14,0:32:36.50,normal_Wed,,0,0,0,,It's Dad!
+Dialogue: 0,0:32:36.50,0:32:39.69,normal_Wed,,0,0,0,,Normally a member of Tokyo DDT, a wrestling group
+Dialogue: 0,0:32:39.69,0:32:41.41,normal_Wed,,0,0,0,,It belongs to Matsutake Arts
+Dialogue: 0,0:32:41.41,0:32:42.18,normal_Wed,,0,0,0,,Ah, it's Matsutake Arts
+Dialogue: 0,0:32:42.18,0:32:43.81,normal_Wed,,0,0,0,,Yes, activities are carried out under Matsuzake Arts
+Dialogue: 0,0:32:44.29,0:32:47.81,normal_Wed,,0,0,0,,I have two surefire techniques
+Dialogue: 0,0:32:47.81,0:32:51.22,normal_Wed,,0,0,0,,One of them is the "Vertical Drop Rayman Impact" wrestling technique
+Dialogue: 0,0:32:51.22,0:32:55.38,normal_Wed,,0,0,0,,The other is ppt presentation
+Dialogue: 0,0:32:55.38,0:32:57.92,normal_Wed,,0,0,0,,In a nutshell, violence and the power of presentation
+Dialogue: 0,0:32:57.92,0:32:59.78,normal_Wed,,0,0,0,,With these two powers
+Dialogue: 0,0:32:59.78,0:33:02.42,normal_Wed,,0,0,0,,I can solve most of the world's tasks
+Dialogue: 0,0:33:02.76,0:33:04.21,normal_Wed,,0,0,0,,I think so
+Dialogue: 0,0:33:04.21,0:33:05.57,normal_Wed,,0,0,0,,Violence is included
+Dialogue: 0,0:33:06.25,0:33:08.15,normal_Wed,,0,0,0,,Roughly these two can solve everything
+Dialogue: 0,0:33:08.15,0:33:09.44,normal_Wed,,0,0,0,,Is that so?  \N-Yes
+Dialogue: 0,0:33:09.44,0:33:14.49,normal_Wed,,0,0,0,,The topic we want to solve today is this
+Dialogue: 0,0:33:14.49,0:33:16.47,normal_Wed,,0,0,0,,The general public's thoughts
+Dialogue: 0,0:33:16.47,0:33:21.01,normal_Wed,,0,0,0,,Are that wrestling moves can be easily done
+Dialogue: 0,0:33:21.01,0:33:24.32,normal_Wed,,0,0,0,,Most people think this way
+Dialogue: 0,0:33:24.32,0:33:27.36,normal_Wed,,0,0,0,,I want to erase this impression completely
+Dialogue: 0,0:33:27.36,0:33:28.69,normal_Wed,,0,0,0,,For example
+Dialogue: 0,0:33:28.69,0:33:33.28,normal_Wed,,0,0,0,,Muto Keiji-san's unbeatable technique figure four leg lock
+Dialogue: 0,0:33:33.28,0:33:39.31,normal_Wed,,0,0,0,,It's a joint technique that holds your opponent's leg in the shape of a 4 and tightens it
+Dialogue: 0,0:33:39.31,0:33:41.36,normal_Wed,,0,0,0,,How powerful is this move?
+Dialogue: 0,0:33:41.36,0:33:44.01,normal_Wed,,0,0,0,,The memory should still be fresh in your mind
+Dialogue: 0,0:33:44.01,0:33:47.12,normal_Wed,,0,0,0,,October 9, 1995, a long time ago
+Dialogue: 0,0:33:47.12,0:33:49.25,normal_Wed,,0,0,0,,New Japan vs. UWF Inter Total Matchup
+Dialogue: 0,0:33:49.25,0:33:50.76,normal_Wed,,0,0,0,,Exactly two months before I was born
+Dialogue: 0,0:33:50.76,0:33:53.14,normal_Wed,,0,0,0,,Two months before your birth?\N  -Yes
+Dialogue: 0,0:33:53.14,0:33:55.56,normal_Wed,,0,0,0,,Muto Keiji made Heisei's fighting king Takada Yoshihiko surrender by using the move
+Dialogue: 0,0:33:55.56,0:33:58.15,normal_Wed,,0,0,0,,Although it is such an intense move
+Dialogue: 0,0:33:58.15,0:34:00.67,normal_Wed,,0,0,0,,You may still think
+Dialogue: 0,0:34:00.67,0:34:06.12,normal_Wed,,0,0,0,,"It's easy to do?", possibly
+Dialogue: 0,0:34:06.86,0:34:10.23,normal_Wed,,0,0,0,,So, the theory I bring today is this:
+Dialogue: 0,0:34:11.65,0:34:16.05,normal_Wed,,0,0,0,,It is impossible to teach women the figure four leg lock over the telephone
+Dialogue: 0,0:34:19.28,0:34:20.85,normal_Wed,,0,0,0,,What the hell is this?
+Dialogue: 0,0:34:21.56,0:34:26.88,normal_Wed,,0,0,0,,It is impossible to teach women the figure four leg lock over the telephone
+Dialogue: 0,0:34:27.76,0:34:29.41,normal_Wed,,0,0,0,,So, with haste
+Dialogue: 0,0:34:30.76,0:34:35.09,normal_Wed,,0,0,0,,We hand a phone to the Asagaya sisters who know nothing
+Dialogue: 0,0:34:36.95,0:34:40.79,normal_Wed,,0,0,0,,Instructions will come through the phone that was just given to you
+Dialogue: 0,0:34:40.79,0:34:43.09,normal_Wed,,0,0,0,,Eh? Instructions?
+Dialogue: 0,0:34:43.26,0:34:44.13,normal_Wed,,0,0,0,,Someone will call?
+Dialogue: 0,0:34:44.13,0:34:48.00,normal_Wed,,0,0,0,,Yes, you will then follow the instructions
+Dialogue: 0,0:34:48.00,0:34:49.60,normal_Wed,,0,0,0,,Eh? Eh?
+Dialogue: 0,0:34:50.21,0:34:51.58,normal_Wed,,0,0,0,,The instructions are...
+Dialogue: 0,0:34:51.58,0:34:53.83,normal_Wed,,0,0,0,,How to perform the figure four leg lock
+Dialogue: 0,0:34:53.83,0:34:56.18,normal_Wed,,0,0,0,,This is the way to decide the winner. This is my...
+Dialogue: 0,0:34:56.84,0:34:58.61,normal_Wed,,0,0,0,,Figure four leg lock
+Dialogue: 0,0:35:00.56,0:35:05.20,normal_Wed,,0,0,0,,It involves fixing the opponent's leg in the shape of a number 4 and tightening it
+Dialogue: 0,0:35:05.75,0:35:08.69,normal_Wed,,0,0,0,,It is one of the most famous wrestling moves
+Dialogue: 0,0:35:10.17,0:35:14.42,normal_Wed,,0,0,0,,To teach this move by phone is this man
+Dialogue: 0,0:35:16.22,0:35:17.67,normal_Wed,,0,0,0,,Keiji Muto
+Dialogue: 0,0:35:18.93,0:35:20.10,normal_Wed,,0,0,0,,Are you confident?
+Dialogue: 0,0:35:20.66,0:35:25.50,normal_Wed,,0,0,0,,I call myself "Japan's No. 1 figure four leg locker"
+Dialogue: 0,0:35:26.24,0:35:29.59,normal_Wed,,0,0,0,,So, the verification begins quickly
+Dialogue: 0,0:35:31.07,0:35:32.78,normal_Wed,,0,0,0,,Ah its here
+Dialogue: 0,0:35:35.38,0:35:36.81,normal_Wed,,0,0,0,,Hello, this is Kimura
+Dialogue: 0,0:35:37.61,0:35:41.25,normal_Wed,,0,0,0,,Hello, I'm the wrestler Muto
+Dialogue: 0,0:35:41.78,0:35:43.89,normal_Wed,,0,0,0,,Oh, hello
+Dialogue: 0,0:35:43.89,0:35:47.92,normal_Wed,,0,0,0,,Is it Miho of the Asagaya sisters?  \N-Yes
+Dialogue: 0,0:35:48.83,0:35:52.23,normal_Wed,,0,0,0,,There's no time so i'll start
+Dialogue: 0,0:35:52.40,0:35:57.93,special_Wed_5_X - 复制,,0,0,0,,{\frx300,\t(0,150,\frx360)}{\pos(733.5,886)\fs45\c&H0E00DC&\org(733.5,856)}{\shad3}{\bord1}Rule 1 {\c&HFBF8FF&}Restricted Time{\c&H3011ED&}{\shad3} 5 minutes
+Dialogue: 0,0:35:52.35,0:35:57.93,normal_Wed,,0,0,0,,Who is it? \N -I'm going to teach you a wrestling move
+Dialogue: 0,0:35:57.93,0:36:01.20,normal_Wed,,0,0,0,,Be sure to do as I say
+Dialogue: 0,0:36:01.60,0:36:02.85,normal_Wed,,0,0,0,,You have a partner, right?
+Dialogue: 0,0:36:02.85,0:36:04.17,normal_Wed,,0,0,0,,Yes, I do
+Dialogue: 0,0:36:04.17,0:36:07.28,normal_Wed,,0,0,0,,First, let the partner lie down on her back
+Dialogue: 0,0:36:07.28,0:36:08.75,normal_Wed,,0,0,0,,We're starting now?
+Dialogue: 0,0:36:08.75,0:36:10.86,normal_Wed,,0,0,0,,Let's start now... because there's not much time left
+Dialogue: 0,0:36:10.86,0:36:12.75,normal_Wed,,0,0,0,,Okay, so I can do it?
+Dialogue: 0,0:36:12.75,0:36:15.49,normal_Wed,,0,0,0,,What? What "can I do it"?
+Dialogue: 0,0:36:15.49,0:36:18.42,normal_Wed,,0,0,0,,That... fall down on your back... fall down...
+Dialogue: 0,0:36:18.42,0:36:18.89,normal_Wed,,0,0,0,,Fall down fall down
+Dialogue: 0,0:36:18.89,0:36:20.69,normal_Wed,,0,0,0,,What? What's going on?
+Dialogue: 0,0:36:20.69,0:36:21.26,normal_Wed,,0,0,0,,Fall down quickly
+Dialogue: 0,0:36:21.26,0:36:22.89,normal_Wed,,0,0,0,,Ok ok, get down quickly \N -What?
+Dialogue: 0,0:36:22.89,0:36:24.86,normal_Wed,,0,0,0,,Shoes... its better to take off
+Dialogue: 0,0:36:24.86,0:36:26.90,normal_Wed,,0,0,0,,Shoes are best taken off
+Dialogue: 0,0:36:26.90,0:36:28.40,normal_Wed,,0,0,0,,Have your partner take off her shoes.\N  -Okay
+Dialogue: 0,0:36:28.57,0:36:34.27,special_Wed_5_X - 复制,,0,0,0,,{\frx300,\t(0,145,\frx360)\clip(219,802,1165.5,940)\pos(735,890)\org(733.5,866)}{\pos(733.5,886)\fs45\c&H0E00DC&\org(733.5,856)}{\bord1}Rule 2   {\a} {\c&HFBF8FF&}    Only give clues {\c&H3011ED&}{\shad4}
+Dialogue: 0,0:36:28.63,0:36:34.27,normal_Wed,,0,0,0,,And then... on your partner's crotch
+Dialogue: 0,0:36:34.44,0:36:36.84,normal_Wed,,0,0,0,,Crotch, okay.  \N-Crotch?
+Dialogue: 0,0:36:36.84,0:36:41.48,normal_Wed,,0,0,0,,Put your right foot at the base of your hips \N -Good
+Dialogue: 0,0:36:41.48,0:36:43.45,normal_Wed,,0,0,0,,Can you say anything other than "yes", Miho?
+Dialogue: 0,0:36:43.91,0:36:46.39,normal_Wed,,0,0,0,,What do you want?\N  -The crotch... ah...
+Dialogue: 0,0:36:46.40,0:36:48.32,normal_Wed,,0,0,0,,Is that so?
+Dialogue: 0,0:36:50.53,0:36:57.79,normal_Wed,,0,0,0,,{\pos(886.5,878)\clip(522,766,1168.5,876)}What do you want?
+Dialogue: 0,0:36:48.32,0:36:52.16,normal_Wed,,0,0,0,,Put your right foot in the crotch area
+Dialogue: 0,0:36:52.16,0:36:59.23,normal_Wed,,0,0,0,,Left foot on the outside of the opponent's right foot
+Dialogue: 0,0:36:57.79,0:36:59.22,normal_Wed,,0,0,0,,{\pos(720,870)}You're too noisy!
+Dialogue: 0,0:37:00.33,0:37:02.90,normal_Wed,,0,0,0,,The right foot is under the hips, right?
+Dialogue: 0,0:37:02.90,0:37:06.67,normal_Wed,,0,0,0,,The crotch... stand by yourself...
+Dialogue: 0,0:37:06.69,0:37:09.24,normal_Wed,,0,0,0,,Stand on your own, stand on your own
+Dialogue: 0,0:37:09.37,0:37:15.48,normal_Wed,,0,0,0,,Then bend from the waist down
+Dialogue: 0,0:37:16.11,0:37:20.82,normal_Wed,,0,0,0,,Can you grab the opponent's left heel?
+Dialogue: 0,0:37:20.82,0:37:21.35,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:37:21.58,0:37:22.82,normal_Wed,,0,0,0,,Left foot, eh?
+Dialogue: 0,0:37:22.82,0:37:27.12,normal_Wed,,0,0,0,,Bend down, after bending down, how to put it...
+Dialogue: 0,0:37:27.12,0:37:29.89,normal_Wed,,0,0,0,,Put the head... the head...
+Dialogue: 0,0:37:30.03,0:37:32.33,normal_Wed,,0,0,0,,Extend your foot a little bit, this foot
+Dialogue: 0,0:37:32.33,0:37:35.23,normal_Wed,,0,0,0,,Like this? Is it like this?
+Dialogue: 0,0:37:33.86,0:37:35.04,wipe_Wed,,0,0,0,,Twister?
+Dialogue: 0,0:37:35.88,0:37:36.73,wipe_Wed,,0,0,0,,It's kind of...
+Dialogue: 0,0:37:36.60,0:37:40.17,normal_Wed,,0,0,0,,I just grabbed the heel from the crotch
+Dialogue: 0,0:37:40.64,0:37:45.24,normal_Wed,,0,0,0,,Then grab it while landing on your buttocks
+Dialogue: 0,0:37:45.29,0:37:48.75,normal_Wed,,0,0,0,,From here, this way?
+Dialogue: 0,0:37:48.75,0:37:50.98,normal_Wed,,0,0,0,,Ah, it feels like a trick of some kind
+Dialogue: 0,0:37:50.98,0:37:54.88,normal_Wed,,0,0,0,,Then the opponent's left foot is like the shape of a V
+Dialogue: 0,0:37:54.88,0:37:59.82,normal_Wed,,0,0,0,,A V on its side
+Dialogue: 0,0:37:59.82,0:38:03.06,normal_Wed,,0,0,0,,The V is slightly more medial than the heel
+Dialogue: 0,0:38:03.06,0:38:09.30,normal_Wed,,0,0,0,,Put your left foot on it
+Dialogue: 0,0:38:09.30,0:38:12.10,normal_Wed,,0,0,0,,Hey? Like this?
+Dialogue: 0,0:38:13.97,0:38:16.37,normal_Wed,,0,0,0,,The left foot put on top
+Dialogue: 0,0:38:16.57,0:38:18.81,normal_Wed,,0,0,0,,So like this, the other person is in pain, right?
+Dialogue: 0,0:38:19.01,0:38:21.08,normal_Wed,,0,0,0,,Not at all. Even a little sleepy
+Dialogue: 0,0:38:21.08,0:38:22.08,normal_Wed,,0,0,0,,Very sleepy
+Dialogue: 0,0:38:22.08,0:38:23.75,normal_Wed,,0,0,0,,It doesn't seem to hurt at all
+Dialogue: 0,0:38:23.75,0:38:24.69,normal_Wed,,0,0,0,,What's more
+Dialogue: 0,0:38:25.92,0:38:27.58,normal_Wed,,0,0,0,,Done?
+Dialogue: 0,0:38:27.82,0:38:30.22,normal_Wed,,0,0,0,,It shouldn't be like this
+Dialogue: 0,0:38:30.21,0:38:32.09,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:38:32.09,0:38:33.99,normal_Wed,,0,0,0,,What do you think, referee?
+Dialogue: 0,0:38:33.99,0:38:36.93,normal_Wed,,0,0,0,,Is the move complete?
+Dialogue: 0,0:38:33.99,0:38:38.96,special_Wed_5_X - 复制,,0,0,0,,{\frx300,\t(0,150,\frx360)}{\fad(0,200)}{\pos(733.5,886)\fs45\c&H0E00DC&\org(733.5,856)}{\bord0}Rule 3  {\c&HFBF8FF&}the judge decides{\c&H3011ED&}{\shad4}
+Dialogue: 0,0:38:36.93,0:38:38.96,normal_Wed,,0,0,0,,No! Fight!
+Dialogue: 0,0:38:39.06,0:38:41.53,normal_Wed,,0,0,0,,Fight? Fight?
+Dialogue: 0,0:38:41.70,0:38:44.30,normal_Wed,,0,0,0,,Eh? No?
+Dialogue: 0,0:38:46.65,0:38:48.90,wipe_Wed,,0,0,0,,It's tough
+Dialogue: 0,0:38:48.03,0:38:50.61,normal_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:38:50.61,0:38:52.71,normal_Wed,,0,0,0,,I'm obviously trying super hard to explain
+Dialogue: 0,0:38:53.60,0:38:55.71,normal_Wed,,0,0,0,,Sure enough, it's impossible
+Dialogue: 0,0:38:57.33,0:38:59.49,normal_Wed,,0,0,0,,The next challengers are
+Dialogue: 0,0:39:02.24,0:39:04.05,normal_Wed,,0,0,0,,Ganbare Luya
+Dialogue: 0,0:39:05.64,0:39:08.90,normal_Wed,,0,0,0,,This time we switch the figure four leg lock
+Dialogue: 0,0:39:14.80,0:39:17.52,normal_Wed,,0,0,0,,Do the swastika hold
+Dialogue: 0,0:39:19.06,0:39:22.84,normal_Wed,,0,0,0,,A telephone explanation by its creator, Genichiro Tenryu
+Dialogue: 0,0:39:22.84,0:39:24.17,normal_Wed,,0,0,0,,It's impossible to hear anything he says
+Dialogue: 0,0:39:24.17,0:39:26.30,normal_Wed,,0,0,0,,The meaning wont come through at all
+Dialogue: 0,0:39:26.30,0:39:27.54,normal_Wed,,0,0,0,,No problem, don't worry
+Dialogue: 0,0:39:28.50,0:39:32.53,normal_Wed,,0,0,0,,Have you ever been put in a figure four leg lock? \N-No
+Dialogue: 0,0:39:32.53,0:39:34.32,normal_Wed,,0,0,0,,But i've been licked
+Dialogue: 0,0:39:34.32,0:39:36.77,normal_Wed,,0,0,0,,Licked? What do you  mean licked? Licked what?
+Dialogue: 0,0:39:36.77,0:39:38.31,normal_Wed,,0,0,0,,So... knees
+Dialogue: 0,0:39:38.31,0:39:40.31,normal_Wed,,0,0,0,,What the hell are you talking about?
+Dialogue: 0,0:39:41.97,0:39:47.32,normal_Wed,,0,0,0,,Now, Tenryu explains the swastika hold to Ganbare Luya by phone
+Dialogue: 0,0:39:48.28,0:39:50.08,wipe_Wed,,0,0,0,,The point of this has changed
+Dialogue: 0,0:39:50.10,0:39:50.93,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:39:51.20,0:39:52.90,normal_Wed,,0,0,0,,Yoshiko
+Dialogue: 0,0:39:52.90,0:39:56.34,normal_Wed,,0,0,0,,That... I'm Tenryu
+Dialogue: 0,0:39:56.81,0:40:02.81,normal_Wed,,0,0,0,,Now, can you move around like I say?
+Dialogue: 0,0:40:00.37,0:40:01.50,wipe_Wed,,0,0,0,,Quite frightening
+Dialogue: 0,0:40:02.93,0:40:05.15,normal_Wed,,0,0,0,,Sounds like a kidnapper...
+Dialogue: 0,0:40:05.55,0:40:07.82,normal_Wed,,0,0,0,,Where is Mahiru?
+Dialogue: 0,0:40:07.82,0:40:11.59,normal_Wed,,0,0,0,,Hey... how to say, can she get on all fours?
+Dialogue: 0,0:40:11.99,0:40:14.16,normal_Wed,,0,0,0,,Mahiru on all fours
+Dialogue: 0,0:40:14.16,0:40:14.89,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:40:14.89,0:40:18.73,normal_Wed,,0,0,0,,Then Yoshiko \N- I'll do it
+Dialogue: 0,0:40:18.73,0:40:23.97,normal_Wed,,0,0,0,,Can you go around to the left side of Mahiru?
+Dialogue: 0,0:40:23.97,0:40:25.40,normal_Wed,,0,0,0,,Mahiru's left side
+Dialogue: 0,0:40:26.77,0:40:29.74,normal_Wed,,0,0,0,,Go around to the left
+Dialogue: 0,0:40:30.01,0:40:37.51,normal_Wed,,0,0,0,,Can you use your right foot to hook Mahiru's left foot?
+Dialogue: 0,0:40:40.72,0:40:42.69,normal_Wed,,0,0,0,,It hurts. What's wrong?
+Dialogue: 0,0:40:42.69,0:40:43.85,normal_Wed,,0,0,0,,It hurts...
+Dialogue: 0,0:40:44.53,0:40:45.71,normal_Wed,,0,0,0,,Good kick
+Dialogue: 0,0:40:46.29,0:40:50.96,normal_Wed,,0,0,0,,Yoshiko mishears "hook" as "kick"
+Dialogue: 0,0:40:49.50,0:40:51.14,wipe_Wed,,0,0,0,,Probably doesn't know hook
+Dialogue: 0,0:40:52.13,0:40:53.53,normal_Wed,,0,0,0,,Start all over again!
+Dialogue: 0,0:40:54.80,0:40:58.03,normal_Wed,,0,0,0,,I don't understand, can you please speak a little louder?
+Dialogue: 0,0:40:58.40,0:41:00.67,normal_Wed,,0,0,0,,If Mahiru doesn't stand right its not possible
+Dialogue: 0,0:41:00.67,0:41:02.21,normal_Wed,,0,0,0,,If Mahiru doesn't stand we can't do it?
+Dialogue: 0,0:41:02.21,0:41:05.17,normal_Wed,,0,0,0,,Bending a little is better
+Dialogue: 0,0:41:05.17,0:41:07.34,normal_Wed,,0,0,0,,Mahiru needs to bend a little better
+Dialogue: 0,0:41:07.34,0:41:09.55,normal_Wed,,0,0,0,,Focus your strength on the lower body
+Dialogue: 0,0:41:09.89,0:41:13.32,normal_Wed,,0,0,0,,@#$%*&...the pose
+Dialogue: 0,0:41:13.55,0:41:17.09,normal_Wed,,0,0,0,,I'm sorry, could you be a little more clear? I'm sorry...
+Dialogue: 0,0:41:17.14,0:41:19.86,normal_Wed,,0,0,0,,Mahiru's body bends forward
+Dialogue: 0,0:41:20.12,0:41:28.56,normal_Wed,,0,0,0,,Wrap your right foot around Mahiru's left ankle
+Dialogue: 0,0:41:29.07,0:41:32.30,normal_Wed,,0,0,0,,My right foot is wrapped around Mahiru's left foot, right?
+Dialogue: 0,0:41:32.30,0:41:37.87,normal_Wed,,0,0,0,,So is my right foot in front of or behind Mahiru's left foot... \N -The front
+Dialogue: 0,0:41:37.87,0:41:39.64,normal_Wed,,0,0,0,,Wrap from the front
+Dialogue: 0,0:41:38.34,0:41:41.26,wipe_Wed,,0,0,0,,Good question
+Dialogue: 0,0:41:39.94,0:41:47.12,normal_Wed,,0,0,0,,Go through the front and stop right at Mahiru's ankle
+Dialogue: 0,0:41:47.42,0:41:50.02,normal_Wed,,0,0,0,,Ah, I see. Okay, okay
+Dialogue: 0,0:41:50.02,0:41:52.79,normal_Wed,,0,0,0,,It's hooked, right?  \N-Yes, yes, yes
+Dialogue: 0,0:41:52.79,0:41:54.56,normal_Wed,,0,0,0,,Mahiru is bent forward
+Dialogue: 0,0:41:54.56,0:41:55.96,normal_Wed,,0,0,0,,Mahiru bends forward
+Dialogue: 0,0:41:55.96,0:42:01.26,normal_Wed,,0,0,0,,You'll be under Ma's right armpit
+Dialogue: 0,0:42:01.26,0:42:06.54,normal_Wed,,0,0,0,,Use your left hand to pass through to the neck area
+Dialogue: 0,0:42:06.54,0:42:08.60,normal_Wed,,0,0,0,,What kind of posture is Mahiru in at this time?
+Dialogue: 0,0:42:08.60,0:42:10.31,normal_Wed,,0,0,0,,Just stay bent forward
+Dialogue: 0,0:42:10.31,0:42:12.64,normal_Wed,,0,0,0,,Then you bend down a little more
+Dialogue: 0,0:42:12.64,0:42:13.67,normal_Wed,,0,0,0,,Hands should not touch the ground
+Dialogue: 0,0:42:13.67,0:42:16.01,normal_Wed,,0,0,0,,Cannot touch the ground
+Dialogue: 0,0:42:12.90,0:42:14.28,wipe_Wed,,0,0,0,,Pretty good?
+Dialogue: 0,0:42:16.01,0:42:17.02,normal_Wed,,0,0,0,,Concentrate power on the abdomen
+Dialogue: 0,0:42:17.02,0:42:18.65,normal_Wed,,0,0,0,,Concentration of force on the abdomen
+Dialogue: 0,0:42:18.65,0:42:20.58,normal_Wed,,0,0,0,,Ah, I got it. I did it
+Dialogue: 0,0:42:20.64,0:42:23.41,normal_Wed,,0,0,0,,@#$%*&...and it's okay, right?
+Dialogue: 0,0:42:23.41,0:42:24.59,normal_Wed,,0,0,0,,Huh? What did you say?
+Dialogue: 0,0:42:24.59,0:42:26.82,normal_Wed,,0,0,0,,You are wearing good quality clothes so you should be fine
+Dialogue: 0,0:42:26.82,0:42:27.76,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:42:27.76,0:42:29.29,normal_Wed,,0,0,0,,Ah, forget it. Nothing.  \N-Sorry
+Dialogue: 0,0:42:29.50,0:42:31.99,normal_Wed,,0,0,0,,Don't say irrelevant things
+Dialogue: 0,0:42:32.26,0:42:39.54,normal_Wed,,0,0,0,,Then put your left foot on Mahiru's head
+Dialogue: 0,0:42:40.00,0:42:42.07,normal_Wed,,0,0,0,,Put it on Mahiru's head
+Dialogue: 0,0:42:43.57,0:42:44.77,normal_Wed,,0,0,0,,Prepare then hitch it up
+Dialogue: 0,0:42:46.04,0:42:46.88,normal_Wed,,0,0,0,,OK？
+Dialogue: 0,0:42:46.88,0:42:49.05,normal_Wed,,0,0,0,,Referee
+Dialogue: 0,0:42:51.58,0:42:52.01,normal_Wed,,0,0,0,,OK
+Dialogue: 0,0:42:52.55,0:42:54.68,normal_Wed,,0,0,0,,OK
+Dialogue: 0,0:42:55.73,0:43:01.79,normal_Wed,,0,0,0,,The Tenryu and Ganbare Luya Team complete swastika hold in 4 minutes and 12 seconds
+Dialogue: 0,0:43:03.14,0:43:08.00,normal_Wed,,0,0,0,,Therefore, the next step is to raise the difficulty of the move to another level
+Dialogue: 0,0:43:08.00,0:43:09.57,normal_Wed,,0,0,0,,Winners and losers are yet to be determined...
+Dialogue: 0,0:43:13.31,0:43:14.91,normal_Wed,,0,0,0,,Bow and Arrow
+Dialogue: 0,0:43:16.45,0:43:19.20,normal_Wed,,0,0,0,,Fixed head and foot lift
+Dialogue: 0,0:43:19.20,0:43:20.98,normal_Wed,,0,0,0,,Lifting the opponent with the knee
+Dialogue: 0,0:43:20.98,0:43:23.54,normal_Wed,,0,0,0,,A rather complex trick
+Dialogue: 0,0:43:21.78,0:43:23.54,wipe_Wed,,0,0,0,,Looks so painful
+Dialogue: 0,0:43:23.94,0:43:29.84,normal_Wed,,0,0,0,,Challenging this trick are these two
+Dialogue: 0,0:43:29.49,0:43:30.82,wipe_Wed,,0,0,0,,The same persona
+Dialogue: 0,0:43:31.46,0:43:35.20,normal_Wed,,0,0,0,,The caller is this old acquaintance
+Dialogue: 0,0:43:37.36,0:43:39.41,normal_Wed,,0,0,0,,The plan is explained
+Dialogue: 0,0:43:40.96,0:43:43.67,normal_Wed,,0,0,0,,Ah, no problem at all. It will be done immediately
+Dialogue: 0,0:43:43.67,0:43:44.47,normal_Wed,,0,0,0,,"Bow and arrow hold", right?
+Dialogue: 0,0:43:44.47,0:43:48.70,normal_Wed,,0,0,0,,Well, well, well. "Bow and Arrow" is a sure win!
+Dialogue: 0,0:43:48.78,0:43:49.89,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:43:49.35,0:43:51.18,normal_Wed,,0,0,0,,So the validation begins
+Dialogue: 0,0:43:51.18,0:43:53.36,normal_Wed,,0,0,0,,I am the beast god, Liger
+Dialogue: 0,0:43:53.41,0:43:54.48,normal_Wed,,0,0,0,,Then I'm counting on you
+Dialogue: 0,0:43:54.48,0:43:55.28,normal_Wed,,0,0,0,,What? What? What? What? What? What? What?
+Dialogue: 0,0:43:55.78,0:44:02.35,normal_Wed,,0,0,0,,Let Nishino lie prostrate on the mat
+Dialogue: 0,0:44:02.55,0:44:06.82,normal_Wed,,0,0,0,,Lie on your stomach here
+Dialogue: 0,0:44:07.06,0:44:14.46,normal_Wed,,0,0,0,,Suzuki, standing right at the waist.\N  -I see
+Dialogue: 0,0:44:15.06,0:44:16.53,normal_Wed,,0,0,0,,Stand well
+Dialogue: 0,0:44:16.53,0:44:20.54,normal_Wed,,0,0,0,,Suzuki's toes\N -Yes
+Dialogue: 0,0:44:20.54,0:44:26.08,normal_Wed,,0,0,0,,Slightly tense both toes \N -Tighten up, ok, tightening up
+Dialogue: 0,0:44:26.08,0:44:28.84,normal_Wed,,0,0,0,,A state like this
+Dialogue: 0,0:44:28.84,0:44:33.18,normal_Wed,,0,0,0,,Put your toes tucked in under her stomach
+Dialogue: 0,0:44:33.18,0:44:35.38,normal_Wed,,0,0,0,,Is that so?  \N-Terrible, terrible
+Dialogue: 0,0:44:35.38,0:44:39.79,normal_Wed,,0,0,0,,Tuck your toes under the belly  \N-Tucked in
+Dialogue: 0,0:44:40.14,0:44:46.43,normal_Wed,,0,0,0,,Hold this position and slightly seat yourself on Nishino's waist
+Dialogue: 0,0:44:47.93,0:44:49.93,normal_Wed,,0,0,0,,Okay, I'm in position\N -It hurts
+Dialogue: 0,0:44:49.93,0:44:51.07,normal_Wed,,0,0,0,,So painful, so painful, so painful
+Dialogue: 0,0:44:51.47,0:44:56.38,normal_Wed,,0,0,0,,Then bend Nishino's left foot up
+Dialogue: 0,0:44:57.09,0:45:03.85,normal_Wed,,0,0,0,,After that, the difficult "Bow and Arrow" hold is taught with precise instructions
+Dialogue: 0,0:45:03.85,0:45:04.85,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:45:04.91,0:45:10.25,normal_Wed,,0,0,0,,Then, Suzuki, hold the chin position and flip backwards.\N  -Ok
+Dialogue: 0,0:45:10.25,0:45:14.86,normal_Wed,,0,0,0,,Nishino's waist is just above your calf in the posture
+Dialogue: 0,0:45:15.06,0:45:18.66,normal_Wed,,0,0,0,,Can I put the phone down for a while?\N  -Yes
+Dialogue: 0,0:45:19.23,0:45:21.33,normal_Wed,,0,0,0,,Then i'll do it \N-My jaw is about to burst
+Dialogue: 0,0:45:21.33,0:45:22.30,normal_Wed,,0,0,0,,Say "one, two"!
+Dialogue: 0,0:45:22.57,0:45:23.77,normal_Wed,,0,0,0,,Okay, I'll start
+Dialogue: 0,0:45:23.77,0:45:24.73,normal_Wed,,0,0,0,,Ah, scary
+Dialogue: 0,0:45:24.73,0:45:25.87,normal_Wed,,0,0,0,,One, two
+Dialogue: 0,0:45:32.37,0:45:33.84,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:45:33.84,0:45:36.08,normal_Wed,,0,0,0,,Thank you very much
+Dialogue: 0,0:45:36.87,0:45:40.58,normal_Wed,,0,0,0,,Relying on Liger's mind and Suzuki Nana's physical ability
+Dialogue: 0,0:45:40.58,0:45:43.60,normal_Wed,,0,0,0,,Outstandingly, the "Bow and Arrow" hold was successfully completed
+Dialogue: 0,0:45:44.06,0:45:48.66,normal_Wed,,0,0,0,,{\c&H0201FB&\3c&HFFFFFF&}In summary\N{\3c\c}Depending on the number of moves some can be taught successfully
+Dialogue: 0,0:45:49.18,0:45:51.41,normal_Wed,,0,0,0,,Only the four figure leg lock did not work  \N-Yes
+Dialogue: 0,0:45:51.41,0:45:53.09,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:45:53.09,0:45:55.10,normal_Wed,,0,0,0,,Ikoma, is it doable?
+Dialogue: 0,0:45:55.10,0:45:56.21,normal_Wed,,0,0,0,,Remember?
+Dialogue: 0,0:45:56.21,0:45:57.28,normal_Wed,,0,0,0,,Remember?
+Dialogue: 0,0:45:57.28,0:46:00.21,normal_Wed,,0,0,0,,Most people who watched it should be able to complete the four figure leg lock now
+Dialogue: 0,0:46:00.21,0:46:02.05,normal_Wed,,0,0,0,,The four figure leg lock? \N -Yes
+Dialogue: 0,0:46:02.05,0:46:04.87,normal_Wed,,0,0,0,,Yes, I would like to try it
+Dialogue: 0,0:46:04.87,0:46:05.69,normal_Wed,,0,0,0,,Please do!
+Dialogue: 0,0:46:05.69,0:46:06.83,normal_Wed,,0,0,0,,With whom?
+Dialogue: 0,0:46:07.52,0:46:08.99,normal_Wed,,0,0,0,,With my mom, like this
+Dialogue: 0,0:46:08.99,0:46:11.97,normal_Wed,,0,0,0,,To your mother? You can't do that to your mom!
+Dialogue: 0,0:46:13.22,0:46:14.43,normal_Wed,,0,0,0,,Mom's knees would break
+Dialogue: 0,0:46:15.17,0:46:17.01,normal_Wed,,0,0,0,,A late Mother's Day gift
+Dialogue: 0,0:46:17.01,0:46:18.63,normal_Wed,,0,0,0,,A Mother's Day gift?
+Dialogue: 0,0:46:18.63,0:46:19.75,normal_Wed,,0,0,0,,Sounds good
+Dialogue: 0,0:46:19.75,0:46:20.90,normal_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:46:20.90,0:46:23.11,normal_Wed,,0,0,0,,What is this, what's going on?
+Dialogue: 0,0:46:24.26,0:47:09.94,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

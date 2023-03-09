@@ -1,0 +1,713 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki_161016_#1326_Kiki Melonpan.mp4
+Video File: Gaki_161016_#1326_Kiki Melonpan.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Hamada,Arial,50,&H00FF2E00,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Yamazaki,Arial,50,&H0018CE22,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Tanaka,Arial,50,&H00DF0090,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Matsumoto,Arial,50,&H001528D6,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Endo,Arial,50,&H000086E4,&H000000FF,&H00FFFFFF,&H64000000,-1,0,0,0,75,100,0,0,1,5,4,2,10,10,15,1
+Style: Credit,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H64000000,-1,0,0,0,75,100,0,0,1,2,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:04.92,Credit,,0,0,0,,Translated and Subbed by Colin Burdett\N Contact at colinburdett54@gmail.com \NEditing: euricaeris & Rylix
+Dialogue: 0,0:00:00.53,0:00:02.63,Hamada,,0,0,0,,For the first time on Gaki no Tsukai Ya Ara hen De Chiki Chiki!
+Dialogue: 0,0:00:02.63,0:00:05.76,Hamada,,0,0,0,,Put your life on the line with one bite and win 100,000 yen
+Dialogue: 0,0:00:05.76,0:00:07.76,Hamada,,0,0,0,,Kiki Melon Pan!!!
+Dialogue: 0,0:00:07.76,0:00:09.16,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:00:07.76,0:00:09.15,Endo,,0,0,0,,Alright
+Dialogue: 0,0:00:11.36,0:00:12.15,Hamada,,0,0,0,,Matsumoto-san
+Dialogue: 0,0:00:12.15,0:00:12.76,Matsumoto,,0,0,0,,Yes yes
+Dialogue: 0,0:00:12.76,0:00:14.63,Hamada,,0,0,0,,I said that this is the 40th Kiki
+Dialogue: 0,0:00:14.13,0:00:14.63,Tanaka,,0,0,0,,Wow
+Dialogue: 0,0:00:14.63,0:00:17.86,Matsumoto,,0,0,0,,We've eaten that much food, huh
+Dialogue: 0,0:00:17.86,0:00:21.23,Hamada,,0,0,0,,The last one that Matsumoto got correct was 3 years ago
+Dialogue: 0,0:00:21.23,0:00:22.13,Matsumoto,,0,0,0,,A couple years, huh
+Dialogue: 0,0:00:21.53,0:00:22.73,Yamazaki,,0,0,0,,{\pos(720,766)}Huhhh
+Dialogue: 0,0:00:22.13,0:00:24.30,Hamada,,0,0,0,,My last one was around 4 years ago
+Dialogue: 0,0:00:23.23,0:00:24.30,Endo,,0,0,0,,{\pos(720,766)}So it seems
+Dialogue: 0,0:00:24.30,0:00:26.13,Hamada,,0,0,0,,Endo got one last year
+Dialogue: 0,0:00:25.23,0:00:26.92,Endo,,0,0,0,,{\pos(720,766)}I got one only a year ago
+Dialogue: 0,0:00:26.13,0:00:27.43,Yamazaki,,0,0,0,,You got one a year ago, huh
+Dialogue: 0,0:00:27.43,0:00:28.46,Tanaka,,0,0,0,,Last year
+Dialogue: 0,0:00:28.46,0:00:30.03,Hamada,,0,0,0,,The last time Yama-chan got one
+Dialogue: 0,0:00:29.43,0:00:30.03,Yamazaki,,0,0,0,,{\pos(720,766)}Yes
+Dialogue: 0,0:00:30.03,0:00:31.36,Hamada,,0,0,0,,12 and a half years ago
+Dialogue: 0,0:00:31.36,0:00:32.94,Endo,,0,0,0,,12 and a half years ago
+Dialogue: 0,0:00:32.94,0:00:35.46,Yamazaki,,0,0,0,,The stakes have suddenly gotten higher, huh
+Dialogue: 0,0:00:36.80,0:00:39.00,Default,,0,0,0,,The rules are simple
+Dialogue: 0,0:00:39.00,0:00:41.00,Default,,0,0,0,,Out of the ten different choices
+Dialogue: 0,0:00:41.00,0:00:44.12,Default,,0,0,0,,They must find the one that they ate
+Dialogue: 0,0:00:44.63,0:00:46.73,Default,,0,0,0,,If they're right, they'll get 100,000 yen
+Dialogue: 0,0:00:46.73,0:00:48.73,Default,,0,0,0,,Will anyone get the prize?
+Dialogue: 0,0:00:49.03,0:00:50.73,Hamada,,0,0,0,,Endo might
+Dialogue: 0,0:00:50.73,0:00:52.50,Hamada,,0,0,0,,
+Dialogue: 0,0:00:52.50,0:00:54.00,Matsumoto,,0,0,0,,What happened, are you okay Endo?
+Dialogue: 0,0:00:53.00,0:00:56.13,Default,,0,0,0,,
+Dialogue: 0,0:00:54.00,0:00:55.23,Endo,,0,0,0,,I'm fine, it's just that
+Dialogue: 0,0:00:54.70,0:00:56.13,Hamada,,0,0,0,,{\pos(720,896)}
+Dialogue: 0,0:00:56.13,0:00:57.13,Hamada,,0,0,0,,{\pos(720,896)}
+Dialogue: 0,0:00:56.66,0:01:00.27,Endo,,0,0,0,,I haven't had any sugar in 3 months
+Dialogue: 0,0:00:59.33,0:01:00.27,Matsumoto,,0,0,0,,{\pos(720,755.999)}That's amazing
+Dialogue: 0,0:01:00.30,0:01:02.34,Endo,,0,0,0,,So, this is...
+Dialogue: 0,0:01:00.50,0:01:02.34,Tanaka,,0,0,0,,You haven't had sugar in 3 months?
+Dialogue: 0,0:01:02.34,0:01:06.48,Matsumoto,,0,0,0,,Then, you haven't seen any of these unwrapped before, have you?
+Dialogue: 0,0:01:06.48,0:01:08.95,Endo,,0,0,0,,I've only seen commercials
+Dialogue: 0,0:01:09.90,0:01:11.40,Default,,0,0,0,,The first challenger
+Dialogue: 0,0:01:11.40,0:01:14.09,Default,,0,0,0,,The physically improved Endo
+Dialogue: 0,0:01:14.09,0:01:18.60,Default,,0,0,0,,Having not eaten sugar in 3 months
+Dialogue: 0,0:01:18.60,0:01:20.76,Default,,0,0,0,,
+Dialogue: 0,0:01:20.76,0:01:23.20,Default,,0,0,0,,Gunichi's Melon Pan
+Dialogue: 0,0:01:23.20,0:01:28.03,Default,,0,0,0,,If you eat it, a sweet taste will spread inside your mouth
+Dialogue: 0,0:01:29.90,0:01:31.10,Tanaka,,0,0,0,,He's smelling
+Dialogue: 0,0:01:31.10,0:01:32.63,Tanaka,,0,0,0,,A nostalgic smell
+Dialogue: 0,0:01:32.63,0:01:34.03,Endo,,0,0,0,,It's really sweet
+Dialogue: 0,0:01:34.03,0:01:35.33,Yamazaki,,0,0,0,,The smell?
+Dialogue: 0,0:01:34.56,0:01:35.33,Tanaka,,0,0,0,,The smell
+Dialogue: 0,0:01:35.33,0:01:36.80,Endo,,0,0,0,,This is really sweet
+Dialogue: 0,0:01:36.80,0:01:38.88,Endo,,0,0,0,,Melon Pan was this sweet?
+Dialogue: 0,0:01:38.88,0:01:40.73,Matsumoto,,0,0,0,,That's enough of that
+Dialogue: 0,0:01:41.80,0:01:43.76,Hamada,,0,0,0,,Talk about something else quickly
+Dialogue: 0,0:01:42.23,0:01:43.76,Yamazaki,,0,0,0,,Aren't you tired of it
+Dialogue: 0,0:01:50.46,0:01:53.35,Endo,,0,0,0,,Wowwww, it's delicious
+Dialogue: 0,0:01:53.35,0:01:54.56,Tanaka,,0,0,0,,3 months since, huh
+Dialogue: 0,0:01:54.20,0:01:55.73,Matsumoto,,0,0,0,,
+Dialogue: 0,0:01:57.40,0:01:58.46,Endo,,0,0,0,,Delicious
+Dialogue: 0,0:01:58.10,0:01:59.93,Matsumoto,,0,0,0,,
+Dialogue: 0,0:01:58.46,0:01:59.93,Endo,,0,0,0,,It's really delicious
+Dialogue: 0,0:01:59.70,0:02:01.77,Tanaka,,0,0,0,,It's been 3 months, huh
+Dialogue: 0,0:01:59.93,0:02:01.77,Matsumoto,,0,0,0,,I don't have your experience, but
+Dialogue: 0,0:02:01.77,0:02:03.46,Endo,,0,0,0,,This is so delicious
+Dialogue: 0,0:02:03.46,0:02:05.03,Yamazaki,,0,0,0,,
+Dialogue: 0,0:02:05.92,0:02:07.73,Endo,,0,0,0,,This Yamazaki Pan
+Dialogue: 0,0:02:08.33,0:02:09.30,Endo,,0,0,0,,Melon Pan
+Dialogue: 0,0:02:09.30,0:02:11.30,Endo,,0,0,0,,Thisss one, I
+Dialogue: 0,0:02:12.63,0:02:14.75,Endo,,0,0,0,,Wow, it has 11 grams of sugar, that's a lot
+Dialogue: 0,0:02:14.75,0:02:16.00,Matsumoto,,0,0,0,,That's enough, really
+Dialogue: 0,0:02:17.66,0:02:19.63,Endo,,0,0,0,,A buttery consistency
+Dialogue: 0,0:02:18.86,0:02:20.26,Matsumoto,,0,0,0,,It's usually buttery
+Dialogue: 0,0:02:19.63,0:02:21.93,Endo,,0,0,0,,It certainly was very buttery, I'll try this one
+Dialogue: 0,0:02:24.76,0:02:26.27,Matsumoto,,0,0,0,,Remember the taste
+Dialogue: 0,0:02:26.27,0:02:28.13,Matsumoto,,0,0,0,,Remember how it was
+Dialogue: 0,0:02:29.75,0:02:31.00,Hamada,,0,0,0,,It's delicious, huh
+Dialogue: 0,0:02:31.00,0:02:33.10,Endo,,0,0,0,,It's delicious
+Dialogue: 0,0:02:35.46,0:02:37.50,Hamada,,0,0,0,,That's pretty delicious, huh
+Dialogue: 0,0:02:37.50,0:02:39.66,Endo,,0,0,0,,It was very delicious, but the
+Dialogue: 0,0:02:39.66,0:02:41.83,Endo,,0,0,0,,surface was rough
+Dialogue: 0,0:02:41.83,0:02:42.74,Hamada,,0,0,0,,It's wrong?
+Dialogue: 0,0:02:42.33,0:02:43.90,Endo,,0,0,0,,
+Dialogue: 0,0:02:44.00,0:02:45.63,Tanaka,,0,0,0,,It was rougher?
+Dialogue: 0,0:02:45.63,0:02:46.56,Yamazaki,,0,0,0,,How did it taste?
+Dialogue: 0,0:02:46.56,0:02:49.86,Endo,,0,0,0,,This Yamazaki Melon Pan was a bit more
+Dialogue: 0,0:02:49.86,0:02:52.11,Endo,,0,0,0,,Well, the butter was a little
+Dialogue: 0,0:02:52.11,0:02:53.50,Endo,,0,0,0,,Was a bit stronger
+Dialogue: 0,0:02:53.50,0:02:54.86,Matsumoto,,0,0,0,,That was a hint, huh
+Dialogue: 0,0:02:54.33,0:02:54.86,Endo,,0,0,0,,Yes
+Dialogue: 0,0:02:54.86,0:02:57.13,Endo,,0,0,0,,The butter's consistency
+Dialogue: 0,0:02:55.13,0:02:56.56,Matsumoto,,0,0,0,,The butter, huh
+Dialogue: 0,0:02:56.56,0:02:57.13,Tanaka,,0,0,0,,Butter
+Dialogue: 0,0:02:57.13,0:03:00.43,Endo,,0,0,0,,Mine was weak at first then it got stronger
+Dialogue: 0,0:02:59.60,0:03:00.43,Matsumoto,,0,0,0,,Melon Pan
+Dialogue: 0,0:03:00.36,0:03:01.50,Endo,,0,0,0,,
+Dialogue: 0,0:03:01.50,0:03:06.36,Endo,,0,0,0,,The one I ate was not Yamazaki's Melon Pan
+Dialogue: 0,0:03:08.26,0:03:11.06,Endo,,0,0,0,,Try as a might, I couldn't see myself having eaten that one
+Dialogue: 0,0:03:12.36,0:03:13.63,Endo,,0,0,0,,
+Dialogue: 0,0:03:14.40,0:03:18.11,Endo,,0,0,0,,The surface had a bit of a rough feeling... This one
+Dialogue: 0,0:03:18.11,0:03:19.86,Endo,,0,0,0,,Gunichi Pan
+Dialogue: 0,0:03:19.86,0:03:21.26,Endo,,0,0,0,,KariKari Melon Pan
+Dialogue: 0,0:03:21.26,0:03:22.20,Endo,,0,0,0,,Here I go
+Dialogue: 0,0:03:22.20,0:03:23.15,Tanaka,,0,0,0,,Gunichi Pan
+Dialogue: 0,0:03:22.70,0:03:24.60,Endo,,0,0,0,,
+Dialogue: 0,0:03:24.60,0:03:28.63,Endo,,0,0,0,,Swee... Sweet , huh
+Dialogue: 0,0:03:28.63,0:03:29.86,Endo,,0,0,0,,Here I go
+Dialogue: 0,0:03:31.86,0:03:32.83,Hamada,,0,0,0,,Gunichi Pan
+Dialogue: 0,0:03:32.83,0:03:33.50,Matsumoto,,0,0,0,,Yes
+Dialogue: 0,0:03:33.50,0:03:34.56,Tanaka,,0,0,0,,From Gunma Ken
+Dialogue: 0,0:03:34.56,0:03:37.92,Matsumoto,,0,0,0,,Huh, isn't it the number one bread, Gunichi Pan
+Dialogue: 0,0:03:40.80,0:03:42.30,Endo,,0,0,0,,This one's delicious too
+Dialogue: 0,0:03:43.76,0:03:45.14,Yamazaki,,0,0,0,,They are all delicious, huh
+Dialogue: 0,0:03:45.14,0:03:47.50,Matsumoto,,0,0,0,,You can't just keep saying it's delicious
+Dialogue: 0,0:03:47.50,0:03:48.34,Yamazaki,,0,0,0,,Really
+Dialogue: 0,0:03:48.34,0:03:49.20,Endo,,0,0,0,,Sorry
+Dialogue: 0,0:03:49.20,0:03:51.50,Endo,,0,0,0,,That's, that's true but, ahh
+Dialogue: 0,0:03:51.50,0:03:52.96,Endo,,0,0,0,,Ahh, it's wrong, ahh
+Dialogue: 0,0:03:52.96,0:03:54.00,Endo,,0,0,0,,This one's wrong
+Dialogue: 0,0:03:54.00,0:03:55.60,Endo,,0,0,0,,It was sweeter
+Dialogue: 0,0:03:55.60,0:03:58.36,Endo,,0,0,0,,This one wasn't as sweet
+Dialogue: 0,0:03:57.13,0:03:58.36,Matsumoto,,0,0,0,,That time was different
+Dialogue: 0,0:03:58.36,0:04:01.29,Endo,,0,0,0,,Yeah, the one I ate had a stronger taste
+Dialogue: 0,0:04:01.29,0:04:02.66,Endo,,0,0,0,,The one I ate
+Dialogue: 0,0:04:02.66,0:04:06.40,Endo,,0,0,0,,Was not Gunichi Pan
+Dialogue: 0,0:04:09.66,0:04:11.36,Matsumoto,,0,0,0,,Idiot
+Dialogue: 0,0:04:11.90,0:04:15.00,Yamazaki,,0,0,0,,
+Dialogue: 0,0:04:15.40,0:04:16.90,Matsumoto,,0,0,0,,What an idiot
+Dialogue: 0,0:04:15.80,0:04:16.90,Yamazaki,,0,0,0,,What's with that?
+Dialogue: 0,0:04:16.90,0:04:18.56,Hamada,,0,0,0,,You were totally bankrupt
+Dialogue: 0,0:04:18.56,0:04:20.64,Tanaka,,0,0,0,,He was
+Dialogue: 0,0:04:18.93,0:04:20.64,Yamazaki,,0,0,0,,He really was
+Dialogue: 0,0:04:21.63,0:04:22.94,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:04:22.26,0:04:23.43,Yamazaki,,0,0,0,,He's really mad
+Dialogue: 0,0:04:22.94,0:04:24.36,Hamada,,0,0,0,,He's bankrupt
+Dialogue: 0,0:04:23.46,0:04:24.36,Tanaka,,0,0,0,,Scary
+Dialogue: 0,0:04:25.90,0:04:27.76,Matsumoto,,0,0,0,,How scary
+Dialogue: 0,0:04:26.43,0:04:27.76,Tanaka,,0,0,0,,Wow, be careful
+Dialogue: 0,0:04:27.76,0:04:31.76,Default,,0,0,0,,Your head's more hollow than bread
+Dialogue: 0,0:04:35.10,0:04:35.96,Hamada,,0,0,0,,Gunichi
+Dialogue: 0,0:04:35.96,0:04:38.26,Tanaka,,0,0,0,,It was Gunichi, it was Gunichi
+Dialogue: 0,0:04:36.36,0:04:37.66,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:04:38.26,0:04:38.99,Yamazaki,,0,0,0,,Did you know at all?
+Dialogue: 0,0:04:38.99,0:04:43.23,Endo,,0,0,0,,I had no clue, the first one I ate was too sweet
+Dialogue: 0,0:04:43.23,0:04:45.93,Tanaka,,0,0,0,,Since you haven't eaten sugar in 3 months, you wouldn't be able to tell
+Dialogue: 0,0:04:46.06,0:04:48.26,Yamazaki,,0,0,0,,Wait a second, are you really....
+Dialogue: 0,0:04:48.26,0:04:50.26,Yamazaki,,0,0,0,,Thank you very much!
+Dialogue: 0,0:04:51.93,0:04:55.63,Matsumoto,,0,0,0,,If I said that the one I ate, is and isn't, for example
+Dialogue: 0,0:04:55.63,0:04:56.80,Yamazaki,,0,0,0,,That's no good
+Dialogue: 0,0:04:56.80,0:04:57.50,Endo,,0,0,0,,No, no
+Dialogue: 0,0:04:59.06,0:05:03.70,Default,,0,0,0,,Get 100,000 yen Kiki Melon Pan
+Dialogue: 0,0:05:05.00,0:05:06.03,Default,,0,0,0,,Next up
+Dialogue: 0,0:05:06.03,0:05:07.56,Default,,0,0,0,,4 and a half years since his last win
+Dialogue: 0,0:05:07.56,0:05:08.20,Default,,0,0,0,,Is Hamada
+Dialogue: 0,0:05:08.96,0:05:11.00,Default,,0,0,0,,Hamada's chosen bread
+Dialogue: 0,0:05:12.13,0:05:13.13,Default,,0,0,0,,Pasco's
+Dialogue: 0,0:05:13.13,0:05:15.13,Default,,0,0,0,,Sakufua Melon Pan
+Dialogue: 0,0:05:15.78,0:05:17.13,Default,,0,0,0,,The exterior is soft
+Dialogue: 0,0:05:17.13,0:05:18.96,Default,,0,0,0,,The inside is soft and strong
+Dialogue: 0,0:05:18.96,0:05:21.93,Default,,0,0,0,,Will he be able to find this taste?
+Dialogue: 0,0:05:25.80,0:05:28.32,Matsumoto,,0,0,0,,The mood is bad, huh
+Dialogue: 0,0:05:28.33,0:05:29.23,Yamazaki,,0,0,0,,What are you doing now?
+Dialogue: 0,0:05:29.23,0:05:30.10,Hamada,,0,0,0,,No
+Dialogue: 0,0:05:29.80,0:05:30.94,Yamazaki,,0,0,0,,Sorry
+Dialogue: 0,0:05:30.10,0:05:31.56,Hamada,,0,0,0,,Melon Pan is, uh...
+Dialogue: 0,0:05:31.56,0:05:33.76,Hamada,,0,0,0,,The surface has different features on each sections
+Dialogue: 0,0:05:33.76,0:05:34.40,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:05:34.40,0:05:36.00,Yamazaki,,0,0,0,,So what are you doing, then?
+Dialogue: 0,0:05:36.56,0:05:37.43,Matsumoto,,0,0,0,,
+Dialogue: 0,0:05:37.40,0:05:38.30,Matsumoto,,0,0,0,,
+Dialogue: 0,0:05:38.60,0:05:40.00,Hamada,,0,0,0,,I'll eat it now
+Dialogue: 0,0:05:39.10,0:05:40.00,Yamazaki,,0,0,0,,How does it feel?
+Dialogue: 0,0:05:40.00,0:05:41.26,Hamada,,0,0,0,,Yeah, well, really
+Dialogue: 0,0:05:41.26,0:05:43.76,Hamada,,0,0,0,,Well, it tastes like Melon Pan
+Dialogue: 0,0:05:43.76,0:05:44.56,Matsumoto,,0,0,0,,
+Dialogue: 0,0:05:44.36,0:05:46.56,Hamada,,0,0,0,,It's not terribly sweet
+Dialogue: 0,0:05:47.53,0:05:51.10,Hamada,,0,0,0,,While I was pressing it on my lips, I was thinking
+Dialogue: 0,0:05:51.10,0:05:56.20,Hamada,,0,0,0,,It wasn't like these smooth surfaced ones
+Dialogue: 0,0:05:56.93,0:05:59.56,Hamada,,0,0,0,,I think that its surface was different
+Dialogue: 0,0:06:00.00,0:06:05.28,Hamada,,0,0,0,,Is this the same pattern Endo had?
+Dialogue: 0,0:06:05.96,0:06:07.83,Matsumoto,,0,0,0,,Do you remember which one was Endo's?
+Dialogue: 0,0:06:07.83,0:06:09.42,Hamada,,0,0,0,,Yes, this one
+Dialogue: 0,0:06:09.42,0:06:10.50,Matsumoto,,0,0,0,,Ah, Gunichi
+Dialogue: 0,0:06:10.50,0:06:12.50,Hamada,,0,0,0,,Well then, I'll start with Endo's Pan
+Dialogue: 0,0:06:17.73,0:06:19.30,Hamada,,0,0,0,,It's soft
+Dialogue: 0,0:06:23.33,0:06:24.40,Hamada,,0,0,0,,It's sweet
+Dialogue: 0,0:06:24.90,0:06:27.06,Endo,,0,0,0,,I wonder if Gunichi is sweeter?
+Dialogue: 0,0:06:25.36,0:06:26.26,Tanaka,,0,0,0,,Gunichi
+Dialogue: 0,0:06:26.26,0:06:27.96,Yamazaki,,0,0,0,,I wonder if that's true
+Dialogue: 0,0:06:27.06,0:06:28.83,Hamada,,0,0,0,,Ahh, this one's very sweet
+Dialogue: 0,0:06:28.83,0:06:30.63,Yamazaki,,0,0,0,,It seems like it's sweeter
+Dialogue: 0,0:06:29.33,0:06:30.63,Endo,,0,0,0,,So it seems
+Dialogue: 0,0:06:30.56,0:06:31.36,Endo,,0,0,0,,
+Dialogue: 0,0:06:31.56,0:06:33.13,Hamada,,0,0,0,,This is completely different
+Dialogue: 0,0:06:33.13,0:06:33.96,Hamada,,0,0,0,,I know that
+Dialogue: 0,0:06:34.46,0:06:35.73,Hamada,,0,0,0,,This one's too sweet
+Dialogue: 0,0:06:35.73,0:06:37.46,Hamada,,0,0,0,,The one that I ate
+Dialogue: 0,0:06:37.46,0:06:40.36,Hamada,,0,0,0,,Was not Gunichi Melon Pan
+Dialogue: 0,0:06:42.96,0:06:44.06,Yamazaki,,0,0,0,,It was different?
+Dialogue: 0,0:06:43.50,0:06:44.06,Hamada,,0,0,0,,{\pos(720,792)}Yes
+Dialogue: 0,0:06:44.83,0:06:46.03,Tanaka,,0,0,0,,Huh, that's good
+Dialogue: 0,0:06:46.03,0:06:49.90,Hamada,,0,0,0,,The one I just ate was way sweeter
+Dialogue: 0,0:06:50.96,0:06:53.26,Hamada,,0,0,0,,I'll go with this one then, Fuji Pan
+Dialogue: 0,0:06:53.26,0:06:54.16,Tanaka,,0,0,0,,Fuji Pan
+Dialogue: 0,0:06:54.16,0:06:55.16,Matsumoto,,0,0,0,,Fuji Pan, huh
+Dialogue: 0,0:07:00.26,0:07:03.10,Matsumoto,,0,0,0,,
+Dialogue: 0,0:07:03.13,0:07:03.73,Endo,,0,0,0,,
+Dialogue: 0,0:07:04.20,0:07:06.70,Hamada,,0,0,0,,The one I ate wasn't that sweet, but
+Dialogue: 0,0:07:06.70,0:07:11.38,Hamada,,0,0,0,,This type of surface that's crisp, I'm not sure about
+Dialogue: 0,0:07:11.38,0:07:12.86,Hamada,,0,0,0,,No
+Dialogue: 0,0:07:12.86,0:07:14.23,Hamada,,0,0,0,,It was a little
+Dialogue: 0,0:07:14.23,0:07:16.43,Hamada,,0,0,0,,less crisp
+Dialogue: 0,0:07:16.90,0:07:18.43,Hamada,,0,0,0,,The one I ate
+Dialogue: 0,0:07:18.46,0:07:22.40,Hamada,,0,0,0,,Was not Fuji Pan Melon Pan
+Dialogue: 0,0:07:23.93,0:07:24.80,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:07:24.80,0:07:26.14,Tanaka,,0,0,0,,He's cleared two
+Dialogue: 0,0:07:26.14,0:07:27.66,Hamada,,0,0,0,,I'll do the neighboring Pasco
+Dialogue: 0,0:07:36.76,0:07:38.50,Hamada,,0,0,0,,
+Dialogue: 0,0:07:38.50,0:07:39.10,Matsumoto,,0,0,0,,Yes?
+Dialogue: 0,0:07:39.10,0:07:43.26,Hamada,,0,0,0,,It was softer, so why is this one so crisp
+Dialogue: 0,0:07:44.13,0:07:45.73,Endo,,0,0,0,,
+Dialogue: 0,0:07:45.36,0:07:46.93,Yamazaki,,0,0,0,,
+Dialogue: 0,0:07:46.96,0:07:48.93,Default,,0,0,0,,
+Dialogue: 0,0:07:49.01,0:07:52.03,Hamada,,0,0,0,,It's because I feel like this is it
+Dialogue: 0,0:07:52.03,0:07:54.83,Matsumoto,,0,0,0,,Ahh, but then, you don't feel like it's wrong?
+Dialogue: 0,0:07:54.83,0:07:55.86,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:07:55.86,0:07:59.53,Hamada,,0,0,0,,If I feel worried, should I just go for it?
+Dialogue: 0,0:07:59.53,0:08:00.90,Matsumoto,,0,0,0,,Hmm, I wonder, huh
+Dialogue: 0,0:08:00.90,0:08:01.46,Hamada,,0,0,0,,Hmm
+Dialogue: 0,0:08:01.46,0:08:03.66,Hamada,,0,0,0,,Well, that's the problem here
+Dialogue: 0,0:08:02.40,0:08:03.66,Matsumoto,,0,0,0,,Huh, so it seems
+Dialogue: 0,0:08:02.76,0:08:03.66,Endo,,0,0,0,,Right?
+Dialogue: 0,0:08:04.76,0:08:07.53,Matsumoto,,0,0,0,,It's like choosing between grey, white or black
+Dialogue: 0,0:08:06.76,0:08:07.53,Hamada,,0,0,0,,{\pos(882,1004)}Right
+Dialogue: 0,0:08:07.06,0:08:07.53,Endo,,0,0,0,,{\pos(882,944)}Right
+Dialogue: 0,0:08:07.53,0:08:08.50,Hamada,,0,0,0,,They're all close
+Dialogue: 0,0:08:08.50,0:08:10.20,Matsumoto,,0,0,0,,So it seems
+Dialogue: 0,0:08:09.20,0:08:10.20,Tanaka,,0,0,0,,{\pos(720,776)}So it seems
+Dialogue: 0,0:08:10.20,0:08:12.23,Hamada,,0,0,0,,Alright, it's been a while so I'll just go
+Dialogue: 0,0:08:12.83,0:08:16.64,Hamada,,0,0,0,,I always throw it out and get it wrong, but today I'll just go for it
+Dialogue: 0,0:08:16.64,0:08:18.02,Hamada,,0,0,0,,Ehhh
+Dialogue: 0,0:08:21.43,0:08:23.53,Endo,,0,0,0,,You turned right in the middle of it
+Dialogue: 0,0:08:21.73,0:08:23.53,Yamazaki,,0,0,0,,What's up with that?
+Dialogue: 0,0:08:23.53,0:08:26.06,Yamazaki,,0,0,0,,What's with that?
+Dialogue: 0,0:08:24.06,0:08:26.36,Tanaka,,0,0,0,,Wow, that was surprising, you really got me
+Dialogue: 0,0:08:26.06,0:08:27.10,Yamazaki,,0,0,0,,Really
+Dialogue: 0,0:08:27.10,0:08:29.80,Matsumoto,,0,0,0,,What are you expecting when you make a face like that
+Dialogue: 0,0:08:30.80,0:08:33.00,Hamada,,0,0,0,,The one I ate was
+Dialogue: 0,0:08:33.00,0:08:37.00,Hamada,,0,0,0,,Was Pasco Sakufua Melon Pan
+Dialogue: 0,0:08:42.90,0:08:44.26,Yamazaki,,0,0,0,,Amazing
+Dialogue: 0,0:08:46.93,0:08:49.13,Yamazaki,,0,0,0,,Seriously
+Dialogue: 0,0:08:49.13,0:08:51.70,Matsumoto,,0,0,0,,Wow
+Dialogue: 0,0:08:52.60,0:08:54.16,Endo,,0,0,0,,
+Dialogue: 0,0:08:54.13,0:08:55.50,Matsumoto,,0,0,0,,Hasn't it been a while
+Dialogue: 0,0:08:55.50,0:08:56.60,Tanaka,,0,0,0,,Amazing, amazing
+Dialogue: 0,0:09:06.63,0:09:07.93,Hamada,,0,0,0,,Thank you very much
+Dialogue: 0,0:09:06.70,0:09:07.93,Endo,,0,0,0,,Thank you
+Dialogue: 0,0:09:10.16,0:09:11.33,Tanaka,,0,0,0,,This is amazing
+Dialogue: 0,0:09:11.93,0:09:13.30,Hamada,,0,0,0,,Wow, 4 years
+Dialogue: 0,0:09:13.30,0:09:16.06,Hamada,,0,0,0,,Since it's been 4 and a half years since I got it right
+Dialogue: 0,0:09:16.06,0:09:18.73,Yamazaki,,0,0,0,,Amazing
+Dialogue: 0,0:09:16.70,0:09:18.73,Tanaka,,0,0,0,,Amazing, that was amazing
+Dialogue: 0,0:09:19.20,0:09:20.93,Hamada,,0,0,0,,4 years ago
+Dialogue: 0,0:09:19.90,0:09:20.93,Matsumoto,,0,0,0,,Well, well, well
+Dialogue: 0,0:09:20.93,0:09:22.43,Tanaka,,0,0,0,,Wow, that's amazing
+Dialogue: 0,0:09:22.03,0:09:23.90,Matsumoto,,0,0,0,,
+Dialogue: 0,0:09:23.90,0:09:24.93,Endo,,0,0,0,,Yes
+Dialogue: 0,0:09:24.16,0:09:24.93,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:09:25.56,0:09:27.63,Default,,0,0,0,,Can he follow up Hamada
+Dialogue: 0,0:09:27.63,0:09:29.76,Default,,0,0,0,,Tanaka is the third to face the challenge
+Dialogue: 0,0:09:30.83,0:09:34.40,Default,,0,0,0,,His choice is Okinawa Okiko Melon Pan
+Dialogue: 0,0:09:34.40,0:09:37.96,Default,,0,0,0,,
+Dialogue: 0,0:09:37.96,0:09:40.33,Default,,0,0,0,,Will he be able to remember this taste?
+Dialogue: 0,0:09:42.36,0:09:43.66,Tanaka,,0,0,0,,
+Dialogue: 0,0:09:45.86,0:09:47.10,Tanaka,,0,0,0,,Ahh, ahhh
+Dialogue: 0,0:09:47.83,0:09:48.40,Hamada,,0,0,0,,Hmm?
+Dialogue: 0,0:09:48.40,0:09:48.93,Yamazaki,,0,0,0,,What's up?
+Dialogue: 0,0:09:48.93,0:09:50.56,Tanaka,,0,0,0,,Well, it's pretty sweet
+Dialogue: 0,0:09:50.56,0:09:51.78,Matsumoto,,0,0,0,,Of course it is
+Dialogue: 0,0:09:52.56,0:09:54.03,Tanaka,,0,0,0,,Wow, it's pretty sweet
+Dialogue: 0,0:09:54.03,0:09:55.90,Yamazaki,,0,0,0,,Everyone said so, everyone said so Tanaka
+Dialogue: 0,0:09:55.90,0:09:57.14,Matsumoto,,0,0,0,,It can't be helped
+Dialogue: 0,0:09:58.26,0:10:00.63,Hamada,,0,0,0,,Everyone has been saying that
+Dialogue: 0,0:10:00.63,0:10:02.50,Matsumoto,,0,0,0,,Everyone seems to be using their lips
+Dialogue: 0,0:10:02.50,0:10:04.88,Yamazaki,,0,0,0,,But will he be able to remember it I wonder
+Dialogue: 0,0:10:04.88,0:10:05.66,Endo,,0,0,0,,Right
+Dialogue: 0,0:10:05.66,0:10:07.86,Yamazaki,,0,0,0,,If he can, he'd be a master
+Dialogue: 0,0:10:06.83,0:10:07.86,Endo,,0,0,0,,Ohh, he's eaten it
+Dialogue: 0,0:10:07.86,0:10:08.90,Tanaka,,0,0,0,,Huh?
+Dialogue: 0,0:10:09.43,0:10:10.90,Tanaka,,0,0,0,,It's not like how it smells
+Dialogue: 0,0:10:11.36,0:10:12.20,Tanaka,,0,0,0,,Huh?
+Dialogue: 0,0:10:12.20,0:10:12.70,Yamazaki,,0,0,0,,What is it?
+Dialogue: 0,0:10:12.70,0:10:13.50,Tanaka,,0,0,0,,It's sweetness
+Dialogue: 0,0:10:14.10,0:10:16.03,Endo,,0,0,0,,
+Dialogue: 0,0:10:14.66,0:10:15.50,Matsumoto,,0,0,0,,"Sweetness"
+Dialogue: 0,0:10:15.50,0:10:16.83,Hamada,,0,0,0,, "Sweetness"
+Dialogue: 0,0:10:16.83,0:10:18.66,Tanaka,,0,0,0,,It's sweet, it's sweet
+Dialogue: 0,0:10:18.66,0:10:20.93,Tanaka,,0,0,0,,Ok, firstly, the one everyone had trouble with
+Dialogue: 0,0:10:20.40,0:10:20.93,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:10:21.00,0:10:21.86,Tanaka,,0,0,0,,Gunichi Pan
+Dialogue: 0,0:10:21.86,0:10:23.10,Hamada,,0,0,0,,Ahh
+Dialogue: 0,0:10:22.43,0:10:23.10,Yamazaki,,0,0,0,,
+Dialogue: 0,0:10:23.10,0:10:24.16,Tanaka,,0,0,0,,From Gunma
+Dialogue: 0,0:10:27.20,0:10:27.86,Tanaka,,0,0,0,,Ahh
+Dialogue: 0,0:10:28.60,0:10:30.36,Tanaka,,0,0,0,,It's completely different
+Dialogue: 0,0:10:30.36,0:10:31.40,Tanaka,,0,0,0,,Maybe I can do this
+Dialogue: 0,0:10:31.40,0:10:33.06,Tanaka,,0,0,0,,Ehh, the one I ate
+Dialogue: 0,0:10:33.06,0:10:35.46,Tanaka,,0,0,0,,Was not Gunichi Melon Pan
+Dialogue: 0,0:10:37.23,0:10:38.59,Hamada,,0,0,0,,How was it completely different?
+Dialogue: 0,0:10:38.59,0:10:40.93,Tanaka,,0,0,0,,Well... the one I ate
+Dialogue: 0,0:10:40.93,0:10:42.93,Tanaka,,0,0,0,,Was softer
+Dialogue: 0,0:10:42.93,0:10:44.46,Tanaka,,0,0,0,,So, Gunichi was more
+Dialogue: 0,0:10:44.46,0:10:46.03,Tanaka,,0,0,0,,Zaku Zaku
+Dialogue: 0,0:10:44.46,0:10:49.83,Credit,,0,0,0,,T.N. "Saku Saku" is soft
+Dialogue: 0,0:10:45.60,0:10:46.03,Hamada,,0,0,0,,Huh?
+Dialogue: 0,0:10:46.03,0:10:48.56,Endo,,0,0,0,,Wait, wait, wait, how was it?
+Dialogue: 0,0:10:46.80,0:10:48.56,Yamazaki,,0,0,0,,"Zaku Zaku?"
+Dialogue: 0,0:10:48.56,0:10:50.20,Hamada,,0,0,0,,What are you saying?
+Dialogue: 0,0:10:48.56,0:10:50.20,Yamazaki,,0,0,0,,"Zaku Zaku"
+Dialogue: 0,0:10:50.20,0:10:51.93,Tanaka,,0,0,0,,It was crisper
+Dialogue: 0,0:10:50.20,0:10:51.93,Hamada,,0,0,0,,"Zaku Zaku"
+Dialogue: 0,0:10:52.66,0:10:54.40,Tanaka,,0,0,0,,It was extremely crisp
+Dialogue: 0,0:10:54.40,0:10:55.60,Tanaka,,0,0,0,,Which means
+Dialogue: 0,0:10:56.50,0:10:59.56,Tanaka,,0,0,0,,The one I ate wasn't crisp
+Dialogue: 0,0:11:00.13,0:11:01.33,Tanaka,,0,0,0,,Maybe
+Dialogue: 0,0:11:01.33,0:11:03.13,Tanaka,,0,0,0,,Mine was softer
+Dialogue: 0,0:11:03.46,0:11:05.96,Default,,0,0,0,,
+Dialogue: 0,0:11:05.96,0:11:09.10,Default,,0,0,0,,Tanaka, with his heightened confidence, clears two more
+Dialogue: 0,0:11:13.26,0:11:15.03,Tanaka,,0,0,0,,Huh, Okiko I wonder, Okiko
+Dialogue: 0,0:11:15.03,0:11:17.20,Tanaka,,0,0,0,,I feel like it will be different
+Dialogue: 0,0:11:26.60,0:11:28.13,Tanaka,,0,0,0,,It's wrong
+Dialogue: 0,0:11:28.13,0:11:32.50,Tanaka,,0,0,0,,No matter how I think about it, the surface was softer
+Dialogue: 0,0:11:32.50,0:11:35.44,Tanaka,,0,0,0,,No matter which one I pick, it tastes crisper
+Dialogue: 0,0:11:35.44,0:11:36.93,Tanaka,,0,0,0,,This one is wrong
+Dialogue: 0,0:11:36.93,0:11:40.53,Matsumoto,,0,0,0,,You can tell the softness and crispness, huh
+Dialogue: 0,0:11:39.10,0:11:40.53,Tanaka,,0,0,0,,Yes, I can tell
+Dialogue: 0,0:11:40.53,0:11:43.03,Tanaka,,0,0,0,,The one I ate
+Dialogue: 0,0:11:43.03,0:11:47.36,Tanaka,,0,0,0,,Was not Kokashi Butter Fumi Melon Pan
+Dialogue: 0,0:11:48.80,0:11:49.90,Matsumoto,,0,0,0,,Whoa, that was quick
+Dialogue: 0,0:11:50.43,0:11:52.52,Endo,,0,0,0,,Yep, that's too bad
+Dialogue: 0,0:11:52.52,0:11:53.88,Yamazaki,,0,0,0,,That was so bad
+Dialogue: 0,0:11:53.88,0:11:54.79,Endo,,0,0,0,,Yep, too bad
+Dialogue: 0,0:11:54.80,0:11:57.10,Tanaka,,0,0,0,,I didn't think it was that one at all
+Dialogue: 0,0:11:57.30,0:11:58.46,Yamazaki,,0,0,0,,That was bad
+Dialogue: 0,0:11:59.16,0:12:00.01,Tanaka,,0,0,0,,This is scary
+Dialogue: 0,0:11:59.60,0:12:00.80,Matsumoto,,0,0,0,,
+Dialogue: 0,0:12:00.80,0:12:04.28,Default,,0,0,0,,Think with more zip
+Dialogue: 0,0:12:05.80,0:12:08.43,Yamazaki,,0,0,0,,That looks like it hurt
+Dialogue: 0,0:12:07.33,0:12:08.43,Endo,,0,0,0,,The right one was this
+Dialogue: 0,0:12:08.43,0:12:09.93,Tanaka,,0,0,0,,It was that one
+Dialogue: 0,0:12:09.70,0:12:10.93,Matsumoto,,0,0,0,,
+Dialogue: 0,0:12:10.43,0:12:11.20,Endo,,0,0,0,,Okiko
+Dialogue: 0,0:12:11.40,0:12:12.66,Matsumoto,,0,0,0,,It really was Okiko
+Dialogue: 0,0:12:11.66,0:12:12.90,Matsumoto,,0,0,0,,
+Dialogue: 0,0:12:12.66,0:12:15.06,Tanaka,,0,0,0,,
+Dialogue: 0,0:12:15.86,0:12:17.66,Endo,,0,0,0,,You didn't know at all?
+Dialogue: 0,0:12:16.80,0:12:17.66,Tanaka,,0,0,0,,I had no clue
+Dialogue: 0,0:12:17.70,0:12:20.63,Yamazaki,,0,0,0,,I'm really counting on you guys, I haven't gotten one in 12 and a half years
+Dialogue: 0,0:12:21.10,0:12:24.16,Default,,0,0,0,,Next up, with the biggest drought, is Hosei
+Dialogue: 0,0:12:24.16,0:12:26.93,Matsumoto,,0,0,0,,Should we go with the same one as Tanaka?
+Dialogue: 0,0:12:26.83,0:12:28.93,Endo,,0,0,0,,{\pos(720,896)}Let's
+Dialogue: 0,0:12:26.93,0:12:30.03,Yamazaki,,0,0,0,,Huh, wait, what, if you do that...
+Dialogue: 0,0:12:27.43,0:12:28.93,Tanaka,,0,0,0,,{\pos(720,844)}Let's do it
+Dialogue: 0,0:12:30.03,0:12:31.70,Yamazaki,,0,0,0,,Thank you very much!!
+Dialogue: 0,0:12:34.73,0:12:36.83,Default,,0,0,0,,As they said, the same one as Tanaka
+Dialogue: 0,0:12:36.83,0:12:39.03,Default,,0,0,0,,Okiko Melon Pan
+Dialogue: 0,0:12:39.03,0:12:42.40,Default,,0,0,0,,The one they said they would choose
+Dialogue: 0,0:12:42.40,0:12:44.16,Default,,0,0,0,,Will he get it right?
+Dialogue: 0,0:12:45.08,0:12:46.20,Matsumoto,,0,0,0,,Yes, Okiko Pan
+Dialogue: 0,0:12:46.20,0:12:49.71,Yamazaki,,0,0,0,,Did you really choose Okiko Pan for me?
+Dialogue: 0,0:12:50.73,0:12:51.60,Yamazaki,,0,0,0,,Really?
+Dialogue: 0,0:12:51.60,0:12:52.80,Matsumoto,,0,0,0,,We really did
+Dialogue: 0,0:12:54.93,0:12:56.33,Yamazaki,,0,0,0,,I got it!!!
+Dialogue: 0,0:12:57.03,0:12:58.76,Endo,,0,0,0,,What do you mean by I got it?
+Dialogue: 0,0:12:59.30,0:13:00.60,Hamada,,0,0,0,,"I got it"
+Dialogue: 0,0:12:59.43,0:13:00.60,Yamazaki,,0,0,0,,I'm so happy!!
+Dialogue: 0,0:13:01.20,0:13:02.76,Yamazaki,,0,0,0,,I really thought for my turn
+Dialogue: 0,0:13:02.76,0:13:05.36,Yamazaki,,0,0,0,,That you would pick this one
+Dialogue: 0,0:13:05.36,0:13:06.56,Matsumoto,,0,0,0,,
+Dialogue: 0,0:13:06.26,0:13:07.56,Yamazaki,,0,0,0,,
+Dialogue: 0,0:13:07.56,0:13:08.73,Matsumoto,,0,0,0,,"Yamazaki"
+Dialogue: 0,0:13:07.73,0:13:08.73,Tanaka,,0,0,0,,"Yamazaki"
+Dialogue: 0,0:13:08.16,0:13:08.73,Yamazaki,,0,0,0,,"Yamazaki"
+Dialogue: 0,0:13:08.73,0:13:11.87,Matsumoto,,0,0,0,,Ahh, so since Yamasaki Hosei and Yamazaki are similar
+Dialogue: 0,0:13:10.50,0:13:11.70,Tanaka,,0,0,0,,{\pos(720,884)}Oh, I see
+Dialogue: 0,0:13:11.10,0:13:11.70,Endo,,0,0,0,,{\pos(720,824)}I see
+Dialogue: 0,0:13:11.87,0:13:12.16,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:13:12.16,0:13:14.40,Yamazaki,,0,0,0,,Uh, actually, I'm "Yamazaki"
+Dialogue: 0,0:13:15.63,0:13:16.66,Endo,,0,0,0,,Isn't it fine as is?
+Dialogue: 0,0:13:17.23,0:13:18.00,Yamazaki,,0,0,0,,Huh?
+Dialogue: 0,0:13:18.03,0:13:18.70,Endo,,0,0,0,,Isn't it fine?
+Dialogue: 0,0:13:18.70,0:13:19.38,Endo,,0,0,0,,"Yamazaki"
+Dialogue: 0,0:13:19.13,0:13:22.05,Yamazaki,,0,0,0,,But it really is "Yamazaki" and  not "Yamasaki"
+Dialogue: 0,0:13:21.13,0:13:22.93,Hamada,,0,0,0,,We've always been calling you that though
+Dialogue: 0,0:13:22.06,0:13:22.93,Yamazaki,,0,0,0,,Yama-saki
+Dialogue: 0,0:13:23.10,0:13:24.63,Yamazaki,,0,0,0,,Since I'm from the Yamasaki's
+Dialogue: 0,0:13:24.63,0:13:26.63,Yamazaki,,0,0,0,,Stop calling me Zakisan
+Dialogue: 0,0:13:26.63,0:13:27.73,Endo,,0,0,0,,
+Dialogue: 0,0:13:27.73,0:13:28.90,Yamazaki,,0,0,0,,I'm a Sakisan
+Dialogue: 0,0:13:29.40,0:13:31.14,Endo,,0,0,0,,I don't want to say Sakisan
+Dialogue: 0,0:13:30.15,0:13:31.66,Hamada,,0,0,0,,How many years have we been calling him that
+Dialogue: 0,0:13:31.14,0:13:31.66,Endo,,0,0,0,,Right
+Dialogue: 0,0:13:31.66,0:13:33.80,Endo,,0,0,0,,Everyone's been calling you Zaki-san
+Dialogue: 0,0:13:31.66,0:13:33.80,Tanaka,,0,0,0,,Saki-san, Zaki-san you say
+Dialogue: 0,0:13:33.80,0:13:34.56,Yamazaki,,0,0,0,,Right!!
+Dialogue: 0,0:13:35.06,0:13:36.03,Endo,,0,0,0,,Right?
+Dialogue: 0,0:13:36.50,0:13:37.16,Matsumoto,,0,0,0,,Right
+Dialogue: 0,0:13:38.26,0:13:40.20,Matsumoto,,0,0,0,,
+Dialogue: 0,0:13:39.56,0:13:40.20,Endo,,0,0,0,,
+Dialogue: 0,0:13:40.53,0:13:42.40,Yamazaki,,0,0,0,,Wait a second, you said Okiko
+Dialogue: 0,0:13:42.40,0:13:43.23,Matsumoto,,0,0,0,,I said Okiko
+Dialogue: 0,0:13:43.13,0:13:45.20,Yamazaki,,0,0,0,,{\pos(720,888)}You're saying you picked Okiko?
+Dialogue: 0,0:13:43.23,0:13:43.97,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:13:45.20,0:13:47.66,Yamazaki,,0,0,0,,{\pos(726,888)}That's what you said
+Dialogue: 0,0:13:45.20,0:13:47.66,Matsumoto,,0,0,0,,We said
+Dialogue: 0,0:13:45.93,0:13:47.66,Tanaka,,0,0,0,,{\pos(720,820)}We did
+Dialogue: 0,0:13:46.26,0:13:47.66,Endo,,0,0,0,,{\pos(720,756)}We did
+Dialogue: 0,0:13:47.66,0:13:48.60,Tanaka,,0,0,0,,We did say that
+Dialogue: 0,0:13:48.60,0:13:50.00,Yamazaki,,0,0,0,,Stop joking around!!!
+Dialogue: 0,0:13:51.93,0:13:53.66,Endo,,0,0,0,,What's wrong?
+Dialogue: 0,0:13:53.66,0:13:56.53,Endo,,0,0,0,,He's emotionally unstable,huh
+Dialogue: 0,0:13:55.06,0:13:56.53,Tanaka,,0,0,0,,{\pos(720,896)}What's wrong with you?
+Dialogue: 0,0:13:57.76,0:13:59.35,Yamazaki,,0,0,0,,That's wrong, isn't it!?!?
+Dialogue: 0,0:14:01.33,0:14:04.03,Matsumoto,,0,0,0,,I don't know how he'd know either way
+Dialogue: 0,0:14:02.30,0:14:02.80,Tanaka,,0,0,0,,Right
+Dialogue: 0,0:14:02.80,0:14:05.16,Endo,,0,0,0,,You don't even know yet
+Dialogue: 0,0:14:04.03,0:14:05.70,Tanaka,,0,0,0,,Why don't you try eating it?
+Dialogue: 0,0:14:05.70,0:14:07.00,Yamazaki,,0,0,0,,It's not Okiko is it?
+Dialogue: 0,0:14:07.00,0:14:08.36,Yamazaki,,0,0,0,,The one you chose
+Dialogue: 0,0:14:08.36,0:14:09.61,Matsumoto,,0,0,0,,I don't know about that
+Dialogue: 0,0:14:08.93,0:14:11.00,Tanaka,,0,0,0,,That's right, why not try eating it
+Dialogue: 0,0:14:09.61,0:14:11.03,Endo,,0,0,0,,What's with you
+Dialogue: 0,0:14:11.03,0:14:12.10,Yamazaki,,0,0,0,,I don't know!!
+Dialogue: 0,0:14:12.10,0:14:13.40,Yamazaki,,0,0,0,,Which one is it?'
+Dialogue: 0,0:14:14.06,0:14:15.36,Yamazaki,,0,0,0,,From the soft ones
+Dialogue: 0,0:14:16.23,0:14:18.30,Yamazaki,,0,0,0,,Huh? Okiko is soft isn't it?
+Dialogue: 0,0:14:18.86,0:14:19.86,Yamazaki,,0,0,0,,Whoa, what do I do?
+Dialogue: 0,0:14:19.86,0:14:21.01,Yamazaki,,0,0,0,,Wait a second
+Dialogue: 0,0:14:22.60,0:14:25.96,Matsumoto,,0,0,0,,No, no, whichever one you eat, you'll know if we're lying
+Dialogue: 0,0:14:25.96,0:14:26.66,Yamazaki,,0,0,0,,That's right
+Dialogue: 0,0:14:26.66,0:14:28.16,Yamazaki,,0,0,0,,Thank you so much
+Dialogue: 0,0:14:28.16,0:14:30.23,Yamazaki,,0,0,0,,I was really questioning your service
+Dialogue: 0,0:14:31.26,0:14:34.10,Yamazaki,,0,0,0,,Whoa, this is my big chance
+Dialogue: 0,0:14:34.09,0:14:35.90,Yamazaki,,0,0,0,,Which one is it, though?
+Dialogue: 0,0:14:37.83,0:14:39.16,Yamazaki,,0,0,0,,Really
+Dialogue: 0,0:14:40.43,0:14:42.26,Yamazaki,,0,0,0,,You really picked Okiko, didn't you?
+Dialogue: 0,0:14:44.20,0:14:47.03,Endo,,0,0,0,,He's done his weird switch again
+Dialogue: 0,0:14:45.70,0:14:47.00,Tanaka,,0,0,0,,He's all over the place
+Dialogue: 0,0:14:47.03,0:14:47.53,Tanaka,,0,0,0,,Is he ok?
+Dialogue: 0,0:14:47.53,0:14:48.70,Endo,,0,0,0,,Right
+Dialogue: 0,0:14:48.70,0:14:49.80,Tanaka,,0,0,0,,Is he O.K.?
+Dialogue: 0,0:14:49.80,0:14:51.26,Yamazaki,,0,0,0,,This is a big problem
+Dialogue: 0,0:14:52.56,0:14:54.70,Yamazaki,,0,0,0,,You said it was between these two
+Dialogue: 0,0:14:56.40,0:14:58.29,Yamazaki,,0,0,0,,But did you really choose it for me?
+Dialogue: 0,0:14:59.60,0:15:02.26,Hamada,,0,0,0,,Your head's messed up, it's messed up
+Dialogue: 0,0:15:00.23,0:15:01.66,Endo,,0,0,0,,It's this again, really
+Dialogue: 0,0:15:03.96,0:15:06.40,Matsumoto,,0,0,0,,How many personalities are in your head?
+Dialogue: 0,0:15:07.73,0:15:09.33,Matsumoto,,0,0,0,,How many?
+Dialogue: 0,0:15:08.03,0:15:09.33,Hamada,,0,0,0,,{\pos(720,888)}How many do you have now?
+Dialogue: 0,0:15:09.33,0:15:11.63,Matsumoto,,0,0,0,,How many, it seems like 3
+Dialogue: 0,0:15:09.83,0:15:11.40,Endo,,0,0,0,,{\pos(720,900)}How many are there
+Dialogue: 0,0:15:11.40,0:15:12.10,Endo,,0,0,0,,{\pos(720,900)}Right
+Dialogue: 0,0:15:12.26,0:15:14.36,Yamazaki,,0,0,0,,But really, which one is it?
+Dialogue: 0,0:15:14.36,0:15:16.66,Yamazaki,,0,0,0,,After all, there aren't any other soft ones
+Dialogue: 0,0:15:18.10,0:15:20.63,Yamazaki,,0,0,0,,Did you really choose Okiko for me?
+Dialogue: 0,0:15:22.03,0:15:23.60,Yamazaki,,0,0,0,,This soft
+Dialogue: 0,0:15:24.33,0:15:25.76,Yamazaki,,0,0,0,,Did you choose a different type?
+Dialogue: 0,0:15:26.70,0:15:28.86,Yamazaki,,0,0,0,,This is the only one
+Dialogue: 0,0:15:29.80,0:15:30.66,Yamazaki,,0,0,0,,But...
+Dialogue: 0,0:15:30.66,0:15:32.56,Yamazaki,,0,0,0,,I believe people are good
+Dialogue: 0,0:15:33.40,0:15:35.36,Yamazaki,,0,0,0,,People aren't bad
+Dialogue: 0,0:15:35.70,0:15:36.36,Yamazaki,,0,0,0,,Right
+Dialogue: 0,0:15:37.80,0:15:38.96,Yamazaki,,0,0,0,,Okiko!!
+Dialogue: 0,0:15:40.03,0:15:41.06,Matsumoto,,0,0,0,,
+Dialogue: 0,0:15:40.70,0:15:41.66,Endo,,0,0,0,,Yes
+Dialogue: 0,0:15:40.86,0:15:41.66,Tanaka,,0,0,0,,So it seems
+Dialogue: 0,0:15:56.40,0:15:57.66,Yamazaki,,0,0,0,,Did I pick the wrong one?
+Dialogue: 0,0:15:57.66,0:15:59.66,Matsumoto,,0,0,0,,Again, yet again, yet again
+Dialogue: 0,0:15:59.67,0:16:01.34,Endo,,0,0,0,,It's this again
+Dialogue: 0,0:16:01.34,0:16:03.90,Hamada,,0,0,0,,How many are there?
+Dialogue: 0,0:16:02.16,0:16:03.90,Tanaka,,0,0,0,,It's a different one, huh
+Dialogue: 0,0:16:03.90,0:16:05.16,Hamada,,0,0,0,,How many are there?
+Dialogue: 0,0:16:05.16,0:16:05.86,Yamazaki,,0,0,0,,Hey
+Dialogue: 0,0:16:05.86,0:16:06.75,Tanaka,,0,0,0,,Ahh, another
+Dialogue: 0,0:16:07.10,0:16:08.33,Tanaka,,0,0,0,,It's another one
+Dialogue: 0,0:16:08.33,0:16:09.00,Endo,,0,0,0,,He's good, huh
+Dialogue: 0,0:16:09.00,0:16:10.23,Tanaka,,0,0,0,,He hasn't done this one
+Dialogue: 0,0:16:10.23,0:16:12.28,Hamada,,0,0,0,,It's the most foul mouthed one
+Dialogue: 0,0:16:10.83,0:16:12.28,Tanaka,,0,0,0,,{\pos(720,788)}The foul mouthed one's here
+Dialogue: 0,0:16:12.28,0:16:14.00,Yamazaki,,0,0,0,,I picked the wrong one, huh
+Dialogue: 0,0:16:25.63,0:16:26.90,Yamazaki,,0,0,0,,You almost had me, huh
+Dialogue: 0,0:16:25.63,0:16:28.90,Credit,,0,0,0,,T.N. Yamazaki's using Yakuza like grammar
+Dialogue: 0,0:16:29.00,0:16:31.96,Yamazaki,,0,0,0,,You almost had me, huh?
+Dialogue: 0,0:16:30.33,0:16:32.43,Hamada,,0,0,0,,Where did this... What is this?
+Dialogue: 0,0:16:31.96,0:16:33.23,Tanaka,,0,0,0,,How horrible
+Dialogue: 0,0:16:33.80,0:16:35.63,Yamazaki,,0,0,0,,You almost really had me
+Dialogue: 0,0:16:36.80,0:16:37.66,Hamada,,0,0,0,,What is this?
+Dialogue: 0,0:16:37.66,0:16:39.10,Yamazaki,,0,0,0,,This did
+Dialogue: 0,0:16:39.10,0:16:40.73,Yamazaki,,0,0,0,,That was close
+Dialogue: 0,0:16:44.43,0:16:48.10,Yamazaki,,0,0,0,,You said you picked Okiko, but you picked a different one
+Dialogue: 0,0:16:49.60,0:16:50.56,Yamazaki,,0,0,0,,This one's wrong
+Dialogue: 0,0:16:51.83,0:16:53.80,Yamazaki,,0,0,0,,I believed, but
+Dialogue: 0,0:16:53.80,0:16:56.23,Yamazaki,,0,0,0,,But you guys have betrayed me before
+Dialogue: 0,0:16:56.23,0:16:58.43,Yamazaki,,0,0,0,,Therefore, you picked a different one
+Dialogue: 0,0:16:58.43,0:17:00.48,Yamazaki,,0,0,0,,You can't betray me now
+Dialogue: 0,0:17:02.83,0:17:04.43,Yamazaki,,0,0,0,,The one I ate
+Dialogue: 0,0:17:04.43,0:17:05.40,Yamazaki,,0,0,0,,Okiko Pan
+Dialogue: 0,0:17:06.96,0:17:09.16,Yamazaki,,0,0,0,,Was not it
+Dialogue: 0,0:17:13.86,0:17:15.66,Hamada,,0,0,0,,
+Dialogue: 0,0:17:15.73,0:17:17.26,Endo,,0,0,0,,
+Dialogue: 0,0:17:16.23,0:17:19.10,Tanaka,,0,0,0,,Wow, it was Okiko, Okiko
+Dialogue: 0,0:17:19.50,0:17:23.20,Endo,,0,0,0,,We didn't betray you, it was Okiko
+Dialogue: 0,0:17:19.93,0:17:20.86,Tanaka,,0,0,0,,Okiko!!
+Dialogue: 0,0:17:21.53,0:17:23.83,Matsumoto,,0,0,0,,Even though we really picked Okiko
+Dialogue: 0,0:17:23.20,0:17:25.50,Hamada,,0,0,0,,We said we were picking Okiko
+Dialogue: 0,0:17:26.90,0:17:29.06,Matsumoto,,0,0,0,,Even though we gave you the prize money
+Dialogue: 0,0:17:30.00,0:17:31.66,Yamazaki,,0,0,0,,You picked Okiko for me?
+Dialogue: 0,0:17:31.33,0:17:31.66,Tanaka,,0,0,0,,{\pos(720,888)}Yes
+Dialogue: 0,0:17:31.66,0:17:32.99,Endo,,0,0,0,,Yes, we did
+Dialogue: 0,0:17:32.43,0:17:32.86,Tanaka,,0,0,0,,{\pos(720,888)}Yes
+Dialogue: 0,0:17:34.13,0:17:35.43,Yamazaki,,0,0,0,,I'm so sorry
+Dialogue: 0,0:17:37.30,0:17:39.66,Tanaka,,0,0,0,,You said some hurtful things
+Dialogue: 0,0:17:38.46,0:17:40.03,Yamazaki,,0,0,0,,Did I say hurtful things?
+Dialogue: 0,0:17:39.66,0:17:42.33,Tanaka,,0,0,0,,You said some bad things
+Dialogue: 0,0:17:40.03,0:17:42.33,Yamazaki,,0,0,0,,I'm sorry, I'm so sorry
+Dialogue: 0,0:17:40.63,0:17:42.33,Endo,,0,0,0,,You made some comments
+Dialogue: 0,0:17:42.33,0:17:44.04,Yamazaki,,0,0,0,,I wasn't being serious
+Dialogue: 0,0:17:44.04,0:17:45.54,Yamazaki,,0,0,0,,I'm really sorry
+Dialogue: 0,0:17:44.56,0:17:47.21,Endo,,0,0,0,,You said we betrayed you
+Dialogue: 0,0:17:45.54,0:17:47.20,Yamazaki,,0,0,0,,I'll receive my punishment now
+Dialogue: 0,0:17:48.10,0:17:49.00,Yamazaki,,0,0,0,,I'm sorry, huh
+Dialogue: 0,0:17:49.13,0:17:51.88,Matsumoto,,0,0,0,,What would he have said if we picked a different one
+Dialogue: 0,0:17:50.36,0:17:51.90,Tanaka,,0,0,0,,Huh, I wonder
+Dialogue: 0,0:17:50.86,0:17:51.90,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:17:57.76,0:17:59.50,Default,,0,0,0,,Don't have normal expectations!!
+Dialogue: 0,0:17:59.96,0:18:02.13,Default,,0,0,0,,Have some more bang!! "Pan Pan"
+Dialogue: 0,0:18:05.66,0:18:09.73,Matsumoto,,0,0,0,,For us, this is also a sad conclusion
+Dialogue: 0,0:18:08.93,0:18:11.43,Endo,,0,0,0,,{\pos(738,900)}This is kind of sad
+Dialogue: 0,0:18:09.73,0:18:12.60,Tanaka,,0,0,0,,That's true, this is pretty upsetting
+Dialogue: 0,0:18:12.93,0:18:14.20,Yamazaki,,0,0,0,,Well, I'm really sorry
+Dialogue: 0,0:18:15.06,0:18:16.60,Matsumoto,,0,0,0,,What should we do, he might switch
+Dialogue: 0,0:18:16.61,0:18:19.63,Yamazaki,,0,0,0,,That's right, what did I even say?
+Dialogue: 0,0:18:19.63,0:18:20.60,Tanaka,,0,0,0,,Don't you remember?
+Dialogue: 0,0:18:20.60,0:18:23.26,Yamazaki,,0,0,0,,That wasn't me, that wasn't me
+Dialogue: 0,0:18:21.23,0:18:22.20,Endo,,0,0,0,,Really?
+Dialogue: 0,0:18:23.26,0:18:24.60,Yamazaki,,0,0,0,,I like everyone, after all
+Dialogue: 0,0:18:27.40,0:18:32.30,Matsumoto,,0,0,0,,I, you know, have my own way of testing
+Dialogue: 0,0:18:32.90,0:18:34.23,Default,,0,0,0,,The last challenger
+Dialogue: 0,0:18:34.23,0:18:35.20,Default,,0,0,0,,Is Matsumoto
+Dialogue: 0,0:18:35.76,0:18:36.63,Default,,0,0,0,,His chosen bread
+Dialogue: 0,0:18:37.20,0:18:38.16,Hamada,,0,0,0,,Let's go with Okiko
+Dialogue: 0,0:18:39.20,0:18:40.43,Yamazaki,,0,0,0,,Hamada-san?
+Dialogue: 0,0:18:40.43,0:18:42.06,Yamazaki,,0,0,0,,Hamada-san
+Dialogue: 0,0:18:40.96,0:18:42.06,Endo,,0,0,0,,For real, Hamada-san?
+Dialogue: 0,0:18:42.66,0:18:44.80,Default,,0,0,0,,To the contrary of what Hamada claims
+Dialogue: 0,0:18:44.80,0:18:47.00,Default,,0,0,0,,His choice is Yamazaki Melon Pan
+Dialogue: 0,0:18:47.63,0:18:49.20,Default,,0,0,0,,With its distinct line surface
+Dialogue: 0,0:18:49.20,0:18:52.00,Default,,0,0,0,,Will he be able to find the taste?
+Dialogue: 0,0:18:53.33,0:18:56.51,Hamada,,0,0,0,,We're giving you this, like Yamasaki
+Dialogue: 0,0:18:54.36,0:18:56.13,Endo,,0,0,0,,Yeah, well...
+Dialogue: 0,0:18:56.13,0:18:56.81,Tanaka,,0,0,0,,For real?
+Dialogue: 0,0:18:56.51,0:18:57.72,Endo,,0,0,0,,So it seems
+Dialogue: 0,0:18:56.83,0:18:57.72,Yamazaki,,0,0,0,,So it seems
+Dialogue: 0,0:18:57.72,0:19:00.56,Matsumoto,,0,0,0,,This, what is this, what is this, I don't understand
+Dialogue: 0,0:18:58.63,0:19:00.56,Yamazaki,,0,0,0,,You're the last one, huh
+Dialogue: 0,0:19:00.56,0:19:02.02,Matsumoto,,0,0,0,,I really have no clue
+Dialogue: 0,0:19:02.02,0:19:03.30,Matsumoto,,0,0,0,,It's kind of
+Dialogue: 0,0:19:02.46,0:19:03.53,Endo,,0,0,0,,Go ahead, Matsumoto-san
+Dialogue: 0,0:19:03.00,0:19:03.53,Tanaka,,0,0,0,,Please
+Dialogue: 0,0:19:03.30,0:19:05.43,Matsumoto,,0,0,0,,This psychological warfare is cheap
+Dialogue: 0,0:19:07.06,0:19:07.96,Endo,,0,0,0,,It certainly is
+Dialogue: 0,0:19:07.96,0:19:09.43,Matsumoto,,0,0,0,,What the hell is this
+Dialogue: 0,0:19:10.33,0:19:12.40,Matsumoto,,0,0,0,,This has nothing to do with Melon Pan anymore
+Dialogue: 0,0:19:13.20,0:19:14.86,Matsumoto,,0,0,0,,Wait, give me a second here
+Dialogue: 0,0:19:15.06,0:19:16.33,Hamada,,0,0,0,,We gave you Okiko
+Dialogue: 0,0:19:16.33,0:19:18.40,Matsumoto,,0,0,0,,Well, I don't know, huh
+Dialogue: 0,0:19:18.40,0:19:19.83,Matsumoto,,0,0,0,,Wait, I have no clue
+Dialogue: 0,0:19:20.00,0:19:21.13,Hamada,,0,0,0,,
+Dialogue: 0,0:19:20.93,0:19:22.76,Tanaka,,0,0,0,,
+Dialogue: 0,0:19:21.53,0:19:22.33,Hamada,,0,0,0,,
+Dialogue: 0,0:19:23.66,0:19:25.26,Matsumoto,,0,0,0,,This is soft
+Dialogue: 0,0:19:26.73,0:19:28.83,Matsumoto,,0,0,0,,Uhhhhhhhgh
+Dialogue: 0,0:19:29.83,0:19:31.63,Matsumoto,,0,0,0,,I have no clue
+Dialogue: 0,0:19:33.23,0:19:35.70,Matsumoto,,0,0,0,,Why did you pick Okiko again?
+Dialogue: 0,0:19:38.63,0:19:40.62,Hamada,,0,0,0,,Why are you asking me?
+Dialogue: 0,0:19:40.62,0:19:42.73,Matsumoto,,0,0,0,,This Okiko playing around
+Dialogue: 0,0:19:42.73,0:19:43.70,Matsumoto,,0,0,0,,Is over
+Dialogue: 0,0:19:47.40,0:19:49.06,Matsumoto,,0,0,0,,I think I understand...
+Dialogue: 0,0:19:49.06,0:19:49.90,Matsumoto,,0,0,0,,
+Dialogue: 0,0:19:50.66,0:19:51.83,Yamazaki,,0,0,0,,You have no clue, do you?
+Dialogue: 0,0:19:51.83,0:19:52.60,Matsumoto,,0,0,0,,Well, you know
+Dialogue: 0,0:19:54.80,0:19:57.06,Matsumoto,,0,0,0,,Ahh....
+Dialogue: 0,0:19:57.06,0:19:58.90,Matsumoto,,0,0,0,,Yes, yes, yes, yes!
+Dialogue: 0,0:20:01.00,0:20:04.25,Matsumoto,,0,0,0,,You were betting that by showing me a soft one like Okiko
+Dialogue: 0,0:20:04.25,0:20:08.60,Matsumoto,,0,0,0,,That I would think that it was another soft bread that wasn't Okiko
+Dialogue: 0,0:20:08.60,0:20:10.83,Matsumoto,,0,0,0,,That's why when Hamada was saying it was Okiko
+Dialogue: 0,0:20:10.83,0:20:14.73,Matsumoto,,0,0,0,,That Tanaka was saying "Ha-Hamada!"
+Dialogue: 0,0:20:14.73,0:20:15.46,Matsumoto,,0,0,0,,Therefore
+Dialogue: 0,0:20:15.46,0:20:18.86,Matsumoto,,0,0,0,,It's a soft bread that isn't Okiko
+Dialogue: 0,0:20:18.86,0:20:20.70,Matsumoto,,0,0,0,,Therefore, the answer is
+Dialogue: 0,0:20:21.76,0:20:25.37,Matsumoto,,0,0,0,,Is Dai-Ichi Sei Pan's Tezuzumi Melon Pan!!
+Dialogue: 0,0:20:28.00,0:20:28.63,Matsumoto,,0,0,0,,This one, right?
+Dialogue: 0,0:20:28.93,0:20:30.63,Matsumoto,,0,0,0,,This is the one
+Dialogue: 0,0:20:31.76,0:20:32.63,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:20:35.46,0:20:37.26,Matsumoto,,0,0,0,,Ahh, well, wait a second
+Dialogue: 0,0:20:37.73,0:20:40.03,Matsumoto,,0,0,0,,Wow, this is difficult!
+Dialogue: 0,0:20:40.40,0:20:42.30,Hamada,,0,0,0,,You're so noisy
+Dialogue: 0,0:20:46.53,0:20:48.73,Matsumoto,,0,0,0,,I'll try one that's completely different
+Dialogue: 0,0:20:48.73,0:20:50.33,Matsumoto,,0,0,0,,Right, like this one
+Dialogue: 0,0:20:53.16,0:20:54.46,Matsumoto,,0,0,0,,
+Dialogue: 0,0:20:55.70,0:20:57.53,Matsumoto,,0,0,0,,This one's definitely different
+Dialogue: 0,0:21:13.50,0:21:15.26,Hamada,,0,0,0,,What's with you recently
+Dialogue: 0,0:21:15.56,0:21:17.51,Matsumoto,,0,0,0,,It's not but it is
+Dialogue: 0,0:21:20.06,0:21:21.80,Hamada,,0,0,0,,I don't know about the taste
+Dialogue: 0,0:21:21.80,0:21:23.16,Matsumoto,,0,0,0,,It's not but it is
+Dialogue: 0,0:21:25.66,0:21:27.56,Matsumoto,,0,0,0,,Wait a second, is it this one?
+Dialogue: 0,0:21:28.10,0:21:29.30,Matsumoto,,0,0,0,,Wow
+Dialogue: 0,0:21:29.96,0:21:31.90,Matsumoto,,0,0,0,,%^&*#$!!
+Dialogue: 0,0:21:36.76,0:21:39.46,Matsumoto,,0,0,0,,
+Dialogue: 0,0:21:42.46,0:21:43.85,Matsumoto,,0,0,0,,It isn't but it is
+Dialogue: 0,0:21:45.80,0:21:46.93,Endo,,0,0,0,,It is but isn't
+Dialogue: 0,0:21:47.86,0:21:49.73,Matsumoto,,0,0,0,,Is it okay to say that this time?
+Dialogue: 0,0:21:49.00,0:21:49.73,Endo,,0,0,0,,{\pos(720,788)}What?
+Dialogue: 0,0:21:50.67,0:21:51.26,Endo,,0,0,0,,What?
+Dialogue: 0,0:21:51.26,0:21:53.13,Tanaka,,0,0,0,,No, no, no
+Dialogue: 0,0:21:51.63,0:21:53.13,Matsumoto,,0,0,0,,The one I ate
+Dialogue: 0,0:21:53.13,0:21:55.53,Matsumoto,,0,0,0,,Is but isn't this one
+Dialogue: 0,0:21:55.20,0:21:57.26,Yamazaki,,0,0,0,,{\pos(720,776)}No, you can't do that
+Dialogue: 0,0:21:56.43,0:21:58.63,Endo,,0,0,0,,
+Dialogue: 0,0:21:58.13,0:21:59.26,Yamazaki,,0,0,0,,That's bad
+Dialogue: 0,0:21:59.26,0:22:01.06,Matsumoto,,0,0,0,,But it really is and isn't
+Dialogue: 0,0:22:11.80,0:22:13.06,Matsumoto,,0,0,0,,This is and isn't
+Dialogue: 0,0:22:15.10,0:22:18.60,Matsumoto,,0,0,0,,If I say it isn't and throw it out
+Dialogue: 0,0:22:18.60,0:22:20.70,Matsumoto,,0,0,0,,And I end up getting it wrong
+Dialogue: 0,0:22:20.70,0:22:23.53,Matsumoto,,0,0,0,,I will, absolutely
+Dialogue: 0,0:22:23.53,0:22:25.10,Matsumoto,,0,0,0,,Start to hate Melon Pan
+Dialogue: 0,0:22:30.10,0:22:32.30,Hamada,,0,0,0,,What's with this
+Dialogue: 0,0:22:30.80,0:22:32.30,Matsumoto,,0,0,0,,I won't eat it anymore too
+Dialogue: 0,0:22:32.30,0:22:33.86,Matsumoto,,0,0,0,,
+Dialogue: 0,0:22:33.66,0:22:36.73,Hamada,,0,0,0,,What's with this
+Dialogue: 0,0:22:34.40,0:22:36.73,Matsumoto,,0,0,0,,I might say that it might be this
+Dialogue: 0,0:22:38.73,0:22:40.13,Matsumoto,,0,0,0,,The one I ate
+Dialogue: 0,0:22:40.13,0:22:43.53,Matsumoto,,0,0,0,,Was not Yamazaki Melon Pan
+Dialogue: 0,0:22:48.73,0:22:50.00,Matsumoto,,0,0,0,,It actually was!
+Dialogue: 0,0:22:50.00,0:22:52.00,Matsumoto,,0,0,0,,I'm not stupid, I'm not stupid, I'm not stupid
+Dialogue: 0,0:22:53.63,0:22:55.06,Hamada,,0,0,0,,You had it
+Dialogue: 0,0:22:55.06,0:22:56.66,Hamada,,0,0,0,,You had it
+Dialogue: 0,0:22:55.20,0:22:56.63,Endo,,0,0,0,,
+Dialogue: 0,0:22:56.63,0:22:58.03,Tanaka,,0,0,0,,That was amazing
+Dialogue: 0,0:22:56.76,0:22:59.23,Endo,,0,0,0,,
+Dialogue: 0,0:22:57.80,0:22:59.36,Endo,,0,0,0,,
+Dialogue: 0,0:22:59.23,0:23:04.30,Hamada,,0,0,0,,Why aren't you going to the platform
+Dialogue: 0,0:23:01.76,0:23:04.30,Matsumoto,,0,0,0,,You guys are dirty!!
+Dialogue: 0,0:23:04.30,0:23:06.49,Matsumoto,,0,0,0,,You guys are dirty!!
+Dialogue: 0,0:23:06.49,0:23:08.53,Hamada,,0,0,0,,That was really amazing though
+Dialogue: 0,0:23:09.76,0:23:11.60,Matsumoto,,0,0,0,,
+Dialogue: 0,0:23:12.33,0:23:14.16,Matsumoto,,0,0,0,,
+Dialogue: 0,0:23:13.56,0:23:14.70,Hamada,,0,0,0,,You had it
+Dialogue: 0,0:23:14.70,0:23:17.14,Matsumoto,,0,0,0,,The tape is coming off!
+Dialogue: 0,0:23:17.14,0:23:18.50,Yamazaki,,0,0,0,,It's fine
+Dialogue: 0,0:23:18.50,0:23:20.16,Matsumoto,,0,0,0,,It's coming off!!
+Dialogue: 0,0:23:19.56,0:23:20.44,Endo,,0,0,0,,Stop this, stop this!
+Dialogue: 0,0:23:20.16,0:23:20.86,Tanaka,,0,0,0,,Your punishment...
+Dialogue: 0,0:23:20.44,0:23:21.70,Endo,,0,0,0,,Stop this
+Dialogue: 0,0:23:20.86,0:23:21.73,Tanaka,,0,0,0,,You have to
+Dialogue: 0,0:23:21.73,0:23:23.73,Matsumoto,,0,0,0,,You told me the wrong one!!
+Dialogue: 0,0:23:25.03,0:23:26.83,Matsumoto,,0,0,0,,
+Dialogue: 0,0:23:26.56,0:23:29.20,Hamada,,0,0,0,,If you were so sure, why didn't you go for it?
+Dialogue: 0,0:23:31.90,0:23:33.96,Matsumoto,,0,0,0,,Well, well, well, well
+Dialogue: 0,0:23:33.26,0:23:34.93,Hamada,,0,0,0,,No, no, no
+Dialogue: 0,0:23:33.96,0:23:34.93,Tanaka,,0,0,0,,No
+Dialogue: 0,0:23:34.94,0:23:36.23,Tanaka,,0,0,0,,Please receive your punishment
+Dialogue: 0,0:23:35.16,0:23:36.23,Endo,,0,0,0,,It's still not over
+Dialogue: 0,0:23:36.23,0:23:37.73,Endo,,0,0,0,,It's not over
+Dialogue: 0,0:23:36.60,0:23:37.73,Tanaka,,0,0,0,,Please receive your punishment
+Dialogue: 0,0:23:47.93,0:23:49.56,Default,,0,0,0,,All of
+Dialogue: 0,0:23:49.56,0:23:50.93,Default,,0,0,0,,Melon Pan's
+Dialogue: 0,0:23:50.93,0:23:51.83,Default,,0,0,0,,Sweetness
+Dialogue: 0,0:23:51.83,0:23:53.00,Default,,0,0,0,,Is it that tiring
+Dialogue: 0,0:23:55.56,0:23:56.90,Matsumoto,,0,0,0,,The point slid down
+

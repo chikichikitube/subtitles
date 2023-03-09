@@ -1,0 +1,1180 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 712
+PlayResY: 400
+Last Style Storage: Default
+Video Zoom Percent: 1
+Scroll Position: 981
+Active Line: 990
+Audio URI: G:\encodes\Lincoln - 303.mp4
+Video File: G:\encodes\Lincoln - 303.mp4
+Video Aspect Ratio: c1.78
+Video Position: 71415
+Keyframes File: G:\encodes\keyframesforlincoln303.pass
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00141414,&H00000000,0,0,0,0,100,100,0.1,0,1,2,0.2,2,16,16,8,1
+Style: [Amano],Arial,30,&H00083D85,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.75,1.4,2,16,16,8,1
+Style: [Amano] - Align Left,Arial,30,&H00083D85,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.75,1.4,1,16,16,8,1
+Style: [Hamada],Arial,30,&H00ED3635,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,1.4,2,16,16,8,1
+Style: [Hamada] - Align Left,Arial,30,&H00ED3635,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,1.4,1,16,16,8,1
+Style: [Hotohara],Arial,30,&H0088C400,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.2,2,16,16,8,1
+Style: [Hotohara] - Align Left,Arial,30,&H0088C400,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,1.2,1,16,16,8,1
+Style: [Matsumoto],Arial,30,&H002210CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,1.4,2,8,8,8,1
+Style: [Matsumoto] - Align Left,Arial,30,&H002210CC,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,1.4,1,8,8,8,1
+Style: [Mimura],Arial,30,&H00057509,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,2,16,16,8,1
+Style: [Mimura] - Align Left,Arial,30,&H00057509,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,1,16,16,8,1
+Style: [Miyasako],Arial,30,&H00FF2BA1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,2,16,16,8,1
+Style: [Miyasako] - Align Left,Arial,30,&H00FF2BA1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,1,16,16,8,1
+Style: [Otake],Arial,30,&H000080E3,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.8,1.4,2,16,16,8,1
+Style: [Rola],Arial,30,&H009925DD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,2,16,16,8,1
+Style: [Udo],Arial,30,&H009925DD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,1.4,2,16,16,8,1
+Style: Narrator,Arial,28,&H00FFFFFF,&H000000FF,&H00141414,&H00000000,0,0,0,0,100,100,0,0,1,2,0.2,2,16,16,8,1
+Style: Twitter Overlay 1,Arial,22,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,5,0,1,0,0,8,1
+Style: Twitter Overlay 2,Arial,20,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,1,0,1,0,0,8,1
+Style: Special Narrator,Arial,21,&H00000000,&H000000FF,&H00141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,16,16,8,1
+Style: Caption Wizard,Arial,28,&H002810BF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Tweet Text,Arial,18,&H00000000,&H000000FF,&H00141414,&H00000000,0,0,0,0,100,100,0,0,1,0,0,1,16,16,8,1
+Style: THE OVERLAYS!~,Arial,28,&H00FFFFFF,&H000000FF,&H00FFA303,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Overlay (Tweet #),Arial,25,&H00FFA303,&H000000FF,&H00FFA303,&H00000000,-1,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+Style: Onscreen Captions,Arial,42,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+Style: Another Overlay,Arial,20,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+Style: THE OVERLAYS!~ - Names,Arial,26,&H00FFFFFF,&H000000FF,&H00FFA303,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: Credit,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,## Signs Above##
+Comment: 0,0:00:36.29,0:00:37.88,Default,,0,0,0,,Whoa! {Not entirely necessary, is it?}
+Comment: 0,0:00:38.16,0:00:39.85,Default,,0,0,0,,Whoa!
+Comment: 0,0:16:43.03,0:16:46.95,Narrator,,0,0,0,,{Sign Replacement/Translation}
+Dialogue: 0,0:00:00.00,0:00:07.82,Credit,,0,0,0,,{\an7}Translation by typesoshee\NTiming & Typesetting by BassGNT
+Dialogue: 0,0:09:19.94,0:09:24.58,Credit,,0,0,0,,{\an7}Translation by typesoshee\NTiming & Typesetting by BassGNT
+Dialogue: 0,0:23:51.61,0:23:57.05,Credit,,0,0,0,,{\an7}Translation by typesoshee\NTiming & Typesetting by BassGNT
+Dialogue: 0,0:36:50.52,0:36:55.66,Credit,,0,0,0,,{\an7}Translation by typesoshee\NTiming & Typesetting by BassGNT
+Dialogue: 0,0:46:06.23,0:46:11.44,Credit,,0,0,0,,{\fs24\fad(500,0)\an8)}Translation by typesoshee | Timing & Typesetting by BassGNT
+Dialogue: 0,0:00:08.52,0:00:15.79,Default,,0,0,0,,{\move(360,300,360,135,500,0)\clip(90,85,606,199)}May 4th, Saturday, 1PM
+Dialogue: 0,0:00:08.52,0:00:15.79,Default,,0,0,0,,{\move(360,140,360,285,500,0)\clip(93,199,606,316)}Setagaya Kinuta Studio
+Dialogue: 0,0:00:54.53,0:00:58.67,Default,,0,0,0,,{\bord1.5\fs19\pos(360,303)}Changed to a teacher position from today
+Dialogue: 0,0:00:54.53,0:00:58.67,Default,,0,0,0,,{\fnArial Black\pos(360,330)}Mr. Hamada Masatoshi
+Dialogue: 0,0:01:11.65,0:01:14.39,Caption Wizard,,0,0,0,,{\pos(496,313)}A real lecture?\N
+Dialogue: 0,0:01:24.46,0:01:28.77,Caption Wizard,,0,0,0,,{\pos(530,316)}Can't say there won't be.
+Dialogue: 0,0:02:04.00,0:02:10.48,Default,,0,0,0,,{\fs20\bord1.5\pos(360,265)}Today's special lecturer\N
+Dialogue: 0,0:02:04.00,0:02:10.48,Default,,0,0,0,,{\fnArial Black\bord1.5\pos(360,329)}Miss Rola
+Dialogue: 0,0:02:47.30,0:02:48.91,Default,Writing on board,0,0,0,,{\fnJosh Handwriting\pos(574,271)\fs32\b1\bord0}Rola
+Dialogue: 0,0:06:03.74,0:06:15.69,Default,Top Tweeters,0,0,0,,{\bord1.5\fs26\shad2\c&H008F00&\3c&HFFFFFF&\4c&H000000&\pos(350,73)}Japanese Twitter Users With The Most Followers
+Dialogue: 0,0:06:03.74,0:06:15.69,Default,Top Tweeters,0,0,0,,{\bord1\pos(635,85)\fs16}(as of May 4th, 2013)
+Dialogue: 0,0:06:03.74,0:06:15.69,Default,Top Tweeters,0,0,0,,{\an1\clip(98,79,385,82)\t(0,2200,\clip(98,79,385,600))\pos(216,176)}{\r[Matsumoto]\fs24}Ariyoshi Hiroiki\N\N\N{\r[Hamada]\fs24}Son Masayoshi
+Dialogue: 0,0:06:03.74,0:06:15.69,Default,Top Tweeters,0,0,0,,{\an1\pos(216,316)\clip(98,79,485,82)\t(0,2200,\clip(98,79,485,600)}{\r[Mimura]\fs24}Shinoda Mariko\N\N\N{\r[Rola]\fs24}Rola\N\N\N{\r[Otake]\fs24}Kyary Pamyu Pamyu
+Dialogue: 1,0:06:34.37,0:06:41.00,Default,,0,0,0,,{\fad(0,400)\fs28\i1\move(600,324,360,324,300,0)\c&HF3A800&\3c&HFFFFFF&\4c&H000000&\shad2\bord1.5}Their {\c&H2017C7&}trials and tribulations {\c&HF3A800&}of using Twitter for the first time!
+Dialogue: 0,0:06:34.37,0:06:41.00,Default,,0,0,0,,{\fad(0,400)\fs28\i1\move(600,324,360,324,300,0)\shad2\bord1.5\blur5\3c&H00DFDF&}Their trials and tribulations of using Twitter for the first time!
+Dialogue: 0,0:06:55.33,0:07:02.10,Default,Episode Title,0,0,0,,{\fnThrow My Hands Up in the Air\fs52\b1\pos(341,145)\c&H1CAB00&\3c&H99E9F5&\clip(141,69,146,164)\t(200,700,\clip(141,69,600,164)}Because I love Lincoln
+Dialogue: 0,0:06:56.60,0:07:02.10,Default,Episode Title,0,0,0,,{\shad1\c&H8D6924&\3c&HFFFFFF&\4c&HFFFFFF&\fnZeroGene\b1\fs42\fr8\move(0,0,178,265,250,0)}
+Dialogue: 0,0:06:56.83,0:07:02.10,Default,Episode Title,0,0,0,,{\shad1\c&H8D6924&\3c&HFFFFFF&\4c&HFFFFFF&\fnZeroGene\b1\fs48\fr2\move(0,0,250,264,250,0)}The
+Dialogue: 0,0:06:57.03,0:07:02.10,Default,Episode Title,0,0,0,,{\shad1\c&H8D6924&\3c&HFFFFFF&\4c&HFFFFFF&\fnZeroGene\b1\fs42\fr2\move(100,-50,329,257,250,0)}New
+Dialogue: 0,0:06:57.23,0:07:02.10,Default,Episode Title,0,0,0,,{\shad1\c&H8D6924&\3c&HFFFFFF&\4c&HFFFFFF&\fnZeroGene\b1\fs42\fr2\move(450,-50,444,253,250,0)}Lecturer
+Dialogue: 1,0:06:58.66,0:07:02.10,Default,Episode Title,0,0,0,,{\pos(346,347)\bord1.75\c&HEBBDFF&\3c&H7F4AB5&\4c&HFFFFFF&\clip(215,284,218,356)\t(100,600,\clip(215,284,600,356)}~The Rola Episode~
+Dialogue: 0,0:06:58.66,0:07:02.10,Default,Episode Title,0,0,0,,{\pos(346,347)\bord4\c&HE9B9FF&\3c&HFFFFFF&\4c&HFFFFFF&\clip(215,284,218,356)\t(100,600,\clip(215,284,600,356)}~The Rola Episode~
+Dialogue: 0,0:00:00.91,0:00:07.82,Default,,0,0,0,,On tonight’s “Lincoln,” we present in full {\i1}the incident{\i0} that stirred all of Japan!
+Dialogue: 0,0:00:09.33,0:00:15.14,Default,,0,0,0,,Ten days ago, Japanese internet users were in a tumult.
+Dialogue: 0,0:00:16.34,0:00:20.14,Default,,0,0,0,,The incident that was even covered by Yahoo! News...
+Dialogue: 0,0:00:20.14,0:00:24.14,Default,,0,0,0,,We present the whole truth tonight!
+Dialogue: 0,0:00:24.73,0:00:30.59,Default,,0,0,0,,The members are made to wait in a renewed classroom set of “The Lecturer".
+Dialogue: 0,0:00:33.91,0:00:35.91,[Hotohara],Ho,0,0,0,,Hey, everyone, look!
+Dialogue: 0,0:00:40.82,0:00:44.10,[Matsumoto],,0,0,0,,{\pos(225,334)}He opened the door so hard
+Dialogue: 0,0:00:41.92,0:00:44.10,[Matsumoto],,0,0,0,,he surprised himself.
+Dialogue: 0,0:00:44.15,0:00:45.42,[Matsumoto],,0,0,0,,It’s like how an animal reacts.
+Dialogue: 0,0:00:45.55,0:00:46.86,[Amano],Amano,0,0,0,,He can’t gauge himself.
+Dialogue: 0,0:00:46.86,0:00:48.66,[Matsumoto],,0,0,0,,He went “boom!” and he’s the one most freaked out.
+Dialogue: 0,0:00:48.66,0:00:52.06,[Matsumoto],,0,0,0,,He was the closest to the door.  Because the “boom!” was closest to him.
+Dialogue: 0,0:00:52.06,0:00:53.80,[Hamada],,0,0,0,,Quiet!
+Dialogue: 0,0:00:55.13,0:00:58.67,Default,,0,0,0,,Hamada is the teacher? Mr. Hamada?
+Dialogue: 0,0:00:55.98,0:00:58.67,[Hamada],,0,0,0,,Good morning.
+Dialogue: 0,0:00:58.67,0:01:01.87,[Otake],,0,0,0,,He used to sit with us together, right!?
+Dialogue: 0,0:00:59.60,0:01:04.44,[Matsumoto],,0,0,0,,Ok, I mean, good morning, but, you’re always sitting here, right?
+Dialogue: 0,0:01:04.44,0:01:08.91,[Hamada],,0,0,0,,From this time, this is {\alpha&HFF&\t(758,200,\alpha&H00&)}“The {\alpha&HFF&\t(1559,200,\alpha&H00&)}New Lecturer,” so…
+Dialogue: 0,0:01:08.64,0:01:11.65,[Mimura],Mim,0,0,0,,But if Mr. Hamada is the teacher, then that’s going to be for real.
+Dialogue: 0,0:01:12.64,0:01:16.56,[Hamada],,0,0,0,,No… I’m going to be your homeroom teacher.
+Dialogue: 0,0:01:16.56,0:01:19.69,[Hamada],,0,0,0,,And for every episode a special lecturer will be coming.
+Dialogue: 0,0:01:19.69,0:01:22.26,[Otake],Otake,0,0,0,,So there won’t be that strong… “pressure” coming from the homeroom teacher then?
+Dialogue: 0,0:01:22.26,0:01:24.46,[Hamada],,0,0,0,,That will depend on the time and place.
+Dialogue: 0,0:01:25.90,0:01:27.17,[Hamada],,0,0,0,,That can’t be helped.
+Dialogue: 0,0:01:27.17,0:01:28.52,Default,All,0,0,0,,What…
+Dialogue: 0,0:01:28.52,0:01:30.50,[Matsumoto],,0,0,0,,The classroom has been renovated and improved.
+Dialogue: 0,0:01:30.70,0:01:34.27,[Hamada],,0,0,0,,Everyone’s uniforms, as well, from those dirty tracksuits you had before.
+Dialogue: 0,0:01:34.27,0:01:36.00,[Mimura],Mim,0,0,0,,Like private school.
+Dialogue: 0,0:01:34.74,0:01:36.77,[Hamada],,0,0,0,,It’s like those nice ones that rich kids wear, right?
+Dialogue: 0,0:01:36.77,0:01:38.88,[Matsumoto],,0,0,0,,It looks smart.
+Dialogue: 0,0:01:38.88,0:01:41.41,[Hamada],,0,0,0,,And now for our special lecturer.
+Dialogue: 0,0:01:42.10,0:01:43.22,[Hamada],,0,0,0,,Please come in!
+Dialogue: 0,0:01:44.16,0:01:47.44,Narrator,,0,0,0,,Who is the new lecturer?
+Dialogue: 0,0:01:48.88,0:01:49.52,[Rola],Rola,0,0,0,,Bam!
+Dialogue: 0,0:01:50.00,0:01:50.77,[Rola],Rola,0,0,0,,Ok!
+Dialogue: 0,0:01:52.16,0:01:54.86,[Miyasako],Miy,0,0,0,,The other door, the other door.
+Dialogue: 0,0:01:57.40,0:01:59.40,[Hamada],Hamada,0,0,0,,Our teacher is Miss Rola!
+Dialogue: 0,0:02:03.11,0:02:10.48,Narrator,,0,0,0,,Tonight’s lecturer, looking surprisingly good in a teacher’s outfit is the 23-year-old Rola.
+Dialogue: 0,0:02:10.96,0:02:16.88,Narrator,,0,0,0,,What sort of lecture will they receive from a teacher who is twenty years younger than them?
+Dialogue: 0,0:02:16.88,0:02:19.40,[Rola],,0,0,0,,I am angry today!
+Dialogue: 0,0:02:21.45,0:02:24.66,Default,All,0,0,0,,You’re not angry at all!
+Dialogue: 0,0:02:24.66,0:02:27.01,[Rola],,0,0,0,,I am! Huff, puff…
+Dialogue: 0,0:02:27.01,0:02:29.13,[Hamada],,0,0,0,,The teacher is angry. Listen properly.
+Dialogue: 0,0:02:29.13,0:02:30.33,[Matsumoto],,0,0,0,,You’re angry at us?
+Dialogue: 0,0:02:30.33,0:02:31.41,[Rola],,0,0,0,,That’s right!
+Dialogue: 0,0:02:31.83,0:02:34.47,[Matsumoto],,0,0,0,,We haven’t done anything to be angered at.
+Dialogue: 0,0:02:34.47,0:02:37.49,[Rola],,0,0,0,,You have!  First, here I go.
+Dialogue: 0,0:02:37.74,0:02:39.17,[Mimura],,0,0,0,,“First, here I go….”
+Dialogue: 0,0:02:39.74,0:02:42.01,[Hamada],,0,0,0,,The teacher is speaking!
+Dialogue: 0,0:02:45.23,0:02:48.91,[Rola],,0,0,0,,Ok. {\alpha&HFF&\t(1400,200,\alpha&H00&)}This is my name.
+Dialogue: 0,0:02:49.73,0:02:51.15,Default,,0,0,0,,We know…
+Dialogue: 0,0:02:51.35,0:02:53.02,[Mimura],,0,0,0,,You’re pretty famous.
+Dialogue: 0,0:02:53.02,0:02:57.89,[Matsumoto],Matsumoto,0,0,0,,I say “Rola” more than “Saijo Hideki”{a famous singer}. Really.
+Dialogue: 0,0:02:59.29,0:03:02.73,[Rola],,0,0,0,,Starting from Miyasako, please introduce yourself.
+Dialogue: 0,0:03:02.53,0:03:03.93,Default,All,0,0,0,,Whoa, that’s scary.
+Dialogue: 0,0:03:03.47,0:03:05.03,[Miyasako],Miy,0,0,0,,A self-introduction?
+Dialogue: 0,0:03:04.22,0:03:05.03,[Rola],Rola,0,0,0,,Yup.
+Dialogue: 0,0:03:05.03,0:03:06.74,[Rola],Rola,0,0,0,,Like where do you live…
+Dialogue: 0,0:03:07.77,0:03:09.40,[Miyasako],,0,0,0,,Personal information like that!?
+Dialogue: 0,0:03:09.40,0:03:10.67,[Hamada],,0,0,0,,The teacher told you to do it!
+Dialogue: 0,0:03:10.67,0:03:13.91,[Miyasako],,0,0,0,,Personal information like that in a self-introduction!?
+Dialogue: 0,0:03:13.91,0:03:16.48,[Mimura],,0,0,0,,Your address! Say your address!
+Dialogue: 0,0:03:16.48,0:03:19.18,[Rola],,0,0,0,,Mr. Mimura! {\alpha&HFF&\t(1050,200,\alpha&H00&)}A self-introduction.
+Dialogue: 0,0:03:20.28,0:03:22.18,[Rola],,0,0,0,,What food do you like?
+Dialogue: 0,0:03:22.18,0:03:24.05,[Mimura],,0,0,0,,Um, sukiyaki
+Dialogue: 0,0:03:24.05,0:03:25.62,[Rola],,0,0,0,,I love sukiyaki, too!
+Dialogue: 0,0:03:26.38,0:03:27.52,[Rola],,0,0,0,,Really?
+Dialogue: 0,0:03:27.79,0:03:30.32,[Rola],,0,0,0,,{\clip(0,262,11,400)\t(0,1750,\clip(0,262,712,400))}Do you dip it in egg when you eat it?
+Dialogue: 0,0:03:32.93,0:03:36.16,[Matsumoto],,0,0,0,,An explanation of sukiyaki?
+Dialogue: 0,0:03:36.77,0:03:37.64,[Rola],,0,0,0,,Really nice.
+Dialogue: 0,0:03:38.60,0:03:40.37,[Rola],,0,0,0,,Matsumoto!
+Dialogue: 0,0:03:40.37,0:03:43.04,[Rola],,0,0,0,,Tell us like where you grew up…
+Dialogue: 0,0:03:43.04,0:03:45.27,[Rola],,0,0,0,,Like where you grew up or I mean,
+Dialogue: 0,0:03:45.27,0:03:50.68,[Rola],,0,0,0,,Ok, where did you go for Golden Week?
+Dialogue: 1,0:03:46.77,0:03:50.68,[Matsumoto],,0,0,0,,{\pos(491,321)}That’s totally different!
+Dialogue: 0,0:03:46.77,0:03:50.68,[Hamada],,0,0,0,,Thas has nothing to do with that!
+Dialogue: 0,0:03:50.68,0:03:51.78,[Matsumoto],,0,0,0,,Where I grew up?
+Dialogue: 0,0:03:52.91,0:03:56.82,[Hamada],,0,0,0,,What he did for Golden Week, is what you’d like to ask?
+Dialogue: 0,0:03:54.45,0:03:56.82,[Rola],,0,0,0,,{\pos(212,329)}Yeah, I'm curious!
+Dialogue: 0,0:03:55.57,0:03:56.82,[Matsumoto],,0,0,0,,For Golden Week?
+Dialogue: 0,0:03:56.82,0:04:01.12,[Matsumoto],,0,0,0,,I was at home at times, {\alpha&HFF&\t(1500,200,\alpha&H00&)}I went to the park as well at times…
+Dialogue: 0,0:04:01.12,0:04:02.99,[Rola],,0,0,0,,Huh? Which park?
+Dialogue: 0,0:04:04.10,0:04:07.90,[Matsumoto],,0,0,0,,I don’t know the exact name of the park.
+Dialogue: 0,0:04:07.90,0:04:10.46,[Matsumoto],,0,0,0,,It wasn’t a famous park or anything.
+Dialogue: 0,0:04:10.46,0:04:13.53,[Rola],,0,0,0,,Oh, really. Did you like jump-rope or— were you playing a lot there?
+Dialogue: 0,0:04:13.53,0:04:15.83,[Otake],Otake,0,0,0,,It’s not like he went there alone!
+Dialogue: 0,0:04:15.83,0:04:18.14,[Rola],,0,0,0,,What did you play there?
+Dialogue: 0,0:04:16.86,0:04:20.37,[Matsumoto],,0,0,0,,Well, I mean, I brought my daughter there...
+Dialogue: 0,0:04:20.37,0:04:22.54,[Rola],,0,0,0,,What, you have a daughter?
+Dialogue: 0,0:04:22.54,0:04:26.85,[Matsumoto],,0,0,0,,{\clip(25,25,11,400)\t(0,1750,\clip(25,25,712,400))}Do you know absolutely nothing about me?!
+Dialogue: 0,0:04:24.91,0:04:26.13,[Rola],,0,0,0,,{\pos(360,363)}Wow!
+Dialogue: 0,0:04:27.44,0:04:28.61,[Rola],,0,0,0,,{\pos(360,363)}That’s cute!
+Dialogue: 0,0:04:27.89,0:04:30.15,Default,,0,0,0,,Why would he go to the park alone to play jump-rope at his age?
+Dialogue: 0,0:04:31.78,0:04:33.05,[Rola],,0,0,0,,That’s really nice.
+Dialogue: 0,0:04:34.11,0:04:43.06,Narrator,,0,0,0,,Rola, on her A-game, thoroughly teases the members at her own pace.  She then reveals the topic of tonight’s lecture.
+Dialogue: 0,0:04:43.06,0:04:48.23,[Rola],,0,0,0,,What I am angrily huffing and puffing about is...
+Dialogue: 0,0:04:45.78,0:04:47.40,[Matsumoto],,0,0,0,,Yes, what is it?
+Dialogue: 0,0:04:49.70,0:04:50.41,[Hamada],,0,0,0,,She’s going to write.
+Dialogue: 0,0:04:50.41,0:04:51.30,[Rola],,0,0,0,,Yup.
+Dialogue: 0,0:04:51.89,0:04:53.38,[Miyasako],,0,0,0,,Just erase it if you want to.
+Dialogue: 0,0:04:57.14,0:04:58.64,[Mimura],,0,0,0,,{\pos(521,327)}She has long legs.
+Dialogue: 0,0:04:57.52,0:04:58.64,[Rola],,0,0,0,,Do you know this?
+Dialogue: 0,0:04:59.47,0:05:00.31,[Rola],,0,0,0,,Twitter.
+Dialogue: 0,0:05:00.31,0:05:02.01,Default,All,0,0,0,,Yeah, Twitter. Heard of it.
+Dialogue: 0,0:05:01.65,0:05:04.01,[Rola],,0,0,0,,In English, it’s “Twitter.”
+Dialogue: 0,0:05:04.01,0:05:05.85,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:05:05.38,0:05:08.07,[Otake],,0,0,0,,What’s that about?  I didn’t know you had that kind of thing going on.
+Dialogue: 0,0:05:07.69,0:05:08.59,[Rola],,0,0,0,,That’s right.
+Dialogue: 0,0:05:08.59,0:05:11.46,[Rola],,0,0,0,,Are you all on Twitter?
+Dialogue: 0,0:05:09.84,0:05:14.56,[Hamada],,0,0,0,,People who are on Twitter?
+Dialogue: 0,0:05:13.09,0:05:14.10,[Otake],,0,0,0,,Just Miyasako?
+Dialogue: 0,0:05:14.10,0:05:15.00,[Miyasako],,0,0,0,,Just me?
+Dialogue: 0,0:05:16.24,0:05:17.88,[Hotohara],,0,0,0,,{\pos(447,336)}I have been on Twitter before!
+Dialogue: 0,0:05:17.88,0:05:19.77,[Hotohara],,0,0,0,,{\pos(500,336)}I’m not on it anymore!
+Dialogue: 0,0:05:18.80,0:05:20.27,[Hamada],,0,0,0,,So that’s just Miyasako, then.
+Dialogue: 0,0:05:20.27,0:05:21.40,[Hamada],,0,0,0,,The others aren’t doing it.
+Dialogue: 0,0:05:21.95,0:05:24.44,[Matsumoto],,0,0,0,,I really have no clue how it works.
+Dialogue: 0,0:05:24.72,0:05:26.84,[Rola],,0,0,0,,I see!
+Dialogue: 0,0:05:28.02,0:05:30.61,[Matsumoto],,0,0,0,,Teacher, what are you "huffing and puffing" angrily about?
+Dialogue: 0,0:05:30.99,0:05:33.65,[Rola],,0,0,0,,Because {\alpha&HFF&\t(775,200,\alpha&H00&)}everyone isn't on {\fnClannad Round\fs34\1c&HFFAC00&\4c&H9925DD&}Twitter{\fnFranklin Gothic Medium} !
+Dialogue: 0,0:05:35.67,0:05:39.25,[Hamada],,0,0,0,,Who wouldn’t be on Twitter in this day and age?  That's what she’s angry about.
+Dialogue: 0,0:05:40.50,0:05:41.49,[Hamada],,0,0,0,,You’re all behind the times.
+Dialogue: 0,0:05:41.49,0:05:46.93,[Rola],,0,0,0,,So today I’m here to force everyone to get on {\fnClannad Round\fs34\1c&HFFAC00&\4c&H9925DD&}Twitter{\fnFranklin Gothic Medium} !
+Dialogue: 0,0:05:47.35,0:05:51.12,Default,,0,0,0,,Social media evolves at a dizzying pace.
+Dialogue: 0,0:05:51.12,0:05:54.90,Default,,0,0,0,,The Lincoln members have not been paying attention and have been left behind by technology.
+Dialogue: 0,0:05:54.90,0:05:56.94,Default,,0,0,0,,This cannot continue!
+Dialogue: 0,0:05:57.81,0:06:03.74,Default,,0,0,0,,So this episode, Rola’s lecture is: “Let’s all start Twitter.”
+Dialogue: 0,0:06:04.40,0:06:09.14,Default,,0,0,0,,Rola is actually one of the most popular Twitter users in Japan,
+Dialogue: 0,0:06:09.14,0:06:15.69,Default,,0,0,0,,having the fourth-most Twitter followers in Japan after people like Ariyoshi and Son Masayoshi.
+Dialogue: 0,0:06:16.29,0:06:22.64,Default,,0,0,0,,Rola, with her credentials of 1,440,000 followers, brings a revolution to Lincoln!
+Dialogue: 0,0:06:22.64,0:06:23.90,Default,,0,0,0,,And then...
+Dialogue: 0,0:06:23.90,0:06:26.97,[Rola],,0,0,0,,Everyone, don’t be like Mr. Matsumoto, ok?
+Dialogue: 0,0:06:27.46,0:06:31.14,Default,,0,0,0,,Matsumoto embarrasses himself with his first tweet!
+Dialogue: 0,0:06:31.14,0:06:32.56,[Mimura],,0,0,0,,I want to tweet!
+Dialogue: 0,0:06:33.09,0:06:34.37,Default,,0,0,0,,You’re tweeting too much.
+Dialogue: 0,0:06:34.80,0:06:38.04,Default,,0,0,0,,These middle-aged comedians have avoided the internet until now –
+Dialogue: 0,0:06:38.04,0:06:41.31,Default,,0,0,0,,we document their foray into Twitter.
+Dialogue: 0,0:06:41.31,0:06:46.08,[Hotohara],,0,0,0,,It’s unbelievable that Mr. Matsumoto would be on Twitter.
+Dialogue: 0,0:06:46.66,0:06:55.33,Default,,0,0,0,,The Twitter incident that believe-it-or-not was taken up by Yahoo! News – here we present in full.
+Dialogue: 0,0:06:55.90,0:07:02.10,Default,,0,0,0,,A breath of fresh air to Lincoln: Rola’s "The New Lecturer."
+Dialogue: 0,0:07:02.10,0:07:05.00,[Rola],,0,0,0,,So why are you on Twitter, Mr. Miyasako?
+Dialogue: 0,0:07:05.00,0:07:08.23,[Miyasako],Miyasako,0,0,0,,There was a TV program that…
+Dialogue: 0,0:07:08.23,0:07:12.12,[Miyasako],,0,0,0,,that asked, would you try this for a segment?
+Dialogue: 0,0:07:11.14,0:07:12.12,[Hamada],,0,0,0,,Oh, that’s how—
+Dialogue: 0,0:07:12.12,0:07:15.68,[Miyasako],,0,0,0,,That’s how I started and—
+Dialogue: 0,0:07:15.68,0:07:17.52,[Hamada],,0,0,0,,and Hoto quit after a while.
+Dialogue: 0,0:07:17.52,0:07:19.42,[Rola],,0,0,0,,Why did you quit?
+Dialogue: 0,0:07:19.42,0:07:22.36,[Hotohara],,0,0,0,,I hadn’t gone golfing in a while so I tweeted, “I want to go golfing.”
+Dialogue: 0,0:07:22.36,0:07:27.16,[Hotohara],,0,0,0,,Then I got a reply from someone I didn’t know who said, “That’d be wasted on a guy like you.”
+Dialogue: 0,0:07:28.46,0:07:30.20,[Hotohara],Fling,0,0,0,,{\move(177,293,537,337,1400,1400)\t(1450,100,\fr-10)}So I got pissed, threw it away, \N{\alpha&HFF&}.
+Dialogue: 0,0:07:30.20,0:07:32.33,[Hotohara],Fling,0,0,0,,{\fr-10\move(537,337,-250,95,1150,500)}So I got pissed, threw it away,\Nand I quit.
+Dialogue: 0,0:07:32.33,0:07:36.15,Caption Wizard,,0,0,0,,{\pos(485,316)}No wonder he quit.
+Dialogue: 0,0:07:32.33,0:07:33.36,[Matsumoto],,0,0,0,,Yeah, that’s uncalled for.
+Dialogue: 0,0:07:33.57,0:07:34.56,[Hotohara],,0,0,0,,That’s how I quit.
+Dialogue: 0,0:07:35.30,0:07:36.15,[Hamada],,0,0,0,,That makes sense.
+Dialogue: 0,0:07:36.15,0:07:38.70,[Hamada],,0,0,0,,No way you deserved to have that, come on!
+Dialogue: 0,0:07:37.84,0:07:38.70,[Hotohara],,0,0,0,,No way.
+Dialogue: 0,0:07:38.17,0:07:39.40,[Matsumoto],,0,0,0,,That’s the thing.
+Dialogue: 0,0:07:39.40,0:07:41.44,[Matsumoto],,0,0,0,,{\pos(350,387)}That sort of thing could happen, which is \N\Nwhy I don’t really want to do it either.
+Dialogue: 0,0:07:41.86,0:07:45.34,[Rola],,0,0,0,,Oh, really.  {\alpha&HFF&\t(2370,200,\alpha&H00&)}I see.
+Dialogue: 0,0:07:45.97,0:07:51.55,Default,,0,0,0,,Other than Miyasako, it seems that people have a negative view of the Twitter experience.
+Dialogue: 0,0:07:51.98,0:07:56.90,Default,,0,0,0,,So Rola starts by teaching the positives of the Twitter experience.
+Dialogue: 0,0:07:58.09,0:08:02.56,[Hamada],,0,0,0,,So these are the positives of the Twitter experience according to the teacher.
+Dialogue: 0,0:08:01.88,0:08:02.56,[Rola],,0,0,0,,Yes.
+Dialogue: 0,0:08:02.56,0:08:03.66,[Hamada],,0,0,0,,Take a look.
+Dialogue: 0,0:08:04.64,0:08:05.73,[Rola],,0,0,0,,Circle number one:
+Dialogue: 0,0:08:06.43,0:08:07.51,Default,,0,0,0,,Don’t need that part.
+Dialogue: 0,0:08:08.61,0:08:10.14,[Rola],,0,0,0,,You can make friends.
+Dialogue: 0,0:08:12.22,0:08:13.12,[Rola],,0,0,0,,Circle number two:
+Dialogue: 0,0:08:13.12,0:08:14.58,[Rola],,0,0,0,,You get information.
+Dialogue: 0,0:08:15.86,0:08:19.31,[Rola],,0,0,0,,Like current events, {\alpha&HFF&\t(800,200,\alpha&H00&)}political things— {\alpha&HFF&\t(2030,200,\alpha&H00&)}you would want to get the news about that, right?
+Dialogue: 0,0:08:19.31,0:08:21.58,[Rola],,0,0,0,,You can really get updated on things like that.
+Dialogue: 0,0:08:20.83,0:08:23.25,[Matsumoto],,0,0,0,,It’ll tell us about that?
+Dialogue: 0,0:08:21.58,0:08:23.25,[Rola],,0,0,0,,{\pos(348,327)}Yup, it will.
+Dialogue: 0,0:08:23.25,0:08:25.58,[Rola],,0,0,0,,Circle number three: You can become popular.
+Dialogue: 0,0:08:24.82,0:08:26.62,Default,,0,0,0,,What? Really?
+Dialogue: 0,0:08:26.85,0:08:28.02,Default,,0,0,0,,Become popular?
+Dialogue: 0,0:08:28.02,0:08:29.69,[Otake],,0,0,0,,Among whom?
+Dialogue: 0,0:08:28.59,0:08:29.69,[Matsumoto],,0,0,0,,Among whom?
+Dialogue: 0,0:08:29.90,0:08:33.26,[Rola],,0,0,0,,Among the people who are, like, walking around on the street.
+Dialogue: 0,0:08:33.26,0:08:36.43,[Matsumoto],,0,0,0,,I think there are more people who aren’t walking around on the street.
+Dialogue: 0,0:08:36.43,0:08:38.70,[Hamada],,0,0,0,,Miyasako, the only one of us on Twitter, would you say these are right?
+Dialogue: 0,0:08:38.44,0:08:39.46,[Miyasako],,0,0,0,,Yes, things that you really wouldn’t know about.
+Dialogue: 0,0:08:39.46,0:08:43.93,[Miyasako],,0,0,0,,For example, I might say “I went to a really good ramen place.”
+Dialogue: 0,0:08:43.93,0:08:49.27,[Miyasako],,0,0,0,,Then replies like “This other place is good”, “This place is better,” information like that comes right to you all at once.
+Dialogue: 0,0:08:50.64,0:08:54.15,[Miyasako],,0,0,0,,{\pos(308,287)}In general, most of it is messages of support!
+Dialogue: 0,0:08:52.88,0:08:54.15,[Hamada],,0,0,0,,Most of it is positive.
+Dialogue: 0,0:08:54.15,0:08:55.30,[Rola],,0,0,0,,Yeah, it is.
+Dialogue: 0,0:08:56.18,0:08:58.05,[Matsumoto],,0,0,0,,How often do you tweet, Miss Rola?
+Dialogue: 0,0:08:58.76,0:09:02.15,[Rola],,0,0,0,,{\clip(30,309,43,400)\t(500,2500,\clip(30,309,675,400)}Hmm, I haven't tweeted at all these couple of days.  \N\N
+Dialogue: 0,0:09:02.95,0:09:05.82,[Hamada],,0,0,0,,And then you’re telling everyone to “Go, go do Twitter!”?
+Dialogue: 0,0:09:04.93,0:09:06.32,Default,Mim,0,0,0,,That doesn’t make sense.
+Dialogue: 0,0:09:06.88,0:09:09.93,[Hotohara],,0,0,0,,Don’t you tweet a lot?
+Dialogue: 0,0:09:10.29,0:09:15.09,Default,,0,0,0,,It doesn’t seem like simply tweeting a lot will always increase your number of followers.
+Dialogue: 0,0:09:15.09,0:09:19.94,Default,,0,0,0,,What are show businesses personalities on Twitter with a lot of followers tweeting about?
+Dialogue: 0,0:09:20.55,0:09:24.58,Default,,0,0,0,,Let’s look at the tweets of popular Twitter users.
+Dialogue: 0,0:09:24.58,0:09:32.02,[Hamada] - Align Left,,0,0,0,,{\pos(57,347)}Now, everyone, {\alpha&HFF&\t(1400,200,\alpha&H00&)}are you curious about what \N\N{\alpha&HFF&\t(3280,200,\alpha&H00&)}{\1c&H9925DD&}Miss Rola {\1c&HED3635&}tweets about?
+Dialogue: 0,0:09:30.56,0:09:32.02,[Hamada],,0,0,0,,This is Miss Rola, the fourth most popular Twitter user.
+Dialogue: 0,0:09:32.02,0:09:34.45,[Matsumoto],,0,0,0,,It can be short, right?
+Dialogue: 0,0:09:32.88,0:09:33.76,[Hamada],,0,0,0,,That’s right.
+Dialogue: 0,0:09:34.45,0:09:37.13,[Hamada],,0,0,0,,Mr. Miyasako, what does this part here mean?
+Dialogue: 0,0:09:37.13,0:09:41.99,[Miyasako],,0,0,0,,That’s where a follower, a regular person, is asking a question.
+Dialogue: 0,0:09:41.99,0:09:43.69,[Rola],,0,0,0,,This is what someone wrote to me.
+Dialogue: 0,0:09:46.26,0:09:50.07,[Rola],,0,0,0,,Don’t say it first!
+Dialogue: 0,0:09:48.79,0:09:50.07,[Matsumoto],,0,0,0,,Oh, sorry.
+Dialogue: 0,0:09:50.07,0:09:52.98,[Hamada],,0,0,0,,Someone said “If you use English first, you lose,” and you replied with “Ok” {[in English]}.
+Dialogue: 0,0:09:52.98,0:09:55.01,[Amano],,0,0,0,,So you lost there as a joke, ahh.
+Dialogue: 0,0:09:55.01,0:09:58.00,[Hamada],,0,0,0,,“I’m starting to go bald.  What do I do?  Rola, tell me!”
+Dialogue: 0,0:09:59.04,0:10:01.65,[Rola],,0,0,0,,Ahh! Just stick something on there~.
+Dialogue: 0,0:10:02.60,0:10:04.85,[Otake],,0,0,0,,{\pos(584,288)}How crude!
+Dialogue: 0,0:10:05.74,0:10:07.95,[Matsumoto],,0,0,0,,Well, there is some truth there!
+Dialogue: 0,0:10:07.30,0:10:07.95,[Rola],,0,0,0,,Yup.
+Dialogue: 0,0:10:08.61,0:10:12.78,[Hamada],,0,0,0,,Lastly, “What is that on Mr. Gushiken’s head?"*
+Dialogue: 0,0:10:08.61,0:10:12.78,Default,,0,0,0,,{\an8\fs18}*Gushiken Yoko is a former Japanese boxer.
+Dialogue: 0,0:10:12.74,0:10:13.74,[Rola],,0,0,0,,Broccoli!
+Dialogue: 0,0:10:15.08,0:10:16.86,[Udo],Am,0,0,0,,{\pos(507,312)}This is like {\fs34\1c&00&\4c&H083D85&\b900\fnLucida Handwriting}ogiri{\fnFranklin Gothic Medium\1c&H083D85&\4c&00&}  !
+Dialogue: 0,0:10:15.98,0:10:19.40,[Hamada],,0,0,0,,This, {\alpha&HFF&\t(830,200,\alpha&H00&)}this is the fourth most popular Twitter user.
+Dialogue: 0,0:10:19.40,0:10:20.83,[Hamada],,0,0,0,,Fourth place in the country.
+Dialogue: 0,0:10:20.83,0:10:24.13,[Matsumoto],,0,0,0,,It’s like ogiri, so, it’s tiring, you know? {MATCH THE SUBTITLE/Fix this later}
+Dialogue: 0,0:10:24.80,0:10:27.83,[Hamada],,0,0,0,,To see what popular users are tweeting…
+Dialogue: 0,0:10:27.83,0:10:29.01,[Hamada],,0,0,0,,For example, this person.
+Dialogue: 0,0:10:30.14,0:10:33.41,[Matsumoto],,0,0,0,,{\pos(459,370)}Oh, RG is popular!
+Dialogue: 0,0:10:31.73,0:10:32.63,[Hamada],,0,0,0,,Believe it or not.
+Dialogue: 0,0:10:33.41,0:10:35.68,[Hamada],,0,0,0,,He’s popular for his “Did you ever notice”-type of jokes.
+Dialogue: 0,0:10:36.21,0:10:41.64,[Hamada],,0,0,0,,“A ‘Did you ever notice’ joke for this once-in-a-decade cold wave we're having, please!”, someone tweeted him.
+Dialogue: 0,0:10:41.64,0:10:42.77,[Hamada],,0,0,0,,RG replied,
+Dialogue: 0,0:10:44.67,0:10:48.46,[Hamada],,0,0,0,,“The news on TV tends to show shots of people slipping on frozen sidewalks.”
+Dialogue: 0,0:10:50.73,0:10:52.57,[Amano],,0,0,0,,So you can just give a straight answer.
+Dialogue: 0,0:10:52.31,0:10:56.27,[Matsumoto],,0,0,0,,For us in the business, it wasn’t that funny.  But for regular people, maybe…
+Dialogue: 0,0:10:59.83,0:11:01.67,[Amano],,0,0,0,,It was a very RG-type of joke.
+Dialogue: 0,0:11:01.99,0:11:05.01,[Hamada],,0,0,0,,“A conveyor belt sushi ‘Did you ever notice’ joke, please.”
+Dialogue: 0,0:11:05.01,0:11:08.25,[Hamada],,0,0,0,,“Tends to expand the possibilities of mayonnaise.”
+Dialogue: 0,0:11:08.76,0:11:11.35,[Mimura],,0,0,0,,They’re getting better!
+Dialogue: 0,0:11:13.38,0:11:16.05,[Hamada],,0,0,0,,One more person.  Please take a look at this.
+Dialogue: 0,0:11:16.46,0:11:17.42,Default,,0,0,0,,Oh, Wakky.
+Dialogue: 0,0:11:17.91,0:11:20.22,[Rola],,0,0,0,,{\pos(391,370)}Oh, Wakky is on, too!
+Dialogue: 0,0:11:19.60,0:11:22.89,[Hamada],,0,0,0,,Wakky is popular for his face bits.
+Dialogue: 0,0:11:22.89,0:11:25.70,[Otake],,0,0,0,,You can post photos, too?
+Dialogue: 0,0:11:24.00,0:11:25.70,[Miyasako],,0,0,0,,{\pos(207,332)}Yes, you can!
+Dialogue: 0,0:11:26.45,0:11:27.50,[Matsumoto],,0,0,0,,I see.
+Dialogue: 0,0:11:27.50,0:11:30.61,[Hamada],,0,0,0,,“I’m feeling down this morning.  Cheer me up!”
+Dialogue: 0,0:11:30.70,0:11:33.40,[Hamada],,0,0,0,,Wakky replies with the title “Face!”
+Dialogue: 0,0:11:38.73,0:11:41.50,[Mimura],,0,0,0,,He looks like he's giving it his all.
+Dialogue: 0,0:11:41.58,0:11:44.72,[Amano],,0,0,0,,He put some time into that!
+Dialogue: 0,0:11:44.24,0:11:45.53,[Rola],,0,0,0,,Eww.
+Dialogue: 0,0:11:45.53,0:11:48.15,[Mimura],,0,0,0,,He's giving it his all!
+Dialogue: 0,0:11:48.15,0:11:51.72,[Matsumoto],,0,0,0,,Even if I could do that face,  {\fs36\alpha&HFF&\t(1225,200,\alpha&H00&)}I probably wouldn’t do it!
+Dialogue: 0,0:11:54.99,0:12:01.17,[Hamada],,0,0,0,,“Nothing much happened today, so can I get a 'nothing' face?”  He replied with “Face!”
+Dialogue: 0,0:12:04.84,0:12:08.64,Default,,0,0,0,,That’s definitely a "nothing" face.
+Dialogue: 0,0:12:08.64,0:12:10.54,Narrator,,0,0,0,,Other than those, there were requests like, {Double check timings}
+Dialogue: 0,0:12:10.54,0:12:19.48,Narrator,,0,0,0,,“Please give me a face that will energize me” and “Congratulate me on my birthday” to which Wakky gave his faces with full effort. {Double check timings}
+Dialogue: 0,0:12:19.48,0:12:22.82,[Hamada] - Align Left,,0,0,0,,{\pos(70,386)}He put this much in \N\N{\alpha&HFF&\t(860,200,\alpha&H00&)}and he has {\1c&H1914D0&\4c&HED3635&\alpha&HFF&\t(1500,200,\alpha&H00&)}18,000 {\1c&HED3635&\4c&00&}followers.
+Dialogue: 0,0:12:24.67,0:12:27.29,[Mimura],,0,0,0,,{\pos(415,289)}Even after giving it his all like that?
+Dialogue: 0,0:12:25.82,0:12:27.54,[Hotohara],,0,0,0,,I haven’t done anything in years.
+Dialogue: 0,0:12:27.54,0:12:29.80,Default,,0,0,0,,He has less followers than Hoto.
+Dialogue: 0,0:12:30.01,0:12:33.13,[Hotohara],,0,0,0,,Even though he’s putting that much effort into these?
+Dialogue: 0,0:12:33.13,0:12:36.57,[Matsumoto],,0,0,0,,But it's amazing!
+Dialogue: 0,0:12:36.57,0:12:40.34,[Hamada],,0,0,0,,It’s hard to tell what really works.
+Dialogue: 0,0:12:40.99,0:12:45.34,[Hamada],,0,0,0,,So as everyone knows, Miyasako is also on Twitter. You want to see Miyasako’s Twitter as well, right?
+Dialogue: 0,0:12:43.46,0:12:45.92,Default,,0,0,0,,Yeah, I want to see Miyasako’s.
+Dialogue: 0,0:12:47.28,0:12:51.75,Default,,0,0,0,,Miyasako is the only one of the members that's on Twitter.
+Dialogue: 0,0:12:51.75,0:12:54.85,Default,,0,0,0,,Let's take a look at his tweets, with special narration. {Double check timings}
+Dialogue: 0,0:12:54.85,0:12:56.82,[Miyasako],,0,0,0,,I tweet about once every few days.
+Dialogue: 0,0:12:57.52,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(69,213)\clip(60,163,64,400)\t(0,3500,\clip(60,163,653,400))}Location-tion shooting from the morning.
+Dialogue: 0,0:13:00.16,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(68,250)\clip(60,163,64,400)\t(0,4500,\clip(60,163,653,400))}The great weather makes the location-tion shooting great.
+Dialogue: 0,0:13:04.90,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(68,289)\clip(60,163,64,400)\t(0,3500,\clip(60,163,653,400))}I’m excited about what I might encounter-tion!!
+Dialogue: 0,0:13:08.90,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(464,289)\clip(443,194,449,344)\t(0,1000,\clip(60,163,653,400))}I've been saying
+Dialogue: 0,0:13:09.92,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(72,325)\clip(60,163,64,400)\t(0,3500,\clip(60,163,653,400))}-tion-tion repeatedly,
+Dialogue: 0,0:13:11.73,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(235,325)\clip(200,293,200,337)\t(0,3500,\clip(60,163,653,400))}but not because I actually think it’s funny.
+Dialogue: 0,0:13:16.01,0:13:22.91,Special Narrator,,0,0,0,Under Original,{\pos(69,361)\clip(60,163,64,400)\t(0,4000,\clip(60,163,653,400))}It’s just that I haven’t gotten any sleep so I just feel like thaa~t
+Dialogue: 0,0:13:21.67,0:13:22.91,Default,,0,0,0,,thaa~t… {not really needed, right?}
+Dialogue: 0,0:13:24.95,0:13:29.02,[Hamada],,0,0,0,,Mr. Matsumoto, you have a "nothing" face...
+Dialogue: 0,0:13:29.02,0:13:30.69,[Miyasako],,0,0,0,,You saw this a while ago, right?
+Dialogue: 0,0:13:30.69,0:13:34.99,[Miyasako] - Align Left,,0,0,0,,{\pos(48,384)}First of all, \N\N{\alpha&HFF&\t(1350,200,\alpha&H00&)}can I have a chat with the guy doing the narrating?!
+Dialogue: 0,0:13:35.01,0:13:37.54,[Hamada],,0,0,0,,Sit down.
+Dialogue: 0,0:13:35.01,0:13:39.39,Caption Wizard,,0,0,0,,{\pos(485,316)}Settle down!
+Dialogue: 0,0:13:38.20,0:13:41.23,[Matsumoto],,0,0,0,,That’s not Miyasako?  I thought it might be Miyasako’s voice. {Redo to fit subtitle}
+Dialogue: 0,0:13:41.23,0:13:45.04,[Miyasako],,0,0,0,,Come on, that’s not my voice!
+Dialogue: 0,0:13:43.26,0:13:45.04,[Mimura],,0,0,0,,It sounded similar.
+Dialogue: 0,0:13:45.27,0:13:47.11,[Miyasako],,0,0,0,,I only feel ill will from him. {Add effect to 'ill will'}
+Dialogue: 0,0:13:47.11,0:13:48.41,[Miyasako],,0,0,0,,There’s more.  Take a look.
+Dialogue: 0,0:13:51.12,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\pos(68,212)\clip(57,174,59,221)\t(0,2500,\clip(57,174,479,221))}Going for a haircut now.
+Dialogue: 0,0:13:53.57,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\pos(68,248)\clip(59,217,62,259)\t(0,4000,\clip(59,217,600,256))}I always think about going for a really different style,
+Dialogue: 0,0:13:57.79,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\pos(68,287)\clip(56,256,58,295)\t(0,3750,\clip(56,256,500,295))}but in the end I just settle with something safe.
+Dialogue: 0,0:14:01.52,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\pos(68,324)\clip(58,286,61,334)\t(0,5500,\clip(58,286,700,334))}Because I’m scared of the waiting time of being bummed until my hair grows back.
+Dialogue: 0,0:14:07.47,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\pos(68,361)\clip(58,332,60,382)\t(0,500,\clip(58,332,104,382))}Am I a scaredy-cat?
+Dialogue: 0,0:14:08.69,0:14:13.77,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\alpha&HFF&\pos(68,361)\clip(58,332,100,382)\t(0,3000,\clip(58,332,600,382))}Am I {\alpha&H00&)}a scaredy-cat?
+Dialogue: 0,0:14:11.04,0:14:13.77,[Rola],,0,0,0,,Eww! Eww!
+Dialogue: 0,0:14:13.77,0:14:17.47,Caption Wizard,,0,0,0,,{\pos(450,316)}Scaredy-cat?
+Dialogue: 0,0:14:16.29,0:14:18.98,[Miyasako],,0,0,0,,Hot, hot.  I feel hot.
+Dialogue: 0,0:14:19.20,0:14:20.80,[Matsumoto],,0,0,0,,Gross.
+Dialogue: 0,0:14:19.31,0:14:22.59,[Hamada],,0,0,0,,You can write this much if you want, too.
+Dialogue: 0,0:14:22.59,0:14:25.48,[Matsumoto],,0,0,0,,Disgusting.
+Dialogue: 0,0:14:25.48,0:14:27.41,[Miyasako],,0,0,0,,It’s a tweet!
+Dialogue: 0,0:14:25.48,0:14:27.41,Default,,0,0,0,,{\fs18\an8}Tweets are known as whispers in Japanese.
+Dialogue: 0,0:14:27.41,0:14:29.18,[Hamada],,0,0,0,,Right!  Even a short —  what’s that?
+Dialogue: 0,0:14:29.18,0:14:31.62,[Matsumoto],,0,0,0,,It’s disgusting, isn’t it?
+Dialogue: 0,0:14:35.19,0:14:39.69,[Mimura],,0,0,0,,Keep that locked up inside yourself!
+Dialogue: 0,0:14:39.69,0:14:41.63,[Miyasako],,0,0,0,,It’s not like I was specifically telling someone that.
+Dialogue: 0,0:14:41.63,0:14:43.20,[Hamada],,0,0,0,,It’s an example.
+Dialogue: 0,0:14:43.20,0:14:47.83,[Miyasako],,0,0,0,,It’s supposed to be like talking to yourself in a way...
+Dialogue: 0,0:14:47.83,0:14:51.14,[Hamada],,0,0,0,,There are those like these and those like — one more here!
+Dialogue: 0,0:14:50.34,0:14:52.70,[Miyasako],,0,0,0,,I've had enough, come on.
+Dialogue: 0,0:14:53.61,0:15:01.78,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\fad(0,300)\pos(141,247)\clip(137,211,140,267)\t(100,3750,\clip(137,211,650,267)}Between shooting, a chapter in my life: Drinking an ice coffee at
+Dialogue: 0,0:14:58.05,0:15:01.78,Special Narrator,Todo,0,0,0,SIGN EFFECT,{\fad(0,300)\pos(141,287)\clip(134,258,136,299)\t(100,4000,\clip(134,258,600,299)}the Starbucks at North Shore, Hawai'i.
+Dialogue: 0,0:15:03.79,0:15:06.78,[Rola],,0,0,0,,Eww!  Eww!
+Dialogue: 0,0:15:06.43,0:15:12.32,Caption Wizard,,0,0,0,,{\pos(315,310)}Killed it!
+Dialogue: 0,0:15:06.43,0:15:07.68,[Miyasako],,0,0,0,,Hey! {Double check timing}
+Dialogue: 0,0:15:07.68,0:15:10.36,[Hamada],,0,0,0,,A picture post!
+Dialogue: 0,0:15:14.43,0:15:17.33,[Matsumoto],,0,0,0,,Narcissistic!
+Dialogue: 0,0:15:16.05,0:15:17.63,[Hamada],,0,0,0,,What do you think, Miss Rola?
+Dialogue: 0,0:15:17.63,0:15:19.63,[Rola],,0,0,0,,Gross!
+Dialogue: 0,0:15:21.73,0:15:24.00,[Miyasako],,0,0,0,,{\pos(254,269)}Aloha...
+Dialogue: 0,0:15:21.73,0:15:23.38,[Miyasako],,0,0,0,,It’s aloha.  In Hawai’i.
+Dialogue: 0,0:15:23.38,0:15:25.34,[Mimura],,0,0,0,,Isn’t the aloha thing like this?
+Dialogue: 0,0:15:26.29,0:15:27.97,Default,,0,0,0,,That was Stan Hansen.
+Dialogue: 0,0:15:30.40,0:15:31.88,[Hotohara],,0,0,0,,If you’re gonna do it, do it right.
+Dialogue: 0,0:15:36.08,0:15:39.65,[Miyasako],Todo,0,0,0,SROLL EFFECT,{\clip(27,353,34,400)\t(100,1000,\clip(27,353,700,400))}I shouldn’t have tried something I'm not familiar with...
+Dialogue: 0,0:15:39.65,0:15:41.89,[Hamada],,0,0,0,,There are mistakes like these as well!
+Dialogue: 0,0:15:41.89,0:15:44.99,[Matsumoto],Todo,0,0,0,POP EFFECT,I made a mistake {\alpha&HFF&}-tion. {1100ms delay}
+Dialogue: 0,0:15:41.89,0:15:44.99,[Matsumoto],Todo,0,0,0,POP EFFECT,{\alpha&HFF&\pos(400,397)}I made a mistake{\fs34\fr15\alpha&HFF&\t(1200,200,\alpha&H00&))}-tion! {1100ms delay}
+Dialogue: 0,0:15:44.99,0:15:47.66,[Matsumoto],Todo,0,0,0,POP EFFECT,I made a mistake {\alpha&HFF&}-tion.
+Dialogue: 0,0:15:44.99,0:15:47.66,[Matsumoto],Todo,0,0,0,POP EFFECT,{\alpha&HFF&\pos(458,391)}I made a mistake{\fs42\fr15\alpha&HFF&\t(890,200,\alpha&H00&)}-tion! {1100ms delay}
+Dialogue: 0,0:15:47.94,0:15:49.76,[Miyasako],,0,0,0,,Ok, already!
+Dialogue: 0,0:15:49.76,0:15:52.48,[Hamada],,0,0,0,,So we’ve shown you many examples.
+Dialogue: 0,0:15:52.48,0:15:55.30,[Hamada],,0,0,0,,By the way, we also have Hoto’s.
+Dialogue: 0,0:15:57.00,0:15:58.69,[Matsumoto],,0,0,0,,These are fine.
+Dialogue: 0,0:15:58.69,0:15:59.99,[Hotohara],,0,0,0,,{\pos(360,332)}They’re normal, right?
+Dialogue: 0,0:15:58.69,0:16:05.71,[Hamada],,0,0,0,,“Today at Kumamoto. It’s been a while. I’m excited. {\alpha&HFF&\t(4600,200,\alpha&H00&)}I want to be kind.”
+Dialogue: 0,0:16:07.00,0:16:14.85,[Hamada],,0,0,0,,“Today, work at Okinawa. I’ll do my best. I’ve had to go to a lot of places this week. But it’s fun, so it’s all right. {\alpha&HFF&\t(6050,200,\alpha&H00&)}I want to be kind!”
+Dialogue: 0,0:16:16.38,0:16:22.73,[Hamada],,0,0,0,,“In Sapporo. The weather is… I’m bummed. Can’t be helped. {\alpha&HFF&\t(4000,200,\alpha&H00&)}I want to be kind!”
+Dialogue: 0,0:16:23.07,0:16:24.95,[Amano],,0,0,0,,That has nothing to do with the weather.
+Dialogue: 0,0:16:24.37,0:16:28.07,[Hamada],,0,0,0,,So he puts it at the end as a kind of signature!
+Dialogue: 0,0:16:28.60,0:16:30.24,[Miyasako],,0,0,0,,There are a lot of people who do that.
+Dialogue: 0,0:16:30.87,0:16:32.28,[Matsumoto],,0,0,0,,So it’s your {add delay?}signature!
+Dialogue: 0,0:16:30.24,0:16:33.07,Caption Wizard,,0,0,0,,{\pos(450,316)}A signature phrase at the end.
+Dialogue: 0,0:16:32.28,0:16:33.07,[Hotohara],,0,0,0,,Yes, as a signature.
+Dialogue: 0,0:16:33.07,0:16:38.58,[Matsumoto],,0,0,0,,So if you type in “I wa”— the rest appears on your screen.
+Dialogue: 0,0:16:36.26,0:16:37.86,[Matsumoto],,0,0,0,,Since it's your signature.
+Dialogue: 0,0:16:36.37,0:16:38.58,[Hotohara],,0,0,0,,Yes, it comes up.
+Dialogue: 0,0:16:38.58,0:16:43.03,Narrator,,0,0,0,,Finally, we have the members start Twitter.
+Dialogue: 0,0:16:43.03,0:16:45.57,Narrator,,0,0,0,,First, registering an account.
+Dialogue: 0,0:16:46.95,0:16:51.60,[Hamada],,0,0,0,,So now, we would like everyone to register! {Needs delay}
+Dialogue: 0,0:16:51.60,0:16:53.23,[Hamada],,0,0,0,,That’s ok, right, teacher?
+Dialogue: 0,0:16:52.37,0:16:53.23,[Rola],,0,0,0,,Yup.
+Dialogue: 0,0:16:53.23,0:16:54.46,[Otake],,0,0,0,,So we’re really going to do it?
+Dialogue: 0,0:16:54.46,0:16:56.25,[Hamada],,0,0,0,,Here, everyone.
+Dialogue: 0,0:16:57.50,0:16:59.10,[Matsumoto],,0,0,0,,{\pos(469,253)}An “account,” right?
+Dialogue: 0,0:16:59.10,0:17:01.77,[Hamada],,0,0,0,,{\pos(243,253)}That... sort of thing, yeah.
+Dialogue: 0,0:17:02.20,0:17:04.29,Default,,0,0,0,,The teacher doesn’t really know…
+Dialogue: 0,0:17:04.29,0:17:05.87,[Matsumoto],,0,0,0,,Is it already done for us?
+Dialogue: 0,0:17:06.34,0:17:09.41,[Amano],,0,0,0,,Won’t this become quite a stir in the news?!
+Dialogue: 0,0:17:09.41,0:17:10.91,[Rola],,0,0,0,,It will!
+Dialogue: 0,0:17:09.88,0:17:11.30,[Amano],,0,0,0,,We’ve never done anything like that.
+Dialogue: 0,0:17:10.91,0:17:15.88,[Hamada],,0,0,0,,That all the Lincoln members started{\fnClannad Round\fs32\1c&HFFAC00&\} Twitter{\r[Hamada]} ?
+Dialogue: 0,0:17:15.88,0:17:17.95,[Hamada],,0,0,0,,Yeah, fine, everyone just get on Yahoo! News for that! {Typeset}
+Dialogue: 0,0:17:19.08,0:17:21.08,[Miyasako],,0,0,0,,It really will get on the news.
+Dialogue: 0,0:17:17.95,0:17:23.12,Caption Wizard,,0,0,0,,{\fs26\pos(466,300)}It will really get on Yahoo! News.
+Dialogue: 0,0:17:21.08,0:17:22.26,[Rola],,0,0,0,,Yeah, it will.
+Dialogue: 0,0:17:21.55,0:17:23.12,[Miyasako],,0,0,0,,I think it really will.
+Dialogue: 0,0:17:23.40,0:17:28.04,Narrator,,0,0,0,,To start Twitter, enter these four items.
+Dialogue: 0,0:17:28.04,0:17:34.92,Narrator,,0,0,0,,The username, like Miyasako’s “motohage” (meaning ex-baldy*), is like your nickname on Twitter.
+Dialogue: 0,0:17:28.04,0:17:34.92,Narrator,TL Note,0,0,0,,{\an8\fs18}*Miyasako is known for losing hair and then getting hair loss treatment
+Dialogue: 0,0:17:34.92,0:17:39.44,Narrator,,0,0,0,,It needs a sense of style, so we ask the teacher to give them out.
+Dialogue: 0,0:17:40.37,0:17:46.98,[Rola],,0,0,0,,Because you’re bald, {\alpha&HFF&\t(1692,200,\alpha&H00&)}“{\1c&00&\4c&H9925DD&}Matsu Matsu Baldy{\4c&00&\1c&H9925DD&}.” {Typeset}
+Dialogue: 0,0:17:45.38,0:17:48.00,[Hamada],,0,0,0,,{\pos(360,311)}So Mr. Matsumoto, you’re Matsu Matsu Baldy.
+Dialogue: 0,0:17:48.00,0:17:51.32,[Matsumoto],,0,0,0,,This has to be in Latin characters, right?
+Dialogue: 0,0:17:51.32,0:17:52.54,[Hamada],,0,0,0,,Now, for Mimura.
+Dialogue: 0,0:17:52.98,0:17:54.39,[Rola],,0,0,0,,Umm.
+Dialogue: 0,0:17:55.25,0:17:58.96,[Rola],,0,0,0,,“{\1c&00&\4c&H9925DD&}Hentai Mimura{\4c&00&\1c&H9925DD&}”
+Dialogue: 0,0:18:01.05,0:18:02.13,[Mimura],,0,0,0,,With “Mimura?”
+Dialogue: 0,0:18:02.39,0:18:04.37,[Hamada],,0,0,0,,The teacher is telling you.
+Dialogue: 0,0:18:03.82,0:18:05.44,[Mimura],,0,0,0,,You’re already putting in “Mimura” in there.
+Dialogue: 0,0:18:04.79,0:18:09.00,[Hamada],,0,0,0,,The teacher said it. Please put in “Hentai Mimura.”
+Dialogue: 0,0:18:09.00,0:18:10.11,[Hamada],,0,0,0,,Ok, for Amano.
+Dialogue: 0,0:18:13.46,0:18:15.91,[Rola],,0,0,0,,“{\1c&00&\4c&H9925DD&}Forever Alone Amano{\4c&00&\1c&H9925DD&}”
+Dialogue: 0,0:18:19.23,0:18:21.81,[Amano],,0,0,0,,I have to put my name in there, too?
+Dialogue: 0,0:18:23.48,0:18:30.12,Narrator,,0,0,0,,They then took each other’s photographs that will be shown next to their tweets.
+Dialogue: 0,0:18:30.12,0:18:32.26,[Rola],,0,0,0,,{\pos(163,330)}Lemme see!
+Dialogue: 0,0:18:30.92,0:18:32.26,[Matsumoto],,0,0,0,,I made it with “tu,” but that’s ok, right?
+Dialogue: 0,0:18:34.71,0:18:36.48,[Rola],,0,0,0,,This is wrong. Wait.
+Dialogue: 0,0:18:36.66,0:18:40.23,[Matsumoto],,0,0,0,,Is {\c&H000000&\4c&H2210CC&}“tsu” {\r[Matsumoto]}better?
+Dialogue: 0,0:18:40.23,0:18:41.87,[Rola],,0,0,0,,Do you not know English?
+Dialogue: 0,0:18:43.41,0:18:45.12,[Mimura],,0,0,0,,You’re being laughed at.
+Dialogue: 0,0:18:45.30,0:18:48.81,[Matsumoto],,0,0,0,,No, I mean, it doesn’t have to be {\c&H000000&\4c&H2210CC&}“tsu,” {\r[Matsumoto]}right?
+Dialogue: 0,0:18:48.81,0:18:51.21,[Rola],,0,0,0,,No, {\c&H000000&\4c&HBA33FD&}“tsu”{\r[Rola]} is better!
+Dialogue: 0,0:18:49.60,0:18:50.44,[Matsumoto],,0,0,0,,Really?
+Dialogue: 0,0:18:50.13,0:18:50.59,[Rola],,0,0,0,,Yeah.
+Dialogue: 0,0:18:53.98,0:18:56.77,Narrator,,0,0,0,,Thus, everyone’s registrations were completed.
+Dialogue: 0,0:18:56.77,0:19:01.12,Narrator,,0,0,0,,Initially registered with “tu,” Matsumoto re-registered with “tsu.”
+Dialogue: 0,0:19:01.52,0:19:09.46,Narrator,,0,0,0,,Otake is “Take Take Baked Potato,” Hotohara is “The Three Kappa Brothers,” and Udo is “Udo Udo Acorn.”
+Dialogue: 0,0:19:09.85,0:19:14.22,Narrator,,0,0,0,,Next are the members’ commemorative first tweets.
+Dialogue: 0,0:19:15.30,0:19:19.07,[Rola],,0,0,0,,Now we will do everyone’s commemorative first tweets.
+Dialogue: 0,0:19:18.10,0:19:19.07,[Hamada],,0,0,0,,Here we go.
+Dialogue: 0,0:19:19.65,0:19:24.41,[Rola],,0,0,0,,First, write something like {\fnClannad Round\fs32\1c&HFFAC00&\4c&H9925DD&}“I started Twitter!” {Typeset}
+Dialogue: 0,0:19:24.41,0:19:25.57,[Mimura],,0,0,0,,How do you do it?
+Dialogue: 0,0:19:25.57,0:19:27.21,[Amano],,0,0,0,,We push the button that says “tweet?"
+Dialogue: 0,0:19:27.21,0:19:30.48,[Mimura],,0,0,0,,But it’s on Miyasako’s page right now!
+Dialogue: 0,0:19:28.64,0:19:30.48,Default,,0,0,0,,Yeah, we’re on Miyasako’s page.
+Dialogue: 0,0:19:30.48,0:19:33.29,Default,,0,0,0,,How do you do this?
+Dialogue: 0,0:19:37.32,0:19:39.56,[Rola],,0,0,0,,Wait, wait, on my page, see --
+Dialogue: 0,0:19:39.56,0:19:42.39,[Hamada],,0,0,0,,Please wait for a moment.
+Dialogue: 0,0:19:42.39,0:19:46.77,[Hamada],,0,0,0,,We are currently doing the first tweet!
+Dialogue: 0,0:19:44.71,0:19:45.65,[Hamada],,0,0,0,,Just for a moment.{Typeset}
+Dialogue: 0,0:19:47.17,0:19:51.74,Narrator,,0,0,0,,After this, Matsumoto embarrasses himself with his first tweet!
+Dialogue: 0,0:19:51.97,0:19:55.87,[Rola],,0,0,0,,Now we will do everyone’s commemorative first tweets.
+Dialogue: 0,0:19:54.66,0:19:55.87,[Hamada],,0,0,0,,Here we go.
+Dialogue: 0,0:19:55.87,0:19:59.21,[Matsumoto],-TION,0,0,0,,We can write anything we want{\alpha&HFF&}-tion?
+Dialogue: 0,0:19:57.74,0:19:57.88,[Matsumoto],-TION,0,0,0,,{\t(100,0,\fs60)\move(552,391,560,369)}-tion?
+Dialogue: 0,0:19:57.88,0:19:59.21,[Matsumoto],,0,0,0,,{\pos(580,377)\fs50\fr16}-tion?
+Dialogue: 0,0:20:01.98,0:20:03.75,[Miyasako],,0,0,0,,That’s my thing, ok?
+Dialogue: 0,0:20:03.75,0:20:07.62,Caption Wizard,,0,0,0,,{\c&H000000&\pos(445,311)}"-tion" {\rCaption Wizard}is forbidden!
+Dialogue: 0,0:20:04.64,0:20:07.09,[Matsumoto],,0,0,0,,He said it. That’s Miyasako’s thing.
+Dialogue: 1,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 0,{\blur10\fad(700,0)\t(600,0,\blur)}Everyone nervously enters their first {\c&HF9A703&}tweets.
+Dialogue: 0,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 0,{\blur10\3c&H00FFEB&}Everyone nervously enters their first {\c&HF9A703&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 1,{\clip(77,346,634,347)\pos(356,390)\1c&H1B10EE&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 2,{\clip(77,347,634,348)\pos(356,390)\1c&H190FE9&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 3,{\clip(77,348,634,349)\pos(356,390)\1c&H180EE4&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 4,{\clip(77,349,634,350)\pos(356,390)\1c&H170DDF&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 5,{\clip(77,350,634,351)\pos(356,390)\1c&H160DDA&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 6,{\clip(77,351,634,352)\pos(356,390)\1c&H140CD6&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 7,{\clip(77,352,634,353)\pos(356,390)\1c&H130BD1&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 8,{\clip(77,353,634,354)\pos(356,390)\1c&H120ACC&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 9,{\clip(77,354,634,355)\pos(356,390)\1c&H110AC7&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 10,{\clip(77,355,634,356)\pos(356,390)\1c&H0F09C3&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 11,{\clip(77,356,634,357)\pos(356,390)\1c&H0E08BE&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 12,{\clip(77,357,634,358)\pos(356,390)\1c&H0D08B9&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 13,{\clip(77,358,634,359)\pos(356,390)\1c&H0C07B4&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 14,{\clip(77,359,634,360)\pos(356,390)\1c&H0B06AF&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 15,{\clip(77,360,634,361)\pos(356,390)\1c&H0905AB&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 16,{\clip(77,361,634,362)\pos(356,390)\1c&H0805A6&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 17,{\clip(77,362,634,363)\pos(356,390)\1c&H0704A1&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 18,{\clip(77,363,634,364)\pos(356,390)\1c&H06039C&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 19,{\clip(77,364,634,365)\pos(356,390)\1c&H040298&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 20,{\clip(77,365,634,366)\pos(356,390)\1c&H030293&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 21,{\clip(77,366,634,367)\pos(356,390)\1c&H02018E&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 22,{\clip(77,367,634,368)\pos(356,390)\1c&H010089&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 23,{\clip(77,368,634,369)\pos(356,390)\1c&H000085&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 24,{\clip(77,369,634,370)\pos(356,390)\1c&H00007F&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 25,{\clip(77,370,634,371)\pos(356,390)\1c&H00007A&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 26,{\clip(77,371,634,372)\pos(356,390)\1c&H000075&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 27,{\clip(77,372,634,373)\pos(356,390)\1c&H00006F&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 28,{\clip(77,373,634,374)\pos(356,390)\1c&H00006A&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 29,{\clip(77,374,634,375)\pos(356,390)\1c&H000065&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 30,{\clip(77,375,634,376)\pos(356,390)\1c&H000060&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 31,{\clip(77,376,634,377)\pos(356,390)\1c&H00005A&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 32,{\clip(77,377,634,378)\pos(356,390)\1c&H000055&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 33,{\clip(77,378,634,379)\pos(356,390)\1c&H000050&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 34,{\clip(77,379,634,380)\pos(356,390)\1c&H00004B&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 35,{\clip(77,380,634,381)\pos(356,390)\1c&H000045&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 36,{\clip(77,381,634,382)\pos(356,390)\1c&H000040&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 37,{\clip(77,382,634,383)\pos(356,390)\1c&H00003B&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 38,{\clip(77,383,634,384)\pos(356,390)\1c&H000035&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 39,{\clip(77,384,634,385)\pos(356,390)\1c&H000030&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 40,{\clip(77,385,634,386)\pos(356,390)\1c&H00002B&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 41,{\clip(77,386,634,387)\pos(356,390)\1c&H000026&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 42,{\clip(77,387,634,388)\pos(356,390)\1c&H000020&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 43,{\clip(77,388,634,389)\pos(356,390)\1c&H00001B&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 44,{\clip(77,389,634,390)\pos(356,390)\1c&H000016&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 2,0:20:08.19,0:20:17.50,Onscreen Captions,Caption,0,0,0,gradient @e4a 45,{\clip(77,390,634,391)\pos(356,390)\1c&H000011&}{\\k0}Everyone nervously enters their first {\alpha&HFF&}tweets.
+Dialogue: 0,0:20:11.44,0:20:13.26,[Udo],,0,0,0,,{\pos(360,318)}This will go out to everyone?
+Dialogue: 0,0:20:14.45,0:20:14.99,[Rola],,0,0,0,,{\pos(360,318)}Yup
+Dialogue: 0,0:20:14.99,0:20:16.27,[Mimura],,0,0,0,,{\pos(360,318)}It’s nerve-wracking, doesn’t it?
+Dialogue: 0,0:20:16.27,0:20:17.50,[Udo],,0,0,0,,{\pos(360,318)}Yeah, it is.
+Dialogue: 0,0:20:17.50,0:20:24.30,Default,,0,0,0,,Star comedian Matsumoto’s first tweet is this:
+Dialogue: 0,0:20:24.30,0:20:25.75,[Rola],,0,0,0,,Here’s Mr. Matsumoto’s.
+Dialogue: 0,0:20:25.24,0:20:27.01,[Matsumoto],,0,0,0,,{\pos(517,340)}Mine is normal!
+Dialogue: 0,0:20:26.37,0:20:29.00,[Hamada],,0,0,0,,Here it is.  “I have debuted.”
+Dialogue: 0,0:20:30.21,0:20:32.41,[Rola],,0,0,0,,That’s so ordinary!
+Dialogue: 0,0:20:34.13,0:20:36.09,[Matsumoto],,0,0,0,,I don’t know!
+Dialogue: 0,0:20:36.55,0:20:39.40,Default,,0,0,0,,This isn’t good?
+Dialogue: 0,0:20:38.98,0:20:40.99,[Rola],,0,0,0,,That’s no good!
+Dialogue: 0,0:20:41.44,0:20:42.74,[Rola],,0,0,0,,This is bad!
+Dialogue: 0,0:20:45.06,0:20:47.13,[Matsumoto],,0,0,0,,No, {\alpha&HFF&\t(250,200,\alpha&H00&)\fs40}no, {\alpha&HFF&\t(500,200,\alpha&H00&\fs44)}no!
+Dialogue: 0,0:20:47.37,0:20:49.93,[Matsumoto],,0,0,0,,I don’t understand!
+Dialogue: 0,0:20:50.13,0:20:52.76,[Matsumoto],,0,0,0,,
+Dialogue: 0,0:20:50.13,0:20:50.90,[Matsumoto],,0,0,0,,{\move(232,215,150,333,750,0)\fs2\t(0,700,\fs34)}Ah!~
+Dialogue: 0,0:20:50.90,0:20:52.76,[Matsumoto],,0,0,0,,{\move(150,333,450,500,900,0)\fs34}Ah!~
+Dialogue: 0,0:20:54.90,0:20:57.70,[Matsumoto],typeset,0,0,0,,Then what do we do? What do we do?
+Dialogue: 0,0:20:58.08,0:21:02.84,Default,,0,0,0,,After the panicking Matsumoto, Mimura’s first tweet is:
+Dialogue: 0,0:21:02.84,0:21:04.65,[Hamada],,0,0,0,,Let’s look at Mimura’s then.
+Dialogue: 0,0:21:04.93,0:21:05.49,[Rola],,0,0,0,,Ok.
+Dialogue: 0,0:21:05.78,0:21:08.82,[Hamada],,0,0,0,,Ok.  “This is the real Mimura.  I will do my best!”
+Dialogue: 0,0:21:08.82,0:21:11.82,[Matsumoto],,0,0,0,,Wow. That wasn’t funny!
+Dialogue: 0,0:21:11.82,0:21:14.55,[Mimura],,0,0,0,,That was me making a declaration!
+Dialogue: 0,0:21:15.46,0:21:16.96,[Hamada],,0,0,0,,Miss Rola, is this good?
+Dialogue: 0,0:21:16.96,0:21:19.51,[Rola],,0,0,0,,This is better than the last one.
+Dialogue: 0,0:21:19.51,0:21:23.20,[Rola],,0,0,0,,It has two phrases and feels fine!
+Dialogue: 0,0:21:21.23,0:21:22.43,[Mimura],,0,0,0,,It has two phrases so it’s ok.
+Dialogue: 0,0:21:22.43,0:21:23.20,[Rola],,0,0,0,,Yup.
+Dialogue: 0,0:21:23.20,0:21:24.83,[Hamada],,0,0,0,,Let’s look at Amano’s.
+Dialogue: 0,0:21:24.83,0:21:25.64,[Amano],,0,0,0,,Mine…
+Dialogue: 0,0:21:25.64,0:21:31.37,[Hamada],,0,0,0,,Here.  “I am starting Twitter.  This is the real me.  I am 43 years old and I like cooking and female broadcasters.”
+Dialogue: 0,0:21:31.37,0:21:36.34,[Rola],,0,0,0,,Really good! Totally not ordinary at all!
+Dialogue: 0,0:21:36.34,0:21:38.37,[Hamada],,0,0,0,,Ok, let’s look at Udo’s as well.
+Dialogue: 0,0:21:39.73,0:21:42.22,[Hamada],,0,0,0,,“Amano~!  It’s the real me!”
+Dialogue: 0,0:21:42.75,0:21:45.58,[Amano],,0,0,0,,Why are you tweeting at me?
+Dialogue: 0,0:21:45.58,0:21:49.22,[Amano],,0,0,0,,Just tell me here.  Don’t tweet at this distance.
+Dialogue: 0,0:21:49.73,0:21:50.59,[Rola],,0,0,0,,Good, good.
+Dialogue: 0,0:21:52.06,0:21:53.43,[Hamada],,0,0,0,,Hoto’s.
+Dialogue: 0,0:21:54.30,0:21:57.53,[Hamada],,0,0,0,,“I’m tweeting after a long while.  I want to be kind.”
+Dialogue: 0,0:21:57.53,0:21:59.63,[Hotohara],,0,0,0,,This sort of thing, right?
+Dialogue: 0,0:21:59.63,0:22:01.93,[Hotohara],,0,0,0,,It's good!
+Dialogue: 0,0:22:02.43,0:22:03.64,[Hamada],,0,0,0,,Now, Otake’s, too.
+Dialogue: 0,0:22:03.97,0:22:05.24,[Matsumoto],,0,0,0,,With Otake’s style.
+Dialogue: 0,0:22:05.24,0:22:07.41,[Hamada],,0,0,0,,“I will start.  I will start?”
+Dialogue: 0,0:22:07.41,0:22:09.71,[Amano],,0,0,0,,He already quit!
+Dialogue: 0,0:22:09.71,0:22:12.11,[Mimura],,0,0,0,,{\an3}Your premise is that you’re quitting!
+Dialogue: 0,0:22:12.94,0:22:15.58,[Matsumoto],,0,0,0,,I feel self-conscious.
+Dialogue: 0,0:22:17.25,0:22:18.62,[Matsumoto],,0,0,0,,This is embarrassing!
+Dialogue: 0,0:22:18.62,0:22:21.89,[Rola],typeset,0,0,0,,{\an1\pos(43,392)}Everyone, {\alpha&HFF&\t(850,200,\alpha&H00&)}\N\N\Ndon’t be like Mr. Matsumoto, ok?
+Dialogue: 0,0:22:21.90,0:22:27.63,Caption Wizard,,0,0,0,,{\pos(510,315)}A bad example.
+Dialogue: 0,0:22:23.27,0:22:26.10,[Matsumoto],,0,0,0,,I feel this feeling of rejection.
+Dialogue: 0,0:22:26.10,0:22:29.14,[Matsumoto],,0,0,0,,I feel like I’m going to get a rashes as a reaction to all of this.
+Dialogue: 0,0:22:29.86,0:22:31.50,[Otake],,0,0,0,,It’s annoying to have to think up something!
+Dialogue: 0,0:22:31.50,0:22:35.00,[Matsumoto],,0,0,0,,I don’t like how even something like this feels like work!
+Dialogue: 0,0:22:35.00,0:22:36.90,Default,,0,0,0,,Yes.
+Dialogue: 0,0:22:36.54,0:22:43.61,[Hamada],,0,0,0,,{\pos(259,335)}We have already started with this
+Dialogue: 0,0:22:38.04,0:22:43.61,[Hamada],,0,0,0,,{\pos(250,391)}there might be reactions out there.
+Dialogue: 0,0:22:40.93,0:22:43.61,[Hamada],,0,0,0,,{\pos(528,293)}You might get tweeted at!
+Dialogue: 0,0:22:43.61,0:22:44.78,[Hamada],,0,0,0,,Are there any?
+Dialogue: 1,0:22:45.08,0:22:49.55,[Matsumoto],typeset,0,0,0,,Sorry, I’d like to tweet, {\alpha&HFF&\t(510,0,\alpha&H00&)\fnFrankRuehl\c&H000000&\bord1\shad0\b1}“I have retired.”
+Dialogue: 0,0:22:45.08,0:22:49.55,[Matsumoto],typeset,0,0,0,,Sorry, I’d like to tweet, {\alpha&HFF&\t(510,510,\alpha&H00&)\fnFrankRuehl\blur3\c&H000000&\shad0}“I have retired.”
+Dialogue: 0,0:22:49.55,0:22:53.42,[Amano],Typeset,0,0,0,,You’re {\c&H000000&\4c&H000000&}retiring {\r[Amano]}after three minutes?
+Dialogue: 0,0:22:53.70,0:23:01.07,Narrator,,0,0,0,,Thus, they debuted on Twitter. But this is just the beginning of their Twitter lives.
+Dialogue: 0,0:23:01.73,0:23:03.43,Narrator,,0,0,0,,Next:
+Dialogue: 0,0:23:03.43,0:23:08.33,[Rola],,0,0,0,,We finished our first tweets so let’s all take photos!
+Dialogue: 0,0:23:08.33,0:23:12.10,[Rola],,0,0,0,,First, let’s take a photo of Mr. Hamada!
+Dialogue: 0,0:23:10.27,0:23:12.10,[Hamada],,0,0,0,,{\pos(269,304)}Huh?
+Dialogue: 0,0:23:12.10,0:23:13.97,[Hamada],,0,0,0,,I’ve got nothing to do with this.
+Dialogue: 0,0:23:15.61,0:23:19.14,[Mimura],,0,0,0,,Let’s all take whatever photo of Mr. Hamada we want and then post it.
+Dialogue: 0,0:23:18.23,0:23:20.02,[Rola],,0,0,0,,Take them in different poses.
+Dialogue: 0,0:23:23.11,0:23:28.09,[Hamada],,0,0,0,,Why do I have to get my photo taken by these kids and put on Twitter?...
+Dialogue: 0,0:23:28.89,0:23:30.96,[Hamada],,0,0,0,,That’s really close!
+Dialogue: 0,0:23:30.59,0:23:32.96,[Amano],,0,0,0,,The lower lip? Very nice.
+Dialogue: 0,0:23:33.49,0:23:37.16,[Matsumoto],,0,0,0,,This is nice!
+Dialogue: 0,0:23:34.29,0:23:36.00,[Hamada],,0,0,0,,What do you mean it's “nice?”
+Dialogue: 0,0:23:36.26,0:23:37.86,[Rola],,0,0,0,,Can you wink?
+Dialogue: 0,0:23:37.86,0:23:41.87,[Mimura],Typeset,0,0,0,,Scary. I got a scary one!
+Dialogue: 0,0:23:44.30,0:23:47.81,Narrator,,0,0,0,,Adding a caption to a photo of Hamada and then tweeting...
+Dialogue: 0,0:23:47.81,0:23:51.61,Narrator,,0,0,0,,First, Otake’s photo of Hamada:
+Dialogue: 0,0:23:51.61,0:23:54.98,[Hamada],,0,0,0,,“This is Mr. Hamada when he isn’t pissed.”
+Dialogue: 0,0:23:57.83,0:23:58.86,[Miyasako],,0,0,0,,He’s totally pissed.
+Dialogue: 0,0:24:00.05,0:24:02.16,[Mimura],,0,0,0,,This is Mr. Hamada when he isn’t pissed?
+Dialogue: 0,0:24:02.96,0:24:05.14,[Hamada],,0,0,0,,So this is Otake’s.
+Dialogue: 0,0:24:05.14,0:24:06.69,[Hamada],,0,0,0,,So this sort of thing.
+Dialogue: 0,0:24:07.76,0:24:09.16,[Rola],,0,0,0,,Here’s Mr. Matsumoto’s!
+Dialogue: 0,0:24:09.16,0:24:10.34,[Hamada],,0,0,0,,“This is our gorilla.”
+Dialogue: 0,0:24:13.10,0:24:14.71,[Hamada],,0,0,0,,This sort of thing, everyone.
+Dialogue: 0,0:24:16.00,0:24:20.34,[Mimura],,0,0,0,,{\pos(507,374)}That’s quite on the human-side!
+Dialogue: 1,0:24:20.34,0:24:30.35,Tweet Text,,0,0,0,,{\fs32\move(140,153,140,412,4400,5000)}He loves ketchup!
+Dialogue: 1,0:24:24.65,0:24:30.35,Tweet Text,,0,0,0,,{\fs28\move(137,-200,137,156,650,0)\clip(51,87,675,400)}This is what you call a monster.
+Dialogue: 0,0:24:20.34,0:24:30.35,Twitter Overlay 1,,0,0,0,,{\20\clip(49,88,659,400)\move(144,149,144,408,4400,5000)}########################
+Dialogue: 0,0:24:24.65,0:24:30.35,Twitter Overlay 1,,0,0,0,,{\fs28\move(137,-200,137,156,650,0)\clip(52,90,660,155)}###########################
+Dialogue: 0,0:24:21.06,0:24:28.88,Narrator,Caption,0,0,0,,The members’ photos have been posted on to Twitter.
+Dialogue: 0,0:24:28.88,0:24:30.35,Narrator,,0,0,0,,However,
+Dialogue: 0,0:24:30.87,0:24:35.90,Narrator,,0,0,0,,Miss Rola didn’t want to just teach how to use Twitter.
+Dialogue: 0,0:24:35.90,0:24:40.36,Narrator,,0,0,0,,The real subject of this episode will now be presented to the members.
+Dialogue: 0,0:24:40.36,0:24:45.83,[Rola],Typeset,0,0,0,,Now, we will have a competition on who will get the most {\c&H030005&\4c&HB53DEC&}followers.
+Dialogue: 0,0:24:48.17,0:24:50.00,[Mimura],,0,0,0,,{\pos(496,293)}We do these frequently?
+Dialogue: 0,0:24:50.00,0:24:52.60,[Hamada],,0,0,0,,How long should we do this?
+Dialogue: 0,0:24:52.60,0:24:56.71,[Rola],,0,0,0,,About one week!
+Dialogue: 0,0:24:56.71,0:24:58.18,[Rola],,0,0,0,,Longer than one week, but first, just one week.
+Dialogue: 0,0:24:58.18,0:25:00.38,[Miyasako],,0,0,0,,Does something happen if you get last place?
+Dialogue: 0,0:25:00.38,0:25:02.91,[Rola],typeset,0,0,0,,There will be a batsu game for the last place!
+Dialogue: 0,0:25:03.62,0:25:05.12,[Miyasako],,0,0,0,,Good thing I’ve been doing Twitter.
+Dialogue: 0,0:25:05.12,0:25:08.59,[Hamada],,0,0,0,,Miyasako has already been doing Twitter, so he’s not part of it.
+Dialogue: 0,0:25:08.59,0:25:10.49,[Rola],typeset,0,0,0,Swipe DownLeft,{\move(360,390,150,500,1500,1600)}But Mr. Otohara will be part of it!
+Dialogue: 0,0:25:09.86,0:25:12.56,[Hotohara],,0,0,0,Swipe-In DownLeft,{\move(800,248,360,355,200,0)}It’s “Ho-”, ok!
+Dialogue: 0,0:25:12.56,0:25:16.86,[Hotohara],,0,0,0,,Of “Ha hi hu he ho.”
+Dialogue: 0,0:25:14.66,0:25:16.86,[Rola],,0,0,0,,Yes, Mr. Hotohara.
+Dialogue: 0,0:25:16.21,0:25:16.86,[Hamada],,0,0,0,,So Hoto —
+Dialogue: 0,0:25:16.86,0:25:18.93,[Hotohara],,0,0,0,,What happens for me?
+Dialogue: 0,0:25:18.93,0:25:20.83,[Hotohara],typeset,0,0,0,,The {\1c&00&\4c&H88C400&}60,000 {\1c&H88C400&\4c&00&} followers I had?
+Dialogue: 0,0:25:20.83,0:25:24.94,[Rola],typeset,0,0,0,,{\clip(34,327,40,400)\t(0,1250,\clip(34,319,674,400))}It’ll be a perfect handicap for you!
+Dialogue: 0,0:25:24.94,0:25:27.27,[Hotohara],,0,0,0,,Hey. That’s enough from you!
+Dialogue: 0,0:25:27.45,0:25:33.28,Narrator,,0,0,0,,Thus, a one week competition of who will get the most followers starts.
+Dialogue: 0,0:25:33.75,0:25:36.90,Narrator,,0,0,0,,Tweets get sent over the whole world…
+Dialogue: 0,0:25:36.90,0:25:40.31,Narrator,,0,0,0,,What kind of tweets will they make?
+Dialogue: 0,0:25:42.64,0:25:50.20,Narrator,,0,0,0,,First, the members’ strategy is to have Miss Rola spread their tweets to her 1,440,000 followers.
+Dialogue: 1,0:25:41.65,0:25:44.32,Tweet Text,Mimura,0,0,0,,{\fs22\move(116,0,116,113,600,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 0,0:25:41.65,0:25:50.00,Narrator,TL Note,0,0,0,,{\an8\fs18}*There is a Japanese TV meme that because of Hamada’s celebrity power in show business, if you are a newcomer and Hamada comedically hits you on TV, that moment will be your ticket to success and fame.
+Dialogue: 1,0:25:44.32,0:25:46.76,Tweet Text,Mimura,0,0,0,,{\fs17\move(116,113,116,179,500,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 1,0:25:46.76,0:25:49.23,Tweet Text,Mimura,0,0,0,,{\fs17\move(116,179,116,245,600,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 1,0:25:49.23,0:25:51.76,Tweet Text,Mimura,0,0,0,,{\fs17\move(116,245,116,314,600,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 1,0:25:51.76,0:25:54.30,Tweet Text,Mimura,0,0,0,,{\fs17\move(116,314,116,378,570,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Mimura,0,0,0,,{\fs17\move(116,378,116,440,590,0)\clip(51,57,401,400)}Did Mr. Hamada hit you?*
+Dialogue: 1,0:25:44.32,0:25:46.76,Tweet Text,Hotohara,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,55,116,121,500,0)}Not Otohara but Hotohara.  \NI want to be kind.
+Dialogue: 1,0:25:46.76,0:25:49.23,Tweet Text,Hotohara,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,121,116,187,500,0)}Not Otohara but Hotohara.  \NI want to be kind.
+Dialogue: 1,0:25:49.23,0:25:51.76,Tweet Text,Hotohara,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,187,116,255,500,0)}Not Otohara but Hotohara.  \NI want to be kind.
+Dialogue: 1,0:25:51.76,0:25:54.30,Tweet Text,Hotohara,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,255,116,320,500,0)}Not Otohara but Hotohara.  \NI want to be kind.
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Hotohara,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,320,116,386,500,0)}Not Otohara but Hotohara.  \NI want to be kind.
+Dialogue: 1,0:25:46.76,0:25:49.23,Tweet Text,Amano,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,55,116,121,500,0)}Rola’s stylish glasses are cute! \NI want to be kind!
+Dialogue: 1,0:25:49.23,0:25:51.76,Tweet Text,Amano,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,124,116,190,500,0)}Rola’s stylish glasses are cute! \NI want to be kind!
+Dialogue: 1,0:25:51.76,0:25:54.30,Tweet Text,Amano,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,190,116,254,500,0)}Rola’s stylish glasses are cute! \NI want to be kind!
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Amano,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,257,116,321,500,0)}Rola’s stylish glasses are cute! \NI want to be kind!
+Dialogue: 1,0:25:49.23,0:25:51.76,Tweet Text,Udo,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,47,116,113,500,0)}Ro-la! I-t’s! U-do!
+Dialogue: 1,0:25:51.76,0:25:54.30,Tweet Text,Udo,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,112,116,178,500,0)}Ro-la! I-t’s! U-do!
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Udo,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,179,116,245,500,0)}Ro-la! I-t’s! U-do!
+Dialogue: 1,0:25:51.76,0:25:54.30,Tweet Text,Otake,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,42,116,108,500,0)}Rola. Roller?
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Otake,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,108,116,174,500,0)}Rola. Roller?
+Dialogue: 1,0:25:54.30,0:25:58.84,Tweet Text,Otake,0,0,0,,{\fs17\clip(51,57,401,400)\move(116,56,116,122,500,0)}I’m a little hungry.  \NWhat’s good for this sort of thing?
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 2,Otake,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,56,116,122,500,0)}############### \N############################
+Dialogue: 0,0:25:51.76,0:25:54.30,Twitter Overlay 2,Otake,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,42,116,108,500,0)}####################
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 2,Otake,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,108,116,174,500,0)}####################
+Dialogue: 0,0:25:49.23,0:25:51.76,Twitter Overlay 2,Udo,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,47,116,113,500,0)}########################
+Dialogue: 0,0:25:51.76,0:25:54.30,Twitter Overlay 2,Udo,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,112,116,178,500,0)}########################
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 2,Udo,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,179,116,245,500,0)}########################
+Dialogue: 0,0:25:46.76,0:25:49.23,Twitter Overlay 2,Amano,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,55,116,121,500,0)}########################### \N####################
+Dialogue: 0,0:25:49.23,0:25:51.76,Twitter Overlay 2,Amano,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,124,116,190,500,0)}########################### \N####################
+Dialogue: 0,0:25:51.76,0:25:54.30,Twitter Overlay 2,Amano,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,190,116,254,500,0)}########################### \N####################
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 2,Amano,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,257,116,322,500,0)}########################### \N####################
+Dialogue: 0,0:25:44.32,0:25:46.76,Twitter Overlay 2,Hotohara,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,55,116,121,500,0)}###############################  \N###################
+Dialogue: 0,0:25:46.76,0:25:49.23,Twitter Overlay 2,Hotohara,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,121,116,187,500,0)}############################### \N###################
+Dialogue: 0,0:25:49.23,0:25:51.76,Twitter Overlay 2,Hotohara,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,187,116,255,500,0)}############################### \N###################
+Dialogue: 0,0:25:51.76,0:25:54.30,Twitter Overlay 2,Hotohara,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,255,116,320,500,0)}############################### \N###################
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 2,Hotohara,0,0,0,,{\fs20\clip(51,57,401,400)\move(116,320,116,386,500,0)}############################### \N###################
+Dialogue: 0,0:25:41.65,0:25:44.32,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,0,116,113,600,0)\clip(51,57,401,400)}#######################
+Dialogue: 0,0:25:44.32,0:25:46.76,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,113,116,179,500,0)\clip(51,57,401,400)}#######################
+Dialogue: 0,0:25:46.76,0:25:49.23,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,179,116,245,600,0)\clip(51,57,401,400)}#######################
+Dialogue: 0,0:25:49.23,0:25:51.76,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,245,116,314,600,0)\clip(51,57,401,400)}#######################
+Dialogue: 0,0:25:51.76,0:25:54.30,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,314,116,378,570,0)\clip(51,57,401,400)}#######################
+Dialogue: 0,0:25:54.30,0:25:58.84,Twitter Overlay 1,Mimura,0,0,0,,{\fs22\move(116,378,116,440,590,0)\clip(51,57,401,400)}#######################
+Dialogue: 3,0:25:50.20,0:25:53.02,Narrator,,0,0,0,,The members begin to tweet to Rola.
+Dialogue: 3,0:25:57.00,0:25:58.77,[Rola],,0,0,0,,Oh, I got something from Mr. Matsumoto.
+Dialogue: 3,0:25:58.59,0:25:59.78,[Matsumoto],,0,0,0,,You got something, right?
+Dialogue: 0,0:25:59.78,0:26:04.71,[Rola],,0,0,0,,Here.  “I’m a little hungry.  What’s good for this sort of thing?”, he says!
+Dialogue: 0,0:26:05.17,0:26:08.99,[Amano],,0,0,0,,Uh oh! Uh oh! Why did she say it like that?
+Dialogue: 0,0:26:09.81,0:26:11.90,[Hamada],,0,0,0,,Why do you seem to have this thing against Matsumoto?
+Dialogue: 0,0:26:12.95,0:26:16.72,[Udo],,0,0,0,,Here I go. I’m going to do it! Everyone’s going to see it.
+Dialogue: 0,0:26:16.72,0:26:23.13,Narrator,,0,0,0,,Once Rola retweets the members’ tweets to her followers, reactions to the members’ tweets come in quickly.
+Dialogue: 0,0:26:23.13,0:26:28.40,[Hamada],,0,0,0,,We have a reply to Mr. Matsumoto from a regular person!
+Dialogue: 0,0:26:29.19,0:26:30.95,[Hamada],,0,0,0,,“Is this the real Ma-chan?”
+Dialogue: 0,0:26:31.39,0:26:32.47,Default,,0,0,0,,Wow.
+Dialogue: 0,0:26:32.47,0:26:34.54,[Matsumoto],,0,0,0,,Yes!
+Dialogue: 0,0:26:34.54,0:26:36.31,[Hamada],,0,0,0,,Let’s reply to this!
+Dialogue: 0,0:26:37.63,0:26:42.59,[Amano],,0,0,0,,Wow, that guy’s lucky.
+Dialogue: 0,0:26:43.55,0:26:45.92,[Matsumoto],,0,0,0,,Would it be bad if I was abusive towards him?
+Dialogue: 0,0:26:46.42,0:26:48.42,[Hamada],,0,0,0,,What sort of abuse?
+Dialogue: 0,0:26:48.52,0:26:51.42,[Hamada],,0,0,0,,He said “Is this the real Ma-chan?”  Why would you reply to that with abuse?
+Dialogue: 0,0:26:51.42,0:26:54.03,[Matsumoto],,0,0,0,,I just did it.
+Dialogue: 0,0:26:54.03,0:26:56.03,[Hamada],,0,0,0,,To “Is this the real Mr. Matsumoto”:
+Dialogue: 0,0:26:56.62,0:27:00.37,Tweet Text,,0,0,0,,{\fad(200,0)\fs30\pos(116,226)}The real one. I want to be kind.
+Dialogue: 0,0:27:00.37,0:27:04.35,[Hotohara],,0,0,0,,My thing.  “I want to be kind,” that’s my thing.
+Dialogue: 0,0:27:04.80,0:27:07.64,[Matsumoto],,0,0,0,,{\pos(529,387)}Oh, really?
+Dialogue: 0,0:27:06.13,0:27:07.64,[Hamada],,0,0,0,,You didn’t say that.
+Dialogue: 0,0:27:08.01,0:27:14.01,[Hamada],,0,0,0,,{\pos(322,330)}Miyasako said before that “-tion” is only his thing.
+Dialogue: 0,0:27:08.96,0:27:10.81,[Miyasako],,0,0,0,,I said the “-tion” thing is only my thing.
+Dialogue: 0,0:27:10.81,0:27:14.01,[Hamada],,0,0,0,,You didn’t say “I want to be kind” is only your thing!
+Dialogue: 0,0:27:12.54,0:27:14.01,[Hotohara],,0,0,0,,{\pos(360,283)}But, wait,
+Dialogue: 0,0:27:14.01,0:27:17.68,[Hotohara],,0,0,0,,isn’t that the rule?!
+Dialogue: 0,0:27:15.92,0:27:17.68,[Matsumoto],,0,0,0,,Sorry, sorry about that.
+Dialogue: 0,0:27:17.68,0:27:21.29,[Matsumoto],,0,0,0,,I just, didn’t really understand...
+Dialogue: 0,0:27:21.29,0:27:27.43,[Matsumoto],,0,0,0,,{\pos(360,351)}For people who don’t know what’s going on here they must be like
+Dialogue: 0,0:27:22.55,0:27:27.43,[Matsumoto],,0,0,0,,“What the hell is Matsumoto saying?!”
+Dialogue: 0,0:27:27.43,0:27:29.06,[Rola],,0,0,0,,I got tweets as well, saying...
+Dialogue: 0,0:27:29.06,0:27:32.33,[Rola],,0,0,0,,{\fs34\1c&HFFAC00&\4c&H9925DD&\clip(37,317,39,400)\t(0,1750,\clip(37,317,750,400)}“Rola, you’re following too many fake accounts!”
+Dialogue: 0,0:27:32.58,0:27:34.45,[Amano],,0,0,0,,We’re not fake!
+Dialogue: 0,0:27:35.53,0:27:37.52,[Amano],,0,0,0,,We’re not fake!
+Dialogue: 0,0:27:32.33,0:27:38.67,Caption Wizard,,0,0,0,,{\pos(462,312)}They’re not trusted yet!
+Dialogue: 0,0:27:38.67,0:27:42.97,[Mimura],,0,0,0,,If you say “They’re real,” that would increase our followers?
+Dialogue: 0,0:27:41.36,0:27:42.17,[Miyasako],,0,0,0,,Yes.
+Dialogue: 0,0:27:42.03,0:27:42.97,[Hamada],,0,0,0,,It’s going up.
+Dialogue: 0,0:27:43.15,0:27:44.53,Default,,0,0,0,,Wow.
+Dialogue: 0,0:27:45.38,0:27:47.01,[Udo],,0,0,0,,Wow, Mr. Matsumoto.
+Dialogue: 0,0:27:48.31,0:27:51.58,[Hamada],,0,0,0,,Otake is already at 300!
+Dialogue: 0,0:27:53.89,0:27:55.38,[Mimura],,0,0,0,,They trust you.
+Dialogue: 0,0:27:55.54,0:27:56.34,[Rola],,0,0,0,,Wow
+Dialogue: 0,0:27:58.86,0:28:00.19,[Amano],,0,0,0,,Wow, it went up again.
+Dialogue: 0,0:28:00.54,0:28:02.45,[Hamada],,0,0,0,,It went right up to 460.
+Dialogue: 0,0:28:02.08,0:28:04.60,Default,,0,0,0,,500, wow.
+Dialogue: 0,0:28:10.88,0:28:13.70,Narrator,,0,0,0,,The number of followers is already increasing.
+Dialogue: 0,0:28:13.70,0:28:19.42,Narrator,,0,0,0,,The members are embarking on a one week experience never done before.
+Dialogue: 0,0:28:20.11,0:28:22.88,[Rola],,0,0,0,,Ok, everyone, good luck on your one week!
+Dialogue: 0,0:28:22.88,0:28:26.08,[Rola],,0,0,0,,Your followers will decrease if you don’t tweet, so tweet everyday.
+Dialogue: 0,0:28:26.08,0:28:30.26,[Rola],,0,0,0,,And if I see them and think they’re good, I’ll retweet them!
+Dialogue: 0,0:28:28.85,0:28:30.26,[Hamada],,0,0,0,,There you go.
+Dialogue: 0,0:28:30.26,0:28:32.25,[Hamada],,0,0,0,,So that means that that will increase your followers.
+Dialogue: 0,0:28:32.56,0:28:35.43,[Rola],,0,0,0,,Ok, bye everyone!
+Dialogue: 0,0:28:35.86,0:28:38.50,Default,,0,0,0,,You’re leaving just like that?
+Dialogue: 0,0:28:39.71,0:28:43.14,[Rola],,0,0,0,,Bye, take care!
+Dialogue: 0,0:28:43.80,0:28:46.57,[Hamada],,0,0,0,,Good luck on your one week!
+Dialogue: 0,0:28:46.90,0:28:54.58,Narrator,,0,0,0,,Everyone’s beginning Twitter now starts to create a stir!
+Dialogue: 0,0:28:55.64,0:29:02.27,Narrator,,0,0,0,,At the dressing room after shooting ended, Otake takes a photo of Miyasako in his personal attire.
+Dialogue: 0,0:29:03.97,0:29:05.69,[Otake],,0,0,0,,Got it. And then?
+Dialogue: 0,0:29:07.06,0:29:10.53,[Miyasako],,0,0,0,,{\pos(454,339)}My leopard-skin is gonna be posted!
+Dialogue: 0,0:29:11.16,0:29:17.77,Narrator,,0,0,0,,What caption will Otake add regarding Miyasako’s unique style of clothes?
+Dialogue: 0,0:29:18.40,0:29:19.03,Default,,0,0,0,,It’s sent.
+Dialogue: 0,0:29:18.86,0:29:19.74,[Otake],,0,0,0,,That's sent?
+Dialogue: 0,0:29:21.99,0:29:31.02,Special Narrator,,0,0,0,,{\3c&HFFFFFF&\bord2\pos(171,164)}Rod Miyasako Stewart
+Dialogue: 0,0:29:26.32,0:29:28.53,[Otake],,0,0,0,,There’s a worry whether it was sent or not, you know.
+Dialogue: 0,0:29:30.08,0:29:31.02,Narrator,,0,0,0,,Then...
+Dialogue: 0,0:29:32.92,0:29:33.72,Narrator,,0,0,0,,10,000 people.
+Dialogue: 0,0:29:35.12,0:29:38.72,Narrator,,0,0,0,,The leopard-skin went to 10,000 people.
+Dialogue: 0,0:29:37.85,0:29:40.03,[Otake],,0,0,0,,10,000 people?
+Dialogue: 0,0:29:40.99,0:29:43.50,[Otake],,0,0,0,,{\pos(360,315)}It amazes me. I don’t really understand it,
+Dialogue: 0,0:29:43.50,0:29:47.67,[Otake],,0,0,0,,{\pos(360,335)}but to think that at this moment, a lot of people are looking at it!
+Dialogue: 0,0:29:48.16,0:29:51.30,Narrator,,0,0,0,,Meanwhile, at Matsumoto’s dressing room…
+Dialogue: 0,0:29:51.30,0:29:55.07,[Matsumoto],,0,0,0,,So it means there might be replies to this.
+Dialogue: 0,0:29:55.89,0:29:59.71,Narrator,,0,0,0,,A reply has come to the tweet from before.
+Dialogue: 1,0:29:55.14,0:30:02.11,Tweet Text,1st Tweet,0,0,0,,{\move(134,0,134,174,450,0)\clip(49,84,411,400)}I’m a little hungry. \NWhat’s good for this sort of thing?
+Dialogue: 1,0:30:02.11,0:30:27.61,Tweet Text,Slide Down,0,0,0,,{\move(134,174,134,265,300,0)}I’m a little hungry. \NWhat’s good for this sort of thing?
+Dialogue: 1,0:30:02.11,0:30:27.61,Tweet Text,Reply Slide In,0,0,0,,{\move(141,78,141,169,300,0)\clip(51,89,413,400)}How about a pastry?
+Dialogue: 1,0:30:27.61,0:30:35.81,Tweet Text,Reply Slide Down,0,0,0,,{\move(141,170,141,273,300,0)}How about a pastry?
+Dialogue: 1,0:30:27.61,0:30:35.81,Tweet Text,Slide Down,0,0,0,,{\move(134,265,134,368,300,0)}I’m a little hungry. \NWhat’s good for this sort of thing?
+Dialogue: 1,0:30:27.61,0:30:35.81,Tweet Text,2nd Reply In,0,0,0,,{\move(139,61,139,164,300,0)\clip(49,85,414,400)}Like custard?
+Dialogue: 0,0:29:55.14,0:30:02.11,Twitter Overlay 1,Overlays,0,0,0,,{\move(136,0,136,170,450,0)\clip(49,84,411,400)}#################\N##############################
+Dialogue: 0,0:30:02.11,0:30:27.61,Twitter Overlay 1,Overlays,0,0,0,,{\move(136,174,136,262,300,0)}################\N##############################
+Dialogue: 0,0:30:02.11,0:30:27.61,Twitter Overlay 1,Overlays,0,0,0,,{\move(141,78,141,169,300,0)\clip(51,89,413,400)}#############################
+Dialogue: 0,0:30:27.61,0:30:35.81,Twitter Overlay 1,Overlays,0,0,0,,{\move(141,170,141,273,300,0)}#############################
+Dialogue: 0,0:30:27.61,0:30:35.81,Twitter Overlay 1,Overlays,0,0,0,,{\move(136,265,136,365,300,0)}################\N##############################
+Dialogue: 0,0:30:27.61,0:30:35.81,Twitter Overlay 1,Overlays,0,0,0,,{\move(139,61,139,160,300,0)\clip(49,85,414,400)}#####################
+Dialogue: 2,0:30:08.19,0:30:18.36,[Matsumoto],,0,0,0,,To do that, I go, here, right? \NTo “How about a pastry?”  I do this, right?
+Dialogue: 2,0:30:18.70,0:30:20.12,[Matsumoto],,0,0,0,,And then I press tweet?
+Dialogue: 2,0:30:21.10,0:30:22.33,Default,,0,0,0,,Yes, on the upper right.
+Dialogue: 2,0:30:25.47,0:30:27.45,[Matsumoto],,0,0,0,,Like custard?
+Dialogue: 2,0:30:29.19,0:30:31.19,[Matsumoto],,0,0,0,,Oh, the tweet is sending.
+Dialogue: 2,0:30:30.93,0:30:31.38,Default,,0,0,0,,Yes.
+Dialogue: 2,0:30:32.48,0:30:35.11,Narrator,,0,0,0,,Just from this conversation about pastries…
+Dialogue: 0,0:30:35.81,0:30:38.02,Default,,0,0,0,,It’s already at 17,000 people. Wow
+Dialogue: 0,0:30:40.09,0:30:41.84,[Matsumoto],,0,0,0,,It’s at 17,000…
+Dialogue: 0,0:30:41.84,0:30:43.29,Default,,0,0,0,,Oh, it’s coming in.
+Dialogue: 0,0:30:45.82,0:30:50.23,Default,,0,0,0,,What kind of tweets will Matsumoto make in the future?
+Dialogue: 0,0:30:51.12,0:30:52.46,Default,,0,0,0,,And then...
+Dialogue: 0,0:30:53.46,0:30:55.53,[Mimura],,0,0,0,,“I’m gonna be tsukkomi-ing.”
+Dialogue: 0,0:30:57.43,0:31:00.84,Narrator,,0,0,0,,Mimura’s “I’m gonna be tsukkomi-ing” tweet…
+Dialogue: 0,0:31:01.14,0:31:04.09,[Mimura],,0,0,0,,I’ll make it “I’m gonna be tsukkomi-ing something crazy vicious! Christmas!”
+Dialogue: 2,0:31:04.09,0:31:06.85,[Mimura],,0,0,0,,It’s so bad they might just take me out of the competition.
+Dialogue: 1,0:31:05.13,0:31:24.33,Tweet Text,,0,0,0,,{\fs18\move(115,290,115,379,300,0)\clip(41,304,347,400)}I’m gonna be tsukkomi-ing \Nsomething crazy vicious! \NChristmas!
+Dialogue: 0,0:31:05.13,0:31:24.33,Twitter Overlay 1,,0,0,0,,{\fs20\move(115,290,115,371,300,0)\clip(41,304,347,400)}I’m gonna be tsukkomi-ing something### \Ncrazy vicious! Christmas!###
+Dialogue: 0,0:31:10.85,0:31:14.72,[Mimura] - Align Left,,0,0,0,,{\pos(358,374)}Like the saying, \N“Regret never comes \Nbeforehand,” you know…
+Dialogue: 0,0:31:14.72,0:31:16.96,[Mimura],,0,0,0,,{\pos(360,286)}I might regret this.
+Dialogue: 0,0:31:16.96,0:31:24.33,[Mimura],,0,0,0,,{\pos(360,285)}Like, “No, no, I was just joking.”  “I was just joking about the ‘Christmas’ part.”
+Dialogue: 0,0:31:24.33,0:31:28.43,[Udo],,0,0,0,,Now, I’m going to send this to Amano.
+Dialogue: 1,0:31:28.92,0:31:36.48,Tweet Text,,0,0,0,,{\move(115,200,115,291,300,0)\clip(40,226,350,400)}Amano~! \NCan I come over now?
+Dialogue: 0,0:31:28.92,0:31:36.48,Twitter Overlay 1,,0,0,0,,{\move(115,200,115,299,300,0)\clip(40,226,350,400)}Amano~!###### \NCan I come over now? #######
+Dialogue: 0,0:31:30.52,0:31:32.98,Narrator,,0,0,0,,Still using it like texting…
+Dialogue: 0,0:31:32.98,0:31:34.26,[Udo],,0,0,0,,This is fine, right?
+Dialogue: 1,0:31:36.48,0:31:46.49,Tweet Text,,0,0,0,,{\fs30\pos(139,179)}Yesterday’s homemade char siu! \NCan you guess what I used this to make?
+Dialogue: 0,0:31:36.48,0:31:46.49,Twitter Overlay 1,,0,0,0,,{\fs27\pos(139,179)}Yesterday’s homemade char siu!######### \NCan you guess what I used this to make?  #########
+Dialogue: 0,0:31:36.92,0:31:41.85,Narrator,,0,0,0,,Meanwhile, using his cooking skills, Amano tweets in a quiz form.
+Dialogue: 0,0:31:41.85,0:31:44.23,Narrator,,0,0,0,,In reply to this…
+Dialogue: 0,0:31:46.49,0:31:47.33,[Udo],,0,0,0,,Here.
+Dialogue: 0,0:31:47.78,0:31:48.32,[Udo],,0,0,0,,The char siu.
+Dialogue: 0,0:31:49.24,0:31:51.96,[Udo],,0,0,0,,{\pos(360,271)}So I should enter “char siu rice bowl” to this?
+Dialogue: 0,0:31:51.96,0:31:56.40,[Amano],,0,0,0,,{\pos(360,279)}Unfortunately, it was ramen.
+Dialogue: 0,0:31:53.99,0:31:55.24,[Udo],,0,0,0,,So I should enter “ramen.”
+Dialogue: 0,0:31:55.74,0:31:57.10,[Amano],,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:31:57.10,0:31:59.87,[Amano],,0,0,0,,No, then I’m just doing this with you!
+Dialogue: 0,0:31:59.87,0:32:05.67,[Amano],,0,0,0,,Not between us, tweet about your own stuff!
+Dialogue: 0,0:32:02.80,0:32:05.67,[Udo],,0,0,0,,{\an1\pos(25,335)}I’ll spread the word, then, to everyone.
+Dialogue: 0,0:32:05.67,0:32:09.47,[Amano],,0,0,0,,{\pos(495,314)}Wow, there are a lot of replies!
+Dialogue: 0,0:32:07.61,0:32:09.47,[Udo],,0,0,0,,{\pos(232,394)}Because I spread it to everyone!
+Dialogue: 0,0:32:09.47,0:32:12.08,[Amano],,0,0,0,,{\pos(360,321)}That makes it sound like it was thanks to you!
+Dialogue: 0,0:32:11.25,0:32:13.09,[Udo],,0,0,0,,Retweet means to spread it out?
+Dialogue: 0,0:32:13.09,0:32:14.58,Default,,0,0,0,,Yes, retweet means to spread it out.
+Dialogue: 0,0:32:17.19,0:32:21.75,[Otake],,0,0,0,,Wow, Mr. Matsumoto is tweeting!
+Dialogue: 0,0:32:20.88,0:32:23.52,[Otake],,0,0,0,,He says “The correct answer was Yo-chan Squid.”
+Dialogue: 0,0:32:23.52,0:32:24.35,Default,,0,0,0,,He’s already really into it.
+Dialogue: 0,0:32:24.08,0:32:25.54,[Otake],,0,0,0,,He’s already really into it.
+Dialogue: 0,0:32:25.82,0:32:28.79,[Otake],,0,0,0,,He’s giving out quiz questions.
+Dialogue: 0,0:32:30.10,0:32:32.93,[Otake],,0,0,0,,{\fs34}Mr. Matsumoto’s giving out quiz questions!
+Dialogue: 0,0:32:33.28,0:32:36.57,Narrator,,0,0,0,,Meanwhile, at Matsumoto’s dressing room...
+Dialogue: 0,0:32:36.57,0:32:38.80,Narrator,,0,0,0,,3, 2, 1, OK.
+Dialogue: 0,0:32:40.02,0:32:40.85,Narrator,,0,0,0,,Got it.
+Dialogue: 0,0:32:40.85,0:32:43.73,Narrator,,0,0,0,,was taking a picture of himself in the middle of changing.
+Dialogue: 0,0:32:41.09,0:32:45.71,Caption Wizard,,0,0,0,,{\pos(479,312)}A photo in his underpants.
+Dialogue: 0,0:32:46.92,0:32:48.61,Narrator,,0,0,0,,From a different angle…
+Dialogue: 0,0:32:52.16,0:32:54.26,Narrator,,0,0,0,,and just in case, another shot.
+Dialogue: 1,0:32:56.69,0:33:01.76,Default,Typeset,0,0,0,,{\fad(400,0)\fs34\b1\c&HEE3A39&\3c&HADFFFA&}What will {\c&H1A16C7&\3c&HF2FFFE&}Matsumoto {\c&HF0A80C&}tweet{\c&HFF373C&}...
+Dialogue: 0,0:32:56.69,0:33:01.76,Default,Typeset,0,0,0,,{\fad(400,0)\blur3\fs34\b1\c&HEE3A39&\3c&H2CF5EA&}What will Matsumoto tweet...
+Dialogue: 0,0:33:01.76,0:33:04.76,[Matsumoto],,0,0,0,,“Surprisingly, zebra pants.”
+Dialogue: 0,0:33:04.76,0:33:06.40,[Matsumoto],,0,0,0,,That’s fine, right?
+Dialogue: 0,0:33:08.34,0:33:09.02,[Matsumoto],,0,0,0,,Tweet.
+Dialogue: 0,0:33:11.24,0:33:12.52,[Matsumoto],,0,0,0,,Ok, there we go.
+Dialogue: 0,0:33:16.40,0:33:20.00,Narrator,,0,0,0,,Matsumoto actually gives out a fan service photo.
+Dialogue: 0,0:33:20.00,0:33:24.61,Narrator,,0,0,0,,And with this photo, the number of his followers increases dramatically.
+Dialogue: 0,0:33:25.35,0:33:32.00,Narrator,,0,0,0,,Starting from that night, the members began to tweet regularly.
+Dialogue: 1,0:33:33.16,0:33:38.25,Tweet Text,Here we go again!,0,0,0,,{\fad(500,0)\fs24\pos(148,150)}Trying a smile after taking a bath.
+Dialogue: 0,0:33:33.16,0:33:38.25,Twitter Overlay 2,Here we go again!,0,0,0,,{\fad(500,0)\fs30\pos(148,150)}Trying a smile after taking a bath.#####
+Dialogue: 1,0:33:38.25,0:33:42.22,Tweet Text,,0,0,0,,{\fs24\move(148,150,148,244,350,0)}Trying a smile after taking a bath.
+Dialogue: 0,0:33:38.25,0:33:42.22,Twitter Overlay 2,,0,0,0,,{\fs30\move(148,150,148,244,350,0)}Trying a smile after taking a bath.#######
+Dialogue: 1,0:33:42.22,0:33:43.11,Tweet Text,,0,0,0,,{\fs24\move(148,244,148,600,350,0)}Trying a smile after taking a bath.
+Dialogue: 0,0:33:42.22,0:33:43.11,Twitter Overlay 2,,0,0,0,,{\fs30\move(148,244,148,600,350,0)}Trying a smile after taking a bath.######
+Dialogue: 1,0:33:38.25,0:33:42.22,Tweet Text,,0,0,0,,{\fs24\move(148,78,148,172,350,0)\clip(53,87,662,400)}When exposed to a new culture, I get sleepy.  \NI’m going to sleep.
+Dialogue: 0,0:33:38.25,0:33:42.22,Twitter Overlay 2,,0,0,0,,{\fs24\move(148,78,148,172,350,0)\clip(53,87,662,400)}When exposed to a new culture, I get sleepy.##############  \NI’m going to sleep. ####################################
+Dialogue: 1,0:33:42.22,0:33:43.11,Tweet Text,,0,0,0,,{\fs24\move(148,172,148,600,350,0)\clip(53,87,662,400)}When exposed to a new culture, I get sleepy.  \NI’m going to sleep.
+Dialogue: 0,0:33:42.22,0:33:43.11,Twitter Overlay 2,,0,0,0,,{\fs24\move(148,172,148,600,350,0)\clip(53,87,662,400)}When exposed to a new culture, I get sleepy.##############  \NI’m going to sleep. ####################################
+Dialogue: 1,0:33:42.22,0:33:46.97,Tweet Text,,0,0,0,,{\fs24\clip(52,88,662,400)\move(148,50,148,146,350,0)}I have all these same ones. One of them is red.
+Dialogue: 0,0:33:42.22,0:33:46.97,Twitter Overlay 2,,0,0,0,,{\fs24\clip(52,88,662,400)\move(148,50,148,144,350,0)}I have all these same ones. One of them is red. ########
+Dialogue: 1,0:33:46.97,0:33:52.53,Tweet Text,,0,0,0,,{\fs24\clip(52,88,662,400)\move(148,175,148,271,350,0)}I have all these same ones. One of them is red.
+Dialogue: 0,0:33:46.97,0:33:52.53,Twitter Overlay 2,,0,0,0,,{\fs24\clip(52,88,662,400)\move(148,175,148,271,350,0)}I have all these same ones. One of them is red. #######
+Dialogue: 0,0:33:46.98,0:33:52.52,Narrator,TL Note,0,0,0,,{\an8\fs18}*Himura Yuki is a comedian known for his impression of sumo wrestler Takanohana Koji as a child.
+Dialogue: 1,0:33:46.98,0:33:52.52,Tweet Text,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,80,148,195,250,0)}My one-year-old daughter has an 80% chance of \Ngetting glued to the TV when Mr. Himura comes on!*  \NI want to be a kind, child Takanohana.
+Dialogue: 0,0:33:46.98,0:33:52.52,Twitter Overlay 1,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,80,148,195,250,0)}My one-year-old daughter has an 80% chance of \Ngetting glued to the TV when Mr. Himura comes on!* ##### \NI want to be a kind, child Takanohana.#################
+Dialogue: 1,0:33:52.53,0:33:58.64,Tweet Text,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,50,148,165,250,0)}A year has passed since I got a \Nmole beside my left nipple! Amano~!
+Dialogue: 0,0:33:52.53,0:33:58.64,Twitter Overlay 1,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,50,148,165,250,0)}A year has passed since I got a################# \Nmole beside my left nipple! #####################Amano~!
+Dialogue: 1,0:33:58.64,0:34:00.07,Tweet Text,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,165,148,513,250,0)}A year has passed since I got a \Nmole beside my left nipple! Amano~!
+Dialogue: 0,0:33:58.64,0:34:00.07,Twitter Overlay 1,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,165,148,513,350,0)}A year has passed since I got a################# \Nmole beside my left nipple! #####################Amano~!
+Dialogue: 1,0:33:58.64,0:34:04.49,Tweet Text,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,45,148,160,250,0)}An aristocrat bachelor’s night. I think I’ll get a good \Nsweat going for this evening.
+Dialogue: 0,0:33:58.64,0:34:04.49,Twitter Overlay 2,,0,0,0,,{\fs24\clip(51,85,663,400)\move(148,45,148,160,250,0)}An aristocrat bachelor’s night. I think I’ll get a good######### \Nsweat going for this evening.   ##########################
+Dialogue: 0,0:33:34.30,0:33:38.53,Narrator,,0,0,0,,Showing a private side that they don’t often show,
+Dialogue: 0,0:33:43.11,0:33:46.16,Narrator,,0,0,0,,or describing something in their home,
+Dialogue: 0,0:33:48.40,0:33:51.70,Narrator,,0,0,0,,or making some sort of mysterious report,
+Dialogue: 0,0:34:01.02,0:34:04.49,Narrator,,0,0,0,,Furthermore, on Amano…
+Dialogue: 0,0:34:04.63,0:34:07.58,[Amano],,0,0,0,,This is horrible.
+Dialogue: 0,0:34:08.93,0:34:12.50,[Amano],,0,0,0,,When Mr. Matsumoto, right off the bat,
+Dialogue: 0,0:34:12.50,0:34:18.17,[Amano],,0,0,0,,gave me an ogiri question, I thought, “Come on.
+Dialogue: 0,0:34:18.17,0:34:22.44,[Amano],,0,0,0,,With this many other 'boke’s, don’t go to me.”
+Dialogue: 0,0:34:23.34,0:34:27.98,Narrator,,0,0,0,,To Amano’s tweet about making char siu noodles,
+Dialogue: 1,0:34:22.44,0:34:28.45,Tweet Text,,0,0,0,,{\fs24\pos(150,169)}What I made with my homemade char siu \Nyesterday by the way was char siu noodles!
+Dialogue: 0,0:34:22.44,0:34:28.45,Twitter Overlay 1,,0,0,0,,{\fs24\pos(150,169)}What I made with my homemade char siu#### \Nyesterday by the way was char siu noodles!##########
+Dialogue: 1,0:34:28.45,0:34:33.59,Tweet Text,,0,0,0,,{\fs24\move(150,169,150,260,250,0)}What I made with my homemade char siu \Nyesterday by the way was char siu noodles!
+Dialogue: 0,0:34:28.45,0:34:33.59,Twitter Overlay 1,,0,0,0,,{\fs24\move(150,169,150,260,250,0)}What I made with my homemade char siu#### \Nyesterday by the way was char siu noodles!##########
+Dialogue: 1,0:34:28.45,0:34:33.59,Tweet Text,,0,0,0,,{\fs24\move(343,66,343,157,250,0)\clip(54,87,660,400)}Ogiri time. What flavor is it?
+Dialogue: 0,0:34:28.45,0:34:33.59,Twitter Overlay 2,,0,0,0,,{\fs24\move(343,66,343,157,250,0)\clip(54,87,660,400)}Ogiri time. What flavor is it? #########
+Dialogue: 1,0:34:33.59,0:34:38.78,Tweet Text,,0,0,0,,{\fs24\clip(54,87,660,400)\move(150,47,150,138,250,0)}Mitsukan pork bone broth soy sauce flavor.
+Dialogue: 0,0:34:33.59,0:34:38.78,Twitter Overlay 2,,0,0,0,,{\fs24\clip(54,87,660,400)\move(150,47,150,138,250,0)}Mitsukan pork bone broth soy sauce flavor.
+Dialogue: 1,0:34:38.78,0:34:44.50,Tweet Text,,0,0,0,,{\fs24\clip(54,87,660,400)\move(150,140,150,232,250,0)}Mitsukan pork bone broth soy sauce flavor.
+Dialogue: 0,0:34:38.78,0:34:44.50,Twitter Overlay 2,,0,0,0,,{\fs24\clip(54,87,660,400)\move(150,140,150,232,250,0)}Mitsukan pork bone broth soy sauce flavor.
+Dialogue: 1,0:34:38.78,0:34:44.50,Tweet Text,,0,0,0,,{\fs24\clip(54,87,660,400)\move(149,74,149,166,250,0)}The correct answer is… Mitsukan pork bone broth \Nsoy sauce flavor. Amano~! You got it!
+Dialogue: 0,0:34:38.78,0:34:44.50,Twitter Overlay 1,,0,0,0,,{\fs24\clip(54,87,660,400)\move(149,74,149,166,250,0)}The correct answer is… Mitsukan pork bone broth ###########\Nsoy sauce flavor. Amano~! You got it!#
+Dialogue: 0,0:34:29.14,0:34:32.45,Narrator,,0,0,0,,Matsumoto suddenly gives out an origi question.
+Dialogue: 0,0:34:34.25,0:34:39.43,Narrator,,0,0,0,,To this, Amano answers referring to a TV commercial that he himself appears in
+Dialogue: 0,0:34:39.43,0:34:43.57,Narrator,,0,0,0,,and gets a “well done” from Matsumoto.
+Dialogue: 0,0:34:44.50,0:34:48.40,[Amano],,0,0,0,,My mind was seriously running on full cylinders that time.
+Dialogue: 0,0:34:48.40,0:34:52.20,[Amano],,0,0,0,,{\an1\pos(44,394)}I was thinking “This is gonna be hell \N\N\N{\alpha&HFF&\t(1800,200,\alpha&H00&)}if this keeps going on!”
+Dialogue: 0,0:34:52.79,0:34:54.89,Narrator,,0,0,0,,And Matsumoto as well…
+Dialogue: 1,0:34:56.48,0:35:06.22,Tweet Text,,0,0,0,,{\fs24\pos(368,143)}I’m drunk.
+Dialogue: 0,0:34:57.86,0:35:01.62,Narrator,,0,0,0,,Shows himself getting a bit tipsy with a cute tweet.
+Dialogue: 0,0:35:01.62,0:35:06.22,Narrator,,0,0,0,,This cute tweet from Matsumoto greatly increases his follower numbers.
+Dialogue: 0,0:35:06.72,0:35:13.49,Narrator,,0,0,0,,By the next day, Matsumoto starting Twitter is picked up by the news
+Dialogue: 0,0:35:14.36,0:35:16.82,[Hotohara],,0,0,0,,This here “I’m drunk” (Matsumoto’s tweet), right?
+Dialogue: 0,0:35:19.60,0:35:22.97,[Hotohara],,0,0,0,,This is quite precious!
+Dialogue: 0,0:35:24.37,0:35:25.28,[Hotohara],,0,0,0,,Really.
+Dialogue: 0,0:35:27.07,0:35:31.88,[Hotohara],,0,0,0,,It’s unbelievable that Mr. Matsumoto would get on Twitter
+Dialogue: 0,0:35:31.88,0:35:38.64,[Hotohara],,0,0,0,,I think a lot of people out there are thinking the same thing.
+Dialogue: 0,0:35:38.64,0:35:42.72,[Hotohara],,0,0,0,,There will be a lot of interest in this.
+Dialogue: 0,0:35:42.72,0:35:54.17,Tweet Text,,0,0,0,,{\fs18\an1\pos(136,387)}When I said to my daughter, \N“P down,” she said, “Huh? \NWhat does that mean?”  \NIt means “Sit down.”  \NI want to be a kind Osaka dialect.
+Dialogue: 0,0:35:43.21,0:35:51.62,Narrator,Tweet,0,0,0,,As it becomes a societal phenomenon, Hotohara, in no hurry, tweets heartwarming moments of his family.
+Dialogue: 0,0:35:54.36,0:35:55.05,[Udo],,0,0,0,,Amano.
+Dialogue: 0,0:35:55.05,0:35:55.65,[Amano],,0,0,0,,What?
+Dialogue: 0,0:35:55.65,0:35:58.25,[Udo],,0,0,0,,I was thinking of putting in a photo.
+Dialogue: 0,0:35:57.72,0:35:58.25,[Amano],,0,0,0,,Ok.
+Dialogue: 0,0:35:58.25,0:36:05.01,[Udo],,0,0,0,,If I do that, followers will take a look at it.
+Dialogue: 0,0:36:05.11,0:36:06.24,[Udo],,0,0,0,,Ok, Amano.
+Dialogue: 0,0:36:06.58,0:36:08.21,[Amano],,0,0,0,,Gee, what is this?
+Dialogue: 0,0:36:08.94,0:36:11.04,[Amano],,0,0,0,,Here… and this…
+Dialogue: 0,0:36:11.75,0:36:14.00,[Amano],,0,0,0,,Amano~!
+Dialogue: 1,0:36:11.75,0:36:20.06,Tweet Text,,0,0,0,,{\fs24\pos(145,244)}Amano~!-“Now!”  \NToday’s glasses are like \NTakeyama’s of Cunning!*  \NLooks like it-now!  \NBoth of them good-now!
+Dialogue: 1,0:36:11.75,0:36:20.06,Narrator,,0,0,0,,{\an8\fs18}*Takeyama Takanori is a TV personality in a comedic duo called Cunning.
+Dialogue: 0,0:36:11.75,0:36:20.06,Twitter Overlay 2,,0,0,0,,{\fs24\pos(148,265)\clip(139,117,416,252)}###########################\N###########################\N###########################\N###########################\N###########################\N###########################\N
+Dialogue: 0,0:36:11.75,0:36:20.06,Narrator,TL Note,0,0,0,,{\an8\fs18}
+Dialogue: 0,0:36:15.54,0:36:16.37,[Amano],,0,0,0,,Now!
+Dialogue: 0,0:36:20.06,0:36:24.33,[Mimura],,0,0,0,,I want to tweet!
+Dialogue: 0,0:36:22.09,0:36:24.33,[Otake],,0,0,0,,{\move(-200,313,212,313,225,0)}You’re tweeting too much!
+Dialogue: 0,0:36:24.66,0:36:30.54,Narrator,,0,0,0,,This is the man who got into this the most. Mimura Masakazu.
+Dialogue: 1,0:36:30.54,0:36:34.71,Tweet Text,,0,0,0,,{\fs22\move(-200,232,123,232,250,0)\clip(40,150,671,250)}Oe, how are you? I, am going to bed.
+Dialogue: 0,0:36:30.54,0:36:34.71,Twitter Overlay 2,,0,0,0,,{\fs22\move(-300,232,123,232,250,0)\clip(41,151,671,252)}Oe, how are you? I, am going to bed.########
+Dialogue: 1,0:36:34.71,0:36:40.51,Tweet Text,,0,0,0,,{\fs22\pos(123,232)\t(3500,0,\clip(m 102 175 l 201 178 183 250 99 250))\clip(m 105 177 l 204 180 186 252 102 252)}Oe, how
+Dialogue: 0,0:36:34.71,0:36:40.51,Twitter Overlay 2,,0,0,0,,{\pos(123,231)\clip(m 118 192 l 204 188 188 252 117 250)}Oe, how###
+Dialogue: 0,0:36:30.88,0:36:35.65,Narrator,,0,0,0,,On the night of the first day, after tweeting to TV Tokyo broadcaster Oe Mariko,
+Dialogue: 0,0:36:35.65,0:36:40.51,Narrator,,0,0,0,,this conversation also, for some reason, was picked up by Yahoo! News.
+Dialogue: 1,0:36:40.51,0:36:43.61,Tweet Text,,0,0,0,,{\move(130,373,130,500,2950,3000)}Oe noticed!
+Dialogue: 1,0:36:40.51,0:36:43.61,Tweet Text,,0,0,0,,{\move(130,298,130,425,2950,3000)}In the middle of work. Can’t tweet.
+Dialogue: 1,0:36:40.51,0:36:43.61,Tweet Text,,0,0,0,,{\move(130,220,130,347,2950,3000)}Amano, are lava flow baths good? I mean, Amano~!
+Dialogue: 1,0:36:40.51,0:36:43.61,Tweet Text,,0,0,0,,{\move(130,141,130,268,2950,3000)}I’m connected with Becky!
+Dialogue: 0,0:36:40.51,0:36:43.61,Twitter Overlay 2,,0,0,0,,{\move(130,373,130,500,2950,3000)}Oe noticed!################
+Dialogue: 0,0:36:40.51,0:36:43.61,Twitter Overlay 2,,0,0,0,,{\move(130,300,130,425,2950,3000)}In the middle of work. Can’t tweet.
+Dialogue: 0,0:36:40.51,0:36:43.61,Twitter Overlay 2,,0,0,0,,{\move(130,220,130,347,2950,3000)}Amano, are lava flow baths good? I mean, Amano~! ####
+Dialogue: 0,0:36:40.51,0:36:43.61,Twitter Overlay 2,,0,0,0,,{\move(130,141,130,268,2950,3000)}I’m connected with Becky!  ###
+Dialogue: 1,0:36:43.55,0:36:46.67,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,370,150,0)}Hey, Otake’s wife is on TV.
+Dialogue: 1,0:36:43.55,0:36:46.67,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,302,150,0)}Tweeting on a mountain road, ughhhh!
+Dialogue: 1,0:36:43.55,0:36:46.67,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,222,150,0)}In the car, sleepyyyyy!!!
+Dialogue: 1,0:36:43.55,0:36:46.67,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,143,150,0)}I wanna faaaaart!
+Dialogue: 0,0:36:43.55,0:36:46.67,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,378,150,0)}Hey, Otake’s wife is on TV. #############
+Dialogue: 0,0:36:43.55,0:36:46.67,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,302,150,0)}Tweeting on a mountain road, ughhhh!############
+Dialogue: 0,0:36:43.55,0:36:46.67,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,222,150,0)}In the car, sleepyyyyy!!!###############################
+Dialogue: 0,0:36:43.55,0:36:46.67,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,25,130,143,150,0)}I wanna faaaaart!####################
+Dialogue: 1,0:36:46.67,0:36:47.53,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,370,130,670,670,365)}Hey, Otake’s wife is on TV.
+Dialogue: 1,0:36:46.67,0:36:47.35,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,302,130,602,670,365)}Tweeting on a mountain road, ughhhh!
+Dialogue: 1,0:36:46.67,0:36:47.35,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,222,130,622,670,365)}In the car, sleepyyyyy!!!
+Dialogue: 1,0:36:46.67,0:36:47.35,Tweet Text,,0,0,0,,{\clip(51,86,663,400)\move(130,143,130,643,670,365)}I wanna faaaaart!
+Dialogue: 0,0:36:46.67,0:36:47.53,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,378,130,670,670,365)}Hey, Otake’s wife is on TV.##############
+Dialogue: 0,0:36:46.67,0:36:47.35,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,302,130,602,670,365)}Tweeting on a mountain road, ughhhh!############
+Dialogue: 0,0:36:46.67,0:36:47.35,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,222,130,622,670,365)}In the car, sleepyyyyy!!!#################################
+Dialogue: 0,0:36:46.67,0:36:47.35,Twitter Overlay 2,,0,0,0,,{\clip(51,86,663,400)\move(130,143,130,643,670,365)}I wanna faaaaart!######################
+Dialogue: 1,0:36:47.04,0:36:50.52,Tweet Text,,0,0,0,,{\clip(52,87,660,400)\fs24\move(150,0,150,143,150,0)}This egg sandwich is super good!
+Dialogue: 0,0:36:47.04,0:36:50.52,Twitter Overlay 2,,0,0,0,,{\clip(52,87,660,400)\fs24\move(150,0,150,143,150,0)}This egg sandwich is super good!
+Dialogue: 0,0:36:40.51,0:36:45.49,Narrator,,0,0,0,,Furthermore, tweeting 20 tweets right from the start,
+Dialogue: 0,0:36:45.49,0:36:50.52,Narrator,,0,0,0,,he reaches 220,000 followers by the next day.
+Dialogue: 0,0:36:51.42,0:36:54.98,Narrator,,0,0,0,,Inspired by his duo partner, Otake also…
+Dialogue: 0,0:36:55.66,0:37:00.90,[Otake],,0,0,0,,Golden Week just ended so the sky of Tokyo was still blue.
+Dialogue: 0,0:37:00.90,0:37:01.52,[Mimura],,0,0,0,,I got it.
+Dialogue: 0,0:37:01.52,0:37:05.67,[Mimura],,0,0,0,,“Golden Week just ended so the sky of Tokyo was still blue.”
+Dialogue: 0,0:37:05.67,0:37:10.88,[Otake],,0,0,0,,To that, someone quickly replied, “That has nothing to do with Golden Week, lol.”
+Dialogue: 0,0:37:10.88,0:37:13.05,[Otake],,0,0,0,,But that’s not what I meant.
+Dialogue: 0,0:37:13.05,0:37:17.32,[Mimura],,0,0,0,,That’s where the fun of tweeting begins!
+Dialogue: 0,0:37:14.92,0:37:17.32,[Otake],,0,0,0,,What?! The expert speaks!
+Dialogue: 0,0:37:17.32,0:37:20.29,[Mimura],,0,0,0,,{\fs36}This is where it starts!
+Dialogue: 0,0:37:20.29,0:37:25.29,[Mimura] - Align Left,,0,0,0,,{\pos(317,394)}Because during Golden Week, \N\N\Nthe factories in Tokyo are closed,
+Dialogue: 0,0:37:23.50,0:37:25.29,[Otake],,0,0,0,,{\pos(336,273)}and because there are fewer cars,
+Dialogue: 0,0:37:25.29,0:37:30.06,[Otake],,0,0,0,,{\pos(178,266)}so the sky...
+Dialogue: 0,0:37:26.39,0:37:29.85,[Mimura] - Align Left,,0,0,0,,{\pos(314,350)}becomes blue.  People from other \Nareas might not understand,
+Dialogue: 0,0:37:29.85,0:37:31.97,[Mimura],,0,0,0,,{\pos(484,348)}but this is Tokyo trivia.
+Dialogue: 0,0:37:31.97,0:37:33.07,[Otake],,0,0,0,,That’s what I meant.
+Dialogue: 0,0:37:33.07,0:37:37.34,[Mimura],,0,0,0,,{\fs38}So tweet that!
+Dialogue: 0,0:37:37.02,0:37:37.91,[Otake],,0,0,0,,What was it again?
+Dialogue: 0,0:37:37.91,0:37:41.41,[Mimura],,0,0,0,,That’s how you feel out the communication!
+Dialogue: 0,0:37:40.99,0:37:42.29,[Mimura],,0,0,0,,Then they’ll say,
+Dialogue: 0,0:37:42.29,0:37:48.28,[Mimura] - Align Left,Typeset,0,0,0,,{\pos(49,386)}“Oh, Mr. Otake said something good,” \N\N{\alpha&HFF&\t(2600,200,\alpha&H00&)}and then you get more followers!
+Dialogue: 0,0:37:48.68,0:37:49.92,[Otake],,0,0,0,,I see.
+Dialogue: 0,0:37:49.92,0:37:54.95,[Mimura],,0,0,0,,But {\alpha&HFF&\t(1785,200,\alpha&H00&)}unless you see more of the reaction first…
+Dialogue: 0,0:37:54.95,0:37:58.16,[Mimura],,0,0,0,,{\move(360,390,720,700,3000,3500)}because there might be people out there who \N\N{\alpha&HFF&\t(1450,200,\alpha&H00&)}get it, so the rebuttals might come quickly.
+Dialogue: 0,0:37:58.09,0:38:00.89,[Otake],,0,0,0,,Why, you just told me to tweet it right now!
+Dialogue: 0,0:38:00.89,0:38:03.06,[Otake],,0,0,0,,{\pos(153,323)}Cancel!
+Dialogue: 0,0:38:01.52,0:38:03.06,[Mimura],,0,0,0,,You observe it for a while.
+Dialogue: 0,0:38:03.06,0:38:06.77,[Mimura],,0,0,0,,You have to understand what the followers are feeling.
+Dialogue: 0,0:38:06.77,0:38:11.74,[Otake],,0,0,0,,{\pos(330,317)}There aren’t many that are replying right now!
+Dialogue: 0,0:38:09.33,0:38:11.74,[Mimura],,0,0,0,,{\pos(521,263)}Because you haven’t waited!
+Dialogue: 0,0:38:12.10,0:38:21.99,Narrator,,0,0,0,,Thus, while the members were forced to start Twitter by Rola, they were enjoying it for the time being.
+Dialogue: 0,0:38:21.99,0:38:23.33,Narrator,,0,0,0,,Then:
+Dialogue: 0,0:38:24.00,0:38:31.02,Narrator,,0,0,0,,The competition over follower numbers revealed amazing numbers.
+Dialogue: 0,0:38:32.18,0:38:35.76,[Hamada],,0,0,0,,The results of the Twitter follower numbers competition!
+Dialogue: 0,0:38:42.23,0:38:45.00,[Hamada],,0,0,0,,It has been one week. It seems that you all were tweeting a lot.
+Dialogue: 1,0:38:45.17,0:38:52.81,THE OVERLAYS!~,,0,0,0,,{\move(355,460,355,291,175,0)}# of Tweets
+Dialogue: 0,0:38:45.17,0:38:52.81,Overlay (Tweet #),,0,0,0,,{\move(355,460,355,291,175,0)}###########\
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\pos(120,375)}Udo
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\pos(215,375)}Amano
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\pos(307,375)}Hotohara
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\pos(402,375)}Otake
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\pos(497,375)}Mimura
+Dialogue: 1,0:38:45.24,0:38:52.81,THE OVERLAYS!~ - Names,,0,0,0,,{\fs24\pos(591,375)}Matsumoto
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(120,372)\1c&HC334FF&\3c&HC334FF&}Udo###
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(215,372)\c&H003E7F&\3c&H003E7F&}Amano
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(307,372)\c&H90CB00&\3c&H90CB00&}Hotohara
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(402,372)\c&H028BFD&\3c&H0088FF&}Otake###
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(497,372)\c&H0C7B00&\3c&H0A7800&}Mimura
+Dialogue: 0,0:38:45.24,0:38:52.81,Another Overlay,,0,0,0,,{\pos(591,372)\c&H181BB7&\3c&H181BB7&}Matsumo
+Dialogue: 2,0:38:46.51,0:38:48.51,[Otake],,0,0,0,,{\pos(400,266)}Just one person!
+Dialogue: 2,0:38:47.27,0:38:48.51,Default,,0,0,0,,That’s right.
+Dialogue: 2,0:38:48.97,0:38:50.94,[Miyasako],,0,0,0,,Who got extremely into it
+Dialogue: 2,0:38:50.13,0:38:50.94,[Matsumoto],,0,0,0,,Yes.
+Dialogue: 0,0:38:51.72,0:38:53.47,[Matsumoto],,0,0,0,,Who was really feeling it.
+Dialogue: 0,0:38:53.35,0:38:57.18,[Mimura],,0,0,0,,This right here felt like my hand.
+Dialogue: 0,0:38:57.18,0:39:00.19,[Miyasako],,0,0,0,,{\an1\pos(41,392)}He’s definitely going to continue tweeting \N\N{\alpha&HFF&\t(1590,200,\alpha&H00&)}even after the competition ends.
+Dialogue: 0,0:39:00.19,0:39:03.62,[Matsumoto],,0,0,0,,{\pos(547,285)}Are you going to continue?
+Dialogue: 0,0:39:02.05,0:39:03.62,[Mimura],,0,0,0,,Am I not allowed to continue?
+Dialogue: 0,0:39:03.97,0:39:06.32,Default,,0,0,0,,No, no, of course you’re allowed to continue.
+Dialogue: 0,0:39:06.82,0:39:12.00,Default,,0,0,0,,Let’s take a look at some of the exchanges the members had that became popular.
+Dialogue: 0,0:39:12.48,0:39:16.00,Default,,0,0,0,,This tweet by Matsumoto was how it began.
+Dialogue: 0,0:39:17.47,0:39:19.74,[Matsumoto],,0,0,0,,I didn’t have anything to tweet about,
+Dialogue: 0,0:39:19.74,0:39:22.68,[Matsumoto],,0,0,0,,so being almost Hamada’s birthday, I tweeted,
+Dialogue: 0,0:39:22.68,0:39:24.91,[Matsumoto],,0,0,0,,“Like I got anything to do with that!”
+Dialogue: 0,0:39:26.51,0:39:31.25,[Matsumoto],,0,0,0,, This is where the hell started.
+Dialogue: 0,0:39:31.25,0:39:33.55,[Matsumoto],,0,0,0,,Everyone would— the members would tweet all these things.
+Dialogue: 0,0:39:33.55,0:39:35.72,[Matsumoto],,0,0,0,,These would normally go to Hamada.
+Dialogue: 0,0:39:35.72,0:39:39.96,[Matsumoto],,0,0,0,,But Hamada’s not on Twitter so they all came to me!
+Dialogue: 0,0:39:39.29,0:39:41.38,[Matsumoto],,0,0,0,,“Congratulations, Mr. Hamada!”
+Dialogue: 0,0:39:40.81,0:39:42.89,[Mimura],,0,0,0,,Since Mr. Matsumoto is the closest to Mr. Hamada.
+Dialogue: 0,0:39:42.89,0:39:43.98,[Hamada],,0,0,0,,I see.
+Dialogue: 0,0:39:44.33,0:39:45.18,[Matsumoto],,0,0,0,,Mimura sent one, too.
+Dialogue: 0,0:39:45.18,0:39:51.40,[Matsumoto],,0,0,0,,“Thanks, Mimura.  Such a happy occasion.  Like I got anything to do with that!” I tsukkomi-ed again.
+Dialogue: 0,0:39:49.78,0:39:51.40,[Mimura],,0,0,0,,A play-along tsukkomi.
+Dialogue: 0,0:39:51.40,0:39:57.20,[Matsumoto],,0,0,0,,The play-along tsukkomi, it keeps coming.  Udo ,all over here.  “Happy Birthday, Mr. Hamada!”
+Dialogue: 0,0:39:58.69,0:40:01.01,[Matsumoto],,0,0,0,,After a while, I got tired,
+Dialogue: 0,0:40:01.50,0:40:04.80,[Matsumoto],,0,0,0,,and I was saying “Like I got anything to do with that!”
+Dialogue: 0,0:40:04.98,0:40:09.12,[Matsumoto],,0,0,0,,But it still wouldn’t stop.
+Dialogue: 0,0:40:09.12,0:40:12.02,[Matsumoto],,0,0,0,,It still wouldn’t stop, so I just gave up and said, “I’m gonna go buy a present.”
+Dialogue: 0,0:40:12.02,0:40:13.10,[Mimura],,0,0,0,,You were broken.
+Dialogue: 0,0:40:13.30,0:40:14.16,Default,,0,0,0,,He just went along with it.
+Dialogue: 0,0:40:14.43,0:40:16.56,[Matsumoto],,0,0,0,,But it still kept going.
+Dialogue: 0,0:40:16.86,0:40:22.00,[Matsumoto],,0,0,0,,It still kept going.  Here, from Amano.  From Hoto, too, I think.
+Dialogue: 0,0:40:22.40,0:40:22.90,[Matsumoto],,0,0,0,,Here.
+Dialogue: 0,0:40:23.00,0:40:24.00,[Mimura],,0,0,0,,“Completely late.”
+Dialogue: 0,0:40:24.10,0:40:30.68,[Matsumoto],,0,0,0,,“Congratulations.” There was no use, so I thought if it comes to this, “It’s a party! Don’t tell Hamada.”
+Dialogue: 0,0:40:31.63,0:40:33.00,[Mimura],,0,0,0,,“Going to bed.”  The End.
+Dialogue: 0,0:40:33.15,0:40:35.30,[Amano],,0,0,0,,That was a sign meaning “The End.”
+Dialogue: 0,0:40:35.80,0:40:39.28,[Matsumoto],,0,0,0,,This whole time was really tiring.
+Dialogue: 0,0:40:39.28,0:40:44.52,[Matsumoto] - Align Left,,0,0,0,,{\pos(87,388)}That day was a rest day for me. \N\N\N{\alpha&HFF&\t(1560,200,\alpha&H00&)}I couldn’t rest at all!
+Dialogue: 0,0:40:45.14,0:40:48.74,Narrator,,0,0,0,,So the members had some pleasant Twitter exchanges.
+Dialogue: 0,0:40:48.74,0:40:51.58,Narrator,,0,0,0,,There is a message from Rola for them.
+Dialogue: 0,0:40:53.13,0:40:55.40,[Rola],,0,0,0,,Boo!
+Dialogue: 0,0:40:55.40,0:40:57.27,[Rola],,0,0,0,,Yay! How are you?
+Dialogue: 0,0:40:57.27,0:40:58.87,[Rola],,0,0,0,,I can’t be there today,
+Dialogue: 0,0:40:58.87,0:41:05.78,[Rola],,0,0,0,,but I’m going to present, um, the batsu game for the person with the fewest followers now.
+Dialogue: 0,0:41:06.68,0:41:08.81,[Rola],,0,0,0,,Last place will…
+Dialogue: 0,0:41:08.81,0:41:12.85,[Rola],,0,0,0,,have embarrassing photos of them tweeted by everyone!
+Dialogue: 0,0:41:16.79,0:41:22.01,[Rola],,0,0,0,,Start taking photos of the last place person and upload them.
+Dialogue: 0,0:41:22.01,0:41:23.12,[Rola],,0,0,0,,I think Mr. Otohara will be in last place.
+Dialogue: 0,0:41:23.12,0:41:26.80,[Rola],,0,0,0,,{\fs36\clip(107,293,109,400)\t(0,1600,\clip(107,293,650,400)}Mr. Otohara will be in last place~.
+Dialogue: 0,0:41:24.26,0:41:27.90,[Hotohara],,0,0,0,,{\fs20\pos(548,207)}That’s wrong.  It’s “Ho-”, ok?  It’s “Ho-.”
+Dialogue: 0,0:41:26.80,0:41:29.10,[Rola],,0,0,0,,See you, bye!
+Dialogue: 0,0:41:28.25,0:41:31.60,[Hamada],,0,0,0,,The batsu game is this.
+Dialogue: 0,0:41:31.14,0:41:31.84,[Miyasako],,0,0,0,,Here.
+Dialogue: 0,0:41:34.47,0:41:35.53,[Amano],,0,0,0,,The face bit?
+Dialogue: 0,0:41:35.53,0:41:36.27,[Mimura],,0,0,0,,Wakky’s thing.
+Dialogue: 1,0:41:36.27,0:41:40.95,[Miyasako],,0,0,0,,Do these face bits {\alpha&HFF&\t(1160,200,\alpha&H00&)}with maximum effort.
+Dialogue: 0,0:41:40.95,0:41:42.31,[Amano],,0,0,0,,Nine of them?
+Dialogue: 0,0:41:42.91,0:41:44.78,[Miyasako],,0,0,0,,{\pos(554,210)}Well, all of them!
+Dialogue: 0,0:41:45.22,0:41:50.93,Narrator,,0,0,0,,The batsu game is to do an impression of Wakky’s face bits and have them spread out on Twitter.
+Dialogue: 0,0:41:50.93,0:41:54.02,Narrator,,0,0,0,,Once they’re circulated, there’s no taking the photos down.
+Dialogue: 0,0:41:54.43,0:41:58.05,Narrator,,0,0,0,,And now, the competition over getting followers over one week:
+Dialogue: 0,0:41:58.05,0:42:02.27,Narrator,,0,0,0,,presenting the first place person, who attracted an amazing number of followers:
+Dialogue: 0,0:42:02.51,0:42:03.70,[Hamada],,0,0,0,,First place is:
+Dialogue: 0,0:42:04.94,0:42:09.57,Narrator,,0,0,0,,The first place finisher’s amazing numbers actually set a new record in Japan.
+Dialogue: 0,0:42:10.16,0:42:14.55,Narrator,,0,0,0,,Wallpapers of the opening animation are now available on Android.
+Dialogue: 0,0:42:14.71,0:42:19.55,Narrator,,0,0,0,,Don’t forget to watch hilarious videos from Lincoln.
+Dialogue: 0,0:42:19.55,0:42:20.89,[Hamada],,0,0,0,,First place is:
+Dialogue: 0,0:42:22.53,0:42:26.21,Default,,0,0,0,,Mr. Matsumoto. Wow. In one week!
+Dialogue: 0,0:42:28.58,0:42:35.78,Default,,0,0,0,,Matsumoto’s followers are still increasing and have passed 520,000.
+Dialogue: 0,0:42:35.78,0:42:44.08,Default,,0,0,0,,He is the only person in Japan to have passed 520,000 followers with just 39 tweets.
+Dialogue: 0,0:42:44.08,0:42:46.36,[Hamada],,0,0,0,,Now, second place is:
+Dialogue: 0,0:42:46.75,0:42:47.37,[Mimura],,0,0,0,,Yes!
+Dialogue: 0,0:42:47.57,0:42:49.04,Default,,0,0,0,,There it is.
+Dialogue: 0,0:42:53.54,0:42:58.89,[Matsumoto],,0,0,0,,If it keeps going like this, this is gonna be crazy.
+Dialogue: 0,0:42:58.55,0:42:59.46,[Mimura],,0,0,0,,But, really,
+Dialogue: 0,0:42:59.46,0:43:03.63,[Mimura] - Align Left,,0,0,0,,{\pos(76,346)}Miyasako’s one million followers?
+Dialogue: 0,0:43:01.06,0:43:03.63,[Mimura] - Align Left,,0,0,0,,{\pos(76,390)}That’s what's really amazing.
+Dialogue: 0,0:43:03.63,0:43:06.73,[Amano],,0,0,0,,{\pos(275,393)}But that's a longer time.
+Dialogue: 0,0:43:04.30,0:43:06.73,[Otake],,0,0,0,,{\pos(532,315)}You just had one week.
+Dialogue: 0,0:43:06.73,0:43:08.34,[Hamada],,0,0,0,,Third place is:
+Dialogue: 0,0:43:09.28,0:43:10.29,[Miyasako],,0,0,0,,Mr. Otake.
+Dialogue: 0,0:43:10.64,0:43:11.13,[Otake],,0,0,0,,Not bad.
+Dialogue: 0,0:43:11.92,0:43:13.03,[Miyasako],,0,0,0,,300,000.
+Dialogue: 0,0:43:13.32,0:43:15.27,[Matsumoto],,0,0,0,,Well, Otake didn’t tweet that often.
+Dialogue: 0,0:43:17.85,0:43:22.21,Narrator,,0,0,0,,Who will receive the batsu game!?
+Dialogue: 0,0:43:22.21,0:43:24.58,[Hotohara],,0,0,0,,{\pos(279,298)}Fourth place is good for me!
+Dialogue: 0,0:43:24.58,0:43:27.01,[Hamada],,0,0,0,,Fourth place is:
+Dialogue: 0,0:43:28.56,0:43:29.81,[Udo],,0,0,0,,Yes!
+Dialogue: 0,0:43:30.90,0:43:31.74,[Hotohara],,0,0,0,,Uh oh.
+Dialogue: 0,0:43:31.74,0:43:32.31,[Amano],,0,0,0,,This is bad.
+Dialogue: 0,0:43:33.58,0:43:35.83,[Matsumoto],,0,0,0,,So it’s one way or the other way.
+Dialogue: 0,0:43:36.53,0:43:38.46,[Hamada],,0,0,0,,We’ll uncover them in one go.
+Dialogue: 0,0:43:38.46,0:43:41.60,[Matsumoto],,0,0,0,,What I heard is that it’s surprisingly close!
+Dialogue: 0,0:43:40.48,0:43:41.60,[Amano],,0,0,0,,I don’t even wanna—
+Dialogue: 0,0:43:41.60,0:43:44.24,[Hotohara],,0,0,0,,{\pos(508,393)}This is bad!
+Dialogue: 0,0:43:42.60,0:43:45.00,[Hamada],,0,0,0,,It’s as of 4PM today.
+Dialogue: 0,0:43:45.64,0:43:46.57,[Otake],,0,0,0,,Down to the wire.
+Dialogue: 0,0:43:46.57,0:43:48.41,[Hamada],,0,0,0,,The two left are Hoto and Amano.
+Dialogue: 0,0:43:48.41,0:43:49.78,[Hamada],,0,0,0,,Let’s uncover them in one go.
+Dialogue: 0,0:43:49.78,0:43:51.84,[Hamada],,0,0,0,,The one on the bottom is the last place person.
+Dialogue: 0,0:43:51.84,0:43:53.05,[Hamada],,0,0,0,,Open!
+Dialogue: 0,0:43:55.29,0:43:57.06,[Matsumoto],,0,0,0,,It’s Mr. Otohara!
+Dialogue: 0,0:43:56.42,0:44:00.16,[Hotohara],,0,0,0,,It’s “Hoto-.”“Ho-.” It’s “Hoto-!”
+Dialogue: 0,0:44:00.16,0:44:01.29,[Miyasako],,0,0,0,,Rola was right.
+Dialogue: 0,0:44:01.15,0:44:02.23,[Otake],,0,0,0,,It was close.
+Dialogue: 0,0:44:01.43,0:44:03.54,[Hamada],,0,0,0,,It was as Rola said it. {Timing?}
+Dialogue: 0,0:44:04.72,0:44:06.33,[Matsumoto],,0,0,0,,The difference is 7,000 and change.
+Dialogue: 0,0:44:06.01,0:44:06.98,[Otake],,0,0,0,,You’re right.
+Dialogue: 0,0:44:08.16,0:44:10.13,[Hotohara],,0,0,0,,{\pos(266,295)}Wait a minute!
+Dialogue: 0,0:44:10.13,0:44:15.03,[Hotohara],typeset,0,0,0,,I… when Rola was here… the {\alpha&HFF&\t(3300,200,\alpha&H00&)}{\c&H1A16C7&\4c&H88C400&}60,000 people.
+Dialogue: 0,0:44:15.23,0:44:16.54,[Matsumoto],,0,0,0,,{\pos(477,266)}Oh!
+Dialogue: 0,0:44:16.54,0:44:19.67,[Hotohara] - Align Left,,0,0,0,,{\pos(78,385)}She said “{\c&HBF37FB&\4c&H88C400&}That’ll be a good {\c&H000000&}handicap{\c&HBF37FB&\4c&H88C400&} for you{\r[Hotohard] - Align Left},”\N\N {\alpha&HFF&\t(1350,200,\alpha&H00&)}and it pissed me off, {1350 delay}
+Dialogue: 0,0:44:19.67,0:44:22.11,[Hotohara],typeset,0,0,0,,but won’t the {\c&H1F17C1&\4c&H88C400&}60,000 {\r[Hotohara]}get added?
+Dialogue: 0,0:44:19.67,0:44:22.11,[Hamada],,0,0,0,,So it hasn’t been included.
+Dialogue: 0,0:44:22.11,0:44:23.81,[Udo],,0,0,0,,Yes, Mr. Hotohara.
+Dialogue: 0,0:44:23.01,0:44:23.81,[Hamada],,0,0,0,,So Hoto —
+Dialogue: 0,0:44:23.81,0:44:25.88,[Hotohara],,0,0,0,,What happens for me?
+Dialogue: 0,0:44:25.88,0:44:27.78,[Hotohara],,0,0,0,,The{\c&H1718C9&\4c&H89CD00&} 60,000 {\r[Hotohara]}followers I had?
+Dialogue: 0,0:44:27.78,0:44:31.95,[Rola],,0,0,0,,It’ll be a perfect {\alpha&HFF&\t(450,10,\alpha&H00&)\c&H000000&\4c&H9925DD&}handicap {\c&H9925DD&\4c&H000000&}for you!
+Dialogue: 0,0:44:30.72,0:44:31.44,[Hotohara],,0,0,0,,{\pos(360,317)}Hey.
+Dialogue: 0,0:44:31.95,0:44:34.22,[Hotohara],,0,0,0,,That’s enough from you!
+Dialogue: 0,0:44:34.22,0:44:36.39,[Hotohara],,0,0,0,,That hasn’t been included.
+Dialogue: 0,0:44:36.39,0:44:39.93,[Hotohara],,0,0,0,,{\pos(480,388)}170,000 followers!
+Dialogue: 0,0:44:36.39,0:44:39.93,[Matsumoto],,0,0,0,,{\pos(178,388)}There might be some overlap.
+Dialogue: 0,0:44:39.93,0:44:42.86,[Amano] - Align Left,,0,0,0,,{\pos(43,383)}If he’s going to be that desperate about it, \N\N{\fs38\alpha&HFF&\t(1415,200,\alpha&H00&)}I’m fine with it!
+Dialogue: 0,0:44:42.86,0:44:47.57,Caption Wizard,,0,0,0,,{\pos(545,312)}Huh?!
+Dialogue: 0,0:44:49.90,0:44:51.40,[Hotohara],,0,0,0,,What is this?
+Dialogue: 0,0:44:52.30,0:44:54.41,[Matsumoto],,0,0,0,,Which do you want?
+Dialogue: 0,0:44:55.71,0:44:58.64,[Matsumoto],,0,0,0,,It feels like you were just told by Amano \N\N{\alpha&HFF&\t(819,200,\alpha&H00&)}and you’re just doing what he says!
+Dialogue: 0,0:44:58.64,0:45:01.45,[Hamada],,0,0,0,,Do you want to take the handicap or not?
+Dialogue: 0,0:45:01.45,0:45:03.12,[Hotohara],,0,0,0,,I’ll take it!!
+Dialogue: 0,0:45:03.12,0:45:06.55,Caption Wizard,,0,0,0,,{\pos(465,315)}He has taken the handicap.
+Dialogue: 0,0:45:03.99,0:45:06.55,[Amano],,0,0,0,,So you’re gonna take it.
+Dialogue: 0,0:45:06.02,0:45:09.76,[Hamada],,0,0,0,,Understood, so the last place person is Amano Hiroyuki!
+Dialogue: 0,0:45:10.33,0:45:13.93,[Amano],,0,0,0,,I was 700 behind Udo.
+Dialogue: 0,0:45:13.93,0:45:14.96,[Hamada],,0,0,0,,Which do you want to do?
+Dialogue: 0,0:45:14.96,0:45:16.05,[Amano],,0,0,0,,The bottom left, please.
+Dialogue: 0,0:45:15.78,0:45:16.93,[Hamada],,0,0,0,,Ok, the bottom left.
+Dialogue: 0,0:45:24.50,0:45:26.97,[Amano],,0,0,0,,{\fs26\pos(360,277)}Maybe I was a face bit-type of guy all along?
+Dialogue: 0,0:45:27.57,0:45:29.54,[Matsumoto],,0,0,0,,{\fs26\pos(360,278)}I’d like an original work!
+Dialogue: 0,0:45:29.84,0:45:33.58,[Amano],,0,0,0,,Making me think… You’re really horrible.
+Dialogue: 0,0:45:36.52,0:45:40.39,[Matsumoto],,0,0,0,,{\fs26\pos(360,277)}If he really wants to do that, then.
+Dialogue: 0,0:45:40.39,0:45:42.32,[Amano],,0,0,0,,{\pos(360,341)}We’re never gonna finish!
+Dialogue: 0,0:45:47.65,0:45:48.88,[Matsumoto],,0,0,0,,Nice, nice.
+Dialogue: 0,0:45:48.88,0:45:49.49,[Miyasako],,0,0,0,,An original.
+Dialogue: 0,0:45:49.49,0:45:50.90,[Matsumoto],,0,0,0,,Yeah, an original.
+Dialogue: 0,0:45:54.23,0:45:56.07,[Matsumoto],,0,0,0,,This one isn’t that…
+Dialogue: 0,0:45:55.20,0:45:56.07,[Amano],,0,0,0,,Why the hell.
+Dialogue: 0,0:45:58.74,0:46:01.07,[Hamada],,0,0,0,,For those who are continuing, please do continue tweeting.
+Dialogue: 0,0:46:01.07,0:46:02.82,[Hamada],,0,0,0,,Thank you very much.
+Dialogue: 0,0:46:02.82,0:46:04.99,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:46:07.53,0:46:09.00,[Rola],,0,0,0,,Ok, bye everyone!
+Dialogue: 1,0:46:07.00,0:46:14.00,Tweet Text,,0,0,0,,{\fs20\move(123,200,123,295,250,0)\clip(38,178,673,369)}Good work everyone! \NHow was it?? I wish I could be there!
+Dialogue: 0,0:46:07.00,0:46:14.00,Twitter Overlay 1,,0,0,0,,{\move(43,200,43,341,250,0)\clip(42,177,670,311)}#######################################################################\N#######################################################################\N#######################################################################\N#######################################################################
+

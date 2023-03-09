@@ -1,0 +1,1076 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: zwanster fix
+Audio File: WEDNESDAY DOWNTOWN 2021-09-01.mp4
+Video File: WEDNESDAY DOWNTOWN 2021-09-01.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 14
+Active Line: 15
+Video Position: 1579
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,42,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_2,Arial,40,&H00FFFFFF,&H000000FF,&H000F80D8,&H00000000,0,0,0,0,100,135,0,0,1,1.5,0,2,10,10,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000019FF,&H5A353535,&H00000000,0,0,0,0,133.333,135,0,0,1,3,1,8,13,13,10,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 1,0:43:05.38,0:43:06.63,normal_Wed,,0,0,0,,Yes its really being installed
+Dialogue: 0,0:00:02.88,0:00:05.20,normal_Wed,,0,0,0,,Today's presenters are the same as last week
+Dialogue: 0,0:00:05.20,0:00:07.20,normal_Wed,,0,0,0,,Please welcome, FUJIWARA
+Dialogue: 0,0:00:09.34,0:00:11.64,normal_Wed,,0,0,0,,This is a continuation of last week
+Dialogue: 0,0:00:11.64,0:00:14.32,normal_Wed,,0,0,0,,Today is also Kuro-chan's life on an uninhabited island
+Dialogue: 0,0:00:15.86,0:00:18.50,normal_Wed,,0,0,0,,Firstly, a brief recap
+Dialogue: 0,0:00:18.74,0:00:20.64,normal_Wed,,0,0,0,,A room was built on an uninhabited island
+Dialogue: 0,0:00:20.64,0:00:24.47,normal_Wed,,0,0,0,,All of Kuro-chan's items were transported to it
+Dialogue: 0,0:00:24.47,0:00:29.47,normal_Wed,,0,0,0,,After which the drunken Kuro-chan was also moved there
+Dialogue: 0,0:00:29.47,0:00:33.78,normal_Wed,,0,0,0,,While there, if he collects 7 balls he can make a wish
+Dialogue: 0,0:00:33.78,0:00:40.86,normal_Wed,,0,0,0,,Through a mixture of rock and tree climbing as well as swimming, Kuro-chan was able to finally collect all 7
+Dialogue: 0,0:00:40.86,0:00:42.45,normal_Wed,,0,0,0,,So, ladies and gentlemen
+Dialogue: 0,0:00:42.45,0:00:44.79,normal_Wed,,0,0,0,,What will happen next?
+Dialogue: 0,0:00:46.79,0:00:48.90,normal_Wed,,0,0,0,,Being able to get home so quickly wouldn't be great
+Dialogue: 0,0:00:48.90,0:00:50.30,normal_Wed,,0,0,0,,What other drama can unfold?
+Dialogue: 0,0:00:50.30,0:00:51.90,normal_Wed,,0,0,0,,There's more
+Dialogue: 0,0:00:51.90,0:00:55.07,normal_Wed,,0,0,0,,By the way, the balls are quite big, right?
+Dialogue: 0,0:00:55.40,0:00:59.17,normal_Wed,,0,0,0,,So actually, he's entitled to him 3 wishes
+Dialogue: 0,0:00:59.17,0:01:02.47,normal_Wed,,0,0,0,,What do you think Kuro-chan will wish for?
+Dialogue: 0,0:01:02.47,0:01:05.81,normal_Wed,,0,0,0,,Maybe one of the girls from SUN TV
+Dialogue: 0,0:01:05.81,0:01:07.65,normal_Wed,,0,0,0,,Possible, possible
+Dialogue: 0,0:01:09.48,0:01:13.04,normal_Wed,,0,0,0,,Maybe his own show as reward for putting him through all of this
+Dialogue: 0,0:01:13.04,0:01:17.49,normal_Wed,,0,0,0,,Since the Wednesday Downtown staff put him through so much
+Dialogue: 0,0:01:17.96,0:01:19.22,normal_Wed,,0,0,0,,Thus
+Dialogue: 0,0:01:19.74,0:01:21.23,normal_Wed,,0,0,0,,Got all 7!
+Dialogue: 0,0:01:21.49,0:01:26.20,normal_Wed,,0,0,0,,Next I'm going to make my wish come true
+Dialogue: 0,0:01:26.20,0:01:27.63,normal_Wed,,0,0,0,,I want to escape from here
+Dialogue: 0,0:01:27.28,0:01:28.32,wipe_Wed,,0,0,0,,Can you go back now?
+Dialogue: 0,0:01:28.33,0:01:30.30,normal_Wed,,0,0,0,,Finally I can go back
+Dialogue: 0,0:01:30.88,0:01:34.88,normal_Wed,,0,0,0,,It took Kuro-chan three days to finally collect all of the balls
+Dialogue: 0,0:01:35.44,0:01:37.04,normal_Wed,,0,0,0,,I have collected 7 balls
+Dialogue: 0,0:01:37.04,0:01:40.08,normal_Wed,,0,0,0,,Can I get my wish now?
+Dialogue: 0,0:01:40.24,0:01:42.35,normal_Wed,,0,0,0,,Make my wish come true-
+Dialogue: 0,0:01:44.72,0:01:49.05,normal_Wed,,0,0,0,,What's that sound?
+Dialogue: 0,0:01:48.08,0:01:49.20,wipe_Wed,,0,0,0,,Come back quickly! Come back quickly!
+Dialogue: 0,0:01:49.05,0:01:51.62,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:01:53.06,0:01:55.26,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:01:55.26,0:01:57.30,normal_Wed,,0,0,0,,Why is the drone coming?
+Dialogue: 0,0:01:57.60,0:02:02.03,normal_Wed,,0,0,0,,Wait a minute... it shouldn't be a drone
+Dialogue: 0,0:02:02.70,0:02:03.67,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:02:03.67,0:02:06.17,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}Come on, say your wish.
+Dialogue: 0,0:02:06.17,0:02:08.84,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can grant you any 3 wishes
+Dialogue: 0,0:02:09.07,0:02:11.28,normal_Wed,,0,0,0,,The drone speaks
+Dialogue: 0,0:02:10.22,0:02:11.28,wipe_Wed,,0,0,0,,It can talk?
+Dialogue: 0,0:02:11.28,0:02:12.68,normal_Wed,,0,0,0,,Is the drone Shenlong!?
+Dialogue: 0,0:02:12.68,0:02:16.72,normal_Wed,,0,0,0,,Because the balls are so big I can get three wishes?
+Dialogue: 0,0:02:16.72,0:02:19.15,normal_Wed,,0,0,0,,I can say anything, right?
+Dialogue: 0,0:02:19.15,0:02:20.22,normal_Wed,,0,0,0,,Then,
+Dialogue: 0,0:02:20.55,0:02:24.69,normal_Wed,,0,0,0,,I want my own show!
+Dialogue: 0,0:02:23.86,0:02:24.69,wipe_Wed,,0,0,0,,You got it, Degawa
+Dialogue: 0,0:02:24.69,0:02:25.89,normal_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:02:25.89,0:02:28.03,normal_Wed,,0,0,0,,Bingo!
+Dialogue: 0,0:02:28.03,0:02:32.80,normal_Wed,,0,0,0,,Kuro-chan's first wish has nothing to do with the island
+Dialogue: 0,0:02:32.80,0:02:34.94,normal_Wed,,0,0,0,,Surprisingly, it's his own show
+Dialogue: 0,0:02:33.20,0:02:35.38,wipe_Wed,,0,0,0,,Shouldn't he find a way to get back first?
+Dialogue: 0,0:02:36.54,0:02:38.60,normal_Wed,,0,0,0,,Give me my own show!
+Dialogue: 0,0:02:40.31,0:02:41.91,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't do that
+Dialogue: 0,0:02:41.91,0:02:43.88,normal_Wed,,0,0,0,,Why?
+Dialogue: 0,0:02:43.30,0:02:44.84,wipe_Wed,,0,0,0,,That just wouldn't be possible
+Dialogue: 0,0:02:43.88,0:02:45.84,normal_Wed,,0,0,0,,Can't I wish for anything?
+Dialogue: 0,0:02:46.28,0:02:49.31,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't make that wish come true
+Dialogue: 0,0:02:49.58,0:02:51.45,normal_Wed,,0,0,0,,No. What's with this lack of ability?
+Dialogue: 0,0:02:51.45,0:02:52.88,normal_Wed,,0,0,0,,That's reasonable
+Dialogue: 0,0:02:52.88,0:02:53.92,normal_Wed,,0,0,0,,Consistent
+Dialogue: 0,0:02:54.25,0:02:56.02,normal_Wed,,0,0,0,,Why can't you do it?
+Dialogue: 0,0:02:56.35,0:03:01.83,normal_Wed,,0,0,0,,Well, first let me go back to Tokyo
+Dialogue: 0,0:03:01.83,0:03:03.50,normal_Wed,,0,0,0,,I want to go back to Tokyo
+Dialogue: 0,0:03:03.50,0:03:04.50,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't do that
+Dialogue: 0,0:03:04.50,0:03:06.67,normal_Wed,,0,0,0,,Why!?
+Dialogue: 0,0:03:06.67,0:03:09.67,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't make that wish come true
+Dialogue: 0,0:03:10.18,0:03:13.78,wipe_Wed,,0,0,0,,That's a little pathetic
+Dialogue: 0,0:03:09.67,0:03:12.70,normal_Wed,,0,0,0,,No, wait a minute. What {\i1}can{\i0} you do?
+Dialogue: 0,0:03:13.14,0:03:14.97,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}Come on, say your wish.
+Dialogue: 0,0:03:15.22,0:03:17.24,normal_Wed,,0,0,0,,I've been saying it since a while ago
+Dialogue: 0,0:03:17.71,0:03:21.78,normal_Wed,,0,0,0,,I want to leave this uninhabited island and go home
+Dialogue: 0,0:03:22.21,0:03:23.65,normal_Wed,,0,0,0,,That...
+Dialogue: 0,0:03:23.78,0:03:26.22,normal_Wed,,0,0,0,,Boat. Give me a boat
+Dialogue: 0,0:03:27.12,0:03:27.99,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I see
+Dialogue: 0,0:03:28.32,0:03:30.22,normal_Wed,,0,0,0,,It's amazing that {\i1}this{\i0} wish can be achieved!
+Dialogue: 0,0:03:30.42,0:03:32.72,normal_Wed,,0,0,0,,Such a weird wish!
+Dialogue: 0,0:03:33.43,0:03:35.36,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I've set up the boat on the beach
+Dialogue: 0,0:03:35.36,0:03:38.63,normal_Wed,,0,0,0,,Boat by the sea. Where is it?
+Dialogue: 0,0:03:37.08,0:03:40.36,wipe_Wed,,0,0,0,,Shenlong's ability is limited, sorry
+Dialogue: 0,0:03:39.14,0:03:42.44,normal_Wed,,0,0,0,,So, he begins searching along the coast
+Dialogue: 0,0:03:44.00,0:03:45.04,normal_Wed,,0,0,0,,Finally
+Dialogue: 0,0:03:46.30,0:03:49.37,normal_Wed,,0,0,0,,Wait a minute, is that it?
+Dialogue: 0,0:03:50.14,0:03:53.45,normal_Wed,,0,0,0,,It's this one. It's this one
+Dialogue: 0,0:03:53.58,0:03:57.32,normal_Wed,,0,0,0,,A small boat, I have a boat
+Dialogue: 0,0:03:53.50,0:03:54.82,wipe_Wed,,0,0,0,,That's good
+Dialogue: 0,0:03:57.32,0:03:59.82,normal_Wed,,0,0,0,,I've got a boat! A boat!
+Dialogue: 0,0:04:00.30,0:04:01.07,normal_Wed,,0,0,0,,But...
+Dialogue: 0,0:04:02.52,0:04:05.39,normal_Wed,,0,0,0,,Wait!
+Dialogue: 0,0:04:05.39,0:04:08.29,normal_Wed,,0,0,0,,There is no rowing thing!
+Dialogue: 0,0:04:08.29,0:04:11.86,normal_Wed,,0,0,0,,Where's the rowing thing? Where's the rowing thing?
+Dialogue: 0,0:04:11.86,0:04:13.37,normal_Wed,,0,0,0,,Where is the oar?
+Dialogue: 0,0:04:14.43,0:04:16.10,normal_Wed,,0,0,0,,Hey
+Dialogue: 0,0:04:16.37,0:04:19.27,normal_Wed,,0,0,0,,Why didn't you give me an oar?
+Dialogue: 0,0:04:19.27,0:04:22.57,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I'll prepare an oar for you, then
+Dialogue: 0,0:04:22.57,0:04:24.64,normal_Wed,,0,0,0,,Just one isn't enough, OK!?
+Dialogue: 0,0:04:24.64,0:04:26.38,normal_Wed,,0,0,0,,I need two, a pair!
+Dialogue: 0,0:04:26.78,0:04:28.28,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I understand
+Dialogue: 0,0:04:28.28,0:04:30.28,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}Fulfilling your second wish
+Dialogue: 0,0:04:30.28,0:04:32.05,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}Two oars for you
+Dialogue: 0,0:04:32.05,0:04:34.29,normal_Wed,,0,0,0,,No! Wait a second!
+Dialogue: 0,0:04:34.39,0:04:36.76,normal_Wed,,0,0,0,,So everyone, dragon humor, what do you think?
+Dialogue: 0,0:04:36.99,0:04:39.56,normal_Wed,,0,0,0,,Hey, the oar is the second wish? Wait a minute!
+Dialogue: 0,0:04:40.57,0:04:44.50,normal_Wed,,0,0,0,,And so, Kuro-chan uses up his second wish
+Dialogue: 0,0:04:44.50,0:04:47.73,normal_Wed,,0,0,0,,The last wish is
+Dialogue: 0,0:04:48.06,0:04:50.64,normal_Wed,,0,0,0,,In this case
+Dialogue: 0,0:04:50.64,0:04:52.67,normal_Wed,,0,0,0,,I want to become a rich man
+Dialogue: 0,0:04:52.97,0:04:55.94,normal_Wed,,0,0,0,,I want 1 billion. Give me 1 billion yen
+Dialogue: 0,0:04:55.44,0:04:56.10,wipe_Wed,,0,0,0,,There he goes
+Dialogue: 0,0:04:56.44,0:04:58.18,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't do this
+Dialogue: 0,0:04:58.18,0:04:59.48,normal_Wed,,0,0,0,,Why!?
+Dialogue: 0,0:04:58.24,0:04:59.48,wipe_Wed,,0,0,0,,Learn your lesson!
+Dialogue: 0,0:04:59.68,0:05:01.51,normal_Wed,,0,0,0,,100 million, 100 million
+Dialogue: 0,0:05:02.08,0:05:03.01,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't do this either
+Dialogue: 0,0:05:02.78,0:05:03.80,wipe_Wed,,0,0,0,,Isn't that bullshit?
+Dialogue: 0,0:05:03.98,0:05:06.82,normal_Wed,,0,0,0,,Give it to me, I've been working so hard
+Dialogue: 0,0:05:06.99,0:05:10.26,normal_Wed,,0,0,0,,1 million, 1 million, 1 million is doable, right?
+Dialogue: 0,0:05:08.34,0:05:09.66,wipe_Wed,,0,0,0,,Becoming less
+Dialogue: 0,0:05:09.66,0:05:10.40,wipe_Wed,,0,0,0,,Starting bargaining
+Dialogue: 0,0:05:10.26,0:05:11.66,normal_Wed,,0,0,0,,1 million yen
+Dialogue: 0,0:05:11.96,0:05:12.96,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}I can't do this either
+Dialogue: 0,0:05:12.96,0:05:14.76,normal_Wed,,0,0,0,,Why!?
+Dialogue: 0,0:05:14.76,0:05:16.83,normal_Wed,,0,0,0,,What about 100,000? 100,000
+Dialogue: 0,0:05:17.24,0:05:17.94,wipe_Wed,,0,0,0,,So real
+Dialogue: 0,0:05:17.76,0:05:20.43,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}Ok, here you go
+Dialogue: 0,0:05:20.83,0:05:23.10,normal_Wed,,0,0,0,,Is it possible?
+Dialogue: 0,0:05:23.10,0:05:24.74,normal_Wed,,0,0,0,,Although i'm happy
+Dialogue: 0,0:05:25.86,0:05:27.36,wipe_Wed,,0,0,0,,Such a realistic amount
+Dialogue: 0,0:05:25.22,0:05:26.84,normal_Wed,,0,0,0,,{\fnDFPGuYinMedium-B5}So, goodbye.
+Dialogue: 0,0:05:27.64,0:05:28.62,wipe_Wed,,0,0,0,,100,000 yen
+Dialogue: 0,0:05:26.84,0:05:28.57,normal_Wed,,0,0,0,,No, don't leave. Wait a minute
+Dialogue: 0,0:05:28.57,0:05:32.01,normal_Wed,,0,0,0,,100,000 is too little. 200,000!
+Dialogue: 0,0:05:32.16,0:05:33.02,wipe_Wed,,0,0,0,,It's come back
+Dialogue: 0,0:05:32.01,0:05:34.01,normal_Wed,,0,0,0,,10...wait a minute, wait a minute
+Dialogue: 0,0:05:34.01,0:05:37.88,normal_Wed,,0,0,0,,This is way worse that I expected
+Dialogue: 0,0:05:38.36,0:05:40.10,normal_Wed,,0,0,0,,And so, he succeeds in obtaining:
+Dialogue: 0,0:05:40.10,0:05:45.94,normal_Wed,,0,0,0,,A small boat, two oars and 100,000 yen
+Dialogue: 0,0:05:47.33,0:05:49.09,normal_Wed,,0,0,0,,What the hell, fulfill your 3 wishes
+Dialogue: 0,0:05:49.09,0:05:50.40,normal_Wed,,0,0,0,,Nothing was achieved
+Dialogue: 0,0:05:50.40,0:05:52.10,normal_Wed,,0,0,0,,Unfulfilled wishes are piled up
+Dialogue: 0,0:05:52.10,0:05:53.67,normal_Wed,,0,0,0,,{\fs65}What the hell!
+Dialogue: 0,0:05:53.67,0:05:56.00,normal_Wed,,0,0,0,,{\fad(650,0)}Incompetent rage
+Dialogue: 0,0:05:56.88,0:05:58.86,wipe_Wed,,0,0,0,,Fuming inside the room
+Dialogue: 0,0:05:58.27,0:06:02.34,normal_Wed,,0,0,0,,Unbelievable
+Dialogue: 0,0:06:02.64,0:06:05.71,normal_Wed,,0,0,0,,That said, I'm going
+Dialogue: 0,0:06:05.71,0:06:07.65,normal_Wed,,0,0,0,,You are responsible for putting the things in the room back for me!
+Dialogue: 0,0:06:07.65,0:06:10.35,normal_Wed,,0,0,0,,Remember to put everything back!
+Dialogue: 0,0:06:11.35,0:06:12.58,normal_Wed,,0,0,0,,{\fs65}Or i'll kill you!
+Dialogue: 0,0:06:12.58,0:06:14.79,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:06:15.12,0:06:18.52,normal_Wed,,0,0,0,,Angry Kuro-chan
+Dialogue: 0,0:06:19.16,0:06:21.82,wipe_Wed,,0,0,0,,There are too many killings declarations on this show
+Dialogue: 0,0:06:20.89,0:06:23.06,normal_Wed,,0,0,0,,Ah, moving moving moving
+Dialogue: 0,0:06:24.30,0:06:26.40,normal_Wed,,0,0,0,,I'm getting on, I'm getting on-
+Dialogue: 0,0:06:27.97,0:06:30.07,normal_Wed,,0,0,0,,Bye bye, uninhabited island!
+Dialogue: 0,0:06:30.74,0:06:34.77,normal_Wed,,0,0,0,,A successful escape from the uninhabited island
+Dialogue: 0,0:06:32.80,0:06:34.32,wipe_Wed,,0,0,0,,Is he rowing backward?
+Dialogue: 0,0:06:34.32,0:06:35.34,wipe_Wed,,0,0,0,,It's the other way around
+Dialogue: 0,0:06:35.27,0:06:37.54,normal_Wed,,0,0,0,,Super tiring
+Dialogue: 0,0:06:39.38,0:06:44.68,normal_Wed,,0,0,0,,It's too physically demanding. Life on an uninhabited island
+Dialogue: 0,0:06:45.48,0:06:49.92,normal_Wed,,0,0,0,,With manual labor and unfulfilled wishes
+Dialogue: 0,0:06:49.92,0:06:53.86,normal_Wed,,0,0,0,,He paddles for 3 hours towards the neighboring island
+Dialogue: 0,0:06:53.86,0:06:55.02,wipe_Wed,,0,0,0,,It took so long
+Dialogue: 0,0:06:57.30,0:07:01.40,normal_Wed,,0,0,0,,Land, i've reached land
+Dialogue: 0,0:06:59.20,0:07:00.50,wipe_Wed,,0,0,0,,Pretty impressive
+Dialogue: 0,0:07:01.40,0:07:02.46,normal_Wed,,0,0,0,,Finally
+Dialogue: 0,0:07:06.14,0:07:07.24,wipe_Wed,,0,0,0,,Dangerous
+Dialogue: 0,0:07:07.24,0:07:08.06,wipe_Wed,,0,0,0,,What's he up to?
+Dialogue: 0,0:07:10.24,0:07:13.95,normal_Wed,,0,0,0,,Finally, i've arrived
+Dialogue: 0,0:07:13.06,0:07:14.60,wipe_Wed,,0,0,0,,The fall just now has a new meaning
+Dialogue: 0,0:07:16.15,0:07:16.96,wipe_Wed,,0,0,0,,Genius
+Dialogue: 0,0:07:16.16,0:07:20.70,normal_Wed,,0,0,0,,After 56 hours, he steps onto occupied land again
+Dialogue: 0,0:07:22.35,0:07:25.56,normal_Wed,,0,0,0,,I've arrived, i've arrived!
+Dialogue: 0,0:07:26.45,0:07:27.27,normal_Wed,,0,0,0,,Then,
+Dialogue: 0,0:07:27.99,0:07:29.19,normal_Wed,,0,0,0,,Where is this place?
+Dialogue: 0,0:07:29.19,0:07:33.26,normal_Wed,,0,0,0,,This is Iejima's Bose in Hyogo Prefecture
+Dialogue: 0,0:07:33.26,0:07:34.80,normal_Wed,,0,0,0,,Hyogo Prefecture?
+Dialogue: 0,0:07:35.50,0:07:38.46,normal_Wed,,0,0,0,,He confirms the location
+Dialogue: 0,0:07:39.94,0:07:43.44,normal_Wed,,0,0,0,,And boards a ferry to Himeji Port in Honshu
+Dialogue: 0,0:07:44.71,0:07:48.65,normal_Wed,,0,0,0,,I took a cab because I had the money
+Dialogue: 0,0:07:51.88,0:07:52.72,wipe_Wed,,0,0,0,,Where is he going?
+Dialogue: 0,0:07:51.95,0:07:55.62,normal_Wed,,0,0,0,,Please take me to Himeji Station
+Dialogue: 0,0:07:55.82,0:07:57.66,normal_Wed,,0,0,0,,Are you an entertainer, sir?
+Dialogue: 0,0:07:57.66,0:07:59.16,normal_Wed,,0,0,0,,Ah, for the moment, yes
+Dialogue: 0,0:07:59.16,0:08:00.02,normal_Wed,,0,0,0,,You are an entertainer!
+Dialogue: 0,0:08:00.02,0:08:00.73,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:08:00.73,0:08:07.10,normal_Wed,,0,0,0,,It's been a long time since I've talked to someone
+Dialogue: 0,0:08:07.70,0:08:09.90,normal_Wed,,0,0,0,,I'm here, i'm here
+Dialogue: 0,0:08:11.24,0:08:14.61,normal_Wed,,0,0,0,,Why should I use my own cash to go home?
+Dialogue: 0,0:08:14.61,0:08:17.54,normal_Wed,,0,0,0,,I should absolutely let you pay for this
+Dialogue: 0,0:08:18.29,0:08:24.72,normal_Wed,,0,0,0,,A rare return to Tokyo from the uninhabited island project with his own money
+Dialogue: 0,0:08:25.42,0:08:27.25,normal_Wed,,0,0,0,,He's one of a kind
+Dialogue: 0,0:08:28.08,0:08:32.46,normal_Wed,,0,0,0,,Returning to his real home again after 4 days
+Dialogue: 0,0:08:30.36,0:08:33.79,wipe_Wed,,0,0,0,,Great, but his stuff?
+Dialogue: 0,0:08:33.79,0:08:36.48,wipe_Wed,,0,0,0,,I don't think it's there yet. \N-No, not arrived
+Dialogue: 0,0:08:36.86,0:08:39.66,wipe_Wed,,0,0,0,,But the room is cleaner. \N-Yes, it's cleaner
+Dialogue: 0,0:08:37.56,0:08:39.66,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:08:41.24,0:08:42.50,wipe_Wed,,0,0,0,,There's nothing left
+Dialogue: 0,0:08:43.90,0:08:46.77,normal_Wed,,0,0,0,,Oh yeah, I haven't gotten my stuff back yet
+Dialogue: 0,0:08:49.21,0:08:51.78,normal_Wed,,0,0,0,,Huh? Wait a minute, wait a minute
+Dialogue: 0,0:08:51.78,0:08:56.18,normal_Wed,,0,0,0,,Eh? Eh? Wait, what's going on?
+Dialogue: 0,0:08:56.18,0:08:57.78,normal_Wed,,0,0,0,,The refrigerator is missing
+Dialogue: 0,0:08:57.78,0:09:01.82,normal_Wed,,0,0,0,,Eh? There's nothing left. Wait, what's going on?
+Dialogue: 0,0:09:02.58,0:09:03.48,normal_Wed,,0,0,0,,Also...
+Dialogue: 0,0:09:05.42,0:09:07.66,normal_Wed,,0,0,0,,The stuff here is missing too!
+Dialogue: 0,0:09:06.70,0:09:07.98,wipe_Wed,,0,0,0,,Scary
+Dialogue: 0,0:09:09.39,0:09:14.27,normal_Wed,,0,0,0,,What should be here wasn't on the island, huh?
+Dialogue: 0,0:09:14.27,0:09:16.97,normal_Wed,,0,0,0,,Why is it all gone?
+Dialogue: 0,0:09:14.86,0:09:15.80,wipe_Wed,,0,0,0,,Scary
+Dialogue: 0,0:09:18.07,0:09:22.34,normal_Wed,,0,0,0,,There's nothing left. Back over here...
+Dialogue: 0,0:09:24.31,0:09:26.08,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:09:26.92,0:09:27.74,wipe_Wed,,0,0,0,,100,000 yen
+Dialogue: 0,0:09:32.02,0:09:34.29,normal_Wed,,0,0,0,,Ah, it's 100,000 yen
+Dialogue: 0,0:09:32.92,0:09:34.16,wipe_Wed,,0,0,0,,His wish
+Dialogue: 0,0:09:34.84,0:09:35.74,normal_Wed,,0,0,0,,And then
+Dialogue: 0,0:09:35.74,0:09:36.56,wipe_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:09:37.82,0:09:40.33,normal_Wed,,0,0,0,,Another letter?
+Dialogue: 0,0:09:40.58,0:09:43.12,normal_Wed,,0,0,0,,Congratulations on escaping from the uninhabited island
+Dialogue: 0,0:09:44.28,0:09:46.48,normal_Wed,,0,0,0,,We would like to inform you of one thing
+Dialogue: 0,0:09:47.40,0:09:53.26,normal_Wed,,0,0,0,,The house that Kuro-chan has lived in for 15 years is planned to be demolished
+Dialogue: 0,0:09:54.41,0:09:56.44,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:09:56.44,0:10:00.01,normal_Wed,,0,0,0,,This place...is going to be demolished?
+Dialogue: 0,0:09:59.70,0:10:00.92,wipe_Wed,,0,0,0,,Surprisingly learned from the show
+Dialogue: 0,0:10:00.01,0:10:02.08,normal_Wed,,0,0,0,,No, why do you know?
+Dialogue: 0,0:10:02.08,0:10:04.55,normal_Wed,,0,0,0,,Why do the staff know stuff that I don't?
+Dialogue: 0,0:10:05.36,0:10:09.19,normal_Wed,,0,0,0,,Yes, so far we have used this site for many shoots
+Dialogue: 0,0:10:09.19,0:10:11.64,normal_Wed,,0,0,0,,So this house is full of memories
+Dialogue: 0,0:10:13.38,0:10:20.94,normal_Wed,,0,0,0,,After 63 years of existing, the decision was made to demolish the entire building
+Dialogue: 0,0:10:22.74,0:10:27.01,normal_Wed,,0,0,0,,Residents were asked to move out by the end of August
+Dialogue: 0,0:10:27.38,0:10:32.81,normal_Wed,,0,0,0,,So from tomorrow, we will start looking for a new home
+Dialogue: 0,0:10:33.92,0:10:36.10,normal_Wed,,0,0,0,,Please have a good rest in your room today first
+Dialogue: 0,0:10:38.48,0:10:40.22,normal_Wed,,0,0,0,,Looking for a new home?
+Dialogue: 0,0:10:40.22,0:10:42.99,normal_Wed,,0,0,0,,Wait a minute, I do not understand this development, i'm not following
+Dialogue: 0,0:10:42.99,0:10:45.69,normal_Wed,,0,0,0,,It's not over yet? Escaping from the island is not the end?
+Dialogue: 0,0:10:45.86,0:10:48.46,normal_Wed,,0,0,0,,I do not understand ah... there's so much I don't understand
+Dialogue: 0,0:10:48.46,0:10:53.67,normal_Wed,,0,0,0,,Where is my stuff? Where is the stuff from the other rooms?
+Dialogue: 0,0:10:53.67,0:10:59.94,normal_Wed,,0,0,0,,Kuro-chan's belongings are being kept by the program team until he finds a new home
+Dialogue: 0,0:11:00.58,0:11:07.38,normal_Wed,,0,0,0,,So, the island was just a prelude to Kuro-chan finding a new home
+Dialogue: 0,0:11:07.60,0:11:10.42,normal_Wed,,0,0,0,,Hey, I didn't hear that the house was going to be demolished
+Dialogue: 0,0:11:11.44,0:11:16.16,normal_Wed,,0,0,0,,It looks like there is still a lot of information for Kuro-chan to digest
+Dialogue: 0,0:11:18.74,0:11:23.39,normal_Wed,,0,0,0,,For the time being, he heads to a convenience store that he has not visited for 4 days
+Dialogue: 0,0:11:25.16,0:11:27.33,normal_Wed,,0,0,0,,Delicious~ So delicious!
+Dialogue: 0,0:11:28.13,0:11:30.82,normal_Wed,,0,0,0,,He eats his favorite convenience store box lunch
+Dialogue: 0,0:11:33.70,0:11:37.14,normal_Wed,,0,0,0,,And sleeps on the floor like this
+Dialogue: 0,0:11:35.08,0:11:37.00,wipe_Wed,,0,0,0,,Too tragic
+Dialogue: 0,0:11:37.60,0:11:40.28,normal_Wed,,0,0,0,,What a day after coming back
+Dialogue: 0,0:11:40.28,0:11:43.01,normal_Wed,,0,0,0,,Sleeping on the hard floor that night
+Dialogue: 0,0:11:43.01,0:11:44.95,normal_Wed,,0,0,0,,He can sleep anywhere
+Dialogue: 0,0:11:44.95,0:11:50.02,normal_Wed,,0,0,0,,So, a seamless transition from the uninhabited island to looking for a new home
+Dialogue: 0,0:11:50.68,0:11:51.62,normal_Wed,,0,0,0,,This is the focus of the whole project
+Dialogue: 0,0:11:53.80,0:11:56.99,normal_Wed,,0,0,0,,The program team has been one step ahead of Kuro-chan
+Dialogue: 0,0:11:56.99,0:12:00.70,normal_Wed,,0,0,0,,We got the news that the residence will be demolished soon
+Dialogue: 0,0:12:00.70,0:12:04.64,normal_Wed,,0,0,0,,So since everything needs to be moved out
+Dialogue: 0,0:12:04.64,0:12:07.00,normal_Wed,,0,0,0,,We began to consider what to do
+Dialogue: 0,0:12:07.00,0:12:10.37,normal_Wed,,0,0,0,,Which lead to this project
+Dialogue: 0,0:12:10.64,0:12:12.50,normal_Wed,,0,0,0,,In a sense we're also doing him a favor
+Dialogue: 0,0:12:12.50,0:12:14.98,normal_Wed,,0,0,0,,That's right. \N -Helped him move
+Dialogue: 0,0:12:14.98,0:12:19.35,normal_Wed,,0,0,0,,By the way, the two of us also accompanied him to find a new place
+Dialogue: 0,0:12:19.35,0:12:23.35,normal_Wed,,0,0,0,,So folks, here comes the main event
+Dialogue: 0,0:12:23.35,0:12:25.25,normal_Wed,,0,0,0,,So please continue to watch
+Dialogue: 0,0:12:26.94,0:12:30.64,normal_Wed,,0,0,0,,Therefore, the day after returning home from the island
+Dialogue: 0,0:12:33.00,0:12:34.86,wipe_Wed,,0,0,0,,A weird way to wake up
+Dialogue: 0,0:12:35.97,0:12:36.60,normal_Wed,,0,0,0,,Kuro-chan
+Dialogue: 0,0:12:37.48,0:12:38.98,wipe_Wed,,0,0,0,,It's you two!
+Dialogue: 0,0:12:36.60,0:12:37.34,normal_Wed,,0,0,0,,Wow, what?
+Dialogue: 0,0:12:37.84,0:12:39.07,normal_Wed,,0,0,0,,We're in
+Dialogue: 0,0:12:39.07,0:12:39.80,normal_Wed,,0,0,0,,Coming in!
+Dialogue: 0,0:12:39.80,0:12:40.84,normal_Wed,,0,0,0,,Wait why?
+Dialogue: 0,0:12:41.31,0:12:45.54,normal_Wed,,0,0,0,,Wow - how clean it is!
+Dialogue: 0,0:12:45.54,0:12:47.11,normal_Wed,,0,0,0,,Wait, why?
+Dialogue: 0,0:12:47.11,0:12:47.61,normal_Wed,,0,0,0,,What? Why?
+Dialogue: 0,0:12:47.61,0:12:48.91,normal_Wed,,0,0,0,,Why did you come in with the camera so naturally?
+Dialogue: 0,0:12:48.91,0:12:50.18,normal_Wed,,0,0,0,,Wait a minute, what the hell is going on?
+Dialogue: 0,0:12:50.18,0:12:51.15,normal_Wed,,0,0,0,,No need to keep playing up
+Dialogue: 0,0:12:51.15,0:12:52.45,normal_Wed,,0,0,0,,This group of people
+Dialogue: 0,0:12:52.45,0:12:54.65,normal_Wed,,0,0,0,,The same reaction every time
+Dialogue: 0,0:12:55.35,0:12:56.59,normal_Wed,,0,0,0,,Okay, let's go
+Dialogue: 0,0:12:56.59,0:12:58.49,normal_Wed,,0,0,0,,Let's go, Kuro-chan. Let's go
+Dialogue: 0,0:12:58.59,0:13:00.73,normal_Wed,,0,0,0,,Wait a minute, I don't understand the situation at all
+Dialogue: 0,0:13:00.73,0:13:01.49,normal_Wed,,0,0,0,,What is going on?
+Dialogue: 0,0:13:01.73,0:13:02.96,normal_Wed,,0,0,0,,Looking for a new house, of course
+Dialogue: 0,0:13:02.96,0:13:03.66,normal_Wed,,0,0,0,,What else could it be but this
+Dialogue: 0,0:13:03.66,0:13:04.86,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:13:04.86,0:13:05.36,normal_Wed,,0,0,0,,Come on
+Dialogue: 0,0:13:05.36,0:13:06.33,normal_Wed,,0,0,0,,Eh? Really?
+Dialogue: 0,0:13:06.33,0:13:08.27,normal_Wed,,0,0,0,,That hurts! Why did you hit me?
+Dialogue: 0,0:13:08.80,0:13:11.60,normal_Wed,,0,0,0,,The building will be demolished
+Dialogue: 0,0:13:12.62,0:13:15.94,normal_Wed,,0,0,0,,8 minutes walk from JR Shinagawa Station
+Dialogue: 0,0:13:15.94,0:13:18.98,normal_Wed,,0,0,0,,Two-bedroom plus kitchen, rent 120,000 yen
+Dialogue: 0,0:13:18.30,0:13:19.52,wipe_Wed,,0,0,0,,Good location
+Dialogue: 0,0:13:19.68,0:13:25.45,normal_Wed,,0,0,0,,For Kuro-chan, who has lived here for 15 years since arriving in Tokyo
+Dialogue: 0,0:13:25.45,0:13:29.49,normal_Wed,,0,0,0,,This time, FUJIWARA decided to help him find a new house
+Dialogue: 0,0:13:30.22,0:13:32.84,normal_Wed,,0,0,0,,So, the first house is
+Dialogue: 0,0:13:33.76,0:13:35.33,normal_Wed,,0,0,0,,Over here
+Dialogue: 0,0:13:38.32,0:13:44.60,normal_Wed,,0,0,0,,First of all, a house in Shinagawa Ward, where Kuro currently lives
+Dialogue: 0,0:13:40.18,0:13:41.96,wipe_Wed,,0,0,0,,Looks like a nice apartment
+Dialogue: 0,0:13:45.42,0:13:50.98,normal_Wed,,0,0,0,,By the way, Fujimoto is the only one who has information on housing this time
+Dialogue: 0,0:13:50.98,0:13:53.44,normal_Wed,,0,0,0,,Is this a public space? So narrow
+Dialogue: 0,0:13:53.44,0:13:54.18,normal_Wed,,0,0,0,,Is it a parking lot?
+Dialogue: 0,0:13:54.38,0:13:55.91,normal_Wed,,0,0,0,,There is such an area
+Dialogue: 0,0:13:55.91,0:13:57.85,normal_Wed,,0,0,0,,Feels like something everyone can use together
+Dialogue: 0,0:13:57.85,0:13:59.68,normal_Wed,,0,0,0,,This is not for everyone to use together
+Dialogue: 0,0:13:59.68,0:14:00.99,normal_Wed,,0,0,0,,Eh? What the hell?
+Dialogue: 0,0:14:00.99,0:14:02.42,normal_Wed,,0,0,0,,Eh? \N-Eh?
+Dialogue: 0,0:14:02.42,0:14:04.56,normal_Wed,,0,0,0,,This isn't communal?
+Dialogue: 0,0:14:04.56,0:14:05.16,normal_Wed,,0,0,0,,No, this is a single house
+Dialogue: 0,0:14:05.16,0:14:06.96,normal_Wed,,0,0,0,,Eh? \N-Eh?
+Dialogue: 0,0:14:06.96,0:14:08.66,normal_Wed,,0,0,0,,It's a lie, right?\N -Must be, right?
+Dialogue: 0,0:14:08.66,0:14:09.26,normal_Wed,,0,0,0,,This is a detached house
+Dialogue: 0,0:14:09.26,0:14:10.19,normal_Wed,,0,0,0,,This is too big
+Dialogue: 0,0:14:10.19,0:14:11.16,normal_Wed,,0,0,0,,This is a big deal for Kuro-chan!
+Dialogue: 0,0:14:11.16,0:14:12.73,normal_Wed,,0,0,0,,Wait a minute, what's up with the detached building?
+Dialogue: 0,0:14:12.73,0:14:14.53,normal_Wed,,0,0,0,,Please, please, please, please!
+Dialogue: 0,0:14:15.57,0:14:17.34,normal_Wed,,0,0,0,,Wow, that's awesome!
+Dialogue: 0,0:14:17.34,0:14:17.77,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:14:16.10,0:14:17.20,wipe_Wed,,0,0,0,,Absolutely empty
+Dialogue: 0,0:14:17.77,0:14:19.04,normal_Wed,,0,0,0,,Ah, you thought it's an apartment?
+Dialogue: 0,0:14:19.24,0:14:21.41,normal_Wed,,0,0,0,,No, this entrance is too big, right?
+Dialogue: 0,0:14:21.32,0:14:22.62,wipe_Wed,,0,0,0,,A big mansion!
+Dialogue: 0,0:14:21.41,0:14:23.07,normal_Wed,,0,0,0,,I don't understand
+Dialogue: 0,0:14:23.07,0:14:25.54,normal_Wed,,0,0,0,,That spotlight is outrageous
+Dialogue: 0,0:14:25.54,0:14:26.41,normal_Wed,,0,0,0,,How fashionable!
+Dialogue: 0,0:14:26.41,0:14:27.21,normal_Wed,,0,0,0,,No, no, no, no, no. Wait, wait, wait
+Dialogue: 0,0:14:27.38,0:14:28.78,normal_Wed,,0,0,0,,This is great!
+Dialogue: 0,0:14:29.48,0:14:32.22,normal_Wed,,0,0,0,,Wait a minute...wait a minute
+Dialogue: 0,0:14:33.82,0:14:36.22,normal_Wed,,0,0,0,,Okay, first of all, this is the living room
+Dialogue: 0,0:14:36.35,0:14:39.32,normal_Wed,,0,0,0,,No, no, no...Fujimoto!
+Dialogue: 0,0:14:39.32,0:14:40.42,normal_Wed,,0,0,0,,Fujimoto!
+Dialogue: 0,0:14:40.42,0:14:44.20,normal_Wed,,0,0,0,,This room is 45 mats
+Dialogue: 0,0:14:40.42,0:14:44.20,note_Wed,,0,0,0,,{\blur4}※1 mats = 1.62 square meters, so about 72.9 square meters in total
+Dialogue: 0,0:14:44.20,0:14:45.50,normal_Wed,,0,0,0,,45 mats?
+Dialogue: 0,0:14:45.50,0:14:46.40,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:14:46.50,0:14:49.37,normal_Wed,,0,0,0,,There's a heater over here
+Dialogue: 0,0:14:49.37,0:14:51.57,normal_Wed,,0,0,0,,Heaters and other things have never been used
+Dialogue: 0,0:14:51.67,0:14:53.24,normal_Wed,,0,0,0,,The house is 36 years-old
+Dialogue: 0,0:14:53.24,0:14:54.17,normal_Wed,,0,0,0,,Unexpected...
+Dialogue: 0,0:14:54.17,0:14:55.94,normal_Wed,,0,0,0,,It's an older building
+Dialogue: 0,0:14:56.04,0:14:59.68,normal_Wed,,0,0,0,,The construction cost was 4.5 billion yen
+Dialogue: 0,0:14:59.68,0:15:01.58,normal_Wed,,0,0,0,,4.5 billion?
+Dialogue: 0,0:15:02.25,0:15:03.95,normal_Wed,,0,0,0,,A room like this
+Dialogue: 0,0:15:03.95,0:15:05.75,normal_Wed,,0,0,0,,You can't stop yourself from laughing
+Dialogue: 0,0:15:05.98,0:15:12.10,normal_Wed,,0,0,0,,This three-storey detached house has a total area of about 400 square meters
+Dialogue: 0,0:15:12.98,0:15:17.22,normal_Wed,,0,0,0,,A 5LSDK mega house
+Dialogue: 0,0:15:19.54,0:15:23.96,normal_Wed,,0,0,0,,Each room has ample amenities
+Dialogue: 0,0:15:24.76,0:15:27.31,normal_Wed,,0,0,0,,Bathroom and toilet
+Dialogue: 0,0:15:27.31,0:15:29.57,normal_Wed,,0,0,0,,It's not a matter of bath or no bath...
+Dialogue: 0,0:15:29.57,0:15:32.21,normal_Wed,,0,0,0,,Wow, wow, wow, wow!
+Dialogue: 0,0:15:32.21,0:15:34.65,normal_Wed,,0,0,0,,By the way, this should be introduced
+Dialogue: 0,0:15:34.65,0:15:35.65,normal_Wed,,0,0,0,,Sauna room
+Dialogue: 0,0:15:35.65,0:15:36.58,normal_Wed,,0,0,0,,Sauna?
+Dialogue: 0,0:15:36.58,0:15:38.04,normal_Wed,,0,0,0,,Yes, you can have a steam
+Dialogue: 0,0:15:38.05,0:15:41.55,normal_Wed,,0,0,0,,It's not even a simple sauna, it's impressive
+Dialogue: 0,0:15:41.55,0:15:43.12,normal_Wed,,0,0,0,,Standard sauna room
+Dialogue: 0,0:15:43.39,0:15:45.49,normal_Wed,,0,0,0,,A real sauna
+Dialogue: 0,0:15:46.39,0:15:48.33,normal_Wed,,0,0,0,,This is not even a one-person sauna
+Dialogue: 0,0:15:48.33,0:15:50.46,normal_Wed,,0,0,0,,Can fit a number of people
+Dialogue: 0,0:15:50.93,0:15:53.56,normal_Wed,,0,0,0,,Eh, it's really impressive
+Dialogue: 0,0:15:53.56,0:15:55.13,normal_Wed,,0,0,0,,Why are you locking up? Why lock me up?
+Dialogue: 0,0:15:55.13,0:15:58.27,normal_Wed,,0,0,0,,Wait a minute. Open the door quickly
+Dialogue: 0,0:15:58.27,0:15:59.74,normal_Wed,,0,0,0,,Open, open!
+Dialogue: 0,0:15:59.74,0:16:01.44,normal_Wed,,0,0,0,,Don't do that kind of thing
+Dialogue: 0,0:16:02.47,0:16:04.64,normal_Wed,,0,0,0,,Don't make such primitive jokes
+Dialogue: 0,0:16:04.64,0:16:05.98,normal_Wed,,0,0,0,,It was not my intention
+Dialogue: 0,0:16:06.52,0:16:09.66,normal_Wed,,0,0,0,,As for the uppermost third floor,
+Dialogue: 0,0:16:11.42,0:16:13.65,normal_Wed,,0,0,0,,You can barbecue on the terrace
+Dialogue: 0,0:16:13.65,0:16:16.99,normal_Wed,,0,0,0,,Are you kidding me? Are you kidding me?
+Dialogue: 0,0:16:15.08,0:16:16.68,wipe_Wed,,0,0,0,,The scenery is also great
+Dialogue: 0,0:16:17.49,0:16:20.83,normal_Wed,,0,0,0,,Call all your comedian buddies to get together for a small bbq party
+Dialogue: 0,0:16:20.83,0:16:22.16,normal_Wed,,0,0,0,,It'll surely be a mess in no time
+Dialogue: 0,0:16:22.16,0:16:24.56,normal_Wed,,0,0,0,,I would never ask a comedian to come to my home
+Dialogue: 0,0:16:24.56,0:16:25.60,normal_Wed,,0,0,0,,Troupe leader or something
+Dialogue: 0,0:16:25.60,0:16:27.53,normal_Wed,,0,0,0,,I'd rather die than call him over
+Dialogue: 0,0:16:27.53,0:16:28.90,normal_Wed,,0,0,0,,TKO's Kinoshita or something
+Dialogue: 0,0:16:27.53,0:16:33.97,note_Wed,,0,0,0,,{\blur4}※Due to Kuro-chan making fun of TKO's Kinoshita, Kinoshita angrily stomped on Kuro-chan's head backstage and then later abused him during a bout of drunkenness, which shocked Kuro-chan and led to him expressing his disgust for Kinoshita
+Dialogue: 0,0:16:28.90,0:16:31.20,normal_Wed,,0,0,0,,I'd definitely be stomped on again
+Dialogue: 0,0:16:31.20,0:16:33.97,normal_Wed,,0,0,0,,You won't get stomped on, it's okay
+Dialogue: 0,0:16:33.97,0:16:35.14,normal_Wed,,0,0,0,,What's more,
+Dialogue: 0,0:16:35.14,0:16:36.80,wipe_Wed,,0,0,0,,He'll definitely be stomped on again
+Dialogue: 0,0:16:36.37,0:16:40.18,normal_Wed,,0,0,0,,This is the maid's room
+Dialogue: 0,0:16:40.38,0:16:44.05,normal_Wed,,0,0,0,,The maid's room? The maid?
+Dialogue: 0,0:16:44.05,0:16:44.68,normal_Wed,,0,0,0,,Right
+Dialogue: 0,0:16:45.15,0:16:47.52,normal_Wed,,0,0,0,,This place is exclusively for the maid
+Dialogue: 0,0:16:47.52,0:16:49.55,normal_Wed,,0,0,0,,Lies! \N-A bathtub?
+Dialogue: 0,0:16:49.55,0:16:51.52,normal_Wed,,0,0,0,,A whole bathroom?
+Dialogue: 0,0:16:51.86,0:16:53.29,normal_Wed,,0,0,0,,A complete package
+Dialogue: 0,0:16:53.29,0:16:55.93,normal_Wed,,0,0,0,,The maids can live here comfortably
+Dialogue: 0,0:16:55.93,0:16:57.86,normal_Wed,,0,0,0,,It's really something
+Dialogue: 0,0:16:57.86,0:17:00.97,normal_Wed,,0,0,0,,This room is good \N-Enough
+Dialogue: 0,0:17:00.97,0:17:03.03,normal_Wed,,0,0,0,,It's enough for me to have such a room
+Dialogue: 0,0:17:03.48,0:17:06.38,normal_Wed,,0,0,0,,After a look around the house
+Dialogue: 0,0:17:07.37,0:17:10.61,normal_Wed,,0,0,0,,So, Kuro-chan, we've looked inside and outside of the house
+Dialogue: 0,0:17:10.61,0:17:13.54,normal_Wed,,0,0,0,,What do you think is the approximate rent?
+Dialogue: 0,0:17:14.91,0:17:16.08,normal_Wed,,0,0,0,,The rent for this place?
+Dialogue: 0,0:17:16.08,0:17:17.28,wipe_Wed,,0,0,0,,Looks so expensive
+Dialogue: 0,0:17:16.08,0:17:17.28,normal_Wed,,0,0,0,,Monthly rent
+Dialogue: 0,0:17:17.28,0:17:19.55,normal_Wed,,0,0,0,,Haranishi, you also think about it
+Dialogue: 0,0:17:20.04,0:17:24.06,normal_Wed,,0,0,0,,How much is it?
+Dialogue: 0,0:17:24.62,0:17:28.23,normal_Wed,,0,0,0,,800,000
+Dialogue: 0,0:17:25.84,0:17:27.54,wipe_Wed,,0,0,0,,Impossible
+Dialogue: 0,0:17:28.23,0:17:30.09,normal_Wed,,0,0,0,,I don't think I can afford to rent it for 800,000
+Dialogue: 0,0:17:30.09,0:17:31.73,normal_Wed,,0,0,0,,What about Haranishi?
+Dialogue: 0,0:17:31.73,0:17:33.56,normal_Wed,,0,0,0,,It must be 2 million
+Dialogue: 0,0:17:34.60,0:17:36.60,normal_Wed,,0,0,0,,Sorry, Kuro-chan, I think it must be around that
+Dialogue: 0,0:17:36.60,0:17:37.23,normal_Wed,,0,0,0,,Not 2 million, right?
+Dialogue: 0,0:17:37.44,0:17:39.90,normal_Wed,,0,0,0,,The rent for this residence is...
+Dialogue: 0,0:17:40.52,0:17:42.10,normal_Wed,,0,0,0,,1.85 million yen ($13,600)
+Dialogue: 0,0:17:43.74,0:17:44.88,wipe_Wed,,0,0,0,,This is the price
+Dialogue: 0,0:17:46.38,0:17:47.14,normal_Wed,,0,0,0,,So, to live or not to live?
+Dialogue: 0,0:17:47.14,0:17:48.41,normal_Wed,,0,0,0,,I can't
+Dialogue: 0,0:17:48.41,0:17:49.65,normal_Wed,,0,0,0,,So quick
+Dialogue: 0,0:17:49.65,0:17:50.92,normal_Wed,,0,0,0,,It is impossible to live here
+Dialogue: 0,0:17:51.38,0:17:53.42,normal_Wed,,0,0,0,,Don't back out and regret it later!
+Dialogue: 0,0:17:53.42,0:17:54.29,normal_Wed,,0,0,0,,This one is eliminated straight away?
+Dialogue: 0,0:17:54.29,0:17:55.59,normal_Wed,,0,0,0,,Don't say later that the previous building is better. Don't say such things
+Dialogue: 0,0:17:55.85,0:17:57.09,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:17:57.09,0:17:59.12,normal_Wed,,0,0,0,,After all, we're going to see a few more
+Dialogue: 0,0:17:59.12,0:18:00.59,normal_Wed,,0,0,0,,Of course, we can't just view this one place
+Dialogue: 0,0:18:00.79,0:18:02.49,normal_Wed,,0,0,0,,Well, let's keep it for now
+Dialogue: 0,0:18:02.49,0:18:03.12,normal_Wed,,0,0,0,,Seriously?
+Dialogue: 0,0:18:03.12,0:18:03.59,normal_Wed,,0,0,0,,Let's keep it for now
+Dialogue: 0,0:18:03.59,0:18:04.93,normal_Wed,,0,0,0,,I can't stay here, I can't stay here
+Dialogue: 0,0:18:05.36,0:18:07.26,normal_Wed,,0,0,0,,No, this one is kept for now
+Dialogue: 0,0:18:07.26,0:18:09.63,normal_Wed,,0,0,0,,No, don't make the decision for me. I'm not keeping this place
+Dialogue: 0,0:18:09.63,0:18:10.47,normal_Wed,,0,0,0,,Kept!
+Dialogue: 0,0:18:10.47,0:18:10.94,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:18:11.10,0:18:16.48,normal_Wed,,0,0,0,,The first ultra-luxury residence is kept for the time being
+Dialogue: 0,0:18:31.50,0:18:34.99,normal_Wed,,0,0,0,,Kuro-chan is now looking at the second home
+Dialogue: 0,0:18:35.76,0:18:38.33,normal_Wed,,0,0,0,,Over here
+Dialogue: 0,0:18:38.33,0:18:39.43,normal_Wed,,0,0,0,,Not bad!
+Dialogue: 0,0:18:39.43,0:18:40.87,normal_Wed,,0,0,0,,How does it look at first glance?
+Dialogue: 0,0:18:42.37,0:18:42.97,normal_Wed,,0,0,0,,Looks good too, right?
+Dialogue: 0,0:18:42.97,0:18:44.00,normal_Wed,,0,0,0,,Another detached building
+Dialogue: 0,0:18:44.46,0:18:48.20,normal_Wed,,0,0,0,,A single-family house in Matsudo, Chiba Prefecture
+Dialogue: 0,0:18:47.16,0:18:48.34,wipe_Wed,,0,0,0,,We went to Matsudo
+Dialogue: 0,0:18:50.41,0:18:52.01,normal_Wed,,0,0,0,,Smells like a new building
+Dialogue: 0,0:18:52.58,0:18:54.58,normal_Wed,,0,0,0,,This way please
+Dialogue: 0,0:18:56.58,0:19:03.09,normal_Wed,,0,0,0,,This is the open kitchen, which is integrated with the living room
+Dialogue: 0,0:19:03.09,0:19:05.36,normal_Wed,,0,0,0,,A total of 16 mats
+Dialogue: 0,0:19:03.09,0:19:05.36,note_Wed,,0,0,0,,{\blur4}※25.9 square meters
+Dialogue: 0,0:19:05.94,0:19:08.53,normal_Wed,,0,0,0,,4LDK two-story small building
+Dialogue: 0,0:19:08.53,0:19:11.38,normal_Wed,,0,0,0,,A common family home
+Dialogue: 0,0:19:12.28,0:19:13.66,normal_Wed,,0,0,0,,And then
+Dialogue: 0,0:19:13.66,0:19:15.87,normal_Wed,,0,0,0,,Ah, not bad
+Dialogue: 0,0:19:16.54,0:19:19.98,normal_Wed,,0,0,0,,5 years old, so it's a relatively new construction
+Dialogue: 0,0:19:21.31,0:19:23.07,normal_Wed,,0,0,0,,Kuro-chan, how about this residence?
+Dialogue: 0,0:19:23.27,0:19:27.58,normal_Wed,,0,0,0,,To be honest it feels like it'd be good to live in
+Dialogue: 0,0:19:27.58,0:19:31.08,normal_Wed,,0,0,0,,Considering the future, getting married or getting a girlfriend or whatever
+Dialogue: 0,0:19:31.25,0:19:33.92,normal_Wed,,0,0,0,,It should be a good choice
+Dialogue: 0,0:19:33.92,0:19:34.45,normal_Wed,,0,0,0,,Right?
+Dialogue: 0,0:19:34.45,0:19:38.06,normal_Wed,,0,0,0,,The only disadvantage is that it is a little bit far from the city center
+Dialogue: 0,0:19:38.06,0:19:39.09,normal_Wed,,0,0,0,,The only downside is this
+Dialogue: 0,0:19:39.09,0:19:41.29,normal_Wed,,0,0,0,,If you don't care too much then there's no downside
+Dialogue: 0,0:19:41.29,0:19:42.23,normal_Wed,,0,0,0,,No problem
+Dialogue: 0,0:19:42.42,0:19:46.48,normal_Wed,,0,0,0,,So it's time to guess the price
+Dialogue: 0,0:19:48.74,0:19:51.37,normal_Wed,,0,0,0,,180,000  \N-A guess of 180,000
+Dialogue: 0,0:19:51.37,0:19:54.34,normal_Wed,,0,0,0,,I think less than 200,000
+Dialogue: 0,0:19:54.71,0:19:56.94,normal_Wed,,0,0,0,,Is it that low...it's a single family home?
+Dialogue: 0,0:19:56.94,0:19:59.24,normal_Wed,,0,0,0,,I don't know, it could be more expensive
+Dialogue: 0,0:19:59.46,0:20:00.66,normal_Wed,,0,0,0,,350,000
+Dialogue: 0,0:20:01.28,0:20:02.86,wipe_Wed,,0,0,0,,It's not that expensive, right?
+Dialogue: 0,0:20:05.22,0:20:08.55,normal_Wed,,0,0,0,,The price of this residence is...
+Dialogue: 0,0:20:08.55,0:20:09.96,normal_Wed,,0,0,0,,85,000 yen
+Dialogue: 0,0:20:10.52,0:20:12.06,normal_Wed,,0,0,0,,So cheap!
+Dialogue: 0,0:20:12.06,0:20:14.09,normal_Wed,,0,0,0,,85,000 yen, eh?
+Dialogue: 0,0:20:14.49,0:20:16.19,normal_Wed,,0,0,0,,So cheap
+Dialogue: 0,0:20:16.36,0:20:17.43,normal_Wed,,0,0,0,,85,000 yen?
+Dialogue: 0,0:20:17.43,0:20:18.10,normal_Wed,,0,0,0,,Right? It's cheap
+Dialogue: 0,0:20:18.26,0:20:20.23,normal_Wed,,0,0,0,,It's so cheap. It's cheaper than where you live now
+Dialogue: 0,0:20:20.43,0:20:22.53,normal_Wed,,0,0,0,,Yeah, my current place costs 120,000.\N  -120,000
+Dialogue: 0,0:20:22.70,0:20:24.24,normal_Wed,,0,0,0,,Is it too cheap? A little suspicious
+Dialogue: 0,0:20:24.24,0:20:25.54,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:20:25.54,0:20:26.20,normal_Wed,,0,0,0,,This house is a murder house
+Dialogue: 0,0:20:26.20,0:20:29.47,normal_Wed,,0,0,0,,Scary scary scary
+Dialogue: 0,0:20:29.47,0:20:32.18,normal_Wed,,0,0,0,,Wait a minute. What's going on here?
+Dialogue: 0,0:20:38.75,0:20:39.25,normal_Wed,,0,0,0,,Terrifying!
+Dialogue: 0,0:20:39.25,0:20:40.35,normal_Wed,,0,0,0,,Hey wait wait wait wait
+Dialogue: 0,0:20:39.44,0:20:41.22,wipe_Wed,,0,0,0,,{\pos(1243,278)}Terrible terrible, what happened?
+Dialogue: 0,0:20:40.78,0:20:42.39,normal_Wed,,0,0,0,,Why did you bring me to this kind of place?
+Dialogue: 0,0:20:40.78,0:20:45.52,note_Wed,,0,0,0,,{\blur4}※According to the Internet, there are three possible incidents: ① a man killed himself after killing his brother-in-law ② someone beheaded their mother ③ a woman hanged herself in a closet and killed her son
+Dialogue: 0,0:20:42.39,0:20:45.52,normal_Wed,,0,0,0,,I said I said I said why why why why
+Dialogue: 0,0:20:45.99,0:20:46.82,normal_Wed,,0,0,0,,One second
+Dialogue: 0,0:20:46.82,0:20:48.43,normal_Wed,,0,0,0,,It's scary
+Dialogue: 0,0:20:52.80,0:20:54.20,wipe_Wed,,0,0,0,,What what what?
+Dialogue: 0,0:20:52.30,0:20:54.50,normal_Wed,,0,0,0,,How did it happen?
+Dialogue: 0,0:20:54.50,0:20:56.03,normal_Wed,,0,0,0,,Don't ask
+Dialogue: 0,0:20:57.47,0:20:58.77,normal_Wed,,0,0,0,,Stop being nosy
+Dialogue: 0,0:20:58.77,0:21:01.21,normal_Wed,,0,0,0,,Wouldn't it be troublesome to live here?
+Dialogue: 0,0:21:01.41,0:21:03.37,normal_Wed,,0,0,0,,Have you decided?
+Dialogue: 0,0:21:03.37,0:21:03.97,normal_Wed,,0,0,0,,Decide what...
+Dialogue: 0,0:21:03.97,0:21:04.61,normal_Wed,,0,0,0,,Will you keep it?
+Dialogue: 0,0:21:04.61,0:21:05.11,normal_Wed,,0,0,0,,Just keep it
+Dialogue: 0,0:21:05.11,0:21:06.26,normal_Wed,,0,0,0,,I'm not keeping it
+Dialogue: 0,0:21:06.26,0:21:09.15,normal_Wed,,0,0,0,,Absolutely not. It feels like there will be something nasty coming with it
+Dialogue: 0,0:21:09.15,0:21:11.02,normal_Wed,,0,0,0,,Don't say that something nasty will come with it
+Dialogue: 0,0:21:11.02,0:21:12.02,normal_Wed,,0,0,0,,It will!
+Dialogue: 0,0:21:12.02,0:21:14.18,normal_Wed,,0,0,0,,There's nothing
+Dialogue: 0,0:21:14.18,0:21:17.89,normal_Wed,,0,0,0,,Did this happen long ago?
+Dialogue: 0,0:21:19.22,0:21:20.59,normal_Wed,,0,0,0,,Well...
+Dialogue: 0,0:21:23.79,0:21:26.00,normal_Wed,,0,0,0,,So curious, seriously!
+Dialogue: 0,0:21:26.26,0:21:29.33,normal_Wed,,0,0,0,,If you hear such a thing you can't help but want to know
+Dialogue: 0,0:21:29.94,0:21:33.08,normal_Wed,,0,0,0,,And so, the second place is not kept
+Dialogue: 0,0:21:34.18,0:21:36.50,normal_Wed,,0,0,0,,The three then headed to...
+Dialogue: 0,0:21:37.78,0:21:43.01,normal_Wed,,0,0,0,,A single house in Yugawara, Kanagawa Prefecture
+Dialogue: 0,0:21:42.80,0:21:43.82,wipe_Wed,,0,0,0,,Nice place
+Dialogue: 0,0:21:43.01,0:21:44.28,normal_Wed,,0,0,0,,Single family home
+Dialogue: 0,0:21:44.28,0:21:47.38,normal_Wed,,0,0,0,,It's a detached house and...
+Dialogue: 0,0:21:47.38,0:21:48.05,normal_Wed,,0,0,0,,What's wrong?
+Dialogue: 0,0:21:48.05,0:21:50.12,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:21:50.12,0:21:50.62,normal_Wed,,0,0,0,,Isn't it a bit rundown?
+Dialogue: 0,0:21:50.62,0:21:52.39,normal_Wed,,0,0,0,,It's got charm \N-Eh?
+Dialogue: 0,0:21:52.39,0:21:53.19,normal_Wed,,0,0,0,,This is called charm
+Dialogue: 0,0:21:53.74,0:21:56.00,normal_Wed,,0,0,0,,Intriguing interior layout
+Dialogue: 0,0:21:56.00,0:21:57.42,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:21:57.23,0:22:01.20,normal_Wed,,0,0,0,,How about it?
+Dialogue: 0,0:22:01.20,0:22:03.70,normal_Wed,,0,0,0,,This...
+Dialogue: 0,0:22:03.93,0:22:06.57,normal_Wed,,0,0,0,,Did the last occupant run away in the night?
+Dialogue: 0,0:22:06.67,0:22:07.37,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:22:07.37,0:22:09.57,normal_Wed,,0,0,0,,There is too much life in it
+Dialogue: 0,0:22:09.57,0:22:11.31,normal_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:22:11.31,0:22:12.58,normal_Wed,,0,0,0,,The occupant just left, right?
+Dialogue: 0,0:22:12.58,0:22:14.58,normal_Wed,,0,0,0,,It's not the kind of place that says that
+Dialogue: 0,0:22:14.58,0:22:15.48,normal_Wed,,0,0,0,,This side is full of garbage
+Dialogue: 0,0:22:15.48,0:22:18.12,normal_Wed,,0,0,0,,Can really smell it
+Dialogue: 0,0:22:18.12,0:22:19.92,normal_Wed,,0,0,0,,It's obviously the smell of dust
+Dialogue: 2,0:22:20.44,0:22:28.55,normal_Wed,,0,0,0,,A two-level 2LDK small detached house with full amenities
+Dialogue: 2,0:22:29.53,0:22:31.40,normal_Wed,,0,0,0,,The toothbrush can also be used
+Dialogue: 2,0:22:31.40,0:22:33.46,normal_Wed,,0,0,0,,Ahhh, who used this!?
+Dialogue: 2,0:22:34.48,0:22:36.47,normal_Wed,,0,0,0,,1, 2, 3, there are three people living here!
+Dialogue: 2,0:22:37.17,0:22:40.44,normal_Wed,,0,0,0,,Since you're complaining so much \N  -What?
+Dialogue: 2,0:22:40.44,0:22:41.91,normal_Wed,,0,0,0,,I'll tell you the best part
+Dialogue: 2,0:22:41.91,0:22:43.54,normal_Wed,,0,0,0,,There's something good? \N -Check this out
+Dialogue: 2,0:22:43.91,0:22:45.08,normal_Wed,,0,0,0,,Over here
+Dialogue: 2,0:22:47.31,0:22:50.25,normal_Wed,,0,0,0,,This side is still being cleaned up though \N -Cleaning up?
+Dialogue: 2,0:22:50.25,0:22:54.28,normal_Wed,,0,0,0,,It comes with this garden \N -A garden?
+Dialogue: 2,0:22:54.28,0:22:56.22,normal_Wed,,0,0,0,,A garden
+Dialogue: 2,0:22:56.42,0:23:00.46,normal_Wed,,0,0,0,,It's about the size of a tennis court
+Dialogue: 2,0:23:00.46,0:23:02.73,normal_Wed,,0,0,0,,This is {\i1}that{\i0} big?
+Dialogue: 1,0:23:01.87,0:23:02.84,wipe_Wed,,0,0,0,,He can take up gardening
+Dialogue: 2,0:23:03.53,0:23:05.43,normal_Wed,,0,0,0,,You can turn it into a garden of your choice
+Dialogue: 2,0:23:05.43,0:23:07.06,normal_Wed,,0,0,0,,Even this place with trees growing?
+Dialogue: 2,0:23:07.06,0:23:09.47,normal_Wed,,0,0,0,,All of them are your own personal trees
+Dialogue: 2,0:23:09.47,0:23:10.30,normal_Wed,,0,0,0,,Personal tree?
+Dialogue: 2,0:23:10.30,0:23:11.14,normal_Wed,,0,0,0,,Personal tree
+Dialogue: 2,0:23:11.57,0:23:17.44,normal_Wed,,0,0,0,,One more thing, Kuro-chan, please look over here\N  -What?
+Dialogue: 2,0:23:17.44,0:23:19.28,normal_Wed,,0,0,0,,How about that?  \N-Really?
+Dialogue: 2,0:23:19.28,0:23:23.08,normal_Wed,,0,0,0,,That right there is an orange
+Dialogue: 2,0:23:23.08,0:23:27.18,normal_Wed,,0,0,0,,The oranges are said to be really delicious
+Dialogue: 2,0:23:27.18,0:23:28.59,normal_Wed,,0,0,0,,From whom did you hear that?
+Dialogue: 2,0:23:28.59,0:23:29.65,normal_Wed,,0,0,0,,Go and look
+Dialogue: 2,0:23:29.66,0:23:32.06,normal_Wed,,0,0,0,,Orange? The real thing?
+Dialogue: 2,0:23:32.92,0:23:34.16,normal_Wed,,0,0,0,,Can I walk on there?
+Dialogue: 2,0:23:47.50,0:23:52.04,normal_Wed,,0,0,0,,Now he's definitely back from an uninhabited island
+Dialogue: 2,0:23:56.24,0:23:59.18,normal_Wed,,0,0,0,,What the hell is this?
+Dialogue: 2,0:23:59.18,0:24:02.22,normal_Wed,,0,0,0,,What's going on here?
+Dialogue: 2,0:24:03.09,0:24:09.73,normal_Wed,,0,0,0,,Kuro-chan, you are even allowed to dig traps on this residence
+Dialogue: 1,0:24:09.51,0:24:11.09,wipe_Wed,,0,0,0,,It's a beautiful trap
+Dialogue: 2,0:24:10.63,0:24:12.39,normal_Wed,,0,0,0,, I recommend this one!
+Dialogue: 1,0:24:12.51,0:24:13.35,wipe_Wed,,0,0,0,,Impossible to find
+Dialogue: 2,0:24:12.93,0:24:19.49,normal_Wed,,0,0,0,,So, as this section is within the lease, the land offers ample opportunities for different shots
+Dialogue: 1,0:24:14.97,0:24:15.95,wipe_Wed,,0,0,0,,He let his guard down
+Dialogue: 2,0:24:19.49,0:24:23.79,normal_Wed,,0,0,0,,It's the most suitable residence for outside scenes
+Dialogue: 1,0:24:23.34,0:24:25.02,wipe_Wed,,0,0,0,,Kuro-chan would definitely suffer here
+Dialogue: 2,0:24:25.34,0:24:27.21,normal_Wed,,0,0,0,,This is dug way too big
+Dialogue: 2,0:24:27.21,0:24:29.11,normal_Wed,,0,0,0,, The hollow inside is too big, right?
+Dialogue: 2,0:24:29.11,0:24:31.11,normal_Wed,,0,0,0,,Incase you ran over there...
+Dialogue: 2,0:24:31.11,0:24:32.78,normal_Wed,,0,0,0,,We had to consider all the circumstances beforehand
+Dialogue: 2,0:24:32.88,0:24:35.25,normal_Wed,,0,0,0,,No, it's not okay. This is really bad, right?
+Dialogue: 2,0:24:35.25,0:24:37.69,normal_Wed,,0,0,0,,And the house is not good at all
+Dialogue: 2,0:24:37.69,0:24:41.29,normal_Wed,,0,0,0,,And it's as if the residents ran away halfway through their occupancy
+Dialogue: 2,0:24:42.00,0:24:46.79,normal_Wed,,0,0,0,,Although their rent predictions are as shown
+Dialogue: 2,0:24:48.49,0:24:50.40,normal_Wed,,0,0,0,,The correct answer is
+Dialogue: 2,0:24:51.58,0:24:52.77,normal_Wed,,0,0,0,,0 yen
+Dialogue: 2,0:24:54.74,0:24:56.47,normal_Wed,,0,0,0,,What is the deal with 0 yen?  \N-What is the situation
+Dialogue: 2,0:24:56.48,0:25:00.64,normal_Wed,,0,0,0,,This house is used by the local community association
+Dialogue: 2,0:25:00.64,0:25:04.52,normal_Wed,,0,0,0,,This is a house where you can move in for 0 yen if you become the house manager
+Dialogue: 2,0:25:04.52,0:25:05.52,normal_Wed,,0,0,0,,Manager?
+Dialogue: 2,0:25:05.52,0:25:06.95,normal_Wed,,0,0,0,,Must become the manager
+Dialogue: 2,0:25:06.95,0:25:08.51,normal_Wed,,0,0,0,,What is the conditions, what responsibilities are involved
+Dialogue: 2,0:25:08.72,0:25:14.16,normal_Wed,,0,0,0,,Community affairs are discussed in the living room about once or twice a month
+Dialogue: 2,0:25:14.46,0:25:19.46,normal_Wed,,0,0,0,,So the administrator has the responsibility of managing the reservation and delivering keys
+Dialogue: 2,0:25:19.56,0:25:21.47,normal_Wed,,0,0,0,,Isn't this something only the locals can do?
+Dialogue: 2,0:25:21.63,0:25:24.07,normal_Wed,,0,0,0,,I hope that Kuro-chan will become a more prominent member of the local community
+Dialogue: 2,0:25:24.13,0:25:27.07,normal_Wed,,0,0,0,,0 yen if you take the job?  \N-0 yen
+Dialogue: 2,0:25:27.07,0:25:28.14,normal_Wed,,0,0,0,,0 yen is a big deal
+Dialogue: 2,0:25:28.37,0:25:30.07,normal_Wed,,0,0,0,,So what to do?  \N-Free?
+Dialogue: 2,0:25:30.07,0:25:31.01,normal_Wed,,0,0,0,,Yes, oh?
+Dialogue: 2,0:25:31.51,0:25:35.21,normal_Wed,,0,0,0,,When it comes to free, a lot of complaints disappear \N-Yes
+Dialogue: 2,0:25:35.45,0:25:38.25,normal_Wed,,0,0,0,,No, there is a slight feeling of nostalgia about it
+Dialogue: 2,0:25:38.25,0:25:40.72,normal_Wed,,0,0,0,,As soon as you hear 0 yen, you start thinking
+Dialogue: 2,0:25:40.72,0:25:42.22,normal_Wed,,0,0,0,,You can retain 2 places at the same time!
+Dialogue: 2,0:25:42.45,0:25:44.29,normal_Wed,,0,0,0,,Keep one. You can keep this one too
+Dialogue: 2,0:25:44.29,0:25:45.92,normal_Wed,,0,0,0,,But this may also be good
+Dialogue: 2,0:25:46.02,0:25:49.19,normal_Wed,,0,0,0,,You can also let people fall in the trap here when you hold the meetings
+Dialogue: 2,0:25:49.29,0:25:49.89,normal_Wed,,0,0,0,,They'll be injured!
+Dialogue: 2,0:25:49.89,0:25:53.76,normal_Wed,,0,0,0,,I don't think there are any young people in the community association
+Dialogue: 2,0:25:54.03,0:25:58.77,normal_Wed,,0,0,0,,Therefore, the trap room with 0 yen rent is kept for now
+Dialogue: 2,0:25:59.61,0:26:04.36,normal_Wed,,0,0,0,,Next is a house in Toshima Ward
+Dialogue: 1,0:26:00.90,0:26:02.18,wipe_Wed,,0,0,0,,It's already dark!
+Dialogue: 1,0:26:03.47,0:26:05.82,wipe_Wed,,0,0,0,,Because we had to travel from Matsudo
+Dialogue: 2,0:26:05.41,0:26:07.91,normal_Wed,,0,0,0,,This is it
+Dialogue: 2,0:26:07.91,0:26:10.08,normal_Wed,,0,0,0,,I'll introduce it from this side of the room
+Dialogue: 2,0:26:10.08,0:26:10.81,normal_Wed,,0,0,0,,This side of the room
+Dialogue: 2,0:26:10.81,0:26:11.82,normal_Wed,,0,0,0,,This side of the room
+Dialogue: 2,0:26:11.82,0:26:12.58,normal_Wed,,0,0,0,,Ah, there's a bed
+Dialogue: 2,0:26:12.58,0:26:13.58,normal_Wed,,0,0,0,,There's a bed
+Dialogue: 2,0:26:13.58,0:26:14.12,normal_Wed,,0,0,0,,What's this?
+Dialogue: 2,0:26:14.35,0:26:17.85,normal_Wed,,0,0,0,,Wait a minute. This is a room. Does that mean this is the first room?
+Dialogue: 2,0:26:17.85,0:26:18.92,normal_Wed,,0,0,0,,Yes, this is the room
+Dialogue: 2,0:26:18.92,0:26:20.46,normal_Wed,,0,0,0,,Not the first room, but {\i1}the{\i0} room
+Dialogue: 2,0:26:20.76,0:26:22.46,normal_Wed,,0,0,0,,This room?\N  -Yes
+Dialogue: 2,0:26:22.59,0:26:25.20,normal_Wed,,0,0,0,,No. Where's the bathroom?\N  -It's not here
+Dialogue: 2,0:26:25.20,0:26:26.63,normal_Wed,,0,0,0,,Eh? \N-Eh?
+Dialogue: 2,0:26:26.63,0:26:27.40,normal_Wed,,0,0,0,,What?
+Dialogue: 2,0:26:27.40,0:26:29.40,normal_Wed,,0,0,0,,It's a shared apartment
+Dialogue: 2,0:26:29.40,0:26:31.64,normal_Wed,,0,0,0,,Shared apartment? \N -Yes
+Dialogue: 2,0:26:31.64,0:26:38.94,normal_Wed,,0,0,0,,That means there are shared bathrooms and toilets?  \N-Yes
+Dialogue: 2,0:26:39.41,0:26:44.27,normal_Wed,,0,0,0,,Yes, this is a six-story building with one room per person
+Dialogue: 2,0:26:44.27,0:26:48.18,normal_Wed,,0,0,0,,A shared apartment with 36 people living in it currently
+Dialogue: 2,0:26:48.62,0:26:51.15,normal_Wed,,0,0,0,,Girls too... in shared apartments, there are also girls, right?
+Dialogue: 2,0:26:51.29,0:26:52.99,normal_Wed,,0,0,0,,Of course.  \N-Definitely!
+Dialogue: 2,0:26:53.19,0:26:54.93,normal_Wed,,0,0,0,,Here's some good info
+Dialogue: 2,0:26:54.93,0:26:58.60,normal_Wed,,0,0,0,,There are more than twenty married couples in this shared apartment
+Dialogue: 2,0:26:58.59,0:27:01.03,normal_Wed,,0,0,0,,Eh? Love house?
+Dialogue: 2,0:27:01.03,0:27:02.17,normal_Wed,,0,0,0,,What do you mean "love house"?
+Dialogue: 2,0:27:02.78,0:27:09.82,normal_Wed,,0,0,0,,This is a shared living room with space for ten people to communicate and move around at the same time
+Dialogue: 2,0:27:12.05,0:27:14.59,normal_Wed,,0,0,0,,There is also a standard gym
+Dialogue: 2,0:27:16.45,0:27:19.52,normal_Wed,,0,0,0,,Wait, this is great, right?
+Dialogue: 2,0:27:19.82,0:27:23.85,normal_Wed,,0,0,0,,The gym is so cool.  \N-Glamorous, isn't it?
+Dialogue: 2,0:27:24.00,0:27:27.26,normal_Wed,,0,0,0,,Ah, there is also a piano
+Dialogue: 2,0:27:27.26,0:27:28.69,normal_Wed,,0,0,0,,Do you know how to play?
+Dialogue: 2,0:27:28.69,0:27:30.63,normal_Wed,,0,0,0,,I sometimes play "Merry Christmas Mr. Lawrence"
+Dialogue: 0,0:27:30.63,0:27:31.33,normal_Wed,,0,0,0,,Oh really?
+Dialogue: 1,0:27:31.44,0:27:32.89,wipe_Wed,,0,0,0,,Surprised by this
+Dialogue: 1,0:27:44.47,0:27:45.89,wipe_Wed,,0,0,0,,Unique technique
+Dialogue: 2,0:28:00.32,0:28:02.03,normal_Wed,,0,0,0,,I kind of forgot how to play it
+Dialogue: 2,0:28:02.03,0:28:03.19,normal_Wed,,0,0,0,,Can you be a little more measured?
+Dialogue: 2,0:28:03.69,0:28:06.13,normal_Wed,,0,0,0,,Either play badly or play well
+Dialogue: 2,0:28:06.13,0:28:08.73,normal_Wed,,0,0,0,,I was about to say, "So this guy has that side," when you suddenly started playing badly
+Dialogue: 2,0:28:09.50,0:28:14.86,normal_Wed,,0,0,0,,Later, the current residents were interviewed
+Dialogue: 2,0:28:16.71,0:28:19.74,normal_Wed,,0,0,0,,Is it easy to get along with each other?
+Dialogue: 2,0:28:20.28,0:28:21.85,normal_Wed,,0,0,0,,We are like a family
+Dialogue: 2,0:28:21.85,0:28:23.75,normal_Wed,,0,0,0,,A family \N-Family
+Dialogue: 2,0:28:23.98,0:28:26.75,normal_Wed,,0,0,0,,Do you remember everyone's names?
+Dialogue: 2,0:28:26.92,0:28:30.79,normal_Wed,,0,0,0,,Because there are names and nicknames, you make extra effort to remember
+Dialogue: 2,0:28:31.39,0:28:33.46,normal_Wed,,0,0,0,,Everyone has nicknames?
+Dialogue: 2,0:28:33.62,0:28:37.63,normal_Wed,,0,0,0,,When did you receive the nicknames?
+Dialogue: 2,0:28:37.63,0:28:39.06,normal_Wed,,0,0,0,,The residents meeting
+Dialogue: 2,0:28:39.08,0:28:40.50,normal_Wed,,0,0,0,,There's resident meetings?
+Dialogue: 2,0:28:40.66,0:28:43.07,normal_Wed,,0,0,0,,First, potential nicknames are put forward then everyone votes
+Dialogue: 2,0:28:43.43,0:28:44.20,normal_Wed,,0,0,0,,A voting system?
+Dialogue: 2,0:28:44.20,0:28:46.07,normal_Wed,,0,0,0,,You all decide together?
+Dialogue: 2,0:28:46.50,0:28:53.45,normal_Wed,,0,0,0,,As such, a nickname will be assigned to Kuro-chan, who may become a resident
+Dialogue: 1,0:28:53.29,0:28:54.24,wipe_Wed,,0,0,0,,Adventurer
+Dialogue: 2,0:28:55.15,0:28:59.25,normal_Wed,,0,0,0,,Please tell us what you like to do and what you're interested in
+Dialogue: 2,0:28:59.38,0:29:01.42,normal_Wed,,0,0,0,,Originally he wanted to become an idol
+Dialogue: 2,0:29:01.42,0:29:03.09,normal_Wed,,0,0,0,,I was tricked into becoming a comedian
+Dialogue: 2,0:29:03.19,0:29:05.56,normal_Wed,,0,0,0,,I also do rock climbing
+Dialogue: 2,0:29:05.56,0:29:07.22,normal_Wed,,0,0,0,,And I have a Level 1 Dance Certificate
+Dialogue: 2,0:29:07.22,0:29:09.59,normal_Wed,,0,0,0,,And am also a certified Aromatherapy Master
+Dialogue: 2,0:29:09.79,0:29:12.43,normal_Wed,,0,0,0,,"Idol", not bad, right? You can be an idol here!
+Dialogue: 2,0:29:13.70,0:29:15.07,normal_Wed,,0,0,0,,Since you wanted to become an idol before, right?
+Dialogue: 0,0:29:15.27,0:29:16.53,normal_Wed,,0,0,0,,"Idol"
+Dialogue: 2,0:29:16.53,0:29:18.40,normal_Wed,,0,0,0,,I am Idol-yo!
+Dialogue: 2,0:29:18.57,0:29:20.60,normal_Wed,,0,0,0,,I'm super happy!
+Dialogue: 2,0:29:20.60,0:29:22.24,normal_Wed,,0,0,0,,What the hell!?
+Dialogue: 2,0:29:22.41,0:29:26.08,normal_Wed,,0,0,0,,Whoa, I didn't expect to have so much fun \N -Welcome, welcome
+Dialogue: 2,0:29:26.54,0:29:31.51,normal_Wed,,0,0,0,,What's your rent prediction for this shared apartment?
+Dialogue: 1,0:29:28.51,0:29:29.95,wipe_Wed,,0,0,0,,It's quite suitable for Kuro-chan, right?
+Dialogue: 2,0:29:32.01,0:29:33.25,normal_Wed,,0,0,0,,Because it is communal,
+Dialogue: 2,0:29:33.25,0:29:38.46,normal_Wed,,0,0,0,,I guess there are many people who live here to save money
+Dialogue: 2,0:29:38.46,0:29:39.39,normal_Wed,,0,0,0,,80,000 yen
+Dialogue: 0,0:29:39.39,0:29:40.06,normal_Wed,,0,0,0,,80,000 yen
+Dialogue: 2,0:29:40.06,0:29:41.12,normal_Wed,,0,0,0,,Wow, a good guess!
+Dialogue: 2,0:29:41.50,0:29:42.39,normal_Wed,,0,0,0,,75,000 yen
+Dialogue: 2,0:29:42.53,0:29:43.89,normal_Wed,,0,0,0,,So, here we go \N-Please!
+Dialogue: 2,0:29:44.06,0:29:47.63,normal_Wed,,0,0,0,,The rent here is...
+Dialogue: 2,0:29:47.66,0:29:49.18,normal_Wed,,0,0,0,,115,000 yen
+Dialogue: 2,0:29:50.03,0:29:51.10,normal_Wed,,0,0,0,,Unexpected
+Dialogue: 2,0:29:51.10,0:29:53.04,normal_Wed,,0,0,0,,But isn't it nice? It even has a gym
+Dialogue: 2,0:29:53.17,0:29:56.37,normal_Wed,,0,0,0,,Yeah but, going to the gym is not costly
+Dialogue: 2,0:29:56.77,0:30:00.38,normal_Wed,,0,0,0,,So, Kuro-chan, what do you think of this place?
+Dialogue: 2,0:30:01.21,0:30:01.91,normal_Wed,,0,0,0,,Keep!
+Dialogue: 2,0:30:03.91,0:30:05.15,normal_Wed,,0,0,0,,Why?
+Dialogue: 2,0:30:05.15,0:30:11.45,normal_Wed,,0,0,0,,Everyone here is very gentle and friendly
+Dialogue: 2,0:30:11.62,0:30:14.39,normal_Wed,,0,0,0,,But its a gradual search
+Dialogue: 2,0:30:14.39,0:30:17.29,normal_Wed,,0,0,0,,So i'd still like to consider other residences
+Dialogue: 2,0:30:17.59,0:30:19.96,normal_Wed,,0,0,0,,Eh, more?
+Dialogue: 2,0:30:20.06,0:30:24.10,normal_Wed,,0,0,0,,I mean, I finally found one that I like, so it makes me want to look at even more
+Dialogue: 2,0:30:24.10,0:30:28.14,normal_Wed,,0,0,0,,Today, it took a whole day just to get to one
+Dialogue: 2,0:30:28.17,0:30:31.01,normal_Wed,,0,0,0,,Number one and number two are absolutely impossible, right?
+Dialogue: 2,0:30:31.01,0:30:32.56,normal_Wed,,0,0,0,,I don't know.  \N-I can't live there!
+Dialogue: 2,0:30:32.56,0:30:34.68,normal_Wed,,0,0,0,,No, we don't know what you like, Kuro-chan
+Dialogue: 2,0:30:35.35,0:30:38.68,normal_Wed,,0,0,0,,Keep? So which ones do you want to keep then?
+Dialogue: 2,0:30:38.68,0:30:40.65,normal_Wed,,0,0,0,,The free one, and here
+Dialogue: 2,0:30:41.25,0:30:44.09,normal_Wed,,0,0,0,,You're keeping the free one, you just can't let the free one go
+Dialogue: 2,0:30:44.09,0:30:44.62,normal_Wed,,0,0,0,,I'm keeping the free one
+Dialogue: 2,0:30:45.18,0:30:50.73,normal_Wed,,0,0,0,,And so, the search for Kuro-chan's new home enters a second day
+Dialogue: 2,0:30:51.59,0:30:54.23,normal_Wed,,0,0,0,,Wow, what will happen?
+Dialogue: 2,0:30:54.23,0:30:57.14,normal_Wed,,0,0,0,,Just came back from an uninhabited island the day before
+Dialogue: 0,0:30:57.14,0:30:57.90,normal_Wed,,0,0,0,,Yes
+Dialogue: 2,0:30:57.90,0:30:59.41,normal_Wed,,0,0,0,,And then immediately went on this location shoot?
+Dialogue: 0,0:30:59.41,0:31:00.17,normal_Wed,,0,0,0,,Yes
+Dialogue: 2,0:31:00.17,0:31:02.14,normal_Wed,,0,0,0,,What a mess
+Dialogue: 2,0:31:02.14,0:31:03.87,normal_Wed,,0,0,0,,There's an "Adventurer" in the shared apartment
+Dialogue: 2,0:31:03.87,0:31:06.11,normal_Wed,,0,0,0,,Kuro-chan is actually more like an adventurer
+Dialogue: 2,0:31:07.14,0:31:08.33,normal_Wed,,0,0,0,,Shared apartments are not bad
+Dialogue: 2,0:31:08.33,0:31:09.81,normal_Wed,,0,0,0,,Yeah shared apartments aren't bad
+Dialogue: 0,0:31:09.81,0:31:11.05,normal_Wed,,0,0,0,,Yeah, I guess
+Dialogue: 2,0:31:11.05,0:31:14.07,normal_Wed,,0,0,0,,But it'd be a bad choice for filming
+Dialogue: 0,0:31:14.07,0:31:15.42,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:31:15.42,0:31:17.02,normal_Wed,,0,0,0,,I don't live in Kasuga's apartment anymore
+Dialogue: 2,0:31:17.82,0:31:22.43,normal_Wed,,0,0,0,,If Kuro's apartment is available to work with
+Dialogue: 2,0:31:22.43,0:31:24.56,normal_Wed,,0,0,0,,It'd be a heavy blow to variety shows
+Dialogue: 2,0:31:24.56,0:31:26.36,normal_Wed,,0,0,0,,A certain death
+Dialogue: 2,0:31:26.36,0:31:28.33,normal_Wed,,0,0,0,,Especially for Wednesday Downtown
+Dialogue: 2,0:31:28.33,0:31:33.14,normal_Wed,,0,0,0,,However, because Kuro-chan wanted to continue seeing more homes
+Dialogue: 2,0:31:33.14,0:31:35.54,normal_Wed,,0,0,0,,The staff had to look for more
+Dialogue: 2,0:31:35.54,0:31:37.67,normal_Wed,,0,0,0,,So after this, a week later,
+Dialogue: 2,0:31:37.67,0:31:41.18,normal_Wed,,0,0,0,,Just as we were about to do some more viewings
+Dialogue: 2,0:31:41.67,0:31:44.28,normal_Wed,,0,0,0,,Literally the day before
+Dialogue: 2,0:31:44.28,0:31:47.32,normal_Wed,,0,0,0,,Kuro-chan got coronavirus
+Dialogue: 2,0:31:47.32,0:31:52.19,normal_Wed,,0,0,0,,So we had to prepare to find other places after he had recovered
+Dialogue: 2,0:31:52.19,0:31:54.72,normal_Wed,,0,0,0,,So it's not over yet?
+Dialogue: 2,0:31:54.72,0:31:56.73,normal_Wed,,0,0,0,,How long will it take him to recover?
+Dialogue: 2,0:31:56.73,0:31:58.73,normal_Wed,,0,0,0,,How long will it take?
+Dialogue: 2,0:31:58.73,0:31:59.50,normal_Wed,,0,0,0,,Roughly
+Dialogue: 2,0:31:59.50,0:32:01.63,normal_Wed,,0,0,0,,He should be out about now
+Dialogue: 2,0:32:01.63,0:32:03.17,normal_Wed,,0,0,0,,Saying "out" is a bit...
+Dialogue: 2,0:32:03.17,0:32:05.97,normal_Wed,,0,0,0,,He wasn't in prison
+Dialogue: 0,0:32:06.57,0:32:12.18,special_Wed_4_X,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\blur7\move(720,528,720,478,0,120)\fad(0,300)}After the last episode{\c&H71FFFF&} - One month has passed
+Dialogue: 2,0:32:12.50,0:32:13.66,normal_Wed,,0,0,0,,So, so...
+Dialogue: 2,0:32:15.75,0:32:16.71,normal_Wed,,0,0,0,,It's FUJIWARA!
+Dialogue: 2,0:32:16.71,0:32:18.62,normal_Wed,,0,0,0,,We are FUJIWARA!
+Dialogue: 2,0:32:18.62,0:32:20.68,normal_Wed,,0,0,0,,Why did you come out?
+Dialogue: 2,0:32:20.68,0:32:24.79,normal_Wed,,0,0,0,,To put an end to Kuro-chan's house search
+Dialogue: 2,0:32:24.79,0:32:27.49,normal_Wed,,0,0,0,,I think we've had enough
+Dialogue: 2,0:32:27.49,0:32:30.36,normal_Wed,,0,0,0,,Does it make sense to do it like this?
+Dialogue: 2,0:32:30.36,0:32:31.84,normal_Wed,,0,0,0,,What are you talking about?
+Dialogue: 2,0:32:32.68,0:32:38.03,normal_Wed,,0,0,0,,Therefore, one day in August, when Kuro-chan was successfully discharged from the hospital
+Dialogue: 2,0:32:39.45,0:32:42.57,normal_Wed,,0,0,0,,So, this is the next day of house hunting
+Dialogue: 2,0:32:42.57,0:32:44.94,normal_Wed,,0,0,0,,Great!
+Dialogue: 2,0:32:44.94,0:32:46.41,normal_Wed,,0,0,0,,Day 2 day 2!
+Dialogue: 2,0:32:46.41,0:32:47.84,normal_Wed,,0,0,0,,So excited!
+Dialogue: 2,0:32:48.24,0:32:50.85,normal_Wed,,0,0,0,,I'm sorry for interrupting the shoot because of coronavirus
+Dialogue: 0,0:32:50.85,0:32:51.78,normal_Wed,,0,0,0,,Really
+Dialogue: 2,0:32:52.62,0:32:54.28,normal_Wed,,0,0,0,,It can't be helped...
+Dialogue: 0,0:32:54.28,0:32:55.62,normal_Wed,,0,0,0,,It can't be helped
+Dialogue: 2,0:32:55.62,0:32:59.99,normal_Wed,,0,0,0,,So, we've found a house you according to your wishes \N-Really?
+Dialogue: 2,0:32:59.99,0:33:01.42,normal_Wed,,0,0,0,,So please make a decision
+Dialogue: 2,0:33:02.01,0:33:07.44,normal_Wed,,0,0,0,,He couldn't decide on a new home among the 4 residences he visited on the first day
+Dialogue: 2,0:33:07.90,0:33:11.33,normal_Wed,,0,0,0,,And so, the first residence for this day was...
+Dialogue: 2,0:33:11.33,0:33:15.14,normal_Wed,,0,0,0,,A 14th floor apartment in Chuo-ku
+Dialogue: 1,0:33:14.65,0:33:16.22,wipe_Wed,,0,0,0,,This is a decent place to live
+Dialogue: 2,0:33:16.47,0:33:18.21,normal_Wed,,0,0,0,,Please come in, please come in
+Dialogue: 2,0:33:18.21,0:33:19.18,normal_Wed,,0,0,0,,Ohhhh
+Dialogue: 2,0:33:19.18,0:33:20.61,normal_Wed,,0,0,0,,Okay, okay, let's go
+Dialogue: 2,0:33:20.78,0:33:23.38,normal_Wed,,0,0,0,,Please, please, please
+Dialogue: 0,0:33:23.38,0:33:24.58,normal_Wed,,0,0,0,,Take a look
+Dialogue: 2,0:33:24.58,0:33:26.12,normal_Wed,,0,0,0,,Ah, so spacious!
+Dialogue: 2,0:33:29.28,0:33:32.56,normal_Wed,,0,0,0,,How about this place? It was built last year \N -Last year?
+Dialogue: 2,0:33:32.56,0:33:34.59,normal_Wed,,0,0,0,,A brand new apartment. \N -Eh?
+Dialogue: 2,0:33:34.71,0:33:35.99,normal_Wed,,0,0,0,,Suddenly a serious one
+Dialogue: 0,0:33:35.99,0:33:38.43,normal_Wed,,0,0,0,,No, no, no...
+Dialogue: 2,0:33:38.43,0:33:41.93,normal_Wed,,0,0,0,,You're helping me with this, you're helping me with this
+Dialogue: 2,0:33:42.33,0:33:45.34,normal_Wed,,0,0,0,,The feeling of "let's stay here" came over me
+Dialogue: 2,0:33:45.34,0:33:47.30,normal_Wed,,0,0,0,,Yeah, that's for sure
+Dialogue: 2,0:33:47.30,0:33:49.11,normal_Wed,,0,0,0,,We can't take you everywhere of course
+Dialogue: 2,0:33:49.11,0:33:50.41,normal_Wed,,0,0,0,,We also want you to make a decision quickly
+Dialogue: 2,0:33:50.41,0:33:52.21,normal_Wed,,0,0,0,,Looks like it's for real this time, Kuro-chan
+Dialogue: 2,0:33:52.21,0:33:53.44,normal_Wed,,0,0,0,,Just make a good decision
+Dialogue: 2,0:33:53.44,0:33:56.28,normal_Wed,,0,0,0,,Did something happen here?
+Dialogue: 2,0:33:56.28,0:33:57.85,normal_Wed,,0,0,0,,Not at all  \N-No?
+Dialogue: 0,0:33:57.85,0:33:58.31,normal_Wed,,0,0,0,,Nothing
+Dialogue: 2,0:33:58.97,0:34:01.79,normal_Wed,,0,0,0,,Age: one year and 6 months
+Dialogue: 2,0:34:01.79,0:34:04.98,normal_Wed,,0,0,0,,A little larger than Kuro-chan's current residence
+Dialogue: 2,0:34:04.98,0:34:09.07,normal_Wed,,0,0,0,,A 50 sqm 2LDK problem-free house
+Dialogue: 1,0:34:08.78,0:34:10.11,wipe_Wed,,0,0,0,,And it's brand new
+Dialogue: 2,0:34:10.43,0:34:13.16,normal_Wed,,0,0,0,,Please look over there  \N-It's spacious
+Dialogue: 2,0:34:13.16,0:34:16.03,normal_Wed,,0,0,0,,A walk-in closet  \N-It's super spacious
+Dialogue: 2,0:34:16.03,0:34:19.50,normal_Wed,,0,0,0,,Is there any storage here?
+Dialogue: 2,0:34:19.50,0:34:22.87,normal_Wed,,0,0,0,,What are you talking about? Can't you see?
+Dialogue: 2,0:34:22.87,0:34:23.94,normal_Wed,,0,0,0,,The tone is so cold
+Dialogue: 2,0:34:23.94,0:34:25.64,normal_Wed,,0,0,0,,I don't even know what he was asking
+Dialogue: 2,0:34:26.06,0:34:29.75,normal_Wed,,0,0,0,,A house with plenty of storage
+Dialogue: 2,0:34:30.87,0:34:33.13,normal_Wed,,0,0,0,,The rent is of concern
+Dialogue: 2,0:34:34.02,0:34:35.52,normal_Wed,,0,0,0,,27... 8
+Dialogue: 2,0:34:35.52,0:34:36.12,normal_Wed,,0,0,0,,28
+Dialogue: 0,0:34:36.12,0:34:36.89,normal_Wed,,0,0,0,,28？
+Dialogue: 2,0:34:37.36,0:34:38.49,normal_Wed,,0,0,0,,28？
+Dialogue: 2,0:34:38.49,0:34:40.32,normal_Wed,,0,0,0,,So, Kuro-chan, how much?
+Dialogue: 2,0:34:41.32,0:34:45.03,normal_Wed,,0,0,0,,This is also an issue, I can't guess the price
+Dialogue: 2,0:34:46.51,0:34:47.43,normal_Wed,,0,0,0,,220,000
+Dialogue: 0,0:34:47.43,0:34:49.35,normal_Wed,,0,0,0,,220,000?
+Dialogue: 2,0:34:49.80,0:34:52.27,normal_Wed,,0,0,0,,The rent for this residence is...
+Dialogue: 2,0:34:52.44,0:34:54.01,normal_Wed,,0,0,0,,255,000 yen
+Dialogue: 2,0:34:54.84,0:34:55.97,normal_Wed,,0,0,0,,Ah, so close
+Dialogue: 2,0:34:55.97,0:34:57.67,normal_Wed,,0,0,0,,You are both very close
+Dialogue: 2,0:34:57.67,0:35:00.98,normal_Wed,,0,0,0,,There is no reason to refuse a house like this \N -So true
+Dialogue: 2,0:35:01.18,0:35:02.31,normal_Wed,,0,0,0,,So...
+Dialogue: 2,0:35:03.15,0:35:06.95,normal_Wed,,0,0,0,,I am interested in this residence
+Dialogue: 2,0:35:08.94,0:35:10.89,normal_Wed,,0,0,0,,Please let me think about it a little more
+Dialogue: 2,0:35:10.89,0:35:12.62,normal_Wed,,0,0,0,,That's the process, right?
+Dialogue: 0,0:35:12.62,0:35:14.16,normal_Wed,,0,0,0,,That...
+Dialogue: 2,0:35:14.16,0:35:17.76,normal_Wed,,0,0,0,,It feels like the first half and the second half are completely different  \N-Hmm
+Dialogue: 1,0:35:17.27,0:35:18.55,wipe_Wed,,0,0,0,,The time lapse is a bit long
+Dialogue: 2,0:35:17.89,0:35:18.90,normal_Wed,,0,0,0,,I'm sorry
+Dialogue: 2,0:35:18.89,0:35:20.44,normal_Wed,,0,0,0,,What was done on the first day of the shoot?
+Dialogue: 2,0:35:20.43,0:35:21.60,normal_Wed,,0,0,0,,There was too much of a gap between then and now
+Dialogue: 2,0:35:21.70,0:35:23.57,normal_Wed,,0,0,0,,I don't know what the reason is,
+Dialogue: 2,0:35:24.17,0:35:25.77,normal_Wed,,0,0,0,,Why did you forget?
+Dialogue: 2,0:35:25.84,0:35:28.94,normal_Wed,,0,0,0,,You know, the money issue...
+Dialogue: 2,0:35:28.94,0:35:30.77,normal_Wed,,0,0,0,,A little indecisive about money, I guess
+Dialogue: 2,0:35:31.36,0:35:35.39,normal_Wed,,0,0,0,,Scared by the prospect of doubling his current rent
+Dialogue: 2,0:35:35.76,0:35:40.00,normal_Wed,,0,0,0,,Therefore, the residence here is kept for the time being
+Dialogue: 2,0:35:40.63,0:35:43.00,normal_Wed,,0,0,0,,Next: Room 6
+Dialogue: 2,0:35:44.65,0:35:48.48,normal_Wed,,0,0,0,,A three-story apartment in Shinagawa Ward
+Dialogue: 2,0:35:49.33,0:35:51.53,normal_Wed,,0,0,0,,Here, oh
+Dialogue: 1,0:35:51.15,0:35:53.47,wipe_Wed,,0,0,0,,But the problem is the rent!
+Dialogue: 0,0:35:52.83,0:35:54.20,normal_Wed,,0,0,0,,Eh-
+Dialogue: 2,0:35:54.20,0:35:54.96,normal_Wed,,0,0,0,,Not bad
+Dialogue: 2,0:35:55.63,0:35:58.17,normal_Wed,,0,0,0,,Here. It's spacious, isn't it?
+Dialogue: 2,0:35:58.17,0:35:59.80,normal_Wed,,0,0,0,,Very spacious
+Dialogue: 2,0:35:59.80,0:36:01.27,normal_Wed,,0,0,0,,Not bad, huh?  \N-It's not bad
+Dialogue: 2,0:36:01.57,0:36:10.00,normal_Wed,,0,0,0,,28 years old, 87 square meters, 2SLDK house with roof terrace
+Dialogue: 2,0:36:10.41,0:36:12.12,normal_Wed,,0,0,0,,There is a Japanese-style room
+Dialogue: 2,0:36:12.18,0:36:14.52,normal_Wed,,0,0,0,,Japanese-style?\N  -A Japanese-style room
+Dialogue: 2,0:36:14.52,0:36:16.75,normal_Wed,,0,0,0,,How to put it, the scent of tatami is good. \N -Not bad, right?
+Dialogue: 2,0:36:16.75,0:36:19.22,normal_Wed,,0,0,0,,In fact, check this out
+Dialogue: 2,0:36:19.22,0:36:20.59,normal_Wed,,0,0,0,,This is a buried type furnace
+Dialogue: 0,0:36:20.59,0:36:21.26,normal_Wed,,0,0,0,,Wow!
+Dialogue: 2,0:36:21.26,0:36:23.09,normal_Wed,,0,0,0,,It's like a trap door
+Dialogue: 2,0:36:23.39,0:36:25.09,normal_Wed,,0,0,0,,If this is it  \N -A feeling of the Showa era, right?
+Dialogue: 2,0:36:25.09,0:36:26.06,normal_Wed,,0,0,0,,Nice!
+Dialogue: 2,0:36:26.46,0:36:29.77,normal_Wed,,0,0,0,,Sitting next to the furnace with a girl
+Dialogue: 0,0:36:29.77,0:36:30.37,normal_Wed,,0,0,0,,And then, what?
+Dialogue: 2,0:36:30.63,0:36:33.34,normal_Wed,,0,0,0,,No, no, no. Shouldn't you be calling over the chief and HIRO instead?
+Dialogue: 2,0:36:33.40,0:36:35.04,normal_Wed,,0,0,0,,Isn't that hell?
+Dialogue: 2,0:36:35.21,0:36:37.77,normal_Wed,,0,0,0,,Isn't that hell?
+Dialogue: 2,0:36:37.77,0:36:38.71,normal_Wed,,0,0,0,, Why is it hell?
+Dialogue: 2,0:36:38.84,0:36:42.61,normal_Wed,,0,0,0,,HIRO sweats from top to bottom all year long
+Dialogue: 2,0:36:42.61,0:36:44.55,normal_Wed,,0,0,0,,With people like that putting their feet there
+Dialogue: 2,0:36:44.55,0:36:47.85,normal_Wed,,0,0,0,,The chief would probably keel over
+Dialogue: 2,0:36:47.86,0:36:49.69,normal_Wed,,0,0,0,,You can have a Yasuda Dai Circus meeting here, right?
+Dialogue: 2,0:36:49.69,0:36:51.35,normal_Wed,,0,0,0,,No way
+Dialogue: 2,0:36:51.35,0:36:53.52,normal_Wed,,0,0,0,,The chief will try and say something funny
+Dialogue: 2,0:36:53.52,0:36:55.23,normal_Wed,,0,0,0,,Like he was pedaling his bike
+Dialogue: 2,0:36:55.36,0:36:56.59,normal_Wed,,0,0,0,,He obviously doesn't know what is funny
+Dialogue: 2,0:36:56.59,0:37:00.13,normal_Wed,,0,0,0,,He always says stuff like "it's been 20 years, let's take a bike trip" and other confusing things
+Dialogue: 2,0:37:00.13,0:37:02.00,normal_Wed,,0,0,0,,I don't know what he's talking about
+Dialogue: 2,0:37:02.00,0:37:05.17,normal_Wed,,0,0,0,,Sorry, it's my fault for bringing up the chief, I'm sorry
+Dialogue: 2,0:37:05.77,0:37:09.34,normal_Wed,,0,0,0,,Then, in addition to the buried furnace and roof
+Dialogue: 2,0:37:09.34,0:37:12.47,normal_Wed,,0,0,0,,There is one more thing to recommend about this
+Dialogue: 2,0:37:12.84,0:37:15.85,normal_Wed,,0,0,0,,This part of the building is completely occupied by this place
+Dialogue: 2,0:37:15.85,0:37:17.55,normal_Wed,,0,0,0,,So there is no next door neighbor
+Dialogue: 2,0:37:17.55,0:37:20.02,normal_Wed,,0,0,0,,Just one place?  \N-Yes
+Dialogue: 2,0:37:20.07,0:37:26.69,normal_Wed,,0,0,0,,Yes, a house that is suitable for entertainers
+Dialogue: 2,0:37:27.02,0:37:28.49,normal_Wed,,0,0,0,,So how much is it?
+Dialogue: 2,0:37:29.00,0:37:30.43,normal_Wed,,0,0,0,,About 340,000
+Dialogue: 0,0:37:30.43,0:37:31.16,normal_Wed,,0,0,0,,340,000?
+Dialogue: 2,0:37:31.16,0:37:33.83,normal_Wed,,0,0,0,,How is it worth so much?
+Dialogue: 2,0:37:34.53,0:37:38.00,normal_Wed,,0,0,0,,280,000
+Dialogue: 2,0:37:38.00,0:37:39.84,normal_Wed,,0,0,0,,Okay, lets see
+Dialogue: 2,0:37:40.17,0:37:43.60,normal_Wed,,0,0,0,,Rent is 290,000
+Dialogue: 2,0:37:44.41,0:37:45.91,normal_Wed,,0,0,0,,Almost
+Dialogue: 2,0:37:46.01,0:37:46.98,normal_Wed,,0,0,0,,So close
+Dialogue: 2,0:37:46.98,0:37:49.75,normal_Wed,,0,0,0,,10,000 difference
+Dialogue: 2,0:37:49.85,0:37:53.42,normal_Wed,,0,0,0,,It feels like fate
+Dialogue: 2,0:37:53.48,0:37:56.09,normal_Wed,,0,0,0,,So, what to do?
+Dialogue: 2,0:37:56.29,0:37:58.25,normal_Wed,,0,0,0,,For this residence...
+Dialogue: 0,0:37:58.99,0:37:59.99,normal_Wed,,0,0,0,,Enough...
+Dialogue: 2,0:38:01.08,0:38:03.06,normal_Wed,,0,0,0,,Reserved!
+Dialogue: 0,0:38:03.43,0:38:04.83,normal_Wed,,0,0,0,,Reserved
+Dialogue: 2,0:38:04.83,0:38:08.73,normal_Wed,,0,0,0,,You've pretty much already said "this is the house", and yet there's still more
+Dialogue: 2,0:38:09.03,0:38:11.00,normal_Wed,,0,0,0,,I don't think that was the tone he was trying to convey
+Dialogue: 2,0:38:11.00,0:38:12.40,normal_Wed,,0,0,0,,That's what it meant
+Dialogue: 2,0:38:12.40,0:38:15.87,normal_Wed,,0,0,0,,Isn't it more expensive than the first house?
+Dialogue: 2,0:38:16.11,0:38:17.54,normal_Wed,,0,0,0,,Maybe a little expensive...
+Dialogue: 2,0:38:17.54,0:38:20.24,normal_Wed,,0,0,0,,So you're not willing to live here, right?
+Dialogue: 2,0:38:20.84,0:38:22.95,normal_Wed,,0,0,0,,But you always say something rash \N-No, sorry
+Dialogue: 2,0:38:22.94,0:38:23.61,normal_Wed,,0,0,0,,You can't live here
+Dialogue: 2,0:38:23.70,0:38:24.45,normal_Wed,,0,0,0,,I do think it's good but,
+Dialogue: 2,0:38:24.45,0:38:26.45,normal_Wed,,0,0,0,,You're going to run out of places to live!
+Dialogue: 2,0:38:26.53,0:38:29.12,normal_Wed,,0,0,0,,The next one is the last one
+Dialogue: 2,0:38:29.45,0:38:30.32,normal_Wed,,0,0,0,,Eh, the last one?
+Dialogue: 0,0:38:30.32,0:38:33.22,normal_Wed,,0,0,0,,The next one is the last one.  \N-Didn't you say you've found a lot?
+Dialogue: 2,0:38:33.22,0:38:35.26,normal_Wed,,0,0,0,,We barely saw any on the first day
+Dialogue: 2,0:38:35.79,0:38:37.29,normal_Wed,,0,0,0,,Not that many!
+Dialogue: 2,0:38:37.73,0:38:43.55,normal_Wed,,0,0,0,,So, the final residence in Kuro-chan's search for a new home is...
+Dialogue: 1,0:38:44.09,0:38:45.05,wipe_Wed,,0,0,0,,At last
+Dialogue: 2,0:38:44.23,0:38:46.20,normal_Wed,,0,0,0,,Please enter
+Dialogue: 2,0:38:46.20,0:38:47.70,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 2,0:38:48.67,0:38:51.84,normal_Wed,,0,0,0,,Ah, I see, I see
+Dialogue: 2,0:38:52.04,0:38:53.21,normal_Wed,,0,0,0,,It's pretty good, right?
+Dialogue: 2,0:38:53.21,0:38:54.51,normal_Wed,,0,0,0,,Yes, it is
+Dialogue: 2,0:38:54.51,0:38:56.28,normal_Wed,,0,0,0,,Well, how can I put it?
+Dialogue: 2,0:38:56.29,0:38:57.51,normal_Wed,,0,0,0,,How can I put it? It's a bit...
+Dialogue: 2,0:38:57.91,0:38:59.52,normal_Wed,,0,0,0,,It feels like it's not the first time
+Dialogue: 2,0:38:59.52,0:39:01.72,normal_Wed,,0,0,0,,Living room, dining room and kitchen
+Dialogue: 2,0:39:02.21,0:39:08.07,normal_Wed,,0,0,0,,1LDK in Minato-ku, a 38 years old apartment
+Dialogue: 2,0:39:09.83,0:39:14.73,normal_Wed,,0,0,0,,Doesn't it look a bit like your current house that'll be destroyed?\N  -Yes, it does
+Dialogue: 2,0:39:14.73,0:39:16.43,normal_Wed,,0,0,0,,How to put it...
+Dialogue: 2,0:39:16.43,0:39:21.50,normal_Wed,,0,0,0,,The size of the space is also similar, and the overall feeling is quite similar. \N -Yes
+Dialogue: 2,0:39:21.50,0:39:24.87,normal_Wed,,0,0,0,,It took a lot of effort to find this
+Dialogue: 2,0:39:25.41,0:39:27.71,normal_Wed,,0,0,0,,I feel like I can live in it very comfortably
+Dialogue: 0,0:39:27.71,0:39:28.85,normal_Wed,,0,0,0,,It's good, right? \N -Yes, it is
+Dialogue: 2,0:39:29.35,0:39:35.53,normal_Wed,,0,0,0,,The same as Kuro-chan's current house, a 4-story building without an elevator
+Dialogue: 2,0:39:36.36,0:39:38.02,normal_Wed,,0,0,0,,And so, the rent
+Dialogue: 2,0:39:38.55,0:39:40.35,normal_Wed,,0,0,0,,119,000 yen
+Dialogue: 2,0:39:40.70,0:39:42.69,normal_Wed,,0,0,0,,It's below 120,000\N  -Eh?
+Dialogue: 2,0:39:43.34,0:39:47.36,normal_Wed,,0,0,0,,And so, almost the same amount as his previous residence
+Dialogue: 2,0:39:47.36,0:39:50.20,normal_Wed,,0,0,0,,Wow, what to do? This place is too good
+Dialogue: 1,0:39:50.20,0:39:51.37,wipe_Wed,,0,0,0,,Too good?
+Dialogue: 2,0:39:50.20,0:39:54.80,normal_Wed,,0,0,0,,All the 7 residences we have seen
+Dialogue: 2,0:39:54.80,0:39:57.71,normal_Wed,,0,0,0,,Think back over all of them again
+Dialogue: 2,0:39:59.12,0:40:07.38,normal_Wed,,0,0,0,,Over the course of two days and viewing all kinds of houses, the one Kuro-chan chose as his new home is...
+Dialogue: 2,0:40:08.05,0:40:12.19,normal_Wed,,0,0,0,,So Kuro-chan, which residence will you choose?
+Dialogue: 2,0:40:13.79,0:40:17.93,normal_Wed,,0,0,0,,The residence I want to live in is...
+Dialogue: 2,0:40:23.35,0:40:24.73,normal_Wed,,0,0,0,,Absolutely not!
+Dialogue: 2,0:40:24.73,0:40:26.13,normal_Wed,,0,0,0,,Hurry up and choose, seriously
+Dialogue: 2,0:40:26.13,0:40:27.92,normal_Wed,,0,0,0,,I know! Wait a minute!
+Dialogue: 2,0:40:28.52,0:40:30.27,normal_Wed,,0,0,0,,I thought I would look at a few more
+Dialogue: 2,0:40:31.40,0:40:35.55,normal_Wed,,0,0,0,,So Kuro-chan, which residence will you choose?
+Dialogue: 2,0:40:37.15,0:40:41.38,normal_Wed,,0,0,0,,The residence I want to live in is...
+Dialogue: 2,0:40:44.09,0:40:46.72,normal_Wed,,0,0,0,,The 290,000 residence
+Dialogue: 2,0:40:48.29,0:40:49.29,normal_Wed,,0,0,0,,Is that so?
+Dialogue: 2,0:40:50.03,0:40:51.13,normal_Wed,,0,0,0,,Yes!
+Dialogue: 2,0:40:52.03,0:40:54.36,normal_Wed,,0,0,0,,The flat house
+Dialogue: 2,0:40:54.36,0:40:57.60,normal_Wed,,0,0,0,,Yes, it's decided!
+Dialogue: 2,0:40:57.60,0:41:00.80,normal_Wed,,0,0,0,,But you've been so concerned about rent
+Dialogue: 2,0:41:00.80,0:41:03.34,normal_Wed,,0,0,0,,That place is twice as much as the place you live now
+Dialogue: 2,0:41:03.34,0:41:06.08,normal_Wed,,0,0,0,,It is twice as much
+Dialogue: 2,0:41:06.08,0:41:08.81,normal_Wed,,0,0,0,,What is the reason for this decision?
+Dialogue: 2,0:41:09.71,0:41:11.31,normal_Wed,,0,0,0,,More rooms
+Dialogue: 2,0:41:11.31,0:41:16.15,normal_Wed,,0,0,0,,Because there's no neighbors, there's no need to consider anyone else
+Dialogue: 2,0:41:16.15,0:41:19.19,normal_Wed,,0,0,0,,This last place I was introduced to
+Dialogue: 2,0:41:19.19,0:41:21.56,normal_Wed,,0,0,0,,Although it's similar to where I live now
+Dialogue: 2,0:41:21.56,0:41:24.63,normal_Wed,,0,0,0,,It does feel nice
+Dialogue: 2,0:41:24.63,0:41:26.66,normal_Wed,,0,0,0,,The rent is also low
+Dialogue: 2,0:41:26.66,0:41:29.13,normal_Wed,,0,0,0,,So it does feel like a bit of a step up
+Dialogue: 2,0:41:29.13,0:41:31.83,normal_Wed,,0,0,0,,But I also have the desire to live in a nicer place
+Dialogue: 2,0:41:33.44,0:41:35.24,normal_Wed,,0,0,0,,We told you, right?
+Dialogue: 0,0:41:35.81,0:41:36.37,normal_Wed,,0,0,0,,Eh?
+Dialogue: 2,0:41:36.37,0:41:37.14,normal_Wed,,0,0,0,,From the very beginning
+Dialogue: 2,0:41:37.64,0:41:42.11,normal_Wed,,0,0,0,,So after this, a formal residential lease agreement was signed
+Dialogue: 2,0:41:43.92,0:41:46.73,normal_Wed,,0,0,0,,Finally, the moving day
+Dialogue: 2,0:41:47.95,0:41:50.85,normal_Wed,,0,0,0,,The table should be...
+Dialogue: 2,0:41:50.85,0:41:53.82,normal_Wed,,0,0,0,,The table should be set over here, right?
+Dialogue: 2,0:41:54.34,0:42:00.92,normal_Wed,,0,0,0,,Yes, we provided new types of furniture suitable for the upgrade in house
+Dialogue: 1,0:42:00.58,0:42:01.83,wipe_Wed,,0,0,0,,Earned a lot out of it
+Dialogue: 2,0:42:01.93,0:42:04.41,normal_Wed,,0,0,0,,Even the widely known bed
+Dialogue: 2,0:42:06.03,0:42:08.38,normal_Wed,,0,0,0,,Was upgraded to a King Size Extra Large
+Dialogue: 1,0:42:09.37,0:42:10.55,wipe_Wed,,0,0,0,,That's good living
+Dialogue: 2,0:42:10.57,0:42:14.11,normal_Wed,,0,0,0,,Because of the seawater or rain
+Dialogue: 2,0:42:14.10,0:42:16.38,normal_Wed,,0,0,0,,When it was shipped back it was covered with sand
+Dialogue: 2,0:42:16.88,0:42:19.05,normal_Wed,,0,0,0,,I was really disgusted
+Dialogue: 1,0:42:19.51,0:42:20.61,wipe_Wed,,0,0,0,,So he got a new one
+Dialogue: 2,0:42:19.76,0:42:26.08,normal_Wed,,0,0,0,,So, after disposing of the furniture that received damage on the island, the move was complete
+Dialogue: 2,0:42:27.65,0:42:28.80,normal_Wed,,0,0,0,,Right at this moment
+Dialogue: 1,0:42:28.21,0:42:29.77,wipe_Wed,,0,0,0,,It's going to get dirty soon, right?
+Dialogue: 2,0:42:29.69,0:42:33.10,normal_Wed,,0,0,0,,The team has prepared a moving celebration for you
+Dialogue: 2,0:42:33.10,0:42:34.53,normal_Wed,,0,0,0,,Moving celebration?\N  -Yes
+Dialogue: 2,0:42:35.00,0:42:35.87,normal_Wed,,0,0,0,,What?
+Dialogue: 2,0:42:35.87,0:42:37.20,normal_Wed,,0,0,0,,Please
+Dialogue: 1,0:42:43.57,0:42:44.98,wipe_Wed,,0,0,0,,Something to hang?
+Dialogue: 2,0:42:45.84,0:42:49.38,normal_Wed,,0,0,0,,The gifts prepared by the program team for the new home are...
+Dialogue: 2,0:42:49.65,0:42:50.35,normal_Wed,,0,0,0,,It's a camera
+Dialogue: 2,0:42:50.35,0:42:52.05,normal_Wed,,0,0,0,,Camera? What for?
+Dialogue: 2,0:42:52.42,0:42:54.72,normal_Wed,,0,0,0,,Why a camera? Why have a camera there?
+Dialogue: 2,0:42:54.82,0:42:59.06,normal_Wed,,0,0,0,,To prepare for 24 hours 365 days of non-stop uninterrupted Kuro-chan life
+Dialogue: 2,0:42:59.59,0:43:02.56,normal_Wed,,0,0,0,,For what? No need to...hey wait a minute
+Dialogue: 2,0:43:02.66,0:43:06.33,normal_Wed,,0,0,0,,Are you really installing it? Wait a minute!
+Dialogue: 2,0:43:07.14,0:43:15.46,normal_Wed,,0,0,0,,Due to disassembling and re-installing, hiding it would be to difficult
+Dialogue: 2,0:43:15.97,0:43:19.61,normal_Wed,,0,0,0,,Sounds like he's talking about a hair transplant
+Dialogue: 2,0:43:19.61,0:43:26.15,normal_Wed,,0,0,0,,And so, two cameras were installed in the living room and bedroom of this new home
+Dialogue: 2,0:43:26.52,0:43:27.48,normal_Wed,,0,0,0,,Then,
+Dialogue: 2,0:43:27.48,0:43:29.99,normal_Wed,,0,0,0,,Really? Is this happening?
+Dialogue: 2,0:43:29.99,0:43:32.22,normal_Wed,,0,0,0,,Wait, so I don't have any room to escape?
+Dialogue: 2,0:43:32.58,0:43:37.33,normal_Wed,,0,0,0,,Change my castle back. Get rid of them!
+Dialogue: 2,0:43:40.13,0:43:42.16,normal_Wed,,0,0,0,,In the end, he chose the most spacious
+Dialogue: 2,0:43:42.16,0:43:46.00,normal_Wed,,0,0,0,,Chose a house in Shinagawa Ward with a rent of 290,000 yen
+Dialogue: 2,0:43:46.00,0:43:48.75,normal_Wed,,0,0,0,,Can't you just tell us the address?
+Dialogue: 2,0:43:48.75,0:43:51.54,normal_Wed,,0,0,0,,We can't do that
+Dialogue: 2,0:43:51.54,0:43:52.88,normal_Wed,,0,0,0,,And there are cameras
+Dialogue: 2,0:43:52.88,0:43:54.21,normal_Wed,,0,0,0,,Not all rooms are equipped with it, right?
+Dialogue: 2,0:43:54.21,0:43:56.54,normal_Wed,,0,0,0,,Of course \N -Just the living room and bedroom
+Dialogue: 2,0:43:56.54,0:43:58.21,normal_Wed,,0,0,0,,Even in the bedroom
+Dialogue: 2,0:43:58.21,0:43:59.05,normal_Wed,,0,0,0,,I think it was installed
+Dialogue: 2,0:44:00.24,0:44:03.72,normal_Wed,,0,0,0,,When Kuro-chan wants to do something, he has to go to another room
+Dialogue: 2,0:44:03.72,0:44:06.03,normal_Wed,,0,0,0,,He'll have to do it in the buried furnace
+Dialogue: 2,0:44:08.06,0:44:11.39,normal_Wed,,0,0,0,,This is worse than prison, right?
+Dialogue: 2,0:44:12.24,0:44:13.90,normal_Wed,,0,0,0,,It's too messy, right?
+Dialogue: 2,0:44:13.90,0:44:14.94,normal_Wed,,0,0,0,,A great thing has occurred
+Dialogue: 2,0:44:14.94,0:44:20.80,normal_Wed,,0,0,0,,You should let the audience be able to watch it on their cell phones
+Dialogue: 2,0:44:20.80,0:44:22.81,normal_Wed,,0,0,0,,If Kuro-chan agrees, it's okay, right?
+Dialogue: 2,0:44:23.04,0:44:25.91,normal_Wed,,0,0,0,,Like that game SEAMAN, right?
+Dialogue: 2,0:44:26.54,0:44:27.96,normal_Wed,,0,0,0,,Do you mean to go to raising?
+Dialogue: 2,0:44:28.27,0:44:33.02,normal_Wed,,0,0,0,,Click the phone and a piece of bait will fall down
+Dialogue: 2,0:44:33.02,0:44:35.15,normal_Wed,,0,0,0,,So how about it? Now
+Dialogue: 2,0:44:35.15,0:44:36.07,normal_Wed,,0,0,0,,Now!
+Dialogue: 2,0:44:36.07,0:44:37.15,normal_Wed,,0,0,0,,Want to see Kuro-chan?
+Dialogue: 2,0:44:37.15,0:44:38.66,normal_Wed,,0,0,0,,There's a camera?  \N-Do you want to see it?
+Dialogue: 2,0:44:38.65,0:44:39.54,normal_Wed,,0,0,0,,Let's see it
+Dialogue: 2,0:44:39.54,0:44:40.44,normal_Wed,,0,0,0,,Of course you want to see!
+Dialogue: 0,0:44:40.44,0:44:41.15,normal_Wed,,0,0,0,,Really?
+Dialogue: 2,0:44:42.63,0:44:44.19,normal_Wed,,0,0,0,,Already a bit messy
+Dialogue: 2,0:44:44.19,0:44:46.13,normal_Wed,,0,0,0,,It's a bit messy
+Dialogue: 2,0:44:46.13,0:44:47.33,normal_Wed,,0,0,0,,Not at home
+Dialogue: 2,0:44:47.33,0:44:49.00,normal_Wed,,0,0,0,,Not at home
+Dialogue: 2,0:44:49.00,0:44:51.17,normal_Wed,,0,0,0,,Isn't this for a pet?
+Dialogue: 0,0:44:51.17,0:44:52.67,normal_Wed,,0,0,0,,What?
+Dialogue: 2,0:44:52.67,0:44:55.34,normal_Wed,,0,0,0,,People who have pets usually install this kind of camera, right?
+Dialogue: 2,0:44:55.34,0:44:57.11,normal_Wed,,0,0,0,,If you care about your pet
+Dialogue: 2,0:44:57.11,0:44:59.51,normal_Wed,,0,0,0,,Could really give him stuff treats and stuff
+Dialogue: 2,0:44:59.51,0:45:01.34,normal_Wed,,0,0,0,,So, let's take a look at the bedroom
+Dialogue: 2,0:45:01.91,0:45:03.68,normal_Wed,,0,0,0,,Not there
+Dialogue: 2,0:45:03.68,0:45:05.36,normal_Wed,,0,0,0,,He seems to be out now
+Dialogue: 2,0:45:05.36,0:45:07.15,normal_Wed,,0,0,0,,Gone to work  \N-Work
+Dialogue: 2,0:45:07.92,0:45:10.22,normal_Wed,,0,0,0,,A very precarious spot to place a box of paper, right on the edge
+Dialogue: 2,0:45:10.22,0:45:12.76,normal_Wed,,0,0,0,,Right in the corner
+Dialogue: 2,0:45:12.76,0:45:14.51,normal_Wed,,0,0,0,,Already jerked off a few times, right?
+Dialogue: 2,0:45:17.10,0:45:20.60,normal_Wed,,0,0,0,,Incidentally, the places that Kuro-chan didn't choose
+Dialogue: 2,0:45:20.60,0:45:23.04,normal_Wed,,0,0,0,,Apart rom the first residence
+Dialogue: 2,0:45:23.04,0:45:26.98,normal_Wed,,0,0,0,,All of them are looking for occupants
+Dialogue: 2,0:45:26.98,0:45:29.22,normal_Wed,,0,0,0,,All interested parties are welcome
+Dialogue: 2,0:45:47.70,0:45:48.43,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:45:49.87,0:45:51.79,normal_Wed,,0,0,0,,Eh, what's this?
+Dialogue: 2,0:45:51.79,0:45:52.88,normal_Wed,,0,0,0,,Wait wait wait wait
+Dialogue: 2,0:45:52.88,0:45:54.47,normal_Wed,,0,0,0,,Eh, is this being filmed?
+Dialogue: 0,0:45:55.94,0:45:56.95,normal_Wed,,0,0,0,,Eh, what's going on?
+Dialogue: 2,0:45:56.95,0:45:59.18,normal_Wed,,0,0,0,,Eh, why? A live broadcast?
+Dialogue: 2,0:45:59.95,0:46:02.77,normal_Wed,,0,0,0,,Wait a minute. What the hell? Hey, wait a minute
+Dialogue: 2,0:46:02.77,0:46:04.52,normal_Wed,,0,0,0,,What's this? How are you doing this?
+Dialogue: 2,0:46:07.42,0:46:09.75,normal_Wed,,0,0,0,,I've moved, yes
+Dialogue: 0,0:45:29.77,0:46:14.75,normal_Wed,,0,0,0,,{\pos(717,152)}Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

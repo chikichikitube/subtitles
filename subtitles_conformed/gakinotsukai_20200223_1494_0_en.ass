@@ -1,0 +1,554 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../Videos/Gaki_200223_#1494_Hamada Dokkiri.mp4
+Video File: ../Videos/Gaki_200223_#1494_Hamada Dokkiri.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 18
+Active Line: 24
+Video Position: 1805
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Endo,Arial,20,&H001175DA,&H00000000,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,1,1.25,2,10,10,5,1
+Style: Hamada,Arial,20,&H00FD1818,&H00000000,&H00FEFEFE,&H00000000,0,0,0,0,75,100,0,0,1,1,1.25,2,10,10,5,1
+Style: Matsumoto,Arial,20,&H004113DF,&H00000000,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,1,1.25,2,10,10,5,1
+Style: Tanaka,Arial,20,&H00D40DCC,&H000000FF,&H00FEFEFE,&H00000000,0,0,0,0,75,100,0,0,1,1,1.25,2,10,10,5,1
+Style: Yamazaki,Arial,20,&H001DC322,&H00000000,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,1,1.25,2,10,10,5,1
+Style: Normal,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,1,1,2,10,10,5,1
+Style: Skull,Arial,40,&H00A71666,&H00FFFFFF,&H00FFFFFF,&H00A71666,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,11,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,1,1,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:12.08,0:01:13.35,Endo,,0,0,0,,endo
+Comment: 0,0:01:24.36,0:01:23.56,Default,,0,0,0,,Yeah
+Comment: 0,0:01:23.56,0:01:24.46,Matsumoto,,0,0,0,,matsumoto2
+Comment: 0,0:02:11.94,0:02:13.58,Normal,,0,0,0,,gday
+Comment: 0,0:02:35.47,0:02:36.64,Tanaka,,0,0,0,,tanaka
+Comment: 0,0:03:10.47,0:03:12.47,Tanaka,,0,0,0,,tanaka
+Comment: 0,0:05:04.55,0:05:05.78,Hamada,,0,0,0,,tanaka
+Comment: 0,0:05:12.76,0:05:13.79,Tanaka,,0,0,0,,tanaka3
+Comment: 0,0:07:36.33,0:07:37.24,Hamada,,0,0,0,,Geez come on
+Comment: 0,0:07:40.71,0:07:41.81,Matsumoto,,0,0,0,,matsumoto
+Comment: 0,0:07:42.77,0:07:45.01,Yamazaki,,0,0,0,,yama
+Comment: 0,0:08:56.68,0:08:57.85,Yamazaki,,0,0,0,,tanaka
+Comment: 0,0:09:10.33,0:09:11.13,Tanaka,,0,0,0,,tanaka
+Comment: 0,0:10:26.00,0:10:27.14,Tanaka,,0,0,0,,tanaka
+Comment: 0,0:12:28.29,0:12:29.69,Hamada,,0,0,0,,
+Comment: 0,0:12:35.43,0:12:36.20,Endo,,0,0,0,,endo
+Comment: 0,0:13:02.06,0:13:02.89,Hamada,,0,0,0,,hamada
+Comment: 0,0:13:03.13,0:13:04.66,Endo,,0,0,0,,endo
+Comment: 0,0:13:31.16,0:13:37.03,Skull,,0,0,0,,{\pos(218.8,235.2)}Skull
+Comment: 0,0:13:44.30,0:13:45.97,Yamazaki,,0,0,0,,yama
+Comment: 0,0:14:23.81,0:14:24.84,Endo,,0,0,0,,endo?
+Comment: 0,0:14:26.48,0:14:31.38,Skull,,0,0,0,,skull
+Comment: 0,0:15:48.33,0:15:50.06,Tanaka,,0,0,0,,tanaka
+Comment: 0,0:17:46.88,0:17:47.88,Normal,,0,0,0,,someone
+Comment: 0,0:19:02.12,0:19:03.82,Yamazaki,,0,0,0,,yama
+Comment: 0,0:19:29.11,0:19:30.25,Yamazaki,,0,0,0,,yama
+Comment: 0,0:20:31.48,0:20:32.44,Hamada,,0,0,0,,hamada
+Dialogue: 0,0:00:00.95,0:00:06.12,Matsumoto,,0,0,0,,{\pos(194,260.8)}The 1st time on Gaki no Tsukai ya Arehende!
+Dialogue: 0,0:00:02.78,0:00:06.12,Matsumoto,,0,0,0,,When will Hamada notice, verification test!
+Dialogue: 0,0:00:09.25,0:00:11.42,Matsumoto,,0,0,0,,{\pos(198.72,238.933)}This is about Hamada...
+Dialogue: 0,0:00:11.42,0:00:14.93,Matsumoto,,0,0,0,,{\pos(190.08,238.933)}recently his {\c&HFFFFFF&\3c&H000000&\4c&H9A005B&}senility {\c&H4113DF&\3c&HFFFFFF&\4c&H000000&}has been, {\c&H000000&\4c&H1C2CCD&}amazing
+Dialogue: 0,0:00:14.93,0:00:16.93,Matsumoto,,0,0,0,,{\pos(193.28,242.347)}Japanese people
+Dialogue: 0,0:00:16.93,0:00:18.96,Matsumoto,,0,0,0,,{\pos(196.48,241.92)}He probably thinks that includes as far as Taiwan
+Dialogue: 0,0:00:18.96,0:00:22.87,Yamazaki,,0,0,0,,Even further maybe, Asia
+Dialogue: 0,0:00:20.77,0:00:22.87,Endo,,0,0,0,,Possibly the entire Northern Hemisphere
+Dialogue: 0,0:00:22.87,0:00:26.27,Matsumoto,,0,0,0,,Today we will be doing something we've done several times
+Dialogue: 0,0:00:26.27,0:00:27.81,Matsumoto,,0,0,0,,Tanaka's expertise
+Dialogue: 0,0:00:27.17,0:00:30.58,Tanaka,,0,0,0,,{\pos(193.6,232.96)}World tabletop games
+Dialogue: 0,0:00:27.81,0:00:30.58,Matsumoto,,0,0,0,,World tabletop games right
+Dialogue: 0,0:00:30.58,0:00:33.65,Matsumoto,,0,0,0,,But that's not actually the real theme
+Dialogue: 0,0:00:33.65,0:00:36.55,Matsumoto,,0,0,0,,We'll be doing things to see if Hamada will notice
+Dialogue: 0,0:00:36.72,0:00:38.88,Matsumoto,,0,0,0,,We won't go as far as messing around but
+Dialogue: 0,0:00:38.88,0:00:41.45,Matsumoto,,0,0,0,,We'll have some tricks we'll do
+Dialogue: 0,0:00:41.45,0:00:44.86,Matsumoto,,0,0,0,,We'll see when will Hamada notice
+Dialogue: 0,0:00:44.89,0:00:49.16,Matsumoto,,0,0,0,,{\pos(181.44,246.613)}If he never notices then it'll be
+Dialogue: 0,0:00:48.03,0:00:49.16,Matsumoto,,0,0,0,,{\pos(291.52,246.613)\c&H000000&\4c&H0000CD&}rough
+Dialogue: 0,0:00:49.39,0:00:52.53,Yamazaki,,0,0,0,,If he never notices, we'll have to keep going the entire time
+Dialogue: 0,0:00:53.33,0:00:54.97,Matsumoto,,0,0,0,,I think if that happens
+Dialogue: 0,0:00:54.97,0:00:57.24,Matsumoto,,0,0,0,,{\c&HFFFFFF&\3c&H000000&}We should fire him
+Dialogue: 0,0:00:57.24,0:00:59.24,Yamazaki,,0,0,0,,Fire Hamada?
+Dialogue: 0,0:00:59.24,0:01:04.21,Matsumoto,,0,0,0,,{\pos(127,242.346)}He can join
+Dialogue: 0,0:01:00.27,0:01:04.21,Matsumoto,,0,0,0,,{\pos(228,242.346)\c&H0EFFEE&\2c&H000000&\3c&H000000&}London Boots {\c&H4113DF&\3c&HFFFFFF&}instead
+Dialogue: 0,0:01:02.44,0:01:04.21,Yamazaki,,0,0,0,,An agent contract?
+Dialogue: 0,0:01:04.21,0:01:05.91,Endo,,0,0,0,,He'd be at the same level as Ryou
+Dialogue: 0,0:01:06.34,0:01:09.01,Matsumoto,,0,0,0,,{\pos(195.84,238.507)}I mean he won't make it on YouTube alone
+Dialogue: 0,0:01:09.01,0:01:10.88,Endo,,0,0,0,,These recent events are slowly...
+Dialogue: 0,0:01:10.88,0:01:12.88,Matsumoto,,0,0,0,,Sorry sorry I shouldn't continue
+Dialogue: 0,0:01:13.55,0:01:15.45,Matsumoto,,0,0,0,,One at a time, each of us will
+Dialogue: 0,0:01:15.45,0:01:20.49,Matsumoto,,0,0,0,,Endo, Me, Yamasaki, then Tanaka, are you ready?
+Dialogue: 0,0:01:19.66,0:01:20.49,Endo,,0,0,0,,I'm ready
+Dialogue: 0,0:01:20.49,0:01:24.13,Matsumoto,,0,0,0,,{\pos(191.68,262.947)}We'll start with Endo
+Dialogue: 0,0:01:21.63,0:01:24.13,Endo,,0,0,0,,I'll be going first
+Dialogue: 0,0:01:24.56,0:01:27.03,Endo,,0,0,0,,I will, for the entire recording
+Dialogue: 0,0:01:27.33,0:01:29.90,Endo,,0,0,0,,I will not say a single thing
+Dialogue: 0,0:01:29.90,0:01:33.07,Yamazaki,,0,0,0,,He should notice that
+Dialogue: 0,0:01:33.07,0:01:35.37,Matsumoto,,0,0,0,,Everyone will be talking a lot
+Dialogue: 0,0:01:35.37,0:01:37.08,Matsumoto,,0,0,0,,Since it's a tabletop game
+Dialogue: 0,0:01:37.08,0:01:39.24,Matsumoto,,0,0,0,,Not talking there is kinda...
+Dialogue: 0,0:01:39.24,0:01:42.31,Endo,,0,0,0,,Plus, only 1 person out of 5 not talking is strange
+Dialogue: 0,0:01:42.31,0:01:45.18,Matsumoto,,0,0,0,,{\pos(193.28,238.08)\c&H59FAEF&\3c&H000000&}If your family{\c&H3D0DDE&\3c&HFFFFFF&} did that it'd definitely hurt your feelings
+Dialogue: 0,0:01:45.18,0:01:46.22,Endo,,0,0,0,,That's true
+Dialogue: 0,0:01:46.22,0:01:49.62,Matsumoto,,0,0,0,,{\pos(190.08,239.054)}Here at Yoshimoto we're a {\c&H46F4EA&\3c&H000000&}family
+Dialogue: 0,0:01:49.62,0:01:50.96,Matsumoto,,0,0,0,,I feel like I should say that
+Dialogue: 0,0:01:51.46,0:01:54.53,Normal,,0,0,0,,Now the preparations are complete
+Dialogue: 0,0:01:55.03,0:01:58.76,Normal,,0,0,0,,It's time to standby for the prank
+Dialogue: 0,0:01:59.23,0:02:02.20,Normal,,0,0,0,,Okay, I'll go fetch him
+Dialogue: 0,0:02:03.34,0:02:05.80,Normal,,0,0,0,,Everyone acts normally
+Dialogue: 0,0:02:05.80,0:02:09.84,Normal,,0,0,0,,Waiting for the clueless Hamada to come
+Dialogue: 0,0:02:10.58,0:02:12.44,Normal,,0,0,0,,And then suddenly
+Dialogue: 0,0:02:14.98,0:02:15.95,Hamada,,0,0,0,,Don't need it
+Dialogue: 0,0:02:17.55,0:02:18.38,Normal,,0,0,0,,Please
+Dialogue: 0,0:02:20.02,0:02:23.66,Hamada,,0,0,0,,Say "you always say that" or something
+Dialogue: 0,0:02:23.66,0:02:26.39,Hamada,,0,0,0,,I look like the bad guy
+Dialogue: 0,0:02:27.59,0:02:32.00,Normal,,0,0,0,,The first up is Endo
+Dialogue: 0,0:02:32.00,0:02:35.80,Normal,,0,0,0,,Now will Hamada ever notice?
+Dialogue: 0,0:02:36.64,0:02:41.87,Matsumoto,,0,0,0,,{\pos(245.76,286.293)}Will he notice!?
+Dialogue: 0,0:02:42.77,0:02:45.91,Normal,,0,0,0,,Starting in 4, 3, 2
+Dialogue: 0,0:02:46.44,0:02:49.08,Hamada,,0,0,0,,The 6th time on Gaki no Tsukai ya Arehende!
+Dialogue: 0,0:02:48.21,0:02:49.08,Matsumoto,,0,0,0,,So loud!
+Dialogue: 0,0:02:49.31,0:02:53.02,Hamada,,0,0,0,,Let's play Tabletop Games from around the world!
+Dialogue: 0,0:02:54.69,0:02:56.19,Hamada,,0,0,0,,We're doing this a 6th time?
+Dialogue: 0,0:02:56.19,0:02:57.09,Tanaka,,0,0,0,,This is the 6th time
+Dialogue: 0,0:02:57.09,0:02:59.46,Hamada,,0,0,0,,Who wanted to do this?
+Dialogue: 0,0:03:01.89,0:03:03.76,Matsumoto,,0,0,0,,He really loves this, seriously
+Dialogue: 0,0:03:03.76,0:03:06.57,Matsumoto,,0,0,0,,I heard his thing was half standing on the way here
+Dialogue: 0,0:03:06.57,0:03:08.47,Tanaka,,0,0,0,,That'd make me a huge pervert
+Dialogue: 0,0:03:08.47,0:03:11.04,Hamada,,0,0,0,,Just stop already man
+Dialogue: 0,0:03:12.07,0:03:14.04,Hamada,,0,0,0,,Just play by yourself
+Dialogue: 0,0:03:14.04,0:03:16.24,Matsumoto,,0,0,0,,But if he was alone,
+Dialogue: 0,0:03:16.24,0:03:17.84,Matsumoto,,0,0,0,,it'd be limp
+Dialogue: 0,0:03:19.31,0:03:21.05,Normal,,0,0,0,,First is the same as always
+Dialogue: 0,0:03:21.05,0:03:24.35,Normal,,0,0,0,,They check out all the games
+Dialogue: 0,0:03:24.35,0:03:28.25,Hamada,,0,0,0,,{\pos(194.24,264.226)}How much earlier did you come in?
+Dialogue: 0,0:03:25.72,0:03:28.25,Tanaka,,0,0,0,,I was around an hour early
+Dialogue: 0,0:03:28.25,0:03:30.22,Matsumoto,,0,0,0,,Very meticulous
+Dialogue: 0,0:03:30.22,0:03:32.86,Tanaka,,0,0,0,,I had a confirmation
+Dialogue: 0,0:03:32.86,0:03:37.40,Hamada,,0,0,0,,{\pos(191.04,261.667)}You we're lectured about all this
+Dialogue: 0,0:03:33.43,0:03:37.40,Tanaka,,0,0,0,,Yes, from the easy ones to the hard ones
+Dialogue: 0,0:03:37.40,0:03:39.13,Hamada,,0,0,0,,Like let's do it like this
+Dialogue: 0,0:03:39.13,0:03:41.13,Hamada,,0,0,0,,You've got it all inside you
+Dialogue: 0,0:03:41.13,0:03:44.90,Matsumoto,,0,0,0,,{\pos(191.36,264.227)}Some of these were here last time and some are new
+Dialogue: 0,0:03:42.90,0:03:44.90,Matsumoto,,0,0,0,,Like I remember seeing this
+Dialogue: 0,0:03:44.90,0:03:47.14,Tanaka,,0,0,0,,Right there are new games
+Dialogue: 0,0:03:47.14,0:03:48.61,Tanaka,,0,0,0,,There are some card games
+Dialogue: 0,0:03:48.61,0:03:53.25,Tanaka,,0,0,0,,And I've included some games that make you move a little
+Dialogue: 0,0:03:54.25,0:03:56.08,Yamazaki,,0,0,0,,What are we playing?
+Dialogue: 0,0:03:56.48,0:04:00.32,Tanaka,,0,0,0,,Out of these, the one I thought of first
+Dialogue: 0,0:04:01.59,0:04:03.42,Tanaka,,0,0,0,,Is this German game
+Dialogue: 0,0:04:03.42,0:04:05.19,Tanaka,,0,0,0,,I think we should start with it
+Dialogue: 0,0:04:05.26,0:04:06.59,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:04:03.72,0:04:08.33,Default,,0,0,0,,{\4c&H0000E0&\c&H000000&\3c&HFFFFFF&\pos(122.88,238.933)}Germany
+Dialogue: 0,0:04:03.72,0:04:08.33,Matsumoto,,0,0,0,,{\pos(246.4,238.507)}The Candy Witch (Knusperhexe)
+Dialogue: 0,0:04:08.49,0:04:10.26,Hamada,,0,0,0,,Let's start with this one
+Dialogue: 0,0:04:10.26,0:04:14.60,Tanaka,,0,0,0,,Alright then, take a seat at the table
+Dialogue: 0,0:04:14.60,0:04:19.84,Hamada,,0,0,0,,{\pos(191.04,259.96)}He really likes this huh
+Dialogue: 0,0:04:18.20,0:04:21.57,Matsumoto,,0,0,0,,We'll it's true that
+Dialogue: 0,0:04:21.57,0:04:23.24,Matsumoto,,0,0,0,,We all enjoy this
+Dialogue: 0,0:04:23.24,0:04:24.54,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:04:25.48,0:04:28.05,Matsumoto,,0,0,0,,This is the best one right?
+Dialogue: 0,0:04:28.05,0:04:30.85,Matsumoto,,0,0,0,,You can play it at home for a few weeks
+Dialogue: 0,0:04:30.85,0:04:31.85,Tanaka,,0,0,0,,Yes that's right
+Dialogue: 0,0:04:31.85,0:04:33.75,Tanaka,,0,0,0,,I think we need something like this
+Dialogue: 0,0:04:33.75,0:04:35.09,Tanaka,,0,0,0,,First is this
+Dialogue: 0,0:04:35.09,0:04:39.36,Tanaka,,0,0,0,,{\pos(192.64,261.666)}"The Candy Witch" a German game
+Dialogue: 0,0:04:37.16,0:04:39.36,Tanaka,,0,0,0,,I will begin explaining
+Dialogue: 0,0:04:39.36,0:04:43.63,Tanaka,,0,0,0,,There are four kinds of candies
+Dialogue: 0,0:04:43.63,0:04:45.63,Tanaka,,0,0,0,,Then just like this
+Dialogue: 0,0:04:47.57,0:04:49.57,Tanaka,,0,0,0,,We create a roof
+Dialogue: 0,0:04:49.57,0:04:52.00,Tanaka,,0,0,0,,The set-up is a little hard
+Dialogue: 0,0:04:50.94,0:04:53.14,Hamada,,0,0,0,,{\pos(191.68,259.84)}This is just setting up?
+Dialogue: 0,0:04:52.00,0:04:53.17,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:04:53.17,0:04:56.41,Tanaka,,0,0,0,,Now if you'd like, we can all go around
+Dialogue: 0,0:04:56.41,0:04:58.78,Tanaka,,0,0,0,,Carefully placing cards in the middle
+Dialogue: 0,0:04:58.78,0:05:00.28,Tanaka,,0,0,0,,And make a roof
+Dialogue: 0,0:04:59.38,0:05:00.95,Yamazaki,,0,0,0,,We're making a roof?
+Dialogue: 0,0:05:00.28,0:05:00.95,Tanaka,,0,0,0,,Right, first
+Dialogue: 0,0:05:00.95,0:05:03.72,Hamada,,0,0,0,,{\pos(191.36,240.76)}This is unrelated to the game?
+Dialogue: 0,0:05:01.68,0:05:03.72,Tanaka,,0,0,0,,{\pos(192,261.667)}It's unrelated
+Dialogue: 0,0:05:02.31,0:05:03.72,Hamada,,0,0,0,,What the hell?
+Dialogue: 0,0:05:05.25,0:05:06.65,Matsumoto,,0,0,0,,This kind of a game...
+Dialogue: 0,0:05:05.72,0:05:08.15,Yamazaki,,0,0,0,,{\pos(191.36,258.987)}You could've just set this up ahead of time
+Dialogue: 0,0:05:06.65,0:05:10.42,Tanaka,,0,0,0,,But then you wouldn't have seen this state of the roof
+Dialogue: 0,0:05:10.42,0:05:13.86,Tanaka,,0,0,0,,The thrilling part will come after this
+Dialogue: 0,0:05:13.89,0:05:15.69,Matsumoto,,0,0,0,,It's gotten quite stable
+Dialogue: 0,0:05:15.69,0:05:17.06,Yamazaki,,0,0,0,,Oh you're right
+Dialogue: 0,0:05:17.66,0:05:19.06,Matsumoto,,0,0,0,,I see I see
+Dialogue: 0,0:05:18.56,0:05:20.27,Hamada,,0,0,0,,We can fill in the middle part?
+Dialogue: 0,0:05:20.27,0:05:22.60,Tanaka,,0,0,0,,Yes, it's okay to fill in the middle
+Dialogue: 0,0:05:21.27,0:05:24.84,Matsumoto,,0,0,0,,This is kind of amazing, a very strange idea
+Dialogue: 0,0:05:25.14,0:05:28.21,Tanaka,,0,0,0,,In order, we take a card
+Dialogue: 0,0:05:28.21,0:05:31.48,Tanaka,,0,0,0,,If it's chocolate then chocolate becomes one of your cards
+Dialogue: 0,0:05:31.84,0:05:36.15,Tanaka,,0,0,0,,In the second round, when it's your turn again
+Dialogue: 0,0:05:36.15,0:05:38.72,Tanaka,,0,0,0,,If you draw another chocolate
+Dialogue: 0,0:05:38.72,0:05:40.35,Tanaka,,0,0,0,,Rather if you draw the same card
+Dialogue: 0,0:05:40.35,0:05:41.79,Tanaka,,0,0,0,,You have to put it back
+Dialogue: 0,0:05:42.72,0:05:43.62,Yamazaki,,0,0,0,,Put it back?
+Dialogue: 0,0:05:43.62,0:05:44.89,Hamada,,0,0,0,,Both of them?
+Dialogue: 0,0:05:44.89,0:05:46.52,Tanaka,,0,0,0,,Just one
+Dialogue: 0,0:05:46.52,0:05:51.76,Tanaka,,0,0,0,,At the end whoever has the most cards wins
+Dialogue: 0,0:05:51.76,0:05:55.43,Matsumoto,,0,0,0,,You want most unique candies
+Dialogue: 0,0:05:55.43,0:06:00.77,Tanaka,,0,0,0,,And if you cause the roof to collapse, you lose
+Dialogue: 0,0:05:59.24,0:06:00.77,Yamazaki,,0,0,0,,{\pos(192,261.547)}That's obvious
+Dialogue: 0,0:06:00.77,0:06:02.54,Tanaka,,0,0,0,,At that time...
+Dialogue: 0,0:06:02.54,0:06:04.41,Tanaka,,0,0,0,,I suppose you're right
+Dialogue: 0,0:06:04.41,0:06:05.81,Tanaka,,0,0,0,,It's pretty obvious
+Dialogue: 0,0:06:05.81,0:06:07.91,Yamazaki,,0,0,0,,That's why we were all doing this
+Dialogue: 0,0:06:08.61,0:06:12.38,Tanaka,,0,0,0,,At that time, whoever has the most cards wins
+Dialogue: 0,0:06:12.38,0:06:14.19,Hamada,,0,0,0,,Say something!
+Dialogue: 0,0:06:19.89,0:06:21.79,Hamada,,0,0,0,,Huh, what, what?
+Dialogue: 0,0:06:21.79,0:06:24.40,Endo,,0,0,0,,{\pos(191.68,262.947)}Congratulations!
+Dialogue: 0,0:06:22.66,0:06:24.40,Hamada,,0,0,0,,What's going on?
+Dialogue: 0,0:06:24.40,0:06:26.26,Hamada,,0,0,0,,This is scaring me
+Dialogue: 0,0:06:27.47,0:06:32.94,Hamada,,0,0,0,,What? x9
+Dialogue: 0,0:06:32.94,0:06:34.44,Yamazaki,,0,0,0,,Incredible!
+Dialogue: 0,0:06:34.44,0:06:37.38,Endo,,0,0,0,,{\pos(191.04,262.52)}As expected, Hamada!
+Dialogue: 0,0:06:35.37,0:06:38.91,Hamada,,0,0,0,,Seriously this is scaring me
+Dialogue: 0,0:06:39.78,0:06:42.41,Hamada,,0,0,0,,You're actually scaring me
+Dialogue: 0,0:06:42.98,0:06:44.15,Yamazaki,,0,0,0,,Incredible!
+Dialogue: 0,0:06:44.15,0:06:46.95,Matsumoto,,0,0,0,,Today there was actually a secret theme
+Dialogue: 0,0:06:46.95,0:06:49.65,Matsumoto,,0,0,0,,"When will Hamada notice?"
+Dialogue: 0,0:06:49.65,0:06:53.22,Matsumoto,,0,0,0,,How conscious is Hamada of the other members?
+Dialogue: 0,0:06:53.22,0:06:55.06,Matsumoto,,0,0,0,,was the secret theme
+Dialogue: 0,0:06:55.06,0:06:58.46,Matsumoto,,0,0,0,,Since the opening, Endo has not said a word
+Dialogue: 0,0:06:58.46,0:07:00.00,Endo,,0,0,0,,Really, Hamada
+Dialogue: 0,0:07:00.20,0:07:03.50,Hamada,,0,0,0,,I didn't notice here, at the start
+Dialogue: 0,0:07:03.50,0:07:06.04,Hamada,,0,0,0,,I didn't notice over here either
+Dialogue: 0,0:07:06.04,0:07:07.81,Hamada,,0,0,0,,But once I came over here
+Dialogue: 0,0:07:07.81,0:07:11.14,Hamada,,0,0,0,,{\pos(184.96,238.507)}I thought {\c&H000000&\4c&HFD1818&}He's not saying anything
+Dialogue: 0,0:07:10.54,0:07:11.78,Endo,,0,0,0,,I'm so glad
+Dialogue: 0,0:07:11.78,0:07:15.65,Matsumoto,,0,0,0,,For me it was slowly getting funnier
+Dialogue: 0,0:07:15.65,0:07:17.88,Hamada,,0,0,0,,He wasn't saying a single thing
+Dialogue: 0,0:07:17.88,0:07:23.66,Hamada,,0,0,0,,{\4c&H000079&\c&HD10D00&\pos(187.52,234.666)}When is this guy gonna say something
+Dialogue: 0,0:07:20.25,0:07:22.32,Endo,,0,0,0,,I'm really glad
+Dialogue: 0,0:07:24.22,0:07:27.49,Normal,,0,0,0,,{\pos(187.84,247.467)}We're going to reset
+Dialogue: 0,0:07:25.19,0:07:26.72,Matsumoto,,0,0,0,,Right let's clean up
+Dialogue: 0,0:07:26.72,0:07:28.36,Matsumoto,,0,0,0,,I want to actually play
+Dialogue: 0,0:07:28.36,0:07:31.23,Hamada,,0,0,0,,What the hell, seriously
+Dialogue: 0,0:07:28.36,0:07:31.23,Tanaka,,0,0,0,,Right, this is a fun game
+Dialogue: 0,0:07:32.16,0:07:36.20,Normal,,0,0,0,,To resume the game, they clean up the area
+Dialogue: 0,0:07:37.24,0:07:41.44,Endo,,0,0,0,,Can we go over the rules again?\NI didn't really get them earlier
+Dialogue: 0,0:07:45.68,0:07:49.78,Normal,,0,0,0,,Currently, Hamada still has no suspicion
+Dialogue: 0,0:07:50.78,0:07:52.38,Hamada,,0,0,0,,Were you actually filming?
+Dialogue: 0,0:07:52.38,0:07:53.65,Normal,,0,0,0,,Yes
+Dialogue: 0,0:07:54.69,0:07:57.32,Hamada,,0,0,0,,We're filming?
+Dialogue: 0,0:07:58.12,0:08:03.13,Normal,,0,0,0,,A new trick awaits
+Dialogue: 0,0:08:04.46,0:08:06.76,Tanaka,,0,0,0,,This is fun though, really
+Dialogue: 0,0:08:06.76,0:08:10.87,Endo,,0,0,0,,Tanaka can you go over it again \NHonestly I didn't get it before
+Dialogue: 0,0:08:11.80,0:08:14.04,Matsumoto,,0,0,0,,Endo wasn't really listening I think
+Dialogue: 0,0:08:14.04,0:08:18.84,Matsumoto,,0,0,0,,{\pos(191.36,265.08)}I thought if Hamada didn't notice
+Dialogue: 0,0:08:15.67,0:08:18.84,Matsumoto,,0,0,0,,I'd say something to Endo directly
+Dialogue: 0,0:08:18.14,0:08:19.88,Hamada,,0,0,0,,
+Dialogue: 0,0:08:20.41,0:08:22.91,Yamazaki,,0,0,0,,Early on it was nerve-wracking
+Dialogue: 0,0:08:22.91,0:08:24.18,Endo,,0,0,0,,It really was for me
+Dialogue: 0,0:08:24.18,0:08:26.48,Hamada,,0,0,0,,{\pos(191.36,249.6)}What order are we going in?
+Dialogue: 0,0:08:25.68,0:08:29.22,Tanaka,,0,0,0,,We'll go around like this, starting with Housei
+Dialogue: 0,0:08:27.75,0:08:29.22,Yamazaki,,0,0,0,,I'm first, okay
+Dialogue: 0,0:08:30.36,0:08:31.99,Matsumoto,,0,0,0,,Can I take cards from the bottom?
+Dialogue: 0,0:08:31.99,0:08:33.99,Tanaka,,0,0,0,,Yes you can them from anywhere
+Dialogue: 0,0:08:33.39,0:08:35.49,Endo,,0,0,0,,If it collapses, that's bad right?
+Dialogue: 0,0:08:34.23,0:08:35.49,Tanaka,,0,0,0,,Collapsing is bad
+Dialogue: 0,0:08:35.49,0:08:37.33,Yamazaki,,0,0,0,,Okay I got a candy
+Dialogue: 0,0:08:38.86,0:08:40.97,Tanaka,,0,0,0,,If it collapses you lose
+Dialogue: 0,0:08:43.87,0:08:46.20,Matsumoto,,0,0,0,,A cupcake
+Dialogue: 0,0:08:48.57,0:08:50.88,Matsumoto,,0,0,0,,Woah! You were really rough there
+Dialogue: 0,0:08:49.27,0:08:50.88,Tanaka,,0,0,0,,He really went for it
+Dialogue: 0,0:08:50.88,0:08:52.21,Hamada,,0,0,0,,Chocolate
+Dialogue: 0,0:08:54.28,0:08:56.45,Yamazaki,,0,0,0,,{\pos(219.52,243.2)}Huh? We got all {\c&H000000&\4c&H1DC322&}4 types
+Dialogue: 0,0:08:56.95,0:08:58.35,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:08:58.45,0:09:00.59,Yamazaki,,0,0,0,,But we can get the same ones too?
+Dialogue: 0,0:09:00.75,0:09:03.42,Tanaka,,0,0,0,,That's correct
+Dialogue: 0,0:09:01.29,0:09:03.42,Endo,,0,0,0,,This was just a coincidence
+Dialogue: 0,0:09:03.42,0:09:07.59,Hamada,,0,0,0,,It's fine, if you get the same ones, you just put it back
+Dialogue: 0,0:09:07.59,0:09:11.36,Yamazaki,,0,0,0,,{\pos(190.4,231.68)}Perfectly getting all 4 types together
+Dialogue: 0,0:09:09.46,0:09:11.36,Yamazaki,,0,0,0,,{\pos(190.08,247.586)}Isn't that a {\c&H4AF4E8&\3c&H000000&}miracle?
+Dialogue: 0,0:09:11.36,0:09:14.83,Matsumoto,,0,0,0,,We just grabbed the ones Tanaka put down
+Dialogue: 0,0:09:14.83,0:09:15.87,Yamazaki,,0,0,0,,Oh really?
+Dialogue: 0,0:09:15.87,0:09:17.77,Tanaka,,0,0,0,,{\pos(188.16,237.347)\c&H000000&\4c&HCE00C0&}What the hell are you talking about?
+Dialogue: 0,0:09:18.90,0:09:24.54,Yamazaki,,0,0,0,,No I'm just trying to include everyone and have fun
+Dialogue: 0,0:09:23.78,0:09:24.54,Tanaka,,0,0,0,,Sorry that was rude
+Dialogue: 0,0:09:25.61,0:09:31.12,Normal,,0,0,0,,In the first and second rounds\NHe doesn't notice the trick, the game advances
+Dialogue: 0,0:09:32.95,0:09:36.39,Normal,,0,0,0,,And we arrive at the third round
+Dialogue: 0,0:09:36.45,0:09:38.96,Matsumoto,,0,0,0,,The target age is quite low
+Dialogue: 0,0:09:38.96,0:09:40.83,Hamada,,0,0,0,,From 5 to 99 it says
+Dialogue: 0,0:09:40.83,0:09:43.03,Matsumoto,,0,0,0,,From 5 to 99?
+Dialogue: 0,0:09:43.03,0:09:46.03,Matsumoto,,0,0,0,,{\c&H000000&\4c&H0000B6&\pos(184.64,238.627)}100 would be fine too!
+Dialogue: 0,0:09:48.03,0:09:52.54,Tanaka,,0,0,0,,They should include 100 year olds too
+Dialogue: 0,0:09:49.80,0:09:52.54,Matsumoto,,0,0,0,,Include 100, seriously, they can play
+Dialogue: 0,0:09:52.54,0:09:55.67,Hamada,,0,0,0,,These two are the exact same
+Dialogue: 0,0:09:57.18,0:09:59.94,Tanaka,,0,0,0,,You're afraid of it collapsing, right?
+Dialogue: 0,0:09:59.94,0:10:01.81,Hamada,,0,0,0,,Does it collapse so easily?
+Dialogue: 0,0:10:01.81,0:10:04.65,Tanaka,,0,0,0,,Well it's stacked pretty densely
+Dialogue: 0,0:10:06.28,0:10:10.29,Matsumoto,,0,0,0,,It's starting to get difficult now
+Dialogue: 0,0:10:10.29,0:10:12.86,Yamazaki,,0,0,0,,It's probably still fine
+Dialogue: 0,0:10:13.39,0:10:15.23,Endo,,0,0,0,,It's the third round now
+Dialogue: 0,0:10:15.23,0:10:16.43,Matsumoto,,0,0,0,,What should I do...
+Dialogue: 0,0:10:16.43,0:10:20.06,Tanaka,,0,0,0,,True, in the third round it gets a bit...
+Dialogue: 0,0:10:23.50,0:10:26.00,Matsumoto,,0,0,0,,Aah, which one do I pick?
+Dialogue: 0,0:10:27.14,0:10:29.34,Hamada,,0,0,0,,What? Just take any of them
+Dialogue: 0,0:10:29.34,0:10:31.64,Yamazaki,,0,0,0,,It's still fine
+Dialogue: 0,0:10:31.64,0:10:33.65,Matsumoto,,0,0,0,,I don't know...
+Dialogue: 0,0:10:34.95,0:10:36.71,Hamada,,0,0,0,,What do you mean you don't know?
+Dialogue: 0,0:10:36.71,0:10:39.82,Hamada,,0,0,0,,You can definitely grab one
+Dialogue: 0,0:10:39.82,0:10:41.85,Hamada,,0,0,0,,Look these ones around here are fine
+Dialogue: 0,0:10:41.85,0:10:43.62,Hamada,,0,0,0,,Just slide them off
+Dialogue: 0,0:10:44.49,0:10:46.99,Matsumoto,,0,0,0,,Hm? Which one?
+Dialogue: 0,0:10:46.99,0:10:49.36,Hamada,,0,0,0,,Like this one
+Dialogue: 0,0:10:49.36,0:10:51.60,Hamada,,0,0,0,,This one's fine too
+Dialogue: 0,0:10:51.60,0:10:55.40,Matsumoto,,0,0,0,,No I'm a little scared
+Dialogue: 0,0:10:53.70,0:10:55.40,Tanaka,,0,0,0,,Because it's on the corner
+Dialogue: 0,0:10:58.37,0:11:00.54,Hamada,,0,0,0,,Aren't you like, really tall?
+Dialogue: 0,0:11:02.24,0:11:04.11,Endo,,0,0,0,,Congratulations!
+Dialogue: 0,0:11:04.11,0:11:07.88,Hamada,,0,0,0,,What the hell, come on!
+Dialogue: 0,0:11:11.95,0:11:14.42,Matsumoto,,0,0,0,,Say it sooner!
+Dialogue: 0,0:11:18.09,0:11:19.82,Hamada,,0,0,0,,Oh it's this!
+Dialogue: 0,0:11:25.40,0:11:26.63,Matsumoto,,0,0,0,,He didn't notice at all!
+Dialogue: 0,0:11:26.63,0:11:28.40,Matsumoto,,0,0,0,,{\pos(191.04,245.76)\c&H000000&\4c&H0000C1&}You were pretty slow!
+Dialogue: 0,0:11:28.40,0:11:30.70,Hamada,,0,0,0,,I wasn't slow at all
+Dialogue: 0,0:11:30.70,0:11:32.30,Matsumoto,,0,0,0,,How did you notice?
+Dialogue: 0,0:11:32.30,0:11:35.04,Hamada,,0,0,0,,When I stood up, and was talking
+Dialogue: 0,0:11:35.04,0:11:37.28,Hamada,,0,0,0,,I thought "Huh?"
+Dialogue: 0,0:11:37.28,0:11:39.94,Endo,,0,0,0,,You've seen him so many times so
+Dialogue: 0,0:11:39.94,0:11:41.58,Hamada,,0,0,0,,I was like "Huh?"
+Dialogue: 0,0:11:42.38,0:11:45.08,Matsumoto,,0,0,0,,{\pos(192,244.907)}Sorry! Sorry!
+Dialogue: 0,0:11:44.05,0:11:45.08,Matsumoto,,0,0,0,,This is really
+Dialogue: 0,0:11:45.08,0:11:47.09,Hamada,,0,0,0,,Cut it out already!
+Dialogue: 0,0:11:47.49,0:11:50.69,Matsumoto,,0,0,0,,{\pos(194,240)}Let's play seriously!
+Dialogue: 0,0:11:48.35,0:11:50.69,Matsumoto,,0,0,0,,This was really interesting
+Dialogue: 0,0:11:51.89,0:11:53.26,Hamada,,0,0,0,,Play seriously
+Dialogue: 0,0:11:53.26,0:11:55.69,Matsumoto,,0,0,0,,I'll play seriously, really
+Dialogue: 0,0:11:55.69,0:11:58.70,Hamada,,0,0,0,,{\pos(192.32,239.053)\c&H000000&\4c&HCB0016&}You're absolutely huge!
+Dialogue: 0,0:11:58.70,0:12:02.70,Matsumoto,,0,0,0,,{\pos(191.04,261.24)}Right, that's why you should've noticed sooner
+Dialogue: 0,0:12:00.63,0:12:02.70,Hamada,,0,0,0,,No I wouldn't know so early
+Dialogue: 0,0:12:02.70,0:12:04.60,Endo,,0,0,0,,Well he still noticed it in the end
+Dialogue: 0,0:12:04.90,0:12:07.47,Hamada,,0,0,0,,Enough with these streamers already
+Dialogue: 0,0:12:09.91,0:12:12.84,Normal,,0,0,0,,The second reset of the day
+Dialogue: 0,0:12:13.71,0:12:16.61,Matsumoto,,0,0,0,,How many centimeters are these things?
+Dialogue: 0,0:12:16.61,0:12:18.52,Yamazaki,,0,0,0,,These are pretty tall
+Dialogue: 0,0:12:17.58,0:12:18.52,Normal,,0,0,0,,11 cm
+Dialogue: 0,0:12:18.52,0:12:22.09,Endo,,0,0,0,,11 cm would make you 183-184 cm
+Dialogue: 0,0:12:22.99,0:12:26.62,Hamada,,0,0,0,,{\pos(197.76,234.667)\c&HA60300&}Let's play the game!
+Dialogue: 0,0:12:26.72,0:12:28.79,Tanaka,,0,0,0,,Right, this is a really fun game
+Dialogue: 0,0:12:30.13,0:12:35.47,Normal,,0,0,0,,However, the tricks on Hamada are not over yet
+Dialogue: 0,0:12:40.14,0:12:41.07,Endo,,0,0,0,,Oh sorry
+Dialogue: 0,0:12:41.44,0:12:43.47,Matsumoto,,0,0,0,,There's a lot of these
+Dialogue: 0,0:12:44.08,0:12:48.25,Normal,,0,0,0,,The staff withdraw a little too carefully
+Dialogue: 0,0:12:48.25,0:12:50.65,Normal,,0,0,0,,Hamada appears extra vigilant
+Dialogue: 0,0:12:51.58,0:12:53.02,Hamada,,0,0,0,,They're getting it all
+Dialogue: 0,0:12:56.22,0:12:57.96,Hamada,,0,0,0,,It's fine if you leave some
+Dialogue: 0,0:12:58.59,0:13:04.93,Tanaka,,0,0,0,,That's true, now that you say it, it's really...
+Dialogue: 0,0:13:04.93,0:13:09.73,Normal,,0,0,0,,{\pos(195.6,262.933)}Alright we're going to resume filming
+Dialogue: 0,0:13:06.56,0:13:09.73,Normal,,0,0,0,,Starting on Tanaka, 3 2 1
+Dialogue: 0,0:13:09.80,0:13:13.94,Tanaka,,0,0,0,,Alright, once again, let's resume the game\NIt's Matsumoto's turn
+Dialogue: 0,0:13:18.14,0:13:23.15,Tanaka,,0,0,0,,{\pos(191.04,265.08)}You should be a little careful
+Dialogue: 0,0:13:19.68,0:13:23.15,Matsumoto,,0,0,0,,How durable is this thing
+Dialogue: 0,0:13:24.72,0:13:26.38,Matsumoto,,0,0,0,,Ohh, nice
+Dialogue: 0,0:13:26.72,0:13:30.59,Matsumoto,,0,0,0,,{\pos(192.64,261.547)}He's definitely getting a duplicate
+Dialogue: 0,0:13:28.42,0:13:30.59,Hamada,,0,0,0,,These edge ones are a bit scary
+Dialogue: 0,0:13:32.12,0:13:33.42,Endo,,0,0,0,,You put back the duplicates
+Dialogue: 0,0:13:33.42,0:13:36.66,Hamada,,0,0,0,,{\pos(191.68,254.72)}This is a duplicate so
+Dialogue: 0,0:13:34.56,0:13:36.66,Tanaka,,0,0,0,,you put it back
+Dialogue: 0,0:13:37.03,0:13:40.60,Endo,,0,0,0,,{\pos(199.2,225.067)}I already have the {\c&H3CF7EB&\3c&H000000&}walking stick{\c&H1175DA&\3c&HFFFFFF&} so I can't take that one
+Dialogue: 0,0:13:40.60,0:13:42.73,Matsumoto,,0,0,0,,Walking stick?
+Dialogue: 0,0:13:42.73,0:13:45.07,Matsumoto,,0,0,0,,It's {\c&H39F3E9&\3c&H000000&}candy
+Dialogue: 0,0:13:45.50,0:13:47.74,Tanaka,,0,0,0,,It's "The Candy Witch"
+Dialogue: 0,0:13:49.31,0:13:50.98,Yamazaki,,0,0,0,,You're completely off
+Dialogue: 0,0:13:50.98,0:13:53.41,Endo,,0,0,0,,{\4c&H1175DA&\c&H000000&\pos(188,239.467)}Maybe I shouldn't talk after all
+Dialogue: 0,0:13:54.61,0:13:58.12,Normal,,0,0,0,,Endo and Tanaka grab their cards
+Dialogue: 0,0:14:01.09,0:14:03.42,Normal,,0,0,0,,Next up is Hosei
+Dialogue: 0,0:14:04.06,0:14:05.09,Yamazaki,,0,0,0,,I'll grab...
+Dialogue: 0,0:14:11.33,0:14:13.06,Yamazaki,,0,0,0,,I'm safe
+Dialogue: 0,0:14:27.04,0:14:28.31,Hamada,,0,0,0,,You already had that one
+Dialogue: 0,0:14:29.71,0:14:31.08,Hamada,,0,0,0,,He has to put that back
+Dialogue: 0,0:14:30.01,0:14:31.08,Yamazaki,,0,0,0,,Put it back
+Dialogue: 0,0:14:31.95,0:14:33.89,Endo,,0,0,0,,I should remember that one
+Dialogue: 0,0:14:34.62,0:14:36.72,Hamada,,0,0,0,,Only one, only one
+Dialogue: 0,0:14:37.42,0:14:39.52,Matsumoto,,0,0,0,,So naggy
+Dialogue: 0,0:14:45.63,0:14:46.76,Hamada,,0,0,0,,This is fine
+Dialogue: 0,0:14:47.03,0:14:50.67,Endo,,0,0,0,,Now I'll take the one I saw Matsumoto put back
+Dialogue: 0,0:14:50.67,0:14:52.77,Endo,,0,0,0,,And this is safe right
+Dialogue: 0,0:14:52.77,0:14:55.91,Tanaka,,0,0,0,,The tempo has risen a bit now
+Dialogue: 0,0:14:59.24,0:15:01.25,Tanaka,,0,0,0,,Yep, I'm safe
+Dialogue: 0,0:15:02.51,0:15:04.48,Yamazaki,,0,0,0,,Hm, what to do...
+Dialogue: 0,0:15:04.48,0:15:06.88,Yamazaki,,0,0,0,,Maybe the middle
+Dialogue: 0,0:15:09.55,0:15:12.32,Yamazaki,,0,0,0,,Okay, safe
+Dialogue: 0,0:15:17.26,0:15:19.56,Matsumoto,,0,0,0,,Man I don't remember any of them
+Dialogue: 0,0:15:21.13,0:15:23.70,Matsumoto,,0,0,0,,Ooh, okay okay
+Dialogue: 0,0:15:23.70,0:15:26.47,Tanaka,,0,0,0,,Soon we'll be able to see inside
+Dialogue: 0,0:15:24.47,0:15:26.47,Matsumoto,,0,0,0,,This is dangerous
+Dialogue: 0,0:15:28.84,0:15:31.04,Endo,,0,0,0,,Woah, that's a risky move
+Dialogue: 0,0:15:31.04,0:15:32.78,Hamada,,0,0,0,,This is probably fine
+Dialogue: 0,0:15:33.68,0:15:35.11,Tanaka,,0,0,0,,Cupcake, okay
+Dialogue: 0,0:15:35.11,0:15:36.71,Tanaka,,0,0,0,,Now we can see inside the house
+Dialogue: 0,0:15:36.71,0:15:38.72,Endo,,0,0,0,,Which one should I take...
+Dialogue: 0,0:15:41.72,0:15:42.92,Endo,,0,0,0,,Ahh, this is no good
+Dialogue: 0,0:15:42.92,0:15:45.36,Matsumoto,,0,0,0,,But it's still anyone's game
+Dialogue: 0,0:15:46.22,0:15:48.56,Yamazaki,,0,0,0,,We all have around the same
+Dialogue: 0,0:15:49.19,0:15:52.26,Matsumoto,,0,0,0,,Right, but I've never gotten a chocolate
+Dialogue: 0,0:15:52.26,0:15:54.60,Endo,,0,0,0,,Yeah you have no chocolate
+Dialogue: 0,0:15:54.93,0:15:57.94,Tanaka,,0,0,0,,Ah chocolate. I kind of want to take that one
+Dialogue: 0,0:15:57.94,0:15:59.70,Hamada,,0,0,0,,I'm first though
+Dialogue: 0,0:16:00.71,0:16:03.34,Tanaka,,0,0,0,,It's a cane, so there's no point for you
+Dialogue: 0,0:16:02.91,0:16:05.28,Hamada,,0,0,0,,Right, I'd have to return it
+Dialogue: 0,0:16:05.28,0:16:06.94,Tanaka,,0,0,0,,Man this is kind of...
+Dialogue: 0,0:16:08.25,0:16:10.51,Endo,,0,0,0,,It looks like it's about to break
+Dialogue: 0,0:16:16.35,0:16:18.56,Matsumoto,,0,0,0,,One piece decides the game
+Dialogue: 0,0:16:18.66,0:16:19.69,Endo,,0,0,0,,Next is Hosei
+Dialogue: 0,0:16:20.83,0:16:22.79,Yamazaki,,0,0,0,,Which one...
+Dialogue: 0,0:16:27.97,0:16:29.23,Yamazaki,,0,0,0,,This one
+Dialogue: 0,0:16:33.57,0:16:34.81,Hamada,,0,0,0,,Breasts!
+Dialogue: 0,0:16:37.91,0:16:40.75,Hamada,,0,0,0,,Enough!
+Dialogue: 0,0:16:39.14,0:16:40.75,Endo,,0,0,0,,Thank you very much!
+Dialogue: 0,0:16:42.05,0:16:44.98,Hamada,,0,0,0,,Enough already!
+Dialogue: 0,0:16:44.45,0:16:47.18,Matsumoto,,0,0,0,,You we're slow again!
+Dialogue: 0,0:16:50.15,0:16:53.76,Hamada,,0,0,0,,What the hell is this!
+Dialogue: 0,0:16:53.76,0:16:56.19,Hamada,,0,0,0,,We all said we'd play
+Dialogue: 0,0:16:56.19,0:16:58.06,Hamada,,0,0,0,,I wouldn't think he'd be next
+Dialogue: 0,0:16:58.06,0:17:01.80,Endo,,0,0,0,,You were a little slow Hamada
+Dialogue: 0,0:16:59.10,0:17:01.80,Matsumoto,,0,0,0,,They were really poking out!
+Dialogue: 0,0:17:01.80,0:17:06.40,Hamada,,0,0,0,,Why would I look at Yamasaki's chest?
+Dialogue: 0,0:17:08.51,0:17:12.04,Normal,,0,0,0,,When will Hamada notice, verification test!
+Dialogue: 0,0:17:13.01,0:17:20.75,Normal,,0,0,0,,Up until now, Endo, Matsumoto, Hosei's trick\NHamada has masterfully cleared them all
+Dialogue: 0,0:17:20.79,0:17:21.99,Matsumoto,,0,0,0,,Sorry sorry
+Dialogue: 0,0:17:22.29,0:17:26.22,Hamada,,0,0,0,,Let's play already, play the game
+Dialogue: 0,0:17:27.29,0:17:28.16,Endo,,0,0,0,,We'll play
+Dialogue: 0,0:17:29.13,0:17:32.56,Normal,,0,0,0,,This is the third reset today
+Dialogue: 0,0:17:34.57,0:17:36.33,Normal,,0,0,0,,As expected of Hamada
+Dialogue: 0,0:17:39.20,0:17:42.81,Hamada,,0,0,0,,This... This is kind of...
+Dialogue: 0,0:17:42.81,0:17:46.78,Hamada,,0,0,0,,{\pos(188.8,244.907)}The clean up is {\c&H000000&\4c&HD01200&}suspicious
+Dialogue: 0,0:17:47.95,0:17:49.95,Hamada,,0,0,0,,Isn't the clean up kinda suspicious?
+Dialogue: 0,0:17:50.85,0:17:51.88,Endo,,0,0,0,,Really?
+Dialogue: 0,0:17:51.88,0:17:53.92,Hamada,,0,0,0,,While they're cleaning...
+Dialogue: 0,0:17:53.92,0:17:56.99,Hamada,,0,0,0,,{\pos(196.48,244.054)}They leave the set during cleaning
+Dialogue: 0,0:17:56.99,0:18:01.59,Hamada,,0,0,0,,Otherwise it doesn't make sense\NSuddenly Yamasaki's chest becomes huge
+Dialogue: 0,0:18:02.83,0:18:05.26,Normal,,0,0,0,,Now we change to another game
+Dialogue: 0,0:18:06.43,0:18:07.47,Matsumoto,,0,0,0,,Eh, we're stopping?
+Dialogue: 0,0:18:07.47,0:18:09.80,Tanaka,,0,0,0,,This is good, it's good
+Dialogue: 0,0:18:10.33,0:18:11.80,Tanaka,,0,0,0,,Better than the last one
+Dialogue: 0,0:18:14.31,0:18:15.41,Tanaka,,0,0,0,,Thank you
+Dialogue: 0,0:18:16.51,0:18:17.78,Tanaka,,0,0,0,,This is good right
+Dialogue: 0,0:18:18.78,0:18:20.64,Endo,,0,0,0,,"Bounce Off!"
+Dialogue: 0,0:18:23.38,0:18:25.92,Tanaka,,0,0,0,,Okay okay okay okay
+Dialogue: 0,0:18:25.92,0:18:29.79,Matsumoto,,0,0,0,,All the past American ones have been surprise types
+Dialogue: 0,0:18:27.18,0:18:29.79,Normal,,0,0,0,,{\pos(194.4,237.867)}We resume with a new game
+Dialogue: 0,0:18:29.79,0:18:33.82,Tanaka,,0,0,0,,"Bounce Off!" an American game
+Dialogue: 0,0:18:32.39,0:18:38.13,Normal,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H0000B1&\pos(164.8,240.214)}America{\c&H0000F2&\4c&H0000E0&} Bounce Off!
+Dialogue: 0,0:18:33.82,0:18:38.13,Tanaka,,0,0,0,,It's a 2v2 Team Battle
+Dialogue: 0,0:18:38.20,0:18:42.93,Tanaka,,0,0,0,,You draw a card with these marks
+Dialogue: 0,0:18:42.93,0:18:46.84,Tanaka,,0,0,0,,You want to line up 3 balls of the same color
+Dialogue: 0,0:18:46.84,0:18:51.94,Tanaka,,0,0,0,,Each team tries to throw their balls onto the board
+Dialogue: 0,0:18:51.94,0:18:53.04,Endo,,0,0,0,,Throw?
+Dialogue: 0,0:18:53.11,0:18:57.25,Tanaka,,0,0,0,,Whoever makes the pattern first wins
+Dialogue: 0,0:18:57.25,0:19:00.72,Tanaka,,0,0,0,,When you're throwing, you need to bounce it
+Dialogue: 0,0:19:00.72,0:19:02.12,Hamada,,0,0,0,,Wait how do we throw it?
+Dialogue: 0,0:19:03.85,0:19:06.72,Hamada,,0,0,0,,Ah, like that? Ah nice
+Dialogue: 0,0:19:06.72,0:19:08.53,Tanaka,,0,0,0,,Right, just like that
+Dialogue: 0,0:19:08.89,0:19:13.50,Normal,,0,0,0,,Housei and Matsumoto Team
+Dialogue: 0,0:19:13.80,0:19:16.83,Normal,,0,0,0,,Hamada and Endo Team
+Dialogue: 0,0:19:17.54,0:19:20.20,Normal,,0,0,0,,They need to aim the balls into their place
+Dialogue: 0,0:19:20.20,0:19:22.37,Yamazaki,,0,0,0,,This one's really hard
+Dialogue: 0,0:19:23.24,0:19:24.91,Hamada,,0,0,0,,The four balls can be anywhere?
+Dialogue: 0,0:19:24.91,0:19:26.51,Tanaka,,0,0,0,,Yes, anywhere is fine
+Dialogue: 0,0:19:26.51,0:19:30.38,Matsumoto,,0,0,0,,{\pos(109.12,187.734)}Then we'll go first
+Dialogue: 0,0:19:27.88,0:19:30.38,Endo,,0,0,0,,{\pos(293.12,155.306)\c&H000000&\4c&H0058C3&}What why?
+Dialogue: 0,0:19:30.78,0:19:33.48,Endo,,0,0,0,,Shouldn't we do rock-paper-scissors?
+Dialogue: 0,0:19:33.48,0:19:35.49,Yamazaki,,0,0,0,,He said it so casually
+Dialogue: 0,0:19:36.82,0:19:38.22,Hamada,,0,0,0,,No no no no
+Dialogue: 0,0:19:38.22,0:19:41.33,Hamada,,0,0,0,,Between us, it's a versus game
+Dialogue: 0,0:19:43.89,0:19:46.16,Matsumoto,,0,0,0,,{\pos(188.8,242.667)}You're trying to notice things right?
+Dialogue: 0,0:19:46.70,0:19:49.90,Hamada,,0,0,0,,{\pos(194.56,235.946)}I'm pretty {\c&H56F6EF&\3c&H000000&\4c&HED1D2D&}on-edge{\c&HFD1818&\3c&HFFFFFF&\4c&H000000&} right now
+Dialogue: 0,0:19:50.13,0:19:51.70,Hamada,,0,0,0,,Seriously
+Dialogue: 0,0:19:53.57,0:19:56.17,Normal,,0,0,0,,Now we start the game
+Dialogue: 0,0:19:58.51,0:20:00.28,Hamada,,0,0,0,,This is hard
+Dialogue: 0,0:20:00.28,0:20:02.38,Tanaka,,0,0,0,,Now it's the other team's turn
+Dialogue: 0,0:20:05.32,0:20:06.68,Hamada,,0,0,0,,I see
+Dialogue: 0,0:20:09.65,0:20:11.59,Endo,,0,0,0,,Ahh, this is difficult
+Dialogue: 0,0:20:14.33,0:20:15.53,Hamada,,0,0,0,,No way!
+Dialogue: 0,0:20:16.79,0:20:18.90,Normal,,0,0,0,,The game heats up
+Dialogue: 0,0:20:21.57,0:20:22.30,Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:20:23.37,0:20:26.80,Normal,,0,0,0,,Then nothing happens for a while
+Dialogue: 0,0:20:29.21,0:20:32.18,Matsumoto,,0,0,0,,I'm going to try and aim over there
+Dialogue: 0,0:20:35.45,0:20:39.95,Tanaka,,0,0,0,,And so the yellow team wins
+Dialogue: 0,0:20:41.15,0:20:42.62,Matsumoto,,0,0,0,,This is fun, I like this one
+Dialogue: 0,0:20:42.62,0:20:44.22,Hamada,,0,0,0,,Another round?
+Dialogue: 0,0:20:44.22,0:20:46.39,Matsumoto,,0,0,0,,{\pos(192,245.453)}Let's change the teams then
+Dialogue: 0,0:20:46.39,0:20:48.73,Matsumoto,,0,0,0,,Tanaka, do you want to play?
+Dialogue: 0,0:20:48.73,0:20:49.49,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:20:49.49,0:20:52.40,Matsumoto,,0,0,0,,Why don't you swap with Endo
+Dialogue: 0,0:20:50.69,0:20:52.40,Endo,,0,0,0,,Okay sure
+Dialogue: 0,0:20:54.50,0:20:59.87,Matsumoto,,0,0,0,,{\pos(193.92,288.853)}Let's do Rocky-Paper
+Dialogue: 0,0:20:57.77,0:20:59.87,Hamada,,0,0,0,,{\c&H000000&\4c&HF00A1D&\pos(248.64,217.72)}Rocky-Paper?
+Dialogue: 0,0:20:59.87,0:21:01.24,Matsumoto,,0,0,0,,No, it's not that
+Dialogue: 0,0:21:04.44,0:21:06.21,Hamada,,0,0,0,,Oh to swap
+Dialogue: 0,0:21:04.44,0:21:06.21,Matsumoto,,0,0,0,,To decide who's with who
+Dialogue: 0,0:21:07.31,0:21:10.18,Hamada,,0,0,0,,You didn't mean me and Tanaka
+Dialogue: 0,0:21:09.08,0:21:10.18,Matsumoto,,0,0,0,,That too, that too
+Dialogue: 0,0:21:12.05,0:21:12.88,Matsumoto,,0,0,0,,We'll do that too
+Dialogue: 0,0:21:12.88,0:21:14.45,Hamada,,0,0,0,,Okay, I see
+Dialogue: 0,0:21:15.45,0:21:17.62,Normal,,0,0,0,,Now we change up the teams
+Dialogue: 0,0:21:19.19,0:21:22.29,Normal,,0,0,0,,Carefully aim the balls into their place
+Dialogue: 0,0:21:22.29,0:21:24.76,Endo,,0,0,0,,This is the pattern
+Dialogue: 0,0:21:24.76,0:21:26.90,Endo,,0,0,0,,This is a hard one
+Dialogue: 0,0:21:25.50,0:21:26.90,Tanaka,,0,0,0,,It got really hard
+Dialogue: 0,0:21:27.53,0:21:28.60,Hamada,,0,0,0,,It really is
+Dialogue: 0,0:21:29.70,0:21:32.10,Endo,,0,0,0,,Now decide who goes first
+Dialogue: 0,0:21:34.10,0:21:35.54,Hamada,,0,0,0,,I mean either is fine
+Dialogue: 0,0:21:36.67,0:21:38.31,Matsumoto,,0,0,0,,Rocky-Paper Sho-, er oops
+Dialogue: 0,0:21:39.14,0:21:41.98,Matsumoto,,0,0,0,,It's not that, it's not that
+Dialogue: 0,0:21:41.98,0:21:46.98,Yamazaki,,0,0,0,,{\pos(173.76,238.933)}This is just his {\c&HFFFFFF&\3c&H6F0044&\4c&HB82385&}old age {\c&H1DC322&\4c&H000000&\3c&HFFFFFF&}showing
+Dialogue: 0,0:21:48.12,0:21:50.32,Yamazaki,,0,0,0,,Sorry about that
+Dialogue: 0,0:21:51.46,0:21:55.49,Normal,,0,0,0,,They start the second game
+Dialogue: 0,0:21:59.46,0:22:03.67,Normal,,0,0,0,,Both teams reach the match point
+Dialogue: 0,0:22:03.67,0:22:05.94,Endo,,0,0,0,,You're both one away
+Dialogue: 0,0:22:06.40,0:22:07.60,Matsumoto,,0,0,0,,This is hard
+Dialogue: 0,0:22:07.60,0:22:10.21,Matsumoto,,0,0,0,,If you did it it'd be amazing
+Dialogue: 0,0:22:10.21,0:22:11.51,Matsumoto,,0,0,0,,It'd be super cool
+Dialogue: 0,0:22:09.77,0:22:11.51,Yamazaki,,0,0,0,,Concentrate
+Dialogue: 0,0:22:21.15,0:22:22.95,Tanaka,,0,0,0,,I'm going
+Dialogue: 0,0:22:24.19,0:22:25.99,Hamada,,0,0,0,,Did you fart?
+Dialogue: 0,0:22:26.92,0:22:29.03,Matsumoto,,0,0,0,,{\pos(193.28,265.507)}No I didn't
+Dialogue: 0,0:22:27.46,0:22:29.03,Hamada,,0,0,0,,He just farted!
+Dialogue: 0,0:22:31.33,0:22:33.13,Matsumoto,,0,0,0,,No there's nothing
+Dialogue: 0,0:22:37.13,0:22:38.90,Matsumoto,,0,0,0,,I didn't even fart, what's wrong
+Dialogue: 0,0:22:38.90,0:22:40.74,Hamada,,0,0,0,,No I heard this rumbling noise
+Dialogue: 0,0:22:40.74,0:22:41.81,Matsumoto,,0,0,0,,It wasn't me
+Dialogue: 0,0:22:41.81,0:22:43.97,Yamazaki,,0,0,0,,My stomach was growling
+Dialogue: 0,0:22:44.11,0:22:44.98,Hamada,,0,0,0,,Oh my bad
+Dialogue: 0,0:22:45.88,0:22:47.75,Yamazaki,,0,0,0,,{\pos(193.2,258.667)}Please apologize
+Dialogue: 0,0:22:46.74,0:22:47.75,Hamada,,0,0,0,,Oh I'm sorry
+Dialogue: 0,0:22:47.95,0:22:49.45,Endo,,0,0,0,,Tanaka concentrate
+Dialogue: 0,0:22:53.02,0:22:56.15,Matsumoto,,0,0,0,,Tanaka's bad side is showing
+Dialogue: 0,0:22:54.25,0:22:56.15,Yamazaki,,0,0,0,,That was a huge blunder Tanaka
+Dialogue: 0,0:22:56.15,0:22:58.12,Hamada,,0,0,0,,Now I just need to land it there
+Dialogue: 0,0:22:58.12,0:23:01.59,Matsumoto,,0,0,0,,Hamada you can do this\NYou pretty much know where to bounce it
+Dialogue: 0,0:23:02.86,0:23:07.83,Normal,,0,0,0,,If Downtown can land this they win
+Dialogue: 0,0:23:14.34,0:23:19.44,Normal,,0,0,0,,{\c&H1800D2&\3c&HFFFFFF&\4c&H738D93&\pos(195.2,234.24)}Downtown Team {\c&H49FFF6&\3c&H1E2077&\4c&HCAFFFD&}Wins
+Dialogue: 0,0:23:17.24,0:23:19.44,Hamada,,0,0,0,,It was really right there
+Dialogue: 0,0:23:21.15,0:23:22.91,Endo,,0,0,0,,That was great
+Dialogue: 0,0:23:23.55,0:23:25.25,Endo,,0,0,0,,And that's it
+Dialogue: 0,0:23:25.82,0:23:27.65,Normal,,0,0,0,,{\pos(194.24,239.054)}Alright! We're OK! That's a wrap
+Dialogue: 0,0:23:34.83,0:23:35.93,Hamada,,0,0,0,,Already!?
+Dialogue: 0,0:23:37.33,0:24:09.93,Normal,,0,0,0,,{\pos(195.6,35.267)}Translation - Tekno Timing - mattee53\NTypesetting - Teknova QA - Shion
+Dialogue: 0,0:23:40.86,0:23:43.80,Hamada,,0,0,0,,Man I hate this
+Dialogue: 0,0:23:43.80,0:23:45.97,Hamada,,0,0,0,,It's exhausting
+Dialogue: 0,0:23:45.97,0:23:47.60,Hamada,,0,0,0,,I've been so exhausted
+Dialogue: 0,0:23:47.60,0:23:50.41,Matsumoto,,0,0,0,,The correct answer was "There's nothing else!?"
+Dialogue: 0,0:23:50.87,0:23:53.31,Hamada,,0,0,0,,Ah, it was that...
+Dialogue: 0,0:23:53.31,0:23:55.58,Endo,,0,0,0,,Nobody had any tricks
+Dialogue: 0,0:23:56.71,0:23:58.78,Hamada,,0,0,0,,I see, it was just three
+Dialogue: 0,0:23:58.78,0:24:01.45,Hamada,,0,0,0,,"There's nothing else!?" Of course it was
+Dialogue: 0,0:24:01.45,0:24:03.62,Matsumoto,,0,0,0,,"Tanaka's not doing anything!"
+Dialogue: 0,0:24:02.52,0:24:06.49,Hamada,,0,0,0,,Of course, it was that
+Dialogue: 0,0:24:06.82,0:24:09.26,Hamada,,0,0,0,,Ah, I'm sorry!
+

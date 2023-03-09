@@ -1,0 +1,722 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 640
+PlayResY: 480
+ScaledBorderAndShadow: yes
+Last Style Storage: Gaki No Tsukai
+Audio File: ?video
+Video File: GakinoTsukai Pizza.avi
+Video Aspect Ratio: 0
+Video Zoom: 6
+Video Position: 38068
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: BIG,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Medium,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Matsumoto red,Arial,27,&H000000FF,&H6EFFFFFF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Hamada Blue,Arial,27,&H00E10B19,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Yamasaki Green,Arial,27,&H0014B51D,&H000000FF,&H00E0FFE2,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Tanaka Pink,Arial,27,&H00C400B7,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Endo orange,Arial,27,&H000A82FC,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Heipo Baby Blue,Arial,27,&H00B2BA0D,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Talking over,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Fujiwara,Arial,25,&H0006060A,&H000000FF,&H00FFFFFF,&H0006060A,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: white Fujiwara,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,10,1
+Style: Yellow announcmend,Arial,32,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Default,,0,0,0,,{\i1\fs25\pos(184,50)}Translation by {\c&HFF00F2&\b1}Shibatabread\N{\c&HFFFFFF&}www.shibatabread.com{\i0}
+Dialogue: 0,0:00:05.56,0:00:07.18,Hamada Blue,,0,0,0,,First Annual Gaki No Tsukaiya Arahende
+Dialogue: 0,0:00:07.22,0:00:09.62,Hamada Blue,,0,0,0,,"I Have Always Wanted to Try Making This" - Part 2
+Dialogue: 0,0:00:09.62,0:00:13.72,Hamada Blue,,0,0,0,,Absolutely Tasty - Pizza Round !
+Dialogue: 0,0:00:17.06,0:00:19.57,Yamasaki Green,,0,0,0,,You just BARELY made it through the introduction
+Dialogue: 0,0:00:20.48,0:00:23.13,Matsumoto red,,0,0,0,,Where's the "@#$% Machine" when we need it ??
+Dialogue: 0,0:00:20.75,0:00:23.90,Medium,,0,0,0,,{\c&H18B629&\3c&HFFFFFF&\b1\pos(317,352)}{\fad(500,500)}Downtown
+Dialogue: 0,0:00:20.75,0:00:23.90,Medium,,0,0,0,,{\3c&HDE4939&\pos(202,398)}{\pos(204,404)}{\fad(500,500)}Hitoshi Matsumoto
+Dialogue: 0,0:00:20.75,0:00:23.90,Medium,,0,0,0,,{\pos(467,398)}{\3c&HDE4939&}{\fad(500,500)}Masatoshi Hamada
+Dialogue: 0,0:00:23.88,0:00:25.09,Yamasaki Green,,0,0,0,,If he keeps stuttering,
+Dialogue: 0,0:00:25.20,0:00:26.75,Matsumoto red,,0,0,0,,We might need to bring the "@#$% Machine" up
+Dialogue: 0,0:00:24.80,0:00:26.97,Medium,,0,0,0,,{\3c&HDE4939&\pos(318,356)}{\fad(500,500)}Cocorico
+Dialogue: 0,0:00:24.80,0:00:26.97,Medium,,0,0,0,,{\3c&HDE4939&\pos(207,396)}{\fad(500,500)}Shozo Endo
+Dialogue: 0,0:00:24.80,0:00:26.97,Medium,,0,0,0,,{\3c&HDE4939&\pos(443,403)}{\fad(500,500)}Naoki Tanaka
+Dialogue: 0,0:00:26.98,0:00:29.33,Medium,,0,0,0,,{\3c&HDE4939&\pos(320,401)}{\fad(500,500)}Hosei Yamasaki
+Dialogue: 0,0:00:26.77,0:00:28.10,Hamada Blue,,0,0,0,,This is actually our second cooking series
+Dialogue: 0,0:00:28.10,0:00:29.23,Matsumoto red,,0,0,0,,Yes, it is
+Dialogue: 0,0:00:29.32,0:00:32.46,Hamada Blue,,0,0,0,,Just like last time, we're each presenting two recipes
+Dialogue: 0,0:00:29.91,0:00:37.60,Medium,,0,0,0,,{\3c&HDE4939&\pos(323,373)}{\fad(500,500)}Objective\NPresent and critique each participant's two pizzas
+Dialogue: 0,0:00:33.18,0:00:35.43,Matsumoto red,,0,0,0,,How well do you think you know pizza ??
+Dialogue: 0,0:00:35.43,0:00:37.32,Yamasaki Green,,0,0,0,,I'm very confident
+Dialogue: 0,0:00:37.32,0:00:38.19,Hamada Blue,,0,0,0,,Last time around,
+Dialogue: 0,0:00:38.34,0:00:39.56,Hamada Blue,,0,0,0,,the theme was "Rice," correct ??
+Dialogue: 0,0:00:39.56,0:00:40.71,Matsumoto red,,0,0,0,,Right, we used the rice cooker
+Dialogue: 0,0:00:41.03,0:00:42.49,Matsumoto red,,0,0,0,,I heard it was a hit
+Dialogue: 0,0:00:42.49,0:00:45.64,Matsumoto red,,0,0,0,,Some viewers told me that they routinely fix them after watching that episode
+Dialogue: 0,0:00:45.02,0:00:45.68,Hamada Blue,,0,0,0,,Get outta here
+Dialogue: 0,0:00:46.04,0:00:47.84,Hamada Blue,,0,0,0,,Exactly whose dish are you talking about ?
+Dialogue: 0,0:00:47.84,0:00:49.35,Endo orange,,0,0,0,,But there were good ones...
+Dialogue: 0,0:00:49.35,0:00:51.47,Matsumoto red,,0,0,0,,And who won ...
+Dialogue: 0,0:00:51.47,0:00:53.52,Tanaka Pink,,0,0,0,,I'd say the "Edamame Rice with Beer"
+Dialogue: 0,0:00:52.86,0:00:54.80,Default,,0,0,0,,{\fs20\pos(139,421)}Edamame Rice with Beer
+Dialogue: 0,0:00:54.81,0:00:56.80,Default,,0,0,0,,{\pos(139,418)\fs20}Okonomiyaki Rice
+Dialogue: 0,0:00:53.52,0:00:54.52,Tanaka Pink,,0,0,0,,That was the best
+Dialogue: 0,0:00:54.52,0:00:56.62,Hamada Blue,,0,0,0,,What about my Okonomiyaki Rice ??
+Dialogue: 0,0:00:56.76,0:00:59.00,Tanaka Pink,,0,0,0,,Seriously, many people told me how good it was
+Dialogue: 0,0:00:59.02,0:01:00.49,Tanaka Pink,,0,0,0,,after they cooked it themselves
+Dialogue: 0,0:01:00.51,0:01:01.53,Endo orange,,0,0,0,,They actually made it ?
+Dialogue: 0,0:01:01.51,0:01:02.02,Tanaka Pink,,0,0,0,,Yes
+Dialogue: 0,0:01:01.86,0:01:02.39,Yamasaki Green,,0,0,0,,Are you serious ?
+Dialogue: 0,0:01:02.44,0:01:02.93,Tanaka Pink,,0,0,0,,Yes, I am
+Dialogue: 0,0:01:03.12,0:01:04.17,Tanaka Pink,,0,0,0,,I'm serious about this
+Dialogue: 0,0:01:04.88,0:01:05.81,Tanaka Pink,,0,0,0,,I heard it was good
+Dialogue: 0,0:01:06.21,0:01:08.76,Matsumoto red,,0,0,0,,I've noticed Tanaka lies every now and then
+Dialogue: 0,0:01:08.76,0:01:10.83,Tanaka Pink,,0,0,0,,Trust me on this
+Dialogue: 0,0:01:11.22,0:01:16.85,BIG,,0,0,0,,{\b1\c&HCE5510&\3c&H29DBDE&}Downtown Presents\NGaki No Tsukai Ya Arahende
+Dialogue: 0,0:01:17.44,0:01:21.00,Medium,,0,0,0,,{\pos(318,139)}Sponsor
+Dialogue: 0,0:01:17.44,0:01:21.00,Medium,,0,0,0,,{\pos(326,269)}Matsumoto Kiyoshi
+Dialogue: 0,0:01:22.17,0:01:26.11,Medium,,0,0,0,,{\fnViner Hand ITC\fs45\pos(312,380)}Tanaka's Pizza
+Dialogue: 0,0:01:22.86,0:01:24.43,Default,,0,0,0,,First up is Tanaka
+Dialogue: 0,0:01:24.43,0:01:26.33,Default,,0,0,0,,What are his choice of toppings ?
+Dialogue: 0,0:01:26.33,0:01:28.36,Tanaka Pink,,0,0,0,,Here are my first items
+Dialogue: 0,0:01:28.36,0:01:29.66,Yamasaki Green,,0,0,0,,What are they ??
+Dialogue: 0,0:01:29.66,0:01:30.43,Hamada Blue,,0,0,0,,What's this ?
+Dialogue: 0,0:01:30.43,0:01:32.00,Tanaka Pink,,0,0,0,,We have Sake, {\alpha&HFF&}Sake Lees, and {\alpha&HFF&}*Shiokara
+Dialogue: 0,0:01:32.00,0:01:34.00,Tanaka Pink,,0,0,0,,We have Sake, Sake Lees, and {\alpha&HFF&}*Shiokara
+Dialogue: 0,0:01:34.00,0:01:35.81,Tanaka Pink,,0,0,0,,We have Sake, Sake Lees, and *Shiokara
+Dialogue: 0,0:01:30.40,0:01:39.35,Default,,0,0,0,,{\fs18\4c&H10D75A&\3c&H29D76B&\pos(95,314)}Ingredients
+Dialogue: 0,0:01:30.40,0:01:39.35,Default,,0,0,0,,{\fs18\pos(99,345)}Japanese Sake
+Dialogue: 0,0:01:30.40,0:01:39.35,Default,,0,0,0,,{\fs18\pos(93,371)}Sake Lees
+Dialogue: 0,0:01:30.40,0:01:39.35,Default,,0,0,0,,{\fs18\pos(94,399)}Shiokara
+Dialogue: 0,0:01:30.40,0:01:39.35,Default,,0,0,0,,{\pos(92,424)\fs18}Cheese
+Dialogue: 0,0:01:35.81,0:01:39.81,Default,,0,0,0,,{\pos(180,34)}*Shiokara is salt-cured fish guts
+Dialogue: 0,0:01:35.81,0:01:37.20,Endo orange,,0,0,0,,I don't know about this...
+Dialogue: 0,0:01:37.20,0:01:39.36,Matsumoto red,,0,0,0,,It's amazing that you chose to combine these ingredients,
+Dialogue: 0,0:01:39.36,0:01:40.74,Matsumoto red,,0,0,0,,since each can be difficult to eat on its own
+Dialogue: 0,0:01:40.78,0:01:41.50,Tanaka Pink,,0,0,0,,I'm positive this will be good
+Dialogue: 0,0:01:41.50,0:01:43.49,Tanaka Pink,,0,0,0,,Pizza will go great with Sake...
+Dialogue: 0,0:01:43.49,0:01:44.00,Hamada Blue,,0,0,0,,Sake...{\alpha&HFF&}and Sake Lees....{\alpha&HFF&}Get outta here !
+Dialogue: 0,0:01:44.00,0:01:45.00,Hamada Blue,,0,0,0,,Sake...and Sake Lees....{\alpha&HFF&}Get outta here !
+Dialogue: 0,0:01:45.00,0:01:46.28,Hamada Blue,,0,0,0,,Sake...and Sake Lees....Get outta here !
+Dialogue: 0,0:01:46.29,0:01:47.97,Hamada Blue,,0,0,0,,They're basically the same thing
+Dialogue: 0,0:01:47.97,0:01:49.42,Matsumoto red,,0,0,0,,You're serious about this
+Dialogue: 0,0:01:51.86,0:01:53.41,Yamasaki Green,,0,0,0,,I'm not a big fan of Sake Lees
+Dialogue: 0,0:01:53.41,0:01:54.78,Matsumoto red,,0,0,0,,I'm not sure Sake Lees will be good cooked
+Dialogue: 0,0:01:54.78,0:01:58.61,Matsumoto red,,0,0,0,,since they're already good raw
+Dialogue: 0,0:01:59.14,0:02:00.93,Hamada Blue,,0,0,0,,I think you've got enough on there
+Dialogue: 0,0:02:00.94,0:02:03.64,Matsumoto red,,0,0,0,,You're not gonna cut it in pieces ?
+Dialogue: 0,0:02:03.64,0:02:05.04,Endo orange,,0,0,0,,A bold move
+Dialogue: 0,0:02:05.61,0:02:06.61,Hamada Blue,,0,0,0,,Spectacular
+Dialogue: 0,0:02:07.04,0:02:09.29,Yamasaki Green,,0,0,0,,I see, they're already cut to fit the dough
+Dialogue: 0,0:02:09.47,0:02:12.08,Matsumoto red,,0,0,0,,I hope you're not just messing around today
+Dialogue: 0,0:02:12.08,0:02:14.49,Tanaka Pink,,0,0,0,,Please, I'm really serious about my dish
+Dialogue: 0,0:02:14.49,0:02:16.33,Matsumoto red,,0,0,0,,Well, we're all serious about this project
+Dialogue: 0,0:02:17.92,0:02:20.55,Matsumoto red,,0,0,0,,That's a lot of Shiokara
+Dialogue: 0,0:02:20.55,0:02:22.93,Tanaka Pink,,0,0,0,,Compare this to anchovy pizza
+Dialogue: 0,0:02:22.95,0:02:23.48,Matsumoto red,,0,0,0,,I hear you
+Dialogue: 0,0:02:23.48,0:02:24.41,Tanaka Pink,,0,0,0,,it's a similar flavor
+Dialogue: 0,0:02:24.63,0:02:26.54,Hamada Blue,,0,0,0,,Well, well, that might be a stretch
+Dialogue: 0,0:02:27.16,0:02:28.95,Matsumoto red,,0,0,0,,Hey, I like anchovy pizza
+Dialogue: 0,0:02:28.95,0:02:30.18,Tanaka Pink,,0,0,0,,It's good, isn't it ?
+Dialogue: 0,0:02:30.18,0:02:32.27,Matsumoto red,,0,0,0,,I like the saltiness
+Dialogue: 0,0:02:32.35,0:02:33.68,Hamada Blue,,0,0,0,,I don't like it
+Dialogue: 0,0:02:33.68,0:02:35.37,Yamasaki Green,,0,0,0,,I don't think Hamada-san is sold on this
+Dialogue: 0,0:02:35.42,0:02:37.38,Tanaka Pink,,0,0,0,,So, I got the idea from anchovy pizza ...
+Dialogue: 0,0:02:37.84,0:02:39.22,Tanaka Pink,,0,0,0,,OK then
+Dialogue: 0,0:02:40.19,0:02:41.39,Hamada Blue,,0,0,0,,And your second recipe is ?
+Dialogue: 0,0:02:41.43,0:02:42.41,Tanaka Pink,,0,0,0,,Here it is
+Dialogue: 0,0:02:43.39,0:02:44.46,Endo orange,,0,0,0,,What...??
+Dialogue: 0,0:02:44.30,0:02:50.33,Default,,0,0,0,,{\fs18\pos(108,334)\3c&H29D76B&}Ingredients
+Dialogue: 0,0:02:44.30,0:02:50.33,Default,,0,0,0,,{\fs18\pos(175,371)}Yukimi Daifuku (Mochi Ice Cream)
+Dialogue: 0,0:02:44.30,0:02:50.33,Default,,0,0,0,,{\fs18\pos(91,396)}Strawberry
+Dialogue: 0,0:02:44.30,0:02:50.33,Default,,0,0,0,,{\fs18\pos(80,424)}Cheese
+Dialogue: 0,0:02:44.98,0:02:46.07,Matsumoto red,,0,0,0,,Are they...??
+Dialogue: 0,0:02:46.07,0:02:47.96,Endo orange,,0,0,0,,I don't know what to say...
+Dialogue: 0,0:02:47.96,0:02:50.98,Tanaka Pink,,0,0,0,,My intention is to make dessert pizza
+Dialogue: 0,0:02:50.98,0:02:52.88,Matsumoto red,,0,0,0,,This one already looks better than the last one
+Dialogue: 0,0:02:52.88,0:02:54.02,Yamasaki Green,,0,0,0,,I agree
+Dialogue: 0,0:02:54.02,0:02:55.97,Yamasaki Green,,0,0,0,,It looks good already
+Dialogue: 0,0:02:55.97,0:02:59.91,Default,,0,0,0,,The key is to add strawberry with the mochi ice cream
+Dialogue: 0,0:03:00.17,0:03:04.11,Medium,,0,0,0,,{\fnViner Hand ITC\fs45\pos(312,380)}Endo's Pizza
+Dialogue: 0,0:03:00.68,0:03:02.58,Default,,0,0,0,,Next up is Endo
+Dialogue: 0,0:03:02.63,0:03:04.16,Default,,0,0,0,,What are his ingredients ??
+Dialogue: 0,0:03:04.36,0:03:06.81,Endo orange,,0,0,0,,I decided to use "High-End" ingredients
+Dialogue: 0,0:03:06.81,0:03:08.86,Endo orange,,0,0,0,,I wanted to give these a try
+Dialogue: 0,0:03:08.86,0:03:09.96,Endo orange,,0,0,0,,Here they are
+Dialogue: 0,0:03:11.85,0:03:13.55,Matsumoto red,,0,0,0,,That's a one bold...
+Dialogue: 0,0:03:13.55,0:03:15.00,Endo orange,,0,0,0,,"Blowfish Pizza"
+Dialogue: 0,0:03:12.10,0:03:17.50,Default,,0,0,0,,{\fs18\3c&H21DFB5&\pos(530,306)}Ingredients
+Dialogue: 0,0:03:12.10,0:03:17.50,Default,,0,0,0,,{\fs18\pos(502,347)}Blowfish
+Dialogue: 0,0:03:12.10,0:03:17.50,Default,,0,0,0,,{\fs18\pos(496,374)}Ponzu
+Dialogue: 0,0:03:12.10,0:03:17.50,Default,,0,0,0,,{\fs18\pos(523,400)}Grated Daikon
+Dialogue: 0,0:03:12.10,0:03:17.50,Default,,0,0,0,,{\fs18\pos(504,428)}Cheese
+Dialogue: 0,0:03:15.94,0:03:17.92,Endo orange,,0,0,0,,I came up with this idea...
+Dialogue: 0,0:03:17.92,0:03:18.67,Hamada Blue,,0,0,0,,You're an idiot
+Dialogue: 0,0:03:18.67,0:03:19.54,Endo orange,,0,0,0,,May I...
+Dialogue: 0,0:03:19.54,0:03:21.65,Endo orange,,0,0,0,,May I say this is the ultimate luxury ?
+Dialogue: 0,0:03:21.69,0:03:22.40,Matsumoto red,,0,0,0,,I would agree
+Dialogue: 0,0:03:22.61,0:03:24.69,Endo orange,,0,0,0,,Pour the sauce like so
+Dialogue: 0,0:03:24.69,0:03:29.39,Default,,0,0,0,,Pour a cup of Ponzu over blowfish sashimi
+Dialogue: 0,0:03:30.19,0:03:32.33,Endo orange,,0,0,0,,And you can't call it a pizza without this...
+Dialogue: 0,0:03:32.33,0:03:33.35,Endo orange,,0,0,0,,Cheese
+Dialogue: 0,0:03:34.36,0:03:37.33,Tanaka Pink,,0,0,0,,I don't know about this
+Dialogue: 0,0:03:37.33,0:03:39.57,Matsumoto red,,0,0,0,,Pretty out of control
+Dialogue: 0,0:03:39.57,0:03:43.01,Endo orange,,0,0,0,,I want a restaurant owner to tell me they've tried this recipe
+Dialogue: 0,0:03:43.04,0:03:44.96,Tanaka Pink,,0,0,0,,I somehow doubt anyone would try this
+Dialogue: 0,0:03:46.34,0:03:48.42,Matsumoto red,,0,0,0,,I don't think a family would try this
+Dialogue: 0,0:03:48.42,0:03:51.15,Matsumoto red,,0,0,0,,I mean, just think how much it would cost
+Dialogue: 0,0:03:51.15,0:03:54.73,Default,,0,0,0,,His second pizza is "Frisk Mint Pizza"
+Dialogue: 0,0:03:52.10,0:03:57.00,Default,,0,0,0,,{\fs18\3c&H21DFB5&\pos(110,337)}Ingredients
+Dialogue: 0,0:03:52.10,0:03:57.00,Default,,0,0,0,,{\fs18\pos(99,372)}Frisk Mints
+Dialogue: 0,0:03:52.10,0:03:57.00,Default,,0,0,0,,{\fs18\pos(105,401)}Pizza sauce
+Dialogue: 0,0:03:52.10,0:03:57.00,Default,,0,0,0,,{\fs18\pos(91,425)}Cheese
+Dialogue: 0,0:03:54.74,0:03:56.58,Default,,0,0,0,,The secret is to add 150 mints
+Dialogue: 0,0:03:56.58,0:03:58.31,Matsumoto red,,0,0,0,,I'm guessing this could be
+Dialogue: 0,0:03:58.31,0:03:59.95,Matsumoto red,,0,0,0,,a hit among women
+Dialogue: 0,0:03:59.99,0:04:01.01,Endo orange,,0,0,0,,You're right
+Dialogue: 0,0:04:01.37,0:04:03.45,Hamada Blue,,0,0,0,,I don't know about that...
+Dialogue: 0,0:04:03.45,0:04:04.84,Matsumoto red,,0,0,0,,Women tend to like minty stuff
+Dialogue: 0,0:04:05.77,0:04:06.69,Endo orange,,0,0,0,,Yes, they really do
+Dialogue: 0,0:04:07.66,0:04:11.63,Medium,,0,0,0,,{\fnViner Hand ITC\fs45\pos(312,380)}Yamasaki's Pizza
+Dialogue: 0,0:04:08.15,0:04:10.01,Default,,0,0,0,,Here's Yamasaki's pizza
+Dialogue: 0,0:04:10.06,0:04:11.65,Default,,0,0,0,,What are his preferred ingredients ??
+Dialogue: 0,0:04:11.83,0:04:12.87,Hamada Blue,,0,0,0,,Yama-chan, let's see what you got
+Dialogue: 0,0:04:12.87,0:04:13.79,Yamasaki Green,,0,0,0,,Are we good ?
+Dialogue: 0,0:04:16.13,0:04:30.08,Default,,0,0,0,,{\fs18\3c&HB541EF&\pos(136,339)}Ingredients
+Dialogue: 0,0:04:16.13,0:04:30.08,Default,,0,0,0,,{\fs18\pos(164,377)}Hiyashi Chuka (Cold Noodles)
+Dialogue: 0,0:04:16.13,0:04:30.08,Default,,0,0,0,,{\fs18\pos(182,402)}(Cucumber, Egg, Ham, and Tomato)
+Dialogue: 0,0:04:16.13,0:04:30.08,Default,,0,0,0,,{\fs18\pos(81,428)}Cheese
+Dialogue: 0,0:04:15.20,0:04:16.23,Endo orange,,0,0,0,,It's *Hiyashi Chuka
+Dialogue: 0,0:04:16.23,0:04:21.23,Default,,0,0,0,,{\pos(202,29)}*Hiyashi Chuka is a cold noodle dish
+Dialogue: 0,0:04:16.27,0:04:17.54,Matsumoto red,,0,0,0,,Why aren't you taking this seriously ?
+Dialogue: 0,0:04:17.54,0:04:18.33,Yamasaki Green,,0,0,0,,Wait..
+Dialogue: 0,0:04:18.33,0:04:20.14,Matsumoto red,,0,0,0,,I told you we're all taking this very seriously
+Dialogue: 0,0:04:20.21,0:04:22.48,Yamasaki Green,,0,0,0,,Please, I'm totally serious
+Dialogue: 0,0:04:22.48,0:04:24.91,Yamasaki Green,,0,0,0,,I'm going to pour all of this on the dough
+Dialogue: 0,0:04:24.91,0:04:26.88,Endo orange,,0,0,0,,You're not holding back
+Dialogue: 0,0:04:28.21,0:04:29.08,Tanaka Pink,,0,0,0,,With the broth ?
+Dialogue: 0,0:04:29.21,0:04:30.56,Yamasaki Green,,0,0,0,,Yeah, everything
+Dialogue: 0,0:04:30.88,0:04:32.55,Hamada Blue,,0,0,0,,That's some creation
+Dialogue: 0,0:04:32.55,0:04:34.40,Yamasaki Green,,0,0,0,,This adds color
+Dialogue: 0,0:04:34.44,0:04:35.88,Yamasaki Green,,0,0,0,,How's this ?
+Dialogue: 0,0:04:36.90,0:04:39.01,Matsumoto red,,0,0,0,,You're trying to make it look exactly like Hiyashi Chuka
+Dialogue: 0,0:04:39.05,0:04:39.58,Hamada Blue,,0,0,0,,I see
+Dialogue: 0,0:04:39.67,0:04:42.66,Matsumoto red,,0,0,0,,But once you slice it into pieces...
+Dialogue: 0,0:04:42.73,0:04:45.06,Hamada Blue,,0,0,0,,Each will have a different topping
+Dialogue: 0,0:04:45.12,0:04:47.52,Tanaka Pink,,0,0,0,,Then one person could get stuck with just eggs
+Dialogue: 0,0:04:49.34,0:04:51.82,Yamasaki Green,,0,0,0,,You'll have to share each of your toppings
+Dialogue: 0,0:04:51.86,0:04:53.90,Yamasaki Green,,0,0,0,,It's more fun that way, don't you think ?
+Dialogue: 0,0:04:54.08,0:04:56.75,Hamada Blue,,0,0,0,,I don't want the cucumber piece for sure
+Dialogue: 0,0:04:56.75,0:04:59.65,Yamasaki Green,,0,0,0,,I'm really particular about the appearance of this dish
+Dialogue: 0,0:05:00.87,0:05:02.67,Yamasaki Green,,0,0,0,,Here's my second pizza
+Dialogue: 0,0:05:02.67,0:05:05.44,Yamasaki Green,,0,0,0,,I'm shooting for a dessert as well
+Dialogue: 0,0:05:05.44,0:05:07.77,Matsumoto red,,0,0,0,,Looks like you have a lot of stuff under there
+Dialogue: 0,0:05:07.77,0:05:09.49,Yamasaki Green,,0,0,0,,You can't wait to see it, can you ?
+Dialogue: 0,0:05:09.49,0:05:10.86,Yamasaki Green,,0,0,0,,What could it be ?
+Dialogue: 0,0:05:10.86,0:05:12.15,Yamasaki Green,,0,0,0,,Here it it
+Dialogue: 0,0:05:12.19,0:05:13.41,Endo orange,,0,0,0,,What is this ?
+Dialogue: 0,0:05:13.86,0:05:15.83,Yamasaki Green,,0,0,0,,Yes, cotton candy
+Dialogue: 0,0:05:15.00,0:05:21.30,Default,,0,0,0,,{\fs18\pos(105,367)\3c&HB541EF&}Ingredients
+Dialogue: 0,0:05:15.00,0:05:21.30,Default,,0,0,0,,{\fs18\pos(105,398)}Cotton Candy
+Dialogue: 0,0:05:15.00,0:05:21.30,Default,,0,0,0,,{\fs18\pos(84,422)}Cheese
+Dialogue: 0,0:05:15.83,0:05:17.88,Endo orange,,0,0,0,,I wonder what will happen when it cooks ?
+Dialogue: 0,0:05:17.88,0:05:19.26,Matsumoto red,,0,0,0,,I see
+Dialogue: 0,0:05:19.73,0:05:21.86,Yamasaki Green,,0,0,0,,Why not just put it on like this ?
+Dialogue: 0,0:05:22.52,0:05:24.36,Endo orange,,0,0,0,,How else would you do it ?
+Dialogue: 0,0:05:25.36,0:05:26.16,Matsumoto red,,0,0,0,,So...
+Dialogue: 0,0:05:26.27,0:05:28.28,Matsumoto red,,0,0,0,,this is more like dessert
+Dialogue: 0,0:05:28.35,0:05:29.50,Yamasaki Green,,0,0,0,,Yes, it's sweet
+Dialogue: 0,0:05:30.52,0:05:31.54,Endo orange,,0,0,0,,But this is more...
+Dialogue: 0,0:05:31.54,0:05:33.09,Matsumoto red,,0,0,0,,But you still need the cheese
+Dialogue: 0,0:05:33.54,0:05:34.73,Yamasaki Green,,0,0,0,,That should do it
+Dialogue: 0,0:05:34.78,0:05:35.89,Endo orange,,0,0,0,,That's a simple dish
+Dialogue: 0,0:05:36.14,0:05:36.86,Yamasaki Green,,0,0,0,,Yes, it is
+Dialogue: 0,0:05:36.86,0:05:38.66,Hamada Blue,,0,0,0,,The cheese should melt around the cotton candy
+Dialogue: 0,0:05:39.21,0:05:43.25,Default,,0,0,0,,{\fnViner Hand ITC\fs45\pos(312,380)}Hamada's Pizza
+Dialogue: 0,0:05:39.68,0:05:41.03,Default,,0,0,0,,Next up is Hamada
+Dialogue: 0,0:05:41.12,0:05:43.25,Default,,0,0,0,,What's his specialty pizza ?
+Dialogue: 0,0:05:43.44,0:05:45.57,Hamada Blue,,0,0,0,,I'm using more common ingredients
+Dialogue: 0,0:05:45.60,0:05:46.97,Hamada Blue,,0,0,0,,Any family can do this
+Dialogue: 0,0:05:47.48,0:05:49.30,Hamada Blue,,0,0,0,,Unlike the blowfish over there
+Dialogue: 0,0:05:49.59,0:05:50.61,Hamada Blue,,0,0,0,,Here they are
+Dialogue: 0,0:05:50.61,0:05:53.39,Endo orange,,0,0,0,,I see, this is a very common dish but...
+Dialogue: 0,0:05:51.33,0:05:59.70,Default,,0,0,0,,{\fs18\pos(116,322)\3c&HCE7D5A&}Ingredients
+Dialogue: 0,0:05:51.33,0:05:59.70,Default,,0,0,0,,{\fs18\pos(80,352)}Sukiyaki
+Dialogue: 0,0:05:51.33,0:05:59.70,Default,,0,0,0,,{\fs18\pos(225,378)}(Beef, Chinese Cabbage, Green Onion, Tofu, etc)
+Dialogue: 0,0:05:51.33,0:05:59.70,Default,,0,0,0,,{\fs18\pos(66,402)}Egg
+Dialogue: 0,0:05:51.33,0:05:59.70,Default,,0,0,0,,{\fs18\pos(79,429)}Cheese
+Dialogue: 0,0:05:54.17,0:05:55.77,Hamada Blue,,0,0,0,,What do you mean ??
+Dialogue: 0,0:05:55.77,0:05:58.71,Hamada Blue,,0,0,0,,Who wouldn't fix Sukiyaki from time to time at home ??
+Dialogue: 0,0:05:59.00,0:05:59.97,Matsumoto red,,0,0,0,,I hear you
+Dialogue: 0,0:05:59.98,0:06:00.71,Hamada Blue,,0,0,0,,Do you see ??
+Dialogue: 0,0:06:00.71,0:06:02.60,Endo orange,,0,0,0,,So you're using Sukiyaki ingredients
+Dialogue: 0,0:06:02.60,0:06:04.85,Matsumoto red,,0,0,0,,Not a bad choice...
+Dialogue: 0,0:06:04.85,0:06:07.33,Hamada Blue,,0,0,0,,So I'm just gonna go ahead and...
+Dialogue: 0,0:06:07.34,0:06:08.89,Hamada Blue,,0,0,0,,just as Yama-chan arranged his toppings
+Dialogue: 0,0:06:08.94,0:06:10.02,Tanaka Pink,,0,0,0,,Arrange them by groups ?
+Dialogue: 0,0:06:10.07,0:06:11.29,Hamada Blue,,0,0,0,,Right, just like Sukiyaki
+Dialogue: 0,0:06:11.29,0:06:13.02,Yamasaki Green,,0,0,0,,You're keeping the integrity of the dish
+Dialogue: 0,0:06:13.06,0:06:14.13,Hamada Blue,,0,0,0,,Right, keeping it true
+Dialogue: 0,0:06:14.13,0:06:16.32,Endo orange,,0,0,0,,Then someone may end up with a meat slice
+Dialogue: 0,0:06:16.32,0:06:18.37,Yamasaki Green,,0,0,0,,I don't want the Konnyaku piece
+Dialogue: 0,0:06:18.37,0:06:19.45,Endo orange,,0,0,0,,I second that
+Dialogue: 0,0:06:19.45,0:06:23.82,Hamada Blue,,0,0,0,,Here's the soup
+Dialogue: 0,0:06:26.45,0:06:28.51,Hamada Blue,,0,0,0,,And here's some cheese
+Dialogue: 0,0:06:30.35,0:06:31.74,Matsumoto red,,0,0,0,,You just ruined it
+Dialogue: 0,0:06:32.99,0:06:36.53,Hamada Blue,,0,0,0,,But what makes the pizza complete is this item right here
+Dialogue: 0,0:06:36.58,0:06:37.58,Endo orange,,0,0,0,,Oh, I see
+Dialogue: 0,0:06:37.60,0:06:38.62,Matsumoto red,,0,0,0,,That's for later
+Dialogue: 0,0:06:38.71,0:06:40.66,Hamada Blue,,0,0,0,,Just like Sukiyaki,
+Dialogue: 0,0:06:40.75,0:06:43.49,Hamada Blue,,0,0,0,,You dip your pizza into the raw egg
+Dialogue: 0,0:06:43.62,0:06:46.27,Endo orange,,0,0,0,,I've got a bad feeling about this
+Dialogue: 0,0:06:46.27,0:06:47.61,Yamasaki Green,,0,0,0,,I'm feeling this
+Dialogue: 0,0:06:47.61,0:06:48.83,Tanaka Pink,,0,0,0,,So just use the egg as a dipping sauce
+Dialogue: 0,0:06:49.90,0:06:53.12,Default,,0,0,0,,Hamada's second idea is to use Rice with Beaten Eggs
+Dialogue: 0,0:06:49.72,0:06:57.10,Default,,0,0,0,,{\fs18\pos(95,316)\3c&HCE7D5A&}Ingredients
+Dialogue: 0,0:06:49.72,0:06:57.10,Default,,0,0,0,,{\fs18\pos(70,346)}Rice
+Dialogue: 0,0:06:49.72,0:06:57.10,Default,,0,0,0,,{\fs18\pos(69,377)}Egg
+Dialogue: 0,0:06:49.72,0:06:57.10,Default,,0,0,0,,{\fs18\pos(93,406)}Soy Sauce
+Dialogue: 0,0:06:49.72,0:06:57.10,Default,,0,0,0,,{\fs18\pos(82,429)}Cheese
+Dialogue: 0,0:06:53.12,0:06:55.53,Matsumoto red,,0,0,0,,This idea could end up being delicious
+Dialogue: 0,0:06:55.53,0:06:58.53,Yamasaki Green,,0,0,0,,Could this be like Doria ??
+Dialogue: 0,0:06:58.53,0:06:59.74,Endo orange,,0,0,0,,Oh, I see where you're going with this
+Dialogue: 0,0:06:59.74,0:07:01.79,Hamada Blue,,0,0,0,,Just pour it on the dough like so
+Dialogue: 0,0:07:01.79,0:07:03.42,Endo orange,,0,0,0,,This actually looks good
+Dialogue: 0,0:07:03.42,0:07:05.41,Endo orange,,0,0,0,,This looks delicious
+Dialogue: 0,0:07:05.41,0:07:07.12,Endo orange,,0,0,0,,My stomach just growled
+Dialogue: 0,0:07:07.57,0:07:11.54,Default,,0,0,0,,{\fnViner Hand ITC\fs45\pos(312,380)}Matsumoto's Pizza
+Dialogue: 0,0:07:08.06,0:07:09.63,Default,,0,0,0,,And Matsumoto is the last
+Dialogue: 0,0:07:09.70,0:07:11.52,Default,,0,0,0,,I wonder what his plan is
+Dialogue: 0,0:07:11.62,0:07:13.30,Matsumoto red,,0,0,0,,OK, so it's my turn
+Dialogue: 0,0:07:13.30,0:07:15.72,Matsumoto red,,0,0,0,,I'm very confident about my presentation
+Dialogue: 0,0:07:15.72,0:07:17.24,Matsumoto red,,0,0,0,,Check this out
+Dialogue: 0,0:07:17.25,0:07:18.18,Matsumoto red,,0,0,0,,It's *Gohan Desuyo
+Dialogue: 0,0:07:18.08,0:07:25.52,Default,,0,0,0,,{\fs18\pos(126,367)\3c&H2165D6&}Ingredients
+Dialogue: 0,0:07:18.08,0:07:25.52,Default,,0,0,0,,{\fs18\pos(108,401)}Gohan Desuyo
+Dialogue: 0,0:07:18.08,0:07:25.52,Default,,0,0,0,,{\fs18\pos(84,427)}Cheese
+Dialogue: 0,0:07:17.50,0:07:40.00,Default,,0,0,0,,{\fs24\pos(306,31)}*See www.shibatabread.com to find out what Gohan Desuyo is
+Dialogue: 0,0:07:19.04,0:07:20.58,Matsumoto red,,0,0,0,,I'm positive this will work !!
+Dialogue: 0,0:07:20.58,0:07:21.86,Yamasaki Green,,0,0,0,,I see
+Dialogue: 0,0:07:21.86,0:07:24.33,Matsumoto red,,0,0,0,,You can't go wrong with this !!
+Dialogue: 0,0:07:24.33,0:07:25.81,Hamada Blue,,0,0,0,,It's quite simple, too
+Dialogue: 0,0:07:25.81,0:07:27.75,Hamada Blue,,0,0,0,,So you just spread it on, right ?
+Dialogue: 0,0:07:27.75,0:07:29.86,Matsumoto red,,0,0,0,,You're correct
+Dialogue: 0,0:07:29.86,0:07:33.03,Yamasaki Green,,0,0,0,,All kidding aside,
+Dialogue: 0,0:07:33.03,0:07:34.64,Yamasaki Green,,0,0,0,,This could be good
+Dialogue: 0,0:07:34.64,0:07:36.92,Tanaka Pink,,0,0,0,,It's like seafood after all
+Dialogue: 0,0:07:36.92,0:07:38.97,Default,,0,0,0,,After spreading the Gohan Desuyo,
+Dialogue: 0,0:07:38.97,0:07:40.89,Default,,0,0,0,,the cheese completes the pizza
+Dialogue: 0,0:07:40.89,0:07:43.22,Matsumoto red,,0,0,0,,This could come as a surprise but...
+Dialogue: 0,0:07:44.28,0:07:44.81,Yamasaki Green,,0,0,0,,What ??
+Dialogue: 0,0:07:45.69,0:07:46.70,Hamada Blue,,0,0,0,,What the hell is this ??
+Dialogue: 0,0:07:46.68,0:07:47.78,Yamasaki Green,,0,0,0,,What the hell...?
+Dialogue: 0,0:07:47.79,0:07:49.13,Hamada Blue,,0,0,0,,A pig ??
+Dialogue: 0,0:07:49.13,0:07:50.83,Matsumoto red,,0,0,0,,This is the skin of a Pig's head
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(109,281)\3c&H2165D6&}Ingredients
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(119,320)}Skin of Pig's head
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(73,345)}Goya
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(93,373)}Soy Sauce
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(74,398)}Mirin
+Dialogue: 0,0:07:48.95,0:07:57.16,Default,,0,0,0,,{\fs18\pos(83,423)}Cheese
+Dialogue: 0,0:07:52.26,0:07:53.59,Endo orange,,0,0,0,,Okinawa-style ??
+Dialogue: 0,0:07:54.28,0:07:55.87,Matsumoto red,,0,0,0,,Yes, I thought, "Why not go with an Okinawa theme?"
+Dialogue: 0,0:07:55.87,0:07:58.51,Matsumoto red,,0,0,0,,There's never been an Okinawa Pizza
+Dialogue: 0,0:07:59.57,0:08:01.14,Endo orange,,0,0,0,,I don't like this
+Dialogue: 0,0:08:01.43,0:08:03.22,Yamasaki Green,,0,0,0,,I won't want to slice this pizza
+Dialogue: 0,0:08:06.49,0:08:07.77,Hamada Blue,,0,0,0,,That's amazing
+Dialogue: 0,0:08:07.77,0:08:09.89,Matsumoto red,,0,0,0,,The interior side looks good, too, right ?
+Dialogue: 0,0:08:11.32,0:08:13.63,Matsumoto red,,0,0,0,,Well, I supposed I can...
+Dialogue: 0,0:08:14.73,0:08:17.10,Matsumoto red,,0,0,0,,How about making this into a wall decoration ?
+Dialogue: 0,0:08:17.68,0:08:18.90,Yamasaki Green,,0,0,0,,A wall fixture ??
+Dialogue: 0,0:08:18.90,0:08:21.02,Matsumoto red,,0,0,0,,Yeah, put this up on the wall
+Dialogue: 0,0:08:21.02,0:08:24.27,Matsumoto red,,0,0,0,,And put a long and short hand right here to make a clock
+Dialogue: 0,0:08:25.02,0:08:26.96,Matsumoto red,,0,0,0,,This would be the 15min mark here and...
+Dialogue: 0,0:08:27.92,0:08:29.10,Hamada Blue,,0,0,0,,We've got it already
+Dialogue: 0,0:08:34.82,0:08:37.52,Matsumoto red,,0,0,0,,It's like I'm about to shave its face or something
+Dialogue: 0,0:08:38.98,0:08:40.04,Endo orange,,0,0,0,,Yes, indeed
+Dialogue: 0,0:08:45.99,0:08:47.18,Hamada Blue,,0,0,0,,How are we gonna eat this ?
+Dialogue: 0,0:08:49.27,0:08:51.45,Matsumoto red,,0,0,0,,Well, the pig will be happy for sure
+Dialogue: 0,0:08:51.45,0:08:52.60,Matsumoto red,,0,0,0,,And I have yet another idea !
+Dialogue: 0,0:08:52.60,0:08:55.25,Matsumoto red,,0,0,0,,And this is a really special ingredient
+Dialogue: 0,0:08:55.25,0:08:58.18,Matsumoto red,,0,0,0,,that I wanted to use
+Dialogue: 0,0:08:58.18,0:09:00.85,Matsumoto red,,0,0,0,,May I present it to you ??
+Dialogue: 0,0:09:00.85,0:09:03.61,Matsumoto red,,0,0,0,,Well, I just used the Pig's head
+Dialogue: 0,0:09:03.61,0:09:06.88,Matsumoto red,,0,0,0,,And I wasn't quite sure if this one would work but...
+Dialogue: 0,0:09:06.88,0:09:10.02,Matsumoto red,,0,0,0,,Think of it as the Head vs. the Head
+Dialogue: 0,0:09:10.02,0:09:11.21,Matsumoto red,,0,0,0,,But here it is
+Dialogue: 0,0:09:15.20,0:09:17.16,Endo orange,,0,0,0,,Who would WANT to eat this pizza ??
+Dialogue: 0,0:09:17.54,0:09:24.74,Default,,0,0,0,,{\fs18\pos(116,362)\3c&H2165D6&}Ingredients
+Dialogue: 0,0:09:17.54,0:09:24.74,Default,,0,0,0,,{\fs18\pos(93,399)}Tuna Head
+Dialogue: 0,0:09:17.54,0:09:24.74,Default,,0,0,0,,{\fs18\pos(83,422)}Cheese
+Dialogue: 0,0:09:18.24,0:09:19.46,Hamada Blue,,0,0,0,,What the hell is this ??
+Dialogue: 0,0:09:19.53,0:09:20.57,Matsumoto red,,0,0,0,,This will be awesome !!
+Dialogue: 0,0:09:20.66,0:09:21.63,Tanaka Pink,,0,0,0,,I don't think so
+Dialogue: 0,0:09:21.79,0:09:23.14,Yamasaki Green,,0,0,0,,How do you even slice this ?
+Dialogue: 0,0:09:23.18,0:09:24.40,Endo orange,,0,0,0,,How are we eating this ?
+Dialogue: 0,0:09:24.11,0:09:25.09,Matsumoto red,,0,0,0,,This will be delicious
+Dialogue: 0,0:09:25.13,0:09:26.53,Yamasaki Green,,0,0,0,,Seriously, how are we cutting this ?
+Dialogue: 0,0:09:26.60,0:09:27.99,Matsumoto red,,0,0,0,,So, this is a tuna's head
+Dialogue: 0,0:09:27.99,0:09:29.99,Yamasaki Green,,0,0,0,,I can clearly see that
+Dialogue: 0,0:09:29.99,0:09:32.23,Matsumoto red,,0,0,0,,I'm just gonna put it right on the dough
+Dialogue: 0,0:09:32.40,0:09:34.05,Matsumoto red,,0,0,0,,And bake it
+Dialogue: 0,0:09:35.27,0:09:38.68,Default,,0,0,0,,Everyone presented their ideas, and now it's time to bake them
+Dialogue: 0,0:09:38.68,0:09:40.68,Default,,0,0,0,,Who will come out on top ?!
+Dialogue: 0,0:09:40.68,0:09:43.56,Matsumoto red,,0,0,0,,I'm smelling something good
+Dialogue: 0,0:09:44.13,0:09:44.13,Default,,0,0,0,,Yes, you're right
+Dialogue: 0,0:09:44.50,0:09:48.74,Hamada Blue,,0,0,0,,{\pos(318,342)}Rank each pizza on a scale of 1 to 10
+Dialogue: 0,0:09:45.47,0:09:47.10,Tanaka Pink,,0,0,0,,There, I can smell it
+Dialogue: 0,0:09:47.10,0:09:49.02,Endo orange,,0,0,0,,I can smell something good
+Dialogue: 0,0:09:49.02,0:09:52.25,Default,,0,0,0,,First up is Tanaka's "Sake and Shiokara Pizza"
+Dialogue: 0,0:09:48.81,0:09:53.77,Medium,,0,0,0,,{\b1\fnArial Rounded MT Bold\c&H218E08&\3c&H4AF77B&\pos(312,373)}Tanaka's 1st : "Sake and Shiokara Pizza"
+Dialogue: 0,0:09:52.25,0:09:53.77,Default,,0,0,0,,How does it taste ?
+Dialogue: 0,0:09:55.95,0:09:57.09,Matsumoto red,,0,0,0,,Wow, that looks delicious
+Dialogue: 0,0:09:57.09,0:09:57.81,Tanaka Pink,,0,0,0,,Here
+Dialogue: 0,0:09:57.83,0:09:58.87,Tanaka Pink,,0,0,0,,It looks good !
+Dialogue: 0,0:09:58.92,0:09:59.80,Tanaka Pink,,0,0,0,,See ?
+Dialogue: 0,0:10:01.27,0:10:02.24,Tanaka Pink,,0,0,0,,Look
+Dialogue: 0,0:10:02.20,0:10:03.53,Matsumoto red,,0,0,0,,Well, well, well
+Dialogue: 0,0:10:03.62,0:10:05.01,Endo orange,,0,0,0,,You just might have done it
+Dialogue: 0,0:10:06.14,0:10:07.70,Tanaka Pink,,0,0,0,,See this ?
+Dialogue: 0,0:10:07.70,0:10:10.72,Matsumoto red,,0,0,0,,Nobody would question this at a restaurant
+Dialogue: 0,0:10:11.91,0:10:14.14,Yamasaki Green,,0,0,0,,I'd say this is perfect so far
+Dialogue: 0,0:10:14.23,0:10:15.01,Tanaka Pink,,0,0,0,,Yes, it is
+Dialogue: 0,0:10:15.91,0:10:17.58,Hamada Blue,,0,0,0,,So these are all Sake Lees
+Dialogue: 0,0:10:17.58,0:10:19.46,Tanaka Pink,,0,0,0,,Yea, Sake Lees
+Dialogue: 0,0:10:19.46,0:10:20.93,Yamasaki Green,,0,0,0,,That burned piece looks good, too
+Dialogue: 0,0:10:20.93,0:10:22.15,Matsumoto red,,0,0,0,,Looks awesome !
+Dialogue: 0,0:10:23.85,0:10:24.94,Tanaka Pink,,0,0,0,,Smells great
+Dialogue: 0,0:10:27.25,0:10:29.19,Matsumoto red,,0,0,0,,You've done well
+Dialogue: 0,0:10:30.73,0:10:33.05,Endo orange,,0,0,0,,Some viewers will try this for sure
+Dialogue: 0,0:10:35.71,0:10:37.35,Hamada Blue,,0,0,0,,I'm not a fan of the smell
+Dialogue: 0,0:10:37.42,0:10:39.46,Endo orange,,0,0,0,,Hamada-san, you're not into the Shiokara smell
+Dialogue: 0,0:10:39.61,0:10:40.55,Matsumoto red,,0,0,0,,This is....{\alpha&HFF&}pretty good so far!!
+Dialogue: 0,0:10:40.55,0:10:42.32,Matsumoto red,,0,0,0,,This is....pretty good so far!!
+Dialogue: 0,0:10:42.64,0:10:43.95,Matsumoto red,,0,0,0,,Good, good
+Dialogue: 0,0:10:44.14,0:10:45.16,Tanaka Pink,,0,0,0,,Isn't it ??
+Dialogue: 0,0:10:45.29,0:10:47.00,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:10:51.76,0:10:52.69,Matsumoto red,,0,0,0,,Delicious !
+Dialogue: 0,0:10:52.74,0:10:54.00,Hamada Blue,,0,0,0,,I'm not into this
+Dialogue: 0,0:10:55.35,0:10:56.76,Tanaka Pink,,0,0,0,,No, this is good, really !
+Dialogue: 0,0:10:56.79,0:10:57.72,Matsumoto red,,0,0,0,,This is delicious !
+Dialogue: 0,0:10:57.77,0:11:00.45,Hamada Blue,,0,0,0,,Everyone has different taste buds, right ?
+Dialogue: 0,0:11:00.85,0:11:01.94,Hamada Blue,,0,0,0,,I'm giving you a {\alpha&HFF&}zero for this
+Dialogue: 0,0:11:01.94,0:11:03.52,Hamada Blue,,0,0,0,,I'm giving you a zero for this
+Dialogue: 0,0:11:03.52,0:11:04.81,Tanaka Pink,,0,0,0,,Are you serious ?
+Dialogue: 0,0:11:04.81,0:11:06.31,Matsumoto red,,0,0,0,,I'm giving it...
+Dialogue: 0,0:11:06.31,0:11:07.65,Matsumoto red,,0,0,0,,Seven
+Dialogue: 0,0:11:08.52,0:11:09.63,Endo orange,,0,0,0,,Then, I'm giving it a...
+Dialogue: 0,0:11:09.63,0:11:11.05,Hamada Blue,,0,0,0,,That's a high score
+Dialogue: 0,0:11:11.05,0:11:12.22,Endo orange,,0,0,0,,I'd say five
+Dialogue: 0,0:11:12.82,0:11:14.11,Yamasaki Green,,0,0,0,,This is pretty good but
+Dialogue: 0,0:11:14.11,0:11:15.99,Yamasaki Green,,0,0,0,,the flavor can be overpowering
+Dialogue: 0,0:11:15.99,0:11:17.82,Matsumoto red,,0,0,0,,I agree\NYou can't eat a whole lot of this
+Dialogue: 0,0:11:19.45,0:11:21.51,Endo orange,,0,0,0,,The first bite is great but
+Dialogue: 0,0:11:21.55,0:11:23.94,Endo orange,,0,0,0,,it gets a bit tough after that
+Dialogue: 0,0:11:23.94,0:11:26.23,Matsumoto red,,0,0,0,,The flavor can be too much
+Dialogue: 0,0:11:26.28,0:11:30.24,Medium,,0,0,0,,{\b1\fnArial Rounded MT Bold\c&H218E08&\3c&H4AF77B&\pos(307,335)}Tanaka's 1st : "Sake and Shiokara Pizza"
+Dialogue: 0,0:11:26.23,0:11:30.35,Default,,0,0,0,,Highly anticipated but receives a mere five points
+Dialogue: 0,0:11:30.35,0:11:35.23,Medium,,0,0,0,,{\b1\fnArial Rounded MT Bold\c&H218E08&\3c&H4AF77B&\pos(277,373)}Tanaka's 2nd : "Yukimi Daifuku Pizza"
+Dialogue: 0,0:11:31.05,0:11:33.69,Default,,0,0,0,,Tanaka's next pizza is "Yukimi Mochi Ice Cream Pizza"
+Dialogue: 0,0:11:33.69,0:11:35.23,Default,,0,0,0,,How does this fare ?
+Dialogue: 0,0:11:36.85,0:11:38.66,Matsumoto red,,0,0,0,,It sure smells good
+Dialogue: 0,0:11:40.71,0:11:42.81,Endo orange,,0,0,0,,The strawberry compliments it well
+Dialogue: 0,0:11:43.39,0:11:45.12,Hamada Blue,,0,0,0,,The mochi is still there
+Dialogue: 0,0:11:45.38,0:11:46.72,Tanaka Pink,,0,0,0,,Check this out
+Dialogue: 0,0:11:47.40,0:11:49.57,Hamada Blue,,0,0,0,,All I can smell is the sweetness
+Dialogue: 0,0:11:53.21,0:11:56.00,Hamada Blue,,0,0,0,,Looks like something you can buy at Fujiya Cake Shop
+Dialogue: 0,0:11:56.80,0:11:58.57,Tanaka Pink,,0,0,0,,This could be very good, don't you think ?
+Dialogue: 0,0:11:58.66,0:12:00.67,Matsumoto red,,0,0,0,,Women would love this for sure
+Dialogue: 0,0:12:01.28,0:12:02.64,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:12:06.86,0:12:07.88,Yamasaki Green,,0,0,0,,Delicious !
+Dialogue: 0,0:12:11.21,0:12:12.16,Tanaka Pink,,0,0,0,,See ?
+Dialogue: 0,0:12:12.18,0:12:13.27,Yamasaki Green,,0,0,0,,This is great !
+Dialogue: 0,0:12:13.48,0:12:14.48,Tanaka Pink,,0,0,0,,See ?
+Dialogue: 0,0:12:14.48,0:12:16.04,Matsumoto red,,0,0,0,,How can this be ?
+Dialogue: 0,0:12:16.17,0:12:17.28,Hamada Blue,,0,0,0,,Tasty, isn't it ?
+Dialogue: 0,0:12:17.87,0:12:19.26,Endo orange,,0,0,0,,Delicious
+Dialogue: 0,0:12:21.00,0:12:21.94,Tanaka Pink,,0,0,0,,Delicious
+Dialogue: 0,0:12:22.07,0:12:23.27,Yamasaki Green,,0,0,0,,This is very good
+Dialogue: 0,0:12:23.78,0:12:25.46,Endo orange,,0,0,0,,This is very tasty
+Dialogue: 0,0:12:26.75,0:12:28.08,Yamasaki Green,,0,0,0,,Awesome !
+Dialogue: 0,0:12:28.08,0:12:29.25,Matsumoto red,,0,0,0,,This recipe is something anyone could do
+Dialogue: 0,0:12:30.40,0:12:31.51,Matsumoto red,,0,0,0,,You can make this at home
+Dialogue: 0,0:12:31.53,0:12:32.70,Yamasaki Green,,0,0,0,,Kids would love it, too
+Dialogue: 0,0:12:32.70,0:12:33.91,Matsumoto red,,0,0,0,,Yeah, they'll love this
+Dialogue: 0,0:12:34.48,0:12:35.52,Tanaka Pink,,0,0,0,,I agree
+Dialogue: 0,0:12:35.60,0:12:37.96,Endo orange,,0,0,0,,Girls would be really into this
+Dialogue: 0,0:12:38.16,0:12:40.93,Matsumoto red,,0,0,0,,Endo, there's a piece of cheese hanging from your chin
+Dialogue: 0,0:12:41.22,0:12:42.06,Hamada Blue,,0,0,0,,Yeah, there is !
+Dialogue: 0,0:12:42.06,0:12:43.81,Endo orange,,0,0,0,,This is so good, I didn't realize...
+Dialogue: 0,0:12:43.81,0:12:45.43,Endo orange,,0,0,0,,I want more of this
+Dialogue: 0,0:12:45.70,0:12:48.75,Default,,0,0,0,,Upon rave reviews,
+Dialogue: 0,0:12:45.72,0:12:49.67,Medium,,0,0,0,,{\b1\fnArial Rounded MT Bold\c&H218E08&\3c&H4AF77B&\pos(282,325)}Tanaka's 2nd : "Yukimi Daifuku Pizza"
+Dialogue: 0,0:12:48.75,0:12:49.80,Default,,0,0,0,,it received eight points
+Dialogue: 0,0:12:49.82,0:12:54.70,Default,,0,0,0,,Gourmet toppings is the selling point of Endo's "Blowfish Pizza"
+Dialogue: 0,0:12:49.82,0:12:54.70,Medium,,0,0,0,,{\b1\c&H188673&\3c&H21C3CE&\pos(299,372)}Endo's 1st : "Blowfish Pizza"
+Dialogue: 0,0:12:56.21,0:12:57.76,Matsumoto red,,0,0,0,,Not bad looking at all
+Dialogue: 0,0:12:57.76,0:12:59.15,Endo orange,,0,0,0,,Will you look at this ?
+Dialogue: 0,0:12:59.15,0:13:00.06,Hamada Blue,,0,0,0,,Looks like any other pizza
+Dialogue: 0,0:13:07.49,0:13:08.75,Matsumoto red,,0,0,0,,What do you think ?
+Dialogue: 0,0:13:08.77,0:13:09.64,Hamada Blue,,0,0,0,,What am I tasting ?
+Dialogue: 0,0:13:09.77,0:13:11.10,Tanaka Pink,,0,0,0,,There's really no flavor
+Dialogue: 0,0:13:11.37,0:13:12.76,Matsumoto red,,0,0,0,,I can't pinpoint it
+Dialogue: 0,0:13:13.85,0:13:17.42,Matsumoto red,,0,0,0,,This is the worst way to serve blowfish
+Dialogue: 0,0:13:17.47,0:13:18.82,Matsumoto red,,0,0,0,,This isn't pretty
+Dialogue: 0,0:13:19.03,0:13:20.54,Hamada Blue,,0,0,0,,There's no kick to this
+Dialogue: 0,0:13:20.66,0:13:22.05,Matsumoto red,,0,0,0,,None at all
+Dialogue: 0,0:13:22.54,0:13:23.91,Matsumoto red,,0,0,0,,Then you should have just left {\alpha&HFF&}the blowfish poison
+Dialogue: 0,0:13:23.91,0:13:26.75,Matsumoto red,,0,0,0,,Then you should have just left the blowfish poison
+Dialogue: 0,0:13:26.80,0:13:30.79,Medium,,0,0,0,,{\b1\c&H188673&\3c&H21C3CE&\pos(298,324)}Endo's 1st : "Blowfish Pizza"
+Dialogue: 0,0:13:26.80,0:13:30.79,Default,,0,0,0,,Despite the expensive ingredients, it only received three points
+Dialogue: 0,0:13:30.94,0:13:35.77,Medium,,0,0,0,,{\b1\c&H188673&\3c&H21C3CE&\pos(299,372)}Endo's 2nd : "Frisk Pizza"
+Dialogue: 0,0:13:30.94,0:13:35.75,Default,,0,0,0,,Next up is the unpredictable "Frisk Pizza"
+Dialogue: 0,0:13:35.82,0:13:36.77,Matsumoto red,,0,0,0,,What's that smell ?
+Dialogue: 0,0:13:39.10,0:13:40.05,Endo orange,,0,0,0,,This looks good
+Dialogue: 0,0:13:40.10,0:13:41.60,Matsumoto red,,0,0,0,,Yea, I can smell it
+Dialogue: 0,0:13:41.74,0:13:43.77,Endo orange,,0,0,0,,So far, it looks perfect
+Dialogue: 0,0:13:44.37,0:13:45.96,Endo orange,,0,0,0,,You've seen pizza like this before, right ?
+Dialogue: 0,0:13:47.06,0:13:48.61,Yamasaki Green,,0,0,0,,I can still see some Frisk mints
+Dialogue: 0,0:13:49.74,0:13:51.48,Matsumoto red,,0,0,0,,Put your face closer to it
+Dialogue: 0,0:13:51.71,0:13:53.40,Matsumoto red,,0,0,0,,I just felt a minty breeze on my face
+Dialogue: 0,0:13:56.19,0:13:57.43,Tanaka Pink,,0,0,0,,What the hell is that ?
+Dialogue: 0,0:13:57.45,0:13:58.98,Matsumoto red,,0,0,0,,It cools my face !
+Dialogue: 0,0:13:59.16,0:14:00.31,Tanaka Pink,,0,0,0,,It almost feels cold
+Dialogue: 0,0:14:00.31,0:14:01.35,Matsumoto red,,0,0,0,,It chilled my face !
+Dialogue: 0,0:14:01.73,0:14:03.33,Yamasaki Green,,0,0,0,,So the frisk mints can melt
+Dialogue: 0,0:14:03.86,0:14:06.01,Yamasaki Green,,0,0,0,,Wow, it really does cool off my face
+Dialogue: 0,0:14:06.01,0:14:08.03,Yamasaki Green,,0,0,0,,Very refreshing
+Dialogue: 0,0:14:08.82,0:14:11.00,Matsumoto red,,0,0,0,,This could cure your sinus issues...
+Dialogue: 0,0:14:11.00,0:14:12.99,Hamada Blue,,0,0,0,,Are we ready to do this ?
+Dialogue: 0,0:14:31.79,0:14:33.67,Endo orange,,0,0,0,,By the way, {\alpha&HFF&}how would you score it ?
+Dialogue: 0,0:14:33.65,0:14:35.18,Endo orange,,0,0,0,,By the way, how would you score it ?
+Dialogue: 0,0:14:37.15,0:14:37.99,Hamada Blue,,0,0,0,,What ?
+Dialogue: 0,0:14:38.04,0:14:39.55,Hamada Blue,,0,0,0,,We couldn't even finish a bite
+Dialogue: 0,0:14:40.17,0:14:41.54,Endo orange,,0,0,0,,About how many points ?
+Dialogue: 0,0:14:41.59,0:14:45.15,Matsumoto red,,0,0,0,,This is outside the realm of points
+Dialogue: 0,0:14:45.33,0:14:47.42,Matsumoto red,,0,0,0,,{\c&H7A1FE8&}This deserves a skull and cross bones !
+Dialogue: 0,0:14:47.53,0:14:51.41,Medium,,0,0,0,,{\b1\c&H188673&\3c&H21C3CE&\pos(243,315)}Endo's 2nd : "Frisk Pizza"
+Dialogue: 0,0:14:47.53,0:14:49.82,Default,,0,0,0,,Just as expected, mint doesn't go with Pizza
+Dialogue: 0,0:14:49.82,0:14:51.43,Default,,0,0,0,,It received the cross-bones
+Dialogue: 0,0:14:51.60,0:14:56.44,Medium,,0,0,0,,{\b1\c&H7314CE&\3c&HAD5DFF&\pos(285,371)}Yamasaki's 1st : "Hiyashi Chuka Pizza"
+Dialogue: 0,0:14:51.60,0:14:56.42,Default,,0,0,0,,Expectations are low, but how will Yamasaki's dish really taste ?
+Dialogue: 0,0:14:57.01,0:14:59.55,Yamasaki Green,,0,0,0,,I guess anything is possible ??
+Dialogue: 0,0:15:00.00,0:15:10.00,Default,,0,0,0,,{\i1\fs25\pos(184,50)}Translation by {\c&HFF00F2&\b1}Shibatabread\N{\c&HFFFFFF&}www.shibatabread.com{\i0}
+Dialogue: 0,0:15:00.00,0:15:02.20,Matsumoto red,,0,0,0,,Miracle ?
+Dialogue: 0,0:15:00.67,0:15:03.15,Yamasaki Green,,0,0,0,,This must be a miracle !
+Dialogue: 0,0:15:05.84,0:15:07.32,Yamasaki Green,,0,0,0,,See ?
+Dialogue: 0,0:15:07.96,0:15:09.30,Matsumoto red,,0,0,0,,Interesting
+Dialogue: 0,0:15:10.40,0:15:11.38,Hamada Blue,,0,0,0,,It didn't change at all
+Dialogue: 0,0:15:11.42,0:15:12.62,Hamada Blue,,0,0,0,,Looks fake
+Dialogue: 0,0:15:12.75,0:15:14.08,Tanaka Pink,,0,0,0,,It's like a store display
+Dialogue: 0,0:15:15.37,0:15:17.01,Matsumoto red,,0,0,0,,It's interesting
+Dialogue: 0,0:15:18.01,0:15:19.98,Yamasaki Green,,0,0,0,,It looks like a restaurant display item
+Dialogue: 0,0:15:21.53,0:15:22.90,Yamasaki Green,,0,0,0,,Here's the egg section
+Dialogue: 0,0:15:24.10,0:15:25.30,Matsumoto red,,0,0,0,,You're messing it up
+Dialogue: 0,0:15:39.53,0:15:40.46,Matsumoto red,,0,0,0,,May I ?
+Dialogue: 0,0:15:40.49,0:15:41.31,Yamasaki Green,,0,0,0,,Go ahead
+Dialogue: 0,0:15:42.63,0:15:44.18,Matsumoto red,,0,0,0,,So this is the ham piece
+Dialogue: 0,0:15:44.96,0:15:47.08,Matsumoto red,,0,0,0,,And this isn't bad at all
+Dialogue: 0,0:15:47.20,0:15:48.42,Endo orange,,0,0,0,,I have one thing to say, too
+Dialogue: 0,0:15:48.53,0:15:49.87,Endo orange,,0,0,0,,I got the egg piece and...
+Dialogue: 0,0:15:49.87,0:15:51.39,Endo orange,,0,0,0,,it's pretty good
+Dialogue: 0,0:15:52.70,0:15:55.25,Hamada Blue,,0,0,0,,May I say that my piece is
+Dialogue: 0,0:15:55.58,0:15:57.42,Hamada Blue,,0,0,0,,pretty good, too
+Dialogue: 0,0:15:58.24,0:15:59.24,Tanaka Pink,,0,0,0,,I got the tomato piece
+Dialogue: 0,0:15:59.28,0:16:00.90,Tanaka Pink,,0,0,0,,And it's perfect
+Dialogue: 0,0:16:01.98,0:16:02.88,Yamasaki Green,,0,0,0,,See ??
+Dialogue: 0,0:16:03.07,0:16:04.84,Yamasaki Green,,0,0,0,,This is really delicious
+Dialogue: 0,0:16:04.97,0:16:06.37,Tanaka Pink,,0,0,0,,Not bad at all
+Dialogue: 0,0:16:06.37,0:16:08.04,Hamada Blue,,0,0,0,,The soba broth mixed well with the pizza
+Dialogue: 0,0:16:08.08,0:16:09.74,Matsumoto red,,0,0,0,,It's a great combination
+Dialogue: 0,0:16:11.56,0:16:12.91,Yamasaki Green,,0,0,0,,What's my score then ?
+Dialogue: 0,0:16:12.91,0:16:14.20,Matsumoto red,,0,0,0,,Seven ?
+Dialogue: 0,0:16:14.20,0:16:16.50,Tanaka Pink,,0,0,0,,Seven
+Dialogue: 0,0:16:17.39,0:16:21.38,Medium,,0,0,0,,{\b1\c&H7314CE&\3c&HAD5DFF&\pos(276,325)}Yamasaki's 1st : "Hiyashi Chuka Pizza"
+Dialogue: 0,0:16:17.39,0:16:21.38,Default,,0,0,0,,Despite the bad first impression, it received a surprising seven points
+Dialogue: 0,0:16:21.51,0:16:24.53,Default,,0,0,0,,Next up is his "Cotton Candy Pizza"
+Dialogue: 0,0:16:24.57,0:16:26.39,Default,,0,0,0,,How did it turn out ?
+Dialogue: 0,0:16:21.51,0:16:26.39,Medium,,0,0,0,,{\b1\c&H7314CE&\3c&HAD5DFF&\pos(278,372)}Yamasaki's 2nd : "Cotton Candy Pizza"
+Dialogue: 0,0:16:30.56,0:16:31.42,Yamasaki Green,,0,0,0,,Nothing is left !
+Dialogue: 0,0:16:31.44,0:16:32.42,Yamasaki Green,,0,0,0,,It's gone !
+Dialogue: 0,0:16:32.43,0:16:33.68,Hamada Blue,,0,0,0,,Serious ?
+Dialogue: 0,0:16:34.17,0:16:35.51,Yamasaki Green,,0,0,0,,See ?
+Dialogue: 0,0:16:35.51,0:16:36.62,Yamasaki Green,,0,0,0,,See ?
+Dialogue: 0,0:16:36.62,0:16:37.88,Hamada Blue,,0,0,0,,You're right
+Dialogue: 0,0:16:37.88,0:16:40.01,Hamada Blue,,0,0,0,,It melted nicely
+Dialogue: 0,0:16:40.01,0:16:41.68,Endo orange,,0,0,0,,It does look tasty
+Dialogue: 0,0:16:51.99,0:16:54.08,Hamada Blue,,0,0,0,,Man, this is over the top sweet
+Dialogue: 0,0:16:55.96,0:16:57.61,Matsumoto red,,0,0,0,,This is some serious business
+Dialogue: 0,0:16:58.15,0:16:59.45,Yamasaki Green,,0,0,0,,Really...
+Dialogue: 0,0:17:01.32,0:17:02.98,Yamasaki Green,,0,0,0,,There are crunchy pieces of sugar, too
+Dialogue: 0,0:17:03.10,0:17:05.03,Matsumoto red,,0,0,0,,It's hard on my teeth
+Dialogue: 0,0:17:05.03,0:17:09.04,Default,,0,0,0,,The crystallized sugar wasn't a hit, and it received two points
+Dialogue: 0,0:17:05.03,0:17:09.04,Medium,,0,0,0,,{\b1\c&H7314CE&\3c&HAD5DFF&\pos(284,323)}Yamasaki's 2nd : "Cotton Candy Pizza"
+Dialogue: 0,0:17:09.27,0:17:11.48,Hamada Blue,,0,0,0,,I'm shooting for a back-to-back victory with this
+Dialogue: 0,0:17:11.52,0:17:13.49,Hamada Blue,,0,0,0,,Don't forget your dipping bowl
+Dialogue: 0,0:17:13.89,0:17:15.63,Endo orange,,0,0,0,,I don't know how I feel about this...
+Dialogue: 0,0:17:15.63,0:17:17.98,Hamada Blue,,0,0,0,,Beat the egg to your liking
+Dialogue: 0,0:17:17.98,0:17:19.24,Hamada Blue,,0,0,0,,The way you usually like it
+Dialogue: 0,0:17:19.63,0:17:24.62,Medium,,0,0,0,,{\b1\c&HD63821&\3c&HC69E6B&\pos(256,370)}Hamada's 1st : "Sukiyaki Pizza"
+Dialogue: 0,0:17:19.63,0:17:22.80,Default,,0,0,0,,Hamada's "Sukiyaki Pizza" with egg dipping sauce
+Dialogue: 0,0:17:22.83,0:17:24.62,Default,,0,0,0,,How does it taste ?
+Dialogue: 0,0:17:24.75,0:17:25.98,Hamada Blue,,0,0,0,,First let me take a look
+Dialogue: 0,0:17:28.99,0:17:29.43,Endo orange,,0,0,0,,Can it be...?
+Dialogue: 0,0:17:30.78,0:17:32.22,Yamasaki Green,,0,0,0,,This could be the surprise item
+Dialogue: 0,0:17:33.71,0:17:34.80,Yamasaki Green,,0,0,0,,What the...?
+Dialogue: 0,0:17:37.63,0:17:39.98,Yamasaki Green,,0,0,0,,I have to admit it looks awful
+Dialogue: 0,0:17:40.77,0:17:43.09,Matsumoto red,,0,0,0,,If I was served this at a restaurant,
+Dialogue: 0,0:17:43.13,0:17:45.16,Matsumoto red,,0,0,0,,I would demand to see the manager for sure
+Dialogue: 0,0:17:45.97,0:17:47.65,Yamasaki Green,,0,0,0,,Look at that meat
+Dialogue: 0,0:17:47.79,0:17:51.20,Hamada Blue,,0,0,0,,I'll put some meat on all of your slices
+Dialogue: 0,0:17:51.24,0:17:53.46,Yamasaki Green,,0,0,0,,I can definitely smell the Sukiyaki Nabe
+Dialogue: 0,0:17:53.46,0:17:55.83,Tanaka Pink,,0,0,0,,It smells just like Sukiyaki Nabe
+Dialogue: 0,0:17:56.70,0:17:58.27,Endo orange,,0,0,0,,How should we eat this then ?
+Dialogue: 0,0:17:58.27,0:17:59.53,Hamada Blue,,0,0,0,,Well, it's really easy to eat
+Dialogue: 0,0:17:59.53,0:18:01.42,Hamada Blue,,0,0,0,,All you have to do is
+Dialogue: 0,0:18:01.42,0:18:04.59,Hamada Blue,,0,0,0,,eat it like any Sukiyaki Nabe
+Dialogue: 0,0:18:06.94,0:18:07.96,Endo orange,,0,0,0,,Like Sukiyaki ?
+Dialogue: 0,0:18:07.98,0:18:09.97,Hamada Blue,,0,0,0,,Dip the slice into the sauce like this
+Dialogue: 0,0:18:10.02,0:18:12.04,Hamada Blue,,0,0,0,,Make sure it's in there good
+Dialogue: 0,0:18:12.24,0:18:14.03,Hamada Blue,,0,0,0,,And get some egg on it
+Dialogue: 0,0:18:17.51,0:18:19.58,Endo orange,,0,0,0,,That's not how you eat pizza
+Dialogue: 0,0:18:24.56,0:18:26.56,Yamasaki Green,,0,0,0,,You're just messing around
+Dialogue: 0,0:18:26.56,0:18:27.51,Yamasaki Green,,0,0,0,,You're lying
+Dialogue: 0,0:18:27.51,0:18:30.15,Hamada Blue,,0,0,0,,Trust me, it's good
+Dialogue: 0,0:18:30.15,0:18:31.59,Hamada Blue,,0,0,0,,Don't be shy
+Dialogue: 0,0:18:31.59,0:18:32.95,Hamada Blue,,0,0,0,,See ?
+Dialogue: 0,0:18:37.03,0:18:38.09,Matsumoto red,,0,0,0,,Good
+Dialogue: 0,0:18:39.01,0:18:41.76,Matsumoto red,,0,0,0,,My team agrees that this is
+Dialogue: 0,0:18:41.83,0:18:43.38,Matsumoto red,,0,0,0,,Delicious
+Dialogue: 0,0:18:45.56,0:18:46.86,Endo orange,,0,0,0,,Delicious
+Dialogue: 0,0:18:47.10,0:18:48.43,Tanaka Pink,,0,0,0,,Our review {\alpha&HFF&}also is "very good"
+Dialogue: 0,0:18:48.43,0:18:50.32,Tanaka Pink,,0,0,0,,Our review also is "very good"
+Dialogue: 0,0:18:50.53,0:18:51.23,Endo orange,,0,0,0,,That's your review ?
+Dialogue: 0,0:18:51.27,0:18:52.40,Tanaka Pink,,0,0,0,,Yes
+Dialogue: 0,0:18:52.60,0:18:53.89,Yamasaki Green,,0,0,0,,How could this be...?
+Dialogue: 0,0:18:54.10,0:18:56.43,Hamada Blue,,0,0,0,,I know, how can it be so good ?
+Dialogue: 0,0:18:56.46,0:18:58.01,Tanaka Pink,,0,0,0,,Why is this good ?
+Dialogue: 0,0:18:58.19,0:18:59.96,Hamada Blue,,0,0,0,,The egg really compliments the pizza
+Dialogue: 0,0:19:02.09,0:19:03.51,Hamada Blue,,0,0,0,,The egg is a nice touch
+Dialogue: 0,0:19:03.60,0:19:05.36,Matsumoto red,,0,0,0,,I would say this is...
+Dialogue: 0,0:19:06.06,0:19:07.01,Tanaka Pink,,0,0,0,,Delicious
+Dialogue: 0,0:19:07.23,0:19:09.74,Matsumoto red,,0,0,0,,You can make this at home
+Dialogue: 0,0:19:09.78,0:19:10.68,Hamada Blue,,0,0,0,,Right ?
+Dialogue: 0,0:19:10.73,0:19:12.77,Matsumoto red,,0,0,0,,It would be very easy to make
+Dialogue: 0,0:19:12.86,0:19:16.81,Medium,,0,0,0,,{\b1\c&HD63821&\3c&HC69E6B&\pos(252,328)}Hamada's 1st : "Sukiyaki Pizza"
+Dialogue: 0,0:19:12.91,0:19:16.81,Default,,0,0,0,,With the help of raw egg, it receives nine points
+Dialogue: 0,0:19:17.03,0:19:21.86,Medium,,0,0,0,,{\b1\c&HD63821&\3c&HC69E6B&\pos(238,374)}Hamada's 2nd : "Egg Rice Pizza"
+Dialogue: 0,0:19:17.01,0:19:21.86,Default,,0,0,0,,Hamada confidently presents his second entry; "Egg Rice Pizza"
+Dialogue: 0,0:19:21.95,0:19:23.27,Hamada Blue,,0,0,0,,Here it is !
+Dialogue: 0,0:19:27.42,0:19:28.67,Yamasaki Green,,0,0,0,,Looks familiar
+Dialogue: 0,0:19:29.64,0:19:30.79,Matsumoto red,,0,0,0,,Like Doria ?
+Dialogue: 0,0:19:30.79,0:19:31.68,Hamada Blue,,0,0,0,,Yes, like Doria
+Dialogue: 0,0:19:31.75,0:19:33.17,Endo orange,,0,0,0,,It certainly resembles it
+Dialogue: 0,0:19:46.42,0:19:47.54,Matsumoto red,,0,0,0,,I see...
+Dialogue: 0,0:19:47.93,0:19:49.10,Matsumoto red,,0,0,0,,I have to say...
+Dialogue: 0,0:19:51.52,0:19:54.69,Matsumoto red,,0,0,0,,This is very similar to the "Blowfish Pizza"
+Dialogue: 0,0:19:55.02,0:19:57.55,Matsumoto red,,0,0,0,,They belong in the same food group
+Dialogue: 0,0:19:57.59,0:20:01.52,Medium,,0,0,0,,{\b1\c&HD63821&\3c&HC69E6B&\pos(244,328)}Hamada's 2nd : "Egg Rice Pizza"
+Dialogue: 0,0:19:57.64,0:20:01.52,Default,,0,0,0,,Despite his confidence, Hamada receives only three points
+Dialogue: 0,0:20:01.72,0:20:06.57,Medium,,0,0,0,,{\b1\c&H1808DE&\3c&H8C51FF&\pos(280,371)}Matsumoto's 1st : "Gohan Desuyo Pizza"
+Dialogue: 0,0:20:01.74,0:20:06.57,Default,,0,0,0,,Next up is Matsumoto's promising "Gohan Desuyo Pizza"
+Dialogue: 0,0:20:06.68,0:20:07.86,Matsumoto red,,0,0,0,,You ready for this ?
+Dialogue: 0,0:20:08.63,0:20:11.96,Matsumoto red,,0,0,0,,Remember, there's not much to this...
+Dialogue: 0,0:20:15.06,0:20:17.46,Yamasaki Green,,0,0,0,,I don't know what to make of your reaction
+Dialogue: 0,0:20:17.46,0:20:21.26,Matsumoto red,,0,0,0,,Please don't pay attention to its appearance
+Dialogue: 0,0:20:22.83,0:20:25.52,Yamasaki Green,,0,0,0,,It looks pretty burned
+Dialogue: 0,0:20:25.52,0:20:27.89,Hamada Blue,,0,0,0,,It's charred
+Dialogue: 0,0:20:28.97,0:20:31.04,Matsumoto red,,0,0,0,,I have high hopes for this one
+Dialogue: 0,0:20:28.45,0:20:31.93,Hamada Blue,,0,0,0,,{\pos(314,390)}After the commercial\N{\c&H2712C0&}Matsumoto distributes his pizza !
+Dialogue: 0,0:20:34.01,0:20:37.23,Default,,0,0,0,,How does Matsumoto's "Gohan Desuyo Pizza" fare ??
+Dialogue: 0,0:20:50.02,0:20:51.77,Matsumoto red,,0,0,0,,Delicious
+Dialogue: 0,0:20:53.49,0:20:54.73,Yamasaki Green,,0,0,0,,Very tasty
+Dialogue: 0,0:20:56.09,0:20:57.42,Yamasaki Green,,0,0,0,,Really good
+Dialogue: 0,0:20:57.42,0:20:58.19,Tanaka Pink,,0,0,0,,Good
+Dialogue: 0,0:20:58.19,0:20:59.77,Endo orange,,0,0,0,,Delicious
+Dialogue: 0,0:21:00.58,0:21:02.63,Matsumoto red,,0,0,0,,The saltiness is perfect
+Dialogue: 0,0:21:03.26,0:21:04.40,Yamasaki Green,,0,0,0,,This is incredibly good
+Dialogue: 0,0:21:04.40,0:21:08.40,Hamada Blue,,0,0,0,,It brings out the best of Gohan Desuyo
+Dialogue: 0,0:21:08.40,0:21:09.08,Matsumoto red,,0,0,0,,The best
+Dialogue: 0,0:21:09.08,0:21:13.31,Yamasaki Green,,0,0,0,,I feel this deserves a perfect score since it could be sold in stores
+Dialogue: 0,0:21:13.31,0:21:14.36,Matsumoto red,,0,0,0,,A perfect 10 ?
+Dialogue: 0,0:21:13.98,0:21:14.79,Tanaka Pink,,0,0,0,,I agree
+Dialogue: 0,0:21:14.80,0:21:16.31,Matsumoto red,,0,0,0,,Let me say the Sukiyaki was good but
+Dialogue: 0,0:21:16.31,0:21:20.22,Matsumoto red,,0,0,0,,think about how much it cost to make it
+Dialogue: 0,0:21:20.22,0:21:21.47,Tanaka Pink,,0,0,0,,You're right about that
+Dialogue: 0,0:21:21.47,0:21:22.49,Matsumoto red,,0,0,0,,In this economy,
+Dialogue: 0,0:21:22.49,0:21:24.43,Matsumoto red,,0,0,0,,you don't have to spend much at all
+Dialogue: 0,0:21:24.43,0:21:27.12,Matsumoto red,,0,0,0,,It costs about 20 - 30 yen per piece
+Dialogue: 0,0:21:27.17,0:21:28.92,Yamasaki Green,,0,0,0,,You might have done it
+Dialogue: 0,0:21:29.14,0:21:31.18,Matsumoto red,,0,0,0,,You can have this every day
+Dialogue: 0,0:21:31.68,0:21:35.42,Matsumoto red,,0,0,0,,And save money for your Mom's salon expense
+Dialogue: 0,0:21:36.06,0:21:37.34,Hamada Blue,,0,0,0,,Like money for the perm ?
+Dialogue: 0,0:21:37.34,0:21:39.03,Matsumoto red,,0,0,0,,Right, the p@#$%...
+Dialogue: 0,0:21:40.74,0:21:44.73,Medium,,0,0,0,,{\b1\c&H1808DE&\3c&H8C51FF&\pos(285,332)}Matsumoto's 1st : "Gohan Desuyo Pizza"
+Dialogue: 0,0:21:40.74,0:21:44.73,Default,,0,0,0,,It received a unanimous 10 points
+Dialogue: 0,0:21:44.92,0:21:49.76,Medium,,0,0,0,,{\b1\c&H1808DE&\3c&H8C51FF&\pos(273,371)}Matsumoto's 2nd : "Pig Face Pizza"
+Dialogue: 0,0:21:44.92,0:21:49.76,Default,,0,0,0,,Here's Matsumoto's Okinawa inspired entry, "Pig Face Pizza"
+Dialogue: 0,0:21:50.80,0:21:52.26,Endo orange,,0,0,0,,How does it look ?
+Dialogue: 0,0:21:52.90,0:21:55.01,Hamada Blue,,0,0,0,,It looks the same as before it went into the oven
+Dialogue: 0,0:21:56.43,0:21:58.29,Endo orange,,0,0,0,,Nothing has changed
+Dialogue: 0,0:21:58.29,0:22:00.72,Matsumoto red,,0,0,0,,Right, there isn't any "Before" and "After" image
+Dialogue: 0,0:22:00.77,0:22:01.99,Tanaka Pink,,0,0,0,,There's none of that
+Dialogue: 0,0:22:02.06,0:22:03.69,Hamada Blue,,0,0,0,,And it's looking right at me
+Dialogue: 0,0:22:03.69,0:22:04.83,Endo orange,,0,0,0,,Yes, it is
+Dialogue: 0,0:22:04.83,0:22:06.01,Yamasaki Green,,0,0,0,,It's aimed at him
+Dialogue: 0,0:22:06.01,0:22:07.33,Hamada Blue,,0,0,0,,He's looking at me...
+Dialogue: 0,0:22:07.73,0:22:09.83,Matsumoto red,,0,0,0,,Staring right at Hamada
+Dialogue: 0,0:22:09.83,0:22:12.57,Endo orange,,0,0,0,,Amazing elasticity
+Dialogue: 0,0:22:12.81,0:22:14.35,Hamada Blue,,0,0,0,,You can't slice it with that
+Dialogue: 0,0:22:14.41,0:22:16.06,Yamasaki Green,,0,0,0,,You might need a different tool...
+Dialogue: 0,0:22:16.14,0:22:18.34,Endo orange,,0,0,0,,It like a Halloween mask
+Dialogue: 0,0:22:20.09,0:22:22.53,Hamada Blue,,0,0,0,,I bet you can't cut through that snout
+Dialogue: 0,0:22:22.53,0:22:24.22,Endo orange,,0,0,0,,You'll have to put some muscle into it
+Dialogue: 0,0:22:25.16,0:22:26.96,Matsumoto red,,0,0,0,,What do you think ?
+Dialogue: 0,0:22:27.04,0:22:28.37,Matsumoto red,,0,0,0,,How do you feel about this ?
+Dialogue: 0,0:22:29.19,0:22:30.41,Medium,,0,0,0,,Itadakimasu
+Dialogue: 0,0:22:37.40,0:22:39.26,Hamada Blue,,0,0,0,,I didn't realize how tough it would be
+Dialogue: 0,0:22:41.36,0:22:42.40,Endo orange,,0,0,0,,Man, that's tough
+Dialogue: 0,0:22:42.45,0:22:43.87,Hamada Blue,,0,0,0,,The texture is hard
+Dialogue: 0,0:22:43.87,0:22:44.84,Matsumoto red,,0,0,0,,Stop complaining {\alpha&HFF&}and EAT IT !
+Dialogue: 0,0:22:44.84,0:22:47.01,Matsumoto red,,0,0,0,,Stop complaining and EAT IT !
+Dialogue: 0,0:22:59.47,0:23:01.51,Matsumoto red,,0,0,0,,Can I just say...
+Dialogue: 0,0:23:02.04,0:23:04.10,Matsumoto red,,0,0,0,,this deserves 7 or 8 points ??
+Dialogue: 0,0:23:04.13,0:23:05.17,Tanaka Pink,,0,0,0,,I don't think so
+Dialogue: 0,0:23:05.21,0:23:05.97,Hamada Blue,,0,0,0,,No way !
+Dialogue: 0,0:23:06.01,0:23:09.98,Medium,,0,0,0,,{\b1\c&H1808DE&\3c&H8C51FF&\pos(257,316)}Matsumoto's 2nd : "Pig Face Pizza"
+Dialogue: 0,0:23:06.01,0:23:09.98,Default,,0,0,0,,The dish scored a double skull and cross bones
+Dialogue: 0,0:23:10.16,0:23:15.01,Medium,,0,0,0,,{\b1\c&H1808DE&\3c&H8C51FF&\pos(266,375)}Matsumoto's 3rd : "Tuna Head Pizza"
+Dialogue: 0,0:23:10.16,0:23:15.01,Default,,0,0,0,,And here's Matsumoto's most prized ingredient on his "Tuna Head Pizza"
+Dialogue: 0,0:23:15.19,0:23:17.22,Matsumoto red,,0,0,0,,This is the big finale !!
+Dialogue: 0,0:23:17.40,0:23:19.69,Matsumoto red,,0,0,0,,"Tuna Head Pizza" !!
+Dialogue: 0,0:23:21.99,0:23:22.90,Tanaka Pink,,0,0,0,,Here we go
+Dialogue: 0,0:23:22.90,0:23:25.63,Matsumoto red,,0,0,0,,We had to bake this in a bigger oven
+Dialogue: 0,0:23:25.63,0:23:27.64,Hamada Blue,,0,0,0,,This will be difficult to appreciate
+Dialogue: 0,0:23:27.64,0:23:28.58,Matsumoto red,,0,0,0,,How come ?
+Dialogue: 0,0:23:28.60,0:23:33.03,Hamada Blue,,0,0,0,,Because I have already seen that gross looking tuna head
+Dialogue: 0,0:23:33.10,0:23:35.00,Matsumoto red,,0,0,0,,If "Pig Head" represented the Land
+Dialogue: 0,0:23:35.05,0:23:37.31,Matsumoto red,,0,0,0,,Then this one represents the Ocean
+Dialogue: 0,0:23:40.12,0:23:42.24,Matsumoto red,,0,0,0,,I haven't got a clue how it looks after being baked
+Dialogue: 0,0:23:43.81,0:23:45.66,Matsumoto red,,0,0,0,,Thank you very much
+Dialogue: 0,0:23:49.81,0:23:51.06,Tanaka Pink,,0,0,0,,That's a huge box
+Dialogue: 0,0:23:51.05,0:23:52.83,Yamasaki Green,,0,0,0,,It came straight out of his delivery bike
+Dialogue: 0,0:23:52.83,0:23:53.58,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:23:53.58,0:23:54.64,Matsumoto red,,0,0,0,,See you later
+Dialogue: 0,0:23:54.07,0:23:55.40,Endo orange,,0,0,0,,Wow, I can already smell it !
+Dialogue: 0,0:23:55.44,0:23:56.77,Tanaka Pink,,0,0,0,,That's a strong smell
+Dialogue: 0,0:23:57.11,0:23:58.25,Yamasaki Green,,0,0,0,,I just caught a whiff
+Dialogue: 0,0:23:57.48,0:24:00.89,Hamada Blue,,0,0,0,,{\pos(313,390)}After the Commercial\N{\c&H2712C0&}We Reveal the Tuna Head Pizza !
+Dialogue: 0,0:24:01.20,0:24:02.80,Endo orange,,0,0,0,,I can smell it from here
+Dialogue: 0,0:24:02.80,0:24:03.76,Tanaka Pink,,0,0,0,,That's a strong smell
+Dialogue: 0,0:24:03.76,0:24:05.10,Yamasaki Green,,0,0,0,,That's overpowering
+Dialogue: 0,0:24:08.31,0:24:09.20,Endo orange,,0,0,0,,Here we go
+Dialogue: 0,0:24:09.20,0:24:10.40,Hamada Blue,,0,0,0,,It smells like seared fish
+Dialogue: 0,0:24:10.40,0:24:12.17,Yamasaki Green,,0,0,0,,You can pull the top off ?
+Dialogue: 0,0:24:12.24,0:24:13.97,Hamada Blue,,0,0,0,,Pick it up
+Dialogue: 0,0:24:17.96,0:24:19.29,Hamada Blue,,0,0,0,,It's still the same
+Dialogue: 0,0:24:20.07,0:24:23.08,Matsumoto red,,0,0,0,,Thank you very much !
+

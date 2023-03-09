@@ -1,0 +1,789 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki_220109_#1587_7th_GakiTsuka_Jiji-nuki.mp4
+Video File: Gaki_220109_#1587_7th_GakiTsuka_Jiji-nuki.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 269
+Active Line: 270
+Video Position: 17832
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,60,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Yamasaki,Arial,60,&H002AD224,&H00FFFFFF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Endo,Arial,60,&H0000A5FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Tanaka,Arial,60,&H00D400BB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Guest,Arial,60,&H00E9D113,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,6,4,2,11,11,15,1
+Style: Big Title,Arial,20,&H0000FFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,300,200,0,0,1,2,2,5,10,10,10,1
+Style: Safe Golden,Arial,120,&H0027C1EE,&H0034C6DE,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,5,5,2,11,11,15,1
+Style: Matsumoto Golden,Arial,120,&H001901D6,&H0034C6DE,&H00FFFFFF,&H0034C6DE,-1,0,0,0,75,100,0,0,1,6,6,2,11,11,15,1
+Style: Hamada Golden,Arial,120,&H00E40D1D,&H0034C6DE,&H00FFFFFF,&H0034C6DE,-1,0,0,0,75,100,0,0,1,6,6,2,11,11,15,1
+Style: Yamasaki Golden,Arial,120,&H0005860B,&H0034C6DE,&H00FFFFFF,&H0034C6DE,-1,0,0,0,75,100,0,0,1,6,6,2,11,11,15,1
+Style: Endo Golden,Arial,120,&H001B53DC,&H0034C6DE,&H00FFFFFF,&H0034C6DE,-1,0,0,0,75,100,0,0,1,6,6,2,11,11,15,1
+Style: Tanaka Golden,Arial,120,&H00F20486,&H0034C6DE,&H00FFFFFF,&H0034C6DE,-1,0,0,0,75,100,0,0,1,6,6,2,11,11,15,1
+Style: Matsumoto Black,Arial,60,&H00000000,&H00000000,&H00FFFFFF,&H001525D4,-1,0,0,0,75,100,0,0,1,5,6,2,11,11,15,1
+Style: Hamada Black,Arial,60,&H00000000,&H00000000,&H00FFFFFF,&H00E40D1D,-1,0,0,0,75,100,0,0,1,5,6,2,11,11,15,1
+Style: Yamasaki Black,Arial,60,&H00000000,&H002AD224,&H00FFFFFF,&H002AD224,-1,0,0,0,75,100,0,0,1,5,6,2,11,11,15,1
+Style: Endo Black,Arial,60,&H00000000,&H00000000,&H00FFFFFF,&H00016ADE,-1,0,0,0,75,100,0,0,1,5,6,2,11,11,15,1
+Style: Tanaka Black,Arial,60,&H00000000,&H00000000,&H00FFFFFF,&H00D400BB,-1,0,0,0,75,100,0,0,1,5,6,2,11,11,15,1
+Style: Light Blue Commercial Break,Arial,96,&H00E9D113,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Purple Glowing,Arial,72,&H00DC0076,&H00000000,&H00FFFFFF,&H00DC0076,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Matsumoto Big,Arial,120,&H000000FF,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Matsumoto Big Black,Arial,120,&H00000000,&H00000000,&H00FFFFFF,&H000000FF,-1,0,0,0,75,100,0,0,1,4,6,2,11,11,15,1
+Style: Matsumoto Special White,Arial,60,&H00FFFFFF,&H000000DD,&H000000DD,&H000000DD,-1,0,0,0,75,100,0,0,1,4,0,2,11,11,15,1
+Style: Hamada Big,Arial,120,&H00FF0000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Yamasaki Big,Arial,120,&H0005860B,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Yamasaki Bigger,Arial,180,&H0005860B,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Yamasaki Special White,Arial,60,&H00FFFFFF,&H001AB81E,&H001AB81E,&H001AB81E,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Hamada Big Black,Arial,120,&H00000000,&H00000000,&H00FFFFFF,&H00E40D1D,-1,0,0,0,75,100,0,0,1,4,6,2,11,11,15,1
+Style: Yamasaki Big Black,Arial,120,&H00000000,&H00000000,&H00FFFFFF,&H002AD224,-1,0,0,0,75,100,0,0,1,4,6,2,11,11,15,1
+Style: Tanaka Big,Arial,120,&H00D400BB,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Tanaka Big Black,Arial,120,&H00000000,&H00000000,&H00FFFFFF,&H00D400BB,-1,0,0,0,75,100,0,0,1,4,6,2,11,11,15,1
+Style: Purple White special sub,Arial,120,&H00FFFFFF,&H00A30054,&H00A30054,&H00A30054,-1,0,0,0,75,100,0,0,1,4,4,2,11,11,15,1
+Style: Batsu Yellow Red,Arial,120,&H0000FFFF,&H000000FF,&H00000000,&H000000FF,-1,0,0,0,75,100,0,0,1,3,4,2,10,10,10,1
+Style: Big Title White,Arial,120,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,4,4,2,10,10,10,1
+Style: Theme Red Gold,Arial,96,&H000709C6,&H00000000,&H00FFFFFF,&H008CD9D6,-1,0,0,0,100,120,0,0,1,6,4,2,10,10,69,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:12.66,Default,,0,0,1000,,Typesetting: u/This_guys_a_twat; Translation: u/classicalover
+Dialogue: 5,0:00:00.00,0:00:03.65,Big Title White,,0,0,820,,Downtown no
+Dialogue: 5,0:00:00.00,0:00:03.65,Big Title White,,0,0,520,,Gaki no Tsukai
+Dialogue: 5,0:00:00.00,0:00:03.65,Big Title White,,0,0,170,,Ya Arahende
+Dialogue: 5,0:00:01.28,0:00:03.65,Narrator,,0,0,0,,Tonight's Gaki no Tsukai:
+Dialogue: 5,0:00:04.26,0:00:06.65,Narrator,,0,0,0,,The highly-rated Gaki Jiji-Nuki!
+Dialogue: 5,0:00:07.52,0:00:12.66,Narrator,,0,0,0,,The cards being used will have various different original subjects on them
+Dialogue: 5,0:00:13.06,0:00:18.66,Narrator,,0,0,0,,Like the game Old Maid, match the cards to deplete your hand
+Dialogue: 5,0:00:19.06,0:00:24.64,Narrator,,0,0,0,,Whoever is left with the one unmatchable card must follow its orders
+Dialogue: 5,0:00:24.94,0:00:27.44,Matsumoto,,0,0,200,,I'M NOT GETTING PUNISHED EVEN ONCE TODAY OKAY?
+Dialogue: 5,0:00:27.77,0:00:29.74,Hamada,,0,0,0,,Alright, let's do it
+Dialogue: 5,0:00:29.74,0:00:33.95,Tanaka,,0,0,280,,The theme is All-Out {\i1}A Cappella{\i0} Performance
+Dialogue: 1,0:00:30.11,0:00:33.95,Matsumoto,,0,420,150,,Matsumoto Hitoshi
+Dialogue: 1,0:00:30.11,0:00:33.95,Hamada,,420,0,150,,Hamada Masatoshi
+Dialogue: 1,0:00:30.11,0:00:33.95,Yamasaki,,0,720,50,,Tsukitei Hosei
+Dialogue: 1,0:00:30.11,0:00:33.95,Endo,,0,0,50,,Endo Shozo
+Dialogue: 1,0:00:30.11,0:00:33.95,Tanaka,,720,0,50,,Tanaka Naoki
+Dialogue: 5,0:00:33.95,0:00:36.31,Tanaka,,0,0,0,,A famous song title is written on each card
+Dialogue: 5,0:00:36.31,0:00:40.45,Tanaka,,0,0,0,,The last person remaining must sing that song
+Dialogue: 4,0:00:34.35,0:00:40.45,Default,,0,0,180,,Enthusiastically perform a famous song {\i1}a cappella{\i0}
+Dialogue: 4,0:00:40.79,0:00:49.53,Theme Red Gold,,0,0,50,,First Round: All-Out {\i1}A Capella{\i0}
+Dialogue: 5,0:00:41.44,0:00:49.53,Narrator,,0,0,180,,Here are the cards this round. Try to guess the "Old Man!"
+Dialogue: 5,0:00:50.40,0:00:55.60,Narrator,,0,0,0,,Hosei draws from the player to the right and turns go clockwise
+Dialogue: 4,0:00:52.30,0:00:55.60,Safe Golden,,0,0,220,,"Old Man" starts
+Dialogue: 1,0:00:55.60,0:01:45.48,Matsumoto,,1160,0,400,,Joker
+Dialogue: 5,0:00:57.80,0:01:00.74,Yamasaki,,0,250,0,,Oh, I got one, so suddenly
+Dialogue: 5,0:01:01.14,0:01:04.44,Yamasaki,,0,0,0,,B.B. Queen's "Odoru Ponpokorin"
+Dialogue: 1,0:01:02.91,0:01:06.91,Default,,0,1100,100,,"Odoru Ponpokorin" by B.B. Queens
+Dialogue: 1,0:01:02.91,0:01:06.91,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:01:04.44,0:01:06.91,Matsumoto,,0,0,0,,B.B. Queens, huh?
+Dialogue: 5,0:01:06.91,0:01:11.08,Hamada,,0,250,150,,Matsumoto-san takes a card, correct?
+Dialogue: 5,0:01:09.18,0:01:11.08,Tanaka,,0,250,300,,Yes, that's right, in this...
+Dialogue: 5,0:01:11.18,0:01:13.52,Tanaka,,0,100,180,,order...
+Dialogue: 5,0:01:13.52,0:01:16.09,Default,,0,700,0,,I don't think that's right...
+Dialogue: 4,0:01:13.52,0:01:16.09,Default,,0,1150,200,,Staff
+Dialogue: 5,0:01:16.09,0:01:17.76,Tanaka,,0,0,180,,Eh!?
+Dialogue: 5,0:01:18.09,0:01:19.99,Default,,0,400,0,,Endo-san takes a card right?
+Dialogue: 4,0:01:18.09,0:01:19.99,Default,,0,1150,200,,Staff
+Dialogue: 5,0:01:19.99,0:01:22.89,Endo,,0,0,0,,Just now Hosei-san took a card right?
+Dialogue: 5,0:01:23.33,0:01:28.07,Tanaka,,0,890,180,,Next
+Dialogue: 5,0:01:24.16,0:01:28.07,Tanaka,,0,560,180,,Endo takes
+Dialogue: 5,0:01:25.46,0:01:28.07,Tanaka,,80,0,180,,a card from Hosei...
+Dialogue: 5,0:01:25.76,0:01:28.07,Matsumoto,,0,200,0,,Right, you messed up the turn direction
+Dialogue: 5,0:01:28.07,0:01:29.07,Matsumoto,,0,200,0,,That happens
+Dialogue: 5,0:01:29.57,0:01:32.60,Matsumoto,,0,200,180,,It's Tanaka's fault! If it's anybody's
+Dialogue: 5,0:01:35.01,0:01:37.31,Matsumoto Big,,0,0,200,,This was all on Tanaka!
+Dialogue: 5,0:01:37.31,0:01:39.31,Hamada,,0,200,0,,I even asked earlier whether this was okay
+Dialogue: 5,0:01:39.74,0:01:45.48,Tanaka,,0,500,300,,My position changed so
+Dialogue: 5,0:01:39.74,0:01:45.48,Tanaka Black,,0,300,150,,now I have no idea what's going on
+Dialogue: 5,0:01:42.02,0:01:45.48,Matsumoto,,0,300,0,,Your position changed...
+Dialogue: 5,0:01:45.48,0:01:47.48,Yamasaki,,0,0,0,,So Endo draws from my hand, correct?
+Dialogue: 5,0:01:47.30,0:01:49.61,Tanaka,,0,0,0,,Yes, that's correct, the game goes clockwise
+Dialogue: 5,0:01:49.22,0:01:51.12,Endo,,0,0,0,,Okay
+Dialogue: 5,0:01:50.19,0:01:52.86,Hamada,,0,0,0,,Why does it look like you have an advantage
+Dialogue: 1,0:01:51.12,0:02:33.40,Matsumoto,,1160,0,400,,Joker
+Dialogue: 5,0:01:52.19,0:01:54.13,Tanaka,,0,0,0,,Yes, it's like that
+Dialogue: 5,0:01:53.64,0:01:56.86,Hamada,,0,0,0,,Because he's the dealer?
+Dialogue: 5,0:01:54.72,0:01:56.86,Tanaka,,0,0,0,,Correct
+Dialogue: 5,0:01:56.86,0:01:59.10,Tanaka,,0,0,0,,You didn't match right? So now I draw
+Dialogue: 5,0:02:00.23,0:02:01.57,Tanaka,,0,0,0,,Gimme!
+Dialogue: 5,0:02:01.57,0:02:04.07,Tanaka,,0,0,0,,I got a pair!
+Dialogue: 5,0:02:04.07,0:02:07.07,Tanaka,,0,0,0,,J-WALK's "Nanimo Ienakute... Natsu"
+Dialogue: 1,0:02:04.40,0:02:10.21,Default,,0,1100,100,,"Nanimo Ienakute... Natsu" by J-WALK
+Dialogue: 1,0:02:04.40,0:02:10.21,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:02:07.07,0:02:10.21,Matsumoto,,0,0,180,,This one is hard so good thing it matched
+Dialogue: 5,0:02:12.46,0:02:15.58,Hamada,,0,200,0,,Ah, I got a match
+Dialogue: 1,0:02:15.91,0:02:19.85,Default,,0,1120,100,,"Daitokai" by Crystal King
+Dialogue: 1,0:02:15.91,0:02:19.85,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:02:16.01,0:02:17.55,Hamada,,0,0,0,,Crystal King
+Dialogue: 5,0:02:17.65,0:02:19.85,Endo,,0,0,0,,That one's an enthusiastic song
+Dialogue: 5,0:02:20.02,0:02:22.25,Matsumoto,,0,200,180,,That one really uses your voice
+Dialogue: 5,0:02:23.68,0:02:25.89,Matsumoto,,0,0,0,,I want to get a match soon
+Dialogue: 5,0:02:25.88,0:02:27.63,Matsumoto,,0,0,0,,Yes I do
+Dialogue: 5,0:02:27.63,0:02:31.90,Default,,0,950,700,,Card text: "Yosaku" by Saburou Kitashima
+Dialogue: 5,0:02:29.26,0:02:31.90,Matsumoto,,0,200,180,,This drawing is kinda funny
+Dialogue: 1,0:02:33.97,0:02:37.64,Default,,0,1050,200,,Cards Remaining
+Dialogue: 5,0:02:35.07,0:02:36.92,Endo,,0,0,180,,He came back
+Dialogue: 5,0:02:36.90,0:02:39.20,Narrator,,0,0,0,,15 minutes after starting,
+Dialogue: 1,0:02:37.64,0:05:28.54,Matsumoto,,1160,0,400,,Joker
+Dialogue: 5,0:02:39.20,0:02:43.58,Narrator,,0,0,0,,Saburou Kitashima's card circulates endlessly
+Dialogue: 5,0:02:45.64,0:02:47.68,Hamada,,0,0,180,,He came back
+Dialogue: 5,0:02:50.75,0:02:51.92,Matsumoto,,0,0,0,,Yes yes yes
+Dialogue: 5,0:02:54.12,0:02:54.92,Matsumoto,,0,0,180,,Ah!
+Dialogue: 5,0:02:54.92,0:02:58.72,Matsumoto,,0,200,180,,The cards all have a yellow background don't they
+Dialogue: 5,0:03:03.60,0:03:06.77,Matsumoto,,0,0,180,,It's a new one...
+Dialogue: 5,0:03:06.77,0:03:09.20,Hamada,,0,200,0,,Yama-chan, what are ya gonna draw...
+Dialogue: 5,0:03:09.40,0:03:12.54,Tanaka,,0,200,0,,You really wanna match soon right
+Dialogue: 5,0:03:11.17,0:03:15.17,Yamasaki,,0,200,180,,Why are you holding the cards so strongly?
+Dialogue: 5,0:03:15.70,0:03:18.38,Yamasaki,,0,0,0,,Ah, I've seen this one before
+Dialogue: 5,0:03:19.54,0:03:21.78,Endo,,0,0,0,,Alright, going with this one
+Dialogue: 5,0:03:23.11,0:03:27.15,Endo,,0,0,180,,What? It's my first time seeing this one
+Dialogue: 5,0:03:28.05,0:03:34.32,Narrator,,0,0,0,,Linda Yamamoto takes Saburou Kitashima's place in the infinite loop
+Dialogue: 5,0:03:34.72,0:03:37.26,Hamada,,0,0,0,,Gimme something good already
+Dialogue: 5,0:03:37.26,0:03:39.80,Tanaka,,0,0,0,,Please take it
+Dialogue: 5,0:03:38.06,0:03:41.87,Hamada Black,,0,0,180,,She came back!
+Dialogue: 4,0:03:42.20,0:03:49.31,Default,,0,1100,100,,"Nerai Uchi" by Linda Yamamoto
+Dialogue: 5,0:03:42.92,0:03:48.06,Narrator,,0,0,0,,Matsumoto's card is Linda Yamamoto
+Dialogue: 5,0:03:48.06,0:03:50.06,Matsumoto,,0,0,0,,Oh come on, do I really have to...
+Dialogue: 5,0:03:50.06,0:03:52.48,Matsumoto Big,,0,200,200,,OHHHH YESSSS!!
+Dialogue: 5,0:03:54.21,0:03:56.48,Matsumoto,,0,0,180,,I'm soooo glad
+Dialogue: 1,0:03:56.82,0:03:59.75,Default,,0,1100,100,,"Nerai Uchi" by Linda Yamamoto
+Dialogue: 1,0:03:56.82,0:03:59.75,Hamada,,0,1120,470,,Pair
+Dialogue: 1,0:03:56.82,0:03:59.75,Matsumoto,,0,0,0,,Linda Yamamoto's "Nerai Uchi"
+Dialogue: 4,0:04:00.05,0:04:02.22,Matsumoto Golden,,0,650,90,,Matsumoto
+Dialogue: 3,0:04:00.05,0:04:02.22,Safe Golden,,200,0,90,,has won!
+Dialogue: 5,0:04:02.79,0:04:05.19,Default,,0,700,0,,Yama-chan's card gets drawn
+Dialogue: 4,0:04:02.79,0:04:05.19,Default,,0,1150,200,,Staff
+Dialogue: 5,0:04:04.22,0:04:05.19,Yamasaki,,0,0,150,,YATTA!
+Dialogue: 5,0:04:05.19,0:04:09.19,Hamada,,0,0,180,,Yama-chan you've won too
+Dialogue: 5,0:04:06.69,0:04:09.19,Endo,,0,0,0,,It's up to whether your card matches one of mine right?
+Dialogue: 4,0:04:09.49,0:04:11.63,Yamasaki Golden,,0,470,100,,Hosei
+Dialogue: 3,0:04:09.49,0:04:11.63,Safe Golden,,200,0,100,,has won!
+Dialogue: 5,0:04:11.63,0:04:13.10,Endo,,0,0,0,,Damn, why didn't it pair
+Dialogue: 5,0:04:13.10,0:04:16.20,Endo,,0,0,0,,No no no no
+Dialogue: 1,0:04:14.53,0:04:18.80,Default,,0,1050,200,,Cards Remaining
+Dialogue: 5,0:04:16.20,0:04:18.80,Matsumoto,,0,0,180,,It's been a while since it felt like this
+Dialogue: 5,0:04:18.80,0:04:20.87,Tanaka,,0,0,0,,All-out {\i1}a cappella{\i0} performance...
+Dialogue: 5,0:04:21.36,0:04:22.42,Tanaka,,0,0,0,,GIMME!
+Dialogue: 5,0:04:25.62,0:04:27.38,Tanaka,,0,0,0,,YESSSSSS!!!
+Dialogue: 1,0:04:27.71,0:04:30.25,Default,,0,1120,100,,"Banzai~ Suki de Yokatta" by Ulfuls
+Dialogue: 1,0:04:27.71,0:04:30.25,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:04:29.26,0:04:30.95,Tanaka,,0,0,0,,Ulful's "Suki de Yokatta"
+Dialogue: 5,0:04:30.95,0:04:32.78,Endo,,0,200,0,,So it's one of these, hol' up
+Dialogue: 4,0:04:30.55,0:04:32.78,Tanaka Golden,,0,500,90,,Tanaka
+Dialogue: 3,0:04:30.55,0:04:32.78,Safe Golden,,200,0,90,,has won!
+Dialogue: 5,0:04:32.78,0:04:34.65,Hamada,,0,0,180,,What do I do?
+Dialogue: 5,0:04:34.65,0:04:36.72,Endo,,0,0,0,,Hamada-san draws...
+Dialogue: 5,0:04:36.72,0:04:38.49,Yamasaki,,0,0,0,,If it matches Hamada's card...
+Dialogue: 5,0:04:35.25,0:04:38.49,Tanaka,,0,0,0,,Yes, yes
+Dialogue: 5,0:04:35.49,0:04:38.49,Hamada,,0,0,0,,I draw right?
+Dialogue: 5,0:04:38.49,0:04:39.76,Tanaka,,0,200,200,,It all depends on this draw
+Dialogue: 4,0:04:38.89,0:04:44.46,Default,,0,200,0,,If Hamada pairs Endo loses
+Dialogue: 5,0:04:39.76,0:04:42.56,Endo,,0,200,200,,Damn hold up
+Dialogue: 5,0:04:42.56,0:04:44.46,Hamada,,0,200,200,,Please I'm counting on you
+Dialogue: 5,0:04:44.46,0:04:46.70,Tanaka,,0,0,0,,This is an important draw
+Dialogue: 5,0:04:46.06,0:04:46.70,Hamada,,0,0,0,,For sure huh
+Dialogue: 5,0:04:46.70,0:04:50.64,Endo,,0,0,0,,Wait please please please please please please please please
+Dialogue: 5,0:04:49.47,0:04:52.50,Hamada,,0,0,180,,Hold them for me
+Dialogue: 5,0:04:52.50,0:04:55.70,Matsumoto,,0,0,0,,I see. Oh, I didn't know this card existed
+Dialogue: 5,0:04:58.54,0:05:00.31,Hamada,,450,0,400,,PLEEEASE!
+Dialogue: 5,0:05:00.71,0:05:03.11,Tanaka,,0,0,180,,The card has been delivered
+Dialogue: 5,0:05:03.11,0:05:06.28,Matsumoto,,0,0,0,,I'm gonna do it, here I go
+Dialogue: 5,0:05:09.19,0:05:10.76,Matsumoto,,0,0,0,,JACKPOT!!!!!
+Dialogue: 4,0:05:11.06,0:05:13.46,Hamada Golden,,0,550,90,,Hamada
+Dialogue: 3,0:05:11.06,0:05:13.46,Safe Golden,,200,0,90,,has won!
+Dialogue: 1,0:05:13.79,0:05:15.86,Default,,0,1120,100,,"Champion" by Alice
+Dialogue: 1,0:05:13.79,0:05:15.86,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:05:17.26,0:05:20.73,Endo,,0,200,300,,When Downtown does that as a pair
+Dialogue: 5,0:05:18.80,0:05:20.73,Endo,,0,200,150,,of course they win
+Dialogue: 5,0:05:19.53,0:05:20.73,Matsumoto,,0,200,0,,Nuh uh
+Dialogue: 5,0:05:20.73,0:05:25.27,Endo,,0,0,0,,Come on... wait what's the song?
+Dialogue: 1,0:05:25.60,0:05:28.54,Default,,1100,0,100,,"Ora Tokyo sa Iguda" by Ikuzou Yoshi
+Dialogue: 5,0:05:26.50,0:05:27.47,Tanaka,,0,0,0,,Here it is
+Dialogue: 5,0:05:27.47,0:05:28.54,Yamasaki,,0,0,0,,Endo-san, it's by Ikuzou Yoshi
+Dialogue: 4,0:05:29.44,0:06:05.88,Purple Glowing,,0,300,200,,All-Out {\i1}A Cappella{\i0}
+Dialogue: 4,0:05:29.44,0:06:05.88,Purple Glowing,,50,0,100,,"Ora Tokyo sa Iguda" by Ikuzou Yoshi
+Dialogue: 5,0:05:30.88,0:05:33.11,Hamada,,0,0,0,,Go all-out okay? Do it seriously
+Dialogue: 5,0:05:33.11,0:05:36.12,Endo,,0,0,0,,There ain't no TVs! Ain't no radios!
+Dialogue: 0,0:05:36.12,0:05:38.12,Endo,,0,0,0,,The cars ain't even goin' that fast!
+Dialogue: 5,0:05:38.12,0:05:39.88,Endo,,0,0,0,,No pianos! No bars!
+Dialogue: 5,0:05:39.88,0:05:41.71,Endo,,0,0,0,,The cops come round 'n round everyday
+Dialogue: 0,0:05:41.71,0:05:43.59,Endo,,0,0,0,,Wake up in the morn', take the cows out
+Dialogue: 5,0:05:43.59,0:05:45.49,Endo,,0,0,0,,For a lil' two hour walk
+Dialogue: 5,0:05:45.49,0:05:47.46,Endo,,0,0,0,,There ain't no phones! Ain't no gas
+Dialogue: 5,0:05:47.46,0:05:49.02,Endo,,0,0,0,,Bus only comes here once a day
+Dialogue: 0,0:05:49.02,0:05:50.80,Endo,,0,0,0,,I've had enough of this village
+Dialogue: 5,0:05:50.80,0:05:53.43,Endo,,0,0,0,,I've had enough of this village
+Dialogue: 5,0:05:53.43,0:05:57.40,Endo,,0,0,0,,So I'm goooooooooin' down to Tokyo
+Dialogue: 5,0:05:57.40,0:05:59.69,Endo,,0,0,0,,And when I get down to Tokyo
+Dialogue: 0,0:05:59.69,0:06:01.64,Endo,,0,0,0,,With all my saviiiiiiin's
+Dialogue: 5,0:06:01.64,0:06:04.84,Endo,,0,0,0,,I'll be rearing a cow thereeeeee
+Dialogue: 5,0:06:04.84,0:06:05.64,Endo,,0,0,0,,NYAAAH~!
+Dialogue: 5,0:06:10.78,0:06:14.45,Hamada,,0,0,180,,It's gotta be Shozo doing this kind of thing
+Dialogue: 5,0:06:14.45,0:06:16.09,Tanaka,,0,0,0,,It was good that Endo-san sang it
+Dialogue: 5,0:06:16.39,0:06:19.02,Matsumoto,,0,0,180,,I could never do this
+Dialogue: 5,0:06:19.02,0:06:20.69,Yamasaki,,0,0,0,,HUWAAAAH!
+Dialogue: 5,0:06:21.70,0:06:24.96,Tanaka,,0,0,0,,That HUWAAAAAAH at the end
+Dialogue: 5,0:06:25.42,0:06:27.20,Tanaka,,0,0,0,,This round's theme is
+Dialogue: 5,0:06:27.20,0:06:29.28,Tanaka,,0,0,0,,In the style of Ichirou Furutachi*,
+Dialogue: 5,0:06:27.20,0:06:29.28,Tanaka,,0,0,900,,*TN: famous sports commentator
+Dialogue: 4,0:06:27.53,0:06:33.91,Theme Red Gold,,0,0,100,,Improvised Commentary
+Dialogue: 5,0:06:29.27,0:06:32.34,Tanaka,,0,0,0,,improvised live commentary of an ordinary object
+Dialogue: 0,0:06:32.34,0:06:33.20,Hamada,,0,0,0,,What the hell?
+Dialogue: 5,0:06:33.98,0:06:40.35,Tanaka,,0,0,0,,An everyday object is written on each card
+Dialogue: 4,0:06:34.34,0:06:45.42,Default,,0,0,100,,Perform a live commentary on a commonplace object
+Dialogue: 5,0:06:37.61,0:06:40.35,Matsumoto,,0,0,180,,There's no way I can do that
+Dialogue: 5,0:06:40.35,0:06:43.21,Tanaka,,0,0,0,,The item will appear in front of the loser,
+Dialogue: 5,0:06:43.21,0:06:45.42,Tanaka,,0,0,0,,who must do a live commentary about that object
+Dialogue: 5,0:06:45.42,0:06:48.49,Matsumoto,,0,0,180,,Even Furutachi-san wouldn't do that
+Dialogue: 4,0:06:48.82,0:06:59.93,Theme Red Gold,,0,0,50,,Improvised Commentary
+Dialogue: 5,0:06:49.16,0:06:55.34,Narrator,,0,0,150,,One of these cards will have live commentary!
+Dialogue: 5,0:06:55.34,0:06:59.93,Narrator,,0,0,150,,Guess which one will be the "Old Maid."
+Dialogue: 5,0:06:59.93,0:07:01.93,Matsumoto,,0,0,0,,I wanna avoid this one
+Dialogue: 5,0:07:01.93,0:07:06.57,Narrator,,0,0,0,,Dealer Endo begins the game by drawing
+Dialogue: 4,0:07:02.40,0:07:06.20,Safe Golden,,0,0,100,,"Old Man" starts
+Dialogue: 5,0:07:07.81,0:07:13.04,Tanaka,,0,540,180,,Endo-san
+Dialogue: 5,0:07:09.21,0:07:13.04,Tanaka Black,,220,0,180,,please draw a card from me
+Dialogue: 1,0:07:13.04,0:08:12.14,Matsumoto,,1160,0,400,,Joker
+Dialogue: 5,0:07:13.04,0:07:18.22,Endo,,0,0,0,,I see...
+Dialogue: 5,0:07:16.41,0:07:19.58,Hamada,,0,0,0,,No matches right? Right?
+Dialogue: 5,0:07:19.96,0:07:21.39,Hamada,,0,0,0,,Hold up...
+Dialogue: 5,0:07:22.35,0:07:26.89,Default,,0,1150,200,,Staff
+Dialogue: 5,0:07:22.35,0:07:26.89,Default,,0,800,0,,You're going the wrong way
+Dialogue: 5,0:07:25.29,0:07:26.89,Tanaka,,100,0,0,,Eh...
+Dialogue: 5,0:07:25.72,0:07:26.89,Tanaka,,500,0,0,,no way!?
+Dialogue: 5,0:07:26.89,0:07:28.59,Tanaka Big,,0,250,200,,Eh?
+Dialogue: 5,0:07:27.36,0:07:28.59,Tanaka Big,,250,0,200,,Who?
+Dialogue: 5,0:07:28.59,0:07:29.83,Tanaka Big,,0,200,200,,Who? What happened? Who?
+Dialogue: 5,0:07:29.83,0:07:31.73,Hamada,,0,0,200,,Dude it's your fault
+Dialogue: 5,0:07:32.53,0:07:34.57,Default,,0,1150,200,,Staff
+Dialogue: 5,0:07:32.53,0:07:34.57,Default,,0,600,0,,Endo-san draws from Hosei-san
+Dialogue: 5,0:07:36.00,0:07:40.64,Endo,,0,500,180,,Earlier Tanaka clearly said
+Dialogue: 5,0:07:38.00,0:07:40.64,Endo Black,,320,0,180,,draw from me
+Dialogue: 5,0:07:41.17,0:07:43.71,Hamada Black,,0,200,180,,you shoulda drawn from Hosei right
+Dialogue: 5,0:07:41.17,0:07:43.71,Hamada,,0,900,300,,Actually,
+Dialogue: 5,0:07:43.71,0:07:44.98,Tanaka Big,,0,600,250,,Who?
+Dialogue: 5,0:07:44.41,0:07:44.98,Tanaka,,0,180,200,,Who?
+Dialogue: 5,0:07:44.41,0:07:44.98,Tanaka,,120,0,180,,Who?
+Dialogue: 5,0:07:44.71,0:07:44.98,Tanaka Big,,500,0,220,,Who?
+Dialogue: 5,0:07:44.98,0:07:45.41,Tanaka Black,,0,200,200,,Hold up
+Dialogue: 5,0:07:45.41,0:07:46.54,Tanaka Big Black,,0,200,200,,Hold up
+Dialogue: 5,0:07:46.82,0:07:48.61,Endo,,0,200,0,,Endo
+Dialogue: 5,0:07:47.45,0:07:48.61,Tanaka,,0,200,0,,Wait, hold up a sec
+Dialogue: 5,0:07:48.61,0:07:51.72,Tanaka Big Black,,0,200,200,,WTF are you saying?
+Dialogue: 5,0:07:52.22,0:07:54.19,Matsumoto,,0,200,180,,This was a bad mistake huh?
+Dialogue: 5,0:07:53.85,0:07:56.96,Tanaka,,0,200,0,,What do you mean?
+Dialogue: 5,0:07:54.84,0:07:56.96,Hamada,,0,200,0,,He shouldn't have drawn from you
+Dialogue: 5,0:07:56.96,0:08:01.23,Matsumoto,,0,0,180,,How about you sing "Yosaku"...
+Dialogue: 5,0:08:02.69,0:08:04.50,Tanaka,,0,0,0,,Wait please, wha-, really,
+Dialogue: 5,0:08:04.50,0:08:07.80,Tanaka,,0,200,180,,did I really f*ck up that hard?
+Dialogue: 5,0:08:07.80,0:08:09.93,Matsumoto,,0,200,0,,Well of course, and it's the second time today
+Dialogue: 5,0:08:10.00,0:08:12.14,Tanaka,,0,200,0,,Excuse me, I apologize
+Dialogue: 4,0:08:12.77,0:08:47.24,Purple Glowing,,0,300,200,,All-Out {\i1}A Cappella{\i0}
+Dialogue: 4,0:08:12.77,0:08:47.24,Purple Glowing,,0,300,100,,"Yosaku" by Kitashima Saburou
+Dialogue: 5,0:08:15.36,0:08:22.08,Tanaka,,0,0,0,,Yosaku cuts the tree~
+Dialogue: 0,0:08:19.48,0:08:20.34,Hamada,,0,0,300,,So quiet
+Dialogue: 5,0:08:22.08,0:08:27.82,Tanaka,,0,0,0,,Hey hey ho, hey hey ho~
+Dialogue: 5,0:08:27.82,0:08:34.00,Tanaka,,0,0,0,,And it echoes back~
+Dialogue: 5,0:08:34.00,0:08:42.18,Tanaka,,0,0,0,,Hey hey ho, hey hey ho~
+Dialogue: 5,0:08:43.80,0:08:46.20,Tanaka,,0,0,0,,His wife...
+Dialogue: 5,0:08:44.57,0:08:47.24,Hamada,,0,450,420,,Forget it
+Dialogue: 5,0:08:48.01,0:08:49.04,Endo,,0,0,0,,Gotta be all-out
+Dialogue: 5,0:08:49.04,0:08:51.51,Hamada,,0,0,200,,It was all the same
+Dialogue: 5,0:08:51.51,0:08:54.38,Matsumoto Black,,0,0,180,,I feel sick now
+Dialogue: 4,0:08:55.11,0:08:59.42,Safe Golden,,0,0,100,,"Old Man" starts
+Dialogue: 5,0:08:55.48,0:08:59.42,Narrator,,0,0,0,,Endo's card is returned, and the game restarts
+Dialogue: 1,0:08:59.42,0:09:28.11,Matsumoto,,1160,0,400,,Joker
+Dialogue: 5,0:09:02.20,0:09:03.84,Endo,,0,0,0,,I got a pair!
+Dialogue: 0,0:09:03.18,0:09:03.84,Hamada,,0,0,90,,Really?
+Dialogue: 5,0:09:04.72,0:09:06.72,Matsumoto,,0,0,0,,Isn't that too fast
+Dialogue: 1,0:09:04.82,0:09:06.72,Default,,0,1120,200,,Spatula
+Dialogue: 1,0:09:04.82,0:09:06.72,Hamada,,0,1120,470,,Pair
+Dialogue: 5,0:09:06.99,0:09:08.63,Tanaka,,0,200,180,,Now I shall draw a card
+Dialogue: 5,0:09:12.00,0:09:15.67,Yamasaki,,0,200,180,,Your pupils are wide open
+Dialogue: 5,0:09:13.46,0:09:18.17,Endo,,0,200,0,,Is, is this right?
+Dialogue: 5,0:09:16.53,0:09:18.17,Yamasaki,,0,200,0,,So scary
+Dialogue: 5,0:09:18.17,0:09:20.67,Tanaka,,0,200,180,,It should be right...
+Dialogue: 0,0:09:20.67,0:09:24.01,Tanaka,,0,0,0,,Drawing from the right, here I go
+Dialogue: 0,0:09:24.41,0:09:26.28,Tanaka,,0,0,0,,Got a match
+Dialogue: 1,0:09:26.61,0:09:28.11,Default,,0,1120,200,,Compass
+Dialogue: 1,0:09:26.61,0:09:28.11,Hamada,,0,1120,470,,Pair
+Dialogue: 1,0:09:28.38,0:09:46.00,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:09:28.38,0:09:31.38,Tanaka,,0,0,0,,Please take it
+Dialogue: 0,0:09:29.14,0:09:31.38,Narrator,,0,0,0,,After that, the game goes smoothly
+Dialogue: 0,0:09:32.85,0:09:33.92,Hamada,,0,0,0,,I got one
+Dialogue: 1,0:09:34.25,0:09:35.85,Default,,0,1120,200,,Roller skates
+Dialogue: 1,0:09:34.25,0:09:35.85,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:09:38.72,0:09:40.93,Matsumoto,,0,0,0,,Yes, here's folding fan.
+Dialogue: 1,0:09:39.49,0:09:41.79,Default,,0,1120,200,,Folding Fan
+Dialogue: 1,0:09:39.49,0:09:41.79,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:09:41.79,0:09:44.53,Narrator,,0,0,0,,The number of cards quickly decreases
+Dialogue: 1,0:09:43.73,0:09:46.00,Default,,0,1120,200,,Daruma
+Dialogue: 1,0:09:43.73,0:09:46.00,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:09:44.53,0:09:46.00,Hamada,,0,0,0,,That one ticks me off
+Dialogue: 1,0:09:46.26,0:09:57.11,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:09:49.97,0:09:53.34,Matsumoto,,0,640,180,,The next time you laugh
+Dialogue: 0,0:09:51.87,0:09:53.34,Matsumoto Black,,250,0,180,,it's punishment time
+Dialogue: 0,0:09:53.34,0:09:57.11,Yamasaki Black,,0,200,180,,Please stop holding them so tightly
+Dialogue: 0,0:09:55.55,0:09:57.10,Yamasaki,,0,200,0,,Or else I'll get punished
+Dialogue: 1,0:09:57.38,0:10:20.37,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:10:01.64,0:10:02.88,Matsumoto,,0,0,0,,Du-duuuuuun
+Dialogue: 0,0:10:02.55,0:10:03.78,Yamasaki,,0,0,0,,So simple minded
+Dialogue: 0,0:10:03.78,0:10:05.42,Matsumoto,,0,0,180,,You laughed amirite?
+Dialogue: 0,0:10:04.20,0:10:05.42,Yamasaki,,0,0,180,,No I didn't
+Dialogue: 0,0:10:06.57,0:10:07.71,Hamada,,0,0,0,,You are tho
+Dialogue: 0,0:10:07.39,0:10:08.32,Yamasaki,,0,0,0,,I didn't laugh
+Dialogue: 0,0:10:05.92,0:10:08.32,Tanaka,,0,0,0,,Hosei you're laughing
+Dialogue: 0,0:10:08.32,0:10:12.02,Yamasaki,,0,200,180,,I'm normally like this
+Dialogue: 0,0:10:11.80,0:10:14.71,Matsumoto,,0,200,0,,He told me not to hold them so strongly, so I didn't,
+Dialogue: 0,0:10:14.71,0:10:16.09,Matsumoto,,0,200,0,,but he laughed anyway
+Dialogue: 0,0:10:16.09,0:10:18.76,Yamasaki,,0,200,0,,No way you were holding them so tightly
+Dialogue: 0,0:10:18.78,0:10:20.37,Tanaka,,0,200,0,,He makes this face
+Dialogue: 1,0:10:21.17,0:10:25.57,Default,,0,1050,200,,Cards Remaining
+Dialogue: 1,0:10:21.17,0:10:25.57,Default,,950,0,200,,Endo to draw
+Dialogue: 0,0:10:21.42,0:10:25.57,Narrator,,0,0,0,,Endo, with one card, draws for the win
+Dialogue: 1,0:10:25.57,0:10:37.42,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:10:25.57,0:10:28.17,Tanaka,,0,0,0,,I wonder if the match is in there
+Dialogue: 0,0:10:26.66,0:10:27.63,Endo,,0,0,0,,I'll take this one
+Dialogue: 0,0:10:29.68,0:10:30.61,Tanaka,,0,0,0,,No way
+Dialogue: 0,0:10:30.61,0:10:32.61,Yamasaki,,0,0,0,,Really?
+Dialogue: 1,0:10:30.94,0:10:33.28,Default,,0,1120,200,,Bike pump
+Dialogue: 1,0:10:30.94,0:10:33.28,Hamada,,0,1120,470,,Pair
+Dialogue: 4,0:10:33.58,0:10:35.28,Endo Golden,,0,450,90,,Endo
+Dialogue: 3,0:10:33.58,0:10:35.28,Safe Golden,,200,0,90,,has won!
+Dialogue: 0,0:10:34.72,0:10:36.75,Hamada,,0,200,0,,That's awesome
+Dialogue: 0,0:10:36.75,0:10:37.42,Hamada,,0,200,0,,Damn
+Dialogue: 1,0:10:37.68,0:11:19.69,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:10:37.84,0:10:40.25,Narrator,,0,200,0,,The game suddenly quickly advances
+Dialogue: 0,0:10:40.25,0:10:42.69,Matsumoto,,0,0,0,,Ooh, here's one!
+Dialogue: 1,0:10:43.02,0:10:45.99,Default,,0,1120,200,,Cactus
+Dialogue: 1,0:10:43.02,0:10:45.99,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:10:43.40,0:10:45.99,Matsumoto,,0,0,0,,Cactus
+Dialogue: 0,0:10:45.66,0:10:47.49,Hamada,,0,0,0,,He got the right card...
+Dialogue: 0,0:10:54.67,0:10:57.34,Yamasaki,,0,0,0,,Yessss
+Dialogue: 1,0:10:55.73,0:10:58.87,Default,,0,1120,200,,Geta
+Dialogue: 1,0:10:55.73,0:10:58.87,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:10:57.34,0:10:58.87,Hamada,,0,0,0,,Wow
+Dialogue: 0,0:10:58.87,0:11:00.64,Tanaka,,0,0,0,,He won
+Dialogue: 4,0:11:00.94,0:11:03.74,Yamasaki Golden,,0,470,100,,Hosei
+Dialogue: 3,0:11:00.94,0:11:03.74,Safe Golden,,200,0,100,,has won!
+Dialogue: 0,0:11:01.21,0:11:02.34,Yamasaki,,0,200,0,,I'm so glad
+Dialogue: 0,0:11:02.34,0:11:03.74,Tanaka,,0,200,0,,Hosei-san has won
+Dialogue: 0,0:11:03.74,0:11:05.78,Hamada,,0,0,180,,If Tanaka matches...
+Dialogue: 0,0:11:05.78,0:11:08.88,Tanaka,,0,0,0,,If I... yes...
+Dialogue: 0,0:11:07.51,0:11:08.88,Matsumoto,,0,0,0,,Yeah, he'll win
+Dialogue: 0,0:11:08.88,0:11:10.88,Tanaka,,0,0,0,,It'll be a battle between Downtown.
+Dialogue: 0,0:11:11.48,0:11:13.02,Tanaka,,0,0,0,,Damn, no pair
+Dialogue: 0,0:11:13.52,0:11:15.29,Yamasaki,,0,0,180,,It's all from here
+Dialogue: 0,0:11:15.29,0:11:16.99,Hamada,,0,0,0,,Tanaka please c'mon
+Dialogue: 0,0:11:16.99,0:11:19.69,Matsumoto,,0,0,0,,Wouldn't it be nice to be a spectator
+Dialogue: 1,0:11:19.96,0:11:29.57,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:11:19.96,0:11:23.19,Tanaka,,0,0,0,,I want to win too you know
+Dialogue: 0,0:11:20.93,0:11:23.19,Hamada,,0,0,180,,Gimme somethin'
+Dialogue: 0,0:11:24.12,0:11:25.26,Hamada,,0,0,0,,Yesss a match
+Dialogue: 1,0:11:25.60,0:11:28.30,Default,,0,1120,200,,Teapot
+Dialogue: 1,0:11:25.60,0:11:28.30,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:11:27.57,0:11:29.00,Yamasaki,,0,0,0,,Teapot, huh...
+Dialogue: 0,0:11:30.23,0:11:33.50,Default,,0,0,180,,Tanaka draws to win
+Dialogue: 1,0:11:33.50,0:11:36.31,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:11:33.62,0:11:34.38,Endo,,0,0,0,,No good?
+Dialogue: 0,0:11:34.38,0:11:34.98,Matsumoto,,0,0,0,,Yessss
+Dialogue: 0,0:11:34.98,0:11:36.31,Hamada,,0,0,0,,Yes, another chance for me
+Dialogue: 0,0:11:36.31,0:11:37.33,Endo,,0,0,0,,This is a big chance
+Dialogue: 0,0:11:37.33,0:11:38.38,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:11:36.71,0:11:40.41,Default,,0,0,180,,Hamada draws to win
+Dialogue: 0,0:11:38.38,0:11:40.77,Hamada,,0,0,0,,I'm counting on you!
+Dialogue: 0,0:11:40.77,0:11:41.58,Hamada,,0,0,0,,GIMME!
+Dialogue: 1,0:11:40.85,0:11:48.92,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:11:42.51,0:11:45.02,Hamada,,0,0,0,,YESSSSSSSS!!
+Dialogue: 0,0:11:43.92,0:11:45.02,Yamasaki,,0,0,0,,Wow awesome
+Dialogue: 4,0:11:45.32,0:11:48.92,Hamada Golden,,0,350,90,,Hamada
+Dialogue: 3,0:11:45.32,0:11:48.92,Safe Golden,,400,0,90,,has won!
+Dialogue: 0,0:11:46.42,0:11:47.92,Matsumoto,,0,0,0,,Alarm clock?
+Dialogue: 1,0:11:47.05,0:11:48.92,Default,,0,1120,200,,Alarm clock
+Dialogue: 1,0:11:47.05,0:11:48.92,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:11:47.71,0:11:48.42,Yamasaki,,0,0,200,,He won
+Dialogue: 0,0:11:48.35,0:11:49.84,Endo,,0,0,0,,Wait, if this is a match...
+Dialogue: 0,0:11:48.92,0:11:51.19,Hamada,,0,0,0,,If this matches yours...
+Dialogue: 0,0:11:49.32,0:11:53.12,Default,,0,0,180,,Matsumoto draws to win
+Dialogue: 0,0:11:51.19,0:11:53.12,Matsumoto,,0,0,0,,I don't have a choice of card
+Dialogue: 0,0:11:53.73,0:11:59.63,Default,,0,0,180,,Matsumoto draws to win
+Dialogue: 0,0:11:54.08,0:11:59.63,Narrator,,0,0,0,,If Hamada's leftovercard matches one of Matsumoto's, Tanaka loses!
+Dialogue: 0,0:12:00.68,0:12:07.34,Narrator,,0,0,0,,Will it be Matsumoto or Tanaka?
+Dialogue: 0,0:12:00.67,0:12:07.34,Default,,0,0,180,,Who will perform the live commentary?
+Dialogue: 1,0:12:07.34,0:12:50.72,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:12:07.34,0:12:09.11,Matsumoto,,0,0,0,,Wait, wait, I'm gonna cover the card up
+Dialogue: 0,0:12:09.40,0:12:11.38,Matsumoto,,0,0,0,,It's gotta match for sure now
+Dialogue: 0,0:12:12.02,0:12:14.98,Matsumoto,,0,0,0,,Like this, like this
+Dialogue: 0,0:12:17.08,0:12:20.62,Tanaka,,0,0,0,,Stop, stop, stop...
+Dialogue: 0,0:12:21.10,0:12:23.21,Tanaka,,0,0,0,,*dead frog noises*
+Dialogue: 0,0:12:24.12,0:12:26.46,Matsumoto,,0,0,0,,That's good, isn't that good?
+Dialogue: 0,0:12:26.46,0:12:28.46,Matsumoto,,0,0,0,,ISN'T THAT GOOD?
+Dialogue: 0,0:12:27.22,0:12:29.49,Tanaka,,0,0,0,,STOP! PLEASE STOP!
+Dialogue: 0,0:12:29.30,0:12:30.93,Matsumoto,,0,0,0,,NYAAAAAAAAAH!
+Dialogue: 0,0:12:30.93,0:12:34.50,Matsumoto,,0,0,0,,IT'S STOPWATCH!
+Dialogue: 1,0:12:31.26,0:12:34.50,Default,,0,1120,200,,Stopwatch
+Dialogue: 1,0:12:31.26,0:12:34.50,Hamada,,0,1120,470,,Pair
+Dialogue: 4,0:12:34.80,0:12:38.67,Matsumoto Golden,,0,650,90,,Matsumoto
+Dialogue: 3,0:12:34.80,0:12:38.67,Safe Golden,,200,0,90,,has won!
+Dialogue: 0,0:12:38.52,0:12:40.10,Hamada,,0,0,0,,Which means...
+Dialogue: 0,0:12:39.30,0:12:41.14,Endo,,0,0,180,,The question is what the object is
+Dialogue: 0,0:12:41.42,0:12:42.97,Tanaka,,0,0,0,,This card is...
+Dialogue: 1,0:12:43.31,0:12:47.35,Default,,0,1120,200,,Sunglasses
+Dialogue: 1,0:12:43.31,0:12:47.35,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:12:43.68,0:12:47.35,Tanaka,,0,0,0,,I matched sunglasses, so
+Dialogue: 0,0:12:45.50,0:12:47.35,Yamasaki,,0,0,0,,Here you go, it's this
+Dialogue: 0,0:12:47.35,0:12:50.72,Matsumoto,,0,0,0,,The punishment theme is "purse"
+Dialogue: 1,0:12:47.71,0:12:50.72,Default,,1150,0,200,,Purse
+Dialogue: 0,0:12:51.48,0:12:59.59,Purple Glowing,,200,0,180,,Ichirou Furutachi-style live commentary!!
+Dialogue: 1,0:12:51.48,0:12:59.59,Default,,0,1100,250,,Purse
+Dialogue: 0,0:12:51.80,0:12:59.59,Narrator,,200,0,0,,Loser Tanaka gets the punishment!
+Dialogue: 0,0:12:59.59,0:13:01.66,Endo,,0,0,0,,3... 2... 1...
+Dialogue: 0,0:13:01.66,0:13:02.98,Endo,,0,0,0,,Please begin
+Dialogue: 1,0:12:59.96,0:13:39.30,Default,,1150,0,200,,Purse
+Dialogue: 0,0:13:02.96,0:13:04.98,Tanaka,,0,0,0,,Oooh, what's this in front of me?
+Dialogue: 0,0:13:04.98,0:13:05.94,Tanaka,,0,0,0,,What, what, what is this?
+Dialogue: 0,0:13:05.94,0:13:08.40,Tanaka,,0,0,0,,Appeared in front of me, it has indeed
+Dialogue: 0,0:13:08.40,0:13:09.26,Tanaka,,0,0,0,,This has appeared
+Dialogue: 0,0:13:09.26,0:13:10.72,Tanaka,,0,0,0,,This is, oh, the feel in the hand is
+Dialogue: 0,0:13:10.72,0:13:12.08,Tanaka,,0,0,0,,brown feeling of something
+Dialogue: 0,0:13:12.08,0:13:14.38,Tanaka,,0,0,0,,Here it opens wide, spread wide open, what is this
+Dialogue: 0,0:13:14.38,0:13:16.37,Tanaka,,0,0,0,,In-, inside there's also an open,
+Dialogue: 0,0:13:16.37,0:13:18.96,Tanaka,,0,0,0,,Inside there's also an open, it's got two levels
+Dialogue: 0,0:13:18.96,0:13:20.14,Tanaka,,0,0,0,,This is so-called, yes,
+Dialogue: 0,0:13:20.14,0:13:23.60,Tanaka,,0,0,0,,so-called, is this really what they call a PURSE!?
+Dialogue: 0,0:13:23.60,0:13:26.82,Tanaka,,0,0,0,,It's wide open, spread wide open, wide wide open
+Dialogue: 0,0:13:26.32,0:13:27.59,Hamada,,0,0,0,,What the hell?!
+Dialogue: 0,0:13:26.82,0:13:29.14,Tanaka,,0,0,0,,This is, what color is this?
+Dialogue: 0,0:13:29.14,0:13:31.08,Tanaka,,0,0,0,,Oh my, it's a gold colored case
+Dialogue: 0,0:13:31.08,0:13:34.93,Tanaka,,0,0,0,,Eh, large bills can fit in here
+Dialogue: 0,0:13:32.69,0:13:34.93,Matsumoto,,0,0,180,,It's Director Muranishi
+Dialogue: 0,0:13:32.69,0:13:34.93,Default,,0,0,900,,*TN: b. 1948, Muranishi Tōru is an adult video (AV) director,
+Dialogue: 0,0:13:32.69,0:13:34.93,Default,,0,710,820,,aka "Emperor of Porn"
+Dialogue: 0,0:13:35.76,0:13:39.30,Matsumoto,,0,0,200,,It's "The Naked Director*!"
+Dialogue: 0,0:13:35.76,0:13:39.30,Default,,0,330,900,,*TN: 2019 Muranishi comedy-drama series
+Dialogue: 0,0:13:39.30,0:13:41.70,Matsumoto,,0,0,0,,Always saying it's wide open, spread wide open...
+Dialogue: 0,0:13:41.70,0:13:44.24,Matsumoto Black,,0,0,180,,Somehow it became perverted too
+Dialogue: 0,0:13:43.13,0:13:44.24,Yamasaki,,0,0,0,,Spread wide open huh
+Dialogue: 0,0:13:44.70,0:13:46.20,Hamada,,0,0,0,,Someone quiet in the background, Hamada maybe?
+Dialogue: 0,0:13:45.20,0:13:47.97,Tanaka,,0,0,0,,You get super flustered from this
+Dialogue: 0,0:13:47.31,0:13:50.88,Hamada,,0,0,0,,It's karma because you messed up earlier
+Dialogue: 0,0:13:52.54,0:13:53.64,Matsumoto Special White,,0,0,180,,"Oooh! What is this?"
+Dialogue: 0,0:13:53.64,0:13:56.15,Matsumoto Special White,,0,500,180,,"It's open wide,
+Dialogue: 0,0:13:54.45,0:13:56.15,Matsumoto Special White,,200,0,180,,spread wide open"
+Dialogue: 0,0:13:56.15,0:13:58.92,Yamasaki Special White,,0,0,180,,"Inside there's an open"
+Dialogue: 0,0:13:59.35,0:14:00.92,Matsumoto Big,,0,0,220,,EMBARASSING!!
+Dialogue: 0,0:14:00.92,0:14:03.82,Tanaka,,0,0,0,,You get flustered and panicked doing this
+Dialogue: 0,0:14:02.49,0:14:03.82,Matsumoto,,0,0,0,,I'm so glad I didn't do this
+Dialogue: 0,0:14:03.82,0:14:07.19,Hamada,,0,0,0,,In the end you got two punishments
+Dialogue: 0,0:14:07.19,0:14:09.79,Matsumoto,,0,0,180,,Tanaka you're all over the place today
+Dialogue: 0,0:14:08.59,0:14:11.20,Tanaka,,0,0,0,,No kidding
+Dialogue: 0,0:14:11.20,0:14:13.73,Tanaka,,0,0,0,,I'm really sorry
+Dialogue: 0,0:14:11.20,0:14:13.73,Endo,,0,0,0,,What's the last one?
+Dialogue: 0,0:14:13.73,0:14:16.33,Tanaka,,0,0,0,,I'll spin the roulette
+Dialogue: 1,0:14:14.07,0:14:19.60,Default,,0,800,80,,Deciding the dealer by roulette
+Dialogue: 0,0:14:18.60,0:14:19.60,Matsumoto,,0,0,0,,It's gotta be Endo
+Dialogue: 0,0:14:19.94,0:14:23.37,Endo,,0,0,0,,I do it a lot huh
+Dialogue: 0,0:14:22.04,0:14:23.37,Matsumoto,,0,0,0,,Is it Endo?
+Dialogue: 0,0:14:24.48,0:14:27.51,Tanaka,,0,0,0,,Similar to last time,
+Dialogue: 0,0:14:27.71,0:14:30.35,Tanaka,,0,0,0,,it's a punishment, but
+Dialogue: 0,0:14:30.35,0:14:32.65,Tanaka,,0,0,0,,also like last time,
+Dialogue: 0,0:14:32.65,0:14:34.69,Tanaka,,0,0,0,,it will be an "air" punishment.
+Dialogue: 0,0:14:32.95,0:14:40.19,Default,,0,0,100,,Acting out the punishment through charades
+Dialogue: 0,0:14:37.58,0:14:40.19,Matsumoto,,0,0,0,,Hosei-san you did this ridiculous batsu right
+Dialogue: 0,0:14:40.89,0:14:48.77,Default,,0,0,200,,Last time's batsu, powerful electric shock machine
+Dialogue: 0,0:14:41.30,0:14:48.77,Narrator,,0,0,0,,Hosei had the batsu last time
+Dialogue: 0,0:14:50.00,0:14:53.00,Hamada,,0,0,180,,Right now it's level 2
+Dialogue: 0,0:14:53.88,0:14:55.77,Endo,,0,0,0,,Oh sh*t here it comes
+Dialogue: 0,0:14:55.77,0:14:57.68,Hamada,,0,0,180,,Okay level 3
+Dialogue: 0,0:14:57.68,0:14:59.78,Yamasaki,,0,0,180,,What the f*ck is this!?
+Dialogue: 0,0:15:02.88,0:15:05.25,Hamada,,0,0,180,,Going from 3 to 5
+Dialogue: 0,0:15:03.92,0:15:05.25,Endo,,0,0,0,,3 to 5!
+Dialogue: 0,0:15:05.25,0:15:08.42,Yamasaki,,0,0,0,,Don't increase it so quickly!
+Dialogue: 0,0:15:08.44,0:15:10.79,Matsumoto,,0,0,0,,I wonder why it's like that
+Dialogue: 0,0:15:11.32,0:15:16.49,Narrator,,0,0,0,,Who will get it this time?
+Dialogue: 0,0:15:11.32,0:15:16.49,Default,,0,0,200,,The hellish "Air Batsu Game!"
+Dialogue: 0,0:15:16.76,0:15:18.13,Matsumoto,,0,0,0,,That's gotta be tough
+Dialogue: 0,0:15:18.13,0:15:19.66,Yamasaki Black,,0,0,180,,It's really bad
+Dialogue: 0,0:15:19.66,0:15:22.37,Tanaka,,0,0,0,,This time is also the air punishment game
+Dialogue: 0,0:15:22.37,0:15:24.50,Tanaka,,0,0,0,,The punishment card has already been drawn
+Dialogue: 0,0:15:24.50,0:15:28.47,Endo Black,,0,0,180,,Aren't I supposed to deal the cards?
+Dialogue: 0,0:15:27.15,0:15:27.81,Matsumoto,,0,0,0,,Hmm?
+Dialogue: 0,0:15:30.21,0:15:32.81,Matsumoto,,0,0,180,,Ooooooooooh!
+Dialogue: 0,0:15:31.54,0:15:32.81,Hamada,,0,0,0,,This is crazy
+Dialogue: 0,0:15:33.14,0:15:35.65,Purple Glowing,,0,0,200,,Please nooooooo
+Dialogue: 0,0:15:35.38,0:15:37.08,Hamada,,0,0,0,,Endo you're the dealer right?
+Dialogue: 0,0:15:35.65,0:15:37.08,Tanaka,,0,0,0,,I'm sorry nooooooo
+Dialogue: 0,0:15:37.08,0:15:38.32,Matsumoto,,0,0,0,,Wanna wear that thing again?
+Dialogue: 0,0:15:38.32,0:15:40.48,Tanaka,,0,0,0,,No more nooooooo
+Dialogue: 0,0:15:39.05,0:15:41.75,Matsumoto,,0,0,180,,How about the teapot?
+Dialogue: 0,0:15:40.95,0:15:41.75,Hamada,,0,0,0,,Let's do the teapot
+Dialogue: 0,0:15:41.75,0:15:43.35,Tanaka,,0,0,0,,Teapot!?
+Dialogue: 0,0:15:43.35,0:15:53.40,Default,,800,0,550,,Teapot
+Dialogue: 0,0:15:43.82,0:15:53.40,Purple Glowing,,0,0,200,,Ichirou Furutachi-style live commentary!!
+Dialogue: 0,0:15:44.46,0:15:47.06,Narrator,,0,0,0,,Tanaka messes up the order,
+Dialogue: 0,0:15:47.06,0:15:53.40,Narrator,,0,0,0,,and receives the punishment!
+Dialogue: 0,0:15:53.40,0:15:54.74,Endo,,0,0,0,,3... 2... 1... Go!
+Dialogue: 1,0:15:53.80,0:16:08.41,Default,,1150,0,200,,Teapot
+Dialogue: 0,0:15:54.74,0:15:56.28,Tanaka,,0,0,0,,Oooh, what, what is this
+Dialogue: 0,0:15:56.28,0:15:58.00,Tanaka,,0,0,0,,What has appeared in front of me
+Dialogue: 0,0:15:58.00,0:15:59.94,Tanaka,,0,0,0,,Is this what they call a teapot
+Dialogue: 0,0:15:59.94,0:16:01.87,Tanaka,,0,0,0,,What a mysterious object
+Dialogue: 0,0:16:01.87,0:16:03.21,Tanaka,,0,0,0,,There's the handle part,
+Dialogue: 0,0:16:03.21,0:16:04.86,Tanaka,,0,0,0,,and this part which opens wide
+Dialogue: 0,0:16:06.91,0:16:08.41,Matsumoto,,0,0,0,,Don't say that, "opens wide!"
+Dialogue: 0,0:16:09.51,0:16:12.65,Matsumoto Special White,,0,0,180,,"Is this what they call a teapot?"
+Dialogue: 0,0:16:12.65,0:16:14.25,Matsumoto Big Black,,0,0,250,,No sh*t!
+Dialogue: 0,0:16:17.72,0:16:23.69,Big Title White,,0,0,300,,Final Round
+Dialogue: 0,0:16:18.48,0:16:23.69,Narrator,,0,0,0,,The final round with the "air" batsu at stake!
+Dialogue: 1,0:16:23.69,0:16:58.16,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:16:23.69,0:16:25.93,Hamada,,0,0,0,,These air batsu, aren't you good at them
+Dialogue: 0,0:16:25.73,0:16:27.33,Tanaka Black,,0,0,180,,No way
+Dialogue: 0,0:16:27.33,0:16:28.77,Tanaka,,0,100,180,,I never act my punishments
+Dialogue: 0,0:16:31.18,0:16:32.97,Tanaka,,0,0,0,,Please
+Dialogue: 0,0:16:33.24,0:16:36.57,Yamasaki,,0,0,0,,"Party Poppers in the Mouth"
+Dialogue: 1,0:16:34.77,0:16:38.74,Default,,0,1120,200,,"Party Poppers in the Mouth"
+Dialogue: 1,0:16:34.77,0:16:38.74,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:16:36.57,0:16:38.74,Matsumoto Black,,0,0,180,,It's charades so you can do it all you want
+Dialogue: 0,0:16:38.74,0:16:40.61,Yamasaki,,0,0,0,,Oh, I have another one
+Dialogue: 0,0:16:40.61,0:16:42.61,Yamasaki,,0,0,0,,"Stag Beetle Nose Piercing"
+Dialogue: 1,0:16:40.95,0:16:44.18,Default,,0,1130,200,,Stag Beetle Nose Piercing
+Dialogue: 1,0:16:40.95,0:16:44.18,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:16:42.61,0:16:44.18,Tanaka,,0,0,0,,There are lots of bad ones
+Dialogue: 0,0:16:44.18,0:16:46.55,Matsumoto,,0,0,0,,Woah, this one's terrible
+Dialogue: 0,0:16:46.88,0:16:49.15,Tanaka,,0,200,180,,Alright, so dealer Endo...
+Dialogue: 0,0:16:49.15,0:16:51.46,Tanaka,,0,400,180,,Please...
+Dialogue: 0,0:16:49.65,0:16:51.46,Tanaka,,0,0,180,,proceed...
+Dialogue: 0,0:16:51.89,0:16:54.86,Hamada Black,,0,200,180,,Tell him what he's gotta do
+Dialogue: 0,0:16:53.32,0:16:54.86,Matsumoto,,0,200,0,,Ooooh?
+Dialogue: 0,0:16:55.63,0:16:58.13,Endo,,0,200,0,,This right? Open wide
+Dialogue: 0,0:16:58.16,0:17:00.63,Tanaka,,0,0,0,,Draw from Hosei-san on your right
+Dialogue: 0,0:17:00.63,0:17:01.90,Endo,,0,0,0,,Already only two cards?
+Dialogue: 4,0:16:58.70,0:17:01.90,Safe Golden,,0,0,220,,"Old Man" starts
+Dialogue: 1,0:17:01.90,0:17:44.41,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:17:01.90,0:17:04.80,Hamada,,0,0,0,,Yama-chan, only one card left...
+Dialogue: 0,0:17:03.67,0:17:05.01,Endo,,0,0,0,,I hope I get a match-
+Dialogue: 0,0:17:05.01,0:17:08.02,Endo,,0,0,0,,Yesssssss, yess yessss
+Dialogue: 0,0:17:07.87,0:17:09.87,Yamasaki,,0,0,0,,Wow nice
+Dialogue: 1,0:17:08.37,0:17:12.64,Default,,0,1140,200,,150 kph Spiked Chestnut Shot
+Dialogue: 1,0:17:08.37,0:17:12.64,Hamada,,0,1120,470,,Pair
+Dialogue: 0,0:17:09.08,0:17:12.64,Tanaka,,0,0,0,,So fast
+Dialogue: 0,0:17:09.87,0:17:12.64,Endo,,0,0,0,,"150 kph Spiked Chestnut Shot"
+Dialogue: 0,0:17:14.75,0:17:18.95,Matsumoto,,0,850,300,,If you don't do the batsu
+Dialogue: 0,0:17:15.48,0:17:18.95,Matsumoto Black,,0,200,150,,there's no way you can get a good reaction
+Dialogue: 0,0:17:18.95,0:17:20.79,Hamada,,0,0,180,,Two of you only have one card?
+Dialogue: 0,0:17:20.79,0:17:22.55,Endo,,0,0,0,,Well, but yeah
+Dialogue: 0,0:17:22.55,0:17:24.16,Tanaka,,0,0,0,,A pairrrrr
+Dialogue: 0,0:17:24.16,0:17:28.09,Tanaka,,0,0,0,,"Hot Fried Tofu Bazooka"
+Dialogue: 1,0:17:26.16,0:17:28.09,Default,,0,1140,200,,Hot Fried Tofu Bazooka
+Dialogue: 1,0:17:26.16,0:17:28.09,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:17:28.09,0:17:30.83,Hamada,,0,0,0,,You, gimme somethin'
+Dialogue: 0,0:17:32.03,0:17:34.93,Hamada,,0,0,0,,Oh, I got a match
+Dialogue: 1,0:17:35.27,0:17:37.57,Default,,0,1140,200,,Ramen Noodle Water Shower
+Dialogue: 1,0:17:35.27,0:17:37.57,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:17:35.30,0:17:37.57,Hamada,,0,0,0,,"Ramen Noodle Water Shower"
+Dialogue: 0,0:17:37.57,0:17:41.64,Matsumoto,,0,200,300,,There's no actual punishment so
+Dialogue: 0,0:17:38.54,0:17:41.64,Matsumoto Black,,0,200,150,,they're really writing whatever the f*ck they want
+Dialogue: 0,0:17:41.64,0:17:44.41,Matsumoto,,0,0,0,,These ideas are interesting though
+Dialogue: 1,0:17:44.68,0:18:01.19,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:17:44.96,0:17:48.21,Narrator,,0,0,0,,The first to win is...
+Dialogue: 0,0:17:50.54,0:17:51.68,Endo,,0,0,0,,A pair
+Dialogue: 0,0:17:51.68,0:17:55.32,Endo,,0,0,0,,"Golden Spray to the Face"
+Dialogue: 1,0:17:52.02,0:17:55.32,Default,,0,1140,200,,"Golden Spray to the Face"
+Dialogue: 1,0:17:52.02,0:17:55.32,Hamada,,0,1140,470,,Pair
+Dialogue: 4,0:17:55.62,0:17:59.56,Endo Golden,,0,450,90,,Endo
+Dialogue: 3,0:17:55.62,0:17:59.56,Safe Golden,,200,0,90,,has won!
+Dialogue: 0,0:17:57.66,0:17:59.56,Matsumoto,,0,200,0,,WTF? It's gotta be a record speed
+Dialogue: 0,0:17:59.56,0:18:01.23,Endo,,0,0,0,,Probably the fastest heh
+Dialogue: 0,0:18:01.23,0:18:03.50,Yamasaki,,0,0,180,,Which means... yesssss
+Dialogue: 1,0:18:01.53,0:18:06.83,Default,,0,1050,200,,Cards Remaining
+Dialogue: 0,0:18:03.50,0:18:04.56,Hamada,,0,0,200,,Yama-chan wins too
+Dialogue: 0,0:18:04.56,0:18:06.83,Yamasaki,,0,0,200,,Yesss yes yes yes yes yes yes
+Dialogue: 1,0:18:06.83,0:19:04.26,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:18:09.03,0:18:11.07,Tanaka,,0,0,0,,The f*ck is this
+Dialogue: 0,0:18:09.80,0:18:13.07,Hamada,,0,0,180,,It's Tanaka Day today
+Dialogue: 0,0:18:11.07,0:18:16.74,Tanaka,,0,0,0,,No no no, no way, the viewers won't want it either
+Dialogue: 0,0:18:16.81,0:18:18.18,Tanaka,,0,0,0,,Please
+Dialogue: 0,0:18:18.18,0:18:20.01,Tanaka,,0,0,0,,Yes yes yes, I got one
+Dialogue: 4,0:18:20.01,0:18:22.41,Default,,0,1150,200,,Staff
+Dialogue: 0,0:18:20.01,0:18:22.41,Default,,0,600,150,,Wrong! you're doing it wrong!
+Dialogue: 0,0:18:21.18,0:18:22.41,Tanaka Big,,300,0,650,,EH!?
+Dialogue: 4,0:18:22.95,0:18:27.35,Default,,0,1150,200,,Staff
+Dialogue: 0,0:18:22.95,0:18:27.35,Default,,0,600,150,,Hamada takes a card from Tanaka
+Dialogue: 0,0:18:25.38,0:18:27.35,Hamada,,0,0,0,,Oh me?
+Dialogue: 0,0:18:27.35,0:18:29.59,Hamada,,0,0,0,,And then we continue
+Dialogue: 4,0:18:29.59,0:18:32.96,Default,,0,1150,225,,Staff
+Dialogue: 0,0:18:29.59,0:18:32.96,Narrator,,0,600,150,,It was Tanaka's mistake
+Dialogue: 0,0:18:31.12,0:18:32.96,Tanaka,,0,0,0,,He just said it
+Dialogue: 0,0:18:33.16,0:18:35.36,Tanaka Black,,0,200,180,,He just said it so clearly now
+Dialogue: 0,0:18:33.66,0:18:35.36,Hamada,,0,200,0,,What the f*ck man
+Dialogue: 0,0:18:35.36,0:18:37.80,Tanaka,,0,0,0,,No no , please, really
+Dialogue: 0,0:18:38.16,0:18:41.10,Purple White special sub,,0,200,200,,I'll quit being moderator
+Dialogue: 0,0:18:41.10,0:18:43.63,Tanaka,,0,0,0,,Really, I'm reflecting on my mistakes
+Dialogue: 0,0:18:41.77,0:18:43.63,Matsumoto,,0,0,0,,We'll be in trouble if you do though
+Dialogue: 0,0:18:43.63,0:18:45.70,Tanaka,,0,0,0,,Please, one more chance
+Dialogue: 0,0:18:45.70,0:18:47.91,Tanaka,,0,0,0,,I've got this drilled in my head now
+Dialogue: 0,0:18:47.91,0:18:49.64,Matsumoto,,0,200,180,,There's no next time alright
+Dialogue: 0,0:18:49.64,0:18:51.18,Tanaka,,0,200,0,,But wait
+Dialogue: 0,0:18:51.18,0:18:52.68,Tanaka,,0,200,0,,I didn't notice my mistake so
+Dialogue: 0,0:18:52.68,0:18:55.95,Tanaka,,0,200,180,,this might repeat many times over
+Dialogue: 0,0:18:55.95,0:18:57.88,Tanaka,,0,200,0,,It's scary
+Dialogue: 0,0:18:56.74,0:18:57.88,Matsumoto,,0,200,0,,That's true
+Dialogue: 0,0:18:57.88,0:19:00.85,Tanaka,,0,200,0,,If I can get a hang of it,
+Dialogue: 0,0:19:00.85,0:19:04.26,Tanaka,,0,200,0,,I can repent my mistakes
+Dialogue: 0,0:19:01.55,0:19:04.26,Matsumoto,,0,200,0,,{\i1}If{\i0} you can get a hang of it
+Dialogue: 0,0:19:03.12,0:19:04.26,Hamada,,0,200,0,,True
+Dialogue: 0,0:19:04.89,0:19:10.19,Default,,0,0,180,,Hamada draws to win
+Dialogue: 0,0:19:04.89,0:19:06.89,Matsumoto,,0,0,0,,Today really is Tanaka Day huh
+Dialogue: 0,0:19:06.89,0:19:09.33,Hamada,,0,0,0,,Tanaka gimme GIMME
+Dialogue: 0,0:19:09.33,0:19:12.73,Hamada,,0,0,0,,Damn, first time seeing this
+Dialogue: 1,0:19:10.19,0:19:30.98,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:19:11.14,0:19:12.73,Matsumoto,,0,0,0,,I think it's fine if Tanaka gets it
+Dialogue: 0,0:19:12.73,0:19:17.40,Tanaka,,0,0,0,,No not happening, someone else
+Dialogue: 0,0:19:17.90,0:19:20.14,Matsumoto,,0,0,0,,Ah, I got one
+Dialogue: 0,0:19:20.14,0:19:23.64,Matsumoto,,0,0,0,,"Turtle Shell Bondage Swing"
+Dialogue: 1,0:19:21.44,0:19:30.98,Default,,0,1125,200,,Turtle Shell Bondage Swing
+Dialogue: 1,0:19:21.44,0:19:30.98,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:19:23.64,0:19:25.54,Endo Black,,0,0,180,,How the hell do you act that out
+Dialogue: 0,0:19:25.54,0:19:27.44,Yamasaki,,0,0,0,,Turtle shell bondage...
+Dialogue: 0,0:19:27.44,0:19:30.98,Matsumoto,,0,0,0,,The bondage part has nothing to do with it
+Dialogue: 0,0:19:29.81,0:19:30.98,Endo,,0,0,0,,Can't act that part out
+Dialogue: 1,0:19:31.58,0:19:36.49,Default,,0,1050,200,,Cards Remaining
+Dialogue: 1,0:19:31.58,0:19:36.49,Default,,700,0,200,,Matsumoto draws to win
+Dialogue: 0,0:19:31.58,0:19:32.94,Matsumoto,,0,0,0,,Alright, I'm gonna finish this
+Dialogue: 0,0:19:32.94,0:19:34.66,Narrator,,0,0,0,,Then...
+Dialogue: 0,0:19:35.30,0:19:36.49,Matsumoto,,0,0,0,,I wanna {\i1}win{\i0}
+Dialogue: 1,0:19:36.49,0:20:37.85,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:19:40.49,0:19:43.76,Matsumoto,,0,0,0,,It's "Wasabi Soy Sauce Eyedrops"
+Dialogue: 1,0:19:40.82,0:19:43.76,Default,,0,1140,200,,Wasabi Soy Sauce Eyedrops
+Dialogue: 1,0:19:40.82,0:19:43.76,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:19:43.76,0:19:45.76,Hamada,,0,0,0,,Huh he got a pair...
+Dialogue: 0,0:19:44.63,0:19:46.50,Matsumoto,,0,0,200,,So?
+Dialogue: 0,0:19:46.50,0:19:47.87,Hamada,,0,200,180,,No no, {\c&H000000&}ask Tanaka what to do next
+Dialogue: 0,0:19:47.87,0:19:50.46,Hamada,,0,200,180,,What should he do?
+Dialogue: 0,0:19:50.73,0:19:52.73,Matsumoto,,0,0,0,,If he doesn't get this...
+Dialogue: 0,0:19:53.07,0:19:56.47,Tanaka,,0,900,180,,The cards are always
+Dialogue: 0,0:19:54.34,0:19:56.47,Tanaka,,210,0,180,,drawn from the person to the right
+Dialogue: 0,0:19:55.44,0:19:56.47,Matsumoto,,0,200,0,,Right, right
+Dialogue: 0,0:19:56.47,0:20:00.04,Tanaka,,0,200,0,,The cards are alw-
+Dialogue: 0,0:19:57.84,0:20:02.01,Hamada,,0,200,200,,So tell him what's he supposed to do
+Dialogue: 0,0:20:02.01,0:20:09.59,Tanaka,,0,800,320,,Matsumoto-san just...
+Dialogue: 0,0:20:03.75,0:20:09.59,Tanaka,,0,700,160,,matched the cards titled
+Dialogue: 0,0:20:05.62,0:20:09.59,Tanaka,,400,0,160,,"Wasabi Soy Sauce Eyedrops"
+Dialogue: 0,0:20:09.59,0:20:11.09,Matsumoto Big Black,,0,100,200,,Don't just regurgitate facts
+Dialogue: 0,0:20:11.09,0:20:15.06,Hamada,,0,0,0,,Yeah, tell us what to do next
+Dialogue: 0,0:20:13.28,0:20:15.06,Matsumoto,,0,0,0,,Everyone knows what you just said
+Dialogue: 0,0:20:15.43,0:20:21.40,Tanaka,,0,350,180,,Matsumoto just got a pair, so...
+Dialogue: 0,0:20:17.80,0:20:21.40,Tanaka,,600,0,180,,now...
+Dialogue: 0,0:20:24.20,0:20:27.50,Hamada Big Black,,0,150,200,,Yama-chan draws right?
+Dialogue: 0,0:20:25.84,0:20:27.50,Tanaka,,0,100,0,,Yes, ri-, yes
+Dialogue: 0,0:20:27.50,0:20:29.91,Yamasaki,,0,100,0,,I draw from Matsumoto-san,
+Dialogue: 0,0:20:29.91,0:20:31.91,Yamasaki,,0,200,0,,Matsumoto-san wins
+Dialogue: 4,0:20:30.21,0:20:33.64,Matsumoto Golden,,0,650,90,,Matsumoto
+Dialogue: 3,0:20:30.21,0:20:33.64,Safe Golden,,200,0,90,,has won!
+Dialogue: 0,0:20:31.91,0:20:35.58,Hamada,,0,200,0,,Yama-chan if this matches...
+Dialogue: 0,0:20:34.21,0:20:36.21,Yamasaki,,0,200,0,,Yeah, then I win
+Dialogue: 0,0:20:36.21,0:20:37.85,Yamasaki,,0,0,0,,No match
+Dialogue: 1,0:20:38.12,0:20:42.89,Default,,0,1050,200,,Cards Remaining
+Dialogue: 0,0:20:39.22,0:20:40.32,Yamasaki,,0,0,200,,It's all down to this
+Dialogue: 0,0:20:40.32,0:20:42.32,Hamada,,0,0,200,,It was so fast
+Dialogue: 0,0:20:40.32,0:20:42.61,Tanaka,,0,0,200,,It's been narrowed down to us
+Dialogue: 0,0:20:44.49,0:20:47.99,Narrator,,0,0,0,,Narrowed down to the last three!
+Dialogue: 0,0:20:47.99,0:20:52.33,Narrator,,0,0,0,,Who will get the air batsu?
+Dialogue: 1,0:20:52.33,0:21:06.38,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:20:52.33,0:20:54.10,Tanaka,,0,0,0,,It's gotta be this one
+Dialogue: 0,0:20:56.90,0:20:58.60,Tanaka,,0,0,0,,Yess got a pair
+Dialogue: 0,0:20:58.60,0:21:01.41,Tanaka,,0,0,0,,I got a pair
+Dialogue: 0,0:20:59.58,0:21:01.41,Yamasaki,,0,0,0,,Wait hold up
+Dialogue: 0,0:21:01.41,0:21:04.01,Tanaka,,0,0,0,,"Tickle Hell"
+Dialogue: 1,0:21:01.74,0:21:06.38,Default,,0,1140,200,,Tickle Hell
+Dialogue: 1,0:21:01.74,0:21:06.38,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:21:02.61,0:21:04.01,Matsumoto,,0,0,0,,I also hate this one
+Dialogue: 0,0:21:04.01,0:21:06.38,Matsumoto,,0,0,0,,It was suck to do a charade of this
+Dialogue: 0,0:21:06.38,0:21:10.25,Hamada,,0,0,0,,Damn, down to this one card?
+Dialogue: 0,0:21:06.78,0:21:11.62,Default,,0,0,180,,Hamada draws to win
+Dialogue: 0,0:21:09.14,0:21:10.35,Tanaka,,0,0,0,,It's all down to this
+Dialogue: 0,0:21:10.35,0:21:11.62,Tanaka,,0,0,0,,No wait, I have two cards
+Dialogue: 1,0:21:11.62,0:21:40.01,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:21:11.62,0:21:12.98,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:21:12.15,0:21:14.18,Tanaka Big,,350,0,360,,OOOOOOH!
+Dialogue: 0,0:21:13.68,0:21:15.42,Yamasaki,,0,0,0,,What was that now
+Dialogue: 0,0:21:14.18,0:21:15.42,Tanaka,,0,0,0,,Ooooh?
+Dialogue: 0,0:21:16.62,0:21:18.42,Tanaka,,0,0,0,,Did you see that now
+Dialogue: 0,0:21:18.69,0:21:21.43,Tanaka,,0,600,180,,Away from the camera
+Dialogue: 0,0:21:19.79,0:21:21.43,Tanaka Black,,300,0,180,,he kicked my left foot
+Dialogue: 0,0:21:22.14,0:21:23.43,Hamada,,0,200,0,,Hurry up and gimme
+Dialogue: 0,0:21:23.43,0:21:27.87,Hamada,,0,0,0,,Just one card
+Dialogue: 0,0:21:24.36,0:21:27.86,Tanaka,,0,0,0,,It's down to this
+Dialogue: 0,0:21:29.94,0:21:32.28,Yamasaki,,0,0,0,,What's going on
+Dialogue: 0,0:21:35.28,0:21:40.01,Hamada,,0,0,0,,"Billiards Ball Enema"
+Dialogue: 4,0:21:38.11,0:21:40.01,Hamada Golden,,0,350,90,,Hamada
+Dialogue: 3,0:21:38.11,0:21:40.01,Safe Golden,,400,0,90,,has won!
+Dialogue: 1,0:21:38.14,0:21:40.01,Default,,0,1140,200,,Billiards Ball Enema
+Dialogue: 1,0:21:38.14,0:21:40.01,Hamada,,0,1140,470,,Pair
+Dialogue: 0,0:21:40.38,0:21:50.32,Default,,0,0,180,,Hosei draws to win
+Dialogue: 0,0:21:41.61,0:21:44.06,Endo,,0,0,0,,Hamada-san you won right
+Dialogue: 0,0:21:44.06,0:21:47.05,Endo,,0,0,0,,So if this card matches one of Hosei-san's,
+Dialogue: 0,0:21:47.10,0:21:50.32,Yamasaki,,0,0,0,,If this matches with mine
+Dialogue: 0,0:21:48.50,0:21:50.32,Endo,,0,0,0,,then you win too
+Dialogue: 0,0:21:51.72,0:21:57.19,Narrator,,0,0,0,,Who will get the air batsu!? Hosei, or Tanaka!?
+Dialogue: 0,0:21:57.36,0:22:01.10,Matsumoto,,0,0,0,,It's worth seeing either of them do the batsu
+Dialogue: 1,0:21:57.19,0:22:18.58,Matsumoto,,1160,0,400,,Joker
+Dialogue: 0,0:21:57.36,0:22:01.10,Tanaka,,0,0,0,,No no no please no I'm good
+Dialogue: 0,0:22:01.10,0:22:02.40,Yamasaki,,0,0,0,,Okay
+Dialogue: 0,0:22:03.12,0:22:04.90,Tanaka,,0,0,0,,Please...PLEASE...
+Dialogue: 0,0:22:04.90,0:22:05.57,Tanaka,,0,0,0,,STOP!!!!!
+Dialogue: 0,0:22:05.57,0:22:09.07,Hamada,,0,0,0,,Looking good
+Dialogue: 0,0:22:06.88,0:22:09.07,Matsumoto,,0,0,0,,All-out
+Dialogue: 0,0:22:09.07,0:22:10.64,Matsumoto,,0,0,180,,Can you even see?
+Dialogue: 0,0:22:11.20,0:22:12.51,Endo,,0,0,0,,Can you even read the card
+Dialogue: 0,0:22:12.51,0:22:14.75,Matsumoto,,0,0,0,,That face was on Shouten*
+Dialogue: 0,0:22:12.51,0:22:14.75,Matsumoto,,0,0,900,,*TN: variety comedy show
+Dialogue: 0,0:22:13.44,0:22:14.75,Hamada,,0,0,0,,Yama-chan you can do it
+Dialogue: 1,0:22:15.35,0:22:18.58,Default,,0,1140,200,,Super Boiled Water Bath
+Dialogue: 1,0:22:15.35,0:22:18.58,Hamada,,0,1140,470,,Pair
+Dialogue: 4,0:22:16.61,0:22:18.58,Yamasaki Golden,,0,270,100,,Hosei
+Dialogue: 3,0:22:16.61,0:22:18.58,Safe Golden,,400,0,100,,has won!
+Dialogue: 0,0:22:21.42,0:22:24.09,Matsumoto,,0,0,0,,It's gotta be that way
+Dialogue: 0,0:22:22.62,0:22:24.09,Hamada,,0,0,0,,It was decided for him
+Dialogue: 0,0:22:24.09,0:22:26.49,Matsumoto,,0,0,180,,Tanaka today is just like that
+Dialogue: 0,0:22:26.49,0:22:29.69,Tanaka,,0,0,0,,I don't want this really
+Dialogue: 0,0:22:29.69,0:22:30.89,Matsumoto,,0,0,0,,So what is it Tanaka-san?
+Dialogue: 0,0:22:30.89,0:22:32.76,Tanaka,,0,0,0,,"Giant Metal Tub Drop"
+Dialogue: 0,0:22:32.76,0:22:35.90,Matsumoto,,0,0,0,,"Giant Metal Tub Drop" it is
+Dialogue: 0,0:22:36.80,0:22:44.01,Narrator,,0,0,0,,Air Batsu "Giant Metal Tub Drop"
+Dialogue: 0,0:22:37.42,0:22:44.01,Narrator,,0,0,220,,Loser Tanaka gets the air punishment game!
+Dialogue: 0,0:22:44.01,0:22:45.98,Hamada,,0,0,0,,This is really scary Tanaka
+Dialogue: 0,0:22:45.98,0:22:47.75,Matsumoto Black,,0,0,180,,It seems to be huge
+Dialogue: 0,0:22:47.75,0:22:49.95,Tanaka,,0,0,0,,It's huge?
+Dialogue: 0,0:22:48.48,0:22:49.95,Matsumoto,,0,0,0,,Gigantic
+Dialogue: 0,0:22:49.95,0:22:51.42,Hamada,,0,0,0,,Alright are we ready?
+Dialogue: 0,0:22:51.42,0:22:53.42,Tanaka,,0,0,0,,Have you never seen one this big?
+Dialogue: 0,0:22:54.85,0:22:58.79,Matsumoto Black,,0,0,180,,It's about the same size as the studio
+Dialogue: 0,0:22:58.79,0:23:00.89,Tanaka,,0,0,180,,No I can't do this
+Dialogue: 0,0:23:00.89,0:23:03.48,Hamada,,0,0,0,,Alright, Tanaka-san
+Dialogue: 0,0:23:03.46,0:23:05.42,Hamada,,0,0,0,,"Giant Metal Tub Drop"
+Dialogue: 0,0:23:05.43,0:23:06.80,Hamada,,0,0,0,,please proceed!
+Dialogue: 0,0:23:21.78,0:23:23.18,Endo,,0,0,0,,This looks so painful
+Dialogue: 0,0:23:23.18,0:23:25.38,Hamada,,0,0,0,,It's what he does all the time
+Dialogue: 0,0:23:24.38,0:23:25.38,Matsumoto,,0,0,0,,The usual
+Dialogue: 0,0:23:26.34,0:23:28.59,Hamada,,0,0,0,,The usual faking
+Dialogue: 0,0:23:28.89,0:23:31.49,Matsumoto,,0,0,0,,And it's so long
+Dialogue: 0,0:23:31.49,0:23:35.23,Matsumoto,,0,0,0,,And he's trying really hard to improve his act
+Dialogue: 0,0:23:36.84,0:23:38.43,Hamada,,0,0,0,,We're always seeing this
+Dialogue: 0,0:23:38.43,0:23:41.20,Hamada,,0,0,0,,Sure enough we got it on film
+Dialogue: 0,0:23:41.20,0:23:43.07,Tanaka,,0,0,0,,Thank you very much
+

@@ -1,0 +1,151 @@
+﻿[Script Info]
+Title: Default SSA V4+ (ASS)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: electriceel.mp4
+Video File: electriceel.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 9
+Active Line: 10
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00109038,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Box,Arial,54,&HFFFFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+Style: Rubi,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: Narrator,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,50,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: miyasako,Arial,50,&H000081DB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: WHITETEXT,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&HFF000000,-1,0,0,0,100,100,0,0,1,2,4,2,11,11,15,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,185.951,100,0,0,3,36.6666,1.46666,5,9,9,8,1
+Style: Narrator - Copy,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,11,11,15,1
+Style: Yellow announcment,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H3C5E3C06,-1,0,0,0,100,100,0,0,1,2.93333,5,2,9,9,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:00.31,0:01:02.31,Default,,0,0,0,,{\fade(1800,0}{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx1143\fscy1042\pos(1589.333,1172)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Comment: 0,0:02:30.40,0:02:30.43,Yellow announcment,,0,0,0,,TITLE
+Comment: 0,0:02:30.40,0:02:30.43,Yellow announcment,,0,0,0,,End
+Dialogue: 0,0:00:00.00,0:00:04.62,Smogo,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx53\fscy56\pos(382.4,712.4)}For more, please visit: http://tofupandas.tumblr.com/matsumotoke\N
+Dialogue: 0,0:00:00.28,0:00:04.62,Smogo,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H399306&\fscx106\fscy101\pos(804.001,140.533)}The Matsumoto family's\N
+Dialogue: 0,0:00:00.28,0:00:04.62,Smogo,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H030FCA&\fscx106\fscy101\pos(804.001,193.867)}Day off\N
+Dialogue: 0,0:00:04.62,0:00:06.75,Narrator,,0,0,0,,Do you know what this is?
+Dialogue: 0,0:00:06.75,0:00:09.36,miyasako,,0,0,0,,Wow, it's an electric eel!
+Dialogue: 0,0:00:09.36,0:00:11.29,miyasako,,0,0,0,,It's an electric eel
+Dialogue: 0,0:00:10.16,0:00:11.29,Default,,0,0,0,,Woah, you're right!
+Dialogue: 0,0:00:11.29,0:00:14.09,Narrator,,0,0,0,,It's an electric eel however, isn't it amazing?
+Dialogue: 0,0:00:14.09,0:00:18.56,Narrator,,0,0,0,,About 90% of its body is electric\N
+Dialogue: 0,0:00:18.56,0:00:21.70,Narrator,,0,0,0,,It's internal organs go like this and contract together
+Dialogue: 0,0:00:21.70,0:00:24.57,miyasako,,0,0,0,,I've seen it on video before\N
+Dialogue: 0,0:00:24.57,0:00:26.91,miyasako,,0,0,0,,Someone tried swimming past a huge electric eel\N
+Dialogue: 0,0:00:26.91,0:00:30.44,miyasako,,0,0,0,,and then got electrocuted and just fell dead...\N
+Dialogue: 0,0:00:30.44,0:00:33.41,Default,,0,0,0,,How many volts does it give off?\N
+Dialogue: 0,0:00:31.71,0:00:33.41,Narrator,,0,0,0,,About 800 volts.\N
+Dialogue: 0,0:00:33.41,0:00:35.78,Default,,0,0,0,,800 volts??
+Dialogue: 0,0:00:34.51,0:00:35.78,miyasako,,0,0,0,,You'd die
+Dialogue: 0,0:00:35.78,0:00:38.18,Default,,0,0,0,,You'd die definitely
+Dialogue: 0,0:00:36.55,0:00:38.18,miyasako,,0,0,0,,If you happened to step on one you'd die
+Dialogue: 0,0:00:38.18,0:00:39.82,Narrator,,0,0,0,,It's quite crude isn't it?
+Dialogue: 0,0:00:39.82,0:00:42.42,Narrator,,0,0,0,,So we wanted to let you feel
+Dialogue: 0,0:00:42.42,0:00:45.43,Narrator,,0,0,0,,how the very food we give it feels like
+Dialogue: 0,0:00:45.43,0:00:48.53,Narrator,,0,0,0,,when it gets electrocuted
+Dialogue: 0,0:00:48.53,0:00:52.57,Narrator,,0,0,0,,So we created this thing here...
+Dialogue: 0,0:00:49.86,0:00:52.57,miyasako,,0,0,0,,Oh no this is scary... Electricity?
+Dialogue: 0,0:00:54.70,0:00:57.37,Default,,0,0,0,,Huh? What is this?
+Dialogue: 0,0:00:57.37,0:00:59.61,Matsumoto,,0,0,0,,I have nothing but a bad feeling about this
+Dialogue: 0,0:00:59.61,0:01:05.58,WHITETEXT,,0,0,0,,{\fscx111\fscy113\move(785.6,582.4,726.4,582.4,8000,0)}Experience the feeling of
+Dialogue: 0,0:00:59.61,0:01:05.58,WHITETEXT,,0,0,0,,{\fscx111\fscy113\move(785.6,649.6,726.4,649.6,8000,0)}being attacked by an electric eel
+Dialogue: 0,0:01:07.72,0:01:10.99,miyasako,,0,0,0,,Huh? Is it connected to that over there?
+Dialogue: 0,0:01:08.95,0:01:10.99,Narrator,,0,0,0,,Yes it is
+Dialogue: 0,0:01:10.99,0:01:12.79,Narrator,,0,0,0,,It's linked together
+Dialogue: 0,0:01:12.79,0:01:14.96,miyasako,,0,0,0,,If it's 800 volts It's gonna kill us
+Dialogue: 0,0:01:14.96,0:01:17.36,Narrator,,0,0,0,,Well not really, It's obviously...
+Dialogue: 0,0:01:16.62,0:01:17.36,Matsumoto,,0,0,0,,Lowered?
+Dialogue: 0,0:01:17.36,0:01:20.06,Narrator,,0,0,0,,Yes, You're gonna get to feel the current together.
+Dialogue: 0,0:01:20.06,0:01:22.80,Matsumoto,,0,0,0,,Why the hell?
+Dialogue: 0,0:01:21.76,0:01:22.80,Narrator,,0,0,0,,Well, that's what it does.
+Dialogue: 0,0:01:22.80,0:01:24.47,Default,,0,0,0,,Are we gonna put our hands in the water here?
+Dialogue: 0,0:01:24.47,0:01:26.13,Narrator,,0,0,0,,Well..
+Dialogue: 0,0:01:25.03,0:01:26.13,Matsumoto,,0,0,0,,Just one person?
+Dialogue: 0,0:01:26.13,0:01:27.80,Narrator,,0,0,0,,there are two openings but
+Dialogue: 0,0:01:27.80,0:01:29.67,Narrator,,0,0,0,,If you were to do it with 2 hands
+Dialogue: 0,0:01:29.67,0:01:32.21,Narrator,,0,0,0,,the current would be too strong, that's why we do one hand only.
+Dialogue: 0,0:01:32.21,0:01:35.91,Matsumoto,,0,0,0,,Ugh, okay this is way too scary...
+Dialogue: 0,0:01:33.88,0:01:35.91,Default,,0,0,0,,This is so bad!
+Dialogue: 0,0:01:35.91,0:01:39.31,Default,,0,0,0,,This is seriously bad. We have to decide this by rock-paper-scissors...
+Dialogue: 0,0:01:39.31,0:01:42.98,Default,,0,0,0,,the person who loses HAS to freaking to this.
+Dialogue: 0,0:01:40.82,0:01:42.98,Matsumoto,,0,0,0,,Let's do guppa first and decide from that
+Dialogue: 0,0:01:42.98,0:01:45.49,Default,,0,0,0,,Right, decide the teams first? Okay.
+Dialogue: 0,0:01:53.46,0:01:56.10,Default,,0,0,0,,It's always you two, haha
+Dialogue: 0,0:01:56.10,0:01:58.93,Matsumoto,,0,0,0,,Of course, it's always us...
+Dialogue: 0,0:01:58.93,0:02:01.77,Matsumoto,,0,0,0,,Now we choose a representitive...
+Dialogue: 0,0:02:01.77,0:02:04.54,Matsumoto,,0,0,0,,I'll go then
+Dialogue: 0,0:02:03.74,0:02:04.54,miyasako,,0,0,0,,Ok, you go
+Dialogue: 0,0:02:04.54,0:02:07.71,Default,,0,0,0,,Imma lose for sure! I won't be able to do it
+Dialogue: 0,0:02:07.71,0:02:10.05,Default,,0,0,0,,despite going against the boss
+Dialogue: 0,0:02:09.08,0:02:10.05,miyasako,,0,0,0,,Don't worry you can do it
+Dialogue: 0,0:02:10.05,0:02:11.61,miyasako,,0,0,0,,Kenji, go already
+Dialogue: 0,0:02:10.98,0:02:11.61,Default,,0,0,0,,Alright, got it!
+Dialogue: 0,0:02:11.61,0:02:13.72,Default,,0,0,0,,Alright we know what's gonna happen let's go
+Dialogue: 0,0:02:15.85,0:02:19.05,miyasako,,0,0,0,,YES!!
+Dialogue: 0,0:02:19.05,0:02:22.06,Default,,0,0,0,,We did it!
+Dialogue: 0,0:02:22.06,0:02:24.26,miyasako,,0,0,0,,That was close, I was gonna throw paper...
+Dialogue: 0,0:02:24.26,0:02:26.83,Matsumoto,,0,0,0,,Hang on a second head chief. Are we really okay?
+Dialogue: 0,0:02:26.83,0:02:28.06,Narrator,,0,0,0,,Yeah you're fine!
+Dialogue: 0,0:02:28.06,0:02:30.40,Matsumoto,,0,0,0,,He says fine but there's no way...
+Dialogue: 0,0:02:30.40,0:02:36.37,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\pos(1589.333,1172)\fscx828\fscy699}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:02:30.40,0:02:36.37,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx828\fscy699\pos(1771.2,939.2)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:02:30.40,0:02:36.37,Yellow announcment,,0,0,0,,{\pos(550.4,260.8)}Mom and
+Dialogue: 0,0:02:30.40,0:02:36.37,Yellow announcment,,0,0,0,,{\pos(774.4,499.2)}Just like an electric eel's
+Dialogue: 0,0:02:30.40,0:02:36.37,Yellow announcment,,0,0,0,,{\fscx166\fscy181\pos(896,627.2)}Prey...
+Dialogue: 0,0:02:30.40,0:02:36.37,Yellow announcment,,0,0,0,,{\fscx81\fscy82\pos(812.8,332.8)}Sadako get an electric shock!
+Dialogue: 0,0:02:36.67,0:02:42.75,Narrator,,0,0,0,,Put ONE of your hands on the plate down there please
+Dialogue: 0,0:02:42.75,0:02:46.22,Default,,0,0,0,,Wow! This is scary
+Dialogue: 0,0:02:44.61,0:02:46.22,miyasako,,0,0,0,,Put it on the plate..
+Dialogue: 0,0:02:48.62,0:02:50.22,Matsumoto,,0,0,0,,Oh this is so awful...
+Dialogue: 0,0:02:50.22,0:02:51.75,Matsumoto,,0,0,0,,This kind of thing is just...
+Dialogue: 0,0:02:51.75,0:02:55.66,Matsumoto,,0,0,0,,THIS IS SO FREAKING SCARY!!
+Dialogue: 0,0:02:56.46,0:02:58.43,miyasako,,0,0,0,,Let's get to it then..
+Dialogue: 0,0:02:58.43,0:03:02.47,Matsumoto,,0,0,0,,Aah! This is so freaking scary! So scary!
+Dialogue: 0,0:03:02.47,0:03:05.80,Matsumoto,,0,0,0,,No! no! no! I can't!
+Dialogue: 0,0:03:05.80,0:03:07.44,Matsumoto,,0,0,0,,I'm not kidding, this is bad
+Dialogue: 0,0:03:07.44,0:03:09.14,Narrator,,0,0,0,,Alright so the food is gonna come out from behind here
+Dialogue: 0,0:03:09.14,0:03:12.24,Narrator,,0,0,0,,Okay, it's dropped
+Dialogue: 0,0:03:10.11,0:03:12.24,miyasako,,0,0,0,,They dropped it now
+Dialogue: 0,0:03:12.24,0:03:14.08,miyasako,,0,0,0,,Oh, it's coming out now
+Dialogue: 0,0:03:14.08,0:03:16.01,Narrator,,0,0,0,,It's looking for it now
+Dialogue: 0,0:03:16.01,0:03:18.38,miyasako,,0,0,0,,It hasn't found it yet
+Dialogue: 0,0:03:18.38,0:03:20.88,miyasako,,0,0,0,,Not yet huh? Is it coming?
+Dialogue: 0,0:03:20.88,0:03:24.65,miyasako,,0,0,0,,Alright not yet, not yet
+Dialogue: 0,0:03:24.65,0:03:27.02,Matsumoto,,0,0,0,,{\i1}I can't bare this... I can't bear this{\i0}
+Dialogue: 0,0:03:27.02,0:03:30.06,Matsumoto,,0,0,0,,{\i1}I can't fucking bear this...{\i0}
+Dialogue: 0,0:03:30.06,0:03:32.93,miyasako,,0,0,0,,Oh, it's found it! It's found it!
+Dialogue: 0,0:03:34.63,0:03:36.50,Matsumoto,,0,0,0,,AAHHHH!!!
+Dialogue: 0,0:03:41.57,0:03:44.44,miyasako,,0,0,0,,Oh, it's found it! It's found it!
+Dialogue: 0,0:03:46.34,0:03:47.98,Matsumoto,,0,0,0,,AAHHHH!!!
+Dialogue: 0,0:03:52.98,0:03:56.79,miyasako,,0,0,0,,Hahaha! You broke it!
+Dialogue: 0,0:04:20.28,0:04:25.18,miyasako,,0,0,0,,You broke it!
+Dialogue: 0,0:04:21.48,0:04:25.18,Default,,0,0,0,,Hahahaha you broke it!
+Dialogue: 0,0:04:25.18,0:04:27.22,Matsumoto,,0,0,0,,Wow we got the full blow didn't we?
+Dialogue: 0,0:04:27.22,0:04:29.02,Matsumoto,,0,0,0,,That hurt!
+Dialogue: 0,0:04:29.02,0:04:30.69,Matsumoto,,0,0,0,,This is...
+Dialogue: 0,0:04:33.42,0:04:36.09,Matsumoto,,0,0,0,,With this freak over here
+Dialogue: 0,0:04:37.66,0:04:38.60,miyasako,,0,0,0,,This is amazing
+Dialogue: 0,0:04:38.60,0:04:41.20,miyasako,,0,0,0,,This is the first time we see sada like this
+Dialogue: 0,0:04:47.81,0:04:50.64,Default,,0,0,0,,{\fade(2800,0)\fscx1070\fscy1046\pos(1552,1164.8)}{\p1\4c&H000000&\3c&H000000&\c&H000000&\pos(1771.2,939.2)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:04:39.73,0:04:41.20,Matsumoto,,0,0,0,,{\c&HBC39AF&}It surprised me..
+Dialogue: 0,0:04:41.20,0:04:44.34,Matsumoto,,0,0,0,,It really did...
+Dialogue: 0,0:04:44.34,0:04:50.64,miyasako,,0,0,0,,I'm so happy we didn't get picked
+Dialogue: 0,0:04:47.37,0:04:50.64,Matsumoto,,0,0,0,,The head chief definitely gave us a shock
+Dialogue: 0,0:00:00.00,0:04:50.64,Default,,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\3a&HFF&\4c&H000000&\4a&HFF&\fscx60\fscy64\pos(133.333,38.667)}Subbed by: Otviss
+

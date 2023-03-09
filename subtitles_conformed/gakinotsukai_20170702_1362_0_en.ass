@@ -1,0 +1,752 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: D:/Downloads/gaki/Gaki_170702_#1362_No-Reaction Challenge (2).mp4
+Video File: D:/Downloads/gaki/Gaki_170702_#1362_No-Reaction Challenge (2).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 461
+Active Line: 482
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,20,20,20,1
+Style: new,Arial,135,&H00565B6C,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,11.25,0,2,17,17,11,1
+Style: seconds,Arial,90,&H001401EF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,74.9415,100,0,0,1,6.75,0,2,17,17,23,1
+Style: whoa,Arial,59,&H0013FFF7,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,74.9415,100,0,0,1,4.5,2.25,2,17,17,23,1
+Style: battlefield,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,74.9415,100,0,0,1,4.5,0,2,17,17,23,1
+Style: 2,Arial,41,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,74.9415,100,0,0,1,6.75,0,2,17,17,23,1
+Style: drone,Arial,55,&H00FFFFFF,&H000000FF,&H00FE0103,&H00000000,-1,0,0,0,74.9415,100,0,0,1,5,0,2,17,17,23,1
+Style: rfd,Arial,90,&H000B006A,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,74.9415,100,0,0,1,3,2,2,17,17,23,1
+Style: ijiri,Arial,68,&H007D0C1D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,74.9415,100,0,0,1,4.5,3.375,2,17,17,23,1
+Style: until,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,74.9415,100,0,0,1,6.75,0,2,17,17,23,1
+Style: 7,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,74.9415,100,0,0,1,4.5,4.5,2,17,17,23,1
+Style: 8,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,74.9415,100,0,0,1,4.5,4.5,2,17,17,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,{\pos(1200,100)}Subbed by: Mei.ka~
+Dialogue: 0,0:00:03.75,0:00:09.45,Default,,0,0,0,,A battle will determine who can stay calm no matter what happens.\NThis is the No-Reaction King Tournament.
+Dialogue: 0,0:00:09.89,0:00:11.79,Default,,0,0,0,,What a pathetic little voice!!
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(101.171,753.75)}Tanaka
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(202.342,753.75)}Housei
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\fad(100,0)\pos(311.944,753.75)}Hamada
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(522.717,753.75)}Endo
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(623.888,753.75)}Matoba
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(733.489,753.75)}Matsu-\Nmoto
+Dialogue: 0,0:00:11.96,0:00:22.70,2,,0,0,0,,{\fad(100,0)\pos(838.033,753.75)}Owada
+Dialogue: 0,0:00:12.76,0:00:16.13,Default,,0,0,0,,The rule are as follows: 3 traps will be activated for each battle.
+Dialogue: 0,0:00:16.13,0:00:18.83,Default,,0,0,0,,The winner will be the one who reacts the least.
+Dialogue: 0,0:00:18.83,0:00:22.70,Default,,0,0,0,,The one who reigns victorious will be crowned the king.
+Dialogue: 0,0:00:23.60,0:00:27.44,Default,,0,0,0,,Last time, \Nthey kept on reacting to cleverly-set up traps!!
+Dialogue: 0,0:00:33.55,0:00:36.65,Default,,0,0,0,,Zeebra is working up a sweat!!
+Dialogue: 0,0:00:35.65,0:00:36.65,Default,,0,0,0,,So much sweat!
+Dialogue: 0,0:00:37.42,0:00:38.62,Default,,0,0,0,,On the other hand...
+Dialogue: 0,0:00:44.02,0:00:46.93,Default,,0,0,0,,There've also been strong contenders\Nwho've shown little to no reaction.
+Dialogue: 0,0:00:48.66,0:00:52.80,Default,,0,0,0,,And tonight, the no-reaction king will be crowned!!
+Dialogue: 0,0:00:53.50,0:00:56.40,Default,,0,0,0,,And the weakest king will also be crowned!!
+Dialogue: 0,0:01:09.45,0:01:13.38,Default,,0,0,0,,{\shad0\bord4.5\pos(337.237,686.25)\c&H09FFEB&}Housei
+Dialogue: 0,0:01:09.45,0:01:13.38,Default,,0,0,0,,{\bord4.5\shad0\c&H09FFEB&\pos(952.693,686.25)}Matoba
+Dialogue: 0,0:01:09.45,0:01:13.38,Default,,0,0,0,,{\bord4.5\shad0\pos(1261.265,686.25)\c&H09FFEB&}Owada
+Dialogue: 0,0:01:10.15,0:01:13.35,Default,,0,0,0,,It's time for the semifinals in the No-Reaction King Tournament!!
+Dialogue: 0,0:01:15.02,0:01:20.59,Default,,0,0,0,,It's a battle between Zeebra and Housei, the only remaining regular.
+Dialogue: 0,0:01:20.63,0:01:23.33,Default,,0,0,0,,Man, I really want Yama-chan to do good here.
+Dialogue: 0,0:01:20.93,0:01:32.14,Default,,0,0,0,,{\fs50.25\pos(720,925)}They'll be checking on the match from a monitor in another room.
+Dialogue: 0,0:01:22.06,0:01:23.33,Default,,0,0,0,,{\pos(720,870)}I hope so, too.
+Dialogue: 0,0:01:23.33,0:01:27.27,Default,,0,0,0,,Yamasaki's the type to grow as a person while doing this.
+Dialogue: 0,0:01:23.33,0:01:24.96,Default,,0,0,0,,{\pos(720,870}Yeah, me, too.
+Dialogue: 0,0:01:27.27,0:01:29.63,Default,,0,0,0,,Well, all we can do is hope.
+Dialogue: 0,0:01:28.20,0:01:30.00,Default,,0,0,0,,{\pos(720,870)}He is that kinda person.
+Dialogue: 0,0:01:29.63,0:01:32.14,Default,,0,0,0,,That's just who he is.
+Dialogue: 0,0:01:30.00,0:01:32.14,Default,,0,0,0,,{\pos(720,870)}Hm, I don't really think that's true, but...
+Dialogue: 0,0:01:32.14,0:01:34.41,battlefield,,0,0,0,,{\pos(215,930)}Battlefield
+Dialogue: 0,0:01:32.45,0:01:34.45,Default,,0,0,0,,Let's go ahead and start the match!
+Dialogue: 0,0:01:34.88,0:01:36.15,Default,,0,0,0,,Enter Challengers.
+Dialogue: 0,0:01:37.18,0:01:39.41,Default,,0,0,0,,Man, he has to be outta tricks.
+Dialogue: 0,0:01:39.41,0:01:40.61,Default,,0,0,0,,He can do it.
+Dialogue: 0,0:01:40.61,0:01:41.85,Default,,0,0,0,,Right, right.
+Dialogue: 0,0:01:41.01,0:01:51.32,Default,,0,0,0,,{\pos(720,845)}Neither of them know when and what traps will activate.
+Dialogue: 0,0:01:41.85,0:01:44.41,Default,,0,0,0,,Ah, there are even more traps.
+Dialogue: 0,0:01:42.55,0:01:43.85,Default,,0,0,0,,We've got some new stuff again.
+Dialogue: 0,0:01:43.85,0:01:45.88,Default,,0,0,0,,They even have the drone!
+Dialogue: 0,0:01:44.41,0:01:45.88,Default,,0,0,0,,Oh, there's more of them!
+Dialogue: 0,0:01:45.88,0:01:47.01,Default,,0,0,0,,Man, there's a lot of stuff.
+Dialogue: 0,0:01:46.15,0:01:47.01,Default,,0,0,0,,What's that?
+Dialogue: 0,0:01:47.01,0:01:48.51,Default,,0,0,0,,So much stuff!
+Dialogue: 0,0:01:51.32,0:01:52.41,Default,,0,0,0,,{\clip(478.8,998.4,711.6,1072)}They look so uneasy!
+Dialogue: 0,0:01:52.41,0:01:53.55,Default,,0,0,0,,They look so uneasy!
+Dialogue: 0,0:01:51.32,0:01:52.36,Default,,0,0,0,,Will they be okay?
+Dialogue: 0,0:01:53.69,0:01:57.15,new,,0,0,0,,{\blur22\fad(300,0)\pos(720,465)}Get Into Position
+Dialogue: 0,0:01:55.56,0:01:57.03,Default,,0,0,0,,And now it starts.
+Dialogue: 0,0:01:56.09,0:01:57.03,Default,,0,0,0,,Yup, it's on.
+Dialogue: 0,0:01:59.40,0:02:00.13,Default,,0,0,0,,S-somehow...
+Dialogue: 0,0:02:00.58,0:02:08.68,Default,,0,0,0,,{\fad(150,0)\blur10\fs45\pos(205,985)}Ichiouka Genki
+Dialogue: 0,0:02:00.58,0:02:08.68,Default,,0,0,0,,{\fad(150,0)\blur10\fs45\pos(1265,985)}Giant Murakami
+Dialogue: 0,0:02:00.58,0:02:08.68,Default,,0,0,0,,{\fs35\pos(720,100)\i1}TN: They're from Yonemura Denjiro Science Production\Nwhich is a company that presents science in a fun way.
+Dialogue: 0,0:02:00.58,0:02:08.68,Default,,0,0,0,,{\fad(150,0)\pos(720,925)\c&H16FFFD&}The Denjiro Army is on stand-by.
+Dialogue: 0,0:02:01.77,0:02:02.80,Default,,0,0,0,,Well, that was sudden.
+Dialogue: 0,0:02:02.80,0:02:03.80,Default,,0,0,0,,Really.
+Dialogue: 0,0:02:03.80,0:02:05.24,Default,,0,0,0,,I see.
+Dialogue: 0,0:02:05.24,0:02:06.91,Default,,0,0,0,,Man, I'd hate this.
+Dialogue: 0,0:02:06.91,0:02:10.88,Default,,0,0,0,,So the trap this time around is powerful CO2 gas.
+Dialogue: 0,0:02:10.88,0:02:12.74,Default,,0,0,0,,Damn, it's gonna spray them real bad.
+Dialogue: 0,0:02:12.74,0:02:15.78,Default,,0,0,0,,But it's not like this hasn't happened before.
+Dialogue: 0,0:02:13.08,0:02:17.92,Default,,0,0,0,,{\pos(720,930)}They also can't hear the other members' voices.
+Dialogue: 0,0:02:15.88,0:02:17.92,Default,,0,0,0,,I mean, Yamasaki probably has more experience, but...
+Dialogue: 0,0:02:18.45,0:02:19.65,Default,,0,0,0,,Looks like he's balding.
+Dialogue: 0,0:02:19.65,0:02:21.01,Default,,0,0,0,,Just a little bit.
+Dialogue: 0,0:02:20.21,0:02:21.01,Default,,0,0,0,,What a bald head.
+Dialogue: 0,0:02:21.01,0:02:22.65,Default,,0,0,0,,If only they were both balding.
+Dialogue: 0,0:02:22.65,0:02:23.82,Default,,0,0,0,,{\clip(326.4,996.8,744,1067.2)}I don't really know who loses here.
+Dialogue: 0,0:02:23.82,0:02:26.73,Default,,0,0,0,,I don't really know who loses here.
+Dialogue: 0,0:02:27.18,0:02:28.98,Default,,0,0,0,,Doesn't he look scary?
+Dialogue: 0,0:02:29.29,0:02:36.10,until,,0,0,0,,{\fad(300,300)\blur10\pos(577.501,870)}Seconds until the powerful CO2 gas is activated
+Dialogue: 0,0:02:32.30,0:02:34.65,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1285,880)}seconds
+Dialogue: 0,0:02:34.65,0:02:36.10,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1290,880)}second
+Dialogue: 0,0:02:32.30,0:02:33.61,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1145,870)}3
+Dialogue: 0,0:02:33.61,0:02:34.65,seconds,,0,0,0,,{\blur10\pos(1145,870)}2
+Dialogue: 0,0:02:34.65,0:02:36.10,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1145,870)}1
+Dialogue: 0,0:02:29.35,0:02:31.28,Default,,0,0,0,,Look at how solid their faces are!
+Dialogue: 0,0:02:30.05,0:02:32.35,Default,,0,0,0,,Why do we have to wait so long?
+Dialogue: 0,0:02:31.28,0:02:33.61,Default,,0,0,0,,They're lookin' good.
+Dialogue: 0,0:02:44.08,0:02:45.81,Default,,0,0,0,,Whoa, it's still going!
+Dialogue: 0,0:02:49.01,0:02:50.68,Default,,0,0,0,,Oh, he turned his head!
+Dialogue: 0,0:02:51.05,0:02:53.48,Default,,0,0,0,,How are you supposed to factor that in?
+Dialogue: 0,0:02:52.35,0:02:53.48,Default,,0,0,0,,Right?\NThat can't be allowed!
+Dialogue: 0,0:02:53.48,0:02:55.32,Default,,0,0,0,,{\clip(310.8,963.2,738,1080)}Turning your head can't be allowed.
+Dialogue: 0,0:02:55.32,0:02:56.58,Default,,0,0,0,,Turning your head can't be allowed.
+Dialogue: 0,0:02:53.95,0:02:56.58,Default,,0,0,0,,{\pos(720,910)}He shouldn't be able to turn his head. No way.
+Dialogue: 0,0:02:57.31,0:02:59.95,Default,,0,0,0,,'Cause how're you gonna get good at variety?
+Dialogue: 0,0:02:59.95,0:03:00.65,Default,,0,0,0,,That's true.
+Dialogue: 0,0:03:00.65,0:03:02.35,Default,,0,0,0,,You just have to take it.
+Dialogue: 0,0:03:02.43,0:03:05.65,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}Wait
+Dialogue: 0,0:03:05.95,0:03:09.41,Default,,0,0,0,,Hold on now...
+Dialogue: 0,0:03:07.05,0:03:09.41,Default,,0,0,0,,He got sprayed so bad.
+Dialogue: 0,0:03:12.85,0:03:15.08,Default,,0,0,0,,You know, just by this,
+Dialogue: 0,0:03:15.08,0:03:17.14,Default,,0,0,0,,{\fs50\clip(22.8,992,1035.6,1073.6)}You have to consider how bad the trap's gonna be or you're screwed.
+Dialogue: 0,0:03:17.14,0:03:19.68,Default,,0,0,0,,{\fs50}You have to consider how bad the trap's gonna be or you're screwed.
+Dialogue: 0,0:03:16.38,0:03:18.61,Default,,0,0,0,,Ah true.
+Dialogue: 0,0:03:17.01,0:03:18.61,Default,,0,0,0,,I see.
+Dialogue: 0,0:03:18.61,0:03:19.68,Default,,0,0,0,,That's right.
+Dialogue: 0,0:03:19.68,0:03:22.05,Default,,0,0,0,,That's true.\N'Cause the drone from before...
+Dialogue: 0,0:03:20.28,0:03:22.05,Default,,0,0,0,,That drone...
+Dialogue: 0,0:03:22.21,0:03:27.05,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}Get Into Position
+Dialogue: 0,0:03:27.21,0:03:28.98,Default,,0,0,0,,Ah, that's a solid face right there.
+Dialogue: 0,0:03:28.98,0:03:29.41,Default,,0,0,0,,Ah, but,
+Dialogue: 0,0:03:29.41,0:03:30.58,Default,,0,0,0,,'Cause of the CO2,
+Dialogue: 0,0:03:30.58,0:03:32.11,Default,,0,0,0,,{\clip(200.4,960,624,1080)}He's been loosing a bit more hair than before.
+Dialogue: 0,0:03:32.11,0:03:33.75,Default,,0,0,0,,He's been loosing a bit more hair than before.
+Dialogue: 0,0:03:34.31,0:03:34.58,Default,,0,0,0,,Look.
+Dialogue: 0,0:03:34.58,0:03:36.75,Default,,0,0,0,,Ah, that's true.
+Dialogue: 0,0:03:36.75,0:03:38.55,Default,,0,0,0,,There really isn't anything that he can use.
+Dialogue: 0,0:03:38.55,0:03:40.51,Default,,0,0,0,,His resources are limited.
+Dialogue: 0,0:03:41.75,0:03:44.01,Default,,0,0,0,,Maybe he got a little too much blown in his face.
+Dialogue: 0,0:03:44.01,0:03:47.98,Default,,0,0,0,,Now, the seconds trap is the drone.
+Dialogue: 0,0:03:46.08,0:03:47.98,Default,,0,0,0,,Ah, it's time.
+Dialogue: 0,0:03:47.98,0:03:49.65,Default,,0,0,0,,I'd hate to get the drone.
+Dialogue: 0,0:03:49.65,0:03:50.24,Default,,0,0,0,,Owada-san,
+Dialogue: 0,0:03:50.24,0:03:51.48,Default,,0,0,0,,{\clip(237.6,998.4,860.4,1067.2)}Instead of getting surprised, you just laugh.
+Dialogue: 0,0:03:51.48,0:03:53.04,Default,,0,0,0,,Instead of getting surprised, you just laugh.
+Dialogue: 0,0:03:53.05,0:03:53.78,Default,,0,0,0,,That's true.
+Dialogue: 0,0:03:53.78,0:03:55.25,Default,,0,0,0,,That's a nice face on Yama-chan.
+Dialogue: 0,0:03:55.21,0:03:57.55,Default,,0,0,0,,Really solid.
+Dialogue: 0,0:03:55.88,0:03:57.55,Default,,0,0,0,,Very nice.
+Dialogue: 0,0:03:57.55,0:04:00.01,Default,,0,0,0,,{\fs45\pos(720,60)\i1}TN: Miyamoto Musashi was a famous swordsman.
+Dialogue: 0,0:03:57.55,0:04:00.01,Default,,0,0,0,,I can kinda see Miyamoto Musashi in his face.
+Dialogue: 0,0:04:00.01,0:04:00.98,Default,,0,0,0,,You talk too much!
+Dialogue: 0,0:04:00.98,0:04:01.51,Default,,0,0,0,,Really,
+Dialogue: 0,0:04:01.51,0:04:03.82,Default,,0,0,0,,The glint in his eye is so sharp.
+Dialogue: 0,0:04:02.58,0:04:05.31,Default,,0,0,0,,{\pos(720,912)}He looks solid!
+Dialogue: 0,0:04:03.82,0:04:05.26,Default,,0,0,0,,{\clip(152.4,984,943.2,1078.4)}The way he raises his eyebrows is the best!!
+Dialogue: 0,0:04:05.26,0:04:08.18,Default,,0,0,0,,The way he raises his eyebrows is the best!!
+Dialogue: 0,0:04:06.98,0:04:08.78,Default,,0,0,0,,They are up there!
+Dialogue: 0,0:04:08.78,0:04:09.88,Default,,0,0,0,,Right?
+Dialogue: 0,0:04:10.68,0:04:12.45,Default,,0,0,0,,Zeebra kinda...
+Dialogue: 0,0:04:13.08,0:04:18.01,Default,,0,0,0,,{\fs45\pos(720,60)\i1}TN: Nakagawawake is a comedy duo that consist of two brothers.
+Dialogue: 0,0:04:12.45,0:04:13.08,Default,,0,0,0,,{\clip(49.2,979.2,561.6,1070.4)}He's been Tsuyoshi from Nakagawake this whole time.
+Dialogue: 0,0:04:13.08,0:04:18.01,Default,,0,0,0,,He's been Tsuyoshi from Nakagawake this whole time.
+Dialogue: 0,0:04:14.28,0:04:14.75,Default,,0,0,0,,C'mon!
+Dialogue: 0,0:04:14.75,0:04:18.01,Default,,0,0,0,,He really looks like him!
+Dialogue: 0,0:04:16.48,0:04:18.01,Default,,0,0,0,,Ah, I see it.
+Dialogue: 0,0:04:18.21,0:04:20.31,Default,,0,0,0,,It's just gonna start up, right?
+Dialogue: 0,0:04:24.88,0:04:27.18,Default,,0,0,0,,See, there it is.
+Dialogue: 0,0:04:25.11,0:04:27.75,Default,,0,0,0,,Oh, of course they'd get surprised.
+Dialogue: 0,0:04:26.45,0:04:33.02,drone,,0,0,0,,{\fad(300,0)\pos(510,880)}Drone Operator\NCelebrity Tani+1
+Dialogue: 0,0:04:27.18,0:04:28.45,Default,,0,0,0,,I see.
+Dialogue: 0,0:04:27.75,0:04:29.45,Default,,0,0,0,,For this, definitely.
+Dialogue: 0,0:04:28.45,0:04:29.45,Default,,0,0,0,,I saw that reaction.
+Dialogue: 0,0:04:30.15,0:04:31.98,Default,,0,0,0,,Yama-chan's reaction was bigger.
+Dialogue: 0,0:04:31.58,0:04:32.55,Default,,0,0,0,,Definitely.
+Dialogue: 0,0:04:31.98,0:04:33.05,Default,,0,0,0,,For sure.
+Dialogue: 0,0:04:33.21,0:04:35.41,Default,,0,0,0,,It looks like what happened when I went,
+Dialogue: 0,0:04:35.41,0:04:37.05,Default,,0,0,0,,But it's probably the same for them.
+Dialogue: 0,0:04:37.35,0:04:40.58,Default,,0,0,0,,You think, "Why are they doing this to me?"\NAnd you wanna look somewhere else.
+Dialogue: 0,0:04:46.75,0:04:47.65,Default,,0,0,0,,His face is kinda...
+Dialogue: 0,0:04:47.65,0:04:49.65,Default,,0,0,0,,Ah, that's right.
+Dialogue: 0,0:04:49.65,0:04:52.61,Default,,0,0,0,,Right into his forehead.
+Dialogue: 0,0:04:53.35,0:04:55.18,Default,,0,0,0,,That was amazing!!
+Dialogue: 0,0:04:55.18,0:04:59.01,Default,,0,0,0,,Zeebra's just been sweating all over!!
+Dialogue: 0,0:04:56.95,0:04:59.01,Default,,0,0,0,,All over!
+Dialogue: 0,0:04:59.25,0:05:00.08,Default,,0,0,0,,The legendary sweat.
+Dialogue: 0,0:05:00.08,0:05:00.91,Default,,0,0,0,,Now that's a minus.
+Dialogue: 0,0:05:00.45,0:05:00.91,Default,,0,0,0,,Look!
+Dialogue: 0,0:05:00.91,0:05:04.85,Default,,0,0,0,,That was definitely minus a point.
+Dialogue: 0,0:05:02.01,0:05:03.91,Default,,0,0,0,,Yeah, minus one for Zeebra.
+Dialogue: 0,0:05:04.85,0:05:06.05,Default,,0,0,0,,There it is.
+Dialogue: 0,0:05:06.41,0:05:08.38,Default,,0,0,0,,Who knows what they're gonna do to Yama-chan.
+Dialogue: 0,0:05:08.38,0:05:09.45,Default,,0,0,0,,But he's fine right now.
+Dialogue: 0,0:05:09.45,0:05:10.15,Default,,0,0,0,,True.
+Dialogue: 0,0:05:12.48,0:05:14.83,Default,,0,0,0,,He looks like plastic.
+Dialogue: 0,0:05:14.85,0:05:16.51,Default,,0,0,0,,Seriously.
+Dialogue: 0,0:05:16.81,0:05:17.78,Default,,0,0,0,,He's not moving!!
+Dialogue: 0,0:05:17.58,0:05:19.18,Default,,0,0,0,,Not at all!
+Dialogue: 0,0:05:17.78,0:05:19.18,Default,,0,0,0,,He's doing great!
+Dialogue: 0,0:05:19.91,0:05:21.61,Default,,0,0,0,,But... It's not touching him.
+Dialogue: 0,0:05:21.61,0:05:22.08,Default,,0,0,0,,Right.
+Dialogue: 0,0:05:22.08,0:05:23.45,Default,,0,0,0,,Ah, there it is!
+Dialogue: 0,0:05:26.91,0:05:29.54,Default,,0,0,0,,He totally just smiled!
+Dialogue: 0,0:05:29.54,0:05:31.81,Default,,0,0,0,,You can't tell me he wasn't smiling!!
+Dialogue: 0,0:05:33.51,0:05:34.15,Default,,0,0,0,,There it is.
+Dialogue: 0,0:05:34.38,0:05:35.65,Default,,0,0,0,,Yama-chan kinda...
+Dialogue: 0,0:05:35.65,0:05:37.55,Default,,0,0,0,,It keeps on poking him!
+Dialogue: 0,0:05:38.51,0:05:39.45,Default,,0,0,0,,I knew it, he -
+Dialogue: 0,0:05:42.45,0:05:43.38,Default,,0,0,0,,I knew it, he -
+Dialogue: 0,0:05:43.38,0:05:44.91,Default,,0,0,0,,Ah, it's pulling his hair!
+Dialogue: 0,0:05:46.81,0:05:48.11,Default,,0,0,0,,Smack dab in the middle.
+Dialogue: 0,0:05:48.43,0:05:53.85,until,,0,0,0,,{\fad(300,300)\blur10\pos(565.5,870)}Seconds until the secret joke
+Dialogue: 0,0:05:48.43,0:05:52.21,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1040,880)}seconds
+Dialogue: 0,0:05:52.21,0:05:53.85,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1040,880)}second
+Dialogue: 0,0:05:48.43,0:05:51.21,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(870,870)}3
+Dialogue: 0,0:05:51.21,0:05:52.21,seconds,,0,0,0,,{\blur10\pos(870,870)}2
+Dialogue: 0,0:05:52.21,0:05:53.85,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(870,870)}1
+Dialogue: 0,0:05:49.13,0:05:51.16,Default,,0,0,0,,It can't get enough of him!
+Dialogue: 0,0:05:50.26,0:05:51.16,Default,,0,0,0,,It loves him!
+Dialogue: 0,0:05:58.80,0:06:02.94,rfd,,0,0,0,,{\fad(300,0)\pos(720,870)}Blow to the seat
+Dialogue: 0,0:06:01.17,0:06:02.94,Default,,0,0,0,,Housei-san!
+Dialogue: 0,0:06:02.94,0:06:04.88,Default,,0,0,0,,Zeebra's amazing!
+Dialogue: 0,0:06:04.88,0:06:05.98,Default,,0,0,0,,Both of his hands went up.
+Dialogue: 0,0:06:06.18,0:06:09.61,new,,0,0,0,,{\fad(300,0)\blur10\pos(720,465)}Wait
+Dialogue: 0,0:06:09.85,0:06:11.38,Default,,0,0,0,,{\clip(464.4,998.4,639.6,1067.2)}My hair just got eaten!!
+Dialogue: 0,0:06:11.38,0:06:13.52,Default,,0,0,0,,My hair just got eaten!!
+Dialogue: 0,0:06:14.78,0:06:16.68,Default,,0,0,0,,This is a nice fight.
+Dialogue: 0,0:06:15.61,0:06:20.23,until,,0,0,0,,{\fad(200,200)\fs80\blur22.5\pos(720,880)\c&H04FFF3&}1{\c&HFFFFFF&} more trap left
+Dialogue: 0,0:06:15.31,0:06:17.68,Default,,0,0,0,,Well, it feels like one loss nad one win.
+Dialogue: 0,0:06:16.68,0:06:17.51,Default,,0,0,0,,Hm, that's true.
+Dialogue: 0,0:06:17.51,0:06:18.51,Default,,0,0,0,,Sounds about right.
+Dialogue: 0,0:06:17.68,0:06:18.51,Default,,0,0,0,,Right?
+Dialogue: 0,0:06:18.51,0:06:20.08,Default,,0,0,0,,Yeah, this is a good match.
+Dialogue: 0,0:06:19.18,0:06:20.08,Default,,0,0,0,,Definitely.
+Dialogue: 0,0:06:20.08,0:06:20.75,Default,,0,0,0,,On to the next one.
+Dialogue: 0,0:06:22.15,0:06:25.18,new,,0,0,0,,{\fad(300,0)\blur10\pos(720,465)}Get Into Position
+Dialogue: 0,0:06:23.98,0:06:25.18,Default,,0,0,0,,But just now...
+Dialogue: 0,0:06:25.18,0:06:28.11,Default,,0,0,0,,They can't let what just happened get to them.
+Dialogue: 0,0:06:27.01,0:06:28.11,Default,,0,0,0,,That's right.
+Dialogue: 0,0:06:28.11,0:06:29.05,Default,,0,0,0,,That's very important.
+Dialogue: 0,0:06:31.41,0:06:32.57,Default,,0,0,0,,{\clip(177.6,996.8,836.4,1070.4)}The intensity he had just now wasn't really there.
+Dialogue: 0,0:06:32.57,0:06:35.55,Default,,0,0,0,,The intensity he had just now wasn't really there.
+Dialogue: 0,0:06:33.25,0:06:34.31,Default,,0,0,0,,That's true.
+Dialogue: 0,0:06:36.01,0:06:38.11,Default,,0,0,0,,So, the next trap is...
+Dialogue: 0,0:06:38.11,0:06:39.45,Default,,0,0,0,,The Tesla coil.
+Dialogue: 0,0:06:39.15,0:06:40.78,Default,,0,0,0,,Wait, what?
+Dialogue: 0,0:06:39.45,0:06:41.95,Default,,0,0,0,,It's a high voltage generator.
+Dialogue: 0,0:06:42.48,0:06:45.21,Default,,0,0,0,,That's kinda scary!
+Dialogue: 0,0:06:42.91,0:06:45.21,Default,,0,0,0,,It's gonna come out like, "Bzz~!"
+Dialogue: 0,0:06:47.88,0:06:49.78,Default,,0,0,0,,Just like, "Bzzz!"
+Dialogue: 0,0:06:50.28,0:06:52.15,Default,,0,0,0,,Hm? He kinda looks focused.
+Dialogue: 0,0:06:51.21,0:06:52.15,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:06:52.15,0:06:54.45,Default,,0,0,0,,He's gotten there.
+Dialogue: 0,0:06:52.71,0:06:54.45,Default,,0,0,0,,Yeah, definitely better.
+Dialogue: 0,0:06:55.58,0:06:56.28,Default,,0,0,0,,Nice!
+Dialogue: 0,0:06:56.28,0:06:57.98,Default,,0,0,0,,Very nice, he's at MAX focus!!
+Dialogue: 0,0:06:57.98,0:06:59.08,Default,,0,0,0,,He's ready!
+Dialogue: 0,0:06:58.28,0:06:59.08,Default,,0,0,0,,Yup, for sure!
+Dialogue: 0,0:06:59.43,0:07:04.58,until,,0,0,0,,{\fad(300,300)\blur10\pos(520,870)}Seconds until the Tesla coil discharges
+Dialogue: 0,0:07:00.95,0:07:03.21,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1265,880)}seconds
+Dialogue: 0,0:07:03.21,0:07:04.58,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1265,880)}second
+Dialogue: 0,0:07:00.95,0:07:02.28,seconds,,0,0,0,,{\blur10\fad(300,0)\pos(1100,870)}3
+Dialogue: 0,0:07:02.28,0:07:03.21,seconds,,0,0,0,,{\blur10\pos(1100,870)}2
+Dialogue: 0,0:07:03.21,0:07:04.58,seconds,,0,0,0,,{\fad(0,300)\blur10\fad(0,300)\pos(1100,870)}1
+Dialogue: 0,0:07:15.15,0:07:17.58,Default,,0,0,0,,This would definitely be scary!
+Dialogue: 0,0:07:17.58,0:07:18.65,Default,,0,0,0,,{\clip(384,998.4,886.8,1067.2)}This is just straight-up scary!!
+Dialogue: 0,0:07:18.65,0:07:19.48,Default,,0,0,0,,This is just straight-up scary!!
+Dialogue: 0,0:07:18.65,0:07:19.48,Default,,0,0,0,,Seriously!
+Dialogue: 0,0:07:19.48,0:07:20.55,Default,,0,0,0,,This is insane!
+Dialogue: 0,0:07:20.55,0:07:21.35,Default,,0,0,0,,Like what was that?
+Dialogue: 0,0:07:21.35,0:07:23.28,Default,,0,0,0,,I don't understand!!
+Dialogue: 0,0:07:26.21,0:07:29.49,new,,0,0,0,,{\fad(300,300)\blur20\pos(720,465)}End of No-Reaction
+Dialogue: 0,0:07:27.65,0:07:29.48,Default,,0,0,0,,Man, that was amazing.
+Dialogue: 0,0:07:28.01,0:07:29.48,Default,,0,0,0,,Please make your way to the monitoring room.
+Dialogue: 0,0:07:29.48,0:07:31.08,Default,,0,0,0,,Aaah, what was that?
+Dialogue: 0,0:07:30.88,0:07:32.21,Default,,0,0,0,,Ah, I was so scared!
+Dialogue: 0,0:07:31.08,0:07:33.68,Default,,0,0,0,,Yeah, that was scary!
+Dialogue: 0,0:07:32.61,0:07:33.68,Default,,0,0,0,,That was scary!!
+Dialogue: 0,0:07:33.68,0:07:34.91,Default,,0,0,0,,That was really scary!
+Dialogue: 0,0:07:34.21,0:07:34.91,Default,,0,0,0,,Right?
+Dialogue: 0,0:07:34.91,0:07:36.65,Default,,0,0,0,,That was so scary!
+Dialogue: 0,0:07:38.55,0:07:39.88,Default,,0,0,0,,Good jog out there!
+Dialogue: 0,0:07:39.88,0:07:42.98,Default,,0,0,0,,The first half was really good.
+Dialogue: 0,0:07:41.28,0:07:42.98,Default,,0,0,0,,Really, that was great.
+Dialogue: 0,0:07:42.98,0:07:44.85,Default,,0,0,0,,I'm sorry, but like the drone...
+Dialogue: 0,0:07:44.85,0:07:46.41,Default,,0,0,0,,{\clip(408,996.8,727.2,1072)}The propeller ate my hair...
+Dialogue: 0,0:07:46.41,0:07:47.85,Default,,0,0,0,,The propeller ate my hair...
+Dialogue: 0,0:07:47.85,0:07:48.35,Default,,0,0,0,,Oh, right.
+Dialogue: 0,0:07:48.35,0:07:50.41,Default,,0,0,0,,Nah, you should've expected that.
+Dialogue: 0,0:07:50.41,0:07:52.95,Default,,0,0,0,,Well, I didn't!!
+Dialogue: 0,0:07:53.89,0:07:57.68,Default,,0,0,0,,Let's play back the match in slow motion.
+Dialogue: 0,0:08:00.61,0:08:03.78,Default,,0,0,0,,Both of you... Both of you moved!
+Dialogue: 0,0:08:02.31,0:08:03.78,Default,,0,0,0,,That "errr" would be pretty scary.
+Dialogue: 0,0:08:05.78,0:08:07.28,Default,,0,0,0,,That's how it ended up.
+Dialogue: 0,0:08:06.18,0:08:07.28,Default,,0,0,0,,Ah, right.
+Dialogue: 0,0:08:07.28,0:08:09.75,Default,,0,0,0,,The wind from the drone is just so sudden.
+Dialogue: 0,0:08:13.78,0:08:15.95,Default,,0,0,0,,That was so lame.
+Dialogue: 0,0:08:14.18,0:08:15.48,Default,,0,0,0,,This was...
+Dialogue: 0,0:08:15.48,0:08:17.51,Default,,0,0,0,,It hit you pretty hard.
+Dialogue: 0,0:08:15.95,0:08:17.51,Default,,0,0,0,,Yeah, it was so strong.
+Dialogue: 0,0:08:17.51,0:08:19.31,Default,,0,0,0,,Just this part.
+Dialogue: 0,0:08:19.31,0:08:21.21,Default,,0,0,0,,Definitely.
+Dialogue: 0,0:08:19.81,0:08:21.21,Default,,0,0,0,,Right?
+Dialogue: 0,0:08:22.28,0:08:24.78,Default,,0,0,0,,But Yama-chan did well here.
+Dialogue: 0,0:08:23.88,0:08:24.78,Default,,0,0,0,,Very good.
+Dialogue: 0,0:08:27.18,0:08:29.85,Default,,0,0,0,,He... He really...!
+Dialogue: 0,0:08:27.18,0:08:28.18,Default,,0,0,0,,He was just smiling!
+Dialogue: 0,0:08:28.18,0:08:29.85,Default,,0,0,0,,Yeah, you can see it right there!
+Dialogue: 0,0:08:29.85,0:08:31.65,Default,,0,0,0,,This was just...
+Dialogue: 0,0:08:31.65,0:08:33.78,Default,,0,0,0,,Oh, this part was pretty sketchy.
+Dialogue: 0,0:08:32.08,0:08:33.78,Default,,0,0,0,,Yama-chan looks beaten up.
+Dialogue: 0,0:08:33.78,0:08:35.28,Default,,0,0,0,,Oh, it's pulling him!
+Dialogue: 0,0:08:35.91,0:08:36.98,Default,,0,0,0,,It's eating his hair!
+Dialogue: 0,0:08:36.98,0:08:37.85,Default,,0,0,0,,{\clip(109.2,982.4,560.4,1078.4)}It chased after him knowing he hates losing his hair!!
+Dialogue: 0,0:08:37.85,0:08:41.35,Default,,0,0,0,,It chased after him knowing he hates losing his hair!!
+Dialogue: 0,0:08:44.71,0:08:46.15,Default,,0,0,0,,Someone's losing his temper!
+Dialogue: 0,0:08:46.15,0:08:47.01,Default,,0,0,0,,Just watch it!
+Dialogue: 0,0:08:51.38,0:08:53.31,Default,,0,0,0,,He hates this so much!
+Dialogue: 0,0:08:54.48,0:08:56.55,Default,,0,0,0,,This didn't last for just a "moment".
+Dialogue: 0,0:08:57.35,0:08:59.75,Default,,0,0,0,,Zeebra's amazing!!
+Dialogue: 0,0:08:58.41,0:08:59.75,Default,,0,0,0,,I don't see it.\NHe's too good!
+Dialogue: 0,0:09:00.71,0:09:05.16,Default,,0,0,0,,These 3 producers will be judging to see who the winner is.
+Dialogue: 0,0:09:05.41,0:09:07.61,Default,,0,0,0,,Was the winner Yama-chan of Zeebra?
+Dialogue: 0,0:09:07.61,0:09:09.85,Default,,0,0,0,,Please present the verdict!
+Dialogue: 0,0:09:11.78,0:09:12.68,Default,,0,0,0,,Blue, blue, blue.
+Dialogue: 0,0:09:12.91,0:09:14.11,Default,,0,0,0,,Zeebra!
+Dialogue: 0,0:09:14.11,0:09:16.05,Default,,0,0,0,,Congratulations!
+Dialogue: 0,0:09:16.05,0:09:21.81,Default,,0,0,0,,At this stage, all the "Gaki" regulars have now been wiped out.
+Dialogue: 0,0:09:18.25,0:09:19.75,Default,,0,0,0,,Right!
+Dialogue: 0,0:09:21.81,0:09:25.35,Default,,0,0,0,,Matoba and Owada-san.
+Dialogue: 0,0:09:24.15,0:09:25.35,Default,,0,0,0,,You know what I think?
+Dialogue: 0,0:09:25.35,0:09:26.98,Default,,0,0,0,,That there's a point to this.
+Dialogue: 0,0:09:26.98,0:09:27.41,Default,,0,0,0,,Which is?
+Dialogue: 0,0:09:27.41,0:09:30.81,Default,,0,0,0,,That Owada-san has to lose!!
+Dialogue: 0,0:09:33.31,0:09:37.95,Default,,0,0,0,,Coming up next!\NOwada's persistent no-reaction!!
+Dialogue: 0,0:09:39.76,0:09:45.33,Default,,0,0,0,,Round 2 in the semifinals:\NMatoba Koji vs. Owada Shinya
+Dialogue: 0,0:09:47.63,0:09:51.60,new,,0,0,0,,{\blur20\fad(300,300)\pos(720,465)}Get Into Position
+Dialogue: 0,0:09:49.47,0:09:50.64,Default,,0,0,0,,It's finally here.
+Dialogue: 0,0:09:53.07,0:09:57.31,Default,,0,0,0,,{\fs40\fad(200,0)\pos(192.001,990)}Ichiouka Genki
+Dialogue: 0,0:09:53.07,0:09:57.31,Default,,0,0,0,,{\fad(200,0)\pos(720,925)\c&H22FFFE&}The Denjiro Army is on stand-by.
+Dialogue: 0,0:09:53.07,0:09:57.31,Default,,0,0,0,,{\fad(200,0)\fs40\pos(1260,990)}Giant Murakami
+Dialogue: 0,0:09:55.17,0:09:56.01,Default,,0,0,0,,So it's this one.
+Dialogue: 0,0:09:56.01,0:10:00.11,Default,,0,0,0,,With these people, I don't even know what they're gonna take.
+Dialogue: 0,0:09:59.01,0:10:00.11,Default,,0,0,0,,This...
+Dialogue: 0,0:10:00.11,0:10:02.65,Default,,0,0,0,,That's right, who knows if there're gonna be decoys.
+Dialogue: 0,0:10:00.65,0:10:01.68,Default,,0,0,0,,Right, very true.
+Dialogue: 0,0:10:03.21,0:10:03.62,Default,,0,0,0,,Wait-
+Dialogue: 0,0:10:03.65,0:10:06.18,Default,,0,0,0,,It looks like he's gonna cry.
+Dialogue: 0,0:10:06.18,0:10:08.65,Default,,0,0,0,,His eye look like so girly.
+Dialogue: 0,0:10:08.12,0:10:08.65,Default,,0,0,0,,It's off.
+Dialogue: 0,0:10:08.65,0:10:10.69,Default,,0,0,0,,His face is completely off.
+Dialogue: 0,0:10:09.39,0:10:10.69,Default,,0,0,0,,It's so off.\NYup.
+Dialogue: 0,0:10:10.69,0:10:14.29,Default,,0,0,0,,It needs to be more intense!
+Dialogue: 0,0:10:11.99,0:10:14.29,Default,,0,0,0,,He kinda... Yeah, it's kicked in now.
+Dialogue: 0,0:10:14.49,0:10:18.00,Default,,0,0,0,,{\fs45\pos(720,60)\i1}TN: Margaret is a shojo manga magazine
+Dialogue: 0,0:10:14.49,0:10:18.00,Default,,0,0,0,,Those are the eyes you get when you read Margaret.
+Dialogue: 0,0:10:18.00,0:10:18.93,Default,,0,0,0,,Definitely!
+Dialogue: 0,0:10:18.93,0:10:19.96,Default,,0,0,0,,They look so gentle!
+Dialogue: 0,0:10:20.77,0:10:25.87,Default,,0,0,0,,The first trap, the radio-controlled tank,\Nis about to be activated. However...
+Dialogue: 0,0:10:26.57,0:10:29.34,Default,,0,0,0,,There'll be an explosion from the wall. So...
+Dialogue: 0,0:10:29.77,0:10:32.88,Default,,0,0,0,,Can they keep up on not reaction?
+Dialogue: 0,0:10:33.11,0:10:37.95,Default,,0,0,0,,{\pos(720,930)}They also can't hear the other members' voice.
+Dialogue: 0,0:10:33.21,0:10:35.31,Default,,0,0,0,,They probably think the CO2's gonna hit them.
+Dialogue: 0,0:10:35.68,0:10:37.95,Default,,0,0,0,,They're just waiting for the CO2.
+Dialogue: 0,0:10:39.08,0:10:42.02,Default,,0,0,0,,So will it be the CO2? Or the tank?
+Dialogue: 0,0:10:45.09,0:10:47.53,Default,,0,0,0,,The tank. If it was me,
+Dialogue: 0,0:10:47.53,0:10:50.63,Default,,0,0,0,,I'd probably think it was the tank with the way it'd be facing me.
+Dialogue: 0,0:10:50.63,0:10:51.63,Default,,0,0,0,,Yeah, yeah.\NAh, I see.
+Dialogue: 0,0:10:51.63,0:10:54.97,Default,,0,0,0,,There's so many...
+Dialogue: 0,0:10:52.53,0:10:54.97,Default,,0,0,0,,Right, there's so much to think about.
+Dialogue: 0,0:10:54.97,0:10:56.57,Default,,0,0,0,,There're so many things.
+Dialogue: 0,0:10:55.97,0:10:56.57,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:56.57,0:10:59.04,Default,,0,0,0,,So it'd have to be it if it was facing you
+Dialogue: 0,0:11:11.15,0:11:11.98,Default,,0,0,0,,Wow!
+Dialogue: 0,0:11:11.98,0:11:13.69,Default,,0,0,0,,Alright, we got Owada-san to flinch.
+Dialogue: 0,0:11:14.35,0:11:15.45,Default,,0,0,0,,{\clip(435.6,990.4,724.8,1067.2)}Matoba-kun is amazing.
+Dialogue: 0,0:11:15.45,0:11:17.22,Default,,0,0,0,,Matoba-kun is amazing.
+Dialogue: 0,0:11:15.42,0:11:17.22,Default,,0,0,0,,He's so good!
+Dialogue: 0,0:11:17.42,0:11:19.86,new,,0,0,0,,{\blur20\fad(300,0)\pos(720,465)}Wait
+Dialogue: 0,0:11:18.26,0:11:19.86,Default,,0,0,0,,They handled that well.
+Dialogue: 0,0:11:19.86,0:11:21.13,Default,,0,0,0,,I see...
+Dialogue: 0,0:11:21.13,0:11:23.26,Default,,0,0,0,,So this is what they had in mind.
+Dialogue: 0,0:11:23.26,0:11:25.93,Default,,0,0,0,,They were so focused before!
+Dialogue: 0,0:11:23.83,0:11:25.93,Default,,0,0,0,,Right?
+Dialogue: 0,0:11:25.96,0:11:28.17,Default,,0,0,0,,That one got me.
+Dialogue: 0,0:11:28.47,0:11:30.50,Default,,0,0,0,,He says that, but he didn't move at all.
+Dialogue: 0,0:11:29.67,0:11:30.50,Default,,0,0,0,,Not an inch.
+Dialogue: 0,0:11:30.50,0:11:32.37,Default,,0,0,0,,That bald guy...
+Dialogue: 0,0:11:33.17,0:11:35.51,Default,,0,0,0,,Why do you have to make fun of him!!
+Dialogue: 0,0:11:34.14,0:11:36.21,Default,,0,0,0,,{\pos(720,930)}He looks like he's having a hard time.
+Dialogue: 0,0:11:35.51,0:11:36.37,Default,,0,0,0,,{\clip(88.8,996.8,607.2,1070.4)}Like you could just see electricity coming out of his head.
+Dialogue: 0,0:11:36.37,0:11:40.08,Default,,0,0,0,,Like you could just see electricity coming out of his head.
+Dialogue: 0,0:11:36.21,0:11:37.74,Default,,0,0,0,,Stop making fun of him!
+Dialogue: 0,0:11:40.24,0:11:43.48,Default,,0,0,0,,He's in so much shock.
+Dialogue: 0,0:11:41.18,0:11:43.48,Default,,0,0,0,,Let's make fun of him some more.
+Dialogue: 0,0:11:43.48,0:11:44.65,Default,,0,0,0,,Stop that!
+Dialogue: 0,0:11:44.88,0:11:46.08,Default,,0,0,0,,{\clip(97.2,992,718.8,1070.4)}Then the least you could do is close up on the bald guy!!
+Dialogue: 0,0:11:46.08,0:11:49.35,Default,,0,0,0,,Then the least you could do is close up on the bald guy!!
+Dialogue: 0,0:11:49.35,0:11:52.16,Default,,0,0,0,,What a scene!!
+Dialogue: 0,0:11:52.32,0:11:55.79,new,,0,0,0,,{\blur20\fad(300,0)\pos(720,465)}Get Into Position
+Dialogue: 0,0:11:56.66,0:11:59.46,Default,,0,0,0,,Will the CO2 ever come?
+Dialogue: 0,0:11:59.46,0:12:02.90,Default,,0,0,0,,But those people are still there.
+Dialogue: 0,0:12:01.30,0:12:02.07,Default,,0,0,0,,Right.
+Dialogue: 0,0:12:02.07,0:12:02.90,Default,,0,0,0,,That's true.
+Dialogue: 0,0:12:04.00,0:12:08.27,Default,,0,0,0,,With that said, the next trap is the powerful CO2 gas.
+Dialogue: 0,0:12:11.78,0:12:16.01,Default,,0,0,0,,So Owada-san's been uncle-hunted 3 times, huh.
+Dialogue: 0,0:12:13.78,0:12:16.01,Default,,0,0,0,,He's a victim of uncle-hunting.
+Dialogue: 0,0:12:16.01,0:12:17.55,Default,,0,0,0,,{\clip(319.2,990.4,801.6,1070.4)}And he still took it 2, 3 times.
+Dialogue: 0,0:12:17.55,0:12:19.92,Default,,0,0,0,,And he still took it 2, 3 times.
+Dialogue: 0,0:12:19.92,0:12:21.39,Default,,0,0,0,,Just stop talking!
+Dialogue: 0,0:12:21.72,0:12:27.89,until,,0,0,0,,{\fad(300,300)\blur10\pos(550,870)}Seconds until the powerful CO2 gas is activated
+Dialogue: 0,0:12:24.06,0:12:26.39,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1290,880)}seconds
+Dialogue: 0,0:12:26.39,0:12:27.89,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1290,880)}second
+Dialogue: 0,0:12:24.06,0:12:25.39,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1145.,870)}3
+Dialogue: 0,0:12:25.39,0:12:26.39,seconds,,0,0,0,,{\blur10\pos(1145,870)}2
+Dialogue: 0,0:12:26.39,0:12:27.89,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1145,870)}1
+Dialogue: 0,0:12:44.68,0:12:46.14,Default,,0,0,0,,Just wait...!
+Dialogue: 0,0:12:46.14,0:12:49.05,Default,,0,0,0,,Wait - he didn't react, though.
+Dialogue: 0,0:12:47.38,0:12:49.05,Default,,0,0,0,,Yeah, he didn't.
+Dialogue: 0,0:12:51.85,0:12:54.62,Default,,0,0,0,,That was a great fight, wasn't it?
+Dialogue: 0,0:12:53.08,0:12:54.62,Default,,0,0,0,,It was good!
+Dialogue: 0,0:12:54.62,0:12:56.62,Default,,0,0,0,,It was amazing!
+Dialogue: 0,0:12:54.99,0:12:56.62,Default,,0,0,0,,So good!
+Dialogue: 0,0:12:56.62,0:12:57.59,Default,,0,0,0,,{\clip(216,996.8,541.2,1073.6)}For a second, he looked like Kitaouji Kinya...
+Dialogue: 0,0:12:57.59,0:13:02.76,Default,,0,0,0,,For a second, he looked like Kitaouji Kinya...
+Dialogue: 0,0:12:57.59,0:13:02.76,Default,,0,0,0,,{\fs45\pos(720,60)\i1}TN: Kitaouji Kinya is an actor.
+Dialogue: 0,0:13:01.96,0:13:02.76,Default,,0,0,0,,Definitely, I can see it.
+Dialogue: 0,0:13:02.76,0:13:08.43,Default,,0,0,0,,{\fs45\i1\pos(720,110)}TN: Probably in reference to their other show, Suiyoubi no Downtown,\Nin which they prove or disprove various theories.
+Dialogue: 0,0:13:02.76,0:13:04.60,Default,,0,0,0,,{\clip(111.6,929.6,1323.6,1006.4)}Theory: When you spray Owada Shinya with CO2 gas,\Nhe turns into Kitaouji Kinya.
+Dialogue: 0,0:13:04.60,0:13:08.43,Default,,0,0,0,,Theory: When you spray Owada Shinya with CO2 gas,\Nhe turns into Kitaouji Kinya.
+Dialogue: 0,0:13:06.13,0:13:08.43,Default,,0,0,0,,... He turns into him!
+Dialogue: 0,0:13:09.77,0:13:12.60,Default,,0,0,0,,Both have been persistent in not reacting.
+Dialogue: 0,0:13:12.60,0:13:16.04,Default,,0,0,0,,Even with the Tesla coil as the last trap...
+Dialogue: 0,0:13:23.68,0:13:28.69,Default,,0,0,0,,With barely any kind of reaction, this has turned into a great match.
+Dialogue: 0,0:13:31.39,0:13:32.86,Default,,0,0,0,,That's amazing!
+Dialogue: 0,0:13:32.86,0:13:34.06,Default,,0,0,0,,That was incredible...
+Dialogue: 0,0:13:34.06,0:13:39.06,Default,,0,0,0,,The deciding factor for the match\Nwas the reaction to the wall explosion.
+Dialogue: 0,0:13:41.20,0:13:44.07,Default,,0,0,0,,Owada-san kinda...
+Dialogue: 0,0:13:42.27,0:13:44.60,Default,,0,0,0,,Yeah, he kinda...
+Dialogue: 0,0:13:44.07,0:13:45.97,Default,,0,0,0,,You could see his shoulders go up.
+Dialogue: 0,0:13:47.10,0:13:51.71,Default,,0,0,0,,Matoba was able to show off his strength\Nand has moved onto the finals.
+Dialogue: 0,0:13:51.71,0:13:52.68,Default,,0,0,0,,He was a tough opponent.
+Dialogue: 0,0:13:52.68,0:13:55.05,Default,,0,0,0,,He was amazing!
+Dialogue: 0,0:13:54.21,0:13:55.05,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:13:55.05,0:13:56.91,Default,,0,0,0,,What were you thinking about back there?
+Dialogue: 0,0:13:56.91,0:13:57.52,Default,,0,0,0,,Hm?
+Dialogue: 0,0:13:57.52,0:13:58.68,Default,,0,0,0,,Did you just lose yourself?
+Dialogue: 0,0:13:58.68,0:13:59.15,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:13:59.15,0:14:00.48,Default,,0,0,0,,Were you thinking of other stuff?
+Dialogue: 0,0:14:00.48,0:14:03.82,Default,,0,0,0,,No, I just stared straight ahead, yeah.
+Dialogue: 0,0:14:03.82,0:14:04.22,Default,,0,0,0,,{\clip(280.8,992,468,1075.2)}Sorry, but we can't use this footage.
+Dialogue: 0,0:14:04.22,0:14:07.36,Default,,0,0,0,,Sorry, but we can't use this footage.
+Dialogue: 0,0:14:08.83,0:14:14.47,Default,,0,0,0,,At last, it's time for the finals.\NThis is where we'll crown our no-reaction king.
+Dialogue: 0,0:14:14.67,0:14:20.64,new,,0,0,0,,{\fad(300,0)\blur20\pos(779.438,432)}Enter Challengers
+Dialogue: 0,0:14:16.77,0:14:18.67,Default,,0,0,0,,I hope they fight it out.
+Dialogue: 0,0:14:17.84,0:14:18.67,Default,,0,0,0,,Same here.
+Dialogue: 0,0:14:18.67,0:14:20.64,Default,,0,0,0,,This is gonna be a good match.
+Dialogue: 0,0:14:19.64,0:14:20.64,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:14:21.07,0:14:22.37,Default,,0,0,0,,They did make it this far, so...
+Dialogue: 0,0:14:22.37,0:14:23.84,Default,,0,0,0,,They should fare well.\NRight.
+Dialogue: 0,0:14:23.88,0:14:25.51,Default,,0,0,0,,{\clip(282,923.2,1136.4,1011.2)}With the way things have been going,\NI think Matoba-kun has the upper hand.
+Dialogue: 0,0:14:25.51,0:14:29.55,Default,,0,0,0,,With the way things have been going,\NI think Matoba-kun has the upper hand.
+Dialogue: 0,0:14:26.51,0:14:29.55,Default,,0,0,0,,Yeah, I think he should do well.
+Dialogue: 0,0:14:29.78,0:14:34.29,new,,0,0,0,,{\fad(300,0)\blur20\pos(720.,465)}Get Into Position
+Dialogue: 0,0:14:31.98,0:14:32.82,Default,,0,0,0,,So...
+Dialogue: 0,0:14:37.32,0:14:39.26,Default,,0,0,0,,They've gone on standby...
+Dialogue: 0,0:14:41.43,0:14:44.86,Default,,0,0,0,,It looks like he's staring at the baldness.
+Dialogue: 0,0:14:42.83,0:14:44.56,Default,,0,0,0,,Really.
+Dialogue: 0,0:14:44.56,0:14:46.70,Default,,0,0,0,,The bald part.
+Dialogue: 0,0:14:44.96,0:14:48.23,Default,,0,0,0,,{\pos(720,890)}It looks like he's thinking, "He sure is balding, huh."
+Dialogue: 0,0:14:48.23,0:14:51.10,Default,,0,0,0,,Like, "This old man's so bald."
+Dialogue: 0,0:14:51.60,0:14:52.74,Default,,0,0,0,,{\clip(37.2,985.6,811.2,1080)}I don't need that image in my head when he looks so serious.
+Dialogue: 0,0:14:52.74,0:14:54.14,Default,,0,0,0,,I don't need that image in my head when he looks so serious.
+Dialogue: 0,0:14:54.97,0:15:00.81,Default,,0,0,0,,{\fs45\pos(720,60)\i1}TN: Ijiri is a comedian and impressionist.
+Dialogue: 0,0:14:54.97,0:14:57.91,Default,,0,0,0,,Now, the next trap is Ijiri.
+Dialogue: 0,0:14:57.91,0:15:00.81,Default,,0,0,0,,Pay attention to how he makes his entrance.
+Dialogue: 0,0:15:02.71,0:15:06.92,Default,,0,0,0,,It looks like the make-up artist made him really shiny.
+Dialogue: 0,0:15:02.95,0:15:09.45,until,,0,0,0,,{\fad(300,300)\blur10\pos(530,870)}Seconds until Ijiri Okada appears
+Dialogue: 0,0:15:05.92,0:15:07.92,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1265,880)}seconds
+Dialogue: 0,0:15:07.92,0:15:09.45,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1265,880)}second
+Dialogue: 0,0:15:05.88,0:15:06.95,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1100,870)}3
+Dialogue: 0,0:15:06.95,0:15:07.95,seconds,,0,0,0,,{\blur10\pos(1100,870)}2
+Dialogue: 0,0:15:07.95,0:15:09.45,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1100,870)}1
+Dialogue: 0,0:15:19.26,0:15:21.23,Default,,0,0,0,,Someone moved there!
+Dialogue: 0,0:15:19.90,0:15:22.87,Default,,0,0,0,,Yeah, Zeebra-san moved a little.
+Dialogue: 0,0:15:21.23,0:15:22.87,Default,,0,0,0,,That's amazing.
+Dialogue: 0,0:15:22.87,0:15:23.97,Default,,0,0,0,,Zeebra definitely moved.
+Dialogue: 0,0:15:23.97,0:15:25.74,Default,,0,0,0,,Yeah, he did move.
+Dialogue: 0,0:15:26.54,0:15:30.11,Default,,0,0,0,,Matoba didn't move at all.
+Dialogue: 0,0:15:27.64,0:15:30.11,Default,,0,0,0,,Matoba-san's a strong contender.
+Dialogue: 0,0:15:28.34,0:15:30.11,Default,,0,0,0,,Matoba-san's amazing!
+Dialogue: 0,0:15:30.34,0:15:32.58,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}Wait
+Dialogue: 0,0:15:31.61,0:15:32.51,Default,,0,0,0,,Who's gonna win?
+Dialogue: 0,0:15:32.84,0:15:35.95,Default,,0,0,0,,That hurt so bad!!
+Dialogue: 0,0:15:34.81,0:15:35.95,Default,,0,0,0,,Wait, did he get hurt?
+Dialogue: 0,0:15:35.95,0:15:37.32,Default,,0,0,0,,It went straight for him.
+Dialogue: 0,0:15:37.32,0:15:38.92,Default,,0,0,0,,It hit him!
+Dialogue: 0,0:15:40.28,0:15:44.66,Default,,0,0,0,,The fight between these two challengers is on a whole other level.
+Dialogue: 0,0:15:45.89,0:15:51.83,Default,,0,0,0,,Although Matoba said he got hurt,\Nhe showed no sign of a reaction. Which means...
+Dialogue: 0,0:15:52.26,0:15:55.50,Default,,0,0,0,,When the next one starts,
+Dialogue: 0,0:15:55.50,0:15:57.57,Default,,0,0,0,,What if you just hit 'em with a bang after the drum part?
+Dialogue: 0,0:15:57.07,0:16:00.04,Default,,0,0,0,,Right.
+Dialogue: 0,0:15:57.57,0:16:00.04,Default,,0,0,0,,'Cause they're thinking that they're gonna have to wait.
+Dialogue: 0,0:16:01.07,0:16:06.21,Default,,0,0,0,,With a suggestion from Matsumoto, as soon as they\Nget into position, they'll be hit with flash cotton.
+Dialogue: 0,0:16:07.01,0:16:09.95,Default,,0,0,0,,How will the two of them react!?
+Dialogue: 0,0:16:11.02,0:16:12.38,Default,,0,0,0,,Get into position.
+Dialogue: 0,0:16:27.67,0:16:29.57,Default,,0,0,0,,Of course that'd happen!
+Dialogue: 0,0:16:29.57,0:16:32.57,Default,,0,0,0,,But Matoba-san's amazing!
+Dialogue: 0,0:16:30.84,0:16:32.57,Default,,0,0,0,,Really!
+Dialogue: 0,0:16:32.57,0:16:34.64,Default,,0,0,0,,Ah, Zeebra-san.
+Dialogue: 0,0:16:34.84,0:16:37.51,Default,,0,0,0,,Zeebra fell right into the trap!
+Dialogue: 0,0:16:37.51,0:16:38.08,Default,,0,0,0,,It got him!
+Dialogue: 0,0:16:38.24,0:16:41.31,new,,0,0,0,,{\fad(300,300)\blur20\pos(720,465)}Wait
+Dialogue: 0,0:16:39.88,0:16:40.88,Default,,0,0,0,,Well, that was fast!
+Dialogue: 0,0:16:40.88,0:16:42.81,Default,,0,0,0,,What twas that just now?!
+Dialogue: 0,0:16:42.81,0:16:43.75,Default,,0,0,0,,Caught me off guard.
+Dialogue: 0,0:16:43.75,0:16:45.62,Default,,0,0,0,,Me, too.
+Dialogue: 0,0:16:45.62,0:16:49.29,Default,,0,0,0,,Matoba's such a strong opponent.
+Dialogue: 0,0:16:47.65,0:16:49.02,Default,,0,0,0,,He's so strong!
+Dialogue: 0,0:16:49.02,0:16:50.62,Default,,0,0,0,,Even to something like this.
+Dialogue: 0,0:16:49.29,0:16:50.62,Default,,0,0,0,,Didn't even react to it.
+Dialogue: 0,0:16:50.62,0:16:53.12,Default,,0,0,0,,It's amazing how he didn't react to it.
+Dialogue: 0,0:16:54.06,0:16:59.46,Default,,0,0,0,,Once again, they'll be sprayed with powerful\NCO2 gas once they get into position.
+Dialogue: 0,0:17:00.33,0:17:02.53,Default,,0,0,0,,How will they fare this time?
+Dialogue: 0,0:17:03.37,0:17:04.74,Default,,0,0,0,,Get into position.
+Dialogue: 0,0:17:19.35,0:17:22.72,Default,,0,0,0,,That was amazing!
+Dialogue: 0,0:17:20.18,0:17:22.72,Default,,0,0,0,,There was so much gas!
+Dialogue: 0,0:17:22.72,0:17:24.19,Default,,0,0,0,,Well, that didn't go so well.
+Dialogue: 0,0:17:24.19,0:17:25.46,Default,,0,0,0,,That was amazing!
+Dialogue: 0,0:17:25.46,0:17:28.36,Default,,0,0,0,,His face hasn't even changed.
+Dialogue: 0,0:17:26.86,0:17:28.36,Default,,0,0,0,,That's amazing.
+Dialogue: 0,0:17:28.89,0:17:30.53,Default,,0,0,0,,Aw man...
+Dialogue: 0,0:17:30.53,0:17:32.46,Default,,0,0,0,,That's incredible.
+Dialogue: 0,0:17:32.46,0:17:35.67,Default,,0,0,0,,He's the best in Japan!!
+Dialogue: 0,0:17:36.47,0:17:38.14,Default,,0,0,0,,Matoba is just too strong...
+Dialogue: 0,0:17:38.77,0:17:42.24,Default,,0,0,0,,Usually, it'd end here, but the match isn't over, yet.
+Dialogue: 0,0:17:42.91,0:17:47.48,Default,,0,0,0,,The drone will start up and aim for Matoba\Nin the hopes that we'll get a reaction from him.
+Dialogue: 0,0:17:57.19,0:17:59.46,Default,,0,0,0,,This one, huh?
+Dialogue: 0,0:17:57.66,0:17:59.46,Default,,0,0,0,,He jumped a little there.
+Dialogue: 0,0:17:57.25,0:18:00.83,drone,,0,0,0,,{\fad(300,0)\pos(510,880)}Drone Operator\NCelebrity Tani+1.
+Dialogue: 0,0:17:59.46,0:18:03.03,Default,,0,0,0,,Not that one!
+Dialogue: 0,0:18:00.99,0:18:03.03,Default,,0,0,0,,The wind comes in just like that.
+Dialogue: 0,0:18:03.03,0:18:04.73,Default,,0,0,0,,Just smash into Matoba!!
+Dialogue: 0,0:18:04.73,0:18:06.03,Default,,0,0,0,,Let's hope it does.
+Dialogue: 0,0:18:08.67,0:18:12.24,Default,,0,0,0,,It went to his eye!
+Dialogue: 0,0:18:12.44,0:18:13.87,Default,,0,0,0,,This is amazing!
+Dialogue: 0,0:18:15.14,0:18:16.24,Default,,0,0,0,,It's comin' for him!
+Dialogue: 0,0:18:16.74,0:18:18.54,Default,,0,0,0,,This guy's incredible!
+Dialogue: 0,0:18:18.54,0:18:20.88,Default,,0,0,0,,He's too good!
+Dialogue: 0,0:18:21.11,0:18:23.88,Default,,0,0,0,,This guy's seriously amazing!
+Dialogue: 0,0:18:28.75,0:18:30.96,Default,,0,0,0,,How does he do it?
+Dialogue: 0,0:18:30.05,0:18:30.96,Default,,0,0,0,,Right?
+Dialogue: 0,0:18:30.96,0:18:31.89,Default,,0,0,0,,This is amazing!
+Dialogue: 0,0:18:31.89,0:18:34.09,Default,,0,0,0,,It's been on Matoba for so long now!
+Dialogue: 0,0:18:34.13,0:18:35.19,Default,,0,0,0,,{\clip(88.8,974.4,510,1075.2)}Leave it to him to let his "Matoba juices" pour out.
+Dialogue: 0,0:18:35.19,0:18:38.86,Default,,0,0,0,,Leave it to him to let his "Matoba juices" pour out.
+Dialogue: 0,0:18:36.79,0:18:38.86,Default,,0,0,0,,Definitely.
+Dialogue: 0,0:18:38.86,0:18:40.33,Default,,0,0,0,,He kinda...
+Dialogue: 0,0:18:40.33,0:18:43.07,Default,,0,0,0,,{\fs40\pos(720,100)\i1}TN: Ashita no Joe is a boxing manga. Matsumoto's probably\Nreferring to how Matoba's hair curls like the protagonist's.
+Dialogue: 0,0:18:40.33,0:18:43.07,Default,,0,0,0,,His head is channeling "Ashita no Joe" right now
+Dialogue: 0,0:18:43.53,0:18:45.47,Default,,0,0,0,,Now...
+Dialogue: 0,0:18:43.40,0:18:49.44,until,,0,0,0,,{\fad(300,300)\blur10\pos(570,870)}Seconds until the secret joke
+Dialogue: 0,0:18:45.54,0:18:47.84,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1040,880)}seconds
+Dialogue: 0,0:18:47.84,0:18:49.44,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1040,880)}second
+Dialogue: 0,0:18:45.47,0:18:46.87,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(865,870)}3
+Dialogue: 0,0:18:46.87,0:18:47.87,seconds,,0,0,0,,{\blur10\pos(865,870)}2
+Dialogue: 0,0:18:47.87,0:18:49.44,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(865,870)}1
+Dialogue: 0,0:18:57.62,0:19:00.68,Default,,0,0,0,,Well, Zeebra kinda moved a little bit.
+Dialogue: 0,0:18:58.58,0:19:00.89,rfd,,0,0,0,,{\fad(300,0)\pos(720,870)}Cans drop
+Dialogue: 0,0:18:59.08,0:19:00.68,Default,,0,0,0,,He did move.
+Dialogue: 0,0:19:00.68,0:19:03.02,Default,,0,0,0,,He couldn't have won.
+Dialogue: 0,0:19:03.02,0:19:05.46,Default,,0,0,0,,Wait, what?!
+Dialogue: 0,0:19:05.62,0:19:07.26,Default,,0,0,0,,That was amazing.
+Dialogue: 0,0:19:07.26,0:19:08.79,Default,,0,0,0,,It was all over me!
+Dialogue: 0,0:19:07.63,0:19:09.66,Default,,0,0,0,,Please make your way to the monitoring room.
+Dialogue: 0,0:19:08.79,0:19:09.66,Default,,0,0,0,,Did you hear him?!
+Dialogue: 0,0:19:05.82,0:19:09.69,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}End of No-Reaction
+Dialogue: 0,0:19:09.89,0:19:12.30,Default,,0,0,0,,Man, that was just...
+Dialogue: 0,0:19:10.23,0:19:12.30,Default,,0,0,0,,{\pos(720,900)}That drone was a pain in the ass!!
+Dialogue: 0,0:19:12.46,0:19:15.67,Default,,0,0,0,,I wanted to break it so bad!!
+Dialogue: 0,0:19:15.93,0:19:18.24,Default,,0,0,0,,Incredible!
+Dialogue: 0,0:19:16.47,0:19:18.24,Default,,0,0,0,,Just what I expected!
+Dialogue: 0,0:19:18.24,0:19:19.27,Default,,0,0,0,,That's Matoba for you!
+Dialogue: 0,0:19:19.27,0:19:20.64,Default,,0,0,0,,They don't mess around!
+Dialogue: 0,0:19:20.64,0:19:23.37,Default,,0,0,0,,I think it's clear that you won!!
+Dialogue: 0,0:19:21.74,0:19:23.37,Default,,0,0,0,,You definitely won!
+Dialogue: 0,0:19:23.41,0:19:24.07,Default,,0,0,0,,{\clip(166.8,984,445.2,1080)}It's just that Zeebra's weaknesses came through.
+Dialogue: 0,0:19:24.07,0:19:26.48,Default,,0,0,0,,It's just that Zeebra's weaknesses came through.
+Dialogue: 0,0:19:25.64,0:19:26.48,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:19:27.24,0:19:29.41,Default,,0,0,0,,I'm exhausted...
+Dialogue: 0,0:19:29.41,0:19:30.35,Default,,0,0,0,,You're so quiet!
+Dialogue: 0,0:19:30.78,0:19:32.35,Default,,0,0,0,,Of course, the result is...
+Dialogue: 0,0:19:32.35,0:19:35.95,Default,,0,0,0,,Red, red, red. Matoba Koji!
+Dialogue: 0,0:19:34.45,0:19:35.95,Default,,0,0,0,,Thanks!
+Dialogue: 0,0:19:35.95,0:19:37.96,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:19:37.96,0:19:39.86,Default,,0,0,0,,The very first!
+Dialogue: 0,0:19:40.06,0:19:44.16,Default,,0,0,0,,The first no-reaction king is Matoba Koji-san!
+Dialogue: 0,0:19:44.16,0:19:47.36,Default,,0,0,0,,I got it! Thank you!
+Dialogue: 0,0:19:47.36,0:19:51.97,Default,,0,0,0,,Matsumoto-san, you thought you could seriously take him down.
+Dialogue: 0,0:19:50.13,0:19:51.97,Default,,0,0,0,,Right.
+Dialogue: 0,0:19:51.97,0:19:53.37,Default,,0,0,0,,I do think that.
+Dialogue: 0,0:19:52.47,0:19:54.27,Default,,0,0,0,,Now you have to.
+Dialogue: 0,0:19:53.37,0:19:55.01,Default,,0,0,0,,I'd have to or else.
+Dialogue: 0,0:19:54.27,0:19:55.01,Default,,0,0,0,,But there's no way.
+Dialogue: 0,0:19:55.01,0:19:55.31,Default,,0,0,0,,Yup.
+Dialogue: 0,0:19:55.31,0:19:57.21,Default,,0,0,0,,I've been learning a lot from Hamada-san,
+Dialogue: 0,0:19:57.21,0:20:00.64,Default,,0,0,0,,And now I've surpassed him and won!!
+Dialogue: 0,0:19:58.68,0:20:00.64,Default,,0,0,0,,What the hell are you talking about?
+Dialogue: 0,0:20:00.64,0:20:01.81,Default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:20:01.81,0:20:03.45,Default,,0,0,0,,He was too weak for you.
+Dialogue: 0,0:20:02.55,0:20:03.45,Default,,0,0,0,,Yeah, definitely.
+Dialogue: 0,0:20:03.45,0:20:04.85,Default,,0,0,0,,He's very weak.
+Dialogue: 0,0:20:04.85,0:20:06.32,Default,,0,0,0,,So...
+Dialogue: 0,0:20:06.52,0:20:09.92,Default,,0,0,0,,{\fad(300,0)}The weakest...
+Dialogue: 0,0:20:09.25,0:20:09.89,Default,,0,0,0,,Huh?
+Dialogue: 0,0:20:09.92,0:20:12.02,Default,,0,0,0,,Should we get on to crowning the weakest now?
+Dialogue: 0,0:20:12.02,0:20:13.69,Default,,0,0,0,,If we're talking about the weakest...
+Dialogue: 0,0:20:12.62,0:20:13.69,Default,,0,0,0,,Then go ahead.
+Dialogue: 0,0:20:13.69,0:20:14.63,Default,,0,0,0,,No way.
+Dialogue: 0,0:20:14.79,0:20:15.73,Default,,0,0,0,,{\clip(357,984,681,1078)}Hamada-san and Tanaka-san.
+Dialogue: 0,0:20:15.73,0:20:16.43,Default,,0,0,0,,Hamada-san and Tanaka-san.
+Dialogue: 0,0:20:16.43,0:20:17.43,Default,,0,0,0,,What the hell?!
+Dialogue: 0,0:20:17.43,0:20:18.36,Default,,0,0,0,,Sounds good.
+Dialogue: 0,0:20:18.36,0:20:18.80,Default,,0,0,0,,No no no,
+Dialogue: 0,0:20:18.80,0:20:19.90,Default,,0,0,0,,I swear I'm gonna win!!
+Dialogue: 0,0:20:19.90,0:20:21.10,Default,,0,0,0,,Yeah, but...
+Dialogue: 0,0:20:21.10,0:20:22.80,Default,,0,0,0,,I'm sorry, but I swear I will!
+Dialogue: 0,0:20:22.97,0:20:24.17,Default,,0,0,0,,I mean, it'll be close, but...\NWhat?
+Dialogue: 0,0:20:24.17,0:20:25.17,Default,,0,0,0,,Well then...
+Dialogue: 0,0:20:25.17,0:20:27.57,Default,,0,0,0,,It has to be perfect.
+Dialogue: 0,0:20:27.57,0:20:30.44,Default,,0,0,0,,If it's gonna be like that, then I don't even care anymore!!
+Dialogue: 0,0:20:33.24,0:20:38.85,Default,,0,0,0,,Coming up next!\NA battle to find the weakest no-reaction king!!
+Dialogue: 0,0:20:40.15,0:20:46.29,Default,,0,0,0,,Who will be the weakest no-reaction king?\NTanaka Naoki vs. Hamada Masatoshi
+Dialogue: 0,0:20:46.82,0:20:48.29,Default,,0,0,0,,I see...
+Dialogue: 0,0:20:48.29,0:20:50.39,Default,,0,0,0,,But they look so weak.
+Dialogue: 0,0:20:49.19,0:20:50.39,Default,,0,0,0,,They really do.
+Dialogue: 0,0:20:50.39,0:20:52.03,Default,,0,0,0,,What the hell is up with them?
+Dialogue: 0,0:20:51.00,0:20:52.03,Default,,0,0,0,,I kinda understand, though.
+Dialogue: 0,0:20:52.03,0:20:53.13,Default,,0,0,0,,Seriously.\Nright?
+Dialogue: 0,0:20:53.50,0:20:55.27,Default,,0,0,0,,Not a good start for him already.
+Dialogue: 0,0:20:55.27,0:20:56.37,Default,,0,0,0,,He's already scared.
+Dialogue: 0,0:20:56.37,0:20:58.20,Default,,0,0,0,,Yeah, he's not ready.
+Dialogue: 0,0:20:58.40,0:21:02.17,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}Get Into Position
+Dialogue: 0,0:21:00.67,0:21:02.17,Default,,0,0,0,,So, this where they start.
+Dialogue: 0,0:21:02.17,0:21:05.58,Default,,0,0,0,,What kinda nerves do they have?
+Dialogue: 0,0:21:02.71,0:21:05.58,Default,,0,0,0,,What the hell is that? I've had it with this guy.
+Dialogue: 0,0:21:05.58,0:21:07.48,Default,,0,0,0,,Seriously.
+Dialogue: 0,0:21:08.68,0:21:10.98,Default,,0,0,0,,What's with his face?
+Dialogue: 0,0:21:08.98,0:21:10.98,Default,,0,0,0,,What is that face?\NIt kinda looks off.
+Dialogue: 0,0:21:11.58,0:21:12.78,Default,,0,0,0,,What? That face...
+Dialogue: 0,0:21:12.78,0:21:17.02,Default,,0,0,0,,What the... This guy pisses me off!!
+Dialogue: 0,0:21:13.32,0:21:14.59,Default,,0,0,0,,Why's his face like that?
+Dialogue: 0,0:21:14.59,0:21:16.45,Default,,0,0,0,,He's acting all cute!
+Dialogue: 0,0:21:17.02,0:21:18.86,Default,,0,0,0,,He's just like a little girl!
+Dialogue: 0,0:21:17.89,0:21:18.86,Default,,0,0,0,,Yeah, seriously...
+Dialogue: 0,0:21:18.86,0:21:21.96,Default,,0,0,0,,This isn't what we talked about!! I hate this guy!
+Dialogue: 0,0:21:22.83,0:21:27.77,Default,,0,0,0,,Two curveball jokes have been set up in\Nthis match to find the weakest king.
+Dialogue: 0,0:21:28.77,0:21:33.37,Default,,0,0,0,,So what kind of reactions will they show us!?
+Dialogue: 0,0:21:34.57,0:21:42.78,until,,0,0,0,,{\fad(300,300)\blur10\pos(526.5,870)}Seconds until the Tesla coil discharges
+Dialogue: 0,0:21:39.21,0:21:41.45,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1270,880)}seconds
+Dialogue: 0,0:21:41.45,0:21:42.75,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1270,880)}second
+Dialogue: 0,0:21:39.18,0:21:40.51,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1100,870)}3
+Dialogue: 0,0:21:40.51,0:21:41.45,seconds,,0,0,0,,{\blur10\pos(1100,870)}2
+Dialogue: 0,0:21:41.45,0:21:42.75,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1100,870)}1
+Dialogue: 0,0:21:48.19,0:21:49.49,Default,,0,0,0,,{\pos(990.169,401.4)\c&H0CFFFC&\frz334.1}Whoa~
+Dialogue: 0,0:21:50.79,0:21:52.06,Default,,0,0,0,,Did it shock him?
+Dialogue: 0,0:21:52.82,0:21:54.83,Default,,0,0,0,,He was like, "Whoa~."\NHe went, "Whoa~"
+Dialogue: 0,0:21:59.26,0:22:00.90,Default,,0,0,0,,{\pos(240.169,472.8)\c&H0CFFFC&\frz22.67}Whoa
+Dialogue: 0,0:22:03.23,0:22:04.90,Default,,0,0,0,,That was full out!!
+Dialogue: 0,0:22:04.90,0:22:07.97,Default,,0,0,0,,{\fs90}Full out!!
+Dialogue: 0,0:22:16.21,0:22:18.62,Default,,0,0,0,,{\fs53\clip(16.8,987.2,883.2,1073.6)}Man, that only lasted for, like, 2 minutes, but I could laugh forever.
+Dialogue: 0,0:22:18.62,0:22:20.62,Default,,0,0,0,,{\fs53}Man, that only lasted for, like, 2 minutes, but I could laugh forever.
+Dialogue: 0,0:22:19.18,0:22:20.62,Default,,0,0,0,,That was unbelievable.
+Dialogue: 0,0:22:20.62,0:22:22.25,Default,,0,0,0,,I wanna take this home with me!
+Dialogue: 0,0:22:22.25,0:22:22.62,Default,,0,0,0,,Wait.
+Dialogue: 0,0:22:22.62,0:22:23.75,Default,,0,0,0,,That was a full out reaction!
+Dialogue: 0,0:22:26.06,0:22:28.06,Default,,0,0,0,,You always have something comin' outta your mouth!!
+Dialogue: 0,0:22:27.46,0:22:28.06,Default,,0,0,0,,My apologies.
+Dialogue: 0,0:22:28.26,0:22:30.16,Default,,0,0,0,,You were just like, "No!".
+Dialogue: 0,0:22:30.39,0:22:31.46,Default,,0,0,0,,Did I?
+Dialogue: 0,0:22:31.46,0:22:36.67,Default,,0,0,0,,You did! You went, "No!" like an idiot!
+Dialogue: 0,0:22:38.70,0:22:44.11,new,,0,0,0,,{\fad(300,0)\blur20\pos(720,465)}Get Into Position
+Dialogue: 0,0:22:40.84,0:22:42.64,Default,,0,0,0,,My heat can't take anymore.
+Dialogue: 0,0:22:41.41,0:22:44.11,Default,,0,0,0,,He's in bad shape.
+Dialogue: 0,0:22:42.64,0:22:44.11,Default,,0,0,0,,I hate this!
+Dialogue: 0,0:22:44.11,0:22:47.48,Default,,0,0,0,,I don't know what face he's trying to make.
+Dialogue: 0,0:22:47.48,0:22:49.55,Default,,0,0,0,,What's with the look on his face?
+Dialogue: 0,0:22:49.55,0:22:52.02,Default,,0,0,0,,What d'you think of his face, Matsumoto-san?
+Dialogue: 0,0:22:49.55,0:22:51.08,Default,,0,0,0,,I don't get him.
+Dialogue: 0,0:22:51.08,0:22:52.02,Default,,0,0,0,,I don't get it.
+Dialogue: 0,0:22:52.02,0:22:53.28,Default,,0,0,0,,{\clip(300,979.2,625.2,1080)}He's so scary, he's turning into a girl!!
+Dialogue: 0,0:22:53.28,0:22:55.32,Default,,0,0,0,,He's so scary, he's turning into a girl!!
+Dialogue: 0,0:22:55.32,0:22:56.19,Default,,0,0,0,,It's different.
+Dialogue: 0,0:22:56.22,0:22:58.32,Default,,0,0,0,,{\clip(121.2,987.2,691.2,1070.4)}It's like if a girl had a kid, and then that kid had a kid.
+Dialogue: 0,0:22:58.32,0:23:00.02,Default,,0,0,0,,It's like if a girl had a kid, and then that kid had a kid.
+Dialogue: 0,0:22:57.55,0:22:58.69,Default,,0,0,0,,Ah, I see.
+Dialogue: 0,0:22:59.99,0:23:01.46,Default,,0,0,0,,I can see that.
+Dialogue: 0,0:23:01.46,0:23:04.23,Default,,0,0,0,,This pisses me off.
+Dialogue: 0,0:23:04.23,0:23:05.40,Default,,0,0,0,,He must be having a hard time.
+Dialogue: 0,0:23:05.40,0:23:07.13,Default,,0,0,0,,Probably...
+Dialogue: 0,0:23:01.16,0:23:09.40,until,,0,0,0,,{\fad(300,300)\blur10\pos(600,870)}Seconds until Ijiri Okada appears
+Dialogue: 0,0:23:05.83,0:23:08.07,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1265,880)}seconds
+Dialogue: 0,0:23:08.07,0:23:09.40,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1265,880)}second
+Dialogue: 0,0:23:05.83,0:23:07.13,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(1100,870)}3
+Dialogue: 0,0:23:07.13,0:23:08.07,seconds,,0,0,0,,{\blur10\pos(1100,870)}2
+Dialogue: 0,0:23:08.07,0:23:09.40,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(1100,870)}1
+Dialogue: 0,0:23:11.44,0:23:12.37,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:23:12.67,0:23:14.30,Default,,0,0,0,,{\pos(510,620)\c&H08FFFB&\frz19.44}Whaa
+Dialogue: 0,0:23:13.40,0:23:14.30,Default,,0,0,0,,Who!
+Dialogue: 0,0:23:14.71,0:23:17.01,Default,,0,0,0,,{\pos(1139.999,574)\c&H08FFFB&\frz333.3}Whaaa~
+Dialogue: 0,0:23:15.37,0:23:16.97,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:23:17.71,0:23:19.18,Default,,0,0,0,,Alright, alright!
+Dialogue: 0,0:23:19.18,0:23:21.11,Default,,0,0,0,,"WOW!".
+Dialogue: 0,0:23:21.28,0:23:22.98,Default,,0,0,0,,That was just a normal reaction.
+Dialogue: 0,0:23:22.98,0:23:25.08,Default,,0,0,0,,They were like, "WOW!".
+Dialogue: 0,0:23:25.62,0:23:27.38,Default,,0,0,0,,He's...!
+Dialogue: 0,0:23:27.38,0:23:29.12,Default,,0,0,0,,I'd hate this.
+Dialogue: 0,0:23:29.12,0:23:31.62,Default,,0,0,0,,He's not even surprised by this.
+Dialogue: 0,0:23:33.12,0:23:34.29,Default,,0,0,0,,What is this?
+Dialogue: 0,0:23:33.42,0:23:37.13,until,,0,0,0,,{\fad(300,300)\blur10\pos(510,250)}Seconds until the secret joke
+Dialogue: 0,0:23:33.42,0:23:35.86,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(950,250)}seconds
+Dialogue: 0,0:23:35.86,0:23:37.13,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(950,250)}second
+Dialogue: 0,0:23:33.42,0:23:34.93,seconds,,0,0,0,,{\fad(300,0)\blur10\pos(815,250)}3
+Dialogue: 0,0:23:34.93,0:23:35.86,seconds,,0,0,0,,{\blur10\pos(815,250)}2
+Dialogue: 0,0:23:35.86,0:23:37.13,seconds,,0,0,0,,{\fad(0,300)\blur10\pos(815,250)}1
+Dialogue: 0,0:23:35.66,0:23:37.69,Default,,0,0,0,,Both of them were hilarious, though.
+Dialogue: 0,0:23:37.69,0:23:38.36,Default,,0,0,0,,Right?
+Dialogue: 0,0:23:39.86,0:23:40.60,Default,,0,0,0,,Right?
+Dialogue: 0,0:23:42.07,0:23:42.83,Default,,0,0,0,,Right?
+Dialogue: 0,0:23:45.30,0:23:46.27,Default,,0,0,0,,This is great!
+Dialogue: 0,0:23:47.10,0:23:50.27,Default,,0,0,0,,Both of them were so weak.
+Dialogue: 0,0:23:48.41,0:23:50.27,Default,,0,0,0,,Isn't this great?!
+Dialogue: 0,0:23:50.27,0:23:51.21,Default,,0,0,0,,There ya have it!
+Dialogue: 0,0:23:51.21,0:23:53.08,Default,,0,0,0,,Right, right!\NThat was the weakest king match!
+Dialogue: 0,0:23:53.08,0:23:55.58,Default,,0,0,0,,Thank you for being here, everyone!
+Dialogue: 0,0:23:54.18,0:23:55.58,Default,,0,0,0,,Thank you!
+Dialogue: 0,0:23:55.91,0:23:57.92,Default,,0,0,0,,See you next week!
+Dialogue: 0,0:24:02.65,0:24:03.72,Default,,0,0,0,,He's still scared.
+

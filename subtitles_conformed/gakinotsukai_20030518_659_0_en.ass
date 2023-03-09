@@ -1,0 +1,1114 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
+Aegisub Video Aspect Ratio: c1.777778
+
+[Aegisub Project Garbage]
+Last Style Storage: 123
+Video File: ../../Downloads/bowling/Onsen Batsu Bowling test.mkv
+Video AR Mode: 4
+Video AR Value: 1.500000
+Video Zoom Percent: 0.750000
+Active Line: 3
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1.33333,1.33333,2,6,6,7,1
+Style: Matsumoto,Arial,27,&H0000B9B5,&H000000FF,&H00FFFFFF,&H0000BCAC,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Yamazaki,Arial,27,&H00362FC2,&H000000FF,&H00E8FDE9,&H00050629,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Endo,Arial,27,&H00009B00,&H000000FF,&H00A9F4A6,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Tanaka,Arial,27,&H00E624BC,&H000000FF,&H00FFEEFA,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Hamada,Arial,27,&H00DD4137,&H000000FF,&H00FFF2E8,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Black,Arial,27,&H00000000,&H00000000,&H00FBFBFD,&H00000000,-1,0,0,0,100,100,0,0,1,1.33333,1.33333,2,6,6,7,1
+Style: Sekine Tsutomu,Arial,27,&H00FFBF34,&H000000FF,&H00F9FFE4,&H00E0C04B,-1,0,0,0,100,100,0,0,1,2,2,2,6,6,7,1
+Style: Pink,Arial,27,&H00C839FF,&H000000FF,&H00FCEFFF,&H00000000,-1,0,0,0,100,100,0,0,1,1.99999,1.99999,2,10,10,11,1
+Style: Yellow announcmend,Arial,37,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,2.67161,2.00371,2,7,7,7,1
+Style: Bookman old style - Songs,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2.67161,1.3358,2,7,7,7,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.20,Yellow announcmend,,0,0,0,,{\fad(1200,1200)\pos(355.597,69.64)}{\fs72\pos(660.8,79.2)}TEAM Gaki presents:
+Dialogue: 0,0:00:00.00,0:00:05.20,Bookman old style - Songs,,0,0,0,,{\fad(1200,1200)\pos(144.462,186.161)}{\pos(216,230)\3c&HFFFFFF&\4c&HFFFFFF&\c&H059A86&}Timing/Typesetting:{\c}\N{{\c&H71017E&\3c&HFFFFFF&}Sacro
+Dialogue: 0,0:00:00.00,0:00:05.20,Bookman old style - Songs,,0,0,0,,{\fad(1200,1200)\pos(621.462,190.161)}{\pos(996,230)\3c&HFFFFFF&\4c&HFFFFFF&\c&H23B9FF&}Translation:{\c}\N{\c&H558C00&}Mickstar{\c}
+Dialogue: 0,0:00:00.00,0:00:05.20,Bookman old style - Songs,,0,0,0,,{\fad(1200,1200)\pos(369.462,444.161)}{\pos(996,230)\3c&HFFFFFF&\4c&HFFFFFF&\c&H2627FC&}Final checker:{\c}\N{\c&H00A2B6&}James
+Dialogue: 0,0:00:00.38,0:00:04.88,Default,,0,0,0,,{\fad(1000,300)\fs40\pos(353.25,106)}The Battle
+Dialogue: 0,0:00:00.38,0:00:04.88,Default,,0,0,0,,{\fad(1000,300)\fs40\pos(355.5,250)}The Full Version
+Dialogue: 0,0:00:05.20,0:00:06.60,Matsumoto,,0,0,0,,So we were talking about doing this
+Dialogue: 0,0:00:06.60,0:00:09.20,Matsumoto,,0,0,0,,We were talking about which side these three should be on
+Dialogue: 0,0:00:09.08,0:00:09.98,Endo,,0,0,0,,Yes we were
+Dialogue: 0,0:00:09.57,0:00:13.14,Matsumoto,,0,0,0,,And with our mascot, Yamasaki-san...
+Dialogue: 0,0:00:13.29,0:00:14.14,Yamazaki,,0,0,0,,Thank you very much
+Dialogue: 0,0:00:14.26,0:00:14.83,Endo,,0,0,0,,Good luck to you on that
+Dialogue: 0,0:00:14.75,0:00:16.32,Yamazaki,,0,0,0,,Well I am the mascot
+Dialogue: 0,0:00:16.61,0:00:17.54,Matsumoto,,0,0,0,,and an enemy?
+Dialogue: 0,0:00:16.61,0:00:17.28,Yamazaki,,0,0,0,,To be honest...
+Dialogue: 0,0:00:17.76,0:00:20.08,Yamazaki,,0,0,0,,Yes I am your enemy as well
+Dialogue: 0,0:00:19.73,0:00:21.02,Matsumoto,,0,0,0,,When the hell did you become our mascot?
+Dialogue: 0,0:00:23.06,0:00:24.38,Yamazaki,,0,0,0,,I personally
+Dialogue: 0,0:00:24.67,0:00:26.69,Yamazaki,,0,0,0,,would like to join Matsumoto-san's side
+Dialogue: 0,0:00:26.69,0:00:28.63,Matsumoto,,0,0,0,,Apparently, he wants to join my team this time
+Dialogue: 0,0:00:28.43,0:00:29.34,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:00:29.01,0:00:29.88,Matsumoto,,0,0,0,,Do Cocorico want to as well?
+Dialogue: 0,0:00:30.54,0:00:33.76,Endo,,0,0,0,,We also want to join um... Matsumoto-san's team
+Dialogue: 0,0:00:33.98,0:00:35.51,Matsumoto,,0,0,0,,You haven't got anything to say?
+Dialogue: 0,0:00:35.66,0:00:36.73,Hamada,,0,0,0,,No, not at all
+Dialogue: 0,0:00:38.15,0:00:39.70,Matsumoto,,0,0,0,,What is with his confidence?
+Dialogue: 0,0:00:39.43,0:00:40.97,Endo,,0,0,0,,I know, it's making me nervous
+Dialogue: 0,0:00:40.47,0:00:41.40,Yamazaki,,0,0,0,,He is really confident
+Dialogue: 0,0:00:41.60,0:00:43.22,Yamazaki,,0,0,0,,Okay then, we will join his side
+Dialogue: 0,0:00:42.53,0:00:43.27,Hamada,,0,0,0,,By all means, go ahead
+Dialogue: 0,0:00:43.16,0:00:44.51,Endo,,0,0,0,,Okay let's go
+Dialogue: 0,0:00:46.12,0:00:46.80,Matsumoto,,0,0,0,,And so
+Dialogue: 0,0:00:46.73,0:00:47.09,Endo,,0,0,0,,Yup
+Dialogue: 0,0:00:47.09,0:00:48.70,Matsumoto,,0,0,0,,We were thinking of what we should do this time
+Dialogue: 0,0:00:48.72,0:00:49.23,Hamada,,0,0,0,,I see
+Dialogue: 0,0:00:49.23,0:00:51.30,Matsumoto,,0,0,0,,The suggestions so far were... what was it?
+Dialogue: 0,0:00:51.47,0:00:51.97,Tanaka,,0,0,0,,Bowling
+Dialogue: 0,0:00:52.03,0:00:54.37,Matsumoto,,0,0,0,,{\pos(372.375,366)}Bowling
+Dialogue: 0,0:00:52.63,0:00:53.40,Endo,,0,0,0,,Yes, bowling
+Dialogue: 0,0:00:54.47,0:00:58.21,Matsumoto,,0,0,0,,So we do bowling, and you just bowl normally but...
+Dialogue: 0,0:00:58.36,0:00:58.72,Hamada,,0,0,0,,Okay
+Dialogue: 0,0:00:58.70,0:00:59.77,Matsumoto,,0,0,0,,us four{\alphaHFF}will throw four balls {\alphaHFF} at the same time
+Dialogue: 0,0:00:59.77,0:01:00.97,Matsumoto,,0,0,0,,us four will throw four balls{\alphaHFF} at the same time
+Dialogue: 0,0:01:00.97,0:01:02.71,Matsumoto,,0,0,0,,us four will throw four balls at the same time
+Dialogue: 0,0:01:03.64,0:01:04.15,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:01:04.97,0:01:07.84,Hamada,,0,0,0,,But the lane is like this thin, will you four be able to do that?
+Dialogue: 0,0:01:08.45,0:01:09.38,Endo,,0,0,0,,Well um...
+Dialogue: 0,0:01:08.77,0:01:10.45,Matsumoto,,0,0,0,,Yeah I'm sure we can
+Dialogue: 0,0:01:09.13,0:01:10.44,Tanaka,,0,0,0,,Yeah we can
+Dialogue: 0,0:01:10.73,0:01:11.59,Matsumoto,,0,0,0,,Like somehow...
+Dialogue: 0,0:01:11.41,0:01:12.32,Yamazaki,,0,0,0,,It's perfect
+Dialogue: 0,0:01:13.01,0:01:14.27,Endo,,0,0,0,,Oh yeah, we can do it like this
+Dialogue: 0,0:01:14.77,0:01:17.01,Hamada,,0,0,0,,No no, there isn't that much width!
+Dialogue: 0,0:01:16.97,0:01:18.37,Yamazaki,,0,0,0,,This is about right
+Dialogue: 0,0:01:17.45,0:01:18.11,Tanaka,,0,0,0,,I'm sure we will fit
+Dialogue: 0,0:01:17.94,0:01:19.07,Matsumoto,,0,0,0,,Is it about this wide?
+Dialogue: 0,0:01:18.86,0:01:19.67,Tanaka,,0,0,0,,It is
+Dialogue: 0,0:01:18.96,0:01:19.87,Yamazaki,,0,0,0,,It is
+Dialogue: 0,0:01:19.58,0:01:20.77,Hamada,,0,0,0,,No no no no...
+Dialogue: 0,0:01:20.91,0:01:22.65,Hamada,,0,0,0,,You will be hanging off the sides, are you sure you're okay?
+Dialogue: 0,0:01:21.89,0:01:23.05,Matsumoto,,0,0,0,,No no, so we will be like...
+Dialogue: 0,0:01:25.42,0:01:27.45,Endo,,0,0,0,,We will be fine
+Dialogue: 0,0:01:27.37,0:01:35.34,Default,,0,0,0,,{\fad(150,0)\i1\pos(370.125,233)\c&HB7B3BD&\fnBookman Old Style}Hamada vs Team Matsumoto
+Dialogue: 0,0:01:27.37,0:01:35.34,Default,,0,0,0,,{\fad(150,0)\i1\c&HB7B3BD&\pos(365.625,308)\fnBookman Old Style}Special Bowling Battle
+Dialogue: 0,0:01:27.37,0:01:35.34,Default,,0,0,0,,{\fad(150,0)\i1\c&HB7B3BD&\pos(363.375,385)\fnBookman Old Style}Confirmed!
+Dialogue: 0,0:01:27.89,0:01:31.38,Default,,0,0,0,,And hence, a 4 vs 1 special bowling match was decided
+Dialogue: 0,0:01:31.38,0:01:35.12,Default,,0,0,0,,Who will win the battle to decide the Batsu game's participants?
+Dialogue: 0,0:01:35.59,0:01:37.65,Hamada,,0,0,0,,The first annual Gaki no Tsukai chikki chikki
+Dialogue: 0,0:01:37.79,0:01:40.09,Hamada,,0,0,0,,Hamada vs Matsumoto, Cocorico and other
+Dialogue: 0,0:01:40.65,0:01:42.41,Hamada,,0,0,0,,Unprecedented 4 vs 1
+Dialogue: 0,0:01:42.67,0:01:45.30,Hamada,,0,0,0,,special bowling battle!
+Dialogue: 0,0:01:49.88,0:01:52.06,Matsumoto,,0,0,0,,For the first time in ages, I am not alone
+Dialogue: 0,0:01:52.15,0:01:52.80,Hamada,,0,0,0,,Oh yeah, that's true
+Dialogue: 0,0:01:52.64,0:01:54.88,Matsumoto,,0,0,0,,Well I guess there are times when it's better to be on your own
+Dialogue: 0,0:01:54.82,0:01:55.28,Hamada,,0,0,0,,Is that so?
+Dialogue: 0,0:01:55.17,0:01:58.43,Matsumoto,,0,0,0,,But today I will try my best with Cocorico and other.
+Dialogue: 0,0:01:57.76,0:01:58.50,Endo,,0,0,0,,We will try our best!
+Dialogue: 0,0:01:58.50,0:01:59.16,Tanaka,,0,0,0,,Let's win, guys
+Dialogue: 0,0:01:58.91,0:01:59.65,Yamazaki,,0,0,0,,Let's seriously try our best
+Dialogue: 0,0:02:00.09,0:02:01.55,Hamada,,0,0,0,,But however you look at these guys,
+Dialogue: 0,0:02:02.02,0:02:03.40,Hamada,,0,0,0,,they're just pieces of crap
+Dialogue: 0,0:02:03.17,0:02:04.17,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:02:03.35,0:02:05.36,Matsumoto,,0,0,0,,They're just a shadow of crap
+Dialogue: 0,0:02:06.28,0:02:08.82,Matsumoto,,0,0,0,,A shadow comedian at best
+Dialogue: 0,0:02:07.83,0:02:08.80,Tanaka,,0,0,0,,Why?
+Dialogue: 0,0:02:09.36,0:02:10.87,Matsumoto,,0,0,0,,Anyway, everyone
+Dialogue: 0,0:02:10.87,0:02:12.46,Matsumoto,,0,0,0,,Take a look at this
+Dialogue: 0,0:02:12.74,0:02:13.62,Matsumoto,,0,0,0,,This time as well
+Dialogue: 0,0:02:13.98,0:02:15.75,Matsumoto,,0,0,0,,There are people holding up{\alphaHFF} placards from the crowds
+Dialogue: 0,0:02:15.36,0:02:16.18,Hamada,,0,0,0,,There are placards?
+Dialogue: 0,0:02:15.75,0:02:16.98,Matsumoto,,0,0,0,,There are people holding up placards from the crowds
+Dialogue: 0,0:02:16.77,0:02:17.64,Endo,,0,0,0,,Aww, I'm very grateful for that
+Dialogue: 0,0:02:16.98,0:02:20.99,Default,,0,0,0,,{\fs35\pos(369,146)}Prematurely balding turkey hunter
+Dialogue: 0,0:02:16.98,0:02:20.99,Default,,0,0,0,,{\fs30\pos(483.75,299)}Tanaka Naoki
+Dialogue: 0,0:02:17.64,0:02:18.61,Matsumoto,,0,0,0,,Tanaka...
+Dialogue: 0,0:02:18.84,0:02:20.47,Matsumoto,,0,0,0,,Prematurely balding turkey hunter
+Dialogue: 0,0:02:21.27,0:02:23.37,Tanaka,,0,0,0,,They definitely have no intention of supporting me
+Dialogue: 0,0:02:22.49,0:02:23.57,Matsumoto,,0,0,0,,No way.
+Dialogue: 0,0:02:24.10,0:02:26.88,Matsumoto,,0,0,0,,And Endo is..?
+Dialogue: 0,0:02:25.39,0:02:29.19,Default,,0,0,0,,{\fs35\pos(369,146)}Let it out! Bonito thrower from Shikoku
+Dialogue: 0,0:02:25.39,0:02:29.19,Default,,0,0,0,,{\fs30\pos(483.75,299)}Endo Shouzou
+Dialogue: 0,0:02:27.68,0:02:28.88,Tanaka,,0,0,0,,Get rid of it
+Dialogue: 0,0:02:28.28,0:02:31.13,Endo,,0,0,0,,I would but I got nothing else in terms of support
+Dialogue: 0,0:02:31.82,0:02:34.94,Matsumoto,,0,0,0,,And myself, what does it say?
+Dialogue: 0,0:02:33.37,0:02:34.44,Hamada,,0,0,0,,The black magician by the lane
+Dialogue: 0,0:02:33.80,0:02:37.20,Default,,0,0,0,,{\fs35\pos(390.375,119)\fry18\frz358.5}The black magician by the lane
+Dialogue: 0,0:02:33.80,0:02:37.20,Default,,0,0,0,,{\fs30\pos(483.75,299)\fry12\frz359.7}Matsumoto Hitoshi
+Dialogue: 0,0:02:34.92,0:02:35.60,Tanaka,,0,0,0,,A magician
+Dialogue: 0,0:02:35.63,0:02:37.00,Hamada,,0,0,0,,What the hell is that?
+Dialogue: 0,0:02:36.21,0:02:37.27,Endo,,0,0,0,,That's quite cool
+Dialogue: 0,0:02:37.54,0:02:38.33,Yamazaki,,0,0,0,,That's annoying
+Dialogue: 0,0:02:37.96,0:02:38.89,Matsumoto,,0,0,0,,And next...
+Dialogue: 0,0:02:38.34,0:02:40.07,Hamada,,0,0,0,,Your one is the only nice one
+Dialogue: 0,0:02:39.61,0:02:40.96,Matsumoto,,0,0,0,,What does Hamada's say?
+Dialogue: 0,0:02:41.17,0:02:45.24,Default,,0,0,0,,{\fs35\fry18\pos(378,99)\frz360}GO! Pervert strike comedian
+Dialogue: 0,0:02:41.17,0:02:45.24,Default,,0,0,0,,{\fs30\fry12\pos(488.25,294)\frz1.411}Hamada Masatoshi
+Dialogue: 0,0:02:41.52,0:02:42.11,Yamazaki,,0,0,0,,Go
+Dialogue: 0,0:02:41.71,0:02:42.28,Matsumoto,,0,0,0,,Go
+Dialogue: 0,0:02:42.67,0:02:44.08,Yamazaki,,0,0,0,,Pervert strike comedian
+Dialogue: 0,0:02:43.95,0:02:45.27,Matsumoto,,0,0,0,,Pervert strike comedian
+Dialogue: 0,0:02:46.38,0:02:47.25,Endo,,0,0,0,,Pervert strike comedian...
+Dialogue: 0,0:02:47.41,0:02:48.09,Tanaka,,0,0,0,,That's a bit of a shock
+Dialogue: 0,0:02:48.17,0:02:48.88,Matsumoto,,0,0,0,,Yamasaki-san
+Dialogue: 0,0:02:48.88,0:02:49.30,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:02:49.30,0:02:51.49,Matsumoto,,0,0,0,,The gutter comedian that Nishinomiya gave birth to
+Dialogue: 0,0:02:49.65,0:02:52.28,Default,,0,0,0,,{\fs30\pos(359.375,139)}The gutter comedian that Nishinomiya gave birth to:
+Dialogue: 0,0:02:49.65,0:02:52.28,Default,,0,0,0,,{\fs30\pos(473.625,296)}Yamasaki Hosei
+Dialogue: 0,0:02:53.01,0:02:54.69,Yamazaki,,0,0,0,,Give me a break, man, seriously.
+Dialogue: 0,0:02:54.24,0:02:55.65,Endo,,0,0,0,,They're not supporting us at all
+Dialogue: 0,0:02:55.65,0:02:57.76,Yamazaki,,0,0,0,,And the whole "Matsumoto, Cocorico and other" thing too...
+Dialogue: 0,0:02:57.06,0:02:58.66,Default,,0,0,0,,{\fad(0,150)\fs30\fnBookman Old Style\c&H704044&\3c&HFFFFFF&\frz7.262\frx10\fry10\pos(352.125,132)}First annual Gaki no tsukai arahende!!
+Dialogue: 0,0:02:57.06,0:02:58.66,Default,,0,0,0,,{\fad(0,150)\fs30\c&H38985C&\pos(402.75,189)\frx6\fry6\frz8.294\fnBookman Old Style}Hamada {\c&HCC9D51&}vs {\c&H81B2F8&}Matsumoto {\c&H514AF5&} Cocorico and others
+Dialogue: 0,0:02:57.06,0:02:58.66,Default,,0,0,0,,{\fad(0,150)\fs30\c&H573452&\frz10.02\frx358\fry10\b1\3c&HB8B8B8&\fnBookman Old Style\pos(392.625,273)}Unprecedented 4 vs 1 Special Bowling Battle!!
+Dialogue: 0,0:02:57.71,0:02:58.95,Endo,,0,0,0,,Yeah I can understand that
+Dialogue: 0,0:02:58.06,0:02:59.53,Yamazaki,,0,0,0,,How long are they going to do that for as well?
+Dialogue: 0,0:02:59.11,0:03:00.90,Endo,,0,0,0,,I don't know...
+Dialogue: 0,0:03:01.28,0:03:03.32,Matsumoto,,0,0,0,,But if you moan about that kind of thing too much
+Dialogue: 0,0:03:03.50,0:03:05.32,Matsumoto,,0,0,0,,They might erase the "other" part completely...
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\bord0\shad0\fad(400,300)\alpha50\p1\pos(360,422)\c&H2BA2DA&}m 0 0 l 543 -1 l 543 357 l 0 357 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\fad(300,300)\fs35\fnBookman Old Style\c&H48E4FF&\3c&HE25953&\pos(357.75,117)}4 vs 1 special bowling battle
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\fad(300,300)\c&HDF4B4F&\3c&HFFF6FF&\pos(297,183)}Rules are same as normal bowling
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\fad(300,300)\c&HDF4B4F&\3c&HFFF6FF&\pos(272.417,272)}Matsumoto's team must throw\N all 4 balls at the same time
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\fad(300,300)\c&HDF4B4F&\3c&HFFF6FF&\pos(328.75,336)}1 game - Whoever has more pins wins
+Dialogue: 0,0:03:06.57,0:03:13.67,Default,,0,0,0,,{\fad(300,300)\c&HDF4B4F&\3c&HFFF6FF&\pos(263.292,394)}Loser(s) participates in the Batsu Game
+Dialogue: 0,0:03:07.29,0:03:11.80,Default,,0,0,0,,Normal bowling rules. But Matsumoto's team must bowl all 4 balls
+Dialogue: 0,0:03:11.80,0:03:13.51,Default,,0,0,0,,at the same time.
+Dialogue: 0,0:03:14.17,0:03:15.31,Default,,0,0,0,,We will now start with the{\alphaHFF} first throw ceremony
+Dialogue: 0,0:03:15.31,0:03:16.84,Default,,0,0,0,,We will now start with the first throw ceremony
+Dialogue: 0,0:03:17.01,0:03:19.88,Default,,0,0,0,,{\fad(300,300)\fs24\pos(253.125,374)\3c&HAE241A&\4c&HFA3631&}Tournament director
+Dialogue: 0,0:03:17.01,0:03:19.88,Default,,0,0,0,,{\fad(300,300)\fs24\pos(365.625,410)\3c&HAE241A&\4c&HFA3631&}Suga Kenji: Producer
+Dialogue: 0,0:03:17.22,0:03:19.70,Default,,0,0,0,,So please give a warm welcome to this person
+Dialogue: 0,0:03:20.23,0:03:20.78,Yamazaki,,0,0,0,,Who?
+Dialogue: 0,0:03:21.16,0:03:22.03,Hamada,,0,0,0,,Let's move over here
+Dialogue: 0,0:03:23.42,0:03:26.22,Default,,0,0,0,,{\fad(300,0)\3c&HAE241A&\4c&HFA3631&\pos(352.125,395)}Heipo
+Dialogue: 0,0:03:24.00,0:03:24.65,Matsumoto,,0,0,0,,Oh bloody hell
+Dialogue: 0,0:03:25.20,0:03:25.67,Yamazaki,,0,0,0,,He's so small
+Dialogue: 0,0:03:25.62,0:03:26.36,Matsumoto,,0,0,0,,What the hell is he doing here?
+Dialogue: 0,0:03:26.76,0:03:27.51,Matsumoto,,0,0,0,,We don't care, man...
+Dialogue: 0,0:03:30.12,0:03:30.92,Hamada,,0,0,0,,Go on then
+Dialogue: 0,0:03:31.80,0:03:33.58,Endo,,0,0,0,,You have to do it when Hamada-san is looking at you!
+Dialogue: 0,0:03:32.89,0:03:34.89,Default,,0,0,0,,{\pos(365.333,375.667)}HEIPO DOKKIRI (trick)!
+Dialogue: 0,0:03:35.10,0:03:36.28,Matsumoto,,0,0,0,,Man that was shit
+Dialogue: 0,0:03:36.56,0:03:38.40,Default,,0,0,0,,Complete success!
+Dialogue: 0,0:03:38.31,0:03:39.41,Yamazaki,,0,0,0,,It didn't succeed at all
+Dialogue: 0,0:03:38.68,0:03:39.57,Tanaka,,0,0,0,,It really didn't
+Dialogue: 0,0:03:41.59,0:03:44.08,Hamada,,0,0,0,,Even if you thought you had to do it...
+Dialogue: 0,0:03:44.46,0:03:45.29,Hamada,,0,0,0,,I wasn't even watching!
+Dialogue: 0,0:03:47.44,0:03:48.94,Yamazaki,,0,0,0,,Hamada-san was facing the other way
+Dialogue: 0,0:03:48.94,0:03:50.24,Endo,,0,0,0,,He was looking this way
+Dialogue: 0,0:03:50.18,0:03:51.71,Matsumoto,,0,0,0,,{\pos(354.667,330.333)}I guess you're the type of person{\alphaHFF} who can only get shocked
+Dialogue: 0,0:03:50.50,0:03:51.17,Hamada,,0,0,0,,So true
+Dialogue: 0,0:03:51.71,0:03:52.98,Matsumoto,,0,0,0,,{\pos(354.667,330.333)}I guess you're the type of person who can only get shocked
+Dialogue: 0,0:03:54.58,0:03:56.09,Hamada,,0,0,0,,Well anyway, it's a first throw ceremony
+Dialogue: 0,0:03:56.42,0:03:58.32,Hamada,,0,0,0,,So please do it well!
+Dialogue: 0,0:03:57.31,0:03:58.00,Endo,,0,0,0,,We're counting on you!
+Dialogue: 0,0:03:58.34,0:04:00.34,Matsumoto,,0,0,0,,You never know, Heipo might be good at bowling
+Dialogue: 0,0:04:00.09,0:04:00.90,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:04:05.11,0:04:06.30,Matsumoto,,0,0,0,,Is this old guy for real?
+Dialogue: 0,0:04:07.25,0:04:08.53,Default,,0,0,0,,Okay then, here I go.
+Dialogue: 0,0:04:08.61,0:04:09.23,Tanaka,,0,0,0,,Go for it
+Dialogue: 0,0:04:08.77,0:04:10.30,Endo,,0,0,0,,We're counting on you seriously.
+Dialogue: 0,0:04:15.46,0:04:16.59,Matsumoto,,0,0,0,,And we're finished here...
+Dialogue: 0,0:04:16.78,0:04:17.52,Default,,0,0,0,,Thank you very much
+Dialogue: 0,0:04:17.37,0:04:18.35,Hamada,,0,0,0,,Thank you...
+Dialogue: 0,0:04:17.79,0:04:18.93,Default,,0,0,0,,Try your best and good luck
+Dialogue: 0,0:04:18.93,0:04:19.95,Endo,,0,0,0,,Thank you
+Dialogue: 0,0:04:22.11,0:04:23.39,Default,,0,0,0,,Next up
+Dialogue: 0,0:04:23.68,0:04:25.76,Default,,0,0,0,,Just for this battle
+Dialogue: 0,0:04:26.08,0:04:27.21,Default,,0,0,0,,They came all the way from America
+Dialogue: 0,0:04:27.52,0:04:29.10,Default,,0,0,0,,North Carolina Phoenixes
+Dialogue: 0,0:04:29.38,0:04:30.65,Default,,0,0,0,,The National Number 1{\alphaHFF} cheerleaders{\alphaHFF} have come just for us
+Dialogue: 0,0:04:30.65,0:04:31.92,Default,,0,0,0,,The National Number 1 cheerleaders{\alphaHFF} have come just for us
+Dialogue: 0,0:04:31.92,0:04:33.89,Default,,0,0,0,,The National Number 1 cheerleaders have come just for us
+Dialogue: 0,0:04:33.20,0:04:34.02,Tanaka,,0,0,0,,Seriously?
+Dialogue: 0,0:04:33.21,0:04:33.93,Default,,0,0,0,,Here they are
+Dialogue: 0,0:04:39.71,0:04:40.15,Matsumoto,,0,0,0,,Are they actually?
+Dialogue: 0,0:04:40.55,0:04:41.41,Hamada,,0,0,0,,Obviously not
+Dialogue: 0,0:04:41.30,0:04:42.05,Matsumoto,,0,0,0,,They're not, right?
+Dialogue: 0,0:04:41.89,0:04:43.90,Hamada,,0,0,0,,They're obviously not number 1 in America
+Dialogue: 0,0:05:12.05,0:05:13.15,Matsumoto,,0,0,0,,Okay we get it...
+Dialogue: 0,0:05:15.76,0:05:16.83,Endo,,0,0,0,,We totally understand...
+Dialogue: 0,0:05:18.41,0:05:20.40,Matsumoto,,0,0,0,,Simply put, it's the girl with the glasses which I found hilarious
+Dialogue: 0,0:05:21.48,0:05:23.22,Matsumoto,,0,0,0,,She's definitely not the type to be a cheerleader
+Dialogue: 0,0:05:24.23,0:05:25.21,Hamada,,0,0,0,,Anyway, today
+Dialogue: 0,0:05:25.21,0:05:25.95,Tanaka,,0,0,0,,Yup!
+Dialogue: 0,0:05:26.28,0:05:28.66,Hamada,,0,0,0,,Due to the disadvantage I have in numbers
+Dialogue: 0,0:05:29.21,0:05:30.54,Hamada,,0,0,0,,Apparently there's a coach{\alphaHFF} just for my team
+Dialogue: 0,0:05:30.54,0:05:32.54,Hamada,,0,0,0,,Apparently there's a coach just for my team
+Dialogue: 0,0:05:32.03,0:05:33.86,Matsumoto,,0,0,0,,Wait, what... What are we meant to do then?
+Dialogue: 0,0:05:34.04,0:05:35.51,Hamada,,0,0,0,,No no, you just figure it out yourselves...
+Dialogue: 0,0:05:35.00,0:05:35.90,Endo,,0,0,0,,We don't get a coach?
+Dialogue: 0,0:05:35.96,0:05:36.83,Matsumoto,,0,0,0,,We don't apparently
+Dialogue: 0,0:05:36.56,0:05:38.21,Hamada,,0,0,0,,If you could just try and figure it out yourselves...
+Dialogue: 0,0:05:38.34,0:05:39.21,Matsumoto,,0,0,0,,Something's wrong here...
+Dialogue: 0,0:05:39.28,0:05:42.15,Hamada,,0,0,0,,It's the professional bowler Ooyama Yukari-san, welcome!
+Dialogue: 0,0:05:42.19,0:05:42.98,Default,,0,0,0,,Wait, she is going to be your coach?
+Dialogue: 0,0:05:45.83,0:05:46.76,Yamazaki,,0,0,0,,Yeah, it's her for real
+Dialogue: 0,0:05:46.90,0:05:48.63,Pink,,0,0,0,,Nice to meet you
+Dialogue: 0,0:05:47.94,0:05:49.12,Hamada,,0,0,0,,I have seen her somewhere before
+Dialogue: 0,0:05:50.12,0:05:53.97,Default,,0,0,0,,Hamada's coach is someone who has won a lot of tournaments
+Dialogue: 0,0:05:51.03,0:05:59.04,Default,,0,0,0,,{\an7\shad0\fad(280,0)\alpha50\p1\c&HB9E1F8&\pos(357.75,264)\bord0}m 0 0 l 275 -1 l 275 153 l 0 153 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:05:51.03,0:05:59.04,Default,,0,0,0,,{\fad(280,0)\fs24\pos(499.5,305)\c&H8630E2&\3c&HFFFFFF&}Ooyama Yukari
+Dialogue: 0,0:05:51.03,0:05:59.04,Default,,0,0,0,,{\fad(280,0)\fs24\pos(492.75,371)\c&HD90511&\3c&HFFFFFF&}Nationally ranked 6th
+Dialogue: 0,0:05:53.97,0:05:55.66,Default,,0,0,0,,Her name is Ooyama Yukari
+Dialogue: 0,0:05:55.73,0:05:58.73,Default,,0,0,0,,Let's check out how good she really is
+Dialogue: 0,0:05:59.23,0:06:01.36,Hamada,,0,0,0,,We're going to get to witness her get a split
+Dialogue: 0,0:06:01.36,0:06:02.03,Tanaka,,0,0,0,,Can she do that?
+Dialogue: 0,0:06:01.81,0:06:03.12,Matsumoto,,0,0,0,,Well of course
+Dialogue: 0,0:06:02.32,0:06:04.06,Hamada,,0,0,0,,She's a professional, after all
+Dialogue: 0,0:06:04.39,0:06:05.44,Matsumoto,,0,0,0,,Even if she gets a strike
+Dialogue: 0,0:06:05.54,0:06:06.28,Hamada,,0,0,0,,Of course
+Dialogue: 0,0:06:05.54,0:06:08.96,Matsumoto,,0,0,0,,She's a professional; she should be getting these
+Dialogue: 0,0:06:12.26,0:06:13.18,Endo,,0,0,0,,Oh wow
+Dialogue: 0,0:06:12.60,0:06:14.40,Pink,,0,0,0,,Oh hang on, this looks good, this looks good
+Dialogue: 0,0:06:13.39,0:06:14.39,Yamazaki,,0,0,0,,She's got it
+Dialogue: 0,0:06:16.02,0:06:17.40,Matsumoto,,0,0,0,,Don't get me wrong, it is amazing but...
+Dialogue: 0,0:06:17.55,0:06:20.43,Matsumoto,,0,0,0,,as soon as she threw it, she was like "This looks good, this looks good"
+Dialogue: 0,0:06:23.56,0:06:28.40,Default,,0,0,0,,{\fad(250,250)\fnBookman Old Style\fs30\c&H8ABE00&\3c&HFFFFFF&\pos(353.25,221)}Practice Time
+Dialogue: 0,0:06:23.89,0:06:28.53,Default,,0,0,0,,From here on, they split up and practice for the match
+Dialogue: 0,0:06:29.99,0:06:30.92,Hamada,,0,0,0,,Damn this one is heavy
+Dialogue: 0,0:06:31.07,0:06:32.80,Hamada,,0,0,0,,Two days ago,{\alphaHFF} I did this
+Dialogue: 0,0:06:32.80,0:06:34.51,Hamada,,0,0,0,,Two days ago, I did this
+Dialogue: 0,0:06:33.65,0:06:34.44,Pink,,0,0,0,,Bowling?
+Dialogue: 0,0:06:34.95,0:06:35.66,Hamada,,0,0,0,,You know, with everyone
+Dialogue: 0,0:06:36.78,0:06:38.04,Hamada,,0,0,0,,My whole body {\alphaHFF}hurts like hell
+Dialogue: 0,0:06:38.04,0:06:39.34,Hamada,,0,0,0,,My whole body hurts like hell
+Dialogue: 0,0:06:39.65,0:06:40.91,Hamada,,0,0,0,,Just to hold it
+Dialogue: 0,0:06:41.15,0:06:42.52,Hamada,,0,0,0,,It feels so heavy
+Dialogue: 0,0:06:42.23,0:06:43.20,Pink,,0,0,0,,Are you going to be okay?
+Dialogue: 0,0:06:43.14,0:06:44.21,Hamada,,0,0,0,,Yup, I'm going to win!
+Dialogue: 0,0:06:45.19,0:06:46.66,Matsumoto,,0,0,0,,So from here...
+Dialogue: 0,0:06:47.62,0:06:48.40,Tanaka,,0,0,0,,like this
+Dialogue: 0,0:06:48.31,0:06:48.93,Endo,,0,0,0,,Yep
+Dialogue: 0,0:06:48.75,0:06:49.48,Tanaka,,0,0,0,,That's about right
+Dialogue: 0,0:06:49.76,0:06:51.09,Matsumoto,,0,0,0,,This will be
+Dialogue: 0,0:06:49.91,0:06:50.76,Yamazaki,,0,0,0,,This will be really tough
+Dialogue: 0,0:06:52.02,0:06:52.98,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:06:53.32,0:06:53.96,Matsumoto,,0,0,0,,I see
+Dialogue: 0,0:06:57.49,0:06:58.85,Pink,,0,0,0,,See? Look.
+Dialogue: 0,0:06:59.17,0:06:59.73,Pink,,0,0,0,,That one
+Dialogue: 0,0:07:00.24,0:07:00.57,Hamada,,0,0,0,,That's the one?
+Dialogue: 0,0:07:02.04,0:07:02.73,Pink,,0,0,0,,Let's go with that one
+Dialogue: 0,0:07:05.62,0:07:06.62,Hamada,,0,0,0,,I've decided on that ball
+Dialogue: 0,0:07:07.56,0:07:08.33,Pink,,0,0,0,,Let's go with that one
+Dialogue: 0,0:07:09.92,0:07:10.81,Endo,,0,0,0,,From about here?
+Dialogue: 0,0:07:10.39,0:07:13.03,Yamazaki,,0,0,0,,Can we like squeeze up a bit more?
+Dialogue: 0,0:07:13.61,0:07:14.55,Endo,,0,0,0,,Like this?
+Dialogue: 0,0:07:15.26,0:07:16.99,Matsumoto,,0,0,0,,Ready, steady
+Dialogue: 0,0:07:20.25,0:07:20.72,Endo,,0,0,0,,This is{\alphaHFF} impossible
+Dialogue: 0,0:07:20.72,0:07:22.12,Endo,,0,0,0,,This is impossible
+Dialogue: 0,0:07:22.06,0:07:22.72,Endo,,0,0,0,,Because I can't
+Dialogue: 0,0:07:22.97,0:07:23.89,Endo,,0,0,0,,even throw the ball, I doubt I will be able to...
+Dialogue: 0,0:07:23.95,0:07:26.55,Tanaka,,0,0,0,,I'm like this...
+Dialogue: 0,0:07:26.58,0:07:27.61,Matsumoto,,0,0,0,,Yeah same here...
+Dialogue: 0,0:07:27.90,0:07:28.91,Yamazaki,,0,0,0,,Yeah me too
+Dialogue: 0,0:07:29.01,0:07:29.91,Tanaka,,0,0,0,,I'm already in the gutter
+Dialogue: 0,0:07:29.60,0:07:31.43,Matsumoto,,0,0,0,,I thought we were bowling normally so I swung the ball back
+Dialogue: 0,0:07:31.45,0:07:32.50,Matsumoto,,0,0,0,,and the ball hit my knee hard
+Dialogue: 0,0:07:32.31,0:07:33.33,Tanaka,,0,0,0,,Really?
+Dialogue: 0,0:07:33.48,0:07:34.93,Tanaka,,0,0,0,,We can't swing the ball back at all
+Dialogue: 0,0:07:35.10,0:07:36.52,Yamazaki,,0,0,0,,But seriously
+Dialogue: 0,0:07:36.85,0:07:38.43,Yamazaki,,0,0,0,,We can't do this movement
+Dialogue: 0,0:07:38.31,0:07:38.94,Endo,,0,0,0,,It's just like this
+Dialogue: 0,0:07:38.69,0:07:40.18,Tanaka,,0,0,0,,It's impossible for sure
+Dialogue: 0,0:07:40.00,0:07:41.63,Matsumoto,,0,0,0,,Maybe we should try once?
+Dialogue: 0,0:07:42.52,0:07:43.39,Hamada,,0,0,0,,You guys ready?
+Dialogue: 0,0:07:44.49,0:07:45.89,Endo,,0,0,0,,He's already asking us
+Dialogue: 0,0:07:44.85,0:07:46.32,Tanaka,,0,0,0,,He's asking us
+Dialogue: 0,0:07:46.07,0:07:47.41,Hamada,,0,0,0,,I've been waiting for ages
+Dialogue: 0,0:07:47.54,0:07:48.28,Tanaka,,0,0,0,,We're good to go
+Dialogue: 0,0:07:47.71,0:07:48.72,Matsumoto,,0,0,0,,We're fine
+Dialogue: 0,0:07:48.36,0:07:49.38,Endo,,0,0,0,,Ready anytime...
+Dialogue: 0,0:07:49.60,0:07:50.06,Hamada,,0,0,0,,You sure?
+Dialogue: 0,0:07:50.06,0:07:50.48,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:07:50.48,0:07:51.25,Matsumoto,,0,0,0,,We're good to go
+Dialogue: 0,0:07:51.48,0:07:52.29,Hamada,,0,0,0,,Okay then, let's do it
+Dialogue: 0,0:07:52.85,0:07:53.21,Endo,,0,0,0,,Yes
+Dialogue: 0,0:07:53.66,0:07:55.54,Default,,0,0,0,,The battle finally starts
+Dialogue: 0,0:07:55.68,0:07:58.58,Default,,0,0,0,,Who will win the special bowling battle?
+Dialogue: 0,0:07:59.06,0:08:05.06,Hamada,,0,0,0,,{\pos(515.25,159)}First: Hamada
+Dialogue: 0,0:07:59.06,0:08:05.06,Yamazaki,,0,0,0,,{\pos(193.542,397.333)}Second: Team Matsumoto
+Dialogue: 0,0:07:59.39,0:08:02.71,Default,,0,0,0,,Hamada will bowl first; Team Matsumoto will bowl second
+Dialogue: 0,0:08:02.71,0:08:04.96,Default,,0,0,0,,Hamada's first throw is a very important one.
+Dialogue: 0,0:08:05.26,0:08:08.40,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 28 l 0 28 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:08:05.26,0:08:08.40,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,68.556)}1st Frame
+Dialogue: 0,0:08:05.36,0:08:06.15,Endo,,0,0,0,,Here we go then
+Dialogue: 0,0:08:10.59,0:08:11.77,Endo,,0,0,0,,Oh man, this is good
+Dialogue: 0,0:08:14.23,0:08:15.06,Hamada,,0,0,0,,Two more
+Dialogue: 0,0:08:14.57,0:08:15.35,Tanaka,,0,0,0,,But still...
+Dialogue: 0,0:08:15.45,0:08:17.35,Yamazaki,,0,0,0,,If he gets a spare here...
+Dialogue: 0,0:08:17.44,0:08:18.95,Endo,,0,0,0,,That would be bad...
+Dialogue: 0,0:08:17.44,0:08:18.95,Tanaka,,0,0,0,,It woule be really bad for us
+Dialogue: 0,0:08:18.95,0:08:19.96,Matsumoto,,0,0,0,,It would be real bad if he got it
+Dialogue: 0,0:08:19.96,0:08:20.39,Tanaka,,0,0,0,,Yeah...
+Dialogue: 0,0:08:20.35,0:08:22.35,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:08:20.35,0:08:22.35,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}First frame\N2nd throw
+Dialogue: 0,0:08:23.28,0:08:24.22,Endo,,0,0,0,,He got it
+Dialogue: 0,0:08:24.36,0:08:25.16,Yamazaki,,0,0,0,,Shit
+Dialogue: 0,0:08:27.20,0:08:28.29,Endo,,0,0,0,,Shit, man!
+Dialogue: 0,0:08:29.41,0:08:31.09,Endo,,0,0,0,,This is bad, man!
+Dialogue: 0,0:08:32.14,0:08:33.25,Yamazaki,,0,0,0,,For real?
+Dialogue: 0,0:08:33.50,0:08:35.90,Matsumoto,,0,0,0,,This is our first ever throwing as a four
+Dialogue: 0,0:08:35.90,0:08:36.66,Endo,,0,0,0,,That's true
+Dialogue: 0,0:08:36.29,0:08:37.49,Matsumoto,,0,0,0,,Just ready, steady, throw...
+Dialogue: 0,0:08:37.89,0:08:39.52,Matsumoto,,0,0,0,,We haven't even been given time to practice
+Dialogue: 0,0:08:39.37,0:08:40.10,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:08:40.25,0:08:43.57,Default,,0,0,0,,The four didn't practise at all during the practice session
+Dialogue: 0,0:08:43.57,0:08:46.49,Default,,0,0,0,,How will their first throw go?
+Dialogue: 0,0:08:45.84,0:08:50.24,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:08:45.84,0:08:50.24,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(594.667,402.333)}Endo
+Dialogue: 0,0:08:45.84,0:08:50.24,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(596.917,336)}Matsumoto
+Dialogue: 0,0:08:45.84,0:08:50.24,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(594.458,367.667)}Yamasaki
+Dialogue: 0,0:08:45.84,0:08:50.24,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(596,435.333)}Tanaka
+Dialogue: 0,0:08:47.41,0:08:48.12,Yamazaki,,0,0,0,,Get closer
+Dialogue: 0,0:08:48.45,0:08:49.12,Tanaka,,0,0,0,,Go that way more
+Dialogue: 0,0:08:48.73,0:08:49.66,Endo,,0,0,0,,I can't
+Dialogue: 0,0:08:49.44,0:08:49.81,Tanaka,,0,0,0,,{\pos(362.667,391.667)}I'm already in{\alphaHFF} the gutter
+Dialogue: 0,0:08:49.81,0:08:51.58,Tanaka,,0,0,0,,{\pos(362.667,391.667)}I'm already in the gutter
+Dialogue: 0,0:08:50.49,0:08:51.44,Tanaka,,0,0,0,,If we go straight
+Dialogue: 0,0:08:51.28,0:08:52.64,Endo,,0,0,0,,This is bad, man
+Dialogue: 0,0:08:51.96,0:08:53.63,Matsumoto,,0,0,0,,Oh man, I'm worried now
+Dialogue: 0,0:08:52.77,0:08:54.20,Tanaka,,0,0,0,,Please go that way a bit more
+Dialogue: 0,0:08:53.09,0:08:54.76,Hamada,,0,0,0,,Hurry the hell up already!
+Dialogue: 0,0:08:54.89,0:08:55.71,Endo,,0,0,0,,Please wait a minute
+Dialogue: 0,0:08:55.32,0:08:56.85,Matsumoto,,0,0,0,,Think about this, if we lose
+Dialogue: 0,0:08:56.29,0:08:57.29,Tanaka,,0,0,0,,I know
+Dialogue: 0,0:08:56.97,0:08:59.05,Matsumoto,,0,0,0,,He will really get us if we lose this
+Dialogue: 0,0:08:59.26,0:09:00.12,Matsumoto,,0,0,0,,I'm begging you guys
+Dialogue: 0,0:09:00.96,0:09:02.21,Matsumoto,,0,0,0,,That's what scares me
+Dialogue: 0,0:09:02.06,0:09:02.93,Tanaka,,0,0,0,,Come on
+Dialogue: 0,0:09:02.71,0:09:03.51,Yamazaki,,0,0,0,,Seriously guys
+Dialogue: 0,0:09:03.43,0:09:04.82,Endo,,0,0,0,,If we muck around, we could get hurt
+Dialogue: 0,0:09:03.59,0:09:07.76,Default,,0,0,0,,{\fad(300,300)\fs23\pos(352.444,381.889)}The bowling centre has allowed them to bowl like this; please do not try this at home
+Dialogue: 0,0:09:04.39,0:09:05.55,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:09:04.47,0:09:05.88,Tanaka,,0,0,0,,Let's do it properly
+Dialogue: 0,0:09:05.79,0:09:07.67,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:09:07.85,0:09:08.86,Yamazaki,,0,0,0,,Everyone make yourselves smaller
+Dialogue: 0,0:09:08.61,0:09:09.45,Tanaka,,0,0,0,,Smaller
+Dialogue: 0,0:09:09.02,0:09:09.94,Yamazaki,,0,0,0,,Get smaller
+Dialogue: 0,0:09:10.53,0:09:11.19,Tanaka,,0,0,0,,Okay
+Dialogue: 0,0:09:11.19,0:09:11.98,Matsumoto,,0,0,0,,Right, here we go
+Dialogue: 0,0:09:12.65,0:09:14.13,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:09:17.54,0:09:18.95,Yamazaki,,0,0,0,,Okay okay okay
+Dialogue: 0,0:09:18.86,0:09:19.63,Endo,,0,0,0,,Look, look, look
+Dialogue: 0,0:09:19.70,0:09:20.53,Pink,,0,0,0,,The green one...
+Dialogue: 0,0:09:20.65,0:09:22.54,Hamada,,0,0,0,,Oh shit, this is a strike!
+Dialogue: 0,0:09:26.03,0:09:26.81,Yamazaki,,0,0,0,,Get it!
+Dialogue: 0,0:09:27.02,0:09:28.37,Endo,,0,0,0,,YEEEAAAHHH!!!!
+Dialogue: 0,0:09:29.14,0:09:30.16,Tanaka,,0,0,0,,Come on!
+Dialogue: 0,0:09:31.39,0:09:32.30,Matsumoto,,0,0,0,,Yes!!
+Dialogue: 0,0:09:33.78,0:09:34.54,Matsumoto,,0,0,0,,We can win!
+Dialogue: 0,0:09:35.62,0:09:36.73,Matsumoto,,0,0,0,,Amazing!
+Dialogue: 0,0:09:37.28,0:09:38.53,Matsumoto,,0,0,0,,This is amazing!
+Dialogue: 0,0:09:38.53,0:09:39.95,Yamazaki,,0,0,0,,Who threw the last ball?
+Dialogue: 0,0:09:39.97,0:09:40.62,Endo,,0,0,0,,The red one?
+Dialogue: 0,0:09:40.84,0:09:42.17,Matsumoto,,0,0,0,,Amazing!
+Dialogue: 0,0:09:44.23,0:09:45.54,Matsumoto,,0,0,0,,That was fantastic
+Dialogue: 0,0:09:45.55,0:09:47.54,Endo,,0,0,0,,I didn't think it would go there to be honest
+Dialogue: 0,0:09:47.88,0:09:50.49,Endo,,0,0,0,,He was aiming for the left hand side but it drifted to the right
+Dialogue: 0,0:09:51.58,0:09:53.38,Hamada,,0,0,0,,It's amazing that it got the remaining one
+Dialogue: 0,0:09:52.53,0:09:54.28,Matsumoto,,0,0,0,,Oh man, oh man, oh man...
+Dialogue: 0,0:09:53.84,0:09:54.77,Tanaka,,0,0,0,,That was amazing
+Dialogue: 0,0:09:54.77,0:09:57.19,Matsumoto,,0,0,0,,There's one thing we can take from what just happened for sure...
+Dialogue: 0,0:09:57.38,0:10:00.25,Matsumoto,,0,0,0,,{\pos(361.125,392)}We will NEVER be able to do that again!
+Dialogue: 0,0:10:00.34,0:10:00.99,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:10:01.22,0:10:04.12,Endo,,0,0,0,,Honestly, everything went perfectly there
+Dialogue: 0,0:10:04.18,0:10:05.97,Matsumoto,,0,0,0,,Everything went perfectly there
+Dialogue: 0,0:10:04.25,0:10:05.72,Endo,,0,0,0,,Everything went perfectly
+Dialogue: 0,0:10:06.37,0:10:10.14,Default,,0,0,0,,After Team Matsumoto's strike, Hamada throws his 2nd ball
+Dialogue: 0,0:10:06.45,0:10:09.75,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 28 l 0 28 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:10:06.45,0:10:09.75,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,68.556)}2nd Frame
+Dialogue: 0,0:10:11.32,0:10:12.64,Pink,,0,0,0,,It's good, it's good
+Dialogue: 0,0:10:13.57,0:10:15.24,Pink,,0,0,0,,Oh no
+Dialogue: 0,0:10:16.76,0:10:19.26,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:10:16.76,0:10:19.26,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}2nd Frame\N2nd ball
+Dialogue: 0,0:10:21.44,0:10:22.41,Pink,,0,0,0,,Oh no, it's no good.
+Dialogue: 0,0:10:24.70,0:10:26.37,Endo,,0,0,0,,Thank you so much, Hamada-san
+Dialogue: 0,0:10:26.08,0:10:27.05,Matsumoto,,0,0,0,,Okay, great!
+Dialogue: 0,0:10:27.11,0:10:28.50,Hamada,,0,0,0,,Well, well, well
+Dialogue: 0,0:10:27.94,0:10:28.84,Matsumoto,,0,0,0,,We can do this, we can do this!
+Dialogue: 0,0:10:28.84,0:10:29.46,Tanaka,,0,0,0,,Okay here we go!
+Dialogue: 0,0:10:29.46,0:10:30.29,Endo,,0,0,0,,Right then!
+Dialogue: 0,0:10:30.98,0:10:33.23,Matsumoto,,0,0,0,,Let's just do the exact same thing as before
+Dialogue: 0,0:10:32.32,0:10:33.85,Endo,,0,0,0,,Everything the same
+Dialogue: 0,0:10:33.55,0:10:36.82,Matsumoto,,0,0,0,,Everything the same, the power and speed
+Dialogue: 0,0:10:37.28,0:10:38.57,Matsumoto,,0,0,0,,Everything exactly the same
+Dialogue: 0,0:10:38.39,0:10:39.30,Yamazaki,,0,0,0,,Exactly the same
+Dialogue: 0,0:10:39.62,0:10:41.30,Endo,,0,0,0,,I can get this small
+Dialogue: 0,0:10:41.42,0:10:45.69,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:10:41.42,0:10:45.69,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(598.458,400.667)}Endo
+Dialogue: 0,0:10:41.42,0:10:45.69,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(596.917,334)}Matsumoto
+Dialogue: 0,0:10:41.42,0:10:45.69,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(595.792,367.333)}Yamasaki
+Dialogue: 0,0:10:41.42,0:10:45.69,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(597.333,432.667)}Tanaka
+Dialogue: 0,0:10:41.55,0:10:42.05,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:10:42.13,0:10:43.32,Yamazaki,,0,0,0,,W-w-w-wait
+Dialogue: 0,0:10:43.83,0:10:44.47,Endo,,0,0,0,,Tanaka, can you move a bit..?
+Dialogue: 0,0:10:44.47,0:10:45.67,Tanaka,,0,0,0,,I told you...
+Dialogue: 0,0:10:45.39,0:10:47.23,Tanaka,,0,0,0,,{\pos(376,393)}I'm in the gutter!!
+Dialogue: 0,0:10:47.15,0:10:49.34,Tanaka,,0,0,0,,I'm in the gutter if I move any more.
+Dialogue: 0,0:10:49.28,0:10:49.97,Yamazaki,,0,0,0,,Come this way
+Dialogue: 0,0:10:49.64,0:10:51.00,Tanaka,,0,0,0,,I only have a tiny bit of space
+Dialogue: 0,0:10:50.29,0:10:51.56,Yamazaki,,0,0,0,,I'm in the gutter too
+Dialogue: 0,0:10:51.40,0:10:52.00,Matsumoto,,0,0,0,,Okay here we go
+Dialogue: 0,0:10:52.00,0:10:53.49,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:10:57.89,0:10:58.43,Endo,,0,0,0,,Look
+Dialogue: 0,0:10:58.98,0:11:00.13,Endo,,0,0,0,,Yellow's gone
+Dialogue: 0,0:11:00.48,0:11:03.15,Endo,,0,0,0,,Oh shit, red, oh shit!
+Dialogue: 0,0:11:06.50,0:11:07.42,Pink,,0,0,0,,There you go
+Dialogue: 0,0:11:07.84,0:11:10.26,Hamada,,0,0,0,,I see, so that's what happens
+Dialogue: 0,0:11:07.91,0:11:12.15,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:11:07.91,0:11:12.15,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:11:10.09,0:11:11.30,Pink,,0,0,0,,Yup, that's what happens
+Dialogue: 0,0:11:11.30,0:11:12.02,Hamada,,0,0,0,,I see
+Dialogue: 0,0:11:12.57,0:11:14.43,Hamada,,0,0,0,,You're doing it at the same time so of course that will happen
+Dialogue: 0,0:11:14.50,0:11:16.05,Hamada,,0,0,0,,So the first roll you did really was
+Dialogue: 0,0:11:16.05,0:11:17.02,Hamada,,0,0,0,,a miracle
+Dialogue: 0,0:11:17.19,0:11:19.69,Default,,0,0,0,,{\c&H8B2AFF&\3c&HE5BCFF&\move(-72,396,174.25,396,20,187)}Pure luck!
+Dialogue: 0,0:11:19.63,0:11:20.29,Matsumoto,,0,0,0,,Hey
+Dialogue: 0,0:11:20.96,0:11:22.29,Matsumoto,,0,0,0,,Apparently it was just a fluke...
+Dialogue: 0,0:11:24.20,0:11:26.68,Matsumoto,,0,0,0,,So what do we do in this situation?
+Dialogue: 0,0:11:26.86,0:11:28.37,Tanaka,,0,0,0,,Yeah, there's no point of the left hand side
+Dialogue: 0,0:11:28.48,0:11:30.59,Matsumoto,,0,0,0,,So Yamasaki being there...
+Dialogue: 0,0:11:30.64,0:11:33.44,Matsumoto,,0,0,0,,{\pos(361.125,392)} You should just not aim for anything
+Dialogue: 0,0:11:31.72,0:11:32.74,Tanaka,,0,0,0,,Just go straight
+Dialogue: 0,0:11:33.44,0:11:34.97,Yamazaki,,0,0,0,,{\pos(365.625,393)}I should try and just not hit anything?
+Dialogue: 0,0:11:34.48,0:11:34.96,Endo,,0,0,0,,Yes
+Dialogue: 0,0:11:35.07,0:11:36.15,Yamazaki,,0,0,0,,Just try and miss
+Dialogue: 0,0:11:35.71,0:11:37.94,Endo,,0,0,0,,And we will just bet on the other three to do the job
+Dialogue: 0,0:11:37.28,0:11:38.28,Hamada,,0,0,0,,You were just trying to hit it
+Dialogue: 0,0:11:38.28,0:11:40.38,Hamada,,0,0,0,,and you totally missed it, so who cares, just hurry the hell up!
+Dialogue: 0,0:11:40.74,0:11:43.01,Yamazaki,,0,0,0,,What does he mean by that?
+Dialogue: 0,0:11:42.65,0:11:45.13,Matsumoto,,0,0,0,,Don't fall for his tricks
+Dialogue: 0,0:11:45.92,0:11:48.42,Matsumoto,,0,0,0,,It's just a trick of words
+Dialogue: 0,0:11:48.43,0:11:49.11,Endo,,0,0,0,,Please
+Dialogue: 0,0:11:49.41,0:11:50.69,Matsumoto,,0,0,0,,He's just trying to lower our morale
+Dialogue: 0,0:11:50.69,0:11:51.51,Tanaka,,0,0,0,,Yes he is
+Dialogue: 0,0:11:51.39,0:11:52.92,Hamada,,0,0,0,,Even if you take loads of time,
+Dialogue: 0,0:11:52.92,0:11:53.73,Hamada,,0,0,0,,You're not going to get on-air time{\alphaHFF} so just hurry the hell up already.
+Dialogue: 0,0:11:53.73,0:11:55.09,Hamada,,0,0,0,,You're not going to get on-air time so just hurry the hell up already.
+Dialogue: 0,0:11:54.99,0:11:56.20,Matsumoto,,0,0,0,,When he makes those kind of comments
+Dialogue: 0,0:11:56.49,0:11:58.16,Matsumoto,,0,0,0,,It really hurts us here, right?
+Dialogue: 0,0:11:57.21,0:11:57.84,Yamazaki,,0,0,0,,You're right
+Dialogue: 0,0:11:59.18,0:11:59.99,Yamazaki,,0,0,0,,Don't fall for it
+Dialogue: 0,0:11:59.30,0:12:00.10,Hamada,,0,0,0,,{\pos(348,389)}Other than Matsumoto,{\alphaHFF} none of you are getting screen time
+Dialogue: 0,0:12:00.10,0:12:02.10,Hamada,,0,0,0,,{\pos(348,389)}Other than Matsumoto, none of you are getting screen time
+Dialogue: 0,0:12:01.64,0:12:02.69,Endo,,0,0,0,,Are you serious?
+Dialogue: 0,0:12:02.62,0:12:04.52,Matsumoto,,0,0,0,,That's not true, we are all getting screen time, we all are.
+Dialogue: 0,0:12:04.64,0:12:05.17,Yamazaki,,0,0,0,,You're not tricking us, are you,{\alphaHFF} Matsumoto-san?
+Dialogue: 0,0:12:05.17,0:12:06.71,Yamazaki,,0,0,0,,You're not tricking us, are you, Matsumoto-san?
+Dialogue: 0,0:12:05.20,0:12:06.65,Matsumoto,,0,0,0,,No of course not.
+Dialogue: 0,0:12:06.78,0:12:08.73,Matsumoto,,0,0,0,,No of course not, we are all getting plenty of screen time
+Dialogue: 0,0:12:08.49,0:12:09.29,Endo,,0,0,0,,Are you sure?
+Dialogue: 0,0:12:08.94,0:12:10.40,Matsumoto,,0,0,0,,Of course.
+Dialogue: 0,0:12:10.70,0:12:12.11,Hamada,,0,0,0,,Take a look, guys
+Dialogue: 0,0:12:10.94,0:12:12.78,Endo,,0,0,0,,{\pos(360,394.333)}We aren't getting any screen time!!
+Dialogue: 0,0:12:12.97,0:12:13.92,Yamazaki,,0,0,0,,Hey hold on a minute!!
+Dialogue: 0,0:12:13.92,0:12:15.40,Tanaka,,0,0,0,,He's tricking us!
+Dialogue: 0,0:12:13.92,0:12:16.04,Matsumoto,,0,0,0,,Leave it, leave it!
+Dialogue: 0,0:12:15.91,0:12:17.18,Yamazaki,,0,0,0,,We aren't getting tricked!
+Dialogue: 0,0:12:16.39,0:12:17.27,Tanaka,,0,0,0,,What's going on?
+Dialogue: 0,0:12:17.49,0:12:18.45,Matsumoto,,0,0,0,,Don't get drawn into it
+Dialogue: 0,0:12:18.72,0:12:21.10,Endo,,0,0,0,,I really put effort into how I look today...
+Dialogue: 0,0:12:18.93,0:12:19.69,Matsumoto,,0,0,0,,Don't get tricked
+Dialogue: 0,0:12:21.19,0:12:22.47,Tanaka,,0,0,0,,You sure?
+Dialogue: 0,0:12:21.60,0:12:24.97,Matsumoto,,0,0,0,,It'll be fine, you're getting plenty of screen time
+Dialogue: 0,0:12:25.40,0:12:25.78,Yamazaki,,0,0,0,,Okay...
+Dialogue: 0,0:12:25.68,0:12:26.64,Matsumoto,,0,0,0,,As if you're going to miss the pins, okay?
+Dialogue: 0,0:12:25.68,0:12:27.93,Hamada,,0,0,0,,Your behinds might get some screen time...
+Dialogue: 0,0:12:26.66,0:12:32.30,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:12:26.66,0:12:32.30,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}2nd Frame\N2nd Bowl
+Dialogue: 0,0:12:26.66,0:12:27.78,Tanaka,,0,0,0,,Zaki-san, you're just going to miss the pins
+Dialogue: 0,0:12:28.70,0:12:29.47,Yamazaki,,0,0,0,,I'm just going to miss it then
+Dialogue: 0,0:12:29.41,0:12:30.12,Tanaka,,0,0,0,,We understand
+Dialogue: 0,0:12:31.19,0:12:32.39,Black,,0,0,0,,Ready, steady...
+Dialogue: 0,0:12:34.91,0:12:35.69,Endo,,0,0,0,,This is good
+Dialogue: 0,0:12:36.19,0:12:36.98,Matsumoto,,0,0,0,,This is good
+Dialogue: 0,0:12:37.20,0:12:38.46,Endo,,0,0,0,,Tanaka's ball, keep going
+Dialogue: 0,0:12:39.09,0:12:39.76,Yamazaki,,0,0,0,,Keep going!
+Dialogue: 0,0:12:39.76,0:12:40.66,Hamada,,0,0,0,,Ah that blue one
+Dialogue: 0,0:12:39.82,0:12:40.53,Endo,,0,0,0,,Go!
+Dialogue: 0,0:12:40.53,0:12:41.24,Yamazaki,,0,0,0,,Go!
+Dialogue: 0,0:12:40.98,0:12:43.00,Pink,,0,0,0,,It will be fine
+Dialogue: 0,0:12:41.97,0:12:43.85,Endo,,0,0,0,,Here it goes
+Dialogue: 0,0:12:45.18,0:12:55.02,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:12:45.18,0:12:55.02,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:12:45.52,0:12:46.38,Hamada,,0,0,0,,I see
+Dialogue: 0,0:12:48.46,0:12:49.41,Matsumoto,,0,0,0,,What's happened now?
+Dialogue: 0,0:12:50.81,0:12:51.92,Endo,,0,0,0,,4-pin difference.
+Dialogue: 0,0:12:52.01,0:12:53.55,Hamada,,0,0,0,,It's a good match though
+Dialogue: 0,0:12:53.55,0:12:54.32,Endo,,0,0,0,,It is
+Dialogue: 0,0:12:54.24,0:12:55.36,Matsumoto,,0,0,0,,It really is
+Dialogue: 0,0:12:55.44,0:12:56.18,Yamazaki,,0,0,0,,We're fine
+Dialogue: 0,0:12:55.54,0:12:58.61,Matsumoto,,0,0,0,,That first try (in the 2nd frame) was shit...
+Dialogue: 0,0:12:59.38,0:13:01.04,Yamazaki,,0,0,0,,We're going to be fine
+Dialogue: 0,0:13:01.94,0:13:03.30,Matsumoto,,0,0,0,,It was annoying that he
+Dialogue: 0,0:13:04.92,0:13:06.09,Matsumoto,,0,0,0,,got a spare there...
+Dialogue: 0,0:13:06.36,0:13:07.50,Matsumoto,,0,0,0,,You know?
+Dialogue: 0,0:13:06.93,0:13:08.26,Hamada,,0,0,0,,Will you guys just sit down?
+Dialogue: 0,0:13:10.32,0:13:12.57,Hamada,,0,0,0,,What are you planning to do? Sit down already
+Dialogue: 0,0:13:11.95,0:13:14.64,Matsumoto,,0,0,0,,It was a good he didn't get a spare before
+Dialogue: 0,0:13:14.41,0:13:15.12,Hamada,,0,0,0,,Yeah yeah
+Dialogue: 0,0:13:15.28,0:13:16.39,Hamada,,0,0,0,,Now sit down
+Dialogue: 0,0:13:20.92,0:13:22.53,Hamada,,0,0,0,,Move
+Dialogue: 0,0:13:21.16,0:13:22.60,Matsumoto,,0,0,0,,So the next one...
+Dialogue: 0,0:13:23.43,0:13:25.20,Matsumoto,,0,0,0,,Well I guess there's only a 4-pin difference
+Dialogue: 0,0:13:25.51,0:13:28.60,Yamazaki,,0,0,0,,Yeah exactly, we can't be getting nervous here already...
+Dialogue: 0,0:13:25.68,0:13:26.60,Endo,,0,0,0,,You're right
+Dialogue: 0,0:13:26.60,0:13:27.28,Matsumoto,,0,0,0,,Yeah
+Dialogue: 0,0:13:28.74,0:13:29.61,Tanaka,,0,0,0,,We can't get nervous and let this affect us
+Dialogue: 0,0:13:29.22,0:13:30.15,Yamazaki,,0,0,0,,We can't let this affect us
+Dialogue: 0,0:13:29.37,0:13:30.45,Endo,,0,0,0,,You're right
+Dialogue: 0,0:13:31.93,0:13:34.25,Matsumoto,,0,0,0,,There will definitely come a time where he starts to crumble
+Dialogue: 0,0:13:33.34,0:13:34.38,Endo,,0,0,0,,Yes for sure
+Dialogue: 0,0:13:33.52,0:13:34.98,Tanaka,,0,0,0,,It will come
+Dialogue: 0,0:13:34.64,0:13:35.60,Hamada,,0,0,0,,Can you stand back?
+Dialogue: 0,0:13:38.11,0:13:39.19,Hamada,,0,0,0,,Just get off this part
+Dialogue: 0,0:13:41.76,0:13:42.93,Matsumoto,,0,0,0,,No but...
+Dialogue: 0,0:13:44.21,0:13:45.19,Hamada,,0,0,0,,Get off this part
+Dialogue: 0,0:13:46.87,0:13:47.75,Matsumoto,,0,0,0,,He will definitely crumble at some point
+Dialogue: 0,0:13:48.28,0:13:49.02,Hamada,,0,0,0,,Get off here
+Dialogue: 0,0:13:48.29,0:13:49.89,Tanaka,,0,0,0,,He will
+Dialogue: 0,0:13:56.28,0:13:58.88,Hamada,,0,0,0,,None of you come back on here
+Dialogue: 0,0:14:00.10,0:14:01.23,Endo,,0,0,0,,There's only a 4-pin difference
+Dialogue: 0,0:14:01.13,0:14:02.05,Tanaka,,0,0,0,,In bowling, that's nothing
+Dialogue: 0,0:14:01.34,0:14:03.14,Yamazaki,,0,0,0,,We're totally fine
+Dialogue: 0,0:14:03.66,0:14:06.09,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 28 l 0 28 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:14:03.66,0:14:06.09,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,68.556)}3rd frame
+Dialogue: 0,0:14:06.99,0:14:08.31,Hamada,,0,0,0,,Oh shit, it went to the side
+Dialogue: 0,0:14:10.69,0:14:11.80,Yamazaki,,0,0,0,,We are totally fine!
+Dialogue: 0,0:14:12.60,0:14:13.51,Pink,,0,0,0,,You're fine
+Dialogue: 0,0:14:13.61,0:14:14.51,Hamada,,0,0,0,,I am fine, aren't I?
+Dialogue: 0,0:14:14.51,0:14:15.66,Matsumoto,,0,0,0,,He is a bit
+Dialogue: 0,0:14:18.30,0:14:19.29,Yamazaki,,0,0,0,,He's a bit tense, isn't he?
+Dialogue: 0,0:14:19.29,0:14:20.26,Endo,,0,0,0,,He is tense
+Dialogue: 0,0:14:20.05,0:14:20.76,Matsumoto,,0,0,0,,He is, right?
+Dialogue: 0,0:14:21.65,0:14:23.74,Matsumoto,,0,0,0,,You can really tell he's not been properly educated
+Dialogue: 0,0:14:25.41,0:14:26.58,Tanaka,,0,0,0,,It really comes out here...
+Dialogue: 0,0:14:26.45,0:14:27.75,Matsumoto,,0,0,0,,You can really tell here
+Dialogue: 0,0:14:27.97,0:14:28.76,Hamada,,0,0,0,,I'm totally fine
+Dialogue: 0,0:14:29.43,0:14:30.39,Matsumoto,,0,0,0,,He really is a retard...
+Dialogue: 0,0:14:31.56,0:14:32.26,Hamada,,0,0,0,,You bet
+Dialogue: 0,0:14:32.42,0:14:36.25,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:14:32.42,0:14:36.25,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}3rd frame\N2nd ball
+Dialogue: 0,0:14:33.12,0:14:33.99,Matsumoto,,0,0,0,,You're not going to deny it?
+Dialogue: 0,0:14:36.12,0:14:37.36,Yamazaki,,0,0,0,,Shit, oh shit!
+Dialogue: 0,0:14:44.95,0:14:45.65,Hamada,,0,0,0,,Come on
+Dialogue: 0,0:14:46.03,0:14:47.49,Endo,,0,0,0,,Let's increase the speed a little bit more
+Dialogue: 0,0:14:47.49,0:14:48.49,Yamazaki,,0,0,0,,I agree
+Dialogue: 0,0:14:47.71,0:14:49.18,Matsumoto,,0,0,0,,We are throwing our balls a little bit too slowly
+Dialogue: 0,0:14:49.24,0:14:49.73,Yamazaki,,0,0,0,,You're right
+Dialogue: 0,0:14:49.62,0:14:52.50,Matsumoto,,0,0,0,,Because we got a strike on our very first bowl, we were under the assumption that was fine...
+Dialogue: 0,0:14:53.57,0:14:55.27,Matsumoto,,0,0,0,,But in all honest other than when we got a strike
+Dialogue: 0,0:14:55.27,0:14:55.67,Matsumoto,,0,0,0,,All my balls have{\alphaHFF} ended up in the gutter...
+Dialogue: 0,0:14:55.67,0:14:57.78,Matsumoto,,0,0,0,,All my balls have ended up in the gutter...
+Dialogue: 0,0:14:57.76,0:14:59.16,Yamazaki,,0,0,0,,You're right, the yellow ball is always in the gutter
+Dialogue: 0,0:14:59.05,0:14:59.61,Tanaka,,0,0,0,,Always
+Dialogue: 0,0:14:59.84,0:15:01.34,Matsumoto,,0,0,0,,It's always the first in the gutter
+Dialogue: 0,0:15:01.18,0:15:01.81,Endo,,0,0,0,,Okay
+Dialogue: 0,0:15:01.81,0:15:02.66,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:15:02.95,0:15:08.75,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:15:02.95,0:15:08.75,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(597.333,399.667)}Endo
+Dialogue: 0,0:15:02.95,0:15:08.75,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(599.583,338)}Matsumoto
+Dialogue: 0,0:15:02.95,0:15:08.75,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(598.458,370)}Yamasaki
+Dialogue: 0,0:15:02.95,0:15:08.75,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(598.667,435.333)}Tanaka
+Dialogue: 0,0:15:03.28,0:15:05.10,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:15:05.21,0:15:06.09,Yamazaki,,0,0,0,,Fast!
+Dialogue: 0,0:15:07.23,0:15:07.77,Endo,,0,0,0,,There we go
+Dialogue: 0,0:15:08.42,0:15:09.41,Matsumoto,,0,0,0,,That's great!
+Dialogue: 0,0:15:09.41,0:15:10.48,Endo,,0,0,0,,That's great!
+Dialogue: 0,0:15:09.72,0:15:11.89,Matsumoto,,0,0,0,,This is really good!
+Dialogue: 0,0:15:13.03,0:15:14.06,Endo,,0,0,0,,Come on!
+Dialogue: 0,0:15:18.21,0:15:18.85,Tanaka,,0,0,0,,Yes!
+Dialogue: 0,0:15:18.85,0:15:19.78,Endo,,0,0,0,,Yes yes yes!
+Dialogue: 0,0:15:21.46,0:15:22.75,Matsumoto,,0,0,0,,This is it!
+Dialogue: 0,0:15:23.26,0:15:24.80,Tanaka,,0,0,0,,Great!
+Dialogue: 0,0:15:25.08,0:15:25.88,Endo,,0,0,0,,We have arrived
+Dialogue: 0,0:15:25.72,0:15:26.64,Tanaka,,0,0,0,,This is the way to go!
+Dialogue: 0,0:15:26.78,0:15:27.78,Yamazaki,,0,0,0,,This is really great
+Dialogue: 0,0:15:26.79,0:15:28.44,Endo,,0,0,0,,We have arrived!
+Dialogue: 0,0:15:28.78,0:15:31.52,Default,,0,0,0,,Hamada's 4th frame, 2nd throw...
+Dialogue: 0,0:15:28.87,0:15:32.41,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:15:28.87,0:15:32.41,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}4th frame\N2nd throw
+Dialogue: 0,0:15:33.58,0:15:38.68,Default,,0,0,0,,{\fad(300,0)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:15:33.58,0:15:38.68,Default,,0,0,0,,{\fad(300,0)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:15:34.92,0:15:35.93,Yamazaki,,0,0,0,,Thank you very much
+Dialogue: 0,0:15:36.14,0:15:37.51,Hamada,,0,0,0,,I knew as soon as I let go of the ball
+Dialogue: 0,0:15:38.09,0:15:38.76,Endo,,0,0,0,,Thank you so much
+Dialogue: 0,0:15:38.80,0:15:42.87,Default,,0,0,0,,Next up is Team Matsumoto, an important throw after getting a strike
+Dialogue: 0,0:15:39.15,0:15:44.16,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:15:39.15,0:15:44.16,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}4th frame\N1st throw
+Dialogue: 0,0:15:45.91,0:15:46.82,Endo,,0,0,0,,Oh no, oh no...
+Dialogue: 0,0:15:48.67,0:15:49.39,Matsumoto,,0,0,0,,Shit!
+Dialogue: 0,0:15:53.62,0:15:55.40,Tanaka,,0,0,0,,Oh man, what have we done?
+Dialogue: 0,0:15:53.80,0:16:02.14,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:15:53.80,0:16:02.14,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:15:55.52,0:15:56.27,Endo,,0,0,0,,Shit
+Dialogue: 0,0:15:57.51,0:15:58.43,Yamazaki,,0,0,0,,What the hell is this?
+Dialogue: 0,0:15:58.95,0:15:59.62,Endo,,0,0,0,,This is just...
+Dialogue: 0,0:15:59.13,0:16:00.47,Yamazaki,,0,0,0,,I have no idea what to do
+Dialogue: 0,0:16:02.71,0:16:04.04,Yamazaki,,0,0,0,,I don't understand at all what we{\alphaHFF} are doing right or wrong
+Dialogue: 0,0:16:04.04,0:16:05.41,Yamazaki,,0,0,0,,I don't understand at all what we are doing right or wrong
+Dialogue: 0,0:16:05.53,0:16:07.48,Matsumoto,,0,0,0,,We are doing the exact same thing each time
+Dialogue: 0,0:16:06.63,0:16:07.86,Tanaka,,0,0,0,,We really are
+Dialogue: 0,0:16:07.37,0:16:09.13,Endo,,0,0,0,,Literally the same
+Dialogue: 0,0:16:08.85,0:16:10.28,Hamada,,0,0,0,,Come on, hurry up!
+Dialogue: 0,0:16:09.21,0:16:10.27,Yamazaki,,0,0,0,,What should we do?
+Dialogue: 0,0:16:10.37,0:16:12.71,Endo,,0,0,0,,No seriously, we don't know what to do
+Dialogue: 0,0:16:12.90,0:16:13.98,Matsumoto,,0,0,0,,I'm going on the side
+Dialogue: 0,0:16:14.38,0:16:16.05,Endo,,0,0,0,,Okay then I will too
+Dialogue: 0,0:16:14.81,0:16:15.44,Matsumoto,,0,0,0,,You guys are in the way
+Dialogue: 0,0:16:16.60,0:16:18.31,Yamazaki,,0,0,0,,Okay, let's try it like this then
+Dialogue: 0,0:16:19.25,0:16:20.70,Tanaka,,0,0,0,,Okay I will go in the middle too
+Dialogue: 0,0:16:19.84,0:16:20.72,Endo,,0,0,0,,Yeah do that
+Dialogue: 0,0:16:21.89,0:16:24.23,Yamazaki,,0,0,0,,Oh shit, you guys are in the way
+Dialogue: 0,0:16:24.16,0:16:24.69,Matsumoto,,0,0,0,,We are, right?
+Dialogue: 0,0:16:24.64,0:16:25.15,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:16:25.15,0:16:25.80,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:16:25.40,0:16:28.77,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:16:25.40,0:16:28.77,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}Fill in\NFill in
+Dialogue: 0,0:16:25.43,0:16:28.77,Default,,0,0,0,,{\fad(300,300)\fs23\pos(359.111,431.222)}The bowling center has allowed them to bowl like this. Please do not try this at home
+Dialogue: 0,0:16:26.47,0:16:27.98,Black,,0,0,0,,Ready, steady...
+Dialogue: 0,0:16:27.90,0:16:28.74,Matsumoto,,0,0,0,,Make sure it's a speed ball, okay?
+Dialogue: 0,0:16:28.58,0:16:29.27,Tanaka,,0,0,0,,Speed ball.
+Dialogue: 0,0:16:28.96,0:16:30.50,Endo,,0,0,0,,I'm in the gutter!
+Dialogue: 0,0:16:29.37,0:16:30.52,Yamazaki,,0,0,0,,We should have gotten smaller!
+Dialogue: 0,0:16:31.23,0:16:32.87,Endo,,0,0,0,,See! Of course my ball went into the gutter
+Dialogue: 0,0:16:33.68,0:16:35.67,Yamazaki,,0,0,0,,Hold on, that's good!
+Dialogue: 0,0:16:35.50,0:16:37.09,Matsumoto,,0,0,0,,That one's good
+Dialogue: 0,0:16:40.35,0:16:45.62,Default,,0,0,0,,{\fad(300,0)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:16:40.35,0:16:45.62,Default,,0,0,0,,{\fad(300,0)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:16:41.53,0:16:43.58,Hamada,,0,0,0,,Wow, that was quite good
+Dialogue: 0,0:16:44.12,0:16:45.52,Hamada,,0,0,0,,Only 2 pins' difference
+Dialogue: 0,0:16:45.69,0:16:49.58,Default,,0,0,0,,Hamada's 5th frame, his 2nd ball after hitting 3 pins
+Dialogue: 0,0:16:46.08,0:16:49.25,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:16:46.08,0:16:49.25,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}5th frame\N2nd throw
+Dialogue: 0,0:16:52.53,0:16:54.83,Pink,,0,0,0,,Such a shame, it was a good throw as well...
+Dialogue: 0,0:16:53.43,0:16:54.64,Endo,,0,0,0,,This is huge
+Dialogue: 0,0:16:55.57,0:16:58.62,Default,,0,0,0,,Team Matsumoto's second throw after hitting 1 pin
+Dialogue: 0,0:16:55.79,0:16:59.96,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:16:55.79,0:16:59.96,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}5th frame\N2nd throw
+Dialogue: 0,0:16:59.69,0:17:00.71,Yamazaki,,0,0,0,,Okay, green ball!
+Dialogue: 0,0:17:00.49,0:17:02.21,Endo,,0,0,0,,That's good, it deflected off!
+Dialogue: 0,0:17:02.21,0:17:02.91,Yamazaki,,0,0,0,,Thank you!
+Dialogue: 0,0:17:02.91,0:17:03.60,Tanaka,,0,0,0,,Go!
+Dialogue: 0,0:17:03.80,0:17:05.22,Tanaka,,0,0,0,,This is good, this is good!
+Dialogue: 0,0:17:05.08,0:17:06.39,Matsumoto,,0,0,0,,Yellow is looking good!
+Dialogue: 0,0:17:14.89,0:17:18.66,Default,,0,0,0,,Hamada's 6th frame, his second throw after hitting 6 pins
+Dialogue: 0,0:17:14.98,0:17:17.98,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:17:14.98,0:17:17.98,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}6th frame\N2nd throw
+Dialogue: 0,0:17:17.84,0:17:19.96,Pink,,0,0,0,,Oh no
+Dialogue: 0,0:17:22.71,0:17:23.36,Matsumoto,,0,0,0,,Ready, steady
+Dialogue: 0,0:17:22.82,0:17:27.79,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:17:22.82,0:17:27.79,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(594.667,399.667)}Endo
+Dialogue: 0,0:17:22.82,0:17:27.79,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(596.917,338)}Matsumoto
+Dialogue: 0,0:17:22.82,0:17:27.79,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(594.458,368.667)}Yamasaki
+Dialogue: 0,0:17:22.82,0:17:27.79,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(597.333,434)}Tanaka
+Dialogue: 0,0:17:22.85,0:17:26.36,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:17:22.85,0:17:26.36,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}6th frame\N 2nd throw
+Dialogue: 0,0:17:23.20,0:17:26.29,Default,,0,0,0,,Team Matsumoto's 6th frame, 1st throw
+Dialogue: 0,0:17:27.62,0:17:28.40,Yamazaki,,0,0,0,,Okay, there they go
+Dialogue: 0,0:17:30.96,0:17:32.42,Endo,,0,0,0,,The yellow ball...
+Dialogue: 0,0:17:34.69,0:17:35.95,Yamazaki,,0,0,0,,Oh man, there are some pins in awkward positions...
+Dialogue: 0,0:17:35.95,0:17:36.93,Endo,,0,0,0,,Hold on...
+Dialogue: 0,0:17:37.72,0:17:39.34,Endo,,0,0,0,,Yes, that's great!
+Dialogue: 0,0:17:40.47,0:17:51.28,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:17:40.47,0:17:51.28,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:17:40.94,0:17:41.99,Endo,,0,0,0,,Oh man!
+Dialogue: 0,0:17:42.24,0:17:43.17,Matsumoto,,0,0,0,,I don't understand what just happened
+Dialogue: 0,0:17:44.25,0:17:45.32,Yamazaki,,0,0,0,,That fourth ball
+Dialogue: 0,0:17:45.25,0:17:46.15,Matsumoto,,0,0,0,,What about it?
+Dialogue: 0,0:17:45.89,0:17:47.22,Yamazaki,,0,0,0,,It was thanks to the fourth ball
+Dialogue: 0,0:17:46.87,0:17:48.10,Tanaka,,0,0,0,,It really was
+Dialogue: 0,0:17:48.73,0:17:49.74,Tanaka,,0,0,0,,That would never happen usually
+Dialogue: 0,0:17:49.52,0:17:50.57,Yamazaki,,0,0,0,,It would never happen
+Dialogue: 0,0:17:50.32,0:17:51.10,Tanaka,,0,0,0,,Yeah, normally
+Dialogue: 0,0:17:51.10,0:17:53.18,Matsumoto,,0,0,0,,Okay okay... Man I want to throw by myself
+Dialogue: 0,0:17:53.42,0:17:54.26,Endo,,0,0,0,,I know, right?
+Dialogue: 0,0:17:56.20,0:17:57.07,Matsumoto,,0,0,0,,We can do this though, right guys?
+Dialogue: 0,0:17:56.49,0:18:00.46,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:17:56.49,0:18:00.46,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}6th frame\N2nd throw
+Dialogue: 0,0:17:57.07,0:17:57.90,Yamazaki,,0,0,0,,Yes, we definitely can
+Dialogue: 0,0:17:58.02,0:17:59.21,Matsumoto,,0,0,0,,Ready, steady
+Dialogue: 0,0:18:03.94,0:18:05.07,Hamada,,0,0,0,,Oh I think they've got it here
+Dialogue: 0,0:18:05.24,0:18:05.89,Endo,,0,0,0,,The yellow ball again...
+Dialogue: 0,0:18:05.43,0:18:12.70,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:18:05.43,0:18:12.70,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(597.333,399.667)}Endo
+Dialogue: 0,0:18:05.43,0:18:12.70,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(594.25,334)}Matsumoto
+Dialogue: 0,0:18:05.43,0:18:12.70,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(595.792,366)}Yamasaki
+Dialogue: 0,0:18:05.43,0:18:12.70,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(601.333,431.333)}Tanaka
+Dialogue: 0,0:18:06.34,0:18:07.27,Endo,,0,0,0,,The red ball
+Dialogue: 0,0:18:07.08,0:18:08.58,Pink,,0,0,0,,Uh oh, the yellow ball...
+Dialogue: 0,0:18:08.73,0:18:09.57,Pink,,0,0,0,,The yellow ball...
+Dialogue: 0,0:18:10.12,0:18:12.25,Pink,,0,0,0,,See... The yellow ball!
+Dialogue: 0,0:18:11.30,0:18:14.02,Hamada,,0,0,0,,Oh it's going!
+Dialogue: 0,0:18:12.17,0:18:12.68,Tanaka,,0,0,0,,The yellow!
+Dialogue: 0,0:18:12.87,0:18:13.80,Endo,,0,0,0,,The yellow is going to get it!
+Dialogue: 0,0:18:17.67,0:18:19.21,Endo,,0,0,0,,That's amazing!
+Dialogue: 0,0:18:18.78,0:18:21.11,Matsumoto,,0,0,0,,{\pos(359.459,356.333)}The yellow ball is amazing (Matsumoto's ball)
+Dialogue: 0,0:18:20.10,0:18:21.14,Tanaka,,0,0,0,,The yellow ball is amazing!
+Dialogue: 0,0:18:20.51,0:18:21.70,Yamazaki,,0,0,0,,The yellow ball, Matsumoto-san!
+Dialogue: 0,0:18:22.29,0:18:23.01,Pink,,0,0,0,,Amazing!
+Dialogue: 0,0:18:23.01,0:18:23.63,Tanaka,,0,0,0,,It really is amazing!
+Dialogue: 0,0:18:23.93,0:18:26.31,Hamada,,0,0,0,,This is getting really bad for me now, right?
+Dialogue: 0,0:18:24.05,0:18:31.36,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:18:24.05,0:18:31.36,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,405)}Matsumoto
+Dialogue: 0,0:18:26.48,0:18:29.08,Pink,,0,0,0,,Yeah, you need a strike and a spare soon...
+Dialogue: 0,0:18:28.40,0:18:29.14,Hamada,,0,0,0,,You're right
+Dialogue: 0,0:18:29.08,0:18:29.94,Endo,,0,0,0,,Yeah, he really does
+Dialogue: 0,0:18:29.47,0:18:31.60,Hamada,,0,0,0,,This is now seriously desperate times for me
+Dialogue: 0,0:18:32.29,0:18:33.54,Default,,0,0,0,,The middle of the game
+Dialogue: 0,0:18:33.60,0:18:37.19,Default,,0,0,0,,There's a big difference in the score and Hamada's expression is much more serious now
+Dialogue: 0,0:18:38.03,0:18:41.33,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 28 l 0 28 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:18:38.03,0:18:41.33,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,68.556)}7th frame
+Dialogue: 0,0:18:40.96,0:18:42.60,Pink,,0,0,0,,Hold on, this is good
+Dialogue: 0,0:18:47.54,0:18:48.44,Pink,,0,0,0,,Yeey!
+Dialogue: 0,0:18:48.65,0:18:49.45,Tanaka,,0,0,0,,There it is!
+Dialogue: 0,0:18:49.69,0:18:51.73,Endo,,0,0,0,,He gets a strike here?!
+Dialogue: 0,0:18:53.88,0:18:55.66,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:18:58.56,0:18:59.28,Yamazaki,,0,0,0,,Oh shit
+Dialogue: 0,0:19:00.39,0:19:00.99,Tanaka,,0,0,0,,This is bad
+Dialogue: 0,0:19:00.79,0:19:06.56,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(66.375,304)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:19:00.79,0:19:06.56,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(131.167,401)}Endo
+Dialogue: 0,0:19:00.79,0:19:06.56,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(128.5,336.667)}Matsumoto
+Dialogue: 0,0:19:00.79,0:19:06.56,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(128.708,368)}Yamasaki
+Dialogue: 0,0:19:00.79,0:19:06.56,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(130.25,429.667)}Tanaka
+Dialogue: 0,0:19:01.26,0:19:01.96,Endo,,0,0,0,,Yellow!
+Dialogue: 0,0:19:02.58,0:19:03.45,Endo,,0,0,0,,Yellow!
+Dialogue: 0,0:19:05.78,0:19:07.17,Pink,,0,0,0,,Oh my God!
+Dialogue: 0,0:19:09.49,0:19:10.50,Yamazaki,,0,0,0,,That's great!
+Dialogue: 0,0:19:10.85,0:19:12.04,Endo,,0,0,0,,That was amazing
+Dialogue: 0,0:19:12.14,0:19:13.47,Tanaka,,0,0,0,,That was unbelievable just now!
+Dialogue: 0,0:19:13.50,0:19:14.07,Endo,,0,0,0,,The ball in the gutter{\alphaHFF}was totally {\alphaHFF}helping the other ball
+Dialogue: 0,0:19:14.07,0:19:14.53,Endo,,0,0,0,,The ball in the gutter was totally {\alphaHFF} helping the other ball
+Dialogue: 0,0:19:14.53,0:19:16.53,Endo,,0,0,0,,The ball in the gutter was totally helping the other ball
+Dialogue: 0,0:19:15.33,0:19:16.75,Tanaka,,0,0,0,,It was pushing it away from the gutter
+Dialogue: 0,0:19:17.09,0:19:18.35,Tanaka,,0,0,0,,Like the whole time
+Dialogue: 0,0:19:18.69,0:19:19.55,Tanaka,,0,0,0,,That ball...
+Dialogue: 0,0:19:19.71,0:19:20.56,Endo,,0,0,0,,Yellow!
+Dialogue: 0,0:19:22.93,0:19:24.35,Pink,,0,0,0,,Oh my God!
+Dialogue: 0,0:19:26.04,0:19:27.23,Matsumoto,,0,0,0,,Same as before, okay?
+Dialogue: 0,0:19:26.87,0:19:27.73,Tanaka,,0,0,0,,Okay
+Dialogue: 0,0:19:28.12,0:19:29.73,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:19:32.47,0:19:33.29,Yamazaki,,0,0,0,,Look
+Dialogue: 0,0:19:33.43,0:19:34.14,Yamazaki,,0,0,0,,One's gone
+Dialogue: 0,0:19:34.04,0:19:36.80,Matsumoto,,0,0,0,,Look at my ball, it's so good, isn't it?
+Dialogue: 0,0:19:36.93,0:19:37.43,Yamazaki,,0,0,0,,Stay on!
+Dialogue: 0,0:19:37.54,0:19:38.63,Endo,,0,0,0,,Oh damn!
+Dialogue: 0,0:19:39.56,0:19:40.40,Endo,,0,0,0,,Yellow!
+Dialogue: 0,0:19:40.60,0:19:41.24,Endo,,0,0,0,,Curve!
+Dialogue: 0,0:19:41.02,0:19:41.91,Endo,,0,0,0,,Make a sharp turn!
+Dialogue: 0,0:19:43.12,0:19:44.39,Hamada,,0,0,0,,Ah I see
+Dialogue: 0,0:19:44.98,0:19:46.08,Hamada,,0,0,0,,So that's what happens...
+Dialogue: 0,0:19:46.47,0:19:48.52,Matsumoto,,0,0,0,,What to do...
+Dialogue: 0,0:19:50.36,0:19:53.14,Default,,0,0,0,,Hamada now needs to close the gap
+Dialogue: 0,0:19:51.30,0:19:55.14,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:19:51.30,0:19:55.14,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}8th frame\N2nd throw
+Dialogue: 0,0:19:53.14,0:19:55.14,Default,,0,0,0,,8th frame, 2nd throw
+Dialogue: 0,0:19:55.94,0:19:56.66,Endo,,0,0,0,,He got it
+Dialogue: 0,0:20:03.30,0:20:04.21,Pink,,0,0,0,,Nice shot
+Dialogue: 0,0:20:03.68,0:20:19.03,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:20:03.68,0:20:19.03,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:20:03.70,0:20:04.39,Hamada,,0,0,0,,Oh yeah
+Dialogue: 0,0:20:05.01,0:20:06.07,Matsumoto,,0,0,0,,4 pins' difference
+Dialogue: 0,0:20:06.20,0:20:06.70,Endo,,0,0,0,,This is...
+Dialogue: 0,0:20:06.34,0:20:06.85,Matsumoto,,0,0,0,,We're in trouble
+Dialogue: 0,0:20:06.74,0:20:08.05,Tanaka,,0,0,0,,We are in trouble
+Dialogue: 0,0:20:07.67,0:20:09.04,Endo,,0,0,0,,What do we need to do?
+Dialogue: 0,0:20:08.33,0:20:09.17,Matsumoto,,0,0,0,,We're in trouble, we're in trouble
+Dialogue: 0,0:20:09.42,0:20:09.99,Tanaka,,0,0,0,,Yeah you're right
+Dialogue: 0,0:20:09.68,0:20:11.60,Hamada,,0,0,0,,You're fine
+Dialogue: 0,0:20:09.92,0:20:11.30,Endo,,0,0,0,,Hold on, it's not a 4-pin difference
+Dialogue: 0,0:20:11.90,0:20:13.18,Matsumoto,,0,0,0,,Nope,{\alphaHFF} we can't do it
+Dialogue: 0,0:20:13.18,0:20:13.95,Matsumoto,,0,0,0,,Nope, we can't do it
+Dialogue: 0,0:20:16.75,0:20:17.80,Endo,,0,0,0,,No, you can't say that
+Dialogue: 0,0:20:17.03,0:20:19.83,Hamada,,0,0,0,,It's not like you can't win from here
+Dialogue: 0,0:20:20.03,0:20:21.37,Matsumoto,,0,0,0,,If we just stop here
+Dialogue: 0,0:20:21.37,0:20:22.37,Yamazaki,,0,0,0,,It would still be deemed{\alphaHFF} a draw
+Dialogue: 0,0:20:22.37,0:20:24.47,Yamazaki,,0,0,0,,It would still be deemed a draw
+Dialogue: 0,0:20:22.82,0:20:23.64,Matsumoto,,0,0,0,,Yes, it would be a draw
+Dialogue: 0,0:20:23.15,0:20:23.94,Endo,,0,0,0,,It would be indeed
+Dialogue: 0,0:20:24.09,0:20:25.08,Yamazaki,,0,0,0,,So today would just be a draw
+Dialogue: 0,0:20:25.08,0:20:25.94,Tanaka,,0,0,0,,It would end as a draw
+Dialogue: 0,0:20:26.10,0:20:26.80,Matsumoto,,0,0,0,,We'll leave it{\alphaHFF} 'til next time
+Dialogue: 0,0:20:26.80,0:20:28.27,Matsumoto,,0,0,0,,We'll leave it 'til next time
+Dialogue: 0,0:20:27.53,0:20:28.58,Tanaka,,0,0,0,,Another battle
+Dialogue: 0,0:20:28.67,0:20:29.01,Yamazaki,,0,0,0,,We'll battle again{\alphaHFF} next week
+Dialogue: 0,0:20:29.01,0:20:30.48,Yamazaki,,0,0,0,,We'll battle again next week
+Dialogue: 0,0:20:31.33,0:20:32.81,Matsumoto,,0,0,0,,Seriously, we are...
+Dialogue: 0,0:20:31.54,0:20:45.36,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:20:31.54,0:20:45.36,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:20:33.23,0:20:36.16,Matsumoto,,0,0,0,,we are definitely losing right now
+Dialogue: 0,0:20:36.31,0:20:38.12,Endo,,0,0,0,,Yes, we are
+Dialogue: 0,0:20:36.62,0:20:38.32,Tanaka,,0,0,0,,We are losing
+Dialogue: 0,0:20:38.55,0:20:39.68,Yamazaki,,0,0,0,,We are losing on morale as well
+Dialogue: 0,0:20:39.36,0:20:41.93,Matsumoto,,0,0,0,,Because in the next frame, he will definitely get 5 pins at least
+Dialogue: 0,0:20:42.34,0:20:45.38,Matsumoto,,0,0,0,,In the next frame, his total score will go above 100
+Dialogue: 0,0:20:45.38,0:20:46.07,Tanaka,,0,0,0,,It definitely will
+Dialogue: 0,0:20:46.10,0:20:47.54,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:20:46.19,0:20:49.69,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0
+Dialogue: 0,0:20:46.19,0:20:49.69,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}8th frame\N1st throw
+Dialogue: 0,0:20:49.19,0:20:50.27,Yamazaki,,0,0,0,,Shit, hold on a second!
+Dialogue: 0,0:20:50.81,0:20:51.70,Endo,,0,0,0,,Oh shit, man!
+Dialogue: 0,0:20:51.87,0:20:52.91,Yamazaki,,0,0,0,,I told you!
+Dialogue: 0,0:20:53.06,0:20:58.87,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5B626F&\bord0\pos(531,302)}m 0 0 l 122 -1 l 124 138 l 0 138 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:20:53.06,0:20:58.87,Endo,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(598.667,401)}Endo
+Dialogue: 0,0:20:53.06,0:20:58.87,Matsumoto,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&H08FFFD&\pos(594.25,338)}Matsumoto
+Dialogue: 0,0:20:53.06,0:20:58.87,Yamazaki,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\pos(594.458,370)}Yamasaki
+Dialogue: 0,0:20:53.06,0:20:58.87,Tanaka,,0,0,0,,{\fad(280,280)\fs25\3c&H000000&\c&HFE67EA&\pos(600,434)}Tanaka
+Dialogue: 0,0:20:53.25,0:20:54.34,Hamada,,0,0,0,,It looks good
+Dialogue: 0,0:20:54.10,0:20:55.86,Endo,,0,0,0,,This is not bad
+Dialogue: 0,0:20:56.02,0:20:57.18,Hamada,,0,0,0,,I think it's going to be good!
+Dialogue: 0,0:20:58.75,0:20:59.93,Hamada,,0,0,0,,It's looking good!
+Dialogue: 0,0:21:04.73,0:21:05.55,Tanaka,,0,0,0,,Come on!!
+Dialogue: 0,0:21:07.58,0:21:09.45,Yamazaki,,0,0,0,,YES!!!
+Dialogue: 0,0:21:08.83,0:21:09.91,Tanaka,,0,0,0,,Come on!
+Dialogue: 0,0:21:10.50,0:21:12.79,Hamada,,0,0,0,,See, now it could swing either way
+Dialogue: 0,0:21:11.02,0:21:15.29,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:21:11.02,0:21:15.29,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:21:12.89,0:21:15.72,Endo,,0,0,0,,It was totally a missed throw
+Dialogue: 0,0:21:13.22,0:21:15.71,Matsumoto,,0,0,0,,It was
+Dialogue: 0,0:21:15.85,0:21:18.02,Matsumoto,,0,0,0,,This is literally comedian-power
+Dialogue: 0,0:21:18.02,0:21:19.33,Yamazaki,,0,0,0,,It really is
+Dialogue: 0,0:21:23.13,0:21:23.86,Yamazaki,,0,0,0,,As if we would agree {\alphaHFF}to a rematch
+Dialogue: 0,0:21:23.86,0:21:26.13,Yamazaki,,0,0,0,,As if we would agree to a rematch
+Dialogue: 0,0:21:26.56,0:21:27.36,Yamazaki,,0,0,0,,Right?
+Dialogue: 0,0:21:26.59,0:21:28.02,Matsumoto,,0,0,0,,We can do this
+Dialogue: 0,0:21:29.01,0:21:32.60,Default,,0,0,0,,Thanks to the 9th frame, we now have no idea who will win this match
+Dialogue: 0,0:21:29.20,0:21:32.77,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:21:29.20,0:21:32.77,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}9th frame\N2nd throw
+Dialogue: 0,0:21:34.37,0:21:38.74,Default,,0,0,0,,{\fad(300,0)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:21:34.37,0:21:38.74,Default,,0,0,0,,{\fad(300,0)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:21:39.22,0:21:41.16,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:21:39.38,0:21:43.25,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 140 -1 l 140 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:21:39.38,0:21:43.25,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}9th Frame\N2nd throw
+Dialogue: 0,0:21:39.38,0:21:43.25,Default,,0,0,0,,{\fad(300,300)\fs23\pos(359.111,431.222)}The bowling centre has allowed them to bowl like this. Please do not try this at home
+Dialogue: 0,0:21:43.52,0:21:44.24,Matsumoto,,0,0,0,,Oh shit
+Dialogue: 0,0:21:45.62,0:21:46.77,Yamazaki,,0,0,0,,Again?
+Dialogue: 0,0:21:47.41,0:21:48.32,Yamazaki,,0,0,0,,Go on, purple!!
+Dialogue: 0,0:21:48.32,0:21:49.17,Tanaka,,0,0,0,,Come on, purple!
+Dialogue: 0,0:21:49.11,0:21:50.21,Yamazaki,,0,0,0,,Go on, purple!!
+Dialogue: 0,0:21:49.60,0:21:51.22,Pink,,0,0,0,,This is bad...
+Dialogue: 0,0:21:51.42,0:21:52.08,Hamada,,0,0,0,,
+Dialogue: 0,0:21:51.89,0:21:52.74,Yamazaki,,0,0,0,,Go!
+Dialogue: 0,0:21:52.56,0:21:53.53,Pink,,0,0,0,,It should be okay
+Dialogue: 0,0:21:53.45,0:21:54.12,Hamada,,0,0,0,,Oh man...
+Dialogue: 0,0:21:56.49,0:22:06.30,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:21:56.49,0:22:06.30,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:21:56.92,0:21:59.20,Hamada,,0,0,0,,I have no idea who's going to win, there's only a 5-pin difference
+Dialogue: 0,0:22:00.62,0:22:02.53,Hamada,,0,0,0,,I'm the one at a disadvantage here
+Dialogue: 0,0:22:02.86,0:22:05.55,Pink,,0,0,0,,A spare is crucial here for you, Hamada-san
+Dialogue: 0,0:22:05.75,0:22:06.75,Hamada,,0,0,0,,You're right
+Dialogue: 0,0:22:07.56,0:22:09.70,Default,,0,0,0,,A spare is a must here
+Dialogue: 0,0:22:10.34,0:22:14.08,Default,,0,0,0,,Hamada looks nervous and goes into his last frame
+Dialogue: 0,0:22:13.18,0:22:16.98,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 150 -1 l 150 28 l 0 28 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:22:13.18,0:22:16.98,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,68.556)}Final frame
+Dialogue: 0,0:22:16.64,0:22:17.31,Endo,,0,0,0,,This is good
+Dialogue: 0,0:22:25.07,0:22:26.23,Tanaka,,0,0,0,,That's amazing
+Dialogue: 0,0:22:25.32,0:22:31.63,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:22:25.32,0:22:31.63,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:22:26.23,0:22:27.20,Yamazaki,,0,0,0,,THIS IS BAD!
+Dialogue: 0,0:22:27.20,0:22:28.55,Endo,,0,0,0,,This is really bad
+Dialogue: 0,0:22:27.44,0:22:28.55,Tanaka,,0,0,0,,He's amazing
+Dialogue: 0,0:22:28.08,0:22:29.37,Matsumoto,,0,0,0,,But guys, you know...
+Dialogue: 0,0:22:29.73,0:22:31.67,Matsumoto,,0,0,0,,When I go bowling with him,
+Dialogue: 0,0:22:32.11,0:22:34.36,Matsumoto,,0,0,0,,at the end, he tends to get 3 strikes in a row
+Dialogue: 0,0:22:35.99,0:22:38.28,Yamazaki,,0,0,0,,That's not good, if he does that, we are just...
+Dialogue: 0,0:22:37.63,0:22:39.03,Endo,,0,0,0,,We can't have that!
+Dialogue: 0,0:22:39.24,0:22:43.05,Default,,0,0,0,,He didn't get a strike on his 2nd throw, but...
+Dialogue: 0,0:22:39.34,0:22:42.11,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 150 -1 l 150 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:22:39.34,0:22:42.11,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}Final frame\N3rd throw
+Dialogue: 0,0:22:43.21,0:22:43.79,Endo,,0,0,0,,He got it
+Dialogue: 0,0:22:43.73,0:22:44.20,Tanaka,,0,0,0,,He got it
+Dialogue: 0,0:22:43.78,0:22:44.69,Pink,,0,0,0,,Oh for sure...
+Dialogue: 0,0:22:46.79,0:22:50.88,Default,,0,0,0,,He got a spare and he finishes on a total of 133.
+Dialogue: 0,0:22:49.11,0:23:01.93,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:22:49.11,0:23:01.93,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:22:54.04,0:22:56.26,Yamazaki,,0,0,0,,Even if we get a strike or a spare here,
+Dialogue: 0,0:22:56.34,0:22:59.19,Yamazaki,,0,0,0,,we only get another shot, so we are finished.
+Dialogue: 0,0:22:57.22,0:22:58.24,Endo,,0,0,0,,It would be really tough
+Dialogue: 0,0:22:59.49,0:23:01.37,Tanaka,,0,0,0,,We have to get a strike or spare in the first two shots
+Dialogue: 0,0:23:01.48,0:23:02.11,Matsumoto,,0,0,0,,Yeah, you're right
+Dialogue: 0,0:23:02.05,0:23:03.07,Yamazaki,,0,0,0,,It's going to be impossible
+Dialogue: 0,0:23:04.74,0:23:05.45,Yamazaki,,0,0,0,,We're counting on you...
+Dialogue: 0,0:23:06.33,0:23:07.59,Tanaka,,0,0,0,,Yeah, sorry but if you could...
+Dialogue: 0,0:23:07.67,0:23:08.13,Endo,,0,0,0,,It's virtually impossible{\alphaHFF} so if you could...
+Dialogue: 0,0:23:08.13,0:23:09.47,Endo,,0,0,0,,It's virtually impossible so if you could...
+Dialogue: 0,0:23:13.72,0:23:15.71,Matsumoto,,0,0,0,,Unfortunately, we are going to have to carry this on another time...
+Dialogue: 0,0:23:17.30,0:23:18.39,Endo,,0,0,0,,It's such a shame
+Dialogue: 0,0:23:18.97,0:23:20.10,Hamada,,0,0,0,,What the hell, man?
+Dialogue: 0,0:23:20.73,0:23:23.77,Matsumoto,,0,0,0,,Us four men thought about it and this was the result
+Dialogue: 0,0:23:22.46,0:23:23.79,Tanaka,,0,0,0,,Yes, indeed
+Dialogue: 0,0:23:24.65,0:23:25.30,Matsumoto,,0,0,0,,So you know
+Dialogue: 0,0:23:25.66,0:23:27.24,Matsumoto,,0,0,0,,Nothing and no one can change our mind
+Dialogue: 0,0:23:28.76,0:23:33.18,Hamada,,0,0,0,,No no, the result isn't final so just go and do it
+Dialogue: 0,0:23:33.87,0:23:36.88,Default,,0,0,0,,Whatever happens, they need a strike or a spare
+Dialogue: 0,0:23:36.93,0:23:39.21,Default,,0,0,0,,Finally, the time to decide the winner
+Dialogue: 0,0:23:39.70,0:23:40.45,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:23:40.81,0:23:41.83,Matsumoto,,0,0,0,,Get small and tight
+Dialogue: 0,0:23:42.78,0:23:44.38,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:23:45.82,0:23:47.54,Matsumoto,,0,0,0,,Go
+Dialogue: 0,0:23:49.86,0:23:51.27,Matsumoto,,0,0,0,,Purple
+Dialogue: 0,0:23:51.27,0:23:52.18,Yamazaki,,0,0,0,,It's up to purple!
+Dialogue: 0,0:23:52.37,0:23:53.97,Yamazaki,,0,0,0,,It's up to purple... uh oh!
+Dialogue: 0,0:23:53.02,0:23:54.51,Pink,,0,0,0,,The purple one...
+Dialogue: 0,0:23:54.18,0:23:56.01,Yamazaki,,0,0,0,,Come on, purple!
+Dialogue: 0,0:23:55.06,0:23:56.99,Pink,,0,0,0,,Oh no, the purple ball!
+Dialogue: 0,0:23:56.25,0:23:57.69,Yamazaki,,0,0,0,,Okay, come on, purple!
+Dialogue: 0,0:23:57.28,0:23:57.81,Matsumoto,,0,0,0,,Come on, purple!
+Dialogue: 0,0:23:57.81,0:23:58.49,Yamazaki,,0,0,0,,Go, purple!
+Dialogue: 0,0:23:59.20,0:24:00.73,Yamazaki,,0,0,0,,Okay yellow, knock it over!
+Dialogue: 0,0:24:00.97,0:24:01.89,Yamazaki,,0,0,0,,Yellow, get it!
+Dialogue: 0,0:24:01.94,0:24:03.41,Yamazaki,,0,0,0,,We are in serious trouble now!
+Dialogue: 0,0:24:02.15,0:24:17.60,Default,,0,0,0,,{\fad(300,0)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:24:02.15,0:24:17.60,Default,,0,0,0,,{\fad(300,0)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:24:06.55,0:24:07.23,Endo,,0,0,0,,We need to get it
+Dialogue: 0,0:24:07.02,0:24:08.22,Yamazaki,,0,0,0,,We just need to knock it down
+Dialogue: 0,0:24:08.60,0:24:10.22,Matsumoto,,0,0,0,,So knock it down...
+Dialogue: 0,0:24:10.95,0:24:12.37,Matsumoto,,0,0,0,,But that alone isn't enough
+Dialogue: 0,0:24:12.84,0:24:16.62,Matsumoto,,0,0,0,,We need to knock it down and then get 5 in the final throw, oh shit that is tough!
+Dialogue: 0,0:24:17.94,0:24:24.11,Default,,0,0,0,,{\an7\shad0\fad(150,200)\alpha50\p1\c&H1E1792&\bord0\pos(65.25,326)}m 0 0 l 590 -1 l 590 120 l 0 120 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:24:17.94,0:24:24.11,Default,,0,0,0,,{\fs35\fad(150,200)\pos(356.625,375)} Get a spare on the second throw
+Dialogue: 0,0:24:17.94,0:24:24.11,Default,,0,0,0,,{\fs31\fad(150,200)\pos(349.875,433)} Then knock 6 pins over on the final throw
+Dialogue: 0,0:24:18.13,0:24:19.67,Tanaka,,0,0,0,,So get this one and then knock over 6...
+Dialogue: 0,0:24:19.68,0:24:20.26,Yamazaki,,0,0,0,,That's fine, right?
+Dialogue: 0,0:24:20.26,0:24:21.32,Endo,,0,0,0,,and then 6 more to win?
+Dialogue: 0,0:24:22.58,0:24:23.65,Yamazaki,,0,0,0,,Can we get that one?
+Dialogue: 0,0:24:24.35,0:24:26.98,Yamazaki,,0,0,0,,The pin right on the side...
+Dialogue: 0,0:24:27.05,0:24:28.78,Tanaka,,0,0,0,,That one is difficult to get
+Dialogue: 0,0:24:29.00,0:24:29.92,Matsumoto,,0,0,0,,Okay then, we are going to...
+Dialogue: 0,0:24:30.51,0:24:32.78,Matsumoto,,0,0,0,,get the professional to throw for us
+Dialogue: 0,0:24:32.54,0:24:33.33,Tanaka,,0,0,0,,Great idea!
+Dialogue: 0,0:24:32.71,0:24:35.16,Endo,,0,0,0,,I see!
+Dialogue: 0,0:24:32.74,0:24:34.30,Yamazaki,,0,0,0,,Please, for us
+Dialogue: 0,0:24:36.35,0:24:37.35,Endo,,0,0,0,,We're counting on you
+Dialogue: 0,0:24:37.67,0:24:39.14,Yamazaki,,0,0,0,,We're using our chance card
+Dialogue: 0,0:24:39.17,0:24:40.35,Endo,,0,0,0,,Please
+Dialogue: 0,0:24:39.23,0:24:40.00,Tanaka,,0,0,0,,We're counting on you
+Dialogue: 0,0:24:40.36,0:24:41.59,Tanaka,,0,0,0,,Let's use it
+Dialogue: 0,0:24:40.93,0:24:43.46,Endo,,0,0,0,,We were going to use you at the 6th frame
+Dialogue: 0,0:24:43.07,0:24:45.20,Matsumoto,,0,0,0,,But we decided to use you here
+Dialogue: 0,0:24:45.58,0:24:47.31,Yamazaki,,0,0,0,,You can't miss on purpose though!
+Dialogue: 0,0:24:47.10,0:24:49.17,Matsumoto,,0,0,0,,That would be mean
+Dialogue: 0,0:24:47.69,0:24:48.92,Tanaka,,0,0,0,,It really would
+Dialogue: 0,0:24:48.92,0:24:49.76,Yamazaki,,0,0,0,,You can't do that
+Dialogue: 0,0:24:49.76,0:24:51.25,Hamada,,0,0,0,,Just shut the hell up and throw
+Dialogue: 0,0:24:52.92,0:24:56.25,Matsumoto,,0,0,0,,No but seriously, should we all aim for that one pin?
+Dialogue: 0,0:24:54.34,0:24:55.51,Endo,,0,0,0,,What, all of us?
+Dialogue: 0,0:24:55.79,0:24:57.11,Endo,,0,0,0,,I think we should all just aim for it
+Dialogue: 0,0:24:56.84,0:24:59.47,Yamazaki,,0,0,0,,If we all aim for it, I'm pretty sure the
+Dialogue: 0,0:24:59.56,0:25:01.25,Yamazaki,,0,0,0,,result will be disastrous
+Dialogue: 0,0:25:00.65,0:25:03.14,Tanaka,,0,0,0,,No, but if you calculate the probabilities of hitting the pin,
+Dialogue: 0,0:25:03.28,0:25:05.46,Tanaka,,0,0,0,,we should all just aim for it
+Dialogue: 0,0:25:03.68,0:25:05.64,Matsumoto,,0,0,0,,I think so
+Dialogue: 0,0:25:05.09,0:25:06.28,Endo,,0,0,0,,that's definitely the right way to go about this
+Dialogue: 0,0:25:05.76,0:25:08.29,Matsumoto,,0,0,0,,I don't think we can have balls missing the
+Dialogue: 0,0:25:08.39,0:25:10.92,Matsumoto,,0,0,0,,pin on purpose at this stage
+Dialogue: 0,0:25:11.29,0:25:14.64,Matsumoto,,0,0,0,,I think we should work individually whilst as a team
+Dialogue: 0,0:25:14.10,0:25:15.76,Endo,,0,0,0,,Let's go with that
+Dialogue: 0,0:25:15.84,0:25:17.60,Endo,,0,0,0,,As long as one of our balls hit
+Dialogue: 0,0:25:18.09,0:25:19.67,Endo,,0,0,0,,We should go with probability here...
+Dialogue: 0,0:25:20.39,0:25:21.35,Endo,,0,0,0,,He really isn't feeling it, huh?
+Dialogue: 0,0:25:21.73,0:25:23.74,Yamazaki,,0,0,0,,I'm sorry but I have to feel it
+Dialogue: 0,0:25:24.14,0:25:25.19,Tanaka,,0,0,0,,No I totally get it
+Dialogue: 0,0:25:24.93,0:25:26.92,Yamazaki,,0,0,0,,If we don't get the result we want here
+Dialogue: 0,0:25:27.47,0:25:28.21,Yamazaki,,0,0,0,,I will end up hating{\alphaHFF} all of you
+Dialogue: 0,0:25:28.21,0:25:29.91,Yamazaki,,0,0,0,,I will end up hating all of you
+Dialogue: 0,0:25:30.26,0:25:30.89,Yamazaki,,0,0,0,,I'm sorry
+Dialogue: 0,0:25:30.86,0:25:31.99,Endo,,0,0,0,,Just out of curiosity, what is your plan?
+Dialogue: 0,0:25:31.55,0:25:32.56,Tanaka,,0,0,0,,What do you think?
+Dialogue: 0,0:25:32.70,0:25:34.21,Endo,,0,0,0,,What do you think?
+Dialogue: 0,0:25:33.00,0:25:35.03,Yamazaki,,0,0,0,,I think we should do what we've been doing the whole time
+Dialogue: 0,0:25:35.41,0:25:38.68,Yamazaki,,0,0,0,,I think we should do the same{\alphaHFF} thing we've done since  {\alphaHFF}the start
+Dialogue: 0,0:25:38.68,0:25:39.52,Yamazaki,,0,0,0,,I think we should do the same thing we've done since{\alphaHFF} the start
+Dialogue: 0,0:25:39.52,0:25:40.58,Yamazaki,,0,0,0,,{\pos(360,474.333)}I think we should do the same thing we've done since the start
+Dialogue: 0,0:25:40.64,0:25:43.76,Yamazaki,,0,0,0,,But if we do it that way and we fail
+Dialogue: 0,0:25:45.01,0:25:47.25,Yamazaki,,0,0,0,,I would feel really responsible for our loss and I don't want that
+Dialogue: 0,0:25:49.39,0:25:51.50,Yamazaki,,0,0,0,,So let's talk it through together
+Dialogue: 0,0:25:50.94,0:25:51.78,Matsumoto,,0,0,0,,Wait, we did do that
+Dialogue: 0,0:25:51.64,0:25:53.25,Endo,,0,0,0,,We did talk through it
+Dialogue: 0,0:25:52.89,0:25:54.04,Tanaka,,0,0,0,,and it's 3 vs 1
+Dialogue: 0,0:25:54.04,0:25:55.09,Endo,,0,0,0,,If we count up our votes...
+Dialogue: 0,0:25:56.06,0:25:58.16,Yamazaki,,0,0,0,,So just on this throw, we all aim for that pin?
+Dialogue: 0,0:25:58.16,0:25:59.72,Tanaka,,0,0,0,,Just direct your feelings to that pin
+Dialogue: 0,0:25:59.72,0:26:00.34,Yamazaki,,0,0,0,,You're right
+Dialogue: 0,0:25:59.94,0:26:00.75,Endo,,0,0,0,,Let's go for it
+Dialogue: 0,0:26:00.84,0:26:02.93,Endo,,0,0,0,,Wait, isn't it a bit too far to the right?
+Dialogue: 0,0:26:03.24,0:26:04.54,Matsumoto,,0,0,0,,Was there ever a pin{\alphaHFF} that close to the edge?
+Dialogue: 0,0:26:04.54,0:26:06.61,Matsumoto,,0,0,0,,Was there ever a pin that close to the edge?
+Dialogue: 0,0:26:06.01,0:26:08.16,Endo,,0,0,0,,No seriously...
+Dialogue: 0,0:26:07.10,0:26:08.37,Yamazaki,,0,0,0,,It has changed positions a bit
+Dialogue: 0,0:26:08.32,0:26:09.52,Tanaka,,0,0,0,,Let's check it, seriously
+Dialogue: 0,0:26:09.19,0:26:11.38,Matsumoto,,0,0,0,,Seriously, it's not in the correct position
+Dialogue: 0,0:26:11.81,0:26:15.21,Hamada,,0,0,0,,Wait, even if it is, it's because the pin from before nudged it a bit...
+Dialogue: 0,0:26:15.74,0:26:16.60,Matsumoto,,0,0,0,,I agree...
+Dialogue: 0,0:26:17.88,0:26:18.75,Endo,,0,0,0,,I guess...
+Dialogue: 0,0:26:20.71,0:26:22.46,Hamada,,0,0,0,,It's not been out of position from the start...
+Dialogue: 0,0:26:22.51,0:26:24.06,Endo,,0,0,0,,It really is as he says...
+Dialogue: 0,0:26:23.70,0:26:24.95,Matsumoto,,0,0,0,,Here we go
+Dialogue: 0,0:26:26.17,0:26:27.94,Black,,0,0,0,,Okay then ready st-...
+Dialogue: 0,0:26:28.43,0:26:29.55,Matsumoto,,0,0,0,,What the hell, man?
+Dialogue: 0,0:26:29.55,0:26:30.03,Yamazaki,,0,0,0,,Together
+Dialogue: 0,0:26:30.20,0:26:31.11,Yamazaki,,0,0,0,,Seriously, let's do this properly
+Dialogue: 0,0:26:31.26,0:26:32.48,Matsumoto,,0,0,0,,Yes, of course, of course!
+Dialogue: 0,0:26:31.73,0:26:32.81,Tanaka,,0,0,0,,Of course
+Dialogue: 0,0:26:33.03,0:26:34.72,Black,,0,0,0,,Ready, steady
+Dialogue: 0,0:26:33.04,0:26:36.71,Default,,0,0,0,,{\an7\shad0\fad(280,280)\alpha50\p1\c&H5E6A6F&\bord0\pos(61.667,45.999)}m 0 0 l 150 -1 l 150 52 l 0 52 l 0 357 l 0 2 l 0 2
+Dialogue: 0,0:26:33.04,0:26:36.71,Default,,0,0,0,,{\fad(280,280)\fs23\pos(132.444,92.556)}Final frame\N2nd throw
+Dialogue: 0,0:26:37.34,0:26:38.48,Endo,,0,0,0,,Oh shit, mine's gone
+Dialogue: 0,0:26:39.89,0:26:41.29,Endo,,0,0,0,,NO NO, OH SHIT!
+Dialogue: 0,0:26:42.13,0:26:44.92,Pink,,0,0,0,,Yes, you won!
+Dialogue: 0,0:26:43.85,0:26:48.82,Default,,0,0,0,,{\fad(300,300)\fs24\pos(130.5,349)}Hamada
+Dialogue: 0,0:26:43.85,0:26:48.82,Default,,0,0,0,,{\fad(300,300)\fs24\pos(129.167,391.667)}Team Matsumoto
+Dialogue: 0,0:26:45.27,0:26:46.74,Hamada,,0,0,0,,Come on!
+Dialogue: 0,0:26:49.58,0:26:50.72,Hamada,,0,0,0,,Well that's that!!
+Dialogue: 0,0:26:50.96,0:26:52.60,Hamada,,0,0,0,,Team Matsumoto
+Dialogue: 0,0:26:52.91,0:26:55.52,Hamada,,0,0,0,,BATSU GAME!
+Dialogue: 0,0:26:56.06,0:26:59.83,Default,,0,0,0,,{\fad(150,0)\fs40\fnBookman Old Style\shad2\i1\pos(371.25,349)\c&HB4B5B4&\4c&H3C22AC&}Team Matsumoto Batsu game!
+Dialogue: 0,0:27:00.27,0:27:01.17,Matsumoto,,0,0,0,,You know
+Dialogue: 0,0:27:01.45,0:27:04.62,Matsumoto,,0,0,0,,We were doing so well as a team
+Dialogue: 0,0:27:04.62,0:27:06.99,Matsumoto,,0,0,0,,Right at the end, we became individuals
+Dialogue: 0,0:27:06.32,0:27:07.18,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:27:07.46,0:27:08.40,Endo,,0,0,0,,That's so true
+Dialogue: 0,0:27:08.11,0:27:08.74,Matsumoto,,0,0,0,,{\pos(356,391.667)}That was what{\alphaHFF} was wrong
+Dialogue: 0,0:27:08.74,0:27:09.54,Matsumoto,,0,0,0,,{\pos(356,391.667)}That was what was wrong
+Dialogue: 0,0:27:09.71,0:27:10.37,Matsumoto,,0,0,0,,It's no good to
+Dialogue: 0,0:27:10.37,0:27:11.11,Matsumoto,,0,0,0,,think of us even {\alphaHFF} as a family
+Dialogue: 0,0:27:11.11,0:27:13.54,Matsumoto,,0,0,0,,think of us even as a family
+Dialogue: 0,0:27:12.99,0:27:14.16,Tanaka,,0,0,0,,Why..?
+Dialogue: 0,0:27:13.35,0:27:14.72,Hamada,,0,0,0,,They're really getting lectured
+Dialogue: 0,0:27:16.75,0:27:17.15,Matsumoto,,0,0,0,,So I'm going to {\alphaHFF}slap you {\alphaHFF}guys now
+Dialogue: 0,0:27:17.15,0:27:17.68,Matsumoto,,0,0,0,,So I'm going to slap you{\alphaHFF} guys now
+Dialogue: 0,0:27:17.68,0:27:19.65,Matsumoto,,0,0,0,,So I'm going to slap you guys now
+Dialogue: 0,0:27:21.22,0:27:22.46,Hamada,,0,0,0,,It can't be helped; stand up
+Dialogue: 0,0:27:24.26,0:27:24.69,Yamazaki,,0,0,0,,Apparently he wants to see{\alphaHFF} us getting slapped
+Dialogue: 0,0:27:24.69,0:27:26.79,Yamazaki,,0,0,0,,Apparently he wants to see us getting slapped
+Dialogue: 0,0:27:26.34,0:27:27.35,Yamazaki,,0,0,0,,All of us
+Dialogue: 0,0:27:27.42,0:27:29.39,Hamada,,0,0,0,,Shall I slap you guys?{\alphaHFF} Matsumoto included
+Dialogue: 0,0:27:28.36,0:27:29.62,Endo,,0,0,0,,No, we are quite okay
+Dialogue: 0,0:27:29.39,0:27:30.79,Hamada,,0,0,0,,Shall I slap you guys? Matsumoto included
+Dialogue: 0,0:27:31.03,0:27:31.94,Matsumoto,,0,0,0,,Wait, what? Why?
+Dialogue: 0,0:27:32.96,0:27:34.70,Yamazaki,,0,0,0,,He just wants to slap someone...
+Dialogue: 0,0:27:33.68,0:27:34.53,Matsumoto,,0,0,0,,He just wants to slap
+Dialogue: 0,0:27:34.06,0:27:35.57,Endo,,0,0,0,,He just wants to slap
+Dialogue: 0,0:27:35.78,0:27:36.95,Hamada,,0,0,0,,Because you lost as well
+Dialogue: 0,0:27:38.08,0:27:40.23,Hamada,,0,0,0,,Yeah, come to think of it, you lost too, why the hell are you slapping them?
+Dialogue: 0,0:27:42.38,0:27:43.75,Endo,,0,0,0,,Oh shit, he's coming over here
+Dialogue: 0,0:27:42.65,0:27:44.17,Hamada,,0,0,0,,You've lost as well
+Dialogue: 0,0:27:45.46,0:27:46.35,Endo,,0,0,0,,Oh shit
+Dialogue: 0,0:27:46.27,0:27:47.05,Hamada,,0,0,0,,Line up!
+Dialogue: 0,0:27:46.90,0:27:47.70,Tanaka,,0,0,0,,He's coming
+Dialogue: 0,0:27:47.73,0:27:49.65,Endo,,0,0,0,,This is so wrong
+Dialogue: 0,0:27:48.23,0:27:50.46,Tanaka,,0,0,0,,This wasn't in the agreement
+Dialogue: 0,0:27:49.72,0:27:50.88,Hamada,,0,0,0,,Line up, line up now
+Dialogue: 0,0:27:50.50,0:27:51.49,Endo,,0,0,0,,This is just...
+Dialogue: 0,0:27:51.49,0:27:52.18,Tanaka,,0,0,0,,This wasn't in the agreement...
+Dialogue: 0,0:27:52.23,0:27:53.06,Hamada,,0,0,0,,Don't complain
+Dialogue: 0,0:28:01.80,0:28:02.68,Tanaka,,0,0,0,,Hold on a second
+Dialogue: 0,0:28:03.76,0:28:04.36,Yamazaki,,0,0,0,,So we got slapped{\alphaHFF} and have to do a Batsu game?
+Dialogue: 0,0:28:04.36,0:28:06.20,Yamazaki,,0,0,0,,So we got slapped and have to do a Batsu game?
+

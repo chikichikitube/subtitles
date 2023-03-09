@@ -1,0 +1,1310 @@
+﻿[Script Info]
+Title: Default SSA V4+ (ASS)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,81,&H00E260FA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,1,11,11,15,0
+Style: Box,Arial,81,&HFFFFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,3,3,2,11,11,15,0
+Style: Rubi,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,1,11,11,15,0
+Style: Default (box),Arial,81,&H00F4DF46,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,3,3,1,11,11,15,0
+Style: Default (box; bigger),Arial,100,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,15,0
+Style: Default (box; smaller),Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,3,3,3,1,11,11,15,0
+Style: Default (box; 60),Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,1,11,11,15,0
+Style: Default (box) - Arial,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,1,11,11,15,0
+Style: Left Arial,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,100,0,0,1,5,3,1,11,11,15,0
+Style: Default (box) - Arial - Centred,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,15,0
+Style: Default (box; 60) - Centred,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,15,0
+Style: Presenter,Arial,50,&H00000000,&H000000FF,&H00DFBBFC,&H00000000,0,0,0,0,100,100,0,0,3,15,0,5,20,20,15,0
+Style: Default - Arial - Centered,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,11,11,15,0
+Style: Items,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,60,110,0,0,1,10,0,4,10,10,10,1
+Style: Items - 2,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,45,84,0,0,1,10,0,4,10,10,10,1
+Style: Overlay text,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,22,0
+Style: Normal subtitle (Line 2),Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,3,2,11,11,183,0
+Style: Normal subtitle,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,5,3,2,11,11,63,0
+Style: Overlay text (Line 2),Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,5,3,2,11,11,125,0
+Style: Overlay text (Line 3),Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,5,3,2,11,11,210,0
+Style: product,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95,90,0,0,3,3,3,2,11,11,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:07:25.46,0:07:33.70,Default (box) - Arial,,0,0,0,,{\pos(108,1018)}Watanabe Yōichi
+Dialogue: 0,0:00:03.05,0:00:05.55,Left Arial,,0,0,0,,{\pos(254.25,657)\c&H00ffff&}This is Suiyoubi no Downtown.\N
+Dialogue: 0,0:00:03.05,0:00:05.55,Left Arial,,0,0,0,,{\pos(254.25,777)\c&H00ffff&}Hello everyone!
+Dialogue: 0,0:00:03.05,0:00:04.78,Presenter,,0,0,0,,{\pos(720,930)\b1}MC{\b0} Hamada Masatoshi\N(Downtown)
+Dialogue: 0,0:00:04.92,0:00:07.79,Presenter,,0,0,0,,{\pos(360,938)\fs50\b0}Shigemori Satomi
+Dialogue: 0,0:00:04.92,0:00:07.79,Presenter,,0,0,0,,{\pos(610,845)\fs50\b0}Bakarhythm
+Dialogue: 0,0:00:04.92,0:00:07.79,Presenter,,0,0,0,,{\pos(838,930)\fs50\b0}Konda Haruna\N(Harisenbon)
+Dialogue: 0,0:00:04.92,0:00:07.79,Presenter,,0,0,0,,{\pos(1106,869)\fs50\b0}Matsumoto Hitoshi\N(Downtown)
+Dialogue: 0,0:00:05.55,0:00:07.59,Left Arial,,0,0,0,,{\pos(405,777)}(All) Hello!\N
+Dialogue: 0,0:00:07.59,0:00:10.66,Left Arial,,0,0,0,,{\pos(374.625,657)\c&H00ffff&}Our first presenter\N
+Dialogue: 0,0:00:07.59,0:00:10.66,Left Arial,,0,0,0,,{\pos(374.625,777)\c&H00ffff&}will come out now.
+Dialogue: 0,0:00:16.26,0:00:19.00,Presenter,,0,0,0,,{\pos(718,927)}Presenter\NJinnai Tomonori
+Dialogue: 0,0:00:16.43,0:00:19.90,Left Arial,,0,0,0,,{\pos(464.25,837)\c&H00ffff&}It's Jinnai Tomonori-san!\N
+Dialogue: 0,0:00:21.07,0:00:23.17,Left Arial,,0,0,0,,{\pos(584.25,1017)\c&H00ff00&}So everyone,\N
+Dialogue: 0,0:00:23.37,0:00:28.37,Overlay text,,0,0,0,,{\pos(720,1016)}People who use Kansai-ben\Ndespite not being from Kansai
+Dialogue: 0,0:00:26.07,0:00:28.41,Left Arial,,0,0,0,,{\pos(554.625,837)\c&H00ff00&}Have you seen any?\N
+Dialogue: 0,0:00:28.41,0:00:32.28,Normal subtitle,,0,0,0,,Ah yes. Aren't there a lot of workers at Yoshimoto like that?\N
+Dialogue: 0,0:00:32.28,0:00:35.25,Normal subtitle,,0,0,0,,(Haruna) They use Kansai-ben\N
+Dialogue: 0,0:00:32.28,0:00:35.25,Normal subtitle (Line 2),,0,0,0,,{\c&Hffff00&}Ahh..\N
+Dialogue: 0,0:00:35.25,0:00:38.32,Normal subtitle,,0,0,0,,My manager who used to represent me\N
+Dialogue: 0,0:00:38.32,0:00:40.32,Normal subtitle,,0,0,0,,would always use Kansai-ben\N
+Dialogue: 0,0:00:40.32,0:00:42.52,Normal subtitle,,0,0,0,,{\pos(720,777)}I thought he might be from there but\N
+Dialogue: 0,0:00:41.65,0:00:43.89,Default (box; bigger),,0,0,0,,{\pos(720,964.5)} he was from Chiba.
+Dialogue: 0,0:00:43.96,0:00:45.96,Left Arial,,0,0,0,,{\pos(675,897)\c&Hffff00&}That's kind of gross\N
+Dialogue: 0,0:00:43.96,0:00:45.96,Normal subtitle,,0,0,0,,(Haruna) It is unpleasant\N
+Dialogue: 0,0:00:45.96,0:00:48.26,Left Arial,,0,0,0,,{\pos(734.625,1017)}When I was young,\N
+Dialogue: 0,0:00:45.96,0:00:48.26,Normal subtitle (Line 2),,0,0,0,,{\c&H00ff00&}Bakarhythm, how about you?\N
+Dialogue: 0,0:00:48.26,0:00:50.30,Normal subtitle,,0,0,0,,a director at the time\N
+Dialogue: 0,0:00:50.30,0:00:53.77,Normal subtitle,,0,0,0,,despite not being a native\N
+Dialogue: 0,0:00:50.30,0:00:53.77,Normal subtitle (Line 2),,0,0,0,,often spoke in Kansai-ben\N
+Dialogue: 0,0:00:53.77,0:00:55.87,Normal subtitle,,0,0,0,,so when I'd tell him my jokes, he'd say\N
+Dialogue: 0,0:00:55.87,0:00:57.57,Overlay text,,0,0,0,,{\pos(720,957)}(In Kansai-ben) That's funny!
+Dialogue: 0,0:00:58.27,0:01:01.17,Left Arial,,0,0,0,,{\pos(494.25,897)}Ah, someone like that\N
+Dialogue: 0,0:00:58.27,0:01:01.17,Left Arial,,0,0,0,,{\pos(752,1021)}<That's annoying
+Dialogue: 0,0:01:01.17,0:01:04.71,Overlay text,,0,0,0,,{\pos(720,970)}\NI felt like my joke was being tainted\N
+Dialogue: 0,0:01:03.04,0:01:06.38,Left Arial,,0,0,0,,{\pos(254.25,777)\c&H00ffff&}What are you talking about?\N
+Dialogue: 0,0:01:06.38,0:01:09.38,Normal subtitle,,0,0,0,,{\c&H00ff00&}I bring to you now:\N
+Dialogue: 0,0:01:06.38,0:01:09.38,Normal subtitle (Line 2),,0,0,0,,{\c&H00ff00&}And with that,\N
+Dialogue: 0,0:01:09.28,0:01:12.15,Overlay text,,0,0,0,,{\pos(720,760)}Kansai Werewolf
+Dialogue: 0,0:01:10.42,0:01:13.22,Left Arial,,0,0,0,,{\pos(344.25,897)\c&H00ffff&}Kansai Werewolf.\N
+Dialogue: 0,0:01:10.42,0:01:13.22,Left Arial,,0,0,0,,{\pos(344.25,1017)\c&H00ffff&}What does that mean?\N
+Dialogue: 0,0:01:13.22,0:01:15.89,Left Arial,,0,0,0,,{\pos(374.625,717)\c&H00ff00&}Does everyone know\N
+Dialogue: 0,0:01:13.22,0:01:15.89,Left Arial,,0,0,0,,{\pos(374.625,837)\c&H00ff00&}the Werewolf game?\N
+Dialogue: 0,0:01:14.39,0:01:22.56,Default (box; 60),,0,0,0,,{\pos(18,824)}Werewolf game
+Dialogue: 0,0:01:14.39,0:01:22.56,Default (box; 60),,0,0,0,,{\pos(50,1002)}A game where players are divided citizens and werewolves, and have to guess who the werewolves are
+Dialogue: 0,0:01:15.89,0:01:18.56,Left Arial,,0,0,0,,{\pos(884.25,717)}Yep\N
+Dialogue: 0,0:01:15.89,0:01:18.56,Left Arial,,0,0,0,,{\pos(405,837)\c&H00ff00&}You have citizens and wolves.\N
+Dialogue: 0,0:01:18.56,0:01:22.56,Left Arial,,0,0,0,,{\pos(315,717)\c&H00ff00&}Everyone talks and tries\N
+Dialogue: 0,0:01:18.56,0:01:22.56,Left Arial,,0,0,0,,{\pos(315,837)\c&H00ff00&}to figure out who the wolves are.\N
+Dialogue: 0,0:01:22.56,0:01:25.66,Left Arial,,0,0,0,,{\pos(344.25,897)\c&H00ff00&}This time we have the\N
+Dialogue: 0,0:01:22.56,0:01:25.66,Left Arial,,0,0,0,,{\pos(344.25,1017)\c&H00ff00&}Kansai-ben version of that:\N
+Dialogue: 0,0:01:25.76,0:01:29.43,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,954)}Find the fake Kansai natives
+Dialogue: 0,0:01:27.67,0:01:29.67,Left Arial,,0,0,0,,{\pos(635,777)\c&H00ffff&}I see\N
+Dialogue: 0,0:01:29.67,0:01:31.64,Left Arial,,0,0,0,,{\pos(564.625,1017)}After this...\N
+Dialogue: 0,0:01:31.64,0:01:35.24,Left Arial,,0,0,0,,{\pos(334.25,657)}Out of a group of people not known\N
+Dialogue: 0,0:01:31.64,0:01:35.24,Left Arial,,0,0,0,,{\pos(434.25,777)}for being from Kansai...\N
+Dialogue: 0,0:01:31.67,0:01:38.68,Default (box; bigger),,0,0,0,,{\pos(720,1000)}Who are the fake Kansai natives!?
+Dialogue: 0,0:01:35.24,0:01:38.44,Normal subtitle,,0,0,0,,{\pos(720.625,657)}
+Dialogue: 0,0:01:35.24,0:01:38.44,Normal subtitle,,0,0,0,,{\pos(720.625,777)}we find out who's just pretending
+Dialogue: 0,0:01:38.81,0:01:40.11,Default (box; bigger),,0,0,0,,{\pos(720,1024)}(In Kansai-ben) I'm old Osaka
+Dialogue: 0,0:01:39.91,0:01:42.61,Normal subtitle,,0,0,0,,{\pos(720,837)}Then, at the convenience store...\N
+Dialogue: 0,0:01:40.71,0:01:44.18,Default (box; bigger),,0,0,0,,{\pos(720,997)}No Plastic Bag Shopping Challenge
+Dialogue: 0,0:01:44.38,0:01:46.92,Overlay text,,0,0,0,,{\pos(720,1021)}I can't believe how effective this is
+Dialogue: 0,0:01:46.42,0:01:48.72,Left Arial,,0,0,0,,{\pos(258,794)}And...\N
+Dialogue: 0,0:01:47.15,0:01:53.33,Overlay text,,0,0,0,,Is the portable shrine boil\Ndisappearing because of Coronavirus?
+Dialogue: 0,0:02:09.17,0:02:13.04,Default (box; bigger),,0,0,0,,{\pos(720,1053)}Kansai Werewolf
+Dialogue: 0,0:02:13.08,0:02:16.35,Normal subtitle,,0,0,0,,{\pos(720,837)\c&H00ff00&}Everyone, welcome to Kansai Werewolf.\N
+Dialogue: 0,0:02:13.38,0:02:16.18,Default (box; 60) - Centred,,0,0,0,,{\pos(720,1032)\b0}Gamemaster\NJinnai Tomonori
+Dialogue: 0,0:02:16.55,0:02:20.85,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}Out of the 8 people here, 5 are from Kansai,
+Dialogue: 0,0:02:20.85,0:02:24.82,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}but not generally known for being so.\NHidden Kansai Natives.
+Dialogue: 0,0:02:25.12,0:02:29.76,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}The remaining 3 have no\Nconnection at all to Kansai
+Dialogue: 0,0:02:29.76,0:02:34.13,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}but are pretending they're from there. fake Kansai natives.
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(28,632)}Jimon Terakado
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(390,632)}Inamura Ami
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(674,632)}Kawasaki Mayo
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(1034,632)}Watanabe Yōchi
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(250,1029)}Ōhashi Miho
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(546,1029)}Hayashiya Pei
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(888,1029)}Akira 100%
+Dialogue: 0,0:02:34.50,0:02:38.37,Default (box; smaller),,0,0,0,,{\pos(1166,1029)}Ôsawa Akane
+Dialogue: 0,0:02:34.77,0:02:36.77,Left Arial,,0,0,0,,{\pos(182,309)}The Kansai Werewolf players...\N
+Dialogue: 0,0:02:36.77,0:02:38.74,Left Arial,,0,0,0,,{\pos(395,309)}are these 8 people:\N
+Dialogue: 0,0:02:38.74,0:02:42.61,Left Arial,,0,0,0,,{\pos(315,357)}Of those 5 are really
+Dialogue: 0,0:02:38.74,0:02:42.61,Left Arial,,0,0,0,,{\pos(315,477)}from Kansai but\N
+Dialogue: 0,0:02:42.61,0:02:47.68,Left Arial,,0,0,0,,{\pos(254.25,837)}the remaining 3 are
+Dialogue: 0,0:02:42.61,0:02:47.68,Left Arial,,0,0,0,,{\pos(254.25,957)}fake Kansai natives.\N
+Dialogue: 0,0:02:48.65,0:02:53.55,Left Arial,,0,0,0,,{\pos(284.625,777)\c&H00ff00&}The 3 fake Kansai natives\N
+Dialogue: 0,0:02:48.65,0:02:53.55,Left Arial,,0,0,0,,{\pos(284.625,897)\c&H00ff00&}know who the other fakes are.\N
+Dialogue: 0,0:02:54.02,0:02:56.89,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}So, it's the first day
+Dialogue: 0,0:02:57.09,0:03:05.50,Default (box; 60),,0,0,0,,{\pos(170,997)}Detect the fake Kansai Natives using Kansai-ben intonation
+Dialogue: 0,0:02:57.09,0:03:05.50,Default (box; smaller),,0,0,0,,{\pos(4,864)}Elimination meeting
+Dialogue: 0,0:02:57.09,0:02:59.09,Left Arial,,0,0,0,,{\pos(434.25,897)\c&H00ff00&}and it's elimination meeting time.\N
+Dialogue: 0,0:02:59.09,0:03:03.13,Left Arial,,0,0,0,,{\pos(374.625,777)\c&H00ff00&}Please try to find who the\N
+Dialogue: 0,0:02:59.09,0:03:03.13,Left Arial,,0,0,0,,{\pos(374.625,897)\c&H00ff00&}fake Kansai natives are.\N
+Dialogue: 0,0:03:03.13,0:03:05.30,Left Arial,,0,0,0,,{\pos(584.25,897)\c&H00ff00&}Let's begin.\N
+Dialogue: 0,0:03:05.76,0:03:08.50,Overlay text,,0,0,0,,{\pos(716,680)}Day 1\NElimination meeting
+Dialogue: 0,0:03:12.27,0:03:14.57,Normal subtitle (Line 2),,0,0,0,,{\pos(720,945)}(In Kansai-ben)\N
+Dialogue: 0,0:03:12.40,0:03:15.24,Overlay text,,0,0,0,,{\pos(720,1058)}I'm Terakado Jimon.
+Dialogue: 0,0:03:15.24,0:03:17.54,Overlay text,,0,0,0,,{\pos(720,1058)}That's a bit too much isn't it?
+Dialogue: 0,0:03:17.54,0:03:19.68,Overlay text,,0,0,0,,{\pos(720,1058)}What are you saying?
+Dialogue: 0,0:03:19.68,0:03:21.78,Overlay text,,0,0,0,,{\pos(720,1058)}I'm definitely a Kansai native and
+Dialogue: 0,0:03:21.78,0:03:23.95,Overlay text,,0,0,0,,{\pos(720,1058)}Jimon-san you don't seem like one at all.
+Dialogue: 0,0:03:24.38,0:03:25.38,Overlay text,,0,0,0,,{\pos(720,1058)}Definitely not!
+Dialogue: 0,0:03:25.72,0:03:28.39,Overlay text,,0,0,0,,{\pos(720,1058)}Just so you know, my accent is old Osaka
+Dialogue: 0,0:03:28.59,0:03:30.56,Normal subtitle,,0,0,0,,{\pos(720,1017)\c&H00ffff&}"washi"... ha ha ha\N
+Dialogue: 0,0:03:30.82,0:03:33.79,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}It's even old in Osaka. So young people there--
+Dialogue: 0,0:03:33.79,0:03:35.83,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}How many years ago was it?
+Dialogue: 0,0:03:35.83,0:03:39.13,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1066)}It's been about 30 or 40 years.\NThe words have changed so much.
+Dialogue: 0,0:03:39.23,0:03:42.93,Left Arial,,0,0,0,,{\pos(344.25,777)\c&H00ff00&}His Kansai-ben's awful.\N
+Dialogue: 0,0:03:39.23,0:03:42.93,Left Arial,,0,0,0,,{\pos(344.25,897)\c&H00ff00&}Is he really from there?\N
+Dialogue: 0,0:03:39.43,0:03:42.97,Default (box; 60) - Centred,,0,0,0,,{\pos(720,1013)}Jinnai also doesn't know who the fake Kansai natives are
+Dialogue: 0,0:03:42.97,0:03:49.07,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}When I debuted in Tokyo, you had to speak Tokyo-ben
+Dialogue: 0,0:03:49.07,0:03:50.38,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}Well, I agree with that.
+Dialogue: 0,0:03:50.38,0:03:53.85,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}45 years ago when I came to Tokyo,
+Dialogue: 0,0:03:53.85,0:03:57.48,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}speaking Kansai-ben was unacceptable.
+Dialogue: 0,0:03:56.92,0:03:58.92,Left Arial,,0,0,0,,{\pos(765,957)}For your image.\N
+Dialogue: 0,0:03:58.58,0:03:59.65,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}That's right.
+Dialogue: 0,0:03:59.78,0:04:04.36,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}After people like Sanma-san appeared,\NKansai-ben quickly became acceptable.
+Dialogue: 0,0:04:04.09,0:04:06.09,Normal subtitle,,0,0,0,,{\pos(882,882)}That's right.\N
+Dialogue: 0,0:04:05.72,0:04:08.06,Overlay text,,0,0,0,,So we were trained...
+Dialogue: 0,0:04:08.06,0:04:09.76,Overlay text,,0,0,0,,"Ah, Kansai-ben? No, no, no"
+Dialogue: 0,0:04:09.86,0:04:12.96,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}Jimon-san you don't really need an image like that do you?
+Dialogue: 0,0:04:11.93,0:04:14.03,Normal subtitle (Line 2),,0,0,0,,{\pos(720,877)}Huh?\N
+Dialogue: 0,0:04:12.96,0:04:14.33,Default (box) - Arial,,0,0,0,,{\pos(336,1058)}Why are you criticizing me?
+Dialogue: 0,0:04:14.33,0:04:16.33,Default (box) - Arial,,0,0,0,,{\pos(194,1058)}It feels like I'm being criticized. Why?
+Dialogue: 0,0:04:16.33,0:04:19.47,Default (box) - Arial,,0,0,0,,{\pos(352,1058)}Isn't his intonation strange?
+Dialogue: 0,0:04:19.47,0:04:21.34,Default (box) - Arial,,0,0,0,,{\pos(232,1058)}Weren't you using Tokyo words too?
+Dialogue: 0,0:04:21.51,0:04:24.04,Default (box) - Arial,,0,0,0,,{\pos(108,1058)}Well, of course. I've been in Tokyo for 45 years.
+Dialogue: 0,0:04:24.04,0:04:27.05,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}Mayo-san doesn't strike me as a\N native but his Kansai-ben is good
+Dialogue: 0,0:04:27.05,0:04:30.28,Default (box) - Arial,,0,0,0,,{\pos(260,1058)}Jimon-san, you're very suspicious.
+Dialogue: 0,0:04:30.62,0:04:31.38,Default (box) - Arial,,0,0,0,,{\pos(630,1058)}Huh?
+Dialogue: 0,0:04:31.38,0:04:33.85,Default (box) - Arial,,0,0,0,,{\pos(510,1058)}Very suspicious.
+Dialogue: 0,0:04:33.85,0:04:37.16,Overlay text,,0,0,0,,People from Kansai don't speak slowly like that!
+Dialogue: 0,0:04:37.16,0:04:38.26,Overlay text,,0,0,0,,It's more energetic.
+Dialogue: 0,0:04:38.26,0:04:40.46,Overlay text,,0,0,0,,There aren't many people there like you.
+Dialogue: 0,0:04:40.46,0:04:47.97,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}After graduating middle school, I spent about 30 years as a battlefield cameraman.
+Dialogue: 0,0:04:47.97,0:04:51.00,Default (box) - Arial,,0,0,0,,{\pos(298,1058)}So I've lived all over the world.
+Dialogue: 0,0:04:51.24,0:04:53.00,Default (box) - Arial,,0,0,0,,{\pos(422,1058)}I knew about that but...
+Dialogue: 0,0:04:53.41,0:04:56.47,Default (box) - Arial,,0,0,0,,{\pos(130,1058)}My Japanese has become
+Dialogue: 0,0:04:56.47,0:04:58.18,Default (box) - Arial,,0,0,0,,{\pos(130,1058)}My Japanese has become strange, hasn't it?
+Dialogue: 0,0:04:58.74,0:05:00.75,Default (box) - Arial,,0,0,0,,{\pos(460,1058)}I see. That's right.
+Dialogue: 0,0:05:01.35,0:05:03.72,Default (box) - Arial,,0,0,0,,{\pos(272,1058)}I don't know about Watanabe-san.
+Dialogue: 0,0:05:03.72,0:05:05.62,Default (box) - Arial,,0,0,0,,{\pos(18,1058)}Akira-san
+Dialogue: 0,0:05:04.72,0:05:06.72,Left Arial,,0,0,0,,{\pos(284.625,957)}Akira's suspicious\N
+Dialogue: 0,0:05:05.62,0:05:09.02,Default (box) - Arial,,0,0,0,,{\pos(18,1058)}Akira-san doesn't do Kansai-style comedy, right?
+Dialogue: 0,0:05:09.02,0:05:10.56,Overlay text,,0,0,0,,You're usually naked, right?
+Dialogue: 0,0:05:10.56,0:05:13.79,Overlay text,,0,0,0,,Comedians from Kansai don't do stuff like that
+Dialogue: 0,0:05:13.79,0:05:16.83,Overlay text,,0,0,0,,I'm from Shiga. My father...
+Dialogue: 0,0:05:15.79,0:05:17.50,Overlay text (Line 2),,0,0,0,,Huh? Say that again.
+Dialogue: 0,0:05:16.83,0:05:17.50,Overlay text,,0,0,0,,Shiga
+Dialogue: 0,0:05:17.66,0:05:19.96,Overlay text,,0,0,0,,Why don't you use Kansai-ben if you're from Shiga?
+Dialogue: 0,0:05:20.27,0:05:24.37,Overlay text,,0,0,0,,I moved to Saitama in the first year of middle school
+Dialogue: 0,0:05:24.37,0:05:27.14,Overlay text,,0,0,0,,Since then it's been like 35 years, hasn't it?
+Dialogue: 0,0:05:27.14,0:05:28.81,Overlay text,,0,0,0,,I've been here ever since then.
+Dialogue: 0,0:05:30.04,0:05:35.55,Overlay text,,0,0,0,,When I trained to be an actor, I also had my intonation corrected
+Dialogue: 0,0:05:36.92,0:05:38.35,Overlay text,,0,0,0,,Is that so?
+Dialogue: 0,0:05:38.85,0:05:40.25,Overlay text,,0,0,0,,I love Chaplin
+Dialogue: 0,0:05:40.25,0:05:44.19,Overlay text,,0,0,0,,If he's fake, he's good
+Dialogue: 0,0:05:44.32,0:05:47.29,Overlay text,,0,0,0,,{\pos(720,621)}1 minute remaining
+Dialogue: 0,0:05:44.76,0:05:47.29,Normal subtitle,,0,0,0,,{\c&H00ff00&}OK everyone, 1 minute left\N
+Dialogue: 0,0:05:47.29,0:05:52.16,Overlay text,,0,0,0,,My elementary school teacher was Fujiyama Kanbi
+Dialogue: 0,0:05:52.16,0:05:53.90,Overlay text,,0,0,0,,So I'm deeply Osakan
+Dialogue: 0,0:05:55.87,0:05:58.97,Overlay text,,0,0,0,,The accent is totally different to Jimon-san's
+Dialogue: 0,0:05:58.97,0:06:01.17,Overlay text,,0,0,0,,Osaka baseball ground is nearby.
+Dialogue: 0,0:06:01.17,0:06:05.61,Overlay text,,0,0,0,,I've been going there since before\NNomura started at the Nankai Hawks.
+Dialogue: 0,0:06:03.78,0:06:05.78,Left Arial,,0,0,0,,{\pos(1004.625,897)}Ah!
+Dialogue: 0,0:06:03.78,0:06:05.78,Left Arial,,0,0,0,,{\pos(254.25,897)}Wow!\N
+Dialogue: 0,0:06:06.48,0:06:07.95,Overlay text,,0,0,0,,So Osakan.
+Dialogue: 0,0:06:07.95,0:06:12.08,Overlay text,,0,0,0,,Appearance-wise you're the most\Nsuspicious but I trust you the most.
+Dialogue: 0,0:06:12.08,0:06:14.55,Overlay text,,0,0,0,,Do you normally use Kansai-ben when performing?
+Dialogue: 0,0:06:15.29,0:06:17.66,Overlay text,,0,0,0,,When I'm in Osaka, to an extent
+Dialogue: 0,0:06:17.66,0:06:20.16,Overlay text,,0,0,0,,Why don't you use it when you're in Tokyo?
+Dialogue: 0,0:06:20.36,0:06:25.76,Overlay text,,0,0,0,,Flowery Tokyo-ben seems... n-natural
+Dialogue: 0,0:06:26.36,0:06:27.87,Default (box) - Arial,,0,0,0,,{\pos(586,1058)}Suspicious!
+Dialogue: 0,0:06:28.20,0:06:30.40,Left Arial,,0,0,0,,{\pos(914.625,1017)}What's that?\N
+Dialogue: 0,0:06:30.74,0:06:32.60,Default (box) - Arial,,0,0,0,,{\pos(442,1058)}That's really suspicious
+Dialogue: 0,0:06:33.14,0:06:38.04,Overlay text,,0,0,0,,{\pos(720,626)}Day 1 complete
+Dialogue: 0,0:06:36.81,0:06:39.58,Normal subtitle,,0,0,0,,{\pos(720,957)\c&H00ff00&}OK everyone\N
+Dialogue: 0,0:06:38.04,0:06:40.04,Overlay text,,0,0,0,,It's elimination time
+Dialogue: 0,0:06:39.58,0:06:43.25,Left Arial,,0,0,0,,{\pos(374.625,717)\c&H00ff00&}Could all players please\N
+Dialogue: 0,0:06:39.58,0:06:43.25,Left Arial,,0,0,0,,{\pos(374.625,837)\c&H00ff00&}select one player who they think\N
+Dialogue: 0,0:06:43.25,0:06:45.42,Left Arial,,0,0,0,,{\pos(434.25,837)\c&H00ff00&}is a fake Kansai native.\N
+Dialogue: 0,0:06:48.99,0:06:51.46,Overlay text,,0,0,0,,These two are both suspicious
+Dialogue: 0,0:06:52.12,0:06:53.93,Overlay text,,0,0,0,,I can't decide
+Dialogue: 0,0:06:53.26,0:06:55.23,Left Arial,,0,0,0,,{\pos(385,357)}Jimon-san is the only suspicious one\N
+Dialogue: 0,0:06:55.23,0:06:57.23,Left Arial,,0,0,0,,{\pos(765,357)}It has to be Jimon-san\N
+Dialogue: 0,0:06:56.90,0:06:59.00,Overlay text,,0,0,0,,Voting is complete
+Dialogue: 0,0:06:59.23,0:07:04.04,Overlay text,,0,0,0,,Let's see who voted for who
+Dialogue: 0,0:07:04.24,0:07:08.74,Left Arial,,0,0,0,,{\pos(284.625,717)\c&H00ff00&} \N
+Dialogue: 0,0:07:04.24,0:07:08.74,Left Arial,,0,0,0,,{\pos(214.625,837)\c&H00ff00&}Jimon-san thinks the fake Kansai native is...\N
+Dialogue: 0,0:07:08.31,0:07:12.44,Default (box) - Arial,,0,0,0,,{\pos(858,1018)}Watanabe Yōichi
+Dialogue: 0,0:07:10.24,0:07:12.44,Left Arial,,0,0,0,,{\pos(254.25,837)}Without a doubt!\N
+Dialogue: 0,0:07:12.54,0:07:15.85,Overlay text,,0,0,0,,He hasn't spoken any proper Kansai-ben at all
+Dialogue: 0,0:07:15.98,0:07:18.08,Default (box) - Arial,,0,0,0,,{\pos(184,1058)}Well... you haven't been speaking it either.
+Dialogue: 0,0:07:18.25,0:07:19.78,Overlay text,,0,0,0,,Huh?
+Dialogue: 0,0:07:19.78,0:07:22.42,Overlay text,,0,0,0,,Watanabe-san didn't speak in Kansai-ben.
+Dialogue: 0,0:07:21.29,0:07:22.42,Overlay text (Line 2),,0,0,0,,That he didn't use it →
+Dialogue: 0,0:07:22.42,0:07:23.72,Overlay text,,0,0,0,,makes me suspicious.
+Dialogue: 0,0:07:23.72,0:07:25.46,Overlay text,,0,0,0,,I see. I see.
+Dialogue: 0,0:07:25.69,0:07:30.40,Left Arial,,0,0,0,,{\pos(344.25,717)\c&H00ff00&}And Watanabe Yōichi-san\N
+Dialogue: 0,0:07:25.69,0:07:30.40,Left Arial,,0,0,0,,{\pos(344.25,837)\c&H00ff00&}thinks the fake Kansai native is...\N
+Dialogue: 0,0:07:29.43,0:07:33.70,Default (box) - Arial,,0,0,0,,{\pos(884,1018)}Terakado Jimon
+Dialogue: 0,0:07:31.76,0:07:33.70,Overlay text,,0,0,0,,{\pos(720,864)}The first word
+Dialogue: 0,0:07:33.87,0:07:38.07,Overlay text,,0,0,0,,out of your mouth was in Tokyo-ben.
+Dialogue: 0,0:07:38.07,0:07:39.94,Overlay text,,0,0,0,,Well.. I dunno. It might be a bluff.
+Dialogue: 0,0:07:39.94,0:07:44.08,Overlay text,,0,0,0,,There are all sorts of things \Nthat are easy to say in a show like this.
+Dialogue: 0,0:07:44.08,0:07:47.25,Overlay text,,0,0,0,,But you shouldn't judge\N someone for something so simple.
+Dialogue: 0,0:07:48.38,0:07:50.58,Overlay text,,0,0,0,,He's annoyed, isn't he?
+Dialogue: 0,0:07:50.58,0:07:52.92,Overlay text,,0,0,0,,Very suspicious.
+Dialogue: 0,0:07:53.22,0:07:56.09,Left Arial,,0,0,0,,{\pos(434.25,657)}All the remaining players\N
+Dialogue: 0,0:07:56.09,0:07:58.56,Left Arial,,0,0,0,,{\pos(434.25,657)}voted for these two.\N
+Dialogue: 0,0:08:00.06,0:08:03.03,Left Arial,,0,0,0,,{\pos(585,837)}Hayashiya Pei...\N
+Dialogue: 0,0:08:03.03,0:08:06.00,Left Arial,,0,0,0,,{\pos(524.25,837)}voted for Watanabe Yōichi.\N
+Dialogue: 0,0:08:06.00,0:08:08.10,Left Arial,,0,0,0,,{\pos(765,1017)}However...\N
+Dialogue: 0,0:08:09.07,0:08:13.34,Normal subtitle,,0,0,0,,The remaining 5 all voted for Jimon.\N
+Dialogue: 0,0:08:13.34,0:08:15.41,Normal subtitle,,0,0,0,,Which means...\N
+Dialogue: 0,0:08:15.41,0:08:20.51,Left Arial,,0,0,0,,{\pos(344.25,597)\c&H00ff00&}With 6 votes against him,\N
+Dialogue: 0,0:08:15.41,0:08:20.51,Left Arial,,0,0,0,,{\pos(344.25,717)\c&H00ff00&}Jimon-san has been eliminated.\N
+Dialogue: 0,0:08:22.05,0:08:24.02,Left Arial,,0,0,0,,{\pos(315,597)}No way!\N
+Dialogue: 0,0:08:22.05,0:08:24.02,Left Arial,,0,0,0,,{\pos(315,717)}You're not going to air this, are you?\N
+Dialogue: 0,0:08:24.02,0:08:26.02,Left Arial,,0,0,0,,{\pos(344.25,717)}What the hell is going on here?\N
+Dialogue: 0,0:08:26.02,0:08:30.52,Left Arial,,0,0,0,,{\pos(254.25,777)}Day 1's elimination is Terakado Jimon.\N
+Dialogue: 0,0:08:31.42,0:08:36.29,Overlay text,,0,0,0,,{\pos(720,1045)\c&H00FFFF&\b1}Note: The other players can't hear this{\b0}
+Dialogue: 0,0:08:31.56,0:08:33.56,Left Arial,,0,0,0,,{\pos(585,777)\c&H00ff00&}Well, shall we find out?\N
+Dialogue: 0,0:08:31.56,0:08:33.56,Left Arial,,0,0,0,,{\pos(585,897)\c&H00ff00&}I don't know either.\N
+Dialogue: 0,0:08:33.56,0:08:36.33,Left Arial,,0,0,0,,{\pos(524.25,777)\c&H00ff00&}\N
+Dialogue: 0,0:08:33.56,0:08:36.33,Left Arial,,0,0,0,,{\pos(524.25,897)\c&H00ff00&}Here's the big reveal.\N
+Dialogue: 0,0:08:36.29,0:08:39.10,Default (box) - Arial,,0,0,0,,{\pos(174,1058)}JImon-san, are you a fake Kansai native?
+Dialogue: 0,0:08:39.10,0:08:42.00,Default (box) - Arial,,0,0,0,,{\pos(278,1058)}Or, are you actually from Kansai?
+Dialogue: 0,0:08:42.97,0:08:45.34,Default (box) - Arial,,0,0,0,,{\pos(500,1058)}I'm from Kansai.
+Dialogue: 0,0:08:44.00,0:08:45.34,Default (box) - Arial,,0,0,0,,{\pos(638,948)}Huh?
+Dialogue: 0,0:08:45.34,0:08:46.84,Default (box) - Arial,,0,0,0,,{\pos(532,1058)}From Hyogo.
+Dialogue: 0,0:08:46.57,0:08:46.84,Default (box) - Arial,,0,0,0,,{\pos(638,948)}Huh?
+Dialogue: 0,0:08:46.84,0:08:48.84,Default (box) - Arial,,0,0,0,,{\pos(342,1058)}I'm from there too, you know.
+Dialogue: 0,0:08:48.84,0:08:49.64,Default (box) - Arial,,0,0,0,,{\pos(586,1058)}Kawanishi.
+Dialogue: 0,0:08:49.81,0:08:51.34,Default (box) - Arial,,0,0,0,,{\pos(586,1058)}Kawanishi?
+Dialogue: 0,0:08:51.34,0:08:54.05,Default (box) - Arial,,0,0,0,,{\pos(178,1058)}And I went to elementary school in Minō.
+Dialogue: 0,0:08:54.05,0:08:56.81,Default (box) - Arial,,0,0,0,,{\pos(458,1058)}You'd go to Osaka?
+Dialogue: 0,0:08:54.78,0:08:56.81,Default (box) - Arial,,0,0,0,,{\pos(538,958)}Yes, to Osaka.
+Dialogue: 0,0:08:56.81,0:09:00.18,Default (box) - Arial,,0,0,0,,{\pos(112,1053)}So, how come your Kansai-ben is so crappy?
+Dialogue: 0,0:09:00.18,0:09:01.52,Default (box) - Arial,,0,0,0,,{\pos(564,1058)}Until when?
+Dialogue: 0,0:09:01.52,0:09:04.02,Default (box) - Arial,,0,0,0,,{\pos(230,1058)}My 5th year of elementary school.
+Dialogue: 0,0:09:04.02,0:09:05.82,Default (box) - Arial,,0,0,0,,{\pos(236,1058)}My whole childhood was in Osaka.
+Dialogue: 0,0:09:05.82,0:09:08.33,Default (box) - Arial,,0,0,0,,{\pos(342,1058)}Then after I became an adult,
+Dialogue: 0,0:09:08.33,0:09:10.80,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}I returned a lot to Osaka for work too.
+Dialogue: 0,0:09:10.80,0:09:12.96,Default (box) - Arial,,0,0,0,,{\pos(200,1058)}The truth is I've spent a long time there.
+Dialogue: 0,0:09:12.96,0:09:15.03,Default (box) - Arial,,0,0,0,,{\pos(204,1058)}But you don't speak in Osaka-ben at all?
+Dialogue: 0,0:09:15.03,0:09:18.00,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}After I debuted with Dachō Club, I stopped needing it
+Dialogue: 0,0:09:18.24,0:09:20.37,Default (box) - Arial,,0,0,0,,{\pos(366,1058)}Ryūhei-san is from Kansai, right?
+Dialogue: 0,0:09:18.24,0:09:22.17,Default (box; smaller),,0,0,0,,{\pos(74,1040)}Dachō Club\NUeshima Ryūhei
+Dialogue: 0,0:09:19.37,0:09:20.37,Default (box) - Arial,,0,0,0,,{\pos(568,949)}Yes, totally.
+Dialogue: 0,0:09:20.37,0:09:22.17,Default (box) - Arial,,0,0,0,,{\pos(352,1058)}He also sounds fake when he uses it.
+Dialogue: 0,0:09:22.34,0:09:24.64,Left Arial,,0,0,0,,{\pos(254.25,897)\c&H00ff00&}Yeah.\N
+Dialogue: 0,0:09:22.34,0:09:24.64,Left Arial,,0,0,0,,{\pos(524.25,897)\c&H00ffff&}I knew about Ryū-chan but...\N
+Dialogue: 0,0:09:25.81,0:09:27.98,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1061)}I didn't know about Jimon.
+Dialogue: 0,0:09:27.98,0:09:30.48,Overlay text,,0,0,0,,Can you say 'what the hell!' in Kansai-ben for us?
+Dialogue: 0,0:09:29.85,0:09:31.85,Normal subtitle (Line 2),,0,0,0,,{\pos(720,957)}What the hell!\N
+Dialogue: 0,0:09:31.72,0:09:33.15,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}That's really awful.
+Dialogue: 0,0:09:33.72,0:09:37.09,Left Arial,,0,0,0,,{\pos(344.25,777)}And so, the remaining members are\N
+Dialogue: 0,0:09:33.72,0:09:37.09,Left Arial,,0,0,0,,{\pos(344.25,897)}are these 7.\N
+Dialogue: 0,0:09:38.06,0:09:40.06,Left Arial,,0,0,0,,{\pos(405,777)}And in Kansai Werewolf,\N
+Dialogue: 0,0:09:40.06,0:09:46.53,Default (box) - Arial,,0,0,0,,{\pos(432,749)}A team wins by eliminating all of the opposing team's players.
+Dialogue: 0,0:09:40.06,0:09:43.36,Left Arial,,0,0,0,,{\pos(254.25,537)}Just like in\Nthe original,\N
+Dialogue: 0,0:09:46.97,0:09:49.03,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}OK everyone, it's day 2.
+Dialogue: 0,0:09:49.27,0:09:51.94,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}If this were the normal game, after elimination
+Dialogue: 0,0:09:51.94,0:09:55.74,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}a citizen would be eaten by a werewolf but
+Dialogue: 0,0:09:55.97,0:09:59.78,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}an upstanding Kansai citizen would never eat or get eaten by someone, so
+Dialogue: 0,0:10:00.58,0:10:02.61,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}for this game we have no such rule.
+Dialogue: 0,0:10:02.91,0:10:06.78,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}So, let's start the elimination meeting.
+Dialogue: 0,0:10:07.69,0:10:10.86,Overlay text,,0,0,0,,{\pos(729,625)}Day 2 begins
+Dialogue: 0,0:10:10.86,0:10:12.29,Overlay text,,0,0,0,,Can I say something?
+Dialogue: 0,0:10:12.29,0:10:16.56,Overlay text,,0,0,0,,Inamura-san hasn't said anything since we began
+Dialogue: 0,0:10:16.56,0:10:18.63,Overlay text,,0,0,0,,It wasn't on purpose.
+Dialogue: 0,0:10:18.63,0:10:24.07,Overlay text,,0,0,0,,I originally came here in the 5th year of elementary school
+Dialogue: 0,0:10:24.07,0:10:26.40,Overlay text,,0,0,0,,That's young.
+Dialogue: 0,0:10:26.64,0:10:30.58,Overlay text,,0,0,0,,So it hardly comes out at all.
+Dialogue: 0,0:10:30.74,0:10:33.18,Overlay text,,0,0,0,,What kind of situations do you use it in?
+Dialogue: 0,0:10:33.31,0:10:35.98,Default (box; 60) - Centred,,0,0,0,,{\pos(504,102)\b0\c&H1DFFED&}TL note: obaa-chan = grandmother
+Dialogue: 0,0:10:33.31,0:10:35.98,Overlay text,,0,0,0,,With my western... obaa
+Dialogue: 0,0:10:38.18,0:10:40.85,Overlay text,,0,0,0,,It's like something from\N "Once upon a time in Japan"
+Dialogue: 0,0:10:40.85,0:10:43.29,Overlay text,,0,0,0,,So how would you speak to your western obaa?
+Dialogue: 0,0:10:43.29,0:10:44.72,Overlay text,,0,0,0,,I need someone to play her...
+Dialogue: 0,0:10:45.12,0:10:47.13,Overlay text,,0,0,0,,Pei-san
+Dialogue: 0,0:10:47.13,0:10:48.79,Overlay text,,0,0,0,,Could you be my obaa?
+Dialogue: 0,0:10:48.79,0:10:50.60,Overlay text,,0,0,0,,H-how would you like me to do it?
+Dialogue: 0,0:10:50.60,0:10:52.60,Overlay text,,0,0,0,,"How would you like me to do it?" is..
+Dialogue: 0,0:10:52.60,0:10:54.67,Overlay text,,0,0,0,,Like you're on the phone with her.
+Dialogue: 0,0:10:54.67,0:10:55.50,Overlay text,,0,0,0,,Obaa, how are you?
+Dialogue: 0,0:10:55.50,0:10:59.54,Overlay text,,0,0,0,,I'm good! How are you?
+Dialogue: 0,0:10:59.54,0:11:01.67,Overlay text,,0,0,0,,Ah... I'm [in KSB] fine!
+Dialogue: 0,0:11:01.67,0:11:03.34,Overlay text,,0,0,0,,"Fine"?
+Dialogue: 0,0:11:03.34,0:11:04.14,Overlay text,,0,0,0,,Suspicious.
+Dialogue: 0,0:11:04.14,0:11:07.31,Overlay text,,0,0,0,,There's something strange about Akira-san too
+Dialogue: 0,0:11:07.31,0:11:08.28,Overlay text,,0,0,0,,[in KSB] Really?
+Dialogue: 0,0:11:08.28,0:11:09.88,Overlay text,,0,0,0,,No, no. I'm good at Kansai-ben.
+Dialogue: 0,0:11:09.88,0:11:12.75,Overlay text,,0,0,0,,You're good but there's something off about it
+Dialogue: 0,0:11:12.75,0:11:16.02,Overlay text,,0,0,0,,Well it could be because he's from Shiga
+Dialogue: 0,0:11:16.45,0:11:23.29,Overlay text,,0,0,0,,Shiga and east of Biwa lake. It's really rural
+Dialogue: 0,0:11:23.29,0:11:27.43,Overlay text,,0,0,0,,But I also don't have that\Nimpression of Ōhashi either...
+Dialogue: 0,0:11:25.40,0:11:27.60,Left Arial,,0,0,0,,{\pos(464.625,857)\c&H00ff00&}1 minute remaining\N
+Dialogue: 0,0:11:27.43,0:11:28.67,Overlay text,,0,0,0,,Are you from Osaka?
+Dialogue: 0,0:11:28.67,0:11:30.50,Overlay text,,0,0,0,,Hyogo.
+Dialogue: 0,0:11:30.50,0:11:32.50,Overlay text,,0,0,0,,Do you normally speak in Kansai-ben?
+Dialogue: 0,0:11:32.50,0:11:36.51,Overlay text,,0,0,0,,When I'm working with Yoshimoto, lots of the staff are from Kansai,
+Dialogue: 0,0:11:36.64,0:11:39.11,Overlay text,,0,0,0,,so even the meetings will be in Kansai-ben.
+Dialogue: 0,0:11:39.11,0:11:40.71,Overlay text,,0,0,0,,That's when a little slips out.
+Dialogue: 0,0:11:40.71,0:11:43.28,Overlay text,,0,0,0,,Even though I trying to suppress it.
+Dialogue: 0,0:11:43.28,0:11:44.98,Overlay text,,0,0,0,,Ah... natural!
+Dialogue: 0,0:11:44.98,0:11:46.78,Overlay text,,0,0,0,,You're very Tokyo.
+Dialogue: 0,0:11:46.78,0:11:48.82,Overlay text,,0,0,0,,Watanabe-san, you're barely Kansai.
+Dialogue: 0,0:11:49.15,0:11:53.22,Overlay text,,0,0,0,,I feel like I'm losing the words...
+Dialogue: 0,0:11:53.26,0:11:57.46,Left Arial,,0,0,0,,{\pos(284.625,897)\c&Hffff00&}Hahaha\N
+Dialogue: 0,0:11:53.26,0:11:57.46,Left Arial,,0,0,0,,{\pos(585,1017)\c&H00ffff&}Well.. it's bad already now...\N
+Dialogue: 0,0:11:58.00,0:12:01.73,Overlay text,,0,0,0,,I've been here in Tokyo since I came here at 13,
+Dialogue: 0,0:12:01.73,0:12:04.64,Overlay text,,0,0,0,,I've been married to a foreigner for 30 years.
+Dialogue: 0,0:12:04.64,0:12:06.94,Overlay text,,0,0,0,,But I still haven't forgotten it!
+Dialogue: 0,0:12:06.94,0:12:08.74,Overlay text,,0,0,0,,Well he's the same as me.
+Dialogue: 0,0:12:08.74,0:12:11.58,Overlay text,,0,0,0,,Even if the accent doesn't \Ncome out, he's from Osaka
+Dialogue: 0,0:12:11.64,0:12:13.48,Overlay text,,0,0,0,,When they talk slowly you can't tell
+Dialogue: 0,0:12:13.48,0:12:15.21,Overlay text,,0,0,0,,You can't
+Dialogue: 0,0:12:15.51,0:12:20.12,Overlay text,,0,0,0,,{\pos(720,622)}Day 2 complete
+Dialogue: 0,0:12:20.32,0:12:22.89,Left Arial,,0,0,0,,{\pos(254.25,717)\c&H00ff00&}It's elmination meeting time.\N
+Dialogue: 0,0:12:20.32,0:12:22.89,Left Arial,,0,0,0,,{\pos(794.25,837)}Who could it be?\N
+Dialogue: 0,0:12:22.89,0:12:26.26,Left Arial,,0,0,0,,{\pos(374.625,717)\c&H00ff00&}Could all players please vote\N
+Dialogue: 0,0:12:22.89,0:12:26.26,Left Arial,,0,0,0,,{\pos(374.625,837)\c&H00ff00&}for who they think...\N
+Dialogue: 0,0:12:26.26,0:12:28.43,Left Arial,,0,0,0,,{\pos(434.25,837)\c&H00ff00&}is the fake Kansai native.\N
+Dialogue: 0,0:12:31.43,0:12:33.83,Overlay text,,0,0,0,,Voting is complete
+Dialogue: 0,0:12:34.07,0:12:38.07,Left Arial,,0,0,0,,{\pos(200.625,837)\c&H00ff00&}Ōhashi-san thinks the fake Kansai native is...\N
+Dialogue: 0,0:12:37.40,0:12:39.84,Default (box) - Arial - Centred,,0,0,0,,{\pos(1108,1002)}Inamura Ami
+Dialogue: 0,0:12:39.07,0:12:41.07,Left Arial,,0,0,0,,{\pos(254.25,897)}Yes.\N
+Dialogue: 0,0:12:39.84,0:12:43.84,Overlay text,,0,0,0,,She may be from the west, but I feel like it's more Kyushu or Okinawa
+Dialogue: 0,0:12:44.01,0:12:48.05,Overlay text,,0,0,0,,Calling her obaa-chan "obaa",
+Dialogue: 0,0:12:48.05,0:12:50.52,Overlay text,,0,0,0,,I've never really heard that in Kansai
+Dialogue: 0,0:12:51.38,0:12:52.88,Overlay text,,0,0,0,,We don't say it
+Dialogue: 0,0:12:53.62,0:12:57.59,Left Arial,,0,0,0,,{\pos(455,837)}Next, Watanabe Ryōichi votes for...\N
+Dialogue: 0,0:12:56.72,0:12:59.46,Default (box) - Arial - Centred,,0,0,0,,{\pos(1108,1002)}Ōhashi Miho
+Dialogue: 0,0:13:00.06,0:13:01.99,Overlay text,,0,0,0,,Definitely.
+Dialogue: 0,0:13:01.99,0:13:08.17,Overlay text,,0,0,0,,Your native language is Tokyo-ben. Using your announcer skills, you speak Kansai-ben.
+Dialogue: 0,0:13:08.17,0:13:12.47,Overlay text,,0,0,0,,Your roots are in Tokyo.
+Dialogue: 0,0:13:12.47,0:13:14.61,Overlay text,,0,0,0,,Can he say all that off-the-cuff?
+Dialogue: 0,0:13:14.61,0:13:15.81,Overlay text,,0,0,0,,I know
+Dialogue: 0,0:13:16.04,0:13:18.38,Left Arial,,0,0,0,,{\pos(644.625,897)} All the remaining\N
+Dialogue: 0,0:13:16.04,0:13:18.38,Left Arial,,0,0,0,,{\pos(644.625,1017)}players\N
+Dialogue: 0,0:13:18.38,0:13:21.25,Left Arial,,0,0,0,,{\pos(675,897)}voted for\N
+Dialogue: 0,0:13:18.38,0:13:21.25,Left Arial,,0,0,0,,{\pos(675,1017)}a single person\N
+Dialogue: 0,0:13:21.25,0:13:23.25,Left Arial,,0,0,0,,{\pos(675,1017)}That is...\N
+Dialogue: 0,0:13:23.25,0:13:27.22,Left Arial,,0,0,0,,{\pos(892,1042)}Watanabe Yōichi
+Dialogue: 0,0:13:27.22,0:13:29.29,Left Arial,,0,0,0,,{\pos(585,1017)}Therefore...
+Dialogue: 0,0:13:29.29,0:13:32.99,Left Arial,,0,0,0,,{\pos(344.25,597)\c&H00ff00&}Watanabe Ryōichi-san
+Dialogue: 0,0:13:29.29,0:13:32.99,Left Arial,,0,0,0,,{\pos(344.25,717)\c&H00ff00&}has been eliminated.\N
+Dialogue: 0,0:13:34.43,0:13:38.26,Overlay text,,0,0,0,,Watanabe-san, are you a fake Kansai native?
+Dialogue: 0,0:13:38.86,0:13:41.63,Overlay text,,0,0,0,,I'm a fake Kansai native.
+Dialogue: 0,0:13:41.63,0:13:43.17,Overlay text,,0,0,0,,By the way, where are you from?
+Dialogue: 0,0:13:43.37,0:13:46.24,Overlay text,,0,0,0,,Shizuoka
+Dialogue: 0,0:13:44.34,0:13:46.34,Left Arial,,0,0,0,,{\pos(1004.625,1017)\c&H00ff00&}Shizuoka?\N
+Dialogue: 0,0:13:46.34,0:13:48.31,Left Arial,,0,0,0,,{\pos(495,357)}With that...\N
+Dialogue: 0,0:13:48.31,0:13:51.31,Left Arial,,0,0,0,,{\pos(344.25,357)}out of the remaining players, \N2 are fake Kansai natives.
+Dialogue: 0,0:13:52.48,0:13:57.55,Overlay text,,0,0,0,,{\pos(720,622)}Day 3 begins
+Dialogue: 0,0:13:54.35,0:13:57.62,Normal subtitle,,0,0,0,,(Kawashima)\NI have a question for everyone.
+Dialogue: 0,0:13:57.72,0:14:03.15,Overlay text,,0,0,0,,What did you think when you first came to Tokyo?
+Dialogue: 0,0:14:03.15,0:14:08.76,Overlay text,,0,0,0,,As you'd expect, the cars and buildings are so cool..
+Dialogue: 0,0:14:09.23,0:14:12.23,Overlay text,,0,0,0,,A bit different from Osaka. More refined.
+Dialogue: 0,0:14:12.23,0:14:14.23,Overlay text,,0,0,0,,Akira-san, how about you?
+Dialogue: 0,0:14:14.23,0:14:20.17,Overlay text,,0,0,0,,The udon soup was really dark I thought
+Dialogue: 0,0:14:20.17,0:14:21.87,Overlay text,,0,0,0,,It's different, right?
+Dialogue: 0,0:14:21.87,0:14:23.41,Overlay text,,0,0,0,,Something good's coming
+Dialogue: 0,0:14:23.54,0:14:25.34,Overlay text,,0,0,0,,It's a bit too cliched
+Dialogue: 0,0:14:25.34,0:14:27.14,Overlay text,,0,0,0,,That's suspicious
+Dialogue: 0,0:14:27.14,0:14:31.02,Overlay text,,0,0,0,,Akane-chan, how long has it been?
+Dialogue: 0,0:14:31.22,0:14:33.22,Overlay text,,0,0,0,,After graduating middle school.
+Dialogue: 0,0:14:33.22,0:14:37.92,Overlay text,,0,0,0,,People from Osaka, even if they don't have to, live hard and fast, don't they?
+Dialogue: 0,0:14:37.56,0:14:40.06,Normal subtitle,,0,0,0,,{\pos(720.625,857)}Haha, I know. Always..\N
+Dialogue: 0,0:14:39.26,0:14:43.59,Overlay text,,0,0,0,,People from Tokyo choose a goal and work towards it
+Dialogue: 0,0:14:43.59,0:14:46.26,Overlay text,,0,0,0,,Now this is Osaka-ben! She has to be from Osaka.
+Dialogue: 0,0:14:46.26,0:14:51.37,Overlay text,,0,0,0,,I came to Tokyo and the first thing I noticed was how many convenience stores there were,
+Dialogue: 0,0:14:51.37,0:14:56.61,Overlay text,,0,0,0,,So I'd think "ah, this is paradise!" in my day-to-day life.
+Dialogue: 0,0:14:56.74,0:14:59.14,Overlay text,,0,0,0,,The intonation is a bit...
+Dialogue: 0,0:14:59.14,0:15:00.88,Overlay text,,0,0,0,,it's totally weird, right?
+Dialogue: 0,0:15:00.88,0:15:03.65,Overlay text,,0,0,0,,You know, Inamura Ami-chan's Kansai-ben...
+Dialogue: 0,0:15:03.65,0:15:04.72,Overlay text,,0,0,0,,It's suspicious!
+Dialogue: 0,0:15:04.72,0:15:06.82,Overlay text,,0,0,0,,It's become Jimon-ized
+Dialogue: 0,0:15:06.82,0:15:07.82,Overlay text,,0,0,0,,It's bad, right?
+Dialogue: 0,0:15:08.12,0:15:13.69,Overlay text,,0,0,0,,{\pos(720,622)}Day 3 complete
+Dialogue: 0,0:15:08.39,0:15:12.66,Normal subtitle,,0,0,0,,At the end of the 3rd day, the person who received the most votes was...
+Dialogue: 0,0:15:14.43,0:15:19.20,Left Arial,,0,0,0,,{\pos(254.25,657)}Caught out by her intonation,\N
+Dialogue: 0,0:15:14.43,0:15:19.20,Left Arial,,0,0,0,,{\pos(254.25,777)}it's Inamura Ami.\N
+Dialogue: 0,0:15:19.20,0:15:21.70,Left Arial,,0,0,0,,{\pos(644.625,1017)}So...\N
+Dialogue: 0,0:15:21.70,0:15:24.70,Left Arial,,0,0,0,,{\pos(344.25,597)\c&H00ff00&}Inamura Ami has\N
+Dialogue: 0,0:15:21.70,0:15:24.70,Left Arial,,0,0,0,,{\pos(344.25,717)\c&H00ff00&}been elimnated.\N
+Dialogue: 0,0:15:26.54,0:15:30.41,Overlay text,,0,0,0,,I'm a fake Kansai native!
+Dialogue: 0,0:15:30.41,0:15:31.84,Overlay text,,0,0,0,,Ami-chan, where are you from?
+Dialogue: 0,0:15:31.84,0:15:33.78,Overlay text,,0,0,0,,Tokyo
+Dialogue: 0,0:15:34.55,0:15:35.31,Overlay text,,0,0,0,,Totally!
+Dialogue: 0,0:15:35.75,0:15:38.05,Normal subtitle,,0,0,0,,{\pos(720,297)}At the end of the 3rd day,\N
+Dialogue: 0,0:15:38.05,0:15:41.35,Normal subtitle,,0,0,0,,{\pos(720,297)}there remains one more fake Kansai native.\N
+Dialogue: 0,0:15:42.42,0:15:50.73,Overlay text,,0,0,0,,{\pos(720,992)}Who is the remaining fake Kansai native?
+Dialogue: 0,0:15:42.59,0:15:46.89,Left Arial,,0,0,0,,{\pos(284.625,297)}If they can discover who it is,\Nthe Kansai citizens will win but...\N
+Dialogue: 0,0:15:46.89,0:15:49.39,Left Arial,,0,0,0,,{\pos(284.625,297)}who on Earth could it be?\N
+Dialogue: 0,0:16:04.88,0:16:09.55,Overlay text,,0,0,0,,{\pos(720,622)}Day 4 begins
+Dialogue: 0,0:16:09.55,0:16:13.62,Overlay text,,0,0,0,,So. you know. I'll be straight..
+Dialogue: 0,0:16:14.22,0:16:17.09,Overlay text,,0,0,0,,I'm honestly thinking Akira-san is a little strange...
+Dialogue: 0,0:16:17.09,0:16:20.02,Overlay text,,0,0,0,,I thought so too at the start
+Dialogue: 0,0:16:18.59,0:16:20.59,Left Arial,,0,0,0,,{\pos(374.625,957)}Yes\N
+Dialogue: 0,0:16:20.02,0:16:23.89,Overlay text,,0,0,0,,But, his intonation on one thing changed my mind
+Dialogue: 0,0:16:23.89,0:16:26.43,Overlay text,,0,0,0,,He pronounced Biwa lake "Biwa lake"
+Dialogue: 0,0:16:23.93,0:16:25.93,Normal subtitle,,0,0,0,,{\pos(720,957)}(changing his intonation)\N
+Dialogue: 0,0:16:26.43,0:16:29.73,Overlay text,,0,0,0,,I'm thinking he's really from Kansai...
+Dialogue: 0,0:16:29.73,0:16:32.00,Overlay text,,0,0,0,,Am I being tricked?
+Dialogue: 0,0:16:31.94,0:16:34.14,Normal subtitle (Line 2),,0,0,0,,{\pos(720,957)}No, no, no\N
+Dialogue: 0,0:16:32.84,0:16:34.54,Overlay text,,0,0,0,,So? That's what I'm thinking
+Dialogue: 0,0:16:34.54,0:16:37.07,Overlay text,,0,0,0,,But Mayo-san..
+Dialogue: 0,0:16:37.07,0:16:41.38,Overlay text,,0,0,0,,in this episode you've seemed like someone from Kansai at times
+Dialogue: 0,0:16:41.38,0:16:43.38,Overlay text,,0,0,0,,but you're an actor, aren't you?
+Dialogue: 0,0:16:43.38,0:16:46.48,Overlay text,,0,0,0,,So if you've had accent training for a role,
+Dialogue: 0,0:16:46.48,0:16:49.92,Overlay text,,0,0,0,,you'll be able to speak it perfectly.
+Dialogue: 0,0:16:47.95,0:16:50.15,Normal subtitle,,0,0,0,,{\pos(720,957)}Wait a second! I..\N
+Dialogue: 0,0:16:49.92,0:16:52.06,Overlay text,,0,0,0,,I'm a Kansai native! In every respect.
+Dialogue: 0,0:16:52.06,0:16:54.33,Overlay text,,0,0,0,,That's been bothering me from the start
+Dialogue: 0,0:16:54.49,0:16:58.06,Overlay text,,0,0,0,,If he's a fake I can't tell at all. Really.
+Dialogue: 0,0:16:58.06,0:17:03.20,Overlay text,,0,0,0,,You've been using standard Japanese with some Kansai-ben sprinkled in,
+Dialogue: 0,0:17:03.20,0:17:07.07,Overlay text,,0,0,0,,like someone who puts on a Kansai-ben accent when saying the word "Kansai".
+Dialogue: 0,0:17:07.07,0:17:09.21,Overlay text,,0,0,0,,(partly in KSB) Really?
+Dialogue: 0,0:17:09.21,0:17:10.88,Overlay text,,0,0,0,,It's not like that at all.
+Dialogue: 0,0:17:10.88,0:17:13.11,Overlay text,,0,0,0,,That "Really?" is a bit strange too.
+Dialogue: 0,0:17:13.11,0:17:14.85,Overlay text,,0,0,0,,We'd say it all in Kansai-ben.
+Dialogue: 0,0:17:14.85,0:17:17.52,Overlay text,,0,0,0,,You thought about the "really?" too much,
+Dialogue: 0,0:17:17.52,0:17:21.19,Overlay text,,0,0,0,,so your next sentence came out completely Kanto-ben, right?
+Dialogue: 0,0:17:21.19,0:17:23.25,Overlay text,,0,0,0,,Not at all.
+Dialogue: 0,0:17:23.25,0:17:26.96,Overlay text,,0,0,0,,He's good but the small details are wrong
+Dialogue: 0,0:17:27.19,0:17:30.06,Overlay text,,0,0,0,,I really really am from Shiga though!
+Dialogue: 0,0:17:30.29,0:17:35.93,Overlay text,,0,0,0,,{\pos(720,622)}Day 4 complete
+Dialogue: 0,0:17:30.43,0:17:32.43,Left Arial,,0,0,0,,{\pos(585,1017)}I don't know...\N
+Dialogue: 0,0:17:30.43,0:17:32.43,Normal subtitle,,0,0,0,,{\pos(464.625,897)}"Shiga"\N
+Dialogue: 0,0:17:32.43,0:17:35.43,Left Arial,,0,0,0,,{\pos(254.25,897)}Do people from Shiga\N
+Dialogue: 0,0:17:32.43,0:17:35.43,Left Arial,,0,0,0,,{\pos(254.25,1017)}pronounce it "Shiga"?\N
+Dialogue: 0,0:17:36.43,0:17:40.44,Left Arial,,0,0,0,,{\pos(524.25,417)}On day 4, Kawasaki\N
+Dialogue: 0,0:17:36.43,0:17:40.44,Left Arial,,0,0,0,,{\pos(524.25,537)}Mayo votes for Hayashiya Pei...\N
+Dialogue: 0,0:17:40.44,0:17:44.28,Left Arial,,0,0,0,,{\pos(495,657)}and Akira 100% for\N
+Dialogue: 0,0:17:40.44,0:17:44.28,Left Arial,,0,0,0,,{\pos(495,777)}Ōsawa Akane.\N
+Dialogue: 0,0:17:44.28,0:17:46.61,Left Arial,,0,0,0,,{\pos(585,777)}Then...\N
+Dialogue: 0,0:17:46.61,0:17:48.91,Left Arial,,0,0,0,,{\pos(524.25,897)\c&H00ff00&}The last 3 all voted\N
+Dialogue: 0,0:17:46.61,0:17:48.91,Left Arial,,0,0,0,,{\pos(524.25,1017)\c&H00ff00&}for the same person.\N
+Dialogue: 0,0:17:49.01,0:17:54.49,Overlay text,,0,0,0,,{\pos(1100,1008)}Akira 100%
+Dialogue: 0,0:17:51.62,0:17:54.62,Left Arial,,0,0,0,,{\pos(464.625,717)\c&H00ff00&}So, on day 4\N
+Dialogue: 0,0:17:51.62,0:17:54.62,Left Arial,,0,0,0,,{\pos(464.625,837)\c&H00ff00&}the person to be eliminated...\N
+Dialogue: 0,0:17:54.62,0:17:57.72,Normal subtitle,,0,0,0,,{\c&H00ff00&}is Akira 100%-san!\N
+Dialogue: 0,0:18:00.93,0:18:07.10,Default (box) - Arial - Centred,,0,0,0,,{\pos(720,1058)}If Akira 100% is a fake Kansai native, the Kansai citizen team will win
+Dialogue: 0,0:18:07.30,0:18:09.50,Normal subtitle,,0,0,0,,Is he?
+Dialogue: 0,0:18:09.60,0:18:10.94,Overlay text,,0,0,0,,I'm a fake Kansai native.
+Dialogue: 0,0:18:11.14,0:18:13.24,Normal subtitle,,0,0,0,,(Ōhashi) We did it!
+Dialogue: 0,0:18:14.44,0:18:17.34,Overlay text,,0,0,0,,That means the Kansai citizens win.
+Dialogue: 0,0:18:17.61,0:18:22.78,Default (box; bigger),,0,0,0,,{\pos(806,997)}Kansai citizen victory
+Dialogue: 0,0:18:22.78,0:18:26.22,Overlay text,,0,0,0,,The fake Kansai natives in this game were...
+Dialogue: 0,0:18:26.22,0:18:28.22,Normal subtitle,,0,0,0,,{\c&H00ff00&}Akira 100%-san\N
+Dialogue: 0,0:18:28.22,0:18:30.49,Normal subtitle (Line 2),,0,0,0,,{\c&H00ff00&}Watanabe Ryōichi-san, and\N
+Dialogue: 0,0:18:30.49,0:18:32.99,Normal subtitle (Line 2),,0,0,0,,{\c&H00ff00&}Inamura Ami-san.\N
+Dialogue: 0,0:18:33.49,0:18:36.03,Overlay text,,0,0,0,,Huh? Jimon-san
+Dialogue: 0,0:18:36.03,0:18:38.63,Overlay text,,0,0,0,,So the first person everyone chose,
+Dialogue: 0,0:18:38.63,0:18:43.00,Overlay text,,0,0,0,,Terakado Jimon, is a fully-fledged Kansai native
+Dialogue: 0,0:18:41.67,0:18:43.00,Overlay text (Line 2),,0,0,0,,Exactly!
+Dialogue: 0,0:18:43.00,0:18:44.90,Overlay text,,0,0,0,,He was the worst of all
+Dialogue: 0,0:18:44.90,0:18:46.57,Overlay text,,0,0,0,,So, to conclude, Jimon-san,
+Dialogue: 0,0:18:46.74,0:18:48.87,Overlay text,,0,0,0,,what did you think of Kansai Werewolf?
+Dialogue: 0,0:18:48.87,0:18:50.81,Overlay text,,0,0,0,,I'm exhausted
+Dialogue: 0,0:18:51.34,0:18:55.01,Left Arial,,0,0,0,,{\pos(724.625,897)}And with that, the first\N
+Dialogue: 0,0:18:51.34,0:18:55.01,Left Arial,,0,0,0,,{\pos(724.625,1017)}game of Kansai Werewolf\N
+Dialogue: 0,0:18:55.01,0:18:58.52,Normal subtitle,,0,0,0,,results in a citizens' victory
+Dialogue: 0,0:18:58.52,0:19:00.45,Normal subtitle,,0,0,0,,{\c&H00ff00&}\N
+Dialogue: 0,0:19:00.45,0:19:03.79,Normal subtitle,,0,0,0,,{\c&H00ff00&}So as we expected, people from Kansai can tell when someone is faking
+Dialogue: 0,0:19:03.79,0:19:06.46,Left Arial,,0,0,0,,{\pos(254.25,897)\c&H00ffff&}Can you?\N
+Dialogue: 0,0:19:03.79,0:19:06.46,Left Arial,,0,0,0,,{\pos(734.625,1017)\c&Hffff00&}But, for me, Akira...\N
+Dialogue: 0,0:19:06.46,0:19:09.46,Left Arial,,0,0,0,,{\pos(495,897)\c&Hffff00&}he fooled me quite a bit\N
+Dialogue: 0,0:19:06.46,0:19:09.46,Left Arial,,0,0,0,,{\pos(254.25,1017.5)\c&H00ff00&}Ah, which part?\N
+Dialogue: 0,0:19:09.46,0:19:11.46,Left Arial,,0,0,0,,{\pos(254.25,777)\c&Hffff00&}Definitely...\N
+Dialogue: 0,0:19:10.39,0:19:12.20,Overlay text,,0,0,0,,the way he said "Biwa lake"
+Dialogue: 0,0:19:11.46,0:19:13.96,Normal subtitle (Line 2),,0,0,0,,{\pos(720,777)\c&H00ff00&}(changing intonation)\NWhen he said "Biwa lake" instead of "Biwa lake"
+Dialogue: 0,0:19:13.70,0:19:19.10,Default (box; smaller),,0,0,0,,{\pos(50,1034)}From Shiga\NMiyagawa Daisuke
+Dialogue: 0,0:19:13.96,0:19:16.30,Left Arial,,0,0,0,,{\pos(350,1017)\c&Hffff00&}Daisuke says it "Biwa", doesn't he?
+Dialogue: 0,0:19:13.96,0:19:16.30,Normal subtitle (Line 2),,0,0,0,,{\pos(849,910)\c&Hffff00&}(with Kansai-ben intonation)\N
+Dialogue: 0,0:19:16.30,0:19:19.14,Left Arial,,0,0,0,,{\pos(315,897)\c&H00ff00&}Yeah, he does\N
+Dialogue: 0,0:19:16.30,0:19:19.14,Left Arial,,0,0,0,,{\pos(364.25,1017)\c&Hffff00&}So I thought it might be a Shiga thing\N
+Dialogue: 0,0:19:19.10,0:19:28.71,Default (box; smaller),,0,0,0,,{\pos(50,1034)}From Hyogo\NTerakado JImon
+Dialogue: 0,0:19:19.14,0:19:21.81,Left Arial,,0,0,0,,{\pos(315,897)\c&H00ff00&}Downtown-san, did you know that\N
+Dialogue: 0,0:19:19.14,0:19:21.81,Left Arial,,0,0,0,,{\pos(315,1017)\c&H00ff00&}Jimon-san is from Kansai?\N
+Dialogue: 0,0:19:21.81,0:19:23.81,Left Arial,,0,0,0,,{\pos(344.25,897)\c&H00ffff&}No I didn't\N
+Dialogue: 0,0:19:21.81,0:19:23.81,Left Arial,,0,0,0,,{\pos(734.625,1017)\c&Hffff00&}I did\N
+Dialogue: 0,0:19:23.81,0:19:26.48,Left Arial,,0,0,0,,{\pos(254.25,597)\c&Hffff00&}Dachō Club has 2 people from Kansai in it\N
+Dialogue: 0,0:19:23.81,0:19:26.48,Left Arial,,0,0,0,,{\pos(765,717)\c&H00ff00&}That's right\N
+Dialogue: 0,0:19:24.41,0:19:28.71,Default (box; smaller),,0,0,0,,{\pos(310,1034)}From Hyogo\NUeshima Ryūhei
+Dialogue: 0,0:19:24.41,0:19:28.71,Default (box; smaller),,0,0,0,,{\pos(570,1034)}From Okinawa\NHigo Katsuhiro
+Dialogue: 0,0:19:26.48,0:19:29.28,Left Arial,,0,0,0,,{\pos(824.625,657)}Jimon-san,\N
+Dialogue: 0,0:19:26.48,0:19:29.28,Left Arial,,0,0,0,,{\pos(824.625,777)}at this point,\N
+Dialogue: 0,0:19:28.71,0:19:31.68,Overlay text,,0,0,0,,can we revoke his right to call himself one?
+Dialogue: 0,0:19:30.48,0:19:32.48,Left Arial,,0,0,0,,{\pos(884.25,777)\c&Hffff00&}Definitely
+Dialogue: 0,0:19:33.55,0:19:36.65,Normal subtitle,,0,0,0,,{\c&H00ffff&}Our next presenters will come out now
+Dialogue: 0,0:19:41.89,0:19:47.67,Presenter,,0,0,0,,{\pos(731,890)}Presenters\NKazuya Shimasa/Yashiki Hirosama\N(New York)
+Dialogue: 0,0:19:42.49,0:19:45.56,Normal subtitle (Line 2),,0,0,0,,{\pos(720,777)\c&H00ffff&}It's New York!\N
+Dialogue: 0,0:19:45.56,0:19:47.57,Left Arial,,0,0,0,,{\pos(254.25,657)}\N
+Dialogue: 0,0:19:45.56,0:19:47.57,Left Arial,,0,0,0,,{\pos(585,777)\c&H00ff00&}Thank you\N
+Dialogue: 0,0:19:47.57,0:19:49.57,Left Arial,,0,0,0,,{\pos(644.625,897)\c&Hffff00&}New York, right?\N
+Dialogue: 0,0:19:49.57,0:19:53.34,Left Arial,,0,0,0,,{\pos(890,777)\c&H00ff00&}So...\N
+Dialogue: 0,0:19:51.34,0:19:55.44,Overlay text,,0,0,0,,From last July, plastic bags have had a fee
+Dialogue: 0,0:19:53.34,0:19:55.34,Left Arial,,0,0,0,,{\pos(555,777)\c&H00ffff&}Ah, yes\N
+Dialogue: 0,0:19:55.34,0:19:57.41,Left Arial,,0,0,0,,{\pos(374.625,777)\c&H00ff00&}If you bring your own,\Nyou can use that but...
+Dialogue: 0,0:19:57.41,0:20:01.35,Normal subtitle,,0,0,0,,{\c&H00ff00&}when you don't, how much do you carry without a bag?
+Dialogue: 0,0:20:01.35,0:20:04.78,Normal subtitle,,0,0,0,,As long as I can carry it in one hand\N
+Dialogue: 0,0:20:04.78,0:20:08.29,Normal subtitle,,0,0,0,,Because I want to take my key out when I get home
+Dialogue: 0,0:20:08.29,0:20:10.96,Left Arial,,0,0,0,,{\pos(344.25,1017)}One hand full is enough
+Dialogue: 0,0:20:10.96,0:20:12.96,Left Arial,,0,0,0,,{\pos(254.25,897)}(Shimasa) I see
+Dialogue: 0,0:20:10.96,0:20:12.96,Left Arial,,0,0,0,,{\pos(654.625,1017)\c&H00ff00&}I know\N
+Dialogue: 0,0:20:12.96,0:20:15.96,Normal subtitle,,0,0,0,,{\c&H00ff00&}Today we bring you a \Ntheory related to that fee
+Dialogue: 0,0:20:15.96,0:20:17.96,Left Arial,,0,0,0,,{\pos(884.25,777)\c&H00ff00&}Here it is\N
+Dialogue: 0,0:20:16.96,0:20:23.33,Overlay text,,0,0,0,,{\pos(697,1050)}The most one can carry home from the convenience store without a bag is 10,000 yen's worth of products
+Dialogue: 0,0:20:23.47,0:20:26.30,Left Arial,,0,0,0,,{\pos(784.625,897)}Oh..\N
+Dialogue: 0,0:20:23.47,0:20:26.30,Left Arial,,0,0,0,,{\pos(484.625,1017)\c&H00ff00&}Yep\N
+Dialogue: 0,0:20:26.30,0:20:29.14,Left Arial,,0,0,0,,{\pos(644.625,897)\c&Hffff00&}Can you hold that much?\N
+Dialogue: 0,0:20:26.30,0:20:29.14,Normal subtitle,,0,0,0,,(Haruna) It's quite a lot. 10,000 yen
+Dialogue: 0,0:20:29.14,0:20:31.14,Normal subtitle,,0,0,0,,{\c&Hffff00&}It really is
+Dialogue: 0,0:20:31.14,0:20:33.21,Normal subtitle,,0,0,0,,{\c&H00ff00&}I've worked at one before so I know.
+Dialogue: 0,0:20:33.21,0:20:35.48,Normal subtitle,,0,0,0,,{\c&H00ff00&}Things like chargers and cosmetics...
+Dialogue: 0,0:20:35.48,0:20:38.55,Normal subtitle,,0,0,0,,{\c&H00ff00&}They sell things which\N are small but expensive.
+Dialogue: 0,0:20:38.55,0:20:41.49,Normal subtitle,,0,0,0,,{\c&Hffff00&}Ah... I see, I see\N
+Dialogue: 0,0:20:38.55,0:20:41.49,Normal subtitle (Line 2),,0,0,0,,{\c&H00ff00&}If you buy things like that then maybe...
+Dialogue: 0,0:20:41.49,0:20:44.29,Normal subtitle (Line 2),,0,0,0,,No plastic bag shopping battle!\N
+Dialogue: 0,0:20:41.49,0:20:44.05,Overlay text,,0,0,0,,{\pos(720,1075)}TBS Announcer\NYamamoto Rina
+Dialogue: 0,0:20:44.29,0:20:47.96,Overlay text (Line 2),,0,0,0,,{\pos(720,897)}No plastic bag shopping battle!\N
+Dialogue: 0,0:20:48.13,0:20:56.43,Default (box; smaller),,0,0,0,,{\pos(466,485)}Matenro: \N Anthony / Ōtoni
+Dialogue: 0,0:20:48.13,0:20:56.43,Default (box; smaller),,0,0,0,,{\pos(172,901)}Alco & Peace\NHiroku Yūki / Sakai Kenta
+Dialogue: 0,0:20:48.13,0:20:56.43,Default (box; smaller),,0,0,0,,{\pos(738,904)}Onigoe Tomahawk\NSakai Ryōta / Kin-chan
+Dialogue: 0,0:20:48.56,0:20:52.56,Normal subtitle,,0,0,0,,{\pos(716,717)}Carrying things today will be people who we think would have an advantage:
+Dialogue: 0,0:20:52.43,0:20:56.43,Default (box) - Arial,,0,0,0,,{\pos(675,1025)}Big-bodied entertainers
+Dialogue: 0,0:20:52.56,0:20:56.57,Left Arial,,0,0,0,,{\pos(344.25,657)}These 3 large entertainer \Nteams will battle it out
+Dialogue: 0,0:20:56.57,0:21:01.11,Normal subtitle,,0,0,0,,Without putting the products they buy at the convenience store into a bag,
+Dialogue: 0,0:21:01.11,0:21:03.21,Left Arial,,0,0,0,,{\pos(254.25,897)}each must\N
+Dialogue: 0,0:21:01.21,0:21:06.91,Overlay text,,0,0,0,,{\pos(720,1000)}Transport the goods 10m in their hands
+Dialogue: 0,0:21:03.74,0:21:06.58,Overlay text,,0,0,0,,{\pos(821,445)\fs133}GOAL
+Dialogue: 0,0:21:06.91,0:21:12.45,Overlay text (Line 2),,0,0,0,,{\pos(720,1000)}The team who spends the most wins
+Dialogue: 0,0:21:12.45,0:21:15.95,Overlay text,,0,0,0,,In a task like this teamwork is important
+Dialogue: 0,0:21:15.95,0:21:17.15,Overlay text,,0,0,0,,We get along well but...
+Dialogue: 0,0:21:17.15,0:21:18.69,Overlay text,,0,0,0,,these guys probably don't.
+Dialogue: 0,0:21:18.69,0:21:19.89,Overlay text,,0,0,0,,{\pos(453,700)}Yes we do
+Dialogue: 0,0:21:19.89,0:21:22.13,Overlay text,,0,0,0,,{\pos(435,700)}We get along great
+Dialogue: 0,0:21:20.32,0:21:22.13,Overlay text,,0,0,0,,{\pos(1156,610)}We're\Nchildhood friends
+Dialogue: 0,0:21:22.13,0:21:24.76,Overlay text,,0,0,0,,We never talk at all backstage
+Dialogue: 0,0:21:24.76,0:21:26.56,Overlay text,,0,0,0,,Are you still trying to?
+Dialogue: 0,0:21:26.56,0:21:30.77,Overlay text,,0,0,0,,No one who wants to do that
+Dialogue: 0,0:21:29.00,0:21:30.77,Overlay text (Line 2),,0,0,0,,Showa-era entertainers, right?
+Dialogue: 0,0:21:31.04,0:21:34.54,Normal subtitle,,0,0,0,,{\pos(720,837)}Our first challengers are:\N
+Dialogue: 0,0:21:31.27,0:21:35.84,Default (box; 60) - Centred,,0,0,0,,{\pos(763,905)}Matenrou
+Dialogue: 0,0:21:31.27,0:21:35.84,Overlay text,,0,0,0,,{\pos(446,1030)}Anthony
+Dialogue: 0,0:21:31.27,0:21:35.84,Overlay text,,0,0,0,,{\pos(954,1030)}Ōtoni
+Dialogue: 0,0:21:36.64,0:21:38.74,Left Arial,,0,0,0,,{\pos(644.625,717)}Let's go!\N
+Dialogue: 0,0:21:39.98,0:21:42.28,Left Arial,,0,0,0,,{\pos(254.25,597)}Ah, what to choose?\N
+Dialogue: 0,0:21:39.98,0:21:42.28,Left Arial,,0,0,0,,{\pos(765,717)}This is hard\N
+Dialogue: 0,0:21:42.18,0:21:44.75,Overlay text,,0,0,0,,I just want to eat a bento. I'm hungry
+Dialogue: 0,0:21:43.98,0:21:45.98,Normal subtitle,,0,0,0,,{\pos(720,927)}(Ōtoni) Bentos are bulky
+Dialogue: 0,0:21:44.75,0:21:45.65,Overlay text,,0,0,0,,Wait
+Dialogue: 0,0:21:47.32,0:21:49.72,Overlay text,,0,0,0,,It's totally fine
+Dialogue: 0,0:21:48.82,0:21:50.82,Left Arial,,0,0,0,,{\pos(585,957)}I guess\N
+Dialogue: 0,0:21:49.72,0:21:50.85,Overlay text,,0,0,0,,But we can only buy one
+Dialogue: 0,0:21:50.99,0:21:55.59,Overlay text,,0,0,0,,{\pos(720,1000)}Rule: Only one of each product may be purchased
+Dialogue: 0,0:21:52.32,0:21:54.33,Left Arial,,0,0,0,,{\pos(284.625,777)}One of each type?
+Dialogue: 0,0:21:53.92,0:21:55.59,Overlay text (Line 2),,0,0,0,,{\pos(720,880)}(Staff) one bento only
+Dialogue: 0,0:21:55.83,0:22:05.07,Overlay text,,0,0,0,,{\pos(720,1012)}Rule: For every product purchased but left behind, there is a 1000 yen fine
+Dialogue: 0,0:21:55.99,0:21:58.50,Normal subtitle (Line 2),,0,0,0,,{\pos(720,777)}Also, regardless of whether it is put in the basket...
+Dialogue: 0,0:21:58.50,0:22:00.43,Normal subtitle,,0,0,0,,{\pos(720,777)}for each item not carried back
+Dialogue: 0,0:22:00.43,0:22:04.77,Normal subtitle (Line 2),,0,0,0,,{\pos(720,777)}a penalty of 1,000 yen will be imposed.
+Dialogue: 0,0:22:04.77,0:22:06.97,Left Arial,,0,0,0,,{\pos(554.625,477)}Therefore...\N
+Dialogue: 0,0:22:05.37,0:22:11.18,Overlay text,,0,0,0,,{\pos(706,580)}Buying while predicting how much they can carry
+Dialogue: 0,0:22:08.11,0:22:10.91,Left Arial,,0,0,0,,{\pos(254.25,777)}... is important here.\N
+Dialogue: 0,0:22:11.18,0:22:13.38,Overlay text,,0,0,0,,This is a battle of money, right?
+Dialogue: 0,0:22:13.38,0:22:16.35,Overlay text,,0,0,0,,Even if we buy loads of small cheap stuff, it's no good
+Dialogue: 0,0:22:16.35,0:22:19.72,Overlay text,,0,0,0,,We should buy everything expensive
+Dialogue: 0,0:22:18.72,0:22:20.72,Overlay text (Line 2),,0,0,0,,Let's do it
+Dialogue: 0,0:22:19.92,0:22:22.29,Overlay text,,0,0,0,,Expensive is expensive, whatever it is
+Dialogue: 0,0:22:22.29,0:22:24.86,Overlay text,,0,0,0,,Woah woah woah
+Dialogue: 0,0:22:24.86,0:22:25.92,Overlay text,,0,0,0,,This is great
+Dialogue: 0,0:22:25.79,0:22:29.76,product,,0,0,0,,{\pos(1230,933)}Electric shaver
+Dialogue: 0,0:22:25.92,0:22:27.93,Overlay text,,0,0,0,,Isn't this expensive?
+Dialogue: 0,0:22:27.93,0:22:29.76,Overlay text,,0,0,0,,{\pos(530,1058)}Put anything over 1,000 yen in
+Dialogue: 0,0:22:30.16,0:22:32.23,Overlay text,,0,0,0,,I found something amazing
+Dialogue: 0,0:22:30.79,0:22:32.80,Left Arial,,0,0,0,,{\pos(254.25,957)}What is it?
+Dialogue: 0,0:22:33.80,0:22:35.40,product,,0,0,0,,{\pos(1230,933)}Y-shirt
+Dialogue: 0,0:22:34.47,0:22:36.47,Left Arial,,0,0,0,,{\pos(374.625,297)}(Anthony) We're getting that for sure
+Dialogue: 0,0:22:35.60,0:22:37.23,Overlay text,,0,0,0,,This will be no problem at all
+Dialogue: 0,0:22:37.47,0:22:39.80,Normal subtitle,,0,0,0,,By the way, even though they're expensive,
+Dialogue: 0,0:22:39.80,0:22:42.51,Overlay text,,0,0,0,,{\pos(585,837)}\N
+Dialogue: 0,0:22:39.84,0:22:44.14,Overlay text,,0,0,0,,Prepaid cards are forbidden.
+Dialogue: 0,0:22:44.14,0:22:47.95,Normal subtitle (Line 2),,0,0,0,,{\pos(720,818)}The same goes for things like reusable bags: \N
+Dialogue: 0,0:22:44.61,0:22:50.75,Overlay text,,0,0,0,,Products that were made to carry things are also forbidden
+Dialogue: 1,0:22:50.98,0:22:53.68,Left Arial,,0,0,0,,{\pos(734.625,897)}Look at these earphones!\N
+Dialogue: 1,0:22:50.98,0:22:53.68,Left Arial,,0,0,0,,{\pos(405,1017)}Wow wow wow\N
+Dialogue: 0,0:22:51.92,0:22:54.69,product,,0,0,0,,{\pos(1230,933)}Earphones
+Dialogue: 0,0:22:53.75,0:22:55.22,Overlay text,,0,0,0,,It's great here
+Dialogue: 0,0:22:55.22,0:22:57.52,Overlay text,,0,0,0,,{\pos(598,1058)}There's a thermometer here too
+Dialogue: 0,0:22:56.89,0:23:03.53,product,,0,0,0,,{\pos(1230,933)}Body thermometer
+Dialogue: 0,0:22:57.32,0:22:59.39,Left Arial,,0,0,0,,{\pos(254.25,717)}A USB cable...\N
+Dialogue: 0,0:22:57.32,0:22:59.39,Left Arial,,0,0,0,,{\pos(374.625,837)}And there's a cable here\N
+Dialogue: 0,0:22:58.39,0:23:03.53,product,,0,0,0,,{\pos(884,933)}\h\hUSB cable\h\h
+Dialogue: 0,0:22:59.39,0:23:01.76,Left Arial,,0,0,0,,{\pos(495,837)}Put all the USB stuff in \N
+Dialogue: 0,0:23:00.12,0:23:03.53,product,,0,0,0,,{\pos(550,933)}\h\hUSB drive\h\h
+Dialogue: 0,0:23:01.76,0:23:04.83,Left Arial,,0,0,0,,{\pos(344.25,717)}Ah, wow a mobile battery pack\N
+Dialogue: 0,0:23:01.76,0:23:04.83,Left Arial,,0,0,0,,{\pos(254.25,837)}(Anthony) Put it all in
+Dialogue: 0,0:23:03.69,0:23:10.70,product,,0,0,0,,{\pos(1230,933)}\h\hMobile battery\h\h
+Dialogue: 0,0:23:04.83,0:23:07.10,Left Arial,,0,0,0,,{\pos(254.25,657)}(Ōtoni)\N
+Dialogue: 0,0:23:04.83,0:23:07.10,Left Arial,,0,0,0,,{\pos(254.25,777)}This tie is expensive too\N
+Dialogue: 0,0:23:05.46,0:23:10.70,product,,0,0,0,,{\pos(884,933)}Necktie
+Dialogue: 0,0:23:06.23,0:23:07.83,Overlay text (Line 3),,0,0,0,,Will this be OK?
+Dialogue: 0,0:23:07.10,0:23:09.10,Left Arial,,0,0,0,,{\pos(464.625,717)}Razors\N
+Dialogue: 0,0:23:07.83,0:23:10.70,Overlay text (Line 3),,0,0,0,,Yes, it's OK. Don't even think about it
+Dialogue: 0,0:23:07.83,0:23:10.70,product,,0,0,0,,{\pos(554,933)}Razor blade pack
+Dialogue: 0,0:23:10.83,0:23:14.04,Overlay text,,0,0,0,,They're putting in loads of things over 1,000 yen in
+Dialogue: 0,0:23:14.17,0:23:17.44,Normal subtitle (Line 2),,0,0,0,,After spending 10 minutes
+Dialogue: 0,0:23:17.44,0:23:20.44,Normal subtitle (Line 2),,0,0,0,,choosing products in the everyday life section...
+Dialogue: 0,0:23:21.18,0:23:24.28,Overlay text,,0,0,0,,{\pos(530,1058)}Oh, let's finish with a fruit sandwich!
+Dialogue: 0,0:23:23.15,0:23:28.25,product,,0,0,0,,{\pos(1230,933)}Fruit sandwich
+Dialogue: 0,0:23:24.28,0:23:25.58,Overlay text,,0,0,0,,{\pos(538,1058)}You just want to eat it!
+Dialogue: 0,0:23:25.58,0:23:27.35,Overlay text,,0,0,0,,Mixed fruit sandwich
+Dialogue: 0,0:23:27.35,0:23:28.25,Overlay text,,0,0,0,,One of these
+Dialogue: 0,0:23:28.25,0:23:30.19,Overlay text,,0,0,0,,Can we finish now?
+Dialogue: 0,0:23:29.25,0:23:30.79,Overlay text (Line 2),,0,0,0,,OK, we can
+Dialogue: 0,0:23:30.19,0:23:32.52,Overlay text,,0,0,0,,This has to be the limit
+Dialogue: 0,0:23:30.79,0:23:32.52,Overlay text (Line 2),,0,0,0,,This is the maximum limit
+Dialogue: 0,0:23:32.52,0:23:33.22,Overlay text,,0,0,0,,Let's go pay
+Dialogue: 0,0:23:33.42,0:23:37.16,Overlay text,,0,0,0,,Shopping complete
+Dialogue: 0,0:23:37.16,0:23:40.93,Overlay text,,0,0,0,,Hold on, now it's spread it all out like this...
+Dialogue: 0,0:23:40.93,0:23:42.93,Overlay text,,0,0,0,,it's looking harder to carry.
+Dialogue: 0,0:23:42.93,0:23:44.50,Overlay text,,0,0,0,,Do you need a plastic bag?
+Dialogue: 0,0:23:44.50,0:23:47.17,Overlay text,,0,0,0,,Honestly, yes
+Dialogue: 0,0:23:47.30,0:23:49.31,Overlay text,,0,0,0,,{\pos(254.25,837)}
+Dialogue: 0,0:23:47.40,0:23:53.34,Overlay text,,0,0,0,,In charge of carrying  for Manterou will be Anthony
+Dialogue: 0,0:23:53.54,0:23:54.98,Overlay text,,0,0,0,,This is unbelievably easy
+Dialogue: 0,0:23:54.98,0:23:57.75,Overlay text,,0,0,0,,Isn't it? We could've bought more
+Dialogue: 0,0:23:57.75,0:23:59.88,Overlay text,,0,0,0,,You're carrying it all in one hand, Anthony
+Dialogue: 0,0:24:00.12,0:24:02.39,Overlay text,,0,0,0,,We miscalculated
+Dialogue: 0,0:24:02.59,0:24:10.49,Overlay text,,0,0,0,,After they misjudge Anthony's capacity, he is left with an empty right hand.
+Dialogue: 0,0:24:12.30,0:24:14.00,Overlay text,,0,0,0,,This is the worst
+Dialogue: 0,0:24:13.10,0:24:15.10,Normal subtitle,,0,0,0,,{\pos(596,952)}(Yamamoto) Here they come
+Dialogue: 0,0:24:14.00,0:24:15.67,Overlay text,,0,0,0,,So much spare capacity
+Dialogue: 0,0:24:15.67,0:24:16.87,Overlay text,,0,0,0,,This is so bad
+Dialogue: 0,0:24:16.87,0:24:19.04,Overlay text,,0,0,0,,I underestimated myself
+Dialogue: 0,0:24:19.04,0:24:21.87,Overlay text,,0,0,0,,This is really the worst
+Dialogue: 0,0:24:20.24,0:24:21.87,Overlay text (Line 2),,0,0,0,,So easy
+Dialogue: 0,0:24:21.10,0:24:23.11,Left Arial,,0,0,0,,{\pos(734.625,837)}We're done\N
+Dialogue: 0,0:24:22.74,0:24:23.97,Overlay text,,0,0,0,,{\pos(410,664)}Just your left hand
+Dialogue: 0,0:24:23.97,0:24:26.38,Overlay text,,0,0,0,,{\pos(1026,520)}He's only using one hand
+Dialogue: 0,0:24:24.11,0:24:26.41,Left Arial,,0,0,0,,{\pos(254.25,1017)}The goal's here!
+Dialogue: 0,0:24:26.58,0:24:28.18,Overlay text,,0,0,0,,{\pos(372,821)}Put it on here to finish
+Dialogue: 0,0:24:28.11,0:24:30.11,Left Arial,,0,0,0,,{\pos(554.625,1017)}We're done!\N
+Dialogue: 0,0:24:30.11,0:24:32.12,Left Arial,,0,0,0,,{\pos(554.625,1017)}Wow that's amazing...
+Dialogue: 0,0:24:32.12,0:24:34.42,Left Arial,,0,0,0,,{\pos(524.25,1017)}To carry all that in just one hand!
+Dialogue: 0,0:24:34.55,0:24:35.59,Overlay text,,0,0,0,,{\pos(500,621)}We miscalculated
+Dialogue: 0,0:24:35.59,0:24:37.62,Overlay text,,0,0,0,,You could've carried twice as much
+Dialogue: 0,0:24:36.45,0:24:38.46,Normal subtitle,,0,0,0,,{\pos(720,949)}(Anthony) I could've
+Dialogue: 0,0:24:37.62,0:24:39.32,Overlay text,,0,0,0,,We seriously screwed up
+Dialogue: 0,0:24:39.32,0:24:45.20,Items,,0,0,0,,{\pos(50,578)\b0\3c&H000000&}Umbrella\NFruit sandwich\NBento\NBlu-ray discs\NLightbulb\NNail clippers\NBrush\NEarplug\NFlashlight
+Dialogue: 0,0:24:39.32,0:24:45.20,Items,,0,0,0,,{\pos(498,578)\b0\3c&H000000&}Supplements\NExtension cord\NBath towel\NRazor blades\NCotton pads\NMobile battery\NThermometer\NUSB cable\NEarphones
+Dialogue: 0,0:24:39.32,0:24:45.20,Items,,0,0,0,,{\pos(960,578)\b0\3c&H000000&}Necktie\NY-shirt\NElectric shaver\NShoes\NBattery\NGift bag\NFoundation\NUSB drive\NLingerie
+Dialogue: 1,0:24:39.46,0:24:45.20,Normal subtitle (Line 2),,0,0,0,,{\pos(468,1066)}Manterou was able\N to carry a total of...\N
+Dialogue: 1,0:24:39.69,0:24:45.20,Overlay text,,0,0,0,,{\pos(1330,1026)\fs55}yen
+Dialogue: 1,0:24:39.69,0:24:45.20,Overlay text,,0,0,0,,{\pos(928,1026)\fs55}items
+Dialogue: 0,0:24:45.46,0:24:49.20,Default (box; 60) - Centred,,0,0,0,,{\pos(763,905)}Onigoe Tomahawk
+Dialogue: 0,0:24:45.46,0:24:47.46,Left Arial,,0,0,0,,{\pos(254.25,837)}Our next challengers are:
+Dialogue: 0,0:24:45.46,0:24:49.20,Overlay text,,0,0,0,,{\pos(446,1030)}Sakai Ryōta
+Dialogue: 0,0:24:45.46,0:24:49.20,Overlay text,,0,0,0,,{\pos(954,1030)}Kin-chan
+Dialogue: 0,0:24:49.47,0:24:52.17,Left Arial,,0,0,0,,{\pos(254.25,597)}Good morning
+Dialogue: 0,0:24:51.97,0:24:54.77,Overlay text,,0,0,0,,Everyday goods?
+Dialogue: 0,0:24:54.77,0:24:56.34,Overlay text,,0,0,0,,Stuff like batteries
+Dialogue: 0,0:24:55.47,0:24:57.47,Left Arial,,0,0,0,,{\pos(824.625,957)}Yes, yes, yes\N
+Dialogue: 0,0:24:56.34,0:24:59.14,Overlay text,,0,0,0,,Something light and kind of expensive
+Dialogue: 0,0:24:59.14,0:25:00.94,Overlay text,,0,0,0,,Look!
+Dialogue: 0,0:25:01.11,0:25:03.15,product,,0,0,0,,{\pos(1230,933)}Body thermometer
+Dialogue: 0,0:25:03.15,0:25:04.88,Overlay text,,0,0,0,,It's almost exactly the same
+Dialogue: 0,0:25:04.88,0:25:08.42,Overlay text,,0,0,0,,They've arrived at that corner, haven't they?
+Dialogue: 0,0:25:06.55,0:25:08.42,Overlay text (Line 2),,0,0,0,,Guess so...
+Dialogue: 0,0:25:08.42,0:25:11.99,Overlay text,,0,0,0,,Now I'm thinking, if it's all \Ntoo small I won't be able to carry it
+Dialogue: 0,0:25:10.09,0:25:12.09,Left Arial,,0,0,0,,{\pos(794.25,857)}Yeah\N
+Dialogue: 0,0:25:11.99,0:25:15.09,Overlay text,,0,0,0,,So what if we put it on something bigger?
+Dialogue: 0,0:25:15.09,0:25:18.46,Overlay text,,0,0,0,,Something like a large slab
+Dialogue: 0,0:25:18.83,0:25:20.20,Overlay text,,0,0,0,,How's this?
+Dialogue: 0,0:25:19.60,0:25:21.60,Left Arial,,0,0,0,,{\pos(254.25,1017)}2000 yen
+Dialogue: 0,0:25:20.13,0:25:23.97,product,,0,0,0,,{\pos(1230,933)}Nappies
+Dialogue: 0,0:25:21.77,0:25:23.97,Overlay text,,0,0,0,,As a platform
+Dialogue: 0,0:25:23.10,0:25:25.10,Left Arial,,0,0,0,,{\pos(945,837)}Yes, sure\N
+Dialogue: 0,0:25:24.10,0:25:28.27,Overlay text,,0,0,0,,We can put loads on this foundation
+Dialogue: 0,0:25:28.47,0:25:30.11,Overlay text,,0,0,0,,I see
+Dialogue: 0,0:25:30.11,0:25:32.44,Overlay text,,0,0,0,,That would've worked
+Dialogue: 0,0:25:32.11,0:25:34.11,Left Arial,,0,0,0,,{\pos(585,957)}And then...\N
+Dialogue: 0,0:25:32.44,0:25:42.69,product,,0,0,0,,{\pos(1230,933)}Loaf of bread
+Dialogue: 0,0:25:34.24,0:25:36.91,Overlay text,,0,0,0,,Another foundation?
+Dialogue: 0,0:25:35.15,0:25:36.91,Overlay text (Line 2),,0,0,0,,Let's do it
+Dialogue: 0,0:25:38.12,0:25:42.72,Normal subtitle,,0,0,0,,{\pos(604,1058)}After adding bread\Nto their foundations...
+Dialogue: 0,0:25:43.09,0:25:45.86,Overlay text,,0,0,0,,{\pos(586,1058)}This foundation's expensive
+Dialogue: 0,0:25:44.12,0:25:53.16,product,,0,0,0,,{\pos(1230,933)}\h\hFoundation\h\h
+Dialogue: 0,0:25:46.46,0:25:49.46,Left Arial,,0,0,0,,{\pos(315,717)}(Sakai) Shall we get the lipstick too?
+Dialogue: 0,0:25:46.46,0:25:49.46,Left Arial,,0,0,0,,{\pos(284.625,837)}(Kin-chan) Put it in
+Dialogue: 0,0:25:47.16,0:25:53.16,product,,0,0,0,,{\pos(884,933)}Lipstick
+Dialogue: 0,0:25:49.46,0:25:53.16,Left Arial,,0,0,0,,{\pos(254.25,717)}The fragrance is good too
+Dialogue: 0,0:25:49.46,0:25:53.16,Left Arial,,0,0,0,,{\pos(585,837)}(Sakai) Put that in too
+Dialogue: 0,0:25:51.13,0:25:53.16,product,,0,0,0,,{\pos(554,933)}\hFragrance spray\h
+Dialogue: 0,0:25:53.16,0:25:55.27,Overlay text,,0,0,0,,Can we get both these steaks?
+Dialogue: 0,0:25:55.47,0:25:57.47,Left Arial,,0,0,0,,{\pos(675,837)}They're different things, yes\N
+Dialogue: 0,0:25:55.47,0:25:57.67,product,,0,0,0,,{\pos(1230,933)}Chicken steak
+Dialogue: 0,0:25:55.47,0:25:57.67,product,,0,0,0,,{\pos(884,933)}Hamburg steak
+Dialogue: 0,0:25:57.67,0:25:58.87,Overlay text,,0,0,0,,Kyu-chan cucumbers!
+Dialogue: 0,0:25:59.04,0:26:03.87,product,,0,0,0,,{\pos(1230,933)}Pickled vegetables
+Dialogue: 0,0:25:59.87,0:26:03.61,Normal subtitle,,0,0,0,,{\pos(566,1008)}They add their last product...\N
+Dialogue: 0,0:26:03.87,0:26:04.98,Overlay text,,0,0,0,,Here you go
+Dialogue: 0,0:26:05.18,0:26:08.48,Overlay text,,0,0,0,,Shopping complete
+Dialogue: 0,0:26:08.48,0:26:11.32,Overlay text,,0,0,0,,Let's start with the foundations
+Dialogue: 0,0:26:11.92,0:26:14.65,Overlay text,,0,0,0,,I'm worried about the bread
+Dialogue: 0,0:26:15.75,0:26:18.09,Normal subtitle,,0,0,0,,{\pos(720,832)}With the foundations constructed...\N
+Dialogue: 0,0:26:16.02,0:26:22.76,Overlay text (Line 2),,0,0,0,,{\pos(720,1013)}They start placing products on them
+Dialogue: 0,0:26:20.42,0:26:24.09,Left Arial,,0,0,0,,{\pos(374.625,837)}Then...
+Dialogue: 0,0:26:24.09,0:26:26.40,Left Arial,,0,0,0,,{\pos(554.625,1017)}OK OK OK…\N
+Dialogue: 0,0:26:28.10,0:26:36.61,Overlay text,,0,0,0,,They attach small items to Kin-chan's curly hair
+Dialogue: 0,0:26:36.77,0:26:38.78,Left Arial,,0,0,0,,{\pos(434.25,1017)}However...\N
+Dialogue: 0,0:26:38.51,0:26:40.64,Overlay text,,0,0,0,,{\pos(1004,920)}No, I can't hold more
+Dialogue: 0,0:26:39.44,0:26:41.95,Overlay text,,0,0,0,,{\pos(354,776)}I can't put this on?
+Dialogue: 0,0:26:40.64,0:26:41.95,Overlay text,,0,0,0,,{\pos(1004,920)}That's what I'm saying
+Dialogue: 0,0:26:41.45,0:26:43.45,Left Arial,,0,0,0,,{\pos(254.25,297)}We'll get penalties for these...
+Dialogue: 0,0:26:42.31,0:26:47.12,product,,0,0,0,,{\pos(1230,933)}\hPenalty x 9\h
+Dialogue: 0,0:26:43.45,0:26:45.78,Left Arial,,0,0,0,,{\pos(254.25,417)}(Kin-chan) It's all the stuff you \Nadded at the end
+Dialogue: 0,0:26:45.78,0:26:47.78,Left Arial,,0,0,0,,{\pos(315,1017)}Ryo-chan, open the door!
+Dialogue: 0,0:26:48.42,0:26:50.39,Overlay text,,0,0,0,,Alright, let's go Kin-chan
+Dialogue: 0,0:26:51.12,0:26:53.12,Left Arial,,0,0,0,,{\pos(914.625,837)}OK OK\N
+Dialogue: 0,0:26:51.12,0:26:53.12,Left Arial,,0,0,0,,{\pos(254.25,957.5)}(Ōtoni) Can he do it?
+Dialogue: 0,0:26:52.86,0:26:54.56,Overlay text,,0,0,0,,\h\h\hIncredible\h\h\h
+Dialogue: 0,0:26:53.12,0:26:55.13,Left Arial,,0,0,0,,{\pos(254.25,837)}He's doing it!
+Dialogue: 0,0:26:53.12,0:26:55.13,Left Arial,,0,0,0,,{\pos(405,957)}(Sakai) Ok, let's go Kin-chan
+Dialogue: 0,0:26:54.56,0:26:55.89,Overlay text,,0,0,0,,Wow
+Dialogue: 0,0:26:55.13,0:26:58.43,Left Arial,,0,0,0,,{\pos(254.25,837)}(Yamamoto) Hang in there!\N
+Dialogue: 0,0:26:55.13,0:26:58.43,Left Arial,,0,0,0,,{\pos(254.25,957)}(Anthony) Here he comes
+Dialogue: 0,0:26:59.56,0:27:01.90,Overlay text,,0,0,0,,Can you see where you're going?
+Dialogue: 0,0:27:00.30,0:27:02.30,Normal subtitle,,0,0,0,,Just about \N
+Dialogue: 0,0:27:02.53,0:27:03.87,Overlay text,,0,0,0,,This way
+Dialogue: 0,0:27:03.17,0:27:03.87,Overlay text (Line 2),,0,0,0,,Where?
+Dialogue: 0,0:27:03.87,0:27:05.30,Overlay text,,0,0,0,,Right, right, right
+Dialogue: 0,0:27:05.30,0:27:07.30,Left Arial,,0,0,0,,{\pos(945,897)}OK!\N
+Dialogue: 0,0:27:05.30,0:27:07.30,Left Arial,,0,0,0,,{\pos(644.625,1017)}Looking good\N
+Dialogue: 0,0:27:11.07,0:27:13.08,Left Arial,,0,0,0,,{\pos(254.25,657)}That was great.
+Dialogue: 0,0:27:11.07,0:27:13.08,Left Arial,,0,0,0,,{\pos(374.625,777)}Seriously\N
+Dialogue: 0,0:27:13.08,0:27:16.38,Left Arial,,0,0,0,,{\pos(254.25,897)}(Yamamoto) Well done!
+Dialogue: 0,0:27:16.38,0:27:22.85,Items - 2,,0,0,0,,{\pos(48,578)\b0\3c&H000000&}Nappies\NBread\NCup yakisoba\NBlu-ray discs\NCheese\NBody wash\NTongue brush\NMedical spray\NMouth gel\NBrush\NSupplements\NKitchen bleach
+Dialogue: 0,0:27:16.38,0:27:22.85,Items - 2,,0,0,0,,{\pos(385,578)\b0\3c&H000000&}Y-shirt\NAir freshener\NDenture cleaner\NLighter\NTowel\NThermometer\NBatteries\NShoes\NSake\NSnacks\NIce cream\NElectric shaver
+Dialogue: 0,0:27:16.38,0:27:22.85,Items - 2,,0,0,0,,{\pos(736,578)\b0\3c&H000000&}Earplugs\NT-shirt\NLingerie\NCotton pads\NMobile battery\NEarphones\NSoluble fiber\NHairbands\NCandy\NHairpins\NShaving foam\NLip cream
+Dialogue: 0,0:27:16.38,0:27:22.85,Items - 2,,0,0,0,,{\pos(1056,578)\b0\3c&H000000&}Mints\NUSB drive\NUSB cable\NSweet chestnuts\NMechanical pencil\NFragrance spray\NFoundation\NSupport brace\NRazor blades\NBath towel\NLipstick\NCigarettes
+Dialogue: 0,0:27:16.75,0:27:21.35,Normal subtitle,,0,0,0,,{\pos(612,914)}Drastically exceeding Manterou's total,\N
+Dialogue: 0,0:27:16.75,0:27:22.85,Overlay text,,0,0,0,,{\pos(404,1030)}they were able to carry...
+Dialogue: 1,0:27:16.75,0:27:22.85,Overlay text,,0,0,0,,{\pos(1330,1026)\fs55}yen
+Dialogue: 1,0:27:16.75,0:27:22.85,Overlay text,,0,0,0,,{\pos(928,1026)\fs55}items
+Dialogue: 0,0:27:22.85,0:27:27.52,Items,,0,0,0,,{\pos(62,549)\fs76}Body lotion\N\NBiscuits\N\NHamburg steak
+Dialogue: 0,0:27:22.85,0:27:27.52,Items,,0,0,0,,{\pos(514,548)\fs76}Cup ramen\N\NChicken steak\N\NEnergy drink
+Dialogue: 0,0:27:22.85,0:27:27.52,Items,,0,0,0,,{\pos(974,548)\fs76}Pickles\N\NCan of beer\N\NChocolate
+Dialogue: 0,0:27:23.09,0:27:27.42,Left Arial,,0,0,0,,{\pos(58,1017)}But, what effect will the penalty of 9,000 yen have on their score?
+Dialogue: 0,0:27:27.89,0:27:32.96,Default (box; 60) - Centred,,0,0,0,,{\pos(763,905)}Alco & Peace
+Dialogue: 0,0:27:27.89,0:27:32.96,Overlay text,,0,0,0,,{\pos(446,1030)}Hirako Yūki
+Dialogue: 0,0:27:27.89,0:27:32.96,Overlay text,,0,0,0,,{\pos(954,1030)}Sakai Kenta
+Dialogue: 0,0:27:28.43,0:27:30.73,Left Arial,,0,0,0,,{\pos(315,837)}The final challengers are:
+Dialogue: 0,0:27:34.67,0:27:36.67,Left Arial,,0,0,0,,{\pos(254.25,717)}Let's go\N
+Dialogue: 0,0:27:37.20,0:27:39.47,Overlay text,,0,0,0,,I'd rather die than lose this
+Dialogue: 0,0:27:38.44,0:27:41.71,Left Arial,,0,0,0,,{\pos(405,917)}Then, Hirako discovers something...
+Dialogue: 0,0:27:41.81,0:27:43.27,Overlay text,,0,0,0,,How about that?
+Dialogue: 0,0:27:44.04,0:27:45.81,Overlay text,,0,0,0,,What if we use it as a base?
+Dialogue: 0,0:27:44.91,0:27:52.95,product,,0,0,0,,{\pos(1230,933)}Box of cakes
+Dialogue: 0,0:27:45.81,0:27:48.85,Overlay text (Line 3),,0,0,0,,{\pos(736,837)}With this as a base and a frame too...
+Dialogue: 0,0:27:48.85,0:27:52.95,Overlay text,,0,0,0,,{\pos(724,837)}We can make a big square thing like Jenga
+Dialogue: 0,0:27:53.12,0:27:56.19,Left Arial,,0,0,0,,{\pos(254.25,837)}Similar to Onigoe, they choose the...\N
+Dialogue: 0,0:27:53.68,0:27:57.39,Overlay text,,0,0,0,,{\pos(536,989)}Pedestal strategy
+Dialogue: 0,0:27:57.62,0:27:59.62,Left Arial,,0,0,0,,{\pos(254.25,1017)}And then...\N
+Dialogue: 0,0:27:59.42,0:28:08.77,product,,0,0,0,,{\pos(1230,933)}Cane
+Dialogue: 0,0:27:59.62,0:28:01.63,Left Arial,,0,0,0,,{\pos(254.25,537)}How about something like this?
+Dialogue: 0,0:28:01.36,0:28:06.60,Overlay text,,0,0,0,,{\pos(520,1050)}With this and \Nan umbrella we can build a frame
+Dialogue: 0,0:28:03.06,0:28:05.06,Left Arial,,0,0,0,,{\pos(254.25,857)}Sounds good\N
+Dialogue: 0,0:28:05.16,0:28:06.60,Left Arial,,0,0,0,,{\pos(196,701)}That'll work
+Dialogue: 0,0:28:06.60,0:28:08.77,Overlay text,,0,0,0,,It'll be sturdy
+Dialogue: 0,0:28:07.06,0:28:09.07,Left Arial,,0,0,0,,{\pos(704.25,897)}It will\N
+Dialogue: 0,0:28:07.06,0:28:09.07,Left Arial,,0,0,0,,{\pos(254.25,1017)}Right?\N
+Dialogue: 0,0:28:09.07,0:28:11.57,Left Arial,,0,0,0,,{\pos(524.25,837)}Combining the cane and umbrella
+Dialogue: 0,0:28:11.10,0:28:15.34,Overlay text,,0,0,0,,{\pos(962,1002)}They invent an improved base
+Dialogue: 0,0:28:15.34,0:28:17.87,Overlay text,,0,0,0,,{\pos(848,669)}Clever
+Dialogue: 0,0:28:15.94,0:28:17.87,Overlay text,,0,0,0,,{\pos(1186,778)}Clever
+Dialogue: 0,0:28:17.87,0:28:19.18,Overlay text,,0,0,0,,{\pos(860,669)}So clever
+Dialogue: 0,0:28:19.18,0:28:22.15,Overlay text,,0,0,0,,Let's start with the biggest first
+Dialogue: 0,0:28:20.58,0:28:22.15,Overlay text (Line 2),,0,0,0,,Jenga-style
+Dialogue: 0,0:28:22.41,0:28:24.41,Left Arial,,0,0,0,,{\pos(254.25,1017)}Like this? Is that OK?
+Dialogue: 0,0:28:24.41,0:28:26.42,Left Arial,,0,0,0,,{\pos(765,897)}Yeah\N
+Dialogue: 0,0:28:24.41,0:28:26.42,Left Arial,,0,0,0,,{\pos(254.25,1017)}OK\N
+Dialogue: 0,0:28:26.65,0:28:30.05,Overlay text (Line 2),,0,0,0,,{\pos(482,669)}Wow, this will totally work
+Dialogue: 0,0:28:26.65,0:28:30.05,Overlay text (Line 2),,0,0,0,,{\pos(1106,848)}I think it will
+Dialogue: 0,0:28:30.29,0:28:32.96,Overlay text,,0,0,0,,Ah, this is a good shape
+Dialogue: 0,0:28:31.22,0:28:32.96,Overlay text (Line 2),,0,0,0,,Interesting
+Dialogue: 0,0:28:31.69,0:28:41.30,product,,0,0,0,,{\pos(1230,933)}\h\hIce cream\h\h
+Dialogue: 0,0:28:33.42,0:28:35.43,Left Arial,,0,0,0,,{\pos(585,1017)}Nice
+Dialogue: 0,0:28:35.79,0:28:38.33,Overlay text,,0,0,0,,We can play with this
+Dialogue: 0,0:28:37.99,0:28:39.99,Normal subtitle,,0,0,0,,{\pos(1326,341)}What?
+Dialogue: 0,0:28:38.33,0:28:41.30,Overlay text,,0,0,0,,Interesting
+Dialogue: 0,0:28:38.86,0:28:41.30,Overlay text (Line 2),,0,0,0,,Yep, we can play with it
+Dialogue: 0,0:28:41.43,0:28:43.77,Left Arial,,0,0,0,,{\pos(344.25,1017)}Then, after that,
+Dialogue: 0,0:28:41.80,0:28:44.94,product,,0,0,0,,{\pos(1230,933)}Yokan\N(jellied bean paste)
+Dialogue: 0,0:28:43.77,0:28:47.14,Left Arial,,0,0,0,,{\pos(254.25,777)}Having chosen mainly
+Dialogue: 0,0:28:43.77,0:28:47.14,Left Arial,,0,0,0,,{\pos(254.25,897)}square products...\N
+Dialogue: 0,0:28:45.27,0:28:49.81,Overlay text,,0,0,0,,{\pos(510,1021)}they finish shopping.
+Dialogue: 0,0:28:45.30,0:28:49.81,product,,0,0,0,,{\pos(1230,933)}Donuts
+Dialogue: 0,0:28:50.11,0:28:52.11,Left Arial,,0,0,0,,{\pos(554.625,1017)}
+Dialogue: 0,0:28:52.11,0:28:54.11,Left Arial,,0,0,0,,{\pos(675,1017)}Yes, just a bit more\N
+Dialogue: 0,0:28:56.11,0:28:57.95,Overlay text (Line 2),,0,0,0,,{\pos(1080,821)}I think he's scared
+Dialogue: 0,0:28:57.61,0:28:59.62,Left Arial,,0,0,0,,{\pos(254.25,1017)}(Ōtoni) Wow, amazing
+Dialogue: 0,0:28:59.62,0:29:01.55,Normal subtitle,,0,0,0,,It's really stable
+Dialogue: 0,0:29:01.55,0:29:03.55,Left Arial,,0,0,0,,{\pos(284.625,897)}(Ōtoni) Really great
+Dialogue: 0,0:29:01.55,0:29:03.55,Left Arial,,0,0,0,,{\pos(945,1017)}It's the best\N
+Dialogue: 0,0:29:03.09,0:29:05.79,Overlay text (Line 2),,0,0,0,,{\pos(1122,549)}It's so stable
+Dialogue: 0,0:29:04.15,0:29:05.79,Overlay text (Line 2),,0,0,0,,{\pos(924,714)}He's not going to drop a thing
+Dialogue: 0,0:29:06.06,0:29:08.06,Normal subtitle,,0,0,0,,No problem at all
+Dialogue: 0,0:29:08.49,0:29:09.59,Overlay text (Line 2),,0,0,0,,{\pos(910,682)}Beautiful
+Dialogue: 0,0:29:09.06,0:29:11.06,Left Arial,,0,0,0,,{\pos(254.25,957)}(Yamamoto) You can put it down like that
+Dialogue: 0,0:29:10.13,0:29:11.73,Overlay text,,0,0,0,,It's like a piece of art
+Dialogue: 0,0:29:12.06,0:29:14.73,Left Arial,,0,0,0,,{\pos(434.25,897)}(Yamamoto) Magnificent!
+Dialogue: 0,0:29:12.06,0:29:14.73,Left Arial,,0,0,0,,{\pos(945,1017)}Wow!\N
+Dialogue: 0,0:29:14.73,0:29:17.13,Left Arial,,0,0,0,,{\pos(734.625,897)}<That is so good
+Dialogue: 0,0:29:14.73,0:29:17.13,Left Arial,,0,0,0,,{\pos(464.625,1017)}(Yamamoto) Well done!
+Dialogue: 0,0:29:17.63,0:29:23.87,Overlay text,,0,0,0,,{\pos(726,925)}The number of products may not be the best, but in terms of art...
+Dialogue: 0,0:29:22.41,0:29:24.41,Left Arial,,0,0,0,,{\pos(284.625,597)}They're stacked beautifully
+Dialogue: 0,0:29:23.87,0:29:27.88,Overlay text,,0,0,0,,We're different to the crude people at Yoshimoto
+Dialogue: 0,0:29:26.81,0:29:27.88,Overlay text,,0,0,0,,{\pos(1128,808)}Stop it with that
+Dialogue: 0,0:29:27.08,0:29:29.05,Left Arial,,0,0,0,,{\pos(254.25,837)}
+Dialogue: 0,0:29:28.48,0:29:30.11,Overlay text,,0,0,0,,I want you to see it
+Dialogue: 0,0:29:30.41,0:29:37.42,Left Arial,,0,0,0,,{\pos(318,714)}With three very different ways of carrying things, what will the final result be?
+Dialogue: 0,0:29:30.41,0:29:37.55,Overlay text,,0,0,0,,{\pos(584,544)}Matenrou
+Dialogue: 0,0:29:30.41,0:29:37.55,Overlay text,,0,0,0,,{\pos(278,1056)}Onigoe\NTomahawk
+Dialogue: 0,0:29:30.41,0:29:37.55,Overlay text,,0,0,0,,{\pos(932,1037)}Alco & Peace
+Dialogue: 0,0:29:37.42,0:29:40.42,Left Arial,,0,0,0,,{\pos(374.625,737)}(Yamomoto) All together, go!
+Dialogue: 0,0:29:37.55,0:30:02.65,Overlay text,,0,0,0,,{\pos(258,904)\fs67}Matenrou
+Dialogue: 0,0:29:37.55,0:30:02.65,Overlay text,,0,0,0,,{\pos(728,904)\fs67}Onigoe Tomahawk
+Dialogue: 0,0:29:37.55,0:30:02.65,Overlay text,,0,0,0,,{\pos(1168,904)\fs67}Alco & Peace
+Dialogue: 0,0:29:42.43,0:29:44.43,Left Arial,,0,0,0,,{\pos(464.625,657)}How much?
+Dialogue: 0,0:29:42.43,0:29:44.43,Left Arial,,0,0,0,,{\pos(704.25,777)}How much?
+Dialogue: 0,0:29:44.43,0:29:47.43,Left Arial,,0,0,0,,{\pos(315,777)}(Yamamoto) Matenrou got 50,774 yen,
+Dialogue: 0,0:29:47.43,0:29:50.77,Left Arial,,0,0,0,,{\pos(284.625,777)}Onigoe got 54,244 yen,
+Dialogue: 0,0:29:50.77,0:29:54.77,Left Arial,,0,0,0,,{\pos(315,777)}and Alco & Peace 55,351 yen.
+Dialogue: 0,0:29:54.77,0:29:57.44,Left Arial,,0,0,0,,{\pos(254.25,657)}(Anthony) Unexpectedly close
+Dialogue: 0,0:29:57.44,0:29:59.44,Left Arial,,0,0,0,,{\pos(524.25,657)}So close!
+Dialogue: 0,0:29:57.44,0:29:59.34,Left Arial,,0,0,0,,{\pos(254.25,777)}Seriously?!
+Dialogue: 0,0:29:59.34,0:30:02.65,Overlay text,,0,0,0,,{\pos(410,794)}If it weren't for the penalty...
+Dialogue: 0,0:30:00.98,0:30:02.65,Overlay text,,0,0,0,,{\pos(1080,778)}It's because of that
+Dialogue: 0,0:30:02.91,0:30:06.45,Overlay text,,0,0,0,,Now we're going to have another round
+Dialogue: 0,0:30:05.05,0:30:07.02,Left Arial,,0,0,0,,{\pos(1004.625,837)}Huh?\N
+Dialogue: 0,0:30:05.05,0:30:07.02,Left Arial,,0,0,0,,{\pos(495,957)}Second round?\N
+Dialogue: 0,0:30:06.45,0:30:11.86,Overlay text,,0,0,0,,We're adding an "open one item" rule now
+Dialogue: 0,0:30:12.06,0:30:14.36,Left Arial,,0,0,0,,{\pos(254.25,777)}For round two...
+Dialogue: 0,0:30:12.06,0:30:20.23,Overlay text,,0,0,0,,{\pos(720,1010)}Added rule: one product can be opened
+Dialogue: 0,0:30:20.40,0:30:26.14,Overlay text (Line 2),,0,0,0,,The type of product they choose to open and hold other products with is key to winning
+Dialogue: 0,0:30:26.14,0:30:28.14,Left Arial,,0,0,0,,{\pos(284.625,297)}First in this round is Mantenrou
+Dialogue: 0,0:30:28.14,0:30:31.61,Left Arial,,0,0,0,,{\pos(254.25,297)}who came last in round 1.
+Dialogue: 0,0:30:32.64,0:30:36.05,Overlay text,,0,0,0,,Using one hand with this open...
+Dialogue: 0,0:30:36.05,0:30:37.18,Overlay text,,0,0,0,,Ah, actually
+Dialogue: 0,0:30:37.18,0:30:38.35,Overlay text,,0,0,0,,This is too easy
+Dialogue: 0,0:30:38.65,0:30:42.55,Overlay text,,0,0,0,,What will they open?
+Dialogue: 0,0:30:42.92,0:30:44.92,Left Arial,,0,0,0,,{\pos(254.25,897)}This\N
+Dialogue: 0,0:30:42.92,0:30:44.92,Left Arial,,0,0,0,,{\pos(675,1017)}It's this\N
+Dialogue: 0,0:30:43.95,0:30:48.39,product,,0,0,0,,{\pos(1230,933)}Opened item:\N\h\hUmbrella\h\h
+Dialogue: 0,0:30:44.92,0:30:46.92,Left Arial,,0,0,0,,{\pos(724.625,1017)}An umbrella\N
+Dialogue: 0,0:30:45.92,0:30:48.39,Overlay text,,0,0,0,,We'll open the umbrella\Nand put things in
+Dialogue: 0,0:30:48.59,0:30:52.10,Left Arial,,0,0,0,,{\pos(254.25,1017)}This is good, right?
+Dialogue: 0,0:30:52.10,0:30:54.10,Left Arial,,0,0,0,,{\pos(734.625,957)}Here it is
+Dialogue: 0,0:30:52.93,0:30:55.60,Overlay text,,0,0,0,,We can put so much in this!
+Dialogue: 0,0:30:55.60,0:30:56.80,Overlay text,,0,0,0,,Seriously
+Dialogue: 0,0:30:56.43,0:30:58.44,Left Arial,,0,0,0,,{\pos(254.25,837)}This will work
+Dialogue: 0,0:30:56.43,0:30:58.44,Left Arial,,0,0,0,,{\pos(914.625,957)}So..
+Dialogue: 0,0:30:58.37,0:31:02.64,Overlay text,,0,0,0,,Things that are as light and expensive as possible
+Dialogue: 0,0:31:02.64,0:31:05.18,Overlay text,,0,0,0,,Umeboshi for 400 yen
+Dialogue: 0,0:31:03.71,0:31:05.18,Overlay text (Line 2),,0,0,0,,Ah this is best
+Dialogue: 0,0:31:03.74,0:31:07.04,product,,0,0,0,,{\pos(1230,933)}Umeboshi
+Dialogue: 0,0:31:05.04,0:31:07.04,Left Arial,,0,0,0,,{\pos(254.25,837)}Umeboshi for 400 yen is best
+Dialogue: 0,0:31:07.14,0:31:08.51,Overlay text,,0,0,0,,The best?
+Dialogue: 0,0:31:09.11,0:31:10.91,Overlay text,,0,0,0,,Is he an idiot or something?
+Dialogue: 0,0:31:11.01,0:31:16.19,Left Arial,,0,0,0,,{\pos(644.625,837)}Having chosen...
+Dialogue: 0,0:31:11.68,0:31:16.25,Overlay text,,0,0,0,,{\pos(806,1008)}Lightweight and high value goods
+Dialogue: 0,0:31:16.55,0:31:19.62,Left Arial,,0,0,0,,{\pos(284.625,1017)}they start putting them in them umbrella
+Dialogue: 0,0:31:19.62,0:31:22.33,Left Arial,,0,0,0,,{\pos(254.25,1017)}Go! Put it in!
+Dialogue: 0,0:31:22.53,0:31:24.93,Overlay text,,0,0,0,,There must be 30kg here
+Dialogue: 0,0:31:24.06,0:31:26.73,Left Arial,,0,0,0,,{\pos(254.25,837)}Alright
+Dialogue: 0,0:31:24.06,0:31:26.73,Left Arial,,0,0,0,,{\pos(524.25,957)}Look at this
+Dialogue: 0,0:31:26.73,0:31:30.73,Left Arial,,0,0,0,,{\pos(344.25,897)}Over here, look
+Dialogue: 0,0:31:26.73,0:31:30.73,Left Arial,,0,0,0,,{\pos(344.25,1017)}where I'm looking
+Dialogue: 0,0:31:35.17,0:31:37.21,Overlay text,,0,0,0,,Can we load it up again?
+Dialogue: 0,0:31:36.37,0:31:37.21,Overlay text (Line 2),,0,0,0,,(Staff) Sure
+Dialogue: 0,0:31:37.24,0:31:39.64,Normal subtitle,,0,0,0,,Dropping things inside the store is allowed
+Dialogue: 0,0:31:39.64,0:31:42.58,Left Arial,,0,0,0,,{\pos(124.625,777)}so after devising a new way of carrying things...
+Dialogue: 0,0:31:42.58,0:31:45.08,Left Arial,,0,0,0,,{\pos(374.625,777)}they repack and try again.
+Dialogue: 0,0:31:45.52,0:31:47.02,Overlay text,,0,0,0,,Can I fit?
+Dialogue: 0,0:31:46.42,0:31:49.75,Left Arial,,0,0,0,,{\pos(434.25,957)}This is the most it can open
+Dialogue: 0,0:31:49.75,0:31:51.76,Left Arial,,0,0,0,,{\pos(315,957)}(Ōtoni) You can do it!
+Dialogue: 0,0:31:49.75,0:31:52.56,Overlay text,,0,0,0,,Ah wow, it's holding it, it's holding it
+Dialogue: 0,0:31:52.76,0:31:56.76,Left Arial,,0,0,0,,{\pos(284.625,1017)}(Yamamoto) You mustn't drop it \Nnow, Anthony-san!
+Dialogue: 0,0:31:56.76,0:31:59.46,Left Arial,,0,0,0,,{\pos(1004.625,1017)}It's so far
+Dialogue: 0,0:31:57.86,0:31:59.40,Overlay text,,0,0,0,,{\pos(1152,645)}My arms!
+Dialogue: 0,0:31:59.40,0:32:00.40,Overlay text,,0,0,0,,{\pos(1250,648)}Impressive
+Dialogue: 0,0:32:00.40,0:32:02.03,Overlay text,,0,0,0,,Keep going!
+Dialogue: 0,0:32:04.37,0:32:06.54,Left Arial,,0,0,0,,{\pos(254.25,777)}Ah, phew!
+Dialogue: 0,0:32:04.37,0:32:06.54,Left Arial,,0,0,0,,{\pos(794.25,897)}OK
+Dialogue: 0,0:32:06.74,0:32:09.44,Overlay text,,0,0,0,,I can't lift my arms at all
+Dialogue: 0,0:32:11.04,0:32:13.54,Left Arial,,0,0,0,,{\pos(884.25,897)}We did it!
+Dialogue: 0,0:32:11.04,0:32:13.54,Left Arial,,0,0,0,,{\pos(254.25,1017.5)}(Yamamoto) Well done!
+Dialogue: 0,0:32:13.54,0:32:16.55,Left Arial,,0,0,0,,{\pos(405,837)}After that, Matenrou's score is
+Dialogue: 0,0:32:13.78,0:32:19.45,Overlay text,,0,0,0,,{\pos(356,1005)}Total:
+Dialogue: 0,0:32:13.78,0:32:19.45,Overlay text,,0,0,0,,{\pos(1142,1005)\fs60}yen
+Dialogue: 0,0:32:13.78,0:32:19.45,Overlay text,,0,0,0,,{\pos(638,1005)\fs60}items
+Dialogue: 0,0:32:19.45,0:32:22.05,Left Arial,,0,0,0,,{\pos(254.25,297)}Added to their score from round 1,
+Dialogue: 0,0:32:22.05,0:32:26.62,Left Arial,,0,0,0,,{\pos(254.25,297)}their total is 132,222 yen and they provisionally move to 1st place.
+Dialogue: 0,0:32:27.06,0:32:30.03,Left Arial,,0,0,0,,{\pos(254.25,1017)}Next, Onigoe Tomahawk's attempt
+Dialogue: 0,0:32:30.76,0:32:34.56,Overlay text,,0,0,0,,Which item did they open?
+Dialogue: 0,0:32:35.37,0:32:37.73,Left Arial,,0,0,0,,{\pos(495,897)}I can't see ahead at all
+Dialogue: 0,0:32:35.37,0:32:37.73,Left Arial,,0,0,0,,{\pos(675,1017)}Go straight forward
+Dialogue: 0,0:32:37.73,0:32:40.07,Left Arial,,0,0,0,,{\pos(254.25,897)}<Wow, here they come
+Dialogue: 0,0:32:37.73,0:32:40.07,Left Arial,,0,0,0,,{\pos(704.25,1017)}Go right and stay level
+Dialogue: 0,0:32:40.07,0:32:42.07,Left Arial,,0,0,0,,{\pos(254.25,1017)}(Yamamoto) He can't see ahead at all
+Dialogue: 0,0:32:42.07,0:32:45.08,Left Arial,,0,0,0,,{\pos(254.25,897)}Go straight ahead
+Dialogue: 0,0:32:42.07,0:32:45.08,Left Arial,,0,0,0,,{\pos(254.25,1017)}Forward, forward...
+Dialogue: 0,0:32:45.08,0:32:47.08,Left Arial,,0,0,0,,{\pos(374.625,1017)}(Yamamoto) Slowly slowly
+Dialogue: 0,0:32:47.08,0:32:50.35,Left Arial,,0,0,0,,{\pos(254.25,897)}Yes, they used a t-shirt
+Dialogue: 0,0:32:47.31,0:32:51.98,product,,0,0,0,,{\pos(1130,933)}Opened item: T-shirt
+Dialogue: 0,0:32:52.15,0:32:56.42,Left Arial,,0,0,0,,{\pos(284.625,1017)}By tying the sleeves and blocking the neck hole with a box of rice crackers
+Dialogue: 0,0:32:56.42,0:32:59.42,Left Arial,,0,0,0,,{\pos(374.625,1017)}Onigoe made a large bag
+Dialogue: 0,0:32:59.56,0:33:01.42,Overlay text,,0,0,0,,We could've put more in
+Dialogue: 0,0:33:02.66,0:33:04.86,Overlay text,,0,0,0,,There's so much space in here
+Dialogue: 0,0:33:05.20,0:33:07.20,Left Arial,,0,0,0,,{\pos(254.25,957)}Straight, straight
+Dialogue: 0,0:33:06.43,0:33:09.00,Overlay text,,0,0,0,,Aaah, I can't
+Dialogue: 0,0:33:07.20,0:33:09.20,Left Arial,,0,0,0,,{\pos(254.25,957)}Forward, no, no, forward
+Dialogue: 0,0:33:09.20,0:33:12.70,Left Arial,,0,0,0,,{\pos(374.625,1017)}You can do it, you can do it
+Dialogue: 0,0:33:12.70,0:33:16.04,Left Arial,,0,0,0,,{\pos(405,897)}A bit more!\N
+Dialogue: 0,0:33:12.70,0:33:16.04,Left Arial,,0,0,0,,{\pos(405,1017)}Forward, forward
+Dialogue: 0,0:33:16.04,0:33:18.04,Left Arial,,0,0,0,,{\pos(334.25,1017)}(Yamamoto) One more meter
+Dialogue: 0,0:33:18.04,0:33:21.04,Left Arial,,0,0,0,,{\pos(434.25,897)}This is OK
+Dialogue: 0,0:33:18.04,0:33:21.04,Left Arial,,0,0,0,,{\pos(884.25,1017)}OK OK OK…\N
+Dialogue: 0,0:33:21.04,0:33:23.05,Left Arial,,0,0,0,,{\pos(974.25,897)}OK\N
+Dialogue: 0,0:33:21.04,0:33:23.05,Left Arial,,0,0,0,,{\pos(464.625,1017)}(Anthony) Yay!
+Dialogue: 0,0:33:23.05,0:33:25.05,Left Arial,,0,0,0,,{\pos(614.25,1017)}We did it
+Dialogue: 0,0:33:27.05,0:33:29.35,Left Arial,,0,0,0,,{\pos(344.25,1017)}(Yamamoto) Wow, amazing
+Dialogue: 0,0:33:31.52,0:33:35.59,Overlay text,,0,0,0,,With this strategy, this has become an unexpectedly physical challenge
+Dialogue: 0,0:33:35.73,0:33:37.73,Left Arial,,0,0,0,,{\pos(704.25,837)}Onigoe's score is...
+Dialogue: 0,0:33:36.13,0:33:40.20,Overlay text,,0,0,0,,{\pos(356,1005)}Total:
+Dialogue: 0,0:33:36.13,0:33:40.20,Overlay text,,0,0,0,,{\pos(1142,1005)\fs60}yen
+Dialogue: 0,0:33:36.13,0:33:40.20,Overlay text,,0,0,0,,{\pos(638,1005)\fs60}items
+Dialogue: 0,0:33:40.40,0:33:44.40,Left Arial,,0,0,0,,{\pos(254.25,297)}Their grand total is 122,414 yen
+Dialogue: 0,0:33:44.40,0:33:47.40,Left Arial,,0,0,0,,{\pos(254.25,297)}so they fail to surpass Matenrou.
+Dialogue: 0,0:33:48.41,0:33:52.08,Left Arial,,0,0,0,,{\pos(454.25,1017)}Last is Alco & Peace
+Dialogue: 0,0:33:52.08,0:33:57.08,Overlay text,,0,0,0,,In round one they took pride in carrying things gracefully...
+Dialogue: 0,0:33:57.28,0:34:00.18,Overlay text,,0,0,0,,So, what kind of item did they open?
+Dialogue: 0,0:34:00.68,0:34:04.02,Left Arial,,0,0,0,,{\pos(405,897)}It's fine.
+Dialogue: 0,0:34:00.68,0:34:04.02,Left Arial,,0,0,0,,{\pos(405,1017)}There's more than enough width.
+Dialogue: 0,0:34:04.02,0:34:06.02,Left Arial,,0,0,0,,{\pos(254.25,897)}<Wow, here he comes
+Dialogue: 0,0:34:04.02,0:34:06.02,Left Arial,,0,0,0,,{\pos(704.25,1017)}< There he is
+Dialogue: 0,0:34:06.56,0:34:07.72,Overlay text,,0,0,0,,Duct tape?
+Dialogue: 0,0:34:07.52,0:34:09.59,Left Arial,,0,0,0,,{\pos(254.25,657)}Ah..
+Dialogue: 0,0:34:07.52,0:34:09.59,Left Arial,,0,0,0,,{\pos(254.25,777)}Wow!
+Dialogue: 0,0:34:09.59,0:34:13.36,Left Arial,,0,0,0,,{\pos(254.25,897)}Yes, they opened
+Dialogue: 0,0:34:09.59,0:34:13.36,Left Arial,,0,0,0,,{\pos(254.25,1017)}duct tape
+Dialogue: 0,0:34:09.99,0:34:12.93,product,,0,0,0,,{\pos(1130,933)}Opened item: duct tape
+Dialogue: 0,0:34:13.36,0:34:16.37,Left Arial,,0,0,0,,{\pos(374.625,1017)}They combined products
+Dialogue: 0,0:34:16.37,0:34:19.70,Left Arial,,0,0,0,,{\pos(374.25,1017)}into easy-to-carry shapes
+Dialogue: 0,0:34:19.70,0:34:22.71,Left Arial,,0,0,0,,{\pos(184.625,1017)}and even wrapped some around his body
+Dialogue: 0,0:34:22.71,0:34:25.11,Left Arial,,0,0,0,,{\pos(334.25,1017)}to reduce the burden on his arms.
+Dialogue: 0,0:34:26.04,0:34:28.34,Left Arial,,0,0,0,,{\pos(254.25,897)}<He's coming out
+Dialogue: 0,0:34:26.04,0:34:28.34,Left Arial,,0,0,0,,{\pos(614.25,1017)}(Yamamoto) Wow
+Dialogue: 0,0:34:28.85,0:34:30.68,Overlay text,,0,0,0,,Ah, we dropped one
+Dialogue: 0,0:34:30.88,0:34:32.88,Left Arial,,0,0,0,,{\pos(254.25,897)}(Kin-chan) We dropped one
+Dialogue: 0,0:34:30.88,0:34:32.88,Left Arial,,0,0,0,,{\pos(254.25,1017)}Leave it, leave it behind
+Dialogue: 0,0:34:31.08,0:34:32.85,product,,0,0,0,,{\pos(1230,933)}Skin lotion
+Dialogue: 0,0:34:33.05,0:34:34.32,Overlay text,,0,0,0,,It's super stable
+Dialogue: 0,0:34:34.55,0:34:37.05,Left Arial,,0,0,0,,{\pos(254.25,897)}(Various) He's got room to spare!
+Dialogue: 0,0:34:34.55,0:34:37.05,Left Arial,,0,0,0,,{\pos(254.25,1017)}(Yamamoto) Amazing
+Dialogue: 0,0:34:38.39,0:34:41.39,Left Arial,,0,0,0,,{\pos(1004.625,897)}Alright!\N
+Dialogue: 0,0:34:38.39,0:34:41.39,Left Arial,,0,0,0,,{\pos(585,1017)}Ahhhh...
+Dialogue: 0,0:34:41.39,0:34:43.39,Left Arial,,0,0,0,,{\pos(254.25,717)}(Yamamoto) Well done!
+Dialogue: 0,0:34:41.39,0:34:43.39,Left Arial,,0,0,0,,{\pos(945,837)}<Great
+Dialogue: 0,0:34:42.23,0:34:45.66,Overlay text,,0,0,0,,{\pos(356,1005)}Total:
+Dialogue: 0,0:34:42.23,0:34:45.66,Overlay text,,0,0,0,,{\pos(1142,1005)\fs60}yen
+Dialogue: 0,0:34:42.23,0:34:45.66,Overlay text,,0,0,0,,{\pos(638,1005)\fs60}items
+Dialogue: 0,0:34:45.66,0:34:48.10,Overlay text,,0,0,0,,I can't believe you used such a dirty tactic
+Dialogue: 0,0:34:48.10,0:34:51.07,Overlay text,,0,0,0,,We were humans carrying things
+Dialogue: 0,0:34:51.23,0:34:56.17,Overlay text,,0,0,0,,You're not a human anymore!
+Dialogue: 0,0:34:52.37,0:34:56.17,Overlay text (Line 2),,0,0,0,,This is a convenience man!
+Dialogue: 0,0:34:56.17,0:35:03.45,Presenter,,0,0,0,,{\pos(634,285)\b1}Alco & Peace
+Dialogue: 0,0:34:56.17,0:35:03.45,Presenter,,0,0,0,,{\pos(622,813)\b1}Onigoe Tomahawk
+Dialogue: 0,0:34:56.17,0:35:03.45,Presenter,,0,0,0,,{\pos(628,538)\b1}Matenrou
+Dialogue: 0,0:34:56.41,0:35:00.34,Left Arial,,0,0,0,,{\pos(330,128)}The final result is as follows:
+Dialogue: 0,0:35:00.34,0:35:03.68,Left Arial,,0,0,0,,{\pos(284.625,1017)}The winners are Alco & Peace!
+Dialogue: 0,0:35:03.68,0:35:07.02,Left Arial,,0,0,0,,{\pos(254.25,1017.5)\c&H00ff00&}Everyone, what did you think?
+Dialogue: 0,0:35:07.02,0:35:10.99,Normal subtitle,,0,0,0,,{\c&Hffff00&}Well, compared to how excited the participants got...
+Dialogue: 0,0:35:11.15,0:35:14.02,Overlay text,,0,0,0,,We in the studio did not get as excited
+Dialogue: 0,0:35:13.02,0:35:15.53,Left Arial,,0,0,0,,{\pos(254.25,837)}I don't know but
+Dialogue: 0,0:35:15.46,0:35:19.16,Overlay text,,0,0,0,,The viewing figures for children will be really good
+Dialogue: 0,0:35:19.03,0:35:21.03,Left Arial,,0,0,0,,{\pos(254.25,657)\c&H00ff00&}Haruna-san, what did you think?\N
+Dialogue: 0,0:35:19.03,0:35:21.03,Left Arial,,0,0,0,,{\pos(734.625,777)}Well, you know,
+Dialogue: 0,0:35:21.23,0:35:25.27,Overlay text,,0,0,0,,Maybe one round was enough
+Dialogue: 0,0:35:24.03,0:35:26.54,Left Arial,,0,0,0,,{\pos(1004.625,657)\c&H00ffff&}Hey!\N
+Dialogue: 0,0:35:26.54,0:35:29.61,Left Arial,,0,0,0,,{\pos(434.25,897)\c&H00ff00&}Shigemori-san, you?\N
+Dialogue: 0,0:35:26.54,0:35:29.61,Left Arial,,0,0,0,,{\pos(254.25,1017.5)}I got a bit excited
+Dialogue: 0,0:35:29.61,0:35:32.88,Left Arial,,0,0,0,,{\pos(554.625,897)\c&H00ff00&}Oh, really?
+Dialogue: 0,0:35:29.61,0:35:32.88,Left Arial,,0,0,0,,{\pos(254.25,1017.5)}At the end when they used the duct tape
+Dialogue: 0,0:35:32.88,0:35:34.88,Left Arial,,0,0,0,,{\pos(315,1017)}it was like "oh, you can do that!"
+Dialogue: 0,0:35:34.88,0:35:37.05,Left Arial,,0,0,0,,{\pos(254.25,897)}It was like a Eureka moment
+Dialogue: 0,0:35:34.88,0:35:37.05,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}That's good
+Dialogue: 0,0:35:37.08,0:35:39.98,Overlay text,,0,0,0,,Well, the rating figures for kids will indeed be good
+Dialogue: 0,0:35:40.22,0:35:42.19,Left Arial,,0,0,0,,{\pos(254.25,897)}32, right?
+Dialogue: 0,0:35:40.22,0:35:42.19,Left Arial,,0,0,0,,{\pos(885,1017)\c&Hffff00&}32?
+Dialogue: 0,0:35:42.19,0:35:44.72,Left Arial,,0,0,0,,{\pos(405,297)}Next...
+Dialogue: 0,0:35:44.12,0:35:49.63,Overlay text,,0,0,0,,{\pos(722,722)}Everyone's Theories
+Dialogue: 0,0:35:44.12,0:35:49.63,Overlay text,,0,0,0,,{\pos(720,994)}Investigating various popular topics and theories sent in by viewers
+Dialogue: 0,0:35:49.89,0:35:51.90,Normal subtitle,,0,0,0,,Tonight's presenter is...
+Dialogue: 0,0:35:52.23,0:35:57.83,Presenter,,0,0,0,,{\pos(720,928)}Presenter\NTamura Kenji
+Dialogue: 0,0:35:52.96,0:35:57.97,Left Arial,,0,0,0,,{\pos(254.25,837)\c&H00ffff&}Yes, it's Tamura Kenji-san!
+Dialogue: 0,0:35:57.97,0:36:00.97,Left Arial,,0,0,0,,{\pos(585,897)\c&Hffff00&}What happened?
+Dialogue: 0,0:35:57.97,0:36:00.97,Left Arial,,0,0,0,,{\pos(254.25,1017.5)\c&H00ffff&}What's the commotion?
+Dialogue: 0,0:36:00.97,0:36:03.24,Left Arial,,0,0,0,,{\pos(344.25,1017)\c&Hffff00&}It seems we're waiting for Tamuken
+Dialogue: 0,0:36:03.24,0:36:05.24,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}Ummm, ah..
+Dialogue: 0,0:36:05.24,0:36:09.65,Overlay text,,0,0,0,,I've forgotten my notebook
+Dialogue: 0,0:36:07.31,0:36:09.31,Left Arial,,0,0,0,,{\pos(374.625,837)\c&H00ffff&}He always has it
+Dialogue: 0,0:36:09.31,0:36:11.31,Left Arial,,0,0,0,,{\pos(254.25,717)}Yeah\N
+Dialogue: 0,0:36:09.31,0:36:12.28,Left Arial,,0,0,0,,{\pos(554.625,837)\c&H00ff00&}So I thought...\N
+Dialogue: 0,0:36:11.21,0:36:14.62,Overlay text,,0,0,0,,let's see if I can manage without it
+Dialogue: 0,0:36:12.92,0:36:14.92,Left Arial,,0,0,0,,{\pos(464.625,837)\c&H00ffff&}What are you saying?
+Dialogue: 0,0:36:14.92,0:36:18.76,Normal subtitle,,0,0,0,,{\c&Hffff00&}Ah, but, it probably would've been better to go get it...
+Dialogue: 0,0:36:18.76,0:36:21.09,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ffff&}They'll give it to you from here
+Dialogue: 0,0:36:21.09,0:36:24.09,Left Arial,,0,0,0,,{\pos(254.25,897)\c&H00ff00&}Please don't be angry at me later
+Dialogue: 0,0:36:21.09,0:36:24.09,Left Arial,,0,0,0,,{\pos(734.625,1017)\c&H00ffff&}They won't be
+Dialogue: 0,0:36:24.09,0:36:27.43,Left Arial,,0,0,0,,{\pos(254.25,897)\c&H00ff00&}Sorry, I'm really sorry
+Dialogue: 0,0:36:24.09,0:36:27.43,Left Arial,,0,0,0,,{\pos(524.25,1017)\c&H00ffff&}What's going on?
+Dialogue: 0,0:36:27.43,0:36:29.03,Normal subtitle,,0,0,0,,{\c&H00ff00&}OK, everyone,
+Dialogue: 0,0:36:29.03,0:36:32.57,Normal subtitle,,0,0,0,,{\c&H00ff00&}(mispronouncing gozonji as goronji) \nDo you know mikoshi dako?
+Dialogue: 0,0:36:32.57,0:36:35.91,Overlay text,,0,0,0,,"Goronji"?
+Dialogue: 0,0:36:36.11,0:36:39.38,Left Arial,,0,0,0,,{\pos(495,1017)}Please, get it together
+Dialogue: 0,0:36:39.71,0:36:42.45,Overlay text,,0,0,0,,Mikoshi dako?\N(Lit: "Portable shrine octopus")
+Dialogue: 0,0:36:40.44,0:36:42.45,Left Arial,,0,0,0,,{\pos(464.625,777)\c&H00ff00&}Do you know what mikoshi dako is?
+Dialogue: 0,0:36:42.45,0:36:44.78,Left Arial,,0,0,0,,{\pos(344.25,1017)}If you carry a portable\Nshrine like this,
+Dialogue: 0,0:36:44.78,0:36:47.45,Left Arial,,0,0,0,,{\pos(405,897)}a bump forms on your shoulder.
+Dialogue: 0,0:36:44.78,0:36:47.45,Left Arial,,0,0,0,,{\pos(675,1017)\c&H00ff00&}That's right
+Dialogue: 0,0:36:47.45,0:36:49.45,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}Is there anyone here who's seen one?
+Dialogue: 0,0:36:49.45,0:36:51.45,Left Arial,,0,0,0,,{\pos(644.625,1017)}Ah, I haven't
+Dialogue: 0,0:36:51.45,0:36:53.46,Left Arial,,0,0,0,,{\pos(284.625,1017)}I've seen people with it on TV
+Dialogue: 0,0:36:53.46,0:36:56.79,Left Arial,,0,0,0,,{\pos(434.25,897)}It's a pretty big bump, right?
+Dialogue: 0,0:36:53.46,0:36:56.79,Left Arial,,0,0,0,,{\pos(434.25,1017)}The shape changes.
+Dialogue: 0,0:36:56.79,0:36:59.80,Normal subtitle,,0,0,0,,{\c&H00ff00&}Recently, there haven't been many festivals, right?
+Dialogue: 0,0:36:59.80,0:37:01.73,Left Arial,,0,0,0,,{\pos(254.25,897)\c&Hffff00&}Ah, yes, because of coronavirus
+Dialogue: 0,0:36:59.80,0:37:01.73,Left Arial,,0,0,0,,{\pos(765,1017)}Ahh..
+Dialogue: 0,0:37:01.73,0:37:05.13,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}So what I bring you today is this:
+Dialogue: 0,0:37:05.00,0:37:09.91,Overlay text,,0,0,0,,{\pos(720,898)}Are people with mikoshi dako losing them because of coronavirus?
+Dialogue: 0,0:37:10.07,0:37:12.08,Left Arial,,0,0,0,,{\pos(464.625,1017)\c&H00ffff&}I don't know about this
+Dialogue: 0,0:37:12.08,0:37:14.08,Left Arial,,0,0,0,,{\pos(855,897)}In the last 2 years?
+Dialogue: 0,0:37:12.08,0:37:14.08,Left Arial,,0,0,0,,{\pos(254.25,1017.5)\c&H00ff00&}Yes\N
+Dialogue: 0,0:37:14.21,0:37:17.75,Overlay text,,0,0,0,,They haven't carried them on their shoulders for two whole years
+Dialogue: 0,0:37:17.91,0:37:20.92,Left Arial,,0,0,0,,{\pos(374.625,897)\c&H00ff00&}You know, they've always done it
+Dialogue: 0,0:37:17.91,0:37:20.92,Left Arial,,0,0,0,,{\pos(374.625,1017)\c&H00ff00&}so when they can't..
+Dialogue: 0,0:37:20.92,0:37:24.39,Normal subtitle,,0,0,0,,{\c&H00ff00&}they go rogue.
+Dialogue: 0,0:37:24.65,0:37:27.42,Overlay text,,0,0,0,,They have secret festivals
+Dialogue: 0,0:37:25.42,0:37:27.42,Left Arial,,0,0,0,,{\pos(495,717)\c&H00ffff&}Right\N
+Dialogue: 0,0:37:25.42,0:37:27.42,Left Arial,,0,0,0,,{\pos(644.625,837)\c&H00ff00&}Don't you think?
+Dialogue: 0,0:37:27.42,0:37:29.43,Left Arial,,0,0,0,,{\pos(644.25,837)\c&Hffff00&}Huh?\N
+Dialogue: 0,0:37:28.73,0:37:32.03,Overlay text,,0,0,0,,and law-evading mikoshi
+Dialogue: 0,0:37:30.43,0:37:32.43,Left Arial,,0,0,0,,{\pos(554.625,717)}Law-evading mikoshi…\N
+Dialogue: 0,0:37:30.43,0:37:32.43,Left Arial,,0,0,0,,{\pos(495,837)\c&H00ff00&}They'll do it...
+Dialogue: 0,0:37:32.43,0:37:34.73,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}In the shadows...
+Dialogue: 0,0:37:32.43,0:37:34.73,Normal subtitle (Line 2),,0,0,0,,{\pos(554.625,897)\c&H00ffff&}Right
+Dialogue: 0,0:37:35.03,0:37:37.63,Overlay text,,0,0,0,,Is all this hopeless stuff written in your notebook?
+Dialogue: 0,0:37:37.43,0:37:40.24,Left Arial,,0,0,0,,{\pos(254.25,777)\c&Hffff00&}You brought it here especially for us?
+Dialogue: 0,0:37:39.30,0:37:41.10,Overlay text,,0,0,0,,All of it
+Dialogue: 0,0:37:41.27,0:37:43.27,Left Arial,,0,0,0,,{\pos(454.25,1017)\c&Hffff00&}It's all written there?
+Dialogue: 0,0:37:43.27,0:37:46.11,Normal subtitle,,0,0,0,,So what Tamuken was saying just now weren't his own words, right?
+Dialogue: 0,0:37:46.11,0:37:48.44,Left Arial,,0,0,0,,{\pos(464.625,897)\c&H00ff00&}Of course not
+Dialogue: 0,0:37:46.11,0:37:48.44,Normal subtitle (Line 2),,0,0,0,,{\pos(765,1017)}Law-evading...
+Dialogue: 0,0:37:48.44,0:37:50.45,Left Arial,,0,0,0,,{\pos(554.625,1017)\c&H00ff00&}Law-evading mikoshi?
+Dialogue: 0,0:37:50.45,0:37:53.12,Normal subtitle,,0,0,0,,{\c&H00ff00&}"Law-evading mikoshi" \Nis written right here
+Dialogue: 0,0:37:53.12,0:37:55.12,Left Arial,,0,0,0,,{\pos(574.625,1017)\c&Hffff00&}Wow it is
+Dialogue: 0,0:37:55.12,0:37:57.12,Left Arial,,0,0,0,,{\pos(254.25,897)\c&Hffff00&}Well then sorry
+Dialogue: 0,0:37:55.12,0:37:57.12,Left Arial,,0,0,0,,{\pos(434.25,1017)}It's stupid, isn't it?
+Dialogue: 0,0:37:57.12,0:37:59.12,Left Arial,,0,0,0,,{\pos(254.25,897)\c&H00ff00&}"Law-evading mikoshi" is here
+Dialogue: 0,0:37:57.12,0:37:59.12,Left Arial,,0,0,0,,{\pos(344.25,1017)}They made you say it
+Dialogue: 0,0:37:59.12,0:38:01.12,Left Arial,,0,0,0,,{\pos(254.25,717)\c&H00ff00&}
+Dialogue: 0,0:37:59.12,0:38:01.12,Left Arial,,0,0,0,,{\pos(254.25,837)\c&H00ff00&}But actually I...
+Dialogue: 0,0:38:00.62,0:38:04.63,Overlay text,,0,0,0,,Approved it and decided to say it
+Dialogue: 0,0:38:02.89,0:38:04.89,Left Arial,,0,0,0,,{\pos(254.25,837)\c&H00ff00&}I'm responsible too
+Dialogue: 0,0:38:04.89,0:38:07.40,Left Arial,,0,0,0,,{\pos(344.25,1017)\c&H00ffff&}Well yeah, you could've left it out
+Dialogue: 0,0:38:07.40,0:38:10.10,Left Arial,,0,0,0,,{\pos(254.25,717)\c&H00ff00&}However,\N
+Dialogue: 0,0:38:07.40,0:38:10.10,Left Arial,,0,0,0,,{\pos(254.25,837)\c&H00ff00&}the law-evading mikoshi...
+Dialogue: 0,0:38:08.67,0:38:11.83,Overlay text,,0,0,0,,I liked it and I wanted to say it
+Dialogue: 0,0:38:10.40,0:38:13.67,Left Arial,,0,0,0,,{\pos(704.25,837)\c&Hffff00&}You liked it
+Dialogue: 0,0:38:26.85,0:38:33.69,Overlay text,,0,0,0,,{\pos(720,898)}Are people with mikoshi dako losing them because of coronavirus?
+Dialogue: 0,0:38:34.02,0:38:39.03,Left Arial,,0,0,0,,{\pos(344.25,1017)}Due to coronavirus, festivals all over the country were cancelled
+Dialogue: 0,0:38:34.39,0:38:38.80,Default (box; 60) - Centred,,0,0,0,,{\pos(694,317)}Kanda festival cancelled
+Dialogue: 0,0:38:34.39,0:38:38.80,Default (box; 60) - Centred,,0,0,0,,{\pos(454,717)}Mikoshi togyo \Ncancelled for \Nfirst time in 74 years
+Dialogue: 0,0:38:34.39,0:38:38.80,Default (box; 60) - Centred,,0,0,0,,{\pos(1020,744)}Yamahoko Junko \Ncancelled for \Nfirst time in 58 years
+Dialogue: 0,0:38:41.00,0:38:43.77,Overlay text (Line 2),,0,0,0,,{\pos(460,661)}For two years the \Nmikoshi haven't appeared
+Dialogue: 0,0:38:44.13,0:38:49.11,Overlay text,,0,0,0,,Have the mikoshi dako of those who held them disappeared too?
+Dialogue: 0,0:38:49.54,0:38:54.04,Left Arial,,0,0,0,,{\pos(344.25,1017)}The first person we visit is
+Dialogue: 0,0:38:54.04,0:38:56.35,Left Arial,,0,0,0,,{\pos(254.25,897)}(Staff) Nice to meet you
+Dialogue: 0,0:38:54.04,0:38:56.35,Left Arial,,0,0,0,,{\pos(585,1017)}Nice to meet you
+Dialogue: 0,0:38:56.58,0:39:02.02,Overlay text,,0,0,0,,{\pos(550,1029)}With 10 years' experience \Ncarrying mikoshi, Sekido-san
+Dialogue: 0,0:39:02.39,0:39:07.86,Overlay text,,0,0,0,,Prior to coronavirus, he did it every month
+Dialogue: 0,0:39:08.29,0:39:11.36,Overlay text,,0,0,0,,Here's his mikoshi dako from 3 years ago...
+Dialogue: 0,0:39:11.36,0:39:19.50,Overlay text,,0,0,0,,{\pos(180,1034)}3 years ago
+Dialogue: 0,0:39:13.06,0:39:16.77,Left Arial,,0,0,0,,{\pos(464.625,777)}WIth one on his shoulder \Nand one on his neck, his is the
+Dialogue: 0,0:39:14.63,0:39:19.50,Overlay text,,0,0,0,,{\pos(1022,994)}2-boil type\N
+Dialogue: 0,0:39:19.87,0:39:23.81,Overlay text,,0,0,0,,What has happened to it?
+Dialogue: 0,0:39:26.98,0:39:28.98,Left Arial,,0,0,0,,{\pos(824.625,957)}(staff) Wow
+Dialogue: 0,0:39:27.18,0:39:27.21,Overlay text,,0,0,0,,Here's my right shoulder
+Dialogue: 0,0:39:29.05,0:39:30.61,Overlay text,,0,0,0,,(Staff) It's huge
+Dialogue: 0,0:39:30.61,0:39:32.52,Overlay text,,0,0,0,,Thank you very much
+Dialogue: 0,0:39:32.82,0:39:37.29,Overlay text,,0,0,0,,Totally still there
+Dialogue: 0,0:39:37.49,0:39:39.06,Overlay text,,0,0,0,,Hasn't it grown?
+Dialogue: 0,0:39:39.36,0:39:42.69,Left Arial,,0,0,0,,{\pos(254.25,897)}(Haruna) It's gotten bigger
+Dialogue: 0,0:39:39.36,0:39:42.69,Left Arial,,0,0,0,,{\pos(644.625,1017)\c&H00ff00&}It's growing
+Dialogue: 0,0:39:42.56,0:39:47.56,Overlay text,,0,0,0,,{\pos(130,906)}3 years\Nago
+Dialogue: 0,0:39:42.56,0:39:47.56,Overlay text,,0,0,0,,{\pos(842,834)}Now
+Dialogue: 0,0:39:42.76,0:39:47.56,Overlay text,,0,0,0,,It isn't smaller at all
+Dialogue: 0,0:39:47.56,0:39:49.40,Overlay text,,0,0,0,,(Staff) Ever thought about removing it?
+Dialogue: 0,0:39:49.40,0:39:51.03,Overlay text,,0,0,0,,\h\hNot once\h\h
+Dialogue: 0,0:39:51.03,0:39:54.14,Overlay text,,0,0,0,,My wife hates it
+Dialogue: 0,0:39:54.14,0:39:58.94,Overlay text,,0,0,0,,(Staff) So she wants you to have it removed?
+Dialogue: 0,0:39:55.74,0:39:58.94,Overlay text (Line 2),,0,0,0,,Yes. As you'd expect, she seems embarrassed
+Dialogue: 0,0:39:59.11,0:40:01.41,Overlay text,,0,0,0,,But I'm proud of it
+Dialogue: 0,0:40:01.41,0:40:04.31,Overlay text,,0,0,0,,It's been like having a medal
+Dialogue: 0,0:40:04.31,0:40:09.69,Overlay text,,0,0,0,,To be honest I'd like the left one to be bigger.\NI'm a bit ashamed of it at the moment
+Dialogue: 0,0:40:09.69,0:40:11.72,Overlay text,,0,0,0,,(Staff) How do you mean "ashamed"?
+Dialogue: 0,0:40:11.72,0:40:15.02,Overlay text,,0,0,0,,It's like "this guy only carries it on one side!"
+Dialogue: 0,0:40:15.02,0:40:17.49,Overlay text,,0,0,0,,"He hasn't got one on the left at all!"
+Dialogue: 0,0:40:17.49,0:40:22.83,Overlay text,,0,0,0,,So I want to grow the left one to show people I can hold it on both sides
+Dialogue: 0,0:40:22.83,0:40:26.94,Overlay text,,0,0,0,,(Staff) Are there any advantages to having it?
+Dialogue: 0,0:40:26.94,0:40:31.74,Overlay text,,0,0,0,,Shoulder bags fit it perfectly
+Dialogue: 0,0:40:31.74,0:40:35.31,Overlay text,,0,0,0,,I think it's convenient
+Dialogue: 0,0:40:35.68,0:40:37.68,Left Arial,,0,0,0,,{\pos(554.625,1017)}Next is...
+Dialogue: 0,0:40:37.68,0:40:39.68,Left Arial,,0,0,0,,{\pos(704.25,897)}(Staff) Hello
+Dialogue: 0,0:40:37.68,0:40:39.68,Left Arial,,0,0,0,,{\pos(374.625,1017)}Hello
+Dialogue: 0,0:40:39.68,0:40:41.68,Left Arial,,0,0,0,,{\pos(374.625,777)}Clearly a southpaw, it's...
+Dialogue: 0,0:40:39.82,0:40:47.96,Default (box; smaller),,0,0,0,,{\pos(668,896)}years'\Nexperience
+Dialogue: 0,0:40:39.82,0:40:47.96,Overlay text,,0,0,0,,{\pos(658,1032)}Yamawaki-san
+Dialogue: 0,0:40:48.12,0:40:51.23,Overlay text,,0,0,0,,(Staff) How many times a year would you do it?
+Dialogue: 0,0:40:51.23,0:40:53.36,Overlay text,,0,0,0,,Well, around 70 times
+Dialogue: 0,0:40:53.36,0:40:54.96,Overlay text,,0,0,0,,(Staff) Would you tour the country?
+Dialogue: 0,0:40:54.96,0:40:58.57,Overlay text,,0,0,0,,Just around Kanto
+Dialogue: 0,0:40:58.57,0:41:03.11,Overlay text,,0,0,0,,{\pos(142,1045)}2 years\N\h\hago\h
+Dialogue: 0,0:40:59.04,0:41:02.34,Left Arial,,0,0,0,,{\pos(405,1017)}It was this big 2 years ago but now...
+Dialogue: 0,0:41:03.37,0:41:05.37,Left Arial,,0,0,0,,{\pos(554.625,1017)}Let's see\N
+Dialogue: 0,0:41:06.71,0:41:09.38,Left Arial,,0,0,0,,{\pos(884.25,897)}(Staff) Ahh
+Dialogue: 0,0:41:06.71,0:41:09.38,Left Arial,,0,0,0,,{\pos(254.25,1017.5)}Here it is
+Dialogue: 0,0:41:09.38,0:41:11.38,Left Arial,,0,0,0,,{\pos(434.25,1017)}(Staff) Incredible
+Dialogue: 0,0:41:11.98,0:41:16.15,Overlay text,,0,0,0,,It's smaller now but it'll get bigger when the season starts
+Dialogue: 0,0:41:16.32,0:41:18.02,Overlay text,,0,0,0,,(Staff) How much has it shrunk?
+Dialogue: 0,0:41:18.02,0:41:20.96,Overlay text,,0,0,0,,About 1.5 to 2cm
+Dialogue: 0,0:41:20.96,0:41:26.73,Overlay text,,0,0,0,,{\pos(160,954)}2 years\N\hago\h
+Dialogue: 0,0:41:20.96,0:41:26.73,Overlay text,,0,0,0,,{\pos(828,960)}Now
+Dialogue: 0,0:41:21.39,0:41:24.39,Left Arial,,0,0,0,,{\pos(344.25,837)}It's definitely gotten smaller but...
+Dialogue: 0,0:41:24.39,0:41:26.70,Left Arial,,0,0,0,,{\pos(344.25,837)}it's not disappeared.
+Dialogue: 0,0:41:27.10,0:41:29.33,Overlay text,,0,0,0,,When I was in hospital due to an accident,
+Dialogue: 0,0:41:29.33,0:41:33.37,Overlay text,,0,0,0,,the doctor asked me if I wanted the \Nhematoma on my shoulder removed.
+Dialogue: 0,0:41:33.37,0:41:36.64,Overlay text,,0,0,0,,"No", I said, "without this I can't carry the mikoshi"
+Dialogue: 0,0:41:37.07,0:41:39.18,Overlay text,,0,0,0,,(Staff) Without that...?
+Dialogue: 0,0:41:37.87,0:41:39.18,Overlay text (Line 2),,0,0,0,,It'd hurt
+Dialogue: 0,0:41:39.18,0:41:40.88,Overlay text,,0,0,0,,This stops it hurting
+Dialogue: 0,0:41:41.48,0:41:45.92,Overlay text,,0,0,0,,This fits perfectly now, doesn't it?
+Dialogue: 0,0:41:46.18,0:41:49.79,Overlay text,,0,0,0,,(Staff) It's like a cushion
+Dialogue: 0,0:41:47.15,0:41:49.79,Overlay text (Line 2),,0,0,0,,Yes, it's like there's a cushion inside it
+Dialogue: 0,0:41:50.19,0:41:52.82,Overlay text,,0,0,0,,(Staff) How has it helped you in your daily life?
+Dialogue: 0,0:41:53.26,0:41:56.36,Overlay text,,0,0,0,,Shoulder bags don't slide off at all
+Dialogue: 0,0:41:55.02,0:41:56.96,Normal subtitle,,0,0,0,,{\pos(1208,336)}That's enough
+Dialogue: 0,0:41:56.36,0:42:00.13,Overlay text,,0,0,0,,They fit perfectly in my shoulder here
+Dialogue: 0,0:41:56.96,0:42:00.13,Normal subtitle,,0,0,0,,{\pos(1108,336)}Everyone'll say that
+Dialogue: 0,0:42:00.43,0:42:05.60,Left Arial,,0,0,0,,{\pos(205,777)}Next, in possesion of his own mikoshi...
+Dialogue: 0,0:42:01.96,0:42:06.04,Default (box; smaller),,0,0,0,,{\pos(668,896)}years'\Nexperience
+Dialogue: 0,0:42:01.96,0:42:06.04,Overlay text,,0,0,0,,{\pos(558,1029)}Ichihara-san
+Dialogue: 0,0:42:06.04,0:42:08.17,Overlay text,,0,0,0,,Could you show it to us?
+Dialogue: 0,0:42:06.87,0:42:08.17,Overlay text (Line 2),,0,0,0,,Sure
+Dialogue: 0,0:42:12.71,0:42:18.11,Overlay text,,0,0,0,,{\pos(166,946)}2 years\Nago
+Dialogue: 0,0:42:12.71,0:42:18.11,Overlay text,,0,0,0,,{\pos(808,944)}Now
+Dialogue: 0,0:42:13.04,0:42:17.38,Left Arial,,0,0,0,,{\pos(268,297)}His hasn't changed size \Nin the last two years either
+Dialogue: 0,0:42:18.11,0:42:20.68,Overlay text,,0,0,0,,I used to work in sales
+Dialogue: 0,0:42:20.85,0:42:24.89,Overlay text,,0,0,0,,It was hard to take time off on weekends with festivals
+Dialogue: 0,0:42:24.89,0:42:26.99,Overlay text,,0,0,0,,So because I wanted to do this,
+Dialogue: 0,0:42:26.99,0:42:29.43,Overlay text,,0,0,0,,I changed jobs and did something else
+Dialogue: 0,0:42:29.43,0:42:32.56,Overlay text,,0,0,0,,(Staff) You moved jobs for mikoshi?
+Dialogue: 0,0:42:31.33,0:42:32.56,Overlay text (Line 2),,0,0,0,,I did
+Dialogue: 0,0:42:32.56,0:42:35.80,Overlay text,,0,0,0,,(Staff) Has having one helped you in any way?
+Dialogue: 0,0:42:35.80,0:42:39.10,Overlay text,,0,0,0,,For example, in my room when there's nothing to lean on
+Dialogue: 0,0:42:39.10,0:42:43.61,Overlay text,,0,0,0,,If I'm sitting down like this, it's a perfect pillow
+Dialogue: 0,0:42:43.61,0:42:44.51,Overlay text,,0,0,0,,(Staff) I see
+Dialogue: 0,0:42:44.51,0:42:45.98,Overlay text,,0,0,0,,Also, when holding a ba--
+Dialogue: 0,0:42:46.44,0:42:50.88,Overlay text,,0,0,0,,This man, who wouldn't look out of place with a cane, has one too
+Dialogue: 0,0:42:50.88,0:42:53.92,Default (box; smaller),,0,0,0,,{\pos(1010,936)}years'\Nexperience
+Dialogue: 0,0:42:50.88,0:42:53.92,Overlay text,,0,0,0,,{\pos(936,1048)}Fujimori-san
+Dialogue: 0,0:42:51.35,0:42:54.02,Left Arial,,0,0,0,,{\pos(254.25,837)}(Staff) It's totally different\NFrom the front...
+Dialogue: 0,0:42:54.02,0:42:56.02,Left Arial,,0,0,0,,{\pos(254.25,1017)}Oh, cool!
+Dialogue: 0,0:42:56.02,0:42:58.02,Left Arial,,0,0,0,,{\pos(585,1017)}Wow!
+Dialogue: 0,0:42:58.02,0:43:01.56,Left Arial,,0,0,0,,{\pos(315,897)}Possibly useful on planes, it's the
+Dialogue: 0,0:43:01.16,0:43:04.89,Overlay text,,0,0,0,,Neck pillow type
+Dialogue: 0,0:43:04.89,0:43:07.30,Default (box; smaller),,0,0,0,,{\pos(1010,936)}years'\Nexperience
+Dialogue: 0,0:43:04.89,0:43:07.30,Overlay text,,0,0,0,,{\pos(974,1053)}Watanabe-san
+Dialogue: 0,0:43:05.09,0:43:07.10,Left Arial,,0,0,0,,{\pos(254.25,1017)}It's like this
+Dialogue: 0,0:43:07.30,0:43:08.76,Overlay text,,0,0,0,,Well, to be honest,
+Dialogue: 0,0:43:08.76,0:43:13.07,Overlay text,,0,0,0,,When people who don't do festivals see it, they definitely wonder what it is
+Dialogue: 0,0:43:13.07,0:43:16.11,Overlay text,,0,0,0,,I think the size probably hasn't changed that much
+Dialogue: 0,0:43:13.07,0:43:18.67,Overlay text,,0,0,0,,{\pos(130,160)\fs50}5 years ago
+Dialogue: 0,0:43:16.11,0:43:18.67,Overlay text,,0,0,0,,It's like a boob
+Dialogue: 0,0:43:18.67,0:43:22.11,Overlay text,,0,0,0,,In terms of cup size, I'd say it's a C-cup
+Dialogue: 0,0:43:20.11,0:43:22.11,Left Arial,,0,0,0,,{\pos(344.25,957)}I'm often told that at least
+Dialogue: 0,0:43:22.11,0:43:26.48,Overlay text,,0,0,0,,That being said, it's not like it has a pointed tip
+Dialogue: 0,0:43:26.48,0:43:30.75,Default (box; smaller),,0,0,0,,{\pos(1010,936)}years'\Nexperience
+Dialogue: 0,0:43:26.48,0:43:30.75,Overlay text,,0,0,0,,{\pos(964,1042)}Ozawa-san
+Dialogue: 0,0:43:26.88,0:43:29.95,Left Arial,,0,0,0,,{\pos(254.25,897)}
+Dialogue: 0,0:43:26.88,0:43:29.95,Left Arial,,0,0,0,,{\pos(224.25,1017)}There are \Nmikoshi-carrying\N women too
+Dialogue: 0,0:43:29.95,0:43:31.95,Left Arial,,0,0,0,,{\pos(254.25,837)}(Staff)
+Dialogue: 0,0:43:29.95,0:43:31.95,Left Arial,,0,0,0,,{\pos(254.25,957)}Where is it?
+Dialogue: 0,0:43:31.42,0:43:33.56,Overlay text,,0,0,0,,This is the boil
+Dialogue: 0,0:43:34.49,0:43:37.29,Overlay text,,0,0,0,,(Staff) It's a bit hollow
+Dialogue: 0,0:43:37.29,0:43:41.00,Overlay text,,0,0,0,,{\pos(220,922)}3 years ago
+Dialogue: 0,0:43:37.29,0:43:41.00,Overlay text,,0,0,0,,{\pos(830,925)}Now
+Dialogue: 0,0:43:37.29,0:43:41.00,Overlay text,,0,0,0,,It hasn't gotten smaller
+Dialogue: 0,0:43:41.00,0:43:45.97,Default (box; smaller),,0,0,0,,{\pos(274,930)}years'\Nexperience
+Dialogue: 0,0:43:41.00,0:43:45.97,Overlay text,,0,0,0,,{\pos(266,1040)}Kondō-san
+Dialogue: 0,0:43:43.40,0:43:46.10,Left Arial,,0,0,0,,{\pos(585,957)}And here is the \N"Little Kiyohara"-type
+Dialogue: 0,0:43:45.97,0:43:47.70,Overlay text,,0,0,0,,And from the back...
+Dialogue: 0,0:43:48.57,0:43:51.27,Overlay text,,0,0,0,,These are my C-cups
+Dialogue: 0,0:43:52.07,0:43:55.08,Left Arial,,0,0,0,,{\pos(434.25,297)}"Middle Kiyohara"-type
+Dialogue: 0,0:43:52.51,0:43:54.91,Default (box; smaller),,0,0,0,,{\pos(320,930)}years'\Nexperience
+Dialogue: 0,0:43:52.51,0:43:54.91,Overlay text,,0,0,0,,{\pos(222,1048)}Miura-san
+Dialogue: 0,0:43:56.38,0:43:57.25,Overlay text,,0,0,0,,(Staff) Wow
+Dialogue: 0,0:43:57.48,0:43:58.95,Overlay text,,0,0,0,,(Staff) You have 2?
+Dialogue: 0,0:43:58.95,0:44:00.78,Overlay text,,0,0,0,,And behind there's...
+Dialogue: 0,0:44:00.78,0:44:02.85,Overlay text,,0,0,0,,(Staff) Behind? How do you mean?
+Dialogue: 0,0:44:04.09,0:44:06.09,Left Arial,,0,0,0,,{\pos(405,1017)}(Staff) Oh, cool
+Dialogue: 0,0:44:06.09,0:44:08.92,Left Arial,,0,0,0,,{\pos(405,1017)}Really cool
+Dialogue: 0,0:44:08.92,0:44:12.40,Default (box; smaller),,0,0,0,,{\pos(274,930)}years'\Nexperience
+Dialogue: 0,0:44:08.92,0:44:12.40,Overlay text,,0,0,0,,{\pos(306,1037)}Kōchi-san
+Dialogue: 0,0:44:09.09,0:44:13.70,Left Arial,,0,0,0,,{\pos(50,837)}Next, someone whose \Nhead seems to be sinking\Ninto their body...
+Dialogue: 0,0:44:12.83,0:44:17.40,Overlay text,,0,0,0,,A "Younger Toguro"-pattern mikoshi dako
+Dialogue: 0,0:44:20.10,0:44:23.11,Left Arial,,0,0,0,,{\pos(434.25,1017)}(Staff) Wow, cool
+Dialogue: 0,0:44:24.04,0:44:26.94,Overlay text,,0,0,0,,It's just like an octopus
+Dialogue: 0,0:44:28.78,0:44:30.55,Overlay text,,0,0,0,,(Staff) Have they gotten smaller?
+Dialogue: 0,0:44:30.55,0:44:34.65,Overlay text,,0,0,0,,It feels to me like they haven't
+Dialogue: 0,0:44:34.65,0:44:37.05,Overlay text,,0,0,0,,(Staff) So they're not going to change?
+Dialogue: 0,0:44:35.69,0:44:37.05,Overlay text (Line 2),,0,0,0,,No they're not
+Dialogue: 0,0:44:37.05,0:44:41.66,Default (box; smaller),,0,0,0,,{\pos(1010,917)}years'\Nexperience
+Dialogue: 0,0:44:37.05,0:44:41.66,Overlay text,,0,0,0,,{\pos(986,1034)}Watanabe-san
+Dialogue: 0,0:44:37.29,0:44:40.59,Left Arial,,0,0,0,,{\pos(284.625,837)}And this is Watanabe-san
+Dialogue: 0,0:44:48.03,0:44:50.73,Overlay text,,0,0,0,,(Staff) Woah
+Dialogue: 0,0:44:54.37,0:44:58.64,Overlay text,,0,0,0,,(Staff) What's going on here?
+Dialogue: 0,0:45:00.08,0:45:05.68,Left Arial,,0,0,0,,{\pos(254.25,297)}From the back, it's just like the character for mountain (山)
+Dialogue: 0,0:45:05.75,0:45:08.95,Overlay text,,0,0,0,,(Staff) Are there any ways in which you've found having them useful?
+Dialogue: 0,0:45:08.95,0:45:09.65,Overlay text,,0,0,0,,{\pos(380,1058)}Shoulder ba--
+Dialogue: 0,0:45:09.65,0:45:15.16,Overlay text,,0,0,0,,Result: We look forward to them holding the mikoshi next year
+Dialogue: 0,0:45:15.42,0:45:18.23,Left Arial,,0,0,0,,{\pos(675,897)\c&Hffff00&}Wow
+Dialogue: 0,0:45:15.42,0:45:18.23,Left Arial,,0,0,0,,{\pos(495,1017)\c&H00ff00&}What did you think?
+Dialogue: 0,0:45:18.23,0:45:20.56,Overlay text,,0,0,0,,It was not what I expected
+Dialogue: 0,0:45:20.10,0:45:22.43,Left Arial,,0,0,0,,{\pos(254.25,777)\c&H00ff00&}It was pretty impressive, right?
+Dialogue: 0,0:45:23.10,0:45:24.53,Overlay text,,0,0,0,,I want them put on us too
+Dialogue: 0,0:45:25.77,0:45:27.77,Left Arial,,0,0,0,,{\pos(254.25,1017)}(Haruna) On that drawing
+Dialogue: 0,0:45:27.77,0:45:30.71,Default,,0,0,0,,{\pos(824.625,1017)\c&H00ff00&}No, no
+Dialogue: 0,0:45:27.77,0:45:30.71,Left Arial,,0,0,0,,{\pos(254.25,897)}(Bakarhythm) MIkoshi dako
+Dialogue: 0,0:45:30.71,0:45:33.04,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}You don't hold mikoshi, do you?
+Dialogue: 0,0:45:33.04,0:45:35.38,Left Arial,,0,0,0,,{\pos(254.25,1017)\c&H00ff00&}You earn those from\Ncarrying mikoshi
+Dialogue: 0,0:45:35.38,0:45:37.38,Left Arial,,0,0,0,,{\pos(344.25,897)}As a lucky charm
+Dialogue: 0,0:45:35.38,0:45:37.38,Left Arial,,0,0,0,,{\pos(765,1017)\c&Hffff00&}A lucky charm
+Dialogue: 0,0:45:37.38,0:45:39.38,Left Arial,,0,0,0,,{\pos(464.625,777)}And you're holding up Mt Fuji
+Dialogue: 0,0:45:39.01,0:45:41.92,Overlay text,,0,0,0,,Because the comedy world is resting on your backs?
+Dialogue: 0,0:45:42.28,0:45:45.15,Overlay text,,0,0,0,,You'll get comedy mikoshi dako
+Dialogue: 0,0:45:44.05,0:45:47.36,Left Arial,,0,0,0,,{\pos(824.625,657)\c&Hffff00&}Great\N
+Dialogue: 0,0:45:44.05,0:45:47.36,Left Arial,,0,0,0,,{\pos(254.25,777)\c&H00ff00&}It was better than I'd imagined\N
+Dialogue: 0,0:45:48.76,0:45:52.19,Overlay text,,0,0,0,,{\pos(720,690)}Panelist Theory \Ninvestigation Special
+Dialogue: 0,0:45:49.83,0:46:14.72,Default - Arial - Centered,,0,0,0,,{\c&H00FFAF&}★Subbed by fmck fansubs★\N{\c&HFFFFFF&}reddit.com/u/fmckfansubs\Npatreon.com/fmck
+Dialogue: 0,0:45:50.73,0:45:52.73,Left Arial,,0,0,0,,{\pos(254.25,297)}Next week..\N
+Dialogue: 0,0:45:52.33,0:45:56.07,Left Arial,,0,0,0,,{\pos(140,680)}'When peeing in the mens' toilets, \Neveryone can see you from outside' theory
+Dialogue: 0,0:45:56.07,0:46:00.10,Left Arial,,0,0,0,,{\pos(254.25,717)}We air theories given \Nby panelists in the opening
+Dialogue: 0,0:46:00.10,0:46:04.41,Left Arial,,0,0,0,,{\pos(284.625,717)}And investigate a selection of them
+Dialogue: 0,0:46:04.41,0:46:07.44,Left Arial,,0,0,0,,{\pos(315,717)}If Downtown were young now,
+Dialogue: 0,0:46:07.44,0:46:09.45,Left Arial,,0,0,0,,{\pos(405,717)}they wouldn't be this popular
+

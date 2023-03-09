@@ -1,0 +1,868 @@
+﻿[Script Info]
+Title: Default ASS file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: zwanster fix
+Audio File: WEDNESDAY DOWNTOWN 2021-05-05.mp4
+Video File: WEDNESDAY DOWNTOWN 2021-05-05.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 815
+Active Line: 822
+Video Position: 38592
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default-L2,Arial,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100,100,0,0,1,2.5,0,2,135,135,35,1
+Style: Default-Box,Arial,54,&H00FFFFFF,&H00FFFFFF,&H41000000,&HFF000000,0,0,0,0,100,100,0,0,3,8.5,0,2,135,135,72,1
+Style: Yahei-1280x720,Arial,48,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100,100,0,0,1,3.1,1.2,2,135,135,72,1
+Style: Yahei-1920x1080,Arial,60,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100,100,0,0,1,4.2,1.5,2,200,200,102,1
+Style: Yahai-4K,Arial,120,&H00FFFFFF,&H00FFFFFF,&H16534241,&HE12E2625,0,0,0,0,100,100,0,0,1,4.5,2.5,2,200,200,110,1
+Style: OneFX,Arial,54,&H00FFFE67,&H000000FF,&H00A4671B,&H914F310D,-1,-1,-1,0,100,120,0,10.3226,1,5.69106,4.26829,2,10,10,80,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,1.5,2,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 2,0:00:02.79,0:00:07.03,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 2,0:00:07.03,0:00:10.55,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 2,0:00:15.87,0:00:19.13,normal_Wed,,0,0,0,,Kazutoyo Koyabu
+Dialogue: 2,0:00:19.13,0:00:21.70,normal_Wed,,0,0,0,,It's Koyabu  \N-Thank you very much
+Dialogue: 2,0:00:22.26,0:00:23.59,normal_Wed,,0,0,0,,So let's get right to the point
+Dialogue: 2,0:00:23.59,0:00:27.27,normal_Wed,,0,0,0,,Have any of you here ever had to fake something for a show since you entered the industry?
+Dialogue: 2,0:00:27.73,0:00:31.08,normal_Wed,,0,0,0,,Yeah, faked a lot
+Dialogue: 2,0:00:31.08,0:00:34.65,normal_Wed,,0,0,0,,The best time was with a psychic medium
+Dialogue: 2,0:00:34.65,0:00:37.01,normal_Wed,,0,0,0,,Doing a show in a place where there are rumors of ghosts
+Dialogue: 2,0:00:37.01,0:00:40.88,normal_Wed,,0,0,0,,It was said that there was a ghost in a phone booth there
+Dialogue: 2,0:00:40.88,0:00:43.91,normal_Wed,,0,0,0,,So we went to the phone booth
+Dialogue: 2,0:00:43.91,0:00:45.99,normal_Wed,,0,0,0,,Then came a sound of jingling bells
+Dialogue: 2,0:00:45.99,0:00:48.56,normal_Wed,,0,0,0,,They said it was the spirit's voice
+Dialogue: 2,0:00:48.56,0:00:52.15,normal_Wed,,0,0,0,,But I realized it was the psychic hitting the side of the phone booth with small stones
+Dialogue: 2,0:00:53.97,0:00:54.93,normal_Wed,,0,0,0,,I've learned since then
+Dialogue: 2,0:00:54.93,0:00:58.85,normal_Wed,,0,0,0,,Psychic programs are just lies
+Dialogue: 2,0:00:58.85,0:01:00.37,normal_Wed,,0,0,0,,That's what they do
+Dialogue: 2,0:01:00.37,0:01:04.64,normal_Wed,,0,0,0,,Recently, regulations in the TV industry have become more and more strict
+Dialogue: 2,0:01:04.80,0:01:10.00,normal_Wed,,0,0,0,,Fake information in a literal sense has all but disappeared
+Dialogue: 2,0:01:10.00,0:01:14.25,normal_Wed,,0,0,0,,So, today I bring this hypothesis about such fraud
+Dialogue: 2,0:01:14.90,0:01:22.58,normal_Wed,,0,0,0,,Artists who are required to participate in misleading TV shows can't help helping the program
+Dialogue: 2,0:01:25.09,0:01:27.03,normal_Wed,,0,0,0,,Has this been done before?
+Dialogue: 2,0:01:27.03,0:01:28.88,normal_Wed,,0,0,0,,Yes, a similar theory was done two years ago
+Dialogue: 2,0:01:28.88,0:01:31.49,normal_Wed,,0,0,0,,This time it is a comprehensive upgrade, single-cut verification
+Dialogue: 2,0:01:31.49,0:01:34.87,normal_Wed,,0,0,0,,Will the performers risk their lives for the sake of the show and blatantly mislead
+Dialogue: 2,0:01:34.87,0:01:36.66,normal_Wed,,0,0,0,,In this era of various rules and regulations
+Dialogue: 2,0:01:36.66,0:01:39.91,normal_Wed,,0,0,0,,Do they dare to cross the red line of moral degradation?
+Dialogue: 2,0:01:39.91,0:01:41.99,normal_Wed,,0,0,0,,Emotions are strangely high.  \N-Does it still exist?
+Dialogue: 2,0:01:41.99,0:01:45.22,normal_Wed,,0,0,0,,This time, I want to reveal the truth in broad daylight
+Dialogue: 2,0:01:45.22,0:01:47.95,normal_Wed,,0,0,0,,Why are you so angry all of a sudden?\N  -Yeah
+Dialogue: 2,0:01:48.53,0:01:52.42,normal_Wed,,0,0,0,,To sum up, next we will verify the taboo of fraud
+Dialogue: 2,0:01:54.86,0:01:58.20,normal_Wed,,0,0,0,,Also, for businesses that borrow performers' names
+Dialogue: 2,0:01:58.20,0:02:02.37,normal_Wed,,0,0,0,,No matter how unpleasant the content, will they accept if the pay is high enough?
+Dialogue: 2,0:02:18.02,0:02:29.00,normal_Wed,,0,0,0,,Artists who are required to participate in misleading TV shows can't help helping the program
+Dialogue: 2,0:02:30.44,0:02:34.12,normal_Wed,,0,0,0,,First of all, the first difficulty level 1 target is
+Dialogue: 2,0:02:34.12,0:02:35.73,wipe_Wed,,0,0,0,,The embodiment of tenderness
+Dialogue: 2,0:02:35.73,0:02:38.38,normal_Wed,,0,0,0,,Ganbare Luya's Yoshiko
+Dialogue: 2,0:02:38.98,0:02:41.74,normal_Wed,,0,0,0,,The stage for this validation is
+Dialogue: 2,0:02:42.44,0:02:46.22,normal_Wed,,0,0,0,,Yoshiko and Shouinji introduce the stores they frequent
+Dialogue: 2,0:02:46.22,0:02:47.65,normal_Wed,,0,0,0,,The fradulent program is set up in such a way
+Dialogue: 2,0:02:47.84,0:02:49.63,normal_Wed,,0,0,0,,Why would you want to hear about the stores frequented by these two people?
+Dialogue: 2,0:02:50.54,0:02:55.89,normal_Wed,,0,0,0,,So, we took a look at the stores Yoshiko frequented beforehand, but
+Dialogue: 2,0:02:57.62,0:02:59.41,normal_Wed,,0,0,0,,The trip was accidentally double booked
+Dialogue: 2,0:03:00.26,0:03:03.21,normal_Wed,,0,0,0,,Suddenly, she's informed that one of the stores is reserved for Shouinji
+Dialogue: 2,0:03:03.21,0:03:06.62,normal_Wed,,0,0,0,,And is unable to participate in the location recording
+Dialogue: 2,0:03:06.96,0:03:10.70,normal_Wed,,0,0,0,,So, we want to talk a little bit about it. \N -OK
+Dialogue: 2,0:03:10.70,0:03:13.89,normal_Wed,,0,0,0,,Stores frequented by Shouinji
+Dialogue: 2,0:03:13.89,0:03:19.37,normal_Wed,,0,0,0,,Originally, there was one that wasn't possible, but we repeatedly negotiated
+Dialogue: 2,0:03:19.37,0:03:21.66,normal_Wed,,0,0,0,,It took a lot of effort to get permission
+Dialogue: 1,0:03:21.66,0:03:23.25,wipe_Wed,,0,0,0,,A tough situation to say no to
+Dialogue: 2,0:03:22.58,0:03:27.39,normal_Wed,,0,0,0,,She's told that one of Shouinji's choices was difficult
+Dialogue: 2,0:03:29.00,0:03:34.81,normal_Wed,,0,0,0,,The suggestion is to present it as a shop that Yoshiko often goes to
+Dialogue: 2,0:03:34.81,0:03:37.21,normal_Wed,,0,0,0,,Making for an embarrassing request
+Dialogue: 2,0:03:38.32,0:03:42.26,normal_Wed,,0,0,0,,The shop that Shouinji often goes to
+Dialogue: 2,0:03:42.26,0:03:47.17,normal_Wed,,0,0,0,,Would it be okay to present it as one of the places you regularly frequent?
+Dialogue: 2,0:03:47.17,0:03:49.99,normal_Wed,,0,0,0,,Eh, I see, I see
+Dialogue: 2,0:03:50.76,0:03:52.98,normal_Wed,,0,0,0,,Although a little surprised
+Dialogue: 2,0:03:52.98,0:03:55.14,normal_Wed,,0,0,0,,The offer is accepted smoothly
+Dialogue: 2,0:03:56.11,0:03:57.24,normal_Wed,,0,0,0,,So
+Dialogue: 1,0:03:53.65,0:03:56.42,wipe_Wed,,0,0,0,,It'd turn out like this
+Dialogue: 2,0:03:58.81,0:04:03.01,normal_Wed,,0,0,0,,This place's speciality is tomato noodles
+Dialogue: 2,0:04:03.11,0:04:05.38,normal_Wed,,0,0,0,,Understood
+Dialogue: 2,0:04:05.38,0:04:08.32,normal_Wed,,0,0,0,,Have you ever eaten tomato noodles?
+Dialogue: 2,0:04:08.32,0:04:12.43,normal_Wed,,0,0,0,,Never, I have never eaten tomato noodles
+Dialogue: 1,0:04:13.25,0:04:15.28,normal_Wed,,0,0,0,,To sum up, Yoshiko knows nothing
+Dialogue: 2,0:04:14.09,0:04:15.57,wipe_Wed,,0,0,0,,What to do?
+Dialogue: 2,0:04:15.28,0:04:20.48,normal_Wed,,0,0,0,,And she's told this is a confidential matter known only to the producer
+Dialogue: 2,0:04:20.48,0:04:22.21,wipe_Wed,,0,0,0,,It happens
+Dialogue: 2,0:04:21.77,0:04:23.22,normal_Wed,,0,0,0,,Shouinji doesn't know either? \N-No
+Dialogue: 2,0:04:23.22,0:04:24.26,normal_Wed,,0,0,0,,Ah, I see
+Dialogue: 2,0:04:25.01,0:04:27.77,normal_Wed,,0,0,0,,With none of the staff supposedly informed
+Dialogue: 2,0:04:27.77,0:04:31.24,normal_Wed,,0,0,0,,The location shoot begins
+Dialogue: 2,0:04:31.51,0:04:34.77,normal_Wed,,0,0,0,,This is the guest who frequents this restaurant
+Dialogue: 2,0:04:35.21,0:04:38.52,normal_Wed,,0,0,0,,Hello, everyone I'm Koyuki
+Dialogue: 2,0:04:35.21,0:04:38.52,note_Wed,,0,0,0,,{\blur4}※Koyuki - Japanese actress
+Dialogue: 2,0:04:38.52,0:04:39.24,normal_Wed,,0,0,0,,Sorry, sorry
+Dialogue: 2,0:04:39.45,0:04:40.58,normal_Wed,,0,0,0,,A little bit low energy
+Dialogue: 2,0:04:40.75,0:04:42.84,normal_Wed,,0,0,0,,Tormented by guilt, right?
+Dialogue: 2,0:04:43.49,0:04:44.16,normal_Wed,,0,0,0,,I'm Koyuki
+Dialogue: 2,0:04:44.16,0:04:45.18,normal_Wed,,0,0,0,,Welcome, Koyuki
+Dialogue: 2,0:04:45.86,0:04:50.80,normal_Wed,,0,0,0,,First of all, the opening shot in the vicinity of the restaurant
+Dialogue: 2,0:04:51.53,0:04:53.34,normal_Wed,,0,0,0,,So the first spot
+Dialogue: 2,0:04:53.34,0:04:57.25,normal_Wed,,0,0,0,,I'll ask Yoshiko-san to take us to the store she usually goes to
+Dialogue: 2,0:04:57.25,0:04:58.68,wipe_Wed,,0,0,0,,Ah it's stuck on top!
+Dialogue: 2,0:04:57.74,0:05:02.67,normal_Wed,,0,0,0,,The name of Shouinji still remains on the signboard and is roughly covered with stickers.
+Dialogue: 1,0:05:00.00,0:05:01.55,wipe_Wed,,0,0,0,,A detailed operation
+Dialogue: 2,0:05:05.82,0:05:07.12,wipe_Wed,,0,0,0,,No energy at all
+Dialogue: 0,0:05:04.52,0:05:06.02,normal_Wed,,0,0,0,,Please
+Dialogue: 2,0:05:06.02,0:05:07.78,normal_Wed,,0,0,0,,Over there? This way?
+Dialogue: 2,0:05:07.12,0:05:09.30,wipe_Wed,,0,0,0,,No energy, no energy at all
+Dialogue: 2,0:05:07.78,0:05:08.87,normal_Wed,,0,0,0,,Please
+Dialogue: 2,0:05:09.78,0:05:13.03,normal_Wed,,0,0,0,,Next, Yoshiko leads the way to the restaurant
+Dialogue: 2,0:05:13.03,0:05:14.85,normal_Wed,,0,0,0,,At the orders of the above
+Dialogue: 2,0:05:14.85,0:05:16.23,normal_Wed,,0,0,0,,This is Ikejiri
+Dialogue: 2,0:05:16.23,0:05:18.75,normal_Wed,,0,0,0,,Oh yes, it is Ikejiri
+Dialogue: 1,0:05:18.57,0:05:20.42,wipe_Wed,,0,0,0,,Searching desperately
+Dialogue: 2,0:05:19.09,0:05:23.72,normal_Wed,,0,0,0,,Over there? This way or this way?
+Dialogue: 1,0:05:26.46,0:05:28.95,wipe_Wed,,0,0,0,,Desperately looking for tips from others
+Dialogue: 2,0:05:28.60,0:05:32.09,normal_Wed,,0,0,0,,Realizing she forgot to consider which direction to head in
+Dialogue: 2,0:05:32.09,0:05:34.50,normal_Wed,,0,0,0,,Yoshiko is unable to hide her wavering appearence
+Dialogue: 2,0:05:34.50,0:05:35.86,wipe_Wed,,0,0,0,,Who are you looking at?
+Dialogue: 2,0:05:36.76,0:05:39.31,normal_Wed,,0,0,0,,So under the setting of going to a frequently visited place
+Dialogue: 2,0:05:39.32,0:05:41.62,normal_Wed,,0,0,0,,The last thing that should have happened, happens
+Dialogue: 2,0:05:41.62,0:05:43.06,wipe_Wed,,0,0,0,,What?
+Dialogue: 2,0:05:44.30,0:05:46.01,normal_Wed,,0,0,0,,Wow, loads of people!
+Dialogue: 2,0:05:51.01,0:05:54.41,normal_Wed,,0,0,0,,They are going in the opposite direction
+Dialogue: 2,0:05:55.29,0:05:59.39,normal_Wed,,0,0,0,,So, a way to turn around is needed
+Dialogue: 2,0:06:00.73,0:06:02.26,normal_Wed,,0,0,0,,Is it on this road?
+Dialogue: 2,0:06:02.57,0:06:05.47,normal_Wed,,0,0,0,,Right here
+Dialogue: 2,0:06:05.47,0:06:08.31,normal_Wed,,0,0,0,,Wait a minute. Isn't this a convenience store?
+Dialogue: 2,0:06:08.31,0:06:10.33,normal_Wed,,0,0,0,,Sorry
+Dialogue: 2,0:06:10.33,0:06:13.31,normal_Wed,,0,0,0,,Joking, its actually over here
+Dialogue: 2,0:06:13.31,0:06:17.69,normal_Wed,,0,0,0,,While being stupid, she turns around naturally
+Dialogue: 1,0:06:14.95,0:06:17.05,wipe_Wed,,0,0,0,,Very clever
+Dialogue: 2,0:06:17.82,0:06:19.34,normal_Wed,,0,0,0,,Very skilled
+Dialogue: 2,0:06:19.72,0:06:20.94,normal_Wed,,0,0,0,,Quick-witted!
+Dialogue: 2,0:06:21.13,0:06:26.54,normal_Wed,,0,0,0,,Here, she tries had to remember the instructions show to her briefly
+Dialogue: 2,0:06:26.54,0:06:28.33,normal_Wed,,0,0,0,,Finally, they arrive
+Dialogue: 2,0:06:28.33,0:06:30.83,normal_Wed,,0,0,0,,Wow, this place looks great\N-Yeah
+Dialogue: 2,0:06:30.83,0:06:31.94,normal_Wed,,0,0,0,,This is it（DAIDAI）
+Dialogue: 2,0:06:32.73,0:06:34.06,normal_Wed,,0,0,0,,After entering and sitting down
+Dialogue: 2,0:06:34.06,0:06:38.69,normal_Wed,,0,0,0,,Soon, the recommended dish, tomato noodles, is served
+Dialogue: 2,0:06:37.37,0:06:38.69,wipe_Wed,,0,0,0,,But she's never had it
+Dialogue: 2,0:06:46.21,0:06:48.21,normal_Wed,,0,0,0,,This is really delicious
+Dialogue: 2,0:06:48.21,0:06:50.24,normal_Wed,,0,0,0,,When was the last time you ate it?
+Dialogue: 2,0:06:53.92,0:06:54.98,normal_Wed,,0,0,0,,Recently...?
+Dialogue: 2,0:06:55.86,0:06:59.85,normal_Wed,,0,0,0,,When unable to answer, just don't say anything
+Dialogue: 1,0:06:56.25,0:06:58.18,wipe_Wed,,0,0,0,,{\pos(1250.5,250)}You have to say something!
+Dialogue: 2,0:06:58.18,0:06:59.87,wipe_Wed,,0,0,0,,Really should
+Dialogue: 2,0:06:59.87,0:07:00.71,wipe_Wed,,0,0,0,,Should answer straight away
+Dialogue: 2,0:07:00.71,0:07:03.32,normal_Wed,,0,0,0,,To Yoshiko, who simply wants to escape
+Dialogue: 2,0:07:04.30,0:07:06.92,normal_Wed,,0,0,0,,Next, enter the special recommendation!
+Dialogue: 2,0:07:09.62,0:07:13.54,normal_Wed,,0,0,0,,She is continuously shown the former signs of Shouinji
+Dialogue: 2,0:07:14.04,0:07:15.73,normal_Wed,,0,0,0,,Now...
+Dialogue: 2,0:07:15.73,0:07:18.69,normal_Wed,,0,0,0,,The dishes supposedly recommended by Yoshiko will automatically appear
+Dialogue: 2,0:07:20.38,0:07:23.64,normal_Wed,,0,0,0,,Eh? This!
+Dialogue: 2,0:07:23.92,0:07:25.54,normal_Wed,,0,0,0,,Is it this? \N-This is it
+Dialogue: 2,0:07:25.54,0:07:28.28,normal_Wed,,0,0,0,,Is this a must order? \N-Absolutely
+Dialogue: 2,0:07:28.94,0:07:31.51,normal_Wed,,0,0,0,,The special recommended menu imposed on Yoshiko
+Dialogue: 2,0:07:29.11,0:07:30.60,wipe_Wed,,0,0,0,,Poor thing
+Dialogue: 2,0:07:32.20,0:07:35.40,normal_Wed,,0,0,0,,With a load of chilli
+Dialogue: 2,0:07:35.40,0:07:39.47,normal_Wed,,0,0,0,,What you see here is  punishment-level Mapo Tofu
+Dialogue: 2,0:07:39.70,0:07:42.00,normal_Wed,,0,0,0,,Do you finish this every time?
+Dialogue: 2,0:07:42.00,0:07:43.69,normal_Wed,,0,0,0,,Yes\N-Really?
+Dialogue: 2,0:07:44.31,0:07:47.81,normal_Wed,,0,0,0,,Scared by the special recommended menu that she has never had before
+Dialogue: 2,0:07:48.30,0:07:52.34,normal_Wed,,0,0,0,,Yoshiko's expression continues to fade
+Dialogue: 1,0:07:51.62,0:07:53.32,wipe_Wed,,0,0,0,,No energy at all
+Dialogue: 2,0:07:52.34,0:07:54.27,normal_Wed,,0,0,0,,Is this something that anyone can eat?
+Dialogue: 2,0:07:54.55,0:07:56.18,normal_Wed,,0,0,0,,Can you?
+Dialogue: 2,0:07:56.18,0:07:57.68,normal_Wed,,0,0,0,,No problem
+Dialogue: 2,0:07:57.68,0:08:01.39,normal_Wed,,0,0,0,,I see, so you're good at eating spicy food?
+Dialogue: 2,0:08:01.55,0:08:02.39,normal_Wed,,0,0,0,,Indeed
+Dialogue: 2,0:08:02.39,0:08:03.91,normal_Wed,,0,0,0,,Wow... sorry, the smell is in my nose its choking me
+Dialogue: 1,0:08:03.30,0:08:06.15,wipe_Wed,,0,0,0,,Such a small voice
+Dialogue: 2,0:08:03.97,0:08:09.26,normal_Wed,,0,0,0,,This is...
+Dialogue: 2,0:08:11.37,0:08:16.44,normal_Wed,,0,0,0,,So, she eats the spicy food despite not actually being able to handle it
+Dialogue: 1,0:08:16.45,0:08:18.32,wipe_Wed,,0,0,0,,That's tough
+Dialogue: 2,0:08:24.78,0:08:27.21,normal_Wed,,0,0,0,,How is it?
+Dialogue: 2,0:08:27.21,0:08:29.85,normal_Wed,,0,0,0,,This is it, it's delicious!
+Dialogue: 2,0:08:29.85,0:08:31.88,normal_Wed,,0,0,0,,So loud!
+Dialogue: 1,0:08:29.97,0:08:31.85,wipe_Wed,,0,0,0,,Really is
+Dialogue: 2,0:08:31.88,0:08:34.25,normal_Wed,,0,0,0,,This is the taste!
+Dialogue: 2,0:08:34.25,0:08:35.35,normal_Wed,,0,0,0,,Ah, its just...
+Dialogue: 2,0:08:35.35,0:08:36.15,normal_Wed,,0,0,0,,Is it hot?
+Dialogue: 2,0:08:36.15,0:08:39.93,normal_Wed,,0,0,0,,It's hot, of course!
+Dialogue: 1,0:08:39.92,0:08:42.29,wipe_Wed,,0,0,0,,She's angry!
+Dialogue: 2,0:08:40.64,0:08:42.75,normal_Wed,,0,0,0,,Under such stimuli
+Dialogue: 2,0:08:42.75,0:08:45.70,normal_Wed,,0,0,0,,Yoshiko becomes unable to hide her anger towards the staff
+Dialogue: 1,0:08:44.72,0:08:46.22,wipe_Wed,,0,0,0,,Its natural
+Dialogue: 2,0:08:46.46,0:08:49.34,normal_Wed,,0,0,0,,Thus, we reveal the plan
+Dialogue: 2,0:08:55.81,0:08:58.53,normal_Wed,,0,0,0,,Do you know what show this is?
+Dialogue: 2,0:08:58.53,0:09:01.12,normal_Wed,,0,0,0,,I often{\alpha25} visit{\alpha55} {\alpha90}the…
+Dialogue: 2,0:09:01.78,0:09:04.27,normal_Wed,,0,0,0,,We're actually Wednesday Downtown
+Dialogue: 1,0:09:07.52,0:09:08.70,wipe_Wed,,0,0,0,,Embarrassed
+Dialogue: 2,0:09:08.72,0:09:11.01,normal_Wed,,0,0,0,,{\fs60}Bastards!
+Dialogue: 1,0:09:10.88,0:09:11.96,wipe_Wed,,0,0,0,,A normal reaction
+Dialogue: 2,0:09:11.96,0:09:17.37,normal_Wed,,0,0,0,,What did you think when you were asked to lie?
+Dialogue: 2,0:09:17.37,0:09:23.27,normal_Wed,,0,0,0,,{\alpha55}This is how TV is
+Dialogue: 2,0:09:24.01,0:09:29.54,normal_Wed,,0,0,0,,The next target for difficulty level 2 is...
+Dialogue: 2,0:09:31.16,0:09:33.92,normal_Wed,,0,0,0,,Lalande's Nishida
+Dialogue: 2,0:09:34.59,0:09:38.55,normal_Wed,,0,0,0,,The setting we prepared for him this time is
+Dialogue: 2,0:09:39.56,0:09:41.53,normal_Wed,,0,0,0,,What'll happen this time \N-Yeah
+Dialogue: 2,0:09:41.53,0:09:44.85,normal_Wed,,0,0,0,,A program like "Sunday Kitchen"
+Dialogue: 2,0:09:44.85,0:09:48.07,normal_Wed,,0,0,0,,It is scheduled to air on Sunday morning
+Dialogue: 2,0:09:48.56,0:09:54.32,normal_Wed,,0,0,0,,This time, we want to make use of your high-level cooking skills in comparison to other comedians
+Dialogue: 2,0:09:54.32,0:09:56.52,normal_Wed,,0,0,0,,Wait a minute, we're doing that!?
+Dialogue: 2,0:09:56.52,0:10:00.64,normal_Wed,,0,0,0,,I don't do much cooking
+Dialogue: 2,0:10:00.64,0:10:03.43,normal_Wed,,0,0,0,,Ah... Is that right?\N-Yes
+Dialogue: 1,0:10:02.75,0:10:04.38,wipe_Wed,,0,0,0,,This is tough
+Dialogue: 2,0:10:04.38,0:10:12.21,normal_Wed,,0,0,0,,If you search for comedians skilled at cooking, your name comes up
+Dialogue: 2,0:10:12.21,0:10:14.72,normal_Wed,,0,0,0,,Really? Let me see
+Dialogue: 2,0:10:14.72,0:10:16.99,normal_Wed,,0,0,0,,For dessert and stuff
+Dialogue: 2,0:10:16.99,0:10:20.73,normal_Wed,,0,0,0,,It comes up with Nishida
+Dialogue: 2,0:10:20.73,0:10:21.69,normal_Wed,,0,0,0,,Huh?
+Dialogue: 1,0:10:21.22,0:10:23.12,wipe_Wed,,0,0,0,,So wrong
+Dialogue: 2,0:10:21.69,0:10:25.10,normal_Wed,,0,0,0,,This isn't Lalande's Nishida, its Sekenshirazu's Nishida
+Dialogue: 2,0:10:25.81,0:10:30.07,normal_Wed,,0,0,0,,So, this time, the setup is that the staff made a mistake
+Dialogue: 2,0:10:30.07,0:10:34.25,normal_Wed,,0,0,0,,And mistook Lalande's Nishida for
+Dialogue: 2,0:10:34.25,0:10:38.32,normal_Wed,,0,0,0,,Sekenshirazu's Nishida, who likes cooking
+Dialogue: 2,0:10:38.44,0:10:40.01,normal_Wed,,0,0,0,,Sekenshirazu?
+Dialogue: 2,0:10:40.01,0:10:41.98,normal_Wed,,0,0,0,,Also comedians
+Dialogue: 2,0:10:41.98,0:10:44.54,normal_Wed,,0,0,0,,Another duo with a "Nishida"
+Dialogue: 2,0:10:45.12,0:10:48.15,normal_Wed,,0,0,0,,I'm sorry, I don't really know many comedian duos
+Dialogue: 2,0:10:48.15,0:10:49.54,normal_Wed,,0,0,0,,Its fine, its fine
+Dialogue: 2,0:10:50.34,0:10:56.29,normal_Wed,,0,0,0,,In such a way, Nishida is mixed up with someone not even of the same gender
+Dialogue: 2,0:10:56.29,0:10:59.84,normal_Wed,,0,0,0,,At this point, the proposal is put forward
+Dialogue: 2,0:11:00.70,0:11:04.80,normal_Wed,,0,0,0,,Could you pretend to be good at cooking?
+Dialogue: 2,0:11:04.80,0:11:07.61,normal_Wed,,0,0,0,,Just for this show, is that ok?
+Dialogue: 2,0:11:06.90,0:11:08.06,wipe_Wed,,0,0,0,,Definitely not
+Dialogue: 2,0:11:07.61,0:11:09.18,normal_Wed,,0,0,0,,Oh, really?
+Dialogue: 2,0:11:09.18,0:11:11.08,normal_Wed,,0,0,0,,It's a cooking program
+Dialogue: 2,0:11:11.08,0:11:17.62,normal_Wed,,0,0,0,,It doesn't matter because you can just follow the teacher's instructions \N-Yeah
+Dialogue: 2,0:11:17.62,0:11:21.28,normal_Wed,,0,0,0,,Ok, well, I guess its fine
+Dialogue: 2,0:11:21.28,0:11:23.39,normal_Wed,,0,0,0,,So
+Dialogue: 2,0:11:23.39,0:11:27.08,normal_Wed,,0,0,0,,Let's spend a good time together by cooking
+Dialogue: 1,0:11:28.30,0:11:29.77,wipe_Wed,,0,0,0,,Feels real
+Dialogue: 2,0:11:29.60,0:11:35.50,normal_Wed,,0,0,0,,Although not known for cooking, he wears the clothes of a chef
+Dialogue: 2,0:11:35.50,0:11:37.94,normal_Wed,,0,0,0,,And the program quickly starts
+Dialogue: 2,0:11:38.57,0:11:43.37,normal_Wed,,0,0,0,,In the pre-cooking talk section, we intentionally let the discussion end hastily
+Dialogue: 2,0:11:44.51,0:11:47.95,normal_Wed,,0,0,0,,Today, the dish we're making together is Acqua pazza
+Dialogue: 2,0:11:47.95,0:11:49.24,normal_Wed,,0,0,0,,Acqua pazza...?
+Dialogue: 2,0:11:49.87,0:11:53.10,normal_Wed,,0,0,0,,A dish he has never heard of before
+Dialogue: 2,0:11:53.10,0:12:00.92,normal_Wed,,0,0,0,,This time, they're making Acqua pazza, a dish with a very high threshold for novice cooks
+Dialogue: 2,0:11:54.83,0:12:00.92,special_Wed_1_X,,0,0,0,,{\fs55\fad(600,0)\pos(750,840)\c&H010000&\3c&HFFFFFF&\frx-270\t(0,120,\frx-360)\org(750,800)}An Italian fish stew
+Dialogue: 1,0:11:58.27,0:12:00.52,wipe_Wed,,0,0,0,,Doesn't understand a word of it
+Dialogue: 2,0:12:01.09,0:12:06.09,normal_Wed,,0,0,0,,So, the materials in front of you can be used to your heart's content
+Dialogue: 2,0:12:06.43,0:12:09.06,normal_Wed,,0,0,0,,Let's start cooking now!
+Dialogue: 2,0:12:09.30,0:12:11.16,normal_Wed,,0,0,0,,Amazing...
+Dialogue: 2,0:12:14.61,0:12:18.28,normal_Wed,,0,0,0,,He copies the process of the person next to him, beginning with washing his hands
+Dialogue: 2,0:12:18.28,0:12:22.87,normal_Wed,,0,0,0,,Who am I, where am I, what am I doing, an empty brain
+Dialogue: 2,0:12:28.07,0:12:33.03,normal_Wed,,0,0,0,,The amateur chef Nishida's fradulent battle begins
+Dialogue: 2,0:12:33.52,0:12:36.25,normal_Wed,,0,0,0,,Unsurprisingly very unenthusiastic
+Dialogue: 2,0:12:36.79,0:12:38.62,normal_Wed,,0,0,0,,If you lie, you'll lose energy, right?
+Dialogue: 2,0:12:39.40,0:12:45.36,normal_Wed,,0,0,0,,Here, Nishida observes the taking of the main ingredient of Acqua pazza, snapper
+Dialogue: 2,0:12:46.24,0:12:47.24,normal_Wed,,0,0,0,,But...
+Dialogue: 2,0:12:47.77,0:12:50.14,normal_Wed,,0,0,0,,Okay, now what do we do?
+Dialogue: 2,0:12:50.14,0:12:53.90,normal_Wed,,0,0,0,,Does Acqua pazza have to be made with snapper?
+Dialogue: 2,0:12:53.90,0:12:57.23,normal_Wed,,0,0,0,,Or just any fish?
+Dialogue: 2,0:12:57.96,0:12:59.76,normal_Wed,,0,0,0,,In such a way
+Dialogue: 2,0:12:59.76,0:13:03.63,normal_Wed,,0,0,0,,He has no idea even what type of dish it is
+Dialogue: 2,0:13:03.63,0:13:07.58,normal_Wed,,0,0,0,,Nishida, frozen in place, is overwhelmed by every move made
+Dialogue: 1,0:13:06.52,0:13:07.65,wipe_Wed,,0,0,0,,Poor thing
+Dialogue: 2,0:13:08.27,0:13:09.97,normal_Wed,,0,0,0,,At this point
+Dialogue: 2,0:13:10.26,0:13:13.63,normal_Wed,,0,0,0,,Can you make this dish with any kind of fish?\N  -Huh?
+Dialogue: 2,0:13:13.63,0:13:15.00,normal_Wed,,0,0,0,,Can you make it with any kind of fish?
+Dialogue: 2,0:13:15.00,0:13:18.63,normal_Wed,,0,0,0,,Oh, of course, in season fish is the best
+Dialogue: 2,0:13:19.56,0:13:20.75,normal_Wed,,0,0,0,,So...
+Dialogue: 2,0:13:21.92,0:13:23.27,normal_Wed,,0,0,0,,Instead of a big fish
+Dialogue: 2,0:13:23.67,0:13:26.89,normal_Wed,,0,0,0,,He picks a small fish that looks easy to handle
+Dialogue: 2,0:13:28.65,0:13:30.22,wipe_Wed,,0,0,0,,But still doesn't know what to do
+Dialogue: 2,0:13:32.02,0:13:36.44,normal_Wed,,0,0,0,,After that, in order not to miss the other's every move, he works at a sideways angle
+Dialogue: 2,0:13:36.44,0:13:38.85,normal_Wed,,0,0,0,,But then, something unexpected happens
+Dialogue: 2,0:13:42.12,0:13:44.62,normal_Wed,,0,0,0,,His view is blocked by the cameraman taking a close up of the food
+Dialogue: 2,0:13:54.00,0:13:56.09,normal_Wed,,0,0,0,,He's unable to copy
+Dialogue: 1,0:13:55.72,0:13:57.92,wipe_Wed,,0,0,0,,Completely blocked
+Dialogue: 2,0:13:59.96,0:14:02.02,normal_Wed,,0,0,0,,He moves immediately to try and change his view
+Dialogue: 2,0:14:02.02,0:14:05.99,normal_Wed,,0,0,0,,However, he cannot escape the one-on-one camera coverage
+Dialogue: 2,0:14:06.64,0:14:09.30,wipe_Wed,,0,0,0,,He's doing nothing
+Dialogue: 2,0:14:08.78,0:14:12.13,normal_Wed,,0,0,0,,Thus, he can only rely on hearing to cook
+Dialogue: 2,0:14:12.13,0:14:15.72,normal_Wed,,0,0,0,,How can you cook by hearing?
+Dialogue: 2,0:14:15.72,0:14:18.40,normal_Wed,,0,0,0,,Do you clean up as you go along?
+Dialogue: 2,0:14:18.40,0:14:23.26,normal_Wed,,0,0,0,,Yes, it's usually done by the time the food is served
+Dialogue: 2,0:14:23.90,0:14:28.98,normal_Wed,,0,0,0,,So, he also starts to clean up
+Dialogue: 2,0:14:29.40,0:14:31.20,normal_Wed,,0,0,0,,And then, at the last minute...
+Dialogue: 2,0:14:31.20,0:14:35.92,normal_Wed,,0,0,0,,He finally breaks through into the enemy's area
+Dialogue: 1,0:14:35.92,0:14:39.52,wipe_Wed,,0,0,0,,He's there, he's there, watching super closely
+Dialogue: 2,0:14:40.35,0:14:41.74,normal_Wed,,0,0,0,,Done
+Dialogue: 2,0:14:42.26,0:14:43.66,normal_Wed,,0,0,0,,The final result is revealed
+Dialogue: 2,0:14:43.66,0:14:47.73,normal_Wed,,0,0,0,,Although not as good as the other person's dish...
+Dialogue: 2,0:14:49.45,0:14:52.61,normal_Wed,,0,0,0,,It at least looks like something
+Dialogue: 1,0:14:52.50,0:14:53.97,wipe_Wed,,0,0,0,,You couldn't sell this
+Dialogue: 2,0:14:54.00,0:14:57.20,normal_Wed,,0,0,0,,Here the truth is revealed
+Dialogue: 2,0:14:57.67,0:15:00.93,normal_Wed,,0,0,0,,You've worked hard \N-I have?
+Dialogue: 2,0:15:01.67,0:15:05.73,normal_Wed,,0,0,0,,We are Wednesday Downtown \N-Ah?
+Dialogue: 1,0:15:03.47,0:15:05.75,wipe_Wed,,0,0,0,,A sigh of relief
+Dialogue: 2,0:15:06.51,0:15:09.51,normal_Wed,,0,0,0,,I was so scared, so scared
+Dialogue: 2,0:15:09.51,0:15:10.57,normal_Wed,,0,0,0,,Great!
+Dialogue: 2,0:15:11.82,0:15:14.38,normal_Wed,,0,0,0,,I've really never done this even once before
+Dialogue: 2,0:15:14.49,0:15:19.02,normal_Wed,,0,0,0,,Acqua pazza, I thought it was pasta at first
+Dialogue: 2,0:15:19.02,0:15:21.66,normal_Wed,,0,0,0,,I thought he was gonna make Italian...
+Dialogue: 2,0:15:21.66,0:15:23.58,normal_Wed,,0,0,0,,But there was no pasta around anywhere
+Dialogue: 2,0:15:27.24,0:15:31.15,normal_Wed,,0,0,0,,Finally, the verification of the difficulty level MAX
+Dialogue: 1,0:15:29.32,0:15:31.10,wipe_Wed,,0,0,0,,The target is
+Dialogue: 2,0:15:32.00,0:15:33.71,normal_Wed,,0,0,0,,The goal is
+Dialogue: 2,0:15:34.27,0:15:39.93,normal_Wed,,0,0,0,,The Mommy
+Dialogue: 2,0:15:41.18,0:15:43.30,normal_Wed,,0,0,0,,I have a show to discuss with you
+Dialogue: 2,0:15:43.45,0:15:46.76,normal_Wed,,0,0,0,,The MC of the show is Hamada\N  -Oh!
+Dialogue: 2,0:15:47.46,0:15:52.18,normal_Wed,,0,0,0,,This time, it's a show where entertainers return to their hometown after a long time
+Dialogue: 2,0:15:52.18,0:15:54.87,normal_Wed,,0,0,0,,The choice of Hamada as host doesn't match at all
+Dialogue: 2,0:15:54.87,0:15:59.49,normal_Wed,,0,0,0,,A show full of warmth and fraudulence
+Dialogue: 2,0:15:59.49,0:16:05.23,normal_Wed,,0,0,0,,There's one thing I'd like to discuss before we go on location
+Dialogue: 2,0:16:05.64,0:16:10.73,normal_Wed,,0,0,0,,There's an issue with including family
+Dialogue: 2,0:16:11.46,0:16:17.67,normal_Wed,,0,0,0,,Even if it's your own family, they can't be filmed because of restrictions
+Dialogue: 2,0:16:17.67,0:16:20.97,normal_Wed,,0,0,0,,This is the setup
+Dialogue: 2,0:16:21.82,0:16:23.51,normal_Wed,,0,0,0,,Oh, parents?
+Dialogue: 2,0:16:23.51,0:16:26.10,normal_Wed,,0,0,0,,Going to shoot in homes now
+Dialogue: 2,0:16:26.10,0:16:29.58,normal_Wed,,0,0,0,,It's tough because of coronavirus
+Dialogue: 2,0:16:29.69,0:16:32.16,normal_Wed,,0,0,0,,So we need to discuss something
+Dialogue: 2,0:16:32.16,0:16:37.32,normal_Wed,,0,0,0,,We'll prepare a detached house and pretend it's your old home \N-Ok
+Dialogue: 2,0:16:37.32,0:16:44.51,normal_Wed,,0,0,0,,And prepare a pair of extras to pretend to be your parents
+Dialogue: 2,0:16:45.38,0:16:47.90,normal_Wed,,0,0,0,,For me?
+Dialogue: 2,0:16:48.62,0:16:53.93,normal_Wed,,0,0,0,,A fake hometown and fake parents, Sakai's whole part will be completely fake
+Dialogue: 2,0:16:53.93,0:16:56.93,normal_Wed,,0,0,0,,Unheard of super hardcore industry talk
+Dialogue: 2,0:16:56.93,0:16:59.86,normal_Wed,,0,0,0,,The Mommy's two can't help but smile bitterly
+Dialogue: 2,0:17:00.16,0:17:01.63,normal_Wed,,0,0,0,,You are called "Mommy" still, right?
+Dialogue: 2,0:17:01.76,0:17:03.78,normal_Wed,,0,0,0,,Obviously called "Mommy" still ...
+Dialogue: 2,0:17:03.78,0:17:09.59,normal_Wed,,0,0,0,,But my mother was on TV
+Dialogue: 2,0:17:09.59,0:17:14.56,normal_Wed,,0,0,0,,There is a risk of exposure if someone sees and realizes
+Dialogue: 1,0:17:10.55,0:17:12.01,wipe_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:17:14.77,0:17:19.00,normal_Wed,,0,0,0,,Well, because it is a member of the general public, we can put a mosaic on the face
+Dialogue: 2,0:17:19.31,0:17:20.90,normal_Wed,,0,0,0,,Ahhh I see
+Dialogue: 2,0:17:20.90,0:17:23.32,normal_Wed,,0,0,0,,Indeed, if you put the mosaic on...
+Dialogue: 2,0:17:23.32,0:17:25.81,normal_Wed,,0,0,0,,Is this kind of thing really possible?
+Dialogue: 2,0:17:26.52,0:17:28.44,normal_Wed,,0,0,0,,Not the type to think to hard about something
+Dialogue: 2,0:17:28.65,0:17:33.38,normal_Wed,,0,0,0,,The studio portion of the show will be recorded in three days
+Dialogue: 2,0:17:33.38,0:17:38.62,normal_Wed,,0,0,0,,Hamada's people are aware
+Dialogue: 1,0:17:36.87,0:17:38.55,wipe_Wed,,0,0,0,,Hamada's name was brought up
+Dialogue: 2,0:17:38.62,0:17:44.06,normal_Wed,,0,0,0,,This exterior part, if we don't do something about it... \N -Wow, no...
+Dialogue: 2,0:17:41.97,0:17:45.84,wipe_Wed,,0,0,0,,Hamada's getting excited about the project
+Dialogue: 2,0:17:44.06,0:17:46.46,normal_Wed,,0,0,0,,Hamada... I see....
+Dialogue: 2,0:17:47.18,0:17:51.54,normal_Wed,,0,0,0,,Using MC Hamada as a strong backing
+Dialogue: 2,0:17:51.54,0:17:54.64,normal_Wed,,0,0,0,,The staff pushes the messy negotiation forward hard
+Dialogue: 1,0:17:53.42,0:17:56.47,wipe_Wed,,0,0,0,,They'd definitely be afraid
+Dialogue: 1,0:17:56.47,0:17:58.27,wipe_Wed,,0,0,0,,They'd feel compelled to accept
+Dialogue: 2,0:17:57.48,0:18:00.60,normal_Wed,,0,0,0,,I've heard that Hamada can be pretty scary
+Dialogue: 2,0:18:00.60,0:18:06.24,normal_Wed,,0,0,0,,It seems that staff are afraid to disobey him
+Dialogue: 2,0:18:01.90,0:18:04.31,wipe_Wed,,0,0,0,,Indeed, that's right
+Dialogue: 2,0:18:06.24,0:18:08.75,normal_Wed,,0,0,0,,So, if we refuse, it will cause a lot of trouble
+Dialogue: 2,0:18:09.43,0:18:13.42,normal_Wed,,0,0,0,,Well, these things happen from time to time
+Dialogue: 2,0:18:14.00,0:18:14.97,normal_Wed,,0,0,0,,Not even once has it been exposed
+Dialogue: 2,0:18:14.97,0:18:17.12,normal_Wed,,0,0,0,,The TV industry is really like this
+Dialogue: 2,0:18:17.12,0:18:19.06,normal_Wed,,0,0,0,,From time to time
+Dialogue: 2,0:18:19.06,0:18:20.70,normal_Wed,,0,0,0,,Every now and then
+Dialogue: 2,0:18:20.70,0:18:24.78,normal_Wed,,0,0,0,,Sometimes programs can't be completed without some trickery, so...
+Dialogue: 2,0:18:25.95,0:18:31.02,normal_Wed,,0,0,0,,A reassuring image of an experienced fraud
+Dialogue: 1,0:18:31.09,0:18:32.38,wipe_Wed,,0,0,0,,Safe and secure
+Dialogue: 2,0:18:31.45,0:18:36.91,normal_Wed,,0,0,0,,First, the fake parents are vetted
+Dialogue: 2,0:18:37.42,0:18:41.66,normal_Wed,,0,0,0,,I want you to choose yourself
+Dialogue: 2,0:18:41.66,0:18:44.15,normal_Wed,,0,0,0,,Like an audition?
+Dialogue: 2,0:18:44.80,0:18:49.80,normal_Wed,,0,0,0,,And so, the director immediately calls in the extras
+Dialogue: 2,0:18:53.24,0:18:56.73,normal_Wed,,0,0,0,,What can you say?\N-Hey, wait a minute
+Dialogue: 2,0:18:56.73,0:18:58.81,normal_Wed,,0,0,0,,I'm completely confused. What's going on now?
+Dialogue: 2,0:18:58.81,0:19:03.35,normal_Wed,,0,0,0,,I... Anyway\N-It's fake
+Dialogue: 2,0:19:03.35,0:19:07.77,normal_Wed,,0,0,0,,Actually, it's not very important. It's just parents...
+Dialogue: 2,0:19:07.77,0:19:10.35,normal_Wed,,0,0,0,,Yeah, and the mosaic, right?
+Dialogue: 2,0:19:10.35,0:19:14.75,normal_Wed,,0,0,0,,It's just a report
+Dialogue: 2,0:19:17.16,0:19:19.16,normal_Wed,,0,0,0,,This is airing in the daytime anyway
+Dialogue: 2,0:19:19.16,0:19:21.65,normal_Wed,,0,0,0,,But this kind of thing usually gets exposed
+Dialogue: 2,0:19:21.65,0:19:23.00,normal_Wed,,0,0,0,,No one will watch it
+Dialogue: 2,0:19:23.00,0:19:26.40,normal_Wed,,0,0,0,,No way, Hamada's hosting it!
+Dialogue: 2,0:19:26.40,0:19:27.31,normal_Wed,,0,0,0,,True
+Dialogue: 2,0:19:27.31,0:19:32.12,normal_Wed,,0,0,0,,It's ok if we don't promote it... it's too late to pull out now
+Dialogue: 2,0:19:32.89,0:19:39.17,normal_Wed,,0,0,0,,"If we don't promote it, we'll be able to get by without the fans noticing"
+Dialogue: 2,0:19:39.56,0:19:42.85,normal_Wed,,0,0,0,,Says Sakai, who continues to talk to himself
+Dialogue: 2,0:19:44.65,0:19:46.69,normal_Wed,,0,0,0,,At that moment
+Dialogue: 2,0:19:52.34,0:19:57.77,normal_Wed,,0,0,0,,And so, the extras enter
+Dialogue: 2,0:20:12.35,0:20:18.06,normal_Wed,,0,0,0,,Here are some alternate parents
+Dialogue: 2,0:20:18.16,0:20:20.65,normal_Wed,,0,0,0,,You can choose the parents you like from them
+Dialogue: 2,0:20:20.65,0:20:22.45,normal_Wed,,0,0,0,,Favorite parents?
+Dialogue: 2,0:20:23.16,0:20:24.38,normal_Wed,,0,0,0,,Can we see the faces
+Dialogue: 0,0:20:24.38,0:20:26.23,normal_Wed,,0,0,0,,So
+Dialogue: 2,0:20:26.23,0:20:27.96,normal_Wed,,0,0,0,,Can I see? Sorry
+Dialogue: 2,0:20:28.63,0:20:30.25,normal_Wed,,0,0,0,,Ah, similar
+Dialogue: 2,0:20:30.25,0:20:32.16,normal_Wed,,0,0,0,,Ah, this one is pretty good
+Dialogue: 2,0:20:33.13,0:20:37.10,normal_Wed,,0,0,0,,Surprisingly, he finds an extra who looks like his real mother
+Dialogue: 2,0:20:37.44,0:20:38.67,normal_Wed,,0,0,0,,It feels like it will work.\N  -The same vibe...
+Dialogue: 2,0:20:39.25,0:20:40.00,normal_Wed,,0,0,0,,But
+Dialogue: 2,0:20:40.34,0:20:41.20,normal_Wed,,0,0,0,,And what about the father?
+Dialogue: 2,0:20:41.20,0:20:45.44,normal_Wed,,0,0,0,,Father... is there only two choices for fathers?
+Dialogue: 2,0:20:45.98,0:20:48.01,normal_Wed,,0,0,0,,How tall are you? \N -179
+Dialogue: 2,0:20:48.01,0:20:52.32,normal_Wed,,0,0,0,,Ah so tall, our family is very short
+Dialogue: 2,0:20:52.32,0:20:54.85,normal_Wed,,0,0,0,,Is that so?\N  -I'm the tallest in our family
+Dialogue: 2,0:20:54.85,0:20:58.05,normal_Wed,,0,0,0,,Well, if they are sitting down to shoot, it could be ok.  \N-Yes, indeed
+Dialogue: 2,0:20:59.83,0:21:03.22,normal_Wed,,0,0,0,,Do some editing to adjust the height or something
+Dialogue: 2,0:21:03.22,0:21:05.24,normal_Wed,,0,0,0,,Can you change height in post?
+Dialogue: 1,0:21:05.15,0:21:06.97,wipe_Wed,,0,0,0,,Can it be done?
+Dialogue: 2,0:21:05.24,0:21:06.64,normal_Wed,,0,0,0,,Well...
+Dialogue: 2,0:21:06.84,0:21:10.03,normal_Wed,,0,0,0,,I guess, post-editing, shrink him a little...
+Dialogue: 2,0:21:10.91,0:21:13.82,normal_Wed,,0,0,0,,Then please choose one of these two
+Dialogue: 2,0:21:13.82,0:21:17.69,normal_Wed,,0,0,0,,After being told that height can be adjusted by post-editing
+Dialogue: 2,0:21:17.69,0:21:22.72,normal_Wed,,0,0,0,,The selection is complete
+Dialogue: 2,0:21:26.03,0:21:33.00,normal_Wed,,0,0,0,,After which the "family" exchange information for 30 minutes
+Dialogue: 2,0:21:33.94,0:21:36.79,normal_Wed,,0,0,0,,Finally, they visit Sakai's fake hometown
+Dialogue: 2,0:21:36.79,0:21:39.21,normal_Wed,,0,0,0,,And a house studio prepared beforehand
+Dialogue: 2,0:21:37.82,0:21:40.24,wipe_Wed,,0,0,0,,Must be a weird mood in the car
+Dialogue: 2,0:21:40.10,0:21:41.92,normal_Wed,,0,0,0,,Although it is a bit bad to say
+Dialogue: 2,0:21:41.92,0:21:45.48,normal_Wed,,0,0,0,,Sometimes things like this are exposed
+Dialogue: 2,0:21:45.48,0:21:47.91,normal_Wed,,0,0,0,,Has it happened?
+Dialogue: 2,0:21:47.91,0:21:50.40,normal_Wed,,0,0,0,,Sometimes by other teams  \N-Hmm yes
+Dialogue: 2,0:21:50.40,0:21:56.04,normal_Wed,,0,0,0,,If people like me that aren't used to it are involved then it could happen I guess
+Dialogue: 2,0:21:56.25,0:21:59.05,normal_Wed,,0,0,0,,This will be very bad if it's exposed to Hamada, right?
+Dialogue: 2,0:21:59.05,0:22:00.25,normal_Wed,,0,0,0,,If the forgery is exposed
+Dialogue: 2,0:22:00.82,0:22:03.29,normal_Wed,,0,0,0,,No one on his side will tell him
+Dialogue: 2,0:22:03.29,0:22:04.69,normal_Wed,,0,0,0,,It's been fine so far
+Dialogue: 2,0:22:05.77,0:22:10.96,normal_Wed,,0,0,0,,In light of Hamada's dull senses, they were reassured
+Dialogue: 2,0:22:13.40,0:22:15.50,normal_Wed,,0,0,0,,As long as you don't say anything yourself
+Dialogue: 2,0:22:15.71,0:22:19.32,normal_Wed,,0,0,0,,It's something I'll take to my grave for sure. \N -Thank you
+Dialogue: 2,0:22:20.05,0:22:25.52,normal_Wed,,0,0,0,,Shortly after being reassured
+Dialogue: 2,0:22:28.38,0:22:29.91,normal_Wed,,0,0,0,,So, here we are at...
+Dialogue: 2,0:22:30.48,0:22:33.08,normal_Wed,,0,0,0,,The character's are wrong
+Dialogue: 2,0:22:33.87,0:22:38.59,normal_Wed,,0,0,0,,The characters on the nameplate are wrong and the nameplate is just a piece of paper
+Dialogue: 2,0:22:38.59,0:22:41.14,normal_Wed,,0,0,0,,Which shocks them both
+Dialogue: 2,0:22:42.60,0:22:45.19,normal_Wed,,0,0,0,,What a crude forgery!
+Dialogue: 2,0:22:45.64,0:22:47.71,normal_Wed,,0,0,0,,Is such a crude practice really possible?
+Dialogue: 2,0:22:48.93,0:22:53.12,normal_Wed,,0,0,0,,However, everything that will be exposed will apparently not be shown
+Dialogue: 2,0:22:53.12,0:22:58.00,normal_Wed,,0,0,0,,Believing this, they continue to shoot on location
+Dialogue: 2,0:22:58.00,0:23:00.43,wipe_Wed,,0,0,0,,It's too rough, right?
+Dialogue: 2,0:23:02.42,0:23:05.79,normal_Wed,,0,0,0,,Ah, there's a dog
+Dialogue: 2,0:23:05.79,0:23:07.38,normal_Wed,,0,0,0,,Yeah, did I not say?
+Dialogue: 2,0:23:08.31,0:23:12.94,normal_Wed,,0,0,0,,Next is the Shiba Inu that he doesn't remember at all
+Dialogue: 2,0:23:13.70,0:23:15.83,normal_Wed,,0,0,0,,His name is Genji. \N -Genji?
+Dialogue: 2,0:23:15.83,0:23:17.29,normal_Wed,,0,0,0,,Look, isn't he cute?
+Dialogue: 2,0:23:17.91,0:23:20.49,normal_Wed,,0,0,0,,Because in shooting you can not simply muddle through
+Dialogue: 2,0:23:20.49,0:23:22.72,normal_Wed,,0,0,0,,You have to get closer and get involved
+Dialogue: 2,0:23:25.64,0:23:28.80,normal_Wed,,0,0,0,,I'm sorry, I'm sorry, it's because he's never met me before...
+Dialogue: 1,0:23:29.20,0:23:31.07,wipe_Wed,,0,0,0,,Scared of dogs
+Dialogue: 2,0:23:30.38,0:23:33.94,normal_Wed,,0,0,0,,He's scary, sorry
+Dialogue: 2,0:23:34.69,0:23:36.66,normal_Wed,,0,0,0,,{\fad(455,455)}That...
+Dialogue: 2,0:23:39.12,0:23:40.36,normal_Wed,,0,0,0,,It's... it's been too long
+Dialogue: 2,0:23:40.36,0:23:41.32,normal_Wed,,0,0,0,,Usually quiet?
+Dialogue: 2,0:23:41.32,0:23:44.05,normal_Wed,,0,0,0,,Usually quiet, but there's a lot of people he doesn't know today
+Dialogue: 2,0:23:44.17,0:23:46.10,wipe_Wed,,0,0,0,,Nicely done
+Dialogue: 2,0:23:44.71,0:23:50.93,normal_Wed,,0,0,0,,When a stranger calls a strange name, he will certainly bark
+Dialogue: 2,0:23:50.93,0:23:53.63,normal_Wed,,0,0,0,,Genji（Real Name: Nana）
+Dialogue: 2,0:23:53.87,0:23:55.97,normal_Wed,,0,0,0,,Uh... so
+Dialogue: 2,0:23:55.97,0:23:57.69,normal_Wed,,0,0,0,,Can you take us to your room to have a look?
+Dialogue: 2,0:23:57.69,0:24:01.27,normal_Wed,,0,0,0,,My room? No problem
+Dialogue: 1,0:23:58.92,0:24:01.02,wipe_Wed,,0,0,0,,Does he know where it is?
+Dialogue: 1,0:24:01.02,0:24:02.60,wipe_Wed,,0,0,0,,You can't get past it, can you?
+Dialogue: 2,0:24:01.27,0:24:04.10,normal_Wed,,0,0,0,,Where is it?\N  -That one
+Dialogue: 2,0:24:05.22,0:24:06.19,normal_Wed,,0,0,0,,Here
+Dialogue: 2,0:24:10.34,0:24:11.35,wipe_Wed,,0,0,0,,What?
+Dialogue: 2,0:24:11.52,0:24:14.75,normal_Wed,,0,0,0,,I've missed this bag so much
+Dialogue: 2,0:24:15.07,0:24:16.60,wipe_Wed,,0,0,0,,Red schoolbag
+Dialogue: 2,0:24:17.53,0:24:19.29,normal_Wed,,0,0,0,,Hey, what is this?
+Dialogue: 2,0:24:20.27,0:24:24.00,normal_Wed,,0,0,0,,And so the shooting continued in the room full of traps
+Dialogue: 2,0:24:25.14,0:24:28.79,normal_Wed,,0,0,0,,Opening the last room...
+Dialogue: 2,0:24:32.62,0:24:33.59,wipe_Wed,,0,0,0,,What's in there?
+Dialogue: 2,0:24:34.81,0:24:37.10,normal_Wed,,0,0,0,,What room is this?
+Dialogue: 2,0:24:43.06,0:24:48.78,normal_Wed,,0,0,0,,For some reason, its the waiting room at TBS with the leftover extras
+Dialogue: 2,0:24:49.06,0:24:50.84,normal_Wed,,0,0,0,,That's weird. That's weird
+Dialogue: 2,0:24:51.33,0:24:52.55,normal_Wed,,0,0,0,,Let them leave!
+Dialogue: 2,0:24:52.55,0:24:56.66,normal_Wed,,0,0,0,,That now, this...
+Dialogue: 2,0:24:57.13,0:25:00.27,normal_Wed,,0,0,0,,This room is a room that cannot be opened
+Dialogue: 2,0:25:00.27,0:25:02.28,normal_Wed,,0,0,0,,Can't open?\N  -Can't be opened
+Dialogue: 2,0:25:02.97,0:25:05.07,normal_Wed,,0,0,0,,Is it your parents room?
+Dialogue: 2,0:25:05.07,0:25:07.63,normal_Wed,,0,0,0,,Parents... yes this is my parents room
+Dialogue: 2,0:25:07.63,0:25:08.27,normal_Wed,,0,0,0,,My parents...
+Dialogue: 2,0:25:08.82,0:25:15.86,normal_Wed,,0,0,0,,And so, the location shooting ended with the reunion of the impostor family
+Dialogue: 2,0:25:17.02,0:25:21.25,normal_Wed,,0,0,0,,Well, thank you very much for giving birth to me
+Dialogue: 2,0:25:21.25,0:25:22.86,normal_Wed,,0,0,0,,So embarrassing!
+Dialogue: 2,0:25:22.86,0:25:25.19,normal_Wed,,0,0,0,,Wait, your mom is crying
+Dialogue: 2,0:25:25.70,0:25:28.09,normal_Wed,,0,0,0,,Okay, OK, thank you all
+Dialogue: 2,0:25:28.98,0:25:34.27,normal_Wed,,0,0,0,,With the finish, discussions about post-editing plans begin
+Dialogue: 2,0:25:35.04,0:25:39.01,normal_Wed,,0,0,0,,It's a little bit confusing, some parts are too outrageous
+Dialogue: 2,0:25:39.01,0:25:41.57,normal_Wed,,0,0,0,,The sailor suit uniform
+Dialogue: 2,0:25:42.75,0:25:44.08,normal_Wed,,0,0,0,,How can that be dealt with?
+Dialogue: 2,0:25:44.08,0:25:45.78,normal_Wed,,0,0,0,,Well, anyway, find a way to edit it
+Dialogue: 2,0:25:45.78,0:25:47.37,normal_Wed,,0,0,0,,Sorry sorry sorry
+Dialogue: 2,0:25:47.52,0:25:50.29,normal_Wed,,0,0,0,,What about your father's face?
+Dialogue: 2,0:25:50.29,0:25:51.72,normal_Wed,,0,0,0,,I think its okay to not use the mosaic
+Dialogue: 2,0:25:51.72,0:25:54.09,normal_Wed,,0,0,0,,No \N-No?
+Dialogue: 2,0:25:54.09,0:25:57.52,normal_Wed,,0,0,0,,The father is not so good  \N-Not so good?
+Dialogue: 1,0:25:55.72,0:25:57.62,wipe_Wed,,0,0,0,,Ok for the mom though?
+Dialogue: 2,0:25:57.52,0:26:00.25,normal_Wed,,0,0,0,,No resemblance on the father's side
+Dialogue: 2,0:26:00.36,0:26:02.79,normal_Wed,,0,0,0,,He's too tall
+Dialogue: 2,0:26:02.79,0:26:05.87,normal_Wed,,0,0,0,,So much taller than my real father
+Dialogue: 2,0:26:05.87,0:26:10.11,normal_Wed,,0,0,0,,What was said before about shrinking in post?
+Dialogue: 1,0:26:09.00,0:26:11.22,wipe_Wed,,0,0,0,,What is he saying?
+Dialogue: 2,0:26:10.11,0:26:13.08,normal_Wed,,0,0,0,,If you can shrink him a lot...
+Dialogue: 2,0:26:13.99,0:26:18.56,normal_Wed,,0,0,0,,At this point, we reveal the truth
+Dialogue: 2,0:26:19.72,0:26:21.99,normal_Wed,,0,0,0,,What program were you told you were on today?
+Dialogue: 2,0:26:21.99,0:26:24.78,normal_Wed,,0,0,0,,Today is "I'm Home, Mom"
+Dialogue: 2,0:26:24.82,0:26:28.48,normal_Wed,,0,0,0,,In fact, this program is fake
+Dialogue: 2,0:26:28.48,0:26:31.17,normal_Wed,,0,0,0,,Eh? Not "I'm Home, Mom"?
+Dialogue: 2,0:26:31.36,0:26:33.45,normal_Wed,,0,0,0,,It's actually Wednesday Downtown
+Dialogue: 2,0:26:35.67,0:26:38.22,normal_Wed,,0,0,0,,Eh? Wait a second...
+Dialogue: 2,0:26:38.40,0:26:40.59,normal_Wed,,0,0,0,,Did you notice anything strange today?
+Dialogue: 2,0:26:40.59,0:26:44.13,normal_Wed,,0,0,0,,Ah, seriously, this program faked too much
+Dialogue: 2,0:26:44.71,0:26:47.11,normal_Wed,,0,0,0,,Saying "it's never been exposed once"
+Dialogue: 2,0:26:47.11,0:26:51.27,normal_Wed,,0,0,0,,"Hamada's shows often have this kind of thing"
+Dialogue: 2,0:26:52.62,0:26:56.78,normal_Wed,,0,0,0,,When the staff introduced themselves, they made it seem like they were professionals
+Dialogue: 2,0:26:57.75,0:27:00.56,normal_Wed,,0,0,0,,Did you really believe that height can be modified in post?
+Dialogue: 2,0:27:00.56,0:27:04.45,normal_Wed,,0,0,0,,Do I... I don't know so much about TV!
+Dialogue: 1,0:27:03.84,0:27:05.60,wipe_Wed,,0,0,0,,It's probably possible
+Dialogue: 2,0:27:05.53,0:27:08.60,normal_Wed,,0,0,0,,You shouldn't ask us young artists who lack popularity to do this kind of thing
+Dialogue: 2,0:27:08.60,0:27:10.71,normal_Wed,,0,0,0,,We'll really do anything we're told
+Dialogue: 2,0:27:10.71,0:27:15.41,normal_Wed,,0,0,0,,{\3c&H3732FF&\c&HFFFFFF&}In summary\N{\r}They'll do anything
+Dialogue: 1,0:27:12.77,0:27:13.95,wipe_Wed,,0,0,0,,Seriously
+Dialogue: 2,0:27:15.41,0:27:18.08,normal_Wed,,0,0,0,,Poor people!
+Dialogue: 2,0:27:18.08,0:27:20.12,normal_Wed,,0,0,0,,How about it? What do you think?
+Dialogue: 2,0:27:20.12,0:27:22.96,normal_Wed,,0,0,0,,Well, how to say...
+Dialogue: 2,0:27:22.96,0:27:24.55,normal_Wed,,0,0,0,,The part of mankind called sin
+Dialogue: 2,0:27:24.55,0:27:26.46,normal_Wed,,0,0,0,,These things happen
+Dialogue: 2,0:27:26.46,0:27:29.69,normal_Wed,,0,0,0,,But this is could also be seen as being professional in a sense, right? \N -That's true
+Dialogue: 2,0:27:29.69,0:27:31.36,normal_Wed,,0,0,0,,Because it's to do with work, they take it seriously
+Dialogue: 2,0:27:31.36,0:27:33.52,normal_Wed,,0,0,0,,The difference between professional and non-professional is here, right?
+Dialogue: 2,0:27:33.52,0:27:34.53,normal_Wed,,0,0,0,,No, no, that's not the case
+Dialogue: 2,0:27:34.53,0:27:35.70,normal_Wed,,0,0,0,,He's right
+Dialogue: 2,0:27:35.70,0:27:37.25,normal_Wed,,0,0,0,,Look, now because of Youtube
+Dialogue: 2,0:27:37.25,0:27:39.83,normal_Wed,,0,0,0,,The difference between professional and non-professional is a little unclear
+Dialogue: 2,0:27:39.83,0:27:41.29,normal_Wed,,0,0,0,,Those who can fake are professionals, right?
+Dialogue: 2,0:27:41.29,0:27:42.82,normal_Wed,,0,0,0,,That's not true, that's not true
+Dialogue: 2,0:27:44.03,0:27:46.74,normal_Wed,,0,0,0,,I think if you look carefully, you can find some fakes on Youtube
+Dialogue: 2,0:27:46.74,0:27:49.31,normal_Wed,,0,0,0,,But the last group of artists, The Mommy, had it tough
+Dialogue: 2,0:27:49.31,0:27:51.44,normal_Wed,,0,0,0,,They were told it was Hamada's show...
+Dialogue: 2,0:27:51.44,0:27:53.44,normal_Wed,,0,0,0,,Hamada is the kind of person who would say the VTR was boring
+Dialogue: 2,0:27:53.44,0:27:55.41,normal_Wed,,0,0,0,,"You can fake it, but make it interesting for me"
+Dialogue: 2,0:27:55.41,0:27:56.98,normal_Wed,,0,0,0,,That's not the case!
+Dialogue: 2,0:27:57.11,0:27:59.01,normal_Wed,,0,0,0,,That's his motto!
+Dialogue: 2,0:27:59.01,0:28:02.10,normal_Wed,,0,0,0,,What the hell? It's not!
+Dialogue: 2,0:28:04.22,0:28:07.06,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 2,0:28:10.36,0:28:12.40,normal_Wed,,0,0,0,,No no no...
+Dialogue: 2,0:28:12.40,0:28:14.73,normal_Wed,,0,0,0,,It's FUJIWARA!
+Dialogue: 2,0:28:18.73,0:28:20.03,normal_Wed,,0,0,0,,So
+Dialogue: 2,0:28:20.03,0:28:22.40,normal_Wed,,0,0,0,,Once performers become famous
+Dialogue: 2,0:28:22.40,0:28:26.38,normal_Wed,,0,0,0,,They will get lots of offers for business opportunities
+Dialogue: 2,0:28:26.38,0:28:29.89,normal_Wed,,0,0,0,,What type of things?
+Dialogue: 2,0:28:29.89,0:28:31.32,normal_Wed,,0,0,0,,Eh?
+Dialogue: 2,0:28:31.32,0:28:33.51,normal_Wed,,0,0,0,,Clothing
+Dialogue: 2,0:28:33.51,0:28:35.13,normal_Wed,,0,0,0,,Certainly clothing
+Dialogue: 2,0:28:35.13,0:28:37.19,normal_Wed,,0,0,0,,Food
+Dialogue: 2,0:28:37.19,0:28:38.29,normal_Wed,,0,0,0,,Barbecue restaurants
+Dialogue: 2,0:28:38.29,0:28:40.43,normal_Wed,,0,0,0,,Stuff like colored contact lenses too
+Dialogue: 2,0:28:40.43,0:28:42.87,normal_Wed,,0,0,0,,Yeah, i'm involved in that \N-Oh really
+Dialogue: 2,0:28:42.87,0:28:44.40,normal_Wed,,0,0,0,,I'm working on colored contact lenses and western-style clothes
+Dialogue: 2,0:28:44.40,0:28:45.62,normal_Wed,,0,0,0,,Oh yeah
+Dialogue: 2,0:28:45.62,0:28:48.23,normal_Wed,,0,0,0,,Is that a serious project?
+Dialogue: 2,0:28:48.23,0:28:49.44,normal_Wed,,0,0,0,,It's seriously being planned
+Dialogue: 2,0:28:49.76,0:28:50.86,normal_Wed,,0,0,0,,I've attended meetings and stuff
+Dialogue: 2,0:28:50.86,0:28:52.04,normal_Wed,,0,0,0,,Really? \N-Yes
+Dialogue: 2,0:28:52.04,0:28:53.27,normal_Wed,,0,0,0,,Seriously
+Dialogue: 2,0:28:53.27,0:28:55.44,normal_Wed,,0,0,0,,Yes \N-What?
+Dialogue: 2,0:28:55.44,0:28:56.73,normal_Wed,,0,0,0,,Isn't there that type?
+Dialogue: 2,0:28:56.73,0:28:57.71,normal_Wed,,0,0,0,,What?
+Dialogue: 2,0:28:57.71,0:28:59.99,normal_Wed,,0,0,0,,Just use the name for endorsement and nothing else \N-I guess
+Dialogue: 2,0:28:59.99,0:29:01.04,normal_Wed,,0,0,0,,So, how about this
+Dialogue: 2,0:29:01.04,0:29:04.66,normal_Wed,,0,0,0,,I bring you a theory about entertainer endorsement
+Dialogue: 2,0:29:05.01,0:29:05.89,normal_Wed,,0,0,0,,It's this:
+Dialogue: 2,0:29:05.89,0:29:14.20,normal_Wed,,0,0,0,,No matter how unpleasant the content, will entertainer's endorse anything if the pay is high enough?
+Dialogue: 2,0:29:16.20,0:29:17.43,normal_Wed,,0,0,0,,I see
+Dialogue: 2,0:29:17.43,0:29:20.31,normal_Wed,,0,0,0,,Your ex-wife made that milk tea shop
+Dialogue: 2,0:29:20.31,0:29:24.41,normal_Wed,,0,0,0,,She didn't make it
+Dialogue: 2,0:29:24.41,0:29:25.08,normal_Wed,,0,0,0,,She didn't?
+Dialogue: 2,0:29:25.08,0:29:27.30,normal_Wed,,0,0,0,,If she did, i'd say "wow"
+Dialogue: 2,0:29:27.97,0:29:29.51,normal_Wed,,0,0,0,,So weird
+Dialogue: 2,0:29:29.51,0:29:31.45,normal_Wed,,0,0,0,,Do it then i'll spit out a "wow"
+Dialogue: 2,0:29:33.45,0:29:43.13,normal_Wed,,0,0,0,,No matter how unpleasant the content, will entertainer's endorse anything if the pay is high enough?
+Dialogue: 2,0:29:44.06,0:29:46.18,normal_Wed,,0,0,0,,The initial target is
+Dialogue: 2,0:29:48.33,0:29:51.46,normal_Wed,,0,0,0,,Teshima Yu
+Dialogue: 2,0:29:50.69,0:29:52.26,wipe_Wed,,0,0,0,,Maybe
+Dialogue: 2,0:29:52.48,0:29:58.78,normal_Wed,,0,0,0,,Initially, her agent tells her about a restaurant
+Dialogue: 2,0:29:59.38,0:30:02.31,normal_Wed,,0,0,0,,But no details are known yet
+Dialogue: 2,0:30:02.31,0:30:07.72,normal_Wed,,0,0,0,,There is a restaurant endorsement job coming up
+Dialogue: 2,0:30:07.72,0:30:09.82,normal_Wed,,0,0,0,,For me？\N-Yes
+Dialogue: 2,0:30:09.82,0:30:12.89,normal_Wed,,0,0,0,,What type?
+Dialogue: 2,0:30:12.89,0:30:15.86,normal_Wed,,0,0,0,,We will talk about the details gradually
+Dialogue: 2,0:30:15.86,0:30:20.60,normal_Wed,,0,0,0,,It seems the owner is a big fan of yours
+Dialogue: 1,0:30:20.57,0:30:22.85,wipe_Wed,,0,0,0,,Quite convincing
+Dialogue: 2,0:30:20.60,0:30:23.50,normal_Wed,,0,0,0,,He wants to work with you
+Dialogue: 2,0:30:23.50,0:30:25.10,normal_Wed,,0,0,0,,Are there really such people?
+Dialogue: 0,0:30:25.10,0:30:27.00,normal_Wed,,0,0,0,,They want to try it out
+Dialogue: 2,0:30:27.17,0:30:29.37,normal_Wed,,0,0,0,,Probably a big pervert
+Dialogue: 2,0:30:29.37,0:30:32.01,normal_Wed,,0,0,0,,Highly probable
+Dialogue: 2,0:30:32.01,0:30:35.05,normal_Wed,,0,0,0,,It doesn't feel like an ordinary person
+Dialogue: 2,0:30:35.05,0:30:35.81,normal_Wed,,0,0,0,,Really?
+Dialogue: 2,0:30:36.21,0:30:38.95,normal_Wed,,0,0,0,,Like weird fetishes or something
+Dialogue: 2,0:30:39.24,0:30:43.49,normal_Wed,,0,0,0,,"That kind of guy is either a pervert or has weird fetishes"
+Dialogue: 2,0:30:44.19,0:30:49.50,normal_Wed,,0,0,0,,Teshima has a deep understanding
+Dialogue: 2,0:30:50.29,0:30:54.40,normal_Wed,,0,0,0,,I think I must give people a dirty kind of impression
+Dialogue: 2,0:30:54.40,0:30:58.94,normal_Wed,,0,0,0,,So i'd like a simple and fresh store
+Dialogue: 2,0:30:58.94,0:31:01.47,normal_Wed,,0,0,0,,Somewhere where women can easily enter
+Dialogue: 2,0:31:02.00,0:31:05.48,normal_Wed,,0,0,0,,She wants a refreshing place
+Dialogue: 2,0:31:05.92,0:31:10.48,normal_Wed,,0,0,0,,However, the name of the restaurant is...
+Dialogue: 2,0:31:11.60,0:31:13.81,normal_Wed,,0,0,0,,"Yakiniku Teshima"
+Dialogue: 2,0:31:16.29,0:31:17.75,normal_Wed,,0,0,0,,I think I've seen it somewhere before
+Dialogue: 2,0:31:18.48,0:31:23.41,normal_Wed,,0,0,0,,Will she lend her names depending on the amount of money?
+Dialogue: 2,0:31:22.91,0:31:24.32,wipe_Wed,,0,0,0,,This...
+Dialogue: 2,0:31:25.06,0:31:27.37,normal_Wed,,0,0,0,,So, a few days later
+Dialogue: 2,0:31:27.76,0:31:33.27,special_Wed_1_X,,0,0,0,,{\move(720,1080,720,890,0,150)}Discussions with a fake agency
+Dialogue: 2,0:31:33.70,0:31:35.44,normal_Wed,,0,0,0,,Getting to the point
+Dialogue: 2,0:31:35.44,0:31:41.04,normal_Wed,,0,0,0,,About planning a restaurant, have you ever thought about what kind of restaurant you want to plan?
+Dialogue: 2,0:31:41.51,0:31:44.55,normal_Wed,,0,0,0,,If I go out to eat
+Dialogue: 2,0:31:44.55,0:31:49.12,normal_Wed,,0,0,0,,Almost all the restaurants I go to are barbecue restaurants.  \N-Yakiniku restaurants?
+Dialogue: 2,0:31:49.12,0:31:54.79,normal_Wed,,0,0,0,,It would be nice to plan the type of restaurant I like
+Dialogue: 2,0:31:55.32,0:32:00.06,normal_Wed,,0,0,0,,The thing she likes, by chance, is yakiniku
+Dialogue: 2,0:32:00.99,0:32:04.00,normal_Wed,,0,0,0,,So, the store's name is firstly put forward
+Dialogue: 2,0:32:04.00,0:32:06.94,normal_Wed,,0,0,0,,Teshima Yu Catering Plan
+Dialogue: 2,0:32:06.94,0:32:08.97,normal_Wed,,0,0,0,,Turn to the first page first
+Dialogue: 2,0:32:10.17,0:32:15.41,normal_Wed,,0,0,0,,Ahhhhh so good \N -Yes
+Dialogue: 1,0:32:13.52,0:32:15.77,wipe_Wed,,0,0,0,,Simple and straightforward
+Dialogue: 2,0:32:17.82,0:32:19.85,normal_Wed,,0,0,0,,"Yakiniku Teshima"\N  -Yes
+Dialogue: 2,0:32:19.85,0:32:21.65,normal_Wed,,0,0,0,,That's not the name of the restaurant, is it?
+Dialogue: 2,0:32:21.65,0:32:23.15,normal_Wed,,0,0,0,,That's the name of the restaurant?
+Dialogue: 2,0:32:23.15,0:32:24.42,normal_Wed,,0,0,0,,Ah, the name of the restaurant?
+Dialogue: 2,0:32:24.42,0:32:28.49,normal_Wed,,0,0,0,,How about Yakiniku Teshima Yu?
+Dialogue: 2,0:32:28.49,0:32:31.49,normal_Wed,,0,0,0,,Is it OK?
+Dialogue: 2,0:32:31.49,0:32:35.33,normal_Wed,,0,0,0,,How to say... no, I'm happy.\N  -Ok
+Dialogue: 2,0:32:35.51,0:32:36.49,normal_Wed,,0,0,0,,Happy and a little shy
+Dialogue: 2,0:32:36.49,0:32:39.14,normal_Wed,,0,0,0,,The feeling of happiness and shyness
+Dialogue: 2,0:32:39.13,0:32:40.08,normal_Wed,,0,0,0,,It would happen
+Dialogue: 2,0:32:41.09,0:32:45.43,normal_Wed,,0,0,0,,Although a little concerned about the name of the store, it passes
+Dialogue: 2,0:32:45.89,0:32:49.11,normal_Wed,,0,0,0,,Have you ever thought about how to do a barbecue restaurant?
+Dialogue: 2,0:32:49.45,0:32:52.25,normal_Wed,,0,0,0,,The kind where you can go with a little privacy
+Dialogue: 2,0:32:52.25,0:32:53.95,normal_Wed,,0,0,0,,A store with a slightly dark feel
+Dialogue: 2,0:32:54.04,0:32:58.15,normal_Wed,,0,0,0,,It's impossible for you to go to "Yakiniku Yu Teshima" in disguise
+Dialogue: 2,0:32:58.30,0:33:00.03,normal_Wed,,0,0,0,,Please turn to the next page
+Dialogue: 2,0:33:00.94,0:33:03.89,normal_Wed,,0,0,0,,It's the design of the store  \N-Wow
+Dialogue: 1,0:33:03.12,0:33:04.65,wipe_Wed,,0,0,0,,The picture is pretty cute
+Dialogue: 2,0:33:03.89,0:33:06.46,normal_Wed,,0,0,0,,What about? How does it look and feel \N-It's cute!
+Dialogue: 2,0:33:06.46,0:33:10.77,normal_Wed,,0,0,0,,It's not too fashionable so it has a welcoming feeling
+Dialogue: 2,0:33:10.77,0:33:12.27,normal_Wed,,0,0,0,,I really like the atmosphere
+Dialogue: 2,0:33:12.73,0:33:17.24,normal_Wed,,0,0,0,,This A plan seems to be consistent with her thoughts
+Dialogue: 2,0:33:18.14,0:33:20.83,normal_Wed,,0,0,0,,Of course, the main attraction is coming
+Dialogue: 2,0:33:24.08,0:33:29.35,normal_Wed,,0,0,0,,Plan B. \N -Wait. Oh, okay
+Dialogue: 2,0:33:29.35,0:33:32.72,normal_Wed,,0,0,0,,This is the Teshima design
+Dialogue: 2,0:33:32.72,0:33:34.72,normal_Wed,,0,0,0,,Is this the outside?
+Dialogue: 2,0:33:34.72,0:33:37.86,normal_Wed,,0,0,0,,Yes, they are signs
+Dialogue: 2,0:33:35.50,0:33:36.85,wipe_Wed,,0,0,0,,Looks like its in Shin-Okubo
+Dialogue: 2,0:33:37.86,0:33:40.66,normal_Wed,,0,0,0,,Hey, it's great  \N-Yes
+Dialogue: 2,0:33:40.93,0:33:43.20,normal_Wed,,0,0,0,,This is inside? My photos
+Dialogue: 2,0:33:43.20,0:33:45.67,normal_Wed,,0,0,0,,Yes
+Dialogue: 2,0:33:45.67,0:33:49.67,normal_Wed,,0,0,0,,It's all Teshima Yu
+Dialogue: 1,0:33:48.87,0:33:51.12,wipe_Wed,,0,0,0,,"Delicious and cheap"
+Dialogue: 2,0:33:50.32,0:33:53.61,normal_Wed,,0,0,0,,A and B are not at all similar
+Dialogue: 2,0:33:53.61,0:33:54.57,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:33:55.05,0:34:01.18,normal_Wed,,0,0,0,,It's a little unsettling, it looks a little like a adult store, maybe a bit confusing
+Dialogue: 1,0:33:58.37,0:34:00.45,wipe_Wed,,0,0,0,,She said it
+Dialogue: 2,0:34:01.18,0:34:02.25,normal_Wed,,0,0,0,,A little rude
+Dialogue: 2,0:34:02.25,0:34:05.17,normal_Wed,,0,0,0,,Could be a bit embarrassing for the owner
+Dialogue: 2,0:34:05.67,0:34:10.50,normal_Wed,,0,0,0,,In other words, it's like a customs-free store
+Dialogue: 2,0:34:10.92,0:34:16.48,normal_Wed,,0,0,0,,So it seems she wont choose B
+Dialogue: 2,0:34:17.19,0:34:22.97,normal_Wed,,0,0,0,,The choice of A will use up a lot of the budget \N-Hmmm
+Dialogue: 2,0:34:23.27,0:34:29.51,normal_Wed,,0,0,0,,This is a question of endorsement fees or planning fees
+Dialogue: 2,0:34:29.51,0:34:34.48,normal_Wed,,0,0,0,,If you choose A, you can get about 30000 yen a month
+Dialogue: 2,0:34:34.78,0:34:37.89,normal_Wed,,0,0,0,,B will require less money spent on publicity
+Dialogue: 2,0:34:38.22,0:34:46.86,normal_Wed,,0,0,0,,So for this one you can get 500,000 yen per month
+Dialogue: 1,0:34:41.45,0:34:43.85,wipe_Wed,,0,0,0,,A huge difference
+Dialogue: 2,0:34:48.00,0:34:52.17,normal_Wed,,0,0,0,,A blatant demonstration of how the pay gap works
+Dialogue: 2,0:34:54.10,0:34:56.87,normal_Wed,,0,0,0,,This one seems to be a bit more suitable for the masses
+Dialogue: 2,0:34:56.91,0:35:00.34,normal_Wed,,0,0,0,,Hey, it's bad!
+Dialogue: 2,0:35:00.34,0:35:04.01,normal_Wed,,0,0,0,,A is maybe a bit too higher class
+Dialogue: 2,0:35:03.47,0:35:04.80,wipe_Wed,,0,0,0,,She heard the fee
+Dialogue: 2,0:35:04.81,0:35:07.52,normal_Wed,,0,0,0,,How about choosing A?
+Dialogue: 2,0:35:08.40,0:35:15.33,normal_Wed,,0,0,0,,Slowly, she changes her choice with impossible reasons
+Dialogue: 1,0:35:14.45,0:35:16.25,wipe_Wed,,0,0,0,,The second one is not normal at all
+Dialogue: 2,0:35:15.33,0:35:18.19,normal_Wed,,0,0,0,,After re-considering
+Dialogue: 2,0:35:18.19,0:35:26.94,normal_Wed,,0,0,0,,If we go with plan A, people may think i'm getting too cocky
+Dialogue: 2,0:35:27.74,0:35:28.44,normal_Wed,,0,0,0,,I know
+Dialogue: 2,0:35:28.44,0:35:32.14,normal_Wed,,0,0,0,,Then how about going ahead with plan B?
+Dialogue: 2,0:35:32.68,0:35:34.61,normal_Wed,,0,0,0,,It's cute
+Dialogue: 2,0:35:34.61,0:35:38.77,normal_Wed,,0,0,0,,It has a good feeling
+Dialogue: 2,0:35:40.57,0:35:43.68,normal_Wed,,0,0,0,,Teshima, who is easily and superficially obsessed with money
+Dialogue: 2,0:35:45.55,0:35:48.86,normal_Wed,,0,0,0,,At this point, she is left alone with her agent
+Dialogue: 2,0:35:48.86,0:35:50.12,wipe_Wed,,0,0,0,,What will they say?
+Dialogue: 2,0:35:52.16,0:35:55.40,normal_Wed,,0,0,0,,It would have been better to go with A
+Dialogue: 2,0:35:55.40,0:35:56.40,normal_Wed,,0,0,0,,Indeed
+Dialogue: 2,0:35:56.71,0:35:59.47,normal_Wed,,0,0,0,,But the pay is completely different
+Dialogue: 2,0:35:59.47,0:36:02.21,normal_Wed,,0,0,0,,If we think about the future
+Dialogue: 2,0:36:02.91,0:36:05.68,normal_Wed,,0,0,0,,It would be good for settling down
+Dialogue: 2,0:36:05.68,0:36:07.68,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:36:07.68,0:36:08.88,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:36:10.18,0:36:12.80,normal_Wed,,0,0,0,,After confirming Teshima's thoughts
+Dialogue: 2,0:36:12.80,0:36:14.51,wipe_Wed,,0,0,0,,A is much better
+Dialogue: 2,0:36:14.51,0:36:15.84,normal_Wed,,0,0,0,,Next
+Dialogue: 2,0:36:16.33,0:36:19.04,normal_Wed,,0,0,0,,About the background music in the restaurant
+Dialogue: 2,0:36:19.04,0:36:23.19,normal_Wed,,0,0,0,,In the case of program A, it's jazz
+Dialogue: 2,0:36:23.19,0:36:25.06,normal_Wed,,0,0,0,,Please listen
+Dialogue: 2,0:36:26.33,0:36:28.06,normal_Wed,,0,0,0,,So sad!
+Dialogue: 2,0:36:28.06,0:36:31.53,normal_Wed,,0,0,0,,But you do often hear this kind of music being played
+Dialogue: 2,0:36:31.22,0:36:32.84,wipe_Wed,,0,0,0,,At trendy barbecue places
+Dialogue: 2,0:36:32.80,0:36:36.11,normal_Wed,,0,0,0,,It's very good. It's an immersive feeling
+Dialogue: 2,0:36:36.61,0:36:38.94,normal_Wed,,0,0,0,,This is the other
+Dialogue: 2,0:36:39.55,0:36:45.85,normal_Wed,,0,0,0,,Teshima Yu♪ Teshima Yu♪ Yakiniku Teshima Yu♪
+Dialogue: 2,0:36:45.85,0:36:49.19,normal_Wed,,0,0,0,,Ju Ju Ju (the sound of barbecue) One piece into the soul♡
+Dialogue: 2,0:36:49.19,0:36:53.16,normal_Wed,,0,0,0,,What do you like? Barbecued ribs?
+Dialogue: 2,0:36:53.16,0:36:55.46,normal_Wed,,0,0,0,,Or me? ♪
+Dialogue: 2,0:36:55.56,0:36:56.99,normal_Wed,,0,0,0,,Custom-made
+Dialogue: 2,0:36:56.99,0:36:58.73,normal_Wed,,0,0,0,,Awful
+Dialogue: 2,0:36:58.73,0:37:01.83,normal_Wed,,0,0,0,,Teshima Yu♪ Teshima Yu♪ Yakiniku Teshima Yu♪
+Dialogue: 2,0:37:03.30,0:37:06.27,normal_Wed,,0,0,0,,Will this keep going?
+Dialogue: 2,0:37:06.27,0:37:10.03,normal_Wed,,0,0,0,,Yes, it'll loop
+Dialogue: 2,0:37:10.74,0:37:14.74,normal_Wed,,0,0,0,,"Or me?" Is that ok?
+Dialogue: 2,0:37:14.74,0:37:16.81,normal_Wed,,0,0,0,,Do you care about the lyrics?
+Dialogue: 2,0:37:17.05,0:37:18.11,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:37:18.11,0:37:23.59,normal_Wed,,0,0,0,,It doesn't seem like the background music of a restaurant
+Dialogue: 2,0:37:23.59,0:37:25.59,normal_Wed,,0,0,0,,"Or me"...
+Dialogue: 2,0:37:25.92,0:37:28.75,normal_Wed,,0,0,0,,But of course, in terms of renumeration
+Dialogue: 2,0:37:29.22,0:37:35.05,normal_Wed,,0,0,0,,Scheme A is only used as is, so you will not be paid
+Dialogue: 2,0:37:35.05,0:37:40.17,normal_Wed,,0,0,0,,Scheme B will give you an extra 100,000 yen per month
+Dialogue: 2,0:37:40.17,0:37:46.04,normal_Wed,,0,0,0,,Which is better A or B?
+Dialogue: 2,0:37:46.04,0:37:49.51,normal_Wed,,0,0,0,,B
+Dialogue: 2,0:37:49.51,0:37:52.98,normal_Wed,,0,0,0,,I already remember it, its catchy
+Dialogue: 1,0:37:51.40,0:37:54.20,wipe_Wed,,0,0,0,,Be strong!
+Dialogue: 2,0:37:52.98,0:37:58.78,normal_Wed,,0,0,0,,The rhythm is good, don't you think?
+Dialogue: 2,0:37:57.35,0:37:58.30,wipe_Wed,,0,0,0,,How!?
+Dialogue: 2,0:37:58.99,0:38:01.02,normal_Wed,,0,0,0,,You've got a good thing going
+Dialogue: 2,0:38:01.02,0:38:02.47,normal_Wed,,0,0,0,,It's pleasant to listen to
+Dialogue: 2,0:38:04.53,0:38:07.12,wipe_Wed,,0,0,0,,600,000 yen now
+Dialogue: 2,0:38:05.12,0:38:06.21,normal_Wed,,0,0,0,,After that
+Dialogue: 2,0:38:07.13,0:38:13.01,normal_Wed,,0,0,0,,For social media, you'll get 10,000 yen every 1000 likes
+Dialogue: 2,0:38:13.01,0:38:16.27,normal_Wed,,0,0,0,,200,000 yen when introducing the name of the store on a TV program
+Dialogue: 2,0:38:16.27,0:38:17.87,normal_Wed,,0,0,0,,Downtown DX
+Dialogue: 2,0:38:20.18,0:38:25.11,normal_Wed,,0,0,0,,Those two will roll with the topic
+Dialogue: 2,0:38:27.11,0:38:30.85,normal_Wed,,0,0,0,,Yes, they answer people's questions. Both are very kind
+Dialogue: 2,0:38:31.69,0:38:37.06,normal_Wed,,0,0,0,,As all of the unpleasant proposals are accepted, a feeling of freshness is long gone
+Dialogue: 2,0:38:37.56,0:38:43.23,normal_Wed,,0,0,0,,It ends up with a large contract totaling 1.22 million yen per month
+Dialogue: 2,0:38:44.40,0:38:46.45,normal_Wed,,0,0,0,,So, the truth is revealed
+Dialogue: 1,0:38:45.45,0:38:47.35,wipe_Wed,,0,0,0,,So embarrassing
+Dialogue: 1,0:38:47.67,0:38:49.17,wipe_Wed,,0,0,0,,What the hell?
+Dialogue: 2,0:38:51.17,0:38:53.88,normal_Wed,,0,0,0,,I'm scared, what is it?
+Dialogue: 2,0:38:55.61,0:38:58.72,normal_Wed,,0,0,0,,Th-that, what?
+Dialogue: 1,0:38:56.75,0:38:58.02,wipe_Wed,,0,0,0,,Something happened, right?
+Dialogue: 2,0:38:59.18,0:39:02.65,normal_Wed,,0,0,0,,We are Wednesday Downtown \N  -Wow!
+Dialogue: 2,0:39:03.09,0:39:09.86,normal_Wed,,0,0,0,,"No matter how unpleasant the content, will entertainer's endorse anything if the pay is high enough?"
+Dialogue: 2,0:39:09.86,0:39:13.30,normal_Wed,,0,0,0,,if it's between 30,000 yen and 500,000 yen
+Dialogue: 2,0:39:13.30,0:39:16.17,normal_Wed,,0,0,0,,You'd choose the 500,000 yen one, of course
+Dialogue: 2,0:39:16.17,0:39:19.54,normal_Wed,,0,0,0,,Those signs
+Dialogue: 2,0:39:19.54,0:39:21.57,normal_Wed,,0,0,0,,Those are used in the adult places, right?
+Dialogue: 2,0:39:22.50,0:39:27.16,normal_Wed,,0,0,0,,And so, we know that Teshima is unfortunately not resistant to money
+Dialogue: 2,0:39:28.04,0:39:31.90,normal_Wed,,0,0,0,,Next is an additional verificaiton
+Dialogue: 2,0:39:33.37,0:39:35.02,normal_Wed,,0,0,0,,The target is
+Dialogue: 2,0:39:37.76,0:39:43.93,normal_Wed,,0,0,0,,Nana Suzuki, who has ranked 1st in popularity lists before
+Dialogue: 2,0:39:41.44,0:39:42.95,wipe_Wed,,0,0,0,,She's risen?
+Dialogue: 0,0:39:44.50,0:39:45.55,normal_Wed,,0,0,0,,I definitely wouldn't do it
+Dialogue: 0,0:39:45.55,0:39:46.20,normal_Wed,,0,0,0,,I might
+Dialogue: 0,0:39:46.20,0:39:47.74,normal_Wed,,0,0,0,,I still need to work harder
+Dialogue: 2,0:39:47.74,0:39:50.97,normal_Wed,,0,0,0,,Yahagi~ Yahagi~
+Dialogue: 2,0:39:50.97,0:39:52.50,normal_Wed,,0,0,0,,That would be even worse
+Dialogue: 2,0:39:53.97,0:39:56.91,normal_Wed,,0,0,0,,I'd refuse that just out of embarrassment
+Dialogue: 2,0:39:57.70,0:40:01.98,normal_Wed,,0,0,0,,Here, the plan is also discussed in advance
+Dialogue: 2,0:40:06.08,0:40:07.62,normal_Wed,,0,0,0,,My favorite is yakiniku
+Dialogue: 2,0:40:08.26,0:40:12.43,normal_Wed,,0,0,0,,The same as Teshima Yu, she hopes to run a yakiniku place
+Dialogue: 2,0:40:13.17,0:40:15.73,normal_Wed,,0,0,0,,Please turn to the next page
+Dialogue: 2,0:40:16.06,0:40:18.49,normal_Wed,,0,0,0,,"Yakiniku Nana Suzuki"\N  -Yes
+Dialogue: 2,0:40:18.49,0:40:23.07,normal_Wed,,0,0,0,,Oh, yakiniku, i'm so happy!
+Dialogue: 2,0:40:24.27,0:40:26.84,normal_Wed,,0,0,0,,Is the name of the restaurant "Yakiniku Suzuki Nana"?
+Dialogue: 2,0:40:26.84,0:40:29.11,normal_Wed,,0,0,0,,Yes  \N-Awesome
+Dialogue: 2,0:40:29.87,0:40:31.07,normal_Wed,,0,0,0,,That's great. \N -What do you think?
+Dialogue: 2,0:40:31.07,0:40:36.58,normal_Wed,,0,0,0,,How is it? It's clear and easy to understand
+Dialogue: 2,0:40:37.51,0:40:39.90,normal_Wed,,0,0,0,,Store name tentatively adopted
+Dialogue: 2,0:40:40.95,0:40:42.05,normal_Wed,,0,0,0,,Please turn to the next page
+Dialogue: 2,0:40:42.45,0:40:44.55,normal_Wed,,0,0,0,,Super chic  \N-Thank you
+Dialogue: 2,0:40:44.55,0:40:47.19,normal_Wed,,0,0,0,,Very fashionable \N-Thanks
+Dialogue: 2,0:40:47.36,0:40:48.99,normal_Wed,,0,0,0,,I like it \N-The vibe?
+Dialogue: 2,0:40:48.99,0:40:50.16,normal_Wed,,0,0,0,,I like it
+Dialogue: 2,0:40:50.33,0:40:53.03,normal_Wed,,0,0,0,,Please turn to the next page
+Dialogue: 2,0:40:53.03,0:40:54.03,normal_Wed,,0,0,0,,Another option has been prepared
+Dialogue: 2,0:40:54.28,0:40:56.83,normal_Wed,,0,0,0,,Eh? What is this?
+Dialogue: 1,0:40:54.82,0:40:56.50,wipe_Wed,,0,0,0,,This is too much, right?
+Dialogue: 2,0:40:59.37,0:41:03.54,normal_Wed,,0,0,0,,This is a design that completely highlights Nana Suzuki
+Dialogue: 1,0:40:59.50,0:41:02.20,wipe_Wed,,0,0,0,,It fits Teshima Yu's persona at least
+Dialogue: 2,0:41:03.84,0:41:05.61,normal_Wed,,0,0,0,,I'm glad, but..
+Dialogue: 2,0:41:05.61,0:41:10.51,normal_Wed,,0,0,0,,I feel a like it won't do so well
+Dialogue: 2,0:41:11.54,0:41:15.32,normal_Wed,,0,0,0,,I think its a bit unapproachable
+Dialogue: 1,0:41:12.72,0:41:14.55,wipe_Wed,,0,0,0,,She said it
+Dialogue: 1,0:41:14.90,0:41:16.47,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 2,0:41:16.09,0:41:19.16,normal_Wed,,0,0,0,,Well, I think it will fail
+Dialogue: 2,0:41:19.56,0:41:24.16,normal_Wed,,0,0,0,,Suzuki Nana shows clear disapproval of this look
+Dialogue: 2,0:41:22.23,0:41:24.48,wipe_Wed,,0,0,0,,A normal reaction
+Dialogue: 2,0:41:24.16,0:41:27.27,normal_Wed,,0,0,0,,Regarding your fee
+Dialogue: 2,0:41:27.27,0:41:29.20,normal_Wed,,0,0,0,,If Option A is used
+Dialogue: 2,0:41:29.20,0:41:31.01,normal_Wed,,0,0,0,,It will use a lot of the budget
+Dialogue: 2,0:41:31.01,0:41:33.20,normal_Wed,,0,0,0,,Yes, I understand
+Dialogue: 2,0:41:33.37,0:41:40.04,normal_Wed,,0,0,0,,We can give you about 30,000 yen per month, 30,000 per store
+Dialogue: 2,0:41:40.04,0:41:46.81,normal_Wed,,0,0,0,,The initial cost of B is not much \N-Ok
+Dialogue: 2,0:41:46.81,0:41:50.72,normal_Wed,,0,0,0,,So you can get 500,000 yen per month for this one
+Dialogue: 2,0:41:50.95,0:41:53.99,normal_Wed,,0,0,0,,So much difference \NYes, every month
+Dialogue: 2,0:41:53.99,0:41:55.56,normal_Wed,,0,0,0,,Is the difference really that big? \N-Yes
+Dialogue: 2,0:41:55.56,0:42:01.63,normal_Wed,,0,0,0,,After all, its a comprehensive use of your image and name \N-I see
+Dialogue: 2,0:42:01.86,0:42:05.13,normal_Wed,,0,0,0,,That's what it is
+Dialogue: 2,0:42:05.13,0:42:08.26,normal_Wed,,0,0,0,,Ah, just give it a go!
+Dialogue: 2,0:42:09.27,0:42:11.44,normal_Wed,,0,0,0,,That was fast \NSuper fast
+Dialogue: 2,0:42:11.81,0:42:15.48,normal_Wed,,0,0,0,,But, the menu is cheap. If it's cheap and tasty, people will come in, right?
+Dialogue: 2,0:42:15.48,0:42:17.48,normal_Wed,,0,0,0,,I think people will come \N-Agreed
+Dialogue: 2,0:42:17.36,0:42:19.29,wipe_Wed,,0,0,0,,Said herself it looks like it will fail
+Dialogue: 2,0:42:17.48,0:42:18.95,normal_Wed,,0,0,0,,After all, it is a ready-made store
+Dialogue: 2,0:42:19.35,0:42:21.35,normal_Wed,,0,0,0,,I choose B \N-Okay, I see
+Dialogue: 2,0:42:21.35,0:42:23.29,normal_Wed,,0,0,0,,Thank you
+Dialogue: 2,0:42:21.46,0:42:23.77,wipe_Wed,,0,0,0,,Quick decision!
+Dialogue: 2,0:42:23.77,0:42:27.48,normal_Wed,,0,0,0,,Next, the background music
+Dialogue: 2,0:42:28.08,0:42:34.48,normal_Wed,,0,0,0,,Nana Suzuki♪ Nana Suzuki♪ Yakiniku Nana Suzuki♪
+Dialogue: 2,0:42:34.48,0:42:37.80,normal_Wed,,0,0,0,,Ju Ju Ju (the sound of barbecue) One piece into the soul♡
+Dialogue: 2,0:42:37.80,0:42:41.77,normal_Wed,,0,0,0,,Is it beef tongue you like? Grilled ribeye?
+Dialogue: 2,0:42:41.77,0:42:43.57,normal_Wed,,0,0,0,,Or me?♪
+Dialogue: 2,0:42:43.57,0:42:45.58,normal_Wed,,0,0,0,,Awesome
+Dialogue: 2,0:42:45.74,0:42:47.31,normal_Wed,,0,0,0,,How about this one?
+Dialogue: 2,0:42:47.31,0:42:51.21,normal_Wed,,0,0,0,,People eating will feel tired, right?
+Dialogue: 2,0:42:51.75,0:43:00.46,normal_Wed,,0,0,0,,It's like one of those advertising trucks going around Shibuya
+Dialogue: 2,0:43:02.02,0:43:04.63,normal_Wed,,0,0,0,,Correct answer
+Dialogue: 2,0:43:04.63,0:43:08.80,normal_Wed,,0,0,0,,For Option A, you will not be paid monthly
+Dialogue: 2,0:43:08.80,0:43:12.79,normal_Wed,,0,0,0,,Plan B will give you 100,000 yen per month
+Dialogue: 2,0:43:12.80,0:43:15.44,normal_Wed,,0,0,0,,A big difference
+Dialogue: 2,0:43:15.60,0:43:22.14,normal_Wed,,0,0,0,,Option B is more compatible with store B. I choose option B \N-Got it
+Dialogue: 2,0:43:22.51,0:43:27.08,normal_Wed,,0,0,0,,How about a discount when you play this music \N-Good idea!
+Dialogue: 2,0:43:28.18,0:43:30.99,normal_Wed,,0,0,0,,Personal proposal of a discount program
+Dialogue: 2,0:43:31.76,0:43:36.96,normal_Wed,,0,0,0,,Suzuki ends up with a full package of 1.22 million yen per month
+Dialogue: 2,0:43:37.16,0:43:44.33,special_Wed_1_X,,0,0,0,,{\c&HFFFFFF&\3c&H0000BA&\move(720,1080,720,875,0,150)}The truth is revealed
+Dialogue: 2,0:43:37.90,0:43:44.33,normal_Wed,,0,0,0,,Whoa, what's going on!
+Dialogue: 1,0:43:39.42,0:43:40.51,wipe_Wed,,0,0,0,,How could she also do this
+Dialogue: 2,0:43:44.64,0:43:47.90,normal_Wed,,0,0,0,,Thus we explain the project
+Dialogue: 2,0:43:49.04,0:43:51.61,normal_Wed,,0,0,0,,So annoying!
+Dialogue: 2,0:43:51.61,0:43:54.21,normal_Wed,,0,0,0,,Really, really annoying
+Dialogue: 2,0:43:54.21,0:43:57.18,normal_Wed,,0,0,0,,What will people think of this?
+Dialogue: 2,0:43:57.48,0:44:00.32,normal_Wed,,0,0,0,,What if my work is reduced? \NHow much work do you have now?
+Dialogue: 2,0:44:00.32,0:44:03.02,normal_Wed,,0,0,0,,I can't make it work if I have less than I already do now
+Dialogue: 2,0:44:03.02,0:44:04.52,normal_Wed,,0,0,0,,It is really unimaginable
+Dialogue: 2,0:44:04.52,0:44:10.36,normal_Wed,,0,0,0,,{\c&H2A0DF0&\3c&HFFFFFF&}In summary\N{\c\3c}The next challenge is Yakiniku Asahi Nao
+Dialogue: 2,0:44:12.63,0:44:14.86,normal_Wed,,0,0,0,,What do you think? \N-So scary
+Dialogue: 2,0:44:14.86,0:44:17.07,normal_Wed,,0,0,0,,Can people change like this?
+Dialogue: 2,0:44:17.07,0:44:19.07,normal_Wed,,0,0,0,,Is it possible to switch so easily?
+Dialogue: 2,0:44:19.07,0:44:20.87,normal_Wed,,0,0,0,,Women of that rank...
+Dialogue: 2,0:44:22.74,0:44:27.52,normal_Wed,,0,0,0,,At the stage of planning, wouldn't producers voice their opinions?
+Dialogue: 2,0:44:27.52,0:44:29.20,normal_Wed,,0,0,0,,This is better and so on
+Dialogue: 2,0:44:29.20,0:44:31.08,normal_Wed,,0,0,0,,Up until there i thought it was ok...
+Dialogue: 2,0:44:31.08,0:44:37.52,normal_Wed,,0,0,0,,They wouldn't let their people just do whatever they want, right?
+Dialogue: 0,0:44:37.52,0:44:39.09,normal_Wed,,0,0,0,,I guess
+Dialogue: 2,0:44:39.09,0:44:41.40,normal_Wed,,0,0,0,,But how about if this kind of opportunity really came to you
+Dialogue: 2,0:44:41.40,0:44:43.96,normal_Wed,,0,0,0,,Would you go along with it?
+Dialogue: 2,0:44:43.96,0:44:50.10,normal_Wed,,0,0,0,,Honestly, Wednesday Downtown is a show that is using someone's name
+Dialogue: 2,0:44:50.10,0:44:52.22,normal_Wed,,0,0,0,,Downtown's \NReally?
+Dialogue: 2,0:44:52.22,0:44:56.22,normal_Wed,,0,0,0,,Using the Downtown for fraudulent purposes
+Dialogue: 0,0:44:58.24,0:46:14.78,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

@@ -1,0 +1,1098 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: RETROGAMES RAW.mp4
+Video File: RETROGAMES RAW.mp4
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 0.375000
+Scroll Position: 79
+Active Line: 86
+Video Position: 3369
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hamada,Arial,50,&H00F61718,&H000000FF,&H00FFFFFF,&H00F61718,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,50,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,50,&H000372E3,&H000000FF,&H00FFFFFF,&H000372E3,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,50,&H00C014BF,&H000000FF,&H00FFFFFF,&H00C014BF,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Hosei,Arial,50,&H001EBB1B,&H000000FF,&H00FFFFFF,&H001EBB1B,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Normal,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Other1,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
+Style: Other2,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,2,0,2,10,10,10,1
+Style: Other3,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,0,0,2,10,10,10,1
+Style: Credits,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,4,0,7,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.26,0:00:02.60,Hamada,,0,0,0,,First time on Gaki no Tsukai
+Dialogue: 0,0:00:02.60,0:00:07.06,Hamada,,0,0,0,,Let's play with nostalgic retrogames: super famicom!
+Dialogue: 0,0:00:10.06,0:00:12.68,Matsumoto,,0,0,0,,Famicom, huh?
+Dialogue: 0,0:00:11.04,0:00:12.68,Hamada,,0,0,0,,Isn't it nice?
+Dialogue: 0,0:00:13.16,0:00:16.27,Other1,,0,0,0,,{\fade(250,0)\pos(726,838)\c&H079801&\3c&HFFFFFF&\4c&H000000&}Downtown
+Dialogue: 0,0:00:13.16,0:00:16.27,Other1,,0,0,0,,{\fs60\fade(250,0)\4c&HE7CA36&\pos(523.5,918)}Matsumoto Hitoshi
+Dialogue: 0,0:00:13.16,0:00:16.27,Other1,,0,0,0,,{\fs60\fade(250,0)\4c&HE7CA36&\pos(921,918)}Hamada Masatoshi
+Dialogue: 0,0:00:12.98,0:00:16.27,Matsumoto,,0,0,0,,We already played famicom before
+Dialogue: 0,0:00:14.92,0:00:16.27,Tanaka,,0,0,0,,{\pos(726,782)}Yes, we did
+Dialogue: 0,0:00:17.00,0:00:26.98,Other3,,0,0,0,,{\p1\fade(250,250)\c&H081DF3&\1a&H1C&\pos(1347,280)\fscx451\fscy276}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:00:17.00,0:00:26.98,Other3,,0,0,0,,{\fade(250,250)\fscx59\fscy100\pos(1232.5,266)}Previous episode
+Dialogue: 0,0:00:18.47,0:00:21.54,Other3,,0,0,0,,{\p1\c&H00A50B&\1a&H1C&\pos(1218,506)\fscx566\fscy346}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:00:18.47,0:00:21.54,Other3,,0,0,0,,{\pos(1077,487.333)}Dig Dug
+Dialogue: 0,0:00:21.54,0:00:24.37,Other3,,0,0,0,,{\p1\c&HFB221D&\1a&H1C&\pos(1164,510)\fscx458\fscy369}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:00:21.54,0:00:24.37,Other3,,0,0,0,,{\pos(1047,488)}Zebius
+Dialogue: 0,0:00:24.37,0:00:27.08,Other3,,0,0,0,,{\p1\fade(0,250)\c&H081DF3&\1a&H1C&\pos(1348.5,410)\fscx824\fscy346}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:00:24.37,0:00:27.08,Other3,,0,0,0,,{\pos(1135.5,394.667)}Mario Brothers
+Dialogue: 0,0:00:17.46,0:00:24.74,Normal,,0,0,0,,On the previous two episodes, they played nostalgic famicom games from their youth
+Dialogue: 0,0:00:28.18,0:00:35.42,Other1,,0,0,0,,{\3c&H970300&\4c&H970300&\pos(349,710)}Released in 1990
+Dialogue: 0,0:00:28.18,0:00:35.42,Other1,,0,0,0,,{\c&H01D6FF&\pos(728.5,846)}It's time to play some Super Famicom games!!
+Dialogue: 0,0:00:27.70,0:00:30.06,Normal,,0,0,0,,And today it's time for its successor
+Dialogue: 0,0:00:30.06,0:00:35.08,Normal,,0,0,0,,They'll play with the Super Famicom, released in 1990
+Dialogue: 0,0:00:35.42,0:00:38.32,Matsumoto,,0,0,0,,Now that I think about it, I used to play this more
+Dialogue: 0,0:00:38.32,0:00:40.00,Tanaka,,0,0,0,,Oh, is that so?
+Dialogue: 0,0:00:38.39,0:00:40.52,Other1,,0,0,0,,{\c&H079801&\3c&HFFFFFF&\4c&H000000&\pos(718.5,836)}Cocorico
+Dialogue: 0,0:00:38.39,0:00:40.52,Other1,,0,0,0,,{\fs60\4c&H1B94F1&\pos(523.5,918)}Endo Shozo
+Dialogue: 0,0:00:38.39,0:00:40.52,Other1,,0,0,0,,{\fs60\4c&H1B94F1&\pos(913.5,918)}Tanaka Naoki
+Dialogue: 0,0:00:38.64,0:00:42.20,Hosei,,0,0,0,,You must be an expert, then
+Dialogue: 0,0:00:40.69,0:00:43.43,Other1,,0,0,0,,{\fade(250,0)\fs60\4c&H4FE15C&\pos(411,734)}Tsukitei Hosei
+Dialogue: 0,0:00:40.60,0:00:43.36,Matsumoto,,0,0,0,,Yeah, I had my own super famicom
+Dialogue: 0,0:00:42.84,0:00:44.28,Hamada,,0,0,0,,Amazing
+Dialogue: 0,0:00:43.36,0:00:47.82,Matsumoto,,0,0,0,,But these guys here said they never played with the famicom
+Dialogue: 0,0:00:46.74,0:00:48.32,Hosei,,0,0,0,,Yes, they did
+Dialogue: 0,0:00:48.32,0:00:51.60,Matsumoto,,0,0,0,,I wonder how are they gonna deal with a super famicom
+Dialogue: 0,0:00:51.60,0:00:53.37,Hamada,,0,0,0,,I have no idea
+Dialogue: 0,0:00:53.37,0:00:54.60,Matsumoto,,0,0,0,,{\pos(724.5,908)}Look,{\alpha&HFF&} if you wanna go home, it's fine to me!
+Dialogue: 0,0:00:54.60,0:00:57.34,Matsumoto,,0,0,0,,{\pos(724.5,908)}Look, if you wanna go home, it's fine to me!
+Dialogue: 0,0:00:55.74,0:00:57.34,Endo,,0,0,0,,No way
+Dialogue: 0,0:00:57.34,0:01:00.44,Matsumoto,,0,0,0,,Just take a bus
+Dialogue: 0,0:00:58.20,0:01:00.44,Endo,,0,0,0,,I'm not taking any bus, I'll stay
+Dialogue: 0,0:01:01.00,0:01:03.04,Normal,,0,0,0,,And for today's episode too
+Dialogue: 0,0:01:02.11,0:01:04.05,Other1,,0,0,0,,{\fade(250,0)\pos(642,838)}Game collector
+Dialogue: 0,0:01:02.11,0:01:04.05,Other1,,0,0,0,,{\fade(250,0)\pos(640.5,916)}Sakekan
+Dialogue: 0,0:01:03.04,0:01:08.84,Normal,,0,0,0,,We have 297 games from our game collector Sakekan's collection
+Dialogue: 0,0:01:04.48,0:01:09.65,Other1,,0,0,0,,{\fs100\c&H11C439&\4c&HFFFFFF&\t(0,10000,\fs150)\pos(703.5,862)}Super famicom: {\c&H4A4BF6&}297 games
+Dialogue: 0,0:01:09.65,0:01:10.89,Matsumoto,,0,0,0,,{\pos(726,908)}If Sakekan would die{\alpha&HFF&} I'd cry so much
+Dialogue: 0,0:01:10.89,0:01:13.36,Matsumoto,,0,0,0,,{\pos(726,908)}If Sakekan would die I'd cry so much
+Dialogue: 0,0:01:11.52,0:01:13.36,Hamada,,0,0,0,,{\pos(1041,782)}No you won't
+Dialogue: 0,0:01:12.80,0:01:13.84,Hamada,,0,0,0,,No way you would
+Dialogue: 0,0:01:13.84,0:01:15.50,Hosei,,0,0,0,,It'd be sad
+Dialogue: 0,0:01:14.46,0:01:16.38,Normal,,0,0,0,,Can't he just cry a bit?
+Dialogue: 0,0:01:16.38,0:01:17.53,Matsumoto,,0,0,0,,Of course I would
+Dialogue: 0,0:01:17.53,0:01:20.93,Matsumoto,,0,0,0,,{\pos(270,798)}Of course I'd cry
+Dialogue: 0,0:01:18.53,0:01:20.93,Matsumoto,,0,0,0,,{\pos(824,909.333)}if Sakekan would get a {\c&H000000&\pos(708,912)}game over{\r}, come on
+Dialogue: 0,0:01:21.18,0:01:23.60,Hamada,,0,0,0,,That's not gonna happen
+Dialogue: 0,0:01:25.20,0:01:32.88,Other1,,0,0,0,,{\blur2\pos(730.5,880)\c&HA363FF&\3c&HFFFFFF&\4c&HA363FF&}Let's take a look at super famicom games
+Dialogue: 0,0:01:25.20,0:01:31.72,Normal,,0,0,0,,They choose to take a look at every game, starting from the ones published in 1990
+Dialogue: 0,0:01:32.88,0:01:36.24,Matsumoto,,0,0,0,,I really loved this one, "Wagyan Land"
+Dialogue: 0,0:01:35.34,0:01:37.04,Hamada,,0,0,0,,Never heard of it
+Dialogue: 0,0:01:36.24,0:01:37.96,Tanaka,,0,0,0,,I don't know that
+Dialogue: 0,0:01:37.04,0:01:39.68,Hamada,,0,0,0,,What is this game?!
+Dialogue: 0,0:01:39.68,0:01:44.12,Matsumoto,,0,0,0,,{\pos(688.5,796)}When Wagyan shouted {\c&H000000&}"WA"{\r} just like this
+Dialogue: 0,0:01:41.15,0:01:44.12,Matsumoto,,0,0,0,,{\c&H000000&\pos(691.5,918)}the "WA" (ワ){\r} symbol appeared just as it is
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\p1\c&HEEEEEF&\1a&H1C&\pos(1353,1002)\fscx2525\fscy373}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\p1\c&HF6F5F7&\1a&H1C&\pos(1284,512)\fscx726\fscy130}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\p1\c&H081EF2&\1a&H1C&\pos(1354.5,456)\fscx862\fscy286}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\p1\c&H081EF2&\1a&H1C&\pos(1212,366)\fscx570\fscy320}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\c&H000000&\fscx72\fscy102\pos(729,984)}An adventure game in which Wagyan (main character) uses his voice as a weapon
+Dialogue: 0,0:01:44.12,0:01:52.43,Other1,,0,0,0,,{\fs30\pos(1102.5,510)}Bandai Namco Entertainment
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\pos(1129.5,448)}Super Wagyan Land
+Dialogue: 0,0:01:44.12,0:01:52.43,Other3,,0,0,0,,{\fscx73\fscy100\pos(1068,349.333)}Published in 1991
+Dialogue: 0,0:01:44.12,0:01:46.12,Matsumoto,,0,0,0,,And you can jump on them
+Dialogue: 0,0:01:46.12,0:01:46.64,Hamada,,0,0,0,,What?
+Dialogue: 0,0:01:46.64,0:01:52.43,Hosei,,0,0,0,,Remember First Human Giatrus? How he made his shouts into stones? It's like that
+Dialogue: 0,0:01:46.64,0:01:48.60,Tanaka,,0,0,0,,{\pos(1134,878)}What's this game?
+Dialogue: 0,0:01:48.84,0:01:49.80,Matsumoto,,0,0,0,,{\pos(1134,878)}Right
+Dialogue: 0,0:01:50.52,0:01:51.86,Tanaka,,0,0,0,,{\pos(1134,878)}Oh, I remember that
+Dialogue: 0,0:01:52.43,0:01:55.27,Matsumoto,,0,0,0,,But if you're not quick enough, your WAs start to fade
+Dialogue: 0,0:01:55.27,0:01:56.92,Hosei,,0,0,0,,You have to be quick
+Dialogue: 0,0:01:55.52,0:01:57.77,Matsumoto,,0,0,0,,Yeah, you gotta run
+Dialogue: 0,0:02:00.17,0:02:01.84,Matsumoto,,0,0,0,,{\c&H000000&\pos(720,910)}What a surprise!!
+Dialogue: 0,0:02:01.84,0:02:06.88,Matsumoto,,0,0,0,,{\c&H000000&\pos(724.5,906)}ActRaiser!{\r} He got it too!
+Dialogue: 0,0:02:03.36,0:02:04.60,Hamada,,0,0,0,,No idea what that is
+Dialogue: 0,0:02:04.60,0:02:06.88,Hamada,,0,0,0,,Never heard of it
+Dialogue: 0,0:02:07.08,0:02:18.39,Other3,,0,0,0,,{\p1\c&HEEEEEF&\1a&H1C&\pos(1342.5,930)\fscx1669\fscy635}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:02:07.08,0:02:18.39,Other3,,0,0,0,,{\p1\c&HFE201B&\1a&H1C&\pos(1098,756)\fscx1179\fscy298}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:02:07.08,0:02:18.39,Other3,,0,0,0,,{\c&H000000&\pos(922,896.667)}A game in which the player becomes a God and\Nfights magical beasts to help develop his town
+Dialogue: 0,0:02:07.08,0:02:18.39,Other3,,0,0,0,,{\pos(789,744)}ActRaiser: released in 1990
+Dialogue: 0,0:02:07.08,0:02:18.39,Other2,,0,0,0,,{\fs30\pos(973.5,1020.667)}Available on virtual console
+Dialogue: 0,0:02:06.88,0:02:08.70,Matsumoto,,0,0,0,,This one is great
+Dialogue: 0,0:02:08.70,0:02:10.30,Hosei,,0,0,0,,It is, right?
+Dialogue: 0,0:02:11.21,0:02:12.48,Matsumoto,,0,0,0,,You become a God
+Dialogue: 0,0:02:12.48,0:02:13.32,Hosei,,0,0,0,,This guy...
+Dialogue: 0,0:02:13.44,0:02:15.16,Matsumoto,,0,0,0,,You play as a God
+Dialogue: 0,0:02:15.04,0:02:15.90,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:02:15.16,0:02:18.39,Matsumoto,,0,0,0,,And you help the citizens around
+Dialogue: 0,0:02:18.39,0:02:21.39,Hosei,,0,0,0,,And little by little, the town starts to grow
+Dialogue: 0,0:02:19.76,0:02:21.39,Matsumoto,,0,0,0,,Exactly
+Dialogue: 0,0:02:21.39,0:02:25.46,Hosei,,0,0,0,,Matsumoto told me he got worried for a whole week
+Dialogue: 0,0:02:23.70,0:02:25.46,Matsumoto,,0,0,0,,{\pos(720,784.667)}Yeah...
+Dialogue: 0,0:02:25.46,0:02:28.90,Hosei,,0,0,0,,'Cause his {\c&H000000&\pos(322.5,798)}citizens{\r}
+Dialogue: 0,0:02:25.46,0:02:28.90,Hosei,,0,0,0,,{\pos(908.5,911.333)}And by that I mean the {\c&H000000&}humans{\c} inside ActRaiser
+Dialogue: 0,0:02:26.14,0:02:26.78,Endo,,0,0,0,,Yes?
+Dialogue: 0,0:02:27.12,0:02:27.66,Endo,,0,0,0,,Ok
+Dialogue: 0,0:02:27.40,0:02:28.90,Matsumoto,,0,0,0,,That's right
+Dialogue: 0,0:02:28.90,0:02:31.20,Hosei,,0,0,0,,{\c&H000000&\pos(720,914)}All his humans{\r} were feeling gloomy all the time
+Dialogue: 0,0:02:31.20,0:02:34.30,Hamada,,0,0,0,,{\pos(726,910)}The hell are these two talking about?
+Dialogue: 0,0:02:32.88,0:02:34.30,Tanaka,,0,0,0,,No idea
+Dialogue: 0,0:02:34.30,0:02:37.94,Hamada,,0,0,0,,{\pos(396,792)}These two...
+Dialogue: 0,0:02:35.10,0:02:37.00,Tanaka,,0,0,0,,Is that the relationship you had?
+Dialogue: 0,0:02:36.14,0:02:37.94,Hamada,,0,0,0,,{\pos(885,905.333)}Just what the hell are they saying?
+Dialogue: 0,0:02:37.94,0:02:39.21,Hosei,,0,0,0,,{\pos(726,912)}I bet you know this one, right?{\r\c&H000000&\alpha&HFF&} R-TYPE
+Dialogue: 0,0:02:39.21,0:02:41.55,Hosei,,0,0,0,,{\pos(726,912)}I bet you know this one, right?{\r\c&H000000&} R-TYPE
+Dialogue: 0,0:02:39.88,0:02:41.55,Hamada,,0,0,0,,Nope, never heard of it
+Dialogue: 0,0:02:40.72,0:02:42.68,Matsumoto,,0,0,0,,{\pos(720,859.333)}Are you kidding me?!
+Dialogue: 0,0:02:42.68,0:02:44.35,Hamada,,0,0,0,,I don't know any of these
+Dialogue: 0,0:02:44.68,0:02:50.42,Other3,,0,0,0,,{\p1\c&HEEEEEF&\1a&H1C&\pos(1345.5,954)\fscx1641\fscy614}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:02:44.68,0:02:50.42,Other3,,0,0,0,,{\p1\c&H02D6FE&\1a&H1C&\pos(1215,792)\fscx1381\fscy301}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:02:44.68,0:02:50.42,Other3,,0,0,0,,{\c&H000000&\pos(918,926)}It's the shooting game which best represents\Nthe super-famicom era
+Dialogue: 0,0:02:44.68,0:02:50.42,Other3,,0,0,0,,{\c&H000000&\pos(858,780)}Released in 1991: SUPER R-TYPE
+Dialogue: 0,0:02:44.35,0:02:46.68,Hamada,,0,0,0,,That's literally my first time seeing it
+Dialogue: 0,0:02:45.02,0:02:46.68,Tanaka,,0,0,0,,{\pos(842,707.333)}We really don't know 'em
+Dialogue: 0,0:02:46.68,0:02:50.42,Matsumoto,,0,0,0,,It feels like a bunch of virgins coming to a brothel for their first time
+Dialogue: 0,0:02:50.68,0:02:52.76,Matsumoto,,0,0,0,,Just go home!
+Dialogue: 0,0:02:52.76,0:03:03.87,Credits,,0,0,0,,Translation by {\3c&H898813&}Shion (@FGRNDNoises)
+Dialogue: 0,0:02:52.76,0:03:03.87,Credits,,0,0,0,,Typeset & editing by{\3c&H18C4F6&} Kedomas
+Dialogue: 0,0:02:52.76,0:03:03.87,Credits,,0,0,0,,{\fs46}more episodes @ {\3c&H4363FF&}shionnotsukai.wordpress.com
+Dialogue: 0,0:03:05.04,0:03:08.10,Other1,,0,0,0,,{\fs100\c&HFFAB27&\blur2\fade(250,0)\4c&HFEB949&\3c&HFFFFFF&\pos(732.5,852)}Let's play with{\r\fs100\c&H005CFE&\4c&H005CFE&\3c&HFFFFFF&\blur2} Super Famicom games!!
+Dialogue: 0,0:03:04.70,0:03:08.44,Normal,,0,0,0,,Today, they're going to play with nostalgic super-famicom games
+Dialogue: 0,0:03:08.74,0:03:17.05,Other3,,0,0,0,,{\p1\c&HEEEEEF&\1a&H1C&\pos(1366.5,1002)\fscx2602\fscy448}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:03:08.74,0:03:17.05,Other3,,0,0,0,,{\p1\c&HEEEEEF&\1a&H1C&\pos(910.5,888)\fscx755\fscy362}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:03:08.74,0:03:17.05,Other3,,0,0,0,,{\c&H000000&\pos(732,980)}Each member picks a game among the 297 titles, and they all play it!
+Dialogue: 0,0:03:08.74,0:03:17.05,Other3,,0,0,0,,{\c&HFD1A1B&\pos(724.5,870)}Today's plan
+Dialogue: 0,0:03:08.74,0:03:12.66,Normal,,0,0,0,,We have a total of 297 titles ready to be played
+Dialogue: 0,0:03:12.66,0:03:17.05,Normal,,0,0,0,,Each member is going to pick the one they want to try and they're all gonna play it
+Dialogue: 0,0:03:17.42,0:03:20.56,Normal,,0,0,0,,Let's start from the game Hamada has chosen
+Dialogue: 0,0:03:17.55,0:03:21.05,Other1,,0,0,0,,{\c&HFF8920&\3c&HFFFFFF&\4c&H29A3F5&\pos(949.5,356)}Hamada's
+Dialogue: 0,0:03:17.55,0:03:21.05,Other1,,0,0,0,,{\c&HFFFFFF&\3c&H7123D8&\4c&H29A3F5&\pos(954,566)}selected game
+Dialogue: 0,0:03:21.05,0:03:23.18,Hamada,,0,0,0,,I really don't know anything
+Dialogue: 0,0:03:23.18,0:03:26.00,Hamada,,0,0,0,,So what about this one you said it was great before?
+Dialogue: 0,0:03:25.16,0:03:25.86,Matsumoto,,0,0,0,,Oh!
+Dialogue: 0,0:03:25.86,0:03:28.53,Matsumoto,,0,0,0,,{\c&H000000&\pos(720,912)}R-TYPE{\r}, right?
+Dialogue: 0,0:03:26.82,0:03:27.52,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:03:27.52,0:03:30.33,Hosei,,0,0,0,,I think I can show off at this one
+Dialogue: 0,0:03:30.49,0:03:33.60,Other3,,0,0,0,,{\p1\fade(250,0)\c&H0B1AFA&\1a&H1C&\pos(895.5,864)\fscx694\fscy358}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:03:30.49,0:03:33.60,Other3,,0,0,0,,{\fade(250,0)\pos(724.5,842.667)}Released in 1991
+Dialogue: 0,0:03:30.88,0:03:35.20,Normal,,0,0,0,,The game Hamada has chosen is the symbol of shooting games for super-famicom
+Dialogue: 0,0:03:35.20,0:03:37.20,Normal,,0,0,0,,SUPER R-TYPE
+Dialogue: 0,0:03:37.60,0:03:41.92,Normal,,0,0,0,,Its main characteristics are its wave motion and charged shooting system
+Dialogue: 0,0:03:43.04,0:03:46.48,Other2,,0,0,0,,{\c&HFF1C1C&\3c&HFFFFFF&\pos(723,826)}Hamada's challenge
+Dialogue: 0,0:03:42.94,0:03:45.94,Normal,,0,0,0,,Let's start from Hamada, who plays for his first time
+Dialogue: 0,0:03:46.48,0:03:58.42,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:03:46.48,0:03:58.42,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hamada's challenge
+Dialogue: 0,0:03:46.82,0:03:48.30,Matsumoto,,0,0,0,,Try to shoot
+Dialogue: 0,0:03:48.30,0:03:49.34,Matsumoto,,0,0,0,,Like this, yeah
+Dialogue: 0,0:03:48.82,0:03:50.02,Hamada,,0,0,0,,Like this?
+Dialogue: 0,0:03:49.34,0:03:50.60,Matsumoto,,0,0,0,,At first is like this
+Dialogue: 0,0:03:50.02,0:03:51.34,Tanaka,,0,0,0,,What's this?
+Dialogue: 0,0:03:50.60,0:03:53.34,Matsumoto,,0,0,0,,You just gotta move up and down
+Dialogue: 0,0:03:53.68,0:03:55.76,Matsumoto,,0,0,0,,Look out, enemies are increasing
+Dialogue: 0,0:03:55.88,0:03:56.76,Tanaka,,0,0,0,,Oh shit!
+Dialogue: 0,0:03:56.76,0:03:58.42,Hosei,,0,0,0,,Wh--- why did you clash into it?
+Dialogue: 0,0:03:58.42,0:03:59.94,Tanaka,,0,0,0,,He went through...
+Dialogue: 0,0:03:58.92,0:04:02.26,Matsumoto,,0,0,0,,{\pos(723,910)\c&H1635ED&}Man, your fingers are moving like {\r\c&H000000&}an old dude{\c}!!
+Dialogue: 0,0:04:02.26,0:04:15.57,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:04:02.26,0:04:15.57,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hamada's challenge
+Dialogue: 0,0:04:03.22,0:04:05.48,Matsumoto,,0,0,0,,Just move up and down, nowhere else
+Dialogue: 0,0:04:04.64,0:04:06.10,Hosei,,0,0,0,,For now those are fine
+Dialogue: 0,0:04:05.48,0:04:07.48,Matsumoto,,0,0,0,,Keep on shooting 'em
+Dialogue: 0,0:04:07.66,0:04:09.14,Matsumoto,,0,0,0,,You have infinite ammo, dude
+Dialogue: 0,0:04:08.22,0:04:09.14,Hosei,,0,0,0,,Well done!
+Dialogue: 0,0:04:09.14,0:04:11.04,Matsumoto,,0,0,0,,That's right, that's right
+Dialogue: 0,0:04:09.14,0:04:11.04,Hosei,,0,0,0,,Counting on ya
+Dialogue: 0,0:04:11.04,0:04:12.48,Matsumoto,,0,0,0,,See? You just fired a big one
+Dialogue: 0,0:04:12.48,0:04:14.88,Matsumoto,,0,0,0,,Take that power-up!
+Dialogue: 0,0:04:12.58,0:04:15.38,Hosei,,0,0,0,,He's doing better now---
+Dialogue: 0,0:04:14.88,0:04:16.66,Matsumoto,,0,0,0,,What the hell!!
+Dialogue: 0,0:04:16.01,0:04:17.87,Endo,,0,0,0,,{\c&H0372E3&\pos(724.5,908)}What a splendid crash!
+Dialogue: 0,0:04:16.92,0:04:18.22,Tanaka,,0,0,0,,Another clash
+Dialogue: 0,0:04:18.22,0:04:20.18,Endo,,0,0,0,,Such a beautiful crash
+Dialogue: 0,0:04:18.82,0:04:20.18,Hosei,,0,0,0,,Why did you clash into it?
+Dialogue: 0,0:04:20.18,0:04:44.40,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:04:20.18,0:04:44.40,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hamada's challenge
+Dialogue: 0,0:04:20.18,0:04:21.36,Matsumoto,,0,0,0,,You did it again
+Dialogue: 0,0:04:20.64,0:04:22.08,Hosei,,0,0,0,,It doesn't make you immune
+Dialogue: 0,0:04:21.36,0:04:25.12,Hamada,,0,0,0,,You told me to take it, so I went for it
+Dialogue: 0,0:04:24.18,0:04:25.42,Hosei,,0,0,0,,Get back on track
+Dialogue: 0,0:04:25.42,0:04:27.48,Hamada,,0,0,0,,I'm trying to
+Dialogue: 0,0:04:26.48,0:04:27.48,Hosei,,0,0,0,,Like that
+Dialogue: 0,0:04:27.68,0:04:30.14,Hamada,,0,0,0,,I'm drawing back all the time
+Dialogue: 0,0:04:29.38,0:04:30.98,Matsumoto,,0,0,0,,You have to move around
+Dialogue: 0,0:04:30.98,0:04:34.74,Matsumoto,,0,0,0,,But if you go too far you can get trapped
+Dialogue: 0,0:04:33.46,0:04:35.78,Tanaka,,0,0,0,,Watch out
+Dialogue: 0,0:04:34.74,0:04:36.86,Matsumoto,,0,0,0,,It's important to have space to move
+Dialogue: 0,0:04:35.84,0:04:37.62,Hosei,,0,0,0,,Get that "S"!
+Dialogue: 0,0:04:37.62,0:04:38.48,Tanaka,,0,0,0,,Now he's fast
+Dialogue: 0,0:04:38.48,0:04:40.62,Hosei,,0,0,0,,That's what it does
+Dialogue: 0,0:04:38.98,0:04:42.40,Matsumoto,,0,0,0,,Look, if you advance too much...
+Dialogue: 0,0:04:42.40,0:04:44.40,Matsumoto,,0,0,0,,You could get---
+Dialogue: 0,0:04:42.96,0:04:44.40,Endo,,0,0,0,,Oh! It came from above
+Dialogue: 0,0:04:44.58,0:04:47.04,Matsumoto,,0,0,0,,Dude, don't die while I'm explaining stuff to you
+Dialogue: 0,0:04:47.90,0:04:52.60,Hosei,,0,0,0,,You gotta be careful with your moves once you get that "S"
+Dialogue: 0,0:04:49.72,0:04:52.60,Endo,,0,0,0,,He died before you got to explain it
+Dialogue: 0,0:04:54.04,0:04:57.28,Endo,,0,0,0,,{\shad0\pos(726,838)}Endo's challenge
+Dialogue: 0,0:04:54.12,0:04:57.00,Normal,,0,0,0,,Next up is Endo, a first timer as well
+Dialogue: 0,0:04:57.28,0:05:34.35,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:04:57.28,0:05:34.35,Other2,,0,0,0,,{\c&H00EDEF&\pos(1108,340)}Endo's challenge
+Dialogue: 0,0:04:56.20,0:04:57.86,Matsumoto,,0,0,0,,You can move right and left
+Dialogue: 0,0:04:58.22,0:05:01.32,Matsumoto,,0,0,0,,You basically have to move in every direction
+Dialogue: 0,0:04:59.44,0:05:02.24,Hamada,,0,0,0,,The way you explain stuff makes me anxious
+Dialogue: 0,0:05:01.36,0:05:02.88,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:05:02.24,0:05:04.92,Matsumoto,,0,0,0,,Sometimes you gotta move forward too
+Dialogue: 0,0:05:03.92,0:05:06.10,Hosei,,0,0,0,,Grab that power-up!
+Dialogue: 0,0:05:05.76,0:05:07.38,Hamada,,0,0,0,,Watch out!
+Dialogue: 0,0:05:06.46,0:05:07.38,Tanaka,,0,0,0,,Careful
+Dialogue: 0,0:05:07.38,0:05:09.46,Matsumoto,,0,0,0,,Man...
+Dialogue: 0,0:05:08.64,0:05:10.06,Hosei,,0,0,0,,Take it!
+Dialogue: 0,0:05:09.46,0:05:10.68,Tanaka,,0,0,0,,Come on
+Dialogue: 0,0:05:10.06,0:05:12.30,Matsumoto,,0,0,0,,See? Now you're faster
+Dialogue: 0,0:05:11.48,0:05:12.30,Endo,,0,0,0,,Right
+Dialogue: 0,0:05:12.30,0:05:14.30,Hamada,,0,0,0,,Who needs this explaination now?
+Dialogue: 0,0:05:14.30,0:05:17.46,Endo,,0,0,0,,But those things keep on getting on screen---- ooh
+Dialogue: 0,0:05:17.46,0:05:18.18,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:05:18.18,0:05:19.00,Matsumoto,,0,0,0,,Nice
+Dialogue: 0,0:05:18.46,0:05:20.74,Hosei,,0,0,0,,You gotta take 'em all down
+Dialogue: 0,0:05:19.00,0:05:22.74,Matsumoto,,0,0,0,,Be careful when they pop out from above
+Dialogue: 0,0:05:22.74,0:05:25.66,Hosei,,0,0,0,,Get rid of those
+Dialogue: 0,0:05:23.98,0:05:25.66,Matsumoto,,0,0,0,,Nicely done
+Dialogue: 0,0:05:25.66,0:05:26.82,Hosei,,0,0,0,,Those things explode
+Dialogue: 0,0:05:26.82,0:05:27.56,Endo,,0,0,0,,Which?
+Dialogue: 0,0:05:27.56,0:05:28.92,Hosei,,0,0,0,,The round ones
+Dialogue: 0,0:05:28.92,0:05:30.12,Hamada,,0,0,0,,Which ones?
+Dialogue: 0,0:05:28.92,0:05:31.94,Matsumoto,,0,0,0,,If you shoot 'em, they'll explode
+Dialogue: 0,0:05:30.12,0:05:31.94,Hamada,,0,0,0,,I don't see them
+Dialogue: 0,0:05:31.94,0:05:34.35,Matsumoto,,0,0,0,,You stick too much on the left corner, go forward!!
+Dialogue: 0,0:05:34.72,0:05:36.59,Hamada,,0,0,0,,{\pos(724.5,908)}If you say it like that, he'd panick!
+Dialogue: 0,0:05:36.59,0:05:53.47,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:05:36.59,0:05:53.47,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102.5,338)}Endo's challenge
+Dialogue: 0,0:05:36.59,0:05:38.08,Matsumoto,,0,0,0,,He's too behind
+Dialogue: 0,0:05:38.08,0:05:39.48,Matsumoto,,0,0,0,,He gets too much on the left
+Dialogue: 0,0:05:39.48,0:05:41.62,Matsumoto,,0,0,0,,But Endo's not bad at all, he's good
+Dialogue: 0,0:05:40.60,0:05:42.02,Tanaka,,0,0,0,,Ok, ok
+Dialogue: 0,0:05:41.62,0:05:43.92,Matsumoto,,0,0,0,,Better than I thought
+Dialogue: 0,0:05:42.50,0:05:44.50,Endo,,0,0,0,,This...?
+Dialogue: 0,0:05:43.92,0:05:46.52,Matsumoto,,0,0,0,,Did you learn how to play it?
+Dialogue: 0,0:05:44.98,0:05:46.52,Endo,,0,0,0,,I did
+Dialogue: 0,0:05:46.52,0:05:47.68,Endo,,0,0,0,,I'm learning
+Dialogue: 0,0:05:47.68,0:05:48.80,Hamada,,0,0,0,,He's good
+Dialogue: 0,0:05:48.10,0:05:50.80,Matsumoto,,0,0,0,,He is
+Dialogue: 0,0:05:48.80,0:05:50.10,Tanaka,,0,0,0,,Really good
+Dialogue: 0,0:05:50.10,0:05:51.70,Hosei,,0,0,0,,Get inside the circle!!
+Dialogue: 0,0:05:50.84,0:05:52.32,Endo,,0,0,0,,Inside it?!
+Dialogue: 0,0:05:51.80,0:05:54.32,Hosei,,0,0,0,,You have to get inside
+Dialogue: 0,0:05:53.44,0:05:55.12,Endo,,0,0,0,,Why?!
+Dialogue: 0,0:05:54.32,0:05:56.56,Hosei,,0,0,0,,I just told you so
+Dialogue: 0,0:05:55.84,0:05:58.68,Endo,,0,0,0,,{\c&H000000&\pos(723,910)}You're all so goddamn noisy!!
+Dialogue: 0,0:05:58.68,0:06:14.82,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:05:58.68,0:06:14.82,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,340)}Tanaka's challenge
+Dialogue: 0,0:05:59.42,0:06:02.10,Normal,,0,0,0,,Third challenger is Tanaka, another first timer
+Dialogue: 0,0:06:01.48,0:06:02.94,Hosei,,0,0,0,,Go forward!
+Dialogue: 0,0:06:02.36,0:06:04.66,Matsumoto,,0,0,0,,Move forward, you're gonna get hit
+Dialogue: 0,0:06:03.74,0:06:05.86,Hosei,,0,0,0,,Nice, now get inside
+Dialogue: 0,0:06:04.66,0:06:06.98,Matsumoto,,0,0,0,,Quick, quick!
+Dialogue: 0,0:06:06.14,0:06:07.42,Hosei,,0,0,0,,Get inside the circle
+Dialogue: 0,0:06:06.98,0:06:11.50,Matsumoto,,0,0,0,,Just get inside it like that, now stay still
+Dialogue: 0,0:06:08.43,0:06:11.44,Other2,,0,0,0,,{\fade(0,250)\c&HFD423C&\3c&HFFFFFF&\move(702,910,612,910,13,5017)}Spot where Endo died{\r\c&H000000&\3c&HFFFFFF&} has been{\r\c&H1426E4&\3c&HFFFFFF&} surpassed
+Dialogue: 0,0:06:07.42,0:06:10.16,Hosei,,0,0,0,,Like that, nice
+Dialogue: 0,0:06:11.50,0:06:13.28,Hosei,,0,0,0,,Watch out--- you're done for
+Dialogue: 0,0:06:14.34,0:06:15.86,Hamada,,0,0,0,,You panicked, right?
+Dialogue: 0,0:06:15.34,0:06:16.68,Tanaka,,0,0,0,,I did, yeah
+Dialogue: 0,0:06:15.86,0:06:18.50,Hamada,,0,0,0,,Once you got in you went upwards in panick
+Dialogue: 0,0:06:16.68,0:06:18.50,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:06:18.50,0:06:22.40,Matsumoto,,0,0,0,,{\pos(720,906)}I'm {\r\c&H000000&}unbelievably good at this
+Dialogue: 0,0:06:20.50,0:06:22.40,Endo,,0,0,0,,This is hard, really
+Dialogue: 0,0:06:22.40,0:06:26.00,Matsumoto,,0,0,0,,{\pos(417,786)}I think I got to its final level
+Dialogue: 0,0:06:23.97,0:06:26.00,Matsumoto,,0,0,0,,{\c&H000000&\pos(881,902.667)}for like 20 times so far,{\r} I think
+Dialogue: 0,0:06:23.28,0:06:24.30,Tanaka,,0,0,0,,Hm?
+Dialogue: 0,0:06:24.86,0:06:26.00,Hamada,,0,0,0,,What?!
+Dialogue: 0,0:06:26.00,0:06:28.27,Tanaka,,0,0,0,,You mean until its ending?
+Dialogue: 0,0:06:26.94,0:06:28.27,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:06:28.77,0:06:33.48,Matsumoto,,0,0,0,,{\4c&H14A1F0&\c&H1024E9&\pos(214.5,690)}Matsumoto's
+Dialogue: 0,0:06:28.77,0:06:33.48,Matsumoto,,0,0,0,,{\blur2\4c&HC4C4C4&\c&H1024E9&\pos(1233,868)\3c&HFFFFFF&}challenge
+Dialogue: 0,0:06:28.77,0:06:33.48,Normal,,0,0,0,,Matsumoto claims to be an expert at this game: will we see his skills?
+Dialogue: 0,0:06:33.48,0:07:22.73,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:06:33.48,0:07:22.73,Other2,,0,0,0,,{\c&H00EDEF&\fscx67\fscy100\pos(1100,342.667)}Matsumoto's challenge
+Dialogue: 0,0:06:33.76,0:06:36.60,Matsumoto,,0,0,0,,It's important to move constantly
+Dialogue: 0,0:06:36.60,0:06:38.06,Endo,,0,0,0,,He's going forward so much
+Dialogue: 0,0:06:38.06,0:06:40.02,Hosei,,0,0,0,,Look, he's always moving around
+Dialogue: 0,0:06:40.02,0:06:43.28,Matsumoto,,0,0,0,,You have to always move around, that applies to everything
+Dialogue: 0,0:06:44.59,0:06:47.58,Matsumoto,,0,0,0,,You gotta think about the enemies, I mean---
+Dialogue: 0,0:06:46.12,0:06:47.88,Hamada,,0,0,0,,Oh, watch out!
+Dialogue: 0,0:06:47.58,0:06:49.02,Hosei,,0,0,0,,Nice
+Dialogue: 0,0:06:47.88,0:06:51.84,Matsumoto,,0,0,0,,You don't like those who always move around, right?
+Dialogue: 0,0:06:53.96,0:06:56.57,Matsumoto,,0,0,0,,You must always have the upper hand
+Dialogue: 0,0:06:56.57,0:06:59.47,Matsumoto,,0,0,0,,I feel like I got it all back now
+Dialogue: 0,0:06:59.90,0:07:01.90,Hosei,,0,0,0,,You're moving differently
+Dialogue: 0,0:07:02.18,0:07:05.00,Endo,,0,0,0,,Your control is amazing
+Dialogue: 0,0:07:07.02,0:07:09.34,Hosei,,0,0,0,,{\i1}Nice{\i0}
+Dialogue: 0,0:07:07.22,0:07:10.74,Endo,,0,0,0,,Nice one
+Dialogue: 0,0:07:10.74,0:07:12.64,Hosei,,0,0,0,,You can't kill those
+Dialogue: 0,0:07:12.64,0:07:14.90,Hamada,,0,0,0,,Oh, is that so?
+Dialogue: 0,0:07:13.08,0:07:14.90,Hosei,,0,0,0,,Yeah
+Dialogue: 0,0:07:13.82,0:07:17.49,Other2,,0,0,0,,{\fade(0,250)\c&HFD423C&\3c&HFFFFFF&\move(702,910,612,910,13,5017)}Spot where Tanaka died{\r\c&H000000&\3c&HFFFFFF&} has been{\r\c&H1426E4&\3c&HFFFFFF&} surpassed
+Dialogue: 0,0:07:15.40,0:07:21.12,Matsumoto,,0,0,0,,If you're not ready to move, you can get hit by sudden appearing enemies
+Dialogue: 0,0:07:21.12,0:07:21.96,Tanaka,,0,0,0,,Woah!
+Dialogue: 0,0:07:23.99,0:07:27.93,Endo,,0,0,0,,You even knew it was gonna pop out from above...
+Dialogue: 0,0:07:26.73,0:07:27.93,Matsumoto,,0,0,0,,{\pos(690,632)\c&H000000&}Endo!
+Dialogue: 0,0:07:28.20,0:07:32.47,Matsumoto,,0,0,0,,{\blur3\bord4\shad4\pos(718.5,894)\c&H000000&\clip(333,830,333,922)\t(0,1268,\clip(333,830,1111.5,922)}We're having a talk in my dressing room later
+Dialogue: 0,0:07:32.97,0:07:37.64,Other1,,0,0,0,,{\4c&H14A1F0&\c&H1024E9&\pos(214.5,690)\3c&HFFFFFF&}Hosei's
+Dialogue: 0,0:07:32.97,0:07:37.64,Other2,,0,0,0,,{\blur2\4c&HC4C4C4&\c&H1024E9&\pos(1233,868)\3c&HFFFFFF&}challenge
+Dialogue: 0,0:07:32.97,0:07:37.28,Normal,,0,0,0,,Hosei is going to play next: can he clear stage 1?
+Dialogue: 0,0:07:37.64,0:07:42.48,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:07:37.64,0:07:42.48,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:07:37.64,0:07:42.48,Hosei,,0,0,0,,Man, it's been so long since I last played with a D-pad...
+Dialogue: 0,0:07:40.08,0:07:42.48,Matsumoto,,0,0,0,,Yeah, I agree
+Dialogue: 0,0:07:42.48,0:07:47.72,Matsumoto,,0,0,0,,{\pos(720,790)}I'm sure if the staff would have lend me this game yesterday's night
+Dialogue: 0,0:07:45.48,0:07:47.72,Matsumoto,,0,0,0,,{\pos(448.5,912)}I could have make it so easily today
+Dialogue: 0,0:07:47.72,0:08:25.82,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:07:47.72,0:08:25.82,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:07:47.94,0:07:50.82,Matsumoto,,0,0,0,,But I didn't even know we were filming this today
+Dialogue: 0,0:07:52.92,0:07:55.44,Matsumoto,,0,0,0,,That was a risky move
+Dialogue: 0,0:07:53.86,0:07:56.84,Hamada,,0,0,0,,You almost hit that thing
+Dialogue: 0,0:07:57.06,0:07:58.94,Matsumoto,,0,0,0,,Watch out
+Dialogue: 0,0:07:57.76,0:07:58.94,Tanaka,,0,0,0,,Go on
+Dialogue: 0,0:07:58.94,0:08:00.94,Tanaka,,0,0,0,,Here it comes
+Dialogue: 0,0:08:01.56,0:08:03.36,Matsumoto,,0,0,0,,You gotta get rid of that
+Dialogue: 0,0:08:03.52,0:08:07.53,Other2,,0,0,0,,{\fade(0,250)\c&HFD423C&\3c&HFFFFFF&\move(702,910,612,910,13,5017)}Spot where Matsumoto died{\r\c&H000000&\3c&HFFFFFF&} has been{\r\c&H1426E4&\3c&HFFFFFF&} surpassed
+Dialogue: 0,0:08:02.46,0:08:06.18,Matsumoto,,0,0,0,,Just be careful not to hit any bullet
+Dialogue: 0,0:08:04.90,0:08:06.18,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:08:06.18,0:08:08.18,Matsumoto,,0,0,0,,Load your gun...
+Dialogue: 0,0:08:08.64,0:08:10.08,Matsumoto,,0,0,0,,And release it
+Dialogue: 0,0:08:10.08,0:08:11.58,Matsumoto,,0,0,0,,Alright! Grab that
+Dialogue: 0,0:08:11.58,0:08:12.56,Matsumoto,,0,0,0,,Ok
+Dialogue: 0,0:08:12.04,0:08:13.76,Endo,,0,0,0,,Woah, it came from behind!
+Dialogue: 0,0:08:12.56,0:08:14.64,Hosei,,0,0,0,,Look
+Dialogue: 0,0:08:13.76,0:08:15.38,Tanaka,,0,0,0,,This one's tricky...
+Dialogue: 0,0:08:15.38,0:08:16.72,Tanaka,,0,0,0,,Huh? Is it an ally?
+Dialogue: 0,0:08:16.72,0:08:18.02,Hamada,,0,0,0,,Huh? Is it?
+Dialogue: 0,0:08:18.40,0:08:19.58,Endo,,0,0,0,,An ally?
+Dialogue: 0,0:08:18.84,0:08:20.34,Matsumoto,,0,0,0,,It is
+Dialogue: 0,0:08:19.58,0:08:21.50,Tanaka,,0,0,0,,I thought it was an enemy
+Dialogue: 0,0:08:20.34,0:08:22.62,Matsumoto,,0,0,0,,It also serves as a barrier
+Dialogue: 0,0:08:22.62,0:08:25.06,Matsumoto,,0,0,0,,If they get you, you're safe for one hit
+Dialogue: 0,0:08:24.04,0:08:25.06,Hamada,,0,0,0,,I see
+Dialogue: 0,0:08:25.06,0:08:26.06,Hosei,,0,0,0,,Alright!!
+Dialogue: 0,0:08:26.69,0:08:30.16,Other2,,0,0,0,,{\pos(720,882)\c&H0518DA&\3c&HFFFFFF&\fs70\t(0,5000,\fs90)}It's time to battle against the 1st stage boss!!
+Dialogue: 0,0:08:26.06,0:08:30.60,Normal,,0,0,0,,Now that stage 1 is finally done, it's time for a boss fight
+Dialogue: 0,0:08:30.16,0:09:03.86,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:08:30.16,0:09:03.86,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:08:31.74,0:08:33.90,Matsumoto,,0,0,0,,This is the first boss of this game
+Dialogue: 0,0:08:33.90,0:08:36.58,Tanaka,,0,0,0,,The first boss? Woah, it's fast!
+Dialogue: 0,0:08:34.32,0:08:36.58,Endo,,0,0,0,,Holy shit!
+Dialogue: 0,0:08:36.58,0:08:38.50,Matsumoto,,0,0,0,,If it gets you, you're done for
+Dialogue: 0,0:08:38.72,0:08:42.24,Matsumoto,,0,0,0,,You gotta destroy each of those parts
+Dialogue: 0,0:08:42.70,0:08:44.04,Tanaka,,0,0,0,,It's so fast
+Dialogue: 0,0:08:44.04,0:08:45.08,Hamada,,0,0,0,,What is this?
+Dialogue: 0,0:08:45.08,0:08:46.84,Tanaka,,0,0,0,,It's so close!
+Dialogue: 0,0:08:45.08,0:08:46.84,Matsumoto,,0,0,0,,Watch out
+Dialogue: 0,0:08:46.84,0:08:48.50,Matsumoto,,0,0,0,,You're gonna get stuck
+Dialogue: 0,0:08:48.50,0:08:50.70,Endo,,0,0,0,,Didn't he get stuck?
+Dialogue: 0,0:08:50.70,0:08:52.08,Hamada,,0,0,0,,It didn't hit him
+Dialogue: 0,0:08:52.08,0:08:54.86,Matsumoto,,0,0,0,,There's only this one left, you can do it
+Dialogue: 0,0:08:54.86,0:08:57.08,Matsumoto,,0,0,0,,You should try a charged shot
+Dialogue: 0,0:08:55.80,0:08:57.08,Endo,,0,0,0,,Watch out!
+Dialogue: 0,0:08:57.08,0:08:58.78,Matsumoto,,0,0,0,,Don't you need it?
+Dialogue: 0,0:08:58.78,0:09:01.38,Hosei,,0,0,0,,Look, these are time-bombs
+Dialogue: 0,0:09:01.38,0:09:02.20,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:09:02.20,0:09:03.53,Matsumoto,,0,0,0,,Charge shot---
+Dialogue: 0,0:09:04.72,0:09:06.40,Matsumoto,,0,0,0,,Oh man, but
+Dialogue: 0,0:09:06.40,0:09:10.63,Matsumoto,,0,0,0,,{\pos(714.5,794)}If you would have switched with me,
+Dialogue: 0,0:09:07.90,0:09:10.63,Matsumoto,,0,0,0,,{\pos(630.5,914)\c&H000000&}I would have beat that boss so easily
+Dialogue: 0,0:09:08.86,0:09:10.63,Hosei,,0,0,0,,Really?
+Dialogue: 0,0:09:10.63,0:09:26.65,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:09:10.63,0:09:26.65,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:09:11.16,0:09:14.62,Normal,,0,0,0,,Matsumoto claims to be able to easily defeat the boss
+Dialogue: 0,0:09:14.62,0:09:17.43,Normal,,0,0,0,,So Hosei will play again and hand the controller over
+Dialogue: 0,0:09:15.78,0:09:17.54,Hamada,,0,0,0,,What's that?
+Dialogue: 0,0:09:17.54,0:09:21.88,Matsumoto,,0,0,0,,It depends... you got lucky there, Yamazaki
+Dialogue: 0,0:09:20.40,0:09:21.88,Tanaka,,0,0,0,,Woah!
+Dialogue: 0,0:09:22.40,0:09:23.84,Matsumoto,,0,0,0,,Careful there
+Dialogue: 0,0:09:24.94,0:09:26.65,Matsumoto,,0,0,0,,Hold that shot
+Dialogue: 0,0:09:25.46,0:09:26.65,Hosei,,0,0,0,,Alright
+Dialogue: 0,0:09:27.26,0:09:30.99,Normal,,0,0,0,,And it's finally time for Matsumoto to face the 1st stage boss
+Dialogue: 0,0:09:27.35,0:09:30.99,Other1,,0,0,0,,{\pos(720,882)\blur2\c&H0518DA&\3c&HFFFFFF&\t(0,5000,\fs100)\4c&H000000&}Matsumoto{\r\blur2\c&H1CC6F9&\3c&HFFFFFF&\t(0,5000,\fs100)\4c&H000000&} vs 1st stage boss
+Dialogue: 0,0:09:30.99,0:09:59.82,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:09:30.99,0:09:59.82,Other2,,0,0,0,,{\c&H00EDEF&\fscx66\fscy101\pos(1102,337.333)}Matsumoto's challenge
+Dialogue: 0,0:09:30.99,0:09:32.99,Hamada,,0,0,0,,Let's get over this already
+Dialogue: 0,0:09:31.78,0:09:32.99,Tanaka,,0,0,0,,I wish
+Dialogue: 0,0:09:32.99,0:09:35.14,Hosei,,0,0,0,,Alright! You did it
+Dialogue: 0,0:09:39.60,0:09:40.74,Hosei,,0,0,0,,{\i1}Nice{\i0}
+Dialogue: 0,0:09:40.74,0:09:42.10,Hamada,,0,0,0,,What was that?
+Dialogue: 0,0:09:42.10,0:09:44.08,Hosei,,0,0,0,,I said "{\i1}nice{\i0}"
+Dialogue: 0,0:09:44.08,0:09:44.88,Hosei,,0,0,0,,Look
+Dialogue: 0,0:09:44.88,0:09:49.26,Hosei,,0,0,0,,You should try to blow up as many time bombs as you can
+Dialogue: 0,0:09:51.04,0:09:53.10,Hosei,,0,0,0,,Watch out
+Dialogue: 0,0:09:54.02,0:09:56.78,Endo,,0,0,0,,Go for it
+Dialogue: 0,0:09:54.56,0:09:56.78,Hosei,,0,0,0,,Those bombs are a pain
+Dialogue: 0,0:09:57.26,0:09:58.54,Hosei,,0,0,0,,It's moving so fast
+Dialogue: 0,0:09:58.54,0:09:59.56,Tanaka,,0,0,0,,What!?
+Dialogue: 0,0:10:01.56,0:10:02.20,Endo,,0,0,0,,Huh?
+Dialogue: 0,0:10:02.20,0:10:04.42,Hamada,,0,0,0,,You gotta be kidding me
+Dialogue: 0,0:10:03.38,0:10:04.42,Endo,,0,0,0,,Huh?!
+Dialogue: 0,0:10:04.42,0:10:05.80,Hamada,,0,0,0,,No way
+Dialogue: 0,0:10:04.88,0:10:07.32,Matsumoto,,0,0,0,,Alright, I'm done
+Dialogue: 0,0:10:05.80,0:10:07.32,Endo,,0,0,0,,You were so close
+Dialogue: 0,0:10:07.82,0:10:12.50,Other1,,0,0,0,,{\c&H03D16A&\3c&HFFFFFF&\4c&H29A3F5&\pos(949.5,356)}Hosei's
+Dialogue: 0,0:10:07.82,0:10:12.50,Other1,,0,0,0,,{\c&HFFFFFF&\3c&H7123D8&\4c&H29A3F5&\pos(954,566)}selected game
+Dialogue: 0,0:10:07.82,0:10:12.50,Normal,,0,0,0,,Now it's time for Hosei, who says to be addicted to super famicom
+Dialogue: 0,0:10:12.64,0:10:14.04,Tanaka,,0,0,0,,We don't know them
+Dialogue: 0,0:10:12.92,0:10:15.00,Endo,,0,0,0,,Looking forward to it
+Dialogue: 0,0:10:14.04,0:10:15.00,Hosei,,0,0,0,,I think
+Dialogue: 0,0:10:15.00,0:10:18.50,Hosei,,0,0,0,,{\c&H000000&\pos(724.5,910)}Oden{\r} would be a fun game to play together
+Dialogue: 0,0:10:16.24,0:10:18.50,Matsumoto,,0,0,0,,Oden?
+Dialogue: 0,0:10:17.04,0:10:18.50,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:10:18.67,0:10:22.51,Other3,,0,0,0,,{\p1\fade(250,0)\c&HFC201E&\1a&H1C&\pos(912,770)\fscx756\fscy237}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:10:18.67,0:10:22.51,Other3,,0,0,0,,{\fade(250,0)\pos(721.5,766)}Released in 1994
+Dialogue: 0,0:10:18.67,0:10:22.51,Other1,,0,0,0,,{\fade(250,0)\pos(726,912)\c&H0D6DE0&\3c&HFFFFFF&\4c&H000000&}Kunio no Oden
+Dialogue: 0,0:10:19.00,0:10:22.16,Normal,,0,0,0,,The game Hosei has chosen is "Kunio's Oden"
+Dialogue: 0,0:10:23.06,0:10:27.54,Normal,,0,0,0,,{\fnArial\fs32\pos(712,35.334)}oden: japanese stew made of vegetables, eggs, konnyaku etc.
+Dialogue: 0,0:10:23.06,0:10:27.54,Normal,,0,0,0,,It's a falling puzzle game in which you have to stock up more than 4 pieces of oden
+Dialogue: 0,0:10:28.06,0:10:33.76,Normal,,0,0,0,,As you make them disappear, you get into higher levels, and both speed and difficulty increase
+Dialogue: 0,0:10:33.94,0:10:38.82,Normal,,0,0,0,,If you can't get rid of them properly, they pile up to the top and it's game over
+Dialogue: 0,0:10:40.52,0:10:45.09,Other2,,0,0,0,,{\c&H1EBC1A&\pos(720,836)\3c&HFFFFFF&}Hosei's{\r\c&H00EEF2&} level 20{\r\c&H1EBC1A&\3c&HFFFFFF&} challenge
+Dialogue: 0,0:10:40.52,0:10:43.40,Normal,,0,0,0,,Hosei starts playing from level 20
+Dialogue: 0,0:10:43.98,0:10:45.09,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:10:45.09,0:11:01.38,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:10:45.09,0:11:01.38,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:10:45.09,0:11:01.38,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,342.667)}Hosei's challenge
+Dialogue: 0,0:10:45.09,0:11:01.38,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:10:45.09,0:10:46.28,Endo,,0,0,0,,It's like tetris
+Dialogue: 0,0:10:46.28,0:10:46.98,Hosei,,0,0,0,,Yup
+Dialogue: 0,0:10:46.98,0:10:49.02,Hamada,,0,0,0,,Right
+Dialogue: 0,0:10:47.62,0:10:49.92,Matsumoto,,0,0,0,,They call these "{\i1}ochige{\i0}" (falling games)
+Dialogue: 0,0:10:49.02,0:10:51.30,Hosei,,0,0,0,,4 of them-- yes, it's an {\i1}ochige
+Dialogue: 0,0:10:51.30,0:10:53.14,Hosei,,0,0,0,,You have to pile up 4 of them
+Dialogue: 0,0:10:53.14,0:10:55.34,Tanaka,,0,0,0,,Four of them and then they disappear
+Dialogue: 0,0:10:54.06,0:10:55.34,Hosei,,0,0,0,,Exactly
+Dialogue: 0,0:10:55.34,0:10:56.66,Matsumoto,,0,0,0,,Ah, a square is ok too?
+Dialogue: 0,0:10:56.66,0:10:58.76,Hosei,,0,0,0,,Yes, anyway you like
+Dialogue: 0,0:10:58.94,0:11:01.38,Matsumoto,,0,0,0,,Poor Kunio has nothing to do with it
+Dialogue: 0,0:11:01.38,0:11:02.92,Hamada,,0,0,0,,You're right
+Dialogue: 0,0:11:03.48,0:11:10.25,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:03.48,0:11:10.25,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:03.48,0:11:10.25,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,342.667)}Hosei's challenge
+Dialogue: 0,0:11:03.48,0:11:10.25,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:11:04.06,0:11:06.64,Tanaka,,0,0,0,,You used to play this?
+Dialogue: 0,0:11:05.30,0:11:06.64,Hosei,,0,0,0,,Yeah
+Dialogue: 0,0:11:06.64,0:11:09.38,Hosei,,0,0,0,,I really like {\i1}ochige{\i0} games
+Dialogue: 0,0:11:10.52,0:11:20.86,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:10.52,0:11:20.86,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:10.52,0:11:20.86,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,342.667)}Hosei's challenge
+Dialogue: 0,0:11:10.52,0:11:20.86,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:11:10.96,0:11:13.92,Normal,,0,0,0,,He's as good as he claimed to be
+Dialogue: 0,0:11:13.92,0:11:17.48,Normal,,0,0,0,,He makes more and more odens disappear and he gets into higher levels
+Dialogue: 0,0:11:17.98,0:11:20.86,Matsumoto,,0,0,0,,Nice, look how stable the situation is
+Dialogue: 0,0:11:18.96,0:11:20.86,Tanaka,,0,0,0,,Wow, incredible
+Dialogue: 0,0:11:20.86,0:11:22.97,Matsumoto,,0,0,0,,{\pos(720,908)\c&H000000&}He entered{\r} his stable period
+Dialogue: 0,0:11:21.26,0:11:22.97,Tanaka,,0,0,0,,Amazing
+Dialogue: 0,0:11:22.97,0:11:45.19,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:22.97,0:11:45.19,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:22.97,0:11:45.19,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,342.667)}Hosei's challenge
+Dialogue: 0,0:11:22.97,0:11:45.19,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:11:23.48,0:11:29.12,Normal,,0,0,0,,But he couldn't keep with the raising falling speed, and odens start to pile up
+Dialogue: 0,0:11:29.12,0:11:31.31,Hosei,,0,0,0,,They're piling up a bit
+Dialogue: 0,0:11:29.68,0:11:31.31,Matsumoto,,0,0,0,,Are you ok?
+Dialogue: 0,0:11:31.84,0:11:33.40,Endo,,0,0,0,,Aren't those too many?
+Dialogue: 0,0:11:32.38,0:11:34.14,Matsumoto,,0,0,0,,Doesn't look good to me
+Dialogue: 0,0:11:33.40,0:11:34.94,Hosei,,0,0,0,,Yeah
+Dialogue: 0,0:11:34.14,0:11:35.92,Matsumoto,,0,0,0,,Not good at all
+Dialogue: 0,0:11:34.94,0:11:38.82,Endo,,0,0,0,,You're in a pinch, the one you need is not coming
+Dialogue: 0,0:11:37.40,0:11:39.65,Hosei,,0,0,0,,It's not coming at all
+Dialogue: 0,0:11:38.82,0:11:41.10,Endo,,0,0,0,,You could have placed an egg in there
+Dialogue: 0,0:11:39.95,0:11:42.08,Matsumoto,,0,0,0,,You're losing it
+Dialogue: 0,0:11:41.10,0:11:43.40,Endo,,0,0,0,,The screen is so full-- ah
+Dialogue: 0,0:11:45.59,0:11:46.92,Other1,,0,0,0,,{\fade(250,0)\c&HFEAC0E&\3c&HFFFFFF&\4c&H000000&\pos(678,882)}Level 20
+Dialogue: 0,0:11:47.26,0:11:52.20,Other1,,0,0,0,,{\fade()\c&HFEAC0E&\3c&HFFFFFF&\4c&H000000&\pos(397.5,882)}Level 20
+Dialogue: 0,0:11:47.36,0:11:52.20,Other1,,0,0,0,,{\fade()\c&H1339E7&\3c&HFFFFFF&\4c&H000000&\pos(1057.5,882)}Level 23
+Dialogue: 0,0:11:45.96,0:11:49.12,Normal,,0,0,0,,Even though it's been a while since he last played Kunio's Oden
+Dialogue: 0,0:11:49.12,0:11:51.84,Normal,,0,0,0,,He manages to clear three levels of it
+Dialogue: 0,0:11:52.83,0:11:58.80,Other2,,0,0,0,,{\c&HFF1817&\pos(720,836)\3c&HFFFFFF&}Hamada's{\r\c&H00EEF2&} level 23{\r\c&HFF1817&\3c&HFFFFFF&} challenge
+Dialogue: 0,0:11:52.83,0:11:57.66,Normal,,0,0,0,,Following Hosei, Hamada will challenge level 23
+Dialogue: 0,0:11:58.80,0:12:11.58,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:58.80,0:12:11.58,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:11:58.80,0:12:11.58,Other2,,0,0,0,,{\c&H00EDEF&\fscx73\fscy100\pos(1102,337.333)}Hamada's challenge
+Dialogue: 0,0:11:58.80,0:12:11.58,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:11:59.24,0:12:01.26,Endo,,0,0,0,,Your score was like 140 points?
+Dialogue: 0,0:12:00.08,0:12:01.26,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:12:01.26,0:12:03.64,Matsumoto,,0,0,0,,You can turn them, you know
+Dialogue: 0,0:12:02.04,0:12:03.64,Hosei,,0,0,0,,You can roll 'em around
+Dialogue: 0,0:12:03.64,0:12:05.37,Hamada,,0,0,0,,How do I do that?
+Dialogue: 0,0:12:04.14,0:12:05.37,Hosei,,0,0,0,,Like that
+Dialogue: 0,0:12:05.37,0:12:06.94,Hosei,,0,0,0,,He just made that one roll
+Dialogue: 0,0:12:06.94,0:12:11.58,Normal,,0,0,0,,I think the difficulty is higher because he started at an higher level
+Dialogue: 0,0:12:06.94,0:12:08.86,Hosei,,0,0,0,,Just like this
+Dialogue: 0,0:12:11.58,0:12:13.46,Endo,,0,0,0,,I see, it's level 23 now
+Dialogue: 0,0:12:11.58,0:12:14.45,Tanaka,,0,0,0,,So it's harder now
+Dialogue: 0,0:12:13.46,0:12:14.45,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:12:14.45,0:12:45.78,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:12:14.45,0:12:45.78,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:12:14.45,0:12:45.78,Other2,,0,0,0,,{\c&H00EDEF&\fscx73\fscy100\pos(1102,337.333)}Hamada's challenge
+Dialogue: 0,0:12:14.45,0:12:45.78,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:12:14.45,0:12:16.80,Hosei,,0,0,0,,He hasn't clear a single one yet
+Dialogue: 0,0:12:15.20,0:12:16.80,Endo,,0,0,0,,The girl shows your next set
+Dialogue: 0,0:12:17.04,0:12:20.16,Matsumoto,,0,0,0,,If anything it's rare to see someone not scoring anything
+Dialogue: 0,0:12:20.94,0:12:23.72,Endo,,0,0,0,,His score is still zero
+Dialogue: 0,0:12:21.38,0:12:24.80,Tanaka,,0,0,0,,He didn't get a single one!
+Dialogue: 0,0:12:23.72,0:12:25.72,Hamada,,0,0,0,,What the-- shut up
+Dialogue: 0,0:12:24.80,0:12:28.26,Matsumoto,,0,0,0,,How is he able to play it like this?
+Dialogue: 0,0:12:29.54,0:12:31.76,Matsumoto,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:12:30.88,0:12:32.50,Endo,,0,0,0,,Not even one
+Dialogue: 0,0:12:31.76,0:12:33.98,Hamada,,0,0,0,,Oh! I got some points
+Dialogue: 0,0:12:32.50,0:12:35.32,Matsumoto,,0,0,0,,He finally did it
+Dialogue: 0,0:12:33.98,0:12:36.10,Hosei,,0,0,0,,That was pure luck
+Dialogue: 0,0:12:35.32,0:12:37.96,Matsumoto,,0,0,0,,Try to go for a chain
+Dialogue: 0,0:12:37.30,0:12:37.96,Hamada,,0,0,0,,Huh?
+Dialogue: 0,0:12:37.96,0:12:40.40,Matsumoto,,0,0,0,,You can make combos with chains
+Dialogue: 0,0:12:38.60,0:12:40.40,Hamada,,0,0,0,,Oh, I see
+Dialogue: 0,0:12:40.60,0:12:43.56,Matsumoto,,0,0,0,,Go for that chain
+Dialogue: 0,0:12:40.60,0:12:43.56,Hosei,,0,0,0,,I think it's too late now
+Dialogue: 0,0:12:44.30,0:12:45.78,Endo,,0,0,0,,That was quick
+Dialogue: 0,0:12:45.78,0:12:47.40,Matsumoto,,0,0,0,,It was hard to begin with
+Dialogue: 0,0:12:46.92,0:12:49.09,Hosei,,0,0,0,,Yeah, it was fast
+Dialogue: 0,0:12:47.40,0:12:49.09,Tanaka,,0,0,0,,It wasn't easy
+Dialogue: 0,0:12:49.68,0:12:55.29,Normal,,0,0,0,,Tanaka and Endo are next, but they couldn't keep up with the speed of falling odens
+Dialogue: 0,0:12:55.89,0:13:01.80,Other1,,0,0,0,,{\4c&H14A1F0&\c&H1024E9&\pos(214.5,690)\3c&HFFFFFF&}Matsumoto's
+Dialogue: 0,0:12:55.89,0:13:01.80,Other1,,0,0,0,,{\blur2\4c&HC4C4C4&\c&H1024E9&\pos(1233,868)\3c&HFFFFFF&}challenge
+Dialogue: 0,0:12:55.89,0:13:01.80,Other1,,0,0,0,,{\blur2\4c&H83F5FA&\c&HFE1816&\3c&HFFFFFF&\pos(546,830)}Kunio no Oden
+Dialogue: 0,0:12:55.89,0:13:01.20,Normal,,0,0,0,,Matsumoto is our last challenger: will he live up to his title of famicom master?
+Dialogue: 0,0:13:01.80,0:13:07.74,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:01.80,0:13:07.74,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:01.80,0:13:07.74,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)\fscx68\fscy100}Matsumoto's challenge
+Dialogue: 0,0:13:01.80,0:13:07.74,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:13:02.00,0:13:03.66,Hosei,,0,0,0,,It's "B"
+Dialogue: 0,0:13:02.32,0:13:03.66,Tanaka,,0,0,0,,"B" button
+Dialogue: 0,0:13:03.80,0:13:06.26,Matsumoto,,0,0,0,,This is so freakin' fast
+Dialogue: 0,0:13:04.64,0:13:06.26,Endo,,0,0,0,,It is
+Dialogue: 0,0:13:07.74,0:13:10.14,Matsumoto,,0,0,0,,{\pos(703.5,908)}I don't remember it{\c&H000000&} being so fast{\r}, geez!
+Dialogue: 0,0:13:10.14,0:13:31.93,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:10.14,0:13:31.93,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:10.14,0:13:31.93,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)\fscx68\fscy100}Matsumoto's challenge
+Dialogue: 0,0:13:10.14,0:13:31.93,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:13:10.82,0:13:13.46,Matsumoto,,0,0,0,,I need more of those round things
+Dialogue: 0,0:13:13.46,0:13:14.96,Matsumoto,,0,0,0,,Come on
+Dialogue: 0,0:13:14.96,0:13:18.48,Matsumoto,,0,0,0,,Where did all those round things go to?!
+Dialogue: 0,0:13:20.28,0:13:23.08,Hosei,,0,0,0,,Look, he went for a chain!
+Dialogue: 0,0:13:21.36,0:13:23.08,Tanaka,,0,0,0,,Woah, there it is!
+Dialogue: 0,0:13:23.08,0:13:25.98,Matsumoto,,0,0,0,,Take a look at my skills, ya punks!
+Dialogue: 0,0:13:29.02,0:13:31.16,Hosei,,0,0,0,,And here goes the purple thingy
+Dialogue: 0,0:13:29.36,0:13:31.16,Endo,,0,0,0,,Alright
+Dialogue: 0,0:13:31.40,0:13:32.28,Endo,,0,0,0,,The eggs
+Dialogue: 0,0:13:31.68,0:13:33.54,Matsumoto,,0,0,0,,Take this!
+Dialogue: 0,0:13:32.28,0:13:33.54,Hosei,,0,0,0,,Line up the eggs
+Dialogue: 0,0:13:33.54,0:13:35.43,Endo,,0,0,0,,Go for the eggs
+Dialogue: 0,0:13:33.54,0:13:35.43,Matsumoto,,0,0,0,,Look at this!
+Dialogue: 0,0:13:35.43,0:14:03.36,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:35.43,0:14:03.36,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:13:35.43,0:14:03.36,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)\fscx68\fscy100}Matsumoto's challenge
+Dialogue: 0,0:13:35.43,0:14:03.36,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1127,203.333)}Kunio's Oden
+Dialogue: 0,0:13:35.43,0:13:37.14,Hamada,,0,0,0,,What's that purple thing?
+Dialogue: 0,0:13:37.14,0:13:39.14,Hosei,,0,0,0,,I have no idea
+Dialogue: 0,0:13:38.02,0:13:39.14,Endo,,0,0,0,,It's konjac
+Dialogue: 0,0:13:39.14,0:13:40.90,Tanaka,,0,0,0,,Konjac?
+Dialogue: 0,0:13:39.46,0:13:40.90,Hosei,,0,0,0,,You think so?
+Dialogue: 0,0:13:41.22,0:13:43.77,Matsumoto,,0,0,0,,Shit shit shit I made a mistake
+Dialogue: 0,0:13:41.66,0:13:42.94,Tanaka,,0,0,0,,Oh no
+Dialogue: 0,0:13:42.94,0:13:44.86,Endo,,0,0,0,,Come here, egg!
+Dialogue: 0,0:13:43.78,0:13:44.86,Hosei,,0,0,0,,Waiting for that egg
+Dialogue: 0,0:13:44.86,0:13:46.36,Hosei,,0,0,0,,Here comes
+Dialogue: 0,0:13:45.22,0:13:46.36,Endo,,0,0,0,,Come here!
+Dialogue: 0,0:13:46.36,0:13:47.92,Hosei,,0,0,0,,What have you done?!
+Dialogue: 0,0:13:47.92,0:13:49.50,Hosei,,0,0,0,,Oh, nice move, ok
+Dialogue: 0,0:13:47.24,0:13:48.52,Endo,,0,0,0,,It just came
+Dialogue: 0,0:13:48.52,0:13:51.08,Tanaka,,0,0,0,,Ok, now wait for the next egg
+Dialogue: 0,0:13:49.50,0:13:51.08,Endo,,0,0,0,,Here comes
+Dialogue: 0,0:13:51.36,0:13:54.00,Hosei,,0,0,0,,Oh crap
+Dialogue: 0,0:13:52.20,0:13:54.00,Endo,,0,0,0,,You wasted it
+Dialogue: 0,0:13:54.96,0:13:56.20,Tanaka,,0,0,0,,Over there
+Dialogue: 0,0:13:56.52,0:13:58.04,Endo,,0,0,0,,Here's the egg
+Dialogue: 0,0:13:56.90,0:13:58.04,Hosei,,0,0,0,,Here comes the kelp
+Dialogue: 0,0:13:58.04,0:13:59.76,Matsumoto,,0,0,0,,"Here comes the kelp"...
+Dialogue: 0,0:14:00.92,0:14:03.30,Matsumoto,,0,0,0,,Well it figures
+Dialogue: 0,0:14:03.30,0:14:04.68,Matsumoto,,0,0,0,,It makes a difference
+Dialogue: 0,0:14:03.84,0:14:05.28,Hosei,,0,0,0,,It really does
+Dialogue: 0,0:14:04.68,0:14:06.70,Matsumoto,,0,0,0,,Higher levels are something
+Dialogue: 0,0:14:05.28,0:14:06.70,Tanaka,,0,0,0,,Yeah...
+Dialogue: 0,0:14:07.20,0:14:11.67,Other1,,0,0,0,,{\c&H1A75FE&\3c&HFFFFFF&\4c&H29A3F5&\pos(418.5,274)}Endo's
+Dialogue: 0,0:14:07.20,0:14:11.67,Other1,,0,0,0,,{\c&HFFFFFF&\3c&H7123D8&\4c&H29A3F5&\pos(441,504)}Selected game
+Dialogue: 0,0:14:07.20,0:14:11.67,Other1,,0,0,0,,Now it's time for Endo, who rarely ever plays, to select a game
+Dialogue: 0,0:14:11.67,0:14:13.67,Endo,,0,0,0,,How about this one?
+Dialogue: 0,0:14:11.86,0:14:13.67,Hamada,,0,0,0,,Man...
+Dialogue: 0,0:14:14.28,0:14:15.32,Endo,,0,0,0,,What do you think?
+Dialogue: 0,0:14:15.32,0:14:16.06,Hosei,,0,0,0,,Oi
+Dialogue: 0,0:14:16.06,0:14:16.58,Endo,,0,0,0,,Yes
+Dialogue: 0,0:14:16.58,0:14:18.17,Hosei,,0,0,0,,Are we doing this?
+Dialogue: 0,0:14:16.96,0:14:18.17,Tanaka,,0,0,0,,What's that?
+Dialogue: 0,0:14:18.17,0:14:20.41,Endo,,0,0,0,,{\c&H000000&\pos(720,910)}It's Super Mario Kart
+Dialogue: 0,0:14:20.98,0:14:26.58,Other3,,0,0,0,,{\p1\fade(250,0)\c&HFC9B00&\1a&H1C&\pos(915,764)\fscx746\fscy211}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:14:20.98,0:14:26.58,Other3,,0,0,0,,{\fade(250,0)\pos(723.5,766.667)}Released in 1992
+Dialogue: 0,0:14:20.98,0:14:26.58,Other1,,0,0,0,,{\fade(250,0)\c&H091FED&\3c&HFFFFFF&\4c&H000000&\pos(726,906)}Super Mario Kart
+Dialogue: 0,0:14:20.98,0:14:26.58,Normal,,0,0,0,,It's Super Mario Kart, the biggest hit on Super Famicom
+Dialogue: 0,0:14:26.58,0:14:34.09,Other3,,0,0,0,,{\p1\c&HE9E1DF&\1a&H1C&\pos(918,1020)\fscx1668\fscy258}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:14:26.58,0:14:34.09,Other2,,0,0,0,,{\fs25\pos(476,981.333)}Lots of titles from this series were released for famicom, super famicom, gameboy and such
+Dialogue: 0,0:14:26.58,0:14:34.09,Other2,,0,0,0,,{\fs25\pos(502,1015.999)}By using the Virtual Console service, you can download them on your Wii U or 3DS and enjoy them
+Dialogue: 0,0:14:27.22,0:14:31.74,Normal,,0,0,0,,It's an action kart game in which you play as characters from the Mario series
+Dialogue: 0,0:14:31.74,0:14:34.09,Normal,,0,0,0,,Like Mario or Luigi
+Dialogue: 0,0:14:34.36,0:14:44.03,Other3,,0,0,0,,{\p1\c&HE9E1DF&\1a&H1C&\pos(918,1020)\fscx1668\fscy258}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:14:34.36,0:14:44.03,Other2,,0,0,0,,{\fs25\pos(476,981.333)}Lots of titles from this series were released for famicom, super famicom, gameboy and such
+Dialogue: 0,0:14:34.36,0:14:44.03,Other2,,0,0,0,,{\fs25\pos(502,1015.999)}By using the Virtual Console service, you can download them on your Wii U or 3DS and enjoy them
+Dialogue: 0,0:14:35.30,0:14:38.01,Other2,,0,0,0,,During the race, you can use various items
+Dialogue: 0,0:14:38.01,0:14:41.50,Other2,,0,0,0,,Like speed-up mushrooms or items to attack other racers
+Dialogue: 0,0:14:41.50,0:14:43.18,Other2,,0,0,0,,That's one of its charming point
+Dialogue: 0,0:14:44.80,0:14:47.70,Other1,,0,0,0,,{\c&H2DB738&\3c&HFFFFFF&\4c&HA1A1A1&\pos(720,862)}Each one will compete{\r\3c&HFFFFFF&\4c&HA1A1A1&\c&H2D2BFB&} in a single-player time trial!!
+Dialogue: 0,0:14:44.80,0:14:48.00,Normal,,0,0,0,,Our members will face a time challenge one by one
+Dialogue: 0,0:14:48.00,0:14:50.71,Other2,,0,0,0,,{\c&H026EE7&\3c&HFFFFFF&\pos(720,834)}Let's start from Endo
+Dialogue: 0,0:14:48.00,0:14:50.20,Normal,,0,0,0,,We're going to start from Endo
+Dialogue: 0,0:14:50.71,0:15:17.63,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:14:50.71,0:15:17.63,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:14:50.71,0:15:17.63,Other2,,0,0,0,,{\c&H00EDEF&\pos(1104,342.667)}Endo's challenge
+Dialogue: 0,0:14:50.71,0:15:17.63,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1134,202)}Super Mario Kart
+Dialogue: 0,0:14:50.20,0:14:51.20,Tanaka,,0,0,0,,Starting from Endo
+Dialogue: 0,0:14:51.20,0:14:55.44,Hosei,,0,0,0,,The other racers are CPU, aim for that first place
+Dialogue: 0,0:14:53.08,0:14:53.94,Endo,,0,0,0,,Ok
+Dialogue: 0,0:14:53.94,0:14:55.44,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:14:55.44,0:14:57.42,Endo,,0,0,0,,So 1st place wins, right?
+Dialogue: 0,0:14:56.66,0:14:58.56,Matsumoto,,0,0,0,,You can do it, Endo
+Dialogue: 0,0:14:57.34,0:14:58.56,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:15:00.54,0:15:02.28,Endo,,0,0,0,,This...
+Dialogue: 0,0:15:02.28,0:15:03.88,Endo,,0,0,0,,It's pretty fast
+Dialogue: 0,0:15:03.88,0:15:04.90,Tanaka,,0,0,0,,Grab the item
+Dialogue: 0,0:15:04.50,0:15:06.30,Hosei,,0,0,0,,Get some items
+Dialogue: 0,0:15:04.92,0:15:06.30,Endo,,0,0,0,,Items?
+Dialogue: 0,0:15:06.30,0:15:07.39,Hosei,,0,0,0,,Inside the boxes
+Dialogue: 0,0:15:07.54,0:15:09.66,Matsumoto,,0,0,0,,Oi, oi, Endo, are you for real?
+Dialogue: 0,0:15:09.66,0:15:11.28,Hosei,,0,0,0,,You're 8th place, dude
+Dialogue: 0,0:15:11.28,0:15:13.38,Matsumoto,,0,0,0,,Are you kidding me, oi?
+Dialogue: 0,0:15:13.68,0:15:15.34,Hosei,,0,0,0,,Pretty far from the lead
+Dialogue: 0,0:15:15.34,0:15:17.16,Tanaka,,0,0,0,,You're so far from the others
+Dialogue: 0,0:15:14.28,0:15:17.16,Endo,,0,0,0,,I can see that
+Dialogue: 0,0:15:17.63,0:15:20.27,Matsumoto,,0,0,0,,{\pos(720,904)}You're drunk, aren't you?
+Dialogue: 0,0:15:20.27,0:15:50.43,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:15:20.27,0:15:50.43,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:15:20.27,0:15:50.43,Other2,,0,0,0,,{\c&H00EDEF&\pos(1104,342.667)}Endo's challenge
+Dialogue: 0,0:15:20.27,0:15:50.43,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1134,202)}Super Mario Kart
+Dialogue: 0,0:15:20.94,0:15:22.68,Matsumoto,,0,0,0,,What are you doing?
+Dialogue: 0,0:15:22.68,0:15:24.30,Hosei,,0,0,0,,Get some item
+Dialogue: 0,0:15:23.24,0:15:24.30,Matsumoto,,0,0,0,,Take it
+Dialogue: 0,0:15:24.30,0:15:25.68,Endo,,0,0,0,,What should I do with it?
+Dialogue: 0,0:15:25.68,0:15:28.61,Hosei,,0,0,0,,Just press the A button
+Dialogue: 0,0:15:26.78,0:15:28.61,Matsumoto,,0,0,0,,Use it
+Dialogue: 0,0:15:28.61,0:15:31.68,Normal,,0,0,0,,It's better to use it when you're not in a curve
+Dialogue: 0,0:15:31.16,0:15:33.00,Hosei,,0,0,0,,They got past you again
+Dialogue: 0,0:15:32.18,0:15:33.80,Matsumoto,,0,0,0,,You're one lap behind
+Dialogue: 0,0:15:33.00,0:15:36.10,Endo,,0,0,0,,Now I'm done for
+Dialogue: 0,0:15:33.80,0:15:36.10,Matsumoto,,0,0,0,,Enough already, Endo...
+Dialogue: 0,0:15:36.40,0:15:37.48,Tanaka,,0,0,0,,This is harsh
+Dialogue: 0,0:15:37.48,0:15:39.38,Matsumoto,,0,0,0,,What are you doing? It's hard to watch
+Dialogue: 0,0:15:37.48,0:15:39.38,Endo,,0,0,0,,I'm so slow
+Dialogue: 0,0:15:39.38,0:15:42.74,Hosei,,0,0,0,,Look, everyone is now done, your position number is red
+Dialogue: 0,0:15:42.74,0:15:44.12,Hamada,,0,0,0,,Is that what it means?
+Dialogue: 0,0:15:43.30,0:15:44.87,Endo,,0,0,0,,Geez
+Dialogue: 0,0:15:44.12,0:15:45.78,Hosei,,0,0,0,,They're already done
+Dialogue: 0,0:15:45.78,0:15:50.43,Normal,,0,0,0,,Endo is left racing alone, while all the other CPUs already finished
+Dialogue: 0,0:15:50.73,0:15:52.54,Matsumoto,,0,0,0,,{\pos(640.5,792)}It goes without saying for Endo...
+Dialogue: 0,0:15:52.54,0:15:55.84,Matsumoto,,0,0,0,,{\pos(720,906)}But even the rest of us forced to watch him{\r\c&H000000&} aren't having fun at all
+Dialogue: 0,0:15:55.84,0:16:04.48,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:15:55.84,0:16:04.48,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:15:55.84,0:16:04.48,Other2,,0,0,0,,{\c&H00EDEF&\pos(1104,342.667)}Endo's challenge
+Dialogue: 0,0:15:55.84,0:16:04.48,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1134,202)}Super Mario Kart
+Dialogue: 0,0:15:55.84,0:15:59.34,Hosei,,0,0,0,,He's racing all by himself
+Dialogue: 0,0:15:57.54,0:15:59.34,Matsumoto,,0,0,0,,What are you doing?
+Dialogue: 0,0:15:59.34,0:16:01.22,Tanaka,,0,0,0,,It's kinda sad
+Dialogue: 0,0:16:01.32,0:16:02.54,Endo,,0,0,0,,Ugh...
+Dialogue: 0,0:16:02.96,0:16:04.62,Matsumoto,,0,0,0,,A well deserved 8th place
+Dialogue: 0,0:16:04.62,0:16:07.28,Hosei,,0,0,0,,1 minute and 32,42 seconds
+Dialogue: 0,0:16:04.81,0:16:10.09,Other2,,0,0,0,,{\fade(250,0)\pos(760,832)}Endo:{\r\c&H03D5FE&} 1 minute 32.42 seconds
+Dialogue: 0,0:16:07.28,0:16:10.09,Endo,,0,0,0,,Alright guys, consider it your standard to beat
+Dialogue: 0,0:16:08.70,0:16:10.09,Hosei,,0,0,0,,{\pos(764,784.667)}Can we call this a "standard"?
+Dialogue: 0,0:16:10.62,0:16:14.76,Other1,,0,0,0,,{\4c&H14A1F0&\c&H1024E9&\pos(214.5,690)\3c&HFFFFFF&}Hamada's
+Dialogue: 0,0:16:10.62,0:16:14.76,Other1,,0,0,0,,{\blur2\4c&HC4C4C4&\c&H1024E9&\pos(1233,868)\3c&HFFFFFF&}challenge
+Dialogue: 0,0:16:10.62,0:16:14.76,Other1,,0,0,0,,{\blur2\4c&H83F5FA&\c&H04D4FF&\3c&HFFFFFF&\pos(546,830)}Super Mario Kart
+Dialogue: 0,0:16:10.62,0:16:14.44,Normal,,0,0,0,,Next up his Hamada: will he beat Endo's record?
+Dialogue: 0,0:16:14.76,0:16:48.99,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:16:14.76,0:16:48.99,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:16:14.76,0:16:48.99,Other2,,0,0,0,,{\c&H00EDEF&\fscx75\fscy100\pos(1098,342.667)}Hamada's challenge
+Dialogue: 0,0:16:14.76,0:16:48.99,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1132.5,202.667)}Super Mario Kart
+Dialogue: 0,0:16:18.34,0:16:22.04,Matsumoto,,0,0,0,,If Hamada doesn't end up on 8th place, he wins to me
+Dialogue: 0,0:16:22.04,0:16:24.52,Hosei,,0,0,0,,I agree
+Dialogue: 0,0:16:22.54,0:16:24.52,Endo,,0,0,0,,You're right
+Dialogue: 0,0:16:24.88,0:16:25.84,Endo,,0,0,0,,He's good
+Dialogue: 0,0:16:25.84,0:16:29.50,Tanaka,,0,0,0,,Look out
+Dialogue: 0,0:16:25.84,0:16:27.20,Hamada,,0,0,0,,I'm not
+Dialogue: 0,0:16:27.20,0:16:29.50,Matsumoto,,0,0,0,,I think our position should count
+Dialogue: 0,0:16:31.27,0:16:33.58,Hamada,,0,0,0,,I'm so slow, what the hell?
+Dialogue: 0,0:16:32.54,0:16:35.22,Matsumoto,,0,0,0,,But man, look at this...
+Dialogue: 0,0:16:33.58,0:16:35.22,Hamada,,0,0,0,,Where should I go?
+Dialogue: 0,0:16:35.48,0:16:37.32,Endo,,0,0,0,,I know, right?
+Dialogue: 0,0:16:36.02,0:16:37.32,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:16:38.00,0:16:40.38,Endo,,0,0,0,,He cleared his first lap, though
+Dialogue: 0,0:16:38.90,0:16:40.38,Hosei,,0,0,0,,He isn't that bad
+Dialogue: 0,0:16:40.38,0:16:42.48,Hamada,,0,0,0,,I'm not good at all
+Dialogue: 0,0:16:41.14,0:16:43.54,Endo,,0,0,0,,He's pretty fast
+Dialogue: 0,0:16:42.48,0:16:43.54,Tanaka,,0,0,0,,The item!
+Dialogue: 0,0:16:43.54,0:16:45.20,Hamada,,0,0,0,,He's rolling around
+Dialogue: 0,0:16:45.20,0:16:48.60,Endo,,0,0,0,,That's 'cause Tanaka told you to get the item
+Dialogue: 0,0:16:46.28,0:16:48.60,Hamada,,0,0,0,,That's right, don't tell me that
+Dialogue: 0,0:16:48.99,0:16:51.33,Tanaka,,0,0,0,,{\c&H000000&\pos(720,792)}But if you don't take an item,{\r} you can't win
+Dialogue: 0,0:16:51.33,0:17:02.17,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:16:51.33,0:17:02.17,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:16:51.33,0:17:02.17,Other2,,0,0,0,,{\c&H00EDEF&\fscx75\fscy100\pos(1098,342.667)}Hamada's challenge
+Dialogue: 0,0:16:51.33,0:17:02.17,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1132.5,202.667)}Super Mario Kart
+Dialogue: 0,0:16:50.26,0:16:51.70,Matsumoto,,0,0,0,,He's right
+Dialogue: 0,0:16:51.70,0:16:53.26,Endo,,0,0,0,,That's the item
+Dialogue: 0,0:16:53.26,0:16:55.28,Tanaka,,0,0,0,,You have to get it and use it
+Dialogue: 0,0:16:53.74,0:16:55.28,Matsumoto,,0,0,0,,Come on
+Dialogue: 0,0:16:55.28,0:16:56.68,Hamada,,0,0,0,,How do I use it?
+Dialogue: 0,0:16:56.06,0:16:57.12,Hosei,,0,0,0,,They're right behind him
+Dialogue: 0,0:16:56.68,0:16:58.46,Tanaka,,0,0,0,,How can't you know how to use it?
+Dialogue: 0,0:16:58.92,0:17:01.46,Hamada,,0,0,0,,I don't know man, you keep on telling me to use it
+Dialogue: 0,0:17:01.46,0:17:04.87,Endo,,0,0,0,,Yeah, which button is it?
+Dialogue: 0,0:17:02.20,0:17:04.87,Hamada,,0,0,0,,I have no idea which button I should press
+Dialogue: 0,0:17:04.87,0:17:15.48,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:04.87,0:17:15.48,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:04.87,0:17:15.48,Other2,,0,0,0,,{\c&H00EDEF&\fscx75\fscy100\pos(1098,342.667)}Hamada's challenge
+Dialogue: 0,0:17:04.87,0:17:15.48,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1132.5,202.667)}Super Mario Kart
+Dialogue: 0,0:17:05.34,0:17:09.34,Normal,,0,0,0,,In the end, Hamada gets behind everyone else and is left alone
+Dialogue: 0,0:17:09.34,0:17:10.86,Hosei,,0,0,0,,Look at the map at the bottom
+Dialogue: 0,0:17:10.86,0:17:12.26,Endo,,0,0,0,,Woah
+Dialogue: 0,0:17:13.30,0:17:14.88,Hosei,,0,0,0,,That's slower than Endo's
+Dialogue: 0,0:17:14.88,0:17:16.64,Matsumoto,,0,0,0,,Like, 3 seconds slower?
+Dialogue: 0,0:17:15.82,0:17:21.19,Other2,,0,0,0,,{\fade(250,0)\pos(760,832)}Hamada;{\r\c&H03D5FE&} 1 minute 40.97 seconds
+Dialogue: 0,0:17:16.96,0:17:18.48,Hosei,,0,0,0,,Eight seconds, actually
+Dialogue: 0,0:17:18.48,0:17:21.19,Endo,,0,0,0,,1 minute and 40,97 seconds
+Dialogue: 0,0:17:19.50,0:17:21.19,Matsumoto,,0,0,0,,That means he's out
+Dialogue: 0,0:17:22.56,0:17:24.78,Endo,,0,0,0,,I think Tanaka is good at this
+Dialogue: 0,0:17:23.34,0:17:24.78,Matsumoto,,0,0,0,,Alright, get ready Tanaka
+Dialogue: 0,0:17:24.78,0:17:25.59,Tanaka,,0,0,0,,You know
+Dialogue: 0,0:17:25.59,0:17:29.60,Tanaka,,0,0,0,,I've played the {\c&H000000&\pos(720,912)}Wii U{\r} version before
+Dialogue: 0,0:17:27.52,0:17:28.80,Hosei,,0,0,0,,With your son?
+Dialogue: 0,0:17:28.28,0:17:28.80,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:17:28.80,0:17:30.96,Matsumoto,,0,0,0,,But that's completely different
+Dialogue: 0,0:17:29.34,0:17:30.96,Hamada,,0,0,0,,Is that so?
+Dialogue: 0,0:17:30.96,0:17:32.23,Tanaka,,0,0,0,,Let me try
+Dialogue: 0,0:17:32.23,0:17:47.18,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:32.23,0:17:47.18,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:32.23,0:17:47.18,Other2,,0,0,0,,{\c&H00EDEF&\fscx75\fscy98\pos(1102,337.333)}Tanaka's challenge
+Dialogue: 0,0:17:32.23,0:17:47.18,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:17:32.82,0:17:35.70,Normal,,0,0,0,,Tanaka has confidence in his skills
+Dialogue: 0,0:17:36.24,0:17:37.76,Endo,,0,0,0,,Huh?
+Dialogue: 0,0:17:36.70,0:17:37.76,Hamada,,0,0,0,,What are you doing?
+Dialogue: 0,0:17:39.08,0:17:41.82,Endo,,0,0,0,,You should know how to play it
+Dialogue: 0,0:17:40.20,0:17:41.82,Tanaka,,0,0,0,,Nope, this is different
+Dialogue: 0,0:17:41.82,0:17:43.24,Hamada,,0,0,0,,You're shaking like crazy
+Dialogue: 0,0:17:43.24,0:17:45.08,Tanaka,,0,0,0,,This has nothing to do with the other
+Dialogue: 0,0:17:44.12,0:17:45.08,Hosei,,0,0,0,,Tanaka...
+Dialogue: 0,0:17:45.08,0:17:47.18,Tanaka,,0,0,0,,This is really hard
+Dialogue: 0,0:17:45.08,0:17:47.18,Hamada,,0,0,0,,Still on 8th place
+Dialogue: 0,0:17:47.18,0:17:49.89,Matsumoto,,0,0,0,,{\pos(720,908)}He's spending a lot of time over the gravel
+Dialogue: 0,0:17:49.89,0:17:50.85,Tanaka,,0,0,0,,Man
+Dialogue: 0,0:17:50.85,0:17:52.29,Tanaka,,0,0,0,,It's really hard to use {\pos(720,908)\c&H000000&}a D-pad{\r}
+Dialogue: 0,0:17:52.29,0:17:58.39,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:52.29,0:17:58.39,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:17:52.29,0:17:58.39,Other2,,0,0,0,,{\c&H00EDEF&\fscx75\fscy98\pos(1102,337.333)}Tanaka's challenge
+Dialogue: 0,0:17:52.29,0:17:58.39,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:17:52.29,0:17:53.04,Matsumoto,,0,0,0,,Not going well
+Dialogue: 0,0:17:53.04,0:17:57.46,Normal,,0,0,0,,He couldn't get used to the controls and sadly ends up in eighth position
+Dialogue: 0,0:17:57.82,0:17:58.54,Hosei,,0,0,0,,Oh
+Dialogue: 0,0:17:58.54,0:18:00.18,Endo,,0,0,0,,Around 1 minute 38
+Dialogue: 0,0:17:58.73,0:18:04.07,Other2,,0,0,0,,{\fade(250,0)\pos(760,832)}Tanaka:{\r\c&H03D5FE&} 1 minute 38.28 seconds
+Dialogue: 0,0:18:00.18,0:18:02.28,Hamada,,0,0,0,,I was slower
+Dialogue: 0,0:17:59.54,0:18:02.28,Tanaka,,0,0,0,,1 minute and 38,28 seconds
+Dialogue: 0,0:18:02.28,0:18:04.07,Tanaka,,0,0,0,,Not good at all
+Dialogue: 0,0:18:02.28,0:18:04.07,Endo,,0,0,0,,I was faster
+Dialogue: 0,0:18:04.07,0:18:20.35,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:18:04.07,0:18:20.35,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:18:04.07,0:18:20.35,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:18:04.07,0:18:20.35,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:18:04.34,0:18:07.88,Normal,,0,0,0,,Our fourth challenger is Hosei, a video-game enthusiast
+Dialogue: 0,0:18:09.64,0:18:10.64,Endo,,0,0,0,,He's good
+Dialogue: 0,0:18:10.64,0:18:12.14,Endo,,0,0,0,,He's far from the gravel
+Dialogue: 0,0:18:12.14,0:18:14.62,Hamada,,0,0,0,,I mean, that's how it should be
+Dialogue: 0,0:18:14.76,0:18:16.84,Endo,,0,0,0,,Right, on the concrete
+Dialogue: 0,0:18:16.28,0:18:20.35,Matsumoto,,0,0,0,,Yeah, you can speed up properly only on track
+Dialogue: 0,0:18:16.84,0:18:20.35,Hamada,,0,0,0,,Oh no, look
+Dialogue: 0,0:18:20.35,0:18:23.35,Matsumoto,,0,0,0,,Yamazaki is being reckless too
+Dialogue: 0,0:18:24.22,0:18:28.88,Normal,,0,0,0,,He hasn't played for so long he lost the knack and couldn't race so well
+Dialogue: 0,0:18:31.28,0:18:32.24,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:18:32.24,0:18:35.30,Hosei,,0,0,0,,Woah, so close!
+Dialogue: 0,0:18:33.70,0:18:35.30,Endo,,0,0,0,,Yet another eighth place
+Dialogue: 0,0:18:35.63,0:18:41.00,Other2,,0,0,0,,{\fade(250,0)\pos(760,832)}Hosei:{\r\c&H03D5FE&} 1 minute 22.51 seconds
+Dialogue: 0,0:18:35.30,0:18:38.58,Hamada,,0,0,0,,This is hard
+Dialogue: 0,0:18:36.94,0:18:38.58,Endo,,0,0,0,,But he did it in 1:22
+Dialogue: 0,0:18:38.58,0:18:41.00,Hamada,,0,0,0,,Yeah, it's the best record so far
+Dialogue: 0,0:18:40.06,0:18:41.00,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:18:41.50,0:18:48.81,Other1,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H000000&\pos(217.5,748)}Coming up
+Dialogue: 0,0:18:41.50,0:18:48.81,Other1,,0,0,0,,{\c&H1015E3&\3c&HFFFFFF&\4c&H000000&\pos(714,866)}Matsumoto's Mario Kart full speed drive!?
+Dialogue: 0,0:18:45.12,0:18:48.50,Matsumoto,,0,0,0,,No way! Can we just pretend that last thing never happened?
+Dialogue: 0,0:18:49.51,0:18:56.42,Other1,,0,0,0,,{\4c&H14A1F0&\c&H1024E9&\pos(214.5,690)\3c&HFFFFFF&}Matsumoto's
+Dialogue: 0,0:18:49.51,0:18:56.42,Other1,,0,0,0,,{\blur2\4c&HC4C4C4&\c&H1024E9&\pos(1233,868)\3c&HFFFFFF&}challenge
+Dialogue: 0,0:18:49.51,0:18:56.42,Other1,,0,0,0,,{\blur2\4c&H83F5FA&\c&H04D4FF&\3c&HFFFFFF&\pos(546,830)}Super Maro Kart
+Dialogue: 0,0:18:49.51,0:18:53.46,Normal,,0,0,0,,Super Mario Kart time attack: it's Matsumoto's turn
+Dialogue: 0,0:18:53.46,0:18:56.06,Normal,,0,0,0,,Will he escape the eighth position hell?
+Dialogue: 0,0:18:56.42,0:18:58.26,Matsumoto,,0,0,0,,You see...
+Dialogue: 0,0:18:58.89,0:19:01.56,Matsumoto,,0,0,0,,{\pos(357,794)}I've been watching all of you
+Dialogue: 0,0:18:58.89,0:19:01.56,Matsumoto,,0,0,0,,{\pos(822.5,921.333)}And there was something wrong in the way you played...
+Dialogue: 0,0:19:01.56,0:19:04.56,Matsumoto,,0,0,0,,{\pos(660,796)}You were constantly
+Dialogue: 0,0:19:02.66,0:19:04.56,Matsumoto,,0,0,0,,{\c&H000000&\pos(679.5,910)}accelerating like idiots,{\r} weren't you?
+Dialogue: 0,0:18:23.35,0:18:35.30,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:18:23.35,0:18:35.30,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:18:23.35,0:18:35.30,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:18:23.35,0:18:35.30,Other2,,0,0,0,,{\c&H00EDEF&\pos(1102,337.333)}Hosei's challenge
+Dialogue: 0,0:19:04.56,0:19:42.03,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:19:04.56,0:19:42.03,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:19:04.56,0:19:42.03,Other2,,0,0,0,,{\c&H00EDEF&\fscx67\fscy93\pos(1102,337.333)}Matsumoto's challenge
+Dialogue: 0,0:19:04.56,0:19:42.03,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:19:04.56,0:19:07.28,Matsumoto,,0,0,0,,You have to correctly press and release it
+Dialogue: 0,0:19:08.98,0:19:11.80,Hamada,,0,0,0,,It smoked like crazy
+Dialogue: 0,0:19:11.80,0:19:13.46,Hamada,,0,0,0,,On the gravel already?!
+Dialogue: 0,0:19:13.46,0:19:15.46,Endo,,0,0,0,,Why so quickly...?
+Dialogue: 0,0:19:20.62,0:19:22.78,Endo,,0,0,0,,You're always on the gravel
+Dialogue: 0,0:19:22.78,0:19:24.28,Endo,,0,0,0,,Oh but you used them...
+Dialogue: 0,0:19:24.28,0:19:27.06,Endo,,0,0,0,,Like a shortcut
+Dialogue: 0,0:19:23.56,0:19:25.34,Hosei,,0,0,0,,You took a shortcut
+Dialogue: 0,0:19:25.34,0:19:27.06,Hamada,,0,0,0,,I see...
+Dialogue: 0,0:19:27.52,0:19:30.04,Endo,,0,0,0,,Looks like the gravel isn't so bad after all
+Dialogue: 0,0:19:30.04,0:19:32.02,Hosei,,0,0,0,,You can use it as a shortcut
+Dialogue: 0,0:19:32.02,0:19:34.92,Hosei,,0,0,0,,He's catching up
+Dialogue: 0,0:19:33.46,0:19:34.92,Tanaka,,0,0,0,,Oh, nice
+Dialogue: 0,0:19:35.22,0:19:36.74,Endo,,0,0,0,,He relies so much on gravel
+Dialogue: 0,0:19:36.74,0:19:38.40,Hosei,,0,0,0,,The banana!
+Dialogue: 0,0:19:38.60,0:19:42.03,Matsumoto,,0,0,0,,No way! Can we just pretend that last thing never happened?
+Dialogue: 0,0:19:42.03,0:19:42.60,Matsumoto,,0,0,0,,{\blur3\bord4\shad4\pos(720,904)}Have you{\alpha&HFF&\c&H000000&} ever seen a banana dropped on a road?!
+Dialogue: 0,0:19:42.60,0:19:45.60,Matsumoto,,0,0,0,,{\blur3\bord4\shad4\pos(720,904)}Have you{\c&H000000&} ever seen a banana dropped on a road?!
+Dialogue: 0,0:19:45.60,0:20:16.33,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:19:45.60,0:20:16.33,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:19:45.60,0:20:16.33,Other2,,0,0,0,,{\c&H00EDEF&\fscx67\fscy93\pos(1102,337.333)}Matsumoto's challenge
+Dialogue: 0,0:19:45.60,0:20:16.33,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H3290D6&\pos(1133,203.333)}Super Mario Kart
+Dialogue: 0,0:19:47.92,0:19:48.82,Hamada,,0,0,0,,What?
+Dialogue: 0,0:19:48.82,0:19:52.86,Hamada,,0,0,0,,I think you should give up on that trick
+Dialogue: 0,0:19:54.98,0:19:56.50,Hamada,,0,0,0,,Oh, it worked
+Dialogue: 0,0:19:55.74,0:19:57.78,Hosei,,0,0,0,,He's seventh
+Dialogue: 0,0:19:56.50,0:19:57.78,Hamada,,0,0,0,,Nice, he's seventh
+Dialogue: 0,0:19:57.78,0:19:59.48,Endo,,0,0,0,,That gravel technique is something
+Dialogue: 0,0:20:00.14,0:20:02.60,Hosei,,0,0,0,,It's going well, he can do this
+Dialogue: 0,0:20:03.08,0:20:04.52,Hamada,,0,0,0,,You think so?
+Dialogue: 0,0:20:03.60,0:20:04.52,Hosei,,0,0,0,,Yeah, easily
+Dialogue: 0,0:20:04.52,0:20:06.08,Tanaka,,0,0,0,,Really?
+Dialogue: 0,0:20:04.88,0:20:06.08,Hosei,,0,0,0,,Yes
+Dialogue: 0,0:20:06.90,0:20:08.76,Hosei,,0,0,0,,Oh, he got a mushroom
+Dialogue: 0,0:20:08.76,0:20:10.63,Endo,,0,0,0,,I see, he cut through
+Dialogue: 0,0:20:10.63,0:20:13.04,Endo,,0,0,0,,He's relying so much on gravel
+Dialogue: 0,0:20:13.80,0:20:14.86,Hosei,,0,0,0,,Seventh place
+Dialogue: 0,0:20:16.67,0:20:20.57,Other2,,0,0,0,,{\fade(250,0)\pos(760,832)}Matsumoto:{\r\c&H03D5FE&} 1 minute 18.26 seconds
+Dialogue: 0,0:20:15.66,0:20:18.88,Matsumoto,,0,0,0,,But it's still way higher than your scores
+Dialogue: 0,0:20:19.32,0:20:20.57,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:20:20.90,0:20:25.74,Other1,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H000000&\pos(217.5,748)}Coming up
+Dialogue: 0,0:20:20.90,0:20:25.74,Other1,,0,0,0,,{\c&H1015E3&\3c&HFFFFFF&\4c&H000000&\pos(714,866)}Battling against Matsumoto in Street Fighter II!
+Dialogue: 0,0:20:20.57,0:20:21.42,Endo,,0,0,0,,His legs are so long!
+Dialogue: 0,0:20:26.58,0:20:31.25,Other1,,0,0,0,,{\c&H0C23EA&\3c&HFFFFFF&\4c&H29A3F5&\pos(975,278)}Matsumoto's
+Dialogue: 0,0:20:26.58,0:20:31.25,Other1,,0,0,0,,{\c&HFFFFFF&\3c&H7123D8&\4c&H29A3F5&\pos(978,494)}Selected game
+Dialogue: 0,0:20:26.58,0:20:30.60,Normal,,0,0,0,,Which super famicom game is Matsumoto going to pick?
+Dialogue: 0,0:20:31.25,0:20:34.42,Hamada,,0,0,0,,Don't we have any fun games to play together?
+Dialogue: 0,0:20:34.72,0:20:35.68,Hosei,,0,0,0,,Do we have{\c&H000000&\pos(724.5,908)} SF II?{\alpha&HFF&\c&H000000&} Let's do SF II
+Dialogue: 0,0:20:35.68,0:20:37.52,Hosei,,0,0,0,,Do we have {\c&H000000&\pos(724.5,908)}SF II?{\r{\c&H000000&} Let's do SF II
+Dialogue: 0,0:20:35.68,0:20:37.52,Matsumoto,,0,0,0,,Oh, SF II? Nice one
+Dialogue: 0,0:20:37.52,0:20:40.32,Endo,,0,0,0,,{\pos(720,910)}Wasn't it over here?
+Dialogue: 0,0:20:38.99,0:20:40.32,Matsumoto,,0,0,0,,{\pos(705,778)}It's here!
+Dialogue: 0,0:20:40.72,0:20:43.53,Matsumoto,,0,0,0,,{\c&H000000&\pos(720,910)}Not even close,{\r} Endo
+Dialogue: 0,0:20:43.06,0:20:44.54,Hosei,,0,0,0,,What were you looking for?
+Dialogue: 0,0:20:43.54,0:20:46.16,Tanaka,,0,0,0,,Let's play SF II
+Dialogue: 0,0:20:44.54,0:20:46.16,Endo,,0,0,0,,I thought it was there
+Dialogue: 0,0:20:46.73,0:20:52.33,Other3,,0,0,0,,{\p1\fade(250,0)\c&H04A511&\1a&H1C&\pos(912,770)\fscx756\fscy237}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:20:46.73,0:20:52.33,Other3,,0,0,0,,{\fade(250,0)\pos(721.5,766)}Published in 1991
+Dialogue: 0,0:20:46.73,0:20:52.33,Other1,,0,0,0,,{\bord2\shad5\fade(250,0)\c&H00CCF8&\3c&HFFFFFF&\4c&H000000&\pos(724.5,898)}Street Fighter II
+Dialogue: 0,0:20:47.04,0:20:49.54,Normal,,0,0,0,,A masterpiece and worldwide big hit
+Dialogue: 0,0:20:49.54,0:20:51.68,Normal,,0,0,0,,Street Fighter II
+Dialogue: 0,0:20:52.33,0:21:01.24,Other2,,0,0,0,,{\fs30\pos(613.5,1018.667)}You can play this on virtual console
+Dialogue: 0,0:20:53.20,0:20:55.54,Normal,,0,0,0,,Pick one of the many peculiar characters
+Dialogue: 0,0:20:55.54,0:20:58.06,Normal,,0,0,0,,And defeat your enemies using various techniques
+Dialogue: 0,0:20:58.06,0:21:00.21,Normal,,0,0,0,,It's a tournament-styled fighting game
+Dialogue: 0,0:21:01.94,0:21:06.55,Other1,,0,0,0,,{\fade(0,250)\c&H1BA8FF&\pos(708,846)\fs60\t(0,8000,\fs80}Street Fighter II: {\c&HFF2720&\3c&HFFFFFF&\4c&H0D1F8D&} challenge against Matsumoto
+Dialogue: 0,0:21:01.56,0:21:06.75,Normal,,0,0,0,,Matsumoto has great confidence in his skills, so everyone is going to challenge him
+Dialogue: 0,0:21:07.08,0:21:09.65,Other1,,0,0,0,,{\pos(712.5,736)\c&H00D5FC&}Street Fighter II
+Dialogue: 0,0:21:07.08,0:21:09.65,Other1,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H1133E3&\pos(459,868)}Matsumoto
+Dialogue: 0,0:21:07.08,0:21:09.65,Other1,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H026AEA&\pos(988.5,868)}Endo
+Dialogue: 0,0:21:07.08,0:21:09.26,Normal,,0,0,0,,His first challenger is Endo
+Dialogue: 0,0:21:09.65,0:21:15.36,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:09.65,0:21:15.36,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:09.65,0:21:15.36,Other2,,0,0,0,,{\fs39\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs39\fscx102\fscy133\c&H0470E2&\3c&HFFFFFF&} Endo
+Dialogue: 0,0:21:09.65,0:21:15.36,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:21:09.65,0:21:10.56,Tanaka,,0,0,0,,This was huge
+Dialogue: 0,0:21:10.56,0:21:12.22,Matsumoto,,0,0,0,,Alright, it's me vs Endo
+Dialogue: 0,0:21:11.26,0:21:12.22,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:21:12.22,0:21:14.82,Matsumoto,,0,0,0,,I'm going to pick this kabuki fighter
+Dialogue: 0,0:21:15.69,0:21:18.26,Other1,,0,0,0,,{\c&H3938F5&\4c&H1B18B2&\pos(733,922)}Matsumoto picks{\c&HEC795B&\4c&HC55830&} E. HONDA{\c&H3938F5&\4c&H1B18B2&} for this challenge
+Dialogue: 0,0:21:16.74,0:21:17.98,Matsumoto,,0,0,0,,Honda
+Dialogue: 0,0:21:18.26,0:21:22.70,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:18.26,0:21:22.70,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:18.26,0:21:22.70,Other2,,0,0,0,,{\fs39\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs39\fscx102\fscy133\c&H0470E2&\3c&HFFFFFF&} Endo
+Dialogue: 0,0:21:18.26,0:21:22.70,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:21:18.64,0:21:21.32,Hosei,,0,0,0,,This monster is pretty strong
+Dialogue: 0,0:21:19.64,0:21:21.32,Endo,,0,0,0,,This guy here?
+Dialogue: 0,0:21:21.32,0:21:22.70,Endo,,0,0,0,,What's his name?
+Dialogue: 0,0:21:23.03,0:21:26.90,Other1,,0,0,0,,{\c&H3685FF&\4c&H1076C9&\pos(699,922)}Endo picks{\c&H0FCE45&\4c&HFFFFFF&} BLANKA{\c&H3685FF&\4c&H1076C9&} for this challenge
+Dialogue: 0,0:21:22.70,0:21:25.16,Matsumoto,,0,0,0,,The hell is this? I wouldn't dare to fight him
+Dialogue: 0,0:21:25.16,0:21:26.90,Endo,,0,0,0,,I'm choosing Blanko--- I mean, Blanka
+Dialogue: 0,0:21:26.90,0:21:45.02,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:26.90,0:21:45.02,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:26.90,0:21:45.02,Other2,,0,0,0,,{\fs39\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs39\fscx102\fscy133\c&H0470E2&\3c&HFFFFFF&} Endo
+Dialogue: 0,0:21:26.90,0:21:45.02,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:21:26.90,0:21:30.87,Other3,,0,0,0,,{\fade(0,250)\p1\c&H153AEB&\1a&H1C&\pos(396,866)\fscx227\fscy266}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:26.90,0:21:30.87,Other3,,0,0,0,,{\fade(0,250)\p1\c&H3293F4&\1a&H1C&\fscx227\fscy266\pos(802.5,866)}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:26.90,0:21:30.87,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(747,852)}Endo
+Dialogue: 0,0:21:26.90,0:21:30.87,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(337.5,852)\fscx58\fscy100}Matsumoto
+Dialogue: 0,0:21:29.12,0:21:30.92,Hamada,,0,0,0,,The monster looks strong
+Dialogue: 0,0:21:30.92,0:21:32.58,Endo,,0,0,0,,Impressive background
+Dialogue: 0,0:21:32.58,0:21:35.24,Hamada,,0,0,0,,He's just kicking around
+Dialogue: 0,0:21:35.46,0:21:36.64,Endo,,0,0,0,,Blanka!
+Dialogue: 0,0:21:36.88,0:21:38.92,Endo,,0,0,0,,Man, he's so strong
+Dialogue: 0,0:21:39.14,0:21:41.70,Endo,,0,0,0,,He's way too strong!
+Dialogue: 0,0:21:41.90,0:21:45.02,Endo,,0,0,0,,Honda is amazing
+Dialogue: 0,0:21:43.24,0:21:45.02,Hosei,,0,0,0,,What was that?!
+Dialogue: 0,0:21:45.02,0:21:47.90,Hosei,,0,0,0,,He's so strong
+Dialogue: 0,0:21:46.02,0:21:50.23,Other1,,0,0,0,,{\blur2\c&H4CE0FE&\3c&H00365D&\4c&H8BD5D3&\pos(724.5,824)}Matsumoto wins
+Dialogue: 0,0:21:46.12,0:21:47.90,Endo,,0,0,0,,Honda is a beast
+Dialogue: 0,0:21:47.90,0:21:50.23,Hamada,,0,0,0,,You ended it only with open-hand slaps
+Dialogue: 0,0:21:48.76,0:21:50.23,Endo,,0,0,0,,Yeah...
+Dialogue: 0,0:21:50.23,0:22:22.42,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:50.23,0:22:22.42,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:50.23,0:22:22.42,Other2,,0,0,0,,{\fs39\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs39\fscx102\fscy133\c&H14C11D&\3c&HFFFFFF&} Hosei
+Dialogue: 0,0:21:50.23,0:22:22.42,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:21:50.23,0:21:54.20,Other3,,0,0,0,,{\fade(0,250)\p1\c&H153AEB&\1a&H1C&\pos(396,866)\fscx227\fscy266}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:50.23,0:21:54.20,Other3,,0,0,0,,{\fade(0,250)\p1\c&H059405&\1a&H1C&\fscx227\fscy266\pos(802.5,866)}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:21:50.23,0:21:54.20,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(747,852)}Hosei
+Dialogue: 0,0:21:50.23,0:21:54.20,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(337.5,852)\fscx58\fscy100}Matsumoto
+Dialogue: 0,0:21:50.78,0:21:52.88,Normal,,0,0,0,,The second challenger is Hosei
+Dialogue: 0,0:21:52.88,0:21:55.32,Normal,,0,0,0,,He fights as Blanka too, just like Endo
+Dialogue: 0,0:21:57.36,0:21:58.90,Tanaka,,0,0,0,,That's a dirty move
+Dialogue: 0,0:21:58.00,0:21:58.90,Hosei,,0,0,0,,Here I come
+Dialogue: 0,0:21:59.58,0:22:01.72,Tanaka,,0,0,0,,Oh, nice move
+Dialogue: 0,0:22:00.14,0:22:01.72,Endo,,0,0,0,,Go Blanka
+Dialogue: 0,0:22:02.68,0:22:04.26,Tanaka,,0,0,0,,Really nice
+Dialogue: 0,0:22:04.94,0:22:06.91,Hamada,,0,0,0,,He's trying to reach him
+Dialogue: 0,0:22:08.78,0:22:10.22,Hosei,,0,0,0,,Got him
+Dialogue: 0,0:22:10.98,0:22:13.54,Matsumoto,,0,0,0,,Take this
+Dialogue: 0,0:22:12.06,0:22:13.54,Hosei,,0,0,0,,What just happened?!
+Dialogue: 0,0:22:13.54,0:22:15.25,Endo,,0,0,0,,Honda is unstoppable
+Dialogue: 0,0:22:16.20,0:22:17.08,Endo,,0,0,0,,Oh shit!
+Dialogue: 0,0:22:17.08,0:22:18.60,Hosei,,0,0,0,,Gimme a break
+Dialogue: 0,0:22:17.08,0:22:18.60,Tanaka,,0,0,0,,You're in a pinch
+Dialogue: 0,0:22:19.54,0:22:21.94,Matsumoto,,0,0,0,,Alright!!
+Dialogue: 0,0:22:21.16,0:22:22.68,Endo,,0,0,0,,Honda is so strong!
+Dialogue: 0,0:22:22.68,0:22:24.52,Hosei,,0,0,0,,Come on...
+Dialogue: 0,0:22:23.43,0:22:28.26,Other1,,0,0,0,,{\blur2\c&H4CE0FE&\3c&H00365D&\4c&H8BD5D3&\pos(724.5,824)}Matsumoto wins for two consecutive rounds
+Dialogue: 0,0:22:24.88,0:22:26.38,Endo,,0,0,0,,Honda is really strong
+Dialogue: 0,0:22:26.38,0:22:28.26,Hosei,,0,0,0,,We have to bring him down
+Dialogue: 0,0:22:26.64,0:22:28.26,Matsumoto,,0,0,0,,Don't underestimate Honda
+Dialogue: 0,0:22:28.26,0:22:40.64,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:28.26,0:22:40.64,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:28.26,0:22:40.64,Other2,,0,0,0,,{\fs34\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs34\fscx102\fscy133\c&HC11523&\3c&HFFFFFF&} Hamada
+Dialogue: 0,0:22:28.26,0:22:40.64,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:22:28.50,0:22:30.24,Normal,,0,0,0,,Hamada is up next
+Dialogue: 0,0:22:30.24,0:22:31.56,Matsumoto,,0,0,0,,You can change character
+Dialogue: 0,0:22:31.56,0:22:33.38,Endo,,0,0,0,,You're sticking with Honda?
+Dialogue: 0,0:22:30.74,0:22:32.18,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:22:32.18,0:22:34.72,Matsumoto,,0,0,0,,Honda is everything I have
+Dialogue: 0,0:22:33.38,0:22:34.72,Hamada,,0,0,0,,Which one should I pick?
+Dialogue: 0,0:22:34.98,0:22:36.42,Matsumoto,,0,0,0,,Just pick the one you like
+Dialogue: 0,0:22:35.58,0:22:38.42,Hosei,,0,0,0,,Oh, that one is pretty strong, the indian guy
+Dialogue: 0,0:22:36.42,0:22:37.64,Hamada,,0,0,0,,Which one?
+Dialogue: 0,0:22:37.64,0:22:40.64,Hamada,,0,0,0,,Alright, let's pick him
+Dialogue: 0,0:22:38.42,0:22:40.64,Endo,,0,0,0,,"The indian guy"...?
+Dialogue: 0,0:22:40.64,0:22:42.18,Endo,,0,0,0,,Does he look like an indian guy?
+Dialogue: 0,0:22:40.91,0:22:42.78,Other1,,0,0,0,,{\c&HFECD4C&\3c&H000000&\4c&H1076C9&\pos(699,922)}Hamada picks{\c&H4390FD&\4c&HFFFFFF&} DHALSIM{\c&HFECD4C&\4c&H1076C9&} for this challenge
+Dialogue: 0,0:22:42.78,0:23:06.64,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:42.78,0:23:06.64,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:42.78,0:23:06.64,Other2,,0,0,0,,{\fs34\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs34\fscx102\fscy133\c&HC11523&\3c&HFFFFFF&} Hamada
+Dialogue: 0,0:22:42.78,0:23:06.64,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:22:42.78,0:22:46.75,Other3,,0,0,0,,{\fade(0,250)\p1\c&H153AEB&\1a&H1C&\pos(396,866)\fscx227\fscy266}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:42.78,0:22:46.75,Other3,,0,0,0,,{\fade(0,250)\p1\c&HFF1417&\1a&H1C&\fscx227\fscy266\pos(802.5,866)}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:22:42.78,0:22:46.75,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(747,852)}Hamada
+Dialogue: 0,0:22:42.78,0:22:46.75,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(337.5,852)\fscx58\fscy100}Matsumoto
+Dialogue: 0,0:22:42.78,0:22:44.16,Hosei,,0,0,0,,Let's bring him down
+Dialogue: 0,0:22:44.16,0:22:45.98,Endo,,0,0,0,,His movements looks light
+Dialogue: 0,0:22:45.98,0:22:47.98,Endo,,0,0,0,,Woah! Look how long his legs are!
+Dialogue: 0,0:22:46.40,0:22:47.98,Tanaka,,0,0,0,,Amazing legs!
+Dialogue: 0,0:22:48.32,0:22:51.12,Hosei,,0,0,0,,Alright, alright!
+Dialogue: 0,0:22:48.88,0:22:51.12,Endo,,0,0,0,,Isn't Honda in a pinch right now?
+Dialogue: 0,0:22:51.12,0:22:52.36,Tanaka,,0,0,0,,You can do it
+Dialogue: 0,0:22:52.36,0:22:54.34,Tanaka,,0,0,0,,You can totally do this
+Dialogue: 0,0:22:56.68,0:22:57.56,Hosei,,0,0,0,,Oh shit
+Dialogue: 0,0:22:57.56,0:22:59.46,Tanaka,,0,0,0,,Crap
+Dialogue: 0,0:22:57.92,0:22:59.46,Endo,,0,0,0,,Honda is in a pinch
+Dialogue: 0,0:22:59.46,0:23:00.80,Tanaka,,0,0,0,,Go for it!
+Dialogue: 0,0:23:02.36,0:23:04.04,Endo,,0,0,0,,Honda did it again!
+Dialogue: 0,0:23:04.04,0:23:05.34,Matsumoto,,0,0,0,,Alright!
+Dialogue: 0,0:23:04.22,0:23:05.76,Endo,,0,0,0,,How strong is him?!
+Dialogue: 0,0:23:05.34,0:23:06.64,Hamada,,0,0,0,,Almost there
+Dialogue: 0,0:23:05.76,0:23:07.22,Matsumoto,,0,0,0,,Oh yeah!
+Dialogue: 0,0:23:06.64,0:23:08.36,Hamada,,0,0,0,,I almost made it
+Dialogue: 0,0:23:07.18,0:23:08.36,Tanaka,,0,0,0,,You got so close
+Dialogue: 0,0:23:07.46,0:23:09.83,Other1,,0,0,0,,{\blur2\c&H4CE0FE&\3c&H00365D&\4c&H8BD5D3&\pos(724.5,824)}Matsumoto wins for three consecutive rounds
+Dialogue: 0,0:23:08.36,0:23:11.18,Hamada,,0,0,0,,I only needed few more seconds
+Dialogue: 0,0:23:08.36,0:23:11.18,Tanaka,,0,0,0,,He had barely any health left
+Dialogue: 0,0:23:11.18,0:23:12.64,Endo,,0,0,0,,Honda is a beast...
+Dialogue: 0,0:23:11.18,0:23:12.64,Hamada,,0,0,0,,He's really good
+Dialogue: 0,0:23:12.88,0:23:13.94,Hosei,,0,0,0,,Avenge us, Tanaka!
+Dialogue: 0,0:23:13.94,0:23:15.46,Hosei,,0,0,0,,We're counting on you
+Dialogue: 0,0:23:13.34,0:23:14.66,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:23:15.31,0:23:42.94,Other2,,0,0,0,,{\fs34\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs34\fscx102\fscy133\c&HB60CBD&\3c&HFFFFFF&} Tanaka
+Dialogue: 0,0:23:15.31,0:23:19.28,Other3,,0,0,0,,{\p1\fade(0,250)\c&H153AEB&\1a&H1C&\pos(396,866)\fscx227\fscy266}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:15.31,0:23:19.28,Other3,,0,0,0,,{\p1\fade(0,250)\c&HB60CBD&\1a&H1C&\fscx227\fscy266\pos(802.5,866)}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:15.31,0:23:19.28,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(747,852)}Tanaka
+Dialogue: 0,0:23:15.31,0:23:19.28,Other3,,0,0,0,,{\fade(0,250)\fs40\pos(337.5,852)\fscx58\fscy100}Matsumoto
+Dialogue: 0,0:23:15.46,0:23:16.88,Matsumoto,,0,0,0,,I want to defeat all of you
+Dialogue: 0,0:23:16.88,0:23:18.88,Hosei,,0,0,0,,Like that, nice!
+Dialogue: 0,0:23:17.46,0:23:18.88,Endo,,0,0,0,,Good
+Dialogue: 0,0:23:19.48,0:23:21.26,Endo,,0,0,0,,Use your long legs
+Dialogue: 0,0:23:20.18,0:23:21.26,Hamada,,0,0,0,,Nice
+Dialogue: 0,0:23:21.26,0:23:24.52,Hamada,,0,0,0,,Like that, don't let him get close to you
+Dialogue: 0,0:23:24.52,0:23:25.82,Hamada,,0,0,0,,Block his open-hand slaps
+Dialogue: 0,0:23:25.82,0:23:28.60,Endo,,0,0,0,,If you don't, Honda will get you
+Dialogue: 0,0:23:26.56,0:23:28.60,Hamada,,0,0,0,,That's right, no open-hand slaps
+Dialogue: 0,0:23:28.60,0:23:29.84,Endo,,0,0,0,,Nice, go from the above
+Dialogue: 0,0:23:29.84,0:23:32.82,Hosei,,0,0,0,,Oh no, that's a risky move
+Dialogue: 0,0:23:31.32,0:23:32.82,Hamada,,0,0,0,,Like that, yeah
+Dialogue: 0,0:23:32.82,0:23:35.02,Hamada,,0,0,0,,Get away from his slaps
+Dialogue: 0,0:23:33.46,0:23:35.02,Hosei,,0,0,0,,Don't let him slap you
+Dialogue: 0,0:23:35.02,0:23:36.80,Endo,,0,0,0,,Honda is gonna get you!
+Dialogue: 0,0:23:36.80,0:23:38.94,Endo,,0,0,0,,He's going to
+Dialogue: 0,0:23:37.28,0:23:38.94,Hamada,,0,0,0,,Keep on doing that!
+Dialogue: 0,0:23:38.94,0:23:41.32,Hamada,,0,0,0,,Don't let him slap you!
+Dialogue: 0,0:23:41.50,0:23:44.16,Matsumoto,,0,0,0,,Shit, I'm in trouble
+Dialogue: 0,0:23:41.50,0:23:44.16,Hamada,,0,0,0,,You can win this!
+Dialogue: 0,0:23:44.16,0:23:46.04,Endo,,0,0,0,,Almost there
+Dialogue: 0,0:23:44.58,0:23:46.04,Matsumoto,,0,0,0,,I'm done for
+Dialogue: 0,0:23:15.31,0:23:42.94,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\pos(1273.5,374)\fscx691\fscy450}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:15.31,0:23:42.94,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1345.5,236)\fscx833\fscy460}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:15.31,0:23:42.94,Other2,,0,0,0,,{\fs34\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1100.5,338)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs34\fscx102\fscy133\c&HB60CBD&\3c&HFFFFFF&} Tanaka
+Dialogue: 0,0:23:15.31,0:23:42.94,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1132.5,202)}Street Fighter II
+Dialogue: 0,0:23:46.04,0:23:58.49,Other3,,0,0,0,,{\p1\c&HA1B3FA&\1a&H1C&\fscx691\fscy450\pos(1264.5,338)}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:46.04,0:23:58.49,Other3,,0,0,0,,{\p1\c&HEBE667&\1a&H1C&\pos(1338,212)\fscx838\fscy498}m 0 0 l -25 0 l -25 25 b -8 25 8 25 25 25 b 25 17 25 8 25 0 b 17 0 8 0 0 0
+Dialogue: 0,0:23:46.04,0:23:58.49,Other2,,0,0,0,,{\fs34\c&H1639EA&\3c&HFFFFFF&\fscx102\fscy133\pos(1091.5,306)}Matsumoto{\c&H000000&\3c&HFFFFFF&} vs{\r\fs34\fscx102\fscy133\c&HB60CBD&\3c&HFFFFFF&} Tanaka
+Dialogue: 0,0:23:46.04,0:23:58.49,Other1,,0,0,0,,{\c&HFFFFFF&\4c&H40ECE5&\pos(1122,180)}Street Fighter II
+Dialogue: 0,0:23:46.04,0:23:47.54,Hamada,,0,0,0,,Get away from his slaps
+Dialogue: 0,0:23:47.54,0:23:49.28,Hamada,,0,0,0,,You just need one more hit
+Dialogue: 0,0:23:46.50,0:23:48.64,Endo,,0,0,0,,Don't let Honda get any closer
+Dialogue: 0,0:23:49.28,0:23:51.12,Hamada,,0,0,0,,You only need one hit to win
+Dialogue: 0,0:23:52.58,0:23:54.38,Hamada,,0,0,0,,Oh shit, watch out!!
+Dialogue: 0,0:23:54.38,0:23:55.38,Hosei,,0,0,0,,Holy crap--
+Dialogue: 0,0:23:59.32,0:24:01.99,Other1,,0,0,0,,{\blur2\c&H4CE0FE&\3c&H00365D&\4c&H8BD5D3&\pos(714,546)}Tanaka wins
+Dialogue: 0,0:23:59.06,0:24:00.78,Hosei,,0,0,0,,Alright!
+Dialogue: 0,0:23:59.56,0:24:00.78,Hamada,,0,0,0,,Ok, ok
+Dialogue: 0,0:24:03.24,0:24:04.68,Hamada,,0,0,0,,You did it
+Dialogue: 0,0:24:03.48,0:24:04.68,Endo,,0,0,0,,Nice
+Dialogue: 0,0:24:04.68,0:24:05.92,Hamada,,0,0,0,,That was your only way
+Dialogue: 0,0:24:05.92,0:24:09.70,Hamada,,0,0,0,,You couldn't let him get any closer
+Dialogue: 0,0:24:04.42,0:24:09.70,Credits,,0,0,0,,{\fad(200,0)\fs45}Translation by {\3c&H898813&}Shion{\3c&H000000&} | Typeset & editing by {\3c&H18C4F6&}Kedomas
+Dialogue: 0,0:24:04.42,0:24:09.70,Credits,,0,0,0,,{\fad(200,0)\fs45}more episodes @ {\3c&H4363FF&}shionnotsukai.wordpress.com
+Dialogue: 0,0:24:04.42,0:24:09.70,Credits,,0,0,0,,{\fad(200,0)\fs45\3c&HC0CF72&}fb.com/shionnotsukai {\3c&H000000&}| {\3c&HB84EA1&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:24:04.42,0:24:09.70,Credits,,0,0,0,,{\fad(200,0)\fs45\3c&H6972E0&}patreon.com/shionnotsukai{\3c&H000000&} | {\3c&H57B75A&}twitter.com/FGRNDNoises
+Dialogue: 0,0:24:04.42,0:24:09.70,Credits,,0,0,0,,{\fad(200,0)\c&HFFFFFF&\1a&H97&\3c&H1F2081&\3a&H8F&}THIS IS A NO-PROFIT TRANSLATION MADE BY FANS FOR \NOTHER FANS. NO COPYRIGHT INFRINGMENT INTENDED.
+

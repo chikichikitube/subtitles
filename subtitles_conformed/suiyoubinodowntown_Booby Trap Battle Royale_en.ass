@@ -1,0 +1,823 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: WEDNESDAY DOWNTOWN 2017-04-26 2HSP-01.09.10.279-01.30.03.731.mp4
+Video File: WEDNESDAY DOWNTOWN 2017-04-26 2HSP-01.09.10.279-01.30.03.731.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.545370
+Active Line: 2
+Video Position: 568
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Default/Small,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,2,2,10,10,10,1
+Style: Default/Big,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Hamada,Arial,60,&H00F61718,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Matsumoto,Arial,60,&H001238E5,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: YOU,Arial,60,&H009D10AF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Kasuga,Arial,60,&H00DCBBF9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Tanaka,Arial,60,&H00FFFFFF,&H000000FF,&H00CFC110,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Matsushino,Arial,60,&H00FFFFFF,&H000000FF,&H00B510CF,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Shiran,Arial,60,&H0058FFEA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: UP/Hamada,Arial,40,&H00F61718,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: UP/Matsumoto,Arial,40,&H001238E5,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: UP/YOU,Arial,40,&H009D10AF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: UP/Shiran,Arial,40,&H0058FFEA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: UP/Tanaka,Arial,40,&H00FFFFFF,&H000000FF,&H00CFC110,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: UP/Matsushino,Arial,40,&H00FFFFFF,&H000000FF,&H00B510CF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,9,10,30,250,1
+Style: Holes,Arial,40,&H00FFFFFF,&H000000FF,&H000E0D5D,&H00000000,-1,0,0,0,75,100,0,0,1,3,0,2,10,10,10,1
+Style: Black,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Blue,Arial,60,&H00FFFF8A,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Blue2,Arial,60,&H00FFFFFF,&H000000FF,&H00B8342A,&H00000000,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Red,Arial,40,&H00FFFFFF,&H000000FF,&H002E19E1,&H00000000,-1,0,0,0,75,100,0,0,1,3,0,2,10,10,10,1
+Style: Red/Bigger,Arial,70,&H00FFFFFF,&H000000FF,&H002E19E1,&H00000000,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Red2,Arial,60,&H001700E7,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Yellow,Arial,40,&H0002F1F0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,0,2,10,10,10,1
+Style: Yellow2,Arial,30,&H00000000,&H000000FF,&H0002F1F0,&H00000000,-1,0,0,0,75,100,0,0,1,3,0,2,10,10,10,1
+Style: Yellow3,Arial,60,&H002FFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Purple,Arial,70,&H00FFFFFF,&H000000FF,&H00A92276,&H00000000,-1,0,0,0,75,100,0,0,1,5,0,2,10,10,10,1
+Style: Purple2,Arial,60,&H00DE4FBA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Pink,Arial,60,&H00D367F6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Pink2,Arial,60,&H00FFFFFF,&H000000FF,&H00A43DF2,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Green,Arial,60,&H0002FF0F,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,10,10,10,1
+Style: Credits,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,7,10,10,10,1
+Style: Credits 2,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,9,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:14.06,Credits,,0,0,0,,{\fad(0,500)}TRANSLATION BY {\c&H84FF6C&}SHION{\r}\NTYPESET BY {\c&H84FF6C&}SHION {\r}& {\c&H84FF6C&}KEDOMAS\N{\r} EDIT & QC BY {\c&H84FF6C&}KEDOMAS
+Dialogue: 0,0:00:00.00,0:00:14.06,Credits 2,,0,0,0,,{\3c&H87006A&}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&HAB168B&}fB.COM/SHIONNOTSUKAI\N{\3c&HC344A7&}TWITTER.COM/SHIONNOTSUKAI\N{\3c&HDF76C6&}KO-FI.COM/SHIONNOTSUKAI\N{\3c&HE695D2&}PATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:00:01.51,0:00:04.08,Hamada,,0,0,0,,Here's our next presenter, please come in
+Dialogue: 0,0:00:09.69,0:00:11.56,YOU,,0,0,0,,It's him!
+Dialogue: 0,0:00:09.69,0:00:17.96,Default,,0,0,0,,{\p1\bord0\shad0\c&HDCBBF9&\1a&H1C&\pos(852.147,971.2)\fscx458\fscy613}m 0 0 l -30 0 l -30 30 l 30 30 l 30 0 l 0 0
+Dialogue: 0,0:00:09.69,0:00:17.96,Default,,0,0,0,,{\3c&HDCBBF9&\c&H000000&\pos(718.135,959.467)}Presenter:\NKasuga Toshiaki\N{\fs40}(from Audrey)
+Dialogue: 0,0:00:11.56,0:00:13.56,Hamada,,0,0,0,,It's Kasuga Toshiaki
+Dialogue: 0,0:00:13.56,0:00:14.63,Kasuga,,0,0,0,,Toos!
+Dialogue: 0,0:00:16.23,0:00:18.03,Kasuga,,0,0,0,,Alright, today I want to show you---
+Dialogue: 0,0:00:18.03,0:00:20.73,Tanaka,,0,0,0,,Already? It's too early
+Dialogue: 0,0:00:20.73,0:00:22.40,Kasuga,,0,0,0,,I don't want to waste time
+Dialogue: 0,0:00:22.80,0:00:24.80,Kasuga,,0,0,0,,Have you ever experienced a booby-trap?
+Dialogue: 0,0:00:24.80,0:00:26.37,Tanaka,,0,0,0,,Oh yes\N{\rKasuga}- Booby-traps...
+Dialogue: 0,0:00:26.37,0:00:28.54,Matsumoto,,0,0,0,,He really started already...\N{\rKasuga}- That's right
+Dialogue: 0,0:00:28.54,0:00:31.51,Kasuga,,0,0,0,,'Cause I want to show you the VTR
+Dialogue: 0,0:00:29.17,0:00:31.51,Hamada,,0,0,0,,Booby-traps? I think Tanaka had
+Dialogue: 0,0:00:31.51,0:00:35.31,Tanaka,,0,0,0,,Oh yeah, I've fell down in like 10 of those
+Dialogue: 0,0:00:33.38,0:00:35.31,Kasuga,,0,0,0,,That's a fair bunch
+Dialogue: 0,0:00:35.65,0:00:37.65,Kasuga,,0,0,0,,How about you, Matsushino?\N{\rMatsushino}- Never
+Dialogue: 0,0:00:37.65,0:00:39.48,Kasuga,,0,0,0,,Oh, never before?\N{\rMatsushino}- No
+Dialogue: 0,0:00:39.48,0:00:41.92,Kasuga,,0,0,0,,How about you, Downtown?
+Dialogue: 0,0:00:41.92,0:00:45.79,Matsumoto,,0,0,0,,I don't think we haven't, right?\N{\rHamada}- Yeah, i guess so...
+Dialogue: 0,0:00:45.79,0:00:48.66,YOU,,0,0,0,,Most likely yes\N{\rMatsumoto}- I think so too
+Dialogue: 0,0:00:48.66,0:00:51.13,Kasuga,,0,0,0,,Alright, about the booby-traps...
+Dialogue: 0,0:00:51.13,0:00:53.33,Kasuga,,0,0,0,,They're fun to watch, right?\N{\rMatsumoto}- They are
+Dialogue: 0,0:00:53.33,0:00:55.20,Kasuga,,0,0,0,,It's fun to see them work
+Dialogue: 0,0:00:55.20,0:00:59.10,Kasuga,,0,0,0,,So, here's the theory I've brought with me today
+Dialogue: 0,0:00:59.24,0:01:02.81,Black,,0,0,0,,{\fs110\pos(717.598,750.4)}Booby-traps Battle Royale
+Dialogue: 0,0:00:59.87,0:01:02.34,Hamada,,0,0,0,,"Booby-traps Battle Royale"
+Dialogue: 0,0:01:03.11,0:01:04.78,Matsushino,,0,0,0,,What's this about?
+Dialogue: 0,0:01:04.78,0:01:06.41,Kasuga,,0,0,0,,It's basically a{\alpha&HFF&} booby-trap-your-opponent game
+Dialogue: 0,0:01:06.41,0:01:07.58,Kasuga,,0,0,0,,It's basically a booby-trap-your-opponent{\alpha&HFF&} game
+Dialogue: 0,0:01:07.58,0:01:10.62,Kasuga,,0,0,0,,It's basically a booby-trap-your-opponent game
+Dialogue: 0,0:01:10.18,0:01:12.75,Kasuga,,0,0,0,,You have some booby-traps yourself
+Dialogue: 0,0:01:12.75,0:01:16.52,Kasuga,,0,0,0,,And you have to lead your opponents inside them
+Dialogue: 0,0:01:17.12,0:01:18.79,Kasuga,,0,0,0,,Yes, it requires strategy
+Dialogue: 0,0:01:18.79,0:01:20.56,Matsumoto,,0,0,0,,To a degree\N{\rYOU}- Sounds fun
+Dialogue: 0,0:01:20.56,0:01:24.40,Kasuga,,0,0,0,,It's also about psychological warfare​\N{\rHamada}- I see...
+Dialogue: 0,0:01:24.40,0:01:28.70,Black,,0,0,0,,But it's not a{\c&H0B00DE&} theory{\r} at all
+Dialogue: 0,0:01:26.73,0:01:28.70,Kasuga,,0,0,0,,Well, yeah, it's not
+Dialogue: 0,0:01:29.10,0:01:30.70,Shiran,,0,0,0,,It's fine, we don't need them
+Dialogue: 0,0:01:30.70,0:01:31.97,Matsumoto,,0,0,0,,Are we done with theories?
+Dialogue: 0,0:01:31.97,0:01:33.97,Kasuga,,0,0,0,,Yes, today it's not a theory
+Dialogue: 0,0:01:35.21,0:01:39.74,Default/Small,,0,0,0,,{\fade(250,0)\pos(259,884)}10:06 A.M.
+Dialogue: 0,0:01:43.55,0:01:44.62,Default,,0,0,0,,Good morning
+Dialogue: 0,0:01:44.78,0:01:52.26,Default/Small,,0,0,0,,{\fade(250,0)\pos(509,659)}Mari Yaguchi
+Dialogue: 0,0:01:44.78,0:01:52.26,Default/Small,,0,0,0,,{\fade(250,0)\pos(880,596)}{\fs30}Viking\N{\r}Kotohge Eiji
+Dialogue: 0,0:01:44.78,0:01:52.26,Default/Small,,0,0,0,,{\fade(250,0)\pos(722,769)}{\fs30}Trendy Angel\N{\r}Takashi
+Dialogue: 0,0:01:44.78,0:01:52.26,Default/Small,,0,0,0,,{\fade(250,0)\pos(366,817)}Akemi Matsuno
+Dialogue: 0,0:01:44.78,0:01:52.26,Default/Small,,0,0,0,,{\fade(250,0)\pos(1113,769)\fs(30)}Anzen Manzai\N{\r}Miyazon
+Dialogue: 0,0:01:45.35,0:01:48.35,Default,,0,0,0,,Step forward and form a line
+Dialogue: 0,0:01:48.95,0:01:52.26,Default,,0,0,0,,We tricked them into thinking\N this was a camping episode
+Dialogue: 0,0:01:52.26,0:01:54.36,Default/Small,,0,0,0,,{\pos(717,891)}Professor Kitano\N(Beat Takeshi)
+Dialogue: 0,0:01:52.26,0:01:53.36,Default,,0,0,0,,Get closer
+Dialogue: 0,0:01:53.36,0:01:55.86,Default,,0,0,0,,It's Takeshi...\N- Where...?
+Dialogue: 0,0:01:58.30,0:02:00.67,Default,,0,0,0,,What's going on?!\N- What the--?
+Dialogue: 0,0:02:08.41,0:02:10.74,Default,,0,0,0,,What was that?
+Dialogue: 0,0:02:12.68,0:02:15.31,Default,,0,0,0,,Wait, what's that?
+Dialogue: 0,0:02:14.51,0:02:15.31,Default,,0,0,0,,{\pos(720,926)}- Listen
+Dialogue: 0,0:02:15.58,0:02:16.38,Default,,0,0,0,,The{\alpha&HFF&} entertainment industry has hit rock bottom
+Dialogue: 0,0:02:16.38,0:02:17.55,Default,,0,0,0,,The entertainment industry{\alpha&HFF&} has hit rock bottom
+Dialogue: 0,0:02:17.55,0:02:18.72,Default,,0,0,0,,The entertainment industry has hit rock bottom
+Dialogue: 0,0:02:18.72,0:02:20.12,Default,,0,0,0,,Wha-?
+Dialogue: 0,0:02:20.82,0:02:22.35,Default,,0,0,0,,What are you talking about?\N- That's why...
+Dialogue: 0,0:02:22.35,0:02:23.05,Default,,0,0,0,,Wait a second,{\alpha&HFF&} this is getting scary
+Dialogue: 0,0:02:23.05,0:02:24.66,Default,,0,0,0,,Wait a second, this is getting scary
+Dialogue: 0,0:02:24.82,0:02:26.26,Default,,0,0,0,,That's why{\alpha&HFF&} I thought of this game
+Dialogue: 0,0:02:26.26,0:02:27.53,Default,,0,0,0,,That's why I thought of this game
+Dialogue: 0,0:02:28.03,0:02:28.96,Default,,0,0,0,,Booby-trap{\alpha&HFF&} Battle Royale
+Dialogue: 0,0:02:28.96,0:02:30.20,Default,,0,0,0,,Booby-trap Battle Royale
+Dialogue: 0,0:02:30.20,0:02:34.13,Default,,0,0,0,,{\pos(725,848)\c&H1800E6&\bord3\fs80\t(0,4000,\fs100)}text
+Dialogue: 0,0:02:30.20,0:02:32.20,Default,,0,0,0,,What?!\N- What the hell?
+Dialogue: 0,0:02:32.20,0:02:33.23,Default,,0,0,0,,Give me a break!
+Dialogue: 0,0:02:33.23,0:02:35.23,Default,,0,0,0,,Who are thos--- aaah!!
+Dialogue: 0,0:02:37.64,0:02:39.50,UP/Hamada,,0,0,0,,So goddamn loud!
+Dialogue: 0,0:02:40.24,0:02:41.67,Default,,0,0,0,,This is scary!
+Dialogue: 0,0:02:42.07,0:02:42.67,Default,,0,0,0,,I'll{\alpha&HFF&} have you booby-trap each other
+Dialogue: 0,0:02:42.67,0:02:43.98,Default,,0,0,0,,I'll have you{\alpha&HFF&} booby-trap each other
+Dialogue: 0,0:02:43.98,0:02:47.11,Default,,0,0,0,,I'll have you booby-trap each other
+Dialogue: 0,0:02:45.38,0:02:47.11,Default,,0,0,0,,{\pos(741.373,928.667)}Booby-trap each other...?
+Dialogue: 0,0:02:45.91,0:02:47.11,Default,,0,0,0,,{\pos(741.373,867.334)}- W-wait
+Dialogue: 0,0:02:47.38,0:02:55.82,Default/Small,,0,0,0,,{\t(0,8000,\fs80\pos(720.367,856))}Boobie-trap battle until only one will be left!!
+Dialogue: 0,0:02:47.61,0:02:52.08,Default,,0,0,0,,On today's plan, only one of them will be left
+Dialogue: 0,0:02:52.08,0:02:54.52,Default,,0,0,0,,It's time for Booby-trap Battle Royale
+Dialogue: 0,0:02:53.35,0:02:55.82,UP/YOU,,0,0,0,,This is incredible...
+Dialogue: 0,0:02:56.09,0:03:05.60,Default,,0,0,0,,{\fade(250,0)\pos(717,492)\blur8\shad0}Each one of them knows two trap locations
+Dialogue: 0,0:02:56.52,0:03:01.03,Default,,0,0,0,,There's a total of 10 holes dug up in this camping site
+Dialogue: 0,0:03:01.03,0:03:05.13,Default,,0,0,0,,Each member knows the location of two of them
+Dialogue: 0,0:03:05.80,0:03:13.27,Default,,0,0,0,,{\fade(250,0)\pos(717,492)\shad0\blur8}A psychological game about luring your opponents
+Dialogue: 0,0:03:06.13,0:03:12.74,Default,,0,0,0,,It's a psychological game in which you have \Nto lead your opponent inside your own trap
+Dialogue: 0,0:03:13.27,0:03:19.38,Yellow2,,0,0,0,,{\pos(821.713,220.8)}Cookhouse
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(355,318)}Matsuno
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(427,452)}Takashi
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(677,544)}Kotohge
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(446,787)}Takashi
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(639,892)}Kotohge
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(985,246)}Matsuno
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(946,433)}Miyazon
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(1039,601)}Miyazon
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(933,700)}Yaguchi
+Dialogue: 0,0:03:13.27,0:03:19.38,Holes,,0,0,0,,{\pos(1012,814)}Yaguchi
+Dialogue: 0,0:03:14.01,0:03:18.74,Default,,0,0,0,,Their holes have been chosen by lottery, here they are
+Dialogue: 0,0:03:19.58,0:03:24.82,Default,,0,0,0,,{\fade(250,0)\pos(717,492)\shad0\blur8}They all receive a map with their own holes
+Dialogue: 0,0:03:19.95,0:03:24.05,Default,,0,0,0,,And they received a map \Nwhich only shows their two holes
+Dialogue: 0,0:03:25.22,0:03:26.42,Default,,0,0,0,,I think that...{\alpha&HFF&} this one must be my hole
+Dialogue: 0,0:03:26.42,0:03:27.59,Default,,0,0,0,,I think that... this one{\alpha&HFF&} must be my hole
+Dialogue: 0,0:03:27.59,0:03:29.49,Default,,0,0,0,,I think that... this one must be my hole
+Dialogue: 0,0:03:29.49,0:03:30.52,Default,,0,0,0,,So you fell inside{\alpha&HFF&} your own hole, huh...
+Dialogue: 0,0:03:30.52,0:03:32.89,Default,,0,0,0,,So you fell inside your own hole, huh...
+Dialogue: 0,0:03:32.89,0:03:34.39,Default,,0,0,0,,That's a shame
+Dialogue: 0,0:03:34.39,0:03:34.86,Default,,0,0,0,,No, Matsuno,{\alpha&HFF&} you don't have to dig it yourself
+Dialogue: 0,0:03:34.86,0:03:36.53,Default,,0,0,0,,No, Matsuno, you don't have to dig it yourself
+Dialogue: 0,0:03:36.53,0:03:37.40,Default,,0,0,0,,Are you sure about...
+Dialogue: 0,0:03:37.40,0:03:38.56,Default,,0,0,0,,I g-g-g--gg-guess so?
+Dialogue: 0,0:03:38.56,0:03:40.50,Default,,0,0,0,,They're already there?
+Dialogue: 0,0:03:39.63,0:03:40.50,Default,,0,0,0,,{\pos(711.985,822)}- Yeah, I think so
+Dialogue: 0,0:03:40.50,0:03:41.03,Default,,0,0,0,,An idiot{\alpha&HFF&} shouldn't speak with another idiot!
+Dialogue: 0,0:03:41.03,0:03:41.37,Default,,0,0,0,,An idiot shouldn't speak{\alpha&HFF&} with another idiot!
+Dialogue: 0,0:03:41.37,0:03:43.37,Default,,0,0,0,,An idiot shouldn't speak with another idiot!
+Dialogue: 0,0:03:43.37,0:03:45.57,Default,,0,0,0,,Are the holes in there already?
+Dialogue: 0,0:03:44.54,0:03:45.57,Default,,0,0,0,,{\pos(711.985,822)}- Yes, they are
+Dialogue: 0,0:03:45.67,0:03:50.38,Default/Small,,0,0,0,,{\fade(250,0)\pos(724,499)\shad1\blur8}Tracking their own traps
+Dialogue: 0,0:03:46.00,0:03:49.94,Default,,0,0,0,,They all went to check their own booby-traps' location
+Dialogue: 0,0:03:50.54,0:03:58.02,Default/Small,,0,0,0,,{\fade(250,0)\pos(727,460)\blur8\shad0\b1}Booby-trap Battle Royale: start\N11:16 A.M.{\b0}
+Dialogue: 0,0:03:50.71,0:03:53.21,Default,,0,0,0,,And now the game finally begins
+Dialogue: 0,0:03:53.21,0:03:56.58,Default,,0,0,0,,Alright guys, now go get ready for lunch
+Dialogue: 0,0:03:56.58,0:03:58.02,Default,,0,0,0,,Sure\N- Got it
+Dialogue: 0,0:03:58.02,0:04:02.92,Default,,0,0,0,,Should we walk this close to each other?\N- Well, there could be a trap...
+Dialogue: 0,0:03:58.22,0:04:08.06,Default/Small,,0,0,0,,{\fade(250,0)\shad0\blur6\pos(441.718,884)}11:16 A.M. - Going to the cookhouse to prepare lunch
+Dialogue: 0,0:04:02.92,0:04:08.06,Default,,0,0,0,,Oh, that's right\N- This looks like one     - Watch out
+Dialogue: 0,0:04:08.39,0:04:09.76,Default,,0,0,0,,Hey look, there's...{\alpha&HFF&} like, over there...
+Dialogue: 0,0:04:09.76,0:04:11.50,Default,,0,0,0,,Hey look, there's... like,{\alpha&HFF&} over there...
+Dialogue: 0,0:04:11.50,0:04:12.83,Default,,0,0,0,,Hey look, there's... like, over there...
+Dialogue: 0,0:04:10.33,0:04:12.06,Default,,0,0,0,,{\pos(711.985,923.333)}- What's going on?
+Dialogue: 0,0:04:12.83,0:04:14.57,Default,,0,0,0,,There's some kind of flower,{\alpha&HFF&} let's go see it
+Dialogue: 0,0:04:14.57,0:04:15.53,Default,,0,0,0,,There's some kind of flower, let's go see it
+Dialogue: 0,0:04:13.40,0:04:14.67,Default,,0,0,0,,{\pos(711.985,923.333)}- A flower?
+Dialogue: 0,0:04:17.14,0:04:18.27,Default,,0,0,0,,We should eat first...
+Dialogue: 0,0:04:18.27,0:04:18.77,Default,,0,0,0,,Come on,{\alpha&HFF&} it's Spring
+Dialogue: 0,0:04:18.77,0:04:22.04,Default,,0,0,0,,Come on, it's Spring
+Dialogue: 0,0:04:22.04,0:04:24.14,Default,,0,0,0,,Let's go see the flower sprouts
+Dialogue: 0,0:04:24.14,0:04:25.04,Default,,0,0,0,,Flower gazing?
+Dialogue: 0,0:04:25.04,0:04:26.65,Default,,0,0,0,,That's right, flower gazing
+Dialogue: 0,0:04:26.65,0:04:28.55,Default,,0,0,0,,But lunch...
+Dialogue: 0,0:04:28.55,0:04:30.45,Default,,0,0,0,,We gotta make it first
+Dialogue: 0,0:04:28.85,0:04:30.85,UP/Hamada,,0,0,0,,She's just revealing her moves\N{\rUP/YOU}- Right...
+Dialogue: 0,0:04:30.85,0:04:33.15,UP/Matsumoto,,0,0,0,,How can I put it...
+Dialogue: 0,0:04:34.42,0:04:35.55,UP/Matsumoto,,0,0,0,,She sucks so bad!
+Dialogue: 0,0:04:31.28,0:04:35.55,Holes,,0,0,0,,{\pos(254,484)}Matsuno
+Dialogue: 0,0:04:31.28,0:04:35.55,Red,,0,0,0,,{\pos(1034,515)}Objective
+Dialogue: 0,0:04:31.28,0:04:35.55,Yellow2,,0,0,0,,{\pos(989,352)}Cookhouse
+Dialogue: 0,0:04:31.28,0:04:35.55,Yellow,,0,0,0,,{\pos(696,574)}Current location
+Dialogue: 0,0:04:30.75,0:04:34.25,Default,,0,0,0,,What Matsuno is plotting is...
+Dialogue: 0,0:04:35.52,0:04:36.35,Default,,0,0,0,,This way!
+Dialogue: 0,0:04:36.35,0:04:37.92,Default,,0,0,0,,Matsuno?{\alpha&HFF&} You suck at this
+Dialogue: 0,0:04:36.66,0:04:37.92,Default,,0,0,0,,{\pos(736,936)}- What?
+Dialogue: 0,0:04:37.92,0:04:40.13,Default,,0,0,0,,Matsuno? You suck at this
+Dialogue: 0,0:04:40.13,0:04:40.59,Default,,0,0,0,,No way{\alpha&HFF&} we're falling for that
+Dialogue: 0,0:04:40.59,0:04:42.66,Default,,0,0,0,,No way we're falling for that
+Dialogue: 0,0:04:42.66,0:04:44.70,Default,,0,0,0,,There's a trap over there, right?
+Dialogue: 0,0:04:44.70,0:04:46.60,Default,,0,0,0,,No, that's not...
+Dialogue: 0,0:04:45.70,0:04:46.60,Default,,0,0,0,,{\pos(733.358,910)}- Already?
+Dialogue: 0,0:04:47.23,0:04:51.60,Purple,,0,0,0,,{\t(0,5000,\fs60\pos(738,843))}Her plan failed because of her poor acting
+Dialogue: 0,0:04:47.27,0:04:50.94,Default,,0,0,0,,Her plan to lure them failed because of her poor acting
+Dialogue: 0,0:04:49.93,0:04:51.67,UP/Tanaka,,0,0,0,,Oh boy...
+Dialogue: 0,0:04:51.60,0:04:57.74,Holes,,0,0,0,,{\pos(254,488)}Matsuno
+Dialogue: 0,0:04:51.60,0:04:57.74,Yellow,,0,0,0,,{\pos(704,577)}Current location
+Dialogue: 0,0:04:51.60,0:04:57.74,Red,,0,0,0,,{\pos(1033.148,520)}Objective
+Dialogue: 0,0:04:51.60,0:04:57.74,Yellow2,,0,0,0,,{\pos(994.705,348.8)}Cookhouse
+Dialogue: 0,0:04:51.97,0:04:57.74,Default,,0,0,0,,{\fade(250,0)\fade(250,0)\pos(780,840)\shad5}She only revealed{\rBlue\shad5} where her trap was
+Dialogue: 0,0:04:52.14,0:04:56.98,Default,,0,0,0,,In the end, she only let them know where her trap is
+Dialogue: 0,0:04:57.71,0:04:59.81,Default,,0,0,0,,That was too quick, Matsuno
+Dialogue: 0,0:05:00.31,0:05:06.05,Yellow2,,0,0,0,,{\pos(323.56,548.8)}Cookhouse
+Dialogue: 0,0:05:00.31,0:05:02.11,Default,,0,0,0,,This is the cooking area
+Dialogue: 0,0:05:04.02,0:05:05.82,Default,,0,0,0,,How nice, it's all set up
+Dialogue: 0,0:05:06.05,0:05:07.45,Default,,0,0,0,,Come on, let's get ready
+Dialogue: 0,0:05:06.25,0:05:12.22,Default/Small,,0,0,0,,{\fade(250,0)\shad0\blur6\pos(337.525,881.333)}11:21 A.M. - Time to start the barbecue
+Dialogue: 0,0:05:07.45,0:05:09.45,Default,,0,0,0,,Again?!
+Dialogue: 0,0:05:08.65,0:05:10.49,UP/Hamada,,0,0,0,,There she goes again
+Dialogue: 0,0:05:09.45,0:05:10.59,Default,,0,0,0,,Matsuno..?
+Dialogue: 0,0:05:10.49,0:05:12.96,UP/Hamada,,0,0,0,,She's so bad at this!
+Dialogue: 0,0:05:10.59,0:05:12.22,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:05:12.22,0:05:13.36,Default,,0,0,0,,We gotta get ready
+Dialogue: 0,0:05:13.36,0:05:17.26,Default,,0,0,0,,We gotta set everything up, right?
+Dialogue: 0,0:05:13.69,0:05:24.04,Yellow,,0,0,0,,{\fade(250,0)\pos(730,984)}Matsuno's trap
+Dialogue: 0,0:05:14.39,0:05:18.43,UP/Hamada,,0,0,0,,- She sucks so bad...\N{\rUP/Matsumoto}I mean, it's so obvious
+Dialogue: 0,0:05:17.86,0:05:20.43,Default/Small,,0,0,0,,{\pos(461.312,737.6)}You're really bad at this, Matsuno
+Dialogue: 0,0:05:20.43,0:05:22.00,Default/Small,,0,0,0,,{\pos(725.606,740.8)}Come on, let's get ready
+Dialogue: 0,0:05:22.00,0:05:24.04,Default/Small,,0,0,0,,{\pos(400.445,702.4)}Alright, let's get ready then
+Dialogue: 0,0:05:24.04,0:05:31.88,Holes,,0,0,0,,{\pos(1250,380)}Matsuno
+Dialogue: 0,0:05:24.64,0:05:31.88,Yellow,,0,0,0,,{\fade(250,0)\pos(1079,574)}Current location
+Dialogue: 0,0:05:24.04,0:05:31.88,Yellow2,,0,0,0,,{\pos(991,353)}Cookhouse
+Dialogue: 0,0:05:24.60,0:05:31.88,Default,,0,0,0,,{\pos(772,840)}Another poor act{\rPurple2} reveals her second hole
+Dialogue: 0,0:05:24.60,0:05:29.61,Default,,0,0,0,,They all know there's another hole nearby
+Dialogue: 0,0:05:30.51,0:05:31.51,Default,,0,0,0,,But...
+Dialogue: 0,0:05:31.88,0:05:37.58,Yellow,,0,0,0,,{\pos(727.208,984)}Matsuno's trap
+Dialogue: 0,0:05:31.94,0:05:32.98,Default,,0,0,0,,This is incredible
+Dialogue: 0,0:05:32.51,0:05:33.65,Default,,0,0,0,,{\pos(979.147,662)}We gotta move this
+Dialogue: 0,0:05:33.65,0:05:35.45,Default,,0,0,0,,{\pos(840.223,662)}Over there
+Dialogue: 0,0:05:35.45,0:05:36.05,Default,,0,0,0,,But...
+Dialogue: 0,0:05:37.62,0:05:39.48,Default,,0,0,0,,Let's take this thing over there
+Dialogue: 0,0:05:39.48,0:05:41.15,Default,,0,0,0,,Why...?
+Dialogue: 0,0:05:41.15,0:05:42.65,Default,,0,0,0,,Where are you trying to go?
+Dialogue: 0,0:05:42.65,0:05:43.39,Default,,0,0,0,,Come on,{\alpha&HFF&} I'm not scheming anything! Let's go
+Dialogue: 0,0:05:43.39,0:05:45.42,Default,,0,0,0,,Come on, I'm not scheming anything! Let's go
+Dialogue: 0,0:05:45.42,0:05:47.76,Default,,0,0,0,,What are you--\N- It's heavy
+Dialogue: 0,0:05:47.76,0:05:49.19,Default,,0,0,0,,Let's just move it ov---
+Dialogue: 0,0:05:51.00,0:05:52.90,UP/Shiran,,0,0,0,,How could he fell for that?
+Dialogue: 0,0:06:10.92,0:06:12.02,Default,,0,0,0,,Whaaat?!
+Dialogue: 0,0:06:12.72,0:06:14.42,Default,,0,0,0,,"{\i1}What{\i0}" my ass,{\alpha&HFF&} it was so obvious
+Dialogue: 0,0:06:14.42,0:06:15.65,Default,,0,0,0,,"{\i1}What{\i0}" my ass, it was so obvious
+Dialogue: 0,0:06:15.79,0:06:18.16,Default,,0,0,0,,So quick
+Dialogue: 0,0:06:16.69,0:06:18.16,Default,,0,0,0,,{\pos(711.986,915.333)}- That can't be
+Dialogue: 0,0:06:19.06,0:06:22.03,Default,,0,0,0,,It was crystal clear
+Dialogue: 0,0:06:20.39,0:06:22.03,Default,,0,0,0,,{\pos(748.031,812.8)}Was it?
+Dialogue: 0,0:06:21.16,0:06:22.03,Default,,0,0,0,,{\pos(728.809,747.2)}- Of course
+Dialogue: 0,0:06:22.03,0:06:24.83,Default,,0,0,0,,Your act sucked the whole time, Matsuno
+Dialogue: 0,0:06:24.83,0:06:27.97,Default,,0,0,0,,Yeah, I was like "it's here, isn't it"?
+Dialogue: 0,0:06:28.20,0:06:40.28,Default/Small,,0,0,0,,{\fade(250,0)\pos(368.409,883.2)\blur5\shad0}Miyazon eliminated after 7 in-game minutes
+Dialogue: 0,0:06:28.20,0:06:40.28,Default/Small,,0,0,0,,{\fade(250,0)\pos(1236.574,884.8)\blur5\shad0}[4 people left]
+Dialogue: 0,0:06:28.63,0:06:32.67,Default,,0,0,0,,Her acting was poor, but one person didn't notice it
+Dialogue: 0,0:06:32.67,0:06:34.87,Default,,0,0,0,,And so, Miyazon drops out
+Dialogue: 0,0:06:40.28,0:06:48.65,Default/Small,,0,0,0,,{\pos(333.732,1054.4)\shad0}Defeated contestants monitoring space
+Dialogue: 0,0:06:40.28,0:06:42.61,Default,,0,0,0,,{\pos(738.701,832.667)}I really had no idea
+Dialogue: 0,0:06:43.85,0:06:46.82,UP/Shiran,,0,0,0,,As expected from Miyazon
+Dialogue: 0,0:06:42.81,0:06:44.65,Default,,0,0,0,,{\pos(738.701,832.667)}How come everybody knew that?
+Dialogue: 0,0:06:48.85,0:06:54.23,Default/Small,,0,0,0,,{\fade(250,0)\blur8\shad0\b1\pos(727,497.333)}They regain composure and start the barbecue
+Dialogue: 0,0:06:48.99,0:06:52.19,Default,,0,0,0,,Back to the camp, they're getting the bbq ready
+Dialogue: 0,0:06:52.62,0:06:53.79,Default,,0,0,0,,And then...
+Dialogue: 0,0:06:54.99,0:06:56.83,Default,,0,0,0,,Everything ok in there?
+Dialogue: 0,0:06:58.63,0:07:02.47,Default/Small,,0,0,0,,{\fade(250,0)\blur8\shad0\b1\pos(727,497.333)}Takashi leaves the area alone
+Dialogue: 0,0:06:58.63,0:07:01.43,Default,,0,0,0,,Takashi alone leaves the cooking area
+Dialogue: 0,0:07:02.80,0:07:03.44,Default,,0,0,0,,Oh,{\alpha&HFF&} hey Takashi
+Dialogue: 0,0:07:03.44,0:07:04.90,Default,,0,0,0,,Oh, hey Takashi
+Dialogue: 0,0:07:05.24,0:07:10.01,Default/Small,,0,0,0,,{\fade(250,0)\blur8\shad0\b1\pos(727,497.333)}He pays a visit to the eliminated Miyazon
+Dialogue: 0,0:07:06.07,0:07:09.54,Default,,0,0,0,,He goes to see the eliminated Miyazon
+Dialogue: 0,0:07:10.34,0:07:11.34,Default,,0,0,0,,I was worried about you{\alpha&HFF&} so I came here
+Dialogue: 0,0:07:11.34,0:07:12.28,Default,,0,0,0,,I was worried about you so I came here
+Dialogue: 0,0:07:12.28,0:07:13.91,Default,,0,0,0,,Why, thank you
+Dialogue: 0,0:07:13.91,0:07:17.05,Red,,0,0,0,,{\pos(946.652,897.6)}Miyazon is\Nlooking for something
+Dialogue: 0,0:07:13.91,0:07:15.55,Default,,0,0,0,,{\pos(483,992)}You know, just that...
+Dialogue: 0,0:07:17.08,0:07:18.22,Default,,0,0,0,,{\pos(670.71,999.8)}Look, a dog
+Dialogue: 0,0:07:14.35,0:07:17.55,Default,,0,0,0,,And while exchanging a casual conversation...
+Dialogue: 0,0:07:17.55,0:07:20.55,Default,,0,0,0,,Takashi takes something out from his backpack
+Dialogue: 0,0:07:20.55,0:07:22.09,Default,,0,0,0,,A dog? Where?
+Dialogue: 0,0:07:20.99,0:07:22.42,UP/YOU,,0,0,0,,Creepy...
+Dialogue: 0,0:07:23.22,0:07:24.66,Default,,0,0,0,,Over there?
+Dialogue: 0,0:07:24.96,0:07:27.43,UP/Hamada,,0,0,0,,He just stole his booby-traps
+Dialogue: 0,0:07:28.39,0:07:29.23,UP/Hamada,,0,0,0,,Right?
+Dialogue: 0,0:07:25.79,0:07:28.16,Default,,0,0,0,,I'm going to avenge you, Miyazon
+Dialogue: 0,0:07:29.39,0:07:30.70,Default,,0,0,0,,Takashi!!
+Dialogue: 0,0:07:33.23,0:07:34.67,UP/Hamada,,0,0,0,,He's clever
+Dialogue: 0,0:07:33.73,0:07:35.07,Default,,0,0,0,,See ya later
+Dialogue: 0,0:07:36.03,0:07:38.74,UP/Matsushino,,0,0,0,,No way!\N{\rUP/Shiran}- He stole it
+Dialogue: 0,0:07:38.74,0:07:40.97,Default,,0,0,0,,He's so dumb he didn't even realize it
+Dialogue: 0,0:07:39.64,0:07:43.91,Default/Small,,0,0,0,,{\fade(250,0)\blur8\shad0\b1\pos(727,497.333)}He stole Miyazon's map
+Dialogue: 0,0:07:41.21,0:07:43.91,Default,,0,0,0,,He successfully stole Miyazon's map
+Dialogue: 0,0:07:43.91,0:07:51.12,Holes,,0,0,0,,{\pos(768.854,552)}Miyazon
+Dialogue: 0,0:07:43.91,0:07:51.12,Holes,,0,0,0,,{\pos(632.703,288)}Miyazon
+Dialogue: 0,0:07:44.28,0:07:51.12,Default,,0,0,0,,{\fade(250,0)\pos(760.845,828.8)}Miyazon's{\rRed2} booby-traps: GET
+Dialogue: 0,0:07:44.54,0:07:49.91,Default,,0,0,0,,And he managed to steal the holes\Nnear the logs and in front of the dog house
+Dialogue: 0,0:07:51.42,0:07:53.22,Default,,0,0,0,,Takashi-san...{\alpha&HFF&} We can't start the fire
+Dialogue: 0,0:07:53.22,0:07:55.22,Default,,0,0,0,,Takashi-san... We can't start the fire
+Dialogue: 0,0:07:52.28,0:07:53.22,Default,,0,0,0,,{\pos(741.624,934.4)}- Sorry
+Dialogue: 0,0:07:54.39,0:07:55.22,Default,,0,0,0,,{\pos(741.624,934.4)}- Huh?
+Dialogue: 0,0:07:55.22,0:07:56.92,Default,,0,0,0,,We really can't
+Dialogue: 0,0:07:55.45,0:07:56.92,Default,,0,0,0,,{\pos(722.672,926)}- Not even a spark
+Dialogue: 0,0:07:57.12,0:07:57.76,Default,,0,0,0,,Charcoal{\alpha&HFF&}​ won't do it
+Dialogue: 0,0:07:57.76,0:07:59.76,Default,,0,0,0,,Charcoal​ won't do it
+Dialogue: 0,0:07:58.46,0:07:59.76,Default,,0,0,0,,{\pos(722.672,926)}- What do we need?
+Dialogue: 0,0:07:59.76,0:08:01.16,Default,,0,0,0,,Some wood or something
+Dialogue: 0,0:08:00.23,0:08:01.16,Default,,0,0,0,,{\pos(722.672,926)}- You think so?
+Dialogue: 0,0:08:01.56,0:08:07.00,Default,,0,0,0,,{\fade(250,0)\pos(722.403,852.8)}A chance to{\rYellow3} lead them in towards the new area
+Dialogue: 0,0:08:01.83,0:08:07.00,Yellow,,0,0,0,,{\pos(733.616,478.4)}Current location
+Dialogue: 0,0:08:01.83,0:08:07.00,Holes,,0,0,0,,{\pos(760.845,632)}Miyazon
+Dialogue: 0,0:08:01.83,0:08:06.06,Default,,0,0,0,,Here comes his chance to lead them \Ntowards the logs area trap
+Dialogue: 0,0:08:02.76,0:08:04.73,UP/Shiran,,0,0,0,,Whoa, he's evil
+Dialogue: 0,0:08:07.20,0:08:08.50,Default,,0,0,0,,Oh, {\alpha&HFF&}isn't that a firewood pile?
+Dialogue: 0,0:08:08.50,0:08:09.97,Default,,0,0,0,,Oh, isn't that a firewood pile?
+Dialogue: 0,0:08:09.97,0:08:19.91,Red,,0,0,0,,{\pos(1302.247,1012.8)}Logs
+Dialogue: 0,0:08:10.20,0:08:19.91,Yellow,,0,0,0,,{\fade(250,0)\pos(903.404,852.8)}Miyazon's trap
+Dialogue: 0,0:08:10.27,0:08:11.77,Default,,0,0,0,,It is\N- You're right
+Dialogue: 0,0:08:12.47,0:08:14.51,Default,,0,0,0,,Aren't those too much?
+Dialogue: 0,0:08:14.51,0:08:16.44,Default,,0,0,0,,There's actual firewood!
+Dialogue: 0,0:08:16.44,0:08:18.01,Default,,0,0,0,,Want me to go get them?
+Dialogue: 0,0:08:18.01,0:08:19.91,Default,,0,0,0,,Yeah, please
+Dialogue: 0,0:08:20.18,0:08:25.05,Default/Small,,0,0,0,,{\fade(250,250)\blur8\shad0\b1\pos(727,497.333)}Yaguchi is lead by Takashi to go get the logs
+Dialogue: 0,0:08:20.61,0:08:24.52,Default,,0,0,0,,Tricked by Takashi, Yaguchi goes towards the logs
+Dialogue: 0,0:08:23.21,0:08:37.66,Yellow,,0,0,0,,{\pos(1012.325,766.4)}Miyazon's trap
+Dialogue: 0,0:08:26.15,0:08:27.89,UP/Hamada,,0,0,0,,She's stepping aside...
+Dialogue: 0,0:08:29.15,0:08:29.79,Default,,0,0,0,,Grab some logs,{\alpha&HFF&} will you?
+Dialogue: 0,0:08:29.79,0:08:32.12,Default,,0,0,0,,Grab some logs, will you?
+Dialogue: 0,0:08:30.92,0:08:32.12,Default,,0,0,0,,{\pos(722.672,926)}- Please
+Dialogue: 0,0:08:32.12,0:08:33.63,Default,,0,0,0,,Sure
+Dialogue: 0,0:08:32.12,0:08:34.43,Default,,0,0,0,,{\pos(722.672,908.4)}- Looks safe enough...
+Dialogue: 0,0:08:35.19,0:08:37.66,Yellow3,,0,0,0,,{\fade(250,0)\pos(293.125,835.2)}Safe
+Dialogue: 0,0:08:35.89,0:08:37.06,Default,,0,0,0,,She's safe
+Dialogue: 0,0:08:38.16,0:08:39.93,Default,,0,0,0,,Maybe she sensed something,
+Dialogue: 0,0:08:39.93,0:08:45.57,Default,,0,0,0,,But Yaguchi chose to grab the farthest ones, \Ninstead of the closest ones
+Dialogue: 0,0:08:41.03,0:08:48.67,Default/Small,,0,0,0,,{\fade(250,0)\blur8\shad0\b1\pos(727,497.333)}She grabs the farthest ones
+Dialogue: 0,0:08:46.07,0:08:46.74,Default,,0,0,0,,Oh boy,{\alpha&HFF&} I'm scared!
+Dialogue: 0,0:08:46.74,0:08:48.67,Default,,0,0,0,,Oh boy, I'm scared!
+Dialogue: 0,0:08:49.31,0:08:51.24,Default,,0,0,0,,And in that moment...
+Dialogue: 0,0:08:49.74,0:08:51.24,Default,,0,0,0,,- That's too much sauce...
+Dialogue: 0,0:08:51.84,0:08:53.34,Default,,0,0,0,,Hey{\alpha&HFF&} guys!
+Dialogue: 0,0:08:53.34,0:08:54.41,Default,,0,0,0,,Hey guys!
+Dialogue: 0,0:08:54.41,0:08:56.31,Default,,0,0,0,,Huh?!
+Dialogue: 0,0:08:56.31,0:08:57.38,Default,,0,0,0,,Good morning, folks!
+Dialogue: 0,0:08:57.38,0:08:58.75,Default,,0,0,0,,It's your partner
+Dialogue: 0,0:08:59.62,0:09:00.82,Default,,0,0,0,,Hi guys, {\alpha&HFF&}do you have any trouble with anything?
+Dialogue: 0,0:09:00.82,0:09:01.85,Default,,0,0,0,,Hi guys, do you have any{\alpha&HFF&} trouble with anything?
+Dialogue: 0,0:09:01.85,0:09:03.59,Default,,0,0,0,,Hi guys, do you have any trouble with anything?
+Dialogue: 0,0:08:59.82,0:09:01.49,Default,,0,0,0,,{\pos(741.373,912.667)}- Nishimura, why are you...?
+Dialogue: 0,0:09:04.09,0:09:04.39,Default,,0,0,0,,You... {\alpha&HFF&}need help?
+Dialogue: 0,0:09:04.39,0:09:05.26,Default,,0,0,0,,You... need help?
+Dialogue: 0,0:09:04.26,0:09:05.56,Default,,0,0,0,,{\pos(741.373,912.667)}- What's going on?
+Dialogue: 0,0:09:05.72,0:09:07.89,UP/YOU,,0,0,0,,Why is him here?
+Dialogue: 0,0:09:05.72,0:09:09.89,Default/Small,,0,0,0,,{\fade(250,0)\blur6\shad0\pos(424.808,880)}11:44 A.M. - Nishimura (Viking) enters the camp site
+Dialogue: 0,0:09:05.82,0:09:09.59,Default,,0,0,0,,We have a guest acting as their camping teacher
+Dialogue: 0,0:09:09.59,0:09:13.63,Default,,0,0,0,,It's Nishimura (Viking), \Nthe comedian who loves camping the most!
+Dialogue: 0,0:09:10.16,0:09:14.70,Default,,0,0,0,,{\pos(749.633,827.2)}Number 1{\rPink} camping-loving comedian!
+Dialogue: 0,0:09:13.00,0:09:14.43,UP/Tanaka,,0,0,0,,I didn't know that
+Dialogue: 0,0:09:15.10,0:09:15.63,Default,,0,0,0,,What's {\alpha&HFF&}with the military?
+Dialogue: 0,0:09:15.63,0:09:16.83,Default,,0,0,0,,What's with the military?
+Dialogue: 0,0:09:16.97,0:09:18.34,Default,,0,0,0,,They're visiting us
+Dialogue: 0,0:09:18.34,0:09:18.94,Default,,0,0,0,,It's nothing, {\alpha&HFF&}don't worry about them
+Dialogue: 0,0:09:18.94,0:09:21.21,Default,,0,0,0,,It's nothing, don't worry about them
+Dialogue: 0,0:09:19.44,0:09:21.21,Default,,0,0,0,,{\pos(741.373,912.667)}- Yeah, let them be
+Dialogue: 0,0:09:21.51,0:09:23.27,Default,,0,0,0,,{\pos(741.373,912.667)}- Why is him here?
+Dialogue: 0,0:09:21.74,0:09:23.27,Default,,0,0,0,,You ok with the fire?
+Dialogue: 0,0:09:23.27,0:09:24.81,Default,,0,0,0,,Let me just...
+Dialogue: 0,0:09:25.08,0:09:27.65,Default,,0,0,0,,What is that?!
+Dialogue: 0,0:09:25.34,0:09:27.65,Default,,0,0,0,,{\pos(741.373,912.667)}- Stop it, we don't need this
+Dialogue: 0,0:09:27.65,0:09:29.71,Default,,0,0,0,,I never saw that in my life!
+Dialogue: 0,0:09:28.08,0:09:29.71,Default,,0,0,0,,{\pos(741.373,912.667)}- The hell is that?!
+Dialogue: 0,0:09:29.71,0:09:31.52,Default,,0,0,0,,It's a fire breather
+Dialogue: 0,0:09:30.21,0:09:31.52,Default,,0,0,0,,{\pos(741.373,912.667)}- What?!
+Dialogue: 0,0:09:31.72,0:09:32.15,Default,,0,0,0,,Don't worry,{\alpha&HFF&} we're good
+Dialogue: 0,0:09:31.72,0:09:34.12,Default,,0,0,0,,{\pos(741.373,912.667)}- It's fine
+Dialogue: 0,0:09:32.15,0:09:33.99,Default,,0,0,0,,Don't worry, we're good
+Dialogue: 0,0:09:33.99,0:09:34.82,Default,,0,0,0,,It's lit
+Dialogue: 0,0:09:34.12,0:09:36.35,Default,,0,0,0,,{\pos(741.373,912.667)}- Enough with that
+Dialogue: 0,0:09:34.82,0:09:36.35,Default,,0,0,0,,It's lit, see?
+Dialogue: 0,0:09:36.72,0:09:40.63,Blue2,,0,0,0,,{\pos(965.874,838.4)}He doesn't know anything
+Dialogue: 0,0:09:37.09,0:09:40.63,Default,,0,0,0,,This man doesn't know anything, but they can use him
+Dialogue: 0,0:09:40.63,0:09:45.50,Default,,0,0,0,,To make him go around to check suspicious spots
+Dialogue: 0,0:09:40.83,0:09:45.63,Blue,,0,0,0,,{\pos(445.295,404.8)\blur6}They can use him{\rDefault\blur6} \Nto check suspicious areas
+Dialogue: 0,0:09:45.86,0:09:49.93,Default,,0,0,0,,But they don't want him to fall into one of their own traps
+Dialogue: 0,0:09:47.17,0:09:49.93,Purple,,0,0,0,,{\pos(741.624,846.4)}He could fall into your own trap
+Dialogue: 0,0:09:50.10,0:09:53.64,Default/Big,,0,0,0,,{\pos(746.43,812.8)}A complex man
+Dialogue: 0,0:09:50.27,0:09:53.07,Default,,0,0,0,,That's what Nishimura is: a complex being
+Dialogue: 0,0:09:53.97,0:09:56.34,Default,,0,0,0,,Delicious!
+Dialogue: 0,0:09:54.21,0:09:55.94,Default,,0,0,0,,{\pos(741.373,912.667)}- I told you!
+Dialogue: 0,0:09:56.01,0:09:57.28,Default,,0,0,0,,{\pos(741.373,912.667)}- Very good!
+Dialogue: 0,0:09:57.28,0:09:58.71,Default,,0,0,0,,It's good
+Dialogue: 0,0:09:59.24,0:10:00.01,Default,,0,0,0,,What the hell is this? {\alpha&HFF&}It's so thick.
+Dialogue: 0,0:10:00.01,0:10:01.75,Default,,0,0,0,,What the hell is this? It's so thick.
+Dialogue: 0,0:10:01.75,0:10:04.98,Default,,0,0,0,,It's my personal fork
+Dialogue: 0,0:10:03.65,0:10:04.98,Default,,0,0,0,,{\pos(741.373,912.667)}- Tastes good
+Dialogue: 0,0:10:04.98,0:10:06.32,Default,,0,0,0,,This is pretty good!
+Dialogue: 0,0:10:06.32,0:10:07.69,Default,,0,0,0,,It's very good
+Dialogue: 0,0:10:07.82,0:10:09.42,Default,,0,0,0,,Really, really good
+Dialogue: 0,0:10:09.42,0:10:10.69,Default,,0,0,0,,Your fork is amazing!
+Dialogue: 0,0:10:10.69,0:10:12.62,UP/Hamada,,0,0,0,,The hell is he eatin'?!
+Dialogue: 0,0:10:11.92,0:10:21.63,Default/Small,,0,0,0,,{\fade(250,0)\blur6\shad0\pos(231.033,882.133)}12:38 P.M. - Free time
+Dialogue: 0,0:10:12.26,0:10:16.33,Default,,0,0,0,,After the barbecue, they have some free time
+Dialogue: 0,0:10:16.89,0:10:21.13,Default,,0,0,0,,They all decided to pick their favorite object\N and playin the field
+Dialogue: 0,0:10:21.63,0:10:23.27,Default,,0,0,0,,It's pretty wide {\alpha&HFF&}around the dogs' spot
+Dialogue: 0,0:10:23.27,0:10:25.30,Default,,0,0,0,,It's pretty wide around the dogs' spot
+Dialogue: 0,0:10:25.30,0:10:26.67,Default,,0,0,0,,Maybe that area should do it,{\alpha&HFF&} is there any other wide field?
+Dialogue: 0,0:10:26.67,0:10:28.34,Default,,0,0,0,,Maybe that area should do it, is there any other wide field?
+Dialogue: 0,0:10:28.47,0:10:31.08,Default,,0,0,0,,You sure? Looks narrow to me
+Dialogue: 0,0:10:29.01,0:10:31.08,Default,,0,0,0,,{\pos(741.373,912.667)}- It's not really the best spot
+Dialogue: 0,0:10:31.08,0:10:32.18,Default,,0,0,0,,There are too many trees,{\alpha&HFF&} they'll get in our way
+Dialogue: 0,0:10:32.18,0:10:33.08,Default,,0,0,0,,There are too many trees, they'll get in our way
+Dialogue: 0,0:10:33.31,0:10:34.08,Default,,0,0,0,,Let's go over there{\alpha&HFF&} that spot
+Dialogue: 0,0:10:34.08,0:10:35.25,Default,,0,0,0,,Let's go over there that spot
+Dialogue: 0,0:10:35.38,0:10:39.18,Default,,0,0,0,,But there are trees in there too
+Dialogue: 0,0:10:36.41,0:10:37.08,Default,,0,0,0,,{\pos(800.133,804)}Are there? {\alpha&HFF&}Really?
+Dialogue: 0,0:10:37.08,0:10:39.18,Default,,0,0,0,,{\pos(800.133,804)}Are there? Really?
+Dialogue: 0,0:10:39.62,0:10:42.59,Default,,0,0,0,,How about that place?
+Dialogue: 0,0:10:40.25,0:10:42.59,Default,,0,0,0,,{\pos(717.597,808)}- Yeah, that spot is pretty wide
+Dialogue: 0,0:10:40.75,0:10:42.59,Default,,0,0,0,,{\an8} - Here?
+Dialogue: 0,0:10:42.79,0:10:47.06,Default,,0,0,0,,{\fade(250,250)\pos(735.217,843.2)}Choosing the right place{\rGreen} while suspecting each other
+Dialogue: 0,0:10:42.95,0:10:46.96,Default,,0,0,0,,The four are trying to find the right spot,\N while suspecting each other
+Dialogue: 0,0:10:47.33,0:10:56.50,Default,,0,0,0,,{\fade(250,0)\pos(559.021,798.4)\blur6\shad0}Take an advantageous position
+Dialogue: 0,0:10:50.29,0:10:56.50,Purple,,0,0,0,,{\fade(250,0)\pos(967.475,920)\blur6\shad0\fs60}Overdo it, and you'll be exposed
+Dialogue: 0,0:10:47.46,0:10:50.73,Default,,0,0,0,,They want to lead them near to their traps' area
+Dialogue: 0,0:10:50.73,0:10:53.93,Default,,0,0,0,,But if they're too open about it, they might reveal their place
+Dialogue: 0,0:10:53.93,0:10:56.27,Default,,0,0,0,,So they keep on questioning each other
+Dialogue: 0,0:10:56.50,0:10:58.90,Default,,0,0,0,,{\pos(730.955,906.667)}- How about this spot? Pretty wide, huh?
+Dialogue: 0,0:10:56.87,0:10:58.90,Default,,0,0,0,,Isn't this spot good?
+Dialogue: 0,0:10:58.90,0:11:00.17,Default,,0,0,0,,Let's do it here, then
+Dialogue: 0,0:10:59.37,0:11:00.84,Default,,0,0,0,,{\pos(730.955,906.667)}- Sure
+Dialogue: 0,0:11:00.84,0:11:01.84,Default,,0,0,0,,Why are you all so hesitant {\alpha&HFF&}to choose a spot...?
+Dialogue: 0,0:11:01.84,0:11:04.04,Default,,0,0,0,,Why are you all so hesitant to choose a spot...?
+Dialogue: 0,0:11:04.04,0:11:05.94,Default,,0,0,0,,'Cause we want a wide spot
+Dialogue: 0,0:11:04.68,0:11:05.94,Default,,0,0,0,,{\pos(730.955,906.667)}- That's it
+Dialogue: 0,0:11:05.94,0:11:06.64,Default,,0,0,0,,This spot is good, {\alpha&HFF&}let's play here
+Dialogue: 0,0:11:06.64,0:11:07.38,Default,,0,0,0,,This spot is good, let's play here
+Dialogue: 0,0:11:07.85,0:11:12.55,Default,,0,0,0,,As a result of their debate, \Nwhich even Nishimura felt it was strange,
+Dialogue: 0,0:11:12.55,0:11:15.92,Default,,0,0,0,,They chose a place near Kotohge's trap
+Dialogue: 0,0:11:12.72,0:11:16.85,Holes,,0,0,0,,{\pos(573.437,633.6)}Kotohge
+Dialogue: 0,0:11:12.72,0:11:16.85,Yellow,,0,0,0,,{\fade(250,0)\pos(840.934,664)}Current location
+Dialogue: 0,0:11:17.02,0:11:21.99,Red/Bigger,,0,0,0,,{\pos(727.208,859.2)}Will Kotohge make the most out of this chance?
+Dialogue: 0,0:11:17.56,0:11:21.56,Default,,0,0,0,,Will Kotohge make the most out of this chance?
+Dialogue: 0,0:11:21.99,0:11:24.43,Default,,0,0,0,,Wanna play some baseball?
+Dialogue: 0,0:11:23.23,0:11:24.43,Default,,0,0,0,,{\pos(714.657,923.333)}- Oh, nice idea
+Dialogue: 0,0:11:24.43,0:11:26.00,Default,,0,0,0,,I'll be the pitcher
+Dialogue: 0,0:11:26.00,0:11:27.50,Default,,0,0,0,,The pitcher?
+Dialogue: 0,0:11:26.40,0:11:27.50,Default,,0,0,0,,{\pos(711.19,806.4)}The pitcher
+Dialogue: 0,0:11:27.50,0:11:28.97,Default,,0,0,0,,Who's the batter?
+Dialogue: 0,0:11:27.93,0:11:28.97,Default,,0,0,0,,{\pos(762.447,798.4)}One of the girls?
+Dialogue: 0,0:11:29.03,0:11:30.90,Default,,0,0,0,,Please, Matsuno, you go first
+Dialogue: 0,0:11:30.90,0:11:31.77,Default,,0,0,0,,Alright, Yaguchi-chan, {\alpha&HFF&}or anyone, it's fine
+Dialogue: 0,0:11:31.77,0:11:33.37,Default,,0,0,0,,Alright, Yaguchi-chan, or anyone, it's fine
+Dialogue: 0,0:11:33.07,0:11:33.94,Default,,0,0,0,,Sure
+Dialogue: 0,0:11:34.71,0:11:37.08,Default,,0,0,0,,I'll guard the base
+Dialogue: 0,0:11:36.21,0:11:38.68,UP/Hamada,,0,0,0,,Isn't that a little suspect?
+Dialogue: 0,0:11:37.08,0:11:39.01,Default,,0,0,0,,Over there, over there
+Dialogue: 0,0:11:39.01,0:11:40.34,Default,,0,0,0,,I'll be the pitcher
+Dialogue: 0,0:11:39.94,0:11:47.92,Yellow,,0,0,0,,{\fade(250,0)\pos(674.349,873.6)}Kotohge's trap
+Dialogue: 0,0:11:40.65,0:11:42.18,Default,,0,0,0,,Right there, yeah
+Dialogue: 0,0:11:42.18,0:11:43.25,Default,,0,0,0,,That should do it
+Dialogue: 0,0:11:42.81,0:11:47.92,Default/Small,,0,0,0,,{\fade(250,0)\pos(690.368,616)\blur6\shad0}Yaguchi is lead by Kotohge right in front of the trap
+Dialogue: 0,0:11:43.48,0:11:47.52,Default,,0,0,0,,Yaguchi is lead by Kotohge right in front of his trap
+Dialogue: 0,0:11:46.45,0:11:48.79,UP/Shiran,,0,0,0,,Right in front of it
+Dialogue: 0,0:11:48.25,0:11:49.25,Default,,0,0,0,,Can I? {\alpha&HFF&}Shoot it back over there
+Dialogue: 0,0:11:49.25,0:11:50.42,Default,,0,0,0,,Can I? Shoot it back over there
+Dialogue: 0,0:11:50.02,0:11:51.52,Default,,0,0,0,,{\pos(714.657,923.333)}Here I go
+Dialogue: 0,0:11:51.52,0:11:52.12,Default,,0,0,0,,Here
+Dialogue: 0,0:11:52.12,0:11:53.59,Default,,0,0,0,,Oh shoot
+Dialogue: 0,0:11:53.59,0:11:54.19,Default,,0,0,0,,Sorry about that
+Dialogue: 0,0:11:53.89,0:11:56.36,UP/YOU,,0,0,0,,Ah, so she has to go get it...
+Dialogue: 0,0:11:54.19,0:12:01.63,Yellow,,0,0,0,,{\pos(772.058,800)}Kotohge's trap
+Dialogue: 0,0:11:54.33,0:11:55.49,Default,,0,0,0,,Wait
+Dialogue: 0,0:11:55.49,0:11:55.79,Default,,0,0,0,,We still have {\alpha&HFF&}some balls here, it's fine
+Dialogue: 0,0:11:55.79,0:11:57.73,Default,,0,0,0,,We still have some balls here, it's fine
+Dialogue: 0,0:11:56.09,0:11:57.50,Default,,0,0,0,,{\pos(714.657,934)}Don't worry
+Dialogue: 0,0:11:57.73,0:12:00.43,Default,,0,0,0,,There's still more
+Dialogue: 0,0:12:00.43,0:12:01.20,Default,,0,0,0,,Other balls?
+Dialogue: 0,0:12:01.20,0:12:02.40,Default,,0,0,0,,Yeah, right here
+Dialogue: 0,0:12:04.44,0:12:05.90,Default,,0,0,0,,Oh shit, sorry!
+Dialogue: 0,0:12:06.27,0:12:08.27,Yellow,,0,0,0,,{\fade(0,250)\pos(671.146,876.8)}Kotohge's trap
+Dialogue: 0,0:12:06.74,0:12:07.24,Default,,0,0,0,,You have more?
+Dialogue: 0,0:12:07.24,0:12:08.07,Default,,0,0,0,,I don't
+Dialogue: 0,0:12:10.91,0:12:13.01,Default,,0,0,0,,What just happened?!
+Dialogue: 0,0:12:12.71,0:12:14.31,UP/Shiran,,0,0,0,,He's clever
+Dialogue: 0,0:12:13.01,0:12:14.31,Default/Big,,0,0,0,,What's this?!
+Dialogue: 0,0:12:18.32,0:12:19.68,UP/Matsumoto,,0,0,0,,He's good
+Dialogue: 0,0:12:22.32,0:12:23.69,UP/Matsumoto,,0,0,0,,She totally fell for it
+Dialogue: 0,0:12:26.32,0:12:27.63,Default,,0,0,0,,Oh?
+Dialogue: 0,0:12:27.89,0:12:29.09,Default,,0,0,0,,You got me!
+Dialogue: 0,0:12:29.09,0:12:32.03,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:12:32.23,0:12:32.90,Default,,0,0,0,,You set it up {\alpha&HFF&}so naturally!
+Dialogue: 0,0:12:33.13,0:12:34.80,UP/Shiran,,0,0,0,,He has no clue
+Dialogue: 0,0:12:32.90,0:12:34.80,Default,,0,0,0,,You set it up so naturally!
+Dialogue: 0,0:12:35.17,0:12:36.37,Default,,0,0,0,,What...
+Dialogue: 0,0:12:36.37,0:12:36.97,Default,,0,0,0,,That {\alpha&HFF&}was mine
+Dialogue: 0,0:12:36.57,0:12:38.44,UP/Hamada,,0,0,0,,Nishimura is so clueless!
+Dialogue: 0,0:12:36.97,0:12:38.44,Default,,0,0,0,,That was mine
+Dialogue: 0,0:12:38.44,0:12:39.24,Default,,0,0,0,,Such a nice trap, {\alpha&HFF&}well done
+Dialogue: 0,0:12:39.24,0:12:40.64,Default,,0,0,0,,Such a nice trap, well done
+Dialogue: 0,0:12:39.70,0:12:41.84,UP/Hamada,,0,0,0,,He's like "what's going on?"
+Dialogue: 0,0:12:41.11,0:12:41.84,Default,,0,0,0,,Does that mean, {\alpha&HFF&}you planned to make me the batter all along?
+Dialogue: 0,0:12:41.84,0:12:43.47,Default,,0,0,0,,Does that mean, you planned to make me {\alpha&HFF&}the batter all along?
+Dialogue: 0,0:12:43.47,0:12:45.51,Default,,0,0,0,,Does that mean, you planned to make me the batter all along?
+Dialogue: 0,0:12:45.51,0:12:45.88,Default,,0,0,0,,That's right,{\alpha&HFF&} that's my hole after all
+Dialogue: 0,0:12:45.88,0:12:47.28,Default,,0,0,0,,That's right, that's {\alpha&HFF&}my hole after all
+Dialogue: 0,0:12:47.28,0:12:48.45,Default,,0,0,0,,That's right, that's my hole after all
+Dialogue: 0,0:12:48.45,0:12:50.28,Default,,0,0,0,,"My hole"?
+Dialogue: 0,0:12:52.42,0:12:54.29,Default,,0,0,0,,What's "my hole"?
+Dialogue: 0,0:12:53.02,0:12:54.29,UP/Matsumoto,,0,0,0,,"My hole"...
+Dialogue: 0,0:12:54.42,0:12:55.05,Matsumoto,,0,0,0,,His presence is{\alpha&HFF&} such a burden!
+Dialogue: 0,0:12:55.05,0:12:56.32,Matsumoto,,0,0,0,,His presence is such a burden!
+Dialogue: 0,0:12:58.36,0:13:07.47,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(389.782,922)}Yaguchi eliminated after 1 hour and 35 minutes
+Dialogue: 0,0:12:58.36,0:13:07.47,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(1233.902,922)}[3 people left]
+Dialogue: 0,0:12:58.56,0:13:03.39,Default,,0,0,0,,Yaguchi got caught up in Kotohge's plan and is eliminated
+Dialogue: 0,0:13:03.90,0:13:06.40,UP/Matsumoto,,0,0,0,,She completely disappeared
+Dialogue: 0,0:13:07.80,0:13:08.97,Default,,0,0,0,,Kotohge is {\alpha&HFF&}really good at this
+Dialogue: 0,0:13:08.97,0:13:11.14,Default,,0,0,0,,Kotohge is really good at this
+Dialogue: 0,0:13:12.07,0:13:14.14,Default,,0,0,0,,The other three contestants and Nishimura
+Dialogue: 0,0:13:14.14,0:13:21.75,Holes,,0,0,0,,{\pos(823.315,265.6)}Miyazon
+Dialogue: 0,0:13:14.14,0:13:21.75,Holes,,0,0,0,,{\pos(650.323,491.2)}Yaguchi
+Dialogue: 0,0:13:14.14,0:13:21.75,Holes,,0,0,0,,{\pos(812.102,787.2)}Yaguchi
+Dialogue: 0,0:13:14.14,0:13:21.75,Yellow,,0,0,0,,{\pos(397.241,542.4)}Current position
+Dialogue: 0,0:13:14.37,0:13:16.81,Default,,0,0,0,,Are close to the holes of the two eliminated
+Dialogue: 0,0:13:16.11,0:13:17.88,UP/Matsushino,,0,0,0,,It's full of holes in there
+Dialogue: 0,0:13:16.81,0:13:20.98,Default,,0,0,0,,This field is swarming with traps
+Dialogue: 0,0:13:21.95,0:13:24.28,Default,,0,0,0,,Yaguchan can't take part in this anymore?
+Dialogue: 0,0:13:23.05,0:13:24.28,Default,,0,0,0,,{\pos(724.004,827.2)}That's right
+Dialogue: 0,0:13:24.28,0:13:25.42,Default,,0,0,0,,What's with this rule? {\alpha&HFF&}Hahaha
+Dialogue: 0,0:13:25.42,0:13:26.35,Default,,0,0,0,,What's with this rule? Hahaha
+Dialogue: 0,0:13:26.52,0:13:29.85,Default,,0,0,0,,Eh? No more baseball?
+Dialogue: 0,0:13:28.02,0:13:29.85,Default,,0,0,0,,{\pos(728.81,825.6)}Yeah, that's it
+Dialogue: 0,0:13:30.39,0:13:33.62,Default,,0,0,0,,After seeing Yaguchi in that state...
+Dialogue: 0,0:13:33.26,0:13:36.56,Blue,,0,0,0,,{\fade(250,0)\pos(733.615,827.2)}He still believes they're doing{\rDefault} a camping episode
+Dialogue: 0,0:13:33.62,0:13:36.56,Default,,0,0,0,,He still thinks this episode is about camping
+Dialogue: 0,0:13:36.56,0:13:38.86,Default/Big,,0,0,0,,Nishimura is a freak
+Dialogue: 0,0:13:37.96,0:13:40.30,UP/Shiran,,0,0,0,,Really...
+Dialogue: 0,0:13:38.96,0:13:49.24,Yellow,,0,0,0,,{\fade(250,0)\pos(972.28,808)}Miyazon's trap
+Dialogue: 0,0:13:39.40,0:13:40.20,Default,,0,0,0,,What's that?{\alpha&HFF&} There's two of them, so cute!
+Dialogue: 0,0:13:40.20,0:13:40.57,Default,,0,0,0,,What's that? There's {\alpha&HFF&}two of them, so cute!
+Dialogue: 0,0:13:40.57,0:13:41.67,Default,,0,0,0,,What's that? There's two of them, {\alpha&HFF&}so cute!
+Dialogue: 0,0:13:41.67,0:13:43.20,Default,,0,0,0,,What's that? There's two of them, so cute!
+Dialogue: 0,0:13:42.60,0:13:45.67,Default,,0,0,0,,He then proceeds to walk near a trap
+Dialogue: 0,0:13:43.73,0:13:49.24,Default,,0,0,0,,{\pos(397.241,745.6)}Incredibly close {\rPurple2}to a trap
+Dialogue: 0,0:13:49.34,0:13:50.01,Default,,0,0,0,,Wanna play frisbee? {\alpha&HFF&}Or badminton?
+Dialogue: 0,0:13:50.01,0:13:52.71,Default,,0,0,0,,Wanna play frisbee? Or badminton?
+Dialogue: 0,0:13:50.24,0:13:52.38,UP/Matsumoto,,0,0,0,,"So cute", he said...
+Dialogue: 0,0:13:52.71,0:13:54.51,Default,,0,0,0,,Let's play frisbee
+Dialogue: 0,0:13:53.21,0:13:54.51,Default,,0,0,0,,{\pos(714.657,918)}Frisbee \N - Sure
+Dialogue: 0,0:13:54.51,0:13:55.85,Default,,0,0,0,,Let's go
+Dialogue: 0,0:13:56.98,0:13:58.85,Default,,0,0,0,,I'm really good at frisbee
+Dialogue: 0,0:13:58.85,0:14:00.12,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:13:59.72,0:14:01.22,Default,,0,0,0,,{\pos(720,915.333)}Throw it over there...
+Dialogue: 0,0:14:05.56,0:14:07.53,Shiran,,0,0,0,,What the hell is going on...
+Dialogue: 0,0:14:11.30,0:14:13.70,UP/Matsushino,,0,0,0,,Booby-traps are really fun!
+Dialogue: 0,0:14:14.23,0:14:16.60,UP/YOU,,0,0,0,,He completely disappeared
+Dialogue: 0,0:14:17.80,0:14:18.24,Default,,0,0,0,,Why is there{\alpha&HFF&} a pitfall in here?
+Dialogue: 0,0:14:18.24,0:14:20.97,Default,,0,0,0,,Why is there a pitfall in here?
+Dialogue: 0,0:14:21.51,0:14:23.27,UP/Tanaka,,0,0,0,,He hasn't realized it yet!
+Dialogue: 0,0:14:23.57,0:14:25.18,UP/Tanaka,,0,0,0,,Come on!
+Dialogue: 0,0:14:26.41,0:14:26.68,Default,,0,0,0,,Who {\alpha&HFF&}was it?!
+Dialogue: 0,0:14:26.68,0:14:28.61,Default,,0,0,0,,Who was it?!
+Dialogue: 0,0:14:28.51,0:14:30.21,UP/Tanaka,,0,0,0,,Hey, hey!
+Dialogue: 0,0:14:29.45,0:14:31.38,Default,,0,0,0,,It's one of the staff
+Dialogue: 0,0:14:33.92,0:14:36.09,Default,,0,0,0,,It can happen, alright
+Dialogue: 0,0:14:40.06,0:14:42.49,Default,,0,0,0,,Who was it?!
+Dialogue: 0,0:14:42.09,0:14:44.00,UP/Shiran,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:14:44.43,0:14:46.13,UP/Matsumoto,,0,0,0,,Makes sense
+Dialogue: 0,0:14:46.50,0:14:48.90,Default,,0,0,0,,Who was it?
+Dialogue: 0,0:14:48.13,0:14:50.03,UP/Matsumoto,,0,0,0,,That's a tv show for you
+Dialogue: 0,0:14:50.27,0:14:51.87,UP/Matsumoto,,0,0,0,,It can happen
+Dialogue: 0,0:14:52.97,0:14:55.31,Default,,0,0,0,,Who was it?!
+Dialogue: 0,0:14:53.37,0:14:55.31,UP/Matsumoto,,0,0,0,,The staff isn't immune to traps
+Dialogue: 0,0:14:55.57,0:14:57.31,Default,,0,0,0,,A cameraman fell into a trap?
+Dialogue: 0,0:14:56.24,0:14:59.58,UP/Shiran,,0,0,0,,This is incredible\N{\rUP/Matsumoto}- Yeah...
+Dialogue: 0,0:14:57.31,0:14:58.38,Default,,0,0,0,,A cameraman fell down?
+Dialogue: 0,0:14:58.94,0:14:59.98,Default,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:14:59.98,0:15:01.55,Default,,0,0,0,,What the hell?
+Dialogue: 0,0:15:02.91,0:15:04.82,UP/Shiran,,0,0,0,,I'm amazed
+Dialogue: 0,0:15:03.21,0:15:03.65,Default,,0,0,0,,We are in the middle {\alpha&HFF&}of a trap rush
+Dialogue: 0,0:15:03.65,0:15:05.48,Default,,0,0,0,,We are in the middle of a trap rush
+Dialogue: 0,0:15:05.48,0:15:06.45,Default,,0,0,0,,It's a rush, a rush
+Dialogue: 0,0:15:06.45,0:15:08.02,Default,,0,0,0,,Why is there a pitfall in this place?
+Dialogue: 0,0:15:08.02,0:15:10.32,Default,,0,0,0,,It's a booby-trap rush
+Dialogue: 0,0:15:08.62,0:15:10.32,Default,,0,0,0,,{\pos(728.015,931.333)}All in the same place?
+Dialogue: 0,0:15:10.42,0:15:13.72,Default,,0,0,0,,Is this "my hole"?
+Dialogue: 0,0:15:11.56,0:15:12.02,Default,,0,0,0,,{\pos(746.429,723.2)}No, that's not {\alpha&HFF&}your hole
+Dialogue: 0,0:15:12.02,0:15:13.72,Default,,0,0,0,,{\pos(746.429,723.2)}No, that's not your hole
+Dialogue: 0,0:15:13.72,0:15:14.09,Default,,0,0,0,,But you said {\alpha&HFF&}"my hole" before
+Dialogue: 0,0:15:14.09,0:15:15.19,Default,,0,0,0,,But you said "my hole" before
+Dialogue: 0,0:15:15.43,0:15:27.34,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(341.693,844.667)}Eliminated after 1 hour and 39 minutes:
+Dialogue: 0,0:15:15.43,0:15:27.34,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(705.032,844.667)}Nishimura
+Dialogue: 0,0:15:15.43,0:15:27.34,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(715.719,946)}Cameraman
+Dialogue: 0,0:15:15.43,0:15:27.34,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(1233.751,946.667)}[3 people left]
+Dialogue: 0,0:15:15.43,0:15:27.34,Default/Small,,0,0,0,,{\fade(250,0)\blur5\shad0\pos(1236.422,842.667)}[3 people left]
+Dialogue: 0,0:15:15.76,0:15:17.53,Default,,0,0,0,,After Nishimura,
+Dialogue: 0,0:15:17.53,0:15:19.73,Default,,0,0,0,,The cameraman is eliminated
+Dialogue: 0,0:15:20.10,0:15:22.37,Default,,0,0,0,,The game isn't progressing at all
+Dialogue: 0,0:15:22.37,0:15:25.47,Default,,0,0,0,,Only people unrelated to the game are falling down
+Dialogue: 0,0:15:25.47,0:15:27.34,Default,,0,0,0,,It's a complete mess
+Dialogue: 0,0:15:21.70,0:15:24.80,UP/Shiran,,0,0,0,,- It says "cameraman"\N{\rUP/Matsumoto}- A lot is going on
+Dialogue: 0,0:15:25.37,0:15:26.84,UP/Matsumoto,,0,0,0,,It's a total mess
+Dialogue: 0,0:15:26.84,0:15:29.37,UP/YOU,,0,0,0,,Oh my...
+Dialogue: 0,0:15:30.14,0:15:31.34,Default,,0,0,0,,Now that {\alpha&HFF&}Yaguchi and Miyazon are out...
+Dialogue: 0,0:15:31.34,0:15:33.14,Default,,0,0,0,,Now that Yaguchi and Miyazon are out...
+Dialogue: 0,0:15:33.14,0:15:34.68,Default,,0,0,0,,We don't know {\alpha&HFF&}where their holes are...
+Dialogue: 0,0:15:34.68,0:15:35.91,Default,,0,0,0,,We don't know where their holes are...
+Dialogue: 0,0:15:34.85,0:15:35.91,Default,,0,0,0,,{\pos(711.985,926)}Right...
+Dialogue: 0,0:15:35.91,0:15:36.88,Default,,0,0,0,,I used both my holes, {\alpha&HFF&}I don't have any more
+Dialogue: 0,0:15:36.88,0:15:38.42,Default,,0,0,0,,I used both my holes, I don't have any more
+Dialogue: 0,0:15:36.88,0:15:38.42,Default,,0,0,0,,{\pos(711.985,926)}- We don't know
+Dialogue: 0,0:15:38.78,0:15:42.35,Default,,0,0,0,,{\fs44}staff){\r} Maybe you shouldn't have say that aloud...
+Dialogue: 0,0:15:40.72,0:15:41.65,Default,,0,0,0,,{\pos(711.985,926)}-He's right
+Dialogue: 0,0:15:41.65,0:15:43.39,UP/Shiran,,0,0,0,,- Exactly\N{\rUP/YOU}- Right
+Dialogue: 0,0:15:42.52,0:15:46.82,Default,,0,0,0,,Kotohge ended up revealing he ran out of holes
+Dialogue: 0,0:15:42.75,0:15:47.26,Default,,0,0,0,,{\fade(250,0)\pos(754.438,840)}Kotohge revealed{\rBlue} he doesn't have holes anymore
+Dialogue: 0,0:15:47.26,0:15:49.66,Default/Big,,0,0,0,,Nishimura may be an idiot,
+Dialogue: 0,0:15:49.66,0:15:51.96,Default/Big,,0,0,0,,But so is Kotohge
+Dialogue: 0,0:15:52.26,0:15:54.70,Default/Big,,0,0,0,,By the way, Matsuno is an idiot too
+Dialogue: 0,0:15:54.20,0:15:55.67,UP/YOU,,0,0,0,,- Come on...
+Dialogue: 0,0:15:54.70,0:15:57.13,Default/Big,,0,0,0,,And the same goes for Miyazon
+Dialogue: 0,0:15:56.00,0:15:57.13,UP/YOU,,0,0,0,,Come on!
+Dialogue: 0,0:15:57.27,0:15:57.77,Matsumoto,,0,0,0,,Matsuno hasn't{\alpha&HFF&} accomplished anything yet!
+Dialogue: 0,0:15:57.77,0:15:59.50,Matsumoto,,0,0,0,,Matsuno hasn't accomplished anything yet!
+Dialogue: 0,0:16:00.20,0:16:01.24,Default,,0,0,0,,I shouldn't have said it when{\alpha&HFF&} Yaguchi fell down my trap
+Dialogue: 0,0:16:01.24,0:16:03.31,Default,,0,0,0,,I shouldn't have said it when Yaguchi fell down my trap
+Dialogue: 0,0:16:03.47,0:16:08.38,Default/Small,,0,0,0,,{\fade(250,0)\pos(728.81,614.4)\blur6\shad0}A man without any holes is going somewhere...
+Dialogue: 0,0:16:03.98,0:16:07.95,Default,,0,0,0,,The place where this man who lost all his holes is going to...
+Dialogue: 0,0:16:08.78,0:16:09.65,Default,,0,0,0,,I'm sneaking into Yaguchi's bag,{\alpha&HFF&} it feels exciting
+Dialogue: 0,0:16:09.65,0:16:11.82,Default,,0,0,0,,I'm sneaking into Yaguchi's bag, it feels exciting
+Dialogue: 0,0:16:09.98,0:16:11.68,UP/Matsumoto,,0,0,0,,Makes sense
+Dialogue: 0,0:16:13.08,0:16:17.92,Pink,,0,0,0,,{\fade(250,0)\pos(733.615,832)}Yaguchi's map:{\rDefault} GET
+Dialogue: 0,0:16:13.52,0:16:16.69,Default,,0,0,0,,And so, he steals Yaguchi's map from her bag
+Dialogue: 0,0:16:13.62,0:16:15.55,UP/Matsumoto,,0,0,0,,That's a basic move
+Dialogue: 0,0:16:16.69,0:16:18.29,UP/Matsumoto,,0,0,0,,Now he's got some holes
+Dialogue: 0,0:16:17.92,0:16:29.40,Holes,,0,0,0,,{\pos(900.2,140.8)\s1}Miyazon
+Dialogue: 0,0:16:17.92,0:16:29.40,Holes,,0,0,0,,{\s1\pos(647.119,356.8)}Yaguchi
+Dialogue: 0,0:16:17.92,0:16:29.40,Holes,,0,0,0,,{\pos(831.324,611.2)}Yaguchi
+Dialogue: 0,0:16:18.49,0:16:22.76,Default,,0,0,0,,One of them is the one Nishimura fell in
+Dialogue: 0,0:16:22.43,0:16:29.40,Pink2,,0,0,0,,{\pos(786.474,848)}Yaguchi's booby-trap: GET
+Dialogue: 0,0:16:22.86,0:16:28.17,Default,,0,0,0,,But he got the other one inside the tent, he's got a chance
+Dialogue: 0,0:16:29.67,0:16:33.14,Default,,0,0,0,,And his plan is the following...
+Dialogue: 0,0:16:33.84,0:16:37.81,Default,,0,0,0,,{\pos(728.81,841.6)}His trump card:{\rYellow3} baseball plan
+Dialogue: 0,0:16:34.37,0:16:37.81,Default,,0,0,0,,It's his trump card again: playing baseball
+Dialogue: 0,0:16:36.77,0:16:38.14,UP/YOU,,0,0,0,,Again?
+Dialogue: 0,0:16:37.98,0:16:44.15,Default/Small,,0,0,0,,{\fad(250,0)\pos(733.615,617.6)\blur8\shad0}He aims for a strike-and-miss by Matsuno to lead her inside the tent
+Dialogue: 0,0:16:38.64,0:16:43.71,Default,,0,0,0,,He wants Matsuno to miss the ball,\N so he can lead her inside the tent
+Dialogue: 0,0:16:45.28,0:16:46.45,Default,,0,0,0,,However...
+Dialogue: 0,0:16:47.32,0:16:48.19,Default,,0,0,0,,Here goes!
+Dialogue: 0,0:16:48.19,0:16:49.32,Default,,0,0,0,,Whoa! Nice!
+Dialogue: 0,0:16:49.49,0:16:51.36,Default,,0,0,0,,That was incredible!
+Dialogue: 0,0:16:50.02,0:16:52.16,UP/Shiran,,0,0,0,,That was impressive!
+Dialogue: 0,0:16:50.99,0:16:55.26,Default,,0,0,0,,{\fade(250,0)\pos(727.208,841.6)}She hit it perfectly and sent it back
+Dialogue: 0,0:16:53.06,0:16:54.99,UP/Tanaka,,0,0,0,,Well, she's an athlete after all
+Dialogue: 0,0:16:51.36,0:16:54.69,Default,,0,0,0,,She striked it back at him
+Dialogue: 0,0:16:55.46,0:16:56.83,Default,,0,0,0,,And not only once...
+Dialogue: 0,0:16:58.60,0:17:00.23,UP/YOU,,0,0,0,,She's incredible!
+Dialogue: 0,0:16:59.03,0:17:00.56,Default,,0,0,0,,Why are you hitting it?
+Dialogue: 0,0:17:00.36,0:17:01.97,UP/Hamada,,0,0,0,,"Why are you hitting it"?
+Dialogue: 0,0:17:00.56,0:17:02.50,Default/Big,,0,0,0,,Why are you hitting it?
+Dialogue: 0,0:17:01.63,0:17:04.50,Default,,0,0,0,,{\an8}Matsuno shows an unexpected talent
+Dialogue: 0,0:17:02.77,0:17:07.41,Red/Bigger,,0,0,0,,{\fade(250,0)\pos(738.42,844.8)}An incredible baseball talent
+Dialogue: 0,0:17:04.50,0:17:06.37,UP/Matsumoto,,0,0,0,,That's something
+Dialogue: 0,0:17:05.44,0:17:07.41,Default,,0,0,0,,But...
+Dialogue: 0,0:17:11.68,0:17:12.44,Default,,0,0,0,,Where is it?
+Dialogue: 0,0:17:12.44,0:17:13.61,Default,,0,0,0,,It went inside
+Dialogue: 0,0:17:14.31,0:17:15.45,Default,,0,0,0,,Oh shi-
+Dialogue: 0,0:17:17.92,0:17:19.38,Default,,0,0,0,,No you didn't!
+Dialogue: 0,0:17:28.56,0:17:29.79,Default,,0,0,0,,Come on!
+Dialogue: 0,0:17:29.39,0:17:30.49,UP/YOU,,0,0,0,,Oh man!
+Dialogue: 0,0:17:30.33,0:17:31.80,Default,,0,0,0,,Come on!!
+Dialogue: 0,0:17:30.76,0:17:32.50,UP/Shiran,,0,0,0,,You should have expected it
+Dialogue: 0,0:17:31.80,0:17:33.33,Default,,0,0,0,,Hey you!{\alpha&HFF&} Come on!
+Dialogue: 0,0:17:33.33,0:17:34.60,Default,,0,0,0,,Hey you! Come on!
+Dialogue: 0,0:17:34.60,0:17:35.60,Default/Big,,0,0,0,,The hell is this?!
+Dialogue: 0,0:17:35.77,0:17:42.74,Default/Small,,0,0,0,,{\fade(250,0)\pos(469.321,937.6)\blur5\shad0}Matsuno eliminated after 2 hour and 8 minutes
+Dialogue: 0,0:17:35.77,0:17:42.74,Default/Small,,0,0,0,,{\fade(250,0)\pos(1236.574,939.2)\blur5\shad0}[2 people left]
+Dialogue: 0,0:17:35.93,0:17:37.74,Default,,0,0,0,,With Matsuno gone,
+Dialogue: 0,0:17:37.74,0:17:41.51,Default,,0,0,0,,From now on is a 1-vs-1 match between Kotohge and Takashi
+Dialogue: 0,0:17:41.51,0:17:42.74,Default,,0,0,0,,Come on!
+Dialogue: 0,0:17:43.04,0:17:44.01,Default,,0,0,0,,I know for sure you don't have {\alpha&HFF}any more traps
+Dialogue: 0,0:17:44.01,0:17:45.28,Default,,0,0,0,,I know for sure you don't have any more traps
+Dialogue: 0,0:17:45.64,0:17:47.04,Default,,0,0,0,,I'm not sure about that
+Dialogue: 0,0:17:47.21,0:17:48.61,Default,,0,0,0,,There are only {\alpha&HFF}Miyazon and Matsuno's trap, 1 of each
+Dialogue: 0,0:17:48.61,0:17:49.88,Default,,0,0,0,,There are only Miyazon and Matsuno's trap,{\alpha&HFF} 1 of each
+Dialogue: 0,0:17:49.88,0:17:52.25,Default,,0,0,0,,There are only Miyazon and Matsuno's trap, 1 of each
+Dialogue: 0,0:17:49.38,0:17:50.55,Default,,0,0,0,,{\pos(714.657,931.333)}And Matsuno, yeah
+Dialogue: 0,0:17:52.25,0:17:53.15,Default,,0,0,0,,And two of mine
+Dialogue: 0,0:17:53.15,0:17:55.09,Default/Big,,0,0,0,,You have two of them?!
+Dialogue: 0,0:17:53.88,0:17:55.09,Default,,0,0,0,,{\pos(714.657,894)}That's right
+Dialogue: 0,0:17:55.09,0:17:56.49,Default,,0,0,0,,You still have two?!
+Dialogue: 0,0:17:55.92,0:17:56.49,Default,,0,0,0,,{\pos(709,838)}Yep
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\pos(323,300)}Matsuno
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\pos(402,444)}Takashi
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\pos(675,548)\s1}Kotohge
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\s1\pos(1005,345)}Matsuno
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\s1\pos(1073,608)}Miyazon
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\s1\pos(951,710)}Yaguchi
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\s1\pos(1036,846)}Yaguchi
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\s1\pos(631,931)}Kotohge
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\pos(414,819)}Takashi
+Dialogue: 0,0:17:56.49,0:18:07.03,Holes,,0,0,0,,{\pos(973,425)}Miyazon
+Dialogue: 0,0:17:56.49,0:18:07.03,Yellow2,,0,0,0,,{\pos(837,206)}Cookhouse
+Dialogue: 0,0:17:57.56,0:18:07.03,Yellow,,0,0,0,,{\fade(250,0)\pos(467,305)}Everyone\Nknows\Nabout\Nthis one
+Dialogue: 0,0:17:56.82,0:17:59.49,Default,,0,0,0,,With this, if we exclude Matsuno's trap
+Dialogue: 0,0:17:59.49,0:18:03.46,Default,,0,0,0,,which everyone got right at the beginning, there are only 3 traps left
+Dialogue: 0,0:18:04.13,0:18:07.16,Default,,0,0,0,,Kotohge doesn't have his traps anymore
+Dialogue: 0,0:18:07.16,0:18:12.87,Default,,0,0,0,,But he wants to know where Miyazon's trap is
+Dialogue: 0,0:18:07.33,0:18:18.21,Holes,,0,0,0,,{\pos(759,432)}Miyazon
+Dialogue: 0,0:18:07.43,0:18:15.77,Black,,0,0,0,,{\fade(250,0)\pos(780,848)}I can still get Miyazon's trap
+Dialogue: 0,0:18:13.57,0:18:15.94,Default,,0,0,0,,But actually, that trap too
+Dialogue: 0,0:18:15.91,0:18:18.21,Default,,0,0,0,,{\fade(250,0)\pos(996,668)}He knows where it is
+Dialogue: 0,0:18:15.94,0:18:20.78,Default,,0,0,0,,Is controlled by Takashi, who got it at the beginning,\N so it's actually 3 vs 0 traps
+Dialogue: 0,0:18:21.01,0:18:24.05,Default,,0,0,0,,Kotohge's situation is tragic, but...
+Dialogue: 0,0:18:21.05,0:18:26.65,Red/Bigger,,0,0,0,,{\fade(250,0)\pos(741,803)\t(0,10000,\fs50)}Kotohge's situation is desperate
+Dialogue: 0,0:18:24.38,0:18:25.98,Default,,0,0,0,,What will happen?
+Dialogue: 0,0:18:29.42,0:18:30.99,Default,,0,0,0,,Here
+Dialogue: 0,0:18:29.92,0:18:30.99,Default,,0,0,0,,{\pos(715,824)}Oh, thank you
+Dialogue: 0,0:18:32.12,0:18:34.83,Default,,0,0,0,,You poured that much?
+Dialogue: 0,0:18:34.83,0:18:35.93,Default,,0,0,0,,You ever saw {\alpha&HFF&}anyone drinking that much tea before?
+Dialogue: 0,0:18:35.93,0:18:37.46,Default,,0,0,0,,You ever saw anyone drinking{\alpha&HFF&} that much tea before?
+Dialogue: 0,0:18:37.46,0:18:39.06,Default,,0,0,0,,You ever saw anyone drinking that much tea before?
+Dialogue: 0,0:18:39.06,0:18:40.50,Default,,0,0,0,,Well, we moved a lot...
+Dialogue: 0,0:18:40.73,0:18:44.40,Default/Small,,0,0,0,,{\fade(250,0)\pos(740,622)\shad0\blur5}Now that it's 1 vs 1, there's not much action
+Dialogue: 0,0:18:41.20,0:18:44.84,Default,,0,0,0,,It's hard to have some action now that they're only two
+Dialogue: 0,0:18:44.84,0:18:48.04,Default,,0,0,0,,And so, this situation of stall goes on
+Dialogue: 0,0:18:48.51,0:18:50.47,Default,,0,0,0,,What are they going to do?
+Dialogue: 0,0:18:50.81,0:18:53.34,Default,,0,0,0,,What the? What if they don't do anything?
+Dialogue: 0,0:18:53.34,0:18:54.51,Default,,0,0,0,,It's gonna get dark!
+Dialogue: 0,0:18:54.51,0:18:57.52,Default/Small,,0,0,0,,{\pos(696,878)\shad0\blur5}2:46 P.M. - 3 hours and 30 minutes since the game started
+Dialogue: 0,0:18:54.65,0:18:57.52,Default,,0,0,0,,I have no clue where your traps are...
+Dialogue: 0,0:18:55.95,0:18:57.52,UP/YOU,,0,0,0,,It's gonna take a while
+Dialogue: 0,0:18:57.52,0:18:59.88,Default,,0,0,0,,They examine each other's movements
+Dialogue: 0,0:18:57.72,0:19:04.76,Default/Small,,0,0,0,,{\fade(250,0)\pos(752,616)\shad0\blur5}Exploring the field while checking each other out
+Dialogue: 0,0:18:59.88,0:19:03.02,Default,,0,0,0,,While they go around to explore some more
+Dialogue: 0,0:19:03.32,0:19:04.52,Default,,0,0,0,,But then...
+Dialogue: 0,0:19:04.76,0:19:08.09,Default,,0,0,0,,I'm making a quick toilet break
+Dialogue: 0,0:19:08.09,0:19:09.56,Default,,0,0,0,,Really, I gotta go
+Dialogue: 0,0:19:10.09,0:19:14.00,Default/Small,,0,0,0,,{\fade(250,0)\pos(703,614)\shad0\blur5}Kotohge moves towards the toilet
+Dialogue: 0,0:19:10.43,0:19:14.00,Default,,0,0,0,,Kotohge is going where the toilet is
+Dialogue: 0,0:19:12.80,0:19:14.33,UP/Matsumoto,,0,0,0,,This is scary...
+Dialogue: 0,0:19:14.53,0:19:15.20,Default,,0,0,0,,This place is fine,{\alpha&HFF&} no wonder
+Dialogue: 0,0:19:15.20,0:19:16.60,Default,,0,0,0,,This place is fine, no wonder
+Dialogue: 0,0:19:19.10,0:19:19.80,Default,,0,0,0,,Yeah it's fine, {\alpha&HFF&}thankfully
+Dialogue: 0,0:19:19.80,0:19:20.34,Default,,0,0,0,,Yeah it's fine, thankfully
+Dialogue: 0,0:19:20.34,0:19:22.57,Default,,0,0,0,,That one's out of order
+Dialogue: 0,0:19:22.57,0:19:23.67,Default,,0,0,0,,Hey, you can't use that, {\alpha&HFF&}it's out of order
+Dialogue: 0,0:19:23.67,0:19:25.08,Default,,0,0,0,,Hey, you can't use that, it's out of order
+Dialogue: 0,0:19:22.67,0:19:24.81,UP/YOU,,0,0,0,,- That's so suspicious\N{\rUP/Hamada}- Sounds fishy
+Dialogue: 0,0:19:25.08,0:19:27.11,Default,,0,0,0,,But it says it's out of order...
+Dialogue: 0,0:19:31.65,0:19:33.22,UP/Shiran,,0,0,0,,Unbelievable!
+Dialogue: 0,0:19:34.79,0:19:36.62,Default,,0,0,0,,He did it!
+Dialogue: 0,0:19:37.49,0:19:39.39,UP/Shiran,,0,0,0,,I see, so Takashi knew it...
+Dialogue: 0,0:19:39.82,0:19:41.36,UP/YOU,,0,0,0,,Of course he did
+Dialogue: 0,0:19:41.63,0:19:43.23,Default,,0,0,0,,{\pos(915.417,1070)}Huh?{\alpha&HFF&} Kotohge?
+Dialogue: 0,0:19:43.23,0:19:45.00,Default,,0,0,0,,{\pos(915.417,1070)}Huh? Kotohge?
+Dialogue: 0,0:19:47.43,0:19:48.77,Default,,0,0,0,,No way!
+Dialogue: 0,0:19:49.47,0:19:50.53,Default,,0,0,0,,I've waited all the time{\alpha&HFF&} for you to pee!
+Dialogue: 0,0:19:50.53,0:19:52.64,Default,,0,0,0,,I've waited all the time for you to pee!
+Dialogue: 0,0:19:52.64,0:19:53.17,Default,,0,0,0,,That's why I poured you {\alpha&HFF&}that much tea!
+Dialogue: 0,0:19:53.17,0:19:54.51,Default,,0,0,0,,That's why I poured you that much tea!
+Dialogue: 0,0:19:54.51,0:19:57.21,Default,,0,0,0,,Now I understand!
+Dialogue: 0,0:19:57.21,0:19:58.48,Default,,0,0,0,,It makes sense
+Dialogue: 0,0:19:58.48,0:20:00.21,Default,,0,0,0,,I told you we should get a break for that
+Dialogue: 0,0:20:00.31,0:20:00.98,Default,,0,0,0,,Also, {\alpha&HFF&}I'm the one who wrote "out of order"
+Dialogue: 0,0:20:00.98,0:20:01.41,Default,,0,0,0,,Also, I'm the one who wrote {\alpha&HFF&}"out of order"
+Dialogue: 0,0:20:01.41,0:20:04.08,Default,,0,0,0,,Also, I'm the one who wrote "out of order"
+Dialogue: 0,0:20:01.71,0:20:04.08,UP/Shiran,,0,0,0,,Eh?! This guy...
+Dialogue: 0,0:20:05.08,0:20:09.95,Default/Small,,0,0,0,,{\frz348\pos(637.508,369.6)\c&H000000&\4c&HFFFFFF&\bord3\shad0\blur4\3c&HFFFFFF&}"Out of order"
+Dialogue: 0,0:20:05.08,0:20:05.55,Default,,0,0,0,,I had{\alpha&HFF&} no idea!
+Dialogue: 0,0:20:05.55,0:20:08.19,Default,,0,0,0,,I had no idea!
+Dialogue: 0,0:20:08.19,0:20:09.95,Default,,0,0,0,,Are you kidding me?!
+Dialogue: 0,0:20:10.25,0:20:11.12,Default,,0,0,0,,Honestly,{\alpha&HFF} I was ready to wait up to two hours
+Dialogue: 0,0:20:11.12,0:20:12.62,Default,,0,0,0,,Honestly, I was ready to wait {\alpha&HFF}up to two hours
+Dialogue: 0,0:20:12.62,0:20:13.59,Default,,0,0,0,,Honestly, I was ready to wait up to two hours
+Dialogue: 0,0:20:13.69,0:20:14.99,Default,,0,0,0,,Man...
+Dialogue: 0,0:20:14.99,0:20:16.26,Default,,0,0,0,,That's impressive...
+Dialogue: 0,0:20:16.26,0:20:22.53,Default,,0,0,0,,{\pos(720.801,366.4)}Game over
+Dialogue: 0,0:20:16.26,0:20:22.53,Default/Small,,0,0,0,,{\pos(719.199,526.4)}Time: P.M. 2:53
+Dialogue: 0,0:20:16.26,0:20:22.53,Default/Small,,0,0,0,,{\pos(725.607,736)}Winner: Takashi
+Dialogue: 0,0:20:18.63,0:20:20.50,Shiran,,0,0,0,,He's so sly!
+Dialogue: 0,0:20:20.90,0:20:22.23,Matsumoto,,0,0,0,,Really
+Dialogue: 0,0:20:23.43,0:20:25.07,Default,,0,0,0,,I see
+Dialogue: 0,0:20:24.37,0:20:26.97,Kasuga,,0,0,0,,And that was it
+Dialogue: 0,0:20:26.97,0:20:27.87,Tanaka,,0,0,0,,I still don't get {\alpha&HFF&}what's the point of Nishimura
+Dialogue: 0,0:20:27.87,0:20:29.71,Tanaka,,0,0,0,,I still don't get what's the point of Nishimura
+Dialogue: 0,0:20:28.57,0:20:29.71,Matsumoto,,0,0,0,,{\pos(717.328,747.333)}Really, what's his deal?
+Dialogue: 0,0:20:29.71,0:20:32.91,Tanaka,,0,0,0,,They said they could "use him somehow"
+Dialogue: 0,0:20:32.91,0:20:36.18,Tanaka,,0,0,0,,But he fell down so quickly, so...
+Dialogue: 0,0:20:36.18,0:20:38.38,Matsushino,,0,0,0,,Even the cameraman
+Dialogue: 0,0:20:37.35,0:20:39.55,Kasuga,,0,0,0,,Yeah, that's true
+Dialogue: 0,0:20:39.78,0:20:43.55,Kasuga,,0,0,0,,I've never seen someone from the staff falling down a booby-trap
+Dialogue: 0,0:20:42.29,0:20:43.55,Shiran,,0,0,0,,Yeah, me neither
+Dialogue: 0,0:20:43.55,0:20:45.79,Kasuga,,0,0,0,,What do you think about it, YOU?\N{\rYOU}- Well...
+Dialogue: 0,0:20:45.99,0:20:47.19,YOU,,0,0,0,,After the first half,{\alpha&HFF&} it kind of... well, sucked
+Dialogue: 0,0:20:47.19,0:20:48.19,YOU,,0,0,0,,After the first half, it kind of... {\alpha&HFF&}well, sucked
+Dialogue: 0,0:20:48.19,0:20:51.90,YOU,,0,0,0,,After the first half, it kind of... well, sucked
+Dialogue: 0,0:20:51.90,0:21:03.17,Credits,,0,0,0,,{\fad(0,500)}TRANSLATION BY {\c&H84FF6C&}SHION{\r}\NTYPESET BY {\c&H84FF6C&}SHION {\r}& {\c&H84FF6C&}KEDOMAS\N{\r} EDIT & QC BY {\c&H84FF6C&}KEDOMAS
+Dialogue: 0,0:20:51.90,0:21:03.17,Credits 2,,0,0,0,,{\3c&H87006A&}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&HAB168B&}fB.COM/SHIONNOTSUKAI\N{\3c&HC344A7&}TWITTER.COM/SHIONNOTSUKAI\N{\3c&HDF76C6&}KO-FI.COM/SHIONNOTSUKAI\N{\3c&HE695D2&}PATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:20:57.94,0:20:58.94,Matsumoto,,0,0,0,,He walked away {\alpha&HFF&}quicker than I expected
+Dialogue: 0,0:20:58.94,0:21:00.77,Matsumoto,,0,0,0,,He walked away quicker than I expected
+Dialogue: 0,0:20:58.94,0:21:00.77,Hamada,,0,0,0,,{\pos(736.03,750)}Yeah, I thought he would have been slower
+

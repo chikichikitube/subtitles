@@ -1,0 +1,1102 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: WEDNESDAY DOWNTOWN 2016-06-01.mp4
+Video File: WEDNESDAY DOWNTOWN 2016-06-01.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Active Line: 1
+Video Position: 65
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,60,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Default Talking Over,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Matsumoto Talking Over,Arial,50,&H001525D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Hamada Talking Over,Arial,50,&H00FF0015,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: bandsongname,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,90,0,0,1,4,2,7,10,150,5,1
+Style: Comment,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&HFF000000,0,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Credit text title,Arial,60,&H64FFFFFF,&H64000000,&H64000000,&HFFFFFFFF,-1,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,185.951,100,0,0,3,36.6666,1.46666,5,9,9,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:47:54.85,Credit text title,,0,0,0,,Hello viewer! This video was created by volunteers. If you plan to alter the subs in anyway, please keep the credit as an action of gratitude towards those who have spent much of their free time to bring you subbed content. Enjoy!
+Comment: 0,0:00:00.00,0:44:24.94,Credit text title,,0,0,0,,End
+Comment: 0,0:47:28.42,0:47:54.85,Narrator,,0,0,0,,End
+Dialogue: 0,0:00:00.00,0:47:39.90,Credit text title,,0,0,0,,{\c&HFFFFFF&\1a&HDC&\3c&H000000&\3a&HDC&\4c&HFFFFFF&\4a&HFF&\fscx63\fscy86\pos(123,56)}WDT Project
+Dialogue: 0,0:00:00.00,0:00:19.10,Default,,0,0,0,,{\pos(720,65)\bord0\shad0\1c&H000000&\p1\fade(0,1000)\alpha65}m 0 0  l 1800 0  1800 140  0 140
+Dialogue: 0,0:00:00.00,0:00:19.10,Credit text title,,0,0,0,,{\pos(718.5,50)\fscx48\fscy64}{\fade(0,1000)\c&H1525D4&\1a&H14&}Timers: {\c&HFFFFFF&}ShiratoHaki, Karel, Spectral-K, CatZombies, Phantom {\c&H00FFF1&}Translators: {\c&HFFFFFF&}Zebestt, CatZombies, Xueshi
+Dialogue: 0,0:00:02.98,0:00:05.74,Hamada,,0,0,0,,Hello everyone, this is Wednesday Downtown! We'll be in your care!
+Dialogue: 0,0:00:05.74,0:00:07.34,Default,,0,0,0,,We'll be in your care.
+Dialogue: 0,0:00:07.36,0:00:11.12,Hamada,,0,0,0,,Let's get this started, here are your first presenters. Please come out!
+Dialogue: 0,0:00:17.94,0:00:21.16,Hamada,,0,0,0,,It's Drunk Dragon!
+Dialogue: 0,0:00:22.44,0:00:23.64,Default,,0,0,0,,We'll be in your care.
+Dialogue: 0,0:00:23.64,0:00:25.54,Hamada,,0,0,0,,There's two of you.
+Dialogue: 0,0:00:24.54,0:00:25.54,Default,,0,0,0,,Yes, there is.
+Dialogue: 0,0:00:26.34,0:00:28.44,Default,,0,0,0,,It's a bit rare.
+Dialogue: 0,0:00:27.12,0:00:28.44,Hamada,,0,0,0,,But that's not necessary.
+Dialogue: 0,0:00:28.44,0:00:31.50,Default,,0,0,0,,Not necessary? Well I don't know if you're talking about me though...
+Dialogue: 0,0:00:31.50,0:00:32.68,Hamada,,0,0,0,,It's definitely you!
+Dialogue: 0,0:00:34.54,0:00:37.94,Default,,0,0,0,,This time I've brought a theory that I really wanted to do.
+Dialogue: 0,0:00:36.76,0:00:37.94,Hamada,,0,0,0,,Oh, really?
+Dialogue: 0,0:00:39.56,0:00:42.40,Default,,0,0,0,,Here is the theory that we'll be presenting today:
+Dialogue: 0,0:00:43.36,0:00:47.52,Hamada,,0,0,0,,Theory: Those that have a unique gravestone have an anecdote behind it.
+Dialogue: 0,0:00:49.74,0:00:50.84,Matsumoto,,0,0,0,,What's this?
+Dialogue: 0,0:00:50.84,0:00:56.74,Default,,0,0,0,,I used to be an altar maker before I started doing comedy for a living.
+Dialogue: 0,0:00:56.88,0:00:59.42,Default,,0,0,0,,There was a thing called "Present Day Altars"
+Dialogue: 0,0:00:59.42,0:01:02.51,Default,,0,0,0,,with altars that were fashionable and modern.
+Dialogue: 0,0:01:02.50,0:01:07.12,Default,,0,0,0,,We were progressing towards those. If I were to explain it simply, there was a glass barrier
+Dialogue: 0,0:01:07.12,0:01:09.58,Default,,0,0,0,,which would light up the Buddha statue inside when opened.
+Dialogue: 0,0:01:11.56,0:01:14.02,Default,,0,0,0,,And it was called "Jupiter".
+Dialogue: 0,0:01:14.20,0:01:15.64,Hamada,,0,0,0,,Never heard of it.
+Dialogue: 0,0:01:15.78,0:01:19.44,Default,,0,0,0,,In the same vein, recently gravestones have been becoming more unique.
+Dialogue: 0,0:01:19.60,0:01:24.04,Default,,0,0,0,,The one that I found recently was a plate shaped stone about this big
+Dialogue: 0,0:01:24.28,0:01:27.10,Default,,0,0,0,,with a toy poodle figure drawn into it.
+Dialogue: 0,0:01:27.10,0:01:28.30,Matsumoto,,0,0,0,,Etched in?
+Dialogue: 0,0:01:28.30,0:01:35.04,Default,,0,0,0,,Yes, and it was painted as well. There was a speech bubble that said "Thanks furry much".
+Dialogue: 0,0:01:35.80,0:01:38.12,Default,,0,0,0,,I don't know what they were trying to accomplish but
+Dialogue: 0,0:01:38.96,0:01:42.60,Default,,0,0,0,,they really liked poodles.
+Dialogue: 0,0:01:39.78,0:01:42.60,Hamada,,0,0,0,,That's why you thought there something behind it.
+Dialogue: 0,0:01:42.70,0:01:47.22,Matsumoto,,0,0,0,,But if you only say that, it's just the grave of a toy poodle.
+Dialogue: 0,0:01:47.68,0:01:51.58,Narrator,,0,0,0,,After this, a variety of unique gravestones will appear, also...
+Dialogue: 0,0:01:51.92,0:01:56.84,Narrator,,0,0,0,,The theory that your parent's strange faces will definitely make you laugh.
+Dialogue: 0,0:01:57.42,0:02:00.26,Narrator,,0,0,0,,The theory that there are no 70+ year olds that are more than 100 kg.
+Dialogue: 0,0:02:03.42,0:02:07.76,Narrator,,0,0,0,,The theory that you can find all ages from 0 to 100 in song lyrics.
+Dialogue: 0,0:02:07.96,0:02:11.58,Narrator,,0,0,0,,We'll be collaborating with countdown TV!
+Dialogue: 0,0:02:28.78,0:02:34.08,Narrator,,0,0,0,,We'll be investigating the theory that there's an anecdote to every unique gravestone.
+Dialogue: 0,0:02:35.32,0:02:42.50,Narrator,,0,0,0,,This time, we'll be getting help from this company that is having a grave design contest.
+Dialogue: 0,0:02:43.04,0:02:46.24,Narrator,,0,0,0,,We'll be finding unique gravestones from around Japan.
+Dialogue: 0,0:02:47.66,0:02:49.10,Narrator,,0,0,0,,The first one...
+Dialogue: 0,0:02:52.10,0:02:54.40,Narrator,,0,0,0,,A coffee bean.
+Dialogue: 0,0:02:55.68,0:02:57.58,Narrator,,0,0,0,,Also the name written on the grave is...
+Dialogue: 0,0:02:57.58,0:03:00.86,Narrator,,0,0,0,,"Coffee Person Takemoto".
+Dialogue: 0,0:03:01.84,0:03:05.18,Narrator,,0,0,0,,It's a pretty unique grave but
+Dialogue: 0,0:03:05.18,0:03:08.20,Narrator,,0,0,0,,when we ask why it's a coffee bean.
+Dialogue: 0,0:03:09.43,0:03:12.60,Default,,0,0,0,,My father was managing a coffee shop.
+Dialogue: 0,0:03:12.60,0:03:16.31,Default,,0,0,0,,He was really into coffee.
+Dialogue: 0,0:03:16.31,0:03:21.31,Default,,0,0,0,,There's a mark of a coffee bean in the name of the shop.
+Dialogue: 0,0:03:21.31,0:03:24.55,Default,,0,0,0,,The shape of that bean was quite good.
+Dialogue: 0,0:03:25.42,0:03:32.52,Narrator,,0,0,0,,They made a gravestone out of the coffee bean mark in his father Kouhei's shop's name.
+Dialogue: 0,0:03:33.54,0:03:39.08,Narrator,,0,0,0,,There’s a story about how much the father was into coﬀee
+Dialogue: 0,0:03:39.90,0:03:43.77,Default,,0,0,0,,My father was in Japan during the war,
+Dialogue: 0,0:03:43.77,0:03:46.74,Default,,0,0,0,,but he really wanted to go to the battlefield.
+Dialogue: 0,0:03:46.74,0:03:48.51,Default,,0,0,0,,And if you asked him why,
+Dialogue: 0,0:03:48.64,0:03:52.58,Default,,0,0,0,,"If I can go to southern countries, I could probably drink some really tasty coffee".
+Dialogue: 0,0:03:52.81,0:03:55.98,Default,,0,0,0,,That's how long ago he was in love with coffee.
+Dialogue: 0,0:03:56.90,0:03:59.98,Narrator,,0,0,0,,The man that's resting with a gravestone of a coffee bean
+Dialogue: 0,0:03:59.98,0:04:04.30,Narrator,,0,0,0,,was the man in love with coffee to the point of risking his life, a "Coffee Man".
+Dialogue: 0,0:04:05.60,0:04:07.02,Narrator,,0,0,0,,Next we have this piece.
+Dialogue: 0,0:04:09.24,0:04:10.88,Narrator,,0,0,0,,A milk cow.
+Dialogue: 0,0:04:10.94,0:04:14.42,Narrator,,0,0,0,,But it's not a cow that's resting inside.
+Dialogue: 0,0:04:15.57,0:04:20.81,Default,,0,0,0,,There's a fence and the flower pot is a milk carrying can.
+Dialogue: 0,0:04:20.81,0:04:24.04,Default,,0,0,0,,We wanted to give it the feel of a farm.
+Dialogue: 0,0:04:26.44,0:04:32.74,Narrator,,0,0,0,,To honor the father's job as a dairy farmer, a milk cow grave.
+Dialogue: 0,0:04:32.98,0:04:37.56,Default,,0,0,0,,He helped to cultivate Roppougaoka and we continue that to this day.
+Dialogue: 0,0:04:37.56,0:04:41.53,Default,,0,0,0,,He was working so hard for many years, doing weeding.
+Dialogue: 0,0:04:41.53,0:04:45.83,Default,,0,0,0,,He said that "Everyone can now eat until they're full".
+Dialogue: 0,0:04:46.52,0:04:49.65,Narrator,,0,0,0,,The man resting in a milk cow grave was
+Dialogue: 0,0:04:50.48,0:04:53.62,Narrator,,0,0,0,,bringing dairy farming to an afore uncultivated land.
+Dialogue: 0,0:04:54.84,0:04:58.70,Narrator,,0,0,0,,He gave his entire life to that cultivation.
+Dialogue: 0,0:05:00.18,0:05:02.18,Narrator,,0,0,0,,Next we have this.
+Dialogue: 0,0:05:03.48,0:05:08.69,Default,,0,0,0,,My husband was a cameraman, so I decided to use a camera as a motif.
+Dialogue: 0,0:05:09.32,0:05:13.26,Narrator,,0,0,0,,The man who loved cameras was
+Dialogue: 0,0:05:13.26,0:05:15.88,Narrator,,0,0,0,,the cameraman Shinoda Noboru.
+Dialogue: 0,0:05:17.86,0:05:21.82,Narrator,,0,0,0,,Winning an award for camerawork for the film {\i1\b1}Crying out love in the center of the world{\i0\b0}
+Dialogue: 0,0:05:21.82,0:05:25.28,Narrator,,0,0,0,,from the Japanese Film Academy.
+Dialogue: 0,0:05:26.10,0:05:32.00,Narrator,,0,0,0,,Leaving his mark in the film industry, but lost his life at the young age of 52.
+Dialogue: 0,0:05:34.31,0:05:37.78,Default,,0,0,0,,He would think about camera work even in his daily life.
+Dialogue: 0,0:05:38.02,0:05:42.42,Default,,0,0,0,,"How much could I use my wrist until the camera wouldn't shake?"
+Dialogue: 0,0:05:42.42,0:05:46.99,Default,,0,0,0,,"I will investigate this holding a mug."
+Dialogue: 0,0:05:46.99,0:05:52.16,Default,,0,0,0,,He was doing training with a coffee filled mug to not tremble.
+Dialogue: 0,0:05:52.76,0:05:54.76,Narrator,,0,0,0,,Next, we have this.
+Dialogue: 0,0:05:57.42,0:06:01.28,Narrator,,0,0,0,,What is the inspiration behind this stone?
+Dialogue: 0,0:06:02.37,0:06:04.51,Default,,0,0,0,,It's a "pin-perm".
+Dialogue: 0,0:06:04.68,0:06:11.38,Default,,0,0,0,,This ring is an image of the curled up hair.
+Dialogue: 0,0:06:11.96,0:06:18.36,Narrator,,0,0,0,,A pin-perm is a perm technique using pins to wrap and fix the hair, not using any rods.
+Dialogue: 0,0:06:19.02,0:06:23.28,Narrator,,0,0,0,,The person that invented the technique is the mother Hatsue.
+Dialogue: 0,0:06:23.70,0:06:25.53,Default,,0,0,0,,When did she pass away?
+Dialogue: 0,0:06:25.53,0:06:29.37,Default,,0,0,0,,No, my mother is still alive.
+Dialogue: 0,0:06:29.98,0:06:35.06,Narrator,,0,0,0,,This grave was built 23 years ago by the mother but
+Dialogue: 0,0:06:35.66,0:06:39.48,Narrator,,0,0,0,,since she's still alive and well, nobody is in it.
+Dialogue: 0,0:06:41.48,0:06:42.64,Narrator,,0,0,0,,Also...
+Dialogue: 0,0:06:43.32,0:06:46.54,Narrator,,0,0,0,,A calligrapher's grave: brushes and an ink stone.
+Dialogue: 0,0:06:48.38,0:06:51.32,Narrator,,0,0,0,,A rail worker: locomotive.
+Dialogue: 0,0:06:52.30,0:06:57.20,Narrator,,0,0,0,,A horseshoe maker: a horseshoe, and
+Dialogue: 0,0:06:57.58,0:06:59.92,Narrator,,0,0,0,,various animals.
+Dialogue: 0,0:07:01.28,0:07:05.52,Narrator,,0,0,0,,A tailor: sebiro (Japanese style business suit)
+Dialogue: 0,0:07:05.98,0:07:12.42,Narrator,,0,0,0,,There were a lot of graves related to the person's job, all with stories behind them.
+Dialogue: 0,0:07:12.78,0:07:17.40,Narrator,,0,0,0,,However, these sister's father Osamu's grave is...
+Dialogue: 0,0:07:18.76,0:07:20.44,Narrator,,0,0,0,,an apple.
+Dialogue: 0,0:07:21.42,0:07:25.12,Default,,0,0,0,,It's the shape of an apple type called "Star King Delicious".
+Dialogue: 0,0:07:25.12,0:07:27.19,Default,,0,0,0,,It's really red right?
+Dialogue: 0,0:07:27.19,0:07:28.49,Default,,0,0,0,,It's gleaming with light.
+Dialogue: 0,0:07:28.49,0:07:32.20,Default,,0,0,0,,Our dad really enjoyed that apple.
+Dialogue: 0,0:07:32.82,0:07:37.02,Narrator,,0,0,0,,Somehow, he wasn't in the apple business.
+Dialogue: 0,0:07:37.10,0:07:39.47,Default,,0,0,0,,He really like that apple.
+Dialogue: 0,0:07:40.08,0:07:45.36,Narrator,,0,0,0,,Differing from the pattern until now, it was just that he enjoyed the apple.
+Dialogue: 0,0:07:47.58,0:07:51.02,Default,,0,0,0,,Who was it that came up with the idea of an apple?
+Dialogue: 0,0:07:51.42,0:07:55.79,Default,,0,0,0,,We both were like "Should it just be an apple?"
+Dialogue: 0,0:07:56.38,0:07:59.74,Narrator,,0,0,0,,It wasn't even his own idea.
+Dialogue: 0,0:08:00.02,0:08:04.73,Default,,0,0,0,,He used to say "An apple a day keeps the doctor away" and
+Dialogue: 0,0:08:04.73,0:08:06.06,Default,,0,0,0,,he always ate them.
+Dialogue: 0,0:08:06.26,0:08:10.24,Default,,0,0,0,,He died of cancer ironically.
+Dialogue: 0,0:08:10.66,0:08:13.82,Narrator,,0,0,0,,The pattern of making gravestones out of favorite things.
+Dialogue: 0,0:08:14.48,0:08:17.80,Narrator,,0,0,0,,Next we have the husband's grave.
+Dialogue: 0,0:08:19.64,0:08:21.74,Narrator,,0,0,0,,Shogi (Japanese chess)
+Dialogue: 0,0:08:22.11,0:08:27.92,Default,,0,0,0,,My husband really liked shogi when he was alive, going around to friends' houses.
+Dialogue: 0,0:08:27.92,0:08:31.02,Default,,0,0,0,,He went about a lot of houses.
+Dialogue: 0,0:08:31.02,0:08:33.32,Default,,0,0,0,,He could play it until the end so,
+Dialogue: 0,0:08:33.32,0:08:36.79,Default,,0,0,0,,I thought of making it related to shogi.
+Dialogue: 0,0:08:37.46,0:08:42.08,Narrator,,0,0,0,,It seems there is another unique gravestone in this cemetery.
+Dialogue: 0,0:08:42.40,0:08:45.17,Default,,0,0,0,,There's a heaven and earth kind of difference between us and Guts-san.
+Dialogue: 0,0:08:45.17,0:08:46.91,Default,,0,0,0,,Guts-san has a grave here?
+Dialogue: 0,0:08:46.91,0:08:50.04,Default,,0,0,0,,Yes, right below here, there's a splendid one.
+Dialogue: 0,0:08:50.76,0:08:55.68,Narrator,,0,0,0,,We decided to take a look.
+Dialogue: 0,0:08:50.76,0:08:55.68,Default,,0,0,0,,(Writing says: "Guts Family grave is this way")
+Dialogue: 0,0:08:57.48,0:09:00.99,Narrator,,0,0,0,,Discovery: The Guts Family Grave.
+Dialogue: 0,0:09:02.58,0:09:06.62,Narrator,,0,0,0,,The name isn't Suzuki, or even Ishimatsu.
+Dialogue: 0,0:09:07.62,0:09:09.66,Narrator,,0,0,0,,The Guts Family!
+Dialogue: 0,0:09:10.50,0:09:13.90,Narrator,,0,0,0,,The person is still alive but...
+Dialogue: 0,0:09:14.72,0:09:17.56,Narrator,,0,0,0,,A belt and gloves made out of stone.
+Dialogue: 0,0:09:18.52,0:09:21.46,Narrator,,0,0,0,,And his amazing fight record.
+Dialogue: 0,0:09:21.74,0:09:26.00,Narrator,,0,0,0,,His "I don't know" catchphrase "OK Corral" is carved on the grave.
+Dialogue: 0,0:09:28.72,0:09:32.66,Narrator,,0,0,0,,There were other graves related to the person's hobbies or the things they liked.
+Dialogue: 0,0:09:33.22,0:09:35.28,Narrator,,0,0,0,,Piano
+Dialogue: 0,0:09:36.04,0:09:37.92,Narrator,,0,0,0,,Violin
+Dialogue: 0,0:09:38.32,0:09:40.90,Narrator,,0,0,0,,Guitar
+Dialogue: 0,0:09:42.04,0:09:44.00,Narrator,,0,0,0,,Fishing
+Dialogue: 0,0:09:44.86,0:09:46.86,Narrator,,0,0,0,,Wind-surfing
+Dialogue: 0,0:09:48.40,0:09:50.22,Narrator,,0,0,0,,Golf
+Dialogue: 0,0:09:51.42,0:09:53.68,Narrator,,0,0,0,,Rugby
+Dialogue: 0,0:09:54.92,0:09:59.18,Narrator,,0,0,0,,Scuba diving and other sports. Furthermore,
+Dialogue: 0,0:09:59.18,0:10:01.28,Narrator,,0,0,0,,Cars
+Dialogue: 0,0:10:03.22,0:10:04.64,Narrator,,0,0,0,,Sake
+Dialogue: 0,0:10:04.64,0:10:07.00,Narrator,,0,0,0,,The genres are varied but
+Dialogue: 0,0:10:05.22,0:10:07.64,Default Talking Over,,0,0,0,,Oh, you can even find those?
+Dialogue: 0,0:10:07.00,0:10:11.08,Narrator,,0,0,0,,the trickiest was this one.
+Dialogue: 0,0:10:09.84,0:10:11.06,Default Talking Over,,0,0,0,,What? What?
+Dialogue: 0,0:10:12.54,0:10:13.58,Narrator,,0,0,0,,Cigarettes
+Dialogue: 0,0:10:13.58,0:10:16.02,Narrator,,0,0,0,,Moreover, a specific brand
+Dialogue: 0,0:10:16.02,0:10:17.98,Narrator,,0,0,0,,called Mild Seven.
+Dialogue: 0,0:10:17.70,0:10:19.66,Hamada Talking Over,,0,0,0,,That's amazing.
+Dialogue: 0,0:10:18.56,0:10:21.34,Narrator,,0,0,0,,And if you look closely,
+Dialogue: 0,0:10:20.46,0:10:21.98,Default Talking Over,,0,0,0,,Oh wow.
+Dialogue: 0,0:10:22.00,0:10:23.58,Narrator,,0,0,0,,It's not and S but
+Dialogue: 0,0:10:23.58,0:10:25.06,Narrator,,0,0,0,,an H.
+Dialogue: 0,0:10:26.14,0:10:29.42,Narrator,,0,0,0,,It's a Mild Heaven.
+Dialogue: 0,0:10:29.86,0:10:32.38,Default Talking Over,,0,0,0,,It's not really the place to do a pun.
+Dialogue: 0,0:10:30.46,0:10:36.94,Narrator,,0,0,0,,Until now, there were a lot of gravestones related to jobs or hobbies
+Dialogue: 0,0:10:33.88,0:10:36.94,Hamada Talking Over,,0,0,0,,It's unbelievable.
+Dialogue: 0,0:10:36.94,0:10:38.58,Narrator,,0,0,0,,but this person's husband
+Dialogue: 0,0:10:38.58,0:10:42.38,Narrator,,0,0,0,,is resting in a grave that doesn't suit any of those categories.
+Dialogue: 0,0:10:43.40,0:10:47.84,Narrator,,0,0,0,,The grave that's related to neither the job or hobby.
+Dialogue: 0,0:10:51.10,0:10:53.28,Narrator,,0,0,0,,A living room.
+Dialogue: 0,0:10:55.36,0:10:57.40,Matsumoto Talking Over,,0,0,0,,That's awesome.
+Dialogue: 0,0:10:56.20,0:10:57.40,Default Talking Over,,0,0,0,,What the-?
+Dialogue: 0,0:10:57.08,0:10:59.68,Default,,0,0,0,,That's the ultimate one.
+Dialogue: 0,0:11:00.12,0:11:02.72,Narrator,,0,0,0,,Somehow, the living room of their house
+Dialogue: 0,0:11:02.72,0:11:07.52,Narrator,,0,0,0,,was completely recreated out of stone
+Dialogue: 0,0:11:08.74,0:11:12.28,Narrator,,0,0,0,,The sofa is completely solid but
+Dialogue: 0,0:11:10.28,0:11:12.98,Matsumoto Talking Over,,0,0,0,,Stiff as hell right?
+Dialogue: 0,0:11:11.50,0:11:12.98,Default Talking Over,,0,0,0,,You can tell by looking.
+Dialogue: 0,0:11:12.28,0:11:15.80,Narrator,,0,0,0,,You can sit and relax on it as you please.
+Dialogue: 0,0:11:13.24,0:11:14.64,Default Talking Over,,0,0,0,,Yeah, of course.
+Dialogue: 0,0:11:14.64,0:11:15.82,Matsumoto Talking Over,,0,0,0,,She's really into it for some reason.
+Dialogue: 0,0:11:15.80,0:11:18.50,Narrator,,0,0,0,,And the price of it...
+Dialogue: 0,0:11:19.18,0:11:22.34,Narrator,,0,0,0,,20 million yen (~$186,000).
+Dialogue: 0,0:11:21.76,0:11:23.44,Default Talking Over,,0,0,0,,They're rich.
+Dialogue: 0,0:11:22.34,0:11:24.10,Default,,0,0,0,,In the summer with cold noodles
+Dialogue: 0,0:11:24.10,0:11:26.20,Default,,0,0,0,,in the winter with cup ramen
+Dialogue: 0,0:11:26.20,0:11:28.16,Default,,0,0,0,,we come here as a family.
+Dialogue: 0,0:11:27.80,0:11:29.88,Default Talking Over,,0,0,0,,There's even a picture of them.
+Dialogue: 0,0:11:28.16,0:11:31.14,Default,,0,0,0,,We're passing time with father.
+Dialogue: 0,0:11:31.14,0:11:33.88,Default,,0,0,0,,You can smoke one if you please.
+Dialogue: 0,0:11:35.32,0:11:36.92,Narrator,,0,0,0,,When visiting the grave,
+Dialogue: 0,0:11:36.92,0:11:38.56,Narrator,,0,0,0,,just like when he was alive
+Dialogue: 0,0:11:38.56,0:11:41.24,Narrator,,0,0,0,,you can feel the family fellowship.
+Dialogue: 0,0:11:41.24,0:11:43.98,Narrator,,0,0,0,,It's a wonderful grave.
+Dialogue: 0,0:11:43.98,0:11:46.82,Narrator,,0,0,0,,Even though it's stiff as hell.
+Dialogue: 0,0:11:45.70,0:11:47.32,Hamada Talking Over,,0,0,0,,That's enough.
+Dialogue: 0,0:11:46.82,0:11:53.98,Narrator,,0,0,0,,With that, unique gravestones are full of stories related to the deceased and their families.
+Dialogue: 0,0:11:53.98,0:11:56.26,Hamada,,0,0,0,,It's really something isn't it?
+Dialogue: 0,0:11:56.26,0:11:57.78,Hamada,,0,0,0,,Quite interesting.
+Dialogue: 0,0:11:57.78,0:11:58.84,Hamada,,0,0,0,,Really.
+Dialogue: 0,0:11:58.84,0:12:01.40,Default,,0,0,0,,They're gonna put the son in there as well right?
+Dialogue: 0,0:12:01.40,0:12:02.72,Matsumoto,,0,0,0,,Yes, they do.
+Dialogue: 0,0:12:02.72,0:12:05.84,Default,,0,0,0,,So the son can enter the Guts grave?
+Dialogue: 0,0:12:05.84,0:12:09.30,Default,,0,0,0,,Yes, inside the "OK Corral"
+Dialogue: 0,0:12:07.70,0:12:09.30,Default,,0,0,0,,Inside the OK Corral.
+Dialogue: 0,0:12:09.30,0:12:13.44,Hamada,,0,0,0,,There's no way there's a Guts Family.
+Dialogue: 0,0:12:13.44,0:12:15.20,Default,,0,0,0,,By the way, how about Downtown?
+Dialogue: 0,0:12:15.20,0:12:16.78,Default,,0,0,0,,Would you go for
+Dialogue: 0,0:12:16.78,0:12:18.48,Default,,0,0,0,,something like that?
+Dialogue: 0,0:12:18.48,0:12:20.36,Matsumoto,,0,0,0,,Ah, my grandpa's grave was
+Dialogue: 0,0:12:20.36,0:12:22.96,Matsumoto,,0,0,0,,really damn dirty.
+Dialogue: 0,0:12:20.92,0:12:22.96,Hamada,,0,0,0,,That's enough!
+Dialogue: 0,0:12:22.96,0:12:24.52,Hamada,,0,0,0,,What the hell are you saying?
+Dialogue: 0,0:12:24.52,0:12:25.96,Hamada,,0,0,0,,Clean out whatever was there.
+Dialogue: 0,0:12:25.96,0:12:28.38,Matsumoto,,0,0,0,,Why am I being scolded by my partner
+Dialogue: 0,0:12:28.38,0:12:30.00,Matsumoto,,0,0,0,,when I talk about my own grandpa?
+Dialogue: 0,0:12:30.00,0:12:31.30,Default,,0,0,0,,Right?
+Dialogue: 0,0:12:32.80,0:12:33.78,Narrator,,0,0,0,,Next we have,
+Dialogue: 0,0:12:33.78,0:12:37.14,Narrator,,0,0,0,,investigating the theories from around the world.
+Dialogue: 0,0:12:37.14,0:12:39.68,Narrator,,0,0,0,,Viewers' Theory Corner!
+Dialogue: 0,0:12:39.68,0:12:42.66,Narrator,,0,0,0,,Tonight's presenter...
+Dialogue: 0,0:12:43.66,0:12:46.90,Hamada,,0,0,0,,It's Haraichi's Sawabe!
+Dialogue: 0,0:12:46.91,0:12:48.48,Default,,0,0,0,,Please treat me kindly.
+Dialogue: 0,0:12:48.48,0:12:50.74,Default,,0,0,0,,Sawabee-nyaa!
+Dialogue: 0,0:12:48.48,0:12:50.00,Matsumoto,,0,0,0,,I'm getting sick.
+Dialogue: 0,0:12:52.26,0:12:54.12,Default,,0,0,0,,I'll be in your care.
+Dialogue: 0,0:12:52.84,0:12:54.12,Default,,0,0,0,,Is that a thing he does?
+Dialogue: 0,0:12:54.12,0:12:57.20,Default,,0,0,0,,I never thought I'd get such a nice reaction.
+Dialogue: 0,0:12:57.20,0:12:58.26,Default,,0,0,0,,Hamada-san?
+Dialogue: 0,0:12:58.26,0:13:00.54,Default,,0,0,0,,SCARY FACE
+Dialogue: 0,0:13:02.22,0:13:03.96,Matsumoto,,0,0,0,,Which one of you is to blame I wonder?
+Dialogue: 0,0:13:03.96,0:13:06.26,Default,,0,0,0,,Ok, I'd like to move on to the theory, here it is!
+Dialogue: 0,0:13:07.32,0:13:13.62,Default,,0,0,0,,Theory: Ages from 0 to 100 can all be found in song lyrics.
+Dialogue: 0,0:13:13.90,0:13:16.94,Matsumoto,,0,0,0,,This one's a hard one once again.
+Dialogue: 0,0:13:16.94,0:13:18.48,Hamada,,0,0,0,,From 0 to 100?
+Dialogue: 0,0:13:18.48,0:13:19.40,Default,,0,0,0,,From 0 to 100.
+Dialogue: 0,0:13:19.40,0:13:21.70,Matsumoto,,0,0,0,,Can you find something like 11 years old?
+Dialogue: 0,0:13:21.70,0:13:25.16,Default,,0,0,0,,That surely is in some lyric isn't it?
+Dialogue: 0,0:13:25.16,0:13:26.22,Default,,0,0,0,,Now this instant-
+Dialogue: 0,0:13:26.22,0:13:30.12,Hamada,,0,0,0,,Fuji Seiko had that one that went 15-16-17.
+Dialogue: 0,0:13:30.12,0:13:32.58,Default,,0,0,0,,Oh that's good.
+Dialogue: 0,0:13:30.50,0:13:32.58,Matsumoto,,0,0,0,,Those ages though
+Dialogue: 0,0:13:32.58,0:13:35.44,Matsumoto,,0,0,0,,they're purteby.
+Dialogue: 0,0:13:34.82,0:13:35.44,Default,,0,0,0,,Puberty.
+Dialogue: 0,0:13:35.44,0:13:37.76,Matsumoto,,0,0,0,,Purteby.
+Dialogue: 0,0:13:36.30,0:13:37.76,Default,,0,0,0,,Puberty.
+Dialogue: 0,0:13:37.76,0:13:40.60,Matsumoto,,0,0,0,,Can't I say purbety properly?
+Dialogue: 0,0:13:40.60,0:13:44.28,Default,,0,0,0,,You realized at this age that you can't say puberty?
+Dialogue: 0,0:13:44.28,0:13:50.02,Narrator,,0,0,0,,We're investigating the theory that ages from 0 to 100 can be found in song lyrics.
+Dialogue: 0,0:13:52.10,0:13:55.02,Default,,0,0,0,,The viewers of Wednesday Downtown...
+Dialogue: 0,0:13:54.04,0:13:55.86,Default Talking Over,,0,0,0,,It's Countdown TV.
+Dialogue: 0,0:13:55.02,0:13:56.80,Default,,0,0,0,,Good Evening!
+Dialogue: 0,0:13:56.80,0:13:58.54,Default,,0,0,0,,Now, we Countdown TV
+Dialogue: 0,0:13:58.54,0:14:01.54,Default,,0,0,0,,will be doing the investigating for this theory! YAY!
+Dialogue: 0,0:14:01.54,0:14:03.82,Default,,0,0,0,,You've really thought of something interesting
+Dialogue: 0,0:14:03.82,0:14:05.86,Default,,0,0,0,,looking into the ages that appear in songs.
+Dialogue: 0,0:14:04.02,0:14:06.54,Hamada Talking Over,,0,0,0,,I wonder how it's gonna be.
+Dialogue: 0,0:14:05.86,0:14:07.46,Default,,0,0,0,,Will the theory be validated?
+Dialogue: 0,0:14:07.46,0:14:10.12,Default,,0,0,0,,We're really looking forward to it as well!
+Dialogue: 0,0:14:08.90,0:14:11.20,Default Talking Over,,0,0,0,,It's not the real voice.
+Dialogue: 0,0:14:10.12,0:14:14.80,Default,,0,0,0,,First off, we'll be looking for ages 0 up to graduating elementary school.
+Dialogue: 0,0:14:13.34,0:14:15.30,Default Talking Over,,0,0,0,,Oh there is?
+Dialogue: 0,0:14:15.30,0:14:17.48,Default Talking Over,,0,0,0,,It starts from 0!
+Dialogue: 0,0:14:14.80,0:14:16.16,Default,,0,0,0,,Let's jump in immediately!
+Dialogue: 0,0:14:16.16,0:14:18.54,Default,,0,0,0,,Ages counting UP!
+Dialogue: 0,0:14:19.34,0:14:20.92,Default Talking Over,,0,0,0,,Let's go!
+Dialogue: 0,0:14:20.34,0:14:24.94,Default,,0,0,0,,Like the fantasy of a 0 year old.
+Dialogue: 0,0:14:20.34,0:14:24.94,bandsongname,,0,0,0,,[Aqua Timez - Eve no ketsuron ({\i1}Eve's Conclusion{\i0})]
+Dialogue: 0,0:14:24.44,0:14:26.96,Default Talking Over,,0,0,0,,The singer? Aqua Timez.
+Dialogue: 0,0:14:24.94,0:14:29.68,Default,,0,0,0,,Me~ 1 years oooold!
+Dialogue: 0,0:14:24.94,0:14:29.68,bandsongname,,0,0,0,,[Chiaki with Kaba-chan - Tsuraine Akachan ({\i1}It's hard being a toddler{\i0})]
+Dialogue: 0,0:14:28.22,0:14:30.74,Default Talking Over,,0,0,0,,A 1 year old baby!
+Dialogue: 0,0:14:29.68,0:14:34.22,Default,,0,0,0,,Today, my daughter died
+Dialogue: 0,0:14:29.68,0:14:37.56,bandsongname,,0,0,0,,[Katou Tokiko - Namae mo Shranai ano hito e ({\i1}To the man who's name I don't even know{\i0})]
+Dialogue: 0,0:14:31.12,0:14:33.14,Default Talking Over,,0,0,0,,Katou Tokiko!
+Dialogue: 0,0:14:34.22,0:14:37.56,Default,,0,0,0,,she was only 2 years old.
+Dialogue: 0,0:14:37.56,0:14:38.80,Default,,0,0,0,,My father forced
+Dialogue: 0,0:14:37.56,0:14:43.52,bandsongname,,0,0,0,,[DREAMS COME TRUE - Kono Machide ({\i1}In this city){\i0}]
+Dialogue: 0,0:14:38.80,0:14:43.52,Default,,0,0,0,,the 3 year old me to put on skates.
+Dialogue: 0,0:14:39.52,0:14:40.70,Default Talking Over,,0,0,0,,Oh dream come?!
+Dialogue: 0,0:14:40.70,0:14:41.94,Default Talking Over,,0,0,0,,Dream come.
+Dialogue: 0,0:14:41.94,0:14:43.26,Default Talking Over,,0,0,0,,3 years old.
+Dialogue: 0,0:14:43.26,0:14:45.74,Default Talking Over,,0,0,0,,3 years old?
+Dialogue: 0,0:14:43.52,0:14:48.34,Default,,0,0,0,,Even though 4 years old, 27 kg.
+Dialogue: 0,0:14:43.52,0:14:48.34,bandsongname,,0,0,0,,[Hanawa - Musuko ({\i1}Son{\i0})]
+Dialogue: 0,0:14:48.34,0:14:51.94,Default,,0,0,0,,Getting punched by my beloved mummy
+Dialogue: 0,0:14:48.34,0:14:55.46,bandsongname,,0,0,0,,[Hotei Tomoyasu - {\i1}VENUS{\i0}]
+Dialogue: 0,0:14:51.94,0:14:55.46,Default,,0,0,0,,I hated the world at 5.
+Dialogue: 0,0:14:55.46,0:14:58.30,Default,,0,0,0,,Yesterday or at 6 years old,
+Dialogue: 0,0:14:55.46,0:15:01.46,bandsongname,,0,0,0,,[Hyadain - Hanpan Tamashi ({\i1}Shorts Spirit{\i0})]
+Dialogue: 0,0:14:58.30,0:15:01.46,Default,,0,0,0,,I'm the same myself.
+Dialogue: 0,0:14:58.92,0:15:00.20,Default Talking Over,,0,0,0,,Hyadain?
+Dialogue: 0,0:15:00.20,0:15:02.08,Default Talking Over,,0,0,0,,They're really finding them.
+Dialogue: 0,0:15:01.46,0:15:04.64,Default,,0,0,0,,When I was 7
+Dialogue: 0,0:15:01.46,0:15:09.46,bandsongname,,0,0,0,,[Crazy Ken Band - {\i1}Koro{\i0}]
+Dialogue: 0,0:15:04.64,0:15:07.84,Default,,0,0,0,,my mama and papa
+Dialogue: 0,0:15:07.84,0:15:09.46,Default,,0,0,0,,got divorced.
+Dialogue: 0,0:15:08.54,0:15:12.42,Default Talking Over,,0,0,0,,It's a lot of famous people.
+Dialogue: 0,0:15:09.46,0:15:14.24,Default,,0,0,0,,She was a tomboy
+Dialogue: 0,0:15:09.46,0:15:16.72,bandsongname,,0,0,0,,[Imai Miki - Shiokaze ({\i1}Sea breeze{\i0})]
+Dialogue: 0,0:15:14.24,0:15:16.72,Default,,0,0,0,,the 8 year old me.
+Dialogue: 0,0:15:16.20,0:15:18.06,Default Talking Over,,0,0,0,,Wow!
+Dialogue: 0,0:15:16.72,0:15:19.18,Default,,0,0,0,,A young boy of 9
+Dialogue: 0,0:15:16.72,0:15:22.24,bandsongname,,0,0,0,,[Crazy Ken Band - Tatsu no Otoshigo ({\i1}Seahorse{\i0})]
+Dialogue: 0,0:15:18.22,0:15:20.54,Default Talking Over,,0,0,0,,What the- It's the second time for Crazy Ken Band.
+Dialogue: 0,0:15:19.18,0:15:22.24,Default,,0,0,0,,is staring at me.
+Dialogue: 0,0:15:22.24,0:15:25.46,Default,,0,0,0,,Masao and Sachiko are both 10 year old!
+Dialogue: 0,0:15:22.24,0:15:25.46,bandsongname,,0,0,0,,[ORANGE RANGE - {\i1}Anniversary song 10th{\i0}]
+Dialogue: 0,0:15:25.46,0:15:27.52,Default,,0,0,0,,Looks a bit like Jesus
+Dialogue: 0,0:15:25.46,0:15:29.56,bandsongname,,0,0,0,,[Michi - INdependeNt GiRL?]
+Dialogue: 0,0:15:25.46,0:15:27.50,Default Talking Over,,0,0,0,,Oh Orange Range!
+Dialogue: 0,0:15:27.52,0:15:29.56,Default,,0,0,0,,but inside he's 11?
+Dialogue: 0,0:15:29.56,0:15:32.70,Default,,0,0,0,,When I was 12
+Dialogue: 0,0:15:29.56,0:15:36.68,bandsongname,,0,0,0,,[Nakajima Miyuki - {\i1}Musician{\i0}]
+Dialogue: 0,0:15:30.00,0:15:31.60,Matsumoto Talking Over,,0,0,0,,12 years old.
+Dialogue: 0,0:15:31.60,0:15:33.66,Default Talking Over,,0,0,0,,This is interesting actually.
+Dialogue: 0,0:15:32.70,0:15:36.68,Default,,0,0,0,,I wanted to become a baseball player.
+Dialogue: 0,0:15:38.32,0:15:39.90,Default,,0,0,0,,Age songs count up.
+Dialogue: 0,0:15:39.90,0:15:42.76,Default,,0,0,0,,We went from 0 to 12 years old.
+Dialogue: 0,0:15:42.76,0:15:45.26,Hamada Talking Over,,0,0,0,,This is amazing.
+Dialogue: 0,0:15:43.72,0:15:45.26,Default Talking Over,,0,0,0,,Right?
+Dialogue: 0,0:15:42.76,0:15:45.68,Default,,0,0,0,,Up until now, we had no problem finding them.
+Dialogue: 0,0:15:45.68,0:15:48.42,Default,,0,0,0,,Hotei-san hated the world at 5
+Dialogue: 0,0:15:45.66,0:15:47.40,Default Talking Over,,0,0,0,,Go go!
+Dialogue: 0,0:15:48.42,0:15:50.00,Default,,0,0,0,,his wife Imai Miki
+Dialogue: 0,0:15:50.00,0:15:53.32,Default,,0,0,0,,was a tomboy when she was 8 years old!
+Dialogue: 0,0:15:52.80,0:15:54.90,Matsumoto Talking Over,,0,0,0,,They're going over it.
+Dialogue: 0,0:15:53.32,0:15:55.04,Default,,0,0,0,,With that, we're steadily going up!
+Dialogue: 0,0:15:55.04,0:15:56.54,Default,,0,0,0,,Next, easiest to find
+Dialogue: 0,0:15:56.54,0:16:00.10,Default,,0,0,0,,middle and high school ages, 13 through 18 years old.
+Dialogue: 0,0:15:56.54,0:15:58.86,Default Talking Over,,0,0,0,,13 to 18 next.
+Dialogue: 0,0:16:00.10,0:16:02.76,Default,,0,0,0,,Ages counting UP!
+Dialogue: 0,0:16:02.24,0:16:05.26,Default Talking Over,,0,0,0,,13 to 18.
+Dialogue: 0,0:16:04.30,0:16:08.10,Default,,0,0,0,,My daughter became 13
+Dialogue: 0,0:16:04.30,0:16:11.38,bandsongname,,0,0,0,,[REBECCA - {\i1}MOON{\i0}]
+Dialogue: 0,0:16:05.94,0:16:08.70,Default Talking Over,,0,0,0,,This is pretty famous, Rebecca.
+Dialogue: 0,0:16:08.10,0:16:11.38,Default,,0,0,0,,she got a taste for stealing.
+Dialogue: 0,0:16:10.46,0:16:13.18,Hamada Talking Over,,0,0,0,,There's a heck ton of negative lyrics.
+Dialogue: 0,0:16:11.38,0:16:13.74,Default,,0,0,0,,I'll definitely
+Dialogue: 0,0:16:11.38,0:16:16.74,bandsongname,,0,0,0,,[The High-Lows - Juu Yon Sai ({\i1}14 years old{\i0})]
+Dialogue: 0,0:16:13.74,0:16:16.74,Default,,0,0,0,,make you 14 years old.
+Dialogue: 0,0:16:16.74,0:16:22.62,Default,,0,0,0,,I'm trembling without knowing, the night of 15.
+Dialogue: 0,0:16:16.74,0:16:22.62,bandsongname,,0,0,0,,[Ozaki Yutaka - Juu Go no Yoru ({\i1}The Night of 15{\i0})]
+Dialogue: 0,0:16:18.60,0:16:22.80,Matsumoto Talking Over,,0,0,0,,These ones... we get these ones you know?
+Dialogue: 0,0:16:21.58,0:16:22.80,Default Talking Over,,0,0,0,,Right?
+Dialogue: 0,0:16:22.80,0:16:24.40,Default Talking Over,,0,0,0,,Like th- aah!
+Dialogue: 0,0:16:24.40,0:16:26.10,Default Talking Over,,0,0,0,,This is really famous.
+Dialogue: 0,0:16:26.10,0:16:27.76,Matsumoto Talking Over,,0,0,0,,It was her acting era.
+Dialogue: 0,0:16:27.76,0:16:29.66,Hamada Talking Over,,0,0,0,,This I know.
+Dialogue: 0,0:16:22.62,0:16:29.92,Default,,0,0,0,,Since Iyo is still 16.
+Dialogue: 0,0:16:22.62,0:16:29.92,bandsongname,,0,0,0,,[Matsumoto Iyo - {\i1}Sentimental Journey{\i0}]
+Dialogue: 0,0:16:29.92,0:16:33.20,Default,,0,0,0,,I'm a so-called normal 17 year-old.
+Dialogue: 0,0:16:29.92,0:16:38.28,bandsongname,,0,0,0,,[Nakamori Akina - Shoujo A ({\i1}Young Lady A{\i0})]
+Dialogue: 0,0:16:33.20,0:16:38.28,Default,,0,0,0,,You're the one that knows nothing about women...
+Dialogue: 0,0:16:34.00,0:16:35.00,Default Talking Over,,0,0,0,,This is really well-known.
+Dialogue: 0,0:16:35.00,0:16:36.90,Default Talking Over,,0,0,0,,They actually do come up in lyrics.
+Dialogue: 0,0:16:36.90,0:16:39.40,Matsumoto Talking Over,,0,0,0,,I definitely know these.
+Dialogue: 0,0:16:38.28,0:16:45.56,Default,,0,0,0,,The 18 year old me, always a coward, jumped out.
+Dialogue: 0,0:16:38.28,0:16:45.56,bandsongname,,0,0,0,,[Nagabuchi Tsuyoshi - Rokuna monjanee ({\i1}It ain't funny stuff{\i0})]
+Dialogue: 0,0:16:42.86,0:16:46.66,Matsumoto Talking Over,,0,0,0,,I mean, you can find a lot of others for this one.
+Dialogue: 0,0:16:46.66,0:16:48.56,Default Talking Over,,0,0,0,,This is fun.
+Dialogue: 0,0:16:47.24,0:16:49.62,Default,,0,0,0,,That was up until age 18!
+Dialogue: 0,0:16:49.18,0:16:52.10,Hamada Talking Over,,0,0,0,,These ages are, you know...
+Dialogue: 0,0:16:49.62,0:16:50.90,Default,,0,0,0,,As expected from the teens
+Dialogue: 0,0:16:50.90,0:16:53.50,Default,,0,0,0,,there were a lot of famous songs.
+Dialogue: 0,0:16:53.50,0:16:56.74,Default,,0,0,0,,There were actually a lot of songs
+Dialogue: 0,0:16:56.38,0:16:57.66,Default Talking Over,,0,0,0,,That many?!
+Dialogue: 0,0:16:56.74,0:16:58.76,Default,,0,0,0,,starting from 15.
+Dialogue: 0,0:16:57.66,0:16:59.64,Default Talking Over,,0,0,0,,That's a lot of them.
+Dialogue: 0,0:16:58.76,0:16:59.40,Default,,0,0,0,,By the way,
+Dialogue: 0,0:16:59.40,0:17:02.94,Default,,0,0,0,,the song that Downtown sang as "Geisha Girls"
+Dialogue: 0,0:17:02.94,0:17:05.38,Default,,0,0,0,,had 17 in it.
+Dialogue: 0,0:17:04.64,0:17:06.90,Default Talking Over,,0,0,0,,You're in it!
+Dialogue: 0,0:17:05.38,0:17:11.14,Default,,0,0,0,,It would've been good to stay 17.
+Dialogue: 0,0:17:05.38,0:17:11.14,bandsongname,,0,0,0,,[Geisha Girls - {\i1}Shounen{\i0}]
+Dialogue: 0,0:17:10.20,0:17:12.80,Default,,0,0,0,,You're singing it!
+Dialogue: 0,0:17:12.80,0:17:15.14,Default,,0,0,0,,You ranked in the list!
+Dialogue: 0,0:17:15.18,0:17:18.88,Default,,0,0,0,,Next, let's look at 19 and the twenties!
+Dialogue: 0,0:17:18.88,0:17:19.86,Default,,0,0,0,,With that,
+Dialogue: 0,0:17:19.86,0:17:22.62,Default,,0,0,0,,Ages counting UP!
+Dialogue: 0,0:17:23.57,0:17:29.62,Default,,0,0,0,,SWEET, SWEET 19 BLUES.
+Dialogue: 0,0:17:23.57,0:17:35.62,bandsongname,,0,0,0,,[Amuro Namie - {\i0}Sweet 19 blues{\i1}]
+Dialogue: 0,0:17:26.74,0:17:28.88,Default Talking Over,,0,0,0,,Another famous one.
+Dialogue: 0,0:17:28.08,0:17:28.88,Hamada Talking Over,,0,0,0,,Right?
+Dialogue: 0,0:17:29.62,0:17:35.62,Default,,0,0,0,,They merely pass by but still become a part of me.
+Dialogue: 0,0:17:35.62,0:17:40.42,Default,,0,0,0,,20 years old! 20 years old! 20 years old! 20 years old!
+Dialogue: 0,0:17:35.62,0:17:45.16,bandsongname,,0,0,0,,[Kyary Pamyu Pamyu - {\i0}Furisodation{\i1}]
+Dialogue: 0,0:17:38.12,0:17:40.42,Default Talking Over,,0,0,0,,She really says that a bunch of times in this song.
+Dialogue: 0,0:17:40.42,0:17:45.16,Default,,0,0,0,,Me Me 20 years old furisodation.
+Dialogue: 0,0:17:41.48,0:17:45.16,Default Talking Over,,0,0,0,,Rhyming me with twenty is really lame.
+Dialogue: 0,0:17:45.66,0:17:51.18,Default,,0,0,0,,On my 21st birthday, was alone with you.
+Dialogue: 0,0:17:45.66,0:17:51.18,bandsongname,,0,0,0,,[B'z - {\i1}Safety Love{\i0}]
+Dialogue: 0,0:17:51.18,0:17:56.64,Default,,0,0,0,,A little bit when you become 22.
+Dialogue: 0,0:17:51.18,0:17:56.64,bandsongname,,0,0,0,,[Tanimura Shinji - 22 sai ({\i1}22 years old{\i0})]
+Dialogue: 0,0:17:53.88,0:17:56.64,Default Talking Over,,0,0,0,,That's literally a song called 22 years old.
+Dialogue: 0,0:17:54.68,0:17:56.64,Default Talking Over,,0,0,0,,22 years old?
+Dialogue: 0,0:17:56.64,0:18:00.90,Default,,0,0,0,,Probably 23, but it's this light out.
+Dialogue: 0,0:17:56.64,0:18:00.90,bandsongname,,0,0,0,,[Okamura Yasuyuki - Katei Kyoushi ({\i1}Tutor{\i0})]
+Dialogue: 0,0:17:58.96,0:18:00.46,Default Talking Over,,0,0,0,,Aah~ there it is!
+Dialogue: 0,0:18:00.46,0:18:02.52,Hamada Talking Over,,0,0,0,,Is it ok if it's "probably"?
+Dialogue: 0,0:18:00.90,0:18:03.82,Default,,0,0,0,,Hey hey Sasaki's 24 right?
+Dialogue: 0,0:18:00.90,0:18:03.82,bandsongname,,0,0,0,,[EAST END X YURI - {\i1}DA.YO.NE{\i0}]
+Dialogue: 0,0:18:03.82,0:18:09.46,Default,,0,0,0,,My 25 year-old body smelling of soap and summer approaches.
+Dialogue: 0,0:18:03.82,0:18:09.46,bandsongname,,0,0,0,,[Daijiman Brothers Band - Shitamachi My Favorite Sister ({\i1}Downtown My Favorite Sister{\i0}]
+Dialogue: 0,0:18:10.38,0:18:12.52,Default,,0,0,0,,2004/11/22 (woo)
+Dialogue: 0,0:18:10.38,0:18:15.30,bandsongname,,0,0,0,,[Ging Nang Boyz - Nantonaku Bokutachiwa Otonaninarunda ({\i1}We'll eventually become adults{\i0})]
+Dialogue: 0,0:18:10.72,0:18:13.26,Default Talking Over,,0,0,0,,Oh Ging Nang Boyz.
+Dialogue: 0,0:18:12.52,0:18:15.30,Default,,0,0,0,,Chin Nakamura's 26th birthday.
+Dialogue: 0,0:18:15.30,0:18:18.62,Default,,0,0,0,,He is aiming to become a novel writer in the future
+Dialogue: 0,0:18:15.30,0:18:21.88,bandsongname,,0,0,0,,[Lindberg - Motto Ai Shimashou ({\i1}Let's love more{\i0})]
+Dialogue: 0,0:18:15.52,0:18:17.82,Default Talking Over,,0,0,0,,Wasn't that just talking?
+Dialogue: 0,0:18:18.62,0:18:21.88,Default,,0,0,0,,the 27 year old editor.
+Dialogue: 0,0:18:20.28,0:18:22.44,Default Talking Over,,0,0,0,,Woo~ Lindberg.
+Dialogue: 0,0:18:21.88,0:18:24.72,Default,,0,0,0,,OK We are URUFURUZU
+Dialogue: 0,0:18:21.88,0:18:27.52,bandsongname,,0,0,0,,[Urufuruzu - Komason No.1 ({\i1}Advertising Jingle No.1{\i0})]
+Dialogue: 0,0:18:24.72,0:18:27.52,Default,,0,0,0,,a group of pure Japanese people with an average age of 28!
+Dialogue: 0,0:18:26.66,0:18:29.08,Hamada Talking Over,,0,0,0,,It's the average!
+Dialogue: 0,0:18:27.52,0:18:32.68,Default,,0,0,0,,Just sitting for a long time, self-named deskman, a 29 year old man, of course doesn't have a girlfriend, yeah.
+Dialogue: 0,0:18:27.52,0:18:32.68,bandsongname,,0,0,0,,[Gesu no Kiwami Otome - Tsutomeru Riaru ({\i1}Real Work{\i0})]
+Dialogue: 0,0:18:34.00,0:18:36.56,Default,,0,0,0,,That was up to 29 years old!
+Dialogue: 0,0:18:36.56,0:18:37.74,Default,,0,0,0,,By the way, 20 years old
+Dialogue: 0,0:18:37.74,0:18:41.90,Default,,0,0,0,,was used in 290 songs!
+Dialogue: 0,0:18:39.46,0:18:41.52,Default Talking Over,,0,0,0,,290?!
+Dialogue: 0,0:18:41.90,0:18:44.06,Default,,0,0,0,,New and old, from a lot of different faces.
+Dialogue: 0,0:18:43.96,0:18:46.52,Default Talking Over,,0,0,0,,After this point, it'll be rough.
+Dialogue: 0,0:18:46.52,0:18:50.04,Default Talking Over,,0,0,0,,Right? It seems tough.
+Dialogue: 0,0:18:44.06,0:18:46.12,Default,,0,0,0,,As expected, the milestone age
+Dialogue: 0,0:18:46.12,0:18:49.28,Default,,0,0,0,,becomes a theme regardless of the era.
+Dialogue: 0,0:18:49.28,0:18:53.12,Default,,0,0,0,,Next, we'll have the 30s and 40s together.
+Dialogue: 0,0:18:51.66,0:18:54.40,Hamada Talking Over,,0,0,0,,This gonna be a bit harder...
+Dialogue: 0,0:18:53.12,0:18:55.94,Default,,0,0,0,,Ages counting UP!
+Dialogue: 0,0:18:54.32,0:18:56.92,Default Talking Over,,0,0,0,,If we can get past this...
+Dialogue: 0,0:18:57.08,0:19:00.96,Default,,0,0,0,,Since I'm already 30.
+Dialogue: 0,0:18:57.08,0:19:00.96,bandsongname,,0,0,0,,[Okuda Tamio - {\i1}Coffee{\i0}]
+Dialogue: 0,0:19:00.96,0:19:06.18,Default,,0,0,0,,Breaking, the 31 year old with unchanged emotions since getting a shock in the first year of middle school.
+Dialogue: 0,0:19:06.18,0:19:09.70,Default,,0,0,0,,Yuuji is 32 this year, he left a wife in Yamanashi for Tokyo.
+Dialogue: 0,0:19:06.18,0:19:09.70,bandsongname,,0,0,0,,[Kobukuro - Boys on the run]
+Dialogue: 0,0:19:07.70,0:19:09.54,Default Talking Over,,0,0,0,,Really?
+Dialogue: 0,0:19:09.70,0:19:13.60,Default,,0,0,0,,33, glory days.
+Dialogue: 0,0:19:09.70,0:19:13.60,bandsongname,,0,0,0,,[Kururi - {\i1}glory days{\i0}]
+Dialogue: 0,0:19:13.86,0:19:17.60,Default,,0,0,0,,Mine's 34 years old.
+Dialogue: 0,0:19:13.86,0:19:17.60,bandsongname,,0,0,0,,[HiGE - Sayonara Fender ({\i1}Goodbye Fender{\i0})]
+Dialogue: 0,0:19:17.60,0:19:21.56,Default,,0,0,0,,I became 35 and your...
+Dialogue: 0,0:19:17.60,0:19:21.56,bandsongname,,0,0,0,,[Gagaga SP - Modoranai Natsu ({\i1}Unreturning Summer{\i0})]
+Dialogue: 0,0:19:20.74,0:19:22.50,Default Talking Over,,0,0,0,,There are some...
+Dialogue: 0,0:19:21.56,0:19:24.44,Default,,0,0,0,,Rock sister.
+Dialogue: 0,0:19:21.56,0:19:30.22,bandsongname,,0,0,0,,[Moriaki Chisato - Wakasa no hiketsu ({\i1}Youth's secret{\i0})]
+Dialogue: 0,0:19:24.44,0:19:27.62,Default,,0,0,0,,How old are you now?
+Dialogue: 0,0:19:27.62,0:19:30.22,Default,,0,0,0,,36.
+Dialogue: 0,0:19:30.22,0:19:35.74,Default,,0,0,0,,The 37 year old me.
+Dialogue: 0,0:19:30.22,0:19:35.74,bandsongname,,0,0,0,,[Elephant Kashimashi - Kakusei(Omae ni itta) ({\i1}Awakening(I told you{\i0})]
+Dialogue: 0,0:19:30.28,0:19:31.64,Hamada Talking Over,,0,0,0,,This'll just say it.
+Dialogue: 0,0:19:31.64,0:19:33.00,Default Talking Over,,0,0,0,,Exactly.
+Dialogue: 0,0:19:35.74,0:19:42.14,Default,,0,0,0,,This year I'm 38.
+Dialogue: 0,0:19:35.74,0:19:42.14,bandsongname,,0,0,0,,[NO PLAN - Tamashokunin ({\i1}Jade Craftsman{\i0})]
+Dialogue: 0,0:19:42.14,0:19:46.44,Default,,0,0,0,,The lonely birthday 39.
+Dialogue: 0,0:19:42.14,0:19:46.44,bandsongname,,0,0,0,,[Nakamura Ayumi - {\i1}Birthday 39{\i0}]
+Dialogue: 0,0:19:44.82,0:19:47.40,Default Talking Over,,0,0,0,,It is just "Birthday 39" right?
+Dialogue: 0,0:19:46.44,0:19:55.36,bandsongname,,0,0,0,,[Magokoro Brothers - Aitsu ga yumesho kara yattekuru ({\i1}He comes from the dreamland{\i0})]
+Dialogue: 0,0:19:51.16,0:19:55.36,Default,,0,0,0,,I thought of life at 40.
+Dialogue: 0,0:19:55.36,0:19:57.86,Default,,0,0,0,,We're a cool and carefree duo
+Dialogue: 0,0:19:55.36,0:20:00.38,bandsongname,,0,0,0,,[Denki groove x Suchadarapa - {\i1}Na.No.Da{\i0}]
+Dialogue: 0,0:19:57.86,0:20:00.38,Default,,0,0,0,,41 years old still fresh.
+Dialogue: 0,0:19:59.61,0:20:01.01,Default Talking Over,,0,0,0,,Good, isn't it?
+Dialogue: 0,0:20:01.01,0:20:07.22,Default,,0,0,0,,Men's 42nd is, Men's 42nd is an unlucky year.
+Dialogue: 0,0:20:01.01,0:20:07.22,bandsongname,,0,0,0,,[Yamada Minoru and Top Gorgeous (Kome Kome CLUB) - Yome Tsunami ({\i1}Wife Tsunami{\i0})]
+Dialogue: 0,0:20:02.71,0:20:03.86,Default Talking Over,,0,0,0,,Amazing.
+Dialogue: 0,0:20:08.12,0:20:09.87,Default,,0,0,0,,Akashiya Sanma
+Dialogue: 0,0:20:08.12,0:20:12.08,bandsongname,,0,0,0,,[Sanma Akashiya and George Tokoro - Akashiya Sanma-san ni Kiite Minai to ne ({\i1}Gotta Ask Sanma Akashiya{\i0})]
+Dialogue: 0,0:20:10.67,0:20:12.08,Default,,0,0,0,,43 years old.
+Dialogue: 0,0:20:12.77,0:20:14.96,Default,,0,0,0,,"Seven Samurai" was 44.
+Dialogue: 0,0:20:12.77,0:20:14.96,bandsongname,,0,0,0,,[Saitou Kazuyoshi - Itaikena Aki (Innocent Autumn) feat. Bose({\i1}Scha Dara Parr{\i0})]
+Dialogue: 0,0:20:14.96,0:20:20.34,Default,,0,0,0,,I noticed 45 years old, work-centered midlife
+Dialogue: 0,0:20:14.96,0:20:20.34,bandsongname,,0,0,0,,[Bakufu Slump - 45 Sai no Chizu ~COME BACK Seishun!~ ({\i1}45's Map ~COME BACK youth!~{\i0})]
+Dialogue: 0,0:20:17.03,0:20:18.24,Default Talking Over,,0,0,0,,Amazing, huh?
+Dialogue: 0,0:20:18.24,0:20:19.38,Hamada Talking Over,,0,0,0,,Incredible.
+Dialogue: 0,0:20:20.45,0:20:24.43,Default,,0,0,0,,Seriously? Are you in love? Host infatuated 46 year old.
+Dialogue: 0,0:20:20.45,0:20:24.43,bandsongname,,0,0,0,,[Sakurazuka Yakkun - Damemoto ~Manatsu no LOVE LAB) Kurinikku~ ({\i1}Nothing to lose ~Midsummer's LOVE LAB Clinic~{\i0})]
+Dialogue: 0,0:20:22.69,0:20:23.92,Default Talking Over,,0,0,0,,That's Yakkun.
+Dialogue: 0,0:20:24.43,0:20:30.01,Default,,0,0,0,,Changed into a blazer. 47 to 17
+Dialogue: 0,0:20:24.43,0:20:30.01,bandsongname,,0,0,0,,[Guruupu Tamashii (Group Tamashii) - {\i0}Better High School{\i1}]
+Dialogue: 0,0:20:30.01,0:20:34.83,Default,,0,0,0,,Japan's leading star is? Auntie! How old is she? 48! Let's clap out that age's number
+Dialogue: 0,0:20:30.01,0:20:34.83,bandsongname,,0,0,0,,[Shimoda Misaki - Baasudee Songu ~Anata ga Suki Dakara Iwaitai~ (Birthday Song ~Because I Like You, I Want to Celebrate~)]
+Dialogue: 0,0:20:34.83,0:20:41.08,Default,,0,0,0,,Singing 49 years old, singing 49 years old.
+Dialogue: 0,0:20:34.83,0:20:41.08,Default,,0,0,0,,[TOMOVSKY - Utau 49 Sai (Singing 49 years old)]
+Dialogue: 0,0:20:42.40,0:20:45.20,Narrator,,0,0,0,,We've already reached 49 years old!
+Dialogue: 0,0:20:45.03,0:20:46.78,Hamada Talking Over,,0,0,0,,Downtown's age is coming up.
+Dialogue: 0,0:20:45.38,0:20:47.85,Narrator,,0,0,0,,We'll keep checking until we hit 100 years old.
+Dialogue: 0,0:20:47.95,0:20:50.10,Narrator,,0,0,0,,It's steadily become trickier, huh?
+Dialogue: 0,0:20:47.84,0:20:49.43,Default Talking Over,,0,0,0,,44 only has one.
+Dialogue: 0,0:20:49.71,0:20:50.96,Default Talking Over,,0,0,0,,It's not trickier.
+Dialogue: 0,0:20:50.16,0:20:53.55,Narrator,,0,0,0,,44 years old had only one song surprisingly.
+Dialogue: 0,0:20:54.14,0:20:57.37,Narrator,,0,0,0,,Continuing the theme, here's the 50s and 60s presentation.
+Dialogue: 0,0:20:54.27,0:20:56.11,Default Talking Over,,0,0,0,,From 49.
+Dialogue: 0,0:20:55.66,0:20:56.73,Hamada Talking Over,,0,0,0,,Oh jeez.
+Dialogue: 0,0:21:14.46,0:21:18.38,Narrator,,0,0,0,,Let's continue with the second half, the 50s and 60s
+Dialogue: 0,0:21:18.38,0:21:20.59,Narrator,,0,0,0,,Ages count up!
+Dialogue: 0,0:21:19.50,0:21:21.31,Hamada Talking Over,,0,0,0,,What's there about hard ages?
+Dialogue: 0,0:21:21.31,0:21:22.72,Default Talking Over,,0,0,0,,It'll go into enka. There's enka.
+Dialogue: 0,0:21:22.51,0:21:29.67,Default,,0,0,0,,Before long I'll be 50 so
+Dialogue: 0,0:21:22.51,0:21:29.67,bandsongname,,0,0,0,,[Kaientai - Raisukaree ({\i1}Curry Rice{\i0})]
+Dialogue: 0,0:21:29.68,0:21:34.92,Default,,0,0,0,,Hahaha... On Christmas I'll become 51! Born on Christmas! That's right, that's right...
+Dialogue: 0,0:21:29.68,0:21:34.92,bandsongname,,0,0,0,,[Yoshi Ikuzou - Sono Ato no... Ojisan ({\i1}After That... Old Man{\i0})]
+Dialogue: 0,0:21:34.98,0:21:43.00,Default,,0,0,0,,Whether 8 years old or 52 years old
+Dialogue: 0,0:21:34.98,0:21:43.00,bandsongname,,0,0,0,,[Odotte Bakari no Kuni - Tassha na Yarou ({\i1}Healthy Fellow{\i0})]
+Dialogue: 0,0:21:43.94,0:21:49.26,Narrator,,0,0,0,,How unfortunate! We weren't able to find any song lyrics about 53 year olds.
+Dialogue: 0,0:21:49.26,0:21:51.16,Default,,0,0,0,,This is so sudden...
+Dialogue: 0,0:21:51.50,0:21:56.74,Narrator,,0,0,0,,The theory wasn't proven correct but let's still attempt to reach 100.
+Dialogue: 0,0:21:56.74,0:22:01.60,Narrator,,0,0,0,,Well then, let's continue until 100. Ages count up!
+Dialogue: 0,0:22:03.50,0:22:07.16,Default,,0,0,0,,The culprit is a 54 year old housewife.
+Dialogue: 0,0:22:03.50,0:22:07.16,bandsongname,,0,0,0,,[Midorikawa Shobou - OH! G MEN ({\i1}OH! G MAN{\i0})]
+Dialogue: 0,0:22:07.16,0:22:09.82,Default,,0,0,0,,55 years old (55 years old)
+Dialogue: 0,0:22:07.16,0:22:09.82,bandsongname,,0,0,0,,[Mano Erina - Kaze no Bara ~Aruite Chizu wo Tsukutta Otoko no Uta~ ({\i1}Rose of Wind ~The Song About the Guy Who Walked and Drew a Map~{\i0})]
+Dialogue: 0,0:22:09.82,0:22:12.00,Default,,0,0,0,,56 year old grandma
+Dialogue: 0,0:22:09.82,0:22:12.00,bandsongname,,0,0,0,,[Jirou Sakagami to Guriin Piisu - 9x9 no Uta ({\i1}9x9 Song{\i0})]
+Dialogue: 0,0:22:12.00,0:22:14.16,Default,,0,0,0,,Kitami Kumanosuke, tender age of 57.
+Dialogue: 0,0:22:12.00,0:22:14.16,bandsongname,,0,0,0,,[Kitami Kumanosuke - {\i1}Ho Hohoho no Hokkaido{\i0}]
+Dialogue: 0,0:22:15.18,0:22:17.26,Default,,0,0,0,,When I'm 60
+Dialogue: 0,0:22:15.18,0:22:17.26,bandsongname,,0,0,0,,[milktub - Otona Charenji ({\i1}Adult Challenge{\i0})]
+Dialogue: 0,0:22:18.48,0:22:21.98,Default,,0,0,0,,62 year old lady is
+Dialogue: 0,0:22:18.48,0:22:21.98,bandsongname,,0,0,0,,[Tanaka Yuuko - Dauntaun Merodei- ({\i1}Downtown Melody{\i0})]
+Dialogue: 0,0:22:21.98,0:22:25.28,Default,,0,0,0,,I am 63 years old
+Dialogue: 0,0:22:21.98,0:22:25.28,bandsongname,,0,0,0,,[TRA - Sebuntei-n (long version) ({\i1}Seventeen (long version){\i0})]
+Dialogue: 0,0:22:25.28,0:22:27.80,Default,,0,0,0,,64
+Dialogue: 0,0:22:25.28,0:22:27.80,bandsongname,,0,0,0,,[Inoue Yousui - Jinsei ga Nido Areba ({\i1}If I Had a Second Life{\i0})]
+Dialogue: 0,0:22:28.38,0:22:30.46,Default,,0,0,0,,Over 65 year old lady
+Dialogue: 0,0:22:28.38,0:22:30.46,bandsongname,,0,0,0,,[Kagawa Akira - Ojou-sama Runba ({\i1}Lady's Rumba{\i0})]
+Dialogue: 0,0:22:30.46,0:22:33.56,Default,,0,0,0,,66 year old father's
+Dialogue: 0,0:22:30.46,0:22:33.56,bandsongname,,0,0,0,,[Nagabuchi Tsuyoshi - Nishi Shinjuku no Oyaji no Uta ({\i1}West Shinjuku Father's Song{\i0})]
+Dialogue: 0,0:22:33.56,0:22:37.20,Default,,0,0,0,,That time, I was 67
+Dialogue: 0,0:22:33.56,0:22:37.20,bandsongname,,0,0,0,,[Chuurippu (TULIP) - 2015 Nen Sekai Ryokou ({\i1}2015 World Tour{\i0})]
+Dialogue: 0,0:22:37.20,0:22:41.78,Default,,0,0,0,,68 and yet I'm mad
+Dialogue: 0,0:22:37.20,0:22:41.78,bandsongname,,0,0,0,,[Takada Junji - Tekitou Koushinkyoku ~Itsumo Suteki de Gomennasai~ ({\i1}Proper March ~Always Wonderful Sorry~{\i0})]
+Dialogue: 0,0:22:41.78,0:22:46.62,Default,,0,0,0,,Playing with a 69 year old body
+Dialogue: 0,0:22:41.78,0:22:46.62,bandsongname,,0,0,0,,[Toro Saamon (Toro Salmon) - {\i1}Niina{\i0}]
+Dialogue: 0,0:22:46.62,0:22:50.08,Default,,0,0,0,,70 but still young
+Dialogue: 0,0:22:46.62,0:22:50.08,bandsongname,,0,0,0,,[Yonesuke - Nagaiki Ondo ({\i1}Longevity Folk Song{\i0})]
+Dialogue: 0,0:22:51.00,0:22:53.64,Default,,0,0,0,,That is 72's spring
+Dialogue: 0,0:22:51.00,0:22:53.64,bandsongname,,0,0,0,,[Toukyou Purin - Kannana no Uchigawa ({\i1}Inside Loop 7{\i0})]
+Dialogue: 0,0:22:53.66,0:22:56.06,Default,,0,0,0,,73 year old grandpa has
+Dialogue: 0,0:22:53.66,0:22:56.06,bandsongname,,0,0,0,,[Soul Camp - Kazamidori ({\i1}Weather Vane{\i0})]
+Dialogue: 0,0:22:57.08,0:23:00.22,Default,,0,0,0,,75 year old Osawa-san is
+Dialogue: 0,0:22:57.08,0:23:00.22,bandsongname,,0,0,0,,[Kaientai - Souda Byouin e Ikou ({\i1}Yeah, Let's go to the Hospital{\i0})]
+Dialogue: 0,0:23:01.16,0:23:04.60,Default,,0,0,0,,Aged 77
+Dialogue: 0,0:23:01.16,0:23:04.60,bandsongname,,0,0,0,,[Kagami Gorou - Chuushingura Horibe Yasubee ({\i1}The Treasury of Loyal Retainers: Horibe Yasubee{\i0})]
+Dialogue: 0,0:23:04.60,0:23:08.14,Default,,0,0,0,,78 year old mom is
+Dialogue: 0,0:23:04.60,0:23:08.14,bandsongname,,0,0,0,,[Kaientai - Raisukaree ({\i1}Curry Rice{\i0})]
+Dialogue: 0,0:23:09.36,0:23:11.74,Default,,0,0,0,,10 years old, 80 years old
+Dialogue: 0,0:23:09.36,0:23:11.74,bandsongname,,0,0,0,,[MOON CHILD - {\i1}Star Tours{\i0}]
+Dialogue: 0,0:23:12.66,0:23:15.94,Default,,0,0,0,,This year grandpa is 83 years old
+Dialogue: 0,0:23:12.66,0:23:15.94,bandsongname,,0,0,0,,[Miyagi Mariko - Sansan Songu ({\i1}Brilliant Song{\i0})]
+Dialogue: 0,0:23:16.94,0:23:20.56,Default,,0,0,0,,You are 87 years old but
+Dialogue: 0,0:23:16.94,0:23:20.56,bandsongname,,0,0,0,,[Hofudiran - Koisuru Toshigoro ({\i0}Falling in Love Age{\i1})]
+Dialogue: 0,0:23:20.56,0:23:24.36,Default,,0,0,0,,I am 88
+Dialogue: 0,0:23:20.56,0:23:24.36,bandsongname,,0,0,0,,[TRA - Sebuntei-n (long version) ({\i1}Seventeen (long version){\i0})]
+Dialogue: 0,0:23:25.34,0:23:29.36,Default,,0,0,0,,From a 0 year old kid to a 90 year old man.
+Dialogue: 0,0:23:25.34,0:23:29.36,bandsongname,,0,0,0,,[Kingu Gidora (King Giddra) - Mikakuninhikoubuttai Sekkinchuu (Kyuusekkin MIX) ({\i1}UFO Approaching (Fast Approach MIX){\i0})]
+Dialogue: 0,0:23:30.34,0:23:33.40,Default,,0,0,0,,92 year old grandpa
+Dialogue: 0,0:23:30.34,0:23:33.40,bandsongname,,0,0,0,,[Magokoro Brothers - 92 Sai no Ojiisan ({\i1}92 year old grandpa{\i0})]
+Dialogue: 0,0:23:33.40,0:23:39.74,Default,,0,0,0,,The Ozaki family's granny is 93. This year granny is 94!
+Dialogue: 0,0:23:33.40,0:23:39.74,bandsongname,,0,0,0,,[Marichanzu - Ozakinchi no Soba Paato 3 ({\i1}Ozaki Family's Grandma Part 3{\i0})]
+Dialogue: 0,0:23:40.82,0:23:43.58,Default,,0,0,0,,98 years old, she's
+Dialogue: 0,0:23:40.82,0:23:43.58,bandsongname,,0,0,0,,[THE PREDATORS - {\i1}Recall me{\i0}]
+Dialogue: 0,0:23:43.58,0:23:46.68,Default,,0,0,0,,Ninety-Nine until I'm 99 years old
+Dialogue: 0,0:23:43.58,0:23:46.68,bandsongname,,0,0,0,,[LIL - {\i1}99{\i0}]
+Dialogue: 0,0:23:46.68,0:23:51.20,Default,,0,0,0,,When I'm 100 years old I'll still be singing
+Dialogue: 0,0:23:46.68,0:23:51.20,bandsongname,,0,0,0,,[Morning Musume - {\i1}TOP!{\i0}]
+Dialogue: 0,0:23:52.44,0:23:56.40,Narrator,,0,0,0,,In this case, there are songs that go over 100 years old.
+Dialogue: 0,0:23:56.40,0:23:59.24,Narrator,,0,0,0,,Let's look at the ages we couldn't find.
+Dialogue: 0,0:23:59.24,0:24:01.88,Narrator,,0,0,0,,If you find examples, let us know.
+Dialogue: 0,0:24:01.88,0:24:07.14,Narrator,,0,0,0,,With that, finally, let's look at some extra songs over 100. Here they are.
+Dialogue: 0,0:24:10.32,0:24:17.20,Default,,0,0,0,,Lived until 122 years old. The world's longest living person.
+Dialogue: 0,0:24:10.32,0:24:17.20,bandsongname,,0,0,0,,[Kimaguren - {\i1}Baton{\i0}]
+Dialogue: 0,0:24:17.20,0:24:25.14,Default,,0,0,0,,You must be like 200 years old or something?
+Dialogue: 0,0:24:17.20,0:24:25.14,bandsongname,,0,0,0,,[SEKAI NO OWARI - Suno-majikkufantaji- ({\i1}Snow Magic Fantasy{\i0})]
+Dialogue: 0,0:24:25.14,0:24:29.44,Default,,0,0,0,,There, even demons get healthy, lifespan extends to 100,000 years old.
+Dialogue: 0,0:24:25.14,0:24:29.44,bandsongname,,0,0,0,,[Suiyoubi no Kanpanera (Wednesday Campanella) - Diaburo ({\i1}Diablo{\i0})]
+Dialogue: 0,0:24:29.44,0:24:33.96,Default,,0,0,0,,Today is the 300,000 years (anniversary) because it's Ultra King's (birthday).
+Dialogue: 0,0:24:29.44,0:24:33.96,bandsongname,,0,0,0,,[Rekkazan - {\i1}KING'S JUBILEE{\i0}]
+Dialogue: 0,0:24:33.96,0:24:37.34,Default,,0,0,0,,Become 1,000,000 years old
+Dialogue: 0,0:24:33.96,0:24:37.34,bandsongname,,0,0,0,,[DECO*27 - Ai Kotoba II feat. Hatsune Miku ({\i1}Love Words II feat. Hatsune Miku{\i0})]
+Dialogue: 0,0:24:37.34,0:24:46.88,Narrator,,0,0,0,,So to conclude, we were unable to make a full set from 0 years old to 100 years old. Thanks to CountdownTV for making it easy to see.
+Dialogue: 0,0:24:46.88,0:24:48.23,Narrator,,0,0,0,,Really easy to see.
+Dialogue: 0,0:24:46.88,0:24:48.23,Narrator,,0,0,0,,Super easy.
+Dialogue: 0,0:24:48.23,0:24:49.60,Hamada,,0,0,0,,It failed way early.
+Dialogue: 0,0:24:49.60,0:24:51.90,Matsumoto,,0,0,0,,From 53, you can't do it.
+Dialogue: 0,0:24:51.90,0:24:54.06,Default,,0,0,0,,That's right. From 53...
+Dialogue: 0,0:24:54.06,0:24:57.92,Matsumoto,,0,0,0,,Strangely about that, Downtown is 53 years old.
+Dialogue: 0,0:24:57.92,0:25:02.05,Hamada,,0,0,0,,We're turning 53 this year.
+Dialogue: 0,0:25:00.24,0:25:02.05,Matsumoto,,0,0,0,,This year we're 53.
+Dialogue: 0,0:25:02.06,0:25:06.40,Default,,0,0,0,,Still, it's hard to make something about that age.
+Dialogue: 0,0:25:04.82,0:25:06.40,Default,,0,0,0,,Yeah, that joke...
+Dialogue: 0,0:25:06.40,0:25:09.80,Default,,0,0,0,,When 53 buzzed *Failed*, I seriously thought I was going to have a heart attack.
+Dialogue: 0,0:25:09.80,0:25:10.46,Default,,0,0,0,,Sudden wasn't it?
+Dialogue: 0,0:25:10.46,0:25:11.60,Default,,0,0,0,,Very sudden.
+Dialogue: 0,0:25:11.60,0:25:15.00,Matsumoto,,0,0,0,,You seriously saw and heard that, right?
+Dialogue: 0,0:25:13.25,0:25:15.00,Default,,0,0,0,,Yeah. That's right.
+Dialogue: 0,0:25:15.00,0:25:15.82,Default,,0,0,0,,That was fun.
+Dialogue: 0,0:25:15.82,0:25:16.92,Default,,0,0,0,,Fun wasn't it?
+Dialogue: 0,0:25:16.92,0:25:20.68,Default,,0,0,0,,However, I have one more theory.
+Dialogue: 0,0:25:20.68,0:25:22.06,Default,,0,0,0,,Is another alright?
+Dialogue: 0,0:25:22.06,0:25:24.06,Default,,0,0,0,,This next one is definitely
+Dialogue: 0,0:25:24.06,0:25:25.32,Default,,0,0,0,,DEFINITELY
+Dialogue: 0,0:25:25.32,0:25:26.86,Default,,0,0,0,,alright I think.
+Dialogue: 0,0:25:26.86,0:25:27.88,Default,,0,0,0,,Really?
+Dialogue: 0,0:25:27.28,0:25:27.88,Default,,0,0,0,,Yes.
+Dialogue: 0,0:25:27.88,0:25:33.90,Default,,0,0,0,,This theory is in regards to making strange faces.
+Dialogue: 0,0:25:33.90,0:25:36.50,Default,,0,0,0,,You don't really like strange faces, do you Matsumoto-san?
+Dialogue: 0,0:25:36.50,0:25:41.14,Matsumoto,,0,0,0,,I really feel there isn't anything funny about them.
+Dialogue: 0,0:25:41.14,0:25:44.20,Default,,0,0,0,,But the very first thing that makes people laugh is making faces, isn't it?
+Dialogue: 0,0:25:45.14,0:25:46.28,Default,,0,0,0,,When you're born.
+Dialogue: 0,0:25:46.36,0:25:48.47,Default,,0,0,0,,But are you particularly good at strange faces?
+Dialogue: 0,0:25:47.69,0:25:48.47,Default,,0,0,0,,I can do a decent one.
+Dialogue: 0,0:25:48.47,0:25:49.92,Default,,0,0,0,,If you do it once, it's alright.
+Dialogue: 0,0:25:49.92,0:25:51.68,Default,,0,0,0,,Is it okay? Well then, Matsumoto-san's is
+Dialogue: 0,0:25:53.53,0:25:55.40,Hamada,,0,0,0,,He's laughing.
+Dialogue: 0,0:25:55.44,0:25:55.93,Default,,0,0,0,,You laughed.
+Dialogue: 0,0:25:55.93,0:25:56.76,Hamada,,0,0,0,,You're laughing.
+Dialogue: 0,0:25:56.76,0:25:57.92,Default,,0,0,0,,You laughed!
+Dialogue: 0,0:25:57.92,0:26:00.27,Matsumoto,,0,0,0,,The quality was worse than I expected.
+Dialogue: 0,0:26:00.27,0:26:02.33,Default,,0,0,0,,No, no, no. It was better wasn't it?
+Dialogue: 0,0:26:02.68,0:26:04.91,Default,,0,0,0,,You hardly changed at all.
+Dialogue: 0,0:26:02.97,0:26:04.92,Default,,0,0,0,,You're totally laughing.
+Dialogue: 0,0:26:04.91,0:26:07.72,Default,,0,0,0,,This guy... This guy loves mine. He loves my faces.
+Dialogue: 0,0:26:09.02,0:26:10.64,Default,,0,0,0,,Tomizawa is laughing ridiculously.
+Dialogue: 0,0:26:09.60,0:26:10.64,Hamada,,0,0,0,,Tomizawa was...
+Dialogue: 0,0:26:10.64,0:26:13.15,Default,,0,0,0,,For me, that face is no good.
+Dialogue: 0,0:26:14.25,0:26:16.24,Default,,0,0,0,,However, if you don't make a strange face,
+Dialogue: 0,0:26:16.24,0:26:18.59,Default,,0,0,0,,I wonder if I'd still laugh at this.
+Dialogue: 0,0:26:19.12,0:26:21.26,Default,,0,0,0,,The thing is this.
+Dialogue: 0,0:26:22.27,0:26:25.84,Default,,0,0,0,,Theory: Your parent's strange faces will definitely make you laugh.
+Dialogue: 0,0:26:26.81,0:26:28.44,Default,,0,0,0,,I don't quite understand it.
+Dialogue: 0,0:26:26.81,0:26:28.44,Default,,0,0,0,,I haven't seen it.
+Dialogue: 0,0:26:28.44,0:26:29.34,Default,,0,0,0,,That is to say,
+Dialogue: 0,0:26:29.34,0:26:30.54,Default,,0,0,0,,Can't do it huh?
+Dialogue: 0,0:26:30.54,0:26:33.10,Default,,0,0,0,,So, you'd definitely laugh!
+Dialogue: 0,0:26:33.10,0:26:35.94,Hamada,,0,0,0,,But with that plan, it'd be very sudden.
+Dialogue: 0,0:26:34.82,0:26:35.96,Default,,0,0,0,,They'd be surprised.
+Dialogue: 0,0:26:36.36,0:26:37.45,Default,,0,0,0,,That sudden possibility is...
+Dialogue: 0,0:26:37.45,0:26:39.21,Hamada,,0,0,0,,Dad, what are you doing?
+Dialogue: 0,0:26:39.21,0:26:45.62,Default,,0,0,0,,That could happen. We'll see if that shock also translates into laughter with this video. Please, take a look.
+Dialogue: 0,0:26:46.59,0:26:51.08,Narrator,,0,0,0,,Let's investigate the theory of "Your parent's strange faces will definitely make you laugh."
+Dialogue: 0,0:26:51.08,0:26:56.67,Default,,0,0,0,,This time, among pro-comedians, there are three we'll investigate.
+Dialogue: 0,0:26:57.50,0:27:02.67,Default,,0,0,0,,We've told the entertainers, it's a staring contest against the strongest as a cover story.
+Dialogue: 0,0:27:03.47,0:27:07.63,Default,,0,0,0,,They don't know that the opponent will be their parent.
+Dialogue: 0,0:27:08.84,0:27:12.60,Default,,0,0,0,,Will they really laugh at their parent's strange faces?
+Dialogue: 0,0:27:12.60,0:27:15.01,Default,,0,0,0,,To start, the first challenger is...
+Dialogue: 0,0:27:15.01,0:27:15.53,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:27:15.53,0:27:16.65,Default,,0,0,0,,Hello.
+Dialogue: 0,0:27:15.53,0:27:16.65,Default Talking Over,,0,0,0,,Oh, Wakkii-san.
+Dialogue: 0,0:27:16.91,0:27:17.72,Default Talking Over,,0,0,0,,Wakkii-san.
+Dialogue: 0,0:27:17.69,0:27:19.53,Default,,0,0,0,,Penalty's Wakkii (Wakita Yasuhito)
+Dialogue: 0,0:27:19.53,0:27:20.46,Matsumoto Talking Over,,0,0,0,,You can see his character.
+Dialogue: 0,0:27:21.42,0:27:23.66,Default,,0,0,0,,He's already published a photo-book of strange faces.
+Dialogue: 0,0:27:24.56,0:27:27.98,Default,,0,0,0,,A strange face master of the entertainment world.
+Dialogue: 0,0:27:28.70,0:27:32.90,Default,,0,0,0,,The one that will face off against Wakkii's strange faces is...
+Dialogue: 0,0:27:31.86,0:27:32.89,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:27:32.89,0:27:33.80,Default,,0,0,0,,Hello.
+Dialogue: 0,0:27:33.80,0:27:34.67,Matsumoto Talking Over,,0,0,0,,They look alike.
+Dialogue: 0,0:27:35.39,0:27:38.63,Default,,0,0,0,,Wakkii's Mother, Wataki Chizuko-san.
+Dialogue: 0,0:27:38.63,0:27:39.55,Default Talking Over,,0,0,0,,Chizuko-san.
+Dialogue: 0,0:27:40.44,0:27:42.85,Default,,0,0,0,,Do you think your son will laugh at your strange faces?
+Dialogue: 0,0:27:43.40,0:27:46.88,Default,,0,0,0,,Oh, I haven't seen my son's strange faces either so
+Dialogue: 0,0:27:47.04,0:27:49.21,Default,,0,0,0,,You haven't seen your son's strange faces?
+Dialogue: 0,0:27:49.21,0:27:50.45,Default,,0,0,0,,No.
+Dialogue: 0,0:27:50.45,0:27:51.96,Default,,0,0,0,,But often on television...
+Dialogue: 0,0:27:51.96,0:27:54.29,Default,,0,0,0,,No, I haven't seen them. Really.
+Dialogue: 0,0:27:54.29,0:27:58.59,Default,,0,0,0,,My son will almost never tell me when he appears on a show so
+Dialogue: 0,0:27:58.97,0:28:02.78,Default,,0,0,0,,I've never been told actually
+Dialogue: 0,0:28:02.78,0:28:05.63,Default,,0,0,0,,Are you confident you'll make your son laugh?
+Dialogue: 0,0:28:05.72,0:28:10.70,Default,,0,0,0,,No, less that I'll make him laugh, more the shock of it right?
+Dialogue: 0,0:28:09.42,0:28:11.35,Default Talking Over,,0,0,0,,There is that possibility.
+Dialogue: 0,0:28:10.91,0:28:12.28,Hamada Talking Over,,0,0,0,,That could happen.
+Dialogue: 0,0:28:11.35,0:28:18.44,Narrator,,0,0,0,,To begin, Wakkii, who not even in his dreams would expect his mother as his opponent, enters the stage.
+Dialogue: 0,0:28:19.77,0:28:24.51,Narrator,,0,0,0,,Will Wakkii laugh at his mother's strange faces as expected?
+Dialogue: 0,0:28:25.77,0:28:27.94,Narrator,,0,0,0,,The strongest staring contest tournament.
+Dialogue: 0,0:28:27.94,0:28:30.58,Narrator,,0,0,0,,Well then, please take off your blindfolds.
+Dialogue: 0,0:28:31.07,0:28:33.47,Matsumoto Talking Over,,0,0,0,,Moment of truth for Wakkii.
+Dialogue: 0,0:28:34.16,0:28:36.62,Default,,0,0,0,,Now, make your final preparations.
+Dialogue: 0,0:28:36.62,0:28:40.81,Default,,0,0,0,,From when this divider drops, the match will last 1 minute.
+Dialogue: 0,0:28:40.81,0:28:43.80,Default,,0,0,0,,Please only make faces.
+Dialogue: 0,0:28:42.76,0:28:43.80,Default Talking Over,,0,0,0,,Pretty good.
+Dialogue: 0,0:28:43.80,0:28:45.65,Default,,0,0,0,,Well, let's begin.
+Dialogue: 0,0:28:46.00,0:28:47.63,Default,,0,0,0,,Let's have a staring bout
+Dialogue: 0,0:28:47.63,0:28:49.16,Default,,0,0,0,,If you laugh, you are out
+Dialogue: 0,0:29:01.85,0:29:03.04,Default,,0,0,0,,Wait a minute.
+Dialogue: 0,0:29:03.04,0:29:04.06,Default Talking Over,,0,0,0,,You only have 1 minute.
+Dialogue: 0,0:29:03.78,0:29:05.09,Default,,0,0,0,,No, no, no.
+Dialogue: 0,0:29:05.09,0:29:06.11,Default,,0,0,0,,Do your best, look here!
+Dialogue: 0,0:29:05.74,0:29:06.52,Default,,0,0,0,,No, no...
+Dialogue: 0,0:29:06.18,0:29:08.56,Default,,0,0,0,,Talking is forbidden. Talking is forbidden.
+Dialogue: 0,0:29:08.30,0:29:09.21,Default Talking Over,,0,0,0,,1 minute.
+Dialogue: 0,0:29:10.49,0:29:11.63,Matsumoto Talking Over,,0,0,0,,She's really fired up.
+Dialogue: 0,0:29:18.34,0:29:20.36,Default Talking Over,,0,0,0,,Wakkii can't do it at all.
+Dialogue: 0,0:29:19.40,0:29:20.78,Default Talking Over,,0,0,0,,He's breaking.
+Dialogue: 0,0:29:20.98,0:29:22.84,Default Talking Over,,0,0,0,,Wakkii-chan do your best.
+Dialogue: 0,0:29:25.87,0:29:27.04,Default Talking Over,,0,0,0,,Come on Mom!
+Dialogue: 0,0:29:27.48,0:29:28.86,Default Talking Over,,0,0,0,,Their repertory is small.
+Dialogue: 0,0:29:29.82,0:29:31.65,Default Talking Over,,0,0,0,,The tongue comes right out.
+Dialogue: 0,0:29:33.21,0:29:36.96,Matsumoto Talking Over,,0,0,0,,This is... what are we watching.
+Dialogue: 0,0:29:35.66,0:29:36.96,Default Talking Over,,0,0,0,,What is she doing?
+Dialogue: 0,0:29:36.96,0:29:37.96,Default Talking Over,,0,0,0,,He's losing it.
+Dialogue: 0,0:29:39.92,0:29:41.96,Hamada Talking Over,,0,0,0,,Wakkii can't do it at all.
+Dialogue: 0,0:29:41.65,0:29:42.59,Matsumoto Talking Over,,0,0,0,,It's a bit...
+Dialogue: 0,0:29:42.14,0:29:43.31,Default Talking Over,,0,0,0,,That's dangerous.
+Dialogue: 0,0:29:45.51,0:29:47.46,Default Talking Over,,0,0,0,,Wakkii is difficult to...
+Dialogue: 0,0:29:46.32,0:29:47.46,Default Talking Over,,0,0,0,,Mom's wide open.
+Dialogue: 0,0:29:47.46,0:29:48.97,Default Talking Over,,0,0,0,,They're doing the same thing.
+Dialogue: 0,0:29:48.50,0:29:50.50,Default,,0,0,0,,Wait...
+Dialogue: 0,0:29:50.76,0:29:51.95,Default Talking Over,,0,0,0,,He can't hold it in.
+Dialogue: 0,0:29:51.50,0:29:53.45,Default,,0,0,0,,Mom...
+Dialogue: 0,0:29:53.45,0:29:55.86,Default,,0,0,0,,Mom...
+Dialogue: 0,0:29:51.95,0:29:53.95,Default Talking Over,,0,0,0,,It's impossible not to laugh, huh.
+Dialogue: 0,0:29:55.05,0:29:56.69,Default Talking Over,,0,0,0,,"Wait mom."
+Dialogue: 0,0:29:57.56,0:29:59.19,Default,,0,0,0,,Time's up!
+Dialogue: 0,0:29:59.19,0:30:01.08,Default,,0,0,0,,No! Really?
+Dialogue: 0,0:29:59.38,0:30:00.48,Default,,0,0,0,,Hold on!
+Dialogue: 0,0:30:01.13,0:30:03.84,Default,,0,0,0,,What the hell are you making me do?
+Dialogue: 0,0:30:03.84,0:30:07.94,Default,,0,0,0,,It went better than I expected.
+Dialogue: 0,0:30:05.72,0:30:07.94,Default,,0,0,0,,No, it's a different matter.
+Dialogue: 0,0:30:07.94,0:30:11.60,Default,,0,0,0,,The theory that you'd definitely laugh at your parent's funny face.
+Dialogue: 0,0:30:11.60,0:30:14.73,Default,,0,0,0,,We were investigating it.
+Dialogue: 0,0:30:16.62,0:30:18.33,Default,,0,0,0,,I mean...
+Dialogue: 0,0:30:18.33,0:30:21.31,Default,,0,0,0,,No way you won't laugh.
+Dialogue: 0,0:30:21.31,0:30:23.87,Default,,0,0,0,,What is this feeling?
+Dialogue: 0,0:30:23.87,0:30:24.83,Default,,0,0,0,,Me too.
+Dialogue: 0,0:30:24.83,0:30:27.20,Default,,0,0,0,,Stop it! Don't say stuff like that!
+Dialogue: 0,0:30:27.20,0:30:28.03,Default,,0,0,0,,Stop it!
+Dialogue: 0,0:30:28.03,0:30:31.84,Narrator,,0,0,0,,Next is...
+Dialogue: 0,0:30:32.40,0:30:33.08,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:30:32.03,0:30:33.08,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:30:33.08,0:30:36.75,Default,,0,0,0,,We're with Wednesday Downtown, we'll be in your care.
+Dialogue: 0,0:30:33.43,0:30:36.87,Default Talking Over,,0,0,0,,Ooji-san!
+Dialogue: 0,0:30:34.08,0:30:36.75,Default,,0,0,0,,I'll be in your care.
+Dialogue: 0,0:30:36.75,0:30:39.84,Narrator,,0,0,0,,Another person who apparently has confidence in peek-a-boo.
+Dialogue: 0,0:30:39.84,0:30:43.45,Narrator,,0,0,0,,Dainoji's Ooji Yousuke
+Dialogue: 0,0:30:43.45,0:30:47.11,Narrator,,0,0,0,,Opposing him is...
+Dialogue: 0,0:30:47.11,0:30:51.00,Narrator,,0,0,0,,Ooji's mother Kiyo-san.
+Dialogue: 0,0:30:52.40,0:30:53.72,Narrator,,0,0,0,,So will Ooji
+Dialogue: 0,0:30:56.41,0:30:59.69,Matsumoto Talking Over,,0,0,0,,They look alike.
+Dialogue: 0,0:30:53.72,0:30:57.90,Narrator,,0,0,0,,end up laughing at his mother's face?
+Dialogue: 0,0:30:57.90,0:30:59.92,Default,,0,0,0,,Let's get started.
+Dialogue: 0,0:30:59.92,0:31:05.91,Default,,0,0,0,,Let's make funny faces, if you laugh you're out, ha-ppu-ppu!
+Dialogue: 0,0:31:00.17,0:31:04.25,Default Talking Over,,0,0,0,,The mother is not really good is she...
+Dialogue: 0,0:31:12.47,0:31:17.25,Default Talking Over,,0,0,0,,Aah... This is just amazing.
+Dialogue: 0,0:31:15.68,0:31:19.24,Default Talking Over,,0,0,0,,You'd end up like that though.
+Dialogue: 0,0:31:19.24,0:31:23.09,Matsumoto Talking Over,,0,0,0,,You have to laugh at that...
+Dialogue: 0,0:31:20.97,0:31:23.92,Default,,0,0,0,,Continue the game please.
+Dialogue: 0,0:31:27.90,0:31:30.58,Matsumoto Talking Over,,0,0,0,,Go on!
+Dialogue: 0,0:31:31.84,0:31:35.55,Default Talking Over,,0,0,0,,Kiyo-san is funny though.
+Dialogue: 0,0:31:34.41,0:31:36.89,Default,,0,0,0,,Hold up a sec...
+Dialogue: 0,0:31:36.89,0:31:39.52,Default,,0,0,0,,Wait for a moment please.
+Dialogue: 0,0:31:41.92,0:31:47.26,Default Talking Over,,0,0,0,,Everyone had a similar reaction like 'What the hell are you doing here?'
+Dialogue: 0,0:31:43.31,0:31:48.13,Narrator,,0,0,0,,With that, we explain the situation.
+Dialogue: 0,0:31:48.72,0:31:51.68,Default,,0,0,0,,You'd laugh for sure!
+Dialogue: 0,0:31:51.68,0:31:53.44,Default,,0,0,0,,You'd laugh, also...
+Dialogue: 0,0:31:53.44,0:31:56.27,Default,,0,0,0,,before you laugh there's a surprise that comes.
+Dialogue: 0,0:31:56.27,0:31:58.91,Default,,0,0,0,,This feeling is almost making me sick.
+Dialogue: 0,0:31:58.91,0:32:01.78,Default,,0,0,0,,And now, the last mother is...
+Dialogue: 0,0:32:01.78,0:32:04.84,Default,,0,0,0,,I'll be in your care.
+Dialogue: 0,0:32:04.84,0:32:06.34,Default,,0,0,0,,Whose mother are you?
+Dialogue: 0,0:32:06.34,0:32:10.77,Default,,0,0,0,,Yes, I'm Kojima Yoshio's mother.
+Dialogue: 0,0:32:09.88,0:32:13.87,Default Talking Over,,0,0,0,,They came all the way from Kumejima (Okinawa).
+Dialogue: 0,0:32:10.77,0:32:13.64,Default,,0,0,0,,I'll be in your care
+Dialogue: 0,0:32:13.64,0:32:15.20,Narrator,,0,0,0,,Now, will Kojima
+Dialogue: 0,0:32:15.20,0:32:20.36,Narrator,,0,0,0,,end up laughing at his mother's weird face?
+Dialogue: 0,0:32:20.36,0:32:22.66,Default,,0,0,0,,With that, let's begin.
+Dialogue: 0,0:32:22.66,0:32:28.50,Default,,0,0,0,,Let's make funny faces, if you laugh you're out, ha-ppu-ppu!
+Dialogue: 0,0:32:40.70,0:32:43.77,Default Talking Over,,0,0,0,,Saliva is coming out.
+Dialogue: 0,0:32:47.64,0:32:50.87,Default Talking Over,,0,0,0,,He's keeping it up!
+Dialogue: 0,0:32:49.25,0:32:52.75,Default Talking Over,,0,0,0,,No reaction whatsoever.
+Dialogue: 0,0:32:50.84,0:32:54.49,Hamada Talking Over,,0,0,0,,Right? He didn't get surprised.
+Dialogue: 0,0:32:54.14,0:32:57.22,Default Talking Over,,0,0,0,,It's a real battle!
+Dialogue: 0,0:32:58.32,0:33:01.99,Default Talking Over,,0,0,0,,No reaction from either one?
+Dialogue: 0,0:33:05.02,0:33:06.94,Narrator,,0,0,0,,Even before considering her being the mother,
+Dialogue: 0,0:33:06.94,0:33:11.05,Narrator,,0,0,0,,she's just good at the game.
+Dialogue: 0,0:33:12.52,0:33:15.88,Matsumoto Talking Over,,0,0,0,,He's frickin' amazing.
+Dialogue: 0,0:33:17.44,0:33:20.92,Default Talking Over,,0,0,0,,Aah he's torturing himself.
+Dialogue: 0,0:33:24.91,0:33:28.13,Hamada Talking Over,,0,0,0,,They're serious!
+Dialogue: 0,0:33:27.21,0:33:31.62,Default Talking Over,,0,0,0,,They're like 'I have to keep it up!'
+Dialogue: 0,0:33:29.40,0:33:32.88,Default Talking Over,,0,0,0,,The mother isn't giving up!
+Dialogue: 0,0:33:43.35,0:33:46.67,Default Talking Over,,0,0,0,,The mother is something!
+Dialogue: 0,0:33:45.57,0:33:48.49,Default,,0,0,0,,Time's up!
+Dialogue: 0,0:33:48.49,0:33:51.98,Default,,0,0,0,,That's just foul play!
+Dialogue: 0,0:33:53.77,0:33:56.78,Hamada Talking Over,,0,0,0,,She's still doing it.
+Dialogue: 0,0:33:54.27,0:33:57.73,Default,,0,0,0,,Theory that you'd definitely laugh at a parent's funny face.
+Dialogue: 0,0:33:57.73,0:34:00.31,Default,,0,0,0,,Haaah-
+Dialogue: 0,0:34:01.75,0:34:04.57,Default,,0,0,0,,What an amazing theory.
+Dialogue: 0,0:34:04.57,0:34:06.40,Default,,0,0,0,,How was it? Your mother's funny faces?
+Dialogue: 0,0:34:06.40,0:34:09.11,Default,,0,0,0,,No, really...
+Dialogue: 0,0:34:09.11,0:34:12.16,Default,,0,0,0,,It was incredibly funny.
+Dialogue: 0,0:34:12.16,0:34:17.41,Narrator,,0,0,0,,With that, you'd for sure laugh at your parent's silly faces.
+Dialogue: 0,0:34:17.41,0:34:19.28,Default,,0,0,0,,Well well well well well...
+Dialogue: 0,0:34:19.28,0:34:21.45,Default,,0,0,0,,It's perfect.
+Dialogue: 0,0:34:19.99,0:34:21.45,Default,,0,0,0,,This was...
+Dialogue: 0,0:34:21.45,0:34:23.72,Matsumoto,,0,0,0,,But for Kojima there was no surprise at all.
+Dialogue: 0,0:34:23.72,0:34:26.52,Default,,0,0,0,,He's actually surprised but trying to control it.
+Dialogue: 0,0:34:26.52,0:34:28.41,Default,,0,0,0,,A lot of saliva came out like BHAAN.
+Dialogue: 0,0:34:28.41,0:34:32.27,Default,,0,0,0,,His body is actually reacting, but
+Dialogue: 0,0:34:32.27,0:34:35.08,Default,,0,0,0,,he's pushing it down really hard.
+Dialogue: 0,0:34:35.08,0:34:39.06,Default,,0,0,0,,Wow, it's incredible that you can comment from that angle.
+Dialogue: 0,0:34:39.06,0:34:41.10,Default,,0,0,0,,As expected (from a psychiatrist).
+Dialogue: 0,0:34:40.04,0:34:41.10,Default,,0,0,0,,A psychiatrist.
+Dialogue: 0,0:34:41.10,0:34:44.48,Default,,0,0,0,,Amazing.
+Dialogue: 0,0:34:44.48,0:34:48.45,Hamada,,0,0,0,,Next we have this presenter, please enter!
+Dialogue: 0,0:34:53.25,0:34:54.22,Default,,0,0,0,,Hello!
+Dialogue: 0,0:34:54.22,0:34:58.07,Hamada,,0,0,0,,Peace's Ayabe!
+Dialogue: 0,0:34:56.29,0:34:58.07,Default,,0,0,0,,I'll be in your care.
+Dialogue: 0,0:34:58.07,0:34:59.35,Matsumoto,,0,0,0,,It's the free...
+Dialogue: 0,0:34:59.35,0:35:02.41,Matsumoto,,0,0,0,,The free one (from the combi).
+Dialogue: 0,0:35:00.21,0:35:02.41,Default,,0,0,0,,I'm not the free one, no.
+Dialogue: 0,0:35:02.41,0:35:03.83,Default,,0,0,0,,I do lots of work.
+Dialogue: 0,0:35:03.83,0:35:05.50,Hamada,,0,0,0,,From your knowledge, he's the freer one of the two?
+Dialogue: 0,0:35:05.50,0:35:07.09,Matsumoto,,0,0,0,,He's like the free one, or maybe
+Dialogue: 0,0:35:07.09,0:35:09.40,Matsumoto,,0,0,0,,the cheap one.
+Dialogue: 0,0:35:09.40,0:35:13.69,Default,,0,0,0,,The sensei (his partner) is busy yes, but I'm also doing my best.
+Dialogue: 0,0:35:13.69,0:35:15.78,Default,,0,0,0,,First off, please the two from Sandwichman,
+Dialogue: 0,0:35:15.78,0:35:18.01,Default,,0,0,0,,how much do you weigh approximately?
+Dialogue: 0,0:35:18.01,0:35:19.45,Default,,0,0,0,,Weight?
+Dialogue: 0,0:35:18.50,0:35:19.45,Default,,0,0,0,,Yes, you two.
+Dialogue: 0,0:35:19.45,0:35:21.53,Default,,0,0,0,,I'm 90 kg.
+Dialogue: 0,0:35:20.19,0:35:21.53,Default,,0,0,0,,90 kg?
+Dialogue: 0,0:35:21.53,0:35:23.01,Default,,0,0,0,,I'm also about the same.
+Dialogue: 0,0:35:23.01,0:35:24.47,Default,,0,0,0,,And now you're about forty-
+Dialogue: 0,0:35:24.47,0:35:25.87,Default,,0,0,0,,42 years old.
+Dialogue: 0,0:35:25.06,0:35:25.87,Default,,0,0,0,,two right?
+Dialogue: 0,0:35:25.87,0:35:29.90,Default,,0,0,0,,But, you'd expect to go down in weight as you get to your fifties or sixties
+Dialogue: 0,0:35:29.90,0:35:32.05,Default,,0,0,0,,as you get older, correct?
+Dialogue: 0,0:35:32.05,0:35:35.49,Default,,0,0,0,,Considering that, the theory that I've brought today is this one.
+Dialogue: 0,0:35:35.49,0:35:40.33,Hamada,,0,0,0,,Theory: There is no one over 70 years old and over 100 kg.
+Dialogue: 0,0:35:40.33,0:35:42.40,Default,,0,0,0,,How about it everyone? Have you seen one?
+Dialogue: 0,0:35:42.40,0:35:43.74,Default,,0,0,0,,Yeah, right?
+Dialogue: 0,0:35:43.74,0:35:45.55,Default,,0,0,0,,I haven't really looked closely.
+Dialogue: 0,0:35:45.55,0:35:47.62,Default,,0,0,0,,Just try to imagine one for a second, over 70
+Dialogue: 0,0:35:47.62,0:35:50.43,Default,,0,0,0,,if they were in their fifties or sixties
+Dialogue: 0,0:35:50.43,0:35:53.02,Default,,0,0,0,,you'd find some.
+Dialogue: 0,0:35:52.20,0:35:53.02,Matsumoto,,0,0,0,,Yes.
+Dialogue: 0,0:35:53.02,0:35:58.52,Default,,0,0,0,,Over 70, a grandpa or grandma over 100 kg.
+Dialogue: 0,0:35:58.52,0:36:02.49,Default,,0,0,0,,Even Sumo wrestlers go down in weight.
+Dialogue: 0,0:35:59.82,0:36:02.49,Default,,0,0,0,,If you think about it a bit...
+Dialogue: 0,0:36:02.49,0:36:04.89,Matsumoto,,0,0,0,,Sumo wrestlers right?
+Dialogue: 0,0:36:03.36,0:36:04.89,Default,,0,0,0,,Yes, even for them.
+Dialogue: 0,0:36:05.87,0:36:06.99,Matsumoto,,0,0,0,,Sumo wrestlers right?
+Dialogue: 0,0:36:06.99,0:36:08.17,Default,,0,0,0,,Excuse me for a moment.
+Dialogue: 0,0:36:08.17,0:36:09.96,Hamada,,0,0,0,,There aren't really that many pigs in there.
+Dialogue: 0,0:36:09.96,0:36:10.67,Matsumoto,,0,0,0,,Sumo wrest-
+Dialogue: 0,0:36:10.67,0:36:13.05,Default,,0,0,0,,How many times are you gonna say that?
+Dialogue: 0,0:36:13.05,0:36:16.53,Default,,0,0,0,,Asking only about sumo wrestlers, I have nothing to do with sumo.
+Dialogue: 0,0:36:16.53,0:36:17.52,Hamada,,0,0,0,,You do have something to do!
+Dialogue: 0,0:36:17.52,0:36:19.95,Default,,0,0,0,,Are you really going to get that mad?
+Dialogue: 0,0:36:19.95,0:36:23.79,Default,,0,0,0,,Am I getting scolded that much from that side?
+Dialogue: 0,0:36:23.79,0:36:29.42,Narrator,,0,0,0,,We're investigating the theory that there aren't any elderly in their 70's over 100 kg.
+Dialogue: 0,0:36:29.42,0:36:32.98,Narrator,,0,0,0,,With that, we immediately go to Sugamo
+Dialogue: 0,0:36:32.98,0:36:35.86,Narrator,,0,0,0,,the classic spot for elderly interviews.
+Dialogue: 0,0:36:35.86,0:36:37.31,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:36:37.31,0:36:41.12,Default,,0,0,0,,We're with TBS, from a program called Wednesday Downtown.
+Dialogue: 0,0:36:41.12,0:36:44.74,Narrator,,0,0,0,,The first person that we spoke to was this man.
+Dialogue: 0,0:36:44.74,0:36:46.66,Default,,0,0,0,,Could we weigh you if you wouldn't mind?
+Dialogue: 0,0:36:46.66,0:36:50.09,Default,,0,0,0,,Uh huh, okay.
+Dialogue: 0,0:36:50.09,0:36:54.70,Narrator,,0,0,0,,131.3 kg
+Dialogue: 0,0:36:52.24,0:36:56.82,Default Talking Over,,0,0,0,,But is he in his 70's? It's the age that matters here.
+Dialogue: 0,0:36:54.70,0:36:58.22,Narrator,,0,0,0,,First off, he easily passed over the 100 kg goal.
+Dialogue: 0,0:36:58.22,0:37:00.58,Default,,0,0,0,,How old are you?
+Dialogue: 0,0:36:59.08,0:37:00.58,Default,,0,0,0,,Sixty.
+Dialogue: 0,0:37:02.48,0:37:06.17,Narrator,,0,0,0,,He wasn't in his seventies.
+Dialogue: 0,0:37:06.17,0:37:09.92,Narrator,,0,0,0,,Next, we have this man.
+Dialogue: 0,0:37:09.92,0:37:12.77,Narrator,,0,0,0,,When we weigh him...
+Dialogue: 0,0:37:12.77,0:37:15.58,Default,,0,0,0,,111.7 kg
+Dialogue: 0,0:37:15.58,0:37:19.33,Narrator,,0,0,0,,However...
+Dialogue: 0,0:37:16.39,0:37:19.33,Default,,0,0,0,,I'm 53.
+Dialogue: 0,0:37:19.33,0:37:23.92,Narrator,,0,0,0,,Somehow, he was the same age as Downtown.
+Dialogue: 0,0:37:23.92,0:37:28.16,Default,,0,0,0,,Same age?
+Dialogue: 0,0:37:28.16,0:37:31.36,Narrator,,0,0,0,,We continue with the search but...
+Dialogue: 0,0:37:31.36,0:37:34.99,Default,,0,0,0,,Huh, it's 79 kg, it's lower than before.
+Dialogue: 0,0:37:34.30,0:37:38.03,Default Talking Over,,0,0,0,,The weight goes down with age.
+Dialogue: 0,0:37:36.22,0:37:37.34,Default,,0,0,0,,70 kg
+Dialogue: 0,0:37:37.34,0:37:40.70,Default,,0,0,0,,Is it okay for you to say?
+Dialogue: 0,0:37:40.70,0:37:45.71,Narrator,,0,0,0,,We couldn't find anyone over 100 kg and 70 years of age.
+Dialogue: 0,0:37:45.71,0:37:49.47,Narrator,,0,0,0,,Next, we gave more attention to weight first.
+Dialogue: 0,0:37:49.47,0:37:51.70,Narrator,,0,0,0,,We went to this shop
+Dialogue: 0,0:37:51.70,0:37:55.78,Narrator,,0,0,0,,specializing on bigger sized clothes.
+Dialogue: 0,0:37:50.95,0:37:52.64,Hamada Talking Over,,0,0,0,,Oh, I see.
+Dialogue: 0,0:37:52.64,0:37:56.10,Hamada Talking Over,,0,0,0,,Going to a place like this.
+Dialogue: 0,0:37:53.56,0:37:58.81,Default Talking Over,,0,0,0,,Yes, since they have bigger people as clients
+Dialogue: 0,0:37:55.78,0:37:56.50,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:37:56.50,0:37:58.85,Default,,0,0,0,,We're with a TV program called Wednesday Downtown.
+Dialogue: 0,0:37:58.85,0:38:01.76,Default,,0,0,0,,I started working, and gained about 20 kg.
+Dialogue: 0,0:38:01.76,0:38:04.57,Default,,0,0,0,,110 kg in freshman year, 120 in sophomore.
+Dialogue: 0,0:38:04.57,0:38:08.81,Default,,0,0,0,,About 83 kg, it goes up and down though.
+Dialogue: 0,0:38:08.81,0:38:10.93,Default,,0,0,0,,We have a scale with us,
+Dialogue: 0,0:38:10.93,0:38:13.39,Default,,0,0,0,,could you please get on it?
+Dialogue: 0,0:38:11.77,0:38:13.39,Default,,0,0,0,,Ah- it's okay.
+Dialogue: 0,0:38:13.39,0:38:16.08,Default,,0,0,0,,It became 88.7 kg.
+Dialogue: 0,0:38:16.08,0:38:18.52,Narrator,,0,0,0,,A bigger number than she expected,
+Dialogue: 0,0:38:18.52,0:38:22.27,Narrator,,0,0,0,,and a bigger toe too.
+Dialogue: 0,0:38:22.27,0:38:26.62,Narrator,,0,0,0,,We couldn't find what we are looking for.
+Dialogue: 0,0:38:26.62,0:38:31.16,Narrator,,0,0,0,,The staff went around Sugamo and Sakazen thoroughly, but
+Dialogue: 0,0:38:31.83,0:38:34.50,Narrator,,0,0,0,,they went to a place known for longevity of life and high metabolic rate
+Dialogue: 0,0:38:34.50,0:38:38.56,Narrator,,0,0,0,,Okinawa.
+Dialogue: 0,0:38:38.56,0:38:43.90,Narrator,,0,0,0,,After going around various towns looking for a potential person...
+Dialogue: 0,0:38:43.90,0:38:47.79,Default,,0,0,0,,There's a deputy called Maekawa Tsuyoshi that might be what you are looking for.
+Dialogue: 0,0:38:47.79,0:38:50.89,Default,,0,0,0,,His age is over 70.
+Dialogue: 0,0:38:50.17,0:38:53.85,Matsumoto Talking Over,,0,0,0,,Oh the age is sure.
+Dialogue: 0,0:38:50.89,0:38:55.60,Default,,0,0,0,,I probably think that he is over 100 kg.
+Dialogue: 0,0:38:55.60,0:39:00.30,Narrator,,0,0,0,,With that, we went to Izena Village.
+Dialogue: 0,0:38:59.12,0:39:03.22,Default Talking Over,,0,0,0,,They really went far away.
+Dialogue: 0,0:39:00.30,0:39:02.53,Default,,0,0,0,,Good day.
+Dialogue: 0,0:39:01.02,0:39:02.53,Default,,0,0,0,,Hello.
+Dialogue: 0,0:39:02.53,0:39:05.08,Default,,0,0,0,,Good day.
+Dialogue: 0,0:39:03.25,0:39:05.08,Default,,0,0,0,,Hello.
+Dialogue: 0,0:39:06.08,0:39:12.62,Narrator,,0,0,0,,This is Maekawa Tsuyoshi, the chief deputy for the town of Izena.
+Dialogue: 0,0:39:12.62,0:39:16.79,Default,,0,0,0,,I gain about 2~3 kg every year.
+Dialogue: 0,0:39:16.79,0:39:22.19,Narrator,,0,0,0,,Maekawa-san's weight was...
+Dialogue: 0,0:39:23.69,0:39:26.82,Narrator,,0,0,0,,92.6 kg
+Dialogue: 0,0:39:26.82,0:39:31.40,Narrator,,0,0,0,,Unfortunately, we were a single step away from 100 kg.
+Dialogue: 0,0:39:31.40,0:39:32.88,Narrator,,0,0,0,,Then...
+Dialogue: 0,0:39:32.88,0:39:35.12,Default,,0,0,0,,Yes, hello.
+Dialogue: 0,0:39:35.55,0:39:39.72,Default Talking Over,,0,0,0,,He's pretty big.
+Dialogue: 0,0:39:36.27,0:39:40.39,Narrator,,0,0,0,,How about this man that suddenly appeared?
+Dialogue: 0,0:39:43.07,0:39:45.97,Narrator,,0,0,0,,He is 115.2 kg.
+Dialogue: 0,0:39:45.97,0:39:47.04,Narrator,,0,0,0,,But...
+Dialogue: 0,0:39:47.04,0:39:48.73,Default,,0,0,0,,I'm 62 years old.
+Dialogue: 0,0:39:48.73,0:39:50.69,Default,,0,0,0,,62 years old?
+Dialogue: 0,0:39:50.69,0:39:57.07,Narrator,,0,0,0,,Also, this man we met with the help of a local gym.
+Dialogue: 0,0:39:59.80,0:40:01.35,Default,,0,0,0,,I am 65 this year.
+Dialogue: 0,0:40:01.35,0:40:02.86,Narrator,,0,0,0,,Furthermore
+Dialogue: 0,0:40:02.86,0:40:04.51,Default,,0,0,0,,75, this year.
+Dialogue: 0,0:40:04.51,0:40:07.20,Default,,0,0,0,,Entering the latter-stage elderly.
+Dialogue: 0,0:40:07.20,0:40:12.77,Narrator,,0,0,0,,We reliably thought he would be over 100 kg based on the net image of his.
+Dialogue: 0,0:40:13.68,0:40:17.13,Narrator,,0,0,0,,He fell short of the goal just by a little 3 kg.
+Dialogue: 0,0:40:17.13,0:40:19.59,Narrator,,0,0,0,,In the midst of it...
+Dialogue: 0,0:40:19.59,0:40:23.16,Narrator,,0,0,0,,We received a powerful tip that there is someone.
+Dialogue: 0,0:40:23.16,0:40:29.03,Narrator,,0,0,0,,We heard from the butcher that there is a 70 elderly over 100 kg.
+Dialogue: 0,0:40:29.03,0:40:33.41,Narrator,,0,0,0,,By the way, the owner is 123.8 kg.
+Dialogue: 0,0:40:33.41,0:40:34.65,Narrator,,0,0,0,,And
+Dialogue: 0,0:40:34.65,0:40:37.49,Default,,0,0,0,,There is someone who fits what you are looking for.
+Dialogue: 0,0:40:35.41,0:40:37.49,Default,,0,0,0,,Who is it?
+Dialogue: 0,0:40:37.49,0:40:39.59,Default,,0,0,0,,Over 70 right?
+Dialogue: 0,0:40:38.53,0:40:39.59,Default,,0,0,0,,What type of person are they?
+Dialogue: 0,0:40:39.59,0:40:40.86,Default,,0,0,0,,Aguni-san.
+Dialogue: 0,0:40:40.86,0:40:41.76,Default,,0,0,0,,Aguni-san?
+Dialogue: 0,0:40:41.76,0:40:44.20,Default,,0,0,0,,Aguni-san. They run a soba shop.
+Dialogue: 0,0:40:44.20,0:40:46.49,Default,,0,0,0,,Located around this shopping district?
+Dialogue: 0,0:40:45.13,0:40:46.49,Default,,0,0,0,,Yeah, within this area.
+Dialogue: 0,0:40:46.49,0:40:49.53,Default,,0,0,0,,You will lead us there?
+Dialogue: 0,0:40:47.32,0:40:49.53,Narrator,,0,0,0,,Therefore
+Dialogue: 0,0:40:49.53,0:40:53.27,Narrator,,0,0,0,,Ryuukyuu's Okazu Club \N(Comedy duo) unexpectedly guides us.
+Dialogue: 0,0:40:53.26,0:40:54.76,Narrator,,0,0,0,,We head towards the soba shop.
+Dialogue: 0,0:40:54.76,0:40:56.66,Narrator,,0,0,0,,She does resemble Yui-P.
+Dialogue: 0,0:40:58.06,0:41:00.93,Default,,0,0,0,,Welcome.\NHi.
+Dialogue: 0,0:41:00.93,0:41:03.32,Default,,0,0,0,,Hi.
+Dialogue: 0,0:41:01.70,0:41:03.32,Default,,0,0,0,,This is Aguni-san.
+Dialogue: 0,0:41:03.32,0:41:07.14,Narrator,,0,0,0,,This is the rumored Aguni Nobumitsu-san.
+Dialogue: 0,0:41:07.14,0:41:09.77,Default,,0,0,0,,Aguni-san, how old are you right now?
+Dialogue: 0,0:41:09.77,0:41:13.81,Default,,0,0,0,,In August, I will be turning 73.
+Dialogue: 0,0:41:13.81,0:41:15.64,Narrator,,0,0,0,,Right now, aged 72.
+Dialogue: 0,0:41:15.64,0:41:19.15,Narrator,,0,0,0,,Firstly, he has cleared the age requirement.
+Dialogue: 0,0:41:19.15,0:41:21.04,Default,,0,0,0,,By the way, how much do you weigh right now?
+Dialogue: 0,0:41:21.04,0:41:23.51,Default,,0,0,0,,Without measuring, I'm not clear myself.
+Dialogue: 0,0:41:23.51,0:41:27.62,Narrator,,0,0,0,,Will his weight really be over 100 kg?
+Dialogue: 0,0:41:27.62,0:41:29.84,Default,,0,0,0,,Is it okay?
+Dialogue: 0,0:41:33.52,0:41:35.93,Default,,0,0,0,,95.1 kg
+Dialogue: 0,0:41:35.93,0:41:39.52,Narrator,,0,0,0,,Close but he fell short by 5 kg.
+Dialogue: 0,0:41:39.52,0:41:42.12,Default,,0,0,0,,Just a month ago,he was well above 100 kg
+Dialogue: 0,0:41:42.12,0:41:43.50,Default,,0,0,0,,Is that true?
+Dialogue: 0,0:41:42.76,0:41:43.50,Default,,0,0,0,,Yes, it is true.
+Dialogue: 0,0:41:43.50,0:41:45.45,Default,,0,0,0,,Right now, he is going through a diet.
+Dialogue: 0,0:41:45.45,0:41:48.41,Default,,0,0,0,,I was about 103 kg.
+Dialogue: 0,0:41:48.41,0:41:52.93,Narrator,,0,0,0,,Unbelievably, he was 103 kg just a month ago.
+Dialogue: 0,0:41:52.93,0:41:55.00,Default,,0,0,0,,He's slowly reverting back right now.
+Dialogue: 0,0:41:55.00,0:41:59.56,Default,,0,0,0,,My weight was due to my drinking.
+Dialogue: 0,0:41:59.56,0:42:02.35,Narrator,,0,0,0,,Now that he is no longer restricting himself from alcohol,
+Dialogue: 0,0:42:02.35,0:42:05.18,Narrator,,0,0,0,,he is happily drunk and rebounding back.
+Dialogue: 0,0:42:05.18,0:42:09.46,Narrator,,0,0,0,,In this case, we came just a tad too late.
+Dialogue: 0,0:42:09.46,0:42:14.91,Narrator,,0,0,0,,Indeed, do all our findings lead to the conclusion that there are no elderly which are 70 over and 100 kg?
+Dialogue: 0,0:42:14.91,0:42:19.23,Narrator,,0,0,0,,We spread our nets even further, enlisting the help of amateurs and professionals in our endeavour.
+Dialogue: 0,0:42:19.23,0:42:23.08,Narrator,,0,0,0,,When we looked upon ex-sumos...
+Dialogue: 0,0:42:23.08,0:42:25.91,Narrator,,0,0,0,,ex-yokozuna (Grand Champion) Wajima Hiroshi (Winner of 54th)
+Dialogue: 0,0:42:25.91,0:42:29.96,Narrator,,0,0,0,,Right now aged 68, weighing in at 85 kg.
+Dialogue: 0,0:42:29.96,0:42:35.36,Narrator,,0,0,0,,He clearly dropped quite a bit of weight compared to when he was active in the sumo scene.\NFrom 132 kg to his current 85 kg.
+Dialogue: 0,0:42:35.36,0:42:38.70,Narrator,,0,0,0,,Furthering our research...
+Dialogue: 0,0:42:38.70,0:42:43.68,Narrator,,0,0,0,,it was very hard to get a hold of any ex-sumos above the age of 70.
+Dialogue: 0,0:42:43.68,0:42:46.64,Narrator,,0,0,0,,And when we look upon on why, we realize.
+Dialogue: 0,0:42:46.64,0:42:49.99,Narrator,,0,0,0,,Looking at the results of yokozuna from the Meiji period onwards,
+Dialogue: 0,0:42:49.99,0:42:56.44,Narrator,,0,0,0,,those that are in their 60's and living are 22 out of 47.
+Dialogue: 0,0:42:56.44,0:43:01.79,Narrator,,0,0,0,,More than half have passed away before reaching their 60th.
+Dialogue: 0,0:43:01.79,0:43:05.93,Narrator,,0,0,0,,Moreover, within them those that lived to see their 70th,
+Dialogue: 0,0:43:05.93,0:43:08.84,Narrator,,0,0,0,,just 7 out of 47.
+Dialogue: 0,0:43:08.84,0:43:11.56,Narrator,,0,0,0,,The possibility of a yokozuna living to see his 70th:
+Dialogue: 0,0:43:11.56,0:43:16.20,Narrator,,0,0,0,,16%
+Dialogue: 0,0:43:16.20,0:43:20.09,Narrator,,0,0,0,,What about ex-wrestlers?
+Dialogue: 0,0:43:20.09,0:43:25.44,Narrator,,0,0,0,,First up, renowned for his husky voice, Tenryuugen Ichiro.
+Dialogue: 0,0:43:25.44,0:43:30.40,Narrator,,0,0,0,,His weight is above 100 kg but his age hasn't reached 70.
+Dialogue: 0,0:43:30.40,0:43:33.94,Narrator,,0,0,0,,Following that we have, Killer-Khan.
+Dialogue: 0,0:43:33.94,0:43:39.06,Narrator,,0,0,0,,Here too, meeting the weight requirement but not yet 70.
+Dialogue: 0,0:43:39.06,0:43:43.97,Narrator,,0,0,0,,Again, we see a similar pattern with Choshu Riki.
+Dialogue: 0,0:43:43.97,0:43:48.87,Narrator,,0,0,0,,In the case of Fujiwara Yoshiaki too, 67 and 98 kg.
+Dialogue: 0,0:43:48.87,0:43:53.97,Narrator,,0,0,0,,Finally, the most elderly active wrestler Great Kojika too.
+Dialogue: 0,0:43:53.97,0:43:58.73,Narrator,,0,0,0,,At age 74, his weight almost making to the 100 kg mark but not there yet.
+Dialogue: 0,0:43:58.73,0:44:04.07,Narrator,,0,0,0,,But within all that, we found someone who might fulfill our criteria.
+Dialogue: 0,0:44:04.07,0:44:06.16,Narrator,,0,0,0,,And he is...
+Dialogue: 0,0:44:06.16,0:44:11.07,Narrator,,0,0,0,,Sakaguchi Seiji (Wild Eagle of the World)
+Dialogue: 0,0:44:11.07,0:44:12.62,Narrator,,0,0,0,,With that being the case,
+Dialogue: 0,0:44:12.62,0:44:18.27,Narrator,,0,0,0,,We quickly head to Shin Nihon pro wrestling dojo where Sakaguchi awaits.
+Dialogue: 0,0:44:19.46,0:44:22.24,Default,,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:44:22.24,0:44:29.10,Narrator,,0,0,0,,This is Sakaguchi Seiji (AKA Big Saka) right now aged 74.
+Dialogue: 0,0:44:29.10,0:44:31.07,Narrator,,0,0,0,,Even at present over the age of 74,
+Dialogue: 0,0:44:31.07,0:44:35.16,Narrator,,0,0,0,,he definitely will train at least 3 times a week.
+Dialogue: 0,0:44:35.16,0:44:37.52,Default,,0,0,0,,How tall are you?
+Dialogue: 0,0:44:37.52,0:44:39.80,Default,,0,0,0,,*Husky Noises*
+Dialogue: 0,0:44:39.80,0:44:43.24,Default,,0,0,0,,Could you repeat that once more please?
+Dialogue: 0,0:44:43.24,0:44:45.93,Narrator,,0,0,0,,He too is no slouch in the husky voice department.
+Dialogue: 0,0:44:45.93,0:44:48.49,Narrator,,0,0,0,,He seems promising.
+Dialogue: 0,0:44:48.49,0:44:51.41,Default,,0,0,0,,Could you repeat that again?
+Dialogue: 0,0:44:49.28,0:44:51.41,Default,,0,0,0,,194 cm.
+Dialogue: 0,0:44:51.41,0:44:52.94,Default,,0,0,0,,194 cm?
+Dialogue: 0,0:44:52.94,0:44:54.72,Default,,0,0,0,,Did you shorten by a bit?*
+Dialogue: 0,0:44:52.94,0:44:58.84,Default,,0,0,0,,{\fscx61\fscy80\pos(262,53.333)\4c&H000000&\4a&HFF&}*Note: 196 cm during his career.
+Dialogue: 0,0:44:54.72,0:44:58.86,Default,,0,0,0,,*Husky Noises*\N\NWho knows? Maybe I did shrink by a bit.
+Dialogue: 0,0:44:58.86,0:45:04.44,Narrator,,0,0,0,,The fact that he is over 70 and 190 cm makes him a rare grandpa to find.
+Dialogue: 0,0:45:04.44,0:45:07.95,Narrator,,0,0,0,,In the end...
+Dialogue: 0,0:45:24.48,0:45:29.78,Narrator,,0,0,0,,Ex-wrestler Sakaguchi Seiji at 74.
+Dialogue: 0,0:45:29.78,0:45:34.48,Narrator,,0,0,0,,What will his weight be?
+Dialogue: 0,0:45:32.65,0:45:35.99,Default Talking Over,,0,0,0,,He doesn't cross 100, does he?
+Dialogue: 0,0:45:37.02,0:45:40.25,Narrator,,0,0,0,,Unexpectedly, he weighs in at 121.9 kg.
+Dialogue: 0,0:45:40.25,0:45:43.08,Narrator,,0,0,0,,Such a person does exist.
+Dialogue: 0,0:45:43.08,0:45:45.36,Default,,0,0,0,,These numbers.
+Dialogue: 0,0:45:45.36,0:45:48.34,Default,,0,0,0,,I have stuck with this weight for quite a few years.
+Dialogue: 0,0:45:48.34,0:45:52.98,Narrator,,0,0,0,,Aged 74, Height at 194 cm, Weight at 121.9 kg.
+Dialogue: 0,0:45:52.98,0:45:57.55,Narrator,,0,0,0,,Such a monster elderly does exist.
+Dialogue: 0,0:45:57.55,0:46:00.15,Narrator,,0,0,0,,On the other hand...
+Dialogue: 0,0:46:00.15,0:46:03.18,Default,,0,0,0,,By this year April, just go over the 100 kg in weight?
+Dialogue: 0,0:46:03.18,0:46:07.81,Narrator,,0,0,0,,It has been 10 months since the recording.
+Dialogue: 0,0:46:07.81,0:46:14.28,Narrator,,0,0,0,,We entered in May and now we came back to check upon the rebounder.
+Dialogue: 0,0:46:14.28,0:46:15.77,Default,,0,0,0,,It has been a very long time.
+Dialogue: 0,0:46:15.77,0:46:17.29,Default,,0,0,0,,Ossu.
+Dialogue: 0,0:46:17.29,0:46:18.32,Default,,0,0,0,,Since then, what's changed?
+Dialogue: 0,0:46:18.32,0:46:21.45,Default,,0,0,0,,Drinking, Drinking, Drinking a bunch.
+Dialogue: 0,0:46:21.45,0:46:23.00,Default,,0,0,0,,It seems likely that you have reached over 100 kg.
+Dialogue: 0,0:46:23.00,0:46:24.43,Default,,0,0,0,,Are you stupid, idiot?
+Dialogue: 0,0:46:24.43,0:46:25.97,Default,,0,0,0,,There's no way I weigh over 100 kg.
+Dialogue: 0,0:46:25.97,0:46:27.97,Default,,0,0,0,,Why don't we just check?
+Dialogue: 0,0:46:27.97,0:46:32.06,Narrator,,0,0,0,,Does he really weigh over 100 kg?
+Dialogue: 0,0:46:35.89,0:46:39.10,Narrator,,0,0,0,,101.4 kg
+Dialogue: 0,0:46:39.10,0:46:41.78,Default,,0,0,0,,It seems I have returned to my previous form.
+Dialogue: 0,0:46:44.39,0:46:47.05,Narrator,,0,0,0,,With that said, take note to all the elderly:
+Dialogue: 0,0:46:47.05,0:46:50.17,Narrator,,0,0,0,,Please take good care of your body.
+Dialogue: 0,0:46:50.17,0:46:52.12,Hamada,,0,0,0,,Look, people like that clearly exist.
+Dialogue: 0,0:46:52.12,0:46:55.02,Default,,0,0,0,,Are you sure, I mean just even for Sakaguchi-san (Ex-Wrestler).
+Dialogue: 0,0:46:55.02,0:46:57.75,Default,,0,0,0,,He was still doing muscle training after all.
+Dialogue: 0,0:46:57.75,0:47:00.70,Default,,0,0,0,,He is the rare oddity in this case.
+Dialogue: 0,0:47:00.70,0:47:04.34,Matsumoto,,0,0,0,,However, Ageni-san was just happily sipping away.
+Dialogue: 0,0:47:04.34,0:47:08.17,Default,,0,0,0,,{\4c&H191979&\4a&HFF&\fscx70\fscy85\pos(238,58.666)}*Note: Jocky = Beer mug
+Dialogue: 0,0:47:04.34,0:47:08.17,Matsumoto,,0,0,0,,He was wearing shoes and carrying the Jocky*
+Dialogue: 0,0:47:08.17,0:47:10.01,Default,,0,0,0,,He definitely would have left his mug behind.
+Dialogue: 0,0:47:10.01,0:47:13.45,Matsumoto,,0,0,0,,Did he leave his mug behind?
+Dialogue: 0,0:47:10.68,0:47:13.45,Default,,0,0,0,,I think even he would.
+Dialogue: 0,0:47:15.14,0:47:15.81,Narrator,,0,0,0,,In the next episode...
+Dialogue: 0,0:47:15.81,0:47:19.75,Narrator,,0,0,0,,Theory: If magicians were to attempt stealing, even anti-shoplifting guards won't be able to stop them.
+Dialogue: 0,0:47:19.75,0:47:22.47,Narrator,,0,0,0,,Magician vs G-man Showdown
+Dialogue: 0,0:47:24.02,0:47:27.81,Narrator,,0,0,0,,Furthermore, mixed rule match between wanko soba and Reversi.
+Dialogue: 0,0:47:31.72,0:47:35.13,Narrator,,0,0,0,,In the 10 times quiz you'll definitely fall for it for the first time!
+Dialogue: 0,0:47:35.51,0:47:39.90,Narrator,,0,0,0,,Theory: People will definitely throw up once they realize it was not barley tea but it was mentsuyu (noodle soup base).
+Dialogue: 0,0:47:13.58,0:47:39.90,Default,,0,0,0,,{\pos(720,911)\bord0\shad0\1c&H000000&\p1\alpha65}m 0 0  l 1800 0  1800 158  0 158
+Dialogue: 0,0:47:13.58,0:47:39.90,Narrator,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&H000000&\3a&H5A&\c&HFFFFFF&\fscx58\fscy80\pos(720,878)}Check out our Facebook and Website for more Wednesday Downtown! This video was subbed by a community run project called the Wednesday Downtown project. Thanks for watching!
+

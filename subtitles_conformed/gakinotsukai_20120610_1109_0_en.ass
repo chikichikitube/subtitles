@@ -1,0 +1,862 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1104
+PlayResY: 622
+
+[Aegisub Project Garbage]
+Last Style Storage: NEW2
+Audio File: Gaki No Tsukai #1109 (2012.06.10) - Tanaka's Breakdown 2.mp4
+Video File: Gaki No Tsukai #1109 (2012.06.10) - Tanaka's Breakdown 2.mp4
+Video AR Mode: 4
+Video AR Value: 1.776527
+Video Zoom Percent: 0.500000
+Video Position: 414
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Hamada,Arial,35,&H00F61718,&H000000FF,&H00FFFFFF,&H00F61718,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Matsumoto,Arial,35,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Endo,Arial,35,&H000372E3,&H000000FF,&H00FFFFFF,&H000372E3,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Tanaka,Arial,35,&H00C014BF,&H000000FF,&H00FFFFFF,&H00C014BF,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Hosei,Arial,35,&H001EBB1B,&H000000FF,&H00FFFFFF,&H001EBB1B,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Inomoto,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Fujiwara,Arial,35,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Impact,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+Style: Credits,Arial,35,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,7,8,8,6,1
+Style: Up,Arial,17,&H00F61718,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,99.8392,100,0,0,1,1.72778,1.72778,7,58,0,143,1
+Style: Narrator,Arial,35,&H0054FFF1,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,99.8392,100,0,0,1,1.72778,1.72778,2,8,8,6,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:28.10,0:00:29.10,Hosei,,0,0,0,,shakure
+Dialogue: 0,0:00:00.38,0:00:04.12,Default,,0,0,0,,{\fs43.194\fade(250,0)\c&H2BFDFF&\pos(553.227,519.255)}Gaki no Tsukai's backstage
+Dialogue: 0,0:00:01.14,0:00:03.73,Default,,0,0,0,,We're here before the filming of a Gaki episode
+Dialogue: 0,0:00:04.22,0:00:09.89,Impact,,0,0,0,,{\fade(250,250)\fs40.315\bord2.304\pos(545.867,408.907)\c&H1B9601&\3c&HFFFFFF&}Downtown
+Dialogue: 0,0:00:04.22,0:00:09.89,Impact,,0,0,0,,{\fade(250,250)\fs40.315\bord2.304\4c&HFFDC03&\pos(372.217,467.652)}Hamada Masatoshi
+Dialogue: 0,0:00:04.22,0:00:09.89,Impact,,0,0,0,,{\fade(250,250)\fs40.315\bord2.304\4c&HFFDC03&\pos(721.05,468.804)}Matsumoto Hitoshi
+Dialogue: 0,0:00:04.22,0:00:09.89,Impact,,0,0,0,,{\fade(250,250)\c&H1D55E6&\3c&HFFFFFF&\fs27.644\bord1.728\pos(558.9,552.889)}Hamada strained his left leg during the filming of another show
+Dialogue: 0,0:00:04.80,0:00:06.22,Matsumoto,,0,0,0,,This guy strained his leg
+Dialogue: 0,0:00:06.22,0:00:08.16,Endo,,0,0,0,,Yeah, it surprised me
+Dialogue: 0,0:00:08.16,0:00:11.86,Matsumoto,,0,0,0,,He's almost 50 now, this ain't the right time to do that
+Dialogue: 0,0:00:11.86,0:00:15.43,Hosei,,0,0,0,,Maybe he wanted to go through that experience
+Dialogue: 0,0:00:15.50,0:00:18.27,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\4c&HB830FE&\pos(338.867,517.181)}Yamazaki Hosei
+Dialogue: 0,0:00:15.50,0:00:18.27,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\c&H1B9601&\3c&HFFFFFF&\pos(734.467,461.893)}Cocorico
+Dialogue: 0,0:00:15.50,0:00:18.27,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\4c&H0788FF&\pos(801.55,520.637)}Endo Shozo
+Dialogue: 0,0:00:15.43,0:00:19.30,Hosei,,0,0,0,,He's been fine all these years
+Dialogue: 0,0:00:16.52,0:00:19.30,Endo,,0,0,0,,Intact for so long... and now he goes
+Dialogue: 0,0:00:19.30,0:00:23.41,Matsumoto,,0,0,0,,{\fs44.346\pos(547.63,529.621)}Now it feels like he has to sprain more than that
+Dialogue: 0,0:00:21.36,0:00:23.41,Hamada,,0,0,0,,The hell are you talking about?
+Dialogue: 0,0:00:23.50,0:00:24.79,Matsumoto,,0,0,0,,Oh?
+Dialogue: 0,0:00:23.50,0:00:24.79,Endo,,0,0,0,,Man...
+Dialogue: 0,0:00:25.38,0:00:27.44,Hamada,,0,0,0,,{\fs44.922\pos(545.56,527.087)}Where's your partner (Tanaka)?
+Dialogue: 0,0:00:27.44,0:00:29.71,Endo,,0,0,0,,{\fs50.106\pos(548.32,529.852)}I don't really know
+Dialogue: 0,0:00:28.10,0:00:29.71,Hosei,,0,0,0,,Where's jaw?
+Dialogue: 0,0:00:29.00,0:00:32.88,Matsumoto,,0,0,0,,He's not even here to say hi
+Dialogue: 0,0:00:30.16,0:00:31.58,Endo,,0,0,0,,That's odd
+Dialogue: 0,0:00:31.58,0:00:32.82,Default,,0,0,0,,'Morning
+Dialogue: 0,0:00:32.58,0:00:35.52,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\4c&H17EE3F&\pos(369.917,524.093)}Inomoto Takafumi
+Dialogue: 0,0:00:32.58,0:00:35.52,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\4c&H17EE3F&\pos(725.65,524.093)}Fujiwara Kazuhiro
+Dialogue: 0,0:00:32.58,0:00:35.52,Impact,,0,0,0,,{\fade(250,0)\fs40.315\bord2.304\c&H1B9601&\3c&HFFFFFF&\pos(555.067,463.044)}License
+Dialogue: 0,0:00:32.88,0:00:35.52,Default,,0,0,0,,Good morning folks{\rHosei}   It's License
+Dialogue: 0,0:00:35.75,0:00:41.32,Inomoto,,0,0,0,,{\fs37.435\pos(548.32,462.584)}About Tanaka... I don't think he's coming today
+Dialogue: 0,0:00:36.36,0:00:37.49,Matsumoto,,0,0,0,,Yes?
+Dialogue: 0,0:00:38.46,0:00:39.30,Matsumoto,,0,0,0,,Again?
+Dialogue: 0,0:00:39.30,0:00:41.32,Hamada,,0,0,0,,Why is he not coming?
+Dialogue: 0,0:00:39.30,0:00:41.32,Endo,,0,0,0,,He's not?
+Dialogue: 0,0:00:41.32,0:00:42.36,Hamada,,0,0,0,,What does he mean?
+Dialogue: 0,0:00:42.36,0:00:45.03,Inomoto,,0,0,0,,{\fs46.074\pos(540.96,528.009)}He says he's getting very angry lately...
+Dialogue: 0,0:00:43.86,0:00:45.03,Matsumoto,,0,0,0,,Oh, cut the crap...
+Dialogue: 0,0:00:45.03,0:00:48.40,Hosei,,0,0,0,,What's the deal with him getting angry? I don't get it
+Dialogue: 0,0:00:45.80,0:00:47.66,Endo,,0,0,0,,He's not like that
+Dialogue: 0,0:00:47.26,0:00:48.40,Hamada,,0,0,0,,{\pos(548.32,525.936)}No idea
+Dialogue: 0,0:00:48.10,0:00:57.47,Default,,0,0,0,,{\fade(250,0)\c&H000000&\3c&HFFFFFF&\fs25.341\pos(678.73,554.732)}On March{\3c&H5B41F7&\c&HFFFFFF&} Tanaka got mad at something Matsumoto said
+Dialogue: 0,0:00:48.40,0:00:50.82,Hosei,,0,0,0,,That was because of Matsumoto, right?
+Dialogue: 0,0:00:49.42,0:00:50.82,Inomoto,,0,0,0,,{\pos(540.96,526.166)}That's right
+Dialogue: 0,0:00:50.82,0:00:52.20,Matsumoto,,0,0,0,,But we're fine now
+Dialogue: 0,0:00:52.20,0:00:53.67,Matsumoto,,0,0,0,,{\pos(709.55,476.867)}We've reached a compromise
+Dialogue: 0,0:00:52.88,0:00:54.50,Hosei,,0,0,0,,{\pos(707.25,436.552)}Did you really?
+Dialogue: 0,0:00:53.67,0:00:57.47,Matsumoto,,0,0,0,,{\fs33.404\pos(708.63,475.715)}I mean, it was a 800'000 yen worth compromise
+Dialogue: 0,0:00:56.34,0:00:57.47,Hosei,,0,0,0,,{\pos(679.65,442.311)}With money?!
+Dialogue: 0,0:00:57.47,0:00:59.98,Matsumoto,,0,0,0,,No idea why he didn't ask for a million
+Dialogue: 0,0:01:00.32,0:01:02.12,Hosei,,0,0,0,,So close yet so far
+Dialogue: 0,0:01:00.32,0:01:02.12,Matsumoto,,0,0,0,,It doesn't make sense
+Dialogue: 0,0:01:02.12,0:01:07.72,Inomoto,,0,0,0,,{\fs40.315\a1\pos(148.35,458.898)}He said "I showed them how angry I can get and yet they still don't understand it"
+Dialogue: 0,0:01:07.24,0:01:09.66,Hosei,,0,0,0,,I have no idea what he's talking about
+Dialogue: 0,0:01:07.24,0:01:09.66,Hamada,,0,0,0,,What the hell?
+Dialogue: 0,0:01:09.66,0:01:13.39,Fujiwara,,0,0,0,,{\fs35.707\pos(554.76,529.852)}He also said "I'm never filming Gaki again!"
+Dialogue: 0,0:01:13.39,0:01:16.30,Hamada,,0,0,0,,He can't say that, come on
+Dialogue: 0,0:01:13.39,0:01:16.30,Endo,,0,0,0,,Oh, really?
+Dialogue: 0,0:01:16.30,0:01:19.96,Inomoto,,0,0,0,,We don't actually know what he's mad about
+Dialogue: 0,0:01:19.96,0:01:23.60,Inomoto,,0,0,0,,So we asked a staff member to go check him out
+Dialogue: 0,0:01:20.13,0:01:30.44,Default,,0,0,0,,{\fade(250,250)\c&H1338F0&\fs31.676\pos(333.5,479.861)}The reason why he's angry:
+Dialogue: 0,0:01:20.13,0:01:30.44,Default,,0,0,0,,{\fs36.859\fade(250,250)\pos(547.247,541.14)}The staff asked Tanaka Naoki about it on this VTR
+Dialogue: 0,0:01:23.60,0:01:25.20,Inomoto,,0,0,0,,Do you mind watching it?
+Dialogue: 0,0:01:26.02,0:01:28.67,Endo,,0,0,0,,What just happened?
+Dialogue: 0,0:01:25.20,0:01:27.27,Matsumoto,,0,0,0,,Oh boy...
+Dialogue: 0,0:01:27.27,0:01:30.94,Matsumoto,,0,0,0,,It's getting hard to deal with him
+Dialogue: 0,0:01:29.52,0:01:30.94,Endo,,0,0,0,,Sorry for this
+Dialogue: 0,0:01:30.94,0:01:32.36,Hosei,,0,0,0,,True, it's getting hard
+Dialogue: 0,0:01:32.36,0:01:36.98,Hamada,,0,0,0,,{\a1\pos(272.55,462.814)}Now that I think about it, that time we had his wife on our show she said he's hard to deal with
+Dialogue: 0,0:01:33.91,0:01:36.98,Default,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fs20.157\pos(150.65,597.811)}Kohinata Shie
+Dialogue: 0,0:01:36.06,0:01:37.78,Matsumoto,,0,0,0,,He's a problem child
+Dialogue: 0,0:01:37.78,0:01:38.70,Hosei,,0,0,0,,His wife said so?
+Dialogue: 0,0:01:38.35,0:01:40.85,Matsumoto,,0,0,0,,{\fs40.315\pos(550.85,527.548)}Yes, his wife said so
+Dialogue: 0,0:01:38.70,0:01:40.85,Hosei,,0,0,0,,She said he's hard to deal with?
+Dialogue: 0,0:01:41.52,0:01:46.56,Default,,0,0,0,,{\fs46.074\blur1.728\bord2.88\fade(250,250)\pos(551.54,519.255)}Heading towards Tanaka's meeting place
+Dialogue: 0,0:01:48.64,0:01:49.91,Tanaka,,0,0,0,,Hey!!
+Dialogue: 0,0:01:50.92,0:01:52.30,Tanaka,,0,0,0,,Eraser!!
+Dialogue: 0,0:01:50.92,0:01:52.30,Tanaka,,0,0,0,,{\fnArial\fs14.398\pos(552,581.685)}(nickname)
+Dialogue: 0,0:01:52.58,0:01:55.80,Matsumoto,,0,0,0,,He's shouting so much
+Dialogue: 0,0:01:54.14,0:01:55.80,Tanaka,,0,0,0,,I'm here!!
+Dialogue: 0,0:01:57.23,0:02:08.88,Credits,,0,0,0,,{\pos(136.467,2.304)}TRANSLATION BY {\c&H16D6FF&}SHION\N{\c&HFFFFFF&}TYPESET & QC BY {\c&H16D6FF&}KEDOMAS\N\N{\fs23.037\c&HFFFFFF&}VISIT {\c&H87C8FF&}SHIONNOTSUKAI.WORDPRESS.COM{\c&HFFFFFF&} FOR MORE EPISODES!\N\NHOW TO SUPPORT THIS PROJECT:\N\N- LIKE {\c&HFFA980&}FB PAGE {\c&HFFFFFF&}@{\c&HFFA980&}FB.COM/SHIONNOTSUKAI{\c&HFFFFFF&}\N- FOLLOW {\c&HEFFD9B&}@SHIONNOTSUKAI {\c&HFFFFFF&}ON {\c&HEFFD9B&}TWITTER{\c&HFFFFFF&}\N- DONATE @{\c&HFFCBEF&}KO-FI.COM/SHIONNOTSUKAI{\c&HFFFFFF&}\N- BECOME A PATRON {\c&HACACFF&}@PATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:01:57.23,0:02:02.24,Impact,,0,0,0,,{\fs46.074\fade(300,300)\c&H0FAFF5&\3c&HFFFFFF&\4c&H1434E5&\pos(556.37,559.8)}Downtown's Gaki no Tsukai ya Arahende{\i1}!!
+Dialogue: 0,0:02:03.94,0:02:08.88,Default,,0,0,0,,{\fs35.707\c&H21FDFF&}WHY IS HE ANGRY?\NIS SOMETHING STRANGE HAPPENING TO TANAKA?!
+Dialogue: 0,0:02:09.41,0:02:15.39,Default,,0,0,0,,{\bord2.88\blur1.728\fade(250,250)\pos(557.75,520.637)\c&H1336EF&\fs51.833\t(0,0,\fs57.593)}Why is Tanaka so angry?
+Dialogue: 0,0:02:10.28,0:02:12.54,Narrator,,0,0,0,,What caused Tanaka's anger?
+Dialogue: 0,0:02:12.54,0:02:14.99,Narrator,,0,0,0,,What is he angry about?
+Dialogue: 0,0:02:17.08,0:02:21.49,Narrator,,0,0,0,,We went to our meeting place feeling uneasy
+Dialogue: 0,0:02:25.22,0:02:26.53,Tanaka,,0,0,0,,Hey!!
+Dialogue: 0,0:02:27.46,0:02:28.84,Tanaka,,0,0,0,,Eraser!!
+Dialogue: 0,0:02:27.46,0:02:28.84,Tanaka,,0,0,0,,{\fnArial\fs14.398\pos(552,581.685)}(nickname)
+Dialogue: 0,0:02:29.12,0:02:31.84,Up,,0,0,0,,{\c&H1238E5&}He's shouting so much
+Dialogue: 0,0:02:30.68,0:02:32.19,Tanaka,,0,0,0,,I'm here!!
+Dialogue: 0,0:02:33.84,0:02:34.94,Up,,0,0,0,,Here he is
+Dialogue: 0,0:02:34.94,0:02:37.27,Default,,0,0,0,,{\fs46.074\pos(552.92,543.674)}staff) Good morning
+Dialogue: 0,0:02:35.52,0:02:38.84,Up,,0,0,0,,{\c&H0372E3&}There's something in his mouth
+Dialogue: 0,0:02:35.82,0:02:37.27,Tanaka,,0,0,0,,Hey!!
+Dialogue: 0,0:02:37.27,0:02:38.84,Default,,0,0,0,,'Morning
+Dialogue: 0,0:02:38.84,0:02:42.19,Narrator,,0,0,0,,We're glad no one was around
+Dialogue: 0,0:02:43.36,0:02:46.82,Narrator,,0,0,0,,Because his voice was way too loud
+Dialogue: 0,0:02:47.62,0:02:50.14,Narrator,,0,0,0,,Even his appearance left us speechless
+Dialogue: 0,0:02:50.14,0:02:51.28,Tanaka,,0,0,0,,Hey!
+Dialogue: 0,0:02:50.14,0:02:51.28,Default,,0,0,0,,Good morning
+Dialogue: 0,0:02:51.28,0:02:55.33,Narrator,,0,0,0,,We got to experience that same\Nout-of-place feeling from last time
+Dialogue: 0,0:02:55.33,0:02:56.39,Tanaka,,0,0,0,,Hey
+Dialogue: 0,0:02:56.39,0:02:58.76,Default,,0,0,0,,{\fs35.707\blur1.728}staff) What's the deal with the luggage, Tanaka?
+Dialogue: 0,0:02:59.06,0:03:02.27,Tanaka,,0,0,0,,{\pos(540.04,542.753)}I had lots of away-from-home jobs lately!
+Dialogue: 0,0:03:01.42,0:03:03.40,Up,,0,0,0,,{\c&H1238E5&}Use the right word for it!
+Dialogue: 0,0:03:02.27,0:03:07.40,Default,,0,0,0,,{\pos(554.07,494.605)}staff) So you're just carrying them around?
+Dialogue: 0,0:03:04.50,0:03:07.40,Tanaka,,0,0,0,,Yeah, lots of 'em recently...
+Dialogue: 0,0:03:05.68,0:03:07.12,Matsumoto,,0,0,0,,{\fs17.278\pos(147.2,160.107)}We have a word for that
+Dialogue: 0,0:03:07.12,0:03:08.27,Endo,,0,0,0,,{\fs17.278\pos(96.6,160.107)}What the...
+Dialogue: 0,0:03:08.27,0:03:10.20,Default,,0,0,0,,{\fs40.315\pos(555.45,498.752)}staff) Can we ask you something?
+Dialogue: 0,0:03:09.57,0:03:12.11,Tanaka,,0,0,0,,Where?
+Dialogue: 0,0:03:10.20,0:03:12.11,Default,,0,0,0,,{\fs40.315\pos(555.45,500.595)}staff) Here, come with me
+Dialogue: 0,0:03:12.56,0:03:14.21,Hosei,,0,0,0,,{\fs17.278\pos(94.3,160.107)}Creepy...
+Dialogue: 0,0:03:13.26,0:03:14.46,Default,,0,0,0,,Oh, sorry
+Dialogue: 0,0:03:14.71,0:03:19.52,Tanaka,,0,0,0,,{\pos(547.4,501.056)}What do you want?
+Dialogue: 0,0:03:15.85,0:03:17.62,Matsumoto,,0,0,0,,{\fs17.278\pos(80.5,160.107)}Rude!
+Dialogue: 0,0:03:16.05,0:03:19.52,Default,,0,0,0,,staff) We want to ask you a lot of things
+Dialogue: 0,0:03:19.94,0:03:25.12,Narrator,,0,0,0,,Is the easygoing Tanaka we see on tv just a facade...?
+Dialogue: 0,0:03:24.20,0:03:26.46,Up,,0,0,0,,Why are they showing this again?
+Dialogue: 0,0:03:25.62,0:03:28.59,Default,,0,0,0,,{\pos(558.44,542.753)}staff) Alright Tanaka, we want to hear something  from you
+Dialogue: 0,0:03:27.98,0:03:30.38,Up,,0,0,0,,{\c&H1238E5&}The weather is perfect though
+Dialogue: 0,0:03:28.82,0:03:30.38,Up,,0,0,0,,- It's great
+Dialogue: 0,0:03:30.38,0:03:31.44,Up,,0,0,0,,{\c&H1EBB1B&}This is crazy
+Dialogue: 0,0:03:31.44,0:03:33.08,Up,,0,0,0,,{\c&H1EBB1B&}That thing is huge!
+Dialogue: 0,0:03:33.96,0:03:38.44,Narrator,,0,0,0,,He ignores our questions and bites down\Na huge chicken on the bone
+Dialogue: 0,0:03:38.14,0:03:39.50,Up,,0,0,0,,Look at him go
+Dialogue: 0,0:03:39.72,0:03:40.90,Up,,0,0,0,,{\c&H0372E3&}Looks tasty...
+Dialogue: 0,0:03:40.90,0:03:42.86,Up,,0,0,0,,{\c&H1EBB1B&}It's way too large
+Dialogue: 0,0:03:42.86,0:03:45.86,Narrator,,0,0,0,,Maybe he was hungry...
+Dialogue: 0,0:03:44.74,0:03:46.56,Up,,0,0,0,,{\c&H1238E5&}He's eating so much
+Dialogue: 0,0:03:46.82,0:03:48.55,Up,,0,0,0,,{\c&H0372E3&}Not the cleanest \Nscene to look at
+Dialogue: 0,0:03:48.55,0:03:49.85,Up,,0,0,0,,{\c&H1238E5&}He ate it all!
+Dialogue: 0,0:03:48.55,0:03:53.68,Default,,0,0,0,,{\fs41.467\pos(565.8,544.596)}staff) We heard that you recently got really angry...
+Dialogue: 0,0:03:53.68,0:03:55.12,Tanaka,,0,0,0,,{\pos(542.8,543.674)}Yeah, it's 'cause of that
+Dialogue: 0,0:03:55.12,0:03:59.99,Tanaka,,0,0,0,,{\pos(549.24,543.674)}It's 'cause of Yamazaki's "Comedy Guidelines"
+Dialogue: 0,0:04:00.29,0:04:03.23,Tanaka,,0,0,0,,{\pos(547.4,546.439)}Remember the watermelon bit?
+Dialogue: 0,0:04:01.00,0:04:02.42,Default,,0,0,0,,Yes
+Dialogue: 0,0:04:03.36,0:04:06.10,Tanaka,,0,0,0,,{\pos(553.84,544.596)}I'm angry 'cause of that
+Dialogue: 0,0:04:05.38,0:04:05.96,Up,,0,0,0,,{\c&H0372E3&}Huh?
+Dialogue: 0,0:04:05.96,0:04:07.75,Up,,0,0,0,,{\c&H1EBB1B&}What is he talking about?
+Dialogue: 0,0:04:05.96,0:04:07.75,Up,,0,0,0,,{\c&H1238E5&}But he helped us
+Dialogue: 0,0:04:06.43,0:04:14.20,Impact,,0,0,0,,{\fs23.037\pos(835.667,533.307)}DID YOU MISS THIS EPISODE? IT'S SUBBED! FIND IT ON: \N{\c&H16D6FF&}SHIONNOTSUKAI.WORDPRESS.COM/2019/03/13
+Dialogue: 0,0:04:07.20,0:04:12.04,Narrator,,0,0,0,,Tanaka denounces a Yamazaki-focused episode aired before
+Dialogue: 0,0:04:10.76,0:04:14.20,Up,,0,0,0,,{\c&H1238E5&}That was all about\N Yamazaki, wasn't it?
+Dialogue: 0,0:04:13.70,0:04:21.36,Narrator,,0,0,0,,Looks like the reason was this gag in which he dropped\Na watermelon on Yamazaki's head from 10 meters...
+Dialogue: 0,0:04:14.37,0:04:23.71,Default,,0,0,0,,{\blur1.728\fs36.283\fade(250,250)\pos(475.027,461.893)}Dropping a watermelon from a 10 mts height
+Dialogue: 0,0:04:14.37,0:04:23.71,Default,,0,0,0,,{\blur1.728\fs34.556\fade(250,250)\c&H0F2AE1&\pos(553.84,520.867)}And making it fall on Yamazaki's head: here's the trigger...
+Dialogue: 0,0:04:22.56,0:04:24.30,Hamada,,0,0,0,,Nice one!
+Dialogue: 0,0:04:22.56,0:04:24.30,Up,,0,0,0,,{\c&H0372E3&}I remember this...
+Dialogue: 0,0:04:25.60,0:04:27.21,Up,,0,0,0,,Incredible...
+Dialogue: 0,0:04:26.78,0:04:33.09,Default,,0,0,0,,{\fs46.074\bord2.88\blur1.728\fade(250,250)\pos(544.487,500.825)}Tanaka's role{\c&H0886E7&} was to drop the watermelon{\r\fs44.922\bord2.88\blur1.728} on him
+Dialogue: 0,0:04:28.54,0:04:32.94,Narrator,,0,0,0,,At that moment, Tanaka's role was to drop the watermelon from above
+Dialogue: 0,0:04:33.29,0:04:38.53,Default,,0,0,0,,{\pos(565.8,501.056)\bord2.88\blur1.728\c&H1834F8&\fs51.833\t(0,0,\fs54.713)}But what did really happen here?
+Dialogue: 0,0:04:34.56,0:04:37.70,Narrator,,0,0,0,,What made him so angry?
+Dialogue: 0,0:04:37.70,0:04:39.06,Up,,0,0,0,,What happened?
+Dialogue: 0,0:04:39.06,0:04:41.33,Tanaka,,0,0,0,,{\fs37.435\pos(550.16,542.753)}I went up here (the 10mt platform)
+Dialogue: 0,0:04:41.33,0:04:45.80,Tanaka,,0,0,0,,{\pos(562.12,542.753)}And everyone down there was excited, like "yay yay yay"
+Dialogue: 0,0:04:46.27,0:04:52.48,Tanaka,,0,0,0,,{\pos(549.24,545.517)}What about me, huh? Didn't think of me up there, huh?
+Dialogue: 0,0:04:51.42,0:04:52.92,Up,,0,0,0,,No way, man...
+Dialogue: 0,0:04:52.94,0:05:06.12,Default,,0,0,0,,{\fade(250,0)\fs28.796\pos(934.797,532.386)}Before the drop
+Dialogue: 0,0:04:53.16,0:04:59.68,Narrator,,0,0,0,,We looked at the footage again, and it's true that they're\Nhaving a good time before the watermelon was dropped
+Dialogue: 0,0:05:00.15,0:05:02.85,Hosei,,0,0,0,,Oh, don't you lie to me like that!
+Dialogue: 0,0:05:00.74,0:05:02.85,Endo,,0,0,0,,No, we won't
+Dialogue: 0,0:05:02.85,0:05:05.57,Narrator,,0,0,0,,And Tanaka was left behind
+Dialogue: 0,0:05:02.95,0:05:06.12,Default,,0,0,0,,{\fs57.593\bord2.88\blur1.728\fade(250,0)\c&HFFB312&\pos(257.6,477.558)}Left behind...
+Dialogue: 0,0:05:05.57,0:05:07.71,Up,,0,0,0,,{\c&H0372E3&}Did that hurt him?
+Dialogue: 0,0:05:06.39,0:05:16.70,Default,,0,0,0,,{\fade(0,250)\fs30.524\pos(932.88,533.307)}After the drop
+Dialogue: 0,0:05:06.66,0:05:09.29,Hosei,,0,0,0,,Comedy and effort are completely different
+Dialogue: 0,0:05:09.29,0:05:11.21,Endo,,0,0,0,,Yeah, but we kinda...
+Dialogue: 0,0:05:11.21,0:05:16.13,Narrator,,0,0,0,,Even after the performance, there was no highlight for Tanaka...
+Dialogue: 0,0:05:12.60,0:05:16.70,Default,,0,0,0,,{\fs57.593\bord2.88\blur1.728\fade(250,250)\c&H1ABF15&\pos(336.72,468.113)}No place for him...
+Dialogue: 0,0:05:17.83,0:05:21.97,Tanaka,,0,0,0,,{\pos(549.24,544.596)}It's safe to say I came to this world to drop watermelons
+Dialogue: 0,0:05:20.94,0:05:22.67,Up,,0,0,0,,{\c&H1238E5&}Is he for real?
+Dialogue: 0,0:05:22.92,0:05:28.41,Default,,0,0,0,,staff) But that was... I mean, you shared roles...
+Dialogue: 0,0:05:25.64,0:05:28.41,Tanaka,,0,0,0,,{\pos(543.95,498.291)}I can't hear ya!
+Dialogue: 0,0:05:27.36,0:05:28.94,Up,,0,0,0,,Well, he's right
+Dialogue: 0,0:05:28.41,0:05:30.75,Tanaka,,0,0,0,,{\fs40.315\pos(546.48,542.753)}I can't hear ya, Eraser (staff)!
+Dialogue: 0,0:05:32.45,0:05:35.62,Tanaka,,0,0,0,,{\pos(552,543.674)}So, I drop one watermelon, it splits up nicely
+Dialogue: 0,0:05:36.22,0:05:38.92,Tanaka,,0,0,0,,{\pos(555.68,544.596)}And I'm like "want me to drop another one?"
+Dialogue: 0,0:05:38.92,0:05:41.83,Tanaka,,0,0,0,,{\fs35.707\pos(552.92,544.596)}Do you remember what Yamazaki told me?
+Dialogue: 0,0:05:42.16,0:05:43.24,Matsumoto,,0,0,0,,Sorry, Tanaka
+Dialogue: 0,0:05:43.24,0:05:44.89,Tanaka,,0,0,0,,Was it not good?
+Dialogue: 0,0:05:43.24,0:05:44.89,Endo,,0,0,0,,Yeah, not good...
+Dialogue: 0,0:05:44.89,0:05:47.56,Tanaka,,0,0,0,,{\fs39.163\pos(549.24,506.815)}Don't you need more? I have plenty here
+Dialogue: 0,0:05:47.34,0:05:49.63,Endo,,0,0,0,,What do you think?
+Dialogue: 0,0:05:47.56,0:05:49.63,Hosei,,0,0,0,,{\pos(540.27,495.296)}Are you an idiot?
+Dialogue: 0,0:05:51.00,0:05:54.34,Tanaka,,0,0,0,,{\fs39.163\pos(549.24,544.596)}I've been told "idiot" so many times before
+Dialogue: 0,0:05:54.47,0:05:59.61,Tanaka,,0,0,0,,{\fs37.435\pos(546.48,545.517)}But that's the first time it came from an idiot
+Dialogue: 0,0:05:55.97,0:05:58.04,Up,,0,0,0,,{\c&H1EBB1B&}Hey!!
+Dialogue: 0,0:05:56.44,0:05:58.04,Up,,0,0,0,,{\c&H0372E3&}- Whoa, slow down
+Dialogue: 0,0:05:58.04,0:05:59.61,Up,,0,0,0,,{\c&H0372E3&}That's too much
+Dialogue: 0,0:05:59.98,0:06:03.48,Tanaka,,0,0,0,,{\pos(561.2,545.517)}By the time I got home, anger kept on building up...
+Dialogue: 0,0:06:01.34,0:06:02.84,Up,,0,0,0,,{\c&H1238E5&}He's an idiot!
+Dialogue: 0,0:06:02.84,0:06:05.62,Up,,0,0,0,,{\c&H0372E3&}How did he even hear that?
+Dialogue: 0,0:06:03.70,0:06:05.62,Up,,0,0,0,,{\c&H1238E5&}- That's so dumb
+Dialogue: 0,0:06:03.98,0:06:06.52,Default,,0,0,0,,{\fs35.707\pos(559.36,544.596)}staff) So, is Yamazaki the cause of it?
+Dialogue: 0,0:06:06.52,0:06:13.66,Tanaka,,0,0,0,,{\pos(548.32,543.674)}It's not really about who it was or who did it...
+Dialogue: 0,0:06:14.16,0:06:17.56,Tanaka,,0,0,0,,{\pos(548.32,543.674)}It's about how I don't feel fit for Gaki anymore
+Dialogue: 0,0:06:15.74,0:06:19.66,Up,,0,0,0,,{\c&H0372E3&}He's making such a\Nbig deal about it...
+Dialogue: 0,0:06:18.06,0:06:21.06,Default,,0,0,0,,{\fs38.011\pos(548.32,543.674)}staff) And that's why you're this angry?
+Dialogue: 0,0:06:22.60,0:06:24.37,Up,,0,0,0,,{\c&H1238E5&}That's why my ass
+Dialogue: 0,0:06:24.70,0:06:27.37,Tanaka,,0,0,0,,{\pos(548.32,543.674)}The hell is this?
+Dialogue: 0,0:06:26.70,0:06:28.37,Up,,0,0,0,,What the hell...
+Dialogue: 0,0:06:29.24,0:06:30.87,Tanaka,,0,0,0,,{\pos(548.32,543.674)}Yep
+Dialogue: 0,0:06:30.10,0:06:31.82,Up,,0,0,0,,{\c&H1238E5&}Who cares about that?
+Dialogue: 0,0:06:30.87,0:06:33.11,Default,,0,0,0,,{\pos(552,543.674)}staff) Is something wrong with your hand?
+Dialogue: 0,0:06:31.82,0:06:33.51,Up,,0,0,0,,{\c&H1238E5&}Don't touch it
+Dialogue: 0,0:06:34.41,0:06:35.58,Tanaka,,0,0,0,,{\fs39.163\pos(548.32,543.674)}It stinks
+Dialogue: 0,0:06:36.10,0:06:37.21,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:06:43.22,0:06:45.69,Tanaka,,0,0,0,,{\pos(552,543.674)}The smell won't come off
+Dialogue: 0,0:06:45.20,0:06:47.26,Up,,0,0,0,,{\c&H1238E5&}That's 'cause you ate
+Dialogue: 0,0:06:47.26,0:06:50.23,Up,,0,0,0,,{\c&H0372E3&}His teeth are so dirty
+Dialogue: 0,0:06:48.26,0:06:50.23,Up,,0,0,0,,{\c&H1238E5&}- So dirty...
+Dialogue: 0,0:06:49.66,0:06:53.34,Narrator,,0,0,0,,Just look at his eerie, soulless smile
+Dialogue: 0,0:06:50.46,0:06:56.53,Default,,0,0,0,,{\fs53.561\bord2.88\blur1.728\fade(250,250)\c&HC720E0&\pos(546.327,519.485)}His creepy smile{\r\fs53.561\bord2.88\blur1.728} felt very strange...
+Dialogue: 0,0:06:51.24,0:06:54.60,Up,,0,0,0,,{\c&H1238E5&}This is disgusting
+Dialogue: 0,0:06:54.60,0:06:56.50,Up,,0,0,0,,{\c&H1EBB1B&}He's freaking me out
+Dialogue: 0,0:06:54.60,0:06:56.50,Up,,0,0,0,,{\c&H0372E3&}- Really-- what?
+Dialogue: 0,0:06:57.03,0:07:03.64,Hamada,,0,0,0,,{\a1\fs34.556\pos(90.16,463.505)}I would have love to see him hurrying his way down the stairs\Nand get right in front of the camera
+Dialogue: 0,0:06:59.40,0:07:00.80,Endo,,0,0,0,,In haste?
+Dialogue: 0,0:07:01.72,0:07:03.64,Hosei,,0,0,0,,You're right
+Dialogue: 0,0:07:03.64,0:07:06.68,Matsumoto,,0,0,0,,{\fs46.074\pos(543.72,528.009)}They should have set a camera up there too
+Dialogue: 0,0:07:05.10,0:07:06.68,Hamada,,0,0,0,,Yeah, that's right
+Dialogue: 0,0:07:06.68,0:07:09.68,Matsumoto,,0,0,0,,{\fs41.467\pos(549.853,528.009)}There was no camera following him step by step
+Dialogue: 0,0:07:07.92,0:07:09.68,Hamada,,0,0,0,,That's the issue
+Dialogue: 0,0:07:09.68,0:07:14.98,Hamada,,0,0,0,,{\a1\pos(133.093,462.584)}That would have required more staff\NMakes sense, he's angry at Gaki
+Dialogue: 0,0:07:11.51,0:07:13.40,Fujiwara,,0,0,0,,I guess that's right
+Dialogue: 0,0:07:13.40,0:07:15.55,Inomoto,,0,0,0,,By the way, did you know that
+Dialogue: 0,0:07:15.55,0:07:20.36,Inomoto,,0,0,0,,{\fs40.315\pos(550.467,528.316)}He recently made this group called "Tanaka party"?
+Dialogue: 0,0:07:18.56,0:07:19.66,Endo,,0,0,0,,Never heard of it
+Dialogue: 0,0:07:19.66,0:07:24.72,Fujiwara,,0,0,0,,You know? When groups of comedians regularly do meetings and stuff? He made one of those
+Dialogue: 0,0:07:24.72,0:07:27.32,Matsumoto,,0,0,0,,Well, it's a private thing
+Dialogue: 0,0:07:25.30,0:07:27.32,Hamada,,0,0,0,,Nothing wrong with that
+Dialogue: 0,0:07:27.32,0:07:31.30,Inomoto,,0,0,0,,{\fs35.707\pos(548.32,526.166)}Actually we got invited to it ourselves...
+Dialogue: 0,0:07:29.93,0:07:31.30,Matsumoto,,0,0,0,,To "Tanaka party"?
+Dialogue: 0,0:07:29.93,0:07:31.30,Fujiwara,,0,0,0,,Yes
+Dialogue: 0,0:07:31.30,0:07:35.07,Inomoto,,0,0,0,,{\a1\pos(151.8,459.819)}We took a video of it,\Nhow about we watch it together?
+Dialogue: 0,0:07:33.30,0:07:34.40,Hamada,,0,0,0,,Sure
+Dialogue: 0,0:07:34.40,0:07:37.12,Matsumoto,,0,0,0,,Can't deny I'm interested in it
+Dialogue: 0,0:07:35.48,0:07:37.12,Hamada,,0,0,0,,Me too
+Dialogue: 0,0:07:37.24,0:07:38.91,Matsumoto,,0,0,0,,{\fs36.859\pos(548.32,529.852)}But I'm scared
+Dialogue: 0,0:07:39.70,0:07:44.66,Narrator,,0,0,0,,Why would such an introverted man\Nfound a meeting group?
+Dialogue: 0,0:07:45.62,0:07:51.45,Narrator,,0,0,0,,We can't help but be concerned about this "Tanaka Party"...
+Dialogue: 0,0:07:45.75,0:07:51.72,Default,,0,0,0,,{\fade(250,250)\pos(548.167,519.485)\c&H1036E2&\fs40.315\t(0,0,\fs43.194)}We're worried about his mysterious meeting group...
+Dialogue: 0,0:07:53.39,0:07:59.66,Default,,0,0,0,,{\fade(250,0)\fs27.644\pos(826.467,543.982)}P.M.5:52, Tanaka Party Infiltration Day
+Dialogue: 0,0:07:53.88,0:07:58.36,Narrator,,0,0,0,,On this day, License were invited to Tanaka Party for the first time
+Dialogue: 0,0:07:58.86,0:08:00.74,Up,,0,0,0,,{\c&H1238E5&}Nice weather again
+Dialogue: 0,0:08:00.13,0:08:02.30,Default,,0,0,0,,{\pos(552,543.674)}staff) I can tell by your pace you're nervous
+Dialogue: 0,0:07:58.86,0:08:00.74,Up,,0,0,0,,{\c&H0372E3&}- It's always so nice
+Dialogue: 0,0:08:00.74,0:08:02.17,Up,,0,0,0,,{\c&H0372E3&}They're moving quickly
+Dialogue: 0,0:08:02.30,0:08:04.20,Default,,0,0,0,,{\pos(552,543.674)}That's right...
+Dialogue: 0,0:08:04.20,0:08:08.36,Narrator,,0,0,0,,Maybe with License it's not impossible\Nfor us to get some nice footage
+Dialogue: 0,0:08:08.36,0:08:13.81,Narrator,,0,0,0,,But we can't help but notice the gloom\Nof those who know Tanaka's other face
+Dialogue: 0,0:08:14.40,0:08:15.64,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:08:15.96,0:08:17.28,Inomoto,,0,0,0,,Whoa!!
+Dialogue: 0,0:08:18.25,0:08:20.18,Inomoto,,0,0,0,,That caught me off guard!
+Dialogue: 0,0:08:18.25,0:08:20.18,Fujiwara,,0,0,0,,Holy crap
+Dialogue: 0,0:08:20.18,0:08:21.84,Fujiwara,,0,0,0,,Gimme a break...
+Dialogue: 0,0:08:21.84,0:08:24.68,Inomoto,,0,0,0,,Geez, what was that for?
+Dialogue: 0,0:08:24.68,0:08:25.96,Up,,0,0,0,,{\c&H0372E3&}He's evil
+Dialogue: 0,0:08:24.68,0:08:27.02,Fujiwara,,0,0,0,,What are you doing?
+Dialogue: 0,0:08:25.86,0:08:27.02,Tanaka,,0,0,0,,Hey!
+Dialogue: 0,0:08:25.96,0:08:27.76,Up,,0,0,0,,{\c&H0372E3&}That's really something
+Dialogue: 0,0:08:27.42,0:08:30.33,Default,,0,0,0,,{\pos(805,119.793)\c&H1438DB&\3c&HFFFFFF&}watermelon
+Dialogue: 0,0:08:27.74,0:08:30.75,Narrator,,0,0,0,,What Tanaka threw down from above their heads...
+Dialogue: 0,0:08:31.56,0:08:33.24,Up,,0,0,0,,{\c&H1238E5&}That's dangerous
+Dialogue: 0,0:08:32.81,0:08:34.69,Narrator,,0,0,0,,Was a watermelon
+Dialogue: 0,0:08:31.56,0:08:33.24,Up,,0,0,0,,{\c&H1EBB1B&}- It is
+Dialogue: 0,0:08:33.24,0:08:35.60,Up,,0,0,0,,{\c&H1238E5&}It's not like Yamazaki's
+Dialogue: 0,0:08:33.24,0:08:35.60,Up,,0,0,0,,{\c&H1EBB1B&}Yeah, that was all gravity
+Dialogue: 0,0:08:35.60,0:08:37.02,Up,,0,0,0,,{\c&H1238E5&}Exactly
+Dialogue: 0,0:08:35.12,0:08:38.52,Narrator,,0,0,0,,Maybe he couldn't control his emotions
+Dialogue: 0,0:08:40.02,0:08:41.08,Inomoto,,0,0,0,,Why?
+Dialogue: 0,0:08:41.08,0:08:43.31,Tanaka,,0,0,0,,I'm coming back
+Dialogue: 0,0:08:42.06,0:08:43.31,Default,,0,0,0,,Sure!
+Dialogue: 0,0:08:43.31,0:08:45.21,Fujiwara,,0,0,0,,{\pos(544.64,544.596)}Good evening
+Dialogue: 0,0:08:43.31,0:08:44.58,Inomoto,,0,0,0,,'Evening
+Dialogue: 0,0:08:43.21,0:08:44.93,Up,,0,0,0,,Is that the shop?
+Dialogue: 0,0:08:44.58,0:08:45.81,Tanaka,,0,0,0,,Hi guys
+Dialogue: 0,0:08:44.93,0:08:47.21,Up,,0,0,0,,{\c&H0372E3&}His teeth again...
+Dialogue: 0,0:08:45.81,0:08:47.98,Tanaka,,0,0,0,,{\pos(540.96,544.596)}Did I scare you?
+Dialogue: 0,0:08:45.81,0:08:47.98,Fujiwara,,0,0,0,,Stop it...{\rInomoto}   Give us a break
+Dialogue: 0,0:08:48.08,0:08:49.85,Tanaka,,0,0,0,,{\pos(552,543.674)}Shall we go?
+Dialogue: 0,0:08:48.96,0:08:49.85,Inomoto,,0,0,0,,Sure
+Dialogue: 0,0:08:49.85,0:08:53.88,Default,,0,0,0,,{\fs38.011\pos(554.76,502.207)}staff) Is it ok if we film this, Tanaka?
+Dialogue: 0,0:08:51.46,0:08:53.88,Inomoto,,0,0,0,,Ah, today we have Gaki's cameraman...
+Dialogue: 0,0:08:51.46,0:08:53.88,Fujiwara,,0,0,0,,Sorry about this
+Dialogue: 0,0:08:53.88,0:08:56.42,Tanaka,,0,0,0,,{\pos(552,543.674)}It's fine but this isn't gonna be fun at all
+Dialogue: 0,0:08:56.42,0:08:59.22,Tanaka,,0,0,0,,{\pos(552.23,501.286)}Is that ok?
+Dialogue: 0,0:08:57.22,0:08:59.22,Default,,0,0,0,,staff) Yes, it's fine
+Dialogue: 0,0:08:59.44,0:09:00.40,Inomoto,,0,0,0,,Is it ok? Sorry
+Dialogue: 0,0:09:00.16,0:09:02.16,Tanaka,,0,0,0,,{\fs37.435\pos(552,543.674)}Let's go!
+Dialogue: 0,0:09:00.40,0:09:02.16,Inomoto,,0,0,0,,Thank you
+Dialogue: 0,0:09:01.70,0:09:03.78,Up,,0,0,0,,His voice...
+Dialogue: 0,0:09:02.51,0:09:03.78,Up,,0,0,0,,{\c&H0372E3&}I know...
+Dialogue: 0,0:09:02.51,0:09:03.43,Inomoto,,0,0,0,,Thanks for that
+Dialogue: 0,0:09:03.43,0:09:06.53,Tanaka,,0,0,0,,{\fade(0,250)\pos(539.12,545.517)}Don't be so tense!
+Dialogue: 0,0:09:03.72,0:09:06.53,Fujiwara,,0,0,0,,Of course I'm gonna be after that!
+Dialogue: 0,0:09:05.53,0:09:07.90,Up,,0,0,0,,{\c&H0372E3&}That's not the \Nperson I know
+Dialogue: 0,0:09:07.18,0:09:11.16,Narrator,,0,0,0,,It appears a violent Tanaka lived somewhere inside him
+Dialogue: 0,0:09:10.26,0:09:12.70,Up,,0,0,0,,{\c&H0372E3&}He's not that type of guy
+Dialogue: 0,0:09:10.26,0:09:12.70,Up,,0,0,0,,- That's messed up
+Dialogue: 0,0:09:11.46,0:09:14.60,Narrator,,0,0,0,,His look spells "danger"
+Dialogue: 0,0:09:15.30,0:09:18.17,Narrator,,0,0,0,,They're gonna meet up in a Izakaya
+Dialogue: 0,0:09:20.34,0:09:22.55,Tanaka,,0,0,0,,{\pos(552,543.674)}I think everyone's already there
+Dialogue: 0,0:09:21.18,0:09:22.55,Inomoto,,0,0,0,,Already?
+Dialogue: 0,0:09:23.34,0:09:26.12,Narrator,,0,0,0,,The atmosphere inside feels different
+Dialogue: 0,0:09:26.12,0:09:29.07,Narrator,,0,0,0,,And that's what made it frightening
+Dialogue: 0,0:09:29.07,0:09:30.62,Default,,0,0,0,,Hey!
+Dialogue: 0,0:09:30.62,0:09:31.32,Fujiwara,,0,0,0,,'Evening
+Dialogue: 0,0:09:31.32,0:09:35.94,Tanaka,,0,0,0,,Hey hey hey hey hey!
+Dialogue: 0,0:09:31.32,0:09:32.54,Inomoto,,0,0,0,,Hi there
+Dialogue: 0,0:09:32.54,0:09:34.59,Inomoto,,0,0,0,,Excuse us
+Dialogue: 0,0:09:34.70,0:09:35.94,Inomoto,,0,0,0,,Good evening
+Dialogue: 0,0:09:35.94,0:09:37.30,Tanaka,,0,0,0,,Welcome
+Dialogue: 0,0:09:37.30,0:09:39.03,Inomoto,,0,0,0,,It's a pleasure
+Dialogue: 0,0:09:39.03,0:09:41.76,Tanaka,,0,0,0,,{\pos(552,543.674)}That's the cameraman for Gaki
+Dialogue: 0,0:09:40.54,0:09:41.76,Default,,0,0,0,,Ah, really?
+Dialogue: 0,0:09:42.02,0:09:43.40,Tanaka,,0,0,0,,Here's License
+Dialogue: 0,0:09:43.40,0:09:45.94,Default,,0,0,0,,Oh, it's a pleasure to meet you
+Dialogue: 0,0:09:45.94,0:09:47.44,Default,,0,0,0,,It's a pleasure
+Dialogue: 0,0:09:47.44,0:09:51.14,Inomoto,,0,0,0,,{\pos(548.32,542.753)}Is that Nezumi Senpai...?
+Dialogue: 0,0:09:47.60,0:09:48.54,Up,,0,0,0,,{\c&H1EBB1B&}- Oh?
+Dialogue: 0,0:09:48.76,0:09:50.66,Up,,0,0,0,,{\c&H1EBB1B&}- Eh? This is...
+Dialogue: 0,0:09:49.66,0:09:51.14,Default,,0,0,0,,That's right
+Dialogue: 0,0:09:51.14,0:09:53.34,Fujiwara,,0,0,0,,I didn't know he was part of this
+Dialogue: 0,0:09:51.31,0:09:55.71,Default,,0,0,0,,{\fade(250,0)\pos(559.667,525.244)}Nezumi Senpai
+Dialogue: 0,0:09:52.42,0:09:53.88,Up,,0,0,0,,{\c&H0372E3&}- It's really him...
+Dialogue: 0,0:09:53.34,0:09:55.71,Tanaka,,0,0,0,,There's a lot of people, yeah
+Dialogue: 0,0:09:53.96,0:09:55.71,Fujiwara,,0,0,0,,Ohhh, I see...
+Dialogue: 0,0:09:54.30,0:09:55.71,Up,,0,0,0,,{\c&H0372E3&}- It's Nezumi Senpai
+Dialogue: 0,0:09:56.35,0:10:00.38,Default,,0,0,0,,staff) I don't know most of them, I see Q-Taro here but everyone else...
+Dialogue: 0,0:10:00.68,0:10:03.35,Tanaka,,0,0,0,,{\pos(552,543.674)}You should be able to tell
+Dialogue: 0,0:10:05.42,0:10:07.26,Tanaka,,0,0,0,,{\pos(552,543.674)}Such a burden
+Dialogue: 0,0:10:08.50,0:10:10.83,Up,,0,0,0,,- Who's this?
+Dialogue: 0,0:10:08.96,0:10:10.83,Up,,0,0,0,,{\c&H0372E3&}- Have I seen him before?
+Dialogue: 0,0:10:10.00,0:10:11.12,Tanaka,,0,0,0,,Cheers!
+Dialogue: 0,0:10:11.12,0:10:12.42,Tanaka,,0,0,0,,Cheers to us!
+Dialogue: 0,0:10:12.42,0:10:15.98,Narrator,,0,0,0,,What's the relationship between him and these people?
+Dialogue: 0,0:10:16.26,0:10:18.63,Narrator,,0,0,0,,We didn't get an answer from him
+Dialogue: 0,0:10:17.68,0:10:19.66,Up,,0,0,0,,{\c&H0372E3&}Look at him go
+Dialogue: 0,0:10:19.24,0:10:21.24,Inomoto,,0,0,0,,{\pos(552,543.674)}He's going for it
+Dialogue: 0,0:10:20.16,0:10:22.02,Up,,0,0,0,,{\c&H0372E3&}That's impressive
+Dialogue: 0,0:10:22.90,0:10:24.84,Up,,0,0,0,,{\c&H1238E5&}He doesn't drink much,\Ndoes he?
+Dialogue: 0,0:10:23.66,0:10:24.84,Up,,0,0,0,,{\c&H0372E3&}- Yeah...
+Dialogue: 0,0:10:25.14,0:10:27.48,Tanaka,,0,0,0,,{\pos(552,543.674)}One more beer please!
+Dialogue: 0,0:10:26.28,0:10:27.48,Default,,0,0,0,,A draft beer, please
+Dialogue: 0,0:10:27.48,0:10:29.92,Default,,0,0,0,,You surely can drink...
+Dialogue: 0,0:10:29.92,0:10:32.15,Up,,0,0,0,,Who's this guy?!
+Dialogue: 0,0:10:30.40,0:10:32.15,Up,,0,0,0,,{\c&H1238E5&}- I have no clue
+Dialogue: 0,0:10:32.15,0:10:34.12,Up,,0,0,0,,{\c&H1238E5&}Never seen him before
+Dialogue: 0,0:10:32.58,0:10:35.42,Tanaka,,0,0,0,,{\pos(544.64,545.517)}Eat up, Tabe!
+Dialogue: 0,0:10:35.02,0:10:36.47,Up,,0,0,0,,{\c&H1238E5&}- "Tabe"?
+Dialogue: 0,0:10:33.70,0:10:35.42,Default,,0,0,0,,Ah, sorry!
+Dialogue: 0,0:10:35.42,0:10:36.89,Inomoto,,0,0,0,,{\pos(552.92,542.753)}staff) Are you Mr. Tabe?
+Dialogue: 0,0:10:35.96,0:10:36.89,Default,,0,0,0,,Yes
+Dialogue: 0,0:10:36.89,0:10:39.56,Tanaka,,0,0,0,,{\pos(540.96,546.439)}They're Tabe and Tanio from Hiyashins
+Dialogue: 0,0:10:39.68,0:10:41.77,Default,,0,0,0,,We're Hiyashins, nice to meet you
+Dialogue: 0,0:10:39.72,0:10:43.66,Default,,0,0,0,,{\fade(250,0)\pos(559.667,480.322)}Hiyashins
+Dialogue: 0,0:10:39.72,0:10:43.66,Default,,0,0,0,,{\fade(250,0)\pos(418.6,529.852)}Tabe
+Dialogue: 0,0:10:39.72,0:10:43.66,Default,,0,0,0,,{\fade(250,0)\pos(679.267,531.004)}Tanio
+Dialogue: 0,0:10:42.46,0:10:44.63,Up,,0,0,0,,No idea who they are
+Dialogue: 0,0:10:45.06,0:10:48.10,Narrator,,0,0,0,,As always, his appetite is immense
+Dialogue: 0,0:10:48.62,0:10:51.45,Narrator,,0,0,0,,Food is disappearing in a blink of an eye
+Dialogue: 0,0:10:52.80,0:10:55.52,Narrator,,0,0,0,,License are observing the situation
+Dialogue: 0,0:10:55.91,0:11:00.41,Default,,0,0,0,,{\fs51.833\bord2.88\blur1.728\fade(250,0)\c&H243FE0&\pos(559.82,513.726)}Some words a member let out...{\i0}
+Dialogue: 0,0:10:56.10,0:10:59.85,Narrator,,0,0,0,,And they're surprised to hear something the members often say...
+Dialogue: 0,0:10:59.22,0:11:00.94,Up,,0,0,0,,Why is his arm broken?
+Dialogue: 0,0:11:00.94,0:11:02.71,Inomoto,,0,0,0,,{\pos(552,543.674)}Are you familiar with Tanaka?
+Dialogue: 0,0:11:02.71,0:11:06.35,Default,,0,0,0,,{\pos(552,543.674)}Yeah, Our Tanaka has taken good care of me
+Dialogue: 0,0:11:04.74,0:11:06.35,Inomoto,,0,0,0,,Oh, is that so?
+Dialogue: 0,0:11:05.54,0:11:07.05,Up,,0,0,0,,"Our Tanaka"?
+Dialogue: 0,0:11:07.05,0:11:09.32,Inomoto,,0,0,0,,{\pos(552,543.674)}"Our Tanaka"...
+Dialogue: 0,0:11:08.16,0:11:09.32,Default,,0,0,0,,Yes{\rTanaka}   Eat up!
+Dialogue: 0,0:11:09.40,0:11:13.79,Narrator,,0,0,0,,Everyone seems to refer to him as "Our Tanaka"...
+Dialogue: 0,0:11:09.69,0:11:14.22,Default,,0,0,0,,{\fs40.315\bord2.88\blur1.728\fade(250,250)\pos(152.567,427.337)}Nickname
+Dialogue: 0,0:11:09.69,0:11:14.22,Default,,0,0,0,,{\fs57.593\bord2.88\blur1.728\fade(250,250)\c&HD415C6&\pos(274.62,508.888)}"Our Tanaka"
+Dialogue: 0,0:11:13.44,0:11:14.84,Up,,0,0,0,,{\c&H1EBB1B&}Our Tanaka...
+Dialogue: 0,0:11:14.16,0:11:17.99,Default,,0,0,0,,{\pos(552,543.674)}It's like I was totally captured by him, you know
+Dialogue: 0,0:11:17.99,0:11:21.13,Default,,0,0,0,,I'd say I went through a complete change
+Dialogue: 0,0:11:18.33,0:11:21.13,Default,,0,0,0,,{\fade(250,0)\pos(741.367,403.148)}Tonfer
+Dialogue: 0,0:11:18.33,0:11:21.13,Default,,0,0,0,,{\fade(250,0)\pos(786.6,437.704)}Yamanishi Akihiro
+Dialogue: 0,0:11:18.33,0:11:40.32,Default,,0,0,0,,{\fade(250,250)\fs23.037\pos(297.467,26.492)}Q. Why do you refer to Tanaka as "Our Tanaka"?
+Dialogue: 0,0:11:21.13,0:11:26.50,Default,,0,0,0,,It's like Tanaka is the nucleus and I've been absorbed as a part of it
+Dialogue: 0,0:11:25.60,0:11:27.20,Up,,0,0,0,,The hell is he\Ntalkin' about?!
+Dialogue: 0,0:11:26.67,0:11:32.98,Default,,0,0,0,,{\fade(250,0)\pos(720.667,407.756)}Nezumi Senpai
+Dialogue: 0,0:11:26.80,0:11:32.98,Default,,0,0,0,,{\bord2.88}It's Q-san who introduced me to him, and since I got here I started to call him like this
+Dialogue: 0,0:11:27.20,0:11:29.22,Up,,0,0,0,,What the hell is this?
+Dialogue: 0,0:11:29.22,0:11:31.57,Up,,0,0,0,,I don't get it
+Dialogue: 0,0:11:32.98,0:11:37.51,Default,,0,0,0,,After all I've always respected Our Tanaka even before
+Dialogue: 0,0:11:37.51,0:11:40.86,Default,,0,0,0,,And now I feel like I respect him even more
+Dialogue: 0,0:11:41.18,0:11:47.16,Hamada,,0,0,0,,{\fs57.593\bord2.88\blur2.304\fade(250,250)\shad0\c&H000000&\pos(254.38,485.39)}Charisma
+Dialogue: 0,0:11:41.90,0:11:47.49,Narrator,,0,0,0,,According to the members, it seems\Nlike Tanaka has a lot of charisma
+Dialogue: 0,0:11:47.49,0:11:50.29,Default,,0,0,0,,We're all "Our Tanaka", including Our Tanaka
+Dialogue: 0,0:11:47.49,0:11:50.29,Default,,0,0,0,,{\pos(733.7,401.996)}Tonfer
+Dialogue: 0,0:11:47.49,0:11:50.29,Default,,0,0,0,,{\pos(807.3,442.695)}Kohama Ryuuji
+Dialogue: 0,0:11:50.29,0:11:54.76,Default,,0,0,0,,I get my ideas because Our Tanaka exists
+Dialogue: 0,0:11:50.29,0:11:54.76,Default,,0,0,0,,{\pos(756.7,395.085)}Zatsuki Sakka
+Dialogue: 0,0:11:50.29,0:11:54.76,Default,,0,0,0,,{\pos(811.133,440.007)}Konda Mitsuo
+Dialogue: 0,0:11:54.76,0:11:55.90,Default,,0,0,0,,We all work here, and...
+Dialogue: 0,0:11:55.10,0:12:02.54,Default,,0,0,0,,{\fade(250,0)\pos(730.633,398.925)}Hiking Walking
+Dialogue: 0,0:11:55.10,0:12:02.54,Default,,0,0,0,,{\fade(250,0)\pos(742.9,451.526)}Suzuki Q-Taro
+Dialogue: 0,0:11:55.90,0:12:00.37,Narrator,,0,0,0,,It's really starting to look like some kind of cult
+Dialogue: 0,0:12:00.37,0:12:02.54,Default,,0,0,0,,So, we're all here and...
+Dialogue: 0,0:12:02.54,0:12:06.58,Default,,0,0,0,,Feels like I'm dropping feathers, you know?
+Dialogue: 0,0:12:02.71,0:12:06.58,Default,,0,0,0,,{\fs46.074\bord2.88\blur1.728\fade(250,0)\c&H7BE691&\pos(265.88,507.506)}The party goes on...
+Dialogue: 0,0:12:04.24,0:12:06.58,Tanaka,,0,0,0,,Are you still losing hair?
+Dialogue: 0,0:12:07.01,0:12:10.01,Tanaka,,0,0,0,,{\fs43.194\pos(546.48,544.596)}Eat up, Noe!
+Dialogue: 0,0:12:07.42,0:12:10.01,Default,,0,0,0,,Sure, I'm diggin' in
+Dialogue: 0,0:12:10.35,0:12:13.15,Default,,0,0,0,,{\fs40.315\pos(552,543.674)}staff) Miss Noe, how did you get in here?
+Dialogue: 0,0:12:10.60,0:12:12.03,Default,,0,0,0,,Yes?
+Dialogue: 0,0:12:13.52,0:12:17.39,Tanaka,,0,0,0,,{\pos(550.16,542.753)}She just got in on her own
+Dialogue: 0,0:12:15.48,0:12:17.39,Default,,0,0,0,,On her own?
+Dialogue: 0,0:12:17.72,0:12:20.19,Tanaka,,0,0,0,,By the way, I'm currently banging her
+Dialogue: 0,0:12:19.76,0:12:21.58,Up,,0,0,0,,{\c&H0372E3&}- What the hell is he saying...
+Dialogue: 0,0:12:21.58,0:12:23.53,Up,,0,0,0,,{\c&H0372E3&}- That's so unlike him
+Dialogue: 0,0:12:21.66,0:12:23.53,Default,,0,0,0,,{\pos(552,543.674)\fs37.435}He's always joking like this
+Dialogue: 0,0:12:23.64,0:12:25.29,Up,,0,0,0,,{\c&H1238E5&}This is messed up
+Dialogue: 0,0:12:23.96,0:12:25.70,Fujiwara,,0,0,0,,{\pos(552,543.674)}Hey, you gotta deny that!
+Dialogue: 0,0:12:25.70,0:12:27.90,Default,,0,0,0,,{\pos(552,543.674)\fs37.435}In a way we can say it's like that
+Dialogue: 0,0:12:28.06,0:12:32.64,Default,,0,0,0,,{\pos(552,543.674)}He's a senpai I really admire
+Dialogue: 0,0:12:28.06,0:12:32.64,Default,,0,0,0,,{\fs37.435\fade(250,0)\pos(750.107,438.625)}Ageha Noe
+Dialogue: 0,0:12:28.06,0:12:32.64,Default,,0,0,0,,{\fade(250,0)\fs23.037\pos(297.467,26.492)}Q. Is that the relationship you have with Tanaka?
+Dialogue: 0,0:12:29.96,0:12:32.64,Up,,0,0,0,,Who's this?
+Dialogue: 0,0:12:30.86,0:12:32.64,Up,,0,0,0,,{\c&H0372E3&}- No clue
+Dialogue: 0,0:12:32.64,0:12:34.04,Default,,0,0,0,,It's like...
+Dialogue: 0,0:12:33.64,0:12:37.04,Narrator,,0,0,0,,Maybe she's worried about Tanaka's family
+Dialogue: 0,0:12:34.04,0:12:37.04,Default,,0,0,0,,I like this place and...
+Dialogue: 0,0:12:35.84,0:12:41.81,Default,,0,0,0,,{\fs50.106\bord2.88\blur1.728\fade(250,250)\pos(779.7,499.443)}Unclear statements...
+Dialogue: 0,0:12:37.04,0:12:39.44,Narrator,,0,0,0,,But the way she talks is ambiguous
+Dialogue: 0,0:12:39.44,0:12:41.94,Default,,0,0,0,,At any rate, it's good being part of "Our Tanaka"
+Dialogue: 0,0:12:41.94,0:12:45.85,Matsumoto,,0,0,0,,{\fs37.435\pos(549.24,526.166)}This meeting looks boring as hell
+Dialogue: 0,0:12:44.28,0:12:45.85,Endo,,0,0,0,,Yeah, it's so stupid
+Dialogue: 0,0:12:48.72,0:12:53.39,Default,,0,0,0,,{\fade(250,0)\fs37.435\pos(558.44,518.794)\i1}Asking Tanaka about his relations with women{\i0}
+Dialogue: 0,0:12:46.50,0:12:52.88,Narrator,,0,0,0,,Now that Tanaka is drunk and is feeling good, we asked him about women
+Dialogue: 0,0:12:53.86,0:12:55.99,Tanaka,,0,0,0,,{\pos(552,543.674)}Wanna go for one of the ladies?
+Dialogue: 0,0:12:55.99,0:13:00.53,Tanaka,,0,0,0,,{\fs38.011\fade(0,250)\pos(547.4,543.674)}Eraser (staff), use your dick some more, use it!
+Dialogue: 0,0:12:59.76,0:13:01.47,Up,,0,0,0,,{\c&H1EBB1B&}What is he saying...
+Dialogue: 0,0:13:00.04,0:13:03.40,Tanaka,,0,0,0,,I've been drinking so much
+Dialogue: 0,0:13:01.76,0:13:04.67,Up,,0,0,0,,{\c&H0372E3&}- He's not the type\Nwho would say that
+Dialogue: 0,0:13:03.40,0:13:04.67,Tanaka,,0,0,0,,Yeah...
+Dialogue: 0,0:13:04.67,0:13:06.36,Up,,0,0,0,,{\c&H1238E5&}Yeah, I know
+Dialogue: 0,0:13:05.10,0:13:06.36,Up,,0,0,0,,{\c&H0372E3&}- Yes...
+Dialogue: 0,0:13:05.17,0:13:07.30,Tanaka,,0,0,0,,{\pos(552,543.674)}I drank way too much
+Dialogue: 0,0:13:07.30,0:13:11.86,Narrator,,0,0,0,,We're only left with a smile with no room for answers
+Dialogue: 0,0:13:13.62,0:13:17.28,Narrator,,0,0,0,,Tanaka is always hanging out with somebody, lately
+Dialogue: 0,0:13:14.04,0:13:19.05,Default,,0,0,0,,{\fs23.037\pos(954.96,543.674)}Second day of filming
+Dialogue: 0,0:13:17.28,0:13:19.05,Narrator,,0,0,0,,Today it's Q-taro again
+Dialogue: 0,0:13:19.48,0:13:21.42,Default,,0,0,0,,{\fs40.315\pos(552,543.674)}staff) Where are you going today?
+Dialogue: 0,0:13:21.42,0:13:23.92,Tanaka,,0,0,0,,{\pos(552,543.674)}To Kanaria's Bon's house
+Dialogue: 0,0:13:24.70,0:13:26.19,Default,,0,0,0,,And do what?
+Dialogue: 0,0:13:27.60,0:13:29.42,Up,,0,0,0,,He's got the key
+Dialogue: 0,0:13:28.72,0:13:31.29,Tanaka,,0,0,0,,{\pos(552,543.674)}We wanna scare him for good
+Dialogue: 0,0:13:31.79,0:13:35.57,Default,,0,0,0,,{\fs43.194\pos(555.527,499.904)}staff) Do you often do stuff like that?
+Dialogue: 0,0:13:33.20,0:13:35.57,Default,,0,0,0,,All the time
+Dialogue: 0,0:13:34.86,0:13:37.22,Up,,0,0,0,,{\c&H0372E3&}Come on, they're over 40...
+Dialogue: 0,0:13:35.94,0:13:41.89,Narrator,,0,0,0,,They got the key of a junior they don't like by threatening his manager
+Dialogue: 0,0:13:37.60,0:13:44.41,Default,,0,0,0,,{\fs44.346\bord2.88\blur1.728\fade(250,250)\pos(549.7,513.726)}Breaking into the house of a junior he doesn't like{\i0}
+Dialogue: 0,0:13:39.34,0:13:42.41,Up,,0,0,0,,{\c&H0372E3&}I mean, that's something\Nyou'd do when you're young...
+Dialogue: 0,0:13:42.04,0:13:45.61,Narrator,,0,0,0,,And now they're breaking into his house
+Dialogue: 0,0:13:44.36,0:13:45.68,Up,,0,0,0,,That's a crime
+Dialogue: 0,0:13:45.68,0:13:48.28,Up,,0,0,0,,{\c&H1238E5&}Q-taro is evil too
+Dialogue: 0,0:13:46.74,0:13:48.28,Up,,0,0,0,,{\c&H0372E3&}- He is
+Dialogue: 0,0:13:52.08,0:13:54.95,Tanaka,,0,0,0,,{\fs43.194\pos(546.48,543.674)}Lemme step in!
+Dialogue: 0,0:13:52.86,0:13:54.95,Default,,0,0,0,,Oh shit you scared me!!
+Dialogue: 0,0:13:55.24,0:13:56.79,Default,,0,0,0,,'Morning!!
+Dialogue: 0,0:13:56.25,0:13:59.19,Default,,0,0,0,,{\fade(250,250)\pos(501.4,499.213)}Kanaria
+Dialogue: 0,0:13:56.25,0:13:59.19,Default,,0,0,0,,{\fade(250,250)\pos(557.827,538.376)}Bon Mizokuro
+Dialogue: 0,0:13:56.79,0:13:59.00,Tanaka,,0,0,0,,Lemme see ya house!
+Dialogue: 0,0:13:57.42,0:13:59.00,Default,,0,0,0,,No wait---
+Dialogue: 0,0:13:59.14,0:14:01.26,Tanaka,,0,0,0,,Look at this!
+Dialogue: 0,0:13:59.88,0:14:01.26,Default,,0,0,0,,So dirty!
+Dialogue: 0,0:14:01.26,0:14:02.93,Default,,0,0,0,,{\pos(540.96,546.439)}What's going on?
+Dialogue: 0,0:14:01.26,0:14:02.93,Default,,0,0,0,,Hey, clean up!
+Dialogue: 0,0:14:02.93,0:14:04.56,Tanaka,,0,0,0,,Let's get rid of this
+Dialogue: 0,0:14:03.20,0:14:04.56,Default,,0,0,0,,Sure thing
+Dialogue: 0,0:14:04.56,0:14:07.10,Default,,0,0,0,,{\pos(552,543.674)}Wa-- wait, what are you doing?
+Dialogue: 0,0:14:07.10,0:14:09.50,Default,,0,0,0,,{\fs40.315\pos(547.86,547.014)}Please stop, Tanaka!
+Dialogue: 0,0:14:08.24,0:14:09.50,Tanaka,,0,0,0,,Let's clean up
+Dialogue: 0,0:14:09.50,0:14:10.64,Default,,0,0,0,,Don't joke around
+Dialogue: 0,0:14:10.64,0:14:12.46,Tanaka,,0,0,0,,I'm helping here
+Dialogue: 0,0:14:10.64,0:14:12.46,Default,,0,0,0,,What the hell is this?!
+Dialogue: 0,0:14:12.46,0:14:13.44,Tanaka,,0,0,0,,Et voilà!
+Dialogue: 0,0:14:13.70,0:14:14.70,Tanaka,,0,0,0,,Voilà!
+Dialogue: 0,0:14:14.00,0:14:16.27,Default,,0,0,0,,Wait a moment--
+Dialogue: 0,0:14:14.70,0:14:16.27,Tanaka,,0,0,0,,What are ya gonna do about it?
+Dialogue: 0,0:14:16.27,0:14:18.31,Default,,0,0,0,,{\pos(549.087,545.402)}Stop for a second, please!
+Dialogue: 0,0:14:17.14,0:14:19.74,Tanaka,,0,0,0,,Your house is so dirty!
+Dialogue: 0,0:14:17.54,0:14:19.74,Default,,0,0,0,,So dirty!
+Dialogue: 0,0:14:19.74,0:14:22.51,Default,,0,0,0,,{\pos(552,543.674)}That's not true--- what's going on?
+Dialogue: 0,0:14:22.51,0:14:23.52,Tanaka,,0,0,0,,Is this where you live?
+Dialogue: 0,0:14:23.52,0:14:26.72,Default,,0,0,0,,No! Wait! Don't!
+Dialogue: 0,0:14:23.71,0:14:29.39,Default,,0,0,0,,{\blur1.728\bord2.88\fs57.593\fade(250,250)\c&HEB13F4&\pos(549.087,404.3)}Tanaka's abuse goes on...
+Dialogue: 0,0:14:24.30,0:14:28.76,Narrator,,0,0,0,,Tanaka's abuse knows no bounds and it's going on
+Dialogue: 0,0:14:28.76,0:14:30.30,Default,,0,0,0,,Wait a sec!
+Dialogue: 0,0:14:31.68,0:14:33.49,Up,,0,0,0,,{\c&H1238E5&}He's laughing so much
+Dialogue: 0,0:14:33.64,0:14:35.93,Narrator,,0,0,0,,Maybe we should have stopped him...
+Dialogue: 0,0:14:35.93,0:14:39.21,Narrator,,0,0,0,,But that wouldn't have stopped Tanaka
+Dialogue: 0,0:14:39.30,0:14:41.73,Tanaka,,0,0,0,,{\pos(542.8,542.753)}We'll come back again, Bon!
+Dialogue: 0,0:14:40.36,0:14:41.73,Default,,0,0,0,,No wait--
+Dialogue: 0,0:14:41.08,0:14:42.95,Up,,0,0,0,,That's crazy
+Dialogue: 0,0:14:42.14,0:14:43.65,Default,,0,0,0,,What's this about?
+Dialogue: 0,0:14:44.43,0:14:48.10,Default,,0,0,0,,{\pos(555.987,499.213)}staff) Are you just leaving it as it is?
+Dialogue: 0,0:14:45.77,0:14:48.10,Tanaka,,0,0,0,,That's the plan!
+Dialogue: 0,0:14:48.10,0:14:49.14,Tanaka,,0,0,0,,{\pos(552,543.674)}I don't care!
+Dialogue: 0,0:14:49.44,0:14:51.17,Tanaka,,0,0,0,,Let's go
+Dialogue: 0,0:14:49.44,0:14:51.17,Default,,0,0,0,,Yeah let's bounce
+Dialogue: 0,0:14:51.17,0:14:54.87,Narrator,,0,0,0,,We won't interfere in comedians' business
+Dialogue: 0,0:14:51.24,0:14:55.48,Default,,0,0,0,,{\fade(250,250)\fs50.106\bord2.88\blur1.728\c&HFFB21A&\pos(549.087,514.647)}It's something between comedians...{\i0}
+Dialogue: 0,0:14:54.98,0:14:56.08,Up,,0,0,0,,No way
+Dialogue: 0,0:14:56.65,0:15:04.05,Default,,0,0,0,,{\fs28.796\fade(250,250)\pos(957.72,542.753)}4th day of filming
+Dialogue: 0,0:14:56.90,0:15:01.80,Narrator,,0,0,0,,One morning, he called License to a certain shopping district
+Dialogue: 0,0:15:01.76,0:15:03.54,Up,,0,0,0,,{\c&H1238E5&}He's got piercings now
+Dialogue: 0,0:15:02.64,0:15:04.92,Narrator,,0,0,0,,Q-taro is with him again
+Dialogue: 0,0:15:04.06,0:15:06.29,Up,,0,0,0,,And he's always eating something
+Dialogue: 0,0:15:04.90,0:15:06.29,Up,,0,0,0,,{\c&H1238E5&}- Why though?
+Dialogue: 0,0:15:05.35,0:15:09.19,Tanaka,,0,0,0,,{\pos(547.4,543.674)}Is there something good?
+Dialogue: 0,0:15:06.82,0:15:09.19,Default,,0,0,0,,Let's see...
+Dialogue: 0,0:15:09.19,0:15:10.69,Default,,0,0,0,,{\fs36.283\pos(552,543.674)}I really like backpacks
+Dialogue: 0,0:15:11.06,0:15:13.03,Tanaka,,0,0,0,,Oh, backpacks?
+Dialogue: 0,0:15:11.06,0:15:13.03,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:15:13.03,0:15:16.03,Narrator,,0,0,0,,It happened when Q-taro was looking at the backpacks...
+Dialogue: 0,0:15:14.18,0:15:16.03,Tanaka,,0,0,0,,That one?
+Dialogue: 0,0:15:18.90,0:15:24.04,Default,,0,0,0,,{\fs42.043\pos(552.92,541.831)}Oh, stop it, Our Tanaka!
+Dialogue: 0,0:15:21.26,0:15:22.82,Inomoto,,0,0,0,,Oh please don't
+Dialogue: 0,0:15:19.58,0:15:21.94,Up,,0,0,0,,{\c&H1238E5&}What's with that name?
+Dialogue: 0,0:15:21.94,0:15:24.04,Up,,0,0,0,,- "Stop, Our Tanaka"...
+Dialogue: 0,0:15:24.04,0:15:25.22,Inomoto,,0,0,0,,Your pants
+Dialogue: 0,0:15:25.22,0:15:26.50,Default,,0,0,0,,What the hell, man...
+Dialogue: 0,0:15:26.50,0:15:28.41,Inomoto,,0,0,0,,That's no good for tv
+Dialogue: 0,0:15:26.90,0:15:29.35,Up,,0,0,0,,{\c&H1238E5&}It sounds so weird
+Dialogue: 0,0:15:28.41,0:15:30.45,Narrator,,0,0,0,,He got caught on tape
+Dialogue: 0,0:15:30.01,0:15:32.71,Up,,0,0,0,,{\c&H1238E5&}How can you address\Nsomeone as "Our Tanaka"?
+Dialogue: 0,0:15:30.60,0:15:33.28,Narrator,,0,0,0,,These grownups surely love kids pranks
+Dialogue: 0,0:15:33.28,0:15:34.68,Default,,0,0,0,,Come on
+Dialogue: 0,0:15:33.28,0:15:35.03,Up,,0,0,0,,So stupid
+Dialogue: 0,0:15:36.02,0:15:39.94,Narrator,,0,0,0,,And now he stops before a beauty salon
+Dialogue: 0,0:15:40.10,0:15:42.46,Up,,0,0,0,,{\c&H1238E5&}It's getting crowdy
+Dialogue: 0,0:15:40.90,0:15:42.46,Up,,0,0,0,,{\c&H1EBB1B&}- Is he peeping?
+Dialogue: 0,0:15:42.46,0:15:45.80,Tanaka,,0,0,0,,{\pos(552,543.674)\fs37.435}That chick is hella hot
+Dialogue: 0,0:15:42.80,0:15:44.98,Up,,0,0,0,,That's so dumb
+Dialogue: 0,0:15:44.98,0:15:47.00,Up,,0,0,0,,{\c&H1238E5&}He's not ok
+Dialogue: 0,0:15:46.68,0:15:50.67,Narrator,,0,0,0,,He just found a woman he likes
+Dialogue: 0,0:15:49.80,0:15:51.86,Up,,0,0,0,,Ah, he's chewing a gum,\Nthat's what it is
+Dialogue: 0,0:15:51.50,0:15:54.07,Tanaka,,0,0,0,,{\pos(546.48,543.674)}Oh shit, I'd love to bang her!
+Dialogue: 0,0:15:51.86,0:15:54.07,Up,,0,0,0,,{\c&H1EBB1B&}Oh, is that it?
+Dialogue: 0,0:15:52.88,0:15:54.07,Up,,0,0,0,,- Yep
+Dialogue: 0,0:15:54.36,0:15:55.96,Fujiwara,,0,0,0,,Can't you just--
+Dialogue: 0,0:15:55.04,0:15:56.64,Inomoto,,0,0,0,,{\pos(549.24,545.517)\fs36.859}Look, there's a crowd around us
+Dialogue: 0,0:15:55.96,0:15:59.99,Tanaka,,0,0,0,,I don't care, this is important
+Dialogue: 0,0:15:56.64,0:15:57.84,Inomoto,,0,0,0,,No I mean--
+Dialogue: 0,0:15:57.84,0:15:59.99,Inomoto,,0,0,0,,There are so many people watching us
+Dialogue: 0,0:16:01.44,0:16:04.98,Tanaka,,0,0,0,,{\pos(540.96,541.831)}Tell me your (phone) number!
+Dialogue: 0,0:16:02.46,0:16:03.98,Inomoto,,0,0,0,,Tanaka, please...{\rFujiwara}   Wait, Tanaka-
+Dialogue: 0,0:16:03.54,0:16:05.38,Up,,0,0,0,,{\c&H0372E3&}Hey, calm down
+Dialogue: 0,0:16:04.08,0:16:05.38,Inomoto,,0,0,0,,Tanaka...
+Dialogue: 0,0:16:04.98,0:16:07.48,Tanaka,,0,0,0,,{\pos(546.48,542.753)}Your number, please!
+Dialogue: 0,0:16:05.60,0:16:07.48,Inomoto,,0,0,0,,Calm down, Tanaka
+Dialogue: 0,0:16:06.04,0:16:08.08,Up,,0,0,0,,{\c&H0372E3&}Oh boy
+Dialogue: 0,0:16:07.48,0:16:08.82,Inomoto,,0,0,0,,Tanaka, please--
+Dialogue: 0,0:16:07.48,0:16:08.82,Fujiwara,,0,0,0,,Let's leave
+Dialogue: 0,0:16:08.94,0:16:13.76,Narrator,,0,0,0,,Once his lust kicks in, there's no way to stop it
+Dialogue: 0,0:16:12.08,0:16:14.11,Up,,0,0,0,,{\c&H1238E5&}Wow, they're surrounded
+Dialogue: 0,0:16:14.09,0:16:17.86,Tanaka,,0,0,0,,{\pos(546.48,544.596)}Oh boy, I wanna have sex
+Dialogue: 0,0:16:15.92,0:16:17.86,Inomoto,,0,0,0,,Your voice is too loud, Tanaka
+Dialogue: 0,0:16:17.86,0:16:19.33,Inomoto,,0,0,0,,We're in a shopping district...
+Dialogue: 0,0:16:19.50,0:16:23.50,Narrator,,0,0,0,,Tanaka is even more outspoken than before
+Dialogue: 0,0:16:24.60,0:16:26.84,Default,,0,0,0,,{\pos(552,543.674)\fs39.163}staff) You speak a lot about girls, don't you?
+Dialogue: 0,0:16:26.84,0:16:29.67,Tanaka,,0,0,0,,{\pos(552,543.674)\fs37.435}Well, my dick is always ready
+Dialogue: 0,0:16:29.67,0:16:32.68,Tanaka,,0,0,0,,{\pos(552,543.674)}But recently my sexual desires are impressive
+Dialogue: 0,0:16:31.10,0:16:32.68,Up,,0,0,0,,{\c&H1238E5&}The way he said "dick"...
+Dialogue: 0,0:16:33.54,0:16:35.98,Matsumoto,,0,0,0,,{\fs36.283\pos(557.52,527.318)}He put so much stress on the word "dick"!
+Dialogue: 0,0:16:36.18,0:16:40.02,Narrator,,0,0,0,,His growing desires are slammed against a vending machine
+Dialogue: 0,0:16:40.02,0:16:41.44,Up,,0,0,0,,{\c&H1238E5&}Oh!
+Dialogue: 0,0:16:40.38,0:16:41.44,Up,,0,0,0,,{\c&H0372E3&}Is that you?
+Dialogue: 0,0:16:41.44,0:16:42.90,Up,,0,0,0,,{\c&H1238E5&}You can't do that
+Dialogue: 0,0:16:43.72,0:16:46.59,Up,,0,0,0,,{\c&H1238E5&}That's messed up
+Dialogue: 0,0:16:44.48,0:16:46.59,Up,,0,0,0,,- The hell is he doing?
+Dialogue: 0,0:16:45.55,0:16:47.52,Fujiwara,,0,0,0,,Do you hate him?
+Dialogue: 0,0:16:46.82,0:16:49.69,Tanaka,,0,0,0,,{\fs38.587\pos(550.007,545.978)}No, I'm not angry!
+Dialogue: 0,0:16:49.06,0:16:50.36,Inomoto,,0,0,0,,Let's just stop doing this--
+Dialogue: 0,0:16:50.36,0:16:52.70,Inomoto,,0,0,0,,What are you doin--- seriously? Stop it!
+Dialogue: 0,0:16:52.70,0:16:54.18,Inomoto,,0,0,0,,What the hell, man
+Dialogue: 0,0:16:54.18,0:16:55.90,Inomoto,,0,0,0,,You're the worst!
+Dialogue: 0,0:16:53.46,0:16:55.16,Up,,0,0,0,,He has lost it
+Dialogue: 0,0:16:55.16,0:16:57.82,Up,,0,0,0,,{\c&H1238E5&}I would have killed him
+Dialogue: 0,0:16:56.02,0:16:57.82,Up,,0,0,0,,- He's crazy
+Dialogue: 0,0:16:56.52,0:16:59.97,Inomoto,,0,0,0,,Man, you're the worst!
+Dialogue: 0,0:16:58.48,0:16:59.97,Tanaka,,0,0,0,,It's fine
+Dialogue: 0,0:17:00.17,0:17:04.04,Tanaka,,0,0,0,,{\pos(550.16,541.831)}Inomoto, that's fine I say
+Dialogue: 0,0:17:00.90,0:17:04.04,Inomoto,,0,0,0,,Are you serious?
+Dialogue: 0,0:17:03.54,0:17:05.01,Up,,0,0,0,,{\c&H1238E5&}Fine? What's fine?
+Dialogue: 0,0:17:04.22,0:17:05.98,Narrator,,0,0,0,,This is close to madness
+Dialogue: 0,0:17:04.62,0:17:05.98,Tanaka,,0,0,0,,Come on now
+Dialogue: 0,0:17:05.98,0:17:07.11,Inomoto,,0,0,0,,That's too much, man
+Dialogue: 0,0:17:07.11,0:17:10.85,Narrator,,0,0,0,,And his fangs are ready to bite everything in this world
+Dialogue: 0,0:17:11.35,0:17:13.18,Tanaka,,0,0,0,,{\pos(549.24,544.596)}That looks delicious
+Dialogue: 0,0:17:12.58,0:17:14.32,Inomoto,,0,0,0,,Is that meat?
+Dialogue: 0,0:17:13.18,0:17:14.32,Tanaka,,0,0,0,,That's dry-cured ham
+Dialogue: 0,0:17:14.50,0:17:16.56,Up,,0,0,0,,{\c&H1238E5&}Don't tell me...
+Dialogue: 0,0:17:16.16,0:17:17.66,Inomoto,,0,0,0,,Oh no, quit it!
+Dialogue: 0,0:17:17.66,0:17:19.62,Up,,0,0,0,,{\c&H0372E3&}You can't do that!
+Dialogue: 0,0:17:18.04,0:17:19.62,Up,,0,0,0,,- Oi...
+Dialogue: 0,0:17:22.58,0:17:27.10,Narrator,,0,0,0,,He merciless bites off a dry-cured black iberian pig ham
+Dialogue: 0,0:17:23.02,0:17:25.68,Up,,0,0,0,,{\c&H1238E5&}He's pissing me off
+Dialogue: 0,0:17:25.68,0:17:27.06,Up,,0,0,0,,{\c&H0372E3&}It's hard to watch
+Dialogue: 0,0:17:27.06,0:17:30.60,Up,,0,0,0,,{\c&H1238E5&}This is too much
+Dialogue: 0,0:17:27.60,0:17:28.96,Fujiwara,,0,0,0,,What are you doing?
+Dialogue: 0,0:17:29.57,0:17:31.87,Tanaka,,0,0,0,,{\pos(552,543.674)}That was so delicious
+Dialogue: 0,0:17:32.30,0:17:34.87,Narrator,,0,0,0,,We thought "let's quit filming this"
+Dialogue: 0,0:17:35.04,0:17:38.57,Narrator,,0,0,0,,But just before we could finish that thought...
+Dialogue: 0,0:17:40.30,0:17:42.96,Narrator,,0,0,0,,We felt a thirst for blood in his eyes
+Dialogue: 0,0:17:43.10,0:17:46.58,Narrator,,0,0,0,,Looks like there's something in front of him
+Dialogue: 0,0:17:47.02,0:17:48.22,Fujiwara,,0,0,0,,What's wrong?
+Dialogue: 0,0:17:48.68,0:17:50.07,Inomoto,,0,0,0,,What happened?
+Dialogue: 0,0:17:52.34,0:17:54.20,Inomoto,,0,0,0,,Wait!
+Dialogue: 0,0:17:52.72,0:17:54.20,Fujiwara,,0,0,0,,Eh!?
+Dialogue: 0,0:17:52.10,0:17:53.74,Up,,0,0,0,,{\c&H0372E3&}No way
+Dialogue: 0,0:17:53.74,0:17:55.24,Up,,0,0,0,,Hey, hey, hey...
+Dialogue: 0,0:17:55.24,0:17:58.36,Up,,0,0,0,,That's too much
+Dialogue: 0,0:17:55.24,0:17:56.60,Inomoto,,0,0,0,,Wait, calm down
+Dialogue: 0,0:17:56.60,0:17:58.99,Inomoto,,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:17:57.06,0:17:58.99,Fujiwara,,0,0,0,,{\pos(543.72,544.596)}What was that for?
+Dialogue: 0,0:17:58.36,0:18:01.60,Up,,0,0,0,,Oh man, it's hard to watch
+Dialogue: 0,0:17:58.99,0:18:02.06,Inomoto,,0,0,0,,Was that necessary?
+Dialogue: 0,0:18:00.30,0:18:02.06,Default,,0,0,0,,Camera!
+Dialogue: 0,0:18:02.42,0:18:05.41,Up,,0,0,0,,That must have triggered him
+Dialogue: 0,0:18:03.96,0:18:05.41,Up,,0,0,0,,{\c&H0372E3&}- That's right
+Dialogue: 0,0:18:05.31,0:18:07.74,Inomoto,,0,0,0,,What--- how much for these?
+Dialogue: 0,0:18:08.20,0:18:15.03,Narrator,,0,0,0,,Just like a volcano, Tanaka's dormant\Ndangerous sentiments exploded
+Dialogue: 0,0:18:12.07,0:18:16.08,Default,,0,0,0,,{\fs43.194\blur1.728\bord2.88\fade(250,0)\c&H00F6F4&\pos(328.287,499.904)}Dangerous sentiments...{\i0}
+Dialogue: 0,0:18:16.41,0:18:21.05,Default,,0,0,0,,{\fade(250,250)\blur1.728\bord2.88\fs43.194\pos(816.5,503.359)\c&H163BED&}Forbidden watermelon{\i0}
+Dialogue: 0,0:18:17.20,0:18:20.93,Narrator,,0,0,0,,It was the forbidden fruit, the watermelon...
+Dialogue: 0,0:18:21.78,0:18:24.79,Tanaka,,0,0,0,,{\fs37.435\fade(250,0)\pos(551.08,543.674)}It's always like that
+Dialogue: 0,0:18:22.98,0:18:24.79,Default,,0,0,0,,Is that so?
+Dialogue: 0,0:18:25.22,0:18:28.96,Tanaka,,0,0,0,,{\pos(552,543.674)}Whenever I see a watermelon, I start punching 'em around
+Dialogue: 0,0:18:30.08,0:18:34.65,Narrator,,0,0,0,,And yet, his eyes looked lonely to us
+Dialogue: 0,0:18:31.36,0:18:36.03,Default,,0,0,0,,{\fade(250,250)\fs47.226\bord2.88\blur1.728\pos(546.48,514.187)}That sad look in his eyes worried us...
+Dialogue: 0,0:18:36.78,0:18:42.21,Narrator,,0,0,0,,One day we happened to see a new\Nface at the game center at night
+Dialogue: 0,0:18:37.10,0:18:42.04,Default,,0,0,0,,{\fs28.796\fade(250,250)\pos(960.48,543.674)}6th day of filming
+Dialogue: 0,0:18:42.91,0:18:48.94,Hamada,,0,0,0,,{\fade(250,250)\fs57.593\bord2.88\blur1.728\shad0\c&HAD68FE&\pos(427.34,501.056)}A paradise for lovers
+Dialogue: 0,0:18:43.60,0:18:48.21,Narrator,,0,0,0,,That's a place commonly associated with couples
+Dialogue: 0,0:18:49.62,0:18:53.88,Narrator,,0,0,0,,And then we realized Tanaka was part of them
+Dialogue: 0,0:18:53.88,0:18:55.16,Default,,0,0,0,,I like you!
+Dialogue: 0,0:18:55.28,0:18:56.54,Tanaka,,0,0,0,,That's it?
+Dialogue: 0,0:18:57.75,0:19:02.42,Default,,0,0,0,,{\fs48.954\bord2.88\blur1.728\fade(250,0)\c&H00F6F4&\pos(557.52,506.354)}We couldn't believe our eyes...{\i0}
+Dialogue: 0,0:18:58.46,0:19:02.42,Default,,0,0,0,,And there we saw something we couldn't believe...
+Dialogue: 0,0:19:02.76,0:19:09.80,Hamada,,0,0,0,,{\fade(250,0)\c&H000000&\4c&H000000&\pos(162.227,434.018)}Coming next
+Dialogue: 0,0:19:02.76,0:19:09.80,Hamada,,0,0,0,,{\fs37.435\fade(250,0)\c&H1717E6&\4c&H000000&\pos(661.48,498.521)}Something unprecedented at the game center!!
+Dialogue: 0,0:19:05.70,0:19:07.68,Endo,,0,0,0,,What is he doing?   {\rMatsumoto}No way
+Dialogue: 0,0:19:07.68,0:19:09.80,Hamada,,0,0,0,,This guy...   {\rMatsumoto}That's not ok
+Dialogue: 0,0:19:10.77,0:19:15.24,Default,,0,0,0,,{\fs28.796\fade(250,250)\pos(960.48,544.058)}6th day of filming
+Dialogue: 0,0:19:11.26,0:19:17.57,Narrator,,0,0,0,,We happened to see Tanaka in a game center during the night...
+Dialogue: 0,0:19:19.26,0:19:22.21,Narrator,,0,0,0,,The reason why he's here today...
+Dialogue: 0,0:19:22.84,0:19:28.24,Narrator,,0,0,0,,Is to spend his free time with his secret lover...
+Dialogue: 0,0:19:23.51,0:19:29.05,Default,,0,0,0,,{\bord2.88\blur1.728\fs46.074\fade(250,250)\c&HD025E0&\pos(747.96,503.129)}Secret date with his lover...
+Dialogue: 0,0:19:28.60,0:19:31.08,Default,,0,0,0,,You're pretty good at this
+Dialogue: 0,0:19:29.58,0:19:31.08,Tanaka,,0,0,0,,I'm almost there
+Dialogue: 0,0:19:31.80,0:19:34.38,Tanaka,,0,0,0,,Come here, come here!
+Dialogue: 0,0:19:34.62,0:19:36.04,Tanaka,,0,0,0,,That's a lot
+Dialogue: 0,0:19:32.10,0:19:36.04,Narrator,,0,0,0,,It feels as if they just fell in love with each other
+Dialogue: 0,0:19:36.78,0:19:38.82,Narrator,,0,0,0,,So we decided to quit filming
+Dialogue: 0,0:19:38.96,0:19:41.08,Narrator,,0,0,0,,But as soon as we decided that...
+Dialogue: 0,0:19:41.08,0:19:42.03,Default,,0,0,0,,This one here
+Dialogue: 0,0:19:42.03,0:19:43.73,Tanaka,,0,0,0,,That's really cute, isn't it?
+Dialogue: 0,0:19:42.80,0:19:44.10,Default,,0,0,0,,It is
+Dialogue: 0,0:19:43.73,0:19:44.93,Tanaka,,0,0,0,,It's cute
+Dialogue: 0,0:19:45.02,0:19:46.57,Tanaka,,0,0,0,,Just like you
+Dialogue: 0,0:19:49.76,0:19:52.64,Tanaka,,0,0,0,,What are you doing?
+Dialogue: 0,0:19:50.64,0:19:52.64,Default,,0,0,0,,{\pos(552,543.674)}It's so embarrassing!
+Dialogue: 0,0:19:50.44,0:19:51.62,Up,,0,0,0,,{\c&H1238E5&}No way
+Dialogue: 0,0:19:51.92,0:19:52.94,Up,,0,0,0,,{\c&H1238E5&}I hate this
+Dialogue: 0,0:19:52.94,0:19:54.69,Up,,0,0,0,,What the hell
+Dialogue: 0,0:19:52.84,0:19:55.97,Narrator,,0,0,0,,Tanaka was completely defenseless
+Dialogue: 0,0:19:57.44,0:20:04.27,Narrator,,0,0,0,,If this kind of info gets on the media, Tanaka's comedian career could be ruined for good
+Dialogue: 0,0:20:04.42,0:20:07.09,Narrator,,0,0,0,,Given that he has a wife and kids
+Dialogue: 0,0:20:07.09,0:20:10.16,Default,,0,0,0,,{\pos(550.16,544.596)}I'm embarrassed...
+Dialogue: 0,0:20:07.62,0:20:10.16,Tanaka,,0,0,0,,Come on, baby
+Dialogue: 0,0:20:08.78,0:20:10.16,Up,,0,0,0,,{\c&H0372E3&}The hell is he doing?
+Dialogue: 0,0:20:10.16,0:20:13.03,Tanaka,,0,0,0,,{\pos(552,543.674)}What are you embarrassed for?
+Dialogue: 0,0:20:10.16,0:20:11.36,Up,,0,0,0,,{\c&H1238E5&}What the fuck
+Dialogue: 0,0:20:13.48,0:20:16.20,Up,,0,0,0,,{\c&H0372E3&}Just stop it, please
+Dialogue: 0,0:20:13.66,0:20:16.20,Up,,0,0,0,,{\c&H1238E5&}- What's this?!
+Dialogue: 0,0:20:15.42,0:20:23.45,Narrator,,0,0,0,,We can say he's the first comedian who made such a complete transformation
+Dialogue: 0,0:20:19.20,0:20:21.10,Up,,0,0,0,,{\c&H1238E5&}Is this legal?
+Dialogue: 0,0:20:21.10,0:20:22.81,Up,,0,0,0,,{\c&H0372E3&}I don't know anymore
+Dialogue: 0,0:20:22.81,0:20:25.21,Up,,0,0,0,,{\c&H1238E5&}Check out her calve muscles
+Dialogue: 0,0:20:25.50,0:20:28.41,Up,,0,0,0,,{\c&H1238E5&}They felt incomplete
+Dialogue: 0,0:20:26.34,0:20:28.41,Up,,0,0,0,,{\c&H1EBB1B&}- You're right
+Dialogue: 0,0:20:25.74,0:20:30.81,Narrator,,0,0,0,,We couldn't just stay still in front of a colleague of ours
+Dialogue: 0,0:20:31.38,0:20:35.45,Default,,0,0,0,,{\pos(552,543.674)\fs43.194}staff) Tanaka, Tanaka
+Dialogue: 0,0:20:35.45,0:20:36.52,Default,,0,0,0,,Sorry
+Dialogue: 0,0:20:36.92,0:20:38.59,Tanaka,,0,0,0,,You...
+Dialogue: 0,0:20:37.64,0:20:38.59,Default,,0,0,0,,'Evening
+Dialogue: 0,0:20:38.59,0:20:41.32,Tanaka,,0,0,0,,{\pos(552,543.674)}What are you filming?
+Dialogue: 0,0:20:39.40,0:20:41.32,Default,,0,0,0,,Sorry for this
+Dialogue: 0,0:20:42.06,0:20:45.39,Default,,0,0,0,,{\fs40.315\pos(556.6,545.517)}staff) Is that your girlfriend?
+Dialogue: 0,0:20:43.38,0:20:45.39,Tanaka,,0,0,0,,That's right
+Dialogue: 0,0:20:45.39,0:20:48.30,Default,,0,0,0,,{\fs43.194\pos(558.44,545.517)}staff) Have you been dating for long?
+Dialogue: 0,0:20:46.14,0:20:47.58,Tanaka,,0,0,0,,Not really
+Dialogue: 0,0:20:48.98,0:20:52.50,Default,,0,0,0,,{\pos(552,543.674)}staff) I've been filming you for some time by now
+Dialogue: 0,0:20:52.50,0:20:54.50,Default,,0,0,0,,{\pos(552,543.674)}staff) It's been some time
+Dialogue: 0,0:20:54.90,0:20:57.47,Tanaka,,0,0,0,,{\pos(552,543.674)}Why are you filming us?
+Dialogue: 0,0:20:57.70,0:21:00.69,Default,,0,0,0,,As a tv star, you should avoid doing such things
+Dialogue: 0,0:21:00.82,0:21:03.01,Tanaka,,0,0,0,,But-- I mean...
+Dialogue: 0,0:21:03.31,0:21:06.05,Tanaka,,0,0,0,,{\pos(552,543.674)}I have no problems with it
+Dialogue: 0,0:21:09.80,0:21:12.60,Up,,0,0,0,,{\c&H0372E3&}The hell is he doing?
+Dialogue: 0,0:21:10.58,0:21:12.60,Up,,0,0,0,,- Seriously, what the...
+Dialogue: 0,0:21:12.24,0:21:14.58,Narrator,,0,0,0,,We are left speechless
+Dialogue: 0,0:21:12.86,0:21:14.88,Up,,0,0,0,,{\c&H1238E5&}It's hard to watch
+Dialogue: 0,0:21:13.46,0:21:14.88,Up,,0,0,0,,{\c&H0372E3&}- I'm really sorry
+Dialogue: 0,0:21:14.88,0:21:17.88,Up,,0,0,0,,I don't know what to think
+Dialogue: 0,0:21:15.78,0:21:17.88,Up,,0,0,0,,{\c&H0372E3&}- Yeah...
+Dialogue: 0,0:21:14.76,0:21:18.60,Narrator,,0,0,0,,This went way beyond what we would have thought of
+Dialogue: 0,0:21:18.79,0:21:21.00,Tanaka,,0,0,0,,{\fs36.283\pos(545.56,543.674)}Quit filming, you
+Dialogue: 0,0:21:18.79,0:21:21.00,Up,,0,0,0,,The hell is this?
+Dialogue: 0,0:21:26.37,0:21:32.17,Default,,0,0,0,,{\fs43.194\bord2.88\blur1.728\fade(250,0)\pos(560.28,514.187)\i1}Carrying loneliness on his back...{\i0}
+Dialogue: 0,0:21:21.66,0:21:25.77,Narrator,,0,0,0,,We couldn't sense any happiness in him leaving with his lover
+Dialogue: 0,0:21:25.77,0:21:30.91,Narrator,,0,0,0,,All we could sense was his poorly concealed loneliness...
+Dialogue: 0,0:21:32.17,0:21:36.22,Hamada,,0,0,0,,I'm not used to see him stand out so much
+Dialogue: 0,0:21:33.96,0:21:36.22,Endo,,0,0,0,,Yeah, that's incredible
+Dialogue: 0,0:21:36.22,0:21:37.45,Hosei,,0,0,0,,I agree
+Dialogue: 0,0:21:37.45,0:21:40.95,Inomoto,,0,0,0,,{\pos(552,526.166)}Even the other folks were awful, saying "Our Tanaka" here and there
+Dialogue: 0,0:21:38.52,0:21:39.80,Hamada,,0,0,0,,Yeah, right
+Dialogue: 0,0:21:40.95,0:21:42.54,Fujiwara,,0,0,0,,Q-taro couldn't stop saying it
+Dialogue: 0,0:21:42.54,0:21:45.10,Hamada,,0,0,0,,Yeah, that guys sucks too
+Dialogue: 0,0:21:44.05,0:21:48.56,Matsumoto,,0,0,0,,{\a1\pos(227.547,459.282)}You could explain to me the meaning of \N"Our Tanaka" a thousand times, I'd never get it
+Dialogue: 0,0:21:46.94,0:21:48.56,Fujiwara,,0,0,0,,Same for us, actually
+Dialogue: 0,0:21:46.94,0:21:48.56,Inomoto,,0,0,0,,I have no clue
+Dialogue: 0,0:21:48.56,0:21:55.43,Inomoto,,0,0,0,,{\a1\pos(277.84,461.662)}By the way, that guy you saw sometimes \Non camera is an actor called Mr. Taka
+Dialogue: 0,0:21:53.06,0:21:55.43,Hosei,,0,0,0,,Oh, is he an actor?
+Dialogue: 0,0:21:55.43,0:21:56.46,Matsumoto,,0,0,0,,That's a big problem
+Dialogue: 0,0:21:55.53,0:21:59.74,Hamada,,0,0,0,,{\bord2.304\fade(250,0)\c&H000000&\4c&H000000&\pos(199.64,531.004)}Coming next
+Dialogue: 0,0:21:55.53,0:21:59.74,Hamada,,0,0,0,,{\fs51.833\bord2.88\shad2.88\fade(250,0)\c&H1718E7&\4c&H000000&\pos(657.647,504.05)}The eccentric man appears!!
+Dialogue: 0,0:21:56.46,0:21:57.66,Hamada,,0,0,0,,Is that his type?
+Dialogue: 0,0:21:57.66,0:21:59.28,Hamada,,0,0,0,,Oh?
+Dialogue: 0,0:21:58.00,0:21:59.28,Tanaka,,0,0,0,,'Morning
+Dialogue: 0,0:22:00.12,0:22:02.35,Hosei,,0,0,0,,What should we do?
+Dialogue: 0,0:22:01.00,0:22:04.81,Endo,,0,0,0,,{\fs46.074\pos(554.76,527.087)}I mean, he felt very lonely...
+Dialogue: 0,0:22:03.14,0:22:04.81,Matsumoto,,0,0,0,,Even if you say so
+Dialogue: 0,0:22:04.81,0:22:09.68,Matsumoto,,0,0,0,,{\fs46.074\pos(552,528.009)}He still has his calve muscles lady with him
+Dialogue: 0,0:22:06.90,0:22:09.68,Hosei,,0,0,0,,Yeah, she had some bruises too
+Dialogue: 0,0:22:09.68,0:22:12.38,Matsumoto,,0,0,0,,{\fs40.315\pos(547.4,527.087)}That's a big problem
+Dialogue: 0,0:22:10.65,0:22:11.90,Hosei,,0,0,0,,Yeah...
+Dialogue: 0,0:22:10.65,0:22:11.90,Hamada,,0,0,0,,Is that his type?
+Dialogue: 0,0:22:11.90,0:22:13.32,Hamada,,0,0,0,,Oh?
+Dialogue: 0,0:22:12.16,0:22:13.32,Tanaka,,0,0,0,,'Morning
+Dialogue: 0,0:22:13.32,0:22:14.53,Hosei,,0,0,0,,It's Tanaka
+Dialogue: 0,0:22:14.72,0:22:16.19,Matsumoto,,0,0,0,,Tanaka?
+Dialogue: 0,0:22:15.22,0:22:16.19,Hosei,,0,0,0,,Wait
+Dialogue: 0,0:22:16.19,0:22:17.35,Matsumoto,,0,0,0,,Man, you're...
+Dialogue: 0,0:22:17.95,0:22:19.70,Tanaka,,0,0,0,,Good morning, Matsumoto
+Dialogue: 0,0:22:17.95,0:22:19.70,Endo,,0,0,0,,Have you lost it?
+Dialogue: 0,0:22:19.70,0:22:21.36,Hosei,,0,0,0,,Don't just... Not like this
+Dialogue: 0,0:22:20.66,0:22:22.79,Hamada,,0,0,0,,It's all out, man
+Dialogue: 0,0:22:21.36,0:22:22.79,Endo,,0,0,0,,Quit it already!
+Dialogue: 0,0:22:22.79,0:22:25.99,Tanaka,,0,0,0,,{\fs38.587\pos(552.92,527.087)}I've said it before, haven't I? "I'll go around naked", didn't I?
+Dialogue: 0,0:22:25.99,0:22:28.43,Tanaka,,0,0,0,,{\fs40.315\pos(558.44,527.087)}And here I am, naked!
+Dialogue: 0,0:22:26.66,0:22:28.78,Hosei,,0,0,0,,Yeah let's just stop---
+Dialogue: 0,0:22:27.30,0:22:28.78,Hamada,,0,0,0,,We got it, alright...
+Dialogue: 0,0:22:28.78,0:22:30.43,Tanaka,,0,0,0,,This is a small watermelon
+Dialogue: 0,0:22:30.73,0:22:32.53,Tanaka,,0,0,0,,{\fs46.074\pos(555.68,529.852)}It's really good
+Dialogue: 0,0:22:31.52,0:22:32.88,Matsumoto,,0,0,0,,You're shouting so much
+Dialogue: 0,0:22:32.53,0:22:36.04,Tanaka,,0,0,0,,{\fs54.713\bord2.304\pos(552,516.951)}This is really good, please eat it up guys!
+Dialogue: 0,0:22:34.34,0:22:36.04,Matsumoto,,0,0,0,,Sure...
+Dialogue: 0,0:22:34.34,0:22:36.04,Hamada,,0,0,0,,Got it, got it
+Dialogue: 0,0:22:36.24,0:22:38.81,Tanaka,,0,0,0,,{\fs57.593\bord2.304\pos(566.72,508.658)}Now, let's go filming!
+Dialogue: 0,0:22:37.42,0:22:39.66,Hamada,,0,0,0,,Go wear a jersey
+Dialogue: 0,0:22:39.66,0:22:41.80,Hamada,,0,0,0,,Dress up first
+Dialogue: 0,0:22:41.80,0:22:43.01,Hamada,,0,0,0,,Your jersey
+Dialogue: 0,0:22:43.01,0:22:46.12,Matsumoto,,0,0,0,,{\pos(552,526.166)\fs36.859}If you wanted to go naked, then why are you wearing panties?
+Dialogue: 0,0:22:46.12,0:22:48.25,Tanaka,,0,0,0,,{\pos(694.6,374.352)}Oh fuck
+Dialogue: 0,0:22:49.39,0:22:52.02,Tanaka,,0,0,0,,{\pos(766.667,372.97)}This guy is pissing me off so much
+Dialogue: 0,0:22:50.80,0:22:52.94,Hamada,,0,0,0,,Quit it, Tanaka
+Dialogue: 0,0:22:51.68,0:22:52.94,Matsumoto,,0,0,0,,What now
+Dialogue: 0,0:22:53.12,0:22:54.42,Endo,,0,0,0,,What are you-!?
+Dialogue: 0,0:22:54.09,0:22:57.33,Default,,0,0,0,,{\fade(250,0)\pos(529,488.385)}Producer
+Dialogue: 0,0:22:54.09,0:22:57.33,Default,,0,0,0,,{\fade(250,0)\4c&HFD31F9&\pos(543.72,540.219)}Nakamura Yoshinobu
+Dialogue: 0,0:22:54.88,0:22:55.54,Hamada,,0,0,0,,What is...?
+Dialogue: 0,0:22:55.54,0:22:57.08,Matsumoto,,0,0,0,,This is no good   {\rTanaka}Understood?!
+Dialogue: 0,0:22:57.08,0:22:57.63,Matsumoto,,0,0,0,,You can't
+Dialogue: 0,0:22:57.63,0:23:02.00,Tanaka,,0,0,0,,{\fs44.922\bord2.304\shad2.304\pos(551.08,487.464)\c&H7A0C79&\4c&H382179&}That's what ya get from the watermelon dropper!!
+Dialogue: 0,0:23:02.23,0:23:04.73,Tanaka,,0,0,0,,{\fs44.922\bord2.304\shad2.304\c&H7A0C79&\4c&H382179&\pos(543.72,441.39)}Remember that!!
+Dialogue: 0,0:23:03.38,0:23:04.73,Matsumoto,,0,0,0,,It's our producer, you know
+Dialogue: 0,0:23:04.73,0:23:07.10,Tanaka,,0,0,0,,{\pos(548.32,513.265)\fs48.954\bord2.304}I'm going ahead first!
+Dialogue: 0,0:23:07.10,0:23:10.91,Matsumoto,,0,0,0,,{\fs38.587\pos(556.6,528.93)}How can we start filming with this atmosphere...?
+Dialogue: 0,0:23:08.96,0:23:10.91,Endo,,0,0,0,,Yeah...
+Dialogue: 0,0:23:10.91,0:23:11.94,Hamada,,0,0,0,,He's crazy
+Dialogue: 0,0:23:11.94,0:23:14.88,Fujiwara,,0,0,0,,Do we have a towel here?
+Dialogue: 0,0:23:12.86,0:23:14.88,Endo,,0,0,0,,My partner has lost it
+Dialogue: 0,0:23:14.88,0:23:20.22,Matsumoto,,0,0,0,,{\fs44.346\bord2.016\pos(550.16,528.009)}And for some reason Nakamura got involved in this
+Dialogue: 0,0:23:14.88,0:23:17.63,Endo,,0,0,0,,I'm sorry about this
+Dialogue: 0,0:23:17.85,0:23:20.22,Hosei,,0,0,0,,He snapped at him
+Dialogue: 0,0:23:20.22,0:23:21.46,Hamada,,0,0,0,,He's --- oh no
+Dialogue: 0,0:23:20.88,0:23:22.82,Endo,,0,0,0,,Oh shit he's back
+Dialogue: 0,0:23:21.46,0:23:22.82,Fujiwara,,0,0,0,,Watch out!
+Dialogue: 0,0:23:23.86,0:23:25.88,Endo,,0,0,0,,What the hell, man...
+Dialogue: 0,0:23:25.88,0:23:27.18,Tanaka,,0,0,0,,I'll wait for ya!
+Dialogue: 0,0:23:27.18,0:23:28.14,Matsumoto,,0,0,0,,Sure, whatever
+Dialogue: 0,0:23:28.14,0:23:29.39,Tanaka,,0,0,0,,I'll wait
+Dialogue: 0,0:23:27.78,0:23:29.39,Hamada,,0,0,0,,Got it, just go
+Dialogue: 0,0:23:29.62,0:23:32.44,Fujiwara,,0,0,0,,Sure, go ahead
+Dialogue: 0,0:23:29.62,0:23:32.44,Endo,,0,0,0,,Wear your jersey, man!
+Dialogue: 0,0:23:32.92,0:23:36.10,Matsumoto,,0,0,0,,Nakamura is completely drenched in watermelon
+Dialogue: 0,0:23:33.60,0:23:36.10,Endo,,0,0,0,,That's too much...
+Dialogue: 0,0:23:34.96,0:23:36.10,Hosei,,0,0,0,,Sorry about this
+Dialogue: 0,0:23:36.10,0:23:36.86,Default,,0,0,0,,It's fine
+Dialogue: 0,0:23:36.86,0:23:39.84,Matsumoto,,0,0,0,,Anyway, what should we do about---
+Dialogue: 0,0:23:39.84,0:23:41.54,Hamada,,0,0,0,,He's here again
+Dialogue: 0,0:23:40.36,0:23:41.54,Inomoto,,0,0,0,,Again?!
+Dialogue: 0,0:23:43.94,0:23:45.44,Inomoto,,0,0,0,,Stop it!
+Dialogue: 0,0:23:43.94,0:23:45.44,Tanaka,,0,0,0,,Let's go!!
+Dialogue: 0,0:23:45.94,0:23:47.00,Tanaka,,0,0,0,,I'll wait for ya
+Dialogue: 0,0:23:47.00,0:23:48.82,Inomoto,,0,0,0,,We're coming
+Dialogue: 0,0:23:47.50,0:23:49.88,Endo,,0,0,0,,It made a weird sound
+Dialogue: 0,0:23:48.82,0:23:49.88,Tanaka,,0,0,0,,Come on!
+Dialogue: 0,0:23:49.88,0:23:51.78,Fujiwara,,0,0,0,,We're coming, we're coming
+Dialogue: 0,0:23:51.78,0:23:53.64,Endo,,0,0,0,,His head made a weird sound
+Dialogue: 0,0:23:50.55,0:23:52.45,Tanaka,,0,0,0,,What are ya waitin' for?!
+Dialogue: 0,0:23:52.45,0:23:53.64,Matsumoto,,0,0,0,,He has lost it
+Dialogue: 0,0:23:53.64,0:23:56.29,Hosei,,0,0,0,,Let's just go
+Dialogue: 0,0:23:53.64,0:23:56.29,Inomoto,,0,0,0,,Yeah, let's not waste time
+Dialogue: 0,0:23:56.45,0:24:04.19,Impact,,0,0,0,,{\fade(250,0)\i1\pos(542.8,577.078)\c&HFFFFFF&\1a&H77&\3c&H000000&\3a&H98&\4c&H000000&\4a&HE7&}The Tanaka stalking VTR are all fictional.\NEven the objects Tanaka interacted with\NAnd the people he came in contact with\NWere all staged and prepared in advance.{\i0}
+Dialogue: 0,0:24:04.19,0:24:09.77,Credits,,0,0,0,,{\pos(9.2,2.304)\fscx212.99\fscy251}TRANSLATION BY {\c&H16D6FF&}SHION\N{\c&HFFFFFF&}TYPESET & QC BY {\c&H16D6FF&}KEDOMAS\N\N{\fs23.037\c&HFFFFFF&}VISIT {\c&H87C8FF&}SHIONNOTSUKAI.WORDPRESS.COM{\c&HFFFFFF&} FOR MORE EPISODES!\N\NHOW TO SUPPORT THIS PROJECT:\N\N- LIKE {\c&HFFA980&}FB PAGE {\c&HFFFFFF&}@{\c&HFFA980&}FB.COM/SHIONNOTSUKAI{\c&HFFFFFF&}\N- FOLLOW {\c&HEFFD9B&}@SHIONNOTSUKAI {\c&HFFFFFF&}ON {\c&HEFFD9B&}TWITTER{\c&HFFFFFF&}\N- DONATE @{\c&HFFCBEF&}KO-FI.COM/SHIONNOTSUKAI{\c&HFFFFFF&}\N- BECOME A PATRON {\c&HACACFF&}@PATREON.COM/SHIONNOTSUKAI
+

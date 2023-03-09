@@ -1,0 +1,820 @@
+﻿[Script Info]
+Title: New subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: C:/Users/Scion/Downloads/Gaki no Tsukai #1309 (2016.06.12) - 6th Silent Library (2).mp4
+Video File: C:/Users/Scion/Downloads/Gaki no Tsukai #1309 (2016.06.12) - 6th Silent Library (2).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 713
+Active Line: 743
+Video Position: 43448
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,23,23,23,1
+Style: Hamada,Arial,62,&H008B2013,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,9,2,10,10,10,1
+Style: Matsu,Arial,62,&H000000B8,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Housei,Arial,62,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Endo,Arial,62,&H000061CD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Tanaka,Arial,62,&H00970081,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Narrator,Arial,62,&H003C3C3C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Guest,Arial,62,&H008E7217,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Info Text,Arial,48,&H00FFFFFF,&H000000FF,&H942B2B2B,&H71363636,-1,0,0,0,100,100,0,0,3,10,6,2,10,10,10,1
+Style: Brown,Arial,62,&H000B3764,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Thin Black Text,Arial,68,&H00000000,&H000000FF,&H00FFFFFF,&HADFFFFFF,-1,0,0,0,100,100,0,0,1,6,10,2,10,10,10,1
+Style: Group,Arial,62,&H008D15B1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,9,2,10,10,10,1
+Style: Note Bright,Arial,42,&H004F4D02,&H000000FF,&H00F9FFE4,&H00C6EA0A,-1,0,0,0,100,100,0,0,1,4,6,8,10,10,10,1
+Style: PurpleOutline,Arial,52,&H00FFFFFF,&H000000FF,&H00970081,&H00000000,-1,0,0,0,100,100,0,0,1,5,6,5,10,10,10,1
+Style: Title Orange,Arial,58,&H0084C7FF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: BoardText,Arial,52,&H005DF9FF,&H000000FF,&H0006234D,&H00000000,-1,0,0,0,100,100,0,0,1,5,7,7,10,10,10,1
+Style: RedOutline,Arial,52,&H00FFFFFF,&H000000FF,&H00000097,&H00000000,-1,0,0,0,100,100,0,0,1,5,6,5,10,10,10,1
+Style: WhiteT,Arial,82,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,10,2,10,10,10,1
+Style: Credit,Arial,32,&H00F1F1F1,&H000000FF,&H001E1E1E,&H00383838,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Info TextS,Arial,42,&H00FFFFFF,&H000000FF,&HA82B2B2B,&H6C363636,-1,0,0,0,100,100,0,0,3,12,5,2,10,10,10,1
+Style: RedTextBox,Arial,38,&H9926268D,&H000000FF,&H9122237D,&H872F2F81,-1,0,0,0,100,130,0,0,3,4,4,2,10,10,10,1
+Style: GreenTextBox,Arial,38,&H993C7234,&H000000FF,&H913C7234,&H873C7234,-1,0,0,0,100,130,0,0,3,4,4,2,10,10,10,1
+Style: PurpleTextBox,Arial,38,&H998A356D,&H000000FF,&H918A356D,&H878A356D,-1,0,0,0,100,130,0,0,3,4,4,2,10,10,10,1
+Style: RedT,Arial,82,&H00000081,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,10,5,10,10,10,1
+Style: YellowT,Arial,82,&H007BFFFD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,10,5,10,10,10,1
+Style: BoxText,Arial,52,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,10,0,2,10,10,10,1
+Style: BoxBG,Arial,52,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,5,0,2,10,10,10,1
+Style: JP,Arial,62,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,3,15,0,8,10,10,10,1
+Style: RedT2,Arial,72,&H000000AF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,8,5,10,10,10,1
+Style: Shine,Arial,72,&H43FFFFFF,&H000000FF,&H13FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,5,10,10,10,1
+Style: Shine2,Arial,72,&HFFFFFFFF,&H000000FF,&H79FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,10,0,5,10,10,10,1
+Style: GuestN,Arial,62,&H00FFFFFF,&H000000FF,&H008E7217,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: BlueOutline,Arial,52,&H00FFFFFF,&H000000FF,&H007F7C01,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,5,10,10,10,1
+Style: GreenOutline,Arial,52,&H00FFFFFF,&H000000FF,&H00148000,&H00000000,-1,0,0,0,100,100,0,0,1,5,6,5,10,10,10,1
+Style: OrangeOutline,Arial,52,&H00FFFFFF,&H000000FF,&H00004B97,&H00000000,-1,0,0,0,100,100,0,0,1,5,6,5,10,10,10,1
+Style: CardText,Arial,48,&H00000000,&H000000FF,&H00FBFBFB,&H00000000,-1,0,0,0,100,100,0,0,3,1,0,2,10,10,10,1
+Style: BoxName,Arial,52,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,1
+Style: BoxBGRed,Arial,52,&HFF0000B9,&H000000FF,&H3F0000B9,&H00000000,-1,0,0,0,100,100,0,0,3,5,0,2,10,10,10,1
+Style: BoxNameBG,Arial,52,&HFFFFFFFF,&H000000FF,&H3FFFFFFF,&H00000000,-1,0,0,0,100,100,0,0,3,5,0,2,10,10,10,1
+Style: BatsuName,Arial,72,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,5,10,10,10,1
+Style: BatsuNameB,Arial,72,&H00000000,&H000000FF,&H000000CC,&H00000000,-1,0,0,0,100,100,0,0,1,13,0,5,10,10,10,1
+Style: BatsuB,Arial,72,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,13,0,5,10,10,10,1
+Style: Title RedS,Arial,52,&H008CE8FF,&H000000FF,&H000000A8,&H00000000,-1,0,0,0,100,100,0,0,1,8,10,7,10,10,10,1
+Style: BlackT,Arial,72,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,10,5,10,10,10,1
+Style: CardTextOld,Arial,48,&H00000000,&H000000FF,&H00E7E7F0,&H00000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,1
+Style: BoxBGGreen,Arial,52,&HFF04B900,&H000000FF,&H3F04B900,&H00000000,-1,0,0,0,100,120,0,0,3,5,0,2,10,10,10,1
+Style: BoxBGBlack,Arial,52,&HFF191919,&H000000FF,&H3F191919,&H00000000,-1,0,0,0,100,140,0,0,3,5,0,2,10,10,10,1
+Style: YellowTGlow,Arial,82,&H00E2FFFE,&H000000FF,&H00E2FFFE,&H00000000,-1,0,0,0,100,100,0,0,1,15,0,5,10,10,10,1
+Style: RedYT,Arial,82,&H002626C7,&H000000FF,&H00C4FFFD,&H00000000,-1,0,0,0,100,100,0,0,1,6,10,5,10,10,10,1
+Style: Shine3,Arial,72,&H4365F9FF,&H000000FF,&H1365F9FF,&H00000000,-1,0,0,0,100,100,0,0,1,6,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:17.93,Credit,,0,0,0,,{\an7\fad(200,300)\pos(19.6,19.8)}Subbed by Mickstar813 (Team Gaki) & HouseiGIFs
+Dialogue: 0,0:00:11.49,0:00:17.93,WhiteT,,0,0,0,,{\fad(300,300)\bord4\shad5\an1\fs42\pos(269,187.333)}Narrator:\NYamada\NShinichi
+Dialogue: 0,0:00:00.61,0:00:06.12,Thin Black Text,,0,0,0,,{\fs46\fad(200,0)\pos(1228,75)}Previous Week
+Dialogue: 0,0:00:06.32,0:00:11.12,YellowTGlow,,0,0,0,,{\fad(400,0)\blur10\fs86\fscy132\pos(733.5,729)}Back after 8 years:\N\NSilent Library
+Dialogue: 0,0:00:06.82,0:00:11.12,RedYT,,0,0,0,,{\fad(150,0)\pos(733.5,729)}Back after 8 years:\N\N\N{\c&HDC8124&}Silent Library
+Dialogue: 0,0:00:06.69,0:00:08.45,Narrator,,0,0,0,,With Azuma Mikihisa as a guest
+Dialogue: 0,0:00:08.45,0:00:11.62,Narrator,,0,0,0,,and after 8 years, Silent Library!
+Dialogue: 0,0:00:11.82,0:00:20.73,RedT,,0,0,0,,{\fad(300,0)\c&H0000AF&\pos(718,790)}Matsumoto{\c&H810200&} Trembling Earbuds
+Dialogue: 0,0:00:11.82,0:00:12.49,YellowTGlow,,0,0,0,,{\fad(300,300)\pos(703,794)\alpha30}Matsumoto Trembling Earbuds
+Dialogue: 0,0:00:14.33,0:00:16.46,Narrator,,0,0,0,,Whilst sitting in a library
+Dialogue: 0,0:00:16.46,0:00:20.73,Narrator,,0,0,0,,Whoever gets the card with the skull and bones gets punished
+Dialogue: 0,0:00:21.43,0:00:28.47,RedT,,0,0,0,,{\fad(300,0)\pos(703,794)\c&H810B00&}Hamada{\c&H000081&} Piping Hot Shumai Glasses
+Dialogue: 0,0:00:21.43,0:00:22.07,YellowTGlow,,0,0,0,,{\fad(300,300)\pos(703,794)\alpha30}Hamada Piping Hot Shumai Glasses
+Dialogue: 0,0:00:21.77,0:00:28.47,Note Bright,,0,0,0,,{\fs35\fad(300,0)\pos(741,18)}Note: Those are Pork Dumplings
+Dialogue: 0,0:00:29.11,0:00:30.74,Narrator,,0,0,0,,And during this...
+Dialogue: 0,0:00:36.58,0:00:39.85,Narrator,,0,0,0,,Azuma Mikihisa chooses the skull and crossbones card again and again...
+Dialogue: 0,0:00:36.88,0:00:39.85,RedT,,0,0,0,,{\fad(300,0)\pos(703,794)\c&H8E7217&}Azuma Mikihisa{\c&H8C0F51&} consecutive hits!!
+Dialogue: 0,0:00:40.09,0:00:43.96,RedT,,0,0,0,,{\fad(200,0)\c&H0D3A72&\pos(477,1028)}Eyeball Clothespins
+Dialogue: 0,0:00:44.19,0:00:52.96,RedT,,0,0,0,,{\fad(200,0)\c&H490880&\pos(1053,1032)}Vinegar Facial Device
+Dialogue: 0,0:00:53.23,0:01:01.04,RedT,,0,0,0,,{\fad(200,0)\c&H144900&\pos(711,1028)}Brazilian Nose Hair Wax
+Dialogue: 0,0:01:04.51,0:01:12.45,YellowT,,0,0,0,,{\an8\fs62\fad(80,0)}Number of times they've been punished
+Dialogue: 0,0:01:04.71,0:01:12.45,Guest,,0,0,0,,{\pos(147,685)\fs42}Azuma
+Dialogue: 0,0:01:04.71,0:01:12.45,Hamada,,0,0,0,,{\fs42\pos(387,685)}Hamada
+Dialogue: 0,0:01:04.71,0:01:12.45,Matsu,,0,0,0,,{\fs42\pos(642,685)}Matsumoto
+Dialogue: 0,0:01:04.71,0:01:12.45,Tanaka,,0,0,0,,{\fs42\pos(885,685)}Tanaka
+Dialogue: 0,0:01:04.71,0:01:12.45,Housei,,0,0,0,,{\fs42\pos(1080,685)}Housei
+Dialogue: 0,0:01:04.71,0:01:12.45,Endo,,0,0,0,,{\fs42\pos(1290,685)}Endo
+Dialogue: 0,0:01:05.04,0:01:07.11,Narrator,,0,0,0,,As you see above, this is the number of times they've been punished
+Dialogue: 0,0:01:07.11,0:01:12.45,Narrator,,0,0,0,,Will they be able to survive the even harsher punishments coming up?
+Dialogue: 0,0:01:08.38,0:01:12.45,RedT,,0,0,0,,{\an2\c&H810062&\pos(744,880)}Will they be able {\c&H000081&} to survive!?
+Dialogue: 0,0:01:12.48,0:01:18.46,Title RedS,,0,0,0,,{\fad(600,0)\an2}Downtown no Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:01:24.50,0:01:28.43,BlueOutline,,0,0,0,,{\fad(200,0)\pos(138,838.666)}Matsumoto\NHitoshi
+Dialogue: 0,0:01:24.50,0:01:28.43,BlueOutline,,0,0,0,,{\fad(200,0)\pos(140,961.334)}Hamada\NMasatoshi
+Dialogue: 0,0:01:24.50,0:01:28.43,GreenOutline,,0,0,0,,{\fad(200,0)\pos(411,902.666)}Tsukitei Housei
+Dialogue: 0,0:01:24.50,0:01:28.43,PurpleOutline,,0,0,0,,{\fad(200,0)\pos(1280,843.999)}Azuma Mikihisa
+Dialogue: 0,0:01:24.50,0:01:28.43,OrangeOutline,,0,0,0,,{\fad(200,0)\pos(1296,960)}Endo Shozo\NTanaka Naoki
+Dialogue: 0,0:01:24.50,0:01:26.00,Guest,,0,0,0,,I will pick last from here on...
+Dialogue: 0,0:01:26.00,0:01:28.20,Endo,,0,0,0,,Okay then...
+Dialogue: 0,0:01:28.43,0:01:30.60,CardText,,0,0,0,,{\pos(674,144)\clip(540,156,804,156)\t(0,400,\clip(540,8,804,156)}Reflexology\NVirgin Road\N{\fs35}* Wedding Aisle
+Dialogue: 0,0:01:30.47,0:01:32.84,Tanaka,,0,0,0,,Something for our feet...
+Dialogue: 0,0:01:30.60,0:01:33.41,CardText,,0,0,0,,{\fs22\pos(1204,386)}Reflexology\NVirgin Road\N{\fs17}* Wedding Aisle
+Dialogue: 0,0:01:33.67,0:01:39.24,BoxText,,0,0,0,,{\pos(699,818)}Whoever picks the skull and crossbones card gets punishment written on the card
+Dialogue: 0,0:01:33.74,0:01:36.44,Hamada,,0,0,0,,You guys haven't been punished yet so you pick first...
+Dialogue: 0,0:01:36.44,0:01:38.54,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:01:40.28,0:01:41.41,Endo,,0,0,0,,Okay then...
+Dialogue: 0,0:01:42.18,0:01:43.75,Hamada,,0,0,0,,You sure you're okay for us to go ahead..?
+Dialogue: 0,0:01:43.22,0:01:45.55,Guest,,0,0,0,,Yes
+Dialogue: 0,0:01:43.75,0:01:45.55,Hamada,,0,0,0,,You're okay to choose the last card?
+Dialogue: 0,0:01:49.59,0:01:51.56,Endo,,0,0,0,,Ready, set
+Dialogue: 0,0:01:49.29,0:01:51.62,BoxNameBG,,0,0,0,,{\fscy122\pos(456,823)}---------
+Dialogue: 0,0:01:49.29,0:01:51.62,BoxName,,0,0,0,,{\pos(456,823)}Housei
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxNameBG,,0,0,0,,{\fscy122\pos(456,601)}---------
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxName,,0,0,0,,{\fs38\pos(452,601)}Matsumoto
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxNameBG,,0,0,0,,{\fscy122\pos(1055,817)}---------
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxName,,0,0,0,,{\fs46\pos(1055,817)}Hamada
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxNameBG,,0,0,0,,{\fscy132\pos(452,385)}---------
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxName,,0,0,0,,{\pos(452,390.333)}Tanaka
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxNameBG,,0,0,0,,{\fscy122\pos(1057,387.666)}---------
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxName,,0,0,0,,{\pos(1057,387.666)}Endo
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxNameBG,,0,0,0,,{\fscy122\pos(1024.5,602)}-----
+Dialogue: 0,0:01:49.29,0:01:53.02,BoxName,,0,0,0,,{\fs38\pos(1026.5,602)}Azuma
+Dialogue: 0,0:01:51.62,0:01:53.02,BoxBGRed,,0,0,0,,{\fscy128\pos(450,820.333)}---------
+Dialogue: 0,0:01:51.62,0:01:53.02,BoxName,,0,0,0,,{\pos(456,823)}Housei
+Dialogue: 0,0:01:52.36,0:01:53.89,Hamada,,0,0,0,,There it is!
+Dialogue: 0,0:01:53.49,0:01:59.70,BatsuNameB,,0,0,0,,{\clip(140,825,140,1017)\t(0,500,\clip(140,825,1217,1017))\pos(244,894)}Housei
+Dialogue: 0,0:01:53.49,0:01:59.70,BatsuName,,0,0,0,,{\clip(140,825,140,1017)\t(0,500,\clip(140,825,1217,1017))\pos(244,894)}Housei
+Dialogue: 0,0:01:53.49,0:01:59.70,BatsuB,,0,0,0,,{\shad0\clip(140,825,140,1017)\t(0,500,\clip(140,825,1257,1017))\pos(943,894)}Reflexology Virgin Road
+Dialogue: 0,0:01:53.49,0:01:59.70,RedT2,,0,0,0,,{\shad0\clip(140,825,140,1017)\t(0,500,\clip(140,825,1257,1017))\pos(943,894)}Reflexology Virgin Road
+Dialogue: 0,0:01:53.49,0:01:59.70,Note Bright,,0,0,0,,{\clip(140,805,140,1017)\t(0,500,\clip(140,805,1257,1017))\pos(1091.5,930)}* Wedding Aisle
+Dialogue: 0,0:01:53.49,0:01:59.70,RedT,,0,0,0,,{\fs42\clip(140,825,140,1017)\t(0,500,\clip(140,825,1217,1017))\pos(429,971.333)}Shh
+Dialogue: 0,0:01:53.89,0:01:56.46,Tanaka,,0,0,0,,It was bound to happen
+Dialogue: 0,0:01:56.46,0:01:58.20,Endo,,0,0,0,,This is where things start to change...
+Dialogue: 0,0:01:58.20,0:01:59.70,Hamada,,0,0,0,,Yeah, you're right
+Dialogue: 0,0:01:59.97,0:02:02.53,Housei,,0,0,0,,Damn, that road is long...
+Dialogue: 0,0:02:02.53,0:02:04.90,Hamada,,0,0,0,,Yeah it is
+Dialogue: 0,0:02:04.90,0:02:09.17,Endo,,0,0,0,,There are some which really stick out too...
+Dialogue: 0,0:02:04.90,0:02:09.17,Tanaka,,0,0,0,,That's going to hurt...
+Dialogue: 0,0:02:09.17,0:02:11.98,Hamada,,0,0,0,,But if you're healthy and all, it doesn't hurt right?
+Dialogue: 0,0:02:11.98,0:02:14.91,Endo,,0,0,0,,But none of us are really healthy...
+Dialogue: 0,0:02:13.48,0:02:14.91,Hamada,,0,0,0,,I see...
+Dialogue: 0,0:02:16.78,0:02:18.48,Hamada,,0,0,0,,I see, he's going to walk alongside him
+Dialogue: 0,0:02:18.48,0:02:21.35,Hamada,,0,0,0,,You can't just walk at your own pace
+Dialogue: 0,0:02:21.35,0:02:23.49,Hamada,,0,0,0,,You have to walk with the Dad
+Dialogue: 0,0:02:23.49,0:02:25.82,Hamada,,0,0,0,,So you can't run away
+Dialogue: 0,0:02:23.76,0:02:31.36,BoxText,,0,0,0,,{\pos(699,818)}In order not to be a pain to the people around them, they must not make any noise
+Dialogue: 0,0:02:24.06,0:02:25.82,Tanaka,,0,0,0,,That's horrible
+Dialogue: 0,0:02:27.76,0:02:30.20,Hamada,,0,0,0,,So the Dad will walk on that side
+Dialogue: 0,0:02:30.20,0:02:32.16,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:02:30.20,0:02:32.16,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:02:53.42,0:02:55.25,Hamada,,0,0,0,,What the hell is this?
+Dialogue: 0,0:02:56.96,0:03:01.39,Matsu,,0,0,0,,He's actually doing it pretty well...
+Dialogue: 0,0:02:58.12,0:02:59.82,Hamada,,0,0,0,,Yeah I know
+Dialogue: 0,0:02:59.82,0:03:01.39,Hamada,,0,0,0,,He did it pretty well...
+Dialogue: 0,0:03:02.29,0:03:03.46,Matsu,,0,0,0,,You're kidding me...
+Dialogue: 0,0:03:03.46,0:03:05.20,Endo,,0,0,0,,You did well
+Dialogue: 0,0:03:04.76,0:03:06.43,Tanaka,,0,0,0,,You're healthy, huh?
+Dialogue: 0,0:03:05.20,0:03:06.43,Endo,,0,0,0,,Didn't it hurt?
+Dialogue: 0,0:03:06.43,0:03:08.57,Housei,,0,0,0,,A little bit
+Dialogue: 0,0:03:07.20,0:03:08.57,Endo,,0,0,0,,He didn't shout
+Dialogue: 0,0:03:08.57,0:03:10.64,Housei,,0,0,0,,Just a tiny bit
+Dialogue: 0,0:03:09.37,0:03:10.54,Guest,,0,0,0,,Amazing...
+Dialogue: 0,0:03:10.54,0:03:11.90,Hamada,,0,0,0,,He didn't make a noise
+Dialogue: 0,0:03:11.47,0:03:13.14,Endo,,0,0,0,,I know
+Dialogue: 0,0:03:11.90,0:03:13.14,Matsu,,0,0,0,,I would never have been able to...
+Dialogue: 0,0:03:13.14,0:03:15.27,Endo,,0,0,0,,That was like seriously...
+Dialogue: 0,0:03:15.27,0:03:16.64,Tanaka,,0,0,0,,That was tough
+Dialogue: 0,0:03:18.14,0:03:20.35,CardText,,0,0,0,,{\pos(702,262)}Monkey\NPalm\NStrike
+Dialogue: 0,0:03:20.41,0:03:22.51,Hamada,,0,0,0,,That thing they did to Endo...
+Dialogue: 0,0:03:22.51,0:03:24.22,CardText,,0,0,0,,{\fs32\t(800,180,\move(1248,408,1260,408))}Monkey\NPalm\NStrike
+Dialogue: 0,0:03:24.25,0:03:26.62,CardText,,0,0,0,,{\fs18\pos(730,352.667)}Monkey\NPalm\NStrike
+Dialogue: 0,0:03:24.95,0:03:26.62,Endo,,0,0,0,,This really hurts
+Dialogue: 0,0:03:26.62,0:03:28.15,Endo,,0,0,0,,Ready, set
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxNameBG,,0,0,0,,{\fscy122\pos(411,817)}---------
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxName,,0,0,0,,{\pos(411,817)}Housei
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxNameBG,,0,0,0,,{\fscy122\pos(411,595)}---------
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxName,,0,0,0,,{\fs38\pos(406.5,595)}Matsumoto
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxNameBG,,0,0,0,,{\fscy122\pos(1010,811)}---------
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxName,,0,0,0,,{\fs46\pos(1010,811)}Hamada
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxNameBG,,0,0,0,,{\fscy132\pos(407,379)}---------
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxName,,0,0,0,,{\pos(407,384.333)}Tanaka
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxNameBG,,0,0,0,,{\fscy122\pos(1012,381.666)}---------
+Dialogue: 0,0:03:26.62,0:03:29.42,BoxName,,0,0,0,,{\pos(1012,381.666)}Endo
+Dialogue: 0,0:03:26.62,0:03:27.85,BoxNameBG,,0,0,0,,{\fscy122\pos(979.5,596)}-----
+Dialogue: 0,0:03:26.62,0:03:27.85,BoxName,,0,0,0,,{\fs38\pos(982.5,596)}Azuma
+Dialogue: 0,0:03:27.85,0:03:29.42,BoxBGRed,,0,0,0,,{\fscy125\pos(981,593)}-----
+Dialogue: 0,0:03:27.85,0:03:29.42,BoxName,,0,0,0,,{\fs38\pos(982.5,596)}Azuma
+Dialogue: 0,0:03:29.96,0:03:34.23,BatsuNameB,,0,0,0,,{\clip(225,825,225,1017)\t(0,350,\clip(225,825,1200,1017))\pos(436,890)}Azuma Mikihisa
+Dialogue: 0,0:03:29.96,0:03:34.23,BatsuName,,0,0,0,,{\clip(225,825,225,1017)\t(0,350,\clip(225,825,1200,1017))\pos(436,890)}Azuma Mikihisa
+Dialogue: 0,0:03:29.96,0:03:34.23,BatsuB,,0,0,0,,{\shad0\clip(225,805,225,1017)\t(0,350,\clip(225,805,1200,1017))\pos(1012,890)}Monkey\NPalm Strike
+Dialogue: 0,0:03:29.96,0:03:34.23,RedT2,,0,0,0,,{\shad0\clip(225,805,225,1017)\t(0,350,\clip(225,805,1200,1017))\pos(1012,890)}Monkey\NPalm Strike
+Dialogue: 0,0:03:29.96,0:03:34.23,RedT,,0,0,0,,{\fs42\clip(225,825,225,1017)\t(0,350,\clip(225,825,1200,1017))\pos(715,966)}Shh
+Dialogue: 0,0:03:34.66,0:03:35.76,Endo,,0,0,0,,Are you serious?!
+Dialogue: 0,0:03:35.76,0:03:37.16,Tanaka,,0,0,0,,No way!
+Dialogue: 0,0:03:37.16,0:03:40.60,Matsu,,0,0,0,,Things haven't changed at all!
+Dialogue: 0,0:03:38.83,0:03:40.60,Endo,,0,0,0,,I know...
+Dialogue: 0,0:03:40.60,0:03:41.97,Tanaka,,0,0,0,,Here he comes...
+Dialogue: 0,0:03:41.97,0:03:43.20,Matsu,,0,0,0,,This is bad
+Dialogue: 0,0:03:43.20,0:03:45.70,Hamada,,0,0,0,,Look at him...
+Dialogue: 0,0:03:43.20,0:03:45.70,Endo,,0,0,0,,It's so scary
+Dialogue: 0,0:03:47.54,0:03:49.51,Guest,,0,0,0,,I'm really scared
+Dialogue: 0,0:03:49.51,0:03:50.58,Endo,,0,0,0,,Wait here
+Dialogue: 0,0:03:50.58,0:03:52.28,Guest,,0,0,0,,What is this?
+Dialogue: 0,0:03:52.28,0:03:54.85,Guest,,0,0,0,,Wait a minute
+Dialogue: 0,0:03:53.08,0:03:54.85,Matsu,,0,0,0,,He's huge
+Dialogue: 0,0:03:54.85,0:03:56.28,Matsu,,0,0,0,,Damn...
+Dialogue: 0,0:04:00.85,0:04:03.09,Hamada,,0,0,0,,Close your eyes
+Dialogue: 0,0:04:01.45,0:04:03.09,Guest,,0,0,0,,Wait...
+Dialogue: 0,0:04:12.16,0:04:14.60,Guest,,0,0,0,,Wait a minute please...
+Dialogue: 0,0:04:14.60,0:04:15.87,Hamada,,0,0,0,,Hey man...
+Dialogue: 0,0:04:15.87,0:04:17.64,Guest,,0,0,0,,I can't do this
+Dialogue: 0,0:04:15.87,0:04:17.64,Endo,,0,0,0,,It's dangerous to move
+Dialogue: 0,0:04:17.64,0:04:20.21,Guest,,0,0,0,,I'm feeling so much pressure from it!
+Dialogue: 0,0:04:20.21,0:04:22.17,Guest,,0,0,0,,Like seriously
+Dialogue: 0,0:04:20.77,0:04:23.81,Endo,,0,0,0,,We can't help that, you picked the card
+Dialogue: 0,0:04:22.17,0:04:23.81,Guest,,0,0,0,,Matsumoto-san
+Dialogue: 0,0:04:23.81,0:04:26.54,Matsu,,0,0,0,,I'm sorry, man, but...
+Dialogue: 0,0:04:23.81,0:04:26.54,Endo,,0,0,0,,I do get how you feel and all
+Dialogue: 0,0:04:27.75,0:04:29.31,Guest,,0,0,0,,What do I do?
+Dialogue: 0,0:04:29.31,0:04:31.88,Hamada,,0,0,0,,There is quite a bit of a pause...
+Dialogue: 0,0:04:30.48,0:04:31.88,Endo,,0,0,0,,That's true
+Dialogue: 0,0:04:31.88,0:04:34.69,Hamada,,0,0,0,,This must be torture for him
+Dialogue: 0,0:04:35.82,0:04:37.29,Guest,,0,0,0,,What...
+Dialogue: 0,0:04:37.29,0:04:39.39,Endo,,0,0,0,,I will hold him back
+Dialogue: 0,0:04:40.59,0:04:42.76,Guest,,0,0,0,,QUICKLY
+Dialogue: 0,0:04:41.33,0:04:44.00,Endo,,0,0,0,,No no no
+Dialogue: 0,0:04:42.76,0:04:45.46,Guest,,0,0,0,,Why is he just...
+Dialogue: 0,0:04:45.46,0:04:47.20,Guest,,0,0,0,,The pause is just so long
+Dialogue: 0,0:04:47.20,0:04:49.37,Guest,,0,0,0,,Is there some kind of thing the timing..?
+Dialogue: 0,0:04:49.37,0:04:51.04,Guest,,0,0,0,,of the monkey?
+Dialogue: 0,0:04:51.04,0:04:53.44,Guest,,0,0,0,,Just hit me straight away...
+Dialogue: 0,0:04:54.24,0:04:55.44,Housei,,0,0,0,,See...
+Dialogue: 0,0:04:55.44,0:04:58.91,Guest,,0,0,0,,This is like really bad
+Dialogue: 0,0:04:55.44,0:04:58.91,Endo,,0,0,0,,It's because you keep moving
+Dialogue: 0,0:04:58.91,0:05:01.35,Housei,,0,0,0,,It's because you move
+Dialogue: 0,0:04:58.91,0:05:01.35,Guest,,0,0,0,,But like seriously, this is an animal
+Dialogue: 0,0:05:01.35,0:05:02.65,Housei,,0,0,0,,It's bad
+Dialogue: 0,0:05:02.65,0:05:05.45,Endo,,0,0,0,,It's because you move
+Dialogue: 0,0:05:03.75,0:05:05.45,Guest,,0,0,0,,No, before I wasn't...
+Dialogue: 0,0:05:06.15,0:05:08.32,Guest,,0,0,0,,Go down?
+Dialogue: 0,0:05:06.15,0:05:08.32,Hamada,,0,0,0,,Just go down
+Dialogue: 0,0:05:08.32,0:05:10.12,Tanaka,,0,0,0,,Isn't that even more dangerous?
+Dialogue: 0,0:05:10.12,0:05:12.09,Endo,,0,0,0,,It'll be fine
+Dialogue: 0,0:05:10.12,0:05:12.09,Hamada,,0,0,0,,Shozo, hold him from behind
+Dialogue: 0,0:05:12.09,0:05:14.09,Endo,,0,0,0,,I did it like this
+Dialogue: 0,0:05:14.09,0:05:16.73,Endo,,0,0,0,,in the no-laughing special...
+Dialogue: 0,0:05:15.69,0:05:18.70,Guest,,0,0,0,,Okay, hold my hand then
+Dialogue: 0,0:05:16.73,0:05:18.36,Endo,,0,0,0,,Okay then
+Dialogue: 0,0:05:18.36,0:05:20.37,Hamada,,0,0,0,,On your knees...
+Dialogue: 0,0:05:18.36,0:05:20.37,Guest,,0,0,0,,On my knees?
+Dialogue: 0,0:05:20.37,0:05:22.67,Endo,,0,0,0,,Don't move too quickly or else
+Dialogue: 0,0:05:24.47,0:05:26.74,Guest,,0,0,0,,Damn, wait...
+Dialogue: 0,0:05:26.74,0:05:28.21,Guest,,0,0,0,,This is...
+Dialogue: 0,0:05:31.58,0:05:33.75,Endo,,0,0,0,,You've got to be quiet
+Dialogue: 0,0:05:33.75,0:05:36.58,Matsu,,0,0,0,,This is yeah...
+Dialogue: 0,0:05:36.58,0:05:38.28,Matsu,,0,0,0,,This is scary
+Dialogue: 0,0:05:40.92,0:05:42.55,Tanaka,,0,0,0,,Nothing you can do about it
+Dialogue: 0,0:05:41.42,0:05:43.36,Guest,,0,0,0,,Shall I close my eyes?
+Dialogue: 0,0:05:42.55,0:05:44.59,Guest,,0,0,0,,Sit here?
+Dialogue: 0,0:05:44.59,0:05:45.92,Tanaka,,0,0,0,,Don't move
+Dialogue: 0,0:05:45.92,0:05:47.89,Endo,,0,0,0,,This is scary...
+Dialogue: 0,0:05:47.89,0:05:50.10,Hamada,,0,0,0,,But Shozo had to do this as well...
+Dialogue: 0,0:05:51.40,0:05:52.86,Guest,,0,0,0,,Wait, what, what do you want?!
+Dialogue: 0,0:05:53.53,0:05:57.10,Guest,,0,0,0,,Wait, who did that on my shoulder just now?!
+Dialogue: 0,0:05:55.20,0:05:57.10,Hamada,,0,0,0,,It was him!
+Dialogue: 0,0:05:57.10,0:05:59.37,Hamada,,0,0,0,,It was him!
+Dialogue: 0,0:05:57.70,0:05:59.37,Guest,,0,0,0,,That scared me!
+Dialogue: 0,0:05:59.37,0:06:01.57,Guest,,0,0,0,,He pushed here really hard
+Dialogue: 0,0:05:59.37,0:06:01.57,Hamada,,0,0,0,,That was amazing
+Dialogue: 0,0:06:01.57,0:06:04.14,Endo,,0,0,0,,He did accidentally
+Dialogue: 0,0:06:04.14,0:06:06.41,Guest,,0,0,0,,He did it here...
+Dialogue: 0,0:06:16.49,0:06:17.96,Endo,,0,0,0,,Thank you! Sorry about him!
+Dialogue: 0,0:06:17.96,0:06:19.96,Housei,,0,0,0,,He looks pissed...
+Dialogue: 0,0:06:19.96,0:06:22.09,Tanaka,,0,0,0,,I would hate to do that
+Dialogue: 0,0:06:22.09,0:06:24.00,Hamada,,0,0,0,,How many more are there?
+Dialogue: 0,0:06:24.30,0:06:26.83,CardText,,0,0,0,,{\pos(717,199.333)}Raw Egg\NDrinking\NPipe
+Dialogue: 0,0:06:25.60,0:06:28.50,Endo,,0,0,0,,This is...
+Dialogue: 0,0:06:25.60,0:06:28.50,Guest,,0,0,0,,This is really tough
+Dialogue: 0,0:06:31.24,0:06:34.01,Guest,,0,0,0,,Everyone, please take your cards first
+Dialogue: 0,0:06:32.54,0:06:34.01,Endo,,0,0,0,,You sure?
+Dialogue: 0,0:06:43.52,0:06:44.85,Endo,,0,0,0,,Ready, set
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxNameBG,,0,0,0,,{\fscy122\pos(453,811)}---------
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxName,,0,0,0,,{\pos(447,807)}Housei
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxNameBG,,0,0,0,,{\fscy122\pos(453,589)}---------
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxName,,0,0,0,,{\fs38\pos(449,589)}Matsumoto
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxNameBG,,0,0,0,,{\fscy122\pos(1052,805)}---------
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxName,,0,0,0,,{\fs46\pos(1052,805)}Hamada
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxNameBG,,0,0,0,,{\fscy132\pos(449,373)}---------
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxName,,0,0,0,,{\pos(449,378.333)}Tanaka
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxNameBG,,0,0,0,,{\fscy122\pos(1054,375.666)}---------
+Dialogue: 0,0:06:41.88,0:06:46.08,BoxName,,0,0,0,,{\pos(1054,375.666)}Endo
+Dialogue: 0,0:06:41.88,0:06:45.05,BoxNameBG,,0,0,0,,{\fscy122\pos(1021.5,590)}-----
+Dialogue: 0,0:06:41.88,0:06:45.05,BoxName,,0,0,0,,{\fs38\pos(1023.5,590)}Azuma
+Dialogue: 0,0:06:45.05,0:06:46.08,BoxBGRed,,0,0,0,,{\fscy128\pos(1021.5,590)}-----
+Dialogue: 0,0:06:45.05,0:06:46.08,BoxName,,0,0,0,,{\fs38\pos(1023.5,590)}Azuma
+Dialogue: 0,0:06:46.42,0:06:50.59,BatsuNameB,,0,0,0,,{\clip(160,825,160,1017)\t(0,350,\clip(160,825,1200,1017))\pos(274,890)}Azuma\NMikihisa
+Dialogue: 0,0:06:46.42,0:06:50.59,BatsuName,,0,0,0,,{\clip(160,825,160,1017)\t(0,350,\clip(160,825,1200,1017))\pos(274,890)}Azuma\NMikihisa
+Dialogue: 0,0:06:46.42,0:06:50.59,BatsuB,,0,0,0,,{\shad0\clip(160,805,160,1017)\t(0,350,\clip(160,805,1200,1017))\pos(976,890)}Raw Egg\NDrinking Pipe
+Dialogue: 0,0:06:46.42,0:06:50.59,RedT2,,0,0,0,,{\shad0\clip(160,805,160,1017)\t(0,350,\clip(160,805,1200,1017))\pos(976,890)}Raw Egg\NDrinking Pipe
+Dialogue: 0,0:06:46.42,0:06:50.59,RedT,,0,0,0,,{\fs42\clip(160,825,160,1017)\t(0,350,\clip(160,825,1200,1017))\pos(506,970)}Shh
+Dialogue: 0,0:06:46.32,0:06:49.02,Endo,,0,0,0,,No way!!
+Dialogue: 0,0:06:49.02,0:06:53.49,Endo,,0,0,0,,That is scary!
+Dialogue: 0,0:06:53.49,0:06:55.56,Tanaka,,0,0,0,,Are you serious right now?!
+Dialogue: 0,0:06:55.56,0:06:57.30,Guest,,0,0,0,,Matsumoto-san...
+Dialogue: 0,0:06:57.30,0:06:59.53,Guest,,0,0,0,,I chose last though
+Dialogue: 0,0:06:58.13,0:06:59.53,Endo,,0,0,0,,We haven't tampered with it or anything
+Dialogue: 0,0:06:59.53,0:07:02.03,Matsu,,0,0,0,,We haven't done anything
+Dialogue: 0,0:07:02.03,0:07:03.60,Tanaka,,0,0,0,,Seriously
+Dialogue: 0,0:07:02.03,0:07:03.60,Housei,,0,0,0,,For any of them
+Dialogue: 0,0:07:03.60,0:07:05.54,Hamada,,0,0,0,,You took it yourself
+Dialogue: 0,0:07:06.77,0:07:09.61,Endo,,0,0,0,,If you could lie here
+Dialogue: 0,0:07:09.61,0:07:11.38,Tanaka,,0,0,0,,Your head here
+Dialogue: 0,0:07:11.38,0:07:13.04,Tanaka,,0,0,0,,Yep, like that
+Dialogue: 0,0:07:13.04,0:07:15.25,Endo,,0,0,0,,That is amazing...
+Dialogue: 0,0:07:16.21,0:07:19.08,Tanaka,,0,0,0,,Here you go...
+Dialogue: 0,0:07:16.82,0:07:19.08,Hamada,,0,0,0,,Surely this is enough...
+Dialogue: 0,0:07:19.08,0:07:22.95,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:07:22.95,0:07:26.12,Tanaka,,0,0,0,,Please have a firm grasp on it
+Dialogue: 0,0:07:22.95,0:07:26.12,Endo,,0,0,0,,Is it tight?
+Dialogue: 0,0:07:26.12,0:07:28.49,Endo,,0,0,0,,It'll all come at once
+Dialogue: 0,0:07:35.90,0:07:38.34,Tanaka,,0,0,0,,Are you ready?
+Dialogue: 0,0:07:36.37,0:07:38.34,Hamada,,0,0,0,,Ready?
+Dialogue: 0,0:07:38.34,0:07:40.97,Tanaka,,0,0,0,,3, 2, 1...
+Dialogue: 0,0:07:45.11,0:07:47.25,Endo,,0,0,0,,Here it comes
+Dialogue: 0,0:07:45.11,0:07:47.25,Hamada,,0,0,0,,Not yet, not yet
+Dialogue: 0,0:07:47.95,0:07:56.42,Thin Black Text,,0,0,0,,{\fad(600,0)\pos(726,940)}Whilst Azuma Mikihisa tries to deal with his punishment,\N\N please look at this picture of pretty flowers...
+Dialogue: 0,0:07:57.66,0:08:00.49,Hamada,,0,0,0,,Mikihisa was throwing up so much there...
+Dialogue: 0,0:08:01.09,0:08:03.36,Guest,,0,0,0,,Couldn't help it
+Dialogue: 0,0:08:05.86,0:08:09.23,Matsu,,0,0,0,,That was scary though
+Dialogue: 0,0:08:07.40,0:08:09.23,Endo,,0,0,0,,You can do it however you want
+Dialogue: 0,0:08:09.23,0:08:11.14,Matsu,,0,0,0,,But seriously...
+Dialogue: 0,0:08:10.27,0:08:11.77,Endo,,0,0,0,,What are the odds?
+Dialogue: 0,0:08:11.14,0:08:13.64,Matsu,,0,0,0,,The viewers are going to suspicious of us...
+Dialogue: 0,0:08:14.47,0:08:15.94,Guest,,0,0,0,,Can you just give me a second?
+Dialogue: 0,0:08:17.24,0:08:18.78,Guest,,0,0,0,,Thank you
+Dialogue: 0,0:08:19.98,0:08:21.41,Endo,,0,0,0,,You can decide
+Dialogue: 0,0:08:21.41,0:08:24.05,Endo,,0,0,0,,If you want to decide which one to take
+Dialogue: 0,0:08:23.38,0:08:24.98,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:08:24.05,0:08:26.78,Endo,,0,0,0,,Or choose the last remaining card
+Dialogue: 0,0:08:26.78,0:08:29.75,Hamada,,0,0,0,,Yeah. You going to choose the same one as before?
+Dialogue: 0,0:08:29.75,0:08:30.86,Tanaka,,0,0,0,,May I?
+Dialogue: 0,0:08:30.19,0:08:32.12,Hamada,,0,0,0,,Oh yeah
+Dialogue: 0,0:08:30.86,0:08:32.12,Tanaka,,0,0,0,,Here we go
+Dialogue: 0,0:08:33.86,0:08:36.49,CardText,,0,0,0,,{\pos(690,258)}Piping Hot\NOden Stew\NDrone
+Dialogue: 0,0:08:34.96,0:08:36.16,Hamada,,0,0,0,,What the hell is that?
+Dialogue: 0,0:08:36.16,0:08:37.26,Matsu,,0,0,0,,This is...
+Dialogue: 0,0:08:37.26,0:08:39.96,Endo,,0,0,0,,It's hot...
+Dialogue: 0,0:08:39.96,0:08:41.63,Tanaka,,0,0,0,,Hot...
+Dialogue: 0,0:08:41.63,0:08:48.11,CardText,,0,0,0,,{\fs15\pos(709.6,323.6)}Piping Hot\NOden Stew\NDrone
+Dialogue: 0,0:08:49.54,0:08:51.08,Endo,,0,0,0,,Ready, set
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxNameBG,,0,0,0,,{\fscy122\pos(435,821.667)}---------
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxName,,0,0,0,,{\pos(433,817.667)}Housei
+Dialogue: 0,0:08:48.11,0:08:50.61,BoxNameBG,,0,0,0,,{\fscy122\pos(435,599.667)}---------
+Dialogue: 0,0:08:48.11,0:08:50.61,BoxName,,0,0,0,,{\fs38\pos(435,599.667)}Matsumoto
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxNameBG,,0,0,0,,{\fscy122\pos(1018,818.334)}---------
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxName,,0,0,0,,{\fs46\pos(1018,818.334)}Hamada
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxNameBG,,0,0,0,,{\fscy132\pos(431,383.667)}---------
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxName,,0,0,0,,{\pos(431,389)}Tanaka
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxNameBG,,0,0,0,,{\fscy122\pos(1020,389)}---------
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxName,,0,0,0,,{\pos(1020,389)}Endo
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxNameBG,,0,0,0,,{\fscy122\pos(987.5,603.334)}-----
+Dialogue: 0,0:08:48.11,0:08:52.11,BoxName,,0,0,0,,{\fs38\pos(987.5,598)}Azuma
+Dialogue: 0,0:08:50.61,0:08:52.11,BoxBGRed,,0,0,0,,{\fscy128\pos(435,599.667)}---------
+Dialogue: 0,0:08:50.61,0:08:52.11,BoxName,,0,0,0,,{\fs38\pos(435,599.667)}Matsumoto
+Dialogue: 0,0:08:52.61,0:08:56.25,BatsuNameB,,0,0,0,,{\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(241,886)}Matsumoto
+Dialogue: 0,0:08:52.61,0:08:56.25,BatsuName,,0,0,0,,{\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(241,886)}Matsumoto
+Dialogue: 0,0:08:52.61,0:08:56.25,BatsuB,,0,0,0,,{\shad0\clip(80,825,80,1017)\t(0,500,\clip(80,825,1257,1017))\pos(943,894)}Piping Hot\NOden Stew Drone
+Dialogue: 0,0:08:52.61,0:08:56.25,RedT2,,0,0,0,,{\shad0\clip(80,825,80,1017)\t(0,500,\clip(80,825,1257,1017))\pos(943,894)}Piping Hot\NOden Stew Drone
+Dialogue: 0,0:08:52.61,0:08:56.25,RedT,,0,0,0,,{\fs42\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(429,971.333)}Shh
+Dialogue: 0,0:08:52.64,0:08:54.15,Endo,,0,0,0,,Yes, yes yes
+Dialogue: 0,0:08:55.58,0:08:57.88,Tanaka,,0,0,0,,It's come
+Dialogue: 0,0:08:58.85,0:09:02.85,Endo,,0,0,0,,Can you just lie down on the table please
+Dialogue: 0,0:09:01.05,0:09:02.85,Tanaka,,0,0,0,,Put your head over here
+Dialogue: 0,0:09:02.85,0:09:05.66,Hamada,,0,0,0,,Here?
+Dialogue: 0,0:09:05.66,0:09:07.49,Hamada,,0,0,0,,Oh, where the camera is
+Dialogue: 0,0:09:07.49,0:09:09.53,Matsu,,0,0,0,,I hate these kind of ones...
+Dialogue: 0,0:09:09.53,0:09:12.53,Hamada,,0,0,0,,So the camera from above can get a good shot...
+Dialogue: 0,0:09:10.23,0:09:12.53,Tanaka,,0,0,0,,Yeah
+Dialogue: 0,0:09:13.23,0:09:17.60,Hamada,,0,0,0,,{\fs55}If they make you lie down, it's going to be a hot punishment
+Dialogue: 0,0:09:16.00,0:09:17.60,Guest,,0,0,0,,That's true
+Dialogue: 0,0:09:18.34,0:09:21.31,Tanaka,,0,0,0,,The glasses as well
+Dialogue: 0,0:09:25.64,0:09:27.31,Guest,,0,0,0,,Oh my God...
+Dialogue: 0,0:09:27.31,0:09:29.31,Endo,,0,0,0,,That's bad
+Dialogue: 0,0:09:31.28,0:09:33.45,Endo,,0,0,0,,It's boiling!
+Dialogue: 0,0:09:33.45,0:09:34.62,Tanaka,,0,0,0,,It's boiling
+Dialogue: 0,0:09:34.62,0:09:36.89,Endo,,0,0,0,,It's literally boiling...
+Dialogue: 0,0:09:36.89,0:09:41.33,Matsu,,0,0,0,,Wait, I'm scared...
+Dialogue: 0,0:09:38.86,0:09:41.33,Endo,,0,0,0,,Yeah, I would be too...
+Dialogue: 0,0:09:41.33,0:09:43.29,Endo,,0,0,0,,It's boiling!
+Dialogue: 0,0:09:42.59,0:09:45.10,Hamada,,0,0,0,,How we going to do it?
+Dialogue: 0,0:09:43.29,0:09:45.10,Matsu,,0,0,0,,I'm so scared...
+Dialogue: 0,0:09:45.10,0:09:47.10,Hamada,,0,0,0,,Okay, if you would.
+Dialogue: 0,0:09:52.37,0:09:54.24,Endo,,0,0,0,,Damn, that's scary
+Dialogue: 0,0:09:59.34,0:10:01.98,Endo,,0,0,0,,It's coming
+Dialogue: 0,0:10:00.04,0:10:01.98,Tanaka,,0,0,0,,Here it comes, it's gone up!
+Dialogue: 0,0:10:01.98,0:10:03.55,Endo,,0,0,0,,Wow, amazing
+Dialogue: 0,0:10:06.02,0:10:09.29,Hamada,,0,0,0,,This is so stupid...
+Dialogue: 0,0:10:09.29,0:10:11.26,Endo,,0,0,0,,Here it comes
+Dialogue: 0,0:10:19.30,0:10:21.40,Hamada,,0,0,0,,So stupid...
+Dialogue: 0,0:10:25.57,0:10:27.21,Hamada,,0,0,0,,What the hell is this?
+Dialogue: 0,0:10:27.67,0:10:30.31,Matsu,,0,0,0,,Just use your hands for fuck's sake...
+Dialogue: 0,0:10:33.28,0:10:35.98,Endo,,0,0,0,,That was the boiling hot Oden carried by a drone
+Dialogue: 0,0:10:35.98,0:10:39.75,Matsu,,0,0,0,,The drone was so loud...
+Dialogue: 0,0:10:42.12,0:10:43.55,Endo,,0,0,0,,It's the waiting time though...
+Dialogue: 0,0:10:43.55,0:10:46.16,Matsu,,0,0,0,,Yeah
+Dialogue: 0,0:10:44.59,0:10:46.16,Endo,,0,0,0,,That's what is scary
+Dialogue: 0,0:10:46.86,0:10:51.63,BoxText,,0,0,0,,{\pos(394,763.334)}Return slot
+Dialogue: 0,0:10:46.86,0:10:51.63,BoxText,,0,0,0,,{\pos(1114,926.001)}Lending Reception
+Dialogue: 0,0:10:47.59,0:10:49.56,Hamada,,0,0,0,,That was scary
+Dialogue: 0,0:10:52.03,0:10:53.56,CardText,,0,0,0,,{\pos(701,340)\clip(667,346,738,346)\t(0,200,\clip(667,296,738,346)\fs20}Ceiling\NHold
+Dialogue: 0,0:10:53.23,0:10:55.73,Guest,,0,0,0,,What?
+Dialogue: 0,0:10:53.56,0:10:56.07,CardText,,0,0,0,,{\pos(714,182)}Ceiling\NHold
+Dialogue: 0,0:10:55.73,0:10:57.37,Endo,,0,0,0,,That one...
+Dialogue: 0,0:10:57.37,0:10:59.94,Tanaka,,0,0,0,,It's that one, right?
+Dialogue: 0,0:10:56.07,0:10:57.37,CardText,,0,0,0,,{\fs28\move(1316,456,1300,451)}Ceiling\NHold
+Dialogue: 0,0:10:57.37,0:10:59.64,CardText,,0,0,0,,{\fs28\pos(1300,451)}Ceiling\NHold
+Dialogue: 0,0:11:04.34,0:11:06.38,Guest,,0,0,0,,This one, I just...
+Dialogue: 0,0:11:09.31,0:11:10.38,Endo,,0,0,0,,You're handing them out?
+Dialogue: 0,0:11:10.38,0:11:12.28,Tanaka,,0,0,0,,You're handing it out, huh?
+Dialogue: 0,0:11:13.79,0:11:16.29,BoxNameBG,,0,0,0,,{\fscy122\pos(472,815)}---------
+Dialogue: 0,0:11:13.79,0:11:16.29,BoxName,,0,0,0,,{\pos(466,812)}Housei
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxNameBG,,0,0,0,,{\fscy122\pos(474,593)}---------
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxName,,0,0,0,,{\fs38\pos(470,593)}Matsumoto
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxNameBG,,0,0,0,,{\fscy122\pos(1053,811.667)}---------
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxName,,0,0,0,,{\fs46\pos(1053,811.667)}Hamada
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxNameBG,,0,0,0,,{\fscy132\pos(470,377)}---------
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxName,,0,0,0,,{\pos(470,382.333)}Tanaka
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxNameBG,,0,0,0,,{\fscy122\pos(1055,382.333)}---------
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxName,,0,0,0,,{\pos(1055,382.333)}Endo
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxNameBG,,0,0,0,,{\fscy122\pos(1022.5,596.667)}-----
+Dialogue: 0,0:11:13.79,0:11:17.86,BoxName,,0,0,0,,{\fs38\pos(1022.5,591.333)}Azuma
+Dialogue: 0,0:11:16.29,0:11:17.86,BoxBGRed,,0,0,0,,{\fscy128\pos(468,812.333)}---------
+Dialogue: 0,0:11:16.29,0:11:17.86,BoxName,,0,0,0,,{\pos(466,812)}Housei
+Dialogue: 0,0:11:14.35,0:11:16.29,Endo,,0,0,0,,Ready, set
+Dialogue: 0,0:11:18.22,0:11:19.42,Endo,,0,0,0,,Yes!!
+Dialogue: 0,0:11:19.42,0:11:21.83,Tanaka,,0,0,0,,Yes, yes, yes
+Dialogue: 0,0:11:21.83,0:11:25.03,Endo,,0,0,0,,Yes, yes, yes
+Dialogue: 0,0:11:18.36,0:11:21.83,BatsuNameB,,0,0,0,,{\clip(260,825,260,1017)\t(0,500,\clip(260,825,1217,1017))\pos(370,896)}Housei
+Dialogue: 0,0:11:18.36,0:11:21.83,BatsuName,,0,0,0,,{\clip(260,825,260,1017)\t(0,500,\clip(260,825,1217,1017))\pos(370,896)}Housei
+Dialogue: 0,0:11:18.36,0:11:21.83,BatsuB,,0,0,0,,{\shad0\clip(260,805,260,1017)\t(0,500,\clip(260,805,1257,1017))\pos(941,842.667)}Ceiling Hold
+Dialogue: 0,0:11:18.36,0:11:21.83,RedT2,,0,0,0,,{\shad0\clip(260,805,260,1017)\t(0,500,\clip(260,805,1257,1017))\pos(941,842.667)}Ceiling Hold
+Dialogue: 0,0:11:18.36,0:11:21.83,Note Bright,,0,0,0,,{\clip(260,805,260,1017)\t(0,500,\clip(260,805,1257,1017))\pos(939,882.333)}* aka Surfboard Stretch\Nor Romero Special
+Dialogue: 0,0:11:18.36,0:11:21.83,RedT,,0,0,0,,{\fs42\clip(260,825,260,1017)\t(0,500,\clip(260,825,1217,1017))\pos(573,971)}Shh
+Dialogue: 0,0:11:26.80,0:11:28.20,Endo,,0,0,0,,This is terrifying
+Dialogue: 0,0:11:29.37,0:11:31.17,Hamada,,0,0,0,,Why did he come around from that way?
+Dialogue: 0,0:11:38.31,0:11:40.08,Matsu,,0,0,0,,This is ridiculous...
+Dialogue: 0,0:11:40.08,0:11:42.18,Tanaka,,0,0,0,,Damn that's tough
+Dialogue: 0,0:11:42.18,0:11:44.25,Guest,,0,0,0,,This is horrible
+Dialogue: 0,0:11:57.33,0:12:00.20,Hamada,,0,0,0,,Be quiet!
+Dialogue: 0,0:12:00.20,0:12:01.80,Endo,,0,0,0,,Be quiet
+Dialogue: 0,0:12:03.10,0:12:04.84,Housei,,0,0,0,,It hurts!
+Dialogue: 0,0:12:10.04,0:12:11.91,Endo,,0,0,0,,This is a library, be quiet...
+Dialogue: 0,0:12:17.88,0:12:19.48,Endo,,0,0,0,,Be quiet...
+Dialogue: 0,0:12:19.48,0:12:23.65,Hamada,,0,0,0,,You must be quiet
+Dialogue: 0,0:12:20.75,0:12:23.65,Endo,,0,0,0,,It's a library, please be quiet
+Dialogue: 0,0:12:24.82,0:12:26.76,Matsu,,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:12:26.76,0:12:28.83,Endo,,0,0,0,,Housei-san...
+Dialogue: 0,0:12:27.36,0:12:28.83,Housei,,0,0,0,,I'm sorry
+Dialogue: 0,0:12:28.83,0:12:30.23,Matsu,,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:12:30.23,0:12:31.36,Tanaka,,0,0,0,,This is the last one
+Dialogue: 0,0:12:31.80,0:12:32.70,CardText,,0,0,0,,{\fs14\pos(716.2,281)\clip(682,285,750,285)\t(0,200,\clip(682,248,750,285))}Old Men\NSneezing
+Dialogue: 0,0:12:32.70,0:12:36.00,CardText,,0,0,0,,{\pos(726,211)}Old Men\NSneezing
+Dialogue: 0,0:12:36.00,0:12:38.10,CardText,,0,0,0,,{\fs16\pos(713,295)}Old Men\NSneezing
+Dialogue: 0,0:12:38.10,0:12:38.64,CardText,,0,0,0,,{\fs16\move(713,295,708,348)\t(0,300,\fs12)}Old Men\NSneezing
+Dialogue: 0,0:12:38.64,0:12:39.47,CardText,,0,0,0,,{\fs12\move(708,348,698,380))}Old Men\NSneezing
+Dialogue: 0,0:12:39.47,0:12:40.07,CardText,,0,0,0,,{\fs12\move(698,380,688,390))}Old Men\NSneezing
+Dialogue: 0,0:12:32.40,0:12:33.87,Matsu,,0,0,0,,Oh hell no
+Dialogue: 0,0:12:33.87,0:12:35.10,Guest,,0,0,0,,What is it?
+Dialogue: 0,0:12:35.10,0:12:36.53,Hamada,,0,0,0,,This is the worst
+Dialogue: 0,0:12:35.10,0:12:37.10,Endo,,0,0,0,,This is the worst
+Dialogue: 0,0:12:36.53,0:12:38.10,Tanaka,,0,0,0,,This is the worst one
+Dialogue: 0,0:12:38.10,0:12:40.37,Endo,,0,0,0,,This one is just a no-no
+Dialogue: 0,0:12:39.84,0:12:42.24,Matsu,,0,0,0,,Let's not do this one...
+Dialogue: 0,0:12:40.37,0:12:45.01,Endo,,0,0,0,,Please man... This is so bad...
+Dialogue: 0,0:12:43.07,0:12:47.95,Matsu,,0,0,0,,{\pos(727.5,912)}I think I hate this one the most
+Dialogue: 0,0:12:45.01,0:12:47.31,Endo,,0,0,0,,I definitely don't want to
+Dialogue: 0,0:12:45.01,0:12:47.31,Tanaka,,0,0,0,,Mentally, it kills you
+Dialogue: 0,0:12:47.31,0:12:49.91,Hamada,,0,0,0,,But once we get this done, it's over
+Dialogue: 0,0:12:49.91,0:12:51.85,Endo,,0,0,0,,This is the last one... Concentrate...
+Dialogue: 0,0:12:51.85,0:12:53.22,Housei,,0,0,0,,Last one...
+Dialogue: 0,0:12:53.22,0:12:56.99,Tanaka,,0,0,0,,Last one...
+Dialogue: 0,0:12:54.22,0:12:56.99,Endo,,0,0,0,,But seriously...
+Dialogue: 0,0:12:56.99,0:12:59.32,Hamada,,0,0,0,,This one...
+Dialogue: 0,0:12:57.72,0:12:59.32,Tanaka,,0,0,0,,Yeah, I get you
+Dialogue: 0,0:12:59.32,0:13:01.53,Tanaka,,0,0,0,,This one is just a no.
+Dialogue: 0,0:13:01.53,0:13:04.40,Matsu,,0,0,0,,Shall we do it one at a time?
+Dialogue: 0,0:13:02.86,0:13:04.40,Hamada,,0,0,0,,One at a time?
+Dialogue: 0,0:13:04.40,0:13:06.40,Tanaka,,0,0,0,,So in order?
+Dialogue: 0,0:13:07.73,0:13:11.10,Guest,,0,0,0,,Damn, you're good at this
+Dialogue: 0,0:13:08.87,0:13:13.34,Endo,,0,0,0,,You're so lucky
+Dialogue: 0,0:13:08.60,0:13:11.57,Hamada,,0,0,0,,{\fad(300,0)\fs72\pos(499,854)}Hamada
+Dialogue: 0,0:13:08.97,0:13:09.40,Shine3,,0,0,0,,{\fad(0,200)\blur10\i1\fax0.1\pos(499,854)\clip(361.5,770,361,862)\t(0,300,\clip(361.5,770,646.5,862)))}Hamada
+Dialogue: 0,0:13:11.10,0:13:13.34,Guest,,0,0,0,,He's out
+Dialogue: 0,0:13:13.34,0:13:14.77,Hamada,,0,0,0,,Who's going next? Tanaka?
+Dialogue: 0,0:13:14.77,0:13:16.24,Tanaka,,0,0,0,,May I go?
+Dialogue: 0,0:13:19.64,0:13:21.51,Tanaka,,0,0,0,,Yes!!
+Dialogue: 0,0:13:20.88,0:13:23.95,Hamada,,0,0,0,,Well done
+Dialogue: 0,0:13:20.95,0:13:23.58,Tanaka,,0,0,0,,{\fad(300,0)\fs72\pos(493,842)}Tanaka
+Dialogue: 0,0:13:21.38,0:13:21.75,Shine3,,0,0,0,,{\fad(0,200)\blur10\i1\fax0.1\clip(366,756,366,850)\t(0,300,\clip(366,756,630,850))\pos(493,842)}Tanaka
+Dialogue: 0,0:13:21.51,0:13:23.95,Tanaka,,0,0,0,,Get in!
+Dialogue: 0,0:13:23.95,0:13:25.52,Hamada,,0,0,0,,Yama-chan, you want to go?
+Dialogue: 0,0:13:28.85,0:13:31.59,Housei,,0,0,0,,I'm begging you, please, please...
+Dialogue: 0,0:13:31.59,0:13:33.96,Hamada,,0,0,0,,Don't get it...
+Dialogue: 0,0:13:32.89,0:13:33.96,Housei,,0,0,0,,Okay
+Dialogue: 0,0:13:34.73,0:13:36.53,Matsu,,0,0,0,,Who do you want to get it?
+Dialogue: 0,0:13:36.53,0:13:38.03,Hamada,,0,0,0,,Him (Endo)
+Dialogue: 0,0:13:38.40,0:13:42.60,Housei,,0,0,0,,{\fad(300,0)\fs72\pos(496,840)}Housei
+Dialogue: 0,0:13:38.76,0:13:39.16,Shine3,,0,0,0,,{\fad(0,200)\blur10\i1\fax0.1\clip(366,756,366,850)\t(0,300,\clip(366,756,630,850))\pos(496,840)}Housei
+Dialogue: 0,0:13:40.26,0:13:42.57,Hamada,,0,0,0,,He's done it
+Dialogue: 0,0:13:42.57,0:13:44.67,Endo,,0,0,0,,Mikihisa-san, you should go next
+Dialogue: 0,0:13:43.70,0:13:47.61,Guest,,0,0,0,,No, I don't think
+Dialogue: 0,0:13:44.87,0:13:47.61,Hamada,,0,0,0,,You just don't know now...
+Dialogue: 0,0:13:44.67,0:13:47.61,Endo,,0,0,0,,You go
+Dialogue: 0,0:13:47.61,0:13:49.77,Tanaka,,0,0,0,,Who's going first?
+Dialogue: 0,0:13:47.61,0:13:49.77,Hamada,,0,0,0,,Matsumoto-san?
+Dialogue: 0,0:13:50.64,0:13:51.68,Matsu,,0,0,0,,Mikihisa...
+Dialogue: 0,0:13:51.68,0:13:52.78,Guest,,0,0,0,,Me?
+Dialogue: 0,0:13:52.78,0:13:55.58,Endo,,0,0,0,,Please just pick the card though..
+Dialogue: 0,0:13:55.58,0:13:57.62,Hamada,,0,0,0,,But if he doesn't pick it here, you guys...
+Dialogue: 0,0:13:57.62,0:14:00.32,Endo,,0,0,0,,I know, I haven't had to do anything yet
+Dialogue: 0,0:13:58.22,0:14:00.32,Tanaka,,0,0,0,,That's true
+Dialogue: 0,0:14:00.32,0:14:01.55,Endo,,0,0,0,,But seriously, please
+Dialogue: 0,0:14:01.55,0:14:04.06,Guest,,0,0,0,,I will pick the one which I least want to pick
+Dialogue: 0,0:14:02.95,0:14:04.06,Hamada,,0,0,0,,I see
+Dialogue: 0,0:14:04.06,0:14:05.22,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:14:05.22,0:14:06.89,Guest,,0,0,0,,YES!
+Dialogue: 0,0:14:06.46,0:14:09.83,Guest,,0,0,0,,{\fad(300,0)\fs72\pos(496,990)}Azuma\NMikihisa
+Dialogue: 0,0:14:06.82,0:14:07.23,Shine3,,0,0,0,,{\fad(0,200)\blur10\i1\fax0.1\pos(496,990)\clip(350,830,387,1010)\t(0,300,\clip(590,830,632,1010)}Azuma\NMikihisa
+Dialogue: 0,0:14:09.93,0:14:13.66,Hamada,,0,0,0,,Wow, amazing
+Dialogue: 0,0:14:13.66,0:14:15.23,Tanaka,,0,0,0,,It's one or the other!
+Dialogue: 0,0:14:15.23,0:14:16.93,Endo,,0,0,0,,You don't know yet
+Dialogue: 0,0:14:16.93,0:14:18.70,Hamada,,0,0,0,,Who's going first?
+Dialogue: 0,0:14:18.70,0:14:20.70,Hamada,,0,0,0,,Matsumoto-san first?
+Dialogue: 0,0:14:20.70,0:14:22.27,Hamada,,0,0,0,,You going first?
+Dialogue: 0,0:14:22.27,0:14:23.44,Hamada,,0,0,0,,Rock, paper, scissors?
+Dialogue: 0,0:14:23.44,0:14:25.08,Hamada,,0,0,0,,Rock, Paper...
+Dialogue: 0,0:14:26.14,0:14:28.08,Endo,,0,0,0,,I will
+Dialogue: 0,0:14:26.78,0:14:28.08,Hamada,,0,0,0,,You're going first?
+Dialogue: 0,0:14:29.25,0:14:31.65,Hamada,,0,0,0,,If you are safe, it's Matsumoto-san
+Dialogue: 0,0:14:32.75,0:14:35.52,Hamada,,0,0,0,,So pick one.
+Dialogue: 0,0:14:35.52,0:14:38.52,Hamada,,0,0,0,,Flip it on three
+Dialogue: 0,0:14:36.12,0:14:38.52,Endo,,0,0,0,,I'm begging you
+Dialogue: 0,0:14:39.09,0:14:40.46,Hamada,,0,0,0,,Right then...
+Dialogue: 0,0:14:39.76,0:14:41.83,Endo,,0,0,0,,Yes...
+Dialogue: 0,0:14:40.46,0:14:41.83,Hamada,,0,0,0,,Ready, set
+Dialogue: 0,0:14:42.83,0:14:45.43,Hamada,,0,0,0,,Pick one
+Dialogue: 0,0:14:45.43,0:14:48.47,Hamada,,0,0,0,,Flip it on three
+Dialogue: 0,0:14:46.10,0:14:48.47,Endo,,0,0,0,,I'm beggin you
+Dialogue: 0,0:14:48.47,0:14:51.47,BoxNameBG,,0,0,0,,{\fscy122\pos(498,781)}---------
+Dialogue: 0,0:14:48.47,0:14:51.47,BoxName,,0,0,0,,{\fs38\pos(497,777)}Matsumoto
+Dialogue: 0,0:14:48.47,0:14:53.37,BoxNameBG,,0,0,0,,{\fscy122\pos(941,566.333)}---------
+Dialogue: 0,0:14:48.47,0:14:53.37,BoxName,,0,0,0,,{\pos(941,566.333)}Endo
+Dialogue: 0,0:14:51.47,0:14:53.37,BoxBGRed,,0,0,0,,{\fscy128\pos(498,781)}---------
+Dialogue: 0,0:14:51.47,0:14:53.37,BoxName,,0,0,0,,{\fs38\pos(497,777)}Matsumoto
+Dialogue: 0,0:14:49.00,0:14:50.40,Hamada,,0,0,0,,Right then...
+Dialogue: 0,0:14:49.67,0:14:51.64,Endo,,0,0,0,,Yes...
+Dialogue: 0,0:14:50.40,0:14:51.64,Hamada,,0,0,0,,Ready, set
+Dialogue: 0,0:14:53.84,0:14:58.81,BatsuNameB,,0,0,0,,{\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(241,886)}Matsumoto
+Dialogue: 0,0:14:53.84,0:14:58.81,BatsuName,,0,0,0,,{\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(241,886)}Matsumoto
+Dialogue: 0,0:14:53.84,0:14:58.81,BatsuB,,0,0,0,,{\shad0\clip(80,825,80,1017)\t(0,500,\clip(80,825,1257,1017))\pos(943,886)}Old Men Sneezing
+Dialogue: 0,0:14:53.84,0:14:58.81,RedT2,,0,0,0,,{\shad0\clip(80,825,80,1017)\t(0,500,\clip(80,825,1257,1017))\pos(943,886)}Old Men Sneezing
+Dialogue: 0,0:14:53.84,0:14:58.81,RedT,,0,0,0,,{\fs42\clip(80,825,80,1017)\t(0,500,\clip(80,825,1217,1017))\pos(429,971.333)}Shh
+Dialogue: 0,0:15:01.75,0:15:04.85,Endo,,0,0,0,,Get in!!!
+Dialogue: 0,0:15:04.85,0:15:07.29,Hamada,,0,0,0,,Shozo, you are something else!
+Dialogue: 0,0:15:07.29,0:15:09.92,Tanaka,,0,0,0,,Get in!
+Dialogue: 0,0:15:07.29,0:15:09.22,Endo,,0,0,0,,I'm so happy
+Dialogue: 0,0:15:09.22,0:15:13.36,Matsu,,0,0,0,,Change with me...
+Dialogue: 0,0:15:10.39,0:15:13.22,Hamada,,0,0,0,,Shozo, your luck is just...
+Dialogue: 0,0:15:13.22,0:15:15.33,Tanaka,,0,0,0,,This one is so bad
+Dialogue: 0,0:15:13.36,0:15:16.83,Matsu,,0,0,0,,Endo...
+Dialogue: 0,0:15:15.33,0:15:16.83,Endo,,0,0,0,,This is...
+Dialogue: 0,0:15:16.83,0:15:21.13,Matsu,,0,0,0,,Endo, I will give you 10,000 Yen!
+Dialogue: 0,0:15:20.00,0:15:22.50,Endo,,0,0,0,,No
+Dialogue: 0,0:15:21.13,0:15:25.34,Matsu,,0,0,0,,10,000 yen: I'm saying I will give you 10,000 yen
+Dialogue: 0,0:15:25.34,0:15:28.27,Matsu,,0,0,0,,I'm saying 10,000 yen...
+Dialogue: 0,0:15:25.34,0:15:28.27,Guest,,0,0,0,,Matsumoto-san...
+Dialogue: 0,0:15:28.27,0:15:29.34,Hamada,,0,0,0,,Here he comes
+Dialogue: 0,0:15:29.34,0:15:32.81,Endo,,0,0,0,,He's looking at you so much, he's locked onto you
+Dialogue: 0,0:15:37.18,0:15:38.55,Guest,,0,0,0,,What's he going to do?
+Dialogue: 0,0:15:38.55,0:15:40.65,Endo,,0,0,0,,This is so bad
+Dialogue: 0,0:15:42.75,0:15:44.42,Matsu,,0,0,0,,Stood up?
+Dialogue: 0,0:15:45.86,0:15:47.93,Guest,,0,0,0,,This is...
+Dialogue: 0,0:15:47.93,0:15:51.23,Endo,,0,0,0,,This is what happens...
+Dialogue: 0,0:16:09.98,0:16:12.62,Tanaka,,0,0,0,,Oh man
+Dialogue: 0,0:16:12.62,0:16:15.02,Endo,,0,0,0,,Damn
+Dialogue: 0,0:16:19.22,0:16:21.13,Hamada,,0,0,0,,This is just
+Dialogue: 0,0:16:23.29,0:16:24.96,Hamada,,0,0,0,,This is
+Dialogue: 0,0:16:24.96,0:16:27.30,Hamada,,0,0,0,,This is harsh
+Dialogue: 0,0:16:35.74,0:16:37.44,Endo,,0,0,0,,That was disgusting
+Dialogue: 0,0:16:40.14,0:16:42.05,Hamada,,0,0,0,,This is mentally
+Dialogue: 0,0:16:42.05,0:16:45.22,Matsu,,0,0,0,,This is the worst
+Dialogue: 0,0:16:44.05,0:16:47.15,Hamada,,0,0,0,,Mentally...
+Dialogue: 0,0:16:44.05,0:16:47.15,Endo,,0,0,0,,It is
+Dialogue: 0,0:16:48.12,0:16:51.42,Matsu,,0,0,0,,When you think you're going to get it, you get it.
+Dialogue: 0,0:16:51.06,0:16:53.36,Housei,,0,0,0,,I know, right?
+Dialogue: 0,0:16:51.42,0:16:53.06,Matsu,,0,0,0,,{\pos(718.5,900)}You just know when it's you...
+Dialogue: 0,0:16:53.06,0:16:56.79,Matsu,,0,0,0,,{\pos(726,914)}When you have a bad feeling, you always get it.
+Dialogue: 0,0:16:56.16,0:16:58.00,Endo,,0,0,0,,You're so right
+Dialogue: 0,0:16:56.79,0:17:00.90,Matsu,,0,0,0,,{\pos(723,904)}I was convinced I was going to get the last one...
+Dialogue: 0,0:16:59.40,0:17:01.83,Housei,,0,0,0,,You were so against it too...
+Dialogue: 0,0:17:00.90,0:17:03.60,Matsu,,0,0,0,,I just knew it...
+Dialogue: 0,0:17:03.60,0:17:05.90,Hamada,,0,0,0,,That was the best final punishment...
+Dialogue: 0,0:17:05.90,0:17:07.74,Hamada,,0,0,0,,In a different sense...
+Dialogue: 0,0:17:08.74,0:17:19.55,Thin Black Text,,0,0,0,,{\fad(300,0)\fs52\pos(1207,72.667)}Aired May 1st
+Dialogue: 0,0:17:10.78,0:17:19.55,RedT,,0,0,0,,{\fad(300,0)\pos(714,760)\c&H5E004C&}Impromptu!! {\c&H00008A&}Ghost Story Inn!
+Dialogue: 0,0:17:10.78,0:17:12.38,Narrator,,0,0,0,,Recently we aired the show
+Dialogue: 0,0:17:12.38,0:17:16.08,Narrator,,0,0,0,,where you must make a ghost story from the cards given
+Dialogue: 0,0:17:16.08,0:17:18.85,Narrator,,0,0,0,,Impromptu Ghost Story Inn!
+Dialogue: 0,0:17:20.15,0:17:25.46,RedT,,0,0,0,,{\fad(300,600)\fs82\c&H0C8100&\t(0,5300,\fs112)\pos(735,735.333)}The unseen part\N\N{\c&H000081&}of the impromptu ghost story inn
+Dialogue: 0,0:17:20.15,0:17:21.29,Shine2,,0,0,0,,{\blur20\fad(200,300)\fs62\pos(736.5,738)}The unseen part\N\Nof the impromptu ghost story inn
+Dialogue: 0,0:17:20.22,0:17:22.19,Narrator,,0,0,0,,This time, we will show the unseen parts
+Dialogue: 0,0:17:22.19,0:17:24.86,Narrator,,0,0,0,,that we couldn't fit into the original episode
+Dialogue: 0,0:17:26.12,0:17:29.76,Narrator,,0,0,0,,First up is Hamada's ghost story
+Dialogue: 0,0:17:26.29,0:17:29.76,RedOutline,,0,0,0,,{\fad(1000,0)\i1\fax0.09\fs72\bord6\shad9\frz13.5\pos(308,676)}Unseen footage
+Dialogue: 0,0:17:26.29,0:17:27.29,Shine,,0,0,0,,{\blur10\fad(300,300)\i1\fax0.09\fs72\bord6\shad9\frz13.5\pos(308,676)}Unseen footage
+Dialogue: 0,0:17:26.29,0:17:29.76,Hamada,,0,0,0,,{\fad(1000,0)\pos(729,822)}Hamada's ghost story
+Dialogue: 0,0:17:26.29,0:17:27.29,Shine,,0,0,0,,{\blur10\fad(300,300)\pos(729,790)}Hamada's ghost story
+Dialogue: 0,0:17:32.43,0:17:34.47,Endo,,0,0,0,,I see...
+Dialogue: 0,0:17:32.43,0:17:34.47,Tanaka,,0,0,0,,An old woman...
+Dialogue: 0,0:17:34.47,0:17:35.53,Endo,,0,0,0,,An old woman...
+Dialogue: 0,0:17:35.53,0:17:36.73,Housei,,0,0,0,,And old woman and...
+Dialogue: 0,0:17:36.73,0:17:38.90,Matsu,,0,0,0,,An old woman and...
+Dialogue: 0,0:17:39.84,0:17:41.64,Housei,,0,0,0,,Oh, scary...
+Dialogue: 0,0:17:39.84,0:17:41.64,Matsu,,0,0,0,,That's perfect
+Dialogue: 0,0:17:41.64,0:17:42.87,Tanaka,,0,0,0,,A hospital...
+Dialogue: 0,0:17:42.87,0:17:47.34,Matsu,,0,0,0,,{\pos(859.5,906)}Shall we choose one more?
+Dialogue: 0,0:17:44.78,0:17:48.21,Endo,,0,0,0,,Yeah, let's do three..
+Dialogue: 0,0:17:45.84,0:17:48.21,Tanaka,,0,0,0,,I agree.
+Dialogue: 0,0:17:48.21,0:17:50.68,Matsu,,0,0,0,,These 2 are easy to do..
+Dialogue: 0,0:17:48.21,0:17:50.68,Endo,,0,0,0,,As a special treat...
+Dialogue: 0,0:17:50.68,0:17:52.25,Matsu,,0,0,0,,A special treat...
+Dialogue: 0,0:17:52.25,0:17:53.75,Matsu,,0,0,0,,Suspension bridge...
+Dialogue: 0,0:17:52.25,0:17:53.75,Tanaka,,0,0,0,,Suspension bridge...
+Dialogue: 0,0:17:53.75,0:17:54.92,Endo,,0,0,0,,Oh man...
+Dialogue: 0,0:17:53.75,0:17:57.19,Matsu,,0,0,0,,{\pos(906,902)}But you know, let's choose one more...
+Dialogue: 0,0:17:55.59,0:17:57.19,Housei,,0,0,0,,That's right
+Dialogue: 0,0:17:55.59,0:17:57.19,Endo,,0,0,0,,It's a special treat after all...
+Dialogue: 0,0:17:57.19,0:17:58.96,Matsu,,0,0,0,,A French doll...
+Dialogue: 0,0:17:58.96,0:18:02.23,Endo,,0,0,0,,This is, wow...
+Dialogue: 0,0:17:59.76,0:18:02.23,Tanaka,,0,0,0,,You got so much potential here
+Dialogue: 0,0:18:01.06,0:18:03.76,Matsu,,0,0,0,,You can do this
+Dialogue: 0,0:18:02.23,0:18:03.76,Endo,,0,0,0,,What a treat...
+Dialogue: 0,0:18:04.70,0:18:06.40,Hamada,,0,0,0,,Well...
+Dialogue: 0,0:18:11.77,0:18:16.41,Hamada,,0,0,0,,{\an2\fad(200,300)\pos(720,1070)}It's about an old woman acquaintance of mine
+Dialogue: 0,0:18:09.60,0:18:12.40,Hamada,,0,0,0,,{\pos(720,1070)\an2\fad(200,0)}It's about an old {\alphaFF}woman acquaintance of mine
+Dialogue: 0,0:18:18.41,0:18:21.88,Matsu,,0,0,0,,Old woman acquaintance?
+Dialogue: 0,0:18:21.88,0:18:24.48,Matsu,,0,0,0,,That's quite weird, no?
+Dialogue: 0,0:18:23.65,0:18:25.45,Housei,,0,0,0,,You're right
+Dialogue: 0,0:18:24.48,0:18:27.92,Hamada,,0,0,0,,Sorry, she's this person I know's grandma...
+Dialogue: 0,0:18:27.92,0:18:31.82,Hamada,,0,0,0,,So this person's grandma...
+Dialogue: 0,0:18:28.49,0:18:31.82,Matsu,,0,0,0,,Oh right, I see...
+Dialogue: 0,0:18:31.82,0:18:33.62,Matsu,,0,0,0,,And old woman, right?
+Dialogue: 0,0:18:32.32,0:18:33.62,Hamada,,0,0,0,,Yes..
+Dialogue: 0,0:18:37.83,0:18:40.00,Hamada,,0,0,0,,{\an2\fad(200,0)\pos(720,1070)}And she's a bit old so she's starting
+Dialogue: 0,0:18:35.09,0:18:38.63,Hamada,,0,0,0,,{\pos(720,1070)\an2\fad(200,0)}And she's a bit old{\alphaFF} so she's starting
+Dialogue: 0,0:18:40.00,0:18:42.43,Hamada,,0,0,0,,{\fad(200,0)}to become a bit forgetful...
+Dialogue: 0,0:18:42.83,0:18:46.30,Hamada,,0,0,0,,and so she's going to a hospital kind of
+Dialogue: 0,0:18:46.30,0:18:48.97,Hamada,,0,0,0,,and that kind of place
+Dialogue: 0,0:18:47.17,0:18:48.97,Matsu,,0,0,0,,kind of?
+Dialogue: 0,0:18:48.97,0:18:51.34,Hamada,,0,0,0,,In a hospital...
+Dialogue: 0,0:18:51.34,0:18:54.08,Hamada,,0,0,0,,and her family put her in one
+Dialogue: 0,0:18:54.08,0:18:56.58,Hamada,,0,0,0,,If she's at home, she {\alphaFF}wanders so it's a bit dangerous
+Dialogue: 0,0:18:56.58,0:18:59.52,Hamada,,0,0,0,,If she's at home, she wanders so it's a bit dangerous
+Dialogue: 0,0:19:00.62,0:19:02.49,Hamada,,0,0,0,,And so
+Dialogue: 0,0:19:02.49,0:19:04.49,Hamada,,0,0,0,,that old woman
+Dialogue: 0,0:19:05.56,0:19:07.09,Hamada,,0,0,0,,is always holding this{\alphaFF} French doll
+Dialogue: 0,0:19:07.09,0:19:08.76,Hamada,,0,0,0,,is always holding this French doll
+Dialogue: 0,0:19:08.76,0:19:11.00,Matsu,,0,0,0,,Oh man, why?
+Dialogue: 0,0:19:11.00,0:19:12.56,Hamada,,0,0,0,,That's because
+Dialogue: 0,0:19:12.56,0:19:16.80,Hamada,,0,0,0,,She's becoming forgetful so she thinks that it's
+Dialogue: 0,0:19:16.80,0:19:19.34,Hamada,,0,0,0,,her newborn daughter...
+Dialogue: 0,0:19:19.34,0:19:22.47,Hamada,,0,0,0,,and she holds this the whole time
+Dialogue: 0,0:19:22.47,0:19:26.28,Hamada,,0,0,0,,and she was like this at home, so that's why they put her in a hospital.
+Dialogue: 0,0:19:24.51,0:19:26.28,Matsu,,0,0,0,,That's so scary
+Dialogue: 0,0:19:28.11,0:19:29.88,Hamada,,0,0,0,,{\an2\fad(200,0)\pos(720,1070)}at the hospital, in the corridor or wherever
+Dialogue: 0,0:19:26.28,0:19:28.95,Hamada,,0,0,0,,{\pos(720,1070)\an2\fad(200,0)}at the hospital, in the {\alphaFF}corridor or wherever
+Dialogue: 0,0:19:32.12,0:19:34.08,Hamada,,0,0,0,,{\an2\fad(200,0)\pos(720,1070)}even when it's lights out, she holds this French doll and just walks about
+Dialogue: 0,0:19:29.88,0:19:33.02,Hamada,,0,0,0,,{\pos(720,1070)\an2\fad(200,0)}even when it's light out, she holds{\alphaFF} this French doll and just walks about
+Dialogue: 0,0:19:34.08,0:19:36.22,Hamada,,0,0,0,,{\fad(200,0)}and they say "Oh man, that old woman is gone again"
+Dialogue: 0,0:19:36.22,0:19:39.42,Hamada,,0,0,0,,So they start being like "Oh man, she's escaped her room and wandered off again"
+Dialogue: 0,0:19:39.42,0:19:41.73,Hamada,,0,0,0,,And this carried on for days...
+Dialogue: 0,0:19:41.73,0:19:46.33,Hamada,,0,0,0,,{\fad(200,0)}And this one time, they searched the whole hospital, but they couldn't find her.
+Dialogue: 0,0:19:46.33,0:19:48.73,Hamada,,0,0,0,,{\fad(0,300)}but it's a hospital in the countryside...
+Dialogue: 0,0:19:49.53,0:19:51.54,Hamada,,0,0,0,,so there was this really big suspension bridge
+Dialogue: 0,0:19:51.54,0:19:55.61,Hamada,,0,0,0,,and if you cross this bridge, you can go into town.
+Dialogue: 0,0:19:55.61,0:19:57.27,Hamada,,0,0,0,,But they thought "Oh no, what if..."
+Dialogue: 0,0:19:57.27,0:20:01.48,Hamada,,0,0,0,,"Surely she hasn't escaped the hospital and crossed that bridge"
+Dialogue: 0,0:20:00.68,0:20:02.55,Matsu,,0,0,0,,That is dangerous
+Dialogue: 0,0:20:01.48,0:20:04.68,Hamada,,0,0,0,,{\fad(200,0)}and when they ran to the suspension bridge to look
+Dialogue: 0,0:20:04.72,0:20:08.52,Hamada,,0,0,0,,{\fad(0,300)}she had fallen...
+Dialogue: 0,0:20:08.52,0:20:09.89,Housei,,0,0,0,,There it is, again
+Dialogue: 0,0:20:08.52,0:20:12.86,Tanaka,,0,0,0,,She fell again?
+Dialogue: 0,0:20:09.89,0:20:11.62,Endo,,0,0,0,,Your character always fall over...
+Dialogue: 0,0:20:13.59,0:20:16.53,Matsu,,0,0,0,,The suspension bridge isn't important then!
+Dialogue: 0,0:20:16.53,0:20:18.83,Matsu,,0,0,0,,She hasn't crossed the suspension bridge then!
+Dialogue: 0,0:20:18.83,0:20:21.07,Hamada,,0,0,0,,She hasn't crossed it, whilst she was crossing it
+Dialogue: 0,0:20:21.07,0:20:22.97,Matsu,,0,0,0,,She fell?
+Dialogue: 0,0:20:21.07,0:20:22.97,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:20:22.97,0:20:25.67,Matsu,,0,0,0,,She wasn't like going up stairs though...
+Dialogue: 0,0:20:25.67,0:20:29.27,Housei,,0,0,0,,{\pos(726,904)}What an incident...
+Dialogue: 0,0:20:25.67,0:20:29.27,Tanaka,,0,0,0,,That's serious
+Dialogue: 0,0:20:29.64,0:20:35.61,RedOutline,,0,0,0,,{\fad(1000,300)\i1\fax0.09\fs72\bord6\shad9\frz13.5\pos(308,676)}Unseen footage
+Dialogue: 0,0:20:29.64,0:20:30.61,Shine,,0,0,0,,{\blur10\fad(300,300)\i1\fax0.09\fs72\bord6\shad9\frz13.5\pos(308,676)}Unseen footage
+Dialogue: 0,0:20:29.64,0:20:35.61,Housei,,0,0,0,,{\fad(1000,300)\pos(729,822)}Housei's ghost story
+Dialogue: 0,0:20:29.64,0:20:30.61,Shine,,0,0,0,,{\blur10\fad(300,300)\pos(729,790)}Housei's ghost story
+Dialogue: 0,0:20:29.74,0:20:33.14,Narrator,,0,0,0,,Next up is Housei's ghost story
+Dialogue: 0,0:20:33.14,0:20:35.68,Matsu,,0,0,0,,Tell me when to stop
+Dialogue: 0,0:20:37.01,0:20:38.62,Housei,,0,0,0,,Stop!
+Dialogue: 0,0:20:37.55,0:20:38.62,Matsu,,0,0,0,,OK.
+Dialogue: 0,0:20:39.75,0:20:41.62,Hamada,,0,0,0,,First up
+Dialogue: 0,0:20:41.62,0:20:43.92,Hamada,,0,0,0,,A rusty door...
+Dialogue: 0,0:20:47.06,0:20:48.83,Housei,,0,0,0,,Top! Ah...
+Dialogue: 0,0:20:51.10,0:20:52.53,Matsu,,0,0,0,,"Top..."
+Dialogue: 0,0:20:52.53,0:20:55.00,Matsu,,0,0,0,,Erimo Misaki
+Dialogue: 0,0:20:52.53,0:20:55.07,Note Bright,,0,0,0,,{\pos(730.5,2)}Note: Erimo Misaki is a place in Japan but, also a song sang by Mori Shinichi
+Dialogue: 0,0:20:55.00,0:20:57.37,Endo,,0,0,0,,Erimo Misaki, huh...
+Dialogue: 0,0:20:57.37,0:20:58.87,Housei,,0,0,0,,Stop!
+Dialogue: 0,0:20:58.87,0:21:00.80,Hamada,,0,0,0,,He's going for three...
+Dialogue: 0,0:21:00.80,0:21:02.81,Endo,,0,0,0,,There it is again
+Dialogue: 0,0:21:00.80,0:21:02.81,Tanaka,,0,0,0,,Another suspension bridge
+Dialogue: 0,0:21:02.81,0:21:04.91,Hamada,,0,0,0,,It's come again
+Dialogue: 0,0:21:04.91,0:21:06.81,Hamada,,0,0,0,,This is good
+Dialogue: 0,0:21:05.24,0:21:07.95,Matsu,,0,0,0,,How many do you want?
+Dialogue: 0,0:21:07.95,0:21:09.08,Endo,,0,0,0,,That's true
+Dialogue: 0,0:21:09.08,0:21:11.08,Matsu,,0,0,0,,Let's do 5 then
+Dialogue: 0,0:21:06.81,0:21:11.08,Hamada,,0,0,0,,I did 4, so he should do 5
+Dialogue: 0,0:21:11.08,0:21:12.22,Housei,,0,0,0,,Stop!
+Dialogue: 0,0:21:13.12,0:21:15.15,Matsu,,0,0,0,,Vinegared mackerel
+Dialogue: 0,0:21:13.78,0:21:15.15,Tanaka,,0,0,0,,vinegared mackerel...
+Dialogue: 0,0:21:16.82,0:21:18.86,Tanaka,,0,0,0,,Vinegared mackerel...
+Dialogue: 0,0:21:18.86,0:21:20.26,Housei,,0,0,0,,Stop!
+Dialogue: 0,0:21:18.86,0:21:20.26,Tanaka,,0,0,0,,Wow, a fifth one?
+Dialogue: 0,0:21:20.26,0:21:22.36,Matsu,,0,0,0,,5 would be amazing
+Dialogue: 0,0:21:21.36,0:21:24.43,Hamada,,0,0,0,,It would be amazing if you did 5.
+Dialogue: 0,0:21:22.36,0:21:24.43,Matsu,,0,0,0,,That's amazing
+Dialogue: 0,0:21:24.43,0:21:26.20,Matsu,,0,0,0,,Hide and seek.
+Dialogue: 0,0:21:25.16,0:21:26.20,Endo,,0,0,0,,Hide and seek...
+Dialogue: 0,0:21:26.20,0:21:28.37,Tanaka,,0,0,0,,That's a mix...
+Dialogue: 0,0:21:27.36,0:21:28.37,Endo,,0,0,0,,Right then, with this
+Dialogue: 0,0:21:28.37,0:21:32.27,Hamada,,0,0,0,,A rusty door, Erimo Misaki, a suspension bridge, vinegared mackerel and hide and seek...
+Dialogue: 0,0:21:32.27,0:21:33.64,Hamada,,0,0,0,,I mean you are
+Dialogue: 0,0:21:33.64,0:21:35.47,Hamada,,0,0,0,,a rakugo-ka after all...
+Dialogue: 0,0:21:34.64,0:21:36.17,Housei,,0,0,0,,Yes
+Dialogue: 0,0:21:35.47,0:21:36.94,Hamada,,0,0,0,,So please make it a good one
+Dialogue: 0,0:21:35.47,0:21:36.94,Endo,,0,0,0,,Please
+Dialogue: 0,0:21:36.94,0:21:40.21,Matsu,,0,0,0,,But please make it a really scary story...
+Dialogue: 0,0:21:38.64,0:21:41.51,Housei,,0,0,0,,I will.
+Dialogue: 0,0:21:39.51,0:21:41.51,Endo,,0,0,0,,Please do
+Dialogue: 0,0:21:40.21,0:21:41.55,Matsu,,0,0,0,,But not too long either.
+Dialogue: 0,0:21:41.55,0:21:43.81,Housei,,0,0,0,,I will make it a short and scary story
+Dialogue: 0,0:21:43.81,0:21:47.75,Housei,,0,0,0,,This is about when I went with my family to Erimo Misaki
+Dialogue: 0,0:21:49.52,0:21:51.92,Housei,,0,0,0,,Do you know of it?
+Dialogue: 0,0:21:51.92,0:21:54.73,Housei,,0,0,0,,There are loads of suspension bridges there
+Dialogue: 0,0:21:54.73,0:21:56.93,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:21:55.43,0:21:56.93,Housei,,0,0,0,,Yes
+Dialogue: 0,0:21:56.93,0:22:01.47,Housei,,0,0,0,,And when we got there and we crossed them
+Dialogue: 0,0:22:01.47,0:22:04.50,Housei,,0,0,0,,We were like "what shall we do?"
+Dialogue: 0,0:22:04.50,0:22:07.14,Housei,,0,0,0,,We were like "shall we play a good game of hide and seek?"
+Dialogue: 0,0:22:07.14,0:22:09.87,Endo,,0,0,0,,With your kids?
+Dialogue: 0,0:22:07.94,0:22:09.87,Housei,,0,0,0,,Yes
+Dialogue: 0,0:22:09.87,0:22:12.84,Housei,,0,0,0,,so we did
+Dialogue: 0,0:22:12.84,0:22:15.21,Housei,,0,0,0,,{\fad(200,0)}I became the seeker
+Dialogue: 0,0:22:15.21,0:22:16.95,Housei,,0,0,0,,{\fad(200,0)}because I am the father
+Dialogue: 0,0:22:16.95,0:22:18.58,Housei,,0,0,0,,I said "are you ready?"
+Dialogue: 0,0:22:18.58,0:22:20.02,Housei,,0,0,0,,and they replied "Not yet"
+Dialogue: 0,0:22:20.02,0:22:22.52,Housei,,0,0,0,,Are you ready? Not yet... are you ready?
+Dialogue: 0,0:22:22.52,0:22:24.89,Housei,,0,0,0,,We are ready
+Dialogue: 0,0:22:24.89,0:22:28.89,Housei,,0,0,0,,So I started looking for them but I couldn't find them at all!
+Dialogue: 0,0:22:28.89,0:22:31.86,Housei,,0,0,0,,But none of them were there and I was like "what's going on?"
+Dialogue: 0,0:22:33.83,0:22:36.03,Housei,,0,0,0,,huh?
+Dialogue: 0,0:22:36.03,0:22:38.94,Housei,,0,0,0,,Why aren't they here, I can't find them at all
+Dialogue: 0,0:22:39.54,0:22:42.37,Housei,,0,0,0,,{\fad(200,0)}And of course I won't find them
+Dialogue: 0,0:22:42.37,0:22:45.18,Housei,,0,0,0,,It was the first time I've ever been to Erimo Misaki after all...
+Dialogue: 0,0:22:45.54,0:22:47.61,Matsu,,0,0,0,,What the hell is that style of story telling...
+Dialogue: 0,0:22:46.61,0:22:47.61,Hamada,,0,0,0,,I know
+Dialogue: 0,0:22:47.61,0:22:50.28,Hamada,,0,0,0,,That's not how you tell a ghost story...
+Dialogue: 0,0:22:51.65,0:22:53.52,Housei,,0,0,0,,And when I was walking for a while,
+Dialogue: 0,0:22:55.45,0:22:58.12,Housei,,0,0,0,,there was a door, a really rusty one
+Dialogue: 0,0:22:58.12,0:22:59.69,Housei,,0,0,0,,It was really rusty
+Dialogue: 0,0:22:59.69,0:23:04.19,Housei,,0,0,0,,So I thought "oh, my kids are definitely in here"
+Dialogue: 0,0:23:04.19,0:23:07.16,Housei,,0,0,0,,so I pushed the door
+Dialogue: 0,0:23:07.16,0:23:09.43,Housei,,0,0,0,,but it wouldn't open at all, because it's so rusty
+Dialogue: 0,0:23:10.57,0:23:12.54,Housei,,0,0,0,,So I thought "what!?"
+Dialogue: 0,0:23:12.54,0:23:17.51,Housei,,0,0,0,,{\fad(200,300)}I thought "if this doesn't open, I will be the seeker forever!"
+Dialogue: 0,0:23:17.98,0:23:20.01,Matsu,,0,0,0,,Is that the real problem here?
+Dialogue: 0,0:23:19.18,0:23:20.81,Housei,,0,0,0,,Yeah...
+Dialogue: 0,0:23:20.01,0:23:21.88,Tanaka,,0,0,0,,That's a weird way to think...
+Dialogue: 0,0:23:21.88,0:23:25.35,Housei,,0,0,0,,I thought "I want to hide too, not seek forever"...
+Dialogue: 0,0:23:25.35,0:23:27.92,Matsu,,0,0,0,,You really hate seeking that much, huh?
+Dialogue: 0,0:23:27.92,0:23:30.55,Housei,,0,0,0,,Eventually, I looked in
+Dialogue: 0,0:23:31.66,0:23:34.22,Housei,,0,0,0,,there were some mackerels there...
+Dialogue: 0,0:23:34.22,0:23:36.53,Matsu,,0,0,0,,You're kidding me, right?
+Dialogue: 0,0:23:36.53,0:23:38.03,Housei,,0,0,0,,They were stuck
+Dialogue: 0,0:23:38.03,0:23:40.66,Matsu,,0,0,0,,To that rusty door?
+Dialogue: 0,0:23:39.36,0:23:40.66,Housei,,0,0,0,,Yes
+Dialogue: 0,0:23:40.66,0:23:42.57,Housei,,0,0,0,,And then
+Dialogue: 0,0:23:42.57,0:23:47.47,Housei,,0,0,0,,the mackerel was caught to the door and therefore became a "Shime-saba"
+Dialogue: 0,0:23:42.57,0:23:47.84,Note Bright,,0,0,0,,{\pos(732,8)}(NOTE: SHIME CAN MEAN CAUGHT, HENCE THE PUN ON WORDS)
+Dialogue: 0,0:23:49.31,0:23:51.41,Housei,,0,0,0,,So the mackerel was caught and was a "shime-saba"
+Dialogue: 0,0:23:54.65,0:23:57.85,Matsu,,0,0,0,,Anyone can do it...
+Dialogue: 0,0:23:57.85,0:24:00.68,Matsu,,0,0,0,,It didn't escalate at all...
+Dialogue: 0,0:23:59.55,0:24:00.68,Endo,,0,0,0,,Yeah...
+Dialogue: 0,0:24:00.68,0:24:02.69,Matsu,,0,0,0,,Anyone can do it...
+Dialogue: 0,0:24:02.69,0:24:04.22,Tanaka,,0,0,0,,I see...
+Dialogue: 0,0:24:04.22,0:24:06.22,Tanaka,,0,0,0,,
+

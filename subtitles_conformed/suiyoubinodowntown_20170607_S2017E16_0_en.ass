@@ -1,0 +1,1118 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../WEDNESDAY DOWNTOWN 2017-06-07.mp4
+Video File: ../WEDNESDAY DOWNTOWN 2017-06-07.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 362
+Active Line: 371
+Video Position: 30682
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,60,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Default Talking Over,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Matsumoto Talking Over,Arial,50,&H001525D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Hamada Talking Over,Arial,50,&H00FF0015,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Comment,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&HFF000000,0,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Credit text title,Arial,60,&H64FFFFFF,&H64000000,&H64000000,&HFFFFFFFF,-1,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,185.951,100,0,0,3,36.6666,1.46666,5,9,9,8,1
+Style: fakelyrics,Arial,52,&H000A00EA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:44:24.94,Credit text title,,0,0,0,,Hello viewer! This video was created by volunteers. If you plan to alter the subs in anyway, please keep the credit as an action of gratitude towards those who have spent much of their free time to bring you subbed content. Enjoy!
+Comment: 0,0:00:00.00,0:00:19.10,Credit text title,,0,0,0,,End
+Comment: 0,0:01:07.91,0:01:09.35,Hamada,,0,0,0,,Really?!
+Comment: 0,0:01:39.11,0:01:39.88,Default,,0,0,0,,Oooh
+Comment: 0,0:03:50.91,0:03:53.28,Default,,0,0,0,,Like "I don't really know what you're saying", right? (TRANSLATOR NOTE)
+Comment: 0,0:04:07.49,0:04:15.80,Default,,0,0,0,,not sure if what the teacher says is needed
+Comment: 0,0:08:31.92,0:08:33.02,Default,,0,0,0,,text
+Comment: 0,0:11:33.26,0:11:36.10,Default,,0,0,0,,HAHAHA
+Comment: 0,0:12:55.82,0:12:58.36,Default,,0,0,0,,Did she just hiss?
+Comment: 0,0:15:46.78,0:15:48.68,Default,,0,0,0,,They really did
+Comment: 0,0:16:54.20,0:16:55.26,Default,,0,0,0,,And also
+Comment: 0,0:18:48.92,0:18:53.54,Default,,0,0,0,,That's quick
+Comment: 0,0:25:28.84,0:25:30.21,Default,,0,0,0,,Chase 'em boy
+Comment: 0,0:39:57.54,0:40:00.22,Default,,0,0,0,,End (Zebestt : Why is this here?)
+Comment: 0,0:33:14.57,0:33:14.60,Default,,0,0,0,,LYRICS BEGIN
+Comment: 0,0:40:26.94,0:40:27.97,Matsumoto,,0,0,0,,There's the lock on!
+Comment: 0,0:44:49.67,0:44:51.17,Default,,0,0,0,,text
+Comment: 0,0:45:18.13,0:45:19.26,Default,,0,0,0,,not sure if necessary
+Comment: 0,0:45:55.13,0:45:57.73,Default,,0,0,0,,not sure if necessary
+Comment: 0,0:09:59.84,0:10:02.55,Narrator,,0,0,0,,End
+Dialogue: 0,0:00:00.00,0:47:39.80,Credit text title,,0,0,0,,{\c&HFFFFFF&\1a&HDC&\3c&H000000&\3a&HDC&\4c&HFFFFFF&\4a&HFF&\fscx63\fscy86\pos(123,56)}WDT Project
+Dialogue: 0,0:00:00.00,0:00:19.10,Default,,0,0,0,,{\pos(720,65)\bord0\shad0\1c&H000000&\p1\fade(0,1000)\alpha65}m 0 0  l 1800 0  1800 140  0 140
+Dialogue: 0,0:00:00.00,0:00:19.10,Credit text title,,0,0,0,,{\fscx52\fscy68\pos(718.5,50)}{\fade(0,1000)\c&H1525D4&\1a&H14&}Timers: {\c&HFFFFFF&}Shiratohaki, IngloriousBee, Otviss {\c&H00FFF1&}Translators: {\c&HFFFFFF&}Tamaio, Magichalo
+Dialogue: 0,0:00:02.48,0:00:06.15,Hamada,,0,0,0,,Welcome everyone to Wednesday Downtown!
+Dialogue: 0,0:00:04.55,0:00:06.15,Default,,0,0,0,,Thanks for having us!
+Dialogue: 0,0:00:08.05,0:00:11.16,Hamada,,0,0,0,,Let's welcome our first presenter, come on in!
+Dialogue: 0,0:00:17.53,0:00:20.90,Hamada,,0,0,0,,Kannatsugi!!
+Dialogue: 0,0:00:18.00,0:00:20.20,Default,,0,0,0,,Thanks for having me!
+Dialogue: 0,0:00:20.90,0:00:22.27,Hamada,,0,0,0,,How unusual
+Dialogue: 0,0:00:22.27,0:00:23.50,Matsumoto,,0,0,0,,Yeah, a little bit weird
+Dialogue: 0,0:00:23.50,0:00:27.31,Hamada,,0,0,0,,He often appears in the video presentations
+Dialogue: 0,0:00:24.67,0:00:27.31,Default,,0,0,0,,I often appear in the videos in my disguise
+Dialogue: 0,0:00:27.31,0:00:29.51,Matsumoto,,0,0,0,,The style he's rocking
+Dialogue: 0,0:00:29.51,0:00:31.81,Matsumoto,,0,0,0,,and the clothes are weird
+Dialogue: 0,0:00:31.81,0:00:34.41,Default,,0,0,0,,I look weird? Should I then wear some uniform?
+Dialogue: 0,0:00:34.41,0:00:37.45,Default,,0,0,0,,Before presenting today's theory,
+Dialogue: 0,0:00:37.45,0:00:39.02,Default,,0,0,0,,I would like to ask a question to all of you
+Dialogue: 0,0:00:39.02,0:00:41.39,Default,,0,0,0,,Have you ever done a teacher's impression
+Dialogue: 0,0:00:41.39,0:00:45.42,Default,,0,0,0,,back when you were students?
+Dialogue: 0,0:00:45.42,0:00:46.89,Default,,0,0,0,,Yes, of course
+Dialogue: 0,0:00:45.69,0:00:48.39,Matsumoto,,0,0,0,,I think so, yes
+Dialogue: 0,0:00:46.89,0:00:48.39,Default,,0,0,0,,So, you have, right?
+Dialogue: 0,0:00:48.39,0:00:52.60,Default,,0,0,0,,I had this teacher who always spoke with her eyes half closed
+Dialogue: 0,0:00:51.56,0:00:52.60,Default,,0,0,0,,Half closed?
+Dialogue: 0,0:00:52.60,0:00:55.37,Default,,0,0,0,,She was a classical literature teacher,
+Dialogue: 0,0:00:55.37,0:00:57.90,Default,,0,0,0,,"The novel Taketori monogatari was..."
+Dialogue: 0,0:00:58.54,0:01:01.84,Hamada,,0,0,0,,Are you serious?
+Dialogue: 0,0:00:59.94,0:01:01.84,Default,,0,0,0,,I am!
+Dialogue: 0,0:01:01.84,0:01:05.24,Hamada,,0,0,0,,How can the teacher go like this?
+Dialogue: 0,0:01:04.31,0:01:05.24,Default,,0,0,0,,All the time!
+Dialogue: 0,0:01:05.24,0:01:09.35,Default,,0,0,0,,If right now someone from the same high school is watching, they're probably laughing
+Dialogue: 0,0:01:09.35,0:01:12.02,Default,,0,0,0,,That kind of teacher
+Dialogue: 0,0:01:12.02,0:01:15.49,Default,,0,0,0,,If we impersonated their gestures and habits
+Dialogue: 0,0:01:13.29,0:01:14.42,Hamada,,0,0,0,,Ah yes, yes
+Dialogue: 0,0:01:14.42,0:01:15.32,Matsumoto,,0,0,0,,I see
+Dialogue: 0,0:01:15.49,0:01:17.22,Matsumoto,,0,0,0,,It would be hilarious
+Dialogue: 0,0:01:17.22,0:01:19.93,Default,,0,0,0,,Since I'm a professional impersonator
+Dialogue: 0,0:01:19.93,0:01:23.96,Default,,0,0,0,,I started doing impressions of my teachers
+Dialogue: 0,0:01:22.53,0:01:23.40,Hamada,,0,0,0,,Your beginnings
+Dialogue: 0,0:01:23.70,0:01:24.50,Hamada,,0,0,0,,I see
+Dialogue: 0,0:01:24.00,0:01:26.36,Default,,0,0,0,,and everyone laughed with them
+Dialogue: 0,0:01:25.73,0:01:26.36,Hamada,,0,0,0,,Got you
+Dialogue: 0,0:01:26.36,0:01:27.70,Default,,0,0,0,,I became a professional
+Dialogue: 0,0:01:27.70,0:01:29.33,Matsumoto,,0,0,0,,So that's how you started
+Dialogue: 0,0:01:29.33,0:01:32.94,Default,,0,0,0,,And this is the theory I brought to you today:
+Dialogue: 0,0:01:33.67,0:01:38.71,Hamada,,0,0,0,,"If a professional impersonates real teachers, their students will die of laughter" theory
+Dialogue: 0,0:01:39.11,0:01:39.88,Default,,0,0,0,,Wooow
+Dialogue: 0,0:01:40.58,0:01:42.08,Default,,0,0,0,,That has to be funny
+Dialogue: 0,0:01:42.08,0:01:47.59,Matsumoto,,0,0,0,,If it's already funny when a regular student does it, imagine a professional!
+Dialogue: 0,0:01:44.05,0:01:45.38,Default,,0,0,0,,That's right
+Dialogue: 0,0:01:47.59,0:01:49.89,Default,,0,0,0,,It has to get laughs!
+Dialogue: 0,0:01:48.99,0:01:49.89,Default,,0,0,0,,I'm sure about that
+Dialogue: 0,0:01:49.89,0:01:51.76,Default,,0,0,0,,We're professionals after all!
+Dialogue: 0,0:01:51.96,0:01:56.39,Default,,0,0,0,,If you fail at that, you'd become useless, right?
+Dialogue: 0,0:01:54.89,0:01:55.73,Hamada,,0,0,0,,Hey!!
+Dialogue: 0,0:01:57.00,0:02:00.77,Narrator,,0,0,0,,Coming up next: professional impersonators try to take on teachers!
+Dialogue: 0,0:02:01.40,0:02:03.44,Narrator,,0,0,0,,Will they get tons of laughs?
+Dialogue: 0,0:02:05.04,0:02:09.61,Narrator,,0,0,0,,Also, "the stronger the tsukkomi, the funnier it gets" theory
+Dialogue: 0,0:02:13.58,0:02:19.05,Narrator,,0,0,0,,"People won't notice if a famous song with changed lyrics is played in a store" theory
+Dialogue: 0,0:02:19.45,0:02:23.42,Narrator,,0,0,0,,"You become powerless when holding a urine sample" theory
+Dialogue: 0,0:02:39.60,0:02:45.24,Narrator,,0,0,0,,"If a professional impersonates real teachers, their students will die of laughter" investigation
+Dialogue: 0,0:02:43.68,0:02:45.24,Matsumoto Talking Over,,0,0,0,,Die of laughter...
+Dialogue: 0,0:02:45.58,0:02:47.85,Narrator,,0,0,0,,Today, we will visit Yamanashi,
+Dialogue: 0,0:02:47.85,0:02:51.25,Narrator,,0,0,0,,where FujiGakuen Middle School is located.
+Dialogue: 0,0:02:51.95,0:02:54.02,Narrator,,0,0,0,,They have a class per each school year
+Dialogue: 0,0:02:54.02,0:02:58.62,Narrator,,0,0,0,,and approximately 60 students enrolled
+Dialogue: 0,0:02:57.96,0:02:59.82,Default Talking Over,,0,0,0,,Quite cozy in there!
+Dialogue: 0,0:02:59.02,0:03:05.76,Narrator,,0,0,0,,And these are the pros in charge of the teachers impressions!
+Dialogue: 0,0:03:01.23,0:03:02.36,Default Talking Over,,0,0,0,,Amazing!
+Dialogue: 0,0:03:03.53,0:03:06.10,Hamada Talking Over,,0,0,0,,That lineup is surely something!
+Dialogue: 0,0:03:06.50,0:03:13.84,Narrator,,0,0,0,,The pros visited the school in order to gather information about the teachers
+Dialogue: 0,0:03:15.67,0:03:21.38,Narrator,,0,0,0,,First, when inquiring some students who already graduated:
+Dialogue: 0,0:03:20.21,0:03:22.08,Matsumoto Talking Over,,0,0,0,,Oh, I see
+Dialogue: 0,0:03:21.38,0:03:23.68,Default,,0,0,0,,There's this teacher, called Oomori sensei
+Dialogue: 0,0:03:23.68,0:03:25.22,Default,,0,0,0,,Oomori sensei...
+Dialogue: 0,0:03:23.68,0:03:25.22,Default,,0,0,0,,Oomori sensei
+Dialogue: 0,0:03:25.22,0:03:27.02,Default,,0,0,0,,What's his subject?
+Dialogue: 0,0:03:26.22,0:03:27.02,Default,,0,0,0,,Science
+Dialogue: 0,0:03:28.22,0:03:29.85,Default,,0,0,0,,When he gets mad, he gets like super agitated
+Dialogue: 0,0:03:30.56,0:03:31.59,Default,,0,0,0,,And goes like this
+Dialogue: 0,0:03:31.59,0:03:33.39,Default,,0,0,0,,All they way up, suddenly?
+Dialogue: 0,0:03:33.39,0:03:35.63,Default,,0,0,0,,That's right, his intonation too
+Dialogue: 0,0:03:34.93,0:03:35.63,Default,,0,0,0,,Oh, the intonation
+Dialogue: 0,0:03:35.63,0:03:38.30,Default,,0,0,0,,Could you do an impression of that?
+Dialogue: 0,0:03:39.40,0:03:42.07,Default,,0,0,0,,"Oh my, what are you doing??"
+Dialogue: 0,0:03:42.40,0:03:43.80,Default,,0,0,0,,"I have no heart, I'm telling you"
+Dialogue: 0,0:03:45.10,0:03:47.17,Default,,0,0,0,,This might work, I get it!
+Dialogue: 0,0:03:47.17,0:03:49.64,Default,,0,0,0,,He's always had a bad diction
+Dialogue: 0,0:03:48.27,0:03:49.64,Default,,0,0,0,,Bad diction?
+Dialogue: 0,0:03:49.64,0:03:53.28,Default,,0,0,0,,Since he has a bad diction, you can't understand him, huh?
+Dialogue: 0,0:03:53.88,0:03:57.98,Narrator,,0,0,0,,Next, the pros will watch the lessons live
+Dialogue: 0,0:03:58.58,0:04:01.32,Default,,0,0,0,,So you understand that "other" is singular, right?
+Dialogue: 0,0:04:01.65,0:04:02.99,Default,,0,0,0,,She raises the final "NE"
+Dialogue: 0,0:04:02.99,0:04:05.79,Default,,0,0,0,,She suddenly raises the final NE
+Dialogue: 0,0:04:03.56,0:04:04.79,Default Talking Over,,0,0,0,,Amazing!
+Dialogue: 0,0:04:04.72,0:04:05.79,Default,,0,0,0,,The NE
+Dialogue: 0,0:04:05.79,0:04:07.49,Default,,0,0,0,,As if she were following a rhythm
+Dialogue: 0,0:04:06.42,0:04:07.49,Default,,0,0,0,,Right, a rhythm
+Dialogue: 0,0:04:07.49,0:04:15.80,Default,,0,0,0,,Oh, this guy
+Dialogue: 0,0:04:11.03,0:04:12.43,Matsumoto Talking Over,,0,0,0,,His diction is unique
+Dialogue: 0,0:04:09.96,0:04:11.66,Default,,0,0,0,,Ah, this one
+Dialogue: 0,0:04:13.93,0:04:15.80,Default,,0,0,0,,Wow, look at the chalk
+Dialogue: 0,0:04:15.17,0:04:17.04,Hamada Talking Over,,0,0,0,,This can be funny
+Dialogue: 0,0:04:15.80,0:04:18.00,Default,,0,0,0,,This might be possible, right?
+Dialogue: 0,0:04:17.24,0:04:18.00,Default,,0,0,0,,Yeah
+Dialogue: 0,0:04:18.50,0:04:22.04,Narrator,,0,0,0,,And then, regarding Oomori sensei:
+Dialogue: 0,0:04:24.84,0:04:28.31,Default,,0,0,0,,We can exaggerate this a little bit
+Dialogue: 0,0:04:26.14,0:04:27.91,Default Talking Over,,0,0,0,,I see now
+Dialogue: 0,0:04:27.05,0:04:28.31,Default,,0,0,0,,That's right
+Dialogue: 0,0:04:28.75,0:04:33.52,Narrator,,0,0,0,,And now, Mr. "Slipping Glasses & Bad Diction" Oomori
+Dialogue: 0,0:04:34.09,0:04:37.42,Narrator,,0,0,0,,Has been chosen to be impersonated
+Dialogue: 0,0:04:37.76,0:04:38.79,Narrator,,0,0,0,,Also...
+Dialogue: 0,0:04:38.79,0:04:39.32,Default,,0,0,0,,Come in, please
+Dialogue: 0,0:04:39.32,0:04:41.49,Matsumoto Talking Over,,0,0,0,,So, the teachers came too
+Dialogue: 0,0:04:40.93,0:04:42.69,Default,,0,0,0,,Hello!
+Dialogue: 0,0:04:43.53,0:04:48.67,Narrator,,0,0,0,,The pros will meet the teachers firsthand
+Dialogue: 0,0:04:48.67,0:04:56.41,Default,,0,0,0,,What impression do you think will make the students laugh?
+Dialogue: 0,0:04:56.41,0:04:58.88,Default,,0,0,0,,Well, I am bald so...
+Dialogue: 0,0:04:57.88,0:04:58.88,Default,,0,0,0,,Bald...
+Dialogue: 0,0:04:58.88,0:05:01.08,Default,,0,0,0,,I'd emphasize that
+Dialogue: 0,0:04:59.71,0:05:01.08,Default,,0,0,0,,I see
+Dialogue: 0,0:05:01.08,0:05:03.62,Default,,0,0,0,,So you've actually made fun of it before
+Dialogue: 0,0:05:02.11,0:05:03.62,Default,,0,0,0,,That's correct
+Dialogue: 0,0:05:03.62,0:05:07.02,Default,,0,0,0,,So, more precisely, how could we play with that?
+Dialogue: 0,0:05:07.02,0:05:08.62,Default,,0,0,0,,When I enter the classroom
+Dialogue: 0,0:05:08.62,0:05:12.06,Default,,0,0,0,,I go like "How's everyone?"
+Dialogue: 0,0:05:12.06,0:05:13.89,Default,,0,0,0,,It also makes a nice sound
+Dialogue: 0,0:05:13.89,0:05:16.80,Default,,0,0,0,,Now, you seem to be a really serious teacher
+Dialogue: 0,0:05:17.70,0:05:19.80,Default,,0,0,0,,Do you ever laugh out loud?
+Dialogue: 0,0:05:19.80,0:05:21.50,Default,,0,0,0,,Well, not really...
+Dialogue: 0,0:05:21.97,0:05:25.90,Default,,0,0,0,,What's the funniest thing you last laughed with?
+Dialogue: 0,0:05:31.84,0:05:37.92,Narrator,,0,0,0,,And with that, Oota sensei, who can't remember the last time he laughed,
+Dialogue: 0,0:05:37.92,0:05:40.95,Narrator,,0,0,0,,has also been selected to be impersonated!
+Dialogue: 0,0:05:41.75,0:05:44.22,Narrator,,0,0,0,,And now...
+Dialogue: 0,0:05:42.85,0:05:44.22,Default,,0,0,0,,Hello!
+Dialogue: 0,0:05:44.42,0:05:47.63,Default,,0,0,0,,Kanekatsu sensei...
+Dialogue: 0,0:05:47.63,0:05:49.86,Default,,0,0,0,,you have the "nice, nice!" catchphrase, right?
+Dialogue: 0,0:05:49.86,0:05:53.80,Default,,0,0,0,,When a student is doing well, I say like "nice, nice!"
+Dialogue: 0,0:05:53.80,0:05:56.63,Default,,0,0,0,,"Nice, nice!". Oh, I think we can use this
+Dialogue: 0,0:05:56.63,0:05:58.94,Default,,0,0,0,,Kanekatsu-sensei, and what about your dentures?
+Dialogue: 0,0:05:58.94,0:06:00.94,Default,,0,0,0,,Well, whenever I start shouting...
+Dialogue: 0,0:06:02.87,0:06:04.24,Default Talking Over,,0,0,0,,Oh, wow
+Dialogue: 0,0:06:05.04,0:06:08.05,Default,,0,0,0,,This is so good
+Dialogue: 0,0:06:06.78,0:06:08.05,Default,,0,0,0,,That is funny
+Dialogue: 0,0:06:08.68,0:06:14.79,Narrator,,0,0,0,,After gathering all the information about the teachers, the pros went back to TBS
+Dialogue: 0,0:06:15.55,0:06:21.36,Narrator,,0,0,0,,They joined the other two pros who didn't participated before and held a meeting
+Dialogue: 0,0:06:22.03,0:06:23.76,Default,,0,0,0,,What should we do?
+Dialogue: 0,0:06:23.76,0:06:26.20,Default,,0,0,0,,Shall we decide who has to wear make up?
+Dialogue: 0,0:06:26.20,0:06:29.40,Default,,0,0,0,,Let's see first...
+Dialogue: 0,0:06:30.67,0:06:32.70,Default,,0,0,0,,who can get the main roles
+Dialogue: 0,0:06:31.64,0:06:32.70,Default,,0,0,0,,Right
+Dialogue: 0,0:06:32.70,0:06:35.01,Hamada,,0,0,0,,That looks so hard
+Dialogue: 0,0:06:35.57,0:06:40.85,Narrator,,0,0,0,,Depending on the looks, voice tone and such, each pro was assigned a teacher
+Dialogue: 0,0:06:42.08,0:06:48.62,Narrator,,0,0,0,,Kannatsuki will impersonate the eccentric Yamaguchi sensei, ex- member of a "poop seminar"
+Dialogue: 0,0:06:49.52,0:06:54.56,Narrator,,0,0,0,,Also, "bad diction" Oomori sensei, will be impersonated by Hori
+Dialogue: 0,0:06:55.19,0:07:01.07,Narrator,,0,0,0,,Mira will impersonate Ebara sensei, who can't stop saying "Who can try?"
+Dialogue: 0,0:07:01.83,0:07:07.71,Narrator,,0,0,0,,The serious but also good at dancing Oota sensei will be impersonated by Ehara
+Dialogue: 0,0:07:08.54,0:07:14.98,Narrator,,0,0,0,,And Mirakuru will be in charge of Nakayama sensei, who hisses after finishing her sentences
+Dialogue: 0,0:07:15.68,0:07:23.35,Narrator,,0,0,0,,"Denture" Kanekatsu sensei and "Bald gag" Okuwaki sensei will also appear during the show
+Dialogue: 0,0:07:23.69,0:07:24.89,Default Talking Over,,0,0,0,,Looks like a medley
+Dialogue: 0,0:07:24.22,0:07:28.06,Narrator,,0,0,0,,After deciding the roles, they start preparing the content
+Dialogue: 0,0:07:26.99,0:07:28.49,Default Talking Over,,0,0,0,,So exciting!
+Dialogue: 0,0:07:28.23,0:07:34.17,Default,,0,0,0,,I would like it to be realistic, like when I did it as a student
+Dialogue: 0,0:07:34.17,0:07:37.30,Default,,0,0,0,,Ah, staying true to the character, right?
+Dialogue: 0,0:07:37.30,0:07:42.17,Default,,0,0,0,,I'd like us to do our best without distorting the characters too much
+Dialogue: 0,0:07:41.34,0:07:42.17,Default,,0,0,0,,Right, right
+Dialogue: 0,0:07:42.17,0:07:46.88,Default,,0,0,0,,Since his personality is so strong, he should appear at the end
+Dialogue: 0,0:07:44.98,0:07:46.88,Default,,0,0,0,,I agree
+Dialogue: 0,0:07:45.61,0:07:46.88,Default,,0,0,0,,Yeah, after a while
+Dialogue: 0,0:07:46.88,0:07:50.08,Default,,0,0,0,,And how should we introduce the teacher's catchphrases?
+Dialogue: 0,0:07:50.08,0:07:56.32,Default,,0,0,0,,When Mirakuru appears, she would go like "suuuh",
+Dialogue: 0,0:07:56.32,0:07:58.19,Default,,0,0,0,,and a fart cushion will be heard in the back
+Dialogue: 0,0:07:59.52,0:08:02.16,Default,,0,0,0,,But wouldn't the catchphrase lose power?
+Dialogue: 0,0:08:02.49,0:08:04.36,Default,,0,0,0,,I've never prepared anything like this
+Dialogue: 0,0:08:03.66,0:08:04.36,Default,,0,0,0,,I know, right?
+Dialogue: 0,0:08:04.36,0:08:05.83,Default,,0,0,0,,Our first time...
+Dialogue: 0,0:08:06.26,0:08:11.77,Narrator,,0,0,0,,In order to "To make the students die of laughter",
+Dialogue: 0,0:08:06.26,0:08:07.70,Hamada Talking Over,,0,0,0,,It's so tough!
+Dialogue: 0,0:08:12.40,0:08:16.17,Narrator,,0,0,0,,They are serious about it and the preparation goes on until late at night
+Dialogue: 0,0:08:16.88,0:08:19.14,Narrator,,0,0,0,,On the next day...
+Dialogue: 0,0:08:19.81,0:08:22.15,Narrator,,0,0,0,,They get together once more and start rehearsing
+Dialogue: 0,0:08:22.78,0:08:25.35,Narrator,,0,0,0,,They keep improving the content's quality
+Dialogue: 0,0:08:26.32,0:08:30.15,Narrator,,0,0,0,,And they finally wrapped it up!
+Dialogue: 0,0:08:30.15,0:08:31.92,Default,,0,0,0,,If they went like "woow",
+Dialogue: 0,0:08:31.92,0:08:33.02,Default,,0,0,0,,That would be terrible
+Dialogue: 0,0:08:33.02,0:08:35.33,Default,,0,0,0,,The reaction that impersonators hate the most
+Dialogue: 0,0:08:35.33,0:08:36.90,Default,,0,0,0,,Like "Ooooh"...
+Dialogue: 0,0:08:36.46,0:08:38.56,Hamada Talking Over,,0,0,0,,If they don't laugh, right?
+Dialogue: 0,0:08:37.80,0:08:39.73,Default,,0,0,0,,Let's make them not go "oooh"
+Dialogue: 0,0:08:39.73,0:08:41.03,Default,,0,0,0,,Let's make them have fun
+Dialogue: 0,0:08:45.47,0:08:51.18,Narrator,,0,0,0,,The clueless students are gathered in the multi-purpose hall
+Dialogue: 0,0:08:51.51,0:08:53.58,Default,,0,0,0,,These days you've all been slacking off!
+Dialogue: 0,0:08:53.85,0:08:56.51,Default,,0,0,0,,That is why you're all here
+Dialogue: 0,0:08:56.78,0:08:59.58,Default,,0,0,0,,There's a teacher that has something to say to all of you
+Dialogue: 0,0:09:00.39,0:09:02.35,Default,,0,0,0,,We've had it with you guys!
+Dialogue: 0,0:09:02.72,0:09:09.56,Narrator,,0,0,0,,The students, after being fooled to believe they were being scolded, will meet the impersonators!
+Dialogue: 0,0:09:10.19,0:09:12.30,Default,,0,0,0,,I want every teacher
+Dialogue: 0,0:09:12.30,0:09:13.87,Default,,0,0,0,,to have a few words
+Dialogue: 0,0:09:13.87,0:09:16.47,Default,,0,0,0,,with all of you here
+Dialogue: 0,0:09:16.47,0:09:18.77,Matsumoto,,0,0,0,,You can cut the air with a knife
+Dialogue: 0,0:09:26.91,0:09:28.18,Default,,0,0,0,,Hello
+Dialogue: 0,0:09:28.78,0:09:34.49,Narrator,,0,0,0,,After the unexpected appearance, they still don't know what happened
+Dialogue: 0,0:09:33.45,0:09:36.12,Default Talking Over,,0,0,0,,It was like: "what's going on?"
+Dialogue: 0,0:09:34.79,0:09:38.39,Default,,0,0,0,,Wait, this guy looks a lot like me!
+Dialogue: 0,0:09:38.69,0:09:40.33,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:09:39.46,0:09:40.33,Default,,0,0,0,,No, who are YOU?
+Dialogue: 0,0:09:40.33,0:09:42.29,Default,,0,0,0,,I'm Yamaguchi!
+Dialogue: 0,0:09:41.39,0:09:42.29,Default,,0,0,0,,I AM Yamaguchi
+Dialogue: 0,0:09:42.29,0:09:43.46,Default,,0,0,0,,No, I'M YAMAGUCHI
+Dialogue: 0,0:09:43.46,0:09:45.06,Default,,0,0,0,,I'm Yamaguchi
+Dialogue: 0,0:09:45.06,0:09:49.13,Default,,0,0,0,,If you really are Yamaguchi, tell me. You were in a seminar back in college, right?
+Dialogue: 0,0:09:49.13,0:09:50.27,Default,,0,0,0,,Which seminar?
+Dialogue: 0,0:09:50.27,0:09:52.37,Default,,0,0,0,,Turd seminar
+Dialogue: 0,0:09:50.74,0:09:52.37,Default,,0,0,0,,A turd seminar!
+Dialogue: 0,0:09:53.04,0:09:54.51,Hamada Talking Over,,0,0,0,,They're laughing a lot!
+Dialogue: 0,0:09:54.91,0:09:57.81,Default,,0,0,0,,The real Yamaguchi has eaten bugs right? Which insect did you eat?
+Dialogue: 0,0:09:57.81,0:09:59.38,Default,,0,0,0,,A stink bug
+Dialogue: 0,0:09:58.31,0:09:59.38,Default,,0,0,0,,A stink bug!!
+Dialogue: 0,0:09:59.70,0:10:04.82,Narrator,,0,0,0,,After realizing what's going on... they burst out laughing
+Dialogue: 0,0:10:01.78,0:10:03.30,Default Talking Over,,0,0,0,,
+Dialogue: 0,0:10:04.52,0:10:06.46,Hamada Talking Over,,0,0,0,,They find it hilarious
+Dialogue: 0,0:10:05.28,0:10:06.32,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:10:06.65,0:10:11.62,Default,,0,0,0,,There are many other teachers that are also angry!
+Dialogue: 0,0:10:11.62,0:10:12.92,Default,,0,0,0,,Oomori sensei!
+Dialogue: 0,0:10:18.80,0:10:20.92,Default Talking Over,,0,0,0,,The resemblance is amazing
+Dialogue: 0,0:10:18.80,0:10:22.58,Narrator,,0,0,0,,They achieved an amazing resemblance
+Dialogue: 0,0:10:23.48,0:10:25.76,Default,,0,0,0,,One, two, three
+Dialogue: 0,0:10:25.76,0:10:28.14,Default,,0,0,0,,Why the pinky, sensei?
+Dialogue: 0,0:10:28.32,0:10:34.12,Default,,0,0,0,,So, I want you to remember the important things needed for a flower to blossom
+Dialogue: 0,0:10:34.12,0:10:35.92,Default,,0,0,0,,There's one, two and three of them
+Dialogue: 0,0:10:35.91,0:10:39.16,Default,,0,0,0,,Hey, sensei, that's weird... It's pretty strange
+Dialogue: 0,0:10:39.72,0:10:43.58,Default,,0,0,0,,Stamen and pistil... Please remember that...
+Dialogue: 0,0:10:44.54,0:10:46.54,Default,,0,0,0,,Remember that!!!
+Dialogue: 0,0:10:46.84,0:10:48.68,Default,,0,0,0,,Remember that, I mean it!
+Dialogue: 0,0:10:48.90,0:10:51.68,Default,,0,0,0,,You can remember it!
+Dialogue: 0,0:10:49.68,0:10:51.66,Hamada Talking Over,,0,0,0,,They find it hilarious!
+Dialogue: 0,0:10:51.68,0:10:52.64,Default,,0,0,0,,Sensei
+Dialogue: 0,0:10:52.63,0:10:53.86,Default,,0,0,0,,You all...
+Dialogue: 0,0:10:54.73,0:10:56.53,Default,,0,0,0,,Your diction is terrible, so we have no idea what you're saying
+Dialogue: 0,0:10:56.53,0:10:58.37,Default,,0,0,0,,My dihsshion?
+Dialogue: 0,0:10:58.37,0:11:00.20,Default,,0,0,0,,We have no idea what you say when you get mad
+Dialogue: 0,0:11:00.64,0:11:04.44,Default,,0,0,0,,Isn't there a teacher with a better diction in this school?
+Dialogue: 0,0:11:08.58,0:11:11.98,Default,,0,0,0,,WOW, WOW
+Dialogue: 0,0:11:09.80,0:11:11.42,Hamada Talking Over,,0,0,0,,They're going "WOW"
+Dialogue: 0,0:11:12.10,0:11:13.20,Default,,0,0,0,,Hi everyone
+Dialogue: 0,0:11:15.24,0:11:16.88,Default Talking Over,,0,0,0,,They really look alike
+Dialogue: 0,0:11:16.20,0:11:19.99,Default,,0,0,0,,So the other day we left it at page twentyfiiiiiiive
+Dialogue: 0,0:11:20.00,0:11:22.34,Default,,0,0,0,,We will continuuuuue...
+Dialogue: 0,0:11:26.44,0:11:27.88,Default Talking Over,,0,0,0,,
+Dialogue: 0,0:11:27.88,0:11:29.54,Hamada Talking Over,,0,0,0,,They're laughing like hell!
+Dialogue: 0,0:11:28.92,0:11:30.60,Default Talking Over,,0,0,0,,They really are
+Dialogue: 0,0:11:26.44,0:11:28.30,Default,,0,0,0,,Like a one line joke
+Dialogue: 0,0:11:30.56,0:11:32.74,Default,,0,0,0,,When comparing "the other"
+Dialogue: 0,0:11:33.26,0:11:34.86,Matsumoto Talking Over,,0,0,0,,They're laughing their heads off
+Dialogue: 0,0:11:36.10,0:11:38.18,Default,,0,0,0,,When comparing "the other" to..
+Dialogue: 0,0:11:38.18,0:11:40.06,Default,,0,0,0,,... "the othersssh"
+Dialogue: 0,0:11:42.56,0:11:44.24,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:11:48.60,0:11:50.06,Default Talking Over,,0,0,0,,He appeared
+Dialogue: 0,0:11:50.76,0:11:55.14,Narrator,,0,0,0,,They started laughing right after the entrance
+Dialogue: 0,0:11:56.50,0:11:58.62,Narrator,,0,0,0,,What about the real person?
+Dialogue: 0,0:12:02.04,0:12:05.14,Narrator,,0,0,0,,In spite of the circumstances, he remains expressionless
+Dialogue: 0,0:12:05.18,0:12:06.88,Hamada,,0,0,0,,What the hell!
+Dialogue: 0,0:12:06.90,0:12:08.64,Matsumoto,,0,0,0,,He's never laughed in his life
+Dialogue: 0,0:12:13.64,0:12:15.71,Default,,0,0,0,,They're the same!
+Dialogue: 0,0:12:16.34,0:12:19.64,Default,,0,0,0,,What's with your right hand, sensei?
+Dialogue: 0,0:12:19.80,0:12:23.68,Default,,0,0,0,,Your right hand!
+Dialogue: 0,0:12:24.46,0:12:27.36,Default,,0,0,0,,And your mouth? That's a duck face
+Dialogue: 0,0:12:28.09,0:12:29.53,Matsumoto,,0,0,0,,The contrast is hilarious
+Dialogue: 0,0:12:29.83,0:12:31.26,Default,,0,0,0,,I'll dance now
+Dialogue: 0,0:12:34.14,0:12:37.42,Default,,0,0,0,,
+Dialogue: 0,0:12:37.10,0:12:40.06,Default Talking Over,,0,0,0,,Apparently he dances for the school festival
+Dialogue: 0,0:12:37.48,0:12:40.40,Narrator,,0,0,0,,And the last one to make entrance is...
+Dialogue: 0,0:12:45.84,0:12:49.15,Default,,0,0,0,,They're really similar
+Dialogue: 0,0:12:47.68,0:12:49.10,Matsumoto Talking Over,,0,0,0,,Indeed
+Dialogue: 0,0:12:49.15,0:12:54.50,Default,,0,0,0,,Today I'd like to talk about my favourite team: Nippon Ham
+Dialogue: 0,0:12:55.20,0:12:56.50,Default,,0,0,0,,Ssss...
+Dialogue: 0,0:13:03.72,0:13:05.66,Default,,0,0,0,,Dot, dot...
+Dialogue: 0,0:13:05.83,0:13:08.50,Default,,0,0,0,,That's a lot of dots!! Too many of them!
+Dialogue: 0,0:13:08.50,0:13:09.68,Default,,0,0,0,,Dot dot dotdotdotdot...
+Dialogue: 0,0:13:14.87,0:13:17.07,Default,,0,0,0,,Ssssss
+Dialogue: 0,0:13:20.80,0:13:22.74,Default,,0,0,0,,Who should we call next?
+Dialogue: 0,0:13:24.32,0:13:26.48,Default,,0,0,0,,Should we bring Okuwaki sensei?
+Dialogue: 0,0:13:29.05,0:13:31.96,Default,,0,0,0,,It's Baldiewaki!
+Dialogue: 0,0:13:32.34,0:13:36.78,Narrator,,0,0,0,,And finally they will go for Kanekatsu sensei's motto: "Nice, nice!"
+Dialogue: 0,0:13:37.48,0:13:39.20,Default,,0,0,0,,What do you think about the whole show?
+Dialogue: 0,0:13:39.88,0:13:41.68,Default,,0,0,0,,It was... "nice, nice"!
+Dialogue: 0,0:13:42.40,0:13:43.76,Default,,0,0,0,,"Nice, nice!"
+Dialogue: 0,0:13:45.08,0:13:46.62,Default,,0,0,0,,I'm better at nicenicing!!
+Dialogue: 0,0:13:46.62,0:13:47.72,Default,,0,0,0,,It's obvious I'm better!
+Dialogue: 0,0:13:47.42,0:13:48.70,Default,,0,0,0,,I AM BETTER
+Dialogue: 0,0:13:48.70,0:13:50.36,Default,,0,0,0,,I'm "nice,nice"!
+Dialogue: 0,0:13:54.46,0:13:56.70,Default,,0,0,0,,Someone should decide who's the "nice, nicest"
+Dialogue: 0,0:13:57.26,0:13:58.88,Default,,0,0,0,,Hey you, come here
+Dialogue: 0,0:14:02.30,0:14:04.62,Default,,0,0,0,,Sensei, how was our impersonations?
+Dialogue: 0,0:14:05.62,0:14:06.76,Default,,0,0,0,,"Nice, nice"!!
+Dialogue: 0,0:14:08.14,0:14:09.66,Hamada Talking Over,,0,0,0,,
+Dialogue: 0,0:14:09.98,0:14:11.70,Default,,0,0,0,,Thank you so much
+Dialogue: 0,0:14:13.38,0:14:18.08,Narrator,,0,0,0,,And like that, the impersonation show achieves a huge success!
+Dialogue: 0,0:14:18.47,0:14:19.64,Default,,0,0,0,,Were you surprised at the beginning?
+Dialogue: 0,0:14:20.94,0:14:23.10,Default,,0,0,0,,You might've thought "What's going on?" or something
+Dialogue: 0,0:14:23.47,0:14:25.24,Default,,0,0,0,,Who was the closest to the original?
+Dialogue: 0,0:14:25.31,0:14:27.31,Default,,0,0,0,,Oota sensei
+Dialogue: 0,0:14:29.90,0:14:31.18,Narrator,,0,0,0,,And...
+Dialogue: 0,0:14:31.25,0:14:33.15,Default,,0,0,0,,He's crying!
+Dialogue: 0,0:14:35.82,0:14:37.42,Matsumoto Talking Over,,0,0,0,,They're dying from laughter
+Dialogue: 0,0:14:34.19,0:14:37.46,Default,,0,0,0,,Why are you crying?
+Dialogue: 0,0:14:39.42,0:14:41.19,Matsumoto,,0,0,0,,They're literally dying from laughter
+Dialogue: 0,0:14:41.29,0:14:43.43,Default,,0,0,0,,I don't know...
+Dialogue: 0,0:14:43.43,0:14:45.20,Default,,0,0,0,,Is it because you're happy?
+Dialogue: 0,0:14:48.20,0:14:49.77,Default,,0,0,0,,Why??
+Dialogue: 0,0:14:50.03,0:14:51.54,Default,,0,0,0,,I don't really know
+Dialogue: 0,0:14:51.54,0:14:53.50,Default,,0,0,0,,Is it that you are overflowed with joy?
+Dialogue: 0,0:14:54.41,0:14:58.88,Default,,0,0,0,,I think he's just overflowed with joy
+Dialogue: 0,0:14:59.08,0:15:00.88,Default,,0,0,0,,The funniest thing was that
+Dialogue: 0,0:15:01.01,0:15:03.15,Default,,0,0,0,,Nakayama sensei's impersonation was on point
+Dialogue: 0,0:15:03.16,0:15:04.42,Default,,0,0,0,,And Egara sensei too
+Dialogue: 0,0:15:04.65,0:15:07.12,Default,,0,0,0,,They really got her essence
+Dialogue: 0,0:15:07.12,0:15:10.22,Default,,0,0,0,,It was so funny that I'll probably won't be able to stop laughing during the next class
+Dialogue: 0,0:15:08.98,0:15:10.34,Hamada Talking Over,,0,0,0,,I know, right?
+Dialogue: 0,0:15:10.34,0:15:11.90,Hamada Talking Over,,0,0,0,,They'll sure laugh during the next class
+Dialogue: 0,0:15:10.45,0:15:12.92,Default,,0,0,0,,It's the funniest thing I've ever seen
+Dialogue: 0,0:15:14.26,0:15:16.49,Default,,0,0,0,,It was really moving...
+Dialogue: 0,0:15:16.69,0:15:19.60,Default,,0,0,0,,Don't you feel like really we accomplished?
+Dialogue: 0,0:15:18.10,0:15:19.60,Default,,0,0,0,,Yes, I really do
+Dialogue: 0,0:15:19.60,0:15:20.33,Default,,0,0,0,,First time feeling like this
+Dialogue: 0,0:15:20.33,0:15:22.17,Default,,0,0,0,,The best in 10 years
+Dialogue: 0,0:15:22.17,0:15:24.07,Default,,0,0,0,,I think we did really well
+Dialogue: 0,0:15:24.84,0:15:26.00,Narrator,,0,0,0,,Students
+Dialogue: 0,0:15:26.18,0:15:27.18,Narrator,,0,0,0,,Teachers
+Dialogue: 0,0:15:27.36,0:15:28.34,Narrator,,0,0,0,,And also
+Dialogue: 0,0:15:28.78,0:15:30.46,Narrator,,0,0,0,,The impersonators
+Dialogue: 0,0:15:30.84,0:15:34.18,Narrator,,0,0,0,,Everyone was filled with joy and laughter
+Dialogue: 0,0:15:34.78,0:15:37.24,Narrator,,0,0,0,,It surely was a great day
+Dialogue: 0,0:15:37.84,0:15:42.84,Narrator,,0,0,0,,In a few words: it was an unexpectedly a heart-warming show
+Dialogue: 0,0:15:44.30,0:15:45.46,Hamada,,0,0,0,,That was something
+Dialogue: 0,0:15:45.46,0:15:47.76,Hamada,,0,0,0,,They found it hilarious didn't they
+Dialogue: 0,0:15:47.76,0:15:49.20,Hamada,,0,0,0,,Even one student was crying in the end
+Dialogue: 0,0:15:49.19,0:15:50.72,Default,,0,0,0,,He actually was
+Dialogue: 0,0:15:50.82,0:15:53.80,Matsumoto,,0,0,0,,He was crying so much that his hands were SOAKED
+Dialogue: 0,0:15:53.80,0:15:56.48,Matsumoto,,0,0,0,,The back of his hand was soaked
+Dialogue: 0,0:15:57.00,0:15:58.54,Matsumoto,,0,0,0,,Is that really possible?
+Dialogue: 0,0:15:58.68,0:16:01.10,Default,,0,0,0,,They were confused in the beginning
+Dialogue: 0,0:16:01.10,0:16:05.48,Hamada,,0,0,0,,Yeah, that's right
+Dialogue: 0,0:16:02.20,0:16:05.48,Default,,0,0,0,,Right, the atmosphere was quite intense
+Dialogue: 0,0:16:05.54,0:16:10.58,Matsumoto,,0,0,0,,Can't you participate in school festivals or something?
+Dialogue: 0,0:16:11.02,0:16:13.92,Default,,0,0,0,,In schools, companies, and such...
+Dialogue: 0,0:16:14.04,0:16:15.92,Matsumoto,,0,0,0,,I see...
+Dialogue: 0,0:16:16.12,0:16:19.62,Hamada,,0,0,0,,It seems you can do it in another occasion
+Dialogue: 0,0:16:17.72,0:16:19.62,Default,,0,0,0,,I'd like to see it again!
+Dialogue: 0,0:16:19.68,0:16:23.09,Default,,0,0,0,,But the preparation is difficult as HELL
+Dialogue: 0,0:16:23.09,0:16:28.50,Matsumoto,,0,0,0,,It's good to have such a moving show, since the BPO is after us
+Dialogue: 0,0:16:26.68,0:16:27.86,Hamada,,0,0,0,,HEY
+Dialogue: 0,0:16:28.50,0:16:29.86,Hamada,,0,0,0,,They're not after us
+Dialogue: 0,0:16:31.90,0:16:35.00,Hamada,,0,0,0,,OK, let's continue! Here comes our next presenter!
+Dialogue: 0,0:16:39.92,0:16:41.56,Default,,0,0,0,,Hellooo
+Dialogue: 0,0:16:42.30,0:16:45.85,Hamada,,0,0,0,,It's Kaminari!!
+Dialogue: 0,0:16:42.40,0:16:43.78,Default,,0,0,0,,Hello!
+Dialogue: 0,0:16:44.56,0:16:45.86,Default,,0,0,0,,Hello!
+Dialogue: 0,0:16:46.30,0:16:50.06,Default,,0,0,0,,It's our first appearance so let us introduce ourselves
+Dialogue: 0,0:16:50.06,0:16:52.70,Default,,0,0,0,,My name is Takumi Ishida, member of Kaminari
+Dialogue: 0,0:16:54.70,0:16:58.08,Default,,0,0,0,,I'm Manabu Takeuchi, member of Kaminari
+Dialogue: 0,0:16:58.58,0:17:01.50,Default,,0,0,0,,You were supposed to say something stupid!!
+Dialogue: 0,0:17:06.08,0:17:07.78,Default,,0,0,0,,I can't help but hitting him
+Dialogue: 0,0:17:08.04,0:17:10.71,Default,,0,0,0,,It's amazing to watch it live
+Dialogue: 0,0:17:10.71,0:17:14.20,Default,,0,0,0,,Thank you. We usually do the hardcore tsukkomi
+Dialogue: 0,0:17:14.20,0:17:16.88,Default,,0,0,0,,This is the theory we brought!
+Dialogue: 0,0:17:17.56,0:17:21.29,Hamada,,0,0,0,,The stronger the tsukkomi, the funnier it gets "theory"
+Dialogue: 0,0:17:23.35,0:17:26.69,Matsumoto,,0,0,0,,I'm not really sure about that
+Dialogue: 0,0:17:26.90,0:17:29.44,Default,,0,0,0,,You get it, right, Hamada? After all, you're the founding father
+Dialogue: 0,0:17:29.52,0:17:31.40,Default,,0,0,0,,The hardcore tsukkomi founder
+Dialogue: 0,0:17:31.40,0:17:35.62,Hamada,,0,0,0,,But "the stronger the funnier..." part... It depends on the circumstances
+Dialogue: 0,0:17:36.80,0:17:40.46,Matsumoto,,0,0,0,,Not long ago, on a different show,
+Dialogue: 0,0:17:40.46,0:17:45.20,Matsumoto,,0,0,0,,when you guys, Kaminari, appeared there
+Dialogue: 0,0:17:45.64,0:17:48.50,Matsumoto,,0,0,0,,You weren't hitting very hard, right?
+Dialogue: 0,0:17:49.36,0:17:50.36,Default,,0,0,0,,The NHK one?
+Dialogue: 0,0:17:52.10,0:17:56.74,Default,,0,0,0,,In the NHK case, during the morning assembly they told us: "Hitting is forbidden"
+Dialogue: 0,0:17:57.30,0:17:59.46,Default,,0,0,0,,Why? What happened?
+Dialogue: 0,0:17:59.46,0:18:05.02,Default,,0,0,0,,It seems that since it's an educational TV they told us not to use violence
+Dialogue: 0,0:18:05.02,0:18:07.20,Hamada,,0,0,0,,Then why would they call you?
+Dialogue: 0,0:18:08.74,0:18:13.24,Matsumoto,,0,0,0,,If it's ok not getting hit, I'd like to appear on that show too
+Dialogue: 0,0:18:28.38,0:18:32.96,Narrator,,0,0,0,,"The stronger the tsukkomi, the funnier it gets" theory
+Dialogue: 0,0:18:33.66,0:18:38.08,Narrator,,0,0,0,,In this occasion, they'll use as a base their representative "senryuu" manzai
+Dialogue: 0,0:18:38.80,0:18:43.52,Narrator,,0,0,0,,They introduced their manzai to people who might be good at "strong tsukkomi"
+Dialogue: 0,0:18:44.40,0:18:47.30,Narrator,,0,0,0,,This is the structure of their "senryuu" manzai
+Dialogue: 0,0:18:47.56,0:18:49.61,Default,,0,0,0,,Give me one about "glasses"
+Dialogue: 0,0:18:48.48,0:18:49.62,Default,,0,0,0,,I got it already
+Dialogue: 0,0:18:49.72,0:18:53.68,Default,,0,0,0,,"While actually wearing them; I looked for them all confused around; where the hell are the glasses"
+Dialogue: 0,0:18:53.68,0:18:54.88,Default,,0,0,0,,Ah, quite funny indeed
+Dialogue: 0,0:18:54.88,0:18:58.52,Default,,0,0,0,,You had the glasses on the forehead the whole time you were looking for them
+Dialogue: 0,0:18:58.52,0:19:00.18,Default,,0,0,0,,Right
+Dialogue: 0,0:18:58.88,0:19:00.20,Default,,0,0,0,,It's actually quite funny
+Dialogue: 0,0:19:00.18,0:19:01.19,Default,,0,0,0,,I know, right? I'm good at senryuu
+Dialogue: 0,0:19:01.19,0:19:02.88,Default,,0,0,0,,That was really something
+Dialogue: 0,0:19:04.00,0:19:07.94,Default,,0,0,0,,By the way, That wasn't 5-7-5. That was 7-9-7!!!
+Dialogue: 0,0:19:08.80,0:19:12.14,Narrator,,0,0,0,,1. Takumi introduces the senryuu topic
+Dialogue: 0,0:19:12.56,0:19:14.98,Narrator,,0,0,0,,2. Manabu says something stupid as an answer
+Dialogue: 0,0:19:15.70,0:19:21.66,Narrator,,0,0,0,,3. After playing along for a while, Takumi calls him out (Tsukkomi)
+Dialogue: 0,0:19:22.34,0:19:25.20,Narrator,,0,0,0,,For the second half, the situation is changed
+Dialogue: 0,0:19:25.58,0:19:27.78,Default,,0,0,0,,How about you try reciting one?
+Dialogue: 0,0:19:27.96,0:19:30.44,Default,,0,0,0,,Ok, say a topic and I will give you one
+Dialogue: 0,0:19:30.45,0:19:31.64,Default,,0,0,0,,Alright: "Motherly love"
+Dialogue: 0,0:19:31.74,0:19:33.20,Default,,0,0,0,,"Motherly love":
+Dialogue: 0,0:19:33.84,0:19:35.98,Default,,0,0,0,,"Breakfast..."
+Dialogue: 0,0:19:37.26,0:19:39.42,Default,,0,0,0,,"Rebellious age"
+Dialogue: 0,0:19:40.30,0:19:42.58,Default,,0,0,0,,"Working night shifts"
+Dialogue: 0,0:19:44.08,0:19:46.72,Default,,0,0,0,,I'm quite bad at senryuus!
+Dialogue: 0,0:19:48.08,0:19:52.94,Narrator,,0,0,0,,They will use this senryuu manzai base for the theory
+Dialogue: 0,0:19:53.50,0:19:58.58,Narrator,,0,0,0,,But, "the stronger the tsukkomi, the funnier"... Is it true?
+Dialogue: 0,0:20:00.44,0:20:01.45,Default Talking Over,,0,0,0,,He hits pretty strong
+Dialogue: 0,0:20:00.95,0:20:02.48,Matsumoto Talking Over,,0,0,0,,Doesn't he?
+Dialogue: 0,0:20:01.58,0:20:03.68,Narrator,,0,0,0,,The first challenger is..
+Dialogue: 0,0:20:04.01,0:20:04.82,Default,,0,0,0,,Glad to have you
+Dialogue: 0,0:20:04.82,0:20:06.95,Default,,0,0,0,,Glad to be here
+Dialogue: 0,0:20:05.45,0:20:06.95,Default,,0,0,0,,Glad to be here
+Dialogue: 0,0:20:07.42,0:20:12.96,Narrator,,0,0,0,,Professional Wrestlers: The combination of Super Sasadango Machine & Kota Ibushi
+Dialogue: 0,0:20:07.42,0:20:08.42,Hamada Talking Over,,0,0,0,,Strong start
+Dialogue: 0,0:20:09.75,0:20:11.26,Default Talking Over,,0,0,0,,Oh, they appear here?
+Dialogue: 0,0:20:11.52,0:20:13.66,Hamada Talking Over,,0,0,0,,This program sure likes Sasadango
+Dialogue: 0,0:20:13.42,0:20:15.23,Narrator,,0,0,0,,The Boke will be played by Sasadango
+Dialogue: 0,0:20:16.16,0:20:23.07,Narrator,,0,0,0,,The Tsukkomi will be played by Ibushi who is a man of many skills such as his flying kicks
+Dialogue: 0,0:20:23.97,0:20:27.61,Narrator,,0,0,0,,They'll quickly learn the way of Manzai comedy from Kaminari
+Dialogue: 0,0:20:28.17,0:20:30.77,Default,,0,0,0,,Now that you say that, there were too many characters.
+Dialogue: 0,0:20:30.77,0:20:32.74,Default,,0,0,0,,Well, something like that
+Dialogue: 0,0:20:32.74,0:20:38.72,Default,,0,0,0,,Here on the right side surface. This is the best spot. This place makes the best sound when hit.
+Dialogue: 0,0:20:34.31,0:20:35.75,Matsumoto Talking Over,,0,0,0,,Ah, I see, I see
+Dialogue: 0,0:20:37.45,0:20:39.95,Hamada Talking Over,,0,0,0,,It doesn't matter how you hit them
+Dialogue: 0,0:20:38.72,0:20:39.65,Default,,0,0,0,,Just like that.
+Dialogue: 0,0:20:39.65,0:20:40.68,Default,,0,0,0,,AH! SORRY!
+Dialogue: 0,0:20:41.49,0:20:46.62,Narrator,,0,0,0,,After that, what kind of retort will a Professional Wrestler combination do?
+Dialogue: 0,0:20:41.92,0:20:43.25,Hamada Talking Over,,0,0,0,,That was expected
+Dialogue: 0,0:20:51.80,0:20:55.60,Default,,0,0,0,,Hello, we are Professional Wrestlers. Nice to meet you.
+Dialogue: 0,0:20:51.86,0:20:53.03,Default Talking Over,,0,0,0,,That was cool
+Dialogue: 0,0:20:55.60,0:20:57.84,Default,,0,0,0,,So, truth be told
+Dialogue: 0,0:20:58.24,0:21:01.11,Default,,0,0,0,,I've noticed I'm actually better at Senryu poetry than I am at Wrestling
+Dialogue: 0,0:21:01.51,0:21:04.68,Default,,0,0,0,,So, for one, let's try the Champion Belt
+Dialogue: 0,0:21:04.68,0:21:06.34,Default,,0,0,0,,Champion Belt? Let's see..
+Dialogue: 0,0:21:06.34,0:21:07.58,Default,,0,0,0,,I got it!
+Dialogue: 0,0:21:07.14,0:21:07.58,Default,,0,0,0,,Yes?
+Dialogue: 0,0:21:08.95,0:21:10.51,Default,,0,0,0,,I forgot
+Dialogue: 0,0:21:10.51,0:21:12.75,Default,,0,0,0,,I was wearing the Champion Belt
+Dialogue: 0,0:21:12.75,0:21:15.02,Default,,0,0,0,,..and I cut my hand on the sharp part
+Dialogue: 0,0:21:15.32,0:21:17.82,Default,,0,0,0,,That was quite interesting
+Dialogue: 0,0:21:16.55,0:21:17.82,Default,,0,0,0,,Thank you
+Dialogue: 0,0:21:17.82,0:21:18.96,Default,,0,0,0,,The belt
+Dialogue: 0,0:21:18.66,0:21:18.96,Default,,0,0,0,,Yes
+Dialogue: 0,0:21:18.96,0:21:21.86,Default,,0,0,0,,the center is sharp, isn't it?
+Dialogue: 0,0:21:20.62,0:21:21.36,Default,,0,0,0,,Quite
+Dialogue: 0,0:21:21.86,0:21:24.53,Default,,0,0,0,,Something like that would usually happen
+Dialogue: 0,0:21:23.26,0:21:23.89,Default,,0,0,0,,Indeed
+Dialogue: 0,0:21:29.50,0:21:33.20,Default,,0,0,0,,Now that you say that, there were too many characters.
+Dialogue: 0,0:21:30.70,0:21:32.20,Hamada Talking Over,,0,0,0,,That was one too many
+Dialogue: 0,0:21:33.30,0:21:34.97,Hamada Talking Over,,0,0,0,,That was two hits!
+Dialogue: 0,0:21:34.31,0:21:35.67,Default,,0,0,0,,Next up
+Dialogue: 0,0:21:35.97,0:21:36.67,Default,,0,0,0,,The referee
+Dialogue: 0,0:21:36.67,0:21:38.98,Default,,0,0,0,,Referee
+Dialogue: 0,0:21:38.14,0:21:38.98,Default,,0,0,0,,I got it!
+Dialogue: 0,0:21:39.54,0:21:42.31,Default,,0,0,0,,A job that you hit the floor
+Dialogue: 0,0:21:42.71,0:21:44.32,Default,,0,0,0,,About the referee, right?
+Dialogue: 0,0:21:43.48,0:21:43.85,Default,,0,0,0,,Yes, about his job
+Dialogue: 0,0:21:44.75,0:21:46.85,Default,,0,0,0,,You did it again
+Dialogue: 0,0:21:46.85,0:21:48.95,Default,,0,0,0,,Well that's how it is
+Dialogue: 0,0:21:52.29,0:21:56.09,Default,,0,0,0,,But this time, you were too short!
+Dialogue: 0,0:21:57.43,0:21:58.56,Default,,0,0,0,,Next one
+Dialogue: 0,0:21:59.23,0:22:00.03,Default,,0,0,0,,The rope
+Dialogue: 0,0:22:01.33,0:22:02.87,Default,,0,0,0,,I got one!
+Dialogue: 0,0:22:02.23,0:22:03.63,Hamada Talking Over,,0,0,0,,So far they've been decent
+Dialogue: 0,0:22:05.04,0:22:08.61,Default,,0,0,0,,Holding the rope, I spun it around at high speeds and did a double skip
+Dialogue: 0,0:22:08.61,0:22:09.87,Default,,0,0,0,,Yes, yes
+Dialogue: 0,0:22:09.87,0:22:14.48,Default,,0,0,0,,You hold the rope, and in one jump, you skip twice
+Dialogue: 0,0:22:10.67,0:22:11.18,Default,,0,0,0,,Yes
+Dialogue: 0,0:22:12.24,0:22:12.78,Default,,0,0,0,,Yes
+Dialogue: 0,0:22:13.58,0:22:14.48,Default,,0,0,0,,Exactly
+Dialogue: 0,0:22:14.81,0:22:16.55,Default,,0,0,0,,Could you try it?
+Dialogue: 0,0:22:17.31,0:22:19.38,Default,,0,0,0,,One.. Two.. Thr-
+Dialogue: 0,0:22:24.69,0:22:27.93,Default,,0,0,0,,I don't mean a skipping rope!
+Dialogue: 0,0:22:30.76,0:22:32.60,Default,,0,0,0,,Bu bu bu bu
+Dialogue: 0,0:22:32.60,0:22:34.16,Default,,0,0,0,,Would you shut it?
+Dialogue: 0,0:22:33.66,0:22:35.03,Hamada Talking Over,,0,0,0,,Ah, I gotcha!
+Dialogue: 0,0:22:34.90,0:22:36.60,Default,,0,0,0,,Saying all those things
+Dialogue: 0,0:22:36.93,0:22:38.40,Default,,0,0,0,,let's see you try
+Dialogue: 0,0:22:38.40,0:22:39.87,Default,,0,0,0,,giving a Senryu poem
+Dialogue: 0,0:22:39.40,0:22:40.40,Hamada Talking Over,,0,0,0,,I see
+Dialogue: 0,0:22:39.87,0:22:41.21,Default,,0,0,0,,Alright
+Dialogue: 0,0:22:41.21,0:22:43.01,Default,,0,0,0,,Could you give me a topic?
+Dialogue: 0,0:22:43.44,0:22:44.48,Default,,0,0,0,,Well
+Dialogue: 0,0:22:44.48,0:22:46.78,Default,,0,0,0,,The concerns of a Pro Wrestler's future
+Dialogue: 0,0:22:46.78,0:22:48.51,Default,,0,0,0,,Concerns of the future?..
+Dialogue: 0,0:22:51.58,0:22:53.08,Default,,0,0,0,,Concerns..
+Dialogue: 0,0:22:54.72,0:22:57.22,Default,,0,0,0,,Jeez, are there any?
+Dialogue: 0,0:22:57.22,0:22:58.72,Default,,0,0,0,,Pain in the legs
+Dialogue: 0,0:22:58.72,0:23:00.26,Default,,0,0,0,,Pain in the back
+Dialogue: 0,0:23:01.19,0:23:02.53,Default,,0,0,0,,No
+Dialogue: 0,0:23:03.06,0:23:06.50,Default,,0,0,0,,Back pain, back pain..
+Dialogue: 0,0:23:11.67,0:23:13.20,Hamada Talking Over,,0,0,0,,What did he do?
+Dialogue: 0,0:23:13.07,0:23:16.71,Default,,0,0,0,,There's no way I could do a 5-7-5 with that!
+Dialogue: 0,0:23:17.64,0:23:20.34,Default,,0,0,0,,Don't do anymore Senryu poems
+Dialogue: 0,0:23:20.94,0:23:21.55,Default,,0,0,0,,That's it!
+Dialogue: 0,0:23:21.55,0:23:23.68,Default,,0,0,0,,Thank you
+Dialogue: 0,0:23:21.55,0:23:23.68,Default,,0,0,0,,Thank you
+Dialogue: 0,0:23:26.92,0:23:29.32,Narrator,,0,0,0,,The crude conversations
+Dialogue: 0,0:23:29.89,0:23:33.36,Narrator,,0,0,0,,matches well with the strong, yet splendid retort
+Dialogue: 0,0:23:33.36,0:23:36.83,Narrator,,0,0,0,,that did well to make the entire place laughing
+Dialogue: 0,0:23:38.06,0:23:40.43,Narrator,,0,0,0,,Now, continuing on..
+Dialogue: 0,0:23:41.27,0:23:47.60,Narrator,,0,0,0,,We have the master Razor Lemon RG taking on the challenge by pairing up with professionals of different genres
+Dialogue: 0,0:23:51.18,0:23:53.94,Default,,0,0,0,,Yeah Yeah Yeah
+Dialogue: 0,0:23:55.31,0:23:57.71,Hamada Talking Over,,0,0,0,,What's happening with his head?
+Dialogue: 0,0:23:56.15,0:23:58.82,Default,,0,0,0,,Hello, nice to meet you
+Dialogue: 0,0:23:57.18,0:23:58.32,Default,,0,0,0,,Hello, nice to meet you
+Dialogue: 0,0:23:59.08,0:24:03.29,Narrator,,0,0,0,,So, truth be told I've noticed I'm actually better at Senryu poetry than I am at comedy
+Dialogue: 0,0:23:59.08,0:24:01.02,Hamada Talking Over,,0,0,0,,What's this?
+Dialogue: 0,0:24:02.49,0:24:03.29,Default,,0,0,0,,Awesome
+Dialogue: 0,0:24:03.29,0:24:05.69,Default,,0,0,0,,So can you try doing one about American Football?
+Dialogue: 0,0:24:05.69,0:24:06.69,Default,,0,0,0,,I can
+Dialogue: 0,0:24:07.42,0:24:13.60,Default,,0,0,0,,when locked in a scrum, by secretly letting go of my strength,will it have an impact?
+Dialogue: 0,0:24:13.60,0:24:14.87,Default Talking Over,,0,0,0,,Not bad
+Dialogue: 0,0:24:15.30,0:24:19.70,Default,,0,0,0,,It could probably work if there were a lot of you if you tried.
+Dialogue: 0,0:24:16.90,0:24:18.47,Hamada Talking Over,,0,0,0,,He's waiting for it!
+Dialogue: 0,0:24:19.70,0:24:22.24,Default,,0,0,0,,Ah this feels good
+Dialogue: 0,0:24:20.34,0:24:21.81,Matsumoto Talking Over,,0,0,0,,Scary scary
+Dialogue: 0,0:24:21.81,0:24:23.91,Hamada Talking Over,,0,0,0,,But I understand what he meant
+Dialogue: 0,0:24:25.78,0:24:29.28,Default,,0,0,0,,Now that you say that, there were too many characters.
+Dialogue: 0,0:24:30.41,0:24:31.25,Default,,0,0,0,,Too many..
+Dialogue: 0,0:24:32.45,0:24:35.35,Default,,0,0,0,,there were too many characters
+Dialogue: 0,0:24:36.85,0:24:38.99,Default,,0,0,0,,Ah well
+Dialogue: 0,0:24:41.49,0:24:43.49,Narrator,,0,0,0,,Next up, a Kendo athlete
+Dialogue: 0,0:24:45.70,0:24:50.83,Narrator,,0,0,0,,and an SM dominatrix as well take the stage for the serious role with RG
+Dialogue: 0,0:24:50.83,0:24:51.84,Narrator,,0,0,0,,and then
+Dialogue: 0,0:24:56.81,0:24:58.78,Default,,0,0,0,,Hey, listen up
+Dialogue: 0,0:24:58.78,0:25:03.51,Default,,0,0,0,,everyone's been very strict on the Senryu poems, could you please give me one of your own
+Dialogue: 0,0:25:04.21,0:25:05.45,Default,,0,0,0,,Ah okay
+Dialogue: 0,0:25:05.45,0:25:07.78,Default,,0,0,0,,Could you give me a theme?
+Dialogue: 0,0:25:07.78,0:25:13.69,Default,,0,0,0,,Ah, "The feelings of a police dog being kept by humans", if you would
+Dialogue: 0,0:25:14.89,0:25:17.26,Default,,0,0,0,,This is a hard one
+Dialogue: 0,0:25:19.00,0:25:20.16,Hamada Talking Over,,0,0,0,,What's up with that?
+Dialogue: 0,0:25:20.16,0:25:22.20,Default,,0,0,0,,Watch out
+Dialogue: 0,0:25:22.20,0:25:24.17,Default,,0,0,0,,When you're on the run
+Dialogue: 0,0:25:24.17,0:25:25.70,Default,,0,0,0,,this is hard
+Dialogue: 0,0:25:26.17,0:25:28.84,Default,,0,0,0,,When they see the chance, they'll bite you at your throat
+Dialogue: 0,0:25:28.84,0:25:30.21,Default,,0,0,0,,Go go
+Dialogue: 0,0:25:34.75,0:25:35.65,Hamada Talking Over,,0,0,0,,What is this?
+Dialogue: 0,0:25:37.01,0:25:37.92,Hamada Talking Over,,0,0,0,,This is bad
+Dialogue: 0,0:25:38.32,0:25:40.02,Matsumoto Talking Over,,0,0,0,,What's wrong?
+Dialogue: 0,0:25:42.25,0:25:46.16,Default,,0,0,0,,There's no way I could do a 5-7-5 with that!
+Dialogue: 0,0:25:46.92,0:25:48.56,Default,,0,0,0,,Don't you try...
+Dialogue: 0,0:25:48.26,0:25:50.03,Hamada Talking Over,,0,0,0,,What's going on
+Dialogue: 0,0:25:48.86,0:25:50.76,Default,,0,0,0,,...to do senryuu ever again!
+Dialogue: 0,0:25:51.13,0:25:52.03,Default,,0,0,0,,I'm done!
+Dialogue: 0,0:25:52.03,0:25:54.33,Default,,0,0,0,,Thank you
+Dialogue: 0,0:25:52.03,0:25:53.56,Hamada Talking Over,,0,0,0,,No you're not
+Dialogue: 0,0:25:54.93,0:25:56.27,Default Talking Over,,0,0,0,,It was over the top
+Dialogue: 0,0:25:56.27,0:25:58.00,Default Talking Over,,0,0,0,,It was great
+Dialogue: 0,0:25:57.60,0:26:00.64,Narrator,,0,0,0,,A manzai that was changing dramatically
+Dialogue: 0,0:26:00.64,0:26:05.38,Narrator,,0,0,0,,matched with strong and fun serious roles, that make up the comedy duo
+Dialogue: 0,0:26:06.48,0:26:09.08,Narrator,,0,0,0,,The next challengers are..
+Dialogue: 0,0:26:10.11,0:26:11.21,Default,,0,0,0,,We're looking forward to it
+Dialogue: 0,0:26:11.21,0:26:12.62,Default,,0,0,0,,Uh-huh
+Dialogue: 0,0:26:13.25,0:26:18.52,Narrator,,0,0,0,,Death Match Wrestlers: Kenji Fukimoto and Jun Kasai
+Dialogue: 0,0:26:17.49,0:26:19.36,Hamada Talking Over,,0,0,0,,They sure like using wrestlers
+Dialogue: 0,0:26:19.12,0:26:22.03,Narrator,,0,0,0,,The serious role will be played by Death Match's top combatant
+Dialogue: 0,0:26:22.03,0:26:27.26,Narrator,,0,0,0,,blood-shedding and Japan's number 1 extreme wrestler, Jun Kasai
+Dialogue: 0,0:26:27.76,0:26:30.40,Default,,0,0,0,,What you've appointed for us on the broadcast
+Dialogue: 0,0:26:30.40,0:26:31.94,Default,,0,0,0,,We'll make you regret
+Dialogue: 0,0:26:31.94,0:26:35.91,Default,,0,0,0,,We'll cause accidents
+Dialogue: 0,0:26:36.01,0:26:37.21,Hamada,,0,0,0,,What the?
+Dialogue: 0,0:26:41.68,0:26:43.88,Default,,0,0,0,,Hello
+Dialogue: 0,0:26:43.18,0:26:43.88,Default,,0,0,0,,Welcome
+Dialogue: 0,0:26:43.88,0:26:47.99,Default,,0,0,0,,We are Death Match Wrestlers, nice to meet you
+Dialogue: 0,0:26:49.02,0:26:50.22,Default,,0,0,0,,So, truth be told
+Dialogue: 0,0:26:50.62,0:26:51.66,Default,,0,0,0,,I've noticed I'm actually better at Senryu poetry
+Dialogue: 0,0:26:52.02,0:26:54.09,Default,,0,0,0,,than I am at Death Match
+Dialogue: 0,0:26:54.59,0:26:56.56,Default,,0,0,0,,Woah, that's cool
+Dialogue: 0,0:26:56.56,0:26:59.83,Default,,0,0,0,,Then, could you give us a poem about being reckless
+Dialogue: 0,0:26:59.83,0:27:01.80,Default,,0,0,0,,I've got one
+Dialogue: 0,0:27:00.73,0:27:01.80,Default,,0,0,0,,That was fast!
+Dialogue: 0,0:27:03.10,0:27:05.94,Default,,0,0,0,,If you are called reckless
+Dialogue: 0,0:27:05.94,0:27:08.47,Default,,0,0,0,,you'd very much hate the fear of pain
+Dialogue: 0,0:27:08.47,0:27:12.68,Default,,0,0,0,,but until you see your grandchild, you don't want to die
+Dialogue: 0,0:27:13.71,0:27:16.51,Default,,0,0,0,,Pretty interesting
+Dialogue: 0,0:27:17.55,0:27:19.42,Default,,0,0,0,,That would be true
+Dialogue: 0,0:27:20.65,0:27:22.85,Default,,0,0,0,,That would be the real intention
+Dialogue: 0,0:27:22.85,0:27:24.42,Default Talking Over,,0,0,0,,His back is astounding
+Dialogue: 0,0:27:27.89,0:27:29.46,Default,,0,0,0,,Now that you say that,
+Dialogue: 0,0:27:29.46,0:27:32.06,Default,,0,0,0,,there were too many characters
+Dialogue: 0,0:27:32.50,0:27:33.63,Hamada Talking Over,,0,0,0,,So scary!
+Dialogue: 0,0:27:33.70,0:27:37.10,Default,,0,0,0,,Well then, up next, try one about ambulances
+Dialogue: 0,0:27:34.83,0:27:36.57,Hamada Talking Over,,0,0,0,,Look at the scars on his chest...
+Dialogue: 0,0:27:37.10,0:27:38.77,Default,,0,0,0,,I've got one
+Dialogue: 0,0:27:37.77,0:27:38.77,Default,,0,0,0,,So fast!
+Dialogue: 0,0:27:39.24,0:27:41.97,Default,,0,0,0,,Another member complains
+Dialogue: 0,0:27:43.87,0:27:46.44,Default,,0,0,0,,Yes yes, exactly
+Dialogue: 0,0:27:47.01,0:27:49.48,Default,,0,0,0,,Ambulances readily go back
+Dialogue: 0,0:27:51.18,0:27:54.79,Default,,0,0,0,,but that is just a common misconception
+Dialogue: 0,0:27:52.08,0:27:53.65,Hamada Talking Over,,0,0,0,,He pulled it out!
+Dialogue: 0,0:27:54.45,0:27:56.69,Default Talking Over,,0,0,0,,He carries a lot
+Dialogue: 0,0:27:55.19,0:27:56.69,Hamada Talking Over,,0,0,0,,He's keeps pulling things out
+Dialogue: 0,0:28:00.26,0:28:03.29,Default,,0,0,0,,But this time, you were too short!
+Dialogue: 0,0:28:00.02,0:28:01.32,Hamada Talking Over,,0,0,0,,Wow, that was actually weak
+Dialogue: 0,0:28:04.16,0:28:05.56,Hamada Talking Over,,0,0,0,,What?
+Dialogue: 0,0:28:05.23,0:28:07.00,Default,,0,0,0,,Let's see, next
+Dialogue: 0,0:28:07.86,0:28:10.07,Default,,0,0,0,,try one about blood-shed
+Dialogue: 0,0:28:10.07,0:28:11.37,Default,,0,0,0,,I've got it
+Dialogue: 0,0:28:11.37,0:28:15.87,Default,,0,0,0,,No longer worried when you're at a hospital with 5 stitches
+Dialogue: 0,0:28:15.87,0:28:18.28,Default,,0,0,0,,yes yes
+Dialogue: 0,0:28:17.84,0:28:19.71,Hamada Talking Over,,0,0,0,,What is it this time?
+Dialogue: 0,0:28:18.28,0:28:21.01,Default,,0,0,0,,That was a proper 5-7-5 poem
+Dialogue: 0,0:28:22.35,0:28:25.22,Default,,0,0,0,,As expected for Senryu poetry
+Dialogue: 0,0:28:25.22,0:28:27.25,Hamada Talking Over,,0,0,0,,Scary scary
+Dialogue: 0,0:28:26.08,0:28:30.22,Default,,0,0,0,,(Can't be shown due to Compliance Programming)
+Dialogue: 0,0:28:30.35,0:28:33.29,Default,,0,0,0,,If you keep telling me my poetry's off, let's see you give an example
+Dialogue: 0,0:28:33.56,0:28:34.56,Default,,0,0,0,,What, me?
+Dialogue: 0,0:28:34.99,0:28:40.00,Default,,0,0,0,,"The feelings of a parent whose child came to watch a match"
+Dialogue: 0,0:28:42.03,0:28:44.37,Default,,0,0,0,,This is difficult
+Dialogue: 0,0:28:45.07,0:28:46.80,Default,,0,0,0,,Blood is dripping
+Dialogue: 0,0:28:46.80,0:28:48.61,Default,,0,0,0,,wondering if they'll be okay
+Dialogue: 0,0:28:48.61,0:28:50.04,Default,,0,0,0,,Wait, no
+Dialogue: 0,0:28:50.71,0:28:52.71,Default,,0,0,0,,It's my job
+Dialogue: 0,0:28:52.71,0:28:55.48,Default,,0,0,0,,If I don't do it, I'll be fired
+Dialogue: 0,0:28:55.48,0:28:57.95,Default,,0,0,0,,Hmm, this too is wrong
+Dialogue: 0,0:29:00.12,0:29:01.79,Default,,0,0,0,,Painful memories
+Dialogue: 0,0:29:01.79,0:29:03.69,Default,,0,0,0,,will be born however
+Dialogue: 0,0:29:03.69,0:29:06.16,Default,,0,0,0,,No, this too is also wrong
+Dialogue: 0,0:29:05.56,0:29:07.56,Hamada Talking Over,,0,0,0,,What are they doing?
+Dialogue: 0,0:29:09.73,0:29:11.76,Hamada Talking Over,,0,0,0,,Very high up
+Dialogue: 0,0:29:10.86,0:29:11.96,Matsumoto Talking Over,,0,0,0,,Yeah
+Dialogue: 0,0:29:17.50,0:29:18.44,Default,,0,0,0,,AARGH
+Dialogue: 0,0:29:21.00,0:29:22.77,Hamada Talking Over,,0,0,0,,All you could hear were shrieks
+Dialogue: 0,0:29:23.31,0:29:28.18,Default,,0,0,0,,There's no way I could do a 5-7-5 with that!
+Dialogue: 0,0:29:28.88,0:29:32.95,Narrator,,0,0,0,,When the retort is too strong, it puts people off instead
+Dialogue: 0,0:29:32.42,0:29:34.35,Hamada Talking Over,,0,0,0,,Exactly as expected
+Dialogue: 0,0:29:34.35,0:29:36.09,Hamada,,0,0,0,,It's no good if you go too strong
+Dialogue: 0,0:29:36.09,0:29:37.82,Default,,0,0,0,,Too strong of an reaction is unpleasant
+Dialogue: 0,0:29:37.82,0:29:38.92,Hamada,,0,0,0,,You were totally horror-struck
+Dialogue: 0,0:29:38.92,0:29:40.02,Default,,0,0,0,,Exactly
+Dialogue: 0,0:29:40.32,0:29:43.06,Default,,0,0,0,,The ones who brought forth this theory shouldn't be afraid
+Dialogue: 0,0:29:43.06,0:29:45.33,Default,,0,0,0,,If you saw it live, it's just as bad
+Dialogue: 0,0:29:45.33,0:29:47.33,Hamada,,0,0,0,,From a female point of view, how did you think of it?
+Dialogue: 0,0:29:47.33,0:29:49.93,Default,,0,0,0,,My hands were sweating and I was getting goosebumps
+Dialogue: 0,0:29:49.93,0:29:53.14,Hamada,,0,0,0,,They were also swearing like hell
+Dialogue: 0,0:29:50.43,0:29:53.14,Default,,0,0,0,,It was so extreme, didn't real blood start to come out?
+Dialogue: 0,0:29:53.14,0:29:58.11,Matsumoto,,0,0,0,,But even with me normally, having Hamada as the serious role, I've had blood come out before
+Dialogue: 0,0:29:58.91,0:30:00.81,Matsumoto,,0,0,0,,We were doing a sketch about detectives
+Dialogue: 0,0:30:01.02,0:30:03.05,Matsumoto,,0,0,0,,And he was supposed to interrogate me
+Dialogue: 0,0:30:03.05,0:30:06.00,Matsumoto,,0,0,0,,so he's like: "Spit it out!" and I'm like: "No way"
+Dialogue: 0,0:30:06.00,0:30:10.12,Matsumoto,,0,0,0,,There was a pen on the table, and he grabbed me like this and went
+Dialogue: 0,0:30:10.14,0:30:12.05,Matsumoto,,0,0,0,,BANG onto the table
+Dialogue: 0,0:30:12.05,0:30:14.37,Matsumoto,,0,0,0,,and the pen went in!
+Dialogue: 0,0:30:14.77,0:30:17.51,Matsumoto,,0,0,0,,Blood was dripping out
+Dialogue: 0,0:30:17.51,0:30:20.02,Matsumoto,,0,0,0,,and obviously, I spat it out
+Dialogue: 0,0:30:21.97,0:30:23.62,Matsumoto,,0,0,0,,Real quick
+Dialogue: 0,0:30:24.94,0:30:25.91,Narrator,,0,0,0,,Next up
+Dialogue: 0,0:30:25.91,0:30:29.25,Narrator,,0,0,0,,We will introduce more theories around the world, and verify them
+Dialogue: 0,0:30:29.25,0:30:31.51,Narrator,,0,0,0,,Here on Viewers' Theory Corner
+Dialogue: 0,0:30:31.80,0:30:33.85,Narrator,,0,0,0,,Tonight's presenter is..
+Dialogue: 0,0:30:37.11,0:30:39.40,Hamada,,0,0,0,,Koyabu Kazutoyo
+Dialogue: 0,0:30:39.40,0:30:41.40,Default,,0,0,0,,It's good to be here
+Dialogue: 0,0:30:41.40,0:30:43.85,Default,,0,0,0,,Here's a quick verification I did the other day
+Dialogue: 0,0:30:43.85,0:30:45.57,Default,,0,0,0,,"Otsukare-sama deshita"
+Dialogue: 0,0:30:45.57,0:30:48.68,Default,,0,0,0,,The theory that if the "O" and "shita" are present
+Dialogue: 0,0:30:48.68,0:30:50.28,Default,,0,0,0,,Anything could go in between
+Dialogue: 0,0:30:50.28,0:30:52.40,Hamada,,0,0,0,,Ah, indeed
+Dialogue: 0,0:30:51.51,0:30:52.40,Matsumoto,,0,0,0,,I remember that
+Dialogue: 0,0:30:52.40,0:30:54.40,Hamada,,0,0,0,,That is indeed the case
+Dialogue: 0,0:30:54.40,0:30:56.54,Default,,0,0,0,,But this time, an everyday occurrence
+Dialogue: 0,0:30:56.54,0:31:01.45,Default,,0,0,0,,I bring you, "When you hear it, but don't notice it" Series, Part 2
+Dialogue: 0,0:31:00.28,0:31:01.45,Hamada,,0,0,0,,I see
+Dialogue: 0,0:31:01.45,0:31:03.45,Default,,0,0,0,,Here it is
+Dialogue: 0,0:31:03.45,0:31:07.54,Default,,0,0,0,,The theory of restaurant music: Changing the lyrics of famous songs
+Dialogue: 0,0:31:07.54,0:31:10.11,Default,,0,0,0,,and seeing if anyone will notice
+Dialogue: 0,0:31:11.82,0:31:13.60,Default,,0,0,0,,We'll see if this will work.
+Dialogue: 0,0:31:14.28,0:31:16.42,Matsumoto,,0,0,0,,It'd probably depend on how you do it
+Dialogue: 0,0:31:16.42,0:31:20.09,Default,,0,0,0,,If they didn't know the song, they might think those are the lyrics
+Dialogue: 0,0:31:20.11,0:31:23.74,Default,,0,0,0,,For the songs, if they only know the first couplet
+Dialogue: 0,0:31:23.74,0:31:25.88,Default,,0,0,0,,they might think that they just don't know the rest of it
+Dialogue: 0,0:31:25.88,0:31:26.94,Hamada,,0,0,0,,I see
+Dialogue: 0,0:31:26.94,0:31:30.65,Default,,0,0,0,,So, we've tested the theory. Please watch!
+Dialogue: 0,0:31:31.42,0:31:37.02,Narrator,,0,0,0,,Verifying: Theory of not noticing the different lyrics to famous songs being played inside restaurants
+Dialogue: 0,0:31:37.02,0:31:39.02,Default Talking Over,,0,0,0,,This is gonna be interesting
+Dialogue: 0,0:31:39.02,0:31:43.34,Narrator,,0,0,0,,This time, the research has been conducted at this cafe
+Dialogue: 0,0:31:44.00,0:31:46.11,Narrator,,0,0,0,,The first song is..
+Dialogue: 0,0:31:50.20,0:31:52.14,Default Talking Over,,0,0,0,,Tube's song
+Dialogue: 0,0:31:49.42,0:31:51.22,Matsumoto Talking Over,,0,0,0,,Great song
+Dialogue: 0,0:31:50.45,0:31:53.28,Narrator,,0,0,0,,"Ah~ Summer Holidays"
+Dialogue: 0,0:31:56.40,0:31:57.97,Matsumoto Talking Over,,0,0,0,,Who is it?
+Dialogue: 0,0:31:53.28,0:31:55.71,Narrator,,0,0,0,,Let's change around the singers
+Dialogue: 0,0:31:56.40,0:31:59.05,Narrator,,0,0,0,,The singer for the changed song not only has similar appearances
+Dialogue: 0,0:31:59.05,0:32:02.48,Narrator,,0,0,0,,but also his voice is very similar, Bu-Tube
+Dialogue: 0,0:32:01.28,0:32:03.97,Default Talking Over,,0,0,0,,It's an imitation
+Dialogue: 0,0:32:02.57,0:32:08.68,Narrator,,0,0,0,,The targets are these three people, where the fake song was played on different days
+Dialogue: 0,0:32:04.88,0:32:06.85,Hamada Talking Over,,0,0,0,,They don't seem motivated
+Dialogue: 0,0:32:06.85,0:32:09.94,Matsumoto Talking Over,,0,0,0,,Fujimoto is quite sensitive these kinds of small changes
+Dialogue: 0,0:32:09.14,0:32:12.54,Narrator,,0,0,0,,During the time they are waiting on their order
+Dialogue: 0,0:32:09.91,0:32:13.80,Default Talking Over,,0,0,0,,I have a feeling Hashimoto wouldn't get this wrong
+Dialogue: 0,0:32:12.57,0:32:15.71,Narrator,,0,0,0,,the song with changed lyrics was played
+Dialogue: 0,0:32:22.74,0:32:27.71,Narrator,,0,0,0,,Will we see if they have noticed the changes made in the lyrics?
+Dialogue: 0,0:32:24.62,0:32:26.91,Hamada Talking Over,,0,0,0,,Chris will know this
+Dialogue: 0,0:32:26.91,0:32:28.77,Default Talking Over,,0,0,0,,Chris knows a lot about this song
+Dialogue: 0,0:32:28.77,0:32:31.25,Default Talking Over,,0,0,0,,Chris likes this song
+Dialogue: 0,0:32:42.02,0:32:45.28,Matsumoto Talking Over,,0,0,0,,If you listen to it often, you'd be fine
+Dialogue: 0,0:32:45.28,0:32:47.28,Hamada Talking Over,,0,0,0,,like this guy
+Dialogue: 0,0:32:48.14,0:32:50.00,Narrator,,0,0,0,,The very similar imitation to the song
+Dialogue: 0,0:32:50.00,0:32:55.11,Narrator,,0,0,0,,has left these three clueless that it is a different singer
+Dialogue: 0,0:32:55.11,0:32:56.71,Hamada Talking Over,,0,0,0,,I see
+Dialogue: 0,0:32:56.71,0:32:58.57,Narrator,,0,0,0,,Eventually down the line
+Dialogue: 0,0:32:58.57,0:33:01.34,Narrator,,0,0,0,,small changes are made to the lyrics
+Dialogue: 0,0:33:01.94,0:33:03.94,Narrator,,0,0,0,,First is Level 1
+Dialogue: 0,0:33:03.94,0:33:08.45,Narrator,,0,0,0,,The hit line "Ah, Summer Holidays" is changed
+Dialogue: 0,0:33:04.74,0:33:06.65,Default Talking Over,,0,0,0,,Eh, they're changing that?
+Dialogue: 0,0:33:06.22,0:33:08.14,Default Talking Over,,0,0,0,,I would notice it
+Dialogue: 0,0:33:09.51,0:33:11.20,Narrator,,0,0,0,,What is the result?
+Dialogue: 0,0:33:10.28,0:33:12.08,Hamada Talking Over,,0,0,0,,Isn't that risky?
+Dialogue: 0,0:33:12.08,0:33:13.91,Matsumoto Talking Over,,0,0,0,,Is this only Level 1?
+Dialogue: 0,0:33:13.20,0:33:15.17,Default Talking Over,,0,0,0,,Isn't it too obvious?
+Dialogue: 0,0:33:21.54,0:33:23.94,Default Talking Over,,0,0,0,,Ah I see
+Dialogue: 0,0:33:22.65,0:33:23.94,Default Talking Over,,0,0,0,,Like that?
+Dialogue: 0,0:33:24.57,0:33:26.48,Hamada Talking Over,,0,0,0,,Ah, like that way
+Dialogue: 0,0:33:25.85,0:33:30.54,Narrator,,0,0,0,,As expected, the subtle change to the lyrics has gone through the three
+Dialogue: 0,0:33:31.25,0:33:33.97,Narrator,,0,0,0,,Next up is Level 2
+Dialogue: 0,0:33:33.97,0:33:38.51,Narrator,,0,0,0,,The second lyrics are still related to summer, but are totally different
+Dialogue: 0,0:33:54.71,0:33:56.74,Default Talking Over,,0,0,0,,Just like that?
+Dialogue: 0,0:33:58.68,0:34:01.42,Default Talking Over,,0,0,0,,Using those kinds of summer words
+Dialogue: 0,0:34:02.94,0:34:04.65,Default Talking Over,,0,0,0,,Ah? No way
+Dialogue: 0,0:34:07.00,0:34:09.08,Matsumoto Talking Over,,0,0,0,,It's not weird?
+Dialogue: 0,0:34:09.16,0:34:10.89,Default,,0,0,0,,{\pos(472.5,544)}Whose cover is this?
+Dialogue: 0,0:34:11.90,0:34:14.06,Default,,0,0,0,,{\pos(699,680)}Whose cover?
+Dialogue: 0,0:34:13.00,0:34:15.00,Default Talking Over,,0,0,0,,That's impressive
+Dialogue: 0,0:34:14.62,0:34:17.42,Matsumoto Talking Over,,0,0,0,,I wouldn't be able to tell
+Dialogue: 0,0:34:22.40,0:34:24.91,Hamada Talking Over,,0,0,0,,"Whose cover?" he said
+Dialogue: 0,0:34:23.51,0:34:28.00,Narrator,,0,0,0,,Here we see that he has noticed it's not the actual artist
+Dialogue: 0,0:34:28.11,0:34:32.94,Narrator,,0,0,0,,The remaining two people aren't particularly showing any reaction
+Dialogue: 0,0:34:26.48,0:34:28.94,Default Talking Over,,0,0,0,,Ah, incredible
+Dialogue: 0,0:34:27.54,0:34:29.20,Hamada Talking Over,,0,0,0,,It is
+Dialogue: 0,0:34:33.11,0:34:36.22,Narrator,,0,0,0,,Now onto the final level 3
+Dialogue: 0,0:34:36.22,0:34:39.34,Narrator,,0,0,0,,The chorus of the song will be entirely Winter-based
+Dialogue: 0,0:34:39.94,0:34:42.05,Default Talking Over,,0,0,0,,It'll be noticed this time
+Dialogue: 0,0:34:55.02,0:34:57.00,Matsumoto Talking Over,,0,0,0,,Chris already knows
+Dialogue: 0,0:34:55.67,0:34:56.47,Default,,0,0,0,,{\pos(720,690)}This isn't it, {\alpha&HFF&}if it's not Maeda, I don't feel motivated
+Dialogue: 0,0:34:56.47,0:34:57.24,Default,,0,0,0,,{\pos(720,690)}This isn't it, if it's not Maeda, {\alpha&HFF&}I don't feel motivated
+Dialogue: 0,0:34:57.24,0:34:58.91,Default,,0,0,0,,{\pos(720,690)}This isn't it, if it's not Maeda, I don't feel motivated
+Dialogue: 0,0:35:00.42,0:35:02.54,Default Talking Over,,0,0,0,,
+Dialogue: 0,0:35:05.22,0:35:08.25,Matsumoto Talking Over,,0,0,0,,He hasn't moved at all
+Dialogue: 0,0:35:11.65,0:35:12.09,Default,,0,0,0,,{\pos(729,692)}This is {\alpha&HFF&}one of those parody songs?
+Dialogue: 0,0:35:12.09,0:35:13.09,Default,,0,0,0,,{\pos(729,692)}This is one of those {\alpha&HFF&}parody songs?
+Dialogue: 0,0:35:13.09,0:35:15.53,Default,,0,0,0,,{\pos(729,692)}This is one of those parody songs?
+Dialogue: 0,0:35:11.97,0:35:14.85,Matsumoto Talking Over,,0,0,0,,
+Dialogue: 0,0:35:15.53,0:35:16.63,Default,,0,0,0,,{\pos(729,692)} I'm pretty sure {\alpha&HFF&}he never said "New Year"
+Dialogue: 0,0:35:16.63,0:35:19.16,Default,,0,0,0,,{\pos(729,692)} I'm pretty sure he never said "New Year"
+Dialogue: 0,0:35:17.34,0:35:19.82,Default Talking Over,,0,0,0,,He knew too much
+Dialogue: 0,0:35:18.25,0:35:19.82,Matsumoto Talking Over,,0,0,0,,Right?
+Dialogue: 0,0:35:19.82,0:35:22.80,Narrator,,0,0,0,,Now all will be revealed
+Dialogue: 0,0:35:23.77,0:35:25.82,Default,,0,0,0,,We're from Wednesday Downtown
+Dialogue: 0,0:35:25.82,0:35:27.37,Default,,0,0,0,,What did you put in this?
+Dialogue: 0,0:35:27.37,0:35:28.68,Hamada,,0,0,0,,Nothing's in it!
+Dialogue: 0,0:35:28.68,0:35:31.31,Default,,0,0,0,,Why is he suspicious about the drink?
+Dialogue: 0,0:35:31.31,0:35:34.05,Default,,0,0,0,,How could I not notice it?
+Dialogue: 0,0:35:34.62,0:35:37.54,Default,,0,0,0,,I know the song "Ah Summer Holidays"
+Dialogue: 0,0:35:37.54,0:35:39.54,Default,,0,0,0,,I feel sorry for the original singer, Maeda
+Dialogue: 0,0:35:39.20,0:35:42.00,Hamada Talking Over,,0,0,0,,I see
+Dialogue: 0,0:35:40.00,0:35:42.00,Default Talking Over,,0,0,0,,I apologise
+Dialogue: 0,0:35:40.11,0:35:44.34,Narrator,,0,0,0,,We also reveal it to the two people who didn't react
+Dialogue: 0,0:35:51.76,0:35:53.43,Default,,0,0,0,,{\pos(711,712)}It's about cold
+Dialogue: 0,0:35:54.42,0:35:56.88,Default,,0,0,0,,It's the original, right?
+Dialogue: 0,0:35:57.28,0:36:00.97,Narrator,,0,0,0,,As expected, he didn't notice anything at all
+Dialogue: 0,0:36:02.57,0:36:04.17,Default,,0,0,0,,I never imagined
+Dialogue: 0,0:36:04.17,0:36:06.91,Default,,0,0,0,,that my first time on Wednesday Downtown would be this way
+Dialogue: 0,0:36:06.94,0:36:08.91,Default,,0,0,0,,I apologize ..
+Dialogue: 0,0:36:09.45,0:36:11.97,Narrator,,0,0,0,,However, with Fujimoto
+Dialogue: 0,0:36:11.97,0:36:14.57,Default,,0,0,0,,I noticed it
+Dialogue: 0,0:36:14.57,0:36:15.97,Default,,0,0,0,,But..
+Dialogue: 0,0:36:15.97,0:36:19.00,Default,,0,0,0,,I thought it was like a parody song or something
+Dialogue: 0,0:36:17.68,0:36:19.82,Matsumoto Talking Over,,0,0,0,,I see, I see
+Dialogue: 0,0:36:19.31,0:36:22.77,Default,,0,0,0,,Was this a joke, or maybe it wasn't?
+Dialogue: 0,0:36:22.77,0:36:26.60,Default,,0,0,0,,Could you please stop with jokes I don't understand?
+Dialogue: 0,0:36:27.22,0:36:32.91,Narrator,,0,0,0,,As expected, when the lyrics were entirely changed, people noticed
+Dialogue: 0,0:36:31.17,0:36:33.05,Hamada Talking Over,,0,0,0,,Ah, I see
+Dialogue: 0,0:36:33.48,0:36:36.11,Narrator,,0,0,0,,So, how about this pattern
+Dialogue: 0,0:36:36.11,0:36:41.80,Narrator,,0,0,0,,We will change the lyrics from Tsuyoshi Nagabuchi's "Dragonfly" to Tsuyoshi Nagabuchi's "Bubbles"
+Dialogue: 0,0:36:42.48,0:36:46.22,Narrator,,0,0,0,,Continuing on, how about this pattern
+Dialogue: 0,0:36:46.22,0:36:51.20,Narrator,,0,0,0,,we will change the lyrics from Tsuyoshi Nagabuchi's "Dragonfly" to Tsuyoshi Nagabuchi's "Bubbles"
+Dialogue: 0,0:36:52.02,0:36:54.51,Narrator,,0,0,0,,The targets will be these three people
+Dialogue: 0,0:36:54.51,0:36:56.51,Default Talking Over,,0,0,0,,The one on the right is a musician
+Dialogue: 0,0:36:55.91,0:36:57.65,Narrator,,0,0,0,,The results..
+Dialogue: 0,0:37:19.74,0:37:23.00,Default Talking Over,,0,0,0,,The lyrics work well
+Dialogue: 0,0:37:24.31,0:37:26.22,Default Talking Over,,0,0,0,,I would help
+Dialogue: 0,0:37:26.88,0:37:28.88,Default Talking Over,,0,0,0,,
+Dialogue: 0,0:37:31.63,0:37:32.10,Default,,0,0,0,,{\pos(709.5,694)}Ah, {\alpha&HFF&}these are different lyrics
+Dialogue: 0,0:37:32.10,0:37:34.33,Default,,0,0,0,,{\pos(709.5,694)}Ah, these are different lyrics
+Dialogue: 0,0:37:35.34,0:37:36.85,Hamada Talking Over,,0,0,0,,Impressive
+Dialogue: 0,0:37:47.74,0:37:49.57,Default,,0,0,0,,Ohh
+Dialogue: 0,0:37:49.88,0:37:50.15,Default,,0,0,0,,{\pos(712.5,704)}No way, {\alpha&HFF&}this isn't "Tonbo"
+Dialogue: 0,0:37:50.15,0:37:52.45,Default,,0,0,0,,{\pos(712.5,704)}No way, this isn't "Tonbo"
+Dialogue: 0,0:37:52.97,0:37:55.05,Default,,0,0,0,,I had a feeling it was strange, that's why
+Dialogue: 0,0:37:55.05,0:37:56.37,Default,,0,0,0,,it wasn't very good
+Dialogue: 0,0:37:56.37,0:37:57.77,Default,,0,0,0,,I noticed the whole thing
+Dialogue: 0,0:37:57.77,0:37:59.62,Default,,0,0,0,,There wouldn't be anyone who wouldn't recognise that
+Dialogue: 0,0:37:59.62,0:38:01.62,Default,,0,0,0,,Not even one person
+Dialogue: 0,0:38:01.62,0:38:06.40,Narrator,,0,0,0,,However, these two people still haven't noticed
+Dialogue: 0,0:38:03.68,0:38:06.80,Default Talking Over,,0,0,0,,Really, they may be ignoring it honestly
+Dialogue: 0,0:38:07.28,0:38:09.80,Narrator,,0,0,0,,Lastly, we'll go by this pattern
+Dialogue: 0,0:38:09.80,0:38:13.08,Narrator,,0,0,0,,Hideaki Tokunaga's "Fragmented Radio"
+Dialogue: 0,0:38:13.08,0:38:14.71,Narrator,,0,0,0,,will be arranged by this artist
+Dialogue: 0,0:38:14.71,0:38:16.82,Default,,0,0,0,,Hullo, hullo
+Dialogue: 0,0:38:16.82,0:38:18.34,Default,,0,0,0,,Hullo, hullo
+Dialogue: 0,0:38:18.22,0:38:20.02,Hamada Talking Over,,0,0,0,,Why?
+Dialogue: 0,0:38:19.05,0:38:22.57,Narrator,,0,0,0,,The song will be arranged by Hollywood Zako Shisho
+Dialogue: 0,0:38:23.60,0:38:26.37,Narrator,,0,0,0,,These three will be the targets
+Dialogue: 0,0:38:26.37,0:38:28.17,Narrator,,0,0,0,,What is the result?
+Dialogue: 0,0:38:31.11,0:38:33.65,Default Talking Over,,0,0,0,,Not many girls
+Dialogue: 0,0:38:39.54,0:38:41.60,Hamada Talking Over,,0,0,0,,What is he doing?
+Dialogue: 0,0:38:45.80,0:38:47.34,Default Talking Over,,0,0,0,,It's still continuing
+Dialogue: 0,0:38:46.87,0:38:47.94,Default,,0,0,0,,{\pos(710,804)}"Hamma Camma", {\alpha&HFF&}who's version is this?
+Dialogue: 0,0:38:47.94,0:38:49.34,Default,,0,0,0,,{\pos(710,804)}"Hamma Camma", who's version is this?
+Dialogue: 0,0:38:48.88,0:38:51.08,Matsumoto Talking Over,,0,0,0,,You already know who
+Dialogue: 0,0:38:53.14,0:38:55.05,Hamada Talking Over,,0,0,0,,What kind of message is this?
+Dialogue: 0,0:38:56.34,0:38:58.68,Matsumoto Talking Over,,0,0,0,,Is this a compliment?
+Dialogue: 0,0:38:59.68,0:39:01.28,Default,,0,0,0,,{\pos(675,758)}Is this really out?
+Dialogue: 0,0:39:02.80,0:39:05.14,Hamada Talking Over,,0,0,0,,The fuck is that guy singing
+Dialogue: 0,0:39:14.82,0:39:18.60,Default,,0,0,0,,There must be lots of covers of Tokunaga's song
+Dialogue: 0,0:39:18.00,0:39:20.14,Default Talking Over,,0,0,0,,Lots of them
+Dialogue: 0,0:39:18.60,0:39:22.17,Default,,0,0,0,,And there's this version?
+Dialogue: 0,0:39:24.00,0:39:27.31,Default,,0,0,0,,"Hamma Camma" version?
+Dialogue: 0,0:39:31.74,0:39:33.48,Default,,0,0,0,,It's just "Hamma Camma"
+Dialogue: 0,0:39:36.20,0:39:41.74,Narrator,,0,0,0,,And with that, as expected, Hamma Camma was noticed
+Dialogue: 0,0:39:40.34,0:39:42.88,Hamada Talking Over,,0,0,0,,That's how it is
+Dialogue: 0,0:39:43.22,0:39:45.74,Default,,0,0,0,,A surprise, wasn't it?
+Dialogue: 0,0:39:45.74,0:39:47.74,Matsumoto,,0,0,0,,Me and everyone else
+Dialogue: 0,0:39:47.74,0:39:50.00,Matsumoto,,0,0,0,,was very astonished by this
+Dialogue: 0,0:39:50.22,0:39:54.14,Default,,0,0,0,,"Fragmented Radio" was replaced by
+Dialogue: 0,0:39:54.14,0:39:56.02,Default,,0,0,0,,"Hamma Hamma"
+Dialogue: 0,0:39:56.02,0:39:57.54,Default,,0,0,0,,"Camma"
+Dialogue: 0,0:39:57.54,0:40:00.22,Default,,0,0,0,,and not "Hamma Camma Hamma"
+Dialogue: 0,0:33:14.44,0:33:22.88,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}"Ah, Summer Holidays"
+Dialogue: 0,0:33:14.44,0:33:22.88,fakelyrics,,0,0,0,,{\pos(718.5,868)}"Ah, I love Summer"
+Dialogue: 0,0:33:37.96,0:33:45.24,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}The night was night, watching fireworks in yukata
+Dialogue: 0,0:33:38.40,0:33:41.00,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(223.5,684,270,846)\t(0,1517,\clip(223.5,684,580.5,862)}The Kabuto Beetle{\alpha&HFF&} goes on a test of courage at night
+Dialogue: 0,0:33:41.00,0:33:42.43,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(201,680,580.5,860)\t(0,853,\clip(201,680,886.5,868)}The Kabuto Beetle goes on a test of {\alpha&HFF&}courage at night
+Dialogue: 0,0:33:42.43,0:33:45.24,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(214.5,716,894,850)\t(0,1124,\clip(214.5,716,1206,852)}The Kabuto Beetle goes on a test of courage at night
+Dialogue: 0,0:33:45.24,0:33:52.61,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}My eyes can't keep up as time goes by
+Dialogue: 0,0:33:45.47,0:33:46.47,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(268.5,738,304.5,844)\t(0,520,\clip(273,738,502.5,848)}Surfers in {\alpha&HFF&}swimsuits gather down by the shores
+Dialogue: 0,0:33:46.47,0:33:48.34,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(253.5,714,480,860)\t(0,1556,\clip(271.5,736,790.5,836)}Surfers in swimsuits gather {\alpha&HFF&}down by the shores
+Dialogue: 0,0:33:48.34,0:33:50.07,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(256.5,746,796.5,860)\t(0,720,\clip(253.5,740,918,850)}Surfers in swimsuits gather down {\alpha&HFF&}by the shores
+Dialogue: 0,0:33:50.07,0:33:52.61,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(240,698,907.5,878)\t(0,925,\clip(273,752,1159.5,852)}Surfers in swimsuits gather down by the shores
+Dialogue: 0,0:33:52.61,0:33:59.28,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}The shadows shake around like they're bowing
+Dialogue: 0,0:33:53.01,0:33:55.58,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(360,740,393,836)\t(0,2050,\clip(360,740,631.5,844)}Cold dishes, {\alpha&HFF&}perhaps flowing noodles
+Dialogue: 0,0:33:55.58,0:33:56.48,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(343.5,724,619.5,864)\t(0,420,\clip(343.5,724,793.5,864)}Cold dishes, perhaps {\alpha&HFF&}flowing noodles
+Dialogue: 0,0:33:56.48,0:33:59.28,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(370.5,708,777,856)\t(0,1589,\clip(351,732,1083,854)}Cold dishes, perhaps flowing noodles
+Dialogue: 0,0:33:59.28,0:34:07.09,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}The shining rouge is wet and trembling, I've got you
+Dialogue: 0,0:34:00.08,0:34:02.89,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(265.5,696,306,842)\t(0,2560,\clip(265.5,696,736.5,864)}One watermelon is not {\alpha&HFF&}enough for a family of 5
+Dialogue: 0,0:34:02.89,0:34:07.09,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(267,736,715.5,852)\t(0,2753,\clip(267,736,1161,856)}One watermelon is not enough for a family of 5
+Dialogue: 0,0:34:07.09,0:34:14.06,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}You can forget about the tears buried in the sand
+Dialogue: 0,0:34:07.46,0:34:11.06,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(189,710,249,844)\t(0,2521,\clip(189,710,706.5,866)}That shaved ice that was {\alpha&HFF&}eaten at the Summer Festival
+Dialogue: 0,0:34:11.06,0:34:14.06,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(198,712,690,856)\t(0,1790,\clip(198,712,1218,854)}That shaved ice that was eaten at the Summer Festival
+Dialogue: 0,0:34:14.06,0:34:22.77,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Hesitating to be left out, the crickets cry too
+Dialogue: 0,0:34:14.86,0:34:18.37,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(267,730,300,848)\t(0,2328,\clip(252,728,807,864)}Your yukata is like a dream, {\alpha&HFF&}as pretty as fireflies
+Dialogue: 0,0:34:18.37,0:34:22.77,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(250.5,724,796.5,878)\t(0,2789,\clip(235.5,730,1170,858)}Your yukata is like a dream, as pretty as fireflies
+Dialogue: 0,0:34:43.96,0:34:51.94,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Hold me tight, was our meeting in a dream?
+Dialogue: 0,0:34:44.76,0:34:45.90,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(162,710,187.5,850)\t(0,790,\clip(144,736,430.5,860)}Winter Love, {\alpha&HFF&}is the snow melting? My fingers are freezing up
+Dialogue: 0,0:34:45.90,0:34:47.73,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(109.5,640,421.5,862)\t(0,1518,\clip(157.5,726,811.5,848)}Winter Love, is the snow melting? {\alpha&HFF&}My fingers are freezing up
+Dialogue: 0,0:34:47.73,0:34:51.94,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(108,674,801,856)\t(0,2650,\clip(147,714,1287,862)}Winter Love, is the snow melting? My fingers are freezing up
+Dialogue: 0,0:34:51.94,0:34:58.91,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}It may just be a number in Summer, but I love you
+Dialogue: 0,0:34:52.20,0:34:52.94,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(147,724,175.5,866)\t(0,724,\clip(124.5,738,313.5,854)}I want {\alpha&HFF&}to love you as much as the snow melts from the slopes
+Dialogue: 0,0:34:52.94,0:34:55.51,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(136.5,674,295.5,864)\t(0,1652,\clip(136.5,674,780,860)}I want to love you as much as the {\alpha&HFF&}snow melts from the slopes
+Dialogue: 0,0:34:55.51,0:34:58.91,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(106.5,690,780,854)\t(0,1918,\clip(150,752,1297.5,852)}I want to love you as much as the snow melts from the slopes
+Dialogue: 0,0:34:58.91,0:35:06.08,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}It's all right to burn ourselves from our embrace
+Dialogue: 0,0:34:59.21,0:35:00.38,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(105,710,136.5,870)\t(0,821,\clip(64.5,708,357,866)}My lover {\alpha&HFF&}Santa Claus is making my heart turn white from the snow
+Dialogue: 0,0:35:00.38,0:35:02.41,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(69,682,300,844)\t(0,1586,\clip(100.5,722,771,856)}My lover Santa Claus is making my {\alpha&HFF&}heart turn white from the snow
+Dialogue: 0,0:35:02.41,0:35:06.08,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(66,596,766.5,846)\t(0,2526,\clip(96,680,1332,862)}My lover Santa Claus is making my heart turn white from the snow
+Dialogue: 0,0:35:06.08,0:35:09.59,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Ah, Summer Holidays
+Dialogue: 0,0:35:06.68,0:35:09.59,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(558,732,595.5,844)\t(0,2650,\clip(513,724,931.5,852)}Ah, New Years
+Dialogue: 0,0:35:09.59,0:35:19.16,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Exhausted after a small swim, my chest is cool baby
+Dialogue: 0,0:35:09.85,0:35:13.36,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(220.5,706,249,860)\t(0,3650,\clip(171,726,921,854)}Grandpa is coming to give us {\alpha&HFF&}our New Year's gift baby
+Dialogue: 0,0:35:13.36,0:35:19.16,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(180,722,772.5,854)\t(0,885,\clip(207,748,1234.5,846)}Grandpa is coming to give us our New Year's gift baby
+Dialogue: 0,0:36:57.99,0:37:03.30,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(925.5,933)\fscx62\fscy86}Tearing up the asphalt
+Dialogue: 0,0:36:59.00,0:37:00.93,fakelyrics,,0,0,0,,{\pos(921,822)\clip(705,710,754.5,850)\t(0,1460,\clip(681,726,1045.5,860)}The stinging {\alpha&HFF&}wound
+Dialogue: 0,0:37:00.93,0:37:03.30,fakelyrics,,0,0,0,,{\pos(921,822)\clip(723,728,978,862)\t(0,1890,\clip(652.5,718,1152,862)}The stinging wound
+Dialogue: 0,0:37:03.30,0:37:07.47,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(925.5,933)\fscx62\fscy86}with every footstep I make
+Dialogue: 0,0:37:03.30,0:37:07.47,fakelyrics,,0,0,0,,{\pos(921,822)\clip(649.5,696,703.5,846)\t(0,3400,\clip(646.5,734,1191,864)}made me unable to sleep
+Dialogue: 0,0:37:07.47,0:37:16.15,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(925.5,933)\fscx62\fscy86}I wished to continue living as myself
+Dialogue: 0,0:37:07.70,0:37:12.14,fakelyrics,,0,0,0,,{\clip(508.5,726,535.5,840)\t(0,5550,\clip(510,726,1338,854))\pos(931.5,822)}On the night I was taking a whizz, {\alpha&HFF&}a crying face
+Dialogue: 0,0:37:12.14,0:37:16.15,fakelyrics,,0,0,0,,{\pos(931.5,822)\clip(492,726,1123.5,856)\t(0,1758,\clip(475.5,698,1371,856)}On the night I was taking a whizz, a crying face
+Dialogue: 0,0:37:16.51,0:37:24.95,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Ah, where are you, happy dragonfly
+Dialogue: 0,0:37:16.95,0:37:18.72,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(379.5,728,402,852)\t(0,2600,\clip(301.5,696,672,864)}Crying{\alpha&HFF&} in sadness, I throw myself off
+Dialogue: 0,0:37:18.72,0:37:20.88,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(327,674,529.5,870)\t(0,1300,\clip(360,718,759,860)}Crying in sadness, {\alpha&HFF&}I throw myself off
+Dialogue: 0,0:37:20.88,0:37:22.55,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(346.5,716,738,854)\t(0,1850,\clip(325.5,714,928.5,864)}Crying in sadness, I throw {\alpha&HFF&}myself off
+Dialogue: 0,0:37:22.55,0:37:24.95,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(339,688,873,858)\t(0,1600,\clip(360,746,1111.5,862)}Crying in sadness, I throw myself off
+Dialogue: 0,0:37:24.95,0:37:32.56,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Where have you flown off to?
+Dialogue: 0,0:37:24.95,0:37:32.56,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Where have you flown off to?
+Dialogue: 0,0:37:25.39,0:37:28.29,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(432,728,462,848)\t(0,2700,\clip(364.5,720,768,854)}wanting to be {\alpha&HFF&}more of myself
+Dialogue: 0,0:37:28.29,0:37:29.56,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(421.5,728,717,848)\t(0,1850,\clip(439.5,752,1003.5,850)}wanting to be more of {\alpha&HFF&}myself
+Dialogue: 0,0:37:29.56,0:37:32.56,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(412.5,706,864,856)\t(0,1200,\clip(427.5,730,1021.5,860)}wanting to be more of myself
+Dialogue: 0,0:37:32.56,0:37:42.31,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}Oh, happy dragonfly
+Dialogue: 0,0:37:34.33,0:37:40.20,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(298.5,720,345,852)\t(0,7400,\clip(265.5,718,1146,864)}But here I am, emotionless in the {\alpha&HFF&}city skies
+Dialogue: 0,0:37:40.20,0:37:42.31,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(279,708,939,858)\t(0,1590,\clip(309,738,1153.5,852)}But here I am, emotionless in the city skies
+Dialogue: 0,0:37:42.31,0:37:52.45,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(718.5,935)\fscx62\fscy86}I stick out my tongue and laugh
+Dialogue: 0,0:37:42.71,0:37:44.61,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(303,734,340.5,840)\t(0,1885,\clip(256.5,732,708,854)}How many bubbles {\alpha&HFF&}will be blown I wonder?
+Dialogue: 0,0:37:44.57,0:37:45.61,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(270,726,685.5,844)\t(0,359,\clip(309,742,838.5,858)}How many bubbles will be {\alpha&HFF&}blown I wonder?
+Dialogue: 0,0:37:45.61,0:37:52.45,fakelyrics,,0,0,0,,{\pos(718.5,822)\clip(231,734,813,848)\t(0,2550,\clip(258,684,1129.5,876)}How many bubbles will be blown I wonder?
+Dialogue: 0,0:40:02.18,0:40:03.68,Default,,0,0,0,,Okay everyone, here's another quick one
+Dialogue: 0,0:40:03.68,0:40:07.18,Default,,0,0,0,,Have you ever been in a state where no matter what happens, you'd be unable to resist,
+Dialogue: 0,0:40:07.18,0:40:10.88,Default,,0,0,0,,or there's ever been a time where you felt helpless?
+Dialogue: 0,0:40:11.05,0:40:12.72,Default,,0,0,0,,There would be, right?
+Dialogue: 0,0:40:11.05,0:40:12.72,Matsumoto,,0,0,0,,There has been
+Dialogue: 0,0:40:12.72,0:40:14.29,Default,,0,0,0,,You haven't, Izumi?
+Dialogue: 0,0:40:14.29,0:40:16.33,Default,,0,0,0,,Like when holding off going to the restroom?
+Dialogue: 0,0:40:16.59,0:40:17.26,Matsumoto,,0,0,0,,Is that what you mean?
+Dialogue: 0,0:40:17.26,0:40:19.10,Default,,0,0,0,,You can definitely hold it in
+Dialogue: 0,0:40:19.10,0:40:22.17,Default,,0,0,0,,I can even hold it for two hours
+Dialogue: 0,0:40:23.20,0:40:25.00,Default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:40:25.00,0:40:27.97,Default,,0,0,0,,I thought there'd be a better one but you totally missed it
+Dialogue: 0,0:40:26.40,0:40:27.97,Hamada,,0,0,0,,Okay you've got her
+Dialogue: 0,0:40:27.97,0:40:30.07,Default,,0,0,0,,What the hell is feeling powerless holding in your pee!
+Dialogue: 0,0:40:27.97,0:40:29.87,Matsumoto,,0,0,0,,He's locked on
+Dialogue: 0,0:40:30.07,0:40:34.61,Default,,0,0,0,,Think about it a bit! You ain't gonna get paid just sitting on your ass cuz you got a pretty face you idiot!!
+Dialogue: 0,0:40:34.61,0:40:36.35,Matsumoto,,0,0,0,,So sorry for you
+Dialogue: 0,0:40:36.35,0:40:38.88,Default,,0,0,0,,Feel grateful for your parents and grandparents
+Dialogue: 0,0:40:38.88,0:40:40.75,Matsumoto,,0,0,0,,His emotion are a bit...
+Dialogue: 0,0:40:40.75,0:40:44.15,Default,,0,0,0,,Now, I bring you this theory based on that
+Dialogue: 0,0:40:45.29,0:40:49.93,Default,,0,0,0,,The theory of being helpless when you're carrying a urine sample
+Dialogue: 0,0:40:50.36,0:40:51.76,Default,,0,0,0,,We did some verification if urine
+Dialogue: 0,0:40:51.76,0:40:56.10,Default,,0,0,0,,does make you helpless, please watch the following
+Dialogue: 0,0:40:54.20,0:40:56.10,Hamada,,0,0,0,,What kind of verification are you doing?
+Dialogue: 0,0:40:57.07,0:41:02.77,Narrator,,0,0,0,,We investigate the theory of being helpless when you're carrying a urine sample
+Dialogue: 0,0:41:01.74,0:41:03.11,Default Talking Over,,0,0,0,,Is there a point to this?
+Dialogue: 0,0:41:03.27,0:41:11.78,Narrator,,0,0,0,,For this we have 4 celebrities being called out to a specialized hospital prior to a fake health examination
+Dialogue: 0,0:41:11.11,0:41:12.42,Default Talking Over,,0,0,0,,Komiya's in this
+Dialogue: 0,0:41:12.42,0:41:16.49,Narrator,,0,0,0,,The doctor's room is directly 10m from the toilet
+Dialogue: 0,0:41:16.49,0:41:21.82,Narrator,,0,0,0,,While they're carrying urine, they will run into 4 obstacles
+Dialogue: 0,0:41:22.33,0:41:24.09,Narrator,,0,0,0,,The first person is..
+Dialogue: 0,0:41:25.23,0:41:27.63,Narrator,,0,0,0,,Sanshiro's Komiya
+Dialogue: 0,0:41:27.96,0:41:30.63,Narrator,,0,0,0,,The urine that was deposited..
+Dialogue: 0,0:41:30.63,0:41:34.57,Default,,0,0,0,,Sorry, this didn't have your name on it, could you please take a seat over there?
+Dialogue: 0,0:41:34.57,0:41:36.14,Narrator,,0,0,0,,is left in the nurse's care..
+Dialogue: 0,0:41:37.41,0:41:40.64,Narrator,,0,0,0,,and is swapped out for tea and returned back
+Dialogue: 0,0:41:37.94,0:41:39.18,Default Talking Over,,0,0,0,,Ah they swapped it
+Dialogue: 0,0:41:38.64,0:41:39.88,Default Talking Over,,0,0,0,,Ah that's great
+Dialogue: 0,0:41:40.44,0:41:41.34,Hamada Talking Over,,0,0,0,,I see
+Dialogue: 0,0:41:41.51,0:41:44.48,Narrator,,0,0,0,,The first obstacle faced is..
+Dialogue: 0,0:41:44.81,0:41:46.72,Default,,0,0,0,,Thank you for waiting
+Dialogue: 0,0:41:46.72,0:41:49.05,Default,,0,0,0,,Please hold onto this and wait
+Dialogue: 0,0:41:49.72,0:41:53.96,Narrator,,0,0,0,,What would you do if there was a woman next to you?
+Dialogue: 0,0:41:52.42,0:41:53.82,Default Talking Over,,0,0,0,,This definitely is bad
+Dialogue: 0,0:41:53.82,0:41:55.09,Hamada Talking Over,,0,0,0,,Ah this situation exists
+Dialogue: 0,0:41:53.99,0:41:55.06,Default,,0,0,0,,Please excuse me
+Dialogue: 0,0:41:59.46,0:42:01.53,Narrator,,0,0,0,,He keeps it hidden
+Dialogue: 0,0:42:02.87,0:42:06.10,Narrator,,0,0,0,,Continuing on is Trendy Angel's Saito
+Dialogue: 0,0:42:05.23,0:42:06.30,Default Talking Over,,0,0,0,,Ah Saito's here
+Dialogue: 0,0:42:06.64,0:42:08.44,Default,,0,0,0,,Sorry, excuse me
+Dialogue: 0,0:42:08.44,0:42:09.94,Default,,0,0,0,,Please hold onto this and wait
+Dialogue: 0,0:42:09.94,0:42:11.71,Default,,0,0,0,,Do I have to wait?..
+Dialogue: 0,0:42:15.14,0:42:18.55,Narrator,,0,0,0,,As expected, it is left in a place that can't be seen
+Dialogue: 0,0:42:20.32,0:42:22.29,Narrator,,0,0,0,,Now with Masaya Nakamura
+Dialogue: 0,0:42:22.05,0:42:23.55,Default Talking Over,,0,0,0,,What's with his face?
+Dialogue: 0,0:42:23.09,0:42:25.19,Narrator,,0,0,0,,he placed it between his legs
+Dialogue: 0,0:42:26.72,0:42:30.56,Narrator,,0,0,0,,Then there's Ebisu who is surrounded by two women
+Dialogue: 0,0:42:28.79,0:42:31.19,Matsumoto Talking Over,,0,0,0,,What would you do if you were surrounded?
+Dialogue: 0,0:42:34.70,0:42:38.94,Narrator,,0,0,0,,He places it somewhere that can't be seen either way
+Dialogue: 0,0:42:38.40,0:42:39.54,Default Talking Over,,0,0,0,,He's embarrassed
+Dialogue: 0,0:42:38.40,0:42:39.54,Hamada Talking Over,,0,0,0,,Understandable
+Dialogue: 0,0:42:40.07,0:42:43.67,Narrator,,0,0,0,,As expected, are they embarrassed for it to be seen by females?
+Dialogue: 0,0:42:43.67,0:42:47.71,Narrator,,0,0,0,,They all pretend as if the urine is non-existent
+Dialogue: 0,0:42:48.11,0:42:48.81,Default,,0,0,0,,Komiya
+Dialogue: 0,0:42:48.81,0:42:51.38,Default,,0,0,0,,Yes, coming, excuse me
+Dialogue: 0,0:42:51.38,0:42:52.48,Default,,0,0,0,,Good luck
+Dialogue: 0,0:42:52.48,0:42:54.22,Default,,0,0,0,,Ah, excuse me, Komiya
+Dialogue: 0,0:42:54.92,0:42:58.02,Default,,0,0,0,,if it's okay with you, could I get your autograph?
+Dialogue: 0,0:42:56.59,0:42:58.02,Default,,0,0,0,,Ah, yes, that's fine
+Dialogue: 0,0:42:58.02,0:42:59.06,Default,,0,0,0,,Sorry
+Dialogue: 0,0:42:59.62,0:43:01.56,Default,,0,0,0,,Ah, is one-handed okay?
+Dialogue: 0,0:43:00.66,0:43:01.56,Default,,0,0,0,,Yes
+Dialogue: 0,0:43:02.36,0:43:04.26,Default,,0,0,0,,Are you okay?
+Dialogue: 0,0:43:03.13,0:43:04.26,Default,,0,0,0,,It's fine
+Dialogue: 0,0:43:05.66,0:43:10.40,Narrator,,0,0,0,,After this, more obstacles will happen in their urine-holding state
+Dialogue: 0,0:43:25.05,0:43:27.08,Narrator,,0,0,0,,Urine surprise investigation
+Dialogue: 0,0:43:27.48,0:43:28.82,Narrator,,0,0,0,,Moving on to..
+Dialogue: 0,0:43:31.79,0:43:34.69,Narrator,,0,0,0,,What happens if another bystander drops their loose change?
+Dialogue: 0,0:43:35.56,0:43:36.26,Default,,0,0,0,,Sorry about this
+Dialogue: 0,0:43:35.96,0:43:38.06,Default Talking Over,,0,0,0,,That's very painful
+Dialogue: 0,0:43:36.26,0:43:37.83,Default,,0,0,0,,Ah I'm sorry but
+Dialogue: 0,0:43:37.83,0:43:40.73,Default,,0,0,0,,I'm carrying a urine sample, so excuse me
+Dialogue: 0,0:43:42.77,0:43:46.84,Narrator,,0,0,0,,Saito's excuse of the urine sample has let him through
+Dialogue: 0,0:43:49.87,0:43:52.17,Narrator,,0,0,0,,Next up is Ebisu
+Dialogue: 0,0:43:56.38,0:43:57.85,Default,,0,0,0,,What should I do
+Dialogue: 0,0:43:58.61,0:44:00.65,Default,,0,0,0,,I'm so sorry, thank you very much
+Dialogue: 0,0:44:01.78,0:44:05.39,Narrator,,0,0,0,,He places the urine down and helps
+Dialogue: 0,0:44:04.45,0:44:06.09,Default Talking Over,,0,0,0,,He's very nice
+Dialogue: 0,0:44:06.09,0:44:07.22,Matsumoto Talking Over,,0,0,0,,Sure is
+Dialogue: 0,0:44:07.16,0:44:08.16,Narrator,,0,0,0,,Furthermore
+Dialogue: 0,0:44:08.66,0:44:12.63,Narrator,,0,0,0,,the other two also help pick it up
+Dialogue: 0,0:44:11.13,0:44:12.63,Matsumoto Talking Over,,0,0,0,,Really?
+Dialogue: 0,0:44:13.30,0:44:14.16,Default Talking Over,,0,0,0,,So kind
+Dialogue: 0,0:44:14.16,0:44:15.87,Narrator,,0,0,0,,Next up
+Dialogue: 0,0:44:17.40,0:44:20.40,Narrator,,0,0,0,,What if the painting on the wall were to fall down?
+Dialogue: 0,0:44:28.68,0:44:30.28,Matsumoto Talking Over,,0,0,0,,It spilled, didn't it?
+Dialogue: 0,0:44:29.25,0:44:30.28,Default Talking Over,,0,0,0,,It did!
+Dialogue: 0,0:44:30.78,0:44:31.78,Default Talking Over,,0,0,0,,It leaked out
+Dialogue: 0,0:44:33.38,0:44:38.15,Narrator,,0,0,0,,He spilled both the urine and the glasses
+Dialogue: 0,0:44:41.79,0:44:43.96,Matsumoto,,0,0,0,,Woah, what is he doing?
+Dialogue: 0,0:44:43.96,0:44:45.80,Default,,0,0,0,,It's just tea at least
+Dialogue: 0,0:44:49.67,0:44:51.17,Default,,0,0,0,,Um, should I go in?
+Dialogue: 0,0:44:51.87,0:44:54.30,Narrator,,0,0,0,,Following up is Ebisu
+Dialogue: 0,0:44:52.54,0:44:54.07,Hamada Talking Over,,0,0,0,,Having those kinds of reactions
+Dialogue: 0,0:44:56.54,0:44:57.51,Matsumoto Talking Over,,0,0,0,,Go in further
+Dialogue: 0,0:44:57.51,0:44:58.61,Matsumoto Talking Over,,0,0,0,,Ohh
+Dialogue: 0,0:44:57.84,0:44:59.31,Default,,0,0,0,,Ah, that scared me!
+Dialogue: 0,0:44:59.31,0:45:01.04,Matsumoto Talking Over,,0,0,0,,But it didn't spill out right?
+Dialogue: 0,0:45:00.88,0:45:02.31,Default,,0,0,0,,Ah, that scared me!
+Dialogue: 0,0:45:03.85,0:45:05.65,Default,,0,0,0,,Ah, that scared me!
+Dialogue: 0,0:45:05.65,0:45:06.82,Default,,0,0,0,,What is this?
+Dialogue: 0,0:45:06.82,0:45:10.49,Default,,0,0,0,,Oops, hold on, I got it on my hand
+Dialogue: 0,0:45:13.66,0:45:17.16,Narrator,,0,0,0,,A decent amount of urine spilled out
+Dialogue: 0,0:45:18.13,0:45:19.26,Default,,0,0,0,,Ow
+Dialogue: 0,0:45:18.86,0:45:20.23,Matsumoto Talking Over,,0,0,0,,What's this
+Dialogue: 0,0:45:21.93,0:45:23.70,Narrator,,0,0,0,,And now lastly..
+Dialogue: 0,0:45:24.87,0:45:28.17,Narrator,,0,0,0,,What if the seat inside the medical room breaks?
+Dialogue: 0,0:45:27.40,0:45:29.77,Matsumoto Talking Over,,0,0,0,,Yikes, there's no prevention for this
+Dialogue: 0,0:45:30.67,0:45:33.64,Default,,0,0,0,,Wow WoW WOW
+Dialogue: 0,0:45:32.34,0:45:33.74,Default Talking Over,,0,0,0,,Ah he protected it
+Dialogue: 0,0:45:33.74,0:45:35.18,Default Talking Over,,0,0,0,,Ah I'm glad
+Dialogue: 0,0:45:33.64,0:45:36.31,Default,,0,0,0,,That was a close one, Doctor
+Dialogue: 0,0:45:36.81,0:45:37.98,Default,,0,0,0,,Please pass it to me
+Dialogue: 0,0:45:44.12,0:45:45.05,Default,,0,0,0,,Is there any left?
+Dialogue: 0,0:45:45.05,0:45:47.79,Default,,0,0,0,,A little is left, sorry, it spilled out
+Dialogue: 0,0:45:49.29,0:45:51.19,Default,,0,0,0,,Ahhh
+Dialogue: 0,0:45:52.80,0:45:53.96,Default Talking Over,,0,0,0,,Ebisu san...
+Dialogue: 0,0:45:53.53,0:45:54.96,Default,,0,0,0,,Are you alright?
+Dialogue: 0,0:45:54.10,0:45:54.96,Default,,0,0,0,,I'm okay
+Dialogue: 0,0:45:55.13,0:45:57.73,Default,,0,0,0,,Please take a seat here
+Dialogue: 0,0:45:58.87,0:46:00.14,Default,,0,0,0,,Sorry, doctor
+Dialogue: 0,0:46:02.24,0:46:03.47,Default,,0,0,0,,Sorry, doctor
+Dialogue: 0,0:46:03.74,0:46:05.17,Default Talking Over,,0,0,0,,This is painful
+Dialogue: 0,0:46:05.21,0:46:07.31,Default,,0,0,0,,I'm so sorry
+Dialogue: 0,0:46:07.51,0:46:09.01,Hamada Talking Over,,0,0,0,,He got it on the doctor
+Dialogue: 0,0:46:09.18,0:46:10.68,Default,,0,0,0,,Oh, you're here
+Dialogue: 0,0:46:10.95,0:46:13.42,Default,,0,0,0,,Wait a minute.. what's going on?
+Dialogue: 0,0:46:13.42,0:46:16.09,Default,,0,0,0,,Eh, what? Is this a hospital? What?
+Dialogue: 0,0:46:16.09,0:46:18.95,Default,,0,0,0,,Eh, this wasn't a physical checkup?
+Dialogue: 0,0:46:18.39,0:46:18.95,Default,,0,0,0,,No, it wasn't
+Dialogue: 0,0:46:18.95,0:46:19.89,Default,,0,0,0,,What, come on~
+Dialogue: 0,0:46:19.89,0:46:22.96,Default,,0,0,0,,I didn't eat for this
+Dialogue: 0,0:46:23.86,0:46:26.73,Default,,0,0,0,,I didn't eat since 12 yesterday
+Dialogue: 0,0:46:27.36,0:46:32.40,Narrator,,0,0,0,,Therefore, if you are holding urine, you are only somewhat helpless
+Dialogue: 0,0:46:33.44,0:46:34.70,Hamada,,0,0,0,,I see
+Dialogue: 0,0:46:34.70,0:46:37.37,Default,,0,0,0,,You're only somewhat helpless
+Dialogue: 0,0:46:37.37,0:46:41.24,Matsumoto,,0,0,0,,This segment, you got inspired from ASKA right?
+Dialogue: 0,0:46:41.24,0:46:42.48,Default,,0,0,0,,Well, um
+Dialogue: 0,0:46:43.11,0:46:45.65,Default,,0,0,0,,Even if they got the hint, it would escape them
+Dialogue: 0,0:46:45.65,0:46:48.48,Default,,0,0,0,,Like if they were told the urine was swapped out for tea
+Dialogue: 0,0:46:48.68,0:46:49.79,Default,,0,0,0,,That'd be impressive
+Dialogue: 0,0:46:49.79,0:46:52.15,Matsumoto,,0,0,0,,But, that'll be a Win-Win
+Dialogue: 0,0:46:52.15,0:46:55.12,Default,,0,0,0,,That would be a Win-win, and you would lose
+Dialogue: 0,0:46:55.12,0:46:57.89,Default,,0,0,0,,I'd have nothing to do with that
+Dialogue: 0,0:47:13.41,0:47:14.18,Narrator,,0,0,0,,Next time
+Dialogue: 0,0:47:16.45,0:47:21.22,Narrator,,0,0,0,,If comedians are mistaken for strangers, how would they react?
+Dialogue: 0,0:47:21.22,0:47:22.72,Default,,0,0,0,,Hyper Lemon
+Dialogue: 0,0:47:22.72,0:47:23.49,Narrator,,0,0,0,,Furthermore
+Dialogue: 0,0:47:23.49,0:47:25.82,Default,,0,0,0,,I'm not as bad as this person
+Dialogue: 0,0:47:26.26,0:47:28.62,Narrator,,0,0,0,,A showdown between Matenrou's Anthony and AnzenManzai's Arapon
+Dialogue: 0,0:47:28.62,0:47:32.29,Narrator,,0,0,0,,That will determine who isn't the number one entertainer
+Dialogue: 0,0:47:33.10,0:47:37.07,Narrator,,0,0,0,,Finally, we present a theory on crimes
+Dialogue: 0,0:47:37.07,0:47:39.37,Narrator,,0,0,0,,that have never been recorded
+Dialogue: 0,0:47:13.41,0:47:39.87,Default,,0,0,0,,{\pos(720,911)\bord0\shad0\1c&H000000&\p1\alpha65}m 0 0  l 1800 0  1800 158  0 158
+Dialogue: 0,0:47:13.41,0:47:39.87,Narrator,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&H000000&\3a&H5A&\c&HFFFFFF&\fscx58\fscy80\pos(720,878)}Check out our Facebook and Website for more Wednesday Downtown! This video was subbed by a community run project called the Wednesday Downtown Project. Thanks for watching!
+

@@ -1,0 +1,831 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: 2.mp4
+Video File: 2.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 766
+Active Line: 777
+Video Position: 29490
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Hamada,Arial,55,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Matsumoto,Arial,55,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Housei,Arial,55,&H0013C018,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Endo,Arial,55,&H000597DB,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Tanaka,Arial,55,&H00C900B9,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Narrator Black on White,Arial,45,&H00000000,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,125,0,0,1,5,4,2,10,10,10,1
+Style: Default White on Black,Arial,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,7.5,6,2,10,10,10,1
+Style: Missing Translation,Arial,65,&H0000FF20,&H00FF00EC,&H00FF00FF,&H00EEFF00,-1,0,0,0,100,100,0,0,1,7,6,2,10,10,10,1
+Style: Newtofupandatitle,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,185.951,100,0,0,1,2.19999,2.19999,2,11,11,12,1
+Style: Yellow text,Arial,45,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,2.19999,1.46666,2,9,9,8,1
+Style: Rectangle Block,Arial,20,&HFFFFFFFF,&H000000FF,&H00797979,&HFF000000,-1,0,0,0,100,100,0,0,3,200,2,2,10,10,10,1
+Style: Fatfut,Arial,66,&H00FFFFFF,&H000000FF,&H2918181A,&H51222224,0,0,0,0,136.364,100,0,0,1,2.19999,2.19999,2,11,11,12,1
+Style: Osaka Title,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.815,1.32,2,9,9,8,1
+Style: Goofy round,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,3,2.22222,2,7,7,6,1
+Style: Handgof,Arial,44,&H00F70002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,136,100,0,0,1,2.5,1.11111,2,7,7,6,1
+Style: Sharp Blocky,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,5,2,8,8,6,1
+Style: Smooth Blocky,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,137,100,0,0,1,2.22222,1.11111,2,8,8,6,1
+Style: Smogo,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,2.22222,2,7,7,6,1
+Style: Testhand,Arial,17,&H00FFFFFF,&H000000FF,&H004F4F50,&H00000000,-1,-1,0,0,137,100,0,0,1,2.77778,2.77778,2,8,8,6,1
+Style: Sharp,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.3,0.992593,2,10,10,10,1
+Style: Gyosho Chinese,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: otosanhand,Arial,48,&H00000000,&H000000FF,&HFF000000,&HFF000000,-1,0,0,0,136,100,0,0,1,2,2,2,10,10,10,1
+Style: Blackpresent,Arial,41,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,120,120,0,0,1,2.93333,2.19999,2,9,9,8,1
+Style: Yellow announcmend,Arial,41,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,100,100,0,0,1,3,3,2,9,9,8,1
+Style: Blocky,Arial,41,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,181.819,100,0,0,1,4.66667,2.66667,2,8,8,7,1
+Style: Default - Copy,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,125,0,0,1,3,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TPF Stuff Start ▼▼
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,TPF Face ▼
+Comment: 0,0:00:00.51,0:00:03.08,Matsumoto,,0,0,0,,**Check later
+Comment: 0,0:00:46.73,0:00:47.06,Default,,0,0,0,,Info Box ▼
+Comment: 0,0:00:47.06,0:00:48.73,Default,,0,0,0,,Info Box ▲
+Comment: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(717.334,1067.273)\fscx75.733\fscy96}If you ever see this video being distributed online but not by us, keep in mind that on Youtube \Nindividuals may make money off of sharing fansubs like this that are not their own. Please go back and \Nsupport the original creators. Fansubbing is voluntary and is not meant to generate profit. You can \Ndownload episodes on our website instead. Thanks for watching!{\b1}
+Comment: 0,0:01:57.46,0:02:08.87,Yellow announcmend,,0,0,0,,RULES
+Comment: 0,0:02:09.24,0:02:14.38,Sharp Blocky,,0,0,0,,Gold presentation
+Comment: 0,0:02:25.39,0:02:28.86,Default,,0,0,0,,End
+Comment: 0,0:02:28.91,0:02:32.68,Matsumoto,,0,0,0,,INGREDIENT
+Comment: 0,0:02:32.74,0:02:35.85,Hamada,,0,0,0,,Different pickles
+Comment: 0,0:02:43.02,0:02:45.11,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:02:42.11,0:02:45.11,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:02:42.34,0:02:47.88,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx198.2\fscy176\pos(109.333,1076.363)}!!{\b1}
+Comment: 0,0:02:42.34,0:02:47.88,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx198.2\fscy176\pos(1329.333,1076.363)}!!{\b1}
+Comment: 0,0:02:42.11,0:02:48.15,Default,,0,0,0,,End
+Comment: 0,0:03:01.76,0:03:04.90,Matsumoto,,0,0,0,,Fat
+Comment: 0,0:03:41.47,0:03:46.20,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:03:41.47,0:03:46.20,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:03:41.47,0:03:46.20,Default,,0,0,0,,End
+Comment: 0,0:04:03.49,0:04:08.66,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:04:03.49,0:04:08.66,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:04:03.49,0:04:08.66,Default,,0,0,0,,End
+Comment: 0,0:05:08.32,0:05:12.86,Default,,0,0,0,,End - Note to self - Change design later
+Comment: 0,0:05:08.32,0:05:12.88,Default,,0,0,0,,Dish presentation
+Comment: 0,0:05:41.42,0:05:44.19,Housei,,0,0,0,,fat
+Comment: 0,0:06:14.40,0:06:17.05,Default,,0,0,0,,NOTE TOSELF - Dish name needed?
+Comment: 0,0:06:26.87,0:06:31.24,Matsumoto,,0,0,0,,INGREDIENT
+Comment: 0,0:06:26.87,0:06:31.24,Default,,0,0,0,,End
+Comment: 0,0:06:36.41,0:06:42.85,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:06:36.41,0:06:42.85,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:06:36.41,0:06:42.85,Default,,0,0,0,,End
+Comment: 0,0:06:45.12,0:06:48.25,Housei,,0,0,0,,fat
+Comment: 0,0:06:57.57,0:07:00.60,Default,,0,0,0,,White block
+Comment: 0,0:06:57.23,0:07:02.93,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:06:57.23,0:07:02.93,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:06:57.23,0:07:02.93,Default,,0,0,0,,End
+Comment: 0,0:07:03.27,0:07:12.78,Smogo,,0,0,0,,end
+Comment: 0,0:07:40.44,0:07:43.51,Matsumoto,,0,0,0,,Check for confirmation later
+Comment: 0,0:08:09.00,0:08:13.54,Default,,0,0,0,,Dish presentation
+Comment: 0,0:08:09.00,0:08:13.54,Default,,0,0,0,,End - Note to self - Change design later
+Comment: 0,0:08:59.55,0:09:10.56,Sharp Blocky,,0,0,0,,Gold presentation
+Comment: 0,0:09:41.16,0:09:44.86,Matsumoto,,0,0,0,,INGREDIENT
+Comment: 0,0:09:41.16,0:09:44.86,Default,,0,0,0,,End
+Comment: 0,0:10:13.42,0:10:19.33,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:10:13.42,0:10:19.33,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:10:13.42,0:10:19.33,Default,,0,0,0,,End
+Comment: 0,0:11:59.66,0:12:04.97,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:11:59.66,0:12:04.97,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:11:59.66,0:12:04.97,Default,,0,0,0,,End
+Comment: 0,0:12:13.98,0:12:18.48,Default,,0,0,0,,Dish presentation
+Comment: 0,0:12:13.98,0:12:18.48,Default,,0,0,0,,End - Note to self - Change design later PLUS find another color for gold - Is this design different than the others?
+Comment: 0,0:14:12.43,0:14:16.97,Matsumoto,,0,0,0,,Fat
+Comment: 0,0:14:17.31,0:14:20.47,Matsumoto,,0,0,0,,Fat
+Comment: 0,0:14:32.45,0:14:34.35,Matsumoto,,0,0,0,,Fat
+Comment: 0,0:14:52.14,0:14:57.31,Sharp Blocky,,0,0,0,,Gold presentation
+Comment: 0,0:14:52.14,0:14:57.31,Default,,0,0,0,,Note to self. CHANGE LATER
+Comment: 0,0:15:16.63,0:15:21.10,Matsumoto,,0,0,0,,INGREDIENT
+Comment: 0,0:15:16.63,0:15:21.10,Default,,0,0,0,,End
+Comment: 0,0:15:36.61,0:15:41.59,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:15:36.61,0:15:41.59,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:15:36.61,0:15:41.59,Default,,0,0,0,,End
+Comment: 0,0:16:06.04,0:16:13.05,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:16:06.04,0:16:13.05,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:16:06.04,0:16:13.05,Default,,0,0,0,,End
+Comment: 0,0:16:39.18,0:16:42.11,Matsumoto,,0,0,0,,Bing instructions
+Comment: 0,0:16:39.18,0:16:42.11,Default,,0,0,0,,Note toself - change design later
+Comment: 0,0:16:39.18,0:16:42.11,Default,,0,0,0,,End
+Comment: 0,0:17:11.94,0:17:16.45,Default,,0,0,0,,Dish presentation
+Comment: 0,0:17:11.94,0:17:16.45,Default,,0,0,0,,End - Note to self - Change design later PLUS find another color for gold - Is this design different than the others?
+Comment: 0,0:17:59.89,0:18:01.68,Matsumoto,,0,0,0,,fat ??
+Comment: 0,0:18:02.20,0:18:04.00,Matsumoto,,0,0,0,,Fat??
+Comment: 0,0:18:59.55,0:19:01.88,Default,,0,0,0,,End
+Comment: 0,0:18:59.55,0:19:01.88,Default,,0,0,0,,CHECK LATER
+Comment: 0,0:18:59.55,0:19:06.16,Housei,,0,0,0,,Housei verdict
+Comment: 0,0:19:42.03,0:19:44.56,Endo,,0,0,0,,Fat ^
+Comment: 0,0:23:11.97,0:23:15.00,Matsumoto,,0,0,0,,Information
+Comment: 0,0:23:11.84,0:23:21.28,Default,,0,0,0,,Fat
+Comment: 0,0:24:03.22,0:24:09.76,Housei,,0,0,0,,End
+Comment: 0,0:24:09.73,0:24:09.76,Default,,0,0,0,,TPF Face ▲
+Comment: 0,0:24:09.73,0:24:09.76,Default,,0,0,0,,TPF Face ▲
+Dialogue: 0,0:00:00.51,0:00:03.08,Matsumoto,,0,0,0,,{\pos(511.5,804)}They're not even letting
+Dialogue: 0,0:00:00.51,0:00:03.08,Matsumoto,,0,0,0,,{\pos(720,928)}us make whatever we want
+Dialogue: 0,0:00:03.08,0:00:04.42,Matsumoto,,0,0,0,,{\pos(720,894)\fscx122\fscy151}And then we're told what{\c&H000000&} Okonomiyaki {\c&H1525D4&}is
+Dialogue: 0,0:00:04.42,0:00:06.85,Matsumoto,,0,0,0,,{\fs75\pos(718.5,894)}It's like an old lady {\c&H000000&}doing what she wants
+Dialogue: 0,0:00:07.62,0:00:09.59,Default,,0,0,0,,Trying innovative recipes!
+Dialogue: 0,0:00:07.05,0:00:13.36,Smogo,,0,0,0,,{\fade(1000,0)\fs75\fscx150\fscy200\c&HBA2C0C&\3c&H85EAF4&\4c&HFFFFFF&\t(0,300,\fscx75\fscy100)\t(300,6500,5\fscx86.25,\fscy115)\pos(720,880)}I always wanted to try this!! \N \N {\fs80\c&H50F0FF&\3c&H1E2729&}Absolutely tasty {\c&H4C3CE5&\3c&H000000&}Okonomiyaki {\c&H000000&\3c&H85EAF4&}challenge
+Dialogue: 0,0:00:09.59,0:00:13.36,Default,,0,0,0,,It's the absolutely tasty Okonomiyaki challenge!
+Dialogue: 0,0:00:14.26,0:00:15.76,Default,,0,0,0,,First up was Hamada
+Dialogue: 0,0:00:15.76,0:00:16.96,Housei,,0,0,0,,Oh I get it
+Dialogue: 0,0:00:16.96,0:00:18.33,Hamada,,0,0,0,,It's curry
+Dialogue: 0,0:00:15.36,0:00:20.33,Smogo,,0,0,0,,{\fade(250,0)\fs65\3c&HFFFFFF&\c&HB42813&\clip(2.4,662.4,430.8,1080)\t(0,250,\clip(4.8,667.2,1440,1076.8))\pos(744,873.6)\fscx110\fscy125}Hamada's innovation was {\c&H009EE0&}curry
+Dialogue: 0,0:00:18.33,0:00:20.33,Tanaka,,0,0,0,,Wow
+Dialogue: 0,0:00:18.83,0:00:20.33,Housei,,0,0,0,,This is good!
+Dialogue: 0,0:00:22.10,0:00:24.10,Tanaka,,0,0,0,,Are you gonna put it on now?
+Dialogue: 0,0:00:24.64,0:00:26.30,Hamada,,0,0,0,,Well since it's curry sauce
+Dialogue: 0,0:00:26.30,0:00:26.47,Matsumoto,,0,0,0,,{\fade(125,0)\fs10\t(0,125,2,\fs90)\move(507.6,916.4,765.6,835.2,26,159)}Of course that's gonna be good
+Dialogue: 0,0:00:26.47,0:00:28.27,Matsumoto,,0,0,0,,{\fs90\t(0,125,\fs70)\move(765.6,835.2,734.4,895.6,26,189)}Of course that's gonna be good
+Dialogue: 0,0:00:28.47,0:00:28.84,Sharp Blocky,,0,0,0,,{\fade(300,0)\c&H00F2EA&fs60\t(0,300,\fs100)\bord8\move(720,905,720,838,0,325)\fscx87\fscy97}How did it taste like?
+Dialogue: 0,0:00:28.84,0:00:31.98,Sharp Blocky,,0,0,0,,{\c&H00F2EA&\bord8\fs100\t(0,3100,\fs110)\move(720,838,720,820,0,3125)\fscx87\fscy97}How did it taste like?
+Dialogue: 0,0:00:32.04,0:00:32.84,Tanaka,,0,0,0,,Can I say something?
+Dialogue: 0,0:00:32.84,0:00:35.68,Tanaka,,0,0,0,,{\pos(720,880)}This is so{\c&H000000&} freaking delicious {\c&HC900B9&}
+Dialogue: 0,0:00:35.68,0:00:39.22,Matsumoto,,0,0,0,,{\pos(720,875)}Honestly, I can eat {\c&H000000&\alpha&HFF&\t(367,1,\alpha&H00&)\4c&H1525D4&}2 of these!!
+Dialogue: 0,0:00:39.65,0:00:42.55,Default,,0,0,0,,Then there was Endo with his diet menu
+Dialogue: 0,0:00:42.55,0:00:45.26,Endo,,0,0,0,,Protein okonomiyaki
+Dialogue: 0,0:00:41.62,0:00:46.73,Smogo,,0,0,0,,{\fade(250,0)\fs65\3c&HFFFFFF&\c&H0084E0&\clip(2.4,662.4,430.8,1080)\t(0,250,\clip(4.8,667.2,1440,1076.8))\pos(787.5,863.6)\fscx123\fscy123}Endo's innovation was {\c&HB42813&}protein
+Dialogue: 0,0:00:45.26,0:00:46.73,Housei,,0,0,0,,This is bad for sure!
+Dialogue: 0,0:00:47.39,0:00:51.10,Default,,0,0,0,,Thoughtfully picked ingredients with low calorie content
+Dialogue: 0,0:00:47.06,0:00:52.10,Rectangle Block,,0,0,0,,{\fade(300,0)\fs40\fscx300\fscy33\alpha32\c&HFFFFFF&\1a&HFF&\3c&H08FEF1&\3a&H1F&\pos(314.786,963.929)\clip(m 332 886 l 241 887 233 888 228 893 224 903 223 929 223 965 223 988 225 997 231 1009 240 1014 332 1014 332 949)}Yellow
+Dialogue: 0,0:00:47.06,0:00:52.10,Rectangle Block,,0,0,0,,{\fade(300,0)\fs40\alpha32\c&HFFFFFF&\1a&HFF&\3c&HFFFFFF&\pos(728,960.5)\fscx300\fscy330\3a&H22&\clip(m 336 886 l 1122 886 1157 886 1166 892 1171 905 1172 923 1172 985 1172 995 1167 1008 1157 1014 1148 1015 1011 1013 721 1015 336 1014)}Yellow
+Dialogue: 0,0:00:47.06,0:00:52.10,Default,,0,0,0,,{\fade(300,0)\fs41\bord3\shad2\fscx50\fscy89\c&H000000&\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&H00&\pos(277.5,982.667)}Main \N Ingredients
+Dialogue: 0,0:00:47.06,0:00:52.10,Default,,0,0,0,,{\fade(300,0)\fs52\c&H7FFFF7&\bord3\fs65\pos(744,978)\fscx82\fscy106}Chicken breast ・ Protein ・ soymilk
+Dialogue: 0,0:00:51.10,0:00:52.10,Hamada,,0,0,0,,Endo why don't
+Dialogue: 0,0:00:52.10,0:00:55.47,Hamada,,0,0,0,,{\fs60\pos(720,902)\c&H000000&}just go to {\c&HFF0015&}Matsumoto's house {\alpha&HFF&\t(950,1,\alpha0)}and make it there
+Dialogue: 0,0:00:55.63,0:00:56.00,Sharp Blocky,,0,0,0,,{\fade(300,0)\c&H00F2EA&fs60\t(0,350,\fs85)\bord8\move(720,905,718.5,834,0,359)}However, how was the taste?
+Dialogue: 0,0:00:56.00,0:00:59.64,Sharp Blocky,,0,0,0,,{\c&H00F2EA&\bord8\fs85\t(0,3300,\fs100)\move(720,834,720,814,0,3626)}However, how was the taste?
+Dialogue: 0,0:01:00.37,0:01:04.28,Matsumoto,,0,0,0,,I didn't think it was going to be this stiff
+Dialogue: 0,0:01:04.64,0:01:06.85,Hamada,,0,0,0,,{\c&H000002&\4c&HBA1029&}this is awful!!
+Dialogue: 0,0:01:06.85,0:01:07.48,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1525D4&}It gets all {\alpha&HFF&\c&H1525D4&}over your gums doesn't it
+Dialogue: 0,0:01:07.48,0:01:09.62,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1525D4&}It gets all {\c&H1525D4&\4c&H000000&}over your gums doesn't it
+Dialogue: 0,0:01:09.62,0:01:12.32,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}The concept {\c&H13C018&\4c&H000000&}has changed a little
+Dialogue: 0,0:01:12.78,0:01:17.60,Smogo,,0,0,0,,{\fade(150,0)\pos(776.5,872)}{\pos(724,872)\fscx137\fscy150\c&HAE13C2&\3c&HFFFFFF&\4c&HC5C5C9&}Tanaka's dish was {\c&H2EBD28&}foil cooked salmon
+Dialogue: 0,0:01:13.45,0:01:17.60,Default,,0,0,0,,Then Tanaka with his well thought out foil cooked salmon
+Dialogue: 0,0:01:19.02,0:01:20.26,Housei,,0,0,0,,Wow it's properly steamed
+Dialogue: 0,0:01:20.26,0:01:21.96,Tanaka,,0,0,0,,The scent {\c&H000000&\4c&HC900B9&}is amazing
+Dialogue: 0,0:01:21.96,0:01:23.33,Tanaka,,0,0,0,,{\fscx128\fscy168}The scent {\c&H000000&\4c&HC900B9&}is amazing
+Dialogue: 0,0:01:23.53,0:01:23.86,Sharp Blocky,,0,0,0,,{\fade(300,0)\c&H00F2EA&fs60\t(0,350,\fs85)\bord8\move(720,905,718.5,834,0,359)}But how was the main taste?
+Dialogue: 0,0:01:23.86,0:01:26.83,Sharp Blocky,,0,0,0,,{\c&H00F2EA&\bord8\fs85\t(0,3300,\fs100)\move(720,834,720,814,0,3626)}But how was the main taste?
+Dialogue: 0,0:01:26.83,0:01:27.73,Matsumoto,,0,0,0,,{\pos(720,880)}It's all gooey, {\alpha&HFF&}{\c&H000000&\4c&H1727D6&}absolutely disgusting!!
+Dialogue: 0,0:01:27.73,0:01:30.24,Matsumoto,,0,0,0,,{\pos(720,880)}It's all gooey, {\c&H000000&\4c&H1727D6&}absolutely disgusting!!
+Dialogue: 0,0:01:29.60,0:01:31.60,Matsumoto,,0,0,0,,What is this?
+Dialogue: 0,0:01:32.27,0:01:34.84,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&}First bucket {\c&HFF0015&\4c&H000000&}of the day
+Dialogue: 0,0:01:36.34,0:01:38.48,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&\fscx131\fscy167\clip(358.5,942,381,1070)\t(0,1250,\clip(231,822,1213.5,1080)}First bucket {\c&HFF0015&\4c&H000000&}of the day
+Dialogue: 0,0:01:39.45,0:01:42.00,Default,,0,0,0,,This is the score so far
+Dialogue: 0,0:01:38.48,0:01:45.28,Tanaka,,0,0,0,,{\pos(724.5,100)}Tanaka
+Dialogue: 0,0:01:38.48,0:01:45.28,Endo,,0,0,0,,{\pos(463.5,100)}Endo
+Dialogue: 0,0:01:38.48,0:01:45.28,Hamada,,0,0,0,,{\pos(193.5,100)}Hamada
+Dialogue: 0,0:01:42.00,0:01:45.28,Default,,0,0,0,,but who will be the winner?
+Dialogue: 0,0:01:45.68,0:01:50.46,Newtofupandatitle,,0,0,0,,{\fade(500,0)}{\fs119.999\fscx49.091\fscy74\pos(702,140)}Tofu Panda Fansubs presents:
+Dialogue: 0,0:01:47.42,0:01:50.46,Newtofupandatitle,,0,0,0,,{\fade(500,0)}{\c&H60CCFF&\3c&H1C199B&\fscx91.818\fscy137\pos(700.499,215.001)}Down Town's Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx165\fscy162\pos(714,554.364)}{\pos(784.499,705.998)}Subbed by: Otviss
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx97\fscy115\pos(727.5,978.364)}{\pos(784.499,705.998)}Special thanks to: Donators, viewers during livestreams, Xueshi & Spectral-K
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\fscx103\fscy126\pos(716.999,156.046)}{\pos(716.999,161.5)}**We also have Facebook and Twitter.**
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\pos(716.571,87.562)\fscx165.933\fscy162}{\pos(716.999,161.5)}**Tofupandas.tumblr.com**
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\fscx92.6\fscy104\pos(717.101,218.591)}{\pos(717.001,231.5)}*Support us by following the latest news and info on upcoming projects!*
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx90\fscy91\pos(720,254.546)}____________________________________________________________________{\b1}
+Dialogue: 0,0:01:50.46,0:01:56.90,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx90\fscy91\pos(727.5,817.454)}____________________________________________________________________{\b1}
+Dialogue: 0,0:01:57.80,0:02:01.74,Default,,0,0,0,,The rules of the Okonomiyaki challenge are simple
+Dialogue: 0,0:02:01.74,0:02:05.40,Default,,0,0,0,,each person presents two dishes and full score is 10 points
+Dialogue: 0,0:02:05.40,0:02:08.82,Default,,0,0,0,,and there might be a skinhead for the loser!
+Dialogue: 0,0:01:57.46,0:02:08.87,Yellow announcmend,,0,0,0,,{\fade(150,0}{\i0\fscx182\fscy252\pos(717,286)\c&H389BE2&}Absolutely tasty {\c&H5950D9&}Okonomiyaki rules{\i1}
+Dialogue: 0,0:01:57.46,0:02:08.87,Yellow announcmend,,0,0,0,,{\fade(150,0)\fscx146\fscy197\pos(601.5,508)}{\i0\\pos(717,286)\c&HE52D2F&\3c&HFFFFFF&\4c&H000000&}each person presents two dishes{\i1}
+Dialogue: 0,0:01:57.46,0:02:08.87,Yellow announcmend,,0,0,0,,{\fade(150,0)\fscx146\fscy197\pos(603,706)}{\i0\\pos(717,286)\c&HE52D2F&\3c&HFFFFFF&\4c&H000000&}Full score of 10 points{\i1}
+Dialogue: 0,0:01:57.46,0:02:08.87,Yellow announcmend,,0,0,0,,{\fade(150,0)\fscx146\fscy197\pos(732,852)}{\i0\\pos(717,286)\c&HE52D2F&\3c&HFFFFFF&\4c&H000000&}In worst case there's a {\c&H0604BF&\4c&HFFFFFF&}skinhead punishment!?{\i1}
+Dialogue: 0,0:02:10.57,0:02:14.25,Default,,0,0,0,,In this second part, we'll start with housei's first dish
+Dialogue: 0,0:02:09.24,0:02:14.38,Sharp Blocky,,0,0,0,,{\fade(330,0)\fscx153\fscy181}{\pos(720,866)\fscx153\fscy181\c&H1527D7&\3c&H79FBEA&}Housei's Attempt
+Dialogue: 0,0:02:08.87,0:02:14.38,Sharp Blocky,,0,0,0,,{\pos(720,94)\fscx122\fscy135}{\pos(720,866)\c&H1EEEF3&\3c&H000000&}Absolutely tasty Okonomiyaki
+Dialogue: 0,0:02:14.55,0:02:15.98,Housei,,0,0,0,,Let's seriously make some{\c&H000002&\4c&H20D725&} good food {\c&H13C018&\4c&H000000&}{\alpha&HFF&}shall we?
+Dialogue: 0,0:02:15.98,0:02:18.65,Housei,,0,0,0,,Let's seriously make some {\c&H000002&\4c&H20D725&}good food {\c&H13C018&\4c&H000000&}shall we?
+Dialogue: 0,0:02:18.65,0:02:19.82,Matsumoto,,0,0,0,,Seriously right?
+Dialogue: 0,0:02:19.82,0:02:21.79,Housei,,0,0,0,,Have a look at this
+Dialogue: 0,0:02:21.79,0:02:25.02,Hamada,,0,0,0,,{\pos(718.5,916)}Pickles?
+Dialogue: 0,0:02:24.51,0:02:25.20,Matsumoto,,0,0,0,,Kyo! (Kyoto style)
+Dialogue: 0,0:02:25.39,0:02:28.86,Rectangle Block,,0,0,0,,{\fade(250,0)\pos(426,958)}{\clip(m 199 888 l 198 1008 618 1010 631 1000 636 982 634 948 634 904 622 892 597 892)\3c&HEBE9E9&\pos(429,958)\3a&H0B&}gray
+Dialogue: 0,0:02:25.39,0:02:28.86,Default,,0,0,0,,{\fade(250,0)\c&H83FFFA&\4c&HFFFFFF&\4a&HFF&\pos(411,982)\fscx90\fscy116}Nationwide pickles
+Dialogue: 0,0:02:25.39,0:02:28.86,Rectangle Block,,0,0,0,,{\fade(250,0)\clip(m 190 886 l 189 1008 100 1010 91 1000 88 982 90 904 96 894 100 888)\pos(151.5,966)\3c&H06FEEF&}yellow
+Dialogue: 0,0:02:25.39,0:02:28.86,Default,,0,0,0,,{\fade(250,0)\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx38\fscy67\pos(142.5,990)}Main\N Ingredients
+Dialogue: 0,0:02:25.20,0:02:28.86,Housei,,0,0,0,,{\fscx80\fscy100}Kyoto style and pickles from all around the country, well all kinds of things
+Dialogue: 0,0:02:28.86,0:02:30.33,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&\pos(703.5,906)}Kyoto style {\c&H1525D4&}or {\c&H000000&\4c&H1727D6&}all around the country {\alpha&HFF&}{\c&H1525D4&}which one is it!!
+Dialogue: 0,0:02:31.02,0:02:32.51,Endo,,0,0,0,,Which one is it?
+Dialogue: 0,0:02:30.33,0:02:33.17,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&\pos(703.5,906)}Kyoto style {\c&H1525D4&}or {\c&H000000&\4c&H1727D6&}all around the country {\c&H1525D4&}which one is it!!
+Dialogue: 0,0:02:32.74,0:02:35.85,Hamada,,0,0,0,,That doesn't make sense 'cause it has stuff from Akita and Fukuoka too
+Dialogue: 0,0:02:36.60,0:02:38.77,Hamada,,0,0,0,,There's just one from Kyoto
+Dialogue: 0,0:02:34.47,0:02:39.17,Default - Copy,,0,0,0,,{\fade(400,0)\pos(705,426)}{\pos(663,438)}{\4c&H000000&\4a&HFF&}Shibazuke (Kyoto)
+Dialogue: 0,0:02:34.47,0:02:39.17,Default - Copy,,0,0,0,,{\fade(400,0)\pos(1134,636)}{\pos(663,438)}{\4c&H000000&\4a&HFF&}Nozawana (Nagano)
+Dialogue: 0,0:02:34.47,0:02:39.17,Default - Copy,,0,0,0,,{\fade(400,0)\pos(420,812)}{\pos(663,438)}{\4c&H000000&\4a&HFF&}Takana (Fukuoka)
+Dialogue: 0,0:02:34.47,0:02:39.17,Default - Copy,,0,0,0,,{\fade(400,0)\pos(951,942)}{\pos(663,438)}{\4c&H000000&\4a&HFF&}Iburigakko (Akita)
+Dialogue: 0,0:02:39.42,0:02:40.74,Housei,,0,0,0,,Here I go
+Dialogue: 0,0:02:40.74,0:02:43.02,Housei,,0,0,0,,I'm going to put all of it in
+Dialogue: 0,0:02:43.02,0:02:45.11,Matsumoto,,0,0,0,,Aren't you putting too much in?
+Dialogue: 0,0:02:42.11,0:02:48.15,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(540,814)}Cooking Step 1
+Dialogue: 0,0:02:42.11,0:02:48.15,Rectangle Block,,0,0,0,,{\fade(150,0)\clip(m 373 908 l 381 892 397 886 1045 890 1059 894 1068 916 1068 948 1066 972 1060 984 1051 990 1042 992 385 994 378 988 372 968)\pos(703.5,970)\fscx141\fscy88\3c&HADFFFE&}Bing instructions
+Dialogue: 0,0:02:42.11,0:02:48.15,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\fscx95\fscy115\pos(718.5,974)}Mix the pickles into the batter
+Dialogue: 0,0:02:45.11,0:02:48.91,Housei,,0,0,0,,It's better for the taste if they soak together
+Dialogue: 0,0:02:48.91,0:02:52.22,Matsumoto,,0,0,0,,Ooooh okay...
+Dialogue: 0,0:02:52.22,0:02:55.35,Matsumoto,,0,0,0,,This might have {\c&H000000&\4c&H1727D6&)}potential
+Dialogue: 0,0:02:55.51,0:03:00.29,Housei,,0,0,0,,As soon as I heard we were doing this, this idea came to me
+Dialogue: 0,0:03:00.37,0:03:01.57,Matsumoto,,0,0,0,,Instantly?
+Dialogue: 0,0:03:01.76,0:03:04.90,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)\pos(726,866)}THE OIL
+Dialogue: 0,0:03:04.28,0:03:05.65,Endo,,0,0,0,,He forgot the oil
+Dialogue: 0,0:03:05.65,0:03:09.07,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)\pos(726,866)}50.000 yen!!
+Dialogue: 0,0:03:09.07,0:03:12.14,Matsumoto,,0,0,0,,I've said it so many times and you still don't get it right!!
+Dialogue: 0,0:03:12.94,0:03:14.34,Endo,,0,0,0,,Another 50.000 yen
+Dialogue: 0,0:03:14.34,0:03:16.82,Housei,,0,0,0,,Hang on a second here
+Dialogue: 0,0:03:16.82,0:03:18.98,Housei,,0,0,0,,The colour of the oil is odd though
+Dialogue: 0,0:03:18.98,0:03:20.11,Matsumoto,,0,0,0,,{\pos(720,920)}Aren't you gonna {\alpha&HFF&}{\c&H000000&\4c&H1727D6&)}use the meat?
+Dialogue: 0,0:03:20.11,0:03:22.48,Matsumoto,,0,0,0,,{\pos(720,920)}Aren't you gonna {\c&H000000&\4c&H1727D6&)}use the meat?
+Dialogue: 0,0:03:21.11,0:03:24.68,Housei,,0,0,0,,Well, because the...
+Dialogue: 0,0:03:24.68,0:03:26.75,Housei,,0,0,0,,pickles have a {\c&H13C018&\4c&H000000&}{\c&H000002&\4c&H20D725&}crunch to them
+Dialogue: 0,0:03:26.75,0:03:27.72,Housei,,0,0,0,,I'll fry it {\c&H000002&\4c&H20D725&}{\alpha&HFF&}so that the meat {\c&H13C018&\4c&H000000&}doesn't become crunchy too
+Dialogue: 0,0:03:27.72,0:03:31.82,Housei,,0,0,0,,I'll fry it {\c&H000002&\4c&H20D725&}so that the meat {\c&H13C018&\4c&H000000&}doesn't become crunchy too
+Dialogue: 0,0:03:31.91,0:03:33.91,Matsumoto,,0,0,0,,Seriously this is starting to...
+Dialogue: 0,0:03:34.34,0:03:35.93,Matsumoto,,0,0,0,,kinda...
+Dialogue: 0,0:03:35.93,0:03:38.96,Matsumoto,,0,0,0,,{\pos(721.5,914)}This idea might get stolen ya know
+Dialogue: 0,0:03:37.54,0:03:39.28,Housei,,0,0,0,,Good isn't it?
+Dialogue: 0,0:03:39.28,0:03:41.37,Matsumoto,,0,0,0,,The lining up pattern, Yeah it's good
+Dialogue: 0,0:03:41.37,0:03:43.82,Matsumoto,,0,0,0,,I wanted Hamada to do this.
+Dialogue: 0,0:03:41.47,0:03:46.20,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(448.5,814)}Cooking Step 2
+Dialogue: 0,0:03:41.47,0:03:46.20,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\clip(m 287 916 l 292 890 397 886 1045 890 1140 890 1155 902 1153 932 1154 966 1151 990 1126 992 1042 992 385 994 292 994 286 970)\fscx179\fscy89}Bing instructions
+Dialogue: 0,0:03:41.47,0:03:46.20,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(724.5,972)}Put the pork over the batter
+Dialogue: 0,0:03:44.14,0:03:46.34,Matsumoto,,0,0,0,,His dishes were so messed up it was awful
+Dialogue: 0,0:03:46.34,0:03:48.42,Matsumoto,,0,0,0,,Do we even need the meat?
+Dialogue: 0,0:03:48.45,0:03:51.88,Hamada,,0,0,0,,He could've just went with the taste of the pickles right?
+Dialogue: 0,0:03:51.88,0:03:56.38,Hamada,,0,0,0,,With a simple approach cause it's not negiyaki is it
+Dialogue: 0,0:03:53.68,0:03:56.38,Tanaka,,0,0,0,,Yeah you're right
+Dialogue: 0,0:03:57.34,0:03:59.25,Matsumoto,,0,0,0,,This looks good
+Dialogue: 0,0:03:59.25,0:04:00.91,Matsumoto,,0,0,0,,Oh this is good
+Dialogue: 0,0:04:00.91,0:04:02.94,Matsumoto,,0,0,0,,This is really good!
+Dialogue: 0,0:04:01.80,0:04:02.94,Housei,,0,0,0,,It certainly is!
+Dialogue: 0,0:04:02.94,0:04:04.74,Matsumoto,,0,0,0,,This is good
+Dialogue: 0,0:04:03.49,0:04:08.66,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(277.5,814)}Cooking Step 3
+Dialogue: 0,0:04:03.49,0:04:08.66,Rectangle Block,,0,0,0,,{\fade(150,0)\3c&HADFFFE&\fscx179\fscy89\clip(m 99 988 l 91 938 97 898 108 890 691 888 703 902 706 954 703 986 694 992 562 994 117 994)\pos(385.5,952)}Bing instructions
+Dialogue: 0,0:04:03.49,0:04:08.66,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\fscx58\fscy98\pos(400.5,992)}Cover and cook for \N3 minutes on medium heat
+Dialogue: 0,0:04:08.66,0:04:09.49,Housei,,0,0,0,,{\pos(720,920)}There hasn't been any{\c&H000002&\4c&H20D725&}{\alpha&HFF&} real taste {\c&H13C018&\4c&H000000&}until now
+Dialogue: 0,0:04:09.49,0:04:13.27,Housei,,0,0,0,,{\pos(720,920)}There hasn't been any{\c&H000002&\4c&H20D725&} real taste{\c&H13C018&\4c&H000000&} until now
+Dialogue: 0,0:04:10.97,0:04:13.27,Matsumoto,,0,0,0,,There hasn't been any taste huh?
+Dialogue: 0,0:04:13.27,0:04:14.70,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&}We had curry {\c&HFF0015&\4c&H000000&}didn't we
+Dialogue: 0,0:04:14.70,0:04:16.07,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&\fscx133\fscy162}We had curry {\c&HFF0015&\4c&H000000&}didn't we
+Dialogue: 0,0:04:16.07,0:04:18.64,Housei,,0,0,0,,Just {\c&H000002&\4c&H20D725&}tasteless and flat
+Dialogue: 0,0:04:18.64,0:04:19.30,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&\pos(718.5,926)}The curry {\c&HFF0015&\4c&H000000&}had taste {\alpha&HFF&}though
+Dialogue: 0,0:04:20.37,0:04:22.37,Matsumoto,,0,0,0,,Tanaka's was really tasteless wasn't it?
+Dialogue: 0,0:04:19.30,0:04:22.51,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&\pos(718.5,926)}The curry {\c&HFF0015&\4c&H000000&}had taste though
+Dialogue: 0,0:04:22.37,0:04:22.87,Hamada,,0,0,0,,Exactly
+Dialogue: 0,0:04:22.87,0:04:25.78,Hamada,,0,0,0,,That's why I'm saying {\c&H020000&\4c&HFF0015&\}we had curry
+Dialogue: 0,0:04:28.74,0:04:30.74,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:04:25.78,0:04:30.75,Endo,,0,0,0,,Look at the balance to the right, it's -150.000 yen
+Dialogue: 0,0:04:30.74,0:04:32.42,Endo,,0,0,0,,Look it says 150.000 yen
+Dialogue: 0,0:04:32.98,0:04:36.09,Housei,,0,0,0,,{\pos(717,916)}There's also {\c&H000002&\4c&H20D725&\}a skinhead
+Dialogue: 0,0:04:36.39,0:04:37.39,Housei,,0,0,0,,Even though it says skinhead
+Dialogue: 0,0:04:37.39,0:04:38.96,Housei,,0,0,0,,We can see Tanaka's {\c&H000002&\4c&H20D725&}hairline {\c&H13C018&\4c&H000000&}clearly
+Dialogue: 0,0:04:38.96,0:04:42.26,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}If he was a skinhead {\c&H1525D4&}you wouldn't be able to tell would ya!!
+Dialogue: 0,0:04:45.48,0:04:48.27,Endo,,0,0,0,,What a face he's making
+Dialogue: 0,0:04:49.28,0:04:52.14,Default,,0,0,0,,So how did Housei's dish turn out?
+Dialogue: 0,0:04:52.47,0:04:55.44,Housei,,0,0,0,,{\pos(714,914)}What's up with this {\c&H000002&\4c&H20D725&}water?
+Dialogue: 0,0:04:55.44,0:04:59.24,Housei,,0,0,0,,{\pos(721.5,918)}There's so much {\c&H000002&\4c&H20D725&}water {\c&H13C018&\4c&H000000&}
+Dialogue: 0,0:04:57.31,0:04:59.31,Endo,,0,0,0,,Did it come from the inside?
+Dialogue: 0,0:04:59.31,0:05:02.80,Matsumoto,,0,0,0,,Oh I get it, because of the pickles
+Dialogue: 0,0:05:02.80,0:05:05.92,Hamada,,0,0,0,,I think he's done
+Dialogue: 0,0:05:03.65,0:05:05.92,Housei,,0,0,0,,Yes I'm ready
+Dialogue: 0,0:05:06.45,0:05:07.89,Matsumoto,,0,0,0,,Looks great
+Dialogue: 0,0:05:08.32,0:05:12.86,Default,,0,0,0,,{\fade(120,0)\fscx82\fscy111\pos(567,802)}{\c&H21C026&\3c&HFFFFFF&\i1\pos(513,814)}Housei's first dish{\i0}
+Dialogue: 0,0:05:08.32,0:05:12.86,Default,,0,0,0,,{\c&H1003A8&\3c&HFFFFFF&\i1\fscx88\fscy117\pos(846,914)}{\fade(120,0)}Pickles from all around the country Okonomiyaki{\i0}
+Dialogue: 0,0:05:08.91,0:05:12.88,Default,,0,0,0,,How does Housei's confident creation taste?
+Dialogue: 0,0:05:12.88,0:05:14.68,Matsumoto,,0,0,0,,If we had some sauce
+Dialogue: 0,0:05:14.68,0:05:15.80,Matsumoto,,0,0,0,,this could be dangerous
+Dialogue: 0,0:05:16.03,0:05:17.20,Housei,,0,0,0,,{\pos(712.5,912)}First we try it {\alpha&HFF&}{\c&H000002&\4c&H20D725&}"plain"
+Dialogue: 0,0:05:17.85,0:05:20.11,Matsumoto,,0,0,0,,That's what I'm scared of the most though
+Dialogue: 0,0:05:17.20,0:05:20.20,Housei,,0,0,0,,{\pos(712.5,912)}First we try it {\c&H000002&\4c&H20D725&}"plain"
+Dialogue: 0,0:05:20.31,0:05:22.25,Housei,,0,0,0,,Itadakimasu
+Dialogue: 0,0:05:22.42,0:05:24.28,Matsumoto,,0,0,0,,Smells nice
+Dialogue: 0,0:05:27.81,0:05:30.41,Matsumoto,,0,0,0,,Delicious
+Dialogue: 0,0:05:33.88,0:05:35.60,Matsumoto,,0,0,0,,This is delicious
+Dialogue: 0,0:05:35.60,0:05:37.68,Matsumoto,,0,0,0,,I guess this is how it tastes huh
+Dialogue: 0,0:05:37.68,0:05:39.62,Housei,,0,0,0,,Seriously though, it's great
+Dialogue: 0,0:05:38.85,0:05:39.62,Endo,,0,0,0,,It's delicious
+Dialogue: 0,0:05:39.62,0:05:41.42,Housei,,0,0,0,,Delicious!!
+Dialogue: 0,0:05:41.42,0:05:44.19,Housei,,0,0,0,,{\fscx121\fscy158}What is this even?
+Dialogue: 0,0:05:44.28,0:05:45.16,Hamada,,0,0,0,,It's good but
+Dialogue: 0,0:05:45.16,0:05:47.96,Hamada,,0,0,0,,I wouldn't say it with such a loud voice
+Dialogue: 0,0:05:47.96,0:05:49.19,Tanaka,,0,0,0,,I really think this {\alpha&HFF&}is delicious but
+Dialogue: 0,0:05:49.19,0:05:50.33,Tanaka,,0,0,0,,I really think this is delicious but
+Dialogue: 0,0:05:50.53,0:05:54.73,Tanaka,,0,0,0,,Don't you think there's {\pos(724.5,910)\c&H000000&\4c&HC900B9&}too many pickles in this?
+Dialogue: 0,0:05:55.34,0:05:56.82,Matsumoto,,0,0,0,,Then you can go change it yourself
+Dialogue: 0,0:05:56.82,0:05:58.82,Hamada,,0,0,0,,How many points?
+Dialogue: 0,0:05:58.82,0:06:00.82,Matsumoto,,0,0,0,,I think I'd give it
+Dialogue: 0,0:06:01.54,0:06:04.98,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)\pos(721.5,920)}9 points
+Dialogue: 0,0:06:04.37,0:06:04.98,Hamada,,0,0,0,,Wow..
+Dialogue: 0,0:06:04.98,0:06:06.75,Matsumoto,,0,0,0,,{\pos(721.5,906)}If I were to say it super strictly though then a {\alpha&HFF&}2
+Dialogue: 0,0:06:06.75,0:06:10.62,Matsumoto,,0,0,0,,{\pos(721.5,906)}If I were to say it super strictly though then a {\c&H000000&\4c&H1727D6&)}2
+Dialogue: 0,0:06:11.54,0:06:14.40,Default,,0,0,0,,Housei who is currently at the top gets 9 points!
+Dialogue: 0,0:06:14.40,0:06:17.05,Default,,0,0,0,,What can we expect of the second dish?
+Dialogue: 0,0:06:17.05,0:06:19.02,Hamada,,0,0,0,,It can't get better from now on so...
+Dialogue: 0,0:06:19.02,0:06:21.34,Housei,,0,0,0,,I'll do even better don't worry
+Dialogue: 0,0:06:22.53,0:06:25.03,Hamada,,0,0,0,,{\pos(720,914)}Nope, no good
+Dialogue: 0,0:06:24.54,0:06:26.57,Housei,,0,0,0,,No, this is good!
+Dialogue: 0,0:06:26.57,0:06:27.57,Tanaka,,0,0,0,,Housei come on
+Dialogue: 0,0:06:27.57,0:06:29.50,Matsumoto,,0,0,0,,Don't mess around with us
+Dialogue: 0,0:06:29.51,0:06:30.80,Tanaka,,0,0,0,,This might be a little...
+Dialogue: 0,0:06:26.87,0:06:31.24,Rectangle Block,,0,0,0,,{\fade(250,0)\clip(m 321 888 l 321 1008 1210 1008 1221 994 1222 952 1216 892 1197 894)\pos(760.5,968)\3c&HEAEAEA&\3a&H0B&\fscx282\fscy96}te
+Dialogue: 0,0:06:26.87,0:06:31.24,Default,,0,0,0,,{\fade(250,0)\c&H83FFFA&\4c&HFFFFFF&\4a&HFF&\pos(756,982)}Fruits & Custard
+Dialogue: 0,0:06:26.87,0:06:31.24,Rectangle Block,,0,0,0,,{\fade(250,0)\clip(m 312 1008 l 312 888 225 890 214 896 211 932 210 992 216 1006 226 1010)\pos(265.5,946)\3c&H11FEF7&}yellow
+Dialogue: 0,0:06:26.87,0:06:31.24,Default,,0,0,0,,{\fade(250,0)\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx38\fscy67\pos(262.5,990)}Main\N Ingredients
+Dialogue: 0,0:06:31.24,0:06:34.77,Hamada,,0,0,0,,This is straight up {\c&H020000&\4c&HFF0015&\pos(718.5,918)}trash
+Dialogue: 0,0:06:34.45,0:06:36.34,Endo,,0,0,0,,This is just a normal pancake
+Dialogue: 0,0:06:36.34,0:06:38.77,Housei,,0,0,0,,Its not a pancake. Do pancakes have cabbage in it?
+Dialogue: 0,0:06:38.77,0:06:41.31,Hamada,,0,0,0,,We already get it's bad before cooking
+Dialogue: 0,0:06:36.41,0:06:42.85,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(336,814)}Cooking Step 1
+Dialogue: 0,0:06:36.41,0:06:42.85,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\clip(m 162 918 l 173 892 397 886 1045 890 1266 892 1270 920 1270 950 1268 990 1154 994 1126 992 1042 992 385 994 172 994 163 976)\fscx274\fscy92}Bing instructions
+Dialogue: 0,0:06:36.41,0:06:42.85,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(715.5,974)}Mix the custard and batter together
+Dialogue: 0,0:06:41.31,0:06:43.00,Housei,,0,0,0,,Bare with me Hamada-san
+Dialogue: 0,0:06:43.00,0:06:45.12,Housei,,0,0,0,,We need some kind of dessert
+Dialogue: 0,0:06:45.12,0:06:45.72,Housei,,0,0,0,,So I thought{\alpha&HFF&} if I mishem... both together
+Dialogue: 0,0:06:45.72,0:06:46.35,Housei,,0,0,0,,{\clip(178.5,826,561,1080)\t(0,585,\clip(66,724,865.5,1080)}So I thought if I mishem... both together
+Dialogue: 0,0:06:46.35,0:06:49.32,Housei,,0,0,0,,{\clip(210,928,874.5,1078)\t(0,890,\clip(85.5,806,1239,1080)}So I thought if I mishem... both together
+Dialogue: 0,0:06:49.31,0:06:51.22,Endo,,0,0,0,,Mishem both together...
+Dialogue: 0,0:06:52.29,0:06:53.59,Housei,,0,0,0,,As I was mixing {\alpha&HFF&}my tongue made it hard to swallow
+Dialogue: 0,0:06:53.59,0:06:54.99,Housei,,0,0,0,,As I was mixing my tongue {\alpha&HFF&}made it hard to swallow
+Dialogue: 0,0:06:54.99,0:06:57.03,Housei,,0,0,0,,As I was mixing my tongue made it {\c&H000000&\4c&H13C018&}hard to swallow
+Dialogue: 0,0:06:57.57,0:07:00.60,Default,,0,0,0,,After the batter has been poured he puts fruit on top
+Dialogue: 0,0:06:57.23,0:07:02.93,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(447,814)}Cooking Step 2
+Dialogue: 0,0:06:57.23,0:07:02.93,Rectangle Block,,0,0,0,,{\fade(150,0)\3c&HADFFFE&\fscx274\fscy92\clip(m 285 914 l 299 890 397 886 1045 890 1144 890 1153 912 1154 942 1155 968 1148 990 1126 992 1042 992 385 994 292 994 283 950)\pos(703.5,980)}Bing instructions
+Dialogue: 0,0:06:57.23,0:07:02.93,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(715.5,970)}Put the fruits on top of the batter
+Dialogue: 0,0:07:01.45,0:07:03.05,Tanaka,,0,0,0,,Again with this...
+Dialogue: 0,0:07:03.05,0:07:05.05,Matsumoto,,0,0,0,,So we have mango and?
+Dialogue: 0,0:07:05.05,0:07:08.22,Housei,,0,0,0,,Strawberries, blueberries
+Dialogue: 0,0:07:08.22,0:07:09.97,Housei,,0,0,0,,and grapefruit...
+Dialogue: 0,0:07:03.27,0:07:12.78,Default,,0,0,0,,{\pos(271,838)}{\fade(300,0)\4c&H000000&\4a&HFF&}5 kinds of fruit
+Dialogue: 0,0:07:03.27,0:07:12.78,Rectangle Block,,0,0,0,,{\clip(85.5,902,1356,1004)\pos(720,1006)\fscx361\fscy87}{\fade(300,0)\4c&H000000&\4a&HFF&\3c&HEBEBEB&\3a&H1A&}rec
+Dialogue: 0,0:07:03.27,0:07:12.78,Smogo,,0,0,0,,{\fade(300,0)\fscx117\fscy125\3c&HFFFFFF&\4c&H000000&\c&H0084D9&\pos(745.5,978)}Mango {\c&H0000F3&}Strawberry {\c&HA00052&}Blueberry{\c&HC10DF2&} Grapefruit {\c&H83FFFA&\3c&H000000&}Banana
+Dialogue: 0,0:07:09.97,0:07:12.78,Housei,,0,0,0,,I'm putting everything a kid likes on here
+Dialogue: 0,0:07:12.78,0:07:13.28,Matsumoto,,0,0,0,,None of us{\alpha&HFF&} are kids though
+Dialogue: 0,0:07:13.28,0:07:15.65,Matsumoto,,0,0,0,,None of us are kids though
+Dialogue: 0,0:07:15.65,0:07:16.51,Endo,,0,0,0,,The youngest one here {\alpha&HFF&}is 45 years old
+Dialogue: 0,0:07:16.51,0:07:18.22,Endo,,0,0,0,,The youngest one here is {\c&H000000&\4c&H0597DB&}45 years old
+Dialogue: 0,0:07:18.22,0:07:20.72,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Nothing but {\c&H1525D4&}the elderly here
+Dialogue: 0,0:07:20.88,0:07:22.57,Housei,,0,0,0,,Alright here I go
+Dialogue: 0,0:07:26.06,0:07:28.33,Matsumoto,,0,0,0,,I don't really wanna hear {\c&H1525D4&}the fizzing of the {\c&H000000&\4c&H1727D6&)}vegetables
+Dialogue: 0,0:07:28.33,0:07:29.13,Matsumoto,,0,0,0,,Oops not {\c&H000000&\4c&H1727D6&)}vegetables {\alpha&HFF&}{\c&H1525D4&}I meant the fruits
+Dialogue: 0,0:07:29.13,0:07:32.33,Matsumoto,,0,0,0,,Oops not {\c&H000000&\4c&H1727D6&)}vegetables{\c&H1525D4&} {\4c&H000000&}I meant the {\c&H000000&\4c&H1727D6&)}fruits
+Dialogue: 0,0:07:32.96,0:07:35.20,Hamada,,0,0,0,,{\pos(718.5,926)}What's the matter?
+Dialogue: 0,0:07:33.91,0:07:35.22,Tanaka,,0,0,0,,What happened?
+Dialogue: 0,0:07:35.22,0:07:38.14,Tanaka,,0,0,0,,What's the matter?
+Dialogue: 0,0:07:36.80,0:07:38.14,Hamada,,0,0,0,,Vegetables?
+Dialogue: 0,0:07:38.90,0:07:40.44,Matsumoto,,0,0,0,,Ask any household, {\alpha&HFF&}There are just too many of them!!
+Dialogue: 0,0:07:40.44,0:07:43.51,Matsumoto,,0,0,0,,Ask any household, there are just too many of them!!
+Dialogue: 0,0:07:44.88,0:07:48.05,Hamada,,0,0,0,,But he was just using fruit though
+Dialogue: 0,0:07:46.51,0:07:48.05,Endo,,0,0,0,,Yeah just fruits
+Dialogue: 0,0:07:48.05,0:07:49.05,Matsumoto,,0,0,0,,{\pos(720,906)}Stop it already
+Dialogue: 0,0:07:49.05,0:07:51.45,Matsumoto,,0,0,0,,{\pos(718.5,888)\fscx116\fscy148}Let's stop with this
+Dialogue: 0,0:07:51.28,0:07:54.88,Matsumoto,,0,0,0,,with this kind of pulling people back
+Dialogue: 0,0:07:54.88,0:07:57.02,Housei,,0,0,0,,Here I go again
+Dialogue: 0,0:08:00.16,0:08:02.19,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&}Looks disgusting
+Dialogue: 0,0:08:02.19,0:08:04.56,Matsumoto,,0,0,0,,What kind of fry(yaki) is this?
+Dialogue: 0,0:08:04.56,0:08:08.57,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&\pos(723,914)}Parlor {\c&H13C018&\4c&H000000&}okonomiyaki*
+Dialogue: 0,0:08:06.77,0:08:08.80,Matsumoto,,0,0,0,,Fruit parlor okonomiyaki?
+Dialogue: 0,0:08:04.56,0:08:13.54,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx64\fscy94\pos(469.5,54)}*Referring to "Fruit Parlors", or parfait-focused dessert bars
+Dialogue: 0,0:08:09.00,0:08:13.54,Default,,0,0,0,,{\fade(120,0)\fscx76\fscy102\pos(498,804)}{\c&H21C026&\3c&HFFFFFF&\i1\pos(513,814)}Housei's second dish{\i0}
+Dialogue: 0,0:08:09.00,0:08:13.54,Default,,0,0,0,,{\c&H1003A8&\3c&HFFFFFF&\i1\pos(906,916)}{\fade(120,0)}Fruit parlor okonomiyaki{\i0}
+Dialogue: 0,0:08:09.17,0:08:13.57,Default,,0,0,0,,Okonomiyaki as a dessert, how will it taste like?
+Dialogue: 0,0:08:16.81,0:08:19.11,Hamada,,0,0,0,,Scary is all I can say about this
+Dialogue: 0,0:08:19.11,0:08:20.14,Endo,,0,0,0,,{\c&H000000&\4c&H0597DB&}My eyes hurt {\c&H0597DB&\4c&H000000&}from{\alpha&HFF&} just smelling this
+Dialogue: 0,0:08:20.14,0:08:22.51,Endo,,0,0,0,,{\c&H000000&\4c&H0597DB&}My eyes hurt {\c&H0597DB&\4c&H000000&}from just smelling this
+Dialogue: 0,0:08:22.82,0:08:24.40,Housei,,0,0,0,,Your eyes hurt?
+Dialogue: 0,0:08:24.40,0:08:26.40,Endo,,0,0,0,,I smelled it and my eyes started to hurt
+Dialogue: 0,0:08:28.60,0:08:30.97,Hamada,,0,0,0,,I have no idea what this is
+Dialogue: 0,0:08:31.60,0:08:34.51,Housei,,0,0,0,,So there's grapefruit and strawberry in here
+Dialogue: 0,0:08:34.86,0:08:38.00,Hamada,,0,0,0,,{\fade(65,0)\fscx178\fscy187}Ugh
+Dialogue: 0,0:08:39.66,0:08:41.37,Hamada,,0,0,0,,This is dreadful!!
+Dialogue: 0,0:08:41.51,0:08:43.71,Endo,,0,0,0,,This is.. I'm so sorry
+Dialogue: 0,0:08:43.71,0:08:45.71,Tanaka,,0,0,0,,Haha, here it comes
+Dialogue: 0,0:08:47.71,0:08:48.47,Tanaka,,0,0,0,,How amazing
+Dialogue: 0,0:08:48.47,0:08:51.21,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&}Devil's corner {\c&HFF0015&\4c&H000000&}right here
+Dialogue: 0,0:08:51.51,0:08:53.37,Tanaka,,0,0,0,,This is so awful
+Dialogue: 0,0:08:54.51,0:08:59.45,Default,,0,0,0,,The sweet okonomiyaki receives 2 skulls. The worst score
+Dialogue: 0,0:09:00.42,0:09:04.68,Default,,0,0,0,,Last challenger is Matsumoto, what will his creative menu be?
+Dialogue: 0,0:08:59.92,0:09:04.82,Sharp Blocky,,0,0,0,,{\fade(330,0)\fscx153\fscy181}{\pos(720,866)\fscx153\fscy181\c&H1527D7&\3c&H79FBEA&}Matsumoto's Attempt
+Dialogue: 0,0:09:06.74,0:09:10.42,Default,,0,0,0,,Last challenger is Matsumoto, what will his first dish be?
+Dialogue: 0,0:09:05.36,0:09:10.56,Sharp Blocky,,0,0,0,,{\fade(330,0)\fscx153\fscy181}{\pos(720,866)\fscx153\fscy181\c&H1527D7&\3c&H79FBEA&}Matsumoto's Attempt
+Dialogue: 0,0:08:59.55,0:09:10.56,Sharp Blocky,,0,0,0,,{\pos(720,94)\fscx122\fscy135}{\pos(720,866)\c&H1EEEF3&\3c&H000000&}Absolutely tasty Okonomiyaki
+Dialogue: 0,0:09:10.56,0:09:11.63,Matsumoto,,0,0,0,,So what {\alpha&HFF&}kind of thing haven't we had so far?
+Dialogue: 0,0:09:11.63,0:09:14.87,Matsumoto,,0,0,0,,So what kind of things haven't we had so far?
+Dialogue: 0,0:09:15.00,0:09:18.08,Matsumoto,,0,0,0,,Well, chinese, fruits et cetera, all kinds of things
+Dialogue: 0,0:09:18.08,0:09:20.44,Housei,,0,0,0,,We've had {\c&H000002&\4c&H20D725&}Japanese style {\c&H13C018&\4c&H000000&}too
+Dialogue: 0,0:09:20.44,0:09:22.81,Matsumoto,,0,0,0,,It's {\c&H000000&\4c&H1727D6&)\pos(721.5,916)}Japanese!!
+Dialogue: 0,0:09:22.81,0:09:23.88,Matsumoto,,0,0,0,,The core of {\c&H000000&\4c&H1727D6&)\pos(721.5,916)}Japanese
+Dialogue: 0,0:09:21.82,0:09:23.97,Housei,,0,0,0,,We already had that with my pickles
+Dialogue: 0,0:09:24.02,0:09:26.81,Matsumoto,,0,0,0,,I have food with originality that's near to a Japanese's heart
+Dialogue: 0,0:09:26.81,0:09:29.75,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}Pickles {\c&H13C018&\4c&H000000&}are close to the heart aren't they?
+Dialogue: 0,0:09:30.40,0:09:32.98,Matsumoto,,0,0,0,,This is really original, take a look
+Dialogue: 0,0:09:33.82,0:09:35.62,Matsumoto,,0,0,0,,Mahkeeh zooshi (Maki zushi)
+Dialogue: 0,0:09:36.51,0:09:39.28,Endo,,0,0,0,,That's how a foreigner would say it right?
+Dialogue: 0,0:09:39.28,0:09:40.91,Matsumoto,,0,0,0,,Yeah mahkeeh zooshi
+Dialogue: 0,0:09:40.91,0:09:42.74,Matsumoto,,0,0,0,,Hosomaki!
+Dialogue: 0,0:09:41.16,0:09:44.86,Rectangle Block,,0,0,0,,{\fade(250,0)\clip(597,890,937.5,1008)\pos(747,968)}{\3c&HEBE9E9&\pos(429,958)\3a&H0B&}gray
+Dialogue: 0,0:09:41.16,0:09:44.86,Default,,0,0,0,,{\fade(250,0)\c&H83FFFA&\4c&HFFFFFF&\4a&HFF&\fscx91\fscy115\pos(772.5,984)}Hosomaki Sushi
+Dialogue: 0,0:09:41.16,0:09:44.86,Rectangle Block,,0,0,0,,{\fade(250,0)\3c&H06FEEF&\clip(m 581 887 l 580 1011 495 1011 486 1008 481 1000 480 981 482 899 494 889)\pos(550.5,942)}yellow
+Dialogue: 0,0:09:41.16,0:09:44.86,Default,,0,0,0,,{\fade(250,0)\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx38\fscy67\pos(529.5,990)}Main\N Ingredients
+Dialogue: 0,0:09:42.74,0:09:44.97,Matsumoto,,0,0,0,,You haven't had ideas like this have you
+Dialogue: 0,0:09:44.97,0:09:47.80,Endo,,0,0,0,,Eating okonomiyaki and this together I understand though
+Dialogue: 0,0:09:47.80,0:09:49.22,Hamada,,0,0,0,,Yeah, in between right?
+Dialogue: 0,0:09:49.22,0:09:51.14,Endo,,0,0,0,,As a side dish
+Dialogue: 0,0:09:49.65,0:09:51.14,Hamada,,0,0,0,,In between right
+Dialogue: 0,0:09:51.14,0:09:55.44,Endo,,0,0,0,,Being kansai and all right?
+Dialogue: 0,0:09:52.17,0:09:55.44,Tanaka,,0,0,0,,Hosomaki also has sushi rice in it
+Dialogue: 0,0:09:55.61,0:09:57.28,Endo,,0,0,0,,He doesn't forget (the oil) does he?
+Dialogue: 0,0:09:57.28,0:09:58.34,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}Kind of like "How's this?"{\c&H13C018&\4c&H000000&}while he was {\alpha&HFF&}brushing it on
+Dialogue: 0,0:09:58.34,0:10:00.98,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}Kind of like "How's this?"{\c&H13C018&\4c&H000000&}while he was brushing it on
+Dialogue: 0,0:10:00.98,0:10:03.88,Endo,,0,0,0,,He did it way ahead of time
+Dialogue: 0,0:10:04.17,0:10:06.85,Matsumoto,,0,0,0,,Beginners might
+Dialogue: 0,0:10:06.85,0:10:09.54,Matsumoto,,0,0,0,,have it difficult with this
+Dialogue: 0,0:10:11.40,0:10:14.93,Matsumoto,,0,0,0,,Flipping it over too is a technique by itself
+Dialogue: 0,0:10:15.51,0:10:17.77,Matsumoto,,0,0,0,,In this kind of style where
+Dialogue: 0,0:10:13.42,0:10:19.33,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(429,814)}Cooking Step 1
+Dialogue: 0,0:10:13.42,0:10:19.33,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\clip(253.5,890,1186.5,990)\fscx184\fscy85}Bing instructions
+Dialogue: 0,0:10:13.42,0:10:19.33,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(715.5,974)\fscx88\fscy117}Put the maki sushi rolls on top of the batter
+Dialogue: 0,0:10:17.77,0:10:19.33,Matsumoto,,0,0,0,,everyone in the family can go
+Dialogue: 0,0:10:19.33,0:10:24.10,Matsumoto,,0,0,0,,Grandpa's gonna have the cucumber
+Dialogue: 0,0:10:24.10,0:10:26.37,Matsumoto,,0,0,0,,Grandma's gonna have the dried gourd
+Dialogue: 0,0:10:26.37,0:10:28.91,Matsumoto,,0,0,0,,That's mine! I'll have the dried gourd!!
+Dialogue: 0,0:10:29.14,0:10:32.24,Matsumoto,,0,0,0,,There will be smiles on everyone's faces
+Dialogue: 0,0:10:33.68,0:10:35.11,Matsumoto,,0,0,0,,Cause I'm putting the {\alpha&HFF&}rice facing upwards
+Dialogue: 0,0:10:35.11,0:10:37.05,Matsumoto,,0,0,0,,Cause I'm putting the rice facing upwards
+Dialogue: 0,0:10:37.05,0:10:39.88,Matsumoto,,0,0,0,,I wonder how it'll turn out when I flip it
+Dialogue: 0,0:10:39.88,0:10:43.22,Matsumoto,,0,0,0,,Any brainless fool can figure it out right?
+Dialogue: 0,0:10:43.22,0:10:45.09,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:10:46.49,0:10:48.76,Matsumoto,,0,0,0,,Won't it turn {\c&H000000&\4c&H1727D6&)}crispy?
+Dialogue: 0,0:10:48.76,0:10:49.89,Matsumoto,,0,0,0,,I want you guys {\alpha&HFF&}{\c&H1525D4&}to enjoy this crispiness
+Dialogue: 0,0:10:49.89,0:10:51.23,Matsumoto,,0,0,0,,I want you guys to enjoy this {\c&H000000&\4c&H1727D6&)}crispiness
+Dialogue: 0,0:10:51.54,0:10:53.31,Endo,,0,0,0,,So this is the technique huh
+Dialogue: 0,0:10:53.31,0:10:55.80,Tanaka,,0,0,0,,Will this really be good?
+Dialogue: 0,0:10:56.47,0:10:58.14,Hamada,,0,0,0,,It's completely changed now
+Dialogue: 0,0:10:59.60,0:11:02.47,Hamada,,0,0,0,,{\pos(720,924)}It's a completely different thing now
+Dialogue: 0,0:11:01.51,0:11:03.74,Housei,,0,0,0,,This is so comical
+Dialogue: 0,0:11:03.74,0:11:04.51,Matsumoto,,0,0,0,,Well...
+Dialogue: 0,0:11:04.51,0:11:08.08,Hamada,,0,0,0,,Well it is {\i1}something{\i0} but we're doing Okonomiyaki
+Dialogue: 0,0:11:09.08,0:11:11.35,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Worth noting is that {\alpha&HFF&}{\c&H1525D4&}I'm adding the tastyness of the fried rice
+Dialogue: 0,0:11:11.35,0:11:14.72,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Worth noting is that {\c&H1525D4&}I'm adding the tastyness of the fried rice
+Dialogue: 0,0:11:14.72,0:11:18.12,Matsumoto,,0,0,0,,It's called the aesthetic of{\c&H000000&\4c&H1727D6&)\pos(723,916)} failure
+Dialogue: 0,0:11:16.80,0:11:21.65,Matsumoto,,0,0,0,,{\fscx81\fscy100}We also have the fact that fried rice has kind of strong negative image to it
+Dialogue: 0,0:11:21.65,0:11:23.16,Matsumoto,,0,0,0,,I'm scorching my opponent
+Dialogue: 0,0:11:23.16,0:11:26.36,Matsumoto,,0,0,0,,turning it into a {\c&H000000&\4c&H1727D6&)}negative surprise
+Dialogue: 0,0:11:26.51,0:11:29.10,Matsumoto,,0,0,0,,wanting to turn minus into plus
+Dialogue: 0,0:11:30.90,0:11:33.74,Matsumoto,,0,0,0,,I'll just keep repeating myself won't I
+Dialogue: 0,0:11:34.25,0:11:36.74,Matsumoto,,0,0,0,,I'd just be repeating myself
+Dialogue: 0,0:11:37.57,0:11:38.94,Matsumoto,,0,0,0,,Okay then everyone
+Dialogue: 0,0:11:39.08,0:11:43.08,Endo,,0,0,0,,It hasn't changed a bit from before has it
+Dialogue: 0,0:11:43.08,0:11:44.28,Hamada,,0,0,0,,{\pos(721.5,916)}The "Okonomiyaki" in this is {\alpha&HFF&}weak as thin ice
+Dialogue: 0,0:11:44.28,0:11:45.85,Hamada,,0,0,0,,{\pos(721.5,916)}The "Okonomiyaki" in this is {\c&H020000&\4c&HFF0015&}weak as thin ice
+Dialogue: 0,0:11:44.97,0:11:51.09,Matsumoto,,0,0,0,,We haven't had anything we can flip over like this. I don't think its strange
+Dialogue: 0,0:11:54.37,0:11:55.45,Matsumoto,,0,0,0,,Isn't this nice?
+Dialogue: 0,0:11:55.45,0:11:56.59,Hamada,,0,0,0,,This is basically just fried rice
+Dialogue: 0,0:11:56.59,0:11:59.43,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}The crispiness {\c&H1525D4&}is definitely doing its thing
+Dialogue: 0,0:12:00.65,0:12:04.11,Default,,0,0,0,,Finish up with a soy sauce coating
+Dialogue: 0,0:11:59.66,0:12:04.97,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(465,814)}Cooking Step 2
+Dialogue: 0,0:11:59.66,0:12:04.97,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\fscx184\fscy85\clip(303,888,1137,990)}Bing instructions
+Dialogue: 0,0:11:59.66,0:12:04.97,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(721.5,968)\fscx74\fscy115}Coat it with soy sauce instead of standard sauce
+Dialogue: 0,0:12:05.84,0:12:07.07,Matsumoto,,0,0,0,,Cause they wanted some {\c&H000000&\4c&H1727D6&)}moisture
+Dialogue: 0,0:12:07.07,0:12:08.57,Matsumoto,,0,0,0,,These little guys are {\alpha&HFF&}sucking it up nicely
+Dialogue: 0,0:12:08.57,0:12:11.51,Matsumoto,,0,0,0,,These little guys are sucking it up nicely
+Dialogue: 0,0:12:11.62,0:12:13.94,Matsumoto,,0,0,0,,You look thirsty there you go
+Dialogue: 0,0:12:13.98,0:12:18.48,Default,,0,0,0,,{\fade(120,0)\fscx66\fscy102\pos(510,806)}{\c&H1504A6&\3c&HFFFFFF&\i1\pos(513,814)}Matsumoto's first dish{\i0}
+Dialogue: 0,0:12:13.98,0:12:18.48,Default,,0,0,0,,{\c&H1003A8&\3c&HFFFFFF&\i1\pos(942,908)}{\fade(120,0)\c&H0294DA&}Maki Zushi Okonomiyaki{\i0}
+Dialogue: 0,0:12:14.51,0:12:18.97,Default,,0,0,0,,Taken straight from the heart of Japan, how will it taste like?
+Dialogue: 0,0:12:18.97,0:12:20.11,Hamada,,0,0,0,,Is this Okonomiyaki?
+Dialogue: 0,0:12:20.11,0:12:22.45,Tanaka,,0,0,0,,Yeah i guess so...
+Dialogue: 0,0:12:23.65,0:12:25.42,Hamada,,0,0,0,,This sure is small
+Dialogue: 0,0:12:26.40,0:12:28.29,Housei,,0,0,0,,Are we supposed to use these?
+Dialogue: 0,0:12:28.29,0:12:30.94,Hamada,,0,0,0,,What are you doing?
+Dialogue: 0,0:12:28.29,0:12:30.94,Tanaka,,0,0,0,,Right?
+Dialogue: 0,0:12:31.51,0:12:33.90,Matsumoto,,0,0,0,,It's fine like this then
+Dialogue: 0,0:12:33.90,0:12:37.40,Matsumoto,,0,0,0,,{\pos(726,912)}You may turn it upside down of course
+Dialogue: 0,0:12:36.20,0:12:38.42,Matsumoto,,0,0,0,,eating it like this too if you want
+Dialogue: 0,0:12:39.80,0:12:42.44,Matsumoto,,0,0,0,,{\pos(723,922)}{\c&H000000&\4c&H1727D6&)}I'm getting a Singapore vibe {\c&H1525D4&}from this
+Dialogue: 0,0:12:42.34,0:12:43.21,Tanaka,,0,0,0,,You're right!
+Dialogue: 0,0:12:43.21,0:12:46.28,Tanaka,,0,0,0,,{\pos(877.5,914)}It's just like that {\pos(877.5,914)}{\c&H000000&\4c&HC900B9&}hotel
+Dialogue: 0,0:12:43.21,0:12:46.28,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx75\fscy98\pos(289.5,952)}Marina bay sands
+Dialogue: 0,0:12:44.60,0:12:46.42,Matsumoto,,0,0,0,,Just like in singapore right!?
+Dialogue: 0,0:12:46.42,0:12:48.80,Matsumoto,,0,0,0,,Alright let's eat
+Dialogue: 0,0:12:48.80,0:12:53.54,Hamada,,0,0,0,,I don't really see the Okonomiyaki in this
+Dialogue: 0,0:12:56.22,0:12:58.51,Housei,,0,0,0,,Hm?
+Dialogue: 0,0:12:58.52,0:13:02.36,Housei,,0,0,0,,It's delicious
+Dialogue: 0,0:13:03.42,0:13:04.86,Housei,,0,0,0,,Yeah it's good
+Dialogue: 0,0:13:02.36,0:13:05.53,Matsumoto,,0,0,0,,{\pos(720,912)}This isn't bad at all
+Dialogue: 0,0:13:05.65,0:13:07.00,Matsumoto,,0,0,0,,Not bad is it?
+Dialogue: 0,0:13:07.00,0:13:09.22,Hamada,,0,0,0,,Well it's not really that big of a...
+Dialogue: 0,0:13:08.07,0:13:12.70,Tanaka,,0,0,0,,{\pos(721.5,924)}Nope it's definitely not bad
+Dialogue: 0,0:13:13.25,0:13:14.94,Matsumoto,,0,0,0,,I did it, it's good isn't it!?
+Dialogue: 0,0:13:14.94,0:13:18.41,Matsumoto,,0,0,0,,{\pos(724.5,904)}{\c&H000000&\4c&H1727D6&)}The sushi rice {\c&H1525D4&\4c&H000000&}doesn't disturb the other tastes at all
+Dialogue: 0,0:13:18.41,0:13:22.25,Tanaka,,0,0,0,,I thought the cucumber was gonna be hard to eat but it's really good
+Dialogue: 0,0:13:22.25,0:13:24.34,Matsumoto,,0,0,0,,It's binded nice together but
+Dialogue: 0,0:13:24.68,0:13:26.82,Matsumoto,,0,0,0,,the heat didn't get through
+Dialogue: 0,0:13:26.82,0:13:29.05,Hamada,,0,0,0,,How many points is this?
+Dialogue: 0,0:13:30.56,0:13:32.96,Matsumoto,,0,0,0,,This gotta be quite high don't you think?
+Dialogue: 0,0:13:33.16,0:13:35.99,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}7 points
+Dialogue: 0,0:13:37.82,0:13:38.65,Housei,,0,0,0,,Well because...
+Dialogue: 0,0:13:38.65,0:13:40.02,Matsumoto,,0,0,0,,You gotta be joking
+Dialogue: 0,0:13:40.02,0:13:41.77,Matsumoto,,0,0,0,,Do you even understand numbers?
+Dialogue: 0,0:13:41.77,0:13:44.40,Housei,,0,0,0,,{\pos(723,910)}The pickle okonomiyaki gotta be {\alpha&HFF&}the king
+Dialogue: 0,0:13:45.40,0:13:48.05,Matsumoto,,0,0,0,,No that just happened to be in line
+Dialogue: 0,0:13:44.40,0:13:48.34,Housei,,0,0,0,,{\pos(723,910)}The pickle okonomiyaki gotta be {\c&H000000&\4c&H13C018&}the king
+Dialogue: 0,0:13:48.05,0:13:50.48,Matsumoto,,0,0,0,,Mine should definitely be ahead of yours
+Dialogue: 0,0:13:50.48,0:13:53.11,Housei,,0,0,0,,No the pickle Okonomiyaki is just the king of them all
+Dialogue: 0,0:13:53.11,0:13:59.48,Hamada,,0,0,0,,The Okonomiyaki's from before were properly done like they would transform into
+Dialogue: 0,0:13:59.48,0:14:01.39,Hamada,,0,0,0,,new concepts and all
+Dialogue: 0,0:14:01.39,0:14:01.79,Hamada,,0,0,0,,You just put these {\alpha&HFF&}on top!!
+Dialogue: 0,0:14:01.79,0:14:04.26,Hamada,,0,0,0,,You just put these {\c&H020000&\4c&HFF0015&}on top!!
+Dialogue: 0,0:14:05.80,0:14:07.45,Housei,,0,0,0,,If they were inside then..
+Dialogue: 0,0:14:04.26,0:14:07.59,Housei,,0,0,0,,{\pos(720,922)}Because these are just exposed like this
+Dialogue: 0,0:14:07.45,0:14:09.53,Hamada,,0,0,0,,That's just how you make it
+Dialogue: 0,0:14:09.53,0:14:12.36,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1525D4&}Putting it on top {\c&H1525D4&\4c&H000000&}like this is no good?
+Dialogue: 0,0:14:12.43,0:14:16.97,Matsumoto,,0,0,0,,{\pos(729,908)\clip(130.5,762,181.5,1010)\t(0,1356,\clip(145.5,764,1318.5,1004)}I just happen to be hearing this for the first time
+Dialogue: 0,0:14:15.31,0:14:17.31,Hamada,,0,0,0,,Just be careful from now on then
+Dialogue: 0,0:14:17.03,0:14:20.47,Matsumoto,,0,0,0,,{\pos(724.5,880)\fscx122\fscy160\clip(27,652,51,914)\t(0,1594,\clip(21,710,1425,932)}I just happen to be hearing this for the first time
+Dialogue: 0,0:14:20.74,0:14:22.14,Endo,,0,0,0,,I mean that's not really what we mean
+Dialogue: 0,0:14:22.14,0:14:23.65,Tanaka,,0,0,0,,It's not quite like that
+Dialogue: 0,0:14:23.65,0:14:25.41,Hamada,,0,0,0,,Well of course it's like that
+Dialogue: 0,0:14:25.41,0:14:27.14,Matsumoto,,0,0,0,,It didn't say that in the script
+Dialogue: 0,0:14:27.14,0:14:28.91,Hamada,,0,0,0,,You gotta mix it together
+Dialogue: 0,0:14:28.28,0:14:29.75,Matsumoto,,0,0,0,,{\pos(718.5,918)}How many points are ya holding back?
+Dialogue: 0,0:14:29.31,0:14:29.75,Housei,,0,0,0,,{\pos(718.5,748)}{\c&H000002&\4c&H20D725&}3 points
+Dialogue: 0,0:14:29.75,0:14:31.95,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Holding back 3 points {\c&H1525D4&}is freaking strange!
+Dialogue: 0,0:14:32.45,0:14:34.35,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}I haven't heard {\c&H1525D4&}any kind of rule
+Dialogue: 0,0:14:34.35,0:14:36.75,Matsumoto,,0,0,0,,{\fscx131\fscy156}that says I can't put it on top!
+Dialogue: 0,0:14:52.14,0:14:57.31,Rectangle Block,,0,0,0,,{\fade(330,0)}{\3c&HFFFFFF&\clip(m 198 764 l 426 725 436 819 206 860)\pos(313.714,821.713)}rec
+Dialogue: 0,0:14:52.14,0:14:57.31,Default,,0,0,0,,{\fade(330,0)\pos(321.001,822.857)\frz9.294\frx354\fry0}{\c&HD40001&\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\\fscx73\fscy113\pos(321.001,820.857)}Second dish
+Dialogue: 0,0:14:52.14,0:14:57.31,Sharp Blocky,,0,0,0,,{\fade(330,0)\fscx153\fscy181\pos(841.5,852)}{\pos(720,866)\fscx153\fscy181\c&H1527D7&\3c&H79FBEA&}Matsumoto's Attempt
+Dialogue: 0,0:14:51.77,0:14:57.31,Sharp Blocky,,0,0,0,,{\pos(720,94)\fscx122\fscy135}{\pos(720,866)\c&H1EEEF3&\3c&H000000&}Absolutely tasty Okonomiyaki
+Dialogue: 0,0:14:53.42,0:14:57.31,Default,,0,0,0,,Can Matsumoto's second dish turn this around?
+Dialogue: 0,0:14:57.54,0:14:58.24,Matsumoto,,0,0,0,,Until now
+Dialogue: 0,0:14:58.24,0:14:59.64,Matsumoto,,0,0,0,,We haven't really had anything {\c&H000000&\4c&H1727D6&)}crunchy have we?
+Dialogue: 0,0:14:59.64,0:15:00.71,Housei,,0,0,0,,We had something didn't we? {\alpha&HFF&}The pickles
+Dialogue: 0,0:15:00.71,0:15:02.21,Housei,,0,0,0,,We had something didn't we? {\c&H000002&\4c&H20D725&}The pickles
+Dialogue: 0,0:15:02.37,0:15:03.88,Matsumoto,,0,0,0,,In small pieces though right?
+Dialogue: 0,0:15:03.88,0:15:05.82,Matsumoto,,0,0,0,,What we'll be having this time
+Dialogue: 0,0:15:05.82,0:15:08.79,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}I guess it's{\c&H1525D4&} a snappy kind of feeling
+Dialogue: 0,0:15:08.79,0:15:11.80,Matsumoto,,0,0,0,,Only the good stuff here
+Dialogue: 0,0:15:16.63,0:15:21.10,Rectangle Block,,0,0,0,,{\fade(250,0)\clip(563,891.333,971.5,1008)\pos(782,953.334)}{\3c&HEBE9E9&\pos(429,958)\3a&H0B&}gray
+Dialogue: 0,0:15:16.63,0:15:21.10,Default,,0,0,0,,{\fade(250,0)\c&H83FFFA&\4c&HFFFFFF&\4a&HFF&\fscx63\fscy99\pos(774,974)}Suction cups from octopus
+Dialogue: 0,0:15:16.63,0:15:21.10,Rectangle Block,,0,0,0,,{\fade(250,0)\3c&H06FEEF&\pos(550.5,942)\clip(m 554 888 l 555 1011 497 1011 464 1012 455 1001 451 973 452 905 462 889)}yellow
+Dialogue: 0,0:15:16.63,0:15:21.10,Default,,0,0,0,,{\fade(250,0)\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H000000&\fscx38\fscy67\pos(504,990)}Main\N Ingredients
+Dialogue: 0,0:15:16.29,0:15:21.17,Matsumoto,,0,0,0,,I'll make a meal from {\i1}only{\i0} the suction cups of the octopus
+Dialogue: 0,0:15:21.17,0:15:23.80,Hamada,,0,0,0,,Make a meal from {\i1}only{\i0} the suction cups?
+Dialogue: 0,0:15:23.82,0:15:27.47,Matsumoto,,0,0,0,,I think it's good if we take a look at from what I'll be making this
+Dialogue: 0,0:15:27.47,0:15:29.11,Matsumoto,,0,0,0,,It's this
+Dialogue: 0,0:15:29.71,0:15:31.61,Housei,,0,0,0,,It's all {\c&H000002&\4c&H20D725&}thick
+Dialogue: 0,0:15:31.71,0:15:33.78,Matsumoto,,0,0,0,,What do you think of when I say octopus?
+Dialogue: 0,0:15:32.84,0:15:35.51,Housei,,0,0,0,,{\pos(720,910)}{\c&H000002&\4c&H20D725&}Ink...
+Dialogue: 0,0:15:33.78,0:15:35.85,Matsumoto,,0,0,0,,You're correct
+Dialogue: 0,0:15:35.97,0:15:38.37,Matsumoto,,0,0,0,,It's octopus ink
+Dialogue: 0,0:15:38.37,0:15:39.65,Matsumoto,,0,0,0,,Octopus ink
+Dialogue: 0,0:15:39.65,0:15:41.05,Housei,,0,0,0,,I've never had that before
+Dialogue: 0,0:15:36.61,0:15:41.59,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(496.5,814)}Cooking Step 1
+Dialogue: 0,0:15:36.61,0:15:41.59,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\fscx274\fscy92\clip(m 325 914 l 341 888 397 886 1045 890 1107 892 1117 918 1118 954 1116 974 1106 990 1082 994 1042 992 385 994 332 990 326 968)}Bing instructions
+Dialogue: 0,0:15:36.61,0:15:41.59,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(715.5,974)\fscx91\fscy122}Put the octopus ink into the batter
+Dialogue: 0,0:15:41.05,0:15:41.92,Matsumoto,,0,0,0,,Exactly!
+Dialogue: 0,0:15:41.92,0:15:43.75,Housei,,0,0,0,,Is it edible?
+Dialogue: 0,0:15:43.75,0:15:44.72,Matsumoto,,0,0,0,,{\pos(720,916)}Whether it's edible or not {\alpha&HFF&}{\c&H000000&\4c&H1727D6&)}I don't know yet
+Dialogue: 0,0:15:46.05,0:15:47.60,Endo,,0,0,0,,Are you for real?
+Dialogue: 0,0:15:44.72,0:15:47.69,Matsumoto,,0,0,0,,{\pos(720,916)}Whether it's edible or not {\c&H000000&\4c&H1727D6&)}I don't know yet
+Dialogue: 0,0:15:47.82,0:15:49.77,Endo,,0,0,0,,Wow it's all black
+Dialogue: 0,0:15:50.20,0:15:52.40,Matsumoto,,0,0,0,,Compared to squid ink it must be stronger
+Dialogue: 0,0:15:52.45,0:15:55.60,Endo,,0,0,0,,It really really looks like it
+Dialogue: 0,0:15:53.77,0:15:55.60,Hamada,,0,0,0,,You're not gonna mix these in?
+Dialogue: 0,0:15:55.62,0:15:57.22,Matsumoto,,0,0,0,,No I'm not
+Dialogue: 0,0:15:57.22,0:15:59.65,Endo,,0,0,0,,So that's how octopus ink looks like...
+Dialogue: 0,0:15:59.87,0:16:04.01,Housei,,0,0,0,,{\pos(718.5,912)}This is what {\c&H000002&\4c&H20D725&}demons eat
+Dialogue: 0,0:16:03.20,0:16:05.34,Matsumoto,,0,0,0,,You bet
+Dialogue: 0,0:16:05.34,0:16:07.34,Matsumoto,,0,0,0,,A few of these...
+Dialogue: 0,0:16:08.08,0:16:09.28,Tanaka,,0,0,0,,This is unclear
+Dialogue: 0,0:16:09.28,0:16:11.28,Housei,,0,0,0,,It's becoming one with the grill
+Dialogue: 0,0:16:06.04,0:16:13.05,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(496.5,814)}Cooking Step 2
+Dialogue: 0,0:16:06.04,0:16:13.05,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\fscx274\fscy92\clip(m 325 914 l 341 888 397 886 1045 890 1107 892 1117 918 1118 954 1116 974 1106 990 1082 994 1042 992 385 994 332 990 326 968)}Bing instructions
+Dialogue: 0,0:16:06.04,0:16:13.05,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\fscx81\fscy116\pos(715.5,970)}Put the suction cups on top of the batter
+Dialogue: 0,0:16:11.71,0:16:15.11,Hamada,,0,0,0,,He does like putting it on top doesn't he
+Dialogue: 0,0:16:13.37,0:16:15.11,Tanaka,,0,0,0,,Absolutely, as he's putting them on top once again
+Dialogue: 0,0:16:15.11,0:16:17.19,Housei,,0,0,0,,Again with the stuff on top
+Dialogue: 0,0:16:19.62,0:16:20.88,Matsumoto,,0,0,0,,Why?
+Dialogue: 0,0:16:17.45,0:16:20.89,Housei,,0,0,0,,Makes you flinch at first sight doesn't it
+Dialogue: 0,0:16:20.88,0:16:23.51,Housei,,0,0,0,,Just looking at it being black and all
+Dialogue: 0,0:16:21.68,0:16:23.51,Tanaka,,0,0,0,,Exactly
+Dialogue: 0,0:16:23.51,0:16:26.20,Matsumoto,,0,0,0,,Well, like with all dark food
+Dialogue: 0,0:16:28.14,0:16:30.37,Housei,,0,0,0,,That looks like raw oil
+Dialogue: 0,0:16:30.90,0:16:34.47,Hamada,,0,0,0,,{\c&H020000&\4c&HFF0015&}It's like fusing {\c&HFF0015&\4c&H000000&}together with the pan
+Dialogue: 0,0:16:36.45,0:16:39.14,Matsumoto,,0,0,0,,The heat is gonna
+Dialogue: 0,0:16:39.18,0:16:42.11,Default,,0,0,0,,{\fade(150,0)\3c&H1528D0&\pos(577.5,814)}Cooking Step 3
+Dialogue: 0,0:16:39.18,0:16:42.11,Rectangle Block,,0,0,0,,{\fade(150,0)\pos(703.5,970)\3c&HADFFFE&\fscx274\fscy92\clip(m 409 924 l 411 896 431 888 1009 888 1024 900 1031 928 1032 948 1032 968 1029 980 1023 988 1006 994 419 996 406 980 409 964)}Bing instructions
+Dialogue: 0,0:16:39.18,0:16:42.11,Default,,0,0,0,,{\fade(150,0)\c&H000000&\3c&HFFFFFF&\pos(715.5,974)\fscx85\fscy118}Cover and cook for 3 minutes
+Dialogue: 0,0:16:39.14,0:16:42.11,Matsumoto,,0,0,0,,get trapped in the sunction cups like crazy
+Dialogue: 0,0:16:42.11,0:16:43.55,Matsumoto,,0,0,0,,{\pos(720,916)\fscx95\fscy125}{\c&H000000&\4c&H1727D6&)}The pan {\c&H1525D4&}is fighting back. {\alpha&HFF&}{\c&H000000&\4c&H1727D6&)}The sunction cups {\c&H1525D4&}are fighting back
+Dialogue: 0,0:16:43.55,0:16:46.75,Matsumoto,,0,0,0,,{\pos(720,916)\fscx95\fscy125}{\c&H000000&\4c&H1727D6&)}The pan {\c&H1525D4&}is fighting back. {\c&H000000&\4c&H1727D6&)}The sunction cups {\c&H1525D4&}are fighting back
+Dialogue: 1,0:16:45.31,0:16:46.75,Matsumoto,,0,0,0,,with each other. None of them can lose
+Dialogue: 0,0:16:46.75,0:16:47.85,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Their will not to lose {\alpha&HFF&}{\c&H1525D4&}is just too strong
+Dialogue: 0,0:16:47.85,0:16:50.39,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Their will not to lose {\c&H1525D4&}is just too strong
+Dialogue: 0,0:16:53.11,0:16:56.65,Tanaka,,0,0,0,,I wonder how it'll turn out
+Dialogue: 0,0:16:57.08,0:16:58.63,Endo,,0,0,0,,It's hard to tell if its burnt or not
+Dialogue: 0,0:16:58.63,0:17:01.37,Hamada,,0,0,0,,Yeah looking at it is difficult...
+Dialogue: 0,0:17:01.40,0:17:04.71,Matsumoto,,0,0,0,,It's kind of dissolved into the pan though
+Dialogue: 0,0:17:08.81,0:17:11.48,Endo,,0,0,0,,It looks like {\c&H000000&\4c&H0597DB&}Sludge
+Dialogue: 0,0:17:12.34,0:17:16.38,Default,,0,0,0,,With an amazing first impact, how will it taste like?
+Dialogue: 0,0:17:11.94,0:17:16.45,Default,,0,0,0,,{\fade(120,0)\fscx67\fscy108\pos(504,800)}{\c&H1504A6&\3c&HFFFFFF&\i1\pos(513,814)}Matsumoto's second dish{\i0}
+Dialogue: 0,0:17:11.94,0:17:16.45,Default,,0,0,0,,{\c&H1003A8&\3c&HFFFFFF&\i1\pos(942,908)}{\fade(120,0)\c&H0294DA&}Sunction cup Okonomiyaki{\i0}
+Dialogue: 0,0:17:20.68,0:17:23.19,Hamada,,0,0,0,,{\pos(717,836)}This isn't food
+Dialogue: 0,0:17:23.71,0:17:25.74,Matsumoto,,0,0,0,,You'll find out soon
+Dialogue: 0,0:17:25.74,0:17:27.91,Endo,,0,0,0,,I wonder how this will taste
+Dialogue: 0,0:17:28.54,0:17:30.94,Matsumoto,,0,0,0,,Let's dig in!
+Dialogue: 0,0:17:38.97,0:17:41.97,Hamada,,0,0,0,,What the fuck is this...
+Dialogue: 0,0:17:43.40,0:17:46.04,Hamada,,0,0,0,,There's no {\c&H020000&\4c&HFF0015&}distinct {\c&HFF0015&\4c&H000000&}taste either
+Dialogue: 0,0:17:46.25,0:17:47.91,Housei,,0,0,0,,Yeah the taste is...
+Dialogue: 0,0:17:46.91,0:17:47.91,Tanaka,,0,0,0,,It doesn't taste much
+Dialogue: 0,0:17:47.91,0:17:50.68,Housei,,0,0,0,,{\pos(720,930)}I need lots of {\c&H000002&\4c&H20D725&}salt for this
+Dialogue: 0,0:17:49.22,0:17:51.20,Housei,,0,0,0,,Ah, sorry thank you...
+Dialogue: 0,0:17:55.60,0:17:57.02,Matsumoto,,0,0,0,,There's no taste?
+Dialogue: 0,0:17:57.02,0:17:58.94,Endo,,0,0,0,,With a little bit saltiness...
+Dialogue: 0,0:17:59.89,0:18:01.33,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Woah!!
+Dialogue: 0,0:18:01.96,0:18:05.40,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Yummy!!
+Dialogue: 0,0:18:05.76,0:18:09.20,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Huuuhh!?
+Dialogue: 0,0:18:09.34,0:18:11.77,Matsumoto,,0,0,0,,It came instantly didn't it?
+Dialogue: 0,0:18:12.80,0:18:17.41,Matsumoto,,0,0,0,,Yaaaaaaaay
+Dialogue: 0,0:18:19.62,0:18:21.68,Endo,,0,0,0,,He said "Yay"
+Dialogue: 0,0:18:21.68,0:18:23.91,Matsumoto,,0,0,0,,How many points?
+Dialogue: 0,0:18:25.25,0:18:27.28,Matsumoto,,0,0,0,,That's just strange
+Dialogue: 0,0:18:24.28,0:18:27.45,Hamada,,0,0,0,,{\pos(715.5,916)}Well about {\c&H020000&\4c&HFF0015&}3 I guess
+Dialogue: 0,0:18:27.57,0:18:29.48,Matsumoto,,0,0,0,,What kind of calculation is that?
+Dialogue: 0,0:18:29.48,0:18:30.45,Hamada,,0,0,0,,Well everyone...
+Dialogue: 0,0:18:30.45,0:18:31.69,Matsumoto,,0,0,0,,If the one from the before
+Dialogue: 0,0:18:31.69,0:18:33.06,Matsumoto,,0,0,0,,The hosomakisushi one is an {\alpha&HFF&}8
+Dialogue: 0,0:18:33.06,0:18:33.99,Matsumoto,,0,0,0,,The hosomakisushi one is an {\c&H000000&\4c&H1727D6&)}8
+Dialogue: 0,0:18:33.99,0:18:36.99,Matsumoto,,0,0,0,,{\pos(720,918)}Then this is certainly a {\c&H000000&\4c&H1727D6&)}7 isnt it?
+Dialogue: 0,0:18:35.91,0:18:37.91,Tanaka,,0,0,0,,Definitely not a 7
+Dialogue: 0,0:18:37.91,0:18:39.74,Hamada,,0,0,0,,No way
+Dialogue: 0,0:18:38.42,0:18:39.74,Tanaka,,0,0,0,,Not a 7
+Dialogue: 0,0:18:39.74,0:18:40.43,Matsumoto,,0,0,0,,How many points?
+Dialogue: 0,0:18:41.25,0:18:43.02,Matsumoto,,0,0,0,,no way no way
+Dialogue: 0,0:18:40.43,0:18:43.47,Tanaka,,0,0,0,,{\c&H000000&\4c&HC900B9&\pos(717,912)}4 points
+Dialogue: 0,0:18:43.47,0:18:47.87,Matsumoto,,0,0,0,,An octopus {\c&H000000&\4c&H1727D6&)}will come tonight {\c&H1525D4&}ya know
+Dialogue: 0,0:18:48.44,0:18:50.88,Matsumoto,,0,0,0,,Through the curtain {\c&H000000&\4c&H1727D6&)}Whoosh! {\c&H1525D4&}and it's there
+Dialogue: 0,0:18:50.88,0:18:54.35,Housei,,0,0,0,,It just tastes of octopus and I don't feel the Okonomiyaki in this
+Dialogue: 0,0:18:54.34,0:18:54.95,Housei,,0,0,0,,{\pos(718.5,916)}Honestly I would give it a {\alpha&HFF&}3
+Dialogue: 0,0:18:54.95,0:18:56.71,Housei,,0,0,0,,{\pos(718.5,916)}Honestly I would give it a {\c&H000002&\4c&H20D725&}3
+Dialogue: 0,0:18:56.08,0:18:57.08,Hamada,,0,0,0,,Yeah I get ya
+Dialogue: 0,0:18:57.41,0:18:59.28,Endo,,0,0,0,,That makes Housei {\c&H000000&\4c&H0597DB&}the winner
+Dialogue: 0,0:19:00.08,0:19:01.88,Housei,,0,0,0,,It's confirmed then
+Dialogue: 0,0:19:02.68,0:19:05.17,Housei,,0,0,0,,Since it's confirmed...
+Dialogue: 0,0:19:03.22,0:19:05.17,Hamada,,0,0,0,,So that's the winner huh?
+Dialogue: 0,0:18:59.55,0:19:06.16,Housei,,0,0,0,,{\blur10}{\pos(378,912)}{\fade(120,0)\c&H8DF7EE&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&}{\4c&H5EB4A8&\3c&H5EB4A8&}Current top
+Dialogue: 0,0:18:59.55,0:19:06.16,Housei,,0,0,0,,{\blur10}{\pos(378,912)}{\fade(120,0)\c&H8DF7EE&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&}{\4c&H5EB4A8&\3c&H5EB4A8&}Current top
+Dialogue: 0,0:18:59.55,0:19:06.16,Housei,,0,0,0,,{\blur10}{\pos(378,912)}{\fade(120,0)\c&H8DF7EE&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&}{\4c&H5EB4A8&}Current top
+Dialogue: 0,0:18:59.55,0:19:06.16,Housei,,0,0,0,,{\pos(378,912)}{\fade(120,0)\c&H8DF7EE&\3c&H000000&\4c&HFFFFFF&\4a&HFF&}Current top
+Dialogue: 0,0:18:59.55,0:19:06.16,Default,,0,0,0,,{\pos(762,868)}{\fade(155,0)\4c&H1829D6&}9 points
+Dialogue: 0,0:18:59.55,0:19:06.16,Smogo,,0,0,0,,{\fscx113\fscy115\pos(1168.5,660)}{\fade(170,0)\c&H3CB042&\3c&HFFFFFF&}Housei's dish
+Dialogue: 0,0:18:59.55,0:19:06.16,Default,,0,0,0,,{\pos(1165.5,954)\fscx43\fscy87}{\fade(170,0)\4c&H000000&\4a&HFF&}Pickles from all around the country Okonomiyaki
+Dialogue: 0,0:19:05.17,0:19:06.74,Housei,,0,0,0,,Exactly. Thank you very much
+Dialogue: 0,0:19:06.74,0:19:08.69,Matsumoto,,0,0,0,,Let's go back to the hosomaki one for a moment
+Dialogue: 0,0:19:08.69,0:19:10.49,Matsumoto,,0,0,0,,We havent resolved why {\c&H000000&\4c&H1727D6&)}the hosomaki
+Dialogue: 0,0:19:10.49,0:19:13.20,Matsumoto,,0,0,0,,was bad yet
+Dialogue: 0,0:19:13.20,0:19:16.53,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1727D6&)}Why was the hosomaki {\c&H1525D4&}no good again?
+Dialogue: 0,0:19:16.53,0:19:19.44,Hamada,,0,0,0,,{\fscx117\fscy150}'Cause they were just placed on top!!
+Dialogue: 0,0:19:22.31,0:19:26.71,Default,,0,0,0,,The winner is Housei with his pickles from all around the country Okonomiyaki
+Dialogue: 0,0:19:32.12,0:19:34.85,Hamada,,0,0,0,,Well with Endo having a {\c&H020000&\4c&HFF0015&}kid and all...
+Dialogue: 0,0:19:34.85,0:19:37.35,Endo,,0,0,0,,My neck is in place now after 3 months
+Dialogue: 0,0:19:37.82,0:19:42.03,Endo,,0,0,0,,{\pos(720,916)\c&HEE0C1A&\4c&H066DDA&}Boys {\c&H0597DB&\4c&H000000&}and {\c&HCB35F3&\4c&H0769DB&}girls {\c&H0597DB&\4c&H000000&}are {\alpha&HFF&}completely different after all aren't they?
+Dialogue: 0,0:19:42.03,0:19:44.56,Endo,,0,0,0,,{\pos(720,916)\c&HEE0C1A&\4c&H066DDA&}Boys {\c&H0597DB&\4c&H000000&}and {\c&HCB35F3&\4c&H0769DB&}girls {\c&H0597DB&\4c&H000000&}are completely different after all aren't they?
+Dialogue: 0,0:19:43.00,0:19:44.57,Housei,,0,0,0,,Completely different
+Dialogue: 0,0:19:44.57,0:19:48.65,Housei,,0,0,0,,Like the way they frenzy is extraordinary
+Dialogue: 0,0:19:48.65,0:19:51.30,Housei,,0,0,0,,One time I was taking a nap and then
+Dialogue: 0,0:19:51.30,0:19:53.04,Housei,,0,0,0,,All of sudden he jumps on me and
+Dialogue: 0,0:19:53.04,0:19:56.01,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&\pos(720,906)}goes WAAAAAHH!!
+Dialogue: 0,0:19:54.74,0:19:56.01,Endo,,0,0,0,,How old is he?
+Dialogue: 0,0:19:56.01,0:19:57.34,Housei,,0,0,0,,3 years old
+Dialogue: 0,0:19:57.34,0:19:59.34,Tanaka,,0,0,0,,3 years huh?
+Dialogue: 0,0:19:59.34,0:20:00.91,Housei,,0,0,0,,It's really amazing
+Dialogue: 0,0:20:00.91,0:20:02.91,Matsumoto,,0,0,0,,Girls don't really do things like that often
+Dialogue: 0,0:20:02.91,0:20:05.57,Housei,,0,0,0,,You're right it's rare well because they're weaker but
+Dialogue: 0,0:20:05.57,0:20:08.92,Housei,,0,0,0,,they listen to what they're told. Completely different from boys
+Dialogue: 0,0:20:08.92,0:20:10.69,Housei,,0,0,0,,They don't listen to a single word
+Dialogue: 0,0:20:10.82,0:20:12.14,Housei,,0,0,0,,I wondered what to do
+Dialogue: 0,0:20:12.14,0:20:15.31,Housei,,0,0,0,,my two daughters were watching a film and
+Dialogue: 0,0:20:15.31,0:20:19.23,Housei,,0,0,0,,well they were watching it together with my son and
+Dialogue: 0,0:20:19.23,0:20:20.30,Housei,,0,0,0,,It was about {\alpha&HFF&}a kappa getting {\c&H000002&\4c&H20D725&}killed*
+Dialogue: 0,0:20:20.30,0:20:22.57,Housei,,0,0,0,,It was about a kappa getting {\c&H000002&\4c&H20D725&}killed*
+Dialogue: 0,0:20:22.94,0:20:24.94,Endo,,0,0,0,,There are films like that?
+Dialogue: 0,0:20:24.94,0:20:26.10,Endo,,0,0,0,,Where a kappa gets slain?
+Dialogue: 0,0:20:19.23,0:20:29.51,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx78\fscy100\pos(502.5,62)}*Kappa is a turtle-like creature from Japanese folklore
+Dialogue: 0,0:20:26.10,0:20:29.51,Housei,,0,0,0,,You were voice acting in that film
+Dialogue: 0,0:20:29.51,0:20:31.94,Tanaka,,0,0,0,,{\pos(721.5,912)}"Summer days with Coo"?
+Dialogue: 0,0:20:30.91,0:20:32.20,Housei,,0,0,0,,Yes yes yes!
+Dialogue: 0,0:20:32.20,0:20:33.31,Tanaka,,0,0,0,,In his mind where,
+Dialogue: 0,0:20:33.31,0:20:37.82,Tanaka,,0,0,0,,{\pos(538.5,798)}the scene where
+Dialogue: 0,0:20:35.11,0:20:37.82,Tanaka,,0,0,0,,{\pos(721.5,930)}he was slain in his father's arms?
+Dialogue: 0,0:20:36.94,0:20:38.94,Tanaka,,0,0,0,,Ah yes that happened
+Dialogue: 0,0:20:38.94,0:20:41.85,Housei,,0,0,0,,So he got killed and made this "Kuweeeeh" sound
+Dialogue: 0,0:20:41.85,0:20:43.15,Housei,,0,0,0,,So...
+Dialogue: 0,0:20:43.15,0:20:49.13,Housei,,0,0,0,,{\pos(724.5,790)}My son was watching that scene
+Dialogue: 0,0:20:44.76,0:20:49.13,Housei,,0,0,0,,{\pos(721.5,930)}and said that the {\c&H000002&\4c&H20D725&}kappa scared him
+Dialogue: 0,0:20:49.00,0:20:52.97,Housei,,0,0,0,,I went "Let's go change your diaper"
+Dialogue: 0,0:20:52.97,0:20:54.50,Housei,,0,0,0,,and when he said "no I don't want to"
+Dialogue: 0,0:20:54.50,0:20:55.17,Housei,,0,0,0,,{\pos(718.5,794)}My wife went {\alpha&HFF&}Kappa will come The Kappa will come
+Dialogue: 0,0:20:55.17,0:20:56.07,Housei,,0,0,0,,{\pos(718.5,794)}My wife went {\c&H000002&\4c&H20D725&}Kappa will come {\alpha&HFF&}The Kappa will come
+Dialogue: 0,0:20:56.07,0:20:59.14,Housei,,0,0,0,,{\pos(718.5,794)}My wife went {\c&H000002&\4c&H20D725&}Kappa will come The Kappa will come
+Dialogue: 0,0:20:57.82,0:20:59.90,Housei,,0,0,0,,Then I went like this while staying hidden
+Dialogue: 0,0:21:03.28,0:21:04.80,Endo,,0,0,0,,Is that really how a Kappa sounds like?
+Dialogue: 0,0:21:04.48,0:21:07.51,Matsumoto,,0,0,0,,{\pos(720,918)}Does a kappa really go{\c&H000000&\4c&H1727D6&)} Koooh?
+Dialogue: 0,0:21:08.22,0:21:12.97,Housei,,0,0,0,,Well of course they don't but thats how mine went and
+Dialogue: 0,0:21:12.97,0:21:15.52,Housei,,0,0,0,,then he said "I'm scared!"
+Dialogue: 0,0:21:16.80,0:21:19.34,Housei,,0,0,0,,And we ended up doing it so many times
+Dialogue: 0,0:21:19.34,0:21:22.48,Housei,,0,0,0,,One time maybe half past midnight or something
+Dialogue: 0,0:21:22.48,0:21:25.51,Housei,,0,0,0,,I always sleep apart so
+Dialogue: 0,0:21:25.51,0:21:28.40,Housei,,0,0,0,,my wife and my son sleep together and I in a distant room
+Dialogue: 0,0:21:28.40,0:21:30.93,Housei,,0,0,0,,Then my wife in the middle of the night woke up and was like
+Dialogue: 0,0:21:30.93,0:21:33.87,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&}Can't you do something about this?
+Dialogue: 0,0:21:33.97,0:21:38.88,Housei,,0,0,0,,Despite finally being able to sleep but then I'd hear
+Dialogue: 0,0:21:38.88,0:21:43.78,Housei,,0,0,0,,{\pos(724.5,788)}{\c&H000002&\4c&H20D725&}It's scary It's scary! I'm scared of the Kappa!
+Dialogue: 0,0:21:40.58,0:21:43.78,Housei,,0,0,0,,{\pos(528,914)}and he would wake me up
+Dialogue: 0,0:21:42.45,0:21:44.11,Housei,,0,0,0,,It happened so many times
+Dialogue: 0,0:21:44.11,0:21:45.38,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&\pos(723,914)}Now he's too easily scared {\alpha&HFF&}{\c&H13C018&\4c&H000000&}my wife said fiercely
+Dialogue: 0,0:21:45.38,0:21:47.52,Housei,,0,0,0,,{\c&H000002&\4c&H20D725&\pos(723,914)}Now he's too easily scared {\c&H13C018&\4c&H000000&}my wife said fiercely
+Dialogue: 0,0:21:46.42,0:21:49.17,Matsumoto,,0,0,0,,Cause you overdid the Kappa thing?
+Dialogue: 0,0:21:47.52,0:21:49.17,Housei,,0,0,0,,Exactly
+Dialogue: 0,0:21:49.17,0:21:52.71,Housei,,0,0,0,,Alright then I said, we'll sleep together tonight
+Dialogue: 0,0:21:52.69,0:21:54.73,Housei,,0,0,0,,So my wife, the kid and me here
+Dialogue: 0,0:21:54.73,0:21:56.96,Housei,,0,0,0,,{\pos(721.5,912)}In a shape of a {\c&H000002&\4c&H20D725&\}river*
+Dialogue: 0,0:21:56.08,0:21:57.09,Housei,,0,0,0,,Then my son...
+Dialogue: 0,0:21:57.09,0:21:58.50,Matsumoto,,0,0,0,,{\fscx95\fscy118}The shape of a river is certainly hard for a {\alpha&HFF&}{\c&H000000&\4c&H1727D6&)}Kappa to understand
+Dialogue: 0,0:21:58.50,0:22:00.40,Matsumoto,,0,0,0,,{\fscx95\fscy118}The shape of a river is certainly hard for a {\c&H000000&\4c&H1727D6&)}Kappa to understand
+Dialogue: 0,0:22:00.40,0:22:01.50,Matsumoto,,0,0,0,,{\pos(718.5,904)}Figuring out whether you're {\alpha&HFF&}liquid or not
+Dialogue: 0,0:21:54.73,0:22:04.54,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx70\fscy102\pos(529.5,58)}*He's refering to the shape of the Kanji as it has 3 vertical lines.
+Dialogue: 0,0:22:01.50,0:22:04.54,Matsumoto,,0,0,0,,{\pos(718.5,904)}Figuring out whether you're liquid or not
+Dialogue: 0,0:22:03.14,0:22:05.14,Housei,,0,0,0,,Sleeping as an actual river right?
+Dialogue: 0,0:22:05.14,0:22:07.14,Housei,,0,0,0,,Anyway, "It's fine its fine" I said and
+Dialogue: 0,0:22:07.14,0:22:10.08,Housei,,0,0,0,,and he finally fell asleep
+Dialogue: 0,0:22:10.08,0:22:15.40,Housei,,0,0,0,,Finally I thought and took a look at my wife and she also had her eyes closed
+Dialogue: 0,0:22:15.40,0:22:19.88,Housei,,0,0,0,,Finally, I guess I'll go to bed too then I thought
+Dialogue: 0,0:22:19.88,0:22:21.82,Housei,,0,0,0,,Then my son kind of woke up startled
+Dialogue: 0,0:22:21.82,0:22:26.82,Housei,,0,0,0,,{\pos(724.5,798)}{\c&H000002&\4c&H20D725&\}"It's scary! I'm scared of the Kappa!"
+Dialogue: 0,0:22:26.37,0:22:28.36,Housei,,0,0,0,,What the hell?
+Dialogue: 0,0:22:27.37,0:22:28.36,Matsumoto,,0,0,0,,Yeah what the?
+Dialogue: 0,0:22:28.36,0:22:29.33,Housei,,0,0,0,,{\fscx88\fscy112}As I looked at my wife {\c&H000002&\4c&H20D725&\}with all her might {\alpha&HFF&}{\c&H13C018&\4c&H000000&}she let out a snore {\c&H13C018&\4c&H000000&}like this
+Dialogue: 0,0:22:29.33,0:22:31.90,Housei,,0,0,0,,{\fscx88\fscy112}As I looked at my wife {\c&H000002&\4c&H20D725&\}with all her might {\c&H13C018&\4c&H000000&}she let out a {\c&H000002&\4c&H20D725&\}snore like this
+Dialogue: 0,0:22:34.37,0:22:37.47,Hamada,,0,0,0,,This is just you putting up a show now
+Dialogue: 0,0:22:37.71,0:22:39.70,Housei,,0,0,0,,I'm absolutely serious!
+Dialogue: 0,0:22:39.70,0:22:42.74,Endo,,0,0,0,,That was a brilliantly crafted {\c&H000000&\4c&H0597DB&}story!
+Dialogue: 0,0:22:42.74,0:22:44.02,Housei,,0,0,0,,It's true!
+Dialogue: 0,0:22:44.02,0:22:46.02,Tanaka,,0,0,0,,Is it really?
+Dialogue: 0,0:22:46.02,0:22:46.88,Housei,,0,0,0,,This is true
+Dialogue: 0,0:22:46.88,0:22:50.48,Housei,,0,0,0,,{\pos(624,788)}Then I woke up my wife and went
+Dialogue: 0,0:22:48.45,0:22:50.48,Housei,,0,0,0,,{\pos(712.5,932)}{\c&H000002&\4c&H20D725&\}You've been snoring {\c&H13C018&\4c&H000000&}this whole time!!
+Dialogue: 0,0:22:50.85,0:22:53.92,Housei,,0,0,0,,and we both burst out laughing
+Dialogue: 0,0:22:54.97,0:22:57.05,Housei,,0,0,0,,"Oh so it was my snoring?"
+Dialogue: 0,0:22:57.62,0:22:58.49,Matsumoto,,0,0,0,,Looking from above now, {\alpha&HFF&}It's just like a Kappa*
+Dialogue: 0,0:22:58.49,0:23:01.89,Matsumoto,,0,0,0,,Looking from above now, It's just like a {\c&H000000&\4c&H1727D6&)}Kappa*
+Dialogue: 0,0:23:02.00,0:23:04.40,Matsumoto,,0,0,0,,That's the end of that
+Dialogue: 0,0:22:58.49,0:23:06.63,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx68\fscy104\pos(390,62)}*Kappas are depicted as having a big bald spot
+Dialogue: 0,0:23:04.40,0:23:06.63,Housei,,0,0,0,,What do you mean "That's the end of that"?
+Dialogue: 0,0:23:06.65,0:23:09.68,Hamada,,0,0,0,,I wonder how girls are though right?
+Dialogue: 0,0:23:09.73,0:23:11.64,Matsumoto,,0,0,0,,My daughter went to {\c&H000000&\4c&H1727D6&)}"Kidzania"{\c&H1525D4&}once
+Dialogue: 0,0:23:11.97,0:23:15.00,Matsumoto,,0,0,0,,and then well there are people like...
+Dialogue: 0,0:23:15.00,0:23:16.91,Matsumoto,,0,0,0,,Variety comedians
+Dialogue: 0,0:23:16.91,0:23:19.91,Tanaka,,0,0,0,,Oh really?
+Dialogue: 0,0:23:17.80,0:23:19.91,Housei,,0,0,0,,Like those vocational schools yeah
+Dialogue: 0,0:23:11.84,0:23:21.28,Default,,0,0,0,,{\pos(219,750)}{\fade(80,400)\4c&H1528D6&\4a&H00&}Kidzania
+Dialogue: 0,0:23:11.84,0:23:21.28,Rectangle Block,,0,0,0,,{\pos(720,978)\clip(1.5,824,1440,1004)\fscx405\fscy90}{\fade(80,400)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\3a&H75&}Txt
+Dialogue: 0,0:23:11.84,0:23:21.28,Default,,0,0,0,,{\pos(723,972)}{\fade(80,400)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&HFF&}Kids can use various tools and get to experience  \N real vocations just like adults in "Kids-in-Charge City"
+Dialogue: 0,0:23:19.91,0:23:21.41,Matsumoto,,0,0,0,,And I got shown a video where
+Dialogue: 0,0:23:21.41,0:23:22.01,Matsumoto,,0,0,0,,{\pos(721.5,910)}My daughter {\alpha&HFF&}was doing manzai
+Dialogue: 0,0:23:22.01,0:23:26.15,Matsumoto,,0,0,0,,{\pos(721.5,910)}My daughter was doing {\c&H000000&\4c&H1727D6&)}manzai
+Dialogue: 0,0:23:24.20,0:23:26.15,Endo,,0,0,0,,Wow that's amazing
+Dialogue: 0,0:23:26.15,0:23:28.69,Matsumoto,,0,0,0,,{\pos(717,914)}With her friend
+Dialogue: 0,0:23:27.05,0:23:28.80,Housei,,0,0,0,,I wanna see that!
+Dialogue: 0,0:23:29.05,0:23:29.95,Matsumoto,,0,0,0,,So...
+Dialogue: 0,0:23:29.95,0:23:31.99,Matsumoto,,0,0,0,,{\pos(721.5,916)}There was a {\alpha&HFF&}Shochiku area*
+Dialogue: 0,0:23:31.99,0:23:35.46,Matsumoto,,0,0,0,,{\pos(721.5,916)}There was a {\c&H000000&\4c&H1727D6&)}Shochiku area*
+Dialogue: 0,0:23:33.54,0:23:35.62,Matsumoto,,0,0,0,,and there these young comedians
+Dialogue: 0,0:23:31.99,0:23:38.30,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\fscx80\fscy106\pos(276,66)}*Shochiku is a movie studio
+Dialogue: 0,0:23:35.62,0:23:38.31,Matsumoto,,0,0,0,,would teach out different skits
+Dialogue: 0,0:23:38.31,0:23:41.00,Matsumoto,,0,0,0,,Obviously they didnt know it was my daughter
+Dialogue: 0,0:23:41.00,0:23:45.28,Hamada,,0,0,0,,And then they'd remember and do it?
+Dialogue: 0,0:23:42.11,0:23:45.28,Matsumoto,,0,0,0,,Yeah and I watched it and it wasn't funny at all
+Dialogue: 0,0:23:45.28,0:23:47.28,Endo,,0,0,0,,Well of course
+Dialogue: 0,0:23:48.71,0:23:51.08,Matsumoto,,0,0,0,,%!¤#!"#%
+Dialogue: 0,0:23:51.08,0:23:53.37,Tanaka,,0,0,0,,That far?
+Dialogue: 0,0:23:52.14,0:23:53.37,Endo,,0,0,0,,That wasn't needed though was it
+Dialogue: 0,0:23:53.37,0:23:56.14,Matsumoto,,0,0,0,,Like "What the fuck"
+Dialogue: 0,0:23:54.17,0:23:56.14,Endo,,0,0,0,,That's just the way it is
+Dialogue: 0,0:23:55.98,0:23:59.92,Matsumoto,,0,0,0,,{\pos(723,616)}{\c&H000000&\4c&H1727D6&)}My daughters debut!!
+Dialogue: 0,0:23:36.39,0:24:09.76,Newtofupandatitle,,0,0,0,,{\fade(9000,0)\pos(720,728.8)\fscx96\fscy129}{\pos(530.731150,435.621111)\c&HFFFFFF&\1a&HB9&\3c&H000000&\3a&HB4&\4c&H000000&\4a&HFF&}This video was brought to you by Tofu Panda Fansubs
+Dialogue: 0,0:00:00.00,0:24:09.76,Default,TPF Face,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,10,1436,1080)\fscx37.4\fscy47\pos(1539.2,220.227)}0 0 m -300 -65.625 b -310.75 -67 -339.875 -65.625 -336.875 -41.25 b -338.375 -27.75 -309.25 -1 -301.5 0 b -289.25 7.625 -284.625 -1 -277 -2.5 b -267.75 -11.625 -258.625 -14.625 -249.375 -37.125 b -246.25 -58 -266.25 -59.625 -267.75 -61.375 b -280 -67 -290.75 -65.625 -300 -65.625 m -292.375 -58 b -278.5 -61.375 -260.125 -52.375 -263.125 -43.125 b -273.875 -54.875 -283.125 -54.875 -292.375 -58 m -370.625 -189.875 b -364.375 -189.875 -312.25 -179.5 -320 -110.625 b -330.625 -67 -359.875 -46 -369 -41.25 b -373.625 -39.875 -398.125 -20.625 -431.875 -52.375 b -439.625 -67 -455 -83.875 -444.25 -121 b -439.625 -136 -431.875 -164.875 -404.375 -181 b -396.625 -185.25 -384.375 -193 -370.625 -189.875 m -232.5 -193 b -229.375 -193 -192.625 -203.5 -160.375 -148 b -155.75 -134.5 -143.5 -117.75 -151.25 -76 b -160.375 -41.25 -175.75 -39.875 -185 -37.125 b -192.625 -37.125 -203.375 -27.75 -240.125 -53.5 b -252.5 -63.75 -270.875 -70 -278.5 -112 b -277 -112 -295.375 -139.25 -257 -181 b -249.375 -187.375 -241.75 -193 -232.5 -193 m -373.625 -143.5 b -416.625 -136 -392 -89.5 -372.125 -94.25 b -366 -94.25 -352.125 -97.375 -349.125 -117.75 b -353.75 -142.375 -362.875 -140.25 -373.625 -143.5 m -373.625 -129.875 b -364.375 -133.125 -359.875 -121 -361.375 -117.75 b -361.375 -106.375 -370.625 -106.375 -375.125 -106.375 b -381.25 -107.375 -384.375 -113.5 -382.875 -121 b -382.875 -124.125 -379.75 -129.875 -373.625 -129.875 m -370.625 -124.125 b -375.125 -122.375 -373.625 -116.75 -370.625 -116.75 b -367.5 -116.75 -364.375 -122.375 -370.625 -124.125 m -221.75 -143.5 b -255.5 -137.5 -240.125 -91 -221.75 -95.25 b -215.625 -94.25 -200.25 -97.375 -200.25 -124.125 b -204.875 -142.375 -217.125 -143.5 -221.75 -143.5 m -221.75 -129.875 b -201.875 -129.875 -208 -106.375 -218.75 -106.375 b -221.75 -104.625 -234 -107.375 -231 -121 b -231 -124.125 -229.375 -129.875 -221.75 -129.875 m -218.75 -124.125 b -223.25 -121 -220.25 -115 -217.125 -116.75 b -212.5 -117.75 -215.625 -124.125 -218.75 -124.125 m -376.75 -116.75 b -379.75 -116.75 -378.25 -112 -376.75 -112 b -375.125 -112 -373.625 -116.75 -376.75 -116.75 m -223.25 -115 b -226.375 -115 -224.875 -110.625 -223.25 -110.625 b -221.75 -110.625 -220.25 -115 -223.25 -115
+Dialogue: 0,0:00:00.00,0:24:09.76,Default,TPF Box,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,10,1436,1080)\fscx37.4\fscy47\pos(1539.2,264)}0 0 m -455 -217.125 l -142 -217.125 l -142 86.875 l -455 86.875 m -145 -214.125 l -451.875 -214.125 l -451.875 84.25 l -145 84.25
+Dialogue: 0,0:00:00.00,0:24:09.76,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-17,1,1433,1195)\fscx50.6\fscy62\pos(1371.159,158.741)}TPF
+

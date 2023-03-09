@@ -1,0 +1,937 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+Collisions: Normal
+PlayResX: 640
+PlayResY: 480
+Scroll Position: 0
+Active Line: 0
+Video Zoom Percent: 1
+Last Style Storage: gaki no tsukai
+Video File: ..\Videos\SH7.avi
+Video Aspect Ratio: c1.33333
+Video Position: 65740
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Murakami,Arial,34,&H00000100,&H000000FF,&H00828582,&H00000100,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: whi,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000100,-1,0,0,0,100,100,0,0,1,2,0,2,10,10,10,1
+Style: Tl Note,Arial,20,&H004AC8ED,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:47:01.37,Tl Note,,0,0,0,,{\c&HEDD24A&\fs15\pos(130,14)}Subtitles by Godzillaradio & Hadin
+Dialogue: 0,0:00:00.00,0:47:01.37,Tl Note,,0,0,0,,{\c&HEDD24A&\fs15\pos(165,31)} http://jburogu-godzillaradio.blogspot.com.au/
+Dialogue: 0,0:00:01.37,0:00:05.37,Default,,0,0,0,,On this night enveloped by the noises of insects...
+Dialogue: 0,0:00:05.37,0:00:09.23,Default,,0,0,0,,...that evening meeting will once again be held.
+Dialogue: 0,0:00:09.72,0:00:11.87,Default,,0,0,0,,This show which has reached it's
+Dialogue: 0,0:00:11.87,0:00:13.61,Default,,0,0,0,,7th installment due to great reception...
+Dialogue: 0,0:00:13.61,0:00:17.24,Default,,0,0,0,,is a very simple program where a group
+Dialogue: 0,0:00:17.24,0:00:20.12,Default,,0,0,0,,of speakers lead by Matsumoto Hitoshi
+Dialogue: 0,0:00:20.12,0:00:23.00,Default,,0,0,0,,tell of their true but guaranteed funny stories.
+Dialogue: 0,0:00:23.00,0:00:26.67,Default,,0,0,0,,The speakers who will be taking part this time are...
+Dialogue: 0,0:00:26.56,0:00:27.55,Murakami,,0,0,0,,{\pos(315.994,191)}MATSUMOTO HITOSHI
+Dialogue: 0,0:00:26.56,0:00:27.55,Murakami,,0,0,0,,{\pos(309.985,327)}(Downtown)
+Dialogue: 0,0:00:28.01,0:00:31.40,Default,,0,0,0,,The man who has mastered the art of funny stories...
+Dialogue: 0,0:00:31.40,0:00:34.70,Default,,0,0,0,,King of Funny, Matsumoto Hitoshi.
+Dialogue: 0,0:00:34.70,0:00:35.63,Murakami,,0,0,0,,{\pos(318.998,192)}CHIHARA JUNIOR
+Dialogue: 0,0:00:34.70,0:00:35.63,Murakami,,0,0,0,,{\pos(318.998,330)}(Chihara Kyoudai)
+Dialogue: 0,0:00:35.66,0:00:38.43,Default,,0,0,0,,He's a story telling specialist who tells
+Dialogue: 0,0:00:38.43,0:00:40.83,Default,,0,0,0,,stories from his sharp viewpoint!
+Dialogue: 0,0:00:40.83,0:00:42.49,Default,,0,0,0,,Chihara Junior!
+Dialogue: 0,0:00:42.70,0:00:43.55,Murakami,,0,0,0,,{\pos(313.991,198)}MIYAGAWA DAISUKE
+Dialogue: 0,0:00:43.90,0:00:47.42,Default,,0,0,0,,He freely controls stories with his ingenious movements.
+Dialogue: 0,0:00:47.42,0:00:50.51,Default,,0,0,0,,The conversation expert, Miyagawa Daisuke!
+Dialogue: 0,0:00:50.80,0:00:51.72,Murakami,,0,0,0,,{\pos(324.006,177)}GOTO TERUMOTO
+Dialogue: 0,0:00:50.80,0:00:51.72,Murakami,,0,0,0,,{\pos(323.005,359)}Football Hour
+Dialogue: 0,0:00:50.83,0:00:54.75,Default,,0,0,0,,And appearing for the first time, the unique and cool straightman
+Dialogue: 0,0:00:54.75,0:00:58.41,Default,,0,0,0,,who tells funny tales, Football Hour's Goto Terumoto!
+Dialogue: 0,0:00:58.65,0:00:59.60,Murakami,,0,0,0,,{\pos(317.997,178)}TOSHI
+Dialogue: 0,0:00:58.65,0:00:59.60,Murakami,,0,0,0,,{\pos(314.992,328)}(Taka and Toshi)
+Dialogue: 0,0:00:59.77,0:01:03.48,Default,,0,0,0,,The stories explaining his rage are sure-fire to be funny!
+Dialogue: 0,0:01:03.48,0:01:06.51,Default,,0,0,0,,Toshi from Taka and Toshi!
+Dialogue: 0,0:01:06.78,0:01:07.71,Murakami,,0,0,0,,{\pos(317.997,327)}(Drunk Dragon)
+Dialogue: 0,0:01:06.78,0:01:07.71,Murakami,,0,0,0,,{\pos(317.997,194)}TSUKAJI MUGA
+Dialogue: 0,0:01:07.77,0:01:10.72,Default,,0,0,0,,He creates funny stories with ease with his varied expressions.
+Dialogue: 0,0:01:11.96,0:01:14.70,Default,,0,0,0,,Drunk Dragon's Tsukaji Muga!
+Dialogue: 0,0:01:14.81,0:01:15.66,Murakami,,0,0,0,,{\pos(324.006,194)}HACHIMITSU JIRO
+Dialogue: 0,0:01:14.81,0:01:15.66,Murakami,,0,0,0,,{\pos(316.995,333)}(Tokyo Dynamite)
+Dialogue: 0,0:01:16.20,0:01:19.23,Default,,0,0,0,,His slightly bad-ass stories are top-notch.
+Dialogue: 0,0:01:19.23,0:01:22.00,Default,,0,0,0,,Hachimitsu Jiro from Tokyo Dynamite!
+Dialogue: 0,0:01:22.80,0:01:23.80,Murakami,,0,0,0,,{\pos(322.003,190)}CHAD MULLANE
+Dialogue: 0,0:01:22.80,0:01:23.80,Murakami,,0,0,0,,{\pos(318.998,328)}(Jipangu Jouriku Sakusen)
+Dialogue: 0,0:01:24.09,0:01:26.99,Default,,0,0,0,,A cultural exchange of funny stories.
+Dialogue: 0,0:01:26.99,0:01:29.47,Default,,0,0,0,,Hailing form Australia, he's Jipangu Jouriu Sakusen's
+Dialogue: 0,0:01:29.47,0:01:31.36,Default,,0,0,0,,Chad Mullane!
+Dialogue: 0,0:01:31.36,0:01:34.73,Default,,0,0,0,,Of course, all of the stories told today are...
+Dialogue: 0,0:01:34.73,0:01:36.99,Default,,0,0,0,,...all true storrrrriiieees!
+Dialogue: 0,0:01:36.83,0:01:38.22,Default,,0,0,0,,
+Dialogue: 0,0:01:38.67,0:01:44.65,Default,,0,0,0,,Hitoshi Matsumoto's Suberanai Hanashi 7!
+Dialogue: 0,0:01:44.65,0:01:46.46,Default,,0,0,0,,
+Dialogue: 0,0:01:46.46,0:01:49.20,Default,,0,0,0,,So everyone, we're finally starting!
+Dialogue: 0,0:01:49.20,0:01:51.20,Default,,0,0,0,,Yeah! Let's do this!
+Dialogue: 0,0:01:51.20,0:01:56.04,Default,,0,0,0,,Amazingly, this is now the 7th installment.
+Dialogue: 0,0:01:57.34,0:02:01.07,Default,,0,0,0,,Well, the previous 6th installment was a really ground-breaking compilation episode.
+Dialogue: 0,0:02:01.45,0:02:04.24,Default,,0,0,0,,We had to retell some of our funny stories again here.
+Dialogue: 0,0:02:04.24,0:02:07.74,Default,,0,0,0,,Some people were even retelling another person's story!
+Dialogue: 0,0:02:07.74,0:02:11.13,Default,,0,0,0,,What a fresh, new idea!
+Dialogue: 0,0:02:11.13,0:02:12.43,Default,,0,0,0,,
+Dialogue: 0,0:02:12.43,0:02:15.84,Default,,0,0,0,,We had a blast of a time, and after that
+Dialogue: 0,0:02:15.84,0:02:18.46,Default,,0,0,0,,we were inundated by comedians
+Dialogue: 0,0:02:18.46,0:02:20.94,Default,,0,0,0,,saying they wanted to appear too
+Dialogue: 0,0:02:20.94,0:02:24.64,Default,,0,0,0,,and so we have 5 comedians debuting, all at once today!
+Dialogue: 0,0:02:24.64,0:02:27.88,Default,,0,0,0,,
+Dialogue: 0,0:02:27.88,0:02:31.66,Default,,0,0,0,,Everyone on this side is a newcomer.
+Dialogue: 0,0:02:32.62,0:02:35.55,Default,,0,0,0,,First of all, is Football Hour's Goto!
+Dialogue: 0,0:02:36.36,0:02:38.76,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:02:38.76,0:02:41.69,Default,,0,0,0,,And next is Toshi, from Taka and Toshi.
+Dialogue: 0,0:02:42.16,0:02:44.03,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:02:45.23,0:02:47.64,Default,,0,0,0,,And then Tsukaji from Drunk Dragon.
+Dialogue: 0,0:02:47.64,0:02:49.64,Default,,0,0,0,,It's great to be with you! Thank you!
+Dialogue: 0,0:02:50.57,0:02:54.08,Default,,0,0,0,,And Hachimitsu Jiro from Tokyo Dynamite!
+Dialogue: 0,0:02:54.08,0:02:55.80,Default,,0,0,0,,
+Dialogue: 0,0:02:55.80,0:02:59.82,Default,,0,0,0,,And finally, Chad Mullane from Jipang Jouriku Sakusen!
+Dialogue: 0,0:02:59.82,0:03:02.35,Default,,0,0,0,,
+Dialogue: 0,0:03:02.35,0:03:04.35,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:03:04.35,0:03:08.01,Default,,0,0,0,,There's an intense sense of anxiety, isn't there?
+Dialogue: 0,0:03:08.01,0:03:09.42,Default,,0,0,0,,
+Dialogue: 0,0:03:09.42,0:03:14.01,Default,,0,0,0,,Maybe I shouldn't say this but, this show is now on DVD
+Dialogue: 0,0:03:14.01,0:03:17.36,Default,,0,0,0,,and it has surprisingly sold pretty well and...
+Dialogue: 0,0:03:17.37,0:03:21.42,Default,,0,0,0,,it isn't the reason I do this, but, my bank savings have increased somewhat.
+Dialogue: 0,0:03:21.42,0:03:23.74,Default,,0,0,0,,
+Dialogue: 0,0:03:23.74,0:03:26.17,Default,,0,0,0,,Surely you don't need anymore money!
+Dialogue: 0,0:03:26.17,0:03:29.37,Default,,0,0,0,,It's not the aim of this show. but if you do well on this show
+Dialogue: 0,0:03:29.37,0:03:31.82,Default,,0,0,0,,you will reap the rewards afterwards.
+Dialogue: 0,0:03:31.82,0:03:35.10,Default,,0,0,0,,So 50 billion and how much did you say you have?
+Dialogue: 0,0:03:35.10,0:03:36.44,Default,,0,0,0,,50 billion!?
+Dialogue: 0,0:03:36.44,0:03:37.05,Default,,0,0,0,,I don't!
+Dialogue: 0,0:03:37.15,0:03:39.39,Default,,0,0,0,,Rules are simple.
+Dialogue: 0,0:03:39.39,0:03:42.78,Default,,0,0,0,,They toss an 8-sided die with all of their names on it
+Dialogue: 0,0:03:42.78,0:03:46.03,Default,,0,0,0,,and the person faced up will tell a funny story.
+Dialogue: 0,0:03:46.46,0:03:50.64,Default,,0,0,0,,As long as it's funny, they are allowed to repeat the story as many times as they want.
+Dialogue: 0,0:03:50.64,0:03:55.96,Default,,0,0,0,,It's a very simple show, where they spend one hour only using a die!
+Dialogue: 0,0:03:55.96,0:03:58.91,Default,,0,0,0,,Well then, let's get to it!
+Dialogue: 0,0:03:58.91,0:04:01.68,Default,,0,0,0,,Well here I go! We're starting!
+Dialogue: 0,0:04:02.28,0:04:04.60,whi,,0,0,0,,{\pos(343.036,305)}TOSHI
+Dialogue: 0,0:04:04.60,0:04:06.49,Default,,0,0,0,,Toshi
+Dialogue: 0,0:04:06.70,0:04:08.94,Default,,0,0,0,,Heck yeah....
+Dialogue: 0,0:04:08.94,0:04:10.54,Default,,0,0,0,,So, it's me? Ok.
+Dialogue: 0,0:04:10.54,0:04:12.84,Default,,0,0,0,,There's a junior comedy duo to me called
+Dialogue: 0,0:04:12.84,0:04:14.84,Default,,0,0,0,,Zabungle from a different agency,
+Dialogue: 0,0:04:15.24,0:04:18.40,Default,,0,0,0,,but anyway, they were writing jokes
+Dialogue: 0,0:04:18.40,0:04:21.45,Default,,0,0,0,,at a family restaurant late at night.
+Dialogue: 0,0:04:21.60,0:04:24.67,Default,,0,0,0,,Their skits usually consists of the fool being unreasonable
+Dialogue: 0,0:04:24.67,0:04:27.39,Default,,0,0,0,,and the two end up arguing.
+Dialogue: 0,0:04:27.39,0:04:30.64,Default,,0,0,0,,Anyway, they then began to rehearse it together
+Dialogue: 0,0:04:30.64,0:04:33.40,Default,,0,0,0,,but after a while they got a bit too into it
+Dialogue: 0,0:04:33.40,0:04:35.42,Default,,0,0,0,,and their voices became a bit loud.
+Dialogue: 0,0:04:35.40,0:04:38.48,Default,,0,0,0,,And suddenly, a gentleman wearing a suit
+Dialogue: 0,0:04:38.48,0:04:41.55,Default,,0,0,0,,and a hat slammed his table and said
+Dialogue: 0,0:04:41.55,0:04:44.04,Default,,0,0,0,,"You guys are being really noisy there!"
+Dialogue: 0,0:04:44.04,0:04:46.56,Default,,0,0,0,,"Why are you fighting at a place like this!?"
+Dialogue: 0,0:04:46.56,0:04:48.11,Default,,0,0,0,,"Go outside if you're gonna fight!"
+Dialogue: 0,0:04:48.11,0:04:50.30,Default,,0,0,0,,He thought it was a fight.
+Dialogue: 0,0:04:50.30,0:04:52.65,Default,,0,0,0,,"There are other customers here, you know!"
+Dialogue: 0,0:04:52.65,0:04:54.65,Default,,0,0,0,,The two didn't know what to do, so apologised.
+Dialogue: 0,0:04:54.65,0:04:56.59,Default,,0,0,0,,he yelled "Get your act together!",
+Dialogue: 0,0:04:56.59,0:04:58.84,Default,,0,0,0,,then stood up and told them to step outside.
+Dialogue: 0,0:04:58.84,0:05:01.13,Default,,0,0,0,,Then on the way out he turned and said
+Dialogue: 0,0:05:01.13,0:05:04.22,Default,,0,0,0,,"I've been listening this whole time..." and he looked at the fool
+Dialogue: 0,0:05:04.22,0:05:07.12,Default,,0,0,0,,and goes "You're the one at fault!"
+Dialogue: 0,0:05:07.16,0:05:08.94,Default,,0,0,0,,Of course it is!
+Dialogue: 0,0:05:09.88,0:05:12.33,Default,,0,0,0,,He would've been saying stupid stuff a lot.
+Dialogue: 0,0:05:10.94,0:05:12.68,Default,,0,0,0,,
+Dialogue: 0,0:05:12.68,0:05:14.46,Default,,0,0,0,,
+Dialogue: 0,0:05:14.46,0:05:15.96,Default,,0,0,0,,Of course it is.
+Dialogue: 0,0:05:14.91,0:05:18.56,Default,,0,0,0,,
+Dialogue: 0,0:05:18.56,0:05:21.76,Default,,0,0,0,,Because he only says unreasonable stuff.
+Dialogue: 0,0:05:21.76,0:05:24.12,Default,,0,0,0,,Okay, let's go.
+Dialogue: 0,0:05:24.44,0:05:27.98,whi,,0,0,0,,{\pos(296.964,350)}Miyagawa
+Dialogue: 0,0:05:26.51,0:05:29.08,Default,,0,0,0,,Please wait a second.
+Dialogue: 0,0:05:29.08,0:05:30.51,Default,,0,0,0,,
+Dialogue: 0,0:05:30.51,0:05:34.12,Default,,0,0,0,,Wait, what? You've got 3 books?!
+Dialogue: 0,0:05:34.12,0:05:36.12,Default,,0,0,0,,You've written heaps!
+Dialogue: 0,0:05:36.12,0:05:38.12,Default,,0,0,0,,
+Dialogue: 0,0:05:38.12,0:05:40.12,Default,,0,0,0,,I've decided, this is it.
+Dialogue: 0,0:05:40.12,0:05:43.71,Default,,0,0,0,,When I was in middle school, I was part of the boys scout
+Dialogue: 0,0:05:43.71,0:05:46.76,Default,,0,0,0,,and once you're in middle school,
+Dialogue: 0,0:05:46.76,0:05:49.63,Default,,0,0,0,,you become a leader of some cub scouts.
+Dialogue: 0,0:05:49.63,0:05:54.01,Default,,0,0,0,,Since cub scouts aren't yet in primary school
+Dialogue: 0,0:05:54.01,0:05:57.50,Default,,0,0,0,,they can't sleep in the tents at the campsite
+Dialogue: 0,0:05:57.50,0:06:02.50,Tl Note,,0,0,0,,A ryokan is a traditional Japanese inn
+Dialogue: 0,0:05:57.50,0:06:00.32,Default,,0,0,0,,and have to sleep at a ryokan or something, no matter what.
+Dialogue: 0,0:06:00.32,0:06:04.08,Default,,0,0,0,,So anyway, we hiked for the day, and they stayed at the ryokan.
+Dialogue: 0,0:06:04.08,0:06:08.30,Default,,0,0,0,,And at around 9:30pm, I was told to go and patrol the area.
+Dialogue: 0,0:06:08.30,0:06:10.96,Default,,0,0,0,,So, I went to patrol, and looked around
+Dialogue: 0,0:06:10.96,0:06:13.63,Default,,0,0,0,,where they were sleeping with a torch
+Dialogue: 0,0:06:13.63,0:06:16.44,Default,,0,0,0,,when I saw one of them crying in the corner.
+Dialogue: 0,0:06:16.44,0:06:18.35,Default,,0,0,0,,I thought, "He must be homesick"
+Dialogue: 0,0:06:18.35,0:06:22.80,Default,,0,0,0,,"Homesick on the very first night, huh? I've gotta cheer him up."
+Dialogue: 0,0:06:22.80,0:06:28.01,Default,,0,0,0,,So, I crept up to him, and saw it was a kid called Takeuchi-kun.
+Dialogue: 0,0:06:28.01,0:06:31.72,Default,,0,0,0,,Takeuchi-kun was all sniveling so...
+Dialogue: 0,0:06:31.77,0:06:34.46,Default,,0,0,0,,I asked, "Takeuchi-kun, are you ok?"
+Dialogue: 0,0:06:34.46,0:06:35.90,Default,,0,0,0,,"Why're you crying? Are you Homesick?"
+Dialogue: 0,0:06:35.90,0:06:38.33,Default,,0,0,0,,and he goes "Nooo".
+Dialogue: 0,0:06:38.33,0:06:41.21,Default,,0,0,0,,So I asked, "Huh? Then what's wrong?".
+Dialogue: 0,0:06:41.21,0:06:44.33,Default,,0,0,0,,He slowly took his hand from under the blanket
+Dialogue: 0,0:06:44.33,0:06:48.97,Default,,0,0,0,,and there was a female stag beetle clamped on his thumb.
+Dialogue: 0,0:06:49.04,0:06:50.94,Default,,0,0,0,,Clamped really tight....
+Dialogue: 0,0:06:50.94,0:06:53.82,Default,,0,0,0,,Takeuchi's thumb was getting all white.
+Dialogue: 0,0:06:54.08,0:06:57.53,Default,,0,0,0,,When I asked "What happened, Takeuchi-kun?"
+Dialogue: 0,0:06:57.53,0:07:02.67,Default,,0,0,0,,he said, "I found it while hiking, and put it in my pocket."
+Dialogue: 0,0:07:02.67,0:07:06.17,Default,,0,0,0,,"I just remembered about it so put my hand in to check and it....
+Dialogue: 0,0:07:06.17,0:07:08.80,Default,,0,0,0,,...OW OW OW OWWWCH!"
+Dialogue: 0,0:07:09.23,0:07:13.80,Default,,0,0,0,,As he was speaking the beetle clamped even harder.
+Dialogue: 0,0:07:13.80,0:07:15.42,Default,,0,0,0,,Right at that instant?
+Dialogue: 0,0:07:15.42,0:07:18.40,Default,,0,0,0,,Right at that instant it clamped harder.
+Dialogue: 0,0:07:18.40,0:07:20.04,Default,,0,0,0,,I said, "Are you ok"?
+Dialogue: 0,0:07:20.04,0:07:22.43,Default,,0,0,0,,"No, I just cau...OWWWOWW!!"
+Dialogue: 0,0:07:23.53,0:07:25.92,Default,,0,0,0,,Poor Takeuchi-kun.
+Dialogue: 0,0:07:25.92,0:07:28.35,Default,,0,0,0,,I felt really sorry for him.
+Dialogue: 0,0:07:28.35,0:07:30.22,Default,,0,0,0,,
+Dialogue: 0,0:07:30.22,0:07:31.82,Default,,0,0,0,,
+Dialogue: 0,0:07:31.82,0:07:33.69,Default,,0,0,0,,Well, very funny stories aren't they?
+Dialogue: 0,0:07:33.90,0:07:36.78,Default,,0,0,0,,It's already funny.
+Dialogue: 0,0:07:36.78,0:07:38.46,Default,,0,0,0,,Amazing.
+Dialogue: 0,0:07:38.70,0:07:41.23,whi,,0,0,0,,{\pos(324.006,230)}GOTO
+Dialogue: 0,0:07:40.51,0:07:44.49,Default,,0,0,0,,Errr, this is a story about my mum.
+Dialogue: 0,0:07:44.49,0:07:47.45,Default,,0,0,0,,My mum is a bit strange....
+Dialogue: 0,0:07:47.45,0:07:51.72,Default,,0,0,0,,...for example, she's 50+ years and used money that I sent her
+Dialogue: 0,0:07:51.72,0:07:54.92,Default,,0,0,0,,for plastic surgery to get double eye-lids.
+Dialogue: 0,0:07:54.94,0:07:56.84,Default,,0,0,0,,At that age?
+Dialogue: 0,0:07:56.84,0:08:00.19,Default,,0,0,0,,She's that kind of unusual parent.
+Dialogue: 0,0:08:00.19,0:08:05.64,Default,,0,0,0,,Anyway, when I was in senior high, I brought a girlfriend home for the first time.
+Dialogue: 0,0:08:05.64,0:08:08.33,Default,,0,0,0,,My mum seemed a bit agitated.
+Dialogue: 0,0:08:08.33,0:08:12.04,Default,,0,0,0,,She was thinking like, "Who the heck is this girl?"
+Dialogue: 0,0:08:12.04,0:08:16.11,Default,,0,0,0,,and she said, "Have a seat. I'll cook you some pizza toast."
+Dialogue: 0,0:08:16.11,0:08:18.11,Default,,0,0,0,,How stylish.
+Dialogue: 0,0:08:18.11,0:08:20.11,Default,,0,0,0,,She was showing off a bit, huh?
+Dialogue: 0,0:08:20.11,0:08:22.75,Default,,0,0,0,,Yeah, she wouldn't usually make that stuff.
+Dialogue: 0,0:08:22.75,0:08:26.54,Default,,0,0,0,,She said "Eat", so we were just eating, when...
+Dialogue: 0,0:08:26.54,0:08:31.47,Default,,0,0,0,,....she asked the girlfriend, "What does your dad do?"
+Dialogue: 0,0:08:31.47,0:08:35.77,Default,,0,0,0,,"Oh, my dad is just an ordinary office worker".
+Dialogue: 0,0:08:35.77,0:08:39.20,Default,,0,0,0,,Then my mum goes, "Stop talking, and quickly eat".
+Dialogue: 0,0:08:39.20,0:08:41.79,Default,,0,0,0,,She was totally agitated.
+Dialogue: 0,0:08:41.79,0:08:44.67,Default,,0,0,0,,So I said "Let's go to my room"
+Dialogue: 0,0:08:44.67,0:08:47.08,Default,,0,0,0,,and took my girlfriend to my room.
+Dialogue: 0,0:08:47.08,0:08:51.61,Default,,0,0,0,,But my mum yells, "Wait! You can't close your door though".
+Dialogue: 0,0:08:51.61,0:08:54.38,Default,,0,0,0,,"Ain't ya gonna get up to mischief?"
+Dialogue: 0,0:08:54.38,0:08:56.27,Default,,0,0,0,,"Leave your door open!".
+Dialogue: 0,0:08:56.27,0:08:58.73,Default,,0,0,0,,So I'm like "Fine, fine...." and leaved it open.
+Dialogue: 0,0:08:58.73,0:09:01.34,Default,,0,0,0,,Then my mum says "I'm going shopping".
+Dialogue: 0,0:09:01.34,0:09:03.53,Default,,0,0,0,,"But keep your door open!".
+Dialogue: 0,0:09:04.03,0:09:05.55,Default,,0,0,0,,Wow!
+Dialogue: 0,0:09:05.55,0:09:07.72,Default,,0,0,0,,She wouldn't shut up about it.
+Dialogue: 0,0:09:07.72,0:09:09.87,Default,,0,0,0,,So anyway, she went.
+Dialogue: 0,0:09:09.87,0:09:14.38,Default,,0,0,0,,But since she went, I wanted to close the door...
+Dialogue: 0,0:09:14.38,0:09:18.59,Default,,0,0,0,,...and, you know, do some cheeky stuff.
+Dialogue: 0,0:09:18.59,0:09:22.48,Default,,0,0,0,,So I closed the door but, I was a bit scared
+Dialogue: 0,0:09:22.48,0:09:26.35,Default,,0,0,0,,since mum told me not to, so I kept it open just ajar.
+Dialogue: 0,0:09:26.52,0:09:30.32,Default,,0,0,0,,I couldn't bring myself to shut it completely.
+Dialogue: 0,0:09:30.32,0:09:32.83,Default,,0,0,0,,So I was talking with my girlfriend for a bit and...
+Dialogue: 0,0:09:32.84,0:09:36.56,Default,,0,0,0,,...the mood became good so I put my arms around her
+Dialogue: 0,0:09:36.56,0:09:41.04,Default,,0,0,0,,and was just about to kiss her, when I felt a presence.
+Dialogue: 0,0:09:41.04,0:09:43.66,Default,,0,0,0,,I turned to the gap beween the door,
+Dialogue: 0,0:09:43.66,0:09:46.19,Default,,0,0,0,,and my mum was peeking in.
+Dialogue: 0,0:09:46.25,0:09:50.52,Default,,0,0,0,,Usually when you peek, you peek like this, right?
+Dialogue: 0,0:09:50.52,0:09:54.36,Default,,0,0,0,,My mum was like this.
+Dialogue: 0,0:09:54.36,0:09:55.29,Default,,0,0,0,,
+Dialogue: 0,0:09:55.29,0:09:58.46,Default,,0,0,0,,She wanted to see it properly or something!
+Dialogue: 0,0:09:59.32,0:10:03.24,Default,,0,0,0,,I got pretty pissed off about that and
+Dialogue: 0,0:10:03.24,0:10:05.07,Default,,0,0,0,,yelled "What're you doing mum!?"
+Dialogue: 0,0:10:05.07,0:10:07.29,Default,,0,0,0,,and she jerked her head away,
+Dialogue: 0,0:10:07.29,0:10:10.43,Default,,0,0,0,,but her glasses were still stuck in the gap.
+Dialogue: 0,0:10:09.05,0:10:14.17,Default,,0,0,0,,
+Dialogue: 0,0:10:14.17,0:10:17.58,Default,,0,0,0,,After a short pause, she grabbed it out.
+Dialogue: 0,0:10:17.58,0:10:21.08,Default,,0,0,0,,
+Dialogue: 0,0:10:21.08,0:10:22.17,Default,,0,0,0,,It was only her glasses for a bit?
+Dialogue: 0,0:10:22.30,0:10:23.67,Default,,0,0,0,,It was just her glasses for a bit
+Dialogue: 0,0:10:24.56,0:10:27.20,Default,,0,0,0,,Wow! What a powerful mum!
+Dialogue: 0,0:10:27.24,0:10:29.68,Default,,0,0,0,,She is powerful.
+Dialogue: 0,0:10:29.68,0:10:32.27,Default,,0,0,0,,Well then, here we go.
+Dialogue: 0,0:10:32.76,0:10:36.11,whi,,0,0,0,,{\pos(285.947,273)}TSUKAJI
+Dialogue: 0,0:10:34.06,0:10:37.23,Default,,0,0,0,,Oh wow, it's going to the newcomers a lot today.
+Dialogue: 0,0:10:36.11,0:10:38.11,Default,,0,0,0,,Yes it is.
+Dialogue: 0,0:10:38.11,0:10:41.21,Default,,0,0,0,,This is about when I was in 1st year of senior high.
+Dialogue: 0,0:10:41.21,0:10:43.96,Default,,0,0,0,,My Japanese history teacher was
+Dialogue: 0,0:10:43.96,0:10:45.96,Default,,0,0,0,,very against boys and girls socialising.
+Dialogue: 0,0:10:46.62,0:10:50.14,Default,,0,0,0,,Even if a boy and girl were just talking he'd ask, "What are you talking about?"
+Dialogue: 0,0:10:50.14,0:10:53.18,Default,,0,0,0,,If a boy and girl were walking home, he'd pull them apart too.
+Dialogue: 0,0:10:53.18,0:10:57.04,Default,,0,0,0,,It was so extreme that some students asked  him,
+Dialogue: 0,0:10:57.04,0:10:59.20,Default,,0,0,0,,"Aren't you taking it too far?"
+Dialogue: 0,0:10:59.20,0:11:02.17,Default,,0,0,0,,and he said "I'm not against relationships".
+Dialogue: 0,0:11:02.17,0:11:04.84,Default,,0,0,0,,"I don't care what you do after school
+Dialogue: 0,0:11:04.84,0:11:09.21,Default,,0,0,0,,but I want you to concentrate on school while at school".
+Dialogue: 0,0:11:09.31,0:11:12.68,Default,,0,0,0,,So I thought "Oh, how admirable".
+Dialogue: 0,0:11:12.68,0:11:15.82,Default,,0,0,0,,but the teacher was almost 50 and not married,
+Dialogue: 0,0:11:15.82,0:11:17.92,Default,,0,0,0,,so we asked if he had a partner
+Dialogue: 0,0:11:17.92,0:11:21.16,Default,,0,0,0,,and he said "I don't have one, and don't need one".
+Dialogue: 0,0:11:21.16,0:11:24.30,Default,,0,0,0,,"If I had the time for that, I'd rather
+Dialogue: 0,0:11:24.30,0:11:27.26,Default,,0,0,0,,learn more about Japanese history".
+Dialogue: 0,0:11:27.29,0:11:31.85,Default,,0,0,0,,We were impressed but, he's still a man and...
+Dialogue: 0,0:11:31.85,0:11:34.35,Default,,0,0,0,,...so we asked if he gets frustrated at all
+Dialogue: 0,0:11:34.35,0:11:37.28,Default,,0,0,0,,and he said, "If you're passionate enough about one thing,
+Dialogue: 0,0:11:37.28,0:11:39.66,Default,,0,0,0,,you don't think at all about dirty things".
+Dialogue: 0,0:11:39.68,0:11:43.63,Default,,0,0,0,,So he's like, "I guess you could kinda say,
+Dialogue: 0,0:11:43.63,0:11:46.54,Default,,0,0,0,,Japanese history is my partner".
+Dialogue: 0,0:11:46.54,0:11:49.15,Default,,0,0,0,,It's pretty lame now that I think about it,
+Dialogue: 0,0:11:49.15,0:11:51.69,Default,,0,0,0,,but I thought it was cool at the time.
+Dialogue: 0,0:11:51.69,0:11:54.48,Default,,0,0,0,,Anyway, there was a person called Kurisu Yoshihiko
+Dialogue: 0,0:11:54.48,0:11:56.76,Default,,0,0,0,, in my Japanese history class
+Dialogue: 0,0:11:56.92,0:12:00.24,Default,,0,0,0,,The "kuri" as in chestnut, and "su" as in nest.
+Dialogue: 0,0:11:59.07,0:12:00.47,Default,,0,0,0,,Ohh, so he wasn't half Japanese?
+Dialogue: 0,0:11:59.07,0:12:02.91,Tl Note,,0,0,0,,Kurisu is how Japanese pronounce Chris.
+Dialogue: 0,0:12:00.60,0:12:01.60,Default,,0,0,0,,Yeah, it was his surname.
+Dialogue: 0,0:12:02.32,0:12:04.08,Default,,0,0,0,,Yeah some people have that name.
+Dialogue: 0,0:12:04.08,0:12:08.01,Default,,0,0,0,,So when the teacher tried to get him to answer a question
+Dialogue: 0,0:12:08.01,0:12:10.44,Default,,0,0,0,,he said "Okay, you answer, Toris".
+Dialogue: 0,0:12:10.91,0:12:14.99,Default,,0,0,0,,{\i1\fs28\pos(252.895,56)}*Kurisu-torisu, sounds like Clitoris.{\i0}
+Dialogue: 0,0:12:10.44,0:12:13.84,Default,,0,0,0,,Obviously he was thinking of something dirty!
+Dialogue: 0,0:12:13.84,0:12:17.16,Default,,0,0,0,,He imagined that just from the sound of the name!
+Dialogue: 0,0:12:17.16,0:12:18.80,Default,,0,0,0,,
+Dialogue: 0,0:12:18.80,0:12:20.80,Default,,0,0,0,,He was thinking of the later half.
+Dialogue: 0,0:12:20.80,0:12:22.80,Default,,0,0,0,,
+Dialogue: 0,0:12:22.80,0:12:25.10,Default,,0,0,0,,
+Dialogue: 0,0:12:25.10,0:12:28.14,Default,,0,0,0,,He must've thought it sounded like something!
+Dialogue: 0,0:12:28.14,0:12:30.28,Default,,0,0,0,,
+Dialogue: 0,0:12:30.28,0:12:33.20,Default,,0,0,0,,It was totally inspired by that!
+Dialogue: 0,0:12:33.66,0:12:34.86,Default,,0,0,0,,
+Dialogue: 0,0:12:34.86,0:12:37.29,Default,,0,0,0,,Yeah kinda sounds like another word
+Dialogue: 0,0:12:37.29,0:12:40.48,Default,,0,0,0,,Man, that's horrible. Everyone's faces would've turned red.
+Dialogue: 0,0:12:40.97,0:12:45.32,Default,,0,0,0,,The teacher was the reddest, so no doubt it's what he was thinking about.
+Dialogue: 0,0:12:45.32,0:12:48.04,Default,,0,0,0,,Oh nice. Nice stories, hey?
+Dialogue: 0,0:12:48.04,0:12:50.04,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:12:50.04,0:12:52.04,Default,,0,0,0,,{\pos(314.992,308)}MIYAGAWA
+Dialogue: 0,0:12:52.04,0:12:54.04,Default,,0,0,0,,
+Dialogue: 0,0:12:55.05,0:12:57.63,Default,,0,0,0,,Can't you do something about that?
+Dialogue: 0,0:12:55.88,0:12:57.60,Default,,0,0,0,,Nope.
+Dialogue: 0,0:12:58.17,0:13:00.19,Default,,0,0,0,,Please hurry up!
+Dialogue: 0,0:13:00.19,0:13:02.19,Default,,0,0,0,,Stop complaining!
+Dialogue: 0,0:13:02.19,0:13:04.19,Default,,0,0,0,,But he does it every time.
+Dialogue: 0,0:13:03.20,0:13:05.32,Default,,0,0,0,,Yeah, I know.
+Dialogue: 0,0:13:05.32,0:13:06.48,Default,,0,0,0,,
+Dialogue: 0,0:13:06.48,0:13:09.21,Default,,0,0,0,,It says "Funny Story #7".
+Dialogue: 0,0:13:09.21,0:13:10.96,Default,,0,0,0,,
+Dialogue: 0,0:13:10.96,0:13:13.53,Default,,0,0,0,,You don't need a title!
+Dialogue: 0,0:13:13.53,0:13:16.84,Default,,0,0,0,,Just so you don't mistake it with #8.
+Dialogue: 0,0:13:17.36,0:13:18.92,Default,,0,0,0,,I'll go with this one.
+Dialogue: 0,0:13:18.92,0:13:22.06,Default,,0,0,0,,This is about when I was in 1st Grade of middle school.
+Dialogue: 0,0:13:22.06,0:13:26.43,Default,,0,0,0,,My math teacher was a man called Mr. Terao.
+Dialogue: 0,0:13:26.43,0:13:30.89,Default,,0,0,0,,He was such a strange teacher, we nicknamed him "Monsieur Terao".
+Dialogue: 0,0:13:30.89,0:13:33.96,Default,,0,0,0,,His hair was naturally curly, but had an undercut and....
+Dialogue: 0,0:13:33.96,0:13:39.82,Default,,0,0,0,,...he had on coke bottle glasses, while wearing track pants
+Dialogue: 0,0:13:39.82,0:13:45.26,Default,,0,0,0,,So, anyway, when he's writing on the board, his ass pops out.
+Dialogue: 0,0:13:45.26,0:13:47.04,Default,,0,0,0,,'Cuz he writes like this.
+Dialogue: 0,0:13:47.04,0:13:50.20,Default,,0,0,0,,We can't help chuckling when we see that.
+Dialogue: 0,0:13:50.20,0:13:53.80,Default,,0,0,0,,And when we laugh, he goes, *clap, clap*, "You there, no laughing!"
+Dialogue: 0,0:13:53.80,0:13:57.84,Default,,0,0,0,,He's like, "You there, no laughing".
+Dialogue: 0,0:13:57.84,0:14:01.76,Default,,0,0,0,,And we'd see that, and laugh again. So that's what he was like.
+Dialogue: 0,0:14:01.76,0:14:04.91,Default,,0,0,0,,I liked that teacher, and enjoyed seeing him.
+Dialogue: 0,0:14:04.91,0:14:09.92,Default,,0,0,0,,Anyway, around the end of the first semester
+Dialogue: 0,0:14:09.92,0:14:16.59,Default,,0,0,0,,the teacher came to class with a broken arm, cracked front teeth and scrape marks.
+Dialogue: 0,0:14:16.59,0:14:19.63,Default,,0,0,0,,And he's casually like, "Okay, let's get started".
+Dialogue: 0,0:14:19.63,0:14:23.37,Default,,0,0,0,,But a student asked "Um, err, what happened to you, sir?"
+Dialogue: 0,0:14:23.37,0:14:28.27,Default,,0,0,0,,and he said, "Well actually, I stayed at school until quite late last night and....
+Dialogue: 0,0:14:28.28,0:14:31.93,Default,,0,0,0,,...it was hot so I decided to swim in the pool before going home".
+Dialogue: 0,0:14:31.93,0:14:36.68,Default,,0,0,0,,"So, I went to the pool, but the lights were off and it was pitch black".
+Dialogue: 0,0:14:36.68,0:14:39.76,Default,,0,0,0,,"Anyway, I took off my glasses and jumped in".
+Dialogue: 0,0:14:39.76,0:14:44.32,Default,,0,0,0,,"I jumped in but, there was no water inside".
+Dialogue: 0,0:14:44.99,0:14:48.32,Default,,0,0,0,,
+Dialogue: 0,0:14:48.03,0:14:49.42,Default,,0,0,0,,What an utter fail!
+Dialogue: 0,0:14:49.42,0:14:52.41,Default,,0,0,0,,His eyes are so bad he needs coke bottle glasses so...
+Dialogue: 0,0:14:52.41,0:14:55.71,Default,,0,0,0,,...he couldn't anything, so when he jumped in he crashed
+Dialogue: 0,0:14:55.71,0:14:57.93,Default,,0,0,0,,
+Dialogue: 0,0:14:57.93,0:14:59.76,Default,,0,0,0,,What a massive fail!
+Dialogue: 0,0:14:59.21,0:15:01.76,Default,,0,0,0,,It was an utter fail!
+Dialogue: 0,0:15:01.76,0:15:04.33,Default,,0,0,0,,He dived straight in?
+Dialogue: 0,0:15:04.33,0:15:08.03,Default,,0,0,0,,Everyone who heard that, started laughing....
+Dialogue: 0,0:15:08.03,0:15:10.94,Default,,0,0,0,,...and he goes, "No laughing!".
+Dialogue: 0,0:15:12.30,0:15:14.94,Default,,0,0,0,,
+Dialogue: 0,0:15:14.94,0:15:16.43,Default,,0,0,0,,
+Dialogue: 0,0:15:16.43,0:15:18.01,Default,,0,0,0,,
+Dialogue: 0,0:15:18.01,0:15:21.08,Default,,0,0,0,,It was the day when they changed the water.
+Dialogue: 0,0:15:21.08,0:15:23.85,Default,,0,0,0,,Funny stuff.... Here I go.
+Dialogue: 0,0:15:23.85,0:15:25.85,Default,,0,0,0,,{\pos(266.917,284)}GOTO
+Dialogue: 0,0:15:25.85,0:15:28.67,Default,,0,0,0,,Hooooh, I see.
+Dialogue: 0,0:15:29.48,0:15:33.40,Default,,0,0,0,,In addition to my mother....
+Dialogue: 0,0:15:33.40,0:15:37.40,Default,,0,0,0,,...my dad is also quite a weird person.
+Dialogue: 0,0:15:37.40,0:15:40.67,Default,,0,0,0,,Or rather than weird, should I say, he has no aspirations.
+Dialogue: 0,0:15:40.67,0:15:43.23,Default,,0,0,0,,He doesn't give kids things to aspire about.
+Dialogue: 0,0:15:43.23,0:15:46.30,Default,,0,0,0,,I was in the lower grades of primary school and...
+Dialogue: 0,0:15:46.30,0:15:49.61,Default,,0,0,0,,...on the night of Christmas Eve...
+Dialogue: 0,0:15:49.63,0:15:54.84,Default,,0,0,0,,...I was waiting impatiently in bed for Santa to bring presents.
+Dialogue: 0,0:15:54.84,0:16:00.19,Default,,0,0,0,,I was thinking, "Surely he'll bring presents, even next to my pillow!".
+Dialogue: 0,0:16:00.24,0:16:04.17,Default,,0,0,0,,So, it was midnight, and I had fallen asleep.
+Dialogue: 0,0:16:04.17,0:16:06.94,Default,,0,0,0,,The front door slams open and someone yells
+Dialogue: 0,0:16:06.94,0:16:10.22,Default,,0,0,0,,"HEEEEY!! SANTA'S BACK HOME!"
+Dialogue: 0,0:16:10.22,0:16:13.24,Default,,0,0,0,,and it was dad returning home.
+Dialogue: 0,0:16:13.24,0:16:14.59,Default,,0,0,0,,How obvious.
+Dialogue: 0,0:16:14.59,0:16:17.31,Default,,0,0,0,,I was like, "Well this sucks".
+Dialogue: 0,0:16:17.31,0:16:20.54,Default,,0,0,0,,He screams, "I BOUGHT YA'LL A PRESENT!".
+Dialogue: 0,0:16:20.54,0:16:23.64,Default,,0,0,0,,He even gives away that he bought it.
+Dialogue: 0,0:16:23.64,0:16:25.23,Default,,0,0,0,,He's saying everything.
+Dialogue: 0,0:16:25.23,0:16:29.37,Default,,0,0,0,,And he goes "Oh, sleepin' soundly eh? I'll leave your present here!".
+Dialogue: 0,0:16:29.37,0:16:31.90,Default,,0,0,0,,I pretended to be asleep...
+Dialogue: 0,0:16:31.90,0:16:35.50,Default,,0,0,0,,...thinking, "Oh well, he got me a present, it's okay I guess."
+Dialogue: 0,0:16:35.50,0:16:39.85,Default,,0,0,0,,The next morning I woke up excited to open it up
+Dialogue: 0,0:16:39.85,0:16:43.82,Default,,0,0,0,,so I looked next to my pillow, and the present was a library book.
+Dialogue: 0,0:16:43.82,0:16:45.44,Default,,0,0,0,,
+Dialogue: 0,0:16:46.78,0:16:47.85,Default,,0,0,0,,
+Dialogue: 0,0:16:47.85,0:16:50.78,Default,,0,0,0,,A library book!
+Dialogue: 0,0:16:50.78,0:16:51.78,Default,,0,0,0,,He borrowed it!
+Dialogue: 0,0:16:51.78,0:16:55.68,Default,,0,0,0,,Yes, and I had to go return it 2 days later!
+Dialogue: 0,0:16:56.03,0:16:58.57,Default,,0,0,0,,
+Dialogue: 0,0:16:58.57,0:17:03.64,Default,,0,0,0,,And the book was also called, "New Years Around The World".
+Dialogue: 0,0:17:03.64,0:17:05.64,Default,,0,0,0,,It has nothing to do with Christmas!
+Dialogue: 0,0:17:05.64,0:17:08.92,Default,,0,0,0,,He's already thinking of something 1 week later!
+Dialogue: 0,0:17:08.92,0:17:10.01,Default,,0,0,0,,
+Dialogue: 0,0:17:10.01,0:17:13.39,Default,,0,0,0,,It's hard to tell if he has aspirations or not.
+Dialogue: 0,0:17:14.64,0:17:17.98,Default,,0,0,0,,It's starting to be a bit one-sided today.
+Dialogue: 0,0:17:17.98,0:17:20.48,Default,,0,0,0,,{\pos(373.083,249)}TSUKAJI
+Dialogue: 0,0:17:20.70,0:17:23.88,Default,,0,0,0,,This is about my comedy partner, Suzuki.
+Dialogue: 0,0:17:23.88,0:17:31.16,Default,,0,0,0,,
+Dialogue: 0,0:17:31.16,0:17:35.47,Default,,0,0,0,,
+Dialogue: 0,0:17:35.47,0:17:37.21,Default,,0,0,0,,Urgent announcement!!
+Dialogue: 0,0:17:37.21,0:17:41.42,Default,,0,0,0,,Due to rave reviews of Hitoshi Matsymoto's Suberanai Hanashi Episode 1
+Dialogue: 0,0:17:41.42,0:17:43.08,Default,,0,0,0,,we've decided to release a 2nd installment!
+Dialogue: 0,0:17:43.08,0:17:46.86,Default,,0,0,0,,For more information, visit the show's homepage address!
+Dialogue: 0,0:17:46.86,0:17:48.56,Default,,0,0,0,,The DVD this time will again be...!?
+Dialogue: 0,0:17:48.56,0:17:50.11,Default,,0,0,0,,Funny stuff!
+Dialogue: 0,0:17:50.11,0:17:53.42,Default,,0,0,0,,This is about my comedy partner, Suzuki.
+Dialogue: 0,0:17:53.42,0:17:57.02,Default,,0,0,0,,I'm sure many have noticed already but.....
+Dialogue: 0,0:17:57.02,0:18:00.96,Default,,0,0,0,,....he's quite unbelievably stupid.
+Dialogue: 0,0:18:00.96,0:18:05.74,Default,,0,0,0,,For example, he'd endlessly blow on noodles that are served cold.
+Dialogue: 0,0:18:05.74,0:18:06.67,Default,,0,0,0,,
+Dialogue: 0,0:18:06.67,0:18:08.91,Default,,0,0,0,,
+Dialogue: 0,0:18:08.91,0:18:11.36,Default,,0,0,0,,And that wasn't only once.
+Dialogue: 0,0:18:11.36,0:18:14.27,Default,,0,0,0,,I even told him, "That's cold so you don't have to blow it".
+Dialogue: 0,0:18:14.27,0:18:18.59,Default,,0,0,0,,and he's like "Oh yeah!", but it seems like he can't eat it without blowing.
+Dialogue: 0,0:18:18.59,0:18:21.02,Default,,0,0,0,,That's how weird he is.
+Dialogue: 0,0:18:21.02,0:18:25.61,Default,,0,0,0,,We were with Ogi-Yahagi and ordered some food to be delivered to our agency.
+Dialogue: 0,0:18:25.61,0:18:30.08,Default,,0,0,0,,We wanted lunch, but couldn't be bothered going out for it, so go it delivered.
+Dialogue: 0,0:18:30.08,0:18:35.92,Default,,0,0,0,,We got Suzuki to call them, and told him to order the curry and whatnot that Ogi and Yahagi wanted.
+Dialogue: 0,0:18:35.92,0:18:39.39,Default,,0,0,0,,So Suzuki went off and called a place and said,
+Dialogue: 0,0:18:39.39,0:18:43.63,Default,,0,0,0,,"Hello. Mr. Ogi wants curry, and Mr. Yahagi wants a katsu lunch box and..."
+Dialogue: 0,0:18:43.63,0:18:46.91,Default,,0,0,0,,Even though the other guy wouldn't know who they are!
+Dialogue: 0,0:18:46.91,0:18:48.20,Default,,0,0,0,,
+Dialogue: 0,0:18:48.20,0:18:51.04,Default,,0,0,0,,How embarrassing.
+Dialogue: 0,0:18:51.12,0:18:56.68,Default,,0,0,0,,Also, the thing that shocked me the most happened when we did a show with animals.
+Dialogue: 0,0:18:56.68,0:19:02.78,Default,,0,0,0,,We've done work with giraffes several times...
+Dialogue: 0,0:19:02.78,0:19:05.24,Default,,0,0,0,,...and at the time me and other staff are on site
+Dialogue: 0,0:19:05.24,0:19:08.36,Default,,0,0,0,,but for some reason, Suzuki and the giraffe....
+Dialogue: 0,0:19:08.36,0:19:10.99,Default,,0,0,0,,Well, let's say, Suzuki is standing here.
+Dialogue: 0,0:19:10.99,0:19:14.30,Default,,0,0,0,,The giraffe would swing his head back and smash him away.
+Dialogue: 0,0:19:14.46,0:19:15.20,Default,,0,0,0,,The giraffe does?
+Dialogue: 0,0:19:15.24,0:19:18.64,Default,,0,0,0,,Yes. It happened to Suzuki twice and...
+Dialogue: 0,0:19:18.64,0:19:22.52,Default,,0,0,0,,...even the zoo keeper was like "I've never seen that happen before".
+Dialogue: 0,0:19:22.52,0:19:23.71,Default,,0,0,0,,
+Dialogue: 0,0:19:23.71,0:19:28.43,Default,,0,0,0,,Apparently, Giraffe's only do that when they perceive someone as an enemy.
+Dialogue: 0,0:19:28.43,0:19:34.22,Default,,0,0,0,,For some reason giraffes think Suzuki's an enemy, and they all go and slam him away!
+Dialogue: 0,0:19:34.22,0:19:36.22,Default,,0,0,0,,
+Dialogue: 0,0:19:36.22,0:19:38.22,Default,,0,0,0,,
+Dialogue: 0,0:19:38.22,0:19:43.21,Default,,0,0,0,,Something's wrong with him, if giraffes think of him that way.
+Dialogue: 0,0:19:44.38,0:19:47.48,Default,,0,0,0,,Somethings different about his biological makeup.
+Dialogue: 0,0:19:47.48,0:19:48.41,Default,,0,0,0,,
+Dialogue: 0,0:19:48.00,0:19:50.41,Default,,0,0,0,,That's funny, wow.
+Dialogue: 0,0:19:50.41,0:19:52.41,Default,,0,0,0,,Hey Junior, can you toss it?
+Dialogue: 0,0:19:52.41,0:19:56.35,Default,,0,0,0,,Chad and Hachimitsu haven't spoken yet?
+Dialogue: 0,0:19:56.35,0:19:56.86,Default,,0,0,0,,
+Dialogue: 0,0:19:56.86,0:19:59.71,Default,,0,0,0,,Hopefully soon, or it'd get harder to speak.
+Dialogue: 0,0:19:59.71,0:20:01.45,Default,,0,0,0,,Here I go then.
+Dialogue: 0,0:20:01.45,0:20:04.40,Default,,0,0,0,,{\pos(415.149,233)}TSUKAJI
+Dialogue: 0,0:20:04.40,0:20:05.87,Default,,0,0,0,,
+Dialogue: 0,0:20:05.87,0:20:07.58,Default,,0,0,0,,Maybe it's Tsukaji day today?
+Dialogue: 0,0:20:07.58,0:20:12.92,Default,,0,0,0,,Well, let's see...this is a story of when I was in middle school.
+Dialogue: 0,0:20:12.92,0:20:15.88,Default,,0,0,0,,At the time, Bebop Highschool was very popular and...
+Dialogue: 0,0:20:15.88,0:20:19.72,Default,,0,0,0,,...it was a time when everyone looked up to delinquents.
+Dialogue: 0,0:20:19.72,0:20:24.60,Default,,0,0,0,,There were incidences like people getting hunted for uniforms by kids from other schools.
+Dialogue: 0,0:20:24.60,0:20:28.78,Default,,0,0,0,,Anyway, when I was in 3rd grade of middle school
+Dialogue: 0,0:20:28.78,0:20:32.14,Default,,0,0,0,,there was like an uprising of the 2nd years.
+Dialogue: 0,0:20:32.25,0:20:34.25,Default,,0,0,0,,Yes, there was a strange time like that.
+Dialogue: 0,0:20:34.25,0:20:39.02,Default,,0,0,0,,Anyway, one day after school, I think in summer...
+Dialogue: 0,0:20:39.02,0:20:41.55,Default,,0,0,0,,I was changing in the kendo club locker room when...
+Dialogue: 0,0:20:41.55,0:20:46.84,Default,,0,0,0,,five of the 3rd year delinquent guys came in.
+Dialogue: 0,0:20:46.84,0:20:51.05,Default,,0,0,0,,But they were all friends of mine from primary school...
+Dialogue: 0,0:20:51.05,0:20:55.71,Default,,0,0,0,,and they said "We're going to go and brawl with the 2nd graders now".
+Dialogue: 0,0:20:55.71,0:21:00.17,Default,,0,0,0,,This was because the 2nd graders wouldn't pay respect to the 3rd graders.
+Dialogue: 0,0:21:00.17,0:21:02.99,Default,,0,0,0,,As they thought they were tougher than 3rd years.
+Dialogue: 0,0:21:02.99,0:21:07.82,Default,,0,0,0,,They wanted all 3rd graders to greet 2nd graders, or something.
+Dialogue: 0,0:21:07.82,0:21:12.16,Default,,0,0,0,,They wanted to gather as many fighters as they could, so they asked me to come.
+Dialogue: 0,0:21:12.16,0:21:15.93,Default,,0,0,0,,I wasn't necessarily a fierce guy, but they were all my friends so....
+Dialogue: 0,0:21:15.93,0:21:18.72,Default,,0,0,0,,I said "Ok, I'll go", and so I did.
+Dialogue: 0,0:21:18.72,0:21:24.20,Default,,0,0,0,,And seriously, there was about thirty 3rd graders gathered near a lake
+Dialogue: 0,0:21:24.20,0:21:26.20,Default,,0,0,0,,waiting for the 2nd graders.
+Dialogue: 0,0:21:26.20,0:21:29.04,Default,,0,0,0,,Eventually the 2nd graders appeared and...
+Dialogue: 0,0:21:29.04,0:21:35.05,Default,,0,0,0,,there were only about 20, but they all had wooden swords and kendo sticks.
+Dialogue: 0,0:21:35.05,0:21:39.07,Default,,0,0,0,,The 3rd graders were yelling like, "Hey, those cheaters have wooden swords and stuff!".
+Dialogue: 0,0:21:39.07,0:21:42.44,Default,,0,0,0,,When I looked closer, they were all from my club.
+Dialogue: 0,0:21:42.44,0:21:46.92,Default,,0,0,0,,They were the wooden swords and bamboo sticks from my kendo clubroom
+Dialogue: 0,0:21:46.92,0:21:50.20,Default,,0,0,0,,and since I was kendo captain I was worried about getting in trouble
+Dialogue: 0,0:21:50.20,0:21:52.75,Default,,0,0,0,,and peoples' kendo stick getting wrecked.
+Dialogue: 0,0:21:52.99,0:21:57.13,Default,,0,0,0,,When I looked at their leader, the stick that he held
+Dialogue: 0,0:21:57.13,0:22:01.80,Default,,0,0,0,,was the stick that I use for official bouts, and take extremely good care of!
+Dialogue: 0,0:22:01.80,0:22:04.33,Default,,0,0,0,,I used to repair the leather on it...
+Dialogue: 0,0:22:04.33,0:22:09.90,Tl Note,,0,0,0,,The tsuba is the hand guard on the sword.
+Dialogue: 0,0:22:04.33,0:22:09.90,Default,,0,0,0,,...and even the tsuba, I went all the way from Osaka to a shop in Wakayama to get it!
+Dialogue: 0,0:22:10.59,0:22:13.87,Default,,0,0,0,,I knew for sure it was mine!
+Dialogue: 0,0:22:13.87,0:22:16.84,Default,,0,0,0,,Anyway, a junior from the kendo club looking sorry over there.
+Dialogue: 0,0:22:16.84,0:22:20.08,Default,,0,0,0,,He was my junior, so I was like "What the heck are ya doin'!?"
+Dialogue: 0,0:22:20.08,0:22:24.65,Default,,0,0,0,,"I've got a fight in one month, and I was planning to use that stick so....
+Dialogue: 0,0:22:24.65,0:22:26.97,Default,,0,0,0,,...I'm gonna be pissed if it breaks!"
+Dialogue: 0,0:22:26.97,0:22:29.63,Default,,0,0,0,,But then everyone was going "Let's gooooo!".
+Dialogue: 0,0:22:29.63,0:22:33.64,Default,,0,0,0,,and the 3rd and 2nd graders were all out brawling
+Dialogue: 0,0:22:33.64,0:22:37.66,Default,,0,0,0,,while I found that junior, and was yelling "Why did ya give it to him!?"
+Dialogue: 0,0:22:37.66,0:22:39.45,Default,,0,0,0,,"Why did ya give everyone kendo sticks!!"
+Dialogue: 0,0:22:39.45,0:22:42.68,Default,,0,0,0,,While everyone was arguing about who's gonna greet who,
+Dialogue: 0,0:22:42.68,0:22:46.38,Default,,0,0,0,,I just kept banging on about the kendo sticks.
+Dialogue: 0,0:22:46.40,0:22:49.21,Default,,0,0,0,,Well, that's quite an incident.
+Dialogue: 0,0:22:49.21,0:22:50.25,Default,,0,0,0,,
+Dialogue: 0,0:22:50.25,0:22:51.12,Default,,0,0,0,,
+Dialogue: 0,0:22:51.12,0:22:53.12,Default,,0,0,0,,{\pos(309.984,266)}MATSUMOTO
+Dialogue: 0,0:22:52.56,0:22:54.59,Default,,0,0,0,,So now's, the time?
+Dialogue: 0,0:22:54.59,0:23:02.60,Default,,0,0,0,,Well I think you've begun to sense that my mum is also quite strange.
+Dialogue: 0,0:23:02.60,0:23:05.08,Default,,0,0,0,,This happened today. Seriously, today.
+Dialogue: 0,0:23:05.08,0:23:09.10,Default,,0,0,0,,A certain tv program showed me doing the opening baseball pitch at a game
+Dialogue: 0,0:23:09.10,0:23:12.80,Default,,0,0,0,,and my mum called me saying, "That was nice....." and stuff.
+Dialogue: 0,0:23:13.24,0:23:15.85,Default,,0,0,0,,She often lies a lot. She said, "It was nice....
+Dialogue: 0,0:23:15.85,0:23:18.78,Default,,0,0,0,,EVERYONE in Amagasaki is saying so."
+Dialogue: 0,0:23:16.92,0:23:18.83,Tl Note,,0,0,0,,Amagasaki: Matsumoto's home town.
+Dialogue: 0,0:23:18.19,0:23:19.60,Default,,0,0,0,,
+Dialogue: 0,0:23:19.60,0:23:22.84,Default,,0,0,0,,As if they would be.
+Dialogue: 0,0:23:22.84,0:23:23.84,Default,,0,0,0,,
+Dialogue: 0,0:23:23.84,0:23:26.57,Default,,0,0,0,,That's definitely a lie!
+Dialogue: 0,0:23:26.57,0:23:32.17,Default,,0,0,0,,She's a strange mother, but when I was about 20 years old...
+Dialogue: 0,0:23:32.17,0:23:34.92,Default,,0,0,0,,Well, actually, I'm the youngest out of three children and...
+Dialogue: 0,0:23:34.92,0:23:39.29,Default,,0,0,0,,...I had turned 20, so she said that she was lonely.
+Dialogue: 0,0:23:37.45,0:23:40.57,Default,,0,0,0,,
+Dialogue: 0,0:23:39.32,0:23:45.15,Default,,0,0,0,,And she said "You've all become adults, so I want another child."
+Dialogue: 0,0:23:45.15,0:23:48.33,Default,,0,0,0,,But it's kinda impossible for her to bear a child at her age.
+Dialogue: 0,0:23:48.33,0:23:51.77,Default,,0,0,0,,Anyway, I don't know what she was thinking but
+Dialogue: 0,0:23:51.77,0:23:56.11,Default,,0,0,0,,when I came home one day, she was holding a toy baby...
+Dialogue: 0,0:23:56.11,0:24:00.52,Default,,0,0,0,,...and said, "From today, this is my child".
+Dialogue: 0,0:24:01.63,0:24:04.20,Default,,0,0,0,,She even named it Akira!
+Dialogue: 0,0:24:04.20,0:24:05.77,Default,,0,0,0,,
+Dialogue: 0,0:24:05.77,0:24:08.91,Default,,0,0,0,,She's like "Ain't that right, Akira? Ain't that riiight?"
+Dialogue: 0,0:24:08.91,0:24:10.70,Default,,0,0,0,,
+Dialogue: 0,0:24:10.70,0:24:12.75,Default,,0,0,0,,That's creepy!
+Dialogue: 0,0:24:12.75,0:24:17.63,Default,,0,0,0,,And when I come home at night she'd wander out while holding Akira.
+Dialogue: 0,0:24:17.63,0:24:19.63,Default,,0,0,0,,
+Dialogue: 0,0:24:19.63,0:24:23.64,Default,,0,0,0,,She's say "Just heat up that curry for dinner! Heat up the curry!"
+Dialogue: 0,0:24:23.64,0:24:27.04,Default,,0,0,0,,"Ain't that right, Akira? Ain't that riiight?"
+Dialogue: 0,0:24:27.04,0:24:27.88,Default,,0,0,0,,Scary, right?
+Dialogue: 0,0:24:28.03,0:24:29.00,Default,,0,0,0,,Yeahhh.
+Dialogue: 0,0:24:29.36,0:24:33.18,Default,,0,0,0,,But 2 months later, Akira was abandoned and lying like this.
+Dialogue: 0,0:24:33.72,0:24:36.32,Default,,0,0,0,,
+Dialogue: 0,0:24:36.32,0:24:37.61,Default,,0,0,0,,
+Dialogue: 0,0:24:37.61,0:24:42.44,Default,,0,0,0,,She's a really creepy mother.
+Dialogue: 0,0:24:42.44,0:24:43.72,Default,,0,0,0,,
+Dialogue: 0,0:24:43.72,0:24:45.72,Default,,0,0,0,,Here we go then.
+Dialogue: 0,0:24:44.83,0:24:46.89,Default,,0,0,0,,{\pos(347.042,249)}CHIHARA
+Dialogue: 0,0:24:46.40,0:24:48.89,Default,,0,0,0,,Ummm....
+Dialogue: 0,0:24:48.89,0:24:51.61,Default,,0,0,0,,This just happened the other day.
+Dialogue: 0,0:24:51.61,0:24:57.13,Default,,0,0,0,,Currently, the Yoshimoto Shinkigeki is visiting all around the country for their national tour.
+Dialogue: 0,0:24:57.13,0:25:01.93,Default,,0,0,0,,So people like Imada, Itao, Kimu-nii and others do various stuff
+Dialogue: 0,0:25:01.93,0:25:07.47,Default,,0,0,0,,but the practice for that occurs in the Lumine at midnight after all other shows end.
+Dialogue: 0,0:25:07.47,0:25:10.80,Default,,0,0,0,,Anyway, I love Shishaku Shisho and always listen
+Dialogue: 0,0:25:10.80,0:25:13.93,Default,,0,0,0,,to his rakugo tapes while driving to practice.
+Dialogue: 0,0:25:13.93,0:25:17.48,Default,,0,0,0,,Lumine has an underground car park so I parked there and went up in the elevator
+Dialogue: 0,0:25:17.48,0:25:19.16,Default,,0,0,0,,to practice with them at night.
+Dialogue: 0,0:25:19.16,0:25:23.66,Default,,0,0,0,,Then my manager says "Excuse me, can I please borrow your car keys?"
+Dialogue: 0,0:25:23.66,0:25:25.23,Default,,0,0,0,,so I asked why,
+Dialogue: 0,0:25:25.23,0:25:30.99,Default,,0,0,0,,and he said that there was nighttime construction going on, and the cars had to be moved outside for a bit.
+Dialogue: 0,0:25:30.99,0:25:34.48,Default,,0,0,0,,So they had to take out everyone's cars, including Imada and Kimu-Nii.
+Dialogue: 0,0:25:34.48,0:25:37.85,Default,,0,0,0,,I was like, "Okay, go ahead then".
+Dialogue: 0,0:25:37.85,0:25:42.08,Default,,0,0,0,,but my managaer, Inagaki, is a paper driver, and has never driven once since getting his license.
+Dialogue: 0,0:25:42.72,0:25:48.59,Default,,0,0,0,,So, I assumed he'd pass the key to one of the many other Yoshimoto managers and get them to move my car.
+Dialogue: 0,0:25:48.59,0:25:51.71,Default,,0,0,0,,So he went off to do that, and practice finished around 3:30am.
+Dialogue: 0,0:25:51.71,0:25:56.01,Default,,0,0,0,,We began to leave, and they announced that Imada's car had been returned to the car park.
+Dialogue: 0,0:25:56.01,0:26:01.05,Default,,0,0,0,,So Imada leaved, and then next Kimu-nii's car came, so he leaved.
+Dialogue: 0,0:26:01.05,0:26:05.96,Default,,0,0,0,,But mine wouldn't come at all! Even after waiting 30 minutes!
+Dialogue: 0,0:26:05.96,0:26:10.25,Default,,0,0,0,,It was strange so I went downstairs, but it wouldn't come
+Dialogue: 0,0:26:10.25,0:26:15.36,Default,,0,0,0,,so I walked to the car park where they said they moved it to
+Dialogue: 0,0:26:15.36,0:26:19.05,Default,,0,0,0,,when some other guy's manager came and said
+Dialogue: 0,0:26:19.05,0:26:23.08,Default,,0,0,0,,"I'm sorry, Inagaki crashed your car".
+Dialogue: 0,0:26:23.08,0:26:27.15,Default,,0,0,0,,"Whaaat!? Why did you let Inagaki drive it?!"
+Dialogue: 0,0:26:27.15,0:26:30.67,Default,,0,0,0,,But you know how Yoshimoto is like.
+Dialogue: 0,0:26:30.67,0:26:32.72,Default,,0,0,0,,Inagaki probably said he can't drive
+Dialogue: 0,0:26:32.72,0:26:36.86,Default,,0,0,0,,but his seniors were probably like "I don't give a damn! We're low on help!!"
+Dialogue: 0,0:26:36.86,0:26:40.30,Default,,0,0,0,,So he probably was forced to drive for the first time since being licensed.
+Dialogue: 0,0:26:40.30,0:26:43.98,Default,,0,0,0,,When I went to the car park, the head lights were off
+Dialogue: 0,0:26:43.98,0:26:48.28,Default,,0,0,0,,and it was slightly ahead of the park space, and the doors were wide open.
+Dialogue: 0,0:26:48.28,0:26:52.24,Default,,0,0,0,,I look at the front and there's a massive dent.
+Dialogue: 0,0:26:52.24,0:26:53.93,Default,,0,0,0,,Quite a huge dent.
+Dialogue: 0,0:26:53.93,0:26:58.54,Default,,0,0,0,,I was like, "How did you hit it there!?", it was right down the middle!
+Dialogue: 0,0:26:58.54,0:26:59.54,Default,,0,0,0,,Yeah just from parking?
+Dialogue: 0,0:26:59.98,0:27:02.92,Default,,0,0,0,,I looked up and Inagaki was there with a horribly sorry face
+Dialogue: 0,0:27:02.92,0:27:05.50,Default,,0,0,0,,saying, "I'm so sorry! I'm so sorry!"
+Dialogue: 0,0:27:05.50,0:27:09.48,Default,,0,0,0,,but from the car I can hear Shishaku Shishou's comedy routine.
+Dialogue: 0,0:27:09.48,0:27:14.57,Default,,0,0,0,,Also, he was telling a story was about winning the lottery
+Dialogue: 0,0:27:14.57,0:27:19.15,Default,,0,0,0,,and was yelling "I hit it! I hit it! I hit the jackpot!"
+Dialogue: 0,0:27:19.15,0:27:21.76,Default,,0,0,0,,
+Dialogue: 0,0:27:21.76,0:27:26.06,Default,,0,0,0,,I'd never seen people laughing at Shishaku Shishou as much as that time.
+Dialogue: 0,0:27:26.06,0:27:30.81,Default,,0,0,0,,
+Dialogue: 0,0:27:30.81,0:27:32.81,Default,,0,0,0,,Wowww.
+Dialogue: 0,0:27:32.81,0:27:35.68,Default,,0,0,0,,Woow, that's amazing.
+Dialogue: 0,0:27:35.68,0:27:36.96,Default,,0,0,0,,Maan.
+Dialogue: 0,0:27:36.96,0:27:39.95,Default,,0,0,0,,Sure is funny.
+Dialogue: 0,0:27:39.95,0:27:41.95,Default,,0,0,0,,When will it not be funny?
+Dialogue: 0,0:27:41.95,0:27:45.18,Default,,0,0,0,,I'd like to see when someone's story fails.
+Dialogue: 0,0:27:44.84,0:27:46.76,Default,,0,0,0,,{\pos(345.039,191)}TOSHI
+Dialogue: 0,0:27:47.05,0:27:56.50,Tl Note,,0,0,0,,A rakugoka is someone who practices rakugo, a type of solo comedic storytelling.
+Dialogue: 0,0:27:47.05,0:27:51.50,Default,,0,0,0,,Back when I just debuted, I had a senior who was a rakugoka.
+Dialogue: 0,0:27:51.50,0:27:56.04,Default,,0,0,0,,He said that once a month he borrows a tatami room at an
+Dialogue: 0,0:27:56.04,0:27:59.21,Default,,0,0,0,,izakaya ands hold a practice show, so he invited us to attend.
+Dialogue: 0,0:27:59.21,0:28:01.45,Default,,0,0,0,,So we said, "Oh yes we'll go".
+Dialogue: 0,0:28:01.45,0:28:05.64,Default,,0,0,0,,At the time, it was us, that rakugoka, and also one magician.
+Dialogue: 0,0:28:05.64,0:28:12.49,Default,,0,0,0,,And we were all changing clothes in a small room before the show.
+Dialogue: 0,0:28:12.49,0:28:16.14,Default,,0,0,0,,But you know how magicians have all kinds of secrets tricks?
+Dialogue: 0,0:28:16.14,0:28:19.24,Default,,0,0,0,,And since we just debuted, we hadn't seen any of that stuff
+Dialogue: 0,0:28:19.24,0:28:20.75,Default,,0,0,0,,and so we were watching in awe when
+Dialogue: 0,0:28:20.75,0:28:24.01,Default,,0,0,0,,he put a small umbrella into his sleeve
+Dialogue: 0,0:28:24.01,0:28:28.94,Default,,0,0,0,,which shoots out when he thrusts his hands out, like this.
+Dialogue: 0,0:28:28.94,0:28:31.63,Default,,0,0,0,,And we were quite impressed with that.
+Dialogue: 0,0:28:31.63,0:28:34.14,Default,,0,0,0,,So anyway, it was about 30 minutes until the show starts
+Dialogue: 0,0:28:34.14,0:28:37.36,Default,,0,0,0,,and my group, were told to open with manzai for 10 minutes,
+Dialogue: 0,0:28:37.36,0:28:41.02,Default,,0,0,0,,after which it was the magician's turn and then the rakugoka.
+Dialogue: 0,0:28:41.02,0:28:46.28,Default,,0,0,0,,We were fine with that but the magician said "I'm sorry I've got work after this
+Dialogue: 0,0:28:46.28,0:28:49.10,Default,,0,0,0,,so please let me go first".
+Dialogue: 0,0:28:49.10,0:28:53.23,Default,,0,0,0,,And our senior was like "Oh what? But we're about to start...?"
+Dialogue: 0,0:28:53.23,0:28:56.94,Default,,0,0,0,,but said "Oh...ok then", and hesitantly accepted.
+Dialogue: 0,0:28:56.94,0:29:00.92,Default,,0,0,0,,But apparently he wasn't really happy about that so
+Dialogue: 0,0:29:00.92,0:29:03.85,Default,,0,0,0,,he said "Hey, why would you tell me that now?"
+Dialogue: 0,0:29:03.85,0:29:07.10,Default,,0,0,0,,"Usually you'd say that the day before or,
+Dialogue: 0,0:29:07.10,0:29:11.28,Default,,0,0,0,,when you come in, tell us that you're busy so you would like to start first".
+Dialogue: 0,0:29:11.28,0:29:12.83,Default,,0,0,0,,"It's common sense!".
+Dialogue: 0,0:29:12.83,0:29:16.33,Default,,0,0,0,,We were like "That's right", but the magician was quite strong-hearted and said
+Dialogue: 0,0:29:16.33,0:29:20.60,Default,,0,0,0,,"Well, I didn't know either. I got told about it just then!".
+Dialogue: 0,0:29:20.60,0:29:23.18,Default,,0,0,0,,and sort of talked back at him.
+Dialogue: 0,0:29:23.18,0:29:28.12,Default,,0,0,0,,But the seniors said, "Yeah, so what? You still should have told me earlier!".
+Dialogue: 0,0:29:28.12,0:29:29.72,Default,,0,0,0,,"Don't you have any common sense!?"
+Dialogue: 0,0:29:29.72,0:29:33.10,Default,,0,0,0,,They began arguing and we didn't know what to do.
+Dialogue: 0,0:29:33.10,0:29:36.84,Default,,0,0,0,,Then the rakugoka said "Get your act together!" and shoved the magician.
+Dialogue: 0,0:29:36.84,0:29:39.96,Default,,0,0,0,,That made the magician man really angry
+Dialogue: 0,0:29:39.96,0:29:43.13,Default,,0,0,0,,and he went to punch, but the umbrella came out.
+Dialogue: 0,0:29:43.13,0:29:47.07,Default,,0,0,0,,He then tried to put it back and the other umbrella came out.
+Dialogue: 0,0:29:46.19,0:29:47.48,Default,,0,0,0,,
+Dialogue: 0,0:29:47.48,0:29:50.48,Default,,0,0,0,,It was just a huge mess.
+Dialogue: 0,0:29:50.48,0:29:53.02,Default,,0,0,0,,He was trying to shove two umbrellas back in.
+Dialogue: 0,0:29:53.02,0:29:55.02,Default,,0,0,0,,Since he had them shoved up there...
+Dialogue: 0,0:29:55.02,0:29:57.40,Default,,0,0,0,,What a fine line between nervous tension and hilarity.
+Dialogue: 0,0:29:57.87,0:29:59.87,Default,,0,0,0,,He was like "Ahh-ahh..".
+Dialogue: 0,0:29:59.87,0:30:01.87,Default,,0,0,0,,
+Dialogue: 0,0:30:01.87,0:30:04.81,Default,,0,0,0,,{\pos(338.028,322)}HACHIMITSU
+Dialogue: 0,0:30:04.81,0:30:09.15,Default,,0,0,0,,I actually go on trips overseas quite often.
+Dialogue: 0,0:30:09.15,0:30:13.58,Default,,0,0,0,,Even from back when I had no work and no money.
+Dialogue: 0,0:30:13.58,0:30:17.79,Default,,0,0,0,,Once I went to Canada with 4 other people
+Dialogue: 0,0:30:17.79,0:30:22.14,Default,,0,0,0,,and they were Japanese, but could speak English
+Dialogue: 0,0:30:22.14,0:30:24.57,Default,,0,0,0,,and had traveled around a lot themselves before.
+Dialogue: 0,0:30:24.57,0:30:28.86,Default,,0,0,0,,But buying presents is hard right? You can't just keep getting chocolates for people.
+Dialogue: 0,0:30:28.86,0:30:34.48,Default,,0,0,0,,Anyway, Canada's got some pretty good drugstores, so I was suggested to buy medicine.
+Dialogue: 0,0:30:34.48,0:30:39.55,Default,,0,0,0,,For example, their cold medicine makes you sleep easily, because it's made for Western people's bodies.
+Dialogue: 0,0:30:39.55,0:30:44.00,Default,,0,0,0,,The pain killers are also good, and the boxes are quite cute and interesting so
+Dialogue: 0,0:30:44.00,0:30:47.61,Default,,0,0,0,,I bought heaps of stuff at this drugstore.
+Dialogue: 0,0:30:47.61,0:30:52.27,Default,,0,0,0,,But when I brought all of it to the register, the guy there went ballistic.
+Dialogue: 0,0:30:52.27,0:30:56.72,Default,,0,0,0,,He was like "Why are ya buying so much? You can't take all this back to Japan!".
+Dialogue: 0,0:30:56.72,0:30:59.28,Default,,0,0,0,,Or that's what I thought he was saying, and I got scared
+Dialogue: 0,0:30:59.28,0:31:03.56,Default,,0,0,0,,so I backed off and got a guy that understands English
+Dialogue: 0,0:31:03.56,0:31:09.26,Default,,0,0,0,,and told him about the situation, and asked him to interpret for me
+Dialogue: 0,0:31:09.26,0:31:12.52,Default,,0,0,0,,and turns out that he was asking if I have a point card.
+Dialogue: 0,0:31:12.52,0:31:14.52,Default,,0,0,0,,
+Dialogue: 0,0:31:14.52,0:31:18.72,Default,,0,0,0,,"If you buy this much, you'll get 3 or 4 free!".
+Dialogue: 0,0:31:18.72,0:31:21.15,Default,,0,0,0,,
+Dialogue: 0,0:31:21.15,0:31:24.08,Default,,0,0,0,,That's such a tiny incident!
+Dialogue: 0,0:31:24.60,0:31:27.05,Default,,0,0,0,,He was totally going off at me though.
+Dialogue: 0,0:31:27.05,0:31:30.01,Default,,0,0,0,,He turned out to be a really nice guy though, huh?
+Dialogue: 0,0:31:30.01,0:31:31.63,Default,,0,0,0,,
+Dialogue: 0,0:31:31.63,0:31:34.49,Default,,0,0,0,,He must be a really kind guy.
+Dialogue: 0,0:31:35.69,0:31:38.80,Default,,0,0,0,,That was a slightly heartwarming story.
+Dialogue: 0,0:31:38.80,0:31:41.85,Default,,0,0,0,,
+Dialogue: 0,0:31:42.86,0:31:44.70,Default,,0,0,0,,{\pos(185.79,306)}MATSUMOTO
+Dialogue: 0,0:31:44.70,0:31:48.65,Default,,0,0,0,,I'll tell you a short one then.
+Dialogue: 0,0:31:48.65,0:31:53.12,Default,,0,0,0,,Even now I have a column in Playboy...
+Dialogue: 0,0:31:53.12,0:31:58.41,Default,,0,0,0,,
+Dialogue: 0,0:31:58.41,0:32:05.23,Default,,0,0,0,,Even now I have a column in Playboy.
+Dialogue: 0,0:32:05.23,0:32:09.02,Default,,0,0,0,,Well it's not like I write anything but
+Dialogue: 0,0:32:09.02,0:32:12.25,Default,,0,0,0,,they interview me and they write down whatever I say.
+Dialogue: 0,0:32:12.25,0:32:16.46,Default,,0,0,0,,So, this happened to the person in charge of that job at the time. Not anymore.
+Dialogue: 0,0:32:16.46,0:32:21.71,Default,,0,0,0,,Anyway, when I was talking in the interview, suddenly.....
+Dialogue: 0,0:32:21.72,0:32:24.78,Default,,0,0,0,,His nose started bleeding.
+Dialogue: 0,0:32:24.78,0:32:26.07,Default,,0,0,0,,Blood suddenly dribbled out of his nose.
+Dialogue: 0,0:32:26.08,0:32:27.60,Default,,0,0,0,,Not snot, but blood?
+Dialogue: 0,0:32:27.66,0:32:31.24,Default,,0,0,0,,Yeah it suddenly came out so I was like, "Are you ok!?"
+Dialogue: 0,0:32:31.24,0:32:33.24,Default,,0,0,0,,"Maybe we should stop for today?"
+Dialogue: 0,0:32:33.24,0:32:35.95,Default,,0,0,0,,"No, no, there's no way we can stop".
+Dialogue: 0,0:32:35.95,0:32:39.50,Default,,0,0,0,,"Let's continue. Please let me continue".
+Dialogue: 0,0:32:39.50,0:32:42.14,Default,,0,0,0,,"But please allow me a tissue"
+Dialogue: 0,0:32:42.14,0:32:44.27,Default,,0,0,0,,and he rolled one up in there.
+Dialogue: 0,0:32:44.27,0:32:47.40,Default,,0,0,0,,It was soaked with blood up to half way.
+Dialogue: 0,0:32:47.40,0:32:50.91,Default,,0,0,0,,And even while talking more, it was still coming out so
+Dialogue: 0,0:32:50.91,0:32:52.91,Default,,0,0,0,,I said "Shouldn't we just stop this?"
+Dialogue: 0,0:32:52.91,0:32:56.96,Default,,0,0,0,,"Sorry, let's continue. I would like to continue".
+Dialogue: 0,0:32:56.96,0:33:00.16,Default,,0,0,0,,"But please let me lie down".
+Dialogue: 0,0:33:00.16,0:33:03.04,Default,,0,0,0,,
+Dialogue: 0,0:33:03.04,0:33:06.89,Default,,0,0,0,,All the while I'm talking, and he's just lying down.
+Dialogue: 0,0:33:06.89,0:33:10.52,Default,,0,0,0,,
+Dialogue: 0,0:33:09.53,0:33:12.52,Default,,0,0,0,,Why doesn't he just stop!?
+Dialogue: 0,0:33:12.52,0:33:14.81,Default,,0,0,0,,Just stop!
+Dialogue: 0,0:33:15.96,0:33:17.69,Default,,0,0,0,,
+Dialogue: 0,0:33:17.55,0:33:20.22,Default,,0,0,0,,That was a shock.
+Dialogue: 0,0:33:21.02,0:33:25.29,Default,,0,0,0,,It's going around pretty evenly aside from Chad.
+Dialogue: 0,0:33:25.29,0:33:26.73,Default,,0,0,0,,It's about time.
+Dialogue: 0,0:33:26.97,0:33:29.50,Default,,0,0,0,,{\pos(263.912,324)}HACHIMITSU
+Dialogue: 0,0:33:29.50,0:33:34.56,Default,,0,0,0,,When I was in middle school, my generation totally loved Bebop Highschool.
+Dialogue: 0,0:33:34.56,0:33:39.87,Default,,0,0,0,,I grew up in a place called Kurashiki in Okayama, and we were total bad ass delinquents
+Dialogue: 0,0:33:39.87,0:33:42.83,Default,,0,0,0,,Now I'm 100 kg, but I used to be 120kg
+Dialogue: 0,0:33:42.83,0:33:45.64,Default,,0,0,0,,and my hair was standing up way out here and...
+Dialogue: 0,0:33:45.64,0:33:46.85,Default,,0,0,0,,...I rode a bicycle like this.
+Dialogue: 0,0:33:47.04,0:33:49.47,Default,,0,0,0,,A bicycle?
+Dialogue: 0,0:33:49.47,0:33:51.74,Default,,0,0,0,,Yeah, a bicycle.
+Dialogue: 0,0:33:51.74,0:33:56.36,Default,,0,0,0,,And on the back I had those pegs so people could stand on it...
+Dialogue: 0,0:33:56.36,0:33:59.77,Default,,0,0,0,,and we used to roam the streets a lot like that.
+Dialogue: 0,0:33:59.77,0:34:04.84,Default,,0,0,0,,Anyway, during summer, bats fly past quite low around the residential areas.
+Dialogue: 0,0:34:04.84,0:34:09.21,Default,,0,0,0,,You look and think they might be sparrows or swallows, but they're often actually bats.
+Dialogue: 0,0:34:09.21,0:34:14.24,Default,,0,0,0,,So one day, we were roaming around in a line of 7-8 people, chatting.
+Dialogue: 0,0:34:14.24,0:34:18.20,Default,,0,0,0,,There was a guy that's the best looking, and most popular, called Ishida...
+Dialogue: 0,0:34:18.20,0:34:21.34,Default,,0,0,0,,...and a bat flew into his mouth.
+Dialogue: 0,0:34:21.34,0:34:22.38,Default,,0,0,0,,
+Dialogue: 0,0:34:22.38,0:34:25.07,Default,,0,0,0,,But only I managed to see that happened.
+Dialogue: 0,0:34:25.07,0:34:29.44,Default,,0,0,0,,So I stopped everyone and said "Hey! A bat just flew into Ishida's mouth!".
+Dialogue: 0,0:34:29.44,0:34:32.54,Default,,0,0,0,,But everyone heard that and was just like "Yeah right. As if".
+Dialogue: 0,0:34:32.54,0:34:34.97,Default,,0,0,0,,and Ishida likes to seem like a cool dude
+Dialogue: 0,0:34:34.97,0:34:38.16,Default,,0,0,0,,so even when I asked him if it went in, he said "No it didn't".
+Dialogue: 0,0:34:39.55,0:34:41.90,Default,,0,0,0,,So I was then called a liar.
+Dialogue: 0,0:34:41.90,0:34:46.41,Default,,0,0,0,,But it definitely went into Ishida's mouth and...
+Dialogue: 0,0:34:46.41,0:34:50.14,Default,,0,0,0,,...when he closed his mouth, the wings flapped out, and it flew away.
+Dialogue: 0,0:34:50.14,0:34:52.76,Default,,0,0,0,,I definitely saw it!
+Dialogue: 0,0:34:52.76,0:34:55.71,Default,,0,0,0,,But I was called a liar, and no one believed me.
+Dialogue: 0,0:34:55.71,0:34:59.31,Default,,0,0,0,,"Bats use sonar and stuff, so no way that'd happen".
+Dialogue: 0,0:34:59.31,0:35:02.46,Default,,0,0,0,,It was like I was a big fat liar.
+Dialogue: 0,0:35:02.46,0:35:07.58,Default,,0,0,0,,4 years after that, everyone started getting car licenses
+Dialogue: 0,0:35:07.58,0:35:11.76,Default,,0,0,0,,and around 5am, on the highway
+Dialogue: 0,0:35:11.76,0:35:14.76,Default,,0,0,0,,there's about 4 lanes and nobody is using them.
+Dialogue: 0,0:35:14.76,0:35:20.36,Default,,0,0,0,,So we'd fill our cars with bucket loads of water bombs
+Dialogue: 0,0:35:20.36,0:35:24.03,Default,,0,0,0,,and we'd throw them at each other while laughing our asses off.
+Dialogue: 0,0:35:24.03,0:35:26.03,Default,,0,0,0,,Having water bomb wars and stuff.
+Dialogue: 0,0:35:26.19,0:35:29.87,Default,,0,0,0,,We'd close the windows to defend, and when attacking we'd throw again....
+Dialogue: 0,0:35:29.87,0:35:32.56,Default,,0,0,0,,...and a water bomb went straight into Ishida's mouth.
+Dialogue: 0,0:35:32.97,0:35:34.96,Default,,0,0,0,,Without bursting too!
+Dialogue: 0,0:35:34.96,0:35:38.65,Default,,0,0,0,,A water balloon that usually bursts so easily, went into his mouth unbroken.
+Dialogue: 0,0:35:38.65,0:35:43.00,Default,,0,0,0,,And from then, everyone's like "Oh that story from 4 years ago about
+Dialogue: 0,0:35:43.00,0:35:46.36,Default,,0,0,0,,a bat flying into his mouth must be true!".
+Dialogue: 0,0:35:46.36,0:35:47.60,Default,,0,0,0,,
+Dialogue: 0,0:35:47.60,0:35:50.27,Default,,0,0,0,,Finally after 4 years.
+Dialogue: 0,0:35:50.91,0:35:53.02,Default,,0,0,0,,
+Dialogue: 0,0:35:53.02,0:35:55.02,Default,,0,0,0,,Nice.
+Dialogue: 0,0:35:55.02,0:35:56.65,Default,,0,0,0,,Here I go.
+Dialogue: 0,0:35:56.65,0:35:59.23,Default,,0,0,0,,{\pos(332.019,210)}CHAD
+Dialogue: 0,0:35:59.23,0:36:01.72,Default,,0,0,0,,Finally my turn, huh.
+Dialogue: 0,0:36:01.72,0:36:12.41,Default,,0,0,0,,
+Dialogue: 0,0:36:12.41,0:36:15.85,Default,,0,0,0,,Err, well this is something I've noticed recently.
+Dialogue: 0,0:36:15.85,0:36:17.44,Default,,0,0,0,,Something you noticed?
+Dialogue: 0,0:36:17.45,0:36:19.76,Default,,0,0,0,,Yes.
+Dialogue: 0,0:36:19.76,0:36:21.76,Default,,0,0,0,,So you're announcing something you noticed?
+Dialogue: 0,0:36:21.76,0:36:25.98,Default,,0,0,0,,I had always wanted to be a comedian since I was a little kid
+Dialogue: 0,0:36:25.98,0:36:28.96,Default,,0,0,0,,and I just happened to come to Japan as a highschooler
+Dialogue: 0,0:36:28.96,0:36:33.02,Default,,0,0,0,,when I found Japanese comedy, and was astounded that such a world existed.
+Dialogue: 0,0:36:33.02,0:36:37.52,Default,,0,0,0,,I knew I had to be a comedian in Japan, so went back, graduated high school
+Dialogue: 0,0:36:37.52,0:36:40.35,Default,,0,0,0,,and then went to Yoshimoto's NSC in Osaka
+Dialogue: 0,0:36:40.35,0:36:45.63,Default,,0,0,0,,and without even knowing left from right I....
+Dialogue: 0,0:36:45.63,0:36:49.50,Default,,0,0,0,,...I tried and tried my best, but, even after a year, it wasn't enough so...
+Dialogue: 0,0:36:49.50,0:36:51.50,Default,,0,0,0,,...I became an apprentice.
+Dialogue: 0,0:36:51.50,0:36:57.23,Default,,0,0,0,,So I became an apprentice to Bonchi Osamu from Za Bonchi, who I considered to be the funniest at the time.
+Dialogue: 0,0:36:57.23,0:37:01.93,Default,,0,0,0,,Everyday, all day for 2 years I followed him around, learned many things
+Dialogue: 0,0:37:01.93,0:37:06.75,Default,,0,0,0,,and basically.....I just tried my best.
+Dialogue: 0,0:37:06.75,0:37:09.44,Default,,0,0,0,,I read lots of different books.
+Dialogue: 0,0:37:09.44,0:37:14.41,Default,,0,0,0,,I tried lots of different things to try and make Japanese people laugh.
+Dialogue: 0,0:37:14.73,0:37:17.56,Default,,0,0,0,,Even working as a dog walker.
+Dialogue: 0,0:37:17.56,0:37:20.51,Default,,0,0,0,,I did horrible things like that and...
+Dialogue: 0,0:37:20.51,0:37:25.87,Default,,0,0,0,,together with my comedy partner, we'd make just 520 yen each month
+Dialogue: 0,0:37:25.87,0:37:29.40,Default,,0,0,0,,which, after tax was 225 yen each.. We had a harsh life like that.
+Dialogue: 0,0:37:29.40,0:37:34.27,Default,,0,0,0,,I also had problems, like, not being able to get my visa.
+Dialogue: 0,0:37:34.27,0:37:36.94,Default,,0,0,0,,My group's name is Jipangu Jouriku Sakusen,
+Dialogue: 0,0:37:36.94,0:37:38.96,Default,,0,0,0,,but it almost became Japan Disembarkation Failure.
+Dialogue: 0,0:37:35.87,0:37:38.88,Tl Note,,0,0,0,,Means: Japan Disembarkation Strategy
+Dialogue: 0,0:37:38.96,0:37:42.51,Default,,0,0,0,,But I tried, and tried, and finally got the embassy to accept me
+Dialogue: 0,0:37:42.51,0:37:46.57,Default,,0,0,0,,and I also finally became able to speak a lot but I recently realised..
+Dialogue: 0,0:37:46.57,0:37:50.44,Default,,0,0,0,,...that I used to get more laughs when I spoke more broken Japanese.
+Dialogue: 0,0:37:50.44,0:37:54.03,Default,,0,0,0,,
+Dialogue: 0,0:37:54.03,0:37:56.03,Default,,0,0,0,,I see.
+Dialogue: 0,0:37:56.03,0:37:58.03,Default,,0,0,0,,You're too fluent now?
+Dialogue: 0,0:37:58.03,0:38:00.03,Default,,0,0,0,,I seee.
+Dialogue: 0,0:38:00.03,0:38:02.88,Default,,0,0,0,,
+Dialogue: 0,0:38:03.52,0:38:05.93,Default,,0,0,0,,My jokes got heaps of laughs back then.
+Dialogue: 0,0:38:06.01,0:38:08.97,Default,,0,0,0,,He's saying stuff like "Not knowing right from left"!
+Dialogue: 0,0:38:08.97,0:38:09.50,Default,,0,0,0,,
+Dialogue: 0,0:38:09.50,0:38:11.26,Default,,0,0,0,,
+Dialogue: 0,0:38:11.26,0:38:16.04,Default,,0,0,0,,Do you know what we call situations like this in Australia?
+Dialogue: 0,0:38:16.04,0:38:18.32,Default,,0,0,0,,Nooo we don't.
+Dialogue: 0,0:38:18.32,0:38:19.69,Default,,0,0,0,,What?
+Dialogue: 0,0:38:19.69,0:38:23.44,Default,,0,0,0,,"It's like, have a look at yourself under the table
+Dialogue: 0,0:38:23.44,0:38:26.08,Default,,0,0,0,,you can find some jellybeans there".
+Dialogue: 0,0:38:26.08,0:38:28.22,Default,,0,0,0,,And what does that mean?
+Dialogue: 0,0:38:28.22,0:38:31.18,Default,,0,0,0,,Have a look at the jellybeans under the table.
+Dialogue: 0,0:38:31.18,0:38:33.40,Default,,0,0,0,,Right now, you're a bit like that.
+Dialogue: 0,0:38:33.40,0:38:36.20,Default,,0,0,0,,The heck does that mean!?
+Dialogue: 0,0:38:36.20,0:38:38.94,Default,,0,0,0,,
+Dialogue: 0,0:38:39.10,0:38:41.23,Default,,0,0,0,,What does even that mean?
+Dialogue: 0,0:38:41.23,0:38:42.25,Default,,0,0,0,,
+Dialogue: 0,0:38:42.25,0:38:45.42,Default,,0,0,0,,It means you're a useless person.
+Dialogue: 0,0:38:45.42,0:38:47.14,Default,,0,0,0,,That's an Australian saying?
+Dialogue: 0,0:38:47.42,0:38:49.87,Default,,0,0,0,,Well okay, that was good though.
+Dialogue: 0,0:38:49.87,0:38:52.91,Default,,0,0,0,,Well, I don't know if the situation is good but...umm....
+Dialogue: 0,0:38:52.91,0:38:54.14,Default,,0,0,0,,Go!
+Dialogue: 0,0:38:54.14,0:38:55.76,Default,,0,0,0,,{\pos(200.814,345)}CHIHARA
+Dialogue: 0,0:38:55.76,0:39:00.09,Default,,0,0,0,,This is about 10 years or so ago but....
+Dialogue: 0,0:39:00.09,0:39:05.23,Default,,0,0,0,,in Osaka there's a downtown nightlife area called Soemoncho and
+Dialogue: 0,0:39:05.23,0:39:08.56,Default,,0,0,0,,I went there with a group after work for a meal
+Dialogue: 0,0:39:08.56,0:39:11.80,Default,,0,0,0,,and we were walking around there at about 4:00 am
+Dialogue: 0,0:39:11.80,0:39:15.15,Default,,0,0,0,,when we heard a lady scream "You freakin' bitch!"
+Dialogue: 0,0:39:15.15,0:39:18.96,Default,,0,0,0,,We went to see what it was, and two hostesses were
+Dialogue: 0,0:39:18.96,0:39:22.52,Default,,0,0,0,,having a massive fight, but, both of them had
+Dialogue: 0,0:39:22.52,0:39:24.84,Default,,0,0,0,,taken off a high heel and....
+Dialogue: 0,0:39:24.84,0:39:27.53,Default,,0,0,0,,was yelling, "F**k you bitch!" and attacking each other.
+Dialogue: 0,0:39:27.53,0:39:32.14,Default,,0,0,0,,"Sneaky bitch! You stole my customer!"
+Dialogue: 0,0:39:32.14,0:39:37.31,Default,,0,0,0,,But since one leg is higher than the other, they both keep spinning around.
+Dialogue: 0,0:39:37.31,0:39:39.93,Default,,0,0,0,,
+Dialogue: 0,0:39:39.93,0:39:41.76,Default,,0,0,0,,
+Dialogue: 0,0:39:41.76,0:39:44.46,Default,,0,0,0,,I found that sooo funny!
+Dialogue: 0,0:39:44.46,0:39:47.69,Default,,0,0,0,,Physics in action, huh.
+Dialogue: 0,0:39:47.69,0:39:48.75,Default,,0,0,0,,
+Dialogue: 0,0:39:48.75,0:39:51.55,Default,,0,0,0,,Ok, here I go.
+Dialogue: 0,0:39:51.55,0:39:53.55,Default,,0,0,0,,{\pos(346.041,296)}MATSUMOTO
+Dialogue: 0,0:39:53.24,0:39:57.00,Default,,0,0,0,,Ahhh what should I talk about? Ahhh....
+Dialogue: 0,0:39:57.00,0:40:01.37,Default,,0,0,0,,I was driving in a car with Imada...
+Dialogue: 0,0:40:01.37,0:40:05.45,Default,,0,0,0,,...you know how he likes porn dvd's?
+Dialogue: 0,0:40:05.45,0:40:09.15,Default,,0,0,0,,Anyway, he was like "Wanna go to this shop?"
+Dialogue: 0,0:40:09.15,0:40:13.23,Default,,0,0,0,,so I said "Yeah, alright", and the outside of the shop was small
+Dialogue: 0,0:40:13.23,0:40:15.87,Default,,0,0,0,,but inside, it stretched extremely far out...
+Dialogue: 0,0:40:15.89,0:40:20.91,Default,,0,0,0,,...and I was saying "Woaah, the collection here is amazing!".
+Dialogue: 0,0:40:20.91,0:40:24.40,Default,,0,0,0,,But I got a huge shock when I went into one of the aisles...
+Dialogue: 0,0:40:24.40,0:40:28.97,Default,,0,0,0,,...because there was a corner called "Macchan's Recommendation Corner".
+Dialogue: 0,0:40:28.97,0:40:29.93,Default,,0,0,0,,
+Dialogue: 0,0:40:30.32,0:40:31.60,Default,,0,0,0,,Your first time right?
+Dialogue: 0,0:40:31.63,0:40:33.74,Default,,0,0,0,,That was the first time I'd been there!
+Dialogue: 0,0:40:33.74,0:40:37.48,Default,,0,0,0,,And they had like a cut out of me stuck there...
+Dialogue: 0,0:40:37.48,0:40:41.95,Default,,0,0,0,,...on a spring and it was bobbling from the cooler's breeze!
+Dialogue: 0,0:40:41.95,0:40:44.59,Default,,0,0,0,,
+Dialogue: 0,0:40:44.59,0:40:47.61,Default,,0,0,0,,You've gotta be kidding me!
+Dialogue: 0,0:40:47.95,0:40:51.32,Default,,0,0,0,,I totally complained to the shop owner though.
+Dialogue: 0,0:40:52.00,0:40:56.54,Default,,0,0,0,,But the products in the corner were some seriously good stuff.
+Dialogue: 0,0:40:56.81,0:40:59.63,Default,,0,0,0,,After all.
+Dialogue: 0,0:40:57.58,0:40:59.63,Default,,0,0,0,,After all.
+Dialogue: 0,0:40:59.63,0:41:02.52,Default,,0,0,0,,How dare they just do that though!
+Dialogue: 0,0:41:02.52,0:41:04.52,Default,,0,0,0,,
+Dialogue: 0,0:41:05.39,0:41:08.83,Default,,0,0,0,,{\pos(382.097,311)}MIYAGAWA
+Dialogue: 0,0:41:08.36,0:41:11.77,Default,,0,0,0,,Errrr....
+Dialogue: 0,0:41:11.77,0:41:14.99,Default,,0,0,0,,This happened when I was in 1st grade of middle school.
+Dialogue: 0,0:41:15.04,0:41:19.50,Default,,0,0,0,,I just desperately wanted to touch some breasts.
+Dialogue: 0,0:41:19.50,0:41:21.77,Default,,0,0,0,,Well it happens.
+Dialogue: 0,0:41:21.77,0:41:24.51,Default,,0,0,0,,I just had to touch breasts no matter what.
+Dialogue: 0,0:41:24.51,0:41:27.55,Default,,0,0,0,,And so I came up with an idea...
+Dialogue: 0,0:41:27.55,0:41:31.52,Default,,0,0,0,,I have a sister who is 2 years older than me.
+Dialogue: 0,0:41:31.52,0:41:34.70,Default,,0,0,0,,So I was like "Fuck it, I'mma touch my sister's boobs".
+Dialogue: 0,0:41:34.70,0:41:40.11,Default,,0,0,0,,
+Dialogue: 0,0:41:40.11,0:41:43.10,Default,,0,0,0,,Maaan, they're all funny, hey?
+Dialogue: 0,0:41:43.10,0:41:44.65,Default,,0,0,0,,Urgent announcement!!
+Dialogue: 0,0:41:44.65,0:41:48.89,Default,,0,0,0,,Due to rave reviews of Hitoshi Matsumoto's Suberanai Hanashi Episode 1...
+Dialogue: 0,0:41:48.89,0:41:50.46,Default,,0,0,0,,we've released the 2nd installment!
+Dialogue: 0,0:41:50.46,0:41:54.38,Default,,0,0,0,,For more information, access the shows homepage!
+Dialogue: 0,0:41:54.97,0:41:58.30,Default,,0,0,0,,This happened when I was in 1st grade of middle school.
+Dialogue: 0,0:41:58.30,0:42:02.78,Default,,0,0,0,,I just desperately wanted to touch some breasts.
+Dialogue: 0,0:42:02.78,0:42:05.07,Default,,0,0,0,,Well, it happens.
+Dialogue: 0,0:42:05.07,0:42:07.74,Default,,0,0,0,,I really wanted to touch some breasts.
+Dialogue: 0,0:42:07.74,0:42:10.73,Default,,0,0,0,,And so, I came up with an idea.
+Dialogue: 0,0:42:10.73,0:42:14.70,Default,,0,0,0,,I have a sister who is 2 years older than me.
+Dialogue: 0,0:42:14.70,0:42:18.46,Default,,0,0,0,,So I was like "Fuck it, I'mma touch my sister's boobs".
+Dialogue: 0,0:42:18.94,0:42:21.24,Default,,0,0,0,,That's desperate.
+Dialogue: 0,0:42:21.24,0:42:23.56,Default,,0,0,0,,That's pretty messed up.
+Dialogue: 0,0:42:23.56,0:42:27.21,Default,,0,0,0,,So that's what I decided, but...
+Dialogue: 0,0:42:27.21,0:42:30.80,Default,,0,0,0,,I can't just go up to her and say "Hey sis, can I touch your boobs?"
+Dialogue: 0,0:42:30.80,0:42:36.11,Default,,0,0,0,,There's no choice but to touch them when she's asleep.
+Dialogue: 0,0:42:36.11,0:42:38.64,Default,,0,0,0,,Right? And so....
+Dialogue: 0,0:42:38.64,0:42:42.41,Default,,0,0,0,,...anyway, my sister went off to have a bath
+Dialogue: 0,0:42:42.41,0:42:46.01,Default,,0,0,0,,and it was my chance because mum and dad weren't home that night.
+Dialogue: 0,0:42:46.01,0:42:48.01,Default,,0,0,0,,It was just her, me and grandma...
+Dialogue: 0,0:42:48.01,0:42:51.63,Default,,0,0,0,,and grandma was in her room, so it was my chance!
+Dialogue: 0,0:42:51.63,0:42:57.87,Default,,0,0,0,,After thinking what to do, I decided to lie and wait under my sister's bed.
+Dialogue: 0,0:42:57.87,0:43:01.02,Default,,0,0,0,,
+Dialogue: 0,0:43:01.02,0:43:05.29,Default,,0,0,0,,Eventually, I heard my sister getting out of the bath
+Dialogue: 0,0:43:05.29,0:43:08.51,Default,,0,0,0,,and thought "Now's the time!", so
+Dialogue: 0,0:43:08.51,0:43:10.84,Default,,0,0,0,,I quickly went over, and slipped under her bed
+Dialogue: 0,0:43:10.84,0:43:13.76,Default,,0,0,0,,and breathed quietly as I waited.
+Dialogue: 0,0:43:13.76,0:43:17.10,Default,,0,0,0,,Then my sister came up the stairs and...
+Dialogue: 0,0:43:17.10,0:43:21.48,Default,,0,0,0,,...was changing into her pajamas or something above me.
+Dialogue: 0,0:43:21.48,0:43:25.74,Default,,0,0,0,,But at that point, I had killed my presence.
+Dialogue: 0,0:43:25.74,0:43:28.89,Default,,0,0,0,,And was breathing quietly so I don't get caught.
+Dialogue: 0,0:43:28.89,0:43:34.49,Default,,0,0,0,,But even though she changed clothes, it takes time before you actually sleep, right?
+Dialogue: 0,0:43:34.49,0:43:35.68,Default,,0,0,0,,Reading books and whatnot.
+Dialogue: 0,0:43:35.68,0:43:39.48,Default,,0,0,0,,All during that, I was waiting the whole time underneath.
+Dialogue: 0,0:43:39.48,0:43:41.48,Default,,0,0,0,,
+Dialogue: 0,0:43:41.48,0:43:43.48,Default,,0,0,0,,That's amazing, huh?
+Dialogue: 0,0:43:43.92,0:43:47.05,Default,,0,0,0,,Then after about 1 hour later...
+Dialogue: 0,0:43:47.05,0:43:51.50,Default,,0,0,0,,...I heard some clicking noises, and it became dark.
+Dialogue: 0,0:43:51.50,0:43:55.71,Default,,0,0,0,,It might have been a chance, but her sleep wasn't deep enough yet.
+Dialogue: 0,0:43:55.79,0:43:59.42,Default,,0,0,0,,So I waited for about 20 minutes more.
+Dialogue: 0,0:43:59.42,0:44:03.18,Default,,0,0,0,,After that I decided it was time to get out but
+Dialogue: 0,0:44:03.18,0:44:06.62,Default,,0,0,0,,if I made a noise and she heard me, it'd be a disaster so
+Dialogue: 0,0:44:06.62,0:44:10.64,Default,,0,0,0,,very slowly.....VERY slowly I....
+Dialogue: 0,0:44:10.64,0:44:14.08,Default,,0,0,0,,...spent about 30 minutes to creep out.
+Dialogue: 0,0:44:14.08,0:44:16.08,Default,,0,0,0,,
+Dialogue: 0,0:44:16.08,0:44:19.10,Default,,0,0,0,,
+Dialogue: 0,0:44:19.10,0:44:21.74,Default,,0,0,0,,How desperately do you wanna touch'em!?
+Dialogue: 0,0:44:21.04,0:44:23.74,Default,,0,0,0,,
+Dialogue: 0,0:44:22.86,0:44:24.80,Default,,0,0,0,,
+Dialogue: 0,0:44:24.80,0:44:27.28,Default,,0,0,0,,So I got my whole body from underneath the bed...
+Dialogue: 0,0:44:27.28,0:44:30.80,Default,,0,0,0,,and then I spent about another 5 minutes to stand.
+Dialogue: 0,0:44:30.80,0:44:33.66,Default,,0,0,0,,So my sister was sleeping, and I crept over.
+Dialogue: 0,0:44:33.66,0:44:35.66,Default,,0,0,0,,Pretend that's my sister's head.
+Dialogue: 0,0:44:35.66,0:44:39.29,Default,,0,0,0,,and I was here hiding and breathing quietly.
+Dialogue: 0,0:44:39.29,0:44:42.38,Default,,0,0,0,,But if I just grabbed it suddenly, she'd wake up, right?
+Dialogue: 0,0:44:42.38,0:44:45.56,Default,,0,0,0,,So I had to take this slowly, especially since I came this far.
+Dialogue: 0,0:44:45.98,0:44:48.99,Default,,0,0,0,,I was wondering what to do but
+Dialogue: 0,0:44:48.99,0:44:52.81,Default,,0,0,0,,my sister would breath, and her chest would move as well as her breasts.
+Dialogue: 0,0:44:52.81,0:44:56.38,Default,,0,0,0,,Firstly, I realised that I shouldn't disrupt that movement.
+Dialogue: 0,0:44:57.42,0:44:58.19,Default,,0,0,0,,
+Dialogue: 0,0:44:58.19,0:45:02.40,Default,,0,0,0,,If I pressed against the flow and my sister woke up
+Dialogue: 0,0:45:02.40,0:45:06.25,Default,,0,0,0,,I'd be in trouble so I first moved in sync with her breath
+Dialogue: 0,0:45:06.25,0:45:09.15,Default,,0,0,0,,and went in like this....
+Dialogue: 0,0:45:09.15,0:45:11.31,Default,,0,0,0,,
+Dialogue: 0,0:45:10.59,0:45:14.04,Default,,0,0,0,,
+Dialogue: 0,0:45:14.04,0:45:17.02,Default,,0,0,0,,My sister didn't wake up. She didn't notice.
+Dialogue: 0,0:45:17.02,0:45:19.60,Default,,0,0,0,,I rode that flow for about a minute...
+Dialogue: 0,0:45:19.61,0:45:22.16,Default,,0,0,0,,...before I finally went against it.
+Dialogue: 0,0:45:22.16,0:45:23.72,Default,,0,0,0,,I went against it.
+Dialogue: 0,0:45:23.72,0:45:27.34,Default,,0,0,0,,I was like, "Woah, boobs are so soft!"
+Dialogue: 0,0:45:27.34,0:45:31.37,Default,,0,0,0,,But as I thought that, my sister jumped up
+Dialogue: 0,0:45:31.37,0:45:33.82,Default,,0,0,0,,and shouted, so I thought "Oh crap"
+Dialogue: 0,0:45:33.82,0:45:38.12,Default,,0,0,0,,and there'd be no point making an excuse so I just went straight to my room.
+Dialogue: 0,0:45:38.56,0:45:42.03,Default,,0,0,0,,So I went back to my room and was like "Ohhh crap!".
+Dialogue: 0,0:45:42.03,0:45:43.26,Default,,0,0,0,,
+Dialogue: 0,0:45:43.26,0:45:47.55,Default,,0,0,0,,But anyway, I went to sleep thinking "Maybe it'll be ok. Please God, help me!".
+Dialogue: 0,0:45:47.55,0:45:51.56,Default,,0,0,0,,The next morning, my mum was home making me breakfast
+Dialogue: 0,0:45:51.56,0:45:53.82,Default,,0,0,0,,so I was just eating some bread.
+Dialogue: 0,0:45:53.82,0:45:57.87,Default,,0,0,0,,while thinking, "I wonder if mum knows about it yet?"
+Dialogue: 0,0:45:57.87,0:46:00.92,Default,,0,0,0,,when my sister suddenly screamed "Waaaahhhh!!".
+Dialogue: 0,0:46:00.92,0:46:03.84,Default,,0,0,0,,She came running down from upstairs.
+Dialogue: 0,0:46:03.84,0:46:06.91,Default,,0,0,0,,I was thinking "Oh shit, I'm gonna be busted" when she said
+Dialogue: 0,0:46:06.91,0:46:10.30,Default,,0,0,0,,"Daisuke! Mum! A ghost appeared yesterday!!".
+Dialogue: 0,0:46:10.30,0:46:11.84,Default,,0,0,0,,
+Dialogue: 0,0:46:11.84,0:46:15.93,Default,,0,0,0,,And my hand holding the bread was just shaking so hard.
+Dialogue: 0,0:46:15.93,0:46:18.25,Default,,0,0,0,,"Oh a ghost appeared?"
+Dialogue: 0,0:46:18.25,0:46:20.35,Default,,0,0,0,,"Woaah, that's scary"
+Dialogue: 0,0:46:20.35,0:46:22.35,Default,,0,0,0,,"That's scary"
+Dialogue: 0,0:46:22.35,0:46:24.57,Default,,0,0,0,,and I chucked my bread down
+Dialogue: 0,0:46:24.57,0:46:27.85,Default,,0,0,0,,and went to school two buses earlier than usual.
+Dialogue: 0,0:46:27.85,0:46:33.40,Default,,0,0,0,,
+Dialogue: 0,0:46:34.92,0:46:37.37,Default,,0,0,0,,CHAD
+Dialogue: 0,0:46:37.50,0:46:41.92,Default,,0,0,0,,My great great great grandfather...
+Dialogue: 0,0:46:41.92,0:46:46.54,Default,,0,0,0,,
+Dialogue: 0,0:46:47.12,0:46:49.84,Default,,0,0,0,,CHAD
+Dialogue: 0,0:46:49.84,0:46:51.84,Default,,0,0,0,,
+Dialogue: 0,0:46:51.84,0:46:56.51,Default,,0,0,0,,My great great great grandfather was a sheep thief.
+Dialogue: 0,0:46:56.51,0:46:58.51,Default,,0,0,0,,
+

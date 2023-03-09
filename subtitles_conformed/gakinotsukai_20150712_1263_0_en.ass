@@ -1,0 +1,845 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Last Style Storage: Default
+Aegisub Scroll Position: 0
+Aegisub Active Line: 12
+Aegisub Video Zoom Percent: 1.000000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Hamada,Arial,60,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Matsumoto,Arial,60,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Yamasaki,Arial,60,&H0011AA16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Endo,Arial,60,&H002CA0F9,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Tanaka,Arial,60,&H00E91694,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Black Matsumoto,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H000000FF,-1,0,0,0,100,100,0,0,1,4,2,2,9,9,8,1
+Style: Black Hamada,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00B8041E,-1,0,0,0,100,100,0,0,1,4,2,2,9,9,8,1
+Style: Talking Over Matsumoto,Arial,45,&H000607D2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,7,135,23,405,1
+Style: Talking Over Yamasaki,Arial,45,&H00089C0D,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,7,135,23,405,1
+Style: Talking Over Tanaka,Arial,45,&H00E624BC,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,7,135,23,405,1
+Style: Talking Over Endo,Arial,45,&H003099F2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,7,135,23,405,1
+Style: Talking Over Hamada,Arial,45,&H00DD4137,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,7,135,23,405,1
+Style: Sign,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,4,4,2,9,9,11,1
+Style: Black Text,Arial,50,&H00010101,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: White Text,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Yellow text,Arial,60,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: Red Sign,Arial,100,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4,3,2,10,10,10,1
+Style: Narrator,Arial,50,&H00FFFF00,&H000000FF,&H00000008,&H00000008,-1,0,0,0,100,100,0,0,1,3,2,2,10,10,10,1
+Style: TPF,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFF000000,&H145A5A5C,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,5,9,9,11,1
+Style: Blocky,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,7,4,2,9,9,11,1
+Style: Newtofupandatitle,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,2.99999,2.99999,2,11,11,16,1
+Style: Sharp Blocky,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Smooth Blocky,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+Style: Goofy round,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,4,2,9,9,11,1
+Style: Handgof,Arial,79,&H00F70002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,136.364,100,0,0,1,4.5,1.99999,2,9,9,11,1
+Style: Smogo,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,4,2,9,9,11,1
+Style: Testhand,Arial,30,&H00FFFFFF,&H000000FF,&H004F4F50,&H00000000,-1,-1,0,0,100,100,0,0,1,5,5,2,10,10,10,1
+Style: License,Arial,60,&H0042F6F4,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,4,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:05:46.42,0:05:55.37,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:05:46.62,0:05:55.37,Default,,0,0,0,,Enduote to hurt th
+Comment: 0,0:03:43.90,0:03:46.12,Default,,0,0,0,,Michael: Didnt bother to make effect so just translate everything all together including pink text in black.
+Comment: 0,0:05:09.80,0:05:13.47,License,,0,0,0,,Intro start - no talking over
+Comment: 0,0:06:53.76,0:07:01.20,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:06:53.76,0:07:01.20,Default,,0,0,0,,End
+Comment: 0,0:07:11.10,0:07:13.10,Talking Over Matsumoto,,0,0,0,,Continuation - No talking over
+Comment: 0,0:07:18.72,0:07:27.76,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:07:18.72,0:07:27.76,Default,,0,0,0,,End
+Comment: 0,0:07:42.64,0:07:50.92,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:07:42.64,0:07:50.92,Default,,0,0,0,,End
+Comment: 0,0:08:18.04,0:08:27.22,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:08:18.04,0:08:27.22,Default,,0,0,0,,End
+Comment: 0,0:09:15.47,0:09:22.54,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:09:15.47,0:09:22.54,Default,,0,0,0,,End
+Comment: 0,0:09:40.79,0:09:51.17,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:09:40.79,0:09:51.17,Default,,0,0,0,,End
+Comment: 0,0:10:43.05,0:10:53.93,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:10:43.05,0:10:53.93,Default,,0,0,0,,End
+Comment: 0,0:11:39.34,0:11:48.59,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:11:39.34,0:11:48.59,Default,,0,0,0,,End
+Comment: 0,0:12:59.12,0:13:09.37,Rectangle,,0,0,0,,Comic hamada narration
+Comment: 0,0:12:59.12,0:13:09.37,Default,,0,0,0,,End
+Comment: 0,0:15:13.02,0:15:13.06,Rectangle,,0,0,0,,Comic hamada narration (15:11 you need to put in a line where he says 'Don-na tenkai yannen' translates to 'how the hell has this happened?'
+Comment: 0,0:15:13.02,0:15:13.06,Default,,0,0,0,,End
+Comment: 0,0:16:23.69,0:16:35.81,Rectangle,,0,0,0,,{\pos(1270.500000,308.000000)}Comic hamada narration
+Comment: 0,0:16:23.69,0:16:23.73,Default,,0,0,0,,End
+Comment: 0,0:17:21.22,0:17:34.10,Rectangle,,0,0,0,,{\pos(1270.500000,308.000000)}Comic hamada narration
+Comment: 0,0:16:23.69,0:16:23.73,Default,,0,0,0,,End
+Comment: 0,0:19:14.20,0:19:25.91,Rectangle,,0,0,0,,{\pos(1269.000000,290.000000)}Comic hamada narration
+Comment: 0,0:19:14.20,0:19:25.91,Default,,0,0,0,,End
+Comment: 0,0:20:02.16,0:20:04.16,Hamada,,0,0,0,,^ Matsumoto and license
+Comment: 0,0:20:54.20,0:21:02.01,Rectangle,,0,0,0,,{\pos(1269.000000,290.000000)}Comic hamada narration
+Comment: 0,0:20:54.20,0:21:02.01,Default,,0,0,0,,End
+Comment: 0,0:21:22.76,0:21:36.81,Rectangle,,0,0,0,,{\pos(1270.500000,308.000000)}Comic hamada narration
+Comment: 0,0:21:22.76,0:21:22.79,Default,,0,0,0,,End
+Comment: 0,0:05:13.43,0:05:13.46,Default,,0,0,0,,Intro Start - Talking over
+Comment: 0,0:07:09.10,0:07:11.10,Talking Over Matsumoto,,0,0,0,,
+Comment: 0,0:08:18.04,0:08:27.22,Default,,0,0,0,,Second talking over
+Comment: 0,0:09:16.17,0:09:16.42,Talking Over Hamada,,0,0,0,,End
+Comment: 0,0:12:59.43,0:13:01.43,Hamada,,0,0,0,,Talkin over
+Comment: 0,0:13:09.96,0:13:11.96,Talking Over Endo,,0,0,0,,End
+Comment: 0,0:15:30.56,0:15:32.56,Default,,0,0,0,,
+Comment: 0,0:18:33.43,0:18:34.73,Talking Over Matsumoto,,0,0,0,,End
+Comment: 0,0:19:29.26,0:19:31.26,Matsumoto,,0,0,0,,Talking over
+Comment: 0,0:21:26.50,0:21:28.40,Talking Over Matsumoto,,0,0,0,,End
+Comment: 0,0:23:52.06,0:23:54.06,Yamasaki,,0,0,0,,Talking over last
+Comment: 0,0:05:29.96,0:05:31.96,Talking Over Matsumoto,,0,0,0,,End - The end
+Dialogue: 0,0:00:58.04,0:01:03.91,Newtofupandatitle,,0,0,0,,{\fade(400,0)}{\fs87.999450\fscx49.090909\fscy74.000000\pos(702.000000,102.666300)}Tofu Panda Fansubs Presents:
+Dialogue: 0,0:00:59.57,0:01:03.91,Newtofupandatitle,,0,0,0,,{\fade(400,0)\pos(700.499000,191.921000)}{\c&H65CDFD&\3c&H1D0B90&\fscx81.818182\fscy127.000000\pos(700.499250,157.667400)}DownTown's Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:00:00.00,0:24:09.69,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-29,2,1433,876)\fscx50\fscy56\pos(1371,146)}TPF
+Dialogue: 0,0:00:00.00,0:24:09.69,Default,,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,7,1436,792)\fscx51\fscy61\pos(1540.5,248)}0 0 m -221.25 -49.125 b -229.125 -50.125 -250.5 -49.125 -248.25 -31.375 b -249.375 -21.5 -228 -1.75 -222.375 -0.625 b -213.375 5.625 -210 -1.75 -204.375 -2.875 b -197.625 -9.5 -190.875 -11.625 -184.125 -28.125 b -181.875 -43.5 -196.5 -44.625 -197.625 -45.875 b -206.625 -50.125 -214.5 -49.125 -221.25 -49.125 m -215.625 -43.5 b -205.5 -45.875 -192 -39.25 -194.25 -32.625 b -202.125 -41.25 -208.875 -41.25 -215.625 -43.5 m -273 -140.25 b -268.5 -140.25 -230.25 -132.625 -235.875 -82.125 b -243.75 -50.125 -265.125 -34.75 -271.875 -31.375 b -275.25 -30.375 -293.25 -16.125 -318 -39.25 b -323.625 -50.125 -334.875 -62.375 -327 -89.75 b -323.625 -100.75 -318 -121.75 -297.75 -133.75 b -292.125 -137 -283.125 -142.5 -273 -140.25 m -171.75 -142.5 b -169.5 -142.5 -142.5 -150.25 -118.875 -109.5 b -115.5 -99.625 -106.5 -87.5 -112.125 -56.75 b -118.875 -31.375 -130.125 -30.375 -136.875 -28.125 b -142.5 -28.125 -150.375 -21.5 -177.375 -40.25 b -186.375 -47.875 -199.875 -52.375 -205.5 -83.125 b -204.375 -83.125 -217.875 -103 -189.75 -133.75 b -184.125 -138.25 -178.5 -142.5 -171.75 -142.5 m -275.25 -106.25 b -306.75 -100.75 -288.75 -66.625 -274.125 -70 b -269.625 -70 -259.5 -72.25 -257.25 -87.5 b -260.625 -105.25 -267.375 -104 -275.25 -106.25 m -275.25 -96.375 b -268.5 -98.625 -265.125 -89.75 -266.25 -87.5 b -266.25 -78.875 -273 -78.875 -276.375 -78.875 b -280.875 -79.875 -283.125 -84.25 -282 -89.75 b -282 -92 -279.75 -96.375 -275.25 -96.375 m -273 -92 b -276.375 -90.75 -275.25 -86.5 -273 -86.5 b -270.75 -86.5 -268.5 -90.75 -273 -92 m -163.875 -106.25 b -188.625 -101.875 -177.375 -67.75 -163.875 -71 b -159.375 -70 -148.125 -72.25 -148.125 -92 b -151.5 -105.25 -160.5 -106.25 -163.875 -106.25 m -163.875 -96.375 b -149.25 -96.375 -153.75 -78.875 -161.625 -78.875 b -163.875 -77.625 -172.875 -79.875 -170.625 -89.75 b -170.625 -92 -169.5 -96.375 -163.875 -96.375 m -161.625 -92 b -165 -89.75 -162.75 -85.375 -160.5 -86.5 b -157.125 -87.5 -159.375 -92 -161.625 -92 m -277.5 -86.5 b -279.75 -86.5 -278.625 -83.125 -277.5 -83.125 b -276.375 -83.125 -275.25 -86.5 -277.5 -86.5 m -165 -85.375 b -167.25 -85.375 -166.125 -82.125 -165 -82.125 b -163.875 -82.125 -162.75 -85.375 -165 -85.375 m -334.875 -160.125 l -105.375 -160.125 l -105.375 63.75 l -334.875 63.75 m -107.625 -158 l -332.625 -158 l -332.625 61.625 l -107.625 61.625
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx106.000000\fscy118.000000\pos(420.000000,528.000000)}{\pos(384.000750,516.266850)}Translator:
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx106.000000\fscy118.000000\pos(737.5,530)}{\pos(784.498500,517.732050)}Typesetter:
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx106.000000\fscy118.000000\pos(1065.595,531.518)}{\pos(784.498500,517.732050)}Proodreader:
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx74.000000\fscy101.000000\pos(418.583000,691.599000)}{\pos(382.000500,584.710500)}Mickstar\N(Team Gaki)
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx84.000000\fscy103.000000\pos(738,634)}{\pos(782.500500,585.688950)}Otviss
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx84.000000\fscy103.000000\pos(1065,636)}{\pos(782.500500,585.688950)}Christian
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx81.000000\fscy101.000000\pos(716.998,258.643)}{\pos(716.998500,118.433700)}**We're also on Facebook and Twitter**
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx146.000000\fscy136.000000\pos(718.084,190.376)}{\pos(716.998500,118.433700)}**Tofupandas.tumblr.com**
+Dialogue: 0,0:01:04.38,0:01:10.85,Yellow text,,0,0,0,,{\fade(400,0)\fscx72.000000\fscy87.000000\pos(717.001,318.081)}{\pos(717.000750,169.766850)}*Support us by following the latest news and info on upcoming projects!*
+Dialogue: 0,0:01:10.85,0:01:12.85,TPF,,0,0,0,,{\alpha2f\pos(1398.000000,56.000000)}TPF
+Dialogue: 0,0:05:46.42,0:05:55.37,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1348,694)\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:05:51.83,0:05:55.37,Testhand,,0,0,0,,{\fade(600,0)\pos(696,734)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}How much of a big shot is this Nakada guy?
+Dialogue: 0,0:05:46.62,0:05:55.37,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote to hurt the feelings of a man he's never even met
+Dialogue: 0,0:00:00.55,0:00:04.45,Red Sign,,0,0,0,,{\c&H0000FF&\3c&H0000FF&\4c&H0000FF&\2c&H0000FF&\pos(720.000000,1074.000000)\fscx100\fscy117}Are you fucking kidding me, OI!
+Dialogue: 0,0:00:00.55,0:00:04.45,Red Sign,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&HDC181F&}Are you fucking kidding me, OI!
+Dialogue: 0,0:00:04.78,0:00:10.02,Default,,0,0,0,,{\an5\fscx300\fscy300\t(0,190,\fscx140\fscy140)}{\fade(400,0}{\pos(733.000000,878.000000)\c&H000000&\3c&HFFFFFF&}Tonight we {\c&H0000FF&\3c&HFFFFFF&}pranked{\c&H000000&} Hamada
+Dialogue: 0,0:00:05.35,0:00:09.97,Default,,0,0,0,,Tonight, we pranked Hamada
+Dialogue: 0,0:00:10.46,0:00:11.89,Hamada,,0,0,0,,{\fscx230.000000\fscy232.000000}WHAT?!
+Dialogue: 0,0:00:11.89,0:00:14.79,Hamada,,0,0,0,,{\c&HF50E20&\4c&H000000&}That was a {\c&H1301BF&\3c&HFFFFFF&\4c&HFF000F&}'Great Quotes {\c&HF50E20&\4c&H000000&}Journey'!?
+Dialogue: 0,0:00:15.50,0:00:19.10,Default,,0,0,0,,Without knowing anything, will he give us some great quotes?
+Dialogue: 0,0:00:15.50,0:00:22.33,Goofy round,,0,0,0,,{\i0\fscx115.000000\fscy110.000000\frz7.795\pos(250.500000,756.000000)\c&HF8FAE9&\3c&HE23A3E&\4c&HFFFFFF&\4a&H6B&}Hamada Dokkiri{\i1}
+Dialogue: 0,0:00:15.50,0:00:22.33,Blocky,,0,0,0,,{\pos(742.500000,904.000000)\fscx122.000000\fscy110.000000\c&H0FE44D&\3c&HFFFFFF&}Great Quotes Journey {\c&HBE66F4&} to Enoshima!
+Dialogue: 0,0:00:19.15,0:00:21.92,Default,,0,0,0,,This journey will reveal it all
+Dialogue: 0,0:00:24.84,0:00:25.97,Hamada,,0,0,0,,{\c&H000000&\4c&HED0E1E&}Oh man, there are loads {\c&HF2091A&\4c&H000000&}{\alpha&HFF&}of elementary school kids here
+Dialogue: 0,0:00:25.97,0:00:28.24,Hamada,,0,0,0,,{\c&H000000&\4c&HED0E1E&}Oh man, there are loads {\c&HF2091A&\4c&H000000&}of elementary school kids here
+Dialogue: 0,0:00:28.57,0:00:33.45,Smogo,,0,0,0,,{\fade(600,0)\fscx93\fscy131}{\pos(724.000000,884.000000)\c&HF03F9B&\3c&HFFFFFF&}{\blur25}{\4c&H09F6FF&}The quote he came up with on a really {\c&H0E06E0&}packed and shocked train
+Dialogue: 0,0:00:28.57,0:00:33.45,Smogo,,0,0,0,,{\fade(600,0)\fscx93\fscy131}{\pos(724.000000,884.000000)\c&HF03F9B&\3c&HFFFFFF&}{\blur5}{\4c&HFFFFFF&}The quote he came up with on a really {\c&H0E06E0&\4c&HFFFFFF&}packed and shocked train
+Dialogue: 0,0:00:29.05,0:00:33.57,Default,,0,0,0,,And the quote he came up with on a really packed and shocked train
+Dialogue: 0,0:00:33.85,0:00:35.21,Black Hamada,,0,0,0,,{\pos(464.500000,842.000000)\fscx222\fscy229}I'm going to
+Dialogue: 0,0:00:37.95,0:00:41.05,Smogo,,0,0,0,,{\fscx110\fscy135)\t(0,8000,\fscx120\fscy155}{\fade(600,0)}{\pos(724.000000,884.000000)\c&HF03F9B&\3c&HFFFFFF&}{\blur25}{\4c&H00FFEB&\c&H000000&}Furthermore, {\c&H0E06E0&\4c&H00EAFF&}he continues {\c&H000000&\4c&H00EAFF&}with his shocking quotes
+Dialogue: 0,0:00:37.95,0:00:41.05,Smogo,,0,0,0,,{\fscx110\fscy135)\t(0,8000,\fscx120\fscy155}{\fade(600,0)}{\pos(724.000000,884.000000)\c&HF03F9B&\3c&HFFFFFF&}{\blur5}{\4c&HFFFFFF&\c&H000000&}Furthermore, {\c&H0E06E0&\4c&HFFFFFF&}he continues {\c&H000000&}with his shocking quotes
+Dialogue: 0,0:00:37.97,0:00:41.27,Default,,0,0,0,,Furthermore, he continues with his shocking quotes
+Dialogue: 0,0:00:45.90,0:00:47.76,Matsumoto,,0,0,0,,You seriously can't {\c&H000000&\4c&H0000FF&} say something like that!
+Dialogue: 0,0:00:48.19,0:00:52.53,Rectangle,,0,0,0,,{\fscx233.000000\fscy133.000000\t(0,8000,\fscx254.000000\fscy137.000000)\3c&H3DFFFE&\4c&H3CFFFD&}{\fade(400,400)\move(258.000000,918.000000,223.500000,920.000000,24,4329)}{\p1}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:00:48.19,0:00:52.53,Default,,0,0,0,,{\fade(400,400)\move(280.500000,954.000000,247.500000,956.000000,24,4095)\fscx128\fscy152}{\4c&H000000&\4a&HFF&\3c&H0000FF&\3a&HFF&\c&H000000&\pos(280.500000,954.000000)}Secret Camera
+Dialogue: 0,0:00:48.19,0:00:52.53,Smogo,,0,0,0,,{\fscx130.000000\fscy130.000000\t(0,8000,\fscx150.000000\fscy150.000000)\pos(874.500000,862.000000)}{\fade(400,400)}{\pos(855.000000,860.000000)}{\blur5\3c&H000000&}{\4c&HFFFFFF&\c&H27B737&\3c&HC9C9C9&}catches him{\c&H1000D5&} saying another {\c&H27B737&}quote
+Dialogue: 0,0:00:48.19,0:00:52.53,Smogo,,0,0,0,,{\fscx130.000000\fscy130.000000\t(0,8000,\fscx150.000000\fscy150.000000)\pos(874.500000,862.000000)}{\fade(400,400)}{\pos(855.000000,860.000000)}{\blur25}{\4c&HFFFFFF&\c&H27B737&\3c&HFFFFFF&}catches him{\c&H1000D5&} saying another {\c&H27B737&}quote
+Dialogue: 0,0:00:48.30,0:00:52.95,Default,,0,0,0,,And the secret camera catches him saying another quote
+Dialogue: 0,0:00:56.05,0:00:57.54,Hamada,,0,0,0,,{\fscx157.000000\fscy163.000000}No one is saying anything!
+Dialogue: 0,0:01:11.42,0:01:16.35,Default,,0,0,0,,{\fade(400,0)}{\pos(720.000000,888.000000)\4c&H000000&\4a&HFF&\\fscx133.000000\fscy120.000000}On this day {\c&H40FFF3&}everyone in the studio {\c&HFFFFFF&}was nervous
+Dialogue: 0,0:01:12.05,0:01:16.22,Default,,0,0,0,,On this day, everyone in the studio was nervous
+Dialogue: 0,0:01:18.32,0:01:20.70,Black Text,,0,0,0,,Good afternoon
+Dialogue: 0,0:01:20.46,0:01:28.67,Smogo,,0,0,0,,{\fade(600,0)}{\pos(724.000000,884.000000)\c&HF03F9B&\3c&HFFFFFF&}{\blur10}{\4c&HFFFFFF&\c&H000000&}We {\c&H0E06E0&\4c&HFFFFFF&}pranked {\c&H000000&}Hamada
+Dialogue: 0,0:01:29.03,0:01:36.44,Default,,0,0,0,,{\fade(400,0)\pos(696.000000,922.000000)\fscx123\fscy135}{\pos(724.000000,884.000000)}{\blur5}The other 5 who are all involved as well enter the studio
+Dialogue: 0,0:01:20.82,0:01:23.67,Default,,0,0,0,,That's right, we
+Dialogue: 0,0:01:23.67,0:01:27.60,Default,,0,0,0,,dokkiri'd Hamada
+Dialogue: 0,0:01:28.82,0:01:31.40,Black Text,,0,0,0,,Good afternoon
+Dialogue: 0,0:01:37.01,0:01:37.31,Smogo,,0,0,0,,{\fscx70.000000\fscy70.000000\t(0,250,\fscx130.000000\fscy130.000000)\pos(708.000000,920.000000)}{\fade(400,0)}{\pos(718.500000,870.000000)}{\c&H00CC0E&\3c&HFFFFFF&\4c&H00CA0B&}After this, we reveal all {\c&H1F61F8&\4c&H0C62EB&}whilst filming
+Dialogue: 0,0:01:37.31,0:01:46.22,Smogo,,0,0,0,,{\fscx130.000000\fscy130.000000\t(0,9900,\fscx160.000000\fscy160.000000)\pos(708.000000,920.000000)}{\c&H00CC0E&\3c&HFFFFFF&\4c&H00CA0B&}After this, we reveal all {\c&H1F61F8&\4c&H0C62EB&}whilst filming
+Dialogue: 0,0:01:46.59,0:02:01.53,Sharp Blocky,,0,0,0,,{\pos(706.500000,116.000000)\4c&H124A14&\4a&H00&\c&H01CC0B&\3c&HFFFFFF&}What the {\c&HFFDBFF&\3c&H9E03C9&\4c&HFFFFFF&}Prank{\4c&H124A14&\4a&H00&\c&H01CC0B&\3c&HFFFFFF&} is about
+Dialogue: 0,0:01:46.65,0:02:01.53,Sharp Blocky,,0,0,0,,{\c&H000000&\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\pos(732,282)}A rumour has it that Hamada comes up with
+Dialogue: 0,0:01:46.65,0:02:01.53,Sharp Blocky,,0,0,0,,{\c&H000000&\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\pos(1050.000000,452.000000)} when speaking casually
+Dialogue: 0,0:01:46.65,0:02:01.53,Rectangle,,0,0,0,,{\p1\4c&H1800D9&\4a&H00&\pos(646.500000,494.000000)\fscx366.000000\fscy170.000000\clip(438,440,870,562)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:01:46.65,0:02:01.53,Sharp Blocky,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\pos(646.500000,530.000000)}great quotes
+Dialogue: 0,0:01:46.75,0:02:01.53,Sharp Blocky,,0,0,0,,{\c&H000000&\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\pos(663.000000,654.000000)}To find out if this was true
+Dialogue: 0,0:01:46.79,0:02:01.53,Sharp Blocky,,0,0,0,,{\c&H000000&\4c&H000000&\4a&HFF&\3c&H000000&\3a&HFF&\pos(867.000000,974.000000)}they sent him on a fake filming outing
+Dialogue: 0,0:02:01.87,0:02:07.57,Testhand,,0,0,0,,{\blur15}{\fade(400,0)\pos(723.000000,892.000000)\i0\fscx187.000000\fscy208.000000\c&HF50A1A&\3c&H000000&}What will Hamada do when he finds out...{\i1}
+Dialogue: 0,0:02:01.87,0:02:07.57,Testhand,,0,0,0,,{\fade(400,0)\pos(723.000000,892.000000)\i0\fscx187.000000\fscy208.000000\c&HF50A1A&\3c&HFFFFFF&}What will Hamada do when he finds out...{\i1}
+Dialogue: 0,0:02:14.88,0:02:19.12,Sign,,0,0,0,,{\fade(400,0)}{\fscx111.000000\fscy103.000000\pos(717.000000,838.000000)\c&H25BF1A&\3c&HFFFFFF&}Downtown
+Dialogue: 0,0:02:14.88,0:02:19.12,Hamada,,0,0,0,,{\fade(400,0)\pos(1078.5,906)}{\pos(1042.500000,906.000000)}Hamada Masatoshi
+Dialogue: 0,0:02:14.88,0:02:19.12,Matsumoto,,0,0,0,,{\fade(400,0)\pos(357,908)}{\pos(1042.500000,906.000000)}Matsumoto Hitoshi
+Dialogue: 0,0:01:31.52,0:01:36.15,Default,,0,0,0,,The 5 who are involved in the Dokkiri come into the studio
+Dialogue: 0,0:01:38.10,0:01:41.67,Default,,0,0,0,,After this, we reveal all whilst filming
+Dialogue: 0,0:01:41.67,0:01:46.17,Default,,0,0,0,,Allow us to explain what the Dokkiri is about
+Dialogue: 0,0:01:47.15,0:01:53.87,Default,,0,0,0,,We heard a rumour that Hamada comes up with great quotes when speaking casually
+Dialogue: 0,0:01:53.87,0:01:56.90,Default,,0,0,0,,So in order to find out if that was true...
+Dialogue: 0,0:01:56.90,0:02:01.72,Default,,0,0,0,,We sent him on a fake filming outing.
+Dialogue: 0,0:02:02.02,0:02:05.27,Default,,0,0,0,,And Hamada has no idea yet what is happening
+Dialogue: 0,0:02:05.27,0:02:07.77,Default,,0,0,0,,How will he react?
+Dialogue: 0,0:02:07.77,0:02:10.02,Black Text,,0,0,0,,We are rolling in 3...2...1...
+Dialogue: 0,0:02:14.80,0:02:16.32,Matsumoto,,0,0,0,,So um....
+Dialogue: 0,0:02:16.32,0:02:18.17,Matsumoto,,0,0,0,,basically...
+Dialogue: 0,0:02:18.17,0:02:19.32,Matsumoto,,0,0,0,,apparently...
+Dialogue: 0,0:02:19.32,0:02:21.42,Matsumoto,,0,0,0,,{\pos(796.5,904)}you know
+Dialogue: 0,0:02:19.32,0:02:21.42,Rectangle,,0,0,0,,{\p1\clip(483,872,693,1020)\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\pos(582.000000,928.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:19.32,0:02:21.42,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx151\fscy168\pos(588,986)}Quotes,
+Dialogue: 0,0:02:21.42,0:02:24.46,Matsumoto,,0,0,0,,Have you guys come out with{\alpha&HFF&} like... quotes during your careers?
+Dialogue: 0,0:02:24.46,0:02:26.06,Matsumoto,,0,0,0,,Have you guys come out with like... quotes during your careers?
+Dialogue: 0,0:02:21.42,0:02:26.06,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(93,876,292,1020)\pos(196.500000,904.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:21.42,0:02:26.06,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\clip(96,878,292,1022)\fscx157\fscy174\pos(193.5,992)}Quotes
+Dialogue: 0,0:02:26.26,0:02:28.76,Yamasaki,,0,0,0,,{\fade(400,0)}{\pos(720.000000,916.000000)}Tsukitei Hosei
+Dialogue: 0,0:02:26.06,0:02:30.87,Yamasaki,,0,0,0,,{\fscx87\fscy101}I think when I said, "A burdock is just a tree and only a tree" is like my quote...
+Dialogue: 0,0:02:31.62,0:02:33.90,Sign,,0,0,0,,{\fade(400,0)\pos(718.500000,820.000000)}{\fscx111.000000\fscy103.000000\pos(717.000000,838.000000)\c&H25BF1A&\3c&HFFFFFF&}Cocorico
+Dialogue: 0,0:02:31.62,0:02:33.90,Endo,,0,0,0,,{\pos(463.5,898)}Endo Shozo
+Dialogue: 0,0:02:31.62,0:02:33.90,Tanaka,,0,0,0,,{\pos(987,898)}Tanaka Naoki
+Dialogue: 0,0:02:31.62,0:02:33.37,Yamasaki,,0,0,0,,It's like something only I can say
+Dialogue: 0,0:02:33.37,0:02:34.27,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:02:34.27,0:02:38.64,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(88,740,264,888)\pos(219.000000,778.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:34.27,0:02:38.64,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx128\fscy156\pos(175.5,854)}A quote
+Dialogue: 0,0:02:34.27,0:02:38.64,Matsumoto,,0,0,0,,{\pos(337.500000,780.000000)}cannot
+Dialogue: 0,0:02:34.90,0:02:38.64,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(415,744,591,888)\pos(583.500000,760.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:34.90,0:02:38.64,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\pos(502.500000,854.000000)\fscx145\fscy161} just be
+Dialogue: 0,0:02:34.90,0:02:38.64,Matsumoto,,0,0,0,,{\pos(931.500000,770.000000)}created because you want
+Dialogue: 0,0:02:36.94,0:02:38.64,Matsumoto,,0,0,0,,{\pos(352.5,1052)}to create one
+Dialogue: 0,0:02:38.64,0:02:43.31,Matsumoto,,0,0,0,,{\pos(540.000000,738.000000)}I think it's when you're speaking normally and
+Dialogue: 0,0:02:41.34,0:02:43.31,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(220,874,411,1014)\pos(391.500000,894.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:41.34,0:02:43.31,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx150\fscy165\pos(313.5,988)}a quote
+Dialogue: 0,0:02:41.34,0:02:43.31,Matsumoto,,0,0,0,,comes out is when it is a 'quote'
+Dialogue: 0,0:02:43.31,0:02:46.55,Matsumoto,,0,0,0,,{\pos(264,904)}What I just said
+Dialogue: 0,0:02:43.31,0:02:46.55,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\pos(391.500000,894.000000)\clip(441,870,634,1020)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:43.31,0:02:46.55,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx165.000000\fscy173.000000\pos(537.000000,986.000000)}is
+Dialogue: 0,0:02:43.31,0:02:46.55,Matsumoto,,0,0,0,,{\pos(922.500000,900.000000)}now my quote.
+Dialogue: 0,0:02:48.65,0:02:51.02,Hamada,,0,0,0,,{\pos(700.500000,906.000000)}What the hell are you on about?
+Dialogue: 0,0:02:48.57,0:02:52.60,Matsumoto,,0,0,0,,I've also heard a rumour recently...
+Dialogue: 0,0:02:52.65,0:02:53.32,Yamasaki,,0,0,0,,I see
+Dialogue: 0,0:02:53.32,0:02:55.32,Matsumoto,,0,0,0,,Hamada-san...
+Dialogue: 0,0:02:55.35,0:02:57.47,Matsumoto,,0,0,0,,You casually come up with great quotes.
+Dialogue: 0,0:02:57.47,0:03:00.42,Matsumoto,,0,0,0,,That's what I've heard.
+Dialogue: 0,0:02:57.47,0:03:08.00,Rectangle,,0,0,0,,{\fade(200,0)\clip(3,864,1437,1004)\fscx1421.000000\fscy325.000000\4c&HE0E0E3&\4a&H1A&\pos(744,888)}{\p1}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:02:57.47,0:03:08.00,Smogo,,0,0,0,,{\blur2\pos(735,960)}{\fade(400,0)\pos(733.500000,962.000000)\4c&H000000&\4a&HFF&\c&H000000&\3c&HFFFFFF&}When casually speaking, comes up with {\c&H1900CF&}great quotes {\c&H000000&}
+Dialogue: 0,0:02:57.47,0:03:08.00,Default,,0,0,0,,{\fade(400,0)\pos(360.000000,746.000000)\3c&H000000&\4c&HEE8E27&} Rumour about Hamada
+Dialogue: 0,0:02:58.70,0:03:00.42,Yamasaki,,0,0,0,,Really?
+Dialogue: 0,0:03:00.55,0:03:02.30,Tanaka,,0,0,0,,Without trying to?
+Dialogue: 0,0:03:01.42,0:03:02.27,Matsumoto,,0,0,0,,Yeah.
+Dialogue: 0,0:03:02.29,0:03:04.95,Matsumoto,,0,0,0,,If that's true, that is really amazing.
+Dialogue: 0,0:03:04.95,0:03:07.32,Hamada,,0,0,0,,What are you talking about?
+Dialogue: 0,0:03:06.27,0:03:07.32,Matsumoto,,0,0,0,,So, umm...
+Dialogue: 0,0:03:07.40,0:03:08.00,Matsumoto,,0,0,0,,You know...
+Dialogue: 0,0:03:08.00,0:03:11.04,Matsumoto,,0,0,0,,You went and did something for us, didn't you?
+Dialogue: 0,0:03:10.27,0:03:12.25,Hamada,,0,0,0,,{\pos(879.000000,608.000000)}Huh?
+Dialogue: 0,0:03:12.25,0:03:13.81,Matsumoto,,0,0,0,,You went there and did a little something for us?
+Dialogue: 0,0:03:13.81,0:03:14.84,Hamada,,0,0,0,,Where?
+Dialogue: 0,0:03:14.84,0:03:18.64,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(490,874,687,1020)\pos(655.500000,910.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:03:14.84,0:03:18.64,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\pos(585,984)\fscx78\fscy166}A Great Quote
+Dialogue: 0,0:03:14.84,0:03:18.64,Matsumoto,,0,0,0,,{\pos(813.000000,898.000000)}Journey
+Dialogue: 0,0:03:16.75,0:03:18.37,Hamada,,0,0,0,,A Great Quote Journey?
+Dialogue: 0,0:03:18.45,0:03:19.52,Endo,,0,0,0,,A Great Quote Journey?
+Dialogue: 0,0:03:19.52,0:03:21.92,Matsumoto,,0,0,0,,You went on a little great quote trip, right?
+Dialogue: 0,0:03:22.55,0:03:25.45,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\pos(655.500000,910.000000)\clip(574,870,768,1022)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:03:22.55,0:03:25.45,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx105\fscy173\pos(672,982)}Great Quote
+Dialogue: 0,0:03:22.11,0:03:25.45,Hamada,,0,0,0,,{\pos(349.5,912)}What the hell is this
+Dialogue: 0,0:03:22.55,0:03:25.45,Hamada,,0,0,0,,{\pos(939,902)}holiday?
+Dialogue: 0,0:03:23.92,0:03:25.47,Matsumoto,,0,0,0,,Umm...
+Dialogue: 0,0:03:25.47,0:03:27.22,Matsumoto,,0,0,0,,So umm...basically
+Dialogue: 0,0:03:26.79,0:03:33.39,Rectangle,,0,0,0,,{\p1\4c&HFFFFFF&\4a]&H00&\clip(97,754,613,994)\pos(331.500000,798.000000)\fscx446.000000\fscy331.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:03:26.79,0:03:33.39,Default,,0,0,0,,{\c&H000000&\3c&H1111BE&\3a&HFF&\4c&H000000&\4a&HFF&\fscx64\fscy135\pos(352.5,926)}The recording we did yesterday as was actually\N about you coming up with great quotes
+Dialogue: 0,0:03:26.79,0:03:33.39,Default,,0,0,0,,{\c&H0900D5&\pos(352.500000,684.000000)}{\3c&HFFFFFF&}Note behind camera
+Dialogue: 0,0:03:27.22,0:03:28.65,Matsumoto,,0,0,0,,So Hamada-san
+Dialogue: 0,0:03:28.65,0:03:30.27,Hamada,,0,0,0,,Huh!?
+Dialogue: 0,0:03:33.39,0:03:37.63,Hamada,,0,0,0,,{\pos(531,864)}Wait, are you telling me that was a little
+Dialogue: 0,0:03:33.39,0:03:37.63,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(396,874,595,1022)\pos(552.000000,892.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:03:33.39,0:03:37.63,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\pos(496.500000,986.000000)\fscx105\fscy161} Great Quote
+Dialogue: 0,0:03:33.39,0:03:37.63,Hamada,,0,0,0,,{\pos(1171.5,862)} trip!?
+Dialogue: 0,0:03:37.63,0:03:39.47,Black Hamada,,0,0,0,,{\pos(693.000000,880.000000)\fscx191.000000\fscy173.000000}Don't mess with me!!
+Dialogue: 0,0:03:39.47,0:03:41.57,Black Hamada,,0,0,0,,{\fscx312.000000\fscy362.000000\pos(679.500000,934.000000)}Don't mess with me!!
+Dialogue: 0,0:03:41.30,0:03:43.90,Matsumoto,,0,0,0,,You went
+Dialogue: 0,0:03:42.82,0:03:43.90,Tanaka,,0,0,0,,Yes yes
+Dialogue: 0,0:03:43.90,0:03:58.18,Rectangle,,0,0,0,,{\fade(400,0)\clip(7,812,1437,998)\pos(705.000000,894.000000)\4c&HFFFFFF&\4a&H00&\fscx1508.000000\fscy356.000000}{\p1}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:03:43.90,0:03:58.18,Default,,0,0,0,,{\fade(400,0)\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\pos(733.500000,946.000000)}Was invited by Nakada Yasutaka {\c&HFB00FF&}to film for \N {\c&H000000&}Hamada Bamyu Bamyu's new promotion video
+Dialogue: 0,0:03:43.90,0:03:46.12,Matsumoto,,0,0,0,,to film for the promotion video
+Dialogue: 0,0:03:46.12,0:03:47.82,Matsumoto,,0,0,0,,of Hamada Bamyu Bamyu, right?
+Dialogue: 0,0:03:47.82,0:03:48.77,Hamada,,0,0,0,,Yeah, to Enoshima.
+Dialogue: 0,0:03:48.77,0:03:50.90,Matsumoto,,0,0,0,,Right, Enoshima.
+Dialogue: 0,0:03:50.90,0:03:53.30,Matsumoto,,0,0,0,,But actually, we didn't tell you this...
+Dialogue: 0,0:03:53.30,0:03:56.80,Hamada,,0,0,0,,This is ridiculous, you've got to be kidding me!
+Dialogue: 0,0:03:56.80,0:03:57.97,Yamasaki,,0,0,0,,A prank!!
+Dialogue: 0,0:03:57.97,0:04:00.92,Hamada,,0,0,0,,No seriously guys, like...
+Dialogue: 0,0:04:00.92,0:04:04.32,Hamada,,0,0,0,,{\pos(720.000000,906.000000)}They made me walk so much
+Dialogue: 0,0:04:02.62,0:04:03.17,Endo,,0,0,0,,Ye{\c&HFF00AA&}ah
+Dialogue: 0,0:04:03.25,0:04:04.55,Endo,,0,0,0,,In Enoshima
+Dialogue: 0,0:04:04.55,0:04:05.99,Hamada,,0,0,0,,I think I said it while filming, but
+Dialogue: 0,0:04:05.99,0:04:06.96,Hamada,,0,0,0,,I totally understand{\alpha&HFF&} how Yama-chan feels now.
+Dialogue: 0,0:04:06.96,0:04:08.93,Hamada,,0,0,0,,I totally understand how Yama-chan feels now.
+Dialogue: 0,0:04:08.93,0:04:10.43,Hamada,,0,0,0,,I have no trust {\c&H000000&\4c&HFF0400&}for the staff here {\alpha&HFF&}at all anymore.
+Dialogue: 0,0:04:10.43,0:04:14.03,Hamada,,0,0,0,,I have no trust {\c&H000000&\4c&HFF0400&}for the staff here at all anymore.
+Dialogue: 0,0:04:12.47,0:04:14.03,Yamasaki,,0,0,0,,{\pos(339.000000,642.000000)}I know, right?!
+Dialogue: 0,0:04:14.03,0:04:16.97,Yamasaki,,0,0,0,,Yeah, you've lost all trust for them too, right?
+Dialogue: 0,0:04:17.07,0:04:19.10,Matsumoto,,0,0,0,,I'm sorry that you feel like that,
+Dialogue: 0,0:04:19.20,0:04:20.22,Matsumoto,,0,0,0,,but let's try to build some trust up again.
+Dialogue: 0,0:04:20.22,0:04:22.02,Matsumoto,,0,0,0,,So, let's hear your great quotes and...
+Dialogue: 0,0:04:22.07,0:04:24.78,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(129,876,325,1020)\pos(277.500000,912.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:04:22.07,0:04:24.78,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\pos(225.000000,974.000000)\fscx112\fscy158}I have not
+Dialogue: 0,0:04:22.07,0:04:22.97,Hamada,,0,0,0,,{\pos(730.500000,900.000000)}come up with a {\alpha&HFF&}single quote
+Dialogue: 0,0:04:22.97,0:04:24.78,Hamada,,0,0,0,,{\pos(730.500000,900.000000)}come up with a single quote!!
+Dialogue: 0,0:04:23.90,0:04:26.73,Hamada,,0,0,0,,They just made me walk around
+Dialogue: 0,0:04:26.77,0:04:28.52,Hamada,,0,0,0,,and that was it.
+Dialogue: 0,0:04:28.52,0:04:29.87,Endo,,0,0,0,,But it's when you're acting normally...
+Dialogue: 0,0:04:29.87,0:04:31.98,Matsumoto,,0,0,0,,While you were walking around normally
+Dialogue: 0,0:04:31.98,0:04:35.79,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\pos(277.500000,912.000000)\clip(220,876,421,1022)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:04:31.98,0:04:35.79,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx95\fscy166\pos(321,984)}great quotes
+Dialogue: 0,0:04:31.98,0:04:35.79,Matsumoto,,0,0,0,,{\pos(801.000000,906.000000)}have come out of your mouth.
+Dialogue: 0,0:04:33.45,0:04:35.79,Hamada,,0,0,0,,No seriously, I haven't come up with one.
+Dialogue: 0,0:04:35.85,0:04:38.97,Matsumoto,,0,0,0,,Well we have a lot to watch.
+Dialogue: 0,0:04:37.45,0:04:38.97,Endo,,0,0,0,,I want to see it now!
+Dialogue: 0,0:04:39.40,0:04:40.30,Hamada,,0,0,0,,Oh man oh man...
+Dialogue: 0,0:04:40.30,0:04:41.02,Endo,,0,0,0,,I think there will be a few.
+Dialogue: 0,0:04:41.02,0:04:45.06,Red Sign,,0,0,0,,{\blur25\pos(735.000000,1034.000000)}{\c&H0000FF&\3c&H0000FF&\4c&H0000FF&\pos(735.000000,1046.000000)}Are you fucking kidding me, OI!
+Dialogue: 0,0:04:41.02,0:04:45.06,Red Sign,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&HEC0532&\pos(735.000000,1046.000000)}Are you fucking kidding me, OI!
+Dialogue: 0,0:04:47.57,0:04:52.34,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\clip(1008,758,1213,902)\pos(1171.500000,808.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:04:47.57,0:04:52.34,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\fscx95\fscy171\pos(1110,866)}great quotes
+Dialogue: 0,0:04:49.40,0:04:52.34,Matsumoto,,0,0,0,,{\pos(522.000000,1066.000000)}during his trip, let's check it out.
+Dialogue: 0,0:04:47.57,0:04:52.34,Matsumoto,,0,0,0,,{\4c&H0000FF&\pos(569.5,790)}So did Hamada-san {\c&H000000&}naturally come up with some
+Dialogue: 0,0:04:52.46,0:04:53.41,Matsumoto,,0,0,0,,VTR start!
+Dialogue: 0,0:04:53.50,0:04:56.14,Black Hamada,,0,0,0,,You've got to be kidding me!!
+Dialogue: 0,0:04:56.81,0:05:01.48,Sharp Blocky,,0,0,0,,{\c&H000000&\3c&HFFFFFF&)\move(1429.5,726,265.5,718,200,19)}After the break
+Dialogue: 0,0:04:56.81,0:05:01.48,Sharp Blocky,,0,0,0,,{\fscx120.000000\fscy100.000000\c&H4AFFFA&\3c&H000000&\4c&HFFFFFF&\move(1437,856,727.5,856,200,19)}A string of great quotes {\c&H1B01D0&\3c&HFFFFFF&}from Enoshima
+Dialogue: 0,0:04:56.90,0:05:01.47,Default,,0,0,0,,After the break, a string of great quotes from Enoshima!
+Dialogue: 0,0:05:01.48,0:05:02.58,Hamada,,0,0,0,,{\c&H000000&\4c&HFB0E22&}There are so many {\4c&H000000&\c&HEA061C&}{\alpha&HFF&}elementary school kids on there
+Dialogue: 0,0:05:02.58,0:05:04.52,Hamada,,0,0,0,,{\c&H000000&\4c&HFB0E22&}There are so many {\4c&H000000&\c&HEA061C&}elementary school kids on there
+Dialogue: 0,0:05:04.82,0:05:06.05,Black Hamada,,0,0,0,,{\pos(471.000000,890.000000)\fscx301\fscy271}I will
+Dialogue: 0,0:05:09.72,0:05:10.56,License,,0,0,0,,Hamada goes to Enoshima{\alpha&HFF&} special!
+Dialogue: 0,0:05:10.56,0:05:14.26,License,,0,0,0,,Hamada goes to Enoshima special!
+Dialogue: 0,0:05:14.43,0:05:17.76,Sign,,0,0,0,,{\fade(400,0)\fscx122.000000\fscy103.000000\pos(385.500000,816.000000)\c&H16FEEC&\4c&HFFFFFF&}License
+Dialogue: 0,0:05:14.43,0:05:17.76,License,,0,0,0,,{\fade(400,0)\pos(387.000000,928.000000)} Inamoto Junichi
+Dialogue: 0,0:05:15.52,0:05:17.35,Hamada,,0,0,0,,What the hell!
+Dialogue: 0,0:05:18.13,0:05:32.48,Rectangle,,0,0,0,,{\fade(400,0)\pos(705.000000,894.000000)\4c&H121212&\4a&H00&\fscx1508.000000\fscy356.000000\clip(-9,802,1437,1012)}{\p1\3c&H000000&\4c&H121212&\4a&H38&}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:05:18.13,0:05:32.48,Default,,0,0,0,,{\fade(400,0)\c&HFFFFFF&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\pos(733.500000,946.000000)}Invited by Nakada Yasutaka, {\c&HFB00FF&\3c&HFFFFFF&\3a&H00&}Hamada has been dragged out for a shoot \N {\c&HFFFFFF&\3c&HFFFFFF&\3a&HFF&} for his Hamada Bamyu Bamyu promotion video
+Dialogue: 0,0:05:17.47,0:05:18.77,License,,0,0,0,,What's wrong?
+Dialogue: 0,0:05:18.77,0:05:20.55,Hamada,,0,0,0,,Like, seriously...today
+Dialogue: 0,0:05:20.55,0:05:22.92,Hamada,,0,0,0,,I'm going to moan so much like Heipo
+Dialogue: 0,0:05:22.92,0:05:24.35,License,,0,0,0,,Please don't do that.
+Dialogue: 0,0:05:24.35,0:05:26.45,Hamada,,0,0,0,,I'll do it in a really polite way as well.
+Dialogue: 0,0:05:26.45,0:05:27.52,Hamada,,0,0,0,,Like, really polite and correct Japanese.
+Dialogue: 0,0:05:27.52,0:05:29.65,Hamada,,0,0,0,,"It really is like this, right?"
+Dialogue: 0,0:05:30.72,0:05:33.95,License,,0,0,0,,That's totally Heipo-san.
+Dialogue: 0,0:05:33.95,0:05:35.75,License,,0,0,0,,This is a special episode{\alpha&HFF&} for Hamada Bamyu Bamyu.
+Dialogue: 0,0:05:35.75,0:05:37.52,License,,0,0,0,,This is a special episode for Hamada Bamyu Bamyu.
+Dialogue: 0,0:05:37.52,0:05:39.52,Hamada,,0,0,0,,I've already said I've had enough.
+Dialogue: 0,0:05:39.52,0:05:42.32,License,,0,0,0,,It doesn't matter how many times you say you've had enough,
+Dialogue: 0,0:05:42.32,0:05:44.72,License,,0,0,0,,{\pos(721.000000,936.000000)}you've been invited by Nakada Yasutaka-san.
+Dialogue: 0,0:05:43.77,0:05:46.22,Hamada,,0,0,0,,How much of a big shot is this Nakada guy?
+Dialogue: 0,0:05:55.37,0:05:56.02,Hamada,,0,0,0,,No no no...
+Dialogue: 0,0:05:57.32,0:05:59.87,Hamada,,0,0,0,,I'm saying that I don't want to do it though
+Dialogue: 0,0:06:00.10,0:06:02.92,License,,0,0,0,,But you've got to do your job there properly, right?
+Dialogue: 0,0:06:03.02,0:06:05.85,Hamada,,0,0,0,,Isn't there anyone I can speak to about it?
+Dialogue: 0,0:06:08.38,0:06:14.59,Smogo,,0,0,0,,{\blur25\fscx75\fscy121}{\fade(400,0)\pos(720.000000,888.000000)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&}We explain to the moaning Hamada what he's going to be up to on this 'fake trip'
+Dialogue: 0,0:06:08.38,0:06:14.59,Smogo,,0,0,0,,{\blur1\fscx75\fscy121}{\fade(400,0)\pos(720.000000,888.000000)\c&H03CC08&\3c&HFFFFFF&\4c&H03CC08&}We explain to the moaning Hamada what he's {\c&H1100D7&\4c&H1700D7&}going to be up to on this 'fake trip'
+Dialogue: 0,0:06:14.95,0:06:20.93,Sharp Blocky,,0,0,0,,{\blur25\fscx76\fscy103}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}We gave him the money he needed for the trip{\c&H45B615&} and he was ready...
+Dialogue: 0,0:06:14.95,0:06:20.93,Sharp Blocky,,0,0,0,,{\blur5\fscx76\fscy103}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H878787&}We gave him the money he needed for the trip{\c&H45B615&} and he was ready...
+Dialogue: 0,0:06:05.85,0:06:07.85,License,,0,0,0,,That would be Heipo-san...
+Dialogue: 0,0:06:09.02,0:06:14.80,Default,,0,0,0,,After this, putting up with the moaning Hamada, we explain what he is going to be up to today.
+Dialogue: 0,0:06:15.50,0:06:20.47,Default,,0,0,0,,We gave him the money he needed for this journey and he was ready to go.
+Dialogue: 0,0:06:21.55,0:06:22.16,Hamada,,0,0,0,,I don't get why I've got to do this.
+Dialogue: 0,0:06:22.16,0:06:24.00,License,,0,0,0,,Please smile when you're being filmed today, okay?
+Dialogue: 0,0:06:24.00,0:06:25.25,Hamada,,0,0,0,,You just want me to look happy, right?
+Dialogue: 0,0:06:25.25,0:06:27.30,License,,0,0,0,,Yes, please.
+Dialogue: 0,0:06:25.57,0:06:27.30,Hamada,,0,0,0,,I'm going to be like this the whole day.
+Dialogue: 0,0:06:27.60,0:06:28.52,License,,0,0,0,,That's no good...
+Dialogue: 0,0:06:28.52,0:06:30.52,License,,0,0,0,,Please smile.
+Dialogue: 0,0:06:30.54,0:06:34.47,License,,0,0,0,,{\pos(591.000000,830.000000)}Off camera, you're
+Dialogue: 0,0:06:31.27,0:06:34.47,License,,0,0,0,,{\pos(721.500000,952.000000)}so nice to everyone usually!
+Dialogue: 0,0:06:33.62,0:06:35.92,License,,0,0,0,,You never make that kind of face!
+Dialogue: 0,0:06:36.61,0:06:41.48,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&} Journey {\c&H3925E1&}Begins
+Dialogue: 0,0:06:36.61,0:06:41.48,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H878787&}Journey {\c&H3925E1&}Begins
+Dialogue: 0,0:06:37.10,0:06:39.65,Default,,0,0,0,,He doesn't seem too happy about it,
+Dialogue: 0,0:06:39.65,0:06:41.65,Default,,0,0,0,,but his journey begins!
+Dialogue: 0,0:06:45.18,0:06:51.82,Black Text,,0,0,0,,{\pos(316.500000,862.000000)}Staff
+Dialogue: 0,0:06:45.18,0:06:47.79,Black Text,,0,0,0,,Since we are going to Enoshima,{\alpha&HFF&} you're going to ride the Eno train.
+Dialogue: 0,0:06:47.79,0:06:51.82,Black Text,,0,0,0,,Since we are going to Enoshima, you're going to ride the Eno train.
+Dialogue: 0,0:06:51.82,0:06:53.53,Hamada,,0,0,0,,Wait, we're not going by car?
+Dialogue: 0,0:07:02.57,0:07:04.17,Yamasaki,,0,0,0,,{\c&H000000&\4c&H26D52A&}Man, he's a proper{\c&H18A41C&\4c&H000000&} celebrity.
+Dialogue: 0,0:07:04.57,0:07:10.04,Smogo,,0,0,0,,{\blur25}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&}First, he heads to the train station.
+Dialogue: 0,0:07:04.57,0:07:10.04,Smogo,,0,0,0,,{\blur1}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H1261F2&\3c&HFFFFFF&\4c&H1865ED&}First, he heads to the train station.
+Dialogue: 0,0:07:04.37,0:07:06.52,Default,,0,0,0,,When you go on a trip, you ride the train.
+Dialogue: 0,0:07:06.52,0:07:08.80,Default,,0,0,0,,He heads for the station.
+Dialogue: 0,0:07:08.80,0:07:10.80,Default,,0,0,0,,When...
+Dialogue: 0,0:07:12.82,0:07:14.27,Hamada,,0,0,0,,Oh, hello there.
+Dialogue: 0,0:07:14.27,0:07:16.27,Hamada,,0,0,0,,Oww...
+Dialogue: 0,0:07:16.76,0:07:18.53,Hamada,,0,0,0,,There's no need to film that, man!
+Dialogue: 0,0:06:53.76,0:07:01.20,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:06:56.56,0:07:01.20,Testhand,,0,0,0,,{\fade(600,0)\pos(696,728)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Wait, we're not going by car?
+Dialogue: 0,0:06:53.89,0:07:01.20,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote only a super celebrity can come up with:
+Dialogue: 0,0:07:18.72,0:07:27.76,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:07:23.59,0:07:27.76,Testhand,,0,0,0,,{\fade(600,0)\pos(696,728)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Oww...There's no need to film that man!
+Dialogue: 0,0:07:18.92,0:07:27.76,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A desperate quote to hide the fact that he's an old man:
+Dialogue: 0,0:07:27.76,0:07:28.39,Hamada,,0,0,0,,Why is he speaking{\alpha&HFF&} with like no emotion in his voice?
+Dialogue: 0,0:07:28.39,0:07:31.53,Hamada,,0,0,0,,Why is he speaking{\c&H000000&\4c&HF2091D&} with like no {\c&HFF0000&\4c&H000000&}emotion in his voice?
+Dialogue: 0,0:07:32.22,0:07:36.65,Hamada,,0,0,0,,Won't people think that I'm doing a new program by myself, like about my adventures and stuff?
+Dialogue: 0,0:07:36.65,0:07:38.87,Hamada,,0,0,0,,It looks so crap, man.
+Dialogue: 0,0:07:38.97,0:07:42.20,Hamada,,0,0,0,,I can't be doing this when I'm by myself.
+Dialogue: 0,0:07:42.64,0:07:50.92,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:07:46.61,0:07:50.92,Testhand,,0,0,0,,{\fade(600,0)\pos(696,724)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}I can't be doing this when I'm by myself
+Dialogue: 0,0:07:42.94,0:07:50.92,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote for his beloved partner (Matsumoto):
+Dialogue: 0,0:07:50.92,0:07:51.28,Matsumoto,,0,0,0,,That really
+Dialogue: 0,0:07:51.28,0:07:54.30,Matsumoto,,0,0,0,,{\pos(723.000000,882.000000)}Hit me in the feels right now...
+Dialogue: 0,0:07:52.32,0:07:54.27,Hamada,,0,0,0,,Oh piss off!
+Dialogue: 0,0:07:56.20,0:07:57.90,Hamada,,0,0,0,,Hello, there.
+Dialogue: 0,0:07:58.10,0:08:03.42,Hamada,,0,0,0,,Everyone looks like they're having fun even though it's so hot, are they all okay?
+Dialogue: 0,0:08:03.42,0:08:05.42,Hamada,,0,0,0,,Sup!
+Dialogue: 0,0:08:06.70,0:08:13.91,Smogo,,0,0,0,,{\blur25\fscx96\fscy102}{\fade(400,0)\pos(720.000000,888.000000)\c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&}He waves to the people, starting to look like a journey program
+Dialogue: 0,0:08:06.70,0:08:13.91,Smogo,,0,0,0,,{\blur1\fscx96\fscy102}{\fade(400,0)\pos(720.000000,888.000000)\c&H8909D3&\3c&HFFFFFF&\4c&H8406E5&}He waves to the people, starting to look like a journey program
+Dialogue: 0,0:08:07.42,0:08:12.97,Default,,0,0,0,,He starts to talk to the people around him, making it look like a show about his journey...
+Dialogue: 0,0:08:12.97,0:08:14.97,Default,,0,0,0,,But...
+Dialogue: 0,0:08:15.45,0:08:17.75,Hamada,,0,0,0,,Can we finish now?
+Dialogue: 0,0:08:16.60,0:08:17.75,Black Text,,0,0,0,,No no no...
+Dialogue: 0,0:08:18.04,0:08:27.22,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:08:22.98,0:08:27.22,Testhand,,0,0,0,,{\fade(600,0)\pos(696.000000,660.000000)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Can we finish now?
+Dialogue: 0,0:08:18.18,0:08:27.22,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&} An awful 'boke' joke...
+Dialogue: 0,0:08:27.22,0:08:30.62,Hamada,,0,0,0,,What the hell is this, seriously?
+Dialogue: 0,0:08:30.62,0:08:32.85,Default,,0,0,0,,After 5 minutes of walking...
+Dialogue: 0,0:08:32.85,0:08:36.25,Default,,0,0,0,,We see Shichirigahama Station
+Dialogue: 0,0:08:37.52,0:08:39.40,Hamada,,0,0,0,,I would have helped her if she had waited.
+Dialogue: 0,0:08:41.63,0:08:46.10,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}Buying a ticket to Enoshima
+Dialogue: 0,0:08:41.63,0:08:46.10,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HE26451&\3c&HFFFFFF&\4c&H878787&}Buying a ticket to Enoshima
+Dialogue: 0,0:08:42.77,0:08:46.91,Default,,0,0,0,,First off, he must buy a ticket to Enoshima.
+Dialogue: 0,0:08:47.57,0:08:49.05,Hamada,,0,0,0,,Enoshima, right?
+Dialogue: 0,0:08:52.55,0:08:57.32,Hamada,,0,0,0,,It's so easy, it says right here that it costs 220 yen.
+Dialogue: 0,0:09:10.32,0:09:11.60,Hamada,,0,0,0,,What you eating there?
+Dialogue: 0,0:09:11.60,0:09:13.60,Hamada,,0,0,0,,Ohh I see, Bara-zushi?
+Dialogue: 0,0:09:11.60,0:09:15.23,Default,,0,0,0,,{\b0\pos(687,56)\fscx88\fscy100}(Note: Bara-zushi is basically Sushi with a variety of ingredients sprinkled on the rice){\b1}
+Dialogue: 0,0:09:15.47,0:09:22.54,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:09:19.50,0:09:22.54,Testhand,,0,0,0,,{\fade(600,0)\pos(696.000000,660.000000)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Bara-zushi?
+Dialogue: 0,0:09:15.60,0:09:22.54,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote only someone so frank could say:
+Dialogue: 0,0:09:22.54,0:09:24.21,Yamasaki,,0,0,0,,Wait, that part?
+Dialogue: 0,0:09:24.21,0:09:27.41,Yamasaki,,0,0,0,,{\c&H000000&\4c&H28BD2C&}Not the {\c&H29B52D&\4c&H000000&} 'What are you eating there' part?
+Dialogue: 0,0:09:25.60,0:09:27.22,Hamada,,0,0,0,,{\pos(1111.000000,602.000000)}You're right!
+Dialogue: 0,0:09:27.41,0:09:28.28,Yamasaki,,0,0,0,,{\c&H000000&\4c&H28BD2C&}They quote the {\c&H29B52D&\4c&H000000&}'bara-zushi' part?
+Dialogue: 0,0:09:30.20,0:09:33.25,Default,,0,0,0,,This happened when we were waiting for the train.
+Dialogue: 0,0:09:33.25,0:09:37.12,Default,,0,0,0,,It just casually came out of Hamada's mouth...
+Dialogue: 0,0:09:38.07,0:09:40.67,Hamada,,0,0,0,,Is the lens getting cloudy? If it's getting cloudy, let's just stop recording...
+Dialogue: 0,0:09:40.79,0:09:51.17,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:09:45.50,0:09:51.17,Testhand,,0,0,0,,{\fade(600,0)\pos(696,806)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}If it's getting cloudy, let's just stop recording...
+Dialogue: 0,0:09:41.16,0:09:51.17,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A remark to scare the staff:
+Dialogue: 0,0:09:51.44,0:09:55.31,Hamada,,0,0,0,,{\pos(721.000000,880.000000)}Who the hell is doing the narration here?
+Dialogue: 0,0:09:53.70,0:09:56.17,Default,,0,0,0,,While we were doing that...
+Dialogue: 0,0:09:56.54,0:10:01.78,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,400)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}A train came from the opposite direction
+Dialogue: 0,0:09:56.54,0:10:01.78,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000}{\fade(400,400)\pos(737.500000,904.000000)\c&H02E347&\3c&HFFFFFF&\4c&H878787&}A train came from the opposite direction
+Dialogue: 0,0:09:57.05,0:10:00.57,Default,,0,0,0,,A train going the other way came in
+Dialogue: 0,0:10:03.87,0:10:05.67,Hamada,,0,0,0,,There really are quite a lot of people
+Dialogue: 0,0:10:05.67,0:10:07.67,Hamada,,0,0,0,,on the train...
+Dialogue: 0,0:10:11.65,0:10:14.15,Hamada,,0,0,0,,Do we get on this...oh, we don't get on it?
+Dialogue: 0,0:10:14.15,0:10:16.15,Hamada,,0,0,0,,Oh, we're going the other way.
+Dialogue: 0,0:10:17.30,0:10:18.45,Hamada,,0,0,0,,
+Dialogue: 0,0:10:20.95,0:10:22.97,Hamada,,0,0,0,,Please hurry up and go...
+Dialogue: 0,0:10:23.85,0:10:25.42,Hamada,,0,0,0,,Please just hurry up and go...
+Dialogue: 0,0:10:26.67,0:10:28.17,Hamada,,0,0,0,,you know?
+Dialogue: 0,0:10:30.37,0:10:32.15,Hamada,,0,0,0,,Unbelievable...
+Dialogue: 0,0:10:32.15,0:10:34.15,Hamada,,0,0,0,,They're just taking pictures of me without permission.
+Dialogue: 0,0:10:35.17,0:10:37.50,Default,,0,0,0,,On top of that...
+Dialogue: 0,0:10:37.50,0:10:39.90,Hamada,,0,0,0,,Lady, wow, you really are something else...
+Dialogue: 0,0:10:39.92,0:10:43.02,Hamada,,0,0,0,,Usually I would get really angry, seriously...
+Dialogue: 0,0:10:43.05,0:10:53.93,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(103,348,1384,982)\pos(768.000000,622.000000)\fscx1178.000000\fscy555.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:10:43.05,0:10:53.93,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1178.000000\fscy555.000000\clip(403,182,1062,340)\pos(789.000000,252.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:10:47.06,0:10:53.93,Testhand,,0,0,0,,{\fade(600,0)\pos(384,486)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Usually
+Dialogue: 0,0:10:47.06,0:10:53.93,Testhand,,0,0,0,,{\fade(600,0)\pos(703.5,722)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}I would get really angry,
+Dialogue: 0,0:10:47.06,0:10:53.93,Testhand,,0,0,0,,{\fade(600,0)\pos(933,880)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}seriously...
+Dialogue: 0,0:10:43.39,0:10:53.93,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(811.5,290)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote banging on about image rights:
+Dialogue: 0,0:10:56.25,0:10:57.90,Hamada,,0,0,0,,Isn't this like...
+Dialogue: 0,0:10:58.15,0:11:00.67,Hamada,,0,0,0,,If I stopped her, it would become a huge thing...
+Dialogue: 0,0:11:00.67,0:11:04.07,Hamada,,0,0,0,,So isn't it the staff's job to stop her?
+Dialogue: 0,0:11:06.48,0:11:11.98,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,400)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}Train going to Enoshima pulls up
+Dialogue: 0,0:11:06.48,0:11:11.98,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&HF6C00F&}{\fade(400,400)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&}Train going to Enoshima pulls up
+Dialogue: 0,0:11:07.10,0:11:10.62,Default,,0,0,0,,This time, a train going to Enoshima arrives.
+Dialogue: 0,0:11:12.57,0:11:15.52,Hamada,,0,0,0,,Oh man, there are loads of elementary school kids on the train...
+Dialogue: 0,0:11:18.25,0:11:19.77,Default,,0,0,0,,{\c&HFF94E3&\3c&HFFFFFF&}Oh my god...
+Dialogue: 0,0:11:23.90,0:11:33.84,Smogo,,0,0,0,,{\blur25}{\fade(400,400)\pos(720.000000,888.000000)\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Gets on a train with school kids and everyone, causing panic
+Dialogue: 0,0:11:23.90,0:11:33.84,Smogo,,0,0,0,,{\blur1}{\fade(400,400)\pos(720.000000,888.000000)\c&H06CA0C&\3c&HFFFFFF&\4c&H1ECA23&}Gets on a train with school kids and everyone, causing {\c&H000000&\4c&H2713D4&}panic
+Dialogue: 0,0:11:25.87,0:11:28.90,Default,,0,0,0,,Coincidentally gets on a train full of school kids
+Dialogue: 0,0:11:28.90,0:11:31.40,Default,,0,0,0,,and other customers.
+Dialogue: 0,0:11:31.40,0:11:33.90,Default,,0,0,0,,The atmosphere in the train goes crazy.
+Dialogue: 0,0:11:35.52,0:11:36.72,Hamada,,0,0,0,,Seriously...
+Dialogue: 0,0:11:37.27,0:11:39.07,Hamada,,0,0,0,,(to the staff) I'm going to kill you all.
+Dialogue: 0,0:11:39.34,0:11:48.59,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1045.000000\fscy308.000000\clip(168,452,1237,930)\pos(621.000000,616.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:11:39.34,0:11:48.59,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1045.000000\fscy308.000000\clip(402,198,1060,446)\pos(775.500000,326.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:11:44.82,0:11:48.59,Testhand,,0,0,0,,{\fade(600,0)\pos(696.000000,660.000000)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}I'm going to kill you all.
+Dialogue: 0,0:11:39.48,0:11:48.59,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(694.500000,378.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}Along with the staff \N a quote to scare the citizens:
+Dialogue: 0,0:11:50.96,0:11:53.52,Matsumoto,,0,0,0,,This is {\c&H000000&\4c&H0000FF&}genuinely something {\c&H0000FF&\4c&H000000&} you can't say!
+Dialogue: 0,0:11:53.89,0:11:59.30,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}The train leaves with everyone in a state
+Dialogue: 0,0:11:53.89,0:11:59.30,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HE26451&\3c&HFFFFFF&\4c&H878787&}The train leaves with everyone in a state
+Dialogue: 0,0:11:54.52,0:11:59.15,Default,,0,0,0,,The train leaves with everyone in a state.
+Dialogue: 0,0:11:59.57,0:12:02.35,Hamada,,0,0,0,,Why are there so many kids, is it a school trip?
+Dialogue: 0,0:12:02.35,0:12:04.02,Hamada,,0,0,0,,School trip?
+Dialogue: 0,0:12:04.02,0:12:06.02,Black Text,,0,0,0,,(Staff) It looks that way...
+Dialogue: 0,0:12:08.47,0:12:10.12,Hamada,,0,0,0,,Oh, a junior high school trip?
+Dialogue: 0,0:12:14.65,0:12:16.55,Hamada,,0,0,0,,Just out of curiosity, but where are you going?
+Dialogue: 0,0:12:16.55,0:12:18.55,Default,,0,0,0,,{\c&HD9CD5D&\3c&HFFFFFF&}Enoshima...
+Dialogue: 0,0:12:18.22,0:12:20.75,Default,,0,0,0,,{\pos(174.000000,928.000000)}{\3c&HB92533&\4c&H000000&}Hamada
+Dialogue: 0,0:12:20.75,0:12:21.92,Default,,0,0,0,,{\3c&HB92533&\4c&H000000&}{\fscx126.000000\fscy132.000000\pos(199.500000,910.000000)}Hamada
+Dialogue: 0,0:12:21.92,0:12:23.99,Default,,0,0,0,,{\3c&HB92533&\4c&H000000&}{\fscx181.000000\fscy197.000000\pos(222.000000,892.000000)}Hamada
+Dialogue: 0,0:12:23.99,0:12:25.66,Default,,0,0,0,,{\3c&HB92533&\4c&H000000&}{\fscx255.000000\fscy286.000000\pos(256.500000,874.000000)}Hamada
+Dialogue: 0,0:12:25.66,0:12:28.73,Default,,0,0,0,,{\3c&HB92533&\4c&H000000&}{\fscx207.000000\fscy190.000000\pos(304.500000,864.000000)}Oi Hamada
+Dialogue: 0,0:12:26.46,0:12:28.93,Hamada,,0,0,0,,Who the hell is calling me without the honorifics?
+Dialogue: 0,0:12:29.03,0:12:31.10,Hamada,,0,0,0,,I'll smack you one!
+Dialogue: 0,0:12:36.10,0:12:41.74,Sharp Blocky,,0,0,0,,{\blur25}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}He's getting close to his destination, Enoshima
+Dialogue: 0,0:12:36.10,0:12:41.74,Sharp Blocky,,0,0,0,,{\blur5\c&H154AF8&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&}He's getting close to his destination, Enoshima
+Dialogue: 0,0:12:36.30,0:12:38.43,Default,,0,0,0,,We are now getting closer
+Dialogue: 0,0:12:38.43,0:12:41.13,Default,,0,0,0,,to his destination, Enoshima
+Dialogue: 0,0:12:41.13,0:12:42.93,Default,,0,0,0,,When...
+Dialogue: 0,0:12:43.07,0:12:48.38,Default,,0,0,0,,{\3c&H6F2DA8&\pos(721.000000,930.000000)}Which TV channel are you from?
+Dialogue: 0,0:12:44.70,0:12:45.73,Hamada,,0,0,0,,Excuse me?
+Dialogue: 0,0:12:47.33,0:12:48.53,Hamada,,0,0,0,,TV channel?
+Dialogue: 0,0:12:48.53,0:12:50.10,Hamada,,0,0,0,,NTV (Nihon Television)
+Dialogue: 0,0:12:50.20,0:12:51.28,Default,,0,0,0,,{\3c&H6F2DA8&}Oh really?
+Dialogue: 0,0:12:51.28,0:12:54.95,Default,,0,0,0,,{\3c&H6F2DA8&\pos(723.000000,936.000000)}It's my favourite TV channel.
+Dialogue: 0,0:12:52.83,0:12:55.10,Hamada,,0,0,0,,Oh is it? Well thank you very much.
+Dialogue: 0,0:12:54.95,0:12:57.26,Default,,0,0,0,,{\3c&H6F2DA8&\pos(721.000000,934.000000)}I love Miyane-ya.
+Dialogue: 0,0:12:56.56,0:12:59.12,Hamada,,0,0,0,,Oh Miyane-ya? But Miyane-ya is on Yomiuri TV channel, though!
+Dialogue: 0,0:12:59.12,0:13:09.37,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:13:03.93,0:13:09.37,Testhand,,0,0,0,,{\fade(600,0)\pos(696,794)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}But Miyane-ya is on Yomiuri TV Channel, though!
+Dialogue: 0,0:12:59.16,0:13:09.37,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A quote to make her feel the 'Kansai' love:
+Dialogue: 0,0:12:59.16,0:13:09.37,Default,,0,0,0,,{\b0\pos(733.5,112)}(Note: Kansai is Osaka, where Hamada is from){\b1}
+Dialogue: 0,0:13:09.77,0:13:15.34,Sharp Blocky,,0,0,0,,{\blur25}{\fade(400,400)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}Ten minutes pass on the train and they arrive
+Dialogue: 0,0:13:09.77,0:13:15.34,Sharp Blocky,,0,0,0,,{\blur5\c&H154AF8&}{\fade(400,400)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&HEDAB13&}Ten minutes pass on the train and they {\c&H491DC7&}arrive
+Dialogue: 0,0:13:10.46,0:13:13.50,Default,,0,0,0,,Ten minutes pass on the train,
+Dialogue: 0,0:13:13.60,0:13:15.96,Default,,0,0,0,,and they arrive at Enoshima station.
+Dialogue: 0,0:13:15.96,0:13:19.90,Talking Over Hamada,,0,0,0,,This was so annoying, I really got done over here...
+Dialogue: 0,0:13:25.52,0:13:27.62,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}15 minutes of walking
+Dialogue: 0,0:13:25.52,0:13:27.62,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&H0EDB46&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&}15 minutes of walking
+Dialogue: 0,0:13:23.30,0:13:28.56,Default,,0,0,0,,He exits the gates and after 15 minutes of walking.
+Dialogue: 0,0:13:28.56,0:13:32.60,Hamada,,0,0,0,,So what, do I need to walk quicker here or anything like that?
+Dialogue: 0,0:13:31.80,0:13:34.53,Black Text,,0,0,0,,No, not at all.
+Dialogue: 0,0:13:32.66,0:13:34.53,Hamada,,0,0,0,,Oh, right.
+Dialogue: 0,0:13:34.53,0:13:37.56,Hamada,,0,0,0,,So I just have to go over this bridge now.
+Dialogue: 0,0:13:38.73,0:13:43.77,Sign,,0,0,0,,{\fade(400,0)}{\blur25\3c&H000000&\3a&H00&}{\fscx142.000000\fscy142.000000\pos(721.500000,814.000000)\c&H000000&\3c&HFFFFFF&}{\4c&HFFFFFF&}Enoshima
+Dialogue: 0,0:13:37.56,0:13:39.70,Hamada,,0,0,0,,
+Dialogue: 0,0:13:39.83,0:13:42.23,Default,,0,0,0,,A small island which is famous in it's prefecture, Enoshima
+Dialogue: 0,0:13:44.10,0:13:54.75,Rectangle,,0,0,0,,{\fade(400,400)\clip(1,860,1440,1028)\fscx1187.000000\fscy480.000000\pos(400.500000,944.000000)\4c&HFFFFFF&\4a&H1D&}{\p1}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:13:44.10,0:13:54.75,Default,,0,0,0,,{\fade(400,400)\pos(717.000000,992.000000)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&}Just before the temples, there is a famous pathway for it's food \N  and is busy all year round
+Dialogue: 0,0:13:42.23,0:13:43.90,Default,,0,0,0,,Enoshima
+Dialogue: 0,0:13:44.90,0:13:47.86,Default,,0,0,0,,Just before the temples,
+Dialogue: 0,0:13:47.86,0:13:51.10,Default,,0,0,0,,there is a famous pathway for it's food
+Dialogue: 0,0:13:51.23,0:13:54.96,Default,,0,0,0,,and it is busy all year round.
+Dialogue: 0,0:13:55.20,0:13:58.23,Hamada,,0,0,0,,I know this place, I have been here before.
+Dialogue: 0,0:13:59.90,0:14:01.63,Hamada,,0,0,0,,Straight ahead?
+Dialogue: 0,0:14:02.09,0:14:07.49,Sign,,0,0,0,,{\blur5\fscx98\fscy96}{\pos(720.000000,900.000000)\3c&HFFFFFF&\3a&H00&\4c&HFFFFFF&\c&HE2172F&}What kind of {\c&H3100D8&}quotes {\c&HE2172F&}will come out of his mouth here?
+Dialogue: 0,0:14:02.60,0:14:07.46,Default,,0,0,0,,So...what kind of quotes will come out of his mouth here?
+Dialogue: 0,0:14:07.49,0:14:12.73,Black Text,,0,0,0,,{\pos(308.500000,870.000000)}Staff
+Dialogue: 0,0:14:07.49,0:14:10.23,Black Text,,0,0,0,,This shop here{\alpha&HFF&} is famous for their octopus crackers.
+Dialogue: 0,0:14:10.23,0:14:12.73,Black Text,,0,0,0,,This shop here is famous for their octopus crackers.
+Dialogue: 0,0:14:12.73,0:14:17.94,Black Text,,0,0,0,,{\pos(308.500000,870.000000)}Staff
+Dialogue: 0,0:14:12.73,0:14:17.94,Black Text,,0,0,0,,It's a very famous rice cracker shop you can line up for...
+Dialogue: 0,0:14:16.33,0:14:18.00,Hamada,,0,0,0,,{\pos(601.500000,678.000000)}Oh, really?
+Dialogue: 0,0:14:18.14,0:14:22.84,Smogo,,0,0,0,,{\blur25\pos(1180.500000,922.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Asahi Honten
+Dialogue: 0,0:14:18.14,0:14:22.84,Smogo,,0,0,0,,{\blur1\pos(1180.500000,922.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H06CA0C&\3c&HFFFFFF&\4c&H1ECA23&\4a&HFF&\3a&H65&}Asahi Honten
+Dialogue: 0,0:14:18.14,0:14:22.84,Default,,0,0,0,,{\b0\fscx85\fscy88\pos(1174.5,852)}(Note: Honten means main store){\b1}
+Dialogue: 0,0:14:23.24,0:14:30.31,Smogo,,0,0,0,,{\blur25\pos(1147.500000,862.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Octopus cracker
+Dialogue: 0,0:14:23.24,0:14:30.31,Smogo,,0,0,0,,{\blur1\pos(1147.500000,862.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H2900E8&\3c&HFFFFFF&\4c&H1ECA23&\4a&HFF&\3a&H65&}Octopus cracker
+Dialogue: 0,0:14:23.24,0:14:30.31,Default,,0,0,0,,{\fade(400,0)\pos(1266.000000,1054.000000)\b0}350 Yen{\b1}
+Dialogue: 0,0:14:18.76,0:14:23.83,Default,,0,0,0,,Enoshima's most packed shop, Asahi Honten
+Dialogue: 0,0:14:23.83,0:14:25.63,Default,,0,0,0,,and the reason is...
+Dialogue: 0,0:14:25.63,0:14:28.43,Default,,0,0,0,,their famous rice crackers which use real octopus.
+Dialogue: 0,0:14:30.55,0:14:34.75,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}Something you want to line up for
+Dialogue: 0,0:14:30.55,0:14:34.75,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&H0EDB46&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&H134AF0&}Something you want to line up for
+Dialogue: 0,0:14:28.43,0:14:31.16,Default,,0,0,0,,Octopus crackers
+Dialogue: 0,0:14:31.16,0:14:34.75,Default,,0,0,0,,Something you definitely want to try, even if it means lining up.
+Dialogue: 0,0:14:34.90,0:14:36.13,Hamada,,0,0,0,,So what are we going to do?
+Dialogue: 0,0:14:36.13,0:14:38.06,Black Text,,0,0,0,,So, basically...
+Dialogue: 0,0:14:38.06,0:14:40.73,Black Text,,0,0,0,,{\pos(437.500000,864.000000)}Staff
+Dialogue: 0,0:14:38.06,0:14:40.73,Black Text,,0,0,0,,We want you to line up and try one.
+Dialogue: 0,0:14:40.80,0:14:43.40,Hamada,,0,0,0,,Are you serious?
+Dialogue: 0,0:14:46.93,0:14:49.96,Hamada,,0,0,0,,They're famous for their octopus crackers, right?
+Dialogue: 0,0:14:50.16,0:14:52.93,Hamada,,0,0,0,,But the woman over there said that the spiny lobster cracker was really good.
+Dialogue: 0,0:14:54.00,0:15:01.61,Default,,0,0,0,,This time, Hamada decided to choose the spiny lobster cracker.
+Dialogue: 0,0:15:00.43,0:15:02.33,Talking Over Endo,,0,0,0,,You didn't choose the famous octopus cracker?
+Dialogue: 0,0:15:01.61,0:15:05.45,Default,,0,0,0,,{\pos(441.000000,776.000000)\3c&HEB1E25&\3a&HAA&\4c&H9D2030&}Cook
+Dialogue: 0,0:15:01.61,0:15:05.45,Default,,0,0,0,,{\3c&HEB1E25&\3a&HAA&\4c&H9D2030&\pos(669.000000,872.000000)}Hamada-san, why don't you give it a try?
+Dialogue: 0,0:15:03.11,0:15:05.45,Default,,0,0,0,,{\3c&HEB1E25&\3a&HAA&\4c&H9D2030&\\pos(666.000000,1048.000000)}Come over here and give it a go?
+Dialogue: 0,0:15:07.79,0:15:11.16,Default,,0,0,0,,{\3c&HEB1E25&\3a&HAA&\4c&H9D2030&\pos(310.500000,856.000000)}Cook
+Dialogue: 0,0:15:07.79,0:15:11.16,Default,,0,0,0,,{\3c&HEB1E25&\3a&HAA&\4c&H9D2030&\}It'll be even tastier if you make it yourself and eat it.
+Dialogue: 0,0:15:11.16,0:15:12.72,Hamada,,0,0,0,,How the hell has this happened?
+Dialogue: 0,0:15:13.02,0:15:21.30,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\pos(639.000000,496.000000)\fscx1045.000000\fscy308.000000\clip(87,332,1349,966)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:15:18.10,0:15:21.30,Testhand,,0,0,0,,{\fade(600,0)\pos(729,738)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}How the hell has this happened?
+Dialogue: 0,0:15:13.09,0:15:21.30,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(861,302)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}Making a huge deal out of something so small:
+Dialogue: 0,0:15:21.30,0:15:23.23,Hamada,,0,0,0,,That's normal.
+Dialogue: 0,0:15:23.23,0:15:30.21,Default,,0,0,0,,{\fade(200,0)\pos(226.500000,864.000000)\fscx138.000000\fscy118.000000\c&H1900D4&\3c&HFFFFFF&}How to make it
+Dialogue: 0,0:15:23.23,0:15:30.21,Rectangle,,0,0,0,,{\fade(200,0)}{\p1\clip(4,934,1440,1024)\fscx741.000000\fscy301.000000\pos(414.000000,966.000000)\4c&HFFFFFF&\4a&H25&}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:15:23.23,0:15:30.21,Default,,0,0,0,,{\fade(200,0)\4c&H5C5CC3&\4a&HFF&\3c&HFFFFFF&\c&H000000&\pos(721.500000,1000.000000)}Just put the spiny lobster on the rice cracker and press it down hard
+Dialogue: 0,0:15:23.60,0:15:27.66,Default,,0,0,0,,It's very simple to make. Spread the rice dough...
+Dialogue: 0,0:15:27.66,0:15:30.56,Default,,0,0,0,,Place the spiny lobster on it and push down hard.
+Dialogue: 0,0:15:30.53,0:15:32.66,Hamada,,0,0,0,,And close it?
+Dialogue: 0,0:15:31.00,0:15:32.66,White Text,,0,0,0,,Yes.
+Dialogue: 0,0:15:32.66,0:15:35.50,White Text,,0,0,0,,And turn this slowly.
+Dialogue: 0,0:15:38.93,0:15:40.76,Hamada,,0,0,0,,Like this?
+Dialogue: 0,0:15:42.90,0:15:44.93,Hamada,,0,0,0,,Oh wow, it's making a hell of a sound now!
+Dialogue: 0,0:15:45.40,0:15:47.40,White Text,,0,0,0,,Now just quickly push it to the left.
+Dialogue: 0,0:15:55.67,0:16:00.20,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}After waiting 5 minutes
+Dialogue: 0,0:15:55.67,0:16:00.20,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&H154AF8&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&HEDAB13&}After waiting 5 minutes
+Dialogue: 0,0:15:53.66,0:15:55.96,Hamada,,0,0,0,,Surely I've cooked it too much?
+Dialogue: 0,0:15:56.10,0:15:58.76,Default,,0,0,0,,After waiting 5 minutes...
+Dialogue: 0,0:15:58.76,0:16:00.70,White Text,,0,0,0,,
+Dialogue: 0,0:16:00.70,0:16:02.50,Hamada,,0,0,0,,Can I open it?
+Dialogue: 0,0:16:04.70,0:16:06.40,Hamada,,0,0,0,,It looks good.
+Dialogue: 0,0:16:06.40,0:16:09.56,Default,,0,0,0,,And how does it taste?
+Dialogue: 0,0:16:09.56,0:16:12.00,Hamada,,0,0,0,,Well since I cooked it myself, it tastes really good.
+Dialogue: 0,0:16:13.38,0:16:19.86,Default,,0,0,0,,{\fade(400,0)}{\blur5}{\pos(720.000000,900.000000)\fscx117.000000\fscy100.000000\3c&HFFFFFF&\3a&H00&\4c&HFFFFFF&\c&HF43EA6&}After exiting the shop, Hamada again...
+Dialogue: 0,0:16:14.36,0:16:20.00,Default,,0,0,0,,And after leaving the shop, Hamada again...
+Dialogue: 0,0:16:20.90,0:16:23.63,Hamada,,0,0,0,,Well if you make something yourself, anything will taste good.
+Dialogue: 0,0:16:23.69,0:16:35.81,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1349,966)\pos(709.500000,632.000000)\fscx1127.000000\fscy436.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:16:23.69,0:16:35.81,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1127.000000\fscy436.000000\clip(384,194,1116,472)\pos(708.000000,328.000000)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:16:29.67,0:16:35.81,Testhand,,0,0,0,,{\fade(600,0)\pos(706.5,690)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}If you make something yourself,
+Dialogue: 0,0:16:29.67,0:16:35.81,Testhand,,0,0,0,,{\fade(600,0)\pos(973.5,964)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\} anything will taste good.
+Dialogue: 0,0:16:24.00,0:16:35.81,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696,446)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}Thinking no-one heard what he said the first time \N he really grinds to get heard a second time:
+Dialogue: 0,0:16:36.21,0:16:41.18,Smogo,,0,0,0,,{\blur25}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Arrives at the entrance of Enoshima Shrine
+Dialogue: 0,0:16:36.21,0:16:41.18,Smogo,,0,0,0,,{\blur1}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0557FF&\3c&HFFFFFF&\4c&H0B5CF3&}Arrives at the entrance of Enoshima Shrine
+Dialogue: 0,0:16:37.30,0:16:41.93,Default,,0,0,0,,Before we know it, we have arrived at the entrance of Enoshima temple.
+Dialogue: 0,0:16:41.51,0:16:46.38,Sign,,0,0,0,,{\fade(400,0)\pos(721.500000,886.000000)}{\blur25\3c&H000000&\3a&H00&}{\fscx142.000000\fscy142.000000\pos(721.500000,814.000000)\c&H000000&\3c&HFFFFFF&}{\4c&HFFFFFF&}Enoshima Temple
+Dialogue: 0,0:16:46.65,0:16:59.26,Rectangle,,0,0,0,,{\fade(400,400)\clip(1,860,1440,1028)\fscx1187.000000\fscy480.000000\pos(400.500000,944.000000)\4c&HFFFFFF&\4a&H1D&}{\p1}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:16:46.65,0:16:59.26,Default,,0,0,0,,{\fade(400,400)\pos(717.000000,992.000000)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\4a&HFF&} Three Gods protect the temple.\N After climbing 326 steps, you can get a great view of your surroundings.
+Dialogue: 0,0:16:42.56,0:16:47.16,Default,,0,0,0,,Enoshima has the three Gods of wealth
+Dialogue: 0,0:16:47.30,0:16:50.63,Default,,0,0,0,,They are known as Miyashiro and
+Dialogue: 0,0:16:50.63,0:16:55.10,Default,,0,0,0,,after climibing 326 stairs
+Dialogue: 0,0:16:55.10,0:17:00.63,Default,,0,0,0,,you get a great view of your surroundings from the observatory.
+Dialogue: 0,0:17:00.03,0:17:04.97,Smogo,,0,0,0,,{\blur25}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}On his way to see the shrine and observatory
+Dialogue: 0,0:17:00.03,0:17:04.97,Smogo,,0,0,0,,{\blur1}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H1600D4&\3c&HFFFFFF&\4c&H1400D0&}On his way to see the {\c&HDAAB0E&\4c&HE9AC1D&}shrine and observatory
+Dialogue: 0,0:17:10.23,0:17:12.16,Hamada,,0,0,0,,Soon...
+Dialogue: 0,0:17:12.16,0:17:14.16,Hamada,,0,0,0,,My working hours on my contract
+Dialogue: 0,0:17:14.16,0:17:17.70,Hamada,,0,0,0,,finish for the day...
+Dialogue: 0,0:17:19.20,0:17:21.12,Hamada,,0,0,0,,Had we not decided something like that at our union meeting?
+Dialogue: 0,0:17:21.15,0:17:34.10,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1349,966)\pos(709.500000,632.000000)\fscx1127.000000\fscy436.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:17:21.15,0:17:34.10,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1127.000000\fscy436.000000\pos(708.000000,328.000000)\clip(360,194,1116,472)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:17:27.12,0:17:34.10,Testhand,,0,0,0,,{\fade(600,0)\pos(610.5,652)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Had we not decided something
+Dialogue: 0,0:17:27.12,0:17:34.10,Testhand,,0,0,0,,{\fade(600,0)\pos(907.5,928)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}like that at our union meeting?
+Dialogue: 0,0:17:21.49,0:17:34.10,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,400.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A really old joke to try  \N to cheer up the staff:
+Dialogue: 0,0:17:35.46,0:17:37.13,Hamada,,0,0,0,,So we are right at the top now?
+Dialogue: 0,0:17:37.20,0:17:41.97,Black Text,,0,0,0,,{\pos(483.000000,874.000000)}Staff
+Dialogue: 0,0:17:37.20,0:17:38.50,Black Text,,0,0,0,,Umm no...{\alpha&HFF&}this is the bottom level
+Dialogue: 0,0:17:38.50,0:17:41.97,Black Text,,0,0,0,,Umm no...this is the bottom level
+Dialogue: 0,0:17:45.00,0:17:46.83,Hamada,,0,0,0,,You're kidding me...
+Dialogue: 0,0:17:47.14,0:17:51.95,Smogo,,0,0,0,,{\blur25}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Praying in Enoshima Shrine
+Dialogue: 0,0:17:47.14,0:17:51.95,Smogo,,0,0,0,,{\blur1}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&HF12E40&\3c&HFFFFFF&\4c&HF22F41&}Praying in Enoshima Shrine
+Dialogue: 0,0:17:47.63,0:17:52.33,Default,,0,0,0,,Anyway, since he's gotten this far, he prays.
+Dialogue: 0,0:17:58.06,0:17:59.36,Hamada,,0,0,0,,Shall we go home?
+Dialogue: 0,0:18:02.09,0:18:10.73,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}He goes and sees a street performance
+Dialogue: 0,0:18:02.09,0:18:10.73,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&H154AF8&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&H13E459&}He goes and sees a street performance
+Dialogue: 0,0:18:03.23,0:18:05.50,Default,,0,0,0,,He next comes across
+Dialogue: 0,0:18:05.50,0:18:08.03,Default,,0,0,0,,a street performance taking place.
+Dialogue: 0,0:18:11.07,0:18:19.54,Default,,0,0,0,,{\fade(400,100)}{\pos(447.000000,812.000000)}Bits of his Spiny lobster cracker
+Dialogue: 0,0:18:21.18,0:18:23.35,Hamada,,0,0,0,,No one is saying anything!!
+Dialogue: 0,0:18:23.35,0:18:25.35,Matsumoto,,0,0,0,,That's the kind of thing I'm talking about...
+Dialogue: 0,0:18:25.35,0:19:13.90,Rectangle,,0,0,0,,{\p1\clip(1030,66,1351,138)\pos(1188.000000,108.000000)\fscx588.000000\fscy212.000000\4c&H000000&\4a&H00&}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:18:25.35,0:19:13.90,Default,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H3FFFF8&\pos(1188.000000,126.000000)}Hidden Camera
+Dialogue: 0,0:18:25.55,0:18:29.65,Sharp Blocky,,0,0,0,,{\blur25\fscx114.000000\fscy108.000000}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}A little break
+Dialogue: 0,0:18:25.55,0:18:29.65,Sharp Blocky,,0,0,0,,{\blur5\fscx114.000000\fscy108.000000\c&H154AF8&}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&HFEB611&}A little break
+Dialogue: 0,0:18:31.76,0:18:33.23,Talking Over Endo,,0,0,0,,Huh?
+Dialogue: 0,0:18:34.33,0:18:42.43,Black Text,,0,0,0,,{\pos(295.500000,866.000000)}Staff
+Dialogue: 0,0:18:34.33,0:18:38.00,Black Text,,0,0,0,,Hamada-san...{\alpha&HFF&}So if you can eat your meal, do the final few scenes and then we will be done.
+Dialogue: 0,0:18:38.00,0:18:42.43,Black Text,,0,0,0,,Hamada-san...So if you can eat your meal, do the final few scenes and then we will be done.
+Dialogue: 0,0:18:44.07,0:18:46.07,Black Text,,0,0,0,,{\pos(541.500000,860.000000)}Staff
+Dialogue: 0,0:18:44.07,0:18:46.07,Black Text,,0,0,0,,Can I just...?
+Dialogue: 0,0:18:45.20,0:18:46.06,Hamada,,0,0,0,,{\pos(574.500000,524.000000)}Oh, thanks.
+Dialogue: 0,0:18:48.24,0:18:51.08,Black Text,,0,0,0,,{\pos(454.500000,856.000000)}Inamoto
+Dialogue: 0,0:18:48.24,0:18:51.08,Black Text,,0,0,0,,It's been on your face for ages.
+Dialogue: 0,0:18:51.20,0:18:53.20,Hamada,,0,0,0,,Then tell me!
+Dialogue: 0,0:18:53.36,0:18:54.58,Black Text,,0,0,0,,It's literally
+Dialogue: 0,0:18:54.58,0:18:58.75,Black Text,,0,0,0,,{\pos(270.000000,850.000000)}Inamoto
+Dialogue: 0,0:18:54.58,0:18:58.75,Black Text,,0,0,0,,{\pos(712.5,942)}been on your face since you left that rice cracker shop.
+Dialogue: 0,0:18:56.56,0:18:59.30,Hamada,,0,0,0,,Are you taking the piss?
+Dialogue: 0,0:19:00.73,0:19:02.66,Black Text,,0,0,0,,It was here the whole time.
+Dialogue: 0,0:19:05.09,0:19:10.09,Black Text,,0,0,0,,{\pos(262.500000,856.000000)}Inamoto
+Dialogue: 0,0:19:05.09,0:19:05.96,Black Text,,0,0,0,,But when I saw you up here again, {\alpha&HFF&}it had moved up your face a bit.
+Dialogue: 0,0:19:05.96,0:19:10.09,Black Text,,0,0,0,,But when I saw you up here again, it had moved up your face a bit.
+Dialogue: 0,0:19:08.43,0:19:10.09,Hamada,,0,0,0,,{\pos(574.500000,580.000000)}You...
+Dialogue: 0,0:19:11.06,0:19:12.30,Black Text,,0,0,0,,I thought I shouldn't tell you.
+Dialogue: 0,0:19:12.30,0:19:13.90,Hamada,,0,0,0,,Right we're going back to the bottom, we're doing it all again.
+Dialogue: 0,0:19:14.20,0:19:25.91,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1349,966)\pos(772.500000,630.000000)\fscx1200.000000\fscy500.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:19:20.87,0:19:25.91,Testhand,,0,0,0,,{\fade(600,0)\pos(696,744)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}Right we're going back to the bottom,
+Dialogue: 0,0:19:20.87,0:19:25.91,Testhand,,0,0,0,,{\fade(600,0)\pos(691.5,918)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}we're doing it all again
+Dialogue: 0,0:19:14.27,0:19:25.91,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}33 years in showbiz, today's number one quote:
+Dialogue: 0,0:19:26.18,0:19:28.18,Hamada,,0,0,0,,What the hell is this, seriously.
+Dialogue: 0,0:19:28.18,0:19:29.71,Hamada,,0,0,0,,Man, this pisses me off.
+Dialogue: 0,0:19:29.71,0:19:41.69,Rectangle,,0,0,0,,{\p1\clip(1030,66,1351,138)\pos(1188.000000,108.000000)\fscx588.000000\fscy212.000000\4c&H000000&\4a&H00&}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:19:29.71,0:19:41.69,Default,,0,0,0,,{\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\c&H3FFFF8&\pos(1188.000000,126.000000)}Hidden Camera
+Dialogue: 0,0:19:32.10,0:19:35.10,Black Text,,0,0,0,,I was thinking, "Oh man, it's still there."
+Dialogue: 0,0:19:35.85,0:19:41.69,Blocky,,0,0,0,,{\fade(400,0)}{\pos(702.000000,888.000000)\fscx113.000000\fscy100.000000\c&H000000&\3c&HFFFFFF&}After the break, {\c&H1401D5&} the journey continues
+Dialogue: 0,0:19:35.80,0:19:38.96,Hamada,,0,0,0,,It might not be at Yamazaki's level, but man I don't trust the staff here at all.
+Dialogue: 0,0:19:42.29,0:19:46.73,Smogo,,0,0,0,,{\blur25}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}The great quotes journey continues
+Dialogue: 0,0:19:42.29,0:19:46.73,Smogo,,0,0,0,,{\blur1}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H830DD2&\3c&HFFFFFF&\4c&H7F01DD&}The great quotes journey {\c&HF32D44&\4c&HF93249&}continues
+Dialogue: 0,0:19:42.80,0:19:47.56,Default,,0,0,0,,The great quotes journey still continues.
+Dialogue: 0,0:19:47.73,0:19:49.80,Hamada,,0,0,0,,
+Dialogue: 0,0:19:54.43,0:19:55.96,Hamada,,0,0,0,,Come on, what do you want?
+Dialogue: 0,0:19:55.96,0:19:57.70,Black Text,,0,0,0,,There was nothing there, so...
+Dialogue: 0,0:19:57.70,0:20:00.16,Hamada,,0,0,0,,Oh shut it...
+Dialogue: 0,0:19:58.30,0:20:00.16,Black Text,,0,0,0,,So I was wondering what tripped you up...
+Dialogue: 0,0:20:00.16,0:20:02.16,Hamada,,0,0,0,,This.
+Dialogue: 0,0:20:02.16,0:20:03.58,Hamada,,0,0,0,,
+Dialogue: 0,0:20:03.58,0:20:05.65,Hamada,,0,0,0,,Hel{\c&H00FFEB&\3c&H000000&\4c&HFFFFFF&}lo
+Dialogue: 0,0:20:05.80,0:20:07.26,License,,0,0,0,,Thanks for having us.
+Dialogue: 0,0:20:07.69,0:20:12.12,Smogo,,0,0,0,,{\blur25\pos(250.500000,922.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Enoshima-tei
+Dialogue: 0,0:20:07.69,0:20:12.12,Smogo,,0,0,0,,{\blur1\pos(250.500000,922.000000)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H06CA0C&\3c&HFFFFFF&\4c&H1ECA23&\4a&HFF&\3a&H65&}Enoshima-tei
+Dialogue: 0,0:20:12.49,0:20:20.00,Sharp Blocky,,0,0,0,,{\blur25\pos(722.5,904)}{\fade(400,0)\pos(737.500000,904.000000)\c&HF7D411&\3c&HFFFFFF&\4c&H00EAFF&}A terrace seat to take in the surrounding beauty
+Dialogue: 0,0:20:12.49,0:20:20.00,Sharp Blocky,,0,0,0,,{\blur5\c&H154AF8&\pos(722.5,904)}{\fade(400,0)\pos(737.500000,904.000000)\3c&HFFFFFF&\4c&H878787&\c&H1B53F6&}A terrace seat to take in the surrounding beauty
+Dialogue: 0,0:20:07.80,0:20:13.23,Default,,0,0,0,,It has been open since 1909, Enoshima-tei.
+Dialogue: 0,0:20:13.90,0:20:18.93,Default,,0,0,0,,You get a terrace seat to enjoy the beautiful surroundings.
+Dialogue: 0,0:20:20.36,0:20:28.57,Default,,0,0,0,,{\b0\fscx83\fscy97\pos(459,58)}(Note: It's like a fish-based tapas.){\b1}
+Dialogue: 0,0:20:20.36,0:20:28.57,Smogo,,0,0,0,,{\blur25\pos(1101,846)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H0BCE0F&\3c&HFFFFFF&\4c&HFFFFFF&}Shirasu Zanmai Gozen
+Dialogue: 0,0:20:20.36,0:20:28.57,Smogo,,0,0,0,,{\blur1\pos(1101,846)}{\fade(400,0)\pos(720.000000,888.000000)\fscx125.000000\fscy100.000000\c&H2900E8&\3c&HFFFFFF&\4c&H1ECA23&\4a&HFF&\3a&H65&}Shirasu Zanmai Gozen
+Dialogue: 0,0:20:20.36,0:20:28.57,Default,,0,0,0,,{\fade(400,0)\b0\pos(1242.000000,1056.000000)}2500 Yen{\b1}
+Dialogue: 0,0:20:19.26,0:20:27.80,Default,,0,0,0,,And because they're experts about fish, their Shirasu Zanmai Gozen is beautiful.
+Dialogue: 0,0:20:36.43,0:20:38.43,Hamada,,0,0,0,,It's good.
+Dialogue: 0,0:20:41.46,0:20:44.13,Hamada,,0,0,0,,But seriously...
+Dialogue: 0,0:20:44.13,0:20:46.26,Hamada,,0,0,0,,Do we need a part with me eating (for the Hamada Bamyu Bamyu PV)?
+Dialogue: 0,0:20:46.26,0:20:48.19,License,,0,0,0,,{\pos(721.500000,934.000000)}I think you do, no?
+Dialogue: 0,0:20:47.86,0:20:49.76,Hamada,,0,0,0,,Surely not?
+Dialogue: 0,0:20:49.76,0:20:52.83,License,,0,0,0,,If you look at the idol's marketing their videos, there are scenes of them eating too.
+Dialogue: 0,0:20:52.96,0:20:54.16,Hamada,,0,0,0,,They don't eat Gozen though, right?!
+Dialogue: 0,0:20:54.20,0:21:02.01,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1349,966)\pos(772.500000,630.000000)\fscx1200.000000\fscy500.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:20:58.54,0:21:02.01,Testhand,,0,0,0,,{\fade(600,0)\pos(711,722)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}They don't eat Gozen though, right?!
+Dialogue: 0,0:20:54.53,0:21:02.01,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696.000000,430.000000)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}A short and useless quote:
+Dialogue: 0,0:21:02.81,0:21:05.88,Tanaka,,0,0,0,,That's kind of true, though.
+Dialogue: 0,0:21:06.03,0:21:08.00,Hamada,,0,0,0,,You're not eating at all!
+Dialogue: 0,0:21:08.00,0:21:09.63,License,,0,0,0,,I am!
+Dialogue: 0,0:21:09.63,0:21:12.06,Hamada,,0,0,0,,You really don't eat at all, do you?
+Dialogue: 0,0:21:12.06,0:21:14.26,License,,0,0,0,,I'm eating so much.
+Dialogue: 0,0:21:14.26,0:21:17.16,Hamada,,0,0,0,,If you don't eat and can still do everything normally,
+Dialogue: 0,0:21:17.60,0:21:20.63,Hamada,,0,0,0,,there's only one explanation for it...
+Dialogue: 0,0:21:21.66,0:21:22.46,Hamada,,0,0,0,,You're doing drugs, aren't you?
+Dialogue: 0,0:21:22.76,0:21:36.81,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\clip(87,332,1349,966)\pos(709.500000,632.000000)\fscx1127.000000\fscy436.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:21:22.76,0:21:36.81,Rectangle,,0,0,0,,{\p1\4c&H000000&\4a&H00&\fscx1127.000000\fscy436.000000\pos(708.000000,328.000000)\clip(342,194,1116,470)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:21:29.43,0:21:36.81,Testhand,,0,0,0,,{\fade(600,0)\pos(510,602)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}There's only one
+Dialogue: 0,0:21:29.43,0:21:36.81,Testhand,,0,0,0,,{\fade(600,0)\pos(714,732)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}explanation for it...
+Dialogue: 0,0:21:29.43,0:21:36.81,Testhand,,0,0,0,,{\fade(600,0)\pos(852,964)}{\fscx385.000000\fscy335.000000\\pos(669.000000,960.000000)} {\blur60} {\3c&H4F4F4F&\4c&H000000&\c&HFFFFFF&\}You're doing drugs, aren't you?
+Dialogue: 0,0:21:22.83,0:21:36.81,Default,,0,0,0,,{\fade(600,0)\fscx126.000000\fscy125.000000\pos(696,444)} {\3a&HFF&\4a&HFF&\c&H5AFCFC&}Only because he knows the industry inside out, \N a very Hamada-like quote:
+Dialogue: 0,0:21:40.18,0:21:44.72,Sharp Blocky,,0,0,0,,{\blur25\pos(718.500000,892.000000)}{\c&HF7D411&\3c&HFFFFFF&\4c&HA5FF83&}That's it {\4c&H8A5BF8&}for Hamada's {\4c&HA4F56B&}Great Quote Journey
+Dialogue: 0,0:21:40.18,0:21:44.72,Sharp Blocky,,0,0,0,,{\blur5\c&H154AF8&\pos(718.500000,892.000000)}{\3c&HFFFFFF&\4c&H878787&\c&H9CFECF&}That's it {\c&HB1A3FB&}for Hamada's {\c&H9CFECF&}Great Quote Journey
+Dialogue: 0,0:21:40.18,0:21:44.72,Sharp Blocky,,0,0,0,,{\c&H154AF8&\pos(718.500000,892.000000)\1a&HFF&}{\3c&H2CA319&\4c&H878787&\c&H1B53F6&\4a&HFF&}That's it {\3c&H1500C2&}for Hamada's {\3c&H2CA319&}Great Quote Journey
+Dialogue: 0,0:21:39.43,0:21:44.53,Default,,0,0,0,,And there we have it, Hamada's Great Quote Journey!
+Dialogue: 0,0:21:44.72,0:21:47.58,Black Hamada,,0,0,0,,{\fscx155.000000\fscy147.000000}Stop taking the piss.
+Dialogue: 0,0:21:47.73,0:21:51.66,Hamada,,0,0,0,,The first thing I do when I leave here, I'm going to smack Yanaoka (producer)!
+Dialogue: 0,0:21:51.80,0:21:53.32,Matsumoto,,0,0,0,,Well that's understandable...
+Dialogue: 0,0:21:53.32,0:21:55.76,Matsumoto,,0,0,0,,{\pos(301.5,906)}To be honest, that was also
+Dialogue: 0,0:21:53.86,0:21:55.76,Matsumoto,,0,0,0,,{\pos(964.500000,906.000000)}right there
+Dialogue: 0,0:21:53.86,0:21:55.76,Rectangle,,0,0,0,,{\p1\fscx288.000000\fscy250.000000\4c&H0E00D6&\4a&H00&\pos(552.000000,892.000000)\clip(582,876,772,1020)}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:21:53.86,0:21:55.76,Default,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HFF&\c&H4FFAFF&\pos(678.000000,986.000000)\fscx151\fscy176}a quote
+Dialogue: 0,0:21:55.76,0:22:01.30,Default,,0,0,0,,{\blur3}{\pos(193.500000,758.000000)\c&H4EFFF8&}Quote{\3c&H000000&}
+Dialogue: 0,0:21:55.76,0:22:01.30,Rectangle,,0,0,0,,{\p1\clip(7,858,1440,1002)\4c&H171718&\pos(702.000000,934.000000)\4a&H33&\fscx1545.000000\fscy195.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:21:55.76,0:22:01.30,Default,,0,0,0,,{\blur25\fscx132\fscy186}{\pos(721.500000,980.000000)\3c&H000000&\3a&HFF&\4c&HFFFFFF&\4a&HE0&}First thing when I leave here, I'm going to smack Yanaoka!
+Dialogue: 0,0:21:56.73,0:21:59.63,Matsumoto,,0,0,0,,"First thing when I leave the studio, I'm going to smack Yanaoka!"
+Dialogue: 0,0:21:59.63,0:22:01.30,Hamada,,0,0,0,,This is just ridiculous!
+Dialogue: 0,0:22:02.23,0:22:06.30,Hamada,,0,0,0,,{\pos(723.000000,1070.000000)}I can't actually{\fade(400,0)\c&H000000&\4c&HF60B20&} believe {\c&HF50C20&\4c&H000000&}they would lie to me...
+Dialogue: 0,0:22:01.30,0:22:06.30,Hamada,,0,0,0,,{\pos(723,1070)}I can't actually{\alpha&HFF&} believe they would lie to me...
+Dialogue: 0,0:22:06.60,0:22:09.10,Matsumoto,,0,0,0,,But that lie got all those quotes...
+Dialogue: 0,0:22:09.10,0:22:11.84,Hamada,,0,0,0,,They're not quotes! It's just me reacting!
+Dialogue: 0,0:22:11.84,0:22:13.28,Matsumoto,,0,0,0,,What's your favourite?
+Dialogue: 0,0:22:13.28,0:22:14.14,Matsumoto,,0,0,0,,For me it's the {\alpha&HFF&} 'Bara-zushi'
+Dialogue: 0,0:22:14.14,0:22:17.85,Matsumoto,,0,0,0,,For me it's the {\c&H000000&\4c&H0000FF&} 'Bara-zushi'
+Dialogue: 0,0:22:16.76,0:22:17.85,Tanaka,,0,0,0,,{\pos(1191.000000,622.000000)}That is a great one!
+Dialogue: 0,0:22:17.93,0:22:19.02,Endo,,0,0,0,,For me though, it has to be
+Dialogue: 0,0:22:19.02,0:22:22.89,Endo,,0,0,0,,{\c&H000000&\4c&H00A2FF&}'They don't eat Gozen though, right?
+Dialogue: 0,0:22:22.90,0:22:25.40,Matsumoto,,0,0,0,,It's got that Tsukkomi in it as well
+Dialogue: 0,0:22:25.40,0:22:28.86,Matsumoto,,0,0,0,,and it just compliments the phrase really...
+Dialogue: 0,0:22:28.86,0:22:34.53,Black Matsumoto,,0,0,0,,{\pos(726.000000,780.000000)}'Miyane-ya is Yomiuri TV though'
+Dialogue: 0,0:22:31.93,0:22:34.53,Matsumoto,,0,0,0,,is something I will remember for a while, too...
+Dialogue: 0,0:22:35.00,0:22:38.10,Matsumoto,,0,0,0,,I'll just remember that if something bad ever happens...
+Dialogue: 0,0:22:38.10,0:22:40.33,Hamada,,0,0,0,,I'm honestly shocked.
+Dialogue: 0,0:22:40.33,0:22:43.86,Hamada,,0,0,0,,Seriously, we have no working relationship (staff).
+Dialogue: 0,0:22:43.81,0:22:49.21,Default,,0,0,0,,{\blur3\pos(339.000000,760.000000)}{\pos(193.500000,758.000000)\c&H4EFFF8&}Quote{\3c&H000000&}
+Dialogue: 0,0:22:43.81,0:22:49.21,Rectangle,,0,0,0,,{\p1\clip(7,858,1440,1002)\4c&H171718&\pos(702.000000,934.000000)\4a&H33&\fscx1545.000000\fscy195.000000}m 0 0 l 0 15 l 18 15 l 18 0
+Dialogue: 0,0:22:43.81,0:22:49.21,Default,,0,0,0,,{\blur25}{\pos(721.500000,980.000000)\fscx204.000000\fscy197.000000\3c&H000000&\3a&HFF&\4c&HFFFFFF&\4a&HE0&}We have no working relationship.
+Dialogue: 0,0:22:43.86,0:22:45.96,Matsumoto,,0,0,0,,There's another great quote.
+Dialogue: 0,0:22:44.83,0:22:45.96,Hamada,,0,0,0,,No no no.
+Dialogue: 0,0:22:45.96,0:22:48.56,Hamada,,0,0,0,,I seriously understand what Yama-chan was going on about now.
+Dialogue: 0,0:22:48.56,0:22:49.61,Matsumoto,,0,0,0,,Hang on a minute...
+Dialogue: 0,0:22:49.61,0:22:53.28,Black Matsumoto,,0,0,0,,{\pos(459.000000,794.000000)}Who here {\c&H0000FF&\4c&H000000&}actually
+Dialogue: 0,0:22:51.25,0:22:53.28,Matsumoto,,0,0,0,,trusts the Gaki staff??
+Dialogue: 0,0:22:53.28,0:22:54.28,Hamada,,0,0,0,,Yama-chan and I{\alpha&HFF&} don't trust them at all.
+Dialogue: 0,0:22:54.28,0:22:55.15,Hamada,,0,0,0,,Yama-chan and I don't trust them at all.
+Dialogue: 0,0:22:55.15,0:22:55.89,Matsumoto,,0,0,0,,I don't trust them{\alpha&HFF&} at all either.
+Dialogue: 0,0:22:55.89,0:22:57.89,Matsumoto,,0,0,0,,I don't trust them {\c&H000000&\4c&H0000FF&}at all either.
+Dialogue: 0,0:22:58.63,0:22:59.66,Matsumoto,,0,0,0,,I don't trust them at all.
+Dialogue: 0,0:22:59.66,0:23:00.62,Endo,,0,0,0,,{\pos(709.500000,800.000000)}I've had a lot of shit{\alpha&HFF&} happen to me,
+Dialogue: 0,0:23:00.62,0:23:04.86,Endo,,0,0,0,,{\pos(709.500000,800.000000)}I've had a lot of shit happen to me,
+Dialogue: 0,0:23:02.09,0:23:04.86,Endo,,0,0,0,,{\c&H000000&\4c&H40A9FA&\pos(480.000000,920.000000)}so I don't trust them,
+Dialogue: 0,0:23:02.83,0:23:05.80,Endo,,0,0,0,,Seriously, they've got me real bad in the past,
+Dialogue: 0,0:23:05.96,0:23:07.26,Tanaka,,0,0,0,,{\pos(714.000000,786.000000)}From the moment{\alpha&HFF&} they got Endo really badly,
+Dialogue: 0,0:23:07.26,0:23:10.40,Tanaka,,0,0,0,,{\pos(714.000000,786.000000)}From the moment{\c&H000000&\4c&HE91694&} they got Endo{\c&HE91694&\4c&H000000&} really badly,
+Dialogue: 0,0:23:07.26,0:23:10.40,Tanaka,,0,0,0,,{\c&H000000&\4c&HE91694&\pos(471,1052)}I've never trusted them.
+Dialogue: 0,0:23:10.40,0:23:11.57,Tanaka,,0,0,0,,{\c&H000000&\4c&HE91694&}The trust died{\alpha&HFF&} 20 years ago.
+Dialogue: 0,0:23:11.57,0:23:13.60,Tanaka,,0,0,0,,{\c&H000000&\4c&HE91694&}The trust died{\c&HC900B3&\4c&H000000&} 20 years ago.
+Dialogue: 0,0:23:12.46,0:23:13.76,Yamasaki,,0,0,0,,{\pos(319.000000,754.000000)}20 years ago, right?
+Dialogue: 0,0:23:13.76,0:23:15.50,Yamasaki,,0,0,0,,No one trusts the staff in the slightest.
+Dialogue: 0,0:23:15.50,0:23:17.20,Hamada,,0,0,0,,It's so ridiculous.
+Dialogue: 0,0:23:18.44,0:24:09.69,Newtofupandatitle,,0,0,0,,{\fade(9000,0)\pos(697.311000,710.119000)}{\fscx62.000000\fscy105.000000\pos(697.311000,784.118000)\c&HFFFFFF&\1a&HB9&\3c&H000000&\3a&HB4&\4c&H000000&\4a&HFF&}This video was brought to you by Tofu Panda Fansubs
+Dialogue: 0,0:23:17.20,0:23:19.53,Hamada,,0,0,0,,Wait, did Inamoto know or not?
+Dialogue: 0,0:23:19.53,0:23:21.73,Hamada,,0,0,0,,He didn't know?
+Dialogue: 0,0:23:19.83,0:23:21.73,Matsumoto,,0,0,0,,No, he didn't.
+Dialogue: 0,0:23:21.73,0:23:24.90,Hamada,,0,0,0,,So Inamoto, you were tricked too along with me.
+Dialogue: 0,0:23:25.50,0:23:32.10,License,,0,0,0,,There was a camera next to me the whole time and I was thinking, "Is it rolling or not?"
+Dialogue: 0,0:23:32.10,0:23:34.10,Matsumoto,,0,0,0,,But you've just listened to this whole conversation.
+Dialogue: 0,0:23:34.10,0:23:40.96,Matsumoto,,0,0,0,,What do you think? You might have been pranked but how do you feel personally?
+Dialogue: 0,0:23:40.96,0:23:43.40,License,,0,0,0,,I'm really touched.
+Dialogue: 0,0:23:41.83,0:23:43.40,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:23:43.40,0:23:45.16,Matsumoto,,0,0,0,,That's exactly it.
+Dialogue: 0,0:23:45.16,0:23:47.16,License,,0,0,0,,We got to do a great episode together.
+Dialogue: 0,0:23:47.76,0:23:50.06,Tanaka,,0,0,0,,
+Dialogue: 0,0:23:50.06,0:23:52.06,Yamasaki,,0,0,0,,He's so touched by this experience.
+Dialogue: 0,0:05:46.30,0:05:48.07,Talking Over Matsumoto,,0,0,0,,Nakada-san has nothing to do with it really..
+Dialogue: 0,0:05:51.22,0:05:52.92,Talking Over Hamada,,0,0,0,,Someone I've never met...
+Dialogue: 0,0:06:11.12,0:06:13.80,Talking Over Hamada,,0,0,0,,Are you guys kidding me??
+Dialogue: 0,0:06:38.75,0:06:42.65,Talking Over Matsumoto,,0,0,0,,
+Dialogue: 0,0:06:42.65,0:06:44.65,Talking Over Hamada,,0,0,0,,This is horrible.
+Dialogue: 0,0:06:56.77,0:06:58.42,Talking Over Hamada,,0,0,0,,They're just making a meal of it.
+Dialogue: 0,0:06:59.92,0:07:01.47,Talking Over Hamada,,0,0,0,,No! No! No!
+Dialogue: 0,0:07:05.57,0:07:07.10,Talking Over Endo,,0,0,0,,He really is a star.
+Dialogue: 0,0:07:07.10,0:07:09.10,Talking Over Matsumoto,,0,0,0,,
+Dialogue: 0,0:07:23.05,0:07:24.62,Talking Over Hamada,,0,0,0,,What the hell is this?
+Dialogue: 0,0:07:44.45,0:07:47.90,Talking Over Hamada,,0,0,0,,No no no, what the hell?
+Dialogue: 0,0:08:09.82,0:08:11.50,Talking Over Endo,,0,0,0,,This really is truly amazing.
+Dialogue: 0,0:08:11.50,0:08:13.95,Talking Over Endo,,0,0,0,,You would be happy if Hamada-san waved to you.
+Dialogue: 0,0:08:34.55,0:08:37.50,Talking Over Tanaka,,0,0,0,,I see, the Eno Train.
+Dialogue: 0,0:08:35.62,0:08:37.50,Talking Over Endo,,0,0,0,,Shirichirigahama is meant to be a nice place, right?
+Dialogue: 0,0:09:01.82,0:09:03.87,Talking Over Matsumoto,,0,0,0,,You were close to pressing the button next to it there.
+Dialogue: 0,0:09:03.87,0:09:06.45,Talking Over Hamada,,0,0,0,,No I wasn't...
+Dialogue: 0,0:09:19.33,0:09:21.20,Talking Over Hamada,,0,0,0,,This pisses me off so much!
+Dialogue: 0,0:09:22.33,0:09:23.96,Talking Over Hamada,,0,0,0,,What the hell!?
+Dialogue: 0,0:09:45.06,0:09:47.06,Talking Over Hamada,,0,0,0,,I wasn't trying to scare them at all!
+Dialogue: 0,0:09:56.20,0:09:57.10,Talking Over Tanaka,,0,0,0,,Here it is.
+Dialogue: 0,0:10:25.33,0:10:27.66,Talking Over Yamasaki,,0,0,0,,I get how you feel.
+Dialogue: 0,0:10:28.20,0:10:30.20,Talking Over Matsumoto,,0,0,0,,That's terrible of you!
+Dialogue: 0,0:10:38.73,0:10:40.36,Talking Over Endo,,0,0,0,,Oh my god!
+Dialogue: 0,0:10:46.86,0:10:48.53,Talking Over Matsumoto,,0,0,0,,
+Dialogue: 0,0:10:52.46,0:10:54.40,Talking Over Hamada,,0,0,0,,Oh just leave it out!
+Dialogue: 0,0:11:14.10,0:11:15.53,Talking Over Yamasaki,,0,0,0,,WOAH!
+Dialogue: 0,0:11:15.56,0:11:16.86,Talking Over Endo,,0,0,0,,Woah...!
+Dialogue: 0,0:11:16.86,0:11:18.86,Talking Over Yamasaki,,0,0,0,,Wow!
+Dialogue: 0,0:11:19.00,0:11:20.40,Talking Over Matsumoto,,0,0,0,,That is tough!
+Dialogue: 0,0:11:19.73,0:11:21.86,Talking Over Endo,,0,0,0,,Yeah, it is.
+Dialogue: 0,0:11:22.00,0:11:25.86,Talking Over Matsumoto,,0,0,0,,And because it's tough, we'll get some great quotes out of you.
+Dialogue: 0,0:11:33.63,0:11:35.36,Talking Over Matsumoto,,0,0,0,,That's great.
+Dialogue: 0,0:11:43.20,0:11:46.30,Talking Over Hamada,,0,0,0,,No no no, that's wrong!
+Dialogue: 0,0:11:56.76,0:11:59.23,Talking Over Hamada,,0,0,0,,Please just stop this...
+Dialogue: 0,0:12:10.13,0:12:12.56,Talking Over Yamasaki,,0,0,0,,This is truly amazing.
+Dialogue: 0,0:12:21.36,0:12:23.60,Talking Over Matsumoto,,0,0,0,,Oh, I see.
+Dialogue: 0,0:13:07.13,0:13:09.96,Talking Over Endo,,0,0,0,,That's true, though.
+Dialogue: 0,0:13:21.90,0:13:23.26,Talking Over Yamasaki,,0,0,0,,Were you by yourself the whole time?
+Dialogue: 0,0:13:27.33,0:13:29.46,Talking Over Matsumoto,,0,0,0,,It's amazing weather.
+Dialogue: 0,0:13:56.30,0:13:58.53,Talking Over Matsumoto,,0,0,0,,I've been here, too.
+Dialogue: 0,0:14:15.30,0:14:17.50,Talking Over Tanaka,,0,0,0,,Wow, that's amazing.
+Dialogue: 0,0:14:28.36,0:14:30.63,Talking Over Endo,,0,0,0,,That looks amazing.
+Dialogue: 0,0:14:45.00,0:14:47.53,Talking Over Matsumoto,,0,0,0,,Well yeah...you should.
+Dialogue: 0,0:15:17.26,0:15:21.17,Talking Over Hamada,,0,0,0,,This is ridiculous, just cut it out you guys!
+Dialogue: 0,0:15:29.13,0:15:30.53,Talking Over Tanaka,,0,0,0,,
+Dialogue: 0,0:16:08.53,0:16:10.13,Talking Over Endo,,0,0,0,,Damn, that looks good.
+Dialogue: 0,0:16:27.46,0:16:28.93,Talking Over Endo,,0,0,0,,
+Dialogue: 0,0:16:28.93,0:16:32.83,Talking Over Hamada,,0,0,0,,'Really grinds to get heard a second time'
+Dialogue: 0,0:16:36.70,0:16:38.93,Hamada,,0,0,0,,So hot...
+Dialogue: 0,0:17:28.46,0:17:31.26,Talking Over Hamada,,0,0,0,,Okay yeah...this is a bit....
+Dialogue: 0,0:17:35.00,0:17:36.83,Talking Over Endo,,0,0,0,,
+Dialogue: 0,0:18:07.76,0:18:10.63,Talking Over Hamada,,0,0,0,,I do remember this part.
+Dialogue: 0,0:18:15.56,0:18:17.73,Talking Over Matsumoto,,0,0,0,,This is what I'm talking about...
+Dialogue: 0,0:18:39.13,0:18:41.16,Talking Over Endo,,0,0,0,,
+Dialogue: 0,0:19:19.23,0:19:21.36,Talking Over Matsumoto,,0,0,0,,Today's number one?
+Dialogue: 0,0:19:20.33,0:19:22.33,Talking Over Hamada,,0,0,0,,What the hell, man?
+Dialogue: 0,0:19:51.06,0:19:53.43,Talking Over Tanaka,,0,0,0,,Oh dear...
+Dialogue: 0,0:20:13.83,0:20:16.66,Talking Over Endo,,0,0,0,,What a lovely place.
+Dialogue: 0,0:20:22.56,0:20:24.00,Talking Over Matsumoto,,0,0,0,,That's great.
+Dialogue: 0,0:20:24.00,0:20:26.00,Talking Over Tanaka,,0,0,0,,It's lovely.
+Dialogue: 0,0:20:38.70,0:20:41.16,Talking Over Matsumoto,,0,0,0,,
+Dialogue: 0,0:21:26.50,0:21:28.40,Talking Over Matsumoto,,0,0,0,,You got straight to the point!
+Dialogue: 0,0:21:29.73,0:21:31.96,Talking Over Matsumoto,,0,0,0,,
+Dialogue: 0,0:21:41.86,0:21:43.20,Tanaka,,0,0,0,,
+Dialogue: 0,0:21:43.20,0:21:44.70,Talking Over Hamada,,0,0,0,,You guys, seriously, cut it out.
+Dialogue: 0,0:05:23.60,0:05:25.96,Talking Over Matsumoto,,0,0,0,,Inamoto didn't know either, right?
+Dialogue: 0,0:05:26.10,0:05:27.96,Talking Over Tanaka,,0,0,0,,Correct.
+Dialogue: 0,0:05:27.96,0:05:29.96,Talking Over Matsumoto,,0,0,0,,
+

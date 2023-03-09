@@ -1,0 +1,949 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 480
+Video Aspect Ratio: c1.77778
+YCbCr Matrix: TV.601
+Aegisub Video Aspect Ratio: c1.333333
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: F:/Downloads/683.mp4
+Video File: F:/Downloads/683.mp4
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.125000
+Scroll Position: 870
+Active Line: 889
+Video Position: 42914
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,27,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,120.889,100,0,0,1,1.83333,1.22222,2,5,5,7,1
+Style: Default Black,Arial,27,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,1.83333,1.22222,2,5,5,7,1
+Style: Hamada,Arial,27,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Matsumoto,Arial,27,&H001425DF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Yamasaki,Arial,27,&H0011AA16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Endo,Arial,27,&H00026CE1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Tanaka,Arial,27,&H00E91694,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Yellow text,Arial,38,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,121.212,100,0,0,1,1.83333,1.22222,2,5,5,7,1
+Style: Newtofupandatitle,Arial,38,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,165.29,100,0,0,1,1.83333,1.83333,2,7,7,10,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,165.29,100,0,0,3,30.5555,1.22222,5,5,5,7,1
+Style: Tanaka2,Arial,30,&H00E91694,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,120.889,100,0,0,1,2.44443,1.22222,2,5,5,7,1
+Style: Blue title,Arial,52,&H00D13646,&HFF0000FF,&HD5A9898B,&H10000000,-1,0,0,0,97.7778,110,0,0,1,3.75,0,5,7,7,8,1
+Style: green title,Arial,50,&H00077A25,&HFF0000FF,&HBA3AD45C,&H10000000,-1,0,0,0,97.7778,110,0,0,1,3.75,0,5,7,7,8,1
+Style: Talking Over Matsumoto,Arial,28,&H000607D2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,104.889,100,0,0,1,3,2,7,18,12,7,1
+Style: Talking Over Hamada,Arial,28,&H00DD4137,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,104.889,100,0,0,1,3,2,7,18,12,7,1
+Style: Talking Over Yamasaki,Arial,28,&H00089C0D,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,104.889,100,0,0,1,3,2,7,18,12,7,1
+Style: Talking Over Tanaka,Arial,28,&H00E624BC,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,104.889,100,0,0,1,3,2,7,18,12,7,1
+Style: Talking Over Endo,Arial,28,&H003099F2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,104.889,100,0,0,1,3,2,7,18,12,7,1
+Style: Red title,Arial,38,&H00000000,&H00000000,&H821213C7,&HFF05050E,-1,0,0,0,104.889,100,0,0,1,4.83333,1.66667,2,7,7,8,1
+Style: Itallic title,Arial,43,&H00CF4749,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,104.889,100,0,0,1,0.833333,3,2,7,7,8,1
+Style: Blocky,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,161.617,100,0,0,1,4.66667,2.66667,2,7,7,7,1
+Style: Sharp Blocky,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,118.518,100,0,0,1,2.66667,1.33333,2,8,8,7,1
+Style: Smooth Blocky,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,118.518,100,0,0,1,2.66667,1.33333,2,8,8,7,1
+Style: Goofy round,Arial,42,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,161.617,100,0,0,1,2.66667,2.66667,2,7,7,7,1
+Style: Handgof,Arial,53,&H00F70002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,161.617,100,0,0,1,3,1.33333,2,7,7,7,1
+Style: Sharp,Arial,53,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,118.518,100,0,0,1,2,0.666667,2,8,8,7,1
+Style: Smogo,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,115.556,100,0,0,1,2.66667,0.5,2,7,7,7,1
+Style: Yellow announcmend,Arial,57,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,0,0,0,106.667,120,0,0,1,2,1,2,8,8,12,1
+Style: Red Titlen,Arial,50,&H001819DB,&HFF0000FF,&HBA0F37E8,&H10000000,-1,0,0,0,97.7778,110,0,0,1,3.75,0,5,7,7,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.01,Yellow text,,0,0,0,,{\fade(400,400)\b0\fscx104\fscy96\pos(534.418,395.403)}{\pos(490.312,431.443)}Typechecker:
+Comment: 0,0:00:00.00,0:00:00.01,Yellow text,,0,0,0,,{\fade(400,400)\b0\fscx104\fscy96\pos(314.434,437.812)}{\pos(489.062,488.073)} {\pos(426.25,485.628)}Translator
+Comment: 0,0:00:00.00,0:00:00.01,Yellow text,,0,0,0,,{\fade(400,400)\b0\fscx104\fscy96\pos(533.81,431.753)}{\pos(489.062,488.073)} {\pos(426.25,485.628)}Otviss
+Comment: 0,0:00:00.00,0:00:00.01,Yellow text,,0,0,0,,{\fade(400,400)\b0\fscx43.556\fscy73\pos(313.179,472.812)}If you're unhappy about anything regarding the episode, please send us feedback at: Tofupandahost@gmail.com{\b1}
+Comment: 0,0:00:00.00,0:00:00.01,Yellow text,,0,0,0,,NOTE TO TRANSLATOR: There's a lot of people talking together in this episode. I Wonder if We could mark lines that you dont understand as comments?
+Comment: 0,0:00:16.93,0:00:16.96,Matsumoto,,0,0,0,,
+Comment: 0,0:00:16.93,0:00:20.63,Blue title,,0,0,0,,{\pos(313,131)}{\blur6.667}Limits series
+Comment: 0,0:00:16.93,0:00:20.63,Blue title,,0,0,0,,{\pos(313,131)}{\blur16.667}Limits series
+Comment: 0,0:00:16.93,0:00:20.63,Default,,0,0,0,,Fat ^ = Effect after translation
+Comment: 0,0:00:17.51,0:00:21.82,Default,,0,0,0,,[TRANSLATOR NOTE] "Round 2 - Hiyashi Chuuka" is missing,
+Comment: 0,0:01:46.02,0:01:49.82,Default,,0,0,0,,Note to self: Add shine later?
+Comment: 0,0:01:52.25,0:01:53.85,Matsumoto,,0,0,0,,[TRANSLATOR NOTE] should we keep both the Japanese sentence & its translation? Or just one? Or should we mix em up together?
+Comment: 0,0:02:04.94,0:02:07.61,Default,,0,0,0,,NOTE TO SELF: Change sugas line to White shadoW??
+Comment: 0,0:01:51.76,0:02:10.71,Matsumoto,,0,0,0,,Oomori raisu
+Comment: 0,0:01:51.76,0:02:10.71,Matsumoto,,0,0,0,,End
+Comment: 0,0:02:37.67,0:02:40.51,Matsumoto,,0,0,0,,TL NOTE (Shion): https://en.wikipedia.org/wiki/Japanese_asset_price_bubble
+Comment: 0,0:02:13.01,0:02:41.77,Matsumoto,,0,0,0,,Word reveal 2
+Comment: 0,0:02:13.01,0:02:41.77,Matsumoto,,0,0,0,,End
+Comment: 0,0:02:42.71,0:02:53.85,Matsumoto,,0,0,0,,Word reveal 3
+Comment: 0,0:02:42.71,0:02:53.85,Matsumoto,,0,0,0,,End
+Comment: 0,0:02:55.39,0:03:04.76,Matsumoto,,0,0,0,,Word reveal 4
+Comment: 0,0:02:55.39,0:03:04.76,Matsumoto,,0,0,0,,End
+Comment: 0,0:03:07.00,0:03:15.87,Matsumoto,,0,0,0,,Word reveal 5
+Comment: 0,0:03:07.00,0:03:15.87,Matsumoto,,0,0,0,,End
+Comment: 0,0:03:17.78,0:03:30.06,Matsumoto,,0,0,0,,Word reveal 6
+Comment: 0,0:03:17.78,0:03:30.06,Matsumoto,,0,0,0,,
+Comment: 0,0:03:32.26,0:03:55.48,Matsumoto,,0,0,0,,Word reveal 7
+Comment: 0,0:03:32.26,0:03:55.48,Matsumoto,,0,0,0,,End
+Comment: 0,0:04:10.91,0:04:13.22,Yamasaki,,0,0,0,,Fat ^
+Comment: 0,0:03:57.48,0:04:14.07,Matsumoto,,0,0,0,,Word reveal 8
+Comment: 0,0:03:57.48,0:04:14.07,Matsumoto,,0,0,0,,End
+Comment: 0,0:04:14.87,0:04:22.97,Matsumoto,,0,0,0,,Word reveal 9
+Comment: 0,0:04:14.87,0:04:22.97,Matsumoto,,0,0,0,,End
+Comment: 0,0:04:38.68,0:04:41.54,Yamasaki,,0,0,0,,Fat ^
+Comment: 0,0:04:28.21,0:04:52.37,Matsumoto,,0,0,0,,Word reveal 9
+Comment: 0,0:04:28.21,0:04:52.37,Matsumoto,,0,0,0,,End
+Comment: 0,0:05:00.22,0:05:01.02,Matsumoto,,0,0,0,,Fat ^ (DONE)
+Comment: 0,0:05:30.45,0:05:40.69,Endo,,0,0,0,,Tadan!
+Comment: 0,0:05:30.45,0:05:40.69,Endo,,0,0,0,,End - Note to self - Make effects for these??
+Comment: 0,0:05:40.69,0:05:52.83,Endo,,0,0,0,,Tadan! price
+Comment: 0,0:05:40.69,0:05:52.83,Endo,,0,0,0,,End
+Comment: 0,0:06:20.77,0:06:24.88,Matsumoto,,0,0,0,,NOTE (Shion): not sure about the last three lines (also Hamada's line where he repeats "homo sapiens" is missing). I followed this source https://plaza.rakuten.co.jp/gaki2/3005/ to understand them better, but didn't help much.
+Comment: 0,0:06:59.20,0:07:05.17,Default,,0,0,0,,Will he do it!?
+Comment: 0,0:06:59.20,0:07:05.17,Default,,0,0,0,,End
+Comment: 0,0:06:59.20,0:07:05.17,Default,,0,0,0,,Fat ^ - Note to self: Fix effect on these? :/
+Comment: 0,0:09:40.60,0:09:43.08,Matsumoto,,0,0,0,,Note to self: Effect later maybe?
+Comment: 0,0:10:05.92,0:10:17.73,Endo,,0,0,0,,Tadan!
+Comment: 0,0:10:05.92,0:10:17.73,Endo,,0,0,0,,End - Note to self - Make effects for these??
+Comment: 0,0:10:17.73,0:10:25.07,Endo,,0,0,0,,Tadan! price
+Comment: 0,0:10:17.73,0:10:25.07,Endo,,0,0,0,,End
+Comment: 0,0:11:08.08,0:11:10.11,Tanaka,,0,0,0,,Again, effects for these ^
+Comment: 0,0:11:20.43,0:11:26.86,Default,,0,0,0,,Will he do it!?
+Comment: 0,0:11:20.43,0:11:26.86,Default,,0,0,0,,End
+Comment: 0,0:13:03.49,0:13:25.08,Endo,,0,0,0,,Tadan!
+Comment: 0,0:13:03.49,0:13:25.08,Endo,,0,0,0,,End - Note to self - Make effects for these??
+Comment: 0,0:13:25.08,0:13:29.35,Endo,,0,0,0,,Tadan! price
+Comment: 0,0:13:25.08,0:13:29.35,Endo,,0,0,0,,End
+Comment: 0,0:13:29.89,0:13:36.36,Default,,0,0,0,,Will he do it!?
+Comment: 0,0:13:47.24,0:13:50.14,Tanaka,,0,0,0,,Fat ^ (DONE)
+Comment: 0,0:13:54.75,0:13:56.31,Tanaka,,0,0,0,,!
+Comment: 0,0:14:27.60,0:14:29.60,Matsumoto,,0,0,0,,Fat ^
+Comment: 0,0:15:37.88,0:15:42.89,Endo,,0,0,0,,Tadan!
+Comment: 0,0:15:37.88,0:15:42.89,Endo,,0,0,0,,End - Note to self - Make effects for these??
+Comment: 0,0:16:10.01,0:16:16.45,Default,,0,0,0,,Will he do it!?
+Comment: 0,0:16:10.01,0:16:16.45,Default,,0,0,0,,End
+Comment: 0,0:17:34.77,0:17:36.27,Default,,0,0,0,,NOTE (Shion): sansai = (literal TL) mountain vegetables
+Comment: 0,0:19:10.23,0:19:12.85,Default,,0,0,0,,Fat ^
+Comment: 0,0:19:36.05,0:19:39.06,Matsumoto,,0,0,0,,Fat ^
+Comment: 0,0:21:39.38,0:21:48.09,Default,,0,0,0,,Will he do it!?
+Comment: 0,0:21:39.38,0:21:48.09,Default,,0,0,0,,End
+Comment: 0,0:23:32.44,0:23:32.44,Hamada,,0,0,0,,End - TO TRANSLATOR- Is the part after this Worth translating? TL RESPONSE: nah, but in case you wanna add it:　番組15周年を記念して、「ガキの使いやあらへんで」の歴史を綴った本が出ました。タイトルは「軌跡」。松本人志・浜田雅功のスペシャルインタビューも収録。全国の社店で絶賛発売中！(We released a book to celebrate of TV show Gaki no Tsukai ya Arahende's fifteenth year, which talks about its story. Its title is "kiseki" ("traces", most likely a pun on "kiseki" - "miracle"). It also features a special interview with Hitoshi Matsumoto and Masatoshi Hamada. You can buy it now on any bookstore and featured shop!
+Dialogue: 0,0:00:00.51,0:00:04.37,Hamada,,0,0,0,,First time ever on Gaki no Tsukai! Limits series:
+Dialogue: 0,0:00:01.01,0:00:06.85,Hamada,,0,0,0,,{\fade(320,300)}{\c&H43732D&\fscx113.778\fscy91\pos(249,273)}Downtown
+Dialogue: 0,0:00:01.01,0:00:06.85,Matsumoto,,0,0,0,,{\fade(320,300)\pos(124.999,313)}{\fscx113.778\fscy91\pos(249,273)}Matsumoto Hitoshi
+Dialogue: 0,0:00:01.01,0:00:06.85,Hamada,,0,0,0,,{\fade(320,300)\pos(386,314)}{\fscx113.778\fscy91\pos(249,273)}Hamada Masatoshi
+Dialogue: 0,0:00:01.01,0:00:06.85,Yamasaki,,0,0,0,,{\fade(320,300)\pos(136,408)}{\fscx113.778\fscy91\pos(249,273)}Yamazaki Hosei
+Dialogue: 0,0:00:01.01,0:00:06.85,Default,,0,0,0,,{\fade(320,300)\pos(431,377)}{\fscx113.778\fscy91\pos(249,273)}Cocorico
+Dialogue: 0,0:00:01.01,0:00:06.85,Endo,,0,0,0,,{\fade(320,300)\pos(340.999,407)}{\fscx113.778\fscy91\pos(249,273)}Endo Shozo
+Dialogue: 0,0:00:01.01,0:00:06.85,Tanaka,,0,0,0,,{\fade(320,300)\pos(532.999,407)}{\fscx113.778\fscy91\pos(249,273)}Tanaka Naoki
+Dialogue: 0,0:00:04.37,0:00:09.82,Hamada,,0,0,0,,How far is omurice still omurice? Let's bet on its limits!
+Dialogue: 0,0:00:11.97,0:00:13.57,Matsumoto,,0,0,0,,Here we are
+Dialogue: 0,0:00:13.68,0:00:15.37,Hamada,,0,0,0,,We already did 6 rounds before
+Dialogue: 0,0:00:15.37,0:00:16.91,Matsumoto,,0,0,0,,Yeah we did
+Dialogue: 0,0:00:16.83,0:00:20.63,Sharp Blocky,,0,0,0,,{\fade(200,0)}{\pos(313,161)}{\blur2\3c&HFFFFFF&\c&H954247&\4c&H000000&}Limits series
+Dialogue: 0,0:00:16.83,0:00:20.63,Sharp Blocky,,0,0,0,,{\fade(200,0)}{\c&H16197C&\3c&HFFFFFF&\blur2\pos(322.857,267.287)}Round 1:
+Dialogue: 0,0:00:16.83,0:00:20.63,Sharp Blocky,,0,0,0,,{\fade(200,0)}{\c&H16197C&\3c&HFFFFFF&\blur2\pos(322.857,373)}Ice Coffee
+Dialogue: 0,0:00:17.51,0:00:21.82,Default,,0,0,0,,"Limits Series" explores how far you can change words when making an order
+Dialogue: 0,0:00:20.63,0:00:22.13,Sharp Blocky,,0,0,0,,{\pos(328.429,168.572)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Round 2:
+Dialogue: 0,0:00:20.63,0:00:22.13,Sharp Blocky,,0,0,0,,{\pos(328.286,260.857)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Hiyashi Chuuka
+Dialogue: 0,0:00:22.13,0:00:23.67,Sharp Blocky,,0,0,0,,{\pos(321.287,170)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Third round:
+Dialogue: 0,0:00:22.13,0:00:23.67,Sharp Blocky,,0,0,0,,{\pos(319.714,265.143)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Mild Seven
+Dialogue: 0,0:00:21.82,0:00:24.48,Default,,0,0,0,,In the past, they tried it with "Ice Coffee", "Hiyashi-Chuuka"
+Dialogue: 0,0:00:23.67,0:00:25.17,Sharp Blocky,,0,0,0,,{\pos(320,159)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Round 4:
+Dialogue: 0,0:00:23.67,0:00:25.17,Sharp Blocky,,0,0,0,,{\pos(319,268.428)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Cutlet Curry
+Dialogue: 0,0:00:25.17,0:00:26.67,Sharp Blocky,,0,0,0,,{\pos(320,160)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Round 5:
+Dialogue: 0,0:00:25.17,0:00:26.67,Sharp Blocky,,0,0,0,,{\pos(316.999,264)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Char Siu Men
+Dialogue: 0,0:00:24.48,0:00:26.77,Default,,0,0,0,,And several other words
+Dialogue: 0,0:00:26.67,0:00:30.18,Sharp Blocky,,0,0,0,,{\pos(323.001,165)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Round 6:
+Dialogue: 0,0:00:26.67,0:00:30.18,Sharp Blocky,,0,0,0,,{\pos(322.572,270.857)}{\c&H1B2EBD&\3c&HFFFFFF&\blur2\}Napolitan
+Dialogue: 0,0:00:26.77,0:00:30.18,Default,,0,0,0,,Last time, Matsumoto ordered a "Napolitan" by saying "Tamori-san"
+Dialogue: 0,0:00:30.37,0:00:31.45,Default,,0,0,0,,Here's the result
+Dialogue: 0,0:00:30.41,0:00:32.71,Default Black,,0,0,0,,{\pos(439,195)\fscx93\fscy77}An egg & veggies sandwich
+Dialogue: 0,0:00:31.54,0:00:32.71,Default Black,,0,0,0,,{\fscx93\fscy77\pos(438,226.428)}is that what you ordered?
+Dialogue: 0,0:00:32.71,0:00:35.48,Matsumoto,,0,0,0,,Excuse me, I'd like to order a...
+Dialogue: 0,0:00:35.48,0:00:36.85,Matsumoto,,0,0,0,,Tamori-san
+Dialogue: 0,0:00:39.77,0:00:41.42,Matsumoto,,0,0,0,,Ma'am
+Dialogue: 0,0:00:41.42,0:00:43.45,Matsumoto,,0,0,0,,Is my Tamori-san on its way?
+Dialogue: 0,0:00:46.77,0:00:49.37,Default Black,,0,0,0,,There's a Napolitan coming up...
+Dialogue: 0,0:00:50.40,0:00:51.76,Matsumoto,,0,0,0,,{\fscx169\fscy137}Huh!?
+Dialogue: 0,0:00:54.31,0:00:56.25,Default Black,,0,0,0,,We are making a Napolitan, you hear me?
+Dialogue: 0,0:00:56.25,0:00:58.42,Matsumoto,,0,0,0,,You got that?
+Dialogue: 0,0:00:57.14,0:00:58.42,Default Black,,0,0,0,,Yes
+Dialogue: 0,0:00:58.88,0:01:01.37,Matsumoto,,0,0,0,,My spaghetti Tamori-san
+Dialogue: 0,0:01:05.45,0:01:07.20,Hamada,,0,0,0,,What the hell?
+Dialogue: 0,0:01:07.68,0:01:10.00,Hamada,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:01:10.58,0:01:11.35,Matsumoto,,0,0,0,,{\pos(327,395)\fscx207\fscy148}Do you {\alpha&HFF&}like omurice?!
+Dialogue: 0,0:01:11.35,0:01:13.75,Matsumoto,,0,0,0,,{\pos(327,395)\fscx207\fscy148}Do you like omurice?!
+Dialogue: 0,0:01:13.14,0:01:15.68,Hamada,,0,0,0,,So noisy...
+Dialogue: 0,0:01:14.31,0:01:15.68,Tanaka,,0,0,0,,You startled me
+Dialogue: 0,0:01:15.68,0:01:17.68,Matsumoto,,0,0,0,,Do you like it?
+Dialogue: 0,0:01:17.68,0:01:19.71,Hamada,,0,0,0,,Yeah I guess so
+Dialogue: 0,0:01:17.09,0:01:20.93,Default,,0,0,0,,{\fscx136\fscy110\pos(319,408)\c&H57BDFF&\3c&H002480&\4c&H002480&}Omurice
+Dialogue: 0,0:01:19.71,0:01:21.97,Matsumoto,,0,0,0,,Is that so? Today we're doing it
+Dialogue: 0,0:01:22.88,0:01:23.97,Matsumoto,,0,0,0,,That's what we'll do
+Dialogue: 0,0:01:23.97,0:01:26.34,Matsumoto,,0,0,0,,But I changed the rules a bit
+Dialogue: 0,0:01:25.82,0:01:26.34,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:01:26.34,0:01:29.37,Matsumoto,,0,0,0,,We have some phrases in the box, you just take one
+Dialogue: 0,0:01:27.17,0:01:32.67,Default,,0,0,0,,{\fade(500,0)\pos(316.999,377)\fscx113\fscy93}Order your omurice with the phrase you took
+Dialogue: 0,0:01:27.17,0:01:32.67,Default,,0,0,0,,{\fade(500,0)\fscx113\fscy88\pos(320.714,427)}from inside the box: {\c&H27B72A&}if you win, you'll get a prize
+Dialogue: 0,0:01:29.37,0:01:32.77,Matsumoto,,0,0,0,,And we go with that, but the prize money...
+Dialogue: 0,0:01:33.68,0:01:34.71,Matsumoto,,0,0,0,,It's up to Suga
+Dialogue: 0,0:01:27.17,0:01:36.91,Matsumoto,,0,0,0,,{\fade(500,0)}{\pos(316.999,297)\fscx144\fscy120\c&H190BA3&}Rules
+Dialogue: 0,0:01:27.17,0:01:36.91,Default,,0,0,0,,{\fade(500,0)\fscx1103\fscy1021}{\p1\c&H62C1F6&\1a&H45&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:01:32.67,0:01:36.91,Default,,0,0,0,,{\pos(316.001,400)\fscx105\fscy95}Producer Suga sets the prize money for each phrase
+Dialogue: 0,0:01:33.97,0:01:36.91,Default,,0,0,0,,{\fade(300,0)}{\pos(492.001,247)}Producer
+Dialogue: 0,0:01:33.97,0:01:36.91,Default,,0,0,0,,{\fade(300,0)}{\pos(506,281)}Suga Kenji
+Dialogue: 0,0:01:34.71,0:01:37.00,Hamada,,0,0,0,,I see, it depends on how hard it is
+Dialogue: 0,0:01:36.11,0:01:37.00,Matsumoto,,0,0,0,,Exactly
+Dialogue: 0,0:01:37.00,0:01:39.08,Matsumoto,,0,0,0,,If you think that you just
+Dialogue: 0,0:01:39.08,0:01:40.80,Matsumoto,,0,0,0,,Can't do it with that price
+Dialogue: 0,0:01:40.80,0:01:42.48,Matsumoto,,0,0,0,,Someone else can do it for you
+Dialogue: 0,0:01:41.31,0:01:42.48,Hamada,,0,0,0,,Oh, I see
+Dialogue: 0,0:01:42.48,0:01:44.48,Tanaka,,0,0,0,,We can negotiate
+Dialogue: 0,0:01:43.05,0:01:44.48,Matsumoto,,0,0,0,,That's right
+Dialogue: 0,0:01:44.48,0:01:45.68,Matsumoto,,0,0,0,,Negotiations are ok
+Dialogue: 0,0:01:46.02,0:01:49.82,Smogo,,0,0,0,,{\fade(350,0)\pos(104,330)\c&H00C4AC&}And now
+Dialogue: 0,0:01:46.02,0:01:49.82,Smogo,,0,0,0,,{\fade(350,0)\pos(316.999,393)\c&H00C4AC&}Matsumoto will reveal this round's phrases
+Dialogue: 0,0:01:49.88,0:01:52.00,Matsumoto,,0,0,0,,Here's our first one
+Dialogue: 0,0:01:52.25,0:01:53.85,Matsumoto,,0,0,0,,Oomori raisu
+Dialogue: 0,0:01:53.85,0:01:55.42,Matsumoto,,0,0,0,,"Oomori raisu"
+Dialogue: 0,0:01:55.77,0:01:57.17,Matsumoto,,0,0,0,,This one is going to work
+Dialogue: 0,0:01:57.17,0:01:59.17,Yamasaki,,0,0,0,,You think so?
+Dialogue: 0,0:01:57.80,0:01:59.17,Matsumoto,,0,0,0,,No doubts about it
+Dialogue: 0,0:01:59.17,0:01:59.97,Tanaka,,0,0,0,,I think so too
+Dialogue: 0,0:01:59.97,0:02:02.60,Matsumoto,,0,0,0,,It clearly says "rice" too
+Dialogue: 0,0:02:01.28,0:02:02.60,Endo,,0,0,0,,Right
+Dialogue: 0,0:02:04.70,0:02:04.94,Default,,0,0,0,,{\pos(267.001,348)}I think {\alpha&HFF&}3000 yen at best
+Dialogue: 0,0:02:02.60,0:02:05.05,Yamasaki,,0,0,0,,But how much is this worth, Suga-san?
+Dialogue: 0,0:02:05.82,0:02:06.94,Yamasaki,,0,0,0,,3000 yen?!
+Dialogue: 0,0:02:04.94,0:02:07.61,Default,,0,0,0,,{\pos(267.001,348)}I think 3000 yen at best
+Dialogue: 0,0:02:06.94,0:02:08.94,Matsumoto,,0,0,0,,Yeah but isn't it good
+Dialogue: 0,0:01:51.76,0:02:10.71,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx700\fscy416\pos(215.714,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:01:51.76,0:02:10.71,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\fscx119\fscy104\pos(214.857,436)}Difficulty lv.1: {\c&H000000&}Oomori raisu
+Dialogue: 0,0:01:51.76,0:02:10.71,Default,,0,0,0,,{\fscx107\fscy90\pos(217.143,401.428)}(Large rice serving)
+Dialogue: 0,0:02:08.94,0:02:10.94,Matsumoto,,0,0,0,,To get 3000 yen out of this?
+Dialogue: 0,0:02:10.94,0:02:12.94,Matsumoto,,0,0,0,,Next one
+Dialogue: 0,0:02:12.94,0:02:14.94,Yamasaki,,0,0,0,,"Omoronai ssu"
+Dialogue: 0,0:02:15.42,0:02:16.94,Hamada,,0,0,0,,Say it, dude
+Dialogue: 0,0:02:18.57,0:02:20.48,Matsumoto,,0,0,0,,This one, you see...
+Dialogue: 0,0:02:21.00,0:02:22.05,Hamada,,0,0,0,,"Omoronaissu", mhh
+Dialogue: 0,0:02:22.05,0:02:23.80,Hamada,,0,0,0,,It depends on how you say it
+Dialogue: 0,0:02:23.80,0:02:24.48,Hamada,,0,0,0,,"Omoronaissu"
+Dialogue: 0,0:02:24.48,0:02:25.91,Endo,,0,0,0,,"Omoronaissu"... yeah
+Dialogue: 0,0:02:25.79,0:02:27.46,Default,,0,0,0,,{\pos(300.999,347)}I think this one {\alpha&HFF&}is around 4000 yen
+Dialogue: 0,0:02:27.46,0:02:30.13,Default,,0,0,0,,{\pos(300.999,347)}I think this one is around 4000 yen
+Dialogue: 0,0:02:29.34,0:02:31.42,Matsumoto,,0,0,0,,4000 yen, I see
+Dialogue: 0,0:02:29.97,0:02:31.42,Tanaka,,0,0,0,,Seems fair
+Dialogue: 0,0:02:32.31,0:02:35.00,Yamasaki,,0,0,0,,Stingy prices, huh?
+Dialogue: 0,0:02:33.45,0:02:35.00,Matsumoto,,0,0,0,,Stingy indeed
+Dialogue: 0,0:02:36.43,0:02:37.27,Matsumoto,,0,0,0,,{\pos(320,348)}So it's real, {\alpha&HFF&}the bubble did burst
+Dialogue: 0,0:02:37.27,0:02:37.67,Matsumoto,,0,0,0,,{\pos(320,348)}So it's real, the bubble {\alpha&HFF&}did burst
+Dialogue: 0,0:02:37.67,0:02:40.51,Matsumoto,,0,0,0,,{\pos(320,348)}So it's real, the bubble {\i1}did{\i0} burst
+Dialogue: 0,0:02:39.20,0:02:40.97,Yamasaki,,0,0,0,,It surely feels that way
+Dialogue: 0,0:02:13.01,0:02:41.77,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx773\fscy416\pos(237.143,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:02:13.01,0:02:41.77,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(242,436)}Difficulty lv2: {\c&H000000&}"Omoranai ssu"
+Dialogue: 0,0:02:13.01,0:02:41.77,Default,,0,0,0,,{\fscx107\fscy90\pos(217.143,401.428)}(You're not funny)
+Dialogue: 0,0:02:40.97,0:02:42.71,Hamada,,0,0,0,,Next one
+Dialogue: 0,0:02:42.71,0:02:44.11,Matsumoto,,0,0,0,,"Komura aisu"
+Dialogue: 0,0:02:44.60,0:02:47.34,Matsumoto,,0,0,0,,This is the "food vs food" one
+Dialogue: 0,0:02:47.34,0:02:49.45,Matsumoto,,0,0,0,,The one when they say "alright, got it"
+Dialogue: 0,0:02:49.45,0:02:52.82,Matsumoto,,0,0,0,,But you don't know which one they'll bring
+Dialogue: 0,0:02:51.85,0:02:52.82,Tanaka,,0,0,0,,Yeah, those
+Dialogue: 0,0:02:42.71,0:02:53.85,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx700\fscy416\pos(215.714,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:02:42.71,0:02:53.85,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(212.001,436)}Difficulty lv3: {\c&H000000&}Komura Ice
+Dialogue: 0,0:02:52.82,0:02:54.02,Matsumoto,,0,0,0,,This happened before
+Dialogue: 0,0:02:54.02,0:02:55.37,Matsumoto,,0,0,0,,Next one
+Dialogue: 0,0:02:55.37,0:02:57.37,Matsumoto,,0,0,0,,"Homuresu"
+Dialogue: 0,0:02:59.02,0:03:00.08,Hamada,,0,0,0,,It's homu-raisu...
+Dialogue: 0,0:03:00.08,0:03:01.88,Matsumoto,,0,0,0,,"Homeless"
+Dialogue: 0,0:03:02.48,0:03:03.31,Tanaka,,0,0,0,,This one's harsh
+Dialogue: 0,0:02:55.39,0:03:04.76,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx667\fscy416\pos(210,441.428)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:02:55.39,0:03:04.76,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(212.001,436)}Difficulty lv4: {\c&H000000&}Homeless
+Dialogue: 0,0:03:03.31,0:03:05.31,Matsumoto,,0,0,0,,Is this harsh?
+Dialogue: 0,0:03:05.31,0:03:07.08,Matsumoto,,0,0,0,,Next
+Dialogue: 0,0:03:07.08,0:03:09.20,Matsumoto,,0,0,0,,"Homo Sapiens"
+Dialogue: 0,0:03:10.54,0:03:11.62,Matsumoto,,0,0,0,,From this point
+Dialogue: 0,0:03:11.62,0:03:13.62,Matsumoto,,0,0,0,,It gets really difficult
+Dialogue: 0,0:03:07.00,0:03:15.87,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx810\fscy412\pos(244.286,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:03:07.00,0:03:15.87,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(248,436)}Difficulty lv5: {\c&H000000&}Homo Sapiens
+Dialogue: 0,0:03:13.62,0:03:16.00,Yamasaki,,0,0,0,,It is hard, we can see that
+Dialogue: 0,0:03:16.05,0:03:17.54,Matsumoto,,0,0,0,,Next
+Dialogue: 0,0:03:18.22,0:03:19.54,Matsumoto,,0,0,0,,"Tabenaissu"
+Dialogue: 0,0:03:19.88,0:03:20.91,Endo,,0,0,0,,Not eating?
+Dialogue: 0,0:03:20.91,0:03:22.31,Matsumoto,,0,0,0,,This is dangerous
+Dialogue: 0,0:03:22.31,0:03:23.40,Yamasaki,,0,0,0,,It's risky
+Dialogue: 0,0:03:23.40,0:03:25.51,Hamada,,0,0,0,,You'd get skipped
+Dialogue: 0,0:03:25.51,0:03:28.05,Matsumoto,,0,0,0,,They could say "ok, ok"
+Dialogue: 0,0:03:26.34,0:03:28.05,Hamada,,0,0,0,,Yeah, they'll skip your order
+Dialogue: 0,0:03:17.78,0:03:30.06,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx700\fscy416\pos(215.714,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:03:17.78,0:03:30.06,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(212.001,436)}Difficulty lv.6: {\c&H000000&}"Tabenaissu"
+Dialogue: 0,0:03:17.78,0:03:30.06,Default,,0,0,0,,{\fscx107\fscy90\pos(217.143,401.428)}(I'm not eatin')
+Dialogue: 0,0:03:28.05,0:03:30.20,Matsumoto,,0,0,0,,But it depends
+Dialogue: 0,0:03:30.20,0:03:32.20,Matsumoto,,0,0,0,,Alright, next one
+Dialogue: 0,0:03:32.48,0:03:35.34,Matsumoto,,0,0,0,,"Can you please make me a modified chicken rice?"
+Dialogue: 0,0:03:36.60,0:03:38.22,Endo,,0,0,0,,I think this is going to work
+Dialogue: 0,0:03:38.22,0:03:39.51,Yamasaki,,0,0,0,,This one's good
+Dialogue: 0,0:03:39.51,0:03:40.48,Tanaka,,0,0,0,,You think so?
+Dialogue: 0,0:03:40.48,0:03:41.94,Yamasaki,,0,0,0,,I think they'll get it to you
+Dialogue: 0,0:03:41.94,0:03:43.97,Matsumoto,,0,0,0,,Yeah but how are they "modifying" it?
+Dialogue: 0,0:03:43.25,0:03:43.97,Tanaka,,0,0,0,,That's the issue
+Dialogue: 0,0:03:43.97,0:03:45.14,Endo,,0,0,0,,There's only one way
+Dialogue: 0,0:03:46.20,0:03:47.94,Matsumoto,,0,0,0,,Don't you think it's gonna be it?
+Dialogue: 0,0:03:48.68,0:03:50.62,Yamasaki,,0,0,0,,But they could just add ketchup
+Dialogue: 0,0:03:51.11,0:03:52.65,Endo,,0,0,0,,Oh, that too...
+Dialogue: 0,0:03:51.54,0:03:52.65,Yamasaki,,0,0,0,,Or make it larger
+Dialogue: 0,0:03:52.65,0:03:55.22,Hamada,,0,0,0,,This could go well or not, it's a gamble
+Dialogue: 0,0:03:32.26,0:03:55.48,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\pos(267.143,442.857)\fscx908\fscy806}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:03:32.26,0:03:55.48,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(131.188,413.857)}Difficulty lv. 7
+Dialogue: 0,0:03:32.26,0:03:55.48,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\fscx112\fscy90\pos(350.333,423.428)}{\c&H000000&}Can you please make me\N a modified chicken rice?
+Dialogue: 0,0:03:55.71,0:03:57.34,Matsumoto,,0,0,0,,Next one
+Dialogue: 0,0:03:58.02,0:03:59.28,Matsumoto,,0,0,0,,"〇〇 raisu"
+Dialogue: 0,0:03:59.28,0:04:00.17,Hamada,,0,0,0,,What?
+Dialogue: 0,0:04:00.17,0:04:02.00,Matsumoto,,0,0,0,,This is a bet too
+Dialogue: 0,0:04:02.00,0:04:03.74,Matsumoto,,0,0,0,,It's an ad-lib for the waiter
+Dialogue: 0,0:04:03.74,0:04:06.11,Matsumoto,,0,0,0,,You just say it and see if an omuraisu will come
+Dialogue: 0,0:04:04.68,0:04:06.11,Hamada,,0,0,0,,Ah, I see
+Dialogue: 0,0:04:06.42,0:04:08.05,Tanaka,,0,0,0,,It's like a quiz, I see
+Dialogue: 0,0:04:08.05,0:04:09.65,Matsumoto,,0,0,0,,Yeah, a kind of quiz
+Dialogue: 0,0:04:09.65,0:04:10.91,Matsumoto,,0,0,0,,A playful one
+Dialogue: 0,0:03:57.48,0:04:14.07,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx656\fscy417\pos(205.715,445.713)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:03:57.48,0:04:14.07,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(203.001,436)\fscx114\fscy100}Difficulty lv.8: {\c&H000000&}〇〇rice
+Dialogue: 0,0:04:11.03,0:04:14.07,Yamasaki,,0,0,0,,{\pos(210,346)\clip(60,292,84,360)\t(0,988,\clip(60,293,365,370))}This is not good at all...
+Dialogue: 0,0:04:13.40,0:04:14.68,Matsumoto,,0,0,0,,Next
+Dialogue: 0,0:04:14.88,0:04:16.71,Matsumoto,,0,0,0,,"Ann Lewis"
+Dialogue: 0,0:04:18.11,0:04:20.74,Matsumoto,,0,0,0,,I think it's better than this one
+Dialogue: 0,0:04:19.68,0:04:20.74,Yamasaki,,0,0,0,,It's doable
+Dialogue: 0,0:04:14.87,0:04:22.97,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx718\fscy414\pos(218.572,442.857)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:04:14.87,0:04:22.97,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(228.001,436)}Difficulty lv.9: {\c&H000000&}Ann Lewis
+Dialogue: 0,0:04:20.74,0:04:23.17,Matsumoto,,0,0,0,,I think it'll come
+Dialogue: 0,0:04:21.48,0:04:23.17,Tanaka,,0,0,0,,I can see that
+Dialogue: 0,0:04:23.17,0:04:25.02,Matsumoto,,0,0,0,,Here's our last one
+Dialogue: 0,0:04:25.02,0:04:27.91,Matsumoto,,0,0,0,,This one is amazing
+Dialogue: 0,0:04:28.22,0:04:30.00,Matsumoto,,0,0,0,,"Samurai"
+Dialogue: 0,0:04:31.20,0:04:32.42,Hamada,,0,0,0,,Samurai...?
+Dialogue: 0,0:04:32.42,0:04:33.74,Endo,,0,0,0,,Is it really Samurai?
+Dialogue: 0,0:04:33.74,0:04:35.11,Endo,,0,0,0,,I mean, for omuraisu?
+Dialogue: 0,0:04:35.11,0:04:37.71,Matsumoto,,0,0,0,,Yes, Samurai, just one kanji
+Dialogue: 0,0:04:38.66,0:04:40.26,Yamasaki,,0,0,0,,{\pos(293.143,346)\clip(7,288,35,353)\t(0,1286,\clip(7,287,377,367))}I mean, if it was "SamuraiSU" {\alpha&HFF&}I could see that...
+Dialogue: 0,0:04:40.26,0:04:42.76,Yamasaki,,0,0,0,,{\pos(293.143,346)\clip(13,297,367,353)\t(0,453,\clip(7,288,578,367))}I mean, if it was "SamuraiSU" I could see that...
+Dialogue: 0,0:04:41.97,0:04:43.11,Yamasaki,,0,0,0,,Right?
+Dialogue: 0,0:04:43.90,0:04:46.56,Hamada,,0,0,0,,{\pos(411.001,350)}That's unacceptable
+Dialogue: 0,0:04:45.34,0:04:47.34,Endo,,0,0,0,,We're going with just one kanji
+Dialogue: 0,0:04:46.14,0:04:47.34,Matsumoto,,0,0,0,,This is more suitable
+Dialogue: 0,0:04:47.34,0:04:48.51,Matsumoto,,0,0,0,,We're sticking to this
+Dialogue: 0,0:04:48.51,0:04:51.17,Hamada,,0,0,0,,Suitable? It's just "samurai"
+Dialogue: 0,0:04:28.21,0:04:52.37,Default,,0,0,0,,{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\fscx436\fscy410\pos(152.858,441.428)}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:04:28.21,0:04:52.37,Matsumoto,,0,0,0,,{\c&H002DB5&\4c&H000000&\4a&HFF&\pos(154,434)}Final lv.: {\c&H000000&}Samurai
+Dialogue: 0,0:04:51.17,0:04:52.71,Hamada,,0,0,0,,What is he talking about
+Dialogue: 0,0:04:52.71,0:04:57.45,Hamada,,0,0,0,,And you're not one to talk, you said "Ouyang Ice Coffee" to order an ice coffee before
+Dialogue: 0,0:04:57.45,0:04:59.45,Tanaka,,0,0,0,,That one was horrible
+Dialogue: 0,0:04:58.40,0:04:59.45,Hamada,,0,0,0,,It was
+Dialogue: 0,0:04:59.38,0:04:59.58,Sharp Blocky,,0,0,0,,{\c&H0D098F&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\fscx70\fscy69\move(758.857,200.572,194.572,202,19,185)}{\blur1}Challenging the limits of "ice coffee"
+Dialogue: 0,0:05:00.22,0:05:01.02,Matsumoto,,0,0,0,,Oh,
+Dialogue: 0,0:04:59.54,0:05:02.81,Sharp Blocky,,0,0,0,,{\c&H0D098F&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\fscx70\fscy69\move(190,202.857,321.429,204.287,0,159)}{\blur1}Challenging the limits of "ice coffee"
+Dialogue: 0,0:05:01.02,0:05:03.02,Matsumoto,,0,0,0,,I'll take one Ouyang Fifi
+Dialogue: 0,0:05:03.71,0:05:05.28,Matsumoto,,0,0,0,,Ouyang Ice Coffee
+Dialogue: 0,0:05:04.60,0:05:05.28,Default,,0,0,0,,Ice--
+Dialogue: 0,0:05:06.05,0:05:08.60,Default,,0,0,0,,Ice coffee, right?
+Dialogue: 0,0:05:07.31,0:05:08.60,Hamada,,0,0,0,,You clearly said it
+Dialogue: 0,0:05:09.17,0:05:13.74,Matsumoto,,0,0,0,,I think in some cafès they now have Ouyang Ice Coffee on their menu
+Dialogue: 0,0:05:11.82,0:05:13.74,Hamada,,0,0,0,,As if they do!
+Dialogue: 0,0:05:14.43,0:05:15.17,Matsumoto,,0,0,0,,{\pos(314,392)}Such an orthodox {\alpha&HFF&}boke-tsukkomi exchange
+Dialogue: 0,0:05:15.17,0:05:17.50,Matsumoto,,0,0,0,,{\pos(314,392)}Such an orthodox boke-tsukkomi exchange
+Dialogue: 0,0:05:18.65,0:05:20.48,Default,,0,0,0,,They're going to take
+Dialogue: 0,0:05:20.48,0:05:22.60,Default,,0,0,0,,The first phrase from the box
+Dialogue: 0,0:05:22.60,0:05:24.65,Default,,0,0,0,,Which one will it be?
+Dialogue: 0,0:05:18.33,0:05:24.67,Smogo,,0,0,0,,{\fade(350,350)\c&H00C4AC&\pos(316.001,342)}They'll now decide the first
+Dialogue: 0,0:05:18.33,0:05:24.67,Smogo,,0,0,0,,{\fade(350,350)\pos(316.999,393)\c&H00C4AC&}phrase for the challenge
+Dialogue: 0,0:05:25.88,0:05:28.11,Hamada,,0,0,0,,Which is it?
+Dialogue: 0,0:05:26.54,0:05:28.11,Endo,,0,0,0,,Woah, I got a big one
+Dialogue: 0,0:05:28.11,0:05:30.45,Matsumoto,,0,0,0,,Which is it?
+Dialogue: 0,0:05:28.60,0:05:30.45,Endo,,0,0,0,,Let me reveal it
+Dialogue: 0,0:05:30.45,0:05:32.45,Endo,,0,0,0,,"Homo Sapiens"
+Dialogue: 0,0:05:33.74,0:05:35.14,Tanaka,,0,0,0,,This is a tough one
+Dialogue: 0,0:05:35.14,0:05:36.77,Matsumoto,,0,0,0,,How about this one, Suga?
+Dialogue: 0,0:05:36.77,0:05:38.88,Default,,0,0,0,,"Homo sapiens"? Well, we started from 3000 yen
+Dialogue: 0,0:05:38.88,0:05:39.60,Matsumoto,,0,0,0,,Yes
+Dialogue: 0,0:05:31.34,0:05:40.69,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\move(802.857,378.857,322.857,387.428,24,191)}First phrase: {\c&H25CFC0&\3c&H000000&}"Homo Sapiens"
+Dialogue: 0,0:05:39.60,0:05:41.77,Default,,0,0,0,,I think it's worth 30.000 yen
+Dialogue: 0,0:05:42.08,0:05:43.68,Matsumoto,,0,0,0,,Nice, isn't it?
+Dialogue: 0,0:05:43.68,0:05:46.88,Matsumoto,,0,0,0,,We'll start from 30'000, it surely fits it
+Dialogue: 0,0:05:46.88,0:05:48.37,Matsumoto,,0,0,0,,This word does
+Dialogue: 0,0:05:47.28,0:05:48.37,Tanaka,,0,0,0,,I agree
+Dialogue: 0,0:05:48.37,0:05:51.94,Matsumoto,,0,0,0,,I mean, look at how many extra letters we got...
+Dialogue: 0,0:05:50.54,0:05:51.94,Default,,0,0,0,,It's pretty bad
+Dialogue: 0,0:05:40.69,0:05:52.83,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(320,386)}"Homo sapiens":{\c&H25CFC0&\3c&H000000&} 30.000 yen
+Dialogue: 0,0:05:51.94,0:05:53.17,Tanaka,,0,0,0,,You're right
+Dialogue: 0,0:05:53.17,0:05:55.74,Endo,,0,0,0,,I don't have much confidence with this...
+Dialogue: 0,0:05:55.74,0:05:56.40,Yamasaki,,0,0,0,,You think?
+Dialogue: 0,0:05:56.40,0:05:59.42,Tanaka,,0,0,0,,Yeah, I don't really want to do it either
+Dialogue: 0,0:05:59.42,0:06:00.20,Matsumoto,,0,0,0,,Me too
+Dialogue: 0,0:06:00.20,0:06:01.25,Yamasaki,,0,0,0,,That's a bad one
+Dialogue: 0,0:06:01.21,0:06:01.57,Endo,,0,0,0,,{\pos(313,393)}Then{\alpha&HFF&} we're counting on you, Hamada
+Dialogue: 0,0:06:01.57,0:06:04.08,Endo,,0,0,0,,{\pos(313,393)}Then we're counting on you, Hamada
+Dialogue: 0,0:06:02.62,0:06:04.08,Hamada,,0,0,0,,Me?!
+Dialogue: 0,0:06:04.77,0:06:05.94,Endo,,0,0,0,,Are you going to?
+Dialogue: 0,0:06:04.08,0:06:06.58,Hamada,,0,0,0,,{\pos(322,392)}Should I do it?
+Dialogue: 0,0:06:05.94,0:06:07.11,Matsumoto,,0,0,0,,Yeah, why not?
+Dialogue: 0,0:06:07.11,0:06:09.51,Hamada,,0,0,0,,Well, everyone else is sayin' "I can't, I can't"
+Dialogue: 0,0:06:09.51,0:06:11.91,Yamasaki,,0,0,0,,That's right
+Dialogue: 0,0:06:09.91,0:06:11.91,Hamada,,0,0,0,,So I feel like I have to
+Dialogue: 0,0:06:11.91,0:06:12.91,Endo,,0,0,0,,That's so manly of you
+Dialogue: 0,0:06:12.91,0:06:13.74,Hamada,,0,0,0,,Yeah, right?
+Dialogue: 0,0:06:13.74,0:06:16.42,Matsumoto,,0,0,0,,Sometimes he's assaulted by **** old ladies
+Dialogue: 0,0:06:16.77,0:06:19.25,Matsumoto,,0,0,0,,I swear, it's true
+Dialogue: 0,0:06:20.77,0:06:24.88,Matsumoto,,0,0,0,,He's a rice bowl topped with unknown objects
+Dialogue: 0,0:06:25.43,0:06:31.67,Newtofupandatitle,,0,0,0,,{\fade(400,400)\fscx63.111\fscy82\pos(315.146,103.8)}{\pos(438.75,85.555)}Tofu Panda Fansubs Presents:
+Dialogue: 0,0:06:27.17,0:06:31.67,Newtofupandatitle,,0,0,0,,{\fade(400,400)\pos(319.243,425.388)\fscx61\fscy99}{\c&H65CDFD&\3c&H1D0B90&\pos(437.812,131.39)}Down Town's Gaki no tsukai ya arahende!!
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx104\fscy96\pos(121.454,450.73)}{\pos(240.002,430.222)}Translator:
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx104\fscy96\pos(121.918,398.403)}{\\pos(490.312,431.443)}Typesetter:
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx104\fscy96\pos(345.778,449.668)}{\pos(238.75,487.258)}Shion
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx104\fscy96\pos(349.864,400.553)}{\pos(489.062,488.073)} {\pos(426.25,485.628)}Otviss
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\pos(323.125,74.448)\fscx62\fscy82}{\pos(448.124,98.695)}**We also have facebook and twitter.**
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\pos(317.497,326.4)\fscx79.111\fscy98}{\pos(448.124,98.695)\b0}______________________________________________________{\b1}
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\fscx78.222\fscy102\pos(321.788,131.2)}{\pos(448.124,98.695)\b0}______________________________________________________{\b1}
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\fscx82.667\fscy84\pos(320.643,302.973)}{\pos(448.124,98.695)\b0}To see progress of each episode we're working on, please visit {\b1}Tofupandas.tumblr.com/subs{\b0}. There you can find both streaming and download links for subbed episodes!  Be sure to also visit shion's site at {\b1}shionnotsukai.wordpress.com!{\b0}
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\pos(322.857,38.31)\fscx107.556\fscy94}{\pos(448.124,98.695)}**Tofupandas.tumblr.com**
+Dialogue: 0,0:06:32.07,0:06:37.14,Yellow text,,0,0,0,,{\fade(400,0)\pos(322.475,107.753)\fscx55\fscy71}{\pos(448.126,141.472)}*Support us by following the latest news and info on upcoming projects!*
+Dialogue: 0,0:06:37.60,0:06:39.57,Matsumoto,,0,0,0,,So, Hamada-san
+Dialogue: 0,0:06:38.51,0:06:39.58,Hamada,,0,0,0,,Yes?
+Dialogue: 0,0:06:40.45,0:06:42.28,Matsumoto,,0,0,0,,Let's be honest
+Dialogue: 0,0:06:42.28,0:06:43.68,Matsumoto,,0,0,0,,You're the first one
+Dialogue: 0,0:06:39.18,0:06:45.18,Default,,0,0,0,,{\fade(320,300)\fscx1068\fscy976\pos(318.573,440)}{\p1\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\pos(215.714,442.857)\c&HC54428&\1a&H34&}m 0 0 l 48 0 l 48 10 l 0 10
+Dialogue: 0,0:06:39.18,0:06:45.18,Default,,0,0,0,,{\fade(320,300)\pos(324.001,379)\fscx108\fscy86}First, they disguise so they won't be recognized
+Dialogue: 0,0:06:39.18,0:06:45.18,Default,,0,0,0,,{\fade(320,300)\fscx114\fscy86\pos(321,419.572)}And now, they all move to their first shop
+Dialogue: 0,0:06:43.68,0:06:46.11,Matsumoto,,0,0,0,,So you have to get it right
+Dialogue: 0,0:06:46.11,0:06:49.62,Matsumoto,,0,0,0,,We don't know if things are going to get worst later
+Dialogue: 0,0:06:49.62,0:06:51.71,Hamada,,0,0,0,,You think you could do it?
+Dialogue: 0,0:06:51.71,0:06:53.34,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:06:52.05,0:06:53.34,Hamada,,0,0,0,,Getting this right
+Dialogue: 0,0:06:53.34,0:06:56.34,Matsumoto,,0,0,0,,I think I can, if it's me, I did that
+Dialogue: 0,0:06:56.34,0:06:57.62,Hamada,,0,0,0,,What?
+Dialogue: 0,0:06:57.62,0:06:59.11,Hamada,,0,0,0,,Why the past tense?
+Dialogue: 0,0:06:59.48,0:07:03.25,Default,,0,0,0,,Will they get their omuraisu by saying Homo Sapiens?
+Dialogue: 0,0:06:59.20,0:07:05.17,Default,,0,0,0,,{\fade(320,0)\pos(280,329.428)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}Will they be able to get omuraisu
+Dialogue: 0,0:06:59.20,0:07:05.17,Default,,0,0,0,,{\fade(320,0)\pos(304,379.572)\fscx120\fscy100}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}by saying "homo sapiens" instead!?
+Dialogue: 0,0:07:03.25,0:07:05.17,Default,,0,0,0,,Hamada's challenge begins!
+Dialogue: 0,0:07:05.77,0:07:07.51,Matsumoto,,0,0,0,,Excuse me
+Dialogue: 0,0:07:09.62,0:07:11.25,Hamada,,0,0,0,,Can we order?
+Dialogue: 0,0:07:10.45,0:07:11.25,Default,,0,0,0,,Sure
+Dialogue: 0,0:07:11.48,0:07:13.51,Matsumoto,,0,0,0,,I think {\alpha&HFF&}{\fscx175.111\fscy138}omuraisu {\fscx120.889\fscy100}is not what I'm getting
+Dialogue: 0,0:07:13.51,0:07:14.78,Matsumoto,,0,0,0,,I think {\fscx175.111\fscy138}omuraisu {\alpha&HFF&}{\fscx120.889\fscy100}is not what I'm getting
+Dialogue: 0,0:07:14.78,0:07:17.12,Matsumoto,,0,0,0,,I think {\fscx175.111\fscy138}omuraisu{\fscx120.889\fscy100} is not what I'm getting
+Dialogue: 0,0:07:17.12,0:07:21.49,Default,,0,0,0,,{\pos(332.999,394)}For some reason, Matsumoto says "omuraisu"
+Dialogue: 0,0:07:19.05,0:07:21.49,Default,,0,0,0,,{\pos(342,177)\fscx134.222\fscy113}Laughing Yamazaki
+Dialogue: 0,0:07:24.52,0:07:27.09,Matsumoto,,0,0,0,,Is there hayashi-rice in the menu?
+Dialogue: 0,0:07:27.09,0:07:28.83,Default,,0,0,0,,{\pos(151,239)\fscx134.222\fscy117}There is
+Dialogue: 0,0:07:28.83,0:07:31.13,Matsumoto,,0,0,0,,Then I'll take it
+Dialogue: 0,0:07:31.40,0:07:33.80,Yamasaki,,0,0,0,,Do you serve drinks as well?
+Dialogue: 0,0:07:32.40,0:07:33.80,Default,,0,0,0,,We do
+Dialogue: 0,0:07:33.97,0:07:35.53,Yamasaki,,0,0,0,,Then I'll have an ice tea
+Dialogue: 0,0:07:35.53,0:07:37.74,Endo,,0,0,0,,I'll have an ice coffee
+Dialogue: 0,0:07:37.74,0:07:40.61,Tanaka,,0,0,0,,I'll get that too
+Dialogue: 0,0:07:41.11,0:07:43.91,Hamada,,0,0,0,,{\pos(322,402)}You're not gonna eat?
+Dialogue: 0,0:07:42.91,0:07:43.94,Matsumoto,,0,0,0,,We're good
+Dialogue: 0,0:07:43.91,0:07:46.28,Hamada,,0,0,0,,{\pos(321,401)}You're good with only drinks?
+Dialogue: 0,0:07:46.28,0:07:49.11,Hamada,,0,0,0,,{\fade(0,242)\pos(318,403)}Alright, I'll have...
+Dialogue: 0,0:07:53.91,0:07:55.71,Matsumoto,,0,0,0,,This is something
+Dialogue: 0,0:07:56.49,0:07:59.02,Hamada,,0,0,0,,{\pos(318,403)}Homo... {\alpha&HFF&}Homo Sapiens
+Dialogue: 0,0:07:59.02,0:08:01.86,Hamada,,0,0,0,,{\pos(318,403)}Homo... Homo Sapiens
+Dialogue: 0,0:08:00.59,0:08:02.29,Default,,0,0,0,,{\pos(193,268)\fscx143.111\fscy116}What?
+Dialogue: 0,0:08:05.60,0:08:07.37,Hamada,,0,0,0,,Let's see
+Dialogue: 0,0:08:11.17,0:08:14.17,Hamada,,0,0,0,,Homo Sapiens
+Dialogue: 0,0:08:15.71,0:08:19.18,Endo,,0,0,0,,{\pos(321,351)}Excuse me, can you please cancel my ice
+Dialogue: 0,0:08:16.61,0:08:19.18,Endo,,0,0,0,,{\pos(322,404)}coffee and make it an ice au lait?
+Dialogue: 0,0:08:19.18,0:08:20.78,Hamada,,0,0,0,,Alright, I'll have {\alpha&HFF&}Homo Sapiens
+Dialogue: 0,0:08:20.78,0:08:23.62,Hamada,,0,0,0,,Alright, I'll have Homo Sapiens
+Dialogue: 0,0:08:26.42,0:08:28.05,Matsumoto,,0,0,0,,You're not drinking anything?
+Dialogue: 0,0:08:28.22,0:08:29.95,Hamada,,0,0,0,,An ice au lait{\alpha&HFF&} and...
+Dialogue: 0,0:08:29.95,0:08:33.22,Hamada,,0,0,0,,An ice au lait and...
+Dialogue: 0,0:08:33.22,0:08:35.83,Hamada,,0,0,0,,Homo Sapiens
+Dialogue: 0,0:08:38.86,0:08:41.70,Hamada,,0,0,0,,{\pos(319,400)}Omuraisu
+Dialogue: 0,0:08:41.51,0:08:43.34,Hamada,,0,0,0,,Sorry
+Dialogue: 0,0:08:47.47,0:08:49.81,Hamada,,0,0,0,,{\pos(324.999,401)}Impossible
+Dialogue: 0,0:08:50.51,0:08:50.98,Endo,,0,0,0,,Well, {\alpha&HFF&}this was a complete failure
+Dialogue: 0,0:08:50.98,0:08:52.24,Endo,,0,0,0,,Well, this was a complete{\alpha&HFF&} failure
+Dialogue: 0,0:08:52.24,0:08:53.28,Endo,,0,0,0,,Well, this was a complete failure
+Dialogue: 0,0:08:53.74,0:08:54.62,Tanaka,,0,0,0,,Can't be helped
+Dialogue: 0,0:08:53.28,0:08:55.01,Endo,,0,0,0,,{\pos(324.999,400)}It was impossible
+Dialogue: 0,0:08:55.01,0:08:56.15,Hamada,,0,0,0,,{\pos(321,395)}He also said "omuraisu" before, {\alpha&HFF&}this idiot
+Dialogue: 0,0:08:56.15,0:08:57.08,Hamada,,0,0,0,,{\pos(321,395)}He also said "omuraisu" before, this idiot
+Dialogue: 0,0:08:57.08,0:08:58.62,Yamasaki,,0,0,0,,What was that about?
+Dialogue: 0,0:08:58.62,0:08:59.95,Matsumoto,,0,0,0,,I just couldn't help it
+Dialogue: 0,0:08:59.95,0:09:02.12,Matsumoto,,0,0,0,,By the time I saw it on the menu
+Dialogue: 0,0:09:02.12,0:09:04.25,Matsumoto,,0,0,0,,I thought "oh, they do have it"{\alpha&HFF&} and I just said it
+Dialogue: 0,0:09:04.26,0:09:06.76,Matsumoto,,0,0,0,,I thought "oh, they do have it" and I just said it
+Dialogue: 0,0:09:07.82,0:09:09.76,Matsumoto,,0,0,0,,Should have stayed quiet
+Dialogue: 0,0:09:09.93,0:09:10.93,Endo,,0,0,0,,That surprised me
+Dialogue: 0,0:09:10.93,0:09:13.46,Tanaka,,0,0,0,,{\pos(320,352)}Really, I was surprised too
+Dialogue: 0,0:09:11.66,0:09:13.46,Tanaka,,0,0,0,,{\pos(321,403)}I thought "what is he sayin'?"
+Dialogue: 0,0:09:17.70,0:09:20.54,Hamada,,0,0,0,,{\pos(322,397)}No way that could have worked
+Dialogue: 0,0:09:20.54,0:09:22.67,Hamada,,0,0,0,,{\pos(322,397)}How can "homo sapiens" do it, huh?
+Dialogue: 0,0:09:23.05,0:09:27.80,Matsumoto,,0,0,0,,I still think I could have pull it out
+Dialogue: 0,0:09:27.81,0:09:29.81,Hamada,,0,0,0,,{\pos(320,397)}Then please
+Dialogue: 0,0:09:29.80,0:09:31.48,Hamada,,0,0,0,,Can we please watch again
+Dialogue: 0,0:09:31.48,0:09:32.12,Hamada,,0,0,0,,Matsumoto's {\alpha&HFF&}failure before my order?
+Dialogue: 0,0:09:32.12,0:09:34.72,Hamada,,0,0,0,,Matsumoto's failure before my order?
+Dialogue: 0,0:09:35.82,0:09:37.89,Matsumoto,,0,0,0,,I think...
+Dialogue: 0,0:09:37.89,0:09:40.76,Matsumoto,,0,0,0,,OMURAISU
+Dialogue: 0,0:09:40.76,0:09:43.08,Matsumoto,,0,0,0,,is not what I'm getting
+Dialogue: 0,0:09:44.65,0:09:45.88,Endo,,0,0,0,,That was really bad
+Dialogue: 0,0:09:45.88,0:09:49.43,Hamada,,0,0,0,,Unforgivable
+Dialogue: 0,0:09:47.14,0:09:49.43,Endo,,0,0,0,,Really really bad
+Dialogue: 0,0:09:48.00,0:09:49.45,Tanaka,,0,0,0,,Unbelievable
+Dialogue: 0,0:09:49.45,0:09:51.40,Endo,,0,0,0,,I couldn't believe it
+Dialogue: 0,0:09:52.08,0:09:53.60,Hamada,,0,0,0,,I'm gonna do it
+Dialogue: 0,0:09:55.00,0:09:57.62,Endo,,0,0,0,,Round number two
+Dialogue: 0,0:09:55.54,0:09:57.62,Matsumoto,,0,0,0,,Don't forget about paying Suga back
+Dialogue: 0,0:09:57.62,0:10:00.00,Hamada,,0,0,0,,What the hell?
+Dialogue: 0,0:09:58.08,0:10:00.00,Default,,0,0,0,,I'll be waiting for thy sum
+Dialogue: 0,0:10:00.54,0:10:03.20,Matsumoto,,0,0,0,,"For {\i1}thy {\i0}sum"
+Dialogue: 0,0:10:04.28,0:10:05.54,Hamada,,0,0,0,,Ok, next one
+Dialogue: 0,0:10:05.54,0:10:07.34,Hamada,,0,0,0,,Ann Lewis
+Dialogue: 0,0:10:07.34,0:10:08.28,Tanaka,,0,0,0,,Here it is
+Dialogue: 0,0:10:08.28,0:10:10.74,Hamada,,0,0,0,,What should we do?
+Dialogue: 0,0:10:08.91,0:10:10.74,Matsumoto,,0,0,0,,This one...
+Dialogue: 0,0:10:10.74,0:10:12.85,Matsumoto,,0,0,0,,This one is really...
+Dialogue: 0,0:10:12.85,0:10:14.14,Yamasaki,,0,0,0,,I think we can do it
+Dialogue: 0,0:10:14.14,0:10:16.57,Hamada,,0,0,0,,First, let's ask Suga its value
+Dialogue: 0,0:10:05.78,0:10:17.73,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\move(802.857,378.857,322.857,387.428,24,191)}Next phrase: {\c&H25CFC0&\3c&H000000&}Ann Lewis
+Dialogue: 0,0:10:17.20,0:10:18.28,Default,,0,0,0,,60.000 yen
+Dialogue: 0,0:10:18.28,0:10:20.71,Tanaka,,0,0,0,,For real?
+Dialogue: 0,0:10:19.02,0:10:20.71,Hamada,,0,0,0,,Really?!
+Dialogue: 0,0:10:20.71,0:10:21.74,Default,,0,0,0,,Of course
+Dialogue: 0,0:10:21.74,0:10:23.71,Matsumoto,,0,0,0,,It's level 9 after all
+Dialogue: 0,0:10:17.73,0:10:25.07,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(320,386)}Ann Lewis: {\c&H25CFC0&\3c&H000000&}60.000 yen
+Dialogue: 0,0:10:23.71,0:10:25.71,Matsumoto,,0,0,0,,It's normal
+Dialogue: 0,0:10:25.91,0:10:30.71,Hamada,,0,0,0,,Homo Sapiens was way harder than this
+Dialogue: 0,0:10:29.05,0:10:30.71,Matsumoto,,0,0,0,,No way, man
+Dialogue: 0,0:10:30.71,0:10:31.88,Hamada,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:10:31.88,0:10:35.00,Matsumoto,,0,0,0,,It's 'cause you're stupid
+Dialogue: 0,0:10:35.00,0:10:38.35,Yamasaki,,0,0,0,,Who wants to try it? I guess everyone, right?
+Dialogue: 0,0:10:37.42,0:10:38.37,Tanaka,,0,0,0,,I want to
+Dialogue: 0,0:10:38.68,0:10:40.20,Tanaka,,0,0,0,,I want to try that
+Dialogue: 0,0:10:40.52,0:10:42.92,Hamada,,0,0,0,,{\pos(321,404)}You 3, play rock-paper-scissor to decide who's going
+Dialogue: 0,0:10:42.68,0:10:44.52,Matsumoto,,0,0,0,,Uh? "You{\i1} 3{\i0}"?
+Dialogue: 0,0:10:46.54,0:10:47.94,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:10:47.94,0:10:49.57,Hamada,,0,0,0,,It's fine like this
+Dialogue: 0,0:10:50.76,0:10:51.20,Yamasaki,,0,0,0,,{\pos(316.999,398)}After that {\alpha&HFF&}huge failure you just did
+Dialogue: 0,0:10:51.20,0:10:53.53,Yamasaki,,0,0,0,,{\pos(316.999,398)}After that huge failure you just did
+Dialogue: 0,0:10:52.82,0:10:54.82,Matsumoto,,0,0,0,,I didn't fail at all
+Dialogue: 0,0:10:57.27,0:10:57.74,Hamada,,0,0,0,,{\pos(319,396)}Alright, {\alpha&HFF&}let's see that again
+Dialogue: 0,0:10:54.82,0:10:57.88,Matsumoto,,0,0,0,,I didn't do anything like that
+Dialogue: 0,0:10:57.74,0:10:59.84,Hamada,,0,0,0,,{\pos(319,396)}Alright, let's see that again
+Dialogue: 0,0:10:58.82,0:11:00.17,Matsumoto,,0,0,0,,How many times?
+Dialogue: 0,0:11:00.17,0:11:01.94,Matsumoto,,0,0,0,,I think...
+Dialogue: 0,0:11:01.94,0:11:04.81,Matsumoto,,0,0,0,,OMURAISU
+Dialogue: 0,0:11:04.81,0:11:06.45,Matsumoto,,0,0,0,,Is not what I'm getting
+Dialogue: 0,0:11:08.08,0:11:10.11,Tanaka,,0,0,0,,That was absurd
+Dialogue: 0,0:11:10.11,0:11:11.82,Hamada,,0,0,0,,You three, go for it
+Dialogue: 0,0:11:11.97,0:11:14.17,Default,,0,0,0,,Ready and, rock-paper-scissors
+Dialogue: 0,0:11:14.17,0:11:16.17,Yamasaki,,0,0,0,,I did it!
+Dialogue: 0,0:11:16.91,0:11:19.08,Endo,,0,0,0,,He got Ann Lewis...
+Dialogue: 0,0:11:20.51,0:11:22.31,Default,,0,0,0,,Next challenger is Yamazaki
+Dialogue: 0,0:11:22.31,0:11:26.11,Default,,0,0,0,,Will he get an omuraisu by saying Ann Lewis?
+Dialogue: 0,0:11:20.43,0:11:26.86,Default,,0,0,0,,{\fade(320,0)\pos(280,329.428)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}Will Yamazaki get an omuraisu
+Dialogue: 0,0:11:20.43,0:11:26.86,Default,,0,0,0,,{\fade(320,0)\pos(304,379.572)\fscx120\fscy100}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}By saying Ann Lewis instead?!
+Dialogue: 0,0:11:27.31,0:11:29.77,Endo,,0,0,0,,Can we...?
+Dialogue: 0,0:11:28.17,0:11:29.77,Default,,0,0,0,,Sure, I'm coming
+Dialogue: 0,0:11:30.77,0:11:32.05,Default,,0,0,0,,Whenever you want
+Dialogue: 0,0:11:32.07,0:11:35.07,Endo,,0,0,0,,{\pos(321,400)}I'll have an ice coffee
+Dialogue: 0,0:11:33.47,0:11:35.07,Default,,0,0,0,,{\pos(416,310)}Sure
+Dialogue: 0,0:11:35.47,0:11:37.14,Tanaka,,0,0,0,,{\pos(320,403)}I'll have {\alpha&HFF&}udon, please
+Dialogue: 0,0:11:37.14,0:11:37.74,Tanaka,,0,0,0,,{\pos(320,403)}I'll have udon, {\alpha&HFF&}please
+Dialogue: 0,0:11:37.74,0:11:40.24,Tanaka,,0,0,0,,{\pos(320,403)}I'll have udon, please
+Dialogue: 0,0:11:38.04,0:11:40.24,Default,,0,0,0,,{\pos(435.001,322)}Udon, got it
+Dialogue: 0,0:11:41.75,0:11:42.11,Default,,0,0,0,,{\pos(444.999,325)}Cola, {\alpha&HFF&}sure
+Dialogue: 0,0:11:41.28,0:11:43.65,Matsumoto,,0,0,0,,{\pos(323.001,403)}I'll have a cola
+Dialogue: 0,0:11:42.11,0:11:43.65,Default,,0,0,0,,{\pos(444.999,325)}Cola, sure
+Dialogue: 0,0:11:45.15,0:11:47.85,Hamada,,0,0,0,,{\pos(322,401)}Cream anmitsu
+Dialogue: 0,0:11:46.52,0:11:47.85,Default,,0,0,0,,{\pos(419.001,308)}Yes
+Dialogue: 0,0:11:48.65,0:11:49.15,Yamasaki,,0,0,0,,I'll have {\alpha&HFF&}Ann Lewis
+Dialogue: 0,0:11:49.15,0:11:50.79,Yamasaki,,0,0,0,,I'll have Ann Lewis
+Dialogue: 0,0:11:58.05,0:12:00.05,Endo,,0,0,0,,Man I'm thirsty
+Dialogue: 0,0:11:58.88,0:12:00.05,Tanaka,,0,0,0,,Me too
+Dialogue: 0,0:11:59.93,0:12:01.97,Default,,0,0,0,,{\pos(412.001,327)}Tell me when you decided it
+Dialogue: 0,0:12:00.57,0:12:02.17,Yamasaki,,0,0,0,,Oh, I have
+Dialogue: 0,0:12:02.17,0:12:04.34,Yamasaki,,0,0,0,,{\pos(326,398)}Ann Lewis
+Dialogue: 0,0:12:03.34,0:12:05.17,Endo,,0,0,0,,Here goes
+Dialogue: 0,0:12:05.47,0:12:08.47,Default,,0,0,0,,{\pos(410,329)}An ice coffee...?
+Dialogue: 0,0:12:09.57,0:12:09.91,Endo,,0,0,0,,Can I{\alpha&HFF&} have a cheesecake too?
+Dialogue: 0,0:12:09.91,0:12:11.38,Endo,,0,0,0,,Can I have a cheesecake too?
+Dialogue: 0,0:12:14.15,0:12:17.15,Yamasaki,,0,0,0,,{\pos(326,401)}Ann Lewis
+Dialogue: 0,0:12:19.08,0:12:21.89,Yamasaki,,0,0,0,,{\pos(326,398)}I think I'll have {\alpha&HFF&}Ann Lewis
+Dialogue: 0,0:12:23.19,0:12:23.82,Default,,0,0,0,,{\pos(420.001,288)}Orange juice, ok
+Dialogue: 0,0:12:21.89,0:12:24.22,Yamasaki,,0,0,0,,{\pos(326,398)}I think I'll have Ann Lewis
+Dialogue: 0,0:12:31.76,0:12:35.63,Endo,,0,0,0,,{\pos(316.001,346)}This is the worst
+Dialogue: 0,0:12:33.53,0:12:35.63,Endo,,0,0,0,,{\pos(256,402)}It sucks
+Dialogue: 0,0:12:36.03,0:12:36.90,Matsumoto,,0,0,0,,But {\alpha&HFF&}we discovered something
+Dialogue: 0,0:12:36.90,0:12:37.27,Matsumoto,,0,0,0,,But we {\alpha&HFF&}discovered something
+Dialogue: 0,0:12:37.27,0:12:39.47,Matsumoto,,0,0,0,,But we discovered something
+Dialogue: 0,0:12:39.47,0:12:40.91,Matsumoto,,0,0,0,,{\pos(319,352)}If you say "Ann Lewis",{\alpha&HFF&} you'll get orange juice
+Dialogue: 0,0:12:40.91,0:12:43.41,Matsumoto,,0,0,0,,{\pos(319,352)}If you say "Ann Lewis", you'll get orange juice
+Dialogue: 0,0:12:41.64,0:12:43.41,Matsumoto,,0,0,0,,{\pos(260.001,405)}We now know that
+Dialogue: 0,0:12:43.28,0:12:44.22,Endo,,0,0,0,,This is...
+Dialogue: 0,0:12:44.24,0:12:46.44,Yamasaki,,0,0,0,,That's way harder, man...
+Dialogue: 0,0:12:46.48,0:12:47.51,Endo,,0,0,0,,Shocking
+Dialogue: 0,0:12:47.85,0:12:49.51,Hamada,,0,0,0,,Can't help it
+Dialogue: 0,0:12:49.51,0:12:52.31,Hamada,,0,0,0,,Alright, your turn to draw, Yamazaki
+Dialogue: 0,0:12:52.31,0:12:54.77,Yamasaki,,0,0,0,,Please give it all you got, you three
+Dialogue: 0,0:12:53.48,0:12:54.77,Tanaka,,0,0,0,,We will
+Dialogue: 0,0:12:54.77,0:12:56.11,Hamada,,0,0,0,,Yeah, I mean
+Dialogue: 0,0:12:56.11,0:12:59.54,Matsumoto,,0,0,0,,Of course we will
+Dialogue: 0,0:12:56.88,0:12:59.54,Hamada,,0,0,0,,Suga-san is supporting us so much
+Dialogue: 0,0:12:59.74,0:13:01.11,Default,,0,0,0,,Is that a big one?
+Dialogue: 0,0:13:01.11,0:13:02.91,Matsumoto,,0,0,0,,Here it is
+Dialogue: 0,0:13:02.91,0:13:04.20,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:13:04.20,0:13:05.22,Endo,,0,0,0,,"Homeless"
+Dialogue: 0,0:13:05.22,0:13:06.60,Matsumoto,,0,0,0,,Perfect timing for this
+Dialogue: 0,0:13:06.62,0:13:08.37,Endo,,0,0,0,,You're right
+Dialogue: 0,0:13:07.25,0:13:08.37,Matsumoto,,0,0,0,,Perfectly timed
+Dialogue: 0,0:13:08.37,0:13:10.71,Yamasaki,,0,0,0,,I just thought about this, but...
+Dialogue: 0,0:13:13.68,0:13:15.00,Endo,,0,0,0,,I see, huh
+Dialogue: 0,0:13:10.71,0:13:15.01,Yamasaki,,0,0,0,,I think the "MU" in omuraisu is the most important bit
+Dialogue: 0,0:13:13.14,0:13:15.01,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:13:15.02,0:13:16.77,Hamada,,0,0,0,,Ok, who's going for it?
+Dialogue: 0,0:13:17.88,0:13:18.61,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:13:17.11,0:13:19.44,Tanaka,,0,0,0,,{\pos(420.999,317)}I'm going
+Dialogue: 0,0:13:18.60,0:13:20.60,Matsumoto,,0,0,0,,You haven't asked its price yet
+Dialogue: 0,0:13:19.20,0:13:20.60,Endo,,0,0,0,,You haven't yet
+Dialogue: 0,0:13:20.28,0:13:23.11,Endo,,0,0,0,,{\pos(156.999,320)}It's 200 yen
+Dialogue: 0,0:13:21.18,0:13:23.11,Tanaka,,0,0,0,,{\pos(408,284)}What!!
+Dialogue: 0,0:13:22.71,0:13:24.40,Hamada,,0,0,0,,So loud
+Dialogue: 0,0:13:03.39,0:13:25.08,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\move(802.857,378.857,322.857,387.428,24,191)}Third phrase: {\c&H25CFC0&\3c&H000000&}homeless
+Dialogue: 0,0:13:24.40,0:13:26.40,Default,,0,0,0,,Let's make this 20.000 yen
+Dialogue: 0,0:13:27.00,0:13:29.20,Endo,,0,0,0,,Not bad at all, you can do it
+Dialogue: 0,0:13:25.08,0:13:29.35,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(320,386)}Homeless: {\c&H25CFC0&\3c&H000000&}20.000 yen
+Dialogue: 0,0:13:30.19,0:13:34.11,Default,,0,0,0,,Can they order "omuraisu" by saying "homeless"?
+Dialogue: 0,0:13:34.11,0:13:36.11,Default,,0,0,0,,Here's Tanaka's challenge!
+Dialogue: 0,0:13:29.89,0:13:36.36,Default,,0,0,0,,{\fade(320,0)\pos(280,329.428)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}Will they be able to order omuraisu
+Dialogue: 0,0:13:29.89,0:13:36.36,Default,,0,0,0,,{\fade(320,0)\pos(304,379.572)\fscx120\fscy100}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}by saying "homeless" instead?!
+Dialogue: 0,0:13:36.68,0:13:38.46,Yamasaki,,0,0,0,,Let's see...
+Dialogue: 0,0:13:38.46,0:13:40.77,Yamasaki,,0,0,0,,{\pos(328,402)}I'll have ochazuke {\alpha&HFF&}and nori
+Dialogue: 0,0:13:41.67,0:13:42.23,Default,,0,0,0,,{\pos(447,335)}Ochazuke, {\alpha&HFF&}alright
+Dialogue: 0,0:13:40.77,0:13:42.97,Yamasaki,,0,0,0,,{\pos(328,402)}I'll have ochazuke and nori
+Dialogue: 0,0:13:42.23,0:13:42.97,Default,,0,0,0,,{\pos(447,335)}Ochazuke, alright
+Dialogue: 0,0:13:42.97,0:13:44.84,Endo,,0,0,0,,I'll take an ice coffee
+Dialogue: 0,0:13:44.84,0:13:47.24,Tanaka,,0,0,0,,{\clip(168,388,204,480)\t(0,1100,\clip(151,392,364,480))}Let's see... {\alpha&HFF&}homeless
+Dialogue: 0,0:13:47.24,0:13:50.14,Tanaka,,0,0,0,,Let's see... homeless
+Dialogue: 0,0:13:50.14,0:13:51.48,Default,,0,0,0,,Sorry, what was that again?
+Dialogue: 0,0:13:51.48,0:13:52.84,Default,,0,0,0,,Sorry but{\alpha&HFF&} I heard "homeless"
+Dialogue: 0,0:13:52.84,0:13:54.75,Default,,0,0,0,,Sorry but I heard "homeless"
+Dialogue: 0,0:13:55.42,0:13:56.31,Default,,0,0,0,,Omuraisu? Ok
+Dialogue: 0,0:13:54.75,0:13:57.75,Tanaka,,0,0,0,,{\pos(321,399)}Omuraisu
+Dialogue: 0,0:13:58.05,0:13:59.51,Hamada,,0,0,0,,He gave up
+Dialogue: 0,0:14:01.29,0:14:04.29,Endo,,0,0,0,,{\pos(320,396)}You just said it, dude
+Dialogue: 0,0:14:03.31,0:14:05.14,Hamada,,0,0,0,,Yeah, so clearly
+Dialogue: 0,0:14:05.14,0:14:07.59,Endo,,0,0,0,,He said "omuraisu"
+Dialogue: 0,0:14:07.59,0:14:08.26,Hamada,,0,0,0,,{\pos(327,396)}Dude, you{\alpha&HFF&} just said "omuraisu"
+Dialogue: 0,0:14:08.26,0:14:09.96,Hamada,,0,0,0,,{\pos(327,396)}Dude, you just said "omuraisu"
+Dialogue: 0,0:14:09.96,0:14:11.96,Matsumoto,,0,0,0,,{\pos(320,398)}He said it, yeah
+Dialogue: 0,0:14:11.74,0:14:13.20,Endo,,0,0,0,,It was only your second attempt
+Dialogue: 0,0:14:13.20,0:14:14.57,Hamada,,0,0,0,,Right, too quick
+Dialogue: 0,0:14:14.57,0:14:15.34,Tanaka,,0,0,0,,But I---
+Dialogue: 0,0:14:15.37,0:14:15.97,Yamasaki,,0,0,0,,{\pos(316.001,397)}When{\alpha&HFF&} she got closer to you...
+Dialogue: 0,0:14:15.97,0:14:16.30,Yamasaki,,0,0,0,,{\pos(316.001,397)}When she got closer {\alpha&HFF&}to you...
+Dialogue: 0,0:14:16.30,0:14:17.37,Yamasaki,,0,0,0,,{\pos(316.001,397)}When she got closer to you...
+Dialogue: 0,0:14:17.37,0:14:19.30,Endo,,0,0,0,,{\pos(321,396)}You panicked, right?
+Dialogue: 0,0:14:19.80,0:14:20.17,Endo,,0,0,0,,{\pos(319,392)}Right {\alpha&HFF&}when she got closer
+Dialogue: 0,0:14:20.17,0:14:22.71,Endo,,0,0,0,,{\pos(319,392)}Right when she got closer
+Dialogue: 0,0:14:21.51,0:14:23.51,Tanaka,,0,0,0,,I couldn't do it
+Dialogue: 0,0:14:25.45,0:14:27.45,Yamasaki,,0,0,0,,That was so bad
+Dialogue: 0,0:14:27.48,0:14:30.05,Matsumoto,,0,0,0,,{\clip(126,377,168,480)\t(0,999,\clip(90,375,508,480))}The hell is going on, today?
+Dialogue: 0,0:14:30.05,0:14:32.05,Yamasaki,,0,0,0,,{\pos(323.001,396)}We're screwed
+Dialogue: 0,0:14:30.97,0:14:33.82,Tanaka,,0,0,0,,Did I really say "omuraisu"?
+Dialogue: 0,0:14:34.29,0:14:35.49,Matsumoto,,0,0,0,,{\pos(240,346)}The first time {\alpha&HFF&}you clearly
+Dialogue: 0,0:14:35.49,0:14:38.29,Matsumoto,,0,0,0,,{\pos(240,346)}The first time you clearly
+Dialogue: 0,0:14:36.15,0:14:38.29,Matsumoto,,0,0,0,,{\pos(322,408)}said "homeless"
+Dialogue: 0,0:14:38.29,0:14:39.09,Matsumoto,,0,0,0,,{\pos(268.001,349)}And the second time {\alpha&HFF&}you clearly
+Dialogue: 0,0:14:39.09,0:14:41.39,Matsumoto,,0,0,0,,{\pos(268.001,349)}And the second time you clearly
+Dialogue: 0,0:14:39.79,0:14:41.39,Matsumoto,,0,0,0,,{\pos(310,407)}said "omuraisu"
+Dialogue: 0,0:14:41.39,0:14:42.89,Matsumoto,,0,0,0,,{\pos(320,347)}That's exactly how it went,{\alpha&HFF&} no more
+Dialogue: 0,0:14:42.89,0:14:46.10,Matsumoto,,0,0,0,,{\pos(320,347)}That's exactly how it went, no more
+Dialogue: 0,0:14:43.76,0:14:46.10,Matsumoto,,0,0,0,,{\pos(226,404)}and no less than that
+Dialogue: 0,0:14:49.71,0:14:51.71,Tanaka,,0,0,0,,I'll be counting on you
+Dialogue: 0,0:14:50.57,0:14:51.71,Matsumoto,,0,0,0,,Listen
+Dialogue: 0,0:14:51.71,0:14:53.54,Matsumoto,,0,0,0,,We changed our plan
+Dialogue: 0,0:14:53.54,0:14:55.80,Matsumoto,,0,0,0,,By now there's no point
+Dialogue: 0,0:14:55.80,0:14:57.31,Matsumoto,,0,0,0,,In doing the first ones
+Dialogue: 0,0:14:57.31,0:14:59.45,Matsumoto,,0,0,0,,We have to think about
+Dialogue: 0,0:14:59.45,0:15:01.05,Matsumoto,,0,0,0,,What our audience wants to see
+Dialogue: 0,0:15:01.05,0:15:02.94,Matsumoto,,0,0,0,,So I thought about what we should do
+Dialogue: 0,0:15:02.94,0:15:05.45,Matsumoto,,0,0,0,,And I think #7 and #10 are good
+Dialogue: 0,0:15:05.45,0:15:07.80,Matsumoto,,0,0,0,,"Can you please make me a modified chicken rice?"
+Dialogue: 0,0:15:07.80,0:15:10.11,Matsumoto,,0,0,0,,And "Samurai", me and Endo
+Dialogue: 0,0:15:10.11,0:15:11.48,Matsumoto,,0,0,0,,Are gonna do them
+Dialogue: 0,0:15:11.48,0:15:13.05,Matsumoto,,0,0,0,,Don't you think it's good?
+Dialogue: 0,0:15:13.05,0:15:14.62,Default,,0,0,0,,I think it's good
+Dialogue: 0,0:15:15.36,0:15:17.70,Matsumoto,,0,0,0,,{\pos(323.001,403)}How much was it? 3 million?
+Dialogue: 0,0:15:16.17,0:15:18.43,Matsumoto,,0,0,0,,Say that to him, Endo
+Dialogue: 0,0:15:17.05,0:15:18.45,Hamada,,0,0,0,,What the hell?
+Dialogue: 0,0:15:18.45,0:15:20.20,Matsumoto,,0,0,0,,You said that, right?
+Dialogue: 0,0:15:20.20,0:15:22.28,Matsumoto,,0,0,0,,You said that before, dude
+Dialogue: 0,0:15:22.28,0:15:24.97,Hamada,,0,0,0,,What are you talking about?
+Dialogue: 0,0:15:23.20,0:15:25.00,Endo,,0,0,0,,We'll do it for 3 million
+Dialogue: 0,0:15:27.14,0:15:32.14,Hamada,,0,0,0,,By the way, Suga-chan, how much is the chicken rice thing?
+Dialogue: 0,0:15:30.80,0:15:32.14,Default,,0,0,0,,This one?
+Dialogue: 0,0:15:32.14,0:15:34.60,Default,,0,0,0,,It never appeared before
+Dialogue: 0,0:15:34.60,0:15:35.88,Default,,0,0,0,,So I'm gonna say...
+Dialogue: 0,0:15:35.88,0:15:38.37,Default,,0,0,0,,They're 70.000 yen and 1 million
+Dialogue: 0,0:15:39.68,0:15:41.20,Tanaka,,0,0,0,,This is huge
+Dialogue: 0,0:15:41.20,0:15:41.91,Matsumoto,,0,0,0,,Here it comes!
+Dialogue: 0,0:15:41.92,0:15:42.82,Endo,,0,0,0,,Here it is!
+Dialogue: 0,0:15:37.88,0:15:42.89,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(514,293)}{\c&H25CFC0&\3c&H000000&}70.000 Yen
+Dialogue: 0,0:15:37.88,0:15:42.89,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(323.001,348)}"Can you please make me a modified chicken rice?"
+Dialogue: 0,0:15:37.88,0:15:42.89,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(513,405)}{\c&H25CFC0&\3c&H000000&}100.000 Yen
+Dialogue: 0,0:15:37.88,0:15:42.89,Default,,0,0,0,,{\c&H002DB5&\3c&HFFFFFF&\pos(272,405)}Samurai
+Dialogue: 0,0:15:42.82,0:15:45.00,Hamada,,0,0,0,,But it depends on the shop we're going to
+Dialogue: 0,0:15:45.00,0:15:45.97,Endo,,0,0,0,,Yeah, right
+Dialogue: 0,0:15:45.97,0:15:49.05,Hamada,,0,0,0,,You don't know if it works, it depends
+Dialogue: 0,0:15:49.05,0:15:51.20,Matsumoto,,0,0,0,,Let me say it again
+Dialogue: 0,0:15:51.20,0:15:53.51,Matsumoto,,0,0,0,,If you say "can you modify it?"
+Dialogue: 0,0:15:53.51,0:15:55.68,Matsumoto,,0,0,0,,And they're like "how about omuraisu?"
+Dialogue: 0,0:15:55.68,0:15:56.60,Matsumoto,,0,0,0,,That's no good
+Dialogue: 0,0:15:56.60,0:15:59.10,Matsumoto,,0,0,0,,{\pos(326,402)}If you say "yes", it doesn't count
+Dialogue: 0,0:15:57.48,0:15:59.60,Endo,,0,0,0,,I see, I can't say "yes"
+Dialogue: 0,0:15:59.60,0:16:03.77,Endo,,0,0,0,,So I just have to act as if I'm thinking about it, right?
+Dialogue: 0,0:16:04.94,0:16:05.54,Yamasaki,,0,0,0,,No
+Dialogue: 0,0:16:05.54,0:16:06.94,Yamasaki,,0,0,0,,{\pos(320,394)}If you say anything {\alpha&HFF&}implying "yes", it doesn't count
+Dialogue: 0,0:16:07.57,0:16:09.42,Endo,,0,0,0,,So I just have to keep quiet
+Dialogue: 0,0:16:06.94,0:16:09.45,Yamasaki,,0,0,0,,{\pos(320,394)}If you say anything implying "yes", it doesn't count
+Dialogue: 0,0:16:10.28,0:16:13.65,Default,,0,0,0,,Endo is going to say "Can you please make me a modified chicken rice?"
+Dialogue: 0,0:16:10.01,0:16:16.45,Default,,0,0,0,,{\fade(320,0)\pos(325.715,329.428)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx130\fscy110)}"Can you please make me a modified chicken rice?"
+Dialogue: 0,0:16:10.01,0:16:16.45,Default,,0,0,0,,{\fade(320,0)\pos(304,379.572)\fscx120\fscy100}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,5958,\fscx140\fscy120)}Will it work for an omuraisu?
+Dialogue: 0,0:16:13.65,0:16:16.45,Default,,0,0,0,,Will it work for a omuraisu order?
+Dialogue: 0,0:16:16.74,0:16:19.54,Default,,0,0,0,,Sorry to keep you waiting
+Dialogue: 0,0:16:19.96,0:16:20.49,Yamasaki,,0,0,0,,{\pos(315.001,394)}I'll have {\alpha&HFF&}a cake
+Dialogue: 0,0:16:20.49,0:16:21.73,Yamasaki,,0,0,0,,{\pos(315.001,394)}I'll have a cake
+Dialogue: 0,0:16:21.73,0:16:22.26,Default,,0,0,0,,{\pos(306,401)}I'm sorry, {\alpha&HFF&}we don't have them today
+Dialogue: 0,0:16:22.26,0:16:24.13,Default,,0,0,0,,{\pos(306,401)}I'm sorry, we don't have them today
+Dialogue: 0,0:16:23.20,0:16:24.13,Yamasaki,,0,0,0,,Oh, you don't
+Dialogue: 0,0:16:24.13,0:16:25.86,Yamasaki,,0,0,0,,Then {\alpha&HFF&}I'll have an ice tea
+Dialogue: 0,0:16:25.86,0:16:26.96,Yamasaki,,0,0,0,,Then I'll have an ice tea
+Dialogue: 0,0:16:26.96,0:16:29.63,Default,,0,0,0,,Ice tea, ok
+Dialogue: 0,0:16:29.63,0:16:30.50,Matsumoto,,0,0,0,,I'll have {\alpha&HFF&}the same
+Dialogue: 0,0:16:30.50,0:16:32.37,Matsumoto,,0,0,0,,I'll have the same
+Dialogue: 0,0:16:32.37,0:16:32.90,Hamada,,0,0,0,,{\pos(319,400)}Can I {\alpha&HFF&}have a cola, please?
+Dialogue: 0,0:16:32.90,0:16:35.01,Hamada,,0,0,0,,{\pos(319,400)}Can I have a cola, please?
+Dialogue: 0,0:16:35.57,0:16:38.08,Tanaka,,0,0,0,,I'll take an ice coffee
+Dialogue: 0,0:16:40.48,0:16:42.95,Endo,,0,0,0,,{\pos(252.001,344)}Sorry, listen...{\alpha&HFF&} can you please
+Dialogue: 0,0:16:44.18,0:16:45.18,Endo,,0,0,0,,{\pos(307.001,402)}make me a {\alpha&HFF&}modified chicken rice?
+Dialogue: 0,0:16:42.95,0:16:47.28,Endo,,0,0,0,,{\pos(252.001,344)}Sorry, listen... can you please
+Dialogue: 0,0:16:45.18,0:16:47.28,Endo,,0,0,0,,{\pos(307.001,402)}make me a modified chicken rice?
+Dialogue: 0,0:16:47.52,0:16:52.52,Default,,0,0,0,,{\pos(131.001,330)}To chicken rice?
+Dialogue: 0,0:16:48.35,0:16:52.52,Endo,,0,0,0,,{\pos(323.001,392)}Yeah, I'd like to have it kinda modified, you know
+Dialogue: 0,0:16:56.09,0:16:57.03,Default,,0,0,0,,{\pos(316.001,395)}You want me to{\alpha&HFF&} add something to it?
+Dialogue: 0,0:16:57.03,0:16:59.53,Default,,0,0,0,,{\pos(316.001,395)}You want me to add something to it?
+Dialogue: 0,0:17:04.40,0:17:05.27,Endo,,0,0,0,,{\pos(323.001,400)}modify a bit {\alpha&HFF&}a chicken rice
+Dialogue: 0,0:17:00.87,0:17:08.74,Endo,,0,0,0,,{\pos(222,348)}You just have to
+Dialogue: 0,0:17:05.27,0:17:08.74,Endo,,0,0,0,,{\pos(323.001,400)}modify a bit a chicken rice
+Dialogue: 0,0:17:09.07,0:17:11.74,Default,,0,0,0,,{\pos(322,402)}Got it
+Dialogue: 0,0:17:13.11,0:17:14.31,Default,,0,0,0,,{\pos(236.001,349)}Wanna order {\alpha&HFF&}anything else?
+Dialogue: 0,0:17:14.88,0:17:15.51,Yamasaki,,0,0,0,,Oh, we're good
+Dialogue: 0,0:17:15.91,0:17:16.95,Default,,0,0,0,,{\pos(318,402)}Ok, got it, {\alpha&HFF&}I'll be back soon
+Dialogue: 0,0:17:14.31,0:17:19.95,Default,,0,0,0,,{\pos(236.001,349)}Wanna order anything else?
+Dialogue: 0,0:17:16.95,0:17:19.95,Default,,0,0,0,,{\pos(318,402)}Ok, got it, I'll be back soon
+Dialogue: 0,0:17:20.18,0:17:21.22,Hamada,,0,0,0,,{\pos(322,401)}He said it{\alpha&HFF&} according to rules
+Dialogue: 0,0:17:21.22,0:17:23.72,Hamada,,0,0,0,,{\pos(322,401)}He said it according to rules
+Dialogue: 0,0:17:22.02,0:17:23.72,Endo,,0,0,0,,{\pos(155.001,337)}Really?
+Dialogue: 0,0:17:24.76,0:17:25.42,Endo,,0,0,0,,{\pos(311,393)}That waitress{\alpha&HFF&} took that nicely
+Dialogue: 0,0:17:25.42,0:17:25.96,Endo,,0,0,0,,{\pos(311,393)}That waitress took{\alpha&HFF&} that nicely
+Dialogue: 0,0:17:25.96,0:17:26.86,Endo,,0,0,0,,{\pos(311,393)}That waitress took that nicely
+Dialogue: 0,0:17:26.86,0:17:28.63,Hamada,,0,0,0,,{\pos(321,396)}But we don't know what's gonna come
+Dialogue: 0,0:17:28.63,0:17:29.89,Default,,0,0,0,,{\pos(322,397)}Excuse me...
+Dialogue: 0,0:17:29.89,0:17:33.50,Default,,0,0,0,,{\pos(291.001,344)}I'm sorry to disturb you
+Dialogue: 0,0:17:31.10,0:17:33.50,Default,,0,0,0,,{\pos(315.001,404)}But we don't have chicken rice
+Dialogue: 0,0:17:33.50,0:17:34.77,Default,,0,0,0,,{\pos(318,396)}We can make you a Mexican pilaf {\alpha&HFF&}or a sansai pilaf...
+Dialogue: 0,0:17:34.77,0:17:36.27,Default,,0,0,0,,{\pos(318,396)}We can make you a Mexican pilaf or a sansai pilaf...
+Dialogue: 0,0:17:36.70,0:17:41.31,Endo,,0,0,0,,{\pos(196.999,337)}Chicken rice...
+Dialogue: 0,0:17:38.77,0:17:41.31,Default,,0,0,0,,{\pos(326,401)}No Mexican pilaf, then?
+Dialogue: 0,0:17:41.31,0:17:42.34,Endo,,0,0,0,,{\pos(156.999,346)}I had{\alpha&HFF&} chicken rice
+Dialogue: 0,0:17:45.28,0:17:46.34,Endo,,0,0,0,,{\pos(314,401)}yesterday, so... {\alpha&HFF&}is there anything like it?
+Dialogue: 0,0:17:46.34,0:17:48.18,Endo,,0,0,0,,{\pos(314,401)}yesterday, so... is there anything like it?
+Dialogue: 0,0:17:42.34,0:17:48.20,Endo,,0,0,0,,{\pos(156.999,346)}I had chicken rice
+Dialogue: 0,0:17:48.18,0:17:50.01,Default,,0,0,0,,Mexican pilaf {\alpha&HFF&}is similar to it
+Dialogue: 0,0:17:50.01,0:17:50.31,Default,,0,0,0,,Mexican pilaf is{\alpha&HFF&} similar to it
+Dialogue: 0,0:17:50.01,0:17:54.19,Endo,,0,0,0,,{\pos(322,338)}How about you just {\alpha&HFF&}modify a Mexican pilaf?
+Dialogue: 0,0:17:50.31,0:17:56.49,Default,,0,0,0,,Mexican pilaf is similar to it
+Dialogue: 0,0:17:54.19,0:17:56.49,Endo,,0,0,0,,{\pos(322,338)}How about you just modify a Mexican pilaf?
+Dialogue: 0,0:17:56.49,0:17:57.89,Default,,0,0,0,,{\pos(318,401)}Is there anything you {\alpha&HFF&}want me to add to it?
+Dialogue: 0,0:17:57.89,0:18:01.96,Default,,0,0,0,,{\pos(318,401)}Is there anything you want me to add to it?
+Dialogue: 0,0:18:00.19,0:18:01.96,Endo,,0,0,0,,{\pos(246,342)}Just modify it a bit, that's it
+Dialogue: 0,0:18:02.66,0:18:04.93,Default,,0,0,0,,{\pos(323.001,347)}How about a Mexican pilaf {\alpha&HFF&}and fried chicken
+Dialogue: 0,0:18:02.43,0:18:05.73,Default,,0,0,0,,{\fade(300,300)\pos(323.001,202)}{\fscx168.889\fscy162\c&H211297&\3c&HFFFFFF&\4c&H000000&\4a&HFF&\pos(320,202)}2 minutes later
+Dialogue: 0,0:18:04.93,0:18:08.10,Default,,0,0,0,,{\pos(323.001,347)}How about a Mexican pilaf and fried chicken
+Dialogue: 0,0:18:05.86,0:18:08.10,Default,,0,0,0,,{\pos(238,400)}set? Is that good?
+Dialogue: 0,0:18:08.10,0:18:09.60,Default,,0,0,0,,I'm sorry, sir
+Dialogue: 0,0:18:09.60,0:18:12.00,Endo,,0,0,0,,{\pos(322,399)}Let's see...
+Dialogue: 0,0:18:12.00,0:18:14.51,Default,,0,0,0,,{\pos(321,397)}We can make it a single serving
+Dialogue: 0,0:18:14.51,0:18:15.68,Endo,,0,0,0,,No
+Dialogue: 0,0:18:15.68,0:18:17.68,Endo,,0,0,0,,That's not really it...
+Dialogue: 0,0:18:17.37,0:18:21.51,Yamasaki,,0,0,0,,{\pos(211.001,345)}What are you saying?
+Dialogue: 0,0:18:18.71,0:18:21.51,Yamasaki,,0,0,0,,{\pos(319,405)}You're just babbling about...
+Dialogue: 0,0:18:21.75,0:18:22.45,Endo,,0,0,0,,{\pos(327,396)}You know,{\alpha&HFF&} I want it to look like this
+Dialogue: 0,0:18:22.45,0:18:25.02,Endo,,0,0,0,,{\pos(327,396)}You know, I want it to look like this
+Dialogue: 0,0:18:25.02,0:18:25.95,Tanaka,,0,0,0,,{\pos(323.001,399)}Come again?
+Dialogue: 0,0:18:25.95,0:18:27.32,Matsumoto,,0,0,0,,{\pos(323.001,399)}Yeah, look like what?
+Dialogue: 0,0:18:27.32,0:18:28.22,Hamada,,0,0,0,,{\pos(323.001,399)}Dude, {\alpha&HFF&}she's busy you know
+Dialogue: 0,0:18:28.22,0:18:28.62,Hamada,,0,0,0,,{\pos(323.001,399)}Dude, she's busy{\alpha&HFF&} you know
+Dialogue: 0,0:18:28.62,0:18:30.96,Hamada,,0,0,0,,{\pos(323.001,399)}Dude, she's busy you know
+Dialogue: 0,0:18:30.54,0:18:32.11,Endo,,0,0,0,,Excuse me
+Dialogue: 0,0:18:31.08,0:18:32.11,Default,,0,0,0,,It's fine
+Dialogue: 0,0:18:33.29,0:18:33.82,Endo,,0,0,0,,{\pos(322,400)}Can you like,{\alpha&HFF&} wrap it up or stuff?
+Dialogue: 0,0:18:33.82,0:18:35.79,Endo,,0,0,0,,{\pos(322,400)}Can you like, wrap it up or stuff?
+Dialogue: 0,0:18:35.79,0:18:40.70,Default,,0,0,0,,{\pos(153,350)}You mean omuraisu?
+Dialogue: 0,0:18:37.70,0:18:40.70,Endo,,0,0,0,,{\pos(318,400)}I really don't know much about that...
+Dialogue: 0,0:18:42.27,0:18:42.90,Hamada,,0,0,0,,{\pos(321,398)}Man, he's{\alpha&HFF&} so sly
+Dialogue: 0,0:18:42.90,0:18:45.24,Hamada,,0,0,0,,{\pos(321,398)}Man, he's so sly
+Dialogue: 0,0:18:47.37,0:18:50.04,Endo,,0,0,0,,{\pos(320,400)}I'll leave it up to you
+Dialogue: 0,0:18:48.51,0:18:50.04,Default,,0,0,0,,{\pos(308.001,345)}Is it really ok?
+Dialogue: 0,0:18:50.21,0:18:53.61,Hamada,,0,0,0,,{\pos(318,397)}You're practically already out, dude
+Dialogue: 0,0:18:51.08,0:18:53.61,Matsumoto,,0,0,0,,{\pos(318,346)}You're so out
+Dialogue: 0,0:18:53.61,0:18:56.65,Hamada,,0,0,0,,{\pos(323.001,399)}"Wrap it up" was not good
+Dialogue: 0,0:18:56.65,0:18:56.88,Endo,,0,0,0,,{\pos(322,398)}But {\alpha&HFF&}I didn't say "egg" or anything
+Dialogue: 0,0:18:56.88,0:19:00.55,Endo,,0,0,0,,{\pos(322,398)}But I didn't say "egg" or anything
+Dialogue: 0,0:18:58.35,0:19:00.55,Hamada,,0,0,0,,{\pos(319,343)}That doesn't mean anything
+Dialogue: 0,0:19:01.15,0:19:03.35,Hamada,,0,0,0,,{\pos(324.001,398)}You really tried, I recognize that
+Dialogue: 0,0:19:03.35,0:19:03.89,Hamada,,0,0,0,,{\pos(322,396)}Or better,{\alpha&HFF&} that waitress really tried
+Dialogue: 0,0:19:05.02,0:19:07.25,Endo,,0,0,0,,Yeah, she sure did
+Dialogue: 0,0:19:03.89,0:19:07.26,Hamada,,0,0,0,,{\pos(322,396)}Or better, that waitress really tried
+Dialogue: 0,0:19:07.26,0:19:07.56,Matsumoto,,0,0,0,,{\pos(322,395)}Let's give her{\alpha&HFF&} 70.000 yen
+Dialogue: 0,0:19:07.56,0:19:09.99,Matsumoto,,0,0,0,,{\pos(322,395)}Let's give her 70.000 yen
+Dialogue: 0,0:19:10.16,0:19:12.90,Yellow announcmend,,0,0,0,,{\c&H0D098F&\3c&H2DD0FF&\4c&HFFFFFF&\fscx51\fscy56\move(862.573,385.287,338.285,386.713,0,189)}{\blur5\c&H001A75&}What dish is she going to bring them!?
+Dialogue: 0,0:19:12.85,0:19:15.17,Default,,0,0,0,,Sorry to have kept you waiting
+Dialogue: 0,0:19:15.20,0:19:15.67,Default,,0,0,0,,{\pos(202,348)}Here, {\alpha&HFF&}I asked the chef
+Dialogue: 0,0:19:16.37,0:19:18.54,Default,,0,0,0,,{\pos(319,404)}To do a chicken rice {\alpha&HFF&}and make an omuraisu out of it
+Dialogue: 0,0:19:15.67,0:19:21.21,Default,,0,0,0,,{\pos(202,348)}Here, I asked the chef
+Dialogue: 0,0:19:18.54,0:19:21.21,Default,,0,0,0,,{\pos(319,404)}To do a chicken rice and make an omuraisu out of it
+Dialogue: 0,0:19:21.28,0:19:23.08,Endo,,0,0,0,,Oh, thank you
+Dialogue: 0,0:19:21.21,0:19:25.34,Default,,0,0,0,,{\pos(318,401)}Surprisingly, the omuraisu appears
+Dialogue: 0,0:19:23.54,0:19:25.62,Endo,,0,0,0,,That's what I wanted to eat
+Dialogue: 0,0:19:25.62,0:19:27.62,Default,,0,0,0,,Excuse me
+Dialogue: 0,0:19:29.45,0:19:32.08,Hamada,,0,0,0,,{\pos(323.001,396)}This means nothing
+Dialogue: 0,0:19:32.08,0:19:34.92,Endo,,0,0,0,,{\pos(323.001,396)}They don't have it in the menu
+Dialogue: 0,0:19:34.45,0:19:36.05,Hamada,,0,0,0,,But it doesn't mean anything
+Dialogue: 0,0:19:35.82,0:19:36.79,Matsumoto,,0,0,0,,{\pos(320,400.143)\clip(107,310,147,408)\t(0,550,\clip(111,332,315,422))}How should {\alpha&HFF&}we judge this one?
+Dialogue: 0,0:19:36.79,0:19:39.06,Matsumoto,,0,0,0,,{\pos(320,400.143)\clip(80,332,285,412)\t(0,2250,\clip(90,297,524,438))}How should we judge this one?
+Dialogue: 0,0:19:39.06,0:19:41.79,Endo,,0,0,0,,{\pos(337,397)}This is outside the menu
+Dialogue: 0,0:19:41.79,0:19:42.46,Hamada,,0,0,0,,{\pos(321,398)}I think {\alpha&HFF&}that hint you gave doesn't help you
+Dialogue: 0,0:19:42.46,0:19:43.39,Hamada,,0,0,0,,{\pos(321,398)}I think that hint you gave {\alpha&HFF&}doesn't help you
+Dialogue: 0,0:19:43.39,0:19:45.90,Hamada,,0,0,0,,{\pos(321,398)}I think that hint you gave doesn't help you
+Dialogue: 0,0:19:45.90,0:19:47.97,Endo,,0,0,0,,{\pos(323.001,399)}You mean "wrap it up"?
+Dialogue: 0,0:19:47.97,0:19:49.23,Matsumoto,,0,0,0,,{\pos(323.001,399)}What should we do?
+Dialogue: 0,0:19:49.23,0:19:50.60,Matsumoto,,0,0,0,,{\pos(338,347)}If only {\alpha&HFF&}you didn't say that phrase,
+Dialogue: 0,0:19:50.60,0:19:53.34,Matsumoto,,0,0,0,,{\pos(338,347)}If only you didn't say that phrase,
+Dialogue: 0,0:19:51.17,0:19:53.34,Matsumoto,,0,0,0,,{\pos(226,402)}"wrap it up"...
+Dialogue: 0,0:19:53.34,0:19:56.74,Hamada,,0,0,0,,{\pos(323.001,397)}That sentence is against the rule
+Dialogue: 0,0:19:55.28,0:19:56.74,Yamasaki,,0,0,0,,It got you your omuraisu
+Dialogue: 0,0:19:56.74,0:19:57.41,Matsumoto,,0,0,0,,{\pos(329,395)}Try eat that{\alpha&HFF&}, try
+Dialogue: 0,0:19:57.41,0:19:58.28,Matsumoto,,0,0,0,,{\pos(329,395)}Try eat that, try
+Dialogue: 0,0:19:58.28,0:20:00.95,Matsumoto,,0,0,0,,{\pos(329,395)}What do you think about it?
+Dialogue: 0,0:20:00.08,0:20:01.80,Endo,,0,0,0,,Here I go
+Dialogue: 0,0:20:06.68,0:20:07.45,Endo,,0,0,0,,{\pos(318,395)}It tastes {\alpha&HFF&}like modified chicken rice
+Dialogue: 0,0:20:07.45,0:20:07.59,Endo,,0,0,0,,{\pos(318,395)}It tastes like {\alpha&HFF&}modified chicken rice
+Dialogue: 0,0:20:07.59,0:20:10.59,Endo,,0,0,0,,{\pos(318,395)}It tastes like modified chicken rice
+Dialogue: 0,0:20:11.94,0:20:14.17,Endo,,0,0,0,,Suga-san, here's what happened
+Dialogue: 0,0:20:14.17,0:20:15.88,Endo,,0,0,0,,First off,
+Dialogue: 0,0:20:15.88,0:20:18.57,Endo,,0,0,0,,This restaurant had no chicken rice on the menu
+Dialogue: 0,0:20:17.82,0:20:18.57,Default,,0,0,0,,I see
+Dialogue: 0,0:20:18.57,0:20:24.08,Endo,,0,0,0,,I told them if they could modify a chicken rice
+Dialogue: 0,0:20:24.08,0:20:27.22,Endo,,0,0,0,,And at first we got stuck on that
+Dialogue: 0,0:20:27.22,0:20:31.57,Endo,,0,0,0,,Then I told them to "wrap it up", I used those words
+Dialogue: 0,0:20:31.57,0:20:33.88,Hamada,,0,0,0,,This is no good
+Dialogue: 0,0:20:32.37,0:20:33.88,Endo,,0,0,0,,I know
+Dialogue: 0,0:20:33.88,0:20:37.08,Endo,,0,0,0,,Me too I thought I've lost, then it appeared
+Dialogue: 0,0:20:37.08,0:20:39.94,Endo,,0,0,0,,And they brought me this
+Dialogue: 0,0:20:39.94,0:20:42.68,Endo,,0,0,0,,Out-of-menu chicken rice
+Dialogue: 0,0:20:42.68,0:20:45.31,Endo,,0,0,0,,With an omuraisu thing on top of it
+Dialogue: 0,0:20:45.97,0:20:47.08,Endo,,0,0,0,,What do you think?
+Dialogue: 0,0:20:47.02,0:20:49.03,Default,,0,0,0,,{\pos(324.001,397)}You failed
+Dialogue: 0,0:20:50.65,0:20:53.11,Hamada,,0,0,0,,And we're done
+Dialogue: 0,0:20:53.11,0:20:54.54,Yamasaki,,0,0,0,,Four consecutive outs...
+Dialogue: 0,0:20:54.54,0:20:56.48,Endo,,0,0,0,,All four of us, yeah
+Dialogue: 0,0:20:55.34,0:20:56.48,Tanaka,,0,0,0,,This is impressive
+Dialogue: 0,0:20:56.48,0:20:59.11,Hamada,,0,0,0,,And that means we reached our finale
+Dialogue: 0,0:20:59.62,0:21:01.77,Hamada,,0,0,0,,Samurai
+Dialogue: 0,0:21:00.20,0:21:01.77,Matsumoto,,0,0,0,,It's time for Samurai
+Dialogue: 0,0:21:01.77,0:21:04.64,Matsumoto,,0,0,0,,{\pos(324.001,395)}I'm gonna do it truthfully
+Dialogue: 0,0:21:03.42,0:21:05.44,Matsumoto,,0,0,0,,Really, I swear
+Dialogue: 0,0:21:05.44,0:21:06.14,Matsumoto,,0,0,0,,{\pos(320,352)}I won't{\alpha&HFF&} do anything shady, I'm gonna make
+Dialogue: 0,0:21:06.14,0:21:07.81,Matsumoto,,0,0,0,,{\pos(320,352)}I won't do anything shady, {\alpha&HFF&}I'm gonna make
+Dialogue: 0,0:21:08.55,0:21:09.58,Matsumoto,,0,0,0,,{\pos(316.999,402)}that omuraisu{\alpha&HFF&} appear by saying that
+Dialogue: 0,0:21:07.81,0:21:11.58,Matsumoto,,0,0,0,,{\pos(320,352)}I won't do anything shady, I'm gonna make
+Dialogue: 0,0:21:09.58,0:21:11.58,Matsumoto,,0,0,0,,{\pos(316.999,402)}that omuraisu appear by saying that
+Dialogue: 0,0:21:11.14,0:21:13.11,Hamada,,0,0,0,,It's "samurai", you know
+Dialogue: 0,0:21:11.97,0:21:13.11,Matsumoto,,0,0,0,,I'll say just that
+Dialogue: 0,0:21:13.11,0:21:15.80,Yamasaki,,0,0,0,,If it doesn't come, this ep would suck
+Dialogue: 0,0:21:15.80,0:21:17.19,Endo,,0,0,0,,You gotta do it for Gaki
+Dialogue: 0,0:21:17.19,0:21:17.89,Hamada,,0,0,0,,{\pos(316.999,395)}You have to say{\alpha&HFF&} "samurai" and nothing else
+Dialogue: 0,0:21:17.89,0:21:20.56,Hamada,,0,0,0,,{\pos(316.999,395)}You have to say "samurai" and nothing else
+Dialogue: 0,0:21:19.05,0:21:20.88,Matsumoto,,0,0,0,,What do you mean?
+Dialogue: 0,0:21:20.88,0:21:22.88,Yamasaki,,0,0,0,,What do you mean what?!
+Dialogue: 0,0:21:22.88,0:21:25.54,Yamasaki,,0,0,0,,That's how the game works
+Dialogue: 0,0:21:24.40,0:21:25.54,Hamada,,0,0,0,,Right
+Dialogue: 0,0:21:25.93,0:21:26.76,Yamasaki,,0,0,0,,{\pos(316.001,399)}You can't say {\alpha&HFF&}"samuraisu" or such
+Dialogue: 0,0:21:26.76,0:21:27.83,Yamasaki,,0,0,0,,{\pos(316.001,399)}You can't say "samuraisu" or such
+Dialogue: 0,0:21:27.83,0:21:28.42,Yamasaki,,0,0,0,,{\pos(318,397)}If you{\alpha&HFF&} add a "su", you're out
+Dialogue: 0,0:21:28.42,0:21:31.67,Yamasaki,,0,0,0,,{\pos(318,397)}If you add a "su", you're out
+Dialogue: 0,0:21:30.74,0:21:31.68,Matsumoto,,0,0,0,,Yeah I mean
+Dialogue: 0,0:21:31.68,0:21:34.04,Matsumoto,,0,0,0,,{\pos(324.999,397)}That's a huge rule violation
+Dialogue: 0,0:21:34.04,0:21:35.41,Matsumoto,,0,0,0,,{\pos(324.999,397)}It's worth a fine
+Dialogue: 0,0:21:35.41,0:21:38.61,Matsumoto,,0,0,0,,{\pos(324.999,397)}I could get fired for that and I wouldn't complain
+Dialogue: 0,0:21:39.42,0:21:42.34,Default,,0,0,0,,No one succeeded yet in this Limits series episode
+Dialogue: 0,0:21:42.34,0:21:46.54,Default,,0,0,0,,Can you order an omuraisu by saying samurai?
+Dialogue: 0,0:21:39.38,0:21:48.09,Default,,0,0,0,,{\fade(20,0)\move(317.143,322.287,317.143,340.857,18,8693)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,8693,\fscx140\fscy120)}Ordering "omuraisu" by saying "samurai":
+Dialogue: 0,0:21:39.38,0:21:48.09,Default,,0,0,0,,{\fade(20,0)\fscx120\fscy100\move(254,382.428,254,393.857,18,8693)}{\c&H121F7A&\3c&HFFFFFF&}{\an5\fscx120\fscy100\t(0,8693,\fscx140\fscy120)}Is it possible?
+Dialogue: 0,0:21:46.54,0:21:48.54,Default,,0,0,0,,Matsumoto is going to try
+Dialogue: 0,0:21:51.08,0:21:53.08,Matsumoto,,0,0,0,,I'm going to the toilet
+Dialogue: 0,0:21:53.09,0:21:58.10,Default,,0,0,0,,{\pos(321,362)}Matsumoto plans on ordering it
+Dialogue: 0,0:21:53.09,0:21:58.10,Default,,0,0,0,,{\pos(321,407)}as he's coming back from the toilet
+Dialogue: 0,0:22:01.60,0:22:02.57,Default,,0,0,0,,{\pos(322,399)}I'm ready to take orders
+Dialogue: 0,0:22:02.57,0:22:03.10,Hamada,,0,0,0,,{\pos(315.001,399)}I'm taking{\alpha&HFF&} a soda, ma'am
+Dialogue: 0,0:22:03.10,0:22:05.34,Hamada,,0,0,0,,{\pos(315.001,399)}I'm taking a soda, ma'am
+Dialogue: 0,0:22:05.82,0:22:07.14,Default,,0,0,0,,Alright, what else?
+Dialogue: 0,0:22:07.14,0:22:08.54,Yamasaki,,0,0,0,,{\pos(324.999,399)}Two sodas
+Dialogue: 0,0:22:08.97,0:22:11.81,Endo,,0,0,0,,{\pos(327,401)}I'm taking a coffee
+Dialogue: 0,0:22:10.07,0:22:11.81,Default,,0,0,0,,{\pos(222,214)}Hot coffee is ok?
+Dialogue: 0,0:22:11.81,0:22:14.31,Tanaka,,0,0,0,,{\pos(320,397)}Cola
+Dialogue: 0,0:22:15.28,0:22:16.18,Hamada,,0,0,0,,{\pos(318,398)}There's another one {\alpha&HFF&}at the toilet
+Dialogue: 0,0:22:16.18,0:22:17.85,Hamada,,0,0,0,,{\pos(318,398)}There's another one at the toilet
+Dialogue: 0,0:22:23.68,0:22:23.89,Matsumoto,,0,0,0,,{\pos(322,399)}Oh, {\alpha&HFF&}excuse me
+Dialogue: 0,0:22:23.89,0:22:26.09,Matsumoto,,0,0,0,,{\pos(322,399)}Oh, excuse me
+Dialogue: 0,0:22:26.29,0:22:26.79,Matsumoto,,0,0,0,,I'll have a{\alpha&HFF&} samurai
+Dialogue: 0,0:22:26.79,0:22:29.76,Matsumoto,,0,0,0,,I'll have a samurai
+Dialogue: 0,0:22:29.76,0:22:31.46,Default,,0,0,0,,{\pos(215,231)}What was that?
+Dialogue: 0,0:22:30.53,0:22:33.46,Matsumoto,,0,0,0,,Samurai{\fs14}su
+Dialogue: 0,0:22:31.46,0:22:33.46,Default,,0,0,0,,{\pos(236.001,237)}Omuraisu? You're ok with that?
+Dialogue: 0,0:22:32.40,0:22:33.57,Matsumoto,,0,0,0,,{\pos(434,176)}Yep
+Dialogue: 0,0:22:33.46,0:22:35.47,Default,,0,0,0,,{\pos(214,233)}Is it really ok?
+Dialogue: 0,0:22:34.03,0:22:35.47,Matsumoto,,0,0,0,,Yeah
+Dialogue: 0,0:22:36.90,0:22:37.17,Hamada,,0,0,0,,{\pos(320,400)}No man, {\alpha&HFF&}you didn't say that
+Dialogue: 0,0:22:37.17,0:22:37.53,Hamada,,0,0,0,,{\pos(320,400)}No man, you didn't {\alpha&HFF&}say that
+Dialogue: 0,0:22:37.53,0:22:39.60,Hamada,,0,0,0,,{\pos(320,400)}No man, you didn't say that
+Dialogue: 0,0:22:39.68,0:22:40.74,Endo,,0,0,0,,You said "samuraisu"
+Dialogue: 0,0:22:40.74,0:22:42.34,Hamada,,0,0,0,,You said it
+Dialogue: 0,0:22:43.31,0:22:45.11,Matsumoto,,0,0,0,,You're playing dirty
+Dialogue: 0,0:22:42.34,0:22:45.34,Hamada,,0,0,0,,{\pos(319,395)}You said it with such resolution
+Dialogue: 0,0:22:51.68,0:22:52.12,Matsumoto,,0,0,0,,{\pos(321,399)}I just {\alpha&HFF&}got that right, didn't I?
+Dialogue: 0,0:22:52.12,0:22:52.58,Matsumoto,,0,0,0,,{\pos(321,399)}I just got that right, {\alpha&HFF&}didn't I?
+Dialogue: 0,0:22:53.68,0:22:55.08,Hamada,,0,0,0,,You didn't
+Dialogue: 0,0:22:52.58,0:22:55.09,Matsumoto,,0,0,0,,{\pos(321,399)}I just got that right, didn't I?
+Dialogue: 0,0:22:55.09,0:22:55.52,Hamada,,0,0,0,,{\pos(323.001,397)}Everyone {\alpha&HFF&}had a face like "what?"
+Dialogue: 0,0:22:55.52,0:22:57.86,Hamada,,0,0,0,,{\pos(323.001,397)}Everyone had a face like "what?"
+Dialogue: 0,0:22:56.40,0:22:58.40,Endo,,0,0,0,,I was like "huh?"
+Dialogue: 0,0:22:59.46,0:23:04.53,Hamada,,0,0,0,,{\pos(100.001,366)}Samurai{\fs14}su
+Dialogue: 0,0:23:02.26,0:23:04.53,Endo,,0,0,0,,{\pos(359,395)}You said "rice" so clearly
+Dialogue: 0,0:23:04.68,0:23:07.00,Hamada,,0,0,0,,I bet he didn't want to say that
+Dialogue: 0,0:23:07.00,0:23:09.20,Hamada,,0,0,0,,But he clearly said it, that's what happened
+Dialogue: 0,0:23:10.20,0:23:12.84,Endo,,0,0,0,,Samuraisu?
+Dialogue: 0,0:23:11.14,0:23:12.85,Tanaka,,0,0,0,,He said samuraisu
+Dialogue: 0,0:23:14.37,0:23:17.97,Hamada,,0,0,0,,We told you couldn't add "su", didn't we?
+Dialogue: 0,0:23:15.97,0:23:17.97,Matsumoto,,0,0,0,,Yeah, no "su" allowed, right
+Dialogue: 0,0:23:17.97,0:23:19.68,Hamada,,0,0,0,,And why did you say it?
+Dialogue: 0,0:23:19.68,0:23:22.71,Matsumoto,,0,0,0,,Of course you end up sayin' it
+Dialogue: 0,0:23:25.22,0:23:27.34,Matsumoto,,0,0,0,,Did I say that?
+Dialogue: 0,0:23:27.34,0:23:29.62,Hamada,,0,0,0,,Stop denying it
+Dialogue: 0,0:23:32.44,0:23:38.08,Default,,0,0,0,,We released a book to celebrate of TV show Gaki no Tsukai ya Arahende's fifteenth year, which talks about its story.
+Dialogue: 0,0:23:38.08,0:23:43.68,Default,,0,0,0,,Its title is "kiseki". It also features a special interview with Hitoshi Matsumoto and Masatoshi Hamada.
+Dialogue: 0,0:23:43.68,0:23:46.86,Default,,0,0,0,,You can buy it now on any bookstore and featured shop!
+Dialogue: 0,0:23:05.40,0:23:51.91,Newtofupandatitle,,0,0,0,,{\fade(9000,0)\pos(324.001,300)\fscx47\fscy76}{\pos(471.76,594.028)\c&HFFFFFF&\1a&HB9&\3c&H000000&\3a&HB4&\4c&H000000&\4a&HFF&}This video was brought to you by Tofu Panda Fansubs
+Dialogue: 0,0:00:00.00,0:23:51.91,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-7,2,896,730)\fscx41.778\fscy40\pos(596.634,72.067)}TPF
+Dialogue: 0,0:00:00.00,0:23:51.91,Default,,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,7,898,660)\fscx44.444\fscy35\pos(700.001,120)}0 0 m -154.75 -40.25 b -160.25 -41 -175.25 -40.25 -173.625 -25.25 b -174.5 -17.125 -159.375 -0.625 -155.625 0 b -149.125 4.75 -146.75 -0.625 -142.875 -1.625 b -138.25 -7.125 -133.375 -9 -128.625 -22.75 b -126.875 -35.375 -137.125 -36.5 -138.25 -37.5 b -144.25 -41 -150 -40.25 -154.75 -40.25 m -150.75 -35.375 b -143.625 -37.5 -134 -32.125 -135.75 -26.5 b -141.125 -33.5 -146 -33.5 -150.75 -35.375 m -191.25 -116 b -187.875 -116 -161 -109.75 -165 -67.75 b -170.5 -41 -185.5 -28.125 -190.125 -25.25 b -192.625 -24.375 -205.5 -12.75 -222.875 -32.125 b -226.625 -41 -234.5 -51.25 -228.875 -74 b -226.625 -83.125 -222.875 -100.875 -208.625 -110.625 b -204.375 -113.375 -198.375 -117.875 -191.25 -116 m -119.75 -117.875 b -118.375 -117.875 -99.5 -124.375 -82.75 -90.375 b -80.375 -82.25 -73.875 -72.125 -77.875 -46.5 b -82.75 -25.25 -90.625 -24.375 -95.25 -22.75 b -99.5 -22.75 -104.875 -17.125 -124 -32.75 b -130 -39 -139.625 -42.875 -143.625 -68.5 b -142.875 -68.5 -152.5 -85.25 -132.625 -110.625 b -128.625 -114.625 -124.625 -117.875 -119.75 -117.875 m -192.625 -87.75 b -214.625 -83.125 -202.125 -54.75 -191.875 -57.75 b -188.75 -57.75 -181.625 -59.625 -180.125 -72.125 b -182.375 -87.125 -187.25 -85.875 -192.625 -87.75 m -192.625 -79.375 b -187.875 -81.5 -185.5 -74 -186.375 -72.125 b -186.375 -65 -191.25 -65 -193.5 -65 b -196.625 -65.625 -198.375 -69.375 -197.25 -74 b -197.25 -75.875 -195.75 -79.375 -192.625 -79.375 m -191.25 -75.875 b -193.5 -74.75 -192.625 -71.5 -191.25 -71.5 b -189.5 -71.5 -187.875 -74.75 -191.25 -75.875 m -114.375 -87.75 b -131.75 -84.125 -124 -55.625 -114.375 -58.375 b -111.25 -57.75 -103.25 -59.625 -103.25 -75.875 b -105.5 -87.125 -112 -87.75 -114.375 -87.75 m -114.375 -79.375 b -104.125 -79.375 -107.25 -65 -112.625 -65 b -114.375 -64 -120.625 -65.625 -119.125 -74 b -119.125 -75.875 -118.375 -79.375 -114.375 -79.375 m -112.625 -75.875 b -115.125 -74 -113.5 -70.375 -112 -71.5 b -109.5 -72.125 -111.25 -75.875 -112.625 -75.875 m -194.375 -71.5 b -195.75 -71.5 -195 -68.5 -194.375 -68.5 b -193.5 -68.5 -192.625 -71.5 -194.375 -71.5 m -115.125 -70.375 b -116.625 -70.375 -115.75 -67.75 -115.125 -67.75 b -114.375 -67.75 -113.5 -70.375 -115.125 -70.375 m -234.5 -132.75 l -73.25 -132.75 l -73.25 53.125 l -234.5 53.125 m -74.75 -130.875 l -233.125 -130.875 l -233.125 51.5 l -74.75 51.5
+

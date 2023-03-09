@@ -1,0 +1,538 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,2,2,2,8,8,10,1
+Style: Hamada,Arial,60,&H00FF2E00,&H000000FF,&H00FFFFFF,&H00FF2E00,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Matsumoto,Arial,60,&H001528D6,&H000000FF,&H00FFFFFF,&H001528D6,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Tanaka,Arial,60,&H00DF0090,&H000000FF,&H00FFFFFF,&H00DF0090,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Matsumoto - Title,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00EBDA39,-1,0,0,0,75,100,0,0,1,4,3.4,2,8,8,10,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Yamazaki,Arial,60,&H0020D627,&H000000FF,&H00FFFFFF,&H0020D627,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Main Title,Arial,90,&H0007B4F1,&H000000FF,&H00FFFFFF,&H000A15D7,-1,0,0,0,75,100,0,0,1,2,4,2,8,8,30,1
+Style: Endo,Arial,60,&H000086E4,&H000000FF,&H00FFFFFF,&H000086E4,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Staff,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,2.6,2,2,8,8,30,1
+Style: Jimmy,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2.6,2,2,8,8,30,1
+Style: Title 1,Arial,90,&H001528D6,&H000000FF,&H00FFFFFF,&H001528D6,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,10,1
+Style: Title 2,Arial,75,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,4,2,2,8,8,30,1
+Style: Title 2 - White,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,2,8,8,30,1
+Style: Title 2 - White - Copy,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,5,2,2,8,8,30,1
+Style: Title 3,Arial,90,&H0052FEFE,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,4,4,2,8,8,30,1
+Style: TL Note,Arial,45,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,2.5,2,2,8,8,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.29,0:00:06.38,Hamada,Hamada,0,0,0,,Gaki no Tsukai's First Jimmy Onishi 24 Hour Long Interview!
+Dialogue: 0,0:00:06.62,0:00:09.80,Matsumoto - Title,,0,0,0,,{\fad(250,250)}{\pos(723.019,776.368)}Hitoshi Matsumoto    Hamada Masatoshi
+Dialogue: 0,0:00:06.62,0:00:09.80,Matsumoto - Title,,0,0,0,,{\fad(250,250)}{\pos(710.943,1076.033)\4c&H5BEF7C&}Tsukitei Hosei     {\4c&H178CFC&}Endo Shozo     Tanaka Naoki
+Dialogue: 0,0:00:09.82,0:00:12.08,Matsumoto,Matsumoto,0,0,0,,I wonder if this guy is gonna be alright.
+Dialogue: 0,0:00:12.08,0:00:12.88,Tanaka,Tanaka,0,0,0,,It's 24 hours.
+Dialogue: 0,0:00:12.90,0:00:14.93,Matsumoto,Matsumoto,0,0,10,,The first time I saw him I thought
+Dialogue: 0,0:00:14.93,0:00:17.50,Matsumoto,,0,0,10,,he came straight out of {\3c&HFFFFFF&\c&H000000&}Tensai Bakabon.
+Dialogue: 0,0:00:17.61,0:00:20.62,Matsumoto,,0,0,10,,He jumped right out of volume 8.
+Dialogue: 0,0:00:22.00,0:00:29.77,Title 1,,0,0,0,,{\fad(250,250)}{\pos(701.887,834.693)\3c&HFFFFFF&\3a&H32&}24 Hour {\4c&HFFFFFF&\3c&HFFFFFF&\4a&HFF&\c&H000000&}Long Interview
+Dialogue: 0,0:00:21.42,0:00:25.25,Narrator,,0,0,0,,So far, both Tsukitei Hosei and Drunk Dragon's Suzuki Taku
+Dialogue: 0,0:00:25.25,0:00:27.84,Narrator,,0,0,0,,have challenged the 24 hour long interview.
+Dialogue: 0,0:00:27.84,0:00:29.74,Narrator,,0,0,0,,{\c&HDEC71B&}I've broken a lot of people's bones.
+Dialogue: 0,0:00:29.93,0:00:38.48,Title 2,,0,0,0,,{\fad(250,250)}{\3c&HFFFFFF&\3a&HC8&\c&HFFFFFF&\pos(724.528,868.995)}Talk about their life nonstop for {\c&H00FFFB&\4c&H000000&\4a&HFF&\3c&HFFFFFF&\3a&HC8&}24 hours
+Dialogue: 0,0:00:30.26,0:00:32.66,Narrator,,0,0,0,,During this segment, one has to talk nonstop
+Dialogue: 0,0:00:32.67,0:00:36.33,Narrator,,0,0,0,,about their own life so far for 24 hours.
+Dialogue: 0,0:00:36.33,0:00:38.48,Narrator,,0,0,0,,The one who will challenge it this time is...
+Dialogue: 0,0:00:38.92,0:00:42.52,Hamada,,0,0,0,,Tonight's special guest is Jimmy Onishi, welcome!
+Dialogue: 0,0:00:45.29,0:00:50.18,Title 3,,0,0,0,,{\fad(250,250)}{\pos(703.396,909.218)}Jimmy Onishi (52)
+Dialogue: 0,0:00:46.82,0:00:49.10,Yamazaki,,0,0,10,,You just pulled the red curtain right over you.
+Dialogue: 0,0:00:49.10,0:00:51.89,Matsumoto,,0,0,10,,You've probably been hiding back there since yesterday.
+Dialogue: 0,0:00:52.69,0:00:56.02,Matsumoto,,0,0,10,,Recently you've been in all kinds of TV shows.
+Dialogue: 0,0:00:56.02,0:00:57.88,Narrator,,0,0,10,,Well, since you let me show up here every year.
+Dialogue: 0,0:00:57.88,0:00:59.88,Matsumoto,,0,0,10,,Yeah, at the No Laughing Series.
+Dialogue: 0,0:00:59.88,0:01:01.45,Narrator,,0,0,10,,That has really helped me out.
+Dialogue: 0,0:01:01.45,0:01:03.76,Matsumoto,,0,0,10,,But you've shown up at all these popular shows
+Dialogue: 0,0:01:03.76,0:01:04.94,Matsumoto,,0,0,10,,that suddenly wanted you as a guest.
+Dialogue: 0,0:01:04.94,0:01:07.26,Yamazaki,,0,0,10,,Shows like Golden and Gan Gan, right Jimmy?
+Dialogue: 0,0:01:07.34,0:01:10.09,Matsumoto,,0,0,10,,Have any of those appearances left you anything good?
+Dialogue: 0,0:01:10.22,0:01:13.85,Narrator,,0,0,10,,Well, {\c&HFFFFFF&\3c&H000000&}maybe {\3c&HFFFFFF&\c&H000000&}1 good hit out of 10 swings.
+Dialogue: 0,0:01:13.85,0:01:15.85,Hamada,,0,0,0,,It's not that many...
+Dialogue: 0,0:01:15.45,0:01:16.85,Tanaka,,0,0,0,,It's only 10 percent.
+Dialogue: 0,0:01:17.69,0:01:19.85,Yamazaki,,0,0,0,,I think that's too many swings.
+Dialogue: 0,0:01:22.65,0:01:26.06,Main Title,,0,0,0,,{\fad(350,250)}Downtown's Gaki no Tsukai ya Arahende
+Dialogue: 0,0:01:26.54,0:01:31.54,Title 3,,0,0,0,,{\fad(250,250)}{\pos(712.453,110.782)\4c&HFFFFFF&\4a&HC8&}Jimmy Onishi (52)
+Dialogue: 0,0:01:26.54,0:01:31.54,Title 3,,0,0,0,,{\fad(250,250)\pos(688.302,1043.966)}{\pos(712.453,110.782)\4c&HFFFFFF&\4a&HC8&}24 Hour Long Interview
+Dialogue: 0,0:01:32.62,0:01:35.78,Narrator,,0,0,0,,Jimmy Onishi's 24 Hour Long Interview
+Dialogue: 0,0:01:33.84,0:01:39.45,Title 2 - White,,0,0,0,,{\fad(350,250)\pos(727.548,712.122)}{\pos(718.491,718.156)\4c&H000000&\4a&HC8&}Taito Ward, Asakusa
+Dialogue: 0,0:01:36.01,0:01:39.28,Narrator,,0,0,0,,Tonight's stage is a certain hotel in Asakusa.
+Dialogue: 0,0:01:41.16,0:01:42.09,Yamazaki,,0,0,0,,Look at the snow.
+Dialogue: 0,0:01:46.58,0:01:49.22,Staff,,0,0,0,,{\4c&HFFFFFF&\4a&H96&}How do you feel about the 24 hour interview?
+Dialogue: 0,0:01:49.36,0:01:54.26,Jimmy,,0,0,10,,{\4c&H000000&\4a&H96&}There's a few breaks here and there, right?
+Dialogue: 0,0:01:51.18,0:01:54.26,Staff,,0,0,0,,{\4c&HFFFFFF&\4a&H96&\pos(1186.415,925.307)}There's no breaks.
+Dialogue: 0,0:01:54.34,0:01:56.98,Jimmy,,0,0,10,,{\4c&H000000&\4a&H96&}Nonstop?
+Dialogue: 0,0:01:55.64,0:01:56.98,Staff,,0,0,0,,{\pos(1192.453,921.285)\4c&HFFFFFF&\4a&H96&}It's nonstop.
+Dialogue: 0,0:01:57.02,0:02:00.58,Jimmy,,0,0,10,,{\4c&H000000&\4a&H96&}It's fine if I sleep a little bit, right?
+Dialogue: 0,0:01:58.30,0:02:00.58,Staff,,0,0,0,,{\pos(1186.415,927.318)\4c&HFFFFFF&\4a&H96&}No.
+Dialogue: 0,0:02:00.66,0:02:02.58,Jimmy,,0,0,0,,Good morning.
+Dialogue: 0,0:02:04.08,0:02:10.14,Narrator,,0,0,0,,The 24 hour long interview will take place in this room.
+Dialogue: 0,0:02:11.12,0:02:18.10,Title 2 - White - Copy,,0,0,0,,{\p1\pos(721.509,1003.742)\c&H000000&\fscx1012\fscy160}m 0 0 l 100 0 100 100 0 100
+Dialogue: 0,0:02:11.12,0:02:18.10,Title 2 - White - Copy,,0,0,0,,{\pos(721.509,987.654)}Two interviewers will be on standby at all times to be shifted during the interview.
+Dialogue: 0,0:02:18.62,0:02:25.02,Title 2 - White,,0,0,10,,{\fad(250,250)}Jimmy Onishi's 24 hour long interview begins.
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(982.643,352.123)}Birth
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1058.115,430.559)}Kindergarten
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1112.454,511.005)}Elementary School
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1070.189,597.486)}Middle School
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1050.567,669.888)}High School
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1198.492,754.357)}Performer Apprentice
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1215.095,834.804)}Popular Performer
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1133.585,913.24)}Switch to Painter
+Dialogue: 0,0:02:26.24,0:02:33.98,Narrator,,0,0,0,,{\fad(250,250)}{\pos(1215.094,993.687)}Return to TV
+Dialogue: 0,0:02:26.28,0:02:29.09,Narrator,,0,0,10,,During this interview we will be using this time-line
+Dialogue: 0,0:02:29.09,0:02:33.52,Narrator,,0,0,10,,to go over everything that has happened in Jimmy's life.
+Dialogue: 0,0:02:34.16,0:02:38.37,Narrator,,0,0,0,,Today I'd like to start our 24 hour interview with your birth.
+Dialogue: 0,0:02:38.05,0:02:38.53,Jimmy,,0,0,0,,Sure
+Dialogue: 0,0:02:38.53,0:02:40.72,Staff,,0,0,10,,Jimmy, when were you born?
+Dialogue: 0,0:02:40.92,0:02:44.28,Jimmy,,0,0,10,,I was born on January 1st, 1964.
+Dialogue: 0,0:02:44.01,0:02:45.49,Endo,,0,0,0,,{\pos(1151.698,911.229)}On New Year's Day.
+Dialogue: 0,0:02:44.29,0:02:46.28,Staff,,0,0,10,,You were born on New Year's Day.
+Dialogue: 0,0:02:46.28,0:02:48.28,Jimmy,,0,0,10,,Yeah.
+Dialogue: 0,0:02:49.74,0:02:52.98,Narrator,,0,0,0,,The interview starts with some personal questions.
+Dialogue: 0,0:02:53.34,0:02:55.41,Staff,,0,0,10,,What's your real name?
+Dialogue: 0,0:02:55.41,0:02:57.00,Jimmy,,0,0,10,,Um, Onishi Hideaki
+Dialogue: 0,0:02:57.12,0:02:58.81,Staff,,0,0,10,,So your name is Hideaki.
+Dialogue: 0,0:02:58.94,0:03:01.41,Staff,,0,0,10,,Can you explain the meaning behind your name?
+Dialogue: 0,0:03:01.61,0:03:03.97,Jimmy,,0,0,10,,Onishi...um...the Onishi...well,
+Dialogue: 0,0:03:03.97,0:03:06.18,Jimmy,,0,0,10,,there's nothing I could do about that.
+Dialogue: 0,0:03:06.18,0:03:08.18,Matsumoto,,0,0,10,,You don't need to say that.
+Dialogue: 0,0:03:09.76,0:03:10.86,Yamazaki,,0,0,10,,You couldn't do anything...
+Dialogue: 0,0:03:10.92,0:03:14.12,Jimmy,,0,0,10,,The "Hide"came from Toyotomi Hideyoshi...
+Dialogue: 0,0:03:14.12,0:03:19.28,Jimmy,,0,0,10,,because he was born on January 1st.
+Dialogue: 0,0:03:19.72,0:03:23.88,Jimmy,,0,0,10,,And then the "Ake" came from the phrase for "Happy New Year".
+Dialogue: 0,0:03:24.10,0:03:28.00,Jimmy,,0,0,10,,That's the meaning behind "Hideaki".
+Dialogue: 0,0:03:24.10,0:03:26.04,Endo,,0,0,10,,{\pos(1181.887,718.045)}So there was a meaning \Nbehind the name.
+Dialogue: 0,0:03:28.33,0:03:31.06,Staff,,0,0,10,,How many people were there in your family?
+Dialogue: 0,0:03:31.16,0:03:32.74,Jimmy,,0,0,10,,My family was...
+Dialogue: 0,0:03:32.74,0:03:36.98,Jimmy,,0,0,10,,My dad, my mom...um...
+Dialogue: 0,0:03:36.98,0:03:37.60,Hamada,,0,0,10,,Say it quickly!
+Dialogue: 0,0:03:37.60,0:03:39.60,Jimmy,,0,0,10,,My older brother and me for a total of four.
+Dialogue: 0,0:03:37.60,0:03:39.60,Matsumoto,,0,0,10,,{\pos(236.981,927.207)}Wow, that's scary.
+Dialogue: 0,0:03:40.57,0:03:42.81,Jimmy,,0,0,10,,Jimmy was raised in a family of four.
+Dialogue: 0,0:03:41.68,0:03:43.84,Matsumoto,,0,0,0,,{\pos(418.113,875.028)}Why didn't you remember your brother?
+Dialogue: 0,0:03:42.85,0:03:45.25,Jimmy,,0,0,10,,But what were his parent's {\3c&H000000&\c&H00FFEE&}personalities{\c&HFFFFFF&} like?
+Dialogue: 0,0:03:45.40,0:03:49.58,Staff,,0,0,10,,I'd like to know what kind of people were your parents.
+Dialogue: 0,0:03:49.76,0:03:51.89,Jimmy,,0,0,10,,My dad was...
+Dialogue: 0,0:03:52.24,0:03:56.90,Jimmy,,0,0,10,,an alcoholic... so he drank all day.
+Dialogue: 0,0:03:56.90,0:03:59.92,Staff,,0,0,10,,What kind of father was he at home? Was he scary?
+Dialogue: 0,0:03:59.92,0:04:02.14,Jimmy,,0,0,10,,He had a lover so...
+Dialogue: 0,0:04:02.14,0:04:05.60,Jimmy,,0,0,10,,He didn't spend much time at home.
+Dialogue: 0,0:04:05.68,0:04:10.90,Staff,,0,0,10,,{\fad(250,250)}{\pos(994.717,1076.034)}When did you learn he had a lover?
+Dialogue: 0,0:04:11.00,0:04:15.20,Jimmy,,0,0,10,,Some time before my dad retired...my mom...
+Dialogue: 0,0:04:15.20,0:04:21.76,Jimmy,,0,0,10,,found a letter from his lover inside his suit's inner pocket.
+Dialogue: 0,0:04:21.76,0:04:25.73,Jimmy,,0,0,10,,When she opened and read it, it said... um...
+Dialogue: 0,0:04:26.36,0:04:37.04,Staff,,0,0,0,,{\fad(250,0)\pos(638.491,852.905)}{\i1\4c&HFFFFFF&\4a&HFF&\pos(721.51,854.916)}I've been by your side for{\i0}
+Dialogue: 0,0:04:30.28,0:04:37.04,Staff,,0,0,0,,{\fad(250,0)\pos(976.604,852.905)}{\i1\4c&HFFFFFF&\4a&HFF&\pos(721.51,854.916)}35 years,{\i0}
+Dialogue: 0,0:04:32.09,0:04:33.80,Staff,,0,0,10,,That long?
+Dialogue: 0,0:04:33.13,0:04:33.77,Jimmy,,0,0,0,,Yeah.
+Dialogue: 0,0:04:33.77,0:04:37.04,Staff,,0,0,0,,{\fad(250,0)}{\pos(718.491,915.084)}{\i1\4c&HFFFFFF&\4a&HFA&}thank you for making me so happy.
+Dialogue: 0,0:04:37.04,0:04:39.94,Jimmy,,0,0,10,,{\pos(991.698,1076.034)}I thought he did a really good job hiding it.
+Dialogue: 0,0:04:40.60,0:04:43.56,Jimmy,,0,0,10,,{\pos(774.34,1061.955)}Next, an episode about his {\c&H00FFEE&\3c&H000000&}mother{\c&HFFFFFF&}.
+Dialogue: 0,0:04:43.56,0:04:46.01,Staff,,0,0,0,,What kind of parent was your mother?
+Dialogue: 0,0:04:46.22,0:04:49.73,Jimmy,,0,0,10,,She used to work at the cafeteria of what is now NTT.
+Dialogue: 0,0:04:49.74,0:04:53.48,Jimmy,,0,0,10,,"You won't be able to speak on the same level as your parents
+Dialogue: 0,0:04:53.48,0:04:58.74,Jimmy,,0,0,10,,until you start bringing your own money to the house."
+Dialogue: 0,0:04:59.17,0:05:01.37,Jimmy,,0,0,10,,She used to say that.
+Dialogue: 0,0:05:01.37,0:05:04.78,Jimmy,,0,0,10,,That's why I started delivering newspapers since the 4th grade.
+Dialogue: 0,0:05:04.78,0:05:06.38,Staff,,0,0,10,,Really?
+Dialogue: 0,0:05:05.64,0:05:06.28,Jimmy,,0,0,0,,{\pos(713.962,945.419)}Yeah.
+Dialogue: 0,0:05:06.38,0:05:11.08,Jimmy,,0,0,0,,{\pos(1053.585,651.788)}I was a young worker.
+Dialogue: 0,0:05:08.72,0:05:10.64,Staff,,0,0,0,,I see.
+Dialogue: 0,0:05:11.16,0:05:15.36,Staff,,0,0,10,,I'd like to learn about the influence your parents gave you.
+Dialogue: 0,0:05:15.42,0:05:19.02,Staff,,0,0,10,,First, what kind of influence did you get from your father?
+Dialogue: 0,0:05:19.02,0:05:21.81,Jimmy,,0,0,10,,My dad taught me...
+Dialogue: 0,0:05:21.81,0:05:25.34,Jimmy,,0,0,10,,"Imagine everyone around you is a thief."
+Dialogue: 0,0:05:25.34,0:05:27.41,Jimmy,,0,0,10,,My mom taught me...
+Dialogue: 0,0:05:27.50,0:05:30.42,Jimmy,,0,0,10,,"Don't touch other people's belongings."
+Dialogue: 0,0:05:30.42,0:05:34.05,Matsumoto,,0,0,10,,Something like the {\c&H000000&}shield and the spear.
+Dialogue: 0,0:05:32.92,0:05:34.54,Tanaka,,0,0,0,,{\pos(217.359,901.173)}Opposite... \Nthey're opposite.
+Dialogue: 0,0:05:34.16,0:05:35.04,Endo,,0,0,0,,{\pos(1207.548,885.084)}Complete opposite.
+Dialogue: 0,0:05:36.12,0:05:41.34,Narrator,,0,0,10,,Growing up in that family, what kind of child was Jimmy?
+Dialogue: 0,0:05:41.50,0:05:44.10,Staff,,0,0,0,,I'd also like to ask about kindergarten.
+Dialogue: 0,0:05:44.10,0:05:46.61,Staff,,0,0,10,,Do you remember anything about kindergarten?
+Dialogue: 0,0:05:46.70,0:05:49.24,Jimmy,,0,0,10,,According to things I've heard from others...
+Dialogue: 0,0:05:49.24,0:05:52.34,Jimmy,,0,0,10,,I was always alone... um...
+Dialogue: 0,0:05:52.45,0:05:56.41,Jimmy,,0,0,10,,playing with wooden blocks or pretending I was a train.
+Dialogue: 0,0:05:56.41,0:06:01.14,Jimmy,,0,0,10,,I guess I didn't mix too well with everyone else... um...
+Dialogue: 0,0:06:01.14,0:06:03.62,Jimmy,,0,0,10,,I wasn't able to speak at first.
+Dialogue: 0,0:06:03.62,0:06:06.32,Jimmy,,0,0,10,,My mom said "I'll take him to the hospital."
+Dialogue: 0,0:06:06.32,0:06:09.20,Jimmy,,0,0,10,,My grandmother said "It won't do any good if you take him."
+Dialogue: 0,0:06:09.20,0:06:12.76,Jimmy,,0,0,10,,"He'll learn to speak eventually." And well...
+Dialogue: 0,0:06:12.92,0:06:18.06,Jimmy,,0,0,10,,In elementary school there was a girl I really liked.
+Dialogue: 0,0:06:18.06,0:06:22.70,Jimmy,,0,0,10,,So the first word I spoke was "like".
+Dialogue: 0,0:06:22.70,0:06:26.24,Jimmy,,0,0,10,,I liked a girl called Maki.
+Dialogue: 0,0:06:26.44,0:06:30.38,Jimmy,,0,0,10,,After saying "Let's play together during summer"...
+Dialogue: 0,0:06:30.38,0:06:32.45,Jimmy,,0,0,10,,she got some kind of disease and...
+Dialogue: 0,0:06:32.45,0:06:36.84,Jimmy,,0,0,10,,she passed away in September of that year.
+Dialogue: 0,0:06:37.01,0:06:40.40,Staff,,0,0,10,,What kind of relationship did you have?
+Dialogue: 0,0:06:40.40,0:06:43.60,Jimmy,,0,0,10,,Well, rather than a romantic relationship...
+Dialogue: 0,0:06:43.60,0:06:45.64,Jimmy,,0,0,10,,it was more like a little love.
+Dialogue: 0,0:06:45.64,0:06:47.09,Hamada,,0,0,0,,What are you even talking about?
+Dialogue: 0,0:06:49.33,0:06:51.78,Staff,,0,0,10,,Were you able to make friends during elementary school?
+Dialogue: 0,0:06:51.78,0:06:53.50,Jimmy,,0,0,10,,During elementary school...
+Dialogue: 0,0:06:53.60,0:07:00.50,Jimmy,,0,0,10,,Between 3th and 4th grade I made more and more friends.
+Dialogue: 0,0:07:00.50,0:07:03.97,Staff,,0,0,10,,What helped you make so many friends?
+Dialogue: 0,0:07:04.04,0:07:09.44,Jimmy,,0,0,10,,I guess it was thanks to me telling Maki I liked her.
+Dialogue: 0,0:07:09.44,0:07:13.21,Jimmy,,0,0,10,,Everyone was surprised that I could actually speak.
+Dialogue: 0,0:07:13.21,0:07:17.42,Jimmy,,0,0,10,,And from there I began to slowly learn how to speak Japanese.
+Dialogue: 0,0:07:16.45,0:07:17.73,Hamada,,0,0,0,,{\pos(1162.264,911.229)}What the hell?
+Dialogue: 0,0:07:18.02,0:07:19.40,Matsumoto,,0,0,0,,{\pos(1192.452,913.24)}You sound like a kid \Nreturning to Japan.
+Dialogue: 0,0:07:17.54,0:07:21.05,Jimmy,,0,0,10,,Things like being able to say my own name.
+Dialogue: 0,0:07:21.94,0:07:23.08,Matsumoto,,0,0,0,,That makes me angry.
+Dialogue: 0,0:07:23.08,0:07:25.08,Hamada,,0,0,0,,You couldn't have spoken anything other than Japanese.
+Dialogue: 0,0:07:25.66,0:07:31.53,Title 2 - White,,0,0,5,,{\fad(250,250)}{\pos(406.037,881.928)}He experienced his {\c&H8D42EE&}first love {\c&HFFFFFF&}\Nand his {\c&HF4795C&}first farewell {\c&HFFFFFF&}during \Nhis elementary school years.
+Dialogue: 0,0:07:28.48,0:07:31.41,Hamada,,0,0,0,,{\pos(1059.622,1043.966)}Your face hasn't changed at all.
+Dialogue: 0,0:07:31.60,0:07:35.40,Jimmy,,0,0,10,,{\c&H00FEE7&}What will he say when asked about his earliest memory?
+Dialogue: 0,0:07:35.48,0:07:41.28,Staff,,0,0,10,,What is the earliest memory you can remember? If you can.
+Dialogue: 0,0:07:41.28,0:07:43.57,Jimmy,,0,0,10,,I can't recall anything.
+Dialogue: 0,0:07:43.57,0:07:47.24,Jimmy,,0,0,10,,Just that there was this big stone over me.
+Dialogue: 0,0:07:47.24,0:07:48.09,Staff,,0,0,10,,A big stone?
+Dialogue: 0,0:07:48.09,0:07:51.30,Jimmy,,0,0,10,,My body was laying under a big stone.
+Dialogue: 0,0:07:51.30,0:07:53.30,Jimmy,,0,0,10,,That's the only thing I can remember.
+Dialogue: 0,0:07:51.30,0:07:53.30,Matsumoto,,0,0,10,,{\pos(1129.057,917.151)}Are you Goku?
+Dialogue: 0,0:07:53.30,0:07:57.05,Matsumoto,,0,0,10,,Are you {\c&H000000&}Son Goku?! (Sun Wukong)
+Dialogue: 0,0:07:57.14,0:07:59.46,Staff,,0,0,10,,What do you think about that big stone?
+Dialogue: 0,0:07:59.92,0:08:04.45,Jimmy,,0,0,10,,It was a rock. I was under the rock.
+Dialogue: 0,0:08:02.57,0:08:03.37,Matsumoto,,0,0,0,,{\pos(224.906,909.218)}That was Goku.
+Dialogue: 0,0:08:03.37,0:08:04.45,Yamazaki,,0,0,0,,{\pos(190.188,905.196)}Definitely.
+Dialogue: 0,0:08:04.52,0:08:05.97,Yamazaki,,0,0,0,,{\pos(264.15,909.218)}Being trapped by a rock.
+Dialogue: 0,0:08:06.06,0:08:08.58,Matsumoto,,0,0,0,,{\pos(223.396,941.398)}That's when Sanzo \NHoshi helps him.
+Dialogue: 0,0:08:04.45,0:08:08.61,Jimmy,,0,0,10,,I couldn't knock the rock off me.
+Dialogue: 0,0:08:10.00,0:08:11.89,Narrator,,0,0,10,,And after that...
+Dialogue: 0,0:08:11.90,0:08:14.74,Jimmy,,0,0,10,,It's size was about from there all the way over here.
+Dialogue: 0,0:08:15.06,0:08:19.94,Jimmy,,0,0,10,,I couldn't knock it off so I tried to slip out like this.
+Dialogue: 0,0:08:15.68,0:08:19.94,Title 2 - White,,0,0,10,,{\fad(250,250)}{\pos(704.906,913.128)}The story of the mysterious rock continues
+Dialogue: 0,0:08:20.22,0:08:22.36,Staff,,0,0,10,,So then...
+Dialogue: 0,0:08:22.36,0:08:28.42,Jimmy,,0,0,10,,Let's say this was the rock, I was just stuck going like this...
+Dialogue: 0,0:08:28.42,0:08:30.76,Jimmy,,0,0,0,,Because I couldn't knock the rock off me.
+Dialogue: 0,0:08:29.74,0:08:32.29,Hamada,,0,0,0,,Enough about the rock!
+Dialogue: 0,0:08:32.29,0:08:35.49,Endo,,0,0,0,,He's been going on forever about the rock.
+Dialogue: 0,0:08:38.69,0:08:42.01,Title 2 - White,,0,0,5,,Once again we try to identify the real identity of this {\c&H422CDF&}rock.
+Dialogue: 0,0:08:42.37,0:08:46.33,Staff,,0,0,10,,In your opinion, what exactly was that rock?
+Dialogue: 0,0:08:46.41,0:08:48.69,Jimmy,,0,0,10,,It was a rock.
+Dialogue: 0,0:08:48.69,0:08:50.84,Matsumoto,,0,0,0,,Yeah, you've made that very clear.
+Dialogue: 0,0:08:52.32,0:08:55.80,Jimmy,,0,0,5,,That's seriously all I can remember about the rock.
+Dialogue: 0,0:08:56.69,0:08:59.74,Title 2 - White,,0,0,0,,{\fad(250,250)\pos(721.51,714.134)}Time: 1 hour and 23 minutes
+Dialogue: 0,0:08:56.69,0:08:59.74,Narrator,,0,0,0,,Jimmy Onishi's 24 Hour Long Interview
+Dialogue: 0,0:09:00.46,0:09:04.06,Narrator,,0,0,10,,We're still at the beginning of Jimmy's history.
+Dialogue: 0,0:09:04.16,0:09:07.65,Staff,,0,0,0,,Now I'd like to ask about your elementary school years.
+Dialogue: 0,0:09:07.65,0:09:09.96,Staff,,0,0,10,,How well did you do in school?
+Dialogue: 0,0:09:09.96,0:09:13.48,Jimmy,,0,0,10,,I didn't do well at all.
+Dialogue: 0,0:09:13.78,0:09:16.62,Jimmy,,0,0,10,,Every time I brought my report card home,
+Dialogue: 0,0:09:16.62,0:09:18.62,Jimmy,,0,0,10,,my mom would...
+Dialogue: 0,0:09:18.62,0:09:20.62,Jimmy,,0,0,10,,she called me Hide-chan.
+Dialogue: 0,0:09:20.62,0:09:25.05,Jimmy,,0,0,10,,"Hide-chan, your report card is like a marathon."
+Dialogue: 0,0:09:25.05,0:09:28.49,Jimmy,,0,0,10,,"It goes 1, 2, 1, 2."
+Dialogue: 0,0:09:32.26,0:09:37.16,Staff,,0,0,10,,Did you learn any skill during elementary school?
+Dialogue: 0,0:09:36.20,0:09:37.09,Jimmy,,0,0,0,,{\pos(710.943,939.385)}Yes.
+Dialogue: 0,0:09:37.26,0:09:38.16,Jimmy,,0,0,10,,The abacus.
+Dialogue: 0,0:09:38.28,0:09:40.02,Staff,,0,0,10,,Using the abacus?
+Dialogue: 0,0:09:38.78,0:09:40.09,Jimmy,,0,0,0,,{\pos(710.943,937.375)}Yes.
+Dialogue: 0,0:09:40.17,0:09:43.12,Jimmy,,0,0,10,,But I didn't earn a grade for learning it.
+Dialogue: 0,0:09:43.12,0:09:46.14,Jimmy,,0,0,10,,I got an award for my effort.
+Dialogue: 0,0:09:45.08,0:09:47.01,Matsumoto,,0,0,0,,{\pos(1180.377,905.195)}You didn't get a grade?
+Dialogue: 0,0:09:46.14,0:09:48.89,Staff,,0,0,10,,Why did they give you an award for your effort?
+Dialogue: 0,0:09:48.97,0:09:52.40,Jimmy,,0,0,10,,No matter what, I just couldn't earn a grade.
+Dialogue: 0,0:09:52.46,0:09:56.26,Jimmy,,0,0,10,,So in the end they just gave me the award.
+Dialogue: 0,0:09:56.38,0:09:59.52,Staff,,0,0,0,,{\pos(1032.453,1074.134)}How long did you practice it?
+Dialogue: 0,0:09:58.17,0:09:59.52,Jimmy,,0,0,0,,{\pos(1153.208,812.682)}3 years.
+Dialogue: 0,0:10:00.84,0:10:02.85,Yamazaki,,0,0,0,,And you couldn't get a grade?
+Dialogue: 0,0:10:02.85,0:10:05.18,Endo,,0,0,0,,After 3 years they should have just given you a grade.
+Dialogue: 0,0:10:06.24,0:10:08.56,Narrator,,0,0,10,,{\c&H00FFEC&\3c&H000000&}Jimmy was really bad at school, but...
+Dialogue: 0,0:10:08.65,0:10:11.92,Narrator,,0,0,10,,{\c&H00FFEC&\3c&H000000&}along with the abacus, he practiced something else...
+Dialogue: 0,0:10:12.14,0:10:15.24,Staff,,0,0,10,,You practiced baseball, right Jimmy?
+Dialogue: 0,0:10:13.41,0:10:15.20,Jimmy,,0,0,0,,{\pos(710.943,945.419)}Yeah, I uh...
+Dialogue: 0,0:10:15.25,0:10:17.41,Jimmy,,0,0,10,,When I was younger...
+Dialogue: 0,0:10:17.41,0:10:22.04,Jimmy,,0,0,10,,I would do things like XXXXX and XXXXX.
+Dialogue: 0,0:10:22.50,0:10:23.82,Staff,,0,0,0,,{\pos(720,1007.766)}You did bad things.
+Dialogue: 0,0:10:23.25,0:10:25.97,Jimmy,,0,0,10,,I would do very bad things so,
+Dialogue: 0,0:10:26.01,0:10:29.78,Jimmy,,0,0,10,,I was pretty much forced into baseball.
+Dialogue: 0,0:10:30.80,0:10:34.78,Jimmy,,0,0,10,,{\fad(250,250)\pos(730.566,1070)}Jimmy was a {\c&H3F2DDC&}naughty kid{\c&HFFFFFF&} who loved mischief.
+Dialogue: 0,0:10:34.92,0:10:39.72,Narrator,,0,0,10,,Who was your best friend during elementary school?
+Dialogue: 0,0:10:39.86,0:10:42.58,Jimmy,,0,0,10,,The bathhouse's XXX-kun
+Dialogue: 0,0:10:42.58,0:10:44.10,Narrator,,0,0,10,,What kind of person was he?
+Dialogue: 0,0:10:44.10,0:10:47.44,Jimmy,,0,0,10,,He used to peep at the baths a lot.
+Dialogue: 0,0:10:47.56,0:10:49.72,Staff,,0,0,10,,The women's bath?
+Dialogue: 0,0:10:48.41,0:10:49.70,Jimmy,,0,0,0,,{\pos(712.453,943.408)}The women's bath.
+Dialogue: 0,0:10:49.97,0:10:51.84,Jimmy,,0,0,10,,When I went to his house we would always
+Dialogue: 0,0:10:51.89,0:10:54.65,Jimmy,,0,0,10,, peep from above for a long time.
+Dialogue: 0,0:10:55.10,0:11:00.77,Jimmy,,0,0,10,,{\fad(250,250)}We wanted to ask more about Jimmy's {\c&H00FFEC&}thoughts {\c&HFFFFFF&}on his best friend.
+Dialogue: 0,0:11:00.81,0:11:04.98,Staff,,0,0,10,,How do you regard XXX-kun?
+Dialogue: 0,0:11:04.99,0:11:08.14,Jimmy,,0,0,10,,Well, he taught me how to masturbate so...
+Dialogue: 0,0:11:08.14,0:11:10.76,Jimmy,,0,0,10,,He's my lewd benefactor.
+Dialogue: 0,0:11:11.01,0:11:12.65,Yamazaki,,0,0,0,,She didn't ask you that.
+Dialogue: 0,0:11:11.21,0:11:12.65,Matsumoto,,0,0,0,,You're talking nonsense.
+Dialogue: 0,0:11:12.65,0:11:14.65,Endo,,0,0,0,,The interview is gonna continue like this...
+Dialogue: 0,0:11:15.73,0:11:18.54,Staff,,0,0,10,,Was that the awakening of your sexuality during puberty?
+Dialogue: 0,0:11:18.76,0:11:22.81,Jimmy,,0,0,10,,I'd say my puberty started since the 5th grade.
+Dialogue: 0,0:11:22.81,0:11:25.50,Jimmy,,0,0,10,,I haven't missed a single day since then.
+Dialogue: 0,0:11:25.53,0:11:29.66,Staff,,0,0,0,,{\pos(1231.698,913.24)}Missed what?
+Dialogue: 0,0:11:26.80,0:11:29.66,Jimmy,,0,0,0,,{\pos(1169.811,692.011)}Masturbating.
+Dialogue: 0,0:11:29.73,0:11:32.16,Staff,,0,0,0,,Since the 5th grade?
+Dialogue: 0,0:11:32.32,0:11:38.45,Jimmy,,0,0,10,,I've masturbated without missing a single day since the 5th grade.
+Dialogue: 0,0:11:38.45,0:11:42.61,Jimmy,,0,0,10,,I guess today will be the first time.
+Dialogue: 0,0:11:42.18,0:11:44.18,Staff,,0,0,0,,The first time?
+Dialogue: 0,0:11:38.73,0:11:41.14,Endo,,0,0,0,,{\pos(1178.868,917.262)}This must be scary \Nfor the interviewer.
+Dialogue: 0,0:11:41.42,0:11:43.02,Matsumoto,,0,0,0,,{\pos(1168.302,907.207)}Because she's a girl.
+Dialogue: 0,0:11:44.25,0:11:46.40,Yamazaki,,0,0,0,,That interviewer must have been trembling.
+Dialogue: 0,0:11:45.21,0:11:46.98,Matsumoto,,0,0,0,,She accepted the job.
+Dialogue: 0,0:11:46.78,0:11:48.68,Yamazaki,,0,0,0,,She must have been shaking then too...
+Dialogue: 0,0:11:49.01,0:11:52.42,Staff,,0,0,10,,How many times did you use to do it?
+Dialogue: 0,0:11:52.42,0:11:54.81,Jimmy,,0,0,10,,At least 5 times every day.
+Dialogue: 0,0:11:54.81,0:11:57.21,Jimmy,,0,0,10,,The most was...
+Dialogue: 0,0:11:57.21,0:12:00.00,Jimmy,,0,0,10,,about 13 times I think.
+Dialogue: 0,0:12:00.85,0:12:04.64,Jimmy,,0,0,10,,An elementary school student who followed his {\c&H422CDF&}instincts.
+Dialogue: 0,0:12:05.44,0:12:08.56,Jimmy,,0,0,0,,{\fad(250,250)}{\c&H00FFEC&\pos(1032.453,1074.134)}We tried asking a simple question.
+Dialogue: 0,0:12:08.69,0:12:14.86,Staff,,0,0,10,,Can you tell me your schedule for a day back then?
+Dialogue: 0,0:12:14.86,0:12:19.53,Jimmy,,0,0,10,,I woke up at 2:30 AM to deliver newspapers,
+Dialogue: 0,0:12:19.53,0:12:23.09,Jimmy,,0,0,10,,finished between 5:00 and 6:00 AM,
+Dialogue: 0,0:12:25.33,0:12:27.26,Jimmy,,0,0,10,,I ran home...
+Dialogue: 0,0:12:27.26,0:12:29.66,Jimmy,,0,0,10,,and {\c&HA864F1&}masturbated{\c&HFFFFFF&},
+Dialogue: 0,0:12:29.66,0:12:31.66,Jimmy,,0,0,10,,ate breakfast...
+Dialogue: 0,0:12:32.58,0:12:34.17,Jimmy,,0,0,10,,and {\c&HA864F1&}masturbated{\c&HFFFFFF&},
+Dialogue: 0,0:12:34.25,0:12:36.05,Jimmy,,0,0,10,,and went to school...
+Dialogue: 0,0:12:36.33,0:12:38.76,Jimmy,,0,0,10,,I ate my lunch,
+Dialogue: 0,0:12:38.76,0:12:41.89,Jimmy,,0,0,10,,and went to the restroom to {\c&HA864F1&}masturbate{\c&HFFFFFF&},
+Dialogue: 0,0:12:43.49,0:12:45.82,Jimmy,,0,0,10,,I went back home,
+Dialogue: 0,0:12:45.82,0:12:47.82,Jimmy,,0,0,10,,and {\c&HA864F1&}masturbated{\c&HFFFFFF&},
+Dialogue: 0,0:12:46.44,0:12:47.42,Hamada,,0,0,0,,{\pos(1221.132,788.548)}Stop that!
+Dialogue: 0,0:12:47.82,0:12:50.22,Jimmy,,0,0,10,,went to baseball practice, went back home and...
+Dialogue: 0,0:12:50.24,0:12:52.89,Jimmy,,0,0,10,,and {\c&HA864F1&}masturbated{\c&HFFFFFF&}...
+Dialogue: 0,0:12:55.69,0:12:56.84,Staff,,0,0,10,,And you went to sleep.
+Dialogue: 0,0:12:58.14,0:13:01.50,Jimmy,,0,0,10,,then I went to sleep but if I woke up to go to the toilet,
+Dialogue: 0,0:13:01.50,0:13:03.50,Jimmy,,0,0,10,,I would {\c&HA864F1&}masturbate{\c&HFFFFFF&} again.
+Dialogue: 0,0:13:05.77,0:13:11.05,Jimmy,,0,0,10,,And then it was 2 in the morning again.
+Dialogue: 0,0:13:14.61,0:13:17.36,Staff,,0,0,0,,{\pos(600.755,462.737)}Your lunch is here.
+Dialogue: 0,0:13:18.34,0:13:21.44,Narrator,,0,0,0,,{\pos(950.944,1003.742)}Lunch time takes place at 12:50.
+Dialogue: 0,0:13:17.93,0:13:22.90,Jimmy,,0,0,0,,{\fad(250,250)\4c&H000000&\4a&HFF&\pos(330.567,1076.145)}Time: 2 hours 47 minutes
+Dialogue: 0,0:13:23.94,0:13:28.36,Narrator,,0,0,0,,Today's menu is egg drop soup and shrimp fried rice.
+Dialogue: 0,0:13:30.88,0:13:34.80,Matsumoto,,0,0,10,,Middle aged guys shouldn't eat unbalanced meals.
+Dialogue: 0,0:13:34.80,0:13:39.12,Staff,,0,0,10,,Do you prefer Japanese, Western, or Chinese food?
+Dialogue: 0,0:13:39.54,0:13:42.04,Jimmy,,0,0,10,,Western.
+Dialogue: 0,0:13:40.60,0:13:41.98,Staff,,0,0,10,,{\pos(735.095,913.129)}Western-style food?
+Dialogue: 0,0:13:42.14,0:13:43.88,Staff,,0,0,10,,What kind of Western-style food?
+Dialogue: 0,0:13:44.29,0:13:45.81,Jimmy,,0,0,0,,Food like...
+Dialogue: 0,0:13:46.37,0:13:48.53,Jimmy,,0,0,0,,fried prawn and...
+Dialogue: 0,0:13:49.28,0:13:51.46,Jimmy,,0,0,0,,Salisbury steak...
+Dialogue: 0,0:13:55.08,0:13:56.86,Matsumoto,,0,0,0,,{\pos(1264.905,374.246)}That's just \Nwrong...
+Dialogue: 0,0:13:59.60,0:14:02.02,Yamazaki,,0,0,0,,{\pos(1258.868,384.302)}He's slurping \Npretty hard.
+Dialogue: 0,0:14:06.16,0:14:09.04,Matsumoto,,0,0,0,,{\pos(1261.887,380.28)}I can't watch \Nthis anymore.
+Dialogue: 0,0:14:10.92,0:14:13.93,Title 2 - White,,0,0,0,,{\fad(250,250)\pos(727.547,708.101)}Time: 3 hours 32 minutes.
+Dialogue: 0,0:14:11.84,0:14:13.69,Narrator,,0,0,0,,It's 1:36 PM.
+Dialogue: 0,0:14:14.30,0:14:17.29,Narrator,,0,0,10,,After eating a meal and recovering lost stamina,
+Dialogue: 0,0:14:17.29,0:14:20.72,Narrator,,0,0,10,,the interview continues with his middle school years.
+Dialogue: 0,0:14:21.17,0:14:24.78,Staff,,0,0,10,,I'd like to know more about your middle school years.
+Dialogue: 0,0:14:23.78,0:14:24.58,Jimmy,,0,0,10,,Sure.
+Dialogue: 0,0:14:24.78,0:14:28.04,Staff,,0,0,10,,What kind of middle school did you attend?
+Dialogue: 0,0:14:28.04,0:14:31.00,Jimmy,,0,0,10,,My middle school was...
+Dialogue: 0,0:14:31.36,0:14:34.22,Jimmy,,0,0,10,,Well, I was in the baseball and judo clubs.
+Dialogue: 0,0:14:34.22,0:14:37.48,Staff,,0,0,10,,Did you have a nickname in middle school?
+Dialogue: 0,0:14:37.94,0:14:39.90,Jimmy,,0,0,10,,It was a long nickname but...
+Dialogue: 0,0:14:39.90,0:14:43.10,Jimmy,,0,0,10,,"Guts Ishimatsu's face after losing a match"
+Dialogue: 0,0:14:43.36,0:14:47.56,Jimmy,,0,0,10,,Because my face looked just like when he lost...
+Dialogue: 0,0:14:47.56,0:14:51.70,Jimmy,,0,0,10,,Guts Ishimatsu's face when he lost a match.
+Dialogue: 0,0:14:49.97,0:14:52.06,Matsumoto,,0,0,0,,{\pos(1172.83,808.659)}Definitely not his \Nface when he won.
+Dialogue: 0,0:14:52.54,0:14:54.37,Jimmy,,0,0,10,,They called me "Guts".
+Dialogue: 0,0:14:54.56,0:14:56.37,Matsumoto,,0,0,10,,So then they just called you {\c&H000000&}"Guts"{\c&H1528D6&}!
+Dialogue: 0,0:14:57.12,0:15:00.13,Staff,,0,0,10,,Who's your favorite artist?
+Dialogue: 0,0:15:00.21,0:15:03.24,Jimmy,,0,0,10,,Inoue Yosui
+Dialogue: 0,0:15:03.46,0:15:07.92,Jimmy,,0,0,10,,I really love "Yume no Naka e".
+Dialogue: 0,0:15:08.85,0:15:13.73,Jimmy,,0,0,10,,The way the song takes hold of one's heart.
+Dialogue: 0,0:15:14.06,0:15:16.70,Title 2 - White,,0,0,0,,{\fad(250,250)\pos(716.981,712.123)}Time: 3 hours and 50 minutes
+Dialogue: 0,0:15:14.74,0:15:17.21,Jimmy,,0,0,0,,It's been 3 hours and 50 minutes since the start.
+Dialogue: 0,0:15:17.21,0:15:20.50,Jimmy,,0,0,0,,Around this time something \N{\c&H3F2DDC&}unusual {\c&HFFFFFF&}happens to Jimmy.
+Dialogue: 0,0:15:20.61,0:15:26.74,Staff,,0,0,10,,What does the song "Yume no Naka e" mean to you?
+Dialogue: 0,0:15:30.18,0:15:32.61,Endo,,0,0,0,,What's wrong? Wait a minute!
+Dialogue: 0,0:15:32.81,0:15:35.56,Hamada,,0,0,0,,The interviewer is asking you a question!
+Dialogue: 0,0:15:35.85,0:15:37.50,Yamazaki,,0,0,0,,He went into a dream.
+Dialogue: 0,0:15:35.85,0:15:39.46,TL Note,,0,0,0,,{\pos(704.905,66.536)}TL Note: Yume no Naka he = Into a Dream
+Dialogue: 0,0:15:37.49,0:15:39.77,Yamazaki,,0,0,0,,Is this some kind of hypnotism?
+Dialogue: 0,0:15:40.78,0:15:42.74,Yamazaki,,0,0,0,,He did go into a dream.
+Dialogue: 0,0:15:41.88,0:15:42.97,Hamada,,0,0,0,,You're kidding!
+Dialogue: 0,0:15:44.85,0:15:50.96,Title 2 - White,,0,0,0,,{\fad(250,100)\pos(1027.924,919.274)}Jimmy fell asleep...
+Dialogue: 0,0:15:47.78,0:15:48.89,Hamada,,0,0,0,,{\pos(289.811,1035.922)}They're asking you.
+Dialogue: 0,0:15:48.72,0:15:49.82,Endo,,0,0,0,,{\pos(292.83,931.341)}He's sleeping?
+Dialogue: 0,0:15:52.09,0:15:54.74,Staff,,0,0,10,,{\fad(250,250)\pos(1033.962,1072)}Jimmy, are you alright?
+Dialogue: 0,0:15:53.33,0:15:54.82,Jimmy,,0,0,0,,{\pos(433.207,1072)}Ah, you scared me.
+Dialogue: 0,0:15:56.10,0:15:56.73,Jimmy,,0,0,0,,Mornin'
+Dialogue: 0,0:15:58.74,0:16:01.21,Staff,,0,0,10,,You didn't get much sleep yesterday?
+Dialogue: 0,0:16:01.21,0:16:03.29,Jimmy,,0,0,10,,No, I did sleep but...
+Dialogue: 0,0:16:03.37,0:16:08.77,Jimmy,,0,0,10,,I just ate so I got kinda sleepy and dozed off. Sorry.
+Dialogue: 0,0:16:10.93,0:16:13.46,Jimmy,,0,0,10,,Can I go smoke a cigarette real quick?
+Dialogue: 0,0:16:12.68,0:16:13.41,Hamada,,0,0,0,,{\pos(185.66,901.173)}You can't.
+Dialogue: 0,0:16:13.73,0:16:15.88,Staff,,0,0,10,,Please hold it in for now.
+Dialogue: 0,0:16:16.96,0:16:21.26,Jimmy,,0,0,10,,{\fad(250,250)}After just 4 hours, Jimmy is assailed by {\c&H3F2DDC&}drowsiness{\c&HFFFFFF&}.
+Dialogue: 0,0:16:21.72,0:16:22.74,Title 2 - White,,0,0,0,,{\pos(724.528,692.011)}And after that...
+Dialogue: 0,0:16:29.72,0:16:30.70,Matsumoto,,0,0,0,,That's too fast.
+Dialogue: 0,0:16:30.93,0:16:32.04,Yamazaki,,0,0,0,,You're kidding, right?
+Dialogue: 0,0:16:32.13,0:16:34.26,Endo,,0,0,0,,Jimmy, that's way too fast.
+Dialogue: 0,0:16:35.02,0:16:35.92,Jimmy,,0,0,0,,It felt really good.
+Dialogue: 0,0:16:23.32,0:16:26.29,Staff,,0,0,10,,What made you start smoking?
+Dialogue: 0,0:16:32.48,0:16:34.37,Staff,,0,0,0,,{\pos(522.264,541.173)}Jimmy?
+Dialogue: 0,0:16:37.36,0:16:40.61,Staff,,0,0,10,,What made you start smoking?
+Dialogue: 0,0:16:38.94,0:16:41.70,Yamazaki,,0,0,0,,{\pos(723.019,929.33)}It looks like you've been up for 16 hours.
+Dialogue: 0,0:16:42.06,0:16:43.04,Staff,,0,0,0,,{\pos(522.264,541.173)}Jimmy?
+Dialogue: 0,0:16:42.66,0:16:43.44,Matsumoto,,0,0,0,,Not good.
+Dialogue: 0,0:16:44.73,0:16:48.09,Staff,,0,0,10,,What made you start smoking?
+Dialogue: 0,0:16:48.17,0:16:50.34,Staff,,0,0,0,,{\pos(605.283,589.441)}JIMMY!!
+Dialogue: 0,0:16:51.36,0:16:53.98,Staff,,0,0,10,,Wake up.
+Dialogue: 0,0:16:51.30,0:16:52.80,Yamazaki,,0,0,0,,{\pos(357.736,915.251)}What the hell is this!
+Dialogue: 0,0:16:53.69,0:16:54.78,Yamazaki,,0,0,0,,{\pos(357.736,915.251)}What the hell!
+Dialogue: 0,0:16:55.14,0:16:56.48,Matsumoto,,0,0,0,,{\pos(357.736,915.251)}This guy is a monster.
+Dialogue: 0,0:16:57.16,0:16:58.68,Hamada,,0,0,0,,{\pos(357.736,915.251)}This is too funny.
+Dialogue: 0,0:16:56.26,0:16:58.69,Staff,,0,0,10,,Please wake up.
+Dialogue: 0,0:16:58.73,0:17:02.78,Staff,,0,0,10,,Jimmy... Jimmy...
+Dialogue: 0,0:17:02.94,0:17:05.24,Staff,,0,0,10,,Jimmy!
+Dialogue: 0,0:17:03.80,0:17:05.81,Hamada,,0,0,0,,{\pos(1123.019,909.217)}How many times are \Nyou gonna do this?
+Dialogue: 0,0:17:05.58,0:17:07.30,Matsumoto,,0,0,0,,{\pos(357.736,915.251)}I can't, I can't
+Dialogue: 0,0:17:05.24,0:17:07.01,Jimmy,,0,0,0,,{\pos(1135.094,690)}Ah, a cigarette.
+Dialogue: 0,0:17:07.27,0:17:10.01,Hamada,,0,0,0,,If they showed us this during New Year's it'd be dangerous.
+Dialogue: 0,0:17:07.06,0:17:10.10,Staff,,0,0,0,,{\pos(525.283,579.385)}Jimmy!!
+Dialogue: 0,0:17:08.66,0:17:10.10,Staff,,0,0,0,,{\pos(774.34,581.396)}Please wake up.
+Dialogue: 0,0:17:11.82,0:17:13.97,Staff,,0,0,10,,Alright, different question.
+Dialogue: 0,0:17:14.05,0:17:15.20,Staff,,0,0,10,,I'll change the question.
+Dialogue: 0,0:17:15.30,0:17:17.98,Staff,,0,0,10,,Okay, what did you think of middle school?
+Dialogue: 0,0:17:18.02,0:17:22.45,Staff,,0,0,10,,What did middle school mean to you Jimmy?
+Dialogue: 0,0:17:21.18,0:17:22.38,Hamada,,0,0,0,,{\pos(1206.038,921.284)}Wake up!
+Dialogue: 0,0:17:23.94,0:17:25.52,Matsumoto,,0,0,0,,{\pos(233.962,929.33)}He's still at it.
+Dialogue: 0,0:17:24.90,0:17:25.66,Hamada,,0,0,0,,{\pos(1206.038,921.284)}Wake up!
+Dialogue: 0,0:17:28.72,0:17:30.60,Matsumoto,,0,0,0,,Seriously, this is against the rules.
+Dialogue: 0,0:17:30.78,0:17:35.54,Jimmy,,0,0,10,,The 24 hour {\c&H3F2DDC&}long interview won't be completed {\c&HFFFFFF&}if this continues.
+Dialogue: 0,0:17:35.68,0:17:37.61,Jimmy,,0,0,10,,Therefore...
+Dialogue: 0,0:17:36.66,0:17:38.73,Yamazaki,,0,0,0,,{\pos(342.642,877.04)}Yeah, take him somewhere cold.
+Dialogue: 0,0:17:35.64,0:17:36.74,Hamada,,0,0,0,,{\pos(326.038,794.581)}They should take him outside!
+Dialogue: 0,0:17:36.45,0:17:37.22,Tanaka,,0,0,0,,{\pos(316.981,724.19)}Yeah.
+Dialogue: 0,0:17:37.70,0:17:40.24,Staff,,0,0,0,,{\pos(594.717,517.039)}Jimmy!!
+Dialogue: 0,0:17:39.28,0:17:40.62,Jimmy,,0,0,0,,Can I go smoke real quick?
+Dialogue: 0,0:17:40.64,0:17:41.72,Matsumoto,,0,0,0,,{\pos(215.849,921.284)}You can't.
+Dialogue: 0,0:17:41.12,0:17:45.38,Staff,,0,0,10,,We're going somewhere else to continue.
+Dialogue: 0,0:17:45.62,0:17:47.96,Staff,,0,0,10,,Well then, let's go outside.
+Dialogue: 0,0:17:49.54,0:17:54.80,Jimmy,,0,0,10,,Jimmy is taken out of the room in order to wake him up.
+Dialogue: 0,0:17:52.97,0:17:54.24,Hamada,,0,0,0,,{\pos(211.321,913.24)}Of course.
+Dialogue: 0,0:17:58.74,0:18:02.80,Staff,,0,0,0,,{\pos(318.491,860.95)}Do you always doze off?
+Dialogue: 0,0:18:00.06,0:18:02.81,Jimmy,,0,0,0,,{\pos(1040,933.352)}I get sleepy after eating.
+Dialogue: 0,0:18:02.97,0:18:06.52,Jimmy,,0,0,10,,Today is gonna be tough if you won't let me sleep.
+Dialogue: 0,0:18:06.61,0:18:08.97,Jimmy,,0,0,10,,!@#$%&。
+Dialogue: 0,0:18:08.98,0:18:10.41,Staff,,0,0,10,,What was that?
+Dialogue: 0,0:18:09.37,0:18:11.66,Jimmy,,0,0,10,,{\pos(721.509,947.319)}Figure it out.
+Dialogue: 0,0:18:12.18,0:18:13.82,Hamada,,0,0,0,,Nobody could understand that.
+Dialogue: 0,0:18:15.61,0:18:20.52,Staff,,0,0,10,,Jimmy, do you usually go for walks?
+Dialogue: 0,0:18:20.78,0:18:23.28,Jimmy,,0,0,10,,Only when I need to buy something.
+Dialogue: 0,0:18:24.44,0:18:28.01,Jimmy,,0,0,0,,{\fad(250,100}Surrounded by chilly air, they walk towards their {\c&H00FFEC&}destination{\c&HFFFFFF&}.
+Dialogue: 0,0:18:28.05,0:18:30.69,Staff,,0,0,10,,Which city do you prefer, Tokyo or Osaka?
+Dialogue: 0,0:18:30.73,0:18:33.37,Jimmy,,0,0,10,,There's nice things in Tokyo and nice things in Osaka so...
+Dialogue: 0,0:18:33.37,0:18:35.94,Jimmy,,0,0,10,,I can't really pick one over the other.
+Dialogue: 0,0:18:36.61,0:18:38.68,Matsumoto,,0,0,0,,{\pos(1021.887,967.542)}It's weird how you keep slurring words.
+Dialogue: 0,0:18:36.14,0:18:39.88,Jimmy,,0,0,0,,{\pos(316.981,856.927)}Time: 5 hours 3 minutes
+Dialogue: 0,0:18:38.01,0:18:40.42,Narrator,,0,0,10,,The interview will continue in this theater,
+Dialogue: 0,0:18:40.42,0:18:42.42,Narrator,,0,0,10,,starting with the high school years.
+Dialogue: 0,0:18:44.28,0:18:48.16,Staff,,0,0,10,,First, what sort of high school did you enter?
+Dialogue: 0,0:18:48.24,0:18:52.21,Jimmy,,0,0,10,,Well, I got into high school with a baseball recommendation.
+Dialogue: 0,0:18:52.30,0:18:54.93,Staff,,0,0,10,,How strong was your school?
+Dialogue: 0,0:18:54.93,0:18:57.54,Jimmy,,0,0,10,,I'd say we were in the top 4.
+Dialogue: 0,0:18:57.61,0:19:00.58,Jimmy,,0,0,10,,The team won a tournament with private schools...
+Dialogue: 0,0:19:00.77,0:19:03.48,Jimmy,,0,0,10,,{\pos(771.321,1074.022)}Back then PL Gakuen High even had...
+Dialogue: 0,0:19:03.52,0:19:06.28,Jimmy,,0,0,10,,{\pos(786.415,1072.011)}Yoshimura who later played with the Giants.
+Dialogue: 0,0:19:06.37,0:19:08.02,Jimmy,,0,0,10,,{\pos(886.038,1072.011)}That time our school won.
+Dialogue: 0,0:19:08.05,0:19:10.13,Jimmy,,0,0,0,,{\pos(886.038,1072.011)}It was a strong high school.
+Dialogue: 0,0:19:07.93,0:19:09.56,Endo,,0,0,0,,{\pos(504.151,915.251)}That's amazing.
+Dialogue: 0,0:19:10.16,0:19:12.29,Staff,,0,0,10,,I'm guessing practice was very intense.
+Dialogue: 0,0:19:12.46,0:19:15.20,Jimmy,,0,0,10,,Rather than intense, I'd say it was dreadful.
+Dialogue: 0,0:19:15.30,0:19:19.65,Jimmy,,0,0,10,,Back then any mistake was quickly met with a punch.
+Dialogue: 0,0:19:19.81,0:19:24.05,Staff,,0,0,10,,I heard that you were bullied during high school...
+Dialogue: 0,0:19:24.13,0:19:28.66,Jimmy,,0,0,10,,Well, it was just teasing from my seniors.
+Dialogue: 0,0:19:28.88,0:19:32.21,Jimmy,,0,0,10,,Things like making me stop a train.
+Dialogue: 0,0:19:32.54,0:19:34.54,Jimmy,,0,0,10,,The express trains don't usually stop...
+Dialogue: 0,0:19:34.57,0:19:36.50,Jimmy,,0,0,10,,and they really wanted to stop one.
+Dialogue: 0,0:19:36.54,0:19:42.98,Jimmy,,0,0,10,,So I stood naked shouting "Stop! Stop! Stop!".
+Dialogue: 0,0:19:42.62,0:19:44.10,Matsumoto,,0,0,0,,{\pos(1124.528,911.229)}So they made you do that.
+Dialogue: 0,0:19:43.30,0:19:46.24,Jimmy,,0,0,10,,Thankfully I did that on a straight part of the track.
+Dialogue: 0,0:19:47.28,0:19:53.00,Narrator,,0,0,0,,{\fad(250,250)\pos(368.302,826.76)}Spartan Days
+Dialogue: 0,0:19:47.60,0:19:53.00,Jimmy,,0,0,10,,Those were days of nothing but baseball, but what about his {\c&H8D42EE&}love life{\c&HFFFFFF&}?
+Dialogue: 0,0:19:53.13,0:19:57.24,Staff,,0,0,10,,You didn't happen to get a girlfriend during high school?
+Dialogue: 0,0:19:57.50,0:20:00.88,Jimmy,,0,0,10,,No, I wasn't really able to get a girlfriend.
+Dialogue: 0,0:20:01.09,0:20:03.60,Staff,,0,0,10,,When did you have your first kiss?
+Dialogue: 0,0:20:03.70,0:20:07.41,Jimmy,,0,0,10,,I think it was right when I entered this world (show business)...
+Dialogue: 0,0:20:07.41,0:20:11.86,Jimmy,,0,0,10,,with a working girl when I was 18.
+Dialogue: 0,0:20:12.82,0:20:14.44,Endo,,0,0,0,,You keep talking about this stuff.
+Dialogue: 0,0:20:15.96,0:20:19.52,Staff,,0,0,10,,What did you think of high school?
+Dialogue: 0,0:20:19.00,0:20:19.60,Jimmy,,0,0,10,,{\pos(510.189,802.514)}Eh!?
+Dialogue: 0,0:20:25.37,0:20:27.40,Jimmy,,0,0,0,,{\pos(1213.585,386.313)}The interviewer\Nstarted irritating me.
+Dialogue: 0,0:20:19.60,0:20:23.69,Staff,,0,0,10,,What are your thoughts on high school?
+Dialogue: 0,0:20:26.18,0:20:28.69,Jimmy,,0,0,10,,Darkness.
+Dialogue: 0,0:20:28.81,0:20:30.69,Staff,,0,0,10,,And why is that?
+Dialogue: 0,0:20:31.58,0:20:36.06,Jimmy,,0,0,10,,I thought that without baseball I could have lived a happier life.
+Dialogue: 0,0:20:36.14,0:20:39.06,Title 2 - White,,0,0,0,,{\pos(720,708.1)}Time: 6 hours 37 minutes
+Dialogue: 0,0:20:36.73,0:20:39.09,Narrator,,0,0,0,,It's now around 4:40 PM.
+Dialogue: 0,0:20:39.60,0:20:43.33,Narrator,,0,0,10,,We change location and continue with his beginnings as performer.
+Dialogue: 0,0:20:43.56,0:20:47.41,Staff,,0,0,10,,Let's continue and talk about your apprenticeship at Yoshimoto.
+Dialogue: 0,0:20:47.41,0:20:50.65,Staff,,0,0,10,,What did you do after graduating from high school?
+Dialogue: 0,0:20:50.92,0:20:54.08,Jimmy,,0,0,10,,I graduated from high school and...
+Dialogue: 0,0:20:54.09,0:20:57.37,Jimmy,,0,0,10,,I worked as a stagehand at the Nanba Kagetsu theater,
+Dialogue: 0,0:20:57.42,0:20:59.92,Jimmy,,0,0,10,,closing the curtains and setting up for rakugo.
+Dialogue: 0,0:21:00.04,0:21:03.32,Jimmy,,0,0,10,,That's were I met Sanma-san.
+Dialogue: 0,0:21:03.41,0:21:06.89,Staff,,0,0,10,,So you met him around that time.
+Dialogue: 0,0:21:04.89,0:21:06.85,Jimmy,,0,0,10,,{\pos(721.509,937.263)}Yeah, I met him back then.
+Dialogue: 0,0:21:07.10,0:21:10.73,Staff,,0,0,10,,By the way, why did you decide to join Yoshimoto?
+Dialogue: 0,0:21:10.78,0:21:14.14,Jimmy,,0,0,10,,I'd say it was because since my school days Yoshimoto was...
+Dialogue: 0,0:21:14.37,0:21:16.33,Jimmy,,0,0,10,,they've been in Osaka for a long time so...
+Dialogue: 0,0:21:16.53,0:21:19.58,Jimmy,,0,0,10,,Yoshimoto was very entertaining,
+Dialogue: 0,0:21:19.58,0:21:22.62,Jimmy,,0,0,10,,as an entertainer you'd want to join them.
+Dialogue: 0,0:21:22.72,0:21:24.93,Staff,,0,0,10,,{\pos(712.452,637.598)}Who joined them at the time?
+Dialogue: 0,0:21:23.96,0:21:27.22,Jimmy,,0,0,10,,People like Downtown, High Heel and Tommys.
+Dialogue: 0,0:21:27.41,0:21:31.41,Staff,,0,0,10,,So you met them all at once, at the beginning.
+Dialogue: 0,0:21:31.58,0:21:34.78,Staff,,0,0,10,,What did you think of Downtown the first time you met them?
+Dialogue: 0,0:21:34.80,0:21:37.97,Jimmy,,0,0,10,,I thought they were amazing. They were very funny.
+Dialogue: 0,0:21:38.32,0:21:44.57,Jimmy,,0,0,0,,{\fad(250,250)\pos(300.377,679.944)}Mr. Okure
+Dialogue: 0,0:21:38.93,0:21:44.57,Title 2 - White,,0,0,0,,{\fad(250,250)\pos(1049.057,871.005)}Starting as a {\c&H00FFEC&}stagehand{\c&HFFFFFF&},\N Jimmy was able to begin \Nhis life as a performer.
+Dialogue: 0,0:21:44.65,0:21:49.16,Staff,,0,0,10,,Why did you decide to move on from being a stagehand?
+Dialogue: 0,0:21:49.44,0:21:55.09,Jimmy,,0,0,10,,Sometimes I would be part of Downtown-san's performances.
+Dialogue: 0,0:21:52.18,0:21:53.90,Matsumoto,,0,0,0,,{\pos(1255.849,372.235)}Why are you\Nadding "-san"?
+Dialogue: 0,0:21:55.33,0:21:57.12,Jimmy,,0,0,10,,I really liked it.
+Dialogue: 0,0:21:57.20,0:22:00.32,Jimmy,,0,0,10,,I wanted to become someone's apprentice.
+Dialogue: 0,0:22:00.45,0:22:02.41,Jimmy,,0,0,10,,So I asked Sanma-san and he told me,
+Dialogue: 0,0:22:02.46,0:22:05.88,Jimmy,,0,0,10,,Join someone who is kind, that way you'll be able to keep up.
+Dialogue: 0,0:22:05.98,0:22:10.93,Jimmy,,0,0,10,,Bonchi Osamu was very kind so I chose to become his apprentice.
+Dialogue: 0,0:22:11.93,0:22:16.40,Jimmy,,0,0,10,,{\fad(250,250)}19-year-old Jimmy started his {\c&H3F2DDC&}apprenticeship {\c&HFFFFFF&}with Bonchi Osamu.
+Dialogue: 0,0:22:16.57,0:22:19.52,Staff,,0,0,10,,How long were you Osamu's apprentice?
+Dialogue: 0,0:22:19.60,0:22:21.92,Jimmy,,0,0,10,,2 years.
+Dialogue: 0,0:22:22.12,0:22:26.74,Staff,,0,0,10,,Can you tell me what you liked and disliked about your teacher?
+Dialogue: 0,0:22:26.92,0:22:30.24,Jimmy,,0,0,10,,I disliked that he was a cheapskate.
+Dialogue: 0,0:22:30.37,0:22:32.38,Staff,,0,0,10,,He was a cheapskate?
+Dialogue: 0,0:22:31.33,0:22:32.36,Jimmy,,0,0,0,,{\pos(721.509,941.397)}Yeah, he was.
+Dialogue: 0,0:22:32.48,0:22:35.60,Jimmy,,0,0,10,,If we ate something better than him he would get mad.
+Dialogue: 0,0:22:35.66,0:22:38.85,Jimmy,,0,0,10,,{\pos(729.056,945.307)}One time we went to the cafeteria and he got kitsune udon while I got tempura udon.
+Dialogue: 0,0:22:38.85,0:22:41.18,Jimmy,,0,0,10,,He shouted "Why are you eating something better!"
+Dialogue: 0,0:22:41.21,0:22:46.09,Jimmy,,0,0,10,,I thought, "What? There's only a 50 yen difference."
+Dialogue: 0,0:22:46.13,0:22:48.34,Jimmy,,0,0,10,,"Make sure you order the cucumber roll".
+Dialogue: 0,0:22:48.36,0:22:50.22,Jimmy,,0,0,10,,That was his ironclad rule at the sushi shop.
+Dialogue: 0,0:22:51.06,0:22:56.72,Jimmy,,0,0,10,,{\fad(250,200}Changing the subject, we ask about the story of his {\c&H00FFEC&}first kiss{\c&HFFFFFF&}.
+Dialogue: 0,0:22:56.84,0:23:00.82,Staff,,0,0,10,,You mentioned earlier that your first kiss was when you were 18, when you were a stagehand?
+Dialogue: 0,0:23:00.13,0:23:01.22,Jimmy,,0,0,0,,Yes, when I was a stagehand...
+Dialogue: 0,0:23:01.25,0:23:05.61,Jimmy,,0,0,10,,Sanma-san asked me "Are you a virgin?", I said yes.
+Dialogue: 0,0:23:05.64,0:23:09.92,Jimmy,,0,0,10,,"Here, I'll give you 20000 yen, go to XXXX.", he said.
+Dialogue: 0,0:23:10.00,0:23:13.17,Jimmy,,0,0,10,,"Go and then tell me how it went."
+Dialogue: 0,0:23:13.29,0:23:17.04,Jimmy,,0,0,10,,So I went to XXXX and kissed and stuff...
+Dialogue: 0,0:23:17.21,0:23:20.70,Jimmy,,0,0,10,,It felt really good, so I said "I'm coming!"
+Dialogue: 0,0:23:20.76,0:23:23.53,Jimmy,,0,0,10,,and she said, "It's fine, go ahead."
+Dialogue: 0,0:23:23.94,0:23:27.37,Jimmy,,0,0,10,,But what came out was pee so she got really mad.
+Dialogue: 0,0:23:27.42,0:23:31.22,Jimmy,,0,0,10,,I told Sanma-san about my failure but he really enjoyed the story.
+Dialogue: 0,0:23:31.66,0:23:33.61,Yamazaki,,0,0,10,,Is this really TV!?
+Dialogue: 0,0:23:33.89,0:23:36.62,Endo,,0,0,10,,I thought it was...
+Dialogue: 0,0:23:37.49,0:23:38.77,Title 2 - White,,0,0,0,,{\pos(707.924,239.497)}Next week!
+Dialogue: 0,0:23:38.38,0:23:39.98,Narrator,,0,0,0,,How did you seduce her?
+Dialogue: 0,0:23:42.29,0:23:50.37,Title 2 - White,,0,0,0,,{\pos(707.924,239.497)\c&H00FFEC&}Jimmy Onishi's{\c&H3F2DDC&} 24 hour interview {\c&H00FFEC&}concludes.
+Dialogue: 0,0:23:51.37,0:23:59.18,Title 2 - White,,0,0,0,,{\pos(726.038,327.989)}The {\c&H3F2DDC&}truth {\c&HFFFFFF&}behind his mysterious {\c&H00FFEC&}turnover to painter {\c&HFFFFFF&}and his {\c&H00FFEC&}return to show business{\c&HFFFFFF&} will be revealed.
+Dialogue: 0,0:24:00.18,0:24:03.09,Staff,,0,0,0,,Anything else you want to say?
+Dialogue: 0,0:24:00.97,0:24:03.45,Jimmy,,0,0,0,,No, there's nothing left.
+

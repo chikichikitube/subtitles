@@ -1,0 +1,664 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1440
+PlayResY: 1080
+YCbCr Matrix: TV.709
+
+[Aegisub Project Garbage]
+Audio File: Gaki_200419_#1502_GakiTsuka Jiji-nuki (1).mp4
+Video File: Gaki_200419_#1502_GakiTsuka Jiji-nuki (1).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 12
+Video Position: 389
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: White,Arial,51,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,15,1
+Style: Hamada,Arial,51,&H00FF1B1C,&H000019FF,&H00FFF2E7,&H00FF1B1C,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,8,8,17,1
+Style: Matsumoto,Arial,51,&H00193ADC,&H000019FF,&H00EDFAFF,&H00193ADC,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,8,8,17,1
+Style: Tanaka,Arial,51,&H00C61DC5,&H000019FF,&H00FFEBFF,&H00C61DC5,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,8,8,17,1
+Style: Yamazaki,Arial,51,&H000FBD17,&H000019FF,&H00E2FCED,&H000FBD17,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,8,8,17,1
+Style: Normal,Arial,51,&H00FFFFFF,&H000019FF,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,0,0,17,1
+Style: Endo,Arial,51,&H00086DE2,&H000019FF,&H00FFFFFF,&H00086DE2,-1,0,0,0,75,100,0,0,1,4.5,4.5,2,8,8,17,1
+Style: Black,Arial,51,&H00000000,&H000019FF,&H00FBFBFB,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,15,1
+Style: Yellow,Arial,51,&H0000F0FF,&H000019FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.55,0:00:05.12,Tanaka,,0,0,0,,{\pos(1005.643,946.143)}Tanaka Naoki{\pos(828.643,946.143)}
+Dialogue: 0,0:00:00.55,0:00:05.12,Endo,,0,0,0,,{\pos(712.5,945)}Endo Shozo{\pos(535.5,945)}
+Dialogue: 0,0:00:00.55,0:00:05.12,Hamada,,0,0,0,,{\pos(881.732,839.857)}Hamada Masatoshi{\pos(704.732,839.857)}
+Dialogue: 0,0:00:00.55,0:00:05.12,Matsumoto,,0,0,0,,{\pos(537.402,836.428)}Matsumoto Hitoshi{\pos(360.402,836.428)}
+Dialogue: 0,0:00:00.55,0:00:05.12,Yamazaki,,0,0,0,,{\pos(415.5,951.857)}Tsukitei Hosei{\pos(238.5,951.857)}
+Dialogue: 0,0:00:00.59,0:00:05.09,Hamada,,0,0,0,,So, Matsumoto, we're wearing tuxedos for today, why is that?
+Dialogue: 0,0:00:01.30,0:00:02.00,Matsumoto,,0,0,0,,Yes, yes
+Dialogue: 0,0:00:03.22,0:00:04.83,Matsumoto,,0,0,0,,That's right
+Dialogue: 0,0:00:05.36,0:00:07.31,Matsumoto,,0,0,0,,As for today's episode...
+Dialogue: 0,0:00:07.31,0:00:10.56,Matsumoto,,0,0,0,,Do you know the old dude card game, right?
+Dialogue: 0,0:00:09.75,0:00:10.77,Hamada,,0,0,0,,Of course we know it
+Dialogue: 0,0:00:10.77,0:00:12.94,Matsumoto,,0,0,0,,It's kind of different from the old maid
+Dialogue: 0,0:00:11.69,0:00:27.24,Black,,0,0,0,,{\fad(200,120)\an4\fs40\c&HC62431&\bord3\pos(279,86.334)}Old Dude:\N\N{\c&H000000&}It's a variation of the game "old maid"\Ninstead of the joker card, there's {\c&H2A3FED&}a single unpaired card
+Dialogue: 0,0:00:13.49,0:00:19.46,Matsumoto,,0,0,0,,I wanted to try an original Gaki-game based off it
+Dialogue: 0,0:00:19.53,0:00:23.51,Matsumoto,,0,0,0,,I'm going to hand out several paired cards to you
+Dialogue: 0,0:00:23.52,0:00:27.86,Matsumoto,,0,0,0,,But there's a single card without a pair in the deck
+Dialogue: 0,0:00:27.89,0:00:29.45,Hamada,,0,0,0,,And that's the old dude, right?
+Dialogue: 0,0:00:30.57,0:00:34.74,Matsumoto,,0,0,0,,If you end up with it, you have to do the task written on it
+Dialogue: 0,0:00:35.24,0:00:39.24,Matsumoto,,0,0,0,,If this turns out to be fun, we're scheduling 8 more episodes
+Dialogue: 0,0:00:37.89,0:00:39.24,Yamazaki,,0,0,0,,8 more?!
+Dialogue: 0,0:00:39.57,0:00:40.79,Tanaka,,0,0,0,,Isn't that too much?
+Dialogue: 0,0:00:40.79,0:00:41.93,Tanaka,,0,0,0,,Is it really that good?
+Dialogue: 0,0:00:42.34,0:00:44.62,Yamazaki,,0,0,0,,We're doing this for two months?!
+Dialogue: 0,0:00:44.62,0:00:52.62,Yamazaki,,0,0,0,,{\an4\fnImpact\fs60\shad0\c&H508FCC&\pos(8.25,68)}TRANSLATION BY {\c&H0711BD&}SHION\N{\c&H508FCC&}TYPESET BY {\c&H0711BD&}MATTEE53
+Dialogue: 0,0:00:53.21,0:00:55.63,White,,0,0,0,,Here's a new project: Gaki Old Dude Game!
+Dialogue: 0,0:00:56.43,0:00:59.26,White,,0,0,0,,There are different topics written on the cards
+Dialogue: 0,0:00:56.70,0:01:01.64,White,,0,0,0,,{\pos(529.8,853.268)\c&H1DDBDE&\shad5\4c&H000000&\4a&H63&\bord2.3}15 different topic-cards (total: 30)
+Dialogue: 0,0:00:59.26,0:01:01.63,White,,0,0,0,,These are the original Old Dude cards
+Dialogue: 0,0:01:01.87,0:01:07.65,White,,0,0,0,,{\pos(529.8,853.268)\c&H1DDBDE&\shad5\4c&H000000&\4a&H63&\bord2.3}Discard all the card in your hand, and you win
+Dialogue: 0,0:01:02.40,0:01:04.35,White,,0,0,0,,The cards will be dealt to each member
+Dialogue: 0,0:01:04.35,0:01:07.63,White,,0,0,0,,And you're done as soon as you can discard them all
+Dialogue: 0,0:01:07.85,0:01:13.65,White,,0,0,0,,{\pos(529.8,853.268)\c&H1DDBDE&\shad5\4c&H000000&\4a&H63&\bord2.3}Lose and you'll have to {\c&H1215E2&\3c&HFFFFFF&}perform the demand {\c&H1DDBDE&\3c&H000000&}written on it
+Dialogue: 0,0:01:08.51,0:01:09.86,White,,0,0,0,,If you're the last one,
+Dialogue: 0,0:01:09.86,0:01:13.63,White,,0,0,0,,You'll have to do the unreasonable demand written on it
+Dialogue: 0,0:01:13.80,0:01:17.26,Tanaka,,0,0,0,,First off, let's see who's going to be the first
+Dialogue: 0,0:01:17.26,0:01:19.29,Tanaka,,0,0,0,,Come here, Bunny-chan!
+Dialogue: 0,0:01:18.86,0:01:19.89,Hamada,,0,0,0,,The first one between us?
+Dialogue: 0,0:01:20.73,0:01:22.37,Tanaka,,0,0,0,,That's right, we have to decide it
+Dialogue: 0,0:01:22.87,0:01:25.78,Tanaka,,0,0,0,,It's important, it can give you an advantage
+Dialogue: 0,0:01:25.78,0:01:27.50,Tanaka,,0,0,0,,Maybe, or maybe not
+Dialogue: 0,0:01:27.50,0:01:29.23,Hamada,,0,0,0,,Ah, she actually has a p*ssy
+Dialogue: 0,0:01:29.50,0:01:31.36,Tanaka,,0,0,0,,What are you talking about?
+Dialogue: 0,0:01:30.20,0:01:31.36,Yamazaki,,0,0,0,,It's Bunny-chan
+Dialogue: 0,0:01:32.00,0:01:34.00,Hamada,,0,0,0,,I thought an old dude would show up...
+Dialogue: 0,0:01:34.00,0:01:36.15,Yamazaki,,0,0,0,,That would have been creepy
+Dialogue: 0,0:01:36.20,0:01:38.06,Hamada,,0,0,0,,Come on, we're Gaki!
+Dialogue: 0,0:01:38.06,0:01:39.61,Tanaka,,0,0,0,,This is the first step
+Dialogue: 0,0:01:38.34,0:01:43.65,Black,,0,0,0,,{\fad(100,0)\pos(278.625,892.333)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3}Choosing the leader via roulette
+Dialogue: 0,0:01:39.61,0:01:41.44,Yamazaki,,0,0,0,,The leader is gonna take advantage
+Dialogue: 0,0:01:41.44,0:01:43.63,Tanaka,,0,0,0,,Yeah, that's right
+Dialogue: 0,0:01:42.16,0:01:43.64,Yamazaki,,0,0,0,,He'll have fewer cards
+Dialogue: 0,0:01:43.93,0:01:45.06,Tanaka,,0,0,0,,Spin the wheel, Hamada
+Dialogue: 0,0:01:45.06,0:01:46.56,Hamada,,0,0,0,,Huh? Why me?
+Dialogue: 0,0:01:46.64,0:01:48.34,Matsumoto,,0,0,0,,It has to be him
+Dialogue: 0,0:01:53.40,0:01:54.61,Tanaka,,0,0,0,,Looks like it's Endo
+Dialogue: 0,0:01:54.61,0:01:57.32,Yamazaki,,0,0,0,,I remember Endo playing old maid once
+Dialogue: 0,0:01:57.62,0:02:01.08,Yamazaki,,0,0,0,,Lifting a single card up to raise suspicion,\N it's a game of strategy
+Dialogue: 0,0:02:01.84,0:02:05.63,Tanaka,,0,0,0,,But now, you have to take 1 card out of the deck
+Dialogue: 0,0:02:05.72,0:02:06.93,Matsumoto,,0,0,0,,Right
+Dialogue: 0,0:02:06.21,0:02:07.25,Hamada,,0,0,0,,Right, right
+Dialogue: 0,0:02:06.86,0:02:08.39,Endo,,0,0,0,,And that's the old dude, right?
+Dialogue: 0,0:02:08.00,0:02:09.23,Tanaka,,0,0,0,,Just take one out
+Dialogue: 0,0:02:09.23,0:02:11.23,Endo,,0,0,0,,Randomly? Ok
+Dialogue: 0,0:02:11.99,0:02:13.44,Endo,,0,0,0,,Alright, this one
+Dialogue: 0,0:02:13.53,0:02:15.04,Matsumoto,,0,0,0,,We're not gonna see it, right?
+Dialogue: 0,0:02:15.04,0:02:16.85,Tanaka,,0,0,0,,And that's the old dude
+Dialogue: 0,0:02:16.85,0:02:18.85,Tanaka,,0,0,0,,Of course we don't know which one is it
+Dialogue: 0,0:02:19.34,0:02:21.26,Tanaka,,0,0,0,,But you have to show it to the camera
+Dialogue: 0,0:02:21.49,0:02:26.28,Black,,0,0,0,,{\fad(100,300)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3\pos(209.625,892.333)}Which card is the old dude?
+Dialogue: 0,0:02:21.56,0:02:24.01,Tanaka,,0,0,0,,Just flip it towards the camera
+Dialogue: 0,0:02:24.69,0:02:26.29,Endo,,0,0,0,,Alright, here I go
+Dialogue: 0,0:02:26.59,0:02:28.50,Matsumoto,,0,0,0,,Alright, so we don't know it
+Dialogue: 0,0:02:27.63,0:02:30.96,Black,,0,0,0,,{\pos(367.875,481)}Sayuri\NYoshinaga
+Dialogue: 0,0:02:28.50,0:02:30.96,Yamazaki,,0,0,0,,Tanaka just tried to take a peek
+Dialogue: 0,0:02:31.26,0:02:32.91,Tanaka,,0,0,0,,I didn't don't say such things
+Dialogue: 0,0:02:32.91,0:02:34.00,Yamazaki,,0,0,0,,You just glanced it
+Dialogue: 0,0:02:33.60,0:02:35.01,Tanaka,,0,0,0,,Why should I do it?!
+Dialogue: 0,0:02:35.01,0:02:36.70,Hamada,,0,0,0,,You did it again?
+Dialogue: 0,0:02:35.55,0:02:36.69,Tanaka,,0,0,0,,I did not!
+Dialogue: 0,0:02:37.50,0:02:40.25,Tanaka,,0,0,0,,Come on guys, let's do this
+Dialogue: 0,0:02:39.28,0:02:42.82,Matsumoto,,0,0,0,,I think that if Tanaka would go to a bank,\N they won't lend him any money
+Dialogue: 0,0:02:42.82,0:02:45.03,Tanaka,,0,0,0,,What are you talking about?\N{\rMatsumoto}- They don't trust him
+Dialogue: 0,0:02:45.07,0:02:47.04,Tanaka,,0,0,0,,Do you really see me like that?
+Dialogue: 0,0:02:47.04,0:02:49.02,Tanaka,,0,0,0,,What is this show trying to turn me in?
+Dialogue: 0,0:02:49.02,0:02:52.21,Tanaka,,0,0,0,,We now have 29 total cards in the deck
+Dialogue: 0,0:02:51.03,0:02:52.21,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:02:52.42,0:03:00.76,Yellow,,0,0,0,,{\fad(100,0)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3\pos(302.625,895)}6 cards for each player (leader gets 5)
+Dialogue: 0,0:02:52.21,0:02:54.06,Tanaka,,0,0,0,,We're all getting 6 cards
+Dialogue: 0,0:02:54.06,0:02:57.52,Tanaka,,0,0,0,,But Endo is the leader, so he'll take 5 instead
+Dialogue: 0,0:02:57.52,0:02:59.85,Tanaka,,0,0,0,,That's how we start the game
+Dialogue: 0,0:03:01.15,0:03:03.00,Matsumoto,,0,0,0,,I'm pumped for this round
+Dialogue: 0,0:03:03.00,0:03:05.00,Tanaka,,0,0,0,,And that's it
+Dialogue: 0,0:03:03.31,0:03:04.99,Yamazaki,,0,0,0,,I'd hate first rounds...
+Dialogue: 0,0:03:04.99,0:03:07.05,Tanaka,,0,0,0,,We'll follow this order
+Dialogue: 0,0:03:08.77,0:03:10.28,Tanaka,,0,0,0,,There's an illustration and a name
+Dialogue: 0,0:03:10.28,0:03:11.51,Yamazaki,,0,0,0,,Wait a minute
+Dialogue: 0,0:03:12.28,0:03:17.26,Tanaka,,0,0,0,,The theme of this round is "my memories with stars"
+Dialogue: 0,0:03:13.74,0:03:21.41,Matsumoto,,0,0,0,,{\pos(563.625,883.5)\fad(200,50)\c&H0523BE&\4c&HFFFFFF&\bord3}My memories with stars
+Dialogue: 0,0:03:19.08,0:03:20.88,Yamazaki,,0,0,0,,I never met any of them
+Dialogue: 0,0:03:20.49,0:03:22.30,Endo,,0,0,0,,There's a load of people in here
+Dialogue: 0,0:03:21.78,0:03:22.71,Tanaka,,0,0,0,,Cool, isn't it?
+Dialogue: 0,0:03:22.71,0:03:24.69,Matsumoto,,0,0,0,,Me too, I haven't met most of them
+Dialogue: 0,0:03:24.69,0:03:25.76,Endo,,0,0,0,,That's even better
+Dialogue: 0,0:03:25.76,0:03:27.85,Tanaka,,0,0,0,,So, if you lose this round...
+Dialogue: 0,0:03:27.85,0:03:30.59,Tanaka,,0,0,0,,You have to come up with a {\c&H000000&}made up memory
+Dialogue: 0,0:03:30.59,0:03:33.78,Tanaka,,0,0,0,,The loser will face the camera by himself
+Dialogue: 0,0:03:34.09,0:03:36.43,Tanaka,,0,0,0,,And will start telling his own story
+Dialogue: 0,0:03:29.61,0:03:31.06,Matsumoto,,0,0,0,,I see...
+Dialogue: 0,0:03:34.10,0:03:36.43,Yamazaki,,0,0,0,,I really hate those
+Dialogue: 0,0:03:39.57,0:03:41.19,Yamazaki,,0,0,0,,You already have one pair?!
+Dialogue: 0,0:03:40.59,0:03:41.63,Endo,,0,0,0,,Ah, Tatsuro Yamashita?!
+Dialogue: 0,0:03:41.23,0:03:43.06,Tanaka,,0,0,0,,We got a pair out already
+Dialogue: 0,0:03:44.42,0:03:45.98,Endo,,0,0,0,,Nakajima Miyuki too?
+Dialogue: 0,0:03:46.88,0:03:48.80,Matsumoto,,0,0,0,,Oh boy
+Dialogue: 0,0:03:48.80,0:03:51.96,Matsumoto,,0,0,0,,We have two great characters out already...
+Dialogue: 0,0:03:51.96,0:03:55.17,Tanaka,,0,0,0,,That's right, we have stars from different worlds
+Dialogue: 0,0:03:55.31,0:03:59.88,Tanaka,,0,0,0,,You can talk about their field of activity,\N without saying their names
+Dialogue: 0,0:03:59.88,0:04:02.53,Tanaka,,0,0,0,,Alright, Endo, you go first
+Dialogue: 0,0:04:02.53,0:04:06.05,Endo,,0,0,0,,Between the ones I have in my hand...
+Dialogue: 0,0:04:06.57,0:04:08.20,Endo,,0,0,0,,I only ever met one of them
+Dialogue: 0,0:04:04.78,0:04:06.56,Hamada,,0,0,0,,They're all from different worlds...
+Dialogue: 0,0:04:08.20,0:04:09.56,Endo,,0,0,0,,I think... two? Maybe?
+Dialogue: 0,0:04:09.65,0:04:11.20,Tanaka,,0,0,0,,What about you, Hosei?
+Dialogue: 0,0:04:11.20,0:04:13.43,Yamazaki,,0,0,0,,I never met any of them
+Dialogue: 0,0:04:13.43,0:04:15.43,Yamazaki,,0,0,0,,I also have a lot of foreigners...
+Dialogue: 0,0:04:15.43,0:04:18.10,Endo,,0,0,0,,There are even foreigners?
+Dialogue: 0,0:04:19.58,0:04:20.84,Hamada,,0,0,0,,Foreigners?
+Dialogue: 0,0:04:20.84,0:04:24.89,Matsumoto,,0,0,0,,I have one woman, all the others\N are sportsmen and such
+Dialogue: 0,0:04:24.89,0:04:27.21,Hamada,,0,0,0,,I don't know much about mine
+Dialogue: 0,0:04:27.22,0:04:28.44,Matsumoto,,0,0,0,,Really?
+Dialogue: 0,0:04:28.44,0:04:31.65,Hamada,,0,0,0,,I think I have met one of them, at least
+Dialogue: 0,0:04:32.59,0:04:35.32,Tanaka,,0,0,0,,And you never met the others?
+Dialogue: 0,0:04:33.86,0:04:35.32,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:04:35.81,0:04:39.14,Yamazaki,,0,0,0,,If Hamada says he never met those, we're screwed
+Dialogue: 0,0:04:39.19,0:04:41.72,Tanaka,,0,0,0,,Sorry but I have a pair too
+Dialogue: 0,0:04:41.72,0:04:43.40,Hamada,,0,0,0,,What took you so long?!
+Dialogue: 0,0:04:44.37,0:04:47.97,Yamazaki,,0,0,0,,Come on man, there's a picture,\N you should have noticed it before!
+Dialogue: 0,0:04:48.92,0:04:51.44,Yamazaki,,0,0,0,,Also, Justin Bieber?!
+Dialogue: 0,0:04:53.57,0:04:59.01,Hamada,,0,0,0,,{\pos(553.5,307.5)}Hamada 4 cards
+Dialogue: 0,0:04:53.57,0:04:59.01,Matsumoto,,0,0,0,,{\pos(198,311.5)}Matsumoto 4 cards
+Dialogue: 0,0:04:53.57,0:04:59.01,Tanaka,,0,0,0,,{\pos(886.5,321.5)}Tanaka 4 cards
+Dialogue: 0,0:04:53.57,0:04:59.01,Endo,,0,0,0,,{\pos(256.5,757.5)}Endo 5 cards
+Dialogue: 0,0:04:53.57,0:04:59.01,Yamazaki,,0,0,0,,{\pos(774,757.5)}Hosei 6 cards
+Dialogue: 0,0:04:53.81,0:04:59.01,Yellow,,0,0,0,,{\fad(100,0)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3\an1\pos(79.125,892.333)}If you lose, you have to come up with a fake story with that star
+Dialogue: 0,0:04:54.48,0:04:56.72,White,,0,0,0,,Lose and you'll have to tell a fake story,
+Dialogue: 0,0:04:56.72,0:04:59.02,White,,0,0,0,,It's time for old dude's game - "my memories with stars"
+Dialogue: 0,0:05:00.17,0:05:02.22,Yamazaki,,0,0,0,,Do you have anything good?
+Dialogue: 0,0:05:01.34,0:05:02.94,Matsumoto,,0,0,0,,We should show them to the camera
+Dialogue: 0,0:05:02.47,0:05:03.93,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:05:04.37,0:05:06.57,Hamada,,0,0,0,,Let's show them all
+Dialogue: 0,0:05:07.75,0:05:09.75,Endo,,0,0,0,,Is...
+Dialogue: 0,0:05:10.03,0:05:11.83,Endo,,0,0,0,,Is this ok?
+Dialogue: 0,0:05:11.99,0:05:13.44,White,,0,0,0,,staff) it's fine
+Dialogue: 0,0:05:12.57,0:05:14.91,Yamazaki,,0,0,0,,Why do I have these many cards?
+Dialogue: 0,0:05:14.91,0:05:18.27,Hamada,,0,0,0,,But he's about to take one from yours
+Dialogue: 0,0:05:18.50,0:05:20.38,Matsumoto,,0,0,0,,So many cards
+Dialogue: 0,0:05:20.78,0:05:22.78,Hamada,,0,0,0,,You'd end up having the whole deck
+Dialogue: 0,0:05:22.42,0:05:24.04,Yamazaki,,0,0,0,,Yeah, probably
+Dialogue: 0,0:05:24.32,0:05:26.20,Yamazaki,,0,0,0,,It doesn't look good for me
+Dialogue: 0,0:05:26.52,0:05:28.80,Matsumoto,,0,0,0,,Is that the card you had?
+Dialogue: 0,0:05:27.68,0:05:29.24,Yamazaki,,0,0,0,,Exactly
+Dialogue: 0,0:05:29.24,0:05:30.49,Tanaka,,0,0,0,,So many cards
+Dialogue: 0,0:05:30.49,0:05:32.85,Yamazaki,,0,0,0,,I'm glad he took it!
+Dialogue: 0,0:05:32.94,0:05:34.20,Tanaka,,0,0,0,,Who's gonna lose?
+Dialogue: 0,0:05:33.68,0:05:36.09,Hamada,,0,0,0,,I have no clue which one to pick
+Dialogue: 0,0:05:40.19,0:05:42.22,Hamada,,0,0,0,,The hell is this roster?
+Dialogue: 0,0:05:43.00,0:05:45.66,Hamada,,0,0,0,,They're all different stars!
+Dialogue: 0,0:05:44.89,0:05:48.16,Endo,,0,0,0,,Of course they are, they have to be unpaired
+Dialogue: 0,0:05:48.16,0:05:50.81,Endo,,0,0,0,,What should we do?
+Dialogue: 0,0:05:48.91,0:05:52.55,Tanaka,,0,0,0,,Alright, let me take one card...
+Dialogue: 0,0:05:55.14,0:05:57.15,Tanaka,,0,0,0,,This is strange...
+Dialogue: 0,0:05:57.73,0:06:01.36,Tanaka,,0,0,0,,The stake is high, we gotta make up a story...
+Dialogue: 0,0:06:05.20,0:06:07.30,Endo,,0,0,0,,I'm not familiar with this guy
+Dialogue: 0,0:06:08.81,0:06:10.90,Endo,,0,0,0,,This guy over there...
+Dialogue: 0,0:06:10.13,0:06:12.77,Yamazaki,,0,0,0,,It's this guy again!
+Dialogue: 0,0:06:13.89,0:06:15.37,Yamazaki,,0,0,0,,He's back!
+Dialogue: 0,0:06:15.37,0:06:17.37,Endo,,0,0,0,,He's wandering around
+Dialogue: 0,0:06:17.37,0:06:20.10,Tanaka,,0,0,0,,Who's wandering around?
+Dialogue: 0,0:06:18.69,0:06:20.12,Endo,,0,0,0,,I don't know
+Dialogue: 0,0:06:20.20,0:06:22.65,Matsumoto,,0,0,0,,What the hell is going on?
+Dialogue: 0,0:06:22.65,0:06:23.89,Endo,,0,0,0,,I have no clue
+Dialogue: 0,0:06:23.89,0:06:26.32,Hamada,,0,0,0,,This is going so bad, what the heck?
+Dialogue: 0,0:06:26.32,0:06:28.00,Tanaka,,0,0,0,,Really...\N{\rEndo}- Right
+Dialogue: 0,0:06:28.92,0:06:31.63,Hamada,,0,0,0,,What the fuck?!
+Dialogue: 0,0:06:31.94,0:06:33.50,Matsumoto,,0,0,0,,At least we took those out
+Dialogue: 0,0:06:33.50,0:06:36.39,Tanaka,,0,0,0,,Yeah, at least those\N {\rHamada}- Ok, but...
+Dialogue: 0,0:06:37.62,0:06:39.60,Tanaka,,0,0,0,,Alright, I'll pick this
+Dialogue: 0,0:06:43.65,0:06:45.99,Tanaka,,0,0,0,,This is incredible
+Dialogue: 0,0:06:44.64,0:06:46.06,Yamazaki,,0,0,0,,- Your turn, Endo
+Dialogue: 0,0:06:46.43,0:06:49.03,Endo,,0,0,0,,Man, I want to draw a pair so bad...
+Dialogue: 0,0:06:49.09,0:06:50.40,Matsumoto,,0,0,0,,Did you draw it?
+Dialogue: 0,0:06:49.58,0:06:51.61,Endo,,0,0,0,,- Wow! Are they there too?!
+Dialogue: 0,0:06:52.06,0:06:53.84,Yamazaki,,0,0,0,,Still new cards?
+Dialogue: 0,0:06:52.64,0:06:53.84,Hamada,,0,0,0,,- Of course
+Dialogue: 0,0:06:53.84,0:06:55.34,Endo,,0,0,0,,Really, this one...
+Dialogue: 0,0:06:54.84,0:06:56.37,Hamada,,0,0,0,,Do you know them?
+Dialogue: 0,0:06:55.77,0:06:57.40,Endo,,0,0,0,,I don't know them at all
+Dialogue: 0,0:06:56.65,0:06:58.92,Hamada,,0,0,0,,You thought they weren't even in the deck
+Dialogue: 0,0:06:59.04,0:07:02.18,Endo,,0,0,0,,I see... so this person was here too
+Dialogue: 0,0:07:03.17,0:07:06.70,White,,0,0,0,,None of them seem to be drawing any pair...
+Dialogue: 0,0:07:10.58,0:07:12.00,Matsumoto,,0,0,0,,Again
+Dialogue: 0,0:07:12.80,0:07:14.11,Hamada,,0,0,0,,Oh man
+Dialogue: 0,0:07:15.09,0:07:16.37,Yamazaki,,0,0,0,,This one
+Dialogue: 0,0:07:16.94,0:07:18.72,Yamazaki,,0,0,0,,It's back again
+Dialogue: 0,0:07:17.96,0:07:19.61,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:07:19.24,0:07:21.41,Endo,,0,0,0,,That guy is running around in circles
+Dialogue: 0,0:07:21.62,0:07:30.16,Yellow,,0,0,0,,{\fad(100,0)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3\an1\pos(79.125,892.333)}Another important point
+Dialogue: 0,0:07:22.40,0:07:26.16,White,,0,0,0,,But there's another important point in this game
+Dialogue: 0,0:07:28.01,0:07:30.24,Matsumoto,,0,0,0,,While we're playing this, to be honest
+Dialogue: 0,0:07:30.24,0:07:32.28,Matsumoto,,0,0,0,,You think about an episode, right?
+Dialogue: 0,0:07:31.44,0:07:32.41,Tanaka,,0,0,0,,Right    {\rEndo} - Right
+Dialogue: 0,0:07:32.41,0:07:34.90,Matsumoto,,0,0,0,,And you're like "oh, I should go for this one"
+Dialogue: 0,0:07:34.90,0:07:37.44,Matsumoto,,0,0,0,,And then someone takes that card from you
+Dialogue: 0,0:07:37.59,0:07:39.77,Endo,,0,0,0,,And you're like "that's MY card"!
+Dialogue: 0,0:07:40.83,0:07:42.56,Matsumoto,,0,0,0,,Yeah, you make up this good story
+Dialogue: 0,0:07:42.56,0:07:44.37,Matsumoto,,0,0,0,,and then someone snatches it away
+Dialogue: 0,0:07:45.60,0:07:46.84,Tanaka,,0,0,0,,I totally get you
+Dialogue: 0,0:07:46.84,0:07:48.93,Yamazaki,,0,0,0,,Come on guys, let's keep going
+Dialogue: 0,0:07:48.93,0:07:50.93,Yamazaki,,0,0,0,,Here's a pair
+Dialogue: 0,0:07:51.60,0:07:54.79,Hamada,,0,0,0,,He's been doing great
+Dialogue: 0,0:07:54.79,0:07:57.15,Matsumoto,,0,0,0,,But I'm glad this guy's out
+Dialogue: 0,0:07:56.81,0:07:58.22,Hamada,,0,0,0,,Yeah, Ou-san...
+Dialogue: 0,0:07:58.29,0:08:00.38,Matsumoto,,0,0,0,,What? I see...
+Dialogue: 0,0:08:00.38,0:08:02.37,Matsumoto,,0,0,0,,One pair and you're done
+Dialogue: 0,0:08:02.52,0:08:04.28,Hamada,,0,0,0,,'Cause he already drew two pairs
+Dialogue: 0,0:08:04.28,0:08:05.26,Yamazaki,,0,0,0,,Right
+Dialogue: 0,0:08:06.69,0:08:08.10,Yamazaki,,0,0,0,,Sorry about that
+Dialogue: 0,0:08:07.72,0:08:10.06,Hamada,,0,0,0,,This is irritating
+Dialogue: 0,0:08:12.67,0:08:14.64,Yamazaki,,0,0,0,,Here it is!
+Dialogue: 0,0:08:13.78,0:08:15.56,Endo,,0,0,0,,He's finally out!    {\rTanaka}- It's Tiger Woods!
+Dialogue: 0,0:08:15.56,0:08:17.76,Matsumoto,,0,0,0,,This would have been bad
+Dialogue: 0,0:08:16.97,0:08:18.40,Hamada,,0,0,0,,Yeah, totally
+Dialogue: 0,0:08:18.10,0:08:21.36,Tanaka,,0,0,0,,Nice one, now we're playing
+Dialogue: 0,0:08:25.29,0:08:27.24,Hamada,,0,0,0,,I still have no clue
+Dialogue: 0,0:08:27.24,0:08:28.89,Tanaka,,0,0,0,,Oh man
+Dialogue: 0,0:08:28.90,0:08:31.13,Tanaka,,0,0,0,,Now I'm getting scared
+Dialogue: 0,0:08:31.13,0:08:33.10,Yamazaki,,0,0,0,,This isn't coming to an end
+Dialogue: 0,0:08:33.17,0:08:34.85,Matsumoto,,0,0,0,,It's time to end this
+Dialogue: 0,0:08:34.85,0:08:37.28,Matsumoto,,0,0,0,,You really suck at making pairs
+Dialogue: 0,0:08:37.28,0:08:39.28,Tanaka,,0,0,0,,I'd love to end this, but...
+Dialogue: 0,0:08:39.36,0:08:40.43,Matsumoto,,0,0,0,,Come on, Endo
+Dialogue: 0,0:08:40.43,0:08:42.14,Endo,,0,0,0,,I've never seen this person before
+Dialogue: 0,0:08:41.60,0:08:43.20,Matsumoto,,0,0,0,,Oh my god...
+Dialogue: 0,0:08:43.20,0:08:45.25,Endo,,0,0,0,,Really, it's my first time seeing this card
+Dialogue: 0,0:08:46.16,0:08:48.82,White,,0,0,0,,The first of them to clear his cards up...
+Dialogue: 0,0:08:49.25,0:08:50.70,Yamazaki,,0,0,0,,Let's see if... oh!
+Dialogue: 0,0:08:50.70,0:08:52.34,Yamazaki,,0,0,0,,I'm clear!
+Dialogue: 0,0:08:52.34,0:08:53.97,Yamazaki,,0,0,0,,Here, I'm done!
+Dialogue: 0,0:08:53.74,0:08:54.59,Hamada,,0,0,0,,Let's move on
+Dialogue: 0,0:08:56.21,0:08:58.49,Yamazaki,,0,0,0,,I'm the first one
+Dialogue: 0,0:08:58.49,0:08:59.98,White,,0,0,0,,And not only him...
+Dialogue: 0,0:09:02.13,0:09:03.62,Endo,,0,0,0,,Matsumoto, please...
+Dialogue: 0,0:09:03.62,0:09:05.25,Hamada,,0,0,0,,What the hell, dude...
+Dialogue: 0,0:09:05.25,0:09:07.09,Matsumoto,,0,0,0,,I did it!
+Dialogue: 0,0:09:07.20,0:09:09.09,Hamada,,0,0,0,,It's this guy again!
+Dialogue: 0,0:09:09.92,0:09:12.03,Hamada,,0,0,0,,He's back!
+Dialogue: 0,0:09:12.88,0:09:16.69,White,,0,0,0,,And even Maezawa, the card which tormented Hamada...
+Dialogue: 0,0:09:20.85,0:09:23.71,Matsumoto,,0,0,0,,And that leaves only Cocorico
+Dialogue: 0,0:09:23.71,0:09:25.71,Tanaka,,0,0,0,,It's down to the two of us
+Dialogue: 0,0:09:25.85,0:09:27.53,Yamazaki,,0,0,0,,And if Tanaka makes a pair now...
+Dialogue: 0,0:09:27.53,0:09:29.72,Matsumoto,,0,0,0,,If he pulls it off...
+Dialogue: 0,0:09:28.25,0:09:29.80,Hamada,,0,0,0,,Let's see...
+Dialogue: 0,0:09:31.91,0:09:35.50,Endo,,0,0,0,,Wait a second! Wait, wait, wait...
+Dialogue: 0,0:09:35.50,0:09:37.50,Tanaka,,0,0,0,,Ready?\N {\rEndo}- No, give me a sec
+Dialogue: 0,0:09:37.50,0:09:38.92,Matsumoto,,0,0,0,,Which one is it gonna be?
+Dialogue: 0,0:09:38.10,0:09:39.12,Endo,,0,0,0,,Yeah, I don't know
+Dialogue: 0,0:09:39.12,0:09:41.72,Endo,,0,0,0,,What should I do? My memories with them...
+Dialogue: 0,0:09:42.72,0:09:45.38,Matsumoto,,0,0,0,,As soon as you lose, you gotta start your story
+Dialogue: 0,0:09:45.50,0:09:47.38,Tanaka,,0,0,0,,Get your episode ready
+Dialogue: 0,0:09:47.05,0:09:48.23,Hamada,,0,0,0,,Which one is it?
+Dialogue: 0,0:09:49.26,0:09:50.62,Yamazaki,,0,0,0,,Who is it?
+Dialogue: 0,0:09:50.62,0:09:52.40,Matsumoto,,0,0,0,,I wonder...
+Dialogue: 0,0:09:51.86,0:09:54.21,Tanaka,,0,0,0,,Let's see who's the old dude
+Dialogue: 0,0:09:54.27,0:09:55.46,Endo,,0,0,0,,It was this lady
+Dialogue: 0,0:09:55.46,0:09:59.40,Matsumoto,,0,0,0,,So it was miss Sayuri Yoshinaga...
+Dialogue: 0,0:10:02.05,0:11:49.19,White,,0,0,0,,{\fad(200,200)\3c&HFFFFFF&\bord8\blur5\\3a&H49&\pos(627,913.5)}Endo's memory with Sayuri Yoshinaga
+Dialogue: 1,0:10:02.05,0:11:49.19,White,,0,0,0,,{\fad(200,200)\bord2\shad0\3c&HFFFFFF&\c&H9A375C&\i0\pos(627,913.5)}Endo's memory with Sayuri Yoshinaga
+Dialogue: 0,0:10:02.68,0:10:07.32,Endo,,0,0,0,,If I remember correctly it was... last year? I guess?
+Dialogue: 0,0:10:07.36,0:10:09.30,Endo,,0,0,0,,At least I think so
+Dialogue: 0,0:10:09.30,0:10:13.10,Endo,,0,0,0,,Anyway, as you know I like golf and I often play it
+Dialogue: 0,0:10:13.10,0:10:18.49,Endo,,0,0,0,,And one day Miss Yoshinaga's group played before mine
+Dialogue: 0,0:10:18.90,0:10:23.30,Endo,,0,0,0,,So I kept on playing while glancing at them
+Dialogue: 0,0:10:23.36,0:10:28.08,Endo,,0,0,0,,It may sound rude, but I don't think she was a skilled player
+Dialogue: 0,0:10:28.71,0:10:31.64,Endo,,0,0,0,,Her group's play was really slow
+Dialogue: 0,0:10:31.64,0:10:33.84,Endo,,0,0,0,,We were about to catch them up, so
+Dialogue: 0,0:10:33.84,0:10:37.95,Endo,,0,0,0,,We thought we should say them something, but
+Dialogue: 0,0:10:37.95,0:10:41.02,Endo,,0,0,0,,I was wondering what to do, and then...
+Dialogue: 0,0:10:41.02,0:10:44.45,Endo,,0,0,0,,I just... hit my ball
+Dialogue: 0,0:10:44.45,0:10:48.35,Endo,,0,0,0,,And the ball flew so fast and hit
+Dialogue: 0,0:10:48.35,0:10:51.64,Endo,,0,0,0,,Miss Yoshinaga's head
+Dialogue: 0,0:10:52.24,0:10:56.66,Endo,,0,0,0,,And she got really angry at me
+Dialogue: 0,0:10:57.17,0:11:01.05,Endo,,0,0,0,,I apologized as soon as it happened
+Dialogue: 0,0:11:01.22,0:11:05.12,Endo,,0,0,0,,And it felt like everything was good
+Dialogue: 0,0:11:05.12,0:11:09.12,Endo,,0,0,0,,Then, I went out to lunch
+Dialogue: 0,0:11:06.76,0:11:09.06,Hamada,,0,0,0,,The hell is he talking about?
+Dialogue: 0,0:11:09.18,0:11:12.05,Hamada,,0,0,0,,Such a long story, huh?
+Dialogue: 0,0:11:10.22,0:11:11.97,Endo,,0,0,0,,And I played the next course
+Dialogue: 0,0:11:11.97,0:11:17.21,Endo,,0,0,0,,And when I did, I hit my ball, I shanked
+Dialogue: 0,0:11:17.44,0:11:23.14,Endo,,0,0,0,,And I hit Miss Yoshinaga again, right above her left eye
+Dialogue: 0,0:11:23.69,0:11:26.32,Endo,,0,0,0,,And again, she really got mad at me
+Dialogue: 0,0:11:24.05,0:11:26.33,Hamada,,0,0,0,,This isn't going to end
+Dialogue: 0,0:11:27.01,0:11:28.18,Yamazaki,,0,0,0,,He's stuck
+Dialogue: 0,0:11:27.58,0:11:29.55,Hamada,,0,0,0,,He is
+Dialogue: 0,0:11:28.86,0:11:31.65,Endo,,0,0,0,,And I... apologized
+Dialogue: 0,0:11:29.56,0:11:31.22,Yamazaki,,0,0,0,,It's pitch black ahead
+Dialogue: 0,0:11:31.22,0:11:34.82,Hamada,,0,0,0,,There's no escape road inside his head
+Dialogue: 0,0:11:33.62,0:11:37.70,Endo,,0,0,0,,But then, in the end...
+Dialogue: 0,0:11:36.56,0:11:37.70,Matsumoto,,0,0,0,,Is that ever going to end?
+Dialogue: 0,0:11:38.57,0:11:41.90,Endo,,0,0,0,,I told her "it's not like I hate you or anything"
+Dialogue: 0,0:11:41.90,0:11:45.96,Endo,,0,0,0,,And then we all had dinner together, that's it
+Dialogue: 0,0:11:48.52,0:11:50.60,Hamada,,0,0,0,,Thank you
+Dialogue: 0,0:11:51.32,0:11:53.82,Matsumoto,,0,0,0,,Were you planning this episode for Tiger Woods?
+Dialogue: 0,0:11:53.81,0:11:59.31,White,,0,0,0,,{\fad(250,1)\pos(678,950.334)}This episode isn't real, Endo came up with it
+Dialogue: 0,0:11:55.35,0:11:57.48,Tanaka,,0,0,0,,It makes sense, with Tiger Woods
+Dialogue: 0,0:11:57.02,0:11:59.24,Matsumoto,,0,0,0,,You were planning it with someone else, right?
+Dialogue: 0,0:11:58.48,0:12:02.02,Endo,,0,0,0,,Were, there are lots of sportsmen, so...
+Dialogue: 0,0:12:02.78,0:12:05.84,Endo,,0,0,0,,To be honest yeah, I was thinking about Tiger Woods
+Dialogue: 0,0:12:05.84,0:12:10.03,Endo,,0,0,0,,And then he disappeared, \Nbut I couldn't get "golf" out of my mind...
+Dialogue: 0,0:12:10.03,0:12:11.64,Hamada,,0,0,0,,Just as we thought
+Dialogue: 0,0:12:10.88,0:12:13.16,Endo,,0,0,0,,I didn't expect it would have been Yoshinaga
+Dialogue: 0,0:12:13.16,0:12:16.24,Yamazaki,,0,0,0,,It's probably the farthest from him...
+Dialogue: 0,0:12:16.49,0:12:18.45,Endo,,0,0,0,,Yeah, she is
+Dialogue: 0,0:12:19.82,0:12:22.98,Tanaka,,0,0,0,,How about we try again with the same cards?
+Dialogue: 0,0:12:22.98,0:12:24.46,Tanaka,,0,0,0,,Let's go for another round
+Dialogue: 0,0:12:24.21,0:12:25.47,Yamazaki,,0,0,0,,With the same cards?
+Dialogue: 0,0:12:25.47,0:12:26.82,Hamada,,0,0,0,,The same as this round?
+Dialogue: 0,0:12:25.62,0:12:31.30,Matsumoto,,0,0,0,,{\pos(563.625,883.5)\fad(200,50)\c&H0523BE&\4c&HFFFFFF&\bord3}My memories with stars - 2 -
+Dialogue: 0,0:12:26.45,0:12:27.98,Yamazaki,,0,0,0,,The old dude changes, right?
+Dialogue: 0,0:12:27.68,0:12:29.60,Tanaka,,0,0,0,,Of course
+Dialogue: 0,0:12:28.74,0:12:30.17,Endo,,0,0,0,,Oh boy...
+Dialogue: 0,0:12:30.48,0:12:33.28,Tanaka,,0,0,0,,Alright, let's chose our leader first
+Dialogue: 0,0:12:33.28,0:12:34.77,Tanaka,,0,0,0,,Let's roll
+Dialogue: 0,0:12:34.22,0:12:36.01,Endo,,0,0,0,,I'm not ready for this
+Dialogue: 0,0:12:37.26,0:12:38.63,Tanaka,,0,0,0,,You do the honors, Endo
+Dialogue: 0,0:12:38.63,0:12:40.01,Endo,,0,0,0,,Alright
+Dialogue: 0,0:12:41.61,0:12:43.34,Yamazaki,,0,0,0,,It barely spun...
+Dialogue: 0,0:12:43.34,0:12:45.29,Yamazaki,,0,0,0,,But I guess it's ok
+Dialogue: 0,0:12:45.29,0:12:47.62,Matsumoto,,0,0,0,,I get you, Endo, after telling that story
+Dialogue: 0,0:12:46.14,0:12:47.62,Endo,,0,0,0,,Sorry, I haven't done this before
+Dialogue: 0,0:12:47.62,0:12:49.85,Matsumoto,,0,0,0,,You're in a feverish state, I get you
+Dialogue: 0,0:12:51.13,0:12:52.42,Endo,,0,0,0,,Thanks for your concern
+Dialogue: 0,0:12:52.08,0:12:54.42,Matsumoto,,0,0,0,,You should go home and think about it
+Dialogue: 0,0:12:54.42,0:12:56.42,Matsumoto,,0,0,0,,But now you're stuck in here
+Dialogue: 0,0:12:57.14,0:13:00.01,Endo,,0,0,0,,Spinning the roulette made me nervous
+Dialogue: 0,0:13:00.01,0:13:02.24,Matsumoto,,0,0,0,,There's no time to not feel tense
+Dialogue: 0,0:13:02.24,0:13:04.46,Matsumoto,,0,0,0,,You've been dragged here, face it
+Dialogue: 0,0:13:03.73,0:13:04.98,Endo,,0,0,0,,Yeah
+Dialogue: 0,0:13:05.58,0:13:07.81,White,,0,0,0,,Here's the second round of the game!
+Dialogue: 0,0:13:07.81,0:13:10.47,White,,0,0,0,,The old dude is Bae Yong-joon
+Dialogue: 0,0:13:13.81,0:13:15.14,Matsumoto,,0,0,0,,Let's be faster this time
+Dialogue: 0,0:13:15.14,0:13:17.57,Hamada,,0,0,0,,Sure, here goes
+Dialogue: 0,0:13:21.22,0:13:23.44,Yamazaki,,0,0,0,,It's Yumiko Udo!
+Dialogue: 0,0:13:22.78,0:13:24.60,Endo,,0,0,0,,He's good at this
+Dialogue: 0,0:13:24.75,0:13:26.60,Matsumoto,,0,0,0,,A story with a woman is harder
+Dialogue: 0,0:13:26.60,0:13:27.54,Hamada,,0,0,0,,I agree
+Dialogue: 0,0:13:27.54,0:13:29.54,Matsumoto,,0,0,0,,I'd rather come up with a guy
+Dialogue: 0,0:13:30.19,0:13:31.98,Tanaka,,0,0,0,,We have more cards this round...
+Dialogue: 0,0:13:32.59,0:13:35.48,Matsumoto,,0,0,0,,A part of me hopes it's Endo with Yoshinaga again...
+Dialogue: 0,0:13:37.89,0:13:39.22,Endo,,0,0,0,,Anything but that
+Dialogue: 0,0:13:38.73,0:13:40.69,Matsumoto,,0,0,0,,You're screwed if you pick her now
+Dialogue: 0,0:13:40.22,0:13:41.84,Hamada,,0,0,0,,Right
+Dialogue: 0,0:13:41.84,0:13:44.92,Matsumoto,,0,0,0,,You barely even had the strength to spin the roulette
+Dialogue: 0,0:13:44.92,0:13:46.37,Endo,,0,0,0,,Please, don't
+Dialogue: 0,0:13:46.57,0:13:52.78,Yellow,,0,0,0,,{\fad(100,0)\fs40\c&H1DDBDE&\3c&H000000&\4c&H000000&\4a&H6A&\bord2.3\an1\pos(79.125,892.333)}A Quick turn of events
+Dialogue: 0,0:13:47.10,0:13:49.76,White,,0,0,0,,But suddenly, a quick turn of events!
+Dialogue: 0,0:13:51.63,0:13:53.34,Tanaka,,0,0,0,,He did it again!
+Dialogue: 0,0:13:53.34,0:13:55.67,Tanaka,,0,0,0,,Hamada is the first one to clear
+Dialogue: 0,0:13:56.48,0:13:58.11,Tanaka,,0,0,0,,You're good to go, Hamada
+Dialogue: 0,0:13:58.11,0:13:59.80,Hamada,,0,0,0,,I'm good at this
+Dialogue: 0,0:14:01.85,0:14:04.74,Matsumoto,,0,0,0,,Oh yeah!
+Dialogue: 0,0:14:04.74,0:14:07.40,Endo,,0,0,0,,Really? Man...
+Dialogue: 0,0:14:05.90,0:14:07.41,Yamazaki,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:14:07.41,0:14:08.60,Tanaka,,0,0,0,,He's done too
+Dialogue: 0,0:14:08.60,0:14:10.37,Endo,,0,0,0,,Oh man...
+Dialogue: 0,0:14:10.14,0:14:11.65,Hamada,,0,0,0,,Give that to him, not me
+Dialogue: 0,0:14:12.46,0:14:14.24,Tanaka,,0,0,0,,Oh yeah!
+Dialogue: 0,0:14:14.05,0:14:15.19,Yamazaki,,0,0,0,,Really?!
+Dialogue: 0,0:14:14.95,0:14:17.29,Endo,,0,0,0,,No way...
+Dialogue: 0,0:14:16.70,0:14:18.71,Matsumoto,,0,0,0,,At this point I swear
+Dialogue: 0,0:14:19.44,0:14:21.53,Matsumoto,,0,0,0,,I'm fine with Endo's hell
+Dialogue: 0,0:14:20.75,0:14:22.66,Hamada,,0,0,0,,It's fifty-fifty now
+Dialogue: 0,0:14:22.92,0:14:25.18,Yamazaki,,0,0,0,,Please, give me a break...
+Dialogue: 0,0:14:24.32,0:14:26.17,Endo,,0,0,0,,I'm panicking
+Dialogue: 0,0:14:26.17,0:14:27.76,Endo,,0,0,0,,Please... please!
+Dialogue: 0,0:14:29.67,0:14:31.09,Yamazaki,,0,0,0,,Please don't match!
+Dialogue: 0,0:14:33.77,0:14:36.08,Matsumoto,,0,0,0,,You're so unlucky, man
+Dialogue: 0,0:14:36.59,0:14:38.52,Hamada,,0,0,0,,Now it's Yamazaki's chance
+Dialogue: 0,0:14:37.99,0:14:41.46,Endo,,0,0,0,,Give me a minute! Please!
+Dialogue: 0,0:14:41.46,0:14:43.75,Endo,,0,0,0,,I swear, what the heck!
+Dialogue: 0,0:14:43.93,0:14:45.73,Matsumoto,,0,0,0,,It's looking bad for you, Shozo!
+Dialogue: 0,0:14:45.41,0:14:46.96,Endo,,0,0,0,,Something's wrong!
+Dialogue: 0,0:14:47.69,0:14:49.53,Endo,,0,0,0,,I swear, what the heck!
+Dialogue: 0,0:14:49.32,0:14:50.88,Matsumoto,,0,0,0,,It's looking bad for you, Shozo!
+Dialogue: 0,0:14:49.98,0:14:52.89,Endo,,0,0,0,,This is a joke, right? A joke
+Dialogue: 0,0:14:53.71,0:14:55.07,Yamazaki,,0,0,0,,But look
+Dialogue: 0,0:14:55.07,0:14:56.94,Yamazaki,,0,0,0,,I have 2 out of 3 chances to win
+Dialogue: 0,0:14:58.68,0:15:01.18,Tanaka,,0,0,0,,Right, that's right
+Dialogue: 0,0:14:58.81,0:15:01.83,Endo,,0,0,0,,What should I do?
+Dialogue: 0,0:15:02.45,0:15:04.25,Tanaka,,0,0,0,,As long as you don't draw the old dude
+Dialogue: 0,0:15:04.25,0:15:07.56,Endo,,0,0,0,,I haven't thought of a story yet...
+Dialogue: 0,0:15:07.56,0:15:09.12,Endo,,0,0,0,,Why am I always...?
+Dialogue: 0,0:15:12.65,0:15:14.37,Hamada,,0,0,0,,How is it?
+Dialogue: 0,0:15:20.31,0:15:23.55,Matsumoto,,0,0,0,,And here we go, draw your last card, Endo
+Dialogue: 0,0:15:23.55,0:15:24.95,Endo,,0,0,0,,Wait, gimme a sec
+Dialogue: 0,0:15:24.95,0:15:26.56,Matsumoto,,0,0,0,,We don't know which one is it
+Dialogue: 0,0:15:26.56,0:15:27.62,Hamada,,0,0,0,,Right
+Dialogue: 0,0:15:27.14,0:15:29.29,Tanaka,,0,0,0,,It's one of them, but who?
+Dialogue: 0,0:15:29.29,0:15:30.29,Matsumoto,,0,0,0,,Let's see
+Dialogue: 0,0:15:30.29,0:15:31.96,Endo,,0,0,0,,I have no clue about them both
+Dialogue: 0,0:15:31.96,0:15:33.32,Matsumoto,,0,0,0,,Endo, come on
+Dialogue: 0,0:15:33.32,0:15:36.58,Matsumoto,,0,0,0,,You gotta move fast, it's a matter of momentum
+Dialogue: 0,0:15:36.65,0:15:39.02,Tanaka,,0,0,0,,Quick, come on!\N {\rMatsumoto}- Don't think! One, two, and go!
+Dialogue: 0,0:15:40.99,0:15:43.66,Matsumoto,,0,0,0,,It's Bae Yong-joon
+Dialogue: 0,0:15:43.76,0:15:45.87,Tanaka,,0,0,0,,Please, tell us your memory!
+Dialogue: 0,0:15:47.35,0:15:51.87,Endo,,0,0,0,,Well, I think it was...
+Dialogue: 0,0:15:51.87,0:15:57.28,Endo,,0,0,0,,Around the time I came here to Tokyo,\N I lived in front of this guy
+Dialogue: 0,0:15:58.13,0:16:02.64,Endo,,0,0,0,,We used to grab lunch together too
+Dialogue: 0,0:16:02.64,0:16:06.21,Endo,,0,0,0,,It was a time where we both didn't have much job to do
+Dialogue: 0,0:16:06.21,0:16:09.72,Endo,,0,0,0,,And so we were constantly supporting each other
+Dialogue: 0,0:16:09.85,0:16:13.42,Endo,,0,0,0,,But then we gained success, right?
+Dialogue: 0,0:16:13.42,0:16:18.66,Endo,,0,0,0,,I started to sell and I invited him out for lunch
+Dialogue: 0,0:16:18.97,0:16:23.56,Endo,,0,0,0,,And even today we exchange messages on LINE
+Dialogue: 0,0:16:23.56,0:16:26.38,Endo,,0,0,0,,That's our relationship, good memories
+Dialogue: 0,0:16:29.04,0:16:31.02,Hamada,,0,0,0,,Thank you
+Dialogue: 0,0:16:30.17,0:16:33.90,White,,0,0,0,,{\fad(250,0)\pos(609,913)}It's a made-up story
+Dialogue: 0,0:16:32.01,0:16:34.24,Yamazaki,,0,0,0,,That barely felt like a memory
+Dialogue: 0,0:16:34.24,0:16:36.57,Matsumoto,,0,0,0,,He didn't get ready at all
+Dialogue: 0,0:16:39.14,0:16:40.39,Matsumoto,,0,0,0,,Nothing at all
+Dialogue: 0,0:16:40.42,0:16:42.54,Endo,,0,0,0,,I don't know what to say
+Dialogue: 0,0:16:42.62,0:16:44.62,Matsumoto,,0,0,0,,Are you ok today?
+Dialogue: 0,0:16:44.62,0:16:46.76,Matsumoto,,0,0,0,,You want me to drive you home?
+Dialogue: 0,0:16:47.04,0:16:48.87,Matsumoto,,0,0,0,,Are you ok? Can you get back home?
+Dialogue: 0,0:16:49.67,0:16:53.76,Tanaka,,0,0,0,,Let's dive into our next theme, shall we?
+Dialogue: 0,0:16:53.76,0:16:56.10,Tanaka,,0,0,0,,Bunny-chan, please
+Dialogue: 0,0:16:56.30,0:16:58.94,Tanaka,,0,0,0,,She's our Bunny-chan, thank you
+Dialogue: 0,0:17:01.04,0:17:02.72,Yamazaki,,0,0,0,,How many games are there?!
+Dialogue: 0,0:17:03.35,0:17:04.99,Matsumoto,,0,0,0,,What's wrong, Bunny-chan?
+Dialogue: 0,0:17:04.21,0:17:05.66,Endo,,0,0,0,,What's going on? You laughed...
+Dialogue: 0,0:17:05.66,0:17:07.26,Matsumoto,,0,0,0,,Did he do something to you?
+Dialogue: 0,0:17:06.90,0:17:08.41,White,,0,0,0,,He just...
+Dialogue: 0,0:17:07.76,0:17:08.92,Yamazaki,,0,0,0,,What's going on?
+Dialogue: 0,0:17:08.92,0:17:10.92,Matsumoto,,0,0,0,,Come on, tell us
+Dialogue: 0,0:17:09.96,0:17:11.49,Tanaka,,0,0,0,,What's going on?
+Dialogue: 0,0:17:11.49,0:17:12.46,Matsumoto,,0,0,0,,Please
+Dialogue: 0,0:17:11.90,0:17:13.37,White,,0,0,0,,His eyes...
+Dialogue: 0,0:17:13.37,0:17:14.77,White,,0,0,0,,Were around here
+Dialogue: 0,0:17:16.11,0:17:18.20,Matsumoto,,0,0,0,,You're the shittiest of shits
+Dialogue: 0,0:17:18.00,0:17:20.24,Endo,,0,0,0,,Was he really looking around there?
+Dialogue: 0,0:17:20.24,0:17:22.04,Matsumoto,,0,0,0,,He's the king of shit
+Dialogue: 0,0:17:21.05,0:17:23.20,Hamada,,0,0,0,,What can I do about it? I saw her coming!
+Dialogue: 0,0:17:23.20,0:17:25.76,Hamada,,0,0,0,,Of course I'm going to peek at her
+Dialogue: 0,0:17:23.82,0:17:25.42,Yamazaki,,0,0,0,,But that's not the spot you'd look
+Dialogue: 0,0:17:25.42,0:17:27.42,Yamazaki,,0,0,0,,It felt that normal to you?
+Dialogue: 0,0:17:27.78,0:17:32.10,Matsumoto,,0,0,0,,He's a high-quality shit comedian
+Dialogue: 0,0:17:31.50,0:17:33.19,Tanaka,,0,0,0,,Yeah, really
+Dialogue: 0,0:17:33.19,0:17:34.61,Matsumoto,,0,0,0,,That's unbelievable
+Dialogue: 0,0:17:33.78,0:17:35.87,Tanaka,,0,0,0,,Sorry about that
+Dialogue: 0,0:17:36.87,0:17:38.73,Hamada,,0,0,0,,I'm sorry
+Dialogue: 0,0:17:38.73,0:17:40.53,Tanaka,,0,0,0,,This round's theme is...
+Dialogue: 0,0:17:40.53,0:17:42.53,Tanaka,,0,0,0,,Batsu-game!
+Dialogue: 0,0:17:41.73,0:17:43.56,Hamada,,0,0,0,,No way, why that?!
+Dialogue: 0,0:17:43.56,0:17:46.19,Hamada,,0,0,0,,This isn't a fun experience at all!
+Dialogue: 0,0:17:47.92,0:17:50.74,Yamazaki,,0,0,0,,You thought we were going to have fun?
+Dialogue: 0,0:17:49.27,0:17:50.76,Hamada,,0,0,0,,Of course
+Dialogue: 0,0:17:51.65,0:17:58.49,White,,0,0,0,,{\an8\fnImpact\fs60}Translated Batsu-game list \N@ {\3c&H0050FE&}shionnotsukai.wordpress.com
+Dialogue: 0,0:17:51.65,0:17:54.30,White,,0,0,0,,If you lose, you'll receive the batsu-game!
+Dialogue: 0,0:17:54.30,0:17:58.49,White,,0,0,0,,This time we won't reveal the old dude, \Ntry to guess it yourself!
+Dialogue: 0,0:17:58.72,0:18:00.93,Matsumoto,,0,0,0,,Is this what we're doing?
+Dialogue: 0,0:18:00.17,0:18:02.09,Hamada,,0,0,0,,I hate all of them!
+Dialogue: 0,0:18:02.09,0:18:03.37,Tanaka,,0,0,0,,Those are really something.
+Dialogue: 0,0:18:03.37,0:18:07.18,Yamazaki,,0,0,0,,This can't be good!
+Dialogue: 0,0:18:04.32,0:18:05.97,Tanaka,,0,0,0,,Really
+Dialogue: 0,0:18:06.76,0:18:08.69,Hamada,,0,0,0,,I have one pair
+Dialogue: 0,0:18:08.01,0:18:09.41,Endo,,0,0,0,,Oh, already?
+Dialogue: 0,0:18:10.41,0:18:12.44,Hamada,,0,0,0,,"Hot vinegar eyedrops"
+Dialogue: 0,0:18:12.44,0:18:14.52,Hamada,,0,0,0,,This sucks
+Dialogue: 0,0:18:14.52,0:18:16.14,Tanaka,,0,0,0,,Eh? What does that mean?
+Dialogue: 0,0:18:18.50,0:18:20.92,Tanaka,,0,0,0,,I don't know what it means
+Dialogue: 0,0:18:18.50,0:18:20.92,White,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Electric Spicy Pie"
+Dialogue: 0,0:18:21.21,0:18:23.10,Yamazaki,,0,0,0,,I don't know most of mine myself
+Dialogue: 0,0:18:22.67,0:18:24.89,Matsumoto,,0,0,0,,I've never seen some of those
+Dialogue: 0,0:18:24.06,0:18:25.97,Tanaka,,0,0,0,,Really, they're unknown
+Dialogue: 0,0:18:25.48,0:18:27.16,Matsumoto,,0,0,0,,I didn't know about them
+Dialogue: 0,0:18:27.33,0:18:29.45,Tanaka,,0,0,0,,I agree, some of these are odd
+Dialogue: 0,0:18:29.45,0:18:32.65,Matsumoto,,0,0,0,,I've never even imagined some of these
+Dialogue: 0,0:18:32.65,0:18:34.01,Tanaka,,0,0,0,,They're new, aren't they?
+Dialogue: 0,0:18:34.32,0:18:37.05,Yamazaki,,0,0,0,,I'd hate to receive this one...
+Dialogue: 0,0:18:34.32,0:18:37.05,Yamazaki,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Leather Belt Slap"
+Dialogue: 0,0:18:38.17,0:18:40.87,Hamada,,0,0,0,,What face is that?!
+Dialogue: 0,0:18:41.17,0:18:44.80,Tanaka,,0,0,0,,But I agree, I hate them all
+Dialogue: 0,0:18:46.45,0:18:48.91,Hamada,,0,0,0,,This game sucks
+Dialogue: 0,0:18:47.91,0:18:49.92,Tanaka,,0,0,0,,Yeah, it's no fun
+Dialogue: 0,0:18:49.92,0:18:53.50,Matsumoto,,0,0,0,,What were they thinking when they printed this?
+Dialogue: 0,0:18:55.73,0:18:57.13,Tanaka,,0,0,0,,Really...
+Dialogue: 0,0:18:57.13,0:18:59.91,Hamada,,0,0,0,,Please, give me one pair!
+Dialogue: 0,0:19:03.99,0:19:06.37,Matsumoto,,0,0,0,,Hamada would love this one
+Dialogue: 0,0:19:03.99,0:19:06.37,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Face crepe"
+Dialogue: 0,0:19:06.37,0:19:08.24,Yamazaki,,0,0,0,,I still have no clue\N {\rEndo} - Me neither
+Dialogue: 0,0:19:08.24,0:19:11.04,Tanaka,,0,0,0,,Oh, here it is
+Dialogue: 0,0:19:10.21,0:19:12.18,Matsumoto,,0,0,0,,Please, don't...
+Dialogue: 0,0:19:12.04,0:19:14.17,Tanaka,,0,0,0,,This is is, it's my most feared one
+Dialogue: 0,0:19:14.17,0:19:15.96,Tanaka,,0,0,0,,I don't know what that means
+Dialogue: 0,0:19:14.90,0:19:19.07,Tanaka,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Electric Spicy Pie"
+Dialogue: 0,0:19:15.09,0:19:16.61,Hamada,,0,0,0,,I know, right?!
+Dialogue: 0,0:19:15.95,0:19:18.07,Matsumoto,,0,0,0,,"Electric spicy pie"...
+Dialogue: 0,0:19:17.26,0:19:18.52,Hamada,,0,0,0,,What does that mean?
+Dialogue: 0,0:19:18.52,0:19:20.69,Matsumoto,,0,0,0,,Sounds like a cake from the future
+Dialogue: 0,0:19:23.83,0:19:26.85,White,,0,0,0,,The old-dude batsu-game no one wants to face...
+Dialogue: 0,0:19:27.88,0:19:29.46,Hamada,,0,0,0,,Can I?
+Dialogue: 0,0:19:29.60,0:19:33.60,White,,0,0,0,,And once again, suspicion is raised upon {\i1}that man{\i0}...
+Dialogue: 0,0:19:34.59,0:19:36.31,Hamada,,0,0,0,,This card must be somewhere
+Dialogue: 0,0:19:36.89,0:19:38.92,Endo,,0,0,0,,It could be
+Dialogue: 0,0:19:38.08,0:19:38.93,Yamazaki,,0,0,0,,Of course
+Dialogue: 0,0:19:38.93,0:19:41.58,Endo,,0,0,0,,Maybe someone snatched it from you
+Dialogue: 0,0:19:41.17,0:19:42.02,Hamada,,0,0,0,,I bet it was you
+Dialogue: 0,0:19:41.90,0:19:43.71,Tanaka,,0,0,0,,Is it the one I took before?
+Dialogue: 0,0:19:43.71,0:19:46.08,Hamada,,0,0,0,,You're always peeking at my cards
+Dialogue: 0,0:19:46.46,0:19:48.64,Hamada,,0,0,0,,You took my card while peeking at my hand
+Dialogue: 0,0:19:47.49,0:19:48.92,Tanaka,,0,0,0,,That's not...
+Dialogue: 0,0:19:49.28,0:19:52.25,Tanaka,,0,0,0,,No way I would do it!
+Dialogue: 0,0:19:52.25,0:19:53.92,Tanaka,,0,0,0,,How could I've done it?
+Dialogue: 0,0:19:52.94,0:19:54.61,Hamada,,0,0,0,,There's a camera behind me
+Dialogue: 0,0:19:54.61,0:19:57.45,Hamada,,0,0,0,,You've been caught on tape!
+Dialogue: 0,0:19:58.33,0:19:59.92,Tanaka,,0,0,0,,Play the tape, I don't mind
+Dialogue: 0,0:20:00.36,0:20:03.09,Hamada,,0,0,0,,Always peeking around, geez...
+Dialogue: 0,0:20:02.56,0:20:04.62,Tanaka,,0,0,0,,That's impossible!
+Dialogue: 0,0:20:04.66,0:20:07.18,Hamada,,0,0,0,,Then how is this card still here, huh?!
+Dialogue: 0,0:20:06.14,0:20:07.89,Tanaka,,0,0,0,,That's not true
+Dialogue: 0,0:20:07.49,0:20:09.21,Endo,,0,0,0,,Are you sure?
+Dialogue: 0,0:20:07.99,0:20:09.70,Tanaka,,0,0,0,,That's the point of the game
+Dialogue: 0,0:20:09.70,0:20:12.37,Tanaka,,0,0,0,,Hey! I had this card before!
+Dialogue: 0,0:20:12.74,0:20:14.37,Hamada,,0,0,0,,Your act sucks!
+Dialogue: 0,0:20:14.37,0:20:16.36,Matsumoto,,0,0,0,,That can happen
+Dialogue: 0,0:20:15.86,0:20:17.20,Endo,,0,0,0,,It's looping
+Dialogue: 0,0:20:17.79,0:20:20.58,White,,0,0,0,,Suspicions from Tanaka's peeking haven't lifted
+Dialogue: 0,0:20:20.58,0:20:22.52,Yamazaki,,0,0,0,,This is getting harsh
+Dialogue: 0,0:20:22.52,0:20:24.01,Tanaka,,0,0,0,,Let's see...
+Dialogue: 0,0:20:23.28,0:20:25.24,Hamada,,0,0,0,,Don't peek at me
+Dialogue: 0,0:20:25.45,0:20:28.14,Tanaka,,0,0,0,,I'm not, how could I?!
+Dialogue: 0,0:20:27.30,0:20:29.69,Hamada,,0,0,0,,Just don't look over there
+Dialogue: 0,0:20:28.80,0:20:31.69,Matsumoto,,0,0,0,,He's right Tanaka, you should stop that
+Dialogue: 0,0:20:32.77,0:20:34.42,Yamazaki,,0,0,0,,Really, he's right
+Dialogue: 0,0:20:34.03,0:20:35.62,Matsumoto,,0,0,0,,You're better than this, Tanaka
+Dialogue: 0,0:20:35.62,0:20:39.12,Matsumoto,,0,0,0,,At this point, you should just confess\N {\rHamada} - Yeah, he's right
+Dialogue: 0,0:20:39.12,0:20:41.38,Tanaka,,0,0,0,,Let's just play the game, guys
+Dialogue: 0,0:20:41.41,0:20:42.83,Hamada,,0,0,0,,Are you changing the topic?
+Dialogue: 0,0:20:42.50,0:20:45.77,Matsumoto,,0,0,0,,Alright, we're good, let's stop for now
+Dialogue: 0,0:20:45.77,0:20:47.77,Tanaka,,0,0,0,,Alright then, I'm drawing
+Dialogue: 0,0:20:47.92,0:20:50.06,Matsumoto,,0,0,0,,The same cards are just spinning around
+Dialogue: 0,0:20:49.92,0:20:56.56,Tanaka,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Thai-kick on your back"
+Dialogue: 0,0:20:53.21,0:20:55.57,Tanaka,,0,0,0,,Is {\i1}this one{\i0} here too?
+Dialogue: 0,0:20:56.34,0:20:58.22,Tanaka,,0,0,0,,This card, here of all places?
+Dialogue: 0,0:20:57.60,0:20:59.16,Matsumoto,,0,0,0,,It's a classic, you know
+Dialogue: 0,0:21:02.94,0:21:05.47,Endo,,0,0,0,,I expected this one to be here
+Dialogue: 0,0:21:04.97,0:21:08.28,Endo,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Thai-kick on your back"
+Dialogue: 0,0:21:05.56,0:21:07.29,Hamada,,0,0,0,,Ah, this one?
+Dialogue: 0,0:21:06.92,0:21:08.28,Matsumoto,,0,0,0,,What the hell?
+Dialogue: 0,0:21:08.41,0:21:11.15,Matsumoto,,0,0,0,,I don't think there's such rule in Muay Thai
+Dialogue: 0,0:21:08.41,0:21:13.74,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Thai-kick on your back"
+Dialogue: 0,0:21:11.15,0:21:12.33,Tanaka,,0,0,0,,Yeah, I don't think so
+Dialogue: 0,0:21:11.88,0:21:13.91,Matsumoto,,0,0,0,,I mean, on your back
+Dialogue: 0,0:21:14.74,0:21:17.82,White,,0,0,0,,Who's going to be the first one to clear his round?
+Dialogue: 0,0:21:18.30,0:21:20.14,Endo,,0,0,0,,Thanks so much\N {\rHamada}- Are you clear?
+Dialogue: 0,0:21:20.14,0:21:21.35,Endo,,0,0,0,,I'm done
+Dialogue: 0,0:21:20.80,0:21:23.33,Tanaka,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Nipple shock"
+Dialogue: 0,0:21:21.93,0:21:23.33,Tanaka,,0,0,0,,Alright, Endo's clear
+Dialogue: 0,0:21:23.54,0:21:26.18,Matsumoto,,0,0,0,,He's not getting punished for his stories before?
+Dialogue: 0,0:21:27.35,0:21:28.90,Endo,,0,0,0,,I'm so glad
+Dialogue: 0,0:21:29.25,0:21:31.48,White,,0,0,0,,And then, it's Matsumoto's turn
+Dialogue: 0,0:21:31.68,0:21:33.58,Matsumoto,,0,0,0,,Alright!
+Dialogue: 0,0:21:33.58,0:21:35.42,Matsumoto,,0,0,0,,Thanks, "face crepe"!
+Dialogue: 0,0:21:33.58,0:21:35.42,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Face crepe"
+Dialogue: 0,0:21:36.18,0:21:37.91,Matsumoto,,0,0,0,,I survived!
+Dialogue: 0,0:21:39.28,0:21:41.88,White,,0,0,0,,And then it's peepy Tanaka's turn
+Dialogue: 0,0:21:44.48,0:21:45.82,Hamada,,0,0,0,,I'm in danger
+Dialogue: 0,0:21:45.22,0:21:47.03,Matsumoto,,0,0,0,,I've never seen this card before
+Dialogue: 0,0:21:46.02,0:21:49.35,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Turban shell's guts juice"
+Dialogue: 0,0:21:47.03,0:21:49.16,Matsumoto,,0,0,0,,"Turban shell's guts juice", ugh...
+Dialogue: 0,0:21:50.20,0:21:52.14,White,,0,0,0,,Is Hamada going to be punished?
+Dialogue: 0,0:21:52.14,0:21:54.34,White,,0,0,0,,Or it'll be Hosei?
+Dialogue: 0,0:21:54.60,0:21:57.55,Yamazaki,,0,0,0,,The possibilities it could be Hamada are high
+Dialogue: 0,0:21:57.55,0:22:00.44,Hamada,,0,0,0,,Of course there are, no need to tell me
+Dialogue: 0,0:22:00.72,0:22:01.94,Tanaka,,0,0,0,,Let's see...
+Dialogue: 0,0:22:01.62,0:22:03.68,Matsumoto,,0,0,0,,Well, it's not like
+Dialogue: 0,0:22:03.68,0:22:05.93,Matsumoto,,0,0,0,,We're going to see a loser on the next round
+Dialogue: 0,0:22:05.04,0:22:07.76,Yamazaki,,0,0,0,,Yeah, but there's a 50% chance to win
+Dialogue: 0,0:22:07.96,0:22:11.24,Yamazaki,,0,0,0,,So it's pretty high\N {\rTanaka}- Yes, it won't last long
+Dialogue: 0,0:22:11.37,0:22:13.25,Yamazaki,,0,0,0,,Please, don't take  it
+Dialogue: 0,0:22:11.68,0:22:14.17,Matsumoto,,0,0,0,,I see, it's Hamada's turn, so Yamazaki's in danger
+Dialogue: 0,0:22:14.17,0:22:16.12,Yamazaki,,0,0,0,,Please, don't pick it\N {\rTanaka}- He's in a bad position now
+Dialogue: 0,0:22:16.18,0:22:17.96,Matsumoto,,0,0,0,,70% chance
+Dialogue: 0,0:22:17.96,0:22:20.36,Yamazaki,,0,0,0,,Right, 75% to be precise
+Dialogue: 0,0:22:21.61,0:22:23.01,Hamada,,0,0,0,,This one!
+Dialogue: 0,0:22:25.69,0:22:27.35,Hamada,,0,0,0,,Here!
+Dialogue: 0,0:22:28.69,0:22:30.72,Matsumoto,,0,0,0,,Here's the leather belt!
+Dialogue: 0,0:22:28.69,0:22:30.72,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Leather belt slap"
+Dialogue: 0,0:22:30.97,0:22:32.94,Matsumoto,,0,0,0,,He escaped it
+Dialogue: 0,0:22:32.14,0:22:33.69,Yamazaki,,0,0,0,,No way!
+Dialogue: 0,0:22:33.02,0:22:34.57,Endo,,0,0,0,,So that means...
+Dialogue: 0,0:22:34.57,0:22:36.39,Yamazaki,,0,0,0,,I hate both of them!
+Dialogue: 0,0:22:36.88,0:22:37.96,Tanaka,,0,0,0,,What are...
+Dialogue: 0,0:22:37.24,0:22:39.60,Matsumoto,,0,0,0,,Let's see... one is "Sumo Wrestler Deep Kiss",
+Dialogue: 0,0:22:39.60,0:22:41.96,Matsumoto,,0,0,0,,The other one is "Uvula toothbrush"\N man! They both suck
+Dialogue: 0,0:22:41.96,0:22:43.96,Hamada,,0,0,0,,Never seen that one before...
+Dialogue: 0,0:22:43.60,0:22:45.30,Yamazaki,,0,0,0,,Wait a minute
+Dialogue: 0,0:22:45.59,0:22:48.28,Yamazaki,,0,0,0,,Did you just say "I've never seen it"?
+Dialogue: 0,0:22:48.64,0:22:51.08,Yamazaki,,0,0,0,,You were talking about the uvula thingy, huh?!
+Dialogue: 0,0:22:51.90,0:22:54.25,Matsumoto,,0,0,0,,Hamada did it again
+Dialogue: 0,0:22:55.01,0:22:57.43,Hamada,,0,0,0,,Who cares? He's getting it anyway
+Dialogue: 0,0:22:56.85,0:22:59.41,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:22:59.52,0:23:02.53,Matsumoto,,0,0,0,,It was "uvula toothbrush"
+Dialogue: 0,0:22:59.52,0:23:02.53,Matsumoto,,0,0,0,,{\an8\c&H000000&\3c&HFFFFFF&\shad0\bord4}"Uvula toothbrush"
+Dialogue: 0,0:23:03.12,0:23:05.54,Yamazaki,,0,0,0,,What the hell is that?
+Dialogue: 0,0:23:06.48,0:23:07.59,Tanaka,,0,0,0,,Here comes
+Dialogue: 0,0:23:09.18,0:23:10.41,Hamada,,0,0,0,,This is scary
+Dialogue: 0,0:23:10.06,0:23:13.04,Yamazaki,,0,0,0,,Come on, guys... this is gonna leave scars
+Dialogue: 0,0:23:15.61,0:23:17.61,White,,0,0,0,,Open your mouth wide
+Dialogue: 0,0:23:17.61,0:23:20.58,White,,0,0,0,,Widely, open it
+Dialogue: 0,0:23:32.96,0:23:35.27,Matsumoto,,0,0,0,,That's not enought, right?
+Dialogue: 0,0:23:33.86,0:23:35.28,Hamada,,0,0,0,,I agree with you
+Dialogue: 0,0:23:37.42,0:23:38.96,Hamada,,0,0,0,,Not enough
+Dialogue: 0,0:23:38.42,0:23:40.34,Yamazaki,,0,0,0,,More?!
+Dialogue: 0,0:23:39.28,0:23:41.34,Tanaka,,0,0,0,,Yeah, I mean... it's a punishment
+Dialogue: 0,0:23:44.57,0:23:46.71,White,,0,0,0,,Alright, take care
+Dialogue: 0,0:23:46.71,0:23:48.37,Matsumoto,,0,0,0,,What are you doing, man?
+Dialogue: 0,0:23:50.30,0:23:52.19,Yamazaki,,0,0,0,,He did it three times
+Dialogue: 0,0:23:51.69,0:23:52.86,Matsumoto,,0,0,0,,Who are you, Mori Shinichi?!
+Dialogue: 0,0:23:53.52,0:23:55.84,Matsumoto,,0,0,0,,You became Mori Shinichi!
+Dialogue: 0,0:23:55.84,0:23:57.21,Endo,,0,0,0,,He changed
+Dialogue: 0,0:23:58.88,0:24:09.85,White,,0,0,0,,{\bord7\an4\fnImpact\fs60\shad0\c&H508FCC&\pos(6.75,321.333)\3c&HFFFFFF&}TRANSLATION BY {\c&H0711BD&}SHION\N{\c&H508FCC&}TYPESET & REVIEW BY {\c&H0711BD&}MATTEE53\N\N{\c&H5EEBFF&}MORE EPISODES: {\c&H3EA0E7&}SHIONNOTSUKAI.WORDPRESS.COM\N{\c&H5EEBFF&}SOCIAL MEDIA: {\c&HCAA788&}FB.COM/SHIONNOTSUKAI {\c&H5EEBFF&}& {\c&HECE29C&}TWITTER.COM/SHIONNOTSUKAI\N{\c&H5EEBFF&}WANT TO SUPPORT OUR CONTENT? YOU CAN DONATE ON:\N{\c&H938BF8&}KO-FI.COM/SHIONNOTSUKAI {\c&H5EEBFF&}OR {\c&H618FFF&}PATREON.COM/SHIONNOTSUKAI
+Dialogue: 1,0:23:58.88,0:24:09.85,White,,0,0,0,,{\an4\fnImpact\fs60\shad0\c&H508FCC&\pos(6.75,321.333)}TRANSLATION BY {\c&H0711BD&}SHION\N{\c&H508FCC&}TYPESET & REVIEW BY {\c&H0711BD&}MATTEE53\N\N{\c&H5EEBFF&}MORE EPISODES: {\c&H3EA0E7&}SHIONNOTSUKAI.WORDPRESS.COM\N{\c&H5EEBFF&}SOCIAL MEDIA: {\c&HCAA788&}FB.COM/SHIONNOTSUKAI {\c&H5EEBFF&}& {\c&HECE29C&}TWITTER.COM/SHIONNOTSUKAI\N{\c&H5EEBFF&}WANT TO SUPPORT OUR CONTENT? YOU CAN DONATE ON:\N{\c&H938BF8&}KO-FI.COM/SHIONNOTSUKAI {\c&H5EEBFF&}OR {\c&H618FFF&}PATREON.COM/SHIONNOTSUKAI
+

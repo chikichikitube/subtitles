@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1080
+PlayResY: 720
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki no Tsukai #337 (1996.09.08) — Genkai 2 (Cold Chinese Noodles) 720p RAW.mp4
+Video File: Gaki no Tsukai #337 (1996.09.08) — Genkai 2 (Cold Chinese Noodles) 720p RAW.mp4
+Video AR Mode: 4
+Video AR Value: 1.500000
+Video Zoom Percent: 0.500000
+Scroll Position: 307
+Active Line: 316
+Video Position: 14521
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hamada,Arial,38,&H00FFFFFF,&H007E4600,&H00F60919,&H00F60919,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,38,&H00FFFFFF,&H007E4600,&H001727D6,&H001727D6,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Housei,Arial,38,&H00FFFFFF,&H007E4600,&H0022D727,&H0022D727,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,48,&H00FFFFFF,&H007E4600,&H00096FD4,&H00096FD4,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,48,&H00FFFFFF,&H007E4600,&H00E911B0,&H00E911B0,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Upper Notes,Arial,30,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,8,10,10,10,1
+Style: Credits,Arial,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: Others,Arial,38,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,50,1
+Style: ABOVE,Arial,30,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,60,10,170,1
+Style: Matsumoto 2,Arial,38,&H00FFFFFF,&H007E4600,&H001727D6,&H001727D6,0,0,0,0,100,100,0,0,1,3,3,2,10,10,50,1
+Style: Hamada 2,Arial,38,&H00FFFFFF,&H007E4600,&H00F60919,&H00F60919,0,0,0,0,100,100,0,0,1,3,3,2,10,10,50,1
+Style: TITLECARD,Arial,70,&H0092FEF8,&H007E4600,&H00000000,&HFF000000,-1,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: OTHERDUDES,Arial,38,&H00FFFFFF,&H007E4600,&H00000000,&HFF22D727,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(236,30)}Translation & typeset by {\c&H70CBFF&}Shion (@FGRNDNoises)
+Dialogue: 0,0:00:00.00,0:00:10.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(236,54)}- more episodes @ {\c&H7DFE87&}shionnotsukai.wordpress.com
+Dialogue: 0,0:00:00.00,0:00:10.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(183.2,79.6)}- like my page:{\c&HE7A466&} fb.com/shionnotsukai
+Dialogue: 0,0:00:00.00,0:00:10.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(890.4,30)}Show your support by donating on ko-fi:
+Dialogue: 0,0:00:00.00,0:00:10.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(952.8,60.4)\c&HD870FF&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:00:00.71,0:00:04.96,Credits,,0,0,0,,{\fad(400,400)\pos(557.6,511.6)\c&H0F7C18&\4c&H000000&\3c&HFFFFFF&}downtown
+Dialogue: 0,0:00:00.71,0:00:04.96,Credits,,0,0,0,,{\fad(400,400)\pos(330.4,586.8)\3c&H5D3A2B&}Matsumoto Hitoshi
+Dialogue: 0,0:00:00.71,0:00:04.96,Credits,,0,0,0,,{\fad(400,400)\pos(764,586.8)\3c&H5D3A2B&}Hamada Masatoshi
+Dialogue: 0,0:00:00.41,0:00:02.58,Hamada,,0,0,0,,Second time on Gaki no Tsukai
+Dialogue: 0,0:00:02.58,0:00:04.79,Hamada,,0,0,0,,How far can we go with Cold Noodles?
+Dialogue: 0,0:00:02.58,0:00:04.79,Hamada,,0,0,0,,{\fscx57\fscy55\4c&HF60919&\4a&HFF&\pos(708,674.8)}HIYASHI-CHUUKA
+Dialogue: 0,0:00:04.79,0:00:08.08,Hamada,,0,0,0,,Let's find out the limits of "Hiyashi-chuuka"!
+Dialogue: 0,0:00:10.28,0:00:11.37,Matsumoto,,0,0,0,,Thank you
+Dialogue: 0,0:00:11.54,0:00:13.52,Hamada,,0,0,0,,Have I seen this setting before?
+Dialogue: 0,0:00:13.52,0:00:14.12,Matsumoto,,0,0,0,,Yes
+Dialogue: 0,0:00:14.12,0:00:15.70,Matsumoto,,0,0,0,,We did this before
+Dialogue: 0,0:00:15.70,0:00:16.83,Hamada,,0,0,0,,"Second time", right?
+Dialogue: 0,0:00:17.41,0:00:18.16,Hamada,,0,0,0,,How?
+Dialogue: 0,0:00:16.83,0:00:19.29,Matsumoto,,0,0,0,,This time is different, it's more complicated
+Dialogue: 0,0:00:19.29,0:00:23.67,Matsumoto,,0,0,0,,Last time we only did "ice coffee", remember?
+Dialogue: 0,0:00:23.67,0:00:25.55,Matsumoto,,0,0,0,,Today we're doing "hiyashi-chuuka"
+Dialogue: 0,0:00:25.75,0:00:26.54,Matsumoto,,0,0,0,,See?
+Dialogue: 0,0:00:26.54,0:00:28.34,Hamada,,0,0,0,,Not so different...
+Dialogue: 0,0:00:29.14,0:00:34.34,Others,,0,0,0,,Last time, they tried to order an ice coffee by saying \Nwords such as "ice mohi" or "Ouyang Fifi"
+Dialogue: 0,0:00:34.84,0:00:36.16,Matsumoto 2,,0,0,0,,I'll have an Ouyang Fifi
+Dialogue: 0,0:00:36.16,0:00:36.83,Others,,0,0,0,,Excuse me?
+Dialogue: 0,0:00:38.46,0:00:41.01,Matsumoto 2,,0,0,0,,Oh, an Ouyang Fifi, please
+Dialogue: 0,0:00:41.84,0:00:43.63,Matsumoto 2,,0,0,0,,An Ouyang ice coffee
+Dialogue: 0,0:00:42.80,0:00:43.63,Others,,0,0,0,,{\pos(540,631.6)}Ice--?
+Dialogue: 0,0:00:44.76,0:00:46.80,Others,,0,0,0,,Ice coffee, right?
+Dialogue: 0,0:00:45.33,0:00:46.30,Hamada 2,,0,0,0,,You said it
+Dialogue: 0,0:00:47.00,0:00:50.30,Others,,0,0,0,,And today, they'll research the limits of hiyashi-chuuka
+Dialogue: 0,0:00:47.00,0:00:50.30,Others,,0,0,0,,{\fscx66\fscy63\pos(834.4,634.8)}COLD NOODLES
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\pos(298.4,38)}Translation & typeset by {\3c&HC11EC0&}Shion (@FGRNDNoises)
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\pos(350.618,73.2)}more subbed episodes @ {\3c&HC11EC0&}shionnotsukai.wordpress.com
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\pos(245.309,110)}like my fb page: {\3c&HC11EC0&}fb.com/shionnotsukai
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\pos(850.4,172.4)}Do you enjoy my translations? \Nconsider making a small donation:
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\fs36\pos(868,214)} {\3c&H4CFFF5&\pos(856.8,210.8)} ko-fi.com/shionnotsukai
+Dialogue: 0,0:00:50.76,0:01:02.29,Credits,,0,0,0,,{\fad(0,400)\pos(853.6,209.2)}@ {\3c&HC11EC0&\pos(869.6,209.2)}ko-fi.com/shionnotsukai
+Dialogue: 0,0:01:02.29,0:01:04.91,Matsumoto,,0,0,0,,So, let's take a quick look at it
+Dialogue: 0,0:01:05.01,0:01:06.58,Matsumoto,,0,0,0,,Our first one is
+Dialogue: 0,0:01:07.20,0:01:09.29,Matsumoto,,0,0,0,,Miyashi-chuuka
+Dialogue: 0,0:01:07.20,0:01:09.29,Matsumoto,,0,0,0,,{\fscx58\fscy62\4c&H1727D6&\4a&HFF&\pos(546,676)}"MIYASHI NOODLES"
+Dialogue: 0,0:01:10.19,0:01:12.41,Matsumoto,,0,0,0,,This shouldn't cause many problems
+Dialogue: 0,0:01:12.41,0:01:13.37,Matsumoto,,0,0,0,,It's our first one
+Dialogue: 0,0:01:13.37,0:01:14.25,Matsumoto,,0,0,0,,Third one:
+Dialogue: 0,0:01:14.72,0:01:17.08,Matsumoto,,0,0,0,,"Higashi ni-chuu ka"
+Dialogue: 0,0:01:14.72,0:01:17.08,Matsumoto,,0,0,0,,{\fscx63\fscy71\pos(546,672)\4c&H1727D6&\4a&HFF&}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:01:16.02,0:01:17.08,Hamada,,0,0,0,,{\pos(538,640)}- It's already too much
+Dialogue: 0,0:01:17.08,0:01:18.45,Matsumoto,,0,0,0,,Why you think so?
+Dialogue: 0,0:01:18.45,0:01:19.75,Matsumoto,,0,0,0,,Here's our fourth one
+Dialogue: 0,0:01:21.05,0:01:24.25,Matsumoto,,0,0,0,,"Chuuka hiyashi-hiyashi". This one is...
+Dialogue: 0,0:01:21.05,0:01:24.25,Matsumoto,,0,0,0,,{\fscx60\fscy75\pos(447.6,674.8)\4c&H1727D6&\4a&HFF&}"NOODLES COLDY-COLDY"
+Dialogue: 0,0:01:24.25,0:01:26.25,Matsumoto,,0,0,0,,This is... listen to me, ok?
+Dialogue: 0,0:01:26.25,0:01:30.12,Matsumoto,,0,0,0,,If this option was one of Ultraman's brother, it would be Ultra 7
+Dialogue: 0,0:01:30.41,0:01:32.45,Matsumoto,,0,0,0,,I mean, it's different from the others
+Dialogue: 0,0:01:32.83,0:01:36.80,Matsumoto,,0,0,0,,But I personally wanted to make it happen anyway
+Dialogue: 0,0:01:38.00,0:01:38.80,Matsumoto,,0,0,0,,Sixth one:
+Dialogue: 0,0:01:39.58,0:01:41.82,Matsumoto,,0,0,0,,"Hikkoshi shiyouka"
+Dialogue: 0,0:01:39.58,0:01:41.82,Matsumoto,,0,0,0,,{\fscx58\fscy66\pos(548,674)\4c&H1727D6&\4a&HFF&}"SHALL WE MOVE AWAY?"
+Dialogue: 0,0:01:41.82,0:01:43.08,Hamada,,0,0,0,,No way this one can do it
+Dialogue: 0,0:01:43.53,0:01:44.95,Housei,,0,0,0,,This is where it gets hard
+Dialogue: 0,0:01:45.60,0:01:46.50,Matsumoto,,0,0,0,,Number seven:
+Dialogue: 0,0:01:47.30,0:01:49.50,Matsumoto,,0,0,0,,"Oyaji chau ka"
+Dialogue: 0,0:01:47.30,0:01:49.50,Matsumoto,,0,0,0,,{\fscx63\fscy67\pos(542,672)\4c&H1727D6&\4a&HFF&}"I'M NOT A DAD"
+Dialogue: 0,0:01:50.04,0:01:52.03,Hamada,,0,0,0,,Let's just cut this one out
+Dialogue: 0,0:01:52.03,0:01:53.12,Matsumoto,,0,0,0,,Here's number eight:
+Dialogue: 0,0:01:54.41,0:01:57.83,Matsumoto,,0,0,0,,"He get sea Check car"
+Dialogue: 0,0:01:54.41,0:01:57.83,Matsumoto,,0,0,0,,{\fscx76\fscy70\pos(544,672)\4c&H1727D6&\4a&HFF&}"???"
+Dialogue: 0,0:01:58.50,0:01:59.75,Housei,,0,0,0,,It's nonsense, right?
+Dialogue: 0,0:01:59.75,0:02:02.91,Matsumoto,,0,0,0,,Yeah I just took random words with similar sounds
+Dialogue: 0,0:02:02.91,0:02:03.80,Hamada,,0,0,0,,It's just a list
+Dialogue: 0,0:02:03.80,0:02:04.83,Matsumoto,,0,0,0,,And our last one:
+Dialogue: 0,0:02:05.70,0:02:07.70,Matsumoto,,0,0,0,,"Nenchuu mukyuu ka"
+Dialogue: 0,0:02:05.70,0:02:07.70,Matsumoto,,0,0,0,,{\fscx58\fscy73\pos(544,674)\4c&H1727D6&\4a&HFF&}"NO HOLIDAYS THIS YEAR?"
+Dialogue: 0,0:02:07.70,0:02:09.70,Matsumoto,,0,0,0,,And that's how we're doing this
+Dialogue: 0,0:02:09.70,0:02:11.90,Hamada,,0,0,0,,We told you the same last time
+Dialogue: 0,0:02:11.90,0:02:13.83,Hamada,,0,0,0,,But the trick is the way you say it
+Dialogue: 0,0:02:13.83,0:02:16.90,Housei,,0,0,0,,This time I tried to say them just like "hiyashi chuuka"
+Dialogue: 0,0:02:16.90,0:02:18.00,Housei,,0,0,0,,Like mumbling
+Dialogue: 0,0:02:18.00,0:02:21.70,Hamada,,0,0,0,,Last time you said them way too clearly\N{\3c&H22D727&\4c&H22D727&}- Yeah, I know
+Dialogue: 0,0:02:22.70,0:02:25.08,Matsumoto,,0,0,0,,Did they scold you?\N{\3c&H22D727&\4c&H22D727&}- The staff? Yeah
+Dialogue: 0,0:02:25.53,0:02:27.38,Matsumoto,,0,0,0,,Aren't you a bit old to be scolded?
+Dialogue: 0,0:02:27.75,0:02:30.76,Housei,,0,0,0,,How far can "hiyashi-chuuka" go?
+Dialogue: 0,0:02:29.75,0:02:32.67,Credits,,0,0,0,,{\fad(400,400)\3c&H5D3A2B&\pos(549.6,591.6)}Yamazaki Hosei
+Dialogue: 0,0:02:29.75,0:02:32.67,Credits,,0,0,0,,{\fad(400,400)\3c&H5D3A2B&\pos(477.6,526)\fscx88\fscy87}investigation reporter
+Dialogue: 0,0:02:30.76,0:02:32.62,Housei,,0,0,0,,I'm going to check that out
+Dialogue: 0,0:02:35.76,0:02:38.96,Credits,,0,0,0,,{\pos(535.2,353.2)\c&H5A5AC9&}Hiyashi Chuuka's Limits
+Dialogue: 0,0:02:35.76,0:02:38.96,Credits,,0,0,0,,{\fscx66\fscy75\pos(490.4,321.2)\c&H5A5AC9&}COLD NOODLES
+Dialogue: 0,0:02:35.76,0:02:38.96,Credits,,0,0,0,,{\pos(535.2,414)\c&H5A5AC9&}~study results~
+Dialogue: 0,0:02:38.96,0:02:41.46,TITLECARD,,0,0,0,,{\pos(548,614)}Miyashi-Chuuka\N
+Dialogue: 0,0:02:38.96,0:02:41.46,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"Miyashi Noodles"
+Dialogue: 0,0:02:42.00,0:02:43.58,OTHERDUDES,,0,0,0,,I'll have ramen\N- One ramen, ok
+Dialogue: 0,0:02:45.30,0:02:46.50,Housei,,0,0,0,,I'll have...
+Dialogue: 0,0:02:46.50,0:02:47.50,Housei,,0,0,0,,Miyashi-chuuka
+Dialogue: 0,0:02:46.50,0:02:47.50,Housei,,0,0,0,,{\fscx53\fscy61\4c&H22D727&\4a&HFF&\pos(548,672)}"MIYASHI NOODLES"
+Dialogue: 0,0:02:47.50,0:02:49.55,OTHERDUDES,,0,0,0,,Hiyashi-chuuka, got it
+Dialogue: 0,0:02:47.50,0:02:49.55,OTHERDUDES,,0,0,0,,{\fscx55\fscy66\pos(498.4,676.4)}"COLD NOODLES"
+Dialogue: 0,0:02:55.21,0:02:57.21,Housei,,0,0,0,,Here they are, my Miyashi-chuuka
+Dialogue: 0,0:02:55.21,0:02:57.21,Housei,,0,0,0,,{\fscx53\fscy61\pos(677.6,671.6)\4c&H22D727&\4a&HFF&}"MIYASHI NOODLES"
+Dialogue: 0,0:02:56.79,0:02:58.70,Matsumoto,,0,0,0,,{\pos(551.2,540.4)}No problems at all  {\3c&H22D727&\4c&H22D727&}- Easy
+Dialogue: 0,0:02:57.38,0:03:00.05,TITLECARD,,0,0,0,,{\c&H0B0B88&\3c&HFFFFFF&}O {\c&H92FEF8&\3c&H000000&}Miyashi Chuuka
+Dialogue: 0,0:02:57.38,0:03:00.05,TITLECARD,,0,0,0,,{\fscx47\fscy52\pos(568.8,650.8)}"Miyashi Noodles"
+Dialogue: 0,0:03:00.05,0:03:02.46,TITLECARD,,0,0,0,,{\pos(548,614)}Higashi Nichuu Ka\N
+Dialogue: 0,0:03:19.13,0:03:21.55,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"Noodles Coldy-Coldy"
+Dialogue: 0,0:03:19.13,0:03:21.55,TITLECARD,,0,0,0,,{\pos(548,614)}Chuuka Hiyashi Hiyashi\N
+Dialogue: 0,0:03:31.21,0:03:33.71,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"Shall we move away?"
+Dialogue: 0,0:03:31.21,0:03:33.71,TITLECARD,,0,0,0,,{\pos(548,614)}Hikkoshi Shiyou Ka\N
+Dialogue: 0,0:04:29.09,0:04:31.55,TITLECARD,,0,0,0,,{\pos(548,614)}Oyaji Chau Ka\N
+Dialogue: 0,0:04:29.09,0:04:31.55,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"I'm not a dad"
+Dialogue: 0,0:05:41.17,0:05:43.59,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"No holidays this year?"
+Dialogue: 0,0:05:41.17,0:05:43.59,TITLECARD,,0,0,0,,{\pos(548,614)}Nenjuu Mukyuu Ka\N
+Dialogue: 0,0:06:15.75,0:06:23.38,Credits,,0,0,0,,{\fad(200,200)\fscx80\fscy81\pos(92,30)}Non-aired ones:
+Dialogue: 0,0:06:15.75,0:06:23.38,Credits,,0,0,0,,{\fad(200,200)\fscx80\fscy81\pos(189.6,60.4)}2 - Miyashi Jouka (MIyashi Purge): {\3c&HD870FF&}〇
+Dialogue: 0,0:06:15.75,0:06:23.38,Credits,,0,0,0,,{\fad(200,200)\fscx80\fscy81\pos(207.2,89.2)}5 - Hiyashi Chocopa (Cold Chocolate): {\3c&HD870FF&}〇
+Dialogue: 0,0:03:00.05,0:03:02.46,TITLECARD,,0,0,0,,{\pos(538.4,201.2)}"Central-east No.2?"
+Dialogue: 0,0:03:02.96,0:03:04.63,Housei,,0,0,0,,I'll have higashi nichuu ka
+Dialogue: 0,0:03:02.96,0:03:04.63,Housei,,0,0,0,,{\fscx55\fscy66\pos(608.4,672.4)\4c&H22D727&\4a&HFF&}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:03:04.63,0:03:05.42,OTHERDUDES,,0,0,0,,Hiyashi?
+Dialogue: 0,0:03:05.42,0:03:06.63,Housei,,0,0,0,,Higashi nichuu ka
+Dialogue: 0,0:03:05.42,0:03:06.63,Housei,,0,0,0,,{\fscx55\fscy66\pos(542.4,672.4)\4c&H22D727&\4a&HFF&}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:03:07.92,0:03:09.42,Housei,,0,0,0,,{\fscx55\fscy66\pos(542.4,672.4)\4c&H22D727&\4a&HFF&}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:03:07.92,0:03:09.42,Housei,,0,0,0,,Higashi nichuu ka
+Dialogue: 0,0:03:09.42,0:03:11.42,OTHERDUDES,,0,0,0,,Higashi nichuu ka? Sorry I'm asking...
+Dialogue: 0,0:03:09.42,0:03:11.42,OTHERDUDES,,0,0,0,,{\fscx55\fscy66\pos(416.4,676.4)}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:03:11.42,0:03:12.38,OTHERDUDES,,0,0,0,,Which is it?
+Dialogue: 0,0:03:12.38,0:03:13.55,Housei,,0,0,0,,Higashi nichuu ka
+Dialogue: 0,0:03:12.38,0:03:13.55,Housei,,0,0,0,,{\fscx55\fscy66\pos(542.4,672.4)\4c&H22D727&}"CENTRAL-EAST No.2?"
+Dialogue: 0,0:03:12.28,0:03:13.75,Hamada,,0,0,0,,{\pos(548,570)}He's stuck in a loop
+Dialogue: 0,0:03:14.05,0:03:15.55,OTHERDUDES,,0,0,0,,Oh, you meant cold noodles
+Dialogue: 0,0:03:15.95,0:03:19.13,Hamada,,0,0,0,,{\fscx80\fscy85\pos(814,354)}He got through it somehow\N{\3c&H0000FF&\4c&H0000FF&}- Yeah, kind of...{\4c&H0000FF&\4a&HFF&\3c&H0000FF&\3a&HFF&\c&HFFFFFF&\1a&HFF&}!!!!!!!!!!!!!!!!
+Dialogue: 0,0:03:16.46,0:03:19.13,TITLECARD,,0,0,0,,{\c&H0B0B88&\3c&HFFFFFF&}O {\c&H92FEF8&\3c&H000000&}Higashi Nichuu Ka
+Dialogue: 0,0:03:16.46,0:03:19.13,TITLECARD,,0,0,0,,{\fscx47\fscy52\pos(568.8,650.8)}"Central-east No.2?"
+Dialogue: 0,0:03:22.01,0:03:26.05,Housei,,0,0,0,,Alright, I'll have some chuuka hiyashi-hiyashi
+Dialogue: 0,0:03:22.01,0:03:26.05,Housei,,0,0,0,,{\fscx55\fscy66\pos(706.4,672.4)\4c&H22D727&\4a&HFF&}"NOODLES COLDY-COLDY"
+Dialogue: 0,0:03:26.05,0:03:28.05,OTHERDUDES,,0,0,0,,Oh, hiyashi-chuuka, got it
+Dialogue: 0,0:03:26.05,0:03:28.05,OTHERDUDES,,0,0,0,,{\fscx70\fscy71\pos(526,676)}"COLD NOODLES"
+Dialogue: 0,0:03:26.71,0:03:28.41,Hamada,,0,0,0,,{\fscx81\fscy91\pos(290,324)}Why should they have that?!
+Dialogue: 0,0:03:28.26,0:03:31.21,TITLECARD,,0,0,0,,{\c&H0B0B88&\3c&HFFFFFF&}O {\c&H92FEF8&\3c&H000000&}Chuuka Hiyashi-Hiyashi
+Dialogue: 0,0:03:28.26,0:03:31.21,TITLECARD,,0,0,0,,{\fscx47\fscy52\pos(568.8,650.8)}"Noodles Coldy-coldy"
+Dialogue: 0,0:03:28.41,0:03:30.16,Hamada,,0,0,0,,{\fscx81\fscy91\pos(222,324)}Oh, you got that
+Dialogue: 0,0:03:31.05,0:03:32.26,Housei,,0,0,0,,{\pos(550,78)}Yeah, it was quick
+Dialogue: 0,0:03:34.26,0:03:36.38,Housei,,0,0,0,,Alright, uh...
+Dialogue: 0,0:03:36.38,0:03:37.96,Housei,,0,0,0,,That's not enough, right?
+Dialogue: 0,0:03:37.96,0:03:39.30,Housei,,0,0,0,,One hikkoshi shiyou ka
+Dialogue: 0,0:03:37.96,0:03:39.30,Housei,,0,0,0,,{\fscx66\fscy73\pos(572,672)\4c&H22D727&\4a&HFF&}"SHALL WE MOVE AWAY?"
+Dialogue: 0,0:03:41.92,0:03:43.26,OTHERDUDES,,0,0,0,,Didn't catch that
+Dialogue: 0,0:03:42.83,0:03:44.00,Hamada,,0,0,0,,{\pos(808,326)}She has no idea
+Dialogue: 0,0:03:43.59,0:03:46.05,OTHERDUDES,,0,0,0,,Hm? What is it?
+Dialogue: 0,0:03:46.05,0:03:48.80,Housei,,0,0,0,,You only had gyoza, right? One more serve of this
+Dialogue: 0,0:03:48.80,0:03:50.40,Housei,,0,0,0,,Plus...
+Dialogue: 0,0:03:52.51,0:03:56.01,Housei,,0,0,0,,A bowl of hikkoshi shiyou ka
+Dialogue: 0,0:03:52.51,0:03:56.01,Housei,,0,0,0,,{\fscx66\fscy73\pos(616,672)\4c&H22D727&\4a&HFF&}"SHALL WE MOVE AWAY?"
+Dialogue: 0,0:03:56.01,0:03:57.17,OTHERDUDES,,0,0,0,,What is that?
+Dialogue: 0,0:03:57.68,0:04:00.26,Hamada,,0,0,0,,{\fad(0,300)\fscx87\fscy84\pos(812,354)}They still don't know \Nwhat you said
+Dialogue: 0,0:04:02.36,0:04:04.55,Hamada,,0,0,0,,They're just ignoring you
+Dialogue: 0,0:04:04.55,0:04:06.71,OTHERDUDES,,0,0,0,,I'm sorry, sir, I didn't catch that
+Dialogue: 0,0:04:13.09,0:04:15.30,Housei,,0,0,0,,I'll have one hikkoshi shiyou ka
+Dialogue: 0,0:04:13.09,0:04:15.30,Housei,,0,0,0,,{\fscx66\fscy73\pos(636,672)\4c&H22D727&\4a&HFF&}"SHALL WE MOVE AWAY?"
+Dialogue: 0,0:04:15.90,0:04:17.91,Hamada,,0,0,0,,{\fscx75\fscy90\pos(808,324)}You're saying it too clearly
+Dialogue: 0,0:04:17.54,0:04:19.80,Housei,,0,0,0,,One hikkoshi shiyou ka, please
+Dialogue: 0,0:04:18.50,0:04:19.80,Hamada,,0,0,0,,{\fscx75\fscy90\pos(808,324)}Heard that? Too clear
+Dialogue: 0,0:04:17.54,0:04:19.80,Housei,,0,0,0,,{\fscx66\fscy73\pos(516,670)\4c&H22D727&\4a&HFF&}"SHALL WE MOVE AWAY?"
+Dialogue: 0,0:04:18.80,0:04:21.55,OTHERDUDES,,0,0,0,,{\pos(372,578)}You're moving away? Where?
+Dialogue: 0,0:04:23.75,0:04:26.16,Matsumoto,,0,0,0,,They're having a good time
+Dialogue: 0,0:04:27.26,0:04:29.09,TITLECARD,,0,0,0,,{\c&HFF0000&\3c&HFFFFFF&}X {\c&H92FEF8&\3c&H000000&}Hikkoshi Shiyou Ka
+Dialogue: 0,0:04:27.26,0:04:29.09,TITLECARD,,0,0,0,,{\fscx47\fscy52\pos(568.8,650.8)}"Shall we move away?"
+Dialogue: 0,0:04:31.66,0:04:32.26,Housei,,0,0,0,,Excuse me!
+Dialogue: 0,0:04:32.26,0:04:33.00,OTHERDUDES,,0,0,0,,Coming
+Dialogue: 0,0:04:35.40,0:04:36.83,Housei,,0,0,0,,I'll have...
+Dialogue: 0,0:04:37.92,0:04:38.92,Housei,,0,0,0,,Let's see...
+Dialogue: 0,0:04:38.92,0:04:39.71,Housei,,0,0,0,,Oyaji chau ka
+Dialogue: 0,0:04:38.92,0:04:39.71,Housei,,0,0,0,,{\fscx61\fscy62\4c&H22D727&\4a&HFF&\pos(540,674)}"I'M NOT A DAD"
+Dialogue: 0,0:04:44.46,0:04:45.80,OTHERDUDES,,0,0,0,,{\pos(364,380)}What's that?
+Dialogue: 0,0:04:45.28,0:04:46.70,Hamada,,0,0,0,,Her face is scary!
+Dialogue: 0,0:04:46.13,0:04:48.96,Housei,,0,0,0,,{\pos(756,594)}Hiyashi-chuuka
+Dialogue: 0,0:04:46.13,0:04:48.96,Housei,,0,0,0,,{\4c&H22D727&\4a&HFF&\fscx65\fscy70\pos(756,558)}"COLD NOODLES"
+Dialogue: 0,0:04:47.55,0:04:48.96,OTHERDUDES,,0,0,0,,{\pos(238,338)}Alright,
+Dialogue: 0,0:04:47.96,0:04:48.96,OTHERDUDES,,0,0,0,,{\pos(372,338)}coming up
+Dialogue: 0,0:04:46.80,0:04:48.96,OTHERDUDES,,0,0,0,,{\pos(264,284)}Hiyashi-chuuka?
+Dialogue: 0,0:04:48.04,0:04:49.25,Hamada,,0,0,0,,You said it normally
+Dialogue: 0,0:04:49.25,0:04:50.20,OTHERDUDES,,0,0,0,,One hiyashi-chuuka
+Dialogue: 0,0:04:49.70,0:04:52.76,Credits,,0,0,0,,{\fad(700,400)\pos(564,594)\3c&H242427&}Yamazaki ordered it normally
+Dialogue: 0,0:04:50.20,0:04:54.25,Housei,,0,0,0,,I got stuck, it didn't sound natural to me
+Dialogue: 0,0:04:54.25,0:04:56.35,TITLECARD,,0,0,0,,{\fad(0,300)\c&HFF0000&\3c&HFFFFFF&}X {\c&H92FEF8&\3c&H000000&}Oyaji Chau Ka
+Dialogue: 0,0:04:54.25,0:04:56.35,TITLECARD,,0,0,0,,{\fad(0,300)\fscx47\fscy52\pos(568.8,650.8)}"I'm not a dad"
+Dialogue: 0,0:04:59.92,0:05:01.76,Housei,,0,0,0,,I think I'll have...
+Dialogue: 0,0:05:01.76,0:05:03.21,Housei,,0,0,0,,"He get sea check car"
+Dialogue: 0,0:05:03.21,0:05:04.38,OTHERDUDES,,0,0,0,,Eh?
+Dialogue: 0,0:05:07.09,0:05:08.17,OTHERDUDES,,0,0,0,,What?
+Dialogue: 0,0:05:10.92,0:05:12.01,OTHERDUDES,,0,0,0,,Come again?
+Dialogue: 0,0:05:14.55,0:05:16.05,OTHERDUDES,,0,0,0,,Don't know that, what is it?
+Dialogue: 0,0:05:17.35,0:05:18.05,Housei,,0,0,0,,Wait
+Dialogue: 0,0:05:19.05,0:05:24.05,Credits,,0,0,0,,{\fad(400,400)\3c&H242427&\pos(564,606)}Yamazaki doesn't really know what to do
+Dialogue: 0,0:05:24.33,0:05:25.70,Housei,,0,0,0,,Man, it's so hot in here
+Dialogue: 0,0:05:26.20,0:05:27.20,Housei,,0,0,0,,Oh boy
+Dialogue: 0,0:05:27.20,0:05:28.66,Hamada,,0,0,0,,I get what he's doing
+Dialogue: 0,0:05:28.66,0:05:30.90,Hamada,,0,0,0,,By saying it's hot, he's implying cold noodles
+Dialogue: 0,0:05:30.90,0:05:31.80,Housei,,0,0,0,,Sorry for that
+Dialogue: 0,0:05:32.96,0:05:35.05,OTHERDUDES,,0,0,0,,Would you please say it in japanese?
+Dialogue: 0,0:05:34.04,0:05:35.05,Housei,,0,0,0,,Sure
+Dialogue: 0,0:05:35.65,0:05:36.62,Hamada,,0,0,0,,"Sure", he said
+Dialogue: 0,0:05:45.42,0:05:48.80,Housei,,0,0,0,,I'll have a nenjuu mukyuu ka
+Dialogue: 0,0:05:45.42,0:05:48.80,Housei,,0,0,0,,{\4c&H22D727&\4a&HFF&\fscx65\fscy70\pos(618,676)}"NO HOLIDAYS THIS YEAR?"
+Dialogue: 0,0:05:48.80,0:05:49.88,OTHERDUDES,,0,0,0,,No holidays all year...?
+Dialogue: 0,0:05:49.88,0:05:51.30,Housei,,0,0,0,,Nenjuu mukyuu ka
+Dialogue: 0,0:05:49.88,0:05:51.30,Housei,,0,0,0,,{\4c&H22D727&\4a&HFF&\fscx65\fscy70\pos(550,678)}"NO HOLIDAYS THIS YEAR?"
+Dialogue: 0,0:05:52.17,0:05:53.17,Housei,,0,0,0,,Nenjuu mukyuu ka
+Dialogue: 0,0:05:52.17,0:05:53.17,Housei,,0,0,0,,{\4c&H22D727&\4a&HFF&\fscx65\fscy70\pos(550,678)}"NO HOLIDAYS THIS YEAR?"
+Dialogue: 0,0:05:53.17,0:05:55.13,OTHERDUDES,,0,0,0,,Are you asking me when are we closed?
+Dialogue: 0,0:05:56.13,0:05:57.55,OTHERDUDES,,0,0,0,,We're closed on weekends
+Dialogue: 0,0:05:59.17,0:06:00.51,Housei,,0,0,0,,Nenjuu mukyuu ka
+Dialogue: 0,0:05:59.17,0:06:00.51,Housei,,0,0,0,,{\4c&H22D727&\4a&HFF&\fscx65\fscy70\pos(550,678)}"NO HOLIDAYS THIS YEAR?"
+Dialogue: 0,0:06:01.80,0:06:03.41,Hamada,,0,0,0,,{\fscx86\fscy83\pos(284,320)}What a bad situation...
+Dialogue: 0,0:06:03.01,0:06:06.05,OTHERDUDES,,0,0,0,,May I suggest you our tantan noodles? They're very good
+Dialogue: 0,0:06:04.67,0:06:05.51,Housei,,0,0,0,,{\pos(264,550)}Ok
+Dialogue: 0,0:06:05.25,0:06:06.08,Hamada,,0,0,0,,{\fscx83\fscy81\pos(282,320)}He went for tantan
+Dialogue: 0,0:06:06.08,0:06:07.91,Matsumoto,,0,0,0,,{\fscx83\fscy81\pos(282,320)}As suggested by the waiter
+Dialogue: 0,0:06:07.91,0:06:09.51,Hamada,,0,0,0,,{\fscx83\fscy81\pos(282,320)}He said "yes" too
+Dialogue: 0,0:06:07.21,0:06:11.80,Credits,,0,0,0,,{\fad(700,400)\pos(564,594)\3c&H242427&}Yamazaki ends up getting his order chosen by the waiter
+Dialogue: 0,0:06:12.30,0:06:13.83,Hamada,,0,0,0,,{\pos(558,52)}Why did you say "yes", dude?
+Dialogue: 0,0:06:12.01,0:06:14.96,TITLECARD,,0,0,0,,{\fad(0,300)\c&HFF0000&\3c&HFFFFFF&}X {\c&H92FEF8&\3c&H000000&}Nenjuu Mukyuu Ka
+Dialogue: 0,0:06:12.01,0:06:14.96,TITLECARD,,0,0,0,,{\fad(0,300)\fscx47\fscy52\pos(568.8,650.8)}"No holidays this year?"
+Dialogue: 0,0:06:15.83,0:06:20.16,Matsumoto,,0,0,0,,As you can see, it starts with lots of circles but then it's all crosses
+Dialogue: 0,0:06:20.70,0:06:23.38,Matsumoto,,0,0,0,,It means they were perfectly ordered
+Dialogue: 0,0:06:23.38,0:06:25.70,Matsumoto,,0,0,0,,Man, I'm so good at explaining stuff
+Dialogue: 0,0:06:26.83,0:06:28.75,Matsumoto,,0,0,0,,And so, for our grand finale
+Dialogue: 0,0:06:28.75,0:06:31.16,Matsumoto,,0,0,0,,Let's push hiyashi chuuka's limit to this:
+Dialogue: 0,0:06:28.75,0:06:31.16,Matsumoto,,0,0,0,,{\4c&H1727D6&\4a&HFF&\fscx68\fscy58\pos(518,678)}COLD NOODLES
+Dialogue: 0,0:06:32.16,0:06:33.54,Matsumoto,,0,0,0,,Suzuki Kyoka
+Dialogue: 0,0:06:32.16,0:06:35.29,Credits,,0,0,0,,{\pos(540,42)}(japanese actress)
+Dialogue: 0,0:06:35.29,0:06:37.00,Matsumoto,,0,0,0,,That's our arrival point
+Dialogue: 0,0:06:37.00,0:06:38.20,Hamada,,0,0,0,,This won't work
+Dialogue: 0,0:06:38.20,0:06:43.04,Matsumoto,,0,0,0,,I don't know that... I mean, we had "Ouyan Fifi" for "Ice Coffee"...
+Dialogue: 0,0:06:43.04,0:06:45.29,Matsumoto,,0,0,0,,And to be honest
+Dialogue: 0,0:06:45.29,0:06:47.16,Matsumoto,,0,0,0,,It was kind of forced
+Dialogue: 0,0:06:47.16,0:06:48.29,Matsumoto,,0,0,0,,But this one...
+Dialogue: 0,0:06:50.79,0:06:51.75,Hamada,,0,0,0,,You think so?
+Dialogue: 0,0:06:48.29,0:06:51.75,Matsumoto,,0,0,0,,I think this one can do the job
+Dialogue: 0,0:06:51.75,0:06:53.75,Matsumoto,,0,0,0,,I think it can, yeah
+Dialogue: 0,0:06:54.05,0:06:57.16,Matsumoto,,0,0,0,,Alright, it's time to disguise
+Dialogue: 0,0:06:54.71,0:07:01.55,Hamada,,0,0,0,,{\fad(400,400)\b1\c&HFF3440&\3c&HFFFFFF&\4c&H000000&\4a&H68&\3a&H4D&\1a&HC1&\fscx2110\fscy503\pos(508,210)}▀{\b0}
+Dialogue: 0,0:06:54.71,0:07:01.55,Others,,0,0,0,,{\fad(400,400)\pos(508,66)\c&HFFFFFF&\1a&H37&\3c&HF60919&\3a&HAC&}Will they be able to order hiyashi-
+Dialogue: 0,0:06:54.71,0:07:01.55,Others,,0,0,0,,{\fad(400,400)\pos(510,108)\c&HFFFFFF&\1a&H45&\3c&HF60919&\3a&H91&}chuuka by saying "Suzuki Kyoka"?
+Dialogue: 0,0:06:57.16,0:06:58.30,Hamada,,0,0,0,,Again?
+Dialogue: 0,0:06:58.30,0:07:01.10,Matsumoto,,0,0,0,,Can't be helped, we're doing it
+Dialogue: 0,0:07:01.10,0:07:02.50,Hamada,,0,0,0,,You'll end up crying again
+Dialogue: 0,0:07:02.50,0:07:04.29,Matsumoto,,0,0,0,,Not today, I swear I won't cry today
+Dialogue: 0,0:07:05.33,0:07:07.70,Hamada,,0,0,0,,What kind of disguise is that?
+Dialogue: 0,0:07:07.70,0:07:09.50,Matsumoto,,0,0,0,,Flawless, isn't it?
+Dialogue: 0,0:07:08.51,0:07:12.80,Credits,,0,0,0,,{\fad(400,400)\pos(564,594)\3c&H242427&}Downtown enter the shop with a flawless disguise
+Dialogue: 0,0:07:09.50,0:07:12.20,Hamada,,0,0,0,,How is it flawless? It barely works
+Dialogue: 0,0:07:13.70,0:07:15.20,Hamada,,0,0,0,,Here we go again
+Dialogue: 0,0:07:15.50,0:07:16.87,Hamada,,0,0,0,,Let's just do this
+Dialogue: 0,0:07:17.70,0:07:19.33,Hamada,,0,0,0,,What are we taking?
+Dialogue: 0,0:07:20.75,0:07:21.66,Hamada,,0,0,0,,Excuse me
+Dialogue: 0,0:07:21.66,0:07:22.25,OTHERDUDES,,0,0,0,,Coming
+Dialogue: 0,0:07:26.55,0:07:28.08,OTHERDUDES,,0,0,0,,Here
+Dialogue: 0,0:07:33.16,0:07:35.33,Hamada,,0,0,0,,Is this the menù?\N{\3c&H000000&\4c&HF60919&\4a&HFF&}- Yes
+Dialogue: 0,0:07:39.63,0:07:42.76,Matsumoto,,0,0,0,,I'll have...
+Dialogue: 0,0:07:42.76,0:07:43.96,Matsumoto,,0,0,0,,Suzuki Kyoka
+Dialogue: 0,0:07:45.55,0:07:46.30,OTHERDUDES,,0,0,0,,Sui...?
+Dialogue: 0,0:07:46.30,0:07:47.84,Matsumoto,,0,0,0,,Suzuki Kyoka
+Dialogue: 0,0:07:49.26,0:07:51.59,OTHERDUDES,,0,0,0,,Sui gyoza? You meant that?
+Dialogue: 0,0:07:49.26,0:07:51.59,OTHERDUDES,,0,0,0,,{\fscx47\fscy67\pos(414,674)}STEAMED DUMPLINGS
+Dialogue: 0,0:07:51.59,0:07:52.71,Matsumoto,,0,0,0,,Suzuki Kyoka
+Dialogue: 0,0:07:53.05,0:07:54.21,OTHERDUDES,,0,0,0,,Sui-kyou-ka...?
+Dialogue: 0,0:07:54.51,0:07:55.71,Matsumoto,,0,0,0,,Four of those
+Dialogue: 0,0:07:58.17,0:08:00.05,OTHERDUDES,,0,0,0,,You said sui-kyou-ka, right?
+Dialogue: 0,0:08:06.13,0:08:08.09,Matsumoto,,0,0,0,,Suzuki Kyoka
+Dialogue: 0,0:08:12.88,0:08:15.96,OTHERDUDES,,0,0,0,,You meant sui-gyouza, right? Or not?
+Dialogue: 0,0:08:12.88,0:08:15.96,OTHERDUDES,,0,0,0,,{\fscx47\fscy67\pos(512,678)}STEAMED DUMPLINGS
+Dialogue: 0,0:08:16.13,0:08:17.42,Matsumoto,,0,0,0,,Ok, sui-gyouza
+Dialogue: 0,0:08:16.13,0:08:17.42,Matsumoto,,0,0,0,,{\fscx47\fscy67\pos(566,676)\4c&H1727D6&\4a&HFF&}"STEAMED DUMPLINGS"
+Dialogue: 0,0:08:18.29,0:08:20.12,Hamada,,0,0,0,,You straight up ordered dumplings!
+Dialogue: 0,0:08:20.12,0:08:22.00,OTHERDUDES,,0,0,0,,Come on, man!
+Dialogue: 0,0:08:23.83,0:08:25.46,OTHERDUDES,,0,0,0,,What do you want for real?
+Dialogue: 0,0:08:25.46,0:08:27.38,Matsumoto,,0,0,0,,Ok, what I really want...
+Dialogue: 0,0:08:27.38,0:08:29.30,Matsumoto,,0,0,0,,Is chuuka-hiyashi-hiyashi
+Dialogue: 0,0:08:27.38,0:08:29.30,Matsumoto,,0,0,0,,{\4c&H1727D6&\4a&HFF&\fscx60\fscy67\pos(562,676)}"NOODLES COLDY-COLDY"
+Dialogue: 0,0:08:29.30,0:08:30.59,OTHERDUDES,,0,0,0,,Cold noodles? You sure?
+Dialogue: 0,0:08:31.29,0:08:32.85,OTHERDUDES,,0,0,0,,Give me a break!
+Dialogue: 0,0:08:32.85,0:08:34.65,OTHERDUDES,,0,0,0,,You two are incredible
+Dialogue: 0,0:08:35.15,0:08:36.55,OTHERDUDES,,0,0,0,,What's this about?
+Dialogue: 0,0:08:37.33,0:08:39.51,OTHERDUDES,,0,0,0,,I'm gonna talk about this on 4chan, you know!
+Dialogue: 0,0:08:40.63,0:08:41.80,Hamada,,0,0,0,,We got exposed
+Dialogue: 0,0:08:43.66,0:08:45.71,OTHERDUDES,,0,0,0,,Cold noodles, one serve
+Dialogue: 0,0:08:42.55,0:08:48.67,Credits,,0,0,0,,{\fad(0,400)\3c&H242427&\pos(334,540)}He easily figured out they were
+Dialogue: 0,0:08:42.55,0:08:48.67,Credits,,0,0,0,,{\fad(0,400)\3c&H242427&\pos(462,608)}actually Downtown, despite of their flawless disguise
+Dialogue: 0,0:08:52.17,0:08:53.45,Hamada,,0,0,0,,What the hell, dude?
+Dialogue: 0,0:08:56.48,0:08:58.25,Hamada,,0,0,0,,Chuuka hiyashi-hiyashi...
+Dialogue: 0,0:08:56.48,0:08:58.25,Hamada,,0,0,0,,{\4c&H1727D6&\4a&HFF&\fscx60\fscy67\pos(548,678)}"NOODLES COLDY-COLDY"
+Dialogue: 0,0:09:00.38,0:09:08.21,TITLECARD,,0,0,0,,{\fad(0,300)\c&HFF0000&\3c&HFFFFFF&}X {\c&H92FEF8&\3c&H000000&}Suzuki Kyoka
+Dialogue: 0,0:09:03.45,0:09:05.79,Matsumoto,,0,0,0,,{\pos(538,536)}I see, I made a mistake
+Dialogue: 0,0:09:05.79,0:09:06.66,Hamada,,0,0,0,,{\pos(538,536)}What?
+Dialogue: 0,0:09:06.66,0:09:09.95,Matsumoto,,0,0,0,,{\pos(538,536)}I didn't consider there was "sui-gyoza" on the menù
+Dialogue: 0,0:09:06.66,0:09:09.95,Matsumoto,,0,0,0,,{\fscx47\fscy67\4c&H1727D6&\4a&HFF&\pos(638,502)}"STEAMED DUMPLINGS"
+Dialogue: 0,0:09:09.95,0:09:14.95,Hamada,,0,0,0,,Even so, there's no way "Suzuki Kyoka" would ever work
+Dialogue: 0,0:09:14.95,0:09:18.54,Matsumoto,,0,0,0,,Yeah but... we also know that chuuka hiyashi-hiyashi perfectly works
+Dialogue: 0,0:09:14.95,0:09:18.54,Matsumoto,,0,0,0,,{\4c&H1727D6&\4a&HFF&\fscx60\fscy67\pos(650,676)}"NOODLES COLDY-COLDY"
+Dialogue: 0,0:09:18.54,0:09:19.70,Hamada,,0,0,0,,Satisfied now?
+Dialogue: 0,0:09:21.70,0:09:22.80,OTHERDUDES,,0,0,0,,Can I...?
+Dialogue: 0,0:09:22.80,0:09:24.25,Matsumoto,,0,0,0,,Oh, sure
+Dialogue: 0,0:09:24.51,0:09:29.21,Credits,,0,0,0,,{\fad(400,400)\pos(564,594)\3c&H242427&}Downtown got a sign request by an employee
+Dialogue: 0,0:09:30.91,0:09:31.33,Matsumoto,,0,0,0,,Here
+Dialogue: 0,0:09:34.03,0:09:35.70,OTHERDUDES,,0,0,0,,Thank you so much\N{\3c&HF60919&\4c&HF60919&\4a&H00&}- It's nothing
+Dialogue: 0,0:09:36.54,0:09:38.41,Hamada,,0,0,0,,You suck, man
+Dialogue: 0,0:09:43.75,0:09:46.13,Matsumoto,,0,0,0,,Let's finish this with a sign\N{\3c&HF60919&\4c&HF60919&}- Yeah...
+Dialogue: 0,0:09:46.13,0:09:46.66,Hamada,,0,0,0,,Here
+Dialogue: 0,0:09:46.66,0:09:48.08,OTHERDUDES,,0,0,0,,Thank you very much
+Dialogue: 0,0:09:49.54,0:09:51.04,OTHERDUDES,,0,0,0,,Thank you!
+Dialogue: 0,0:09:52.84,0:09:54.38,Hamada,,0,0,0,,I hate this
+Dialogue: 0,0:10:00.90,0:10:02.00,Hamada,,0,0,0,,Turn that off
+Dialogue: 0,0:10:03.20,0:10:04.62,Hamada,,0,0,0,,He's crying again
+Dialogue: 0,0:09:34.00,0:09:39.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(226,30)}Translation & typeset by {\c&H70CBFF&}Shion (@FGRNDNoises)
+Dialogue: 0,0:09:39.00,0:09:44.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(230,28)}more episodes @ {\c&H7DFE87&}shionnotsukai.wordpress.com
+Dialogue: 0,0:09:44.00,0:09:49.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(175.2,29.6)}like my page:{\c&HE7A466&} fb.com/shionnotsukai
+Dialogue: 0,0:09:49.00,0:09:58.00,Credits,,0,0,0,,{\fad(300,300)\fs26\pos(192.4,28)}Show your support by donating on ko-fi:
+Dialogue: 0,0:09:49.00,0:09:58.00,Credits,,0,0,0,,{\fad(300,300)\fs26\c&HD870FF&\pos(130.8,56.4)}ko-fi.com/shionnotsukai
+

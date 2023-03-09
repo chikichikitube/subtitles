@@ -1,0 +1,691 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Aegisub Video Aspect Ratio: c1.777778
+
+[Aegisub Project Garbage]
+Last Style Storage: Downtown Standards
+Audio File: Gaki_150614_#1259_Endo plays Mori Shinichi.mp4
+Video File: Gaki_150614_#1259_Endo plays Mori Shinichi.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 608
+Active Line: 626
+Video Position: 43450
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,123,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Hamada,Arial,63,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Matsumoto,Arial,63,&H001425DF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Yamasaki,Arial,63,&H0011AA16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Endo,Arial,63,&H00026CE1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Mori Shinichi Endo,Arial,65,&H00FFFFFF,&H000000FF,&H32000000,&H6C000000,-1,0,0,0,110,100,0,0,1,4,4.5,2,9,9,11,1
+Style: Tanaka,Arial,63,&H00E91694,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Talking Over Matsumoto,Arial,56,&H000607D2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,9,135,23,405,1
+Style: Talking Over Hamada,Arial,56,&H00DD4137,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,9,135,23,405,1
+Style: Talking Over Yamasaki,Arial,56,&H00089C0D,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,9,135,23,405,1
+Style: Talking Over Tanaka,Arial,56,&H00E624BC,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,9,135,23,405,1
+Style: Talking Over Endo,Arial,56,&H003099F2,&H000000FF,&H00FFFFFF,&H00000000,0,-1,0,0,100,100,0,0,1,4.49998,4.49998,9,135,23,405,1
+Style: Sign,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,123,100,0,0,1,4,4,2,9,9,11,1
+Style: White Text,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Yellow text,Arial,61,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,130,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: More glow,Arial,101,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,136.364,100,0,0,1,4.5,7.49999,2,9,9,11,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,5,9,9,11,1
+Style: Blue rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H13A8271B,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Red rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H0D16175A,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Titlered,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,4,8.00001,2,9,9,11,1
+Style: Blocky,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,7,4,2,9,9,11,1
+Style: Yellow announcmend,Arial,56,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,136.364,100,0,0,1,4,2.99999,2,9,9,11,1
+Style: Green rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H6244D33A,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Corner notice,Arial,41,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Alternative sign,Arial,97,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,136.364,100,0,0,1,4,2.99999,2,9,9,11,1
+Style: Newtofupandatitle,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,2.99999,2.99999,2,11,11,16,1
+Style: Black Matsumoto,Arial,63,&H00000000,&H000000FF,&H00FFFFFF,&H000000FF,-1,0,0,0,123,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Black Hamada,Arial,63,&H00000000,&H000000FF,&H00FFFFFF,&H00B8041E,-1,0,0,0,123,100,0,0,1,4,2.44998,2,9,9,11,1
+Style: Black,Arial,63,&H00000000,&H00000000,&H00FBFBFD,&H00000000,-1,0,0,0,110,100,0,0,1,4.49998,4.49998,2,23,23,25,1
+Style: Pink :/,Arial,63,&H00FFFFFF,&H000000FF,&H00B536EF,&H00000000,-1,0,0,0,123,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Osaka Title,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,2.475,1.8,2,9,9,11,1
+Style: Goofy round,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,4,4,2,9,9,11,1
+Style: Handgof,Arial,79,&H00F70002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,136.364,100,0,0,1,4.5,1.99999,2,9,9,11,1
+Style: Torn font,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,136.364,100,0,0,1,5.175,4.5,2,9,9,11,1
+Style: Sharp Blocky,Arial,113,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,137,100,0,0,1,5,6.75,2,18,18,14,1
+Style: Smooth Blocky,Arial,77,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,137,100,0,0,1,5,2.5,2,18,18,14,1
+Style: Smogo,Arial,124,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,130,100,0,0,1,6.75,5,2,16,16,14,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:23.75,0:00:25.85,Matsumoto,,0,0,0,,Text
+Comment: 0,0:01:53.92,0:01:56.47,Hamada,,0,0,0,,Corner topic
+Comment: 0,0:01:55.26,0:02:05.97,Matsumoto,,0,0,0,,Toend
+Comment: 0,0:02:37.54,0:02:43.48,Black,,0,0,0,,^ Important or not?
+Comment: 0,0:05:09.12,0:05:17.76,Rectangle,,0,0,0,,Corner topic
+Comment: 0,0:05:31.20,0:05:32.77,Talking Over Matsumoto,,0,0,0,,Text
+Comment: 0,0:05:44.77,0:05:47.27,White Text,,0,0,0,,Start of license bit
+Comment: 0,0:06:50.17,0:06:52.15,Talking Over Endo,,0,0,0,,Text
+Comment: 0,0:07:19.15,0:07:21.25,Talking Over Endo,,0,0,0,,Text
+Comment: 0,0:07:53.42,0:07:56.32,Talking Over Yamasaki,,0,0,0,,Text
+Comment: 0,0:08:54.92,0:08:55.98,Matsumoto,,0,0,0,,Text
+Comment: 0,0:09:06.92,0:09:09.97,Matsumoto,,0,0,0,,Corner topic
+Comment: 0,0:09:22.15,0:09:23.17,Mori Shinichi Endo,,0,0,0,,Scare scene - In scene - no talking over
+Comment: 0,0:09:32.47,0:09:35.15,Talking Over Matsumoto,,0,0,0,,Start of talkover (Talking over only)
+Comment: 0,0:09:48.77,0:09:54.74,Torn font,,0,0,0,,Note to self - Consider other font
+Comment: 0,0:10:19.17,0:10:22.80,Mori Shinichi Endo,,0,0,0,,{\blur5}Text
+Comment: 0,0:13:27.52,0:13:27.90,Mori Shinichi Endo,,0,0,0,,End of mori part
+Comment: 0,0:13:29.12,0:13:31.12,Talking Over Hamada,,0,0,0,,End of talking over
+Comment: 0,0:14:01.92,0:14:06.30,Tanaka,,0,0,0,,Corner topic
+Comment: 0,0:14:13.63,0:14:13.66,Talking Over Matsumoto,,0,0,0,,Start of talking over
+Comment: 0,0:14:12.05,0:14:14.05,Matsumoto,,0,0,0,,Start of Mori-san only part
+Comment: 0,0:15:02.85,0:15:06.20,Black,,0,0,0,,Text
+Comment: 0,0:15:06.20,0:15:11.07,Black,,0,0,0,,Text
+Comment: 0,0:15:11.07,0:15:13.85,Black,,0,0,0,,Text
+Comment: 0,0:15:49.63,0:15:56.60,Default,,0,0,0,,{\fade(400,400)\pos(564.368,954)}{\blur5}{\pos(342,972)\c&H000000&\4c&HFFFFFF&\3c&HFFFFFF&}Shesuta Yamanaka-ko Corina Ichiban-kan
+Comment: 0,0:16:03.10,0:16:05.07,Black,,0,0,0,,Text
+Comment: 0,0:16:18.25,0:16:20.32,Talking Over Endo,,0,0,0,,Text
+Comment: 0,0:17:10.15,0:17:10.30,Talking Over Endo,,0,0,0,,End of talking over apartment
+Comment: 0,0:17:10.10,0:17:10.37,Black,,0,0,0,,End of mori
+Comment: 0,0:17:57.67,0:17:59.62,Yamasaki,,0,0,0,,Corner topic
+Comment: 0,0:18:10.27,0:18:10.30,Pink :/,,0,0,0,,Start of talking over golf hentai!
+Comment: 0,0:18:10.17,0:18:10.32,Endo,,0,0,0,,Start of golf mori only
+Comment: 0,0:18:18.97,0:18:21.45,Talking Over Matsumoto,,0,0,0,,Text
+Comment: 0,0:19:59.72,0:20:01.57,Mori Shinichi Endo,,0,0,0,,Today
+Comment: 0,0:19:59.72,0:20:01.57,Mori Shinichi Endo,,0,0,0,,{\blur5}Today,
+Comment: 0,0:20:00.60,0:20:03.35,Talking Over Yamasaki,,0,0,0,,text
+Comment: 0,0:20:02.25,0:20:04.95,Talking Over Hamada,,0,0,0,,Text
+Comment: 0,0:21:37.22,0:21:37.35,Pink :/,,0,0,0,,End of mori golf
+Comment: 0,0:21:44.00,0:21:44.17,Mori Shinichi Endo,,0,0,0,,End of talking over golf
+Comment: 0,0:22:11.45,0:22:13.45,Mori Shinichi Endo,,0,0,0,,Note to self - Consider effect after trans
+Comment: 0,0:22:11.45,0:22:13.45,Mori Shinichi Endo,,0,0,0,,Start of song
+Comment: 0,0:23:03.37,0:23:07.35,Yamasaki,,0,0,0,,Text
+Comment: 0,0:23:54.72,0:24:09.79,Tanaka,,0,0,0,,End
+Dialogue: 0,0:00:00.55,0:00:02.98,Endo,,0,0,0,,Gaki no Tsukai ya Arahende!! Presents
+Dialogue: 0,0:00:02.98,0:00:07.42,Endo,,0,0,0,,Please Endo! We Want to See Mori Shinichi Do This!!
+Dialogue: 0,0:00:07.79,0:00:12.16,Rectangle,,0,0,0,,{\fade(400,0)}{\p1\clip(0,756,1440,1026)\fscx891\fscy215\pos(541.055,888.75)\4c&H2F2F30&\4a&H32&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:00:07.79,0:00:12.16,Sign,,0,0,0,,{\fade(400,0)\pos(722.531,706.5)\fscx93\fscy102}{\c&HDDD450&\3c&HFFFFFF&\4c&H000000&}Downtown
+Dialogue: 0,0:00:07.79,0:00:12.16,Matsumoto,,0,0,0,,{\fade(400,0)\pos(465.932,834.75)}Matsumoto Hitoshi
+Dialogue: 0,0:00:07.79,0:00:12.16,Hamada,,0,0,0,,{\fade(400,0)\pos(1052.815,830.999)}Hamada Masatoshi
+Dialogue: 0,0:00:07.79,0:00:12.16,Sign,,0,0,0,,{\fade(400,0)\fscx84\fscy100\pos(546.964,915.75)}{\c&H288EE0&\3c&HFFFFFF&}Cocorico
+Dialogue: 0,0:00:07.79,0:00:12.16,Endo,,0,0,0,,{\fade(400,0)\pos(305.206,994.5)}Endo Shozo
+Dialogue: 0,0:00:07.79,0:00:12.16,Tanaka,,0,0,0,,{\fade(400,0)\pos(718.409,998.75)}Tanaka Naoki
+Dialogue: 0,0:00:07.79,0:00:12.16,Yamasaki,,0,0,0,,{\fade(400,0)\pos(1177.922,996.75)}Tsukitei Hosei
+Dialogue: 0,0:00:12.22,0:00:15.40,Endo,,0,0,0,,These are things that the real Mori Shinichi would...
+Dialogue: 0,0:00:15.50,0:00:17.33,Endo,,0,0,0,,would probably never do for us.
+Dialogue: 0,0:00:17.33,0:00:18.80,Endo,,0,0,0,,I apologize.
+Dialogue: 0,0:00:16.93,0:00:18.80,Hamada,,0,0,0,,Say it right
+Dialogue: 0,0:00:18.80,0:00:22.53,Matsumoto,,0,0,0,,{\pos(720,906.75)}You've been off since you announced the episode.
+Dialogue: 0,0:00:21.15,0:00:23.72,Matsumoto,,0,0,0,,Your voice was a little too loud and shaky.
+Dialogue: 0,0:00:26.22,0:00:30.50,Endo,,0,0,0,,So these are things that the real Mori Shinichi would never show us,
+Dialogue: 0,0:00:30.50,0:00:32.60,Endo,,0,0,0,,and they are requests from the members.
+Dialogue: 0,0:00:26.41,0:00:37.68,Rectangle,,0,0,0,,{\fade(400,0)}{\p1\clip(0,788,1440,1031)\fscx765\fscy233\pos(401.78,906.75)\4c&HFFFFFF&\4a&H00&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:00:26.41,0:00:37.68,Smogo,,0,0,0,,{\fade(400,0)\fscx57\fscy53\pos(710.901,880.249)}{\b0\c&HFA1B2E&\3c&HFFFFFF&}Endo will {\c&H2100DB&}act as Mori Shinichi {\c&HFA1A2D&}and
+Dialogue: 0,0:00:26.41,0:00:37.68,Smogo,,0,0,0,,{\fade(400,0)\b0\c&H066FD9&\3c&HFFFFFF&\pos(707.526,968.499)\fscx57\fscy53}do what {\c&H39FFF1&\3c&H000000&\4c&HFFFFFF&}the Gaki members {\c&HFF1A31&\3c&HFFFFFF&\4c&H000000&}want to see
+Dialogue: 0,0:00:32.60,0:00:37.68,Endo,,0,0,0,,And the plan is that I, Endo Shouzou, will impersonate him and act them out.
+Dialogue: 0,0:00:37.68,0:00:44.49,Matsumoto,,0,0,0,,{\pos(480.528,798.5)}But I never thought that Endo
+Dialogue: 0,0:00:40.95,0:00:44.49,Matsumoto,,0,0,0,,{\pos(703.708,928.606)}was that good at impersonations or anything
+Dialogue: 0,0:00:44.77,0:00:48.07,Endo,,0,0,0,,Impersonations aren't really my strong suit, but...
+Dialogue: 0,0:00:48.12,0:00:50.30,Yamasaki,,0,0,0,,That lip syncing thing was the first time I've seen it.
+Dialogue: 0,0:00:51.27,0:00:52.70,Tanaka,,0,0,0,,That was the start, huh
+Dialogue: 0,0:00:52.70,0:00:54.70,Endo,,0,0,0,,I spent a day and a half{\alpha&HFF&} recording that segment.
+Dialogue: 0,0:00:54.70,0:00:57.67,Endo,,0,0,0,,I spent a day and a half recording that segment.
+Dialogue: 0,0:00:56.77,0:00:57.77,Tanaka,,0,0,0,,{\pos(1083.798,515.25)} A whole seperate day?
+Dialogue: 0,0:00:57.67,0:00:59.30,Matsumoto,,0,0,0,,Of course it took so long.
+Dialogue: 0,0:00:59.30,0:01:00.44,Black Matsumoto,,0,0,0,,{\pos(720,891)}Mori Shinichi{\alpha&HFF&} does it every second of his life.
+Dialogue: 0,0:01:00.44,0:01:04.41,Black Matsumoto,,0,0,0,,{\pos(720,891)}Mori Shinichi does it every second {\c&H0000FF&\4c&H000000&}of his life.
+Dialogue: 0,0:01:02.85,0:01:05.17,Matsumoto,,0,0,0,,A day and a half is nothing
+Dialogue: 0,0:01:05.48,0:01:08.95,Black Hamada,,0,0,0,,{\pos(722.531,895.5)}But he's not Mori Shinichi!!
+Dialogue: 0,0:01:07.50,0:01:08.95,Yamasaki,,0,0,0,,Is that so
+Dialogue: 0,0:01:09.35,0:01:14.95,Newtofupandatitle,,0,0,0,,{\fade(400,0)\pos(723.233,145.143)}{\fs119.999\fscx49.091\fscy74\pos(702,140)}Tofu Panda Fan subs presents
+Dialogue: 0,0:01:11.22,0:01:14.95,Newtofupandatitle,,0,0,0,,{\fade(400,0)\pos(710.152,1050.716)}{\c&H65CDFD&\3c&H1D0B90&\fscx81.818\fscy127\pos(700.499,215.001)}Down Town's Gaki no tsukai ya arahende!!
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\pos(370.001,577.1)\b0\fscx106\fscy93}{\fscx111.818\fscy101\pos(384.001,704)}Translators:
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx106\fscy93\pos(371.545,687.699)}{\fscx111.818\fscy101\pos(784.499,705.998)}Typesetter:
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx106\fscy93\pos(590.002,578.349)}{\fscx111.818\fscy101\pos(382,797.332)}Kenny
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx106\fscy93\pos(588.173,686.349)}{\pos(782.501,798.667)} {\fscx111.818\fscy101\pos(682,794.666)}Otviss
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\fscx83\fscy106}{\pos(716.999,161.501)}**We also have facebook and twitter.**
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\pos(716.571,87.561)\fscx164\fscy140}{\pos(716.999,161.501)}**Tofupandas.tumblr.com**
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\fscx95\fscy86\pos(715.5,281.5)}{\pos(717.001,231.5)\fscx96.818\fscy86}*Support us by following the latest news and info on upcoming projects!*
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx91\fscy71\pos(719.156,398.25)}__________________________________________________{\b1}
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx91\fscy71\pos(717.469,785.25)}__________________________________________________{\b1}
+Dialogue: 0,0:01:14.95,0:01:20.93,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx76\fscy71\pos(722.534,1057.5)}If you ever see this video being distributed online but not by us, keep in mind that on Youtube, individuals may make money off of sharing fansubs like this that are not their own. Please go back and \Nsupport the original creators. Fansubbing is voluntary and is not meant to generate profit. You can \Ndownload episodes on our website instead. Thanks for watching!{\b1}
+Dialogue: 0,0:01:21.45,0:01:25.17,Endo,,0,0,0,,We gathered your requests beforehand
+Dialogue: 0,0:01:25.17,0:01:28.70,Endo,,0,0,0,,and recorded them, so let's start with Matsumoto-san.
+Dialogue: 0,0:01:28.70,0:01:30.20,Endo,,0,0,0,,What did you want to see?
+Dialogue: 0,0:01:29.72,0:01:30.20,Matsumoto,,0,0,0,,Right.
+Dialogue: 0,0:01:30.20,0:01:32.07,Matsumoto,,0,0,0,,I actually,
+Dialogue: 0,0:01:35.20,0:01:36.00,Hamada,,0,0,0,,Mori Shinichi's?
+Dialogue: 0,0:01:32.07,0:01:37.31,Matsumoto,,0,0,0,,{\pos(582.415,785.25)}Recently I went to his concert
+Dialogue: 0,0:01:33.67,0:01:37.31,Matsumoto,,0,0,0,,{\pos(722.531,911.25)}at Nakano Plaza
+Dialogue: 0,0:01:36.00,0:01:37.37,Matsumoto,,0,0,0,,That's right.
+Dialogue: 0,0:01:37.37,0:01:40.95,Matsumoto,,0,0,0,,I wanted to finally hear his songs live, so
+Dialogue: 0,0:01:41.47,0:01:45.20,Matsumoto,,0,0,0,,I went to his concert and thought "he really is that good" but
+Dialogue: 0,0:01:45.95,0:01:48.79,Matsumoto,,0,0,0,,{\pos(356.202,794.25)}There was something
+Dialogue: 0,0:01:45.95,0:01:48.79,Matsumoto,,0,0,0,,{\pos(706.435,935.681)}that I wanted to see that he would never do there.
+Dialogue: 0,0:01:48.79,0:01:50.45,Matsumoto,,0,0,0,,That one thing is this.
+Dialogue: 0,0:01:50.45,0:01:52.09,Endo,,0,0,0,,Swimming.
+Dialogue: 0,0:01:51.05,0:01:52.09,Matsumoto,,0,0,0,,Him swimming.
+Dialogue: 0,0:01:52.10,0:01:53.92,Matsumoto,,0,0,0,,What he looks like swimming...
+Dialogue: 0,0:01:53.92,0:01:56.76,Hamada,,0,0,0,,It's possible that he actually
+Dialogue: 0,0:01:56.77,0:01:59.27,Hamada,,0,0,0,,swims by himself a lot.
+Dialogue: 0,0:01:59.30,0:02:03.77,Endo,,0,0,0,,Well, I went swimming while impersonating Mori Shinichi,
+Dialogue: 0,0:01:55.26,0:02:05.97,Rectangle,,0,0,0,,{\fade(400,0)\fscx435\fscy195\clip(88,889,506,1013)}{\p1\pos(295.427,951.75)\4c&HFFFFFF&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:01:55.26,0:02:05.97,Sign,,0,0,0,,{\fade(400,0)}{\pos(293.74,976.5)\c&HF91A2C&\3c&HFFFFFF&}Swimming
+Dialogue: 0,0:01:55.26,0:02:05.97,Matsumoto,,0,0,0,,{\fade(400,0)}{\b0\pos(293.74,816.75)}Matsumoto's Request
+Dialogue: 0,0:02:03.77,0:02:05.97,Endo,,0,0,0,,so please take a look at the tape.
+Dialogue: 0,0:02:07.07,0:02:09.71,Mori Shinichi Endo,,0,0,0,,{\blur5}{\fade(400,0)}{\pos(855.898,913.5)}Roll It.
+Dialogue: 0,0:02:09.00,0:02:10.20,Hamada,,0,0,0,,That's just the right amount.
+Dialogue: 0,0:02:10.82,0:02:12.30,Hamada,,0,0,0,,Don't overdo it.
+Dialogue: 0,0:02:14.35,0:02:15.41,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening,{\alpha&HFF&} I'm Mori Shinichi.
+Dialogue: 0,0:02:15.41,0:02:17.65,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening, I'm Mori Shinichi.
+Dialogue: 0,0:02:17.80,0:02:19.42,Mori Shinichi Endo,,0,0,0,,{\blur5}Today,
+Dialogue: 0,0:02:19.42,0:02:23.96,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(722.531,828)}There was {\c&H0000FF&\3c&HFFFFFF&\3a&H00&}a request to watch {\c&HFBFBFB&\3c&H000000&}me swimming, so
+Dialogue: 0,0:02:23.96,0:02:28.59,Mori Shinichi Endo,,0,0,0,,{\blur5}I'd like to start swimming for them.{\fade(0,400)}
+Dialogue: 0,0:02:27.17,0:02:29.50,Talking Over Hamada,,0,0,0,,Was Mori Shinichi\N always that tan?
+Dialogue: 0,0:02:30.57,0:02:31.45,Talking Over Tanaka,,0,0,0,,He is very tan.
+Dialogue: 0,0:02:31.43,0:02:37.17,Osaka Title,,0,0,0,,{\fade(400,0)\fscx145\fscy176\pos(695.522,643.5)\b0}If Mori Shinichi
+Dialogue: 0,0:02:31.43,0:02:37.17,Osaka Title,,0,0,0,,{\fade(400,0)\fscx145\fscy176\b0\pos(693.835,830.25)\c&HFC3A40&\3c&HFFFFFF&\4c&H000000&}were to{\c&HFFFFFF&\3c&H000000&} go swimming...
+Dialogue: 0,0:02:36.42,0:02:38.02,Talking Over Hamada,,0,0,0,,You have to\N keep doing that \Nface the whole time
+Dialogue: 0,0:02:38.02,0:02:39.90,Talking Over Endo,,0,0,0,,Right, that was \Nthe hard part.
+Dialogue: 0,0:02:39.90,0:02:42.30,Talking Over Tanaka,,0,0,0,,Especially \Nwhile swimming...
+Dialogue: 0,0:02:37.54,0:02:43.48,Black,,0,0,0,,{\fade(400,400\pos(146.307,426))\pos(329.191,960.75)\b0}Via Sports Avenue{\b1}
+Dialogue: 0,0:02:44.70,0:02:47.62,Default,,0,0,0,,On your mark, get set...
+Dialogue: 0,0:02:55.70,0:02:57.07,Talking Over Yamasaki,,0,0,0,,It's Mori Shinichi...
+Dialogue: 0,0:02:57.07,0:03:00.42,Talking Over Endo,,0,0,0,,If Mori Shinichi went \Nswimming, It might \Nlook something like this.
+Dialogue: 0,0:03:07.87,0:03:11.92,Talking Over Hamada,,0,0,0,,Does this really need a\N song and slow motion?
+Dialogue: 0,0:03:12.07,0:03:14.15,Talking Over Hamada,,0,0,0,,What is this?!
+Dialogue: 0,0:03:14.30,0:03:16.27,Talking Over Hamada,,0,0,0,,This is just boring to watch
+Dialogue: 0,0:03:14.80,0:03:17.20,Talking Over Matsumoto,,0,0,0,,It's not a great impression...
+Dialogue: 0,0:03:17.62,0:03:20.57,Talking Over Yamasaki,,0,0,0,,Right? It's way \Nmore Endo than Mori
+Dialogue: 0,0:03:21.05,0:03:22.97,Talking Over Yamasaki,,0,0,0,,It's mostly just Endo.
+Dialogue: 0,0:03:23.10,0:03:24.35,Talking Over Matsumoto,,0,0,0,,Especially in slow motion
+Dialogue: 0,0:03:23.90,0:03:24.35,Talking Over Tanaka,,0,0,0,,Ahh
+Dialogue: 0,0:03:24.40,0:03:26.30,Talking Over Matsumoto,,0,0,0,,Ah, this might be better
+Dialogue: 0,0:03:29.12,0:03:31.85,Talking Over Matsumoto,,0,0,0,,The freestyle \Nstroke looks better
+Dialogue: 0,0:03:32.97,0:03:35.35,Talking Over Endo,,0,0,0,,I tried hard to\N keep doing the face
+Dialogue: 0,0:03:37.00,0:03:38.67,Talking Over Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:03:38.75,0:03:41.40,Talking Over Yamasaki,,0,0,0,,I just saw him\N for a split second
+Dialogue: 0,0:03:41.52,0:03:42.60,Talking Over Endo,,0,0,0,,Mori Shinichi's...
+Dialogue: 0,0:03:42.67,0:03:45.42,Talking Over Matsumoto,,0,0,0,,This song is about \Na cold place though, so
+Dialogue: 0,0:03:45.50,0:03:49.20,Talking Over Matsumoto,,0,0,0,,It doesn't \Nreally fit here.
+Dialogue: 0,0:03:49.85,0:03:51.87,Talking Over Hamada,,0,0,0,,But you're still able to swim as him.
+Dialogue: 0,0:03:51.97,0:03:54.00,Talking Over Endo,,0,0,0,,That's right.
+Dialogue: 0,0:03:57.80,0:03:59.00,Talking Over Endo,,0,0,0,,Thank you.
+Dialogue: 0,0:03:55.30,0:03:59.02,Talking Over Matsumoto,,0,0,0,,Oh, but you're kinda \Nstarting to look like him.
+Dialogue: 0,0:04:01.07,0:04:02.97,Talking Over Hamada,,0,0,0,,I don't know about that...
+Dialogue: 0,0:04:03.50,0:04:04.67,Talking Over Matsumoto,,0,0,0,,Butterfly...
+Dialogue: 0,0:04:03.05,0:04:04.72,Talking Over Endo,,0,0,0,,Here's the butterfly.
+Dialogue: 0,0:04:04.75,0:04:05.60,Talking Over Hamada,,0,0,0,,You aren't \Neven doing it right
+Dialogue: 0,0:04:05.60,0:04:09.15,Talking Over Matsumoto,,0,0,0,,He's not doing \Nthe butterfly or the \Nimpression right.
+Dialogue: 0,0:04:09.77,0:04:10.87,Talking Over Yamasaki,,0,0,0,,It's bad
+Dialogue: 0,0:04:10.40,0:04:13.10,Talking Over Matsumoto,,0,0,0,,A double failure
+Dialogue: 0,0:04:14.75,0:04:16.65,Talking Over Matsumoto,,0,0,0,,Yea, I see
+Dialogue: 0,0:04:16.65,0:04:19.67,Talking Over Yamasaki,,0,0,0,,The freestyle \Npart was better
+Dialogue: 0,0:04:19.67,0:04:21.67,Talking Over Endo,,0,0,0,,That was better
+Dialogue: 0,0:04:22.67,0:04:24.12,Talking Over Matsumoto,,0,0,0,,I see I see
+Dialogue: 0,0:04:24.37,0:04:26.22,Talking Over Matsumoto,,0,0,0,,That face, huh
+Dialogue: 0,0:04:28.62,0:04:29.75,Endo,,0,0,0,,How was it?
+Dialogue: 0,0:04:27.35,0:04:29.77,Hamada,,0,0,0,,I see
+Dialogue: 0,0:04:29.85,0:04:34.25,Matsumoto,,0,0,0,,There were single moments where it was really good.
+Dialogue: 0,0:04:34.25,0:04:36.17,Endo,,0,0,0,,Like Mori Shinichi was there for just a moment?
+Dialogue: 0,0:04:36.17,0:04:37.52,Yamasaki,,0,0,0,,Especially the freestyle.
+Dialogue: 0,0:04:36.75,0:04:37.52,Tanaka,,0,0,0,,Especially.
+Dialogue: 0,0:04:37.52,0:04:41.32,Hamada,,0,0,0,,How do you think you did?
+Dialogue: 0,0:04:41.32,0:04:43.26,Endo,,0,0,0,,After filming for so long,{\alpha&HFF&} my face started to get numb.
+Dialogue: 0,0:04:43.26,0:04:45.80,Endo,,0,0,0,,After filming for so long, {\c&H000000&\3c&HFFFFFF&\4c&H006CD9&}my face started to get numb.
+Dialogue: 0,0:04:45.80,0:04:50.30,Endo,,0,0,0,,{\pos(724.221,920.25)\c&H000000&\3c&HFFFFFF&\4c&H026CE1&}I couldn't tell what face I was making anymore.
+Dialogue: 0,0:04:48.57,0:04:50.32,Endo,,0,0,0,,And it stays like that.
+Dialogue: 0,0:04:50.32,0:04:53.97,Matsumoto,,0,0,0,,The Mori Shinichi we think of is the singing version, so
+Dialogue: 0,0:04:53.97,0:04:57.81,Matsumoto,,0,0,0,,the real Mori might actually swim just like that.
+Dialogue: 0,0:04:57.81,0:05:00.48,Matsumoto,,0,0,0,,Considering that, it was really realistic.
+Dialogue: 0,0:05:00.60,0:05:02.75,Endo,,0,0,0,,Next up is Housei-san.
+Dialogue: 0,0:05:01.80,0:05:02.75,Yamasaki,,0,0,0,,Right
+Dialogue: 0,0:05:02.75,0:05:06.35,Yamasaki,,0,0,0,,My request, is this.
+Dialogue: 0,0:05:06.35,0:05:08.92,Yamasaki,,0,0,0,,I've never seen Mori-san get pranked.
+Dialogue: 0,0:05:11.17,0:05:13.02,Yamasaki,,0,0,0,,And since he's such a star, a sleeping prank would be...
+Dialogue: 0,0:05:13.02,0:05:15.60,Matsumoto,,0,0,0,,Not to mention, now of all times.
+Dialogue: 0,0:05:15.60,0:05:16.77,Yamasaki,,0,0,0,,Right, I'd love to see this.
+Dialogue: 0,0:05:09.12,0:05:17.76,Rectangle,,0,0,0,,{\fade(400,0)\fscx435\fscy195\clip(88,889,628,1013)}{\p1\pos(295.427,951.75)\4c&HFFFFFF&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:05:09.12,0:05:17.76,Sign,,0,0,0,,{\fade(400,0)\pos(346.072,972)}{\pos(293.74,976.5)\c&HE8AC0E&\3c&HFFFFFF&}Sleeping Prank
+Dialogue: 0,0:05:09.12,0:05:17.76,Yamasaki,,0,0,0,,{\fade(400,0)\pos(351.137,819)}{\b0\pos(293.74,816.75)}Housei's Request
+Dialogue: 0,0:05:16.77,0:05:19.03,Endo,,0,0,0,,Well, I went and did it.
+Dialogue: 0,0:05:19.03,0:05:22.93,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(673.576,895.5)}Please Watch
+Dialogue: 0,0:05:20.33,0:05:22.93,Mori Shinichi Endo,,0,0,0,,{\blur5}{\fade(400,0)\pos(1093.928,888.75)}{\pos(673.576,895.5)}Roll It
+Dialogue: 0,0:05:23.07,0:05:24.07,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening,{\alpha&HFF&} I'm Mori Shinichi.
+Dialogue: 0,0:05:25.35,0:05:26.27,Talking Over Yamasaki,,0,0,0,,Hey, it's pretty good.
+Dialogue: 0,0:05:24.07,0:05:26.91,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening, I'm Mori Shinichi.
+Dialogue: 0,0:05:27.00,0:05:28.31,Mori Shinichi Endo,,0,0,0,,{\blur5}Today,
+Dialogue: 0,0:05:27.65,0:05:30.60,Talking Over Hamada,,0,0,0,,This is good
+Dialogue: 0,0:05:28.31,0:05:35.05,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(719.156,821.25)}It seems that there was {\c&H2508E3&\3c&HFFFFFF&\3a&H00&}a sleeping prank {\c&HFFFFFF&\3c&H000000&\3a&H32&}request
+Dialogue: 0,0:05:28.31,0:05:35.05,Mori Shinichi Endo,,0,0,0,,{\blur5}for me, so
+Dialogue: 0,0:05:35.05,0:05:37.42,Mori Shinichi Endo,,0,0,0,,{\blur5}I'd like to start right away.
+Dialogue: 0,0:05:37.65,0:05:43.72,Goofy round,,0,0,0,,{\fade(400,400)\pos(700.216,277)\fscx107\fscy108}{\pos(710.716,153)\c&H1CAE17&\3c&HFFFFFF&\4c&HFFFFFF&}If Mori Shinchi
+Dialogue: 0,0:05:37.65,0:05:43.72,Goofy round,,0,0,0,,{\fade(400,400)\fscx286\fscy258\pos(722.531,711)}{\pos(710.716,153)\c&H210DC8&\3c&HFFFFFF&\4c&HFFFFFF&}Got Pranked
+Dialogue: 0,0:05:37.65,0:05:43.72,Goofy round,,0,0,0,,{\fade(400,400)\fscx286\fscy258\}{\c&HE11524&\3c&HFFFFFF&\4c&HFFFFFF&\fs49.5}While Sleeping...
+Dialogue: 0,0:05:44.77,0:05:47.27,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:05:46.12,0:05:47.50,Talking Over Tanaka,,0,0,0,,Oh, it's License
+Dialogue: 0,0:05:45.29,0:05:49.43,Sign,,0,0,0,,{\pos(730.973,796.5)\c&HF73121&\3c&HFFFFFF&}{\fade(400,400)}License
+Dialogue: 0,0:05:45.29,0:05:49.43,Default,,0,0,0,,{\fade(400,400)\pos(487.879,918)\c&H1AB108&\3c&HFFFFFF&}Fujiwara Kazuhiro
+Dialogue: 0,0:05:45.29,0:05:49.43,Default,,0,0,0,,{\fade(400,400)\c&H1AB108&\3c&HFFFFFF&\pos(970.693,918)}Inomoto Takafumi
+Dialogue: 0,0:05:48.85,0:05:50.05,Talking Over Tanaka,,0,0,0,,That's usually\N their role
+Dialogue: 0,0:05:48.05,0:05:50.12,Talking Over Hamada,,0,0,0,,They play the \Npranksters, huh
+Dialogue: 0,0:05:49.57,0:05:50.92,Default,,0,0,0,,Right now,
+Dialogue: 0,0:05:52.02,0:05:53.82,Talking Over Matsumoto,,0,0,0,,So this was definitely \N Fixed right?
+Dialogue: 0,0:05:53.87,0:05:56.40,Talking Over Hamada,,0,0,0,,Exactly
+Dialogue: 0,0:05:50.93,0:05:56.65,Default,,0,0,0,,in room 107 here,
+Dialogue: 0,0:05:56.65,0:05:59.92,Default,,0,0,0,,we've heard that it's Mori Shinichi's room.
+Dialogue: 0,0:06:09.40,0:06:11.47,Default,,0,0,0,,He's sleeping.
+Dialogue: 0,0:06:13.57,0:06:15.87,Default,,0,0,0,,He's sound asleep.
+Dialogue: 0,0:06:15.79,0:06:18.72,Handgof,,0,0,0,,{\fade(400,400)\c&HD01927&\3c&HFFFFFF&\pos(521.642,461.25)\b0}{\pos(533.459,452.25)}Sleeping Mori Shinichi
+Dialogue: 0,0:06:16.90,0:06:18.97,Default,,0,0,0,,Take a look at this.
+Dialogue: 0,0:06:18.97,0:06:21.02,Default,,0,0,0,,All of his clothes are here.
+Dialogue: 0,0:06:21.02,0:06:26.05,Default,,0,0,0,,Surprisingly, he doesn't hang up his clothes.
+Dialogue: 0,0:06:19.86,0:06:26.26,Handgof,,0,0,0,,{\fade(400,0)}{\pos(727.596,868.5)\b1\c&HDF1325&}Clothes Taken Off All Over the Bed
+Dialogue: 0,0:06:24.92,0:06:26.60,Talking Over Yamasaki,,0,0,0,,Mori-san does that?
+Dialogue: 0,0:06:26.42,0:06:29.00,Default,,0,0,0,,Perhaps, in the bed he's...
+Dialogue: 0,0:06:30.60,0:06:31.87,Default,,0,0,0,,Ah, hold on
+Dialogue: 0,0:06:31.87,0:06:35.14,Default,,0,0,0,,Let's take a look at his face.
+Dialogue: 0,0:06:34.42,0:06:36.80,Talking Over Matsumoto,,0,0,0,,Won't he wake \Nup if they do that?
+Dialogue: 0,0:06:35.22,0:06:37.10,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:06:38.12,0:06:40.75,Talking Over Matsumoto,,0,0,0,,Even slowly \Nhe'll wake up
+Dialogue: 0,0:06:37.47,0:06:40.77,Default,,0,0,0,,Slowly...
+Dialogue: 0,0:06:45.50,0:06:47.17,Default,,0,0,0,,He's really sleeping.
+Dialogue: 0,0:06:46.05,0:06:47.17,Talking Over Hamada,,0,0,0,,What is this
+Dialogue: 0,0:06:43.48,0:06:48.59,Handgof,,0,0,0,,{\fade(400,0)}{\b1\pos(722.531,861.75)}Sound Asleep Mori Shinichi
+Dialogue: 0,0:06:47.25,0:06:49.22,Talking Over Matsumoto,,0,0,0,,You can't sleep \Nthrough this
+Dialogue: 0,0:06:51.52,0:06:53.75,Default,,0,0,0,,He's wearing the hotel pajamas.
+Dialogue: 0,0:06:53.80,0:06:55.80,Talking Over Endo,,0,0,0,,The hotel pajamas.
+Dialogue: 0,0:06:54.47,0:07:00.05,Default,,0,0,0,,His buttons are nicely buttoned as well, as expected from a real entertainer.
+Dialogue: 0,0:07:05.27,0:07:08.07,Default,,0,0,0,,That was close, that was close.
+Dialogue: 0,0:07:08.42,0:07:10.32,Default,,0,0,0,,He just rubbed his face.
+Dialogue: 0,0:07:11.65,0:07:13.10,Talking Over Hamada,,0,0,0,,What IS this
+Dialogue: 0,0:07:12.55,0:07:15.15,Talking Over Yamasaki,,0,0,0,,There's some power in that thing.
+Dialogue: 0,0:07:13.50,0:07:15.92,Default,,0,0,0,,With this bazooka,
+Dialogue: 0,0:07:16.35,0:07:18.77,Talking Over Matsumoto,,0,0,0,,Wait wait, that's...
+Dialogue: 0,0:07:14.45,0:07:18.85,Handgof,,0,0,0,,{\fade(400,0)}{\pos(741.103,861.75)\c&HDD1624&}Waking Up Mori Shinichi with a Bazooka!
+Dialogue: 0,0:07:16.02,0:07:18.97,Default,,0,0,0,,I'd like to try and wake him up with one shot.
+Dialogue: 0,0:07:19.17,0:07:20.92,Default,,0,0,0,,And now,
+Dialogue: 0,0:07:20.75,0:07:23.25,Talking Over Hamada,,0,0,0,,If they do this...
+Dialogue: 0,0:07:21.07,0:07:25.65,Default,,0,0,0,,3, 2, 1...
+Dialogue: 0,0:07:34.62,0:07:36.72,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:07:35.37,0:07:36.95,Talking Over Hamada,,0,0,0,,His face
+Dialogue: 0,0:07:37.10,0:07:39.52,Talking Over Hamada,,0,0,0,,His face...
+Dialogue: 0,0:07:41.40,0:07:43.45,Mori Shinichi Endo,,0,0,0,,{\blur5} Mornin'.
+Dialogue: 0,0:07:43.45,0:07:45.42,Default,,0,0,0,,This is a sleeping prank!
+Dialogue: 0,0:07:45.65,0:07:47.90,Talking Over Endo,,0,0,0,,It's very realistic
+Dialogue: 0,0:07:50.50,0:07:52.50,Talking Over Hamada,,0,0,0,,It's very realistic.
+Dialogue: 0,0:07:51.93,0:07:54.96,Mori Shinichi Endo,,0,0,0,,{\blur5}Come on, give me a break.
+Dialogue: 0,0:08:08.52,0:08:09.87,Talking Over Hamada,,0,0,0,,This is the face
+Dialogue: 0,0:08:10.22,0:08:12.45,Talking Over Yamasaki,,0,0,0,,It's not\Nquite right.
+Dialogue: 0,0:08:12.50,0:08:14.17,Talking Over Yamasaki,,0,0,0,,I thought you were\Ndoing someone else.
+Dialogue: 0,0:08:14.17,0:08:15.72,Endo,,0,0,0,,How was it?
+Dialogue: 0,0:08:15.77,0:08:19.78,Yamasaki,,0,0,0,,When you were sleeping I thought "That's probably what he'd look like" but
+Dialogue: 0,0:08:19.78,0:08:22.11,Yamasaki,,0,0,0,,{\pos(714.091,897.75)}When you woke up{\alpha&HFF&} you became someone else.
+Dialogue: 0,0:08:24.00,0:08:25.42,Endo,,0,0,0,,By "someone else" you mean...?
+Dialogue: 0,0:08:22.11,0:08:25.98,Yamasaki,,0,0,0,,{\pos(714.091,897.75)}When you woke up {\c&H000000&\4c&H11AA16&}you became someone else.
+Dialogue: 0,0:08:25.42,0:08:27.39,Tanaka,,0,0,0,,It was a bit different.
+Dialogue: 0,0:08:27.39,0:08:28.92,Tanaka,,0,0,0,,Maybe a little too much.
+Dialogue: 0,0:08:28.92,0:08:30.19,Endo,,0,0,0,,{\pos(720.844,796.5)}Mori Shinichi's{\alpha&HFF&} gear shift
+Dialogue: 0,0:08:32.92,0:08:35.17,Matsumoto,,0,0,0,,{\pos(467.622,609.75)}What does \N"Mori Shinichi's gear shift" mean?
+Dialogue: 0,0:08:30.19,0:08:35.23,Endo,,0,0,0,,{\pos(720.844,796.5)}Mori Shinichi's {\c&H000000&\4c&H066FE1&}gear shift
+Dialogue: 0,0:08:31.52,0:08:35.23,Endo,,0,0,0,,slips into different gears sometimes.
+Dialogue: 0,0:08:35.23,0:08:38.80,Endo,,0,0,0,,{\pos(624.618,794.25)}If you do the face for a long time
+Dialogue: 0,0:08:36.76,0:08:38.80,Endo,,0,0,0,,you start to lose control of it.
+Dialogue: 0,0:08:38.80,0:08:40.27,Endo,,0,0,0,,Like...
+Dialogue: 0,0:08:40.97,0:08:43.30,Endo,,0,0,0,,{\c&H000000&\4c&H006FDA&}First gear {\c&H006DD2&\4c&H000000&}looks like this.
+Dialogue: 0,0:08:43.45,0:08:45.24,Endo,,0,0,0,,But, if...
+Dialogue: 0,0:08:45.24,0:08:49.97,Endo,,0,0,0,,{\pos(503.071,805.5)} If you're lying down,
+Dialogue: 0,0:08:46.47,0:08:49.97,Endo,,0,0,0,,it's hard to get into that gear.
+Dialogue: 0,0:08:49.97,0:08:52.81,Matsumoto,,0,0,0,,We're never gonna do this, though.
+Dialogue: 0,0:08:52.80,0:08:54.92,Endo,,0,0,0,,Just in case you guys ever do
+Dialogue: 0,0:08:55.98,0:08:59.62,Matsumoto,,0,0,0,,We're never gonna {\c&H000000&\4c&H0000FF&}ride that machine.
+Dialogue: 0,0:08:59.70,0:09:00.87,Endo,,0,0,0,,At any rate,
+Dialogue: 0,0:09:02.47,0:09:03.86,Hamada,,0,0,0,,Ah, yup.
+Dialogue: 0,0:09:00.97,0:09:03.87,Endo,,0,0,0,,The next request is, Hamada-san.
+Dialogue: 0,0:09:03.86,0:09:06.40,Hamada,,0,0,0,,Mine is this.
+Dialogue: 0,0:09:06.92,0:09:09.97,Matsumoto,,0,0,0,,I'd also like to see this.
+Dialogue: 0,0:09:09.97,0:09:12.10,Hamada,,0,0,0,,How does he get scared?
+Dialogue: 0,0:09:11.27,0:09:12.10,Endo,,0,0,0,,Right.
+Dialogue: 0,0:09:12.10,0:09:14.12,Hamada,,0,0,0,,Like "Does he scream?"
+Dialogue: 0,0:09:09.99,0:09:16.13,Rectangle,,0,0,0,,{\fade(400,0)\fscx435\fscy195\clip(88,889,502,1013)}{\p1\pos(295.427,951.75)\4c&HFFFFFF&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:09:09.99,0:09:16.13,Sign,,0,0,0,,{\fade(400,0)\c&HBD0062&\pos(300.256,976.5)\fscx95\fscy98}{\pos(293.74,976.5)\c&HC00061&\3c&HFFFFFF&}Test of Courage
+Dialogue: 0,0:09:09.99,0:09:16.13,Hamada,,0,0,0,,{\fade(400,0)\pos(298.804,816.75)}{\b0\pos(293.74,816.75)}Hamada's Request
+Dialogue: 0,0:09:14.10,0:09:16.15,Matsumoto,,0,0,0,,What scares him in the first place?
+Dialogue: 0,0:09:15.27,0:09:16.15,Hamada,,0,0,0,,Exactly.
+Dialogue: 0,0:09:16.15,0:09:20.07,Endo,,0,0,0,,I completely became Mori Shinichi and did it.
+Dialogue: 0,0:09:20.07,0:09:22.04,Matsumoto,,0,0,0,,This'll be tough.
+Dialogue: 0,0:09:20.65,0:09:22.04,Endo,,0,0,0,,Roll it.
+Dialogue: 0,0:09:22.15,0:09:23.11,Mori Shinichi Endo,,0,0,0,,{\blur5}To all,
+Dialogue: 0,0:09:23.11,0:09:24.21,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening,{\alpha&HFF&} I'm Mori Shinichi.
+Dialogue: 0,0:09:24.21,0:09:26.84,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening, I'm Mori Shinichi.
+Dialogue: 0,0:09:26.84,0:09:33.08,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(730.973,816.75)}It was requested that {\c&H0000FF&\3c&HFFFFFF&\3a&H00&}I perform a test of courage {\c&HFFFFFF&\3c&H000000&\3a&H32&\4c&H2F2F34&}
+Dialogue: 0,0:09:26.84,0:09:33.08,Mori Shinichi Endo,,0,0,0,,{\blur5}for our viewers today.
+Dialogue: 0,0:09:33.08,0:09:34.75,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm here at{\alpha&HFF&} Fuji-Q's Shudder-With-Fear Maze today.
+Dialogue: 0,0:09:32.47,0:09:35.15,Talking Over Matsumoto,,0,0,0,,He's looking \Nless and less like him.
+Dialogue: 0,0:09:35.15,0:09:37.30,Talking Over Hamada,,0,0,0,,This is straight up Endo
+Dialogue: 0,0:09:34.75,0:09:38.09,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm here at{\c&H9F2066&\3c&HFFFFFF&\3a&H00&} Fuji-Q's Shudder-With-Fear Maze {\c&HFFFFFF&\3c&H000000&\3a&H32&}today.
+Dialogue: 0,0:09:37.30,0:09:39.67,Talking Over Yamasaki,,0,0,0,,He's just making \Nhis eyes bigger
+Dialogue: 0,0:09:38.09,0:09:41.80,Mori Shinichi Endo,,0,0,0,,{\blur5}I've heard it's an extremely scary attraction.
+Dialogue: 0,0:09:40.07,0:09:41.80,Talking Over Matsumoto,,0,0,0,,You went all\Nthe way to Fuji-Q?
+Dialogue: 0,0:09:41.80,0:09:45.37,Mori Shinichi Endo,,0,0,0,,{\blur5}I'd like to start right away.
+Dialogue: 0,0:09:41.80,0:09:45.80,Talking Over Endo,,0,0,0,,This is the second \Nday of filming
+Dialogue: 0,0:09:47.37,0:09:49.45,Talking Over Endo,,0,0,0,,It is getting \Nhard to sell it
+Dialogue: 0,0:09:46.60,0:09:49.47,Talking Over Yamasaki,,0,0,0,,It's getting\N hard to believe
+Dialogue: 0,0:09:49.78,0:09:52.72,Talking Over Tanaka,,0,0,0,,Is this \Nfor real?
+Dialogue: 0,0:09:52.72,0:09:54.72,Talking Over Hamada,,0,0,0,,It really is\N scary, you know?
+Dialogue: 0,0:09:48.77,0:09:54.74,Torn font,,0,0,0,,{\fade(400,0)}{\pos(690.457,364.5)\c&H93030D&\3c&HFFFFFF&\fscx255\fscy301}If Mori Shinichi
+Dialogue: 0,0:09:48.77,0:09:54.74,Torn font,,0,0,0,,{\fade(400,0)\c&H0400A6&\3c&HFFFFFF&\pos(725.445,641.25)}{\pos(690.457,364.5)\fscx255\fscy301}Tested His {\c&H373435&}Courage...
+Dialogue: 0,0:09:59.42,0:10:01.72,Mori Shinichi Endo,,0,0,0,,{\blur5}Here I go.
+Dialogue: 0,0:10:02.02,0:10:03.87,Talking Over Yamasaki,,0,0,0,,This is a good angle.
+Dialogue: 0,0:10:05.95,0:10:08.45,Talking Over Hamada,,0,0,0,,I'd never do this.
+Dialogue: 0,0:10:03.18,0:10:09.35,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(437.233,821.25)}I've heard that
+Dialogue: 0,0:10:05.95,0:10:09.35,Mori Shinichi Endo,,0,0,0,,{\blur5}the Shudder-With-Fear Maze is seriously scary.
+Dialogue: 0,0:10:10.40,0:10:13.32,Mori Shinichi Endo,,0,0,0,,{\blur5}I've heard it's actually scary.
+Dialogue: 0,0:10:12.75,0:10:14.07,Talking Over Hamada,,0,0,0,,So scary...
+Dialogue: 0,0:10:13.66,0:10:14.66,Mori Shinichi Endo,,0,0,0,,{\blur5}I already know,{\alpha&HFF&} things are gonna pop out.
+Dialogue: 0,0:10:14.66,0:10:19.06,Mori Shinichi Endo,,0,0,0,,{\blur5}I already know, things are gonna pop out.
+Dialogue: 0,0:10:25.92,0:10:27.57,Talking Over Hamada,,0,0,0,,He's still \Nmaking the face.
+Dialogue: 0,0:10:27.57,0:10:30.80,Talking Over Endo,,0,0,0,,I tried showing what\N Mori Shinichi would do\N the whole time.
+Dialogue: 0,0:10:38.15,0:10:38.55,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm sorry,{\alpha&HFF&} I'm sorry!
+Dialogue: 0,0:10:38.55,0:10:40.12,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm sorry, I'm sorry!
+Dialogue: 0,0:10:40.12,0:10:42.19,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(388.276,904.5)}Stay!
+Dialogue: 0,0:10:40.35,0:10:42.19,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(660.071,904.5)\fscx166\fscy126}Stay!
+Dialogue: 0,0:10:40.55,0:10:42.19,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(972.38,904.5)\fscx182\fscy142}Stay!!
+Dialogue: 0,0:10:44.05,0:10:45.12,Talking Over Hamada,,0,0,0,,It's clearly you.
+Dialogue: 0,0:10:45.15,0:10:47.17,Talking Over Endo,,0,0,0,,But look, \Nit's Mori Shinichi.
+Dialogue: 0,0:10:47.85,0:10:49.12,Talking Over Endo,,0,0,0,,Look!
+Dialogue: 0,0:10:48.43,0:10:49.49,Mori Shinichi Endo,,0,0,0,,{\blur5}Seriously,
+Dialogue: 0,0:10:49.49,0:10:49.99,Mori Shinichi Endo,,0,0,0,,{\blur5}Seriously,{\alpha&HFF&} seriously, seriously, seriously.
+Dialogue: 0,0:10:49.99,0:10:50.96,Mori Shinichi Endo,,0,0,0,,{\blur5}Seriously, seriously,{\alpha&HFF&} seriously, seriously.
+Dialogue: 0,0:10:50.97,0:10:52.30,Mori Shinichi Endo,,0,0,0,,{\blur5}Seriously, seriously, seriously,{\alpha&HFF&} seriously.
+Dialogue: 0,0:10:52.30,0:10:53.77,Mori Shinichi Endo,,0,0,0,,{\blur5}Seriously, seriously, seriously, seriously.
+Dialogue: 0,0:10:54.42,0:10:57.32,Mori Shinichi Endo,,0,0,0,,{\blur5}There's definitely something in here.
+Dialogue: 0,0:11:12.50,0:11:14.30,Mori Shinichi Endo,,0,0,0,,{\blur5}Hey
+Dialogue: 0,0:11:13.82,0:11:16.80,Talking Over Endo,,0,0,0,,Look, this is \Ncompletely Mori Shinichi.
+Dialogue: 0,0:11:16.80,0:11:18.32,Talking Over Tanaka,,0,0,0,,This is good.
+Dialogue: 0,0:11:18.45,0:11:19.92,Talking Over Tanaka,,0,0,0,,Isn't it good?
+Dialogue: 0,0:11:19.92,0:11:22.25,Talking Over Matsumoto,,0,0,0,,It's good some \Nof the time.
+Dialogue: 0,0:11:24.85,0:11:26.20,Talking Over Endo,,0,0,0,,This was...
+Dialogue: 0,0:11:25.60,0:11:28.30,Talking Over Matsumoto,,0,0,0,,These parts where\Nyou're scared is where...
+Dialogue: 0,0:11:28.60,0:11:30.70,Talking Over Yamasaki,,0,0,0,,I think it's the voice.
+Dialogue: 0,0:11:34.31,0:11:34.61,Mori Shinichi Endo,,0,0,0,,{\blur5}Stay!{\alpha&HFF&} Stay! Stay!
+Dialogue: 0,0:11:34.61,0:11:34.87,Mori Shinichi Endo,,0,0,0,,{\blur5}Stay! Stay!{\alpha&HFF&} Stay!
+Dialogue: 0,0:11:34.87,0:11:35.37,Mori Shinichi Endo,,0,0,0,,{\blur5}Stay! Stay! Stay!
+Dialogue: 0,0:11:35.37,0:11:35.81,Mori Shinichi Endo,,0,0,0,,{\blur5}{\fscx165\fscy133}Stay!{\alpha&HFF&} Stay!!
+Dialogue: 0,0:11:35.97,0:11:37.67,Talking Over Matsumoto,,0,0,0,,What the hell is "stay"?
+Dialogue: 0,0:11:35.81,0:11:37.81,Mori Shinichi Endo,,0,0,0,,{\blur5}{\fscx165\fscy133}Stay! Stay!!
+Dialogue: 0,0:11:37.07,0:11:39.57,Talking Over Endo,,0,0,0,,They really\Ncome at you.
+Dialogue: 0,0:11:40.30,0:11:42.20,Talking Over Endo,,0,0,0,,Like "stay over there"
+Dialogue: 0,0:11:41.95,0:11:45.22,Talking Over Matsumoto,,0,0,0,,Mori Shinichi would \Nnever say that.
+Dialogue: 0,0:11:51.49,0:11:55.76,Mori Shinichi Endo,,0,0,0,,{\blur5}This hallway can't be good.
+Dialogue: 0,0:11:55.76,0:11:58.00,Mori Shinichi Endo,,0,0,0,,{\blur5}Something's gonna...
+Dialogue: 0,0:12:00.87,0:12:02.25,Talking Over Yamasaki,,0,0,0,,The voice is good.
+Dialogue: 0,0:11:58.56,0:12:02.57,Mori Shinichi Endo,,0,0,0,,{\blur5}This can't be good.
+Dialogue: 0,0:12:02.72,0:12:05.47,Talking Over Endo,,0,0,0,,This was a really long hall.
+Dialogue: 0,0:12:09.67,0:12:14.38,Sign,,0,0,0,,{\fade(400,400)\b0\pos(935.239,915.75)\c&HE9DED3&\fscx101\fscy100}He Prepares Himself and Continues
+Dialogue: 0,0:12:25.62,0:12:27.23,Mori Shinichi Endo,,0,0,0,,{\blur5}This...
+Dialogue: 0,0:12:24.90,0:12:28.17,Talking Over Endo,,0,0,0,,This was \Nreally hard to do.
+Dialogue: 0,0:12:29.30,0:12:31.90,Talking Over Endo,,0,0,0,,I couldn't \Neven take a step.
+Dialogue: 0,0:12:27.23,0:12:32.30,Mori Shinichi Endo,,0,0,0,,{\blur5}You really need some courage for this.
+Dialogue: 0,0:12:32.40,0:12:34.07,Mori Shinichi Endo,,0,0,0,,{\blur5}Give me a moment
+Dialogue: 0,0:12:36.10,0:12:38.82,Talking Over Endo,,0,0,0,,This one was \Npersistent.
+Dialogue: 0,0:12:36.03,0:12:40.51,Sign,,0,0,0,,{\fade(400,0)\b0\c&HE185B3&\pos(1043.282,891)}Ghost From Behind
+Dialogue: 0,0:12:38.87,0:12:40.72,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm sorry, I'm sorry
+Dialogue: 0,0:12:41.67,0:12:43.55,Mori Shinichi Endo,,0,0,0,,{\blur5}Stay!!
+Dialogue: 0,0:12:40.71,0:12:44.11,Sign,,0,0,0,,{\fade(400,0)\b0\c&HE9DED3&\pos(1001.077,913.5)}He Has to Run For It
+Dialogue: 0,0:12:44.42,0:12:46.65,Talking Over Matsumoto,,0,0,0,,You had to start\N running away, huh.
+Dialogue: 0,0:12:46.65,0:12:49.52,Talking Over Matsumoto,,0,0,0,,Oh, it's kinda good.
+Dialogue: 0,0:12:49.52,0:12:51.47,Talking Over Matsumoto,,0,0,0,,It's pretty...
+Dialogue: 0,0:12:51.77,0:12:54.40,Talking Over Hamada,,0,0,0,,It's Endo again.
+Dialogue: 0,0:12:55.62,0:12:57.75,Talking Over Endo,,0,0,0,,So that's where \Nhe came from.
+Dialogue: 0,0:12:57.77,0:13:00.72,Mori Shinichi Endo,,0,0,0,,{\blur5}I'm sorry, I'm sorry!
+Dialogue: 0,0:13:03.37,0:13:05.60,Talking Over Hamada,,0,0,0,,Mori's back.
+Dialogue: 0,0:13:13.55,0:13:17.05,Talking Over Matsumoto,,0,0,0,,This part was really good.
+Dialogue: 0,0:13:17.05,0:13:18.65,Talking Over Tanaka,,0,0,0,,That part is great.
+Dialogue: 0,0:13:17.57,0:13:20.10,Talking Over Yamasaki,,0,0,0,,I liked that.
+Dialogue: 0,0:13:24.62,0:13:26.95,Talking Over Hamada,,0,0,0,,This is just Endo.
+Dialogue: 0,0:13:26.95,0:13:29.12,Talking Over Hamada,,0,0,0,,Then suddenly.
+Dialogue: 0,0:13:29.32,0:13:31.92,Hamada,,0,0,0,,I guess when you get scared
+Dialogue: 0,0:13:31.92,0:13:33.20,Hamada,,0,0,0,,Endo starts to come out.
+Dialogue: 0,0:13:33.20,0:13:36.66,Endo,,0,0,0,,Right, since I'm being scared there's nothing I can really do.
+Dialogue: 0,0:13:36.66,0:13:39.86,Matsumoto,,0,0,0,,Your voice starts to go back to normal.
+Dialogue: 0,0:13:39.86,0:13:42.30,Yamasaki,,0,0,0,,That's what I wanted to see as Mori-san.
+Dialogue: 0,0:13:42.30,0:13:42.80,Matsumoto,,0,0,0,,So,
+Dialogue: 0,0:13:42.80,0:13:44.84,Matsumoto,,0,0,0,,I want you to try a little harder,{\alpha&HFF&} for the next episode.
+Dialogue: 0,0:13:44.84,0:13:48.04,Matsumoto,,0,0,0,,I want you to try a little harder, {\c&H000000&\4c&H0000FF&}for the next episode.
+Dialogue: 0,0:13:48.04,0:13:51.88,Endo,,0,0,0,,This episode isn't over yet, though.
+Dialogue: 0,0:13:52.37,0:13:55.55,Endo,,0,0,0,,We still have more.
+Dialogue: 0,0:13:53.87,0:13:55.55,Tanaka,,0,0,0,,Right.
+Dialogue: 0,0:13:55.55,0:13:58.25,Tanaka,,0,0,0,,Okay, this here.
+Dialogue: 0,0:13:58.52,0:14:01.62,Tanaka,,0,0,0,,Searching for real estate.
+Dialogue: 0,0:13:59.32,0:14:01.62,Endo,,0,0,0,,I was really surprised by this one.
+Dialogue: 0,0:14:01.92,0:14:05.96,Tanaka,,0,0,0,,I thought we could see the closest thing to the real, natural Mori-san with this.
+Dialogue: 0,0:14:05.96,0:14:09.67,Matsumoto,,0,0,0,,Something only your partner here could show us.
+Dialogue: 0,0:14:02.39,0:14:11.83,Rectangle,,0,0,0,,{\fade(400,0)\fscx435\fscy195\clip(88,889,502,1013)}{\p1\pos(295.427,951.75)\4c&HFFFFFF&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:14:02.39,0:14:11.83,Sign,,0,0,0,,{\fade(400,0)\c&H08CA0D&\3c&HFFFFFF&\pos(296.397,1004.785)\fscx88\fscy96}Searching for \NReal Estate
+Dialogue: 0,0:14:02.39,0:14:11.83,Tanaka,,0,0,0,,{\fade(400,0)\pos(298.804,816.75)}{\b0\pos(293.74,816.75)}Tanaka's Request
+Dialogue: 0,0:14:09.82,0:14:11.83,Endo,,0,0,0,,Take a look, roll it.
+Dialogue: 0,0:14:12.03,0:14:13.10,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening,{\alpha&HFF&} I'm Mori Shinichi.
+Dialogue: 0,0:14:13.10,0:14:14.87,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening, I'm Mori Shinichi.
+Dialogue: 0,0:14:14.87,0:14:21.17,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(727.596,816.75)}There was a request to see me
+Dialogue: 0,0:14:14.87,0:14:21.17,Mori Shinichi Endo,,0,0,0,,{\blur5\}{\c&H0000FF&\3c&HFFFFFF&\3a&H00&\4c&H000000&\4a&HFF&}choosing real estate property at a Realtor,{\c&HFFFFFF&\3c&H000000&\3a&H32&}
+Dialogue: 0,0:14:21.17,0:14:22.44,Mori Shinichi Endo,,0,0,0,,{\blur5}So I'd like to show this{\alpha&HFF&} especially for the requester.
+Dialogue: 0,0:14:22.44,0:14:24.44,Mori Shinichi Endo,,0,0,0,,{\blur5}{\blur5}So I'd like to show this especially for the requester.
+Dialogue: 0,0:14:24.52,0:14:26.67,Mori Shinichi Endo,,0,0,0,,{\blur5}Well, here I go.
+Dialogue: 0,0:14:28.52,0:14:31.42,Talking Over Hamada,,0,0,0,,Only the \Nend was good.
+Dialogue: 0,0:14:29.01,0:14:34.99,Osaka Title,,0,0,0,,{\fade(400,0)}{\pos(698.897,373.5)\fscx208\fscy197}If Mori Shinichi
+Dialogue: 0,0:14:29.01,0:14:34.99,Osaka Title,,0,0,0,,{\fade(400,0)\fscx171\fscy198\pos(712.044,835.715)}{\c&H04940B&\3c&HFFFFFF&\4c&H000000&}Looked for {\c&HFFFFFF&\3c&H000000&}Real Estate...
+Dialogue: 0,0:14:35.35,0:14:40.73,White Text,,0,0,0,,{\fade(400,0)}{\c&HFC351F&\3c&HFFFFFF&}He Will Visit a {\c&H1902CA&}Realtor in Yamanashi Prefecture
+Dialogue: 0,0:14:41.46,0:14:43.26,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(714.935,938.25)}I'm Mori.
+Dialogue: 0,0:14:42.45,0:14:43.55,Black,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:14:43.57,0:14:45.40,Talking Over Endo,,0,0,0,,Like he's getting\N a holiday house.
+Dialogue: 0,0:14:44.73,0:14:46.66,Black,,0,0,0,,{\fscx100\fscy101}What kind of place where you looking for today?
+Dialogue: 0,0:14:47.00,0:14:47.70,Mori Shinichi Endo,,0,0,0,,{\blur5}A place{\alpha&HFF&} where I can sing would be great.
+Dialogue: 0,0:14:45.52,0:14:47.90,Talking Over Tanaka,,0,0,0,,Oh, like a villa.
+Dialogue: 0,0:14:47.70,0:14:48.77,Mori Shinichi Endo,,0,0,0,,{\blur5}A place where I can sing{\alpha&HFF&} would be great.
+Dialogue: 0,0:14:48.77,0:14:51.37,Mori Shinichi Endo,,0,0,0,,{\blur5}A place where I can sing would be great.
+Dialogue: 0,0:14:50.27,0:14:52.24,Black,,0,0,0,,{\pos(187.751,602.75)}Where you\N can sing.
+Dialogue: 0,0:14:52.24,0:14:54.67,Black,,0,0,0,,Right now there's 2 properties.
+Dialogue: 0,0:14:54.67,0:14:57.62,Black,,0,0,0,,Places where you could sing.
+Dialogue: 0,0:14:57.62,0:14:58.01,Black,,0,0,0,,This here,
+Dialogue: 0,0:14:58.01,0:15:00.81,Black,,0,0,0,,There's only 7 of these buildings in Japan.
+Dialogue: 0,0:15:00.87,0:15:02.85,Black,,0,0,0,,The insulation is fantastic in these.
+Dialogue: 0,0:15:03.42,0:15:06.35,Talking Over Endo,,0,0,0,,You would never get\Nto see the real Mori\NShinichi doing this.
+Dialogue: 0,0:15:10.96,0:15:13.33,Talking Over Yamasaki,,0,0,0,,Mori-san?
+Dialogue: 0,0:15:15.59,0:15:16.69,Black,,0,0,0,,Including everything,{\alpha&HFF&} it's about 44,000,000 Yen.
+Dialogue: 0,0:15:13.42,0:15:17.45,Talking Over Hamada,,0,0,0,,This might be the \Nclosest one to the\Nreal thing.
+Dialogue: 0,0:15:15.92,0:15:17.45,Talking Over Matsumoto,,0,0,0,,Up to now, yea.
+Dialogue: 0,0:15:16.69,0:15:19.20,Black,,0,0,0,,Including everything, it's about 44,000,000 Yen.
+Dialogue: 0,0:15:18.65,0:15:21.15,Talking Over Matsumoto,,0,0,0,,True
+Dialogue: 0,0:15:20.06,0:15:23.30,Mori Shinichi Endo,,0,0,0,,{\blur5}That's quite a price.
+Dialogue: 0,0:15:23.02,0:15:25.30,Talking Over Hamada,,0,0,0,,That was Endo\Nright there.
+Dialogue: 0,0:15:25.37,0:15:28.15,Talking Over Endo,,0,0,0,,That was me?
+Dialogue: 0,0:15:26.30,0:15:28.15,Talking Over Hamada,,0,0,0,,That was just you.
+Dialogue: 0,0:15:25.44,0:15:29.24,Black,,0,0,0,,{\fscx90\fscy100}There's also a place with a view of Mt. Fuji and the lake.
+Dialogue: 0,0:15:29.20,0:15:32.62,Talking Over Matsumoto,,0,0,0,,This is turning out\Njust like Fuji-Q.
+Dialogue: 0,0:15:29.24,0:15:34.41,Black,,0,0,0,,{\pos(722.531,803.25)}We can set that property up for a visit right now,
+Dialogue: 0,0:15:32.01,0:15:34.41,Black,,0,0,0,,{\pos(611.957,940.5)}if you'd like to go see it after this.
+Dialogue: 0,0:15:34.37,0:15:36.75,Talking Over Yamasaki,,0,0,0,,I see.
+Dialogue: 0,0:15:35.02,0:15:37.12,Talking Over Tanaka,,0,0,0,,It's all over the place.
+Dialogue: 0,0:15:41.82,0:15:43.95,Talking Over Hamada,,0,0,0,,Are you sick \Nor something?
+Dialogue: 0,0:15:42.42,0:15:49.29,White Text,,0,0,0,,{\fade(400,0)\fscx120\fscy100}{\c&H15970C&\3c&HFFFFFF&}They Head to the {\c&HF62F20&}Resort Apartment Near the Lake.
+Dialogue: 0,0:15:48.37,0:15:50.60,Talking Over Endo,,0,0,0,,The resort mansion...
+Dialogue: 0,0:15:49.29,0:15:51.30,Black,,0,0,0,,It's this one here.
+Dialogue: 0,0:15:52.57,0:15:55.07,Mori Shinichi Endo,,0,0,0,,{\blur5}16065, huh.
+Dialogue: 0,0:15:55.15,0:15:58.30,Talking Over Endo,,0,0,0,,This was the best \Nroom in the whole\Napartment.
+Dialogue: 0,0:16:00.45,0:16:02.60,Mori Shinichi Endo,,0,0,0,,{\blur5}It's huge.
+Dialogue: 0,0:16:01.40,0:16:03.57,Talking Over Matsumoto,,0,0,0,,Oh, it's big.
+Dialogue: 0,0:16:05.67,0:16:09.62,White Text,,0,0,0,,The living room is 329 sq ft, and feels nice and wide.
+Dialogue: 0,0:16:09.67,0:16:11.42,White Text,,0,0,0,,But the best part is...
+Dialogue: 0,0:16:11.45,0:16:14.69,Sign,,0,0,0,,{\fade(400,400)}{\pos(573.975,873)\c&HFC3821&\3c&HFFFFFF&}{\4c&HFFFFFF&\4a&HFF&}The Amazing
+Dialogue: 0,0:16:11.45,0:16:14.69,Sign,,0,0,0,,{\blur5\4c&HFFFFFF&\4a&HFF&}{\fade(400,400)\pos(1044.97,875.25)\c&H1306CA&\3c&H60E7FC&}View
+Dialogue: 0,0:16:20.22,0:16:22.17,Mori Shinichi Endo,,0,0,0,,{\blur5}That's a great view of Fuji.
+Dialogue: 0,0:16:19.36,0:16:22.59,Handgof,,0,0,0,,{\blur8.001}{\fade(0,400)}{\3c&HFF3B29&\b1\fscx193\fscy153\pos(1117.564,859.5)\c&HFFFFFF&}Yamanaka Lake
+Dialogue: 0,0:16:22.95,0:16:25.22,Mori Shinichi Endo,,0,0,0,,{\blur5}What a view.
+Dialogue: 0,0:16:22.83,0:16:27.20,Handgof,,0,0,0,,{\blur8.001}{\fade(400,0)}{\3c&H2703B3&\b1\fscx193\fscy153\c&HFFFFFF&\pos(293.74,837)}Mount Fuji
+Dialogue: 0,0:16:25.45,0:16:27.62,Mori Shinichi Endo,,0,0,0,,{\blur5}Bravo.
+Dialogue: 0,0:16:27.70,0:16:31.07,Black,,0,0,0,,To the right, Yamanaka Lake, and to the left, Mount Fuji.
+Dialogue: 0,0:16:34.32,0:16:37.00,Talking Over Yamasaki,,0,0,0,,His face must\Nhurt by now.
+Dialogue: 0,0:16:31.15,0:16:37.72,Black,,0,0,0,,Taking that all into consideration, 8,000,000 Yen isn't so bad. What do you think?
+Dialogue: 0,0:16:44.72,0:16:47.62,Talking Over Yamasaki,,0,0,0,,His eyes are \Nreally shining.
+Dialogue: 0,0:16:52.92,0:16:55.07,Talking Over Matsumoto,,0,0,0,,He has other\Nsongs, you know?
+Dialogue: 0,0:16:55.07,0:16:57.67,Talking Over Matsumoto,,0,0,0,,He had a lot of\Nother hits, you know?
+Dialogue: 0,0:16:57.67,0:17:01.20,Talking Over Matsumoto,,0,0,0,,Why are you only\Nusing this one song?
+Dialogue: 0,0:17:05.90,0:17:07.67,Talking Over Hamada,,0,0,0,,That's not the \Nright face.
+Dialogue: 0,0:17:07.67,0:17:09.85,Talking Over Endo,,0,0,0,,Sometimes the\Nwrong face just \Nhappens.
+Dialogue: 0,0:17:10.47,0:17:12.40,Endo,,0,0,0,,Thank you.
+Dialogue: 0,0:17:13.65,0:17:15.82,Tanaka,,0,0,0,,It was very natural.
+Dialogue: 0,0:17:15.85,0:17:17.77,Hamada,,0,0,0,,The most up to this point.
+Dialogue: 0,0:17:17.82,0:17:19.58,Tanaka,,0,0,0,,It was the best of all so far.
+Dialogue: 0,0:17:19.58,0:17:24.87,Endo,,0,0,0,,{\pos(725.909,792)}That place's view was actually really good
+Dialogue: 0,0:17:19.58,0:17:24.87,Endo,,0,0,0,,so I thought I'd just take it all in and reflect for real.
+Dialogue: 0,0:17:24.87,0:17:25.76,Matsumoto,,0,0,0,,Do you mean{\alpha&HFF&} as Endo or as Mori-san?
+Dialogue: 0,0:17:25.76,0:17:28.86,Matsumoto,,0,0,0,,Do you mean as Endo or {\c&H000000&\4c&H0000FF&}as Mori-{\c&H0000FF&\4c&H000000&}san?
+Dialogue: 0,0:17:27.26,0:17:28.86,Endo,,0,0,0,,{\pos(719.156,735.75)\c&H000000&\4c&H006DD2&\fscx173\fscy132}Mori-san.
+Dialogue: 0,0:17:29.75,0:17:31.85,Yamasaki,,0,0,0,,As Mori-san?
+Dialogue: 0,0:17:30.16,0:17:32.10,Hamada,,0,0,0,,{\pos(722.531,909)}That's {\c&H000000&\4c&HE90419&}confusing, {\c&HE90419&\4c&H000000&}huh
+Dialogue: 0,0:17:32.33,0:17:34.30,Hamada,,0,0,0,,{\c&H000000&\4c&HE90419&}You have to mean as yourself {\c&HE90419&\4c&H000000&}or else it's too confusing.
+Dialogue: 0,0:17:34.57,0:17:36.00,Matsumoto,,0,0,0,,Did Mori-san say that?
+Dialogue: 0,0:17:36.00,0:17:36.57,Endo,,0,0,0,,{\pos(715.779,787.5)}Mori-san said{\alpha&HFF&} "I'm gonna reflect" or
+Dialogue: 0,0:17:36.57,0:17:40.07,Endo,,0,0,0,,{\pos(715.779,787.5)}Mori-san said {\c&HFFFFFF&\3c&H272728&}"I'm gonna reflect" {\c&H096FE2&\3c&HFFFFFF&\4c&H000000&}or
+Dialogue: 0,0:17:38.60,0:17:40.07,Endo,,0,0,0,,something along those lines.
+Dialogue: 0,0:17:40.60,0:17:42.44,Hamada,,0,0,0,,See, that's just weird.
+Dialogue: 0,0:17:44.62,0:17:47.81,Hamada,,0,0,0,,That one word makes it all weird.
+Dialogue: 0,0:17:48.35,0:17:52.10,Yamasaki,,0,0,0,,I have more request, a prank
+Dialogue: 0,0:17:52.10,0:17:55.30,Yamasaki,,0,0,0,,This here,
+Dialogue: 0,0:17:56.45,0:17:57.67,Matsumoto,,0,0,0,,Ah,
+Dialogue: 0,0:17:57.67,0:17:59.62,Yamasaki,,0,0,0,,I wanna see what will happen.
+Dialogue: 0,0:17:59.62,0:18:05.50,Endo,,0,0,0,,If Mori-san was pranked like that it would probably never be allowed on air,
+Dialogue: 0,0:17:58.22,0:18:07.06,Rectangle,,0,0,0,,{\fade(400,0)\fscx435\fscy195\clip(88,889,630,1013)}{\p1\pos(295.427,951.75)\4c&HFFFFFF&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:17:58.22,0:18:07.06,Sign,,0,0,0,,{\fade(400,0)\c&H8E24DD&\3c&HFFFFFF&\pos(352.825,976.5)}Sexy Prank
+Dialogue: 0,0:17:58.22,0:18:07.06,Yamasaki,,0,0,0,,{\fade(400,0)\pos(351.137,816.75)}{\b0\pos(293.74,816.75)}Housei's Request
+Dialogue: 0,0:18:05.67,0:18:07.67,Endo,,0,0,0,,and we'd never be able to see it, so
+Dialogue: 0,0:18:07.67,0:18:09.90,Endo,,0,0,0,,I went and did it, take a look. Roll it.
+Dialogue: 0,0:18:10.32,0:18:11.30,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening,{\alpha&HFF&} I'm Mori Shinichi
+Dialogue: 0,0:18:11.30,0:18:13.04,Mori Shinichi Endo,,0,0,0,,{\blur5}Good evening, I'm Mori Shinichi
+Dialogue: 0,0:18:13.04,0:18:18.91,Mori Shinichi Endo,,0,0,0,,{\blur5\fscx86\fscy103}{\pos(725.909,816.75)}There was a request to
+Dialogue: 0,0:18:13.04,0:18:18.91,Mori Shinichi Endo,,0,0,0,,{\blur5\fscx86\fscy103\pos(729.286,942.75)}{\pos(725.909,816.75)} {\c&H2F02E0&\3c&HFFFFFF&\3a&H00&\4c&H000000&\4a&HFF&}watch me get pranked sexually, {\c&HFFFFFF&\3c&H000000&\3a&H32&}
+Dialogue: 0,0:18:18.91,0:18:21.91,Mori Shinichi Endo,,0,0,0,,{\blur5}{\blur5}So I'd like to show this especially for the requester.
+Dialogue: 0,0:18:22.16,0:18:26.17,Talking Over Matsumoto,,0,0,0,,{\pos(1409.06,297.322)}So he's pretending to\Nnot know he's gonna\Nget pranked?
+Dialogue: 0,0:18:22.15,0:18:27.92,Goofy round,,0,0,0,,{\fade(400,0)\pos(705.654,247.5)}{\pos(710.716,153)\c&H009300&\3c&HFFFFFF&\4c&HFFFFFF&}If Mori Shinichi
+Dialogue: 0,0:18:22.15,0:18:27.92,Goofy round,,0,0,0,,{\fade(400,0)\c&HF723B3&\3c&HFFFFFF&\4c&HFFFFFF&\pos(739.413,704.25)}{\fscx286\fscy258}Got Pranked
+Dialogue: 0,0:18:22.15,0:18:27.92,Goofy round,,0,0,0,,{\fade(400,0)\pos(723.377,1080)}{\fscx286\fscy258\c&HFA0005&\3c&HFFFFFF&\4c&HFFFFFF&}Sexually...
+Dialogue: 0,0:18:28.25,0:18:33.09,Sign,,0,0,0,,{\blur20}{\pos(923.423,486)\fscx165\fscy123\c&HE36A33&\3c&HFFFFFF&\4c&HFFFFFF&}Mori Shinichi's
+Dialogue: 0,0:18:28.25,0:18:33.09,Sign,,0,0,0,,{\pos(923.423,486)\fscx165\fscy123\c&HE36A33&\3c&HFFFFFF&\4c&H347895&}Mori Shinichi's
+Dialogue: 0,0:18:30.25,0:18:33.09,Sign,,0,0,0,,{\blur20}{\fscx165\fscy123\c&H1823C3&\3c&HFFFFFF&\4c&H00DEFF&\pos(791.746,684)}Sudden
+Dialogue: 0,0:18:30.25,0:18:33.09,Sign,,0,0,0,,{\fscx165\fscy123\c&H1823C3&\3c&HFFFFFF&\4c&H4A4A4A&\pos(791.746,684)}Sudden
+Dialogue: 0,0:18:31.32,0:18:33.09,Sign,,0,0,0,,{\blur20}{\fade(400,0)}{\fscx165\fscy123\fscx165\fscy123\c&H1823C3&\3c&H00F6FF&\4c&H4A4A4A&\pos(947.056,909)}Hole in One
+Dialogue: 0,0:18:31.32,0:18:33.09,Sign,,0,0,0,,{\fade(400,0)}{\fscx165\fscy123\fscx165\fscy123\c&H1823C3&\3c&HFFFFFF&\4c&H4A4A4A&\pos(947.056,909)}Hole in One
+Dialogue: 0,0:18:33.35,0:18:36.70,Mori Shinichi Endo,,0,0,0,,{\blur5}The first lesson is the approach.
+Dialogue: 0,0:18:36.70,0:18:41.57,Mori Shinichi Endo,,0,0,0,,{\blur5} We'll start with around a 35 yard approach, and slight downward slope.
+Dialogue: 0,0:18:41.57,0:18:43.85,Mori Shinichi Endo,,0,0,0,,{\blur5}This is a pretty hard approach.
+Dialogue: 0,0:18:33.35,0:18:44.84,Blue rectangle,,0,0,0,,{\p1\4c&H2DFFFA&\4a&H00&\clip(1055,803,1325,873)\pos(1173.271,832.5)\fscx319\fscy121}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:18:33.35,0:18:44.84,Sign,,0,0,0,,{\fscx85\fscy96\b0\pos(1189.307,864)}1st Lesson
+Dialogue: 0,0:18:33.35,0:18:44.84,Blue rectangle,,0,0,0,,{\p1\clip(956,884,1330,990)\pos(1147.104,958.5)\fscx451\fscy158\4c&HF6363A&\4a&H00&}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:18:33.35,0:18:44.84,Sign,,0,0,0,,{\pos(1144.573,965.25)}Approach
+Dialogue: 0,0:18:44.87,0:18:47.07,Talking Over Hamada,,0,0,0,,Why is it at a \Ngolf course?
+Dialogue: 0,0:18:45.97,0:18:48.20,Talking Over Matsumoto,,0,0,0,,It's getting confusing.
+Dialogue: 0,0:18:47.07,0:18:49.82,Talking Over Hamada,,0,0,0,,It's too complicated.
+Dialogue: 0,0:18:50.45,0:18:52.15,Mori Shinichi Endo,,0,0,0,,{\blur5}I think that was pretty good.
+Dialogue: 0,0:18:52.40,0:18:56.95,Mori Shinichi Endo,,0,0,0,,{\blur5}I recommend actually getting it on the green.
+Dialogue: 0,0:18:57.85,0:18:59.48,Default,,0,0,0,,{\pos(1098.149,918)}Alright, that's good!
+Dialogue: 0,0:18:59.60,0:19:01.07,Default,,0,0,0,,We'll prepare for the next shot, so please wait a bit.
+Dialogue: 0,0:19:01.07,0:19:02.80,Mori Shinichi Endo,,0,0,0,,{\blur5}This is a tough shot, right?
+Dialogue: 0,0:19:02.80,0:19:06.30,Pink :/,,0,0,0,,Mori-san, Good work. Would you like a drink?
+Dialogue: 0,0:19:06.30,0:19:08.77,Mori Shinichi Endo,,0,0,0,,{\blur5}Oh, how about some water.
+Dialogue: 0,0:19:02.82,0:19:09.43,Handgof,,0,0,0,,{\fade(400,400)}{\pos(418.664,720)}Prankster
+Dialogue: 0,0:19:02.82,0:19:09.43,Handgof,,0,0,0,,{\fade(400,400)\fscx116\fscy100\pos(841.691,873)}The Sexy Assistant Approaches Mori Shinichi
+Dialogue: 0,0:19:11.05,0:19:13.97,Pink :/,,0,0,0,,There's lots of different kinds of drinks in here,
+Dialogue: 0,0:19:11.46,0:19:15.47,Handgof,,0,0,0,,{\fade(400,0)}{\pos(504.76,445.5)\c&H1800D6&}Full View of Panties ❤
+Dialogue: 0,0:19:13.97,0:19:16.10,Pink :/,,0,0,0,,are you sure you want water?
+Dialogue: 0,0:19:16.12,0:19:17.32,Mori Shinichi Endo,,0,0,0,,{\blur5}Ah,
+Dialogue: 0,0:19:17.65,0:19:19.70,Mori Shinichi Endo,,0,0,0,,{\blur5}What else do you have?
+Dialogue: 0,0:19:17.65,0:19:21.94,Handgof,,0,0,0,,{\fade(400,400)}{\pos(729.286,866.25)}Suddenly-Squatting Mori Shinichi
+Dialogue: 0,0:19:19.75,0:19:22.72,Pink :/,,0,0,0,,Uhm, tea,
+Dialogue: 0,0:19:22.72,0:19:27.37,Pink :/,,0,0,0,,coffee, sports drinks, and mineral water.
+Dialogue: 0,0:19:28.90,0:19:30.65,Pink :/,,0,0,0,,What would you like?
+Dialogue: 0,0:19:31.05,0:19:34.99,Handgof,,0,0,0,,{\fade(400,0)\pos(676.953,893.25)}Pretending-Not-to-See Mori Shinichi
+Dialogue: 0,0:19:33.72,0:19:35.80,Talking Over Hamada,,0,0,0,,What is this?
+Dialogue: 0,0:19:35.02,0:19:36.95,Pink :/,,0,0,0,,Which one would you like?
+Dialogue: 0,0:19:35.97,0:19:37.85,Talking Over Yamasaki,,0,0,0,,I don't even know\Nwhat I'm watching \Nanymore.
+Dialogue: 0,0:19:38.62,0:19:40.45,Talking Over Hamada,,0,0,0,,This is just bad.
+Dialogue: 0,0:19:40.45,0:19:42.45,Talking Over Yamasaki,,0,0,0,,I don't know what\Nthis is anymore.
+Dialogue: 0,0:19:42.55,0:19:44.75,Talking Over Hamada,,0,0,0,,What IS this?
+Dialogue: 0,0:19:46.20,0:19:49.30,Pink :/,,0,0,0,,Wow! Nice swing!
+Dialogue: 0,0:19:48.05,0:19:49.30,Mori Shinichi Endo,,0,0,0,,{\blur5}It was nothing.
+Dialogue: 0,0:19:49.37,0:19:51.87,Pink :/,,0,0,0,,Here you go.
+Dialogue: 0,0:19:52.30,0:19:57.51,Handgof,,0,0,0,,{\fade(400,0)}Clueless-and-Lighthearted Mori Shinichi
+Dialogue: 0,0:19:56.62,0:19:58.97,Talking Over Hamada,,0,0,0,,So stupid.
+Dialogue: 0,0:19:57.51,0:19:59.51,Blocky,,0,0,0,,{\pos(481.127,681.75)\fscx198\fscy146\c&H1300DC&\3c&HFFFFFF&}Recording
+Dialogue: 0,0:20:01.57,0:20:04.50,Mori Shinichi Endo,,0,0,0,,{\blur5}Anyway, a put shouldn't be swinged
+Dialogue: 0,0:19:59.84,0:20:07.25,Blue rectangle,,0,0,0,,{\p1\4c&H2DFFFA&\4a&H00&\fscx319\fscy121\clip(117,806,385,875)\pos(234.653,848.25)}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:19:59.84,0:20:07.25,Sign,,0,0,0,,{\fscx85\fscy96\b0\pos(249.003,864)}2nd Lesson
+Dialogue: 0,0:19:59.84,0:20:07.25,Blue rectangle,,0,0,0,,{\p1\fscx451\fscy158\4c&HF6363A&\4a&H00&\clip(119,889,405,990)\pos(246.472,954)}m 0 0 l 0 33.75 l 40.5 33.75 l 40.5 0
+Dialogue: 0,0:19:59.84,0:20:07.25,Sign,,0,0,0,,{\pos(261.666,965.25)}Putting
+Dialogue: 0,0:20:04.50,0:20:07.95,Mori Shinichi Endo,,0,0,0,,{\blur5}so let's make it roll to the hole.
+Dialogue: 0,0:20:11.97,0:20:14.00,Mori Shinichi Endo,,0,0,0,,{\blur5}Just like that.
+Dialogue: 0,0:20:15.73,0:20:17.09,Default,,0,0,0,,{\pos(1067.76,918)}Alright, we got it.
+Dialogue: 0,0:20:17.43,0:20:19.92,Pink :/,,0,0,0,,Please come wait over here.
+Dialogue: 0,0:20:24.47,0:20:25.80,Mori Shinichi Endo,,0,0,0,,{\blur5}Uhhh,
+Dialogue: 0,0:20:20.16,0:20:25.97,Handgof,,0,0,0,,{\fade(400,0)}{\pos(720.844,866.25)}Alone With the Sexy Assistant...
+Dialogue: 0,0:20:25.80,0:20:26.55,Pink :/,,0,0,0,,Yes?
+Dialogue: 0,0:20:27.97,0:20:29.34,Mori Shinichi Endo,,0,0,0,,{\blur5}you'll get tired, so{\alpha&HFF&} have a seat.
+Dialogue: 0,0:20:26.90,0:20:31.21,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(685.393,825.75)}If you keep standing
+Dialogue: 0,0:20:29.34,0:20:31.21,Mori Shinichi Endo,,0,0,0,,{\blur5}you'll get tired, so have a seat.
+Dialogue: 0,0:20:29.90,0:20:31.35,Pink :/,,0,0,0,,{\pos(1085.486,582.75)}No, I shouldn't.
+Dialogue: 0,0:20:31.35,0:20:33.55,Mori Shinichi Endo,,0,0,0,,{\blur5}It's no problem.
+Dialogue: 0,0:20:31.44,0:20:35.35,Handgof,,0,0,0,,{\fade(400,0)}{\pos(712.404,873)}Forcing-the-Assistant-to-Sit-Together Mori Shinichi
+Dialogue: 0,0:20:33.55,0:20:36.80,Pink :/,,0,0,0,,Ok, thank you.
+Dialogue: 0,0:20:39.70,0:20:40.80,Mori Shinichi Endo,,0,0,0,,{\blur5}You know,
+Dialogue: 0,0:20:40.80,0:20:43.15,Mori Shinichi Endo,,0,0,0,,{\blur5}Since we're doing golf today,
+Dialogue: 0,0:20:43.15,0:20:44.75,Mori Shinichi Endo,,0,0,0,,{\blur5}could I get a hand massage?
+Dialogue: 0,0:20:44.75,0:20:46.82,Pink :/,,0,0,0,,Ah, of course.
+Dialogue: 0,0:20:46.82,0:20:48.70,Pink :/,,0,0,0,,If I may.
+Dialogue: 0,0:20:49.17,0:20:50.92,Talking Over Hamada,,0,0,0,,What is this?
+Dialogue: 0,0:20:45.76,0:20:51.43,Handgof,,0,0,0,,{\fade(400,0)}{\pos(720.844,857.25)}Demanding-a-Massage Mori Shinichi
+Dialogue: 0,0:20:51.52,0:20:52.85,Pink :/,,0,0,0,,Does this hurt?
+Dialogue: 0,0:20:51.73,0:20:55.00,Handgof,,0,0,0,,{\fade(400,0)}{\pos(727.596,846)\c&H1500DD&}Her Breasts are Right Before His Eyes ❤
+Dialogue: 0,0:20:53.60,0:20:55.62,Pink :/,,0,0,0,,{\pos(856.741,1064.25)}Ok, good.
+Dialogue: 0,0:20:52.85,0:20:55.65,Mori Shinichi Endo,,0,0,0,,{\blur5}{\pos(512.356,1062)}Not at all.
+Dialogue: 0,0:21:01.35,0:21:04.15,Talking Over Hamada,,0,0,0,,What is he doing?
+Dialogue: 0,0:21:04.80,0:21:06.80,Talking Over Hamada,,0,0,0,,He's touching her leg.
+Dialogue: 0,0:21:06.40,0:21:09.37,Pink :/,,0,0,0,,Hey, where are you touching? Stop it you pervert!
+Dialogue: 0,0:21:10.75,0:21:13.20,Pink :/,,0,0,0,,Stop it you pervert!
+Dialogue: 0,0:21:37.40,0:21:39.50,Talking Over Hamada,,0,0,0,,That was just Endo.
+Dialogue: 0,0:21:39.60,0:21:41.55,Talking Over Yamasaki,,0,0,0,,Straight up Endo.
+Dialogue: 0,0:21:40.17,0:21:41.72,Mori Shinichi Endo,,0,0,0,,{\blur5}Big Success!
+Dialogue: 0,0:21:41.55,0:21:43.77,Talking Over Hamada,,0,0,0,,Right?
+Dialogue: 0,0:21:44.17,0:21:46.20,Yamasaki,,0,0,0,,From the viewer's perspective,
+Dialogue: 0,0:21:46.20,0:21:47.72,Yamasaki,,0,0,0,,it was hard to watch.
+Dialogue: 0,0:21:47.72,0:21:49.35,Hamada,,0,0,0,,The viewers won't know what to do.
+Dialogue: 0,0:21:49.35,0:21:50.02,Matsumoto,,0,0,0,,I wonder{\alpha&HFF&} how they explained it all to that actress, too.
+Dialogue: 0,0:21:50.02,0:21:54.63,Matsumoto,,0,0,0,,I wonder how they explained it all to that actress, too.
+Dialogue: 0,0:21:54.63,0:21:56.87,Yamasaki,,0,0,0,,"Because Mori-san is watching."
+Dialogue: 0,0:22:01.43,0:22:02.87,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(97,857,160,1080)\t(0,550,\clip(59,722,518,1080))}And now,{\alpha&HFF&} I received another, final request.
+Dialogue: 0,0:22:02.87,0:22:04.84,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(68,792,434,1080)\t(0,1250,\clip(81,596,972,1080))}And now, I received another,{\alpha&HFF&} final request.
+Dialogue: 0,0:22:04.84,0:22:06.67,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(74,644,941,1080)\t(0,640,\clip(126,452,1319,1080))}And now, I received another, final request.
+Dialogue: 0,0:22:06.74,0:22:08.71,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(95,889,171,1080)\t(0,1450,\clip(61,722,1330,1080))}So I'd like to finish the program with this.
+Dialogue: 0,0:22:08.77,0:22:09.74,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(443,936,495,1080)\t(0,340,\clip(385,880,799,1080))}Winter's{\alpha&HFF&} Riviera.
+Dialogue: 0,0:22:09.74,0:22:11.28,Mori Shinichi Endo,,0,0,0,,{\blur5\clip(387,819,734,1080)\t(0,840,\clip(306,817,1064,1080))}Winter's Riviera.
+Dialogue: 0,0:22:20.82,0:22:22.79,Hamada,,0,0,0,,{\pos(975.755,740.25)}This is{\c&H000000&\4c&HF2031A&} funnier than{\c&HF2031A&\4c&H000000&} everything else.
+Dialogue: 0,0:22:23.15,0:22:25.75,Yamasaki,,0,0,0,,I love this.
+Dialogue: 0,0:22:51.27,0:22:52.65,Hamada,,0,0,0,,Not bad.
+Dialogue: 0,0:22:56.67,0:22:58.25,Matsumoto,,0,0,0,,He's pretty good.
+Dialogue: 0,0:22:58.65,0:22:59.90,Matsumoto,,0,0,0,,Not bad!
+Dialogue: 0,0:23:00.02,0:23:02.06,Hamada,,0,0,0,,{\pos(795.123,740.25)}He got way better since last time.
+Dialogue: 0,0:23:09.00,0:23:11.15,Matsumoto,,0,0,0,,He's a little better.
+Dialogue: 0,0:23:13.75,0:23:17.07,Matsumoto,,0,0,0,,He wasn't great at first, but.
+Dialogue: 0,0:23:32.47,0:23:34.45,Matsumoto,,0,0,0,,He really drew that out.
+Dialogue: 0,0:23:34.45,0:23:37.40,Hamada,,0,0,0,,Much better than before.
+Dialogue: 0,0:23:35.85,0:23:37.40,Tanaka,,0,0,0,,I agree.
+Dialogue: 0,0:23:41.27,0:23:45.74,Mori Shinichi Endo,,0,0,0,,{\blur5}I hope to see you all again soon.
+Dialogue: 0,0:23:45.74,0:23:47.82,Mori Shinichi Endo,,0,0,0,,{\blur5}Have a good night.
+Dialogue: 0,0:23:47.82,0:23:51.80,Matsumoto,,0,0,0,,Halfway through he started doing Shimura Ken...
+Dialogue: 0,0:23:51.80,0:23:54.72,Tanaka,,0,0,0,,There were a lot of parts like that.
+Dialogue: 0,0:00:00.00,0:24:09.79,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-15,2,1433,1195)\fscx58\fscy55\pos(1356.984,159.079)}TPF
+Dialogue: 0,0:00:00.00,0:24:09.79,Newtofupandatitle,,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,9,1436,1080)\fscx57\fscy51\pos(1544.666,276.75)}0 0 m -220.25 -65.875 b -228.125 -67.25 -249.5 -65.875 -247.25 -41.625 b -248.375 -28.125 -227 -1.125 -221.375 0 b -212.375 7.625 -209 -1.125 -203.375 -2.875 b -196.625 -11.875 -189.875 -14.625 -183.125 -37.125 b -180.875 -58.25 -195.5 -59.625 -196.625 -61.625 b -205.625 -67.25 -213.5 -65.875 -220.25 -65.875 m -214.625 -58.25 b -204.5 -61.625 -191 -52.625 -193.25 -43.375 b -201.125 -55.125 -207.875 -55.125 -214.625 -58.25 m -272 -190.125 b -267.5 -190.125 -229.25 -179.75 -234.875 -110.875 b -242.75 -67.25 -264.125 -46.125 -270.875 -41.625 b -274.25 -40.25 -292.25 -20.875 -317 -52.625 b -322.625 -67.25 -333.875 -84.125 -326 -121.25 b -322.625 -136.125 -317 -165.125 -296.75 -181.125 b -291.125 -185.625 -282.125 -193.25 -272 -190.125 m -170.75 -193.25 b -168.5 -193.25 -141.5 -203.625 -117.875 -148.25 b -114.5 -134.75 -105.5 -118.125 -111.125 -76.25 b -117.875 -41.625 -129.125 -40.25 -135.875 -37.125 b -141.5 -37.125 -149.375 -28.125 -176.375 -53.75 b -185.375 -64.125 -198.875 -70.375 -204.5 -112.25 b -203.375 -112.25 -216.875 -139.5 -188.75 -181.125 b -183.125 -187.625 -177.5 -193.25 -170.75 -193.25 m -274.25 -143.75 b -305.75 -136.125 -287.75 -89.75 -273.125 -94.5 b -268.625 -94.5 -258.5 -97.625 -256.25 -118.125 b -259.625 -142.625 -266.375 -140.625 -274.25 -143.75 m -274.25 -130.25 b -267.5 -133.375 -264.125 -121.25 -265.25 -118.125 b -265.25 -106.625 -272 -106.625 -275.375 -106.625 b -279.875 -107.75 -282.125 -113.625 -281 -121.25 b -281 -124.375 -278.75 -130.25 -274.25 -130.25 m -272 -124.375 b -275.375 -122.625 -274.25 -117 -272 -117 b -269.75 -117 -267.5 -122.625 -272 -124.375 m -162.875 -143.75 b -187.625 -137.875 -176.375 -91.125 -162.875 -95.625 b -158.375 -94.5 -147.125 -97.625 -147.125 -124.375 b -150.5 -142.625 -159.5 -143.75 -162.875 -143.75 m -162.875 -130.25 b -148.25 -130.25 -152.75 -106.625 -160.625 -106.625 b -162.875 -104.625 -171.875 -107.75 -169.625 -121.25 b -169.625 -124.375 -168.5 -130.25 -162.875 -130.25 m -160.625 -124.375 b -164 -121.25 -161.75 -115.375 -159.5 -117 b -156.125 -118.125 -158.375 -124.375 -160.625 -124.375 m -276.5 -117 b -278.75 -117 -277.625 -112.25 -276.5 -112.25 b -275.375 -112.25 -274.25 -117 -276.5 -117 m -164 -115.375 b -166.25 -115.375 -165.125 -110.875 -164 -110.875 b -162.875 -110.875 -161.75 -115.375 -164 -115.375 m -333.875 -217.125 l -104.375 -217.125 l -104.375 86.875 l -333.875 86.875 m -106.625 -214.375 l -331.625 -214.375 l -331.625 84.125 l -106.625 84.125
+Dialogue: 0,0:23:04.13,0:24:09.79,Newtofupandatitle,,0,0,0,,{\fade(9000,0)\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\fscx71\fscy96\pos(722.534,715.5)}This video was brought to you by Tofu panda Fansubs
+

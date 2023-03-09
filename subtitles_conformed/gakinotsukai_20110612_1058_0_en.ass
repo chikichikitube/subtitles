@@ -1,0 +1,708 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1280
+PlayResY: 720
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: #1058 (2011.06.12) - Murakami Class - Feudal Lord.mp4
+Video File: #1058 (2011.06.12) - Murakami Class - Feudal Lord.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Scroll Position: 150
+Active Line: 158
+Video Position: 8897
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Hamada,Arial,40,&H00F61718,&H000000FF,&H00FFFFFF,&H00F61718,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,40,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,40,&H000372E3,&H000000FF,&H00FFFFFF,&H000372E3,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,40,&H00C014BF,&H000000FF,&H00FFFFFF,&H00C014BF,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Hosei,Arial,40,&H001EBB1B,&H000000FF,&H00FFFFFF,&H001EBB1B,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Murakami,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Credits,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,7,10,10,10,1
+Style: DON,Arial,48,&H00059A9A,&H000000FF,&H008FFDFD,&H00059A9A,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Black,Arial,48,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Yellow,Arial,48,&H003FFBFA,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Song,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Red,Arial,48,&H001218DB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Default - Other,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tokuma,Arial,40,&H00059A9A,&H000000FF,&H008FFDFD,&H00059A9A,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:04:56.85,0:04:58.78,Murakami,,0,0,0,,NOTE HERE
+Comment: 0,0:05:08.73,0:05:13.13,Hosei,,0,0,0,,NOTE HERE: https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B7%E3%82%B9%E3%82%B3%E3%83%BB%E3%82%B6%E3%83%93%E3%82%A8%E3%83%AB
+Dialogue: 0,0:00:00.00,0:00:06.69,Default - Other,,0,0,0,,{\c&H056FE8&\pos(778,501)\3c&H000000&\bord8\shad0}Murakami Shoji
+Dialogue: 1,0:00:00.00,0:00:06.69,Default - Other,,0,0,0,,{\c&H056FE8&\pos(778,501)\3c&HFFFFFF&}Murakami Shoji
+Dialogue: 0,0:00:00.00,0:00:06.69,Default - Other,,0,0,0,,{\c&H1218DB&\pos(906,578)\3c&HFFFFFF&\3c&H000000&\bord8\shad0}Classroom Series
+Dialogue: 1,0:00:00.00,0:00:06.69,Default - Other,,0,0,0,,{\c&H1218DB&\pos(906,578)\3c&HFFFFFF&}Classroom Series
+Dialogue: 0,0:00:01.08,0:00:06.80,Default,,0,0,0,,It's time for Shoji Murakami's\N Classroom Series, which always drops the ratings
+Dialogue: 0,0:00:07.22,0:00:16.33,Default - Other,,0,0,0,,{\fad(200,0)\pos(634.667,453.333)\3c&HD225AC&\shad0\bord8\t(\fs54)}Shoji was left outside last episode
+Dialogue: 1,0:00:07.22,0:00:16.33,Default - Other,,0,0,0,,{\fad(200,0)\pos(634.667,453.333)\3c&HFFFFFF&\shad0\c&H77BA2A&\t(\fs54)}Shoji was left outside last episode
+Dialogue: 0,0:00:07.22,0:00:16.33,Default - Other,,0,0,0,,{\fad(200,0)\pos(654.667,565.333)\3c&HD225AC&\shad0\bord8\t(\fs54)}And Girolamo hosted his own Ninja Classroom!
+Dialogue: 1,0:00:07.22,0:00:16.33,Default - Other,,0,0,0,,{\fad(200,0)\pos(654.667,565.333)\3c&HFFFFFF&\shad0\c&HC325D2&\t(\fs54)}And Girolamo hosted his own Ninja Classroom!
+Dialogue: 0,0:00:08.25,0:00:28.37,Default - Other,,0,0,0,,{\an8\3c&HFFFFFF&\3a&H00&\c&H67F31D&\fnImpact\b0\fs35\pos(420,8)\shad0\bord6}Missed this episode? You can find it on shionnotsukai.wordpress.com:
+Dialogue: 1,0:00:08.25,0:00:28.37,Default - Other,,0,0,0,,{\an8\3c&H000000&\3a&H00&\c&H67F31D&\fnImpact\b0\fs35\pos(420,8)\shad0\bord3}Missed this episode? You can find it on shionnotsukai.wordpress.com:
+Dialogue: 0,0:00:08.25,0:00:28.37,Default - Other,,0,0,0,,{\an8\3c&HFFFFFF&\3a&H00&\c&HD5F31E&\fnImpact\b0\fs35\pos(302,56)\shad0\bord6}Shoji Murakami’s Ninja Class ft. Girolamo Panzetta
+Dialogue: 1,0:00:08.25,0:00:28.37,Default - Other,,0,0,0,,{\an8\3c&H000000&\3a&H00&\c&HD5F31E&\fnImpact\b0\fs35\pos(302,56)\shad0\bord3}Shoji Murakami’s Ninja Class ft. Girolamo Panzetta
+Dialogue: 0,0:00:08.25,0:00:15.80,Default,,0,0,0,,Last time, Girolamo took his place\N as they decided it was time for Shoji to leave
+Dialogue: 0,0:00:16.33,0:00:18.97,Default,,0,0,0,,{\c&H14FFF2&}Amico!
+Dialogue: 0,0:00:19.27,0:00:25.04,Red,,0,0,0,,{\fad(200,0)\pos(657,578)\c&H10BDFF&\4c&HFFFFFF&\shad0\bord7}We thought he parted ways with this show, but...
+Dialogue: 1,0:00:19.27,0:00:25.04,Red,,0,0,0,,{\fad(200,0)\pos(657,578)\c&H10BDFF&\4c&HFFFFFF&\shad1\bord4\3c&H000000&}We thought he parted ways with this show, but...
+Dialogue: 0,0:00:19.42,0:00:21.50,Default,,0,0,0,,"Thanks for everything" my ass!
+Dialogue: 0,0:00:21.64,0:00:25.48,Default,,0,0,0,,They thought this was enough to cut ties with Shoji, but...
+Dialogue: 0,0:00:25.94,0:00:28.38,Default - Other,,0,0,0,,{\pos(822,467)\shad0\bord7\3c&HFFFFFF&}I'm not quitting this yet!
+Dialogue: 1,0:00:25.94,0:00:28.38,Default - Other,,0,0,0,,{\pos(822,467)\shad0\bord4}I'm not quitting this yet!
+Dialogue: 0,0:00:28.38,0:00:35.42,Default - Other,,0,0,0,,{\fad(150,0)\pos(644,546)\c&H0000E0&\i1\shad0\bord7\fs43\3c&H000000&\3a&H62&\blur4}Tonight, the series resurrects after 1 year and 3 months!!
+Dialogue: 0,0:00:28.38,0:00:35.42,Default - Other,,0,0,0,,{\fad(150,0)\pos(644,546)\c&H0000E0&\i1\shad0\fs43}Tonight, the series resurrects after 1 year and 3 months!!
+Dialogue: 0,0:00:29.58,0:00:35.16,Default,,0,0,0,,Tonight, his series resurrects after\N a 1 year and 3 months hiatus!
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\pos(278,438)\c&H349018&\3c&HFFFFFF&}Downtown
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\pos(282,494)\fs30\4c&HF0C922&}Matsumoto Hitoshi
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\c&H349018&\3c&HFFFFFF&\pos(454,565)}Cocorico
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\4c&H2288E0&\pos(317,617.333)}Endo Shozo
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\4c&H2288E0&\pos(601,618)}Tanaka Naoki
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\c&H349018&\3c&HFFFFFF&\pos(894,440)}Downtown
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\fs30\4c&HF0C922&\pos(895.333,506.667)}Hamada Masatoshi
+Dialogue: 0,0:00:35.42,0:00:38.76,Default - Other,,0,0,0,,{\fad(270,270)\pos(888,616)\fs30\4c&HB238F5&}Yamazaki Hosei
+Dialogue: 0,0:00:46.54,0:00:49.18,Endo,,0,0,0,,No one wants to do this, huh?  {\rTanaka} - I guess not
+Dialogue: 0,0:00:49.18,0:00:50.66,Tanaka,,0,0,0,,It's the wigs
+Dialogue: 0,0:00:50.66,0:00:53.86,Hamada,,0,0,0,,I mean, I'm not the only one, right?{\rTanaka}  - We're in the same boat
+Dialogue: 0,0:00:53.86,0:00:55.44,Hosei,,0,0,0,,I'm not really invested
+Dialogue: 0,0:00:55.44,0:00:58.94,Hamada,,0,0,0,,We're not dressed like this 'cause we want to
+Dialogue: 0,0:00:56.44,0:00:58.94,Endo,,0,0,0,,{\pos(637,600.714)}That's right
+Dialogue: 0,0:00:58.94,0:01:04.18,Matsumoto,,0,0,0,,But don't you think that "Feudal Lord Classroom" sucks?
+Dialogue: 0,0:01:02.70,0:01:06.64,Matsumoto,,0,0,0,,{\pos(649.333,593.334)}Doesn't it feel like a parody? I mean,
+Dialogue: 0,0:01:06.64,0:01:09.74,Matsumoto,,0,0,0,,We had "ninja" and lots of other stuff before
+Dialogue: 0,0:01:09.74,0:01:14.42,Matsumoto,,0,0,0,,{\fs35}Can't we, like, meet him in Shimbashi, get his signature and cancel this shit?
+Dialogue: 0,0:01:14.96,0:01:19.43,Default - Other,,0,0,0,,{\fad(300,300)\pos(657.333,574.667)\c&H2040E9&\4c&HBDC9EF&\3c&HFFFFFF&\shad0\bord7}Heading to the meeting spot
+Dialogue: 1,0:01:14.96,0:01:19.43,Default - Other,,0,0,0,,{\fad(300,300)\pos(657.333,574.667)\c&H2040E9&\4c&HBDC9EF&\3c&H060661&\shad0\bord2}Heading to the meeting spot
+Dialogue: 0,0:01:14.82,0:01:16.26,Hamada,,0,0,0,,Alright, alright...
+Dialogue: 0,0:01:16.37,0:01:22.82,Matsumoto,,0,0,0,,Even in this dire situation, Yamazaki\N is trying to make us laugh with his erected topknot
+Dialogue: 0,0:01:22.82,0:01:25.47,Hosei,,0,0,0,,Thanks for noticing\N{\rEndo}- "I thank thee", I'd say
+Dialogue: 0,0:01:25.98,0:01:28.24,Hosei,,0,0,0,,So...\N{\rEndo}- There's a sign
+Dialogue: 0,0:01:28.53,0:01:32.08,Default,,0,0,0,,{\fnImpact\fad(150,0)\shad0\bord5\3c&H354751&\fs30\pos(647.334,197.333)}\h\h\h\hGather here for the\h\h\h\h\h\N Feudal Lord Classroom!
+Dialogue: 0,0:01:28.40,0:01:32.08,Hamada,,0,0,0,,It's the same as always...\N{\rTanaka}- There it is
+Dialogue: 0,0:01:32.74,0:01:34.31,Matsumoto,,0,0,0,,Is he here already?
+Dialogue: 0,0:01:34.31,0:01:36.75,Endo,,0,0,0,,Yeah, he's here
+Dialogue: 0,0:01:35.22,0:01:36.75,Tanaka,,0,0,0,,{\pos(636,598.667)}I can see him
+Dialogue: 0,0:01:36.75,0:01:40.02,Tanaka,,0,0,0,,I ended up seeing him\N{\rMatsumoto}- I didn't mean to, but our eyes met
+Dialogue: 0,0:01:40.02,0:01:42.35,Hamada,,0,0,0,,It's that shenanigan
+Dialogue: 0,0:01:42.62,0:01:45.92,Endo,,0,0,0,,I think I've seen it before\N{\rHosei}- I don't remember what it's called
+Dialogue: 0,0:01:46.42,0:01:47.42,Tanaka,,0,0,0,,The hell is this?
+Dialogue: 0,0:01:47.42,0:01:52.36,Murakami,,0,0,0,,Oh! It's been a while, hasn't it?
+Dialogue: 0,0:01:50.76,0:01:51.50,Hamada,,0,0,0,,{\pos(636,589.333)}Good morning
+Dialogue: 0,0:01:51.50,0:01:52.74,Endo,,0,0,0,,{\pos(633.143,585.334)}'Morning
+Dialogue: 0,0:01:52.36,0:01:53.93,Murakami,,0,0,0,,Are you doing well?
+Dialogue: 0,0:01:54.23,0:02:00.44,Default - Other,,0,0,0,,{\fad(300,0)\pos(664,540)\c&H10ABB9&\4c&HFFFFFF&\shad0\bord12\3c&H0799A6&\blur6}Murakami Shoji
+Dialogue: 1,0:01:54.23,0:02:00.44,Default - Other,,0,0,0,,{\fad(300,0)\pos(664,540)\c&H10ABB9&\4c&HFFFFFF&\shad0\bord7\3c&HFFFFFF&}Murakami Shoji
+Dialogue: 2,0:01:54.23,0:02:00.44,Default - Other,,0,0,0,,{\fad(300,0)\pos(664,540)\c&H00EAFF&\4c&HFFFFFF&}M{\c&H01E4F9&}u{\c&H02DFF3&}r{\c&H03D9EC&}a{\c&H04D3E6&}k{\c&H05CEE0&}a{\c&H06C8DA&}m{\c&H07C2D3&}i{\c&H08BCCD&} {\c&H09B7C7&}S{\c&H0AB1C1&}h{\c&H0BABBA&}o{\c&H0CA6B4&}j{\c&H0DA0AE&}i
+Dialogue: 0,0:01:54.86,0:02:00.02,Default,,0,0,0,,Murakami Shoji showed up early,\N in spite of everyone's desire
+Dialogue: 0,0:02:00.60,0:02:03.72,Murakami,,0,0,0,,You know, I'm just back from a Feudal Lord Meeting
+Dialogue: 0,0:02:00.77,0:02:10.45,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&H000000&\an4\fs35\pos(242.667,528)\shad0\bord5}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 1,0:02:00.77,0:02:10.45,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\an4\fs35\pos(242.667,528)\shad0\bord3}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 0,0:02:05.34,0:02:06.80,Murakami,,0,0,0,,T'was fun!
+Dialogue: 0,0:02:06.90,0:02:08.33,Murakami,,0,0,0,,There were tons of Feudal Lords...
+Dialogue: 0,0:02:08.05,0:02:09.40,Endo,,0,0,0,,Yeah?
+Dialogue: 0,0:02:08.33,0:02:11.15,Murakami,,0,0,0,,It was really fun, we ate a whole lot
+Dialogue: 0,0:02:11.45,0:02:13.65,Murakami,,0,0,0,,Like, boiled ainame and stuff
+Dialogue: 0,0:02:13.82,0:02:17.00,Murakami,,0,0,0,,T'was... t'was outrageously delicious!
+Dialogue: 0,0:02:17.14,0:02:18.36,Endo,,0,0,0,,I bet it was, huh
+Dialogue: 0,0:02:18.62,0:02:20.66,Murakami,,0,0,0,,The fuck is wrong with you, Hamada?!
+Dialogue: 0,0:02:19.68,0:02:20.98,Hamada,,0,0,0,,{\pos(640,579.428)}What have I done now?
+Dialogue: 0,0:02:20.98,0:02:23.09,Murakami,,0,0,0,,What have you done? I'll tell you what!\N{\rHamada}- What the...
+Dialogue: 0,0:02:23.09,0:02:27.46,Murakami,,0,0,0,,Don't you wanna become a Feudal Lord and eat good stuff?!
+Dialogue: 0,0:02:24.58,0:02:26.84,Hamada,,0,0,0,,{\pos(740.571,581.714)}Of course I want to eat
+Dialogue: 0,0:02:27.46,0:02:30.73,Hamada,,0,0,0,,Not sure about the Feudal Lord thing...\N{\rMurakami}- Everything was delicious!
+Dialogue: 0,0:02:30.73,0:02:34.07,Matsumoto,,0,0,0,,Isn't he shouting too much?
+Dialogue: 0,0:02:32.37,0:02:34.07,Hosei,,0,0,0,,{\pos(640,597.714)}Yeah, even more than usual
+Dialogue: 0,0:02:34.07,0:02:37.11,Murakami,,0,0,0,,I've caught a cold today, I don't have much voice
+Dialogue: 0,0:02:35.32,0:02:37.11,Matsumoto,,0,0,0,,{\pos(640,593.143)}Huh? Really?\N{\rHamada}- And you're still so loud?
+Dialogue: 0,0:02:37.11,0:02:38.94,Matsumoto,,0,0,0,,His volume doesn't reflect that
+Dialogue: 0,0:02:38.94,0:02:41.81,Murakami,,0,0,0,,Anyway, today I'm really going to make you all
+Dialogue: 0,0:02:41.81,0:02:44.55,Murakami,,0,0,0,,some fine Feudal Lords, I swear
+Dialogue: 0,0:02:44.55,0:02:49.85,Murakami,,0,0,0,,{\fs33}All the other things we've done... I wouldn't recommend becoming any of those
+Dialogue: 0,0:02:49.85,0:02:54.66,Murakami,,0,0,0,,But today you'll become Feudal Lords!
+Dialogue: 0,0:02:52.72,0:02:54.48,Hamada,,0,0,0,,{\pos(640,576)}So goddamn loud
+Dialogue: 0,0:02:54.66,0:02:56.93,Endo,,0,0,0,,My eardrums hurt\N{\rHamada} - Just shut up
+Dialogue: 0,0:02:56.93,0:02:58.96,Murakami,,0,0,0,,How about we play a little game?
+Dialogue: 0,0:02:58.08,0:02:58.96,Hamada,,0,0,0,,{\pos(640,590.857)}- Oh, are we going to?
+Dialogue: 0,0:02:59.14,0:03:02.60,Murakami,,0,0,0,,Tell me something a Feudal Lord would say
+Dialogue: 0,0:03:02.60,0:03:05.10,Murakami,,0,0,0,,It's a sort of quiz show
+Dialogue: 0,0:03:05.10,0:03:08.24,Murakami,,0,0,0,,I bet you know some words a Feudal Lord would use, huh?
+Dialogue: 0,0:03:07.74,0:03:09.80,Hamada,,0,0,0,,{\pos(640,593.143)}I see\N{\rMurakami}- Let me go first
+Dialogue: 0,0:03:10.04,0:03:13.15,Murakami,,0,0,0,,Something a Feudal Lord would say! Hey, hey!
+Dialogue: 0,0:03:14.04,0:03:16.61,Murakami,,0,0,0,,{\pos(954.333,510)}This pleases me!
+Dialogue: 0,0:03:16.41,0:03:18.05,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:03:18.25,0:03:21.79,Hamada,,0,0,0,,That is indeed foul
+Dialogue: 0,0:03:20.69,0:03:23.04,Tanaka,,0,0,0,,{\pos(640,593.143)}Yeah, it works\N{\rMurakami}- Nice! Hey, hey!
+Dialogue: 0,0:03:23.75,0:03:26.92,Matsumoto,,0,0,0,,Come closer, would you?
+Dialogue: 0,0:03:25.38,0:03:26.92,Murakami,,0,0,0,,{\pos(636,589.333)}- Oh, nice one
+Dialogue: 0,0:03:26.92,0:03:28.12,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:03:28.36,0:03:30.63,Hosei,,0,0,0,,Disband!
+Dialogue: 0,0:03:29.32,0:03:30.63,Murakami,,0,0,0,,{\pos(636,589.333)}Nice one!
+Dialogue: 0,0:03:30.63,0:03:31.90,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:03:32.20,0:03:34.63,Tanaka,,0,0,0,,You shall be beheaded!
+Dialogue: 0,0:03:33.04,0:03:34.63,Murakami,,0,0,0,,{\pos(636,589.333)}- This works!
+Dialogue: 0,0:03:34.63,0:03:35.77,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:03:35.77,0:03:38.34,Endo,,0,0,0,,Heads high, don't succumb to pain!
+Dialogue: 0,0:03:38.34,0:03:45.58,Murakami,,0,0,0,,{\pos(641,512)}What the hell are you... "Heads high"?\NYou're copying his "come closer" but... it's ok!
+Dialogue: 0,0:03:42.40,0:03:43.66,Endo,,0,0,0,,Ah, is it good?!
+Dialogue: 0,0:03:43.66,0:03:45.58,Murakami,,0,0,0,,It's fine, yes
+Dialogue: 0,0:03:45.58,0:03:48.08,Murakami,,0,0,0,,I've changed my mind, it's good!
+Dialogue: 0,0:03:47.08,0:03:49.68,Endo,,0,0,0,,{\pos(636,589.333)}You did? Thank you
+Dialogue: 0,0:03:51.15,0:03:52.75,Murakami,,0,0,0,,Someone!
+Dialogue: 0,0:03:52.75,0:03:54.02,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:03:54.46,0:03:56.42,Endo,,0,0,0,,Was that... it?\N{\rMurakami}- "Someone", you know...
+Dialogue: 0,0:03:56.42,0:03:58.26,Matsumoto,,0,0,0,,I thought the game changed for a sec
+Dialogue: 0,0:03:58.26,0:04:00.86,Hamada,,0,0,0,,You mean as "someone, help me"?\N{\rMurakami} - That's right
+Dialogue: 0,0:04:01.06,0:04:02.68,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:04:03.06,0:04:05.73,Hamada,,0,0,0,,And now, this issue is settled
+Dialogue: 0,0:04:04.58,0:04:05.73,Murakami,,0,0,0,,{\pos(636,589.333)}That's a good one!
+Dialogue: 0,0:04:05.73,0:04:07.00,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:04:07.33,0:04:09.53,Matsumoto,,0,0,0,,I order you to commit seppuku
+Dialogue: 0,0:04:08.32,0:04:09.53,Murakami,,0,0,0,,{\pos(636,589.333)}Nice one!
+Dialogue: 0,0:04:09.53,0:04:10.73,Murakami,,0,0,0,,Hey, hey!
+Dialogue: 0,0:04:11.00,0:04:13.07,Hosei,,0,0,0,,{\pos(258.857,530.571)}Who art thou?
+Dialogue: 0,0:04:11.80,0:04:14.12,Murakami,,0,0,0,,I like this one! Hey, hey!
+Dialogue: 0,0:04:14.24,0:04:16.07,Tanaka,,0,0,0,,{\pos(398,436.286)}Bring me a horse!
+Dialogue: 0,0:04:14.97,0:04:16.67,Murakami,,0,0,0,,Nice! Hey, hey!
+Dialogue: 0,0:04:16.67,0:04:18.98,Endo,,0,0,0,,{\pos(286.571,473.143)}You shall be beheaded!
+Dialogue: 0,0:04:17.42,0:04:18.98,Murakami,,0,0,0,,Nice one! Hey, he--
+Dialogue: 0,0:04:18.98,0:04:23.88,Murakami,,0,0,0,,Huh? Didn't you just copy him?
+Dialogue: 0,0:04:21.16,0:04:22.10,Matsumoto,,0,0,0,,{\pos(636,589.333)}He did
+Dialogue: 0,0:04:22.10,0:04:23.88,Tanaka,,0,0,0,,{\pos(636,579.333)}- He did\N{\rMatsumoto}- He did it so nonchalantly
+Dialogue: 0,0:04:23.88,0:04:24.88,Tanaka,,0,0,0,,Did you notice?
+Dialogue: 0,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord1\shad0}TRANSLATION BY {\c&H5ECCFF&}SHION\N{\c&HFFFFFF&}TYPESET & QC BY {\c&H5ECCFF&}KEDOMAS
+Dialogue: 0,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord5\shad0\an6\pos(1212,130)\3c&H000000&\}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&H000000&}FACEBOOK.COM/SHIONNOTSUKAI\NTWITTER.COM/SHIONNOTSUKAI\N{\3c&H000000&}KO-FI.COM/SHIONNOTSUKAI\NPATREON.COM/SHIONNOTSUKAI
+Dialogue: 1,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord2\shad0\an6\pos(1212,130)\3c&H37C2FC&\}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&HC5FF89&}FACEBOOK.COM/SHIONNOTSUKAI\NTWITTER.COM/SHIONNOTSUKAI\N{\3c&H9494FF&}KO-FI.COM/SHIONNOTSUKAI\NPATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord1\shad0\an4\fs20\pos(1222,36)\c&H37C2FC&}WEB\NSITE
+Dialogue: 0,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord1\shad0\an4\fs20\pos(1224,106)\c&HC5FF89&}FOLL\NLOW\N MY S\NOCIALS
+Dialogue: 0,0:04:24.88,0:04:35.99,Credits,,0,0,0,,{\bord1\shad0\an4\fs20\pos(1226,202)\c&H9494FF&}SUP-\NPORT /\NDONA-\NTIONS
+Dialogue: 0,0:04:37.46,0:04:42.80,Default - Other,,0,0,0,,{\fad(0,150)\bord2\shad0\fs30\pos(630.667,514.667)}Feudal Lord Classroom - Lesson 1
+Dialogue: 0,0:04:37.46,0:04:42.80,Yellow,,0,0,0,,{\fad(0,150)\shad0}Military Arts Training
+Dialogue: 0,0:04:37.40,0:04:42.62,Default,,0,0,0,,{\a6}Let's start with something essential\N to a Feudal Lord: a training for military arts
+Dialogue: 0,0:04:43.27,0:04:47.47,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&H000000&\an4\fs35\pos(242.667,528)\shad0\bord5}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 1,0:04:43.27,0:04:47.47,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\an4\fs35\pos(242.667,528)\shad0\bord3}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 0,0:04:43.27,0:04:45.97,Murakami,,0,0,0,,First off, do you know what these are?
+Dialogue: 0,0:04:46.36,0:04:47.40,Murakami,,0,0,0,,These over here
+Dialogue: 0,0:04:48.54,0:04:50.47,Matsumoto,,0,0,0,,Targets?
+Dialogue: 0,0:04:50.81,0:04:51.98,Murakami,,0,0,0,,Tsk
+Dialogue: 0,0:04:52.94,0:04:55.25,Murakami,,0,0,0,,You're ok with that normal answer?
+Dialogue: 0,0:04:55.25,0:04:56.85,Murakami,,0,0,0,,How about "is this a doll stand?"
+Dialogue: 0,0:04:56.85,0:04:58.78,Murakami,,0,0,0,,Or "Is this for the Hina Matsuri?"
+Dialogue: 0,0:04:58.78,0:05:01.82,Murakami,,0,0,0,,That's right, it's the five court-musician dolls!
+Dialogue: 0,0:05:01.82,0:05:05.29,Murakami,,0,0,0,,Don't you need jokes like that at all?
+Dialogue: 0,0:05:04.29,0:05:05.58,Matsumoto,,0,0,0,,{\pos(639.714,579.143)}Not really...
+Dialogue: 0,0:05:05.29,0:05:07.16,Murakami,,0,0,0,,Of course you do!
+Dialogue: 0,0:05:07.16,0:05:08.73,Murakami,,0,0,0,,Alright Yamazaki, who's this?
+Dialogue: 0,0:05:08.73,0:05:13.13,Hosei,,0,0,0,,This is Saverio, right?
+Dialogue: 0,0:05:11.56,0:05:13.13,Endo,,0,0,0,,{\pos(634,594)}Yep, that's him
+Dialogue: 0,0:05:13.13,0:05:14.86,Murakami,,0,0,0,,Are you ok with that answer?
+Dialogue: 0,0:05:15.17,0:05:20.70,Murakami,,0,0,0,,Do you want to give up on this world?
+Dialogue: 0,0:05:17.86,0:05:20.10,Hosei,,0,0,0,,{\pos(634,594)}I don't...\N{\rMatsumoto}- Do you mean showbiz with that?
+Dialogue: 0,0:05:20.10,0:05:21.57,Endo,,0,0,0,,{\pos(634,594)}What are we...?
+Dialogue: 0,0:05:22.67,0:05:24.84,Matsumoto,,0,0,0,,You're a feudal lord, aren't you?
+Dialogue: 0,0:05:23.58,0:05:24.84,Murakami,,0,0,0,,{\pos(634,594)}Of course I am
+Dialogue: 0,0:05:24.84,0:05:29.08,Murakami,,0,0,0,,I was asking about the {\i1}other{\i0} world (showbiz)
+Dialogue: 0,0:05:27.40,0:05:30.96,Matsumoto,,0,0,0,,{\an8\pos(630.857,477.714)}I thought he was talking about being a feudal lord
+Dialogue: 0,0:05:29.52,0:05:32.74,Hosei,,0,0,0,,We have to become one, first
+Dialogue: 0,0:05:32.82,0:05:37.29,Murakami,,0,0,0,,So, if you ask me what's crucial\N when it comes to becoming a feudal lord...
+Dialogue: 0,0:05:37.29,0:05:40.12,Murakami,,0,0,0,,I'd say it's horseback archery
+Dialogue: 0,0:05:40.12,0:05:43.09,Hamada,,0,0,0,,Do feudal lords do that?
+Dialogue: 0,0:05:41.49,0:05:45.75,Murakami,,0,0,0,,{\an8\pos(634.286,552)}Of course they do, lots of daimyos used to
+Dialogue: 0,0:05:46.62,0:05:49.90,Hosei,,0,0,0,,This gesture is strange too, right?\N Why is he letting go?
+Dialogue: 0,0:05:50.23,0:05:51.97,Murakami,,0,0,0,,Yamazaki...\N{\rHosei}- Yes, sorry.
+Dialogue: 0,0:05:52.47,0:05:56.77,Murakami,,0,0,0,,Are you ok with that?
+Dialogue: 0,0:05:53.48,0:05:55.06,Hamada,,0,0,0,,{\pos(634,590.571)}Here comes the tilted neck
+Dialogue: 0,0:05:55.06,0:05:56.77,Murakami,,0,0,0,,{\pos(634,588.286)}You sure?
+Dialogue: 0,0:05:56.77,0:06:00.63,Murakami,,0,0,0,,So, as our first training,\N we'll learn how to perform horseback archery
+Dialogue: 0,0:06:01.48,0:06:02.40,Murakami,,0,0,0,,Here!
+Dialogue: 0,0:06:03.38,0:06:05.42,Endo,,0,0,0,,Whoa... I've never done it before
+Dialogue: 0,0:06:05.42,0:06:08.02,Matsumoto,,0,0,0,,You really like those things...
+Dialogue: 0,0:06:06.84,0:06:08.02,Murakami,,0,0,0,,{\pos(640.857,591.714)}What is this?
+Dialogue: 0,0:06:08.02,0:06:10.85,Matsumoto,,0,0,0,,It's a wheelbarrow
+Dialogue: 0,0:06:08.52,0:06:09.83,Endo,,0,0,0,,{\pos(634,590.571)}That's what I see
+Dialogue: 0,0:06:10.85,0:06:14.02,Murakami,,0,0,0,,The hell are you saying?\N And why are you speaking so softly?!
+Dialogue: 0,0:06:10.85,0:06:14.02,Hosei,,0,0,0,,{\pos(1022.857,604.572)}You said it\N{\rEndo} - I mean, that's it
+Dialogue: 0,0:06:14.02,0:06:16.93,Matsumoto,,0,0,0,,I'm saying, you really like those, right?
+Dialogue: 0,0:06:16.93,0:06:19.40,Matsumoto,,0,0,0,,I always see one of these around you
+Dialogue: 0,0:06:18.40,0:06:21.02,Murakami,,0,0,0,,{\pos(634,594)}But you can't ride a horse, right?\N{\rHamada}- Right, right
+Dialogue: 0,0:06:21.02,0:06:22.56,Hamada,,0,0,0,,We can't, actually
+Dialogue: 0,0:06:22.56,0:06:25.38,Murakami,,0,0,0,,That's why we're relying on this\N{\rMatsumoto}- I see, I'm sorry
+Dialogue: 0,0:06:25.84,0:06:28.51,Murakami,,0,0,0,,You know what this is, right?
+Dialogue: 0,0:06:26.78,0:06:28.51,Hamada,,0,0,0,,{\pos(634,594)}- Yep
+Dialogue: 0,0:06:28.51,0:06:29.37,Murakami,,0,0,0,,Yamazaki?
+Dialogue: 0,0:06:29.37,0:06:30.94,Hosei,,0,0,0,,{\pos(934,560)}It's a bow
+Dialogue: 0,0:06:31.37,0:06:33.48,Murakami,,0,0,0,,You really gave up, didn't you?
+Dialogue: 0,0:06:34.18,0:06:39.68,Murakami,,0,0,0,,How about answering "it's a fire tool used by cavemen" or such?
+Dialogue: 0,0:06:38.22,0:06:39.68,Hosei,,0,0,0,,{\pos(634,504)}I'm sorry
+Dialogue: 0,0:06:39.68,0:06:40.96,Murakami,,0,0,0,,Unbelievable...
+Dialogue: 0,0:06:41.45,0:06:43.79,Murakami,,0,0,0,,Alright Tanaka, let's start from you!
+Dialogue: 0,0:06:42.82,0:06:43.79,Tanaka,,0,0,0,,{\pos(634,594)}Oh, sure!
+Dialogue: 0,0:06:43.79,0:06:45.62,Murakami,,0,0,0,,You're brave, you can become a feudal lord
+Dialogue: 0,0:06:45.62,0:06:47.02,Tanaka,,0,0,0,,Oh, is that so?\N{\rEndo}- Amazing!
+Dialogue: 0,0:06:47.02,0:06:49.03,Murakami,,0,0,0,,Come here, Hamada\N{\rTanaka}- Thank you
+Dialogue: 0,0:06:49.44,0:06:50.59,Hamada,,0,0,0,,Yes?
+Dialogue: 0,0:06:51.54,0:06:53.06,Murakami,,0,0,0,,Have this
+Dialogue: 0,0:06:53.40,0:06:55.43,Hamada,,0,0,0,,Sure...\N{\rMurakami}- Place it around your neck
+Dialogue: 0,0:06:55.82,0:06:57.50,Hamada,,0,0,0,,What should I do with it?\N{\rMurakami} - Like this
+Dialogue: 0,0:07:01.27,0:07:02.87,Murakami,,0,0,0,,Here\N {\rHamada}- Huh?
+Dialogue: 0,0:07:02.87,0:07:04.27,Hamada,,0,0,0,,What is...
+Dialogue: 0,0:07:04.27,0:07:06.34,Murakami,,0,0,0,,Like this\N{\rMatsumoto}- Careful, ok? {\rTanaka}  - Sure
+Dialogue: 0,0:07:06.34,0:07:09.11,Murakami,,0,0,0,,I'm coming from this way, get ready
+Dialogue: 0,0:07:09.58,0:07:13.85,Murakami,,0,0,0,,What the hell are you doing there?!
+Dialogue: 0,0:07:13.04,0:07:15.14,Hamada,,0,0,0,,{\pos(634,594)}What the hell am I supposed to...
+Dialogue: 0,0:07:15.14,0:07:18.49,Murakami,,0,0,0,,Are you here to stop us from working or what?!
+Dialogue: 0,0:07:19.44,0:07:22.74,Hamada,,0,0,0,,What should I do with these?!\N{\rMurakami} - You gotta make some noise, like this!
+Dialogue: 0,0:07:22.74,0:07:24.82,Hamada,,0,0,0,,Oh! I see!
+Dialogue: 0,0:07:24.82,0:07:27.26,Murakami,,0,0,0,,Of course\N{\rTanaka}- I see...    {\rEndo}- That's the horse running, right?
+Dialogue: 0,0:07:27.26,0:07:28.63,Murakami,,0,0,0,,Let's see how you do it
+Dialogue: 0,0:07:32.18,0:07:33.10,Murakami,,0,0,0,,The sound is...
+Dialogue: 0,0:07:33.10,0:07:35.22,Murakami,,0,0,0,,A horse is faster than that!
+Dialogue: 0,0:07:37.34,0:07:38.70,Murakami,,0,0,0,,Do you want to...
+Dialogue: 0,0:07:38.78,0:07:40.54,Murakami,,0,0,0,,You wanna screw this over or what?
+Dialogue: 0,0:07:40.54,0:07:45.32,Murakami,,0,0,0,,This is something precious I've warmed up for ya!
+Dialogue: 0,0:07:42.02,0:07:43.66,Hamada,,0,0,0,,{\pos(634,586)}Don't say it like that
+Dialogue: 0,0:07:43.82,0:07:45.32,Matsumoto,,0,0,0,,{\pos(634,586)}He surely warmed it up for us
+Dialogue: 0,0:07:45.32,0:07:48.08,Murakami,,0,0,0,,Come on, do it properly!\N{\rHamada} - Show me how
+Dialogue: 0,0:07:50.76,0:07:52.28,Murakami,,0,0,0,,Like this!\N{\rHamada} - I see
+Dialogue: 0,0:07:52.28,0:07:53.62,Murakami,,0,0,0,,Now you try
+Dialogue: 0,0:07:54.50,0:07:55.90,Murakami,,0,0,0,,Here we go\N{\rMatsumoto}- Good luck!
+Dialogue: 0,0:07:55.90,0:07:58.28,Endo,,0,0,0,,Good luck!\N{\rHosei}- Go for it, Tanaka!
+Dialogue: 0,0:07:59.13,0:08:00.76,Murakami,,0,0,0,,What the hell?!\N{\rEndo}- Careful!
+Dialogue: 0,0:08:00.96,0:08:03.76,Hamada,,0,0,0,,I'm not really good at this\N{\rMurakami}- For crying out loud...
+Dialogue: 0,0:08:03.76,0:08:05.20,Murakami,,0,0,0,,Just do it!
+Dialogue: 0,0:08:06.52,0:08:08.97,Matsumoto,,0,0,0,,He's pretty good at it!\N{\rHamada}- That sounds nice!
+Dialogue: 0,0:08:08.97,0:08:10.96,Murakami,,0,0,0,,Alright, let's go!\N {\rTanaka}- He's good at it
+Dialogue: 0,0:08:16.18,0:08:17.42,Tanaka,,0,0,0,,Here I go
+Dialogue: 0,0:08:19.26,0:08:21.62,Endo,,0,0,0,,Oh no\N{\rMatsumoto} - I'm sorry
+Dialogue: 0,0:08:23.14,0:08:25.86,Hamada,,0,0,0,,{\pos(634,589.429)}Oh, is that so? I'm sorry
+Dialogue: 0,0:08:23.22,0:08:25.86,Murakami,,0,0,0,,You gotta follow me, come on!
+Dialogue: 0,0:08:25.86,0:08:29.53,Murakami,,0,0,0,,It's weird if the horse is over here\N but the sound is over there, right?!
+Dialogue: 0,0:08:30.19,0:08:35.68,Default,,0,0,0,,{\an8\pos(656,48)}Next up, Yamazaki rides the horse \Nwhile Matsumoto is in charge of its sounds
+Dialogue: 0,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fs40\fad(0,250)\pos(423,512)\shad0\bord6\3c&H000000&\}Yamazaki
+Dialogue: 1,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fs40\fad(0,250)\pos(423,512)\shad0\bord3\3c&HFFFFFF&\}Yamazaki
+Dialogue: 0,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fad(0,250)\shad0\bord6\3c&H000000&\pos(755,512)}Horseback archery
+Dialogue: 1,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fad(0,250)\shad0\bord3\3c&HFFFFFF&\pos(755,512)}Horseback archery
+Dialogue: 0,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fs40\fad(0,250)\pos(426,594)\shad0\bord6\3c&H000000&}Matsumoto
+Dialogue: 1,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fs40\fad(0,250)\pos(426,594)\shad0\bord3\3c&HFFFFFF&}Matsumoto
+Dialogue: 0,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fad(0,250)\pos(728,598)\shad0\bord6\3c&H000000&}Sound making
+Dialogue: 1,0:08:30.49,0:08:36.50,Red,,0,0,0,,{\fad(0,250)\pos(728,598)\shad0\bord3\3c&HFFFFFF&}Sound making
+Dialogue: 0,0:08:35.90,0:08:36.83,Murakami,,0,0,0,,Alright, let's go
+Dialogue: 0,0:08:37.17,0:08:41.14,Hamada,,0,0,0,,Maybe he can strike two arrows before getting here?
+Dialogue: 0,0:08:39.02,0:08:41.14,Endo,,0,0,0,,{\pos(634,594)}You're right, he could do it
+Dialogue: 0,0:08:41.14,0:08:43.51,Murakami,,0,0,0,,{\pos(489.143,501.714)}Here we go. {\pos(492,510)}Say "go" when you're ready!
+Dialogue: 0,0:08:41.14,0:08:43.51,Endo,,0,0,0,,Good luck!\N{\rMatsumoto}- Give it your best
+Dialogue: 0,0:08:43.51,0:08:44.80,Matsumoto,,0,0,0,,Can I?\N{\rMurakami} - Yes
+Dialogue: 0,0:08:45.30,0:08:46.38,Matsumoto,,0,0,0,,Go!
+Dialogue: 0,0:08:47.24,0:08:51.21,Murakami,,0,0,0,,You're the one who should say "go", idiot!
+Dialogue: 0,0:08:48.12,0:08:49.34,Hosei,,0,0,0,,{\pos(634,594)}Ouch!
+Dialogue: 0,0:08:49.50,0:08:51.46,Murakami,,0,0,0,,{\pos(634,594)}It's your job!\N{\rMatsumoto} - I guess he's right
+Dialogue: 0,0:08:51.46,0:08:55.08,Endo,,0,0,0,,He's scary...   {\rMatsumoto}- Really\N{\rHosei}- Sorry, I forgot to say it
+Dialogue: 0,0:08:55.92,0:08:57.40,Hosei,,0,0,0,,Go!\N{\rMurakami} - Go!
+Dialogue: 0,0:08:58.34,0:09:00.08,Endo,,0,0,0,,Oh, no! He lost an arrow!
+Dialogue: 0,0:09:00.14,0:09:02.38,Hosei,,0,0,0,,This is scary! Stop! I'm scared!
+Dialogue: 0,0:09:02.38,0:09:03.62,Hosei,,0,0,0,,Goddamn...
+Dialogue: 0,0:09:04.30,0:09:06.90,Hosei,,0,0,0,,Wait a sec--- stop it!\N{\rEndo}- Watch out, it's dangerous!
+Dialogue: 0,0:09:06.90,0:09:08.56,Hosei,,0,0,0,,I'm scared! I'm scared!
+Dialogue: 0,0:09:08.56,0:09:11.66,Hosei,,0,0,0,,Stop it, please!\N{\rHamada}- Be brave! Man up!
+Dialogue: 0,0:09:11.66,0:09:14.41,Hosei,,0,0,0,,This is so scary!\N{\rEndo}- Shoot it now!
+Dialogue: 0,0:09:14.87,0:09:17.04,Hosei,,0,0,0,,Please! Stop!
+Dialogue: 0,0:09:17.90,0:09:19.34,Murakami,,0,0,0,,You're no good
+Dialogue: 0,0:09:19.34,0:09:20.84,Murakami,,0,0,0,,This is impossible
+Dialogue: 0,0:09:22.38,0:09:24.68,Murakami,,0,0,0,,The sound was pretty crappy too
+Dialogue: 0,0:09:25.55,0:09:26.72,Murakami,,0,0,0,,Hey
+Dialogue: 0,0:09:27.48,0:09:30.06,Murakami,,0,0,0,,I had enough, I'm exhausted\N{\rHamada} - Sure
+Dialogue: 0,0:09:30.14,0:09:34.06,Murakami,,0,0,0,,We don't have time to waste on this crap
+Dialogue: 0,0:09:34.92,0:09:40.93,Default - Other,,0,0,0,,{\fad(0,150)\pos(646.667,514.667)\bord2\shad0\fs30}Feudal Lord Classroom - Lesson 2
+Dialogue: 0,0:09:34.92,0:09:40.93,Yellow,,0,0,0,,{\fad(0,150)\shad0}Celebration Training
+Dialogue: 0,0:09:34.98,0:09:40.38,Default,,0,0,0,,{\a6}A true Feudal Lord, must be able\N to reduce the distance from his people
+Dialogue: 0,0:09:41.43,0:09:48.81,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&H000000&\an4\fs35\pos(242.667,528)\shad0\bord5}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 1,0:09:41.43,0:09:48.81,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\an4\fs35\pos(242.667,528)\shad0\bord3}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 0,0:09:41.58,0:09:44.74,Murakami,,0,0,0,,When there's some sort of battle
+Dialogue: 0,0:09:44.86,0:09:48.88,Murakami,,0,0,0,,You can win or lose, but there's a big difference
+Dialogue: 0,0:09:49.20,0:09:52.41,Murakami,,0,0,0,,When you win, it's the best feeling ever, right?\N - Yes
+Dialogue: 0,0:09:52.68,0:09:56.58,Murakami,,0,0,0,,So it's time to practice how to celebrate when you'll win
+Dialogue: 0,0:09:56.91,0:10:00.38,Murakami,,0,0,0,,Do you know how to properly do it?\N{\rMatsumoto} - Is there a proper way?
+Dialogue: 0,0:10:00.38,0:10:03.19,Murakami,,0,0,0,,Well, it's a sort of ceremony itself, right?
+Dialogue: 0,0:10:03.89,0:10:12.20,Red,,0,0,0,,{\fs44\pos(657,576)\shad0\bord6\3c&H000000&}Use the provided tools to liven up the celebrations!
+Dialogue: 1,0:10:03.89,0:10:12.20,Red,,0,0,0,,{\fs44\pos(657,576)\shad0\bord3}Use the provided tools to liven up the celebrations!
+Dialogue: 0,0:10:04.26,0:10:08.44,Default,,0,0,0,,They'll use the tools Lord Shoji provided them
+Dialogue: 0,0:10:08.44,0:10:11.44,Default,,0,0,0,,To liven up the victory celebrations
+Dialogue: 0,0:10:12.56,0:10:16.70,Default - Other,,0,0,0,,{\c&HDC1C0C&\3c&H000000&\4c&H000000&\fad(50,350)\i1\pos(640,554)\shad0\bord10\blur2}Matsumoto's challenge!
+Dialogue: 1,0:10:12.56,0:10:16.70,Default - Other,,0,0,0,,{\c&HDC1C0C&\3c&H656565&\4c&H999298&\fad(50,350)\i1\pos(640,554)\shad0\bord6}Matsumoto's challenge!
+Dialogue: 2,0:10:12.56,0:10:16.70,Default - Other,,0,0,0,,{\c&HDC1C0C&\3c&HFFFFFF&\4c&H999298&\fad(50,350)\i1\pos(640,554)\shad0\bord3}Matsumoto's challenge!
+Dialogue: 0,0:10:13.26,0:10:16.17,Default,,0,0,0,,Matsumoto will be the first challenger
+Dialogue: 0,0:10:16.17,0:10:18.03,Murakami,,0,0,0,,Make sure to liven it up for good, ok?
+Dialogue: 0,0:10:18.20,0:10:22.31,Matsumoto,,0,0,0,,Hoorayyyyy!!
+Dialogue: 0,0:10:18.76,0:10:20.44,Murakami,,0,0,0,,- Oh yeah!
+Dialogue: 0,0:10:28.90,0:10:31.15,Murakami,,0,0,0,,You're making fun of this, aren't you?
+Dialogue: 0,0:10:31.75,0:10:33.32,Matsumoto,,0,0,0,,I'm not, I swear
+Dialogue: 0,0:10:33.45,0:10:34.98,Matsumoto,,0,0,0,,Move away, geez
+Dialogue: 0,0:10:35.25,0:10:38.02,Murakami,,0,0,0,,I knew I had to do this in the end
+Dialogue: 0,0:10:38.88,0:10:41.09,Hamada,,0,0,0,,Show us how it's done\N{\rHosei}- I agree
+Dialogue: 0,0:10:41.24,0:10:43.00,Matsumoto,,0,0,0,,That thing wasn't there before...
+Dialogue: 0,0:10:43.46,0:10:45.43,Matsumoto,,0,0,0,,He got that thing for himself
+Dialogue: 0,0:10:45.52,0:10:46.83,Endo,,0,0,0,,Ah, you're right...
+Dialogue: 0,0:10:46.92,0:10:51.27,Murakami,,0,0,0,,Thanks to all of you guys,\N today we defeated our enemies!
+Dialogue: 0,0:10:52.38,0:10:54.27,Murakami,,0,0,0,,You surely gave your best!
+Dialogue: 0,0:10:55.02,0:10:58.07,Murakami,,0,0,0,,I'm so glad and happy I just can't---
+Dialogue: 0,0:10:58.16,0:11:00.04,Murakami,,0,0,0,,That's how happy I am!
+Dialogue: 0,0:11:11.15,0:11:18.80,Murakami,,0,0,0,,{\fs37}On August 28th, in the shopping district, a new pachinko parlor will open
+Dialogue: 0,0:11:34.68,0:11:37.71,Murakami,,0,0,0,,Boss, use this to make some fried rice
+Dialogue: 0,0:11:47.82,0:11:50.09,Murakami,,0,0,0,,What's wrong?
+Dialogue: 0,0:11:51.69,0:11:52.90,Murakami,,0,0,0,,Huh?
+Dialogue: 0,0:11:53.23,0:11:55.13,Murakami,,0,0,0,,Is everything ok?
+Dialogue: 0,0:11:55.43,0:11:56.51,Matsumoto,,0,0,0,,Well...
+Dialogue: 0,0:11:57.77,0:12:00.44,Matsumoto,,0,0,0,,We... we're fine\N{\rEndo}- Yes, we are
+Dialogue: 0,0:12:01.06,0:12:02.31,Tanaka,,0,0,0,,You're doing your best
+Dialogue: 0,0:12:02.31,0:12:03.27,Murakami,,0,0,0,,Are you sure you---
+Dialogue: 0,0:12:03.27,0:12:06.71,Matsumoto,,0,0,0,,{\pos(773.429,497.429)}I thought it was good
+Dialogue: 0,0:12:04.58,0:12:06.71,Murakami,,0,0,0,,Even if you say so,
+Dialogue: 0,0:12:06.71,0:12:09.38,Murakami,,0,0,0,,Are you sure you want to become Feudal Lords?
+Dialogue: 0,0:12:11.08,0:12:13.54,Matsumoto,,0,0,0,,I'd like to try, if possible
+Dialogue: 0,0:12:13.54,0:12:14.95,Murakami,,0,0,0,,I know, right?\N{\rMatsumoto}- Yes
+Dialogue: 0,0:12:15.94,0:12:18.42,Murakami,,0,0,0,,Alright, let's move on to our next train---
+Dialogue: 0,0:12:18.42,0:12:20.02,Murakami,,0,0,0,,{\pos(631.143,454.571)}Ouch
+Dialogue: 0,0:12:22.26,0:12:23.70,Murakami,,0,0,0,,Gimme a break
+Dialogue: 0,0:12:22.89,0:12:25.96,Default - Other,,0,0,0,,{\fad(150,0)\pos(297,504)\fs40\shad0\bord6}Coming up
+Dialogue: 1,0:12:22.89,0:12:25.96,Default - Other,,0,0,0,,{\fad(150,0)\pos(297,504)\fs40\shad0\bord3\c&H000000&\3c&HFFFFFF&}Coming up
+Dialogue: 0,0:12:22.89,0:12:25.96,Red,,0,0,0,,{\fad(150,0)\pos(752,566)\shad0\bord7\3c&H000000&}Shoji will give them all a prize!!
+Dialogue: 1,0:12:22.89,0:12:25.96,Red,,0,0,0,,{\fad(150,0)\pos(752,566)\shad0\bord3}Shoji will give them all a prize!!
+Dialogue: 0,0:12:26.96,0:12:32.80,Default - Other,,0,0,0,,{\fad(0,150)\pos(646.667,514.667)\bord2\shad0\fs30}Feudal Lord Classroom - Lesson 3
+Dialogue: 0,0:12:26.96,0:12:32.80,Yellow,,0,0,0,,{\fad(0,150)\shad0}A present from the Feudal Lord
+Dialogue: 0,0:12:27.04,0:12:32.80,Default,,0,0,0,,{\a6}Feudal Lord Shoji will give a prize to the\N5 men undergoing his harsh training
+Dialogue: 0,0:12:33.30,0:12:41.31,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&H000000&\an4\fs35\pos(242.667,528)\shad0\bord5}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 1,0:12:33.30,0:12:41.31,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\an4\fs35\pos(242.667,528)\shad0\bord3}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 0,0:12:33.14,0:12:35.10,Murakami,,0,0,0,,In the end we only move
+Dialogue: 0,0:12:35.30,0:12:36.82,Murakami,,0,0,0,,If we're given money
+Dialogue: 0,0:12:36.90,0:12:39.46,Murakami,,0,0,0,,Or material goods, am I right?
+Dialogue: 0,0:12:39.92,0:12:43.16,Murakami,,0,0,0,,I know that's everything people ever want
+Dialogue: 0,0:12:44.66,0:12:48.95,Murakami,,0,0,0,,I know that Tokugawa too\N had a buried treasure, if you try to look for it
+Dialogue: 0,0:12:48.95,0:12:50.05,Murakami,,0,0,0,,That's why
+Dialogue: 0,0:12:50.32,0:12:55.36,Murakami,,0,0,0,,Today I'll have you search for the buried treasure of Murakami
+Dialogue: 0,0:12:55.36,0:12:57.22,Murakami,,0,0,0,,Turn around for a sec\N{\rEndo} - Sure
+Dialogue: 0,0:12:57.22,0:13:00.03,Hamada,,0,0,0,,You're doing it now?\N{\rMurakami}- Don't look back!
+Dialogue: 0,0:13:00.80,0:13:02.60,Murakami,,0,0,0,,Count to 10!
+Dialogue: 0,0:13:02.90,0:13:04.47,Endo,,0,0,0,,Alright, here we go\N{\rMurakami} - Sure
+Dialogue: 0,0:13:04.58,0:13:09.01,Default,,0,0,0,,One, two, three, four...
+Dialogue: 0,0:13:09.01,0:13:12.88,Default,,0,0,0,,Five, six, seven, eight...
+Dialogue: 0,0:13:13.14,0:13:15.91,Default,,0,0,0,,Nine, ten!\N{\rMurakami}- Good! You're done
+Dialogue: 0,0:13:18.46,0:13:19.96,Murakami,,0,0,0,,Now...
+Dialogue: 0,0:13:20.58,0:13:22.19,Murakami,,0,0,0,,Where's the treasure?
+Dialogue: 0,0:13:22.58,0:13:25.39,Hosei,,0,0,0,,Can we take as much as we want?\N{\rMurakami}- Sure you can
+Dialogue: 0,0:13:25.39,0:13:27.81,Endo,,0,0,0,,Oh, here's another!\N{\rMatsumoto}- I got it
+Dialogue: 0,0:13:28.06,0:13:31.46,Matsumoto,,0,0,0,,Here's two\N{\rTanaka}- There's a bunch over here
+Dialogue: 0,0:13:31.46,0:13:33.00,Murakami,,0,0,0,,Hey, hey
+Dialogue: 0,0:13:34.06,0:13:37.97,Murakami,,0,0,0,,What do you think your countdown was for?
+Dialogue: 0,0:13:38.38,0:13:40.14,Endo,,0,0,0,,Now that I think about it...
+Dialogue: 0,0:13:40.76,0:13:44.16,Murakami,,0,0,0,,I toss them and you go like \N"can we take as much as we want?"
+Dialogue: 0,0:13:44.31,0:13:47.98,Murakami,,0,0,0,,This isn't the right answer!!
+Dialogue: 0,0:13:49.55,0:13:55.15,Murakami,,0,0,0,,It's like eating a pizza soaked in water, who would eat it like that?!
+Dialogue: 0,0:13:55.15,0:13:58.22,Murakami,,0,0,0,,Well, whatever
+Dialogue: 0,0:13:56.30,0:13:58.22,Hamada,,0,0,0,,{\pos(636,584)}Eh?\N{\rEndo}- Whatever?
+Dialogue: 0,0:13:58.32,0:13:59.56,Murakami,,0,0,0,,Whatever
+Dialogue: 0,0:14:00.82,0:14:02.36,Murakami,,0,0,0,,Alright, Matsumoto\N{\rMatsumoto}- Yes
+Dialogue: 0,0:14:03.72,0:14:06.66,Matsumoto,,0,0,0,,I got number 2\N{\rMurakami}- Oh! Wait a sec...
+Dialogue: 0,0:14:06.92,0:14:09.30,Murakami,,0,0,0,,You did it!\N{\rMatsumoto}- Huh? What?
+Dialogue: 0,0:14:10.17,0:14:11.57,Murakami,,0,0,0,,You did it!
+Dialogue: 0,0:14:12.67,0:14:13.80,Murakami,,0,0,0,,Here
+Dialogue: 0,0:14:14.44,0:14:16.41,Matsumoto,,0,0,0,,Terracotta figures?
+Dialogue: 0,0:14:15.71,0:14:18.29,Murakami,,0,0,0,,{\pos(636,584)}But these aren't your regular figures\N{\rMatsumoto}- Really?
+Dialogue: 0,0:14:18.44,0:14:19.61,Murakami,,0,0,0,,Yep\N {\rMatsumoto}- What are they?
+Dialogue: 0,0:14:19.61,0:14:29.82,Murakami,,0,0,0,,{\fs38}President Osaki (from Yoshimoto) gav--- gave this to me 13 years ago
+Dialogue: 0,0:14:30.04,0:14:32.15,Murakami,,0,0,0,,He told me they'd bring me luck
+Dialogue: 0,0:14:33.49,0:14:36.83,Murakami,,0,0,0,,After 1-2 years since I received them
+Dialogue: 0,0:14:36.83,0:14:41.13,Murakami,,0,0,0,,My job offers crumbled down faster than usual
+Dialogue: 0,0:14:41.76,0:14:43.25,Murakami,,0,0,0,,Now they're yours
+Dialogue: 0,0:14:43.83,0:14:46.54,Matsumoto,,0,0,0,,I don't think I...\N{\rMurakami}- Whatever, let's move on
+Dialogue: 0,0:14:46.67,0:14:48.22,Hosei,,0,0,0,,I've got number five\N{\rMurakami}- Number five!
+Dialogue: 0,0:14:48.22,0:14:50.84,Murakami,,0,0,0,,You picked a good one!\N{\rHosei} - Thank you
+Dialogue: 0,0:14:51.54,0:14:52.98,Murakami,,0,0,0,,Here, Yama-chan...
+Dialogue: 0,0:14:54.48,0:14:57.45,Hamada,,0,0,0,,{\pos(890,502)}So nostalgic!
+Dialogue: 0,0:14:55.68,0:14:57.96,Murakami,,0,0,0,,Nostalgic, isn't it?
+Dialogue: 0,0:14:58.30,0:15:00.10,Matsumoto,,0,0,0,,It was something, back in the days
+Dialogue: 0,0:14:59.20,0:15:01.14,Hamada,,0,0,0,,- This used to be so popular
+Dialogue: 0,0:15:00.10,0:15:03.02,Murakami,,0,0,0,,High-heel Momoko used to wear this a lot
+Dialogue: 0,0:15:01.42,0:15:07.46,Default - Other,,0,0,0,,{\fs30\bord2\pos(184,644)\c&HAC53D9&\3c&HFFFFFF&\fs22}High-heel Momoko
+Dialogue: 0,0:15:03.02,0:15:07.46,Murakami,,0,0,0,,{\fs37}She said "bro! When you won't wear that thing anymore, give it to me!"
+Dialogue: 0,0:15:07.46,0:15:10.49,Endo,,0,0,0,,Is that how it went?\N{\rMurakami} - I swear, she always said that
+Dialogue: 0,0:15:10.59,0:15:11.79,Murakami,,0,0,0,,Also, this one...
+Dialogue: 0,0:15:13.30,0:15:17.43,Murakami,,0,0,0,,I got this from president Kanai, from the steel mill{Chairman and Representative Director Ryohin Keikaku Co., Ltd. ????}
+Dialogue: 0,0:15:18.48,0:15:21.01,Murakami,,0,0,0,,This is real, check it out\N{\rHamada}- What's with that pair?
+Dialogue: 0,0:15:21.54,0:15:24.64,Hosei,,0,0,0,,It's a Versace!
+Dialogue: 0,0:15:22.14,0:15:24.64,Murakami,,0,0,0,,{\pos(642,584)}That's right!\N{\rMatsumoto}- This isn't cheap stuff
+Dialogue: 0,0:15:24.84,0:15:28.41,Murakami,,0,0,0,,He told me "wear this when you'll visit Korea"
+Dialogue: 0,0:15:29.06,0:15:31.85,Endo,,0,0,0,,It doesn't feel like a real conversation
+Dialogue: 0,0:15:31.85,0:15:33.94,Matsumoto,,0,0,0,,You can wear them together?\N{\rMurakami} - That's correct
+Dialogue: 0,0:15:33.94,0:15:36.05,Tanaka,,0,0,0,,That's really nice \N{\rMurakami}- Congratulations!
+Dialogue: 0,0:15:36.48,0:15:38.65,Murakami,,0,0,0,,Your turn, Hama-chan\N{\rHamada} - I got number 10
+Dialogue: 0,0:15:41.02,0:15:42.00,Murakami,,0,0,0,,Here
+Dialogue: 0,0:15:42.24,0:15:43.48,Murakami,,0,0,0,,Hama-chan...\N{\rHamada}- Yes?
+Dialogue: 0,0:15:43.48,0:15:46.60,Murakami,,0,0,0,,Watch this and learn again what comedy is\N{\rHamada} - What's that?
+Dialogue: 0,0:15:46.60,0:15:48.06,Murakami,,0,0,0,,It's my DVD
+Dialogue: 0,0:15:48.16,0:15:50.60,Murakami,,0,0,0,,Its title is "I did my best"
+Dialogue: 0,0:15:50.92,0:15:55.07,Murakami,,0,0,0,,I was forced to personally sell 1200 copies of this
+Dialogue: 0,0:15:52.48,0:15:53.40,Hamada,,0,0,0,,{\pos(642,586)}Oh my
+Dialogue: 0,0:15:55.07,0:15:58.94,Murakami,,0,0,0,,I almost went bankrupt
+Dialogue: 0,0:15:57.22,0:15:58.94,Endo,,0,0,0,,{\pos(642,586)}"Personally"?
+Dialogue: 0,0:15:59.81,0:16:05.82,Default - Other,,0,0,0,,{\fad(0,150)\pos(646.667,514.667)\bord2\shad0\fs30}Feudal Lord Classroom - Lesson 4
+Dialogue: 0,0:15:59.81,0:16:05.82,Yellow,,0,0,0,,{\fad(0,150)\shad0}Love techniques
+Dialogue: 0,0:15:59.72,0:16:05.42,Default,,0,0,0,,{\a6}Next up, they'll learn the right\N love techniques to conquer every girl
+Dialogue: 0,0:16:06.28,0:16:15.98,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&H000000&\an4\fs35\pos(242.667,528)\shad0\bord5}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 1,0:16:06.28,0:16:15.98,Default - Other,,0,0,0,,{\fade(250,250)\c&H000000&\3c&HFFFFFF&\an4\fs35\pos(242.667,528)\shad0\bord3}Don't expect much from today's episode\N Nothing relevant is going to happen.
+Dialogue: 0,0:16:06.05,0:16:07.45,Murakami,,0,0,0,,It's crucial for a Feudal Lord
+Dialogue: 0,0:16:07.45,0:16:12.72,Murakami,,0,0,0,,To have lots of children so you have more heirs
+Dialogue: 0,0:16:11.74,0:16:12.72,Hamada,,0,0,0,,{\a6\pos(626.286,440)}I see...
+Dialogue: 0,0:16:12.88,0:16:14.70,Murakami,,0,0,0,,That's really important{\rHamada}   - That's right
+Dialogue: 0,0:16:14.70,0:16:16.94,Murakami,,0,0,0,,You need to know some techniques
+Dialogue: 0,0:16:17.56,0:16:23.37,Murakami,,0,0,0,,Alright, I'll pretend to be a woman
+Dialogue: 0,0:16:22.28,0:16:23.37,Murakami,,0,0,0,,{\pos(636,582)}Tanaka!\N{\rTanaka} - Yes?
+Dialogue: 0,0:16:23.66,0:16:26.00,Murakami,,0,0,0,,Come right here\N{\rTanaka} - Sure
+Dialogue: 0,0:16:26.30,0:16:30.67,Murakami,,0,0,0,,Come here and try to casually touch my nipples
+Dialogue: 0,0:16:29.57,0:16:32.17,Murakami,,0,0,0,,{\pos(648,580)}Like, nonchalantly. I'm a woman, you know!
+Dialogue: 0,0:16:32.17,0:16:35.21,Hosei,,0,0,0,,Does he really have to?\N{\rTanaka}- I guess so
+Dialogue: 0,0:16:46.50,0:16:48.04,Matsumoto,,0,0,0,,What is he singing?
+Dialogue: 0,0:16:48.49,0:16:50.26,Murakami,,0,0,0,,You suck!
+Dialogue: 0,0:16:50.26,0:16:52.46,Matsumoto,,0,0,0,,{\pos(279.714,440.571)}What's that song?
+Dialogue: 0,0:16:51.62,0:16:52.96,Murakami,,0,0,0,,You really suck!
+Dialogue: 0,0:16:52.46,0:16:55.26,Endo,,0,0,0,,{\pos(889,546)}Sounded like a folk dance...
+Dialogue: 0,0:16:53.38,0:16:55.26,Hamada,,0,0,0,,Yeah, kind of
+Dialogue: 0,0:16:55.26,0:16:58.52,Murakami,,0,0,0,,You gotta go for it, quick and determined!\N{\rTanaka}- I see, quicker
+Dialogue: 0,0:16:58.77,0:17:00.84,Tanaka,,0,0,0,,Determined?\N{\rMurakami}- You're not good at all
+Dialogue: 0,0:17:01.14,0:17:02.88,Murakami,,0,0,0,,Matsumoto, you try\N{\rMatsumoto}- Sure
+Dialogue: 0,0:17:02.88,0:17:04.14,Matsumoto,,0,0,0,,Alright\N{\rTanaka} - Please
+Dialogue: 0,0:17:14.62,0:17:15.96,Endo,,0,0,0,,He's not going for it
+Dialogue: 0,0:17:15.54,0:17:17.30,Tanaka,,0,0,0,,Kind of...
+Dialogue: 0,0:17:15.96,0:17:19.20,Hosei,,0,0,0,,He's attacking from the outside
+Dialogue: 0,0:17:17.30,0:17:19.20,Endo,,0,0,0,,Maybe that's where he's starting
+Dialogue: 0,0:17:24.04,0:17:25.46,Murakami,,0,0,0,,That hurts!
+Dialogue: 0,0:17:26.60,0:17:28.52,Matsumoto,,0,0,0,,Wasn't that good enough?
+Dialogue: 0,0:17:27.92,0:17:29.40,Murakami,,0,0,0,,It hurts!
+Dialogue: 0,0:17:28.82,0:17:30.02,Matsumoto,,0,0,0,,I'm sorry
+Dialogue: 0,0:17:30.02,0:17:31.87,Murakami,,0,0,0,,Sit down\N{\rMatsumoto}- Yes
+Dialogue: 0,0:17:31.98,0:17:33.90,Murakami,,0,0,0,,Listen, you gotta do it nonchalantly
+Dialogue: 0,0:17:34.10,0:17:36.58,Murakami,,0,0,0,,Pretend you're walking past behind her...
+Dialogue: 0,0:17:36.06,0:17:36.98,Tanaka,,0,0,0,,And then?
+Dialogue: 0,0:17:36.58,0:17:38.64,Murakami,,0,0,0,,So, you're walking behind her...
+Dialogue: 0,0:17:41.21,0:17:42.76,Hamada,,0,0,0,,The fuck are you doing?!
+Dialogue: 0,0:17:42.98,0:17:44.61,Endo,,0,0,0,,H-Hey, stop it
+Dialogue: 0,0:17:43.96,0:17:47.38,Matsumoto,,0,0,0,,What the hell are you doing?\N This has nothing to do with it!
+Dialogue: 0,0:17:45.20,0:17:47.38,Hamada,,0,0,0,,- That's weird!  {\rTanaka}  - Hey, Lord!
+Dialogue: 0,0:17:47.38,0:17:49.98,Matsumoto,,0,0,0,,This has nothing to do with my nipples!
+Dialogue: 0,0:17:47.98,0:17:49.98,Tanaka,,0,0,0,,What are you doing?
+Dialogue: 0,0:17:50.34,0:17:54.32,Matsumoto,,0,0,0,,Can you just go and aim down there?!
+Dialogue: 0,0:17:51.69,0:17:54.32,Murakami,,0,0,0,,{\fs60\pos(509.714,492.571)\frz357.7}Why not?!
+Dialogue: 0,0:17:55.44,0:17:57.56,Murakami,,0,0,0,,Of course you can!
+Dialogue: 0,0:17:56.34,0:17:57.56,Matsumoto,,0,0,0,,Ah, I see...
+Dialogue: 0,0:17:57.56,0:18:02.70,Murakami,,0,0,0,,When a lady gets... you know, in that mood...
+Dialogue: 0,0:18:02.70,0:18:03.87,Murakami,,0,0,0,,That's how it ends!
+Dialogue: 0,0:18:03.97,0:18:05.00,Murakami,,0,0,0,,And then
+Dialogue: 0,0:18:05.20,0:18:07.22,Murakami,,0,0,0,,You're ready to take her to the bedroom
+Dialogue: 0,0:18:07.22,0:18:08.58,Hamada,,0,0,0,,I see
+Dialogue: 0,0:18:09.68,0:18:10.60,Murakami,,0,0,0,,You know?
+Dialogue: 0,0:18:10.82,0:18:13.03,Murakami,,0,0,0,,You take her to the bedroom...
+Dialogue: 0,0:18:12.00,0:18:13.03,Endo,,0,0,0,,Yes...
+Dialogue: 0,0:18:13.35,0:18:14.62,Matsumoto,,0,0,0,,What's that?
+Dialogue: 0,0:18:20.68,0:18:25.02,Hosei,,0,0,0,,It's her kimono sash
+Dialogue: 0,0:18:22.18,0:18:25.02,Tanaka,,0,0,0,,Ah, I see
+Dialogue: 0,0:18:23.38,0:18:25.02,Endo,,0,0,0,,Makes sense
+Dialogue: 0,0:18:25.28,0:18:26.74,Murakami,,0,0,0,,I'm going to...
+Dialogue: 0,0:18:27.46,0:18:30.63,Murakami,,0,0,0,,I'm going to strip it all away from ya!
+Dialogue: 0,0:18:33.46,0:18:37.53,Murakami,,0,0,0,,I can see all your embarrassing parts!
+Dialogue: 0,0:18:43.14,0:18:45.64,Hamada,,0,0,0,,{\pos(868,484)}Wanna go home?
+Dialogue: 0,0:18:44.00,0:18:46.19,Endo,,0,0,0,,Should we go?\N{\rTanaka}- Yeah...
+Dialogue: 0,0:18:46.40,0:18:48.05,Hosei,,0,0,0,,Oh, he used it all
+Dialogue: 0,0:18:49.84,0:18:51.30,Murakami,,0,0,0,,Excuse me!
+Dialogue: 0,0:18:51.54,0:18:53.23,Murakami,,0,0,0,,Can I have another one?
+Dialogue: 0,0:18:53.35,0:18:56.35,Hamada,,0,0,0,,Let's go home
+Dialogue: 0,0:18:53.84,0:18:54.64,Endo,,0,0,0,,{\pos(636,586)}Yep
+Dialogue: 0,0:18:54.64,0:18:56.35,Murakami,,0,0,0,,{\pos(636,586)}W-Wait...
+Dialogue: 0,0:18:57.76,0:18:59.18,Murakami,,0,0,0,,Oh, God!
+Dialogue: 0,0:18:59.18,0:19:00.68,Murakami,,0,0,0,,I call upon thee!
+Dialogue: 0,0:19:00.42,0:19:01.92,DON,,0,0,0,,{\pos(188,589)\frz9.358}Bang!
+Dialogue: 0,0:19:01.96,0:19:03.33,DON,,0,0,0,,{\frz354.6\pos(180,537)}Bang!
+Dialogue: 0,0:19:03.36,0:19:04.69,DON,,0,0,0,,{\frz7.169\pos(184,423.666)}Bang!
+Dialogue: 0,0:19:04.73,0:19:05.59,DON,,0,0,0,,{\frz354.6\pos(150.667,509)}Bang!
+Dialogue: 0,0:19:05.83,0:19:09.40,Hamada,,0,0,0,,Don't you hear something?
+Dialogue: 0,0:19:06.68,0:19:08.24,Tanaka,,0,0,0,,{\pos(636,586)}I definitely heard something
+Dialogue: 0,0:19:08.24,0:19:09.36,Hamada,,0,0,0,,{\pos(636,586)}What's that?
+Dialogue: 0,0:19:12.40,0:19:14.90,Endo,,0,0,0,,Is this still going on?
+Dialogue: 0,0:19:13.54,0:19:14.90,Hamada,,0,0,0,,What's that?
+Dialogue: 0,0:19:15.10,0:19:16.37,Murakami,,0,0,0,,What?
+Dialogue: 0,0:19:17.71,0:19:19.54,Murakami,,0,0,0,,What's that?
+Dialogue: 0,0:19:18.50,0:19:19.54,Matsumoto,,0,0,0,,{\pos(636,586)}What's going on?
+Dialogue: 0,0:19:19.54,0:19:20.91,Hosei,,0,0,0,,Wait, what's that?
+Dialogue: 0,0:19:20.91,0:19:22.57,Endo,,0,0,0,,Is it part of this bit?
+Dialogue: 0,0:19:22.57,0:19:23.86,Matsumoto,,0,0,0,,Whaaaat?!
+Dialogue: 0,0:19:23.86,0:19:25.30,Hamada,,0,0,0,,What's this?!
+Dialogue: 0,0:19:25.30,0:19:26.86,Endo,,0,0,0,,It's a Feudal Lord...
+Dialogue: 0,0:19:27.55,0:19:29.42,Hamada,,0,0,0,,Eh? Is that a Feudal Lord too?
+Dialogue: 0,0:19:36.69,0:19:39.80,Default - Other,,0,0,0,,{\fad(300,0)\pos(638.667,586.667)\4c&H4BFDF9&\fs40\bord9\shad0\3c&H29E8FF&}Nishioka Tokuma
+Dialogue: 1,0:19:36.69,0:19:39.80,Default - Other,,0,0,0,,{\fad(300,0)\pos(638.667,586.667)\4c&H4BFDF9&\fs40\shad0\bord5}Nishioka Tokuma
+Dialogue: 0,0:19:37.28,0:19:39.62,Tokuma,,0,0,0,,What are you doing here?
+Dialogue: 0,0:19:39.80,0:19:43.67,Default - Other,,0,0,0,,{\shad0\fnCourier New\pos(976,118)\bord6\3c&H000000&}Nishioka Tokuma's \NFeudal Lord Classroom
+Dialogue: 1,0:19:39.80,0:19:43.67,Default - Other,,0,0,0,,{\shad0\fnCourier New\pos(976,118)\c&H000000&\3c&HFFFFFF&\bord3}Nishioka Tokuma's \NFeudal Lord Classroom
+Dialogue: 0,0:19:40.10,0:19:41.80,Endo,,0,0,0,,"Classroom"?
+Dialogue: 0,0:19:42.77,0:19:43.67,Tokuma,,0,0,0,,What do you think?
+Dialogue: 0,0:19:43.67,0:19:47.80,Tokuma,,0,0,0,,Why don't you come to my class instead?
+Dialogue: 0,0:19:46.27,0:19:47.80,Matsumoto,,0,0,0,,{\pos(640.286,585.714)}Oh, definitely!
+Dialogue: 0,0:19:48.54,0:19:49.74,Tokuma,,0,0,0,,By the way
+Dialogue: 0,0:19:49.74,0:19:53.34,Tokuma,,0,0,0,,Your teacher hasn't any approval to do so, right?
+Dialogue: 0,0:19:51.54,0:19:53.06,Hamada,,0,0,0,,{\pos(633.429,589.143)}Have you?  {\rEndo}  - Really?
+Dialogue: 0,0:19:53.34,0:20:00.25,Tokuma,,0,0,0,,My Classroom has been approved by the shogunate!
+Dialogue: 0,0:19:57.74,0:20:00.06,Hamada,,0,0,0,,{\pos(638,592.571)}Let's go to his Classroom, then!
+Dialogue: 0,0:19:58.08,0:20:00.06,Endo,,0,0,0,,{\pos(636.857,544.429)}- That sounds way better!
+Dialogue: 0,0:20:00.25,0:20:02.24,Tokuma,,0,0,0,,What do you think? Wanna join me?
+Dialogue: 0,0:20:01.54,0:20:03.55,Matsumoto,,0,0,0,,- I think it's good, let's go!
+Dialogue: 0,0:20:03.62,0:20:05.24,Tokuma,,0,0,0,,Alright then, follow my lead
+Dialogue: 0,0:20:04.82,0:20:06.59,Hamada,,0,0,0,,- Yes! Alright, let's go
+Dialogue: 0,0:20:05.24,0:20:06.24,Tokuma,,0,0,0,,- Good
+Dialogue: 0,0:20:06.24,0:20:08.54,Matsumoto,,0,0,0,,- Thanks, you saved us!
+Dialogue: 0,0:20:06.84,0:20:08.18,Tanaka,,0,0,0,,- Thank you so much!
+Dialogue: 0,0:20:08.18,0:20:10.50,Tokuma,,0,0,0,,Come on, follow me
+Dialogue: 0,0:20:08.54,0:20:10.50,Endo,,0,0,0,,- So he's not a Feudal Lord...
+Dialogue: 0,0:20:10.76,0:20:13.26,Hamada,,0,0,0,,Tokuma's got everything arranged
+Dialogue: 0,0:20:12.72,0:20:14.16,Matsumoto,,0,0,0,,- Yeah
+Dialogue: 0,0:20:13.26,0:20:15.46,Endo,,0,0,0,,True, such a lifesaver!
+Dialogue: 0,0:20:16.47,0:20:19.50,Tokuma,,0,0,0,,You got involved in his schemes, didn't you?
+Dialogue: 0,0:20:19.84,0:20:23.71,Murakami,,0,0,0,,I'm a Feudal Lord, and I'm {\i1}feud up{\i0} with all of this!{I adapted this pun on the preview from Michael Jackson's Classroom}
+Dialogue: 0,0:20:24.04,0:20:27.61,Murakami,,0,0,0,,You got me? I'm a Feudal Lord!
+Dialogue: 0,0:20:28.14,0:20:32.15,Murakami,,0,0,0,,What are you? A Feudal Frog?
+Dialogue: 0,0:20:30.56,0:20:32.15,Endo,,0,0,0,,{\pos(635.714,586.857)}I can hear him spitting puns
+Dialogue: 0,0:20:32.36,0:20:34.00,Hamada,,0,0,0,,The hell is he talking about?
+Dialogue: 0,0:20:34.82,0:20:41.39,Default - Other,,0,0,0,,{\fad(250,260)\3c&H40FDFF&\c&H000000&\shad0\fnImpact\bord3\b0\fs30\pos(1086,45)}After the recording
+Dialogue: 0,0:20:34.92,0:20:36.45,Murakami,,0,0,0,,That really surprised me!
+Dialogue: 0,0:20:36.45,0:20:38.28,Murakami,,0,0,0,,I'm like--- what?!
+Dialogue: 0,0:20:38.52,0:20:39.94,Endo,,0,0,0,,Thanks for today!
+Dialogue: 0,0:20:42.19,0:20:43.77,Murakami,,0,0,0,,I'm shocked!\N{\rMatsumoto}- I bet you are
+Dialogue: 0,0:20:43.77,0:20:48.66,Murakami,,0,0,0,,I thought I was going to be arrested again or something!
+Dialogue: 0,0:20:44.93,0:20:52.20,Default - Other,,0,0,0,,{\pos(316,618)\4c&H000000&\fs30\shad0\bord6}Ninja Classroom Prank
+Dialogue: 1,0:20:44.93,0:20:52.20,Default - Other,,0,0,0,,{\pos(316,618)\4c&H000000&\fs30\shad0\3c&HFFFFFF&\2c&HEE2BBF&\c&HBA1B94&}Ninja Classroom Prank
+Dialogue: 0,0:20:48.66,0:20:50.40,Murakami,,0,0,0,,I was really scared!
+Dialogue: 0,0:20:50.88,0:20:52.65,Hosei,,0,0,0,,You had no idea, right?
+Dialogue: 0,0:20:51.60,0:20:54.78,Tanaka,,0,0,0,,- I get you, you had no clue
+Dialogue: 0,0:20:53.12,0:20:54.78,Murakami,,0,0,0,,That was frightening!
+Dialogue: 0,0:20:55.37,0:21:01.94,Default - Other,,0,0,0,,{\fad(150,0)\pos(207,504)\fs40\shad0\bord6}Coming up
+Dialogue: 1,0:20:55.37,0:21:01.94,Default - Other,,0,0,0,,{\fad(150,0)\pos(207,504)\fs40\shad0\bord3\c&H000000&\3c&HFFFFFF&}Coming up
+Dialogue: 0,0:20:55.37,0:21:01.94,Red,,0,0,0,,{\fad(150,0)\shad0\bord7\3c&H000000&\pos(618,718)}Unseen talk footage from the Music Memory Drive!
+Dialogue: 1,0:20:55.37,0:21:01.94,Red,,0,0,0,,{\fad(150,0)\pos(618,718)\shad0\bord3}Unseen talk footage from the Music Memory Drive!
+Dialogue: 0,0:20:55.70,0:20:59.78,Default,,0,0,0,,{\an8\pos(644,40)}Coming up, some unseen talk footage\N from the Music Memory Drive episode!
+Dialogue: 0,0:21:02.58,0:21:09.29,Hamada,,0,0,0,,{\fs35}This is a song we released in a CD back then when we started Downtown
+Dialogue: 0,0:21:09.92,0:21:18.69,Default - Other,,0,0,0,,{\fad(150,230)\pos(648,476)\c&H003CBB&\3c&H6AF4FF&\fs33\t(\fs38)}Footage from last week's episode, "Music Memory Drive"
+Dialogue: 0,0:21:09.92,0:21:18.69,Default - Other,,0,0,0,,{\fad(150,230)\c&H28EAFF&\pos(653,558)\3c&H73064A&\t(\fs57)}Unaired talk segment{\r\3c&HCAB33C&} big reveal!
+Dialogue: 0,0:21:09.92,0:21:13.12,Default,,0,0,0,,It's time to reveal an unaired talk segment
+Dialogue: 0,0:21:13.20,0:21:18.92,Default,,0,0,0,,From last week's episode, "Music Memory Drive"!
+Dialogue: 0,0:21:19.60,0:21:21.39,Matsumoto,,0,0,0,,Alright, my turn\N{\rHosei}- Sure
+Dialogue: 0,0:21:21.68,0:21:23.74,Matsumoto,,0,0,0,,Is it ever gonna stop raining?
+Dialogue: 0,0:21:23.14,0:21:24.30,Tanaka,,0,0,0,,- I don't think so
+Dialogue: 0,0:21:23.74,0:21:26.00,Matsumoto,,0,0,0,,That's why I'm picking a rainy-weather song
+Dialogue: 0,0:21:26.00,0:21:27.80,Endo,,0,0,0,,Oh, please do
+Dialogue: 0,0:21:26.78,0:21:27.80,Tanaka,,0,0,0,,Nice!
+Dialogue: 0,0:21:27.94,0:21:29.91,Matsumoto,,0,0,0,,This is from when I joined Yoshimoto
+Dialogue: 0,0:21:29.91,0:21:32.01,Matsumoto,,0,0,0,,And I had no job offers whatsoever
+Dialogue: 0,0:21:32.01,0:21:33.46,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:21:37.94,0:21:38.85,Hamada,,0,0,0,,I see...
+Dialogue: 0,0:21:38.86,0:21:40.16,Endo,,0,0,0,,{\an8}I see!
+Dialogue: 0,0:21:39.15,0:21:48.12,Yellow,,0,0,0,,{\fad(315,0)\fs30\bord4\shad0\i1\fs22\an4\pos(292,532)}♪ Hisame (cold rain) - Mika Hino
+Dialogue: 0,0:21:39.15,0:21:48.12,Default - Other,,0,0,0,,{\fad(315,0\fs30\pos(428,402))\3c&HFFFFFF&\c&H000000&\shad0\fs23\bord2.4\pos(428,644)}Released: december 1982
+Dialogue: 0,0:21:39.15,0:21:48.12,Default - Other,,0,0,0,,{\fad(315,0\fs30\pos(518,650))\bord3\shad0\fs20\pos(386,684)}(Matsumoto was 19)
+Dialogue: 0,0:21:39.34,0:21:40.84,Tanaka,,0,0,0,,{\an8}- I know this one
+Dialogue: 0,0:21:40.16,0:21:41.72,Hosei,,0,0,0,,{\an8}Ah, this song?
+Dialogue: 0,0:21:41.12,0:21:42.94,Tanaka,,0,0,0,,{\an8}- I see...
+Dialogue: 0,0:21:42.16,0:21:44.35,Endo,,0,0,0,,{\an8}Everyone knows this song
+Dialogue: 0,0:21:43.08,0:21:46.24,Hosei,,0,0,0,,{\an8}- This was really popular back then
+Dialogue: 0,0:21:45.62,0:21:47.92,Matsumoto,,0,0,0,,{\an8}Yeah, it was really famous
+Dialogue: 0,0:21:46.88,0:21:47.92,Hosei,,0,0,0,,{\an8}- Yeah...
+Dialogue: 0,0:21:48.12,0:21:49.30,Tanaka,,0,0,0,,Really...
+Dialogue: 0,0:21:49.30,0:21:50.73,Matsumoto,,0,0,0,,This song...
+Dialogue: 0,0:21:50.73,0:21:55.83,Matsumoto,,0,0,0,,Back then, me and Hamada worked part-time at "Petit"
+Dialogue: 0,0:21:54.66,0:21:55.83,Endo,,0,0,0,,{\pos(484,520)}"Petit"?
+Dialogue: 0,0:21:55.83,0:21:59.54,Matsumoto,,0,0,0,,A snack shop, Tommy helped us making our way in it
+Dialogue: 0,0:21:59.97,0:22:01.60,Matsumoto,,0,0,0,,You know, as a big guy from Yoshimoto
+Dialogue: 0,0:22:01.00,0:22:02.46,Tanaka,,0,0,0,,- I see
+Dialogue: 0,0:22:01.60,0:22:04.37,Matsumoto,,0,0,0,,And so, we had this part-time job at Petit
+Dialogue: 0,0:22:03.42,0:22:09.27,Song,,0,0,0,,♪ Let me stay here and drink some more...
+Dialogue: 0,0:22:05.11,0:22:06.64,Matsumoto,,0,0,0,,So, this song was really popular
+Dialogue: 0,0:22:06.64,0:22:09.64,Matsumoto,,0,0,0,,And there were no karaoke boxes at the time...
+Dialogue: 0,0:22:08.82,0:22:09.64,Tanaka,,0,0,0,,- Yeah...
+Dialogue: 0,0:22:09.27,0:22:15.32,Song,,0,0,0,,♪ I don't want to go home, not tonight...
+Dialogue: 0,0:22:10.02,0:22:13.85,Matsumoto,,0,0,0,,And I clearly remember this song, \N all the old dudes were singing this
+Dialogue: 0,0:22:13.85,0:22:16.27,Tanaka,,0,0,0,,Right, everyone used to sing it
+Dialogue: 0,0:22:15.32,0:22:20.42,Song,,0,0,0,,♪ You know who's waiting me inside that room?
+Dialogue: 0,0:22:16.92,0:22:19.44,Endo,,0,0,0,,But it's such a good song
+Dialogue: 0,0:22:18.02,0:22:19.44,Tanaka,,0,0,0,,- Yep
+Dialogue: 0,0:22:20.12,0:22:22.12,Matsumoto,,0,0,0,,So, you know...
+Dialogue: 0,0:22:20.42,0:22:26.04,Song,,0,0,0,,♪ That's right, there's no one in there...
+Dialogue: 0,0:22:22.76,0:22:28.40,Matsumoto,,0,0,0,,{\pos(673.143,526.857)}Me and Hamada used to go back home from Nanba to Amagasaki by foot...
+Dialogue: 0,0:22:26.80,0:22:30.47,Hosei,,0,0,0,,Whoa, that's long!   {\rEndo}- That's a lot!
+Dialogue: 0,0:22:27.46,0:22:33.10,Song,,0,0,0,,♪ Please, don't sing me that song...
+Dialogue: 0,0:22:28.40,0:22:30.47,Matsumoto,,0,0,0,,That's what we did after our part-time job
+Dialogue: 0,0:22:30.47,0:22:33.34,Matsumoto,,0,0,0,,I actually got a taxi fare from my mom
+Dialogue: 0,0:22:33.10,0:22:39.04,Song,,0,0,0,,♪ Because it reminds me of that person I've lost...
+Dialogue: 0,0:22:33.34,0:22:37.24,Matsumoto,,0,0,0,,But I didn't want to use it, so I told him "let's walk our way home"
+Dialogue: 0,0:22:37.24,0:22:39.11,Matsumoto,,0,0,0,,How much is it from Nanba to Amagasaki?
+Dialogue: 0,0:22:39.04,0:22:44.38,Song,,0,0,0,,♪ The more I drink, the more I want to cry...
+Dialogue: 0,0:22:39.11,0:22:43.10,Hosei,,0,0,0,,It's pretty long, I'd say 10 kilometers...
+Dialogue: 0,0:22:39.34,0:22:41.02,Endo,,0,0,0,,- It takes a lot
+Dialogue: 0,0:22:42.62,0:22:43.90,Endo,,0,0,0,,- I think even more...
+Dialogue: 0,0:22:43.10,0:22:44.94,Matsumoto,,0,0,0,,More than that, right?
+Dialogue: 0,0:22:43.90,0:22:45.74,Hosei,,0,0,0,,- Maybe yes
+Dialogue: 0,0:22:44.38,0:22:50.09,Song,,0,0,0,,♪ Please forgive me for who I am...
+Dialogue: 0,0:22:44.94,0:22:48.64,Endo,,0,0,0,,I'd say around 20 kilometers
+Dialogue: 0,0:22:46.28,0:22:48.64,Matsumoto,,0,0,0,,- Around 20, right?
+Dialogue: 0,0:22:50.09,0:22:56.23,Song,,0,0,0,,♪ The winter rain outside still pours down...
+Dialogue: 0,0:22:49.96,0:22:52.00,Matsumoto,,0,0,0,,So, it was pretty cold outside...
+Dialogue: 0,0:22:52.24,0:22:53.88,Matsumoto,,0,0,0,,And we were walking...
+Dialogue: 0,0:22:56.23,0:23:02.13,Song,,0,0,0,,♪ It feels like it's leaking from my heart...
+Dialogue: 0,0:22:57.22,0:23:00.03,Matsumoto,,0,0,0,,And this song was really popular, at that time
+Dialogue: 0,0:23:00.03,0:23:03.73,Hosei,,0,0,0,,{\pos(704,610.285)}You two didn't drink alcohol, right?
+Dialogue: 0,0:23:02.13,0:23:08.16,Song,,0,0,0,,♪ I have an umbrella, that's not the issue...
+Dialogue: 0,0:23:03.43,0:23:05.13,Hamada,,0,0,0,,We didn't, actually
+Dialogue: 0,0:23:05.13,0:23:10.17,Hamada,,0,0,0,,But sometimes they made us drink a bit during our part-time
+Dialogue: 0,0:23:07.52,0:23:10.17,Hosei,,0,0,0,,{\pos(676,518)}- I see, you couldn't refuse
+Dialogue: 0,0:23:08.16,0:23:13.98,Song,,0,0,0,,♪ It's just that I don't want to go home...
+Dialogue: 0,0:23:08.77,0:23:10.17,Hamada,,0,0,0,,{\pos(676,464)}- Exactly
+Dialogue: 0,0:23:10.17,0:23:13.14,Hamada,,0,0,0,,One time he gave us money and said "pay a taxi with this"
+Dialogue: 0,0:23:13.14,0:23:17.88,Hamada,,0,0,0,,And so we went back home to Amagasaki by taxi...
+Dialogue: 0,0:23:13.98,0:23:20.38,Song,,0,0,0,,♪ I want to stay here and drink until I'm drunk
+Dialogue: 0,0:23:17.88,0:23:21.35,Matsumoto,,0,0,0,,You wanna talk about my trauma, huh?
+Dialogue: 0,0:23:20.25,0:23:21.35,Endo,,0,0,0,,{\pos(634,584)}What happened?
+Dialogue: 0,0:23:20.38,0:23:25.80,Song,,0,0,0,,♪ So I'll forget about him...
+Dialogue: 0,0:23:21.35,0:23:24.72,Hamada,,0,0,0,,They made us drink, and we got drunk really easily
+Dialogue: 0,0:23:24.72,0:23:26.62,Matsumoto,,0,0,0,,I'm still traumatized by this
+Dialogue: 0,0:23:25.62,0:23:28.02,Hamada,,0,0,0,,- So I was feeling a bit sick, you know?
+Dialogue: 0,0:23:27.18,0:23:28.50,Tanaka,,0,0,0,,- I see
+Dialogue: 0,0:23:28.72,0:23:31.26,Hamada,,0,0,0,,By the time I opened the cab door
+Dialogue: 0,0:23:31.26,0:23:34.20,Hamada,,0,0,0,,I puked and made a fuss
+Dialogue: 0,0:23:34.20,0:23:35.72,Hamada,,0,0,0,,I just couldn't help it
+Dialogue: 0,0:23:35.21,0:23:36.66,Hosei,,0,0,0,,- I know
+Dialogue: 0,0:23:35.96,0:23:38.64,Matsumoto,,0,0,0,,The taxi driver stormed out of his cab
+Dialogue: 0,0:23:37.16,0:23:38.64,Hamada,,0,0,0,,- That's right
+Dialogue: 0,0:23:38.64,0:23:41.79,Hamada,,0,0,0,,Matsumoto stroked my back all night
+Dialogue: 0,0:23:40.59,0:23:41.79,Tanaka,,0,0,0,,- I see
+Dialogue: 0,0:23:42.00,0:23:43.50,Hamada,,0,0,0,,I was feeling awful
+Dialogue: 0,0:23:42.34,0:23:45.80,Matsumoto,,0,0,0,,- But the second time he puked...
+Dialogue: 0,0:23:46.11,0:23:47.71,Matsumoto,,0,0,0,,He even let out a fart
+Dialogue: 0,0:23:47.71,0:23:49.28,Hamada,,0,0,0,,Yeah, while puking!
+Dialogue: 0,0:23:49.35,0:23:51.98,Matsumoto,,0,0,0,,But you know, just to be clear...
+Dialogue: 0,0:23:52.30,0:23:54.94,Endo,,0,0,0,,It doesn't feel good at all
+Dialogue: 0,0:23:53.12,0:23:54.94,Matsumoto,,0,0,0,,- Yeah, I wasn't having fun
+Dialogue: 0,0:23:55.10,0:23:57.16,Matsumoto,,0,0,0,,It's not a fun situation to be involved in
+Dialogue: 0,0:23:57.16,0:24:02.61,Matsumoto,,0,0,0,,But even so, I saw him laughing like crazy\Ntogether with the taxi driver we didn't even know
+Dialogue: 0,0:24:03.56,0:24:06.52,Tanaka,,0,0,0,,Maybe that was for the best
+Dialogue: 0,0:24:00.19,0:24:12.08,Credits,,0,0,0,,{\fad(800,0)\bord1\shad0}TRANSLATION BY {\c&H5ECCFF&}SHION\N{\c&HFFFFFF&}TYPESET & QC BY {\c&H5ECCFF&}KEDOMAS
+Dialogue: 0,0:24:00.19,0:24:12.08,Credits,,0,0,0,,{\fad(800,0)\bord5\shad0\an6\pos(1262,85)\3c&H000000&\fs30}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&H000000&}FACEBOOK.COM/SHIONNOTSUKAI\NTWITTER.COM/SHIONNOTSUKAI\N{\3c&H000000&}KO-FI.COM/SHIONNOTSUKAI\NPATREON.COM/SHIONNOTSUKAI
+Dialogue: 1,0:24:00.19,0:24:12.08,Credits,,0,0,0,,{\fad(800,0)\bord2\shad0\an6\pos(1262,85)\3c&H37C2FC&\fs30\c&HFFFFFF&}SHIONNOTSUKAI.WORDPRESS.COM\N{\3c&HC5FF89&}FACEBOOK.COM/SHIONNOTSUKAI\NTWITTER.COM/SHIONNOTSUKAI\N{\3c&H9494FF&}KO-FI.COM/SHIONNOTSUKAI\NPATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:24:04.44,0:24:06.52,Endo,,0,0,0,,- That must have sucked
+Dialogue: 0,0:24:04.99,0:24:07.72,Matsumoto,,0,0,0,,- I was like "the hell are you laughing, you two?!"
+Dialogue: 0,0:24:07.72,0:24:09.70,Tanaka,,0,0,0,,I mean, given the situation...
+

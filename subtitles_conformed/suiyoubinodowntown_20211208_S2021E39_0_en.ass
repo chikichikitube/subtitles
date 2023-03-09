@@ -1,0 +1,1175 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: CDefault,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,2,8,8,10,0
+Style: Default,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,1,8,8,10,0
+Style: Box,Arial,90,&HFFFFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,75,100,0,0,1,2,2,2,8,8,10,0
+Style: Rubi,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,2,2,1,8,8,10,0
+Style: DefaultYellow,Arial,70,&H001DFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,1,8,8,10,0
+Style: DefaultAqua,Arial,70,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,1,8,8,10,0
+Style: DefaultGreen,Arial,70,&H0000FF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,1,8,8,10,0
+Style: DefaultBg,Arial,90,&HFFFFFFFF,&H000000FF,&H80000000,&HFF000000,0,0,0,0,86.6,100,11.25,0,3,2,2,1,8,8,10,0
+Style: CDefaultAqua,Arial,70,&H00FFFF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,62,0
+Style: CDefaultYellow,Arial,70,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,10,0
+Style: CDefaultGreen,Arial,70,&H0000FF00,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,62,0
+Style: CDefault3,Arial,60,&H00FFFFFF,&H000000FF,&H00853C3B,&H00000000,0,0,0,0,100,100,0,0,3,2,2,5,10,10,10,1
+Style: COverlay text,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,38,0
+Style: COverlay text 2,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,132,0
+Style: Overlay text,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,38,0
+Style: RDefault,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,75,100,0,0,1,2,2,3,8,8,10,0
+Style: LOverlay text,Arial,70,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,1,11,11,38,0
+Style: Small,Arial,33,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,2,1,10,10,10,1
+Style: CTLNote,Arial,55,&H0000FFD3,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,4,2,2,10,10,10,1
+Style: CSmall,Arial,26,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,2,2,2,10,10,10,1
+Style: CGuest,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,3,3,3,2,11,11,38,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:02.31,0:00:06.65,CDefaultYellow,,0,0,0,,{\pos(720,778)}This is Suiyoubi no Downtown\NWelcome everyone!
+Dialogue: 0,0:00:02.55,0:00:04.62,COverlay text 2,,0,0,0,,{\pos(720,990)}MC: Hamada Masatoshi \N(Downtown)
+Dialogue: 1,0:00:06.65,0:00:09.72,CDefaultYellow,,0,0,0,,{\pos(720,778)}So let's begin. Here's the first presenter!
+Dialogue: 0,0:00:04.85,0:00:07.52,CGuest,,0,0,0,,{\pos(327,962)}Hori Miona
+Dialogue: 0,0:00:04.85,0:00:07.52,CGuest,,0,0,0,,{\pos(556,912)}Ogi Hiroaki \N(Ogi Yahagi)
+Dialogue: 0,0:00:04.85,0:00:07.52,CGuest,,0,0,0,,{\pos(838,974)}Ōkubo Kayoko\N(Oasiz)
+Dialogue: 0,0:00:04.85,0:00:07.52,CGuest,,0,0,0,,{\pos(1137,912)}Matsumoto Hitoshi\N(Downtown)
+Dialogue: 1,0:00:09.72,0:00:11.72,CDefaultYellow,,0,0,0,,{\pos(720,1018)}Come in!
+Dialogue: 1,0:00:14.49,0:00:17.83,CDefaultGreen,,0,0,0,,{\pos(612,658)}Yes, yes. Hello, hello
+Dialogue: 1,0:00:14.49,0:00:17.83,CDefaultYellow,,0,0,0,,{\pos(720,778)}It's Fujimon!
+Dialogue: 0,0:00:16.50,0:00:19.83,COverlay text,,0,0,0,,{\pos(720,1010)}Presenter: \NFujimoto Toshifumi \N (FUJIWARA)
+Dialogue: 1,0:00:17.83,0:00:19.83,CDefaultGreen,,0,0,0,,{\pos(720,778)}Hello everyone!
+Dialogue: 1,0:00:19.83,0:00:21.83,DefaultAqua,,0,0,0,,{\pos(760,1008)}Fujimonty, isn't it?\NFujimonty
+Dialogue: 1,0:00:21.83,0:00:24.84,CDefaultGreen,,0,0,0,,{\pos(720,1018)}What's Fujimonty?
+Dialogue: 1,0:00:24.84,0:00:27.67,CDefaultGreen,,0,0,0,,{\pos(720,1018)}So everyone, I know it's out of the blue but→
+Dialogue: 1,0:00:27.67,0:00:31.51,Overlay text,,0,0,0,,have you seen any people who have had plastic surgery?
+Dialogue: 1,0:00:31.51,0:00:33.85,Default,,0,0,0,,{\pos(325,898)}Well, there are some
+Dialogue: 1,0:00:31.51,0:00:33.85,Default,,0,0,0,,{\pos(785,1018)}There are, yes
+Dialogue: 1,0:00:33.85,0:00:37.18,Default,,0,0,0,,{\pos(675,1018)}There are but you \Nwouldn't tell the person
+Dialogue: 1,0:00:37.18,0:00:43.09,Overlay text,,0,0,0,,Of course you can't say "ah, you've had surgery" and point it out to them
+Dialogue: 1,0:00:41.85,0:00:43.86,DefaultAqua,,0,0,0,,{\pos(265,658)}You can't say that for sure
+Dialogue: 1,0:00:41.85,0:00:43.86,Default,,0,0,0,,{\pos(875,778)}No, you can't
+Dialogue: 1,0:00:43.86,0:00:45.92,DefaultGreen,,0,0,0,,{\pos(255,898)}Of course not
+Dialogue: 1,0:00:43.86,0:00:45.92,CDefault,,0,0,0,,{\pos(840,1018)}It's too hard
+Dialogue: 1,0:00:45.92,0:00:49.63,DefaultGreen,,0,0,0,,{\pos(285,1018)}So with that, \Nhere's the theory I've brought here today:
+Dialogue: 0,0:00:49.96,0:00:56.67,Overlay text,,0,0,0,,Theory: If a female celebrity you haven't seen for a long time has had loads of plastic surgery, it's hard to point it out
+Dialogue: 1,0:00:57.20,0:00:59.27,Default,,0,0,0,,{\pos(285,1018)}You made it that hard?
+Dialogue: 1,0:00:59.27,0:01:01.64,CDefault,,0,0,0,,{\pos(720,1018)}(Ōkubo) Someone they\N haven't seen in a while
+Dialogue: 1,0:01:01.64,0:01:04.71,CDefaultGreen,,0,0,0,,{\pos(720,1018)}Maybe someone like \NHamada-san could say it jokingly
+Dialogue: 1,0:01:04.71,0:01:07.98,DefaultYellow,,0,0,0,,{\pos(435,898)}No, I don't think I would
+Dialogue: 1,0:01:04.71,0:01:07.98,DefaultGreen,,0,0,0,,{\pos(255,1018)}Really?
+Dialogue: 1,0:01:07.98,0:01:10.98,DefaultGreen,,0,0,0,,{\pos(255,1018)}Once when I was on a shoot with Ogi,
+Dialogue: 1,0:01:10.98,0:01:13.65,CDefaultGreen,,0,0,0,,{\pos(720,1018)}There was one person\Nthere who'd had it done
+Dialogue: 1,0:01:13.65,0:01:16.15,Default,,0,0,0,,{\pos(255,898)}I think I know who you mean
+Dialogue: 1,0:01:13.65,0:01:16.15,Default,,0,0,0,,{\pos(835,1018)}Who?
+Dialogue: 1,0:01:16.15,0:01:18.16,Default,,0,0,0,,{\pos(465,898)}It has to be that shoot
+Dialogue: 1,0:01:16.15,0:01:18.16,DefaultGreen,,0,0,0,,{\pos(275,1018)}Right
+Dialogue: 1,0:01:18.16,0:01:21.49,CDefaultGreen,,0,0,0,,{\pos(720,1018)}And when that person wasn't around,\NOgi came up to me and said →
+Dialogue: 1,0:01:21.49,0:01:24.20,DefaultGreen,,0,0,0,,{\pos(425,778)}"Jeez..."
+Dialogue: 0,0:01:23.63,0:01:26.77,Overlay text,,0,0,0,,"They were so different, I laughed"
+Dialogue: 1,0:01:25.16,0:01:28.83,CDefaultGreen,,0,0,0,,{\pos(720,778)}But I don't think they heard him
+Dialogue: 1,0:01:28.83,0:01:32.64,CDefault,,0,0,0,,{\pos(720,1018)}There were a few people there.\NThat person was so bad
+Dialogue: 0,0:01:32.97,0:01:34.47,Overlay text,,0,0,0,,They'd done it that much?
+Dialogue: 1,0:01:33.67,0:01:36.34,Default,,0,0,0,,{\pos(255,778)}Yes, so much.\NEven Fujimoto-san was laughing
+Dialogue: 1,0:01:36.34,0:01:39.34,CDefaultGreen,,0,0,0,,{\pos(720,1018)}I didn't laugh! \NI kept in, unlike Ogi
+Dialogue: 0,0:01:39.61,0:01:42.71,Overlay text,,0,0,0,,Isn't "keeping it in" strange too?
+Dialogue: 1,0:01:42.68,0:01:44.68,CDefault,,0,0,0,,{\pos(720,1018)}Coming up...
+Dialogue: 1,0:01:44.68,0:01:48.75,CDefault,,0,0,0,,{\pos(720,838)}When a female celebrity with makeup in the style of plastic surgery appears,
+Dialogue: 1,0:01:45.08,0:01:52.22,Overlay text,,0,0,0,,How will the comedians react?
+Dialogue: 1,0:01:51.36,0:01:53.36,CDefault,,0,0,0,,{\pos(720,718)}And then...
+Dialogue: 0,0:01:52.79,0:01:59.56,Overlay text,,0,0,0,,Unsuccessful comedians face off!\NWho's the best at taking bentos from backstage home?
+Dialogue: 0,0:01:59.56,0:02:12.88,Small,,0,0,0,,{\pos(13.333,156.444)\c&H00FFAF&}★Subbed by fmck fansubs★\N{\c&HFFFFFF&}reddit.com/u/fmckfansubs\Npatreon.com/fmck
+Dialogue: 0,0:02:15.21,0:02:23.56,Overlay text,,0,0,0,,Theory: If a female celebrity you haven't seen for a long time has had loads of plastic surgery, it's hard to point it out
+Dialogue: 1,0:02:23.99,0:02:27.36,Overlay text,,0,0,0,,So, our first targets are...
+Dialogue: 1,0:02:27.49,0:02:31.50,Default,,0,0,0,,{\pos(575,718)}It's Tokyo Shopping Street Tour!
+Dialogue: 1,0:02:27.49,0:02:31.50,Default,,0,0,0,,{\pos(345,838)}Alright!
+Dialogue: 0,0:02:31.56,0:02:35.53,COverlay text,,0,0,0,,{\pos(720,878)}Daian
+Dialogue: 0,0:02:31.56,0:02:35.53,Overlay text,,0,0,0,,{\pos(405,1042)}Yūsuke
+Dialogue: 0,0:02:31.56,0:02:35.53,Overlay text,,0,0,0,,{\pos(1018,1042)}Tsuda Atsuhiro
+Dialogue: 1,0:02:34.17,0:02:37.00,CDefault,,0,0,0,,{\pos(720,778)}And the person who'll be our plant,
+Dialogue: 0,0:02:35.90,0:02:43.64,Overlay text,,0,0,0,,{\pos(648,1004)}Nīyama Chiharu
+Dialogue: 1,0:02:37.00,0:02:42.71,CDefault,,0,0,0,,{\pos(720,778)}the first female celebrity we\N haven't seen in a while...
+Dialogue: 1,0:02:44.08,0:02:48.71,Overlay text,,0,0,0,,We give Nīyama a makeover\Nusing special makeup in the style of plastic surgery
+Dialogue: 1,0:02:49.01,0:02:56.89,Overlay text,,0,0,0,,She'll appear midway through as a guest \Nin Daian's fake town-exploration shoot
+Dialogue: 1,0:02:58.02,0:02:59.76,Overlay text,,0,0,0,,Itadakimasu
+Dialogue: 1,0:03:03.70,0:03:05.20,Overlay text,,0,0,0,,Hot!
+Dialogue: 1,0:03:09.10,0:03:10.44,Overlay text,,0,0,0,,This would really burn me
+Dialogue: 1,0:03:11.24,0:03:13.44,Overlay text,,0,0,0,,Do it! You got so far already
+Dialogue: 0,0:03:13.67,0:03:18.68,Overlay text,,0,0,0,,After they've roamed around a little,
+Dialogue: 1,0:03:18.68,0:03:22.35,CDefault,,0,0,0,,{\pos(720,838)}at last...
+Dialogue: 0,0:03:19.08,0:03:22.98,Overlay text,,0,0,0,,We send in the plastic surgery monster
+Dialogue: 1,0:03:23.32,0:03:30.66,Overlay text,,0,0,0,,And we haven't told Daian about the guest,\Nso it will be a surprise appearance
+Dialogue: 1,0:03:30.92,0:03:37.20,Overlay text,,0,0,0,,It says we've got a special guest who comes to this restaurant often when they're in Togoshi Ginza
+Dialogue: 1,0:03:35.49,0:03:37.50,Default,,0,0,0,,{\pos(615,898)}
+Dialogue: 1,0:03:37.43,0:03:40.37,Overlay text,,0,0,0,,Oh? It's Nīyama Chiharu-san?
+Dialogue: 1,0:03:40.37,0:03:42.47,Overlay text,,0,0,0,,Wow, really? Come in!
+Dialogue: 1,0:03:42.47,0:03:44.64,Overlay text,,0,0,0,,Seriously?
+Dialogue: 0,0:03:42.97,0:03:44.64,COverlay text 2,,0,0,0,,Hello
+Dialogue: 1,0:03:44.64,0:03:50.41,Overlay text,,0,0,0,,Hello! I'm looking forward to working with you today. I'm Nīyama Chiharu
+Dialogue: 0,0:03:50.41,0:03:58.48,Overlay text,,0,0,0,,{\pos(1282,660)}Eye bags
+Dialogue: 0,0:03:50.41,0:03:58.48,Overlay text,,0,0,0,,{\pos(1180,860)}Lips
+Dialogue: 1,0:03:50.84,0:03:54.91,Default,,0,0,0,,{\pos(285,418)}We've added as much volume\N as possible to her eye bags and lips
+Dialogue: 1,0:03:54.91,0:03:57.12,CDefault,,0,0,0,,{\pos(720,298)}An extremely gaudy plastic face
+Dialogue: 1,0:03:59.52,0:04:02.52,CDefault,,0,0,0,,{\pos(720,1018)}This is Daian's\Nreaction to seeing it
+Dialogue: 1,0:04:02.52,0:04:05.29,Default,,0,0,0,,{\pos(885,898)}
+Dialogue: 1,0:04:02.52,0:04:05.29,Default,,0,0,0,,{\pos(645,1018)}Hello. How do you do?
+Dialogue: 1,0:04:05.29,0:04:07.29,Default,,0,0,0,,{\pos(535,1018)}Hello
+Dialogue: 1,0:04:07.29,0:04:09.29,Default,,0,0,0,,{\pos(555,298)}All their excitement's gone
+Dialogue: 1,0:04:09.29,0:04:11.36,RDefault,,0,0,0,,{\pos(1125,1018)}Nice to meet you. \NYes, I'm excited
+Dialogue: 1,0:04:11.36,0:04:13.37,DefaultGreen,,0,0,0,,{\pos(575,298)}They don't know what to do
+Dialogue: 1,0:04:13.37,0:04:15.87,Default,,0,0,0,,{\pos(525,898)}
+Dialogue: 1,0:04:13.37,0:04:15.87,Default,,0,0,0,,{\pos(255,1018)}We're Daian. Pleased to meet you
+Dialogue: 1,0:04:24.31,0:04:26.31,Default,,0,0,0,,{\pos(885,838)}Then...
+Dialogue: 1,0:04:17.64,0:04:26.01,Overlay text,,0,0,0,,As expected, they can feel something's wrong\Nbut they didn't say anything
+Dialogue: 1,0:04:26.01,0:04:28.41,Overlay text,,0,0,0,,Do you come to this area often?
+Dialogue: 1,0:04:28.71,0:04:32.08,Overlay text,,0,0,0,,From the time I debuted, my office has been in Meguro so...
+Dialogue: 1,0:04:32.08,0:04:36.25,Overlay text,,0,0,0,,So I've spent time walking and eating in these streets
+Dialogue: 1,0:04:34.82,0:04:37.49,DefaultYellow,,0,0,0,,{\pos(555,298)}He can't even look at her face
+Dialogue: 1,0:04:36.25,0:04:39.79,Overlay text,,0,0,0,,I haven't been able to do it recently of course
+Dialogue: 1,0:04:37.49,0:04:39.82,DefaultAqua,,0,0,0,,{\pos(495,298)}Yūsuke's not looking anymore
+Dialogue: 1,0:04:39.79,0:04:42.63,Overlay text,,0,0,0,,But I'm hoping we'll be able to do it again soon
+Dialogue: 1,0:04:39.82,0:04:42.93,DefaultGreen,,0,0,0,,{\pos(705,298)}If he looks, he'll laugh
+Dialogue: 1,0:04:39.82,0:04:42.93,DefaultAqua,,0,0,0,,{\pos(1045,418)}He will
+Dialogue: 1,0:04:42.63,0:04:43.96,Overlay text,,0,0,0,,That's true
+Dialogue: 1,0:04:43.96,0:04:46.03,Overlay text,,0,0,0,,I think so
+Dialogue: 1,0:04:45.90,0:04:49.50,CDefault,,0,0,0,,{\pos(720,1018)}(Nīyama) So I can go with my \Ndaughter and teach her the custom
+Dialogue: 1,0:04:49.50,0:04:52.17,DefaultAqua,,0,0,0,,{\pos(805,298)} This is not good
+Dialogue: 1,0:04:49.50,0:04:52.17,DefaultGreen,,0,0,0,,{\pos(505,418)}He's looking at her from the side!
+Dialogue: 1,0:04:52.17,0:04:54.84,DefaultAqua,,0,0,0,,{\pos(815,298)}It's just too perfect
+Dialogue: 1,0:04:53.44,0:04:56.94,Overlay text,,0,0,0,,How old are you now...
+Dialogue: 0,0:04:53.91,0:04:56.94,COverlay text 2,,0,0,0,,I'm 40
+Dialogue: 1,0:04:54.84,0:04:56.84,CDefault,,0,0,0,,{\pos(720,838)}Wow!
+Dialogue: 1,0:04:57.01,0:05:00.48,Overlay text,,0,0,0,,You don't look it. Really, you haven't changed at all
+Dialogue: 1,0:05:00.58,0:05:02.08,Overlay text,,0,0,0,,Oh, really?
+Dialogue: 0,0:05:02.25,0:05:03.82,Overlay text,,0,0,0,,You haven't changed at all
+Dialogue: 1,0:05:04.28,0:05:07.39,Overlay text,,0,0,0,,It's clear that isn't that the case
+Dialogue: 1,0:05:08.35,0:05:12.29,Overlay text,,0,0,0,,Tsuda tells a lie he didn't have to tell
+Dialogue: 1,0:05:12.29,0:05:14.59,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 1,0:05:15.16,0:05:17.93,Overlay text,,0,0,0,,Staff) Alright, it's OK. We're done at this restaurant
+Dialogue: 1,0:05:17.93,0:05:21.00,Overlay text,,0,0,0,,Staff) Daian, could you two wait here for a little while?
+Dialogue: 1,0:05:21.50,0:05:25.34,Overlay text,,0,0,0,,We let Daian have some alone time...
+Dialogue: 0,0:05:29.94,0:05:33.04,Overlay text,,0,0,0,,{\pos(1000,776)}You seriously...
+Dialogue: 0,0:05:33.04,0:05:35.25,Overlay text,,0,0,0,,{\pos(1035,776)}You're so bad
+Dialogue: 0,0:05:35.55,0:05:38.15,Overlay text,,0,0,0,,{\pos(772,574)}It's so bad
+Dialogue: 0,0:05:36.01,0:05:38.15,Overlay text,,0,0,0,,{\pos(484,674)}Did she just do it?
+Dialogue: 1,0:05:38.45,0:05:40.42,Overlay text,,0,0,0,,Because she's still not used to it
+Dialogue: 1,0:05:40.42,0:05:43.99,Overlay text,,0,0,0,,Everyone's finding out soon if that's the case
+Dialogue: 1,0:05:44.86,0:05:46.56,Overlay text,,0,0,0,,Everyone will know
+Dialogue: 0,0:05:46.96,0:05:49.89,Overlay text,,0,0,0,,{\pos(978,680)}Seriously, it's like Angelina Jolie
+Dialogue: 1,0:05:52.20,0:05:56.40,Overlay text,,0,0,0,,{\pos(940.4047619047619,1042)}She got Angelina Jolie lips
+Dialogue: 0,0:05:56.40,0:05:58.84,Overlay text,,0,0,0,,{\pos(730,610)}It's like Obake no Q-Tarō, isn't it?
+Dialogue: 0,0:05:58.84,0:06:02.01,Overlay text,,0,0,0,,{\pos(562,610)}The lips, really
+Dialogue: 0,0:06:02.54,0:06:05.08,Overlay text,,0,0,0,,{\pos(459,790)}Can she really change that much?
+Dialogue: 0,0:06:06.48,0:06:09.18,Overlay text,,0,0,0,,{\pos(471,670)}She used to be cute, before
+Dialogue: 0,0:06:10.18,0:06:12.02,Overlay text,,0,0,0,,{\pos(1024,784)}Seems she's been through a lot
+Dialogue: 1,0:06:12.62,0:06:17.26,Overlay text,,0,0,0,,They're getting excited talking about her plastic surgery in secret
+Dialogue: 0,0:06:17.42,0:06:19.42,Overlay text,,0,0,0,,Ogi was like this too
+Dialogue: 1,0:06:18.12,0:06:20.13,Default,,0,0,0,,{\pos(885,778)}Totally,\NI remember
+Dialogue: 1,0:06:20.13,0:06:22.13,CDefaultGreen,,0,0,0,,{\pos(720,898)}You were like this, Ogi
+Dialogue: 1,0:06:20.13,0:06:22.13,CDefault,,0,0,0,,{\pos(720,1018)}I know
+Dialogue: 1,0:06:22.13,0:06:26.26,Overlay text,,0,0,0,,And then when filming restarts...
+Dialogue: 1,0:06:26.80,0:06:31.67,Overlay text,,0,0,0,,the group go to a Korean food restaurant recommended by their special guest\N
+Dialogue: 1,0:06:31.80,0:06:33.91,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 1,0:06:34.44,0:06:37.31,Overlay text,,0,0,0,,Staff) Sorry, we need to fix your makeup Nīyama-san
+Dialogue: 1,0:06:37.81,0:06:42.41,Overlay text,,0,0,0,,They fix the makeup on her bulging lips
+Dialogue: 1,0:06:42.81,0:06:45.82,CDefault,,0,0,0,,{\pos(720,1018)}Seeing this, Daian...
+Dialogue: 0,0:06:50.36,0:06:54.79,Overlay text,,0,0,0,,can't stand it and start to laugh
+Dialogue: 1,0:06:55.16,0:06:58.46,CDefault,,0,0,0,,{\pos(720,1018)}Then when she accentuates \Nher mouth while eating...
+Dialogue: 1,0:07:02.60,0:07:05.10,Default,,0,0,0,,{\pos(805,298)}He laughed!
+Dialogue: 1,0:07:02.60,0:07:05.10,DefaultGreen,,0,0,0,,{\pos(845,418)}She's going to notice
+Dialogue: 1,0:07:06.10,0:07:10.18,Default,,0,0,0,,{\pos(675,298)}He's just laughing
+Dialogue: 1,0:07:06.10,0:07:10.18,Default,,0,0,0,,{\pos(765,418)}She can't blow
+Dialogue: 1,0:07:10.18,0:07:12.18,Default,,0,0,0,,{\pos(845,298)}She can't blow
+Dialogue: 1,0:07:12.18,0:07:14.45,Default,,0,0,0,,{\pos(673,298)}I'd laugh if I were them
+Dialogue: 1,0:07:14.45,0:07:16.45,CDefaultGreen,,0,0,0,,{\pos(720,1018)}Nīyama's doing it
+Dialogue: 0,0:07:16.75,0:07:17.98,Overlay text,,0,0,0,,She's making them laugh
+Dialogue: 1,0:07:17.95,0:07:20.35,DefaultGreen,,0,0,0,,{\pos(375,898)}Honestly
+Dialogue: 1,0:07:17.95,0:07:20.35,Default,,0,0,0,,{\pos(595,1018)}(Ogi) It looks like it
+Dialogue: 1,0:07:20.62,0:07:22.05,Overlay text,,0,0,0,,Nīyama-san, need any water?
+Dialogue: 1,0:07:22.29,0:07:24.59,CDefault,,0,0,0,,{\pos(720,1018)}(Nīyama) I'm fine, thank you
+Dialogue: 1,0:07:29.49,0:07:31.20,Overlay text,,0,0,0,,It's really good. Wow
+Dialogue: 1,0:07:31.30,0:07:33.63,CDefault,,0,0,0,,{\pos(720,1018)}(Yūsuke) Like, the flavor is...
+Dialogue: 1,0:07:33.63,0:07:35.70,DefaultGreen,,0,0,0,,{\pos(955,298)}Tsuda...
+Dialogue: 1,0:07:33.63,0:07:35.70,DefaultYellow,,0,0,0,,{\pos(835,418)}This is hopeless
+Dialogue: 1,0:07:35.70,0:07:38.30,DefaultGreen,,0,0,0,,{\pos(825,298)}Isn't he bad?
+Dialogue: 1,0:07:35.70,0:07:38.30,DefaultYellow,,0,0,0,,{\pos(855,418)}Why so much...
+Dialogue: 1,0:07:38.30,0:07:41.37,DefaultGreen,,0,0,0,,{\pos(705,298)}He's out of control
+Dialogue: 1,0:07:38.30,0:07:41.37,Default,,0,0,0,,{\pos(735,418)}Nīyama-san overdid it
+Dialogue: 1,0:07:41.37,0:07:44.14,DefaultAqua,,0,0,0,,{\pos(635,418)}Because Nīyama-san\Ncan't see her own face, right?
+Dialogue: 1,0:07:44.14,0:07:46.48,DefaultGreen,,0,0,0,,{\pos(565,418)}She can't, and she's \N trying to make them laugh
+Dialogue: 1,0:07:46.48,0:07:48.48,DefaultGreen,,0,0,0,,{\pos(765,298)}It's her fault too
+Dialogue: 1,0:07:47.45,0:07:50.15,Overlay text,,0,0,0,,A mosquito stung me
+Dialogue: 1,0:07:50.15,0:07:53.62,Overlay text,,0,0,0,,What time of the year do mosquitoes sting you?
+Dialogue: 1,0:07:53.62,0:07:55.72,Overlay text,,0,0,0,,Today's the coldest day in 20 years
+Dialogue: 1,0:07:55.72,0:07:56.99,Overlay text,,0,0,0,,Why did a mosquito...
+Dialogue: 1,0:07:56.99,0:07:58.99,CDefault,,0,0,0,,{\pos(720,1018)}(Tsuda) What's up with this guy?
+Dialogue: 1,0:07:58.99,0:08:02.76,CDefault,,0,0,0,,{\pos(720,1018)}Why at a Korean restaurant...
+Dialogue: 1,0:08:02.76,0:08:05.43,DefaultAqua,,0,0,0,,{\pos(145,298)}They're trying to make it about something else
+Dialogue: 1,0:08:02.76,0:08:05.43,DefaultGreen,,0,0,0,,{\pos(1065,418)}Yeah
+Dialogue: 1,0:08:05.43,0:08:08.43,DefaultGreen,,0,0,0,,{\pos(655,418)}Like 'look, we're laughing\Nat something else!'
+Dialogue: 1,0:08:08.00,0:08:10.90,Overlay text,,0,0,0,,Why did a mosquito sting you? This guy...
+Dialogue: 0,0:08:11.17,0:08:15.37,Overlay text,,0,0,0,,They try to fake it but...
+Dialogue: 1,0:08:16.01,0:08:22.31,Overlay text,,0,0,0,,for some reason the plastic surgery makes them crack up and they can't stop laughing
+Dialogue: 1,0:08:22.78,0:08:27.22,Overlay text,,0,0,0,,Then, in the car on the way to their next location
+Dialogue: 0,0:08:22.31,0:08:27.22,Overlay text,,0,0,0,,{\pos(1195,714)}Manager
+Dialogue: 1,0:08:27.72,0:08:30.46,Overlay text,,0,0,0,,She was different when she was on TV a year or two ago
+Dialogue: 1,0:08:30.46,0:08:33.42,Overlay text,,0,0,0,,Isn't anyone she knows saying anything?
+Dialogue: 1,0:08:33.42,0:08:35.36,Overlay text,,0,0,0,,Like her makeup artist or manager
+Dialogue: 1,0:08:35.73,0:08:39.33,Overlay text,,0,0,0,,Well I guess it's hard to tell someone that
+Dialogue: 1,0:08:39.83,0:08:41.13,Overlay text,,0,0,0,,Can they say it casually?
+Dialogue: 1,0:08:41.13,0:08:43.70,Overlay text,,0,0,0,,Even if they do...
+Dialogue: 1,0:08:43.70,0:08:46.00,Overlay text,,0,0,0,,That might be OK
+Dialogue: 0,0:08:44.04,0:08:46.00,COverlay text 2,,0,0,0,,She might say something like "Sure"
+Dialogue: 1,0:08:46.17,0:08:48.24,Overlay text,,0,0,0,,No but it's... What should we do?
+Dialogue: 1,0:08:48.24,0:08:50.51,Overlay text,,0,0,0,,We're not going to say, are we?
+Dialogue: 1,0:08:50.81,0:08:54.48,Overlay text,,0,0,0,,Although they considered pointing it out...
+Dialogue: 1,0:08:54.48,0:09:00.25,Overlay text,,0,0,0,,in the end Daian did not bring up the surgery all day
+Dialogue: 0,0:09:00.62,0:09:02.09,Overlay text,,0,0,0,,But they might as well have
+Dialogue: 1,0:09:01.92,0:09:04.42,DefaultYellow,,0,0,0,,{\pos(345,1018)}Right? Since they laughed so hard
+Dialogue: 1,0:09:04.42,0:09:09.49,Overlay text,,0,0,0,,And after the segment with Nīyama is over...
+Dialogue: 1,0:09:09.49,0:09:12.50,Default,,0,0,0,,{\pos(435,838)}and Daian are alone, \Nit's time for the...
+Dialogue: 0,0:09:09.69,0:09:14.80,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:09:14.87,0:09:17.30,Overlay text,,0,0,0,,Staff) How was today?
+Dialogue: 1,0:09:17.40,0:09:20.27,Overlay text,,0,0,0,,I want to come here again
+Dialogue: 1,0:09:20.41,0:09:21.71,Overlay text,,0,0,0,,It was fun, wasn't it?
+Dialogue: 1,0:09:21.81,0:09:24.88,Overlay text,,0,0,0,,Staff) Is there anything on your mind about today?
+Dialogue: 1,0:09:25.78,0:09:27.25,Overlay text,,0,0,0,,Those lips were incredible...
+Dialogue: 1,0:09:28.91,0:09:31.58,Overlay text,,0,0,0,,Staff) Honestly, what did you think when you saw them?
+Dialogue: 1,0:09:31.58,0:09:33.38,Overlay text,,0,0,0,,I was surprised. Like...
+Dialogue: 1,0:09:33.38,0:09:36.45,Overlay text,,0,0,0,,But you hear about people doing stuff like that sometimes
+Dialogue: 1,0:09:36.82,0:09:38.52,Overlay text,,0,0,0,,You can't mention it
+Dialogue: 1,0:09:38.66,0:09:40.22,Overlay text,,0,0,0,,Staff) By the way
+Dialogue: 0,0:09:40.22,0:09:43.09,Overlay text,,0,0,0,,Staff) This show isn't "Tokyo Shopping Street Tour"
+Dialogue: 0,0:09:52.00,0:09:56.71,DefaultGreen,,0,0,0,,{\pos(781,322)}Like a psychopath. Scary
+Dialogue: 0,0:10:11.69,0:10:13.36,Overlay text,,0,0,0,,{\pos(1074,774)}What is this?
+Dialogue: 1,0:09:43.93,0:09:45.10,Overlay text,,0,0,0,,Huh?
+Dialogue: 1,0:09:45.10,0:09:46.10,Overlay text,,0,0,0,,I see
+Dialogue: 1,0:09:45.96,0:09:48.30,CDefault,,0,0,0,,{\pos(720,1018)}(Yūsuke) What do you mean?
+Dialogue: 1,0:09:56.41,0:09:59.14,Overlay text,,0,0,0,,Suiyoubi no Downtown, right?
+Dialogue: 1,0:09:57.48,0:09:59.48,CDefault,,0,0,0,,{\pos(720,958)}So...
+Dialogue: 1,0:09:59.48,0:10:01.98,Default,,0,0,0,,{\pos(355,1018)}I heard all of it
+Dialogue: 1,0:10:02.81,0:10:04.92,Overlay text,,0,0,0,,You laughed too much! From the start
+Dialogue: 0,0:10:04.95,0:10:13.36,Overlay text,,0,0,0,,Theory: If a female celebrity you haven't seen for a long time has had loads of plastic surgery, it's hard to point it out
+Dialogue: 1,0:10:13.36,0:10:14.89,Overlay text,,0,0,0,,It's just your lips, right?
+Dialogue: 1,0:10:14.89,0:10:16.19,Overlay text,,0,0,0,,It's not just my lips!
+Dialogue: 1,0:10:16.73,0:10:18.70,Overlay text,,0,0,0,,Your eyelids are so weird
+Dialogue: 0,0:10:17.93,0:10:18.70,COverlay text 2,,0,0,0,,Yes, yes
+Dialogue: 1,0:10:18.70,0:10:23.17,Overlay text,,0,0,0,,Under them?
+Dialogue: 0,0:10:19.50,0:10:23.17,COverlay text 2,,0,0,0,,That's right. The puffy eye bags that are trendy now
+Dialogue: 1,0:10:23.17,0:10:24.00,Overlay text,,0,0,0,,Cheekbones too?
+Dialogue: 1,0:10:24.10,0:10:27.14,Overlay text,,0,0,0,,No, these are all mine
+Dialogue: 0,0:10:25.54,0:10:26.74,LOverlay text,,0,0,0,,{\pos(655,754)}Ah...
+Dialogue: 0,0:10:26.74,0:10:27.14,LOverlay text,,0,0,0,,{\pos(655,754)}Ah... sorry...
+Dialogue: 1,0:10:27.14,0:10:29.07,CDefault,,0,0,0,,{\pos(720,1018)}(Nīyama) You're just insulting me now
+Dialogue: 1,0:10:29.07,0:10:33.08,Overlay text,,0,0,0,,And so, our next targets are...
+Dialogue: 1,0:10:33.01,0:10:35.01,CDefault,,0,0,0,,{\pos(720,778)}Hello! We're Ginshari!
+Dialogue: 0,0:10:33.61,0:10:38.52,COverlay text,,0,0,0,,{\pos(720,892)}Ginshari
+Dialogue: 0,0:10:33.61,0:10:38.52,Overlay text,,0,0,0,,{\pos(474,1042)}Unagi Kazuhiro
+Dialogue: 0,0:10:33.61,0:10:38.52,Overlay text,,0,0,0,,{\pos(966,1042)}Hashimoto Nao
+Dialogue: 1,0:10:35.01,0:10:37.02,Default,,0,0,0,,{\pos(885,658)}We've arrived
+Dialogue: 1,0:10:35.01,0:10:37.02,Default,,0,0,0,,{\pos(375,778)}Yes we have
+Dialogue: 0,0:10:38.85,0:10:46.59,Overlay text,,0,0,0,,{\pos(312,1006)}Anzai Hiroko
+Dialogue: 1,0:10:37.02,0:10:39.85,CDefault,,0,0,0,,{\pos(720,778)}And the person who'll be our plant,
+Dialogue: 1,0:10:39.85,0:10:44.92,Default,,0,0,0,,{\pos(285,898)}the second female celebrity we\N haven't seen in a while...
+Dialogue: 1,0:10:46.69,0:10:48.39,Overlay text,,0,0,0,,A special guest
+Dialogue: 0,0:10:47.89,0:10:49.43,COverlay text 2,,0,0,0,,I didn't know
+Dialogue: 1,0:10:48.39,0:10:49.43,Overlay text,,0,0,0,,I'm nervous
+Dialogue: 1,0:10:49.59,0:10:51.56,Overlay text,,0,0,0,,Well then, shall we call her in?
+Dialogue: 1,0:10:51.70,0:10:54.60,Overlay text,,0,0,0,,It's Anzai Hiroko-san! Please come in
+Dialogue: 1,0:10:54.70,0:10:57.00,Default,,0,0,0,,{\pos(525,958)}
+Dialogue: 1,0:10:56.70,0:10:59.17,Overlay text,,0,0,0,,Hello
+Dialogue: 0,0:10:57.27,0:10:59.17,COverlay text 2,,0,0,0,,Hello, welcome, thank you for coming
+Dialogue: 1,0:10:59.17,0:11:00.04,Overlay text,,0,0,0,,Anzai-san
+Dialogue: 1,0:11:00.04,0:11:01.91,Overlay text,,0,0,0,,Hello, I'm Anzai Hiroko
+Dialogue: 1,0:11:01.71,0:11:05.88,Default,,0,0,0,,{\pos(435,958)}This time, we've increased\Nthe level of surgery
+Dialogue: 0,0:11:01.91,0:11:06.74,Overlay text,,0,0,0,,{\pos(1335,750)}Eye \Nbags
+Dialogue: 0,0:11:01.91,0:11:06.74,Overlay text,,0,0,0,,{\pos(1305,924)}Lips
+Dialogue: 0,0:11:06.74,0:11:12.85,Overlay text,,0,0,0,,{\pos(1174,674)}Nose bridge
+Dialogue: 0,0:11:01.91,0:11:12.85,LOverlay text,,0,0,0,,{\pos(1032,1028)\fs60}Surgery Level
+Dialogue: 1,0:11:05.88,0:11:08.65,Default,,0,0,0,,{\pos(375,958)}As well as her lips and eye bags,
+Dialogue: 1,0:11:08.65,0:11:11.85,CDefault,,0,0,0,,{\pos(720,958)}we've Avatar-ized her nose
+Dialogue: 1,0:11:12.72,0:11:15.65,Default,,0,0,0,,{\pos(735,898)}Hello. Seriously?
+Dialogue: 1,0:11:12.72,0:11:15.65,Default,,0,0,0,,{\pos(255,1018)}Seriously? Seriously?
+Dialogue: 1,0:11:15.65,0:11:17.66,Default,,0,0,0,,{\pos(675,958)}
+Dialogue: 1,0:11:17.66,0:11:20.16,Default,,0,0,0,,{\pos(345,838)}Hello!
+Dialogue: 1,0:11:17.66,0:11:20.16,Default,,0,0,0,,{\pos(435,958)}Hello, welcome, thank you for coming
+Dialogue: 1,0:11:20.16,0:11:22.23,Default,,0,0,0,,{\pos(375,958)}Hello, thank you.\NI'm Anzai Hiroko
+Dialogue: 1,0:11:22.23,0:11:24.23,DefaultGreen,,0,0,0,,{\pos(685,298)}They can't hold it in
+Dialogue: 1,0:11:22.23,0:11:24.23,DefaultYellow,,0,0,0,,{\pos(905,418)}His face now
+Dialogue: 1,0:11:25.26,0:11:27.37,Overlay text,,0,0,0,,No, she's my age
+Dialogue: 1,0:11:24.23,0:11:26.83,DefaultGreen,,0,0,0,,{\pos(775,298)}It's coming out
+Dialogue: 1,0:11:24.23,0:11:26.83,Default,,0,0,0,,{\pos(775,418)}Look at Hashimoto
+Dialogue: 1,0:11:27.43,0:11:28.60,Overlay text,,0,0,0,,Seriously?
+Dialogue: 1,0:11:28.60,0:11:30.37,Overlay text,,0,0,0,,Ah, I'm happy. Thank you
+Dialogue: 1,0:11:30.37,0:11:31.40,Overlay text,,0,0,0,,{\pos(523.03125,1042)}From gravure, right?
+Dialogue: 0,0:11:31.70,0:11:34.31,Overlay text,,0,0,0,,I knew this would be funny
+Dialogue: 0,0:11:34.31,0:11:40.78,Overlay text,,0,0,0,,{\pos(216,758)}Manager
+Dialogue: 1,0:11:34.51,0:11:40.78,Overlay text,,0,0,0,,And, like before,\Nwhen Anzai and the staff leave them alone...
+Dialogue: 1,0:11:41.01,0:11:43.21,Overlay text,,0,0,0,,Do you remember how her face used to look?
+Dialogue: 1,0:11:43.21,0:11:45.15,Overlay text,,0,0,0,,Back then? I do but...
+Dialogue: 1,0:11:45.15,0:11:47.62,Overlay text,,0,0,0,,She was in her teens then, wasn't she?
+Dialogue: 0,0:11:47.79,0:11:49.79,Overlay text,,0,0,0,,{\pos(963,696)}Well, that...
+Dialogue: 0,0:11:49.79,0:11:50.52,Overlay text,,0,0,0,,{\pos(958,696)}Like it's...
+Dialogue: 0,0:11:50.52,0:11:52.56,Overlay text,,0,0,0,,{\pos(940,696)}I don't even know if I can look properly
+Dialogue: 1,0:11:52.66,0:11:55.06,Overlay text,,0,0,0,,She's so different compared to back then
+Dialogue: 1,0:11:55.16,0:11:58.30,Overlay text,,0,0,0,,I don't mean anything bad by it but...
+Dialogue: 0,0:11:58.46,0:12:00.70,Overlay text,,0,0,0,,{\pos(945,720)}It's like Kaiji
+Dialogue: 0,0:12:00.70,0:12:03.20,Overlay text,,0,0,0,,{\pos(315,610)}You can't tell her that
+Dialogue: 0,0:12:03.20,0:12:04.57,Overlay text,,0,0,0,,{\pos(937,720)}I definitely won't
+Dialogue: 1,0:12:04.70,0:12:10.11,Overlay text,,0,0,0,,As expected her new face is a hot topic
+Dialogue: 1,0:12:10.54,0:12:16.61,Overlay text,,0,0,0,,{\pos(796,920)}But they don't seem to be mentioning it to her so...
+Dialogue: 1,0:12:16.61,0:12:19.42,Overlay text,,0,0,0,,I just love Korea
+Dialogue: 1,0:12:19.42,0:12:21.55,Overlay text,,0,0,0,,I go there all the time
+Dialogue: 0,0:12:21.65,0:12:24.26,Overlay text,,0,0,0,,{\pos(829,780)}What do you go there for? The food?
+Dialogue: 1,0:12:24.36,0:12:27.16,Overlay text,,0,0,0,,For the food and for beauty
+Dialogue: 0,0:12:26.16,0:12:27.16,COverlay text 2,,0,0,0,,Ah, beauty too
+Dialogue: 1,0:12:27.16,0:12:30.09,Overlay text,,0,0,0,,For things like Yomogi steaming, right?
+Dialogue: 0,0:12:28.69,0:12:30.09,COverlay text 2,,0,0,0,,That's right, that's right
+Dialogue: 1,0:12:30.09,0:12:31.26,Overlay text,,0,0,0,,For perspiration
+Dialogue: 1,0:12:31.26,0:12:35.17,Overlay text,,0,0,0,,The one that that goes up your butt?
+Dialogue: 1,0:12:33.00,0:12:35.00,Default,,0,0,0,,{\pos(255,958)}Yeah, yeah. Like that
+Dialogue: 1,0:12:35.00,0:12:39.07,Default,,0,0,0,,{\pos(345,1018)}With the words "Korea" and "beauty",
+Dialogue: 1,0:12:39.07,0:12:41.37,Default,,0,0,0,,{\pos(735,838)}we hinted at \Nplastic surgery but...
+Dialogue: 0,0:12:40.24,0:12:43.54,Overlay text,,0,0,0,,They didn't bite
+Dialogue: 0,0:12:43.54,0:12:47.61,Overlay text,,0,0,0,,{\pos(1057,706)}Manager
+Dialogue: 1,0:12:43.84,0:12:46.94,Default,,0,0,0,,{\pos(315,1018)}However, when they're alone again
+Dialogue: 1,0:12:48.08,0:12:53.45,Overlay text,,0,0,0,,To tell you the truth, I don't even know if it's her
+Dialogue: 0,0:12:51.62,0:12:53.45,COverlay text 2,,0,0,0,,No, it's her. It is.
+Dialogue: 1,0:12:53.45,0:12:54.75,Overlay text,,0,0,0,,That's her voice. It's fine
+Dialogue: 1,0:12:55.19,0:12:59.16,Overlay text,,0,0,0,,I didn't really know her voice
+Dialogue: 0,0:12:57.19,0:12:59.16,COverlay text 2,,0,0,0,,Her voice is just like that...
+Dialogue: 1,0:12:59.16,0:13:01.66,Overlay text,,0,0,0,,Because I mostly know her from photos
+Dialogue: 1,0:13:01.66,0:13:04.63,Overlay text,,0,0,0,,She hasn't changed that drastically, has she?
+Dialogue: 1,0:13:04.63,0:13:09.37,Overlay text,,0,0,0,,She has, you know. She's changed too much...
+Dialogue: 0,0:13:08.27,0:13:09.37,COverlay text 2,,0,0,0,,Isn't it just a little?
+Dialogue: 1,0:13:09.37,0:13:11.20,Overlay text,,0,0,0,,It's not a little. It's not
+Dialogue: 1,0:13:11.20,0:13:13.20,Overlay text,,0,0,0,,She's a totally different person
+Dialogue: 1,0:13:13.20,0:13:15.44,Overlay text,,0,0,0,,That being said, I don't really mind
+Dialogue: 0,0:13:14.71,0:13:15.44,COverlay text 2,,0,0,0,,Yes, yes
+Dialogue: 1,0:13:15.44,0:13:20.44,Overlay text,,0,0,0,,In the end, it's all about whether she's happy with it or not
+Dialogue: 0,0:13:20.95,0:13:27.05,Overlay text,,0,0,0,,{\pos(712,624)}Hashimoto is a progressive comedian, respectful of diversity
+Dialogue: 0,0:13:18.94,0:13:20.44,COverlay text 2,,0,0,0,,I guess
+Dialogue: 1,0:13:27.49,0:13:34.19,Overlay text,,0,0,0,,So once again, the shoot ends without surgery being mentioned
+Dialogue: 1,0:13:34.19,0:13:37.96,Default,,0,0,0,,{\pos(255,838)}(Staff) "Tokyo Shopping Street Tour"\Nisn't the name of this show
+Dialogue: 0,0:13:34.39,0:13:38.16,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:13:38.46,0:13:41.43,Overlay text,,0,0,0,,Wait a moment. Seriously
+Dialogue: 1,0:13:42.13,0:13:44.14,Overlay text,,0,0,0,,I think there's only one show it could be
+Dialogue: 1,0:13:44.74,0:13:46.74,Overlay text,,0,0,0,,Suiyoubi?
+Dialogue: 0,0:13:45.90,0:13:46.74,COverlay text 2,,0,0,0,,What else?
+Dialogue: 1,0:13:46.74,0:13:50.37,Overlay text,,0,0,0,,Woah, hold on a minute. This is so bad
+Dialogue: 1,0:13:50.37,0:13:52.14,Overlay text,,0,0,0,,It has to be Anzai-san
+Dialogue: 1,0:13:52.84,0:13:58.35,Default,,0,0,0,,{\pos(345,778)}So after she explains today's\Ntheory to them...
+Dialogue: 0,0:13:52.48,0:13:58.38,Overlay text,,0,0,0,,Theory: If a female celebrity you haven't seen for a long time has had loads of plastic surgery, it's hard to point it out
+Dialogue: 1,0:14:00.32,0:14:01.75,Overlay text,,0,0,0,,There's no way we could
+Dialogue: 1,0:14:01.75,0:14:03.09,Overlay text,,0,0,0,,It's impossible
+Dialogue: 1,0:14:03.09,0:14:04.59,Overlay text,,0,0,0,,What kind of theory is this?
+Dialogue: 1,0:14:04.59,0:14:07.66,Overlay text,,0,0,0,,It's obviously impossible, right?
+Dialogue: 0,0:14:05.66,0:14:07.66,COverlay text 2,,0,0,0,,Why didn't you mention it?
+Dialogue: 1,0:14:07.76,0:14:09.96,Overlay text,,0,0,0,,Huh, so you're really her?
+Dialogue: 1,0:14:10.13,0:14:11.13,Overlay text,,0,0,0,,I am
+Dialogue: 1,0:14:11.13,0:14:12.86,Overlay text,,0,0,0,,You are... Sorry, sorry
+Dialogue: 1,0:14:13.03,0:14:14.97,Overlay text,,0,0,0,,Huh, so it's okay to tell you that?
+Dialogue: 1,0:14:14.97,0:14:17.57,Overlay text,,0,0,0,,That you've done loads of surgery
+Dialogue: 1,0:14:17.94,0:14:19.90,Overlay text,,0,0,0,,So you're going public about it?
+Dialogue: 1,0:14:19.87,0:14:25.28,COverlay text 2,,0,0,0,,Unagi thinks the plastic surgery is real
+Dialogue: 1,0:14:25.64,0:14:28.98,Overlay text,,0,0,0,,And our last targets are...
+Dialogue: 1,0:14:28.98,0:14:32.18,Default,,0,0,0,,{\pos(705,718)}It's Tokyo Shopping Street Tour!
+Dialogue: 1,0:14:28.98,0:14:32.18,Default,,0,0,0,,{\pos(465,838)}Yay!
+Dialogue: 0,0:14:32.65,0:14:35.69,COverlay text,,0,0,0,,{\pos(720,894)}Kamaitachi
+Dialogue: 0,0:14:32.65,0:14:35.69,Overlay text,,0,0,0,,{\pos(1038,1042)}Hamaie Ryūichi
+Dialogue: 0,0:14:32.65,0:14:35.69,Overlay text,,0,0,0,,{\pos(420,1042)}Yamauchi Kenji
+Dialogue: 1,0:14:35.99,0:14:37.99,Default,,0,0,0,,{\pos(435,898)}And our plant is...
+Dialogue: 1,0:14:37.99,0:14:42.19,Default,,0,0,0,,{\pos(315,898)}Nīyama Chiharu, with even\Nmore plasticity
+Dialogue: 1,0:14:43.73,0:14:46.86,Overlay text,,0,0,0,,Nīyama Chiharu-san? Come in!
+Dialogue: 0,0:14:47.10,0:14:49.50,Overlay text,,0,0,0,,{\pos(667,602)}We haven't met before
+Dialogue: 1,0:14:48.70,0:14:49.50,Overlay text,,0,0,0,,That's right
+Dialogue: 1,0:14:50.50,0:14:51.20,Overlay text,,0,0,0,,Hello
+Dialogue: 1,0:14:49.50,0:14:51.50,Default,,0,0,0,,{\pos(905,958)}(Nīyama) Hello
+Dialogue: 1,0:15:07.95,0:15:11.09,Overlay text,,0,0,0,,Nīyama Chiharu-san? Come in!
+Dialogue: 0,0:15:11.32,0:15:13.76,Overlay text,,0,0,0,,{\pos(667,602)}We haven't met before
+Dialogue: 1,0:15:12.92,0:15:13.76,Overlay text,,0,0,0,,That's right
+Dialogue: 1,0:15:14.29,0:15:15.59,Overlay text,,0,0,0,,Hello
+Dialogue: 1,0:15:15.59,0:15:19.16,Overlay text,,0,0,0,,Nice to meet you. I'm looking forward to today
+Dialogue: 1,0:15:19.16,0:15:22.17,Default,,0,0,0,,{\pos(205,898)}This time, in addition to her eyes and lips,
+Dialogue: 0,0:15:19.16,0:15:28.04,Overlay text,,0,0,0,,{\pos(1155,1024)\fs60}Surgery Level
+Dialogue: 0,0:15:19.16,0:15:28.04,Overlay text,,0,0,0,,{\pos(484,1036)\fs40}Surgery Level
+Dialogue: 0,0:15:19.16,0:15:22.40,Overlay text,,0,0,0,,{\pos(1332,730)}Eye\Nbags
+Dialogue: 0,0:15:19.16,0:15:22.40,Overlay text,,0,0,0,,{\pos(1290,896)}Lips
+Dialogue: 1,0:15:22.17,0:15:26.17,CDefault,,0,0,0,,{\pos(720,898)}we've given her a prosthetic nose too
+Dialogue: 0,0:15:22.40,0:15:28.04,Overlay text,,0,0,0,,{\pos(1098,666)}Nose
+Dialogue: 1,0:15:28.01,0:15:31.01,Default,,0,0,0,,{\pos(255,898)}Come in, Nīyama Chiharu-san!
+Dialogue: 1,0:15:28.01,0:15:31.01,Default,,0,0,0,,{\pos(845,1018)}(Nīyama) Hello!
+Dialogue: 1,0:15:31.01,0:15:33.51,Default,,0,0,0,,{\pos(705,898)}We haven't met before
+Dialogue: 1,0:15:31.01,0:15:33.51,Default,,0,0,0,,{\pos(255,1018)}(Nīyama) Ah, that's right
+Dialogue: 1,0:15:33.51,0:15:35.51,Default,,0,0,0,,{\pos(985,898)}Hello
+Dialogue: 1,0:15:33.51,0:15:35.51,Default,,0,0,0,,{\pos(355,1018)}(Nīyama) Ah, hello
+Dialogue: 1,0:15:35.51,0:15:39.58,Default,,0,0,0,,{\pos(475,1018)}Nice to meet you. \NI'm looking forward to today
+Dialogue: 1,0:15:39.58,0:15:42.85,DefaultYellow,,0,0,0,,{\pos(385,298)}Yamauchi.. Ah, Hamaie's laughing. Stop!
+Dialogue: 1,0:15:42.85,0:15:44.86,Default,,0,0,0,,{\pos(855,298)}Hamaie-san
+Dialogue: 1,0:15:42.85,0:15:44.86,DefaultGreen,,0,0,0,,{\pos(885,418)}Stop it Hamaie
+Dialogue: 1,0:15:44.86,0:15:48.36,Default,,0,0,0,,{\pos(355,1018)}I'm so happy\NThat's right, we haven't met before
+Dialogue: 1,0:15:49.23,0:15:52.56,Overlay text,,0,0,0,,\hI come here fairly often\h
+Dialogue: 1,0:15:51.53,0:15:53.53,CDefault,,0,0,0,,{\pos(720,958)}(Yamauchi) Ah, we don't...
+Dialogue: 1,0:15:53.53,0:15:55.60,DefaultGreen,,0,0,0,,{\pos(475,298)}Hamaie's laughing, seriously
+Dialogue: 1,0:15:53.53,0:15:55.60,DefaultAqua,,0,0,0,,{\pos(775,418)}Hamaie has to stop
+Dialogue: 1,0:15:55.60,0:15:57.60,DefaultGreen,,0,0,0,,{\pos(835,298)}He can't do that
+Dialogue: 1,0:15:57.60,0:16:01.64,CDefault,,0,0,0,,{\pos(720,1018)}(Yamauchi) We weren't expecting it but \Nour first shoot was in Togoshi Ginza.
+Dialogue: 1,0:16:01.64,0:16:04.41,Overlay text,,0,0,0,,{\pos(720,1018)}Out of Tokyo's shopping streets...
+Dialogue: 0,0:16:04.64,0:16:06.48,Overlay text,,0,0,0,,He's become like Furuhata
+Dialogue: 0,0:16:04.64,0:16:06.48,CTLNote,,0,0,0,,{\pos(720,88)}TL Note: Musician Furuhata Ninzaburō poses like that
+Dialogue: 1,0:16:06.31,0:16:08.31,CDefault,,0,0,0,,{\pos(720,1018)}it's the shopping street we know best.
+Dialogue: 1,0:16:08.31,0:16:10.38,Default,,0,0,0,,{\pos(925,1018)}(Nīyama) Ah
+Dialogue: 1,0:16:11.25,0:16:14.62,Overlay text,,0,0,0,,Huh, Hamaie-san, are you okay? What happened?
+Dialogue: 0,0:16:13.12,0:16:14.62,COverlay text 2,,0,0,0,,I'm fine. Excuse me
+Dialogue: 1,0:16:10.38,0:16:12.38,DefaultGreen,,0,0,0,,{\pos(765,298)}Yamauchi's very good
+Dialogue: 1,0:16:10.38,0:16:12.38,DefaultYellow,,0,0,0,,{\pos(1055,418)}He is
+Dialogue: 1,0:16:12.38,0:16:14.39,DefaultAqua,,0,0,0,,{\pos(675,298)}
+Dialogue: 1,0:16:12.38,0:16:14.39,DefaultGreen,,0,0,0,,{\pos(915,418)}
+Dialogue: 1,0:16:14.62,0:16:18.39,Overlay text,,0,0,0,,Faced with this deadly weapon,
+Dialogue: 1,0:16:18.39,0:16:25.66,Overlay text,,0,0,0,,right from the start, Hamaie can't stop laughing
+Dialogue: 1,0:16:23.33,0:16:25.33,CDefault,,0,0,0,,{\pos(720,838)}And then...
+Dialogue: 1,0:16:25.66,0:16:28.50,Overlay text,,0,0,0,,There's a Korean restaurant nearby
+Dialogue: 1,0:16:28.67,0:16:32.17,Overlay text,,0,0,0,,The gomtang soup there is really good
+Dialogue: 1,0:16:32.17,0:16:34.51,Overlay text,,0,0,0,,What's "gomtang"?
+Dialogue: 0,0:16:33.44,0:16:34.51,COverlay text 2,,0,0,0,,I've heard of it
+Dialogue: 1,0:16:34.51,0:16:36.64,Overlay text,,0,0,0,,It's full of collagen
+Dialogue: 1,0:16:36.74,0:16:39.64,Overlay text,,0,0,0,,So it makes you plump and soft
+Dialogue: 1,0:16:39.74,0:16:43.01,Overlay text,,0,0,0,,You definitely seem plump
+Dialogue: 1,0:16:43.28,0:16:46.82,Overlay text,,0,0,0,,Really? Yesterday I had some actually
+Dialogue: 1,0:16:46.95,0:16:51.02,Overlay text,,0,0,0,,So if you eat that your skin fills up
+Dialogue: 0,0:16:49.65,0:16:51.02,COverlay text 2,,0,0,0,,Like jelly
+Dialogue: 1,0:16:51.02,0:16:56.03,Overlay text,,0,0,0,,Just like how Korean cosmetics contain capsaicin to make your lips swollen
+Dialogue: 1,0:16:56.29,0:16:59.96,Overlay text,,0,0,0,,They really are
+Dialogue: 0,0:16:57.09,0:16:59.96,COverlay text 2,,0,0,0,,Huh? I'm so happy. Is that a compliment?
+Dialogue: 1,0:17:01.03,0:17:03.40,Overlay text,,0,0,0,,{\pos(705.5464285714285,1042)}They're really plump
+Dialogue: 1,0:16:59.96,0:17:02.17,Default,,0,0,0,,{\pos(315,958)}(Nīyama) It's really popular now
+Dialogue: 1,0:17:03.63,0:17:08.07,Overlay text,,0,0,0,,Although he doesn't use\N the term 'plastic surgery'...
+Dialogue: 0,0:17:08.07,0:17:14.31,Overlay text,,0,0,0,,Yamauchi boldy mentions her lips
+Dialogue: 1,0:17:12.14,0:17:14.15,Default,,0,0,0,,{\pos(585,838)}And then...
+Dialogue: 1,0:17:14.61,0:17:18.08,Overlay text,,0,0,0,,Have you changed your makeup?
+Dialogue: 0,0:17:16.61,0:17:18.08,COverlay text 2,,0,0,0,,My makeup...
+Dialogue: 1,0:17:18.25,0:17:20.22,Overlay text,,0,0,0,,As I approached my 40s,
+Dialogue: 1,0:17:20.48,0:17:24.89,Overlay text,,0,0,0,,I've started using nothing but drug store makeup that doesn't cost a lot
+Dialogue: 1,0:17:24.89,0:17:28.09,Overlay text,,0,0,0,,thinking it'd be good to make a change
+Dialogue: 1,0:17:28.19,0:17:31.23,Overlay text,,0,0,0,,Today it's all drug store makeup
+Dialogue: 1,0:17:32.16,0:17:34.17,Default,,0,0,0,,{\pos(885,1018)}(Nīyama) Yes
+Dialogue: 1,0:17:33.93,0:17:36.23,Overlay text,,0,0,0,,Plump... They're so plump
+Dialogue: 1,0:17:36.23,0:17:43.27,Overlay text,,0,0,0,,Like, compared to how I remember you, they're so plump
+Dialogue: 1,0:17:40.84,0:17:42.84,CDefault,,0,0,0,,{\pos(720,958)}Ah, really?
+Dialogue: 1,0:17:43.34,0:17:45.44,Overlay text,,0,0,0,,The drug store
+Dialogue: 1,0:17:49.35,0:17:51.72,Overlay text,,0,0,0,,Yes, it's that good
+Dialogue: 1,0:17:48.85,0:17:52.85,DefaultGreen,,0,0,0,,{\pos(375,298)}Halfway through! There's no coffee left
+Dialogue: 1,0:17:51.72,0:17:56.82,Overlay text,,0,0,0,,It has to be something special to do that
+Dialogue: 1,0:17:57.35,0:18:01.89,Overlay text,,0,0,0,,Once again, Nīyama and the staff leave them alone
+Dialogue: 0,0:18:04.43,0:18:06.13,Overlay text,,0,0,0,,{\pos(345,786)}Her face is weird
+Dialogue: 0,0:18:06.13,0:18:10.63,Overlay text,,0,0,0,,{\pos(1210,904)}Manager
+Dialogue: 0,0:18:06.23,0:18:10.63,Overlay text,,0,0,0,,{\pos(736,622)}I almost made a joke about it
+Dialogue: 1,0:18:10.80,0:18:15.17,Overlay text,,0,0,0,,Thinking it was a joke where a fake person comes out
+Dialogue: 1,0:18:15.41,0:18:18.18,Overlay text,,0,0,0,,Like I was going to say "Who are you?"
+Dialogue: 1,0:18:18.28,0:18:21.68,Overlay text,,0,0,0,,I was about to say "you're fake, right"
+Dialogue: 1,0:18:21.68,0:18:23.31,Overlay text,,0,0,0,,That was really close
+Dialogue: 0,0:18:23.51,0:18:27.38,Overlay text,,0,0,0,,{\pos(636,622)}And can you stop with all that beauty talk?
+Dialogue: 1,0:18:27.85,0:18:31.06,Overlay text,,0,0,0,,Like how you were talking about how plump her lips are
+Dialogue: 0,0:18:31.29,0:18:34.33,Overlay text,,0,0,0,,{\pos(628,676)}Well there are people who like that kind of thing
+Dialogue: 0,0:18:32.92,0:18:34.33,Overlay text,,0,0,0,,{\pos(663,582)}I guess so, sure
+Dialogue: 1,0:18:34.56,0:18:39.70,Overlay text,,0,0,0,,Fat lips must be fashionable
+Dialogue: 1,0:18:39.93,0:18:41.67,Overlay text,,0,0,0,,Although...
+Dialogue: 1,0:18:41.67,0:18:46.60,Overlay text,,0,0,0,,Nīyama Chiharu-san probably thinks it's a good idea
+Dialogue: 0,0:18:45.70,0:18:46.60,Overlay text,,0,0,0,,{\pos(987,894)}Manager) Probably
+Dialogue: 1,0:18:46.84,0:18:51.14,Overlay text,,0,0,0,,So we shouldn't really worry about it
+Dialogue: 1,0:18:51.14,0:18:56.87,Overlay text,,0,0,0,,Kamaichi say if she's okay with it, \Nthe outside world shouldn't complain
+Dialogue: 0,0:18:56.87,0:18:58.87,Overlay text,,0,0,0,,However...
+Dialogue: 0,0:18:59.62,0:19:03.19,Overlay text,,0,0,0,,{\pos(880,704)}Were you popular? In your schooldays
+Dialogue: 0,0:19:01.79,0:19:03.19,Overlay text,,0,0,0,,{\pos(273,792)}In school but also...
+Dialogue: 1,0:19:03.39,0:19:09.26,Overlay text,,0,0,0,,Recently men have been checking me out even more than back then
+Dialogue: 1,0:19:09.26,0:19:10.83,Overlay text,,0,0,0,,I think
+Dialogue: 1,0:19:10.83,0:19:13.86,Overlay text,,0,0,0,,Wow! This is going to give my skin a boost
+Dialogue: 1,0:19:13.86,0:19:16.37,Overlay text,,0,0,0,,It's boosted plenty already
+Dialogue: 0,0:19:16.37,0:19:16.87,Overlay text,,0,0,0,,Yeah
+Dialogue: 0,0:19:15.40,0:19:16.87,COverlay text 2,,0,0,0,,It is?
+Dialogue: 1,0:19:17.27,0:19:20.84,Overlay text,,0,0,0,,Isn't it already the best already now?
+Dialogue: 1,0:19:20.97,0:19:23.01,Overlay text,,0,0,0,,It's good now?
+Dialogue: 1,0:19:23.24,0:19:24.94,Overlay text,,0,0,0,,It's not good to boost it too much
+Dialogue: 1,0:19:25.04,0:19:26.58,Overlay text,,0,0,0,,Now's already enough
+Dialogue: 1,0:19:26.58,0:19:31.65,Overlay text,,0,0,0,,If you become even more attractive than this,\N everyone will look at you too much
+Dialogue: 1,0:19:31.65,0:19:33.02,Overlay text,,0,0,0,,So now's a good time to stop
+Dialogue: 1,0:19:33.35,0:19:34.75,Overlay text,,0,0,0,,Really?
+Dialogue: 1,0:19:34.85,0:19:39.12,Overlay text,,0,0,0,,Seriously, right now, this is enough
+Dialogue: 1,0:19:39.12,0:19:41.33,Overlay text,,0,0,0,,You're beautiful
+Dialogue: 1,0:19:39.56,0:19:41.56,CDefault,,0,0,0,,{\pos(720,958)}(Nīyama) Really?
+Dialogue: 1,0:19:41.93,0:19:50.07,Overlay text,,0,0,0,,"You shouldn't get more surgery", they tell her in a roundabout way
+Dialogue: 1,0:19:50.53,0:19:53.27,Overlay text,,0,0,0,,Is she trying to get them even puffier?
+Dialogue: 1,0:19:53.27,0:19:54.97,Overlay text,,0,0,0,,It seems so
+Dialogue: 0,0:19:56.37,0:19:58.54,Overlay text,,0,0,0,,{\pos(435,640)}She's had her lips done
+Dialogue: 1,0:19:57.91,0:19:59.91,Default,,0,0,0,,{\pos(765,1018)}Ah, definitely
+Dialogue: 0,0:20:00.04,0:20:01.81,Overlay text,,0,0,0,,{\pos(766,416)}She's totally different
+Dialogue: 1,0:20:02.08,0:20:04.38,Overlay text,,0,0,0,,Her nose's different too
+Dialogue: 1,0:20:04.38,0:20:06.28,Overlay text,,0,0,0,,Now I look at it, it seems so
+Dialogue: 1,0:20:06.58,0:20:09.59,Overlay text,,0,0,0,,Horipro will have to stop her, right?
+Dialogue: 1,0:20:06.58,0:20:09.59,CTLNote,,0,0,0,,{\pos(720,82)}TL Note: Talent agency
+Dialogue: 1,0:20:09.79,0:20:14.59,Overlay text,,0,0,0,,Ah but she herself said she's good now
+Dialogue: 0,0:20:12.76,0:20:14.59,COverlay text 2,,0,0,0,,She did. Because...
+Dialogue: 1,0:20:14.59,0:20:18.46,Overlay text,,0,0,0,,It's like manzai. Sometimes you end up having no idea what's going on
+Dialogue: 0,0:20:18.56,0:20:22.03,Overlay text,,0,0,0,,{\pos(505,616)}You try to keep fixing it
+Dialogue: 0,0:20:20.06,0:20:22.03,Overlay text,,0,0,0,,{\pos(822,430)}And it stops being funny
+Dialogue: 1,0:20:22.23,0:20:27.77,Overlay text,,0,0,0,,So you fix it and fix it and you don't know what's funny anymore
+Dialogue: 1,0:20:27.94,0:20:31.44,Overlay text,,0,0,0,,One month before M-1?
+Dialogue: 0,0:20:30.57,0:20:33.11,COverlay text 2,,0,0,0,,Around then
+Dialogue: 1,0:20:31.44,0:20:33.11,Overlay text,,0,0,0,,That time?
+Dialogue: 1,0:20:33.11,0:20:34.98,Overlay text,,0,0,0,,We fixed it too much and didn't know
+Dialogue: 1,0:20:34.98,0:20:38.35,Overlay text,,0,0,0,,Nīyama-san's now a month before M-1
+Dialogue: 0,0:20:38.55,0:20:46.06,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:20:46.16,0:20:47.83,Overlay text,,0,0,0,,Staff) Good work
+Dialogue: 1,0:20:47.83,0:20:49.89,Overlay text,,0,0,0,,Ah, the lips
+Dialogue: 1,0:20:49.89,0:20:51.60,Overlay text,,0,0,0,,It has to be the lips
+Dialogue: 1,0:20:51.76,0:20:55.77,Overlay text,,0,0,0,,Not just them. Everything, right?
+Dialogue: 0,0:20:56.07,0:20:58.54,Overlay text,,0,0,0,,You're the Wednesday people, aren't you?
+Dialogue: 1,0:20:58.77,0:21:00.00,Overlay text,,0,0,0,,Staff) Are you sure?
+Dialogue: 1,0:21:00.00,0:21:02.14,Overlay text,,0,0,0,,It definitely feels like it
+Dialogue: 1,0:21:02.14,0:21:04.31,Overlay text,,0,0,0,,Staff) What do you think the theory is?
+Dialogue: 1,0:21:04.88,0:21:11.68,Overlay text,,0,0,0,,"Nīyama Chiharu's had surgery"
+Dialogue: 0,0:21:09.65,0:21:11.68,COverlay text 2,,0,0,0,,It wouldn't be so simple
+Dialogue: 1,0:21:11.85,0:21:16.92,Overlay text,,0,0,0,,As before, Nīyama explains the theory
+Dialogue: 0,0:21:17.42,0:21:23.83,Overlay text,,0,0,0,,Theory: If a female celebrity you haven't seen for a long time has had loads of plastic surgery, it's hard to point it out
+Dialogue: 0,0:21:24.40,0:21:25.36,Overlay text,,0,0,0,,{\pos(1135,780)}It is
+Dialogue: 0,0:21:25.36,0:21:27.73,Overlay text,,0,0,0,,{\pos(408,722)}But that's not a theory
+Dialogue: 0,0:21:26.53,0:21:27.73,Overlay text,,0,0,0,,{\pos(1134,780)}That's hard to do
+Dialogue: 1,0:21:27.73,0:21:30.03,Overlay text,,0,0,0,,You knew before investigating, surely
+Dialogue: 1,0:21:30.03,0:21:32.70,Overlay text,,0,0,0,,We're not going to say "You've had surgery!"
+Dialogue: 1,0:21:32.80,0:21:35.44,Overlay text,,0,0,0,,Only an outsider would say such a thing
+Dialogue: 1,0:21:35.44,0:21:42.28,Overlay text,,0,0,0,,So, the result is:\NPeople are free to have surgery and it's not something to point out
+Dialogue: 1,0:21:42.45,0:21:44.88,DefaultYellow,,0,0,0,,{\pos(255,898)}Wow, amazing
+Dialogue: 1,0:21:42.45,0:21:44.88,Default,,0,0,0,,{\pos(815,1018)}(Ogi) Great
+Dialogue: 1,0:21:44.88,0:21:47.55,DefaultAqua,,0,0,0,,{\pos(615,778)}Well...
+Dialogue: 0,0:21:45.75,0:21:47.69,Overlay text,,0,0,0,,It was done perfectly
+Dialogue: 1,0:21:47.55,0:21:50.05,DefaultGreen,,0,0,0,,{\pos(315,1018)}Right?\N\NAnd it looked so good too
+Dialogue: 1,0:21:50.05,0:21:52.06,DefaultGreen,,0,0,0,,{\pos(615,898)}The surgery
+Dialogue: 1,0:21:50.05,0:21:52.06,Default,,0,0,0,,{\pos(285,1018)}Yeah
+Dialogue: 1,0:21:52.06,0:21:54.56,Default,,0,0,0,,{\pos(315,778)}And Anzai Hiroko-san...
+Dialogue: 0,0:21:53.19,0:21:54.69,Overlay text,,0,0,0,,What an excellent choice
+Dialogue: 1,0:21:54.56,0:21:56.56,Default,,0,0,0,,{\pos(405,1018)}Really,\Nit seemed so plausible
+Dialogue: 1,0:21:56.56,0:21:59.40,Default,,0,0,0,,{\pos(405,1018)}Like if Anzai Hiroko-san\Ndid have surgery...
+Dialogue: 1,0:21:59.40,0:22:01.83,DefaultGreen,,0,0,0,,{\pos(465,1018)}"That'd be her face"\Nif she were to get surgery
+Dialogue: 1,0:22:01.83,0:22:04.84,DefaultYellow,,0,0,0,,{\pos(255,898)}Daian laughed the most, right?
+Dialogue: 1,0:22:01.83,0:22:04.84,Default,,0,0,0,,{\pos(815,1018)}That was terrible
+Dialogue: 1,0:22:04.84,0:22:06.84,DefaultGreen,,0,0,0,,{\pos(375,898)}Right
+Dialogue: 1,0:22:04.84,0:22:06.84,DefaultAqua,,0,0,0,,{\pos(555,1018)}Tsuda was so bad
+Dialogue: 1,0:22:06.84,0:22:10.51,CDefaultGreen,,0,0,0,,{\pos(720,1018)}Tsuda was, really.\NAnd the inside of his mouth...
+Dialogue: 1,0:22:10.51,0:22:13.01,CDefaultGreen,,0,0,0,,{\pos(720,1018)}Even though it was full, \Nhe burst out laughing
+Dialogue: 1,0:22:13.01,0:22:16.01,DefaultGreen,,0,0,0,,{\pos(435,1018)}You could see everything inside
+Dialogue: 1,0:22:16.01,0:22:18.08,DefaultGreen,,0,0,0,,{\pos(435,1018)}He went that far\Ndespite being on camera
+Dialogue: 1,0:22:18.08,0:22:22.29,DefaultAqua,,0,0,0,,{\pos(315,778)}If we were to progress it a bit further...
+Dialogue: 0,0:22:21.15,0:22:23.52,Overlay text,,0,0,0,,We could give them 3 nostrils
+Dialogue: 1,0:22:23.52,0:22:27.42,DefaultAqua,,0,0,0,,{\pos(355,898)}Like what would people do then?
+Dialogue: 1,0:22:23.52,0:22:27.42,Default,,0,0,0,,{\pos(255,1018)}They'd probably say in that case
+Dialogue: 1,0:22:27.49,0:22:29.26,Overlay text,,0,0,0,,They'd say something
+Dialogue: 1,0:22:28.36,0:22:30.86,CDefault,,0,0,0,,{\pos(720,658)}(Ogi) They'd say something
+Dialogue: 1,0:22:28.36,0:22:30.86,CDefaultYellow,,0,0,0,,{\pos(720,778)}They would
+Dialogue: 1,0:22:30.86,0:22:33.86,DefaultAqua,,0,0,0,,{\pos(395,898)}What would they say?
+Dialogue: 1,0:22:30.86,0:22:33.86,DefaultYellow,,0,0,0,,{\pos(865,1018)}Well...
+Dialogue: 1,0:22:34.40,0:22:34.77,LOverlay text,,0,0,0,,{\pos(443,1042)}Huh...
+Dialogue: 1,0:22:34.77,0:22:37.03,LOverlay text,,0,0,0,,{\pos(443,1042)}Huh... What happened?
+Dialogue: 1,0:22:38.87,0:22:41.67,CDefaultYellow,,0,0,0,,{\pos(720,1018)}Here's our next presenters.\NCome in!
+Dialogue: 1,0:22:46.21,0:22:48.88,CDefaultYellow,,0,0,0,,{\pos(720,778)}Yes, it's Shizzle!
+Dialogue: 0,0:22:47.34,0:22:51.22,Overlay text,,0,0,0,,Presenters:\NIkeda Kazuma / Murakami Jun\N(Shizzle)
+Dialogue: 1,0:22:48.88,0:22:51.38,DefaultGreen,,0,0,0,,{\pos(615,778)}Thank you, hello.\NWe're Shizzle!
+Dialogue: 1,0:22:51.38,0:22:53.45,DefaultAqua,,0,0,0,,{\pos(435,1018)}Long time no see, Shizzle
+Dialogue: 1,0:22:53.45,0:22:56.85,DefaultGreen,,0,0,0,,{\pos(255,778)}For our segment today,\Neveryone...
+Dialogue: 1,0:22:55.55,0:23:00.19,Overlay text,,0,0,0,,Do you eat the bentos in the green room?
+Dialogue: 1,0:22:58.46,0:23:00.39,Default,,0,0,0,,{\pos(525,658)}Yes
+Dialogue: 1,0:22:58.46,0:23:00.39,Default,,0,0,0,,{\pos(855,778)}Yes
+Dialogue: 1,0:23:00.39,0:23:02.39,DefaultAqua,,0,0,0,,{\pos(485,898)}Yeah, I do
+Dialogue: 1,0:23:00.39,0:23:02.39,DefaultYellow,,0,0,0,,{\pos(775,1018)}I do sometimes
+Dialogue: 1,0:23:02.39,0:23:06.16,CDefaultGreen,,0,0,0,,{\pos(720,778)}And Hori-san,\Nhow about...
+Dialogue: 0,0:23:05.03,0:23:08.13,Overlay text,,0,0,0,,Taking a bento from there home?
+Dialogue: 1,0:23:06.16,0:23:08.17,Default,,0,0,0,,{\pos(885,598)}Yes, I do
+Dialogue: 1,0:23:06.16,0:23:08.17,DefaultGreen,,0,0,0,,{\pos(285,718)}Really?!
+Dialogue: 1,0:23:08.17,0:23:10.17,Default,,0,0,0,,{\pos(355,1018)}Ah, really?
+Dialogue: 1,0:23:10.17,0:23:12.24,Default,,0,0,0,,{\pos(525,898)}Three meals a day isn't enough so...
+Dialogue: 1,0:23:10.17,0:23:12.24,Default,,0,0,0,,{\pos(255,1018)}Huh?
+Dialogue: 1,0:23:12.24,0:23:14.74,Default,,0,0,0,,{\pos(645,898)}I eat about 5 or 6
+Dialogue: 1,0:23:12.24,0:23:14.74,Default,,0,0,0,,{\pos(255,1018)}Huh?!
+Dialogue: 0,0:23:15.37,0:23:18.58,Overlay text,,0,0,0,,Just like Rickson Gracie
+Dialogue: 1,0:23:16.51,0:23:18.51,Default,,0,0,0,,{\pos(355,718)}Oh, really?
+Dialogue: 1,0:23:18.51,0:23:21.58,Default,,0,0,0,,{\pos(585,898)}Can you do that cool breathing?
+Dialogue: 1,0:23:18.51,0:23:21.58,Default,,0,0,0,,{\pos(1005,1018)}Breathing?
+Dialogue: 1,0:23:21.58,0:23:23.58,Default,,0,0,0,,{\pos(585,898)}(Ogi) Rickson's breathing
+Dialogue: 1,0:23:21.58,0:23:23.58,DefaultYellow,,0,0,0,,{\pos(585,1018)}She can't
+Dialogue: 1,0:23:23.58,0:23:26.02,DefaultGreen,,0,0,0,,{\pos(285,418)}She probably doesn't know who he is\N\N\h
+Dialogue: 1,0:23:26.02,0:23:28.85,DefaultYellow,,0,0,0,,{\pos(315,898)}Ogi, do you take them home?
+Dialogue: 1,0:23:26.02,0:23:28.85,Default,,0,0,0,,{\pos(415,1018)}I definitely don't take them home
+Dialogue: 1,0:23:28.85,0:23:31.19,Default,,0,0,0,,{\pos(345,598)}Definitely?
+Dialogue: 1,0:23:28.85,0:23:31.19,Default,,0,0,0,,{\pos(915,718)}Definitely
+Dialogue: 0,0:23:30.65,0:23:34.46,Overlay text,,0,0,0,,It's just embarrassing
+Dialogue: 1,0:23:31.19,0:23:34.19,CDefault,,0,0,0,,{\pos(720,718)}First of all, the act of taking one \Nhome is embarassing
+Dialogue: 1,0:23:34.19,0:23:36.19,CDefaultGreen,,0,0,0,,{\pos(620,898)}It's not embarrassing
+Dialogue: 1,0:23:34.19,0:23:36.19,CDefaultAqua,,0,0,0,,{\pos(720,1018)}Such a simple reason
+Dialogue: 1,0:23:36.19,0:23:38.20,CDefault,,0,0,0,,{\pos(720,1018)}But it's unseemly,\Ncarrying it around
+Dialogue: 1,0:23:38.20,0:23:40.20,CDefaultAqua,,0,0,0,,{\pos(720,1018)}Well, sure. Put it in a bag
+Dialogue: 1,0:23:40.20,0:23:42.20,CDefault,,0,0,0,,{\pos(720,1018)}And I don't think of them\Nas being left over
+Dialogue: 1,0:23:42.20,0:23:46.07,Overlay text,,0,0,0,,I think of them as being for the crew
+Dialogue: 1,0:23:44.20,0:23:46.20,Default,,0,0,0,,{\pos(255,598)}
+Dialogue: 1,0:23:44.20,0:23:46.20,DefaultGreen,,0,0,0,,{\pos(985,718)}Fantastic
+Dialogue: 1,0:23:46.20,0:23:48.21,CDefault,,0,0,0,,{\pos(720,1018)}So taking them is wrong
+Dialogue: 1,0:23:48.21,0:23:50.21,DefaultYellow,,0,0,0,,{\pos(985,898)}I see
+Dialogue: 1,0:23:48.21,0:23:50.21,DefaultGreen,,0,0,0,,{\pos(315,1018)}Today,
+Dialogue: 1,0:23:50.21,0:23:52.71,DefaultGreen,,0,0,0,,{\pos(255,1018)}we bring you a theory\Nrelated to those bentos
+Dialogue: 1,0:23:52.71,0:23:54.71,Default,,0,0,0,,{\pos(365,898)}Yes!
+Dialogue: 1,0:23:52.71,0:23:54.71,DefaultGreen,,0,0,0,,{\pos(865,1018)}Here it is
+Dialogue: 0,0:23:53.81,0:23:59.78,COverlay text,,0,0,0,,{\pos(720,788)}Unsuccessful Comedian Competition:\NThe battle to decide the King of the Taking Bentos from Backstage Home
+Dialogue: 1,0:23:57.71,0:23:59.72,CDefault,,0,0,0,,{\pos(720,1018)}(Ōkubo) Oh no!
+Dialogue: 1,0:23:59.72,0:24:02.65,Default,,0,0,0,,{\pos(765,898)}Oh, sounds funny
+Dialogue: 1,0:23:59.72,0:24:02.65,Default,,0,0,0,,{\pos(285,1018)}I don't like this
+Dialogue: 1,0:24:02.65,0:24:05.66,DefaultGreen,,0,0,0,,{\pos(615,1018)}You know, young comedians \Nwith no money
+Dialogue: 1,0:24:05.66,0:24:08.16,DefaultGreen,,0,0,0,,{\pos(615,1018)}will surely take home\Nnot just 1 or 2
+Dialogue: 1,0:24:08.16,0:24:10.16,DefaultGreen,,0,0,0,,{\pos(635,898)}but a large amount of bentos
+Dialogue: 1,0:24:08.16,0:24:10.16,Default,,0,0,0,,{\pos(335,1018)}I see
+Dialogue: 1,0:24:10.16,0:24:12.16,CDefaultGreen,,0,0,0,,{\pos(720,1018)}There's a tendency, yes
+Dialogue: 1,0:24:12.16,0:24:14.23,CDefaultGreen,,0,0,0,,{\pos(720,1018)}Today we'll find out who's the best at it
+Dialogue: 1,0:24:14.23,0:24:16.23,CDefaultYellow,,0,0,0,,{\pos(720,1018)}By the way, what about you?
+Dialogue: 1,0:24:14.23,0:24:16.23,DefaultGreen,,0,0,0,,{\pos(315,1018)}
+Dialogue: 1,0:24:16.23,0:24:18.84,DefaultGreen,,0,0,0,,{\pos(645,898)}The truth is, Ikeda here...
+Dialogue: 1,0:24:16.23,0:24:18.84,Default,,0,0,0,,{\pos(365,1018)}Yes
+Dialogue: 1,0:24:18.84,0:24:21.17,DefaultGreen,,0,0,0,,{\pos(315,898)}has a bit of a habit of taking them home
+Dialogue: 1,0:24:18.84,0:24:21.17,DefaultAqua,,0,0,0,,{\pos(355,1018)}You?
+Dialogue: 1,0:24:21.17,0:24:23.17,CDefault,,0,0,0,,{\pos(720,1018)}Yes. Well, however...
+Dialogue: 1,0:24:23.17,0:24:26.74,Overlay text,,0,0,0,,I've only found out now that this is an "unsuccessful comedian battle"
+Dialogue: 1,0:24:25.24,0:24:28.01,CDefaultAqua,,0,0,0,,{\pos(720,838)}Ah, they got you, did they?
+Dialogue: 1,0:24:28.01,0:24:30.01,CDefault,,0,0,0,,{\pos(720,1018)}I'd understand if it were "not successful"
+Dialogue: 1,0:24:30.01,0:24:33.35,Default,,0,0,0,,{\pos(315,718)}but "unsuccessful" is a bit...
+Dialogue: 1,0:24:31.78,0:24:35.45,Overlay text,,0,0,0,,It's like "in the future too"
+Dialogue: 1,0:24:33.35,0:24:35.35,CDefault,,0,0,0,,{\pos(720,598)}This is the first I've seen of it
+Dialogue: 1,0:24:33.35,0:24:35.35,DefaultGreen,,0,0,0,,{\pos(915,718)}It's true
+Dialogue: 0,0:24:35.79,0:24:42.13,Overlay text,,0,0,0,,Unsuccessful Comedian Competition:\NThe battle to decide the King of the Taking Bentos from Backstage Home
+Dialogue: 1,0:24:42.13,0:24:48.37,Overlay text,,0,0,0,,For this, we surveyed comedians and managers from each office
+Dialogue: 1,0:24:48.37,0:24:55.54,Overlay text,,0,0,0,,to find comedians with a habit of taking bentos home. Of those with the most votes, 7 have been entered into the competition
+Dialogue: 1,0:24:55.54,0:24:58.44,CDefault,,0,0,0,,{\pos(720,1018)}The first is...
+Dialogue: 0,0:24:59.18,0:25:00.98,Overlay text,,0,0,0,,{\pos(420,468)}Hey
+Dialogue: 0,0:24:59.84,0:25:00.98,Overlay text,,0,0,0,,{\pos(804,534)}Hi
+Dialogue: 0,0:25:01.31,0:25:03.65,LOverlay text,,0,0,0,,{\pos(513,1030)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&}Shizzle\N{\fs100}Ikeda Kazuma
+Dialogue: 0,0:25:03.65,0:25:12.49,LOverlay text,,0,0,0,,{\pos(117,668)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&}Shizzle\N{\fs75}Murakami Jun
+Dialogue: 1,0:25:03.91,0:25:11.05,Overlay text,,0,0,0,,I've never seen him not take catering or bentos home so...
+Dialogue: 1,0:25:11.05,0:25:12.46,Overlay text,,0,0,0,,In 18 years
+Dialogue: 1,0:25:12.32,0:25:16.33,CDefault,,0,0,0,,{\pos(720,1018)}As soon as Ikeda enters the green room...
+Dialogue: 0,0:25:16.86,0:25:19.56,Overlay text,,0,0,0,,{\pos(831,596)}Hey, wait a moment. What's this?
+Dialogue: 0,0:25:19.56,0:25:21.20,Overlay text,,0,0,0,,{\pos(828,596)}Huh, what's all this?
+Dialogue: 0,0:25:22.00,0:25:23.67,Overlay text,,0,0,0,,{\pos(838,596)}There are bentos
+Dialogue: 1,0:25:24.67,0:25:28.87,Overlay text,,0,0,0,,Don't you wish they'd told us?
+Dialogue: 1,0:25:28.87,0:25:32.68,Overlay text,,0,0,0,,I ate before coming here, unfortunately
+Dialogue: 0,0:25:30.54,0:25:32.68,COverlay text 2,,0,0,0,,They don't usually but still...
+Dialogue: 1,0:25:32.68,0:25:38.35,CDefault,,0,0,0,,{\pos(720,1018)}Today, we've invited the comedians to a fake segment in\Nthe show "Dream East-West Gag Battle"
+Dialogue: 1,0:25:38.35,0:25:43.75,Overlay text,,0,0,0,,and prepared this room as green room for the VTR material
+Dialogue: 1,0:25:43.75,0:25:48.19,Default,,0,0,0,,{\pos(435,838)}Because it's a large-scale special program,\Nthe bentos are numerous and luxurious
+Dialogue: 0,0:25:44.02,0:25:50.36,Overlay text,,0,0,0,,{\pos(790,994)\fs50}Origin Bento
+Dialogue: 0,0:25:44.02,0:25:50.36,Overlay text,,0,0,0,,{\pos(1236,420)\fs50}Tsutaya
+Dialogue: 0,0:25:44.02,0:25:50.36,Overlay text,,0,0,0,,{\pos(898,352)\fs50}Torikyū
+Dialogue: 0,0:25:44.02,0:25:50.36,Overlay text,,0,0,0,,{\pos(633,218)\fs50}Maisen\NSandwich
+Dialogue: 0,0:25:44.02,0:25:50.36,Overlay text,,0,0,0,,{\pos(294,850)\fs50}Maisen\NMini burger
+Dialogue: 1,0:25:48.19,0:25:50.19,Default,,0,0,0,,{\pos(555,838)}Furthermore...
+Dialogue: 0,0:25:50.93,0:25:52.70,Overlay text,,0,0,0,,{\pos(804,558)}Oh, it's just us?
+Dialogue: 1,0:25:53.06,0:25:57.53,Overlay text,,0,0,0,,We're last so it seems people were taking turns in here
+Dialogue: 0,0:25:56.20,0:25:57.53,COverlay text 2,,0,0,0,,Ah, really?
+Dialogue: 1,0:25:57.53,0:26:04.14,Overlay text,,0,0,0,,Yes, this is a green room that comedians shooting material take turns using
+Dialogue: 1,0:26:04.31,0:26:07.64,CDefault,,0,0,0,,{\pos(720,1018)}And they're the last ones
+Dialogue: 0,0:26:06.81,0:26:11.65,Overlay text,,0,0,0,,{\pos(732,564)}Shizzle
+Dialogue: 0,0:26:06.81,0:26:11.65,Overlay text,,0,0,0,,{\pos(736,416)}TEAM Kondō
+Dialogue: 0,0:26:06.81,0:26:11.65,Overlay text,,0,0,0,,{\pos(732,258)}G Takashi
+Dialogue: 0,0:26:06.81,0:26:11.65,COverlay text,,0,0,0,,{\pos(720,116)}Shiomariachi
+Dialogue: 1,0:26:07.64,0:26:11.48,CDefault,,0,0,0,,{\pos(720,1018)}Perfect conditions for taking bentos home
+Dialogue: 1,0:26:11.48,0:26:14.38,CDefault,,0,0,0,,{\pos(720,1018)}At this point, Ikeda...
+Dialogue: 0,0:26:15.29,0:26:18.49,Overlay text,,0,0,0,,{\pos(447,798)}Do you have something like a bag...
+Dialogue: 0,0:26:18.49,0:26:20.79,Overlay text,,0,0,0,,{\pos(346,798)}Ah, is it alright?
+Dialogue: 0,0:26:20.79,0:26:22.33,Overlay text,,0,0,0,,{\pos(446,798)}Sorry to trouble you, thank you
+Dialogue: 1,0:26:17.49,0:26:20.49,Default,,0,0,0,,{\pos(345,658)}(Staff) One moment, yes
+Dialogue: 1,0:26:22.56,0:26:26.33,Overlay text,,0,0,0,,{\pos(373,798)}He orders a bag \Nfrom the program staff
+Dialogue: 1,0:26:26.53,0:26:29.43,Overlay text,,0,0,0,,It's that...
+Dialogue: 1,0:26:25.50,0:26:28.50,Default,,0,0,0,,{\pos(481,314)}A bag? They're not even free anymore
+Dialogue: 1,0:26:29.43,0:26:32.87,Overlay text,,0,0,0,,I came here with a small bag
+Dialogue: 1,0:26:34.07,0:26:37.37,Overlay text,,0,0,0,,I can't fit so much. What should I do?
+Dialogue: 0,0:26:37.64,0:26:41.58,Overlay text,,0,0,0,,{\pos(718,598)}Huh, what's this? It's so good
+Dialogue: 0,0:26:41.58,0:26:46.52,Overlay text,,0,0,0,,{\pos(733,614)}It's because it's a new year special
+Dialogue: 0,0:26:44.05,0:26:46.52,Overlay text,,0,0,0,,{\pos(646,516)}Great. So that's why?
+Dialogue: 1,0:26:46.52,0:26:49.35,CDefault,,0,0,0,,{\pos(720,1018)}Then...
+Dialogue: 1,0:26:49.35,0:26:53.36,CDefaultGreen,,0,0,0,,{\pos(920,898)}Better than Messi?
+Dialogue: 1,0:26:49.35,0:26:53.36,Default,,0,0,0,,{\pos(255,1018)}What... ...dding ...ally
+Dialogue: 0,0:26:49.35,0:26:55.26,CTLNote,,0,0,0,,{\pos(720,92)}TL Note: He's only saying some of the words
+Dialogue: 1,0:26:53.36,0:26:55.36,Default,,0,0,0,,{\pos(345,1018)}What... kidd...
+Dialogue: 0,0:26:55.73,0:26:57.23,Overlay text,,0,0,0,,{\pos(412,480)}Thank you very much
+Dialogue: 1,0:26:57.36,0:27:00.80,CDefault,,0,0,0,,{\pos(720,1018)}After they've finished shooting material...
+Dialogue: 1,0:27:00.80,0:27:04.30,CDefault,,0,0,0,,{\pos(720,1018)}Murakami leaves the green room first
+Dialogue: 1,0:27:05.07,0:27:08.07,Overlay text,,0,0,0,,and starts monitoring in another room
+Dialogue: 1,0:27:08.31,0:27:10.31,CDefault,,0,0,0,,{\pos(720,1018)}Then...
+Dialogue: 1,0:27:10.31,0:27:12.31,DefaultAqua,,0,0,0,,{\pos(455,298)}He's standing there so much
+Dialogue: 1,0:27:12.31,0:27:14.31,DefaultYellow,,0,0,0,,{\pos(445,298)}He keeps looking and looking
+Dialogue: 1,0:27:14.31,0:27:16.38,Default,,0,0,0,,{\pos(635,298)}Because he's alone
+Dialogue: 1,0:27:16.38,0:27:19.38,DefaultAqua,,0,0,0,,{\pos(475,298)}Oh, he's stacking them up
+Dialogue: 1,0:27:16.38,0:27:19.38,DefaultYellow,,0,0,0,,{\pos(675,418)}He's already taken 2
+Dialogue: 1,0:27:19.38,0:27:24.86,Default,,0,0,0,,{\pos(255,1018)}First he secures 2 of the \Npopular Torikyū bentos
+Dialogue: 0,0:27:19.98,0:27:26.52,Small,,0,0,0,,{\pos(922,790)\fs26}Torikyū (Special Bento)
+Dialogue: 0,0:27:19.98,0:27:26.52,Small,,0,0,0,,{\pos(1172,790)\fs26}Torikyū (Karaage Bento)
+Dialogue: 1,0:27:26.66,0:27:28.73,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 1,0:27:28.73,0:27:32.53,CDefault,,0,0,0,,{\pos(720,1018)}he puts that bag in his rucksack
+Dialogue: 1,0:27:35.30,0:27:36.70,Overlay text,,0,0,0,,He travels by motorbike
+Dialogue: 1,0:27:36.70,0:27:39.37,Overlay text,,0,0,0,,Right now he's planning, in his head
+Dialogue: 1,0:27:39.44,0:27:44.51,Overlay text,,0,0,0,,So Ikeda can't carry things in his hands
+Dialogue: 1,0:27:44.51,0:27:46.71,CDefault,,0,0,0,,{\pos(720,1018)}Next...
+Dialogue: 1,0:27:54.02,0:27:56.52,Default,,0,0,0,,{\pos(415,1018)}4 Maisen
+Dialogue: 0,0:27:54.08,0:27:59.62,CSmall,,0,0,0,,{\pos(1032,790)}Maisen \N(shrimp cutlet sandwich)
+Dialogue: 0,0:27:54.08,0:27:59.62,CSmall,,0,0,0,,{\pos(1282,790)}Maisen \N(pork fillet cutlet sandwich)
+Dialogue: 1,0:27:57.52,0:27:59.52,Default,,0,0,0,,{\pos(445,1018)}and then...
+Dialogue: 1,0:28:02.53,0:28:04.53,Default,,0,0,0,,{\pos(315,1018)}another 2 Torikyū
+Dialogue: 0,0:28:02.53,0:28:05.13,Small,,0,0,0,,{\pos(922,790)\fs26}Torikyū (Special Bento)
+Dialogue: 0,0:28:02.53,0:28:05.13,Small,,0,0,0,,{\pos(1172,790)\fs26}Torikyū (Karaage Bento)
+Dialogue: 1,0:28:04.53,0:28:06.73,DefaultAqua,,0,0,0,,{\pos(505,298)}Woah... This is offensive
+Dialogue: 0,0:28:11.30,0:28:11.80,Overlay text,,0,0,0,,{\pos(798,488)}*tuts*
+Dialogue: 1,0:28:11.90,0:28:15.01,Overlay text,,0,0,0,,He tutted! What was it for? What?
+Dialogue: 1,0:28:15.01,0:28:16.14,Overlay text,,0,0,0,,"It doesn't fit"
+Dialogue: 0,0:28:16.37,0:28:21.81,CSmall,,0,0,0,,{\pos(211,809)}Prices are based on our research
+Dialogue: 0,0:28:16.47,0:28:21.81,CSmall,,0,0,0,,{\pos(129.429,850.286)}Jagarico (chips)
+Dialogue: 0,0:28:16.47,0:28:21.81,CSmall,,0,0,0,,{\pos(319.429,850.286)}Choco pie
+Dialogue: 0,0:28:18.88,0:28:21.81,CSmall,,0,0,0,,{\pos(509.429,850.286)}Cup ramen
+Dialogue: 0,0:28:18.88,0:28:21.81,CSmall,,0,0,0,,{\pos(699.429,850.286)}Cup soup
+Dialogue: 0,0:28:18.88,0:28:21.81,CSmall,,0,0,0,,{\pos(889.429,850.286)}Cup ramen
+Dialogue: 1,0:28:16.04,0:28:21.71,Default,,0,0,0,,{\pos(345,718)}He then fills the empty space\Nwith snacks and cup ramen
+Dialogue: 1,0:28:24.38,0:28:28.39,CDefault,,0,0,0,,{\pos(720,1018)}Once his rucksack is full...
+Dialogue: 1,0:28:28.39,0:28:32.46,Overlay text,,0,0,0,,he reluctantly leaves the green room
+Dialogue: 1,0:28:32.46,0:28:34.46,CDefault,,0,0,0,,{\pos(720,838)}So here's the...
+Dialogue: 0,0:28:32.92,0:28:35.26,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:28:34.46,0:28:36.46,Default,,0,0,0,,{\pos(565,298)}This is embarrassing
+Dialogue: 1,0:28:36.46,0:28:38.96,Default,,0,0,0,,{\pos(485,298)}I don't like this kind of thing
+Dialogue: 1,0:28:40.40,0:28:42.70,Overlay text,,0,0,0,,Evening
+Dialogue: 1,0:28:42.70,0:28:44.47,Overlay text,,0,0,0,,Good evening
+Dialogue: 1,0:28:44.47,0:28:47.80,Overlay text,,0,0,0,,Good evening. Can we go inside for a minute?
+Dialogue: 1,0:28:47.80,0:28:48.97,Overlay text,,0,0,0,,Eh, what is this?
+Dialogue: 1,0:28:49.07,0:28:54.31,Overlay text,,0,0,0,,Ikeda's eyes are like those of a frightened shoplifter
+Dialogue: 0,0:28:54.41,0:28:56.41,Overlay text,,0,0,0,,Just like he's a shoplifter
+Dialogue: 1,0:28:54.24,0:28:56.31,Default,,0,0,0,,{\pos(975,658)}Definitely
+Dialogue: 1,0:28:54.24,0:28:56.31,Default,,0,0,0,,{\pos(385,778)}No no
+Dialogue: 1,0:28:56.31,0:28:58.32,CDefaultAqua,,0,0,0,,{\pos(720,778)}We know already
+Dialogue: 0,0:28:57.01,0:28:58.48,Overlay text,,0,0,0,,I stole nothing!
+Dialogue: 1,0:28:58.72,0:29:00.85,Overlay text,,0,0,0,,Could you please unpack your bag?
+Dialogue: 1,0:29:00.85,0:29:02.95,Overlay text,,0,0,0,,Woah... no.. woah
+Dialogue: 1,0:29:02.95,0:29:05.62,Overlay text,,0,0,0,,Could you please unpack your bag? Come on
+Dialogue: 1,0:29:05.62,0:29:07.69,Overlay text,,0,0,0,,I know what you're thinking
+Dialogue: 1,0:29:08.63,0:29:11.26,Overlay text,,0,0,0,,Ah, look how full it is
+Dialogue: 1,0:29:11.26,0:29:16.17,Overlay text,,0,0,0,,Wow... this... it's so bad
+Dialogue: 1,0:29:16.17,0:29:18.00,Overlay text,,0,0,0,,It's really bad isn't it?
+Dialogue: 1,0:29:19.04,0:29:23.04,DefaultGreen,,0,0,0,,{\pos(795,1018)}
+Dialogue: 1,0:29:23.57,0:29:25.01,Overlay text,,0,0,0,,Incredible!
+Dialogue: 1,0:29:25.11,0:29:30.08,Overlay text,,0,0,0,,Oh man, it's going to be so bad when my dad sees this
+Dialogue: 1,0:29:28.38,0:29:31.38,DefaultGreen,,0,0,0,,{\pos(645,898)}Here's a mini ramen
+Dialogue: 1,0:29:30.08,0:29:33.52,Overlay text,,0,0,0,,Even though he told me to stop doing stuff like this
+Dialogue: 1,0:29:31.38,0:29:33.38,DefaultGreen,,0,0,0,,{\pos(675,898)}Mini ramen, yes
+Dialogue: 1,0:29:33.38,0:29:35.45,Default,,0,0,0,,{\pos(675,1018)}Ikeda's haul consisted of:
+Dialogue: 1,0:29:35.45,0:29:38.22,Default,,0,0,0,,{\pos(615,1018)}Cup ramens\Nwith snacks and cans of juice,
+Dialogue: 1,0:29:38.22,0:29:40.56,Default,,0,0,0,,{\pos(435,1018)}and 4 Maisen with 4 Torikyū.
+Dialogue: 1,0:29:40.56,0:29:44.26,Default,,0,0,0,,{\pos(675,1018)}A total of 6,758 yen.
+Dialogue: 0,0:29:33.72,0:29:45.03,Small,,0,0,0,,{\pos(34,920)\fs41}Bento\N\NCutlet sandwich\N\NMini burger\N\NCup ramen\N\NSnacks\N\NDrinks\N\NTotal items
+Dialogue: 1,0:29:45.03,0:29:47.53,Overlay text,,0,0,0,,I was going to tell my wife about this on LINE
+Dialogue: 1,0:29:47.70,0:29:50.97,Overlay text,,0,0,0,,Like "I've hit the jackpot today"
+Dialogue: 1,0:29:52.50,0:29:54.50,CDefault,,0,0,0,,{\pos(720,778)}Our next target is...
+Dialogue: 0,0:29:54.10,0:30:02.05,LOverlay text,,0,0,0,,{\pos(431,1038)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&\fs100}Makino Suteteko
+Dialogue: 1,0:29:54.50,0:29:56.51,CDefault,,0,0,0,,{\pos(720,778)}Please don't forget me!
+Dialogue: 1,0:29:56.51,0:29:58.84,CDefault,,0,0,0,,{\pos(720,778)}Hip hip hip!
+Dialogue: 1,0:29:58.84,0:30:01.85,CDefault,,0,0,0,,{\pos(720,778)}It's hip hop!
+Dialogue: 1,0:30:01.85,0:30:05.55,CDefault,,0,0,0,,{\pos(720,778)}The person nominating her is her kōhai\Nfrom the same office,
+Dialogue: 0,0:30:02.38,0:30:07.22,LOverlay text,,0,0,0,,{\pos(498,1032)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&\fs95}Ishide Nanako
+Dialogue: 1,0:30:07.22,0:30:10.02,Overlay text,,0,0,0,,She never doesn't take something home
+Dialogue: 1,0:30:10.02,0:30:12.19,Overlay text,,0,0,0,,Whenever I've been able to work with her,
+Dialogue: 1,0:30:12.19,0:30:15.56,Overlay text,,0,0,0,,Suteteko-san's always taken something home
+Dialogue: 1,0:30:15.46,0:30:19.53,CDefault,,0,0,0,,{\pos(720,1018)}So, after returning from shooting material...
+Dialogue: 1,0:30:19.53,0:30:23.33,CDefault,,0,0,0,,{\pos(720,1018)}Suteteko changes her clothes and then...
+Dialogue: 1,0:30:26.47,0:30:29.47,DefaultYellow,,0,0,0,,{\pos(385,298)}She's free to take anything
+Dialogue: 1,0:30:26.47,0:30:29.47,DefaultGreen,,0,0,0,,{\pos(945,418)}Looks like it
+Dialogue: 1,0:30:29.47,0:30:32.98,Default,,0,0,0,,{\pos(685,358)}She knows what to do
+Dialogue: 0,0:30:33.11,0:30:37.68,Small,,0,0,0,,{\pos(922,790)\fs26}Torikyū (Special Bento)
+Dialogue: 0,0:30:33.11,0:30:37.68,Small,,0,0,0,,{\pos(1172,790)\fs26}Torikyū (Karaage Bento)
+Dialogue: 1,0:30:32.98,0:30:37.48,Default,,0,0,0,,{\pos(185,1018)}As expected, she first takes \N2 easy-to-carry Torikyū Bentos
+Dialogue: 1,0:30:38.48,0:30:40.98,Default,,0,0,0,,{\pos(575,298)}Look how big her bag is
+Dialogue: 1,0:30:40.98,0:30:43.82,Default,,0,0,0,,{\pos(448,367)}Unsuccessful comedians have\Nbig bags, don't they?
+Dialogue: 1,0:30:43.82,0:30:45.82,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 1,0:30:45.82,0:30:47.82,DefaultYellow,,0,0,0,,{\pos(345,298)}She's still going?
+Dialogue: 1,0:30:45.82,0:30:47.82,DefaultGreen,,0,0,0,,{\pos(855,418)}Yes, yes
+Dialogue: 1,0:30:47.82,0:30:50.33,DefaultGreen,,0,0,0,,{\pos(815,298)}Looks like it
+Dialogue: 0,0:30:51.66,0:30:58.50,Small,,0,0,0,,{\pos(1172,790)}Maisen (mini burger)
+Dialogue: 1,0:30:51.90,0:30:55.30,Default,,0,0,0,,{\pos(315,1018)}2 Maisen mini burgers,
+Dialogue: 1,0:30:58.50,0:31:02.44,Default,,0,0,0,,{\pos(255,1018)}and 2 cutlet sandwiches. \NAnd then...
+Dialogue: 0,0:30:58.87,0:31:02.51,CSmall,,0,0,0,,{\pos(1032,790)}Maisen \N(shrimp cutlet sandwich)
+Dialogue: 0,0:30:58.87,0:31:02.51,CSmall,,0,0,0,,{\pos(1282,790)}Maisen \N(pork fillet cutlet sandwich)
+Dialogue: 1,0:31:02.44,0:31:06.14,Default,,0,0,0,,{\pos(255,1018)}2 of the industry favorite\NTsutaya bento
+Dialogue: 0,0:31:02.87,0:31:09.68,Small,,0,0,0,,{\pos(1142,790)}Tsutaya (Seaweed bento)
+Dialogue: 1,0:31:09.51,0:31:11.95,Default,,0,0,0,,{\pos(315,1018)}Carrying them 2 at a time\N for some reason,
+Dialogue: 1,0:31:11.95,0:31:15.45,Default,,0,0,0,,{\pos(255,1018)}She puts a total of \N10 products in her rucksack
+Dialogue: 0,0:31:09.98,0:31:18.56,Small,,0,0,0,,{\pos(942,790)}Origin (seaweed)
+Dialogue: 0,0:31:09.98,0:31:18.56,Small,,0,0,0,,{\pos(1172,790)}Origin (makunouchi)
+Dialogue: 1,0:31:18.46,0:31:20.46,Default,,0,0,0,,{\pos(555,1018)}And then...
+Dialogue: 1,0:31:25.46,0:31:27.46,CDefault,,0,0,0,,{\pos(720,1018)}She rummages through the snacks too
+Dialogue: 1,0:31:27.46,0:31:29.47,Default,,0,0,0,,{\pos(445,298)}She looks bad with her mask
+Dialogue: 1,0:31:29.47,0:31:32.14,DefaultGreen,,0,0,0,,{\pos(455,358)}I don't know why but it looks bad
+Dialogue: 1,0:31:32.14,0:31:34.84,DefaultAqua,,0,0,0,,{\pos(435,298)}And how she's speechless too
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(277,854)}Jagarico
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(477,854)}Le Monde
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(677,854)}Baum-roll
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(857,854)}Choco pie
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(1047,854)}Kabukiage
+Dialogue: 0,0:31:35.24,0:31:44.25,Small,,0,0,0,,{\pos(1277,854)}Appro
+Dialogue: 1,0:31:37.97,0:31:40.64,Default,,0,0,0,,{\pos(555,298)}She's selective
+Dialogue: 1,0:31:40.64,0:31:44.15,Default,,0,0,0,,{\pos(375,298)}Her rucksack's about to burst
+Dialogue: 1,0:31:44.15,0:31:46.48,Default,,0,0,0,,{\pos(565,1018)}And then finally...
+Dialogue: 1,0:31:46.48,0:31:48.49,DefaultAqua,,0,0,0,,{\pos(535,298)}No way. Stop already!
+Dialogue: 1,0:31:48.49,0:31:50.49,CDefault,,0,0,0,,{\pos(820,298)}
+Dialogue: 1,0:31:50.49,0:31:53.39,CDefault,,0,0,0,,{\pos(720,1018)}She adds a cup ramen
+Dialogue: 0,0:31:50.02,0:31:55.03,Small,,0,0,0,,{\pos(1202,790)}Cup ramen
+Dialogue: 1,0:31:58.33,0:32:04.33,Overlay text,,0,0,0,,{\pos(636,848)}With enough food on her back to last her a week if she got lost in the mountains,
+Dialogue: 1,0:32:04.33,0:32:07.74,CDefault,,0,0,0,,{\pos(720,838)}she escapes the green room half running
+Dialogue: 0,0:32:04.73,0:32:08.64,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:32:09.57,0:32:10.87,Overlay text,,0,0,0,,Suteteko-san!
+Dialogue: 1,0:32:09.27,0:32:12.94,Default,,0,0,0,,{\pos(1005,778)}Huh?
+Dialogue: 1,0:32:09.27,0:32:12.94,Default,,0,0,0,,{\pos(355,898)}You dropped your tea
+Dialogue: 1,0:32:12.94,0:32:15.65,Default,,0,0,0,,{\pos(285,778)}Suteteko-san
+Dialogue: 1,0:32:14.61,0:32:17.68,Overlay text,,0,0,0,,Nana-chan!
+Dialogue: 0,0:32:15.01,0:32:17.68,COverlay text 2,,0,0,0,,You took quite a look didn't you, Suteteko-san?
+Dialogue: 1,0:32:18.05,0:32:21.42,Overlay text,,0,0,0,,No but this is really...
+Dialogue: 0,0:32:19.82,0:32:22.95,COverlay text 2,,0,0,0,,Yes, well, could you just take out...
+Dialogue: 1,0:32:21.42,0:32:22.95,Overlay text,,0,0,0,,No but it's...
+Dialogue: 1,0:32:22.95,0:32:25.16,Default,,0,0,0,,{\pos(285,898)}It's...
+Dialogue: 1,0:32:24.75,0:32:26.42,Overlay text,,0,0,0,,Ah, look at this
+Dialogue: 1,0:32:26.42,0:32:28.12,Overlay text,,0,0,0,,What is this? It's like a goody bag
+Dialogue: 1,0:32:28.02,0:32:31.03,Default,,0,0,0,,{\pos(455,1018)}Suteteko's total is an astonishing 43 items
+Dialogue: 0,0:32:28.49,0:32:40.47,Small,,0,0,0,,{\pos(44,920)\fs41}Bento\N\NCutlet sandwich\N\NMini burger\N\NCup ramen\N\NSnacks\N\NDrinks\N\NTotal items
+Dialogue: 1,0:32:31.03,0:32:36.30,Default,,0,0,0,,{\pos(615,1018)}for a score of 9,229 yen, \Nbeating Ikeda's.
+Dialogue: 1,0:32:36.30,0:32:40.30,Default,,0,0,0,,{\pos(495,1018)}(Ishide) I said take it all out, \Ndidn't I, Suteteko-san?
+Dialogue: 1,0:32:40.94,0:32:42.11,Overlay text,,0,0,0,,Well, actually...
+Dialogue: 1,0:32:42.11,0:32:45.64,Overlay text,,0,0,0,,The truth is I wanted to take so much more
+Dialogue: 1,0:32:45.64,0:32:47.48,Overlay text,,0,0,0,,So why did you stop?
+Dialogue: 1,0:32:48.18,0:32:52.98,Overlay text,,0,0,0,,Well, if I'd been carrying stuff in both my hands,→
+Dialogue: 1,0:32:52.98,0:32:55.99,Overlay text,,0,0,0,,wouldn't it have looked weird? I came here carrying nothing
+Dialogue: 1,0:32:55.99,0:32:57.99,CDefault,,0,0,0,,{\pos(720,1018)}Next, it's...
+Dialogue: 1,0:32:57.99,0:32:59.92,CDefault,,0,0,0,,{\pos(720,1018)}(singing theme song to Jaws)
+Dialogue: 1,0:32:59.92,0:33:01.93,Default,,0,0,0,,{\pos(255,1018)}Woah, an Indian!
+Dialogue: 0,0:33:02.56,0:33:05.16,LOverlay text,,0,0,0,,{\pos(879,1028)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&}Impossible\N{\fs100}Hiru-chan
+Dialogue: 0,0:33:05.16,0:33:08.83,Overlay text,,0,0,0,,One time he took like five bentos home,
+Dialogue: 1,0:33:09.10,0:33:12.37,Overlay text,,0,0,0,,with the aim of rationing them out over a week
+Dialogue: 0,0:33:05.30,0:33:15.84,LOverlay text,,0,0,0,,{\pos(130,728)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&}Impossible\N{\fs75}Eiji
+Dialogue: 1,0:33:12.37,0:33:15.84,Overlay text,,0,0,0,,but he ate them all in a single day
+Dialogue: 1,0:33:13.77,0:33:15.77,Default,,0,0,0,,{\pos(645,898)}
+Dialogue: 1,0:33:15.77,0:33:19.28,Default,,0,0,0,,{\pos(405,1018)}When Hiru-chan\Nreturns to the green room,
+Dialogue: 1,0:33:21.11,0:33:24.81,CDefault,,0,0,0,,{\pos(720,1018)}he takes out his clothes to make an empty bag
+Dialogue: 1,0:33:29.45,0:33:31.86,DefaultGreen,,0,0,0,,{\pos(745,358)}With a hat like a criminal
+Dialogue: 1,0:33:36.13,0:33:38.63,DefaultAqua,,0,0,0,,{\pos(315,298)}He's thinking about how to pack it all
+Dialogue: 1,0:33:38.63,0:33:40.63,DefaultYellow,,0,0,0,,{\pos(435,298)}Definitely. He's good at this
+Dialogue: 1,0:33:40.63,0:33:43.47,Default,,0,0,0,,{\pos(615,298)}Yeah, it's not his first time
+Dialogue: 1,0:33:40.63,0:33:43.47,DefaultGreen,,0,0,0,,{\pos(1045,418)}It's not
+Dialogue: 0,0:33:39.73,0:33:46.04,Small,,0,0,0,,{\pos(1142,790)}Tsutaya (Seaweed bento)
+Dialogue: 1,0:33:43.47,0:33:45.87,DefaultAqua,,0,0,0,,{\pos(485,298)}Like a convenience store clerk
+Dialogue: 1,0:33:48.54,0:33:54.18,Overlay text,,0,0,0,,{\pos(976,616)}Then he balances the bentos' \Npositions to destroy the evidence
+Dialogue: 1,0:33:53.98,0:33:56.18,DefaultGreen,,0,0,0,,{\pos(345,298)}So he knows he's doing wrong, then
+Dialogue: 1,0:33:58.05,0:34:00.85,DefaultGreen,,0,0,0,,{\pos(425,298)}It's scary how he's saying nothing
+Dialogue: 0,0:33:56.98,0:34:00.18,Small,,0,0,0,,{\pos(1212,790)}Cup soup
+Dialogue: 0,0:34:02.32,0:34:07.86,Small,,0,0,0,,{\pos(1202,790)}Can of coffee
+Dialogue: 0,0:34:05.06,0:34:07.86,Small,,0,0,0,,{\pos(952,790)}Can of coffee
+Dialogue: 0,0:34:06.86,0:34:07.86,Small,,0,0,0,,{\pos(702,790)}Can of juice
+Dialogue: 1,0:34:07.76,0:34:09.76,Default,,0,0,0,,{\pos(655,838)}Ah, wait, wait
+Dialogue: 0,0:34:08.09,0:34:14.86,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:34:11.83,0:34:14.33,Default,,0,0,0,,{\pos(575,718)}Do you have a moment?
+Dialogue: 1,0:34:11.83,0:34:14.33,Default,,0,0,0,,{\pos(325,838)}Huh?
+Dialogue: 1,0:34:15.87,0:34:19.04,Overlay text,,0,0,0,,Don't say 'huh?'. Just empty the bag, please
+Dialogue: 1,0:34:19.04,0:34:23.27,Overlay text,,0,0,0,,What? It's just clothes...
+Dialogue: 0,0:34:21.27,0:34:23.57,COverlay text 2,,0,0,0,,Look! Look!
+Dialogue: 1,0:34:23.27,0:34:26.44,Overlay text,,0,0,0,,He's covered it. Woah
+Dialogue: 0,0:34:24.57,0:34:26.44,COverlay text 2,,0,0,0,,It's just clothes
+Dialogue: 1,0:34:22.11,0:34:24.11,Default,,0,0,0,,{\pos(885,838)}Just clothes
+Dialogue: 1,0:34:26.44,0:34:28.71,Overlay text,,0,0,0,,I thought something was wrong
+Dialogue: 1,0:34:25.44,0:34:27.64,CDefault,,0,0,0,,{\pos(720,778)}It's just clo...
+Dialogue: 1,0:34:29.95,0:34:32.02,Overlay text,,0,0,0,,Wow!
+Dialogue: 1,0:34:34.98,0:34:37.22,Overlay text,,0,0,0,,Seriously? Huh? How embarrassing
+Dialogue: 1,0:34:37.29,0:34:39.96,Default,,0,0,0,,{\pos(645,1018)}He had 10 bentos\Nin his bag but
+Dialogue: 0,0:34:37.49,0:34:50.77,Small,,0,0,0,,{\pos(27,924)\fs41}\N\NBento\N\NCutlet sandwich\N\NCup ramen\N\NSnacks\N\NDrinks\N\NTotal items
+Dialogue: 1,0:34:39.96,0:34:45.46,Default,,0,0,0,,{\pos(555,1018)}Hiru-chan's total is 9,060 yen
+Dialogue: 1,0:34:45.46,0:34:48.87,Default,,0,0,0,,{\pos(615,1018)}just about losing out \Nto Suteteko
+Dialogue: 1,0:34:50.90,0:34:53.40,Overlay text,,0,0,0,,I'm embarrassed
+Dialogue: 1,0:34:53.40,0:34:57.71,Overlay text,,0,0,0,,You've been in the industry for 17 years already
+Dialogue: 1,0:34:54.30,0:34:56.31,Default,,0,0,0,,{\pos(945,898)}Yeah
+Dialogue: 1,0:34:57.71,0:35:00.08,Overlay text,,0,0,0,,Even a young comedian wouldn't do this, really
+Dialogue: 1,0:35:00.24,0:35:05.78,COverlay text,,0,0,0,,I was planning to party for three days and three nights
+Dialogue: 1,0:35:05.75,0:35:08.42,CDefault,,0,0,0,,{\pos(720,1018)}Next...
+Dialogue: 1,0:35:08.42,0:35:10.42,Default,,0,0,0,,{\pos(315,1018)}You don't need that\Nyou idiot
+Dialogue: 1,0:35:10.42,0:35:17.06,COverlay text,,0,0,0,,{\pos(837,826)}Someone who's lately been working\Nmainly as a garbage worker...
+Dialogue: 0,0:35:11.12,0:35:17.06,LOverlay text,,0,0,0,,{\pos(151,1038)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&}Machine Guns\N{\fs100}Takizawa Shūichi
+Dialogue: 0,0:35:17.13,0:35:31.57,LOverlay text,,0,0,0,,{\pos(117,732)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&}Machine Guns\N{\fs75}Nishihori Ryō
+Dialogue: 1,0:35:17.73,0:35:21.56,Overlay text,,0,0,0,,Takizawa's obsession with free stuff is amazing
+Dialogue: 1,0:35:22.07,0:35:26.94,Overlay text,,0,0,0,,He derives the greatest pleasure in not having to spend a dime
+Dialogue: 1,0:35:26.94,0:35:31.57,Overlay text,,0,0,0,,So it's not that he has no money but he wants to profit
+Dialogue: 1,0:35:31.51,0:35:33.94,CDefault,,0,0,0,,{\pos(720,1018)}Let's see...
+Dialogue: 1,0:35:33.94,0:35:36.85,CDefault,,0,0,0,,{\pos(720,1018)}Thank you very much!
+Dialogue: 1,0:35:39.28,0:35:42.39,Default,,0,0,0,,{\pos(855,898)}We're done
+Dialogue: 1,0:35:39.28,0:35:42.39,Default,,0,0,0,,{\pos(335,1018)}We're done
+Dialogue: 1,0:35:44.35,0:35:47.29,DefaultAqua,,0,0,0,,{\pos(435,298)}Without hesitation
+Dialogue: 1,0:35:44.35,0:35:47.29,Default,,0,0,0,,{\pos(835,418)}Wow!
+Dialogue: 0,0:35:47.79,0:35:55.20,Small,,0,0,0,,{\pos(82,790)}Can of coffee
+Dialogue: 0,0:35:47.79,0:35:55.20,Small,,0,0,0,,{\pos(332,790)}Can of coffee
+Dialogue: 1,0:35:47.29,0:35:49.96,Default,,0,0,0,,{\pos(615,1018)}The moment they return\Nto the green room,
+Dialogue: 1,0:35:49.96,0:35:51.96,Default,,0,0,0,,{\pos(585,1018)}he springs smoothly into action,
+Dialogue: 1,0:35:51.96,0:35:54.86,Default,,0,0,0,,{\pos(615,1018)}putting 5 canned coffees\N into his rucksack.
+Dialogue: 0,0:35:55.40,0:35:56.73,Overlay text,,0,0,0,,It's like he's tidying up
+Dialogue: 1,0:35:56.63,0:35:59.64,CDefault,,0,0,0,,{\pos(720,358)}It is like he's tidying up, isn't it?
+Dialogue: 0,0:35:58.50,0:35:59.74,Overlay text,,0,0,0,,Like a garbage worker
+Dialogue: 1,0:35:59.64,0:36:02.14,CDefault,,0,0,0,,{\pos(720,1018)}Then, Nishihori exits the room
+Dialogue: 1,0:36:02.14,0:36:04.64,CDefault,,0,0,0,,{\pos(720,1018)}leaving him alone...
+Dialogue: 1,0:36:04.64,0:36:07.14,CDefaultYellow,,0,0,0,,{\pos(720,298)}He's eating
+Dialogue: 1,0:36:07.14,0:36:10.45,CDefaultAqua,,0,0,0,,{\pos(820,298)}That's another bag, the stomach
+Dialogue: 0,0:36:11.98,0:36:13.72,Small,,0,0,0,,{\pos(962,790)}Can of juice
+Dialogue: 0,0:36:11.98,0:36:13.72,Small,,0,0,0,,{\pos(1202,790)}Can of juice
+Dialogue: 1,0:36:14.12,0:36:15.89,Overlay text,,0,0,0,,He did it, he did it
+Dialogue: 1,0:36:17.99,0:36:20.49,DefaultAqua,,0,0,0,,{\pos(555,298)}Scary
+Dialogue: 1,0:36:17.99,0:36:20.49,DefaultYellow,,0,0,0,,{\pos(895,418)}All of them!
+Dialogue: 0,0:36:19.36,0:36:21.89,Small,,0,0,0,,{\pos(962,790)}Can of juice
+Dialogue: 0,0:36:19.36,0:36:21.89,Small,,0,0,0,,{\pos(1202,790)}Can of juice
+Dialogue: 1,0:36:21.89,0:36:23.83,Overlay text,,0,0,0,,Amazing
+Dialogue: 1,0:36:23.83,0:36:25.56,Overlay text,,0,0,0,,He's doing it while eating
+Dialogue: 1,0:36:28.50,0:36:31.50,DefaultAqua,,0,0,0,,{\pos(545,298)}He's looking outside occasionally
+Dialogue: 0,0:36:32.77,0:36:34.74,Overlay text,,0,0,0,,{\pos(673,666)}Ah, this is good
+Dialogue: 1,0:36:39.98,0:36:43.58,Overlay text,,0,0,0,,He's not doing it while eating\Nbut rather eating while doing it
+Dialogue: 1,0:36:47.02,0:36:49.52,CDefault,,0,0,0,,{\pos(720,298)}I don't like how he's doing it
+Dialogue: 1,0:36:49.52,0:36:53.52,DefaultGreen,,0,0,0,,{\pos(245,298)}It's amazing how he can hold three of them
+Dialogue: 1,0:36:49.52,0:36:53.52,DefaultAqua,,0,0,0,,{\pos(695,418)}
+Dialogue: 0,0:36:50.99,0:36:56.39,Small,,0,0,0,,{\pos(1202,790)}Can of coffee
+Dialogue: 0,0:36:50.99,0:36:56.39,Small,,0,0,0,,{\pos(952,790)}Can of coffee
+Dialogue: 1,0:36:57.19,0:37:00.50,Overlay text,,0,0,0,,He occasionally interrupts his work to eat...
+Dialogue: 1,0:37:00.96,0:37:03.63,DefaultYellow,,0,0,0,,{\pos(355,298)}He's not going for the bentos at all though
+Dialogue: 1,0:37:00.96,0:37:03.63,Default,,0,0,0,,{\pos(355,418)}Yes, how come?
+Dialogue: 1,0:37:03.63,0:37:05.64,DefaultAqua,,0,0,0,,{\pos(435,298)}He's looking outside so much
+Dialogue: 1,0:37:05.64,0:37:13.41,Overlay text,,0,0,0,,{\pos(532,830)}One after another, with a practiced hand.
+Dialogue: 1,0:37:08.14,0:37:13.41,Overlay text,,0,0,0,,{\pos(676,936)}he cleans up the catering in an organized fashion
+Dialogue: 1,0:37:13.51,0:37:18.51,Overlay text,,0,0,0,,Perhaps if I were there he wouldn't go this far
+Dialogue: 1,0:37:18.51,0:37:20.92,Overlay text,,0,0,0,,Maybe I make him self conscious
+Dialogue: 1,0:37:21.08,0:37:26.26,COverlay text,,0,0,0,,{\pos(721,934)}Next, Takizawa takes this out of his rucksack...
+Dialogue: 1,0:37:29.16,0:37:33.33,Overlay text,,0,0,0,,A spare bag dedicated to carrying things home
+Dialogue: 1,0:37:36.50,0:37:39.50,DefaultYellow,,0,0,0,,{\pos(345,298)}
+Dialogue: 0,0:37:39.27,0:37:45.11,Small,,0,0,0,,{\pos(922,790)\fs26}Torikyū (Special Bento)
+Dialogue: 0,0:37:39.27,0:37:45.11,Small,,0,0,0,,{\pos(1172,790)\fs26}Torikyū (Karaage Bento)
+Dialogue: 1,0:37:39.50,0:37:44.91,CDefault,,0,0,0,,{\pos(720,298)}He puts 6 Torikyū bentos in all at once
+Dialogue: 1,0:37:44.91,0:37:46.91,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 0,0:37:52.48,0:37:56.19,Overlay text,,0,0,0,,{\pos(421,946)}With the skill of a trader
+Dialogue: 1,0:37:54.18,0:37:56.19,DefaultGreen,,0,0,0,,{\pos(595,298)}It is like a trader, really
+Dialogue: 1,0:37:56.19,0:38:00.79,Default,,0,0,0,,{\pos(255,1018)}he takes a total of 10 Maisen \Nshrimp cutlet and pork fillet \Ncutlet sandwiches
+Dialogue: 0,0:37:56.69,0:38:02.29,CSmall,,0,0,0,,{\pos(1032,790)}Maisen \N(shrimp cutlet sandwich)
+Dialogue: 0,0:37:56.69,0:38:02.29,CSmall,,0,0,0,,{\pos(1282,790)}Maisen \N(pork fillet cutlet sandwich)
+Dialogue: 1,0:38:00.79,0:38:03.46,DefaultGreen,,0,0,0,,{\pos(285,298)}This wouldn't be possible for a beginner
+Dialogue: 1,0:38:00.79,0:38:03.46,DefaultYellow,,0,0,0,,{\pos(955,418)}For sure
+Dialogue: 1,0:38:03.46,0:38:09.60,Default,,0,0,0,,{\pos(320,1018)}He puts 5 Tsutaya bentos \Ninto his second carrying-home bag
+Dialogue: 0,0:38:07.16,0:38:13.64,Small,,0,0,0,,{\pos(1142,790)}Tsutaya (Seaweed bento)
+Dialogue: 1,0:38:13.80,0:38:22.95,Overlay text,,0,0,0,,{\pos(321,748)}In just 6 minutes
+Dialogue: 1,0:38:16.31,0:38:22.95,Overlay text,,0,0,0,,he cleans up almost all the catering that was in the green room and finishes
+Dialogue: 1,0:38:22.48,0:38:24.98,CDefault,,0,0,0,,{\pos(720,778)}Then...
+Dialogue: 1,0:38:24.98,0:38:28.18,CDefault,,0,0,0,,{\pos(720,1018)}He checks the perimeter and exits the room
+Dialogue: 0,0:38:28.52,0:38:34.09,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:38:29.49,0:38:31.49,Default,,0,0,0,,{\pos(585,838)}You did it
+Dialogue: 1,0:38:31.49,0:38:33.49,Default,,0,0,0,,{\pos(885,838)}You did it
+Dialogue: 1,0:38:34.49,0:38:38.33,Overlay text,,0,0,0,,Huh, what?
+Dialogue: 1,0:38:34.56,0:38:36.76,Default,,0,0,0,,{\pos(885,1018)}
+Dialogue: 1,0:38:38.33,0:38:40.50,Overlay text,,0,0,0,,Where are you running off to?
+Dialogue: 1,0:38:40.50,0:38:42.13,Overlay text,,0,0,0,,What? What? What?
+Dialogue: 1,0:38:43.23,0:38:46.17,Overlay text,,0,0,0,,The one on your back too
+Dialogue: 1,0:38:46.17,0:38:47.90,Overlay text,,0,0,0,,This...
+Dialogue: 1,0:38:46.57,0:38:48.57,Default,,0,0,0,,{\pos(1015,1018)}Yes, you
+Dialogue: 1,0:38:51.54,0:38:52.88,Overlay text,,0,0,0,,What is it I've done?
+Dialogue: 1,0:38:52.88,0:38:54.98,Overlay text,,0,0,0,,It's not like I've done anything wrong
+Dialogue: 1,0:38:55.14,0:38:56.88,Overlay text,,0,0,0,,There's nothing bad about it
+Dialogue: 1,0:38:55.01,0:38:57.01,Default,,0,0,0,,{\pos(255,898)}
+Dialogue: 1,0:38:56.88,0:38:58.82,Overlay text,,0,0,0,,That's why I knew you'd do it
+Dialogue: 1,0:38:59.08,0:39:02.65,Overlay text,,0,0,0,,In fact, you did better than I could have imagined
+Dialogue: 1,0:39:02.79,0:39:06.99,Overlay text,,0,0,0,,Huh, what? Is everyone angry at me?
+Dialogue: 0,0:39:05.46,0:39:06.99,COverlay text 2,,0,0,0,,We're not angry
+Dialogue: 1,0:39:05.19,0:39:07.49,Default,,0,0,0,,{\pos(565,778)}Are you angry?
+Dialogue: 1,0:39:06.99,0:39:08.66,Overlay text,,0,0,0,,Everyone's scared
+Dialogue: 1,0:39:09.69,0:39:11.53,Overlay text,,0,0,0,,What's this?
+Dialogue: 0,0:39:11.13,0:39:11.53,COverlay text 2,,0,0,0,,No, no
+Dialogue: 1,0:39:11.53,0:39:15.67,Overlay text,,0,0,0,,I got these from the office so they're unrelated to this
+Dialogue: 1,0:39:12.80,0:39:14.80,Default,,0,0,0,,{\pos(255,898)}
+Dialogue: 1,0:39:15.77,0:39:18.17,Overlay text,,0,0,0,,What did you get?
+Dialogue: 0,0:39:16.47,0:39:18.17,COverlay text 2,,0,0,0,,It's full of tissues
+Dialogue: 1,0:39:18.17,0:39:23.54,Overlay text,,0,0,0,,Wait, you got all these tissues from the office?
+Dialogue: 1,0:39:23.54,0:39:24.37,Overlay text,,0,0,0,,They had spare...
+Dialogue: 1,0:39:24.37,0:39:27.71,Overlay text,,0,0,0,,Hey, this is just the office supply
+Dialogue: 0,0:39:25.88,0:39:27.71,COverlay text 2,,0,0,0,,No, no, no, it's not
+Dialogue: 0,0:39:27.98,0:39:32.05,COverlay text 2,,0,0,0,,{\pos(579,914)}"I haven't done anything wrong", he says
+Dialogue: 1,0:39:31.65,0:39:35.65,COverlay text,,0,0,0,,{\pos(720,998)}but for some reason Takizawa can't stop sweating
+Dialogue: 1,0:39:35.65,0:39:39.49,Default,,0,0,0,,{\pos(435,1018)}The things he took home\Nfrom the green room
+Dialogue: 0,0:39:36.15,0:39:46.93,Small,,0,0,0,,{\pos(27,924)\fs41}\N\NBento\N\NCutlet sandwich\N\NCup ramen\N\NSnacks\N\N\NTotal items
+Dialogue: 1,0:39:39.49,0:39:42.99,Default,,0,0,0,,{\pos(555,1018)}totaled an extrodinary 19,147 yen.
+Dialogue: 1,0:39:42.99,0:39:46.90,Default,,0,0,0,,{\pos(435,1018)}The fourth player to finish,\Nhe holds a decisive lead
+Dialogue: 1,0:39:47.10,0:39:50.07,Overlay text,,0,0,0,,What would you do with all this? You couldn't have eaten it
+Dialogue: 0,0:39:48.93,0:39:50.07,COverlay text 2,,0,0,0,,Well, um...
+Dialogue: 1,0:39:50.27,0:39:54.27,Overlay text,,0,0,0,,Well for example, if it's hijiki, I'll collect the hijiki, from each of them
+Dialogue: 1,0:39:54.27,0:39:55.41,Overlay text,,0,0,0,,And then freeze it
+Dialogue: 1,0:39:55.34,0:39:57.44,Default,,0,0,0,,{\pos(825,898)}
+Dialogue: 1,0:39:57.37,0:39:58.51,Overlay text,,0,0,0,,You open them all
+Dialogue: 1,0:39:58.51,0:40:01.88,Overlay text,,0,0,0,,I open them, disassemble, if it's hijiki collect the hijiki,
+Dialogue: 1,0:40:01.88,0:40:04.78,Overlay text,,0,0,0,,put it in Tupperware, and freeze it for later
+Dialogue: 1,0:40:04.78,0:40:06.72,Overlay text,,0,0,0,,Then it's always ready. I just nuke it
+Dialogue: 1,0:40:06.72,0:40:09.95,Overlay text,,0,0,0,,It's not really "always ready"
+Dialogue: 1,0:40:10.15,0:40:13.79,Overlay text,,0,0,0,,Staff) You were amazingly fast at putting the cans in
+Dialogue: 0,0:40:13.16,0:40:13.79,COverlay text 2,,0,0,0,,Yeah
+Dialogue: 1,0:40:14.22,0:40:18.16,Overlay text,,0,0,0,,I thought since no one's here, I-I-I-I'll do it while I can
+Dialogue: 1,0:40:18.16,0:40:19.76,Overlay text,,0,0,0,,Staff) You don't like being seen?
+Dialogue: 1,0:40:19.76,0:40:21.70,Overlay text,,0,0,0,,Well, as you'd expect, if I get told off,
+Dialogue: 1,0:40:21.96,0:40:23.97,CDefault,,0,0,0,,{\pos(720,778)}Yes, yes
+Dialogue: 1,0:40:21.70,0:40:23.97,Overlay text,,0,0,0,,it's a little uncomfortable, isn't it?
+Dialogue: 0,0:40:22.80,0:40:23.97,COverlay text 2,,0,0,0,,It is
+Dialogue: 1,0:40:23.97,0:40:26.47,CDefault,,0,0,0,,{\pos(720,1018)}Next, the fifth target is...
+Dialogue: 0,0:40:27.07,0:40:32.64,LOverlay text,,0,0,0,,{\pos(501,1038)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&\fs120}Miura Mild
+Dialogue: 0,0:40:32.78,0:40:38.31,LOverlay text,,0,0,0,,{\pos(129,794)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&\fs75}Oideyasu Oda
+Dialogue: 1,0:40:29.31,0:40:32.41,Default,,0,0,0,,{\pos(285,778)}Can you do that\Nkind of thing at karaoke?
+Dialogue: 1,0:40:32.88,0:40:35.14,Overlay text,,0,0,0,,When we go do a performance
+Dialogue: 1,0:40:35.14,0:40:38.31,Overlay text,,0,0,0,,he'll take home a huge amount of water
+Dialogue: 1,0:40:38.15,0:40:40.82,CDefault,,0,0,0,,{\pos(720,1018)}But all he took was...
+Dialogue: 1,0:40:40.82,0:40:43.65,Default,,0,0,0,,{\pos(555,1018)}2 Torikyū and 2 water
+Dialogue: 1,0:40:43.65,0:40:46.86,Default,,0,0,0,,{\pos(705,1018)}totaling 1,706 yen.
+Dialogue: 0,0:40:41.52,0:40:48.36,Small,,0,0,0,,{\pos(47,924)\fs41}\N\NBento\N\NDrinks\N\N\NTotal items
+Dialogue: 1,0:40:48.52,0:40:49.79,Overlay text,,0,0,0,,Wait wait wait
+Dialogue: 1,0:40:49.79,0:40:52.03,Overlay text,,0,0,0,,This isn't funny at all!
+Dialogue: 1,0:40:52.03,0:40:54.46,Overlay text,,0,0,0,,No, it's so bad. No no no
+Dialogue: 1,0:40:54.60,0:40:58.70,Overlay text,,0,0,0,,Hey everyone, let's beat him up
+Dialogue: 0,0:40:55.97,0:40:58.70,COverlay text 2,,0,0,0,,Hold on. Did I do anything wrong here?
+Dialogue: 1,0:40:58.67,0:41:01.60,CDefault,,0,0,0,,{\pos(1020,658)}Then...
+Dialogue: 1,0:40:59.24,0:41:05.21,LOverlay text,,0,0,0,,{\pos(763,898)}Someone else who's \Nsaid to have a habit of\N taking a lot of water home...
+Dialogue: 0,0:40:59.00,0:41:05.21,LOverlay text,,0,0,0,,{\pos(510,1032)\3c&H0000FF&}Target:\N{\fs60\3c&H000000&\fs100}Minamikawa
+Dialogue: 0,0:41:05.21,0:41:09.05,LOverlay text,,0,0,0,,{\pos(184,792)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&}Ojin Osborn\N{\fs75}Shinomiya Akira
+Dialogue: 1,0:41:06.44,0:41:09.05,Overlay text,,0,0,0,,Result: the joke bombed
+Dialogue: 1,0:41:08.95,0:41:10.95,Default,,0,0,0,,{\pos(895,898)}It bombed?
+Dialogue: 0,0:41:09.31,0:41:13.05,Small,,0,0,0,,{\pos(27,924)\fs41}\N\NBento\N\NSnacks\N\NDrinks\N\N\NTotal items
+Dialogue: 1,0:41:08.95,0:41:10.95,Default,,0,0,0,,{\pos(515,1018)}Yes
+Dialogue: 1,0:41:10.95,0:41:12.95,Default,,0,0,0,,{\pos(555,1018)}Why? When did it happen?
+Dialogue: 1,0:41:13.15,0:41:16.49,Overlay text,,0,0,0,,So what was the right answer? To take loads home?
+Dialogue: 1,0:41:16.49,0:41:19.72,Overlay text,,0,0,0,,If you'd put loads in, we'd be laughing so hard
+Dialogue: 0,0:41:18.29,0:41:19.72,COverlay text 2,,0,0,0,,Who would do that?
+Dialogue: 1,0:41:19.62,0:41:24.33,CDefault,,0,0,0,,{\pos(720,1018)}And so our 7th and last target is...
+Dialogue: 0,0:41:24.76,0:41:29.93,Overlay text,,0,0,0,,{\pos(446,916)\3c&H0000FF&}Target:
+Dialogue: 1,0:41:27.80,0:41:29.80,Default,,0,0,0,,{\pos(465,778)}Thank you very much.\NI'm AMEMIYA.
+Dialogue: 1,0:41:30.17,0:41:31.73,Overlay text,,0,0,0,,We work out of the same office
+Dialogue: 0,0:41:30.00,0:41:34.27,LOverlay text,,0,0,0,,{\pos(172,808)\fs50\3c&HFF0000&}Nominator:\N{\fs50\3c&H000000&}Viking\N{\fs75}Nishimura Mizuki
+Dialogue: 1,0:41:31.73,0:41:34.27,Overlay text,,0,0,0,,and have the same manager
+Dialogue: 1,0:41:34.44,0:41:38.61,Overlay text,,0,0,0,,It seems he's got a dedicated carrying-home bag
+Dialogue: 1,0:41:39.08,0:41:41.78,Overlay text,,0,0,0,,Plus, once he was taking so much
+Dialogue: 1,0:41:41.94,0:41:43.51,Overlay text,,0,0,0,,that when he got home he found
+Dialogue: 1,0:41:43.51,0:41:45.88,Overlay text,,0,0,0,,he'd taken someone's half-eaten food
+Dialogue: 1,0:41:45.88,0:41:51.32,Overlay text,,0,0,0,,{\pos(756,1017)}Could AMEMIYA beat Takizawa's score of 19,147 yen?
+Dialogue: 1,0:41:50.15,0:41:53.22,CDefaultYellow,,0,0,0,,{\pos(720,418)}This won't be easy\Nwith a score like that
+Dialogue: 1,0:42:08.27,0:42:11.27,CDefault,,0,0,0,,{\pos(720,778)}Our last challenger is...
+Dialogue: 0,0:42:07.54,0:42:12.88,Overlay text,,0,0,0,,{\pos(446,916)\3c&H0000FF&}Target:
+Dialogue: 1,0:42:21.12,0:42:23.79,Overlay text,,0,0,0,,There it is!
+Dialogue: 1,0:42:23.79,0:42:26.06,Overlay text,,0,0,0,,It's huge, isn't it?
+Dialogue: 0,0:42:27.56,0:42:31.03,Overlay text,,0,0,0,,{\pos(709,656)}Wow
+Dialogue: 0,0:42:31.03,0:42:32.13,Overlay text,,0,0,0,,{\pos(709,656)}This is possible
+Dialogue: 1,0:42:32.40,0:42:34.66,Overlay text,,0,0,0,,"This is possible" he said
+Dialogue: 0,0:42:34.73,0:42:37.10,Overlay text,,0,0,0,,What's possible?
+Dialogue: 1,0:42:37.00,0:42:41.00,Default,,0,0,0,,{\pos(345,1018)}For this man, everything's possible. \NHe takes...
+Dialogue: 0,0:42:37.43,0:42:43.94,Small,,0,0,0,,{\pos(1142,790)}Tsutaya (Seaweed bento)
+Dialogue: 0,0:42:44.27,0:42:48.18,Small,,0,0,0,,{\pos(922,790)\fs26}Torikyū (Special Bento)
+Dialogue: 0,0:42:44.27,0:42:48.18,Small,,0,0,0,,{\pos(1172,790)\fs26}Torikyū (Karaage Bento)
+Dialogue: 0,0:42:48.54,0:42:54.68,CSmall,,0,0,0,,{\pos(1032,790)}Maisen \N(shrimp cutlet sandwich)
+Dialogue: 0,0:42:48.54,0:42:54.68,CSmall,,0,0,0,,{\pos(1282,790)}Maisen \N(pork fillet cutlet sandwich)
+Dialogue: 1,0:42:41.00,0:42:43.84,Default,,0,0,0,,{\pos(405,1018)}6 Tsutaya,
+Dialogue: 1,0:42:43.84,0:42:45.84,Default,,0,0,0,,{\pos(315,1018)}6 Torikyū,
+Dialogue: 1,0:42:48.18,0:42:51.18,Default,,0,0,0,,{\pos(285,1018)}and 10 Maisen,
+Dialogue: 1,0:42:51.18,0:42:53.98,Default,,0,0,0,,{\pos(255,1018)}leaving none of them behind.
+Dialogue: 1,0:42:59.19,0:43:01.29,Default,,0,0,0,,{\pos(495,298)}He's carrying them from the bottom?
+Dialogue: 1,0:43:02.63,0:43:05.33,Overlay text,,0,0,0,,It's pretty heavy
+Dialogue: 1,0:43:05.26,0:43:07.26,CDefault,,0,0,0,,{\pos(720,1018)}And then...
+Dialogue: 1,0:43:09.03,0:43:13.10,DefaultGreen,,0,0,0,,{\pos(375,298)}He's still going?
+Dialogue: 1,0:43:09.03,0:43:13.10,DefaultYellow,,0,0,0,,{\pos(375,418)}I guess we'll see
+Dialogue: 1,0:43:13.10,0:43:18.71,Default,,0,0,0,,{\pos(315,1018)}Then he takes all 20 of the \N mini burgers Takizawa left alone
+Dialogue: 0,0:43:13.04,0:43:19.14,Small,,0,0,0,,{\pos(1172,790)}Maisen (mini burger)
+Dialogue: 0,0:44:11.36,0:44:22.30,Small,,0,0,0,,{\pos(1099,918)\fs41}\N\NBento\N\NCutlet sandwich\N\NMini burgers\N\NCup ramen\N\NSnacks\N\NDrinks\N\NTotal items
+Dialogue: 1,0:43:23.01,0:43:25.65,Overlay text,,0,0,0,,That's enough now. That's enough
+Dialogue: 1,0:43:25.72,0:43:28.72,CDefault,,0,0,0,,{\pos(720,1018)}But that won't stop AMEMIYA
+Dialogue: 0,0:43:28.92,0:43:33.29,Overlay text,,0,0,0,,{\pos(756,923)}who puts snacks into the remaining space in his bag
+Dialogue: 1,0:43:33.22,0:43:36.33,CDefault,,0,0,0,,{\pos(720,1018)}Finally, he takes some waters...
+Dialogue: 1,0:43:38.29,0:43:41.40,CDefault,,0,0,0,,{\pos(720,778)}and, unbelievably...
+Dialogue: 0,0:43:38.76,0:43:43.93,COverlay text,,0,0,0,,{\pos(720,971)}puts them into his guitar case.
+Dialogue: 1,0:43:43.90,0:43:46.10,Default,,0,0,0,,{\pos(585,778)}
+Dialogue: 0,0:43:44.03,0:43:47.40,Overlay text,,0,0,0,,After stripping the room bare of its catering,
+Dialogue: 1,0:43:47.40,0:43:53.11,Overlay text,,0,0,0,,AMEMIYA leaves the green room with a huge amount of luggage
+Dialogue: 0,0:43:53.31,0:44:01.12,Overlay text,,0,0,0,,Prank Reveal
+Dialogue: 1,0:43:54.74,0:43:57.75,Default,,0,0,0,,{\pos(765,838)}Hey, AME-chan!\NGood evening
+Dialogue: 1,0:43:57.75,0:44:01.08,CDefault,,0,0,0,,{\pos(720,718)}Good evening
+Dialogue: 1,0:43:57.75,0:44:01.08,Default,,0,0,0,,{\pos(555,838)}What are you doing?
+Dialogue: 1,0:44:01.08,0:44:03.29,Default,,0,0,0,,{\pos(915,1018)}What's that?
+Dialogue: 1,0:44:05.29,0:44:08.52,Overlay text,,0,0,0,,Now hold on a minute. What is this?
+Dialogue: 1,0:44:08.52,0:44:11.13,Overlay text,,0,0,0,,This is pretty terrible
+Dialogue: 0,0:44:10.29,0:44:12.29,COverlay text 2,,0,0,0,,Terrible?
+Dialogue: 1,0:44:11.16,0:44:16.10,Default,,0,0,0,,{\pos(255,1018)}AMEMIYA managed to get 132 items\N
+Dialogue: 1,0:44:16.10,0:44:18.10,Default,,0,0,0,,{\pos(435,1018)}with a total of 27,208 yen
+Dialogue: 1,0:44:18.10,0:44:21.80,Default,,0,0,0,,{\pos(375,1018)}greatly surpassing \NTakizawa's score.
+Dialogue: 1,0:44:22.47,0:44:26.78,Overlay text,,0,0,0,,I guess I just had an urge to take it
+Dialogue: 1,0:44:24.94,0:44:28.14,CDefault,,0,0,0,,{\pos(720,898)}Seriously. Also, um...
+Dialogue: 1,0:44:27.14,0:44:31.78,Overlay text,,0,0,0,,I'll be honest. This is kind of like my appearance fee
+Dialogue: 0,0:44:30.15,0:44:31.78,COverlay text 2,,0,0,0,,No, this isn't included
+Dialogue: 1,0:44:31.78,0:44:35.05,Overlay text,,0,0,0,,Well, basically, TV doesn't pay that much, does it?
+Dialogue: 1,0:44:35.18,0:44:36.12,Overlay text,,0,0,0,,Really AME-chan?
+Dialogue: 1,0:44:36.12,0:44:38.69,Overlay text,,0,0,0,,As someone from the same office, I'm embarressed
+Dialogue: 1,0:44:38.92,0:44:42.19,Overlay text,,0,0,0,,There's no one who takes this much
+Dialogue: 1,0:44:42.19,0:44:43.19,Overlay text,,0,0,0,,Well today I kinda...
+Dialogue: 1,0:44:43.43,0:44:46.86,Overlay text,,0,0,0,,I got a bit greedy
+Dialogue: 1,0:44:44.73,0:44:46.73,CDefault,,0,0,0,,{\pos(720,898)}(Nishimura) That much?
+Dialogue: 1,0:44:46.73,0:44:49.07,CDefault,,0,0,0,,{\pos(720,1018)}And so, the winner is...
+Dialogue: 1,0:44:49.07,0:44:55.91,Default,,0,0,0,,{\pos(315,1018)}AMEMIYA, who took home everything except for some canned drinks and 1 bento
+Dialogue: 1,0:44:55.91,0:44:57.91,DefaultYellow,,0,0,0,,{\pos(865,898)}Amazing
+Dialogue: 0,0:44:46.86,0:44:55.97,Overlay text,,0,0,0,,{\pos(667,1006)\fs60}Takizawa Shūichi {\fs30}(Machine Guns){\fs60}\N\N\NMakino Suteteko\N\N\NHiru-chan {\fs30}(Impossible){\fs60}\N\N\N Ikeda Kazuma {\fs30}(Shizzle){\fs60}\N\N\NMiura Mild\N\N\NMinamikawa
+Dialogue: 0,0:44:46.86,0:44:55.97,Overlay text,,0,0,0,,{\pos(709,136)}Green room catering take home ranking
+Dialogue: 0,0:44:55.97,0:45:11.49,CSmall,,0,0,0,,{\pos(330,970)\fs32}Machine Guns - \NTakizawa Shūichi\N\N\N\N\N\N\NMakino Suteteko\N\N\N\N\N\NImpossible - \NHiru-chan\N\N\N\N\NShizzle - \NIkeda Kazuma\N\N\N\N\N\N\NMiura Mild\N\N\N\N\N\N\N\NMiamikawa
+Dialogue: 1,0:44:55.91,0:44:57.91,Default,,0,0,0,,{\pos(865,1018)}(Ogi) Amazing
+Dialogue: 1,0:44:57.91,0:44:59.91,DefaultYellow,,0,0,0,,{\pos(525,1018)}I didn't think he could\Nbeat Takizawa
+Dialogue: 1,0:44:59.91,0:45:01.91,DefaultGreen,,0,0,0,,{\pos(675,898)}That's true
+Dialogue: 1,0:44:59.91,0:45:01.91,Default,,0,0,0,,{\pos(675,1018)}20,000…
+Dialogue: 1,0:45:01.91,0:45:04.41,DefaultAqua,,0,0,0,,{\pos(645,1018)}He's quite successful, \Nsurprisingly
+Dialogue: 1,0:45:04.41,0:45:06.42,DefaultAqua,,0,0,0,,{\pos(675,1018)}Isn't he? Relatively
+Dialogue: 1,0:45:06.42,0:45:08.75,DefaultGreen,,0,0,0,,{\pos(615,898)}That's right, yes
+Dialogue: 1,0:45:06.42,0:45:08.75,DefaultAqua,,0,0,0,,{\pos(615,1018)}He's ranked highly
+Dialogue: 1,0:45:08.75,0:45:11.42,DefaultAqua,,0,0,0,,{\pos(705,1018)}Well, that's \Na bit surprising
+Dialogue: 1,0:45:11.42,0:45:13.42,Default,,0,0,0,,{\pos(255,898)}But it's not like it's...
+Dialogue: 1,0:45:11.42,0:45:13.42,DefaultGreen,,0,0,0,,{\pos(885,1018)}wrong
+Dialogue: 1,0:45:13.42,0:45:16.49,CDefaultYellow,,0,0,0,,{\pos(720,898)}Well...
+Dialogue: 1,0:45:13.42,0:45:16.49,Default,,0,0,0,,{\pos(605,1018)}It was very thief-like
+Dialogue: 1,0:45:16.49,0:45:18.49,DefaultGreen,,0,0,0,,{\pos(585,1018)}They're not violating \Nany rules, right?
+Dialogue: 1,0:45:18.49,0:45:20.50,Default,,0,0,0,,{\pos(285,718)}(Ogi) Really?
+Dialogue: 1,0:45:18.49,0:45:20.50,DefaultYellow,,0,0,0,,{\pos(1055,838)} I see
+Dialogue: 0,0:45:19.43,0:45:22.26,Overlay text,,0,0,0,,It's just bad manners
+Dialogue: 1,0:45:20.50,0:45:22.50,Default,,0,0,0,,{\pos(705,718)}
+Dialogue: 1,0:45:20.50,0:45:24.50,Default,,0,0,0,,{\pos(315,838)}And manners depend\N on the individual, sometimes
+Dialogue: 1,0:45:24.50,0:45:26.50,DefaultYellow,,0,0,0,,{\pos(345,898)}Don't cover for him so much
+Dialogue: 1,0:45:24.50,0:45:26.50,Default,,0,0,0,,{\pos(345,1018)}(Ogi) So it's a moral thing?
+Dialogue: 1,0:45:26.50,0:45:28.50,Default,,0,0,0,,{\pos(285,898)}(Ikeda) Morals differ by person
+Dialogue: 1,0:45:26.50,0:45:28.50,DefaultYellow,,0,0,0,,{\pos(285,1018)}Ōkubo-san
+Dialogue: 1,0:45:28.50,0:45:30.61,CDefaultYellow,,0,0,0,,{\pos(720,898)}You've been looking repulsed for a while
+Dialogue: 1,0:45:28.50,0:45:30.61,DefaultAqua,,0,0,0,,{\pos(985,1018)}She is
+Dialogue: 1,0:45:30.61,0:45:32.88,Default,,0,0,0,,{\pos(285,898)}That's not...
+Dialogue: 1,0:45:30.61,0:45:32.88,CDefaultGreen,,0,0,0,,{\pos(760,1018)}You looked totally different before the VTR
+Dialogue: 1,0:45:32.88,0:45:34.88,DefaultGreen,,0,0,0,,{\pos(825,898)}
+Dialogue: 1,0:45:32.88,0:45:34.88,Default,,0,0,0,,{\pos(285,1018)}(Ogi) I don't think it's that different
+Dialogue: 1,0:45:34.88,0:45:37.91,CDefault,,0,0,0,,{\pos(720,1018)}It's like I've seen a nasty face
+Dialogue: 1,0:45:37.91,0:45:42.82,Overlay text,,0,0,0,,If we checked it on an infrared camera his eyes would be glowing
+Dialogue: 1,0:45:38.95,0:45:42.42,Default,,0,0,0,,{\pos(285,718)}Really?
+Dialogue: 1,0:45:38.95,0:45:40.95,DefaultGreen,,0,0,0,,{\pos(915,838)}
+Dialogue: 1,0:45:43.89,0:45:46.37,Default,,0,0,0,,{\pos(255,718)}♫ I cut my nails, cut my hair
+Dialogue: 1,0:45:46.37,0:45:49.71,Default,,0,0,0,,{\pos(285,718)}Next week, the 7th\NLyric Changing Tournament takes place
+Dialogue: 1,0:45:49.71,0:45:52.04,Default,,0,0,0,,{\pos(375,718)}Popular comedians' changed lyrics
+Dialogue: 1,0:45:52.04,0:45:54.38,Default,,0,0,0,,{\pos(495,718)}are graded by \NUniversity of Tokyo students
+Dialogue: 1,0:45:54.38,0:45:56.38,Default,,0,0,0,,{\pos(255,718)}♫ If you take it, you're done
+Dialogue: 1,0:45:56.38,0:45:59.72,Default,,0,0,0,,{\pos(315,718)}Also, the make-your-grandkid-laugh\Nchampionship
+Dialogue: 1,0:45:59.72,0:46:02.72,Default,,0,0,0,,{\pos(315,718)}where the grandkids don't laugh. \NA painful reverse-prank
+Dialogue: 1,0:46:02.72,0:46:04.72,CDefault,,0,0,0,,{\pos(720,718)}Go! Go! Go! Go!
+Dialogue: 1,0:46:04.72,0:46:06.72,Default,,0,0,0,,{\pos(375,718)}And we investigate whether
+Dialogue: 1,0:46:06.72,0:46:09.53,CDefault,,0,0,0,,{\pos(720,718)}The Touch do solo gigs
+Dialogue: 0,0:46:06.04,0:46:09.78,CTLNote,,0,0,0,,{\pos(720,90)}TL Note: Twin comedians
+Dialogue: 0,0:45:42.82,0:46:14.82,Overlay text,,0,0,0,,{\c&H00FFAF&}★Subbed by fmck fansubs★\N{\c&HFFFFFF&}reddit.com/u/fmckfansubs\Npatreon.com/fmck
+

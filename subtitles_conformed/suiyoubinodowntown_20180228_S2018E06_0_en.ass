@@ -1,0 +1,844 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../WEDNESDAY DOWNTOWN 2018-02-28.mp4
+Video File: ../WEDNESDAY DOWNTOWN 2018-02-28.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 5
+Video Position: 118
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,60,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: Default Talking Over,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Matsumoto Talking Over,Arial,50,&H001525D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Hamada Talking Over,Arial,50,&H00FF0015,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,4,2,9,10,150,280,1
+Style: Comment,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&HFF000000,0,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Credit text title,Arial,60,&H64FFFFFF,&H64000000,&H64000000,&HFFFFFFFF,-1,0,0,0,90,100,0,0,1,6,4,2,11,11,15,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,185.951,100,0,0,3,36.6666,1.46666,5,9,9,8,1
+Style: fakelyrics,Arial,52,&H000A00EA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:44:24.94,Credit text title,,0,0,0,,Hello viewer! This video was created by volunteers. If you plan to alter the subs in anyway, please keep the credit as an action of gratitude towards those who have spent much of their free time to bring you subbed content. Enjoy!
+Comment: 0,0:00:00.00,0:00:19.10,Credit text title,,0,0,0,,End
+Comment: 0,0:14:47.40,0:14:50.27,Default,,0,0,0,,NTS Check back later
+Comment: 0,0:09:58.04,0:09:59.84,Default,,0,0,0,,End
+Dialogue: 0,0:00:00.11,0:44:24.97,Credit text title,,0,0,0,,{\c&HFFFFFF&\1a&HDC&\3c&H000000&\3a&HDC&\4c&HFFFFFF&\4a&HFF&\fscx63\fscy86\pos(123,56)}WDT Project
+Dialogue: 0,0:00:00.00,0:00:19.10,Default,,0,0,0,,{\pos(720,65)\bord0\shad0\1c&H000000&\p1\fade(0,1000)\alpha65}m 0 0  l 1800 0  1800 140  0 140
+Dialogue: 0,0:00:00.00,0:00:19.10,Credit text title,,0,0,0,,{\fscx52\fscy68\pos(718.5,50)}{\fade(0,1000)\c&H1525D4&\1a&H14&}Timers: {\c&HFFFFFF&}IngloriousBee, ShiratoHaki, Besseyy, Spectral-K, Phantom {\c&H00FFF1&}Translators: {\c&HFFFFFF&}Zebestt, SugaDuck
+Dialogue: 0,0:00:02.98,0:00:07.99,Hamada,,0,0,0,,It's Wednesday Downtown! Hello everyone!
+Dialogue: 0,0:00:07.99,0:00:11.69,Hamada,,0,0,0,,Okay let's meet our first presenter, come on out!
+Dialogue: 0,0:00:17.76,0:00:21.30,Hamada,,0,0,0,,It's Viking's Kotoge!
+Dialogue: 0,0:00:28.24,0:00:29.54,Matsumoto,,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:00:30.01,0:00:32.21,Default,,0,0,0,,I'm Kotoge damnit!
+Dialogue: 0,0:00:36.92,0:00:40.62,Hamada,,0,0,0,,No no no, that was the worst one ever
+Dialogue: 0,0:00:40.62,0:00:42.89,Hamada,,0,0,0,,You've done many weird things alot of times but...
+Dialogue: 0,0:00:42.89,0:00:45.92,Hamada,,0,0,0,,...this was it.
+Dialogue: 0,0:00:46.12,0:00:48.83,Default,,0,0,0,,Okay everyone, this show's popular corner...
+Dialogue: 0,0:00:48.83,0:00:52.56,Default,,0,0,0,,...the "there's someone" series, you might remember.
+Dialogue: 0,0:00:52.56,0:00:55.77,Default,,0,0,0,,For example, "There's someone when you open"...
+Dialogue: 0,0:00:55.77,0:00:58.27,Default,,0,0,0,,...is the scariest thing that could happen after all.
+Dialogue: 0,0:00:58.27,0:01:01.74,Default,,0,0,0,,"There's someone in the backseat" is the scariest thing that could happen
+Dialogue: 0,0:01:02.01,0:01:05.18,Default,,0,0,0,,"There's someone when you wake up" is the scariest thing that could happen
+Dialogue: 0,0:01:05.48,0:01:08.08,Matsumoto,,0,0,0,,There can't be any left though?
+Dialogue: 0,0:01:06.91,0:01:08.08,Default,,0,0,0,,About that...
+Dialogue: 0,0:01:08.08,0:01:11.75,Default,,0,0,0,,...always hearing "no more, no more left" but there were!
+Dialogue: 0,0:01:10.78,0:01:11.75,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:01:11.75,0:01:14.39,Default,,0,0,0,,Here is the one that I've brought this time
+Dialogue: 0,0:01:15.25,0:01:19.49,Hamada,,0,0,0,,Theory : "There's someone in the bed" is the scariest thing that could happen
+Dialogue: 0,0:01:19.49,0:01:21.59,Default,,0,0,0,,That gotta be scary!
+Dialogue: 0,0:01:19.49,0:01:21.59,Default,,0,0,0,,That is...
+Dialogue: 0,0:01:21.59,0:01:24.60,Default,,0,0,0,,That's definitely scary
+Dialogue: 0,0:01:25.70,0:01:28.93,Default,,0,0,0,,All in all, this is the stuff that Hamada-san loves!
+Dialogue: 0,0:01:28.93,0:01:32.84,Default,,0,0,0,,This is a bit that we do just to see Hamada-san laugh his ass off.
+Dialogue: 0,0:01:32.84,0:01:36.54,Matsumoto,,0,0,0,,Because he loves others' misfortunes, doesn't he?
+Dialogue: 0,0:01:37.08,0:01:42.21,Narrator,,0,0,0,,After this, we'll watch the "There's someone in the bed" prank loved by Hamada
+Dialogue: 0,0:01:44.38,0:01:45.28,Narrator,,0,0,0,,Also...
+Dialogue: 0,0:01:45.95,0:01:49.79,Narrator,,0,0,0,,The theory that if one member of a trio leaves and you're left with the dummy...
+Dialogue: 0,0:01:49.79,0:01:53.66,Narrator,,0,0,0,,...you can't go on, with Jungle Pocket.
+Dialogue: 0,0:01:53.66,0:01:54.46,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:01:55.06,0:02:01.60,Narrator,,0,0,0,,We'll also search for the "bean tanks" of Japan, who are smaller than 150cm and fatter than 100 kgs.
+Dialogue: 0,0:02:18.02,0:02:23.89,Narrator,,0,0,0,,Theory : "There's someone in the bed" is the scariest thing that could happen
+Dialogue: 0,0:02:24.49,0:02:27.06,Narrator,,0,0,0,,Our first target is...
+Dialogue: 0,0:02:27.83,0:02:30.06,Narrator,,0,0,0,,...Panzer's Ogata
+Dialogue: 0,0:02:30.06,0:02:33.23,Narrator,,0,0,0,,This time, with help from his wife...
+Dialogue: 0,0:02:33.23,0:02:36.94,Narrator,,0,0,0,,...we're testing the theory whilst he's alone in the house
+Dialogue: 0,0:02:37.64,0:02:41.44,Narrator,,0,0,0,,And we've hidden an unknown gentleman inside his bed
+Dialogue: 0,0:02:41.11,0:02:42.24,Default Talking Over,,0,0,0,,That's scary
+Dialogue: 0,0:02:42.94,0:02:45.44,Narrator,,0,0,0,,Standby is OK
+Dialogue: 0,0:02:44.38,0:02:45.81,Matsumoto Talking Over,,0,0,0,,That guy's scary as hell
+Dialogue: 0,0:02:45.94,0:02:49.38,Narrator,,0,0,0,,Ogata who returns home, suddenly...
+Dialogue: 0,0:02:52.92,0:02:55.05,Default,,0,0,0,,Ahh what the..!?
+Dialogue: 0,0:02:55.05,0:02:56.25,Default,,0,0,0,,THIS IS BULL...
+Dialogue: 0,0:03:04.53,0:03:06.57,Default,,0,0,0,,Ahh what the..!?
+Dialogue: 0,0:03:06.57,0:03:07.83,Default,,0,0,0,,THIS IS BULL...
+Dialogue: 0,0:03:08.90,0:03:10.70,Matsumoto Talking Over,,0,0,0,,This is fun!
+Dialogue: 0,0:03:11.87,0:03:14.17,Default,,0,0,0,,Ahh what the..!?
+Dialogue: 0,0:03:14.17,0:03:15.24,Default,,0,0,0,,THIS IS BULL...
+Dialogue: 0,0:03:17.54,0:03:21.68,Narrator,,0,0,0,,He flew out of the room out of fear
+Dialogue: 0,0:03:21.88,0:03:24.38,Matsumoto,,0,0,0,,This is fun!
+Dialogue: 0,0:03:25.08,0:03:28.79,Narrator,,0,0,0,,He even ran all the way out outside of his house
+Dialogue: 0,0:03:28.79,0:03:30.19,Default,,0,0,0,,Excuse us..
+Dialogue: 0,0:03:29.15,0:03:31.46,Matsumoto Talking Over,,0,0,0,,He went outside!
+Dialogue: 0,0:03:31.92,0:03:33.33,Matsumoto Talking Over,,0,0,0,,So he went all the way out
+Dialogue: 0,0:03:33.02,0:03:35.06,Default,,0,0,0,,Wai- Hold on
+Dialogue: 0,0:03:34.09,0:03:35.29,Default Talking Over,,0,0,0,,Scary~
+Dialogue: 0,0:03:35.06,0:03:37.10,Default,,0,0,0,,This isn't some kind of assault?
+Dialogue: 0,0:03:37.10,0:03:38.33,Default,,0,0,0,,It's fine?
+Dialogue: 0,0:03:39.03,0:03:42.97,Narrator,,0,0,0,,He ran outside barefooted into the snow out of fear
+Dialogue: 0,0:03:42.97,0:03:45.40,Hamada Talking Over,,0,0,0,,He couldn't understand anything
+Dialogue: 0,0:03:43.77,0:03:48.51,Narrator,,0,0,0,,Not to have the neighbours worry too much, we head inside.
+Dialogue: 0,0:03:47.87,0:03:50.31,Matsumoto Talking Over,,0,0,0,,Wah this is funny
+Dialogue: 0,0:03:48.87,0:03:50.98,Default,,0,0,0,,That's scary as hell man!
+Dialogue: 0,0:03:51.44,0:03:55.51,Default,,0,0,0,,That guy's act.. he can stop now, its enough!
+Dialogue: 0,0:03:55.51,0:03:57.58,Default,,0,0,0,,Say something like "Heyoo"
+Dialogue: 0,0:03:57.88,0:04:00.09,Default,,0,0,0,,He's really keeping it straight
+Dialogue: 0,0:04:00.35,0:04:03.79,Default,,0,0,0,,Ogata-san, I think you've had alot of pranks pulled on you but...
+Dialogue: 0,0:04:03.96,0:04:07.29,Default,,0,0,0,,...ranking those pranks by scariness what rank would this one be?
+Dialogue: 0,0:04:07.59,0:04:09.83,Default,,0,0,0,,Of course it's number 1!!
+Dialogue: 0,0:04:09.83,0:04:12.33,Default,,0,0,0,,It's number 1, it made me jump and run away
+Dialogue: 0,0:04:12.93,0:04:18.64,Narrator,,0,0,0,,As foreseen, this was clearly the scariest of them all
+Dialogue: 0,0:04:20.44,0:04:23.28,Narrator,,0,0,0,,Our next target is...
+Dialogue: 0,0:04:27.11,0:04:29.95,Narrator,,0,0,0,,Amakou Inter's Seiko
+Dialogue: 0,0:04:31.02,0:04:32.98,Default Talking Over,,0,0,0,,Oh god! Oh damn!
+Dialogue: 0,0:04:33.59,0:04:40.03,Narrator,,0,0,0,,She starts to change her clothes, unknowing of the weird man hiding in her house
+Dialogue: 0,0:04:40.79,0:04:42.96,Narrator,,0,0,0,,And then on to the bed...
+Dialogue: 0,0:04:41.53,0:04:43.36,Hamada Talking Over,,0,0,0,,Nobody wants to see that anyways
+Dialogue: 0,0:04:55.44,0:04:59.21,Hamada,,0,0,0,,She got completely paralysed!!
+Dialogue: 0,0:05:02.18,0:05:06.25,Narrator,,0,0,0,,She got paralysed altogether
+Dialogue: 0,0:05:03.82,0:05:05.98,Matsumoto Talking Over,,0,0,0,,Of course that'll happen
+Dialogue: 0,0:05:10.26,0:05:12.82,Hamada Talking Over,,0,0,0,,Haha she's completely frozen
+Dialogue: 0,0:05:20.73,0:05:23.77,Matsumoto Talking Over,,0,0,0,,I can't, this is too much...
+Dialogue: 0,0:05:21.47,0:05:22.43,Default,,0,0,0,,Wha-
+Dialogue: 0,0:05:23.57,0:05:25.14,Default,,0,0,0,,What?
+Dialogue: 0,0:05:25.14,0:05:27.61,Default,,0,0,0,,How was it?
+Dialogue: 0,0:05:27.61,0:05:31.24,Default,,0,0,0,,What the hell is this?
+Dialogue: 0,0:05:31.64,0:05:33.88,Default,,0,0,0,,What is this??
+Dialogue: 0,0:05:33.88,0:05:35.71,Default Talking Over,,0,0,0,,She can't even stand up
+Dialogue: 0,0:05:38.32,0:05:39.75,Hamada Talking Over,,0,0,0,,She went like this
+Dialogue: 0,0:05:41.42,0:05:43.92,Matsumoto,,0,0,0,,My head hurts man
+Dialogue: 0,0:05:44.32,0:05:45.79,Default,,0,0,0,,What show do you think this is?
+Dialogue: 0,0:05:45.79,0:05:48.09,Default,,0,0,0,,What show?
+Dialogue: 0,0:05:46.66,0:05:48.09,Default,,0,0,0,,Yes a show
+Dialogue: 0,0:05:48.09,0:05:51.16,Default,,0,0,0,,A show? There are shows like this?
+Dialogue: 0,0:05:51.16,0:05:53.37,Default,,0,0,0,,It's Wednesday Downtown
+Dialogue: 0,0:05:51.93,0:05:54.77,Matsumoto Talking Over,,0,0,0,,There aren't. you're right
+Dialogue: 0,0:05:52.16,0:05:54.77,Default Talking Over,,0,0,0,,Exactly
+Dialogue: 0,0:05:53.37,0:05:56.23,Default,,0,0,0,,Downtown?!
+Dialogue: 0,0:05:57.57,0:05:59.87,Default,,0,0,0,,Downtown...
+Dialogue: 0,0:06:00.21,0:06:02.37,Default,,0,0,0,,How would you rank this prank by scariness?
+Dialogue: 0,0:06:02.37,0:06:04.88,Default,,0,0,0,,It's no.1 of course!
+Dialogue: 0,0:06:04.88,0:06:07.45,Default,,0,0,0,,What the hell...
+Dialogue: 0,0:06:08.55,0:06:11.72,Default,,0,0,0,,There aren't no damn pranks like this
+Dialogue: 0,0:06:13.49,0:06:16.39,Default,,0,0,0,,I hate you Downtown...
+Dialogue: 0,0:06:17.29,0:06:19.62,Default,,0,0,0,,Just go somewhere quickly!
+Dialogue: 0,0:06:19.62,0:06:22.09,Default,,0,0,0,,That's my beloved bed ya know
+Dialogue: 0,0:06:22.09,0:06:25.06,Default,,0,0,0,,I haven't got any men over yet either
+Dialogue: 0,0:06:25.06,0:06:28.40,Default,,0,0,0,,Why the hell are you the first man to sleep in my bed?!
+Dialogue: 0,0:06:29.23,0:06:34.41,Narrator,,0,0,0,,Of course, it seems to be the scariest prank ever pulled on her
+Dialogue: 0,0:06:35.94,0:06:37.21,Default,,0,0,0,,It's as funny every time
+Dialogue: 0,0:06:37.48,0:06:39.08,Hamada,,0,0,0,,Yeah really
+Dialogue: 0,0:06:39.74,0:06:41.95,Narrator,,0,0,0,,And, our next target
+Dialogue: 0,0:06:41.95,0:06:43.28,Default Talking Over,,0,0,0,,There he is!
+Dialogue: 0,0:06:43.48,0:06:45.88,Narrator,,0,0,0,,Matenrou's Anthony
+Dialogue: 0,0:06:46.75,0:06:51.09,Narrator,,0,0,0,,Shooting in his house is not allowed by his agency...
+Dialogue: 0,0:06:51.69,0:06:57.13,Narrator,,0,0,0,,...so we have called him for a fake show and made him enter this hotel room
+Dialogue: 0,0:06:57.93,0:07:03.07,Narrator,,0,0,0,,By the way, the hotel's futon is thin and a person in it would easily be seen...
+Dialogue: 0,0:07:03.97,0:07:06.74,Narrator,,0,0,0,,...we will do the prank burying the man inside the bed itself
+Dialogue: 0,0:07:07.47,0:07:10.24,Narrator,,0,0,0,,The man who has been part of all the "There's someone" series...
+Dialogue: 0,0:07:10.24,0:07:13.24,Narrator,,0,0,0,,...has confirmed all theories "presented" to him...
+Dialogue: 0,0:07:13.24,0:07:15.98,Narrator,,0,0,0,,...as "scariest ever"...
+Dialogue: 0,0:07:16.55,0:07:18.08,Narrator,,0,0,0,,...what will happen...
+Dialogue: 0,0:07:20.15,0:07:23.12,Matsumoto Talking Over,,0,0,0,,That (hiding) guy's perseverance is amazing as well
+Dialogue: 0,0:07:28.96,0:07:32.33,Narrator,,0,0,0,,Anthony, who felt something was off about the bed...
+Dialogue: 0,0:07:36.20,0:07:38.04,Default,,0,0,0,,WAHH! WHAT THE-
+Dialogue: 0,0:07:39.97,0:07:41.27,Default,,0,0,0,,UWOOAH!
+Dialogue: 0,0:07:46.74,0:07:48.41,Default,,0,0,0,,WAHH! WHAT THE-
+Dialogue: 0,0:07:50.35,0:07:51.55,Default,,0,0,0,,UWOOAH!
+Dialogue: 0,0:07:54.39,0:07:55.95,Hamada Talking Over,,0,0,0,,Why the hell did you come back?
+Dialogue: 0,0:07:56.25,0:07:57.79,Default,,0,0,0,,WAHH! WHAT THE-
+Dialogue: 0,0:07:59.96,0:08:01.16,Default,,0,0,0,,UWOOAH!
+Dialogue: 0,0:08:04.20,0:08:06.10,Hamada Talking Over,,0,0,0,,Why the hell are you going back?
+Dialogue: 0,0:08:05.03,0:08:08.23,Default Talking Over,,0,0,0,,He checked one last time
+Dialogue: 0,0:08:07.63,0:08:09.17,Hamada Talking Over,,0,0,0,,What are you confirming?
+Dialogue: 0,0:08:09.77,0:08:10.67,Default,,0,0,0,,How was it?
+Dialogue: 0,0:08:10.67,0:08:13.14,Default,,0,0,0,,There's no "How was it?"...
+Dialogue: 0,0:08:13.64,0:08:15.14,Default,,0,0,0,,Do you understand what's going on?
+Dialogue: 0,0:08:15.14,0:08:16.81,Default,,0,0,0,,Wednesday Downtown
+Dialogue: 0,0:08:16.98,0:08:19.18,Default,,0,0,0,,Wha- what's this bed?
+Dialogue: 0,0:08:20.04,0:08:22.18,Default,,0,0,0,,It's special made
+Dialogue: 0,0:08:22.38,0:08:26.48,Default,,0,0,0,,By the way, considering all of the "there's someone" pranks...
+Dialogue: 0,0:08:26.48,0:08:28.49,Default,,0,0,0,,...how scary was it?
+Dialogue: 0,0:08:27.12,0:08:28.49,Default,,0,0,0,,I'm telling you...
+Dialogue: 0,0:08:28.49,0:08:31.12,Default,,0,0,0,,I can't put them in ranking
+Dialogue: 0,0:08:35.39,0:08:41.83,Narrator,,0,0,0,,Since "Mr. There's someone" can't put them in ranking, that means...
+Dialogue: 0,0:08:42.23,0:08:44.17,Narrator,,0,0,0,,...next we have this man
+Dialogue: 0,0:08:44.97,0:08:47.71,Narrator,,0,0,0,,Jungle Pocket's Saito
+Dialogue: 0,0:08:50.88,0:08:53.88,Narrator,,0,0,0,,Before, he got the "There's someone when you open it"...
+Dialogue: 0,0:08:54.38,0:08:56.48,Default,,0,0,0,,This is probably the scariest
+Dialogue: 0,0:08:56.48,0:08:58.92,Narrator,,0,0,0,,...said Saito, however...
+Dialogue: 0,0:08:59.58,0:09:02.09,Narrator,,0,0,0,,...will this surpass that?
+Dialogue: 0,0:09:02.89,0:09:09.16,Narrator,,0,0,0,,He checked in to a hotel before a film shooting
+Dialogue: 0,0:09:13.77,0:09:16.53,Narrator,,0,0,0,,After just a minute in after the entrance
+Dialogue: 0,0:09:16.53,0:09:19.04,Narrator,,0,0,0,,...the following happened
+Dialogue: 0,0:09:18.07,0:09:19.17,Default Talking Over,,0,0,0,,Ooh...
+Dialogue: 0,0:09:18.67,0:09:20.44,Matsumoto Talking Over,,0,0,0,,What? that's quick
+Dialogue: 0,0:09:29.98,0:09:30.92,Default,,0,0,0,,Wah...
+Dialogue: 0,0:09:38.86,0:09:40.36,Matsumoto Talking Over,,0,0,0,,Oh the pillow...
+Dialogue: 0,0:09:48.30,0:09:50.10,Default,,0,0,0,,How was it?
+Dialogue: 0,0:09:51.10,0:09:53.27,Default,,0,0,0,,How was it?
+Dialogue: 0,0:09:53.71,0:09:55.64,Default,,0,0,0,,Do you understand what's going on?
+Dialogue: 0,0:09:55.64,0:09:58.04,Default,,0,0,0,,Is it the same thing with that time? With the curtain?
+Dialogue: 0,0:09:58.04,0:10:02.18,Default,,0,0,0,,Yes, the "There's someone when you open it" prank
+Dialogue: 0,0:10:02.18,0:10:03.55,Default,,0,0,0,,Was it scarier than the previous one?
+Dialogue: 0,0:10:03.55,0:10:05.52,Default,,0,0,0,,So scary...
+Dialogue: 0,0:10:05.52,0:10:08.72,Default,,0,0,0,,SO scary
+Dialogue: 0,0:10:08.72,0:10:10.72,Default,,0,0,0,,This is no good...
+Dialogue: 0,0:10:11.30,0:10:13.96,Narrator,,0,0,0,,Compared to "Someone being there when you open",
+Dialogue: 0,0:10:14.32,0:10:18.24,Narrator,,0,0,0,,"Someone being in your bed" is way scarier
+Dialogue: 0,0:10:18.90,0:10:22.68,Narrator,,0,0,0,,And thus, it was verified to be the #1 scariest scenario
+Dialogue: 0,0:10:23.62,0:10:26.08,Narrator,,0,0,0,,Theory confirmed
+Dialogue: 0,0:10:26.98,0:10:31.18,Narrator,,0,0,0,,Lastly, we test the theory with {\i1}that guy{\i0}, just in case
+Dialogue: 0,0:10:30.96,0:10:32.74,Hamada Talking Over,,0,0,0,,Him again, huh
+Dialogue: 0,0:10:31.76,0:10:36.38,Narrator,,0,0,0,,After outside sources telling us that the house was empty, we start to set up the room
+Dialogue: 0,0:10:36.62,0:10:37.94,Hamada,,0,0,0,,They can enter so freely!
+Dialogue: 0,0:10:39.50,0:10:45.80,Narrator,,0,0,0,,However, since Kuro-chan carries out most of his activities on the bed, we couldn't hide the guy in his room
+Dialogue: 0,0:10:46.86,0:10:54.12,Narrator,,0,0,0,,Just for this time, we made a makeshift mattress with a hole cut out -- reverse massage table style
+Dialogue: 0,0:10:54.98,0:10:59.86,Narrator,,0,0,0,,Meanwhile, Kuro-chan has finished work, and is headed to dinner by himself
+Dialogue: 0,0:11:02.74,0:11:05.24,Default,,0,0,0,,"I'm so hungry, it's dinner time!
+Dialogue: 0,0:11:05.44,0:11:07.66,Default,,0,0,0,,Mackerel and negitoro bomb! (minced tuna bowl)
+Dialogue: 0,0:11:07.80,0:11:11.16,Default,,0,0,0,,Substitute rice with negitoro bomb!
+Dialogue: 0,0:11:11.16,0:11:14.52,Default,,0,0,0,,Healthy Dynamite!!"
+Dialogue: 0,0:11:11.94,0:11:13.94,Hamada Talking Over,,0,0,0,,He's so lying
+Dialogue: 0,0:11:15.32,0:11:19.22,Narrator,,0,0,0,,As always, Kuro-chan appeals his healthy meal. However..
+Dialogue: 0,0:11:20.26,0:11:25.38,Narrator,,0,0,0,,After his appearance on another TV show, {\i1}Meii no THE Taikoban!*{\i0}
+Dialogue: 0,0:11:20.26,0:11:41.08,Comment,,0,0,0,,{\i1\fscx71\fscy86\pos(466.5,232)}*Meii no THE Taikoban!{\i0} Is a Japanese medical variety TV show about celebrities' concerning health issues
+Dialogue: 0,0:11:27.14,0:11:28.78,Default,,0,0,0,,"Kuro-chan's blood sugar level is:
+Dialogue: 0,0:11:29.90,0:11:33.47,Default,,0,0,0,,Immediate hospitalization-level (of seriousness)
+Dialogue: 0,0:11:33.47,0:11:38.11,Default,,0,0,0,,You're in a situation where losing consciousness and passing away is only a matter of time
+Dialogue: 0,0:11:38.82,0:11:44.18,Narrator,,0,0,0,,His blood work results were serious enough for him to be hospitalized immediately
+Dialogue: 0,0:11:44.18,0:11:48.06,Narrator,,0,0,0,,Currently, he is consuming things that consist of low sugar content
+Dialogue: 0,0:11:48.06,0:11:51.62,Narrator,,0,0,0,,Or he was supposed to be. However..
+Dialogue: 0,0:11:49.36,0:11:51.62,Hamada Talking Over,,0,0,0,,See? I told you
+Dialogue: 0,0:11:52.40,0:11:59.22,Narrator,,0,0,0,,He was actually eating rice, miso soup, quail eggs, and butter-fried enoki mushrooms with his meal
+Dialogue: 0,0:12:01.84,0:12:07.54,Default,,0,0,0,,"Within the past 2 weeks, I've drastically changed my eating habits and health awareness.
+Dialogue: 0,0:12:07.54,0:12:11.08,Default,,0,0,0,,So, I pulled a fortune slip and got 'Great Blessing'!
+Dialogue: 0,0:12:11.08,0:12:13.46,Default,,0,0,0,,I can really tell that God is watching over me.
+Dialogue: 0,0:12:13.86,0:12:15.46,Default,,0,0,0,,I'm gonna do my best!"
+Dialogue: 0,0:12:16.86,0:12:20.42,Narrator,,0,0,0,,Yes indeed.. "God" is watching
+Dialogue: 0,0:12:21.02,0:12:26.38,Narrator,,0,0,0,,We have taken upon God and the doctor's role, and punished this liar
+Dialogue: 0,0:12:43.94,0:12:46.48,Default,,0,0,0,,Eh, eh what?
+Dialogue: 0,0:12:52.45,0:12:53.55,Default,,0,0,0,,Eh, what....
+Dialogue: 0,0:12:53.55,0:12:55.19,Default,,0,0,0,,Eh, I don't understand
+Dialogue: 0,0:12:55.19,0:12:56.32,Default,,0,0,0,,Eh, who are you?
+Dialogue: 0,0:12:57.12,0:13:01.43,Narrator,,0,0,0,,Since abnormal things happening in his own house has become a normal occurrence, (from this show)
+Dialogue: 0,0:13:01.43,0:13:06.30,Narrator,,0,0,0,,his reaction is a little weak
+Dialogue: 0,0:13:06.68,0:13:08.52,Default Talking Over,,0,0,0,,We overdid it
+Dialogue: 0,0:13:06.66,0:13:08.46,Narrator,,0,0,0,,In that regard,
+Dialogue: 0,0:13:09.53,0:13:11.00,Default,,0,0,0,,Eh.. what?
+Dialogue: 0,0:13:11.00,0:13:13.24,Default,,0,0,0,,Eh, what the heck happened to my bed?
+Dialogue: 0,0:13:14.08,0:13:17.96,Narrator,,0,0,0,,Putting the bed situation aside, we move on to the diet case
+Dialogue: 0,0:13:18.74,0:13:22.71,Default,,0,0,0,,Recently on Taikoban, you got a harsh lecture from the doctor right?
+Dialogue: 0,0:13:22.71,0:13:24.18,Default,,0,0,0,,Yeah on Monday
+Dialogue: 0,0:13:24.52,0:13:30.15,Narrator,,0,0,0,,Meii no THE Taikoban is airing every Monday. However,
+Dialogue: 0,0:13:30.16,0:13:34.16,Narrator,,0,0,0,,ever since his last appearance, even the doctors from the show
+Dialogue: 0,0:13:34.16,0:13:40.90,Narrator,,0,0,0,,have been following Kuro-chan's lifestyle habits on Twitter
+Dialogue: 0,0:13:41.13,0:13:45.67,Default,,0,0,0,,It seems like you had a very healthy meal today
+Dialogue: 0,0:13:45.67,0:13:47.71,Default,,0,0,0,,You didn't eat rice today?
+Dialogue: 0,0:13:47.71,0:13:50.17,Default,,0,0,0,,Today.. I haven't eaten rice, yes.
+Dialogue: 0,0:13:50.17,0:13:51.84,Default,,0,0,0,,You're not lying, right?
+Dialogue: 0,0:13:50.84,0:13:51.84,Default,,0,0,0,,No, I'm not lying
+Dialogue: 0,0:13:51.84,0:13:53.64,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:13:52.51,0:13:53.64,Default,,0,0,0,,Yes, I'm sure
+Dialogue: 0,0:13:53.64,0:13:55.61,Default,,0,0,0,,I see...........
+Dialogue: 0,0:13:55.61,0:13:59.02,Default,,0,0,0,,Quail eggs..
+Dialogue: 0,0:13:59.02,0:14:01.25,Default,,0,0,0,,Rice and miso soup.....
+Dialogue: 0,0:14:01.25,0:14:04.12,Default,,0,0,0,,Mackerel..........
+Dialogue: 0,0:14:04.12,0:14:07.79,Default,,0,0,0,,Butter-fried enoki mushrooms...............
+Dialogue: 0,0:14:07.79,0:14:11.00,Default,,0,0,0,,You haven't eaten those, right?
+Dialogue: 0,0:14:11.00,0:14:12.86,Default,,0,0,0,,If it was my misunderstanding, then I apologize
+Dialogue: 0,0:14:14.47,0:14:16.53,Default,,0,0,0,,There was a detective again?
+Dialogue: 0,0:14:20.24,0:14:23.74,Default,,0,0,0,,Last time we aired, after the show when the cameras weren't rolling
+Dialogue: 0,0:14:23.74,0:14:25.08,Default,,0,0,0,,you're really in a dangerous position
+Dialogue: 0,0:14:25.08,0:14:28.18,Default,,0,0,0,,It's so bad it's something that shouldn't be managed by you alone
+Dialogue: 0,0:14:28.18,0:14:32.35,Default,,0,0,0,,All the doctors (on this show) met up to talk to you
+Dialogue: 0,0:14:32.35,0:14:34.22,Default,,0,0,0,,and even then, our words did not go through you
+Dialogue: 0,0:14:34.22,0:14:36.89,Default,,0,0,0,,I was extremely shocked
+Dialogue: 0,0:14:37.42,0:14:38.62,Default,,0,0,0,,You're not lying, right?
+Dialogue: 0,0:14:38.62,0:14:41.29,Default,,0,0,0,,You're keeping your physical health in mind, right?
+Dialogue: 0,0:14:42.66,0:14:43.90,Default,,0,0,0,,Wait..hold on a minute
+Dialogue: 0,0:14:43.19,0:14:43.90,Default,,0,0,0,,You're lying, right?
+Dialogue: 0,0:14:43.90,0:14:45.30,Default,,0,0,0,,Wait, hold on hold on hold on
+Dialogue: 0,0:14:45.30,0:14:47.40,Default,,0,0,0,,If you're lying, we're going to report to the doctor
+Dialogue: 0,0:14:46.30,0:14:47.40,Default,,0,0,0,,No, you can't do thatー
+Dialogue: 0,0:14:47.40,0:14:50.27,Default,,0,0,0,,{\fscx135\fscy153}They're so naggy
+Dialogue: 0,0:14:50.27,0:14:51.44,Default,,0,0,0,,No seriously
+Dialogue: 0,0:14:51.44,0:14:54.47,Default,,0,0,0,,I don't know what kind of specialist they are, but they're so naggy
+Dialogue: 0,0:14:54.47,0:14:56.34,Default,,0,0,0,,Our words did not go through you
+Dialogue: 0,0:14:56.34,0:14:59.01,Default,,0,0,0,,I was extremely shocked
+Dialogue: 0,0:14:59.84,0:15:02.31,Default,,0,0,0,,There's that woman who fake cries too
+Dialogue: 0,0:15:02.72,0:15:06.38,Narrator,,0,0,0,,In conclusion, he should just die
+Dialogue: 0,0:15:11.30,0:15:16.43,Default,,0,0,0,,Upon further investigations, we concluded that he should just die
+Dialogue: 0,0:15:16.43,0:15:18.26,Matsumoto,,0,0,0,,That's what we came to, huh
+Dialogue: 0,0:15:17.26,0:15:18.26,Default,,0,0,0,,I guess so
+Dialogue: 0,0:15:18.40,0:15:20.82,Hamada,,0,0,0,,Seiko's bit was crazy!
+Dialogue: 0,0:15:20.82,0:15:24.32,Default,,0,0,0,,She was like
+Dialogue: 0,0:15:24.32,0:15:28.44,Default,,0,0,0,,Amazing how people can move like that
+Dialogue: 0,0:15:27.26,0:15:28.44,Hamada,,0,0,0,,She pulled her back and fell
+Dialogue: 0,0:15:29.04,0:15:31.62,Default,,0,0,0,,She legit pulled her back and couldn't move
+Dialogue: 0,0:15:31.62,0:15:34.20,Default,,0,0,0,,You really can't stand up when that happens, huh
+Dialogue: 0,0:15:34.20,0:15:36.36,Matsumoto,,0,0,0,,That made my head hurt..
+Dialogue: 0,0:15:36.36,0:15:39.28,Matsumoto,,0,0,0,,from laughing so much
+Dialogue: 0,0:15:39.44,0:15:40.88,Default,,0,0,0,,Fujii-san what did you think?
+Dialogue: 0,0:15:40.88,0:15:44.38,Default,,0,0,0,,What's scary is that Hamada-san was like, "Those sheets are in the way"
+Dialogue: 0,0:15:44.38,0:15:49.76,Default,,0,0,0,,Like an evil mastermind plotting was so scary
+Dialogue: 0,0:15:49.78,0:15:52.16,Matsumoto,,0,0,0,,He doesn't plan on stopping
+Dialogue: 0,0:15:52.16,0:15:53.76,Default,,0,0,0,,His evil thoughts just come out subconsciously
+Dialogue: 0,0:15:53.76,0:15:56.90,Default,,0,0,0,,to promote fear even more
+Dialogue: 0,0:15:59.16,0:16:01.42,Hamada,,0,0,0,,Introducing our next presenter, come on out!
+Dialogue: 0,0:16:08.58,0:16:11.96,Hamada,,0,0,0,,It's Kosaka Daimaou
+Dialogue: 0,0:16:11.96,0:16:14.76,Matsumoto,,0,0,0,,A pretty rare appearance
+Dialogue: 0,0:16:13.70,0:16:14.76,Default,,0,0,0,,Yes indeed
+Dialogue: 0,0:16:14.76,0:16:17.94,Default,,0,0,0,,This is my first appearance and I'm shaking like a new-born deer
+Dialogue: 0,0:16:17.94,0:16:19.00,Hamada,,0,0,0,,What the heck
+Dialogue: 0,0:16:19.00,0:16:20.89,Default,,0,0,0,,This is sudden but,
+Dialogue: 0,0:16:20.89,0:16:26.08,Default,,0,0,0,,I was originally doing comedy in a trio
+Dialogue: 0,0:16:26.08,0:16:27.94,Default,,0,0,0,,I think many people don't know this
+Dialogue: 0,0:16:27.94,0:16:30.76,Matsumoto,,0,0,0,,Yeah, I didn't know you were in a trio
+Dialogue: 0,0:16:30.76,0:16:35.44,Default,,0,0,0,,This time, I wanted to bring up something that relates to us trio comedians
+Dialogue: 0,0:16:35.44,0:16:38.74,Default,,0,0,0,,this theory is what I brought
+Dialogue: 0,0:16:39.82,0:16:45.58,Hamada,,0,0,0,,Trio comedians: If one person leaves and one is useless, the duo won't last
+Dialogue: 0,0:16:48.04,0:16:51.58,Matsumoto,,0,0,0,,Hmm.. I don't have experience with a trio so..
+Dialogue: 0,0:16:50.64,0:16:51.58,Default,,0,0,0,,Right, indeed
+Dialogue: 0,0:16:51.58,0:16:58.00,Default,,0,0,0,,Usually in a trio, one or two are useless
+Dialogue: 0,0:16:58.00,0:17:01.20,Hamada,,0,0,0,,How was it for you guys? Did you guys all decide to break up?
+Dialogue: 0,0:17:01.22,0:17:05.06,Default,,0,0,0,,It was actually one by one, like Satomi Hakkenden*
+Dialogue: 0,0:17:01.22,0:17:11.18,Comment,,0,0,0,,{\i1\fscx47\fscy73\pos(643.5,176)}*Nanso Satomi Hakkenden{\i0} was a literary novel from the Edo period about 8 samurais that descended from dogs
+Dialogue: 0,0:17:01.22,0:17:02.74,Hamada,,0,0,0,,Like 2 people remaining?
+Dialogue: 0,0:17:03.02,0:17:04.46,Hamada,,0,0,0,,Oh I see
+Dialogue: 0,0:17:05.06,0:17:06.72,Default,,0,0,0,,One by one
+Dialogue: 0,0:17:08.34,0:17:11.18,Default,,0,0,0,,Kind of like that, yes
+Dialogue: 0,0:17:11.66,0:17:15.92,Hamada,,0,0,0,,Who are you going to use to verify this theory?
+Dialogue: 0,0:17:16.12,0:17:18.60,Default,,0,0,0,,I have a team that is perfect for this theory
+Dialogue: 0,0:17:18.60,0:17:19.56,Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:17:19.56,0:17:20.88,Default,,0,0,0,,Here they are
+Dialogue: 0,0:17:21.18,0:17:24.26,Default,,0,0,0,,Jungle Pocket
+Dialogue: 0,0:17:24.86,0:17:27.52,Matsumoto,,0,0,0,,Otake....It's gonna be Otake
+Dialogue: 0,0:17:29.08,0:17:32.42,Default,,0,0,0,,I mean this theory is basically made for Jungle Pocket
+Dialogue: 0,0:17:32.42,0:17:34.18,Default,,0,0,0,,If Saito-san were to leave,
+Dialogue: 0,0:17:34.76,0:17:37.90,Default,,0,0,0,,Oota and Otake would remain
+Dialogue: 0,0:17:37.90,0:17:40.27,Hamada,,0,0,0,,If Otake can last with Oota
+Dialogue: 0,0:17:40.28,0:17:41.82,Default,,0,0,0,,Is what we're trying to prove, yes
+Dialogue: 0,0:17:41.82,0:17:44.50,Default,,0,0,0,,I was expecting us to ponder a little more on who's the "useless" one
+Dialogue: 0,0:17:44.50,0:17:48.28,Default,,0,0,0,,Everyone was quickly set on who is was so it shocked me
+Dialogue: 0,0:17:49.20,0:17:56.72,Narrator,,0,0,0,,Theory: Trio comedians - If one person leaves and one is useless, the duo won't last
+Dialogue: 0,0:17:57.78,0:18:03.12,Narrator,,0,0,0,,First and foremost, we begin by explaining our investigation to the two as facilitators
+Dialogue: 0,0:18:03.20,0:18:05.86,Hamada Talking Over,,0,0,0,,Oh Otake is gonna be the facilitator
+Dialogue: 0,0:18:04.43,0:18:10.63,Default,,0,0,0,,'We're going to set up the prank as "Saito-san leaving the group to become a pin-genin"*
+Dialogue: 0,0:18:04.43,0:18:17.74,Comment,,0,0,0,,{\fscx72\fscy91\pos(373.5,194)}*Pin-genin is an comedian that goes solo
+Dialogue: 0,0:18:10.63,0:18:17.74,Default,,0,0,0,,In the scenario, Oota-san would have to go on with Otake-san
+Dialogue: 0,0:18:19.20,0:18:22.40,Matsumoto Talking Over,,0,0,0,,What kind of role is Otake supposed to play?
+Dialogue: 0,0:18:18.34,0:18:23.10,Narrator,,0,0,0,,In this case, when Saito leaves Jungle Pocket,
+Dialogue: 0,0:18:23.10,0:18:27.96,Narrator,,0,0,0,,we investigate to see if Oota can continue as a duo with the "useless" Otake
+Dialogue: 0,0:18:27.44,0:18:29.52,Default Talking Over,,0,0,0,,This time he's the facilitator right?
+Dialogue: 0,0:18:28.79,0:18:34.26,Default,,0,0,0,,To be completely honest, continuing the duo with Otake-san
+Dialogue: 0,0:18:34.26,0:18:35.53,Default,,0,0,0,,is pretty rough
+Dialogue: 0,0:18:37.90,0:18:39.43,Default,,0,0,0,,Uh..well..
+Dialogue: 0,0:18:39.43,0:18:41.97,Default,,0,0,0,,Is it me or am I being a little disrespected here?
+Dialogue: 0,0:18:39.04,0:18:40.78,Hamada Talking Over,,0,0,0,,He said it so clearly
+Dialogue: 0,0:18:41.97,0:18:43.63,Default,,0,0,0,,Uh, well well..
+Dialogue: 0,0:18:43.83,0:18:47.87,Default,,0,0,0,,If you ask if it's rough or not...then I guess it is rough, realistically
+Dialogue: 0,0:18:48.38,0:18:53.80,Narrator,,0,0,0,,An uncommon prank setting where the facilitator gets his feelings hurt...
+Dialogue: 0,0:18:54.68,0:19:01.09,Default,,0,0,0,,Well actually, there are a lot of times where they're on their own when I'm working alone
+Dialogue: 0,0:19:01.09,0:19:03.29,Default,,0,0,0,,Like during live events
+Dialogue: 0,0:19:03.29,0:19:06.49,Default,,0,0,0,,There are times where we work just the two of us
+Dialogue: 0,0:19:06.66,0:19:08.86,Default,,0,0,0,,Oota did say that it was pretty rough when it's just the two of them
+Dialogue: 0,0:19:08.86,0:19:10.36,Default,,0,0,0,,He said "Yeah it's pretty rough when it's us two"
+Dialogue: 0,0:19:10.36,0:19:11.36,Default,,0,0,0,,I've never heard that from Otake but
+Dialogue: 0,0:19:11.36,0:19:13.30,Default,,0,0,0,,Oota said it was pretty rough
+Dialogue: 0,0:19:13.66,0:19:15.63,Default,,0,0,0,,That's the first time I heard that...
+Dialogue: 0,0:19:15.63,0:19:16.97,Default,,0,0,0,,I've never heard that before...
+Dialogue: 0,0:19:18.14,0:19:20.12,Narrator,,0,0,0,,As expected
+Dialogue: 0,0:19:21.11,0:19:23.51,Default,,0,0,0,,When something like that were to actually happen,
+Dialogue: 0,0:19:23.51,0:19:26.91,Default,,0,0,0,,do you think Oota-san would continue to work with you?
+Dialogue: 0,0:19:27.65,0:19:29.78,Default,,0,0,0,,Well how should I know
+Dialogue: 0,0:19:29.78,0:19:33.35,Default,,0,0,0,,I don't know. I guess we'll have to see
+Dialogue: 0,0:19:33.65,0:19:35.39,Default,,0,0,0,,I think there's a 50/50 chance
+Dialogue: 0,0:19:35.39,0:19:38.59,Default,,0,0,0,,I seriously have no idea what he would choose
+Dialogue: 0,0:19:40.06,0:19:41.46,Default,,0,0,0,,50/50 huh ....
+Dialogue: 0,0:19:42.49,0:19:45.80,Default,,0,0,0,,Well well well well..... 50/50 huh
+Dialogue: 0,0:20:00.01,0:20:04.45,Narrator,,0,0,0,,In order for this prank to be realistic and efficient,
+Dialogue: 0,0:20:04.45,0:20:12.96,Narrator,,0,0,0,,Before the break up of the trio is announced, Saito's pin-genin wishes are going to be flaunted as shown:
+Dialogue: 0,0:19:58.98,0:20:12.96,Narrator,,0,0,0,,{\fscx52\fscy80\pos(750,394)}Speak with other people that have experienced group break-ups
+Dialogue: 0,0:19:58.98,0:20:12.96,Narrator,,0,0,0,,{\fscx52\fscy80\pos(750,580)}Talk about actor aspirations during public interviews
+Dialogue: 0,0:19:58.98,0:20:12.96,Narrator,,0,0,0,,{\fscx52\fscy80\pos(750,744)}Saito's pin-genin wishes are revealed by other senior comedians
+Dialogue: 0,0:19:58.98,0:20:12.96,Narrator,,0,0,0,,{\fscx52\fscy80\pos(750,910)}Announce break-up
+Dialogue: 0,0:20:13.42,0:20:16.46,Narrator,,0,0,0,,First, the trio break-up senior comedian -
+Dialogue: 0,0:20:16.46,0:20:18.63,Narrator,,0,0,0,,Taketo from B Course
+Dialogue: 0,0:20:19.10,0:20:22.70,Narrator,,0,0,0,,will start talking to Saito despite being unacquainted with him
+Dialogue: 0,0:20:22.70,0:20:26.37,Narrator,,0,0,0,,talking about break-ups in a sincere, intimate manner
+Dialogue: 0,0:20:26.57,0:20:30.31,Narrator,,0,0,0,,to purposely raise suspicion about Saito leaving the group
+Dialogue: 0,0:20:32.14,0:20:34.68,Default,,0,0,0,,Good morning
+Dialogue: 0,0:20:35.15,0:20:36.38,Default,,0,0,0,,You had a live recording today?
+Dialogue: 0,0:20:36.38,0:20:38.05,Default,,0,0,0,,Yeah, Hiruneta
+Dialogue: 0,0:20:38.05,0:20:39.42,Default,,0,0,0,,Oh, Hiruneta
+Dialogue: 0,0:20:40.38,0:20:43.12,Default,,0,0,0,,Did we have a meeting?
+Dialogue: 0,0:20:41.49,0:20:43.12,Default,,0,0,0,,Yeah, I wanted to meet a little
+Dialogue: 0,0:20:43.65,0:20:46.86,Default,,0,0,0,,Oh, thank you very much for the meal last time
+Dialogue: 0,0:20:45.02,0:20:46.86,Default,,0,0,0,,Oh no worries at all
+Dialogue: 0,0:20:46.92,0:20:48.56,Default,,0,0,0,,Sorry, I'll catch you later
+Dialogue: 0,0:20:48.56,0:20:52.13,Default,,0,0,0,,If you want to discuss things again, let me know
+Dialogue: 0,0:20:50.16,0:20:52.13,Default,,0,0,0,,Yes, understood
+Dialogue: 0,0:20:53.10,0:20:55.37,Default,,0,0,0,,Saito, can I see you real quick?
+Dialogue: 0,0:20:53.70,0:20:55.37,Default,,0,0,0,,Yes
+Dialogue: 0,0:20:59.24,0:21:00.37,Default,,0,0,0,,Thank you for your hard work
+Dialogue: 0,0:21:00.50,0:21:02.74,Default Talking Over,,0,0,0,,I would wonder what happened
+Dialogue: 0,0:21:02.07,0:21:03.97,Default,,0,0,0,,Did he go ask for advice about something?
+Dialogue: 0,0:21:03.31,0:21:03.97,Default,,0,0,0,,Who?
+Dialogue: 0,0:21:03.97,0:21:06.51,Default,,0,0,0,,Well, uhh, a-a-a-advice...
+Dialogue: 0,0:21:06.84,0:21:08.75,Narrator,,0,0,0,,Not used to being a facilitator,
+Dialogue: 0,0:21:09.01,0:21:12.65,Narrator,,0,0,0,,the "useless" genin hardcore stutters
+Dialogue: 0,0:21:12.78,0:21:15.22,Default,,0,0,0,,He said, "If you want to discuss something again"
+Dialogue: 0,0:21:15.39,0:21:16.92,Default,,0,0,0,,He said, "If you want to discuss something again"
+Dialogue: 0,0:21:16.92,0:21:18.62,Default,,0,0,0,,To Saito?
+Dialogue: 0,0:21:17.29,0:21:18.62,Default,,0,0,0,,Yeah
+Dialogue: 0,0:21:19.02,0:21:20.49,Default,,0,0,0,,Advice?
+Dialogue: 0,0:21:21.03,0:21:24.46,Default,,0,0,0,,Advice..I don't think he would
+Dialogue: 0,0:21:25.46,0:21:28.40,Narrator,,0,0,0,,Oota starts to question what happened
+Dialogue: 0,0:21:28.70,0:21:30.17,Narrator,,0,0,0,,Then..
+Dialogue: 0,0:21:30.73,0:21:33.60,Narrator,,0,0,0,,Next step: During a fake magazine interview,
+Dialogue: 0,0:21:33.60,0:21:36.24,Narrator,,0,0,0,,Saito talks about aspiring to become an actor
+Dialogue: 0,0:21:36.24,0:21:39.88,Narrator,,0,0,0,,and how he can't let go of his passion
+Dialogue: 0,0:21:40.71,0:21:42.58,Default,,0,0,0,,Who would be someone you aspire to become?
+Dialogue: 0,0:21:42.91,0:21:44.55,Default,,0,0,0,,Who is that person for you?
+Dialogue: 0,0:21:44.88,0:21:47.69,Default,,0,0,0,,For me, it'd be Tsutsumi Shinichi*
+Dialogue: 0,0:21:44.88,0:21:55.96,Comment,,0,0,0,,{\fscx57\fscy80\pos(512,185)}*Tsutsumi Shinichi is a very well-known actor that has won many awards
+Dialogue: 0,0:21:47.89,0:21:49.49,Default,,0,0,0,,Eh, you want to be an actor?
+Dialogue: 0,0:21:49.49,0:21:52.79,Default,,0,0,0,,Well I originally came into this industry to become an actor
+Dialogue: 0,0:21:52.99,0:21:55.86,Default,,0,0,0,,As an actor...
+Dialogue: 0,0:21:55.96,0:22:00.26,Default,,0,0,0,,My desire to want to progress alone is pretty strong, yes
+Dialogue: 0,0:22:00.60,0:22:02.80,Default,,0,0,0,,Well, I suppose
+Dialogue: 0,0:22:03.13,0:22:06.10,Default,,0,0,0,,What you want to be and reality is a different story
+Dialogue: 0,0:22:06.64,0:22:08.31,Narrator,,0,0,0,,Third step:
+Dialogue: 0,0:22:08.31,0:22:11.21,Narrator,,0,0,0,,A senior that is close to both Oota and Saito -
+Dialogue: 0,0:22:11.21,0:22:13.78,Narrator,,0,0,0,,Matsuoka from Chocolate Planet
+Dialogue: 0,0:22:14.38,0:22:17.25,Narrator,,0,0,0,,will reveal that Saito's wishes are leaning towards
+Dialogue: 0,0:22:17.25,0:22:20.12,Narrator,,0,0,0,,wanting to be a pin-genin
+Dialogue: 0,0:22:19.38,0:22:21.42,Hamada Talking Over,,0,0,0,,Hmm, I see
+Dialogue: 0,0:22:20.68,0:22:23.32,Default,,0,0,0,,I was drinking with Shinji (Saito) last time
+Dialogue: 0,0:22:21.89,0:22:23.32,Default,,0,0,0,,Oh really
+Dialogue: 0,0:22:23.79,0:22:26.26,Default,,0,0,0,,He seemed really depressed
+Dialogue: 0,0:22:27.09,0:22:28.79,Default,,0,0,0,,He was like,
+Dialogue: 0,0:22:29.26,0:22:31.70,Default,,0,0,0,,"If I decided to go on my own, what would you think?"
+Dialogue: 0,0:22:31.70,0:22:33.06,Default,,0,0,0,,You mean, like a pin-genin?
+Dialogue: 0,0:22:33.06,0:22:36.13,Default,,0,0,0,,Something like that. So I said "what do you mean?"
+Dialogue: 0,0:22:36.23,0:22:38.24,Default,,0,0,0,,He was like "If I'm alone, then I can see it" (his future)
+Dialogue: 0,0:22:38.40,0:22:40.97,Default,,0,0,0,,"What do you mean, you can see it?" I asked
+Dialogue: 0,0:22:39.54,0:22:40.97,Default,,0,0,0,,What is that supposed to mean
+Dialogue: 0,0:22:40.97,0:22:42.17,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:22:42.17,0:22:44.34,Default,,0,0,0,,I don't know, but he was really pushing the subject
+Dialogue: 0,0:22:45.08,0:22:47.98,Default,,0,0,0,,I was like, really? That sudden?
+Dialogue: 0,0:22:48.21,0:22:51.55,Default,,0,0,0,,I mean he's been in a lot of movies and dramas lately
+Dialogue: 0,0:22:51.72,0:22:54.32,Default,,0,0,0,,Well he makes it seem like he really wants to do that kind of stuff
+Dialogue: 0,0:22:54.79,0:22:56.45,Default,,0,0,0,,The acting stuff right?
+Dialogue: 0,0:22:56.45,0:22:57.72,Default,,0,0,0,,Lately, yeah
+Dialogue: 0,0:22:57.72,0:23:00.66,Default,,0,0,0,,He was talking about some musical
+Dialogue: 0,0:23:00.69,0:23:02.29,Default,,0,0,0,,{\i1}The Little Mermaid{\i0}
+Dialogue: 0,0:23:02.29,0:23:03.83,Default,,0,0,0,,Nope, he didn't make the cut
+Dialogue: 0,0:23:03.83,0:23:05.13,Default,,0,0,0,,If he were to be in that,
+Dialogue: 0,0:23:05.13,0:23:07.10,Default,,0,0,0,,he would've been working with them for a year
+Dialogue: 0,0:23:07.10,0:23:08.53,Default,,0,0,0,,They would be on tour for a year
+Dialogue: 0,0:23:08.53,0:23:10.23,Default,,0,0,0,,Yeah, going around the world for a year or something
+Dialogue: 0,0:23:10.87,0:23:13.07,Default,,0,0,0,,He's trying to do something by himself
+Dialogue: 0,0:23:13.77,0:23:15.57,Default,,0,0,0,,That's disturbing...
+Dialogue: 0,0:23:16.41,0:23:19.28,Narrator,,0,0,0,,With 3 of these suspicious role-play
+Dialogue: 0,0:23:19.28,0:23:21.71,Narrator,,0,0,0,,Oota begins to take notice
+Dialogue: 0,0:23:21.71,0:23:23.58,Narrator,,0,0,0,,of Saito's sudden odd behavior
+Dialogue: 0,0:23:24.18,0:23:26.18,Narrator,,0,0,0,,At last, the main event:
+Dialogue: 0,0:23:26.18,0:23:28.92,Narrator,,0,0,0,,Announcing the trio's break-up
+Dialogue: 0,0:23:28.72,0:23:30.89,Hamada Talking Over,,0,0,0,,The set-up (acting) is pretty good
+Dialogue: 0,0:23:30.22,0:23:33.12,Narrator,,0,0,0,,Will Oota decide to continue to be a due with "useless" Otake?
+Dialogue: 0,0:23:33.12,0:23:36.59,Narrator,,0,0,0,,Will Oota decide to continue to be a due with "useless" Otake?
+Dialogue: 0,0:23:37.19,0:23:43.40,Narrator,,0,0,0,,This day, Oota was instructed by his manager to meet at Yoshimoto's head office
+Dialogue: 0,0:23:47.44,0:23:49.61,Default,,0,0,0,,We have something that needs to be discussed
+Dialogue: 0,0:23:49.61,0:23:52.34,Default,,0,0,0,,Saito-san, if you would explain to the 2 of them
+Dialogue: 0,0:23:52.61,0:23:54.68,Default,,0,0,0,,It's something that should be discussed in our presence
+Dialogue: 0,0:23:54.68,0:23:56.68,Default,,0,0,0,,It's something that should be discussed in our presence
+Dialogue: 0,0:23:57.01,0:23:58.48,Default,,0,0,0,,Eh?
+Dialogue: 0,0:23:58.75,0:24:00.45,Default,,0,0,0,,Uhm..
+Dialogue: 0,0:24:01.85,0:24:04.99,Default,,0,0,0,,I've been thinking about this for a while
+Dialogue: 0,0:24:07.66,0:24:11.63,Default,,0,0,0,,Well, to be frank,
+Dialogue: 0,0:24:12.26,0:24:16.30,Default,,0,0,0,,I would like to break-up,
+Dialogue: 0,0:24:16.30,0:24:20.50,Default,,0,0,0,,and for myself to go on as a solo
+Dialogue: 0,0:24:23.91,0:24:26.14,Default,,0,0,0,,Eh, what do you mean? Then, eh...
+Dialogue: 0,0:24:26.54,0:24:27.91,Default,,0,0,0,,Well..
+Dialogue: 0,0:24:28.38,0:24:30.91,Default,,0,0,0,,I came to Tokyo because
+Dialogue: 0,0:24:31.28,0:24:34.45,Default,,0,0,0,,I wanted to be an actor
+Dialogue: 0,0:24:34.75,0:24:37.96,Default,,0,0,0,,I was fortunate to be able to be in dramas and movies
+Dialogue: 0,0:24:37.96,0:24:39.52,Default,,0,0,0,,And of course on top of that,
+Dialogue: 0,0:24:39.52,0:24:44.36,Default,,0,0,0,,being able to succeed in the Owarai industry
+Dialogue: 0,0:24:44.36,0:24:46.73,Default,,0,0,0,,was because of you two
+Dialogue: 0,0:24:46.86,0:24:48.50,Default,,0,0,0,,Eh, you mean you're going to be an actor?
+Dialogue: 0,0:24:48.50,0:24:50.93,Default,,0,0,0,,I want to continue to work hard as an actor
+Dialogue: 0,0:24:51.90,0:24:54.64,Default,,0,0,0,,I think for myself to continue being a pin-genin
+Dialogue: 0,0:24:54.64,0:24:57.44,Default,,0,0,0,,is extremely disrespectful to you two
+Dialogue: 0,0:24:58.44,0:25:00.34,Default,,0,0,0,,You're serious....
+Dialogue: 0,0:25:01.28,0:25:05.15,Default,,0,0,0,,I mean you're already in a bunch of movies and dramas
+Dialogue: 0,0:25:05.75,0:25:10.02,Default,,0,0,0,,That's something you can still do while being a comedian
+Dialogue: 0,0:25:10.32,0:25:12.26,Default,,0,0,0,,I have a strong desire to work
+Dialogue: 0,0:25:12.26,0:25:14.69,Default,,0,0,0,,alone as an actor, not a comedian
+Dialogue: 0,0:25:14.69,0:25:18.53,Default,,0,0,0,,That's what I want to do
+Dialogue: 0,0:25:18.80,0:25:21.60,Default,,0,0,0,,I'm so sorry. I'm terribly sorry
+Dialogue: 0,0:25:22.37,0:25:24.50,Default,,0,0,0,,Dude, that's so tough...
+Dialogue: 0,0:25:24.50,0:25:27.27,Default,,0,0,0,,Everything is so sudden
+Dialogue: 0,0:25:29.21,0:25:30.64,Matsumoto,,0,0,0,,What the hell
+Dialogue: 0,0:25:30.64,0:25:32.44,Hamada,,0,0,0,,Otake you don't need to add in unnecessary commentary
+Dialogue: 0,0:25:33.34,0:25:37.65,Narrator,,0,0,0,,Being thrown into this situation, Oota can't hide his shocked expression
+Dialogue: 0,0:25:38.75,0:25:42.99,Narrator,,0,0,0,,20 minutes after, as the conversation comes to a halt,
+Dialogue: 0,0:25:43.12,0:25:45.19,Default,,0,0,0,,Because I want to pursue this seriously,
+Dialogue: 0,0:25:45.19,0:25:48.33,Default,,0,0,0,,I want my focus to be solely on this
+Dialogue: 0,0:25:50.59,0:25:52.90,Default,,0,0,0,,So, that means you've completely made up your mind on this
+Dialogue: 0,0:25:53.20,0:25:56.37,Default,,0,0,0,,I thought it'd be disrespectful to you two
+Dialogue: 0,0:25:56.70,0:25:58.54,Default,,0,0,0,,to bring this up while I was still being indecisive
+Dialogue: 0,0:25:58.54,0:26:02.34,Default,,0,0,0,,I only wanted to tell you when my mind was set
+Dialogue: 0,0:26:02.81,0:26:06.31,Default,,0,0,0,,To put it in another way,
+Dialogue: 0,0:26:06.31,0:26:09.48,Default,,0,0,0,,He thought "If I don't put enough thought into this,
+Dialogue: 0,0:26:09.48,0:26:13.52,Default,,0,0,0,,then it would be extremely disrespectful for them"
+Dialogue: 0,0:26:13.65,0:26:16.02,Default,,0,0,0,,Yeah, I know that. He just said that himself
+Dialogue: 0,0:26:16.29,0:26:18.66,Default,,0,0,0,,Yes.. so that's what he means
+Dialogue: 0,0:26:18.89,0:26:21.09,Hamada Talking Over,,0,0,0,,He already said that!
+Dialogue: 0,0:26:19.32,0:26:23.69,Narrator,,0,0,0,,An unexplained, unnecessary follow-up
+Dialogue: 0,0:26:24.66,0:26:27.76,Narrator,,0,0,0,,Now, we asked Saito to leave the room for brief moment
+Dialogue: 0,0:26:27.76,0:26:30.97,Narrator,,0,0,0,,to pick their brains even more
+Dialogue: 0,0:26:31.37,0:26:34.10,Default,,0,0,0,,Do you think they believe this whole thing?
+Dialogue: 0,0:26:32.77,0:26:34.10,Default,,0,0,0,,Yes
+Dialogue: 0,0:26:34.24,0:26:41.55,Default,,0,0,0,,I think they completely understand that my decisions are pretty solid
+Dialogue: 0,0:26:41.95,0:26:44.72,Default,,0,0,0,,What do you think about Otake-san? As a fellow facilitator?
+Dialogue: 0,0:26:44.98,0:26:47.58,Default,,0,0,0,,Otake is really a burden
+Dialogue: 0,0:26:47.92,0:26:50.29,Default,,0,0,0,,He is so bad at acting
+Dialogue: 0,0:26:50.72,0:26:52.66,Default,,0,0,0,,This...
+Dialogue: 0,0:26:52.86,0:26:56.59,Default,,0,0,0,,This really is a sudden turning point
+Dialogue: 0,0:26:57.86,0:26:59.63,Default,,0,0,0,,Rough.....
+Dialogue: 0,0:26:59.63,0:27:01.53,Default,,0,0,0,,So...
+Dialogue: 0,0:27:06.04,0:27:08.47,Default,,0,0,0,,So what's going to happen to us then?
+Dialogue: 0,0:27:08.47,0:27:10.87,Default,,0,0,0,,From a business stand point, it's going to be a disadvantage
+Dialogue: 0,0:27:11.04,0:27:13.41,Default,,0,0,0,,Business is out of the question
+Dialogue: 0,0:27:13.64,0:27:17.65,Default,,0,0,0,,Jungle Pocket as an item will no longer exist
+Dialogue: 0,0:27:15.95,0:27:17.65,Default,,0,0,0,,That would be correct
+Dialogue: 0,0:27:17.78,0:27:19.55,Default,,0,0,0,,Why?
+Dialogue: 0,0:27:19.55,0:27:21.52,Default,,0,0,0,,WHY!?
+Dialogue: 0,0:27:21.59,0:27:23.29,Default,,0,0,0,,Should we tell him? (Otake to leave)
+Dialogue: 0,0:27:23.29,0:27:24.79,Default,,0,0,0,,Yeah we should really tell him soon
+Dialogue: 0,0:27:24.79,0:27:28.53,Default,,0,0,0,,What the hell is he saying this whole time?!
+Dialogue: 0,0:27:29.13,0:27:32.30,Narrator,,0,0,0,,Nothing but a burden facilitator #2
+Dialogue: 0,0:27:32.30,0:27:35.53,Narrator,,0,0,0,,was forced to leave the room
+Dialogue: 0,0:27:35.77,0:27:37.23,Default,,0,0,0,,Hurry up and get over here!
+Dialogue: 0,0:27:37.23,0:27:39.17,Default,,0,0,0,,What the hell are you saying man?!
+Dialogue: 0,0:27:39.17,0:27:42.37,Default,,0,0,0,,You've been saying irrelevant crap this whole time!
+Dialogue: 0,0:27:42.77,0:27:46.58,Default,,0,0,0,,He's been saying he wanted to be an actor for a long time...
+Dialogue: 0,0:27:49.45,0:27:54.69,Default,,0,0,0,,We don't have the right to be an obstacle in his life
+Dialogue: 0,0:27:54.69,0:27:57.22,Default,,0,0,0,,He's that kind of person
+Dialogue: 0,0:27:58.92,0:28:03.79,Narrator,,0,0,0,,Oota's manliness and courage moves Saito
+Dialogue: 0,0:28:04.83,0:28:07.56,Narrator,,0,0,0,,Although unwillingly,
+Dialogue: 0,0:28:07.56,0:28:10.00,Narrator,,0,0,0,,Oota agrees to grant Saito's wishes of breaking up
+Dialogue: 0,0:28:11.00,0:28:14.44,Narrator,,0,0,0,,That being said, now we tackle the real question
+Dialogue: 0,0:28:11.94,0:28:14.54,Default Talking Over,,0,0,0,,Indeed
+Dialogue: 0,0:28:15.01,0:28:17.14,Default Talking Over,,0,0,0,,This is really emotional
+Dialogue: 0,0:28:15.27,0:28:20.44,Narrator,,0,0,0,,Will he be willing to continue to work with the "useless"?
+Dialogue: 0,0:28:21.85,0:28:26.08,Default,,0,0,0,,We're going to move on with the process as a break-up
+Dialogue: 0,0:28:26.88,0:28:31.02,Default,,0,0,0,,and you and Otake-san would continue to work as a duo
+Dialogue: 0,0:28:31.72,0:28:33.22,Default,,0,0,0,,Is what we were thinking
+Dialogue: 0,0:28:35.59,0:28:37.49,Default,,0,0,0,,You mean continue together with Otake?
+Dialogue: 0,0:28:37.49,0:28:39.20,Default,,0,0,0,,He's already laughing at the idea
+Dialogue: 0,0:28:39.20,0:28:41.20,Default,,0,0,0,,Oota is laughing!
+Dialogue: 0,0:28:42.27,0:28:44.84,Default,,0,0,0,,I don't know.... would people even want to see that?
+Dialogue: 0,0:28:45.84,0:28:47.67,Default,,0,0,0,,"Is there even a demand for that?" is too harsh!
+Dialogue: 0,0:28:47.67,0:28:49.94,Default,,0,0,0,,That's too much
+Dialogue: 0,0:28:50.24,0:28:52.18,Default,,0,0,0,,Tsk, uh...
+Dialogue: 0,0:28:51.88,0:28:54.11,Hamada Talking Over,,0,0,0,,He just clicked his tongue!
+Dialogue: 0,0:28:53.78,0:28:58.08,Default,,0,0,0,,Duo....with Otake...
+Dialogue: 0,0:28:58.32,0:29:01.49,Default,,0,0,0,,What the hell? Are you kidding?
+Dialogue: 0,0:29:01.85,0:29:03.62,Default,,0,0,0,,Seriously!
+Dialogue: 0,0:29:03.72,0:29:06.36,Default,,0,0,0,,Me and Otake?!
+Dialogue: 0,0:29:06.79,0:29:08.52,Default,,0,0,0,,Is that even possible?
+Dialogue: 0,0:29:08.52,0:29:11.23,Default,,0,0,0,,Yeah yeah, it's possible
+Dialogue: 0,0:29:11.56,0:29:14.97,Default,,0,0,0,,It's not that I don't like Otake.. it's just..
+Dialogue: 0,0:29:15.97,0:29:19.07,Default,,0,0,0,,Otake.. mmm...it's..
+Dialogue: 0,0:29:19.07,0:29:22.11,Default,,0,0,0,,It's not that I don't like Ota...ke..
+Dialogue: 0,0:29:22.24,0:29:24.17,Default,,0,0,0,,What is concerning him?
+Dialogue: 0,0:29:24.94,0:29:28.15,Narrator,,0,0,0,,It seems like he doesn't like Otake
+Dialogue: 0,0:29:30.61,0:29:31.92,Default,,0,0,0,,Pin-genin....*
+Dialogue: 0,0:29:30.51,0:29:34.42,Comment,,0,0,0,,{\fscx73\fscy85\pos(372,194)}*Reminder: Pin-genin is a solo comedian
+Dialogue: 0,0:29:32.22,0:29:34.42,Default,,0,0,0,,Pin?!
+Dialogue: 0,0:29:37.09,0:29:38.96,Default,,0,0,0,,Maybe pin...
+Dialogue: 0,0:29:41.56,0:29:45.56,Default,,0,0,0,,Even if I become a pin-genin, there won't be a lot of job offers
+Dialogue: 0,0:29:46.20,0:29:48.83,Default,,0,0,0,,That was close
+Dialogue: 0,0:29:49.90,0:29:53.00,Default,,0,0,0,,Ughhhh this is so rough
+Dialogue: 0,0:29:53.27,0:29:56.07,Default,,0,0,0,,Too rough.....too rough..
+Dialogue: 0,0:29:56.41,0:30:01.11,Default,,0,0,0,,For now, your decision to form a duo or not
+Dialogue: 0,0:30:01.11,0:30:05.02,Default,,0,0,0,,...is kind of important so I wanted to ask it.
+Dialogue: 0,0:30:05.98,0:30:07.62,Default,,0,0,0,,Going pin huh...
+Dialogue: 0,0:30:07.62,0:30:09.92,Default,,0,0,0,,Isn't he saying he's going pin?
+Dialogue: 0,0:30:12.02,0:30:15.59,Default,,0,0,0,,Is he getting closer to going pin?
+Dialogue: 0,0:30:15.59,0:30:18.46,Default,,0,0,0,,But you know...
+Dialogue: 0,0:30:20.16,0:30:26.57,Narrator,,0,0,0,,12 years ago, the three that formed a trio at NSC*
+Dialogue: 0,0:30:20.16,0:30:26.57,Comment,,0,0,0,,{\fscx72\fscy85\pos(232.5,194)}*NSC is a comedy school
+Dialogue: 0,0:30:27.24,0:30:32.24,Narrator,,0,0,0,,They got their break thanks to Saito's personality
+Dialogue: 0,0:30:32.54,0:30:39.92,Narrator,,0,0,0,,With their ace gone, can Ota go on to form a duo with Otake?
+Dialogue: 0,0:30:40.38,0:30:43.29,Default,,0,0,0,,In all honesty I believe in him
+Dialogue: 0,0:30:44.55,0:30:45.69,Narrator,,0,0,0,,In the end...
+Dialogue: 0,0:30:46.59,0:30:48.99,Narrator,,0,0,0,,...what will his decision be?
+Dialogue: 0,0:30:49.96,0:30:56.67,Narrator,,0,0,0,,Will Ota decide to go on as a duo with Otake?
+Dialogue: 0,0:30:57.53,0:31:00.94,Default,,0,0,0,,Well I mean, I kind of...
+Dialogue: 0,0:31:03.67,0:31:08.21,Default,,0,0,0,,Well I mean, I kind of have to do my best with Otake
+Dialogue: 0,0:31:10.45,0:31:13.38,Default,,0,0,0,,That means he'll do it right, he definitely just said it.
+Dialogue: 0,0:31:13.98,0:31:18.46,Default,,0,0,0,,On second thought...
+Dialogue: 0,0:31:14.99,0:31:18.46,Default,,0,0,0,,Don't say it's impossible man
+Dialogue: 0,0:31:18.46,0:31:21.19,Default,,0,0,0,,But it'd be impossible to do it alone too...
+Dialogue: 0,0:31:21.79,0:31:26.70,Default,,0,0,0,,So that means that you'll be doing it together if I understand correctly.
+Dialogue: 0,0:31:26.70,0:31:29.80,Default,,0,0,0,,Yeah with Otake
+Dialogue: 0,0:31:33.27,0:31:35.51,Default,,0,0,0,,With Otake...
+Dialogue: 0,0:31:35.51,0:31:37.51,Default,,0,0,0,,You don't sound enthusiastic about it...
+Dialogue: 0,0:31:38.88,0:31:42.88,Default,,0,0,0,,Can something be done with Otake? With me and him?
+Dialogue: 0,0:31:43.08,0:31:46.52,Default,,0,0,0,,This does definitely not feel good
+Dialogue: 0,0:31:44.37,0:31:46.67,Matsumoto Talking Over,,0,0,0,,Of course you don't
+Dialogue: 0,0:31:46.82,0:31:48.72,Default,,0,0,0,,Uhm I mean...
+Dialogue: 0,0:31:50.09,0:31:51.89,Default,,0,0,0,,If that doesn't work out...
+Dialogue: 0,0:31:51.89,0:31:54.02,Default,,0,0,0,,...We don't have to go on forever right?
+Dialogue: 0,0:31:54.02,0:31:57.36,Default,,0,0,0,,Why the hell, he is already thinking of breaking up?
+Dialogue: 0,0:31:57.36,0:32:00.00,Default,,0,0,0,,Again he doesn't sound excited, what's wrong with him?
+Dialogue: 0,0:32:01.26,0:32:05.47,Default,,0,0,0,,I mean there's nothing to do but do my best with Otake
+Dialogue: 0,0:32:05.47,0:32:07.10,Default,,0,0,0,,He said it
+Dialogue: 0,0:32:07.10,0:32:12.14,Default,,0,0,0,,Okay then, this means we're moving forward with you and Otake as a duo
+Dialogue: 0,0:32:15.71,0:32:17.25,Default,,0,0,0,,Yes
+Dialogue: 0,0:32:17.85,0:32:19.68,Default,,0,0,0,,As a duo right? Yes?
+Dialogue: 0,0:32:19.68,0:32:21.12,Default,,0,0,0,,Alright!
+Dialogue: 0,0:32:21.12,0:32:22.52,Default,,0,0,0,,Thank god...
+Dialogue: 0,0:32:22.89,0:32:25.32,Narrator,,0,0,0,,After nearly worrying himself to death...
+Dialogue: 0,0:32:25.32,0:32:30.19,Narrator,,0,0,0,,Ota has decided to form a duo with the useless Otake
+Dialogue: 0,0:32:30.96,0:32:32.83,Narrator,,0,0,0,,That means
+Dialogue: 0,0:32:32.80,0:32:35.17,Matsumoto Talking Over,,0,0,0,,They're revealing the prank
+Dialogue: 0,0:32:36.67,0:32:40.40,Default,,0,0,0,,Oh Ota~~
+Dialogue: 0,0:32:36.67,0:32:40.40,Default,,0,0,0,,Goddamn man...
+Dialogue: 0,0:32:40.40,0:32:42.31,Default,,0,0,0,,You really got worried didn't you?
+Dialogue: 0,0:32:46.78,0:32:49.31,Default,,0,0,0,,You really were thinking about it, Ota
+Dialogue: 0,0:32:50.31,0:32:55.15,Default,,0,0,0,,Wait, hold up. Is being in a duo with me that unappealing?
+Dialogue: 0,0:32:56.05,0:32:58.39,Default,,0,0,0,,You were really worried, sorry man
+Dialogue: 0,0:32:57.02,0:32:58.39,Default,,0,0,0,,No no no no no
+Dialogue: 0,0:32:59.86,0:33:03.26,Default,,0,0,0,,This is freaking bullshit
+Dialogue: 0,0:33:03.26,0:33:04.69,Default,,0,0,0,,Ugh this is so strange
+Dialogue: 0,0:33:04.69,0:33:06.16,Default,,0,0,0,,That really pisses me off
+Dialogue: 0,0:33:06.16,0:33:06.90,Default,,0,0,0,,No no, I'm telling you you're acting weird-
+Dialogue: 0,0:33:06.90,0:33:09.47,Default,,0,0,0,,I'm sorry but I'm the one that's gotten hurt the most from this situation
+Dialogue: 0,0:33:09.47,0:33:10.70,Default,,0,0,0,,You're not the one that got hurt
+Dialogue: 0,0:33:10.70,0:33:12.27,Default,,0,0,0,,{\fscx96\fscy118}NO ONE GIVES A SHIT ABOUT YOU
+Dialogue: 0,0:33:12.94,0:33:15.17,Default,,0,0,0,,Am I not the one getting attacked all the time?
+Dialogue: 0,0:33:14.10,0:33:15.17,Default,,0,0,0,,What is this?
+Dialogue: 0,0:33:15.17,0:33:18.21,Default,,0,0,0,,There's an agenda isn't there. What is it?
+Dialogue: 0,0:33:18.58,0:33:20.71,Default,,0,0,0,,This is for Wednesday Downtown...
+Dialogue: 0,0:33:20.71,0:33:24.81,Default,,0,0,0,,This was to test the theory that if you take one out of a trio and leave the person with the useless member
+Dialogue: 0,0:33:24.81,0:33:27.78,Default,,0,0,0,,they won't go on to form a duo
+Dialogue: 0,0:33:29.52,0:33:31.82,Default,,0,0,0,,Can we say that you will go on?
+Dialogue: 0,0:33:31.82,0:33:35.03,Default,,0,0,0,,Man...that's one weird theory
+Dialogue: 0,0:33:36.73,0:33:39.80,Default,,0,0,0,,I'm sorry, but I still haven't agreed to that theory
+Dialogue: 0,0:33:40.36,0:33:41.97,Default,,0,0,0,,Like "Can he come together with the junk guy?"
+Dialogue: 0,0:33:41.97,0:33:46.44,Default,,0,0,0,,Are you really gonna shine light on that real of a part of human nature?
+Dialogue: 0,0:33:46.44,0:33:51.57,Default,,0,0,0,,But I mean, if you think about widening the possibilities from now on...
+Dialogue: 0,0:33:51.81,0:33:55.95,Default,,0,0,0,,...we have to think about leaving Otake behind as well.
+Dialogue: 0,0:33:57.95,0:34:03.02,Narrator,,0,0,0,,That means, even if it is with a useless person, you form a duo for a bit
+Dialogue: 0,0:34:04.76,0:34:06.96,Hamada,,0,0,0,,He REALLY thought about it
+Dialogue: 0,0:34:06.96,0:34:10.01,Default,,0,0,0,,However, it came to continuing together. What do you think about it Nicole?
+Dialogue: 0,0:34:10.22,0:34:13.15,Default,,0,0,0,,I kind of got teary eyed at his agony
+Dialogue: 0,0:34:14.33,0:34:16.38,Default,,0,0,0,,Thank god there's Saito-san with them
+Dialogue: 0,0:34:17.47,0:34:20.25,Default,,0,0,0,,It's good that they're a trio like that
+Dialogue: 0,0:34:20.25,0:34:23.21,Hamada,,0,0,0,,Now let's have them come out please!
+Dialogue: 0,0:34:23.61,0:34:24.56,Matsumoto,,0,0,0,,Oh they're here
+Dialogue: 0,0:34:36.51,0:34:38.97,Hamada,,0,0,0,,It's Ota and Otake!
+Dialogue: 0,0:34:38.96,0:34:42.57,Default,,0,0,0,,That's a preschooler kind of mistake
+Dialogue: 0,0:34:43.20,0:34:47.16,Matsumoto,,0,0,0,,Hold up, you can't even turn and come out here?
+Dialogue: 0,0:34:47.16,0:34:49.50,Default,,0,0,0,,Sorry, I didn't know how it was setup
+Dialogue: 0,0:34:49.50,0:34:51.79,Default,,0,0,0,,I didn't know how the footing was set
+Dialogue: 0,0:34:52.60,0:34:54.46,Default,,0,0,0,,The step yes, I'm sorry
+Dialogue: 0,0:34:54.47,0:34:57.15,Hamada,,0,0,0,,Ota really went like uhhngh
+Dialogue: 0,0:34:57.15,0:35:00.70,Default,,0,0,0,,The real worry was that Saito was going away
+Dialogue: 0,0:35:01.08,0:35:03.05,Default,,0,0,0,,It's real though, even today...
+Dialogue: 0,0:35:03.05,0:35:04.83,Default,,0,0,0,,....Saito isn't here right...
+Dialogue: 0,0:35:05.80,0:35:08.12,Default,,0,0,0,,He's at the Budokan*
+Dialogue: 0,0:35:05.80,0:35:11.52,Comment,,0,0,0,,{\fscx72\fscy95\pos(274.5,192)}*Budokan is a big concert hall
+Dialogue: 0,0:35:08.12,0:35:11.52,Default,,0,0,0,,...he's gone because of some musical related work he's doing
+Dialogue: 0,0:35:12.00,0:35:15.42,Default,,0,0,0,,In that situation when he tells you he wants to become an actor alone...
+Dialogue: 0,0:35:15.42,0:35:16.89,Default,,0,0,0,,...isn't it super real?
+Dialogue: 0,0:35:16.89,0:35:19.83,Default,,0,0,0,,There was alot of pre setup
+Dialogue: 0,0:35:17.90,0:35:19.82,Hamada,,0,0,0,,Lots of setup
+Dialogue: 0,0:35:19.83,0:35:23.50,Hamada,,0,0,0,,Otake your feelings must've been really weird right?
+Dialogue: 0,0:35:23.50,0:35:27.28,Default,,0,0,0,,This segment was really hard on me...
+Dialogue: 0,0:35:27.28,0:35:30.32,Default,,0,0,0,,...I'm kind of an accomplice to it but...
+Dialogue: 0,0:35:30.51,0:35:33.04,Default,,0,0,0,,...I'm not really fully an accomplice either
+Dialogue: 0,0:35:33.93,0:35:38.57,Default,,0,0,0,,It gave me alot of bad info about what Ota thinks of me
+Dialogue: 0,0:35:38.58,0:35:42.69,Matsumoto,,0,0,0,,Don't talk for so long, I'll end up laughing
+Dialogue: 0,0:35:42.70,0:35:44.40,Matsumoto,,0,0,0,,Don't talk for too long, it's enough
+Dialogue: 0,0:35:45.69,0:35:47.24,Hamada,,0,0,0,,If he goes on too long, you'll laugh
+Dialogue: 0,0:35:47.22,0:35:49.36,Default,,0,0,0,,Please hear me out a bit though
+Dialogue: 0,0:35:49.37,0:35:53.20,Matsumoto,,0,0,0,,Let's do a prank where Otake has to leave the trio
+Dialogue: 0,0:35:53.20,0:35:55.13,Default,,0,0,0,,That won't happen probably
+Dialogue: 0,0:35:55.13,0:36:00.67,Default,,0,0,0,, We've been a trio for about 12 years and 4 times we've thought about kicking him out...
+Dialogue: 0,0:36:01.16,0:36:05.45,Narrator,,0,0,0,,Next we have the corner where we bring you theories from around the world
+Dialogue: 0,0:36:05.48,0:36:08.03,Narrator,,0,0,0,,Viewers' Theory Corner
+Dialogue: 0,0:36:08.03,0:36:10.54,Narrator,,0,0,0,,Tonight's presenters are...
+Dialogue: 0,0:36:12.78,0:36:16.04,Hamada,,0,0,0,,It's Daian
+Dialogue: 0,0:36:16.04,0:36:17.68,Default,,0,0,0,,We'll be in your care
+Dialogue: 0,0:36:17.68,0:36:20.82,Default,,0,0,0,,It's been about half a year
+Dialogue: 0,0:36:19.68,0:36:20.82,Hamada,,0,0,0,,Your second time right?
+Dialogue: 0,0:36:20.82,0:36:21.94,Default,,0,0,0,,Yes it's our second time
+Dialogue: 0,0:36:21.93,0:36:23.66,Matsumoto,,0,0,0,,Eeh~ I thought it was your first
+Dialogue: 0,0:36:24.17,0:36:25.87,Default,,0,0,0,,Didn't we have any impact on you?
+Dialogue: 0,0:36:26.12,0:36:28.09,Matsumoto,,0,0,0,,Twins?
+Dialogue: 0,0:36:28.65,0:36:32.10,Default,,0,0,0,,We would've stated it more if it were the case
+Dialogue: 0,0:36:32.12,0:36:35.00,Default,,0,0,0,,We've been told that we look alike but have no blood relation.
+Dialogue: 0,0:36:37.31,0:36:40.27,Default,,0,0,0,,Let's move along then, the theory that we've brought you today is this!
+Dialogue: 0,0:36:41.66,0:36:45.72,Default,,0,0,0,,Theory: We can find Mame Tanks with a height under 150cm and weight over 100kg...*
+Dialogue: 0,0:36:41.66,0:36:47.98,Comment,,0,0,0,,{\fscx62\fscy85\pos(676.5,64)}*Mame tank refers to disproportionate body types with overweight body, and short height
+Dialogue: 0,0:36:45.72,0:36:47.98,Default,,0,0,0,,...if we were to look for them.
+Dialogue: 0,0:36:51.80,0:36:56.26,Matsumoto,,0,0,0,,Mame Tank huh? That's a word I haven't heard in a while...
+Dialogue: 0,0:36:56.27,0:36:58.01,Default,,0,0,0,,I think that you can find them...
+Dialogue: 0,0:36:58.32,0:37:01.31,Default,,0,0,0,,...while going around the city
+Dialogue: 0,0:37:02.06,0:37:04.20,Default,,0,0,0,,Osaka has an image of having these types of people
+Dialogue: 0,0:37:04.19,0:37:06.04,Matsumoto,,0,0,0,,That means that there are alot of them in Osaka right?
+Dialogue: 0,0:37:06.04,0:37:09.94,Default,,0,0,0,,If you go to some downtown shopping street most of the people there are like that
+Dialogue: 0,0:37:09.94,0:37:10.87,Default,,0,0,0,,No way
+Dialogue: 0,0:37:10.87,0:37:12.51,Hamada,,0,0,0,,So that means the theory is proven
+Dialogue: 0,0:37:12.51,0:37:15.47,Matsumoto,,0,0,0,,We don't need it, they're not even rare then
+Dialogue: 0,0:37:15.47,0:37:17.81,Default,,0,0,0,,There actually weren't that many
+Dialogue: 0,0:37:17.81,0:37:20.91,Hamada,,0,0,0,,Pick one for god's sake!
+Dialogue: 0,0:37:20.91,0:37:22.62,Default,,0,0,0,,In reality there weren't many of them
+Dialogue: 0,0:37:22.62,0:37:25.99,Matsumoto,,0,0,0,,It feels like..
+Dialogue: 0,0:37:23.44,0:37:25.99,Default,,0,0,0,,It feels like they are but actually aren't
+Dialogue: 0,0:37:40.16,0:37:47.87,Narrator,,0,0,0,,We're testing the theory that we can find Mame Tanks with a height under 150cm and weight over 100kg if we go out to look for them
+Dialogue: 0,0:37:48.92,0:37:51.75,Narrator,,0,0,0,,With that, let's start our investigation
+Dialogue: 0,0:37:51.75,0:37:53.75,Narrator,,0,0,0,,Immediately
+Dialogue: 0,0:37:56.70,0:37:59.20,Default,,0,0,0,,We're with a program called Wednesday Downtown
+Dialogue: 0,0:37:57.90,0:37:59.30,Default,,0,0,0,,Yes yes yes yes yes
+Dialogue: 0,0:37:59.57,0:38:02.59,Default,,0,0,0,,Do you have some time?
+Dialogue: 0,0:38:00.30,0:38:02.60,Default,,0,0,0,,Oh it's ok yeah
+Dialogue: 0,0:38:02.65,0:38:04.67,Default,,0,0,0,,Can we shoot your face?
+Dialogue: 0,0:38:04.66,0:38:07.23,Default,,0,0,0,,Nobody is looking for me so it's fine
+Dialogue: 0,0:38:07.22,0:38:08.47,Default,,0,0,0,,Just behind there
+Dialogue: 0,0:38:08.46,0:38:11.12,Default,,0,0,0,,Yeees yes yes yes
+Dialogue: 0,0:38:11.57,0:38:16.77,Narrator,,0,0,0,,He accepted the interview with a high-pitched voice but...
+Dialogue: 0,0:38:18.07,0:38:23.50,Narrator,,0,0,0,,We weren't allowed to put out numbers concerning his weight and height
+Dialogue: 0,0:38:24.70,0:38:25.95,Narrator,,0,0,0,,Also...
+Dialogue: 0,0:38:26.22,0:38:28.14,Default,,0,0,0,,Could you please share you weight?
+Dialogue: 0,0:38:28.14,0:38:30.60,Default,,0,0,0,,Oh no- It's kinda difficult
+Dialogue: 0,0:38:30.60,0:38:33.42,Default,,0,0,0,,No waay- that's impossible
+Dialogue: 0,0:38:34.47,0:38:37.62,Narrator,,0,0,0,,Maybe it's because of a complex about their physique
+Dialogue: 0,0:38:37.62,0:38:42.27,Narrator,,0,0,0,,We're not finding anyone who would let us show their face, let alone share their measurements
+Dialogue: 0,0:38:42.60,0:38:44.25,Narrator,,0,0,0,,That means
+Dialogue: 0,0:38:44.67,0:38:49.25,Narrator,,0,0,0,,Stopping the search in the streets, we go to the net to find them
+Dialogue: 0,0:38:50.52,0:38:54.62,Narrator,,0,0,0,,We try to get our hands on anyone who might be like that..
+Dialogue: 0,0:38:56.00,0:39:01.15,Narrator,,0,0,0,,The first one, working at a maid cafe called "MuchiPocha"
+Dialogue: 0,0:39:01.87,0:39:08.02,Narrator,,0,0,0,,Hanashiro Kokoa with a height of 157cm and a weight of 120kg
+Dialogue: 0,0:39:09.32,0:39:16.82,Narrator,,0,0,0,,She wasn't under 150cm but she was a complete Mame Tank, when we talk to her...
+Dialogue: 0,0:39:17.45,0:39:19.77,Default,,0,0,0,,About when did you start putting on weight?
+Dialogue: 0,0:39:19.77,0:39:24.07,Default,,0,0,0,,I was only about 47kg in high school but...
+Dialogue: 0,0:39:24.07,0:39:29.35,Default,,0,0,0,,...after my graduation, I stopped doing sports and in the blink of an eye I became three times my old weight
+Dialogue: 0,0:39:29.87,0:39:35.10,Narrator,,0,0,0,,Next we have Ihashi Gouta from DDT Pro Wrestling
+Dialogue: 0,0:39:35.92,0:39:43.30,Narrator,,0,0,0,,He has a special body with 158cm in height and 136kg in weight, however...
+Dialogue: 0,0:39:43.72,0:39:47.07,Default,,0,0,0,,Isn't this physique a disadvantage for pro wrestling?
+Dialogue: 0,0:39:47.07,0:39:51.07,Default,,0,0,0,,Uhm, of course being tall is better but...
+Dialogue: 0,0:39:51.07,0:39:56.00,Default,,0,0,0,,...doing a Moon salto and other similar flip-style moves is easier
+Dialogue: 0,0:39:56.00,0:40:00.87,Default,,0,0,0,,There are things that I can only do because I'm small
+Dialogue: 0,0:40:01.34,0:40:04.45,Narrator,,0,0,0,,And there's this person working at this bar
+Dialogue: 0,0:40:07.80,0:40:11.10,Default Talking Over,,0,0,0,,Looks like a nice place
+Dialogue: 0,0:40:04.45,0:40:08.79,Narrator,,0,0,0,,Named "Japan Worldwide Debusu Club"
+Dialogue: 0,0:40:08.79,0:40:13.24,Narrator,,0,0,0,,Height 163 cm, weight 120 kg
+Dialogue: 0,0:40:13.24,0:40:15.49,Narrator,,0,0,0,,Louis Vuitton
+Dialogue: 0,0:40:15.79,0:40:16.76,Default,,0,0,0,,Even just walking around
+Dialogue: 0,0:40:16.76,0:40:20.88,Default,,0,0,0,,I'll receive a whole large pizza
+Dialogue: 0,0:40:20.88,0:40:23.64,Default,,0,0,0,,A random person gives it to you?
+Dialogue: 0,0:40:22.20,0:40:23.64,Default,,0,0,0,,Yes, a complete stranger
+Dialogue: 0,0:40:23.64,0:40:26.36,Default,,0,0,0,,They just give me items that they have on them
+Dialogue: 0,0:40:26.36,0:40:28.21,Narrator,,0,0,0,,Additionally,
+Dialogue: 0,0:40:28.21,0:40:29.99,Default,,0,0,0,,With gaining that much weight
+Dialogue: 0,0:40:29.99,0:40:32.39,Default,,0,0,0,,does it affect your health in any way?
+Dialogue: 0,0:40:32.39,0:40:36.15,Default,,0,0,0,,When I get my physical exam, my blood glucose level is normal
+Dialogue: 0,0:40:36.15,0:40:41.05,Default,,0,0,0,,A physician once performed an exam on me, and said I'm a miracle
+Dialogue: 0,0:40:41.32,0:40:44.44,Default,,0,0,0,,Did you ever get a nickname?
+Dialogue: 0,0:40:42.73,0:40:44.44,Default,,0,0,0,,To this day,
+Dialogue: 0,0:40:44.44,0:40:47.46,Default,,0,0,0,,I've been called "Mame Tank" or "Fatty than can move"
+Dialogue: 0,0:40:47.46,0:40:51.50,Narrator,,0,0,0,,We found someone that was nicknamed "Mame Tank"
+Dialogue: 0,0:40:51.50,0:40:54.98,Narrator,,0,0,0,,However, didn't fit the criteria of being under 150 cm, and over 100 kg
+Dialogue: 0,0:40:54.98,0:41:00.20,Narrator,,0,0,0,,We struggle to find the person that fits the mame tank appearance
+Dialogue: 0,0:41:01.65,0:41:04.21,Narrator,,0,0,0,,However, in that bunch
+Dialogue: 0,0:41:04.21,0:41:06.98,Default,,0,0,0,,Would you mind telling us your height and weight?
+Dialogue: 0,0:41:06.98,0:41:13.50,Default,,0,0,0,,Right now, I'm at 148 cm, 110 kg
+Dialogue: 0,0:41:13.50,0:41:16.23,Narrator,,0,0,0,,There she is; mame tank
+Dialogue: 0,0:41:16.23,0:41:18.21,Narrator,,0,0,0,,However, her weight used to be
+Dialogue: 0,0:41:18.21,0:41:21.37,Narrator,,0,0,0,,90kg about a month ago
+Dialogue: 0,0:41:21.37,0:41:25.62,Narrator,,0,0,0,,She says she quickly gained 10 kg within that month
+Dialogue: 0,0:41:25.62,0:41:29.20,Default,,0,0,0,,How did you gain so much weight in a span of one month?
+Dialogue: 0,0:41:29.20,0:41:30.76,Default,,0,0,0,,Because of rice
+Dialogue: 0,0:41:30.76,0:41:36.44,Default,,0,0,0,,Ever since I've been eating 3 cups per meal, I eat at least 10 cups per day
+Dialogue: 0,0:41:37.56,0:41:40.26,Default,,0,0,0,,My height is 150 cm
+Dialogue: 0,0:41:40.26,0:41:44.16,Default,,0,0,0,,Weight is probably 115 kg or more
+Dialogue: 0,0:41:44.16,0:41:47.59,Narrator,,0,0,0,,Having her 3-size (bust, waist, hip) all be 140 cm,
+Dialogue: 0,0:41:47.59,0:41:51.21,Narrator,,0,0,0,,she'll be categorized as the cylindrical body type
+Dialogue: 0,0:41:51.21,0:41:56.05,Narrator,,0,0,0,,Height 145 cm, weight 101 kg,
+Dialogue: 0,0:41:58.96,0:42:02.96,Hamada Talking Over,,0,0,0,,This is.....
+Dialogue: 0,0:41:56.05,0:42:00.21,Narrator,,0,0,0,,she's the super tiny mame tank
+Dialogue: 0,0:42:00.21,0:42:04.72,Narrator,,0,0,0,,As suspected, the mame tank body type that fits
+Dialogue: 0,0:42:04.72,0:42:09.26,Narrator,,0,0,0,,our criteria exists here and there
+Dialogue: 0,0:42:09.26,0:42:13.01,Narrator,,0,0,0,,Further more, we found someone that wasn't under 150 cm,
+Dialogue: 0,0:42:13.01,0:42:17.87,Narrator,,0,0,0,,but had the highest BMI index
+Dialogue: 0,0:42:17.87,0:42:22.13,Narrator,,0,0,0,,During this investigation, we found an extreme mame tank
+Dialogue: 0,0:42:22.13,0:42:25.06,Narrator,,0,0,0,,This is that person
+Dialogue: 0,0:42:31.09,0:42:35.08,Matsumoto Talking Over,,0,0,0,,She's injured
+Dialogue: 0,0:42:31.92,0:42:36.01,Default Talking Over,,0,0,0,,She looks really injured
+Dialogue: 0,0:42:34.44,0:42:37.94,Narrator,,0,0,0,,Osaka's chubby Cabaret King
+Dialogue: 0,0:42:37.94,0:42:39.80,Narrator,,0,0,0,,Takenokonosato-body type
+Dialogue: 0,0:42:39.80,0:42:42.48,Narrator,,0,0,0,,Kitty-san
+Dialogue: 0,0:42:42.48,0:42:44.72,Narrator,,0,0,0,,Her weight is...
+Dialogue: 0,0:42:44.72,0:42:47.16,Default,,0,0,0,,How many kg?
+Dialogue: 0,0:42:51.05,0:42:53.75,Narrator,,0,0,0,,With the same exact height as Watanabe Naomi
+Dialogue: 0,0:42:53.75,0:42:56.67,Narrator,,0,0,0,,But weights 60 kg more
+Dialogue: 0,0:42:56.67,0:42:58.68,Narrator,,0,0,0,,An extreme body
+Dialogue: 0,0:42:58.68,0:43:00.81,Default,,0,0,0,,What happened to your wrist?
+Dialogue: 0,0:43:00.81,0:43:04.89,Default,,0,0,0,,I fell from the stairs in the store
+Dialogue: 0,0:43:04.89,0:43:07.74,Default,,0,0,0,,And I went to the hospital,
+Dialogue: 0,0:43:07.74,0:43:10.71,Default,,0,0,0,,and tried to get an MRI
+Dialogue: 0,0:43:10.71,0:43:14.22,Default,,0,0,0,,but was told that my body is too big
+Dialogue: 0,0:43:14.22,0:43:15.95,Default,,0,0,0,,That means you didn't fit inside?
+Dialogue: 0,0:43:15.95,0:43:19.40,Default,,0,0,0,,I couldn't fit in the machine so it wouldn't move
+Dialogue: 0,0:43:19.40,0:43:21.81,Default,,0,0,0,,because of my weight
+Dialogue: 0,0:43:21.81,0:43:24.54,Narrator,,0,0,0,,On top of that, was unable to fit in a wheelchair
+Dialogue: 0,0:43:24.54,0:43:27.19,Narrator,,0,0,0,,and unable to use crutches as support
+Dialogue: 0,0:43:27.19,0:43:30.72,Narrator,,0,0,0,,She really worries the doctors -- even more than Kuro-chan
+Dialogue: 0,0:43:30.72,0:43:32.23,Default,,0,0,0,,I was stopped like {\i1}this{\i0}
+Dialogue: 0,0:43:32.23,0:43:38.37,Default,,0,0,0,,and was like "this is going to be a little difficult.."
+Dialogue: 0,0:43:38.83,0:43:40.35,Narrator,,0,0,0,,With that said,
+Dialogue: 0,0:43:40.35,0:43:45.16,Narrator,,0,0,0,,People with mame tank bodies, please be careful of your physical health
+Dialogue: 0,0:43:45.16,0:43:47.62,Default,,0,0,0,,What did you guys think?
+Dialogue: 0,0:43:47.62,0:43:49.15,Default,,0,0,0,,Surprisingly,
+Dialogue: 0,0:43:49.15,0:43:51.07,Default,,0,0,0,,there were a few (mame tanks to be found)
+Dialogue: 0,0:43:51.07,0:43:53.14,Matsumoto,,0,0,0,,Yeah........
+Dialogue: 0,0:43:59.16,0:44:02.30,Narrator,,0,0,0,,Up next week: Theory - Buy 10,000 Yen worth of items to keep you warm
+Dialogue: 0,0:44:02.30,0:44:07.16,Narrator,,0,0,0,,and compete in an endurance game in -15° C weather
+Dialogue: 0,0:44:07.16,0:44:12.25,Narrator,,0,0,0,,Then, Top animal playground equipment ranking
+Dialogue: 0,0:44:14.23,0:44:19.12,Narrator,,0,0,0,,And, Theory: In a "You're the one who's going to sing?!" situation, would you be able to tsukkomi?
+Dialogue: 0,0:44:19.12,0:44:22.72,Narrator,,0,0,0,,Theory verification involving Hamada as well!
+Dialogue: 0,0:43:57.98,0:47:24.85,Default,,0,0,0,,{\pos(720,911)\bord0\shad0\1c&H000000&\p1\alpha65}m 0 0  l 1800 0  1800 158  0 158
+Dialogue: 0,0:43:57.98,0:47:24.85,Narrator,,0,0,0,,{\4c&H000000&\4a&HFF&\3c&H000000&\3a&H5A&\c&HFFFFFF&\fscx58\fscy80\pos(720,878)}Check out our Facebook and Website for more Wednesday Downtown! This video was subbed by a community run project called the Wednesday Downtown project. Thanks for watching!
+

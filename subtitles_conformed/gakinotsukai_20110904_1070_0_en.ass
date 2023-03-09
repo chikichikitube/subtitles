@@ -1,0 +1,419 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: #1070-2011.09.04-Food_Marathon-Yakiniku_Toraji_(Part_2_of_2).mp4
+Video File: #1070-2011.09.04-Food_Marathon-Yakiniku_Toraji_(Part_2_of_2).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 9
+Video Position: 1757
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Narrator,Arial,64,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Matsumoto,Arial,64,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Hamada,Arial,64,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Hosei,Arial,64,&H0000FF00,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Endo,Arial,64,&H0000A5FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+Style: Tanaka,Arial,64,&H00FF00FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,80,100,0,0,1,6,3,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.40,0:00:03.33,Matsumoto,,0,0,0,,You've accepted your role as Mr. Meat!
+Dialogue: 0,0:00:04.30,0:00:10.36,Narrator,,0,0,0,,Food Marathon #4\N Yakiniku Toraji 25 Store Challenge
+Dialogue: 0,0:00:12.80,0:00:18.86,Narrator,,0,0,0,,They choose one item from a menu of 25 at each store
+Dialogue: 0,0:00:19.26,0:00:24.15,Narrator,,0,0,0,,There's a 100,000 yen prize waiting if they finish
+Dialogue: 0,0:00:24.15,0:00:30.30,Narrator,,0,0,0,,If anyone gives up though, they have pay for all the food eaten thus fart
+Dialogue: 0,0:00:32.80,0:00:37.46,Narrator,,0,0,0,,Starting in Ginza 8-chome, they've cleared 10 stores
+Dialogue: 0,0:00:37.46,0:00:39.46,Narrator,,0,0,0,,Just 15 stores remain
+Dialogue: 0,0:00:40.82,0:00:45.67,Narrator,,0,0,0,,Will they be able to finish this time? \N The second part starts now!
+Dialogue: 0,0:00:46.31,0:00:53.49,Default,,0,0,0,,Typset by GakiDave\N Translation by senor_wristband
+Dialogue: 0,0:00:58.62,0:01:00.79,Default,,0,0,0,,There's 15 stores left
+Dialogue: 0,0:01:01.62,0:01:05.02,Matsumoto,,0,0,0,,Can you guys bring in a substitute?
+Dialogue: 0,0:01:05.02,0:01:06.64,Default,,0,0,0,,A substitute?
+Dialogue: 0,0:01:06.64,0:01:10.87,Matsumoto,,0,0,0,,You could ask "Garage Sale"
+Dialogue: 0,0:01:09.20,0:01:10.87,Default,,0,0,0,,Garage Sale?
+Dialogue: 0,0:01:11.44,0:01:15.57,Matsumoto,,0,0,0,,Garage, or NEGO6,
+Dialogue: 0,0:01:12.03,0:01:22.26,Narrator,,0,0,0,,{\pos(310,725)}Garage Sale
+Dialogue: 0,0:01:12.97,0:01:22.26,Narrator,,0,0,0,,{\pos(720,725)}NEGO6
+Dialogue: 0,0:01:16.67,0:01:22.26,Narrator,,0,0,0,,{\pos(1130,725)}Hello Keisuke
+Dialogue: 0,0:01:14.20,0:01:15.57,Default,,0,0,0,,What can NEGO6 do?
+Dialogue: 0,0:01:15.57,0:01:18.46,Matsumoto,,0,0,0,,Someone like Hello Keisuke
+Dialogue: 0,0:01:18.46,0:01:22.26,Default,,0,0,0,,Why did you include Garage Sale with those guys?
+Dialogue: 0,0:01:22.51,0:01:25.50,Default,,0,0,0,,Shall we decide the item for the next store?\N
+Dialogue: 0,0:01:26.36,0:01:28.86,Matsumoto,,0,0,0,,Let's try the Specialty Salted Tongue
+Dialogue: 0,0:01:28.00,0:01:30.99,Default,,0,0,0,,Let's cross that one off
+Dialogue: 0,0:01:31.76,0:01:35.34,Narrator,,0,0,0,,Part 2 starts with the New Employee Store in Ikebukoru
+Dialogue: 0,0:01:36.80,0:01:41.20,Narrator,,0,0,0,,They still aim to clear 25 stores
+Dialogue: 0,0:01:44.03,0:01:47.34,Hosei,,0,0,0,,It's hella spacious.
+Dialogue: 0,0:01:47.34,0:01:50.68,Matsumoto,,0,0,0,,Ikebukoru is hella spacious
+Dialogue: 0,0:01:56.54,0:02:00.08,Hosei,,0,0,0,,Natural light is nice
+Dialogue: 0,0:01:58.22,0:02:00.08,Endo,,0,0,0,,Very nice
+Dialogue: 0,0:02:00.28,0:02:02.64,Default,,0,0,0,,Have you decided on the specialty Salted Tongue?
+Dialogue: 0,0:02:03.15,0:02:08.70,Default,,0,0,0,,It's the most popular dish here
+Dialogue: 0,0:02:06.90,0:02:08.70,Hamada,,0,0,0,,This is number 1?
+Dialogue: 0,0:02:08.70,0:02:10.02,Default,,0,0,0,,Your Salted Tongue is here
+Dialogue: 0,0:02:10.02,0:02:11.63,Matsumoto,,0,0,0,,
+Dialogue: 0,0:02:12.76,0:02:19.82,Narrator,,0,0,0,,Toraji Specialty, Salted Tongue \N Season with salt and cumin, an explosion of umami
+Dialogue: 0,0:02:20.20,0:02:22.32,Matsumoto,,0,0,0,,Someone needs to eat the extra one
+Dialogue: 0,0:02:23.48,0:02:25.97,Matsumoto,,0,0,0,,Let's do Rock Paper Scissors
+Dialogue: 0,0:02:27.00,0:02:28.10,Matsumoto,,0,0,0,,Rock, Paper, Scissors ...
+Dialogue: 0,0:02:29.40,0:02:31.00,Matsumoto,,0,0,0,,Ahh that was close
+Dialogue: 0,0:02:31.00,0:02:33.00,Hamada,,0,0,0,,No, it's just you two
+Dialogue: 0,0:02:33.41,0:02:35.55,Hamada,,0,0,0,,We all put out a rock
+Dialogue: 0,0:02:35.55,0:02:38.15,Matsumoto,,0,0,0,,That makes no sense, that's dumb,
+Dialogue: 0,0:02:38.16,0:02:39.92,Matsumoto,,0,0,0,,Then I win cause I have scissors
+Dialogue: 0,0:02:39.92,0:02:43.90,Tanaka,,0,0,0,,Now that makes no sense
+Dialogue: 0,0:02:42.66,0:02:43.90,Hamada,,0,0,0,,Do it again
+Dialogue: 0,0:02:46.93,0:02:48.78,Default,,0,0,0,,So it's Matsumoto-san then
+Dialogue: 0,0:02:48.78,0:02:51.43,Endo,,0,0,0,,This is the most popular one right?
+Dialogue: 0,0:02:50.10,0:02:51.69,Default,,0,0,0,,The most popular indeed
+Dialogue: 0,0:02:52.50,0:02:58.10,Narrator,,0,0,0,,Up until now, everyone has eaten 13 pieces \N They still find it easy
+Dialogue: 0,0:03:01.61,0:03:04.71,Default,,0,0,0,,Hamada-san, how is your stomach doing?
+Dialogue: 0,0:03:06.35,0:03:10.41,Hamada,,0,0,0,,Well, for now, I'll stay with you
+Dialogue: 0,0:03:06.35,0:03:16.02,Default,,0,0,0,,{\pos(720,134)}TN: Unclear about this line
+Dialogue: 0,0:03:10.41,0:03:16.02,Hosei,,0,0,0,,
+Dialogue: 0,0:03:11.12,0:03:16.02,Matsumoto,,0,0,0,,Are you some lead actor who found a new love?!
+Dialogue: 0,0:03:16.02,0:03:17.89,Default,,0,0,0,,"I'll stay with you for now"
+Dialogue: 0,0:03:20.54,0:03:22.04,Default,,0,0,0,,Tongue is pretty small
+Dialogue: 0,0:03:23.54,0:03:24.60,Default,,0,0,0,,Finished!
+Dialogue: 0,0:03:26.70,0:03:27.80,Default,,0,0,0,,Let's move on
+Dialogue: 0,0:03:31.74,0:03:36.74,Narrator,,0,0,0,,They get to rest on the drive there,
+Dialogue: 0,0:03:37.14,0:03:41.28,Narrator,,0,0,0,,However, for one man this is not enough...
+Dialogue: 0,0:03:41.70,0:03:47.08,Matsumoto,,0,0,0,,Digging in to that Reimen there ...
+Dialogue: 0,0:03:47.08,0:03:52.28,Matsumoto,,0,0,0,,It was like I was a big league person
+Dialogue: 0,0:03:53.92,0:03:55.40,Matsumoto,,0,0,0,,I was slurping them down, right?
+Dialogue: 0,0:03:56.94,0:04:01.90,Matsumoto,,0,0,0,,And Endo's white rice, I think that was bold
+Dialogue: 0,0:04:01.12,0:04:01.90,Endo,,0,0,0,,Thanks.
+Dialogue: 0,0:04:01.90,0:04:04.30,Matsumoto,,0,0,0,,"This kid's got moxxy"
+Dialogue: 0,0:04:04.30,0:04:08.76,Matsumoto,,0,0,0,,"He just doesn't have any presence"
+Dialogue: 0,0:04:09.68,0:04:13.08,Narrator,,0,0,0,,In response to Matsumoto's challenge,
+Dialogue: 0,0:04:13.32,0:04:18.41,Narrator,,0,0,0,,One man rises to the occasion
+Dialogue: 0,0:04:18.55,0:04:22.46,Matsumoto,,0,0,0,,Anyone ordering from the side menu?
+Dialogue: 0,0:04:20.44,0:04:22.46,Default,,0,0,0,,
+Dialogue: 0,0:04:24.66,0:04:27.32,Tanaka,,0,0,0,,I'll have the galbi gukbap.
+Dialogue: 0,0:04:25.82,0:04:27.32,Default,,0,0,0,,Galbi gukbap!
+Dialogue: 0,0:04:31.46,0:04:35.23,Tanaka,,0,0,0,,Let's succeed here
+Dialogue: 0,0:04:33.24,0:04:35.23,Default,,0,0,0,,Very nice
+Dialogue: 0,0:04:35.23,0:04:37.28,Default,,0,0,0,,Pork Jowl and Galbi Gukbap please!
+Dialogue: 0,0:04:38.34,0:04:40.61,Matsumoto,,0,0,0,,He's a Tough Guy
+Dialogue: 0,0:04:40.80,0:04:47.38,Default,,0,0,0,,This is the Iberian pork jowl, seasoned with lemon and a side of wasabi
+Dialogue: 0,0:04:48.32,0:04:53.76,Narrator,,0,0,0,,Iberian Pig  Pork Jowl\N An exquisite combination of meat and fat
+Dialogue: 0,0:04:53.88,0:04:56.66,Default,,0,0,0,,Who will eat the extra here?\N
+Dialogue: 0,0:04:56.66,0:04:57.66,Endo,,0,0,0,,I'll do it
+Dialogue: 0,0:05:01.62,0:05:09.17,Matsumoto,,0,0,0,,If you can make it past this, you'll get a Lipotovan D advertisement deal
+Dialogue: 0,0:05:01.62,0:05:09.17,Default,,0,0,0,,{\pos(720,148)}TN: Lipotovan D is an energy drink
+Dialogue: 0,0:05:07.21,0:05:09.17,Hamada,,0,0,0,,For real?
+Dialogue: 0,0:05:09.17,0:05:13.78,Default,,0,0,0,,His "Tough Guy" image is too strong
+Dialogue: 0,0:05:11.74,0:05:13.78,Matsumoto,,0,0,0,,It's just too strong
+Dialogue: 0,0:05:14.80,0:05:18.30,Narrator,,0,0,0,,The fatty pork jowl is a real burden to their stomachs
+Dialogue: 0,0:05:19.56,0:05:20.30,Narrator,,0,0,0,,And then...
+Dialogue: 0,0:05:21.00,0:05:23.85,Matsumoto,,0,0,0,,This is tough
+Dialogue: 0,0:05:23.85,0:05:25.89,Hamada,,0,0,0,,{\pos(1170,810)}Tough?
+Dialogue: 0,0:05:26.16,0:05:28.00,Default,,0,0,0,,You said it very clearly
+Dialogue: 0,0:05:28.00,0:05:29.80,Hamada,,0,0,0,,He did just say it\N "This is tough"
+Dialogue: 0,0:05:29.80,0:05:34.16,Matsumoto,,0,0,0,,No no no\N I mean the wasabi, putting too much makes it a challenge to eat
+Dialogue: 0,0:05:34.16,0:05:35.90,Matsumoto,,0,0,0,,I was just taken aback
+Dialogue: 0,0:05:36.94,0:05:39.38,Narrator,,0,0,0,,Can we see the difficulty start to show?
+Dialogue: 0,0:05:40.38,0:05:41.32,Narrator,,0,0,0,,However...
+Dialogue: 0,0:05:41.40,0:05:43.76,Default,,0,0,0,,Here it is, Kalbi Gukbap
+Dialogue: 0,0:05:43.76,0:05:44.98,Default,,0,0,0,,Kalbi Gukbap here
+Dialogue: 0,0:05:48.88,0:05:51.75,Default,,0,0,0,,This looks amazing.
+Dialogue: 0,0:05:54.02,0:05:58.05,Matsumoto,,0,0,0,,You'll get the lead role in "Ore No Sora"
+Dialogue: 0,0:05:56.46,0:05:58.05,Hamada,,0,0,0,,You're kidding me!
+Dialogue: 0,0:05:59.59,0:06:02.62,Matsumoto,,0,0,0,,A regular Yasuda Ippei
+Dialogue: 0,0:06:02.92,0:06:06.52,Matsumoto,,0,0,0,,Yama-san, do you wanna help him out?
+Dialogue: 0,0:06:06.52,0:06:09.78,Hosei,,0,0,0,,I don't
+Dialogue: 0,0:06:09.78,0:06:13.72,Matsumoto,,0,0,0,,Mr. MeatLover then
+Dialogue: 0,0:06:10.77,0:06:13.72,Hamada,,0,0,0,,{\pos(1075,740)}I'll have a little then
+Dialogue: 0,0:06:14.34,0:06:17.42,Endo,,0,0,0,,Then I'll have some too then
+Dialogue: 0,0:06:16.20,0:06:17.42,Tanaka,,0,0,0,,Let's all finish this
+Dialogue: 0,0:06:17.42,0:06:19.58,Matsumoto,,0,0,0,,I think I'll have some too
+Dialogue: 0,0:06:21.40,0:06:23.70,Default,,0,0,0,,The second half has started it seem
+Dialogue: 0,0:06:23.70,0:06:27.12,Default,,0,0,0,,Like "let's work together"
+Dialogue: 0,0:06:27.12,0:06:28.63,Tanaka,,0,0,0,,Is this much OK?
+Dialogue: 0,0:06:28.63,0:06:31.00,Endo,,0,0,0,,Yeah no need to hold back
+Dialogue: 0,0:06:32.26,0:06:35.57,Matsumoto,,0,0,0,,The spiciness is perfect
+Dialogue: 0,0:06:35.99,0:06:37.40,Tanaka,,0,0,0,,What about you Zaki-san?
+Dialogue: 0,0:06:37.40,0:06:39.76,Hosei,,0,0,0,,I'm good
+Dialogue: 0,0:06:41.32,0:06:47.54,Matsumoto,,0,0,0,,When Tanaka put this in it broke my heart
+Dialogue: 0,0:06:46.95,0:06:47.54,Default,,0,0,0,,Huge!
+Dialogue: 0,0:06:51.27,0:06:55.34,Hosei,,0,0,0,,Such a massive piece
+Dialogue: 0,0:06:56.40,0:06:59.40,Narrator,,0,0,0,,But still, the members eat with vigor
+Dialogue: 0,0:06:59.60,0:07:00.84,Default,,0,0,0,,Finished!
+Dialogue: 0,0:07:00.84,0:07:05.86,Default,,0,0,0,,
+Dialogue: 0,0:07:06.64,0:07:10.70,Narrator,,0,0,0,,However, a dark cloud looms over this challenge...
+Dialogue: 0,0:07:11.29,0:07:15.80,Matsumoto,,0,0,0,,Actually, how are you guys feeling?
+Dialogue: 0,0:07:15.80,0:07:19.40,Matsumoto,,0,0,0,,In terms of the broadcast
+Dialogue: 0,0:07:22.70,0:07:25.01,Matsumoto,,0,0,0,,We need to figure out how to end this
+Dialogue: 0,0:07:24.00,0:07:25.01,Hosei,,0,0,0,,Just the ending
+Dialogue: 0,0:07:25.01,0:07:27.24,Matsumoto,,0,0,0,,Maybe one of us can pretend to collapse
+Dialogue: 0,0:07:27.24,0:07:30.55,Matsumoto,,0,0,0,,But that might be a bother for Toraji,
+Dialogue: 0,0:07:30.78,0:07:33.29,Matsumoto,,0,0,0,,I guess a sprain is our best option
+Dialogue: 0,0:07:33.29,0:07:36.53,Matsumoto,,0,0,0,,As soon as you get off the car, go like "OW!"
+Dialogue: 0,0:07:36.98,0:07:42.08,Matsumoto,,0,0,0,,It just depends if anyone will fall for this shitty acting
+Dialogue: 0,0:07:45.99,0:07:49.90,Matsumoto,,0,0,0,,I think Endo can do it
+Dialogue: 0,0:07:49.90,0:07:52.53,Hosei,,0,0,0,,You did say he doesn't have any presence in his works
+Dialogue: 0,0:07:52.53,0:07:56.58,Hosei,,0,0,0,,Finally, he has a chance to shine
+Dialogue: 0,0:07:56.58,0:08:00.40,Endo,,0,0,0,,You never know what chance will come...
+Dialogue: 0,0:08:01.34,0:08:03.64,Endo,,0,0,0,,I might stand out this time
+Dialogue: 0,0:08:04.64,0:08:08.08,Narrator,,0,0,0,,Putting aside the Food Marathon, Endo takes on a new challenge
+Dialogue: 0,0:08:10.50,0:08:13.32,Narrator,,0,0,0,,The car reaches the 13th store in Shinjiku
+Dialogue: 0,0:08:13.32,0:08:15.02,Narrator,,0,0,0,,How will Endo's acting turn out?
+Dialogue: 0,0:08:17.98,0:08:18.98,Hosei,,0,0,0,,Alright!
+Dialogue: 0,0:08:19.34,0:08:20.98,Tanaka,,0,0,0,,Let's go,  Shinjiku
+Dialogue: 0,0:08:20.34,0:08:22.16,Endo,,0,0,0,,Ow{\fs84} ow {\fs96}ow {\fs108}ow {\fs120}ow!
+Dialogue: 0,0:08:25.04,0:08:31.79,Endo,,0,0,0,,Sprain, I sprained it
+Dialogue: 0,0:08:31.78,0:08:32.98,Hamada,,0,0,0,,Why? All of a sudden
+Dialogue: 0,0:08:34.81,0:08:40.05,Endo,,0,0,0,,I used to... I used to play baseball
+Dialogue: 0,0:08:41.28,0:08:44.46,Endo,,0,0,0,,I think I twisted something from then
+Dialogue: 0,0:08:43.14,0:08:44.46,Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:08:44.46,0:08:47.09,Endo,,0,0,0,,I think it's dislocated
+Dialogue: 0,0:08:47.09,0:08:49.30,Matsumoto,,0,0,0,,C'mon Endo-kun, let's go.
+Dialogue: 0,0:08:52.56,0:08:53.84,Endo,,0,0,0,,Alright, we're going.
+Dialogue: 0,0:08:53.03,0:08:53.84,Default,,0,0,0,,{\pos(340,930)}You're ready to eat?
+Dialogue: 0,0:08:54.00,0:08:57.26,Endo,,0,0,0,,Yeah I'm good.
+Dialogue: 0,0:08:58.46,0:09:04.62,Narrator,,0,0,0,,Just like Endo's health, their appetite is just fine
+Dialogue: 0,0:09:11.80,0:09:13.88,Narrator,,0,0,0,,This is what everyone's eaten so far,
+Dialogue: 0,0:09:15.50,0:09:18.76,Narrator,,0,0,0,,Matsumoto's side dishes stand out
+Dialogue: 0,0:09:18.76,0:09:20.76,Default,,0,0,0,,Just 10 stores left
+Dialogue: 0,0:09:21.60,0:09:23.58,Default,,0,0,0,,The goal is in sight now
+Dialogue: 0,0:09:24.10,0:09:25.36,Matsumoto,,0,0,0,,You know,
+Dialogue: 0,0:09:26.68,0:09:31.40,Matsumoto,,0,0,0,,I wonder if we can allow some people to rest instead of eat
+Dialogue: 0,0:09:30.48,0:09:31.40,Hosei,,0,0,0,,I see
+Dialogue: 0,0:09:31.40,0:09:35.30,Matsumoto,,0,0,0,,But we need one person to volunteer to eat 3 pieces,
+Dialogue: 0,0:09:35.30,0:09:40.08,Matsumoto,,0,0,0,,We need a "New Age" to dawn on us
+Dialogue: 0,0:09:37.64,0:09:40.08,Hosei,,0,0,0,,Exactly, we need that to happen
+Dialogue: 0,0:09:40.08,0:09:47.47,Hosei,,0,0,0,,Matsumoto-san, Dr. Meat, and I, we're all pretty old
+Dialogue: 0,0:09:45.48,0:09:47.47,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:09:47.47,0:09:50.66,Hosei,,0,0,0,,We need the youth
+Dialogue: 0,0:09:50.66,0:09:54.42,Matsumoto,,0,0,0,,The Fresh and Vigorous
+Dialogue: 0,0:09:51.91,0:09:54.42,Hosei,,0,0,0,,The Fresh and Vigorous
+Dialogue: 0,0:09:54.42,0:09:57.26,Endo,,0,0,0,,We're in our 40s you know
+Dialogue: 0,0:09:57.26,0:10:00.06,Tanaka,,0,0,0,,There's no young people on Gaki
+Dialogue: 0,0:10:01.50,0:10:05.72,Tanaka,,0,0,0,,No young people on Gaki
+Dialogue: 0,0:10:03.42,0:10:05.72,Matsumoto,,0,0,0,,Alright I got it, next time,
+Dialogue: 0,0:10:05.72,0:10:08.72,Matsumoto,,0,0,0,,We'll decide, with cards
+Dialogue: 0,0:10:08.72,0:10:13.30,Matsumoto,,0,0,0,,We'll flip the cards and see who gets to rest
+Dialogue: 0,0:10:14.38,0:10:19.14,Narrator,,0,0,0,,Up until now, they've eaten together, \N But now they begin the resting plan
+Dialogue: 0,0:10:21.06,0:10:24.14,Narrator,,0,0,0,,Will this be a blessing? Or a burden?
+Dialogue: 0,0:10:24.92,0:10:26.96,Narrator,,0,0,0,,Let's see
+Dialogue: 0,0:10:33.24,0:10:35.72,Narrator,,0,0,0,,From now on, they will move mountains
+Dialogue: 0,0:10:37.38,0:10:38.90,Default,,0,0,0,,These are the cards
+Dialogue: 0,0:10:38.90,0:10:43.00,Endo,,0,0,0,,This is an amazing game
+Dialogue: 0,0:10:43.00,0:10:47.41,Matsumoto,,0,0,0,,Let's decide who rests first
+Dialogue: 0,0:10:45.14,0:10:47.41,Tanaka,,0,0,0,,Decide who doesn't eat
+Dialogue: 0,0:10:48.20,0:10:51.70,Narrator,,0,0,0,,A battle of luck; Who will get to rest?
+Dialogue: 0,0:10:54.34,0:10:55.44,Hosei,,0,0,0,,Alright, I got it
+Dialogue: 0,0:10:56.00,0:10:58.02,Narrator,,0,0,0,,The answer...
+Dialogue: 0,0:10:58.56,0:11:00.44,Default,,0,0,0,,Ready...set... flip!
+Dialogue: 0,0:11:02.68,0:11:05.83,Default,,0,0,0,,Matsumoto-san doesn't have to eat!
+Dialogue: 0,0:11:06.48,0:11:07.82,Matsumoto,,0,0,0,,I'm so glad!
+Dialogue: 0,0:11:07.82,0:11:08.82,Tanaka,,0,0,0,,Very lucky
+Dialogue: 0,0:11:09.96,0:11:11.26,Hosei,,0,0,0,,What the hell
+Dialogue: 0,0:11:12.08,0:11:15.16,Narrator,,0,0,0,,Next, they decide who must eat 3 pieces
+Dialogue: 0,0:11:15.16,0:11:16.50,Hosei,,0,0,0,,Please go ahead
+Dialogue: 0,0:11:16.50,0:11:18.96,Tanaka,,0,0,0,,I really wanna avoid this one
+Dialogue: 0,0:11:19.16,0:11:21.52,Hosei,,0,0,0,,This is definitely not good, I don't want to get it
+Dialogue: 0,0:11:21.52,0:11:23.86,Default,,0,0,0,,Decide on who shall eat 3 pieces, please!
+Dialogue: 0,0:11:23.86,0:11:25.29,Default,,0,0,0,,Ready, set... flip!
+Dialogue: 0,0:11:26.84,0:11:28.18,Default,,0,0,0,,It's Endo-san!
+Dialogue: 0,0:11:29.64,0:11:30.64,Tanaka,,0,0,0,,Alright!
+Dialogue: 0,0:11:30.84,0:11:32.84,Endo,,0,0,0,,Well alright then, let's eat
+Dialogue: 0,0:11:35.30,0:11:37.64,Narrator,,0,0,0,,For the 16th store, they decide on Harami (Skirt Steak)
+Dialogue: 0,0:11:38.52,0:11:41.26,Narrator,,0,0,0,,With less fat, a light item
+Dialogue: 0,0:11:42.84,0:11:44.72,Matsumoto,,0,0,0,,Very nice
+Dialogue: 0,0:11:53.87,0:11:54.81,Hosei,,0,0,0,,It's light
+Dialogue: 0,0:11:55.56,0:11:58.24,Narrator,,0,0,0,,Endo should be the one to find this difficult,
+Dialogue: 0,0:12:01.82,0:12:02.82,Narrator,,0,0,0,,But then,
+Dialogue: 0,0:12:07.79,0:12:12.32,Matsumoto,,0,0,0,,What is this, "Look how hard I'm working"
+Dialogue: 0,0:12:12.32,0:12:16.32,Matsumoto,,0,0,0,,You barely ate!
+Dialogue: 0,0:12:17.36,0:12:19.88,Narrator,,0,0,0,,He puts the last piece in his mouth
+Dialogue: 0,0:12:21.56,0:12:22.80,Default,,0,0,0,,He did it
+Dialogue: 0,0:12:23.72,0:12:24.80,Default,,0,0,0,,Finished!
+Dialogue: 0,0:12:26.22,0:12:27.52,Default,,0,0,0,,Let's continue
+Dialogue: 0,0:12:28.54,0:12:30.54,Hosei,,0,0,0,,Can I see the menu?
+Dialogue: 0,0:12:34.90,0:12:35.90,Hosei,,0,0,0,,What should we do?
+Dialogue: 0,0:12:37.22,0:12:40.42,Hosei,,0,0,0,,We have 3 more stores here?
+Dialogue: 0,0:12:39.28,0:12:40.42,Default,,0,0,0,,Yes, in Ebisu
+Dialogue: 0,0:12:40.42,0:12:42.76,Default,,0,0,0,,We have 3 in Ebisu
+Dialogue: 0,0:12:43.62,0:12:46.79,Narrator,,0,0,0,,The largest hurdle, Ebisu
+Dialogue: 0,0:12:47.79,0:12:54.04,Narrator,,0,0,0,,There are 3 stores within 10 minutes of each other \N Falling behind here is unnacceptable
+Dialogue: 0,0:12:54.56,0:12:55.56,Default,,0,0,0,,Let's do this!
+Dialogue: 0,0:12:59.66,0:13:02.12,Narrator,,0,0,0,,They've cleared 16 stores thus far
+Dialogue: 0,0:13:02.12,0:13:05.38,Narrator,,0,0,0,,The meat and grease tortures their stomachs
+Dialogue: 0,0:13:05.38,0:13:09.55,Hamada,,0,0,0,,Seeing the word "Toraji" is starting to piss me off
+Dialogue: 0,0:13:12.18,0:13:15.62,Matsumoto,,0,0,0,,Even these stairs are a pain
+Dialogue: 0,0:13:15.62,0:13:20.56,Narrator,,0,0,0,,Even before they eat, the stairs take their toll on the members
+Dialogue: 0,0:13:24.50,0:13:27.52,Default,,0,0,0,,Shall we do pork?
+Dialogue: 0,0:13:26.30,0:13:27.52,Matsumoto,,0,0,0,,The short rib?
+Dialogue: 0,0:13:27.52,0:13:29.92,Default,,0,0,0,,Yes, then we'll be done with pork dishes
+Dialogue: 0,0:13:29.92,0:13:32.72,Matsumoto,,0,0,0,,Let's see what the cards decide then
+Dialogue: 0,0:13:33.24,0:13:37.24,Hosei,,0,0,0,,The cards will decide who eats the short rib
+Dialogue: 0,0:13:37.24,0:13:40.12,Matsumoto,,0,0,0,,I'm definitely not gonna lose!
+Dialogue: 0,0:13:41.12,0:13:46.04,Narrator,,0,0,0,,The second card draw; There is a large penalty this time
+Dialogue: 0,0:13:48.98,0:13:50.14,Narrator,,0,0,0,,And... flip!
+Dialogue: 0,0:13:58.22,0:13:59.14,Hamada,,0,0,0,,Really?!
+Dialogue: 0,0:13:59.14,0:14:00.80,Tanaka,,0,0,0,,He got them in a row
+Dialogue: 0,0:14:01.68,0:14:06.56,Narrator,,0,0,0,,After Matsumoto's double breaks, who will eat 3 pieces?
+Dialogue: 0,0:14:07.40,0:14:09.32,Matsumoto,,0,0,0,,Here we go, Tanaka open
+Dialogue: 0,0:14:09.82,0:14:13.14,Tanaka,,0,0,0,,Alright, just 1 piece
+Dialogue: 0,0:14:14.50,0:14:16.48,Matsumoto,,0,0,0,,Meat Lover, open
+Dialogue: 0,0:14:20.24,0:14:21.82,Hosei,,0,0,0,,NO, PLEASE
+Dialogue: 0,0:14:23.44,0:14:26.24,Matsumoto,,0,0,0,,
+Dialogue: 0,0:14:34.22,0:14:37.06,Narrator,,0,0,0,,The 17th item, pork short rib
+Dialogue: 0,0:14:37.06,0:14:40.98,Narrator,,0,0,0,,A reasonable portion, and a very popular item
+Dialogue: 0,0:14:40.98,0:14:46.06,Hosei,,0,0,0,,They're all the same
+Dialogue: 0,0:14:47.09,0:14:48.89,Matsumoto,,0,0,0,,This one looks good
+Dialogue: 0,0:14:48.56,0:14:50.84,Hosei,,0,0,0,,I've already decided on my 3 pieces
+Dialogue: 0,0:15:02.33,0:15:06.90,Matsumoto,,0,0,0,,Look at him, eating like a Big Leaguer
+Dialogue: 0,0:15:06.90,0:15:09.89,Matsumoto,,0,0,0,,Are you chewing tobacco?
+Dialogue: 0,0:15:09.89,0:15:12.56,Hosei,,0,0,0,,OK!
+Dialogue: 0,0:15:12.81,0:15:15.32,Hamada,,0,0,0,,He's definitely not gonna finish
+Dialogue: 0,0:15:16.86,0:15:22.92,Narrator,,0,0,0,,Yamasaki has given up the most in the past \N But unexpectedly, he finishes!
+Dialogue: 0,0:15:26.38,0:15:28.06,Default,,0,0,0,,Finished!
+Dialogue: 0,0:15:30.93,0:15:34.04,Default,,0,0,0,,He's crying
+Dialogue: 0,0:15:35.26,0:15:36.86,Default,,0,0,0,,Can we go to the head store?
+Dialogue: 0,0:15:36.86,0:15:39.80,Hosei,,0,0,0,,{\alpha&H80&}Let's go.
+Dialogue: 0,0:15:40.72,0:15:41.70,Default,,0,0,0,,Alright, let's go!
+Dialogue: 0,0:15:43.10,0:15:45.24,Narrator,,0,0,0,,8 hours since the start,
+Dialogue: 0,0:15:46.08,0:15:49.58,Narrator,,0,0,0,,They are no doubt feeling very full
+Dialogue: 0,0:15:50.11,0:15:54.01,Hamada,,0,0,0,,My steps are so heavy
+Dialogue: 0,0:15:56.36,0:15:59.02,Matsumoto,,0,0,0,,There it is.
+Dialogue: 0,0:15:58.34,0:15:59.02,Tanaka,,0,0,0,,We're here.
+Dialogue: 0,0:15:59.02,0:16:01.84,Default,,0,0,0,,This way
+Dialogue: 0,0:16:02.66,0:16:06.92,Narrator,,0,0,0,,Next up, the 40th Toraji store in Japan, Toraji Head Store
+Dialogue: 0,0:16:09.24,0:16:14.74,Narrator,,0,0,0,,Like their appetites, their stamina is at the limit
+Dialogue: 0,0:16:15.64,0:16:20.06,Hamada,,0,0,0,,Since this is the head store, we gotta get the specialty short rib
+Dialogue: 0,0:16:20.84,0:16:25.06,Narrator,,0,0,0,,Whoever gets the Skull must eat 2 pieces
+Dialogue: 0,0:16:26.34,0:16:30.00,Hamada,,0,0,0,,That's hot man! Right above the stove
+Dialogue: 0,0:16:28.02,0:16:30.00,Matsumoto,,0,0,0,,Your way of getting it was weird
+Dialogue: 0,0:16:32.04,0:16:34.62,Default,,0,0,0,,If you get the skull you have to eat 2
+Dialogue: 0,0:16:34.62,0:16:37.02,Default,,0,0,0,,Let's do it on go\N Ready, set,
+Dialogue: 0,0:16:37.20,0:16:39.70,Hosei,,0,0,0,,Alright, Thank god!
+Dialogue: 0,0:16:40.88,0:16:43.86,Hamada,,0,0,0,,Specialty Short Rib
+Dialogue: 0,0:16:44.02,0:16:45.86,Default,,0,0,0,,Thank you for waiting
+Dialogue: 0,0:16:49.80,0:16:52.42,Narrator,,0,0,0,,King Of Yakiniku - Specialty Short Rib
+Dialogue: 0,0:16:53.20,0:16:56.48,Narrator,,0,0,0,,Taste, and volume, fit for a king
+Dialogue: 0,0:16:59.34,0:17:00.34,Endo,,0,0,0,,The head store...
+Dialogue: 0,0:17:02.02,0:17:05.18,Hosei,,0,0,0,,This is some good looking short rib
+Dialogue: 0,0:17:09.26,0:17:12.36,Hamada,,0,0,0,,Yakiniku is just right for now
+Dialogue: 0,0:17:12.36,0:17:14.29,Hosei,,0,0,0,,For now I like this
+Dialogue: 0,0:17:14.44,0:17:15.44,Matsumoto,,0,0,0,,Here I go
+Dialogue: 0,0:17:19.64,0:17:20.64,Matsumoto,,0,0,0,,
+Dialogue: 0,0:17:24.36,0:17:30.86,Narrator,,0,0,0,,The taste is of course fantastic, however the fattiness is really getting to them
+Dialogue: 0,0:17:34.94,0:17:38.60,Matsumoto,,0,0,0,,I'm really, I'm really working hard here
+Dialogue: 0,0:17:38.60,0:17:40.60,Hamada,,0,0,0,,We wanna see you doing that
+Dialogue: 0,0:17:42.56,0:17:45.22,Narrator,,0,0,0,,Matsumoto shoves down the second piece
+Dialogue: 0,0:17:47.94,0:17:48.88,Default,,0,0,0,,Finished!
+Dialogue: 0,0:17:53.18,0:17:54.50,Default,,0,0,0,,Let's head to the next store
+Dialogue: 0,0:17:56.28,0:17:58.54,Narrator,,0,0,0,,The last store in Ebisu
+Dialogue: 0,0:18:00.04,0:18:02.34,Narrator,,0,0,0,,This time it's Seafood, to change things up
+Dialogue: 0,0:18:02.72,0:18:04.34,Narrator,,0,0,0,,They decide on Squid
+Dialogue: 0,0:18:06.28,0:18:12.66,Matsumoto,,0,0,0,,Tana-chi, give me a small piece
+Dialogue: 0,0:18:10.42,0:18:12.66,Hosei,,0,0,0,,Me too, Tana-chi
+Dialogue: 0,0:18:13.74,0:18:16.38,Narrator,,0,0,0,,A break from the greasy meat,
+Dialogue: 0,0:18:17.08,0:18:18.28,Narrator,,0,0,0,,Their chopsticks keep moving
+Dialogue: 0,0:18:18.86,0:18:22.20,Matsumoto,,0,0,0,,Squid will never let you down
+Dialogue: 0,0:18:22.20,0:18:24.78,Matsumoto,,0,0,0,,I don't think squid has let anyone down
+Dialogue: 0,0:18:26.62,0:18:27.42,Default,,0,0,0,,{\pos(530,485)}Hmm?
+Dialogue: 0,0:18:27.42,0:18:29.40,Matsumoto,,0,0,0,,That piece is way smaller than mine
+Dialogue: 0,0:18:29.40,0:18:33.06,Matsumoto,,0,0,0,,That's definitely smaller!
+Dialogue: 0,0:18:30.58,0:18:33.06,Tanaka,,0,0,0,,When I was cutting them,
+Dialogue: 0,0:18:33.06,0:18:36.38,Tanaka,,0,0,0,,you said you liked squid,
+Dialogue: 0,0:18:36.38,0:18:37.81,Tanaka,,0,0,0,,So of course,
+Dialogue: 0,0:18:37.81,0:18:40.62,Tanaka,,0,0,0,,I want to give more to those who like it
+Dialogue: 0,0:18:40.62,0:18:44.85,Matsumoto,,0,0,0,,If you tell me some trivia about squid I'll forgive you
+Dialogue: 0,0:18:44.85,0:18:52.84,Tanaka,,0,0,0,,Octopus have legs, but Squid have arms
+Dialogue: 0,0:18:52.84,0:18:55.06,Matsumoto,,0,0,0,,That's actually amazing,
+Dialogue: 0,0:18:55.06,0:19:01.68,Matsumoto,,0,0,0,,Why didn't you tell me this amazing fact before
+Dialogue: 0,0:18:59.96,0:19:01.68,Tanaka,,0,0,0,,Where would it come up?
+Dialogue: 0,0:19:04.28,0:19:07.12,Default,,0,0,0,,Finished!
+Dialogue: 0,0:19:07.66,0:19:08.92,Default,,0,0,0,,Next store!
+Dialogue: 0,0:19:11.68,0:19:13.78,Hamada,,0,0,0,,This is no good
+Dialogue: 0,0:19:13.98,0:19:18.34,Endo,,0,0,0,,No more, I can't
+Dialogue: 0,0:19:19.90,0:19:22.80,Hamada,,0,0,0,,NO MORE!!!!
+Dialogue: 0,0:19:22.80,0:19:25.50,Default,,0,0,0,,That counts as giving up
+Dialogue: 0,0:19:25.50,0:19:28.62,Default,,0,0,0,,You totally just gave up
+Dialogue: 0,0:19:28.62,0:19:30.86,Matsumoto,,0,0,0,,That scared me!
+Dialogue: 0,0:19:30.86,0:19:33.66,Matsumoto,,0,0,0,,I don't want to end by the roadside like this
+Dialogue: 0,0:19:33.66,0:19:37.92,Matsumoto,,0,0,0,,That's what ******* was also thinking
+Dialogue: 0,0:19:36.04,0:19:37.92,Default,,0,0,0,,"I don't wanna end by the roadside"
+Dialogue: 0,0:19:39.32,0:19:43.96,Narrator,,0,0,0,,Yakiniku Toraji Marathon - Just 6 stores left
+Dialogue: 0,0:19:49.28,0:19:51.24,Narrator,,0,0,0,,A long battle
+Dialogue: 0,0:19:51.24,0:19:54.92,Narrator,,0,0,0,,Their stamina has long passed the limit
+Dialogue: 0,0:19:58.52,0:20:01.03,Matsumoto,,0,0,0,,If it was something else could you eat?
+Dialogue: 0,0:20:01.03,0:20:04.97,Hosei,,0,0,0,,A different food?
+Dialogue: 0,0:20:04.97,0:20:07.64,Hosei,,0,0,0,,I can't swallow anything
+Dialogue: 0,0:20:07.64,0:20:09.34,Matsumoto,,0,0,0,,If it was a crepe?
+Dialogue: 0,0:20:09.34,0:20:12.72,Hosei,,0,0,0,,If it was a crepe, maybe I could swallow it
+Dialogue: 0,0:20:13.54,0:20:16.98,Narrator,,0,0,0,,After that, Yamasaki...
+Dialogue: 0,0:20:18.50,0:20:19.74,Default,,0,0,0,,The 20th store
+Dialogue: 0,0:20:19.74,0:20:21.64,Endo,,0,0,0,,
+Dialogue: 0,0:20:21.92,0:20:23.55,Endo,,0,0,0,,
+Dialogue: 0,0:20:23.55,0:20:27.39,Hosei,,0,0,0,,I'm actually in trouble here
+Dialogue: 0,0:20:26.00,0:20:27.39,Endo,,0,0,0,,
+Dialogue: 0,0:20:27.39,0:20:29.32,Hamada,,0,0,0,,
+Dialogue: 0,0:20:29.32,0:20:30.92,Endo,,0,0,0,,What happened?
+Dialogue: 0,0:20:30.92,0:20:35.20,Default,,0,0,0,,It seems he can't walk
+Dialogue: 0,0:20:37.02,0:20:39.58,Matsumoto,,0,0,0,,That doesn't just happen all of a sudden
+Dialogue: 0,0:20:40.70,0:20:44.46,Narrator,,0,0,0,,Yamasaki limps into the 20th store, in Aoyama
+Dialogue: 0,0:20:48.14,0:20:52.38,Default,,0,0,0,,He's burping a ton
+Dialogue: 0,0:20:51.16,0:20:52.38,Matsumoto,,0,0,0,,Really?
+Dialogue: 0,0:20:52.74,0:20:56.00,Matsumoto,,0,0,0,,I think we should cross off the Specialty Skirt Steak
+Dialogue: 0,0:20:56.00,0:20:58.49,Tanaka,,0,0,0,,It's lean meat
+Dialogue: 0,0:20:59.16,0:21:02.00,Hamada,,0,0,0,,Are we doing the 1 person eats 2 rule?
+Dialogue: 0,0:21:02.16,0:21:07.22,Hosei,,0,0,0,,The 1 person rests rule is needed right now
+Dialogue: 0,0:21:08.12,0:21:10.53,Narrator,,0,0,0,,They want to relieve their stomachs
+Dialogue: 0,0:21:10.88,0:21:14.16,Narrator,,0,0,0,,One man really wishes it is him
+Dialogue: 0,0:21:14.46,0:21:15.86,Default,,0,0,0,,Ready... flip!
+Dialogue: 0,0:21:16.82,0:21:19.74,Default,,0,0,0,,Endo is safe!
+Dialogue: 0,0:21:20.40,0:21:23.00,Matsumoto,,0,0,0,,Shozo you ate a lot before
+Dialogue: 0,0:21:24.22,0:21:28.00,Narrator,,0,0,0,,This is the deciding point!
+Dialogue: 0,0:21:28.32,0:21:29.60,Default,,0,0,0,,Ready, set, flip!
+Dialogue: 0,0:21:34.24,0:21:36.46,Hamada,,0,0,0,,You're too loud!
+Dialogue: 0,0:21:37.58,0:21:38.60,Hamada,,0,0,0,,He's crying!
+Dialogue: 0,0:21:39.62,0:21:40.94,Matsumoto,,0,0,0,,Just a bit, for now
+Dialogue: 0,0:21:40.94,0:21:43.48,Matsumoto,,0,0,0,,C'mon man
+Dialogue: 0,0:21:43.48,0:21:47.46,Matsumoto,,0,0,0,,You're overreacting
+Dialogue: 0,0:21:47.46,0:21:50.04,Hosei,,0,0,0,,Wait a minute!!! Really?!?!
+Dialogue: 0,0:21:51.04,0:21:57.64,Narrator,,0,0,0,,Specialty Harami - Will they be able to make it past this?
+Dialogue: 0,0:21:57.64,0:22:00.20,Hosei,,0,0,0,,What's with this greasy shine?
+Dialogue: 0,0:22:00.20,0:22:02.37,Matsumoto,,0,0,0,,This greasy shine is the origin of Yakiniku
+Dialogue: 0,0:22:02.37,0:22:05.34,Hosei,,0,0,0,,I've never seen such greasiness
+Dialogue: 0,0:22:05.46,0:22:08.02,Default,,0,0,0,,That looks cooked doesn't it?
+Dialogue: 0,0:22:10.72,0:22:14.26,Hamada,,0,0,0,,Give Yama-chan the 3 best ones
+Dialogue: 0,0:22:14.26,0:22:15.78,Default,,0,0,0,,Please enjoy these
+Dialogue: 0,0:22:16.98,0:22:19.42,Narrator,,0,0,0,,They aim to finish the challenge,
+Dialogue: 0,0:22:20.40,0:22:23.54,Narrator,,0,0,0,,They ignore their suffering, and swallow their food
+Dialogue: 0,0:22:28.34,0:22:32.65,Default,,0,0,0,,Just Hosei-san's 3 pieces left
+Dialogue: 0,0:22:32.65,0:22:34.52,Default,,0,0,0,,Next store is Nishiazabu
+Dialogue: 0,0:22:34.52,0:22:35.95,Default,,0,0,0,,Let's get there
+Dialogue: 0,0:22:43.58,0:22:45.33,Default,,0,0,0,,He's slowly picking up his chopsticks...
+Dialogue: 0,0:22:45.33,0:22:47.44,Matsumoto,,0,0,0,,He just can't raise them
+Dialogue: 0,0:22:51.26,0:22:52.20,Hosei,,0,0,0,,Alright.
+Dialogue: 0,0:22:52.93,0:22:55.57,Hosei,,0,0,0,,I give up!
+Dialogue: 0,0:23:01.06,0:23:02.82,Hamada,,0,0,0,,He didn't eat a single bite
+Dialogue: 0,0:23:04.66,0:23:06.48,Default,,0,0,0,,Giving up without eating
+Dialogue: 0,0:23:06.48,0:23:08.43,Matsumoto,,0,0,0,,You can't lift your chopsticks?
+Dialogue: 0,0:23:07.85,0:23:10.58,Hosei,,0,0,0,,I just can't, I was amazed,
+Dialogue: 0,0:23:10.58,0:23:13.40,Hosei,,0,0,0,,Something that heavy is impossible
+Dialogue: 0,0:23:13.40,0:23:17.76,Default,,0,0,0,,This means the challenge ends here!
+Dialogue: 0,0:23:19.03,0:23:24.46,Default,,0,0,0,,28,340 yen, Hosei-san please pay that amount
+Dialogue: 0,0:23:32.42,0:23:35.58,Matsumoto,,0,0,0,,Amazing, look the stars have come off
+Dialogue: 0,0:23:36.14,0:23:38.31,Hosei,,0,0,0,,I only have 26,000 yen
+Dialogue: 0,0:23:41.22,0:23:42.72,Matsumoto,,0,0,0,,If you eat this one piece,
+Dialogue: 0,0:23:44.06,0:23:45.56,Hosei,,0,0,0,,No way, I don't wanna
+Dialogue: 0,0:23:48.08,0:23:49.32,Hosei,,0,0,0,,Can I make it up later?
+Dialogue: 0,0:23:49.32,0:23:52.32,Hosei,,0,0,0,,
+

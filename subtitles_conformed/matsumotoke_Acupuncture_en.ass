@@ -1,0 +1,523 @@
+﻿[Script Info]
+Title: Default SSA V4+ (ASS)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Acupuncut.mp4
+Video File: Acupuncut.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 126
+Active Line: 131
+Video Position: 5270
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50,&H00109038,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Box,Arial,54,&HFFFFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
+Style: Rubi,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: Narrator,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,50,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,6,4,2,11,11,15,1
+Style: miyasako,Arial,50,&H000081DB,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator - Copy,Arial,50,&H00CB35F3,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: WHITETEXT,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&HFF000000,-1,0,0,0,100,100,0,0,1,2,4,2,11,11,15,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,185.951,100,0,0,3,36.6666,1.46666,5,9,9,8,1
+Style: Yellow announcment,Arial,80,&H00FFFFFF,&H000000FF,&H00000000,&H3C5E3C06,-1,0,0,0,100,100,0,0,1,2.93333,5,2,9,9,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:02:30.50,Yellow announcment,,0,0,0,,TITLE
+Comment: 0,0:00:00.00,0:02:36.44,Yellow announcment,,0,0,0,,{\pos(774.4,499.2)}Just like an electric eel's
+Comment: 0,0:00:00.00,0:02:36.44,Yellow announcment,,0,0,0,,{\fscx81\fscy82\pos(812.8,332.8)}Sadako get an electric shock!
+Comment: 0,0:00:00.00,0:02:30.50,Yellow announcment,,0,0,0,,End
+Comment: 0,0:00:00.00,0:00:00.11,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}じゃあ お母ちゃん いきますか\N
+Comment: 0,0:00:00.00,0:00:00.11,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}ああ すばらしい\N
+Comment: 0,0:00:00.11,0:00:01.78,Default,,0,0,0,,{\pos(413,678)\c&Hffff00&}いや すごいですよ\N
+Comment: 0,0:00:01.78,0:00:03.98,Default,,0,0,0,,{\pos(466,678)}(ｽﾀｼﾞｵ内 拍手)\N
+Comment: 0,0:00:03.98,0:00:06.09,Narrator,,0,0,0,,This hurts too?
+Comment: 0,0:00:06.09,0:00:07.75,Default,,0,0,0,,{\pos(546,558)}はい わかりました\N
+Comment: 0,0:00:13.49,0:00:16.00,Default,,0,0,0,,It's hard to tell whether it would work on everybody right?
+Comment: 0,0:00:16.00,0:00:17.63,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}わからない…\N
+Comment: 0,0:00:17.63,0:00:19.30,Default,,0,0,0,,{\pos(226,478)\c&Hffff00&}何されて…\N
+Comment: 0,0:00:17.63,0:00:19.30,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}どれぐらい刺されてたん？\N
+Comment: 0,0:00:31.24,0:00:32.91,Default,,0,0,0,,{\pos(946,358)}55？\N
+Comment: 0,0:00:32.91,0:00:34.58,Default,,0,0,0,,{\pos(386,358)\c&H00ff00&}五十肩\N
+Comment: 0,0:00:42.69,0:00:44.39,Default,,0,0,0,,{\pos(626,558)\c&H00ffff&}うん\N
+Comment: 0,0:00:52.23,0:00:54.87,Default,,0,0,0,,{\pos(466,558)}見せるだけです\N
+Comment: 0,0:00:54.87,0:00:58.31,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}めっちゃディスってますやん\N
+Comment: 0,0:00:58.31,0:00:59.97,Default,,0,0,0,,{\pos(466,558)}(ｽﾀｼﾞｵ内 笑い)\N
+Comment: 0,0:00:59.97,0:01:01.84,Default,,0,0,0,,{\pos(546,558)}(蔡)だから 今日は…\N
+Comment: 0,0:01:06.05,0:01:09.02,Default,,0,0,0,,{\pos(360,558)\c&H00ffff&}はい\N
+Comment: 0,0:01:09.02,0:01:12.05,Default,,0,0,0,,{\pos(493,558)}こっち 前 痛いときは\N
+Comment: 0,0:01:12.05,0:01:17.02,Default,,0,0,0,,{\pos(333,558)}こっちは 鍼１本入れるですね\N
+Comment: 0,0:01:19.53,0:01:21.40,Default,,0,0,0,,{\pos(573,558)}けい椎でしょ\N
+Comment: 0,0:01:21.40,0:01:27.13,Rubi,,0,0,0,,{\pos(600,478)}ぜっこつ\N
+Comment: 0,0:01:21.40,0:01:27.13,Default,,0,0,0,,{\pos(360,558)}こちらは 絶骨 １本鍼入れて\N
+Comment: 0,0:01:31.47,0:01:34.94,Default,,0,0,0,,{\pos(493,558)}こちらは？\N
+Comment: 0,0:01:34.94,0:01:36.71,Default,,0,0,0,,{\pos(413,558)\c&H00ff00&}ええー！\N
+Comment: 0,0:01:36.71,0:01:38.41,Default,,0,0,0,,{\pos(413,558)\c&Hffff00&}それだけで変わるでしょ？\N
+Comment: 0,0:01:42.58,0:01:44.95,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}まだ痛みはありますけど\N
+Comment: 0,0:01:49.82,0:01:51.49,Rubi,,0,0,0,,{\pos(733,398)}ごうこく\N
+Comment: 0,0:01:49.82,0:01:51.49,Default,,0,0,0,,{\pos(733,478)}合谷あるです\N
+Comment: 0,0:01:51.49,0:01:53.86,Default,,0,0,0,,{\pos(680,478)}手の合谷ね\N
+Comment: 0,0:01:56.90,0:01:59.97,Matsumoto,,0,0,0,,{\pos(280,558)\c&H00ffff&}なんか\N
+Comment: 0,0:01:59.97,0:02:03.24,Default,,0,0,0,,{\pos(520,558)\c&H00ffff&}チクじゃなくて\N
+Comment: 0,0:02:05.57,0:02:07.34,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}健康なんですよね？\N
+Comment: 0,0:02:07.34,0:02:09.58,Default,,0,0,0,,{\pos(573,558)\c&Hffff00&}そういうことなんや\N
+Comment: 0,0:02:09.58,0:02:11.78,Default,,0,0,0,,{\pos(626,558)}(蔡)ズンッとして\N
+Comment: 0,0:02:11.78,0:02:14.35,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}ははははっ\N
+Comment: 0,0:02:19.49,0:02:22.89,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}首入った\N
+Comment: 0,0:02:24.09,0:02:26.73,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}ははははっ\N
+Comment: 0,0:02:31.63,0:02:33.30,Default,,0,0,0,,{\pos(226,558)}(さだ子)すごい\N
+Comment: 0,0:02:33.30,0:02:34.97,Default,,0,0,0,,{\pos(333,478)\c&H00ffff&}ああ そうですね\N
+Comment: 0,0:02:49.65,0:02:51.49,Default,,0,0,0,,{\pos(466,358)}やいとかもしれませんね\N
+Comment: 0,0:02:30.47,0:03:00.33,Yellow announcment,,0,0,0,,TITLE
+Comment: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,{\pos(774.4,499.2)}Just like an electric eel's
+Comment: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,{\fscx81\fscy82\pos(812.8,332.8)}Sadako get an electric shock!
+Comment: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,End
+Comment: 0,0:02:57.83,0:02:59.56,Default,,0,0,0,,{\pos(280,198)\c&H00ff00&}ははははっ 緊張してるから…\N
+Comment: 0,0:03:11.31,0:03:12.98,Default,,0,0,0,,{\pos(253,318)\c&H00ff00&}すっきりしてないんちゃいます？\N
+Comment: 0,0:03:26.19,0:03:28.19,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}そうですよね\N
+Comment: 0,0:03:45.34,0:03:46.94,Default,,0,0,0,,{\pos(466,358)}(ｽﾀｼﾞｵ内 笑い)\N
+Comment: 0,0:03:49.71,0:03:51.62,Default,,0,0,0,,{\pos(280,558)\c&Hffff00&}そうか\N
+Comment: 0,0:03:51.62,0:03:54.25,Default,,0,0,0,,{\pos(600,558)}心 優しいです\N
+Comment: 0,0:03:59.96,0:04:01.69,Default,,0,0,0,,{\pos(386,558)}硬くなるです\N
+Comment: 0,0:04:04.93,0:04:06.90,Default,,0,0,0,,{\pos(466,558)}(蔡)やいとしてるですよ\N
+Comment: 0,0:04:14.10,0:04:17.88,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}先生 今の熱かった\N
+Comment: 0,0:04:27.85,0:04:30.49,Default,,0,0,0,,{\pos(386,558)}やいと ぶつかったんですわ\N
+Comment: 0,0:04:34.73,0:04:36.76,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}ははははっ\N
+Comment: 0,0:04:36.76,0:04:39.46,Default,,0,0,0,,{\pos(226,558)\c&Hffff00&}ははははっ\N
+Comment: 0,0:04:39.46,0:04:41.30,Default,,0,0,0,,{\pos(520,558)\c&H00ffff&}はい\N
+Comment: 0,0:04:41.30,0:04:44.87,Default,,0,0,0,,{\pos(440,558)}この振る… してください\N
+Comment: 0,0:04:47.24,0:04:50.34,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}ええー\N
+Comment: 0,0:04:54.61,0:04:59.62,Default,,0,0,0,,{\pos(333,558)}こっちは五十肩ですよ 本当に\N
+Comment: 0,0:05:06.89,0:05:08.69,Default,,0,0,0,,{\pos(573,558)\c&H00ffff&}癒着？\N
+Comment: 0,0:05:26.24,0:05:29.15,Default,,0,0,0,,{\pos(653,558)\c&H00ffff&}ああ！\N
+Comment: 0,0:05:37.72,0:05:39.73,Default,,0,0,0,,{\pos(466,558)\c&H00ffff&}言うてんねんけどな\N
+Comment: 0,0:05:39.73,0:05:41.46,Default,,0,0,0,,{\pos(466,558)}(ｽﾀｼﾞｵ内 笑い)\N
+Comment: 0,0:05:41.46,0:05:44.33,Default,,0,0,0,,{\pos(360,558)}だから もし\N
+Comment: 0,0:05:44.33,0:05:46.43,Default,,0,0,0,,{\pos(546,558)}通電して ベッドする\N
+Comment: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,TITLE
+Comment: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,{\pos(774.4,499.2)}Just like an electric eel's
+Comment: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,{\fscx81\fscy82\pos(812.8,332.8)}Sadako get an electric shock!
+Comment: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,End
+Comment: 0,0:05:48.07,0:05:49.77,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}ちょっと用意しますわ\N
+Comment: 0,0:05:51.74,0:05:53.71,Default,,0,0,0,,{\pos(253,198)\c&H00ff00&}これ もう さだ子 持って それ\N
+Comment: 0,0:06:00.75,0:06:03.78,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}へえー\N
+Comment: 0,0:06:03.78,0:06:10.46,Rubi,,0,0,0,,{\pos(680,398)}けん\N
+Comment: 0,0:06:03.78,0:06:10.46,Default,,0,0,0,,{\pos(466,558)}ここ 肩ぐうは 鍼入れて\N
+Comment: 0,0:06:10.46,0:06:15.16,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}なしに入れるな\N
+Comment: 0,0:06:15.16,0:06:18.03,Default,,0,0,0,,{\pos(653,558)}鍼 趣味なって…\N
+Comment: 0,0:06:18.03,0:06:20.63,Default,,0,0,0,,{\pos(333,558)\c&H00ff00&}ははははっ\N
+Comment: 0,0:06:25.47,0:06:28.58,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}めちゃくちゃ入ってる\N
+Comment: 0,0:06:28.58,0:06:30.94,Default,,0,0,0,,{\pos(226,558)\c&H00ff00&}ははははっ\N
+Comment: 0,0:06:30.94,0:06:32.95,Default,,0,0,0,,{\pos(253,558)\c&Hffff00&}動いたらあきませんよ\N
+Comment: 0,0:06:32.95,0:06:35.85,Default,,0,0,0,,{\pos(440,558)\c&H00ffff&}めっちゃやってますやん\N
+Comment: 0,0:06:43.06,0:06:44.89,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}ビリビリきましたよ\N
+Comment: 0,0:06:48.83,0:06:51.73,Default,,0,0,0,,{\pos(493,558)}私に対して… 短いです\N
+Comment: 0,0:06:51.73,0:06:53.50,Default,,0,0,0,,{\pos(786,558)}(蔡)今日ね\N
+Comment: 0,0:06:58.11,0:07:00.57,Default,,0,0,0,,{\pos(573,558)}怖くなって倒れたら\N
+Comment: 0,0:07:00.57,0:07:02.48,Narrator,,0,0,0,,Cause he's so troublesome, she said
+Comment: 0,0:07:00.57,0:07:02.48,Default,,0,0,0,,{\pos(493,558)\c&H00ffff&}えっ 嫁さん\N
+Comment: 0,0:07:04.11,0:07:05.78,Default,,0,0,0,,{\pos(466,558)}(ｽﾀｼﾞｵ内 笑い)\N
+Comment: 0,0:07:05.78,0:07:08.75,Default,,0,0,0,,{\pos(386,558)}よく見てるね\N
+Comment: 0,0:07:10.45,0:07:14.05,Default,,0,0,0,,{\pos(386,558)}電気いきますね ここ\N
+Comment: 0,0:07:37.38,0:07:39.01,Default,,0,0,0,,{\pos(893,558)\c&H00ffff&}えっ？\N
+Comment: 0,0:07:39.01,0:07:42.55,Default,,0,0,0,,{\pos(360,678)}治らないとき 私 困るんです\N
+Comment: 0,0:07:47.96,0:07:51.46,Default,,0,0,0,,{\pos(226,678)\c&H00ff00&}祭りかな？ 祭り？\N
+Comment: 0,0:07:56.73,0:07:59.57,Default,,0,0,0,,{\pos(493,678)\c&H00ffff&}見せたらあかんて\N
+Comment: 0,0:07:59.57,0:08:01.84,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}えっ？\N
+Comment: 0,0:08:20.12,0:08:21.82,Default,,0,0,0,,{\pos(226,678)\c&Hffff00&}えっ？\N
+Comment: 0,0:08:24.36,0:08:26.73,Default,,0,0,0,,Hahahaha!
+Comment: 0,0:08:26.73,0:08:30.57,Default,,0,0,0,,
+Comment: 0,0:08:30.57,0:08:33.24,Default,,0,0,0,,{\pos(706,678)\c&H00ffff&}それは 先生…\N
+Comment: 0,0:08:36.31,0:08:38.64,Default,,0,0,0,,{\pos(253,678)\c&H00ff00&}めっちゃ気持ちええ\N
+Comment: 0,0:08:38.64,0:08:41.08,Default,,0,0,0,,{\pos(386,678)\c&H00ffff&}マジで マジで言うてんの？\N
+Comment: 0,0:08:43.18,0:08:44.81,Rubi,,0,0,0,,{\pos(706,598)}おんきゅう\N
+Comment: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,TITLE
+Comment: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,{\pos(774.4,499.2)}Just like an electric eel's
+Comment: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,{\fscx81\fscy82\pos(812.8,332.8)}Sadako get an electric shock!
+Comment: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,End
+Comment: 0,0:08:44.81,0:08:46.52,Default,,0,0,0,,{\pos(493,678)\c&H00ff00&}温灸ね 温灸\N
+Comment: 0,0:08:48.22,0:08:50.22,Default,,0,0,0,,{\pos(253,678)\c&Hffff00&}動いたらあきませんよ\N
+Comment: 0,0:08:54.12,0:08:56.69,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}集中して それやるときは\N
+Comment: 0,0:08:54.12,0:08:56.69,Default,,0,0,0,,{\pos(626,558)\c&H00ffff&}うん うん\N
+Comment: 0,0:09:05.33,0:09:07.64,Narrator,,0,0,0,,Yeah, absolutely
+Comment: 0,0:09:07.64,0:09:09.47,Default,,0,0,0,,{\pos(786,558)}温かいして\N
+Comment: 0,0:09:12.58,0:09:15.18,Default,,0,0,0,,{\pos(226,478)\c&H00ff00&}今 温灸やってますよ 温灸\N
+Comment: 0,0:09:22.95,0:09:25.39,Default,,0,0,0,,{\pos(600,558)\c&Hffff00&}4000年の歴史？\N
+Comment: 0,0:09:27.89,0:09:31.53,Default,,0,0,0,,{\pos(466,558)}やいとでしょ 日本でね\N
+Comment: 0,0:09:31.53,0:09:36.83,Default,,0,0,0,,{\pos(253,558)}鍼取りますね\N
+Comment: 0,0:09:39.44,0:09:42.17,Default,,0,0,0,,{\pos(466,558)}(ｽﾀｼﾞｵ内 笑い)\N
+Comment: 0,0:09:48.21,0:09:50.71,Default,,0,0,0,,{\pos(626,558)\c&H00ffff&}はい\N
+Comment: 0,0:09:50.71,0:09:54.02,Default,,0,0,0,,{\pos(253,558)\c&H00ff00&}相当やりました\N
+Comment: 0,0:09:54.02,0:09:57.02,Default,,0,0,0,,{\pos(226,598)}(さだ子)すごい\N
+Comment: 0,0:09:59.62,0:10:01.69,Default,,0,0,0,,{\pos(520,678)\c&H00ffff&}これ 先生\N
+Comment: 0,0:10:04.33,0:10:06.26,Default,,0,0,0,,{\pos(440,518)}(さだ子)へえー\N
+Comment: 0,0:10:06.26,0:10:08.73,Default,,0,0,0,,{\pos(573,598)}よかったって考えて\N
+Comment: 0,0:10:08.73,0:10:11.10,Default,,0,0,0,,{\pos(493,598)}あした また悪くなった\N
+Comment: 0,0:10:11.10,0:10:14.17,Default,,0,0,0,,{\pos(573,598)}表わしたですね\N
+Comment: 0,0:10:14.17,0:10:16.04,Default,,0,0,0,,{\pos(520,598)}あした悪い…\N
+Comment: 0,0:10:16.04,0:10:18.14,Default,,0,0,0,,{\pos(573,598)}結構 気持ち…\N
+Comment: 0,0:10:26.35,0:10:29.05,Default,,0,0,0,,{\pos(226,678)\c&H00ff00&}ほんま 全然違いますか？\N
+Comment: 0,0:10:29.05,0:10:32.82,Default,,0,0,0,,{\pos(573,558)\c&H00ffff&}ああー\N
+Comment: 0,0:10:41.03,0:10:43.67,Default,,0,0,0,,{\pos(253,598)\c&H00ffff&}めちゃめちゃ安いじゃないですか\N
+Comment: 0,0:10:45.30,0:10:48.74,Default,,0,0,0,,{\pos(226,518)\c&H00ff00&}すいません\N
+Comment: 0,0:10:48.74,0:10:50.58,Default,,0,0,0,,{\pos(253,598)\c&H00ff00&}財布持ってきてんねや\N
+Comment: 0,0:10:50.58,0:10:52.81,Default,,0,0,0,,{\pos(226,598)}(さだ子)ははははっ\N
+Comment: 0,0:10:52.81,0:10:54.51,Default,,0,0,0,,{\pos(520,278)}(蔡)私な \N
+Comment: 0,0:10:59.88,0:11:02.35,Default,,0,0,0,,{\pos(653,678)}はーい\N
+Comment: 0,0:11:10.20,0:11:12.36,Default,,0,0,0,,{\pos(280,678)\c&H00ffff&}いいってことやんな？\N
+Comment: 0,0:11:12.36,0:11:14.03,Default,,0,0,0,,{\pos(253,678)\c&H00ff00&}行ったら\N
+Comment: 0,0:11:14.03,0:11:15.70,Default,,0,0,0,,..he'll fix you up quickly
+Comment: 0,0:11:14.03,0:11:15.70,Default,,0,0,0,,{\pos(253,678)\c&H00ff00&}さあ これが\N
+Dialogue: 0,0:00:00.00,0:11:14.73,Default,,0,0,0,,{\c&HFFFFFF&\3c&HFFFFFF&\3a&HFF&\4c&H000000&\4a&HFF&\fscx60\fscy64\pos(133.333,38.667)}Subbed by: Otviss
+Dialogue: 0,0:00:00.00,0:00:03.42,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx828\fscy699\pos(1657.333,924)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:00:00.00,0:00:03.42,Yellow announcment,,0,0,0,,{\pos(674.4,311.467)}Next up is
+Dialogue: 0,0:00:00.00,0:00:03.42,Yellow announcment,,0,0,0,,{\fscx166\fscy181\pos(834.667,463.2)}Mommy
+Dialogue: 0,0:00:03.98,0:00:06.09,Matsumoto,,0,0,0,,Yeah doctor, this hurts as well
+Dialogue: 0,0:00:06.09,0:00:07.75,Narrator,,0,0,0,,It does? I see, I see.
+Dialogue: 0,0:00:07.75,0:00:09.42,Matsumoto,,0,0,0,,This, ya understand?
+Dialogue: 0,0:00:08.32,0:00:09.42,Default,,0,0,0,,That, right?
+Dialogue: 0,0:00:09.42,0:00:11.12,Matsumoto,,0,0,0,,Ouch ouch ouch...
+Dialogue: 0,0:00:11.12,0:00:13.49,Default,,0,0,0,,I wonder how this'll be
+Dialogue: 0,0:00:13.49,0:00:17.60,Default,,0,0,0,,You've got quite the physique... It's hard to tell whether it would work on everybody right?
+Dialogue: 0,0:00:19.30,0:00:21.13,Narrator,,0,0,0,,So hang on...
+Dialogue: 0,0:00:21.80,0:00:24.47,Narrator,,0,0,0,,This hurt?
+Dialogue: 0,0:00:22.80,0:00:24.47,Matsumoto,,0,0,0,,Yeah a little bit.
+Dialogue: 0,0:00:24.47,0:00:25.91,Narrator,,0,0,0,,How about this?
+Dialogue: 0,0:00:25.91,0:00:27.71,Narrator,,0,0,0,,Oh this doesn't raise at all. You've got adhesion here.
+Dialogue: 0,0:00:27.71,0:00:29.44,Narrator,,0,0,0,,This is seriously a frozen shoulder..\N(50 year old's shoulder)
+Dialogue: 0,0:00:29.44,0:00:31.44,Default,,0,0,0,,A frozen shoulder?
+Dialogue: 0,0:00:30.44,0:00:31.44,Narrator,,0,0,0,,How old are you if I may?
+Dialogue: 0,0:00:31.44,0:00:32.91,Matsumoto,,0,0,0,,55..
+Dialogue: 0,0:00:32.91,0:00:34.58,miyasako,,0,0,0,,So it's a frozen shoulder then...
+Dialogue: 0,0:00:34.58,0:00:38.25,Narrator,,0,0,0,,Despite having muscles...
+Dialogue: 0,0:00:38.25,0:00:40.59,Narrator,,0,0,0,,...you have no strength
+Dialogue: 0,0:00:39.32,0:00:40.59,Matsumoto,,0,0,0,,Hahaha..
+Dialogue: 0,0:00:40.59,0:00:42.69,Matsumoto,,0,0,0,,You're right, I don't
+Dialogue: 0,0:00:42.69,0:00:44.39,Narrator,,0,0,0,,Yeah, you have no strength
+Dialogue: 0,0:00:44.39,0:00:46.23,Narrator,,0,0,0,,You do appear to have muscles though
+Dialogue: 0,0:00:46.23,0:00:49.73,Narrator,,0,0,0,,That's because people who train and have bulging muscles like this,
+Dialogue: 0,0:00:49.73,0:00:52.50,Narrator,,0,0,0,,their mood is a little weak...
+Dialogue: 0,0:00:52.50,0:00:55.54,Narrator,,0,0,0,,THAT'S BECAUSE they work out only to show off
+Dialogue: 0,0:00:55.54,0:00:59.07,Matsumoto,,0,0,0,,Hahahaha! You've been very disrespectful for a while now!
+Dialogue: 0,0:01:01.51,0:01:04.01,Default,,0,0,0,,He's dissin' ya!
+Dialogue: 0,0:01:02.21,0:01:04.01,Matsumoto,,0,0,0,,He sure freaking is!
+Dialogue: 0,0:01:04.01,0:01:06.61,Default,,0,0,0,,Heal him.
+Dialogue: 0,0:01:04.61,0:01:06.61,Matsumoto,,0,0,0,,Just heal me doctor.
+Dialogue: 0,0:01:06.61,0:01:09.02,Narrator,,0,0,0,,Well "Just heal me", when...
+Dialogue: 0,0:01:09.02,0:01:12.05,Narrator,,0,0,0,,...this shoulder hurts here, this hurt before..
+Dialogue: 0,0:01:12.05,0:01:17.02,Narrator,,0,0,0,,In contrary, the ankles right? I'll just put a needle in real quick.
+Dialogue: 0,0:01:17.02,0:01:19.53,Matsumoto,,0,0,0,,Ouch ouch ouch..
+Dialogue: 0,0:01:17.52,0:01:19.53,Narrator,,0,0,0,,Putting one in...
+Dialogue: 0,0:01:19.53,0:01:21.53,Narrator,,0,0,0,,..makes this shrink right? Your cervical vertebrae.
+Dialogue: 0,0:01:21.53,0:01:27.13,Narrator,,0,0,0,,Kind of becomes like that... And here I'll put a needle in the side of your ankle.
+Dialogue: 0,0:01:27.13,0:01:29.80,Matsumoto,,0,0,0,,Ugh...
+Dialogue: 0,0:01:27.77,0:01:29.80,Narrator,,0,0,0,,Alright, lift your arm back
+Dialogue: 0,0:01:29.80,0:01:31.47,Matsumoto,,0,0,0,,Uh...
+Dialogue: 0,0:01:31.47,0:01:34.94,Narrator,,0,0,0,,Feel any pain? What about here?
+Dialogue: 0,0:01:34.94,0:01:36.71,Matsumoto,,0,0,0,,Oh!
+Dialogue: 0,0:01:36.71,0:01:38.41,miyasako,,0,0,0,,It got better by just doing that right?
+Dialogue: 0,0:01:38.41,0:01:40.58,Default,,0,0,0,,Just two needles in the Leg??
+Dialogue: 0,0:01:40.58,0:01:42.58,Matsumoto,,0,0,0,,It feels better compared to before
+Dialogue: 0,0:01:42.58,0:01:44.95,Matsumoto,,0,0,0,,I mean, I still have some pain but..
+Dialogue: 0,0:01:44.95,0:01:47.86,Narrator,,0,0,0,,Back of your hand alright?
+Dialogue: 0,0:01:46.52,0:01:47.86,miyasako,,0,0,0,,Here it comes..
+Dialogue: 0,0:01:47.86,0:01:51.49,Narrator,,0,0,0,,There's a pressure point on the hand here ya know
+Dialogue: 0,0:01:49.82,0:01:51.49,Default,,0,0,0,,Huh? On there?
+Dialogue: 0,0:01:51.49,0:01:54.70,Default,,0,0,0,,Haha, you're putting that fat needle in there?
+Dialogue: 0,0:01:56.90,0:01:59.97,Matsumoto,,0,0,0,,Oh god I get it, I get what you're saying now..
+Dialogue: 0,0:01:59.97,0:02:03.24,Matsumoto,,0,0,0,,How should I explain it, It's not like a stab...
+Dialogue: 0,0:02:03.24,0:02:05.57,Matsumoto,,0,0,0,,It's pounding..
+Dialogue: 0,0:02:04.27,0:02:05.57,Narrator,,0,0,0,,Yeah, it's like a pound
+Dialogue: 0,0:02:05.57,0:02:07.34,Default,,0,0,0,,But if it's pounding throughout that means it's healthy right?
+Dialogue: 0,0:02:07.34,0:02:09.58,Narrator,,0,0,0,,Yup yup...
+Dialogue: 0,0:02:09.58,0:02:11.78,Default,,0,0,0,,Ohohoh!
+Dialogue: 0,0:02:11.78,0:02:14.35,Matsumoto,,0,0,0,,Doctor, let me know when you put them in
+Dialogue: 0,0:02:14.68,0:02:17.05,Matsumoto,,0,0,0,,Ooooh!!!..
+Dialogue: 0,0:02:15.18,0:02:17.05,Narrator,,0,0,0,,Putting one in your neck now
+Dialogue: 0,0:02:17.05,0:02:19.49,Matsumoto,,0,0,0,,Aaghh!
+Dialogue: 0,0:02:17.75,0:02:19.49,Default,,0,0,0,,Oh it's in, it's in!
+Dialogue: 0,0:02:19.49,0:02:23.36,Matsumoto,,0,0,0,,Hang on, ITS FREAKING IN THERE
+Dialogue: 0,0:02:24.09,0:02:26.73,Matsumoto,,0,0,0,,It went way too far in!
+Dialogue: 0,0:02:26.73,0:02:28.93,Matsumoto,,0,0,0,,Waaaaay too far in. Oh god, its hot.
+Dialogue: 0,0:02:28.93,0:02:31.10,Narrator,,0,0,0,,Raise your hand please
+Dialogue: 0,0:02:31.63,0:02:33.30,Default,,0,0,0,,Oh wow!
+Dialogue: 0,0:02:33.30,0:02:34.97,miyasako,,0,0,0,,It raises with ease..
+Dialogue: 0,0:02:35.10,0:02:40.74,Narrator,,0,0,0,,{\3c&H03780A&\3a&H00&\4c&H000000&\4a&HFF&\c&HFFFFFF&\pos(1160,521.334)}Before
+Dialogue: 0,0:02:34.97,0:02:38.27,Narrator,,0,0,0,,So this way doesn't quite raise properly does it?
+Dialogue: 0,0:02:36.07,0:02:38.27,Matsumoto,,0,0,0,,No, it still hurts.
+Dialogue: 0,0:02:40.11,0:02:42.74,Default,,0,0,0,,Is this for real?..
+Dialogue: 0,0:02:42.74,0:02:45.11,Default,,0,0,0,,It's scary how far in it is..
+Dialogue: 0,0:02:43.85,0:02:45.11,miyasako,,0,0,0,,Yeah...
+Dialogue: 0,0:02:45.11,0:02:47.85,Narrator,,0,0,0,,If we want more of a therapeutic effect
+Dialogue: 0,0:02:47.85,0:02:49.62,Narrator,,0,0,0,,We need Yaito (Moxibustion)
+Dialogue: 0,0:02:49.65,0:02:51.49,Narrator,,0,0,0,,We probably need a really huge one
+Dialogue: 0,0:02:51.49,0:02:54.52,Narrator,,0,0,0,,How about sitting a little bit more to the side..
+Dialogue: 0,0:02:53.26,0:02:54.52,Default,,0,0,0,,Hahaha... He's getting nervous
+Dialogue: 0,0:02:55.82,0:03:00.33,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx828\fscy699\pos(1657.333,924)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,{\fscx80\fscy77\pos(738.4,330.134)}Super Sadistic Acupunture
+Dialogue: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,{\fscx175\fscy160\pos(1182.4,359.468)}②
+Dialogue: 0,0:02:55.82,0:03:00.33,Yellow announcment,,0,0,0,,{\fscx147\fscy161\pos(800,480.533)}Piping hot Yaito
+Dialogue: 0,0:02:54.52,0:02:56.23,Matsumoto,,0,0,0,,Huh? We're gonna do Yaito?
+Dialogue: 0,0:02:56.23,0:02:59.56,Narrator,,0,0,0,,A little bit more on the side please
+Dialogue: 0,0:02:59.56,0:03:01.20,Matsumoto,,0,0,0,,We're gonna do Yaito?
+Dialogue: 0,0:03:01.20,0:03:04.43,Matsumoto,,0,0,0,,Let's just all do it...
+Dialogue: 0,0:03:02.57,0:03:04.43,Default,,0,0,0,,No one wants to do Yaito
+Dialogue: 0,0:03:04.43,0:03:07.40,Matsumoto,,0,0,0,,Let's all do it..
+Dialogue: 0,0:03:05.74,0:03:07.40,Default,,0,0,0,,Are we done with the needles, Doctor?
+Dialogue: 0,0:03:07.40,0:03:08.74,Narrator,,0,0,0,,Uh no I still..
+Dialogue: 0,0:03:08.74,0:03:11.31,Narrator,,0,0,0,,I have the Tsuuden (Electric current) left to do
+Dialogue: 0,0:03:11.31,0:03:12.98,Default,,0,0,0,,So we're not quite on the same level as daddy are we?
+Dialogue: 0,0:03:12.98,0:03:15.18,miyasako,,0,0,0,,It's like currents. Electricity!
+Dialogue: 0,0:03:13.81,0:03:15.18,Default,,0,0,0,,You're gonna use electricity?
+Dialogue: 0,0:03:15.18,0:03:17.38,miyasako,,0,0,0,,Yeah, we're moving on to electricity.
+Dialogue: 0,0:03:15.78,0:03:17.38,Matsumoto,,0,0,0,,I'm getting the full package..
+Dialogue: 0,0:03:17.38,0:03:19.38,Narrator,,0,0,0,,So today...
+Dialogue: 0,0:03:17.68,0:03:19.38,Default,,0,0,0,,It's a special course!
+Dialogue: 0,0:03:20.78,0:03:22.79,miyasako,,0,0,0,,It still hurts right?
+Dialogue: 0,0:03:21.52,0:03:22.79,Default,,0,0,0,,Does it?
+Dialogue: 0,0:03:22.79,0:03:24.79,Matsumoto,,0,0,0,,I mean if it fixes it..
+Dialogue: 0,0:03:26.19,0:03:28.19,Matsumoto,,0,0,0,,..I'd like to try it.
+Dialogue: 0,0:03:28.19,0:03:31.09,miyasako,,0,0,0,,Crap, they're small..
+Dialogue: 0,0:03:29.19,0:03:31.09,Default,,0,0,0,,Why are they so small?
+Dialogue: 0,0:03:31.09,0:03:33.10,Default,,0,0,0,,Do they do anything?
+Dialogue: 0,0:03:33.10,0:03:36.27,Narrator,,0,0,0,,Of course
+Dialogue: 0,0:03:34.30,0:03:36.27,Default,,0,0,0,,He's putting them in where the others were before
+Dialogue: 0,0:03:36.27,0:03:39.24,Default,,0,0,0,,Oh really?
+Dialogue: 0,0:03:38.00,0:03:39.24,miyasako,,0,0,0,,Watch out, it's hot
+Dialogue: 0,0:03:39.24,0:03:41.81,Narrator,,0,0,0,,It's not hot, It's not hot..
+Dialogue: 0,0:03:40.47,0:03:41.81,Default,,0,0,0,,It's not?
+Dialogue: 0,0:03:41.81,0:03:45.34,Narrator,,0,0,0,,Only thing that's hot is my heart, not these.
+Dialogue: 0,0:03:46.88,0:03:49.71,miyasako,,0,0,0,,Lamest thing I've heard..
+Dialogue: 0,0:03:48.85,0:03:49.71,Default,,0,0,0,,That's okay, that's okay
+Dialogue: 0,0:03:49.71,0:03:51.62,Default,,0,0,0,,Let's focus on the arm..
+Dialogue: 0,0:03:51.62,0:03:54.75,Narrator,,0,0,0,,I might be a little frank but my heart is kind
+Dialogue: 0,0:03:54.75,0:03:55.92,miyasako,,0,0,0,,Wow, there's smoke coming out..
+Dialogue: 0,0:03:55.92,0:03:57.75,Default,,0,0,0,,Woah!
+Dialogue: 0,0:03:56.35,0:03:57.75,Matsumoto,,0,0,0,,Huh? You've already started!?
+Dialogue: 0,0:03:57.75,0:03:59.96,miyasako,,0,0,0,,It's already started.
+Dialogue: 0,0:03:58.22,0:03:59.96,Matsumoto,,0,0,0,,Say something then... Ouch ouch ocuh
+Dialogue: 0,0:03:59.96,0:04:01.69,Narrator,,0,0,0,,If I tell you, you'll just stiff up
+Dialogue: 0,0:04:01.69,0:04:04.93,Matsumoto,,0,0,0,,Doctor, you've put needles in right?
+Dialogue: 0,0:04:03.26,0:04:04.93,Default,,0,0,0,,No no, they're yaito
+Dialogue: 0,0:04:04.93,0:04:06.90,Narrator,,0,0,0,,Yeah, Yaito. It's only fire ya know.
+Dialogue: 0,0:04:06.90,0:04:09.67,Matsumoto,,0,0,0,,It's like stinging
+Dialogue: 0,0:04:07.97,0:04:09.67,Narrator,,0,0,0,,Yeah, it stings a lil' bit
+Dialogue: 0,0:04:09.67,0:04:12.07,Narrator,,0,0,0,,I'm gonna do Yaito on these just briefly
+Dialogue: 0,0:04:10.63,0:04:12.07,Matsumoto,,0,0,0,,Oh it's warm..
+Dialogue: 0,0:04:12.07,0:04:14.10,Matsumoto,,0,0,0,,{\fscx128\fscy122}It's warm!
+Dialogue: 0,0:04:14.10,0:04:17.88,Matsumoto,,0,0,0,,Oh, OH! Ho- Doctor, that was really HOT!
+Dialogue: 0,0:04:17.88,0:04:20.71,Narrator,,0,0,0,,It's just sudden. It's stimulating
+Dialogue: 0,0:04:20.71,0:04:24.78,Matsumoto,,0,0,0,,Ouch! Doctor please! I'm saying its hot!
+Dialogue: 0,0:04:24.78,0:04:27.85,Default,,0,0,0,,Hahahaha!
+Dialogue: 0,0:04:25.82,0:04:27.85,Matsumoto,,0,0,0,,I said it was freaking hot didnt i?
+Dialogue: 0,0:04:27.85,0:04:30.49,Narrator,,0,0,0,,It's cause I kept bumping into to you
+Dialogue: 0,0:04:30.49,0:04:34.73,Default,,0,0,0,,Hahaha! You hit him with them
+Dialogue: 0,0:04:31.62,0:04:34.73,Matsumoto,,0,0,0,,Ugh, stop it with that!
+Dialogue: 0,0:04:34.73,0:04:36.76,Matsumoto,,0,0,0,,It was sooo hot
+Dialogue: 0,0:04:36.76,0:04:39.46,Narrator,,0,0,0,,Okay, whatever I hit you, Anyway
+Dialogue: 0,0:04:39.46,0:04:41.30,Narrator,,0,0,0,,Matsumoto-san.
+Dialogue: 0,0:04:41.30,0:04:44.87,Narrator,,0,0,0,,Try standing up once and shake like this
+Dialogue: 0,0:04:44.87,0:04:48.11,Narrator,,0,0,0,,How is it? Your shoulders?
+Dialogue: 0,0:04:46.10,0:04:48.11,Matsumoto,,0,0,0,,Considerably better!
+Dialogue: 0,0:04:48.11,0:04:50.34,Narrator,,0,0,0,,We don't have a towel though...
+Dialogue: 0,0:04:50.34,0:04:54.61,Narrator,,0,0,0,,Sit down for a bit. My...
+Dialogue: 0,0:04:54.61,0:04:59.62,Narrator,,0,0,0,,Putting the towel here. This is most certainly a frozen shoulder.
+Dialogue: 0,0:04:59.62,0:05:02.09,miyasako,,0,0,0,,Matsumoto, Frozen shoulder he says.
+Dialogue: 0,0:05:00.95,0:05:02.09,Narrator,,0,0,0,,We should...
+Dialogue: 0,0:05:02.09,0:05:04.19,Narrator,,0,0,0,,...do the Tsuuden on the bed
+Dialogue: 0,0:05:04.19,0:05:06.89,Default,,0,0,0,,We going to the bed?
+Dialogue: 0,0:05:05.16,0:05:06.89,Matsumoto,,0,0,0,,{\fscx82\fscy81}Oooooh!
+Dialogue: 0,0:05:06.89,0:05:08.69,Narrator,,0,0,0,,You've got some Adhesion here
+Dialogue: 0,0:05:08.69,0:05:11.36,miyasako,,0,0,0,,The adhesion hurts...
+Dialogue: 0,0:05:09.36,0:05:11.36,Matsumoto,,0,0,0,,{\fscx131\fscy123}Aahh!
+Dialogue: 0,0:05:11.36,0:05:14.10,Narrator,,0,0,0,,{\fscx165\fscy157}Here we go!
+Dialogue: 0,0:05:12.13,0:05:14.10,Matsumoto,,0,0,0,,{\fscx113\fscy102}OUUUCH!
+Dialogue: 0,0:05:14.10,0:05:15.93,Default,,0,0,0,,Come on doctor!
+Dialogue: 0,0:05:14.83,0:05:15.93,Matsumoto,,0,0,0,,{\fscx130\fscy126}Doctor!!
+Dialogue: 0,0:05:15.93,0:05:18.30,Default,,0,0,0,,{\fscx155\fscy155}Go for it Doctor!
+Dialogue: 0,0:05:16.64,0:05:18.30,Matsumoto,,0,0,0,,Ugh that hurts so freaking much!
+Dialogue: 0,0:05:18.30,0:05:20.61,Default,,0,0,0,,Doctor Zai, Doctor Zai!
+Dialogue: 0,0:05:20.61,0:05:22.34,Narrator,,0,0,0,,{\fscx251\fscy222}Yup!
+Dialogue: 0,0:05:22.34,0:05:26.24,Matsumoto,,0,0,0,,Oh Doctor...! OHhh!!
+Dialogue: 0,0:05:26.24,0:05:29.15,Default,,0,0,0,,"Oh god"
+Dialogue: 0,0:05:29.15,0:05:31.48,Narrator,,0,0,0,,Alright, raise your arm
+Dialogue: 0,0:05:31.48,0:05:33.52,Narrator,,0,0,0,,Raise your arm
+Dialogue: 0,0:05:32.08,0:05:33.52,miyasako,,0,0,0,,Where there's adhesion, it hurts like crazy.
+Dialogue: 0,0:05:33.52,0:05:35.65,Matsumoto,,0,0,0,,It really freaking does
+Dialogue: 0,0:05:36.62,0:05:37.72,Narrator,,0,0,0,,Much better right?
+Dialogue: 0,0:05:35.65,0:05:37.72,Matsumoto,,0,0,0,,Yeah absolutely.
+Dialogue: 0,0:05:37.72,0:05:41.46,Matsumoto,,0,0,0,,I'm telling you it FEELS BETTER
+Dialogue: 0,0:05:41.46,0:05:43.80,Narrator,,0,0,0,,Sit sit sit. Well perhaps...
+Dialogue: 0,0:05:43.80,0:05:46.43,Narrator,,0,0,0,,If I wanna cure this, I'd have to do the Tsuuden in the bed
+Dialogue: 0,0:05:46.43,0:05:48.07,Default,,0,0,0,,The currents?
+Dialogue: 0,0:05:47.27,0:05:48.07,Narrator,,0,0,0,,Yes.
+Dialogue: 0,0:05:48.07,0:05:49.77,Default,,0,0,0,,Alright, let's do the currents. We'll prepare it.
+Dialogue: 0,0:05:50.04,0:05:53.61,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx828\fscy699\pos(1657.333,924)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,{\fscx80\fscy77\pos(738.4,330.134)}Super Sadistic Acupunture
+Dialogue: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,{\fscx175\fscy160\pos(1182.4,359.468)}③
+Dialogue: 0,0:05:50.04,0:05:53.61,Yellow announcment,,0,0,0,,{\fscx140\fscy151\pos(800,471.2)}Shocking needles
+Dialogue: 0,0:05:49.77,0:05:51.74,miyasako,,0,0,0,,Let's do it!
+Dialogue: 0,0:05:53.71,0:05:58.08,Narrator,,0,0,0,,Your hurting shoulder on the top please
+Dialogue: 0,0:05:55.54,0:05:58.08,miyasako,,0,0,0,,Facing upwards
+Dialogue: 0,0:05:58.08,0:06:00.75,Matsumoto,,0,0,0,,So like this?
+Dialogue: 0,0:05:58.74,0:06:00.75,Narrator,,0,0,0,,However, your back...
+Dialogue: 0,0:06:02.52,0:06:03.78,miyasako,,0,0,0,,Wow, this is amazing..
+Dialogue: 0,0:06:03.78,0:06:10.46,Narrator,,0,0,0,,So here's the shoulder bone. I'll put one needle in...
+Dialogue: 0,0:06:10.46,0:06:15.16,Default,,0,0,0,,Wow, He just puts them in without any hesitation either...
+Dialogue: 0,0:06:15.16,0:06:18.03,Narrator,,0,0,0,,I started getting interested in Acupuncture when I was a kid...
+Dialogue: 0,0:06:18.03,0:06:20.63,Narrator - Copy,,0,0,0,,Hahaha, to the very end of the needle..
+Dialogue: 0,0:06:20.63,0:06:23.70,Matsumoto,,0,0,0,,Sadako! You saying useless things over there...
+Dialogue: 0,0:06:23.70,0:06:25.47,Matsumoto,,0,0,0,,{\fscx132\fscy121}I.. Agh!
+Dialogue: 0,0:06:26.47,0:06:28.58,Default,,0,0,0,,Holy crap, It's so far in
+Dialogue: 0,0:06:28.58,0:06:30.94,Matsumoto,,0,0,0,,{\fscx133\fscy125}Aaahh!
+Dialogue: 0,0:06:30.94,0:06:32.95,miyasako,,0,0,0,,It's so far in. Don't move so much!
+Dialogue: 0,0:06:32.95,0:06:35.85,Matsumoto,,0,0,0,,Doctor, You sure are overdoing this...
+Dialogue: 0,0:06:35.85,0:06:38.49,Default,,0,0,0,,Haha he's quick.
+Dialogue: 0,0:06:36.55,0:06:38.49,Matsumoto,,0,0,0,,Doctor please...
+Dialogue: 0,0:06:38.49,0:06:40.89,Default,,0,0,0,,Wow he put them in quickly
+Dialogue: 0,0:06:39.69,0:06:40.89,miyasako,,0,0,0,,Oh no the electricity...
+Dialogue: 0,0:06:40.89,0:06:43.06,Default,,0,0,0,,Woah, he's gonna connect them to electricity
+Dialogue: 0,0:06:41.49,0:06:43.06,Narrator,,0,0,0,,The electricity is really pleasant!
+Dialogue: 0,0:06:43.06,0:06:44.89,Default,,0,0,0,,Oh it's gonna sting!
+Dialogue: 0,0:06:44.89,0:06:47.06,Narrator,,0,0,0,,The needles are short aren't they?
+Dialogue: 0,0:06:47.06,0:06:48.83,Default,,0,0,0,,Nowhere near short...
+Dialogue: 0,0:06:48.83,0:06:51.73,Narrator,,0,0,0,,To me they're short
+Dialogue: 0,0:06:51.73,0:06:53.50,Matsumoto,,0,0,0,,Wow...
+Dialogue: 0,0:06:53.50,0:06:55.50,Narrator,,0,0,0,,Today when I brought these short needles with me
+Dialogue: 0,0:06:55.50,0:06:58.11,Narrator,,0,0,0,,my wife and I had a disagreement
+Dialogue: 0,0:06:57.14,0:06:58.11,Default,,0,0,0,,Your wife?
+Dialogue: 0,0:06:58.11,0:07:02.48,Narrator,,0,0,0,,If ya put those needles in Matsumoto, He's gonna get scared and whoops they're gonna give away, she said
+Dialogue: 0,0:07:02.48,0:07:05.75,Matsumoto,,0,0,0,,Your wife isn't being very polite about me is she...
+Dialogue: 0,0:07:05.78,0:07:08.75,Narrator,,0,0,0,,The wife watches your show regularly you know!
+Dialogue: 0,0:07:08.75,0:07:10.45,Default,,0,0,0,,Haha, He said it right here
+Dialogue: 0,0:07:10.45,0:07:15.09,Narrator,,0,0,0,,Be quiet please. I'm gonna put the electricity on.
+Dialogue: 0,0:07:15.32,0:07:18.26,Default,,0,0,0,,Wow!
+Dialogue: 0,0:07:18.26,0:07:21.83,miyasako,,0,0,0,,Wow, it's all in there..
+Dialogue: 0,0:07:20.03,0:07:21.83,Narrator - Copy,,0,0,0,,Shit it's moving!
+Dialogue: 0,0:07:21.83,0:07:24.33,Narrator - Copy,,0,0,0,,It's moving, it's moving!
+Dialogue: 0,0:07:22.73,0:07:24.33,Narrator,,0,0,0,,Does it hurt?
+Dialogue: 0,0:07:25.70,0:07:28.90,Matsumoto,,0,0,0,,Oo...oo...
+Dialogue: 0,0:07:28.90,0:07:32.91,Default,,0,0,0,,It's better to use the electricity is it?
+Dialogue: 0,0:07:30.44,0:07:32.91,Narrator,,0,0,0,,Oh yeah, much better
+Dialogue: 0,0:07:35.68,0:07:38.55,Default,,0,0,0,,Oh he's gonna do Yaito?
+Dialogue: 0,0:07:36.11,0:07:38.55,miyasako,,0,0,0,,He brought something out
+Dialogue: 0,0:07:39.01,0:07:42.55,Narrator,,0,0,0,,I'm very worried that Matsumoto isn't healing properly.
+Dialogue: 0,0:07:42.55,0:07:44.29,miyasako,,0,0,0,,Wow, It's burning
+Dialogue: 0,0:07:43.55,0:07:44.29,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:07:44.29,0:07:45.95,Default,,0,0,0,,He's like... really burning something
+Dialogue: 0,0:07:45.95,0:07:48.42,Narrator,,0,0,0,,This is super pleasant ♥
+Dialogue: 0,0:07:46.72,0:07:48.42,miyasako,,0,0,0,,He's like burning a torch or something
+Dialogue: 0,0:07:48.42,0:07:51.46,Matsumoto,,0,0,0,,Hang on seriously..
+Dialogue: 0,0:07:51.46,0:07:54.56,Default,,0,0,0,,Is this a festival?
+Dialogue: 0,0:07:52.23,0:07:54.56,Matsumoto,,0,0,0,,Seriously, stop it
+Dialogue: 0,0:07:54.56,0:07:56.73,Matsumoto,,0,0,0,,I can't see what's going on from here
+Dialogue: 0,0:07:55.73,0:07:56.73,miyasako,,0,0,0,,Uh, its a torch!
+Dialogue: 0,0:07:56.73,0:08:01.84,Matsumoto,,0,0,0,,Oh crap, you're right. Don't freaking show me!
+Dialogue: 0,0:07:59.57,0:08:01.84,Narrator,,0,0,0,,This is really refreshing
+Dialogue: 0,0:08:01.84,0:08:05.11,Narrator,,0,0,0,,So, close your eyes. I'm gonna do some on your eyeballs.
+Dialogue: 0,0:08:05.11,0:08:06.74,Matsumoto,,0,0,0,,NO! You gotta be joking!
+Dialogue: 0,0:08:06.74,0:08:11.45,Matsumoto,,0,0,0,,Doctor please, Just wait with that! WAIT WITH THAT!
+Dialogue: 0,0:08:11.81,0:08:13.38,Narrator,,0,0,0,,No no, just here see?
+Dialogue: 0,0:08:13.38,0:08:16.45,Default,,0,0,0,,He's just gonna fry your eyeballs
+Dialogue: 0,0:08:15.22,0:08:16.45,Narrator,,0,0,0,,Yeah it's super nice
+Dialogue: 0,0:08:16.45,0:08:19.12,Default,,0,0,0,,Super nice right? Hear that? It's nice!
+Dialogue: 0,0:08:20.12,0:08:21.82,Narrator,,0,0,0,,This is really refreshing
+Dialogue: 0,0:08:21.82,0:08:24.36,Narrator,,0,0,0,,So, close your eyes. I'm gonna do some on your eyeballs.
+Dialogue: 0,0:08:24.36,0:08:26.73,Matsumoto,,0,0,0,,NO! You gotta be joking!
+Dialogue: 0,0:08:26.73,0:08:30.57,Matsumoto,,0,0,0,,Doctor please, Just wait with that. WAIT WITH THAT!
+Dialogue: 0,0:08:30.57,0:08:33.24,Narrator,,0,0,0,,No no, just here see?
+Dialogue: 0,0:08:33.24,0:08:36.31,Default,,0,0,0,,He's just gonna fry your eyeballs
+Dialogue: 0,0:08:34.80,0:08:36.31,Narrator,,0,0,0,,Yeah it's super nice
+Dialogue: 0,0:08:36.31,0:08:38.64,Default,,0,0,0,,Super nice right? Hear that? It's nice!
+Dialogue: 0,0:08:38.64,0:08:41.08,Matsumoto,,0,0,0,,Doctor, are you being completely serious?
+Dialogue: 0,0:08:41.08,0:08:43.18,Matsumoto,,0,0,0,,Are you serious?
+Dialogue: 0,0:08:42.95,0:08:46.52,Default,,0,0,0,,{\p1\4c&H000000&\3c&H000000&\c&H000000&\fscx828\fscy699\pos(1657.333,924)}m -89 -43 l 38 -43 l 38 -43 l 38 28 l 38 28 l -89 28
+Dialogue: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,{\fscx80\fscy77\pos(738.4,330.134)}Super Sadistic Acupunture
+Dialogue: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,{\fscx175\fscy160\pos(1182.4,359.468)}④
+Dialogue: 0,0:08:42.95,0:08:46.52,Yellow announcment,,0,0,0,,{\fscx140\fscy151\pos(800,471.2)}Sizzling Onkyuu
+Dialogue: 0,0:08:43.18,0:08:44.81,Narrator,,0,0,0,,I'm just going to do Onkyuu (Moxa cautery​)*
+Dialogue: 0,0:08:46.52,0:08:48.22,miyasako,,0,0,0,,If you move he's just gonna bump into you
+Dialogue: 0,0:08:48.22,0:08:50.22,Default,,0,0,0,,No moving about alright?
+Dialogue: 0,0:08:50.22,0:08:52.25,miyasako,,0,0,0,,Doctor, Where are you looking?
+Dialogue: 0,0:08:52.25,0:08:55.49,Default,,0,0,0,,It's not good if you look somewhere else
+Dialogue: 0,0:08:56.69,0:08:59.86,Default,,0,0,0,,You touched him with the incense before
+Dialogue: 0,0:08:59.86,0:09:02.80,Narrator,,0,0,0,,So after I do this...
+Dialogue: 0,0:09:02.80,0:09:05.33,Narrator,,0,0,0,,...on the adhesion mass here, his blood circulation will be better
+Dialogue: 0,0:09:05.33,0:09:07.44,miyasako,,0,0,0,,His blood circulation becomes better?
+Dialogue: 0,0:09:07.44,0:09:09.47,Default,,0,0,0,,Is it warm?
+Dialogue: 0,0:09:09.47,0:09:12.28,Matsumoto,,0,0,0,,Ye-ah, It's warm.
+Dialogue: 0,0:09:10.47,0:09:12.28,Narrator,,0,0,0,,That's because
+Dialogue: 0,0:09:12.28,0:09:15.18,Narrator,,0,0,0,,we're feeling the same feeling right now
+Dialogue: 0,0:09:15.18,0:09:17.31,miyasako,,0,0,0,,That electricity stuff is finally over...
+Dialogue: 0,0:09:17.31,0:09:20.72,miyasako,,0,0,0,,But just from that short time ya know.. It's..
+Dialogue: 0,0:09:19.02,0:09:20.72,Default,,0,0,0,,Yeah, for sure..
+Dialogue: 0,0:09:20.72,0:09:22.95,miyasako,,0,0,0,,It's sensational...
+Dialogue: 0,0:09:22.95,0:09:25.39,miyasako,,0,0,0,,Wonder how long It's been available. 4000 year history?
+Dialogue: 0,0:09:25.39,0:09:27.89,Default,,0,0,0,,4000 Years...
+Dialogue: 0,0:09:26.36,0:09:27.89,Narrator,,0,0,0,,Well actually...
+Dialogue: 0,0:09:27.89,0:09:31.53,Narrator,,0,0,0,,You say 4000 years, but this Yaito actually flourished
+Dialogue: 0,0:09:31.53,0:09:36.83,Narrator,,0,0,0,,1000 years ago in Japan. I'm taking the needles out by the way～
+Dialogue: 0,0:09:36.83,0:09:38.40,Matsumoto,,0,0,0,,It hurts so much when you take them out.
+Dialogue: 0,0:09:38.40,0:09:42.17,Narrator,,0,0,0,,{\fscx158\fscy151}Whazzat!?
+Dialogue: 0,0:09:42.17,0:09:46.34,Matsumoto,,0,0,0,,This is just scary
+Dialogue: 0,0:09:43.41,0:09:46.34,Default,,0,0,0,,A beautifully high pitched "Whazzat?"
+Dialogue: 0,0:09:46.34,0:09:48.21,Default,,0,0,0,,Doesn't hurt anymore does it, Now when he said that.
+Dialogue: 0,0:09:48.21,0:09:50.71,Narrator,,0,0,0,,Stand up please
+Dialogue: 0,0:09:50.71,0:09:54.02,Default,,0,0,0,,I wonder, I wonder. If it's a good result.
+Dialogue: 0,0:09:54.02,0:09:57.02,Matsumoto,,0,0,0,,{\fscx118\fscy117}Aah. Ahh!
+Dialogue: 0,0:09:58.26,0:10:05.43,Narrator,,0,0,0,,{\3c&H03780A&\3a&H00&\4c&H000000&\4a&HFF&\c&HFFFFFF&\pos(405.333,252.001)}Before
+Dialogue: 0,0:09:58.26,0:10:05.43,Narrator,,0,0,0,,{\3c&H0311C7&\3a&H00&\4c&H000000&\4a&HFF&\c&HFFFFFF&\pos(1145.333,269.334)}After
+Dialogue: 0,0:09:57.02,0:09:59.62,Matsumoto,,0,0,0,,Uh, It's considerably easier!
+Dialogue: 0,0:09:58.26,0:09:59.62,Default,,0,0,0,,Really?
+Dialogue: 0,0:09:59.62,0:10:01.69,Default,,0,0,0,,Wow, he's really able to move about
+Dialogue: 0,0:10:01.69,0:10:04.33,Matsumoto,,0,0,0,,How will it be tomorrow though Doctor?
+Dialogue: 0,0:10:02.96,0:10:04.33,Narrator,,0,0,0,,It'll be good tomorrow
+Dialogue: 0,0:10:04.33,0:10:06.26,Narrator,,0,0,0,,Today, it went well didnt it?
+Dialogue: 0,0:10:06.26,0:10:08.73,Narrator,,0,0,0,,So now you gotta think "Oh that's good that it went well"
+Dialogue: 0,0:10:08.73,0:10:11.10,Narrator,,0,0,0,,If you think about how tomorrow will be, it'll get worse
+Dialogue: 0,0:10:11.10,0:10:14.17,Narrator,,0,0,0,,Then those anxiety feelings will show up again
+Dialogue: 0,0:10:14.17,0:10:16.04,Narrator,,0,0,0,,So "Tomorrow won't be good" will result in it being bad.
+Dialogue: 0,0:10:16.04,0:10:18.14,Narrator,,0,0,0,,The feeling of "Tomorrow I'll make a mistake" is kind of...
+Dialogue: 0,0:10:18.14,0:10:19.84,Matsumoto,,0,0,0,,Basically negative feelings aren't good.
+Dialogue: 0,0:10:18.88,0:10:19.84,Narrator,,0,0,0,,Exactly, exactly.
+Dialogue: 0,0:10:19.84,0:10:21.95,Narrator,,0,0,0,,Tomorrow will be better and then "Aa～ that's good"..
+Dialogue: 0,0:10:21.95,0:10:26.35,Narrator,,0,0,0,,Alright, this is it for me today
+Dialogue: 0,0:10:24.28,0:10:26.35,Default,,0,0,0,,Thank you very much!
+Dialogue: 0,0:10:26.35,0:10:29.05,miyasako,,0,0,0,,Thank you very much!
+Dialogue: 0,0:10:29.05,0:10:32.82,Default,,0,0,0,,This was good.
+Dialogue: 0,0:10:32.82,0:10:35.76,Matsumoto,,0,0,0,,That was scary...
+Dialogue: 0,0:10:33.36,0:10:35.76,Narrator,,0,0,0,,I'm sorry, it hurt a little didn't it?
+Dialogue: 0,0:10:35.76,0:10:38.56,Default,,0,0,0,,Doctor, the medical fee for today is...?
+Dialogue: 0,0:10:38.56,0:10:41.03,Narrator,,0,0,0,,That'll be 3000 Yen* for 30 minutes.
+Dialogue: 0,0:10:38.56,0:10:51.88,Rubi,,0,0,0,,{\fscx111\fscy129\pos(1009.334,42.666)}*About $27 or £21
+Dialogue: 0,0:10:41.03,0:10:43.67,Matsumoto,,0,0,0,,All in all 3000 Yen? That's sooo cheap!
+Dialogue: 0,0:10:43.67,0:10:45.30,Default,,0,0,0,,30 minutes??
+Dialogue: 0,0:10:44.37,0:10:45.30,Narrator,,0,0,0,,Yes
+Dialogue: 0,0:10:45.30,0:10:48.74,Matsumoto,,0,0,0,,I felt longer than 30 minutes though...
+Dialogue: 0,0:10:48.74,0:10:51.88,Default,,0,0,0,,Wow, he came prepared with a wallet and all
+Dialogue: 0,0:10:52.81,0:10:54.51,Default,,0,0,0,,Quickly putting it inside
+Dialogue: 0,0:10:54.51,0:10:56.31,Narrator,,0,0,0,,I always have my wallet with me
+Dialogue: 0,0:10:56.31,0:10:57.78,Default,,0,0,0,,Haha "Always have my wallet with me"
+Dialogue: 0,0:10:57.78,0:10:59.88,Narrator,,0,0,0,,Thank you!
+Dialogue: 0,0:10:58.22,0:10:59.88,Default,,0,0,0,,Okay! Bye bye!
+Dialogue: 0,0:11:02.35,0:11:05.39,miyasako,,0,0,0,,Kenji, that was awesome
+Dialogue: 0,0:11:04.62,0:11:05.39,Default,,0,0,0,,Good, wasn't it?
+Dialogue: 0,0:11:05.39,0:11:07.66,Matsumoto,,0,0,0,,What an acquaintance​...
+Dialogue: 0,0:11:06.59,0:11:07.66,Default,,0,0,0,,Good, wasn't it?
+Dialogue: 0,0:11:07.66,0:11:10.20,Matsumoto,,0,0,0,,Yeah it was
+Dialogue: 0,0:11:07.93,0:11:10.20,miyasako,,0,0,0,,I'm amazed
+Dialogue: 0,0:11:10.20,0:11:12.36,Matsumoto,,0,0,0,,Going to things like this ocassionally can't be bad
+Dialogue: 0,0:11:12.36,0:11:14.73,Default,,0,0,0,,Yeah, if you feel a little exhausted he'll fix you up quickly
+Dialogue: 0,0:11:15.70,0:11:18.57,Default,,0,0,0,,Alright, that was the first reward. We have more though!
+

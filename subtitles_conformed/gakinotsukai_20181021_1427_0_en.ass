@@ -1,0 +1,528 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki_181021_#1427_10th Silent Library.mp4
+Video File: Gaki_181021_#1427_10th Silent Library.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 471
+Active Line: 480
+Video Position: 43294
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Tanaka,Arial,63,&H00D038A1,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Matsumoto,Arial,63,&H001516BD,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Hamada,Arial,63,&H00B41009,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Endo,Arial,63,&H002087FA,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: Yamazaki,Arial,63,&H001D7B17,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: HIKAKIN,Arial,63,&H007AAA20,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: White font,Arial,63,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: FONTS & Stuff,Arial,57,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: TEGAKI,Arial,57,&H00FFFFFF,&H000000FF,&H00EE761A,&H00EE761A,-1,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: last credits,Arial,105,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,10.5,0,2,11,11,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.00,0:00:05.00,White font,,0,0,0,,On tonight's Gaki no Tsukai...
+Dialogue: 0,0:00:05.00,0:00:08.84,White font,,0,0,0,,Our famous project: silent library!
+Dialogue: 0,0:00:09.40,0:00:12.91,White font,,0,0,0,,Youtuber Hikakin will \Nreceive atrocious punishments!
+Dialogue: 0,0:00:14.11,0:00:17.31,White font,,0,0,0,,An unforgiving parade of punishments!
+Dialogue: 0,0:00:18.05,0:00:19.65,White font,,0,0,0,,Unavoidable screams
+Dialogue: 0,0:00:19.65,0:00:22.45,White font,,0,0,0,,It's going to be this series'\N harshest hell of punishment!
+Dialogue: 0,0:00:22.45,0:00:24.39,White font,,0,0,0,,The curtain is about to open!
+Dialogue: 0,0:00:24.96,0:00:32.97,FONTS & Stuff,,0,0,0,,{\pos(415.5,60)}Translation & subs by {\c&H6CB5FF&}Shion{\c&HFFDDB4&} (@FGRNDNoises)
+Dialogue: 0,0:00:24.96,0:00:32.97,FONTS & Stuff,,0,0,0,,{\pos(524.25,114)\c&HFFCA88&}facebook.com/shionnotsukai {\c&HFFFFFF&}| {\c&H95C9FF&}shionnotsukai.wordpress.com
+Dialogue: 0,0:00:24.96,0:00:32.97,FONTS & Stuff,,0,0,0,,{\pos(288,168)}Support: {\c&HB0FFB8&}ko-fi,com/shionnotsukai
+Dialogue: 0,0:00:33.40,0:00:38.81,White font,,0,0,0,,{\fad(200,0)\pos(720,873)\3c&HFFFFFF&\c&HDE829A&}A library in Tokyo...
+Dialogue: 0,0:00:42.21,0:00:50.56,FONTS & Stuff,,0,0,0,,{\fad(300,300)\pos(515.25,864)}Matsumoto Hitoshi
+Dialogue: 0,0:00:42.21,0:00:50.56,FONTS & Stuff,,0,0,0,,{\fad(300,300)\pos(722.25,975)}Endo Shouzo
+Dialogue: 0,0:00:42.21,0:00:50.56,FONTS & Stuff,,0,0,0,,{\fad(300,300)\pos(1104.75,972)}Tanaka Naoki
+Dialogue: 0,0:00:42.21,0:00:50.56,FONTS & Stuff,,0,0,0,,{\fad(300,300)\pos(321.75,975)}Tsukitei Housei
+Dialogue: 0,0:00:42.21,0:00:50.56,FONTS & Stuff,,0,0,0,,{\fad(300,300)\pos(915.75,861)}Hamada Masatoshi
+Dialogue: 0,0:01:33.00,0:01:40.84,FONTS & Stuff,,0,0,0,,{\fad(250,0)\3c&HFFFFFF&\4c&HFFFFFF&\c&H000000&\pos(720,858)}The person who will draw the {\c&H1516BD&}skull card
+Dialogue: 0,0:01:33.00,0:01:40.84,FONTS & Stuff,,0,0,0,,{\fad(250,0)\c&H000000&\3c&HFFFFFF&\4c&HFFFFFF&\pos(758.25,948)}will receive the {\c&H1516BD&}punishment {\c&H000000&}wrote on the sign
+Dialogue: 0,0:01:42.14,0:01:44.48,TEGAKI,,0,0,0,,{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(663.75,618)}Beach Sandal on Forehead
+Dialogue: 0,0:01:44.64,0:01:49.38,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Beach Sandal on Forehead
+Dialogue: 0,0:01:47.14,0:01:48.24,Matsumoto,,0,0,0,,So simple
+Dialogue: 0,0:01:49.10,0:01:49.90,Endo,,0,0,0,,It's painful
+Dialogue: 0,0:02:00.72,0:02:01.78,Tanaka,,0,0,0,,One, two...
+Dialogue: 0,0:02:03.99,0:02:06.16,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(618.75,987)}Shh!
+Dialogue: 0,0:02:04.10,0:02:06.16,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(1030.5,843)}Beach Sandal on Forehead
+Dialogue: 0,0:02:13.93,0:02:22.01,FONTS & Stuff,,0,0,0,,{\fad(250,0)\3c&HFFFFFF&\4c&HFFFFFF&\c&H000000&\pos(720,858)}Giving that it may disturb other people who are reading
+Dialogue: 0,0:02:13.93,0:02:22.01,FONTS & Stuff,,0,0,0,,{\fad(250,0)\3c&HFFFFFF&\4c&HFFFFFF&\c&H1516BD&\pos(717.75,951)}it's strictly forbidden to raise your voice
+Dialogue: 0,0:02:19.70,0:02:20.84,Endo,,0,0,0,,Aim at the forehead
+Dialogue: 0,0:02:37.50,0:02:38.69,Endo,,0,0,0,,You heard that?
+Dialogue: 0,0:02:43.87,0:02:46.47,TEGAKI,,0,0,0,,{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Bitter Gourd on Shin
+Dialogue: 0,0:02:46.64,0:02:50.28,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Bitter Gourd on Shin
+Dialogue: 0,0:02:49.40,0:02:51.03,Hamada,,0,0,0,,Pick one, Hikakin\N{\c&H7AAA20&}- Alright
+Dialogue: 0,0:02:56.00,0:02:57.06,Tanaka,,0,0,0,,One, two...
+Dialogue: 0,0:02:58.54,0:03:00.69,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(630,981)}Shh!
+Dialogue: 0,0:02:58.67,0:03:00.69,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(1030.5,843)}Bitter Gourd on Shin
+Dialogue: 0,0:02:59.41,0:03:00.58,Tanaka,,0,0,0,,This is scary
+Dialogue: 0,0:03:12.25,0:03:13.72,Hamada,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:03:15.72,0:03:18.93,Hamada,,0,0,0,,This is a bad one
+Dialogue: 0,0:03:34.00,0:03:35.88,Endo,,0,0,0,,That was the hardest part!
+Dialogue: 0,0:03:35.88,0:03:37.45,Endo,,0,0,0,,You went with the hardest bit
+Dialogue: 0,0:03:37.45,0:03:38.51,Endo,,0,0,0,,It must hurt like hell
+Dialogue: 0,0:03:41.65,0:03:44.15,Endo,,0,0,0,,Man, you're on a roll
+Dialogue: 0,0:03:48.49,0:03:50.27,TEGAKI,,0,0,0,,{\fad(200,0)\pos(634.5,570)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Throat Spray Cleansing
+Dialogue: 0,0:03:50.44,0:03:54.11,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Throat Spray Cleansing
+Dialogue: 0,0:03:49.29,0:03:50.76,Hamada,,0,0,0,,What? Come on...
+Dialogue: 0,0:03:54.13,0:03:55.03,HIKAKIN,,0,0,0,,I'm going first
+Dialogue: 0,0:03:56.43,0:03:57.83,Endo,,0,0,0,,I'm scared of them all
+Dialogue: 0,0:04:04.84,0:04:05.78,Tanaka,,0,0,0,,One, two...
+Dialogue: 0,0:04:07.18,0:04:13.12,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(965.25,843)}Throat Spray Cleansing
+Dialogue: 0,0:04:07.08,0:04:13.12,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\pos(276.75,840)\4c&H1516BD&}Matsumoto
+Dialogue: 0,0:04:08.94,0:04:10.68,Matsumoto,,0,0,0,,I had a bad feeling about this
+Dialogue: 0,0:04:11.68,0:04:14.15,Matsumoto,,0,0,0,,I totally saw this coming
+Dialogue: 0,0:04:15.92,0:04:16.72,Matsumoto,,0,0,0,,What's that?
+Dialogue: 0,0:04:17.89,0:04:20.15,Tanaka,,0,0,0,,It's about this long
+Dialogue: 0,0:04:20.15,0:04:22.65,Tanaka,,0,0,0,,It goes in his mouth
+Dialogue: 0,0:04:48.43,0:04:49.62,Matsumoto,,0,0,0,,That was awful
+Dialogue: 0,0:04:58.39,0:05:00.27,TEGAKI,,0,0,0,,{\fad(200,0)\pos(657,606)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Piping Hot Seal
+Dialogue: 0,0:05:00.44,0:05:04.04,FONTS & Stuff,,0,0,0,,{\fad(200,200)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Piping Hot Seal
+Dialogue: 0,0:05:03.56,0:05:04.73,Hamada,,0,0,0,,Please, Matsumoto
+Dialogue: 0,0:05:13.00,0:05:14.01,Endo,,0,0,0,,One, two...
+Dialogue: 0,0:05:15.94,0:05:18.89,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\4c&H1516BD&\pos(337.5,849)}Tanaka
+Dialogue: 0,0:05:16.04,0:05:18.89,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(951.75,843)}Piping Hot Seal
+Dialogue: 0,0:05:17.08,0:05:18.71,Tanaka,,0,0,0,,This is going to leave a mark
+Dialogue: 0,0:05:29.00,0:05:30.56,Matsumoto,,0,0,0,,No way this is going to be ok
+Dialogue: 0,0:05:31.26,0:05:32.56,Endo,,0,0,0,,Woah, this isn't good
+Dialogue: 0,0:05:32.56,0:05:34.56,Hamada,,0,0,0,,What? That much?
+Dialogue: 0,0:05:34.56,0:05:35.43,Hamada,,0,0,0,,You kiddin' me?
+Dialogue: 0,0:05:35.43,0:05:36.56,Matsumoto,,0,0,0,,He's gonna get burn
+Dialogue: 0,0:05:36.86,0:05:38.43,Yamazaki,,0,0,0,,Look, it's boiling
+Dialogue: 0,0:05:38.43,0:05:39.73,Matsumoto,,0,0,0,,He's right, it's boiling
+Dialogue: 0,0:05:41.10,0:05:43.80,White font,,0,0,0,,Couldn't they made it less hot?
+Dialogue: 0,0:05:43.80,0:05:45.00,Tanaka,,0,0,0,,Come on
+Dialogue: 0,0:05:45.00,0:05:46.24,Endo,,0,0,0,,Let's do this
+Dialogue: 0,0:05:46.64,0:05:47.54,Yamazaki,,0,0,0,,Oh, this one?
+Dialogue: 0,0:05:47.54,0:05:48.84,Endo,,0,0,0,,Yeah, that one
+Dialogue: 0,0:05:49.51,0:05:50.71,Matsumoto,,0,0,0,,Are you for real?
+Dialogue: 0,0:05:50.71,0:05:51.71,HIKAKIN,,0,0,0,,His forehead
+Dialogue: 0,0:05:56.61,0:05:57.51,Endo,,0,0,0,,What does it say?
+Dialogue: 0,0:06:02.76,0:06:04.79,Endo,,0,0,0,,What does the seal say?
+Dialogue: 0,0:06:05.97,0:06:07.56,Hamada,,0,0,0,,What does it say?!\N{\c&H1516BD&}- I can't read it
+Dialogue: 0,0:06:07.56,0:06:08.83,Hamada,,0,0,0,,It says "chin" ("ago")
+Dialogue: 0,0:06:14.00,0:06:15.34,Endo,,0,0,0,,Enough with this...
+Dialogue: 0,0:06:16.60,0:06:18.21,Hamada,,0,0,0,,It's ok, leave it like that
+Dialogue: 0,0:06:19.07,0:06:21.31,Endo,,0,0,0,,Can't be helped\N{\c&H1D7B17&}- He looks so pale
+Dialogue: 0,0:06:21.88,0:06:23.64,Matsumoto,,0,0,0,,I have no idea why they made it red
+Dialogue: 0,0:06:24.55,0:06:25.98,Matsumoto,,0,0,0,,Why red?
+Dialogue: 0,0:06:25.98,0:06:27.52,Matsumoto,,0,0,0,,What's the point?
+Dialogue: 0,0:06:29.08,0:06:32.33,TEGAKI,,0,0,0,,{\fad(200,0)\pos(645.75,594)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Beatboxing Old Dude
+Dialogue: 0,0:06:31.70,0:06:33.02,Endo,,0,0,0,,Beatboxing dude...?
+Dialogue: 0,0:06:32.50,0:06:34.77,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Beatboxing Old Dude
+Dialogue: 0,0:06:40.50,0:06:41.53,Hamada,,0,0,0,,One, two...
+Dialogue: 0,0:06:42.68,0:06:45.74,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(1005.75,843)}Beatboxing Old Dude
+Dialogue: 0,0:06:44.07,0:06:45.13,Endo,,0,0,0,,Alright!!
+Dialogue: 0,0:06:46.13,0:06:47.44,Endo,,0,0,0,,And old dude?
+Dialogue: 0,0:06:47.44,0:06:48.60,Tanaka,,0,0,0,, Beatboxing dude
+Dialogue: 0,0:07:10.07,0:07:12.19,Matsumoto,,0,0,0,,This sucks so much
+Dialogue: 0,0:07:12.19,0:07:13.90,Endo,,0,0,0,,His beatbox sucks too
+Dialogue: 0,0:07:14.26,0:07:15.58,HIKAKIN,,0,0,0,,It stinks...
+Dialogue: 0,0:07:16.00,0:07:17.24,HIKAKIN,,0,0,0,,It stinks so much
+Dialogue: 0,0:07:20.74,0:07:22.74,Tanaka,,0,0,0,,That's a lot... that was your third time
+Dialogue: 0,0:07:23.94,0:07:25.54,Endo,,0,0,0,,So quick!
+Dialogue: 0,0:07:25.54,0:07:26.99,Tanaka,,0,0,0,,Here he goes\N{\c&H7AAA20&}- What's going on?
+Dialogue: 0,0:07:26.99,0:07:28.41,Endo,,0,0,0,,Flip it
+Dialogue: 0,0:07:28.41,0:07:29.48,Matsumoto,,0,0,0,,Alright, alright
+Dialogue: 0,0:07:30.81,0:07:32.92,TEGAKI,,0,0,0,,{\fad(200,0)\pos(569.25,603)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Nitrogen Ball Strike
+Dialogue: 0,0:07:32.19,0:07:34.35,Hamada,,0,0,0,,The hell is that supposed to be?
+Dialogue: 0,0:07:32.92,0:07:35.56,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Nitrogen Ball Strike
+Dialogue: 0,0:07:38.32,0:07:39.32,Endo,,0,0,0,,One, two...
+Dialogue: 0,0:07:40.62,0:07:46.57,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\pos(276.75,840)\4c&H1516BD&}Matsumoto
+Dialogue: 0,0:07:40.72,0:07:46.57,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(951.75,843)}Nitrogen Ball Strike
+Dialogue: 0,0:07:44.76,0:07:46.83,Matsumoto,,0,0,0,,I have to stop doing unnecessary things
+Dialogue: 0,0:07:46.83,0:07:47.86,Hamada,,0,0,0,,It's your fault!
+Dialogue: 0,0:07:47.86,0:07:50.33,Endo,,0,0,0,,Yeah I mean, we chose them ourselves first
+Dialogue: 0,0:07:50.87,0:07:52.33,Hamada,,0,0,0,,It's them again...
+Dialogue: 0,0:07:52.33,0:07:54.33,Yamazaki,,0,0,0,,It's going to be an experiment
+Dialogue: 0,0:07:56.83,0:07:58.31,Matsumoto,,0,0,0,,This is freaking me out
+Dialogue: 0,0:08:00.59,0:08:04.69,FONTS & Stuff,,0,0,0,,{\fad(200,0)\4c&H000000&\3c&HFFFFFF&\c&H3030CE&\pos(423,621)\fscx63.75\fscy91}Yonemura Denjiro's Apprentice
+Dialogue: 0,0:08:00.59,0:08:04.69,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H000000&\4c&H1516BD&\3c&HFFFFFF&\fscx84\fscy113\pos(432,705)}Professor Ichioka Genki
+Dialogue: 0,0:08:01.69,0:08:03.44,Endo,,0,0,0,,This pattern...{\c&H7AAA20&}\N- Scary!
+Dialogue: 0,0:08:04.11,0:08:05.85,HIKAKIN,,0,0,0,,This seems bad
+Dialogue: 0,0:08:06.58,0:08:08.15,HIKAKIN,,0,0,0,,This pattern is nothing good
+Dialogue: 0,0:08:09.96,0:08:13.43,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H3030CE&\3c&HFFFFFF&\pos(605.25,927)}Liquid Nitrogen
+Dialogue: 0,0:08:17.12,0:08:17.89,Endo,,0,0,0,,The forehead?
+Dialogue: 0,0:08:17.89,0:08:18.70,Endo,,0,0,0,,Forehead, right?
+Dialogue: 0,0:08:20.33,0:08:21.53,Matsumoto,,0,0,0,,Isn't this too much?
+Dialogue: 0,0:08:24.40,0:08:25.60,Hamada,,0,0,0,,Do we have to toss it?
+Dialogue: 0,0:08:27.67,0:08:29.80,Matsumoto,,0,0,0,,Do I have to stand up? I wanna sit...
+Dialogue: 0,0:08:30.40,0:08:31.80,Matsumoto,,0,0,0,,I don't want to stand up
+Dialogue: 0,0:08:32.11,0:08:33.67,Yamazaki,,0,0,0,,Place your hands behind you
+Dialogue: 0,0:08:33.67,0:08:34.77,HIKAKIN,,0,0,0,,Is it ok?
+Dialogue: 0,0:08:34.77,0:08:36.80,Matsumoto,,0,0,0,,I have stiff shoulders, it hurts
+Dialogue: 0,0:08:38.15,0:08:39.45,Hamada,,0,0,0,,Your hands behind!
+Dialogue: 0,0:08:39.45,0:08:41.05,Yamazaki,,0,0,0,,Are we going? We're going
+Dialogue: 0,0:08:44.35,0:08:45.12,Endo,,0,0,0,,This is scary
+Dialogue: 0,0:08:55.16,0:08:56.76,Matsumoto,,0,0,0,,Wait, what the hell is that?
+Dialogue: 0,0:08:57.12,0:08:58.10,Yamazaki,,0,0,0,,Is this going to be ok?
+Dialogue: 0,0:08:58.10,0:08:59.73,Matsumoto,,0,0,0,,No way that's going to be ok!
+Dialogue: 0,0:08:59.73,0:09:00.58,Matsumoto,,0,0,0,,Are you for real?!
+Dialogue: 0,0:09:00.58,0:09:02.18,Matsumoto,,0,0,0,,Huh? Seriously?
+Dialogue: 0,0:09:04.18,0:09:05.21,Matsumoto,,0,0,0,,W-w-wait!
+Dialogue: 0,0:09:26.06,0:09:27.66,Hamada,,0,0,0,,What are you doing?
+Dialogue: 0,0:09:29.60,0:09:30.46,Tanaka,,0,0,0,,That was scary
+Dialogue: 0,0:09:30.80,0:09:33.07,Endo,,0,0,0,,Watch out for that!
+Dialogue: 0,0:09:33.07,0:09:34.54,Endo,,0,0,0,,It's still rolling
+Dialogue: 0,0:09:34.54,0:09:35.60,Hamada,,0,0,0,,Go grab it
+Dialogue: 0,0:09:36.60,0:09:37.31,Hamada,,0,0,0,,Just go
+Dialogue: 0,0:09:37.31,0:09:39.31,Matsumoto,,0,0,0,,What exactly is this show?
+Dialogue: 0,0:09:39.31,0:09:40.84,Hamada,,0,0,0,,Go grab it so it won't break
+Dialogue: 0,0:09:40.84,0:09:42.08,Endo,,0,0,0,,This looks dangerous
+Dialogue: 0,0:09:42.08,0:09:44.51,Matsumoto,,0,0,0,,Should we really do this?
+Dialogue: 0,0:09:44.51,0:09:46.51,White font,,0,0,0,,Now it's like lead\N{\3c&HFFFFFF&\c&H0F91FF&}- Is it ok?
+Dialogue: 0,0:09:47.51,0:09:49.12,Matsumoto,,0,0,0,,Enough
+Dialogue: 0,0:09:50.82,0:09:52.22,Endo,,0,0,0,,It won't break anymore
+Dialogue: 0,0:09:52.22,0:09:53.55,Hamada,,0,0,0,,It's back to being hard
+Dialogue: 0,0:09:46.71,0:09:53.53,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H000000&\pos(645.75,861)\3c&HFFFFFF&\4c&HFFFFFF&}If you let the gum ball froze up in the liquid, it easily bursts up
+Dialogue: 0,0:09:46.71,0:09:53.53,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H3030CE&\3c&HFFFFFF&\4c&HFFFFFF&\pos(567,951)}but as time passes, it's reverted back to its solid state
+Dialogue: 0,0:09:53.55,0:09:55.53,Matsumoto,,0,0,0,,Man, that was really scary
+Dialogue: 0,0:09:55.53,0:09:56.16,Endo,,0,0,0,,I know
+Dialogue: 0,0:09:56.16,0:09:57.83,Endo,,0,0,0,,It's between you guys
+Dialogue: 0,0:10:03.01,0:10:06.54,TEGAKI,,0,0,0,,{\fad(200,0)\pos(663.75,537)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Endless Vinegar Rapid-fire
+Dialogue: 0,0:10:04.27,0:10:05.00,Hamada,,0,0,0,,What's that?
+Dialogue: 0,0:10:05.00,0:10:06.54,Endo,,0,0,0,,"Endless vinegar rapid-fire"...
+Dialogue: 0,0:10:06.71,0:10:10.92,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Endless Vinegar Rapid-fire
+Dialogue: 0,0:10:07.00,0:10:07.92,Endo,,0,0,0,,This sucks
+Dialogue: 0,0:10:11.27,0:10:12.64,Matsumoto,,0,0,0,,I don't want this
+Dialogue: 0,0:10:12.64,0:10:13.34,Endo,,0,0,0,,Let's go
+Dialogue: 0,0:10:13.34,0:10:14.31,Hamada,,0,0,0,,One, two...
+Dialogue: 0,0:10:15.98,0:10:18.52,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\4c&H1516BD&\pos(247.5,840)}Endo
+Dialogue: 0,0:10:16.08,0:10:18.52,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(951.75,843)}Endless Vinegar Rapid-fire
+Dialogue: 0,0:10:20.00,0:10:21.65,Hamada,,0,0,0,,You should get on the table
+Dialogue: 0,0:10:21.65,0:10:22.58,Matsumoto,,0,0,0,,Ugh, one of those...
+Dialogue: 0,0:10:26.75,0:10:27.69,Endo,,0,0,0,,Vinegar?
+Dialogue: 0,0:10:33.06,0:10:34.86,Tanaka,,0,0,0,,Go back, stay still
+Dialogue: 0,0:10:38.86,0:10:40.64,Endo,,0,0,0,,This is bad, this--
+Dialogue: 0,0:10:40.64,0:10:43.44,Yamazaki,,0,0,0,,Your eyes...\N{\c&HD038A1&}- Don't open them
+Dialogue: 0,0:10:43.44,0:10:45.44,Endo,,0,0,0,,What about them? That's scary
+Dialogue: 0,0:10:46.11,0:10:46.97,Yamazaki,,0,0,0,,Mouth open
+Dialogue: 0,0:10:54.27,0:10:55.18,Yamazaki,,0,0,0,,He opened them!
+Dialogue: 0,0:10:55.18,0:10:56.72,Endo,,0,0,0,,I can't\N{\c&H1D7B17&}- He opened his eyes
+Dialogue: 0,0:10:57.72,0:10:58.72,Endo,,0,0,0,,It hurts
+Dialogue: 0,0:11:02.12,0:11:03.22,Hamada,,0,0,0,,It stinks
+Dialogue: 0,0:11:07.03,0:11:08.76,Endo,,0,0,0,,Why is everyone afraid of me?
+Dialogue: 0,0:11:11.76,0:11:13.87,Hamada,,0,0,0,,We told you not to open your eyes
+Dialogue: 0,0:11:13.87,0:11:14.64,Matsumoto,,0,0,0,,It stinks
+Dialogue: 0,0:11:14.64,0:11:15.37,Endo,,0,0,0,,It hurts
+Dialogue: 0,0:11:15.37,0:11:17.12,Matsumoto,,0,0,0,,Why did you open them?
+Dialogue: 0,0:11:17.12,0:11:18.84,Endo,,0,0,0,,{\pos(715.5,969)}'Cause I got scared
+Dialogue: 0,0:11:19.54,0:11:21.14,Hamada,,0,0,0,,You got scared?   {\c&H0F91FF&} - Yeah
+Dialogue: 0,0:11:21.14,0:11:23.04,Yamazaki,,0,0,0,,And you wanted to see?
+Dialogue: 0,0:11:23.04,0:11:24.75,Tanaka,,0,0,0,,He opened them 'cause he was scared...
+Dialogue: 0,0:11:24.75,0:11:26.78,Matsumoto,,0,0,0,,You wanted to see some vinegar?
+Dialogue: 0,0:11:30.93,0:11:34.17,TEGAKI,,0,0,0,,{\fad(0,0)\pos(668.25,537)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz87.25\pos(623.25,567)}Athletics World Championships
+Dialogue: 0,0:11:31.49,0:11:32.35,Matsumoto,,0,0,0,,The hell is this?
+Dialogue: 0,0:11:34.33,0:11:36.13,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Athletics World Championships
+Dialogue: 0,0:11:34.33,0:11:35.16,Hamada,,0,0,0,,Two people?!
+Dialogue: 0,0:11:35.59,0:11:37.69,Endo,,0,0,0,,What is "Athletics World Championships"...?
+Dialogue: 0,0:11:36.43,0:11:42.77,FONTS & Stuff,,0,0,0,,{\fad(250,0)\3c&HFFFFFF&\4c&HFFFFFF&\c&H000000&\pos(720,858)}When using a {\c&H3030CE&}pair of skull cards
+Dialogue: 0,0:11:36.43,0:11:42.77,FONTS & Stuff,,0,0,0,,{\fad(250,0)\3c&HFFFFFF&\4c&HFFFFFF&\c&H000000&\pos(720,945)}The punished will be for {\c&H3030CE&}two people together
+Dialogue: 0,0:11:38.86,0:11:40.03,Hamada,,0,0,0,,You go, Shouzo   {\c&H0F91FF&} - Ok
+Dialogue: 0,0:11:40.03,0:11:42.77,Endo,,0,0,0,,Let's just go the way I pass them to you
+Dialogue: 0,0:11:43.20,0:11:44.40,Tanaka,,0,0,0,,He's still intact!
+Dialogue: 0,0:11:44.40,0:11:45.90,Hamada,,0,0,0,,Who cares?
+Dialogue: 0,0:11:45.90,0:11:47.60,Tanaka,,0,0,0,,I mean, Hamada-san...
+Dialogue: 0,0:11:48.40,0:11:50.07,Matsumoto,,0,0,0,,You sure you're ok with this?
+Dialogue: 0,0:11:50.07,0:11:51.61,Hamada,,0,0,0,,This is risky
+Dialogue: 0,0:11:52.41,0:11:53.47,Hamada,,0,0,0,,One, two...
+Dialogue: 0,0:11:55.28,0:12:02.83,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\4c&H1516BD&\pos(186.75,840)}Endo
+Dialogue: 0,0:11:55.40,0:12:02.83,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(1080,840)}Athletics World Championships
+Dialogue: 0,0:11:57.90,0:12:00.21,Endo,,0,0,0,,Shoot, this sounds bad...
+Dialogue: 0,0:12:01.05,0:12:02.48,Endo,,0,0,0,,I knew it...
+Dialogue: 0,0:12:12.80,0:12:14.56,Endo,,0,0,0,,Whatwhatwhatwhatwhat?
+Dialogue: 0,0:12:21.89,0:12:22.67,HIKAKIN,,0,0,0,,Ow ow ow
+Dialogue: 0,0:12:22.67,0:12:23.17,Hamada,,0,0,0,,What..?
+Dialogue: 0,0:12:23.94,0:12:25.61,Yamazaki,,0,0,0,,Ohh... I see
+Dialogue: 0,0:12:25.61,0:12:27.44,Endo,,0,0,0,,Woah, this hurts like hell
+Dialogue: 0,0:12:29.78,0:12:32.08,Yamazaki,,0,0,0,,No way\N{\c&H7AAA20&}- It hurts!
+Dialogue: 0,0:12:34.98,0:12:36.18,Endo,,0,0,0,,Damn, this is bad
+Dialogue: 0,0:12:40.68,0:12:41.72,Hamada,,0,0,0,,World Championships...
+Dialogue: 0,0:12:43.22,0:12:44.89,Endo,,0,0,0,,This is gonna hurt
+Dialogue: 0,0:12:59.41,0:12:59.77,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:13:01.08,0:13:01.77,Matsumoto,,0,0,0,,Shou-chan?
+Dialogue: 0,0:13:02.81,0:13:03.77,Matsumoto,,0,0,0,,Shocchan?
+Dialogue: 0,0:13:05.61,0:13:06.35,Tanaka,,0,0,0,,You ok?
+Dialogue: 0,0:13:07.31,0:13:08.89,Hamada,,0,0,0,,What are you doing?
+Dialogue: 0,0:13:08.89,0:13:10.75,HIKAKIN,,0,0,0,,{\pos(720,972)}Am I bleeding?
+Dialogue: 0,0:13:10.75,0:13:12.29,Endo,,0,0,0,,{\pos(720,993)}Yeah, feels like it
+Dialogue: 0,0:13:12.29,0:13:14.39,Hamada,,0,0,0,,It's not\N{\c&HC30C9B&}- You're fine
+Dialogue: 0,0:13:15.26,0:13:17.19,Endo,,0,0,0,,It was strong\N{\c&H7AAA20&}- My mouth...
+Dialogue: 0,0:13:19.16,0:13:20.39,Matsumoto,,0,0,0,,Sorry but, this guy...
+Dialogue: 0,0:13:22.30,0:13:24.77,Hamada,,0,0,0,,Come on, it's not my fault!
+Dialogue: 0,0:13:28.31,0:13:31.08,TEGAKI,,0,0,0,,{\fad(0,0)\pos(654.75,555)\frz57.7}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz88.25\pos(623.25,567)}Super Cooling Bazooka
+Dialogue: 0,0:13:28.68,0:13:30.81,Endo,,0,0,0,,Sounds like another experiment\N{\c&H3030CE&}- Enough...
+Dialogue: 0,0:13:31.25,0:13:34.65,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Super Cooling Bazooka
+Dialogue: 0,0:13:31.25,0:13:32.70,Yamazaki,,0,0,0,,Any volunteers?
+Dialogue: 0,0:13:32.70,0:13:33.41,Matsumoto,,0,0,0,,No
+Dialogue: 0,0:13:33.41,0:13:34.67,Yamazaki,,0,0,0,,Is that so?
+Dialogue: 0,0:13:35.11,0:13:36.11,Hamada,,0,0,0,,"Cooling"...
+Dialogue: 0,0:13:46.50,0:13:47.50,Endo,,0,0,0,,I'm picking this
+Dialogue: 0,0:13:59.60,0:14:00.57,Hamada,,0,0,0,,One, two...
+Dialogue: 0,0:14:01.77,0:14:05.45,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\4c&H1516BD&\pos(222.75,840)}Matsumoto
+Dialogue: 0,0:14:01.89,0:14:05.45,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(996.75,837)}Super Cooling Bazooka
+Dialogue: 0,0:14:03.64,0:14:04.97,Endo,,0,0,0,,You just said it before
+Dialogue: 0,0:14:05.37,0:14:07.64,Endo,,0,0,0,,You said you won't do that again!
+Dialogue: 0,0:14:07.64,0:14:10.95,Matsumoto,,0,0,0,,My shoulder...\N{\c&H0F91FF&}- You said it before, man
+Dialogue: 0,0:14:12.25,0:14:13.71,Matsumoto,,0,0,0,,Is this going to be ok?
+Dialogue: 0,0:14:14.58,0:14:15.92,Matsumoto,,0,0,0,,Hey! Hey!
+Dialogue: 0,0:14:16.38,0:14:17.92,Matsumoto,,0,0,0,,Are you sure I'm going to be ok?!
+Dialogue: 0,0:14:20.40,0:14:22.12,Matsumoto,,0,0,0,,You sure about that?
+Dialogue: 0,0:14:22.12,0:14:23.56,Endo,,0,0,0,,What's going on?
+Dialogue: 0,0:14:24.29,0:14:25.56,Matsumoto,,0,0,0,,Wait a sec---!
+Dialogue: 0,0:14:27.56,0:14:29.90,Matsumoto,,0,0,0,,What's "cooling" supposed to mean?
+Dialogue: 0,0:14:29.90,0:14:31.03,Matsumoto,,0,0,0,,Come on...\N{\c&H0F91FF&}- That's scary
+Dialogue: 0,0:14:31.80,0:14:35.88,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&HFFAE4A&\3c&HFFFFFF&\pos(731.25,918)}Coming up: a cold, cold punishment for Matsumoto
+Dialogue: 0,0:14:35.88,0:14:44.68,FONTS & Stuff,,0,0,0,,[from before]
+Dialogue: 0,0:14:44.68,0:14:45.73,White font,,0,0,0,,Please, stand here
+Dialogue: 0,0:14:45.73,0:14:46.81,Matsumoto,,0,0,0,,Wha- again?
+Dialogue: 0,0:14:46.81,0:14:48.58,Endo,,0,0,0,,This is really scary
+Dialogue: 0,0:14:49.38,0:14:50.48,Hamada,,0,0,0,,Get over here
+Dialogue: 0,0:14:50.99,0:14:53.95,Matsumoto,,0,0,0,,Goggles and helmet...\N{\c&HBE322C&}- You don't need those
+Dialogue: 0,0:14:55.55,0:14:56.59,Matsumoto,,0,0,0,,Goggles and...
+Dialogue: 0,0:14:56.92,0:14:58.83,Matsumoto,,0,0,0,,G-gogg--\N{\c&HBE322C&}- Stand here and stay still
+Dialogue: 0,0:14:58.83,0:15:01.13,Matsumoto,,0,0,0,,I need someone to trust
+Dialogue: 0,0:15:01.13,0:15:02.36,Hamada,,0,0,0,,Ok, here is fine
+Dialogue: 0,0:15:02.36,0:15:04.36,Matsumoto,,0,0,0,,I need someone I could trust
+Dialogue: 0,0:15:04.36,0:15:05.36,Hamada,,0,0,0,,The hell are you sayin'?
+Dialogue: 0,0:15:05.36,0:15:07.03,Matsumoto,,0,0,0,,I need mutual trust and goggles
+Dialogue: 0,0:15:07.03,0:15:09.07,Matsumoto,,0,0,0,,Mutual trust and goggles
+Dialogue: 0,0:15:10.24,0:15:11.91,White font,,0,0,0,,Hands behind
+Dialogue: 0,0:15:11.91,0:15:13.27,Matsumoto,,0,0,0,,I told ya my shoulders hurt
+Dialogue: 0,0:15:13.27,0:15:15.14,Matsumoto,,0,0,0,,I just want mutual trust and goggl-
+Dialogue: 0,0:15:15.14,0:15:17.14,Hamada,,0,0,0,,Oh, shut up
+Dialogue: 0,0:15:17.14,0:15:18.45,Endo,,0,0,0,,Scary!\N{\c&HBE322C&}- Right before him!
+Dialogue: 0,0:15:18.45,0:15:21.12,Matsumoto,,0,0,0,,I have no idea what's goin' to happen!\NI have no idea what's goin' to happen!
+Dialogue: 0,0:15:21.12,0:15:22.22,Yamazaki,,0,0,0,,That's terrifying
+Dialogue: 0,0:15:22.52,0:15:23.95,Matsumoto,,0,0,0,,Seriously I have no idea!!
+Dialogue: 0,0:15:25.65,0:15:27.22,Hamada,,0,0,0,,You shouldn't draw back
+Dialogue: 0,0:15:27.22,0:15:29.79,Matsumoto,,0,0,0,,This guy has been looking \Nat me like this from before
+Dialogue: 0,0:15:29.79,0:15:30.76,Matsumoto,,0,0,0,,He chose me
+Dialogue: 0,0:15:32.49,0:15:33.76,Hamada,,0,0,0,,Just face ahead
+Dialogue: 0,0:15:34.70,0:15:36.33,Matsumoto,,0,0,0,,I'm gonna die here
+Dialogue: 0,0:15:36.33,0:15:37.87,Yamazaki,,0,0,0,,Your hands!
+Dialogue: 0,0:15:37.87,0:15:39.43,Matsumoto,,0,0,0,,This makes it ever scarier
+Dialogue: 0,0:15:39.43,0:15:40.95,Matsumoto,,0,0,0,,I just want mutual trust and goggles
+Dialogue: 0,0:15:49.13,0:15:50.33,Matsumoto,,0,0,0,,IT'S COLD
+Dialogue: 0,0:15:57.33,0:15:58.35,Matsumoto,,0,0,0,,So freaking cold!!
+Dialogue: 0,0:15:58.99,0:16:00.35,Yamazaki,,0,0,0,,Hamada got involved too
+Dialogue: 0,0:16:01.92,0:16:03.09,Endo,,0,0,0,,Hamada too
+Dialogue: 0,0:16:04.69,0:16:09.07,Endo,,0,0,0,,{\pos(717.75,969)}He froze up
+Dialogue: 0,0:16:09.07,0:16:10.70,Matsumoto,,0,0,0,,It's frozen down here
+Dialogue: 0,0:16:11.57,0:16:13.40,Matsumoto,,0,0,0,,It's getting worse
+Dialogue: 0,0:16:13.40,0:16:14.70,Matsumoto,,0,0,0,,Aaaah! So cold!
+Dialogue: 0,0:16:16.60,0:16:17.50,Yamazaki,,0,0,0,,Are you ok?
+Dialogue: 0,0:16:17.50,0:16:19.64,Endo,,0,0,0,,What's happening there?
+Dialogue: 0,0:16:19.64,0:16:21.74,Yamazaki,,0,0,0,,Oh, it's actually frozen
+Dialogue: 0,0:16:21.74,0:16:23.01,Endo,,0,0,0,,It is, really
+Dialogue: 0,0:16:23.01,0:16:23.71,Tanaka,,0,0,0,,He looks fine
+Dialogue: 0,0:16:24.11,0:16:25.45,Matsumoto,,0,0,0,,Holy crap
+Dialogue: 0,0:16:27.51,0:16:29.65,Endo,,0,0,0,,It also randomly got Hamada
+Dialogue: 0,0:16:29.65,0:16:30.75,Hamada,,0,0,0,,That was something
+Dialogue: 0,0:16:32.12,0:16:34.46,Matsumoto,,0,0,0,,It felt... good, for a moment
+Dialogue: 0,0:16:34.99,0:16:36.69,Hamada,,0,0,0,,It did?     {\c&H3030CE&}- Yes...
+Dialogue: 0,0:16:36.69,0:16:37.70,Endo,,0,0,0,,When did it?
+Dialogue: 0,0:16:37.70,0:16:38.93,Matsumoto,,0,0,0,,Just for a sec
+Dialogue: 0,0:16:41.23,0:16:43.86,Matsumoto,,0,0,0,,I swear I'm never touching those cards again
+Dialogue: 0,0:16:43.86,0:16:45.63,Endo,,0,0,0,,Well, that's what you said before
+Dialogue: 0,0:16:47.53,0:16:49.23,Hamada,,0,0,0,,I had enough...
+Dialogue: 0,0:16:49.23,0:16:51.23,Matsumoto,,0,0,0,,"Enough"? You didn't do anything!
+Dialogue: 0,0:16:51.23,0:16:54.01,Hamada,,0,0,0,,No I mean like, it's going on for a while by now
+Dialogue: 0,0:16:59.91,0:17:03.22,Endo,,0,0,0,,There are still like... 2 or 3 I think
+Dialogue: 0,0:17:03.22,0:17:04.85,Matsumoto,,0,0,0,,Man that was scary
+Dialogue: 0,0:17:08.90,0:17:12.60,TEGAKI,,0,0,0,,{\fad(0,0)\pos(652.5,564)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz88.55\pos(623.25,567)}Saliva Face Mask
+Dialogue: 0,0:17:12.60,0:17:14.16,Hamada,,0,0,0,,This is no good
+Dialogue: 0,0:17:12.77,0:17:14.71,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Saliva Face Mask
+Dialogue: 0,0:17:14.16,0:17:15.80,Endo,,0,0,0,,This is really nasty
+Dialogue: 0,0:17:15.80,0:17:17.46,Yamazaki,,0,0,0,,I don't want this
+Dialogue: 0,0:17:19.26,0:17:20.67,Matsumoto,,0,0,0,,{\pos(717.75,969)}I'm not touching em
+Dialogue: 0,0:17:20.67,0:17:21.77,Hamada,,0,0,0,,Wait a sec!
+Dialogue: 0,0:17:21.77,0:17:22.67,Hamada,,0,0,0,,You gotta pick one
+Dialogue: 0,0:17:22.67,0:17:24.71,Matsumoto,,0,0,0,,I'm picking the remaining one
+Dialogue: 0,0:17:25.37,0:17:26.64,Endo,,0,0,0,,You ok with that?     {\c&H3030CE&}- Yes...
+Dialogue: 0,0:17:26.64,0:17:27.54,Hamada,,0,0,0,,Then pick one
+Dialogue: 0,0:17:27.54,0:17:28.71,Endo,,0,0,0,,Guests first
+Dialogue: 0,0:17:28.71,0:17:29.54,HIKAKIN,,0,0,0,,Can I?\N{\c&HBE322C&}- Yes
+Dialogue: 0,0:17:30.11,0:17:30.81,HIKAKIN,,0,0,0,,If so...
+Dialogue: 0,0:17:32.65,0:17:33.91,Endo,,0,0,0,,I see, the farthest one\N{\c&H7AAA20&}- Yeah
+Dialogue: 0,0:17:34.71,0:17:35.91,Tanaka,,0,0,0,,Let's get over it
+Dialogue: 0,0:17:35.91,0:17:38.31,Matsumoto,,0,0,0,,Man I really wanna survive this one...
+Dialogue: 0,0:17:38.95,0:17:41.79,Endo,,0,0,0,,Me too...\N{\c&HD038A1&}- I want to survive this too
+Dialogue: 0,0:17:42.46,0:17:44.83,Endo,,0,0,0,,This is really risky
+Dialogue: 0,0:17:44.83,0:17:49.01,Matsumoto,,0,0,0,,{\pos(715.5,972)}Why is no one picking anything up?
+Dialogue: 0,0:17:49.46,0:17:51.01,Hamada,,0,0,0,,Whatever, I'm taking this
+Dialogue: 0,0:17:55.17,0:17:57.24,Endo,,0,0,0,,I really hate this one...
+Dialogue: 0,0:17:57.24,0:17:58.38,Hamada,,0,0,0,,One, two...
+Dialogue: 0,0:18:00.14,0:18:02.39,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(996.75,837)}Saliva Face Mask
+Dialogue: 0,0:18:00.81,0:18:02.58,Tanaka,,0,0,0,,Alright!     {\c&H0F91FF&}- Nice
+Dialogue: 0,0:18:03.68,0:18:05.28,Hamada,,0,0,0,,He was the first to pick one!
+Dialogue: 0,0:18:05.88,0:18:06.48,Endo,,0,0,0,,You're right
+Dialogue: 0,0:18:07.88,0:18:11.12,Hamada,,0,0,0,,It was him from the start   {\c&H0F91FF&}  - Right
+Dialogue: 0,0:18:11.12,0:18:12.62,Hamada,,0,0,0,,We were so worried too
+Dialogue: 0,0:18:07.08,0:18:12.80,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&HFFAE4A&\3c&HFFFFFF&\pos(722.25,918)}Coming up: HIKAKIN is going to be covered in saliva
+Dialogue: 0,0:18:13.60,0:18:18.84,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(996.75,837)}Saliva Face Mask
+Dialogue: 0,0:18:15.42,0:18:16.02,HIKAKIN,,0,0,0,,Huh?
+Dialogue: 0,0:18:17.81,0:18:19.02,Matsumoto,,0,0,0,,They brought us butter
+Dialogue: 0,0:18:18.84,0:18:21.47,FONTS & Stuff,,0,0,0,,{\c&H1516BD&\3c&HFFFFFF&\pos(465.75,918)}Salt free butter
+Dialogue: 0,0:18:22.64,0:18:25.00,Yamazaki,,0,0,0,,Close your eyes... and your mouth too
+Dialogue: 0,0:18:27.80,0:18:31.21,Endo,,0,0,0,,I see, so he's getting a lot of butter on his face
+Dialogue: 0,0:18:31.21,0:18:34.27,Matsumoto,,0,0,0,,I'd hate this one\N{\c&H0F91FF&}- Yeah me too, a lot
+Dialogue: 0,0:18:35.19,0:18:37.61,Matsumoto,,0,0,0,,Hope his ears will be fine
+Dialogue: 0,0:18:42.81,0:18:43.95,Matsumoto,,0,0,0,,Here he goes
+Dialogue: 0,0:18:45.45,0:18:46.85,Endo,,0,0,0,,Aw, that's cute
+Dialogue: 0,0:18:46.85,0:18:48.00,Matsumoto,,0,0,0,,That's totally fine
+Dialogue: 0,0:18:48.00,0:18:51.16,Endo,,0,0,0,,Yeah he was lucky it picked this
+Dialogue: 0,0:18:51.16,0:18:52.39,HIKAKIN,,0,0,0,,What's goin' on?
+Dialogue: 0,0:18:52.89,0:18:54.76,Endo,,0,0,0,,Doesn't seem so bad
+Dialogue: 0,0:18:54.76,0:18:57.50,Hamada,,0,0,0,,When it was me, the dog was freakin' huge
+Dialogue: 0,0:18:59.20,0:19:01.77,Matsumoto,,0,0,0,,This is just cute, that's it
+Dialogue: 0,0:19:01.77,0:19:03.30,Matsumoto,,0,0,0,,He got chosen by this
+Dialogue: 0,0:19:04.10,0:19:05.97,Matsumoto,,0,0,0,,This isn't bad\N{\c&HBE322C&}- Shouldn't be that way
+Dialogue: 0,0:19:06.77,0:19:07.64,HIKAKIN,,0,0,0,,It's warm
+Dialogue: 0,0:19:08.89,0:19:10.34,Matsumoto,,0,0,0,,He's really diggin' it
+Dialogue: 0,0:19:11.44,0:19:12.78,Matsumoto,,0,0,0,,He cleaned him up
+Dialogue: 0,0:19:13.55,0:19:14.98,Matsumoto,,0,0,0,,Real good too
+Dialogue: 0,0:19:14.98,0:19:15.65,Hamada,,0,0,0,,Totally
+Dialogue: 0,0:19:17.65,0:19:18.95,Endo,,0,0,0,,He licked him clean
+Dialogue: 0,0:19:19.55,0:19:21.12,Endo,,0,0,0,,Good boy\N{\c&HD038A1&}- Licked him clean?
+Dialogue: 0,0:19:21.12,0:19:22.72,Matsumoto,,0,0,0,,Now he's all clean
+Dialogue: 0,0:19:23.52,0:19:25.83,Yamazaki,,0,0,0,,He's still going\N{\c&HBE322C&}- That's a good dog
+Dialogue: 0,0:19:26.73,0:19:29.34,Matsumoto,,0,0,0,,Why the artificial grass, though?
+Dialogue: 0,0:19:33.14,0:19:34.64,HIKAKIN,,0,0,0,,He got inside my nose
+Dialogue: 0,0:19:34.64,0:19:37.37,White font,,0,0,0,,Thank you
+Dialogue: 0,0:19:38.61,0:19:39.94,Hamada,,0,0,0,,Wasn't that good?
+Dialogue: 0,0:19:39.94,0:19:41.38,HIKAKIN,,0,0,0,,His tongue in my nose...
+Dialogue: 0,0:19:43.28,0:19:44.89,Hamada,,0,0,0,,He got a lot of skulls
+Dialogue: 0,0:19:44.89,0:19:48.43,Endo,,0,0,0,,{\pos(720,960)}Yeah, 4 times
+Dialogue: 0,0:19:50.75,0:19:51.89,HIKAKIN,,0,0,0,,Thank God...
+Dialogue: 0,0:19:52.33,0:19:53.55,Endo,,0,0,0,,Next one is the last
+Dialogue: 0,0:19:53.55,0:19:55.55,Yamazaki,,0,0,0,,The last one...
+Dialogue: 0,0:19:58.00,0:19:58.83,Hamada,,0,0,0,,What's that?
+Dialogue: 0,0:20:00.80,0:20:03.71,TEGAKI,,0,0,0,,{\fad(0,0)\frz57.7\pos(681.75,531)}{\c&H000000&\3c&H000000&\3a&HFF&\4c&H000000&\4a&HFF&\frz88.25\pos(623.25,567)}Cockveyor Belt
+Dialogue: 0,0:20:01.36,0:20:02.30,Hamada,,0,0,0,,The hell is this?
+Dialogue: 0,0:20:03.43,0:20:04.30,Endo,,0,0,0,,What the-?
+Dialogue: 0,0:20:03.87,0:20:07.71,FONTS & Stuff,,0,0,0,,{\fad(200,0)\c&H1516BD&\3c&HFFFFFF&\4c&H000000&\pos(765,843)}Theme: {\c&H48FDFB&\3c&H000000&}Cockveyor Belt
+Dialogue: 0,0:20:08.17,0:20:08.75,HIKAKIN,,0,0,0,,Alright
+Dialogue: 0,0:20:08.75,0:20:11.71,HIKAKIN,,0,0,0,,Here\N{\c&H0F91FF&}- Hamada is still intact
+Dialogue: 0,0:20:11.71,0:20:13.11,HIKAKIN,,0,0,0,,Here, here
+Dialogue: 0,0:20:13.11,0:20:15.51,Yamazaki,,0,0,0,,This one looks shady
+Dialogue: 0,0:20:15.51,0:20:17.38,Yamazaki,,0,0,0,,Are we flipping them all at once?
+Dialogue: 0,0:20:17.38,0:20:19.01,Matsumoto,,0,0,0,,How about we
+Dialogue: 0,0:20:19.01,0:20:20.31,Matsumoto,,0,0,0,,Go in circle from here?
+Dialogue: 0,0:20:20.85,0:20:23.22,Yamazaki,,0,0,0,,Please, please, please
+Dialogue: 0,0:20:24.35,0:20:26.60,Yamazaki,,0,0,0,,{\fad(200,0)\3c&H48FDFB&\4c&HFFFFFF&\pos(497.25,915)}HOUSEI
+Dialogue: 0,0:20:29.29,0:20:32.13,Hamada,,0,0,0,,It may be Matsumoto, \Nso you should go first Tanaka
+Dialogue: 0,0:20:32.13,0:20:33.13,Tanaka,,0,0,0,,Should I go instead?
+Dialogue: 0,0:20:33.13,0:20:33.93,Hamada,,0,0,0,,Yeah, go Tanaka
+Dialogue: 0,0:20:35.93,0:20:38.88,Tanaka,,0,0,0,,{\fad(200,0)\3c&H48FDFB&\4c&HFFFFFF&\pos(490.5,918)}TANAKA
+Dialogue: 0,0:20:39.36,0:20:41.84,Endo,,0,0,0,,It can't be me, it just can't
+Dialogue: 0,0:20:43.42,0:20:44.92,Endo,,0,0,0,,{\fad(200,0)\3c&H48FDFB&\4c&HFFFFFF&\pos(490.5,918)}ENDO
+Dialogue: 0,0:20:43.74,0:20:44.92,Endo,,0,0,0,,Yeah, that's what I meant!
+Dialogue: 0,0:20:44.92,0:20:45.67,Tanaka,,0,0,0,,Holy crap!
+Dialogue: 0,0:20:45.67,0:20:48.21,Endo,,0,0,0,,That's good, that's good
+Dialogue: 0,0:20:48.71,0:20:51.11,Hamada,,0,0,0,,So it's either one of us or Hikakin...
+Dialogue: 0,0:20:51.11,0:20:52.71,Endo,,0,0,0,,Alright alright alright
+Dialogue: 0,0:20:52.71,0:20:54.18,Hamada,,0,0,0,,How should we flip those?
+Dialogue: 0,0:20:54.68,0:20:56.18,Yamazaki,,0,0,0,,The three of you all at once
+Dialogue: 0,0:20:56.18,0:20:57.52,Endo,,0,0,0,,All together?     {\c&HD038A1&}- Yes
+Dialogue: 0,0:20:57.52,0:20:58.95,Hamada,,0,0,0,,Should we count?
+Dialogue: 0,0:20:58.95,0:21:00.95,Matsumoto,,0,0,0,,Man, I can't stand this anymore
+Dialogue: 0,0:21:03.35,0:21:04.76,White font,,0,0,0,,Come on, we're almost done
+Dialogue: 0,0:21:05.36,0:21:06.56,Endo,,0,0,0,,Let's count it
+Dialogue: 0,0:21:06.56,0:21:07.46,Hamada,,0,0,0,,Here goes nothing
+Dialogue: 0,0:21:07.46,0:21:08.43,Hamada,,0,0,0,,One{\c&H1516BD&}, tw{\c&H7AAA20&}o...!
+Dialogue: 0,0:21:10.20,0:21:15.98,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(1035,837)}Cockveyor Belt
+Dialogue: 0,0:21:14.23,0:21:16.07,Hamada,,0,0,0,,Such a bad luck!
+Dialogue: 0,0:21:16.64,0:21:18.67,Endo,,0,0,0,,Yeah today was bad\N{\c&HD038A1&}- It was
+Dialogue: 0,0:21:19.31,0:21:20.67,Endo,,0,0,0,,Ohh, looks good
+Dialogue: 0,0:21:21.67,0:21:22.98,Endo,,0,0,0,,Such a beautiful finale
+Dialogue: 0,0:21:23.98,0:21:25.25,Hamada,,0,0,0,,What's this about?
+Dialogue: 0,0:21:26.01,0:21:27.98,White font,,0,0,0,,How does this work?
+Dialogue: 0,0:21:27.98,0:21:29.98,Endo,,0,0,0,,This will make them travel to him
+Dialogue: 0,0:21:30.32,0:21:31.18,Hamada,,0,0,0,,I see now
+Dialogue: 0,0:21:31.51,0:21:33.48,Tanaka,,0,0,0,,Use the chair as a support
+Dialogue: 0,0:21:34.62,0:21:37.22,Tanaka,,0,0,0,,A bit closer
+Dialogue: 0,0:21:37.82,0:21:39.46,Hamada,,0,0,0,,Ok, let's go
+Dialogue: 0,0:21:39.46,0:21:40.19,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:21:40.19,0:21:42.60,Hamada,,0,0,0,,Three, two, one, start!
+Dialogue: 0,0:21:52.20,0:21:54.71,Matsumoto,,0,0,0,,Well yeah, that hurts\N{\c&H0F91FF&}- It does, really
+Dialogue: 0,0:21:57.21,0:21:58.21,Endo,,0,0,0,,That must hurt
+Dialogue: 0,0:21:58.21,0:22:00.21,White font,,0,0,0,,Here comes a big one!
+Dialogue: 0,0:22:00.21,0:22:01.58,Tanaka,,0,0,0,,Don't move around
+Dialogue: 0,0:22:05.88,0:22:06.75,Endo,,0,0,0,,The last one
+Dialogue: 0,0:22:07.59,0:22:09.32,Endo,,0,0,0,,Here comes, here comes\N{\c&H7AAA20&}- This is bad
+Dialogue: 0,0:22:09.32,0:22:10.69,Endo,,0,0,0,,That's our main dish
+Dialogue: 0,0:22:11.29,0:22:12.69,Matsumoto,,0,0,0,,No doubt this will hurt     {\c&H0F91FF&}- Yes
+Dialogue: 0,0:22:19.00,0:22:19.67,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:22:20.10,0:22:21.17,Matsumoto,,0,0,0,,The hell?
+Dialogue: 0,0:22:22.27,0:22:24.44,Matsumoto,,0,0,0,,I think it hurts more than I tought
+Dialogue: 0,0:22:26.74,0:22:29.24,HIKAKIN,,0,0,0,,Its juice came out!
+Dialogue: 0,0:22:29.24,0:22:30.24,Matsumoto,,0,0,0,,For real
+Dialogue: 0,0:22:30.24,0:22:32.51,Yamazaki,,0,0,0,,You ok? Is the juice a problem?\N{\c&H7AAA20&}- It's fine
+Dialogue: 0,0:22:33.10,0:22:35.83,Matsumoto,,0,0,0,,I was wondering whose juice was it
+Dialogue: 0,0:22:35.83,0:22:37.35,Hamada,,0,0,0,,What the hell dude
+Dialogue: 0,0:22:37.35,0:22:38.72,Endo,,0,0,0,,Watermelon, of course
+Dialogue: 0,0:22:39.48,0:22:40.72,Matsumoto,,0,0,0,,Hamada...
+Dialogue: 0,0:22:40.72,0:22:42.72,Matsumoto,,0,0,0,,Do you think it's fine this way?
+Dialogue: 0,0:22:42.72,0:22:43.49,Hamada,,0,0,0,,Why?
+Dialogue: 0,0:22:43.49,0:22:45.86,Tanaka,,0,0,0,,You never got punished\N{\c&HBE322C&}- I think it's fine
+Dialogue: 0,0:22:45.86,0:22:47.66,Endo,,0,0,0,,The audience isn't satisfied
+Dialogue: 0,0:22:47.66,0:22:50.03,Matsumoto,,0,0,0,,I think you have to do at least one of them
+Dialogue: 0,0:22:50.03,0:22:51.60,Hamada,,0,0,0,,I told you it's fine this way
+Dialogue: 0,0:22:52.23,0:22:53.30,Matsumoto,,0,0,0,,I won't let you escape
+Dialogue: 0,0:22:54.40,0:22:55.30,Yamazaki,,0,0,0,,Just one
+Dialogue: 0,0:22:56.10,0:22:58.47,Yamazaki,,0,0,0,,You're free to pick one
+Dialogue: 0,0:22:53.77,0:22:59.72,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&HFFAE4A&\3c&HFFFFFF&\pos(731.25,918)}Coming up: one last big shriek from Hamada
+Dialogue: 0,0:23:00.22,0:23:03.14,Matsumoto,,0,0,0,,Which number in order from the top?
+Dialogue: 0,0:23:03.14,0:23:07.03,Endo,,0,0,0,,There are 12 in total\N{\c&HBE322C&}- You don't have to be so desperate about it
+Dialogue: 0,0:23:07.03,0:23:09.13,Hamada,,0,0,0,,Ehhh? Come on...
+Dialogue: 0,0:23:09.13,0:23:11.56,White font,,0,0,0,,{\pos(720,975)}Which one do you choose?
+Dialogue: 0,0:23:10.53,0:23:11.56,White font,,0,0,0,,{\c&H0FFFE6&\pos(724.5,858)}The second one
+Dialogue: 0,0:23:11.56,0:23:12.75,Matsumoto,,0,0,0,,The first one
+Dialogue: 0,0:23:13.12,0:23:15.42,White font,,0,0,0,,Was this one, Cockveyor Belt
+Dialogue: 0,0:23:15.42,0:23:17.42,Matsumoto,,0,0,0,,You managed to escape\N the Cockveyor Belt
+Dialogue: 0,0:23:17.42,0:23:20.13,Matsumoto,,0,0,0,,And here's the one you \Nwished for, number two
+Dialogue: 0,0:23:21.23,0:23:23.33,Matsumoto,,0,0,0,,Endless vinegar rapid-fire
+Dialogue: 0,0:23:23.33,0:23:25.33,Endo,,0,0,0,,This is a good one
+Dialogue: 0,0:23:25.33,0:23:27.61,Matsumoto,,0,0,0,,You picked a good one!
+Dialogue: 0,0:23:22.46,0:23:27.61,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H000000&\3c&HFFFFFF&\4c&H1516BD&\pos(227.25,840)}Hamada
+Dialogue: 0,0:23:22.59,0:23:27.61,FONTS & Stuff,,0,0,0,,{\fad(300,0)\c&H1516BD&\3c&HFFFFFF&\pos(951.75,843)}Endless Vinegar Rapid-fire
+Dialogue: 0,0:23:27.61,0:23:29.61,Matsumoto,,0,0,0,,Mouth open, eyes closed
+Dialogue: 0,0:23:29.61,0:23:31.31,Matsumoto,,0,0,0,,Ok, let's go
+Dialogue: 0,0:23:31.31,0:23:33.77,Yamazaki,,0,0,0,,Like this, smooth rapid-fire
+Dialogue: 0,0:23:33.77,0:23:36.01,Yamazaki,,0,0,0,,Smoothly\N{\c&HD038A1&}- I see, it's nice
+Dialogue: 0,0:23:37.59,0:23:38.85,Endo,,0,0,0,,Don't open your eyes
+Dialogue: 0,0:23:40.81,0:23:42.18,Hamada,,0,0,0,,I can't breathe!
+Dialogue: 0,0:23:43.28,0:23:44.99,Yamazaki,,0,0,0,,It stinks!
+Dialogue: 0,0:23:48.29,0:23:49.62,Endo,,0,0,0,,Here comes that shout
+Dialogue: 0,0:23:51.19,0:23:52.67,Endo,,0,0,0,,I was expecting it
+Dialogue: 0,0:23:52.67,0:23:55.30,White font,,0,0,0,,You did it! \N- It means it's morning
+Dialogue: 0,0:23:55.91,0:23:57.93,Matsumoto,,0,0,0,,That means it's 5 A.M.
+Dialogue: 0,0:23:57.93,0:24:00.33,Tanaka,,0,0,0,,It's 5 A.M., huh...
+Dialogue: 0,0:24:00.67,0:24:02.64,Matsumoto,,0,0,0,,He shouts like this every morning
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\pos(740.25,105)\3c&H008AFF&\fscx70}WWW.SHIONNOTSUKAI.WORDPRESS.COM
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\pos(731.25,198)\3c&HE37E17&}WWW.FACEBOOK.COM/SHIONNOTSUKAI
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\pos(722.25,288)\3c&H19DB11&}WWW.KO-FI.COM/SHIONNOTSUKAI
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\fscx54\fscy93\pos(717.75,375)\c&H48FDFB&}if you want to support my translations, please like my {\c&HE37E17&\3c&HFFFFFF&}FB page
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\fscx51\fscy96\pos(715.5,474)\c&H48FDFB&}You can also donate few dollars on my {\c&H19DB11&\3c&HFFFFFF&}ko-fi {\c&H48FDFB&\3c&H000000&}page to show support
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\pos(715.5,912)\3c&H1516BD&}this is a no-profit fansub made by a fan for other fans. No copyright infringement intended. All copyrights are reserved to their respective owners
+Dialogue: 0,0:24:03.71,0:24:09.71,last credits,,0,0,0,,{\fscx60.75\fscy123\pos(717.75,1032)\3c&HB926D5&}one last blank space I feel like filling up with nothing
+Dialogue: 0,0:23:40.00,0:23:45.00,FONTS & Stuff,,0,0,0,,{\fad(200,200)\3c&H1819E2&\4c&H000000&\4a&HFF&\pos(992.25,57)}Translation & Subtitles by {\c&HFFCA88&}Shion (@FGRNDNoises)
+Dialogue: 0,0:23:45.00,0:23:48.50,FONTS & Stuff,,0,0,0,,{\fad(200,200)\c&H96C7FE&\3c&H0F0FA4&\3a&H00&\4c&H000000&\4a&HFF&\pos(1122.75,54)}www.shionnotsukai.wordpress.com
+Dialogue: 0,0:23:48.50,0:23:52.00,FONTS & Stuff,,0,0,0,,{\fad(200,200)\c&HE99E5E&\3c&HFEFEFE&\3a&H00&\4c&H000000&\4a&HFF&\pos(1134,57)}www.facebook.com/shionnotsukai
+Dialogue: 0,0:23:52.00,0:24:02.67,FONTS & Stuff,,0,0,0,,{\fad(200,200)\c&HFFFFFF&\3c&H000000&\3a&H00&\4c&H000000&\4a&HFF&\pos(893.25,48)}{\fs45}Want to {\c&H37EFE4&\3c&H2525BB&}support {\c&HFFFFFF&\3c&H000000&}my translations? Consider donating @ {\c&HE2FF00&\3c&H941810&}ko-fi.com/shionnotsukai
+Dialogue: 0,0:24:02.67,0:24:04.67,FONTS & Stuff,,0,0,0,,
+

@@ -1,0 +1,767 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 720
+PlayResY: 480
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Sports Challenge 4 - Baseball 150km per h.mp4
+Video File: Sports Challenge 4 - Baseball 150km per h.mp4
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.125000
+Scroll Position: 659
+Active Line: 666
+Video Position: 40272
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,84.3091,100,0,0,1,2,1,2,8,8,10,1
+Style: Hamada,Arial,30,&H00E55800,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Matsumoto,Arial,30,&H000000CC,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Tanaka - Sports Challenge,Arial,30,&H0002B5B8,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Endo,Arial,30,&H010D98F9,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Yamasaki,Arial,30,&H0100C90D,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Translator's Note,Arial,24,&H00939393,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,84.3091,100,0,0,1,2,0,8,8,8,10,1
+Style: DTRSubs,Arial,20,&H00C6B501,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+Style: Signs,Arial,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,84.3091,100,0,0,1,2,1,2,8,8,10,1
+Style: Heipo,Arial,30,&H01000000,&H000000FF,&H00FFFFFF,&H00000004,-1,0,0,0,84.3091,100,0,0,1,2,0,2,8,8,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:06.44,Signs,,0,0,0,,{\fade(350,400)\pos(354.375,200)\t(0,5874,\fscx101.171\fscy120)}June 10, 2001
+Dialogue: 0,0:00:06.80,0:00:10.81,Signs,,0,0,0,,{\fade(100,100)\c&HCF000E&\3c&HFFFFFF&\4c&H000000&\pos(361.125,376)}Gaki No Tsukai Backstage
+Dialogue: 0,0:00:09.14,0:00:10.67,Endo,,0,0,0,,Is there something you want to ask him?
+Dialogue: 0,0:00:11.88,0:00:13.74,Yamasaki,,0,0,0,,Golf.{\alpha&HFF&} Whether he wants to play.
+Dialogue: 0,0:00:13.74,0:00:14.71,Yamasaki,,0,0,0,,Golf. Whether he wants to play.
+Dialogue: 0,0:00:14.04,0:00:16.04,Tanaka - Sports Challenge,,0,0,0,,You're going to play?
+Dialogue: 0,0:00:14.71,0:00:16.71,Yamasaki,,0,0,0,,Yeah.
+Dialogue: 0,0:00:19.32,0:00:20.62,Hamada,,0,0,0,,How are you?
+Dialogue: 0,0:00:20.95,0:00:21.69,Tanaka - Sports Challenge,,0,0,0,,Hello.
+Dialogue: 0,0:00:21.39,0:00:22.39,Endo,,0,0,0,,Oh, hello.
+Dialogue: 0,0:00:21.69,0:00:22.45,Yamasaki,,0,0,0,,I'm fine.{\alpha&HFF&}  Hold on a second.
+Dialogue: 0,0:00:22.45,0:00:24.49,Yamasaki,,0,0,0,,I'm fine.  Hold on a second.
+Dialogue: 0,0:00:23.62,0:00:26.49,Hamada,,0,0,0,,Everyone's fine?
+Dialogue: 0,0:00:24.49,0:00:27.46,Yamasaki,,0,0,0,,We're doing fine, but I mean, we're just doing normally.
+Dialogue: 0,0:00:27.09,0:00:28.66,Hamada,,0,0,0,,Well, well.
+Dialogue: 0,0:00:28.76,0:00:31.10,Yamasaki,,0,0,0,,It's this again.
+Dialogue: 0,0:00:30.16,0:00:33.13,Hamada,,0,0,0,,What is?
+Dialogue: 0,0:00:31.10,0:00:34.10,Yamasaki,,0,0,0,,What do you mean "What is?"  Look at what you're wearing, it's obvious what it is.
+Dialogue: 0,0:00:33.53,0:00:34.43,Hamada,,0,0,0,,Seriously?{\alpha&HFF&} Wow, you saw right through me.
+Dialogue: 0,0:00:34.43,0:00:37.43,Hamada,,0,0,0,,Seriously? Wow, you saw right through me.
+Dialogue: 0,0:00:34.63,0:00:36.47,Endo,,0,0,0,,We can tell.{\alpha&HFF&}  It can be only be that, right?
+Dialogue: 0,0:00:36.47,0:00:38.47,Endo,,0,0,0,,We can tell.  It can be only be that, right?
+Dialogue: 0,0:00:36.47,0:00:38.47,Yamasaki,,0,0,0,,What do you mean "You saw right through me," come on.
+Dialogue: 0,0:00:37.57,0:00:40.87,Hamada,,0,0,0,,I thought you wouldn't be able to tell.
+Dialogue: 0,0:00:38.84,0:00:41.84,Yamasaki,,0,0,0,,We can tell.
+Dialogue: 0,0:00:39.60,0:00:41.37,Tanaka - Sports Challenge,,0,0,0,,We can tell this much.
+Dialogue: 0,0:00:40.87,0:00:42.01,Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:00:41.37,0:00:42.37,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:00:42.01,0:00:45.61,Hamada,,0,0,0,,What is this?  Why do you look so annoyed?
+Dialogue: 0,0:00:43.87,0:00:46.68,Yamasaki,,0,0,0,,Because the same thing will happen.
+Dialogue: 0,0:00:44.94,0:00:45.94,Endo,,0,0,0,,Right?
+Dialogue: 0,0:00:45.61,0:00:48.61,Hamada,,0,0,0,,What?
+Dialogue: 0,0:00:46.68,0:00:50.08,Yamasaki,,0,0,0,,Because even if we work hard, in the end because {\i1}that{\i0} person doesn't work hard
+Dialogue: 0,0:00:49.88,0:00:50.88,Hamada,,0,0,0,,Don't say such a thing.
+Dialogue: 0,0:00:50.45,0:00:50.71,Yamasaki,,0,0,0,,{\pos(353.975,432.667)}Ow!{\alpha&HFF&} Ow! {\alpha&HFF&} Ow!{\alpha&HFF&} Ow!{\alpha&HFF&}
+Dialogue: 0,0:00:50.71,0:00:50.85,Yamasaki,,0,0,0,,{\pos(353.975,432.667)}Ow! Ow!{\alpha&HFF&} Ow!{\alpha&HFF&} Ow!
+Dialogue: 0,0:00:50.85,0:00:50.98,Yamasaki,,0,0,0,,{\pos(353.975,432.667)}Ow! Ow! Ow!{\alpha&HFF&} Ow!
+Dialogue: 0,0:00:50.98,0:00:51.98,Yamasaki,,0,0,0,,{\pos(353.975,432.667)}Ow! Ow! Ow! Ow!
+Dialogue: 0,0:00:51.92,0:00:54.75,Endo,,0,0,0,,No, you said too much there.
+Dialogue: 0,0:00:54.08,0:00:55.32,Yamasaki,,0,0,0,,That wasn't saying too much.
+Dialogue: 0,0:00:55.32,0:00:56.25,Hamada,,0,0,0,,Don't say the truth{\alpha&HFF&} so loudly.
+Dialogue: 0,0:00:56.25,0:00:58.29,Hamada,,0,0,0,,Don't say the truth so loudly.
+Dialogue: 0,0:00:58.29,0:01:00.19,Yamasaki,,0,0,0,,I'm saying it because it's the truth.
+Dialogue: 0,0:01:00.19,0:01:03.56,Hamada,,0,0,0,,Come on, as long as we can put him in a good mood, that's good enough.
+Dialogue: 0,0:01:03.43,0:01:03.79,Yamasaki,,0,0,0,,{\pos(360,443.333)}No,{\alpha&HFF&} the thing is,{\alpha&HFF&} and I'm being honest here
+Dialogue: 0,0:01:03.79,0:01:04.93,Yamasaki,,0,0,0,,{\pos(360,443.333)}No, the thing is,{\alpha&HFF&} and I'm being honest here
+Dialogue: 0,0:01:04.93,0:01:06.20,Yamasaki,,0,0,0,,{\pos(360,443.333)}No, the thing is, and I'm being honest here
+Dialogue: 0,0:01:06.20,0:01:08.27,Yamasaki,,0,0,0,,If he gets in a good mood then that's fine,{\alpha&HFF&} but he always gets angry when we're done.
+Dialogue: 0,0:01:08.27,0:01:11.20,Yamasaki,,0,0,0,,If he gets in a good mood then that's fine, but he always gets angry when we're done.
+Dialogue: 0,0:01:09.40,0:01:10.37,Hamada,,0,0,0,,That's true.{\alpha&HFF&}  That bothers me, too.
+Dialogue: 0,0:01:10.37,0:01:13.37,Hamada,,0,0,0,,That's true.  That bothers me, too.
+Dialogue: 0,0:01:11.84,0:01:13.64,Yamasaki,,0,0,0,,Afterwards, right?
+Dialogue: 0,0:01:13.70,0:01:16.64,Hamada,,0,0,0,,What is that, where he leaves right in the middle of things?
+Dialogue: 0,0:01:16.17,0:01:19.17,Yamasaki,,0,0,0,,Right, right.
+Dialogue: 0,0:01:16.87,0:01:18.48,Hamada,,0,0,0,,He goes into the dressing room and doesn't come out, right? {\alpha&HFF&}Is he %$#@?
+Dialogue: 0,0:01:18.48,0:01:21.48,Hamada,,0,0,0,,He goes into the dressing room and doesn't come out, right? Is he %$#@?
+Dialogue: 1,0:01:22.48,0:01:26.78,Signs,,0,0,0,,{\fade(1500,0)\pos(361.229,376)\c&H2D07C4&\3c&HFFFFFF&\4c&H000006&}The dream that Matsumoto envisioned this time is!?
+Dialogue: 0,0:01:23.21,0:01:26.78,Default,,0,0,0,,The dream that Matsumoto envisioned this time is
+Dialogue: 0,0:01:27.79,0:01:29.82,Default,,0,0,0,,Baseball.
+Dialogue: 0,0:01:26.78,0:01:29.82,Default,,0,0,0,,{\fs200\c&H0B94AC&\i0\3c&H04121B&\4c&H86B1B1&\t(0,80,\fscx42.155\fscy50)\pos(349.139,163.182)}Baseball
+Dialogue: 0,0:01:29.82,0:01:39.83,Signs,,0,0,0,,{\pos(361.638,353.636)\c&H0500DA&\3c&HFFFFFF&}Like the Japanese players in the Major League, make a beautiful hit against a super fast pitch!!
+Dialogue: 0,0:01:30.65,0:01:35.03,Default,,0,0,0,,Like the Japanese players who crossed the ocean to play in the Major League,
+Dialogue: 0,0:01:35.03,0:01:39.83,Default,,0,0,0,,make a beautiful hit against a super fast pitch.
+Dialogue: 0,0:01:40.10,0:01:44.10,Hamada,,0,0,0,,The pitches are really fast in the Major League, right, Suga? How fast are they, in the Major League?
+Dialogue: 0,0:01:44.10,0:01:47.10,Default,,0,0,0,,About 150 km/h.
+Dialogue: 0,0:01:47.00,0:01:48.07,Hamada,,0,0,0,,Right, right.
+Dialogue: 0,0:01:48.07,0:01:49.01,Hamada,,0,0,0,,He wants to hit{\alpha&HFF&} a 150 km/h pitch.
+Dialogue: 0,0:01:49.01,0:01:51.18,Hamada,,0,0,0,,He wants to hit a 150 km/h pitch.
+Dialogue: 0,0:01:50.27,0:01:51.18,Endo,,0,0,0,,No, come on.
+Dialogue: 0,0:01:51.18,0:01:52.04,Endo,,0,0,0,,That,{\alpha&HFF&} since I played baseball,
+Dialogue: 0,0:01:52.04,0:01:54.01,Endo,,0,0,0,,That, since I played baseball,
+Dialogue: 0,0:01:54.08,0:01:55.68,Endo,,0,0,0,,I can tell you,{\alpha&HFF&} honestly, that's impossible.
+Dialogue: 0,0:01:55.68,0:01:57.98,Endo,,0,0,0,,I can tell you, honestly, that's impossible.
+Dialogue: 0,0:01:57.98,0:02:00.55,Hamada,,0,0,0,,But he says he wants to hit a 150.
+Dialogue: 0,0:02:00.55,0:02:01.82,Endo,,0,0,0,,This is impossible.
+Dialogue: 0,0:02:02.62,0:02:03.55,Yamasaki,,0,0,0,,Oh my god!
+Dialogue: 0,0:02:03.55,0:02:04.92,Tanaka - Sports Challenge,,0,0,0,,Whoa, geez.
+Dialogue: 0,0:02:04.92,0:02:07.59,Endo,,0,0,0,,What was that, all of a sudden?
+Dialogue: 0,0:02:05.76,0:02:07.59,Hamada,,0,0,0,,He wants to hit a 150.
+Dialogue: 0,0:02:07.59,0:02:08.76,Endo,,0,0,0,,I'm on board.{\alpha&HFF&} I'll do it.  Yes.
+Dialogue: 0,0:02:08.23,0:02:09.99,Hamada,,0,0,0,,Thank you.
+Dialogue: 0,0:02:08.76,0:02:09.99,Endo,,0,0,0,,I'm on board. I'll do it.  Yes.
+Dialogue: 0,0:02:09.79,0:02:10.69,Tanaka - Sports Challenge,,0,0,0,,I'll do it.
+Dialogue: 0,0:02:10.69,0:02:11.96,Hamada,,0,0,0,,Yeah?
+Dialogue: 0,0:02:11.06,0:02:11.96,Tanaka - Sports Challenge,,0,0,0,,Yes, no problem.
+Dialogue: 0,0:02:12.03,0:02:13.50,Yamasaki,,0,0,0,,Then yeah, well...
+Dialogue: 0,0:02:12.93,0:02:13.90,Tanaka - Sports Challenge,,0,0,0,,After seeing that?
+Dialogue: 0,0:02:13.50,0:02:13.93,Hamada,,0,0,0,,{\pos(360,470)}What?{\alpha&HFF&} {\fs38}What's your problem?
+Dialogue: 0,0:02:13.93,0:02:16.10,Hamada,,0,0,0,,What? {\fs38}What's your problem?
+Dialogue: 0,0:02:16.10,0:02:19.10,Hamada,,0,0,0,,Like, "Then yeah, well..."
+Dialogue: 0,0:02:17.13,0:02:18.77,Yamasaki,,0,0,0,,No, I want to do it.{\alpha&HFF&} Instead.
+Dialogue: 0,0:02:18.77,0:02:19.87,Yamasaki,,0,0,0,,No, I want to do it. Instead.
+Dialogue: 0,0:02:20.10,0:02:22.87,Yamasaki,,0,0,0,,Please don't do anything.
+Dialogue: 0,0:02:23.31,0:02:24.34,Hamada,,0,0,0,,{\fade(0,50)}Ok,
+Dialogue: 0,0:02:24.98,0:02:29.15,Default,,0,0,0,,The four become kurokos* again to make Matsumoto's dream come true.
+Dialogue: 0,0:02:24.98,0:02:29.15,Translator's Note,,0,0,0,,*A kuroko is a traditional Japanese theatre stagehand.  Kurokos wear all black to signify to the theatre audience that they are supposed to be invisible and not part of the onstage action.
+Dialogue: 0,0:02:29.15,0:02:31.78,Default,,0,0,0,,Can they create a miracle?
+Dialogue: 0,0:02:29.21,0:02:35.45,Signs,,0,0,0,,{\fade(1500,100)}{\fs100\c&H0B94AC&\i0\3c&H04121B&\4c&H86B1B1&\t(0,1500,\fscx42.155\fscy50)\move(363.882,229.363,364.702,131.91,24,24)}Matsumoto Hitoshi
+Dialogue: 0,0:02:29.21,0:02:35.45,Signs,,0,0,0,,{\fade(1500,100)}{\fs100\c&H0B94AC&\i0\3c&H04121B&\4c&H86B1B1&\t(0,1500,\fscx42.155\fscy50)\move(361.228,405.091,361.228,305.455,24,24)}Hitting a 150 km/h pitch!!
+Dialogue: 0,0:02:31.78,0:02:35.72,Default,,0,0,0,,Matsumoto Hitoshi - Hitting a 150 km/h pitch.
+Dialogue: 0,0:02:35.72,0:02:39.39,Hamada,,0,0,0,,In any case, let's see what the pitch looks like.
+Dialogue: 0,0:02:38.62,0:02:40.62,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:02:39.39,0:02:41.53,Hamada,,0,0,0,,We're the ones who are actually going to have to do this, anyway.
+Dialogue: 0,0:02:40.62,0:02:41.02,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:02:40.86,0:02:41.26,Yamasaki,,0,0,0,,Yes.
+Dialogue: 0,0:02:40.86,0:02:41.26,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:02:41.53,0:02:44.13,Endo,,0,0,0,,That's true.
+Dialogue: 0,0:02:43.06,0:02:45.06,Tanaka - Sports Challenge,,0,0,0,,That's true, in the end.
+Dialogue: 0,0:02:44.13,0:02:46.70,Hamada,,0,0,0,,Then, could you please?
+Dialogue: 0,0:02:45.56,0:02:46.56,Endo,,0,0,0,,Please, thank you.
+Dialogue: 0,0:02:50.70,0:02:53.20,Endo,,0,0,0,,That is fast.
+Dialogue: 0,0:02:53.20,0:02:54.20,Yamasaki,,0,0,0,,Ok.
+Dialogue: 0,0:02:53.60,0:02:54.60,Endo,,0,0,0,,Got it.
+Dialogue: 0,0:02:54.34,0:02:56.64,Hamada,,0,0,0,,Oh, he's coming.
+Dialogue: 0,0:02:57.34,0:02:59.71,Yamasaki,,0,0,0,,So slow.{\alpha&HFF&} Right?
+Dialogue: 0,0:02:59.71,0:03:02.71,Yamasaki,,0,0,0,,So slow. Right?
+Dialogue: 0,0:03:00.48,0:03:03.41,Endo,,0,0,0,,He shows less and less effort each time.
+Dialogue: 0,0:03:03.65,0:03:06.25,Hamada,,0,0,0,,Well, he said he'd do it, so it should be fine.
+Dialogue: 0,0:03:05.02,0:03:06.02,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:03:06.85,0:03:07.85,Yamasaki,,0,0,0,,He intends to put in effort?
+Dialogue: 0,0:03:07.38,0:03:09.35,Hamada,,0,0,0,,Hey, we're ready.
+Dialogue: 0,0:03:08.45,0:03:10.95,Endo,,0,0,0,,Hello.
+Dialogue: 0,0:03:08.95,0:03:10.95,Yamasaki,,0,0,0,,Hello.
+Dialogue: 0,0:03:09.95,0:03:10.95,Tanaka - Sports Challenge,,0,0,0,,Hello.
+Dialogue: 0,0:03:10.95,0:03:13.95,Hamada,,0,0,0,,See, he's wearing a uniform.
+Dialogue: 0,0:03:11.96,0:03:14.99,Endo,,0,0,0,,Yes, right.
+Dialogue: 0,0:03:12.89,0:03:15.89,Tanaka - Sports Challenge,,0,0,0,,That's right.
+Dialogue: 0,0:03:13.42,0:03:16.42,Yamasaki,,0,0,0,,He's showing effort.
+Dialogue: 0,0:03:16.56,0:03:18.56,Matsumoto,,0,0,0,,So you'll do it?
+Dialogue: 0,0:03:17.29,0:03:19.13,Hamada,,0,0,0,,{\pos(360,438)}Yeah, no problem.{\alpha&HFF&} We also checked the pitch.
+Dialogue: 0,0:03:19.13,0:03:22.16,Hamada,,0,0,0,,{\pos(360,438)}Yeah, no problem. We also checked the pitch.
+Dialogue: 0,0:03:22.40,0:03:24.64,Matsumoto,,0,0,0,,In the past,{\alpha&HFF&} right?{\alpha&HFF&} We've done a lot of different things.
+Dialogue: 0,0:03:24.64,0:03:25.54,Matsumoto,,0,0,0,,In the past, right?{\alpha&HFF&} We've done a lot of different things.
+Dialogue: 0,0:03:25.54,0:03:26.90,Matsumoto,,0,0,0,,In the past, right? We've done a lot of different things.
+Dialogue: 0,0:03:26.90,0:03:27.60,Matsumoto,,0,0,0,,Um,{\alpha&HFF&} looking back, honestly,
+Dialogue: 0,0:03:27.60,0:03:29.67,Matsumoto,,0,0,0,,Um, looking back, honestly,
+Dialogue: 0,0:03:29.67,0:03:33.04,Matsumoto,,0,0,0,,They might have been a bit difficult, so{\alpha&HFF&} I do feel sorry about that.
+Dialogue: 0,0:03:33.04,0:03:34.88,Matsumoto,,0,0,0,,They might have been a bit difficult, so I do feel sorry about that.
+Dialogue: 0,0:03:33.64,0:03:34.88,Hamada,,0,0,0,,I see.
+Dialogue: 0,0:03:34.88,0:03:37.15,Matsumoto,,0,0,0,,But for this time around,
+Dialogue: 0,0:03:37.15,0:03:40.85,Matsumoto,,0,0,0,,{\pos(272.355,412.545)}in terms of the difficulty,
+Dialogue: 0,0:03:38.58,0:03:40.85,Matsumoto,,0,0,0,,I think this is an easy one.
+Dialogue: 0,0:03:40.85,0:03:43.42,Matsumoto,,0,0,0,,So I want to do this in one shot.
+Dialogue: 0,0:03:44.92,0:03:49.16,Matsumoto,,0,0,0,,{\pos(150.307,407.455)}I'd like
+Dialogue: 0,0:03:47.39,0:03:49.16,Matsumoto,,0,0,0,,to do this with dignity.
+Dialogue: 0,0:03:48.79,0:03:49.79,Hamada,,0,0,0,,Yes, yes.
+Dialogue: 0,0:03:49.83,0:03:52.83,Matsumoto,,0,0,0,,The only thing you guys are capable of is to support me or so.
+Dialogue: 0,0:03:56.87,0:03:59.77,Matsumoto,,0,0,0,,Don't be thinking about %$#@ all the time.
+Dialogue: 0,0:04:02.27,0:04:03.27,Hamada,,0,0,0,,Then, {\alpha&HFF&}let's give it a shot.
+Dialogue: 0,0:04:03.27,0:04:04.61,Hamada,,0,0,0,,Then, let's give it a shot.
+Dialogue: 0,0:04:03.97,0:04:07.24,Yamasaki,,0,0,0,,Yes.  Let's do it.
+Dialogue: 0,0:04:05.14,0:04:07.24,Matsumoto,,0,0,0,,Let's go!
+Dialogue: 0,0:04:05.98,0:04:07.24,Endo,,0,0,0,,Ok.
+Dialogue: 0,0:04:06.51,0:04:07.24,Tanaka - Sports Challenge,,0,0,0,,Let's do it.
+Dialogue: 0,0:04:07.44,0:04:10.41,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:04:08.38,0:04:12.78,Hamada,,0,0,0,,If we can, in one shot.  If we can do it in one shot, you know?
+Dialogue: 0,0:04:12.98,0:04:14.98,Tanaka - Sports Challenge,,0,0,0,,Here we go.
+Dialogue: 0,0:04:16.09,0:04:16.29,Yamasaki,,0,0,0,,Whoa.{\alpha&HFF&} Whoa,{\alpha&HFF&} whoa.
+Dialogue: 0,0:04:16.29,0:04:16.42,Yamasaki,,0,0,0,,Whoa. Whoa,{\alpha&HFF&} whoa.
+Dialogue: 0,0:04:16.42,0:04:18.45,Yamasaki,,0,0,0,,Whoa. Whoa, whoa.
+Dialogue: 0,0:04:17.62,0:04:19.52,Endo,,0,0,0,,Watch out.
+Dialogue: 0,0:04:18.62,0:04:19.52,Yamasaki,,0,0,0,,He suddenly... whoa.
+Dialogue: 0,0:04:19.52,0:04:20.72,Endo,,0,0,0,,Why are you completely limp?{\alpha&HFF&} What the hell!
+Dialogue: 0,0:04:20.72,0:04:22.66,Endo,,0,0,0,,Why are you completely limp? What the hell!
+Dialogue: 0,0:04:22.79,0:04:25.66,Hamada,,0,0,0,,Didn't you just put on your batting shoes by yourself?
+Dialogue: 0,0:04:25.20,0:04:27.20,Endo,,0,0,0,,Stop it.
+Dialogue: 0,0:04:27.80,0:04:28.80,Hamada,,0,0,0,,Tanaka.
+Dialogue: 0,0:04:28.13,0:04:29.17,Tanaka - Sports Challenge,,0,0,0,,Hold this, ok?
+Dialogue: 0,0:04:29.67,0:04:30.67,Endo,,0,0,0,,Ok, ok.
+Dialogue: 0,0:04:30.43,0:04:31.27,Tanaka - Sports Challenge,,0,0,0,,Ok.
+Dialogue: 0,0:04:31.27,0:04:32.27,Yamasaki,,0,0,0,,Stand him up.
+Dialogue: 0,0:04:31.74,0:04:32.74,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:04:33.20,0:04:36.14,Hamada,,0,0,0,,Stand him up properly.
+Dialogue: 0,0:04:33.60,0:04:35.84,Yamasaki,,0,0,0,,He won't stand at all.
+Dialogue: 0,0:04:34.24,0:04:36.44,Tanaka - Sports Challenge,,0,0,0,,Come on.
+Dialogue: 0,0:04:34.87,0:04:37.74,Endo,,0,0,0,,He's limp.
+Dialogue: 0,0:04:35.84,0:04:39.41,Yamasaki,,0,0,0,,He's completely– geez, he's completely limp.
+Dialogue: 0,0:04:36.44,0:04:39.34,Tanaka - Sports Challenge,,0,0,0,,Argh, come on.
+Dialogue: 0,0:04:37.71,0:04:39.84,Endo,,0,0,0,,Argh, geez.
+Dialogue: 0,0:04:39.41,0:04:42.24,Yamasaki,,0,0,0,,Hold on.
+Dialogue: 0,0:04:39.84,0:04:42.75,Endo,,0,0,0,,Whoa, whoa, come on.
+Dialogue: 0,0:04:42.28,0:04:42.75,Yamasaki,,0,0,0,,Hey!
+Dialogue: 0,0:04:42.75,0:04:45.75,Hamada,,0,0,0,,Stand him up.
+Dialogue: 0,0:04:44.18,0:04:47.21,Yamasaki,,0,0,0,,He won't put anything into his muscles.
+Dialogue: 0,0:04:46.95,0:04:48.95,Hamada,,0,0,0,,Stand up, at least, you know?
+Dialogue: 0,0:04:48.42,0:04:48.95,Tanaka - Sports Challenge,,0,0,0,,Here we go.
+Dialogue: 0,0:04:48.95,0:04:49.95,Tanaka - Sports Challenge,,0,0,0,,Ready and{\alpha&HFF&} go.
+Dialogue: 0,0:04:49.95,0:04:51.56,Tanaka - Sports Challenge,,0,0,0,,Ready and go.
+Dialogue: 0,0:04:51.62,0:04:54.56,Hamada,,0,0,0,,Ow.
+Dialogue: 0,0:04:51.99,0:04:53.19,Endo,,0,0,0,,Whoa, watch out.{\alpha&HFF&} Are you ok?
+Dialogue: 0,0:04:53.19,0:04:55.93,Endo,,0,0,0,,Whoa, watch out. Are you ok?
+Dialogue: 0,0:04:54.12,0:04:55.93,Tanaka - Sports Challenge,,0,0,0,,Hamada.
+Dialogue: 0,0:04:55.13,0:04:55.93,Hamada,,0,0,0,,There it is.
+Dialogue: 0,0:04:56.59,0:04:57.29,Hamada,,0,0,0,,I don't understand{\alpha&HFF&} this situation.
+Dialogue: 0,0:04:57.29,0:05:00.29,Hamada,,0,0,0,,I don't understand this situation.
+Dialogue: 0,0:05:03.37,0:05:04.20,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:05:04.97,0:05:07.80,Hamada,,0,0,0,,Let's just go with this.
+Dialogue: 0,0:05:07.80,0:05:09.59,Endo,,0,0,0,,We're ready.
+Dialogue: 0,0:05:09.04,0:05:09.59,Hamada,,0,0,0,,Ok then.
+Dialogue: 0,0:05:09.61,0:05:12.08,Yamasaki,,0,0,0,,Here it comes.
+Dialogue: 0,0:05:10.51,0:05:12.38,Endo,,0,0,0,,Let's hit this.
+Dialogue: 0,0:05:11.44,0:05:12.44,Tanaka - Sports Challenge,,0,0,0,,Let's hit it.
+Dialogue: 0,0:05:12.08,0:05:13.11,Yamasaki,,0,0,0,,Ok. {\alpha&HFF&}Here it is.
+Dialogue: 0,0:05:13.11,0:05:14.11,Yamasaki,,0,0,0,,Ok. Here it is.
+Dialogue: 0,0:05:12.38,0:05:13.78,Endo,,0,0,0,,Let's hit a 150.{\alpha&HFF&} Here it comes.
+Dialogue: 0,0:05:13.78,0:05:14.78,Endo,,0,0,0,,Let's hit a 150. Here it comes.
+Dialogue: 0,0:05:16.95,0:05:18.75,Hamada,,0,0,0,,Once more.  Let's go once more.
+Dialogue: 0,0:05:17.48,0:05:18.75,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:05:17.48,0:05:18.75,Tanaka - Sports Challenge,,0,0,0,,Whoa, whoa.
+Dialogue: 0,0:05:18.75,0:05:20.72,Endo,,0,0,0,,We're hitting a 150.
+Dialogue: 0,0:05:20.72,0:05:21.99,Endo,,0,0,0,,Ready and
+Dialogue: 0,0:05:21.99,0:05:23.99,Hamada,,0,0,0,,Now!
+Dialogue: 0,0:05:24.96,0:05:27.89,Endo,,0,0,0,,Let's put him down.
+Dialogue: 0,0:05:25.49,0:05:28.62,Yamasaki,,0,0,0,,Right, let's...
+Dialogue: 0,0:05:26.69,0:05:29.52,Hamada,,0,0,0,,It's kind of tough like this.
+Dialogue: 0,0:05:30.73,0:05:32.00,Hamada,,0,0,0,,Let's go to the next one.
+Dialogue: 0,0:05:32.90,0:05:34.90,Yamasaki,,0,0,0,,Don't cut his fingers.
+Dialogue: 0,0:05:33.60,0:05:34.90,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:05:36.43,0:05:39.40,Hamada,,0,0,0,,Make him hold it, in any case.
+Dialogue: 0,0:05:37.77,0:05:40.57,Endo,,0,0,0,,Here we go.
+Dialogue: 0,0:05:38.44,0:05:40.97,Yamasaki,,0,0,0,,Ok, this is done.
+Dialogue: 0,0:05:41.10,0:05:43.97,Endo,,0,0,0,,Like this.  The angle is good.
+Dialogue: 0,0:05:45.84,0:05:47.91,Hamada,,0,0,0,,His wrist got red.
+Dialogue: 0,0:05:47.11,0:05:47.91,Tanaka - Sports Challenge,,0,0,0,,You're right.
+Dialogue: 0,0:05:48.08,0:05:50.91,Hamada,,0,0,0,,That can't be helped, though.
+Dialogue: 0,0:05:49.78,0:05:51.48,Tanaka - Sports Challenge,,0,0,0,,Ok.
+Dialogue: 0,0:05:50.35,0:05:51.48,Endo,,0,0,0,,Yes, that can't be helped.
+Dialogue: 0,0:05:51.92,0:05:57.22,Signs,,0,0,0,,{\fade(100,100)\pos(353.857,386.909)}Sit him on a swivel chair and hit with a long bat
+Dialogue: 0,0:05:52.35,0:05:53.65,Hamada,,0,0,0,,It's secured, right?
+Dialogue: 0,0:05:53.25,0:05:53.65,Tanaka - Sports Challenge,,0,0,0,,Ok.
+Dialogue: 0,0:05:53.65,0:05:54.95,Endo,,0,0,0,,Here we go.
+Dialogue: 0,0:05:55.55,0:05:58.55,Hamada,,0,0,0,,Like I said, I don't understand this situation.
+Dialogue: 0,0:05:59.56,0:06:01.96,Tanaka - Sports Challenge,,0,0,0,,Ok, here we go.
+Dialogue: 0,0:06:00.72,0:06:04.22,Hamada,,0,0,0,,Ok.  Sit down, sit down.
+Dialogue: 0,0:06:02.56,0:06:05.53,Endo,,0,0,0,,Ok, this way, this way.
+Dialogue: 0,0:06:06.23,0:06:08.93,Tanaka - Sports Challenge,,0,0,0,,Argh, geez... geez.
+Dialogue: 0,0:06:08.93,0:06:10.60,Hamada,,0,0,0,,Just pick him up all the way.
+Dialogue: 0,0:06:10.60,0:06:11.77,Yamasaki,,0,0,0,,He's watching, he's watching.
+Dialogue: 0,0:06:11.77,0:06:13.20,Yamasaki,,0,0,0,,He's watching this way. Hurry up.
+Dialogue: 0,0:06:14.91,0:06:15.64,Hamada,,0,0,0,,Oh, yeah.
+Dialogue: 0,0:06:16.24,0:06:18.94,Yamasaki,,0,0,0,,It's really heavy.
+Dialogue: 0,0:06:21.85,0:06:23.94,Yamasaki,,0,0,0,,He's watching, right?
+Dialogue: 0,0:06:21.98,0:06:22.91,Endo,,0,0,0,,OK!
+Dialogue: 0,0:06:22.91,0:06:25.15,Tanaka - Sports Challenge,,0,0,0,,He's really staring.
+Dialogue: 0,0:06:24.05,0:06:27.05,Yamasaki,,0,0,0,,Don't meet his eyes.
+Dialogue: 0,0:06:25.28,0:06:26.45,Tanaka - Sports Challenge,,0,0,0,,That's bad, right?{\alpha&HFF&} Wow, he's really staring.
+Dialogue: 0,0:06:26.45,0:06:28.62,Tanaka - Sports Challenge,,0,0,0,,That's bad, right? Wow, he's really staring.
+Dialogue: 0,0:06:27.99,0:06:30.79,Endo,,0,0,0,,We're good.
+Dialogue: 0,0:06:28.62,0:06:30.79,Tanaka - Sports Challenge,,0,0,0,,Ok, ok.
+Dialogue: 0,0:06:28.75,0:06:30.79,Hamada,,0,0,0,,Should we go ahead?  We're also...
+Dialogue: 0,0:06:31.25,0:06:32.84,Endo,,0,0,0,,I really think this will work.
+Dialogue: 0,0:06:32.05,0:06:33.89,Hamada,,0,0,0,,You think so?
+Dialogue: 0,0:06:32.89,0:06:34.89,Endo,,0,0,0,,Let's get a hit.
+Dialogue: 0,0:06:33.89,0:06:35.89,Hamada,,0,0,0,,The pitch, please.
+Dialogue: 0,0:06:36.06,0:06:37.06,Tanaka - Sports Challenge,,0,0,0,,Here it comes.
+Dialogue: 0,0:06:40.40,0:06:43.33,Yamasaki,,0,0,0,,That was close.
+Dialogue: 0,0:06:40.80,0:06:43.33,Tanaka - Sports Challenge,,0,0,0,,That was close.
+Dialogue: 0,0:06:41.43,0:06:43.33,Endo,,0,0,0,,That was close. Let's go again?
+Dialogue: 0,0:06:42.73,0:06:43.33,Hamada,,0,0,0,,Let's go again.
+Dialogue: 0,0:06:47.64,0:06:49.64,Hamada,,0,0,0,,That was close.
+Dialogue: 0,0:06:48.14,0:06:49.64,Endo,,0,0,0,,It doesn't work.
+Dialogue: 0,0:06:48.87,0:06:49.67,Yamasaki,,0,0,0,,That was close.
+Dialogue: 0,0:06:49.87,0:06:52.38,Endo,,0,0,0,,It doesn't work.  Doesn't work.
+Dialogue: 0,0:06:52.38,0:06:54.85,Hamada,,0,0,0,,It's so long, you'd think it'd work, right?{\alpha&HFF&} But in the first pitch...
+Dialogue: 0,0:06:54.85,0:06:57.35,Hamada,,0,0,0,,It's so long, you'd think it'd work, right? But in the first pitch...
+Dialogue: 0,0:06:56.41,0:06:59.48,Yamasaki,,0,0,0,,It was like a foul tip the first time.
+Dialogue: 0,0:06:57.35,0:07:00.08,Hamada,,0,0,0,,It was like a foul tip, right?
+Dialogue: 0,0:07:00.08,0:07:03.08,Yamasaki,,0,0,0,,Yes?
+Dialogue: 0,0:07:04.66,0:07:08.79,Signs,,0,0,0,,{\fade(100,100)\pos(347.304,401.455)}Matsumoto gets angry and leaves
+Dialogue: 0,0:07:04.96,0:07:05.99,Yamasaki,,0,0,0,,Can he{\alpha&HFF&} walk with that?
+Dialogue: 0,0:07:05.99,0:07:08.96,Yamasaki,,0,0,0,,Can he walk with that?
+Dialogue: 0,0:07:09.29,0:07:11.26,Tanaka - Sports Challenge,,0,0,0,,Why is he angry?
+Dialogue: 0,0:07:10.43,0:07:13.00,Yamasaki,,0,0,0,,He was angry, right?
+Dialogue: 0,0:07:11.26,0:07:14.26,Tanaka - Sports Challenge,,0,0,0,,Yes, he is angry.
+Dialogue: 0,0:07:12.00,0:07:14.06,Endo,,0,0,0,,His face looked angry.
+Dialogue: 0,0:07:13.00,0:07:16.00,Hamada,,0,0,0,,He was glaring at you, right?
+Dialogue: 0,0:07:14.06,0:07:16.06,Endo,,0,0,0,,He glared at me.  Why?
+Dialogue: 0,0:07:16.63,0:07:19.40,Hamada,,0,0,0,,Let's see him.
+Dialogue: 0,0:07:20.20,0:07:25.21,Signs,,0,0,0,,{\fade(100,100)\pos(342.798,397.273)}The group go to Matsumoto's dressing room to apologize
+Dialogue: 0,0:07:20.34,0:07:23.07,Yamasaki,,0,0,0,,So he got angry again.
+Dialogue: 0,0:07:21.37,0:07:24.41,Endo,,0,0,0,,I know, right?
+Dialogue: 0,0:07:23.07,0:07:25.41,Hamada,,0,0,0,,Come on, we don't know if he's angry until we see him.
+Dialogue: 0,0:07:24.41,0:07:27.31,Endo,,0,0,0,,Well, yes, that's true.
+Dialogue: 0,0:07:25.74,0:07:27.74,Hamada,,0,0,0,,And you're already saying he's angry at us.  (??????????????_
+Dialogue: 0,0:07:27.31,0:07:29.31,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:07:31.38,0:07:34.38,Endo,,0,0,0,,Excuse us.
+Dialogue: 0,0:07:32.25,0:07:35.19,Matsumoto,,0,0,0,,...climbed, and ate one.
+Dialogue: 0,0:07:35.19,0:07:36.45,Matsumoto,,0,0,0,,Yeah, {\alpha&HFF&}this persimmon tastes good.
+Dialogue: 0,0:07:36.45,0:07:38.89,Matsumoto,,0,0,0,,Yeah, this persimmon tastes good.
+Dialogue: 0,0:07:38.06,0:07:42.69,Signs,,0,0,0,,{\fade(100,100)\pos(344.027,360)}Matsumoto was telling a bedtime story to a child
+Dialogue: 0,0:07:38.89,0:07:41.92,Matsumoto,,0,0,0,,Please pick one for me, too, Mr. Monkey.*
+Dialogue: 0,0:07:38.89,0:07:43.92,Translator's Note,,0,0,0,,*Note: Matsumoto is reading The Crab and the Monkey, a Japanese folktale.
+Dialogue: 0,0:07:40.96,0:07:43.33,Hamada,,0,0,0,,Who's kid is this?
+Dialogue: 0,0:07:42.13,0:07:44.99,Endo,,0,0,0,,I don't know.
+Dialogue: 0,0:07:43.33,0:07:46.29,Hamada,,0,0,0,,He's playing a grandpa.
+Dialogue: 0,0:07:45.36,0:07:48.33,Matsumoto,,0,0,0,,The monkey...
+Dialogue: 0,0:07:53.10,0:07:54.87,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:07:54.87,0:07:56.87,Hamada,,0,0,0,,Among the things we did,{\alpha&HFF&} we almost{\alpha&HFF&} succeeded{\alpha&HFF&} with the second one we did, so...
+Dialogue: 0,0:07:56.87,0:07:58.31,Hamada,,0,0,0,,Among the things we did, we almost{\alpha&HFF&} succeeded{\alpha&HFF&} with the second one we did, so...
+Dialogue: 0,0:07:58.31,0:07:59.54,Hamada,,0,0,0,,Among the things we did, we almost succeeded{\alpha&HFF&} with the second one we did, so...
+Dialogue: 0,0:07:59.54,0:08:02.58,Hamada,,0,0,0,,Among the things we did, we almost succeeded with the second one we did, so..
+Dialogue: 0,0:08:05.18,0:08:08.22,Matsumoto,,0,0,0,,What part of that can you call a success?
+Dialogue: 0,0:08:08.22,0:08:08.89,Hamada,,0,0,0,,Well,{\alpha&HFF&} it{\alpha&HFF&} sort of
+Dialogue: 0,0:08:08.89,0:08:09.72,Hamada,,0,0,0,,Well, it{\alpha&HFF&} sort of
+Dialogue: 0,0:08:09.72,0:08:11.32,Hamada,,0,0,0,,Well, it sort of
+Dialogue: 0,0:08:10.02,0:08:11.32,Tanaka - Sports Challenge,,0,0,0,,A foul tip.
+Dialogue: 0,0:08:10.09,0:08:11.32,Endo,,0,0,0,,Yes, of a 150 km/h pitch.
+Dialogue: 0,0:08:11.32,0:08:16.76,Matsumoto,,0,0,0,,Let me tell you, I had that thing taken off and peeled off and taken off and peeled off. (?????????????????????????????))__
+Dialogue: 0,0:08:16.76,0:08:19.36,Matsumoto,,0,0,0,,My hand stings.
+Dialogue: 0,0:08:19.36,0:08:23.60,Matsumoto,,0,0,0,,And I was cut by the box cutter by you.
+Dialogue: 0,0:08:22.37,0:08:23.37,Endo,,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:23.60,0:08:27.80,Matsumoto,,0,0,0,,What do you think this is?
+Dialogue: 0,0:08:27.80,0:08:30.47,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:08:30.47,0:08:35.35,Matsumoto,,0,0,0,,Think over what you've been doing.
+Dialogue: 0,0:08:35.35,0:08:40.15,Matsumoto,,0,0,0,,If I were to make an analogy of this,
+Dialogue: 0,0:08:40.28,0:08:43.28,Matsumoto,,0,0,0,,..., seriously.
+Dialogue: 0,0:08:47.52,0:08:49.89,Matsumoto,,0,0,0,,{\fs38}I want to hit a 150 km/h.
+Dialogue: 0,0:08:50.26,0:08:53.19,Hamada,,0,0,0,,The next one will be all right.
+Dialogue: 0,0:08:52.40,0:08:55.13,Yamasaki,,0,0,0,,I'm sorry.
+Dialogue: 0,0:08:55.13,0:08:58.60,Matsumoto,,0,0,0,,You piss me off, especially.
+Dialogue: 0,0:08:57.23,0:08:58.60,Yamasaki,,0,0,0,,Huh?
+Dialogue: 0,0:08:58.60,0:08:59.90,Matsumoto,,0,0,0,,You.
+Dialogue: 0,0:08:59.24,0:09:02.20,Yamasaki,,0,0,0,,Me?
+Dialogue: 0,0:08:59.90,0:09:02.90,Matsumoto,,0,0,0,,Being lazy and all.
+Dialogue: 0,0:09:03.74,0:09:07.71,Hamada,,0,0,0,,I'll tell him.  Don't worry.
+Dialogue: 0,0:09:06.94,0:09:09.41,Yamasaki,,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:07.71,0:09:08.81,Hamada,,0,0,0,,Let's go.{\alpha&HFF&} We'll be waiting.
+Dialogue: 0,0:09:08.81,0:09:11.75,Hamada,,0,0,0,,Let's go. We'll be waiting.
+Dialogue: 0,0:09:08.28,0:09:10.28,Endo,,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:10.38,0:09:11.75,Endo,,0,0,0,,Good night.
+Dialogue: 0,0:09:10.88,0:09:11.75,Tanaka - Sports Challenge,,0,0,0,,I'm sorry.
+Dialogue: 0,0:09:11.75,0:09:15.75,Signs,,0,0,0,,{\pos(360,267.818)\t(0,5874,\fscx101.171\fscy120)}Matsumoto's 2nd Attempt!!
+Dialogue: 0,0:09:12.72,0:09:15.75,Default,,0,0,0,,Matsumoto renews his focus for his second attempt.
+Dialogue: 0,0:09:15.99,0:09:18.19,Hamada,,0,0,0,,Let's do the next one.
+Dialogue: 0,0:09:18.19,0:09:22.59,Hamada,,0,0,0,,We have that, right? A new one? The one without duct tape?
+Dialogue: 0,0:09:19.42,0:09:22.59,Tanaka - Sports Challenge,,0,0,0,,We're ready.  It doesn't hurt as much.
+Dialogue: 0,0:09:22.99,0:09:23.99,Hamada,,0,0,0,,Oh.{\alpha&HFF&} He's showing more effort.
+Dialogue: 0,0:09:23.99,0:09:26.99,Hamada,,0,0,0,,Oh. He's showing a little effort.
+Dialogue: 0,0:09:25.26,0:09:28.30,Endo,,0,0,0,,He's running over here.
+Dialogue: 0,0:09:29.43,0:09:31.70,Matsumoto,,0,0,0,,I heard from the staff.{\alpha&HFF&} The box cutter was actually extended, it seems.
+Dialogue: 0,0:09:31.70,0:09:34.67,Matsumoto,,0,0,0,,I heard from the staff. The box cutter was actually extended, it seems.  (?????????????????????)
+Dialogue: 0,0:09:34.94,0:09:36.37,Matsumoto,,0,0,0,,The razor.
+Dialogue: 0,0:09:36.37,0:09:39.27,Hamada,,0,0,0,,That's not true, right?
+Dialogue: 0,0:09:37.87,0:09:40.74,Yamasaki,,0,0,0,,Really?
+Dialogue: 0,0:09:38.28,0:09:40.74,Endo,,0,0,0,,Of course not. Why in the world would I do that?
+Dialogue: 0,0:09:39.27,0:09:40.74,Hamada,,0,0,0,,That's true.
+Dialogue: 0,0:09:41.04,0:09:43.48,Matsumoto,,0,0,0,,I want to hit a 150 km/h pitch{\alpha&HFF&}, all right?
+Dialogue: 0,0:09:43.48,0:09:44.38,Matsumoto,,0,0,0,,I want to hit a 150 km/h pitch, all right?
+Dialogue: 0,0:09:43.88,0:09:44.88,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:09:44.38,0:09:46.75,Matsumoto,,0,0,0,,I don't want my hand cut with duct tape.
+Dialogue: 0,0:09:46.75,0:09:47.32,Matsumoto,,0,0,0,,It's clear{\alpha&HFF&} what I want done to me{\alpha&HFF&} and what I want to do{\alpha&HFF&}, it's clear{\alpha&HFF&}, also what I don't want{\alpha&HFF&}, it's clear, right?
+Dialogue: 0,0:09:47.32,0:09:48.12,Matsumoto,,0,0,0,,It's clear what I want done to me{\alpha&HFF&} and what I want to do{\alpha&HFF&}, it's clear{\alpha&HFF&}, also what I don't want{\alpha&HFF&}, it's clear, right?
+Dialogue: 0,0:09:48.12,0:09:48.82,Matsumoto,,0,0,0,,It's clear what I want done to me and what I want to do{\alpha&HFF&}, it's clear{\alpha&HFF&}, also what I don't want{\alpha&HFF&}, it's clear, right?
+Dialogue: 0,0:09:48.82,0:09:49.52,Matsumoto,,0,0,0,,It's clear what I want done to me and what I want to do, it's clear{\alpha&HFF&}, also what I don't want{\alpha&HFF&}, it's clear, right?
+Dialogue: 0,0:09:49.52,0:09:50.09,Matsumoto,,0,0,0,,It's clear what I want done to me and what I want to do, it's clear, also what I don't want{\alpha&HFF&}, it's clear, right?
+Dialogue: 0,0:09:50.09,0:09:53.09,Matsumoto,,0,0,0,,It's clear what I want done to me and what I want to do, it's clear, also what I don't want, it's clear, right?
+Dialogue: 0,0:09:51.02,0:09:53.10,Hamada,,0,0,0,,Yeah, that's true.
+Dialogue: 0,0:09:53.86,0:09:56.26,Matsumoto,,0,0,0,,You get it?
+Dialogue: 0,0:09:54.76,0:09:55.76,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:09:56.26,0:09:59.23,Matsumoto,,0,0,0,,All of you.
+Dialogue: 0,0:09:57.69,0:09:58.60,Yamasaki,,0,0,0,,Yes.{\alpha&HFF&} We'll give it our best.
+Dialogue: 0,0:09:58.60,0:10:00.60,Yamasaki,,0,0,0,,Yes. We'll give it our best.
+Dialogue: 0,0:09:59.20,0:10:01.60,Endo,,0,0,0,,We'll give it our best.
+Dialogue: 0,0:09:59.66,0:10:01.60,Tanaka - Sports Challenge,,0,0,0,,We'll give it our best.
+Dialogue: 0,0:10:00.10,0:10:01.60,Hamada,,0,0,0,,Let's go.
+Dialogue: 0,0:10:00.60,0:10:01.60,Yamasaki,,0,0,0,,Yes, sir.
+Dialogue: 0,0:10:01.60,0:10:03.67,Matsumoto,,0,0,0,,Let's go.
+Dialogue: 0,0:10:02.67,0:10:03.67,Tanaka - Sports Challenge,,0,0,0,,Ok.
+Dialogue: 0,0:10:03.67,0:10:06.40,Tanaka - Sports Challenge,,0,0,0,,Ok, please hold this.
+Dialogue: 0,0:10:06.40,0:10:08.94,Yamasaki,,0,0,0,,This, it'll fly away, so...
+Dialogue: 0,0:10:07.80,0:10:12.11,Signs,,0,0,0,,{\fade(100,100)\pos(358.771,394.909)}Pop a huge balloon and hit the ball with the falling bat
+Dialogue: 0,0:10:08.94,0:10:11.78,Hamada,,0,0,0,,Make sure, before it flies away.
+Dialogue: 0,0:10:10.44,0:10:13.18,Endo,,0,0,0,,Let's hit a 150.
+Dialogue: 0,0:10:11.78,0:10:14.74,Yamasaki,,0,0,0,,He's watching Hamada.  Hurry.
+Dialogue: 0,0:10:13.18,0:10:16.11,Hamada,,0,0,0,,Why am I standing here?  (??????????????????)
+Dialogue: 0,0:10:15.41,0:10:17.41,Tanaka - Sports Challenge,,0,0,0,,I'm going to tie these together.
+Dialogue: 0,0:10:17.48,0:10:18.48,Hamada,,0,0,0,,So it's like this.
+Dialogue: 0,0:10:19.02,0:10:21.89,Hamada,,0,0,0,,Ok.
+Dialogue: 0,0:10:19.65,0:10:21.89,Endo,,0,0,0,,Yes, it's standing up on its own.
+Dialogue: 0,0:10:20.72,0:10:21.89,Tanaka - Sports Challenge,,0,0,0,,It's good, it's good.
+Dialogue: 0,0:10:21.89,0:10:24.32,Hamada,,0,0,0,,The pitch, please.
+Dialogue: 0,0:10:22.89,0:10:24.32,Yamasaki,,0,0,0,,Please.
+Dialogue: 0,0:10:23.45,0:10:24.32,Endo,,0,0,0,,Please.
+Dialogue: 0,0:10:24.86,0:10:25.72,Endo,,0,0,0,,It's gonna work.{\alpha&HFF&} It's gonna work.
+Dialogue: 0,0:10:25.72,0:10:26.52,Endo,,0,0,0,,It's gonna work. It's gonna work.
+Dialogue: 0,0:10:33.30,0:10:36.00,Endo,,0,0,0,,If this doesn't work, then this just isn't doable.
+Dialogue: 0,0:10:36.00,0:10:38.70,Yamasaki,,0,0,0,,That should've worked, right?
+Dialogue: 0,0:10:37.70,0:10:40.43,Tanaka - Sports Challenge,,0,0,0,,It was definitely a good idea.
+Dialogue: 0,0:10:41.20,0:10:42.61,Hamada,,0,0,0,,Let's go to the next one.{\alpha&HFF&} Let's not pause at all and just go to the next one.
+Dialogue: 0,0:10:42.61,0:10:45.11,Hamada,,0,0,0,,Let's go to the next one. Let's not pause at all and just go to the next one.
+Dialogue: 0,0:10:45.11,0:10:48.01,Tanaka - Sports Challenge,,0,0,0,,This one is good.
+Dialogue: 0,0:10:50.75,0:10:53.71,Hamada,,0,0,0,,Yamazaki, no, no.
+Dialogue: 0,0:10:53.72,0:10:56.65,Hamada,,0,0,0,,Yamazaki, you have to stand him up.
+Dialogue: 0,0:10:55.52,0:10:57.42,Endo,,0,0,0,,First, first we have to put him on top.
+Dialogue: 0,0:10:56.65,0:10:59.62,Hamada,,0,0,0,,We have to put him in that.
+Dialogue: 0,0:10:57.55,0:10:58.25,Tanaka - Sports Challenge,,0,0,0,,We have to put him in that.
+Dialogue: 0,0:10:58.26,0:10:59.22,Tanaka - Sports Challenge,,0,0,0,,Here we go. Yes.
+Dialogue: 0,0:10:59.26,0:11:04.06,Signs,,0,0,0,,{\fade(100,100)\pos(382.526,382.545)}Put him in a shopping cart and hit with the power of a sling
+Dialogue: 0,0:10:59.22,0:11:02.22,Yamasaki,,0,0,0,,Here we go.
+Dialogue: 0,0:10:59.62,0:11:02.62,Hamada,,0,0,0,,Yamasaki, hold him.
+Dialogue: 0,0:11:04.63,0:11:07.36,Yamasaki,,0,0,0,,The bat, the bat.
+Dialogue: 0,0:11:07.36,0:11:08.43,Yamasaki,,0,0,0,,Is that fine?{\alpha&HFF&} Just like that?
+Dialogue: 0,0:11:08.43,0:11:11.43,Yamasaki,,0,0,0,,Is that fine? Just like that?
+Dialogue: 0,0:11:09.30,0:11:11.30,Endo,,0,0,0,,That's fine, that's fine.
+Dialogue: 0,0:11:10.30,0:11:11.60,Tanaka - Sports Challenge,,0,0,0,,That's fine, right?
+Dialogue: 0,0:11:12.17,0:11:14.34,Endo,,0,0,0,,This will work, I'm sure.
+Dialogue: 0,0:11:13.34,0:11:14.34,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:11:14.44,0:11:16.67,Hamada,,0,0,0,,The pitch, please.
+Dialogue: 0,0:11:15.67,0:11:16.67,Tanaka - Sports Challenge,,0,0,0,,Yes.
+Dialogue: 0,0:11:20.34,0:11:21.84,Endo,,0,0,0,,Go.
+Dialogue: 0,0:11:20.98,0:11:22.98,Yamasaki,,0,0,0,,All right, go.
+Dialogue: 0,0:11:22.88,0:11:23.88,Endo,,0,0,0,,Ah, that was close.
+Dialogue: 0,0:11:23.58,0:11:26.38,Yamasaki,,0,0,0,,Watch out, watch out.
+Dialogue: 0,0:11:26.62,0:11:28.12,Endo,,0,0,0,,Go.
+Dialogue: 0,0:11:27.28,0:11:29.28,Yamasaki,,0,0,0,,All right, go.
+Dialogue: 0,0:11:29.16,0:11:30.16,Endo,,0,0,0,,Ah, that was close.
+Dialogue: 0,0:11:29.85,0:11:32.69,Yamasaki,,0,0,0,,Watch out, watch out.
+Dialogue: 0,0:11:39.86,0:11:42.43,Endo,,0,0,0,,Yamazaki.
+Dialogue: 0,0:11:40.86,0:11:42.43,Hamada,,0,0,0,,Yamazaki.
+Dialogue: 0,0:11:42.43,0:11:46.77,Signs,,0,0,0,,{\fade(100,100)\pos(354.266,403.091)}Matsumoto gets angry and leaves again
+Dialogue: 0,0:11:45.94,0:11:47.20,Endo,,0,0,0,,Are you all right?
+Dialogue: 0,0:11:48.04,0:11:51.84,Signs,,0,0,0,,{\fade(100,100)\pos(352.628,407.455)}The group go to the dressing room to apologize again
+Dialogue: 0,0:11:47.87,0:11:50.51,Hamada,,0,0,0,,The timing was a little bit off.{\alpha&HFF&} If we let go at the right timing, that would definitely hit, you know.
+Dialogue: 0,0:11:50.51,0:11:54.24,Hamada,,0,0,0,,The timing was a little bit off. If we let go at the right time, that would definitely hit, you know.
+Dialogue: 0,0:11:54.24,0:11:57.21,Hamada,,0,0,0,,And then you said "Watch out" or whatever, making no sense,{\alpha&HFF&} so he'll also just think, "Oh, I better watch out."
+Dialogue: 0,0:11:57.21,0:11:59.78,Hamada,,0,0,0,,And then you said "Watch out" or whatever, making no sense, so he'll also just think, "Oh, I better watch out."
+Dialogue: 0,0:11:58.88,0:12:03.19,Endo,,0,0,0,,He'll think that.
+Dialogue: 0,0:11:59.78,0:12:01.62,Hamada,,0,0,0,,Right?{\alpha&HFF&} Realize that.{\alpha&HFF&} Right?
+Dialogue: 0,0:12:01.62,0:12:03.89,Hamada,,0,0,0,,Right? Realize that.{\alpha&HFF&} Right?
+Dialogue: 0,0:12:03.89,0:12:06.99,Hamada,,0,0,0,,Right? Realize that. Right?
+Dialogue: 0,0:12:03.19,0:12:07.49,Yamasaki,,0,0,0,,I'm sorry.  I'm sorry.
+Dialogue: 0,0:12:05.72,0:12:07.72,Endo,,0,0,0,,Anyway, let's apologize.
+Dialogue: 0,0:12:08.59,0:12:11.56,Endo,,0,0,0,,Excuse us.
+Dialogue: 0,0:12:12.06,0:12:15.07,Signs,,0,0,0,,{\fade(100,0)\pos(358.362,404.545)}Matsumoto was sorting chicks
+Dialogue: 0,0:12:16.57,0:12:21.74,Hamada,,0,0,0,,Cocorico's timing was a little... right?{\alpha&HFF&} Since the ball is fast, letting the cart go was late.
+Dialogue: 0,0:12:20.57,0:12:22.74,Tanaka - Sports Challenge,,0,0,0,,Yes, it was a little.
+Dialogue: 0,0:12:21.74,0:12:24.51,Hamada,,0,0,0,,Cocorico's timing was a little... right? Since the ball is fast, they let go of the cart too late.
+Dialogue: 0,0:12:25.51,0:12:30.34,Matsumoto,,0,0,0,,What the hell was all of that?
+Dialogue: 0,0:12:37.79,0:12:40.45,Matsumoto,,0,0,0,,Who says something like that?  (?????????????????????????)
+Dialogue: 0,0:12:43.13,0:12:44.63,Matsumoto,,0,0,0,,Huh?
+Dialogue: 0,0:12:45.20,0:12:48.20,Hamada,,0,0,0,,No, I don't think it's anything like that.
+Dialogue: 0,0:12:48.47,0:12:52.27,Matsumoto,,0,0,0,,That, sling or whatever{\alpha&HFF&}, why would you think of using that?
+Dialogue: 0,0:12:52.27,0:12:55.54,Matsumoto,,0,0,0,,That, sling or whatever, why would you think of using that?
+Dialogue: 0,0:12:55.77,0:12:56.14,Matsumoto,,0,0,0,,"Mattsun{\alpha&HFF&}, let's go to Yoshimoto* together," you said.
+Dialogue: 0,0:12:56.14,0:13:00.08,Matsumoto,,0,0,0,,"Mattsun, let's go to Yoshimoto* together," you said.
+Dialogue: 0,0:12:56.14,0:13:00.08,Translator's Note,,0,0,0,,*Note: Yoshimoto is the agency that represents Downtown.
+Dialogue: 0,0:13:00.14,0:13:01.91,Matsumoto,,0,0,0,,Your duo partner you entered Yoshimoto with{\alpha&HFF&} was put onto a shopping cart
+Dialogue: 0,0:13:01.91,0:13:04.98,Matsumoto,,0,0,0,,Your duo partner you entered Yoshimoto with was put onto a shopping cart
+Dialogue: 0,0:13:04.98,0:13:09.22,Matsumoto,,0,0,0,,And by the time you realized, he was being pulled by a sling
+Dialogue: 0,0:13:09.29,0:13:12.26,Matsumoto,,0,0,0,,What were you feeling when you saw such a sight?
+Dialogue: 0,0:13:12.26,0:13:13.76,Hamada,,0,0,0,,You're right.
+Dialogue: 0,0:13:14.79,0:13:15.93,Matsumoto,,0,0,0,,And you.{\alpha&HFF&} A person you've been following the whole time, watching him on TV
+Dialogue: 0,0:13:15.93,0:13:19.70,Matsumoto,,0,0,0,,And you. A person you've been following the whole time, watching him on TV
+Dialogue: 0,0:13:19.70,0:13:22.47,Matsumoto,,0,0,0,,You finally are able to work with him on TV.{\alpha&HFF&} And before you know it
+Dialogue: 0,0:13:22.47,0:13:24.70,Matsumoto,,0,0,0,,You finally are able to work with him on TV. And before you know it
+Dialogue: 0,0:13:24.70,0:13:27.34,Matsumoto,,0,0,0,,Some junior that crawled out from a rock{\alpha&HFF&} cuts his hand a bit.
+Dialogue: 0,0:13:27.34,0:13:30.00,Matsumoto,,0,0,0,,Some junior that crawled out from a rock cuts his hand a bit.
+Dialogue: 0,0:13:30.44,0:13:32.94,Matsumoto,,0,0,0,,He's being put in a sorry state.
+Dialogue: 0,0:13:39.55,0:13:42.35,Hamada,,0,0,0,,Sorry, sorry.  We were wrong.
+Dialogue: 0,0:13:40.98,0:13:42.98,Yamasaki,,0,0,0,,I'm sorry.
+Dialogue: 0,0:13:41.58,0:13:43.58,Endo,,0,0,0,,I'm sorry.
+Dialogue: 0,0:13:43.35,0:13:46.32,Hamada,,0,0,0,,I'll tell them, too.
+Dialogue: 0,0:13:47.19,0:13:48.46,Hamada,,0,0,0,,We'll be waiting for you.
+Dialogue: 0,0:13:48.46,0:13:52.46,Signs,,0,0,0,,{\pos(360,267.818)\t(0,5874,\fscx101.171\fscy120)}Matsumoto's 3rd Attempt!!
+Dialogue: 0,0:13:49.23,0:13:52.46,Default,,0,0,0,,Matsumoto, with an indomitable fighting spirit, goes for his third attempt.
+Dialogue: 0,0:13:54.96,0:13:56.96,Matsumoto,,0,0,0,,Hey.
+Dialogue: 0,0:13:56.63,0:13:58.63,Endo,,0,0,0,,Hello.
+Dialogue: 0,0:13:59.07,0:14:01.07,Hamada,,0,0,0,,Let's look alive and do this.
+Dialogue: 0,0:14:01.24,0:14:01.50,Matsumoto,,0,0,0,,Sorry{\alpha&HFF&} about before.
+Dialogue: 0,0:14:01.50,0:14:04.50,Matsumoto,,0,0,0,,Sorry about before.
+Dialogue: 0,0:14:02.51,0:14:04.74,Hamada,,0,0,0,,No, no. I'm fine.
+Dialogue: 0,0:14:04.74,0:14:05.94,Matsumoto,,0,0,0,,Really{\alpha&HFF&}, let's do this without getting any injuries.
+Dialogue: 0,0:14:05.94,0:14:07.34,Matsumoto,,0,0,0,,Really, let's do this without getting any injuries.
+Dialogue: 0,0:14:06.71,0:14:07.34,Hamada,,0,0,0,,OK.
+Dialogue: 0,0:14:07.34,0:14:08.98,Matsumoto,,0,0,0,,Let's go.
+Dialogue: 0,0:14:08.98,0:14:11.95,Matsumoto,,0,0,0,,Ok, let's do it.
+Dialogue: 0,0:14:10.31,0:14:11.95,Endo,,0,0,0,,Ok, let's go.
+Dialogue: 0,0:14:10.58,0:14:11.95,Tanaka - Sports Challenge,,0,0,0,,Ok, let's get ready.
+Dialogue: 0,0:14:13.55,0:14:15.39,Endo,,0,0,0,,Ok, ok.
+Dialogue: 0,0:14:14.88,0:14:16.89,Hamada,,0,0,0,,Ok, let's go.
+Dialogue: 0,0:14:15.39,0:14:16.89,Endo,,0,0,0,,This way, this way.
+Dialogue: 0,0:14:16.39,0:14:16.89,Tanaka - Sports Challenge,,0,0,0,,Ok, ok.
+Dialogue: 0,0:14:20.49,0:14:21.46,Hamada,,0,0,0,,Hey.{\alpha&HFF&} Look.{\alpha&HFF&} He's standing.
+Dialogue: 0,0:14:21.06,0:14:23.66,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:14:21.46,0:14:22.53,Hamada,,0,0,0,,Hey. Look.{\alpha&HFF&} He's standing.
+Dialogue: 0,0:14:22.53,0:14:25.53,Hamada,,0,0,0,,Hey. Look. He's standing.
+Dialogue: 0,0:14:23.66,0:14:23.83,Endo,,0,0,0,,Oh,{\alpha&HFF&} whoa.
+Dialogue: 0,0:14:23.83,0:14:26.23,Endo,,0,0,0,,Oh, whoa.
+Dialogue: 0,0:14:26.23,0:14:27.76,Endo,,0,0,0,,He's not upset anymore.
+Dialogue: 0,0:14:27.76,0:14:28.43,Hamada,,0,0,0,,When the professionals come in,{\alpha&HFF&} he behaves.
+Dialogue: 0,0:14:28.43,0:14:31.60,Hamada,,0,0,0,,When the professionals come in, he behaves.
+Dialogue: 0,0:14:30.77,0:14:32.90,Tanaka - Sports Challenge,,0,0,0,,He behaves when the professionals come in.
+Dialogue: 0,0:14:32.94,0:14:35.94,Hamada,,0,0,0,,Just the bat's left.
+Dialogue: 0,0:14:33.40,0:14:36.40,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:14:34.34,0:14:37.27,Yamasaki,,0,0,0,,All right.
+Dialogue: 0,0:14:36.01,0:14:38.44,Hamada,,0,0,0,,This will definitely work, wouldn't you say?
+Dialogue: 0,0:14:37.27,0:14:40.24,Yamasaki,,0,0,0,,This will work.
+Dialogue: 0,0:14:38.44,0:14:41.01,Endo,,0,0,0,,This is done.
+Dialogue: 0,0:14:38.84,0:14:43.65,Signs,,0,0,0,,{\fade(100,100)\pos(358.771,392)}Use a spinning machine and hit the ball with the centrifugal force
+Dialogue: 0,0:14:41.01,0:14:43.51,Endo,,0,0,0,,The bat's good.
+Dialogue: 0,0:14:43.98,0:14:45.32,Endo,,0,0,0,,Firmly, firmly.
+Dialogue: 0,0:14:44.51,0:14:45.32,Hamada,,0,0,0,,Firmly, firmly.
+Dialogue: 0,0:14:45.38,0:14:46.82,Hamada,,0,0,0,,Ok, get ready.
+Dialogue: 0,0:14:46.22,0:14:47.72,Tanaka - Sports Challenge,,0,0,0,,Ok.
+Dialogue: 0,0:14:46.82,0:14:48.28,Hamada,,0,0,0,,Let's go.
+Dialogue: 0,0:14:48.28,0:14:51.25,Hamada,,0,0,0,,Ok.
+Dialogue: 0,0:14:49.85,0:14:52.35,Endo,,0,0,0,,Here we go.
+Dialogue: 0,0:14:51.59,0:14:52.76,Yamasaki,,0,0,0,,How many times should we turn him?
+Dialogue: 0,0:14:52.76,0:14:54.19,Yamasaki,,0,0,0,,1...
+Dialogue: 0,0:14:53.46,0:14:54.46,Hamada,,0,0,0,,15.
+Dialogue: 0,0:14:54.19,0:14:55.23,Yamasaki,,0,0,0,,15.
+Dialogue: 0,0:14:55.23,0:14:56.06,Yamasaki,,0,0,0,,2...
+Dialogue: 0,0:14:56.89,0:14:58.83,Hamada,,0,0,0,,Ok, the last time.
+Dialogue: 0,0:14:58.83,0:15:01.33,Hamada,,0,0,0,,Ok, ok.
+Dialogue: 0,0:14:58.83,0:15:02.03,Endo,,0,0,0,,Let's hit it.  Let's hit it.
+Dialogue: 0,0:15:01.33,0:15:02.03,Hamada,,0,0,0,,Ok, let's go. {\alpha&HFF&}Then,
+Dialogue: 0,0:15:02.03,0:15:03.20,Hamada,,0,0,0,,Ok, let's go. Then,
+Dialogue: 0,0:15:02.03,0:15:04.47,Endo,,0,0,0,,Here we go.
+Dialogue: 0,0:15:03.20,0:15:05.20,Hamada,,0,0,0,,Let him go.  The pitch, please!
+Dialogue: 0,0:15:04.47,0:15:06.47,Endo,,0,0,0,,Please!
+Dialogue: 0,0:15:05.84,0:15:08.70,Yamasaki,,0,0,0,,All right! Hit it, hit it!
+Dialogue: 0,0:15:07.00,0:15:10.07,Endo,,0,0,0,,You can hit it!
+Dialogue: 0,0:15:12.11,0:15:15.01,Hamada,,0,0,0,,Another one.
+Dialogue: 0,0:15:13.18,0:15:16.01,Endo,,0,0,0,,Here it comes.
+Dialogue: 0,0:15:17.15,0:15:20.08,Endo,,0,0,0,,Let's go again.
+Dialogue: 0,0:15:18.92,0:15:24.62,Yamasaki,,0,0,0,,We can go again. We can go again.
+Dialogue: 0,0:15:23.45,0:15:24.82,Endo,,0,0,0,,Now's the chance.
+Dialogue: 0,0:15:32.26,0:15:36.57,Signs,,0,0,0,,{\fade(100,100)\pos(364.505,400.727)}Matsumoto gets angry and leaves, yet again
+Dialogue: 0,0:15:32.90,0:15:34.93,Endo,,0,0,0,,Huh?
+Dialogue: 0,0:15:34.93,0:15:37.93,Endo,,0,0,0,,His body language makes him look really sad.
+Dialogue: 0,0:15:36.57,0:15:39.57,Yamasaki,,0,0,0,,He's really down.
+Dialogue: 0,0:15:37.97,0:15:41.00,Hamada,,0,0,0,,So it becomes like {\i1}that{\i0} when you increase it by five turns.
+Dialogue: 0,0:15:41.00,0:15:43.50,Endo,,0,0,0,,Since we could've kept it to ten turns, honestly.
+Dialogue: 0,0:15:45.14,0:15:48.48,Signs,,0,0,0,,{\fade(100,100)\pos(364.505,400.727)}The group goes to the dressing room to apologize, yet again
+Dialogue: 0,0:15:46.54,0:15:47.81,Yamasaki,,0,0,0,,Excuse us.
+Dialogue: 0,0:15:47.14,0:15:49.14,Endo,,0,0,0,,Excuse us.
+Dialogue: 0,0:15:47.81,0:15:49.81,Tanaka - Sports Challenge,,0,0,0,,Excuse us.
+Dialogue: 0,0:15:53.75,0:15:58.09,Signs,,0,0,0,,{\fade(100,100)\pos(359.59,367.272)}Matsumoto was eavesdropping on the gasps that can be heard from the next room
+Dialogue: 0,0:15:59.59,0:16:02.59,Hamada,,0,0,0,,This is the dressing room, right?
+Dialogue: 0,0:16:04.86,0:16:07.69,Matsumoto,,0,0,0,,What do you want?
+Dialogue: 0,0:16:17.51,0:16:20.51,Matsumoto,,0,0,0,,I thought I was going to die.
+Dialogue: 0,0:16:33.16,0:16:36.12,Matsumoto,,0,0,0,,Just one last chance.
+Dialogue: 0,0:16:36.23,0:16:37.16,Hamada,,0,0,0,,Seriously,{\alpha&HFF&} we were probably thinking about the timing too much.
+Dialogue: 0,0:16:37.16,0:16:39.73,Hamada,,0,0,0,,Seriously, we were probably thinking about the timing too much.
+Dialogue: 0,0:16:39.73,0:16:42.60,Hamada,,0,0,0,,We should probably return to the basics again.
+Dialogue: 0,0:16:42.60,0:16:45.47,Hamada,,0,0,0,,{\fs40}We should probably return to the basics again.
+Dialogue: 0,0:16:47.20,0:16:49.81,Hamada,,0,0,0,,{\fs48}Let's give it our best.
+Dialogue: 0,0:16:49.81,0:16:52.81,Hamada,,0,0,0,,{\fs48}We'll be waiting for you.
+Dialogue: 0,0:16:53.31,0:16:57.31,Signs,,0,0,0,,{\pos(360,267.818)\t(0,5874,\fscx101.171\fscy120)}Matsumoto's 4th Attempt!!
+Dialogue: 0,0:16:53.74,0:16:57.31,Default,,0,0,0,,Matsumoto puts his last hope into the fourth attempt.
+Dialogue: 0,0:16:59.98,0:17:00.98,Hamada,,0,0,0,,Here we go. Ok.
+Dialogue: 0,0:17:00.98,0:17:02.28,Hamada,,0,0,0,,Here we go. Ok.
+Dialogue: 0,0:17:03.55,0:17:05.39,Matsumoto,,0,0,0,,Um
+Dialogue: 0,0:17:05.39,0:17:06.96,Matsumoto,,0,0,0,,You're all{\alpha&HFF&} thinking about this the wrong way.
+Dialogue: 0,0:17:06.96,0:17:09.26,Matsumoto,,0,0,0,,You're all thinking about this the wrong way.
+Dialogue: 0,0:17:09.26,0:17:11.29,Matsumoto,,0,0,0,,The scale is getting larger and larger.
+Dialogue: 0,0:17:08.36,0:17:09.66,Hamada,,0,0,0,,Ok.
+Dialogue: 0,0:17:11.29,0:17:14.26,Matsumoto,,0,0,0,,It's not about machines and things like that.
+Dialogue: 0,0:17:10.73,0:17:11.73,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:17:11.03,0:17:13.03,Hamada,,0,0,0,,Yes.
+Dialogue: 0,0:17:13.46,0:17:14.76,Hamada,,0,0,0,,Yeah, we're going back to the basics.
+Dialogue: 0,0:17:15.16,0:17:16.27,Matsumoto,,0,0,0,,Ok?
+Dialogue: 0,0:17:16.27,0:17:18.10,Matsumoto,,0,0,0,,That's completely{\alpha&HFF&} bullying.
+Dialogue: 0,0:17:18.10,0:17:21.10,Matsumoto,,0,0,0,,That's completely bullying.
+Dialogue: 0,0:17:22.54,0:17:24.67,Matsumoto,,0,0,0,,"Man, I am being bullied,"{\alpha&HFF&} was what I felt there.
+Dialogue: 0,0:17:24.67,0:17:26.34,Matsumoto,,0,0,0,,"Man, I am being bullied," was what I felt there.
+Dialogue: 0,0:17:26.34,0:17:29.34,Hamada,,0,0,0,,That's not what we meant.
+Dialogue: 0,0:17:29.68,0:17:31.01,Matsumoto,,0,0,0,,Look.{\alpha&HFF&} I'm{\alpha&HFF&} a bit pale, right?
+Dialogue: 0,0:17:31.01,0:17:31.28,Matsumoto,,0,0,0,,Look. I'm{\alpha&HFF&} a bit pale, right?
+Dialogue: 0,0:17:31.28,0:17:34.18,Matsumoto,,0,0,0,,Look. I'm a bit pale, right?
+Dialogue: 0,0:17:34.18,0:17:36.42,Matsumoto,,0,0,0,,I think you can see that through the camera, too.{\alpha&HFF&} "Whoa, Macchan,"
+Dialogue: 0,0:17:36.42,0:17:38.02,Matsumoto,,0,0,0,,I think you can see that through the camera, too. "Whoa, Macchan,"
+Dialogue: 0,0:17:33.62,0:17:35.62,Endo,,0,0,0,,Honestly, you do.
+Dialogue: 0,0:17:38.02,0:17:40.19,Matsumoto,,0,0,0,,"They got you good."
+Dialogue: 0,0:17:40.29,0:17:43.16,Matsumoto,,0,0,0,,I don't want that anymore.
+Dialogue: 0,0:17:41.79,0:17:43.66,Hamada,,0,0,0,,All right.
+Dialogue: 0,0:17:43.66,0:17:44.99,Hamada,,0,0,0,,Back to basics. Right.{\alpha&HFF&} Endo?
+Dialogue: 0,0:17:44.99,0:17:46.13,Hamada,,0,0,0,,Back to basics. Right. Endo?
+Dialogue: 0,0:17:42.46,0:17:44.46,Tanaka - Sports Challenge,,0,0,0,,All right.
+Dialogue: 0,0:17:42.69,0:17:44.69,Yamasaki,,0,0,0,,Back to basics.
+Dialogue: 0,0:17:46.13,0:17:50.40,Hamada,,0,0,0,,{\pos(354.266,342.727)}Endo played baseball.
+Dialogue: 0,0:17:48.43,0:17:50.40,Hamada,,0,0,0,,{\pos(246.143,402.364)}So let's leave it up to Endo.
+Dialogue: 0,0:17:49.73,0:17:50.40,Endo,,0,0,0,,No problem.
+Dialogue: 0,0:17:53.50,0:17:55.50,Hamada,,0,0,0,,Endo.
+Dialogue: 0,0:17:54.87,0:17:59.18,Signs,,0,0,0,,{\fade(100,100)\pos(360.409,391.273)}Endo will hit the ball as Matsumoto's arms
+Dialogue: 0,0:17:56.17,0:17:57.37,Hamada,,0,0,0,,You got the bat?{\alpha&HFF&} Ok, move up. Move up.
+Dialogue: 0,0:17:57.37,0:18:00.37,Hamada,,0,0,0,,You got the bat? Ok, move up. Move up.
+Dialogue: 0,0:17:58.31,0:18:02.08,Tanaka - Sports Challenge,,0,0,0,,Ok, ok.  Ok.
+Dialogue: 0,0:18:02.68,0:18:04.58,Hamada,,0,0,0,,It's all you, Endo.
+Dialogue: 0,0:18:03.51,0:18:05.28,Endo,,0,0,0,,Ok.
+Dialogue: 0,0:18:04.58,0:18:05.88,Hamada,,0,0,0,,You got it?
+Dialogue: 0,0:18:05.28,0:18:05.88,Tanaka - Sports Challenge,,0,0,0,,All right.
+Dialogue: 0,0:18:06.38,0:18:08.65,Hamada,,0,0,0,,Here it comes. Here it comes.
+Dialogue: 0,0:18:08.12,0:18:09.49,Yamasaki,,0,0,0,,Now.
+Dialogue: 0,0:18:08.65,0:18:09.49,Hamada,,0,0,0,,Here it is!
+Dialogue: 0,0:18:10.19,0:18:12.22,Yamasaki,,0,0,0,,That was close.
+Dialogue: 0,0:18:11.29,0:18:14.09,Tanaka - Sports Challenge,,0,0,0,,Foul tip! It was a foul tip!
+Dialogue: 0,0:18:12.22,0:18:14.12,Yamasaki,,0,0,0,,Foul tip!
+Dialogue: 0,0:18:13.06,0:18:14.12,Hamada,,0,0,0,,Go again, go again.
+Dialogue: 0,0:18:14.39,0:18:17.33,Yamasaki,,0,0,0,,Now.
+Dialogue: 0,0:18:14.86,0:18:17.36,Tanaka - Sports Challenge,,0,0,0,,Now.
+Dialogue: 0,0:18:15.63,0:18:17.63,Hamada,,0,0,0,,No, too early, too early.  That's not going to work.
+Dialogue: 0,0:18:17.33,0:18:19.26,Yamasaki,,0,0,0,,It's not working.
+Dialogue: 0,0:18:17.36,0:18:20.36,Tanaka - Sports Challenge,,0,0,0,,It's getting somewhere.
+Dialogue: 0,0:18:18.26,0:18:21.13,Endo,,0,0,0,,This is hard.
+Dialogue: 0,0:18:19.26,0:18:22.18,Yamasaki,,0,0,0,,'Cause Endo can't see.
+Dialogue: 0,0:18:22.20,0:18:25.50,Hamada,,0,0,0,,Let's go with the final tactic.
+Dialogue: 0,0:18:21.23,0:18:23.23,Endo,,0,0,0,,I can't see anything.
+Dialogue: 0,0:18:23.77,0:18:25.17,Tanaka - Sports Challenge,,0,0,0,,Yes, yes.{\alpha&HFF&} Ok, I'll get it ready. Hold on.
+Dialogue: 0,0:18:25.17,0:18:27.30,Tanaka - Sports Challenge,,0,0,0,,Yes, yes. Ok, I'll get it ready. Hold on.
+Dialogue: 0,0:18:27.57,0:18:29.74,Hamada,,0,0,0,,That was close, though, wasn't it?
+Dialogue: 0,0:18:28.71,0:18:31.71,Yamasaki,,0,0,0,,That was close.
+Dialogue: 0,0:18:29.74,0:18:32.98,Hamada,,0,0,0,,Endo, just stand up.
+Dialogue: 0,0:18:30.47,0:18:33.47,Endo,,0,0,0,,Ok, I'll stand up.  Here I go.
+Dialogue: 0,0:18:31.21,0:18:32.08,Tanaka - Sports Challenge,,0,0,0,,Ready and{\alpha&HFF&} go.
+Dialogue: 0,0:18:32.08,0:18:35.04,Tanaka - Sports Challenge,,0,0,0,,Ready and go.
+Dialogue: 0,0:18:32.98,0:18:35.98,Hamada,,0,0,0,,Ok, ok.
+Dialogue: 0,0:18:37.41,0:18:40.05,Tanaka - Sports Challenge,,0,0,0,,Whoa, whoa.  He's completely lying down.
+Dialogue: 0,0:18:39.05,0:18:41.98,Hamada,,0,0,0,,Tanaka!
+Dialogue: 0,0:18:40.05,0:18:41.98,Tanaka - Sports Challenge,,0,0,0,,He's completely lying down.
+Dialogue: 0,0:18:43.45,0:18:46.42,Yamasaki,,0,0,0,,Hey, we need a ladder.
+Dialogue: 0,0:18:45.62,0:18:49.93,Signs,,0,0,0,,{\fade(100,100)\pos(362.048,389.091)}Endo will hit while Matsumoto sits on his shoulders
+Dialogue: 0,0:18:46.49,0:18:47.96,Hamada,,0,0,0,,This side's in?
+Dialogue: 0,0:18:47.16,0:18:48.36,Endo,,0,0,0,,Yes, it's in.{\alpha&HFF&} Everything's good, now?
+Dialogue: 0,0:18:48.36,0:18:50.13,Endo,,0,0,0,,Yes, it's in. Everything's good, now?
+Dialogue: 0,0:18:47.96,0:18:49.46,Tanaka - Sports Challenge,,0,0,0,,The zipper's done.{\alpha&HFF&} How is it?
+Dialogue: 0,0:18:49.46,0:18:50.13,Tanaka - Sports Challenge,,0,0,0,,The zipper's done. How is it?
+Dialogue: 0,0:18:50.59,0:18:53.23,Hamada,,0,0,0,,He's really staring.
+Dialogue: 0,0:18:53.70,0:18:54.93,Hamada,,0,0,0,,Endo, are you all right?
+Dialogue: 0,0:18:54.33,0:18:54.93,Endo,,0,0,0,,I'm all right.
+Dialogue: 0,0:18:54.96,0:18:57.47,Hamada,,0,0,0,,All right.
+Dialogue: 0,0:18:55.83,0:18:58.87,Endo,,0,0,0,,Ok.
+Dialogue: 0,0:18:57.47,0:18:59.10,Hamada,,0,0,0,,Go for it!
+Dialogue: 0,0:18:59.10,0:19:00.50,Hamada,,0,0,0,,Endo!
+Dialogue: 0,0:19:00.50,0:19:03.07,Hamada,,0,0,0,,?????????????????????????//
+Dialogue: 0,0:19:03.11,0:19:05.94,Yamasaki,,0,0,0,,It's all you, Endo!
+Dialogue: 0,0:19:04.31,0:19:07.41,Hamada,,0,0,0,,Ok. Ok, let's go.
+Dialogue: 0,0:19:05.94,0:19:07.41,Tanaka - Sports Challenge,,0,0,0,,It's all you.
+Dialogue: 0,0:19:07.51,0:19:08.98,Hamada,,0,0,0,,Here it comes. Here it comes.
+Dialogue: 0,0:19:18.96,0:19:24.33,Signs,,0,0,0,,{\fade(0,500)\fscx590.164\fscy700\t(0,800,\fscx84.309\fscy100)\fs50\pos(371.877,162.182)\c&HA57CFF&\b1}Matsumoto Hitoshi{\b0}
+Dialogue: 0,0:19:18.96,0:19:24.33,Signs,,0,0,0,,{\fade(0,500)\fscx590.164\fscy700\t(0,800,\fscx84.309\fscy100)\fs50\pos(364.505,274.909)\b1\c&HA57CFF&}Hitting a 150 km/h pitch!!{\b0}
+Dialogue: 0,0:19:18.96,0:19:24.33,Signs,,0,0,0,,{\fade(0,500)\fscx590.164\fscy700\t(0,800,\fscx84.309\fscy100)\fs50\pos(357.952,367.273)\b1\c&HA57CFF&}Success!!{\b0}
+Dialogue: 0,0:19:26.13,0:19:32.44,Default,,0,0,0,,After overcoming numerous hardships, Matsumoto finally obtains his great achievement of hitting a 150 km/h pitch.
+Dialogue: 0,0:19:32.44,0:19:34.27,Default,,0,0,0,,A true congratulations to you.
+Dialogue: 0,0:19:34.27,0:19:38.81,Default,,0,0,0,,There is no such thing as "impossible" for you.
+Dialogue: 0,0:19:39.98,0:19:41.48,Tanaka - Sports Challenge,,0,0,0,,Part 1{\alpha&HFF&} Part 2
+Dialogue: 0,0:19:40.74,0:19:43.78,Hamada,,0,0,0,,Great, great.
+Dialogue: 0,0:19:41.48,0:19:44.48,Tanaka - Sports Challenge,,0,0,0,,Part 1 Part 2
+Dialogue: 0,0:19:42.81,0:19:46.28,Yamasaki,,0,0,0,,Endo.
+Dialogue: 0,0:19:43.45,0:19:44.71,Endo,,0,0,0,,Thank you.
+Dialogue: 0,0:19:44.18,0:19:46.55,Hamada,,0,0,0,,Endo, you did great.
+Dialogue: 0,0:19:44.71,0:19:47.71,Endo,,0,0,0,,Thank you.
+Dialogue: 0,0:19:46.55,0:19:48.99,Hamada,,0,0,0,,Great job.
+Dialogue: 0,0:19:47.15,0:19:48.99,Yamasaki,,0,0,0,,Great job.
+Dialogue: 0,0:19:48.28,0:19:48.99,Endo,,0,0,0,,I got the hit.
+Dialogue: 0,0:19:50.29,0:19:52.56,Hamada,,0,0,0,,You...
+Dialogue: 0,0:19:52.56,0:19:54.59,Hamada,,0,0,0,,The 150...
+Dialogue: 0,0:19:54.59,0:19:58.02,Hamada,,0,0,0,,No, we hit the 150.
+Dialogue: 0,0:19:55.93,0:19:58.93,Endo,,0,0,0,,Yes, we hit it.
+Dialogue: 0,0:19:58.09,0:19:58.69,Hamada,,0,0,0,,But, I mean{\alpha&HFF&}, wasn't it a success?
+Dialogue: 0,0:19:58.69,0:20:01.46,Hamada,,0,0,0,,But, I mean, wasn't it a success?
+Dialogue: 0,0:19:59.56,0:20:01.56,Yamasaki,,0,0,0,,Yes, it was a great success.
+Dialogue: 0,0:20:00.43,0:20:02.43,Tanaka - Sports Challenge,,0,0,0,,It was a great success.
+Dialogue: 0,0:20:01.46,0:20:03.46,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:20:07.64,0:20:10.64,Signs,,0,0,0,,{\move(7.782,150.727,352.628,150,18,352)\c&H6E57FF&}Gaki No Tsukai
+Dialogue: 0,0:20:07.64,0:20:10.64,Signs,,0,0,0,,{\move(716.724,258.909,344.028,256,18,352)\c&HFF7865&}Extra Scene
+Dialogue: 0,0:20:10.64,0:20:13.64,Endo,,0,0,0,,???????????????????????
+Dialogue: 0,0:20:10.97,0:20:15.11,Signs,,0,0,0,,{\fade(100,100)\pos(360.819,395.091)}In the studio after shooting
+Dialogue: 0,0:20:11.37,0:20:14.37,Matsumoto,,0,0,0,,I hate that machine.
+Dialogue: 0,0:20:16.91,0:20:20.18,Matsumoto,,0,0,0,,You want to try it (the spinning), right?
+Dialogue: 0,0:20:17.91,0:20:20.18,Yamasaki,,0,0,0,,I don't want to try it.
+Dialogue: 0,0:20:20.62,0:20:23.65,Hamada,,0,0,0,,Fine, Yamasaki, do it.
+Dialogue: 0,0:20:21.85,0:20:24.89,Yamasaki,,0,0,0,,No, no, no.
+Dialogue: 0,0:20:22.75,0:20:24.89,Default,,0,0,0,,(Staff): Ready it, please.
+Dialogue: 0,0:20:24.89,0:20:29.46,Yamasaki,,0,0,0,,No, no.  Please don't do that.
+Dialogue: 0,0:20:25.25,0:20:29.46,Matsumoto,,0,0,0,,It's extra. It's extra.
+Dialogue: 0,0:20:27.99,0:20:29.46,Hamada,,0,0,0,,Your senior did it and you're...
+Dialogue: 0,0:20:29.46,0:20:30.26,Hamada,,0,0,0,,After you're done,{\alpha&HFF&} Heipo will do it.
+Dialogue: 0,0:20:30.26,0:20:33.26,Hamada,,0,0,0,,After you're done, Heipo will do it.
+Dialogue: 0,0:20:33.53,0:20:35.83,Signs,,0,0,0,,{\fade(100,100)\pos(438.635,394.364)\3c&HC14040&}Heipo
+Dialogue: 0,0:20:36.80,0:20:39.14,Signs,,0,0,0,,{\pos(364.505,318.545)\c&H45FDE9&}Yamasaki Hosei
+Dialogue: 0,0:20:36.80,0:20:39.14,Signs,,0,0,0,,{\pos(361.228,392.727)\c&H45FDE9&}Attempts the Spinning!!
+Dialogue: 0,0:20:39.17,0:20:42.14,Yamasaki,,0,0,0,,I already feel sick at this point.
+Dialogue: 0,0:20:40.90,0:20:43.90,Hamada,,0,0,0,,1...
+Dialogue: 0,0:20:43.34,0:20:45.58,Yamasaki,,0,0,0,,Whoa, this is bad.
+Dialogue: 0,0:20:43.67,0:20:45.58,Endo,,0,0,0,,2...
+Dialogue: 0,0:20:45.74,0:20:47.28,Endo,,0,0,0,,Ready and{\alpha&HFF&} ok.
+Dialogue: 0,0:20:47.28,0:20:48.28,Endo,,0,0,0,,Ready and ok.
+Dialogue: 0,0:20:55.65,0:20:57.62,Matsumoto,,0,0,0,,Wow, it was going like this.
+Dialogue: 0,0:20:57.62,0:21:00.55,Endo,,0,0,0,,Wow.
+Dialogue: 0,0:21:01.52,0:21:04.43,Matsumoto,,0,0,0,,The return spin is also scary.
+Dialogue: 0,0:21:04.46,0:21:05.33,Endo,,0,0,0,,The ball is coming.
+Dialogue: 0,0:21:05.33,0:21:07.90,Matsumoto,,0,0,0,,He's not saying anything.
+Dialogue: 0,0:21:07.93,0:21:09.47,Matsumoto,,0,0,0,,Yamazaki.
+Dialogue: 0,0:21:09.47,0:21:10.77,Matsumoto,,0,0,0,,Why isn't he saying anything?
+Dialogue: 0,0:21:17.47,0:21:20.24,Matsumoto,,0,0,0,,What? Nothing?
+Dialogue: 0,0:21:20.91,0:21:23.25,Signs,,0,0,0,,{\pos(355.085,323.091)\c&HFF4CFF&}Heipo
+Dialogue: 0,0:21:20.91,0:21:23.25,Signs,,0,0,0,,{\c&HFF4CFF&\pos(353.857,390.545)}Attempts the Spinning!!
+Dialogue: 0,0:21:23.81,0:21:24.68,Heipo,,0,0,0,,More firmly.
+Dialogue: 0,0:21:24.68,0:21:25.18,Heipo,,0,0,0,,Ah,{\alpha&HFF&} wait.
+Dialogue: 0,0:21:25.18,0:21:26.95,Heipo,,0,0,0,,Ah, wait.
+Dialogue: 0,0:21:26.92,0:21:27.88,Matsumoto,,0,0,0,,{\pos(357.592,435.867)}No... I mean,{\alpha&HFF&} you've seen this part.
+Dialogue: 0,0:21:27.88,0:21:30.85,Matsumoto,,0,0,0,,{\pos(357.592,435.867)}No... I mean, you've seen this part.
+Dialogue: 0,0:21:30.55,0:21:31.55,Heipo,,0,0,0,,No,{\alpha&HFF&} my neck, argh.
+Dialogue: 0,0:21:31.55,0:21:34.55,Heipo,,0,0,0,,No, my neck, argh.
+Dialogue: 0,0:21:36.43,0:21:38.56,Hamada,,0,0,0,,What is it?{\alpha&HFF&} What is it?
+Dialogue: 0,0:21:37.96,0:21:39.93,Heipo,,0,0,0,,{\fs10\t(0,100,\fscx386\fscy421\move(387.44,331.636,362.867,384,22,155))}Hamada!
+Dialogue: 0,0:21:38.56,0:21:40.86,Hamada,,0,0,0,,What is it? What is it?
+Dialogue: 0,0:21:39.56,0:21:40.73,Endo,,0,0,0,,It hasn't started yet. {\alpha&HFF&}Watch out, watch out.
+Dialogue: 0,0:21:40.73,0:21:41.86,Endo,,0,0,0,,It hasn't started yet. Watch out, watch out.
+Dialogue: 0,0:21:40.86,0:21:43.90,Hamada,,0,0,0,,What is it?
+Dialogue: 0,0:21:43.47,0:21:44.80,Heipo,,0,0,0,,Stop it!
+Dialogue: 0,0:21:44.80,0:21:46.44,Heipo,,0,0,0,,{\fs10\t(0,100,\fscx440\fscy417)\move(282.594,314.181,344.027,388.363,22,155)}Hamada~
+Dialogue: 0,0:21:46.17,0:21:49.17,Endo,,0,0,0,,Watch out.
+Dialogue: 0,0:21:47.44,0:21:49.57,Tanaka - Sports Challenge,,0,0,0,,Watch out, watch out.
+Dialogue: 0,0:21:49.27,0:21:51.80,Hamada,,0,0,0,,Don't let him hold the bat.
+Dialogue: 0,0:21:51.87,0:21:53.87,Endo,,0,0,0,,That's dangerous.
+Dialogue: 0,0:21:54.21,0:21:57.14,Hamada,,0,0,0,,Endo, take the bat.
+Dialogue: 0,0:21:55.71,0:21:58.75,Matsumoto,,0,0,0,,What's the matter?
+Dialogue: 0,0:21:56.88,0:21:58.41,Heipo,,0,0,0,,{\pos(362.867,369.455)}I'm scared!
+Dialogue: 0,0:22:00.15,0:22:01.32,Endo,,0,0,0,,He said it very clearly.
+Dialogue: 0,0:22:01.32,0:22:03.22,Endo,,0,0,0,,Just, the bat...
+Dialogue: 0,0:22:03.29,0:22:05.45,Matsumoto,,0,0,0,,Just, let's just once...
+Dialogue: 0,0:22:05.45,0:22:06.36,Matsumoto,,0,0,0,,What's the matter?
+Dialogue: 0,0:22:06.36,0:22:07.09,Matsumoto,,0,0,0,,You kinda look like{\alpha&HFF&} a big fly.
+Dialogue: 0,0:22:07.09,0:22:09.79,Matsumoto,,0,0,0,,You kinda look like a big fly.
+Dialogue: 0,0:22:10.63,0:22:13.56,Hamada,,0,0,0,,What the hell is it, Heipo?
+Dialogue: 0,0:22:11.29,0:22:13.40,Matsumoto,,0,0,0,,What's the matter?  What are you panicking about?
+Dialogue: 0,0:22:13.40,0:22:16.36,Matsumoto,,0,0,0,,And why were you screaming "Hamada! Hamada!"
+Dialogue: 0,0:22:18.77,0:22:21.77,Hamada,,0,0,0,,What is it with this guy?
+Dialogue: 0,0:22:22.67,0:22:23.77,Matsumoto,,0,0,0,,What is it with this guy?
+

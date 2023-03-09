@@ -1,0 +1,721 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1104
+PlayResY: 622
+Video Aspect Ratio: c1.77653
+YCbCr Matrix: TV.601
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hamada,Arial,38,&H00921E10,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Tanaka,Arial,38,&H008C0879,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Endo,Arial,38,&H00005AC8,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Sign,Arial,32,&H00514F07,&H000000FF,&H00FAFFED,&H00A3C200,-1,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Narrator,Arial,38,&H00000000,&H00000000,&H00FBFBFD,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Title,Arial,32,&H00104219,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: All,Arial,38,&H00606539,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Gold,Arial,30,&H0063C6E7,&H0003EAFF,&H00000000,&H0004394F,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Staff,Arial,38,&H00404040,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Takuya,Arial,38,&H00818002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: EndoC,Arial,32,&H000057C1,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,9,10,10,10,1
+Style: HamadaC,Arial,32,&H00921E10,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,9,10,10,10,1
+Style: MatsuC,Arial,32,&H00000097,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,9,10,10,10,1
+Style: YamasakiC,Arial,32,&H00006F16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,9,10,10,10,1
+Style: All2,Arial,38,&H007C5540,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Sign2,Arial,60,&H00FFFFFF,&H000000FF,&H000000B0,&H001B0956,-1,0,0,0,100,100,8,0,1,6,9,2,10,10,10,1
+Style: Sign3,Arial,38,&H0078DFD9,&H000000FF,&H00000000,&H001B4A47,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: TanakaC,Arial,32,&H008C0879,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,9,10,10,10,1
+Style: Yamasaki B,Arial,48,&H00006F16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,5,7,2,10,10,10,1
+Style: Koji,Arial,38,&H004D5B11,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: JapanRail,Arial,60,&H00A7CF92,&H000000FF,&H001F3A11,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Sign5,Arial,38,&H00FFFFFF,&H000000FF,&H000506B2,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Sign6,Arial,45,&H000000C4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Sign7,Arial,45,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: EpTitleRed,Arial,48,&H000809D8,&H00FFFFFF,&H00CFF2F0,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: About,Arial,48,&H00000000,&H00FFFFFF,&H00BAE8E5,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: EpTitleBlue,Arial,48,&H00C41117,&H00FFFFFF,&H00B0ECE8,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: Tanaka ESh,Arial,38,&H008C0879,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,9,2,10,10,10,1
+Style: Sign3 B,Arial,45,&H0085FFF8,&H000000FF,&H000A1625,&H001B4A47,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Yamasaki B2,Arial,50,&H00006F16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,8,2,10,10,10,1
+Style: RedYellow,Arial,50,&H000000A1,&H00FFFFFF,&H00B8EDEA,&H00000000,-1,0,0,0,100,100,0,0,1,5,7,2,10,10,10,1
+Style: Matsu T,Arial,32,&H00000097,&H000000FF,&H00F7F7FF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Hamada T,Arial,32,&H00921E10,&H000000FF,&H00FFF9F7,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Endo T,Arial,32,&H00005AC8,&H000000FF,&H00F7FAFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Tanaka T,Arial,32,&H008C0879,&H000000FF,&H00FFF9FD,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Yamasaki T,Arial,32,&H00006F16,&H000000FF,&H00F8FFF7,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: Sign3  S,Arial,30,&H0078DFD9,&H000000FF,&H00000000,&H001B4A47,-1,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
+Style: Credit,Arial,30,&H00F9F6E2,&H000000FF,&H00271506,&H004D3F38,-1,0,0,0,100,100,0,0,1,3,4,7,10,10,10,1
+Style: QText,Arial,42,&H00FFFFFF,&H000000FF,&H007E361E,&H00611C0F,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: AText,Arial,42,&H00FFFFFF,&H000000FF,&H00292786,&H00110F61,-1,0,0,0,100,100,0,0,1,4,5,2,10,10,10,1
+Style: White Text,Arial,32,&H00FFFFFF,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,1,10,10,10,1
+Style: Yamasaki,Arial,38,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Matsumoto,Arial,38,&H00000097,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: Green Text B,Arial,48,&H000F680D,&H000000FF,&H00D6FFD5,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,2,10,10,10,1
+Style: GTextBox,Arial,38,&H642B3929,&H000000FF,&H642B3929,&H642B3929,-1,0,0,0,100,130,0,0,3,10,5,2,10,10,10,1
+Style: Red Text S,Arial,38,&H000000AA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,3,10,10,10,1
+Style: Red Text B,Arial,48,&H000000AA,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,3,10,10,10,1
+Style: RTextBox,Arial,38,&HA9000077,&H000000FF,&HAF000085,&HBA000093,-1,0,0,0,100,100,0,0,3,15,3,2,10,10,10,1
+Style: White Text R,Arial,32,&H00FFFFFF,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100,100,0,0,1,4,5,3,10,10,10,1
+Style: QTextBox,Arial,42,&H9C673C14,&H000000FF,&H9C673C14,&H9C673C14,-1,0,0,0,100,100,0,0,3,8,5,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.41,0:00:12.79,Credit,Narrator,0,0,0,,Subbed by: HouseiGIFs, Dael, GodzillaRadio, J-Hive, Mickstar813, Razuberii
+Dialogue: 0,0:00:00.41,0:00:04.94,Narrator,Narrator,0,0,0,,Matsumoto, out of 100 how would you rate yourself?
+Dialogue: 0,0:00:00.44,0:00:06.95,QText,,0,0,0,,{\fs38\fad(200,0)\pos(552,485)}Q: Out of 100, how would Matsumoto rate himself as a man?
+Dialogue: 0,0:00:05.45,0:00:06.95,Matsumoto,,0,0,0,,100.
+Dialogue: 0,0:00:07.72,0:00:10.69,Narrator,Narrator,0,0,0,,Last week on the show was a quiz:
+Dialogue: 0,0:00:07.25,0:00:12.79,EpTitleRed,Sign,0,0,0,,{{\fad(300,0)\pos(378,468)}Matsumoto Hitoshi's
+Dialogue: 0,0:00:07.25,0:00:12.79,EpTitleBlue,Sign,0,0,0,,{\fad(300,0)\pos(752,468)}100 Questions
+Dialogue: 0,0:00:10.69,0:00:12.79,Narrator,Narrator,0,0,0,,Matsumoto Hitoshi's 100 Questions!
+Dialogue: 0,0:00:12.79,0:00:17.00,QText,Sign,0,0,0,,{\fs38\pos(550.398,496.222)}Q: What is Matsumoto's favourite adult video genre?
+Dialogue: 0,0:00:12.79,0:00:15.19,Matsumoto,Matsumoto,0,0,0,,I've said this from the start,
+Dialogue: 0,0:00:16.23,0:00:18.36,QTextBox,Hamada,0,0,0,,{\pos(550.398,570.32)}---------
+Dialogue: 0,0:00:15.19,0:00:17.00,Matsumoto,Matsumoto,0,0,0,,I only watch girls debut performances.
+Dialogue: 0,0:00:16.23,0:00:18.36,Hamada,Hamada,0,0,0,,Alright!
+Dialogue: 0,0:00:16.93,0:00:18.36,Tanaka,Tanaka,0,0,0,,He got it.
+Dialogue: 0,0:00:18.43,0:00:20.97,Endo,Endo,0,0,0,,That must feel good.
+Dialogue: 0,0:00:17.00,0:00:22.97,AText,Sign,0,0,0,,{\pos(547.749,479.337)}A: Debut performance
+Dialogue: 0,0:00:20.63,0:00:22.97,Narrator,Sign,0,0,0,,{\pos(564.169,71.712)}New Recruits
+Dialogue: 0,0:00:20.97,0:00:22.97,Hamada,Hamada,0,0,0,,But you all knew that, right?
+Dialogue: 0,0:00:23.37,0:00:29.41,AText,Narrator,0,0,0,,{\fad(200,0)\pos(545.271,474.412)}Punishment on the line - Everyone does their best
+Dialogue: 0,0:00:24.10,0:00:27.94,Narrator,Narrator,0,0,0,,With a punishment on the line, everyone was serious.
+Dialogue: 0,0:00:27.94,0:00:29.41,Narrator,Narrator,0,0,0,,And so...
+Dialogue: 0,0:00:29.67,0:00:33.41,Red Text S,,0,0,0,,{\fs38\fad(200,0)\3c&H000000&\c&H9090FF&\pos(806.247,468.397)}Who will receive the punishment?
+Dialogue: 0,0:00:30.41,0:00:33.24,Narrator,Narrator,0,0,0,,The loser is none other than...
+Dialogue: 1,0:00:33.95,0:00:35.48,Narrator,Narrator,0,0,0,,Yamasaki Housei!
+Dialogue: 0,0:00:35.48,0:00:39.72,GTextBox,Narrator,0,0,0,,{\fad(200,0)\pos(552,526)}-------------------------------
+Dialogue: 0,0:00:35.45,0:00:39.72,Red Text S,Narrator,0,0,0,,{\fad(200,0)\3c&H000000&\c&H9090FF&\pos(635.193,500.979)}Last place
+Dialogue: 0,0:00:35.45,0:00:39.72,Green Text B,Narrator,0,0,0,,{\fad(200,0)\pos(550,552.49)}Yamasaki Housei
+Dialogue: 0,0:00:35.48,0:00:37.05,Yamasaki,Yamasaki,0,0,0,,No way!
+Dialogue: 0,0:00:37.05,0:00:38.78,Tanaka,,0,0,0,,Oh my god...
+Dialogue: 0,0:00:38.78,0:00:40.08,Yamasaki,Yamasaki,0,0,0,,You're kidding!
+Dialogue: 0,0:00:40.08,0:00:43.55,AText,,0,0,0,,{\pos(548.865,468.412)}What will his punishment be?
+Dialogue: 0,0:00:40.72,0:00:43.72,Narrator,Narrator,0,0,0,,So, what will his punishment be?
+Dialogue: 0,0:00:43.72,0:00:47.46,Matsumoto,Matsumoto,0,0,0,,100 Shouts of Matsumoto!!
+Dialogue: 0,0:00:47.46,0:00:49.33,Matsumoto,Matsumoto,0,0,0,,You're going to go to loads of places
+Dialogue: 0,0:00:49.33,0:00:53.90,Matsumoto,Matsumoto,0,0,0,,and shout "Matsumoto-san!"
+Dialogue: 0,0:00:54.13,0:01:00.37,Red Text B,,0,0,0,,{\fad(200,200)\3c&H000000&\c&H8C8CFF&\pos(330.302,168.186)}Punishment\NCommences
+Dialogue: 0,0:00:54.54,0:00:57.54,Narrator,Narrator,0,0,0,,And now Yamasaki Housei
+Dialogue: 0,0:00:57.54,0:01:00.17,Narrator,Narrator,0,0,0,,will live out his sentence!
+Dialogue: 0,0:01:00.71,0:01:05.71,Title,Title,0,0,0,,{\fad(200,200)\pos(295.082,425.099)}Downtown
+Dialogue: 0,0:01:00.71,0:01:05.71,Title,Title,0,0,0,,{\fad(200,200)\pos(831.227,425.764)}Downtown
+Dialogue: 0,0:01:00.71,0:01:05.71,Title,Title,0,0,0,,{\fad(200,200)\pos(272.742,156.365)}Cocorico
+Dialogue: 0,0:01:00.71,0:01:05.71,Title,Title,0,0,0,,{\fad(200,200)\pos(821.232,156.034)}Cocorico
+Dialogue: 0,0:01:00.71,0:01:05.71,Yamasaki T,Yamasaki,0,0,0,,{\fad(200,200)\pos(567.155,497.794)}Yamasaki\NHōsei
+Dialogue: 0,0:01:00.71,0:01:05.71,Matsu T,Matsumoto,0,0,0,,{\fad(200,200)\pos(296.752,493.79)}Matsumoto\NHitoshi
+Dialogue: 0,0:01:00.71,0:01:05.71,Hamada T,Hamada,0,0,0,,{\fad(200,200)\pos(833.902,493.124)}Hamada\NMasatoshi
+Dialogue: 0,0:01:00.71,0:01:05.71,Endo T,Endo,0,0,0,,{\fad(200,200)\pos(278.417,208.721)}Endō Shōzō
+Dialogue: 0,0:01:00.71,0:01:05.71,Tanaka T,Tanaka,0,0,0,,{\fad(200,200)\pos(826.232,208.721)}Tanaka Naoki
+Dialogue: 0,0:01:00.80,0:01:02.97,Matsumoto,Matsumoto,0,0,0,,I'm still angry personally!
+Dialogue: 0,0:01:02.97,0:01:06.08,Endo,Endo,0,0,0,,You knew too little about Matsumoto.
+Dialogue: 0,0:01:04.31,0:01:06.88,Matsumoto,Matsumoto,0,0,0,,You didn't know anywhere near enough.
+Dialogue: 0,0:01:06.08,0:01:08.91,Hamada,Hamada,0,0,0,,He has every reason to be angry.
+Dialogue: 0,0:01:06.88,0:01:08.91,Yamasaki,Yamasaki,0,0,0,,But wait, Matsumoto-san,
+Dialogue: 0,0:01:08.91,0:01:11.98,Yamasaki,Yamasaki,0,0,0,,it's true I didn't know a lot about you,
+Dialogue: 0,0:01:11.98,0:01:14.59,Yamasaki,Yamasaki,0,0,0,,but Hamada-san knew even less than me.
+Dialogue: 0,0:01:14.59,0:01:17.78,Matsumoto,Matsumoto,0,0,0,,But me and him are just like 'business partners'...
+Dialogue: 0,0:01:18.26,0:01:19.62,Matsumoto,Matsumoto,0,0,0,,While you, er...
+Dialogue: 0,0:01:19.62,0:01:23.46,Matsumoto,Matsumoto,0,0,0,,Him and I have been together since we lived in a Yakult apartment.
+Dialogue: 0,0:01:23.46,0:01:26.56,Tanaka,Tanaka,0,0,0,,{\pos(366.307,612.768)}It's a long history between them.
+Dialogue: 0,0:01:23.46,0:01:26.56,Endo,Endo,0,0,0,,{\pos(825.568,612.397)}Very long, you know.
+Dialogue: 0,0:01:26.56,0:01:29.77,Matsumoto,Matsumoto,0,0,0,,With a vending machine of only Yakult to drink.
+Dialogue: 0,0:01:29.77,0:01:31.62,Yamasaki,Yamasaki,0,0,0,,Seriously...
+Dialogue: 0,0:01:31.70,0:01:33.67,Hamada,Hamada,0,0,0,,Let's move on.
+Dialogue: 0,0:01:34.37,0:01:37.38,Yamasaki,Yamasaki,0,0,0,,Ahh, Matsumoto-san!!
+Dialogue: 0,0:01:37.38,0:01:39.68,Hamada,Hamada,0,0,0,,What was that?
+Dialogue: 0,0:01:39.68,0:01:42.45,Yamasaki B2,Yamasaki,0,0,0,,MA~{\fs42}tsumoto-san!!
+Dialogue: 0,0:01:41.01,0:01:45.85,Sign3  S,,0,0,0,,{\an2\fad(200,0)\c&H80FFF8&\pos(542.583,65.237)}100 Shouts of Matsumoto Punishment\NWill they be able to endure such a harsh penalty?
+Dialogue: 0,0:01:42.45,0:01:44.38,Koji,Koji,0,0,0,,What are you on about?
+Dialogue: 0,0:01:43.21,0:01:44.38,Yamasaki,Yamasaki,0,0,0,,Ow!!
+Dialogue: 0,0:01:47.08,0:01:49.79,Hamada,Hamada,0,0,0,,So, Yama-chan, please introduce the video.
+Dialogue: 0,0:01:46.32,0:01:49.79,Matsumoto,Matsumoto,0,0,0,,Shall we look at how you did?
+Dialogue: 0,0:01:49.79,0:01:51.09,Yamasaki,Yamasaki,0,0,0,,Please enjoy watching.
+Dialogue: 0,0:01:51.09,0:01:52.86,Yamasaki,Yamasaki,0,0,0,,So now, this video...
+Dialogue: 0,0:01:52.86,0:01:55.26,Yamasaki B,Yamasaki,0,0,0,,START!
+Dialogue: 0,0:01:55.26,0:01:58.40,Matsumoto,Matsumoto,0,0,0,,Enduring this is also a punishment.
+Dialogue: 0,0:01:59.30,0:02:03.57,Narrator,Narrator,0,0,0,,At 6 in the morning,\N the 100 shouts punishment starts at dawn.
+Dialogue: 0,0:02:02.83,0:02:04.80,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}In the morning?
+Dialogue: 0,0:02:03.80,0:02:07.94,Narrator,Narrator,0,0,0,,Yamasaki arrives at today's\Nmeeting place, the Takeshiba Pier.
+Dialogue: 0,0:02:07.50,0:02:09.71,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}At dawn!
+Dialogue: 0,0:02:09.34,0:02:11.61,Staff,Staff,0,0,0,,Staff: Good morning!
+Dialogue: 0,0:02:12.68,0:02:14.91,Staff,Staff,0,0,0,,Today, Yamasaki, you're going to
+Dialogue: 0,0:02:14.91,0:02:19.68,Staff,Staff,0,0,0,,do your punishment "100 Shouts of Matsumoto."
+Dialogue: 0,0:02:20.02,0:02:21.39,Staff,Staff,0,0,0,,First, I'll explain.
+Dialogue: 0,0:02:21.39,0:02:23.52,Staff,Staff,0,0,0,,It's a heating belt but
+Dialogue: 0,0:02:23.52,0:02:25.56,Staff,Staff,0,0,0,,touch it here and see.
+Dialogue: 0,0:02:25.56,0:02:27.76,Sign3 B,Sign,0,0,0,,{\pos(170.21,517.854)}SWITCH
+Dialogue: 0,0:02:27.79,0:02:31.43,Staff,Staff,0,0,0,,You see it vibrates, now...
+Dialogue: 0,0:02:31.43,0:02:34.70,Staff,Staff,0,0,0,,Yamasaki-san tie the belt around your waist
+Dialogue: 0,0:02:34.70,0:02:37.44,Staff,Staff,0,0,0,,and when it vibrates
+Dialogue: 0,0:02:37.44,0:02:39.67,Staff,Staff,0,0,0,,you think of Matsumoto-san and yell:
+Dialogue: 0,0:02:39.67,0:02:41.54,Staff,Staff,0,0,0,,MATSUMOTO-SAN!
+Dialogue: 0,0:02:41.54,0:02:44.54,Yamasaki,Yamasaki,0,0,0,,Whilst thinking about Matsumoto-san...?
+Dialogue: 0,0:02:40.74,0:02:43.51,EndoC,Endo,0,0,0,,{\pos(1060,6)}So he can't\Ndecide himself.
+Dialogue: 0,0:02:43.51,0:02:46.04,EndoC,Endo,0,0,0,,{\pos(1060,6)}It's to help\Nwith timing.
+Dialogue: 0,0:02:45.01,0:02:49.81,Narrator,Narrator,0,0,0,,When the vibration starts he shouts\N"MATSUMOTO-SAN" as his punishment.
+Dialogue: 0,0:02:50.48,0:02:55.72,Staff,Staff,0,0,0,,Also, we'll give you directions with this transmitter.
+Dialogue: 0,0:02:55.72,0:02:58.72,Staff,Staff,0,0,0,,May I attach it?
+Dialogue: 0,0:02:57.32,0:02:58.72,Yamasaki,Yamasaki,0,0,0,,Yeah.
+Dialogue: 0,0:02:59.62,0:03:02.73,Staff,Staff,0,0,0,,Right, we'll give it a test, then begin.
+Dialogue: 0,0:03:04.36,0:03:06.80,Staff,Staff,0,0,0,,Face towards the sea.
+Dialogue: 0,0:03:05.33,0:03:07.80,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Ah, that's\Na nice spot.
+Dialogue: 0,0:03:07.80,0:03:09.93,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Don't laugh!
+Dialogue: 0,0:03:08.43,0:03:12.20,Staff,Staff,0,0,0,,Your punishment will begin\Nat the same time as the test.
+Dialogue: 0,0:03:12.40,0:03:13.94,Yamasaki,Yamasaki,0,0,0,,Right.
+Dialogue: 0,0:03:12.40,0:03:13.94,Staff,Staff,0,0,0,,Well, good luck.
+Dialogue: 0,0:03:20.41,0:03:21.71,Yamasaki,Yamasaki,0,0,0,,Just a second...
+Dialogue: 0,0:03:23.51,0:03:27.78,Yamasaki,Yamasaki,0,0,0,,Can I shout then, if I'm meant to shout?
+Dialogue: 0,0:03:26.62,0:03:29.02,EndoC,Endo,0,0,0,,{\pos(1060,6)}You've got to wait\Nfor instructions.
+Dialogue: 0,0:03:29.02,0:03:30.96,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}I see.
+Dialogue: 0,0:03:29.69,0:03:32.82,YamasakiC,Yamasaki,0,0,0,,{\pos(1064,170)}It was so early\Nin the morning...
+Dialogue: 0,0:03:32.39,0:03:36.03,Sign3 B,,0,0,0,,{\fad(200,0)\pos(137.713,449.777)}Starting in:
+Dialogue: 0,0:03:41.03,0:03:44.47,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}What was that?
+Dialogue: 0,0:03:44.47,0:03:47.34,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}He freaked out\Nwhen it vibrated.
+Dialogue: 0,0:03:42.53,0:03:45.90,Sign6,,0,0,0,,{\fad(200,0)\pos(456.477,324.516)}100 SHOUTS OF MATSUMOTO{\alphaFF} STARTS!!
+Dialogue: 0,0:03:42.53,0:03:45.90,Sign7,,0,0,0,,{\fad(200,0)\pos(775.675,322.666)} STARTS!!
+Dialogue: 0,0:03:47.34,0:03:49.67,Staff,Staff,0,0,0,,Good, we'll go somewhere else now.
+Dialogue: 0,0:03:49.67,0:03:53.95,Yamasaki,Yamasaki,0,0,0,,Wait, I'm going to be\Nby myself the whole time?
+Dialogue: 0,0:03:53.95,0:03:56.51,Staff,Staff,0,0,0,,That's right.
+Dialogue: 0,0:03:57.78,0:04:01.09,Yamasaki,Yamasaki,0,0,0,,Did  I do something that bad...?
+Dialogue: 0,0:03:59.28,0:04:02.52,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Yeah you would\Nbe feeling unsure...
+Dialogue: 0,0:04:01.62,0:04:05.12,Narrator,Narrator,0,0,0,,To accomplish his punishment Yamasaki travels by car.
+Dialogue: 0,0:04:05.12,0:04:08.26,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}This is amazing.
+Dialogue: 0,0:04:07.59,0:04:09.76,Yamasaki,Yamasaki,0,0,0,,OK, I'm in the car.
+Dialogue: 0,0:04:10.33,0:04:14.86,Yamasaki,Yamasaki,0,0,0,,Aw man, what will happen to me now?
+Dialogue: 0,0:04:15.87,0:04:18.37,Narrator,Narrator,0,0,0,,The car heads towards the next location,
+Dialogue: 0,0:04:18.37,0:04:22.11,Narrator,Narrator,0,0,0,,right next to Tokyo Tower, in Shiba Park.
+Dialogue: 0,0:04:22.44,0:04:25.41,Staff,Staff,0,0,0,,You'll get out here.
+Dialogue: 0,0:04:23.04,0:04:25.41,Yamasaki,Yamasaki,0,0,0,,Ah, Tokyo Tower?
+Dialogue: 0,0:04:29.15,0:04:34.45,Staff,Staff,0,0,0,,Can you turn left and enter the park?
+Dialogue: 0,0:04:29.15,0:04:31.22,Yamasaki,Yamasaki,0,0,0,,{\pos(551.856,564.351)}Where?
+Dialogue: 0,0:04:35.05,0:04:39.36,Yamasaki,Yamasaki,0,0,0,,Geez, this is stressing me out, I dunno why\Nbut I feel something bad's gonna happen.
+Dialogue: 0,0:04:39.36,0:04:42.30,Yamasaki,Yamasaki,0,0,0,,Doing this alone is really worrying me.
+Dialogue: 0,0:04:45.80,0:04:48.03,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Stop saying "AHH!"
+Dialogue: 0,0:04:48.03,0:04:50.87,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,6)}I can't help it, I'm not\Nused to it at this point
+Dialogue: 0,0:04:50.87,0:04:53.47,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Then get used to it.
+Dialogue: 0,0:04:51.57,0:04:53.47,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,40)}Yeah.
+Dialogue: 0,0:04:58.44,0:05:01.15,Matsumoto,Matsumoto,0,0,0,,I think your screams aren't loud enough.
+Dialogue: 0,0:05:01.15,0:05:03.01,Hamada,Hamada,0,0,0,,It needs more guts.
+Dialogue: 0,0:05:03.01,0:05:04.72,Yamasaki,Yamasaki,0,0,0,,I am shouting loudly.
+Dialogue: 0,0:05:04.72,0:05:07.99,Staff,Staff,0,0,0,,Er, see the bench?\NWhere there are elderly people.
+Dialogue: 0,0:05:07.99,0:05:11.49,Yamasaki,Yamasaki,0,0,0,,Yeah, I see they're doing something.
+Dialogue: 0,0:05:11.49,0:05:13.16,Staff,Staff,0,0,0,,Can you go talk to them?
+Dialogue: 0,0:05:13.89,0:05:15.26,Yamasaki,Yamasaki,0,0,0,,Good morning.{\alphaFF} What are you doing?
+Dialogue: 0,0:05:15.26,0:05:16.69,Yamasaki,Yamasaki,0,0,0,,Good morning. What are you doing?
+Dialogue: 0,0:05:16.69,0:05:18.50,All,Woman,0,0,0,,Stretches.
+Dialogue: 0,0:05:17.30,0:05:18.50,Yamasaki,Yamasaki,0,0,0,,Ah, stretches.
+Dialogue: 0,0:05:18.50,0:05:21.16,All,Woman,0,0,0,,Aren't you a comedian?
+Dialogue: 0,0:05:19.40,0:05:21.16,Yamasaki,Yamasaki,0,0,0,,That's right.
+Dialogue: 0,0:05:19.40,0:05:21.16,All2,Woman,0,0,0,,Ah, Yama-san!
+Dialogue: 0,0:05:21.16,0:05:23.13,All2,Woman,0,0,0,,You looked fatter on TV.
+Dialogue: 0,0:05:23.13,0:05:25.10,All2,Woman,0,0,0,,When you were imitating a lawyer.
+Dialogue: 0,0:05:25.10,0:05:27.30,Yamasaki,Yamasaki,0,0,0,,When I played a lawyer? That's true.
+Dialogue: 0,0:05:30.04,0:05:34.05,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}Shout louder!
+Dialogue: 0,0:05:31.17,0:05:34.05,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}Yeah, for real.
+Dialogue: 0,0:05:34.05,0:05:36.61,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,30)}No, no, no...
+Dialogue: 0,0:05:31.34,0:05:33.14,All,Woman,0,0,0,,Is Matsumoto-san here?
+Dialogue: 0,0:05:33.14,0:05:37.72,Yamasaki,Yamasaki,0,0,0,,I wonder if Matsumoto-san is around here somewhere?
+Dialogue: 0,0:05:38.32,0:05:40.45,All,Woman,0,0,0,,What are you filming today?
+Dialogue: 0,0:05:40.45,0:05:46.16,Yamasaki,Yamasaki,0,0,0,,It's for Gaki no Tsukai.
+Dialogue: 0,0:05:40.45,0:05:46.16,Sign,Note,0,0,0,,{\pos(550.158,569.435)}* Gaki = kid, hence the confusion after
+Dialogue: 0,0:05:46.16,0:05:50.59,All,Woman,0,0,0,,Hajimete no Otsukai?
+Dialogue: 0,0:05:47.42,0:05:50.59,Yamasaki,Woman,0,0,0,,Hajimete no Otsukai...? Yeah, well, uh...
+Dialogue: 0,0:05:46.16,0:05:50.59,Sign,Note,0,0,0,,* Hidden camera show following kids on their first solo errand
+Dialogue: 0,0:05:50.59,0:05:54.06,Staff,Staff,0,0,0,,It's time to go.
+Dialogue: 0,0:05:51.60,0:05:54.06,Yamasaki,Yamasaki,0,0,0,,OK, excuse me, goodbye!
+Dialogue: 0,0:05:54.06,0:05:56.27,All,Woman,0,0,0,,Good luck!
+Dialogue: 0,0:05:54.63,0:05:56.27,Yamasaki,Yamasaki,0,0,0,,OK, thank you very much!
+Dialogue: 0,0:05:56.27,0:05:57.77,Yamasaki,Yamasaki,0,0,0,,This is...
+Dialogue: 0,0:05:57.77,0:06:02.11,Yamasaki,Yamasaki,0,0,0,,Are you not just sending me around random places...?
+Dialogue: 0,0:06:02.57,0:06:04.41,Yamasaki,Yamasaki,0,0,0,,Is it going to be OK?
+Dialogue: 0,0:06:04.88,0:06:06.31,Yamasaki,Yamasaki,0,0,0,,OK!
+Dialogue: 0,0:06:07.11,0:06:09.88,Yamasaki,Yamasaki,0,0,0,,Aah...
+Dialogue: 0,0:06:10.91,0:06:14.39,Yamasaki,Yamasaki,0,0,0,,This is exhausting.
+Dialogue: 0,0:06:15.65,0:06:18.79,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}I still haven't heard\None I'm happy with.
+Dialogue: 0,0:06:15.95,0:06:18.72,Narrator,Narrator,0,0,0,,The next step is to Shimbashi.
+Dialogue: 0,0:06:15.95,0:06:18.72,Sign,Note,0,0,0,,* Business area of Tokyo
+Dialogue: 0,0:06:18.72,0:06:25.80,White Text,,0,0,0,,{\fad(300,0)\pos(75,516)}It has the most people travel through it during rush hour per day
+Dialogue: 0,0:06:19.62,0:06:25.80,Narrator,Narrator,0,0,0,,Yamasaki prepares to do his punishment during rush hour.
+Dialogue: 0,0:06:29.37,0:06:32.60,Staff,Staff,0,0,0,,For now just head to the station.
+Dialogue: 0,0:06:31.00,0:06:32.60,Yamasaki,Yamasaki,0,0,0,,The station?
+Dialogue: 0,0:06:32.60,0:06:37.04,Staff,Staff,0,0,0,,Put yourself under the traffic light.
+Dialogue: 0,0:06:34.07,0:06:37.04,Yamasaki,Yamasaki,0,0,0,,Under the traffic light?
+Dialogue: 0,0:06:37.97,0:06:42.08,Yamasaki,Yamasaki,0,0,0,,Eh seriously? This is so tough...
+Dialogue: 0,0:06:42.65,0:06:46.72,Staff,Staff,0,0,0,,Can you be a little more in the center of the square?
+Dialogue: 0,0:06:44.61,0:06:47.18,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Wow, this is...
+Dialogue: 0,0:06:44.61,0:06:47.18,EndoC,Endo,0,0,0,,{\pos(1064,42)}Uwah, woah!!
+Dialogue: 0,0:06:47.18,0:06:50.99,Yamasaki,Yamasaki,0,0,0,,This is so tough...
+Dialogue: 0,0:06:47.18,0:06:50.99,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,6)}Eh, you see this?\NJust look at that!
+Dialogue: 0,0:06:48.72,0:06:50.99,EndoC,Endo,0,0,0,,{\pos(1060,170)}The camera shoots\Nfrom quite far!
+Dialogue: 0,0:06:52.99,0:06:55.13,EndoC,Endo,0,0,0,,{\pos(1060,30)}Here we go.
+Dialogue: 0,0:07:01.03,0:07:04.20,EndoC,Endo,0,0,0,,{\pos(1060,6)}No way, you didn't\Neven shout.
+Dialogue: 0,0:07:03.13,0:07:04.87,Staff,Staff,0,0,0,,Please shout louder.
+Dialogue: 0,0:07:04.20,0:07:07.64,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Of course.
+Dialogue: 0,0:07:04.87,0:07:07.64,Staff,Staff,0,0,0,,Just make it loud enough that we can wrap it up.
+Dialogue: 0,0:07:12.01,0:07:15.18,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Ugh, that's just...
+Dialogue: 0,0:07:15.04,0:07:19.22,HamadaC,Matsumoto,0,0,0,,{\pos(1060,6)}It just looks like you're\Ncalling someone.
+Dialogue: 0,0:07:21.22,0:07:24.42,RTextBox,Matsumoto,0,0,0,,{\pos(440,576)}----------------------------------------------------
+Dialogue: 0,0:07:19.28,0:07:24.42,Matsumoto,Matsumoto,0,0,0,,You're like one of those little old Japanese men\Nwaiting for you at the airport to rent a car.
+Dialogue: 0,0:07:25.96,0:07:30.16,Staff,Staff,0,0,0,,Yamasaki-san on the sidewalk in front of you is a bakery.
+Dialogue: 0,0:07:28.52,0:07:31.93,Red Text S,Staff,0,0,0,,{\pos(282,476)}Bakery
+Dialogue: 0,0:07:30.16,0:07:31.93,Staff,Staff,0,0,0,,You can go there.
+Dialogue: 0,0:07:40.40,0:07:43.84,Yamasaki,Yamasaki,0,0,0,,There's lots of different\Ndelicious-looking bread!
+Dialogue: 0,0:07:45.64,0:07:50.78,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}This isn't what\NI was imagining...
+Dialogue: 0,0:07:50.78,0:07:53.82,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}It's so quiet..
+Dialogue: 0,0:07:51.85,0:07:53.35,Yamasaki,Yamasaki,0,0,0,,{\pos(501.064,404.748)}Pardon me.
+Dialogue: 0,0:07:53.82,0:07:58.05,EndoC,Endo,0,0,0,,{\pos(1060,30)}This is really bad.
+Dialogue: 0,0:07:58.05,0:08:00.02,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Come on!
+Dialogue: 0,0:08:00.72,0:08:03.89,All,Cashier,0,0,0,,That'll be 1620 yen please.
+Dialogue: 0,0:08:02.33,0:08:03.89,Yamasaki,Yamasaki,0,0,0,,OK.
+Dialogue: 0,0:08:03.89,0:08:06.56,Yamasaki,Yamasaki,0,0,0,,Can I get a receipt?
+Dialogue: 0,0:08:05.19,0:08:06.56,All,Cashier,0,0,0,,Sure.
+Dialogue: 0,0:08:07.83,0:08:10.33,All,Cashier,0,0,0,,Matsumoto-san, correct?
+Dialogue: 0,0:08:08.46,0:08:10.33,Yamasaki,Yamasaki,0,0,0,,Right.
+Dialogue: 0,0:08:14.00,0:08:17.21,Yamasaki,Yamasaki,0,0,0,,Hey this...{\alphaFF} is pretty intense.
+Dialogue: 0,0:08:17.21,0:08:19.64,Yamasaki,Yamasaki,0,0,0,,Hey this... is pretty intense.
+Dialogue: 0,0:08:20.08,0:08:25.68,Narrator,Narrator,0,0,0,,{\pos(563.83,496.717)}3 hours after beginning,
+Dialogue: 0,0:08:20.08,0:08:25.68,EpTitleRed,,0,0,0,,{\pos(548,572)}Yamasaki is only on his eighth shout.
+Dialogue: 0,0:08:25.88,0:08:29.49,Matsumoto,Matsumoto,0,0,0,,You haven't done a damn thing yet they feed you.
+Dialogue: 0,0:08:30.59,0:08:35.39,Narrator,Narrator,0,0,0,,The next place is the NTV headquarters.
+Dialogue: 0,0:08:30.59,0:08:35.39,Sign,,0,0,0,,* A prominent TV channel which also airs Gaki
+Dialogue: 0,0:08:36.96,0:08:38.13,Yamasaki,Yamasaki,0,0,0,,Eh, {\alphaFF}where? What?
+Dialogue: 0,0:08:38.13,0:08:40.70,Yamasaki,Yamasaki,0,0,0,,Eh, where?{\alphaFF} What?
+Dialogue: 0,0:08:40.70,0:08:41.90,Yamasaki,Yamasaki,0,0,0,,Eh, where? What?
+Dialogue: 0,0:08:41.90,0:08:45.80,Staff,Staff,0,0,0,,The cooking segment of "PON!" should start soon.
+Dialogue: 0,0:08:45.80,0:08:47.80,Staff,Staff,0,0,0,,Go and shout during their broadcast.
+Dialogue: 0,0:08:48.44,0:08:51.37,Yamasaki,Yamasaki,0,0,0,,Woah! Seriously?
+Dialogue: 0,0:08:52.21,0:08:56.21,EndoC,Endo,0,0,0,,{\pos(1060,6)}If "PON!" is starting,\Nit's probably about 10:30am.
+Dialogue: 0,0:08:53.11,0:08:55.75,Yamasaki,Yamasaki,0,0,0,,Aw, I don't like this...
+Dialogue: 0,0:08:55.75,0:08:59.12,Yamasaki,Yamasaki,0,0,0,,What is this, I have to shout here?
+Dialogue: 0,0:08:59.12,0:09:01.12,Yamasaki,Yamasaki,0,0,0,,Geez, come on...
+Dialogue: 0,0:09:02.29,0:09:04.59,Yamasaki,Yamasaki,0,0,0,,They will think I'm crazy, geez...
+Dialogue: 0,0:09:04.59,0:09:11.13,Red Text B,,0,0,0,,{\pos(324,60)}"PON!" LIVE
+Dialogue: 0,0:09:04.59,0:09:06.72,White Text,,0,0,0,,{\an2\3c&H8C3300&\pos(968.858,553.183)}Weekly Mon ~ Fri\N10:25 Live\N{\fs24}(Except some areas)
+Dialogue: 0,0:09:05.49,0:09:09.33,Narrator,Narrator,0,0,0,,On the morning broadcast of "PON!"
+Dialogue: 0,0:09:09.33,0:09:15.53,Narrator,Narrator,0,0,0,,the goal is to shout live.
+Dialogue: 0,0:09:17.13,0:09:19.77,Yamasaki,Yamasaki,0,0,0,,I really dunno about this...
+Dialogue: 0,0:09:22.71,0:09:26.48,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}See, now that\Nwas a shout!
+Dialogue: 0,0:09:24.17,0:09:26.48,MatsuC,Hamada,0,0,0,,{\pos(1060,170)}Yeah, that was.
+Dialogue: 0,0:09:24.17,0:09:27.48,Staff,Hamada,0,0,0,,Good, good!
+Dialogue: 0,0:09:27.48,0:09:30.28,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}This is your best\Nshout so far.
+Dialogue: 0,0:09:30.98,0:09:33.22,EndoC,Endo,0,0,0,,{\pos(1060,6)}So he didn't give\Nhis all before!
+Dialogue: 0,0:09:31.75,0:09:33.92,HamadaC,Hamada,0,0,0,,{\pos(1060,170)}True!
+Dialogue: 0,0:09:32.85,0:09:39.02,Red Text B,,0,0,0,,{\pos(324,60)}"PON!" LIVE
+Dialogue: 0,0:09:33.22,0:09:37.52,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}You had no\Nintention of yelling.
+Dialogue: 0,0:09:34.75,0:09:37.52,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,170)}It's not like\NI didn't want to!
+Dialogue: 0,0:09:35.12,0:09:39.02,Yamasaki T,,0,0,0,,{\pos(664,195)}Yamasaki
+Dialogue: 0,0:09:35.72,0:09:39.02,Green Text B,,0,0,0,,{\fs22\pos(446,277)\fad(200,0)\alpha&H80&\}MATSU {\alphaFF}MOTO -SAN~!!
+Dialogue: 0,0:09:36.45,0:09:39.02,Green Text B,,0,0,0,,{\fs22\pos(446,277)\fad(150,0)\alphaFF}MATSU {\alpha&H80&}MOTO {\alphaFF}-SAN~!!
+Dialogue: 0,0:09:37.05,0:09:39.02,Green Text B,,0,0,0,,{\fs22\pos(446,277)\fad(200,0)\alphaFF}MATSU MOTO {\alpha&H80&}-SAN~!!
+Dialogue: 0,0:09:39.56,0:09:42.96,Green Text B,,0,0,0,,{\fs27\fad(200,0)\alpha&H80&\pos(524,335)}MATSUMOTO{\alphaFF}-SAN~!!
+Dialogue: 0,0:09:40.19,0:09:42.96,Green Text B,,0,0,0,,{\fs27\fad(200,0)\alphaFF\pos(524,335)}MATSU MOTO{\alpha&H80&}-SAN~!!
+Dialogue: 0,0:09:42.19,0:09:44.79,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}This is awful.
+Dialogue: 0,0:09:44.79,0:09:49.43,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,30)}It's good.
+Dialogue: 0,0:09:49.77,0:09:51.17,Yamasaki,Yamasaki,0,0,0,,Ah, it's freezing!
+Dialogue: 0,0:09:51.17,0:09:56.87,Narrator,Narrator,0,0,0,,Next is to interrupt the segment for The Touch.
+Dialogue: 0,0:09:51.17,0:09:56.87,Red Text B,,0,0,0,,{\pos(324,60)}"PON!" LIVE
+Dialogue: 0,0:09:51.63,0:09:56.87,Sign,,0,0,0,,{\pos(835.61,576.732)}* Comedy duo
+Dialogue: 0,0:09:55.57,0:09:56.87,Takuya,Takuya,0,0,0,,{\fad(200,0)\pos(548,468.482)}Takuya
+Dialogue: 0,0:09:56.87,0:09:59.28,Yamasaki,Yamasaki,0,0,0,,But it's not good if I interrupt them.
+Dialogue: 0,0:09:59.28,0:10:01.58,Yamasaki,Yamasaki,0,0,0,,I'll actually be interrupting them, seriously?
+Dialogue: 0,0:10:00.11,0:10:01.58,Staff,Staff,0,0,0,,Yes.
+Dialogue: 0,0:10:01.68,0:10:03.65,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}He's really happy!
+Dialogue: 0,0:10:01.58,0:10:03.11,Yamasaki,Yamasaki,0,0,0,,No way!
+Dialogue: 0,0:10:03.28,0:10:08.38,Red Text S,,0,0,0,,{\fs25\pos(836,416)}"PON!" LIVE
+Dialogue: 0,0:10:03.65,0:10:06.85,EndoC,Endo,0,0,0,,{\pos(1060,6)}Is it here you really\Nwanted to yell?
+Dialogue: 0,0:10:04.65,0:10:07.25,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,170)}It's not about\Nwanting to or not!
+Dialogue: 0,0:10:06.85,0:10:08.78,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}He's loving this...
+Dialogue: 0,0:10:08.62,0:10:16.63,Red Text B,,0,0,0,,{\pos(324,60)}"PON!" LIVE
+Dialogue: 0,0:10:10.39,0:10:12.79,Yamasaki,Yamasaki,0,0,0,,Matsumoto-san!!
+Dialogue: 0,0:10:11.19,0:10:12.79,Takuya,Takuya,0,0,0,,Huh?
+Dialogue: 0,0:10:12.79,0:10:14.32,Takuya,Takuya,0,0,0,,Wait a minute...
+Dialogue: 0,0:10:14.32,0:10:17.96,Yamasaki,Yamasaki,0,0,0,,Matsumoto-san!!
+Dialogue: 0,0:10:17.23,0:10:19.36,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Not bad!
+Dialogue: 0,0:10:23.03,0:10:24.67,Takuya,Takuya,0,0,0,,Have you finished?
+Dialogue: 0,0:10:24.67,0:10:26.57,Yamasaki,Yamasaki,0,0,0,,I'm sorry.
+Dialogue: 0,0:10:25.57,0:10:28.57,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Even The Touch\Napologises.
+Dialogue: 0,0:10:30.64,0:10:33.48,White Text,Sign3,0,0,0,,{\fs38\fad(200,0)\pos(108.106,531.558)}Tower Records
+Dialogue: 0,0:10:30.47,0:10:32.98,Yamasaki,Yamasaki,0,0,0,,In here?
+Dialogue: 0,0:10:31.61,0:10:32.98,Staff,Staff,0,0,0,,Yes.
+Dialogue: 0,0:10:32.81,0:10:35.28,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}You went everywhere!
+Dialogue: 0,0:10:33.81,0:10:37.15,White Text,,0,0,0,,{\fad(200,200)\pos(342,518)}Yamasaki tries out his own CD
+Dialogue: 0,0:10:36.15,0:10:39.35,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}But here you don't\Nhave to hold back.
+Dialogue: 0,0:10:41.35,0:10:43.75,White Text,,0,0,0,,{\fad(200,0)\pos(280,586)}22nd Shout\Nof Matsumoto
+Dialogue: 0,0:10:41.38,0:10:44.65,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}Oh dear...
+Dialogue: 0,0:10:41.38,0:10:44.65,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}Geez...
+Dialogue: 0,0:10:44.65,0:10:47.00,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Totally wrong.
+Dialogue: 0,0:10:44.12,0:10:48.33,White Text,Sign3,0,0,0,,{\fs38\fad(200,0)\pos(778.106,535.558)}In the Elevator
+Dialogue: 0,0:10:50.36,0:10:52.36,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Wha??
+Dialogue: 0,0:10:50.39,0:10:53.76,White Text R,,0,0,0,,{\fad(200,0)\pos(822,586)}27th Shout\Nof Matsumoto
+Dialogue: 0,0:10:54.13,0:10:58.33,White Text R,Sign,0,0,0,,{\fs38\fad(200,0)\}Hibiya Park's Matsumoto {\fs32}(restaurant)
+Dialogue: 0,0:10:55.90,0:10:58.33,White Text R,,0,0,0,,{\fad(200,0)\pos(833.216,507.448)}36th Shout\Nof Matsumoto
+Dialogue: 0,0:10:58.50,0:11:02.81,White Text R,Sign3,0,0,0,,{\fs38\fad(200,0)\pos(1036,612)}Matsumoto KiYoshi {\fs32}(pharmacy)
+Dialogue: 0,0:11:00.37,0:11:02.97,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}You can't get\N anything out of him!
+Dialogue: 0,0:11:08.04,0:11:11.98,All,Woman,0,0,0,,Look at you, shouting "Matsumoto-san!"
+Dialogue: 0,0:11:08.04,0:11:11.98,Sign,Woman,0,0,0,,* As if the shop is a person
+Dialogue: 0,0:11:10.65,0:11:12.55,EndoC,Endo,0,0,0,,{\pos(1060,30)}Woah...
+Dialogue: 0,0:11:12.55,0:11:14.92,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}What a bitch!
+Dialogue: 0,0:11:14.92,0:11:17.05,EndoC,Endo,0,0,0,,{\pos(1060,30)}This is harsh.
+Dialogue: 0,0:11:15.72,0:11:18.89,All,Woman,0,0,0,,Are you doing something?
+Dialogue: 0,0:11:16.99,0:11:18.89,Yamasaki,Yamasaki,0,0,0,,Yeah...
+Dialogue: 0,0:11:17.05,0:11:19.59,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}What a bitch...
+Dialogue: 0,0:11:20.86,0:11:23.86,White Text R,,0,0,0,,{\fad(200,0)\pos(1036,420)}41st Shout\Nof Matsumoto
+Dialogue: 0,0:11:21.52,0:11:23.86,All,Woman,0,0,0,,Ahahahaha!
+Dialogue: 0,0:11:24.06,0:11:27.66,White Text R,,0,0,0,,{\fs38\fad(200,0)\pos(1070,612)}King of Gyoza
+Dialogue: 0,0:11:24.36,0:11:26.36,Yamasaki,Yamasaki,0,0,0,,For one person.
+Dialogue: 0,0:11:24.93,0:11:26.36,All,Waiter,0,0,0,,OK.
+Dialogue: 0,0:11:27.33,0:11:31.07,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}You're gonna eat!?
+Dialogue: 0,0:11:28.10,0:11:31.07,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,170)}Of course, everything\NI did is in this...
+Dialogue: 0,0:11:31.07,0:11:34.17,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}But you haven't\N done a damn thing.
+Dialogue: 0,0:11:32.57,0:11:34.40,Yamasaki,Yamasaki,0,0,0,,Thank you for the meal.
+Dialogue: 0,0:11:36.34,0:11:41.34,White Text R,,0,0,0,,{\fad(200,0)\pos(822,586)}50th Shout\Nof Matsumoto
+Dialogue: 0,0:11:37.07,0:11:40.21,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}This is so bad.
+Dialogue: 0,0:11:40.21,0:11:43.68,TanakaC,Tanaka,0,0,0,,{\pos(1060,6)}Zaki-san, honestly!\NJust go for it.
+Dialogue: 0,0:11:41.61,0:11:43.68,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,170)}I am doing it.
+Dialogue: 0,0:11:41.78,0:11:45.45,Yamasaki,Yamasaki,0,0,0,,Man, I waited ages for that meal.
+Dialogue: 0,0:11:47.35,0:11:49.15,Yamasaki,Yamasaki,0,0,0,,Ah, this is irritating!
+Dialogue: 0,0:11:48.86,0:11:51.49,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Irritating!?
+Dialogue: 0,0:11:51.49,0:11:53.72,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}You kidding me?
+Dialogue: 0,0:11:49.69,0:11:53.39,Narrator,Narrator,0,0,0,,Yamasaki has shouted 50 times,\Njust half of his punishment.
+Dialogue: 0,0:11:54.46,0:11:56.76,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}He said it's irritating...
+Dialogue: 0,0:11:53.39,0:11:55.46,Narrator,Narrator,0,0,0,,The car now heads towards its next destination.
+Dialogue: 0,0:11:56.56,0:11:58.66,Yamasaki,Yamasaki,0,0,0,,Oi, you can't be serious...
+Dialogue: 0,0:11:58.66,0:12:01.06,Yamasaki,Yamasaki,0,0,0,,What am I doing here?
+Dialogue: 0,0:11:57.63,0:12:00.50,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}What's up?
+Dialogue: 0,0:12:00.50,0:12:04.00,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}What is it?
+Dialogue: 0,0:12:01.90,0:12:04.00,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}Ah, wow!
+Dialogue: 0,0:12:03.20,0:12:07.57,Staff,Staff,0,0,0,,This is the house of parliament.
+Dialogue: 0,0:12:05.27,0:12:07.57,Yamasaki,Yamasaki,0,0,0,,Eh, you're serious!?
+Dialogue: 0,0:12:06.80,0:12:10.21,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Well of course,\Nthat could happen...
+Dialogue: 0,0:12:08.67,0:12:13.68,Yamasaki,Yamasaki,0,0,0,,I can't shout here, it's not possible!
+Dialogue: 0,0:12:13.98,0:12:17.65,Yamasaki,Yamasaki,0,0,0,,Besides there are lots of police...
+Dialogue: 0,0:12:15.18,0:12:17.65,EndoC,Yamasaki,0,0,0,,{\pos(1060,30)}There sure are!
+Dialogue: 0,0:12:17.65,0:12:21.89,Yamasaki,Yamasaki,0,0,0,,The atmosphere here is different.
+Dialogue: 0,0:12:22.08,0:12:25.29,Staff,Staff,0,0,0,,See the pair of guards?\NThere's a space in front of them.
+Dialogue: 0,0:12:25.29,0:12:27.56,Staff,Staff,0,0,0,,Go over there.
+Dialogue: 0,0:12:27.56,0:12:29.89,Yamasaki,Yamasaki,0,0,0,,I can't do that, no way!
+Dialogue: 0,0:12:29.89,0:12:33.90,Yamasaki T,,0,0,0,,{\move(842,367,726,355)}Yamasaki
+Dialogue: 0,0:12:30.83,0:12:33.90,Yamasaki,Yamasaki,0,0,0,,I'm not being held responsible...
+Dialogue: 0,0:12:34.26,0:12:36.17,Staff,Staff,0,0,0,,Well, are you ready?
+Dialogue: 0,0:12:36.17,0:12:38.87,Yamasaki,Yamasaki,0,0,0,,No. no, no way, no way, no way, no way!!
+Dialogue: 0,0:12:38.20,0:12:40.60,TanakaC,Tanaka,0,0,0,,{\pos(1060,6)}The place itself\Nmakes it scary
+Dialogue: 0,0:12:40.60,0:12:43.81,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}It is a punishment after all.
+Dialogue: 0,0:12:42.17,0:12:43.81,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}True.
+Dialogue: 0,0:12:44.31,0:12:47.28,Staff,Staff,0,0,0,,See the pair of guards?\NThere's a space in front of them.
+Dialogue: 0,0:12:47.28,0:12:49.31,Staff,Staff,0,0,0,,Go over there.
+Dialogue: 0,0:12:49.31,0:12:51.78,Yamasaki,Yamasaki,0,0,0,,I can't do that, no way!
+Dialogue: 0,0:12:51.78,0:12:55.78,Yamasaki T,,0,0,0,,{\move(842,367,726,355)}Yamasaki
+Dialogue: 0,0:12:52.62,0:12:55.78,Yamasaki,Yamasaki,0,0,0,,I'm not being held responsible...
+Dialogue: 0,0:12:56.19,0:12:58.12,Staff,Staff,0,0,0,,Well, are you ready?
+Dialogue: 0,0:12:58.12,0:13:00.59,Yamasaki,Yamasaki,0,0,0,,No. no, no way, no way, no way, no way!!
+Dialogue: 0,0:13:00.79,0:13:03.36,Yamasaki,Yamasaki,0,0,0,,I can't, seriously, there's no way!
+Dialogue: 0,0:13:03.36,0:13:06.26,Yamasaki,Yamasaki,0,0,0,,I can't do that, no way, no way...
+Dialogue: 0,0:13:06.26,0:13:06.66,Yamasaki,Yamasaki,0,0,0,,Oi oi{\alphaFF} oi oi oi oi oi!
+Dialogue: 0,0:13:06.66,0:13:07.06,Yamasaki,Yamasaki,0,0,0,,Oi oi oi oi{\alphaFF} oi oi oi!
+Dialogue: 0,0:13:07.06,0:13:07.43,Yamasaki,Yamasaki,0,0,0,,Oi oi oi oi oi oi{\alphaFF} oi!
+Dialogue: 0,0:13:07.43,0:13:07.90,Yamasaki,Yamasaki,0,0,0,,Oi oi oi oi oi oi oi!
+Dialogue: 0,0:13:08.93,0:13:10.23,Yamasaki,Yamasaki,0,0,0,,Oi!
+Dialogue: 0,0:13:13.44,0:13:15.10,Yamasaki,Yamasaki,0,0,0,,I can't do this.
+Dialogue: 0,0:13:13.44,0:13:16.37,HamadaC,Yamasaki,0,0,0,,{\pos(1060,30)}Geez...
+Dialogue: 0,0:13:15.10,0:13:18.17,Staff,Staff,0,0,0,,It was too quiet so it doesn't count.
+Dialogue: 0,0:13:16.91,0:13:19.94,Yamasaki,Staff,0,0,0,,No, no, no, I can't, no way!
+Dialogue: 0,0:13:18.17,0:13:21.18,Staff,Staff,0,0,0,,It can't count as a shout.
+Dialogue: 0,0:13:21.18,0:13:24.94,Yamasaki,Yamasaki,0,0,0,,I can not shout here...{\alphaFF} No way.
+Dialogue: 0,0:13:24.95,0:13:26.75,Yamasaki,Yamasaki,0,0,0,,I can not shout here... No way.
+Dialogue: 0,0:13:27.42,0:13:30.99,Narrator,Narrator,0,0,0,,He's been infront of the gate for 3 minutes.
+Dialogue: 0,0:13:30.99,0:13:34.46,Narrator,Narrator,0,0,0,,His voice just will not come out.
+Dialogue: 0,0:13:33.26,0:13:36.36,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}What the hell does that even mean,\N"His voice won't come out"?
+Dialogue: 0,0:13:34.46,0:13:37.19,Yamasaki,Yamasaki,0,0,0,,This is impossible...
+Dialogue: 0,0:13:36.36,0:13:38.36,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}It's not impossible.
+Dialogue: 0,0:13:37.63,0:13:39.50,Staff,Staff,0,0,0,,Let's go.
+Dialogue: 0,0:13:39.13,0:13:40.56,Yamasaki,Yamasaki,0,0,0,,Seriously? {\alphaFF}Seriously?
+Dialogue: 0,0:13:39.50,0:13:41.33,Staff,Staff,0,0,0,,We're counting on you.
+Dialogue: 0,0:13:40.56,0:13:41.33,Yamasaki,Yamasaki,0,0,0,,Seriously? Seriously?
+Dialogue: 0,0:13:41.33,0:13:43.27,Yamasaki,Yamasaki,0,0,0,,Ahh, come on...
+Dialogue: 0,0:13:45.27,0:13:48.97,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}This is awful.
+Dialogue: 0,0:13:46.97,0:13:47.10,Staff,Staff,0,0,0,,No{\alphaFF} no no no!
+Dialogue: 0,0:13:47.10,0:13:47.24,Staff,Staff,0,0,0,,No no{\alphaFF} no no!
+Dialogue: 0,0:13:47.24,0:13:47.37,Staff,Staff,0,0,0,,No no no{\alphaFF} no!
+Dialogue: 0,0:13:47.37,0:13:49.24,Staff,Staff,0,0,0,,No no no no!
+Dialogue: 0,0:13:49.24,0:13:53.28,Staff,Staff,0,0,0,,Yamasaki-san, you weren't even heard!
+Dialogue: 0,0:13:50.61,0:13:53.78,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Not in the slightest!
+Dialogue: 0,0:13:53.78,0:13:56.95,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}You love running away...
+Dialogue: 0,0:13:54.88,0:13:56.81,Yamasaki,Yamasaki,0,0,0,,{\fad(0,200)}Geez...
+Dialogue: 0,0:13:57.68,0:14:01.05,Staff,Staff,0,0,0,,We can't count that one.
+Dialogue: 0,0:13:59.48,0:14:01.62,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}Too right!
+Dialogue: 0,0:14:03.59,0:14:06.29,Staff,Staff,0,0,0,,So Yamasaki-san, ready to move on?
+Dialogue: 0,0:14:07.36,0:14:14.00,Narrator,Narrator,0,0,0,,2PM, heading to 'Lumine the Yoshimoto' in Shinjuku.
+Dialogue: 0,0:14:07.36,0:14:14.00,Sign,Sign,0,0,0,,* A big production agency for stage artists
+Dialogue: 0,0:14:12.60,0:14:15.00,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Ah, you're on stage.
+Dialogue: 0,0:14:14.70,0:14:18.03,Yamasaki,Yamasaki,0,0,0,,Hello.
+Dialogue: 0,0:14:14.70,0:14:18.03,All,All,0,0,0,,Hello.
+Dialogue: 0,0:14:18.47,0:14:25.37,White Text,,0,0,0,,{\fad(200,0)\pos(264.853,528.825)}Imada Kouji's once per month performance
+Dialogue: 0,0:14:18.57,0:14:25.37,Narrator,Narrator,0,0,0,,Today he's playing a part with comedian Imada Kouji.
+Dialogue: 0,0:14:26.34,0:14:27.51,Yamasaki,Yamasaki,0,0,0,,{\pos(548,566)}OK.
+Dialogue: 0,0:14:26.84,0:14:31.35,Narrator,Narrator,0,0,0,,Yamasaki receives a bracelet.
+Dialogue: 0,0:14:30.21,0:14:36.79,White Text,,0,0,0,,{\fad(200,0)\pos(279.17,529.222)}They prefer a wristband for him instead
+Dialogue: 0,0:14:32.11,0:14:35.18,EndoC,Endo,0,0,0,,{\pos(1060,30)}During the real thing?
+Dialogue: 0,0:14:31.35,0:14:34.02,Yamasaki,Yamasaki,0,0,0,,I can't wear this,  please!
+Dialogue: 0,0:14:34.02,0:14:36.79,Yamasaki,Yamasaki,0,0,0,,I can't do it, there are customers...
+Dialogue: 0,0:14:37.12,0:14:42.69,RTextBox,,0,0,0,,{\fad(200,0)\pos(544.025,565.314)}---------------------------------------
+Dialogue: 0,0:14:37.12,0:14:42.69,Red Text B,,0,0,0,,{\fad(200,0)\pos(773.157,570.123)}Will Yamasaki shout!?
+Dialogue: 0,0:14:37.69,0:14:42.69,Narrator,Narrator,0,0,0,,Will Yamasaki be up to it, facing so many people?
+Dialogue: 0,0:14:38.59,0:14:42.12,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Look how his\N belly sticks out!
+Dialogue: 0,0:14:42.86,0:14:47.56,White Text,,0,0,0,,{\fs28\fad(200,0)\\pos(12,114)}Yoshimoto New Comedy Troupe
+Dialogue: 0,0:14:42.12,0:14:45.29,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}But here, you should\Nreally be able to go for it.
+Dialogue: 0,0:14:45.29,0:14:46.86,Koji,,0,0,0,,Hold on now!
+Dialogue: 0,0:14:50.20,0:14:52.54,Yamasaki B2,Yamasaki,0,0,0,,MA~!!
+Dialogue: 0,0:14:50.20,0:14:52.54,Sign,Yamasaki,0,0,0,,* A popular stage gag of Housei's
+Dialogue: 0,0:14:53.17,0:14:54.70,Koji,Koji,0,0,0,,Eh, what're you doing here!?
+Dialogue: 0,0:14:54.70,0:14:57.14,Yamasaki,Yamasaki,0,0,0,,Wait, what's with that tone?
+Dialogue: 0,0:14:57.14,0:14:58.91,Yamasaki,Yamasaki,0,0,0,,Huh, what did you say?
+Dialogue: 0,0:14:58.91,0:15:00.58,Yamasaki,Yamasaki,0,0,0,,You know I could
+Dialogue: 0,0:15:00.58,0:15:03.58,Yamasaki,Yamasaki,0,0,0,,make you disappear from this world in 3 seconds.
+Dialogue: 0,0:15:03.58,0:15:05.68,Yamasaki,Yamasaki,0,0,0,,Right then.
+Dialogue: 0,0:15:03.58,0:15:05.68,Koji,Koji,0,0,0,,Go on then.
+Dialogue: 0,0:15:05.68,0:15:08.42,Yamasaki,Yamasaki,0,0,0,,Yeah, I will.
+Dialogue: 0,0:15:05.68,0:15:08.42,Koji,Koji,0,0,0,,In 3 seconds?
+Dialogue: 0,0:15:13.79,0:15:14.82,Yamasaki B2,Yamasaki,0,0,0,,{\pos(696,472)}MA~{\alpha&HFF&\fs42}tsumoto-san
+Dialogue: 0,0:15:14.82,0:15:17.29,Yamasaki B2,Yamasaki,0,0,0,,{\pos(696,472)}MA~{\fs42}tsumoto-san
+Dialogue: 0,0:15:16.06,0:15:18.76,Koji,Koji,0,0,0,,What are you on about?
+Dialogue: 0,0:15:16.96,0:15:18.76,Yamasaki,Yamasaki,0,0,0,,{\pos(805.568,612)}Ow!!
+Dialogue: 0,0:15:19.90,0:15:22.13,Koji,Koji,0,0,0,,Why yell someone's name?
+Dialogue: 0,0:15:22.13,0:15:25.30,Hamada,Hamada,0,0,0,,He's done so well to play along and get people to laugh along...
+Dialogue: 0,0:15:25.30,0:15:29.17,Yamasaki,Yamasaki,0,0,0,,Hamada-san, that's not it, it's not even about that...
+Dialogue: 0,0:15:29.37,0:15:32.81,White Text,Sign3,0,0,0,,{\fad(200,200)}Tokyo Metropolitan Government Building
+Dialogue: 0,0:15:34.54,0:15:37.55,White Text,,0,0,0,,{\fad(200,0)\pos(62,424)}63rd Shout\Nof Matsumoto
+Dialogue: 0,0:15:35.44,0:15:38.61,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}It should be like this.
+Dialogue: 0,0:15:36.35,0:15:38.61,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}Right, yeah.
+Dialogue: 0,0:15:37.55,0:15:39.55,JapanRail,Sign4,0,0,0,,{\pos(608,402)}Shinjuku Station
+Dialogue: 0,0:15:39.92,0:15:44.55,White Text,Sign3,0,0,0,,{\fad(200,0)\pos(76,528)}Shinjuku Station, East Exit
+Dialogue: 0,0:15:40.88,0:15:43.65,Yamasaki,Yamasaki,0,0,0,,So embarrassing.
+Dialogue: 0,0:15:42.65,0:15:45.02,EndoC,Endo,0,0,0,,{\pos(1060,6)}These kind of places,\Nhe should really...
+Dialogue: 0,0:15:45.02,0:15:47.22,TanakaC,Tanaka,0,0,0,,{\pos(1060,30)}Yeah, yeah.
+Dialogue: 0,0:15:48.22,0:15:50.56,White Text R,,0,0,0,,{\fad(200,0)\pos(1042,428)}71st Shout\Nof Matsumoto
+Dialogue: 0,0:15:49.69,0:15:51.69,HamadaC,,0,0,0,,{\pos(1060,30)}Meh...
+Dialogue: 0,0:15:50.56,0:15:53.76,All,Man,0,0,0,,Are you just here to shout "Matsumoto-san"?
+Dialogue: 0,0:15:52.33,0:15:53.76,Yamasaki,Yamasaki,0,0,0,,Yeah...
+Dialogue: 0,0:15:54.40,0:15:58.03,Yamasaki,Yamasaki,0,0,0,,I'm only here to say "Matsumoto-san!"
+Dialogue: 0,0:15:56.20,0:15:58.03,All,Man,0,0,0,,{\pos(618.286,489.945)}Hahaha.
+Dialogue: 0,0:15:59.07,0:16:03.27,EndoC,,0,0,0,,{\pos(1060,6)}That's so annoying...
+Dialogue: 0,0:16:00.67,0:16:03.27,TanakaC,,0,0,0,,{\pos(1060,42)}Yeah...
+Dialogue: 0,0:16:00.27,0:16:04.54,White Text,,0,0,0,,{\fad(200,200)\pos(76,528)}Shinjuku Station, East Exit Escalator
+Dialogue: 0,0:16:03.27,0:16:05.41,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}"Is that it?"
+Dialogue: 0,0:16:09.28,0:16:12.45,White Text R,,0,0,0,,{\fad(200,0)\pos(1038,426)}78th Shout\Nof Matsumoto
+Dialogue: 0,0:16:09.81,0:16:13.38,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}Ah, it's too quiet!
+Dialogue: 0,0:16:12.61,0:16:15.48,White Text,,0,0,0,,{\fad(200,0)\pos(394,604)}On to the next location
+Dialogue: 0,0:16:19.92,0:16:22.29,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}What's with this?
+Dialogue: 0,0:16:24.49,0:16:26.33,Yamasaki,Yamasaki,0,0,0,,Why here?
+Dialogue: 0,0:16:24.43,0:16:27.10,White Text,,0,0,0,,{\fad(200,0)\pos(154,426)}83rd Shout\Nof Matsumoto
+Dialogue: 0,0:16:27.60,0:16:31.27,Yamasaki,Yamasaki,0,0,0,,Geez, they don't let me\Nrest for a second, seriously...
+Dialogue: 0,0:16:32.50,0:16:35.27,Narrator,Narrator,0,0,0,,The next place is Ginza.
+Dialogue: 0,0:16:32.50,0:16:35.27,Sign,Sign,0,0,0,,* An upscale Tokyo district
+Dialogue: 0,0:16:36.37,0:16:39.11,Yamasaki,Yamasaki,0,0,0,,I'm in the heart of Ginza.
+Dialogue: 0,0:16:39.17,0:16:42.31,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}Everyone here is\N upper class and stuff..
+Dialogue: 0,0:16:43.61,0:16:45.71,Staff,Staff,0,0,0,,Yamasaki-san, see the little police station?
+Dialogue: 0,0:16:45.71,0:16:48.05,Yamasaki,Yamasaki,0,0,0,,Ah, there it is, a tiny police station.
+Dialogue: 0,0:16:48.05,0:16:51.85,Staff,Staff,0,0,0,,OK, let's shout standing right next to it.
+Dialogue: 0,0:16:49.55,0:16:51.85,Yamasaki,Staff,0,0,0,,Eh!?
+Dialogue: 0,0:16:49.48,0:16:49.79,Sign5,Sign5,0,0,0,,{\fad(300,0)\move(380,219,475,250)}Police\NStation
+Dialogue: 0,0:16:49.79,0:16:50.12,Sign5,Sign5,0,0,0,,{\move(475,250,514,259)}Police\NStation
+Dialogue: 0,0:16:50.12,0:16:51.39,Sign5,Sign5,0,0,0,,{\move(514,259,540,248)}Police\NStation
+Dialogue: 0,0:16:51.39,0:16:51.85,Sign5,Sign5,0,0,0,,{\pos(540,248)}Police\NStation
+Dialogue: 0,0:16:51.09,0:16:54.16,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,6)}I was terrified of yelling\Nby a police box like that.
+Dialogue: 0,0:16:51.85,0:16:54.86,Yamasaki T,,0,0,0,,{\pos(636,110)}Yamasaki
+Dialogue: 0,0:16:54.16,0:16:55.49,HamadaC,Hamada,0,0,0,,{\pos(964,30.397)}Why?
+Dialogue: 0,0:16:54.16,0:16:55.49,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30.397)}Why?
+Dialogue: 0,0:16:55.49,0:16:58.49,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,6)}It was scary somehow,\NI didn't wanna get in trouble.
+Dialogue: 0,0:16:58.49,0:17:00.36,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}That's pathetic.
+Dialogue: 0,0:17:00.36,0:17:02.73,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}Trying to pretend he's\Nlooking for someone.
+Dialogue: 0,0:17:02.73,0:17:05.67,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}He's just pretending to \Nlook for someone!
+Dialogue: 0,0:17:03.57,0:17:05.67,EndoC,Endo,0,0,0,,{\pos(1060,170)}Seriously!
+Dialogue: 0,0:17:05.67,0:17:08.84,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}To try and make\Nan excuse.
+Dialogue: 0,0:17:08.84,0:17:10.61,TanakaC,Tanaka,0,0,0,,{\pos(1060,30)}So true.
+Dialogue: 0,0:17:10.61,0:17:13.24,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,6)}Ah, I was\Nreally scared...
+Dialogue: 0,0:17:12.01,0:17:14.84,EndoC,Endo,0,0,0,,{\pos(1060,170)}Look at what\Nhe's doing!
+Dialogue: 0,0:17:13.24,0:17:15.81,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}You're not\Ndoing it at all.
+Dialogue: 0,0:17:16.88,0:17:17.85,Yamasaki T,,0,0,0,,{\pos(656,90)}Yamasaki
+Dialogue: 0,0:17:17.85,0:17:19.45,Yamasaki T,,0,0,0,,{\fad(0,200)\move(656,90,780,96)}Yamasaki
+Dialogue: 0,0:17:17.28,0:17:20.62,Yamasaki,Yamasaki,0,0,0,,The police are watching me...
+Dialogue: 0,0:17:18.91,0:17:21.35,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}No they aren't...
+Dialogue: 0,0:17:25.39,0:17:29.29,Narrator,Narrator,0,0,0,,Next is a place where silence is mandatory.
+Dialogue: 0,0:17:25.45,0:17:30.29,White Text,Narrator,0,0,0,,{\fad(200,0)\pos(410.433,524.809)}Next place, a gallery
+Dialogue: 0,0:17:29.29,0:17:30.99,Narrator,Narrator,0,0,0,,An art gallery.
+Dialogue: 0,0:17:33.73,0:17:35.80,Yamasaki,Yamasaki,0,0,0,,It's super quiet...
+Dialogue: 0,0:17:37.63,0:17:39.44,Yamasaki,Yamasaki,0,0,0,,Wait, I absolutely can't do it here...
+Dialogue: 0,0:17:39.44,0:17:41.54,Yamasaki,Yamasaki,0,0,0,,How can you shout in a place like this...?
+Dialogue: 0,0:17:40.47,0:17:42.64,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}I'm counting on\Nyou here, okay?
+Dialogue: 0,0:17:41.54,0:17:42.77,Staff,Staff,0,0,0,,Please do.
+Dialogue: 0,0:17:42.64,0:17:45.11,HamadaC,Hamada,0,0,0,,{\pos(1060,6)}Ideal place for\Nthis punishment.
+Dialogue: 0,0:17:42.77,0:17:45.27,Yamasaki,Yamasaki,0,0,0,,This is impossible, no way, no way, no way!
+Dialogue: 0,0:17:45.27,0:17:48.14,Yamasaki,Yamasaki,0,0,0,,It's not right to shout in such a place.
+Dialogue: 0,0:17:46.68,0:17:49.71,EndoC,Endo,0,0,0,,{\pos(1060,6)}Don't say that, it's a\Npunishment after all.
+Dialogue: 0,0:17:49.65,0:17:51.25,Yamasaki,,0,0,0,,Eh...?
+Dialogue: 0,0:17:50.48,0:17:52.21,MatsuC,,0,0,0,,{\pos(1060,30)}Right, come on.
+Dialogue: 0,0:17:57.05,0:17:59.49,Staff,Staff,0,0,0,,No good Yamasaki-san, it doesn't count.
+Dialogue: 0,0:17:59.49,0:18:01.92,Yamasaki,Yamasaki,0,0,0,,But it's too risky to shout here.
+Dialogue: 0,0:18:00.36,0:18:01.92,Staff,Staff,0,0,0,,That was no good.
+Dialogue: 0,0:18:01.92,0:18:03.76,Staff,Staff,0,0,0,,Do it once{\alphaFF} then immediately return.
+Dialogue: 0,0:18:03.76,0:18:06.56,Staff,Staff,0,0,0,,Do it once then immediately return.
+Dialogue: 0,0:18:11.17,0:18:12.73,Yamasaki,Yamasaki,0,0,0,,I'm sorry.
+Dialogue: 0,0:18:11.40,0:18:13.20,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}What the hell is this?
+Dialogue: 0,0:18:13.20,0:18:15.37,EndoC,Endo,0,0,0,,{\pos(1060,6)}Plus, he quietly\Napologized.
+Dialogue: 0,0:18:15.60,0:18:17.44,Yamasaki,Yamasaki,0,0,0,,I dunno about this...
+Dialogue: 0,0:18:19.77,0:18:23.45,RTextBox,Matsumoto,0,0,0,,{\pos(548.795,575.129)}-----------------
+Dialogue: 0,0:18:17.44,0:18:20.94,Yamasaki,Yamasaki,0,0,0,,They were just so shocked, ugh...
+Dialogue: 0,0:18:19.77,0:18:23.45,Matsumoto,Matsumoto,0,0,0,,So pathetic~!
+Dialogue: 0,0:18:24.35,0:18:27.02,Narrator,Narrator,0,0,0,,Only 14 shouts are left.
+Dialogue: 0,0:18:25.91,0:18:29.29,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}I haven't heard any shouts\Nand it's already evening.
+Dialogue: 0,0:18:27.02,0:18:29.29,Narrator,,0,0,0,,Now it's time for the climax!
+Dialogue: 0,0:18:24.48,0:18:29.29,EpTitleBlue,,0,0,0,,{\pos(229.874,502.055)}86 shouts\Ncomplete
+Dialogue: 0,0:18:24.48,0:18:29.29,RedYellow,,0,0,0,,{\pos(890,500)}It's time for\Nthe climax!
+Dialogue: 0,0:18:29.62,0:18:35.63,RTextBox,,0,0,0,,{\fad(200,0)\pos(551.991,569.547)}-------------------------------------
+Dialogue: 0,0:18:29.62,0:18:35.63,White Text,,0,0,0,,{\fad(200,0)\pos(391.73,532.628)}12 hours since the start
+Dialogue: 0,0:18:29.62,0:18:35.63,Red Text S,,0,0,0,,{\fad(200,0)\pos(792.34,571.835)}Yamasaki's nearing his limit...
+Dialogue: 0,0:18:31.29,0:18:34.52,Narrator,Narrator,0,0,0,,Yamasaki's stamina has reached its limits.
+Dialogue: 0,0:18:33.56,0:18:36.79,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}No, no, no, no...
+Dialogue: 0,0:18:36.79,0:18:39.23,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}No, no, no, no!
+Dialogue: 0,0:18:35.79,0:18:40.63,White Text,Narrator,0,0,0,,{\fad(200,0)\pos(349.147,527.222)}Arrived at it's final checkpoint
+Dialogue: 0,0:18:36.49,0:18:40.63,Narrator,Narrator,0,0,0,,The car comes to its last destination.
+Dialogue: 0,0:18:41.30,0:18:44.37,Yamasaki,Yamasaki,0,0,0,,Seriously, where are we?
+Dialogue: 0,0:18:48.27,0:18:50.74,Yamasaki,Yamasaki,0,0,0,,Where are we?
+Dialogue: 0,0:18:52.98,0:18:55.85,Yamasaki,Yamasaki,0,0,0,,Hold on now, oi...
+Dialogue: 0,0:18:55.85,0:18:58.48,Yamasaki,Yamasaki,0,0,0,,What is this!?
+Dialogue: 0,0:19:03.18,0:19:05.39,Staff,Staff,0,0,0,,Yamasaki-san?
+Dialogue: 0,0:19:04.05,0:19:05.39,Yamasaki,Yamasaki,0,0,0,,Eh?
+Dialogue: 0,0:19:06.46,0:19:10.93,Staff,Staff,0,0,0,,Currently for your "100 Shouts of Matsumoto"
+Dialogue: 0,0:19:10.93,0:19:13.63,Staff,Staff,0,0,0,,you've completed 86 shouts.
+Dialogue: 0,0:19:13.03,0:19:17.27,About,,0,0,0,,{\fad(200,0)\pos(476.433,479.603)}Left:
+Dialogue: 0,0:19:13.03,0:19:17.27,EpTitleRed,,0,0,0,,{\fad(200,0)\pos(639.988,479.603)}14 Shouts
+Dialogue: 0,0:19:13.63,0:19:15.83,Staff,Staff,0,0,0,,So now there's 14 shouts left.
+Dialogue: 0,0:19:11.26,0:19:17.27,White Text,,0,0,0,,{\fad(200,0)\pos(70,418)}86 Shouts\Nof Matsumoto
+Dialogue: 0,0:19:15.83,0:19:17.27,Yamasaki,Yamasaki,0,0,0,,Really?
+Dialogue: 0,0:19:17.53,0:19:23.01,Staff,Staff,0,0,0,,Yama-chan, see the mannequin before you?
+Dialogue: 0,0:19:23.14,0:19:28.11,Staff,Staff,0,0,0,,This is a model of Matsumoto Hitoshi.
+Dialogue: 0,0:19:28.11,0:19:30.31,Yamasaki,Yamasaki,0,0,0,,A dummy of Matsumoto-san?
+Dialogue: 0,0:19:30.71,0:19:33.25,Yamasaki,Yamasaki,0,0,0,,It's really similar to Matsumoto-san...
+Dialogue: 0,0:19:35.39,0:19:42.02,Staff,Staff,0,0,0,,Right, can you turn to the path you just took?
+Dialogue: 0,0:19:42.02,0:19:45.56,Staff,Staff,0,0,0,,You'll carry the Matsumoto-san mannequin
+Dialogue: 0,0:19:45.56,0:19:49.13,Staff,Staff,0,0,0,,using all your strength.
+Dialogue: 0,0:19:49.30,0:19:56.07,Staff,Staff,0,0,0,,Then, run to the red cones doing your last 14 shouts.
+Dialogue: 0,0:19:56.07,0:19:58.17,Staff,Staff,0,0,0,,Are you ready?
+Dialogue: 0,0:19:58.17,0:19:59.34,Yamasaki,Yamasaki,0,0,0,,Wait a sec!{\alphaFF} Wait!
+Dialogue: 0,0:19:59.34,0:20:00.64,Yamasaki,Yamasaki,0,0,0,,Wait a sec! Wait!
+Dialogue: 0,0:20:04.75,0:20:07.15,Yamasaki,Yamasaki,0,0,0,,Uwah~ This is revolting!
+Dialogue: 0,0:20:08.18,0:20:10.85,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}"Revolting"...!?
+Dialogue: 0,0:20:08.58,0:20:11.45,Staff,Staff,0,0,0,,Are you alright?
+Dialogue: 0,0:20:09.45,0:20:11.45,Yamasaki,Yamasaki,0,0,0,,Give me a second...
+Dialogue: 0,0:20:10.85,0:20:12.39,TanakaC,Tanaka,0,0,0,,{\pos(1060,30)}What did you mean?
+Dialogue: 0,0:20:12.39,0:20:14.76,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}What you trying to say??
+Dialogue: 0,0:20:13.22,0:20:14.76,YamasakiC,Yamasaki,0,0,0,,{\pos(1060,42)}Well...
+Dialogue: 0,0:20:11.59,0:20:14.76,Staff,Staff,0,0,0,,Starting in 3 seconds!
+Dialogue: 0,0:20:14.76,0:20:15.79,Staff,Staff,0,0,0,,Two!
+Dialogue: 0,0:20:15.79,0:20:16.79,Staff,Staff,0,0,0,,One!
+Dialogue: 0,0:20:16.79,0:20:19.33,EpTitleBlue,Staff,0,0,0,,{\fad(100,200)\pos(654.549,600.778)}Start!!
+Dialogue: 0,0:20:17.49,0:20:24.77,White Text,,0,0,0,,{\fad(200,0)\pos(62,424)}Shout Counter:
+Dialogue: 0,0:20:25.23,0:20:28.00,Staff,Staff,0,0,0,,Starting in 3 seconds!
+Dialogue: 0,0:20:28.00,0:20:29.00,Staff,Staff,0,0,0,,Two!
+Dialogue: 0,0:20:29.00,0:20:30.04,Staff,Staff,0,0,0,,One!
+Dialogue: 0,0:20:30.04,0:20:32.57,EpTitleBlue,Staff,0,0,0,,{\fad(100,200)\pos(654.549,600.778)}Start!!
+Dialogue: 0,0:20:30.74,0:21:16.15,White Text,,0,0,0,,{\fad(200,0)\pos(62,424)}Shout Counter:
+Dialogue: 0,0:20:43.69,0:20:45.55,Yamasaki,Yamasaki,0,0,0,,HOT! HOT! HOT!!
+Dialogue: 0,0:20:52.13,0:20:54.03,MatsuC,Matsumoto,0,0,0,,{\pos(1060,30)}You bet it's hot.
+Dialogue: 0,0:20:58.73,0:21:01.64,HamadaC,Hamada,0,0,0,,{\pos(1060,30)}He was like, "Waah!"
+Dialogue: 0,0:20:59.70,0:21:01.44,Yamasaki,Yamasaki,0,0,0,,SO HOT!!
+Dialogue: 0,0:21:03.87,0:21:07.58,Staff,Staff,0,0,0,,Yamasaki-san, you still need three shouts!
+Dialogue: 0,0:21:05.34,0:21:07.58,Yamasaki,Yamasaki,0,0,0,,HOT!!
+Dialogue: 0,0:21:08.18,0:21:10.45,Staff,Staff,0,0,0,,Yamasaki-san, still three left!
+Dialogue: 0,0:21:16.25,0:21:18.25,Yamasaki,Yamasaki,0,0,0,,I protected you!
+Dialogue: 0,0:21:22.19,0:21:24.73,Yamasaki,Yamasaki,0,0,0,,I saved him!
+Dialogue: 0,0:21:25.13,0:21:28.86,Staff,Staff,0,0,0,,With this the "100 Shouts of Matsumoto" punishment
+Dialogue: 0,0:21:28.86,0:21:30.97,Staff,Staff,0,0,0,,has been successfully completed.
+Dialogue: 0,0:21:30.97,0:21:32.07,Staff,Staff,0,0,0,,Good job.
+Dialogue: 0,0:21:32.07,0:21:34.24,Yamasaki B,Yamasaki,0,0,0,,THANK YOU!!
+Dialogue: 0,0:21:33.74,0:21:36.54,MatsuC,Matsumoto,0,0,0,,{\pos(1060,6)}Just the last one...
+Dialogue: 0,0:21:33.90,0:21:36.54,TanakaC,Tanaka,0,0,0,,{\pos(1060,40)}That's so bad.
+Dialogue: 0,0:21:33.90,0:21:38.51,HamadaC,Tanaka,0,0,0,,{\pos(1060,170)}Just the last\None was loud.
+Dialogue: 0,0:21:34.34,0:21:38.51,Sign6,Sign6,0,0,0,,{\fad(400,0)}100 SHOUTS OF MATSUMOTO {\c&H000000&}ENDS!!
+Dialogue: 0,0:21:39.57,0:21:41.94,Hamada,Hamada,0,0,0,,What did you think, everyone?
+Dialogue: 0,0:21:40.94,0:21:43.91,Tanaka,Tanaka,0,0,0,,He wasn't shouting at all...
+Dialogue: 0,0:21:41.94,0:21:45.72,Hamada,Hamada,0,0,0,,Are you happy with his volume?
+Dialogue: 0,0:21:43.91,0:21:45.72,Tanaka,Tanaka,0,0,0,,No, I cannot accept that.
+Dialogue: 0,0:21:45.72,0:21:48.42,Tanaka,Tanaka,0,0,0,,It really wasn't shouting at all, right Zaki-san?
+Dialogue: 0,0:21:48.42,0:21:50.19,Yamasaki,Yamasaki,0,0,0,,What!? Really I--
+Dialogue: 0,0:21:49.28,0:21:51.99,Endo,Endo,0,0,0,,After all, it is a punishment.
+Dialogue: 0,0:21:50.19,0:21:51.99,Matsumoto,Matsumoto,0,0,0,,It's a punishment!
+Dialogue: 0,0:21:51.99,0:21:54.02,Endo,Endo,0,0,0,,It's pointless if you try to fit in with your surroundings,
+Dialogue: 0,0:21:53.29,0:21:54.76,Matsumoto,Matsumoto,0,0,0,,Right!
+Dialogue: 0,0:21:54.02,0:21:56.22,Endo,Endo,0,0,0,,for a punishment you had to belt it out.
+Dialogue: 0,0:21:54.76,0:21:56.56,Hamada,Hamada,0,0,0,,Like wherever you are...
+Dialogue: 0,0:21:56.22,0:21:56.96,Matsumoto,Hamada,0,0,0,,Sure.
+Dialogue: 0,0:21:59.89,0:22:02.47,Matsumoto,,0,0,0,,You have to do it like that.
+Dialogue: 0,0:22:00.53,0:22:03.87,Endo,Endo,0,0,0,,You should've screamed like that in the gallery.
+Dialogue: 0,0:22:02.47,0:22:03.87,Yamasaki,Yamasaki,0,0,0,,The gallery!?
+Dialogue: 0,0:22:03.87,0:22:06.30,Yamasaki,Yamasaki,0,0,0,,You're seriously able to\Ndo that in an art gallery!?
+Dialogue: 0,0:22:06.30,0:22:08.17,Matsumoto,Matsumoto,0,0,0,,Like seriously,
+Dialogue: 0,0:22:08.17,0:22:10.51,Matsumoto,Matsumoto,0,0,0,,if you had properly yelled\N100 times "Matsumoto-san"
+Dialogue: 0,0:22:10.51,0:22:12.71,Matsumoto,Matsumoto,0,0,0,,your voice would have gone...
+Dialogue: 0,0:22:12.71,0:22:14.44,Matsumoto,Matsumoto,0,0,0,,But you're fine.
+Dialogue: 0,0:22:11.34,0:22:14.44,All,All,0,0,0,,That's true.
+Dialogue: 0,0:22:14.44,0:22:18.51,Matsumoto,Matsumoto,0,0,0,,Your "THANK YOU!!" was incredibly loud without restraint.
+Dialogue: 0,0:22:18.51,0:22:20.21,Matsumoto,Matsumoto,0,0,0,,What's that about?
+Dialogue: 0,0:22:18.01,0:22:20.21,Tanaka ESh,Tanaka,0,0,0,,It was his best shout.
+Dialogue: 0,0:22:20.21,0:22:23.75,Matsumoto,Matsumoto,0,0,0,,Come on, seriously shout, let us see.
+Dialogue: 0,0:22:27.56,0:22:29.76,Hamada,Hamada,0,0,0,,That's not what we saw, right?
+Dialogue: 0,0:22:28.86,0:22:31.43,Tanaka,Tanaka,0,0,0,,{\pos(425.228,568)}Yeah.
+Dialogue: 0,0:22:29.46,0:22:31.43,Yamasaki,Yamasaki,0,0,0,,{\pos(604.784,568)}I did do that...
+Dialogue: 0,0:22:29.76,0:22:31.43,Hamada,Hamada,0,0,0,,It wasn't in the video.
+Dialogue: 0,0:22:31.43,0:22:32.93,Matsumoto,Matsumoto,0,0,0,,What did you do in the gallery?
+Dialogue: 0,0:22:34.13,0:22:35.46,Matsumoto,Hamada,0,0,0,,As if!
+Dialogue: 0,0:22:35.46,0:22:38.40,Matsumoto,Matsumoto,0,0,0,,Don't just shamelessly lie.
+Dialogue: 0,0:22:39.47,0:22:42.77,Yamasaki,Yamasaki,0,0,0,,But I did do it...
+Dialogue: 0,0:22:43.07,0:22:46.27,Yamasaki,Yamasaki,0,0,0,,Wait, in what you just saw...
+Dialogue: 0,0:22:46.27,0:22:47.84,Yamasaki,Yamasaki,0,0,0,,what was I doing wrong?
+Dialogue: 0,0:22:47.84,0:22:51.05,Tanaka,Tanaka,0,0,0,,You had to shout "Matsumoto-san"\Nat the top of your voice
+Dialogue: 0,0:22:51.05,0:22:54.48,Tanaka,Tanaka,0,0,0,,regardless of the situation or place.
+Dialogue: 0,0:22:54.48,0:22:56.39,Matsumoto,Matsumoto,0,0,0,,Come on show him.
+Dialogue: 0,0:22:53.62,0:22:56.39,Yamasaki,Yamasaki,0,0,0,,You'd really belt it?
+Dialogue: 0,0:22:54.65,0:22:56.39,Tanaka,Yamasaki,0,0,0,,I would!
+Dialogue: 0,0:22:58.42,0:23:01.82,Endo,Endo,0,0,0,,Like that in Shinjuku or an art gallery.
+Dialogue: 0,0:22:59.00,0:23:01.82,Matsumoto,Matsumoto,0,0,0,,{\pos(412.456,563.206)}Like with that much energy.
+Dialogue: 0,0:22:59.00,0:23:01.82,Hamada,Hamada,0,0,0,,{\pos(778.56,563.206)}That's the way.
+Dialogue: 0,0:23:01.82,0:23:04.93,Yamasaki,Yamasaki,0,0,0,,There's absolutely no way--
+Dialogue: 0,0:23:02.46,0:23:04.93,Hamada,Hamada,0,0,0,,Endo show him, go Endo, go.
+Dialogue: 0,0:23:07.70,0:23:09.03,Hamada,Hamada,0,0,0,,That's good.
+Dialogue: 0,0:23:09.03,0:23:12.07,Matsumoto,Matsumoto,0,0,0,,You had to shout like that 100 times.
+Dialogue: 0,0:23:10.10,0:23:12.07,Endo,Matsumoto,0,0,0,,In a gallery or wherever.
+Dialogue: 0,0:23:12.07,0:23:14.67,Hamada,Hamada,0,0,0,,I did it before as well...
+Dialogue: 0,0:23:13.14,0:23:14.67,Matsumoto,Matsumoto,0,0,0,,Go for it.
+Dialogue: 0,0:23:16.77,0:23:18.57,Endo,Endo,0,0,0,,That was superb!
+Dialogue: 0,0:23:18.57,0:23:19.84,Tanaka,Tanaka,0,0,0,,He's the best.
+Dialogue: 0,0:23:19.84,0:23:22.71,Matsumoto,Matsumoto,0,0,0,,Hamada you don't need to use the "-san" you know.
+Dialogue: 0,0:23:22.71,0:23:24.58,Hamada,Hamada,0,0,0,,Oh, who gives a shit...
+Dialogue: 0,0:23:24.58,0:23:27.55,Hamada,Hamada,0,0,0,,But the phrase is "Matsumoto-san."
+Dialogue: 0,0:23:25.58,0:23:27.68,Matsumoto,Hamada,0,0,0,,Ah OK, it just surprised me.
+Dialogue: 0,0:23:27.55,0:23:29.25,Hamada,Hamada,0,0,0,,Come on, try it yourself.
+Dialogue: 0,0:23:33.09,0:23:36.03,Tanaka,Tanaka,0,0,0,,Now that's a shout!
+Dialogue: 0,0:23:36.36,0:23:39.59,Matsumoto,Matsumoto,0,0,0,,Honestly, Yamasaki's been especially awful this year.
+Dialogue: 0,0:23:39.59,0:23:41.36,Yamasaki,Yamasaki,0,0,0,,Indeed, I've been awful.
+Dialogue: 0,0:23:40.03,0:23:42.97,Matsumoto,Matsumoto,0,0,0,,Like you're late all the time...
+Dialogue: 0,0:23:41.36,0:23:44.27,Endo,Endo,0,0,0,,Since last New Year's party.
+Dialogue: 0,0:23:41.36,0:23:47.90,Sign,Endo,0,0,0,,{\an8}* New Year's Yama-1 Grand Prix - GnT #1090 29/01/2012
+Dialogue: 0,0:23:41.63,0:23:44.27,Hamada,Yamasaki,0,0,0,,"Indeed, I've been awful," he says.
+Dialogue: 0,0:23:41.36,0:23:44.27,Yamasaki,Yamasaki,0,0,0,,{\pos(556.807,477.34)}Right.
+Dialogue: 0,0:23:42.97,0:23:47.90,Matsumoto,Matsumoto,0,0,0,,Right, the New Year's party, you were just dawdling about.
+Dialogue: 0,0:23:46.60,0:23:47.64,Yamasaki,Yamasaki,0,0,0,,Yeah.
+Dialogue: 0,0:23:47.90,0:23:51.14,Matsumoto,Matsumoto,0,0,0,,Then after that, you couldn't read\Nthe atmosphere in the Katamari contest.
+Dialogue: 0,0:23:47.90,0:23:51.14,Sign,Sign,0,0,0,,{\pos(570.286,33.449)}* Katamari Grand Prix - GnT #1093 19/02/2012
+Dialogue: 0,0:23:51.14,0:23:55.98,Matsumoto,Matsumoto,0,0,0,,This time too, for this punishment, again\Nyou weren't able to figure out what we wanted...
+Dialogue: 0,0:23:57.11,0:23:58.88,Matsumoto,Matsumoto,0,0,0,,Seriously, what are we to do with you?
+Dialogue: 0,0:23:59.55,0:24:02.45,Matsumoto,Matsumoto,0,0,0,,Do you want to take like a 8 month break?
+Dialogue: 0,0:24:01.18,0:24:02.92,Yamasaki,Yamasaki,0,0,0,,No, no, no...
+Dialogue: 0,0:24:02.45,0:24:04.72,Endo,Endo,0,0,0,,You're finished for this year.
+Dialogue: 0,0:24:02.92,0:24:04.72,Yamasaki,Yamasaki,0,0,0,,Really...?
+Dialogue: 0,0:24:04.72,0:24:07.09,Yamasaki,Yamasaki,0,0,0,,Uwah!! Matsu--\NMatsumoto-san! WAHH!
+Dialogue: 0,0:24:07.09,0:24:08.99,Yamasaki,Yamasaki,0,0,0,,HOT! HOT! HOT!
+

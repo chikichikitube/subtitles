@@ -1,0 +1,629 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: subbing stuff/gaki subs/complete/Gaki_200119_#1489_Absolutely Tasty Tapioca.mp4
+Video File: subbing stuff/gaki subs/complete/Gaki_200119_#1489_Absolutely Tasty Tapioca.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 333
+Active Line: 338
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Narrator,Arial,53,&H00FCFDFE,&H002D2D2D,&H00000000,&H00171717,-1,0,0,0,80,100,0,0,1,4,1.1,2,11,11,11,1
+Style: Matsumoto / Red,Arial,53,&H000C0DEF,&H001212A6,&H00FFFFFF,&H001F1F49,-1,0,0,0,80,100,0,0,1,4.09999,3,2,11,11,11,1
+Style: Hamada / Blue,Arial,53,&H00D5211A,&H008D190E,&H00FFFFFF,&H00392110,-1,0,0,0,80,100,0,0,1,4.30001,3,2,11,11,11,1
+Style: Yamasaki / Green,Arial,53,&H0006AF13,&H002A652C,&H00FFFFFF,&H0010340E,-1,0,0,0,80,100,0,0,1,4.09999,3,2,11,11,11,1
+Style: Endo / Orange,Arial,53,&H000390EA,&H002A4F65,&H00FFFFFF,&H00163241,-1,0,0,0,80,100,0,0,1,4,2.9,2,11,11,11,1
+Style: Tanaka / Purple,Arial,53,&H00CD10B6,&H00652A58,&H00FFFFFF,&H004E184B,-1,0,0,0,80,100,0,0,1,4.2,3,2,11,11,11,1
+Style: Onscreen,Arial,54,&H00000000,&H002D2D2D,&H00FFFFFF,&H001F1F20,-1,0,0,0,80,100,0,0,1,3.9,2.7,2,11,11,11,1
+Style: White,Arial,54,&H00FCFDFE,&H002D2D2D,&H00000000,&H00717171,-1,0,0,0,80,100,0,0,1,4,1.9,2,11,11,11,1
+Style: green backing,Arial,56,&HFF79FEB7,&H002A652C,&H3779FEB7,&H00001200,-1,0,0,0,100,100,0,0,3,15.4999,0,2,11,11,11,1
+Style: Onscreen2,Arial,54,&H00FFFFFF,&H002D2D2D,&H001501B0,&H001F1F20,-1,0,0,0,80,100,0,0,1,4.30001,2.7,2,11,11,11,1
+Style: Credits,Arial,53,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,88.8889,100,0,0,1,6,0,2,13,13,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:01:09.55,0:01:11.96,Credits,,0,0,0,,NOTE HERE (タピる)
+Comment: 0,0:01:14.19,0:01:22.16,Yamasaki / Green,,0,0,0,,opening
+Comment: 0,0:01:39.60,0:01:43.60,Endo / Orange,,0,0,0,,NOTE HERE
+Comment: 0,0:02:49.48,0:02:55.45,Narrator,,0,0,0,,NOTE: when the narrator is saying the exact same thing displayed on-screen, I'm not translating the on-screen boxes
+Comment: 0,0:03:08.52,0:03:10.52,Endo / Orange,,0,0,0,,endo dish 2
+Comment: 0,0:05:51.68,0:05:55.93,Narrator,,0,0,0,,hamada dishes
+Comment: 0,0:08:33.92,0:08:38.23,Narrator,,0,0,0,,hamada first dish
+Comment: 0,0:09:19.90,0:09:23.69,Narrator,,0,0,0,,hamada 2nd dish
+Comment: 0,0:10:33.65,0:10:37.38,Yamasaki / Green,,0,0,0,,NOTE: yamazaki says "shokkan" (texture) when talking about bread, than he repeats it but says "shoppan" (short for "shoku-pan", "bread") mistakenly
+Comment: 0,0:10:38.04,0:10:42.36,Narrator,,0,0,0,,tanaka dishes
+Comment: 0,0:10:47.84,0:10:50.00,Credits,,0,0,0,,{\fscx54.222\fscy66\pos(728.533,42.6)}note: tamago-kake-gohan is steamed rice with a raw egg mixed in, usually with soy sauce too. A simple yet tasty dish.
+Comment: 0,0:12:09.80,0:12:13.84,Narrator,,0,0,0,,tanaka 2nd dish intro
+Comment: 0,0:14:20.03,0:14:24.01,Narrator,,0,0,0,,tanaka 2nd dish
+Comment: 0,0:14:29.45,0:14:35.44,Matsumoto / Red,,0,0,0,,NOTE: lol // from the bellz magnet game / let's play tabletop games ep 4 (or 5?)
+Comment: 0,0:15:15.24,0:15:19.47,Narrator,,0,0,0,,hosei dishes
+Comment: 0,0:17:36.41,0:17:40.86,Narrator,,0,0,0,,hosei 1st dish
+Comment: 0,0:18:03.93,0:18:06.84,Hamada / Blue,,0,0,0,,Note?
+Comment: 0,0:20:04.36,0:20:08.57,Narrator,,0,0,0,,matsumoto dishes
+Comment: 0,0:21:40.18,0:21:42.58,Matsumoto / Red,,0,0,0,,NOTE: yojijukugo
+Comment: 0,0:22:13.34,0:22:17.95,Narrator,,0,0,0,,matsumoto 2nd dish
+Comment: 0,0:23:48.94,0:23:54.88,Hamada / Blue,,0,0,0,,ending
+Comment: 0,0:23:54.88,0:23:56.88,Hamada / Blue,,0,0,0,,DVD
+Dialogue: 0,0:00:00.46,0:00:03.00,Hamada / Blue,,0,0,0,,First time ever on Gaki no Tsukai
+Dialogue: 0,0:00:01.76,0:00:03.00,Matsumoto / Red,,0,0,0,,What's with that voice?
+Dialogue: 0,0:00:03.00,0:00:07.36,Hamada / Blue,,0,0,0,,"{\i1}Absolutely Tasty - I've always wanted to try this{\i0}": Tapioca championship!
+Dialogue: 0,0:00:09.00,0:00:13.09,Credits,,0,0,0,,{\fad(300,0)\pos(517.333,915)}Matsumoto Hitoshi
+Dialogue: 0,0:00:09.00,0:00:13.09,Credits,,0,0,0,,{\fad(300,0)\pos(917.333,912)}Hamada Masatoshi
+Dialogue: 0,0:00:09.00,0:00:13.09,Credits,,0,0,0,,{\fad(300,0)\pos(720,1014)}Endo Shozo
+Dialogue: 0,0:00:09.00,0:00:13.09,Credits,,0,0,0,,{\fad(300,0)\pos(320,1014)}Tsukitei Hosei
+Dialogue: 0,0:00:09.00,0:00:13.09,Credits,,0,0,0,,{\fad(300,0)\pos(1112,1014)}Tanaka Naoki
+Dialogue: 0,0:00:07.96,0:00:11.21,Matsumoto / Red,,0,0,0,,{\pos(725.333,829.5)}I didn't like that at all
+Dialogue: 0,0:00:09.82,0:00:11.21,Tanaka / Purple,,0,0,0,,{\pos(736,772.5)}He spoke so softly
+Dialogue: 0,0:00:11.21,0:00:13.26,Matsumoto / Red,,0,0,0,,{\pos(725.333,826.5)}There was no passion in it
+Dialogue: 0,0:00:13.26,0:00:15.73,Hamada / Blue,,0,0,0,,You just told me last week I'm too loud
+Dialogue: 0,0:00:15.73,0:00:18.67,Matsumoto / Red,,0,0,0,,You sounded like an average man in his fifties
+Dialogue: 0,0:00:18.67,0:00:22.20,Hamada / Blue,,0,0,0,,If I speak too loud it's gonna echo all around
+Dialogue: 0,0:00:20.00,0:00:22.20,Matsumoto / Red,,0,0,0,,{\pos(733.333,913.5)}A typical man in his fifties
+Dialogue: 0,0:00:22.20,0:00:27.36,Matsumoto / Red,,0,0,0,,You know, people watching this show are expecting a man in his twenties
+Dialogue: 0,0:00:25.63,0:00:27.36,Endo / Orange,,0,0,0,,{\pos(741.333,907.5)}He's right
+Dialogue: 0,0:00:27.36,0:00:31.96,Hamada / Blue,,0,0,0,,Today is a new Absolutely Tasty episode in a while, about Tapioca
+Dialogue: 0,0:00:31.96,0:00:34.49,Tanaka / Purple,,0,0,0,,Tapioca became really popular lately
+Dialogue: 0,0:00:35.47,0:00:39.79,Narrator,,0,0,0,,Last year, a record-breaking tapioca boom surfaced
+Dialogue: 0,0:00:40.76,0:00:46.19,Narrator,,0,0,0,,Now that it's fading a bit, it's time to observe its new possibilities
+Dialogue: 0,0:00:47.29,0:00:53.97,Narrator,,0,0,0,,Today, our members will try 2 new Tapioca recipes each
+Dialogue: 0,0:00:54.04,0:00:58.34,Matsumoto / Red,,0,0,0,,How much tapioca have you had till now?
+Dialogue: 0,0:00:59.12,0:01:00.11,Yamasaki / Green,,0,0,0,,I had it before
+Dialogue: 0,0:01:00.11,0:01:02.54,Matsumoto / Red,,0,0,0,,Yamazaki seems to enjoy it, am I right?
+Dialogue: 0,0:01:02.54,0:01:04.81,Yamasaki / Green,,0,0,0,,The one I like the most is tapioca milk tea
+Dialogue: 0,0:01:05.13,0:01:07.32,Endo / Orange,,0,0,0,,That's the most clichéd
+Dialogue: 0,0:01:07.55,0:01:09.55,Matsumoto / Red,,0,0,0,,They call this "tap'ing", right?
+Dialogue: 0,0:01:09.55,0:01:11.96,Yamasaki / Green,,0,0,0,,You don't like tap'ing?
+Dialogue: 0,0:01:10.51,0:01:11.95,Endo / Orange,,0,0,0,,{\pos(733.333,913.5)}I don't like it that much
+Dialogue: 0,0:01:11.96,0:01:14.19,Yamasaki / Green,,0,0,0,,You're such a geezer, dude
+Dialogue: 0,0:01:14.18,0:01:22.16,Credits,,0,0,0,,{\pos(152,51)}Translation: {\3c&H0548E0&}Shion
+Dialogue: 0,0:01:14.18,0:01:22.16,Credits,,0,0,0,,{\pos(177.067,102)}Typeset & QC: {\3c&H0548E0&}RIDDELL
+Dialogue: 0,0:01:14.18,0:01:22.16,Credits,,0,0,0,,{\pos(1096,51)\3c&H0B0B88&}more eps @ shionnotsukai.wordpress.com
+Dialogue: 0,0:01:14.18,0:01:22.16,Credits,,0,0,0,,{\3c&H0B0B88&\pos(1229.333,99)}FB: fb.com/shionnotsukai
+Dialogue: 0,0:01:14.18,0:01:22.16,Credits,,0,0,0,,{\3c&H0B0B88&\pos(1277.333,147)}TW: @FGRNDNoises
+Dialogue: 0,0:01:22.96,0:01:27.18,Narrator,,0,0,0,,Let's start with Endo's new tapioca ideas
+Dialogue: 0,0:01:27.18,0:01:30.64,Endo / Orange,,0,0,0,,Let me show you my first ingredient
+Dialogue: 0,0:01:30.64,0:01:32.19,Endo / Orange,,0,0,0,,Here it is
+Dialogue: 0,0:01:34.33,0:01:37.00,Endo / Orange,,0,0,0,,It's a tapioca-paella
+Dialogue: 0,0:01:37.45,0:01:39.60,Tanaka / Purple,,0,0,0,,A paella, huh?
+Dialogue: 0,0:01:37.56,0:01:46.28,Credits,,0,0,0,,{\fad(200,0)\c&H000000&\3c&HFFFFFF&\pos(848,978)}he plans on replacing rice with tapioca pearls
+Dialogue: 0,0:01:39.60,0:01:43.60,Endo / Orange,,0,0,0,,As you know I've been doing this show "hirunandesu" for a while
+Dialogue: 0,0:01:43.60,0:01:46.30,Endo / Orange,,0,0,0,,So we always wonder what's popular at the moment
+Dialogue: 0,0:01:46.30,0:01:50.12,Endo / Orange,,0,0,0,,We get all the info we can and try to catch each trend
+Dialogue: 0,0:01:50.12,0:01:52.30,Endo / Orange,,0,0,0,,And I was thinking, we haven't hit this yet
+Dialogue: 0,0:01:52.30,0:01:56.50,Endo / Orange,,0,0,0,,And I think the most important thing is to have girls like it
+Dialogue: 0,0:01:56.50,0:01:59.16,Endo / Orange,,0,0,0,,If they don't, it will never get popular
+Dialogue: 0,0:01:59.16,0:02:02.41,Matsumoto / Red,,0,0,0,,It's not like we plan on starting a shop, you know
+Dialogue: 0,0:02:02.41,0:02:05.87,Yamasaki / Green,,0,0,0,,It's not about that, it should be what you wanted to try
+Dialogue: 0,0:02:04.06,0:02:05.87,Endo / Orange,,0,0,0,,{\pos(730.667,913.5)}Yeah but, I wanted to try it
+Dialogue: 0,0:02:05.87,0:02:09.84,Endo / Orange,,0,0,0,,But if I had to do it in the first place, I wish it would get popular
+Dialogue: 0,0:02:08.27,0:02:09.84,Hamada / Blue,,0,0,0,,{\pos(734,936)}Shut up and do it
+Dialogue: 0,0:02:11.10,0:02:12.91,Yamasaki / Green,,0,0,0,,Well, he's right
+Dialogue: 0,0:02:12.91,0:02:17.42,Matsumoto / Red,,0,0,0,,Man, I really hated the Endo during this timespan
+Dialogue: 0,0:02:18.06,0:02:19.96,Narrator,,0,0,0,,Time to start cooking
+Dialogue: 0,0:02:19.96,0:02:24.56,Narrator,,0,0,0,,First, he'll fry some chopped onions until they become amber-colored
+Dialogue: 0,0:02:24.55,0:02:25.60,Endo / Orange,,0,0,0,,{\c&H00FFF1&\3c&H000000&}[SFX: glance]
+Dialogue: 0,0:02:25.60,0:02:26.73,Endo / Orange,,0,0,0,,Alright...
+Dialogue: 0,0:02:26.73,0:02:31.10,Endo / Orange,,0,0,0,,It's time to pour our main ingredient inside
+Dialogue: 0,0:02:29.37,0:02:31.10,Yamasaki / Green,,0,0,0,,{\pos(722.667,904.5)}What are you glancing at?
+Dialogue: 0,0:02:31.85,0:02:36.49,Matsumoto / Red,,0,0,0,,You can tell he's not doing this for himself
+Dialogue: 0,0:02:34.00,0:02:36.49,Endo / Orange,,0,0,0,,{\pos(717.333,946.5)}That's not true at all
+Dialogue: 0,0:02:31.38,0:02:37.39,Credits,,0,0,0,,{\fad(200,0)\pos(720,1011)}add the previously boiled tapioca pearls and stir-fry again
+Dialogue: 0,0:02:36.99,0:02:38.14,Matsumoto / Red,,0,0,0,,Such a bad attitude
+Dialogue: 0,0:02:38.68,0:02:40.33,Matsumoto / Red,,0,0,0,,It happens to AV actresses too
+Dialogue: 0,0:02:40.33,0:02:46.11,Matsumoto / Red,,0,0,0,,You know? When they glance around 'cause they're uncomfortable
+Dialogue: 0,0:02:42.97,0:02:46.11,Endo / Orange,,0,0,0,,I hate when they do that
+Dialogue: 0,0:02:46.11,0:02:48.38,Matsumoto / Red,,0,0,0,,Just focus, goddamn!
+Dialogue: 0,0:02:49.48,0:02:55.45,Narrator,,0,0,0,,{\pos(722.667,943.5)}He used the tapioca pearls instead of rice, then added saffron, turmenic and consommé
+Dialogue: 0,0:02:56.70,0:03:01.44,Narrator,,0,0,0,,Lastly, he adds olives and seafood such as squid and shrimp
+Dialogue: 0,0:03:01.79,0:03:03.18,Endo / Orange,,0,0,0,,Thank  you
+Dialogue: 0,0:03:03.18,0:03:04.96,Endo / Orange,,0,0,0,,Now, we place the lid
+Dialogue: 0,0:03:04.96,0:03:08.40,Endo / Orange,,0,0,0,,And we wait for roughly 2 minutes
+Dialogue: 0,0:03:09.13,0:03:13.42,Narrator,,0,0,0,,Endo's second recipe is an extremely simple one
+Dialogue: 0,0:03:13.42,0:03:18.00,Endo / Orange,,0,0,0,,What I had in mind is to have this accompany the paella one
+Dialogue: 0,0:03:18.00,0:03:20.33,Endo / Orange,,0,0,0,,And here it is
+Dialogue: 0,0:03:20.35,0:03:23.42,Endo / Orange,,0,0,0,,Brown-sugar tapioca beer
+Dialogue: 0,0:03:23.42,0:03:27.04,Endo / Orange,,0,0,0,,Previously I told Yamazaki the milk tea is a cliché
+Dialogue: 0,0:03:27.04,0:03:31.06,Endo / Orange,,0,0,0,,But if we add this sweet tapioca to a beer...
+Dialogue: 0,0:03:31.06,0:03:36.09,Endo / Orange,,0,0,0,,Don't you think... it's going to be a perfect match?
+Dialogue: 0,0:03:35.29,0:03:38.04,Tanaka / Purple,,0,0,0,,{\pos(722.667,916.5)}Is it going to be sweet?
+Dialogue: 0,0:03:36.51,0:03:38.04,Yamasaki / Green,,0,0,0,,Sweet, you say?
+Dialogue: 0,0:03:38.04,0:03:40.12,Endo / Orange,,0,0,0,,It's really simple
+Dialogue: 0,0:03:40.33,0:03:43.71,Matsumoto / Red,,0,0,0,,What's with this color?
+Dialogue: 0,0:03:41.76,0:03:43.71,Endo / Orange,,0,0,0,,{\pos(706.667,937.5)}It's brown sugar
+Dialogue: 0,0:03:44.22,0:03:48.74,Matsumoto / Red,,0,0,0,,It seems Instagrammable enough, though
+Dialogue: 0,0:03:46.36,0:03:48.74,Endo / Orange,,0,0,0,,{\pos(722.667,934.5)}Yeah, girls would love this
+Dialogue: 0,0:03:49.15,0:03:53.95,Narrator,,0,0,0,,Just like a tapioca milk tea, you enjoy it with a straw
+Dialogue: 0,0:03:54.68,0:03:58.94,Onscreen,,0,0,0,,{\pos(778,904.001)}Tapioca Paella
+Dialogue: 0,0:03:54.68,0:03:58.94,Endo / Orange,,0,0,0,,{\pos(276,985.999)}{\fs46.999}Endo's Idea
+Dialogue: 0,0:03:54.68,0:03:58.94,Narrator,,0,0,0,,And now it's time to taste Endo's first idea, "Tapioca Paella"
+Dialogue: 0,0:03:58.99,0:04:00.94,Matsumoto / Red,,0,0,0,,I must say, it smells good
+Dialogue: 0,0:04:00.94,0:04:03.88,Endo / Orange,,0,0,0,,Not bad, huh?
+Dialogue: 0,0:04:01.84,0:04:03.88,Yamasaki / Green,,0,0,0,,It smells the same as paella
+Dialogue: 0,0:04:04.62,0:04:08.36,Endo / Orange,,0,0,0,,There are some crispy ones too
+Dialogue: 0,0:04:08.36,0:04:11.08,Tanaka / Purple,,0,0,0,,Let's try this
+Dialogue: 0,0:04:08.99,0:04:11.08,Matsumoto / Red,,0,0,0,,They kept their shape nicely
+Dialogue: 0,0:04:16.30,0:04:19.00,Matsumoto / Red,,0,0,0,,I don't hate it that much
+Dialogue: 0,0:04:19.00,0:04:22.51,Tanaka / Purple,,0,0,0,,It tastes nice
+Dialogue: 0,0:04:20.40,0:04:22.51,Matsumoto / Red,,0,0,0,,I must say, onion...
+Dialogue: 0,0:04:22.51,0:04:25.96,Matsumoto / Red,,0,0,0,,Was a really good choice here
+Dialogue: 0,0:04:23.08,0:04:25.96,Endo / Orange,,0,0,0,,Yeah, I put in a lot of it
+Dialogue: 0,0:04:26.14,0:04:27.71,Matsumoto / Red,,0,0,0,,This can be a thing
+Dialogue: 0,0:04:27.71,0:04:30.00,Hamada / Blue,,0,0,0,,It's not bad, I agree
+Dialogue: 0,0:04:31.62,0:04:36.32,Onscreen,,0,0,0,,{\pos(778,904.001)}Tapioca Beer
+Dialogue: 0,0:04:31.62,0:04:36.32,Endo / Orange,,0,0,0,,{\pos(276,985.999)}{\fs46.999}Endo's Idea
+Dialogue: 0,0:04:30.00,0:04:32.43,Endo / Orange,,0,0,0,,And together with this dish
+Dialogue: 0,0:04:31.72,0:04:33.07,Matsumoto / Red,,0,0,0,,This one?
+Dialogue: 0,0:04:32.43,0:04:36.30,Endo / Orange,,0,0,0,,{\pos(776,841.5)}You can drink your brown-sugar tapioca beer
+Dialogue: 0,0:04:36.30,0:04:38.46,Endo / Orange,,0,0,0,,Maybe it makes it more easy to drink
+Dialogue: 0,0:04:43.46,0:04:44.90,Endo / Orange,,0,0,0,,It's so good!
+Dialogue: 0,0:04:44.90,0:04:47.13,Endo / Orange,,0,0,0,,Don't you think it's good?
+Dialogue: 0,0:04:46.02,0:04:47.13,Hamada / Blue,,0,0,0,,{\pos(733.333,910.5)}It's just beer
+Dialogue: 0,0:04:47.13,0:04:49.23,Matsumoto / Red,,0,0,0,,Not really that good
+Dialogue: 0,0:04:48.04,0:04:49.23,Endo / Orange,,0,0,0,,{\pos(736,901.5)}Are you kidding me?
+Dialogue: 0,0:04:49.42,0:04:53.91,Yamasaki / Green,,0,0,0,,To be honest, this sucks
+Dialogue: 0,0:04:51.07,0:04:52.88,Endo / Orange,,0,0,0,,{\pos(736,898.5)}It sucks?!
+Dialogue: 0,0:04:53.91,0:04:58.35,Tanaka / Purple,,0,0,0,,It takes away that desire you have to gulp it all down at once
+Dialogue: 0,0:04:58.35,0:05:01.65,Matsumoto / Red,,0,0,0,,It's an obstacle to the beer itself
+Dialogue: 0,0:05:01.65,0:05:03.64,Hamada / Blue,,0,0,0,,How should we judge this, guys?
+Dialogue: 0,0:05:02.01,0:05:11.22,Narrator,,0,0,0,,{\pos(720,895.999)}They'll score each dish by discussion, with 10 points as the highest score
+Dialogue: 0,0:05:03.64,0:05:04.84,Matsumoto / Red,,0,0,0,,Well
+Dialogue: 0,0:05:04.84,0:05:05.84,Matsumoto / Red,,0,0,0,,Seven
+Dialogue: 0,0:05:06.01,0:05:08.09,Endo / Orange,,0,0,0,,Thank you
+Dialogue: 0,0:05:06.76,0:05:08.09,Hamada / Blue,,0,0,0,,{\pos(725.333,838.5)}That's pretty high
+Dialogue: 0,0:05:08.09,0:05:09.98,Matsumoto / Red,,0,0,0,,I think it's around seven
+Dialogue: 0,0:05:09.98,0:05:11.22,Endo / Orange,,0,0,0,,You think so?
+Dialogue: 0,0:05:11.22,0:05:14.49,Matsumoto / Red,,0,0,0,,He placed it in front on me with such confidence, I was like what?
+Dialogue: 0,0:05:14.49,0:05:18.33,Matsumoto / Red,,0,0,0,,But when he told me to eat it, I dug it
+Dialogue: 0,0:05:18.88,0:05:21.70,Hamada / Blue,,0,0,0,,Even still...
+Dialogue: 0,0:05:21.70,0:05:24.35,Hamada / Blue,,0,0,0,,I think it's around 3 or 4
+Dialogue: 0,0:05:22.10,0:05:25.70,Narrator,,0,0,0,,{\pos(600,882)}Tapioca Paella
+Dialogue: 0,0:05:22.10,0:05:25.70,Matsumoto / Red,,0,0,0,,{\pos(866,882)}{\fs60}3 points
+Dialogue: 0,0:05:23.05,0:05:24.35,Tanaka / Purple,,0,0,0,,{\pos(722.667,823.5)}Four, yeah
+Dialogue: 0,0:05:24.35,0:05:25.77,Endo / Orange,,0,0,0,,That low?
+Dialogue: 0,0:05:25.77,0:05:27.87,Matsumoto / Red,,0,0,0,,This time I'm supporting you, Endo
+Dialogue: 0,0:05:27.87,0:05:30.62,Matsumoto / Red,,0,0,0,,I think it can be higher than that
+Dialogue: 0,0:05:30.62,0:05:33.78,Matsumoto / Red,,0,0,0,,But it seems today everyone's condition isn't that good
+Dialogue: 0,0:05:33.78,0:05:37.45,Matsumoto / Red,,0,0,0,,Did something happen at home?
+Dialogue: 0,0:05:37.45,0:05:38.99,Hamada / Blue,,0,0,0,,What about the beer?
+Dialogue: 0,0:05:38.99,0:05:41.71,Matsumoto / Red,,0,0,0,,I'm not lying, this one is a two
+Dialogue: 0,0:05:41.98,0:05:44.08,Endo / Orange,,0,0,0,,Really?
+Dialogue: 0,0:05:42.73,0:05:44.08,Tanaka / Purple,,0,0,0,,{\pos(725.333,814.5)}I agree, two for me too
+Dialogue: 0,0:05:42.73,0:05:46.73,Narrator,,0,0,0,,{\pos(582,882)}{\fs55.999}Tapioca Beer
+Dialogue: 0,0:05:42.73,0:05:46.73,Matsumoto / Red,,0,0,0,,{\pos(864,882)}{\fs64.001}2 points
+Dialogue: 0,0:05:44.08,0:05:46.78,Hamada / Blue,,0,0,0,,We can all agree to this {\c&H1727D6&} - It's an insult to beer
+Dialogue: 0,0:05:46.78,0:05:50.93,Endo / Orange,,0,0,0,,Really? I could easily get drunk to this
+Dialogue: 0,0:05:51.68,0:05:55.93,Narrator,,0,0,0,,Next up we have Hamada's ideas for tapioca recipes
+Dialogue: 0,0:05:55.93,0:05:58.77,Hamada / Blue,,0,0,0,,My first recipe is going to be a very plain one
+Dialogue: 0,0:05:58.77,0:05:59.82,Yamasaki / Green,,0,0,0,,Plain?
+Dialogue: 0,0:05:59.82,0:06:00.86,Hamada / Blue,,0,0,0,,Here it is
+Dialogue: 0,0:06:01.85,0:06:09.00,Credits,,0,0,0,,{\fad(0,300)\fscx64.889\fscy75\pos(728,45)}note: a pickling method, usually done with vegetables (tsukemono)
+Dialogue: 0,0:06:01.85,0:06:02.99,Matsumoto / Red,,0,0,0,,Asazuke?
+Dialogue: 0,0:06:04.11,0:06:06.14,Hamada / Blue,,0,0,0,,An asazuke-tapioca
+Dialogue: 0,0:06:06.14,0:06:08.48,Yamasaki / Green,,0,0,0,,Tsukemono?
+Dialogue: 0,0:06:06.96,0:06:08.48,Endo / Orange,,0,0,0,,{\pos(744,919.5)}He's making a tsukemono
+Dialogue: 0,0:06:06.96,0:06:08.48,Endo / Orange,,0,0,0,,{\pos(744,919.5)}He's making a tsukemono
+Dialogue: 0,0:06:08.48,0:06:10.76,Hamada / Blue,,0,0,0,,I'm gonna pour 'em inside this bag
+Dialogue: 0,0:06:10.76,0:06:15.99,Matsumoto / Red,,0,0,0,,I'm looking forward to the crispy texture, if asazuke works
+Dialogue: 0,0:06:15.99,0:06:18.81,Hamada / Blue,,0,0,0,,It's simple, I'm adding this too
+Dialogue: 0,0:06:18.81,0:06:20.81,Matsumoto / Red,,0,0,0,,That's the standard method
+Dialogue: 0,0:06:21.88,0:06:24.54,Matsumoto / Red,,0,0,0,,Looks like you're making some nasty stuff
+Dialogue: 0,0:06:24.54,0:06:27.48,Tanaka / Purple,,0,0,0,,That's one heck of a vision
+Dialogue: 0,0:06:25.37,0:06:27.48,Hamada / Blue,,0,0,0,,{\pos(733.333,916.5)}I'm not, dude
+Dialogue: 0,0:06:27.48,0:06:29.43,Matsumoto / Red,,0,0,0,,I mean, the way he's doing this...
+Dialogue: 0,0:06:29.43,0:06:34.51,Matsumoto / Red,,0,0,0,,I wonder if he's gonna be okay if the police see this?
+Dialogue: 0,0:06:35.42,0:06:39.66,Narrator,,0,0,0,,Hamada's second idea is a tapioca-filled hamburg steak
+Dialogue: 0,0:06:40.91,0:06:43.76,Narrator,,0,0,0,,First off he'll chop some onions
+Dialogue: 0,0:06:43.76,0:06:47.25,Hamada / Blue,,0,0,0,,I've been told if you cut it this way, it's easier to chop
+Dialogue: 0,0:06:47.25,0:06:49.09,Matsumoto / Red,,0,0,0,,Who said that?
+Dialogue: 0,0:06:49.09,0:06:51.22,Hamada / Blue,,0,0,0,,Someone...
+Dialogue: 0,0:06:51.32,0:06:52.52,Yamasaki / Green,,0,0,0,,Not your wife?
+Dialogue: 0,0:06:52.59,0:06:54.26,Hamada / Blue,,0,0,0,,Right, my wife
+Dialogue: 0,0:06:54.66,0:06:57.13,Matsumoto / Red,,0,0,0,,What a complex way to phrase it
+Dialogue: 0,0:06:57.64,0:07:00.01,Hamada / Blue,,0,0,0,,I mean, you asked me "who", so--
+Dialogue: 0,0:07:00.01,0:07:00.73,Hamada / Blue,,0,0,0,,What's wrong?
+Dialogue: 0,0:07:00.73,0:07:02.80,Matsumoto / Red,,0,0,0,,Don't point that knife at me
+Dialogue: 0,0:07:02.80,0:07:04.43,Yamasaki / Green,,0,0,0,,Knives are bad\N{\c&H1727D6&}- That was scary
+Dialogue: 0,0:07:04.43,0:07:07.37,Matsumoto / Red,,0,0,0,,He said "someone"...
+Dialogue: 0,0:07:05.74,0:07:07.37,Hamada / Blue,,0,0,0,,I know that
+Dialogue: 0,0:07:08.78,0:07:12.06,Yamasaki / Green,,0,0,0,,How can we eat that?!
+Dialogue: 0,0:07:10.12,0:07:12.06,Matsumoto / Red,,0,0,0,,No way
+Dialogue: 0,0:07:13.00,0:07:14.54,Tanaka / Purple,,0,0,0,,You have to cut it properly
+Dialogue: 0,0:07:14.76,0:07:19.08,Matsumoto / Red,,0,0,0,,He's not even trying
+Dialogue: 0,0:07:17.12,0:07:19.08,Yamasaki / Green,,0,0,0,,How can we eat that?
+Dialogue: 0,0:07:19.10,0:07:21.19,Tanaka / Purple,,0,0,0,,The knife isn't reaching the board
+Dialogue: 0,0:07:21.19,0:07:23.52,Tanaka / Purple,,0,0,0,,Look, it's not touching it
+Dialogue: 0,0:07:23.52,0:07:25.99,Matsumoto / Red,,0,0,0,,Feels like he's worried about damaging the cutting board
+Dialogue: 0,0:07:25.99,0:07:29.09,Matsumoto / Red,,0,0,0,,When he doesn't give a shit about damaging people
+Dialogue: 0,0:07:30.00,0:07:37.34,Narrator,,0,0,0,,{\pos(730.667,931.5)}Next up, he's going to add minced meat, breadcrumbs, egg, and salt & pepper to the chopped onion
+Dialogue: 0,0:07:37.60,0:07:40.04,Hamada / Blue,,0,0,0,,And lastly, I'm adding tapioca pearls
+Dialogue: 0,0:07:41.61,0:07:43.82,Yamasaki / Green,,0,0,0,,How will this turn out?
+Dialogue: 0,0:07:43.82,0:07:46.85,Yamasaki / Green,,0,0,0,,I'm worried about its texture
+Dialogue: 0,0:07:45.28,0:07:46.85,Tanaka / Purple,,0,0,0,,{\pos(717.333,931.5)}Yeah, me too
+Dialogue: 0,0:07:46.85,0:07:48.22,Matsumoto / Red,,0,0,0,,I have no idea
+Dialogue: 0,0:07:48.59,0:07:51.10,Tanaka / Purple,,0,0,0,,There's a lot of them
+Dialogue: 0,0:07:51.10,0:07:52.59,Hamada / Blue,,0,0,0,,I've added lots of them
+Dialogue: 0,0:07:52.59,0:07:54.97,Tanaka / Purple,,0,0,0,,More than expected
+Dialogue: 0,0:07:56.57,0:07:58.12,Matsumoto / Red,,0,0,0,,Oh, he's ready
+Dialogue: 0,0:07:58.12,0:07:59.88,Endo / Orange,,0,0,0,,That's the sound
+Dialogue: 0,0:08:00.65,0:08:05.40,Narrator,,0,0,0,,Lastly, he covers it in flour so it won't crumble, and it's now time to cook it
+Dialogue: 0,0:08:05.53,0:08:07.29,Yamasaki / Green,,0,0,0,,Make it firm
+Dialogue: 0,0:08:10.77,0:08:12.30,Hamada / Blue,,0,0,0,,{\pos(784,440)}Hot!
+Dialogue: 0,0:08:13.54,0:08:14.77,Hamada / Blue,,0,0,0,,{\pos(256,960)}Hot!
+Dialogue: 0,0:08:16.61,0:08:18.75,Yamasaki / Green,,0,0,0,,What's hot?
+Dialogue: 0,0:08:18.75,0:08:21.15,Matsumoto / Red,,0,0,0,,He touched it
+Dialogue: 0,0:08:21.90,0:08:23.95,Yamasaki / Green,,0,0,0,,He touched the frying pan?
+Dialogue: 0,0:08:24.20,0:08:25.95,Endo / Orange,,0,0,0,,Yeah, his fingers
+Dialogue: 0,0:08:25.95,0:08:28.43,Yamasaki / Green,,0,0,0,,What are you doing?
+Dialogue: 0,0:08:28.46,0:08:31.59,Matsumoto / Red,,0,0,0,,He was making sure it wouldn't jump out
+Dialogue: 0,0:08:31.59,0:08:33.26,Yamasaki / Green,,0,0,0,,Yeah
+Dialogue: 0,0:08:33.92,0:08:38.23,Narrator,,0,0,0,,Let's see how his first dish "tapioca-asazuke" turned out
+Dialogue: 0,0:08:39.15,0:08:42.89,Narrator,,0,0,0,,The asakuze was prepared ahead, rested for one night
+Dialogue: 0,0:08:42.89,0:08:44.10,Hamada / Blue,,0,0,0,,Don't say it
+Dialogue: 0,0:08:44.10,0:08:47.57,Matsumoto / Red,,0,0,0,,If my wife would bring this to the table at dinner, I'd snap
+Dialogue: 0,0:08:47.57,0:08:50.24,Yamasaki / Green,,0,0,0,,What's this?!
+Dialogue: 0,0:08:48.76,0:08:50.24,Hamada / Blue,,0,0,0,,{\pos(726.4,858.3)}That's too much
+Dialogue: 0,0:08:50.24,0:08:51.71,Hamada / Blue,,0,0,0,,It's just asazuke
+Dialogue: 0,0:08:52.25,0:08:54.06,Yamasaki / Green,,0,0,0,,Let's eat up
+Dialogue: 0,0:08:55.80,0:08:57.24,Matsumoto / Red,,0,0,0,,What's this?
+Dialogue: 0,0:08:57.98,0:08:59.96,Yamasaki / Green,,0,0,0,,It's so sticky!
+Dialogue: 0,0:09:01.87,0:09:03.26,Hamada / Blue,,0,0,0,,It's lacking salt
+Dialogue: 0,0:09:03.26,0:09:07.49,Matsumoto / Red,,0,0,0,,Feels like the salt has been completely sucked away
+Dialogue: 0,0:09:07.63,0:09:09.52,Yamasaki / Green,,0,0,0,,This tapioca
+Dialogue: 0,0:09:09.52,0:09:11.28,Yamasaki / Green,,0,0,0,,Sucks so bad
+Dialogue: 0,0:09:07.89,0:09:14.16,Narrator,,0,0,0,,{\pos(556,882)}{\fs55.999}Tapioca asazuke
+Dialogue: 0,0:09:07.89,0:09:14.16,Matsumoto / Red,,0,0,0,,{\pos(876,882)}{\fs64.001}1 point
+Dialogue: 0,0:09:13.12,0:09:14.16,Matsumoto / Red,,0,0,0,,It feels like...
+Dialogue: 0,0:09:14.16,0:09:17.70,Matsumoto / Red,,0,0,0,,Chewing a vinyl figure's finger
+Dialogue: 0,0:09:17.70,0:09:19.17,Yamasaki / Green,,0,0,0,,You've done it before?
+Dialogue: 0,0:09:19.54,0:09:23.69,Onscreen,,0,0,0,,{\pos(780,904.001)}{\fs55.999}Tapioca Hamburg
+Dialogue: 0,0:09:19.54,0:09:23.69,Hamada / Blue,,0,0,0,,{\pos(246,985.999)}{\fs46.999}Hamada's Idea
+Dialogue: 0,0:09:19.82,0:09:23.69,Narrator,,0,0,0,,Next up is Hamada's tapioca-hamburg
+Dialogue: 0,0:09:23.80,0:09:26.12,Hamada / Blue,,0,0,0,,Let's eat it as it is at first
+Dialogue: 0,0:09:26.12,0:09:28.48,Tanaka / Purple,,0,0,0,,Simply
+Dialogue: 0,0:09:27.07,0:09:28.48,Hamada / Blue,,0,0,0,,Yeah, don't add any sauce
+Dialogue: 0,0:09:30.17,0:09:31.95,Tanaka / Purple,,0,0,0,,Let's eat it
+Dialogue: 0,0:09:34.68,0:09:37.29,Hamada / Blue,,0,0,0,,What do you think? Isn't it far from tapioca?
+Dialogue: 0,0:09:37.74,0:09:40.16,Yamasaki / Green,,0,0,0,,It's not bad...
+Dialogue: 0,0:09:39.40,0:09:40.16,Matsumoto / Red,,0,0,0,,{\pos(724.267,923.1)}Really?
+Dialogue: 0,0:09:40.16,0:09:42.76,Yamasaki / Green,,0,0,0,,What do you think?
+Dialogue: 0,0:09:40.83,0:09:42.76,Matsumoto / Red,,0,0,0,,{\pos(724.267,911.1)}I hate it
+Dialogue: 0,0:09:42.76,0:09:44.66,Matsumoto / Red,,0,0,0,,I don't really like this
+Dialogue: 0,0:09:44.66,0:09:46.53,Hamada / Blue,,0,0,0,,Endo-kun, you seem to be enjoying it
+Dialogue: 0,0:09:46.53,0:09:48.77,Endo / Orange,,0,0,0,,Yeah, I love it
+Dialogue: 0,0:09:48.77,0:09:53.44,Matsumoto / Red,,0,0,0,,Don't call him "Endo-kun", you'll scare him
+Dialogue: 0,0:09:53.44,0:09:55.74,Tanaka / Purple,,0,0,0,,I like it too
+Dialogue: 0,0:09:54.38,0:09:55.74,Hamada / Blue,,0,0,0,,{\pos(722.133,908.7)}Really? Nice
+Dialogue: 0,0:09:55.92,0:10:00.20,Tanaka / Purple,,0,0,0,,It depends on how much tapioca you get in a bite
+Dialogue: 0,0:09:58.60,0:10:00.20,Hamada / Blue,,0,0,0,,I see
+Dialogue: 0,0:10:00.20,0:10:03.34,Tanaka / Purple,,0,0,0,,I think kids would really like it...
+Dialogue: 0,0:10:03.34,0:10:06.73,Matsumoto / Red,,0,0,0,,But we're not doing this to satisfy kids
+Dialogue: 0,0:10:07.08,0:10:08.75,Hamada / Blue,,0,0,0,,Why is he so angry?
+Dialogue: 0,0:10:08.75,0:10:10.32,Matsumoto / Red,,0,0,0,,We're a bunch of old dudes
+Dialogue: 0,0:10:10.32,0:10:13.52,Hamada / Blue,,0,0,0,,We're all old dudes and we're all sayin' it's good
+Dialogue: 0,0:10:13.52,0:10:16.28,Matsumoto / Red,,0,0,0,,But my old-dude-self disagrees
+Dialogue: 0,0:10:16.28,0:10:17.93,Hamada / Blue,,0,0,0,,Ok, Matsumoto-old-dude says no
+Dialogue: 0,0:10:17.93,0:10:21.57,Hamada / Blue,,0,0,0,,But every other old dude is saying yes
+Dialogue: 0,0:10:20.00,0:10:21.57,Tanaka / Purple,,0,0,0,,{\pos(737.067,906.3)}We old dudes liked it
+Dialogue: 0,0:10:21.57,0:10:22.99,Endo / Orange,,0,0,0,,I hate to say it, but it's good
+Dialogue: 0,0:10:22.99,0:10:24.76,Narrator,,0,0,0,,{\pos(550,882)}{\fs55.999}Tapioca Hamburg
+Dialogue: 0,0:10:22.99,0:10:24.76,Matsumoto / Red,,0,0,0,,{\pos(872,882)}{\fs64.001}8 points
+Dialogue: 0,0:10:22.99,0:10:24.76,Yamasaki / Green,,0,0,0,,I just thought...
+Dialogue: 0,0:10:24.76,0:10:26.52,Yamasaki / Green,,0,0,0,,It could also work as an hamburger
+Dialogue: 0,0:10:26.65,0:10:30.31,Matsumoto / Red,,0,0,0,,Of course it does, it's an hamburg
+Dialogue: 0,0:10:30.31,0:10:32.14,Matsumoto / Red,,0,0,0,,You just have to insert it between buns
+Dialogue: 0,0:10:32.14,0:10:33.65,Yamasaki / Green,,0,0,0,,I mean, its texture...
+Dialogue: 0,0:10:33.65,0:10:37.38,Yamasaki / Green,,0,0,0,,The tapioca's {\i1}tapsture{\i0}----
+Dialogue: 0,0:10:38.12,0:10:42.39,Narrator,,0,0,0,,And now it's time to reveal Tanaka's tapioca ideas
+Dialogue: 0,0:10:42.46,0:10:44.39,Tanaka / Purple,,0,0,0,,Here's my first dish
+Dialogue: 0,0:10:46.70,0:10:47.84,Matsumoto / Red,,0,0,0,,There's a load of 'em
+Dialogue: 0,0:10:47.84,0:10:50.00,Tanaka / Purple,,0,0,0,,It'll be a tapioka-kake-gohan
+Dialogue: 0,0:10:47.84,0:10:57.00,Credits,,0,0,0,,{\fad(0,300)\fscx54.222\fscy66\pos(728.533,42.6)}note: tamago-kake-gohan is steamed rice with a raw egg mixed in, usually with soy sauce too. A simple yet tasty dish.
+Dialogue: 0,0:10:50.32,0:10:51.61,Yamasaki / Green,,0,0,0,,But with no rice?
+Dialogue: 0,0:10:51.61,0:10:54.88,Tanaka / Purple,,0,0,0,,We'll use it instead of rice, simple as that
+Dialogue: 0,0:10:54.88,0:10:56.37,Hamada / Blue,,0,0,0,,Tapioca instead of rice?
+Dialogue: 0,0:10:56.37,0:10:59.84,Onscreen2,,0,0,0,,{\pos(800,240)}Tapioca instead of rice
+Dialogue: 0,0:10:56.37,0:10:59.84,Tanaka / Purple,,0,0,0,,This will be our "rice"
+Dialogue: 0,0:10:58.08,0:10:59.84,Endo / Orange,,0,0,0,,So it's basically kake-tapioca?
+Dialogue: 0,0:10:59.84,0:11:02.81,Tanaka / Purple,,0,0,0,,It's time to boil it
+Dialogue: 0,0:11:00.92,0:11:02.25,Hamada / Blue,,0,0,0,,{\pos(720,896.7)}You're boiling it?!
+Dialogue: 0,0:11:03.10,0:11:05.04,Yamasaki / Green,,0,0,0,,Not like that?
+Dialogue: 0,0:11:03.72,0:11:05.04,Matsumoto / Red,,0,0,0,,Not raw?
+Dialogue: 0,0:11:05.04,0:11:07.10,Tanaka / Purple,,0,0,0,,We had to cook it first
+Dialogue: 0,0:11:07.10,0:11:08.35,Matsumoto / Red,,0,0,0,,This is reckless
+Dialogue: 0,0:11:08.35,0:11:10.48,Endo / Orange,,0,0,0,,Is it gonna be ok?
+Dialogue: 0,0:11:11.44,0:11:12.56,Endo / Orange,,0,0,0,,How much water?
+Dialogue: 0,0:11:12.56,0:11:16.41,Tanaka / Purple,,0,0,0,,I made it so it matches the pearls' quantity
+Dialogue: 0,0:11:16.41,0:11:20.67,Tanaka / Purple,,0,0,0,,After it's done, we can enjoy it like a kake-gohan
+Dialogue: 0,0:11:20.69,0:11:24.17,Hamada / Blue,,0,0,0,,You like tamago-kake-gohan, don't you?
+Dialogue: 0,0:11:21.80,0:11:24.17,Tanaka / Purple,,0,0,0,,{\pos(720,911.1)}Yeah I mean, everyone does
+Dialogue: 0,0:11:24.17,0:11:27.26,Tanaka / Purple,,0,0,0,,Now we just press the "cook" button here
+Dialogue: 0,0:11:27.26,0:11:30.01,Tanaka / Purple,,0,0,0,,And we just have to wait until it's done
+Dialogue: 0,0:11:30.23,0:11:33.04,Narrator,,0,0,0,,{\pos(332,717)}30 minutes later
+Dialogue: 0,0:11:33.36,0:11:36.48,Tanaka / Purple,,0,0,0,,I'm not sure myself how it's gonna turn out
+Dialogue: 0,0:11:42.64,0:11:46.55,Narrator,,0,0,0,,How is the tapioca cooked inside the rice cooker going to look like?
+Dialogue: 0,0:11:46.64,0:11:48.41,Tanaka / Purple,,0,0,0,,Here I go, let's open it
+Dialogue: 0,0:11:50.67,0:11:51.56,Matsumoto / Red,,0,0,0,,It's the same
+Dialogue: 0,0:11:51.56,0:11:54.56,Yamasaki / Green,,0,0,0,,It's exactly how it was before
+Dialogue: 0,0:11:53.00,0:11:54.56,Endo / Orange,,0,0,0,,{\pos(717.867,887.1)}There's just less water
+Dialogue: 0,0:11:55.36,0:11:58.83,Tanaka / Purple,,0,0,0,,See? It became shiny
+Dialogue: 0,0:11:56.73,0:11:58.83,Hamada / Blue,,0,0,0,,{\pos(1000,909)}Don't say that as if it's rice
+Dialogue: 0,0:11:59.56,0:12:00.62,Yamasaki / Green,,0,0,0,,Is it rice?
+Dialogue: 0,0:12:00.62,0:12:02.33,Matsumoto / Red,,0,0,0,,It was shiny to begin with
+Dialogue: 0,0:12:03.15,0:12:06.35,Narrator,,0,0,0,,The freshly-cooked tapioca is placed in bowls
+Dialogue: 0,0:12:06.35,0:12:08.84,Narrator,,0,0,0,,Now just add the raw egg and it's done
+Dialogue: 0,0:12:09.80,0:12:13.84,Narrator,,0,0,0,,Tanaka's second dish is a risky attempt
+Dialogue: 0,0:12:14.30,0:12:16.19,Tanaka / Purple,,0,0,0,,Here's my second dish
+Dialogue: 0,0:12:16.19,0:12:17.42,Hamada / Blue,,0,0,0,,What's that?
+Dialogue: 0,0:12:17.42,0:12:21.88,Tanaka / Purple,,0,0,0,,I added food coloring to tapioca powder
+Dialogue: 0,0:12:21.88,0:12:23.71,Tanaka / Purple,,0,0,0,,And I mixed them
+Dialogue: 0,0:12:23.71,0:12:28.04,Tanaka / Purple,,0,0,0,,Now I'm gonna make some tapioca pearls with each of them
+Dialogue: 0,0:12:28.91,0:12:30.59,Matsumoto / Red,,0,0,0,,You're going for a party feeling?
+Dialogue: 0,0:12:32.27,0:12:34.60,Tanaka / Purple,,0,0,0,,You do it like this
+Dialogue: 0,0:12:34.60,0:12:36.78,Yamasaki / Green,,0,0,0,,Are they gonna be round?
+Dialogue: 0,0:12:35.50,0:12:36.78,Tanaka / Purple,,0,0,0,,{\pos(472.533,932.7)}Yep
+Dialogue: 0,0:12:35.50,0:12:36.78,Hamada / Blue,,0,0,0,,{\pos(1018.667,935.1)}Stupid question...
+Dialogue: 0,0:12:37.44,0:12:38.91,Tanaka / Purple,,0,0,0,,One by one, like this
+Dialogue: 0,0:12:39.17,0:12:41.44,Yamasaki / Green,,0,0,0,,I don't wanna eat those...
+Dialogue: 0,0:12:42.56,0:12:45.94,Yamasaki / Green,,0,0,0,,They're being given birth to on an old dude's hand...
+Dialogue: 0,0:12:46.78,0:12:49.04,Narrator,,0,0,0,,Before recording this episode
+Dialogue: 0,0:12:51.04,0:12:54.28,Narrator,,0,0,0,,Tanaka prepared a lot of colorful tapiocas
+Dialogue: 0,0:12:57.92,0:13:00.59,Narrator,,0,0,0,,And how they look once boiled...
+Dialogue: 0,0:13:00.83,0:13:02.43,Tanaka / Purple,,0,0,0,,They changed quite a bit
+Dialogue: 0,0:13:02.43,0:13:04.91,Hamada / Blue,,0,0,0,,They look really pretty
+Dialogue: 0,0:13:03.63,0:13:05.72,Yamasaki / Green,,0,0,0,,{\pos(724.267,937.5)}Now these are really Instagrammable
+Dialogue: 0,0:13:04.91,0:13:06.91,Tanaka / Purple,,0,0,0,,I know, right?
+Dialogue: 0,0:13:07.17,0:13:09.47,Matsumoto / Red,,0,0,0,,That's something Chad would eat
+Dialogue: 0,0:13:09.47,0:13:11.61,Matsumoto / Red,,0,0,0,,Chad Mullane would eat this
+Dialogue: 0,0:13:11.61,0:13:13.68,Hamada / Blue,,0,0,0,,What are you gonna do with them?
+Dialogue: 0,0:13:13.76,0:13:15.48,Tanaka / Purple,,0,0,0,,I'm making an omurice with them
+Dialogue: 0,0:13:17.04,0:13:17.98,Tanaka / Purple,,0,0,0,,I'm---
+Dialogue: 0,0:13:17.98,0:13:20.00,Matsumoto / Red,,0,0,0,,This is too much, man
+Dialogue: 0,0:13:21.10,0:13:23.50,Narrator,,0,0,0,,When the egg isn't solidified yet...
+Dialogue: 0,0:13:24.92,0:13:29.00,Narrator,,0,0,0,,Pour the colorful tapiocas in it: then wrap it up and you're done
+Dialogue: 0,0:13:29.08,0:13:32.46,Matsumoto / Red,,0,0,0,,This looks really bad for your health
+Dialogue: 0,0:13:30.97,0:13:32.46,Tanaka / Purple,,0,0,0,,It's so pretty
+Dialogue: 0,0:13:33.36,0:13:37.50,Tanaka / Purple,,0,0,0,,{\pos(276,984)}{\fs46.999}Tanaka's Idea
+Dialogue: 0,0:13:33.36,0:13:37.50,Onscreen,,0,0,0,,{\pos(778,904.001)}{\fs55.999}Tamago-kake-tapioca
+Dialogue: 0,0:13:33.36,0:13:37.50,Narrator,,0,0,0,,Let's see how Tanaka's tamago-kake-tapioca is going to be
+Dialogue: 0,0:13:38.32,0:13:40.28,Tanaka / Purple,,0,0,0,,Feel free to pour soy sauce on it
+Dialogue: 0,0:13:40.28,0:13:42.20,Tanaka / Purple,,0,0,0,,Over the egg
+Dialogue: 0,0:13:42.20,0:13:46.08,Hamada / Blue,,0,0,0,,Just like a normal tamago-kake-gohan?
+Dialogue: 0,0:13:43.58,0:13:46.08,Tanaka / Purple,,0,0,0,,Yep, just like it
+Dialogue: 0,0:13:48.81,0:13:51.24,Matsumoto / Red,,0,0,0,,It looks disgusting
+Dialogue: 0,0:13:51.24,0:13:53.60,Tanaka / Purple,,0,0,0,,Eat it first, feel its texture
+Dialogue: 0,0:14:01.19,0:14:04.60,Matsumoto / Red,,0,0,0,,I won't say I hate it so much
+Dialogue: 0,0:14:05.82,0:14:09.39,Yamasaki / Green,,0,0,0,,Feels like your mom cooked the rice for too long
+Dialogue: 0,0:14:09.39,0:14:13.61,Tanaka / Purple,,0,0,0,,Ah, you mean when there's too much water in it?
+Dialogue: 0,0:14:13.61,0:14:16.23,Matsumoto / Red,,0,0,0,,It's the thing you eat when you catch a cold
+Dialogue: 0,0:14:16.23,0:14:19.55,Matsumoto / Red,,0,0,0,,And you don't have much of an appetite...
+Dialogue: 0,0:14:20.17,0:14:24.04,Onscreen,,0,0,0,,{\pos(800,904.001)}{\fs55.999}Rainbow Tapioca Omurice
+Dialogue: 0,0:14:20.17,0:14:24.04,Tanaka / Purple,,0,0,0,,{\pos(246,985.999)}{\fs46.999}Tanaka's Idea
+Dialogue: 0,0:14:20.03,0:14:24.01,Narrator,,0,0,0,,His second dish is the "rainbow tapioca omurice"
+Dialogue: 0,0:14:24.16,0:14:25.60,Tanaka / Purple,,0,0,0,,Ready for this?
+Dialogue: 0,0:14:25.98,0:14:28.41,Tanaka / Purple,,0,0,0,,They came out, look!
+Dialogue: 0,0:14:29.68,0:14:32.55,Matsumoto / Red,,0,0,0,,Is this that german tabletop game!?
+Dialogue: 0,0:14:32.55,0:14:35.22,Matsumoto / Red,,0,0,0,,It's the game we played on {\i1}Let's Play With Tabletop Games
+Dialogue: 0,0:14:35.47,0:14:37.85,Tanaka / Purple,,0,0,0,,It's flashy
+Dialogue: 0,0:14:43.82,0:14:45.45,Hamada / Blue,,0,0,0,,They're kinda hard
+Dialogue: 0,0:14:47.13,0:14:50.87,Matsumoto / Red,,0,0,0,,It's not so bad...
+Dialogue: 0,0:14:50.94,0:14:55.87,Hamada / Blue,,0,0,0,,Maybe it needed some more salt and pepper
+Dialogue: 0,0:14:56.70,0:14:59.44,Tanaka / Purple,,0,0,0,,How is it with ketchup on top?
+Dialogue: 0,0:15:00.96,0:15:04.18,Hamada / Blue,,0,0,0,,It just tastes like ketchup
+Dialogue: 0,0:15:04.52,0:15:11.79,Narrator,,0,0,0,,{\pos(587,888)}{\fs55.999}Rainbow Tapioca Omurice
+Dialogue: 0,0:15:04.52,0:15:11.79,Matsumoto / Red,,0,0,0,,{\pos(978,888)}{\fs64.001}3 points
+Dialogue: 0,0:15:05.79,0:15:07.87,Tanaka / Purple,,0,0,0,,You like it, right Hosei?
+Dialogue: 0,0:15:07.87,0:15:09.24,Tanaka / Purple,,0,0,0,,This kind of flashy food?
+Dialogue: 0,0:15:09.60,0:15:10.92,Yamasaki / Green,,0,0,0,,No
+Dialogue: 0,0:15:12.19,0:15:14.49,Yamasaki / Green,,0,0,0,,It sucks
+Dialogue: 0,0:15:15.24,0:15:19.50,Narrator,,0,0,0,,And now it's time for Hosei's tapioca dishes ideas
+Dialogue: 0,0:15:20.33,0:15:21.92,Hamada / Blue,,0,0,0,,Here's the first one
+Dialogue: 0,0:15:21.02,0:15:21.92,Yamasaki / Green,,0,0,0,,Here it is
+Dialogue: 0,0:15:23.55,0:15:26.49,Yamasaki / Green,,0,0,0,,Tapioca is made of cassava, which is a tuber
+Dialogue: 0,0:15:26.49,0:15:28.28,Yamasaki / Green,,0,0,0,,And we have its powder here
+Dialogue: 0,0:15:28.28,0:15:30.68,Yamasaki / Green,,0,0,0,,This has been mixed with curry powder
+Dialogue: 0,0:15:30.68,0:15:32.96,Yamasaki / Green,,0,0,0,,And this one is mixed with salt
+Dialogue: 0,0:15:33.16,0:15:34.78,Yamasaki / Green,,0,0,0,,So, what am I going to do?
+Dialogue: 0,0:15:34.78,0:15:36.11,Yamasaki / Green,,0,0,0,,We just take it as it is
+Dialogue: 0,0:15:38.33,0:15:43.84,Narrator,,0,0,0,,He makes some curry & salt tapioca balls around 3cm in size
+Dialogue: 0,0:15:44.59,0:15:46.97,Yamasaki / Green,,0,0,0,,It's gonna change its texture as well
+Dialogue: 0,0:15:46.97,0:15:49.56,Yamasaki / Green,,0,0,0,,My tapioca pearls are going to be huge
+Dialogue: 0,0:15:49.90,0:15:52.28,Hamada / Blue,,0,0,0,,I don't think they're {\i1}that {\i0}huge
+Dialogue: 0,0:15:53.08,0:15:56.56,Narrator,,0,0,0,,And once you boil the freshly done tapioca balls for 20 minutes...
+Dialogue: 0,0:15:56.56,0:16:00.10,Yamasaki / Green,,0,0,0,,I'm gonna fry them
+Dialogue: 0,0:15:58.97,0:16:00.10,Tanaka / Purple,,0,0,0,,{\pos(715.733,894.3)}Fried?
+Dialogue: 0,0:16:01.92,0:16:05.00,Yamasaki / Green,,0,0,0,,I love potato fries
+Dialogue: 0,0:16:05.00,0:16:07.98,Yamasaki / Green,,0,0,0,,So I've been wondering what if I did the same?
+Dialogue: 0,0:16:08.38,0:16:09.79,Yamasaki / Green,,0,0,0,,Just like this
+Dialogue: 0,0:16:11.76,0:16:14.64,Yamasaki / Green,,0,0,0,,Gonna drop 'em all like this
+Dialogue: 0,0:16:16.64,0:16:17.56,Yamasaki / Green,,0,0,0,,And here they go
+Dialogue: 0,0:16:17.56,0:16:17.87,Yamasaki / Green,,0,0,0,,Shit
+Dialogue: 0,0:16:19.76,0:16:24.40,Narrator,,0,0,0,,How are Hosei's tapioca-fries going to look like?
+Dialogue: 0,0:16:25.24,0:16:30.68,Narrator,,0,0,0,,His second dish is a sweet made by using a banana
+Dialogue: 0,0:16:30.76,0:16:34.16,Matsumoto / Red,,0,0,0,,It's sweet to begin with, after all
+Dialogue: 0,0:16:32.60,0:16:34.16,Yamasaki / Green,,0,0,0,,Tapioca? Yes
+Dialogue: 0,0:16:34.44,0:16:36.49,Yamasaki / Green,,0,0,0,,First off, we peel the banana
+Dialogue: 0,0:16:36.49,0:16:37.60,Tanaka / Purple,,0,0,0,,You peel it off, ok
+Dialogue: 0,0:16:38.00,0:16:40.72,Yamasaki / Green,,0,0,0,,You have to be careful at this point
+Dialogue: 0,0:16:40.14,0:16:40.72,Hamada / Blue,,0,0,0,,Why?
+Dialogue: 0,0:16:40.72,0:16:42.33,Yamasaki / Green,,0,0,0,,'Cause we're gonna reuse it later
+Dialogue: 0,0:16:42.33,0:16:43.61,Matsumoto / Red,,0,0,0,,The peel is important?
+Dialogue: 0,0:16:43.61,0:16:44.81,Yamasaki / Green,,0,0,0,,It is
+Dialogue: 0,0:16:44.81,0:16:48.60,Yamasaki / Green,,0,0,0,,So make sure to be careful at home while making this
+Dialogue: 0,0:16:46.22,0:16:48.60,Matsumoto / Red,,0,0,0,,{\frz4.125\pos(344.8,922.601)}As if anyone would
+Dialogue: 0,0:16:49.66,0:16:54.11,Narrator,,0,0,0,,Then he mixed the banana with tapioca powder in the mixer...
+Dialogue: 0,0:16:56.76,0:16:58.54,Yamasaki / Green,,0,0,0,,Mix it up good like this
+Dialogue: 0,0:16:59.56,0:17:02.92,Narrator,,0,0,0,,Then forms it into a banana shape
+Dialogue: 0,0:17:04.12,0:17:05.68,Yamasaki / Green,,0,0,0,,This is the point
+Dialogue: 0,0:17:06.27,0:17:11.61,Yamasaki / Green,,0,0,0,,When it's the most Instagrammable, so make sure to snap a pic
+Dialogue: 0,0:17:11.71,0:17:16.28,Matsumoto / Red,,0,0,0,,"It'S tHe MoSt InStAgRaMmAbLe, So MaKe SuRe To SnAp A pIc"
+Dialogue: 0,0:17:17.01,0:17:21.25,Matsumoto / Red,,0,0,0,,If I had to choose between saying that or dying, I'd pick death
+Dialogue: 0,0:17:22.06,0:17:27.24,Narrator,,0,0,0,,And it's not over: he also makes some smaller tapioca worms
+Dialogue: 0,0:17:28.30,0:17:31.50,Narrator,,0,0,0,,Then he boils all of them together
+Dialogue: 0,0:17:32.11,0:17:35.87,Narrator,,0,0,0,,Get ready to see Hosei's special arrangement!
+Dialogue: 0,0:17:36.41,0:17:40.86,Narrator,,0,0,0,,Let's start by tasting Hosei's first dish: tapioca fries
+Dialogue: 0,0:17:41.07,0:17:43.12,Hamada / Blue,,0,0,0,,They don't look bad
+Dialogue: 0,0:17:44.09,0:17:45.04,Tanaka / Purple,,0,0,0,,Kind of
+Dialogue: 0,0:17:45.56,0:17:46.83,Tanaka / Purple,,0,0,0,,Let's eat em as they are
+Dialogue: 0,0:17:46.83,0:17:49.12,Tanaka / Purple,,0,0,0,,Bon appetit
+Dialogue: 0,0:17:47.28,0:17:49.12,Yamasaki / Green,,0,0,0,,Fried-tapioca
+Dialogue: 0,0:17:50.81,0:17:52.14,Matsumoto / Red,,0,0,0,,So hard!
+Dialogue: 0,0:17:52.45,0:17:53.72,Yamasaki / Green,,0,0,0,,Delicious!
+Dialogue: 0,0:17:53.75,0:17:55.80,Hamada / Blue,,0,0,0,,It's a mochi
+Dialogue: 0,0:17:54.68,0:17:55.80,Yamasaki / Green,,0,0,0,,{\pos(720,927.9)}Really
+Dialogue: 0,0:17:55.95,0:17:57.08,Endo / Orange,,0,0,0,,It's like a mochi
+Dialogue: 0,0:17:57.08,0:17:59.79,Yamasaki / Green,,0,0,0,,They can work as a sweet
+Dialogue: 0,0:17:59.79,0:18:03.93,Hamada / Blue,,0,0,0,,Man, this makes you hyper-thirsty
+Dialogue: 0,0:18:01.50,0:18:03.93,Tanaka / Purple,,0,0,0,,{\pos(726.4,913.5)}Their flavor is too strong
+Dialogue: 0,0:18:04.26,0:18:08.77,Narrator,,0,0,0,,{\pos(562,882)}{\fs55.999}Tapioca fries
+Dialogue: 0,0:18:04.26,0:18:08.77,Matsumoto / Red,,0,0,0,,{\pos(866,882)}{\fs64.001}2 points
+Dialogue: 0,0:18:03.93,0:18:06.84,Hamada / Blue,,0,0,0,,Feels like eating curry roux
+Dialogue: 0,0:18:06.84,0:18:08.84,Tanaka / Purple,,0,0,0,,You're right
+Dialogue: 0,0:18:08.84,0:18:14.14,Matsumoto / Red,,0,0,0,,You have to drink a whole water dispenser for one of these alone
+Dialogue: 0,0:18:14.84,0:18:19.10,Narrator,,0,0,0,,Here's his second dish: how is it going to look like?
+Dialogue: 0,0:18:19.37,0:18:21.31,Yamasaki / Green,,0,0,0,,Here goes
+Dialogue: 0,0:18:27.26,0:18:32.01,Narrator,,0,0,0,,Hosei's second dish is a sweet made of banana and tapioca powder
+Dialogue: 0,0:18:32.67,0:18:36.80,Narrator,,0,0,0,,How is it going to look like?
+Dialogue: 0,0:18:36.80,0:18:38.32,Yamasaki / Green,,0,0,0,,Here it is
+Dialogue: 0,0:18:40.01,0:18:41.52,Matsumoto / Red,,0,0,0,,What the hell is this?
+Dialogue: 0,0:18:41.52,0:18:43.72,Yamasaki / Green,,0,0,0,,Grotesque banana
+Dialogue: 0,0:18:43.72,0:18:45.42,Yamasaki / Green,,0,0,0,,But it's delicious
+Dialogue: 0,0:18:46.33,0:18:49.34,Endo / Orange,,0,0,0,,What's with the grotesque image?
+Dialogue: 0,0:18:45.97,0:18:50.17,Onscreen,,0,0,0,,{\pos(778,904.001)}{\fs55.999}Grotesque Tapioca Banana
+Dialogue: 0,0:18:45.97,0:18:50.17,Yamasaki / Green,,0,0,0,,{\pos(208,981)}{\fs46.999}Hosei's Idea
+Dialogue: 0,0:18:49.34,0:18:52.57,Yamasaki / Green,,0,0,0,,You know they have those gummy worms in America, right?
+Dialogue: 0,0:18:52.57,0:18:57.44,Yamasaki / Green,,0,0,0,,So kids eat them and their parents are like "what are you eating, bugs?!"
+Dialogue: 0,0:18:57.44,0:19:00.17,Yamasaki / Green,,0,0,0,,That's how they play pranks on their friends' parents
+Dialogue: 0,0:19:00.17,0:19:03.65,Yamasaki / Green,,0,0,0,,So I want all of you to go back to your child self
+Dialogue: 0,0:19:03.65,0:19:07.23,Yamasaki / Green,,0,0,0,,So you can surprise your parents with these
+Dialogue: 0,0:19:07.23,0:19:10.80,Tanaka / Purple,,0,0,0,,Surprise our parents? At this age?
+Dialogue: 0,0:19:11.26,0:19:12.30,Yamasaki / Green,,0,0,0,,How old are they?
+Dialogue: 0,0:19:12.30,0:19:15.80,Tanaka / Purple,,0,0,0,,I think around 86 years old
+Dialogue: 0,0:19:14.46,0:19:15.80,Yamasaki / Green,,0,0,0,,{\pos(724.267,872.7)}86 years old, huh?
+Dialogue: 0,0:19:16.20,0:19:18.06,Matsumoto / Red,,0,0,0,,How is this a good idea?
+Dialogue: 0,0:19:18.06,0:19:20.48,Yamasaki / Green,,0,0,0,,It tastes great, trust me
+Dialogue: 0,0:19:20.83,0:19:23.72,Tanaka / Purple,,0,0,0,,It really doesn't make me wanna eat it
+Dialogue: 0,0:19:23.72,0:19:26.25,Yamasaki / Green,,0,0,0,,But it's good once you eat it
+Dialogue: 0,0:19:26.25,0:19:28.67,Matsumoto / Red,,0,0,0,,You can't cut it at all
+Dialogue: 0,0:19:28.67,0:19:29.95,Hamada / Blue,,0,0,0,,This is not ok
+Dialogue: 0,0:19:29.95,0:19:31.31,Matsumoto / Red,,0,0,0,,It's gonna chip your knife
+Dialogue: 0,0:19:31.31,0:19:33.36,Matsumoto / Red,,0,0,0,,It's so stiff
+Dialogue: 0,0:19:33.74,0:19:34.92,Endo / Orange,,0,0,0,,It really is
+Dialogue: 0,0:19:34.92,0:19:36.76,Yamasaki / Green,,0,0,0,,What's this?
+Dialogue: 0,0:19:37.05,0:19:40.16,Yamasaki / Green,,0,0,0,,Its elasticity is impressive
+Dialogue: 0,0:19:40.97,0:19:42.68,Endo / Orange,,0,0,0,,This is really something
+Dialogue: 0,0:19:43.36,0:19:44.78,Matsumoto / Red,,0,0,0,,So bad
+Dialogue: 0,0:19:50.19,0:19:52.56,Endo / Orange,,0,0,0,,Horrible
+Dialogue: 0,0:19:51.40,0:19:52.56,Tanaka / Purple,,0,0,0,,Disgusting
+Dialogue: 0,0:19:52.56,0:19:54.60,Endo / Orange,,0,0,0,,It's horrible
+Dialogue: 0,0:19:54.60,0:19:57.71,Matsumoto / Red,,0,0,0,,Tastes like the valve on a beach ball
+Dialogue: 0,0:19:57.71,0:19:59.31,Matsumoto / Red,,0,0,0,,It's just like that
+Dialogue: 0,0:19:58.01,0:20:03.55,Narrator,,0,0,0,,{\pos(572,885)}{\fs55.999}Grotesque Tapioca Banana
+Dialogue: 0,0:19:58.01,0:20:03.55,Narrator,,0,0,0,,{\pos(1014,882)}{\fs64.001\c&HA30815&\3c&HFFFFFF&}Skull Mark
+Dialogue: 0,0:19:59.31,0:20:00.73,Endo / Orange,,0,0,0,,This is the worst
+Dialogue: 0,0:20:00.88,0:20:02.08,Hamada / Blue,,0,0,0,,This is no good
+Dialogue: 0,0:20:02.08,0:20:03.58,Tanaka / Purple,,0,0,0,,So bad
+Dialogue: 0,0:20:04.36,0:20:08.59,Narrator,,0,0,0,,And now we get to see Matsumoto's tapioca idea
+Dialogue: 0,0:20:08.59,0:20:13.89,Matsumoto / Red,,0,0,0,,First, I want you to see how it's going to look like once it's done
+Dialogue: 0,0:20:13.89,0:20:16.64,Matsumoto / Red,,0,0,0,,Here's how it looks like\N{\c&H22D727&}- No need to cook?
+Dialogue: 0,0:20:17.60,0:20:19.32,Matsumoto / Red,,0,0,0,,This is...
+Dialogue: 0,0:20:17.10,0:20:23.02,Credits,,0,0,0,,{\fscx75.556\fscy98\pos(867.2,1005)}Tapioca gunkan maki (salmon roe sushi)
+Dialogue: 0,0:20:19.72,0:20:21.32,Yamasaki / Green,,0,0,0,,Instead of salmon roe?
+Dialogue: 0,0:20:21.32,0:20:23.03,Matsumoto / Red,,0,0,0,,Of course there's also rice in it
+Dialogue: 0,0:20:23.03,0:20:28.67,Matsumoto / Red,,0,0,0,,I'm wondering if it's okay to put some wasabi on it
+Dialogue: 0,0:20:25.79,0:20:28.67,Hamada / Blue,,0,0,0,,{\pos(717.867,920.7)}There's no need for it
+Dialogue: 0,0:20:28.67,0:20:31.88,Hamada / Blue,,0,0,0,,Are we going to eat only this dish now?
+Dialogue: 0,0:20:31.88,0:20:33.77,Hamada / Blue,,0,0,0,,Let's go to the table then
+Dialogue: 0,0:20:34.25,0:20:37.25,Matsumoto / Red,,0,0,0,,{\pos(526,781.001)}Take a look
+Dialogue: 0,0:20:34.81,0:20:36.43,Hamada / Blue,,0,0,0,,Yeah, yeah...
+Dialogue: 0,0:20:37.24,0:20:40.20,Credits,,0,0,0,,{\c&H1625DA&\3c&H1727D6&\3a&H4B&\fscx290.667\fscy864\pos(523.733,527.4)}→
+Dialogue: 0,0:20:37.24,0:20:40.20,Credits,,0,0,0,,{\3c&H000000&\3a&HFF&\fscx62.222\fscy73\pos(513.067,371.4)}wasabi
+Dialogue: 0,0:20:36.43,0:20:38.43,Yamasaki / Green,,0,0,0,,We've seen it
+Dialogue: 0,0:20:39.45,0:20:41.37,Endo / Orange,,0,0,0,,We're looking at it as we walk
+Dialogue: 0,0:20:43.90,0:20:48.24,Narrator,,0,0,0,,Let's jump right in into his first dish, "tapioca gunkan maki"
+Dialogue: 0,0:20:43.62,0:20:48.24,Onscreen,,0,0,0,,{\pos(778,904.001)}{\fs55.999}Tapioca gunkan maki
+Dialogue: 0,0:20:43.62,0:20:48.24,Matsumoto / Red,,0,0,0,,{\pos(300,985.999)}{\fs46.999}Matsumoto's Idea
+Dialogue: 0,0:20:48.43,0:20:49.34,Tanaka / Purple,,0,0,0,,Here goes
+Dialogue: 0,0:20:50.94,0:20:54.90,Hamada / Blue,,0,0,0,,Man, this is so gross...
+Dialogue: 0,0:21:02.34,0:21:04.14,Matsumoto / Red,,0,0,0,,This is the best
+Dialogue: 0,0:21:05.76,0:21:10.91,Hamada / Blue,,0,0,0,,Maybe adding some soy sauce could make this stronger
+Dialogue: 0,0:21:08.99,0:21:10.91,Endo / Orange,,0,0,0,,{\pos(720,913.5)}Is that it?
+Dialogue: 0,0:21:10.91,0:21:13.55,Yamasaki / Green,,0,0,0,,Feels like eating salmon roe
+Dialogue: 0,0:21:12.32,0:21:13.55,Matsumoto / Red,,0,0,0,,{\pos(715.733,889.5)}Hear that?
+Dialogue: 0,0:21:13.55,0:21:15.89,Matsumoto / Red,,0,0,0,,He said it!!
+Dialogue: 0,0:21:16.12,0:21:19.09,Yamasaki / Green,,0,0,0,,I mean, the texture is the same as salmon roe
+Dialogue: 0,0:21:17.26,0:21:19.09,Matsumoto / Red,,0,0,0,,{\pos(705.067,912.401)}He clearly said it!!
+Dialogue: 0,0:21:21.53,0:21:24.60,Matsumoto / Red,,0,0,0,,I also thought of a hybrid, half salmon roe and half tapioca
+Dialogue: 0,0:21:24.60,0:21:27.23,Yamasaki / Green,,0,0,0,,Maybe it gets harder to tell which is which
+Dialogue: 0,0:21:25.84,0:21:27.23,Matsumoto / Red,,0,0,0,,Is there some roe?
+Dialogue: 0,0:21:27.69,0:21:29.90,Yamasaki / Green,,0,0,0,,Maybe it'll be hard to tell
+Dialogue: 0,0:21:30.28,0:21:31.28,Tanaka / Purple,,0,0,0,,Oh, but...
+Dialogue: 0,0:21:32.36,0:21:33.82,Matsumoto / Red,,0,0,0,,See? Like this
+Dialogue: 0,0:21:34.35,0:21:35.64,Matsumoto / Red,,0,0,0,,Like this
+Dialogue: 0,0:21:35.64,0:21:38.14,Endo / Orange,,0,0,0,,Real salmon roe and tapioca
+Dialogue: 0,0:21:38.14,0:21:40.04,Matsumoto / Red,,0,0,0,,This is surprising
+Dialogue: 0,0:21:40.18,0:21:42.58,Matsumoto / Red,,0,0,0,,{\pos(998,816)}"Sworn enemies, same boat"
+Dialogue: 0,0:21:48.29,0:21:53.26,Matsumoto / Red,,0,0,0,,I took a bite of just the salmon roe half, and it tasted delicious
+Dialogue: 0,0:21:50.27,0:21:53.26,Hamada / Blue,,0,0,0,,{\pos(734.933,918.3)}Of course it does
+Dialogue: 0,0:21:53.96,0:21:58.16,Narrator,,0,0,0,,Tapioca gunkan maki's score is 5 points
+Dialogue: 0,0:21:58.16,0:22:02.01,Matsumoto / Red,,0,0,0,,Now, it's time for our last one, and I...
+Dialogue: 0,0:22:02.01,0:22:06.11,Matsumoto / Red,,0,0,0,,I chose to do something different from the usual, more party-themed
+Dialogue: 0,0:22:06.11,0:22:10.65,Matsumoto / Red,,0,0,0,,I prepared something you could enjoy at a festival
+Dialogue: 0,0:22:13.34,0:22:17.95,Narrator,,0,0,0,,Matsumoto is going to show us a fun way to eat tapioca
+Dialogue: 0,0:22:18.16,0:22:19.34,Matsumoto / Red,,0,0,0,,Our last one
+Dialogue: 0,0:22:20.04,0:22:22.04,Matsumoto / Red,,0,0,0,,Is a simple one
+Dialogue: 0,0:22:22.04,0:22:25.16,Yamasaki / Green,,0,0,0,,That's a tapioca milk tea
+Dialogue: 0,0:22:25.16,0:22:28.46,Matsumoto / Red,,0,0,0,,But I thought it may be nice to have it this way
+Dialogue: 0,0:22:29.23,0:22:30.49,Tanaka / Purple,,0,0,0,,Huh? That's--?
+Dialogue: 0,0:22:30.67,0:22:33.60,Matsumoto / Red,,0,0,0,,Here's nagashi-tapioca-milk-tea
+Dialogue: 0,0:22:30.67,0:22:37.60,Credits,,0,0,0,,{\fad(0,300)\fscx57.778\fscy68\pos(734.933,40.2)}note: based of nagashi-somen, noodles running down a water-filled bamboo log
+Dialogue: 0,0:22:35.16,0:22:37.00,Hamada / Blue,,0,0,0,,Are we gonna suck 'em up with straws?
+Dialogue: 0,0:22:37.00,0:22:41.90,Matsumoto / Red,,0,0,0,,Exactly, each one of you is gonna suck them as they flow down
+Dialogue: 0,0:22:42.46,0:22:44.38,Matsumoto / Red,,0,0,0,,Isn't this really fun?!
+Dialogue: 0,0:22:44.38,0:22:48.51,Yamasaki / Green,,0,0,0,,I don't really know about that...
+Dialogue: 0,0:22:45.24,0:22:48.51,Hamada / Blue,,0,0,0,,Guess we have to try it first
+Dialogue: 0,0:22:48.70,0:22:50.64,Matsumoto / Red,,0,0,0,,Let's go
+Dialogue: 0,0:22:49.53,0:22:50.64,Endo / Orange,,0,0,0,,Oh, here comes
+Dialogue: 0,0:22:50.64,0:22:52.16,Tanaka / Purple,,0,0,0,,This is milk tea, right?
+Dialogue: 0,0:22:55.16,0:22:56.33,Matsumoto / Red,,0,0,0,,Is it flowing down?
+Dialogue: 0,0:22:57.61,0:22:58.65,Matsumoto / Red,,0,0,0,,Having fun?
+Dialogue: 0,0:22:58.65,0:23:00.22,Yamasaki / Green,,0,0,0,,I don't know
+Dialogue: 0,0:23:00.22,0:23:02.27,Matsumoto / Red,,0,0,0,,Here they come!
+Dialogue: 0,0:23:13.02,0:23:15.56,Matsumoto / Red,,0,0,0,,Isn't Gaki no Tsukai fun?
+Dialogue: 0,0:23:16.48,0:23:18.51,Yamasaki / Green,,0,0,0,,I got so many of them
+Dialogue: 0,0:23:19.28,0:23:20.51,Hamada / Blue,,0,0,0,,Yeah
+Dialogue: 0,0:23:21.82,0:23:23.68,Yamasaki / Green,,0,0,0,,I got way too many pearls
+Dialogue: 0,0:23:23.68,0:23:25.29,Matsumoto / Red,,0,0,0,,This is so good
+Dialogue: 0,0:23:25.29,0:23:27.69,Matsumoto / Red,,0,0,0,,I think this could be a hit at parties
+Dialogue: 0,0:23:27.69,0:23:29.94,Endo / Orange,,0,0,0,,They just keep on coming
+Dialogue: 0,0:23:29.34,0:23:31.34,Hamada / Blue,,0,0,0,,That's enough, Matsumoto
+Dialogue: 0,0:23:31.52,0:23:33.24,Matsumoto / Red,,0,0,0,,Get them, quick
+Dialogue: 0,0:23:33.24,0:23:34.43,Tanaka / Purple,,0,0,0,,There's too many
+Dialogue: 0,0:23:39.21,0:23:40.96,Tanaka / Purple,,0,0,0,,You end up eating too much
+Dialogue: 0,0:23:40.96,0:23:43.58,Matsumoto / Red,,0,0,0,,This is a blast, isn't it?
+Dialogue: 0,0:23:42.28,0:23:43.58,Tanaka / Purple,,0,0,0,,Unbelievable
+Dialogue: 0,0:23:43.58,0:23:45.84,Tanaka / Purple,,0,0,0,,I think I ate like 100 of them
+Dialogue: 0,0:23:47.15,0:23:48.94,Hamada / Blue,,0,0,0,,They won't stop coming
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\3c&H007FFF&\c&H7DF1FF&\pos(721.067,136.8)\fscx243.556\fscy281}SHIONNOTSUKAI.WORDPRESS.COM
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\c&HFFF18F&\3c&HCE1B21&\fscx257.778\fscy286\pos(719.823,255)}FACEBOOK.COM/SHIONNOTSUKAI
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\c&HCDFF9E&\3c&H557106&\fscx293.333\fscy286\pos(719.467,376.2)}TWITTER.COM/FGRNDNOISES
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\c&HB7B7FF&\3c&H0000BA&\pos(723.733,887.4)\fscx303.111\fscy284}KO-FI.COM/SHIONNOTSUKAI
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\c&HFF8AFB&\3c&H700D54&\fscx268.444\fscy292\pos(721.067,1000.8)}PATREON.COM/SHIONNOTSUKAI
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\pos(976.533,1062)}SPECIAL THANKS TO{\3c&HA03A10&} RIDDELL{\3c&H000000&} FOR TYPESETTING THIS EPISODE!!
+Dialogue: 0,0:23:48.92,0:24:10.00,Credits,,0,0,0,,{\fscx98.667\fscy141\c&H00FFF1&\pos(746.133,657.6)}THIS IS A NO-PROFIT FAN-TRANSLATION MADE BY A FAN FOR OTHER FANS. ALL COPYRIGHT ARE RESERVED TO THEIR RESPECTIVE OWNERS.
+Dialogue: 0,0:23:15.00,0:23:20.00,Credits,,0,0,0,,{\fad(200,200)\pos(1079.467,54.6)}Subtitles & editing by  {\3c&H50A7FF&}Shion (@FGRNDNoises)
+Dialogue: 0,0:23:20.00,0:23:25.00,Credits,,0,0,0,,{\fad(200,200)\pos(1045.333,54.6)}Typesetting & QC by  {\3c&HCB7939&}RIDDELL (springmanRIDDELL))
+Dialogue: 0,0:23:25.00,0:23:30.00,Credits,,0,0,0,,{\fad(200,200)\pos(1009.067,49.8)}Find more episodes  @  {\3c&H29DB36&}shionnotsukai.wordpress.com
+Dialogue: 0,0:23:30.00,0:23:35.00,Credits,,0,0,0,,{\fad(200,200)\pos(1065.6,54.6)}Like my FB page:  {\3c&H8C2D05&}facebook.com/shionnotsukai
+Dialogue: 0,0:23:35.00,0:23:42.00,Credits,,0,0,0,,{\fad(200,200)\pos(898.133,52.2)}Want to support? make a donation on ko-fi: {\3c&H6D0CFF&}ko-fi.com/shionnotsukai
+

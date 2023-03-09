@@ -1,0 +1,749 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Aegisub Video Aspect Ratio: c1.818182
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki_160417_#1301_Rendezvous Game (1).mp4
+Video File: Gaki_160417_#1301_Rendezvous Game (1).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 847
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,95.3333,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Hamada,Arial,68,&H00FF0000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,95.3333,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Matsumoto,Arial,68,&H001425DF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,95.3333,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Yamasaki,Arial,68,&H0011AA16,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,95.3333,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Endo,Arial,68,&H00126DD0,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,95.3333,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Tanaka,Arial,68,&H00C700B9,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,95.3333,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Itao,Arial,68,&H0006FFF0,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,88,100,0,0,1,4.00001,1.99999,2,9,9,11,1
+Style: Sign,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.00001,4.00001,2,9,9,11,1
+Style: Black text,Arial,61,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,99.7333,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: White Text,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,99.7333,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Yellow text,Arial,61,&H0000FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: More glow,Arial,101,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.5,7.49999,2,9,9,11,1
+Style: TPF,Arial,49,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.99999,1.99999,2,9,9,11,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,136.364,100,0,0,3,49.9999,1.99999,5,9,9,11,1
+Style: Blue rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H13A8271B,0,0,0,0,100,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Red rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H0D16175A,0,0,0,0,100,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Titlered,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.00001,8,2,9,9,11,1
+Style: Blocky,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95.3333,100,0,0,1,2.72727,4,2,9,9,11,1
+Style: Yellow announcmend,Arial,56,&H0000D8F5,&H000000FF,&H00000000,&H3CFFFFFF,-1,-1,0,0,88,120,0,0,1,4,2.99999,2,9,9,11,1
+Style: Green rectangle,Arial,20,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H6244D33A,0,0,0,0,100,100,0,0,3,49.9999,1.99999,2,9,9,11,1
+Style: Corner notice,Arial,41,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+Style: Alternative sign,Arial,97,&H000F0B87,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,4.00001,2.99999,2,9,9,11,1
+Style: Newtofupandatitle,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,136.364,100,0,0,1,2.99999,2.99999,2,11,11,16,1
+Style: Black Matsumoto,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H000000FF,-1,0,0,0,100,100,0,0,1,4,1.99999,2,9,9,11,1
+Style: Thin lyrics,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5.45455,2.72727,2,9,9,11,1
+Style: Black Hamada,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00B8041E,-1,0,0,0,100,100,0,0,1,4,2.44998,2,9,9,11,1
+Style: Black Itao,Arial,59,&H00000000,&H000000FF,&H000BFCED,&H00000000,-1,0,0,0,100,100,0,0,1,4.00001,1.99999,2,9,9,11,1
+Style: Alt Itao wife,Arial,61,&H00000000,&H000000FF,&H00FFFFFF,&H008C30B1,0,0,0,0,91.6667,100,0,0,1,4.00001,4.09091,2,9,9,11,1
+Style: Fatfut,Arial,90,&H00FFFFFF,&H000000FF,&H2918181A,&H51222224,0,0,0,0,100,100,0,0,1,2.99999,2.99999,2,11,11,16,1
+Style: Osaka Title,Arial,61,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,73.3333,100,0,0,1,2.475,1.8,2,9,9,11,1
+Style: Goofy round,Arial,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,73.3333,100,0,0,1,4.09091,3.0303,2,7,7,8,1
+Style: Handgof,Arial,60,&H00F70002,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,99.7333,100,0,0,1,3.40909,1.51515,2,7,7,8,1
+Style: Sharp Blocky,Arial,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100.467,100,0,0,1,3.0303,4.09091,2,8,8,8,1
+Style: Smooth Blocky,Arial,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100.467,100,0,0,1,3.0303,1.51515,2,8,8,8,1
+Style: Smogo,Arial,75,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,95.3333,100,0,0,1,4.09091,3.0303,2,7,7,8,1
+Style: Testhand,Arial,23,&H00FFFFFF,&H000000FF,&H004F4F50,&H00000000,-1,-1,0,0,100.467,100,0,0,1,3.78788,3.78788,2,8,8,8,1
+Style: Sharp,Arial,82,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,73.3333,100,0,0,1,3.13636,1.35354,2,10,10,14,1
+Style: Gyosho Chinese,Arial,82,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,73.3333,100,0,0,1,2.72727,1.36364,2,10,10,14,1
+Style: otosanhand,Arial,65,&H00000000,&H000000FF,&HFF000000,&HFF000000,-1,0,0,0,99.7333,100,0,0,1,2.72727,2.72727,2,10,10,14,1
+Style: Blackpresent,Arial,56,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,88,120,0,0,1,4,2.99999,2,9,9,11,1
+Style: Silent suga,Arial,61,&H8B000000,&H000000FF,&H21FFFFFF,&H91000000,-1,0,0,0,99.7333,100,0,0,1,2.99999,1.99999,2,9,9,11,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:17.46,0:00:20.86,Default,,0,0,0,,Start
+Comment: 0,0:01:28.53,0:01:29.94,Default,,0,0,0,,Metarurakku = Metal Luck / Metal Rack ?   I know the metal part is right.
+Comment: 0,0:05:27.17,0:05:32.44,Blocky,,0,0,0,,Update
+Comment: 0,0:11:06.11,0:11:12.98,Default,,0,0,0,,Motion leading in. Line 305 and 306
+Comment: 0,0:11:29.40,0:11:42.18,Yamasaki,,0,0,0,,Motion leading in. Line 319 and 320
+Comment: 0,0:12:02.37,0:12:07.91,Default,,0,0,0,,Motion leading in. Line 334 and 335
+Comment: 0,0:12:15.01,0:12:23.09,Default,,0,0,0,,Motion leading in. Line 344 and 345
+Comment: 0,0:12:45.64,0:12:53.72,Default,,0,0,0,,Motion leading in. Line 367 and 368
+Comment: 0,0:13:04.20,0:13:05.03,Matsumoto,,0,0,0,,Text
+Comment: 0,0:13:43.00,0:13:43.53,Hamada,,0,0,0,,Opening noise
+Comment: 0,0:16:03.34,0:16:06.34,Default,,0,0,0,,Text
+Comment: 0,0:21:41.41,0:21:45.35,Default,,0,0,0,,Motion leading in. Line 604
+Comment: 0,0:21:53.32,0:21:59.83,Default,,0,0,0,,Motion leading in. Line 612
+Comment: 0,0:22:01.67,0:22:09.01,Default,,0,0,0,,Motion leading in. Line 618
+Comment: 0,0:22:16.15,0:22:29.83,Default,,0,0,0,,Motion leading in. Line 627
+Comment: 0,0:23:39.96,0:23:40.16,Tanaka,,0,0,0,,Hard to listen with the music...
+Comment: 0,0:23:40.16,0:23:42.90,Tanaka,,0,0,0,,Text
+Comment: 0,0:23:43.00,0:23:44.77,Endo,,0,0,0,,The park in front of Sanseido.
+Comment: 0,0:23:44.77,0:23:46.80,Endo,,0,0,0,,Text
+Comment: 0,0:23:46.80,0:23:48.47,Matsumoto,,0,0,0,,We've been there before.
+Comment: 0,0:23:48.47,0:23:51.01,Matsumoto,,0,0,0,,Text
+Dialogue: 0,0:00:00.55,0:00:04.92,Hamada,,0,0,0,,Gaki no Tsukai's First "Are their five minds connected?"
+Dialogue: 0,0:00:03.68,0:00:05.32,Matsumoto,,0,0,0,,He's bothering the neighborhood.
+Dialogue: 0,0:00:04.92,0:00:07.52,Hamada,,0,0,0,,"Meeting each other without phones!"
+Dialogue: 0,0:00:07.52,0:00:09.82,Rectangle,,0,0,0,,{\clip(-21,790,1542,1027)\pos(614.4,922.909)\fscx1540\fscy298\4c&H111111&\4a&H21&}Text
+Dialogue: 0,0:00:07.52,0:00:09.82,Matsumoto,,0,0,0,,{\pos(457.6,883.636)}Matsumoto Hitoshi
+Dialogue: 0,0:00:07.52,0:00:09.82,Hamada,,0,0,0,,{\pos(985.6,885.818)}Hamada Masatoshi
+Dialogue: 0,0:00:07.52,0:00:09.82,Yamasaki,,0,0,0,,{\pos(366.4,1001.455)}Tsukitei Hosei
+Dialogue: 0,0:00:07.52,0:00:09.82,Endo,,0,0,0,,{\pos(718.4,999.273)}Endo Shozo
+Dialogue: 0,0:00:07.52,0:00:09.82,Tanaka,,0,0,0,,{\pos(1067.2,1001.455)}Tanaka Naoki
+Dialogue: 0,0:00:10.02,0:00:11.69,Matsumoto,,0,0,0,,You're bothering the neighborhood.
+Dialogue: 0,0:00:11.69,0:00:12.39,Hamada,,0,0,0,,I'm not...
+Dialogue: 0,0:00:12.45,0:00:13.67,Tanaka,,0,0,0,,They're right here.
+Dialogue: 0,0:00:12.39,0:00:13.73,Matsumoto,,0,0,0,,The people here...
+Dialogue: 0,0:00:13.03,0:00:14.33,Hamada,,0,0,0,,{\pos(622.4,676.364)}I'm not shouting...
+Dialogue: 0,0:00:14.33,0:00:16.86,Matsumoto,,0,0,0,,All the residents here...
+Dialogue: 0,0:00:15.36,0:00:16.86,Hamada,,0,0,0,,I'm not shouting that loud.
+Dialogue: 0,0:00:16.86,0:00:18.63,Matsumoto,,0,0,0,,They heard you all the way to TV Asahi.
+Dialogue: 0,0:00:18.63,0:00:20.27,Yamasaki,,0,0,0,,It's impressive.
+Dialogue: 0,0:00:20.77,0:00:21.37,Matsumoto,,0,0,0,,Yes.
+Dialogue: 0,0:00:20.27,0:00:22.70,Hamada,,0,0,0,,Matsumoto. This time, without using phones,
+Dialogue: 0,0:00:23.10,0:00:24.04,Matsumoto,,0,0,0,,You know,
+Dialogue: 0,0:00:22.70,0:00:24.70,Hamada,,0,0,0,,we have to meet each other.
+Dialogue: 0,0:00:24.70,0:00:27.04,Matsumoto,,0,0,0,,I was the one saying this was reckless
+Dialogue: 0,0:00:27.04,0:00:29.07,Matsumoto,,0,0,0,,but the staff really wanted to do it.
+Dialogue: 0,0:00:29.07,0:00:31.31,Matsumoto,,0,0,0,,And we decided we would go around trying to get back
+Dialogue: 0,0:00:24.70,0:00:34.81,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\pos(720,892.364)}Can they meet each other without using phones?
+Dialogue: 0,0:00:24.70,0:00:34.81,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1C13E4&\pos(180.8,781.091)\4c&H000000&\4a&HFF&}Test
+Dialogue: 0,0:00:31.31,0:00:34.88,Matsumoto,,0,0,0,,together in this place, after being separated.
+Dialogue: 0,0:00:34.88,0:00:37.08,Matsumoto,,0,0,0,,"Isn't everyone except Matsumoto a bunch of idiots?"
+Dialogue: 0,0:00:37.08,0:00:38.15,Endo,,0,0,0,,No way.
+Dialogue: 0,0:00:38.15,0:00:39.45,Matsumoto,,0,0,0,,That's what everyone was saying.
+Dialogue: 0,0:00:39.45,0:00:41.45,Tanaka,,0,0,0,,They wouldn't say that.
+Dialogue: 0,0:00:39.95,0:00:41.45,Matsumoto,,0,0,0,,Everyone in the coffee shop were saying that.
+Dialogue: 0,0:00:41.45,0:00:42.69,Yamasaki,,0,0,0,,Who would say that?
+Dialogue: 0,0:00:42.69,0:00:44.06,Endo,,0,0,0,,What were you talking about?
+Dialogue: 0,0:00:44.06,0:00:49.16,Matsumoto,,0,0,0,,The people in the table next to us were saying that everyone in Gaki except Matsumoto was an idiot.
+Dialogue: 0,0:00:49.16,0:00:50.63,Yamasaki,,0,0,0,,That makes me angry.
+Dialogue: 0,0:00:49.66,0:00:50.63,Endo,,0,0,0,,That's irritating.
+Dialogue: 0,0:00:50.63,0:00:51.76,Tanaka,,0,0,0,,Yeah.
+Dialogue: 0,0:00:50.79,0:00:51.78,Yamasaki,,0,0,0,,It's so irritating.
+Dialogue: 0,0:00:52.93,0:00:55.10,Default,,0,0,0,,Let's explain the rules.
+Dialogue: 0,0:00:55.10,0:00:59.07,Default,,0,0,0,,First, the five must head to the place that comes to mind after receiving a theme.
+Dialogue: 0,0:00:59.07,0:01:03.74,Default,,0,0,0,,Until everyone is able to reach the same destination, the test will continue.
+Dialogue: 0,0:00:52.50,0:01:07.91,Smogo,,0,0,0,,{\fade(200,0)\bord6.136\3c&HF53706&\4c&H000000&\4a&HC4&\pos(720,264)}Rules Explanation
+Dialogue: 0,0:00:52.53,0:01:07.91,Smogo,,0,0,0,,{\fade(200,0)\bord6.136\3c&HFFFFFF&\c&H000000&\pos(582.4,438.545)}After getting a theme
+Dialogue: 0,0:00:52.53,0:01:07.91,Smogo,,0,0,0,,{\fade(200,0)\bord6.136\pos(768,556.364)\fscx80.667\fscy93}{\c&H000000&\3c&HFFFFFF&}they must head{\c&H1300DA&\3c&HFFFFFF&} to the place that comes to mind {\c&H000000&\3c&HFFFFFF&}
+Dialogue: 0,0:00:52.60,0:01:07.91,Smogo,,0,0,0,,{\fade(200,0)\bord6.136\3c&HFFFFFF&\c&H000000&\fscx92.4\fscy95\pos(548.8,693.818)}If they can get together
+Dialogue: 0,0:00:52.60,0:01:07.91,Smogo,,0,0,0,,{\fade(200,0)\bord6.136\c&H000000&\3c&HFFFFFF&\pos(672,805.091)}{\c&H1100D8&}in the same place, {\c&H000000&}the test ends.
+Dialogue: 0,0:01:03.74,0:01:07.91,Default,,0,0,0,,Will they be able to meet each other?
+Dialogue: 0,0:01:07.91,0:01:09.92,Matsumoto,,0,0,0,,We should know, we've been together for a while now.
+Dialogue: 0,0:01:09.92,0:01:11.92,Tanaka,,0,0,0,,Yeah, it's been a long time.
+Dialogue: 0,0:01:10.08,0:01:15.29,Sharp Blocky,,0,0,0,,{\pos(720,748.364)\c&H942ED9&\3c&HFFFFFF&\fscx67.467\fscy87}Their time living in Tokyo
+Dialogue: 0,0:01:10.08,0:01:15.29,Default,,0,0,0,,{\c&HFFFFFF&\3c&H27CE34&\pos(347.2,890.182)\fscx74.8\fscy86}Tsukitei
+Dialogue: 0,0:01:10.08,0:01:15.29,Default,,0,0,0,,{\c&HFFFFFF&\3c&H1528D4&\fscx74.8\fscy86\pos(544.533,890.182)}Matsumoto
+Dialogue: 0,0:01:10.08,0:01:15.29,Default,,0,0,0,,{\c&HFFFFFF&\3c&HF4071D&\fscx74.8\fscy86\pos(742.4,890.182)}Hamada
+Dialogue: 0,0:01:10.08,0:01:15.29,Default,,0,0,0,,{\c&HFFFFFF&\3c&HF4071D&\pos(902.4,890.182)\3c&H036CDA&\fscx74.8\fscy86}Endo
+Dialogue: 0,0:01:10.08,0:01:15.29,Default,,0,0,0,,{\c&HFFFFFF&\3c&HC800C3&\pos(1089.6,890.182)\fscx74.8\fscy86}Tanaka
+Dialogue: 0,0:01:12.58,0:01:15.45,Matsumoto,,0,0,0,,But right now, Yamasaki is from the countryside.
+Dialogue: 0,0:01:15.45,0:01:20.86,Yamasaki,,0,0,0,,The countryside? Sorry, but isn't that countryside the place where you came from?
+Dialogue: 0,0:01:15.45,0:01:20.86,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&HF4071D&\bord5.455\pos(720,881.455)}Living in Osaka for the past 3 years
+Dialogue: 0,0:01:20.86,0:01:22.79,Matsumoto,,0,0,0,,Wait, you're not a resident comedian*?
+Dialogue: 0,0:01:23.52,0:01:24.24,Hamada,,0,0,0,,Osaka's...
+Dialogue: 0,0:01:24.36,0:01:26.10,Yamasaki,,0,0,0,,Hey, wait a minute.
+Dialogue: 0,0:01:26.10,0:01:27.20,Tanaka,,0,0,0,,Osaka's resident comedian...
+Dialogue: 0,0:01:20.86,0:01:27.43,Default,,0,0,0,,{\b0\fscx73.333\fscy94\pos(505.6,137.455)}{\fade(0,200)}*A term that originates from Yoshimoto Kogyo's project called "Anata no machi ni sumimasu" [(They will) live in your town], {\b1}
+Dialogue: 0,0:01:22.79,0:01:28.47,Rectangle,,0,0,0,,{\clip(1,818,1440,1012)\pos(678.4,896.727)\fscx1516.533\fscy380\4c&HFFFFFF&\4a&H2F&}text
+Dialogue: 0,0:01:22.79,0:01:28.47,Default,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord5.455\3a&HFF&\4c&H000000&\4a&HFF&\pos(692.8,901.091)}Comedians living in each of the 47 prefectures, hoping to
+Dialogue: 0,0:01:22.79,0:01:28.47,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1671F7&\bord4.773\pos(329.6,724.364)}Resident Comedian
+Dialogue: 0,0:01:22.79,0:01:28.47,Default,,0,0,0,,{\fade(300,0)\c&H1100D8&\3c&HFFFFFF&\bord5.455\pos(716.8,997.091)\3a&HFF&\4c&H000000&\4a&HFF&}reinvigorate each region with the power of comedy. {\c&H000000&}
+Dialogue: 0,0:01:27.20,0:01:28.53,Matsumoto,,0,0,0,,I always thought that was the case.
+Dialogue: 0,0:01:28.53,0:01:29.94,Yamasaki,,0,0,0,,A resident comedian?
+Dialogue: 0,0:01:29.94,0:01:32.84,Yamasaki,,0,0,0,,Nobody knows who Metal Luck or Dosaken even are!
+Dialogue: 0,0:01:29.94,0:01:34.94,Default,,0,0,0,,{\fs40.909\3c&H4EB255&\bord4.091\pos(183.771,666.078)}Saga Prefecture's \N {\c&H4EB255&\3c&HFFFFFF&\bord4.773}Metal Luck
+Dialogue: 0,0:01:30.77,0:01:34.94,Default,,0,0,0,,{\fs40.909\3c&HF51D41&\bord4.091\pos(485.486,664.519)}Yamaguchi Prefecture's \N {\c&HF51D41&\3c&HFFFFFF&\bord4.773}Dosaken
+Dialogue: 0,0:01:32.84,0:01:35.04,Matsumoto,,0,0,0,,Ah, guess I was wrong. I see.
+Dialogue: 0,0:01:35.04,0:01:36.84,Yamasaki,,0,0,0,,So if we don't meet each other it won't end?
+Dialogue: 0,0:01:27.43,0:01:37.24,Default,,0,0,0,,{\b0\fscx73.333\fscy94\pos(505.6,137.455)}{\fade(200,0)}*where they made a comedian or TV personality actually move and live in one of Japan's 47 prefectures.{\b1}
+Dialogue: 0,0:01:36.84,0:01:37.78,Hamada,,0,0,0,,Yes, that's how it is.
+Dialogue: 0,0:01:37.78,0:01:40.31,Matsumoto,,0,0,0,,I'd like if they told us what the first place is.
+Dialogue: 0,0:01:40.31,0:01:42.21,Yamasaki,,0,0,0,,Yeah, they should tell us.
+Dialogue: 0,0:01:42.21,0:01:43.22,Tanaka,,0,0,0,,It makes sense.
+Dialogue: 0,0:01:43.22,0:01:44.48,Matsumoto,,0,0,0,,Just to kinda get an idea.
+Dialogue: 0,0:01:44.48,0:01:45.45,Endo,,0,0,0,,Yeah.
+Dialogue: 0,0:01:44.92,0:01:45.45,Tanaka,,0,0,0,,Yeah.
+Dialogue: 0,0:01:45.45,0:01:47.65,Matsumoto,,0,0,0,,They could tell us, nobody will say anything.
+Dialogue: 0,0:01:47.65,0:01:48.39,Hamada,,0,0,0,,I see.
+Dialogue: 0,0:01:48.39,0:01:49.29,Matsumoto,,0,0,0,,Let's get it right the first time.
+Dialogue: 0,0:01:49.29,0:01:50.69,Yamasaki,,0,0,0,,What will we get?
+Dialogue: 0,0:01:50.69,0:01:52.02,Hamada,,0,0,0,,Everyone, look over here.
+Dialogue: 0,0:01:52.02,0:01:53.89,Matsumoto,,0,0,0,,Don't say anything.
+Dialogue: 0,0:01:53.89,0:01:55.89,Hamada,,0,0,0,,1, 2...
+Dialogue: 0,0:01:59.97,0:02:01.47,Yamasaki,,0,0,0,,You gotta be kidding.
+Dialogue: 0,0:02:02.00,0:02:03.56,Endo,,0,0,0,,This sort of thing...
+Dialogue: 0,0:02:01.47,0:02:04.40,Matsumoto,,0,0,0,,Isn't this too difficult?
+Dialogue: 0,0:02:04.40,0:02:06.57,Hamada,,0,0,0,,Right off the bat we got a hard one.
+Dialogue: 0,0:02:07.01,0:02:09.01,Matsumoto,,0,0,0,,Wait a minute.
+Dialogue: 0,0:01:56.26,0:02:10.48,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord4.773\fscx121\fscy161\pos(720,903.273)}Speaking of a large parking lot?
+Dialogue: 0,0:01:56.26,0:02:10.48,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1100D8&\bord4.773\pos(374.4,757.091)}Theme
+Dialogue: 0,0:02:06.57,0:02:10.94,Endo,,0,0,0,,Wait, wait.
+Dialogue: 0,0:02:09.01,0:02:10.94,Tanaka,,0,0,0,,This one's hard.
+Dialogue: 0,0:02:10.94,0:02:13.65,Hamada,,0,0,0,,Well, it's fine if we all go to that place.
+Dialogue: 0,0:02:14.78,0:02:15.55,Hamada,,0,0,0,,Right?
+Dialogue: 0,0:02:15.55,0:02:16.62,Matsumoto,,0,0,0,,Wait.
+Dialogue: 0,0:02:16.62,0:02:18.48,Hamada,,0,0,0,,Let's all just go there.
+Dialogue: 0,0:02:17.95,0:02:18.48,Yamasaki,,0,0,0,,Yeah.
+Dialogue: 0,0:02:19.62,0:02:24.52,Default,,0,0,0,,First, in order to prevent them from knowing each other's destinations, they're all placed
+Dialogue: 0,0:02:18.82,0:02:28.49,Smogo,,0,0,0,,{\fade(200,0)\pos(720,927.273)\c&H1100D8&\3c&HFFFFFF&\bord4.091\i1\fscx113.667\fscy122}Moved to their starting locations{\i0}
+Dialogue: 0,0:02:18.48,0:02:28.49,Default,,0,0,0,,{\bord4.091\fs54.545\pos(779.2,586.909)\c&H000000&\3c&HFFFFFF&}Kojimachi Nippon TV
+Dialogue: 0,0:02:24.52,0:02:28.49,Default,,0,0,0,,in different starting places around Kojimachi's Nippon TV office.
+Dialogue: 0,0:02:28.49,0:02:30.49,Matsumoto,,0,0,0,,There's at least three places I can think of.
+Dialogue: 0,0:02:33.40,0:02:35.40,Matsumoto,,0,0,0,,This is pretty difficult so
+Dialogue: 0,0:02:35.40,0:02:38.44,Matsumoto,,0,0,0,,if I figure out the correct answer, I'll go there
+Dialogue: 0,0:02:38.44,0:02:39.84,Matsumoto,,0,0,0,,But everyone else...
+Dialogue: 0,0:02:40.01,0:02:42.71,Matsumoto,,0,0,0,,{\pos(720,905.455)}After all, their way of thinking is {\alpha&HFF&}really shallow.
+Dialogue: 0,0:02:42.71,0:02:45.71,Matsumoto,,0,0,0,,{\pos(720,905.455)}After all, their way of thinking is {\c&H000000&}really shallow. {\c&H1425DF&}
+Dialogue: 0,0:02:44.64,0:02:50.18,Matsumoto,,0,0,0,,Taking that into consideration, that one place is pretty large but...
+Dialogue: 0,0:02:51.08,0:02:52.55,Matsumoto,,0,0,0,,It's very risky.
+Dialogue: 0,0:02:52.98,0:02:55.75,Endo,,0,0,0,,Well, considering this type of show,
+Dialogue: 0,0:02:57.39,0:02:58.16,Default,,0,0,0,,Well, it is.
+Dialogue: 0,0:02:55.75,0:02:59.06,Endo,,0,0,0,,{\pos(720,907.636)}It's possible that we could get it right the first time.
+Dialogue: 0,0:02:58.16,0:02:59.06,Endo,,0,0,0,,Is that fine?
+Dialogue: 0,0:02:59.39,0:03:02.39,Tanaka,,0,0,0,,But with this theme...
+Dialogue: 0,0:03:02.39,0:03:06.00,Tanaka,,0,0,0,,{\pos(720,905.455)\fscx89.467\fscy102}I don't think it's gonna be a parking lot attached to something else.
+Dialogue: 0,0:03:06.00,0:03:11.50,Tanaka,,0,0,0,,I was thinking that Komazawa Park's parking lot was pretty large but
+Dialogue: 0,0:03:11.50,0:03:14.47,Tanaka,,0,0,0,,that's Komazawa Park's parking lot, right?
+Dialogue: 0,0:03:15.11,0:03:17.54,Tanaka,,0,0,0,,It wouldn't be just a parking lot.
+Dialogue: 0,0:03:17.64,0:03:20.01,Tanaka,,0,0,0,,I don't believe that everyone else will think that way.
+Dialogue: 0,0:03:20.31,0:03:25.98,Rectangle,,0,0,0,,{\fade(100,0)\clip(43,460,1393,616)\4c&H000000&\4a&H00&\fscx1553.933\fscy230}t
+Dialogue: 0,0:03:20.31,0:03:25.98,Yellow announcmend,,0,0,0,,{\fade(100,0)\c&HFF081F&\3c&HFFFFFF&\\bord4.773\i0\pos(718.4,562.909)}Will everyone {\c&H1801C5&}be able to meet each other!?{\i1}
+Dialogue: 0,0:03:20.98,0:03:25.98,Default,,0,0,0,,Will everyone be able to meet each other!?
+Dialogue: 0,0:03:26.25,0:03:31.86,Newtofupandatitle,,0,0,0,,{\fade(400,0)}{\fs119.999\fscx49.091\fscy74\pos(702,140)}Tofu Panda Fansubs presents:
+Dialogue: 0,0:03:27.85,0:03:31.86,Newtofupandatitle,,0,0,0,,{\fade(400,0)}{\c&H65CDFD&\3c&H1D0B90&\fscx81.818\fscy127\pos(700.499,215.001)}Down Town's Gaki no Tsukai ya Arahende!!
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(349,553.636)\fscx90.933\fscy93}{\pos(384.001,704)}Translator:
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(714,556.364)\fscx90.933\fscy93}{\pos(784.499,705.998)}Typesetter:
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(1062,556.364)\fscx90.933\fscy93}{\pos(784.499,705.998)}Proofreader:
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(350,647.727)\fscx90.933\fscy93}{\pos(382,797.332)}Jose
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(711,647.727)\fscx90.933\fscy93}{\pos(782.5,798.667)} {\pos(682,794.666)}Derek
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(1062,647.727)\fscx90.933\fscy93}{\pos(782.5,798.667)}{\pos(682,794.666)}Otviss
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\pos(716.999,156.046)\fscx77\fscy107}{\pos(716.999,161.5)}**We also have Facebook and Twitter.**
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\pos(716.571,87.562)\fscx151.8\fscy143}{\pos(716.999,161.5)}**Tofupandas.tumblr.com**
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\pos(717.101,218.591)\fscx72.6\fscy84}{\pos(717.001,231.5)}*Support us by following the latest news and info on upcoming projects!*
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx66.733\fscy71\pos(720,254.546)}____________________________________________________________________{\b1}
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\fscx66.733\fscy71\pos(720,885.454)}____________________________________________________________________{\b1}
+Dialogue: 0,0:03:32.36,0:03:37.83,Yellow text,,0,0,0,,{\fade(400,0)\b0\pos(717.334,1067.273)\fscx53.533\fscy71}If you ever see this video being distributed online but not by us, keep in mind that on youtube\N(and other sites), individuals may make money off of sharing fansubs like this that are not their own, please \Ngo back and support the original creators. Fansubbing is voluntary and is not meant to generate profit. \NYou can download our episodes on our website instead. Thanks for watching our videos!{\b1}
+Dialogue: 0,0:03:39.06,0:03:42.10,Default,,0,0,0,,Without using phones, will they be able to meet each other?
+Dialogue: 0,0:03:38.30,0:03:47.77,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord4.091\pos(1051.2,940.364)}Speaking of a large parking lot?
+Dialogue: 0,0:03:38.30,0:03:47.77,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1801C5&\bord4.091\pos(811.2,833.455)}Theme
+Dialogue: 0,0:03:42.53,0:03:47.77,Default,,0,0,0,,First, they all head out towards the large parking lot that they thought of.
+Dialogue: 0,0:03:48.81,0:03:51.34,Default,,0,0,0,,This time, they'll use taxis for transportation.
+Dialogue: 0,0:03:51.34,0:03:53.81,Default,,0,0,0,,The time limit is 30 minutes.
+Dialogue: 0,0:03:53.81,0:03:57.42,Default,,0,0,0,,What will be their destination?
+Dialogue: 0,0:03:48.11,0:03:57.68,Rectangle,,0,0,0,,{\fade(300,0)\clip(374,802,1136,1012)\pos(820.8,877.091)\fscx1131.533\fscy261\4c&HFFFFFF&\4a&H3C&}rec
+Dialogue: 0,0:03:48.11,0:03:57.68,Default,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord5.455\pos(720,885.818)}Transportation by taxi
+Dialogue: 0,0:03:48.11,0:03:57.68,Default,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord5.455\pos(720,988.364)}The time limit is 30 minutes.
+Dialogue: 0,0:03:58.12,0:04:00.35,Matsumoto,,0,0,0,,Let's go to {\c&H000000&}Akasaka. {\c&H272DCC&}
+Dialogue: 0,0:04:01.49,0:04:06.26,Default,,0,0,0,,Thinking of the time limit, Matsumoto heads to nearby Akasaka.
+Dialogue: 0,0:04:08.13,0:04:12.00,Matsumoto,,0,0,0,,From here it should take about 10 minutes.
+Dialogue: 0,0:04:12.43,0:04:14.10,Matsumoto,,0,0,0,,Or 15 minutes, right?
+Dialogue: 0,0:04:15.20,0:04:18.80,Matsumoto,,0,0,0,,The time it takes will be just right.
+Dialogue: 0,0:04:19.74,0:04:21.77,Matsumoto,,0,0,0,,If I wanted to
+Dialogue: 0,0:04:21.77,0:04:23.74,Matsumoto,,0,0,0,,go all the way to {\c&H000000&}Ueno, {\c&H1629D2&}{\alpha&HFF&}30 minutes wouldn't be enough.
+Dialogue: 0,0:04:23.74,0:04:27.68,Matsumoto,,0,0,0,,go all the way to {\c&H000000&}Ueno, {\c&H1629D2&}30 minutes wouldn't be enough.
+Dialogue: 0,0:04:27.68,0:04:29.75,Matsumoto,,0,0,0,,So there's no way that's the place.
+Dialogue: 0,0:04:29.75,0:04:33.65,Hamada,,0,0,0,,Well, the term "large" is subjective.
+Dialogue: 0,0:04:33.65,0:04:37.06,Hamada,,0,0,0,,It you asked me if it was large, I would say it is.
+Dialogue: 0,0:04:37.69,0:04:39.72,Hamada,,0,0,0,,It's large, {\alpha&HFF&}Komazawa Park's parking lot.
+Dialogue: 0,0:04:39.72,0:04:41.53,Hamada,,0,0,0,,It's large, {\c&H000000&}Komazawa Park's {\c&HF70D22&}parking lot.
+Dialogue: 0,0:04:41.53,0:04:50.47,Hamada,,0,0,0,,I think we've recorded there at least once before, the parking lot's size should still be in everyone's mind.
+Dialogue: 0,0:04:50.47,0:04:53.87,Endo,,0,0,0,,The size of everyone's range of activity.
+Dialogue: 0,0:04:53.87,0:04:57.88,Endo,,0,0,0,,That's probably the most important factor, really important.
+Dialogue: 0,0:04:59.08,0:05:02.21,Default,,0,0,0,,Endo is using the expressway while traveling.
+Dialogue: 0,0:05:02.21,0:05:05.45,Default,,0,0,0,,Where exactly is he heading?
+Dialogue: 0,0:05:06.02,0:05:08.65,Default,,0,0,0,,At the same time, Hosei is...
+Dialogue: 0,0:05:09.22,0:05:12.09,Yamasaki,,0,0,0,,Please take me to {\c&H000000&}Yoyogi Park's {\c&H26D72A&}parking lot.
+Dialogue: 0,0:05:12.09,0:05:14.09,Yamasaki,,0,0,0,,That's the only place I could think about.
+Dialogue: 0,0:05:14.09,0:05:15.36,Default,,0,0,0,,The first one that came to mind?
+Dialogue: 0,0:05:15.36,0:05:15.89,Yamasaki,,0,0,0,,Yeah.
+Dialogue: 0,0:05:17.56,0:05:19.56,Yamasaki,,0,0,0,,Are there other large parking lots...?
+Dialogue: 0,0:05:20.27,0:05:21.47,Yamasaki,,0,0,0,,Well, I don't know but...
+Dialogue: 0,0:05:21.73,0:05:23.94,Yamasaki,,0,0,0,,I don't think there are any other..
+Dialogue: 0,0:05:24.84,0:05:26.60,Yamasaki,,0,0,0,,large parking lots.
+Dialogue: 0,0:05:27.81,0:05:29.44,Default,,0,0,0,,It's been 10 minutes since the start.
+Dialogue: 0,0:05:27.17,0:05:32.44,Blocky,,0,0,0,,{\fade(300,0)\pos(720,894.545)\c&H1625D7&\3c&HFFFFFF&\bord4.091\fscx119.533\fscy142}Matsumoto {\c&H000000&}reaches his destination
+Dialogue: 0,0:05:29.44,0:05:32.44,Default,,0,0,0,,Matsumoto is the first to reach his destination.
+Dialogue: 0,0:05:32.54,0:05:33.28,Matsumoto,,0,0,0,,This is it.
+Dialogue: 0,0:05:33.71,0:05:35.88,Matsumoto,,0,0,0,,Akasaka Parking Center.
+Dialogue: 0,0:05:36.18,0:05:41.09,Matsumoto,,0,0,0,,You can't tell from outside, but this is actually pretty big.
+Dialogue: 0,0:05:41.72,0:05:46.02,Matsumoto,,0,0,0,,Hamada has to know this place for sure, he always comes for that.*
+Dialogue: 0,0:05:41.85,0:05:48.49,Default,,0,0,0,,{\pos(203.2,82.909)}*It's a love hotel
+Dialogue: 0,0:05:49.19,0:05:52.30,Default,,0,0,0,,We go inside the parking lot to check its size.
+Dialogue: 0,0:05:48.83,0:05:54.47,Default,,0,0,0,,{\fade(300,300)\fs40.909\pos(1155.2,977.455)}Got permission to record here
+Dialogue: 0,0:05:56.23,0:05:59.87,Matsumoto,,0,0,0,,Look over here, once we turn this corner...
+Dialogue: 0,0:05:59.87,0:06:02.04,Matsumoto,,0,0,0,,I think it's gonna be pretty big.
+Dialogue: 0,0:06:02.04,0:06:05.98,Matsumoto,,0,0,0,,Look at this place, and there's also a floor below.
+Dialogue: 0,0:06:05.98,0:06:09.41,Matsumoto,,0,0,0,,In the middle of the city, in Akasaka, there's really
+Dialogue: 0,0:06:09.41,0:06:10.98,Matsumoto,,0,0,0,,no other place but here.
+Dialogue: 0,0:06:12.05,0:06:14.29,Matsumoto,,0,0,0,,How many cars do you think it can fit?
+Dialogue: 0,0:06:14.29,0:06:15.82,Matsumoto,,0,0,0,,It's so large.
+Dialogue: 0,0:06:16.55,0:06:18.09,Matsumoto,,0,0,0,,Let's ask here.
+Dialogue: 0,0:06:21.16,0:06:22.19,Matsumoto,,0,0,0,,Excuse me.
+Dialogue: 0,0:06:24.03,0:06:26.20,Matsumoto,,0,0,0,,Can we... ah, hello.
+Dialogue: 0,0:06:26.20,0:06:29.30,Matsumoto,,0,0,0,,There's another floor below, right?
+Dialogue: 0,0:06:28.33,0:06:29.33,Default,,0,0,0,,Yes, there's another below.
+Dialogue: 0,0:06:29.30,0:06:31.94,Matsumoto,,0,0,0,,How many cars can park when it's full?
+Dialogue: 0,0:06:31.94,0:06:34.94,Default,,0,0,0,,About 150.
+Dialogue: 0,0:06:34.94,0:06:37.41,Matsumoto,,0,0,0,,One hundred... one hundred and fifty cars.
+Dialogue: 0,0:06:36.71,0:06:41.21,Rectangle,,0,0,0,,{\c&HFFFFFF&\3c&H1100D9&\clip(697,896,1345,1009)\pos(971.2,977.455)\fscx824.267\fscy268}{\4c&H0D00DC&\4a&H00&}redf
+Dialogue: 0,0:06:36.71,0:06:41.21,Default,,0,0,0,,{\c&HFFFFFF&\3c&H1100D9&\bord5.455\3a&HFF&\4c&H000000&\4a&HFF&\pos(1017.6,984)}Parking: About 150 cars
+Dialogue: 0,0:06:37.41,0:06:41.60,Matsumoto,,0,0,0,,It's pretty impressive to have that many in the middle of the city, isn't it? Especially here in Akasaka.
+Dialogue: 0,0:06:41.60,0:06:46.89,Matsumoto,,0,0,0,,You could even say that this is the largest parking lot in this area.
+Dialogue: 0,0:06:46.92,0:06:49.58,Default,,0,0,0,,Well, I don't think it's a large number of cars.
+Dialogue: 0,0:06:50.32,0:06:52.32,Matsumoto,,0,0,0,,Right? Thank you.
+Dialogue: 0,0:06:53.22,0:06:54.86,Matsumoto,,0,0,0,,And there you have it.
+Dialogue: 0,0:06:54.86,0:06:56.76,Matsumoto,,0,0,0,,There you go.
+Dialogue: 0,0:06:56.93,0:06:59.60,Matsumoto,,0,0,0,,Seriously, it's this place for sure.
+Dialogue: 0,0:07:00.67,0:07:05.74,Tanaka,,0,0,0,,{\pos(276.8,796.364)\bord5.455}I still think the
+Dialogue: 0,0:07:02.20,0:07:05.74,Tanaka,,0,0,0,,{\bord5.455\pos(732.8,942.545)}largest parking lots are those attached to a park.
+Dialogue: 0,0:07:05.74,0:07:09.14,Tanaka,,0,0,0,,But I don't believe that way of thinking is right.
+Dialogue: 0,0:07:10.07,0:07:15.28,Default,,0,0,0,,Contrary to Tanaka's belief, Hosei is heading towards Yoyogi Park's parking lot.
+Dialogue: 0,0:07:15.85,0:07:17.18,Yamasaki,,0,0,0,,Hey, driver.
+Dialogue: 0,0:07:17.18,0:07:20.19,Yamasaki,,0,0,0,,{\bord6.136\pos(720,811.636)}Speaking of a large parking lot, which
+Dialogue: 0,0:07:17.18,0:07:20.19,Yamasaki,,0,0,0,,{\bord6.136\pos(720,953.455)}place do you think about?
+Dialogue: 0,0:07:21.12,0:07:24.79,Default,,0,0,0,,It'd say it would be {\c&H000000&\3c&HFFFFFF&\bord5.455}Yoyogi Park, {\c&HFFFFFF&\3c&H000000&\bord3}wouldn't it?
+Dialogue: 0,0:07:25.42,0:07:30.60,Yamasaki,,0,0,0,,This is very reassuring. It's really this place, the large parking lot.
+Dialogue: 0,0:07:30.60,0:07:31.40,Default,,0,0,0,,Yes it is.
+Dialogue: 0,0:07:31.40,0:07:32.03,Yamasaki,,0,0,0,,Right?
+Dialogue: 0,0:07:32.46,0:07:32.96,Matsumoto,,0,0,0,,Great.
+Dialogue: 0,0:07:33.36,0:07:37.67,Default,,0,0,0,,Matsumoto just keeps waiting for the others.
+Dialogue: 0,0:07:38.07,0:07:40.37,Matsumoto,,0,0,0,,If they still aren't here,
+Dialogue: 0,0:07:41.44,0:07:43.34,Matsumoto,,0,0,0,,I don't think they'll come anytime soon.
+Dialogue: 0,0:07:44.08,0:07:45.78,Matsumoto,,0,0,0,,They're not coming, are they?
+Dialogue: 0,0:07:46.61,0:07:48.71,Matsumoto,,0,0,0,,'Cause they're idiots.
+Dialogue: 0,0:07:50.15,0:07:52.15,Tanaka,,0,0,0,,If they were...
+Dialogue: 0,0:07:52.85,0:07:54.62,Tanaka,,0,0,0,,already there,
+Dialogue: 0,0:07:54.62,0:07:56.62,Tanaka,,0,0,0,,"What took you so long?"
+Dialogue: 0,0:07:57.86,0:08:00.19,Tanaka,,0,0,0,,They would say something like that.
+Dialogue: 0,0:08:00.19,0:08:02.99,Tanaka,,0,0,0,,It would be great if I met them.
+Dialogue: 0,0:08:03.66,0:08:05.66,Default,,0,0,0,,10 minutes after Matsumoto's arrival,
+Dialogue: 0,0:08:03.33,0:08:08.97,Blocky,,0,0,0,,{\fade(300,0)\pos(720,894.545)\c&HFA091E&\3c&HFFFFFF&\bord5.455\fscx119.533\fscy142}Hamada {\c&H000000&}arrives at his destination
+Dialogue: 0,0:08:05.66,0:08:08.97,Default,,0,0,0,,Hamada arrives at Komazawa Park's parking lot.
+Dialogue: 0,0:08:08.97,0:08:11.07,Hamada,,0,0,0,,This place is big, right?
+Dialogue: 0,0:08:12.50,0:08:14.74,Hamada,,0,0,0,,Look, if you want a large parking lot...
+Dialogue: 0,0:08:15.41,0:08:17.04,Hamada,,0,0,0,,It would be this place.
+Dialogue: 0,0:08:20.51,0:08:24.52,Hamada,,0,0,0,,Are you serious!? Is nobody going to show up?
+Dialogue: 0,0:08:24.52,0:08:25.52,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:08:25.92,0:08:29.05,Tanaka,,0,0,0,,You know, there was another parking lot that I was thinking about.
+Dialogue: 0,0:08:29.05,0:08:31.72,Tanaka,,0,0,0,,It should be coming up. It's by the next traffic light.
+Dialogue: 0,0:08:31.72,0:08:32.46,Default,,0,0,0,,Right.
+Dialogue: 0,0:08:32.46,0:08:34.53,Tanaka,,0,0,0,,The parking lot to the right.
+Dialogue: 0,0:08:34.86,0:08:35.83,Tanaka,,0,0,0,,That one.
+Dialogue: 0,0:08:36.90,0:08:37.86,Tanaka,,0,0,0,,Here.
+Dialogue: 0,0:08:37.86,0:08:38.53,Default,,0,0,0,,Yes.
+Dialogue: 0,0:08:38.53,0:08:40.33,Tanaka,,0,0,0,,This one's pretty big, isn't it?
+Dialogue: 0,0:08:40.33,0:08:41.20,Default,,0,0,0,,It's big.
+Dialogue: 0,0:08:41.20,0:08:42.03,Tanaka,,0,0,0,,This one.
+Dialogue: 0,0:08:42.03,0:08:43.94,Tanaka,,0,0,0,,It's pretty big but...
+Dialogue: 0,0:08:45.57,0:08:51.28,Tanaka,,0,0,0,,I don't think everyone else would've thought about this one.
+Dialogue: 0,0:08:51.33,0:08:53.21,Matsumoto,,0,0,0,,I thought at least one of them would come here.
+Dialogue: 0,0:08:54.51,0:08:57.65,Matsumoto,,0,0,0,,That's why I told you they're all a bunch of idiots.
+Dialogue: 0,0:08:58.28,0:08:59.88,Matsumoto,,0,0,0,,They're all idiots.
+Dialogue: 0,0:08:59.88,0:09:03.76,Matsumoto,,0,0,0,,They've gone through here before and I'm sure they know this place.
+Dialogue: 0,0:09:04.16,0:09:07.33,Matsumoto,,0,0,0,,{\bord4.773\pos(524.8,796.364)}But they must think that
+Dialogue: 0,0:09:04.16,0:09:07.33,Matsumoto,,0,0,0,,{\bord5.455\pos(720,957.818)}only five cars fit in there.
+Dialogue: 0,0:09:06.93,0:09:08.43,Matsumoto,,0,0,0,,'Cause they're idiots.
+Dialogue: 0,0:09:09.03,0:09:11.06,Matsumoto,,0,0,0,,They're all a bunch of idiots.
+Dialogue: 0,0:09:12.30,0:09:14.30,Default,,0,0,0,,Another 5 minutes later,
+Dialogue: 0,0:09:14.30,0:09:16.90,Default,,0,0,0,,Tanaka arrives at his destination.
+Dialogue: 0,0:09:11.40,0:09:17.74,Blocky,,0,0,0,,{\fade(300,300)\pos(720,907.636)\c&HCF00BB&\3c&HFFFFFF&\bord4.091\fscx119.533\fscy142}Tanaka {\c&H000000&}arrives at his destination
+Dialogue: 0,0:09:17.47,0:09:19.07,Tanaka,,0,0,0,,Alright, please.
+Dialogue: 0,0:09:20.01,0:09:22.36,Tanaka,,0,0,0,,Please be there.
+Dialogue: 0,0:09:24.41,0:09:26.95,Tanaka,,0,0,0,,I know it. It's here.
+Dialogue: 0,0:09:29.01,0:09:30.28,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:09:31.25,0:09:32.18,Tanaka,,0,0,0,,Yeah, there's no mistake.
+Dialogue: 0,0:09:32.72,0:09:34.72,Tanaka,,0,0,0,,It's this place.
+Dialogue: 0,0:09:39.69,0:09:42.36,Tanaka,,0,0,0,,They're not here...
+Dialogue: 0,0:09:44.33,0:09:45.50,Tanaka,,0,0,0,,They're not here.
+Dialogue: 0,0:09:45.50,0:09:46.43,Default,,0,0,0,,Why don't you look inside?
+Dialogue: 0,0:09:46.43,0:09:49.37,Tanaka,,0,0,0,,Yeah, they might be in here.
+Dialogue: 0,0:09:48.63,0:09:49.37,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:09:52.00,0:09:53.14,Tanaka,,0,0,0,,Look!
+Dialogue: 0,0:09:49.57,0:09:55.54,Default,,0,0,0,,{\fade(300,300)\pos(1153.6,981.818)\fs40.909}Got permission to record here
+Dialogue: 0,0:09:56.04,0:09:59.18,Tanaka,,0,0,0,,Look!
+Dialogue: 0,0:10:01.11,0:10:02.21,Tanaka,,0,0,0,,Look!
+Dialogue: 0,0:10:02.78,0:10:04.55,Tanaka,,0,0,0,,This place is really large!
+Dialogue: 0,0:10:05.25,0:10:07.75,Tanaka,,0,0,0,,Look! It's amazing, right?
+Dialogue: 0,0:10:08.02,0:10:10.59,Tanaka,,0,0,0,,All that's left is to wait for them to get here.
+Dialogue: 0,0:10:11.09,0:10:12.22,Tanaka,,0,0,0,,Yeah.
+Dialogue: 0,0:10:18.63,0:10:22.20,Hamada,,0,0,0,,No way, this is the worst.
+Dialogue: 0,0:10:22.20,0:10:24.04,Tanaka,,0,0,0,,Nobody came here.
+Dialogue: 0,0:10:24.04,0:10:26.54,Yamasaki,,0,0,0,,Where the hell is everyone?
+Dialogue: 0,0:10:27.31,0:10:31.45,Default,,0,0,0,,Matsumoto contacts the others to confirm their locations.
+Dialogue: 0,0:10:31.48,0:10:32.54,Matsumoto,,0,0,0,,Hello?
+Dialogue: 0,0:10:33.78,0:10:35.01,Matsumoto,,0,0,0,,Hello!
+Dialogue: 0,0:10:35.28,0:10:37.08,Endo,,0,0,0,,Hello.
+Dialogue: 0,0:10:35.28,0:10:37.08,Tanaka,,0,0,0,,Hello.
+Dialogue: 0,0:10:37.08,0:10:37.68,Tanaka,,0,0,0,,Good job.
+Dialogue: 0,0:10:37.68,0:10:41.02,Matsumoto,,0,0,0,,Hey, nobody... nobody came here.
+Dialogue: 0,0:10:41.02,0:10:44.19,Endo,,0,0,0,,This is Endo, there's nobody here either.
+Dialogue: 0,0:10:44.32,0:10:46.36,Matsumoto,,0,0,0,,Endo, where are you?
+Dialogue: 0,0:10:46.36,0:10:51.56,Endo,,0,0,0,,Right now, I'm in Odaiba's...
+Dialogue: 0,0:10:49.79,0:10:51.56,Matsumoto,,0,0,0,,There it is!
+Dialogue: 0,0:10:51.86,0:10:52.40,Endo,,0,0,0,,What?
+Dialogue: 0,0:10:52.70,0:10:55.13,Matsumoto,,0,0,0,,Land floating on the sea doesn't count, Endo!
+Dialogue: 0,0:10:55.13,0:10:56.80,Endo,,0,0,0,,Let me explain.
+Dialogue: 0,0:10:55.13,0:10:58.94,Matsumoto,,0,0,0,,No! No! No! No! No! It wasn't there in the first place so...
+Dialogue: 0,0:10:58.94,0:10:59.87,Endo,,0,0,0,,The parking lot here...
+Dialogue: 0,0:10:59.87,0:11:04.48,Matsumoto,,0,0,0,,It's obviously going to be huge. I really hate you for going to Odaiba.
+Dialogue: 0,0:11:04.61,0:11:05.81,Endo,,0,0,0,,You're kidding?
+Dialogue: 0,0:11:06.11,0:11:07.88,Endo,,0,0,0,,There's space for 598 cars.
+Dialogue: 0,0:11:07.88,0:11:11.42,Matsumoto,,0,0,0,,Of course there is! It's land floating in the ocean, you idiot.
+Dialogue: 0,0:11:06.04,0:11:12.98,Default,,0,0,0,,{\c&H2500DA&\3c&HFFFFFF&\bord5.455\move(-65.6,816,334.4,816,25,250)}Odaiba - Aomi Parking Lot
+Dialogue: 0,0:11:06.04,0:11:12.98,Default,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\bord5.455\move(-65.6,951.273,334.4,951.273,25,250)}Parking: {\c&H000000&\3c&HFFFFFF&}598 cars
+Dialogue: 0,0:11:11.42,0:11:12.98,Matsumoto,,0,0,0,,That's no good, no good.
+Dialogue: 0,0:11:13.18,0:11:15.18,Hamada,,0,0,0,,Tanaka, where are you, Tanaka?
+Dialogue: 0,0:11:15.35,0:11:18.92,Tanaka,,0,0,0,,Well, Tanaka is at... I'm at Daikanyama.
+Dialogue: 0,0:11:19.12,0:11:20.56,Hamada,,0,0,0,,Daikanyama?
+Dialogue: 0,0:11:19.52,0:11:20.56,Yamasaki,,0,0,0,,Daikanyama?
+Dialogue: 0,0:11:20.63,0:11:23.93,Tanaka,,0,0,0,,The one by Hachiman street. The facade looks like a Japanese house.
+Dialogue: 0,0:11:24.06,0:11:25.23,Endo,,0,0,0,,Ah, the one with the gate.
+Dialogue: 0,0:11:25.23,0:11:27.10,Yamasaki,,0,0,0,,That's gotta be small, right?
+Dialogue: 0,0:11:27.10,0:11:29.27,Tanaka,,0,0,0,,It's not small, it fits 44 cars!
+Dialogue: 0,0:11:29.27,0:11:31.04,Yamasaki,,0,0,0,,That's small!
+Dialogue: 0,0:11:32.47,0:11:35.71,Hamada,,0,0,0,,44 cars? Are you trying to be funny?
+Dialogue: 0,0:11:35.71,0:11:38.24,Matsumoto,,0,0,0,,Hey, hey, hey, are you serious?
+Dialogue: 0,0:11:29.40,0:11:42.18,Default,,0,0,0,,{\c&H2500DA&\3c&HFFFFFF&\bord5.455\move(-65.6,816,275,816,25,250)}Daikanyama Parking Lot
+Dialogue: 0,0:11:29.40,0:11:42.18,Default,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\bord5.455\move(-65.6,951.273,275,951.273,25,250)}Parking: {\c&H000000&\3c&HFFFFFF&}44 cars
+Dialogue: 0,0:11:38.24,0:11:42.18,Tanaka,,0,0,0,,You have to consider the place, besides, we've recorded here before.
+Dialogue: 0,0:11:42.18,0:11:43.45,Hamada,,0,0,0,,Yama-chan.
+Dialogue: 0,0:11:43.45,0:11:43.95,Yamasaki,,0,0,0,,Yes.
+Dialogue: 0,0:11:43.95,0:11:45.45,Hamada,,0,0,0,,Yama-chan, where are you?
+Dialogue: 0,0:11:45.45,0:11:49.55,Yamasaki,,0,0,0,,I'm in a pretty memorable place for all of us.
+Dialogue: 0,0:11:49.55,0:11:53.46,Yamasaki,,0,0,0,,We've recorded here often, Yoyogi Park.
+Dialogue: 0,0:11:53.46,0:11:56.46,Hamada,,0,0,0,,Ah, Yoyogi Park...
+Dialogue: 0,0:11:56.66,0:11:59.20,Tanaka,,0,0,0,,A park's parking lot doesn't really count.
+Dialogue: 0,0:11:59.20,0:12:02.20,Hamada,,0,0,0,,How many cars can park at Yoyogi Park?
+Dialogue: 0,0:12:02.20,0:12:03.90,Yamasaki,,0,0,0,,85 cars.
+Dialogue: 0,0:12:03.90,0:12:05.50,Hamada,,0,0,0,,85 cars?
+Dialogue: 0,0:12:03.90,0:12:05.50,Matsumoto,,0,0,0,,85 cars.
+Dialogue: 0,0:12:05.50,0:12:06.67,Yamasaki,,0,0,0,,85 cars.
+Dialogue: 0,0:12:02.37,0:12:07.91,Default,,0,0,0,,{\c&H2500DA&\3c&HFFFFFF&\bord5.455\move(-65.6,816,300,816,25,250)}Yoyogi Park Parking Lot
+Dialogue: 0,0:12:02.37,0:12:07.91,Default,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\bord5.455\move(-65.6,951.273,300,951.273,25,250)}Parking: {\c&H000000&\3c&HFFFFFF&}85 cars
+Dialogue: 0,0:12:06.67,0:12:07.91,Yamasaki,,0,0,0,,Hamada, where are you?
+Dialogue: 0,0:12:07.91,0:12:12.04,Hamada,,0,0,0,,We both almost had the same idea, I'm in Komazawa Park's parking lot.
+Dialogue: 0,0:12:12.28,0:12:14.55,Tanaka,,0,0,0,,I'm telling you that an "attached parking lot" doesn't count.
+Dialogue: 0,0:12:15.11,0:12:16.38,Matsumoto,,0,0,0,,That's too far away.
+Dialogue: 0,0:12:14.55,0:12:18.18,Hamada,,0,0,0,,Yeah, it has space for 225 cars.
+Dialogue: 0,0:12:18.38,0:12:19.82,Matsumoto,,0,0,0,,No, it's way too far.
+Dialogue: 0,0:12:19.82,0:12:22.52,Matsumoto,,0,0,0,,I mean, it's really far from Kojimachi.
+Dialogue: 0,0:12:15.01,0:12:23.09,Default,,0,0,0,,{\c&H2500DA&\3c&HFFFFFF&\bord5.455\move(-65.6,816,322.4,816,257,24)}Komazawa Park Parking Lot
+Dialogue: 0,0:12:15.01,0:12:23.09,Default,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\bord5.455\move(-65.6,951.273,300,951.273,25,250)}Parking: {\c&H000000&\3c&HFFFFFF&}225 cars
+Dialogue: 0,0:12:23.12,0:12:24.92,Hamada,,0,0,0,,And you, Matsumoto?
+Dialogue: 0,0:12:25.49,0:12:26.32,Matsumoto,,0,0,0,,You know...
+Dialogue: 0,0:12:26.69,0:12:27.33,Tanaka,,0,0,0,,Yes.
+Dialogue: 0,0:12:26.69,0:12:27.33,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:12:27.33,0:12:29.16,Matsumoto,,0,0,0,,You have to think about the distance.
+Dialogue: 0,0:12:29.39,0:12:32.10,Matsumoto,,0,0,0,,I started a bit away from Kojimachi.
+Dialogue: 0,0:12:32.10,0:12:33.13,Tanaka,,0,0,0,,{\pos(1200,970.909)}Yes.
+Dialogue: 0,0:12:32.10,0:12:33.13,Endo,,0,0,0,,{\pos(736,970.909)}Yes.
+Dialogue: 0,0:12:32.10,0:12:33.13,Yamasaki,,0,0,0,,{\pos(241.6,970.909)}Right.
+Dialogue: 0,0:12:32.10,0:12:33.13,Hamada,,0,0,0,,{\pos(1075.2,541.091)}Yeah.
+Dialogue: 0,0:12:33.13,0:12:35.30,Matsumoto,,0,0,0,,It's Akasaka, Akasaka.
+Dialogue: 0,0:12:35.30,0:12:36.53,Tanaka,,0,0,0,,Akasaka...
+Dialogue: 0,0:12:35.47,0:12:36.53,Yamasaki,,0,0,0,,Akasaka?
+Dialogue: 0,0:12:36.53,0:12:39.40,Matsumoto,,0,0,0,,The one near TBS in Akasaka.
+Dialogue: 0,0:12:39.40,0:12:42.97,Matsumoto,,0,0,0,,There's a love hotel, right? There's a parking lot right in front of it.
+Dialogue: 0,0:12:42.97,0:12:45.58,Matsumoto,,0,0,0,,It has space for 150 cars!
+Dialogue: 0,0:12:45.58,0:12:47.21,Matsumoto,,0,0,0,,Do you understand?
+Dialogue: 0,0:12:47.21,0:12:51.12,Matsumoto,,0,0,0,,If there's a parking lot that can fit 150 cars in Akasaka...
+Dialogue: 0,0:12:51.12,0:12:52.75,Matsumoto,,0,0,0,,That'd be it!
+Dialogue: 0,0:12:45.64,0:12:53.72,Default,,0,0,0,,{\c&H2500DA&\3c&HFFFFFF&\bord5.455\move(-65.6,816,330,816,25,250)}Akasaka Parking Center
+Dialogue: 0,0:12:45.64,0:12:53.72,Default,,0,0,0,,{\c&HFFFFFF&\3c&H000000&\bord5.455\move(-65.6,951.273,330,951.273,25,250)}Parking: {\c&H000000&\3c&HFFFFFF&}150 cars
+Dialogue: 0,0:12:53.82,0:12:57.36,Hamada,,0,0,0,,Well, in this first try we all ended up in different places. It was obvious.
+Dialogue: 0,0:12:57.36,0:13:00.36,Tanaka,,0,0,0,,Yeah, we're all over the place.
+Dialogue: 0,0:13:02.19,0:13:03.26,Hamada,,0,0,0,,In the next one...
+Dialogue: 0,0:13:01.46,0:13:03.46,Endo,,0,0,0,,It's a bit sad that there wasn't even one pair.
+Dialogue: 0,0:13:03.46,0:13:04.20,Tanaka,,0,0,0,,Yes, yes, yes.
+Dialogue: 0,0:13:04.20,0:13:06.20,Hamada,,0,0,0,,In the next one, let's do our best to get together.
+Dialogue: 0,0:13:05.03,0:13:06.20,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:13:06.20,0:13:07.37,Tanaka,,0,0,0,,Let's meet each other.
+Dialogue: 0,0:13:06.60,0:13:07.37,Endo,,0,0,0,,Please.
+Dialogue: 0,0:13:08.70,0:13:10.70,Yamasaki,,0,0,0,,Tanaka is awful.
+Dialogue: 0,0:13:11.37,0:13:14.11,Yamasaki,,0,0,0,,He went to a parking lot with 44 spaces.
+Dialogue: 0,0:13:14.11,0:13:16.11,Yamasaki,,0,0,0,,You can find those anywhere.
+Dialogue: 0,0:13:17.11,0:13:18.81,Yamasaki,,0,0,0,,What the hell is he thinking?
+Dialogue: 0,0:13:18.98,0:13:20.41,Tanaka,,0,0,0,,So, Hosei went to
+Dialogue: 0,0:13:20.78,0:13:22.35,Tanaka,,0,0,0,,Yoyogi Park...
+Dialogue: 0,0:13:22.75,0:13:24.52,Tanaka,,0,0,0,,He decided to go
+Dialogue: 0,0:13:24.52,0:13:27.42,Tanaka,,0,0,0,,with that "attached to something" pattern.
+Dialogue: 0,0:13:27.79,0:13:30.99,Tanaka,,0,0,0,,That way of thinking is wrong, in the first place.
+Dialogue: 0,0:13:30.99,0:13:36.39,Hamada,,0,0,0,,Seems like Yama-chan and I had the right idea.
+Dialogue: 0,0:13:36.93,0:13:37.80,Default,,0,0,0,,This is the next one.
+Dialogue: 0,0:13:37.80,0:13:38.50,Hamada,,0,0,0,,Right.
+Dialogue: 0,0:13:39.20,0:13:42.27,Hamada,,0,0,0,,Will this separate us again?
+Dialogue: 0,0:13:46.94,0:13:52.28,Hamada,,0,0,0,,This is just... how am I supposed to figure this out?
+Dialogue: 0,0:13:53.01,0:13:55.91,Tanaka,,0,0,0,,A big billboard, huh?
+Dialogue: 0,0:13:57.78,0:13:59.65,Tanaka,,0,0,0,,Is there one?
+Dialogue: 0,0:14:01.05,0:14:03.05,Endo,,0,0,0,,No, this is...
+Dialogue: 0,0:14:06.42,0:14:07.63,Endo,,0,0,0,,This depends on the person.
+Dialogue: 0,0:14:07.63,0:14:08.59,Default,,0,0,0,,Of course.
+Dialogue: 0,0:14:08.59,0:14:09.69,Endo,,0,0,0,,Well, yeah.
+Dialogue: 0,0:14:09.96,0:14:12.13,Yamasaki,,0,0,0,,There's only one place
+Dialogue: 0,0:14:12.13,0:14:14.33,Yamasaki,,0,0,0,,where I think, "Man, that one's big...",
+Dialogue: 0,0:14:14.33,0:14:15.87,Yamasaki,,0,0,0,,so let's go there.
+Dialogue: 0,0:14:15.87,0:14:16.43,Default,,0,0,0,,I see.
+Dialogue: 0,0:13:43.77,0:14:17.54,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord4.773\fscx117.333\fscy160\pos(720,907.636)}Speaking of a big billboard?
+Dialogue: 0,0:13:43.77,0:14:17.54,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1C13E4&\bord4.773\pos(372.8,757.091)}Theme
+Dialogue: 0,0:14:16.43,0:14:17.54,Yamasaki,,0,0,0,,I could meet someone there.
+Dialogue: 0,0:14:17.80,0:14:19.87,Matsumoto,,0,0,0,,The one near Sun Music.
+Dialogue: 0,0:14:19.87,0:14:20.44,Default,,0,0,0,,Yes.
+Dialogue: 0,0:14:20.44,0:14:23.98,Matsumoto,,0,0,0,,The Onishi Lion billboard that's near Sun Music.
+Dialogue: 0,0:14:26.31,0:14:28.31,Matsumoto,,0,0,0,,I always see it.
+Dialogue: 0,0:14:29.21,0:14:30.75,Matsumoto,,0,0,0,,Let's go. That's it.
+Dialogue: 0,0:14:31.08,0:14:38.76,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord4.773\pos(948.8,916.364)\fscx99\fscy142}Speaking of a big billboard?
+Dialogue: 0,0:14:31.08,0:14:38.76,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1C13E4&\pos(648,798.545)\bord4.773}Theme
+Dialogue: 0,0:14:31.85,0:14:38.76,Default,,0,0,0,,Next, they must head towards to the big billboard they think of, starting from where they are.
+Dialogue: 0,0:14:39.06,0:14:45.03,Endo,,0,0,0,,Was I really that wrong with the parking lot? I was sure that I would find someone in Odaiba.
+Dialogue: 0,0:14:45.73,0:14:48.17,Endo,,0,0,0,,I guess everyone has their own way of thinking.
+Dialogue: 0,0:14:48.53,0:14:51.07,Yamasaki,,0,0,0,,Endo went all the way to Odaiba.
+Dialogue: 0,0:14:51.07,0:14:55.91,Yamasaki,,0,0,0,,I thought of going to Odaiba too, but then I realized it was too far.
+Dialogue: 0,0:14:55.91,0:14:59.74,Yamasaki,,0,0,0,,That's why I decided against going to Odaiba.
+Dialogue: 0,0:15:00.65,0:15:02.65,Matsumoto,,0,0,0,,But yeah,
+Dialogue: 0,0:15:03.25,0:15:03.85,Matsumoto,,0,0,0,,this time
+Dialogue: 0,0:15:06.65,0:15:07.59,Matsumoto,,0,0,0,,Aren't they?
+Dialogue: 0,0:15:03.85,0:15:07.99,Matsumoto,,0,0,0,,{\pos(720,905.455)}Cocorico are really awful.
+Dialogue: 0,0:15:07.59,0:15:07.99,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:15:08.25,0:15:12.32,Default,,0,0,0,,Tanaka, the parking lot you chose was the one with the least spaces by far.
+Dialogue: 0,0:15:12.32,0:15:13.72,Tanaka,,0,0,0,,Yeah, the parking spaces.
+Dialogue: 0,0:15:15.66,0:15:18.10,Tanaka,,0,0,0,,For a {\pos(720,905.455)\c&H000000&}"genuine" {\c&HC500BD&}parking lot, {\alpha&HFF&}it was large, wasn't it?
+Dialogue: 0,0:15:18.10,0:15:21.53,Tanaka,,0,0,0,,For a {\pos(720,905.455)\c&H000000&}"genuine" {\c&HC500BD&}parking lot, it was large, wasn't it?
+Dialogue: 0,0:15:19.63,0:15:21.53,Tanaka,,0,0,0,,I thought it was pretty large.
+Dialogue: 0,0:15:21.63,0:15:24.64,Hamada,,0,0,0,,We were way off with the parking lots.
+Dialogue: 0,0:15:29.47,0:15:31.11,Matsumoto,,0,0,0,,I wonder,
+Dialogue: 0,0:15:31.91,0:15:33.91,Matsumoto,,0,0,0,,will we be able to meet?
+Dialogue: 0,0:15:34.91,0:15:38.92,Default,,0,0,0,,Endo enters the metropolitan area while traveling on the expressway.
+Dialogue: 0,0:15:38.92,0:15:41.65,Endo,,0,0,0,,There are a lot of billboards.
+Dialogue: 0,0:15:41.65,0:15:42.89,Endo,,0,0,0,,There's Yuukorin's.
+Dialogue: 0,0:15:42.89,0:15:44.59,Default,,0,0,0,,Yeah, there's that one, it was...
+Dialogue: 0,0:15:44.59,0:15:45.92,Endo,,0,0,0,,What was it?
+Dialogue: 0,0:15:45.92,0:15:46.52,Default,,0,0,0,,Car Seven.
+Dialogue: 0,0:15:46.52,0:15:49.86,Endo,,0,0,0,,It's Car Seven.
+Dialogue: 0,0:15:48.56,0:15:49.86,Default,,0,0,0,,I think it's there.
+Dialogue: 0,0:15:49.86,0:15:51.46,Endo,,0,0,0,,Over there.
+Dialogue: 0,0:15:50.33,0:15:51.46,Default,,0,0,0,,By the corner.
+Dialogue: 0,0:15:51.80,0:15:53.70,Endo,,0,0,0,,This one, look. Car Seven.
+Dialogue: 0,0:15:53.70,0:15:54.33,Default,,0,0,0,,Car Seven's...
+Dialogue: 0,0:15:54.33,0:15:58.27,Endo,,0,0,0,,I always see Yuukorin's Car Seven. It's big too.
+Dialogue: 0,0:15:58.27,0:15:59.84,Default,,0,0,0,,Yes, this one's big.
+Dialogue: 0,0:15:59.84,0:16:03.34,Endo,,0,0,0,,It's big but it's on the expressway.
+Dialogue: 0,0:16:04.18,0:16:06.34,Endo,,0,0,0,,It might be difficult for this type of challenge.
+Dialogue: 0,0:16:06.34,0:16:08.34,Default,,0,0,0,,It's hard to meet here.
+Dialogue: 0,0:16:08.85,0:16:10.92,Endo,,0,0,0,,Yeah, you probably can't see it from below.
+Dialogue: 0,0:16:11.92,0:16:15.45,Default,,0,0,0,,And Matsumoto arrives near the vicinity of his destination.
+Dialogue: 0,0:16:11.25,0:16:16.82,Blocky,,0,0,0,,{\fade(300,0)\pos(720,894.545)\c&H1625D7&\3c&HFFFFFF&\bord4.091\fscx119.533\fscy142}Matsumoto {\c&H000000&}arrives near his destination
+Dialogue: 0,0:16:15.69,0:16:16.82,Matsumoto,,0,0,0,,There it is.
+Dialogue: 0,0:16:16.82,0:16:19.49,Matsumoto,,0,0,0,,I can see it now. Look at it.
+Dialogue: 0,0:16:20.76,0:16:22.39,Matsumoto,,0,0,0,,Onishi Lion.
+Dialogue: 0,0:16:22.93,0:16:24.53,Matsumoto,,0,0,0,,This one's huge.
+Dialogue: 0,0:16:26.56,0:16:29.63,Matsumoto,,0,0,0,,There's no way you can miss seeing Onishi Lion.
+Dialogue: 0,0:16:32.64,0:16:35.64,Matsumoto,,0,0,0,,Look, it's amazing, isn't it? It's big.
+Dialogue: 0,0:16:35.64,0:16:38.01,Matsumoto,,0,0,0,,Every time I pass through here I see Onishi Lion.
+Dialogue: 0,0:16:38.48,0:16:40.38,Matsumoto,,0,0,0,,It's gotta be this one, right?
+Dialogue: 0,0:16:41.78,0:16:43.21,Matsumoto,,0,0,0,,Onishi Lion.
+Dialogue: 0,0:16:43.21,0:16:47.25,Matsumoto,,0,0,0,,I can only think of Onishi Lion when I go through here.
+Dialogue: 0,0:16:48.12,0:16:52.46,Matsumoto,,0,0,0,,I read the "Don't worry" and then I get worried.
+Dialogue: 0,0:16:53.16,0:16:56.83,Matsumoto,,0,0,0,,This billboard has been up there for a long time.
+Dialogue: 0,0:16:57.13,0:16:59.86,Matsumoto,,0,0,0,,Radio Nippon.
+Dialogue: 0,0:17:00.30,0:17:06.10,Matsumoto,,0,0,0,,I knew it was Onishi Lion because he always wears that, but I didn't know what it was about.
+Dialogue: 0,0:17:09.87,0:17:11.31,Matsumoto,,0,0,0,,Is there anybody here?
+Dialogue: 0,0:17:24.66,0:17:27.39,Matsumoto,,0,0,0,,There! Who's that? Yamasaki?
+Dialogue: 0,0:17:27.39,0:17:30.90,Yamasaki,,0,0,0,,Yes, he's here!
+Dialogue: 0,0:17:33.13,0:17:34.77,Matsumoto,,0,0,0,,There he is.
+Dialogue: 0,0:17:34.77,0:17:36.20,Yamasaki,,0,0,0,,Alright!
+Dialogue: 0,0:17:36.20,0:17:38.44,Matsumoto,,0,0,0,,That's Tsukitei, isn't it? Alright!
+Dialogue: 0,0:17:38.44,0:17:42.84,Matsumoto,,0,0,0,,Of course it was this one, there are a lot of big billboards but
+Dialogue: 0,0:17:43.37,0:17:46.24,Matsumoto,,0,0,0,,this billboard is really one of a kind.
+Dialogue: 0,0:17:46.24,0:17:49.08,Yamasaki,,0,0,0,,It would be great if one more person
+Dialogue: 0,0:17:49.48,0:17:51.78,Yamasaki,,0,0,0,,came here, but for now...
+Dialogue: 0,0:17:56.85,0:17:58.02,Matsumoto,,0,0,0,,It had to be this one, right?
+Dialogue: 0,0:17:58.02,0:17:58.86,Yamasaki,,0,0,0,,Of course!
+Dialogue: 0,0:17:58.86,0:18:00.29,Matsumoto,,0,0,0,,I knew it was gonna be this one.
+Dialogue: 0,0:18:00.29,0:18:01.89,Yamasaki,,0,0,0,,Ah, I'm so glad!
+Dialogue: 0,0:18:01.89,0:18:04.16,Matsumoto,,0,0,0,,That's what I was saying,
+Dialogue: 0,0:18:04.16,0:18:07.73,Matsumoto,,0,0,0,,It couldn't be a billboard with a new musician's album.
+Dialogue: 0,0:18:02.29,0:18:07.93,Blocky,,0,0,0,,{\fade(300,300)\c&H1528D5&\3c&HFFFFFF&\bord5.455\fscx104.133\fscy132\pos(515.2,905.455)}Matsumoto and {\c&H27D72A&}Hosei
+Dialogue: 0,0:18:02.29,0:18:07.93,Blocky,,0,0,0,,{\fade(300,300)\c&H24A2E6&\3c&HFFFFFF&\bord5.455\fscx104.867\fscy125\pos(923.2,866.182)}join up
+Dialogue: 0,0:18:07.73,0:18:08.27,Yamasaki,,0,0,0,,Right, right.
+Dialogue: 0,0:18:08.27,0:18:10.47,Matsumoto,,0,0,0,,There's a lot like that in Shinjuku and Shibuya but...
+Dialogue: 0,0:18:10.47,0:18:11.07,Yamasaki,,0,0,0,,Yeah.
+Dialogue: 0,0:18:11.07,0:18:11.90,Matsumoto,,0,0,0,,This is it.
+Dialogue: 0,0:18:11.90,0:18:14.64,Yamasaki,,0,0,0,,This has been Onishi Lion forever.
+Dialogue: 0,0:18:14.64,0:18:16.37,Matsumoto,,0,0,0,,Yeah, it's always been Onishi Lion.
+Dialogue: 0,0:18:16.37,0:18:17.41,Yamasaki,,0,0,0,,Really.
+Dialogue: 0,0:18:17.41,0:18:19.94,Matsumoto,,0,0,0,,You see it with its "Don't worry~"
+Dialogue: 0,0:18:19.94,0:18:21.78,Matsumoto,,0,0,0,,Telling you everything's alright.
+Dialogue: 0,0:18:21.78,0:18:24.32,Yamasaki,,0,0,0,,It does say "Don't worry~", but
+Dialogue: 0,0:18:24.32,0:18:25.45,Matsumoto,,0,0,0,,This one for sure.
+Dialogue: 0,0:18:25.45,0:18:27.42,Yamasaki,,0,0,0,,You can always remember it.
+Dialogue: 0,0:18:26.65,0:18:27.42,Matsumoto,,0,0,0,,I do remember it.
+Dialogue: 0,0:18:27.42,0:18:29.89,Matsumoto,,0,0,0,,I think, "Ah, it's Onishi Lion!".
+Dialogue: 0,0:18:30.49,0:18:33.12,Matsumoto,,0,0,0,,That aside, the dumb thing about the others...
+Dialogue: 0,0:18:33.12,0:18:35.49,Matsumoto,,0,0,0,,is that they're coming from really far away.
+Dialogue: 0,0:18:34.43,0:18:35.49,Yamasaki,,0,0,0,,Like from Odaiba.
+Dialogue: 0,0:18:35.49,0:18:37.73,Matsumoto,,0,0,0,,Yeah, there's an idiot who went to {\pos(720,912)\c&H000000&\3c&HFFFFFF&\bord5.455}Odaiba. {\c&H1325D6&}
+Dialogue: 0,0:18:36.83,0:18:37.73,Yamasaki,,0,0,0,,Of course.
+Dialogue: 0,0:18:38.20,0:18:40.80,Matsumoto,,0,0,0,,Going to {\c&H000000&\3c&HFFFFFF&\bord5.455}Komazawa {\c&H1325D6&}was dumb too.
+Dialogue: 0,0:18:42.73,0:18:43.40,Yamasaki,,0,0,0,,Not thinking at all.
+Dialogue: 0,0:18:41.13,0:18:44.00,Matsumoto,,0,0,0,,{\pos(720,907.636)}They're not thinking about the next one.
+Dialogue: 0,0:18:43.40,0:18:44.00,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:18:44.20,0:18:48.91,Matsumoto,,0,0,0,,When I heard about Tanaka's 44 car parking...
+Dialogue: 0,0:18:48.91,0:18:49.87,Yamasaki,,0,0,0,,You know,
+Dialogue: 0,0:18:49.91,0:18:51.64,Yamasaki,,0,0,0,,I actually got scared.
+Dialogue: 0,0:18:50.64,0:18:51.64,Matsumoto,,0,0,0,,It's scary, right?
+Dialogue: 0,0:18:51.64,0:18:55.48,Yamasaki,,0,0,0,,I mean, going to a 44 car parking lot thinking it's large.
+Dialogue: 0,0:18:53.78,0:18:55.48,Matsumoto,,0,0,0,,40 something...
+Dialogue: 0,0:18:55.88,0:18:56.75,Yamasaki,,0,0,0,,I got a bit
+Dialogue: 0,0:18:55.48,0:18:56.91,Matsumoto,,0,0,0,,That's what it makes you feel.
+Dialogue: 0,0:18:56.91,0:18:58.78,Yamasaki,,0,0,0,,scared of him.
+Dialogue: 0,0:18:58.78,0:19:00.52,Default,,0,0,0,,Is that it, Tanaka?
+Dialogue: 0,0:19:00.52,0:19:02.75,Tanaka,,0,0,0,,Yes, yes, that's it.
+Dialogue: 0,0:19:02.75,0:19:03.25,Default,,0,0,0,,That one?
+Dialogue: 0,0:18:59.15,0:19:04.12,Blocky,,0,0,0,,{\fade(300,300)\pos(720,907.636)\c&HCF00BB&\3c&HFFFFFF&\bord4.091\fscx119.533\fscy142}Tanaka {\c&H000000&}arrives near his destination
+Dialogue: 0,0:19:03.25,0:19:04.69,Tanaka,,0,0,0,,Yes, that one.
+Dialogue: 0,0:19:05.12,0:19:06.42,Tanaka,,0,0,0,,That, that, that!
+Dialogue: 0,0:19:06.42,0:19:07.79,Tanaka,,0,0,0,,Isn't it hu...
+Dialogue: 0,0:19:10.33,0:19:11.93,Tanaka,,0,0,0,,Isn't it huge?
+Dialogue: 0,0:19:11.93,0:19:13.20,Tanaka,,0,0,0,,Look!
+Dialogue: 0,0:19:13.56,0:19:15.33,Tanaka,,0,0,0,,It's huge.
+Dialogue: 0,0:19:15.33,0:19:17.40,Tanaka,,0,0,0,,It was actually this big.
+Dialogue: 0,0:19:22.51,0:19:24.51,Tanaka,,0,0,0,,Was it actually this big?
+Dialogue: 0,0:19:24.51,0:19:27.48,Tanaka,,0,0,0,,This might even be
+Dialogue: 0,0:19:27.48,0:19:29.25,Tanaka,,0,0,0,,bigger than I thought.
+Dialogue: 0,0:19:29.85,0:19:33.68,Matsumoto,,0,0,0,,Now I'm scared of Cocorico.
+Dialogue: 0,0:19:34.05,0:19:38.72,Matsumoto,,0,0,0,,Is this duo called Cocorico okay? One of them went all the way to Odaiba.
+Dialogue: 0,0:19:38.72,0:19:40.32,Matsumoto,,0,0,0,,Odaiba was never an option.
+Dialogue: 0,0:19:42.99,0:19:43.79,Yamasaki,,0,0,0,,Right.
+Dialogue: 0,0:19:40.32,0:19:44.40,Matsumoto,,0,0,0,,If you think about having to go to the next place, Odaiba was out of the question.
+Dialogue: 0,0:19:44.80,0:19:45.50,Default,,0,0,0,,This one's big.
+Dialogue: 0,0:19:45.50,0:19:47.06,Endo,,0,0,0,,This one, right?
+Dialogue: 0,0:19:44.56,0:19:48.40,Blocky,,0,0,0,,{\fade(300,300)\pos(720,894.545)\c&H126DD0&\3c&HFFFFFF&\bord4.091\fscx119.533\fscy142}Endo {\c&H000000&}arrives at his destination
+Dialogue: 0,0:19:47.97,0:19:50.23,Endo,,0,0,0,,Besides, there's two of them.
+Dialogue: 0,0:19:50.23,0:19:51.10,Endo,,0,0,0,,Really.
+Dialogue: 0,0:19:51.10,0:19:52.30,Endo,,0,0,0,,There's the one in the front...
+Dialogue: 0,0:19:52.30,0:19:53.30,Default,,0,0,0,,Two of them.
+Dialogue: 0,0:19:52.84,0:19:53.30,Endo,,0,0,0,,See?
+Dialogue: 0,0:19:53.30,0:19:55.07,Endo,,0,0,0,,And the one on top.
+Dialogue: 0,0:19:55.57,0:19:57.24,Endo,,0,0,0,,Is there anyone here?
+Dialogue: 0,0:19:58.98,0:20:01.51,Endo,,0,0,0,,There's no one here. No way.
+Dialogue: 0,0:20:02.58,0:20:04.58,Endo,,0,0,0,,You gotta be kidding me.
+Dialogue: 0,0:20:05.48,0:20:08.25,Endo,,0,0,0,,This billboard is really big.
+Dialogue: 0,0:20:09.42,0:20:11.22,Endo,,0,0,0,,This is a really big billboard.
+Dialogue: 0,0:20:11.62,0:20:13.19,Endo,,0,0,0,,Surrounded by scaffolding.
+Dialogue: 0,0:20:13.19,0:20:15.89,Endo,,0,0,0,,This is what a big billboard looks like.
+Dialogue: 0,0:20:17.96,0:20:20.80,Endo,,0,0,0,,Hanada Masaru... Why aren't they here?
+Dialogue: 0,0:20:21.73,0:20:25.60,Endo,,0,0,0,,I mean, this is a huge billboard, seriously.
+Dialogue: 0,0:20:26.17,0:20:28.17,Endo,,0,0,0,,Is this no good?
+Dialogue: 0,0:20:29.54,0:20:32.58,Default,,0,0,0,,And finally, Hamada arrives at his destination.
+Dialogue: 0,0:20:28.77,0:20:32.94,Blocky,,0,0,0,,{\fade(300,300)\pos(720,894.545)\c&HFA091E&\3c&HFFFFFF&\bord5.455\fscx119.533\fscy142}Hamada {\c&H000000&}arrives at his destination
+Dialogue: 0,0:20:33.04,0:20:35.31,Hamada,,0,0,0,,Here you go, see?
+Dialogue: 0,0:20:36.11,0:20:41.55,Hamada,,0,0,0,,If you're talking about a big billboard, it has to be APA Hotel's with the picture of their president.
+Dialogue: 0,0:20:41.55,0:20:45.02,Hamada,,0,0,0,,Could you even think of another big billboard?
+Dialogue: 0,0:20:45.86,0:20:48.23,Hamada,,0,0,0,,There's no place more famous than here.
+Dialogue: 0,0:20:51.73,0:20:55.50,Hamada,,0,0,0,,Are you kidding me? Seriously?
+Dialogue: 0,0:20:56.23,0:20:57.97,Hamada,,0,0,0,,Isn't this too strange?
+Dialogue: 0,0:20:58.34,0:21:00.57,Tanaka,,0,0,0,,Really, where are they?
+Dialogue: 0,0:21:01.61,0:21:03.47,Tanaka,,0,0,0,,I mean, seriously...
+Dialogue: 0,0:21:03.47,0:21:04.84,Tanaka,,0,0,0,,Seriously...
+Dialogue: 0,0:21:05.41,0:21:06.98,Tanaka,,0,0,0,,Why aren't they here?
+Dialogue: 0,0:21:07.61,0:21:09.01,Matsumoto,,0,0,0,,Hello.
+Dialogue: 0,0:21:10.28,0:21:11.52,Matsumoto,,0,0,0,,Hello!
+Dialogue: 0,0:21:11.78,0:21:13.48,Hamada,,0,0,0,,Hello?
+Dialogue: 0,0:21:14.08,0:21:15.62,Matsumoto,,0,0,0,,Yamasaki and I,
+Dialogue: 0,0:21:15.62,0:21:17.82,Matsumoto,,0,0,0,,have already met.
+Dialogue: 0,0:21:20.06,0:21:21.23,Yamasaki,,0,0,0,,We're together now.
+Dialogue: 0,0:21:21.23,0:21:23.23,Hamada,,0,0,0,,You met Yama-chan.
+Dialogue: 0,0:21:21.23,0:21:24.40,Matsumoto,,0,0,0,,We're together now and we're enjoying each other.
+Dialogue: 0,0:21:24.76,0:21:26.20,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:21:24.40,0:21:27.60,Tanaka,,0,0,0,,Matsumoto and Hosei, you came across each other?
+Dialogue: 0,0:21:26.20,0:21:27.60,Matsumoto,,0,0,0,,It was obvious.
+Dialogue: 0,0:21:27.60,0:21:29.67,Hamada,,0,0,0,,Where are you guys?
+Dialogue: 0,0:21:28.13,0:21:29.67,Endo,,0,0,0,,Where are you?
+Dialogue: 0,0:21:28.47,0:21:29.67,Tanaka,,0,0,0,,Where?
+Dialogue: 0,0:21:29.67,0:21:31.30,Matsumoto,,0,0,0,,We're in Yotsuya.
+Dialogue: 0,0:21:31.47,0:21:33.24,Tanaka,,0,0,0,,Yotsuya!?
+Dialogue: 0,0:21:33.37,0:21:35.94,Matsumoto,,0,0,0,,On Yotsuya's 4th District.
+Dialogue: 0,0:21:36.44,0:21:39.51,Yamasaki,,0,0,0,,On the building that was the former Sun Music office.
+Dialogue: 0,0:21:40.65,0:21:41.54,Endo,,0,0,0,,Ah, that one's big.
+Dialogue: 0,0:21:40.78,0:21:43.78,Matsumoto,,0,0,0,,There's a billboard with Onishi Lion, right?
+Dialogue: 0,0:21:41.41,0:21:45.35,Default,,0,0,0,,{\3c&H25048C&\bord6.818\move(1638.4,903.273,947.2,901.091,257,156)}Yotsuya's 4th District {\c&H2800D8&\3c&HFFFFFF&\bord5.455}Onishi Lion Billboard
+Dialogue: 0,0:21:45.45,0:21:47.12,Matsumoto,,0,0,0,,Hamada, where are you?
+Dialogue: 0,0:21:47.38,0:21:49.32,Hamada,,0,0,0,,Ah, I'm in Akasaka.
+Dialogue: 0,0:21:49.32,0:21:50.89,Endo,,0,0,0,,Akasaka?
+Dialogue: 0,0:21:49.69,0:21:50.89,Yamasaki,,0,0,0,,Akasaka?
+Dialogue: 0,0:21:49.85,0:21:50.89,Tanaka,,0,0,0,,Akasaka.
+Dialogue: 0,0:21:51.02,0:21:54.46,Hamada,,0,0,0,,APA Hotel's billboard with the president.
+Dialogue: 0,0:21:55.84,0:21:57.78,Tanaka,,0,0,0,,There's a billboard with the president?
+Dialogue: 0,0:21:53.32,0:21:59.83,Default,,0,0,0,,{\3c&H25048C&\bord6.818\move(-65.6,893.182,476,891,257,0)}Akasaka {\c&H2800D8&\3c&HFFFFFF&\bord5.455}APA Hotel's President Billboard
+Dialogue: 0,0:21:58.06,0:21:59.83,Matsumoto,,0,0,0,,Was there a billboard like that?
+Dialogue: 0,0:21:58.06,0:21:59.83,Endo,,0,0,0,,I think that one's a bit unreasonable.
+Dialogue: 0,0:22:00.23,0:22:01.50,Endo,,0,0,0,,Well, I'm in
+Dialogue: 0,0:22:03.55,0:22:05.02,Hamada,,0,0,0,,South Aoyama...
+Dialogue: 0,0:22:01.80,0:22:05.04,Endo,,0,0,0,,South Aoyama's 3rd District. In front of Bell Commons.
+Dialogue: 0,0:22:01.67,0:22:09.01,Default,,0,0,0,,{\3c&H25048C&\bord6.818\c&HFFFFFF&\move(-65.6,893.182,615.2,897.545,250,0)}South Aoyama's 3rd District {\c&H2800D8&\3c&HFFFFFF&\bord5.455}Hanada Masaru Billboard
+Dialogue: 0,0:22:05.40,0:22:09.44,Endo,,0,0,0,,The big billboard with the surrounding scaffolding, showing Hanada.
+Dialogue: 0,0:22:09.44,0:22:11.04,Matsumoto,,0,0,0,,I can understand going there.
+Dialogue: 0,0:22:09.71,0:22:11.04,Endo,,0,0,0,,I'm right below it.
+Dialogue: 0,0:22:11.38,0:22:12.68,Hamada,,0,0,0,,And Tanaka?
+Dialogue: 0,0:22:12.68,0:22:15.98,Tanaka,,0,0,0,,Tanaka is at Omotesando,
+Dialogue: 0,0:22:16.91,0:22:19.45,Tanaka,,0,0,0,,right below the Samantha Thavasa billboard.
+Dialogue: 0,0:22:19.72,0:22:22.75,Hamada,,0,0,0,,What the hell are you doing at a Samantha Thavasa billboard?
+Dialogue: 0,0:22:22.89,0:22:24.99,Yamasaki,,0,0,0,,Wait, isn't that just a regular billboard?
+Dialogue: 0,0:22:25.32,0:22:26.92,Tanaka,,0,0,0,,It's freaking huge!
+Dialogue: 0,0:22:16.15,0:22:29.83,Default,,0,0,0,,{\3c&H25048C&\bord6.818\move(-65.6,893.182,380,893.182,25,250)\c&HFFFFFF&}Omotesando\N {\c&H2800D8&\3c&HFFFFFF&\bord5.455}Samantha Thavasa Billboard.
+Dialogue: 0,0:22:26.92,0:22:29.83,Tanaka,,0,0,0,,Don't say that, it's really big.
+Dialogue: 0,0:22:30.06,0:22:32.33,Matsumoto,,0,0,0,,But right now, we're
+Dialogue: 0,0:22:32.33,0:22:33.70,Matsumoto,,0,0,0,,closer than we were before.
+Dialogue: 0,0:22:33.70,0:22:34.67,Yamasaki,,0,0,0,,Yeah, you're right.
+Dialogue: 0,0:22:34.67,0:22:35.93,Tanaka,,0,0,0,,{\pos(1080,970.909)}Yeah.
+Dialogue: 0,0:22:34.67,0:22:35.93,Endo,,0,0,0,,{\pos(331.2,970.909)}Yeah.
+Dialogue: 0,0:22:35.07,0:22:37.07,Yamasaki,,0,0,0,,We're all close to each other, so we'll meet.
+Dialogue: 0,0:22:37.47,0:22:38.67,Matsumoto,,0,0,0,,Probably.
+Dialogue: 0,0:22:38.67,0:22:40.77,Hamada,,0,0,0,,I wonder if the rest of us will meet?
+Dialogue: 0,0:22:38.67,0:22:40.77,Tanaka,,0,0,0,,I want to meet you guys.
+Dialogue: 0,0:22:40.04,0:22:40.77,Matsumoto,,0,0,0,,It's cold.
+Dialogue: 0,0:22:41.07,0:22:42.77,Endo,,0,0,0,,Let's meet at the next one, I want to see you.
+Dialogue: 0,0:22:42.77,0:22:44.84,Tanaka,,0,0,0,,Let's meet at the next one.
+Dialogue: 0,0:22:42.77,0:22:44.84,Yamasaki,,0,0,0,,The next one.
+Dialogue: 0,0:22:42.77,0:22:44.84,Hamada,,0,0,0,,Yes, let's do it.
+Dialogue: 0,0:22:45.44,0:22:47.44,Tanaka,,0,0,0,,But the right place was here.
+Dialogue: 0,0:22:48.48,0:22:51.78,Tanaka,,0,0,0,,I'm telling you this is the biggest one, the right answer.
+Dialogue: 0,0:22:52.75,0:22:54.35,Hamada,,0,0,0,,So now they're both gonna work together?
+Dialogue: 0,0:22:54.35,0:22:54.92,Default,,0,0,0,,Yes.
+Dialogue: 0,0:22:54.92,0:22:55.85,Hamada,,0,0,0,,I see.
+Dialogue: 0,0:22:55.99,0:22:57.42,Yamasaki,,0,0,0,,Let's see what's next.
+Dialogue: 0,0:22:58.26,0:22:59.76,Yamasaki,,0,0,0,,This is the next one.
+Dialogue: 0,0:22:58.52,0:22:59.76,Matsumoto,,0,0,0,,Alright, let's go.
+Dialogue: 0,0:22:59.76,0:23:01.33,Matsumoto,,0,0,0,,1, 2, go.
+Dialogue: 0,0:23:08.30,0:23:11.17,Yamasaki,,0,0,0,,Let's think about this one. Because now we can both think about it.
+Dialogue: 0,0:23:12.27,0:23:14.81,Tanaka,,0,0,0,,This one's actually really hard.
+Dialogue: 0,0:23:15.77,0:23:18.84,Tanaka,,0,0,0,,Because there are actually a lot, of answers.
+Dialogue: 0,0:23:19.14,0:23:23.68,Hamada,,0,0,0,,I'm a bit intrigued by the "frequent" part.
+Dialogue: 0,0:23:00.59,0:23:27.25,Yellow announcmend,,0,0,0,,{\fade(300,0)\c&H000000&\3c&HFFFFFF&\bord4.773\fscx110\fscy157\pos(720,896.727)}Speaking of a frequent Gaki recording location?
+Dialogue: 0,0:23:00.59,0:23:27.25,Default,,0,0,0,,{\fade(300,0)\c&HFFFFFF&\3c&H1C13E4&\pos(236.8,757.091)\bord4.773}Theme
+Dialogue: 0,0:23:24.35,0:23:27.25,Hamada,,0,0,0,,Even if you say it's a frequent location...
+Dialogue: 0,0:23:27.62,0:23:33.69,Rectangle,,0,0,0,,{\fade(100,0)\4c&H000000&\4a&H2C&\fscx1553.933\fscy230\clip(-29,460,1552,622)}t
+Dialogue: 0,0:23:27.62,0:23:33.69,Yellow announcmend,,0,0,0,,{\fade(100,0)\c&HFF081F&\3c&HFFFFFF&\bord4.773\i0\pos(715.2,567.273)\fscx112.2\fscy150}Will everyone be {\c&H1801C5&}able to meet each other!?{\i1}
+Dialogue: 0,0:23:28.32,0:23:33.69,Default,,0,0,0,,Will everyone be able to meet each other?
+Dialogue: 0,0:23:34.39,0:23:37.80,Default,,0,0,0,,{\fade(410,0)\pos(161.6,776.727)\3c&H086CE9&\bord5.455}Next Week
+Dialogue: 0,0:23:34.39,0:23:37.80,Yellow announcmend,,0,0,0,,{\fade(410,0)\3c&HFFFFFF&\bord5.455\c&HF91730&\i0\pos(720,912)\fscx102.667\fscy152}"Meeting each other without phones"! {\c&H1600DC&}Second Part{\i1}
+Dialogue: 0,0:23:34.36,0:23:37.80,Default,,0,0,0,,Next week, the second part of "Meeting each other without phones"!
+Dialogue: 0,0:23:37.83,0:23:39.96,Hamada,,0,0,0,,We always go all over the place.
+Dialogue: 0,0:23:37.80,0:23:51.01,Default,,0,0,0,,{\alpha80\bord3.409\pos(716.8,569.455)}Speaking of a frequent Gaki recording location?
+Dialogue: 0,0:23:51.24,0:23:55.15,Default,,0,0,0,,From 27 years of history with this show,
+Dialogue: 0,0:23:51.34,0:23:57.18,Rectangle,,0,0,0,,{\fade(100,0)\4c&H000000&\4a&H00&\fscx1553.933\fscy230\clip(-29,460,1552,622)}t
+Dialogue: 0,0:23:51.34,0:23:57.18,Yellow announcmend,,0,0,0,,{\fade(100,0)\c&HFF081F&\3c&HFFFFFF&\bord4.773\pos(715.2,569.455)\i0\fscx95.333\fscy152}Which {\c&H1801C5&}memorable recording location {\c&HFF081F&\3c&HFFFFFF&}will they choose!?{\i1}
+Dialogue: 0,0:23:55.15,0:23:57.68,Default,,0,0,0,,which memorable recording location will they choose?
+Dialogue: 0,0:24:03.82,0:24:05.49,Yamasaki,,0,0,0,,That's gotta be small, right?
+Dialogue: 0,0:24:05.49,0:24:07.79,Tanaka,,0,0,0,,It's not small, it fits 44 cars!
+Dialogue: 0,0:23:38.26,0:24:09.66,Newtofupandatitle,,0,0,0,,{\fade(9000,0)\pos(728,709.091)}{\fscx62.289\fscy105\pos(530.731,594.029)\c&HFFFFFF&\1a&HB9&\3c&H000000&\3a&HB4&\4c&H000000&\4a&HFF&}This video was brought to you by Tofu Panda Fansubs
+Dialogue: 0,0:00:00.00,0:24:09.66,Newtofupandatitle,,0,0,0,,{\c&HFFFFFF&\1a&HC8&\3c&H000000&\3a&HC8&\4c&H000000&\4a&HC8&\clip(-17,1,1433,1195)\fscx46.933\fscy56\pos(1369.904,157.662)}TPF
+Dialogue: 0,0:00:00.00,0:24:09.66,Default,,0,0,0,,{\p1\\c&H000000&\1a&HC8&\3c&HFFFFFF&\3a&HC8&\4c&H000000&\4a&HC8&\\2c&H000000&\clip(2,10,1436,1080)\fscx36.667\fscy47\pos(1536,261.818)}0 0 m -300 -65.625 b -310.75 -67 -339.875 -65.625 -336.875 -41.25 b -338.375 -27.75 -309.25 -1 -301.5 0 b -289.25 7.625 -284.625 -1 -277 -2.5 b -267.75 -11.625 -258.625 -14.625 -249.375 -37.125 b -246.25 -58 -266.25 -59.625 -267.75 -61.375 b -280 -67 -290.75 -65.625 -300 -65.625 m -292.375 -58 b -278.5 -61.375 -260.125 -52.375 -263.125 -43.125 b -273.875 -54.875 -283.125 -54.875 -292.375 -58 m -370.625 -189.875 b -364.375 -189.875 -312.25 -179.5 -320 -110.625 b -330.625 -67 -359.875 -46 -369 -41.25 b -373.625 -39.875 -398.125 -20.625 -431.875 -52.375 b -439.625 -67 -455 -83.875 -444.25 -121 b -439.625 -136 -431.875 -164.875 -404.375 -181 b -396.625 -185.25 -384.375 -193 -370.625 -189.875 m -232.5 -193 b -229.375 -193 -192.625 -203.5 -160.375 -148 b -155.75 -134.5 -143.5 -117.75 -151.25 -76 b -160.375 -41.25 -175.75 -39.875 -185 -37.125 b -192.625 -37.125 -203.375 -27.75 -240.125 -53.5 b -252.5 -63.75 -270.875 -70 -278.5 -112 b -277 -112 -295.375 -139.25 -257 -181 b -249.375 -187.375 -241.75 -193 -232.5 -193 m -373.625 -143.5 b -416.625 -136 -392 -89.5 -372.125 -94.25 b -366 -94.25 -352.125 -97.375 -349.125 -117.75 b -353.75 -142.375 -362.875 -140.25 -373.625 -143.5 m -373.625 -129.875 b -364.375 -133.125 -359.875 -121 -361.375 -117.75 b -361.375 -106.375 -370.625 -106.375 -375.125 -106.375 b -381.25 -107.375 -384.375 -113.5 -382.875 -121 b -382.875 -124.125 -379.75 -129.875 -373.625 -129.875 m -370.625 -124.125 b -375.125 -122.375 -373.625 -116.75 -370.625 -116.75 b -367.5 -116.75 -364.375 -122.375 -370.625 -124.125 m -221.75 -143.5 b -255.5 -137.5 -240.125 -91 -221.75 -95.25 b -215.625 -94.25 -200.25 -97.375 -200.25 -124.125 b -204.875 -142.375 -217.125 -143.5 -221.75 -143.5 m -221.75 -129.875 b -201.875 -129.875 -208 -106.375 -218.75 -106.375 b -221.75 -104.625 -234 -107.375 -231 -121 b -231 -124.125 -229.375 -129.875 -221.75 -129.875 m -218.75 -124.125 b -223.25 -121 -220.25 -115 -217.125 -116.75 b -212.5 -117.75 -215.625 -124.125 -218.75 -124.125 m -376.75 -116.75 b -379.75 -116.75 -378.25 -112 -376.75 -112 b -375.125 -112 -373.625 -116.75 -376.75 -116.75 m -223.25 -115 b -226.375 -115 -224.875 -110.625 -223.25 -110.625 b -221.75 -110.625 -220.25 -115 -223.25 -115 m -455 -217.125 l -142 -217.125 l -142 86.875 l -455 86.875 m -145 -214.125 l -451.875 -214.125 l -451.875 84.25 l -145 84.25
+Dialogue: 0,0:24:07.93,0:24:09.66,Yamasaki,,0,0,0,,That's small!
+

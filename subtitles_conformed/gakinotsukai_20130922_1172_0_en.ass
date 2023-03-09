@@ -1,0 +1,833 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: #1172 (2013.09.22) — Yamazaki's Urban Rap Battle!.mp4
+Video File: #1172 (2013.09.22) — Yamazaki's Urban Rap Battle!.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 108
+Active Line: 116
+Video Position: 5849
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Matsumoto,Arial,45,&H00161DDB,&H000000FF,&H00FFFFFF,&H00161DDB,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Hamada,Arial,45,&H00F4081F,&H000000FF,&H00FFFFFF,&H00F4081F,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Housei,Arial,45,&H001D9D27,&H000000FF,&H00FFFFFF,&H001D9D27,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Default,Arial,45,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Tanaka,Arial,45,&H00C502BA,&H000000FF,&H00FFFFFF,&H00C502BA,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Endo,Arial,45,&H00096BDF,&H000000FF,&H00FFFFFF,&H00096BDF,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: vs,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: downtown,Arial,53,&H00FFFFFF,&H000000FF,&H00000000,&H00E3DA56,-1,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: cocorico,Arial,53,&H00FFFFFF,&H000000FF,&H00000000,&H002F85E7,-1,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: dt/cc,Arial,45,&H003EAE30,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: ho,Arial,53,&H00FFFFFF,&H000000FF,&H00000000,&H0058EB63,-1,0,0,0,75,100,0,0,1,3,3,2,11,11,15,1
+Style: credit,Arial,45,&H0000FFFF,&H000000FF,&H00000000,&H0000A2FF,-1,0,0,0,75,100,0,0,1,3,2.25,2,11,11,15,1
+Style: License,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: Narrarator,Arial,45,&H0006FFFF,&H000000FF,&H00000000,&H0014B5F5,-1,0,0,0,75,100,0,0,1,2.25,2.25,2,11,11,15,1
+Style: rectangle,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1.5,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.38,0:00:06.65,dt/cc,,0,0,0,,{\fad(100,0)\fs52.5\pos(348.75,552)}Downtown
+Dialogue: 0,0:00:00.38,0:00:06.65,downtown,,0,0,0,,{\fad(100,0)\fs48\pos(192.95,645)}Hamada Masatoshi
+Dialogue: 0,0:00:00.38,0:00:06.65,downtown,,0,0,0,,{\fad(100,0)\fs48\pos(512,645)}Matsumoto Hitoshi
+Dialogue: 0,0:00:00.38,0:00:06.65,dt/cc,,0,0,0,,{\fad(100,0)\fs52.5\pos(726.124,701)}Cocorico
+Dialogue: 0,0:00:00.38,0:00:06.65,cocorico,,0,0,0,,{\fad(100,0)\pos(570.375,828)}Endo Shozo
+Dialogue: 0,0:00:00.38,0:00:06.65,cocorico,,0,0,0,,{\fad(100,0)\pos(886.5,828)}Tanaka Naoki
+Dialogue: 0,0:00:00.45,0:00:05.05,Default,,0,0,0,,Backstage before the recording session...
+Dialogue: 0,0:00:05.05,0:00:07.05,Matsumoto,,0,0,0,,His hip hurts...
+Dialogue: 0,0:00:06.08,0:00:07.02,Hamada,,0,0,0,,Whose?
+Dialogue: 0,0:00:07.05,0:00:08.05,Matsumoto,,0,0,0,,Tanakas's.
+Dialogue: 0,0:00:07.52,0:00:08.95,Tanaka,,0,0,0,,I have pain in my lower back.
+Dialogue: 0,0:00:08.85,0:00:10.09,Hamada,,0,0,0,,What happened?
+Dialogue: 0,0:00:10.09,0:00:12.22,Tanaka,,0,0,0,,{\clip(155,981,675,1080)}Some time ago on this program, I had to carry Heipo on my shoulders...
+Dialogue: 0,0:00:12.22,0:00:13.26,Tanaka,,0,0,0,,Some time ago on this program, I had to carry Heipo on my shoulders...
+Dialogue: 0,0:00:13.19,0:00:22.67,rectangle,,0,0,0,,{\p1\c&H1F2ADA&\3c&HFFFFFF&\pos(662.8,940)}m 0 0 l 450 0 450 70 0 70
+Dialogue: 0,0:00:13.19,0:00:22.67,rectangle,,0,0,0,,{\p1\c&H1F2ADA&\3c&HFFFFFF&\pos(637.8,1016)}m 0 0 l 400 0 400 74 0 74
+Dialogue: 0,0:00:13.19,0:00:22.67,Default,,0,0,0,,{\shad0\c&HFFFFFF&\3c&H1F2ADA&\pos(639.878,930.105)}2003/11/30{\c&HFFFFFF&\3c&H1F2ADA&}
+Dialogue: 0,0:00:13.19,0:00:22.67,Default,,0,0,0,,{\shad0\c&HFFFFFF&\3c&H1F2ADA&\pos(635.078,997.305)}Heipo Rodeo
+Dialogue: 0,0:00:13.39,0:00:15.13,Matsumoto,,0,0,0,,Oh, that was quite a few years ago.
+Dialogue: 0,0:00:15.13,0:00:16.93,Tanaka,,0,0,0,,Uh, ten years...
+Dialogue: 0,0:00:16.60,0:00:18.03,Hamada,,0,0,0,,Your back still hurts since then?
+Dialogue: 0,0:00:18.03,0:00:20.80,Matsumoto,,0,0,0,,15... wasn't it around 20 years ago?
+Dialogue: 0,0:00:20.37,0:00:22.00,Tanaka,,0,0,0,,Sounds about right.
+Dialogue: 0,0:00:22.20,0:00:23.04,Hamada,,0,0,0,,Seriously?
+Dialogue: 0,0:00:23.04,0:00:24.20,Hamada,,0,0,0,,You should demand compensation.
+Dialogue: 0,0:00:25.77,0:00:27.04,Tanaka,,0,0,0,,From Heipo?
+Dialogue: 0,0:00:27.77,0:00:29.21,Tanaka,,0,0,0,,Should I write him a letter?
+Dialogue: 0,0:00:29.21,0:00:30.68,Matsumoto,,0,0,0,,Make him face his consequences.
+Dialogue: 0,0:00:30.68,0:00:32.34,Tanaka,,0,0,0,,I can't do that.
+Dialogue: 0,0:00:32.34,0:00:33.28,Tanaka,,0,0,0,,Housei's here.
+Dialogue: 0,0:00:34.98,0:00:35.95,Matsumoto,,0,0,0,,Good morning.
+Dialogue: 0,0:00:37.22,0:00:38.72,Matsumoto,,0,0,0,,Greet us properly.
+Dialogue: 0,0:00:38.72,0:00:39.58,Housei,,0,0,0,,Sorry.
+Dialogue: 0,0:00:38.95,0:00:40.15,Hamada,,0,0,0,,What the hell is "Yo, Yo"?
+Dialogue: 0,0:00:40.15,0:00:42.15,Matsumoto,,0,0,0,,What's "Yo, Yo,"? You've got to greet us properly,
+Dialogue: 0,0:00:42.15,0:00:43.72,Housei,,0,0,0,,But the way I greeted you
+Dialogue: 0,0:00:43.72,0:00:46.09,Housei,,0,0,0,,was fit for a rapper.
+Dialogue: 0,0:00:43.22,0:00:45.82,ho,,0,0,0,,{\pos(720.9,904.2)}Housei Tsukitei
+Dialogue: 0,0:00:46.09,0:00:50.16,Housei,,0,0,0,,I thought about it last night, and I've decided to become a rapper.
+Dialogue: 0,0:00:50.23,0:00:51.53,Housei,,0,0,0,,{\clip(273,974,461,1080)}I've gotten a really good grasp on the Japanese language.
+Dialogue: 0,0:00:51.53,0:00:52.06,Housei,,0,0,0,,{\clip(284,984,745,1080)}I've gotten a really good grasp on the Japanese language.
+Dialogue: 0,0:00:52.06,0:00:54.20,Housei,,0,0,0,,I've gotten a really good grasp on the Japanese language.
+Dialogue: 0,0:00:54.33,0:00:57.54,Housei,,0,0,0,,{\clip(241,950,753,1026)}Since i've been trained in rakugo, I have great command of the\NJapanese language and its rhythm. Isn't that perfect for rap?
+Dialogue: 0,0:00:57.54,0:01:00.17,Housei,,0,0,0,,{\clip(m 257.625 963 l 1136.25 963 1229.625 961.5 1199.25 1024.5 570.375 1024.5 570.375 1072.5 253.125 1069.5)}Since i've been trained in rakugo, I have great command of the\NJapanese language and its rhythm. Isn't that perfect for rap?
+Dialogue: 0,0:01:00.17,0:01:01.77,Housei,,0,0,0,,{\clip(m 256.5 969 l 255.375 1065 796.5 1068 795.375 1027.5 1184.625 1020 1185.75 973.5)}Since i've been trained in rakugo, I have great command of the\NJapanese language and its rhythm. Isn't that perfect for rap?
+Dialogue: 0,0:01:01.77,0:01:03.71,Housei,,0,0,0,,Since i've been trained in rakugo, I have great command of the\NJapanese language and its rhythm. Isn't that perfect for rap?
+Dialogue: 0,0:01:03.84,0:01:05.84,Housei,,0,0,0,,Let's head into town right now.
+Dialogue: 0,0:01:06.24,0:01:11.12,Housei,,0,0,0,,I'll be wearing this outfit, and when people\Napproach us from the front of town...
+Dialogue: 0,0:01:11.12,0:01:13.42,Matsumoto,,0,0,0,,The 'front' of town?
+Dialogue: 0,0:01:12.52,0:01:13.42,Housei,,0,0,0,,The front...
+Dialogue: 0,0:01:12.65,0:01:14.32,Matsumoto,,0,0,0,,{\pos(729,922.5)}You really have no grasp on this language!
+Dialogue: 0,0:01:14.82,0:01:16.69,Matsumoto,,0,0,0,,The 'front' of town...
+Dialogue: 0,0:01:17.56,0:01:18.76,Housei,,0,0,0,,{\clip(392,1002,818,1080)}So once they approach us, I'll diss them.
+Dialogue: 0,0:01:18.76,0:01:20.73,Housei,,0,0,0,,So once they approach us, I'll diss them.
+Dialogue: 0,0:01:20.59,0:01:21.33,Hamada,,0,0,0,,Oh?
+Dialogue: 0,0:01:21.33,0:01:24.16,Housei,,0,0,0,,I'll diss them one by one,
+Dialogue: 0,0:01:24.16,0:01:26.87,Housei,,0,0,0,,and maybe get into a few brawls.
+Dialogue: 0,0:01:26.87,0:01:28.07,Housei,,0,0,0,,{\clip(230,981,737,1080)}And once they've been provoked, I'll traumatize them completely.
+Dialogue: 0,0:01:28.07,0:01:30.24,Housei,,0,0,0,,And once they've been provoked, I'll traumatize them completely.
+Dialogue: 0,0:01:30.24,0:01:30.97,Hamada,,0,0,0,,With your rapping?
+Dialogue: 0,0:01:30.74,0:01:31.40,Housei,,0,0,0,,With my rapping.
+Dialogue: 0,0:01:32.47,0:01:33.64,Matsumoto,,0,0,0,,So without using violence...
+Dialogue: 0,0:01:33.64,0:01:35.21,Hamada,,0,0,0,,No, there won't be any violence.
+Dialogue: 0,0:01:34.54,0:01:35.64,Matsumoto,,0,0,0,,No violence.
+Dialogue: 0,0:01:35.21,0:01:37.21,Tanaka,,0,0,0,,Just rapping.
+Dialogue: 0,0:01:35.97,0:01:39.01,Housei,,0,0,0,,I'll traumatize them all with my rapping skills.
+Dialogue: 0,0:01:39.18,0:01:40.61,Housei,,0,0,0,,{\clip(419,1001,761,1080)}So, could I get you all to get changed?
+Dialogue: 0,0:01:40.61,0:01:42.08,Housei,,0,0,0,,So, could I get you all to get changed?
+Dialogue: 0,0:01:42.08,0:01:43.25,Matsumoto,,0,0,0,,We're not getting involved in this.
+Dialogue: 0,0:01:43.25,0:01:44.55,Hamada,,0,0,0,,I don't know you.
+Dialogue: 0,0:01:45.52,0:01:50.89,Housei,,0,0,0,,Just more or less... Look. I'll do all the\Ntalking, and you guys can be my hype men.
+Dialogue: 0,0:01:50.89,0:01:54.23,Housei,,0,0,0,,But I'll be doing everything, of course. I'll put on my toughest expression.
+Dialogue: 0,0:01:54.23,0:01:55.86,Housei,,0,0,0,,Agreed?
+Dialogue: 0,0:01:55.86,0:01:56.53,Matsumoto,,0,0,0,,{\clip(322,996,566,1074)}I have a feeling this won't be able to be broadcasted.
+Dialogue: 0,0:01:56.53,0:02:00.00,Matsumoto,,0,0,0,,I have a feeling this won't be able to be broadcasted.
+Dialogue: 0,0:02:06.24,0:02:11.98,Default,,0,0,0,,{\fs52.5\c&H31FEF5&\3c&H000000&\b0\pos(382.071,585)}Can he win against people\Nin the shopping district!?
+Dialogue: 0,0:02:06.24,0:02:11.98,Default,,0,0,0,,{\fs52.5\pos(1091.25,585)\c&H31FEF5&\3c&H000000&\b0}Housei Tsukitei's \Nrap battle Challenge!!
+Dialogue: 0,0:02:06.24,0:02:11.98,vs,,0,0,0,,{\fs52.5}Translation: TL @ dailymotion.com/Tsukitei\NTiming + typesetting: BQ00
+Dialogue: 0,0:02:12.51,0:02:19.89,Default,,0,0,0,,{\fad(150,0)\fs63\3c&H000000&\c&H5AF967&\i1\pos(271.929,289.5)}HOUSEI TSUKITEI'S
+Dialogue: 0,0:02:12.51,0:02:19.89,Default,,0,0,0,,{\fad(150,0)\fs63\3c&H000000&\c&H4729E1&\i1\pos(956.892,289.5)}RAP BATTLE CHALLENGE
+Dialogue: 0,0:02:12.51,0:02:19.89,Default,,0,0,0,,Going along with the glow of the rhythm and\Nbattling his opponent with nothing but words,\NHousei expresses his desire to hold a rap battle challenge!
+Dialogue: 0,0:02:21.12,0:02:23.52,Default,,0,0,0,,Amidst the terrible, rainy weather,
+Dialogue: 0,0:02:23.52,0:02:27.03,Default,,0,0,0,,the member, who have finished changing,
+Dialogue: 0,0:02:27.03,0:02:29.49,Default,,0,0,0,,follow Housei to the shopping district.
+Dialogue: 0,0:02:29.49,0:02:31.20,Matsumoto,,0,0,0,,Is this really okay?
+Dialogue: 0,0:02:30.16,0:02:31.20,Housei,,0,0,0,,What is?
+Dialogue: 0,0:02:31.20,0:02:35.17,Matsumoto,,0,0,0,,Can we rally diss our audience?
+Dialogue: 0,0:02:35.20,0:02:38.84,Matsumoto,,0,0,0,,It's important that we keep an audience.
+Dialogue: 0,0:02:37.70,0:02:38.84,Housei,,0,0,0,,Wait a minute.
+Dialogue: 0,0:02:38.84,0:02:42.01,Hamada,,0,0,0,,If you're wearing that you might get recognized, people will follow you.
+Dialogue: 0,0:02:42.01,0:02:42.91,Hamada,,0,0,0,,{\clip(336,998,681,1080)}Why am I the only one wearing a wig for disguise?
+Dialogue: 0,0:02:42.91,0:02:44.18,Hamada,,0,0,0,,Why am I the only one wearing a wig for disguise?
+Dialogue: 0,0:02:44.18,0:02:46.18,Housei,,0,0,0,,Um, can you take the wig off, please?
+Dialogue: 0,0:02:46.18,0:02:47.95,Hamada,,0,0,0,,Wait a minute, that's kind of...
+Dialogue: 0,0:02:47.95,0:02:49.95,Hamada,,0,0,0,,It's a nice wig...!
+Dialogue: 0,0:02:51.98,0:02:55.22,Endo,,0,0,0,,We're disguised as rappers, It'll be fine.
+Dialogue: 0,0:02:53.05,0:02:55.22,Tanaka,,0,0,0,,We're rappers, aren't we?
+Dialogue: 0,0:02:55.22,0:02:56.35,Matsumoto,,0,0,0,,{\clip(406,1004,730,1076)}Do you want to wear the wig that badly?
+Dialogue: 0,0:02:56.35,0:02:57.42,Matsumoto,,0,0,0,,Do you want to wear the wig that badly?
+Dialogue: 0,0:02:57.42,0:02:58.49,Hamada,,0,0,0,,No, no, no!
+Dialogue: 0,0:02:58.49,0:03:00.33,Hamada,,0,0,0,,Wearing it is fine, right?
+Dialogue: 0,0:02:58.92,0:03:00.53,Matsumoto,,0,0,0,,He really wants to wear it.
+Dialogue: 0,0:02:59.82,0:03:01.83,Housei,,0,0,0,,Just take that thing off already!
+Dialogue: 0,0:03:02.23,0:03:05.03,Housei,,0,0,0,,I'm begging you! Let's do this properly...!
+Dialogue: 0,0:03:04.20,0:03:06.77,Matsumoto,,0,0,0,,Yes, you should.
+Dialogue: 0,0:03:04.90,0:03:06.77,Endo,,0,0,0,,You should.
+Dialogue: 0,0:03:07.23,0:03:08.63,Housei,,0,0,0,,He's definitely going to run off by himself!
+Dialogue: 0,0:03:08.63,0:03:10.67,Hamada,,0,0,0,,No I'm not!
+Dialogue: 0,0:03:09.40,0:03:10.67,Tanaka,,0,0,0,,This undedicated person?
+Dialogue: 0,0:03:10.24,0:03:10.97,Housei,,0,0,0,,That's right!
+Dialogue: 0,0:03:10.97,0:03:12.47,Hamada,,0,0,0,,Don't mess with me!
+Dialogue: 0,0:03:11.24,0:03:14.31,Endo,,0,0,0,,No sense of teamwork! None...!
+Dialogue: 0,0:03:13.57,0:03:14.31,Hamada,,0,0,0,,What the hell...
+Dialogue: 0,0:03:14.31,0:03:16.68,Housei,,0,0,0,,Wait, wait, wait, wait!
+Dialogue: 0,0:03:16.17,0:03:17.44,Endo,,0,0,0,,Whoa!
+Dialogue: 0,0:03:16.44,0:03:17.58,Tanaka,,0,0,0,,That's loud!
+Dialogue: 0,0:03:15.14,0:03:17.81,rectangle,,0,0,0,,{\bord4\p1\c&H1F2ADA&\pos(1111.2,1007.6)}m 0 0 l 500 0 500 150 0 150
+Dialogue: 0,0:03:15.14,0:03:17.81,Default,,0,0,0,,{\shad0\fscx180\fscy220\c&H1F2ADA&\3c&H1F2ADA&\c&H0BFFF1&\pos(1108.392,985.885)\i0}LIGHTNING
+Dialogue: 0,0:03:17.78,0:03:21.15,Matsumoto,,0,0,0,,Shouldn't we stop filming? It's going to be real noisy.
+Dialogue: 0,0:03:20.45,0:03:24.02,Housei,,0,0,0,,No, we're not stopping. This actually just builds the atmosphere.
+Dialogue: 0,0:03:22.75,0:03:24.42,Matsumoto,,0,0,0,,Well, yeah. It'll raise the tension.
+Dialogue: 0,0:03:24.42,0:03:25.98,Housei,,0,0,0,,That's right. It adds to the vibe.
+Dialogue: 0,0:03:26.79,0:03:29.59,Housei,,0,0,0,,We haven't done anything like this for a\Nwhile so we've got to make a grand entrance.
+Dialogue: 0,0:03:29.59,0:03:30.66,Matsumoto,,0,0,0,,That's right.
+Dialogue: 0,0:03:30.66,0:03:31.52,Housei,,0,0,0,,Even so...
+Dialogue: 0,0:03:31.52,0:03:32.89,Hamada,,0,0,0,,We'll try our best.
+Dialogue: 0,0:03:32.89,0:03:34.59,Housei,,0,0,0,,Wait - wait - wait a minute.
+Dialogue: 0,0:03:34.59,0:03:39.76,Housei,,0,0,0,,Before we start, you need to be my hype men.\NCan you give me a demonstration?
+Dialogue: 0,0:03:40.30,0:03:41.77,Housei,,0,0,0,,Be my hype men.
+Dialogue: 0,0:03:43.54,0:03:44.60,Housei,,0,0,0,,Yep. Just like that.
+Dialogue: 0,0:03:45.24,0:03:45.87,Housei,,0,0,0,,That's right.
+Dialogue: 0,0:03:45.87,0:03:46.61,Matsumoto,,0,0,0,,I'm good at this, right?
+Dialogue: 0,0:03:46.61,0:03:47.91,Housei,,0,0,0,,Absolutely not.
+Dialogue: 0,0:03:48.04,0:03:48.91,Matsumoto,,0,0,0,,It's like this, isn't it?
+Dialogue: 0,0:03:48.91,0:03:50.01,Tanaka,,0,0,0,,This rapping motion.
+Dialogue: 0,0:03:50.58,0:03:51.04,Hamada,,0,0,0,,Like this.
+Dialogue: 0,0:03:51.04,0:03:51.54,Matsumoto,,0,0,0,,Like this.
+Dialogue: 0,0:03:53.55,0:03:54.41,Matsumoto,,0,0,0,,Let's go.
+Dialogue: 0,0:03:54.41,0:03:56.35,Housei,,0,0,0,,Honestly, Cocorico are doing the best.
+Dialogue: 0,0:03:56.35,0:03:58.42,Hamada,,0,0,0,,Aren't they?
+Dialogue: 0,0:03:58.42,0:03:59.18,Tanaka,,0,0,0,,Yes!
+Dialogue: 0,0:03:58.58,0:04:01.05,Matsumoto,,0,0,0,,So who's doing the worst?
+Dialogue: 0,0:04:01.05,0:04:04.26,Housei,,0,0,0,,You can tell just by watching. Isn't it obvious?
+Dialogue: 0,0:04:04.69,0:04:06.26,Housei,,0,0,0,,This colorful guy!
+Dialogue: 0,0:04:07.36,0:04:09.63,Matsumoto,,0,0,0,,Apart from him, we're all good, aren't we?
+Dialogue: 0,0:04:09.63,0:04:12.30,Housei,,0,0,0,,So while I'm rapping, you'll be acting like...
+Dialogue: 0,0:04:13.37,0:04:14.40,Matsumoto,,0,0,0,,Let's stop filming!
+Dialogue: 0,0:04:14.40,0:04:15.13,Endo,,0,0,0,,Let's stop!
+Dialogue: 0,0:04:15.13,0:04:16.47,Tanaka,,0,0,0,,Wouldn't it be better to just stop now?
+Dialogue: 0,0:04:15.83,0:04:17.47,Matsumoto,,0,0,0,,Let's just go to a café.
+Dialogue: 0,0:04:19.00,0:04:19.44,Housei,,0,0,0,,We're still doing this.
+Dialogue: 0,0:04:19.44,0:04:21.87,Matsumoto,,0,0,0,,This isn't the type of weather we can shoot in. Let's just go to a cafe.
+Dialogue: 0,0:04:21.87,0:04:23.54,Hamada,,0,0,0,,The thunder will just get louder and louder.
+Dialogue: 0,0:04:23.54,0:04:25.18,Hamada,,0,0,0,,Like "whaaaa!"
+Dialogue: 0,0:04:25.18,0:04:26.85,Hamada,,0,0,0,,It's definitely gonna happen!
+Dialogue: 0,0:04:27.01,0:04:31.92,Default,,0,0,0,,{\fscx112.5\fs75\c&H1E29DB&\3c&H000000&\frz357\pos(755.358,744)}RAP BATTLE START
+Dialogue: 0,0:04:27.48,0:04:31.92,Hamada,,0,0,0,,Amidst the rolling thunder, Housei's challenge starts now!
+Dialogue: 0,0:04:31.98,0:04:34.99,Housei,,0,0,0,,Say ho, ho!
+Dialogue: 0,0:04:34.99,0:04:36.76,Endo,,0,0,0,,It's coming along! Terrific!
+Dialogue: 0,0:04:36.76,0:04:39.32,Endo,,0,0,0,,He's getting into it!
+Dialogue: 0,0:04:39.32,0:04:41.33,Endo,,0,0,0,,Isn't this rapping project great?
+Dialogue: 0,0:04:41.33,0:04:44.06,Matsumoto,,0,0,0,,But it probably looks like we're searching for a fight.
+Dialogue: 0,0:04:44.76,0:04:46.23,Housei,,0,0,0,,Alright, someone come at me!
+Dialogue: 0,0:04:46.23,0:04:48.37,Housei,,0,0,0,,Anybody will do.
+Dialogue: 0,0:04:53.27,0:04:59.84,Default,,0,0,0,,{\c&HFFFFFF&\3c&H0F00C0&\pos(369.964,907.5)}Housei Tsukitei
+Dialogue: 0,0:04:53.27,0:04:59.84,Default,,0,0,0,,{\pos(1030.5,907.5)\c&HFFFFFF&\3c&HF4081F&}Greengrocer
+Dialogue: 0,0:05:04.15,0:05:05.45,vs,,0,0,0,,{\clip(430,996,722,1080)}I've caught you! I've caught you!
+Dialogue: 0,0:05:05.45,0:05:06.62,vs,,0,0,0,,I've caught you! I've caught you!
+Dialogue: 0,0:05:06.62,0:05:07.82,vs,,0,0,0,,{\clip(384,1010,744,1077)}I've caught you outside with Gaki no Tsukai!
+Dialogue: 0,0:05:07.82,0:05:09.05,vs,,0,0,0,,I've caught you outside with Gaki no Tsukai!
+Dialogue: 0,0:05:09.05,0:05:10.26,vs,,0,0,0,,{\clip(393,1005,835,1080)}The peak in your career was 5 years ago!
+Dialogue: 0,0:05:10.26,0:05:11.22,vs,,0,0,0,,The peak in your career was 5 years ago!
+Dialogue: 0,0:05:11.22,0:05:12.59,vs,,0,0,0,,{\clip(295,999,942,1074)}When you got whipped with some burdock 5 years ago!
+Dialogue: 0,0:05:12.59,0:05:15.63,vs,,0,0,0,,When you got whipped with some burdock 5 years ago!
+Dialogue: 0,0:05:17.13,0:05:18.23,Tanaka,,0,0,0,,It's heating up!
+Dialogue: 0,0:05:19.06,0:05:20.80,Hamada,,0,0,0,,He's saying some grand things.
+Dialogue: 0,0:05:20.80,0:05:22.37,Housei,,0,0,0,,{\clip(295,999,704,1080)}What the hell do you know about the peak in my career?
+Dialogue: 0,0:05:22.37,0:05:24.57,Housei,,0,0,0,,What the hell do you know about the peak in my career?
+Dialogue: 0,0:05:24.57,0:05:25.67,Housei,,0,0,0,,{\clip(396,1002,861,1080)}You know absolutely nothing about me!
+Dialogue: 0,0:05:25.67,0:05:27.84,Housei,,0,0,0,,You know absolutely nothing about me!
+Dialogue: 0,0:05:27.84,0:05:28.34,Housei,,0,0,0,,{\clip(456,1008,662,1080)}Absolutely, absolutely nothing!
+Dialogue: 0,0:05:28.34,0:05:28.91,Housei,,0,0,0,,{\clip(461,1002,825,1080)}Absolutely, absolutely nothing!
+Dialogue: 0,0:05:28.91,0:05:29.97,Housei,,0,0,0,,Absolutely, absolutely nothing!
+Dialogue: 0,0:05:29.97,0:05:30.94,Housei,,0,0,0,,{\clip(419,993,523,1080)}Oh, What the hell did you just say?
+Dialogue: 0,0:05:30.94,0:05:32.98,Housei,,0,0,0,,Oh, What the hell did you just say?
+Dialogue: 0,0:05:32.98,0:05:34.05,Housei,,0,0,0,,{\clip(398,992,649,1080)}I couldn't hear what you said at all, YO!
+Dialogue: 0,0:05:34.05,0:05:34.55,Housei,,0,0,0,,{\clip(393,990,946,1080)}I couldn't hear what you said at all, YO!
+Dialogue: 0,0:05:34.55,0:05:37.68,Housei,,0,0,0,,I couldn't hear what you said at all, YO!
+Dialogue: 0,0:05:37.68,0:05:39.32,Endo,,0,0,0,,This isn't going to happen today.
+Dialogue: 0,0:05:39.32,0:05:40.85,Matsumoto,,0,0,0,,Alright, let's leave.
+Dialogue: 0,0:05:40.85,0:05:42.89,Matsumoto,,0,0,0,,Alright, let's leave.
+Dialogue: 0,0:05:43.19,0:05:44.89,Matsumoto,,0,0,0,,I'm not getting into this at all.
+Dialogue: 0,0:05:45.06,0:05:46.19,vs,,0,0,0,,{\clip(406,993,657,1080)}Your popularity has gone straight down!
+Dialogue: 0,0:05:46.19,0:05:47.46,vs,,0,0,0,,Your popularity has gone straight down!
+Dialogue: 0,0:05:47.46,0:05:48.63,vs,,0,0,0,,{\clip(375,986,664,1080)}Your acting skills have gone straight down!
+Dialogue: 0,0:05:48.63,0:05:49.86,vs,,0,0,0,,Your acting skills have gone straight down!
+Dialogue: 0,0:05:49.86,0:05:52.26,vs,,0,0,0,,{\clip(317,984,837,1080)}The only show you're a regular on is Gaki no Tsukai!
+Dialogue: 0,0:05:52.26,0:05:54.77,vs,,0,0,0,,The only show you're a regular on is Gaki no Tsukai!
+Dialogue: 0,0:05:54.77,0:05:57.17,vs,,0,0,0,,{\clip(428,987,819,1080)}That's the simple truth! I pity you!
+Dialogue: 0,0:05:57.17,0:05:59.70,vs,,0,0,0,,That's the simple truth! I pity you!
+Dialogue: 0,0:05:59.70,0:06:00.87,vs,,0,0,0,,{\clip(383,980,738,1080)}When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:00.87,0:06:01.97,vs,,0,0,0,,When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:01.97,0:06:03.21,vs,,0,0,0,,{\clip(387,1010,734,1074)}When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:03.21,0:06:04.74,vs,,0,0,0,,When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:04.74,0:06:06.04,vs,,0,0,0,,{\clip(375,1004,736,1080)}When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:06.04,0:06:08.68,vs,,0,0,0,,When you gonna quit? Quit Gaki no Tsukai!
+Dialogue: 0,0:06:10.22,0:06:10.68,Housei,,0,0,0,,{\clip(397,1002,549,1080)}That guy scared me more than I expected.
+Dialogue: 0,0:06:10.68,0:06:12.78,Housei,,0,0,0,,That guy scared me more than I expected.
+Dialogue: 0,0:06:13.42,0:06:14.85,Matsumoto,,0,0,0,,He went in hard.
+Dialogue: 0,0:06:14.85,0:06:15.95,Endo,,0,0,0,,He wrecked you!
+Dialogue: 0,0:06:15.95,0:06:17.26,Housei,,0,0,0,,What did I even say during that?
+Dialogue: 0,0:06:17.26,0:06:18.69,Matsumoto,,0,0,0,,{\clip(379,998,707,1080)}Nobody remembers. Not even the audience.
+Dialogue: 0,0:06:18.69,0:06:21.03,Matsumoto,,0,0,0,,Nobody remembers. Not even the audience.
+Dialogue: 0,0:06:21.06,0:06:22.46,Matsumoto,,0,0,0,,Nothing that you said left any kind of impression.
+Dialogue: 0,0:06:24.56,0:06:27.07,Matsumoto,,0,0,0,,All I really heard was the thunder rolling up above.
+Dialogue: 0,0:06:27.07,0:06:28.73,Matsumoto,,0,0,0,,{\clip(270,1002,693,1080)}It's probably gonna do that every time you get into a battle.
+Dialogue: 0,0:06:28.73,0:06:30.87,Matsumoto,,0,0,0,,It's probably gonna do that every time you get into a battle.
+Dialogue: 0,0:06:30.10,0:06:30.87,Tanaka,,0,0,0,,Definitely.
+Dialogue: 0,0:06:31.24,0:06:35.87,Hamada,,0,0,0,,{\fad(350,0)\fs60\frz10.34\pos(970.714,510)}UTTERLY
+Dialogue: 0,0:06:31.24,0:06:35.87,Hamada,,0,0,0,,{\fad(350,0)\fs60\frz335\pos(1298.892,697.286)}DEFEATED
+Dialogue: 0,0:06:31.90,0:06:35.67,Default,,0,0,0,,With no good points in his rap, Housei was utterly defeated.
+Dialogue: 0,0:06:36.71,0:06:38.41,Default,,0,0,0,,It's really pouring down.
+Dialogue: 0,0:06:38.44,0:06:39.78,Tanaka,,0,0,0,,It just keeps falling.
+Dialogue: 0,0:06:39.41,0:06:40.45,Matsumoto,,0,0,0,,Let's quit!
+Dialogue: 0,0:06:40.45,0:06:41.78,Housei,,0,0,0,,We're not quitting.
+Dialogue: 0,0:06:42.25,0:06:43.08,Housei,,0,0,0,,Not quitting.
+Dialogue: 0,0:06:43.08,0:06:43.85,Tanaka,,0,0,0,,We're gonna keep at it?
+Dialogue: 0,0:06:43.85,0:06:46.65,Housei,,0,0,0,,I mean, if we were doing it outside I would want to quit too.
+Dialogue: 0,0:06:46.65,0:06:47.72,Housei,,0,0,0,,But we're not really outside.
+Dialogue: 0,0:06:47.72,0:06:49.92,Housei,,0,0,0,,We're doing it under the shade.
+Dialogue: 0,0:06:51.96,0:06:53.29,Endo,,0,0,0,,Someone's coming.
+Dialogue: 0,0:06:53.29,0:06:54.73,Endo,,0,0,0,,Oi, seriously?
+Dialogue: 0,0:06:54.73,0:06:56.26,Endo,,0,0,0,,Someone's coming.
+Dialogue: 0,0:06:57.06,0:06:58.00,Endo,,0,0,0,,You've got to be kidding.
+Dialogue: 0,0:06:58.16,0:07:02.70,Default,,0,0,0,,{\pos(371.25,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:06:58.16,0:07:02.70,Default,,0,0,0,,{\pos(1046.25,907.5)\c&HFFFFFF&\3c&HF4081F&}Old lady
+Dialogue: 0,0:07:07.87,0:07:09.14,vs,,0,0,0,,{\clip(249,1004,524,1080)}Summer this year has been ridiculously hot, it's pissing me off!
+Dialogue: 0,0:07:09.14,0:07:10.28,vs,,0,0,0,,{\clip(239,987,907,1080)}Summer this year has been ridiculously hot, it's pissing me off!
+Dialogue: 0,0:07:10.28,0:07:12.81,vs,,0,0,0,,Summer this year has been ridiculously hot, it's pissing me off!
+Dialogue: 0,0:07:12.81,0:07:14.05,vs,,0,0,0,,{\clip(302,978,639,1080)}I can't sleep at night because I'm soaked with sweat,
+Dialogue: 0,0:07:14.05,0:07:15.31,vs,,0,0,0,,I can't sleep at night because I'm soaked with sweat,
+Dialogue: 0,0:07:15.31,0:07:16.51,vs,,0,0,0,,{\clip(424,992,757,1080)}Mosquitoes bite me, it's itchy! Itchy!
+Dialogue: 0,0:07:16.51,0:07:16.98,vs,,0,0,0,,{\clip(407,999,898,1080)}Mosquitoes bite me, it's itchy! Itchy!
+Dialogue: 0,0:07:16.98,0:07:18.42,vs,,0,0,0,,Mosquitoes bite me, it's itchy! Itchy!
+Dialogue: 0,0:07:18.42,0:07:20.35,vs,,0,0,0,,{\clip(222,903,592,1080)}My appetite goes down, somen is more than enough for one meal!
+Dialogue: 0,0:07:20.35,0:07:21.45,vs,,0,0,0,,{\clip(190,954,1005,1080)}My appetite goes down, somen is more than enough for one meal!
+Dialogue: 0,0:07:21.45,0:07:22.72,vs,,0,0,0,,My appetite goes down, somen is more than enough for one meal!
+Dialogue: 0,0:07:22.72,0:07:23.39,vs,,0,0,0,,{\clip(439,930,581,1080)}Yo, don't you think so too?
+Dialogue: 0,0:07:23.39,0:07:25.22,vs,,0,0,0,,Yo, don't you think so too?
+Dialogue: 0,0:07:25.22,0:07:26.42,vs,,0,0,0,,{\clip(451,948,717,1125)}What the hell do you think?
+Dialogue: 0,0:07:26.42,0:07:29.06,vs,,0,0,0,,What the hell do you think?
+Dialogue: 0,0:07:27.29,0:07:28.53,Tanaka,,0,0,0,,A chance!
+Dialogue: 0,0:07:27.99,0:07:29.83,Endo,,0,0,0,,This is your chance!
+Dialogue: 0,0:07:29.83,0:07:31.60,Endo,,0,0,0,,Make a comeback.
+Dialogue: 0,0:07:31.60,0:07:32.93,Tanaka,,0,0,0,,He can win this one.
+Dialogue: 0,0:07:33.53,0:07:35.13,Matsumoto,,0,0,0,,They're on the same level.
+Dialogue: 0,0:07:35.53,0:07:36.77,Housei,,0,0,0,,{\clip(475,978,711,1080)}Where is your house even at?
+Dialogue: 0,0:07:36.77,0:07:37.94,Housei,,0,0,0,,{\clip(493,960,808,1080)}Where is your house even at?
+Dialogue: 0,0:07:37.94,0:07:40.44,Housei,,0,0,0,,Where is your house even at?
+Dialogue: 0,0:07:40.44,0:07:40.94,Housei,,0,0,0,,{\clip(365,968,691,1080)}What you just said was completely wrong!
+Dialogue: 0,0:07:40.94,0:07:42.77,Housei,,0,0,0,,What you just said was completely wrong!
+Dialogue: 0,0:07:42.77,0:07:43.34,Housei,,0,0,0,,{\clip(334,980,766,1080)}The location of your house is completely wrong!
+Dialogue: 0,0:07:43.34,0:07:45.14,Housei,,0,0,0,,The location of your house is completely wrong!
+Dialogue: 0,0:07:45.14,0:07:46.34,Housei,,0,0,0,,{\clip(331,980,648,1080)}Do you even know why you have to go to work?
+Dialogue: 0,0:07:46.34,0:07:47.58,Housei,,0,0,0,,{\clip(340,993,889,1080)}Do you even know why you have to go to work?
+Dialogue: 0,0:07:47.58,0:07:49.85,Housei,,0,0,0,,Do you even know why you have to go to work?
+Dialogue: 0,0:07:49.85,0:07:50.95,Housei,,0,0,0,,{\clip(403,992,506,1080)}Most of your friends are bad people, Yo!
+Dialogue: 0,0:07:50.95,0:07:51.65,Housei,,0,0,0,,{\clip(405,984,727,1080)}Most of your friends are bad people, Yo!
+Dialogue: 0,0:07:51.65,0:07:52.18,Housei,,0,0,0,,{\clip(414,984,956,1080)}Most of your friends are bad people, Yo!
+Dialogue: 0,0:07:52.18,0:07:54.52,Housei,,0,0,0,,Most of your friends are bad people, Yo!
+Dialogue: 0,0:07:55.05,0:07:56.29,Hamada,,0,0,0,,He sucks.
+Dialogue: 0,0:07:57.89,0:07:59.56,vs,,0,0,0,,{\clip(342,966,599,1080)}I'm fed up with how hot this summer has been!
+Dialogue: 0,0:07:59.56,0:08:00.43,vs,,0,0,0,,I'm fed up with how hot this summer has been!
+Dialogue: 0,0:08:00.43,0:08:02.03,vs,,0,0,0,,{\clip(374,966,639,1080)}I'm fed up with my husband's low salary!
+Dialogue: 0,0:08:02.03,0:08:02.99,vs,,0,0,0,,I'm fed up with my husband's low salary!
+Dialogue: 0,0:08:02.99,0:08:04.43,vs,,0,0,0,,{\clip(457,972,711,1080)}I'm fed up with my useless son!
+Dialogue: 0,0:08:04.43,0:08:05.13,vs,,0,0,0,,I'm fed up with my useless son!
+Dialogue: 0,0:08:05.13,0:08:05.40,vs,,0,0,0,,{\clip(383,981,482,1080)}But Housei, I'm fed up with you the most!
+Dialogue: 0,0:08:05.40,0:08:06.00,vs,,0,0,0,,{\clip(387,981,603,1080)}But Housei, I'm fed up with you the most!
+Dialogue: 0,0:08:06.00,0:08:06.60,vs,,0,0,0,,{\clip(394,966,817,1080)}But Housei, I'm fed up with you the most!
+Dialogue: 0,0:08:06.60,0:08:07.20,vs,,0,0,0,,{\clip(394,972,880,1080)}But Housei, I'm fed up with you the most!
+Dialogue: 0,0:08:07.20,0:08:09.53,vs,,0,0,0,,But Housei, I'm fed up with you the most!
+Dialogue: 0,0:08:09.53,0:08:10.03,vs,,0,0,0,,{\clip(482,936,783,1080)}Good-for-nothing summer!
+Dialogue: 0,0:08:10.03,0:08:12.00,vs,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:08.03,0:08:09.47,Matsumoto,,0,0,0,,Oh, that was good!
+Dialogue: 0,0:08:08.80,0:08:09.47,Endo,,0,0,0,,That was good.
+Dialogue: 0,0:08:12.40,0:08:14.27,vs,,0,0,0,,{\clip(434,948,560,1080)}Hey! Good-for-nothing summer!
+Dialogue: 0,0:08:14.27,0:08:14.91,vs,,0,0,0,,{\clip(464,954,819,1080)}Hey! Good-for-nothing summer!
+Dialogue: 0,0:08:14.91,0:08:16.91,vs,,0,0,0,,Hey! Good-for-nothing summer!
+Dialogue: 0,0:08:13.20,0:08:14.37,Matsumoto,,0,0,0,,Say something back.
+Dialogue: 0,0:08:15.64,0:08:16.84,Matsumoto,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:16.91,0:08:17.38,Housei,,0,0,0,,{\clip(493,951,783,1080)}Good-for-nothing summer!
+Dialogue: 0,0:08:17.38,0:08:19.28,Housei,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:18.11,0:08:20.25,Matsumoto,,0,0,0,,{\pos(372.214,769.285)}He went along with it!
+Dialogue: 0,0:08:18.34,0:08:20.25,Hamada,,0,0,0,,{\pos(561.214,598.714)}He's going\Nalong with it!
+Dialogue: 0,0:08:19.28,0:08:19.91,Housei,,0,0,0,,{\clip(491,980,785,1080)}Good-for-nothing summer!
+Dialogue: 0,0:08:19.91,0:08:23.68,Housei,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:26.18,0:08:27.85,Endo,,0,0,0,,She won.
+Dialogue: 0,0:08:26.82,0:08:27.42,Housei,,0,0,0,,{\clip(511,936,788,1080)}Good-for-nothing summer!
+Dialogue: 0,0:08:27.42,0:08:29.09,Housei,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:29.09,0:08:29.75,vs,,0,0,0,,{\clip(482,908,785,1080)}Good-for-nothing summer!
+Dialogue: 0,0:08:29.75,0:08:31.09,vs,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:31.09,0:08:32.82,Hamada,,0,0,0,,I think she won.
+Dialogue: 0,0:08:32.82,0:08:33.42,Endo,,0,0,0,,Just now...
+Dialogue: 0,0:08:33.42,0:08:36.23,vs,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:33.46,0:08:34.99,Tanaka,,0,0,0,,She beat you...!
+Dialogue: 0,0:08:34.99,0:08:37.53,Hamada,,0,0,0,,Yep. You... you lost...!
+Dialogue: 0,0:08:37.96,0:08:39.86,vs,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:39.86,0:08:42.77,Matsumoto,,0,0,0,,She came up with a really good phrase, that "Good-for-nothing summer".
+Dialogue: 0,0:08:43.07,0:08:46.20,vs,,0,0,0,,Good-for-nothing summer!
+Dialogue: 0,0:08:44.54,0:08:45.80,Endo,,0,0,0,,See, there she goes again.
+Dialogue: 0,0:08:46.47,0:08:47.81,Matsumoto,,0,0,0,,Amazing.
+Dialogue: 0,0:08:48.07,0:08:51.31,Matsumoto,,0,0,0,,I think your rap phrases lack originality.
+Dialogue: 0,0:08:51.78,0:08:53.61,Hamada,,0,0,0,,You need phrases that people will take in.
+Dialogue: 0,0:08:53.18,0:08:55.18,Matsumoto,,0,0,0,,You're not saying anything memorable.
+Dialogue: 0,0:08:55.38,0:08:57.08,Housei,,0,0,0,,{\clip(510,999,673,1080)}Actually, I'm hungry so...
+Dialogue: 0,0:08:57.08,0:08:59.32,Housei,,0,0,0,,Actually, I'm hungry so...
+Dialogue: 0,0:08:59.32,0:09:00.25,Housei,,0,0,0,,{\clip(344,978,585,1080)}I'm hungry so my rhythm is bad at the moment.
+Dialogue: 0,0:09:00.25,0:09:02.05,Housei,,0,0,0,,I'm hungry so my rhythm is bad at the moment.
+Dialogue: 0,0:09:02.05,0:09:04.12,Hamada,,0,0,0,,So you're saying that you'll do better after you eat something?
+Dialogue: 0,0:09:04.12,0:09:04.89,Housei,,0,0,0,,That's right!
+Dialogue: 0,0:09:05.06,0:09:06.16,Housei,,0,0,0,,Let's head in here for a moment then.
+Dialogue: 0,0:09:06.16,0:09:11.73,Default,,0,0,0,,For the sake of Housei, who claims that his rhythm is being\Naffected by hunger, the members take a break at a soba restaurant.
+Dialogue: 0,0:09:12.16,0:09:13.73,vs,,0,0,0,,Thank you for waiting!
+Dialogue: 0,0:09:13.83,0:09:15.83,Housei,,0,0,0,,5 seiro sobas.
+Dialogue: 0,0:09:15.83,0:09:17.64,Matsumoto,,0,0,0,,How do you think we went?
+Dialogue: 0,0:09:19.04,0:09:20.34,Matsumoto,,0,0,0,,How do you think we went?
+Dialogue: 0,0:09:19.57,0:09:20.41,Tanaka,,0,0,0,,After we eat...
+Dialogue: 0,0:09:20.41,0:09:22.04,Housei,,0,0,0,,5 seiro sobas.
+Dialogue: 0,0:09:23.41,0:09:25.44,Housei,,0,0,0,,Ah... I dissed them real good.
+Dialogue: 0,0:09:25.44,0:09:26.41,Matsumoto,,0,0,0,,Did he really?
+Dialogue: 0,0:09:26.41,0:09:29.71,Endo,,0,0,0,,No, I don't think you dissed them that well...
+Dialogue: 0,0:09:30.11,0:09:34.15,Matsumoto,,0,0,0,,It kind of feels like you're at a disadvantage.
+Dialogue: 0,0:09:34.15,0:09:37.46,Hamada,,0,0,0,,Housei stole that old lady's phrase at the very end there.
+Dialogue: 0,0:09:36.19,0:09:38.12,vs,,0,0,0,,Thank you for waiting!
+Dialogue: 0,0:09:38.36,0:09:42.99,Matsumoto,,0,0,0,,He took her best phrase and kind of went along\Nwith it. Maybe he'll do better after we finish eating.
+Dialogue: 0,0:09:42.99,0:09:44.46,Endo,,0,0,0,,This soba looks delicious!
+Dialogue: 0,0:09:44.46,0:09:46.83,Housei,,0,0,0,,It's because I was hungry. I'm just hungry.
+Dialogue: 0,0:09:59.24,0:10:02.81,Default,,0,0,0,,{\pos(366.75,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:09:59.24,0:10:02.81,Default,,0,0,0,,{\pos(1053,907.5)\c&HFFFFFF&\3c&HF4081F&}Salaryman
+Dialogue: 0,0:10:06.35,0:10:06.99,vs,,0,0,0,,{\clip(419,954,501,1026)}Yo, hold up, hold up, do we have here\Nthe comedian who changed his name?
+Dialogue: 0,0:10:06.99,0:10:07.55,vs,,0,0,0,,{\clip(432,968,630,1026)}Yo, hold up, hold up, do we have here\Nthe comedian who changed his name?
+Dialogue: 0,0:10:07.55,0:10:08.12,vs,,0,0,0,,{\clip(434,963,756,1029)}Yo, hold up, hold up, do we have here\Nthe comedian who changed his name?
+Dialogue: 0,0:10:08.12,0:10:09.32,vs,,0,0,0,,{\clip(m 419.625 960 l 419.625 1065 643.5 1066.5 641.25 1032 641.25 1027.5 1091.25 1027.5 1094.625 954)}Yo, hold up, hold up, do we have here\Nthe comedian who changed his name?
+Dialogue: 0,0:10:09.32,0:10:11.36,vs,,0,0,0,,Yo, hold up, hold up, do we have here\Nthe comedian who changed his name?
+Dialogue: 0,0:10:11.36,0:10:13.99,vs,,0,0,0,,{\clip(402,993,680,1077)}Your new name... uh... what was it again?
+Dialogue: 0,0:10:13.99,0:10:15.06,vs,,0,0,0,,{\clip(398,996,749,1080)}Your new name... uh... what was it again?
+Dialogue: 0,0:10:15.06,0:10:16.09,vs,,0,0,0,,Your new name... uh... what was it again?
+Dialogue: 0,0:10:16.09,0:10:17.40,vs,,0,0,0,,{\clip(372,1005,461,1080)}Your name change leaves no impression at all!
+Dialogue: 0,0:10:17.40,0:10:18.53,vs,,0,0,0,,{\clip(374,1004,659,1079)}Your name change leaves no impression at all!
+Dialogue: 0,0:10:18.53,0:10:19.63,vs,,0,0,0,,{\clip(359,996,807,1080)}Your name change leaves no impression at all!
+Dialogue: 0,0:10:19.63,0:10:20.87,vs,,0,0,0,,Your name change leaves no impression at all!
+Dialogue: 0,0:10:20.87,0:10:21.97,vs,,0,0,0,,{\clip(452,968,612,1080)}Nobody knows your new name!
+Dialogue: 0,0:10:21.97,0:10:23.07,vs,,0,0,0,,{\clip(473,986,711,1076)}Nobody knows your new name!
+Dialogue: 0,0:10:23.07,0:10:24.27,vs,,0,0,0,,{\clip(469,974,792,1080)}Nobody knows your new name!
+Dialogue: 0,0:10:24.27,0:10:25.27,vs,,0,0,0,,Nobody knows your new name!
+Dialogue: 0,0:10:32.44,0:10:33.58,vs,,0,0,0,,{\clip(505,981,788,1080)}What's your name anyway?
+Dialogue: 0,0:10:33.58,0:10:35.08,vs,,0,0,0,,What's your name anyway?
+Dialogue: 0,0:10:35.91,0:10:36.98,Hamada,,0,0,0,,What the hell...
+Dialogue: 0,0:10:37.25,0:10:38.22,Housei,,0,0,0,,{\clip(474,996,614,1080)}So you don't know my name?
+Dialogue: 0,0:10:38.22,0:10:39.28,Housei,,0,0,0,,{\clip(482,993,781,1080)}So you don't know my name?
+Dialogue: 0,0:10:39.28,0:10:40.52,Housei,,0,0,0,,So you don't know my name?
+Dialogue: 0,0:10:40.52,0:10:41.62,Housei,,0,0,0,,{\clip(406,984,739,1080)}Where did you guys even come from?
+Dialogue: 0,0:10:41.62,0:10:43.49,Housei,,0,0,0,,Where did you guys even come from?
+Dialogue: 0,0:10:43.49,0:10:44.49,Housei,,0,0,0,,{\clip(466,992,612,1080)}Tell me, that's all I wanna know.
+Dialogue: 0,0:10:44.49,0:10:46.59,Housei,,0,0,0,,Tell me, that's all I wanna know.
+Dialogue: 0,0:10:46.59,0:10:48.79,Housei,,0,0,0,,Before we move on, Yo.
+Dialogue: 0,0:10:48.79,0:10:51.06,Housei,,0,0,0,,{\clip(397,981,641,1080)}Where the hell did you guys come from?
+Dialogue: 0,0:10:51.06,0:10:52.13,Housei,,0,0,0,,{\clip(324,966,838,1080)}Where the hell did you guys come from?
+Dialogue: 0,0:10:52.13,0:10:53.10,Housei,,0,0,0,,Where the hell did you guys come from?
+Dialogue: 0,0:10:53.10,0:10:56.40,Housei,,0,0,0,,Cause I have no idea.
+Dialogue: 0,0:10:57.60,0:10:58.64,vs,,0,0,0,,{\clip(429,986,662,1080)}No one cares about your new name!
+Dialogue: 0,0:10:58.64,0:10:59.84,vs,,0,0,0,,No one cares about your new name!
+Dialogue: 0,0:10:59.84,0:11:00.97,vs,,0,0,0,,{\clip(437,993,657,1080)}No one cares about your new name!
+Dialogue: 0,0:11:00.97,0:11:01.91,vs,,0,0,0,,No one cares about your new name!
+Dialogue: 0,0:11:01.91,0:11:03.24,vs,,0,0,0,,{\clip(448,1008,659,1080)}No one cares about your new name!
+Dialogue: 0,0:11:03.24,0:11:06.24,vs,,0,0,0,,No one cares about your new name!
+Dialogue: 0,0:11:06.24,0:11:07.41,vs,,0,0,0,,What did he just say?
+Dialogue: 0,0:11:07.95,0:11:09.15,Tanaka,,0,0,0,,He dissed you hard.
+Dialogue: 0,0:11:09.15,0:11:10.75,Hamada,,0,0,0,,Those two old ladies were great.
+Dialogue: 0,0:11:10.75,0:11:14.02,vs,,0,0,0,,This is delicious.
+Dialogue: 0,0:11:14.02,0:11:18.09,Matsumoto,,0,0,0,,About those old ladies just before... Were you\Ntrying to get their addresses or something?
+Dialogue: 0,0:11:18.09,0:11:20.69,Tanaka,,0,0,0,,"Where did you come from?"...
+Dialogue: 0,0:11:20.69,0:11:22.66,Matsumoto,,0,0,0,,That "Where did you come from?".
+Dialogue: 0,0:11:23.46,0:11:25.53,Matsumoto,,0,0,0,,Can you really say that?
+Dialogue: 0,0:11:26.43,0:11:27.67,Matsumoto,,0,0,0,,He sucks, doesn't he?
+Dialogue: 0,0:11:27.67,0:11:30.07,Tanaka,,0,0,0,,Absolutely.
+Dialogue: 0,0:11:30.10,0:11:32.74,Matsumoto,,0,0,0,,Saying that is no good. He's really bad at this.
+Dialogue: 0,0:11:32.74,0:11:35.47,Housei,,0,0,0,,I didn't quite know what to say...
+Dialogue: 0,0:11:37.11,0:11:39.01,Tanaka,,0,0,0,,You had nothing to say?
+Dialogue: 0,0:11:39.01,0:11:40.24,Housei,,0,0,0,,I really didn't.
+Dialogue: 0,0:11:40.78,0:11:45.82,Default,,0,0,0,,Defeated 3 times in a row with his unmemorable raps,\NHousei heads into the shopping district once again.
+Dialogue: 0,0:11:45.82,0:11:47.99,Endo,,0,0,0,,Let's try to win at least once.
+Dialogue: 0,0:11:54.03,0:11:55.26,Hamada,,0,0,0,,High school girls...
+Dialogue: 0,0:11:55.76,0:12:01.50,Default,,0,0,0,,{\fad(0,300)\pos(299.25,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:11:55.76,0:12:01.50,Default,,0,0,0,,{\fad(0,300)\pos(1086.75,907.5)\c&HFFFFFF&\3c&HF4081F&}3 high school girls
+Dialogue: 0,0:12:02.57,0:12:03.30,vs,,0,0,0,,{\clip(263,1002,486,1080)}Well, well, what do we have here? Yamasaki?
+Dialogue: 0,0:12:03.30,0:12:03.70,vs,,0,0,0,,{\clip(270,984,936,1080)}Well, well, what do we have here? Yamasaki?
+Dialogue: 0,0:12:03.70,0:12:04.67,vs,,0,0,0,,Well, well, what do we have here? Yamasaki?
+Dialogue: 0,0:12:04.67,0:12:05.17,vs,,0,0,0,,{\clip(423,996,564,1080)}Totally boring as always (Obviously)
+Dialogue: 0,0:12:05.17,0:12:05.74,vs,,0,0,0,,{\clip(430,984,666,1076)}Totally boring as always (Obviously)
+Dialogue: 0,0:12:05.74,0:12:06.37,vs,,0,0,0,,{\clip(442,992,819,1080)}Totally boring as always (Obviously)
+Dialogue: 0,0:12:06.37,0:12:07.37,vs,,0,0,0,,Totally boring as always (Obviously)
+Dialogue: 0,0:12:07.37,0:12:07.97,vs,,0,0,0,,{\clip(402,987,587,1076)}Well, well, haven't you gotten skinnier?
+Dialogue: 0,0:12:07.97,0:12:08.44,vs,,0,0,0,,{\clip(406,990,767,1080)}Well, well, haven't you gotten skinnier?
+Dialogue: 0,0:12:08.44,0:12:09.47,vs,,0,0,0,,Well, well, haven't you gotten skinnier?
+Dialogue: 0,0:12:09.47,0:12:09.81,vs,,0,0,0,,{\clip(356,1002,600,1080)}But in the end, you still look gross (Obviously)
+Dialogue: 0,0:12:09.81,0:12:10.44,vs,,0,0,0,,{\clip(366,993,726,1080)}But in the end, you still look gross (Obviously)
+Dialogue: 0,0:12:10.44,0:12:11.31,vs,,0,0,0,,{\clip(366,992,887,1080)}But in the end, you still look gross (Obviously)
+Dialogue: 0,0:12:11.31,0:12:12.38,vs,,0,0,0,,But in the end, you still look gross (Obviously)
+Dialogue: 0,0:12:12.38,0:12:14.08,Matsumoto,,0,0,0,,Tell him!
+Dialogue: 0,0:12:14.28,0:12:15.18,Housei,,0,0,0,,{\clip(424,1002,537,1080)}Y'all, y'all, what do y'all even know?
+Dialogue: 0,0:12:15.18,0:12:16.18,Housei,,0,0,0,,{\clip(443,987,613,1080)}Y'all, y'all, what do y'all even know?
+Dialogue: 0,0:12:16.18,0:12:17.08,Housei,,0,0,0,,{\clip(443,990,802,1080)}Y'all, y'all, what do y'all even know?
+Dialogue: 0,0:12:17.08,0:12:18.62,Housei,,0,0,0,,Y'all, y'all, what do y'all even know?
+Dialogue: 0,0:12:18.62,0:12:21.19,Housei,,0,0,0,,I don't think you know anything at all, Yo!
+Dialogue: 0,0:12:21.19,0:12:22.05,Housei,,0,0,0,,{\clip(509,986,729,1080)}What do y'all even know?
+Dialogue: 0,0:12:22.05,0:12:23.35,Housei,,0,0,0,,What do y'all even know?
+Dialogue: 0,0:12:23.35,0:12:25.62,Housei,,0,0,0,,That's right, nothing at all!
+Dialogue: 0,0:12:25.62,0:12:26.79,Housei,,0,0,0,,{\clip(252,972,430,1080)}Nothing! Your pigtails are dragging the value of your raps.
+Dialogue: 0,0:12:26.79,0:12:27.76,Housei,,0,0,0,,{\clip(281,999,624,1080)}Nothing! Your pigtails are dragging the value of your raps.
+Dialogue: 0,0:12:27.76,0:12:28.73,Housei,,0,0,0,,{\clip(277,989,815,1080)}Nothing! Your pigtails are dragging the value of your raps.
+Dialogue: 0,0:12:28.73,0:12:29.69,Housei,,0,0,0,,Nothing! Your pigtails are dragging the value of your raps.
+Dialogue: 0,0:12:29.69,0:12:30.46,Housei,,0,0,0,,{\clip(448,999,591,1080)}Down, down, down, down!
+Dialogue: 0,0:12:30.46,0:12:31.03,Housei,,0,0,0,,{\clip(443,992,722,1080)}Down, down, down, down!
+Dialogue: 0,0:12:31.03,0:12:31.20,Housei,,0,0,0,,{\clip(438,999,847,1080)}Down, down, down, down!
+Dialogue: 0,0:12:31.20,0:12:33.30,Housei,,0,0,0,,Down, down, down, down!
+Dialogue: 0,0:12:33.30,0:12:36.37,Endo,,0,0,0,,Doesn't this suck?
+Dialogue: 0,0:12:36.37,0:12:39.04,Tanaka,,0,0,0,,He can't rap at all.
+Dialogue: 0,0:12:39.04,0:12:40.20,vs,,0,0,0,,{\clip(524,963,672,1080)}Baldy! Baldy! Baldy!
+Dialogue: 0,0:12:40.20,0:12:40.51,vs,,0,0,0,,{\clip(551,984,772,1080)}Baldy! Baldy! Baldy!
+Dialogue: 0,0:12:40.51,0:12:42.41,vs,,0,0,0,,Baldy! Baldy! Baldy!
+Dialogue: 0,0:12:42.81,0:12:43.98,vs,,0,0,0,,Baldy! Baldy!
+Dialogue: 0,0:12:46.71,0:12:47.98,Tanaka,,0,0,0,,Make a comeback!
+Dialogue: 0,0:12:48.31,0:12:48.95,vs,,0,0,0,,{\clip(433,969,597,1080)}Your body just keeps on deteriorating!
+Dialogue: 0,0:12:48.95,0:12:49.58,vs,,0,0,0,,{\clip(399,977,799,1080)}Your body just keeps on deteriorating!
+Dialogue: 0,0:12:49.58,0:12:50.68,vs,,0,0,0,,Your body just keeps on deteriorating!
+Dialogue: 0,0:12:50.68,0:12:51.32,vs,,0,0,0,,{\clip(433,990,699,1080)}You're becoming an old man, hahaha!
+Dialogue: 0,0:12:51.32,0:12:51.82,vs,,0,0,0,,{\clip(407,998,875,1080)}You're becoming an old man, hahaha!
+Dialogue: 0,0:12:51.82,0:12:53.15,vs,,0,0,0,,You're becoming an old man, hahaha!
+Dialogue: 0,0:12:53.15,0:12:53.65,vs,,0,0,0,,{\clip(348,998,675,1080)}Your sense of humor just keeps on deteriorating!
+Dialogue: 0,0:12:53.65,0:12:54.22,vs,,0,0,0,,{\clip(342,993,879,1080)}Your sense of humor just keeps on deteriorating!
+Dialogue: 0,0:12:54.22,0:12:55.39,vs,,0,0,0,,Your sense of humor just keeps on deteriorating!
+Dialogue: 0,0:12:55.39,0:12:55.95,vs,,0,0,0,,{\clip(437,1005,700,1080)}You're becoming an old man, hahaha!
+Dialogue: 0,0:12:55.95,0:12:56.59,vs,,0,0,0,,{\clip(428,1011,871,1080)}You're becoming an old man, hahaha!
+Dialogue: 0,0:12:56.59,0:12:59.99,vs,,0,0,0,,You're becoming an old man, hahaha!
+Dialogue: 0,0:13:01.36,0:13:03.29,Tanaka,,0,0,0,,Make a comeback, make a comeback!
+Dialogue: 0,0:13:06.10,0:13:07.73,Hamada,,0,0,0,,He's crying.
+Dialogue: 0,0:13:07.73,0:13:09.07,Endo,,0,0,0,,He started crying.
+Dialogue: 0,0:13:09.07,0:13:11.60,Matsumoto,,0,0,0,,Your face looks like Ichiro Mizuki.
+Dialogue: 0,0:13:09.60,0:13:16.41,vs,,0,0,0,,{\pos(703.125,52.5)\i1}Note: Ichiro Mizuki is a singer famous for writing anime theme songs.
+Dialogue: 0,0:13:12.60,0:13:17.81,Default,,0,0,0,,{\fad(100,0)\fs60\pos(245.892,759.429)}After the break
+Dialogue: 0,0:13:12.60,0:13:17.81,Default,,0,0,0,,{\fad(100,0)\fs60\pos(842.142,870.857)\c&H0F00C0&}That man joins the rap battle...
+Dialogue: 0,0:13:18.28,0:13:24.62,Default,,0,0,0,,Who is the next opponent for Housei, who has not\Nbeen able to construct a memorable rap up until now!?
+Dialogue: 0,0:13:24.98,0:13:28.42,Housei,,0,0,0,,I'll heat up the opponent and then beat them down.
+Dialogue: 0,0:13:29.25,0:13:32.89,Default,,0,0,0,,{\pos(364.5,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:13:29.25,0:13:32.89,Default,,0,0,0,,{\pos(1019.25,907.5)\c&HFFFFFF&\3c&HF4081F&}Mother and child
+Dialogue: 0,0:13:30.86,0:13:32.06,Endo,,0,0,0,,Seriously?
+Dialogue: 0,0:13:33.16,0:13:34.33,Hamada,,0,0,0,,These kind of people are joining in?
+Dialogue: 0,0:13:34.33,0:13:34.83,vs,,0,0,0,,{\clip(493,1004,609,1080)}Wow! Wow! It's Downtown!
+Dialogue: 0,0:13:34.83,0:13:35.63,vs,,0,0,0,,{\clip(511,996,700,1080)}Wow! Wow! It's Downtown!
+Dialogue: 0,0:13:35.63,0:13:36.86,vs,,0,0,0,,Wow! Wow! It's Downtown!
+Dialogue: 0,0:13:36.86,0:13:37.30,vs,,0,0,0,,{\clip(516,1008,623,1077)}Wow! Wow! It's Cocorico!
+Dialogue: 0,0:13:37.30,0:13:38.03,vs,,0,0,0,,{\clip(522,1004,712,1080)}Wow! Wow! It's Cocorico!
+Dialogue: 0,0:13:38.03,0:13:39.26,vs,,0,0,0,,Wow! Wow! It's Cocorico!
+Dialogue: 0,0:13:39.26,0:13:39.73,vs,,0,0,0,,{\clip(477,999,696,1080)}They're really, really, really cool!
+Dialogue: 0,0:13:39.73,0:13:40.20,vs,,0,0,0,,{\clip(478,990,793,1080)}They're really, really, really cool!
+Dialogue: 0,0:13:40.20,0:13:41.53,vs,,0,0,0,,They're really, really, really cool!
+Dialogue: 0,0:13:41.53,0:13:42.57,vs,,0,0,0,,{\clip(531,987,744,1080)}I love them, yay yay!
+Dialogue: 0,0:13:42.57,0:13:42.90,vs,,0,0,0,,{\clip(546,999,804,1080)}I love them, yay yay!
+Dialogue: 0,0:13:42.90,0:13:44.07,vs,,0,0,0,,I love them, yay yay!
+Dialogue: 0,0:13:44.07,0:13:44.54,vs,,0,0,0,,{\clip(542,1013,631,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:44.54,0:13:45.24,vs,,0,0,0,,{\clip(536,989,704,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:45.24,0:13:45.94,vs,,0,0,0,,{\clip(473,966,812,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:45.94,0:13:46.54,vs,,0,0,0,,Boo, boo, Housei boo!
+Dialogue: 0,0:13:46.54,0:13:47.07,vs,,0,0,0,,{\clip(518,993,633,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:47.07,0:13:47.77,vs,,0,0,0,,{\clip(537,1008,704,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:47.77,0:13:48.37,vs,,0,0,0,,{\clip(537,992,815,1080)}Boo, boo, Housei boo!
+Dialogue: 0,0:13:48.37,0:13:48.97,vs,,0,0,0,,Boo, boo, Housei boo!
+Dialogue: 0,0:13:48.97,0:13:49.57,vs,,0,0,0,,{\clip(432,980,568,1080)}Really boring, seriously annoying!
+Dialogue: 0,0:13:49.57,0:13:51.38,vs,,0,0,0,,{\clip(451,993,678,1080)}Really boring, seriously annoying!
+Dialogue: 0,0:13:51.38,0:13:53.51,vs,,0,0,0,,Really boring, seriously annoying!
+Dialogue: 0,0:13:54.21,0:13:55.38,Endo,,0,0,0,,Do your best, Housei!
+Dialogue: 0,0:13:57.92,0:13:59.55,Housei,,0,0,0,,{\clip(475,1005,744,1077)}Don't make such grand claims.
+Dialogue: 0,0:13:59.55,0:14:00.38,Housei,,0,0,0,,Don't make such grand claims.
+Dialogue: 0,0:14:00.38,0:14:01.49,Housei,,0,0,0,,{\clip(313,1011,500,1080)}While your nose is running! Your nose is running Yo!
+Dialogue: 0,0:14:01.49,0:14:02.72,Housei,,0,0,0,,{\clip(304,990,743,1080)}While your nose is running! Your nose is running Yo!
+Dialogue: 0,0:14:02.72,0:14:03.29,Housei,,0,0,0,,{\clip(312,993,822,1080)}While your nose is running! Your nose is running Yo!
+Dialogue: 0,0:14:03.29,0:14:05.02,Housei,,0,0,0,,While your nose is running! Your nose is running Yo!
+Dialogue: 0,0:14:05.02,0:14:06.92,Housei,,0,0,0,,Your nose is running Yo!
+Dialogue: 0,0:14:06.92,0:14:07.69,vs,,0,0,0,,{\clip(333,981,545,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:07.69,0:14:08.29,vs,,0,0,0,,{\clip(339,996,793,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:08.29,0:14:09.23,vs,,0,0,0,,When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:08.29,0:14:09.43,Housei,,0,0,0,,{\pos(720,918)\clip(209,848,560,944)}Your nose is running! Your nose is running! Your nose is running!
+Dialogue: 0,0:14:09.43,0:14:10.03,Housei,,0,0,0,,{\pos(720,918)\clip(209,849,883,933)}Your nose is running! Your nose is running! Your nose is running!
+Dialogue: 0,0:14:10.03,0:14:11.86,Housei,,0,0,0,,{\pos(720,918)}Your nose is running! Your nose is running! Your nose is running!
+Dialogue: 0,0:14:09.23,0:14:10.03,vs,,0,0,0,,{\clip(334,978,546,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:10.03,0:14:10.70,vs,,0,0,0,,{\clip(325,996,795,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:10.70,0:14:11.86,vs,,0,0,0,,When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:11.86,0:14:14.30,vs,,0,0,0,,{\clip(441,1005,641,1080)}ZAPPING! Change the channel!
+Dialogue: 0,0:14:14.30,0:14:16.80,vs,,0,0,0,,ZAPPING! Change the channel!
+Dialogue: 0,0:14:11.86,0:14:13.13,Housei,,0,0,0,,{\pos(720,918)\clip(412,849,740,941)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:13.13,0:14:13.43,Housei,,0,0,0,,{\pos(720,918)\clip(415,855,880,944)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:13.43,0:14:14.30,Housei,,0,0,0,,{\pos(720,918)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:14.30,0:14:15.57,Housei,,0,0,0,,{\pos(720,918)\clip(411,858,740,954)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:15.57,0:14:15.90,Housei,,0,0,0,,{\pos(720,918)\clip(405,858,880,942)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:15.90,0:14:16.80,Housei,,0,0,0,,{\pos(720,918)}Your nose is running! Running! Running!
+Dialogue: 0,0:14:16.80,0:14:17.44,vs,,0,0,0,,{\clip(336,993,545,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:17.44,0:14:18.07,vs,,0,0,0,,{\clip(340,996,794,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:18.07,0:14:19.27,vs,,0,0,0,,When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:17.44,0:14:17.74,Housei,,0,0,0,,{\pos(720,918)\clip(412,855,559,936)}Running! Running! Your nose is running!
+Dialogue: 0,0:14:17.74,0:14:18.07,Housei,,0,0,0,,{\pos(720,918)\clip(411,846,702,938)}Running! Running! Your nose is running!
+Dialogue: 0,0:14:18.07,0:14:19.27,Housei,,0,0,0,,{\pos(720,918)}Running! Running! Your nose is running!
+Dialogue: 0,0:14:19.27,0:14:19.87,vs,,0,0,0,,{\clip(344,989,547,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:19.87,0:14:20.50,vs,,0,0,0,,{\clip(329,1008,794,1080)}When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:20.50,0:14:21.67,vs,,0,0,0,,When Housei shows up on TV, change the channel!
+Dialogue: 0,0:14:19.27,0:14:19.87,Housei,,0,0,0,,{\pos(720,918)\clip(338,857,488,939)}Running! Running! Running! Your nose is running!
+Dialogue: 0,0:14:19.87,0:14:20.14,Housei,,0,0,0,,{\pos(720,918)\clip(334,843,630,948)}Running! Running! Running! Your nose is running!
+Dialogue: 0,0:14:20.14,0:14:20.50,Housei,,0,0,0,,{\pos(720,918)\clip(344,857,774,950)}Running! Running! Running! Your nose is running!
+Dialogue: 0,0:14:20.50,0:14:21.67,Housei,,0,0,0,,{\pos(720,918)}Running! Running! Running! Your nose is running!
+Dialogue: 0,0:14:21.67,0:14:24.14,vs,,0,0,0,,{\clip(474,1001,645,1080)}ZAPPING! Change the channel!
+Dialogue: 0,0:14:24.14,0:14:27.08,vs,,0,0,0,,ZAPPING! Change the channel!
+Dialogue: 0,0:14:22.94,0:14:23.21,Housei,,0,0,0,,{\pos(720,918)\clip(560,857,721,960)}Running! Running!
+Dialogue: 0,0:14:23.21,0:14:24.14,Housei,,0,0,0,,{\pos(720,918)}Running! Running!
+Dialogue: 0,0:14:24.14,0:14:24.71,Housei,,0,0,0,,{\pos(720,918)\clip(322,821,686,965)}Your nose is running! Your nose is running! Yay!
+Dialogue: 0,0:14:24.71,0:14:25.28,Housei,,0,0,0,,{\pos(720,918)\clip(360,864,1004,950)}Your nose is running! Your nose is running! Yay!
+Dialogue: 0,0:14:25.28,0:14:27.08,Housei,,0,0,0,,{\pos(720,918)}Your nose is running! Your nose is running! Yay!
+Dialogue: 0,0:14:28.48,0:14:29.61,Hamada,,0,0,0,,No, that was nothing to celebrate.
+Dialogue: 0,0:14:32.48,0:14:35.09,Matsumoto,,0,0,0,,You said nothing but "Your nose is running".
+Dialogue: 0,0:14:33.58,0:14:35.09,Hamada,,0,0,0,,Don't say that.
+Dialogue: 0,0:14:35.09,0:14:36.42,Endo,,0,0,0,,You said nothing but "Your nose is running".
+Dialogue: 0,0:14:36.55,0:14:38.72,Matsumoto,,0,0,0,,You didn't go with the rhythm at all.
+Dialogue: 0,0:14:37.92,0:14:39.52,Tanaka,,0,0,0,,That's right.
+Dialogue: 0,0:14:40.09,0:14:42.86,Matsumoto,,0,0,0,,The only thing you said was "running, running, running, running"!
+Dialogue: 0,0:14:48.50,0:14:49.27,Hamada,,0,0,0,,Eh?
+Dialogue: 0,0:14:49.27,0:14:50.80,Endo,,0,0,0,,Seriously?
+Dialogue: 0,0:14:51.14,0:14:54.67,Default,,0,0,0,,{\pos(375.75,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:14:51.14,0:14:54.67,Default,,0,0,0,,{\pos(1055.25,907.5)\c&HFFFFFF&\3c&HF4081F&}Old man
+Dialogue: 0,0:14:53.64,0:14:56.27,vs,,0,0,0,,Housei!
+Dialogue: 0,0:14:58.54,0:14:59.88,vs,,0,0,0,,{\clip(438,993,621,1080)}Listen to my dream yo, yay, yay!
+Dialogue: 0,0:14:59.88,0:15:01.18,vs,,0,0,0,,{\clip(455,992,768,1080)}Listen to my dream yo, yay, yay!
+Dialogue: 0,0:15:01.18,0:15:02.08,vs,,0,0,0,,{\clip(429,990,822,1080)}Listen to my dream yo, yay, yay!
+Dialogue: 0,0:15:02.08,0:15:04.25,vs,,0,0,0,,Listen to my dream yo, yay, yay!
+Dialogue: 0,0:15:04.25,0:15:05.35,vs,,0,0,0,,{\clip(378,999,567,1080)}My dream is to collect figurines, yay, yay!
+Dialogue: 0,0:15:05.35,0:15:06.48,vs,,0,0,0,,{\clip(388,993,640,1080)}My dream is to collect figurines, yay, yay!
+Dialogue: 0,0:15:06.48,0:15:07.42,vs,,0,0,0,,{\clip(410,1004,743,1080)}My dream is to collect figurines, yay, yay!
+Dialogue: 0,0:15:07.42,0:15:08.25,vs,,0,0,0,,{\clip(394,1005,888,1080)}My dream is to collect figurines, yay, yay!
+Dialogue: 0,0:15:08.25,0:15:10.39,vs,,0,0,0,,My dream is to collect figurines, yay, yay!
+Dialogue: 0,0:15:10.89,0:15:12.12,vs,,0,0,0,,{\clip(403,993,545,1080)}Housei, let me hear your dream too, yay!
+Dialogue: 0,0:15:12.12,0:15:13.06,vs,,0,0,0,,{\clip(421,1001,711,1074)}Housei, let me hear your dream too, yay!
+Dialogue: 0,0:15:13.06,0:15:14.09,vs,,0,0,0,,{\clip(394,992,887,1080)}Housei, let me hear your dream too, yay!
+Dialogue: 0,0:15:14.09,0:15:15.03,vs,,0,0,0,,{\clip(390,969,952,1080)}Housei, let me hear your dream too, yay!
+Dialogue: 0,0:15:15.03,0:15:16.06,vs,,0,0,0,,Housei, let me hear your dream too, yay!
+Dialogue: 0,0:15:16.06,0:15:17.16,Housei,,0,0,0,,{\clip(316,963,518,1080)}My dream is to live in a room full of curtains, Yo!
+Dialogue: 0,0:15:17.16,0:15:18.30,Housei,,0,0,0,,{\clip(331,966,649,1080)}My dream is to live in a room full of curtains, Yo!
+Dialogue: 0,0:15:18.30,0:15:19.96,Housei,,0,0,0,,{\clip(349,993,792,1080)}My dream is to live in a room full of curtains, Yo!
+Dialogue: 0,0:15:19.96,0:15:22.47,Housei,,0,0,0,,My dream is to live in a room full of curtains, Yo!
+Dialogue: 0,0:15:22.47,0:15:23.63,Housei,,0,0,0,,{\clip(438,992,678,1080)}Do you get it? Do you understand?
+Dialogue: 0,0:15:23.63,0:15:24.50,Housei,,0,0,0,,Do you get it? Do you understand?
+Dialogue: 0,0:15:24.50,0:15:26.67,Housei,,0,0,0,,I want a lot of curtains in my room!
+Dialogue: 0,0:15:26.67,0:15:27.61,Housei,,0,0,0,,{\clip(487,992,606,1080)}And, you get it don't you?
+Dialogue: 0,0:15:27.61,0:15:28.11,Housei,,0,0,0,,{\clip(502,974,752,1080)}And, you get it don't you?
+Dialogue: 0,0:15:28.11,0:15:30.98,Housei,,0,0,0,,{\clip(507,996,914,1080)}And, you get it don't you?
+Dialogue: 0,0:15:30.98,0:15:31.48,vs,,0,0,0,,{\clip(455,998,496,1077)}I understand that much, yay, yay!
+Dialogue: 0,0:15:31.48,0:15:32.04,vs,,0,0,0,,{\clip(453,989,667,1080)}I understand that much, yay, yay!
+Dialogue: 0,0:15:32.04,0:15:32.81,vs,,0,0,0,,{\clip(453,984,734,1080)}I understand that much, yay, yay!
+Dialogue: 0,0:15:32.81,0:15:33.98,vs,,0,0,0,,{\clip(444,998,830,1080)}I understand that much, yay, yay!
+Dialogue: 0,0:15:33.98,0:15:35.35,vs,,0,0,0,,I understand that much, yay, yay!
+Dialogue: 0,0:15:35.35,0:15:36.35,Housei,,0,0,0,,{\clip(510,980,716,1080)}Let's fulfill our wishes!
+Dialogue: 0,0:15:36.35,0:15:39.55,Housei,,0,0,0,,Let's fulfill our wishes!
+Dialogue: 0,0:15:38.12,0:15:39.55,vs,,0,0,0,,{\pos(720,918)}Thank you!
+Dialogue: 0,0:15:39.55,0:15:40.08,vs,,0,0,0,,{\clip(558,980,672,1080)}I'll try my best too.
+Dialogue: 0,0:15:40.08,0:15:41.22,vs,,0,0,0,,I'll try my best too.
+Dialogue: 0,0:15:41.22,0:15:42.22,vs,,0,0,0,,{\clip(333,980,527,1080)}So Housei, try your best even when you lose, Yo!
+Dialogue: 0,0:15:42.22,0:15:43.12,vs,,0,0,0,,{\clip(322,980,721,1080)}So Housei, try your best even when you lose, Yo!
+Dialogue: 0,0:15:43.12,0:15:43.92,vs,,0,0,0,,So Housei, try your best even when you lose, Yo!
+Dialogue: 0,0:15:43.92,0:15:46.56,Housei,,0,0,0,,Try your best, Yo.
+Dialogue: 0,0:15:51.23,0:15:53.36,vs,,0,0,0,,Laters.
+Dialogue: 0,0:15:55.47,0:15:56.50,Housei,,0,0,0,,How did I do?
+Dialogue: 0,0:15:56.50,0:15:58.10,Matsumoto,,0,0,0,,{\clip(378,1001,779,1080)}The part about the curtain was unnecessary.
+Dialogue: 0,0:15:58.10,0:15:59.50,Matsumoto,,0,0,0,,The part about the curtain was unnecessary.
+Dialogue: 0,0:15:59.50,0:16:00.57,Matsumoto,,0,0,0,,{\clip(237,986,667,1080)}The moment you said that, you both started rapping together.
+Dialogue: 0,0:16:00.57,0:16:03.27,Matsumoto,,0,0,0,,The moment you said that, you both started rapping together.
+Dialogue: 0,0:16:03.31,0:16:05.58,Matsumoto,,0,0,0,,That 'curtain' part.
+Dialogue: 0,0:16:06.61,0:16:08.31,Endo,,0,0,0,,You've been sweating a lot though.
+Dialogue: 0,0:16:08.38,0:16:10.01,Housei,,0,0,0,,{\clip(169,987,763,1080)}When I got to the bit about the curtain, I just exploded in a ball of sweat.
+Dialogue: 0,0:16:10.01,0:16:12.38,Housei,,0,0,0,,When I got to the bit about the curtain, I just exploded in a ball of sweat.
+Dialogue: 0,0:16:13.75,0:16:15.79,Housei,,0,0,0,,Well in the end,
+Dialogue: 0,0:16:15.79,0:16:17.86,Housei,,0,0,0,,we both found some common ground.
+Dialogue: 0,0:16:17.86,0:16:20.19,Matsumoto,,0,0,0,,Common ground is no good.
+Dialogue: 0,0:16:20.19,0:16:25.03,Housei,,0,0,0,,But that's what rap is all about, isn't it?
+Dialogue: 0,0:16:26.43,0:16:28.47,Matsumoto,,0,0,0,,Seriously, let's stop now.
+Dialogue: 0,0:16:29.67,0:16:31.14,Endo,,0,0,0,,Let's go back.
+Dialogue: 0,0:16:31.64,0:16:33.00,Hamada,,0,0,0,,It just went "bang" up there.
+Dialogue: 0,0:16:34.87,0:16:37.07,Housei,,0,0,0,,Before we leave, Yo.
+Dialogue: 0,0:16:38.38,0:16:40.08,Housei,,0,0,0,,{\clip(290,951,529,1080)}What the hell is up with you? What are you doing Yo?
+Dialogue: 0,0:16:40.08,0:16:40.81,Housei,,0,0,0,,{\clip(300,984,756,1080)}What the hell is up with you? What are you doing Yo?
+Dialogue: 0,0:16:40.81,0:16:42.18,Housei,,0,0,0,,What the hell is up with you? What are you doing Yo?
+Dialogue: 0,0:16:42.51,0:16:46.28,Housei,,0,0,0,,At least say one word, Yo! What's with that face?
+Dialogue: 0,0:16:46.28,0:16:48.99,Housei,,0,0,0,,{\clip(257,998,960,1080)}What are you doing with that face? At least say one word, Yo!
+Dialogue: 0,0:16:48.99,0:16:49.55,Housei,,0,0,0,,{\clip(263,1001,1112,1080)}What are you doing with that face? At least say one word, Yo!
+Dialogue: 0,0:16:49.55,0:16:50.65,Housei,,0,0,0,,What are you doing with that face? At least say one word, Yo!
+Dialogue: 0,0:16:42.68,0:16:47.52,Default,,0,0,0,,{\pos(384.75,907.5)\c&HFFFFFF&\3c&H0F00C0&}Housei Tsukitei
+Dialogue: 0,0:16:42.68,0:16:47.52,Default,,0,0,0,,{\pos(1048.5,907.5)\c&HFFFFFF&\3c&HF4081F&}Producer Nakamura
+Dialogue: 0,0:16:53.36,0:16:54.46,vs,,0,0,0,,{\clip(453,978,564,1080)}I am, I am this show's producer.
+Dialogue: 0,0:16:54.46,0:16:56.43,vs,,0,0,0,,I am, I am this show's producer.
+Dialogue: 0,0:16:56.43,0:16:56.99,vs,,0,0,0,,{\clip(501,986,711,1080)}You're just a comedian!
+Dialogue: 0,0:16:56.99,0:16:59.50,vs,,0,0,0,,You're just a comedian!
+Dialogue: 0,0:16:58.43,0:17:00.43,Hamada,,0,0,0,,{\pos(293.464,834.429)}Please come through.
+Dialogue: 0,0:16:59.50,0:17:00.40,vs,,0,0,0,,{\clip(195,984,604,1080)}How can you be making these unreasonable requests Yo, Yo, Yo!
+Dialogue: 0,0:17:00.40,0:17:01.17,vs,,0,0,0,,{\clip(226,981,1080,1080)}How can you be making these unreasonable requests Yo, Yo, Yo!
+Dialogue: 0,0:17:01.17,0:17:01.67,vs,,0,0,0,,{\clip(209,987,1135,1080)}How can you be making these unreasonable requests Yo, Yo, Yo!
+Dialogue: 0,0:17:01.67,0:17:03.00,vs,,0,0,0,,How can you be making these unreasonable requests Yo, Yo, Yo!
+Dialogue: 0,0:17:03.03,0:17:04.34,Hamada,,0,0,0,,Sorry.
+Dialogue: 0,0:17:04.34,0:17:08.31,Hamada,,0,0,0,,We're sorry for the inconvenience.
+Dialogue: 0,0:17:10.21,0:17:11.31,Housei,,0,0,0,,{\clip(434,993,522,1080)}Oi, tell me about your personality!
+Dialogue: 0,0:17:11.31,0:17:12.98,Housei,,0,0,0,,{\clip(441,980,717,1080)}Oi, tell me about your personality!
+Dialogue: 0,0:17:12.98,0:17:13.88,Housei,,0,0,0,,{\clip(446,989,790,1080)}Oi, tell me about your personality!
+Dialogue: 0,0:17:13.88,0:17:15.11,Housei,,0,0,0,,Oi, tell me about your personality!
+Dialogue: 0,0:17:15.11,0:17:16.28,Housei,,0,0,0,,{\clip(325,996,528,1080)}What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:16.28,0:17:17.48,Housei,,0,0,0,,{\clip(320,981,767,1080)}What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:17.48,0:17:18.65,Housei,,0,0,0,,{\clip(313,977,923,1080)}What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:18.65,0:17:18.98,Housei,,0,0,0,,{\clip(257,990,979,1080)}What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:18.98,0:17:19.28,Housei,,0,0,0,,{\clip(330,993,1033,1080)}What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:19.28,0:17:19.85,Housei,,0,0,0,,What's your personality like, tell me Yo, Yo, Yo, Yo!
+Dialogue: 0,0:17:22.05,0:17:23.92,Matsumoto,,0,0,0,,It's almost...
+Dialogue: 0,0:17:23.92,0:17:25.02,vs,,0,0,0,,{\clip(405,996,493,1080)}My, my personality is always the same.
+Dialogue: 0,0:17:25.02,0:17:26.19,vs,,0,0,0,,{\clip(420,996,550,1080)}My, my personality is always the same.
+Dialogue: 0,0:17:26.19,0:17:28.63,vs,,0,0,0,,{\clip(421,986,718,1080)}My, my personality is always the same.
+Dialogue: 0,0:17:28.63,0:17:29.36,vs,,0,0,0,,{\clip(412,1002,861,1080)}My, my personality is always the same.
+Dialogue: 0,0:17:29.36,0:17:31.16,vs,,0,0,0,,My, my personality is always the same.
+Dialogue: 0,0:17:31.10,0:17:34.07,Endo,,0,0,0,,{\pos(720,918)}That's it for today.
+Dialogue: 0,0:17:31.16,0:17:32.43,vs,,0,0,0,,{\clip(462,992,684,1080)}I've got guts, I've got guts, yay!
+Dialogue: 0,0:17:32.43,0:17:34.07,vs,,0,0,0,,{\clip(457,993,884,1080)}I've got guts, I've got guts, yay!
+Dialogue: 0,0:17:34.07,0:17:36.07,vs,,0,0,0,,I've got guts, I've got guts, yay!
+Dialogue: 0,0:17:36.07,0:17:36.57,Housei,,0,0,0,,{\clip(506,986,716,1080)}What guts? What guys?
+Dialogue: 0,0:17:36.57,0:17:38.34,Housei,,0,0,0,,What guts? What guys?
+Dialogue: 0,0:17:38.34,0:17:38.80,Housei,,0,0,0,,{\clip(531,998,695,1080)}What guts do you have?
+Dialogue: 0,0:17:38.80,0:17:40.17,Housei,,0,0,0,,What guts do you have?
+Dialogue: 0,0:17:40.17,0:17:41.27,Housei,,0,0,0,,{\clip(291,972,447,1080)}Tell me, what guts with that same old personality, Yo?
+Dialogue: 0,0:17:41.27,0:17:42.64,Housei,,0,0,0,,{\clip(300,989,600,1080)}Tell me, what guts with that same old personality, Yo?
+Dialogue: 0,0:17:42.64,0:17:43.61,Housei,,0,0,0,,Tell me, what guts with that same old personality, Yo?
+Dialogue: 0,0:17:43.61,0:17:44.78,vs,,0,0,0,,{\clip(340,998,552,1080)}The way I act at work, at home, and anywhere else.
+Dialogue: 0,0:17:44.78,0:17:46.01,vs,,0,0,0,,{\clip(331,972,672,1080)}The way I act at work, at home, and anywhere else.
+Dialogue: 0,0:17:46.01,0:17:47.24,vs,,0,0,0,,{\clip(304,978,803,1080)}The way I act at work, at home, and anywhere else.
+Dialogue: 0,0:17:47.24,0:17:48.51,vs,,0,0,0,,The way I act at work, at home, and anywhere else.
+Dialogue: 0,0:17:48.51,0:17:50.55,vs,,0,0,0,,Is exactly the same!
+Dialogue: 0,0:17:51.28,0:17:52.02,vs,,0,0,0,,{\clip(457,987,671,1080)}Was today's project a success?
+Dialogue: 0,0:17:52.02,0:17:53.82,vs,,0,0,0,,{\clip(469,990,784,1080)}Was today's project a success?
+Dialogue: 0,0:17:53.82,0:17:54.95,vs,,0,0,0,,Was today's project a success?
+Dialogue: 0,0:17:54.95,0:17:55.89,Housei,,0,0,0,,{\clip(475,989,756,1080)}Even if it wasn't, I still did it!
+Dialogue: 0,0:17:55.89,0:17:56.69,Housei,,0,0,0,,{\clip(482,999,838,1080)}Even if it wasn't, I still did it!
+Dialogue: 0,0:17:56.69,0:17:59.46,Housei,,0,0,0,,Even if it wasn't, I still did it!
+Dialogue: 0,0:17:59.42,0:18:01.36,Housei,,0,0,0,,I did it, Yo!
+Dialogue: 0,0:18:01.19,0:18:03.73,Matsumoto,,0,0,0,,{\pos(720,918)}Look at that group of children.
+Dialogue: 0,0:18:01.83,0:18:05.96,vs,,0,0,0,,What you just said makes no sense!
+Dialogue: 0,0:18:07.10,0:18:08.03,Matsumoto,,0,0,0,,{\clip(406,984,668,1080)}They're going to traumatize the children.
+Dialogue: 0,0:18:08.03,0:18:10.43,Matsumoto,,0,0,0,,They're going to traumatize the children.
+Dialogue: 0,0:18:10.70,0:19:10.39,credit,,0,0,0,,{\pos(1118.25,54)}Subbed by J-Hive
+Dialogue: 0,0:18:10.70,0:19:10.39,credit,,0,0,0,,{\pos(1118.25,93)}j-hive.weebly.com
+Dialogue: 0,0:18:16.11,0:18:17.94,Tanaka,,0,0,0,,Yes
+Dialogue: 0,0:18:17.94,0:18:22.35,Tanaka,,0,0,0,,Few days ago in the meeting, Matsumoto-san said that
+Dialogue: 0,0:18:22.35,0:18:27.52,Tanaka,,0,0,0,,if we did a {\i1}Kiki Starbucks{\i0}, he'd get it hands down.
+Dialogue: 0,0:18:27.52,0:18:31.42,Tanaka,,0,0,0,,Do you remember saying that, Matsumoto-san?
+Dialogue: 0,0:18:31.42,0:18:36.13,Matsumoto,,0,0,0,,Honestly, it ain't even funny...
+Dialogue: 0,0:18:34.49,0:18:36.19,Hamada,,0,0,0,,so you'll get it right for sure.
+Dialogue: 0,0:18:36.13,0:18:38.86,Matsumoto,,0,0,0,,There won't be anything happening.
+Dialogue: 0,0:18:38.86,0:18:41.63,Matsumoto,,0,0,0,,Seriously, I'll get it right like nothing happened and just end it.
+Dialogue: 0,0:18:41.67,0:18:43.53,Tanaka,,0,0,0,,We'd like to see it.
+Dialogue: 0,0:18:42.87,0:18:45.90,Hamada,,0,0,0,,That just goes to shows us how much you consume it.
+Dialogue: 0,0:18:44.87,0:18:45.90,Tanaka,,0,0,0,,Yes, yes.
+Dialogue: 0,0:18:46.30,0:18:50.37,Narrarator,,0,0,0,,Emergency Planning, Matsumoto's "Kiki Starbucks" Challenge!
+Dialogue: 0,0:18:50.37,0:18:57.52,Narrarator,,0,0,0,,Out of the 10 coffee shop chains, will Matsumoto identify Starbucks' coffee?
+Dialogue: 0,0:18:57.52,0:19:01.52,Matsumoto,,0,0,0,,First of all, I can pretty much tell from the foam in the coffee.
+Dialogue: 0,0:18:59.08,0:19:01.49,Hamada,,0,0,0,,You're doing it without sampling it first then.
+Dialogue: 0,0:19:01.49,0:19:02.49,Housei,,0,0,0,,Without sampling?
+Dialogue: 0,0:19:02.25,0:19:05.02,Tanaka,,0,0,0,,Looks like you've already got this one in the bag.
+Dialogue: 0,0:19:04.49,0:19:05.92,Hamada,,0,0,0,,The ones without foam are wrong.
+Dialogue: 0,0:19:06.02,0:19:10.29,Matsumoto,,0,0,0,,The ones without the foam isn't from Starbucks.
+Dialogue: 0,0:19:10.33,0:19:13.50,Matsumoto,,0,0,0,,StarBucks' coffee has foam on top.
+Dialogue: 0,0:19:13.53,0:19:19.00,Matsumoto,,0,0,0,,In that case, the ones out of the question are E and H.
+Dialogue: 0,0:19:19.00,0:19:20.57,Matsumoto,,0,0,0,,"I" as well.
+Dialogue: 0,0:19:20.57,0:19:22.27,Matsumoto,,0,0,0,,You can just exclude them.
+Dialogue: 0,0:19:22.27,0:19:25.44,Hamada,,0,0,0,,We'll now be looking for the right one.
+Dialogue: 0,0:19:23.51,0:19:25.44,Matsumoto,,0,0,0,,There's no foam.
+Dialogue: 0,0:19:25.44,0:19:27.08,Hamada,,0,0,0,,{\pos(603,870)}You can stay in the back.
+Dialogue: 0,0:19:25.78,0:19:31.18,License,,0,0,0,,{\fad(300,300)\pos(731.25,930)}※ Please enjoy without knowing the correct answer
+Dialogue: 0,0:19:27.08,0:19:29.85,Hamada,,0,0,0,,{\pos(603,870)}Please tell us the correct one.
+Dialogue: 0,0:19:31.45,0:19:34.65,Hamada,,0,0,0,,You can take em off now, Matsumoto-san.
+Dialogue: 0,0:19:32.22,0:19:34.65,Housei,,0,0,0,,The ones without foam are wrong.
+Dialogue: 0,0:19:33.58,0:19:34.65,Matsumoto,,0,0,0,,Yeah, yeah.
+Dialogue: 0,0:19:34.65,0:19:36.92,Matsumoto,,0,0,0,,Starbucks' coffee has foam on top.
+Dialogue: 0,0:19:36.92,0:19:38.82,Matsumoto,,0,0,0,,There's no refuting it!
+Dialogue: 0,0:19:38.86,0:19:42.26,Hamada,,0,0,0,,Anyway, have a taste and tell us if it's wrong or...
+Dialogue: 0,0:19:41.86,0:19:44.56,Matsumoto,,0,0,0,,It's not even going to be funny, is it alright?
+Dialogue: 0,0:19:44.56,0:19:47.00,Tanaka,,0,0,0,,We'd like to see you get it right.
+Dialogue: 0,0:19:47.00,0:19:47.90,Matsumoto,,0,0,0,,You sure?
+Dialogue: 0,0:19:47.83,0:19:48.77,Endo,,0,0,0,,Yes.
+Dialogue: 0,0:19:48.80,0:19:50.63,Matsumoto,,0,0,0,,Then I'll really get it, like nothing happened.
+Dialogue: 0,0:19:50.63,0:19:54.87,Matsumoto,,0,0,0,,If I don't get it right then I might as well be dead.
+Dialogue: 0,0:19:54.87,0:19:59.48,Housei,,0,0,0,,If that happened, it'd be quite the surprise.
+Dialogue: 0,0:19:59.48,0:20:02.25,Matsumoto,,0,0,0,,How about he never drinks from Starbucks again?
+Dialogue: 0,0:20:02.25,0:20:03.15,Housei,,0,0,0,,That's right.
+Dialogue: 0,0:20:03.15,0:20:04.42,Hamada,,0,0,0,,Why don't we settle on it.
+Dialogue: 0,0:20:04.45,0:20:05.98,Matsumoto,,0,0,0,,I'm totally fine with it.
+Dialogue: 0,0:20:06.15,0:20:07.05,Matsumoto,,0,0,0,,No joke.
+Dialogue: 0,0:20:09.15,0:20:12.92,Matsumoto,,0,0,0,,Totally wrong, what the hell is this?
+Dialogue: 0,0:20:13.32,0:20:16.49,Matsumoto,,0,0,0,,Is it alright, going through it as usual?
+Dialogue: 0,0:20:16.96,0:20:20.93,Housei,,0,0,0,,Just don't say, {\i1}'I'm going to the store'{\i0} midway through.
+Dialogue: 0,0:20:20.93,0:20:22.63,Endo,,0,0,0,,How many times a week do you drink coffee?
+Dialogue: 0,0:20:22.63,0:20:23.60,Endo,,0,0,0,,Do you have it daily?
+Dialogue: 0,0:20:23.60,0:20:25.50,Matsumoto,,0,0,0,,I don't know about {\i1}per week{\i0}.
+Dialogue: 0,0:20:25.50,0:20:29.57,Endo,,0,0,0,,Yeah, sorry. It wasn't the right way to put it.
+Dialogue: 0,0:20:29.57,0:20:32.71,Matsumoto,,0,0,0,,I've never thought it as {\i1}weekly{\i0} intake.
+Dialogue: 0,0:20:32.74,0:20:35.11,Endo,,0,0,0,,You drink a fair amount then, how many times a day is it?
+Dialogue: 0,0:20:35.11,0:20:36.65,Matsumoto,,0,0,0,,I'd say, about 2 - 3 times a day.
+Dialogue: 0,0:20:36.65,0:20:37.62,Housei,,0,0,0,,2 - 3 times a day?
+Dialogue: 0,0:20:37.62,0:20:38.55,Tanaka,,0,0,0,,2 - 3 times a day?
+Dialogue: 0,0:20:38.55,0:20:39.92,Endo,,0,0,0,,So it isn't once a week.
+Dialogue: 0,0:20:39.92,0:20:44.82,Matsumoto,,0,0,0,,Yeah, when he's coming to shoot for Gaki, he's at it right away.
+Dialogue: 0,0:20:44.82,0:20:46.92,Hamada,,0,0,0,,Going by order, it seems.
+Dialogue: 0,0:20:46.32,0:20:49.53,Housei,,0,0,0,,Even so, since he hasn't sampled it...
+Dialogue: 0,0:20:49.13,0:20:54.63,Matsumoto,,0,0,0,,This one is {\i1}terribly{\i0} wrong.
+Dialogue: 0,0:20:54.63,0:21:00.57,Matsumoto,,0,0,0,,This one too, totally wrong.
+Dialogue: 0,0:21:00.60,0:21:03.07,Matsumoto,,0,0,0,,Not this either, it's too acidic.
+Dialogue: 0,0:21:06.41,0:21:08.45,Matsumoto,,0,0,0,,I'm not sure about this one.
+Dialogue: 0,0:21:11.35,0:21:12.55,Matsumoto,,0,0,0,,This isnt it either.
+Dialogue: 0,0:21:12.55,0:21:14.35,Matsumoto,,0,0,0,,This is {\i1}probably{\i0} wrong.
+Dialogue: 0,0:21:17.35,0:21:19.22,Matsumoto,,0,0,0,,Totally not it.
+Dialogue: 0,0:21:19.26,0:21:23.33,Matsumoto,,0,0,0,,Sorry, this isn't gong to be any fun at all, since i'm going at it seriously.
+Dialogue: 0,0:21:23.03,0:21:24.83,Hamada,,0,0,0,,Then, the ones on the bottom are still...
+Dialogue: 0,0:21:24.83,0:21:26.10,Endo,,0,0,0,,Those might be the one.
+Dialogue: 0,0:21:25.96,0:21:27.93,Housei,,0,0,0,,It's the last one now.
+Dialogue: 0,0:21:29.40,0:21:31.37,Endo,,0,0,0,,It's been narrowed down to three.
+Dialogue: 0,0:21:31.40,0:21:33.40,Matsumoto,,0,0,0,,Well then, it's gotta be amongst these three.
+Dialogue: 0,0:21:33.34,0:21:34.67,Endo,,0,0,0,,A, B, F.
+Dialogue: 0,0:21:34.94,0:21:41.65,Matsumoto,,0,0,0,,Will Matsumoto be able to identify Starbucks' coffee out of the ten varieties?
+Dialogue: 0,0:21:41.65,0:21:43.45,Endo,,0,0,0,,It's been narrowed down to three.
+Dialogue: 0,0:21:42.95,0:21:45.38,Matsumoto,,0,0,0,,Well then, it's gotta be amongst these three.
+Dialogue: 0,0:21:45.38,0:21:46.35,Endo,,0,0,0,,A, B, F.
+Dialogue: 0,0:21:46.35,0:21:47.52,Matsumoto,,0,0,0,,Yeah.
+Dialogue: 0,0:21:48.72,0:21:49.95,Endo,,0,0,0,,He's taking it seriously, isn't he?
+Dialogue: 0,0:21:49.85,0:21:51.42,Housei,,0,0,0,,Yeah.
+Dialogue: 0,0:21:50.09,0:21:51.82,Endo,,0,0,0,,...in all earnestness.
+Dialogue: 0,0:21:55.39,0:21:57.49,Matsumoto,,0,0,0,,{\i1}B{\i0} might be it.
+Dialogue: 0,0:22:03.97,0:22:05.57,Matsumoto,,0,0,0,,Not this either.
+Dialogue: 0,0:22:05.60,0:22:06.94,Matsumoto,,0,0,0,,{\i1}A{\i0} or {\i1}B{\i0}?
+Dialogue: 0,0:22:06.27,0:22:07.40,Hamada,,0,0,0,,Whoa, damn!
+Dialogue: 0,0:22:06.97,0:22:08.04,Endo,,0,0,0,,So quick.
+Dialogue: 0,0:22:08.07,0:22:10.27,Matsumoto,,0,0,0,,I've got it, right?
+Dialogue: 0,0:22:13.24,0:22:16.18,Hamada,,0,0,0,,Can't say until you pick one.
+Dialogue: 0,0:22:24.39,0:22:26.32,Matsumoto,,0,0,0,,B, it is.
+Dialogue: 0,0:22:26.32,0:22:28.29,Housei,,0,0,0,,B, is it?
+Dialogue: 0,0:22:28.29,0:22:30.16,Housei,,0,0,0,,Starbucks' coffee...
+Dialogue: 0,0:22:30.19,0:22:31.76,Housei,,0,0,0,,Please say it then... {\i1}Starbucks' cofee is...{\i0}
+Dialogue: 0,0:22:31.80,0:22:35.37,Matsumoto,,0,0,0,,Starbucks coffee is {\i1}B{\i0}.
+Dialogue: 0,0:22:39.87,0:22:43.31,Endo,,0,0,0,,Just, what was that?
+Dialogue: 0,0:22:43.31,0:22:44.78,Hamada,,0,0,0,,You suck!
+Dialogue: 0,0:22:44.14,0:22:45.58,Tanaka,,0,0,0,,Gimme a break!
+Dialogue: 0,0:22:47.38,0:22:50.28,Matsumoto,,0,0,0,,Can this just not be aired?
+Dialogue: 0,0:22:50.28,0:22:51.88,Housei,,0,0,0,,Nope!
+Dialogue: 0,0:22:51.88,0:22:53.88,Housei,,0,0,0,,This will go on air.
+Dialogue: 0,0:22:53.88,0:22:55.29,Hamada,,0,0,0,,Aren't you just something?
+Dialogue: 0,0:22:55.29,0:22:56.49,Housei,,0,0,0,,What now?
+Dialogue: 0,0:22:55.89,0:22:57.32,Endo,,0,0,0,,Want me to reveal the correct one?
+Dialogue: 0,0:22:57.32,0:23:01.59,Endo,,0,0,0,,The correct answer is G.
+Dialogue: 0,0:23:00.19,0:23:01.69,Matsumoto,,0,0,0,,I'll just say this.
+Dialogue: 0,0:23:01.59,0:23:04.16,Matsumoto,,0,0,0,,Starbucks has various blends.
+Dialogue: 0,0:23:04.16,0:23:06.26,Matsumoto,,0,0,0,,It's not like they use the same beans.
+Dialogue: 0,0:23:06.26,0:23:09.17,Matsumoto,,0,0,0,,It's different everyday.
+Dialogue: 0,0:23:09.20,0:23:12.74,Matsumoto,,0,0,0,,What blend of Starbucks is this?
+Dialogue: 0,0:23:12.77,0:23:15.07,Matsumoto,,0,0,0,,Coffee comes in a blend,
+Dialogue: 0,0:23:15.07,0:23:17.37,Matsumoto,,0,0,0,,what I just drank could've been from Congo.
+Dialogue: 0,0:23:17.37,0:23:19.48,Matsumoto,,0,0,0,,It's not the same everyday!
+Dialogue: 0,0:23:19.48,0:23:20.68,Matsumoto,,0,0,0,,Are you all fuckin' idiots?
+Dialogue: 0,0:23:20.71,0:23:23.28,Matsumoto,,0,0,0,,Go home!
+Dialogue: 0,0:23:23.28,0:23:24.35,Tanaka,,0,0,0,,You can't be serious.
+Dialogue: 0,0:23:24.38,0:23:27.12,Matsumoto,,0,0,0,,Go home! Go home!
+Dialogue: 0,0:23:27.12,0:23:29.75,Housei,,0,0,0,,What's wrong with you?
+Dialogue: 0,0:23:27.68,0:23:29.75,Matsumoto,,0,0,0,,Don't ever come back, idiots!
+Dialogue: 0,0:23:29.75,0:23:30.75,Matsumoto,,0,0,0,,Go home!
+Dialogue: 0,0:23:30.79,0:23:31.82,Matsumoto,,0,0,0,,He got angry instead.
+Dialogue: 0,0:23:31.82,0:23:33.19,Matsumoto,,0,0,0,,Third-class comedians!
+Dialogue: 0,0:23:33.22,0:23:34.22,Matsumoto,,0,0,0,,Go home!
+Dialogue: 0,0:23:34.26,0:23:35.49,Matsumoto,,0,0,0,,Third-rates!
+Dialogue: 0,0:23:35.49,0:23:37.69,Matsumoto,,0,0,0,,Go home, third-rates!
+Dialogue: 0,0:23:36.66,0:23:38.73,Tanaka,,0,0,0,,It was prepared since you're {\i1}'1st-class'{\i0}.
+Dialogue: 0,0:23:38.73,0:23:42.67,Matsumoto,,0,0,0,,Go home, third-rates!
+Dialogue: 0,0:23:40.86,0:23:42.67,Tanaka,,0,0,0,,What's with him?
+Dialogue: 0,0:23:42.70,0:23:45.30,Housei,,0,0,0,,He got really angry instead.
+Dialogue: 0,0:23:45.87,0:23:48.17,Matsumoto,,0,0,0,,This better not get aired!
+Dialogue: 0,0:23:52.48,0:23:53.74,Matsumoto,,0,0,0,,For real?
+

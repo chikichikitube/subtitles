@@ -1,0 +1,724 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1280
+PlayResY: 720
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki no Tsukai 1106 (2012.05.20) - Yamasakis Judgement 720p RAW.mp4
+Video File: Gaki no Tsukai 1106 (2012.05.20) - Yamasakis Judgement 720p RAW.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 671
+Active Line: 680
+Video Position: 36096
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hamada,Arial,48,&H00FFFFFF,&H007E4600,&H00F60919,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Arial,48,&H00FFFFFF,&H007E4600,&H001727D6,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Housei,Arial,48,&H00FFFFFF,&H007E4600,&H0022D727,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Arial,48,&H00FFFFFF,&H007E4600,&H00096FD4,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Arial,48,&H00FFFFFF,&H007E4600,&H00E911B0,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Upper Notes,Arial,30,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,8,10,10,10,1
+Style: Credits,Arial,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: Others,Arial,48,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Others F,Arial,48,&H00FFFFFF,&H007E4600,&H00DA4FEC,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Titles,Arial,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,4,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.43,0:00:02.64,Hamada,,0,0,0,,First time ever on Gaki no Tsukai
+Dialogue: 0,0:00:02.64,0:00:06.66,Hamada,,0,0,0,,Comedy Guidelines Decision Meeting!
+Dialogue: 0,0:00:10.48,0:00:11.84,Matsumoto,,0,0,0,,Good evening
+Dialogue: 0,0:00:11.57,0:00:14.69,Titles,,0,0,0,,{\fad(200,0)\pos(488,628)\4c&HD5AF0B&}Matsumoto Hitoshi
+Dialogue: 0,0:00:11.57,0:00:14.69,Titles,,0,0,0,,{\fad(200,0)\pos(800,626)\4c&HD5AF0B&}Hamada Masatoshi
+Dialogue: 0,0:00:11.57,0:00:14.69,Titles,,0,0,0,,{\fad(200,0)\3c&HFFFFFF&\c&H4DA439&\pos(642,560)}Downtown{\b1}
+Dialogue: 0,0:00:14.69,0:00:18.77,Titles,,0,0,0,,{\fad(0,0)\3c&HFFFFFF&\c&H4DA439&\pos(642,560)}Cocorico{\b1}
+Dialogue: 0,0:00:14.69,0:00:16.65,Titles,,0,0,0,,{\fad(0,0)\4c&HD5AF0B&\pos(642,626)}Tanaka Naoki
+Dialogue: 0,0:00:16.65,0:00:18.77,Titles,,0,0,0,,{\fad(0,0)\4c&HD5AF0B&\pos(642,626)}Endo Shozo
+Dialogue: 0,0:00:11.84,0:00:15.34,Matsumoto,,0,0,0,,See, lately when it comes to variety shows
+Dialogue: 0,0:00:15.34,0:00:18.77,Matsumoto,,0,0,0,,There are lots of batsu games and such like always
+Dialogue: 0,0:00:18.77,0:00:19.61,Matsumoto,,0,0,0,,But in a way
+Dialogue: 0,0:00:19.61,0:00:23.21,Matsumoto,,0,0,0,,{\pos(508,538)}Saying "this is comedy" or "this isn't comedy"
+Dialogue: 0,0:00:21.37,0:00:23.21,Matsumoto,,0,0,0,,{\pos(272,632)}is becoming difficult
+Dialogue: 0,0:00:21.80,0:00:23.21,Hamada,,0,0,0,,I see
+Dialogue: 0,0:00:23.21,0:00:27.01,Matsumoto,,0,0,0,,{\pos(634,624)}I mean, sometimes they do more than they should
+Dialogue: 0,0:00:25.36,0:00:27.01,Hamada,,0,0,0,,Yeah, like injuries
+Dialogue: 0,0:00:27.01,0:00:28.81,Matsumoto,,0,0,0,,Yes, those too
+Dialogue: 0,0:00:28.81,0:00:30.92,Matsumoto,,0,0,0,,That's why we in Gaki
+Dialogue: 0,0:00:29.33,0:00:37.25,Titles,,0,0,0,,{\i1\c&H22D727&\3c&HFFFFFF&\3a&H00&\4c&H000000&\4a&H63&\pos(654,514)}Comedy Guidelines Decision Meeting~!!{\i0}
+Dialogue: 0,0:00:29.33,0:00:37.25,Titles,,0,0,0,,{\3c&H0C0153&\4c&H0C0153&\pos(654,582)}Today we'll decide the correct comedy guidelines
+Dialogue: 0,0:00:29.33,0:00:37.25,Titles,,0,0,0,,{\3c&H0C0153&\4c&H0C0153&\4a&H00&\pos(666,628)}of various "comedy" which could appear on Gaki no Tsukai!
+Dialogue: 0,0:00:30.92,0:00:33.80,Matsumoto,,0,0,0,,Decided to make some guidelines about what's comedy
+Dialogue: 0,0:00:33.80,0:00:35.04,Hamada,,0,0,0,,We'll decide em?
+Dialogue: 0,0:00:35.04,0:00:37.28,Matsumoto,,0,0,0,,That's the plan    {\3c&HF60919&} - I see
+Dialogue: 0,0:00:37.81,0:00:40.17,Matsumoto,,0,0,0,,So, we'll have our guinea-pig-comedian...
+Dialogue: 0,0:00:40.17,0:00:41.40,Tanaka,,0,0,0,,Guinea pig?
+Dialogue: 0,0:00:41.40,0:00:42.10,Matsumoto,,0,0,0,,That's him
+Dialogue: 0,0:00:42.10,0:00:44.80,Hamada,,0,0,0,,You shouldn't call him like that, come on
+Dialogue: 0,0:00:44.80,0:00:46.57,Hamada,,0,0,0,,You'll make him sad
+Dialogue: 0,0:00:46.57,0:00:47.92,Hamada,,0,0,0,,Anyway, please come here!
+Dialogue: 0,0:00:50.12,0:00:50.92,Endo,,0,0,0,,Thank you!
+Dialogue: 0,0:00:50.36,0:00:54.21,Titles,,0,0,0,,{\fad(200,0)\pos(638,546)\3c&HFFFFFF&\4c&H000000&\c&H240FC2&}Comedy Guidelines Judge
+Dialogue: 0,0:00:50.36,0:00:54.21,Titles,,0,0,0,,{\fad(200,0)\pos(636,622)\4c&HD5AF0B&}Yamazaki Housei
+Dialogue: 0,0:00:50.92,0:00:51.80,Matsumoto,,0,0,0,,Lookin' young
+Dialogue: 0,0:00:51.80,0:00:54.21,Housei,,0,0,0,,It's a pleasure
+Dialogue: 0,0:00:52.67,0:00:53.24,Tanaka,,0,0,0,,{\pos(1066,710)}It's a pleasure
+Dialogue: 0,0:00:53.36,0:00:54.21,Endo,,0,0,0,,{\pos(1066,710)}Good evening
+Dialogue: 0,0:00:54.21,0:00:58.70,Hamada,,0,0,0,,So if you judge something as "non-comedy", we'll never do it on Gaki
+Dialogue: 0,0:00:54.89,0:01:00.37,Titles,,0,0,0,,{\c&H240FC2&\3c&HFFFFFF&\pos(640,506)}Rules
+Dialogue: 0,0:00:54.89,0:01:00.37,Titles,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(634,598)}If Yamazaki decided that something {\c&H5CDFDA&}"is not comedy"
+Dialogue: 0,0:00:54.89,0:01:00.37,Titles,,0,0,0,,{\4c&H000000&\4a&HFF&\pos(622,650)}That will be {\c&H240FC2&\3c&HFFFFFF&}banned {\c&HFFFFFF&\3c&H000000&}forever from Gaki no Tsukai
+Dialogue: 0,0:00:58.70,0:00:59.27,Housei,,0,0,0,,I see
+Dialogue: 0,0:00:59.27,0:01:00.37,Tanaka,,0,0,0,,Not anymore
+Dialogue: 0,0:01:00.37,0:01:01.61,Hamada,,0,0,0,,What kind of comedian are you?
+Dialogue: 0,0:01:01.61,0:01:03.93,Housei,,0,0,0,,I'm a guinea-pig-comedian
+Dialogue: 0,0:01:03.41,0:01:04.85,Endo,,0,0,0,,{\pos(638,614)}He willingly accepted it
+Dialogue: 0,0:01:04.85,0:01:06.36,Housei,,0,0,0,,That's why I'm all white
+Dialogue: 0,0:01:06.36,0:01:07.65,Endo,,0,0,0,,He recognized it
+Dialogue: 0,0:01:07.77,0:01:10.05,Matsumoto,,0,0,0,,More like a lab rat
+Dialogue: 0,0:01:08.44,0:01:09.52,Housei,,0,0,0,,{\pos(636,612)}Yeah, a rat
+Dialogue: 0,0:01:09.52,0:01:11.57,Housei,,0,0,0,,{\pos(636,612)}I don't need colors
+Dialogue: 0,0:01:11.57,0:01:23.81,Credits,,0,0,0,,{\pos(424,38)}translation & subs by {\3c&H068D07&}Shion{\3c&HBC7516&} (@FGRNDNoises)
+Dialogue: 0,0:01:11.57,0:01:23.81,Credits,,0,0,0,,{\pos(538,76)}Want to support? Like my FB page: {\3c&HA99903&}facebook.com/shionnotsukai
+Dialogue: 0,0:01:11.57,0:01:23.81,Credits,,0,0,0,,{\pos(565,114)}Or donate @ {\3c&H4537F7&}ko-fi.com/shionnotsukai{\3c&H000000&}   /  {\3c&H00A8CC&}patreon.com/shionnotsukai
+Dialogue: 0,0:01:19.17,0:01:23.81,Credits,,0,0,0,,{\frz90\4c&H000000&\4a&H6E&\3c&H000000&\c&H55FFF5&\3a&H2E&\fscx126\fscy90\pos(80,360)}Is this {\c&H240FC2&\3c&HFFFFFF&}comedy{\c&H55FFF5&\3c&H000000&} ?! Or is it  {\3c&HFFFFFF&\c&HF60919&}not comedy{\c&H55FFF5&\3c&H000000&} ?!
+Dialogue: 0,0:01:19.17,0:01:23.81,Credits,,0,0,0,,{\pos(1198,360)\c&H55FFF5&\frz270.2}Yamazaki will decide the correct comedy guidelines!
+Dialogue: 0,0:01:24.36,0:01:25.32,Hamada,,0,0,0,,First off we have:
+Dialogue: 0,0:01:25.32,0:01:26.68,Hamada,,0,0,0,,"Where's my mouth?"
+Dialogue: 0,0:01:25.45,0:01:32.45,Hamada,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&HD5AF0B&\fnFranklin Gothic Book\b1\pos(374,482)\frz5.024}Where is my mouth!?{\b0}
+Dialogue: 0,0:01:26.85,0:01:32.45,Titles,,0,0,0,,{\fn源界明朝\b1\c&H26B706&\3c&HFFFFFF&\fscx140\fscy142\pos(656,586)}Helping Hands Wasabi Sushi~!
+Dialogue: 0,0:01:26.68,0:01:29.60,Hamada,,0,0,0,,"Helping Hands Wasabi Sushi"!
+Dialogue: 0,0:01:31.36,0:01:32.68,Hamada,,0,0,0,,So, Matsumoto-san
+Dialogue: 0,0:01:32.68,0:01:33.64,Hamada,,0,0,0,,This is an easy one
+Dialogue: 0,0:01:33.64,0:01:35.70,Matsumoto,,0,0,0,,Well, this one
+Dialogue: 0,0:01:35.70,0:01:37.70,Matsumoto,,0,0,0,,I think everyone knows it
+Dialogue: 0,0:01:37.17,0:01:44.09,Titles,,0,0,0,,{\pos(654,498)\i1\c&H240FC2&\3c&HFFFFFF&}Helping Hands Wasabi Sushi{\i0}
+Dialogue: 0,0:01:37.17,0:01:44.09,Titles,,0,0,0,,{\pos(622,632)\c&H000000&\3c&HFFFFFF&}Let's see if it will be judged as{\c&H240FC2&\3c&HFFFFFF&} "comedy" {\c&H000000&\3c&HFFFFFF&}or {\c&HF60919&\3c&HFFFFFF&}"not comedy" {\c&H000000&} !
+Dialogue: 0,0:01:37.17,0:01:44.09,Titles,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&H52&\pos(640,580)}Eat wasabi sushi aided by helping hands
+Dialogue: 0,0:01:37.70,0:01:40.70,Matsumoto,,0,0,0,,But we haven't thought about it seriously
+Dialogue: 0,0:01:40.70,0:01:41.65,Tanaka,,0,0,0,,I see
+Dialogue: 0,0:01:41.65,0:01:43.89,Matsumoto,,0,0,0,,So, Yamazaki will be in front
+Dialogue: 0,0:01:43.89,0:01:44.09,Housei,,0,0,0,,Yes
+Dialogue: 0,0:01:44.09,0:01:47.73,Matsumoto,,0,0,0,,And then we'll have our "foremost satisfaction of comedy" behind
+Dialogue: 0,0:01:47.73,0:01:49.65,Matsumoto,,0,0,0,,So we'll have Hamada-san
+Dialogue: 0,0:01:49.65,0:01:50.93,Matsumoto,,0,0,0,,Sitting behind him
+Dialogue: 0,0:01:50.93,0:01:51.52,Others,,0,0,0,,{\4c&H15BD1A&}Alright
+Dialogue: 0,0:01:51.52,0:01:53.33,Hamada,,0,0,0,,Idiot    {\3c&H1727D6&}- They'll have wasabi sushi
+Dialogue: 0,0:01:53.93,0:01:57.88,Housei,,0,0,0,,So you're saying that it has to be Hamada after all, right?
+Dialogue: 0,0:01:57.88,0:02:00.24,Matsumoto,,0,0,0,,Well, we're talking about guidelines, so
+Dialogue: 0,0:02:00.24,0:02:01.69,Matsumoto,,0,0,0,,We want a full swing on it
+Dialogue: 0,0:02:01.69,0:02:03.03,Endo,,0,0,0,,It's easier that way
+Dialogue: 0,0:02:03.03,0:02:03.64,Matsumoto,,0,0,0,,Right
+Dialogue: 0,0:02:03.64,0:02:04.25,Housei,,0,0,0,,Well
+Dialogue: 0,0:02:04.25,0:02:06.57,Housei,,0,0,0,,I'de be fine with Tanaka doing it though
+Dialogue: 0,0:02:05.76,0:02:07.76,Tanaka,,0,0,0,,{\pos(1022,600)}I'm not the best at it
+Dialogue: 0,0:02:06.57,0:02:09.17,Hamada,,0,0,0,,Do you want to do it with Tanaka?
+Dialogue: 0,0:02:07.49,0:02:09.17,Housei,,0,0,0,,{\pos(310,532)}Yeah, Tanaka's good
+Dialogue: 0,0:02:09.17,0:02:11.61,Tanaka,,0,0,0,,But our "satisfaction" is the best one there is
+Dialogue: 0,0:02:10.57,0:02:13.61,Hamada,,0,0,0,,{\pos(648,614)}What the hell is this "satisfaction" crap?
+Dialogue: 0,0:02:13.61,0:02:15.60,Matsumoto,,0,0,0,,We've been told before that's dangerous
+Dialogue: 0,0:02:15.60,0:02:18.21,Matsumoto,,0,0,0,,To mix Hamada and wasabi together
+Dialogue: 0,0:02:19.00,0:02:19.84,Others,,0,0,0,,And so
+Dialogue: 0,0:02:20.24,0:02:24.73,Titles,,0,0,0,,{\fad(400,0)\pos(652,62)}{\fnScream Again\b1\c&H248B25&\3c&HFFFFFF&\fscx140\fscy142\pos(656,586)}Helping Hands Wasabi Sushi:
+Dialogue: 0,0:02:20.24,0:02:24.73,Titles,,0,0,0,,{\fad(400,0)\fnScream Again\fs48\pos(640,586)\3c&HFFFFFF&\c&H240FC2&}Will it be comedy{\fnJokerman\i1} {\b1}!? {\fnScream Again\i0\b0\c&HF60919&} {\c&H741108&}Or not comedy {\i1\b1\fnJokerman}!?
+Dialogue: 0,0:02:19.84,0:02:21.52,Others,,0,0,0,,Will "Helping Hands Wasabi Sushi"
+Dialogue: 0,0:02:21.52,0:02:24.36,Others,,0,0,0,,Be labeled as comedy or not?
+Dialogue: 0,0:02:24.73,0:02:25.73,Matsumoto,,0,0,0,,Be sure
+Dialogue: 0,0:02:25.73,0:02:29.61,Matsumoto,,0,0,0,,To judge this only after the camera draws near you
+Dialogue: 0,0:02:28.44,0:02:29.61,Housei,,0,0,0,,{\pos(638,534)}After the camera comes?
+Dialogue: 0,0:02:29.61,0:02:30.80,Housei,,0,0,0,,How am I supposed to...?
+Dialogue: 0,0:02:30.80,0:02:33.20,Matsumoto,,0,0,0,,We'll let you know, don't worry
+Dialogue: 0,0:02:33.20,0:02:34.77,Matsumoto,,0,0,0,,Please do your best
+Dialogue: 0,0:02:34.77,0:02:36.67,Housei,,0,0,0,,Basically I'll eat sushi, right?
+Dialogue: 0,0:02:36.67,0:02:37.44,Hamada,,0,0,0,,Yes
+Dialogue: 0,0:02:37.44,0:02:38.64,Housei,,0,0,0,,Hamada-san?\N{\3c&HF60919&}- That's it
+Dialogue: 0,0:02:38.64,0:02:39.32,Endo,,0,0,0,,With his hands
+Dialogue: 0,0:02:39.80,0:02:41.01,Matsumoto,,0,0,0,,Shall we begin?
+Dialogue: 0,0:02:41.36,0:02:44.12,Matsumoto,,0,0,0,,"Where's my mouth? Helping Hands Wasabi Sushi"
+Dialogue: 0,0:02:44.12,0:02:44.85,Matsumoto,,0,0,0,,Start!
+Dialogue: 0,0:02:47.68,0:02:49.92,Matsumoto,,0,0,0,,That's how it's done
+Dialogue: 0,0:02:49.92,0:02:52.72,Matsumoto,,0,0,0,,That's fair enough
+Dialogue: 0,0:02:52.72,0:02:55.23,Matsumoto,,0,0,0,,Makes me wanna eat sushi too
+Dialogue: 0,0:02:55.23,0:02:56.44,Housei,,0,0,0,,Oh, thank you
+Dialogue: 0,0:02:56.44,0:02:58.84,Tanaka,,0,0,0,,Looking good\N{\3c&H096FD4&}- Looks delicious
+Dialogue: 0,0:02:58.84,0:03:00.24,Matsumoto,,0,0,0,,His hands are dirty
+Dialogue: 0,0:03:01.84,0:03:03.28,Housei,,0,0,0,,Delicious\N{\3c&H096FD4&}- Looks good
+Dialogue: 0,0:03:03.56,0:03:04.64,Housei,,0,0,0,,Thanks
+Dialogue: 0,0:03:04.64,0:03:05.64,Matsumoto,,0,0,0,,Good, good
+Dialogue: 0,0:03:05.64,0:03:06.48,Tanaka,,0,0,0,,Second one
+Dialogue: 0,0:03:06.48,0:03:07.80,Housei,,0,0,0,,That's too much
+Dialogue: 0,0:03:07.80,0:03:09.73,Housei,,0,0,0,,Hamada-san? Hey!
+Dialogue: 0,0:03:10.16,0:03:11.48,Endo,,0,0,0,,Good\N{\3c&H15BD1A&}- It's too much
+Dialogue: 0,0:03:11.48,0:03:12.36,Housei,,0,0,0,,Too much wasabi
+Dialogue: 0,0:03:12.36,0:03:15.08,Matsumoto,,0,0,0,,But we have to test it, so it has to be like this
+Dialogue: 0,0:03:15.08,0:03:16.44,Matsumoto,,0,0,0,,Oh, like that, nice
+Dialogue: 0,0:03:18.28,0:03:19.32,Endo,,0,0,0,,Come on, some more
+Dialogue: 0,0:03:19.32,0:03:21.72,Matsumoto,,0,0,0,,Just like this, a bit more
+Dialogue: 0,0:03:22.52,0:03:24.72,Endo,,0,0,0,,Keep this pace
+Dialogue: 0,0:03:24.72,0:03:26.92,Endo,,0,0,0,,Like this, come on
+Dialogue: 0,0:03:26.92,0:03:27.88,Tanaka,,0,0,0,,Good, good
+Dialogue: 0,0:03:27.88,0:03:29.20,Matsumoto,,0,0,0,,That's perfect
+Dialogue: 0,0:03:29.72,0:03:31.72,Endo,,0,0,0,,How about we go for the verdict?
+Dialogue: 0,0:03:32.78,0:03:33.72,Endo,,0,0,0,,So...
+Dialogue: 0,0:03:39.40,0:03:40.76,Endo,,0,0,0,,Your verdict?
+Dialogue: 0,0:03:41.60,0:03:42.44,Endo,,0,0,0,,How do you judge it?
+Dialogue: 0,0:03:44.57,0:03:45.80,Matsumoto,,0,0,0,,What happened?
+Dialogue: 0,0:03:46.28,0:03:47.12,Endo,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:53.94,0:03:55.20,Matsumoto,,0,0,0,,Was it that bad?
+Dialogue: 0,0:03:48.85,0:03:54.05,Credits,,0,0,0,,{\fad(300,300)\pos(646,598)\fnkawaii手書き文字\b1\fscx73\fscy98}this is a performance Yamazaki is doing as a professional comedian
+Dialogue: 0,0:03:48.85,0:03:54.05,Credits,,0,0,0,,{\fad(300,300)\fnkawaii手書き文字\b1\fscx86\fscy100\pos(548,646)}please do not attempt to imitate him{\b0}
+Dialogue: 0,0:03:55.20,0:03:56.00,Matsumoto,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:56.00,0:03:57.12,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}He pushed
+Dialogue: 0,0:03:57.12,0:04:00.25,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}his finger way too inside
+Dialogue: 0,0:03:59.12,0:04:00.52,Endo,,0,0,0,,{\pos(648,580)}He pushed it too much?
+Dialogue: 0,0:04:02.04,0:04:04.17,Matsumoto,,0,0,0,,That... sounds terrible
+Dialogue: 0,0:04:04.73,0:04:08.01,Matsumoto,,0,0,0,,We could never do something like that
+Dialogue: 0,0:04:06.03,0:04:08.01,Endo,,0,0,0,,{\pos(650,612)}That's unthinkable for us
+Dialogue: 0,0:04:08.31,0:04:09.69,Endo,,0,0,0,,Just say it\N{\3c&HE911B0&}- His finger?
+Dialogue: 0,0:04:09.69,0:04:12.41,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}It went through my esophagus
+Dialogue: 0,0:04:11.28,0:04:12.41,Endo,,0,0,0,,{\pos(652,578)}That's impossible
+Dialogue: 0,0:04:13.01,0:04:14.41,Endo,,0,0,0,,You were just eating sushi
+Dialogue: 0,0:04:14.41,0:04:15.76,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}I think I got injured
+Dialogue: 0,0:04:15.76,0:04:17.36,Tanaka,,0,0,0,,You injured your esophagus?
+Dialogue: 0,0:04:17.36,0:04:18.36,Housei,,0,0,0,,For real
+Dialogue: 0,0:04:18.36,0:04:20.33,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}I got injured for real
+Dialogue: 0,0:04:20.33,0:04:21.56,Matsumoto,,0,0,0,,So it's no good?
+Dialogue: 0,0:04:21.56,0:04:22.73,Tanaka,,0,0,0,,It's not comedy?
+Dialogue: 0,0:04:22.73,0:04:23.85,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}It's messed up
+Dialogue: 0,0:04:23.85,0:04:26.35,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}How far did you insert it?
+Dialogue: 0,0:04:26.35,0:04:29.85,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}My voice isn't coming out anymore
+Dialogue: 0,0:04:27.20,0:04:30.57,Endo,,0,0,0,,{\pos(644,580)}You voice hasn't changed, it's your vocal cords
+Dialogue: 0,0:04:30.57,0:04:31.89,Endo,,0,0,0,,He fiddled with em
+Dialogue: 0,0:04:31.89,0:04:34.13,Endo,,0,0,0,,Was that the quantity of wasabi?
+Dialogue: 0,0:04:34.44,0:04:36.17,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}I don't know anything about wasabi
+Dialogue: 0,0:04:36.17,0:04:38.13,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}The problem was his finger...
+Dialogue: 0,0:04:38.13,0:04:39.93,Matsumoto,,0,0,0,,What's up with that voice?
+Dialogue: 0,0:04:40.53,0:04:41.68,Housei,,0,0,0,,My vocal cords...
+Dialogue: 0,0:04:41.68,0:04:44.00,Matsumoto,,0,0,0,,Something's definitely off\N{\3c&H6B418C&}- It is
+Dialogue: 0,0:04:44.54,0:04:45.37,Matsumoto,,0,0,0,,Maybe
+Dialogue: 0,0:04:45.37,0:04:48.17,Matsumoto,,0,0,0,,Maybe he changed channel inside you
+Dialogue: 0,0:04:48.57,0:04:49.85,Matsumoto,,0,0,0,,Try to shout
+Dialogue: 0,0:04:55.36,0:04:56.61,Endo,,0,0,0,,He tampered with em
+Dialogue: 0,0:04:56.61,0:04:58.25,Matsumoto,,0,0,0,,He sounds like a trumpet shell
+Dialogue: 0,0:04:58.44,0:04:59.45,Matsumoto,,0,0,0,,Are you really ok?
+Dialogue: 0,0:04:59.77,0:05:05.41,Titles,,0,0,0,,{\c&H85FFF8&\pos(644,474)}VERDICT: {\c&H248B25&\3c&HFFFFFF&}HELPING HANDS WASABI SUSHI
+Dialogue: 0,0:04:59.77,0:05:05.41,Titles,,0,0,0,,{\pos(632,638)\c&HF7C1B1&\4c&HFFFFFF&}IS NOT COMEDY !!
+Dialogue: 0,0:05:05.56,0:05:09.20,Hamada,,0,0,0,,"Put em on, take em off! Face panty hose"!!
+Dialogue: 0,0:05:06.25,0:05:11.33,Titles,,0,0,0,,{\pos(430,458)\fnInk Free\b1\fscx127\fscy136\c&HE911B0&\3c&HDBFFDA&\4c&HFFD0AC&\frz6.203}Put em on, take em off!{\b0}
+Dialogue: 0,0:05:07.85,0:05:11.33,Titles,,0,0,0,,{\pos(652,602)\fnJuice ITC\b1\fscx335\fscy213\c&H240FC2&\3c&HFFFFFF&\4c&H4DA439&} Face panty hose~{\i1}!!{\b0}
+Dialogue: 0,0:05:14.20,0:05:15.09,Matsumoto,,0,0,0,,Well...
+Dialogue: 0,0:05:15.09,0:05:18.01,Endo,,0,0,0,,Are you ok Yamazaki-san?
+Dialogue: 0,0:05:16.44,0:05:17.12,Matsumoto,,0,0,0,,{\pos(638,612)}What's wrong?
+Dialogue: 0,0:05:17.12,0:05:18.01,Tanaka,,0,0,0,,{\pos(638,612)}Are you ok?
+Dialogue: 0,0:05:18.01,0:05:19.08,Housei,,0,0,0,,Well it's that
+Dialogue: 0,0:05:19.08,0:05:21.41,Housei,,0,0,0,,I have to stretch this part
+Dialogue: 0,0:05:21.41,0:05:24.69,Matsumoto,,0,0,0,,'Cause you've been injured already, right?
+Dialogue: 0,0:05:23.11,0:05:24.69,Housei,,0,0,0,,{\pos(638,612)}That's right
+Dialogue: 0,0:05:24.92,0:05:26.16,Matsumoto,,0,0,0,,So, about this
+Dialogue: 0,0:05:26.16,0:05:30.10,Matsumoto,,0,0,0,,We've seen lots of panty-hose on faces before
+Dialogue: 0,0:05:30.10,0:05:32.20,Matsumoto,,0,0,0,,You did it before too, right?\N{\3c&H15BD1A&}- I did
+Dialogue: 0,0:05:32.20,0:05:36.21,Matsumoto,,0,0,0,,But right now we'd like to do something different, together
+Dialogue: 0,0:05:36.21,0:05:39.25,Matsumoto,,0,0,0,,So we'll make you wear one and take it off and so on
+Dialogue: 0,0:05:36.81,0:05:44.33,Titles,,0,0,0,,{\pos(654,498)\i1\c&H240FC2&\3c&HFFFFFF&}Put em on, take em off! Face panty hose!{\i0}
+Dialogue: 0,0:05:36.81,0:05:44.33,Titles,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&H52&\pos(640,580)}Wear panty hose and have them get off in succession
+Dialogue: 0,0:05:36.81,0:05:44.33,Titles,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\pos(636,632)}Let's see if it will be judged as{\c&H240FC2&\3c&HFFFFFF&} "comedy" {\c&H000000&\3c&HFFFFFF&}or {\c&HF60919&\3c&HFFFFFF&}"not comedy" {\c&H000000&} !
+Dialogue: 0,0:05:38.52,0:05:39.25,Hamada,,0,0,0,,{\pos(1136,664)}Oh, I see
+Dialogue: 0,0:05:39.25,0:05:41.00,Matsumoto,,0,0,0,,I'll have you help me
+Dialogue: 0,0:05:41.00,0:05:42.96,Matsumoto,,0,0,0,,So we'll make it in succession
+Dialogue: 0,0:05:42.96,0:05:44.33,Matsumoto,,0,0,0,,I think it'll be hilarious
+Dialogue: 0,0:05:44.33,0:05:47.05,Hamada,,0,0,0,,You mean his face?\N{\3c&H1727D6&}- Yeah, even his face
+Dialogue: 0,0:05:47.41,0:05:50.13,Housei,,0,0,0,,It does sound like something good for reactions
+Dialogue: 0,0:05:50.36,0:05:51.21,Matsumoto,,0,0,0,,I think that
+Dialogue: 0,0:05:51.21,0:05:52.61,Matsumoto,,0,0,0,,It'll be a complete success
+Dialogue: 0,0:05:52.61,0:05:54.92,Matsumoto,,0,0,0,,You'll get plenty of comedy medals for this
+Dialogue: 0,0:05:54.92,0:05:56.77,Endo,,0,0,0,,"Comedy medals"?
+Dialogue: 0,0:05:56.77,0:05:58.41,Housei,,0,0,0,,I want those!
+Dialogue: 0,0:05:58.41,0:06:02.73,Matsumoto,,0,0,0,,That's your chance for redemption\N{\3c&H15BD1A&}- I have to take them
+Dialogue: 0,0:06:03.21,0:06:04.93,Housei,,0,0,0,,I really want them
+Dialogue: 0,0:06:04.93,0:06:06.36,Matsumoto,,0,0,0,,So, we'll
+Dialogue: 0,0:06:06.36,0:06:08.06,Matsumoto,,0,0,0,,Go in order, like
+Dialogue: 0,0:06:08.06,0:06:09.88,Matsumoto,,0,0,0,,First Endo, then me, and so on
+Dialogue: 0,0:06:09.88,0:06:10.65,Tanaka,,0,0,0,,Alright
+Dialogue: 0,0:06:11.11,0:06:14.64,Matsumoto,,0,0,0,,Let's at least aim for 10 of them, or even 100
+Dialogue: 0,0:06:15.16,0:06:16.05,Housei,,0,0,0,,That hurts
+Dialogue: 0,0:06:17.88,0:06:18.93,Matsumoto,,0,0,0,,Alright, let's begin
+Dialogue: 0,0:06:18.93,0:06:22.76,Matsumoto,,0,0,0,,"Put em on, take em off! Face panty hose": start!!
+Dialogue: 0,0:06:24.16,0:06:24.86,Matsumoto,,0,0,0,,Lookin' good
+Dialogue: 0,0:06:24.86,0:06:26.46,Tanaka,,0,0,0,,Just like this
+Dialogue: 0,0:06:26.46,0:06:27.60,Matsumoto,,0,0,0,,That's it, good
+Dialogue: 0,0:06:28.40,0:06:29.88,Endo,,0,0,0,,Let's do it in succession
+Dialogue: 0,0:06:30.64,0:06:32.64,Hamada,,0,0,0,,Nice\N{\3c&H096FD4&}- Let's go, let's go
+Dialogue: 0,0:06:32.80,0:06:33.54,Hamada,,0,0,0,,That's enough
+Dialogue: 0,0:06:33.54,0:06:34.54,Endo,,0,0,0,,Nice, nice
+Dialogue: 0,0:06:35.00,0:06:36.49,Endo,,0,0,0,,Come on come on
+Dialogue: 0,0:06:42.06,0:06:42.56,Housei,,0,0,0,,It hurts---
+Dialogue: 0,0:06:47.36,0:06:48.54,Tanaka,,0,0,0,,Let's keep this up
+Dialogue: 0,0:06:48.54,0:06:50.76,Matsumoto,,0,0,0,,Let's go let's {\4c&H096FD4&}go let's go
+Dialogue: 0,0:06:50.76,0:06:51.60,Endo,,0,0,0,,We can do this
+Dialogue: 0,0:06:52.12,0:06:53.24,Endo,,0,0,0,,Go go go
+Dialogue: 0,0:06:57.00,0:06:59.12,Hamada,,0,0,0,,Lookin' good
+Dialogue: 0,0:06:59.12,0:07:00.36,Endo,,0,0,0,,Let's go, let's go
+Dialogue: 0,0:07:00.36,0:07:19.00,Upper Notes,,0,0,0,,["let's do this" "good" and "come on" all over]
+Dialogue: 0,0:07:13.87,0:07:16.96,Housei,,0,0,0,,M--- my eyes! You got my eyes!
+Dialogue: 0,0:07:18.26,0:07:19.26,Housei,,0,0,0,,Ouch
+Dialogue: 0,0:07:19.46,0:07:20.52,Tanaka,,0,0,0,,Here comes
+Dialogue: 0,0:07:20.52,0:07:21.13,Endo,,0,0,0,,Your verdict?
+Dialogue: 0,0:07:21.13,0:07:22.97,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)}THE HELL ARE YA DOIN' {\fnJokerman\i1\b1}{\fs60}?!
+Dialogue: 0,0:07:21.13,0:07:22.97,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H1D590E&\pos(640,710)\clip(342,608,936,688)}THE HELL ARE YA DOIN' {\fnJokerman\i1\b1}{\fs60}?!
+Dialogue: 0,0:07:24.37,0:07:25.93,Endo,,0,0,0,,Could it be not comedy...?
+Dialogue: 0,0:07:25.93,0:07:28.09,Endo,,0,0,0,,Which is it? Is it comedy or not?
+Dialogue: 0,0:07:28.09,0:07:29.69,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(342,608,936,688)}HOW CAN THIS BE COMEDY {\fnJokerman\i1\b1}{\fs60}?!
+Dialogue: 0,0:07:28.09,0:07:29.69,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}HOW CAN THIS BE COMEDY {\fnJokerman\i1\b1}{\fs60}?!
+Dialogue: 0,0:07:30.04,0:07:31.84,Endo,,0,0,0,,"No way", he said\N{\3c&H1727D6&}- For real?
+Dialogue: 0,0:07:31.84,0:07:32.64,Endo,,0,0,0,,It was not...
+Dialogue: 0,0:07:32.64,0:07:33.69,Housei,,0,0,0,,What have you done?
+Dialogue: 0,0:07:33.69,0:07:35.85,Hamada,,0,0,0,,The atmosphere felt good\N{\3c&H6B418C&}- It did
+Dialogue: 0,0:07:36.20,0:07:37.15,Housei,,0,0,0,,Midway
+Dialogue: 0,0:07:37.97,0:07:40.37,Housei,,0,0,0,,In the middle of it
+Dialogue: 0,0:07:40.37,0:07:42.81,Housei,,0,0,0,,I started feeling intense pain here
+Dialogue: 0,0:07:42.28,0:07:45.05,Endo,,0,0,0,,It's not strange, it's all about this
+Dialogue: 0,0:07:45.05,0:07:47.73,Housei,,0,0,0,,You hit me to the utmost, right?
+Dialogue: 0,0:07:47.73,0:07:49.09,Endo,,0,0,0,,No way we could do it\N{\3c&H1727D6&}- No way
+Dialogue: 0,0:07:49.09,0:07:52.49,Housei,,0,0,0,,Some of you did punch me with all his strength, I'm sure of it
+Dialogue: 0,0:07:50.76,0:07:52.31,Tanaka,,0,0,0,,{\pos(640,614)}But this is "face panty hose"...
+Dialogue: 0,0:07:52.31,0:07:53.56,Matsumoto,,0,0,0,,{\pos(640,614)}They're your juniors
+Dialogue: 0,0:07:53.56,0:07:55.76,Tanaka,,0,0,0,,No way we'd do that\N{\3c&H096FD4&}- We wouldn't dare
+Dialogue: 0,0:07:55.16,0:07:56.44,Matsumoto,,0,0,0,,As for myself
+Dialogue: 0,0:07:56.44,0:07:59.01,Matsumoto,,0,0,0,,I'd never hurt my beloved junior
+Dialogue: 0,0:07:59.01,0:08:01.41,Housei,,0,0,0,,Who was it?
+Dialogue: 0,0:08:01.41,0:08:02.56,Endo,,0,0,0,,What do you mean?
+Dialogue: 0,0:08:02.56,0:08:06.93,Housei,,0,0,0,,Who did punch me like that?
+Dialogue: 0,0:08:06.93,0:08:11.21,Hamada,,0,0,0,,I did like anyone else, just normally
+Dialogue: 0,0:08:11.21,0:08:14.01,Housei,,0,0,0,,Yeah but while doing it, you kicked me, right?
+Dialogue: 0,0:08:14.45,0:08:16.21,Housei,,0,0,0,,Was it you?
+Dialogue: 0,0:08:16.21,0:08:18.25,Tanaka,,0,0,0,,No way I would do that to my senior
+Dialogue: 0,0:08:18.25,0:08:19.84,Housei,,0,0,0,,Why treating me like that?
+Dialogue: 0,0:08:20.81,0:08:24.89,Hamada,,0,0,0,,I think if we pull this a bit more, he'll make a funnier face
+Dialogue: 0,0:08:26.71,0:08:28.84,Hamada,,0,0,0,,This is hilarious!\N{\3c&H096FD4&}- Isn't this comedy?
+Dialogue: 0,0:08:28.84,0:08:30.12,Hamada,,0,0,0,,What do you think?
+Dialogue: 0,0:08:33.82,0:08:35.88,Hamada,,0,0,0,,This is good, it's hilarious!
+Dialogue: 0,0:08:36.90,0:08:38.37,Endo,,0,0,0,,It went "bam!" as it came off
+Dialogue: 0,0:08:38.69,0:08:44.37,Titles,,0,0,0,,{\c&H85FFF8&\pos(644,474)}VERDICT: {\c&H248B25&\3c&HFFFFFF&}PUT EM ON TAKE EM OF - FACE PANTY HOSE
+Dialogue: 0,0:08:38.69,0:08:44.37,Titles,,0,0,0,,{\pos(632,638)\c&HF7C1B1&\4c&HFFFFFF&}IS NOT COMEDY !!
+Dialogue: 0,0:08:44.61,0:08:49.20,Hamada,,0,0,0,,"Middle-aged men sneezes on face: 10 hits"!!
+Dialogue: 0,0:08:45.01,0:08:50.73,Titles,,0,0,0,,{\frz3.751\fnScream Again\c&H000000&\3c&HFFFFFF&\4c&HFFD0AC&\pos(472,472)}Middle-aged men sneezes
+Dialogue: 0,0:08:45.96,0:08:50.73,Titles,,0,0,0,,{\fnMagneto\b1\fscx185\fscy227\pos(632,584)\c&H240FC2&\3c&HFFFFFF&\4c&HFFD0AC&}10 hits on face~{\i1}!!
+Dialogue: 0,0:08:51.84,0:08:53.64,Hamada,,0,0,0,,So, what's this about, Matsumoto?
+Dialogue: 0,0:08:53.64,0:08:56.68,Matsumoto,,0,0,0,,We can say this is something
+Dialogue: 0,0:08:56.68,0:08:59.16,Matsumoto,,0,0,0,,New to this industry
+Dialogue: 0,0:08:59.16,0:09:02.16,Matsumoto,,0,0,0,,We'll have some middle aged men
+Dialogue: 0,0:08:59.45,0:09:07.49,Titles,,0,0,0,,{\fad(0,300)\pos(654,498)\i1\c&H240FC2&\3c&HFFFFFF&}Middle-aged men sneezes on face: 10 hits~!!{\i0}
+Dialogue: 0,0:08:59.45,0:09:07.49,Titles,,0,0,0,,{\fad(0,300)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&H52&\pos(640,580)}Have some old dudes sneeze on your face in succession
+Dialogue: 0,0:08:59.45,0:09:07.49,Titles,,0,0,0,,{\fad(0,300)\c&H000000&\3c&HFFFFFF&\pos(636,632)}Let's see if it will be judged as{\c&H240FC2&\3c&HFFFFFF&} "comedy" {\c&H000000&\3c&HFFFFFF&}or {\c&HF60919&\3c&HFFFFFF&}"not comedy" {\c&H000000&} !
+Dialogue: 0,0:09:02.16,0:09:05.36,Matsumoto,,0,0,0,,Sneeze on his face for 10 consecutive times
+Dialogue: 0,0:09:05.36,0:09:07.81,Hamada,,0,0,0,,This is...
+Dialogue: 0,0:09:07.81,0:09:10.77,Matsumoto,,0,0,0,,I think this will make you earn several comedy medals
+Dialogue: 0,0:09:09.70,0:09:10.92,Tanaka,,0,0,0,,{\pos(640,610)}Isn't it good?      {\3c&H15BD1A&} - I see
+Dialogue: 0,0:09:10.92,0:09:12.84,Hamada,,0,0,0,,What do you think about it, Yama-chan?
+Dialogue: 0,0:09:12.84,0:09:13.97,Housei,,0,0,0,,I think that if I'm
+Dialogue: 0,0:09:13.97,0:09:14.97,Housei,,0,0,0,,Getting sneezed at---
+Dialogue: 0,0:09:14.97,0:09:16.89,Matsumoto,,0,0,0,,His voice is actually messed up
+Dialogue: 0,0:09:15.88,0:09:16.89,Endo,,0,0,0,,{\pos(640,610)}That's true
+Dialogue: 0,0:09:16.89,0:09:18.50,Endo,,0,0,0,,That's from before
+Dialogue: 0,0:09:18.50,0:09:20.28,Housei,,0,0,0,,When will it come back?
+Dialogue: 0,0:09:21.28,0:09:22.53,Housei,,0,0,0,,I'm starting to worry
+Dialogue: 0,0:09:21.60,0:09:22.53,Tanaka,,0,0,0,,It won't
+Dialogue: 0,0:09:22.53,0:09:27.25,Housei,,0,0,0,,If they're gonna do it, they have to jump at me properly
+Dialogue: 0,0:09:27.25,0:09:29.65,Hamada,,0,0,0,,Let's call our guests, please come in!
+Dialogue: 0,0:09:33.05,0:09:35.24,Matsumoto,,0,0,0,,There's plenty of them
+Dialogue: 0,0:09:35.24,0:09:36.84,Matsumoto,,0,0,0,,I see
+Dialogue: 0,0:09:36.84,0:09:38.88,Hamada,,0,0,0,,Alright, Yamazaki-san
+Dialogue: 0,0:09:38.88,0:09:41.76,Hamada,,0,0,0,,"Middle-aged men sneezes on face: 10 hits":
+Dialogue: 0,0:09:41.76,0:09:42.69,Hamada,,0,0,0,,Start!!
+Dialogue: 0,0:09:44.69,0:09:46.56,Matsumoto,,0,0,0,,At this point he's ready for everything
+Dialogue: 0,0:09:46.56,0:09:47.54,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:09:47.54,0:09:49.10,Matsumoto,,0,0,0,,He just have to accept it
+Dialogue: 0,0:09:49.10,0:09:51.20,Hamada,,0,0,0,,He can only take them
+Dialogue: 0,0:09:52.84,0:09:54.28,Endo,,0,0,0,,It's ten hits, you know
+Dialogue: 0,0:09:58.18,0:09:59.88,Endo,,0,0,0,,There are still 8 left
+Dialogue: 0,0:10:03.04,0:10:04.34,Endo,,0,0,0,,That was weak
+Dialogue: 0,0:10:04.72,0:10:06.28,Matsumoto,,0,0,0,,They're different
+Dialogue: 0,0:10:06.28,0:10:07.40,Endo,,0,0,0,,Yeah, there's a lot
+Dialogue: 0,0:10:09.04,0:10:09.84,Endo,,0,0,0,,That too?
+Dialogue: 0,0:10:09.84,0:10:11.21,Tanaka,,0,0,0,,He drew back!
+Dialogue: 0,0:10:14.24,0:10:15.38,Endo,,0,0,0,,This dude...
+Dialogue: 0,0:10:15.38,0:10:18.97,Matsumoto,,0,0,0,,I can feel malice in this guy
+Dialogue: 0,0:10:19.50,0:10:20.24,Endo,,0,0,0,,It's him again
+Dialogue: 0,0:10:21.84,0:10:24.77,Endo,,0,0,0,,This guy is evil!\N{\3c&HE911B0&}- He's good
+Dialogue: 0,0:10:24.77,0:10:27.32,Matsumoto,,0,0,0,,How about number 4?\N{\3c&H096FD4&}- He went before
+Dialogue: 0,0:10:27.32,0:10:29.93,Matsumoto,,0,0,0,,All this guy does is to draw back
+Dialogue: 0,0:10:29.93,0:10:32.05,Hamada,,0,0,0,,Number 3 is hilarious
+Dialogue: 0,0:10:32.05,0:10:33.15,Matsumoto,,0,0,0,,He's the main star
+Dialogue: 0,0:10:33.15,0:10:34.16,Hamada,,0,0,0,,Here he comes
+Dialogue: 0,0:10:39.16,0:10:40.92,Endo,,0,0,0,,That was good, wasn't it?
+Dialogue: 0,0:10:47.88,0:10:49.32,Endo,,0,0,0,,Number 1 hasn't sneezed yet
+Dialogue: 0,0:10:49.82,0:10:51.32,Matsumoto,,0,0,0,,They're having a blast
+Dialogue: 0,0:10:51.32,0:10:52.32,Hamada,,0,0,0,,Bring the camera
+Dialogue: 0,0:10:52.32,0:10:53.17,Matsumoto,,0,0,0,,Bring it, yeah
+Dialogue: 0,0:10:53.17,0:10:54.44,Tanaka,,0,0,0,,Here he comes again!
+Dialogue: 0,0:11:01.88,0:11:02.45,Endo,,0,0,0,,How was it?
+Dialogue: 0,0:11:02.45,0:11:05.81,Housei,,0,0,0,,It stinks
+Dialogue: 0,0:11:05.81,0:11:06.89,Matsumoto,,0,0,0,,Who cares about that!
+Dialogue: 0,0:11:06.89,0:11:09.37,Endo,,0,0,0,,We want your verdict
+Dialogue: 0,0:11:09.37,0:11:11.33,Matsumoto,,0,0,0,,Is it comedy or not?
+Dialogue: 0,0:11:10.23,0:11:11.33,Tanaka,,0,0,0,,{\pos(640,620)}Tell us please
+Dialogue: 0,0:11:11.33,0:11:13.45,Housei,,0,0,0,,It stinks
+Dialogue: 0,0:11:13.45,0:11:14.49,Housei,,0,0,0,,It reeks
+Dialogue: 0,0:11:15.92,0:11:17.00,Hamada,,0,0,0,,This is...
+Dialogue: 0,0:11:17.00,0:11:19.01,Matsumoto,,0,0,0,,Ok but is it comedy or not?
+Dialogue: 0,0:11:19.29,0:11:22.49,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(342,608,936,688)}IT WAS HUMILIATING {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:11:19.29,0:11:22.49,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}IT WAS HUMILIATING {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:11:21.28,0:11:22.49,Endo,,0,0,0,,{\pos(654,542)}In other words...?
+Dialogue: 0,0:11:22.49,0:11:25.37,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H1D590E&\pos(640,710)\clip(234,556,1078,688)}THIS KIND OF SHIT IS NOT COMEDY {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:11:22.49,0:11:25.37,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}THIS KIND OF SHIT IS NOT COMEDY {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:11:27.08,0:11:29.28,Tanaka,,0,0,0,,You got through it though
+Dialogue: 0,0:11:30.28,0:11:31.01,Hamada,,0,0,0,,My my my
+Dialogue: 0,0:11:31.01,0:11:33.37,Housei,,0,0,0,,{\fad(400,0)\c&HFFFFFF&\1a&H2C&\3c&H22D727&\3a&H2F&\4c&H000000&\4a&H55&}It stinks...
+Dialogue: 0,0:11:33.37,0:11:36.56,Endo,,0,0,0,,That's cause Number 3 hit you lots of times
+Dialogue: 0,0:11:38.40,0:11:40.60,Housei,,0,0,0,,It reeks!\N{\3c&HF60919&}- He became a new character
+Dialogue: 0,0:11:40.60,0:11:42.97,Endo,,0,0,0,,We can't blame anyone for this\N{\3c&H22D727&}- Hey
+Dialogue: 0,0:11:42.97,0:11:45.49,Housei,,0,0,0,,Lend me something for wiping
+Dialogue: 0,0:11:45.49,0:11:48.12,Matsumoto,,0,0,0,,I don't think there's anything like that\N{\3c&H22D727&}- Please
+Dialogue: 0,0:11:49.22,0:11:50.52,Matsumoto,,0,0,0,,What the hell?
+Dialogue: 0,0:11:50.52,0:11:53.01,Endo,,0,0,0,,There's nothing\N{\3c&H1727D6&}- So, it's not comedy?
+Dialogue: 0,0:11:53.83,0:11:54.72,Tanaka,,0,0,0,,Is it not?
+Dialogue: 0,0:11:54.72,0:11:56.33,Endo,,0,0,0,,We can't use it?
+Dialogue: 0,0:11:56.33,0:11:57.65,Matsumoto,,0,0,0,,He said that for all of them
+Dialogue: 0,0:11:57.65,0:11:59.75,Tanaka,,0,0,0,,Yeah, and this one was fun
+Dialogue: 0,0:11:59.75,0:12:01.68,Matsumoto,,0,0,0,,We could have used this gag!
+Dialogue: 0,0:12:01.68,0:12:02.85,Endo,,0,0,0,,Yes, it was hilarious
+Dialogue: 0,0:12:05.20,0:12:06.24,Hamada,,0,0,0,,I can see that
+Dialogue: 0,0:12:06.24,0:12:08.53,Matsumoto,,0,0,0,,It was fun, right?\N{\3c&HE911B0&}- A lot
+Dialogue: 0,0:12:08.53,0:12:10.13,Endo,,0,0,0,,So fun\N{\3c&HE911B0&}- Is it not good?
+Dialogue: 0,0:12:10.13,0:12:11.08,Housei,,0,0,0,,It's not good
+Dialogue: 0,0:12:11.08,0:12:12.09,Hamada,,0,0,0,,No?\N{\3c&H22D727&}- No way
+Dialogue: 0,0:12:12.99,0:12:14.60,Hamada,,0,0,0,,How does it feel like?
+Dialogue: 0,0:12:14.60,0:12:16.49,Housei,,0,0,0,,Uhm...\N{\3c&HF60919&}- I mean, getting sneezed at
+Dialogue: 0,0:12:16.49,0:12:16.89,Housei,,0,0,0,,Well,
+Dialogue: 0,0:12:16.89,0:12:20.41,Housei,,0,0,0,,It's humiliating
+Dialogue: 0,0:12:18.24,0:12:20.41,Matsumoto,,0,0,0,,{\pos(640,614)}But we had them wait so much
+Dialogue: 0,0:12:20.41,0:12:23.21,Housei,,0,0,0,,Can't help it, I waited too, it's humiliating
+Dialogue: 0,0:12:22.16,0:12:23.96,Matsumoto,,0,0,0,,{\pos(642,616)}Your voice is so raspy
+Dialogue: 0,0:12:27.85,0:12:30.37,Housei,,0,0,0,,I've never smelled something that bad
+Dialogue: 0,0:12:30.37,0:12:31.96,Tanaka,,0,0,0,,Woah, was it that bad?
+Dialogue: 0,0:12:32.89,0:12:38.57,Titles,,0,0,0,,{\c&H85FFF8&\pos(644,474)}VERDICT: {\c&H248B25&\3c&HFFFFFF&}MIDDLE-AGED MEN SNEEZES ON FACE - 10 HITS
+Dialogue: 0,0:12:32.89,0:12:38.57,Titles,,0,0,0,,{\pos(632,638)\c&HF7C1B1&\4c&HFFFFFF&}IS NOT COMEDY !!
+Dialogue: 0,0:12:38.84,0:12:43.92,Hamada,,0,0,0,,"Down from the tower! Small watermelon head-crack!"
+Dialogue: 0,0:12:38.83,0:12:44.88,Titles,,0,0,0,,{\fad(0,300)\frz0.9758\fnInk Free\b1\fscx160\fscy146\pos(452,468)\c&H741108&\3c&HFFFFFF&\4c&HFFD0AC&}Down from the tower!{\b0}
+Dialogue: 0,0:12:40.41,0:12:44.88,Titles,,0,0,0,,{\fad(0,300)\fnChiller\b1\fs48\fscx171\fscy171\pos(638,612)\c&H248B25&\3c&HFFFFFF&\4c&H248B25&}Small watermelon head-crack{\fnComic Sans MS}{\b0}~ {\i1}!! {\b0}
+Dialogue: 0,0:12:46.82,0:12:47.88,Hamada,,0,0,0,,So, Matsumoto-san
+Dialogue: 0,0:12:47.88,0:12:48.61,Hamada,,0,0,0,,What now?
+Dialogue: 0,0:12:48.61,0:12:52.49,Matsumoto,,0,0,0,,We used small watermelons lots of times in Gaki
+Dialogue: 0,0:12:52.49,0:12:56.84,Matsumoto,,0,0,0,,And I think we all agree it's funny to see \None of them smacked on someone's face
+Dialogue: 0,0:12:56.84,0:13:01.77,Matsumoto,,0,0,0,,But what about having it fall on someone's head from 10 meters?
+Dialogue: 0,0:12:58.53,0:13:06.37,Titles,,0,0,0,,{\fad(0,0)\pos(654,498)\i1\c&H240FC2&\3c&HFFFFFF&}Small watermelon head-crack!!{\i0}
+Dialogue: 0,0:12:58.53,0:13:06.37,Titles,,0,0,0,,{\fad(0,0)\c&H000000&\3c&HFFFFFF&\4c&H000000&\4a&H52&\pos(634,580)}Break the small watermelon dropped from an height of 10 meters with your head
+Dialogue: 0,0:12:58.53,0:13:06.37,Titles,,0,0,0,,{\fad(0,0)\c&H000000&\3c&HFFFFFF&\pos(506,628)}Let's see if it will be judged as{\c&H240FC2&\3c&HFFFFFF&} "comedy" {\c&H000000&\3c&HFFFFFF&}or {\c&HF60919&\3c&HFFFFFF&}"not comedy" {\c&H000000&} !
+Dialogue: 0,0:13:01.77,0:13:04.34,Matsumoto,,0,0,0,,I think we have to set some guidelines for it
+Dialogue: 0,0:13:04.34,0:13:06.37,Hamada,,0,0,0,,This is pretty solid
+Dialogue: 0,0:13:07.67,0:13:09.32,Matsumoto,,0,0,0,,It will be aimed at you
+Dialogue: 0,0:13:09.32,0:13:10.56,Hamada,,0,0,0,,This weight...
+Dialogue: 0,0:13:10.56,0:13:11.56,Matsumoto,,0,0,0,,Got it?
+Dialogue: 0,0:13:11.56,0:13:16.72,Matsumoto,,0,0,0,,This will fall from 10 meters, so it will be a lot more
+Dialogue: 0,0:13:16.72,0:13:18.01,Hamada,,0,0,0,,Its weight, yeah
+Dialogue: 0,0:13:18.01,0:13:19.49,Housei,,0,0,0,,I already think
+Dialogue: 0,0:13:19.49,0:13:21.85,Housei,,0,0,0,,This is not comedy
+Dialogue: 0,0:13:21.85,0:13:23.49,Matsumoto,,0,0,0,,You can't say it yet\N{\3c&HE911B0&}- Wait
+Dialogue: 0,0:13:23.49,0:13:27.69,Matsumoto,,0,0,0,,Something you judge as "comedy" has yet to appear, geez
+Dialogue: 0,0:13:25.40,0:13:27.69,Tanaka,,0,0,0,,{\pos(640,612)}He's right, you said no to everything
+Dialogue: 0,0:13:27.92,0:13:29.61,Housei,,0,0,0,,Yeah but I mean, this is really...
+Dialogue: 0,0:13:30.31,0:13:33.09,Matsumoto,,0,0,0,,It's gonna roll all the way and fall on your head
+Dialogue: 0,0:13:33.09,0:13:34.29,Matsumoto,,0,0,0,,For this one
+Dialogue: 0,0:13:34.29,0:13:36.89,Matsumoto,,0,0,0,,We'll have Tanaka-kun go up and do it
+Dialogue: 0,0:13:36.89,0:13:39.09,Housei,,0,0,0,,I think Hamada-san is better suited for this
+Dialogue: 0,0:13:39.09,0:13:41.57,Matsumoto,,0,0,0,,It's not like it has anything to do with Hamada
+Dialogue: 0,0:13:41.57,0:13:43.77,Matsumoto,,0,0,0,,And he's also not good with heights
+Dialogue: 0,0:13:43.13,0:13:43.77,Hamada,,0,0,0,,{\pos(638,608)}That's true
+Dialogue: 0,0:13:44.81,0:13:48.17,Matsumoto,,0,0,0,,I think it's about time we get a "it's comedy" from you
+Dialogue: 0,0:13:46.50,0:13:49.69,Tanaka,,0,0,0,,{\pos(642,618)}I agree, I really want this to work out
+Dialogue: 0,0:13:48.17,0:13:49.69,Housei,,0,0,0,,I want it too, really
+Dialogue: 0,0:13:49.69,0:13:54.69,Matsumoto,,0,0,0,,Also, how many will hit you out of the total of 36?
+Dialogue: 0,0:13:55.13,0:13:58.53,Housei,,0,0,0,,You gotta be kidding me!
+Dialogue: 0,0:13:57.32,0:13:58.53,Matsumoto,,0,0,0,,{\pos(644,606)}We don't know
+Dialogue: 0,0:13:58.53,0:14:00.77,Matsumoto,,0,0,0,,We didn't ask how many there will be
+Dialogue: 0,0:14:00.77,0:14:04.81,Housei,,0,0,0,,You already broke my throat!
+Dialogue: 0,0:14:03.44,0:14:04.81,Matsumoto,,0,0,0,,{\pos(638,610)}Well, at least
+Dialogue: 0,0:14:04.81,0:14:07.52,Matsumoto,,0,0,0,,Let's see how the first one goes
+Dialogue: 0,0:14:08.08,0:14:08.88,Others,,0,0,0,,And so,
+Dialogue: 0,0:14:09.60,0:14:14.09,Titles,,0,0,0,,{\fad(400,0)\pos(352,498)}{\fnScream Again\b1\c&H248B25&\3c&HFFFFFF&\fscx140\fscy142\pos(656,586)}Small Watermelon Head Crack:
+Dialogue: 0,0:14:09.60,0:14:14.09,Titles,,0,0,0,,{\fad(400,0)\fnScream Again\fs48\3c&HFFFFFF&\c&H240FC2&\pos(640,594)}Will it be comedy{\fnJokerman\i1} {\b1}!? {\fnScream Again\i0\b0\c&HF60919&} {\c&H741108&}Or not comedy {\i1\b1\fnJokerman}!?
+Dialogue: 0,0:14:08.88,0:14:10.80,Others,,0,0,0,,Will "Small watermelon head-crack" be
+Dialogue: 0,0:14:10.80,0:14:13.76,Others,,0,0,0,,Labeled as comedy or not?
+Dialogue: 0,0:14:14.12,0:14:16.13,Endo,,0,0,0,,I've seen this on TV before\N{\3c&H22D727&}- Are you for real?!
+Dialogue: 0,0:14:17.08,0:14:19.37,Matsumoto,,0,0,0,,This is...\N{\3c&HE911B0&}- I'm here
+Dialogue: 0,0:14:19.37,0:14:21.20,Matsumoto,,0,0,0,,Alright, everything's set
+Dialogue: 0,0:14:21.20,0:14:22.16,Hamada,,0,0,0,,This is incredible
+Dialogue: 0,0:14:22.16,0:14:23.69,Housei,,0,0,0,,Wait a sec\N{\3c&HE911B0&}- Ok
+Dialogue: 0,0:14:26.00,0:14:30.25,Matsumoto,,0,0,0,,He'll just place the watermelon there \Nand it will roll down automatically
+Dialogue: 0,0:14:30.45,0:14:35.65,Housei,,0,0,0,,Is comedy supposed to be something this scary?
+Dialogue: 0,0:14:34.08,0:14:35.65,Matsumoto,,0,0,0,,{\pos(644,612)}Well, it's all about
+Dialogue: 0,0:14:35.65,0:14:40.69,Matsumoto,,0,0,0,,Having this tension turn into something to laugh about
+Dialogue: 0,0:14:37.85,0:14:40.69,Hamada,,0,0,0,,{\pos(644,614)}This will be better than the previous ones
+Dialogue: 0,0:14:40.69,0:14:44.45,Matsumoto,,0,0,0,,Comedy medals will pour down on you like hail
+Dialogue: 0,0:14:44.93,0:14:46.65,Tanaka,,0,0,0,,{\pos(664,192)}Are you ready!?
+Dialogue: 0,0:14:47.12,0:14:48.25,Housei,,0,0,0,,Are you for real?
+Dialogue: 0,0:14:48.92,0:14:50.61,Housei,,0,0,0,,Wait, for real?
+Dialogue: 0,0:14:50.91,0:14:52.16,Matsumoto,,0,0,0,,That's all he's been sayin'
+Dialogue: 0,0:14:53.61,0:14:55.33,Tanaka,,0,0,0,,{\pos(658,196)}Can I toss it!?
+Dialogue: 0,0:14:55.33,0:14:56.29,Housei,,0,0,0,,Alright!
+Dialogue: 0,0:14:56.29,0:14:58.93,Matsumoto,,0,0,0,,Come on, Tanaka is getting pissed
+Dialogue: 0,0:14:58.93,0:15:00.24,Hamada,,0,0,0,,Ok, shall we begin?
+Dialogue: 0,0:15:00.73,0:15:01.34,Housei,,0,0,0,,W-wait
+Dialogue: 0,0:15:01.34,0:15:02.96,Hamada,,0,0,0,,"Small watermelon...
+Dialogue: 0,0:15:02.60,0:15:02.96,Housei,,0,0,0,,Wait--
+Dialogue: 0,0:15:02.96,0:15:04.09,Hamada,,0,0,0,,...head crack":
+Dialogue: 0,0:15:04.68,0:15:06.32,Hamada,,0,0,0,,Start!!
+Dialogue: 0,0:15:07.08,0:15:08.32,Housei,,0,0,0,,Wait, wait!!
+Dialogue: 0,0:15:08.32,0:15:09.53,Endo,,0,0,0,,Here comes
+Dialogue: 0,0:15:10.12,0:15:12.09,Matsumoto,,0,0,0,,Scary!\N{\3c&H096FD4&}- Here it comes
+Dialogue: 0,0:15:12.37,0:15:13.48,Hamada,,0,0,0,,That's so scary!
+Dialogue: 0,0:15:20.46,0:15:21.92,Hamada,,0,0,0,,Wasn't that good?
+Dialogue: 0,0:15:25.70,0:15:27.12,Endo,,0,0,0,,How will he judge this?
+Dialogue: 0,0:15:28.08,0:15:28.72,Endo,,0,0,0,,Which is it?
+Dialogue: 0,0:15:28.72,0:15:30.32,Matsumoto,,0,0,0,,Is it comedy or not?
+Dialogue: 0,0:15:30.32,0:15:31.89,Endo,,0,0,0,,It broke so good
+Dialogue: 0,0:15:34.48,0:15:36.85,Housei,,0,0,0,,{\4c&H15BD1A&\3c&HFFFFFF&\c&H000000&\fnSnap ITC}This isn't comedy
+Dialogue: 0,0:15:37.35,0:15:38.55,Matsumoto,,0,0,0,,But that {\i1}is {\i0}comedy
+Dialogue: 0,0:15:38.55,0:15:40.32,Hamada,,0,0,0,,How can it not be?\N{\3c&H096FD4&}- You sure?
+Dialogue: 0,0:15:40.32,0:15:42.48,Matsumoto,,0,0,0,,It was so good\N{\3c&HF60919&}- It broke so nicely
+Dialogue: 0,0:15:43.00,0:15:44.53,Endo,,0,0,0,,He got sniped
+Dialogue: 0,0:15:44.53,0:15:45.88,Hamada,,0,0,0,,We did it good
+Dialogue: 0,0:15:46.78,0:15:48.09,Hamada,,0,0,0,,Right, Yama-chan?
+Dialogue: 0,0:15:48.09,0:15:49.44,Matsumoto,,0,0,0,,It was good, right?
+Dialogue: 0,0:15:48.45,0:15:53.37,Credits,,0,0,0,,{\fad(300,300)\pos(646,598)\fnkawaii手書き文字\b1\fscx73\fscy98}this is a performance Yamazaki is doing as a professional comedian
+Dialogue: 0,0:15:48.45,0:15:53.37,Credits,,0,0,0,,{\fad(300,300)\fnkawaii手書き文字\b1\fscx81\fscy99\pos(544,652)}please do not attempt to imitate him
+Dialogue: 0,0:15:49.44,0:15:50.72,Matsumoto,,0,0,0,,It didn't hurt, didn't it?
+Dialogue: 0,0:15:51.69,0:15:54.09,Endo,,0,0,0,,That was such a clean shot\N{\3c&HF60919&}- I know, right?
+Dialogue: 0,0:15:54.64,0:15:55.61,Matsumoto,,0,0,0,,What's wrong?
+Dialogue: 0,0:15:55.61,0:15:57.73,Hamada,,0,0,0,,You're not bleeding
+Dialogue: 0,0:15:57.73,0:16:01.29,Matsumoto,,0,0,0,,Your acting really sucks
+Dialogue: 0,0:15:57.04,0:15:58.44,Endo,,0,0,0,,{\pos(640,620)}It's not
+Dialogue: 0,0:15:59.72,0:16:01.29,Endo,,0,0,0,,{\pos(640,620)}You're not bleeding
+Dialogue: 0,0:16:01.29,0:16:02.92,Housei,,0,0,0,,We all
+Dialogue: 0,0:16:03.44,0:16:05.88,Housei,,0,0,0,,Worked hard for this one, right?\N{\3c&H096FD4&} - We did
+Dialogue: 0,0:16:07.08,0:16:08.33,Housei,,0,0,0,,But really...
+Dialogue: 0,0:16:08.33,0:16:12.73,Housei,,0,0,0,,I can assure no one was laughing that much
+Dialogue: 0,0:16:11.08,0:16:13.36,Hamada,,0,0,0,,{\pos(640,614)}No way, no way, you're wrong
+Dialogue: 0,0:16:13.36,0:16:14.80,Hamada,,0,0,0,,We all shouted "woah"!
+Dialogue: 0,0:16:14.80,0:16:16.24,Hamada,,0,0,0,,We were surprised
+Dialogue: 0,0:16:16.24,0:16:19.09,Matsumoto,,0,0,0,,In a way, on that moment we weren't laughing
+Dialogue: 0,0:16:19.09,0:16:20.81,Housei,,0,0,0,,And that's why it's not comedy
+Dialogue: 0,0:16:22.60,0:16:25.56,Matsumoto,,0,0,0,,So what should we do? We don't really know either
+Dialogue: 0,0:16:25.56,0:16:27.05,Housei,,0,0,0,,I can see you're determined
+Dialogue: 0,0:16:27.05,0:16:31.45,Housei,,0,0,0,,But "effort" and "comedy" aren't the same thing
+Dialogue: 0,0:16:29.69,0:16:31.45,Endo,,0,0,0,,{\pos(638,612)}Ok, but...
+Dialogue: 0,0:16:31.45,0:16:34.41,Endo,,0,0,0,,When you think about it, it's funny\N{\3c&H1727D6&}- Yes, if you re-think it
+Dialogue: 0,0:16:34.41,0:16:35.84,Hamada,,0,0,0,,No good?\N{\3c&H22D727&}- No good
+Dialogue: 0,0:16:37.00,0:16:38.25,Housei,,0,0,0,,Also
+Dialogue: 0,0:16:38.25,0:16:41.49,Housei,,0,0,0,,Did the watermelon get inside my eyes?
+Dialogue: 0,0:16:41.49,0:16:42.89,Matsumoto,,0,0,0,,It did not
+Dialogue: 0,0:16:42.89,0:16:44.48,Housei,,0,0,0,,I can feel it inside em
+Dialogue: 0,0:16:45.78,0:16:46.57,Matsumoto,,0,0,0,,Like
+Dialogue: 0,0:16:46.57,0:16:48.49,Matsumoto,,0,0,0,,In your eyebags?
+Dialogue: 0,0:16:47.44,0:16:48.49,Housei,,0,0,0,,{\pos(642,612)}Exactly
+Dialogue: 0,0:16:48.49,0:16:50.92,Matsumoto,,0,0,0,,Are they full of watermelon juice?\N{\3c&H22D727&}- Yes
+Dialogue: 0,0:16:50.92,0:16:52.73,Housei,,0,0,0,,I can feel them pressing
+Dialogue: 0,0:16:52.73,0:16:54.83,Matsumoto,,0,0,0,,Well, I can't deny they seem swollen
+Dialogue: 0,0:16:54.83,0:16:55.53,Housei,,0,0,0,,Right?
+Dialogue: 0,0:16:55.53,0:16:58.32,Matsumoto,,0,0,0,,You sort of became Marlon Brando
+Dialogue: 0,0:16:56.29,0:17:03.05,Titles,,0,0,0,,{\4c&HD5AF0B&\pos(170,702)}Marlon Brando
+Dialogue: 0,0:16:58.32,0:16:59.12,Matsumoto,,0,0,0,,That's true
+Dialogue: 0,0:16:59.46,0:17:00.32,Matsumoto,,0,0,0,,How come?
+Dialogue: 0,0:17:00.32,0:17:03.05,Housei,,0,0,0,,It's cause it got inside\N{\3c&H1727D6&}- It did, yeah
+Dialogue: 0,0:17:03.05,0:17:05.40,Endo,,0,0,0,,So it's not comedy?\N{\3c&HF60919&}- Seems like it
+Dialogue: 0,0:17:05.65,0:17:07.41,Hamada,,0,0,0,,Even though it was so good\N{\3c&H096FD4&}- Yeah...
+Dialogue: 0,0:17:07.94,0:17:08.92,Matsumoto,,0,0,0,,Sorry, Tanaka
+Dialogue: 0,0:17:08.92,0:17:09.64,Tanaka,,0,0,0,,Was it no good?
+Dialogue: 0,0:17:09.64,0:17:10.65,Others,,0,0,0,,{\4c&H02FFF7&}Yeah, no good
+Dialogue: 0,0:17:10.65,0:17:13.25,Tanaka,,0,0,0,,Are you done? I mean, I have tons of watermelons here
+Dialogue: 0,0:17:13.25,0:17:16.49,Housei,,0,0,0,,Are you idiot? We're done!
+Dialogue: 0,0:17:16.49,0:17:17.92,Matsumoto,,0,0,0,,He said you're idiot, Tanaka
+Dialogue: 0,0:17:17.92,0:17:19.08,Endo,,0,0,0,,It's not comedy
+Dialogue: 0,0:17:20.49,0:17:26.17,Titles,,0,0,0,,{\c&H85FFF8&\pos(644,474)}VERDICT: {\c&H248B25&\3c&HFFFFFF&}SMALL WATERMELON HEAD CRACK
+Dialogue: 0,0:17:20.49,0:17:26.17,Titles,,0,0,0,,{\pos(632,638)\c&HF7C1B1&\4c&HFFFFFF&}IS NOT COMEDY !!
+Dialogue: 0,0:17:19.08,0:17:20.00,Tanaka,,0,0,0,,Got it
+Dialogue: 0,0:17:26.40,0:17:30.80,Hamada,,0,0,0,,"Drink up! Megaphone water truck gulpin' drinking!"
+Dialogue: 0,0:17:26.33,0:17:26.93,Titles,,0,0,0,,{\c&HBF29D2&\3c&HFFFFFF&\4c&HBF29D2&\fnInk Free\b1\fscx200\fscy171\pos(436,468)\frz357.8}Drink up!{\b0}
+Dialogue: 0,0:17:26.93,0:17:35.09,Titles,,0,0,0,,{\c&HBF29D2&\3c&HFFFFFF&\4c&HBF29D2&\fnInk Free\b1\pos(436,468)\fscx242\fscy212\frz5.898}Drink up!{\b0}
+Dialogue: 0,0:17:29.00,0:17:35.09,Titles,,0,0,0,,{\fnJuice ITC\b1\fscx217\fscy198\pos(676,596)\c&HA16E11&\3c&HFFFFFF&}Megaphone water truck gulpin' drinking !{\b0}
+Dialogue: 0,0:17:34.00,0:17:35.08,Hamada,,0,0,0,,So, what's this about?
+Dialogue: 0,0:17:35.08,0:17:37.98,Matsumoto,,0,0,0,,We have a water truck prepared for this one, today
+Dialogue: 0,0:17:37.98,0:17:41.72,Matsumoto,,0,0,0,,And we also have this plastic megaphone, a large one
+Dialogue: 0,0:17:35.93,0:17:44.53,Titles,,0,0,0,,{\fad(0,300)\pos(654,498)\i1\c&H240FC2&\3c&HFFFFFF&}Megaphone water truck gulpin' drinking
+Dialogue: 0,0:17:35.93,0:17:44.53,Titles,,0,0,0,,{\fad(0,300)\c&H741108&\3c&HFFFFFF&\pos(628,622)}Gulp it all down by catching it with the megaphone!
+Dialogue: 0,0:17:35.93,0:17:44.53,Titles,,0,0,0,,{\fad(0,300)\c&H000000&\3c&HFFFFFF&\pos(634,576)}Drink up the large amount of water fired by the water truck:
+Dialogue: 0,0:17:41.72,0:17:44.44,Matsumoto,,0,0,0,,We'll have him hold it like this
+Dialogue: 0,0:17:44.44,0:17:45.01,Matsumoto,,0,0,0,,Basically
+Dialogue: 0,0:17:45.01,0:17:46.25,Matsumoto,,0,0,0,,It's a all-you-can-drink
+Dialogue: 0,0:17:47.08,0:17:50.32,Matsumoto,,0,0,0,,You have to catch the water fired from the truck
+Dialogue: 0,0:17:50.32,0:17:51.89,Matsumoto,,0,0,0,,With this and drink it
+Dialogue: 0,0:17:51.89,0:17:54.77,Matsumoto,,0,0,0,,A water all-you-can-drink
+Dialogue: 0,0:17:54.77,0:17:58.13,Matsumoto,,0,0,0,,I mean, don't you like drinking water?
+Dialogue: 0,0:17:58.13,0:17:59.33,Matsumoto,,0,0,0,,You drink a lot of it!
+Dialogue: 0,0:17:59.33,0:18:01.21,Matsumoto,,0,0,0,,I saw you drinking it lots of times
+Dialogue: 0,0:18:01.21,0:18:04.21,Matsumoto,,0,0,0,,That's where I got the hint for this
+Dialogue: 0,0:18:04.21,0:18:07.09,Matsumoto,,0,0,0,,One time we had dinner and I saw him drinking water
+Dialogue: 0,0:18:07.09,0:18:09.49,Matsumoto,,0,0,0,,And there I got the hint for this
+Dialogue: 0,0:18:08.49,0:18:10.13,Housei,,0,0,0,,{\pos(636,526)}Of course you'd drink it
+Dialogue: 0,0:18:09.49,0:18:12.33,Matsumoto,,0,0,0,,Yep
+Dialogue: 0,0:18:10.13,0:18:12.33,Housei,,0,0,0,,{\pos(636,526)}"Yep" my ass
+Dialogue: 0,0:18:12.88,0:18:13.64,Others,,0,0,0,,This time
+Dialogue: 0,0:18:13.64,0:18:15.64,Others,,0,0,0,,Will this megaphone drinking challenge
+Dialogue: 0,0:18:14.38,0:18:18.85,Titles,,0,0,0,,{\fad(400,0)\pos(856,486)}{\fnScream Again\b1\c&H248B25&\3c&HFFFFFF&\fscx140\fscy142\pos(656,586)}Megaphone water truck drinking:
+Dialogue: 0,0:18:14.38,0:18:18.85,Titles,,0,0,0,,{\fad(400,0)\fnScream Again\fs48\3c&HFFFFFF&\c&H240FC2&\pos(834,594)}Will it be comedy{\fnJokerman\i1} {\b1}!? {\fnScream Again\i0\b0\c&HF60919&} {\c&H741108&}Or not comedy {\i1\b1\fnJokerman}!?
+Dialogue: 0,0:18:15.64,0:18:18.20,Others,,0,0,0,,Be judged as comedy or not?
+Dialogue: 0,0:18:18.85,0:18:22.28,Matsumoto,,0,0,0,,"Megaphone water truck gulpin' drinking": start!
+Dialogue: 0,0:18:22.28,0:18:23.44,Endo,,0,0,0,,Here goes!
+Dialogue: 0,0:18:31.44,0:18:32.32,Housei,,0,0,0,,Cold!!
+Dialogue: 0,0:18:33.50,0:18:35.12,Endo,,0,0,0,,It got in, Matsumoto!
+Dialogue: 0,0:18:38.12,0:18:39.68,Hamada,,0,0,0,,We should aim higher
+Dialogue: 0,0:18:40.60,0:18:41.68,Endo,,0,0,0,,Is it getting in?
+Dialogue: 0,0:18:42.28,0:18:44.81,Endo,,0,0,0,,Matsumoto-san, how is it?
+Dialogue: 0,0:18:44.81,0:18:46.81,Matsumoto,,0,0,0,,He should lower the megaphone a bit
+Dialogue: 0,0:18:46.81,0:18:49.08,Endo,,0,0,0,,Yamazaki, lower the megaphone!
+Dialogue: 0,0:19:20.08,0:19:20.68,Matsumoto,,0,0,0,,Alright
+Dialogue: 0,0:19:21.53,0:19:24.25,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(342,608,936,688)}WHAT THE HE {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:19:21.53,0:19:24.25,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}WHAT THE HE {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:19:24.25,0:19:27.85,Others,,0,0,0,,{\4c&H02FFF7&}"What the he"...?
+Dialogue: 0,0:19:27.85,0:19:29.12,Tanaka,,0,0,0,,That's what he said
+Dialogue: 0,0:19:29.12,0:19:31.60,Matsumoto,,0,0,0,,"What the he"?\N{\3c&H096FD4&}- We don't get it
+Dialogue: 0,0:19:31.60,0:19:33.08,Hamada,,0,0,0,,What happened?
+Dialogue: 0,0:19:34.45,0:19:40.73,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(0,514,1156,686)}WHAT THE HE, THE HE, THE HEEE {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:19:34.45,0:19:40.73,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(42,682,1176,712)}WHAT THE HE, THE HE, THE HEEE {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:19:37.20,0:19:38.25,Hamada,,0,0,0,,{\pos(644,560)}That's a combo
+Dialogue: 0,0:19:38.25,0:19:38.80,Matsumoto,,0,0,0,,{\pos(644,560)}What's wrong?
+Dialogue: 0,0:19:38.80,0:19:40.73,Endo,,0,0,0,,{\pos(644,560)}How should we judge this?
+Dialogue: 0,0:19:40.73,0:19:41.83,Endo,,0,0,0,,I mean, is it comedy?
+Dialogue: 0,0:19:41.83,0:19:45.00,Hamada,,0,0,0,,Matsumoto, do you think water got inside the megaphone?
+Dialogue: 0,0:19:45.00,0:19:47.81,Matsumoto,,0,0,0,,I mean, Yamazaki's technique...
+Dialogue: 0,0:19:47.81,0:19:50.24,Matsumoto,,0,0,0,,I can't deny he had one, but
+Dialogue: 0,0:19:50.24,0:19:53.53,Matsumoto,,0,0,0,,He had to improve his posture\N{\3c&HF60919&}- He should have raised it more
+Dialogue: 0,0:19:53.53,0:19:57.25,Matsumoto,,0,0,0,,After all I don't think he didn't make it
+Dialogue: 0,0:19:58.68,0:19:59.80,Tanaka,,0,0,0,,He's rising up
+Dialogue: 0,0:20:04.17,0:20:07.61,Endo,,0,0,0,,This is like "Goodbye Yamazaki"
+Dialogue: 0,0:20:05.52,0:20:06.64,Tanaka,,0,0,0,,{\pos(646,618)}I've seen this before
+Dialogue: 0,0:20:06.64,0:20:07.61,Hamada,,0,0,0,,{\pos(646,618)}Stop this!
+Dialogue: 0,0:20:07.61,0:20:12.80,Others,,0,0,0,,{\4c&H02FFF7&}What are you doing?\N- Why did he attack him?
+Dialogue: 0,0:20:12.80,0:20:14.00,Hamada,,0,0,0,,Back up, Tanaka
+Dialogue: 0,0:20:14.00,0:20:17.64,Matsumoto,,0,0,0,,I have no idea what just... is this comedy or not?
+Dialogue: 0,0:20:17.64,0:20:20.20,Hamada,,0,0,0,,Which is it?\N{\3c&H096FD4&}- Let's make that clear
+Dialogue: 0,0:20:20.20,0:20:22.48,Matsumoto,,0,0,0,,Which one?\N{\3c&HF60919&}- Is it comedy?
+Dialogue: 0,0:20:22.48,0:20:23.24,Tanaka,,0,0,0,,Please tell us
+Dialogue: 0,0:20:23.24,0:20:25.84,Hamada,,0,0,0,,Tell us if its comedy or not
+Dialogue: 0,0:20:25.84,0:20:26.76,Matsumoto,,0,0,0,,Tell us please
+Dialogue: 0,0:20:26.76,0:20:29.12,Endo,,0,0,0,,Just tell us this\N{\3c&HF60919&}- We have to know
+Dialogue: 0,0:20:29.12,0:20:31.82,Endo,,0,0,0,,I wonder why he attacked Matsumoto
+Dialogue: 0,0:20:31.82,0:20:33.33,Matsumoto,,0,0,0,,Why isn't he talking?\N{\3c&HF60919&}- Is it comedy?
+Dialogue: 0,0:20:34.03,0:20:36.05,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(342,608,936,688)}THAT CAN'T BE COMEDY {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:20:34.03,0:20:36.05,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}THAT CAN'T BE COMEDY {\fnJokerman\i1\b1}{\fs60}!!
+Dialogue: 0,0:20:36.05,0:20:38.05,Hamada,,0,0,0,,So it's not comedy after all...
+Dialogue: 0,0:20:38.05,0:20:39.97,Hamada,,0,0,0,,But we really want to find comedy...
+Dialogue: 0,0:20:39.97,0:20:43.81,Matsumoto,,0,0,0,,{\pos(822,352)\fscx77\fscy86}If someone turns the tv on now
+Dialogue: 0,0:20:41.93,0:20:43.81,Matsumoto,,0,0,0,,{\pos(898,444)\fscx84\fscy90}I bet they'll think this is Piccadilly-san
+Dialogue: 0,0:20:41.93,0:20:46.93,Titles,,0,0,0,,{\4c&HD5AF0B&\pos(170,702)}Piccadilly Umeda
+Dialogue: 0,0:20:47.00,0:20:49.88,Matsumoto,,0,0,0,,No one could tell, he shouted just like him
+Dialogue: 0,0:20:49.88,0:20:50.93,Hamada,,0,0,0,,Alright then
+Dialogue: 0,0:20:51.20,0:20:52.48,Hamada,,0,0,0,,Our last one is
+Dialogue: 0,0:20:52.61,0:20:56.48,Hamada,,0,0,0,,"Burdock strike match!"
+Dialogue: 0,0:20:52.93,0:20:58.73,Titles,,0,0,0,,{\fnInk Free\b1\fscx263\fscy265\pos(648,440)\c&H092678&\4c&H092678&\3c&HFFFFFF&}Burdock strike match!{\b0}
+Dialogue: 0,0:20:52.93,0:20:58.73,Titles,,0,0,0,,{\fnInk Free\b1\fscx263\fscy265\pos(648,440)\c&H000000&\4c&H092678&\3c&HFFFFFF&\clip(46,396,1162,478)}Burdock strike match!{\b0}
+Dialogue: 0,0:20:59.92,0:21:01.80,Housei,,0,0,0,,Let go!\N{\3c&HDA4FEC&}- Don't run!
+Dialogue: 0,0:21:02.08,0:21:03.28,Hamada,,0,0,0,,Stop, Yamazaki!
+Dialogue: 0,0:21:04.65,0:21:18.24,Credits,,0,0,0,,{\b0\c&HFFFFFF&\1a&H50&\3c&H000000&\3a&H52&}This part is repeating, so here's a fun fact: Burdocks are very healthy - they can help preventing high blood pressure and blood vessel hardening; they also prevent high cholesterol and constipation, and they're good for hair health.
+Dialogue: 0,0:21:18.64,0:21:20.96,Hamada,,0,0,0,,Go get him!
+Dialogue: 0,0:21:33.06,0:21:34.32,Hamada,,0,0,0,,He's running\N{\3c&HE911B0&}- Where is he--
+Dialogue: 0,0:21:37.12,0:21:38.12,Endo,,0,0,0,,How is this?
+Dialogue: 0,0:21:39.20,0:21:41.36,Endo,,0,0,0,,Bring the camera over there
+Dialogue: 0,0:21:41.80,0:21:42.76,Tanaka,,0,0,0,,Get here
+Dialogue: 0,0:21:42.76,0:21:45.56,Endo,,0,0,0,,How is it?\N{\3c&H1727D6&}- Come on
+Dialogue: 0,0:21:50.41,0:21:52.65,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H1D590E&\pos(640,710)\clip(234,556,1078,688)}THAT'S JUST A TREE BRANCH {\fnJokerman\i1\b1}{\fs60}!
+Dialogue: 0,0:21:50.41,0:21:52.65,Housei,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}THAT'S JUST A TREE BRANCH {\fnJokerman\i1\b1}{\fs60}!
+Dialogue: 0,0:21:52.65,0:21:53.95,Housei,,0,0,0,,A tree branch!
+Dialogue: 0,0:21:53.95,0:21:55.33,Matsumoto,,0,0,0,,Say something!!
+Dialogue: 0,0:21:55.73,0:21:58.57,Matsumoto,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H100278&\pos(640,710)\clip(234,556,1078,688)}JUST SAY SOMETHING {\fnJokerman\i1\b1}{\fs60}!
+Dialogue: 0,0:21:55.73,0:21:58.57,Matsumoto,,0,0,0,,{\fnScream Again\3c&HFFFFFF&\c&H000000&\pos(640,710)\clip(296,686,1096,718)}JUST SAY SOMETHING { \fnJokerman\i1\b1}{\fs60}!
+Dialogue: 0,0:22:01.17,0:22:03.17,Matsumoto,,0,0,0,,SAY SOMETHING!!
+Dialogue: 0,0:22:05.76,0:22:06.81,Matsumoto,,0,0,0,,You weakling
+Dialogue: 0,0:22:06.81,0:22:08.81,Hamada,,0,0,0,,He really hated this
+Dialogue: 0,0:22:08.81,0:22:11.25,Hamada,,0,0,0,,To think we had Moriman to come all the way here!
+Dialogue: 0,0:22:11.25,0:22:12.36,Tanaka,,0,0,0,,Yeah, from Hokkaido...
+Dialogue: 0,0:22:12.53,0:22:17.49,Titles,,0,0,0,,{\fad(250,0)\4c&HFFFFFF&\pos(642,520)}They came from Hokkaido just for this episode
+Dialogue: 0,0:22:12.53,0:22:17.49,Titles,,0,0,0,,{\fad(250,0)\pos(906,634)\4c&HE911B0&}Tanuuma Man
+Dialogue: 0,0:22:12.53,0:22:17.49,Titles,,0,0,0,,{\fad(250,0)\4c&HE911B0&\pos(464,640)}Holstein Morio
+Dialogue: 0,0:22:12.53,0:22:17.49,Titles,,0,0,0,,{\fad(250,0)\pos(640,584)\c&HE911B0&\3c&HFFFFFF&}Moriman
+Dialogue: 0,0:22:13.32,0:22:15.05,Hamada,,0,0,0,,That's right
+Dialogue: 0,0:22:15.05,0:22:17.05,Matsumoto,,0,0,0,,It's been a while since they came here
+Dialogue: 0,0:22:17.49,0:22:20.73,Hamada,,0,0,0,,He got away really quickly
+Dialogue: 0,0:22:20.73,0:22:23.09,Endo,,0,0,0,,He really was fast
+Dialogue: 0,0:22:23.09,0:22:23.69,Hamada,,0,0,0,,Alright
+Dialogue: 0,0:22:23.69,0:22:28.01,Hamada,,0,0,0,,Cocorico, maybe you can go and bring him back here?
+Dialogue: 0,0:22:26.60,0:22:28.01,Endo,,0,0,0,,{\pos(514,534)}- Should we g{\3c&HE911B0&}o look for him?
+Dialogue: 0,0:22:28.01,0:22:30.01,Endo,,0,0,0,,We'll try to catch him\N-{\3c&HE911B0&} Yes
+Dialogue: 0,0:22:30.01,0:22:32.52,Matsumoto,,0,0,0,,I mean seriously, that guy
+Dialogue: 0,0:22:32.52,0:22:34.16,Matsumoto,,0,0,0,,Didn't say anything
+Dialogue: 0,0:22:34.16,0:22:36.61,Endo,,0,0,0,,And they both came from Hokkaido\N{\3c&H1727D6&}- Yeah...
+Dialogue: 0,0:22:36.61,0:22:39.08,Matsumoto,,0,0,0,,He ran away like crazy though...
+Dialogue: 0,0:22:39.08,0:22:40.73,Hamada,,0,0,0,,He was so fast
+Dialogue: 0,0:22:40.73,0:22:44.01,Endo,,0,0,0,,Is he under a car!?
+Dialogue: 0,0:22:44.01,0:22:45.09,Hamada,,0,0,0,,Under a car--?
+Dialogue: 0,0:22:45.09,0:22:45.89,Matsumoto,,0,0,0,,A car--?
+Dialogue: 0,0:22:47.01,0:22:50.65,Matsumoto,,0,0,0,,Is he a stray cat?!
+Dialogue: 0,0:22:51.04,0:22:52.08,Others,,0,0,0,,We can't go further
+Dialogue: 0,0:22:52.08,0:22:52.96,Hamada,,0,0,0,,No problem
+Dialogue: 0,0:22:53.60,0:22:55.48,Endo,,0,0,0,,He's frightened\N{\3c&HF60919&}- We'll take the digital
+Dialogue: 0,0:22:55.48,0:22:56.32,Tanaka,,0,0,0,,Here
+Dialogue: 0,0:23:00.60,0:23:01.64,Tanaka,,0,0,0,,He won't get out
+Dialogue: 0,0:23:02.36,0:23:04.00,Matsumoto,,0,0,0,,We should just go home by now
+Dialogue: 0,0:23:06.00,0:23:06.88,Endo,,0,0,0,,Come here, come here
+Dialogue: 0,0:23:06.88,0:23:08.60,Matsumoto,,0,0,0,,Come here\N{\3c&HE911B0&}- It's fine
+Dialogue: 0,0:23:08.60,0:23:11.08,Tanaka,,0,0,0,,Don't be afraid\N{\3c&HF60919&}- This is too funny
+Dialogue: 0,0:23:11.08,0:23:12.37,Endo,,0,0,0,,Here kitty kitty!
+Dialogue: 0,0:23:12.37,0:23:14.97,Matsumoto,,0,0,0,,Get out, we have canned tuna!
+Dialogue: 0,0:23:13.77,0:23:14.97,Endo,,0,0,0,,{\pos(652,614)}It's your favorite!
+Dialogue: 0,0:23:14.97,0:23:16.24,Hamada,,0,0,0,,This is hilarious
+Dialogue: 0,0:23:16.24,0:23:17.92,Endo,,0,0,0,,Come on, we have tuna
+Dialogue: 0,0:23:18.88,0:23:20.85,Hamada,,0,0,0,,Yama-chan...\N{\3c&HE911B0&}- It's good tuna!
+Dialogue: 0,0:23:20.85,0:23:23.05,Tanaka,,0,0,0,,Don't be afraid!\N{\3c&H096FD4&}- We have tuna!
+Dialogue: 0,0:23:23.05,0:23:26.61,Matsumoto,,0,0,0,,Don't worry, they got home with AIR-DO
+Dialogue: 0,0:23:25.72,0:23:27.64,Endo,,0,0,0,,{\pos(644,616)}Really, we don't have much time
+Dialogue: 0,0:23:23.05,0:23:26.61,Upper Notes,,0,0,0,,note: Hokkaido-based airplane company
+Dialogue: 0,0:23:27.08,0:23:29.08,Matsumoto,,0,0,0,,They really took an AIR-DO
+Dialogue: 0,0:23:29.08,0:23:30.13,Hamada,,0,0,0,,Yama-chan!
+Dialogue: 0,0:23:30.13,0:23:31.60,Hamada,,0,0,0,,Do something, Tanaka
+Dialogue: 0,0:23:31.60,0:23:33.24,Tanaka,,0,0,0,,Zaki-san\N{\3c&H096FD4&}- We have canned goods
+Dialogue: 0,0:23:33.24,0:23:34.88,Matsumoto,,0,0,0,,It's ok\N{\3c&HE911B0&}- Don't worry
+Dialogue: 0,0:23:36.88,0:23:38.92,Others,,0,0,0,,He bit him!
+Dialogue: 0,0:23:38.92,0:23:40.17,Endo,,0,0,0,,Come on
+Dialogue: 0,0:23:41.17,0:23:42.77,Tanaka,,0,0,0,,{\pos(640,616)}I think so too
+Dialogue: 0,0:23:40.17,0:23:42.77,Matsumoto,,0,0,0,,I think he became a misanthropist
+Dialogue: 0,0:23:42.77,0:23:44.72,Endo,,0,0,0,,'Cause he got bullied\N{\3c&HE911B0&}- He holds a grudge
+Dialogue: 0,0:23:45.22,0:23:48.01,Tanaka,,0,0,0,,Against us humans\N{\3c&HF60919&}- Yama-chan...
+Dialogue: 0,0:23:48.01,0:23:50.17,Hamada,,0,0,0,,Yama-chan, we'll make that Hiace (car) go boom
+Dialogue: 0,0:23:51.37,0:23:52.40,Tanaka,,0,0,0,,We'll turn this on
+Dialogue: 0,0:23:52.40,0:23:54.28,Endo,,0,0,0,,This...\N{\3c&HE911B0&}- We're moving it
+Dialogue: 0,0:23:54.28,0:23:56.08,Endo,,0,0,0,,Maybe we should move it, yeah
+Dialogue: 0,0:23:56.60,0:23:57.64,Matsumoto,,0,0,0,,Could it be...
+Dialogue: 0,0:23:57.64,0:23:59.32,Matsumoto,,0,0,0,,...That he's pregnant?
+Dialogue: 0,0:24:01.52,0:24:02.84,Tanaka,,0,0,0,,Eh? For real?
+Dialogue: 0,0:24:02.84,0:24:04.09,Endo,,0,0,0,,Now you've done it!
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\3c&HFFFFFF&\c&HD061FF&\fscx105\fscy192\pos(637.456,83.333)}More Gaki & japanese comedy @ {\c&H52F857&}shionnotsukai.wordpress.com
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\c&HD061FF&\3c&HFFFFFF&\fscx106\fscy206\pos(646.287,164)}Updates, news & more @ {\c&HFFA831&}facebook.com/shionnotsukai {\c&HD061FF&}(like it)
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\c&HD061FF&\3c&HFFFFFF&\fscx106\fscy206\pos(843.725,256)}...and on Twitter @ {\c&HFFA831&}FGRNDNoises {\c&HD061FF&}(follow it)
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\c&HD061FF&\3c&HFFFFFF&\fscx108\fscy246\pos(805.04,586)}...or on Patreon @ {\c&H0A8DE0&}patreon.com/shionnotsukai
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\3c&HFFFFFF&\c&HD061FF&\fscx109\fscy248\pos(644.791,494)}You can support my works on ko-fi @{\c&H6050F6&} ko-fi.com/shionnotsukai
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\3c&HFFFFFF&\c&HD061FF&\fscx109\fscy248\pos(124.791,402)}Reminder:
+Dialogue: 0,0:24:04.09,0:24:09.33,Others,,0,0,0,,{\3c&H1D09DC&}this is a no-profit fansub, made by a fan for other fans
+

@@ -1,0 +1,561 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+Video Aspect Ratio: c1.77778
+Aegisub Video Aspect Ratio: c1.777778
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Housei,Arial,72,&H0014B51D,&H000000FF,&H00FFFFFF,&H000B4E0F,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Hamada,Arial,72,&H00E10B19,&H000000FF,&H00FFFFFF,&H00290000,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Tanaka,Arial,72,&H00C400B7,&H000000FF,&H00FFFFFF,&H008B0087,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Matsumoto,Arial,72,&H000000FF,&H6EFFFFFF,&H00FFFFFF,&H0005006B,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Endo,Arial,72,&H000A82FC,&H000000FF,&H00FFFFFF,&H000068E1,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Other,Arial,72,&H00000000,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: All,Arial,72,&H007A8000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,7,5,2,10,10,30,1
+Style: Punisher,Arial,80,&H00000000,&H000000FF,&H00FEFEFE,&H001819DC,-1,-1,0,0,100,100,0,0,1,6,5,2,10,10,30,1
+Style: Note,Arial,52,&H004B5A1D,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,8,6,2,10,10,10,1
+Style: CREDITS,Arial,50,&H0000FFFF,&H000000FF,&H001F0004,&H0014D3FF,-1,0,0,0,100,100,0,0,1,7,5,4,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.41,0:00:02.72,Hamada,,0,0,0,,Gaki no Tsukai presents the 1st,
+Dialogue: 0,0:00:02.78,0:00:06.02,Hamada,,0,0,0,,"Stake your life on this one bite for a chance to win ¥100,000"
+Dialogue: 0,0:00:06.02,0:00:08.19,Hamada,,0,0,0,,KIKI Cheese!!
+Dialogue: 0,0:00:13.09,0:00:15.76,Hamada,,0,0,0,,It's the 36th Kiki episode.
+Dialogue: 0,0:00:15.76,0:00:17.23,Matsumoto,,0,0,0,,I noticed something amazing.
+Dialogue: 0,0:00:17.23,0:00:18.16,Hamada,,0,0,0,,What is it?
+Dialogue: 0,0:00:18.16,0:00:22.84,Matsumoto,,0,0,0,,No, what I mean is... It said this is the 36th one from the Kiki series, right.
+Dialogue: 0,0:00:22.82,0:00:23.87,Matsumoto,,0,0,0,,I've won it 6 times.
+Dialogue: 0,0:00:23.87,0:00:25.27,Housei,,0,0,0,,That's impressive!
+Dialogue: 0,0:00:25.27,0:00:27.21,Matsumoto,,0,0,0,,That means I've won 1/6 times.
+Dialogue: 0,0:00:27.07,0:00:32.91,Other,,0,0,0,,{\pos(786,952.667)} Kiki Series' {\c&H0000D8&\3c&H7BEDFE&}winning percentage of 16.7%
+Dialogue: 0,0:00:27.21,0:00:29.64,Matsumoto,,0,0,0,,Ain't that one hell of a winning percentage.
+Dialogue: 0,0:00:29.64,0:00:31.14,Matsumoto,,0,0,0,,How about it, guys? In this Kiki...
+Dialogue: 0,0:00:31.14,0:00:33.02,Matsumoto,,0,0,0,,{\pos(720,682)} {\c&H0000FF&\1a&H5D&}Holy shit, you stink!!
+Dialogue: 0,0:00:34.28,0:00:41.09,Other,,0,0,0,,{\pos(786,952.667)} Kiki Series' {\c&H0000D8&\3c&H7BEDFE&}winning percentage of 8.3%
+Dialogue: 0,0:00:33.88,0:00:36.55,Housei,,0,0,0,,Yeah actually, this is pretty embarrassing.
+Dialogue: 0,0:00:36.55,0:00:39.32,Housei,,0,0,0,,I've really lost confidence in my senses.
+Dialogue: 0,0:00:39.38,0:00:41.10,Endo,,0,0,0,,It's been 10 years since you've won any.
+Dialogue: 0,0:00:41.09,0:00:47.13,Other,,0,0,0,,{\c&HE9A032&\1a&H00&\2c&H0B88BD&\4c&H00ABFA&\pos(762,964.667)}Last time he won was for {\c&H1E65E7&}Kiki Miso in 2004
+Dialogue: 0,0:00:40.82,0:00:42.02,Hamada,,0,0,0,,2004 was his latest win.
+Dialogue: 0,0:00:42.02,0:00:42.62,Housei,,0,0,0,,10 years?
+Dialogue: 0,0:00:42.62,0:00:43.92,Endo,,0,0,0,,It's been 10 years.
+Dialogue: 0,0:00:43.92,0:00:46.06,Housei,,0,0,0,,Man, I can't remember...
+Dialogue: 0,0:00:47.36,0:00:50.96,Other,,0,0,0,,{\c&H15983B&\pos(729,964.667)\4c&H0673E3&}Last time he won was for {\c&HF01405&}Kiki Oolong in 2003.
+Dialogue: 0,0:00:46.06,0:00:48.56,Endo,,0,0,0,,I haven't won any since the divorce.
+Dialogue: 0,0:00:48.56,0:00:50.96,Housei,,0,0,0,,It's because of the divorce.
+Dialogue: 0,0:00:50.96,0:00:54.17,Matsumoto,,0,0,0,,You also failed on the {\c&H000000&}Kiki marriage.
+Dialogue: 0,0:00:55.03,0:00:57.37,Other,,0,0,0,,The rules are quite simple.
+Dialogue: 0,0:00:57.37,0:01:02.21,Other,,0,0,0,,Out of the 12 brands of cheese, you just have to find your selected cheese.
+Dialogue: 0,0:01:02.21,0:01:07.18,Other,,0,0,0,,If correct, you'll win ¥100,000. Who will walk away with the reward?
+Dialogue: 0,0:01:08.15,0:01:10.38,Other,,0,0,0,,The first challenger is Tanaka.
+Dialogue: 0,0:01:10.38,0:01:12.75,Matsumoto,,0,0,0,,The number of cheeses has really increased, eh?
+Dialogue: 0,0:01:12.75,0:01:17.26,Other,,0,0,0,,His selection is {\i1}Koiwai Dairy's Creamy Cheese 6P.{\i0}
+Dialogue: 0,0:01:19.39,0:01:21.76,Other,,0,0,0,,From the mellow scented fermented butter
+Dialogue: 0,0:01:21.76,0:01:26.36,Other,,0,0,0,,comes a rich flavor and a smooth texture.
+Dialogue: 0,0:01:26.36,0:01:29.30,Other,,0,0,0,,Will he be able to remember this taste?
+Dialogue: 0,0:01:30.90,0:01:32.44,Tanaka,,0,0,0,,I'm going to smell it first.
+Dialogue: 0,0:01:33.27,0:01:35.54,Matsumoto,,0,0,0,,Don't the elementary schools serve it during lunchtime?
+Dialogue: 0,0:01:35.54,0:01:38.24,Housei,,0,0,0,,Yup, we ate the thin ones  at school.
+Dialogue: 0,0:01:38.24,0:01:40.11,Matsumoto,,0,0,0,,Eh, no way.
+Dialogue: 0,0:01:39.28,0:01:40.28,Housei,,0,0,0,,Yup.
+Dialogue: 0,0:01:40.28,0:01:42.15,Matsumoto,,0,0,0,,Ours was block shaped.
+Dialogue: 0,0:01:42.15,0:01:43.98,Endo,,0,0,0,,They served it melted.
+Dialogue: 0,0:01:43.98,0:01:45.12,Matsumoto,,0,0,0,,That's right!
+Dialogue: 0,0:01:44.72,0:01:46.18,Hamada,,0,0,0,,Nope, it was triangular.
+Dialogue: 0,0:01:46.18,0:01:47.12,Endo,,0,0,0,,Really?
+Dialogue: 0,0:01:47.12,0:01:48.82,Matsumoto,,0,0,0,,Yes, yes, yes, it was triangular.
+Dialogue: 0,0:01:47.99,0:01:50.09,Endo,,0,0,0,,I wonder if I've had it...
+Dialogue: 0,0:01:51.79,0:01:54.03,Tanaka,,0,0,0,,Whoa, this is delicious but,
+Dialogue: 0,0:01:54.03,0:01:56.33,Tanaka,,0,0,0,,it's too simple{\c&H000000&}y...
+Dialogue: 0,0:01:56.33,0:01:58.60,Endo,,0,0,0,,Huh? What did you just say?
+Dialogue: 0,0:01:58.60,0:02:01.40,Tanaka,,0,0,0,,It's like {\c&H000000&}"the cheese".
+Dialogue: 0,0:02:01.40,0:02:03.84,Tanaka,,0,0,0,,...like the father of all cheese.
+Dialogue: 0,0:02:04.54,0:02:05.57,Matsumoto,,0,0,0,,I suppose so.
+Dialogue: 0,0:02:09.14,0:02:10.48,Housei,,0,0,0,,That was dangerous.
+Dialogue: 0,0:02:09.77,0:02:12.78,Endo,,0,0,0,,Whoa, whoa whoa, you held out really well just now.
+Dialogue: 0,0:02:12.78,0:02:15.50,Tanaka,,0,0,0,,{\c&H000000&}Hamada-san,{\c} that was dangerous just now.
+Dialogue: 0,0:02:14.68,0:02:16.96,Matsumoto,,0,0,0,,You already knew it was Hamada.
+Dialogue: 0,0:02:15.41,0:02:16.75,Hamada,,0,0,0,,Why me?
+Dialogue: 0,0:02:17.65,0:02:19.89,Hamada,,0,0,0,,Anyways, you've gotta pick one and try it.
+Dialogue: 0,0:02:19.38,0:02:20.95,Matsumoto,,0,0,0,,I'm sure you've had this before.
+Dialogue: 0,0:02:20.49,0:02:21.65,Tanaka,,0,0,0,,Yes I have.
+Dialogue: 0,0:02:21.65,0:02:23.09,Tanaka,,0,0,0,,This {\i1}Yukijirushi's{\i0}...
+Dialogue: 0,0:02:22.69,0:02:24.39,Matsumoto,,0,0,0,,Did the package change a bit?
+Dialogue: 0,0:02:23.82,0:02:25.46,Housei,,0,0,0,,Seems so.
+Dialogue: 0,0:02:24.86,0:02:26.12,Endo,,0,0,0,,Hokkaido-
+Dialogue: 0,0:02:26.12,0:02:27.73,Tanaka,,0,0,0,,This one's the standard...
+Dialogue: 0,0:02:27.03,0:02:28.39,Housei,,0,0,0,,As always...
+Dialogue: 0,0:02:27.73,0:02:29.39,Matsumoto,,0,0,0,,You've been saying 'standard' a lot recently.
+Dialogue: 0,0:02:29.39,0:02:31.68,Matsumoto,,0,0,0,,Why do you keep saying it every time?
+Dialogue: 0,0:02:29.90,0:02:32.20,Housei,,0,0,0,,Aren't they all standard?
+Dialogue: 0,0:02:32.20,0:02:33.43,Tanaka,,0,0,0,,Bon Appétit!
+Dialogue: 0,0:02:35.70,0:02:38.50,Matsumoto,,0,0,0,,Surprisingly, Tanaka and I've won on the same ones.
+Dialogue: 0,0:02:38.50,0:02:40.64,Housei,,0,0,0,,There's pudding, castella...
+Dialogue: 0,0:02:40.64,0:02:42.11,Hamada,,0,0,0,,Looks like it.
+Dialogue: 0,0:02:42.67,0:02:43.51,Tanaka,,0,0,0,,Nope!
+Dialogue: 0,0:02:43.51,0:02:44.44,Hamada,,0,0,0,,Nope?
+Dialogue: 0,0:02:44.04,0:02:45.41,Tanaka,,0,0,0,,I can tell.
+Dialogue: 0,0:02:45.08,0:02:46.24,Endo,,0,0,0,,Eh, you can?
+Dialogue: 0,0:02:45.88,0:02:46.75,Tanaka,,0,0,0,,Yeah.
+Dialogue: 0,0:02:46.21,0:02:47.68,Housei,,0,0,0,,Is it totally different?
+Dialogue: 0,0:02:47.18,0:02:49.28,Tanaka,,0,0,0,,Yup, it tastes totally different.
+Dialogue: 0,0:02:48.88,0:02:50.42,Endo,,0,0,0,,The taste?
+Dialogue: 0,0:02:50.58,0:02:52.48,Tanaka,,0,0,0,,What I had
+Dialogue: 0,0:02:52.48,0:02:55.65,Tanaka,,0,0,0,,was NOT {\i1}Yukijirushi Hokkaido 100 Cheese.{\i0}
+Dialogue: 0,0:02:56.92,0:02:58.02,Tanaka,,0,0,0,,Alright!
+Dialogue: 0,0:02:58.02,0:02:59.29,Housei,,0,0,0,,Were you sure about it?
+Dialogue: 0,0:02:59.29,0:03:00.46,Tanaka,,0,0,0,,I was.
+Dialogue: 0,0:03:01.19,0:03:03.96,Hamada,,0,0,0,,Well come on, he always says that.
+Dialogue: 0,0:03:03.96,0:03:05.80,Hamada,,0,0,0,,But in the end...
+Dialogue: 0,0:03:05.80,0:03:08.17,Tanaka,,0,0,0,,I reckon the milk's fragrance was much stronger.
+Dialogue: 0,0:03:08.17,0:03:09.90,Endo,,0,0,0,,The fragrance?
+Dialogue: 0,0:03:09.00,0:03:09.90,Tanaka,,0,0,0,,Yes.
+Dialogue: 0,0:03:09.90,0:03:11.17,Matsumoto,,0,0,0,,Please continue.
+Dialogue: 0,0:03:10.47,0:03:13.24,Tanaka,,0,0,0,,I've heard quite a bit about this cheddar cheese.
+Dialogue: 0,0:03:13.24,0:03:15.64,Matsumoto,,0,0,0,,Just stop!!
+Dialogue: 0,0:03:15.64,0:03:17.84,Hamada,,0,0,0,,He's just sayin'.
+Dialogue: 0,0:03:16.44,0:03:20.11,Tanaka,,0,0,0,,What am I meant to do... Why would you say that...
+Dialogue: 0,0:03:19.51,0:03:21.35,Endo,,0,0,0,,Why does he need to stop?..
+Dialogue: 0,0:03:22.41,0:03:25.62,Other,,0,0,0,,However, Tanaka's momentum doesn't stop there.
+Dialogue: 0,0:03:25.62,0:03:28.82,Tanaka,,0,0,0,,Ah, the flavor was much deeper, much richer.
+Dialogue: 0,0:03:28.82,0:03:31.39,Other,,0,0,0,,With confidence, based on the taste...
+Dialogue: 0,0:03:31.59,0:03:34.79,Tanaka,,0,0,0,,...isn't {\i1}Chedder Cheese 6P{\i0}!
+Dialogue: 0,0:03:34.79,0:03:37.70,Tanaka,,0,0,0,,...isn't {\i1}Baby Cheese Plain{\i0}!
+Dialogue: 0,0:03:38.40,0:03:39.86,Other,,0,0,0,,Making it swimmingly so far,
+Dialogue: 0,0:03:39.86,0:03:41.73,Other,,0,0,0,,Tanaka clears through three in a row.
+Dialogue: 0,0:03:41.73,0:03:45.00,Matsumoto,,0,0,0,,Having cleared this much, it's not the time to be praising just yet.
+Dialogue: 0,0:03:46.00,0:03:47.31,Tanaka,,0,0,0,,{\i1}Family Mart{\i0}
+Dialogue: 0,0:03:47.31,0:03:48.94,Tanaka,,0,0,0,,I'll give this a go.
+Dialogue: 0,0:03:48.94,0:03:49.98,Tanaka,,0,0,0,,This...
+Dialogue: 0,0:03:49.98,0:03:52.74,Matsumoto,,0,0,0,,This is really gonna make us quite full.
+Dialogue: 0,0:03:52.41,0:03:53.71,Housei,,0,0,0,,How many...
+Dialogue: 0,0:03:54.10,0:03:56.11,Matsumoto,,0,0,0,,I told them 12 is more than enough.
+Dialogue: 0,0:03:56.11,0:03:58.38,Housei,,0,0,0,,I'm sorry but it's 12.
+Dialogue: 0,0:03:58.38,0:03:59.82,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:03:59.02,0:04:01.45,Housei,,0,0,0,,Well, there's 12 of them, yup.
+Dialogue: 0,0:04:01.45,0:04:04.89,Housei,,0,0,0,,"{\i1}12 of them is more than enough{\i0}", well, there's 12 of em.
+Dialogue: 0,0:04:04.89,0:04:06.32,Housei,,0,0,0,,My apologies.
+Dialogue: 0,0:04:05.46,0:04:07.03,Endo,,0,0,0,,You were trying to say that it should've been 10, right?
+Dialogue: 0,0:04:06.89,0:04:08.59,Housei,,0,0,0,,Yes, my apologies.
+Dialogue: 0,0:04:09.29,0:04:12.64,Matsumoto,,0,0,0,,Anyone would make that mistake
+Dialogue: 0,0:04:14.77,0:04:17.30,Endo,,0,0,0,,Just to let you know, he's had a sudden change of expression.
+Dialogue: 0,0:04:17.30,0:04:20.47,Housei,,0,0,0,,I take my eyes off a second and his face turned like that.
+Dialogue: 0,0:04:20.47,0:04:21.97,Endo,,0,0,0,,Like he discovered something...
+Dialogue: 0,0:04:21.47,0:04:23.58,Tanaka,,0,0,0,,{\c&H000000&\4c&HB21DAD&}It's totally the same!!!
+Dialogue: 0,0:04:23.58,0:04:25.54,Endo,,0,0,0,,What did you sample again?
+Dialogue: 0,0:04:25.54,0:04:27.31,Tanaka,,0,0,0,,May I?!
+Dialogue: 0,0:04:26.81,0:04:28.25,Matsumoto,,0,0,0,,Well, if that's the one, go for it...
+Dialogue: 0,0:04:27.35,0:04:28.78,Tanaka,,0,0,0,,Whoa, whoa, whoa!
+Dialogue: 0,0:04:28.71,0:04:30.85,Matsumoto,,0,0,0,,If you're so sure then I suppose you've to go for it.
+Dialogue: 0,0:04:30.25,0:04:32.68,Housei,,0,0,0,,That's great man!
+Dialogue: 0,0:04:33.49,0:04:35.12,Tanaka,,0,0,0,,I'm going for it, for real.
+Dialogue: 0,0:04:35.45,0:04:39.32,Tanaka,,0,0,0,,What I had was {\i1}Family Mart's 6P Cheese{\i0}!
+Dialogue: 0,0:04:42.26,0:04:43.46,Tanaka,,0,0,0,,Come on!..
+Dialogue: 0,0:04:47.30,0:04:49.13,Endo,,0,0,0,,It was totally off.
+Dialogue: 0,0:04:49.30,0:04:51.17,Housei,,0,0,0,,Tanaka, you totally got it wrong.
+Dialogue: 0,0:04:50.67,0:04:52.30,Matsumoto,,0,0,0,,Stop moving around.
+Dialogue: 0,0:04:52.30,0:04:54.21,Housei,,0,0,0,,Face your punishment properly.
+Dialogue: 0,0:04:54.54,0:04:56.01,Endo,,0,0,0,,It's time for the punishment.
+Dialogue: 0,0:04:56.01,0:04:58.20,Matsumoto,,0,0,0,,{\c&H000000&\4c&H2920E7&}He's so pissed!
+Dialogue: 0,0:04:57.28,0:05:00.15,Hamada,,0,0,0,,You took ages after knowing you were wrong, just go to the front you idiot!
+Dialogue: 0,0:05:03.45,0:05:07.02,Punisher,,0,0,0,, Nibble away at the cheese you filthy rat of a comedian!!
+Dialogue: 0,0:05:09.62,0:05:11.26,All,,0,0,0,,That lasted ages!
+Dialogue: 0,0:05:10.59,0:05:11.82,Housei,,0,0,0,,That was so long.
+Dialogue: 0,0:05:11.26,0:05:13.22,Tanaka,,0,0,0,,Ow, ow...
+Dialogue: 0,0:05:13.56,0:05:14.83,Housei,,0,0,0,,That would hurt.
+Dialogue: 0,0:05:14.83,0:05:16.93,Endo,,0,0,0,,Your face is completely frozen over!
+Dialogue: 0,0:05:16.93,0:05:18.50,Tanaka,,0,0,0,,Ow, Ow, ow...
+Dialogue: 0,0:05:18.23,0:05:19.50,Endo,,0,0,0,,Looks painful.
+Dialogue: 0,0:05:19.50,0:05:30.72,CREDITS,,0,0,0,,{\pos(100,112)} Timer/Typesetter:\N{\i1}yamasakigifs.tumblr.com{\i0}
+Dialogue: 0,0:05:19.50,0:05:30.72,CREDITS,,0,0,0,,{\pos(862,112)} Translator:\NJ-Hive & Mickstar
+Dialogue: 0,0:05:19.50,0:05:30.72,CREDITS,,0,0,0,,{\i1\pos(862,200)}j-hive.weebly.com{\i0}
+Dialogue: 0,0:05:19.50,0:05:30.72,CREDITS,,0,0,0,, {\pos(100,316)\i1}dtr-subs.tumblr.com{\i0}
+Dialogue: 0,0:05:19.50,0:05:30.72,CREDITS,,0,0,0,, {\pos(100,232)} Proofreader:\NOolong (DTR Subs)
+Dialogue: 0,0:05:32.34,0:05:34.78,Other,,0,0,0,,Next up is Endo.
+Dialogue: 0,0:05:34.78,0:05:37.78,Matsumoto,,0,0,0,,We have to pick a simple one for Endo,
+Dialogue: 0,0:05:37.78,0:05:39.52,Endo,,0,0,0,,Thank you very much.
+Dialogue: 0,0:05:38.82,0:05:40.42,Matsumoto,,0,0,0,,...since he's such an idiot~
+Dialogue: 0,0:05:42.15,0:05:45.16,Other,,0,0,0,,{\i1}Family Mart Collection 6P Cheese.{\i0}
+Dialogue: 0,0:05:46.22,0:05:52.26,Other,,0,0,0,,Butter mixed in Hokkaido cheese, this rich flavor is a one of a kind.
+Dialogue: 0,0:05:53.26,0:05:54.83,Tanaka,,0,0,0,,Go for it!
+Dialogue: 0,0:05:54.83,0:05:58.00,Endo,,0,0,0,,Uwaa, the sme- is quite something.
+Dialogue: 0,0:05:56.77,0:05:58.00,Matsumoto,,0,0,0,,{\c&H000000&\4c&H3025FF&\pos(195,906)}The sme-?
+Dialogue: 0,0:05:58.20,0:05:59.60,Endo,,0,0,0,,It just blew up in my face.
+Dialogue: 0,0:05:59.60,0:06:02.61,Endo,,0,0,0,,Compared to the cheese I'm aware of,
+Dialogue: 0,0:06:02.61,0:06:04.71,Endo,,0,0,0,,it's got a {\c&H000000&\4c&H2880ED&}smoked smell{\c} to it.
+Dialogue: 0,0:06:03.64,0:06:05.24,Matsumoto,,0,0,0,,It's not {\c&H000000&\4c&H2118DF&}smoked{\c} at all...
+Dialogue: 0,0:06:05.24,0:06:07.48,Housei,,0,0,0,,Smoked cheese is totally different...
+Dialogue: 0,0:06:06.31,0:06:07.95,Matsumoto,,0,0,0,,That would change everything...
+Dialogue: 0,0:06:07.48,0:06:08.68,Housei,,0,0,0,,Yeah.
+Dialogue: 0,0:06:07.95,0:06:09.48,Matsumoto,,0,0,0,,He's such an idiot~
+Dialogue: 0,0:06:08.68,0:06:10.92,Hamada,,0,0,0,,He's talking {\c&H000000&\4c&HE11A17&}about the wooden board{\c} probably.
+Dialogue: 0,0:06:09.88,0:06:11.42,Tanaka,,0,0,0,,Looks like it.
+Dialogue: 0,0:06:10.92,0:06:12.88,Housei,,0,0,0,,{\c&H000000&\4c&H27C734&}You're smelling the board?
+Dialogue: 0,0:06:12.98,0:06:15.09,Housei,,0,0,0,,{\c&H050505&\4c&H23D631&}He's smelling the wooden board.
+Dialogue: 0,0:06:13.62,0:06:15.95,Matsumoto,,0,0,0,,Smelling the board... What an idiot...
+Dialogue: 0,0:06:15.95,0:06:18.26,Matsumoto,,0,0,0,,Endo is truly an idiot.
+Dialogue: 0,0:06:18.72,0:06:22.79,Endo,,0,0,0,,Well then, I've already narrowed it down. I think it's between these two.
+Dialogue: 0,0:06:24.36,0:06:26.66,Endo,,0,0,0,,I can't eat that much cheese so I'm going with this.
+Dialogue: 0,0:06:27.47,0:06:30.00,Endo,,0,0,0,,I'm going to try {\i1}Yukijirushi Hokkaido- 100 Cheese{\i0}.
+Dialogue: 0,0:06:29.33,0:06:32.57,Matsumoto,,0,0,0,,You were stressing so much on the smell earlier, seems like you gave up on it.
+Dialogue: 0,0:06:33.07,0:06:35.24,Endo,,0,0,0,,Ah, this feeling when I hold it...
+Dialogue: 0,0:06:36.14,0:06:38.18,Endo,,0,0,0,,This feeling when holding it is a bit...
+Dialogue: 0,0:06:38.18,0:06:40.41,Housei,,0,0,0,,You can't be serious, Endo?
+Dialogue: 0,0:06:40.41,0:06:42.76,Endo,,0,0,0,,Please give me a moment here.
+Dialogue: 0,0:06:40.95,0:06:43.85,Matsumoto,,0,0,0,,If that's all you've got to go with, then you're in trouble.
+Dialogue: 0,0:06:43.11,0:06:45.62,Hamada,,0,0,0,,He just wants screen time...
+Dialogue: 0,0:06:44.45,0:06:45.95,Matsumoto,,0,0,0,,I wanna cut ties with him.
+Dialogue: 0,0:06:45.72,0:06:48.49,Housei,,0,0,0,,Because he always has short air-time in the Kiki episodes.
+Dialogue: 0,0:06:48.49,0:06:51.46,Endo,,0,0,0,,But this one is quite bitter.
+Dialogue: 0,0:06:51.46,0:06:54.26,Matsumoto,,0,0,0,,That's the first I've heard of, cheese being bitter.
+Dialogue: 0,0:06:54.26,0:06:58.46,Endo,,0,0,0,,I couldn't describe it properly but I know what I meant.
+Dialogue: 0,0:06:58.46,0:07:01.23,Housei,,0,0,0,,Say it so we can understand...
+Dialogue: 0,0:06:59.03,0:07:01.27,Matsumoto,,0,0,0,,What an idiot~
+Dialogue: 0,0:07:01.40,0:07:05.60,Endo,,0,0,0,,{\i1}A very uniquely processed cheese that had no scent{\i0}
+Dialogue: 0,0:07:05.60,0:07:10.34,Endo,,0,0,0,,{\i1}and made sure that people of Japan would like the taste of Hokkaido...{\i0}
+Dialogue: 0,0:07:09.41,0:07:11.54,Matsumoto,,0,0,0,,{\c&H000000&\4c&H261BF7&}Just stop!!
+Dialogue: 0,0:07:11.54,0:07:13.08,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1A10D7&}What's with you, this whole time?
+Dialogue: 0,0:07:13.08,0:07:16.05,Endo,,0,0,0,,Well then, excuse me but this isn't it.
+Dialogue: 0,0:07:16.05,0:07:23.19,Endo,,0,0,0,,What I had was not {\i1}Yukijirushi Hokkaido {\s1}100%{\s0} 100 Cheese{\i0}!
+Dialogue: 0,0:07:23.59,0:07:26.22,Matsumoto,,0,0,0,,He can't see because he's aging...
+Dialogue: 0,0:07:24.49,0:07:26.52,Housei,,0,0,0,,He is aging...
+Dialogue: 0,0:07:27.56,0:07:29.26,Matsumoto,,0,0,0,,Alright, he withstood it.
+Dialogue: 0,0:07:28.03,0:07:30.06,Endo,,0,0,0,,What the- so this wasn't it.
+Dialogue: 0,0:07:29.26,0:07:30.36,Matsumoto,,0,0,0,,You withstood it.
+Dialogue: 0,0:07:30.06,0:07:31.13,Endo,,0,0,0,,I sure did.
+Dialogue: 0,0:07:30.43,0:07:33.67,Housei,,0,0,0,,You were absolutely sure that was the one?
+Dialogue: 0,0:07:32.16,0:07:33.67,Endo,,0,0,0,,I did.
+Dialogue: 0,0:07:33.67,0:07:37.77,Endo,,0,0,0,,If that's the case, then it will be something I've never had before.
+Dialogue: 0,0:07:37.77,0:07:40.94,Endo,,0,0,0,,Well then, I'm going to try {\i1}France{\i0} now.
+Dialogue: 0,0:07:40.27,0:07:41.61,Tanaka,,0,0,0,,Oh!
+Dialogue: 0,0:07:42.01,0:07:45.74,Endo,,0,0,0,,Uwa! This is all... It's all mushy, totally not it.
+Dialogue: 0,0:07:45.74,0:07:47.55,Endo,,0,0,0,,Ah, uha ha ha ha ha~
+Dialogue: 0,0:07:46.81,0:07:49.25,Matsumoto,,0,0,0,,He's really making a mock out of this.
+Dialogue: 0,0:07:49.95,0:07:51.98,Matsumoto,,0,0,0,,He's really making a mock out of this.
+Dialogue: 0,0:07:51.98,0:07:53.32,Endo,,0,0,0,,...isn't {\i1}White Cream.{\i0}
+Dialogue: 0,0:07:53.32,0:07:58.06,Other,,0,0,0,,Convinced with the correct answer, Endo is full of smiles.
+Dialogue: 0,0:07:58.92,0:07:59.96,Endo,,0,0,0,,Uwa~!
+Dialogue: 0,0:07:59.96,0:08:04.73,Other,,0,0,0,,Correctly getting by steadily, only six more to go.
+Dialogue: 0,0:08:04.73,0:08:08.70,Endo,,0,0,0,,I'm now going to have a go with {\i1}Mother Farm - Plain Cheese{\i0}.
+Dialogue: 0,0:08:09.73,0:08:14.27,Endo,,0,0,0,,Damn, the smell... Seriously, they've all got the same friggin' smell.
+Dialogue: 0,0:08:24.52,0:08:26.58,Endo,,0,0,0,,It's really close.
+Dialogue: 0,0:08:27.32,0:08:28.82,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:08:28.09,0:08:30.09,Housei,,0,0,0,,I didn't hear him.
+Dialogue: 0,0:08:29.69,0:08:32.99,Endo,,0,0,0,,Guys, the cheese I've had before is this.
+Dialogue: 0,0:08:34.26,0:08:37.36,Endo,,0,0,0,,This is the one I've had before but not sure about...
+Dialogue: 0,0:08:35.83,0:08:38.30,Matsumoto,,0,0,0,,{\c&H000000&\4c&H261BF7&}Just stop already!!
+Dialogue: 0,0:08:38.30,0:08:40.43,Hamada,,0,0,0,,Of course he would shout at you...
+Dialogue: 0,0:08:42.60,0:08:45.97,Endo,,0,0,0,,But it's definitely gotta be among these 2... 4...
+Dialogue: 0,0:08:45.97,0:08:47.74,Endo,,0,0,0,,I'm going for it!
+Dialogue: 0,0:08:48.14,0:08:51.18,Endo,,0,0,0,,I'd really like to get this right~ Here goes!
+Dialogue: 0,0:08:51.18,0:08:56.78,Endo,,0,0,0,,What I had is {\i1}Mother Farm - Plain Cheese{\i0}.
+Dialogue: 0,0:09:02.85,0:09:04.69,Matsumoto,,0,0,0,,Uwaa, that's harsh.
+Dialogue: 0,0:09:04.66,0:09:05.72,Endo,,0,0,0,,Seriously~
+Dialogue: 0,0:09:05.72,0:09:07.83,Endo,,0,0,0,,I can't do this.
+Dialogue: 0,0:09:09.06,0:09:11.63,Punisher,,0,0,0,,Your guess was wrong!!
+Dialogue: 0,0:09:15.70,0:09:18.00,Matsumoto,,0,0,0,,The spray time was shorter than Tanaka.
+Dialogue: 0,0:09:18.00,0:09:19.84,Tanaka,,0,0,0,,Endo, it's this.
+Dialogue: 0,0:09:18.90,0:09:20.84,Endo,,0,0,0,,This one again...
+Dialogue: 0,0:09:19.84,0:09:21.81,Matsumoto,,0,0,0,,It showed up just before.
+Dialogue: 0,0:09:20.91,0:09:23.41,Tanaka,,0,0,0,,It's {\i1}Family Mart{\i0}, the one that I fell for.
+Dialogue: 0,0:09:24.36,0:09:26.88,Hamada,,0,0,0,,This is tough.
+Dialogue: 0,0:09:25.48,0:09:26.88,Endo,,0,0,0,,Ah, this is it.
+Dialogue: 0,0:09:26.88,0:09:29.75,Matsumoto,,0,0,0,,Well you obviously have to just agree with it...
+Dialogue: 0,0:09:30.92,0:09:33.02,Other,,0,0,0,,Next up is Hamada and as for his selection,
+Dialogue: 0,0:09:34.69,0:09:38.42,Other,,0,0,0,,{\i1}Q.B.B Baby Cheese{\i0} from Kansai.
+Dialogue: 0,0:09:40.09,0:09:46.60,Other,,0,0,0,,Based on carefully selected cheddar cheese, it's a milky dish with the perfect amount of saltiness.
+Dialogue: 0,0:09:46.60,0:09:49.77,Other,,0,0,0,,Will he find this taste?
+Dialogue: 0,0:09:56.47,0:09:58.78,Hamada,,0,0,0,,It's got some {\c&H000000&\4c&HD31E1C&}elasticity{\c} to it.
+Dialogue: 0,0:09:59.24,0:10:00.61,Endo,,0,0,0,,Elasticity?
+Dialogue: 0,0:09:59.88,0:10:01.78,Matsumoto,,0,0,0,,If you're going to talk about elasticity, well...
+Dialogue: 0,0:10:01.78,0:10:03.58,Matsumoto,,0,0,0,,most of them have it too.
+Dialogue: 0,0:10:03.35,0:10:04.85,Hamada,,0,0,0,,and also there's...
+Dialogue: 0,0:10:04.85,0:10:07.49,Hamada,,0,0,0,,some {\c&H000000&\4c&HD31E1C&}texture{\c} to it, as Endo mentioned before.
+Dialogue: 0,0:10:06.74,0:10:09.02,Matsumoto,,0,0,0,,{\c&H000000&\4c&H140CC1&}Where the hell do you see the texture{\c} anyway?
+Dialogue: 0,0:10:08.72,0:10:11.26,Endo,,0,0,0,,It has texture?
+Dialogue: 0,0:10:09.29,0:10:11.32,Matsumoto,,0,0,0,,This guy is an idiot too.
+Dialogue: 0,0:10:11.32,0:10:13.49,Matsumoto,,0,0,0,,An idiot right after an idiot.
+Dialogue: 0,0:10:14.36,0:10:18.96,Hamada,,0,0,0,,These ones are probably all soft, as seen during Endo's challenge.
+Dialogue: 0,0:10:18.96,0:10:21.83,Matsumoto,,0,0,0,,No, no, but you never know.
+Dialogue: 0,0:10:21.03,0:10:22.73,Housei,,0,0,0,,It might be better just to make sure.
+Dialogue: 0,0:10:21.60,0:10:22.67,Endo,,0,0,0,,For me...
+Dialogue: 0,0:10:22.73,0:10:27.04,Matsumoto,,0,0,0,,It could actually be the one to stump him once he tries it.
+Dialogue: 0,0:10:27.04,0:10:29.57,Endo,,0,0,0,,You can tell, right... the moment you hold it...
+Dialogue: 0,0:10:29.57,0:10:30.81,Hamada,,0,0,0,,What the hell is this?
+Dialogue: 0,0:10:30.81,0:10:33.28,Matsumoto,,0,0,0,,We should hear the 'Ba-baaaan' (Out sound)
+Dialogue: 0,0:10:33.28,0:10:34.55,Hamada,,0,0,0,,I can really tell the difference.
+Dialogue: 0,0:10:34.55,0:10:36.25,Hamada,,0,0,0,,What I had
+Dialogue: 0,0:10:36.25,0:10:40.85,Hamada,,0,0,0,,isn't {\i1}Sekai Cheese Shokai- President White Cream{\i0}!
+Dialogue: 0,0:10:42.39,0:10:43.49,Hamada,,0,0,0,,Alright.
+Dialogue: 0,0:10:43.49,0:10:45.96,Matsumoto,,0,0,0,,Wasn't that cream cheese? Just sayin'.
+Dialogue: 0,0:10:45.96,0:10:49.09,Housei,,0,0,0,,You can totally tell that it's a different kind of cheese.
+Dialogue: 0,0:10:49.56,0:10:52.10,Housei,,0,0,0,,Please try those other two...
+Dialogue: 0,0:10:52.10,0:10:54.03,Matsumoto,,0,0,0,,You're right
+Dialogue: 0,0:10:52.90,0:10:56.03,Housei,,0,0,0,,Right? Please try one of those two
+Dialogue: 0,0:10:54.97,0:10:56.47,Matsumoto,,0,0,0,,I agree
+Dialogue: 0,0:10:56.33,0:10:58.07,Hamada,,0,0,0,,This {\i1}Family Mart's{\i0}...
+Dialogue: 0,0:10:59.54,0:11:01.81,Endo,,0,0,0,,Ah, are you going for that one?
+Dialogue: 0,0:11:04.84,0:11:06.78,Hamada,,0,0,0,,Was it this hard?
+Dialogue: 0,0:11:10.28,0:11:13.42,Matsumoto,,0,0,0,,If you get dragged into thinking about that too much...
+Dialogue: 0,0:11:13.42,0:11:15.52,Matsumoto,,0,0,0,,it might confuse you more...
+Dialogue: 0,0:11:14.12,0:11:15.52,Hamada,,0,0,0,,Huh?
+Dialogue: 0,0:11:16.85,0:11:19.42,Matsumoto,,0,0,0,,I'm still speaking here.
+Dialogue: 0,0:11:19.42,0:11:22.86,Matsumoto,,0,0,0,,There's a limit to how many times you can interrupt when someone is talking.
+Dialogue: 0,0:11:22.86,0:11:27.43,Hamada,,0,0,0,,It had a more cream-ish feel to it.
+Dialogue: 0,0:11:27.43,0:11:29.40,Matsumoto,,0,0,0,,What the hell are you saying?
+Dialogue: 0,0:11:29.40,0:11:31.30,Hamada,,0,0,0,,What I had
+Dialogue: 0,0:11:31.30,0:11:34.57,Hamada,,0,0,0,,was not {\i1}Family Mart's 6P Cheese{\i0}!
+Dialogue: 0,0:11:36.64,0:11:38.18,Hamada,,0,0,0,,Alright.
+Dialogue: 0,0:11:37.08,0:11:39.31,Housei,,0,0,0,,But he's confident...
+Dialogue: 0,0:11:38.18,0:11:39.31,Tanaka,,0,0,0,,Yeah.
+Dialogue: 0,0:11:40.08,0:11:42.65,Other,,0,0,0,,Is that confidence for real?
+Dialogue: 0,0:11:42.65,0:11:44.35,Other,,0,0,0,,Moreover, with this one being cleared,
+Dialogue: 0,0:11:44.35,0:11:46.58,Other,,0,0,0,,that makes it three in a row!!!
+Dialogue: 0,0:11:51.29,0:11:54.46,Matsumoto,,0,0,0,,Ain't that {\c&H000000&\4c&H140BCE&}Itsuki Hiroshi{\c}?\N(Japanese singer)
+Dialogue: 0,0:11:54.46,0:11:56.06,Housei,,0,0,0,,It looked like it.
+Dialogue: 0,0:11:56.06,0:11:57.13,Housei,,0,0,0,,It was similar.
+Dialogue: 0,0:11:58.33,0:12:01.20,Housei,,0,0,0,,Sounded like in {\c&H000200&\4c&H11A11C&}"Chikuma Gawa"
+Dialogue: 0,0:11:58.33,0:12:08.21,Note,,0,0,0,,{\pos(698,123.333)}*"Chikuma Gawa" is one of Itsuki Hiroshi's song.
+Dialogue: 0,0:11:59.23,0:12:01.23,Hamada,,0,0,0,,{\pos(740,734)}It wasn't even close.
+Dialogue: 0,0:12:01.23,0:12:04.07,Matsumoto,,0,0,0,,Damn, you really pulled "Chikuma Gawa" outta the bag.
+Dialogue: 0,0:12:02.70,0:12:04.07,Housei,,0,0,0,,Yeah, the song...
+Dialogue: 0,0:12:04.07,0:12:06.57,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1911C7&}"Chikuma Gawa"{\c} is outta the bag.
+Dialogue: 0,0:12:06.57,0:12:09.87,Housei,,0,0,0,,Not really.
+Dialogue: 0,0:12:11.14,0:12:12.54,Hamada,,0,0,0,,How about this one?
+Dialogue: 0,0:12:12.54,0:12:15.58,Hamada,,0,0,0,,{\i1}Yotsuba Hokkaido{\i0}.
+Dialogue: 0,0:12:16.51,0:12:18.82,Hamada,,0,0,0,,Well, it's got a similar {\c&H000000&\4c&HB1110F&}texture.
+Dialogue: 0,0:12:18.82,0:12:22.39,Matsumoto,,0,0,0,,What do you mean by texture. God, you're annoying.
+Dialogue: 0,0:12:20.42,0:12:22.39,Hamada,,0,0,0,,{\c&H000000&\4c&H870D0B&}The feel is...
+Dialogue: 0,0:12:22.39,0:12:25.49,Matsumoto,,0,0,0,,You should put it against your cheek then.
+Dialogue: 0,0:12:30.33,0:12:32.73,Matsumoto,,0,0,0,,Everyone starts to like....
+Dialogue: 0,0:12:32.73,0:12:34.97,Matsumoto,,0,0,0,,get stuck around here...
+Dialogue: 0,0:12:33.93,0:12:35.97,Housei,,0,0,0,,That's right.
+Dialogue: 0,0:12:37.30,0:12:40.30,Hamada,,0,0,0,,If you told me it was this one, I would agree...
+Dialogue: 0,0:12:43.41,0:12:44.84,Hamada,,0,0,0,,{\c&H000000&\4c&H870D0B&}The texture...
+Dialogue: 0,0:12:46.68,0:12:48.21,Hamada,,0,0,0,,The feel...
+Dialogue: 0,0:12:47.25,0:12:49.68,Matsumoto,,0,0,0,,Goddammit, how many time is he going to mix em up.
+Dialogue: 0,0:12:49.68,0:12:51.25,Matsumoto,,0,0,0,,{\c&H000000&\4c&H1E14E4&}Just bloody stop already!!
+Dialogue: 0,0:12:50.18,0:12:51.55,Housei,,0,0,0,,Hamada-san!
+Dialogue: 0,0:12:51.25,0:12:53.75,Endo,,0,0,0,,Yeah, he said "the feel" just now...
+Dialogue: 0,0:12:53.22,0:12:55.19,Matsumoto,,0,0,0,,Just stop it! You!
+Dialogue: 0,0:12:54.82,0:12:56.32,Hamada,,0,0,0,,The elasticity...
+Dialogue: 0,0:12:55.92,0:12:57.36,Matsumoto,,0,0,0,,Stop recording!
+Dialogue: 0,0:12:57.36,0:12:59.62,Matsumoto,,0,0,0,,All the cameras, point towards the ceiling for a bit.
+Dialogue: 0,0:12:58.56,0:13:01.33,Hamada,,0,0,0,,It's going to be a long one.
+Dialogue: 0,0:12:59.62,0:13:02.33,Matsumoto,,0,0,0,,Point it up once and bring it back down.
+Dialogue: 0,0:13:02.33,0:13:04.53,Matsumoto,,0,0,0,,Swing it up and bring it down.
+Dialogue: 0,0:13:05.93,0:13:08.03,Hamada,,0,0,0,,The two of you went for it, right?
+Dialogue: 0,0:13:08.03,0:13:09.83,Tanaka,,0,0,0,,{\pos(520,958)}We did.
+Dialogue: 0,0:13:08.03,0:13:10.17,Endo,,0,0,0,,{\pos(928,958)}We did.
+Dialogue: 0,0:13:08.87,0:13:11.00,Hamada,,0,0,0,,Alright then, I'm going up as well.
+Dialogue: 0,0:13:12.17,0:13:20.61,Hamada,,0,0,0,,What I had was {\i1}Yotsuba Dairy- Yotsuba Hokkaidō Tokachi 100 Mini Cheese.{\i0}
+Dialogue: 0,0:13:25.15,0:13:27.95,Matsumoto,,0,0,0,,Well, it figures.
+Dialogue: 0,0:13:27.95,0:13:29.92,Hamada,,0,0,0,,I didn't meet the correct one yet...
+Dialogue: 0,0:13:29.62,0:13:31.36,Endo,,0,0,0,,This is hard.
+Dialogue: 0,0:13:31.86,0:13:34.23,Tanaka,,0,0,0,,Ah~ there he is.
+Dialogue: 0,0:13:34.23,0:13:37.53,Punisher,,0,0,0,,Has your thick brain all melted, ya fuckin' moron!?
+Dialogue: 0,0:13:40.63,0:13:42.50,Matsumoto,,0,0,0,,Has it melted!?
+Dialogue: 0,0:13:43.63,0:13:45.24,Endo,,0,0,0,,Take a look, Hamada-san.
+Dialogue: 0,0:13:44.50,0:13:46.17,Hamada,,0,0,0,,Which one was it?
+Dialogue: 0,0:13:46.17,0:13:48.07,Matsumoto,,0,0,0,,It was a pretty simple...
+Dialogue: 0,0:13:48.07,0:13:49.81,Hamada,,0,0,0,,Ah, so that was it.
+Dialogue: 0,0:13:49.81,0:13:52.71,Hamada,,0,0,0,,I hadn't tried it yet.
+Dialogue: 0,0:13:50.31,0:13:51.28,Tanaka,,0,0,0,,Yup.
+Dialogue: 0,0:13:51.28,0:13:54.05,Matsumoto,,0,0,0,,Well then, why don't you have a taste.
+Dialogue: 0,0:13:54.71,0:13:58.52,Matsumoto,,0,0,0,,I thought you might actually get this one to be honest...
+Dialogue: 0,0:13:59.55,0:14:00.85,Hamada,,0,0,0,,{\c&H000000&\4c&HDD0F0C&}The feel.
+Dialogue: 0,0:14:02.35,0:14:04.22,Matsumoto,,0,0,0,,What happened to {\c&H000000&\4c&H1910E4&}the texture{\c}?
+Dialogue: 0,0:14:03.86,0:14:06.89,Hamada,,0,0,0,,I definitely won't be saying that again.
+Dialogue: 0,0:14:08.86,0:14:11.63,Other,,0,0,0,,The fourth challenger is Housei.
+Dialogue: 0,0:14:12.06,0:14:16.27,Other,,0,0,0,,His selection is  {\i1}Family Mart Collection{\i0}, where Endo also suffered.
+Dialogue: 0,0:14:17.97,0:14:24.08,Other,,0,0,0,,Butter mixed in Hokkaido cheese, this rich flavor is a one of a kind.
+Dialogue: 0,0:14:24.08,0:14:27.35,Other,,0,0,0,,Will he be able to remember this taste?
+Dialogue: 0,0:14:29.21,0:14:30.45,Housei,,0,0,0,,Alright~
+Dialogue: 0,0:14:29.31,0:14:31.75,Hamada,,0,0,0,,Getting wrong on the ones that showed up before is pretty funny.
+Dialogue: 0,0:14:31.75,0:14:34.45,Matsumoto,,0,0,0,,That just gives us more pressure.
+Dialogue: 0,0:14:33.18,0:14:35.05,Endo,,0,0,0,,Yeah, sure does.
+Dialogue: 0,0:14:35.32,0:14:37.29,Housei,,0,0,0,,I thought you'd perhaps give me
+Dialogue: 0,0:14:37.29,0:14:39.99,Housei,,0,0,0,,a soft one from a foreign country
+Dialogue: 0,0:14:39.26,0:14:42.66,Hamada,,0,0,0,,He's kicking off with a complaint...
+Dialogue: 0,0:14:44.23,0:14:46.93,Housei,,0,0,0,,Ah, it's got a {\c&H000000&\4c&H18CA26&}light{\c} taste to it.
+Dialogue: 0,0:14:46.93,0:14:49.93,Housei,,0,0,0,,I've probably had it before.
+Dialogue: 0,0:14:52.64,0:14:55.17,Matsumoto,,0,0,0,,He's {\c&H000000&\4c&H160CD0&}smothering it all over his teeth...
+Dialogue: 0,0:14:54.21,0:14:55.67,Endo,,0,0,0,,Are you alright?
+Dialogue: 0,0:14:55.64,0:14:57.64,Endo,,0,0,0,,Will it really help?
+Dialogue: 0,0:14:59.28,0:15:00.91,Hamada,,0,0,0,,Are you kiddin' me?
+Dialogue: 0,0:15:00.91,0:15:02.98,Hamada,,0,0,0,,Just go home if you're going to keep that up.
+Dialogue: 0,0:15:02.01,0:15:04.05,Matsumoto,,0,0,0,,What's wrong? What's wrong?
+Dialogue: 0,0:15:04.05,0:15:06.55,Housei,,0,0,0,,It's not coming off at all.
+Dialogue: 0,0:15:07.25,0:15:09.22,Housei,,0,0,0,,I'm going to try and choose which one I think is right.
+Dialogue: 0,0:15:08.32,0:15:09.49,Hamada,,0,0,0,,Go for it.
+Dialogue: 0,0:15:10.09,0:15:12.36,Housei,,0,0,0,,Here goes, {\i1}Baby Cheese{\i0}.
+Dialogue: 0,0:15:21.77,0:15:23.23,Housei,,0,0,0,,Totally not it.
+Dialogue: 0,0:15:23.23,0:15:25.44,Housei,,0,0,0,,Absolutely not.
+Dialogue: 0,0:15:25.44,0:15:27.67,Housei,,0,0,0,,The flavor of the taste...
+Dialogue: 0,0:15:27.67,0:15:32.58,Housei,,0,0,0,,The one I picked wasn't {\i1}Baby Cheese Plain{\i0}.
+Dialogue: 0,0:15:32.40,0:15:33.58,Matsumoto,,0,0,0,,The one he picked?
+Dialogue: 0,0:15:35.91,0:15:37.65,Matsumoto,,0,0,0,,Ah~ But this is...
+Dialogue: 0,0:15:37.08,0:15:38.72,Housei,,0,0,0,,It's totally not it.
+Dialogue: 0,0:15:37.82,0:15:39.42,Matsumoto,,0,0,0,,Clearly?
+Dialogue: 0,0:15:38.72,0:15:40.48,Housei,,0,0,0,,Yeah, I can clearly tell it's different.
+Dialogue: 0,0:15:40.48,0:15:43.39,Housei,,0,0,0,,And another one I've had before is this.
+Dialogue: 0,0:15:49.66,0:15:50.76,Housei,,0,0,0,,Nope.
+Dialogue: 0,0:15:51.16,0:15:53.03,Housei,,0,0,0,,Wow, I can really tell.
+Dialogue: 0,0:15:54.63,0:15:57.84,Housei,,0,0,0,,What I had
+Dialogue: 0,0:15:57.84,0:16:01.17,Housei,,0,0,0,,was not Yukijirushi Megumiruku.
+Dialogue: 0,0:16:03.21,0:16:05.11,Hamada,,0,0,0,,You're on a good pace.
+Dialogue: 0,0:16:04.08,0:16:05.68,Endo,,0,0,0,,The pace is good.
+Dialogue: 0,0:16:05.84,0:16:07.98,Housei,,0,0,0,,Okay, let me try this one.
+Dialogue: 0,0:16:08.95,0:16:10.55,Housei,,0,0,0,,The one everyone...
+Dialogue: 0,0:16:14.09,0:16:15.42,Housei,,0,0,0,,Nope.
+Dialogue: 0,0:16:16.22,0:16:17.76,Housei,,0,0,0,,Totally wrong.
+Dialogue: 0,0:16:17.76,0:16:18.66,Housei,,0,0,0,,Huh?
+Dialogue: 0,0:16:18.66,0:16:20.66,Housei,,0,0,0,,What did I eat then?..
+Dialogue: 0,0:16:20.66,0:16:23.63,Matsumoto,,0,0,0,,Well that's what you're trying to figure out...
+Dialogue: 0,0:16:23.63,0:16:26.96,Matsumoto,,0,0,0,,He's tried this 36 times on this show...
+Dialogue: 0,0:16:26.96,0:16:28.67,Housei,,0,0,0,,What I ate
+Dialogue: 0,0:16:28.67,0:16:31.70,Housei,,0,0,0,,was NOT {\i1}Family Mart's 6P Cheese{\i0}.
+Dialogue: 0,0:16:35.37,0:16:37.91,Hamada,,0,0,0,,So quick! It beeped the moment you dropped it.
+Dialogue: 0,0:16:40.95,0:16:42.25,Matsumoto,,0,0,0,,Shocked, aren't you?
+Dialogue: 0,0:16:42.25,0:16:44.05,Housei,,0,0,0,,Eh, no way?
+Dialogue: 0,0:16:43.11,0:16:45.02,Matsumoto,,0,0,0,,Shocked, aint you?
+Dialogue: 0,0:16:45.02,0:16:46.78,Matsumoto,,0,0,0,,They {\c&H000000&\4c&H160CE8&}cut you off{\c} real quick.
+Dialogue: 0,0:16:46.78,0:16:49.69,Matsumoto,,0,0,0,,Like it literally hadn't left your hand yet.
+Dialogue: 0,0:16:49.69,0:16:51.76,Housei,,0,0,0,,Eh~ for real?
+Dialogue: 0,0:16:51.84,0:16:53.58,Housei,,0,0,0,,{\c&H000000&\4c&H20C82D&}It was totally different.
+Dialogue: 0,0:16:53.52,0:16:56.66,Hamada,,0,0,0,,That's what I'm saying, there's no way we'll get it right.
+Dialogue: 0,0:16:57.70,0:16:59.23,Matsumoto,,0,0,0,,This is going to be hard...
+Dialogue: 0,0:16:59.23,0:17:01.43,Housei,,0,0,0,,No, this is impossible to get right.
+Dialogue: 0,0:17:01.43,0:17:04.34,Punisher,,0,0,0,,Your stupidity has been fermenting for too long!!!
+Dialogue: 0,0:17:07.44,0:17:08.67,All,,0,0,0,,That went for ages!
+Dialogue: 0,0:17:11.01,0:17:13.64,Endo,,0,0,0,,It was the previous selection.
+Dialogue: 0,0:17:12.71,0:17:14.61,Hamada,,0,0,0,,I had it just before.
+Dialogue: 0,0:17:13.64,0:17:15.28,Housei,,0,0,0,,Really?
+Dialogue: 0,0:17:15.28,0:17:17.78,Tanaka,,0,0,0,,It came up on your third one...
+Dialogue: 0,0:17:16.58,0:17:17.98,Hamada,,0,0,0,,He got to try the correct one, as well...
+Dialogue: 0,0:17:17.98,0:17:20.82,Hamada,,0,0,0,,He tried it and still {\c&H000000&\4c&HCF120F&}got it wrong..
+Dialogue: 0,0:17:20.22,0:17:23.69,Matsumoto,,0,0,0,,Now all that's left is to try it.
+Dialogue: 0,0:17:23.05,0:17:24.86,Endo,,0,0,0,,Just because it showed up before...
+Dialogue: 0,0:17:24.76,0:17:26.66,Matsumoto,,0,0,0,,Just because it showed up before...
+Dialogue: 0,0:17:26.66,0:17:28.46,Matsumoto,,0,0,0,,All that's left is to try it, surely
+Dialogue: 0,0:17:28.46,0:17:30.36,Matsumoto,,0,0,0,,this cannot be different.
+Dialogue: 0,0:17:30.36,0:17:32.63,Housei,,0,0,0,,{\c&H000000&\4c&H0EDD1E&}No, it's different.
+Dialogue: 0,0:17:32.36,0:17:33.70,Matsumoto,,0,0,0,,That's enough.
+Dialogue: 0,0:17:33.06,0:17:34.60,Endo,,0,0,0,,It's definetely this.
+Dialogue: 0,0:17:34.17,0:17:35.77,Matsumoto,,0,0,0,,Just stop!!
+Dialogue: 0,0:17:35.77,0:17:50.78,CREDITS,,0,0,0,,{\pos(100,112)} Timer/Typesetter:\N{\i1}yamasakigifs.tumblr.com{\i0}
+Dialogue: 0,0:17:35.77,0:17:50.78,CREDITS,,0,0,0,,{\pos(862,112)} Translator:\NJ-Hive & Mickstar
+Dialogue: 0,0:17:35.77,0:17:50.78,CREDITS,,0,0,0,,{\i1\pos(862,200)}j-hive.weebly.com{\i0}
+Dialogue: 0,0:17:35.77,0:17:50.78,CREDITS,,0,0,0,,{\pos(100,316)\i1}dtr-subs.tumblr.com{\i0}
+Dialogue: 0,0:17:35.77,0:17:50.78,CREDITS,,0,0,0,,{\pos(100,232)} Proofreader:\NOolong (DTR Subs)
+Dialogue: 0,0:17:51.72,0:17:54.12,Other,,0,0,0,,The last challenger is Matsumoto.
+Dialogue: 0,0:17:54.95,0:17:58.66,Other,,0,0,0,,and his selection is {\i1}Yukijirushi Hokkaido- 100 Cheese{\i0}.
+Dialogue: 0,0:18:00.22,0:18:04.96,Other,,0,0,0,,Using 100% Skimmed Hokkaido milk
+Dialogue: 0,0:18:04.96,0:18:10.03,Other,,0,0,0,,It has a deep taste and has been sold for a long time.
+Dialogue: 0,0:18:11.64,0:18:15.07,Matsumoto,,0,0,0,,I have no idea at all which one you've chosen...
+Dialogue: 0,0:18:14.14,0:18:15.97,Endo,,0,0,0,,I guess...
+Dialogue: 0,0:18:15.37,0:18:17.68,Housei,,0,0,0,,Please try tasting it.
+Dialogue: 0,0:18:16.67,0:18:18.21,Matsumoto,,0,0,0,,Ah, it's hard.
+Dialogue: 0,0:18:18.21,0:18:21.18,Matsumoto,,0,0,0,,What the hell, {\c&H000000&\4c&H1509FE&}ain't this the leftovers!?
+Dialogue: 0,0:18:20.34,0:18:22.21,Hamada,,0,0,0,,Just hurry up and eat it...
+Dialogue: 0,0:18:22.21,0:18:24.18,Endo,,0,0,0,,No it's not...
+Dialogue: 0,0:18:24.18,0:18:26.18,Endo,,0,0,0,,It's fresh new one...
+Dialogue: 0,0:18:33.36,0:18:35.96,Matsumoto,,0,0,0,,It's really, really plain.
+Dialogue: 0,0:18:36.56,0:18:39.50,Matsumoto,,0,0,0,,{\c&H000000&\4c&H2218F1&}This one's{\c} just {\c&H000000&\4c&H2218F1&}so plain.
+Dialogue: 0,0:18:40.13,0:18:42.03,Matsumoto,,0,0,0,,Even at this stage...
+Dialogue: 0,0:18:42.83,0:18:45.00,Housei,,0,0,0,,The smell is also important.
+Dialogue: 0,0:18:44.30,0:18:46.40,Matsumoto,,0,0,0,,Ah, but this really
+Dialogue: 0,0:18:46.40,0:18:48.41,Matsumoto,,0,0,0,,{\c&H000000&\4c&H150AF3&}smells like a rubber balloon.
+Dialogue: 0,0:18:48.41,0:18:49.57,Matsumoto,,0,0,0,,Right?
+Dialogue: 0,0:18:49.57,0:18:52.48,Matsumoto,,0,0,0,,Don't they both have the same smell, {\c&H000000&\4c&H180DEA&}cheese and rubber balloons?
+Dialogue: 0,0:18:52.48,0:18:57.98,Hamada,,0,0,0,,Since he can make balloon dogs.
+Dialogue: 0,0:18:55.35,0:18:57.98,Endo,,0,0,0,,Ah yes, at home...
+Dialogue: 0,0:18:57.98,0:19:00.22,Matsumoto,,0,0,0,,Think about it, if I had kept on making it from then,
+Dialogue: 0,0:19:00.22,0:19:03.25,Matsumoto,,0,0,0,,my daughter would surely be sick of it.
+Dialogue: 0,0:19:05.02,0:19:08.76,Matsumoto,,0,0,0,,It was extremely {\c&H000000&\4c&H1A11DD&}plain.
+Dialogue: 0,0:19:08.76,0:19:11.76,Matsumoto,,0,0,0,,Going by that bit, this plain cheese...
+Dialogue: 0,0:19:11.76,0:19:14.53,Matsumoto,,0,0,0,,since it's been titled as so.
+Dialogue: 0,0:19:14.53,0:19:16.97,Matsumoto,,0,0,0,,How about I try one of the ones around here...
+Dialogue: 0,0:19:16.97,0:19:20.60,Matsumoto,,0,0,0,,and proceed while observing the situation...
+Dialogue: 0,0:19:20.60,0:19:22.87,Matsumoto,,0,0,0,,Would that be okay?
+Dialogue: 0,0:19:22.87,0:19:25.98,Housei,,0,0,0,,He's imitating Non-chan.
+Dialogue: 0,0:19:28.91,0:19:31.12,Matsumoto,,0,0,0,,{\c&H000000&\4c&H2A21E3&}Smells like rubber balloon.
+Dialogue: 0,0:19:53.87,0:19:56.11,Matsumoto,,0,0,0,,This'll end it!
+Dialogue: 0,0:19:57.91,0:19:59.58,Matsumoto,,0,0,0,,I'm going for it.
+Dialogue: 0,0:20:05.22,0:20:07.92,Matsumoto,,0,0,0,,What to do, if this isn't the one
+Dialogue: 0,0:20:07.92,0:20:10.99,Matsumoto,,0,0,0,,then it'll turn into an absolutely uninteresting show.
+Dialogue: 0,0:20:11.42,0:20:13.19,Matsumoto,,0,0,0,,Ah, I know what to do.
+Dialogue: 0,0:20:13.19,0:20:15.33,Matsumoto,,0,0,0,,I think it's probably this.
+Dialogue: 0,0:20:16.66,0:20:18.66,Matsumoto,,0,0,0,,But I won't go for it
+Dialogue: 0,0:20:19.03,0:20:22.30,Matsumoto,,0,0,0,,I'll say it's wrong...
+Dialogue: 0,0:20:22.30,0:20:25.40,Matsumoto,,0,0,0,,But if I do as such
+Dialogue: 0,0:20:25.40,0:20:30.37,Matsumoto,,0,0,0,,and it beeps, I'll seriously beat you all down.
+Dialogue: 0,0:20:30.37,0:20:32.61,Housei,,0,0,0,,I don't get why...
+Dialogue: 0,0:20:31.11,0:20:33.04,Tanaka,,0,0,0,,Why would you do such thing?
+Dialogue: 0,0:20:32.61,0:20:35.35,Matsumoto,,0,0,0,,I'll hit you with my moves...
+Dialogue: 0,0:20:35.35,0:20:38.05,Housei,,0,0,0,,All of us?
+Dialogue: 0,0:20:36.28,0:20:38.05,Endo,,0,0,0,,Seriously?
+Dialogue: 0,0:20:38.65,0:20:41.75,Matsumoto,,0,0,0,,I'll only leave the camera assistant alone.
+Dialogue: 0,0:20:41.75,0:20:44.32,Endo,,0,0,0,,Why is it only him that's safe?
+Dialogue: 0,0:20:43.49,0:20:44.69,Hamada,,0,0,0,,That man...
+Dialogue: 0,0:20:44.32,0:20:45.66,Matsumoto,,0,0,0,,I'll take a pass with this,
+Dialogue: 0,0:20:45.66,0:20:48.49,Matsumoto,,0,0,0,,if this turned out to be wrong, it'd really be
+Dialogue: 0,0:20:48.49,0:20:50.56,Matsumoto,,0,0,0,,such a waste.
+Dialogue: 0,0:20:50.56,0:20:53.63,Matsumoto,,0,0,0,,All I'll say about it is that it's extremely close.
+Dialogue: 0,0:20:56.70,0:21:00.37,Matsumoto,,0,0,0,,Nope, {\c&H000000&\4c&H1A11DE&}the camera assistant is going down as well.
+Dialogue: 0,0:21:00.37,0:21:03.14,Housei,,0,0,0,,Just because of that, I feel so sorry for him...
+Dialogue: 0,0:21:03.14,0:21:04.94,Endo,,0,0,0,,I feel so bad..
+Dialogue: 0,0:21:04.21,0:21:06.38,Housei,,0,0,0,,Just when he was spared.
+Dialogue: 0,0:21:06.38,0:21:08.08,Matsumoto,,0,0,0,,You know, I feel like
+Dialogue: 0,0:21:08.08,0:21:10.58,Matsumoto,,0,0,0,,I'm the victim of this show...
+Dialogue: 0,0:21:10.58,0:21:12.68,Matsumoto,,0,0,0,,if this isn't it.
+Dialogue: 0,0:21:15.15,0:21:21.16,Matsumoto,,0,0,0,,What I had wasn't Mother Farm- Plain Cheese.
+Dialogue: 0,0:21:41.78,0:21:43.78,Matsumoto,,0,0,0,,Holy shit, that was close!!
+Dialogue: 0,0:21:43.78,0:21:46.08,Housei,,0,0,0,, "kyoe~! kyoe~!"
+Dialogue: 0,0:21:46.68,0:21:48.02,Endo,,0,0,0,,He was all, "kyoe~!"
+Dialogue: 0,0:21:48.02,0:21:50.49,Matsumoto,,0,0,0,,Well, I'm going from this side.
+Dialogue: 0,0:21:50.49,0:21:53.12,Matsumoto,,0,0,0,,This is going to be a long fight.
+Dialogue: 0,0:21:56.46,0:21:59.26,Matsumoto,,0,0,0,,Uwa~ the elasticity is similar too.
+Dialogue: 0,0:22:10.31,0:22:12.58,Matsumoto,,0,0,0,,Seriously, who picked it?
+Dialogue: 0,0:22:13.00,0:22:14.31,Matsumoto,,0,0,0,,It was him (Hamada), wasn't it?
+Dialogue: 0,0:22:14.31,0:22:17.01,Endo,,0,0,0,,It was really all of us.
+Dialogue: 0,0:22:18.25,0:22:20.38,Matsumoto,,0,0,0,,Everyone's said it.
+Dialogue: 0,0:22:20.38,0:22:23.22,Matsumoto,,0,0,0,,This has gotta be the one.
+Dialogue: 0,0:22:23.92,0:22:25.62,Endo,,0,0,0,,That's what we all thought
+Dialogue: 0,0:22:24.49,0:22:26.02,Hamada,,0,0,0,,Yeah...
+Dialogue: 0,0:22:25.62,0:22:29.19,Matsumoto,,0,0,0,,You can't be picking this again!!
+Dialogue: 0,0:22:29.19,0:22:33.00,Matsumoto,,0,0,0,,Seriously, to think that you'd dare pull this one again.
+Dialogue: 0,0:22:33.00,0:22:35.33,Matsumoto,,0,0,0,,I haven't the slightest clue.
+Dialogue: 0,0:22:37.77,0:22:40.50,Matsumoto,,0,0,0,,This is extremely close.
+Dialogue: 0,0:22:40.50,0:22:42.84,Matsumoto,,0,0,0,,It's just a regular cheese.
+Dialogue: 0,0:22:42.84,0:22:44.34,Matsumoto,,0,0,0,,But!
+Dialogue: 0,0:22:44.34,0:22:48.81,Matsumoto,,0,0,0,,It's certainly got a slight bitter taste, so to speak.
+Dialogue: 0,0:22:48.81,0:22:52.05,Matsumoto,,0,0,0,,This {\i1}Yukijirushi's{\i0} cheese.
+Dialogue: 0,0:22:52.05,0:22:54.72,Matsumoto,,0,0,0,,Maybe that's all to it, that bitterness.
+Dialogue: 0,0:22:54.72,0:22:57.12,Matsumoto,,0,0,0,,I'm really going to get it right today,
+Dialogue: 0,0:22:57.12,0:22:58.92,Matsumoto,,0,0,0,,so I'm going through this seriously.
+Dialogue: 0,0:22:59.96,0:23:01.86,Matsumoto,,0,0,0,,What I had
+Dialogue: 0,0:23:01.86,0:23:05.96,Matsumoto,,0,0,0,,was NOT {\i1}Yukijirushi Hokkaido- 100 Cheese{\i0}, I think.
+Dialogue: 0,0:23:13.27,0:23:16.14,Matsumoto,,0,0,0,,This {\c&H000000&\4c&H1E15CE&}isn't funny at all!!
+Dialogue: 0,0:23:15.57,0:23:17.91,Endo,,0,0,0,,You're right...
+Dialogue: 0,0:23:16.14,0:23:18.44,Housei,,0,0,0,,It wasn't funny at all...
+Dialogue: 0,0:23:19.54,0:23:22.05,Matsumoto,,0,0,0,,I'm so embarrassed.
+Dialogue: 0,0:23:22.05,0:23:23.55,Housei,,0,0,0,,I know, right?
+Dialogue: 0,0:23:22.58,0:23:24.65,Matsumoto,,0,0,0,,So embarrassing.
+Dialogue: 0,0:23:24.65,0:23:28.19,Endo,,0,0,0,,Yaaa~ that sure was tough.
+Dialogue: 0,0:23:29.59,0:23:34.54,Punisher,,0,0,0,,If you have time to work on your body, work on your senses, you baldy!
+Dialogue: 0,0:23:38.90,0:23:41.47,Endo,,0,0,0,,He's turned all white.
+Dialogue: 0,0:23:40.26,0:23:42.33,Housei,,0,0,0,,That was a pretty long spray.
+Dialogue: 0,0:23:42.33,0:23:44.87,Housei,,0,0,0,,Yes, yes, that face...
+Dialogue: 0,0:23:45.20,0:23:48.44,Matsumoto,,0,0,0,,I'm really embarrassed right now.
+Dialogue: 0,0:23:50.01,0:23:52.11,Endo,,0,0,0,,You had no clue at all?
+Dialogue: 0,0:23:51.61,0:23:54.18,Matsumoto,,0,0,0,,Absolutely none.
+

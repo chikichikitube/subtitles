@@ -1,0 +1,58 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../trimmed raws/ダウンタウンのごっつええ感じ 1992.02.23 #010 (インタレ保持) [H.264 640x480 46m55s]-00.24.06.711-00.24.32.170.mp4
+Video File: ../trimmed raws/ダウンタウンのごっつええ感じ 1992.02.23 #010 (インタレ保持) [H.264 640x480 46m55s]-00.24.06.711-00.24.32.170.mp4
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 1.250000
+Active Line: 14
+Video Position: 692
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,37,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.33333,0,2,5,5,7,1
+Style: filop,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.33333,1.33333,2,5,5,7,1
+Style: TILT,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,7,1,1.33333,1.33333,2,5,5,7,1
+Style: GEKIHA,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,68,1,1.33333,1.33333,2,5,5,7,1
+Style: 90°,Arial,13,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.33333,1.33333,2,5,5,7,1
+Style: Tanaka,Arial,28,&H00A81A5E,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Matsumoto,Arial,28,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Hamada,Arial,28,&H00B41009,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Endo,Arial,28,&H002087FA,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Yamazaki,Arial,28,&H00009F09,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Fujiwara,Arial,28,&H00496500,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Black font,Arial,28,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: White font,Arial,28,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Interviewer,Arial,28,&H00594A4A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Questions / Answers,Arial,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: Guesses,Arial,25,&H00FFFFFF,&H000000FF,&H00EE761A,&H00EE761A,-1,0,0,0,100,100,0,0,1,1.33333,1.33333,2,5,5,7,1
+Style: nippon no uso,Arial,16,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,2,5,5,7,1
+Style: MISSING,Arial,16,&H000000FF,&H000000FF,&H0000FFDF,&H00000000,0,0,0,0,100,100,0,0,1,1.66667,0,2,5,5,7,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.57,0:00:04.62,Default,,0,0,0,,{\fad(400,900)\b0\c&HEED0FF&\1a&H21&\3c&H7E4BAB&\3a&H2A&\pos(503,385.333)\i1}Huh?{\b0\fnCalibri\i0}
+Dialogue: 0,0:00:03.87,0:00:05.08,Default,,0,0,0,,Ah, Yoshiko-chan?
+Dialogue: 0,0:00:06.08,0:00:07.78,Default,,0,0,0,,Oh, sorry, my mistake
+Dialogue: 0,0:00:07.78,0:00:08.87,Default,,0,0,0,,It's ok
+Dialogue: 0,0:00:08.87,0:00:10.44,Default,,0,0,0,,Nope, I was right, you're her!
+Dialogue: 0,0:00:10.44,0:00:11.22,Default,,0,0,0,,I'm not
+Dialogue: 0,0:00:11.22,0:00:13.32,Default,,0,0,0,,You're on your period, ain't you?\N- I'm not
+Dialogue: 0,0:00:13.32,0:00:14.84,Default,,0,0,0,,You're Yoshiko, ain't you?\N- No...
+Dialogue: 0,0:00:14.84,0:00:16.98,Default,,0,0,0,,We were in the same class in middle school\N- No
+Dialogue: 0,0:00:16.98,0:00:18.35,Default,,0,0,0,,Come on, you're her!\N- I'm not!
+Dialogue: 0,0:00:18.35,0:00:19.61,Default,,0,0,0,,Oh, you just farted, right?
+Dialogue: 0,0:00:19.61,0:00:20.79,Default,,0,0,0,,I did not!
+Dialogue: 0,0:00:20.79,0:00:21.92,Default,,0,0,0,,Oh, is that so
+Dialogue: 0,0:00:22.22,0:00:22.88,Default,,0,0,0,,I see
+Dialogue: 0,0:00:00.00,0:00:25.40,Default,,0,0,0,,{\fnArial Rounded MT Bold\b1\fscx51\fscy60\3c&HD10DA2&\c&H89C1FF&\1a&H33&\3a&H5A&\pos(124,24)}facebook.com/shionnotsukai{\b0}
+

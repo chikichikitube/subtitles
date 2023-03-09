@@ -1,0 +1,781 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 448
+Video Aspect Ratio: c1.47333
+PlayResY: 300
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Gaki no Tsukai #0735 (2004.12.05) - Yamasaki Produce 1.flv
+Video File: Gaki no Tsukai #0735 (2004.12.05) - Yamasaki Produce 1.flv
+Video AR Mode: 4
+Video AR Value: 1.493333
+Video Zoom Percent: 3.875000
+Scroll Position: 609
+Active Line: 633
+Video Position: 30382
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Note Bright,Arial,22,&H006C6909,&H000000FF,&H00F9FFE4,&H00C6EA0A,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Credit Box,Arial,30,&H00FFF6A4,&H000000FF,&H008A6124,&H004343B4,-1,0,0,0,100,100,0,0,3,3,0,2,10,10,10,1
+Style: Credit,Arial,14,&H00F9F6E2,&H000000FF,&H00271506,&H004D3F38,-1,0,0,0,100,100,0,0,1,1.5,4,7,10,10,10,1
+Style: Blue L,Arial,20,&H0098940E,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Note,Arial,14,&H0032310B,&H000000FF,&H00F8FCEB,&H005E5024,-1,0,0,0,100,100,0,0,1,1.5,3,8,10,10,10,1
+Style: Narrator,Arial,20,&H003C3C3C,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: MatsuC,Arial,16,&H00000097,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,8,10,10,10,1
+Style: EndoC,Arial,16,&H000061CD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,8,10,10,10,1
+Style: HouseiC,Arial,16,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,2.5,4,8,10,10,10,1
+Style: TanakaC,Arial,16,&H00980082,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,8,10,10,10,1
+Style: HamadaC,Arial,16,&H00993228,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,8,10,10,10,1
+Style: ThinBlackText,Arial,70,&H00000000,&H000000FF,&H00FFFFFF,&HADFFFFFF,0,0,0,0,100,100,0,0,1,4,6,2,10,10,10,1
+Style: WhiteText,Arial,16,&H00FFFFFF,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,3,1,10,10,10,1
+Style: BlueBox,Arial,32,&H50862215,&H000000FF,&H50862215,&H50862215,-1,0,0,0,100,100,0,0,3,7,0,8,10,10,10,1
+Style: RedO,Arial,22,&H00FFFFFF,&H000000FF,&H00292786,&H00110F61,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: BlueO,Arial,16,&H00FFFFFF,&H000000FF,&H007E361E,&H00611C0F,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: YellowT,Arial,30,&H0085FFF8,&H000000FF,&H000A1625,&H001B4A47,-1,0,0,0,100,100,1.01357,0,1,2.5,3,2,10,10,10,1
+Style: GreenT,Arial,16,&H00F1FFF1,&H000000FF,&H000D4200,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,1,10,10,10,1
+Style: All,Arial,20,&H007B7047,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Hamada,Arial,20,&H00993228,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Tanaka,Arial,20,&H00841F59,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Endo,Arial,20,&H000061CD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Matsu,Arial,20,&H00000097,&H000000FF,&H00FEFEFE,&H00000000,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: Housei,Arial,20,&H00006F16,&H000000FF,&H00FFFFFF,&H00000200,-1,0,0,0,100,100,0,0,1,2.5,4,2,10,10,10,1
+Style: BlackT,Arial,32,&H00000000,&H000000FF,&H00000000,&H00A5A5A5,-1,0,0,0,100,100,1.11493,0,1,0.5,4,2,10,10,10,1
+Style: RehearsalT,Arial,14,&H00FFFFFF,&H000000FF,&H00612654,&H00190417,-1,0,0,0,100,100,0,0,1,1.5,2,1,10,10,10,1
+Style: WhiteTextS,Arial,14,&H00FFFFFF,&H000000FF,&H00202020,&H00000000,-1,0,0,0,100,100,0,0,1,1.5,2,1,10,10,10,1
+Style: RomajiKara,Arial,16,&H00FFFFFF,&H000000FF,&H00506A29,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:10.02,Credit,,0,0,0,,{\fad(0,200)\pos(9.122,4)}Subbed by: Mickstar813 & YamasakiGIFs
+Dialogue: 0,0:00:00.60,0:00:05.56,BlueO,,0,0,0,,{\fad(200,200)\pos(220.959,230)}Gaki no Tsukai- Backstage
+Dialogue: 0,0:00:00.68,0:00:03.47,Hamada,,0,0,0,,Damn, my body hurts...
+Dialogue: 0,0:00:03.47,0:00:05.77,Matsu,,0,0,0,,What the hell are you doing!
+Dialogue: 0,0:00:06.14,0:00:10.06,BlueO,,0,0,0,,{\fad(200,200)\pos(227.041,265)}Matsumoto Hitoshi         Hamada Masatoshi
+Dialogue: 0,0:00:06.14,0:00:10.06,GreenT,,0,0,0,,{\fad(200,200)\pos(187.511,233)}Downtown
+Dialogue: 0,0:00:06.14,0:00:07.56,Hamada,,0,0,0,,My body really hurts...
+Dialogue: 0,0:00:07.56,0:00:09.64,Matsu,,0,0,0,,Piss off you idiot.
+Dialogue: 0,0:00:09.64,0:00:12.52,Matsu,,0,0,0,,Don't touch me
+Dialogue: 0,0:00:10.35,0:00:12.52,Hamada,,0,0,0,,Oh don't be like that
+Dialogue: 0,0:00:12.52,0:00:15.47,Matsu,,0,0,0,,What the hell , you always...
+Dialogue: 0,0:00:14.52,0:00:18.43,BlueO,,0,0,0,,{\fad(200,200)\pos(292.923,208)}Cocorico
+Dialogue: 0,0:00:14.52,0:00:18.43,BlueO,,0,0,0,,{\fad(200,200)\pos(297.991,232)}Endo Shozo        Tanaka Naoki
+Dialogue: 0,0:00:17.14,0:00:18.85,Endo,,0,0,0,,It's like always...
+Dialogue: 0,0:00:18.85,0:00:20.10,Housei,,0,0,0,,Good morning.
+Dialogue: 0,0:00:20.10,0:00:22.10,All,,0,0,0,,Good morning.
+Dialogue: 0,0:00:24.06,0:00:25.64,Housei,,0,0,0,,Pardon me.
+Dialogue: 0,0:00:25.64,0:00:27.68,Housei,,0,0,0,,Can... Can you listen for a minute?..
+Dialogue: 0,0:00:25.64,0:00:27.68,Hamada,,0,0,0,,My body hurts so bad...
+Dialogue: 0,0:00:27.14,0:00:31.14,BlueO,,0,0,0,,{\fad(200,200)\pos(224,261)}Yamasaki Housei
+Dialogue: 0,0:00:27.68,0:00:28.89,Hamada,,0,0,0,,What?
+Dialogue: 0,0:00:28.89,0:00:30.97,Housei,,0,0,0,,Well... I kind of need to discuss something...
+Dialogue: 0,0:00:30.97,0:00:32.31,Housei,,0,0,0,,Um...
+Dialogue: 0,0:00:32.31,0:00:33.85,Housei,,0,0,0,,Lately, I've been{\alphaFF} struggling financially...
+Dialogue: 0,0:00:33.85,0:00:36.06,Housei,,0,0,0,,Lately, I've been struggling financially...
+Dialogue: 0,0:00:36.06,0:00:38.47,Hamada,,0,0,0,,Damn, he's really...
+Dialogue: 0,0:00:37.02,0:00:38.47,Endo,,0,0,0,,He's so direct...
+Dialogue: 0,0:00:38.47,0:00:40.18,Matsu,,0,0,0,,I know it's sad
+Dialogue: 0,0:00:40.18,0:00:44.47,Matsu,,0,0,0,,But seriously, last week, when we finished recording and I jokingly looked in his wallet...
+Dialogue: 0,0:00:44.47,0:00:46.31,Matsu,,0,0,0,,He only had thirty something yen...
+Dialogue: 0,0:00:46.31,0:00:47.77,Matsu,,0,0,0,,For real.
+Dialogue: 0,0:00:47.77,0:00:49.64,Matsu,,0,0,0,,Oh, was it three hundred and something?...
+Dialogue: 0,0:00:47.77,0:00:49.64,Hamada,,0,0,0,,You're kidding!
+Dialogue: 0,0:00:49.64,0:00:51.31,Housei,,0,0,0,,Yeah it was
+Dialogue: 0,0:00:50.39,0:00:52.56,Hamada,,0,0,0,,No way...
+Dialogue: 0,0:00:51.31,0:00:54.27,Housei,,0,0,0,,{\pos(166.226,263)}No, really.
+Dialogue: 0,0:00:51.31,0:00:54.27,Matsu,,0,0,0,,{\pos(293.937,264)}I was surprised.
+Dialogue: 0,0:00:52.56,0:00:54.27,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:00:54.27,0:00:56.89,Housei,,0,0,0,,I just bought a house, you know?
+Dialogue: 0,0:00:55.27,0:00:56.89,Hamada,,0,0,0,,Ah right, yeah.
+Dialogue: 0,0:00:56.89,0:00:59.31,Housei,,0,0,0,,And the loan re-payments are tough
+Dialogue: 0,0:00:59.31,0:01:02.18,Housei,,0,0,0,,And I have 2 kids right now
+Dialogue: 0,0:01:01.35,0:01:03.06,Matsu,,0,0,0,,That's right
+Dialogue: 0,0:01:02.18,0:01:04.10,Housei,,0,0,0,,And to be honest, I want to put them in a private school...
+Dialogue: 0,0:01:04.10,0:01:06.31,Housei,,0,0,0,,you get me?
+Dialogue: 0,0:01:05.93,0:01:07.77,Hamada,,0,0,0,,That costs a lot..
+Dialogue: 0,0:01:06.31,0:01:08.56,Housei,,0,0,0,,It does.
+Dialogue: 0,0:01:07.77,0:01:09.77,Matsu,,0,0,0,,You have two girls right?
+Dialogue: 0,0:01:08.56,0:01:09.77,Housei,,0,0,0,,Yeah...
+Dialogue: 0,0:01:09.77,0:01:12.18,Hamada,,0,0,0,,So why don't you just work really hard?
+Dialogue: 0,0:01:12.18,0:01:14.14,Housei,,0,0,0,,No, I mean... I am working hard...
+Dialogue: 0,0:01:14.14,0:01:16.43,Housei,,0,0,0,,But it never changes...
+Dialogue: 0,0:01:16.43,0:01:18.56,Housei,,0,0,0,,Since I was 28, it's not gone up once!
+Dialogue: 0,0:01:18.56,0:01:20.56,Housei,,0,0,0,,My worth!
+Dialogue: 0,0:01:19.31,0:01:21.56,Hamada,,0,0,0,,That can't be!
+Dialogue: 0,0:01:20.14,0:01:21.56,Housei,,0,0,0,,Honest!
+Dialogue: 0,0:01:21.60,0:01:24.77,Hamada,,0,0,0,,But it's not something to say here, it's something to say at the offices...
+Dialogue: 0,0:01:22.68,0:01:24.35,Matsu,,0,0,0,,Right, yeah.
+Dialogue: 0,0:01:24.35,0:01:26.31,Housei,,0,0,0,,No, no, that's--
+Dialogue: 0,0:01:24.77,0:01:26.31,Matsu,,0,0,0,,Just tell your wife
+Dialogue: 0,0:01:26.31,0:01:29.22,Matsu,,0,0,0,,Just say it to '******* *******"
+Dialogue: 0,0:01:28.02,0:01:30.47,Housei,,0,0,0,,OI YOU!!
+Dialogue: 0,0:01:29.22,0:01:32.31,Matsu,,0,0,0,,What was wrong, he should say it to his wife...
+Dialogue: 0,0:01:30.52,0:01:32.31,Endo,,0,0,0,,To his family, right?..
+Dialogue: 0,0:01:33.60,0:01:36.43,Matsu,,0,0,0,,He shouted 'KORE ME-N' at me... (Note: He meant to say "Kora Omae- OI YOU"
+Dialogue: 0,0:01:36.43,0:01:38.43,Housei,,0,0,0,,But anyway... Seriously...
+Dialogue: 0,0:01:38.43,0:01:40.10,Housei,,0,0,0,,I want money...
+Dialogue: 0,0:01:40.10,0:01:44.22,Housei,,0,0,0,,So I heard that you can get a lot of royalties selling music...
+Dialogue: 0,0:01:43.22,0:01:45.39,Endo,,0,0,0,,Yeah I've heard that.
+Dialogue: 0,0:01:44.22,0:01:47.06,Matsu,,0,0,0,,I mean yeah, I guess it is true...
+Dialogue: 0,0:01:47.06,0:01:49.47,Housei,,0,0,0,,Yeah, I heard that you can so...
+Dialogue: 0,0:01:49.47,0:01:53.06,Matsu,,0,0,0,,Wait, are you a rakugouka?.. Why are you taking your jacket off whilst talking...
+Dialogue: 0,0:01:53.06,0:01:55.72,Housei,,0,0,0,,I was a bit hot
+Dialogue: 0,0:01:53.68,0:01:55.72,Tanaka,,0,0,0,,As if he's getting to the good part.
+Dialogue: 0,0:01:55.72,0:01:56.85,Matsu,,0,0,0,,What the hell...
+Dialogue: 0,0:01:56.85,0:01:59.47,Housei,,0,0,0,,After shouting, I got a bit hot...
+Dialogue: 0,0:01:59.47,0:02:02.47,Housei,,0,0,0,,Right? So I heard that you can get a lot of royalties when you do stuff...
+Dialogue: 0,0:02:02.47,0:02:06.22,Housei,,0,0,0,,And you know I have so much talent when it comes to music?
+Dialogue: 0,0:02:06.22,0:02:07.68,Housei,,0,0,0,,And so...
+Dialogue: 0,0:02:07.68,0:02:09.85,Housei,,0,0,0,,I actually went and made some music. Seriously.
+Dialogue: 0,0:02:09.85,0:02:12.85,Endo,,0,0,0,,What? Four songs for us?
+Dialogue: 0,0:02:11.22,0:02:13.60,Housei,,0,0,0,,Just from your images...
+Dialogue: 0,0:02:12.72,0:02:15.14,Tanaka,,0,0,0,,one song each?
+Dialogue: 0,0:02:13.60,0:02:18.18,Housei,,0,0,0,,And so you guys sing it and burn it onto a CD...
+Dialogue: 0,0:02:18.18,0:02:21.02,Housei,,0,0,0,,And then.. I would get the royalties from it...
+Dialogue: 0,0:02:21.02,0:02:24.02,Endo,,0,0,0,,So you composed and wrote the lyrics?..
+Dialogue: 0,0:02:22.47,0:02:24.02,Housei,,0,0,0,,Right, yeah.
+Dialogue: 0,0:02:24.93,0:02:28.72,WhiteText,,0,0,0,,{\fad(200,0)\pos(40.543,18)}Narrator: Noda Keiichi
+Dialogue: 0,0:02:24.68,0:02:27.93,Narrator,,0,0,0,,Just for this day, 4 completely original songs
+Dialogue: 0,0:02:27.93,0:02:31.72,Narrator,,0,0,0,,were genuinely created from scratch by Yamazaki.
+Dialogue: 0,0:02:31.72,0:02:33.85,Narrator,,0,0,0,,And on top of that, he only had
+Dialogue: 0,0:02:33.85,0:02:36.72,Narrator,,0,0,0,,4 hours to create them, showing his genius.
+Dialogue: 0,0:02:37.85,0:02:41.60,Narrator,,0,0,0,,He was not a comedian whilst working but just a creator
+Dialogue: 0,0:02:44.85,0:02:50.18,Narrator,,0,0,0,,Whilst imagining the singers, he was serious when checking over the melodies and lyrics.
+Dialogue: 0,0:02:51.60,0:02:56.10,Narrator,,0,0,0,,All for the mortgage and the future of his family
+Dialogue: 0,0:02:56.10,0:03:00.18,Narrator,,0,0,0,,Will Yamazaki be able to realise his potential as a music producer
+Dialogue: 0,0:03:00.18,0:03:04.14,Narrator,,0,0,0,,and live his life off royalties like he dreamt?
+Dialogue: 0,0:03:04.14,0:03:06.35,Housei,,0,0,0,,So singers royalties{\alphaFF}will start at 200,000 yen each
+Dialogue: 0,0:03:06.35,0:03:09.56,Housei,,0,0,0,,So singers royalties will start at 200,000 yen each
+Dialogue: 0,0:03:09.56,0:03:13.18,Housei,,0,0,0,,However many we sell, that is set.
+Dialogue: 0,0:03:13.18,0:03:14.56,Housei,,0,0,0,,That's the contract
+Dialogue: 0,0:03:14.56,0:03:17.81,Matsu,,0,0,0,,I don't know, this is something I've thought from a while back...
+Dialogue: 0,0:03:17.81,0:03:20.10,Matsu,,0,0,0,,But Yamazaki{\alphaFF} uses Gaki no Tsukai for the privatization of things...
+Dialogue: 0,0:03:20.10,0:03:22.77,Matsu,,0,0,0,,But Yamazaki uses Gaki no Tsukai for the privatization of things...
+Dialogue: 0,0:03:20.93,0:03:23.39,Endo,,0,0,0,,Yeah, he does it a lot
+Dialogue: 0,0:03:20.93,0:03:23.39,Tanaka,,0,0,0,,He really does!
+Dialogue: 0,0:03:22.77,0:03:24.77,Matsu,,0,0,0,,Just for money too...
+Dialogue: 0,0:03:23.39,0:03:26.85,Endo,,0,0,0,,He really does.
+Dialogue: 0,0:03:24.77,0:03:28.06,Matsu,,0,0,0,,Honestly, he just keeps doing it time after time...
+Dialogue: 0,0:03:28.06,0:03:29.68,Housei,,0,0,0,,Hamada-san, let's go.
+Dialogue: 0,0:03:29.68,0:03:31.10,Housei,,0,0,0,,Let's go.
+Dialogue: 0,0:03:29.68,0:03:31.10,Endo,,0,0,0,,Right now?
+Dialogue: 0,0:03:31.10,0:03:32.39,Housei,,0,0,0,,Right now.
+Dialogue: 0,0:03:31.10,0:03:32.39,Hamada,,0,0,0,,M-me!?
+Dialogue: 0,0:03:32.39,0:03:33.77,Tanaka,,0,0,0,,Wait, right now?
+Dialogue: 0,0:03:33.77,0:03:36.39,Housei,,0,0,0,,Listen to it, rehearse it and then shoot the real thing
+Dialogue: 0,0:03:36.39,0:03:39.22,Hamada,,0,0,0,,Eh, seriously!?
+Dialogue: 0,0:03:37.27,0:03:39.22,Matsu,,0,0,0,,{\pos(174.335,262)}Really?
+Dialogue: 0,0:03:37.27,0:03:39.22,Housei,,0,0,0,,{\pos(275.692,263)}For real.
+Dialogue: 0,0:03:39.22,0:03:41.85,Matsu,,0,0,0,,There's no way someone wearing this kind of shirt can pull this off...
+Dialogue: 0,0:03:42.52,0:03:43.77,Hamada,,0,0,0,,Dun-dun!
+Dialogue: 0,0:03:43.77,0:03:45.27,Hamada,,0,0,0,,Seriously!?
+Dialogue: 0,0:03:45.27,0:03:46.64,Hamada,,0,0,0,,You're kidding!
+Dialogue: 0,0:03:45.27,0:03:46.64,Housei,,0,0,0,,Really.
+Dialogue: 0,0:03:46.64,0:03:48.10,Matsu,,0,0,0,,What the hell...
+Dialogue: 0,0:03:49.60,0:03:51.72,Hamada,,0,0,0,,Damn, this is tough
+Dialogue: 0,0:03:51.72,0:03:53.93,Hamada,,0,0,0,,This is really tough
+Dialogue: 0,0:03:59.27,0:04:01.77,BlackT,,0,0,0,,{\pos(215.891,221)}4 hours later
+Dialogue: 0,0:04:01.77,0:04:03.22,Housei,,0,0,0,,Thanks for your work!
+Dialogue: 0,0:04:03.22,0:04:04.56,All,,0,0,0,,Alright!
+Dialogue: 0,0:04:04.56,0:04:06.72,Matsu,,0,0,0,,This is a horrible kind of tiredness...
+Dialogue: 0,0:04:05.85,0:04:07.47,Housei,,0,0,0,,Was it?
+Dialogue: 0,0:04:06.72,0:04:09.56,Matsu,,0,0,0,,It's not like a nice 'tired' feeling...
+Dialogue: 0,0:04:09.56,0:04:12.18,Housei,,0,0,0,,You might feel like that now...
+Dialogue: 0,0:04:12.18,0:04:16.64,Housei,,0,0,0,,But you're going to watch what you did now and think "I'm glad I took part in that"...
+Dialogue: 0,0:04:15.27,0:04:18.10,Endo,,0,0,0,,{\pos(189.538,266)}Really?
+Dialogue: 0,0:04:15.93,0:04:18.10,Tanaka,,0,0,0,,{\pos(272.652,266)}You sure?
+Dialogue: 0,0:04:16.64,0:04:19.27,Housei,,0,0,0,,This is new ground for everyone...
+Dialogue: 0,0:04:19.27,0:04:23.18,Endo,,0,0,0,,There are loads of things I want to protest about...
+Dialogue: 0,0:04:23.18,0:04:25.39,Housei,,0,0,0,,Right anyway...
+Dialogue: 0,0:04:25.39,0:04:28.06,Housei,,0,0,0,,Let's start with Hamada-san's...
+Dialogue: 0,0:04:26.10,0:04:28.06,Hamada,,0,0,0,,Oh me?
+Dialogue: 0,0:04:28.64,0:07:07.14,RehearsalT,,0,0,0,,{\fad(200,200)\pos(29.394,35.5)}Hamada's Rehearsal
+Dialogue: 0,0:04:28.52,0:04:30.97,Hamada,,0,0,0,,Wait, am I actually going to sing?
+Dialogue: 0,0:04:30.97,0:04:32.06,Housei,,0,0,0,,Yes, you are...
+Dialogue: 0,0:04:32.06,0:04:33.72,Hamada,,0,0,0,,Wait... Why?...
+Dialogue: 0,0:04:33.72,0:04:35.22,Housei,,0,0,0,,Well.. That's so...
+Dialogue: 0,0:04:35.22,0:04:36.52,Housei,,0,0,0,,So we make sales...
+Dialogue: 0,0:04:36.52,0:04:39.77,Housei,,0,0,0,,To sell CD's, you can't muck around...
+Dialogue: 0,0:04:39.77,0:04:41.77,Housei,,0,0,0,,Please play it then
+Dialogue: 0,0:04:46.22,0:04:49.14,Hamada,,0,0,0,,Why does the song have such a fast tempo?
+Dialogue: 0,0:04:49.14,0:04:51.06,Hamada,,0,0,0,,You could have made it slower...
+Dialogue: 0,0:04:58.43,0:05:01.97,WhiteTextS,,0,0,0,,{\fad(200,50)\pos(371.982,278)}Sung by\NYamasaki Hōsei
+Dialogue: 0,0:04:58.43,0:05:02.35,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Machi no man'naka de haretsusuru ♫-
+Dialogue: 0,0:04:58.43,0:05:02.35,Housei,,0,0,0,,  It explodes in the middle of the town
+Dialogue: 0,0:05:02.35,0:05:06.72,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Osae kirenai yokubō to ♫
+Dialogue: 0,0:05:02.35,0:05:06.72,Housei,,0,0,0,,The desire that cannot be supressed
+Dialogue: 0,0:05:06.72,0:05:09.97,Hamada,,0,0,0,,But seriously, the person who made the whole thing is really amazing, huh?
+Dialogue: 0,0:05:09.97,0:05:13.39,Housei,,0,0,0,,Well, I did the whole thing by myself...
+Dialogue: 0,0:05:13.39,0:05:15.64,Housei,,0,0,0,,Right here...
+Dialogue: 0,0:05:14.47,0:05:15.64,Hamada,,0,0,0,,Yes...
+Dialogue: 0,0:05:15.64,0:05:18.81,Housei,,0,0,0,,This part is really tough, even I struggled to sing it
+Dialogue: 0,0:05:18.35,0:05:19.81,Hamada,,0,0,0,,{\pos(227.041,244)}Right.
+Dialogue: 0,0:05:18.81,0:05:22.43,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Tobira o akeru shinku no kagi to ♫
+Dialogue: 0,0:05:18.81,0:05:22.43,Housei,,0,0,0,,The crimson key that opens the door
+Dialogue: 0,0:05:22.93,0:05:24.52,Hamada,,0,0,0,,OK.
+Dialogue: 0,0:05:23.39,0:05:24.52,Housei,,0,0,0,,Yeah?
+Dialogue: 0,0:05:24.52,0:05:26.52,Housei,,0,0,0,,You ready?
+Dialogue: 0,0:05:26.52,0:05:28.64,Hamada,,0,0,0,,I mean, I don't really know...
+Dialogue: 0,0:05:27.89,0:05:29.97,Housei,,0,0,0,,Okay, let's try it for real.
+Dialogue: 0,0:05:28.64,0:05:30.39,Hamada,,0,0,0,,No, no, no, wait up!
+Dialogue: 0,0:05:30.39,0:05:32.06,Hamada,,0,0,0,,This is impossible
+Dialogue: 0,0:05:32.06,0:05:34.56,Housei,,0,0,0,,Just sing it once, seriously.
+Dialogue: 0,0:05:34.56,0:05:37.72,Hamada,,0,0,0,,You can't just say  "Sing it"...
+Dialogue: 0,0:05:37.72,0:05:40.06,Hamada,,0,0,0,,I don't remember the words so how am I meant to sing it?..
+Dialogue: 0,0:05:40.06,0:05:42.02,Housei,,0,0,0,,Okay, let's go.
+Dialogue: 0,0:05:49.06,0:05:53.02,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Machi no man'naka de haretsusuru ♫
+Dialogue: 0,0:05:49.06,0:05:53.02,Hamada,,0,0,0,, It explodes in the middle of the town
+Dialogue: 0,0:05:53.02,0:05:56.85,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Osae kirenai yokubou to ♫
+Dialogue: 0,0:05:53.02,0:05:56.85,Hamada,,0,0,0,,The desire that cannot be supressed.
+Dialogue: 0,0:05:56.85,0:06:00.97,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Tsukurare sugita genjitsu o ♫
+Dialogue: 0,0:05:56.85,0:06:00.97,Hamada,,0,0,0,,The reality which had been dictated by man too much
+Dialogue: 0,0:06:00.97,0:06:02.02,Hamada,,0,0,0,,Yeah?
+Dialogue: 0,0:06:02.02,0:06:04.02,Housei,,0,0,0,,You really weren't paying attention at all, were you...
+Dialogue: 0,0:06:05.47,0:06:07.10,Hamada,,0,0,0,,{\pos(228.054,263)}I'm very sorry...
+Dialogue: 0,0:06:06.35,0:06:08.60,Housei,,0,0,0,,You were literally so bad right from the start...
+Dialogue: 0,0:06:08.06,0:06:09.39,Hamada,,0,0,0,,I'm sorry..
+Dialogue: 0,0:06:08.60,0:06:09.85,Housei,,0,0,0,,Eh, hold on,
+Dialogue: 0,0:06:09.85,0:06:12.10,Housei,,0,0,0,,Wait, this is going to take some time...
+Dialogue: 0,0:06:11.14,0:06:12.85,Hamada,,0,0,0,,I mean...
+Dialogue: 0,0:06:12.10,0:06:14.93,Housei,,0,0,0,,I know I was singing it casually like
+Dialogue: 0,0:06:12.72,0:06:14.52,RomajiKara,,0,0,0,,♫ Machi no man'naka de ♫
+Dialogue: 0,0:06:14.81,0:06:16.43,Hamada,,0,0,0,,Right.
+Dialogue: 0,0:06:14.93,0:06:17.89,Housei,,0,0,0,,But sing it like
+Dialogue: 0,0:06:15.68,0:06:17.89,RomajiKara,,0,0,0,,♫ MACHI no man'naka de ♫
+Dialogue: 0,0:06:19.35,0:06:20.52,Housei,,0,0,0,,Right?
+Dialogue: 0,0:06:19.56,0:06:20.56,Hamada,,0,0,0,,MACHIno...
+Dialogue: 0,0:06:19.56,0:06:20.56,RomajiKara,,0,0,0,,♫ Machi no ♫
+Dialogue: 0,0:06:20.52,0:06:22.02,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ MACHI no man'naka de ♫
+Dialogue: 0,0:06:20.52,0:06:23.60,Housei,,0,0,0,,Like a bit faster.
+Dialogue: 0,0:06:22.02,0:06:23.60,Hamada,,0,0,0,,OK, I get it.
+Dialogue: 0,0:06:24.52,0:06:26.06,Housei,,0,0,0,,And just the last part
+Dialogue: 0,0:06:25.52,0:06:27.10,Hamada,,0,0,0,,OK.
+Dialogue: 0,0:06:26.06,0:06:29.02,Housei,,0,0,0,,Just at the last part, it's a bit hard because of the lack of characters
+Dialogue: 0,0:06:29.02,0:06:30.77,Hamada,,0,0,0,,Then add some on...
+Dialogue: 0,0:06:30.77,0:06:31.93,Housei,,0,0,0,,No but, er,
+Dialogue: 0,0:06:31.93,0:06:35.85,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Daremo shiranai sono sekai e ♫
+Dialogue: 0,0:06:31.93,0:06:35.85,Housei,,0,0,0,,'To that world that no one knows about...'
+Dialogue: 0,0:06:35.85,0:06:37.39,Hamada,,0,0,0,,That's how you want it?
+Dialogue: 0,0:06:35.85,0:06:37.39,Housei,,0,0,0,,Yes.
+Dialogue: 0,0:06:38.10,0:06:41.60,Housei,,0,0,0,,Oh wait, the dancing...
+Dialogue: 0,0:06:41.22,0:06:44.06,Hamada,,0,0,0,,The dance?
+Dialogue: 0,0:06:41.60,0:06:45.31,Housei,,0,0,0,,Well you can't be like this...
+Dialogue: 0,0:06:44.06,0:06:46.18,Hamada,,0,0,0,,Oh you mean pose?
+Dialogue: 0,0:06:45.31,0:06:47.06,Housei,,0,0,0,,Yes
+Dialogue: 0,0:06:47.06,0:06:49.39,Housei,,0,0,0,,So start like this...
+Dialogue: 0,0:06:51.39,0:06:52.77,Housei,,0,0,0,,Like this...
+Dialogue: 0,0:06:51.39,0:06:52.77,Hamada,,0,0,0,,Hold on now,
+Dialogue: 0,0:06:52.77,0:06:54.85,Hamada,,0,0,0,,Are you sure this is okay?
+Dialogue: 0,0:06:54.85,0:06:56.72,Hamada,,0,0,0,,Isn't it really lame?..
+Dialogue: 0,0:06:56.72,0:06:58.52,Housei,,0,0,0,,No way...
+Dialogue: 0,0:06:57.52,0:06:58.52,Hamada,,0,0,0,,OK.
+Dialogue: 0,0:06:58.52,0:07:01.60,RomajiKara,,0,0,0,,{\pos(227.041,245)}♫ MACHI no man'naka ♫
+Dialogue: 0,0:06:58.52,0:07:01.60,Hamada,,0,0,0,,MACHI...
+Dialogue: 0,0:06:58.52,0:07:01.60,Housei,,0,0,0,,In the middle of the town...
+Dialogue: 0,0:07:02.64,0:07:04.97,Hamada,,0,0,0,,No way, this is going to be so lame...
+Dialogue: 0,0:07:04.97,0:07:07.52,Housei,,0,0,0,,It's never going to be lame...
+Dialogue: 0,0:07:06.18,0:07:07.52,Hamada,,0,0,0,,Sorry.
+Dialogue: 0,0:07:07.52,0:07:11.47,YellowT,,0,0,0,,{\pos(229.068,227)}Yamasaki Produce!
+Dialogue: 0,0:07:07.52,0:07:11.47,RedO,,0,0,0,,{\pos(227.041,262)}#1 Hamada Masatoshi
+Dialogue: 0,0:07:08.35,0:07:11.47,Narrator,,0,0,0,,Yamazaki produce... Hamada's song...
+Dialogue: 0,0:07:12.64,0:07:16.89,WhiteTextS,,0,0,0,,{\fad(200,200)\pos(148.995,265)}Lyrics & Composition by Yamasaki Housei\NSung by Hamada Masatoshi
+Dialogue: 0,0:07:11.47,0:07:14.10,EndoC,,0,0,0,,Weirdo alert...
+Dialogue: 0,0:07:14.10,0:07:15.89,MatsuC,,0,0,0,,What the hell is this?..
+Dialogue: 0,0:07:18.02,0:07:19.18,MatsuC,,0,0,0,,Eh, what was it called?
+Dialogue: 0,0:07:19.18,0:07:20.77,HouseiC,,0,0,0,,"Beach Paddy."
+Dialogue: 0,0:07:20.77,0:07:22.52,EndoC,,0,0,0,,Woah, this is...
+Dialogue: 0,0:07:26.06,0:07:28.35,EndoC,,0,0,0,,Like a really old idol...
+Dialogue: 0,0:07:27.81,0:07:31.85,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Machi no man'naka de haretsusuru ♫
+Dialogue: 0,0:07:27.81,0:07:31.85,Hamada,,0,0,0,,It explodes in the middle of the town
+Dialogue: 0,0:07:31.85,0:07:35.64,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Osae kirenai yokubou to ♫
+Dialogue: 0,0:07:31.85,0:07:35.64,Hamada,,0,0,0,,This desire that cannot be surpressed
+Dialogue: 0,0:07:35.64,0:07:39.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Tsukura re sugita genjitsu o ♫
+Dialogue: 0,0:07:35.64,0:07:39.60,Hamada,,0,0,0,,I balance this reality which has been dictated by man too much
+Dialogue: 0,0:07:39.60,0:07:43.14,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Hakari ni kakete ikite iru ♫
+Dialogue: 0,0:07:39.60,0:07:43.14,Hamada,,0,0,0,,and continue to live my life
+Dialogue: 0,0:07:43.14,0:07:47.27,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Doko made iku no dousureba ii no ♫
+Dialogue: 0,0:07:43.14,0:07:47.27,Hamada,,0,0,0,,How far will we go, what should I do
+Dialogue: 0,0:07:47.27,0:07:51.06,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kotae ga aru no dare ga kimeru no ♫
+Dialogue: 0,0:07:47.27,0:07:51.06,Hamada,,0,0,0,,Is there an answer, who will decide
+Dialogue: 0,0:07:51.06,0:07:53.31,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Fumouna tochi ni ♫
+Dialogue: 0,0:07:51.06,0:07:53.31,Hamada,,0,0,0,,Shine the light on
+Dialogue: 0,0:07:53.31,0:07:54.93,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Hikari o ataeru ♫
+Dialogue: 0,0:07:53.31,0:07:54.93,Hamada,,0,0,0,,this barren land
+Dialogue: 0,0:07:54.93,0:07:58.85,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Meshia no iru sekai e ♫
+Dialogue: 0,0:07:54.93,0:07:58.85,Hamada,,0,0,0,,And on to the world where there is a Messiah
+Dialogue: 0,0:07:58.85,0:08:02.93,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Hageshiku uchi narasu ♫
+Dialogue: 0,0:07:58.85,0:08:02.93,Hamada,,0,0,0,,It violently rings
+Dialogue: 0,0:08:02.93,0:08:06.77,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Toki o kizamitsukeru ban'nin yo ♫
+Dialogue: 0,0:08:02.93,0:08:06.77,Hamada,,0,0,0,,O keeper who controls time
+Dialogue: 0,0:08:06.77,0:08:10.77,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Erabareta monotachi to ♫
+Dialogue: 0,0:08:06.77,0:08:10.77,Hamada,,0,0,0,,along with the chosen people
+Dialogue: 0,0:08:10.77,0:08:15.14,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Tobira o akeru shinku no kagi to ♫
+Dialogue: 0,0:08:10.77,0:08:15.14,Hamada,,0,0,0,,and the crimson key that opens the door
+Dialogue: 0,0:08:16.97,0:08:20.52,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Hageshiku uchi narasu ♫
+Dialogue: 0,0:08:16.97,0:08:20.52,Hamada,,0,0,0,,O keeper who
+Dialogue: 0,0:08:20.52,0:08:24.43,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Toki o kizamitsukeru ban'nin yo ♫
+Dialogue: 0,0:08:20.52,0:08:24.43,Hamada,,0,0,0,,violently writes time
+Dialogue: 0,0:08:24.43,0:08:28.77,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Ima koso tobidasou ♫
+Dialogue: 0,0:08:24.43,0:08:28.77,Hamada,,0,0,0,,Let's jump out right now
+Dialogue: 0,0:08:28.77,0:08:32.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Daremoshiranai sono sekai e ♫
+Dialogue: 0,0:08:28.77,0:08:32.60,Hamada,,0,0,0,,To that world which no one knows.
+Dialogue: 0,0:07:35.97,0:07:38.72,MatsuC,,0,0,0,,I now know what image he's going for
+Dialogue: 0,0:07:38.72,0:07:40.18,HamadaC,,0,0,0,,For real?
+Dialogue: 0,0:07:43.43,0:07:44.97,MatsuC,,0,0,0,,Like...
+Dialogue: 0,0:07:46.85,0:07:48.72,MatsuC,,0,0,0,,It's really old, huh?
+Dialogue: 0,0:07:48.72,0:07:51.02,EndoC,,0,0,0,,It really is...
+Dialogue: 0,0:07:51.02,0:07:54.22,EndoC,,0,0,0,,Like the 80's, maybe 70's?..
+Dialogue: 0,0:07:54.22,0:07:56.64,MatsuC,,0,0,0,,And it's been done so badly...
+Dialogue: 0,0:07:58.47,0:08:01.06,MatsuC,,0,0,0,,What the fuck is 'The world where there is a Messiah'?
+Dialogue: 0,0:08:02.47,0:08:04.56,MatsuC,,0,0,0,,Literally...
+Dialogue: 0,0:08:04.56,0:08:07.10,HamadaC,,0,0,0,,I have no idea what the lyrics mean either...
+Dialogue: 0,0:08:19.60,0:08:23.10,EndoC,,0,0,0,,{\pos(211.837,9)} The lyrics...
+Dialogue: 0,0:08:20.39,0:08:23.10,HamadaC,,0,0,0,,{\pos(354.751,9)}The lyrics are amazing
+Dialogue: 0,0:08:23.10,0:08:27.31,HamadaC,,0,0,0,,{\pos(198.661,11)}Do you get what this is about at all?..
+Dialogue: 0,0:08:24.52,0:08:27.31,TanakaC,,0,0,0,,{\pos(362.86,10)}Umm..
+Dialogue: 0,0:08:27.31,0:08:29.81,TanakaC,,0,0,0,,The lyrics are just...
+Dialogue: 0,0:08:32.68,0:08:35.35,HouseiC,,0,0,0,,{\pos(143.928,10)}Aww, you laughed a bit at the end...
+Dialogue: 0,0:08:33.64,0:08:35.35,HamadaC,,0,0,0,,{\pos(314.208,11)}Sorry about that.
+Dialogue: 0,0:08:43.47,0:08:46.27,EndoC,,0,0,0,,Like it's a best 10 hit or something...
+Dialogue: 0,0:08:47.52,0:08:49.18,Housei,,0,0,0,,This is great
+Dialogue: 0,0:08:49.18,0:08:52.35,Hamada,,0,0,0,,You get it right? Like who this is meant to be and all...
+Dialogue: 0,0:08:50.43,0:08:52.35,Matsu,,0,0,0,,It's him right? I might be mistaken...
+Dialogue: 0,0:08:52.35,0:08:55.22,Note,,0,0,0,,* Popular music artist Takanori Nishikawa (1989 - Present)
+Dialogue: 0,0:08:52.35,0:08:55.22,Matsu,,0,0,0,,TM Revolution.
+Dialogue: 0,0:08:52.35,0:08:55.22,Hamada,,0,0,0,,Without doubt...
+Dialogue: 0,0:08:53.68,0:08:55.81,Housei,,0,0,0,,No, no...
+Dialogue: 0,0:08:55.22,0:08:57.18,Matsu,,0,0,0,,It's not?
+Dialogue: 0,0:08:55.81,0:08:57.18,Housei,,0,0,0,,Totally wrong
+Dialogue: 0,0:08:57.18,0:08:59.47,Housei,,0,0,0,,I've never of this 'TM'...
+Dialogue: 0,0:08:59.47,0:09:01.06,Endo,,0,0,0,,Oh really? I was sure it was TM...
+Dialogue: 0,0:09:00.60,0:09:02.39,Tanaka,,0,0,0,,It's got to be...
+Dialogue: 0,0:09:01.06,0:09:03.77,Hamada,,0,0,0,,However you look at it, that was TM...
+Dialogue: 0,0:09:03.77,0:09:06.56,Housei,,0,0,0,,Wait, is it similar?..
+Dialogue: 0,0:09:05.72,0:09:08.68,Endo,,0,0,0,,TM's Nishikawa-san is very much like that.
+Dialogue: 0,0:09:06.56,0:09:08.68,Hamada,,0,0,0,,Very similar.
+Dialogue: 0,0:09:08.68,0:09:10.64,Matsu,,0,0,0,,Even the outfit.
+Dialogue: 0,0:09:10.64,0:09:13.14,Housei,,0,0,0,,No no, that's just...
+Dialogue: 0,0:09:10.64,0:09:13.14,Tanaka,,0,0,0,,Even the movements.
+Dialogue: 0,0:09:13.14,0:09:15.14,Housei,,0,0,0,,Actually, Hamada-san was even more
+Dialogue: 0,0:09:15.14,0:09:17.14,Housei,,0,0,0,,pumped to do it than I thought...
+Dialogue: 0,0:09:17.14,0:09:19.81,Matsu,,0,0,0,,Well he might not be as bad as you but
+Dialogue: 0,0:09:19.81,0:09:23.06,Matsu,,0,0,0,,he is someone who loves royalties...
+Dialogue: 0,0:09:23.06,0:09:26.06,Housei,,0,0,0,,Oh, so he was thinking about that?
+Dialogue: 0,0:09:23.85,0:09:26.81,Matsu,,0,0,0,,Yeah, he thought about that and got into it...
+Dialogue: 0,0:09:26.06,0:09:28.02,Housei,,0,0,0,,To try and sell it, huh?
+Dialogue: 0,0:09:26.81,0:09:30.10,Hamada,,0,0,0,,As if that shit will sell...
+Dialogue: 0,0:09:29.97,0:09:31.47,Housei,,0,0,0,,Of course it will sell!
+Dialogue: 0,0:09:31.31,0:09:32.81,Hamada,,0,0,0,,Really?
+Dialogue: 0,0:09:31.47,0:09:32.81,Housei,,0,0,0,,Yes!
+Dialogue: 0,0:09:32.81,0:09:36.06,Housei,,0,0,0,,An by the way, this song is called「BEACH PADDY」。
+Dialogue: 0,0:09:36.06,0:09:38.10,Matsu,,0,0,0,,Right, why?
+Dialogue: 0,0:09:38.10,0:09:40.02,Matsu,,0,0,0,,It's Hamada (in english)
+Dialogue: 0,0:09:39.10,0:09:44.81,BlueO,,0,0,0,,{\fad(0,200)\pos(368.941,239)}Hamada
+Dialogue: 0,0:09:40.02,0:09:41.85,Hamada,,0,0,0,,Oh really?
+Dialogue: 0,0:09:41.85,0:09:43.35,Housei,,0,0,0,,That's why
+Dialogue: 0,0:09:41.85,0:09:43.35,Hamada,,0,0,0,,What kind of a title is that?..
+Dialogue: 0,0:09:43.35,0:09:45.06,Matsu,,0,0,0,,But he's like
+Dialogue: 0,0:09:45.06,0:09:47.81,Matsu,,0,0,0,,not said beach paddy once...
+Dialogue: 0,0:09:45.97,0:09:47.81,Hamada,,0,0,0,,It has nothing to do with the song...
+Dialogue: 0,0:09:47.81,0:09:50.52,Matsu,,0,0,0,,I can get if that musician is called it...
+Dialogue: 0,0:09:50.52,0:09:52.72,Matsu,,0,0,0,,But the title of the song shouldn't be that...
+Dialogue: 0,0:09:52.72,0:09:55.10,Housei,,0,0,0,,No, because Hamada-san sung it...
+Dialogue: 0,0:09:55.10,0:09:57.27,Housei,,0,0,0,,Did you sing it, Matsumoto-san?
+Dialogue: 0,0:09:56.47,0:09:58.35,Matsu,,0,0,0,,No, I didn't...
+Dialogue: 0,0:09:57.27,0:09:58.35,Housei,,0,0,0,,You didn't, right?
+Dialogue: 0,0:09:58.35,0:10:00.85,Housei,,0,0,0,,That's why it's「BEACH PADDY」
+Dialogue: 0,0:10:00.85,0:10:03.06,Matsu,,0,0,0,,Well, I guess I can{\alphaFF} smack you anytime I want to so it's okay...
+Dialogue: 0,0:10:03.06,0:10:05.22,Matsu,,0,0,0,,Well, I guess I can smack you anytime I want to so it's okay...
+Dialogue: 0,0:10:06.47,0:10:08.56,Housei,,0,0,0,,Let's go to the next one!
+Dialogue: 0,0:10:08.56,0:10:10.77,Housei,,0,0,0,,Next is Tanaka...
+Dialogue: 0,0:10:10.77,0:10:12.77,Matsu,,0,0,0,,What was Tanaka's like?
+Dialogue: 0,0:10:12.77,0:10:15.18,Hamada,,0,0,0,,Was the song style different?
+Dialogue: 0,0:10:13.81,0:10:15.18,Housei,,0,0,0,,Yes, it was
+Dialogue: 0,0:10:15.18,0:10:16.31,Housei,,0,0,0,,Can we proceed?
+Dialogue: 0,0:10:15.68,0:10:16.85,Hamada,,0,0,0,,Yep.
+Dialogue: 0,0:10:16.31,0:10:18.31,Housei,,0,0,0,,Right, here is Tanaka's..
+Dialogue: 0,0:10:18.81,0:11:11.06,RehearsalT,,0,0,0,,{\fad(200,200)\pos(33.448,35.5)}Tanaka's Rehearsal
+Dialogue: 0,0:10:18.31,0:10:20.47,Tanaka,,0,0,0,,This is, uh...
+Dialogue: 0,0:10:19.60,0:10:21.35,Housei,,0,0,0,,This is the stage.
+Dialogue: 0,0:10:20.47,0:10:22.64,Tanaka,,0,0,0,,This is the stage for my song?
+Dialogue: 0,0:10:22.64,0:10:25.47,Housei,,0,0,0,,Right, so do it the way
+Dialogue: 0,0:10:25.47,0:10:26.56,Tanaka,,0,0,0,,Right.
+Dialogue: 0,0:10:26.56,0:10:30.56,Housei,,0,0,0,,that you want to.
+Dialogue: 0,0:10:29.93,0:10:32.27,Tanaka,,0,0,0,,Okay
+Dialogue: 0,0:10:30.56,0:10:32.27,Housei,,0,0,0,,Do it like that..
+Dialogue: 0,0:10:32.27,0:10:33.56,Tanaka,,0,0,0,,Ok...
+Dialogue: 0,0:10:34.77,0:10:36.64,Tanaka,,0,0,0,,he doesn't look at me when he speaks to me at all, huh?
+Dialogue: 0,0:10:38.64,0:10:40.39,Housei,,0,0,0,,Right, cue music!
+Dialogue: 0,0:10:50.97,0:10:55.64,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Itsumo omou no ♫
+Dialogue: 0,0:10:50.97,0:10:55.64,Tanaka,,0,0,0,,I always think...
+Dialogue: 0,0:10:55.64,0:10:57.43,Housei,,0,0,0,,Can you sing through your nose a little bit more?
+Dialogue: 0,0:10:57.43,0:10:58.93,Tanaka,,0,0,0,,Through my nose?..
+Dialogue: 0,0:10:58.93,0:11:01.39,RomajiKara,,0,0,0,,{\pos(228.054,245)}♫ Itsumo ♫
+Dialogue: 0,0:10:58.93,0:11:01.39,Tanaka,,0,0,0,,{\pos(227.041,269)}I always
+Dialogue: 0,0:10:59.64,0:11:02.85,Housei,,0,0,0,,When you do the V sign, look at Camera 3...
+Dialogue: 0,0:11:02.85,0:11:04.47,Housei,,0,0,0,,Right by your face...
+Dialogue: 0,0:11:04.47,0:11:05.93,Tanaka,,0,0,0,,Like this?..
+Dialogue: 0,0:11:05.93,0:11:07.56,Tanaka,,0,0,0,,V sign like this?
+Dialogue: 0,0:11:07.56,0:11:11.22,Housei,,0,0,0,,Basically as long as it's cute, you can do whatever you want
+Dialogue: 0,0:11:11.22,0:11:15.22,YellowT,,0,0,0,,{\pos(229.068,227)}Yamasaki Produce!
+Dialogue: 0,0:11:11.22,0:11:15.22,RedO,,0,0,0,,{\pos(227.041,263)}#2 Tanaka Naoki
+Dialogue: 0,0:11:11.93,0:11:15.22,Narrator,,0,0,0,,Yamasaki produce: Tanaka's song...
+Dialogue: 0,0:11:15.93,0:11:21.56,WhiteTextS,,0,0,0,,{\fad(200,200)\pos(148.995,265)}Lyrics & Composition by Yamasaki Housei\NSung by Tanaka Naoki
+Dialogue: 0,0:11:25.72,0:11:30.06,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Itsumo omou no ♫
+Dialogue: 0,0:11:25.72,0:11:30.06,Tanaka,,0,0,0,,I always think
+Dialogue: 0,0:11:30.06,0:11:35.39,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Anata o soba de kanjita toki ♫
+Dialogue: 0,0:11:30.06,0:11:35.39,Tanaka,,0,0,0,,When I feel you next to me
+Dialogue: 0,0:11:35.64,0:11:40.14,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sou kono kanji ♫
+Dialogue: 0,0:11:35.64,0:11:40.14,Tanaka,,0,0,0,,That's right, this feeling
+Dialogue: 0,0:11:40.14,0:11:44.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Osanai toki no mama yo ♫
+Dialogue: 0,0:11:40.14,0:11:44.60,Tanaka,,0,0,0,,I felt it when I was a child...
+Dialogue: 0,0:11:45.77,0:11:50.97,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Hareta hi wa mukae ni kite ♫
+Dialogue: 0,0:11:45.77,0:11:50.97,Tanaka,,0,0,0,,I will come to pick you up on sunny days
+Dialogue: 0,0:11:50.97,0:11:54.22,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Mae de matteru wa ♫
+Dialogue: 0,0:11:50.97,0:11:54.22,Tanaka,,0,0,0,,and wait at the entrance
+Dialogue: 0,0:11:54.22,0:11:59.85,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Futari no aizu ♫
+Dialogue: 0,0:11:54.22,0:11:59.85,Tanaka,,0,0,0,,Our special sign
+Dialogue: 0,0:11:59.85,0:12:05.31,RomajiKara,,0,0,0,,{\fad(0,200)\pos(227.041,249)}♫ Ryoute de buisain ♫
+Dialogue: 0,0:11:59.85,0:12:05.31,Tanaka,,0,0,0,,{\fad(0,200)}The V sign with both our hands
+Dialogue: 0,0:12:08.06,0:12:10.85,RomajiKara,,0,0,0,,{\fad(200,0)\pos(227.041,249)}♫ Kodomo no koro ni ♫
+Dialogue: 0,0:12:08.06,0:12:10.85,Tanaka,,0,0,0,,{\fad(200,0)}When I was a kid
+Dialogue: 0,0:12:10.85,0:12:13.18,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kiita ohanashi ♫
+Dialogue: 0,0:12:10.85,0:12:13.18,Tanaka,,0,0,0,,I heard this story
+Dialogue: 0,0:12:13.18,0:12:18.06,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Itsumo wa happii end ♫
+Dialogue: 0,0:12:13.18,0:12:18.06,Tanaka,,0,0,0,,It always has a happy ending
+Dialogue: 0,0:12:18.06,0:12:20.52,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Anata wa watashi ni ♫
+Dialogue: 0,0:12:18.06,0:12:20.52,Tanaka,,0,0,0,,So what kind of ending
+Dialogue: 0,0:12:20.52,0:12:23.10,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Don'na ketsumatsu no ♫
+Dialogue: 0,0:12:20.52,0:12:23.10,Tanaka,,0,0,0,,will you give me
+Dialogue: 0,0:12:23.10,0:12:26.77,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Ohanashi o tsukuru no ♫
+Dialogue: 0,0:12:23.10,0:12:26.77,Tanaka,,0,0,0,,for my story
+Dialogue: 0,0:12:27.97,0:12:33.02,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sutekina sou rabu sutoorii ♫
+Dialogue: 0,0:12:27.97,0:12:33.02,Tanaka,,0,0,0,,For our lovely, that's right, love story...
+Dialogue: 0,0:11:28.68,0:11:30.97,HamadaC,,0,0,0,,Hang on, this is Noppo-san!
+Dialogue: 0,0:11:32.52,0:11:34.43,TanakaC,,0,0,0,,I know, right?
+Dialogue: 0,0:11:34.43,0:11:36.81,MatsuC,,0,0,0,,He's gay?..
+Dialogue: 0,0:11:36.81,0:11:39.93,HouseiC,,0,0,0,,I thought that would be the best...
+Dialogue: 0,0:11:39.93,0:11:44.47,HamadaC,,0,0,0,,This is horrible..
+Dialogue: 0,0:11:44.47,0:11:47.56,TanakaC,,0,0,0,,I have a lot of things to say about this too...
+Dialogue: 0,0:11:49.72,0:11:51.93,EndoC,,0,0,0,,He does sing it like...
+Dialogue: 0,0:11:51.93,0:11:55.60,TanakaC,,0,0,0,,It's intentional, I was singing through my nose a bit
+Dialogue: 0,0:12:04.02,0:12:08.52,EndoC,,0,0,0,,{\pos(80.713,10)}Ah, that's awesome.
+Dialogue: 0,0:12:04.52,0:12:06.89,TanakaC,,0,0,0,,{\pos(232.847,10)}I was doing as I was told
+Dialogue: 0,0:12:06.22,0:12:08.52,HamadaC,,0,0,0,,{\pos(355.949,8.855)}And the movements, right?
+Dialogue: 0,0:12:06.89,0:12:08.52,TanakaC,,0,0,0,,{\pos(232.847,10)}Yes
+Dialogue: 0,0:12:24.14,0:12:25.81,EndoC,,0,0,0,,This is just..
+Dialogue: 0,0:12:25.81,0:12:28.52,HamadaC,,0,0,0,,This is a song for a woman to sing, surely?
+Dialogue: 0,0:12:31.10,0:12:33.97,HamadaC,,0,0,0,,This is some lyrics...
+Dialogue: 0,0:12:36.72,0:12:39.35,Matsu,,0,0,0,,Wow, that was just...
+Dialogue: 0,0:12:39.35,0:12:41.47,Tanaka,,0,0,0,,This was really difficult
+Dialogue: 0,0:12:40.81,0:12:42.64,Matsu,,0,0,0,,It was hard to sing it I bet too...
+Dialogue: 0,0:12:41.47,0:12:42.64,Tanaka,,0,0,0,,It was.
+Dialogue: 0,0:12:42.64,0:12:44.64,Tanaka,,0,0,0,,I was meant{\alphaFF} to be a 15 year old girl singing
+Dialogue: 0,0:12:44.64,0:12:48.14,Tanaka,,0,0,0,,I was meant to be a 15 year old girl singing
+Dialogue: 0,0:12:47.06,0:12:48.64,Housei,,0,0,0,,Right.
+Dialogue: 0,0:12:48.14,0:12:50.43,Hamada,,0,0,0,,My one, I was meant to be 21...
+Dialogue: 0,0:12:49.02,0:12:51.52,Tanaka,,0,0,0,,Right? I was 15...
+Dialogue: 0,0:12:51.52,0:12:54.18,Tanaka,,0,0,0,,A 15 year old girl!
+Dialogue: 0,0:12:50.43,0:12:54.18,Endo,,0,0,0,,Oh I see...
+Dialogue: 0,0:12:54.18,0:12:58.64,Matsu,,0,0,0,,Right now, there are 6 billion people on this planet...
+Dialogue: 0,0:12:58.64,0:13:01.43,Matsu,,0,0,0,,Who benefits from this episode?..
+Dialogue: 0,0:13:01.43,0:13:05.31,Housei,,0,0,0,,What you mean, some people might listen to the song and it might cheer them up!
+Dialogue: 0,0:13:05.31,0:13:06.60,Hamada,,0,0,0,,What was the title called?
+Dialogue: 0,0:13:06.60,0:13:08.47,Housei,,0,0,0,,This one is「Riziere Centre」
+Dialogue: 0,0:13:08.47,0:13:10.22,Hamada,,0,0,0,,What does it mean?
+Dialogue: 0,0:13:10.22,0:13:12.81,Housei,,0,0,0,,It means Tanaka...
+Dialogue: 0,0:13:12.81,0:13:14.56,Housei,,0,0,0,,In french though...
+Dialogue: 0,0:13:14.56,0:13:15.97,Endo,,0,0,0,,That's Tanaka in french?
+Dialogue: 0,0:13:15.97,0:13:17.97,Housei,,0,0,0,,Yes, it is
+Dialogue: 0,0:13:17.97,0:13:19.31,Tanaka,,0,0,0,,Is that what it means?
+Dialogue: 0,0:13:19.31,0:13:23.02,Note,,0,0,0,,* Shoumurasaki Hiroshisan (Gaki Director)
+Dialogue: 0,0:13:19.31,0:13:23.02,Matsu,,0,0,0,,It's so obvious you made Komu or someone go and search that...
+Dialogue: 0,0:13:23.02,0:13:25.31,Endo,,0,0,0,,Definitely...
+Dialogue: 0,0:13:25.31,0:13:26.64,Housei,,0,0,0,,Shall we go with the next one?
+Dialogue: 0,0:13:26.64,0:13:27.81,Hamada,,0,0,0,,Ok
+Dialogue: 0,0:13:26.64,0:13:27.81,Housei,,0,0,0,,OK!
+Dialogue: 0,0:13:27.81,0:13:30.31,Housei,,0,0,0,,Right, next up is Endo-kun...
+Dialogue: 0,0:13:30.31,0:13:33.10,Endo,,0,0,0,,Right, my one was a real problem
+Dialogue: 0,0:13:31.27,0:13:33.10,Housei,,0,0,0,,This one in itself...
+Dialogue: 0,0:13:33.10,0:13:35.10,Endo,,0,0,0,,This was really difficult...
+Dialogue: 0,0:13:35.10,0:13:36.27,Housei,,0,0,0,,Right, shall we proceed then?
+Dialogue: 0,0:13:36.27,0:13:38.10,Endo,,0,0,0,,Shall we...
+Dialogue: 0,0:13:38.77,0:14:26.27,RehearsalT,,0,0,0,,{\fad(200,200)\pos(44.491,35.5)}Endo's Rehearsal
+Dialogue: 0,0:13:38.77,0:13:40.02,Endo,,0,0,0,,Er...
+Dialogue: 0,0:13:40.02,0:13:42.10,Endo,,0,0,0,,It's all in English isn't it?
+Dialogue: 0,0:13:42.10,0:13:45.56,Endo,,0,0,0,,But I don't get why...
+Dialogue: 0,0:13:45.56,0:13:47.18,Housei,,0,0,0,,This isn't about remembering the words...
+Dialogue: 0,0:13:47.18,0:13:50.18,Endo,,0,0,0,,Ok
+Dialogue: 0,0:13:47.18,0:13:50.18,Housei,,0,0,0,,It's just your soul shouting
+Dialogue: 0,0:13:54.56,0:13:55.93,Endo,,0,0,0,,That's too bad
+Dialogue: 0,0:13:56.89,0:13:58.18,Endo,,0,0,0,,Pardon?
+Dialogue: 0,0:13:58.18,0:13:59.93,Housei,,0,0,0,,When you say That's too bad, say it like...
+Dialogue: 0,0:13:59.93,0:14:01.85,Housei,,0,0,0,,"That's too bad!"
+Dialogue: 0,0:14:03.02,0:14:04.89,Housei,,0,0,0,,"That's too bad!"
+Dialogue: 0,0:14:04.89,0:14:06.56,Endo,,0,0,0,,"That's too bad!"
+Dialogue: 0,0:14:06.56,0:14:07.97,Housei,,0,0,0,,Yeah, that's so much better...
+Dialogue: 0,0:14:07.97,0:14:09.14,Endo,,0,0,0,,Okay...
+Dialogue: 0,0:14:09.14,0:14:11.10,Housei,,0,0,0,,The interlude is like really long...
+Dialogue: 0,0:14:11.10,0:14:12.31,Endo,,0,0,0,,Yeah it was..
+Dialogue: 0,0:14:12.31,0:14:15.31,Housei,,0,0,0,,You're like free to what you want there...
+Dialogue: 0,0:14:13.97,0:14:15.31,Endo,,0,0,0,,Free?
+Dialogue: 0,0:14:16.02,0:14:18.56,Endo,,0,0,0,,Sorry producer, can you not like tell me what to do there and stuff?..
+Dialogue: 0,0:14:18.56,0:14:21.06,Housei,,0,0,0,,So we'll do this like once
+Dialogue: 0,0:14:21.06,0:14:23.77,Housei,,0,0,0,,Like we have no time
+Dialogue: 0,0:14:23.77,0:14:26.47,Endo,,0,0,0,,So we're going straight to the real thing...
+Dialogue: 0,0:14:26.47,0:14:30.47,YellowT,,0,0,0,,{\pos(229.068,227)}Yamasaki Produce!
+Dialogue: 0,0:14:26.47,0:14:30.47,RedO,,0,0,0,,{\pos(227.041,263)}#3 Endo Shozo
+Dialogue: 0,0:14:27.18,0:14:30.47,Narrator,,0,0,0,,Yamasaki produce: Endo's song...
+Dialogue: 0,0:14:30.64,0:14:34.93,WhiteTextS,,0,0,0,,{\fad(200,200)\pos(148.995,265)}Lyrics & Composition by Yamasaki Housei\NSung by Endo Shozo
+Dialogue: 0,0:14:31.97,0:14:35.56,EndoC,,0,0,0,,Everything is done by Hosei-san, huh?
+Dialogue: 0,0:14:41.89,0:14:43.77,Hamada,,0,0,0,,What's that about!?
+Dialogue: 0,0:14:46.56,0:14:48.64,TanakaC,,0,0,0,,Holy shit...
+Dialogue: 0,0:14:48.64,0:14:52.10,EndoC,,0,0,0,,This is...
+Dialogue: 0,0:14:52.10,0:14:54.68,MatsuC,,0,0,0,,Oh damn, this would be tough to do...
+Dialogue: 0,0:15:01.77,0:15:03.72,MatsuC,,0,0,0,,Woah, this is...
+Dialogue: 0,0:15:11.68,0:15:13.85,MatsuC,,0,0,0,,This is something else...
+Dialogue: 0,0:15:22.64,0:15:25.35,HamadaC,,0,0,0,,This is...
+Dialogue: 0,0:15:25.35,0:15:28.52,HamadaC,,0,0,0,,I actually think Endo's amazing for doing this..
+Dialogue: 0,0:15:28.52,0:15:31.72,EndoC,,0,0,0,,Yeah, this was really...
+Dialogue: 0,0:15:31.72,0:15:34.02,MatsuC,,0,0,0,,You really performed for your seniors...
+Dialogue: 0,0:15:34.02,0:15:35.85,MatsuC,,0,0,0,,Your seniors would never do this...
+Dialogue: 0,0:15:35.85,0:15:38.60,HamadaC,,0,0,0,,Yeah, Matsumoto and I would never be able to do this
+Dialogue: 0,0:15:38.60,0:15:40.43,MatsuC,,0,0,0,,Yeah, we wouldn't...
+Dialogue: 0,0:15:40.43,0:15:44.02,EndoC,,0,0,0,,Yamasaki-san chose like everything with this, including the clothes
+Dialogue: 0,0:15:46.60,0:15:49.68,EndoC,,0,0,0,,This was really tough...
+Dialogue: 0,0:16:00.77,0:16:03.43,MatsuC,,0,0,0,,Wow...
+Dialogue: 0,0:16:04.97,0:16:09.72,Hamada,,0,0,0,,Honestly, I applaud you Endo for doing that...
+Dialogue: 0,0:16:09.72,0:16:13.64,Endo,,0,0,0,,Well to put it simply, that was heavy metal...
+Dialogue: 0,0:16:13.64,0:16:16.22,Housei,,0,0,0,,No Death Metal, it's Death Metal.
+Dialogue: 0,0:16:14.60,0:16:16.22,Matsu,,0,0,0,,Damn but...
+Dialogue: 0,0:16:16.22,0:16:17.56,Endo,,0,0,0,,Death metal?..
+Dialogue: 0,0:16:17.56,0:16:20.81,Matsu,,0,0,0,,If you put this into one of those hexagonal graphs...
+Dialogue: 0,0:16:20.81,0:16:23.89,Matsu,,0,0,0,,You know, measuring applause from the crowd and all
+Dialogue: 0,0:16:23.89,0:16:26.77,Matsu,,0,0,0,,It would definitely be close to like a dot in the centre...
+Dialogue: 0,0:16:26.77,0:16:29.39,Endo,,0,0,0,,Seriously, it wouldn't spread out at all...
+Dialogue: 0,0:16:30.97,0:16:34.06,Endo,,0,0,0,,Was there a reason for mine being all english?
+Dialogue: 0,0:16:34.06,0:16:37.31,Housei,,0,0,0,,Well because it's death metal
+Dialogue: 0,0:16:35.39,0:16:37.31,Endo,,0,0,0,,Oh, so because it's death metal...
+Dialogue: 0,0:16:37.31,0:16:40.85,Matsu,,0,0,0,,You've been like preaching 'death metal, death metal' from before
+Dialogue: 0,0:16:40.85,0:16:42.39,Matsu,,0,0,0,,but what the hell is it?..
+Dialogue: 0,0:16:42.39,0:16:44.68,Housei,,0,0,0,,It's a song
+Dialogue: 0,0:16:44.68,0:16:46.64,Housei,,0,0,0,,It's a song from hell
+Dialogue: 0,0:16:46.64,0:16:48.60,Endo,,0,0,0,,I sang that?..
+Dialogue: 0,0:16:48.60,0:16:52.39,Matsu,,0,0,0,,Then don't make your juniors sing that kind of song...
+Dialogue: 0,0:16:52.39,0:16:53.81,Housei,,0,0,0,,Right, lastly...
+Dialogue: 0,0:16:53.81,0:16:55.02,Tanaka,,0,0,0,,Right.
+Dialogue: 0,0:16:55.02,0:16:57.39,Housei,,0,0,0,,Let's check out Matsumoto-sans...
+Dialogue: 0,0:16:55.85,0:16:57.39,Matsu,,0,0,0,,Oh man...
+Dialogue: 0,0:16:58.06,0:18:49.18,RehearsalT,,0,0,0,,{\fad(200,200)\pos(12.163,35.5)}Matsumoto's Rehearsal
+Dialogue: 0,0:16:57.85,0:16:59.68,Housei,,0,0,0,,Right, have a look..
+Dialogue: 0,0:17:14.56,0:17:16.97,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Mou ♫
+Dialogue: 0,0:17:14.56,0:17:16.97,Housei,,0,0,0,,It seems
+Dialogue: 0,0:17:16.97,0:17:19.72,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Modorenai ♫
+Dialogue: 0,0:17:16.97,0:17:19.72,Housei,,0,0,0,,that we've come to a point
+Dialogue: 0,0:17:20.52,0:17:26.02,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Tokoro made kita mitaida ♫
+Dialogue: 0,0:17:20.52,0:17:26.02,Housei,,0,0,0,,where we can't return anymore
+Dialogue: 0,0:17:27.93,0:17:30.02,Housei,,0,0,0,,This is literally
+Dialogue: 0,0:17:30.02,0:17:33.27,Housei,,0,0,0,,the manliest
+Dialogue: 0,0:17:33.27,0:17:36.18,Housei,,0,0,0,,of men kind of song
+Dialogue: 0,0:17:36.18,0:17:37.64,Matsu,,0,0,0,,I see...
+Dialogue: 0,0:17:37.64,0:17:40.39,Housei,,0,0,0,,So I really want you to put your heart into it and sing it...
+Dialogue: 0,0:17:38.97,0:17:41.27,Matsu,,0,0,0,,Uh-huh, yeah.
+Dialogue: 0,0:17:40.39,0:17:42.77,Housei,,0,0,0,,It's fine if you cry...
+Dialogue: 0,0:17:42.77,0:17:45.06,Matsu,,0,0,0,,Without being embarassed
+Dialogue: 0,0:17:43.47,0:17:45.06,Housei,,0,0,0,,That's it.
+Dialogue: 0,0:17:45.06,0:17:46.85,Housei,,0,0,0,,Can we try then?
+Dialogue: 0,0:17:46.85,0:17:49.18,RomajiKara,,0,0,0,,{\pos(227.041,240)}♫ Mou ♫
+Dialogue: 0,0:17:46.85,0:17:49.18,Housei,,0,0,0,,It seems
+Dialogue: 0,0:17:47.89,0:17:49.18,Matsu,,0,0,0,,It seems
+Dialogue: 0,0:17:49.97,0:17:52.81,RomajiKara,,0,0,0,,{\pos(227.041,240)}♫ Modorenai ♫
+Dialogue: 0,0:17:49.97,0:17:52.81,Housei,,0,0,0,,that we've come
+Dialogue: 0,0:17:49.97,0:17:52.81,Matsu,,0,0,0,,that we've come
+Dialogue: 0,0:17:52.81,0:17:57.18,RomajiKara,,0,0,0,,{\pos(227.041,240)}♫ Tokoro made kita mitaida ♫
+Dialogue: 0,0:17:52.81,0:17:57.18,Housei,,0,0,0,,to a point where we cannot return anymore
+Dialogue: 0,0:17:52.81,0:17:57.18,Matsu,,0,0,0,,to a point where we cannot return anymore
+Dialogue: 0,0:17:57.18,0:18:00.22,Housei,,0,0,0,,That's great. This is really...
+Dialogue: 0,0:17:58.60,0:18:00.27,RomajiKara,,0,0,0,,{\pos(227.041,240)}♫ Mou ♫
+Dialogue: 0,0:17:58.60,0:18:00.27,Matsu,,0,0,0,,It seems
+Dialogue: 0,0:18:00.22,0:18:02.85,Housei,,0,0,0,,That's fantastic, Matsumoto-san
+Dialogue: 0,0:18:00.27,0:18:02.85,RomajiKara,,0,0,0,,{\pos(227.041,240)}♫ Modorenai ♫
+Dialogue: 0,0:18:00.27,0:18:02.85,Matsu,,0,0,0,,that we've come to a point
+Dialogue: 0,0:18:02.85,0:18:07.18,Matsu,,0,0,0,,I'm sorry, I don't feel like I'm going to cry
+Dialogue: 0,0:18:07.18,0:18:10.22,Matsu,,0,0,0,,but I'm going to laugh instead
+Dialogue: 0,0:18:08.22,0:18:10.22,Housei,,0,0,0,,No, you definitely cannot laugh
+Dialogue: 0,0:18:10.22,0:18:11.97,Matsu,,0,0,0,,Really?
+Dialogue: 0,0:18:10.22,0:18:11.97,Housei,,0,0,0,,Yeah.
+Dialogue: 0,0:18:11.97,0:18:15.18,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Shinjitsu o ♫
+Dialogue: 0,0:18:11.97,0:18:15.18,Matsu,,0,0,0,,that you have
+Dialogue: 0,0:18:15.18,0:18:19.10,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Tsukamu made ♫
+Dialogue: 0,0:18:15.18,0:18:19.10,Matsu,,0,0,0,,nothing to lose
+Dialogue: 0,0:18:19.10,0:18:21.68,Housei,,0,0,0,,OK! OK, OK, OK!
+Dialogue: 0,0:18:21.68,0:18:23.14,Housei,,0,0,0,,We can shoot the real thing
+Dialogue: 0,0:18:23.14,0:18:25.14,Housei,,0,0,0,,Okay, let's do the real thing
+Dialogue: 0,0:18:23.68,0:18:25.14,Matsu,,0,0,0,,Can I
+Dialogue: 0,0:18:25.14,0:18:28.18,Matsu,,0,0,0,,drink something quickly?
+Dialogue: 0,0:18:26.60,0:18:28.18,Housei,,0,0,0,,Sure.
+Dialogue: 0,0:18:28.18,0:18:30.02,Blue L,,0,0,0,,About the change of clothes...
+Dialogue: 0,0:18:30.02,0:18:33.56,Housei,,0,0,0,,Please go get changed, we've prepared something for you
+Dialogue: 0,0:18:33.56,0:18:35.06,Matsu,,0,0,0,,I have to get changed?!
+Dialogue: 0,0:18:34.02,0:18:35.06,Housei,,0,0,0,,Yes.
+Dialogue: 0,0:18:35.06,0:18:36.97,Housei,,0,0,0,,We've got everything prepared
+Dialogue: 0,0:18:36.97,0:18:39.43,Matsu,,0,0,0,,Seriously?
+Dialogue: 0,0:18:37.47,0:18:39.43,Housei,,0,0,0,,Yes.
+Dialogue: 0,0:18:39.43,0:18:42.27,Matsu,,0,0,0,,Aren't we going a bit too quick?..
+Dialogue: 0,0:18:42.27,0:18:45.52,Housei,,0,0,0,,Alright, if you could please.
+Dialogue: 0,0:18:45.52,0:18:49.35,Matsu,,0,0,0,,After this, Matsumoto records his real take..
+Dialogue: 0,0:18:49.35,0:18:53.39,YellowT,,0,0,0,,{\pos(229.068,227)}Yamasaki Produce!
+Dialogue: 0,0:18:49.35,0:18:53.39,RedO,,0,0,0,,{\pos(227.041,263)}#4 Matsumoto Hitoshi
+Dialogue: 0,0:18:50.22,0:18:53.39,Narrator,,0,0,0,,Yamasaki Produce: Matsumoto's song..
+Dialogue: 0,0:18:55.14,0:18:59.39,WhiteTextS,,0,0,0,,{\fad(200,200)\pos(148.995,265)}Lyrics & Composition by Yamasaki Housei\NSung by Matsumoto Hitoshi
+Dialogue: 0,0:19:02.85,0:19:05.52,HamadaC,,0,0,0,,This makes you look so lame already...
+Dialogue: 0,0:19:07.72,0:19:10.31,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Mou ♫
+Dialogue: 0,0:19:07.72,0:19:10.35,Matsu,,0,0,0,,It seems
+Dialogue: 0,0:19:10.35,0:19:13.18,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Modorenai ♫
+Dialogue: 0,0:19:10.35,0:19:13.18,Matsu,,0,0,0,,that we've come
+Dialogue: 0,0:19:13.89,0:19:19.14,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Tokoro made kita mitaida ♫
+Dialogue: 0,0:19:13.89,0:19:19.14,Matsu,,0,0,0,,to a point where we can't return anymore
+Dialogue: 0,0:19:20.56,0:19:24.06,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Furikaeru ♫
+Dialogue: 0,0:19:20.56,0:19:24.06,Matsu,,0,0,0,,Every time
+Dialogue: 0,0:19:24.06,0:19:27.81,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Toki wa itsumo ♫
+Dialogue: 0,0:19:24.06,0:19:27.81,Matsu,,0,0,0,,I look back
+Dialogue: 0,0:19:27.81,0:19:30.93,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Jibun no ♫
+Dialogue: 0,0:19:27.81,0:19:30.93,Matsu,,0,0,0,,I see
+Dialogue: 0,0:19:30.93,0:19:33.56,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kage o miru ♫
+Dialogue: 0,0:19:30.93,0:19:33.56,Matsu,,0,0,0,,my own shadow
+Dialogue: 0,0:19:34.97,0:19:37.39,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sou ♫
+Dialogue: 0,0:19:34.97,0:19:37.39,Matsu,,0,0,0,,And
+Dialogue: 0,0:19:37.39,0:19:41.10,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sorenaraba ♫
+Dialogue: 0,0:19:37.39,0:19:41.10,Matsu,,0,0,0,,if that's the case
+Dialogue: 0,0:19:41.10,0:19:46.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Iku tokoro made ikou ♫
+Dialogue: 0,0:19:41.10,0:19:46.60,Matsu,,0,0,0,,let's go to the place where we must go
+Dialogue: 0,0:19:47.68,0:19:51.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sou sureba ♫
+Dialogue: 0,0:19:47.68,0:19:51.60,Matsu,,0,0,0,,and if we do that
+Dialogue: 0,0:19:51.60,0:19:54.77,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kitto ♫
+Dialogue: 0,0:19:51.60,0:19:54.77,Matsu,,0,0,0,,we'll probably
+Dialogue: 0,0:19:54.77,0:19:57.97,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Furikaeru ♫
+Dialogue: 0,0:19:54.77,0:19:57.97,Matsu,,0,0,0,,not look
+Dialogue: 0,0:19:57.97,0:20:00.52,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Koto mo nai ♫
+Dialogue: 0,0:19:57.97,0:20:00.52,Matsu,,0,0,0,,back anymore
+Dialogue: 0,0:20:01.31,0:20:04.72,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Zutto ♫
+Dialogue: 0,0:20:01.31,0:20:04.72,Matsu,,0,0,0,,These precious
+Dialogue: 0,0:20:04.72,0:20:08.10,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Shinji teta ♫
+Dialogue: 0,0:20:04.72,0:20:08.10,Matsu,,0,0,0,,thoughts that
+Dialogue: 0,0:20:08.10,0:20:11.56,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Taisetsuna ♫
+Dialogue: 0,0:20:08.10,0:20:11.56,Matsu,,0,0,0,,I believed
+Dialogue: 0,0:20:11.56,0:20:14.27,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Omoi o ♫
+Dialogue: 0,0:20:11.56,0:20:14.27,Matsu,,0,0,0,,in
+Dialogue: 0,0:20:15.18,0:20:18.31,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Darenimo ♫
+Dialogue: 0,0:20:15.18,0:20:18.31,Matsu,,0,0,0,,and my heart
+Dialogue: 0,0:20:18.31,0:20:21.68,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Jama sa rezu ♫
+Dialogue: 0,0:20:18.31,0:20:21.68,Matsu,,0,0,0,,which I've brought up
+Dialogue: 0,0:20:21.68,0:20:24.60,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Sodatte kita ♫
+Dialogue: 0,0:20:21.68,0:20:24.60,Matsu,,0,0,0,,without letting anyone
+Dialogue: 0,0:20:25.72,0:20:29.27,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kono kokoro o ♫
+Dialogue: 0,0:20:25.72,0:20:29.27,Matsu,,0,0,0,,get in my way
+Dialogue: 0,0:20:36.31,0:20:39.27,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Kitto yareru sa ♫
+Dialogue: 0,0:20:36.31,0:20:39.27,Matsu,,0,0,0,,You can probably do it
+Dialogue: 0,0:20:39.27,0:20:42.72,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Itsu demo sou sa ♫
+Dialogue: 0,0:20:39.27,0:20:42.72,Matsu,,0,0,0,,It's always like that
+Dialogue: 0,0:20:49.31,0:20:52.64,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Nani ni mo makenai ♫
+Dialogue: 0,0:20:49.31,0:20:52.64,Matsu,,0,0,0,,Until you grasp
+Dialogue: 0,0:20:52.64,0:20:55.68,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Shinjitsu o ♫
+Dialogue: 0,0:20:52.64,0:20:55.68,Matsu,,0,0,0,,the truth that you
+Dialogue: 0,0:20:55.68,0:20:59.52,RomajiKara,,0,0,0,,{\pos(227.041,249)}♫ Tsukamu made ♫
+Dialogue: 0,0:20:55.68,0:20:59.52,Matsu,,0,0,0,,have nothing to lose
+Dialogue: 0,0:19:15.39,0:19:17.77,HamadaC,,0,0,0,,The theme of this song makes you look so lame...
+Dialogue: 0,0:19:26.47,0:19:31.35,HamadaC,,0,0,0,,He should let you like run around a bit more...
+Dialogue: 0,0:19:31.35,0:19:33.52,MatsuC,,0,0,0,,{\pos(182.91,10.61)}
+Dialogue: 0,0:19:31.35,0:19:33.52,HamadaC,,0,0,0,,{\pos(273.494,11.145)}Right?
+Dialogue: 0,0:19:48.97,0:19:50.85,MatsuC,,0,0,0,,You know like
+Dialogue: 0,0:19:50.85,0:19:54.64,MatsuC,,0,0,0,,They literally forced me to wear the jumper and jacket...
+Dialogue: 0,0:19:54.14,0:19:55.68,HamadaC,,0,0,0,,{\pos(371.046,8.855)}Ah, right.
+Dialogue: 0,0:19:54.64,0:19:57.39,MatsuC,,0,0,0,,So I look like so serious...
+Dialogue: 0,0:20:00.06,0:20:03.10,MatsuC,,0,0,0,,This feels like I've gone to welcome drinks or something...
+Dialogue: 0,0:20:07.27,0:20:10.72,MatsuC,,0,0,0,,I just come to Tokyo, and need to work hard.
+Dialogue: 0,0:20:10.72,0:20:13.72,MatsuC,,0,0,0,,Be friendly with the people I have to work with...
+Dialogue: 0,0:20:30.22,0:20:34.43,HamadaC,,0,0,0,,Oh damn, this is tough!
+Dialogue: 0,0:20:34.43,0:20:37.72,HamadaC,,0,0,0,,This is SO tough!
+Dialogue: 0,0:20:37.72,0:20:40.14,MatsuC,,0,0,0,,This is so bad
+Dialogue: 0,0:20:40.14,0:20:43.02,MatsuC,,0,0,0,,So old!
+Dialogue: 0,0:20:44.97,0:20:47.68,HamadaC,,0,0,0,,No, please no english!
+Dialogue: 0,0:20:58.68,0:21:01.43,EndoC,,0,0,0,,{\pos(158.522,8.855)}He's really gone and...
+Dialogue: 0,0:20:59.52,0:21:01.43,HamadaC,,0,0,0,,{\pos(275.817,11.145)}This is so bad...
+Dialogue: 0,0:21:01.43,0:21:04.27,HamadaC,,0,0,0,,It really leaves its mark for sure...
+Dialogue: 0,0:21:04.27,0:21:06.27,MatsuC,,0,0,0,,Right?
+Dialogue: 0,0:21:06.27,0:21:08.77,HamadaC,,0,0,0,,This is tough...
+Dialogue: 0,0:21:10.72,0:21:12.60,Matsu,,0,0,0,,So bad right?
+Dialogue: 0,0:21:12.60,0:21:14.10,Hamada,,0,0,0,,That was awful
+Dialogue: 0,0:21:14.10,0:21:15.72,Endo,,0,0,0,,That was amazing
+Dialogue: 0,0:21:15.72,0:21:16.89,Matsu,,0,0,0,,Like I sweat the kind of sweat{\alphaFF} that comes out only when you've broken a bone...
+Dialogue: 0,0:21:16.89,0:21:19.89,Matsu,,0,0,0,,Like I sweat the kind of sweat that comes out only when you've broken a bone...
+Dialogue: 0,0:21:19.89,0:21:22.39,Matsu,,0,0,0,,You could have let me muck around a bit more
+Dialogue: 0,0:21:20.81,0:21:22.39,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:21:22.39,0:21:24.93,Matsu,,0,0,0,,I wish you'd done something for me like Endo's...
+Dialogue: 0,0:21:24.93,0:21:28.64,Matsu,,0,0,0,,I mean, these 3 got to muck around!
+Dialogue: 0,0:21:27.14,0:21:28.77,Hamada,,0,0,0,,I mean yeah, we didn't have to dress up like you...
+Dialogue: 0,0:21:28.64,0:21:31.43,Matsu,,0,0,0,,You guys are like doing it as part of the joke...
+Dialogue: 0,0:21:31.43,0:21:33.43,Hamada,,0,0,0,,Yours was so serious...
+Dialogue: 0,0:21:31.43,0:21:33.43,Matsu,,0,0,0,,It was so serious...
+Dialogue: 0,0:21:33.43,0:21:35.81,Housei,,0,0,0,,No, everyones was serious!
+Dialogue: 0,0:21:35.81,0:21:37.31,Matsu,,0,0,0,,I'm so embarassed...
+Dialogue: 0,0:21:37.31,0:21:39.43,Housei,,0,0,0,,Everyone's was serious
+Dialogue: 0,0:21:39.43,0:21:41.81,Note,,0,0,0,,* Popular music artist Shōgo Hamada (1975 - Present)
+Dialogue: 0,0:21:39.43,0:21:41.81,Matsu,,0,0,0,,That was definitely Hama-shou...
+Dialogue: 0,0:21:41.81,0:21:43.85,Housei,,0,0,0,,I don't know who Hama-shou is..
+Dialogue: 0,0:21:43.85,0:21:45.06,Matsu,,0,0,0,,I mean Hamada Shogo...
+Dialogue: 0,0:21:45.06,0:21:46.85,Housei,,0,0,0,,I don't know Hamada Shogo, that much...
+Dialogue: 0,0:21:46.85,0:21:48.31,Matsu,,0,0,0,,You used to listen to him every day...
+Dialogue: 0,0:21:48.31,0:21:50.68,Housei,,0,0,0,,Yeah, but like... I forgot who he is
+Dialogue: 0,0:21:50.68,0:21:52.35,Endo,,0,0,0,,Even though you listened to him so often?..
+Dialogue: 0,0:21:52.35,0:21:53.64,Hamada,,0,0,0,,I don't get it...
+Dialogue: 0,0:21:53.64,0:21:55.64,Matsu,,0,0,0,,That reply was hilarious
+Dialogue: 0,0:21:55.64,0:21:58.89,Matsu,,0,0,0,,You just forgot him?
+Dialogue: 0,0:21:56.60,0:21:58.89,Housei,,0,0,0,,Yeah...
+Dialogue: 0,0:21:58.89,0:22:01.60,Housei,,0,0,0,,So that was original.
+Dialogue: 0,0:22:01.60,0:22:05.56,Housei,,0,0,0,,All music producers watching this on TV
+Dialogue: 0,0:22:03.14,0:22:07.02,Matsu,,0,0,0,,What is with him being like this?
+Dialogue: 0,0:22:05.56,0:22:10.60,Housei,,0,0,0,,Out of the 4 songs, I don't care which one, I want to make them into a CD.
+Dialogue: 0,0:22:10.60,0:22:12.89,Housei,,0,0,0,,We're all like totally serious
+Dialogue: 0,0:22:12.89,0:22:13.97,Matsu,,0,0,0,,Wait, what?
+Dialogue: 0,0:22:13.97,0:22:15.97,Hamada,,0,0,0,,"We're all serious?" You mean you're serious?
+Dialogue: 0,0:22:15.97,0:22:17.18,Endo,,0,0,0,,Yeah...
+Dialogue: 0,0:22:17.18,0:22:18.43,Tanaka,,0,0,0,,Right!
+Dialogue: 0,0:22:17.18,0:22:18.43,Hamada,,0,0,0,,You are
+Dialogue: 0,0:22:18.43,0:22:20.35,Matsu,,0,0,0,,Wait, what, what?
+Dialogue: 0,0:22:18.43,0:22:20.35,Housei,,0,0,0,,Everyone, bow your heads.
+Dialogue: 0,0:22:20.35,0:22:22.22,Housei,,0,0,0,,Please!
+Dialogue: 0,0:22:20.35,0:22:22.22,Matsu,,0,0,0,,No, what do you mean?
+Dialogue: 0,0:22:22.22,0:22:24.18,Matsu,,0,0,0,,All 4 of them?
+Dialogue: 0,0:22:24.18,0:22:26.14,Housei,,0,0,0,,Yeah, that would be fine
+Dialogue: 0,0:22:26.14,0:22:27.72,Housei,,0,0,0,,So for example
+Dialogue: 0,0:22:26.93,0:22:28.47,Hamada,,0,0,0,,1 song is fine, right?
+Dialogue: 0,0:22:27.72,0:22:29.52,Housei,,0,0,0,,Yeah, 1 song is fine
+Dialogue: 0,0:22:28.47,0:22:31.18,Hamada,,0,0,0,,Even just Matsumoto's...
+Dialogue: 0,0:22:29.52,0:22:31.18,Housei,,0,0,0,,Yeah, that would be fine
+Dialogue: 0,0:22:31.18,0:22:36.10,Hamada,,0,0,0,,After watching them, I think only Matsumoto's has a chance...
+Dialogue: 0,0:22:36.10,0:22:37.89,Hamada,,0,0,0,,Ours are like...
+Dialogue: 0,0:22:37.89,0:22:40.18,Endo,,0,0,0,,Ours were a joke...
+Dialogue: 0,0:22:40.18,0:22:42.02,Matsu,,0,0,0,,Seriously,that was the first time in my life
+Dialogue: 0,0:22:42.02,0:22:44.77,Matsu,,0,0,0,,the words 'Let it be' came out of my mouth
+Dialogue: 0,0:22:44.77,0:22:46.64,Matsu,,0,0,0,,My mouth is shocked
+Dialogue: 0,0:22:47.97,0:22:49.60,Housei,,0,0,0,,So everyone in the music industry
+Dialogue: 0,0:22:49.60,0:22:51.02,Housei,,0,0,0,,We will be waiting
+Dialogue: 0,0:22:51.02,0:22:53.97,Housei,,0,0,0,,So please consider us!
+Dialogue: 0,0:22:51.52,0:22:57.52,WhiteText,,0,0,0,,{\fad(200,200)\pos(43.815,214.427)}Info Text
+Dialogue: 0,0:22:53.97,0:22:55.68,Hamada,,0,0,0,,He's serious
+Dialogue: 0,0:23:00.18,0:23:02.10,Hamada,,0,0,0,,There it is!
+Dialogue: 0,0:23:02.10,0:23:05.06,Housei,,0,0,0,,And we would like to end the show this week with this song...
+Dialogue: 0,0:23:05.06,0:23:06.56,Matsu,,0,0,0,,Whilst listening to this?
+Dialogue: 0,0:23:06.56,0:23:08.52,Endo,,0,0,0,,I mean, this is the only way...
+Dialogue: 0,0:23:08.52,0:23:09.97,Matsu,,0,0,0,,Geez...
+Dialogue: 0,0:23:09.97,0:23:12.85,Hamada,,0,0,0,,This really leaves its mark...
+Dialogue: 0,0:23:20.18,0:23:22.52,Matsu,,0,0,0,,What is with this feeling?
+Dialogue: 0,0:23:24.60,0:23:28.35,RomajiKara,,0,0,0,,{\pos(227.041,266)}♫ Hageshiku uchi narasu ♫
+

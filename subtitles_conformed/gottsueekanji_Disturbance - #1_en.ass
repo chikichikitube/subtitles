@@ -1,0 +1,39 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 400
+PlayResY: 304
+
+[Aegisub Project Garbage]
+Audio File: Disturbance 1.mp4
+Video File: Disturbance 1.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.875000
+Active Line: 1
+Video Position: 528
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.05,0:00:06.60,Default,,0,0,0,,{\fad(0,600)\fs40\bord0\shad0\pos(200,260)}Disturbance
+Dialogue: 0,0:00:08.80,0:00:10.94,Default,,0,0,0,,Take the next integral...
+Dialogue: 0,0:00:10.94,0:00:12.67,Default,,0,0,0,,...and the denominator...
+Dialogue: 0,0:00:12.67,0:00:14.17,Default,,0,0,0,,...to get the rational number.
+Dialogue: 0,0:00:14.44,0:00:19.40,Default,,0,0,0,,Take the rational number and\Napply it to the straight line...
+Dialogue: 0,0:00:20.65,0:00:22.37,Default,,0,0,0,,So noisy.
+Dialogue: 0,0:00:26.15,0:00:32.92,Default,,0,0,0,,So, E equals mc\Nsquared when light...
+Dialogue: 0,0:00:46.00,0:00:47.05,Default,,0,0,0,,Loud as hell in there.
+Dialogue: 0,0:00:50.32,0:00:51.35,Default,,0,0,0,,Mr. Ueda!
+Dialogue: 0,0:00:53.20,0:00:54.00,Default,,0,0,0,,Mr. Ueda!
+Dialogue: 0,0:00:56.50,0:00:57.47,Default,,0,0,0,,Mr. Ueda!
+Dialogue: 0,0:00:58.72,0:00:59.96,Default,,0,0,0,,Mr. Ueda, do you hear me!
+Dialogue: 0,0:01:02.12,0:01:03.43,Default,,0,0,0,,What the!
+Dialogue: 0,0:01:03.19,0:01:05.19,Default,,0,0,0,,
+
