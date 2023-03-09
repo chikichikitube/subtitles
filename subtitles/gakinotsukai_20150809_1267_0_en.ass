@@ -6,7 +6,7 @@ ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-PlayResX: 1440
+PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
@@ -15,25 +15,24 @@ Audio File: #1267 (2015.08.09 - World Ghost Stories Summit 2015.mp4
 Video File: #1267 (2015.08.09 - World Ghost Stories Summit 2015.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 497
-Active Line: 502
-Video Position: 40736
+Video Zoom Percent: 0.500000
+Active Line: 1
+Video Position: 3387
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,2,2,2,10,10,10,1
-Style: Hamada,Arial,55,&H00FFFFFF,&H000000FF,&H009D1517,&H00F61718,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Matsumoto,Arial,55,&H00FFFFFF,&H000000FF,&H00253BB8,&H001238E5,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Matsumoto2,Arial Rounded MT Bold,55,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
-Style: Endo,Arial,55,&H00FFFFFF,&H000000FF,&H001666D2,&H000372E3,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Tanaka,Arial,55,&H00FFFFFF,&H000000FF,&H0079429F,&H00D82F98,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Hosei,Arial,55,&H00FFFFFF,&H000000FF,&H0035833B,&H0028B12F,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Normal,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,80,100,0,0,1,5,0,2,10,10,10,1
-Style: Other1,Rockwell,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,3,0,2,10,10,10,1
-Style: Other2,Bookman Old Style,60,&H00000000,&H000000FF,&H0024C9C7,&H00000000,-1,0,0,0,80,100,0,0,1,3,0,2,10,10,10,1
-Style: Other3,Cooper Black,60,&H00302CC7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,3,3,2,10,10,10,1
-Style: Credits,Impact,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,4,0,7,10,10,10,1
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,2,2,2,13,13,10,1
+Style: Hamada,Arial,55,&H00FFFFFF,&H000000FF,&H009D1517,&H00F61718,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Matsumoto,Arial,55,&H00FFFFFF,&H000000FF,&H00253BB8,&H001238E5,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Matsumoto2,Arial Rounded MT Bold,55,&H001238E5,&H000000FF,&H00FFFFFF,&H001238E5,-1,0,0,0,80,100,0,0,1,3,3,2,13,13,10,1
+Style: Endo,Arial,55,&H00FFFFFF,&H000000FF,&H001666D2,&H000372E3,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Tanaka,Arial,55,&H00FFFFFF,&H000000FF,&H0079429F,&H00D82F98,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Hosei,Arial,55,&H00FFFFFF,&H000000FF,&H0035833B,&H0028B12F,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Normal,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,80,100,0,0,1,5,0,2,13,13,10,1
+Style: Other1,Rockwell,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,0,0,1,3,0,2,13,13,10,1
+Style: Other2,Bookman Old Style,60,&H00000000,&H000000FF,&H0024C9C7,&H00000000,-1,0,0,0,80,100,0,0,1,3,0,2,13,13,10,1
+Style: Other3,Cooper Black,60,&H00302CC7,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,80,100,0,0,1,3,3,2,13,13,10,1
+Style: Credits,Impact,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,0,0,1,4,0,7,13,13,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -46,32 +45,32 @@ Comment: 0,0:11:20.33,0:11:26.17,Matsumoto,,0,0,0,,NOTE: biscotto di hokkaido (s
 Comment: 0,0:13:00.13,0:13:02.30,Matsumoto,,0,0,0,,NOTE: ok è una parola, ma completamente fuori uso nel moderno
 Comment: 0,0:16:39.62,0:16:42.65,Hamada,,0,0,0,,NOTE: sul perché è divertente e cosa intende Hamada
 Comment: 0,0:23:58.69,0:24:01.06,Normal,,0,0,0,,NOTE SHOWA
-Dialogue: 0,0:00:10.36,0:00:13.90,Other1,,0,0,0,,{\fade(250,0)\bord4\pos(712.5,412)\c&H6E003D&\3c&HFE8AC8&\fs70\t(0,7000,\fs80)}World Ghost Stories Summit
-Dialogue: 0,0:00:10.36,0:00:13.90,Other1,,0,0,0,,{\fade(250,0)\pos(718.5,222)\c&HFF4632&\3c&HFFFFFF&\fs45\t(0,7000,\fs50)}Are scary ghost stories from around the world really scary!?
+Dialogue: 0,0:00:10.36,0:00:13.90,Other1,,0,0,0,,{\fade(250,0)\bord4\pos(950,412)\c&H6E003D&\3c&HFE8AC8&\fs70\t(0,7000,\fs80)}World Ghost Stories Summit
+Dialogue: 0,0:00:10.36,0:00:13.90,Other1,,0,0,0,,{\fade(250,0)\pos(958,222)\c&HFF4632&\3c&HFFFFFF&\fs45\t(0,7000,\fs50)}Are scary ghost stories from around the world really scary!?
 Dialogue: 0,0:00:00.26,0:00:03.98,Hamada,,0,0,0,,Are scary stories from around the world really scary?
 Dialogue: 0,0:00:04.42,0:00:05.34,Matsumoto,,0,0,0,,What's this voice?
 Dialogue: 0,0:00:05.34,0:00:09.04,Hamada,,0,0,0,,Welcome to World Ghost Stories Summit 2015
-Dialogue: 0,0:00:13.90,0:00:17.53,Matsumoto2,,0,0,0,,{\pos(720,912)}That's not{\alpha&HFF&} a face I know
-Dialogue: 0,0:00:14.87,0:00:17.53,Matsumoto2,,0,0,0,,{\pos(720,912)}That's not a face I know
+Dialogue: 0,0:00:13.90,0:00:17.53,Matsumoto2,,0,0,0,,{\pos(960,912)}That's not{\alpha&HFF&} a face I know
+Dialogue: 0,0:00:14.87,0:00:17.53,Matsumoto2,,0,0,0,,{\pos(960,912)}That's not a face I know
 Dialogue: 0,0:00:15.50,0:00:16.84,Hosei,,0,0,0,,Really
-Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\pos(527.5,784)\4c&H060F60&\3c&H060F60&}Matsumoto Hitoshi
-Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\4c&H930406&\pos(896.5,784)\3c&H930406&}Hamada Masatoshi
-Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H074408&\4c&H074408&\pos(355,900)}Tsukitei Hosei
-Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H0750B4&\4c&H0750B4&\pos(712,900)}Endo Shozo
-Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H39008D&\4c&H39008D&\pos(1061.5,900)}Tanaka Naoki
+Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\pos(703.333,784)\4c&H060F60&\3c&H060F60&}Matsumoto Hitoshi
+Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\4c&H930406&\pos(1195.333,784)\3c&H930406&}Hamada Masatoshi
+Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H074408&\4c&H074408&\pos(473.333,900)}Tsukitei Hosei
+Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H0750B4&\4c&H0750B4&\pos(949.333,900)}Endo Shozo
+Dialogue: 0,0:00:17.70,0:00:20.54,Default,,0,0,0,,{\fs40\bord3\shad3\b1\fnFranklin Gothic Medium\fade(250,0)\3c&H39008D&\4c&H39008D&\pos(1415.333,900)}Tanaka Naoki
 Dialogue: 0,0:00:17.28,0:00:20.38,Matsumoto,,0,0,0,,Have you switched your inner channel?
 Dialogue: 0,0:00:20.38,0:00:23.92,Hamada,,0,0,0,,We're talking about scary stories, I can't shout as usual
 Dialogue: 0,0:00:23.92,0:00:24.88,Matsumoto,,0,0,0,,Amazing...
 Dialogue: 0,0:00:24.88,0:00:29.84,Hosei,,0,0,0,,The way you said "World Ghost Stories" was something
 Dialogue: 0,0:00:29.84,0:00:30.70,Matsumoto,,0,0,0,,Amazing
 Dialogue: 0,0:00:30.70,0:00:32.55,Hamada,,0,0,0,,What are we doing today?
-Dialogue: 0,0:00:32.55,0:00:38.42,Matsumoto2,,0,0,0,,{\pos(537,795.333)}You know we're in that time of year
-Dialogue: 0,0:00:35.25,0:00:38.42,Matsumoto2,,0,0,0,,{\pos(711,910)}Where we hear a lot of Japanese ghost stories, right?
+Dialogue: 0,0:00:32.55,0:00:38.42,Matsumoto2,,0,0,0,,{\pos(716,795.333)}You know we're in that time of year
+Dialogue: 0,0:00:35.25,0:00:38.42,Matsumoto2,,0,0,0,,{\pos(948,910)}Where we hear a lot of Japanese ghost stories, right?
 Dialogue: 0,0:00:35.78,0:00:37.08,Endo,,0,0,0,,That's right
 Dialogue: 0,0:00:35.78,0:00:37.08,Tanaka,,0,0,0,,Yes
 Dialogue: 0,0:00:37.38,0:00:38.42,Hamada,,0,0,0,,Yeah
-Dialogue: 0,0:00:38.42,0:00:39.92,Matsumoto2,,0,0,0,,{\c&H000000&\pos(724.5,880)}How about{\alpha&HFF&} other countries?
-Dialogue: 0,0:00:39.92,0:00:43.59,Matsumoto2,,0,0,0,,{\c&H000000&\pos(724.5,880)}How about other countries?
+Dialogue: 0,0:00:38.42,0:00:39.92,Matsumoto2,,0,0,0,,{\c&H000000&\pos(966,880)}How about{\alpha&HFF&} other countries?
+Dialogue: 0,0:00:39.92,0:00:43.59,Matsumoto2,,0,0,0,,{\c&H000000&\pos(966,880)}How about other countries?
 Dialogue: 0,0:00:40.90,0:00:42.69,Tanaka,,0,0,0,,Now that I think about it...
 Dialogue: 0,0:00:41.90,0:00:43.90,Hosei,,0,0,0,,Never heard them
 Dialogue: 0,0:00:42.69,0:00:45.30,Matsumoto,,0,0,0,,I mean, I don't know much about it
@@ -79,30 +78,30 @@ Dialogue: 0,0:00:44.44,0:00:46.93,Hamada,,0,0,0,,Is there any to begin with?
 Dialogue: 0,0:00:45.30,0:00:46.93,Matsumoto,,0,0,0,,That's what I want to know
 Dialogue: 0,0:00:45.80,0:00:46.93,Tanaka,,0,0,0,,Yeah...
 Dialogue: 0,0:00:47.24,0:00:50.68,Normal,,0,0,0,,We've gathered TV stars from 6 different countries
-Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\fs45\c&H31FEF1&\pos(430,752)}World Ghost Stories Summit 2015
-Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\3c&H2D2D2D&\fs44\pos(720,856.667)}Foreign TV stars are going to present scary stories from their own country
-Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\3c&H2D2D2D&\fs44\pos(579,940.667)}Our members will pick the scariest one
+Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\fs45\c&H31FEF1&\pos(573.333,752)}World Ghost Stories Summit 2015
+Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\3c&H2D2D2D&\fs44\pos(960,856.667)}Foreign TV stars are going to present scary stories from their own country
+Dialogue: 0,0:00:49.10,0:00:55.44,Other1,,0,0,0,,{\fade(250,0)\3c&H2D2D2D&\fs44\pos(772,940.667)}Our members will pick the scariest one
 Dialogue: 0,0:00:50.68,0:00:55.08,Normal,,0,0,0,,To find out if scary stories from around the world are actually scary
 Dialogue: 0,0:00:55.44,0:00:59.51,Hamada,,0,0,0,,Our first guest is Hong Kong's representative, please come in
 Dialogue: 0,0:00:59.40,0:01:00.63,Hosei,,0,0,0,,Who is it gonna be?
 Dialogue: 0,0:01:06.24,0:01:09.94,Hamada,,0,0,0,,Our first guest is Agnes-chan
 Dialogue: 0,0:01:06.62,0:01:08.08,Hosei,,0,0,0,,Her face...
 Dialogue: 0,0:01:08.78,0:01:09.75,Hosei,,0,0,0,,I mean
-Dialogue: 0,0:01:09.75,0:01:11.19,Hosei,,0,0,0,,{\pos(720,932)}With that face?
-Dialogue: 0,0:01:11.19,0:01:13.39,Matsumoto,,0,0,0,,{\pos(720,932)}Is she trying to make us laugh?
+Dialogue: 0,0:01:09.75,0:01:11.19,Hosei,,0,0,0,,{\pos(960,932)}With that face?
+Dialogue: 0,0:01:11.19,0:01:13.39,Matsumoto,,0,0,0,,{\pos(960,932)}Is she trying to make us laugh?
 Dialogue: 0,0:01:12.10,0:01:12.88,Tanaka,,0,0,0,,Really
 Dialogue: 0,0:01:12.88,0:01:14.62,Hosei,,0,0,0,,Is that it?
 Dialogue: 0,0:01:13.48,0:01:14.62,Hamada,,0,0,0,,No way
 Dialogue: 0,0:01:14.62,0:01:18.33,Hamada,,0,0,0,,She'll tell us a scary story
 Dialogue: 0,0:01:16.60,0:01:18.33,Hosei,,0,0,0,,That's too much
 Dialogue: 0,0:01:18.83,0:01:30.91,Credits,,0,0,0,,Translation by {\3c&H0E98F0&}Shion {\fs34}(@FGRNDNoises)\N{\3c&H000000&\fs58}Typeset & QC by {\3c&H0E98F0&}Kedomas{\3c&H000000&}\N{\fs34\3c&HFF0009&\3a&H63&}shionnotsukai.wordpress.com | fb.com/shionnotsukai\Nko-fi.com/shionnotsukai | patreon.com/shionnotsukai
-Dialogue: 0,0:01:20.73,0:01:24.97,Default,,0,0,0,,{\fs65\bord3\shad3\fade(250,0)\pos(720,948)\c&H00AFF8&\4c&H0C2FED&\3c&HFFFFFF&\fnArial Rounded MT Bold}Downtown no Gaki no Tsukai Ya Arahende{\i1}!!
+Dialogue: 0,0:01:20.73,0:01:24.97,Default,,0,0,0,,{\fs65\bord3\shad3\fade(250,0)\pos(960,948)\c&H00AFF8&\4c&H0C2FED&\3c&HFFFFFF&\fnArial Rounded MT Bold}Downtown no Gaki no Tsukai Ya Arahende{\i1}!!
 Dialogue: 0,0:01:25.40,0:01:30.91,Other1,,0,0,0,,{\c&H04F0F0&}World Ghost Stories Summit begins!\NForeign TV stars are going to tell us scary stories!
 Dialogue: 0,0:01:31.64,0:01:35.10,Normal,,0,0,0,,Our representative from Hong Kong is Agnes-chan
-Dialogue: 0,0:01:32.08,0:01:35.85,Other2,,0,0,0,,{\fade(250,0)\pos(762,930)}Agnes-chan
-Dialogue: 0,0:01:32.08,0:01:35.85,Other2,,0,0,0,,{\c&HBABAB8&\3c&H000000&\fade(250,0)\3c&H000000&\pos(732.5,823.333)}China ・ Hong Kong Representative
-Dialogue: 0,0:01:36.21,0:01:45.82,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(721.5,912)}China, Hong Kong
-Dialogue: 0,0:01:42.02,0:01:45.82,Other3,,0,0,0,,{\blur2\move(1000.5,590,862.5,590,16,9785)}Which scary story...?
+Dialogue: 0,0:01:32.08,0:01:35.85,Other2,,0,0,0,,{\fade(250,0)\pos(1016,930)}Agnes-chan
+Dialogue: 0,0:01:32.08,0:01:35.85,Other2,,0,0,0,,{\c&HBABAB8&\3c&H000000&\fade(250,0)\3c&H000000&\pos(976.667,823.333)}China ・ Hong Kong Representative
+Dialogue: 0,0:01:36.21,0:01:45.82,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(962,912)}China, Hong Kong
+Dialogue: 0,0:01:42.02,0:01:45.82,Other3,,0,0,0,,{\blur2\move(1334,590,1150,590,16,9785)}Which scary story...?
 Dialogue: 0,0:01:36.26,0:01:41.32,Normal,,0,0,0,,A well-know country and one of the leading economic powers
 Dialogue: 0,0:01:41.32,0:01:45.20,Normal,,0,0,0,,But which scary story hides within it?
 Dialogue: 0,0:01:45.82,0:01:49.10,Matsumoto,,0,0,0,,A scary story from Hong Kong?
@@ -111,11 +110,11 @@ Dialogue: 0,0:01:53.00,0:01:59.50,Normal,,0,0,0,,This is a real story happened i
 Dialogue: 0,0:01:59.50,0:02:06.58,Normal,,0,0,0,,One night, there was a phone call in a\Ntearoom which was about to close
 Dialogue: 0,0:02:07.08,0:02:12.70,Normal,,0,0,0,,It went "ring ring ring",\Nand as the store manager answered
 Dialogue: 0,0:02:13.50,0:02:22.18,Normal,,0,0,0,,"I'd like to have... coffee... and sandwich... 3 of each, please"
-Dialogue: 0,0:02:32.37,0:02:33.77,Matsumoto,,0,0,0,,{\pos(741,556)}Huh?
+Dialogue: 0,0:02:32.37,0:02:33.77,Matsumoto,,0,0,0,,{\pos(988,556)}Huh?
 Dialogue: 0,0:02:33.58,0:02:35.22,Normal,,0,0,0,,The manager thought
 Dialogue: 0,0:02:35.22,0:02:41.24,Normal,,0,0,0,,"Who the hell makes calls this late?"\Nand set out to make the delivery
 Dialogue: 0,0:02:41.46,0:02:45.25,Normal,,0,0,0,,When he got to the house, he angrily knocked the door
-Dialogue: 0,0:02:42.65,0:04:55.18,Other1,,0,0,0,,{\fade(250,0)\pos(271.5,942)}Tearoom catering
+Dialogue: 0,0:02:42.65,0:04:55.18,Other1,,0,0,0,,{\fade(250,0)\pos(362,942)}Tearoom catering
 Dialogue: 0,0:02:45.25,0:02:50.26,Normal,,0,0,0,,And then, the door opened a bit
 Dialogue: 0,0:02:50.26,0:02:52.36,Normal,,0,0,0,,And a voice from inside
 Dialogue: 0,0:02:52.94,0:02:55.14,Normal,,0,0,0,,Told him "place them inside"
@@ -153,37 +152,37 @@ Dialogue: 0,0:04:53.78,0:04:55.18,Normal,,0,0,0,,And that's it
 Dialogue: 0,0:04:58.90,0:05:00.44,Matsumoto,,0,0,0,,What do you think?
 Dialogue: 0,0:05:00.82,0:05:03.15,Hamada,,0,0,0,,You said this really happened, right?
 Dialogue: 0,0:05:03.15,0:05:04.58,Normal,,0,0,0,,It's a famous story
-Dialogue: 0,0:05:05.62,0:05:07.59,Matsumoto,,0,0,0,,{\c&H4FFFFC&\3c&H000000&\pos(717,930)}"Golden coins"{\r} are something{\alpha&HFF&} I've heard before
-Dialogue: 0,0:05:07.59,0:05:09.76,Matsumoto,,0,0,0,,{\c&H4FFFFC&\3c&H000000&\pos(717,930)}"Golden coins"{\r} are something I've heard before
+Dialogue: 0,0:05:05.62,0:05:07.59,Matsumoto,,0,0,0,,{\c&H4FFFFC&\3c&H000000&\pos(956,930)}"Golden coins"{\r} are something{\alpha&HFF&} I've heard before
+Dialogue: 0,0:05:07.59,0:05:09.76,Matsumoto,,0,0,0,,{\c&H4FFFFC&\3c&H000000&\pos(956,930)}"Golden coins"{\r} are something I've heard before
 Dialogue: 0,0:05:08.74,0:05:12.16,Normal,,0,0,0,,That's right, when he got them at first they were normal money
 Dialogue: 0,0:05:12.16,0:05:16.20,Normal,,0,0,0,,But when he looked back at them later,\Nthey've turned into golden coins
 Dialogue: 0,0:05:14.98,0:05:16.20,Tanaka,,0,0,0,,They've changed
-Dialogue: 0,0:05:16.67,0:05:18.67,Hamada,,0,0,0,,{\pos(724.5,924)\blur3\c&HFF1211&\3c&HFFFFFF&}It's a scary story,{\r} you know
-Dialogue: 0,0:05:18.67,0:05:20.94,Hamada,,0,0,0,,{\pos(717,936)}Quit laughing around
+Dialogue: 0,0:05:16.67,0:05:18.67,Hamada,,0,0,0,,{\pos(966,924)\blur3\c&HFF1211&\3c&HFFFFFF&}It's a scary story,{\r} you know
+Dialogue: 0,0:05:18.67,0:05:20.94,Hamada,,0,0,0,,{\pos(956,936)}Quit laughing around
 Dialogue: 0,0:05:19.20,0:05:20.94,Matsumoto,,0,0,0,,You're giggling like crazy
 Dialogue: 0,0:05:21.36,0:05:22.46,Hamada,,0,0,0,,Not true
 Dialogue: 0,0:05:20.18,0:05:22.46,Hosei,,0,0,0,,You too, Hamada
-Dialogue: 0,0:05:23.74,0:05:25.18,Hosei,,0,0,0,,{\pos(720,932)\blur3\c&HCF0FCC&\3c&HFFFFFF&}Agnes...{\r} she was{\alpha&HFF&} laughing, wasn't she?
-Dialogue: 0,0:05:25.18,0:05:27.58,Hosei,,0,0,0,,{\pos(720,932)\blur3\c&HCF0FCC&\3c&HFFFFFF&}Agnes...{\r} she was laughing, wasn't she?
+Dialogue: 0,0:05:23.74,0:05:25.18,Hosei,,0,0,0,,{\pos(960,932)\blur3\c&HCF0FCC&\3c&HFFFFFF&}Agnes...{\r} she was{\alpha&HFF&} laughing, wasn't she?
+Dialogue: 0,0:05:25.18,0:05:27.58,Hosei,,0,0,0,,{\pos(960,932)\blur3\c&HCF0FCC&\3c&HFFFFFF&}Agnes...{\r} she was laughing, wasn't she?
 Dialogue: 0,0:05:22.46,0:05:23.74,Hamada,,0,0,0,,It was you
 Dialogue: 0,0:05:26.34,0:05:27.52,Matsumoto,,0,0,0,,No doubt about it
 Dialogue: 0,0:05:27.52,0:05:29.65,Hosei,,0,0,0,,What am I supposed to do?
 Dialogue: 0,0:05:28.00,0:05:29.65,Matsumoto,,0,0,0,,Why was she laughing?
-Dialogue: 0,0:05:29.65,0:05:33.12,Hamada,,0,0,0,,{\pos(718.5,930)\blur3\c&H35B032&\3c&HFFFFFF&}Yama-chan{\r} made her laugh
-Dialogue: 0,0:05:31.25,0:05:33.12,Normal,,0,0,0,,{\pos(718.5,820)}We started at the same time
+Dialogue: 0,0:05:29.65,0:05:33.12,Hamada,,0,0,0,,{\pos(958,930)\blur3\c&H35B032&\3c&HFFFFFF&}Yama-chan{\r} made her laugh
+Dialogue: 0,0:05:31.25,0:05:33.12,Normal,,0,0,0,,{\pos(958,820)}We started at the same time
 Dialogue: 0,0:05:32.64,0:05:33.46,Hosei,,0,0,0,,See?
 Dialogue: 0,0:05:33.46,0:05:36.28,Endo,,0,0,0,,She said at the same time
 Dialogue: 0,0:05:34.64,0:05:35.92,Hosei,,0,0,0,,Heard her?
-Dialogue: 0,0:05:35.92,0:05:40.76,Matsumoto,,0,0,0,,{\pos(778,822)}I think that's because when she entered
-Dialogue: 0,0:05:37.79,0:05:40.76,Matsumoto,,0,0,0,,{\pos(778,930)}she tried so hard to strike a scary look
+Dialogue: 0,0:05:35.92,0:05:40.76,Matsumoto,,0,0,0,,{\pos(1037.333,822)}I think that's because when she entered
+Dialogue: 0,0:05:37.79,0:05:40.76,Matsumoto,,0,0,0,,{\pos(1037.333,930)}she tried so hard to strike a scary look
 Dialogue: 0,0:05:38.92,0:05:40.76,Hamada,,0,0,0,,It makes sense
-Dialogue: 0,0:05:40.76,0:05:44.66,Matsumoto,,0,0,0,,{\fade(0,250)\pos(878.5,930)}The whole thing has become unbalanced since
+Dialogue: 0,0:05:40.76,0:05:44.66,Matsumoto,,0,0,0,,{\fade(0,250)\pos(1171.333,930)}The whole thing has become unbalanced since
 Dialogue: 0,0:05:43.00,0:05:44.66,Endo,,0,0,0,,You're right
 Dialogue: 0,0:05:43.56,0:05:44.96,Hamada,,0,0,0,,She did too much
 Dialogue: 0,0:05:45.62,0:05:49.88,Normal,,0,0,0,,Next up is a scary story from the U.S.A.
 Dialogue: 0,0:05:55.94,0:06:00.22,Hamada,,0,0,0,,Our U.S.A. representative is a comedian from Nabe Pro
-Dialogue: 0,0:05:57.31,0:06:02.55,Other2,,0,0,0,,{\fade(250,0)\pos(774,910)}Ike Nwala
-Dialogue: 0,0:05:57.31,0:06:02.55,Other2,,0,0,0,,{\c&HBABAB8&\3c&H000000&\fade(250,0)\pos(789,794)}U.S.A. Representative
+Dialogue: 0,0:05:57.31,0:06:02.55,Other2,,0,0,0,,{\fade(250,0)\pos(1032,910)}Ike Nwala
+Dialogue: 0,0:05:57.31,0:06:02.55,Other2,,0,0,0,,{\c&HBABAB8&\3c&H000000&\fade(250,0)\pos(1052,794)}U.S.A. Representative
 Dialogue: 0,0:06:00.22,0:06:02.22,Hamada,,0,0,0,,Mr. Ike Nwala
 Dialogue: 0,0:06:02.44,0:06:04.86,Hamada,,0,0,0,,Please tell us your scary story
 Dialogue: 0,0:06:08.42,0:06:13.32,Normal,,0,0,0,,This story is from the state of Wisconsin
@@ -191,7 +190,7 @@ Dialogue: 0,0:06:13.54,0:06:15.46,Normal,,0,0,0,,And it's about a little girl
 Dialogue: 0,0:06:15.88,0:06:18.43,Normal,,0,0,0,,So, there was this girl called Jane
 Dialogue: 0,0:06:18.66,0:06:23.53,Normal,,0,0,0,,She used to wear a yellow ribbon around her neck everyday
 Dialogue: 0,0:06:23.72,0:06:28.32,Normal,,0,0,0,,She knew a guy named Johnny, he was her best friend
-Dialogue: 0,0:06:24.87,0:07:24.06,Other1,,0,0,0,,{\fade(250,0)\pos(261,948)}Yellow ribbon
+Dialogue: 0,0:06:24.87,0:07:24.06,Other1,,0,0,0,,{\fade(250,0)\pos(348,948)}Yellow ribbon
 Dialogue: 0,0:06:28.32,0:06:34.54,Normal,,0,0,0,,Everyday Johnny asked Jane:\N"why do you wear that yellow ribbon?"
 Dialogue: 0,0:06:34.54,0:06:37.24,Normal,,0,0,0,,But Jane would never reply to that
 Dialogue: 0,0:06:37.60,0:06:41.44,Normal,,0,0,0,,When they grew up and became adults, they eventually got married
@@ -209,38 +208,38 @@ Dialogue: 0,0:07:13.96,0:07:15.18,Normal,,0,0,0,,"Take it away"
 Dialogue: 0,0:07:16.12,0:07:19.86,Normal,,0,0,0,,As Johnny unfastened the ribbon from her neck
 Dialogue: 0,0:07:19.86,0:07:21.86,Normal,,0,0,0,,Jane's head fell off
 Dialogue: 0,0:07:22.28,0:07:24.24,Normal,,0,0,0,,That's the story
-Dialogue: 0,0:07:29.77,0:07:33.24,Matsumoto,,0,0,0,,{\pos(714,934)}What a dynamic punch line!!
+Dialogue: 0,0:07:29.77,0:07:33.24,Matsumoto,,0,0,0,,{\pos(952,934)}What a dynamic punch line!!
 Dialogue: 0,0:07:30.60,0:07:31.80,Endo,,0,0,0,,Really
 Dialogue: 0,0:07:32.54,0:07:33.54,Hamada,,0,0,0,,That was sudden
 Dialogue: 0,0:07:33.54,0:07:35.84,Matsumoto,,0,0,0,,The ending is so dynamic
 Dialogue: 0,0:07:35.84,0:07:38.24,Tanaka,,0,0,0,,Incredible
 Dialogue: 0,0:07:36.42,0:07:38.24,Matsumoto,,0,0,0,,I see...
-Dialogue: 0,0:07:38.24,0:07:41.58,Tanaka,,0,0,0,,{\pos(720,928)}I don't think there are stories like this one in Japan
+Dialogue: 0,0:07:38.24,0:07:41.58,Tanaka,,0,0,0,,{\pos(960,928)}I don't think there are stories like this one in Japan
 Dialogue: 0,0:07:39.42,0:07:40.24,Hosei,,0,0,0,,Nope
 Dialogue: 0,0:07:40.24,0:07:43.08,Hosei,,0,0,0,,I mean, they don't usually
 Dialogue: 0,0:07:40.66,0:07:41.94,Hamada,,0,0,0,,You're right
-Dialogue: 0,0:07:43.08,0:07:47.45,Hosei,,0,0,0,,End with a {\c&H000000&\3c&HFFFFFF&\pos(720,916)}black humor{\r} feeling
+Dialogue: 0,0:07:43.08,0:07:47.45,Hosei,,0,0,0,,End with a {\c&H000000&\3c&HFFFFFF&\pos(960,916)}black humor{\r} feeling
 Dialogue: 0,0:07:44.72,0:07:47.45,Matsumoto,,0,0,0,,You're right
 Dialogue: 0,0:07:47.45,0:07:49.86,Hamada,,0,0,0,,It was easy to follow, I liked that
 Dialogue: 0,0:07:49.86,0:07:51.66,Hosei,,0,0,0,,Was it effective for you?
 Dialogue: 0,0:07:51.66,0:07:52.32,Matsumoto,,0,0,0,,Yeah
-Dialogue: 0,0:07:52.32,0:07:55.79,Matsumoto,,0,0,0,,{\pos(718.5,932)}You can tell it's from the U.S.A.
+Dialogue: 0,0:07:52.32,0:07:55.79,Matsumoto,,0,0,0,,{\pos(958,932)}You can tell it's from the U.S.A.
 Dialogue: 0,0:07:53.38,0:07:54.30,Hosei,,0,0,0,,Yes
 Dialogue: 0,0:07:54.30,0:07:55.79,Matsumoto,,0,0,0,,And that makes me wonder
-Dialogue: 0,0:07:55.79,0:07:58.56,Matsumoto,,0,0,0,,{\pos(855,928)}Maybe we didn't need Agnes to join us
+Dialogue: 0,0:07:55.79,0:07:58.56,Matsumoto,,0,0,0,,{\pos(1140,928)}Maybe we didn't need Agnes to join us
 Dialogue: 0,0:07:57.58,0:07:59.28,Endo,,0,0,0,,No way
 Dialogue: 0,0:07:59.28,0:08:01.97,Tanaka,,0,0,0,,She's from Hong Kong, it's different
 Dialogue: 0,0:08:00.44,0:08:01.97,Hamada,,0,0,0,,Of course we needed her
 Dialogue: 0,0:08:01.97,0:08:03.00,Hosei,,0,0,0,,But her face...
-Dialogue: 0,0:08:03.00,0:08:05.70,Hamada,,0,0,0,,{\fade(0,250)\pos(789,932)}That's just for show
+Dialogue: 0,0:08:03.00,0:08:05.70,Hamada,,0,0,0,,{\fade(0,250)\pos(1052,932)}That's just for show
 Dialogue: 0,0:08:06.10,0:08:10.00,Normal,,0,0,0,,Our next scary story is from Egypt
 Dialogue: 0,0:08:18.36,0:08:21.56,Hamada,,0,0,0,,Our representative from Egypt is miss Fifi
-Dialogue: 0,0:08:18.78,0:08:21.92,Other2,,0,0,0,,{\fade(250,0)\pos(774,904)}Fifi
-Dialogue: 0,0:08:18.78,0:08:21.92,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\fade(250,0)\pos(784.5,788)}Egypt Representative
+Dialogue: 0,0:08:18.78,0:08:21.92,Other2,,0,0,0,,{\fade(250,0)\pos(1032,904)}Fifi
+Dialogue: 0,0:08:18.78,0:08:21.92,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\fade(250,0)\pos(1046,788)}Egypt Representative
 Dialogue: 0,0:08:22.28,0:08:27.72,Normal,,0,0,0,,Egypt is the home of countless myths about pharaohs and curses
-Dialogue: 0,0:08:22.29,0:08:31.90,Other1,,0,0,0,,{\fade(250,0)\3c&H010053&\pos(682.5,912)}Egypt
+Dialogue: 0,0:08:22.29,0:08:31.90,Other1,,0,0,0,,{\fade(250,0)\3c&H010053&\pos(910,912)}Egypt
 Dialogue: 0,0:08:27.72,0:08:31.90,Normal,,0,0,0,,Which scary story are we going to listen to?
-Dialogue: 0,0:08:28.09,0:08:31.90,Other3,,0,0,0,,{\blur2\move(1000.5,590,862.5,590,16,9785)}Which scary story...?
+Dialogue: 0,0:08:28.09,0:08:31.90,Other3,,0,0,0,,{\blur2\move(1334,590,1150,590,16,9785)}Which scary story...?
 Dialogue: 0,0:08:34.52,0:08:37.72,Normal,,0,0,0,,I think you all already know this...
 Dialogue: 0,0:08:37.72,0:08:44.18,Normal,,0,0,0,,But if we talk about Egypt you can easily picture stories of pharaohs such as Tutankhamon
 Dialogue: 0,0:08:44.18,0:08:48.86,Normal,,0,0,0,,Such as myths about cobras attacking you if you get close to a pharaoh's tomb
@@ -251,7 +250,7 @@ Dialogue: 0,0:09:03.49,0:09:05.38,Normal,,0,0,0,,White dwarfs
 Dialogue: 0,0:09:04.30,0:09:05.38,Matsumoto,,0,0,0,,Dwarfs?
 Dialogue: 0,0:09:05.38,0:09:07.16,Normal,,0,0,0,,I don't think I was the only one
 Dialogue: 0,0:09:07.16,0:09:12.34,Normal,,0,0,0,,But since I was little, whenever I saw a white dwarf, something good would happen
-Dialogue: 0,0:09:08.67,0:11:10.79,Other1,,0,0,0,,{\fade(250,0)\pos(214.5,942)}White dwarf
+Dialogue: 0,0:09:08.67,0:11:10.79,Other1,,0,0,0,,{\fade(250,0)\pos(286,942)}White dwarf
 Dialogue: 0,0:09:12.34,0:09:16.02,Normal,,0,0,0,,It was a long time ago, from when I was a high schooler
 Dialogue: 0,0:09:16.02,0:09:18.88,Normal,,0,0,0,,That day I thought "it's been a while since I last saw one"
 Dialogue: 0,0:09:19.34,0:09:20.66,Normal,,0,0,0,,And then
@@ -287,26 +286,26 @@ Dialogue: 0,0:11:09.32,0:11:10.79,Normal,,0,0,0,,The end
 Dialogue: 0,0:11:14.94,0:11:17.43,Matsumoto,,0,0,0,,What do you think about it?
 Dialogue: 0,0:11:17.68,0:11:20.33,Normal,,0,0,0,,More than "white dwarf", I'd say "small dwarf"
 Dialogue: 0,0:11:19.38,0:11:20.33,Matsumoto,,0,0,0,,You know
-Dialogue: 0,0:11:20.33,0:11:26.17,Matsumoto,,0,0,0,,I thought you said {\pos(720,924)\3c&H000000&\blur3}shiroi koibito{\r} at first
+Dialogue: 0,0:11:20.33,0:11:26.17,Matsumoto,,0,0,0,,I thought you said {\pos(960,924)\3c&H000000&\blur3}shiroi koibito{\r} at first
 Dialogue: 0,0:11:22.22,0:11:26.40,Endo,,0,0,0,,That sweet from Hokkaido?
 Dialogue: 0,0:11:23.18,0:11:26.40,Matsumoto,,0,0,0,,It's a traditional Hokkaido biscuit
 Dialogue: 0,0:11:27.22,0:11:31.42,Normal,,0,0,0,,Next up is a scary story from Guinea, Africa
 Dialogue: 0,0:11:36.56,0:11:40.88,Hamada,,0,0,0,,Our representative from Guinea is mr. Sankhon Ousmane
-Dialogue: 0,0:11:40.75,0:11:42.55,Other2,,0,0,0,,{\pos(760.5,930)}Sankhon Ousmane
-Dialogue: 0,0:11:40.75,0:11:42.55,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\pos(778.5,828)}Guinea Representative
-Dialogue: 0,0:11:45.66,0:11:55.30,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(663,914)}Guinea
+Dialogue: 0,0:11:40.75,0:11:42.55,Other2,,0,0,0,,{\pos(1014,930)}Sankhon Ousmane
+Dialogue: 0,0:11:40.75,0:11:42.55,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\pos(1038,828)}Guinea Representative
+Dialogue: 0,0:11:45.66,0:11:55.30,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(884,914)}Guinea
 Dialogue: 0,0:11:45.74,0:11:48.22,Normal,,0,0,0,,Guinea occupies the western edge of Africa
 Dialogue: 0,0:11:48.22,0:11:54.62,Normal,,0,0,0,,And lots of different tribes live in its vast pristine nature: which story are we going to listen to?
-Dialogue: 0,0:11:51.49,0:11:55.30,Other3,,0,0,0,,{\blur2\move(1000.5,590,862.5,590,16,9785)}Which scary story...?
+Dialogue: 0,0:11:51.49,0:11:55.30,Other3,,0,0,0,,{\blur2\move(1334,590,1150,590,16,9785)}Which scary story...?
 Dialogue: 0,0:11:57.96,0:12:00.18,Normal,,0,0,0,,This story...
 Dialogue: 0,0:12:00.52,0:12:05.84,Normal,,0,0,0,,It's a fairly popular scary story in Guinea,\Nwhich is in western Africa
 Dialogue: 0,0:12:06.14,0:12:07.88,Normal,,0,0,0,,It's about a funeral
 Dialogue: 0,0:12:07.88,0:12:10.90,Normal,,0,0,0,,In Guinea, when someone dies
 Dialogue: 0,0:12:11.62,0:12:13.35,Normal,,0,0,0,,We bury them
 Dialogue: 0,0:12:13.35,0:12:16.74,Normal,,0,0,0,,You burn your dead in Japan, we bury ours in Guinea
-Dialogue: 0,0:12:13.72,0:12:20.29,Other3,,0,0,0,,{\fade(250,250)\pos(720,920)\c&HFFFFFF&\3c&H000000&}In Guinea, they usually bury their dead
+Dialogue: 0,0:12:13.72,0:12:20.29,Other3,,0,0,0,,{\fade(250,250)\pos(960,920)\c&HFFFFFF&\3c&H000000&}In Guinea, they usually bury their dead
 Dialogue: 0,0:12:17.06,0:12:25.18,Normal,,0,0,0,,As a tradition, from when the dead is placed inside the coffin\Nuntil the burial is completed, you must not turn around
-Dialogue: 0,0:12:26.26,0:13:25.22,Other1,,0,0,0,,{\fade(250,0)\pos(367.5,942)}Don't turn around
+Dialogue: 0,0:12:26.26,0:13:25.22,Other1,,0,0,0,,{\fade(250,0)\pos(490,942)}Don't turn around
 Dialogue: 0,0:12:26.64,0:12:32.32,Normal,,0,0,0,,That's because it will disturb its ghost.\NSo, one day an eminent man died
 Dialogue: 0,0:12:32.76,0:12:34.64,Normal,,0,0,0,,And after his burial
 Dialogue: 0,0:12:35.50,0:12:39.08,Normal,,0,0,0,,Everyone thought it was time to go home, but one man
@@ -315,9 +314,9 @@ Dialogue: 0,0:12:44.92,0:12:47.34,Normal,,0,0,0,,Something kept on pulling him
 Dialogue: 0,0:12:47.82,0:12:50.28,Normal,,0,0,0,,But no one could turn around to see it
 Dialogue: 0,0:12:50.62,0:12:52.64,Normal,,0,0,0,,And for half a day
 Dialogue: 0,0:12:52.64,0:12:56.28,Normal,,0,0,0,,He stood still, quibering
-Dialogue: 0,0:12:56.83,0:12:58.39,Hamada,,0,0,0,,{\pos(969,642)}Hm?
+Dialogue: 0,0:12:56.83,0:12:58.39,Hamada,,0,0,0,,{\pos(1292,642)}Hm?
 Dialogue: 0,0:12:58.24,0:13:00.13,Normal,,0,0,0,,Quivering
-Dialogue: 0,0:13:00.13,0:13:02.30,Matsumoto,,0,0,0,,{\pos(999,926)}"Half a day"...?
+Dialogue: 0,0:13:00.13,0:13:02.30,Matsumoto,,0,0,0,,{\pos(1332,926)}"Half a day"...?
 Dialogue: 0,0:13:00.28,0:13:01.50,Endo,,0,0,0,,Half day
 Dialogue: 0,0:13:01.50,0:13:04.88,Normal,,0,0,0,,And then he-- all time---
 Dialogue: 0,0:13:04.88,0:13:08.34,Normal,,0,0,0,,When he turned around, no one was there
@@ -327,22 +326,22 @@ Dialogue: 0,0:13:13.48,0:13:16.08,Normal,,0,0,0,,This is not a story to laugh ab
 Dialogue: 0,0:13:16.08,0:13:23.05,Normal,,0,0,0,,When he got back home, all the houses in the village were burnt in a violent fire
 Dialogue: 0,0:13:23.90,0:13:25.22,Normal,,0,0,0,,It's over
 Dialogue: 0,0:13:28.22,0:13:30.90,Hosei,,0,0,0,,It was kinda scary...
-Dialogue: 0,0:13:31.63,0:13:34.50,Matsumoto,,0,0,0,,{\pos(720,928)}It had a sort of double turn
+Dialogue: 0,0:13:31.63,0:13:34.50,Matsumoto,,0,0,0,,{\pos(960,928)}It had a sort of double turn
 Dialogue: 0,0:13:32.18,0:13:34.50,Hosei,,0,0,0,,Yeah, kinda
-Dialogue: 0,0:13:34.86,0:13:39.27,Matsumoto,,0,0,0,,{\pos(720,928)}But in a way it has{\blur3\c&H1435EA&\3c&HFFFFFF&} a happy end,{\r} didn't it?
+Dialogue: 0,0:13:34.86,0:13:39.27,Matsumoto,,0,0,0,,{\pos(960,928)}But in a way it has{\blur3\c&H1435EA&\3c&HFFFFFF&} a happy end,{\r} didn't it?
 Dialogue: 0,0:13:36.60,0:13:38.26,Hosei,,0,0,0,,H-happy...?
-Dialogue: 0,0:13:39.27,0:13:42.00,Hosei,,0,0,0,,{\pos(720,928)\blur3\3c&HFFFFFF&\c&H11980D&}It's not a happy{\r} story, is it?
+Dialogue: 0,0:13:39.27,0:13:42.00,Hosei,,0,0,0,,{\pos(960,928)\blur3\3c&HFFFFFF&\c&H11980D&}It's not a happy{\r} story, is it?
 Dialogue: 0,0:13:44.72,0:13:46.31,Matsumoto,,0,0,0,,What the-?
 Dialogue: 0,0:13:45.14,0:13:46.31,Endo,,0,0,0,,Matsumoto?
-Dialogue: 0,0:13:46.31,0:13:49.05,Matsumoto,,0,0,0,,{\pos(720,928)}Is him our most non-responding guest or what?
+Dialogue: 0,0:13:46.31,0:13:49.05,Matsumoto,,0,0,0,,{\pos(960,928)}Is him our most non-responding guest or what?
 Dialogue: 0,0:13:49.62,0:13:53.98,Normal,,0,0,0,,Next up is a scary story from Nigeria, Africa
 Dialogue: 0,0:14:01.86,0:14:03.18,Matsumoto,,0,0,0,,Nice dress
 Dialogue: 0,0:14:03.18,0:14:07.43,Hamada,,0,0,0,,Our representative from Nigeria is Mr. Bobby Ologon
-Dialogue: 0,0:14:05.49,0:14:07.43,Other2,,0,0,0,,{\fade(250,0)\pos(775.5,924)}Bobby Ologon
-Dialogue: 0,0:14:05.49,0:14:07.43,Other1,,0,0,0,,{\c&HBABAB8&\fade(250,0)\pos(783,824)}Nigeria Representative
+Dialogue: 0,0:14:05.49,0:14:07.43,Other2,,0,0,0,,{\fade(250,0)\pos(1034,924)}Bobby Ologon
+Dialogue: 0,0:14:05.49,0:14:07.43,Other1,,0,0,0,,{\c&HBABAB8&\fade(250,0)\pos(1044,824)}Nigeria Representative
 Dialogue: 0,0:14:07.66,0:14:11.42,Normal,,0,0,0,,Nigeria is the most populated country in Africa
-Dialogue: 0,0:14:07.76,0:14:17.41,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(732,914)}Nigeria
-Dialogue: 0,0:14:13.60,0:14:17.41,Other3,,0,0,0,,{\blur2\move(1000.5,590,862.5,590,16,9785)}Which scary story...?
+Dialogue: 0,0:14:07.76,0:14:17.41,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(976,914)}Nigeria
+Dialogue: 0,0:14:13.60,0:14:17.41,Other3,,0,0,0,,{\blur2\move(1334,590,1150,590,16,9785)}Which scary story...?
 Dialogue: 0,0:14:11.42,0:14:17.12,Normal,,0,0,0,,Which scary story is from this country of repeated civil wars?
 Dialogue: 0,0:14:18.42,0:14:20.36,Normal,,0,0,0,,Thank you for having me
 Dialogue: 0,0:14:21.42,0:14:28.30,Normal,,0,0,0,,This is a real scary story which is\Nstill happening in Nigeria nowadays
@@ -351,7 +350,7 @@ Dialogue: 0,0:14:32.10,0:14:36.86,Normal,,0,0,0,,The elbowrun granny is really f
 Dialogue: 0,0:14:37.06,0:14:40.46,Normal,,0,0,0,,It's said to be faster than a Ferrari
 Dialogue: 0,0:14:40.46,0:14:44.80,Normal,,0,0,0,,It's a granny who could run up to 300km/h
 Dialogue: 0,0:14:45.20,0:14:50.84,Normal,,0,0,0,,This granny's story started a long time ago,\Nwhen she married a king
-Dialogue: 0,0:14:48.67,0:17:12.35,Other1,,0,0,0,,{\fade(250,0)\pos(406.5,950)}300kmh fast granny
+Dialogue: 0,0:14:48.67,0:17:12.35,Other1,,0,0,0,,{\fade(250,0)\pos(542,950)}300kmh fast granny
 Dialogue: 0,0:14:51.20,0:14:53.36,Normal,,0,0,0,,This king
 Dialogue: 0,0:14:54.22,0:14:56.48,Normal,,0,0,0,,He was kind to her
 Dialogue: 0,0:14:56.48,0:15:01.86,Normal,,0,0,0,,And still, he eventually got a second wife
@@ -382,7 +381,7 @@ Dialogue: 0,0:16:26.28,0:16:28.68,Normal,,0,0,0,,The old fortune-teller
 Dialogue: 0,0:16:28.68,0:16:32.84,Normal,,0,0,0,,Said "your previous wife is filled with rage"
 Dialogue: 0,0:16:33.20,0:16:36.12,Normal,,0,0,0,,"If you don't do anything about it"
 Dialogue: 0,0:16:36.12,0:16:40.50,Normal,,0,0,0,,"The village is going to be destroyed"
-Dialogue: 0,0:16:39.62,0:16:42.65,Hamada,,0,0,0,,{\pos(1066.5,780)}He's not in the role at all
+Dialogue: 0,0:16:39.62,0:16:42.65,Hamada,,0,0,0,,{\pos(1422,780)}He's not in the role at all
 Dialogue: 0,0:16:41.02,0:16:43.36,Normal,,0,0,0,,"But what should I do?"
 Dialogue: 0,0:16:43.36,0:16:47.14,Normal,,0,0,0,,And so it was decided
 Dialogue: 0,0:16:47.78,0:16:52.48,Normal,,0,0,0,,That each year, 7 young male virgins
@@ -391,50 +390,50 @@ Dialogue: 0,0:16:57.42,0:16:58.67,Normal,,0,0,0,,Anyway
 Dialogue: 0,0:16:58.67,0:17:02.26,Normal,,0,0,0,,For now let's offer these 7 virgins
 Dialogue: 0,0:17:02.26,0:17:09.68,Normal,,0,0,0,,And so she can kill them and have her anger eased
 Dialogue: 0,0:17:09.68,0:17:12.35,Normal,,0,0,0,,This was the elbowrun granny's tale
-Dialogue: 0,0:17:15.79,0:17:20.49,Hamada,,0,0,0,,{\pos(643.5,830)}I have no idea what he's
-Dialogue: 0,0:17:16.75,0:17:20.49,Hamada,,0,0,0,,{\pos(666,934)}been talking about all the time
+Dialogue: 0,0:17:15.79,0:17:20.49,Hamada,,0,0,0,,{\pos(858,830)}I have no idea what he's
+Dialogue: 0,0:17:16.75,0:17:20.49,Hamada,,0,0,0,,{\pos(888,934)}been talking about all the time
 Dialogue: 0,0:17:16.78,0:17:20.49,Endo,,0,0,0,,Sorry about this, Bobby
 Dialogue: 0,0:17:19.30,0:17:20.49,Hosei,,0,0,0,,First of all...
-Dialogue: 0,0:17:20.49,0:17:24.53,Hosei,,0,0,0,,{\pos(710,929.333)}First of all,{\c&H1A9412&\3c&HFFFFFF&\blur3} what granny{\r} did he say?
+Dialogue: 0,0:17:20.49,0:17:24.53,Hosei,,0,0,0,,{\pos(946.667,929.333)}First of all,{\c&H1A9412&\3c&HFFFFFF&\blur3} what granny{\r} did he say?
 Dialogue: 0,0:17:22.94,0:17:24.53,Endo,,0,0,0,,Was it red-row granny?
 Dialogue: 0,0:17:24.16,0:17:26.63,Normal,,0,0,0,,It's elbowrun granny
 Dialogue: 0,0:17:25.40,0:17:26.63,Endo,,0,0,0,,Come again?
-Dialogue: 0,0:17:26.63,0:17:31.00,Normal,,0,0,0,,{\pos(763.5,932)}It's a granny who runs{\alpha&HFF&} using her elbows
-Dialogue: 0,0:17:27.93,0:17:31.00,Normal,,0,0,0,,{\pos(763.5,932)}It's a granny who runs using her elbows
+Dialogue: 0,0:17:26.63,0:17:31.00,Normal,,0,0,0,,{\pos(1018,932)}It's a granny who runs{\alpha&HFF&} using her elbows
+Dialogue: 0,0:17:27.93,0:17:31.00,Normal,,0,0,0,,{\pos(1018,932)}It's a granny who runs using her elbows
 Dialogue: 0,0:17:28.46,0:17:31.00,Matsumoto,,0,0,0,,Ah, she ran with her elbows?!
 Dialogue: 0,0:17:29.62,0:17:31.00,Endo,,0,0,0,,Elbow-running, I see
 Dialogue: 0,0:17:31.00,0:17:33.20,Endo,,0,0,0,,And she's 300km/h fast, right?
 Dialogue: 0,0:17:31.60,0:17:33.20,Normal,,0,0,0,,Yes, yes
-Dialogue: 0,0:17:33.20,0:17:38.31,Hamada,,0,0,0,,{\pos(424.5,812)}It's supposed to be a scary story
-Dialogue: 0,0:17:35.00,0:17:38.31,Hamada,,0,0,0,,{\pos(714,936)}But you said {\c&HFF1619&\3c&HFFFFFF&\blur3\pos(705,940)}"if she goes lock-on on you"{\r} and stuff
-Dialogue: 0,0:17:38.31,0:17:42.45,Matsumoto,,0,0,0,,{\pos(717,928)}You can't just go and use english there
+Dialogue: 0,0:17:33.20,0:17:38.31,Hamada,,0,0,0,,{\pos(566,812)}It's supposed to be a scary story
+Dialogue: 0,0:17:35.00,0:17:38.31,Hamada,,0,0,0,,{\pos(952,936)}But you said {\c&HFF1619&\3c&HFFFFFF&\blur3\pos(940,940)}"if she goes lock-on on you"{\r} and stuff
+Dialogue: 0,0:17:38.31,0:17:42.45,Matsumoto,,0,0,0,,{\pos(956,928)}You can't just go and use english there
 Dialogue: 0,0:17:39.34,0:17:42.45,Hamada,,0,0,0,,He's right, that's no good
-Dialogue: 0,0:17:42.45,0:17:48.68,Matsumoto,,0,0,0,,{\pos(744,834)}He realized halfway through it that we weren't following
-Dialogue: 0,0:17:44.78,0:17:48.68,Matsumoto,,0,0,0,,{\blur3\c&H0E36EE&\3c&HFFFFFF&\pos(489,936)}And just gave up{\r} trying
+Dialogue: 0,0:17:42.45,0:17:48.68,Matsumoto,,0,0,0,,{\pos(992,834)}He realized halfway through it that we weren't following
+Dialogue: 0,0:17:44.78,0:17:48.68,Matsumoto,,0,0,0,,{\blur3\c&H0E36EE&\3c&HFFFFFF&\pos(652,936)}And just gave up{\r} trying
 Dialogue: 0,0:17:46.40,0:17:48.12,Endo,,0,0,0,,Eh? Really?
 Dialogue: 0,0:17:46.78,0:17:48.52,Normal,,0,0,0,,That's not true
 Dialogue: 0,0:17:48.12,0:17:51.82,Matsumoto,,0,0,0,,He started talking like "yeah, whatever"
 Dialogue: 0,0:17:49.18,0:17:51.82,Normal,,0,0,0,,It's not true
-Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\pos(736.5,932)\3c&HA8587F&\blur3\bord8\shad0\fs65\t(0,9000,\fs85)}The last storyteller narrates something absurd
-Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\pos(736.5,932)\shad0\blur3\4c&HA8587F&\fs65\t(0,9000,\fs85)}The last storyteller narrates something absurd
-Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\3c&HA8587F&\blur3\bord8\shad0\fs40\t(0,9000,\fs80)\pos(211.5,846)}Coming up
-Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\c&HA8587F&\shad0\blur3\fs40\t(0,9000,\fs80)\c&H000000&\pos(211.5,846)}Coming up
+Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\pos(982,932)\3c&HA8587F&\blur3\bord8\shad0\fs65\t(0,9000,\fs85)}The last storyteller narrates something absurd
+Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\pos(982,932)\shad0\blur3\4c&HA8587F&\fs65\t(0,9000,\fs85)}The last storyteller narrates something absurd
+Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\3c&HA8587F&\blur3\bord8\shad0\fs40\t(0,9000,\fs80)\pos(282,846)}Coming up
+Dialogue: 0,0:17:49.32,0:17:51.82,Other3,,0,0,0,,{\c&HA8587F&\shad0\blur3\fs40\t(0,9000,\fs80)\c&H000000&\pos(282,846)}Coming up
 Dialogue: 0,0:17:52.16,0:17:54.14,Hamada,,0,0,0,,Our sixth guest will be our last one
 Dialogue: 0,0:17:54.14,0:17:58.92,Hamada,,0,0,0,,Our staff held an audition for foreigners living in Japan
-Dialogue: 0,0:17:57.23,0:18:05.77,Other1,,0,0,0,,{\3c&H2D2D2D&\fade(250,0)\fs46\pos(706.5,945.333)}They chose a foreigner living in Japan whose scary story\N\N\Nbest represents the country from where they come from
-Dialogue: 0,0:17:57.23,0:18:05.77,Other1,,0,0,0,,{\c&H31FEF1&\3c&H000000&\fade(250,0)\fs50\pos(328.5,750)}Last Storyteller
+Dialogue: 0,0:17:57.23,0:18:05.77,Other1,,0,0,0,,{\3c&H2D2D2D&\fade(250,0)\fs46\pos(942,945.333)}They chose a foreigner living in Japan whose scary story\N\N\Nbest represents the country from where they come from
+Dialogue: 0,0:17:57.23,0:18:05.77,Other1,,0,0,0,,{\c&H31FEF1&\3c&H000000&\fade(250,0)\fs50\pos(438,750)}Last Storyteller
 Dialogue: 0,0:17:58.92,0:18:03.86,Hamada,,0,0,0,,And chose the one whose story best represents their home country
 Dialogue: 0,0:18:03.08,0:18:05.77,Matsumoto,,0,0,0,,Ah, so it's not a famous person?
 Dialogue: 0,0:18:03.86,0:18:05.77,Hamada,,0,0,0,,That's right
 Dialogue: 0,0:18:10.80,0:18:11.76,Hamada,,0,0,0,,Please
 Dialogue: 0,0:18:11.76,0:18:14.92,Hamada,,0,0,0,,Mr. Alif is our representative from Bangladesh
-Dialogue: 0,0:18:12.58,0:18:15.41,Other2,,0,0,0,,{\fade(250,0)\pos(729,900)}Alif
-Dialogue: 0,0:18:12.58,0:18:15.41,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\fade(250,0)\pos(726,784)}Bangladesh Representative
+Dialogue: 0,0:18:12.58,0:18:15.41,Other2,,0,0,0,,{\fade(250,0)\pos(972,900)}Alif
+Dialogue: 0,0:18:12.58,0:18:15.41,Other2,,0,0,0,,{\c&HBABAB8&\bord3\shad0\3c&H000000&\fade(250,0)\pos(968,784)}Bangladesh Representative
 Dialogue: 0,0:18:15.41,0:18:18.15,Hamada,,0,0,0,,It's a pleasure to have you here
 Dialogue: 0,0:18:18.50,0:18:22.52,Normal,,0,0,0,,Bangladesh, a symbol of India
-Dialogue: 0,0:18:18.51,0:18:28.12,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(807,910)}Bangladesh
+Dialogue: 0,0:18:18.51,0:18:28.12,Other1,,0,0,0,,{\3c&H010053&\fade(250,0)\pos(1076,910)}Bangladesh
 Dialogue: 0,0:18:22.86,0:18:27.56,Normal,,0,0,0,,Which scary story is born in this land?
-Dialogue: 0,0:18:24.32,0:18:28.12,Other3,,0,0,0,,{\blur2\move(1000.5,590,862.5,590,16,9785)}Which scary story...?
+Dialogue: 0,0:18:24.32,0:18:28.12,Other3,,0,0,0,,{\blur2\move(1334,590,1150,590,16,9785)}Which scary story...?
 Dialogue: 0,0:18:27.92,0:18:31.09,Hamada,,0,0,0,,You can start telling your scary story
 Dialogue: 0,0:18:31.28,0:18:35.46,Normal,,0,0,0,,This is a very famous story in Bangladesh
 Dialogue: 0,0:18:36.07,0:18:39.20,Normal,,0,0,0,,I first heard it when I got back to my country during Summer break
@@ -484,7 +483,7 @@ Dialogue: 0,0:21:12.48,0:21:15.76,Normal,,0,0,0,,I was so scared, that town--- m
 Dialogue: 0,0:21:15.76,0:21:20.56,Normal,,0,0,0,,"Get back home as soon as possible, get safe inside"
 Dialogue: 0,0:21:20.56,0:21:21.36,Normal,,0,0,0,,The end
 Dialogue: 0,0:21:21.36,0:21:23.00,Hamada,,0,0,0,,What the--!?
-Dialogue: 0,0:21:24.30,0:21:27.04,Hamada,,0,0,0,,{\pos(720,934)}The hell was that story about?!
+Dialogue: 0,0:21:24.30,0:21:27.04,Hamada,,0,0,0,,{\pos(960,934)}The hell was that story about?!
 Dialogue: 0,0:21:26.32,0:21:29.02,Matsumoto,,0,0,0,,"The end" was so sudden
 Dialogue: 0,0:21:28.42,0:21:30.06,Hosei,,0,0,0,,Really unexpected
 Dialogue: 0,0:21:29.02,0:21:32.27,Normal,,0,0,0,,Lots of people saw that too
@@ -497,62 +496,62 @@ Dialogue: 0,0:21:38.25,0:21:40.94,Normal,,0,0,0,,You know? On the countryside we
 Dialogue: 0,0:21:40.94,0:21:42.54,Normal,,0,0,0,,They're like
 Dialogue: 0,0:21:42.54,0:21:46.06,Normal,,0,0,0,,Big horse heads shining like diamonds
 Dialogue: 0,0:21:46.06,0:21:49.49,Normal,,0,0,0,,So I got back home and was like "woah, uhg! I can't ohhhh"
-Dialogue: 0,0:21:49.49,0:21:52.33,Hamada,,0,0,0,,{\pos(720,930)}Once again: what the hell are you sayin'?
+Dialogue: 0,0:21:49.49,0:21:52.33,Hamada,,0,0,0,,{\pos(960,930)}Once again: what the hell are you sayin'?
 Dialogue: 0,0:21:51.29,0:21:53.56,Endo,,0,0,0,,We don't have much time left, mr. Alif
 Dialogue: 0,0:21:53.56,0:21:55.60,Endo,,0,0,0,,It's time to go
 Dialogue: 0,0:21:54.10,0:21:55.60,Matsumoto,,0,0,0,,Yeah, right
-Dialogue: 0,0:21:55.60,0:21:57.73,Matsumoto,,0,0,0,,{\pos(720,932)}This can't even count as a spin-off
+Dialogue: 0,0:21:55.60,0:21:57.73,Matsumoto,,0,0,0,,{\pos(960,932)}This can't even count as a spin-off
 Dialogue: 0,0:21:57.82,0:22:00.48,Matsumoto,,0,0,0,,We barely got anything out of his story
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(258,478)\fs45}Tearoom Catering
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(724.5,478)\fs45}Yellow Ribbon
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(1179,476)\fs45}White Dwarf
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(265.5,972)\fs45}Don't turn around
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(721.5,966)\fs45}300kmh fast granny
-Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(1189.5,966)\fs45}Ghost Lady Pori
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(255,396)\fs45}China - Hong Kong
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(699,396)\fs45}U.S.A.
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(1156.5,396)\fs45}Egypt
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(232.5,882)\fs45}Guinea
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(714,882)\fs45}Nigeria
-Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(1170,886)\fs45}Bangladesh
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(344,478)\fs45}Tearoom Catering
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(966,478)\fs45}Yellow Ribbon
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(1572,476)\fs45}White Dwarf
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(354,972)\fs45}Don't turn around
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(962,966)\fs45}300kmh fast granny
+Dialogue: 0,0:22:00.87,0:22:07.61,Other2,,0,0,0,,{\c&H000000&\3c&H56FCFC&\pos(1586,966)\fs45}Ghost Lady Pori
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(340,396)\fs45}China - Hong Kong
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(932,396)\fs45}U.S.A.
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(1542,396)\fs45}Egypt
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(310,882)\fs45}Guinea
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(952,882)\fs45}Nigeria
+Dialogue: 0,0:22:00.87,0:22:07.61,Other1,,0,0,0,,{\3c&H010053&\pos(1560,886)\fs45}Bangladesh
 Dialogue: 0,0:22:00.87,0:22:03.64,Normal,,0,0,0,,Here are the scary stories told by our six guests
 Dialogue: 0,0:22:03.64,0:22:07.61,Normal,,0,0,0,,Now they'll decide which one told the scariest one
 Dialogue: 0,0:22:07.61,0:22:08.44,Hamada,,0,0,0,,Lastly
-Dialogue: 0,0:22:08.44,0:22:12.05,Hamada,,0,0,0,,{\pos(613.5,836)}Keep in mind that the winner
-Dialogue: 0,0:22:09.65,0:22:12.05,Hamada,,0,0,0,,{\pos(706.5,942)}we pick, the one with the scariest story
-Dialogue: 0,0:22:12.05,0:22:15.02,Hamada,,0,0,0,,{\pos(747,932)}Will tell us the same story{\alpha&HFF&\c&HEE1518&\3c&HFFFFFF&\blur3} in their mother tongue
-Dialogue: 0,0:22:15.02,0:22:17.09,Hamada,,0,0,0,,{\pos(747,932)}Will tell us the same story{\c&HEE1518&\3c&HFFFFFF&\blur3} in their mother tongue
+Dialogue: 0,0:22:08.44,0:22:12.05,Hamada,,0,0,0,,{\pos(818,836)}Keep in mind that the winner
+Dialogue: 0,0:22:09.65,0:22:12.05,Hamada,,0,0,0,,{\pos(942,942)}we pick, the one with the scariest story
+Dialogue: 0,0:22:12.05,0:22:15.02,Hamada,,0,0,0,,{\pos(996,932)}Will tell us the same story{\alpha&HFF&\c&HEE1518&\3c&HFFFFFF&\blur3} in their mother tongue
+Dialogue: 0,0:22:15.02,0:22:17.09,Hamada,,0,0,0,,{\pos(996,932)}Will tell us the same story{\c&HEE1518&\3c&HFFFFFF&\blur3} in their mother tongue
 Dialogue: 0,0:22:15.68,0:22:17.09,Matsumoto,,0,0,0,,Mother tongue?
 Dialogue: 0,0:22:17.09,0:22:19.19,Endo,,0,0,0,,Mother tongue? Why?
 Dialogue: 0,0:22:17.70,0:22:19.19,Matsumoto,,0,0,0,,Are we in hell?
 Dialogue: 0,0:22:19.19,0:22:22.38,Matsumoto,,0,0,0,,I'm sorry for Ike, I really liked his story
-Dialogue: 0,0:22:22.66,0:22:27.73,Matsumoto,,0,0,0,,{\pos(756,936)}But he's from the U.S.A., so in english...
+Dialogue: 0,0:22:22.66,0:22:27.73,Matsumoto,,0,0,0,,{\pos(1008,936)}But he's from the U.S.A., so in english...
 Dialogue: 0,0:22:25.62,0:22:26.94,Hamada,,0,0,0,,Yeah, I know
 Dialogue: 0,0:22:26.94,0:22:30.13,Hosei,,0,0,0,,We would sorta understand, more or less
 Dialogue: 0,0:22:28.10,0:22:30.13,Matsumoto,,0,0,0,,Yeah, that's it
-Dialogue: 0,0:22:30.13,0:22:34.17,Hamada,,0,0,0,,{\pos(731,932)}How about{\c&HEE1518&\3c&HFFFFFF&\blur3} our last guest{\r} then?
+Dialogue: 0,0:22:30.13,0:22:34.17,Hamada,,0,0,0,,{\pos(974.667,932)}How about{\c&HEE1518&\3c&HFFFFFF&\blur3} our last guest{\r} then?
 Dialogue: 0,0:22:30.13,0:22:31.36,Matsumoto,,0,0,0,,What do you think?
 Dialogue: 0,0:22:31.36,0:22:32.18,Hosei,,0,0,0,,It has to be him
 Dialogue: 0,0:22:32.18,0:22:34.17,Hamada,,0,0,0,,What do you think about Mr. Alif?
 Dialogue: 0,0:22:34.17,0:22:36.32,Matsumoto,,0,0,0,,But we barely understood anything
-Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\pos(736.5,932)\3c&HA8587F&\blur3\bord8\shad0\fs65\t(0,9000,\fs85)}An incredible original language scary story!
-Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\pos(736.5,932)\shad0\blur3\fs65\t(0,9000,\fs85)}An incredible original language scary story!
-Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\3c&HA8587F&\blur3\bord8\shad0\fs40\t(0,9000,\fs80)\pos(211.5,846)}Coming up
-Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\shad0\blur3\fs40\t(0,9000,\fs80)\c&H000000&\pos(211.5,846)}Coming up
+Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\pos(982,932)\3c&HA8587F&\blur3\bord8\shad0\fs65\t(0,9000,\fs85)}An incredible original language scary story!
+Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\pos(982,932)\shad0\blur3\fs65\t(0,9000,\fs85)}An incredible original language scary story!
+Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\3c&HA8587F&\blur3\bord8\shad0\fs40\t(0,9000,\fs80)\pos(282,846)}Coming up
+Dialogue: 0,0:22:34.84,0:22:37.74,Other3,,0,0,0,,{\shad0\blur3\fs40\t(0,9000,\fs80)\c&H000000&\pos(282,846)}Coming up
 Dialogue: 0,0:22:36.32,0:22:37.36,Endo,,0,0,0,,True
 Dialogue: 0,0:22:37.73,0:22:52.71,Credits,,0,0,0,,INTERMISSION // CREDITS\NTRANSLATION BY {\3c&HC0CF72&}SHION (FGRNDNOISES)\N{\3c&H000000&}TYPESET & QC BY {\3c&H5C5DFF&}KEDOMAS
 Dialogue: 0,0:22:37.73,0:22:52.71,Credits,,0,0,0,,{\3c&H1CACD6&}USEFUL LINKS:\N{\3c}twitter: {\3c&H718701&}@FGRNDNoises\N{\3c}FB (info / updates): {\3c&HDB680F&}fb.com/shionnotsukai\N{\3c}more episodes: {\3c&H22D727&}shionnotsukai.wordpress.com\N{\3c}donations: {\3c&HB84EA1&}patreon.com/shionnotsukai {\3c}& {\3c&H1660DA&}ko-fi.com/shionnotsukai\N{\3c}\N{\3c}
-Dialogue: 0,0:22:37.73,0:22:52.71,Other1,,0,0,0,,{\3c&H10DBD9&\c&H0000FF&\pos(712,766)}THIS IS A NO-PROFIT FANSUB MADE BY FANS FOR OTHER FANS. NO COPYRIGHT INFRINGMENT INTENDED. ALL COPYRIGHTS ARE RESERVED TO ORIGINAL OWNERS.
-Dialogue: 0,0:22:52.51,0:22:52.71,Other1,,0,0,0,,{\3c&H10DBD9&\c&H0000FF&\fs25\fscx66\fscy98\pos(1210,790)}PLEASE DONT CALL THE COPS lol
+Dialogue: 0,0:22:37.73,0:22:52.71,Other1,,0,0,0,,{\3c&H10DBD9&\c&H0000FF&\pos(949.333,766)}THIS IS A NO-PROFIT FANSUB MADE BY FANS FOR OTHER FANS. NO COPYRIGHT INFRINGMENT INTENDED. ALL COPYRIGHTS ARE RESERVED TO ORIGINAL OWNERS.
+Dialogue: 0,0:22:52.51,0:22:52.71,Other1,,0,0,0,,{\3c&H10DBD9&\c&H0000FF&\fs25\fscx66\fscy98\pos(1613.333,790)}PLEASE DONT CALL THE COPS lol
 Dialogue: 0,0:22:53.10,0:22:56.04,Normal,,0,0,0,,Alif, our representative from Bangladesh
-Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\3c&H001B00&\shad0\bord6\blur3\pos(726,918)\fs50}"Ghost Lady Pori" in his mother tongue
-Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord2\c&H3D8000&\pos(726,918)\fs50}"Ghost Lady Pori" in his mother tongue
-Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord6\blur3\c&H3D8000&\pos(649.5,816)\fs50\3c&H001B00&}Alif, Bangladesh Representative, will now tell us his story
-Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord2\c&H3D8000&\pos(649.5,816)\fs50}Alif, Bangladesh Representative, will now tell us his story
+Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\3c&H001B00&\shad0\bord6\blur3\pos(968,918)\fs50}"Ghost Lady Pori" in his mother tongue
+Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord2\c&H3D8000&\pos(968,918)\fs50}"Ghost Lady Pori" in his mother tongue
+Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord6\blur3\c&H3D8000&\pos(866,816)\fs50\3c&H001B00&}Alif, Bangladesh Representative, will now tell us his story
+Dialogue: 0,0:22:54.56,0:23:00.86,Other3,,0,0,0,,{\fade(0,250)\shad0\bord2\c&H3D8000&\pos(866,816)\fs50}Alif, Bangladesh Representative, will now tell us his story
 Dialogue: 0,0:22:56.04,0:23:00.30,Normal,,0,0,0,,Will now narrate us his scary story in his mother tongue
 Dialogue: 0,0:23:22.90,0:23:24.96,Endo,,0,0,0,,His voice comes from his throat
 Dialogue: 0,0:23:25.20,0:23:26.52,Endo,,0,0,0,,You can tell
-Dialogue: 0,0:23:27.70,0:23:29.30,Normal,,0,0,0,,{\i1\fnArial\fs30\pos(554,1014)}like this...{\i0}
+Dialogue: 0,0:23:27.70,0:23:29.30,Normal,,0,0,0,,{\i1\fnArial\fs30\pos(738.667,1014)}like this...{\i0}
 Dialogue: 0,0:23:27.70,0:23:29.30,Normal,,0,0,0,,{\i1}kou yatte...{\i0} [in bangladesh]
 Dialogue: 0,0:23:30.30,0:23:32.11,Normal,,0,0,0,, [in Japanese] people died like this
 Dialogue: 0,0:23:31.16,0:23:32.64,Matsumoto,,0,0,0,,Japanese...?
