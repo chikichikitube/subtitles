@@ -18,13 +18,13 @@ Video Position: 32
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Endo,Arial,40,&H00086DE2,&H000019FF,&H00FFFFFF,&H00086DE2,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,11,1
-Style: Hamada,Arial,40,&H00FF1B1C,&H000019FF,&H00FFF2E7,&H00FF1B1C,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,11,1
-Style: Matsumoto,Arial,40,&H00193ADC,&H000019FF,&H00EDFAFF,&H00193ADC,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,11,1
-Style: Tanaka,Arial,40,&H00C61DC5,&H000019FF,&H00FFEBFF,&H00C61DC5,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,11,1
-Style: Yamazaki,Arial,40,&H000FBD17,&H000019FF,&H00E2FCED,&H000FBD17,-1,0,0,0,75,100,0,0,1,3,3,2,8,8,11,1
-Style: Normal,Arial,40,&H00FFFFFF,&H000019FF,&H00000000,&H00FFFFFF,-1,0,0,0,75,100,0,0,1,3,3,2,0,0,11,1
-Style: Credits,Arial,35,&H00FFFFFF,&H00814300,&H00000000,&H00000000,0,0,0,0,75,100,0,0,1,4,0,2,8,8,10,1
+Style: Endo,Arial,40,&H00086DE2,&H000019FF,&H00FFFFFF,&H00086DE2,-1,0,0,0,100,100,0,0,1,3,3,2,8,8,11,1
+Style: Hamada,Arial,40,&H00FF1B1C,&H000019FF,&H00FFF2E7,&H00FF1B1C,-1,0,0,0,100,100,0,0,1,3,3,2,8,8,11,1
+Style: Matsumoto,Arial,40,&H00193ADC,&H000019FF,&H00EDFAFF,&H00193ADC,-1,0,0,0,100,100,0,0,1,3,3,2,8,8,11,1
+Style: Tanaka,Arial,40,&H00C61DC5,&H000019FF,&H00FFEBFF,&H00C61DC5,-1,0,0,0,100,100,0,0,1,3,3,2,8,8,11,1
+Style: Yamazaki,Arial,40,&H000FBD17,&H000019FF,&H00E2FCED,&H000FBD17,-1,0,0,0,100,100,0,0,1,3,3,2,8,8,11,1
+Style: Normal,Arial,40,&H00FFFFFF,&H000019FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,3,3,2,0,0,11,1
+Style: Credits,Arial,35,&H00FFFFFF,&H00814300,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,8,8,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
