@@ -1,0 +1,226 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,50.0,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.0,3.0,2,10,10,10,1
+Style: Translator Credits,Arial,50.0,&H00FFFC00,&H0000FFFF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3.0,3.0,2,10,10,10,1
+Style: Translator Note,Arial,35.0,&H00FFFC00,&H0000FFFF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,1.5,1.5,9,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.45,0:00:19.90,Translator Credits,,0,0,0,,Translated by kentranslations\NTimed/Edited by blakeo_x
+Dialogue: 0,0:00:24.03,0:00:27.66,Default,,0,0,0,,Alright, the losers are back!
+Dialogue: 0,0:00:28.45,0:00:32.07,Default,,0,0,0,,Something cute came slinking in...
+Dialogue: 0,0:00:32.15,0:00:35.15,Default,,0,0,0,,And it turned out to be a little dog.
+Dialogue: 0,0:00:35.42,0:00:38.37,Default,,0,0,0,,But I actually thought it might\Nbe an exploding robot dog.
+Dialogue: 0,0:00:38.64,0:00:39.64,Default,,0,0,0,,Seriously?
+Dialogue: 0,0:00:40.05,0:00:41.92,Default,,0,0,0,,I was about to burst out laughing.
+Dialogue: 0,0:00:42.55,0:00:44.40,Default,,0,0,0,,I was so embarrassed.
+Dialogue: 0,0:00:44.83,0:00:46.36,Default,,0,0,0,,I was like, "this can't be real."
+Dialogue: 0,0:00:46.56,0:00:50.25,Default,,0,0,0,,What's with that dog? Did\Nthey train him to smell me?
+Dialogue: 0,0:00:50.47,0:00:54.05,Default,,0,0,0,,This dog really likes the smell of urine.
+Dialogue: 0,0:00:54.62,0:00:57.26,Default,,0,0,0,,That's really embarrassing.\NPlease cut that.
+Dialogue: 0,0:01:38.13,0:01:39.77,Default,,0,0,0,,He peed!
+Dialogue: 0,0:01:41.03,0:01:43.38,Default,,0,0,0,,- He peed!\N- A little bit.
+Dialogue: 0,0:01:44.05,0:01:45.41,Default,,0,0,0,,What's with that dog?
+Dialogue: 0,0:01:45.91,0:01:47.31,Default,,0,0,0,,That's so weird.
+Dialogue: 0,0:01:47.77,0:01:50.64,Default,,0,0,0,,I mean, he's cute and all.
+Dialogue: 0,0:01:50.72,0:01:52.36,Default,,0,0,0,,He was pretty cute.
+Dialogue: 0,0:01:52.58,0:01:57.46,Default,,0,0,0,,I kinda feel bad that we\Nwatched him pee. I mean...
+Dialogue: 0,0:01:59.26,0:02:02.67,Default,,0,0,0,,I think I've heard this sound before.
+Dialogue: 0,0:02:04.96,0:02:06.99,Default,,0,0,0,,Something's coming.
+Dialogue: 0,0:02:07.26,0:02:08.70,Default,,0,0,0,,What? What's coming?
+Dialogue: 0,0:02:08.78,0:02:11.09,Default,,0,0,0,,I mean, we...
+Dialogue: 0,0:02:19.49,0:02:20.50,Default,,0,0,0,,Okay.
+Dialogue: 0,0:02:21.09,0:02:22.15,Default,,0,0,0,,That's good.
+Dialogue: 0,0:02:23.31,0:02:24.56,Default,,0,0,0,,That's right.
+Dialogue: 0,0:02:26.15,0:02:29.80,Default,,0,0,0,,Everyone is even right now.
+Dialogue: 0,0:02:37.52,0:02:38.07,Default,,0,0,0,,Alright.
+Dialogue: 0,0:02:38.47,0:02:46.12,Default,,0,0,0,,Some people have seen\Nthis before and some haven't.
+Dialogue: 0,0:02:46.21,0:02:49.51,Default,,0,0,0,,Some of them will be like, "This again?"
+Dialogue: 0,0:02:49.59,0:02:53.05,Default,,0,0,0,,Others will be wondering\Nwhat's about to happen.
+Dialogue: 0,0:03:12.64,0:03:13.86,Default,,0,0,0,,Non-chan...
+Dialogue: 0,0:03:15.80,0:03:18.18,Default,,0,0,0,,They're getting stained.
+Dialogue: 0,0:03:19.14,0:03:22.16,Default,,0,0,0,,It's coming from far away right now.
+Dialogue: 0,0:03:23.30,0:03:24.33,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:03:27.41,0:03:29.34,Default,,0,0,0,,It's grabbing quite a lot.
+Dialogue: 0,0:03:30.80,0:03:32.31,Default,,0,0,0,,Here we go.
+Dialogue: 0,0:03:43.76,0:03:45.28,Default,,0,0,0,,Don't drop it.
+Dialogue: 0,0:04:32.02,0:04:33.30,Default,,0,0,0,,I wouldn't like that.
+Dialogue: 0,0:04:34.54,0:04:36.42,Default,,0,0,0,,This must be tough for Fujimon.
+Dialogue: 0,0:04:36.72,0:04:38.04,Default,,0,0,0,,Okay, let's continue.
+Dialogue: 0,0:04:38.39,0:04:43.06,Default,,0,0,0,,Once the arm is gone, the egg will...
+Dialogue: 0,0:05:08.85,0:05:10.71,Default,,0,0,0,,What was that?!
+Dialogue: 0,0:05:11.38,0:05:13.86,Default,,0,0,0,,- What? What broke?\N- Damn it!
+Dialogue: 0,0:05:13.94,0:05:16.73,Default,,0,0,0,,- The dish is broken!\N- The dish broke!
+Dialogue: 0,0:05:17.87,0:05:20.30,Default,,0,0,0,,- That's dangerous!\N- It flew everywhere!
+Dialogue: 0,0:05:30.60,0:05:32.05,Default,,0,0,0,,Hot!
+Dialogue: 0,0:05:32.13,0:05:34.20,Default,,0,0,0,,- What was that?\N- What was it?
+Dialogue: 0,0:05:34.28,0:05:37.36,Default,,0,0,0,,- Fujimoto...\N- Why me? Why just me?
+Dialogue: 0,0:05:37.82,0:05:40.16,Default,,0,0,0,,That thing was super hot.
+Dialogue: 0,0:05:41.03,0:05:42.30,Default,,0,0,0,,What was it?
+Dialogue: 0,0:05:42.52,0:05:44.33,Default,,0,0,0,,It was super hot.
+Dialogue: 0,0:05:48.45,0:05:49.95,Default,,0,0,0,,That robot...
+Dialogue: 0,0:05:50.63,0:05:54.79,Default,,0,0,0,,The worst part was it\Nstayed there the whole time.
+Dialogue: 0,0:05:55.40,0:05:58.71,Default,,0,0,0,,I hate loud sounds the most.
+Dialogue: 0,0:05:58.84,0:06:00.64,Default,,0,0,0,,And it went like, "Bang!"
+Dialogue: 0,0:06:04.42,0:06:07.07,Default,,0,0,0,,I really hate explosions.
+Dialogue: 0,0:06:07.56,0:06:09.02,Default,,0,0,0,,Everyone flinched.
+Dialogue: 0,0:06:09.54,0:06:12.33,Default,,0,0,0,,No one can get used to sudden explosions.
+Dialogue: 0,0:06:12.41,0:06:13.64,Default,,0,0,0,,- That's true.\N- For real.
+Dialogue: 0,0:06:13.72,0:06:16.42,Default,,0,0,0,,It was super hot, and\Nit wouldn't move away.
+Dialogue: 0,0:06:18.60,0:06:19.56,Default,,0,0,0,,Let's go again.
+Dialogue: 0,0:06:55.45,0:06:56.54,Default,,0,0,0,,No, no.
+Dialogue: 0,0:06:58.10,0:06:59.09,Default,,0,0,0,,No way...
+Dialogue: 0,0:07:04.43,0:07:08.09,Default,,0,0,0,,No way, no, it's too scary.
+Dialogue: 0,0:07:09.31,0:07:10.31,Default,,0,0,0,,No way!
+Dialogue: 0,0:07:10.39,0:07:11.52,Default,,0,0,0,,No way! No way!
+Dialogue: 0,0:07:11.61,0:07:13.22,Default,,0,0,0,,No way! No way! No way!
+Dialogue: 0,0:07:13.30,0:07:14.59,Default,,0,0,0,,No way! I can't!
+Dialogue: 0,0:07:14.67,0:07:16.80,Default,,0,0,0,,I can't! I can't!
+Dialogue: 0,0:07:16.88,0:07:19.34,Default,,0,0,0,,No! No! No! No!
+Dialogue: 0,0:07:19.69,0:07:22.86,Default,,0,0,0,,No! No way!
+Dialogue: 0,0:07:23.24,0:07:27.08,Default,,0,0,0,,- Non-chan really hates this.\N- No way! I can't handle it!
+Dialogue: 0,0:07:28.08,0:07:29.47,Default,,0,0,0,,That's so funny.
+Dialogue: 0,0:07:30.33,0:07:32.11,Default,,0,0,0,,What about Shizu-chan?
+Dialogue: 0,0:07:32.20,0:07:33.33,Default,,0,0,0,,Go to Shizu-chan.
+Dialogue: 0,0:07:33.41,0:07:35.65,Default,,0,0,0,,- No way! I really can't!\N- Shizu-chan.
+Dialogue: 0,0:07:50.63,0:07:52.01,Default,,0,0,0,,Let's go to Kuro-chan.
+Dialogue: 0,0:07:58.50,0:08:00.07,Default,,0,0,0,,I can't! No way!
+Dialogue: 0,0:08:02.36,0:08:03.60,Default,,0,0,0,,Go to Kuro-chan.
+Dialogue: 0,0:08:04.35,0:08:07.21,Default,,0,0,0,,It'll be surprising if\NKuro-chan can handle it.
+Dialogue: 0,0:08:26.84,0:08:28.43,Default,,0,0,0,,Wow!
+Dialogue: 0,0:08:29.25,0:08:30.99,Default,,0,0,0,,He's good!
+Dialogue: 0,0:08:32.01,0:08:34.13,Default,,0,0,0,,This is...
+Dialogue: 0,0:08:34.21,0:08:36.72,Default,,0,0,0,,This is amazing!
+Dialogue: 0,0:08:36.81,0:08:38.98,Default,,0,0,0,,Kuro-chan is good!
+Dialogue: 0,0:08:39.98,0:08:42.94,Default,,0,0,0,,- Kuro-chan is doing great!\N- So scary.
+Dialogue: 0,0:08:46.39,0:08:48.59,Default,,0,0,0,,Alright, let's get off.
+Dialogue: 0,0:08:49.46,0:08:50.66,Default,,0,0,0,,That's enough.
+Dialogue: 0,0:09:03.42,0:09:05.24,Default,,0,0,0,,- Let's fly away.\N- Scary, scary!
+Dialogue: 0,0:09:05.33,0:09:06.87,Default,,0,0,0,,I can't! No way! No way!
+Dialogue: 0,0:09:07.07,0:09:09.59,Default,,0,0,0,,I'm so scared! Seriously!
+Dialogue: 0,0:09:19.98,0:09:22.93,Default,,0,0,0,,I just moved instinctively.
+Dialogue: 0,0:09:24.21,0:09:25.75,Default,,0,0,0,,Wow, Kuro-chan is amazing.
+Dialogue: 0,0:09:25.84,0:09:27.88,Default,,0,0,0,,You sure endured it!
+Dialogue: 0,0:09:28.12,0:09:29.37,Default,,0,0,0,,It went into my ear!
+Dialogue: 0,0:09:30.00,0:09:31.34,Default,,0,0,0,,Into my ear!
+Dialogue: 0,0:09:32.61,0:09:34.93,Default,,0,0,0,,I was so scared! Oh my god!
+Dialogue: 0,0:09:35.89,0:09:39.22,Default,,0,0,0,,- What the heck?!\N- It was so scary! I can't.
+Dialogue: 0,0:09:42.49,0:09:46.96,Default,,0,0,0,,- You two were moving way too much.\N- I mean, I couldn't help it.
+Dialogue: 0,0:09:47.04,0:09:48.93,Default,,0,0,0,,My body just moved on its own.
+Dialogue: 0,0:09:49.01,0:09:51.71,Default,,0,0,0,,- It was instinct.\N- I get why Suzuki moved...
+Dialogue: 0,0:09:51.79,0:09:54.24,Default,,0,0,0,,- Look! She's crying!\N- I can't.
+Dialogue: 0,0:09:54.99,0:09:57.65,Default,,0,0,0,,A spider this big appeared!
+Dialogue: 0,0:09:57.73,0:10:01.49,Default,,0,0,0,,Out of all the creatures in this world,
+Dialogue: 0,0:10:01.57,0:10:05.33,Default,,0,0,0,,I hate spiders the most.
+Dialogue: 0,0:10:06.97,0:10:10.55,Default,,0,0,0,,I mean, tarantulas are a no-go.
+Dialogue: 0,0:10:10.79,0:10:13.32,Default,,0,0,0,,This is amazing!
+Dialogue: 0,0:10:13.41,0:10:15.34,Default,,0,0,0,,Kuro-chan is good!
+Dialogue: 0,0:10:15.80,0:10:19.13,Default,,0,0,0,,I guess it's because they move\Na little and make rustling sounds.
+Dialogue: 0,0:10:19.21,0:10:21.69,Default,,0,0,0,,You can't be doing that! It was so scary.
+Dialogue: 0,0:10:21.78,0:10:22.99,Default,,0,0,0,,It's dangerous even.
+Dialogue: 0,0:10:23.61,0:10:26.12,Default,,0,0,0,,I need a second. I can\Nstill feel the gross-ness.
+Dialogue: 0,0:10:26.20,0:10:29.60,Default,,0,0,0,,I'm fine when they're balled\Nup, but then they reach out.
+Dialogue: 0,0:10:45.47,0:10:48.74,Default,,0,0,0,,Suzuki has already lost her cool.
+Dialogue: 0,0:11:11.73,0:11:14.90,Default,,0,0,0,,This must be hell for them.
+Dialogue: 0,0:12:26.82,0:12:29.21,Default,,0,0,0,,What's going on here?
+Dialogue: 0,0:12:31.66,0:12:33.68,Default,,0,0,0,,Just shower him.
+Dialogue: 0,0:12:36.76,0:12:38.22,Default,,0,0,0,,Alright, go back.
+Dialogue: 0,0:12:38.30,0:12:41.20,Default,,0,0,0,,Go back, go back.\NThank you.
+Dialogue: 0,0:12:41.28,0:12:42.46,Default,,0,0,0,,Okay, good job.
+Dialogue: 0,0:12:42.70,0:12:43.72,Default,,0,0,0,,Alright.
+Dialogue: 0,0:12:45.13,0:12:46.13,Default,,0,0,0,,Enough?
+Dialogue: 0,0:12:56.54,0:12:58.69,Default,,0,0,0,,I'm going crazy!
+Dialogue: 0,0:13:00.89,0:13:06.24,Default,,0,0,0,,- You didn't move despite all that.\N- I just wanna give up!
+Dialogue: 0,0:13:06.32,0:13:07.99,Default,,0,0,0,,That's amazing.
+Dialogue: 0,0:13:08.08,0:13:10.11,Default,,0,0,0,,How come Bobby sneezed?
+Dialogue: 0,0:13:17.79,0:13:20.42,Default,,0,0,0,,All the powder was coming this way!
+Dialogue: 0,0:13:20.51,0:13:23.65,Default,,0,0,0,,You sneezed so suddenly,\Neveryone started laughing.
+Dialogue: 0,0:13:25.06,0:13:26.31,Default,,0,0,0,,What was that?
+Dialogue: 0,0:13:26.39,0:13:27.96,Default,,0,0,0,,What was the point of that?
+Dialogue: 0,0:13:32.22,0:13:35.91,Default,,0,0,0,,That's not something you\Nshould be allowed to do.
+Dialogue: 0,0:13:35.99,0:13:39.13,Default,,0,0,0,,At first, I thought I'd\Nbe able to endure it.
+Dialogue: 0,0:13:41.54,0:13:43.32,Default,,0,0,0,,But then I was like, "no way."
+Dialogue: 0,0:13:43.41,0:13:47.34,Default,,0,0,0,,I started thinking, "I can't keep\Ngetting showered by this stuff."
+Dialogue: 0,0:13:47.43,0:13:52.45,Default,,0,0,0,,Instinctively, my body\Nwanted to get the powder out.
+Dialogue: 0,0:13:57.86,0:14:00.72,Default,,0,0,0,,- Here we go.\N- What was that?
+Dialogue: 0,0:14:04.61,0:14:05.69,Default,,0,0,0,,Non-chan...
+Dialogue: 0,0:14:27.25,0:14:28.39,Default,,0,0,0,,Let's get started.
+Dialogue: 0,0:15:01.82,0:15:04.24,Default,,0,0,0,,Let's go to Shizu-chan.
+Dialogue: 0,0:15:31.96,0:15:33.69,Default,,0,0,0,,Alright, go to the next one.
+Dialogue: 0,0:16:05.48,0:16:07.74,Default,,0,0,0,,Let's do a switcheroo here.
+Dialogue: 0,0:16:09.19,0:16:10.38,Default,,0,0,0,,Shizu-chan again.
+Dialogue: 0,0:16:25.84,0:16:26.56,Default,,0,0,0,,Go!
+Dialogue: 0,0:16:30.91,0:16:31.63,Default,,0,0,0,,Go!
+Dialogue: 0,0:16:45.43,0:16:46.24,Default,,0,0,0,,Alright.
+Dialogue: 0,0:16:46.77,0:16:47.82,Default,,0,0,0,,To someone else.
+Dialogue: 0,0:16:47.90,0:16:49.21,Default,,0,0,0,,Round and round.
+Dialogue: 0,0:16:49.52,0:16:50.99,Default,,0,0,0,,Yes, round and round.
+Dialogue: 0,0:16:57.13,0:16:58.34,Default,,0,0,0,,Let's try Bobby.
+Dialogue: 0,0:16:58.59,0:16:59.75,Default,,0,0,0,,Go to Bobby.
+Dialogue: 0,0:17:16.42,0:17:18.16,Default,,0,0,0,,Wait a little while.
+Dialogue: 0,0:17:34.90,0:17:36.39,Default,,0,0,0,,A few more times.
+Dialogue: 0,0:17:40.72,0:17:41.89,Default,,0,0,0,,Again.
+Dialogue: 0,0:17:46.34,0:17:48.80,Default,,0,0,0,,Let's do it two more times.
+Dialogue: 0,0:17:56.94,0:17:58.29,Default,,0,0,0,,Okay, let's move.
+Dialogue: 0,0:17:58.37,0:17:59.99,Default,,0,0,0,,Let's go to someone else.
+Dialogue: 0,0:18:00.23,0:18:02.27,Default,,0,0,0,,That's too much. Let's move.
+Dialogue: 0,0:18:02.35,0:18:03.94,Default,,0,0,0,,Move, move, move.
+Dialogue: 0,0:18:11.19,0:18:13.58,Default,,0,0,0,,What to do...
+Dialogue: 0,0:18:14.06,0:18:16.69,Default,,0,0,0,,Should we try Fujimon again?
+Dialogue: 0,0:18:19.08,0:18:20.45,Default,,0,0,0,,Let's go to Bobby again. Do him again.
+Dialogue: 0,0:18:20.54,0:18:22.68,Default,,0,0,0,,Go back to Bobby. Go back, go back.
+Dialogue: 0,0:18:22.95,0:18:25.66,Default,,0,0,0,,Back to Bobby.
+Dialogue: 0,0:19:02.31,0:19:03.48,Default,,0,0,0,,Alright, hit it.
+Dialogue: 0,0:19:14.34,0:19:15.79,Default,,0,0,0,,Let's go back.
+Dialogue: 0,0:19:33.64,0:19:35.45,Default,,0,0,0,,If you're gonna do it, just do it!
+Dialogue: 0,0:19:35.53,0:19:37.30,Default,,0,0,0,,If you're gonna do it, just do it!
+Dialogue: 0,0:19:37.91,0:19:40.45,Default,,0,0,0,,If you're gonna do it, {\i1}JUST DO IT{\i0}!
+Dialogue: 0,0:19:40.69,0:19:41.85,Default,,0,0,0,,Bobby, sit down.
+Dialogue: 0,0:19:47.04,0:19:48.41,Default,,0,0,0,,Bobby, let's sit down.
+Dialogue: 0,0:19:48.73,0:19:50.27,Default,,0,0,0,,- Sit down for now.\N- Let's sit.
+Dialogue: 0,0:19:50.36,0:19:51.64,Default,,0,0,0,,Let's sit for now.
+Dialogue: 0,0:19:51.72,0:19:52.74,Default,,0,0,0,,Let's sit.
+Dialogue: 0,0:19:57.29,0:19:58.21,Default,,0,0,0,,Huh? What?
+Dialogue: 0,0:19:58.29,0:19:59.46,Default,,0,0,0,,Good job, everyone.
+Dialogue: 0,0:19:59.55,0:20:01.16,Default,,0,0,0,,- Good job.\N- It's over?
+Dialogue: 0,0:20:01.41,0:20:02.60,Default,,0,0,0,,How was it?
+Dialogue: 0,0:20:03.99,0:20:06.61,Default,,0,0,0,,- What do you mean?\N- "How was it"?
+Dialogue: 0,0:20:06.88,0:20:08.89,Default,,0,0,0,,"How was it", you ask?
+Dialogue: 0,0:20:19.36,0:20:20.45,Default,,0,0,0,,No way!
+Dialogue: 0,0:20:20.53,0:20:21.74,Default,,0,0,0,,No way! No way!
+Dialogue: 0,0:20:21.83,0:20:22.80,Default,,0,0,0,,No way! No way! No way!
+Dialogue: 0,0:20:25.49,0:20:27.31,Default,,0,0,0,,Wait a little while.
+Dialogue: 0,0:20:30.16,0:20:32.00,Default,,0,0,0,,A few more times.
+Dialogue: 0,0:20:37.95,0:20:41.10,Default,,0,0,0,,I mean, personally\NI'd love to keep going...
+Dialogue: 0,0:20:41.18,0:20:42.99,Default,,0,0,0,,- Let's stop.\N- No more.
+Dialogue: 0,0:20:43.08,0:20:44.63,Default,,0,0,0,,You're the only one having fun.
+Dialogue: 0,0:20:46.33,0:20:47.03,Default,,0,0,0,,Right?
+Dialogue: 0,0:20:48.11,0:20:50.95,Default,,0,0,0,,A lot happened, but I made a decision!
+Dialogue: 0,0:20:51.03,0:20:52.19,Default,,0,0,0,,What?
+Dialogue: 0,0:20:52.49,0:20:53.97,Default,,0,0,0,,The revived loser...
+Dialogue: 0,0:20:54.78,0:20:56.21,Default,,0,0,0,,and winner is...
+Dialogue: 0,0:20:57.79,0:20:58.58,Default,,0,0,0,,Kuro-chan!
+Dialogue: 0,0:20:58.66,0:21:00.35,Default,,0,0,0,,I did it! I did it!
+Dialogue: 0,0:21:00.44,0:21:01.41,Default,,0,0,0,,I win!
+Dialogue: 0,0:21:02.38,0:21:04.25,Default,,0,0,0,,Kuro-chan is good!
+Dialogue: 0,0:21:05.57,0:21:07.59,Default,,0,0,0,,Kuro-chan is doing great!
+Dialogue: 0,0:21:10.96,0:21:12.83,Default,,0,0,0,,As expected...
+Dialogue: 0,0:21:12.92,0:21:14.84,Default,,0,0,0,,He endured that big spider.
+Dialogue: 0,0:21:14.93,0:21:16.09,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:21:16.17,0:21:18.12,Default,,0,0,0,,Wait, you're sticky. It's getting on me.
+Dialogue: 0,0:21:18.20,0:21:20.46,Default,,0,0,0,,I was clean...I was clean...
+Dialogue: 0,0:21:25.52,0:21:26.65,Default,,0,0,0,,I'm here!
+Dialogue: 0,0:21:26.97,0:21:27.78,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:21:28.44,0:21:30.16,Default,,0,0,0,,It's Kuro-chan!
+Dialogue: 0,0:21:30.24,0:21:31.61,Default,,0,0,0,,You know me, don't you?
+Dialogue: 0,0:21:35.64,0:21:37.25,Default,,0,0,0,,That hairstyle!
+Dialogue: 0,0:21:49.26,0:22:14.51,Translator Credits,,0,0,0,,Translated by kentranslations\NTimed/Edited by blakeo_x

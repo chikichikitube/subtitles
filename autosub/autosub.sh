@@ -2,7 +2,7 @@
 docker pull rocm/pytorch:rocm5.2_ubuntu20.04_py3.7_pytorch_1.11.0_navi21
 
 # create drun alias with correct options
-alias drun='sudo docker run -it --name autosub --network=host --device=/dev/kfd --device=/dev/dri --group-add=video --ipc=host --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v $HOME/dockerx:/dockerx -v /mnt/archive/chikichikitube/:/chikichikitube -v /mnt/project/github/chikichiki.tube/:/chikichiki.tube'
+alias drun='sudo docker run -it --name autosub --network=host --device=/dev/kfd --device=/dev/dri --group-add=video --ipc=host --cap-add=SYS_PTRACE --security-opt seccomp=unconfined -v /mnt/project/dockerx:/dockerx -v /mnt/archive/chikichikitube/:/chikichikitube -v /mnt/project/github/chikichiki.tube/:/chikichiki.tube'
 
 # initial drun and creation of container
 drun rocm/pytorch:rocm5.2_ubuntu20.04_py3.7_pytorch_1.11.0_navi21
