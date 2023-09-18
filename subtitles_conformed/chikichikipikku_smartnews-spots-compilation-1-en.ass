@@ -1,0 +1,70 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: C:/Users/Mauro/Pictures/ダウンタウン松本＆浜田、10年ぶりCM共演でイチャイチャ＆手つなぎも (1080p_60fps_H264-128kbit_AAC).mp4
+Video File: C:/Users/Mauro/Pictures/ダウンタウン松本＆浜田、10年ぶりCM共演でイチャイチャ＆手つなぎも (1080p_60fps_H264-128kbit_AAC).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 24
+Active Line: 30
+Video Position: 3686
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Hamada,Franklin Gothic Demi,56,&H00FFFFFF,&H007E4600,&H00F60919,&H00F60919,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Matsumoto,Franklin Gothic Demi,56,&H00FFFFFF,&H007E4600,&H001727D6,&H001727D6,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Housei,Franklin Gothic Demi,48,&H00FFFFFF,&H007E4600,&H0022D727,&H0022D727,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Endo,Franklin Gothic Demi,48,&H00FFFFFF,&H007E4600,&H00096FD4,&H00096FD4,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Tanaka,Franklin Gothic Demi,48,&H00FFFFFF,&H007E4600,&H00E911B0,&H00E911B0,0,0,0,0,100,100,0,0,1,3,3,2,10,10,10,1
+Style: Upper Notes,Arial,30,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,4,8,10,10,10,1
+Style: Credits,Impact,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: Others,Franklin Gothic Demi,40,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,50,1
+Style: ABOVE,Franklin Gothic Demi,30,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,60,10,170,1
+Style: Rectangle,Arial,0,&HFFFFFFFF,&HFFFFFFFF,&HFFFFFFFF,&H145A5A5C,0,0,0,0,100,100,0,0,3,30.5555,1.22222,5,5,5,7,1
+Style: Finale,Impact,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+Style: WOW,Impact,35,&H00FFFFFF,&H007E4600,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:01:02.09,Credits,,0,0,0,,{\pos(1733.333,38)\b0\c&HFFFFFF&\1a&H58&\3c&HD36A26&\3a&H7A&}shionnotsukai.wordpress.com
+Dialogue: 0,0:00:00.00,0:00:01.99,Credits,,0,0,0,,{\c&H000000&\1a&H00&\2c&H000000&\3c&H000000&\3a&HFF&\b1\fnPerpetua\fs60\pos(957.333,910)}New advertisement for SmartNews featuring Downtown\N\N"Half-price coupon"  // "Free coupon"\N"No.1" // "Rain cloud radar"
+Dialogue: 0,0:00:02.50,0:00:05.19,Hamada,,0,0,0,,Look! They're giving half-price coupons on SmartNews!
+Dialogue: 0,0:00:05.19,0:00:06.00,Matsumoto,,0,0,0,,What a bargain!
+Dialogue: 0,0:00:06.00,0:00:08.06,Hamada,,0,0,0,,You love coupons like this, don't you?
+Dialogue: 0,0:00:08.06,0:00:08.82,Matsumoto,,0,0,0,,Yeah...
+Dialogue: 0,0:00:08.82,0:00:09.62,Matsumoto,,0,0,0,,But...
+Dialogue: 0,0:00:09.62,0:00:11.21,Matsumoto,,0,0,0,,I love you even more
+Dialogue: 0,0:00:11.51,0:00:12.46,Matsumoto,,0,0,0,,Macchan...
+Dialogue: 0,0:00:12.56,0:00:16.66,Matsumoto,,0,0,0,,{\3c&H000000&\4c&H000000&}Download now SmartNews to get your half-price coupon for Domino's Pizza
+Dialogue: 0,0:00:17.41,0:00:20.72,Matsumoto,,0,0,0,,I'm gonna try SmartNews' lottery for a free coupon
+Dialogue: 0,0:00:19.46,0:00:21.15,Hamada,,0,0,0,,Please, win!
+Dialogue: 0,0:00:20.72,0:00:22.28,Matsumoto,,0,0,0,,Here I go
+Dialogue: 0,0:00:22.48,0:00:23.03,Matsumoto,,0,0,0,,{\pos(920,64.667)}SUCCESS
+Dialogue: 0,0:00:23.03,0:00:24.67,Matsumoto,,0,0,0,,Alright!!
+Dialogue: 0,0:00:24.67,0:00:27.12,Hamada,,0,0,0,,Free stuff! Free stuff! Free stuff!
+Dialogue: 0,0:00:24.67,0:00:27.12,Matsumoto,,0,0,0,,Free stuff! Free stuff! Free stuff!
+Dialogue: 0,0:00:27.32,0:00:31.53,Matsumoto,,0,0,0,,{\3c&H000000&\4c&H000000&}Download now SmartNews and try to win a free coupon for a gyuudon at Yoshinoya
+Dialogue: 0,0:00:32.53,0:00:35.63,Hamada,,0,0,0,,They say SmartNews is the most downloaded news app
+Dialogue: 0,0:00:35.63,0:00:36.58,Matsumoto,,0,0,0,,Popular, isn't it?
+Dialogue: 0,0:00:36.58,0:00:38.58,Hamada,,0,0,0,,It's also the easiest to use and most used, no.1
+Dialogue: 0,0:00:38.58,0:00:39.63,Matsumoto,,0,0,0,,SmartNews is...
+Dialogue: 0,0:00:39.63,0:00:40.75,Matsumoto,,0,0,0,,Like us, isn't it?
+Dialogue: 0,0:00:42.20,0:00:46.67,Matsumoto,,0,0,0,,{\3c&H000000&\4c&H000000&}No.1 in user-friendliness, number of use and downloads: it's SmartNews
+Dialogue: 0,0:00:47.57,0:00:49.31,Matsumoto,,0,0,0,,Hamada! Don't forget your umbrella!
+Dialogue: 0,0:00:49.31,0:00:49.69,Hamada,,0,0,0,,What?
+Dialogue: 0,0:00:49.69,0:00:52.26,Matsumoto,,0,0,0,,SmartNews' rain cloud radar says it's about to rain soon
+Dialogue: 0,0:00:52.26,0:00:53.26,Hamada,,0,0,0,,Matsumoto...
+Dialogue: 0,0:00:54.36,0:00:55.14,Matsumoto,,0,0,0,,See?
+Dialogue: 0,0:00:55.14,0:00:56.40,Hamada,,0,0,0,,Matsumoto...!
+Dialogue: 0,0:00:56.80,0:01:01.50,Hamada,,0,0,0,,{\3c&H000000&\4c&H000000&}Download now SmartNews and access \Nthe rain cloud radar to always know when it's going to rain
+

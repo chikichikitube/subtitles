@@ -1,0 +1,877 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+Audio URI: G:\Isharyou Bengoshi E09 (1280x720 x264).mp4
+Scroll Position: 654
+Active Line: 661
+Video Zoom Percent: 1
+PlayResY: 366
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Overlap,Arial,24,&H00B8B8B8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Internal/Narrator,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Flashback,Arial,24,&H00FFFFFF,&H000000FF,&H004F2E2C,&H004F2E2C,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Flashback_Top,Arial,24,&H00FFFFFF,&H000000FF,&H004F2E2C,&H004F2E2C,0,0,0,0,100,100,0,0,1,2,1,8,10,10,10,0
+Style: Bengoshi-Top,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Bengoshi-Title,Arial,30,&H009DD1E8,&H000000FF,&H00275F82,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: Bengoshi-Ep_Title,Arial,20,&H00E8F2FF,&H000000FF,&H001B1273,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Bengoshi-Next_Episode,Arial,22,&H00E2DFE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,7,30,10,50,0
+Style: Bengoshi-Fiction,Arial,20,&H00E2DFE0,&H000000FF,&H00302F2F,&H00131313,-1,0,0,0,100,100,0,0,1,1,1,3,10,30,35,0
+Style: Bengoshi-Credits,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,120,10,35,0
+Style: Bengoshi-Credits_Left,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,30,10,35,0
+Style: Bengoshi-Credits_Right,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,3,10,50,10,0
+Style: Bengoshi-End_Splash_Left,Arial,25,&H0021D0E9,&H000000FF,&H00151E23,&H0003010D,-1,0,0,0,100,100,0,0,1,1,2,1,80,10,110,1
+Style: Bengoshi-End_Splash_Right,Arial,25,&H0021D0E9,&H000000FF,&H00010511,&H000A0210,-1,0,0,0,100,100,0,0,1,1,2,3,10,10,55,1
+Style: Bengoshi-Articles,Arial,20,&H0022242D,&H000000FF,&H00969CA6,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,40,10,10,1
+Style: Bengoshi-Calendar,Arial,22,&H004B3638,&H000000FF,&H0095929A,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,40,10,140,1
+Style: Bengoshi-Calendar3,Arial,22,&H004B3638,&H000000FF,&H0095929A,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,40,10,10,1
+Style: Bengoshi-Tomoya_Phone,Arial,22,&H00B1B986,&H000000FF,&H002F2E2C,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,350,10,50,1
+Style: Bengoshi-Timestamp,Arial,24,&H00FCFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,1,2,10,10,60,0
+Style: Bengoshi-Calendar_Late4,Arial,25,&H00262833,&H000000FF,&H003D5772,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,10,10,50,1
+Style: Bengoshi-Calendar_Late5,Arial,25,&H00262833,&H000000FF,&H003D5772,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,100,10,20,1
+Style: Bengoshi-Kohei_Phone,Arial,20,&H00776B57,&H000000FF,&H00171417,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,10,105,1
+Style: Bengoshi-Hakamada_Window_Sign,Arial,20,&H00A3D0CF,&H000000FF,&H004A5A5A,&H0024021D,-1,0,0,0,100,100,0,0,1,3,0,8,10,50,120,1
+Style: Bengoshi-Best_Hair,Arial,28,&H0015181F,&H000000FF,&H007F34A4,&H0024021D,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,100,1
+Style: Bengoshi-Spring_Hair,Arial,18,&H008A28CD,&H000000FF,&H00A6A7BD,&H0024021D,-1,0,0,0,100,100,0,0,1,3,0,1,10,10,100,1
+Style: Bengoshi-Vocab_Word,Arial,22,&H002F87BC,&H000000FF,&H000D1728,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,30,10,115,1
+Style: Bengoshi-Vocab_Definition1,Arial,22,&H00FCFCFF,&H000000FF,&H0013131A,&H0013131A,0,0,0,0,100,100,0,0,1,2,1,1,30,10,10,1
+Style: Bengoshi-Vocab_Definition_List1,Arial,22,&H00FCFCFF,&H000000FF,&H0013131A,&H0013131A,0,0,0,0,100,100,0,0,1,3,1,2,10,10,40,1
+Style: Bengoshi-Vocab_Definition_List2,Arial,22,&H00FCFCFF,&H000000FF,&H0013131A,&H0013131A,0,0,0,0,100,100,0,0,1,3,1,2,10,10,10,1
+Style: Bengoshi-Popup_Form,Arial,20,&H00212121,&H000000FF,&H00BFBFBF,&H0024021D,0,0,0,0,100,100,0,0,1,2,0,4,10,10,100,1
+Style: Bengoshi-Spy_Marilyn,Arial,20,&H00364A4B,&H000000FF,&H002A221F,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,10,10,80,1
+Style: Bengoshi-Folders,Arial,20,&H00ABA991,&H000000FF,&H00270B03,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,50,10,40,1
+Style: Bengoshi-Folders_Right,Arial,20,&H00ABA991,&H000000FF,&H00270B03,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,150,50,1
+Style: Bengoshi-Empty_Folder,Arial,20,&H00876031,&H000000FF,&H00FCD7A4,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,10,10,140,1
+Style: Bengoshi-Investigation_Report,Arial,23,&H00333026,&H000000FF,&H00D3BFB7,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,100,10,110,1
+Style: Bengoshi-Marriage_Registration,Arial,20,&H00214781,&H000000FF,&H00719DD1,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,100,110,1
+Style: Bengoshi-Manga_Bubble_Right,Arial,20,&H00696969,&H000000FF,&H00BCBFC3,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,10,10,70,1
+Style: Bengoshi-Manga_Bubble_Left,Arial,20,&H00696969,&H000000FF,&H00AEB2B4,&H00000000,0,0,0,0,100,100,0,0,1,3,0,7,10,10,110,1
+Style: Bengoshi-Hakamada_Window_Sign2,Arial,25,&H00FFFFFF,&H000000FF,&H00144A77,&H0024021D,-1,0,0,0,100,100,0,0,1,2,0,1,10,50,10,1
+Style: Bengoshi-Kohei_Phone2,Arial,20,&H00ECC2BB,&H000000FF,&H00171417,&H00000000,0,0,0,0,100,100,0,0,1,2,0,8,20,10,50,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.55,0:00:08.95,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,360)}Beautician \N Nishijima Aoi
+Dialogue: 0,0:00:05.68,0:00:08.98,Bengoshi-Top,Aoi,0,0,0,,Dress shirts, underwear, socks...
+Dialogue: 0,0:00:08.98,0:00:11.93,Bengoshi-Top,Aoi,0,0,0,,Whoops, forgot the toiletries.
+Dialogue: 0,0:00:21.30,0:00:24.60,Bengoshi-Articles,Writ rightmost (reading from right to left),0,0,0,,Three articles for husbands and wives \N1. Living expenses are half and half. \N2. No interfering in each other's work. \N3. Never forget love and respect.
+Dialogue: 0,0:00:28.54,0:00:30.74,Bengoshi-Calendar,Calendar 2,0,0,0,,Business trip\N Nagoya branch\N\N{\c&H5C4A80&}Aoi salon\NAoi meeting @ Shibuya
+Dialogue: 0,0:00:28.54,0:00:30.74,Bengoshi-Calendar3,Calendar 3,0,0,0,,Business trip\N Nagoya branch\N\N{\c&H5C4A80&}Aoi salon
+Dialogue: 0,0:00:30.74,0:00:33.38,Bengoshi-Calendar,Calendar 4,0,0,0,,Business trip\N Nagoya branch\N\N{\c&H5C4A80&}Aoi salon \NAoi dentist
+Dialogue: 0,0:00:30.74,0:00:33.38,Bengoshi-Calendar3,Calendar 5,0,0,0,,Kohei comes home!\N  Tokyo arrival 22:00 \N\N{\c&H5C4A80&}Aoi salon
+Dialogue: 0,0:00:30.74,0:00:33.38,Bengoshi-Calendar3,Calendar 6,0,0,0,,{\a11}{\c&H5C4A80&}Aoi salon
+Dialogue: 0,0:00:33.38,0:00:36.75,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,360)}Aoi's husband\N Hirano Kohei
+Dialogue: 0,0:00:35.07,0:00:36.49,Default,Aoi,0,0,0,,Careful, careful.
+Dialogue: 0,0:00:37.05,0:00:39.63,Default,Aoi,0,0,0,,All right, packed.
+Dialogue: 0,0:00:39.63,0:00:40.83,Default,Aoi,0,0,0,,Ko-chan.
+Dialogue: 0,0:00:41.20,0:00:42.53,Default,Aoi,0,0,0,,Ko-chan.
+Dialogue: 0,0:00:43.12,0:00:44.62,Default,Aoi,0,0,0,,You're all packed.
+Dialogue: 0,0:00:44.62,0:00:46.33,Default,Kohei,0,0,0,,Oh. Thank you.
+Dialogue: 0,0:00:46.33,0:00:48.64,Default,Aoi,0,0,0,,Crap, it's this late already?!
+Dialogue: 0,0:00:47.65,0:00:48.64,Bengoshi-Overlap,Kohei,0,0,0,,Crap!
+Dialogue: 0,0:00:48.64,0:00:50.57,Default,Aoi,0,0,0,,Here, here.
+Dialogue: 0,0:00:53.65,0:00:56.81,Default,Aoi,0,0,0,,This business trip \Nis for five days, right?
+Dialogue: 0,0:00:56.81,0:00:57.27,Default,Kohei,0,0,0,,Yeah.
+Dialogue: 0,0:00:57.27,0:00:59.84,Default,Aoi,0,0,0,,I'll make you your favorite \Nfried shrimp when you get back.
+Dialogue: 0,0:01:00.70,0:01:01.60,Default,Kohei,0,0,0,,Yeah.
+Dialogue: 0,0:01:01.60,0:01:03.47,Default,Aoi,0,0,0,,Take care of yourself.
+Dialogue: 0,0:01:05.37,0:01:06.38,Default,Kohei,0,0,0,,See you.
+Dialogue: 0,0:01:06.38,0:01:07.79,Default,Aoi,0,0,0,,Have a nice trip.
+Dialogue: 0,0:01:10.99,0:01:13.08,Default,Aoi,0,0,0,,I better hurry, too.
+Dialogue: 0,0:01:25.93,0:01:27.90,Bengoshi-Tomoya_Phone,Cell,0,0,0,,Office - Tomoya \N{\b0}Mobile{\b1}
+Dialogue: 0,0:01:32.55,0:01:33.95,Default,Tomoya,0,0,0,,Hello.
+Dialogue: 0,0:01:33.95,0:01:36.36,Default,Tomoya,0,0,0,,What time are you coming home today?
+Dialogue: 0,0:01:36.36,0:01:37.36,Default,Aoi,0,0,0,,What?
+Dialogue: 0,0:01:37.36,0:01:38.45,Default,Tomoya,0,0,0,,Huh?
+Dialogue: 0,0:01:38.45,0:01:41.14,Default,Tomoya,0,0,0,,Isn't this Kohei-san's—
+Dialogue: 0,0:01:41.14,0:01:42.13,Default,Kohei,0,0,0,,What are you doing?!
+Dialogue: 0,0:01:42.13,0:01:44.55,Default,Aoi,0,0,0,,I thought it was a call \Nfrom your office.
+Dialogue: 0,0:01:44.55,0:01:45.58,Default,Aoi,0,0,0,,Who was that—
+Dialogue: 0,0:01:45.58,0:01:46.72,Default,Kohei,0,0,0,,Crap, the bullet train!
+Dialogue: 0,0:01:46.72,0:01:47.39,Default,Kohei,0,0,0,,I'm off!
+Dialogue: 0,0:01:47.39,0:01:49.29,Default,Aoi,0,0,0,,Hey, Ko-chan!
+Dialogue: 0,0:01:58.59,0:02:00.05,Default,Kohei,0,0,0,,Sorry about that.
+Dialogue: 0,0:02:00.05,0:02:02.40,Default,Kohei,0,0,0,,My office coworker picked \Nup my phone by mistake.
+Dialogue: 0,0:02:02.40,0:02:03.45,Default,Kohei,0,0,0,,Yeah.
+Dialogue: 0,0:02:03.95,0:02:06.60,Default,Kohei,0,0,0,,I see. How did that go?
+Dialogue: 0,0:02:09.44,0:02:10.64,Default,Aoi,0,0,0,,It's not too hot?
+Dialogue: 0,0:02:10.64,0:02:11.76,Default,Lady,0,0,0,,It's fine.
+Dialogue: 0,0:02:19.46,0:02:20.48,Default,Lady,0,0,0,,Um...
+Dialogue: 0,0:02:22.27,0:02:24.42,Default,Aoi,0,0,0,,I'm so sorry. Pardon me.
+Dialogue: 0,0:02:25.62,0:02:28.32,Bengoshi-Timestamp,Caption,0,0,0,,{\fad(360,360)}5 days later
+Dialogue: 0,0:02:31.02,0:02:37.16,Bengoshi-Calendar_Late4,Calendar 4,0,0,0,,{\fad(0,3840)}Business trip\N Nagoya branch\N\N {\c&H1E2F66&}Aoi salon\N Aoi dentist
+Dialogue: 0,0:02:31.02,0:02:37.16,Bengoshi-Calendar_Late5,Calendar 5,0,0,0,,{\fad(0,3840)}Kohei comes home!\N Tokyo arrival 22:00\N\N\N {\c&H0F2258&}Aoi salon
+Dialogue: 0,0:02:31.02,0:02:37.16,Bengoshi-Calendar_Late4,Calendar 6,0,0,0,,{\a11}{\fad(0,3840)\c&H22246B&}Aoi salon
+Dialogue: 0,0:02:41.86,0:02:44.79,Default,Voicemail,0,0,0,,The person you have dialed is not available.
+Dialogue: 0,0:02:44.79,0:02:48.05,Default,Voicemail,0,0,0,,Please leave your name and message.
+Dialogue: 0,0:02:48.05,0:02:50.02,Default,Aoi,0,0,0,,Hello, Ko-chan?
+Dialogue: 0,0:02:50.02,0:02:52.32,Default,Aoi,0,0,0,,Why aren't you home yet?
+Dialogue: 0,0:02:52.32,0:02:55.10,Default,Aoi,0,0,0,,You could've at least called \Nto tell me you'd be late.
+Dialogue: 0,0:02:55.10,0:02:56.39,Default,Aoi,0,0,0,,See you.
+Dialogue: 0,0:03:00.35,0:03:02.15,Bengoshi-Kohei_Phone,Cell screen,0,0,0,,Kohei
+Dialogue: 0,0:03:04.27,0:03:05.50,Default,Aoi,0,0,0,,Hello.
+Dialogue: 0,0:03:05.50,0:03:07.25,Default,Aoi,0,0,0,,Where are you?
+Dialogue: 0,0:03:07.25,0:03:08.82,Default,Kohei,0,0,0,,Aoi, I'm sorry.
+Dialogue: 0,0:03:10.16,0:03:12.05,Default,Aoi,0,0,0,,Did something happen at work?
+Dialogue: 0,0:03:12.05,0:03:13.53,Default,Aoi,0,0,0,,Can you come home?
+Dialogue: 0,0:03:15.09,0:03:16.55,Default,Kohei,0,0,0,,I'm not coming back.
+Dialogue: 0,0:03:16.55,0:03:17.44,Default,Kohei,0,0,0,,Let's split up.
+Dialogue: 0,0:03:17.44,0:03:18.52,Default,Aoi,0,0,0,,Huh?!
+Dialogue: 0,0:03:18.52,0:03:19.90,Default,Kohei,0,0,0,,I'm really sorry.
+Dialogue: 0,0:03:20.68,0:03:22.17,Default,Aoi,0,0,0,,Hold on a second!
+Dialogue: 0,0:03:22.17,0:03:23.82,Default,Aoi,0,0,0,,Is it that woman?
+Dialogue: 0,0:03:23.82,0:03:25.76,Default,Kohei,0,0,0,,Just forget about me!
+Dialogue: 0,0:03:25.76,0:03:27.77,Default,Aoi,0,0,0,,Wait a second!
+Dialogue: 0,0:03:29.35,0:03:30.21,Bengoshi-Kohei_Phone2,Cell top,0,0,0,,Kohei
+Dialogue: 0,0:03:48.65,0:03:50.05,Bengoshi-Internal/Narrator,Kohei,0,0,0,,{\i1}I'm not coming back.{\i0}
+Dialogue: 0,0:03:50.05,0:03:51.38,Bengoshi-Internal/Narrator,Kohei,0,0,0,,{\i1}Let's split up.{\i0}
+Dialogue: 0,0:03:59.22,0:04:00.48,Default,Tomomi,0,0,0,,Kohei-san.
+Dialogue: 0,0:04:00.48,0:04:02.80,Default,Tomomi,0,0,0,,You forgot this.
+Dialogue: 0,0:04:02.80,0:04:04.32,Default,Kohei,0,0,0,,Oh, my bad. You saved me.
+Dialogue: 0,0:04:04.32,0:04:05.34,Default,Kohei,0,0,0,,Thank you.
+Dialogue: 0,0:04:05.77,0:04:07.71,Default,Tomomi,0,0,0,,Say, Kohei-san.
+Dialogue: 0,0:04:07.71,0:04:08.69,Default,Kohei,0,0,0,,What?
+Dialogue: 0,0:04:10.14,0:04:13.03,Default,Tomomi,0,0,0,,Oh, nothing.
+Dialogue: 0,0:04:13.03,0:04:14.80,Default,Tomomi,0,0,0,,Have a nice day.
+Dialogue: 0,0:04:14.80,0:04:15.63,Default,Kohei,0,0,0,,You, too.
+Dialogue: 0,0:04:25.42,0:04:26.47,Default,Aoi,0,0,0,,I'm sorry.
+Dialogue: 0,0:04:29.01,0:04:30.21,Default,Aoi,0,0,0,,I'm sorry.
+Dialogue: 0,0:04:42.92,0:04:44.17,Default,K,0,0,0,,Aoi-san?
+Dialogue: 0,0:04:44.56,0:04:45.58,Default,Aoi,0,0,0,,Huh?
+Dialogue: 0,0:04:46.86,0:04:48.69,Default,K,0,0,0,,What's the matter?
+Dialogue: 0,0:04:48.69,0:04:51.03,Default,K,0,0,0,,You're not quite yourself today.
+Dialogue: 0,0:04:51.03,0:04:54.13,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,360)}Hakmada's Assistant\N Nonomura Kanae
+Dialogue: 0,0:04:52.00,0:04:53.85,Bengoshi-Top,K,0,0,0,,Did something happen?
+Dialogue: 0,0:04:59.87,0:05:01.67,Default,Aoi,0,0,0,,Actually...
+Dialogue: 0,0:05:04.17,0:05:06.61,Bengoshi-Hakamada_Window_Sign,Caption,0,0,0,,Hakamada Law Office
+Dialogue: 0,0:05:04.93,0:05:06.61,Default,Y,0,0,0,,Kanae-chan is late today.
+Dialogue: 0,0:05:06.61,0:05:09.36,Bengoshi-Top,Rina,0,0,0,,She's probably having \Nher hair done nicely.
+Dialogue: 0,0:05:06.61,0:05:14.38,Bengoshi-Best_Hair,Mag,0,0,0,,Sweet \N{\c&H24B4A6&}My Best Hair
+Dialogue: 0,0:05:06.98,0:05:10.35,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(360,360)}Temp\N Shinozuka Rina
+Dialogue: 0,0:05:09.36,0:05:11.76,Bengoshi-Top,Rina,0,0,0,,First a cut, then dyeing.
+Dialogue: 0,0:05:11.76,0:05:13.13,Bengoshi-Top,Rina,0,0,0,,Oh, and maybe a perm,
+Dialogue: 0,0:05:13.13,0:05:14.03,Bengoshi-Top,Rina,0,0,0,,and a hair-pack, too.
+Dialogue: 0,0:05:13.98,0:05:16.55,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,0)}Office landlord\N Toyama Yoshie
+Dialogue: 0,0:05:14.03,0:05:14.98,Bengoshi-Top,Y,0,0,0,,All that?
+Dialogue: 0,0:05:14.98,0:05:16.55,Bengoshi-Top,Y,0,0,0,,Makes me tired just hearing about it.
+Dialogue: 0,0:05:16.55,0:05:18.80,Default,Rina,0,0,0,,It's spring, the time for \Na change in your image.
+Dialogue: 0,0:05:16.55,0:05:21.86,Bengoshi-Spring_Hair,Mag words,0,0,0,,Bound to draw attention \NBest of spring hair
+Dialogue: 0,0:05:18.80,0:05:21.13,Default,Y,0,0,0,,The one who really needs\N an image change is this guy.
+Dialogue: 0,0:05:21.13,0:05:22.52,Default,Rina,0,0,0,,You can say that again.
+Dialogue: 0,0:05:22.52,0:05:24.41,Default,Y,0,0,0,,He said he's growing out his \Nsideburns or something.
+Dialogue: 0,0:05:24.41,0:05:25.99,Default,,0,0,0,,Really?
+Dialogue: 0,0:05:25.99,0:05:27.66,Default,K,0,0,0,,Sorry I'm late!
+Dialogue: 0,0:05:27.66,0:05:28.42,Default,K,0,0,0,,Please.
+Dialogue: 0,0:05:28.42,0:05:29.17,Default,Rina,0,0,0,,Huh?
+Dialogue: 0,0:05:30.30,0:05:32.30,Default,Y,0,0,0,,I thought you went to beauty salon.
+Dialogue: 0,0:05:32.30,0:05:34.27,Default,K,0,0,0,,I did. Sensei?
+Dialogue: 0,0:05:34.27,0:05:35.81,Default,Y,0,0,0,,But nothing's changed.
+Dialogue: 0,0:05:35.81,0:05:37.14,Default,Rina,0,0,0,,She actually looks worse.
+Dialogue: 0,0:05:37.14,0:05:40.02,Default,K,0,0,0,,Sensei, I brought a client with me.
+Dialogue: 0,0:05:41.31,0:05:44.21,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,0)}Attorney\N Hakamada Yukio
+Dialogue: 0,0:05:48.60,0:05:50.41,Default,H,0,0,0,,I understand now.
+Dialogue: 0,0:05:50.41,0:05:52.22,Default,H,0,0,0,,Your husband cheated on you,
+Dialogue: 0,0:05:52.22,0:05:55.26,Default,H,0,0,0,,then decided to separate from you.
+Dialogue: 0,0:05:56.11,0:05:59.45,Default,H,0,0,0,,So, Aoi-san, what do you plan on doing?
+Dialogue: 0,0:06:01.04,0:06:05.23,Default,Aoi,0,0,0,,I... just want to know the truth.
+Dialogue: 0,0:06:05.23,0:06:08.23,Default,Y,0,0,0,,What more truth do you need?
+Dialogue: 0,0:06:08.23,0:06:09.69,Default,Y,0,0,0,,He has another woman \Nand wants to separate.
+Dialogue: 0,0:06:09.69,0:06:10.99,Default,Y,0,0,0,,End of story.
+Dialogue: 0,0:06:10.99,0:06:12.02,Default,K,0,0,0,,Yoshie-san.
+Dialogue: 0,0:06:12.02,0:06:14.44,Default,Rina,0,0,0,,It's spring after all. \NPeople change in spring.
+Dialogue: 0,0:06:14.44,0:06:17.44,Default,Aoi,0,0,0,,But, we lived together \Nfor two whole years.
+Dialogue: 0,0:06:17.44,0:06:19.67,Default,Aoi,0,0,0,,Then he calls me \N to say goodbye?
+Dialogue: 0,0:06:19.67,0:06:20.88,Default,Aoi,0,0,0,,I don't understand it.
+Dialogue: 0,0:06:20.88,0:06:22.68,Default,H,0,0,0,,Do you still feel attached to him?
+Dialogue: 0,0:06:23.67,0:06:25.47,Default,Aoi,0,0,0,,"Attached," huh?
+Dialogue: 0,0:06:26.77,0:06:29.05,Default,Aoi,0,0,0,,I just want a proper explanation.
+Dialogue: 0,0:06:29.05,0:06:32.79,Default,Aoi,0,0,0,,Because if he's dumping \Nme for that woman,
+Dialogue: 0,0:06:33.82,0:06:35.19,Default,Aoi,0,0,0,,then, I'll...
+Dialogue: 0,0:06:35.19,0:06:38.73,Default,H,0,0,0,,Divorce him, and sue \Nhim for compensation?
+Dialogue: 0,0:06:39.86,0:06:41.06,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:06:42.57,0:06:43.50,Default,Aoi,0,0,0,,But...
+Dialogue: 0,0:06:43.50,0:06:45.10,Default,H,0,0,0,,But?
+Dialogue: 0,0:06:47.29,0:06:49.53,Default,Aoi,0,0,0,,But to divorce...
+Dialogue: 0,0:06:52.12,0:06:56.07,Default,Aoi,0,0,0,,we'd have to be officially married.
+Dialogue: 0,0:06:56.07,0:06:57.42,Default,Rina,0,0,0,,What?
+Dialogue: 0,0:06:58.12,0:07:00.05,Default,Y,0,0,0,,But, you're husband and wife, right?
+Dialogue: 0,0:07:00.05,0:07:02.07,Default,Y,0,0,0,,You've been married for two years...
+Dialogue: 0,0:07:02.67,0:07:04.69,Default,Y,0,0,0,,but not legally married?
+Dialogue: 0,0:07:06.08,0:07:07.18,Default,Rina,0,0,0,,You're out of touch.
+Dialogue: 0,0:07:07.18,0:07:09.17,Default,Rina,0,0,0,,It's something called \N"common-law marriage."
+Dialogue: 0,0:07:09.17,0:07:10.70,Default,Y,0,0,0,,Common-law marriage.
+Dialogue: 0,0:07:11.47,0:07:15.29,Default,H,0,0,0,,Simply put, it's not an officially \Ndocumented marriage.
+Dialogue: 0,0:07:17.00,0:07:18.74,Default,K,0,0,0,,But... why?
+Dialogue: 0,0:07:21.10,0:07:22.34,Default,Aoi,0,0,0,,Well...
+Dialogue: 0,0:07:22.34,0:07:24.37,Default,Rina,0,0,0,,There's a lot of that nowadays.
+Dialogue: 0,0:07:24.37,0:07:26.52,Default,Rina,0,0,0,,Husband and wife can be \Nindependent of each other,
+Dialogue: 0,0:07:26.52,0:07:29.20,Default,Rina,0,0,0,,there are no in-laws \Nthey have to endure.
+Dialogue: 0,0:07:29.20,0:07:31.98,Default,Rina,0,0,0,,It's quite casual.
+Dialogue: 0,0:07:31.98,0:07:33.80,Default,Y,0,0,0,,A casual marriage...
+Dialogue: 0,0:07:33.80,0:07:35.09,Default,Y,0,0,0,,the end of the world is near.
+Dialogue: 0,0:07:35.09,0:07:37.66,Default,K,0,0,0,,But if they're not in \Nan official registry,
+Dialogue: 0,0:07:37.66,0:07:39.55,Default,K,0,0,0,,can she still sue for compensation?
+Dialogue: 0,0:07:42.16,0:07:43.82,Default,Y,0,0,0,,Forget it.
+Dialogue: 0,0:07:43.82,0:07:45.44,Default,Y,0,0,0,,What a disappointment.
+Dialogue: 0,0:07:45.44,0:07:47.05,Default,Rina,0,0,0,,That's too bad.
+Dialogue: 0,0:07:47.05,0:07:48.63,Default,H,0,0,0,,No, that's not the case.
+Dialogue: 0,0:07:50.67,0:07:52.30,Default,Aoi,0,0,0,,Then...
+Dialogue: 0,0:07:52.30,0:07:53.84,Default,H,0,0,0,,Even without legal registration...
+Dialogue: 0,0:07:54.72,0:07:56.50,Default,H,0,0,0,,you can still receive compensation.
+Dialogue: 0,0:07:57.71,0:08:06.81,Bengoshi-Title,Title,0,0,0,,Divorce Chaser\N{\fs25}~Let's Turn Your Tears into Money~
+Dialogue: 0,0:08:07.15,0:08:11.92,Bengoshi-Ep_Title,Caption right,0,0,0,,Divorce Chaser Episode 9 \N"Two wives" in a heroic battle!
+Dialogue: 0,0:08:11.92,0:08:15.99,Bengoshi-Top,H,0,0,0,,Ordinarily, common-law marriages have \Naspects in common with legal marriages.
+Dialogue: 0,0:08:15.99,0:08:18.28,Bengoshi-Top,H,0,0,0,,In other words, they have the \Nobligation of mutual cooperation,
+Dialogue: 0,0:08:17.13,0:08:21.96,Bengoshi-Vocab_Definition1,Caption (left to right),0,0,0,,{\fad(360,0)}Obligation of mutual cooperation
+Dialogue: 0,0:08:18.16,0:08:21.96,Bengoshi-Vocab_Definition1,Caption (left to right),0,0,0,,{\a3}{\fad(360,0)}Obligation of mutual fidelity
+Dialogue: 0,0:08:18.28,0:08:19.61,Bengoshi-Top,H,0,0,0,,and the obligation of mutual fidelity.
+Dialogue: 0,0:08:19.61,0:08:21.96,Bengoshi-Top,H,0,0,0,,If we can prove that you two were \Nliving together in common-law marriage,
+Dialogue: 0,0:08:21.96,0:08:25.27,Bengoshi-Top,H,0,0,0,,then it's possible to sue for compensation, \Njust as if you were legally married.
+Dialogue: 0,0:08:25.27,0:08:27.28,Default,All,0,0,0,,I see...
+Dialogue: 0,0:08:27.28,0:08:31.02,Default,K,0,0,0,,But, how can she prove that it \Nwas a common-law marriage?
+Dialogue: 0,0:08:31.02,0:08:33.01,Bengoshi-Top,H,0,0,0,,There are two aspects.
+Dialogue: 0,0:08:31.74,0:08:46.42,Bengoshi-Vocab_Word,Caption orange,0,0,0,,{\fad(550,0)}Aspects proving common-law marriage
+Dialogue: 0,0:08:33.01,0:08:34.04,Bengoshi-Top,H,0,0,0,,Number one.
+Dialogue: 0,0:08:34.04,0:08:37.09,Bengoshi-Top,H,0,0,0,,The couple is eventually \Nplanning to register the marriage.
+Dialogue: 0,0:08:34.28,0:08:46.42,Bengoshi-Vocab_Definition_List1,Caption (1),0,0,0,,{\fad(550,0)}The couple is eventually planning to register the marriage.
+Dialogue: 0,0:08:37.09,0:08:38.05,Bengoshi-Top,H,0,0,0,,Number two.
+Dialogue: 0,0:08:38.05,0:08:41.11,Bengoshi-Top,H,0,0,0,,They are living together \Nas husband and wife.
+Dialogue: 0,0:08:38.21,0:08:46.42,Bengoshi-Vocab_Definition_List2,Caption (2),0,0,0,,{\fad(550,0)}They are living together as husband and wife.
+Dialogue: 0,0:08:41.11,0:08:42.42,Bengoshi-Top,Aoi,0,0,0,,Then, yes.
+Dialogue: 0,0:08:42.42,0:08:44.15,Bengoshi-Top,Aoi,0,0,0,,We both planned on getting \Nlegally married,
+Dialogue: 0,0:08:44.15,0:08:46.80,Bengoshi-Top,Aoi,0,0,0,,and we lived together \Nas husband and wife.
+Dialogue: 0,0:08:46.80,0:08:49.39,Default,H,0,0,0,,So, we need proof of those things.
+Dialogue: 0,0:08:49.39,0:08:51.01,Default,Aoi,0,0,0,,Proof?
+Dialogue: 0,0:08:51.01,0:08:54.88,Default,H,0,0,0,,The most effective proof would be documents \Nwith both your names on them.
+Dialogue: 0,0:08:54.88,0:08:56.40,Default,H,0,0,0,,For example, \Na certificate of residence,
+Dialogue: 0,0:08:56.40,0:08:57.73,Default,H,0,0,0,,with one of your names\N listed as "head of household."
+Dialogue: 0,0:08:57.73,0:08:59.47,Default,H,0,0,0,,That is, one of you listed as head of household,
+Dialogue: 0,0:08:57.80,0:08:59.47,Bengoshi-Popup_Form,Popup (left column; top to bottom),0,0,0,,Head of Household: Hirano Kohei\N Name: Hirano Kohei\N Relationship: Self
+Dialogue: 0,0:08:59.47,0:09:01.70,Bengoshi-Popup_Form,Popup (right column),0,0,0,,Head of Household: Hirano Kohei\N Name: Nishijima Aoi\N Relationship: Wife (unregistered)
+Dialogue: 0,0:08:59.47,0:09:04.01,Default,H,0,0,0,,and the other listed as \N"unregistered wife or husband."
+Dialogue: 0,0:09:01.70,0:09:07.14,Bengoshi-Popup_Form,[redundant highlight; left to right],0,0,0,,Relationship: Wife (unregistered)
+Dialogue: 0,0:09:04.63,0:09:07.47,Default,Aoi,0,0,0,,We have separate \Ncertificates of residence.
+Dialogue: 0,0:09:07.47,0:09:11.08,Default,H,0,0,0,,Then how about an \Napartment rental agreement?
+Dialogue: 0,0:09:08.94,0:09:10.44,Bengoshi-Popup_Form,Letter top,0,0,0,,Apartment Rental Agreement
+Dialogue: 0,0:09:11.08,0:09:13.84,Default,H,0,0,0,,Is the rental agreement \Nin both your names?
+Dialogue: 0,0:09:13.45,0:09:19.22,Bengoshi-Popup_Form,Zoom,0,0,0,,Renter name(s): Hirano Kohei\N Nishijima Aoi
+Dialogue: 0,0:09:13.84,0:09:15.48,Default,Aoi,0,0,0,,No.
+Dialogue: 0,0:09:15.48,0:09:19.02,Default,Aoi,0,0,0,,He moved into the apartment \Nwhere I was already living.
+Dialogue: 0,0:09:19.89,0:09:21.45,Default,H,0,0,0,,I see...
+Dialogue: 0,0:09:24.37,0:09:28.49,Default,H,0,0,0,,Then, is there anyone who can prove \Nthat you two were husband and wife?
+Dialogue: 0,0:09:28.49,0:09:30.78,Default,H,0,0,0,,For example, your respective parents,
+Dialogue: 0,0:09:30.78,0:09:32.99,Default,H,0,0,0,,or friends, or people at work?
+Dialogue: 0,0:09:32.99,0:09:37.10,Default,Aoi,0,0,0,,I never introduced him to my parents...
+Dialogue: 0,0:09:37.74,0:09:40.21,Default,Aoi,0,0,0,,I've never met his friends, either.
+Dialogue: 0,0:09:41.34,0:09:44.61,Default,Aoi,0,0,0,,My husband is always \Naway on business trips.
+Dialogue: 0,0:09:44.61,0:09:47.51,Default,Y,0,0,0,,There's no proof, then.
+Dialogue: 0,0:09:47.51,0:09:50.61,Default,Rina,0,0,0,,You've got no proof whatsoever, then.
+Dialogue: 0,0:09:53.06,0:09:55.12,Default,Kur,0,0,0,,Thank you for waiting.
+Dialogue: 0,0:09:55.57,0:09:58.27,Default,Kur,0,0,0,,I'm Umemoto, freelance investigator.
+Dialogue: 0,0:09:56.92,0:10:00.33,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(360,360)}Freelance Investigator\N Umemoto Kurumi
+Dialogue: 0,0:09:58.27,0:10:00.31,Default,Y,0,0,0,,We weren't waiting, particularly.
+Dialogue: 0,0:10:00.31,0:10:01.10,Default,Kur,0,0,0,,Oh?
+Dialogue: 0,0:10:01.10,0:10:03.13,Default,Kur,0,0,0,,Didn't I hear you say there's no proof?
+Dialogue: 0,0:10:03.13,0:10:04.90,Default,Rina,0,0,0,,I said that.
+Dialogue: 0,0:10:05.40,0:10:07.63,Default,Kur,0,0,0,,If you need solid proof,
+Dialogue: 0,0:10:07.63,0:10:11.27,Default,Kur,0,0,0,,see Iron Spy Woman: Marilyn, \Nseason 10 episode 9.
+Dialogue: 0,0:10:09.43,0:10:11.27,Bengoshi-Spy_Marilyn,DVD,0,0,0,,Iron Spy Woman\N {\fs25\c&H7B7D83&}Marilyn
+Dialogue: 0,0:10:13.50,0:10:15.22,Default,Marilyn,0,0,0,,You were careless.
+Dialogue: 0,0:10:15.22,0:10:17.85,Default,Marilyn,0,0,0,,Because the proof is \Nalways in one's memories.
+Dialogue: 0,0:10:19.09,0:10:21.48,Default,Kur,0,0,0,,Reflect, and there \Nyou'll find the proof.
+Dialogue: 0,0:10:22.18,0:10:22.75,Default,Kur,0,0,0,,Bang!
+Dialogue: 0,0:10:22.75,0:10:23.90,Default,Y,0,0,0,,What?
+Dialogue: 0,0:10:23.90,0:10:25.44,Default,Y,0,0,0,,Where? Where?
+Dialogue: 0,0:10:26.77,0:10:28.75,Default,Aoi,0,0,0,,It's in my memories?
+Dialogue: 0,0:10:28.75,0:10:29.82,Default,Kur,0,0,0,,That's right.
+Dialogue: 0,0:10:29.82,0:10:31.89,Default,Kur,0,0,0,,You lived together for \Ntwo whole years, right?
+Dialogue: 0,0:10:31.89,0:10:34.90,Default,Kur,0,0,0,,Follow your memories, and you'll \Ndefinitely find something.
+Dialogue: 0,0:10:37.22,0:10:38.61,Default,Aoi,0,0,0,,Come to think of it...
+Dialogue: 0,0:10:38.61,0:10:41.50,Default,Aoi,0,0,0,,Would a photo in a wedding dress\Ncount as proof?
+Dialogue: 0,0:10:41.50,0:10:42.60,Default,H,0,0,0,,Was there a wedding ceremony?
+Dialogue: 0,0:10:42.60,0:10:44.10,Default,Aoi,0,0,0,,No, we didn't have a ceremony,
+Dialogue: 0,0:10:44.10,0:10:45.77,Default,Aoi,0,0,0,,but we wanted a keepsake photo.
+Dialogue: 0,0:10:45.77,0:10:47.90,Default,H,0,0,0,,That would work as proof.
+Dialogue: 0,0:10:47.90,0:10:49.93,Default,Aoi,0,0,0,,Also, there's a written pledge.
+Dialogue: 0,0:10:49.93,0:10:50.94,Default,K,0,0,0,,A written pledge?
+Dialogue: 0,0:10:50.94,0:10:51.61,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:10:51.61,0:10:56.05,Default,Aoi,0,0,0,,We wrote down three articles we \Npledged to keep as husband and wife.
+Dialogue: 0,0:10:53.41,0:10:56.05,Bengoshi-Articles,Writ rightmost (reading from right to left),0,0,0,,Three articles for husband and wife\N 1. Living expenses are half and half.\N 2. No interfering in each other's work. \N3. Never forget love and respect.
+Dialogue: 0,0:10:56.05,0:10:57.55,Default,H,0,0,0,,We could use that, too.
+Dialogue: 0,0:10:57.55,0:10:59.58,Default,Kur,0,0,0,,There's more, isn't there?
+Dialogue: 0,0:10:59.58,0:11:01.02,Default,Kur,0,0,0,,In your sweet memories as a couple.
+Dialogue: 0,0:11:01.02,0:11:04.56,Default,Aoi,0,0,0,,There's a calendar with \Nboth our schedules on it.
+Dialogue: 0,0:11:04.56,0:11:05.25,Default,H,0,0,0,,That's good.
+Dialogue: 0,0:11:05.25,0:11:06.80,Default,Aoi,0,0,0,,I also have his-and-hers tea cups.
+Dialogue: 0,0:11:06.80,0:11:08.12,Default,H,0,0,0,,Okay.
+Dialogue: 0,0:11:08.12,0:11:09.55,Default,Y,0,0,0,,You found them.
+Dialogue: 0,0:11:09.55,0:11:12.39,Default,Y,0,0,0,,In your "sweet memories"!
+Dialogue: 0,0:11:12.39,0:11:14.70,Default,H,0,0,0,,Anyway, you have to gather \Nas much evidence as you can.
+Dialogue: 0,0:11:14.70,0:11:15.90,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:11:15.90,0:11:17.81,Default,H,0,0,0,,And Umemoto-san,
+Dialogue: 0,0:11:17.81,0:11:19.73,Default,H,0,0,0,,please investigate the \Nhusband's adultery.
+Dialogue: 0,0:11:19.73,0:11:20.95,Default,Kur,0,0,0,,Roger.
+Dialogue: 0,0:11:25.22,0:11:26.12,Default,K,0,0,0,,Aoi-san.
+Dialogue: 0,0:11:26.12,0:11:29.37,Default,K,0,0,0,,Hakamada-sensei will help,\N I assure you.
+Dialogue: 0,0:11:30.24,0:11:31.48,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:11:37.17,0:11:38.43,Default,Fujioka,0,0,0,,Come in.
+Dialogue: 0,0:11:39.22,0:11:40.81,Default,Kohei,0,0,0,,Pardon me.
+Dialogue: 0,0:11:41.97,0:11:43.76,Default,Fujioka,0,0,0,,Done moving yet?
+Dialogue: 0,0:11:43.76,0:11:45.52,Default,Kohei,0,0,0,,Yes, thank you for your help.
+Dialogue: 0,0:11:46.61,0:11:50.72,Default,Fujioka,0,0,0,,We're having your inaugural ceremony \Non a Monday, two weeks from now.
+Dialogue: 0,0:11:50.72,0:11:52.06,Default,Kohei,0,0,0,,Yes. sir.
+Dialogue: 0,0:11:51.40,0:11:54.77,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(360,360)}Company President\N Fujioka Shigeru
+Dialogue: 0,0:11:52.06,0:11:54.37,Default,Fujioka,0,0,0,,You, the young newbie,
+Dialogue: 0,0:11:54.37,0:11:57.01,Default,Fujioka,0,0,0,,were recommended \Nbefore all your seniors.
+Dialogue: 0,0:11:57.01,0:11:59.41,Default,Fujioka,0,0,0,,So, get ready for some turbulence.
+Dialogue: 0,0:12:02.22,0:12:04.26,Default,Fujioka,0,0,0,,As we've discussed before,
+Dialogue: 0,0:12:04.26,0:12:07.08,Default,Fujioka,0,0,0,,don't get yourself into any hot water,
+Dialogue: 0,0:12:07.75,0:12:09.86,Default,Fujioka,0,0,0,,No mistakes or any kind of trouble \Nyou need to be rescued from.
+Dialogue: 0,0:12:09.86,0:12:11.45,Default,Kohei,0,0,0,,I am fully aware of that.
+Dialogue: 0,0:12:11.86,0:12:14.31,Default,Kohei,0,0,0,,I have risen to my position \Nthanks to you, President.
+Dialogue: 0,0:12:14.31,0:12:15.76,Default,Kohei,0,0,0,,Thank you very much.
+Dialogue: 0,0:12:16.57,0:12:19.58,Default,Fujioka,0,0,0,,By the way, Tomomi called me.
+Dialogue: 0,0:12:20.29,0:12:22.43,Default,Fujioka,0,0,0,,She's worried you might cheat on her.
+Dialogue: 0,0:12:24.74,0:12:26.53,Default,Kohei,0,0,0,,She has nothing to worry about.
+Dialogue: 0,0:12:26.53,0:12:28.17,Default,Fujioka,0,0,0,,I can trust you?
+Dialogue: 0,0:12:28.17,0:12:29.67,Default,Kohei,0,0,0,,Of course.
+Dialogue: 0,0:13:05.63,0:13:06.78,Default,Aoi,0,0,0,,Huh?
+Dialogue: 0,0:13:10.83,0:13:11.81,Default,Aoi,0,0,0,,It's gone.
+Dialogue: 0,0:13:14.01,0:13:15.09,Default,Aoi,0,0,0,,It's gone.
+Dialogue: 0,0:13:21.72,0:13:23.77,Default,Aoi,0,0,0,,Why?
+Dialogue: 0,0:13:32.68,0:13:34.33,Default,Aoi,0,0,0,,The teacups, too.
+Dialogue: 0,0:13:34.33,0:13:37.74,Default,,0,0,0,,Gone.
+Dialogue: 0,0:13:43.24,0:13:44.87,Default,Aoi,0,0,0,,Ko-chan...
+Dialogue: 0,0:13:51.12,0:13:55.59,Default,Voice message,0,0,0,,The number you have dialed \Nis not in service.
+Dialogue: 0,0:13:56.35,0:14:00.18,Default,Voice message,0,0,0,,Please check the number and try again.
+Dialogue: 0,0:14:23.99,0:14:25.31,Default,Aoi,0,0,0,,I'm sorry.
+Dialogue: 0,0:14:25.31,0:14:26.41,Default,H,0,0,0,,No.
+Dialogue: 0,0:14:26.41,0:14:27.63,Default,Aoi,0,0,0,,Please.
+Dialogue: 0,0:14:30.67,0:14:33.58,Default,Aoi,0,0,0,,All of his things were gone
+Dialogue: 0,0:14:33.58,0:14:36.05,Default,Aoi,0,0,0,,when I got home from work last night.
+Dialogue: 0,0:14:36.05,0:14:37.33,Default,K,0,0,0,,All of his things?
+Dialogue: 0,0:14:37.33,0:14:38.86,Default,K,0,0,0,,What about the evidence?
+Dialogue: 0,0:14:40.73,0:14:42.89,Default,H,0,0,0,,Do you have any stored \Ndata on your computer?
+Dialogue: 0,0:14:43.40,0:14:44.56,Default,Aoi,0,0,0,,Oh.
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders,Folder (top left),0,0,0,,Finances
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders_Right,Folder (top right),0,0,0,,Documents
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders,Folder (middle left),0,0,0,,{\a9}Hairstyles (1)
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders_Right,Folder (middle right),0,0,0,,{\a11}Photos
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders,Folder (bottom left),0,0,0,,{\a1}Hairstyles (2)
+Dialogue: 0,0:14:50.17,0:14:52.01,Bengoshi-Folders_Right,Folder (bottom right),0,0,0,,{\a3}Videos
+Dialogue: 0,0:14:54.48,0:14:56.24,Bengoshi-Empty_Folder,Screen,0,0,0,,This folder is empty.
+Dialogue: 0,0:14:54.77,0:14:56.24,Default,K,0,0,0,,How could this happen?
+Dialogue: 0,0:14:56.24,0:15:01.23,Default,H,0,0,0,,It seems he took more than \Njust his own belongings.
+Dialogue: 0,0:15:01.23,0:15:02.62,Default,K,0,0,0,,What do you mean?
+Dialogue: 0,0:15:03.33,0:15:05.40,Default,H,0,0,0,,Just looking at this room alone,
+Dialogue: 0,0:15:05.40,0:15:07.46,Default,H,0,0,0,,there's no indication \Na husband lived here.
+Dialogue: 0,0:15:08.85,0:15:09.84,Default,H,0,0,0,,In other words,
+Dialogue: 0,0:15:09.84,0:15:14.19,Default,H,0,0,0,,Kohei-san erased every \Ntrace of himself from here.
+Dialogue: 0,0:15:14.19,0:15:16.21,Default,Aoi,0,0,0,,This can't be happening.
+Dialogue: 0,0:15:16.21,0:15:20.08,Default,H,0,0,0,,Perhaps Kohei-san is \Nknowledgable about the law.
+Dialogue: 0,0:15:20.57,0:15:21.85,Default,K,0,0,0,,What?
+Dialogue: 0,0:15:22.93,0:15:26.19,Default,H,0,0,0,,He took a mitigating course of action,\N in order to avoid getting sued by Aoi-san.
+Dialogue: 0,0:15:26.57,0:15:28.28,Default,H,0,0,0,,That would be my guess.
+Dialogue: 0,0:15:28.28,0:15:30.49,Default,Aoi,0,0,0,,Ko-chan would do that?
+Dialogue: 0,0:15:31.39,0:15:32.90,Default,Aoi,0,0,0,,Why?
+Dialogue: 0,0:15:34.24,0:15:36.28,Default,K,0,0,0,,What now, Sensei?
+Dialogue: 0,0:15:37.68,0:15:40.73,Default,H,0,0,0,,We can't prove the common-law marriage.
+Dialogue: 0,0:15:41.26,0:15:42.77,Default,H,0,0,0,,This is going to be difficult.
+Dialogue: 0,0:15:50.87,0:15:51.92,Default,H,0,0,0,,Umemoto-san?
+Dialogue: 0,0:15:51.92,0:15:54.49,Default,Kur,0,0,0,,Things are getting complicated.
+Dialogue: 0,0:15:54.93,0:15:57.00,Default,H,0,0,0,,Complicated?
+Dialogue: 0,0:16:01.63,0:16:03.14,Default,Kur,0,0,0,,Look at this.
+Dialogue: 0,0:16:04.61,0:16:06.45,Default,Aoi,0,0,0,,I knew it.
+Dialogue: 0,0:16:06.45,0:16:08.92,Default,Aoi,0,0,0,,So, she's his illicit partner?
+Dialogue: 0,0:16:08.92,0:16:11.06,Default,Kur,0,0,0,,No. She's not.
+Dialogue: 0,0:16:11.06,0:16:12.82,Default,K,0,0,0,,Who is, then?
+Dialogue: 0,0:16:12.82,0:16:15.65,Default,Kur,0,0,0,,This woman's name is Hirano Tomomi-san.
+Dialogue: 0,0:16:15.65,0:16:18.82,Default,Kur,0,0,0,,She is Hirano Kohei-san's legal spouse.
+Dialogue: 0,0:16:20.11,0:16:20.96,Default,Aoi,0,0,0,,What?!
+Dialogue: 0,0:16:21.89,0:16:22.79,Default,Rina,0,0,0,,Huh?
+Dialogue: 0,0:16:23.22,0:16:24.20,Default,Kur,0,0,0,,Which means,
+Dialogue: 0,0:16:24.20,0:16:26.85,Default,Kur,0,0,0,,Hirano Kohei-san's illicit partner...
+Dialogue: 0,0:16:26.85,0:16:29.47,Default,Kur,0,0,0,,is you, Aoi-san.
+Dialogue: 0,0:16:30.96,0:16:32.68,Default,Aoi,0,0,0,,Me?
+Dialogue: 0,0:16:34.60,0:16:38.00,Default,Aoi,0,0,0,,I'm the illicit partner?
+Dialogue: 0,0:16:39.26,0:16:42.07,Default,K,0,0,0,,Wait a second. What does that mean?
+Dialogue: 0,0:16:42.15,0:16:43.55,Bengoshi-Investigation_Report,Letter,0,0,0,,Investigation Report
+Dialogue: 0,0:16:44.59,0:16:47.79,Default,Kur,0,0,0,,Kohei-san works at Fuji House Tech,
+Dialogue: 0,0:16:47.79,0:16:49.37,Default,Kur,0,0,0,,at the main office in Nagoya.
+Dialogue: 0,0:16:47.79,0:16:50.02,Bengoshi-Investigation_Report,Letter,0,0,0,,{\a7}Employee Profile \N\N{\b0}Name: Hirano Kohei \NDivision: Fuji House Tech Nagoya, Main Office{\b1}
+Dialogue: 0,0:16:49.37,0:16:50.79,Default,Kur,0,0,0,,For half of the month,
+Dialogue: 0,0:16:50.79,0:16:53.17,Default,Kur,0,0,0,,he would come to \NTokyo on business trips.
+Dialogue: 0,0:16:53.17,0:16:55.03,Default,Aoi,0,0,0,,"He would come {\i1}to{\i0} Tokyo"?
+Dialogue: 0,0:16:55.03,0:16:56.80,Default,Aoi,0,0,0,,You mean he'd go {\i1}from{\i0} Tokyo, right?
+Dialogue: 0,0:16:56.80,0:16:58.53,Default,Kur,0,0,0,,No, that's not what I said.
+Dialogue: 0,0:16:58.53,0:17:00.66,Default,Kur,0,0,0,,It's the opposite.
+Dialogue: 0,0:17:00.66,0:17:02.37,Default,Kur,0,0,0,,On one of these trips to Tokyo,
+Dialogue: 0,0:17:02.37,0:17:03.50,Default,Kur,0,0,0,,he met you, Aoi-san,
+Dialogue: 0,0:17:03.50,0:17:04.99,Default,Kur,0,0,0,,and entered a common-law \Nmarriage with you.
+Dialogue: 0,0:17:04.99,0:17:06.63,Default,Kur,0,0,0,,It started two years ago, right?
+Dialogue: 0,0:17:06.63,0:17:07.88,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:17:08.61,0:17:11.78,Default,Kur,0,0,0,,Subsequently, he met \NTomomi-san in Nagoya,
+Dialogue: 0,0:17:11.78,0:17:13.46,Default,Kur,0,0,0,,and got legally married to her.
+Dialogue: 0,0:17:11.78,0:17:13.77,Bengoshi-Investigation_Report,Letter,0,0,0,,{\a1}{\b0}Name: Tomomi | Wife | Married March 4, 2013{\b1}
+Dialogue: 0,0:17:13.46,0:17:15.29,Default,Kur,0,0,0,,And that was one year ago.
+Dialogue: 0,0:17:13.79,0:17:15.88,Bengoshi-Investigation_Report,Letter,0,0,0,,{\a1\b0\fs25}Wife | Married March 4, 2013{\b1}
+Dialogue: 0,0:17:15.29,0:17:17.87,Default,Rina,0,0,0,,But, Aoi-san is his wife...
+Dialogue: 0,0:17:18.29,0:17:19.62,Default,Rina,0,0,0,,Is this bigamy?
+Dialogue: 0,0:17:20.37,0:17:21.54,Default,Kur,0,0,0,,In addition,
+Dialogue: 0,0:17:21.54,0:17:24.49,Default,Kur,0,0,0,,Tomomi-san is the daughter \Nof the company president.
+Dialogue: 0,0:17:24.49,0:17:26.71,Default,Rina,0,0,0,,The president's daughter?
+Dialogue: 0,0:17:26.71,0:17:28.42,Default,Kur,0,0,0,,Maybe the marriage paid off.
+Dialogue: 0,0:17:28.42,0:17:29.38,Default,Kur,0,0,0,,In two weeks,
+Dialogue: 0,0:17:29.38,0:17:33.11,Default,Kur,0,0,0,,he's getting promoted to an executive \Nposition at Fuji House Tech's Tokyo Branch.
+Dialogue: 0,0:17:34.03,0:17:35.83,Default,H,0,0,0,,I understand.
+Dialogue: 0,0:17:35.83,0:17:37.27,Default,H,0,0,0,,For the sake of his promotion,
+Dialogue: 0,0:17:37.27,0:17:40.00,Default,H,0,0,0,,he had to eradicate his double life.
+Dialogue: 0,0:17:40.72,0:17:42.40,Default,H,0,0,0,,That's why asked you for a separation.
+Dialogue: 0,0:17:42.40,0:17:44.44,Default,Kur,0,0,0,,That's how it is.
+Dialogue: 0,0:17:44.44,0:17:47.11,Default,Kur,0,0,0,,Good job. You're smart.
+Dialogue: 0,0:17:52.36,0:17:56.18,Default,Kur,0,0,0,,Anyway, I have to go now.
+Dialogue: 0,0:18:03.04,0:18:06.76,Default,H,0,0,0,,This is no longer an issue \Nof simple adultery.
+Dialogue: 0,0:18:08.17,0:18:10.81,Default,K,0,0,0,,Are you all right, Aoi-san?
+Dialogue: 0,0:18:14.19,0:18:19.39,Default,Aoi,0,0,0,,I've been fooled, all this time.
+Dialogue: 0,0:18:21.23,0:18:23.28,Default,Aoi,0,0,0,,And I believed him.
+Dialogue: 0,0:18:25.34,0:18:27.01,Default,Aoi,0,0,0,,I can't forgive him.
+Dialogue: 0,0:18:28.14,0:18:30.21,Default,Aoi,0,0,0,,This is too horrible!
+Dialogue: 0,0:18:31.29,0:18:32.39,Default,Y,0,0,0,,Everyone.
+Dialogue: 0,0:18:32.39,0:18:33.83,Default,Y,0,0,0,,We got a new client.
+Dialogue: 0,0:18:33.83,0:18:37.14,Default,Y,0,0,0,,Her husband is cheating on her, \Nand she wants to sue him for compensation.
+Dialogue: 0,0:18:37.14,0:18:40.73,Default,Y,0,0,0,,She even has photos taken by a private \Ndetective agency to present as evidence.
+Dialogue: 0,0:18:40.73,0:18:41.76,Default,Y,0,0,0,,You scored.
+Dialogue: 0,0:18:41.76,0:18:43.64,Default,Y,0,0,0,,Two jobs back to back.
+Dialogue: 0,0:18:43.64,0:18:46.72,Default,Y,0,0,0,,I think I can expect rent \Npayment this month.
+Dialogue: 0,0:18:46.72,0:18:47.73,Default,H,0,0,0,,Where is the client?
+Dialogue: 0,0:18:47.73,0:18:49.80,Default,Y,0,0,0,,Oh. Whoops.
+Dialogue: 0,0:18:50.53,0:18:51.87,Default,Y,0,0,0,,Please come in!
+Dialogue: 0,0:18:51.87,0:18:53.22,Default,Y,0,0,0,,This way.
+Dialogue: 0,0:18:53.22,0:18:55.74,Default,Y,0,0,0,,Please come in.
+Dialogue: 0,0:18:55.78,0:18:58.38,Bengoshi-Credits,Caption,0,0,0,,{\fad(360,0)}Kohei's wife\N Hirano Tomomi
+Dialogue: 0,0:18:58.38,0:19:01.58,Default,K,0,0,0,,She looks familiar.
+Dialogue: 0,0:19:21.41,0:19:22.76,Default,Tomomi,0,0,0,,You.
+Dialogue: 0,0:19:22.76,0:19:24.51,Default,Tomomi,0,0,0,,Are you Nishijima Aoi?
+Dialogue: 0,0:19:25.17,0:19:26.79,Default,Aoi,0,0,0,,I am, so what?
+Dialogue: 0,0:19:28.95,0:19:32.21,Default,Aoi,0,0,0,,What was that for?
+Dialogue: 0,0:19:33.49,0:19:37.62,Default,Tomomi,0,0,0,,Take your hands off my husband!
+Dialogue: 0,0:19:38.79,0:19:41.47,Default,Aoi,0,0,0,,That's my line!
+Dialogue: 0,0:19:41.47,0:19:42.79,Default,Tomomi,0,0,0,,I'm his wife!
+Dialogue: 0,0:19:42.79,0:19:43.87,Default,Aoi,0,0,0,,{\i1}I'm{\i0} his wife!
+Dialogue: 0,0:19:43.87,0:19:45.61,Default,Tomomi,0,0,0,,How could you be his wife?
+Dialogue: 0,0:19:45.61,0:19:47.36,Default,Tomomi,0,0,0,,You can't be his wife!
+Dialogue: 0,0:19:47.36,0:19:49.27,Default,Y,0,0,0,,This is getting good!
+Dialogue: 0,0:19:49.27,0:19:50.90,Default,K,0,0,0,,Sensei, you have to stop them!
+Dialogue: 0,0:19:53.17,0:19:55.37,Default,H,0,0,0,,Please calm down, both of you.
+Dialogue: 0,0:19:54.27,0:19:56.18,Bengoshi-Overlap,Tomomi,0,0,0,,Shut up!
+Dialogue: 0,0:19:58.03,0:19:59.40,Default,Aoi,0,0,0,,Listen, Ko-chan is...
+Dialogue: 0,0:19:59.40,0:20:00.22,Default,Tomomi,0,0,0,,"Ko-chan"?
+Dialogue: 0,0:20:00.22,0:20:02.67,Default,Tomomi,0,0,0,,Who are you to call him "Ko-chan"?
+Dialogue: 0,0:20:03.91,0:20:05.74,Default,Tomomi,0,0,0,,You're a liar!
+Dialogue: 0,0:20:05.41,0:20:06.84,Bengoshi-Overlap,Aoi,0,0,0,,You bitch!
+Dialogue: 0,0:20:07.14,0:20:09.14,Default,,0,0,0,,Insane hag!
+Dialogue: 0,0:20:08.78,0:20:10.78,Bengoshi-Overlap,,0,0,0,,Home wrecker!
+Dialogue: 0,0:20:09.97,0:20:11.38,Default,H,0,0,0,,Please stop it, both of you!
+Dialogue: 0,0:20:11.38,0:20:14.36,Default,H,0,0,0,,You're both victims here!
+Dialogue: 0,0:20:17.45,0:20:18.99,Default,Aoi,0,0,0,,Victims?
+Dialogue: 0,0:20:18.99,0:20:21.97,Default,Tomomi,0,0,0,,Don't lump me in with this woman.
+Dialogue: 0,0:20:21.97,0:20:27.00,Default,Tomomi,0,0,0,,This woman is my Kohei-san's mistress!
+Dialogue: 0,0:20:27.00,0:20:29.50,Default,Tomomi,0,0,0,,I can prove it!
+Dialogue: 0,0:20:33.82,0:20:35.37,Default,Tomomi,0,0,0,,See, now you know.
+Dialogue: 0,0:20:35.37,0:20:37.30,Default,Tomomi,0,0,0,,This woman is a liar.
+Dialogue: 0,0:20:37.91,0:20:39.65,Default,H,0,0,0,,You've got it wrong.
+Dialogue: 0,0:20:39.65,0:20:44.55,Default,H,0,0,0,,Aoi-san has been Kohei-san's \Ncommon-law wife for two years.
+Dialogue: 0,0:20:44.55,0:20:45.64,Default,Tomomi,0,0,0,,Two years?
+Dialogue: 0,0:20:45.64,0:20:47.69,Default,Tomomi,0,0,0,,Common-law wife?
+Dialogue: 0,0:20:47.69,0:20:50.12,Default,H,0,0,0,,Kohei-san kept it secret from you,
+Dialogue: 0,0:20:50.12,0:20:51.59,Default,H,0,0,0,,and married you just the same.
+Dialogue: 0,0:20:51.59,0:20:52.93,Default,Tomomi,0,0,0,,That's a lie.
+Dialogue: 0,0:20:52.93,0:20:54.33,Default,Tomomi,0,0,0,,A lie!
+Dialogue: 0,0:20:54.33,0:20:57.28,Default,H,0,0,0,,Aoi-san. Tomomi-san.
+Dialogue: 0,0:20:57.28,0:20:59.27,Default,H,0,0,0,,Show me your left hands.
+Dialogue: 0,0:20:59.27,0:21:00.60,Default,Aoi,0,0,0,,Left hand?
+Dialogue: 0,0:21:05.09,0:21:06.40,Default,K,0,0,0,,The same ring?
+Dialogue: 0,0:21:07.52,0:21:09.10,Default,H,0,0,0,,Aoi-san.
+Dialogue: 0,0:21:09.10,0:21:11.61,Default,H,0,0,0,,When did Kohei-san give you that ring?
+Dialogue: 0,0:21:12.62,0:21:14.79,Default,Aoi,0,0,0,,In March, last year.
+Dialogue: 0,0:21:15.31,0:21:17.22,Default,Aoi,0,0,0,,It wasn't our anniversary or anything.
+Dialogue: 0,0:21:17.22,0:21:18.55,Default,Aoi,0,0,0,,He just suddenly gave it to me.
+Dialogue: 0,0:21:18.55,0:21:21.07,Default,Tomomi,0,0,0,,What? In March...
+Dialogue: 0,0:21:21.71,0:21:24.49,Default,H,0,0,0,,That was the same time he \Nmarried you, Tomomi-san.
+Dialogue: 0,0:21:25.77,0:21:27.57,Default,H,0,0,0,,This means Kohei-san
+Dialogue: 0,0:21:27.57,0:21:31.82,Default,H,0,0,0,,gave two identical rings to both \Nof you around the same time.
+Dialogue: 0,0:21:32.67,0:21:36.21,Default,H,0,0,0,,That way he wouldn't have to keep \Nswitching his own matching wedding band,
+Dialogue: 0,0:21:36.21,0:21:38.95,Default,H,0,0,0,,whether he was in Tokyo or Nagoya.
+Dialogue: 0,0:21:41.96,0:21:43.75,Default,H,0,0,0,,You two understand now, right?
+Dialogue: 0,0:21:44.19,0:21:47.97,Default,H,0,0,0,,He was fooling you both.
+Dialogue: 0,0:21:47.97,0:21:50.41,Default,H,0,0,0,,You are {\i1}both{\i0} his victims.
+Dialogue: 0,0:21:50.41,0:21:53.01,Default,Tomomi,0,0,0,,You're wrong. You're wrong!
+Dialogue: 0,0:21:53.01,0:21:54.83,Default,Tomomi,0,0,0,,That ring is just a coincidence.
+Dialogue: 0,0:21:54.83,0:21:56.88,Default,Tomomi,0,0,0,,My surname is Hirano.
+Dialogue: 0,0:21:56.88,0:21:59.30,Default,Tomomi,0,0,0,,I'm in the public registry as his wife.
+Dialogue: 0,0:21:59.30,0:22:01.62,Default,Tomomi,0,0,0,,But how could {\i1}you{\i0} prove \Nthat you're his wife?!
+Dialogue: 0,0:22:01.62,0:22:03.30,Default,Aoi,0,0,0,,Well...
+Dialogue: 0,0:22:04.66,0:22:06.19,Default,Tomomi,0,0,0,,You see?
+Dialogue: 0,0:22:07.48,0:22:11.53,Default,Tomomi,0,0,0,,I am suing this woman for compensation.
+Dialogue: 0,0:22:12.46,0:22:14.04,Default,Tomomi,0,0,0,,Sensei.
+Dialogue: 0,0:22:14.04,0:22:16.33,Default,Tomomi,0,0,0,,Please be my legal representative.
+Dialogue: 0,0:22:17.64,0:22:20.33,Default,H,0,0,0,,Unfortunately, I cannot do that.
+Dialogue: 0,0:22:20.33,0:22:21.25,Default,Tomomi,0,0,0,,What?
+Dialogue: 0,0:22:21.25,0:22:23.60,Default,H,0,0,0,,I am Aoi-san's legal representative.
+Dialogue: 0,0:22:23.97,0:22:27.13,Default,H,0,0,0,,And you want to sue Aoi-san, \Nif I took you on as a client,
+Dialogue: 0,0:22:27.57,0:22:29.18,Default,H,0,0,0,,it would be a conflict of interest.
+Dialogue: 0,0:22:30.00,0:22:34.95,Default,H,0,0,0,,Also, Aoi-san did not know that \NKohei-san was married to you.
+Dialogue: 0,0:22:36.01,0:22:38.85,Default,H,0,0,0,,So you cannot sue her for compensation.
+Dialogue: 0,0:22:38.85,0:22:40.46,Default,Tomomi,0,0,0,,I can't?
+Dialogue: 0,0:22:40.46,0:22:41.69,Default,H,0,0,0,,But, Tomomi-san,
+Dialogue: 0,0:22:41.69,0:22:46.79,Default,H,0,0,0,,if it is {\i1}Kohei-san{\i0} you are \Nsuing for compensation,
+Dialogue: 0,0:22:46.79,0:22:48.47,Default,H,0,0,0,,I can take you on as my client.
+Dialogue: 0,0:22:48.47,0:22:50.24,Default,Tomomi,0,0,0,,Sue Kohei-san?
+Dialogue: 0,0:22:50.24,0:22:51.22,Default,H,0,0,0,,Yes.
+Dialogue: 0,0:22:51.59,0:22:53.22,Default,H,0,0,0,,Tomomi-san.
+Dialogue: 0,0:22:53.22,0:22:55.56,Default,H,0,0,0,,Care to team up with Aoi-san?
+Dialogue: 0,0:22:55.56,0:22:56.44,Default,Tomomi,0,0,0,,{\i1}What?{\i0}
+Dialogue: 0,0:22:56.44,0:22:57.85,Default,Aoi,0,0,0,,What?
+Dialogue: 0,0:22:58.65,0:23:00.63,Default,H,0,0,0,,You will cooperate with each other,
+Dialogue: 0,0:23:00.63,0:23:02.25,Default,H,0,0,0,,and be a team.
+Dialogue: 0,0:23:02.25,0:23:03.85,Default,All,0,0,0,,What?
+Dialogue: 0,0:23:04.42,0:23:05.84,Default,Y,0,0,0,,What are you talking about?
+Dialogue: 0,0:23:05.84,0:23:07.36,Default,Rina,0,0,0,,You saw what happened.
+Dialogue: 0,0:23:07.36,0:23:08.99,Default,K,0,0,0,,That's right. They'll never be a team.
+Dialogue: 0,0:23:08.99,0:23:11.19,Default,Tomomi,0,0,0,,Are you stupid?
+Dialogue: 0,0:23:11.19,0:23:14.19,Default,Tomomi,0,0,0,,Why would I sue Kohei-san?
+Dialogue: 0,0:23:14.19,0:23:15.46,Default,Tomomi,0,0,0,,Forget it.
+Dialogue: 0,0:23:15.46,0:23:17.80,Default,Tomomi,0,0,0,,I don't need a lawyer like you.
+Dialogue: 0,0:23:18.25,0:23:19.56,Default,Tomomi,0,0,0,,I'll talk to my father,
+Dialogue: 0,0:23:19.56,0:23:22.26,Default,Tomomi,0,0,0,,and I'll sue her for compensation.
+Dialogue: 0,0:23:25.61,0:23:27.24,Default,K,0,0,0,,Sensei.
+Dialogue: 0,0:23:27.24,0:23:29.18,Default,H,0,0,0,,I know it was an impossible suggestion.
+Dialogue: 0,0:23:29.18,0:23:33.24,Default,H,0,0,0,,But to prove that \NKohei-san had two wives...
+Dialogue: 0,0:23:33.24,0:23:35.53,Default,H,0,0,0,,that would have been the best way.
+Dialogue: 0,0:23:48.52,0:23:51.95,Default,Aoi,0,0,0,,What was I thinking?
+Dialogue: 0,0:23:53.33,0:23:56.25,Default,Aoi,0,0,0,,I thought we didn't need \Nto make it official.
+Dialogue: 0,0:24:00.05,0:24:04.33,Default,Aoi,0,0,0,,When we first started living together, \NI once asked Ko-chan,
+Dialogue: 0,0:24:05.11,0:24:07.54,Default,Aoi,0,0,0,,"What do we do next?"
+Dialogue: 0,0:24:09.78,0:24:11.74,Default,Aoi,0,0,0,,Then Ko-chan said...
+Dialogue: 0,0:24:13.75,0:24:17.12,Bengoshi-Marriage_Registration,Letter,0,0,0,,Marriage Registration
+Dialogue: 0,0:24:14.34,0:24:17.12,Bengoshi-Flashback,Kohei,0,0,0,,I don't want to be legally \Nbound by a piece of paper.
+Dialogue: 0,0:24:17.12,0:24:20.65,Bengoshi-Flashback,Kohei,0,0,0,,Who cares about formality? What matters \Nis how we feel about each other.
+Dialogue: 0,0:24:23.17,0:24:26.39,Bengoshi-Flashback,Kohei,0,0,0,,I want to live with you forever, Aoi.
+Dialogue: 0,0:24:26.39,0:24:27.62,Bengoshi-Flashback,Kohei,0,0,0,,What about you, Aoi?
+Dialogue: 0,0:24:27.62,0:24:29.43,Bengoshi-Flashback,Aoi,0,0,0,,Me, too.
+Dialogue: 0,0:24:31.42,0:24:34.27,Bengoshi-Flashback,Kohei,0,0,0,,You see? We're already husband and wife.
+Dialogue: 0,0:24:35.64,0:24:37.27,Bengoshi-Flashback,Aoi,0,0,0,,Husband and wife?
+Dialogue: 0,0:24:38.53,0:24:41.88,Bengoshi-Flashback,Kohei,0,0,0,,I think of you as my wife.
+Dialogue: 0,0:24:53.28,0:24:58.58,Default,Aoi,0,0,0,,I would've never imagined\N something like this could happen.
+Dialogue: 0,0:25:00.78,0:25:03.10,Default,Aoi,0,0,0,,We were happy together.
+Dialogue: 0,0:25:03.80,0:25:06.28,Default,Aoi,0,0,0,,I believed what mattered
+Dialogue: 0,0:25:06.28,0:25:09.50,Default,Aoi,0,0,0,,was how we felt about each \Nother, like Ko-chan said.
+Dialogue: 0,0:25:11.65,0:25:16.46,Default,Aoi,0,0,0,,But, now that I'm in this mess...
+Dialogue: 0,0:25:17.92,0:25:24.35,Default,Aoi,0,0,0,,I don't have a single thing \Nto prove I am his wife.
+Dialogue: 0,0:25:28.62,0:25:30.97,Default,Aoi,0,0,0,,I'm so frustrated...
+Dialogue: 0,0:25:32.78,0:25:37.27,Default,Aoi,0,0,0,,that I have to suffer like this \Nbecause of a lousy piece of paper.
+Dialogue: 0,0:25:39.19,0:25:40.94,Default,K,0,0,0,,Aoi-san...
+Dialogue: 0,0:25:44.45,0:25:45.50,Default,Tomomi,0,0,0,,Kohei-san.
+Dialogue: 0,0:25:45.50,0:25:47.74,Default,Tomomi,0,0,0,,Were you married to this woman?
+Dialogue: 0,0:25:48.49,0:25:50.54,Default,Kohei,0,0,0,,Of course not.
+Dialogue: 0,0:25:50.54,0:25:55.37,Default,Tomomi,0,0,0,,I met this woman \Nat an attorney's office.
+Dialogue: 0,0:25:55.96,0:25:57.06,Default,Kohei,0,0,0,,What?
+Dialogue: 0,0:25:58.15,0:26:00.95,Default,Tomomi,0,0,0,,Please, tell me the truth.
+Dialogue: 0,0:26:06.33,0:26:07.50,Default,Kohei,0,0,0,,I'm sorry.
+Dialogue: 0,0:26:08.85,0:26:10.33,Default,Kohei,0,0,0,,I have slept with her,
+Dialogue: 0,0:26:10.33,0:26:12.77,Default,Kohei,0,0,0,,just once, before I married you...
+Dialogue: 0,0:26:12.77,0:26:14.03,Default,Kohei,0,0,0,,I was drunk when it happened.
+Dialogue: 0,0:26:14.03,0:26:16.01,Default,Kohei,0,0,0,,But it was only once!
+Dialogue: 0,0:26:16.01,0:26:17.90,Default,Kohei,0,0,0,,She's being following me ever since.
+Dialogue: 0,0:26:17.90,0:26:21.90,Default,Tomomi,0,0,0,,But she was wearing the \Nsame ring I'm wearing.
+Dialogue: 0,0:26:21.90,0:26:24.30,Default,Kohei,0,0,0,,She must've seen mine, and bought it.
+Dialogue: 0,0:26:24.30,0:26:25.70,Default,Tomomi,0,0,0,,What's this, then?
+Dialogue: 0,0:26:27.05,0:26:30.54,Default,Kohei,0,0,0,,I went there to ask her \Nnot to follow me any more.
+Dialogue: 0,0:26:31.73,0:26:34.02,Default,Kohei,0,0,0,,I had to protect my life with you.
+Dialogue: 0,0:26:35.06,0:26:38.40,Default,Tomomi,0,0,0,,So, she was a stalker?
+Dialogue: 0,0:26:38.40,0:26:39.81,Default,Kohei,0,0,0,,That's right!
+Dialogue: 0,0:26:39.81,0:26:42.34,Default,Kohei,0,0,0,,She's a stalker!
+Dialogue: 0,0:26:42.34,0:26:44.22,Default,Tomomi,0,0,0,,We'd better report her \Nto the police, then.
+Dialogue: 0,0:26:44.22,0:26:45.54,Default,Kohei,0,0,0,,Huh?
+Dialogue: 0,0:26:45.54,0:26:48.19,Default,Kohei,0,0,0,,Um... let's not do that.
+Dialogue: 0,0:26:48.81,0:26:49.67,Default,Kohei,0,0,0,,As you know, Tomomi,
+Dialogue: 0,0:26:49.67,0:26:53.47,Default,Kohei,0,0,0,,I just got promoted, and this \Nis a crucial time for me.
+Dialogue: 0,0:26:53.47,0:26:54.89,Default,Kohei,0,0,0,,If this this gets out of hand,
+Dialogue: 0,0:26:54.89,0:26:56.94,Default,Kohei,0,0,0,,it would be distressing \Nto your father, as well.
+Dialogue: 0,0:27:00.74,0:27:03.66,Default,Kohei,0,0,0,,How can you not believe me?
+Dialogue: 0,0:27:05.65,0:27:06.95,Default,Kohei,0,0,0,,Tomomi.
+Dialogue: 0,0:27:07.52,0:27:09.69,Default,Kohei,0,0,0,,I've only got one thing to say.
+Dialogue: 0,0:27:11.63,0:27:14.09,Default,Kohei,0,0,0,,The most precious thing \Nto me in the world...
+Dialogue: 0,0:27:14.62,0:27:15.91,Default,Kohei,0,0,0,,is you, Tomomi.
+Dialogue: 0,0:27:16.91,0:27:19.90,Default,Kohei,0,0,0,,I want to live with you forever.
+Dialogue: 0,0:27:20.90,0:27:22.88,Default,Kohei,0,0,0,,Don't you feel the same way, Tomomi?
+Dialogue: 0,0:27:26.18,0:27:27.64,Default,Tomomi,0,0,0,,Kohei-san.
+Dialogue: 0,0:27:33.91,0:27:35.81,Default,Tomomi,0,0,0,,I can believe you, right?
+Dialogue: 0,0:27:36.28,0:27:37.93,Default,Kohei,0,0,0,,Of course you can.
+Dialogue: 0,0:27:46.63,0:27:48.31,Default,H,0,0,0,,Well...
+Dialogue: 0,0:27:49.27,0:27:51.37,Default,H,0,0,0,,That was a convincing performance.
+Dialogue: 0,0:27:52.57,0:27:56.35,Default,H,0,0,0,,So that's how you fool those women.
+Dialogue: 0,0:27:56.35,0:27:58.00,Default,Kohei,0,0,0,,How rude.
+Dialogue: 0,0:27:58.00,0:27:59.10,Default,Kohei,0,0,0,,Who are you?
+Dialogue: 0,0:27:59.10,0:28:00.96,Default,H,0,0,0,,My apologies for the late introduction.
+Dialogue: 0,0:28:00.96,0:28:04.97,Default,H,0,0,0,,I am Nishijima Aoi-san's legal \Nrepresentative, Hakamada.
+Dialogue: 0,0:28:04.97,0:28:08.55,Default,Kohei,0,0,0,,So you're the one that \Nfed Tomomi those stories.
+Dialogue: 0,0:28:09.16,0:28:10.90,Default,H,0,0,0,,You are a terrible person.
+Dialogue: 0,0:28:11.34,0:28:14.83,Default,H,0,0,0,,To think you'd selfishly call off your\N common-law marriage with Aoi-san,
+Dialogue: 0,0:28:14.83,0:28:16.86,Default,H,0,0,0,,all because of a promotion.
+Dialogue: 0,0:28:16.86,0:28:18.28,Default,Kohei,0,0,0,,Common-law marriage?
+Dialogue: 0,0:28:18.82,0:28:20.74,Default,Kohei,0,0,0,,Is there any evidence of that?
+Dialogue: 0,0:28:21.24,0:28:22.67,Default,H,0,0,0,,There isn't.
+Dialogue: 0,0:28:24.17,0:28:26.37,Default,H,0,0,0,,You destroyed the evidence,\Nas you well know.
+Dialogue: 0,0:28:26.73,0:28:28.32,Default,Kohei,0,0,0,,This is ridiculous.
+Dialogue: 0,0:28:28.32,0:28:32.61,Default,H,0,0,0,,There will be consequences \Nto what you have done.
+Dialogue: 0,0:28:33.16,0:28:35.15,Default,Kohei,0,0,0,,But I didn't do anything.
+Dialogue: 0,0:28:35.87,0:28:41.11,Default,H,0,0,0,,Soon, you will be officially slapped \Nwith a compensation lawsuit.
+Dialogue: 0,0:28:41.69,0:28:44.00,Default,Kohei,0,0,0,,Like I said, I didn't do anything!
+Dialogue: 0,0:28:51.78,0:28:54.36,Default,Misato,0,0,0,,Common-law marriages are certainly\Nprecarious, aren't they?
+Dialogue: 0,0:28:54.36,0:28:57.42,Default,K,0,0,0,,Yes. I'm thoroughly convinced \Nthey are, thanks to this case.
+Dialogue: 0,0:28:57.56,0:29:01.53,Bengoshi-Manga_Bubble_Left,Left bubble,0,0,0,,That's my line!
+Dialogue: 0,0:28:57.56,0:29:01.53,Bengoshi-Manga_Bubble_Left,Bottom bubble,0,0,0,,{\a1}What?!
+Dialogue: 0,0:28:57.86,0:29:01.53,Bengoshi-Manga_Bubble_Right,Right bubble,0,0,0,,Take your hands \Noff my husband!
+Dialogue: 0,0:29:00.37,0:29:03.90,Bengoshi-Top,Misato,0,0,0,,But in this episode, \Nthe two women team up, right?
+Dialogue: 0,0:29:01.53,0:29:03.90,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(360,0)}Editor at Tokiwa Publishing\N Tabata Misato
+Dialogue: 0,0:29:03.90,0:29:05.36,Default,K,0,0,0,,That's right.
+Dialogue: 0,0:29:05.36,0:29:07.37,Default,Misato,0,0,0,,Can something like that happen?
+Dialogue: 0,0:29:09.37,0:29:10.98,Default,K,0,0,0,,Well, you see...
+Dialogue: 0,0:29:10.98,0:29:12.80,Default,Sara,0,0,0,,There is no other way.
+Dialogue: 0,0:29:12.80,0:29:15.97,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(360,360)}Cafe waitress\N Mizutani Sara
+Dialogue: 0,0:29:13.67,0:29:15.92,Default,Sara,0,0,0,,I'm the wife. Nice to meet you.
+Dialogue: 0,0:29:16.40,0:29:19.13,Default,Sara,0,0,0,,I'm also the wife. Nice to meet you.
+Dialogue: 0,0:29:20.14,0:29:22.68,Default,Sara,0,0,0,,Oh no, we can't join hands.
+Dialogue: 0,0:29:23.31,0:29:24.08,Default,Sara,0,0,0,,Our hands...
+Dialogue: 0,0:29:25.93,0:29:27.46,Default,Sara,0,0,0,,please lend me your hand.
+Dialogue: 0,0:29:27.46,0:29:28.85,Default,Misato,0,0,0,,You'd better not see this.
+Dialogue: 0,0:29:28.85,0:29:31.20,Default,Sara,0,0,0,,Help!
+Dialogue: 0,0:29:31.20,0:29:32.68,Default,Sara,0,0,0,,Somebody stop us!
+Dialogue: 0,0:29:32.69,0:29:37.26,Bengoshi-Hakamada_Window_Sign2,Sign,0,0,0,,Hakamada Law Office
+Dialogue: 0,0:29:42.09,0:29:43.74,Default,K,0,0,0,,Sensei.
+Dialogue: 0,0:29:43.74,0:29:48.71,Default,K,0,0,0,,I still think it's impossible \Nfor them to team up.
+Dialogue: 0,0:29:48.71,0:29:52.05,Default,K,0,0,0,,How do you plan to convince Tomomi-san?
+Dialogue: 0,0:29:53.05,0:29:54.38,Default,H,0,0,0,,I don't know.
+Dialogue: 0,0:29:55.06,0:29:56.79,Default,H,0,0,0,,All I know is...
+Dialogue: 0,0:29:56.79,0:29:58.84,Default,H,0,0,0,,I want to help them both.
+Dialogue: 0,0:30:02.54,0:30:03.77,Default,H,0,0,0,,Kanae-san.
+Dialogue: 0,0:30:03.77,0:30:06.39,Default,H,0,0,0,,I want to see Aoi-san's \Napartment once more.
+Dialogue: 0,0:30:06.39,0:30:07.79,Default,K,0,0,0,,Huh?
+Dialogue: 0,0:30:25.34,0:30:28.22,Default,K,0,0,0,,What are you looking for?
+Dialogue: 0,0:30:28.66,0:30:30.36,Default,H,0,0,0,,I don't know.
+Dialogue: 0,0:30:30.36,0:30:31.31,Default,K,0,0,0,,What?
+Dialogue: 0,0:30:32.48,0:30:34.26,Default,H,0,0,0,,Is it possible to perfectly extinguish
+Dialogue: 0,0:30:34.26,0:30:38.60,Default,H,0,0,0,,every trace of living \Ntogether for two years?
+Dialogue: 0,0:30:59.11,0:31:00.75,Default,H,0,0,0,,What is this?
+Dialogue: 0,0:31:00.75,0:31:03.21,Default,Aoi,0,0,0,,Oh... that's Haccho miso paste.
+Dialogue: 0,0:31:03.21,0:31:04.74,Default,H,0,0,0,,I see.
+Dialogue: 0,0:31:06.81,0:31:08.85,Default,K,0,0,0,,Sensei.
+Dialogue: 0,0:31:19.13,0:31:21.28,Default,Aoi,0,0,0,,Wait just a second...
+Dialogue: 0,0:31:21.28,0:31:24.27,Default,Aoi,0,0,0,,That's my underwear drawer.
+Dialogue: 0,0:31:23.22,0:31:26.66,Bengoshi-Overlap,H,0,0,0,,Oh. I understand.
+Dialogue: 0,0:31:31.03,0:31:32.27,Default,H,0,0,0,,Sorry...
+Dialogue: 0,0:31:32.27,0:31:33.99,Default,H,0,0,0,,May I use your bathroom?
+Dialogue: 0,0:31:33.99,0:31:35.80,Default,Aoi,0,0,0,,Please do.
+Dialogue: 0,0:31:39.10,0:31:40.56,Default,Aoi,0,0,0,,He's an unusual man.
+Dialogue: 0,0:31:40.56,0:31:42.53,Default,K,0,0,0,,Oh. Isn't he?
+Dialogue: 0,0:31:47.32,0:31:49.27,Default,H,0,0,0,,I feel better now.
+Dialogue: 0,0:31:53.49,0:31:55.96,Default,K,0,0,0,,Sensei, did you find a clue?
+Dialogue: 0,0:31:56.33,0:31:57.74,Default,H,0,0,0,,I found several.
+Dialogue: 0,0:31:57.74,0:31:58.90,Default,K,0,0,0,,What?
+Dialogue: 0,0:32:22.74,0:32:24.89,Default,Tomomi,0,0,0,,What do you want from me?
+Dialogue: 0,0:32:24.89,0:32:28.23,Default,Tomomi,0,0,0,,Are you still trying to team\N me up with her?
+Dialogue: 0,0:32:28.23,0:32:29.80,Default,H,0,0,0,,Yes.
+Dialogue: 0,0:32:29.80,0:32:33.91,Default,H,0,0,0,,I know I'm overstepping my bounds,
+Dialogue: 0,0:32:33.91,0:32:35.76,Default,H,0,0,0,,but you and she are both victims.
+Dialogue: 0,0:32:39.33,0:32:41.84,Default,Tomomi,0,0,0,,I believe Kohei-san.
+Dialogue: 0,0:32:42.81,0:32:44.34,Default,H,0,0,0,,I see.
+Dialogue: 0,0:32:44.91,0:32:46.34,Default,H,0,0,0,,In that case...
+Dialogue: 0,0:32:46.91,0:32:49.48,Default,H,0,0,0,,let me confirm one last thing.
+Dialogue: 0,0:32:50.69,0:32:52.07,Default,Tomomi,0,0,0,,Confirm?
+Dialogue: 0,0:32:53.06,0:32:56.67,Default,H,0,0,0,,Concerning the photo you had the \Nprivate detective agency take.
+Dialogue: 0,0:32:56.67,0:33:00.41,Default,H,0,0,0,,That photo was dated March 6, correct?
+Dialogue: 0,0:33:02.32,0:33:04.51,Default,Tomomi,0,0,0,,It was. So what?
+Dialogue: 0,0:33:04.51,0:33:09.40,Default,H,0,0,0,,That was day that any trace of Kohei-san\N vanished from Aoi-san's apartment.
+Dialogue: 0,0:33:09.40,0:33:10.97,Default,Tomomi,0,0,0,,What?
+Dialogue: 0,0:33:11.61,0:33:15.77,Default,Tomomi,0,0,0,,So you're saying Kohei-san \Nhid the evidence?
+Dialogue: 0,0:33:16.76,0:33:18.98,Default,H,0,0,0,,The final decision is up to you.
+Dialogue: 0,0:33:18.98,0:33:21.01,Default,H,0,0,0,,Think about it calmly.
+Dialogue: 0,0:33:23.04,0:33:24.92,Default,H,0,0,0,,By the way,
+Dialogue: 0,0:33:24.92,0:33:27.82,Default,H,0,0,0,,I will be presenting your husband with \Na compensation lawsuit tomorrow.
+Dialogue: 0,0:33:28.65,0:33:32.73,Default,H,0,0,0,,It will be at your husband's \Noffice, at 2:00PM.
+Dialogue: 0,0:33:37.31,0:33:40.06,Default,H,0,0,0,,Oh, there's one more thing.
+Dialogue: 0,0:33:42.91,0:33:45.46,Default,H,0,0,0,,The toilet paper you use at home.
+Dialogue: 0,0:33:46.13,0:33:50.51,Default,H,0,0,0,,Is it ultra soft, \Ntwo-ply "Happiness"?
+Dialogue: 0,0:33:52.46,0:33:54.71,Default,Tomomi,0,0,0,,It is... so?
+Dialogue: 0,0:34:14.01,0:34:16.30,Default,K,0,0,0,,Aoi-san. Are you okay?
+Dialogue: 0,0:34:16.30,0:34:17.89,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:34:18.66,0:34:22.53,Default,K,0,0,0,,This is your first time seeing \NKohei-san since then, right?
+Dialogue: 0,0:34:23.41,0:34:24.61,Default,Aoi,0,0,0,,Yes.
+Dialogue: 0,0:34:25.91,0:34:27.07,Default,H,0,0,0,,Shall we go?
+Dialogue: 0,0:34:27.07,0:34:28.78,Default,Aoi,0,0,0,,Where's Tomomi-san?
+Dialogue: 0,0:34:28.78,0:34:31.42,Default,H,0,0,0,,I firmly believe she will show up.
+Dialogue: 0,0:34:43.89,0:34:47.29,Default,K,0,0,0,,Tomomi-san's not here. \NI was afraid of that.
+Dialogue: 0,0:34:50.53,0:34:52.78,Default,Working Stiff1,0,0,0,,Have fun while you still can.
+Dialogue: 0,0:34:51.51,0:34:53.98,Bengoshi-Overlap,Working Stiff2,0,0,0,,Well, I'm glad for him.
+Dialogue: 0,0:34:53.98,0:34:55.71,Default,Working Stiff3,0,0,0,,We'll see how it goes.
+Dialogue: 0,0:34:57.60,0:35:00.39,Default,Fujioka,0,0,0,,I'm counting on you, starting today.
+Dialogue: 0,0:35:00.39,0:35:01.42,Default,Kohei,0,0,0,,Yes.
+Dialogue: 0,0:35:02.26,0:35:03.34,Default,Secretary,0,0,0,,Hirano-san.
+Dialogue: 0,0:35:06.44,0:35:08.25,Default,Secretary,0,0,0,,There are people here to see you.
+Dialogue: 0,0:35:08.25,0:35:09.45,Default,Kohei,0,0,0,,To see me?
+Dialogue: 0,0:35:15.39,0:35:17.49,Default,H,0,0,0,,Sorry to interrupt while you're busy.
+Dialogue: 0,0:35:17.49,0:35:18.99,Default,H,0,0,0,,I have urgent matters
+Dialogue: 0,0:35:18.99,0:35:20.66,Default,H,0,0,0,,to discuss with you, Hirano-san.
+Dialogue: 0,0:35:24.14,0:35:26.45,Default,Kohei,0,0,0,,You shouldn't show up \Nat work, it's indecent.
+Dialogue: 0,0:35:26.45,0:35:27.99,Default,H,0,0,0,,"Indecent"?
+Dialogue: 0,0:35:28.67,0:35:30.67,Default,H,0,0,0,,You're in no position \Nto use that word.
+Dialogue: 0,0:35:30.67,0:35:33.01,Default,Kohei,0,0,0,,What are you talking about?
+Dialogue: 0,0:35:33.01,0:35:35.13,Default,Kohei,0,0,0,,Anyway, you'd better leave.
+Dialogue: 0,0:35:35.13,0:35:36.39,Default,Fujioka,0,0,0,,What's going on here?
+Dialogue: 0,0:35:36.39,0:35:38.13,Default,Kohei,0,0,0,,Nothing, sir.
+Dialogue: 0,0:35:39.64,0:35:40.55,Default,Kohei,0,0,0,,Come in here.
+Dialogue: 0,0:35:53.39,0:35:55.15,Default,Kohei,0,0,0,,Take a seat.
+Dialogue: 0,0:35:59.15,0:36:00.88,Default,Fujioka,0,0,0,,What the hell's going on here?
+Dialogue: 0,0:36:00.88,0:36:03.09,Default,Kohei,0,0,0,,Oh well, this is... um...
+Dialogue: 0,0:36:03.09,0:36:04.20,Default,H,0,0,0,,I'm glad you're here.
+Dialogue: 0,0:36:04.20,0:36:07.81,Default,H,0,0,0,,This discussion concerns\N your daughter as well, Fujioka-san.
+Dialogue: 0,0:36:07.81,0:36:11.24,Default,Fujioka,0,0,0,,Tomomi? What would be—
+Dialogue: 0,0:36:09.94,0:36:11.24,Bengoshi-Overlap,Kohei,0,0,0,,Nothing, really.
+Dialogue: 0,0:36:11.24,0:36:13.54,Default,Kohei,0,0,0,,President, there really is nothing.
+Dialogue: 0,0:36:15.34,0:36:17.35,Default,Fujioka,0,0,0,,Let's hear what you've got to say.
+Dialogue: 0,0:36:23.69,0:36:25.76,Default,H,0,0,0,,Hirano-san is a bigamist,
+Dialogue: 0,0:36:25.76,0:36:28.41,Default,H,0,0,0,,one of them by common-law marriage.
+Dialogue: 0,0:36:29.00,0:36:30.11,Default,Fujioka,0,0,0,,Bigamist?
+Dialogue: 0,0:36:30.11,0:36:32.26,Default,Fujioka,0,0,0,,I don't understand. Please explain.
+Dialogue: 0,0:36:32.93,0:36:37.02,Default,H,0,0,0,,He entered into a common-law marriage\N with Nishijima Aoi-san.
+Dialogue: 0,0:36:37.02,0:36:38.63,Default,H,0,0,0,,He kept it secret,
+Dialogue: 0,0:36:38.63,0:36:42.93,Default,H,0,0,0,,and married your \Ndaughter, Tomomi-san.
+Dialogue: 0,0:36:42.93,0:36:45.02,Default,Fujioka,0,0,0,,What?
+Dialogue: 0,0:36:43.91,0:36:47.14,Bengoshi-Overlap,Kohei,0,0,0,,President. This is an outrageous lie.
+Dialogue: 0,0:36:47.14,0:36:49.78,Default,H,0,0,0,,He took advantage of his\N frequent business trips.
+Dialogue: 0,0:36:49.78,0:36:52.29,Default,H,0,0,0,,One half of the month he spent \Nwith Aoi-san in Tokyo.
+Dialogue: 0,0:36:52.29,0:36:55.15,Default,H,0,0,0,,And the other half of the month he spent\N with Tomomi-san in Nagoya.
+Dialogue: 0,0:36:55.15,0:36:56.93,Default,H,0,0,0,,He was living a double life.
+Dialogue: 0,0:36:56.93,0:36:59.99,Default,Kohei,0,0,0,,You have no proof of this \Ntrumped-up nonsense!
+Dialogue: 0,0:36:59.99,0:37:01.63,Default,H,0,0,0,,I found proof.
+Dialogue: 0,0:37:01.63,0:37:02.64,Default,Kohei,0,0,0,,What?
+Dialogue: 0,0:37:04.49,0:37:05.83,Default,H,0,0,0,,This.
+Dialogue: 0,0:37:07.60,0:37:09.06,Default,Kohei,0,0,0,,What the hell is that?
+Dialogue: 0,0:37:09.06,0:37:13.95,Default,H,0,0,0,,It's ultra-soft, two-ply "Happiness."
+Dialogue: 0,0:37:15.57,0:37:17.44,Default,H,0,0,0,,Sorry to ask,
+Dialogue: 0,0:37:17.44,0:37:20.24,Default,H,0,0,0,,but do you have some kind\N of issue with your rear?
+Dialogue: 0,0:37:20.24,0:37:22.49,Default,Kohei,0,0,0,,What the hell are you talking about?
+Dialogue: 0,0:37:22.49,0:37:24.56,Default,H,0,0,0,,I used it, too.
+Dialogue: 0,0:37:24.56,0:37:26.84,Default,H,0,0,0,,It's so soft, it could be addicting.
+Dialogue: 0,0:37:27.25,0:37:29.48,Default,H,0,0,0,,It costs 800 yen for just four rolls.
+Dialogue: 0,0:37:29.48,0:37:31.82,Default,H,0,0,0,,It's super-high-quality toilet paper.
+Dialogue: 0,0:37:32.25,0:37:33.97,Default,H,0,0,0,,It's a two-ply, scented.
+Dialogue: 0,0:37:33.97,0:37:36.76,Default,H,0,0,0,,It's soft like genuine cotton.
+Dialogue: 0,0:37:36.76,0:37:38.10,Default,Kohei,0,0,0,,This is ridiculous.
+Dialogue: 0,0:37:38.10,0:37:40.25,Default,Kohei,0,0,0,,What can you prove with that thing?
+Dialogue: 0,0:37:40.25,0:37:42.23,Default,Kohei,0,0,0,,You can buy that thing anywhere.
+Dialogue: 0,0:37:42.23,0:37:46.08,Default,Aoi,0,0,0,,He doesn't use anything else.
+Dialogue: 0,0:37:47.56,0:37:48.81,Default,H,0,0,0,,The problem here is this.
+Dialogue: 0,0:37:48.81,0:37:53.67,Default,H,0,0,0,,You have specified this brand \Nto Aoi-san, to buy nothing else.
+Dialogue: 0,0:37:53.67,0:37:57.14,Default,H,0,0,0,,And you've made the same specification \Nto Tomomi-san, haven't you?
+Dialogue: 0,0:37:58.10,0:37:59.69,Default,Tomomi,0,0,0,,That's exactly correct.
+Dialogue: 0,0:38:00.55,0:38:04.28,Default,Tomomi,0,0,0,,We use the same toilet paper at home.
+Dialogue: 0,0:38:04.28,0:38:06.00,Default,Kohei,0,0,0,,Tomomi.
+Dialogue: 0,0:38:06.00,0:38:06.89,Default,K,0,0,0,,Tomomi-san.
+Dialogue: 0,0:38:11.27,0:38:12.46,Default,Tomomi,0,0,0,,Kohei-san.
+Dialogue: 0,0:38:12.46,0:38:15.13,Default,Tomomi,0,0,0,,You don't use any other \Nbrand, remember?
+Dialogue: 0,0:38:17.23,0:38:20.06,Default,H,0,0,0,,You seem to be quite \Npicky with your things.
+Dialogue: 0,0:38:20.06,0:38:21.28,Default,H,0,0,0,,For toothpaste, you use...
+Dialogue: 0,0:38:21.28,0:38:22.93,Default,Aoi & Tomomi,0,0,0,,the one with salt granules.
+Dialogue: 0,0:38:24.76,0:38:26.40,Default,H,0,0,0,,For socks...
+Dialogue: 0,0:38:26.40,0:38:28.29,Default,Aoi & Tomomi,0,0,0,,Five-toed ones.
+Dialogue: 0,0:38:28.29,0:38:29.63,Default,H,0,0,0,,For insect repellant...
+Dialogue: 0,0:38:29.63,0:38:30.48,Default,Aoi & Tomomi,0,0,0,,Forest Aroma.
+Dialogue: 0,0:38:30.48,0:38:31.51,Default,H,0,0,0,,Pickled plums?
+Dialogue: 0,0:38:31.51,0:38:32.40,Default,Aoi & Tomomi,0,0,0,,Dipped in honey.
+Dialogue: 0,0:38:32.40,0:38:33.01,Default,H,0,0,0,,Miso paste?
+Dialogue: 0,0:38:33.01,0:38:34.37,Default,Aoi & Tomomi,0,0,0,,Haccho miso!
+Dialogue: 0,0:38:35.46,0:38:39.77,Default,H,0,0,0,,This kind of familiarity can't be \Ngleaned from a one-night stand.
+Dialogue: 0,0:38:40.53,0:38:42.83,Default,H,0,0,0,,It would be impossible to know unless
+Dialogue: 0,0:38:42.83,0:38:45.22,Default,H,0,0,0,,you've lived together for a long time.
+Dialogue: 0,0:38:45.22,0:38:46.50,Default,H,0,0,0,,That does prove
+Dialogue: 0,0:38:46.50,0:38:50.02,Default,H,0,0,0,,that you have been in marriage \Nrelationships with both of them.
+Dialogue: 0,0:38:50.02,0:38:51.64,Default,Kohei,0,0,0,,They prove nothing...
+Dialogue: 0,0:38:51.64,0:38:53.85,Default,H,0,0,0,,There was plenty of other evidence.
+Dialogue: 0,0:38:55.77,0:38:59.08,Default,H,0,0,0,,But you destroyed it all, didn't you?
+Dialogue: 0,0:38:59.08,0:39:01.12,Default,Kohei,0,0,0,,I did no such thing.
+Dialogue: 0,0:39:01.12,0:39:01.97,Default,H,0,0,0,,Aoi-san.
+Dialogue: 0,0:39:01.97,0:39:04.74,Default,H,0,0,0,,What day were Kohei-san's things \Ntaken from your apartment?
+Dialogue: 0,0:39:04.74,0:39:06.85,Default,Aoi,0,0,0,,March 6th.
+Dialogue: 0,0:39:06.85,0:39:09.53,Default,Tomomi,0,0,0,,So that's what you were \Ndoing in this picture!
+Dialogue: 0,0:39:21.27,0:39:22.56,Default,Tomomi,0,0,0,,Aoi-san.
+Dialogue: 0,0:39:22.56,0:39:25.16,Default,Tomomi,0,0,0,,I'm sorry for the terrible\N things I said the other day.
+Dialogue: 0,0:39:26.84,0:39:28.41,Default,Aoi,0,0,0,,I am, too.
+Dialogue: 0,0:39:37.65,0:39:39.21,Default,H,0,0,0,,Hirano Kohei-san.
+Dialogue: 0,0:39:39.98,0:39:43.56,Default,H,0,0,0,,You have wrought serious psychological \Nanguish on Nishijima Aoi-san.
+Dialogue: 0,0:39:44.00,0:39:47.18,Default,H,0,0,0,,Hence, you will be sued for five \Nmillion yen in compensation.
+Dialogue: 0,0:39:45.15,0:39:47.18,Bengoshi-Investigation_Report,Letter,0,0,0,,{\3c&H8A868B&}Compensation Fee Lawsuit
+Dialogue: 0,0:39:47.18,0:39:48.40,Default,Kohei,0,0,0,,Five mill—
+Dialogue: 0,0:39:48.40,0:39:49.29,Default,Tomomi,0,0,0,,Kohei-san.
+Dialogue: 0,0:39:51.06,0:39:53.29,Default,Tomomi,0,0,0,,I am divorcing you.
+Dialogue: 0,0:39:53.29,0:39:54.72,Default,Kohei,0,0,0,,Wait a minute—
+Dialogue: 0,0:39:54.72,0:39:55.55,Default,Tomomi,0,0,0,,Hakamada-sensei.
+Dialogue: 0,0:39:55.55,0:39:57.80,Default,Tomomi,0,0,0,,How much can I sue him \Nfor compensation?
+Dialogue: 0,0:39:57.80,0:40:01.30,Default,H,0,0,0,,For illicit activities, \Npsychological anguish...
+Dialogue: 0,0:40:01.30,0:40:03.96,Default,H,0,0,0,,in total, approximately four million yen.
+Dialogue: 0,0:40:04.53,0:40:05.77,Default,Tomomi,0,0,0,,I'll leave it to you.
+Dialogue: 0,0:40:06.93,0:40:08.35,Default,H,0,0,0,,In that case,
+Dialogue: 0,0:40:08.35,0:40:10.51,Default,H,0,0,0,,Tomomi-san and Aoi-san's \Ncompensation fees
+Dialogue: 0,0:40:11.06,0:40:13.06,Default,H,0,0,0,,will total nine million yen.
+Dialogue: 0,0:40:13.06,0:40:15.06,Default,Kohei,0,0,0,,I don't have that kind of money!
+Dialogue: 0,0:40:15.06,0:40:16.56,Default,Fujioka,0,0,0,,You can use your severance pay.
+Dialogue: 0,0:40:16.56,0:40:17.38,Default,Kohei,0,0,0,,Huh?
+Dialogue: 0,0:40:18.87,0:40:21.23,Default,Fujioka,0,0,0,,As of today, you are fired.
+Dialogue: 0,0:40:23.00,0:40:24.09,Default,Kohei,0,0,0,,Huh...
+Dialogue: 0,0:40:25.48,0:40:27.06,Default,Kohei,0,0,0,,This can't be happening.
+Dialogue: 0,0:40:32.34,0:40:37.25,Default,H,0,0,0,,I will have Tomomi-san's documents \Nwritten and mailed out soon.
+Dialogue: 0,0:40:37.25,0:40:41.51,Default,H,0,0,0,,Contact my office with \Nyour new mailing address.
+Dialogue: 0,0:40:45.98,0:40:49.41,Default,Aoi,0,0,0,,Ko-chan, thanks for the two years.
+Dialogue: 0,0:40:51.28,0:40:52.51,Default,Kohei,0,0,0,,Aoi.
+Dialogue: 0,0:40:53.10,0:40:54.42,Default,Aoi,0,0,0,,Goodbye.
+Dialogue: 0,0:41:06.58,0:41:08.00,Bengoshi-Top,Y,0,0,0,,Wow.
+Dialogue: 0,0:41:08.00,0:41:10.70,Bengoshi-Top,Y,0,0,0,,So the husband lost everything.
+Dialogue: 0,0:41:10.70,0:41:13.05,Bengoshi-Top,Y,0,0,0,,And what happened to the two wives?
+Dialogue: 0,0:41:13.05,0:41:15.90,Bengoshi-Top,K,0,0,0,,They've formed a friendship \Nout of mutual commiseration.
+Dialogue: 0,0:41:15.90,0:41:18.71,Bengoshi-Top,K,0,0,0,,Tomomi-san is one of Aoi-san's \Nbeauty salon clients, now.
+Dialogue: 0,0:41:18.71,0:41:22.00,Bengoshi-Top,Rina,0,0,0,,So, everything worked out\N the way Sensei planned?
+Dialogue: 0,0:41:22.00,0:41:23.17,Bengoshi-Top,Y,0,0,0,,That's how it went.
+Dialogue: 0,0:41:28.61,0:41:29.84,Bengoshi-Top,H,0,0,0,,I feel better now.
+Dialogue: 0,0:41:29.84,0:41:30.81,Bengoshi-Top,K,0,0,0,,Hey, that's...
+Dialogue: 0,0:41:32.10,0:41:34.47,Bengoshi-Top,H,0,0,0,,I used it once, now I'm addicted.
+Dialogue: 0,0:41:34.47,0:41:35.69,Bengoshi-Top,H,0,0,0,,You should all try it.
+Dialogue: 0,0:41:35.69,0:41:39.71,Bengoshi-Top,K,0,0,0,,But that's a high quality brand. \NIt's 800 yen for just four rolls.
+Dialogue: 0,0:41:40.09,0:41:41.73,Bengoshi-Top,Y,0,0,0,,Expensive!
+Dialogue: 0,0:41:41.73,0:41:43.22,Bengoshi-Top,Y,0,0,0,,Hey, Sensei.
+Dialogue: 0,0:41:43.22,0:41:46.83,Bengoshi-Top,Y,0,0,0,,You haven't paid your rent, \Nand you're spending money on this?
+Dialogue: 0,0:41:46.83,0:41:48.72,Bengoshi-Top,Rina,0,0,0,,You owe me back wages, too!
+Dialogue: 0,0:41:48.72,0:41:51.14,Bengoshi-Top,H,0,0,0,,But this is really amazing!
+Dialogue: 0,0:41:51.14,0:41:54.26,Bengoshi-Top,Y,0,0,0,,Are you saying we're less \Nimportant than toilet paper?
+Dialogue: 0,0:41:54.26,0:41:55.44,Bengoshi-Top,H,0,0,0,,No...
+Dialogue: 0,0:41:55.44,0:41:56.51,Bengoshi-Top,H,0,0,0,,Just try it once. \NYou'll see what I mean.
+Dialogue: 0,0:41:56.51,0:41:58.67,Bengoshi-Top,H,0,0,0,,It's addictive.
+Dialogue: 0,0:41:58.67,0:42:02.00,Bengoshi-Top,H,0,0,0,,Ultra soft, two-ply "Happiness."
+Dialogue: 0,0:42:02.00,0:42:04.52,Bengoshi-Top,Rina,0,0,0,,It gets flushed down \Nthe toilet just the same.
+Dialogue: 0,0:42:04.52,0:42:06.09,Bengoshi-Top,H,0,0,0,,That's true, but...
+Dialogue: 0,0:42:09.62,0:42:21.47,Bengoshi-Next_Episode,Caption,0,0,0,,Next episode
+Dialogue: 0,0:42:10.04,0:42:13.46,Bengoshi-Top,Y,0,0,0,,Her mother-in-law is awful.
+Dialogue: 0,0:42:13.46,0:42:15.23,Bengoshi-Top,MIL,0,0,0,,Come on, get on with it.
+Dialogue: 0,0:42:15.23,0:42:16.90,Bengoshi-Top,MIL,0,0,0,,It's filthy here.
+Dialogue: 0,0:42:15.36,0:42:21.47,Bengoshi-End_Splash_Left,Caption,0,0,0,,Suing the {\c&H5E32EC&}mother-in-law {\c&H21D0E9&}for compensation!
+Dialogue: 0,0:42:16.90,0:42:18.13,Bengoshi-Top,MIL,0,0,0,,It's a pig sty.
+Dialogue: 0,0:42:18.13,0:42:20.04,Bengoshi-Top,Woman,0,0,0,,I've endured her this long,
+Dialogue: 0,0:42:18.26,0:42:21.47,Bengoshi-End_Splash_Right,Caption,0,0,0,,After relentless bullying, the {\c&H5E32EC&}wife {\c&H21D0E9&}takes action!
+Dialogue: 0,0:42:20.04,0:42:21.47,Bengoshi-Top,Woman,0,0,0,,but I've reached my limit.
+Dialogue: 0,0:42:21.47,0:42:24.31,Bengoshi-Top,H,0,0,0,,We can sue the mother-in-law \Nfor compensation, too.
+Dialogue: 0,0:42:21.47,0:42:27.64,Signs Temp,Caption,0,0,0,,{\fad(250,0)}This drama is a work of fiction.
+

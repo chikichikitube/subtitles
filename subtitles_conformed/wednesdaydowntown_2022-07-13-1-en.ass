@@ -1,0 +1,943 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2022-07-13) (Raw).mp4
+Video File: WDT (2022-07-13) (Raw).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 261
+Active Line: 297
+Video Position: 225
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: note_Wed - Mid,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,5,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_X,Arial,50,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,125,0,0,3,3,0,2,10,10,10,1
+Style: special_Wed_1,Arial,60,&H00FCFCFC,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,140,0,0,1,2,5,2,10,10,5,1
+Style: special_Wed_1-1,Arial,60,&H00FCFCFC,&H000000FF,&H00302E0E,&H00000000,-1,0,0,0,100,140,0,0,3,2,0,2,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.49,0:00:06.54,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 0,0:00:06.54,0:00:10.16,normal_Wed,,0,0,0,,Let's get on with our first presenter please
+Dialogue: 0,0:00:14.47,0:00:19.34,normal_Wed,,0,0,0,,It's Koyabu
+Dialogue: 0,0:00:19.54,0:00:20.74,normal_Wed,,0,0,0,,Yoshimoto's guy
+Dialogue: 0,0:00:20.74,0:00:25.28,normal_Wed,,0,0,0,,Yoshimoto's guy, aren't everyone around you?
+Dialogue: 0,0:00:25.65,0:00:27.40,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:00:27.40,0:00:31.11,normal_Wed,,0,0,0,,Today involves the names of people on the street
+Dialogue: 0,0:00:31.11,0:00:34.23,normal_Wed,,0,0,0,,It's a brand new project. \N -New project!
+Dialogue: 0,0:00:34.23,0:00:36.09,normal_Wed,,0,0,0,,Please take a look:
+Dialogue: 0,0:00:36.09,0:00:39.76,normal_Wed,,0,0,0,,Street Passerby Name Cooking
+Dialogue: 0,0:00:40.28,0:00:41.86,normal_Wed,,0,0,0,,Sounds interesting
+Dialogue: 0,0:00:41.86,0:00:50.80,normal_Wed,,0,0,0,,The program team provides food corresponding to the name of a passerby to carry out a culinary duel
+Dialogue: 0,0:00:50.90,0:00:53.07,normal_Wed,,0,0,0,,For instance, you meet Kakimoto-san, then you have to use Kakio (persimmon) \N -Understood
+Dialogue: 0,0:00:53.27,0:00:56.38,normal_Wed,,0,0,0,,Ebihara \N-You'd have to use shrimp (ebi)
+Dialogue: 0,0:00:56.38,0:01:03.76,normal_Wed,,0,0,0,,The project involves two teams follwing this rule to make three dishes each with the collected ingredients
+Dialogue: 0,0:01:03.76,0:01:12.35,normal_Wed,,0,0,0,,Finally, the uninformed judges choose which team's is more delicious
+Dialogue: 0,0:01:12.48,0:01:17.46,normal_Wed,,0,0,0,,Personally, I think this project can be made into an actual show
+Dialogue: 0,0:01:18.26,0:01:19.73,normal_Wed,,0,0,0,,BS Yoshimoto
+Dialogue: 0,0:01:20.76,0:01:23.97,normal_Wed,,0,0,0,,Don't put us in the same category as such a casual TV station
+Dialogue: 0,0:01:20.76,0:01:23.97,note_Wed,,0,0,0,,{\blur4}※Yoshimoto's satellite TV station has programs such as "Tetsuo Laughing Rice's Interesting Temple Tour" and "Wakayoshi Sekishiro's Aimless Walk"
+Dialogue: 0,0:01:24.70,0:01:27.37,normal_Wed,,0,0,0,,Inexplicable young entertainers chattering away all the time
+Dialogue: 0,0:01:44.09,0:01:51.16,normal_Wed,,0,0,0,,Street Passerby Name Cooking
+Dialogue: 0,0:01:46.85,0:01:51.16,wipe_Wed,,0,0,0,,This must take a while
+Dialogue: 0,0:01:54.10,0:02:00.67,normal_Wed,,0,0,0,,Everyone is divided into red apron and blue apron teams for the cooking competition
+Dialogue: 0,0:02:00.67,0:02:04.97,normal_Wed,,0,0,0,,Fukuda is the red team's leader
+Dialogue: 0,0:02:04.97,0:02:07.56,normal_Wed,,0,0,0,,That's why i've got a hat
+Dialogue: 0,0:02:05.48,0:02:07.54,wipe_Wed,,0,0,0,,Very good cook
+Dialogue: 0,0:02:08.60,0:02:10.78,normal_Wed,,0,0,0,,The blue team is led by Beppu
+Dialogue: 0,0:02:12.80,0:02:15.81,normal_Wed,,0,0,0,,I used to be a chef, I can handle it
+Dialogue: 0,0:02:15.81,0:02:17.32,wipe_Wed,,0,0,0,,Worked in a hotel before
+Dialogue: 0,0:02:17.62,0:02:20.24,wipe_Wed,,0,0,0,,Hotel staff for 4 years
+Dialogue: 0,0:02:18.42,0:02:25.82,normal_Wed,,0,0,0,,The red and blue team members are shown above
+Dialogue: 0,0:02:25.82,0:02:28.03,normal_Wed,,0,0,0,,10 hours from now
+Dialogue: 0,0:02:28.36,0:02:31.33,normal_Wed,,0,0,0,,10 hours?
+Dialogue: 0,0:02:31.33,0:02:32.90,normal_Wed,,0,0,0,,After 10 hours?
+Dialogue: 0,0:02:32.90,0:02:34.43,normal_Wed,,0,0,0,,Way too long!
+Dialogue: 0,0:02:34.43,0:02:36.40,normal_Wed,,0,0,0,,It's too much!
+Dialogue: 0,0:02:36.74,0:02:38.70,normal_Wed,,0,0,0,,10 hours?
+Dialogue: 0,0:02:38.80,0:02:40.07,normal_Wed,,0,0,0,,As if 10 hours is normal
+Dialogue: 0,0:02:40.07,0:02:42.41,normal_Wed,,0,0,0,,It would take that long.  \N-Yes, yes, yes
+Dialogue: 0,0:02:42.41,0:02:47.38,normal_Wed,,0,0,0,,After 10 hours, they'll have made three dishes with the collected ingredients
+Dialogue: 0,0:02:47.38,0:02:54.95,normal_Wed,,0,0,0,,The uninformed Lady Devi will decide which team's is better
+Dialogue: 0,0:02:54.95,0:02:57.76,normal_Wed,,0,0,0,,What kind of ingredients does Fukuda? \N -Yes, yes, yes.
+Dialogue: 0,0:02:57.96,0:03:03.26,normal_Wed,,0,0,0,,Commonly used ingredients such as fish and meat, and then the rice
+Dialogue: 0,0:03:03.26,0:03:06.80,normal_Wed,,0,0,0,,Don't ask too much, okay? We're the ones in charge of finding the ingredients
+Dialogue: 0,0:03:07.20,0:03:09.13,normal_Wed,,0,0,0,,I want seasoning
+Dialogue: 0,0:03:09.14,0:03:12.00,normal_Wed,,0,0,0,,Now there's only sugar and soy sauce
+Dialogue: 0,0:03:09.30,0:03:14.14,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)}{\c&HFFFFFF&}Only{\c&H2724FD&} sugar and soy sauce
+Dialogue: 0,0:03:12.00,0:03:16.88,normal_Wed,,0,0,0,,What do you want most?  \N-Touban (soybean) and sweet pasta sauce or something like that
+Dialogue: 0,0:03:16.88,0:03:20.48,normal_Wed,,0,0,0,,No one calls it "touban", right?\N  -No
+Dialogue: 0,0:03:20.61,0:03:22.49,normal_Wed,,0,0,0,,Do you have water? Here?
+Dialogue: 0,0:03:22.65,0:03:27.85,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)}{\c&HFFFFFF&}Only{\c&H2724FD&} sugar and soy sauce
+Dialogue: 0,0:03:24.00,0:03:25.32,normal_Wed,,0,0,0,,Water is usually a given
+Dialogue: 0,0:03:25.32,0:03:27.85,normal_Wed,,0,0,0,,Gotta look for water?
+Dialogue: 0,0:03:28.59,0:03:35.16,normal_Wed,,0,0,0,,So the two teams first went to areas with a lot of people
+Dialogue: 0,0:03:29.75,0:03:31.39,wipe_Wed,,0,0,0,,The difficulty is quite high
+Dialogue: 0,0:03:34.03,0:03:37.15,wipe_Wed,,0,0,0,,They can make something if they have seasoning at least
+Dialogue: 0,0:03:36.60,0:03:38.66,normal_Wed,,0,0,0,,Let's go!
+Dialogue: 0,0:03:38.90,0:03:42.87,normal_Wed,,0,0,0,,Ask one by one and win by numbers
+Dialogue: 0,0:03:42.08,0:03:43.60,wipe_Wed,,0,0,0,,It's all about quantity
+Dialogue: 0,0:03:43.35,0:03:47.88,normal_Wed,,0,0,0,,The first one found was this bicycle man
+Dialogue: 0,0:03:49.04,0:03:51.84,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:03:52.49,0:03:54.35,normal_Wed,,0,0,0,,Hidehira Fujii
+Dialogue: 0,0:03:54.06,0:03:55.41,wipe_Wed,,0,0,0,,No food
+Dialogue: 0,0:03:55.86,0:04:02.89,normal_Wed,,0,0,0,,In this way, it feels as exciting as gambling
+Dialogue: 0,0:04:03.02,0:04:06.56,normal_Wed,,0,0,0,,Hello, can I interview you? \N -Yes
+Dialogue: 0,0:04:06.57,0:04:08.36,normal_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:04:08.36,0:04:13.57,normal_Wed,,0,0,0,,What high school? Omori Higashi High School. \N -Not the name of your high school
+Dialogue: 0,0:04:15.13,0:04:17.20,normal_Wed,,0,0,0,,Please show me your name
+Dialogue: 0,0:04:17.20,0:04:18.90,normal_Wed,,0,0,0,,My name is
+Dialogue: 0,0:04:20.72,0:04:22.65,normal_Wed,,0,0,0,,Hayashi?
+Dialogue: 0,0:04:23.84,0:04:24.81,normal_Wed,,0,0,0,,No good
+Dialogue: 0,0:04:24.81,0:04:26.85,normal_Wed,,0,0,0,,Thank you. Excuse me. \N -Thank you
+Dialogue: 0,0:04:26.85,0:04:27.91,normal_Wed,,0,0,0,,Thank you\N  -Thank you
+Dialogue: 0,0:04:28.57,0:04:30.25,wipe_Wed,,0,0,0,,He hit it. He hit the post
+Dialogue: 0,0:04:29.81,0:04:31.82,normal_Wed,,0,0,0,,A nice guy
+Dialogue: 0,0:04:32.12,0:04:34.65,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:04:34.98,0:04:37.02,normal_Wed,,0,0,0,,Maiko Akabane
+Dialogue: 0,0:04:37.02,0:04:38.29,normal_Wed,,0,0,0,,"Feather" isn't doable, right?
+Dialogue: 0,0:04:38.39,0:04:41.40,normal_Wed,,0,0,0,,Chicken wings have "feathers"\N  -No
+Dialogue: 0,0:04:41.40,0:04:43.03,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:04:43.56,0:04:47.17,normal_Wed,,0,0,0,,My name is Sei Sato
+Dialogue: 0,0:04:46.74,0:04:48.02,wipe_Wed,,0,0,0,,A very rare name
+Dialogue: 0,0:04:47.17,0:04:49.29,normal_Wed,,0,0,0,,My name is Morigami Seirena
+Dialogue: 0,0:04:49.29,0:04:50.46,wipe_Wed,,0,0,0,,Pears
+Dialogue: 0,0:04:50.97,0:04:53.74,normal_Wed,,0,0,0,,There you go. Great. There you go
+Dialogue: 0,0:04:53.71,0:04:56.43,wipe_Wed,,0,0,0,,Cooking with pears \N -Can you?
+Dialogue: 0,0:04:55.58,0:04:57.39,normal_Wed,,0,0,0,,Has "pear" in the name
+Dialogue: 0,0:04:57.72,0:05:01.45,normal_Wed,,0,0,0,,Great! So quick!
+Dialogue: 0,0:05:01.45,0:05:03.11,normal_Wed,,0,0,0,,How do you plan to use the pear?
+Dialogue: 0,0:05:03.95,0:05:08.32,normal_Wed,,0,0,0,,It's rare that pears is used for a dish
+Dialogue: 0,0:05:07.44,0:05:08.55,wipe_Wed,,0,0,0,,Dessert?
+Dialogue: 0,0:05:08.49,0:05:10.96,normal_Wed,,0,0,0,,It can be used as a side dish for cold noodles
+Dialogue: 0,0:05:11.09,0:05:13.43,normal_Wed,,0,0,0,,But pears must be used
+Dialogue: 0,0:05:13.59,0:05:19.43,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)}{\c&HFFFFFF&}Food obtained{\c&H2724FD&} must be used
+Dialogue: 0,0:05:13.43,0:05:15.53,normal_Wed,,0,0,0,,Yes, it is not always good to get one
+Dialogue: 0,0:05:16.18,0:05:18.84,normal_Wed,,0,0,0,,Have I ever cooked with pears in my life?
+Dialogue: 0,0:05:18.25,0:05:19.92,wipe_Wed,,0,0,0,,Do you have to use them all?
+Dialogue: 0,0:05:19.92,0:05:22.17,normal_Wed,,0,0,0,,On the blue team
+Dialogue: 0,0:05:25.24,0:05:26.77,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:05:26.77,0:05:28.55,normal_Wed,,0,0,0,,Junsei Nozaki
+Dialogue: 0,0:05:28.55,0:05:29.57,normal_Wed,,0,0,0,,Junsei Nozaki
+Dialogue: 0,0:05:29.34,0:05:30.32,wipe_Wed,,0,0,0,,Cool name
+Dialogue: 0,0:05:30.01,0:05:31.64,normal_Wed,,0,0,0,,Kitani Ryousuke
+Dialogue: 0,0:05:31.64,0:05:32.68,normal_Wed,,0,0,0,,Kitani Ryousuke
+Dialogue: 0,0:05:32.68,0:05:34.00,normal_Wed,,0,0,0,,Tomoya Yoshida
+Dialogue: 0,0:05:34.00,0:05:35.11,normal_Wed,,0,0,0,,Tomoya Yoshida
+Dialogue: 0,0:05:34.55,0:05:35.31,wipe_Wed,,0,0,0,,None
+Dialogue: 0,0:05:35.55,0:05:37.62,normal_Wed,,0,0,0,,None!
+Dialogue: 0,0:05:37.62,0:05:40.42,normal_Wed,,0,0,0,,In fact, we are comedians
+Dialogue: 0,0:05:40.42,0:05:43.42,normal_Wed,,0,0,0,,Comedians? Really?
+Dialogue: 0,0:05:43.42,0:05:50.03,normal_Wed,,0,0,0,,My stage name is Kitani Curry
+Dialogue: 0,0:05:50.03,0:05:53.03,normal_Wed,,0,0,0,,Stage names don't count.  \N-Can't be counted
+Dialogue: 0,0:05:53.37,0:05:55.43,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)}{\c&HFFFFFF&}Stage name{\c&H2724FD&} doesn't count
+Dialogue: 0,0:05:55.43,0:05:59.54,normal_Wed,,0,0,0,,Is there anyone named "Ushiyama Dolphin"?
+Dialogue: 0,0:05:59.64,0:06:01.54,normal_Wed,,0,0,0,,So, please reveal \N -One... Two...
+Dialogue: 0,0:06:03.58,0:06:08.68,normal_Wed,,0,0,0,,Okay, there's nothing in these names
+Dialogue: 0,0:06:10.28,0:06:11.88,normal_Wed,,0,0,0,,What is your name?
+Dialogue: 0,0:06:14.00,0:06:16.19,normal_Wed,,0,0,0,,Is it pronounced "Nouzei Hiroshi"?
+Dialogue: 0,0:06:16.35,0:06:18.79,normal_Wed,,0,0,0,,"Nose"\N  Hello, Nose Hiroshi
+Dialogue: 0,0:06:18.79,0:06:22.59,normal_Wed,,0,0,0,,The part of this character, can I use it for ise lobster?
+Dialogue: 0,0:06:22.96,0:06:25.56,normal_Wed,,0,0,0,,One, two
+Dialogue: 0,0:06:24.48,0:06:26.00,wipe_Wed,,0,0,0,,Not easy
+Dialogue: 0,0:06:26.53,0:06:28.10,wipe_Wed,,0,0,0,,Rice  \N-We have rice
+Dialogue: 0,0:06:28.00,0:06:29.07,normal_Wed,,0,0,0,,Wow, here we go!
+Dialogue: 0,0:06:29.26,0:06:35.85,normal_Wed,,0,0,0,,Komeda \N-Komeda? Great!
+Dialogue: 0,0:06:35.85,0:06:38.24,normal_Wed,,0,0,0,,Just the second group i've asked!
+Dialogue: 0,0:06:38.34,0:06:43.08,normal_Wed,,0,0,0,,If you have rice, you can at least make a rice ball
+Dialogue: 0,0:06:43.46,0:06:49.72,normal_Wed,,0,0,0,,So, as soon as the project started, both teams received one ingredient each
+Dialogue: 0,0:06:49.72,0:06:51.59,normal_Wed,,0,0,0,,What is your name?
+Dialogue: 0,0:06:50.50,0:06:51.59,wipe_Wed,,0,0,0,,Rice would be very advantageous
+Dialogue: 0,0:06:54.51,0:06:56.29,wipe_Wed,,0,0,0,,Water!
+Dialogue: 0,0:06:51.99,0:06:54.51,normal_Wed,,0,0,0,,Shuya Shoya
+Dialogue: 0,0:06:56.49,0:07:00.03,normal_Wed,,0,0,0,,Water, water is there!
+Dialogue: 0,0:06:59.56,0:07:02.00,wipe_Wed,,0,0,0,,Mito \N -This reaction is funny
+Dialogue: 0,0:07:01.67,0:07:03.40,normal_Wed,,0,0,0,,Yeah, water
+Dialogue: 0,0:07:03.40,0:07:07.61,normal_Wed,,0,0,0,,Fukuda said he can't cook without water
+Dialogue: 0,0:07:07.61,0:07:10.14,normal_Wed,,0,0,0,,So this is a great result!
+Dialogue: 0,0:07:10.61,0:07:11.74,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:07:11.74,0:07:12.77,wipe_Wed,,0,0,0,,Also?
+Dialogue: 0,0:07:14.51,0:07:17.68,normal_Wed,,0,0,0,,Shigono Momo
+Dialogue: 0,0:07:17.98,0:07:21.55,normal_Wed,,0,0,0,,Got peach, and salt!
+Dialogue: 0,0:07:18.30,0:07:20.79,wipe_Wed,,0,0,0,,Two ingredients in the name
+Dialogue: 0,0:07:21.55,0:07:25.42,normal_Wed,,0,0,0,,Double get, great!
+Dialogue: 0,0:07:25.42,0:07:27.79,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:07:28.21,0:07:31.78,normal_Wed,,0,0,0,,My name is Haru
+Dialogue: 0,0:07:33.23,0:07:35.93,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:07:36.03,0:07:39.60,normal_Wed,,0,0,0,,This character
+Dialogue: 0,0:07:39.60,0:07:41.04,normal_Wed,,0,0,0,,Canola?
+Dialogue: 0,0:07:41.04,0:07:44.44,normal_Wed,,0,0,0,,Canola? Only canola?  \N-Yes
+Dialogue: 0,0:07:45.08,0:07:46.51,normal_Wed,,0,0,0,,Isn't it a baby bok choy?
+Dialogue: 0,0:07:46.51,0:07:49.98,normal_Wed,,0,0,0,,Canola only  \N-Canola only?
+Dialogue: 0,0:07:50.28,0:07:52.19,normal_Wed,,0,0,0,,In addition, Fukuda found..
+Dialogue: 0,0:07:52.62,0:07:54.89,normal_Wed,,0,0,0,,Sakashoma
+Dialogue: 0,0:07:55.79,0:07:56.79,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:07:56.79,0:07:58.23,wipe_Wed,,0,0,0,,Horse meat sashimi?
+Dialogue: 0,0:07:57.04,0:07:59.18,normal_Wed,,0,0,0,,Got horse meat!
+Dialogue: 0,0:07:59.18,0:08:03.50,normal_Wed,,0,0,0,,Great, that's... that's a big step!
+Dialogue: 0,0:08:03.70,0:08:06.16,normal_Wed,,0,0,0,,You can make a raw mix if you have pears
+Dialogue: 0,0:08:06.25,0:08:07.34,wipe_Wed,,0,0,0,,Yeah, right
+Dialogue: 0,0:08:07.34,0:08:13.01,normal_Wed,,0,0,0,,After two hours, the red team have obtained six ingredients
+Dialogue: 0,0:08:13.24,0:08:14.44,wipe_Wed,,0,0,0,,Fukuda is awesome
+Dialogue: 0,0:08:13.62,0:08:16.11,normal_Wed,,0,0,0,,The blue team is also in a good poisition
+Dialogue: 0,0:08:16.11,0:08:17.61,normal_Wed,,0,0,0,,Kazuhiro Takezawa
+Dialogue: 0,0:08:17.61,0:08:19.28,normal_Wed,,0,0,0,,Kazuhiro Takezawa
+Dialogue: 0,0:08:19.54,0:08:21.55,normal_Wed,,0,0,0,,Bamboo shoots, OK?
+Dialogue: 0,0:08:21.55,0:08:23.52,normal_Wed,,0,0,0,,Great! Thank you!
+Dialogue: 0,0:08:26.30,0:08:27.89,normal_Wed,,0,0,0,,Soma, soma-kun?
+Dialogue: 0,0:08:28.03,0:08:31.86,wipe_Wed,,0,0,0,,"Ma" again \N-A lot of horse
+Dialogue: 0,0:08:31.12,0:08:32.19,normal_Wed,,0,0,0,,Yes, i've got another!
+Dialogue: 0,0:08:32.39,0:08:33.93,normal_Wed,,0,0,0,,What is your name?
+Dialogue: 0,0:08:34.62,0:08:36.00,normal_Wed,,0,0,0,,Ochiai Shiina
+Dialogue: 0,0:08:36.00,0:08:38.53,normal_Wed,,0,0,0,,Ochiai Shiina-san is great, there you go!
+Dialogue: 0,0:08:40.06,0:08:42.43,normal_Wed,,0,0,0,,Look, there is there is there
+Dialogue: 0,0:08:42.50,0:08:44.00,normal_Wed,,0,0,0,,Please!
+Dialogue: 0,0:08:44.53,0:08:46.65,normal_Wed,,0,0,0,,Rina Shiiba
+Dialogue: 0,0:08:47.31,0:08:49.94,normal_Wed,,0,0,0,,"Fu" is in there, "hana" too
+Dialogue: 0,0:08:49.94,0:08:50.94,normal_Wed,,0,0,0,,Does "hana" count?
+Dialogue: 0,0:08:50.94,0:08:54.27,normal_Wed,,0,0,0,,OK  \N-Okay, okay, okay
+Dialogue: 0,0:08:51.71,0:08:58.08,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(576,834.667)}{\c&H2724FD&}Vegetables with "hana" (leaves) can be used{\r}
+Dialogue: 0,0:08:56.38,0:08:58.08,normal_Wed,,0,0,0,,Can you choose any kind of leaf?
+Dialogue: 0,0:08:58.58,0:09:01.19,normal_Wed,,0,0,0,,Sorry to bother you, but I have a question
+Dialogue: 0,0:09:01.19,0:09:03.62,normal_Wed,,0,0,0,,Which kind of vegetable with leaves should we choose?
+Dialogue: 0,0:09:03.62,0:09:06.93,normal_Wed,,0,0,0,,Can you choose any of them?  \N-Any of them?
+Dialogue: 0,0:09:06.93,0:09:09.76,normal_Wed,,0,0,0,,Yes, both.\N  -Which one do you prefer, Beppu?
+Dialogue: 0,0:09:09.76,0:09:13.63,normal_Wed,,0,0,0,,Green perilla would be best
+Dialogue: 0,0:09:14.47,0:09:19.11,normal_Wed,,0,0,0,,After two hours, the blue team have 5 ingredients
+Dialogue: 0,0:09:18.10,0:09:21.25,wipe_Wed,,0,0,0,,Not enough to make a dish
+Dialogue: 0,0:09:20.00,0:09:21.25,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:09:26.06,0:09:30.00,normal_Wed,,0,0,0,,A fellow comedian happens to wander past
+Dialogue: 0,0:09:30.82,0:09:32.78,normal_Wed,,0,0,0,,A junior
+Dialogue: 0,0:09:32.78,0:09:34.39,normal_Wed,,0,0,0,,What is your real name?
+Dialogue: 0,0:09:28.41,0:09:30.82,wipe_Wed,,0,0,0,,Matsuo Atoomae Police Station
+Dialogue: 0,0:09:34.39,0:09:35.89,normal_Wed,,0,0,0,,Tell me your name
+Dialogue: 0,0:09:36.71,0:09:38.15,normal_Wed,,0,0,0,,My name is Matsuo Toshiji
+Dialogue: 0,0:09:39.22,0:09:40.02,normal_Wed,,0,0,0,,Sushi
+Dialogue: 0,0:09:42.59,0:09:44.96,normal_Wed,,0,0,0,,What? How do you pronounce this?
+Dialogue: 0,0:09:44.96,0:09:45.65,normal_Wed,,0,0,0,,Toshiji
+Dialogue: 0,0:09:45.65,0:09:46.50,normal_Wed,,0,0,0,,Toshiji? \N-Yes
+Dialogue: 0,0:09:46.66,0:09:50.64,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)\c&H2724FD&}Must be{\c&H2724FD&} an ingredient
+Dialogue: 0,0:09:47.72,0:09:49.64,normal_Wed,,0,0,0,,Ah not usable
+Dialogue: 0,0:09:49.64,0:09:52.70,wipe_Wed,,0,0,0,,Must be an ingredient
+Dialogue: 0,0:09:50.99,0:09:52.70,normal_Wed,,0,0,0,,Meanwhile, a similar situation is happening here
+Dialogue: 0,0:09:53.57,0:09:56.29,normal_Wed,,0,0,0,,We are Wednesday Downtown
+Dialogue: 0,0:09:56.29,0:09:57.42,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:09:57.68,0:10:00.75,normal_Wed,,0,0,0,,Koda, can I interview you for a while?
+Dialogue: 0,0:10:00.75,0:10:01.50,normal_Wed,,0,0,0,,What? Really?
+Dialogue: 0,0:10:01.50,0:10:04.15,normal_Wed,,0,0,0,,Yes, Koda, what is your name?
+Dialogue: 0,0:10:04.59,0:10:05.70,normal_Wed,,0,0,0,,Tell me your real name
+Dialogue: 0,0:10:09.25,0:10:11.69,normal_Wed,,0,0,0,,No way!
+Dialogue: 0,0:10:11.08,0:10:12.74,wipe_Wed,,0,0,0,,None
+Dialogue: 0,0:10:11.69,0:10:14.23,normal_Wed,,0,0,0,,No what? \N -Not so good
+Dialogue: 0,0:10:14.23,0:10:15.76,normal_Wed,,0,0,0,,Yes, not a single one
+Dialogue: 0,0:10:15.76,0:10:19.10,normal_Wed,,0,0,0,,There is nothing \N -There is only a "field"
+Dialogue: 0,0:10:19.10,0:10:20.00,normal_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:10:20.16,0:10:23.10,normal_Wed,,0,0,0,,Why's he got his hat just half on?
+Dialogue: 0,0:10:23.10,0:10:24.31,wipe_Wed,,0,0,0,,Little blue hat
+Dialogue: 0,0:10:24.31,0:10:28.74,normal_Wed,,0,0,0,,3 hours after the start additional competition rules are introduced
+Dialogue: 0,0:10:29.04,0:10:30.85,normal_Wed,,0,0,0,,Thank you for your hard work!
+Dialogue: 0,0:10:30.85,0:10:41.45,normal_Wed,,0,0,0,,From now on, not only the people you meet on the road, but also the words on the door and signboards count
+Dialogue: 0,0:10:41.62,0:10:47.43,normal_Wed,,0,0,0,,Company names such as "○○ Shop" and "Kuriyama Business" are also acceptable
+Dialogue: 0,0:10:47.77,0:10:49.40,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:10:50.09,0:10:57.97,normal_Wed,,0,0,0,,Ogata, you should go to a residential area to look at the names on the houses
+Dialogue: 0,0:10:58.34,0:11:01.41,normal_Wed,,0,0,0,,Why me? \N -You have the spirit!
+Dialogue: 0,0:11:01.51,0:11:04.04,normal_Wed,,0,0,0,,How come I'm the only one who has to move? \N -Because you are more suitable
+Dialogue: 0,0:11:04.04,0:11:05.81,normal_Wed,,0,0,0,,No, I look like an errand boy
+Dialogue: 0,0:11:05.81,0:11:07.51,normal_Wed,,0,0,0,,I can't just show up to people's houses unannounced
+Dialogue: 0,0:11:07.51,0:11:10.68,normal_Wed,,0,0,0,,Ogata, you have a gentlemanly nature so it'll be easier for you
+Dialogue: 0,0:11:10.84,0:11:16.25,normal_Wed,,0,0,0,,Ugh, how come I have to go to find door signs... to the residential area...
+Dialogue: 0,0:11:16.25,0:11:17.72,normal_Wed,,0,0,0,,It's wrong
+Dialogue: 0,0:11:18.68,0:11:24.54,normal_Wed,,0,0,0,,Each of the two teams select the member responsible for doors and signage
+Dialogue: 0,0:11:25.99,0:11:29.27,normal_Wed,,0,0,0,,The first is Ogata
+Dialogue: 0,0:11:31.17,0:11:36.07,normal_Wed,,0,0,0,,Kaji
+Dialogue: 0,0:11:37.28,0:11:40.78,normal_Wed,,0,0,0,,Plum
+Dialogue: 0,0:11:41.18,0:11:46.28,normal_Wed,,0,0,0,,If they confirm with the people, they can get the ingredients, what will happen?
+Dialogue: 0,0:11:45.07,0:11:48.09,wipe_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:11:48.09,0:11:52.42,normal_Wed,,0,0,0,,Noone there, gotta keep looking
+Dialogue: 0,0:11:53.00,0:11:54.73,normal_Wed,,0,0,0,,Chestnut!
+Dialogue: 0,0:11:55.30,0:11:56.31,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:11:58.88,0:12:00.26,wipe_Wed,,0,0,0,,No one home
+Dialogue: 0,0:11:59.33,0:12:00.87,normal_Wed,,0,0,0,,Hello?
+Dialogue: 0,0:12:01.39,0:12:02.97,normal_Wed,,0,0,0,,Again, no one is home
+Dialogue: 0,0:12:03.98,0:12:07.85,normal_Wed,,0,0,0,,At this point, the man in charge of signs
+Dialogue: 0,0:12:07.85,0:12:10.74,wipe_Wed,,0,0,0,,Signage is good
+Dialogue: 0,0:12:10.74,0:12:11.70,wipe_Wed,,0,0,0,,Salt
+Dialogue: 0,0:12:13.01,0:12:16.25,normal_Wed,,0,0,0,,Good, good!
+Dialogue: 0,0:12:16.48,0:12:19.85,normal_Wed,,0,0,0,,We've got the important seasoning here
+Dialogue: 0,0:12:19.85,0:12:22.25,normal_Wed,,0,0,0,,But we need to confirm with them, right?
+Dialogue: 0,0:12:23.76,0:12:25.86,normal_Wed,,0,0,0,,Hello  \N-Please come in
+Dialogue: 0,0:12:25.86,0:12:30.19,normal_Wed,,0,0,0,,Sorry, i'm coming in, sorry to interrupt
+Dialogue: 0,0:12:30.19,0:12:33.66,normal_Wed,,0,0,0,,Hello, I'm a comedian  \N-Hello
+Dialogue: 0,0:12:33.66,0:12:36.20,normal_Wed,,0,0,0,,Hello, how are you?
+Dialogue: 0,0:12:36.43,0:12:38.07,normal_Wed,,0,0,0,,Please show it, thank you
+Dialogue: 0,0:12:38.97,0:12:42.74,normal_Wed,,0,0,0,,Good! Good!
+Dialogue: 0,0:12:43.20,0:12:46.30,normal_Wed,,0,0,0,,On the other side, Beppu is in charge of door signs
+Dialogue: 0,0:12:47.18,0:12:50.78,normal_Wed,,0,0,0,,Oh, wait a minute
+Dialogue: 0,0:12:50.78,0:12:53.79,normal_Wed,,0,0,0,,Look, the sign is "Sakemoto"
+Dialogue: 0,0:12:54.23,0:12:57.66,normal_Wed,,0,0,0,,Sorry to disturb you suddenly
+Dialogue: 0,0:12:55.42,0:12:57.11,wipe_Wed,,0,0,0,,Can be used for cooking
+Dialogue: 0,0:12:57.11,0:13:01.73,wipe_Wed,,0,0,0,,Wine is good.\N  -Very useful for fishy things
+Dialogue: 0,0:12:57.66,0:13:01.73,normal_Wed,,0,0,0,,I am Beppu, a comedian
+Dialogue: 0,0:13:01.73,0:13:02.90,normal_Wed,,0,0,0,,Afterwards
+Dialogue: 0,0:13:02.90,0:13:04.34,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:13:04.86,0:13:05.80,normal_Wed,,0,0,0,,Shinya Sakemoto
+Dialogue: 0,0:13:05.80,0:13:09.80,normal_Wed,,0,0,0,,Wow, here we go. Good job. Thanks
+Dialogue: 0,0:13:23.42,0:13:27.85,normal_Wed,,0,0,0,,At this point, 4 hours have passed
+Dialogue: 0,0:13:28.02,0:13:29.55,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:13:30.21,0:13:31.75,normal_Wed,,0,0,0,,Kaiko Sakaguchi
+Dialogue: 0,0:13:31.75,0:13:34.56,wipe_Wed,,0,0,0,,Seafood
+Dialogue: 0,0:13:33.04,0:13:34.56,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:13:35.90,0:13:36.50,wipe_Wed,,0,0,0,,Bear
+Dialogue: 0,0:13:35.09,0:13:37.61,normal_Wed,,0,0,0,,Kumasaka
+Dialogue: 0,0:13:38.06,0:13:39.26,normal_Wed,,0,0,0,,Bear
+Dialogue: 0,0:13:38.49,0:13:39.22,wipe_Wed,,0,0,0,,Wild game
+Dialogue: 0,0:13:39.26,0:13:42.37,normal_Wed,,0,0,0,,Do we have bear meat? \N-Yes
+Dialogue: 0,0:13:42.37,0:13:46.34,normal_Wed,,0,0,0,,Yes, here we go
+Dialogue: 0,0:13:44.09,0:13:46.10,wipe_Wed,,0,0,0,,Horse and bear
+Dialogue: 0,0:13:49.30,0:13:52.34,wipe_Wed,,0,0,0,,Horse and bear
+Dialogue: 0,0:13:50.24,0:13:52.34,normal_Wed,,0,0,0,,"Got bear"
+Dialogue: 0,0:13:52.61,0:13:54.98,normal_Wed,,0,0,0,,The stench is super strong, right?
+Dialogue: 0,0:13:56.28,0:14:00.28,wipe_Wed,,0,0,0,,It smells bad, doesn't it?\N  -You need wine to remove the smell
+Dialogue: 0,0:13:54.98,0:14:01.99,normal_Wed,,0,0,0,,In that case, the meat must be steamed with wine to make it softer
+Dialogue: 0,0:14:02.39,0:14:10.00,normal_Wed,,0,0,0,,Next, Nishimoto found this couple, one of whom is a foreigner
+Dialogue: 0,0:14:12.06,0:14:13.31,normal_Wed,,0,0,0,,Nakano Daichi
+Dialogue: 0,0:14:13.31,0:14:14.80,normal_Wed,,0,0,0,,Nakano Daichi
+Dialogue: 0,0:14:15.03,0:14:16.83,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:14:18.55,0:14:20.72,normal_Wed,,0,0,0,,Niel Khon
+Dialogue: 0,0:14:18.55,0:14:20.72,note_Wed,,0,0,0,,{\blur4}※Khon sounds like 'corn"
+Dialogue: 0,0:14:20.94,0:14:22.77,normal_Wed,,0,0,0,,Corn
+Dialogue: 0,0:14:22.77,0:14:24.38,normal_Wed,,0,0,0,,Where are you from?
+Dialogue: 0,0:14:24.38,0:14:26.51,normal_Wed,,0,0,0,,Cambodia  \N-Ah, Cambodia
+Dialogue: 0,0:14:28.15,0:14:31.15,normal_Wed,,0,0,0,,In this case
+Dialogue: 0,0:14:30.74,0:14:31.60,wipe_Wed,,0,0,0,,I guess so
+Dialogue: 0,0:14:31.60,0:14:35.69,normal_Wed,,0,0,0,,The rules were originally limited to kanji only
+Dialogue: 0,0:14:35.92,0:14:37.01,normal_Wed,,0,0,0,,Corn is ok
+Dialogue: 0,0:14:37.01,0:14:37.96,normal_Wed,,0,0,0,,Corn is ok? \N -Yes
+Dialogue: 0,0:14:38.29,0:14:40.16,normal_Wed,,0,0,0,,Corn is great!
+Dialogue: 0,0:14:40.31,0:14:47.43,normal_Wed,,0,0,0,,After further discussion, it was decided that katakana ingredients can be obtained from foreigners
+Dialogue: 0,0:14:46.95,0:14:48.53,wipe_Wed,,0,0,0,,She's called corn
+Dialogue: 0,0:14:47.84,0:14:51.85,normal_Wed,,0,0,0,,Then, we continued a interview in Shinjuku
+Dialogue: 0,0:14:53.96,0:14:55.77,wipe_Wed,,0,0,0,,Met so many!
+Dialogue: 0,0:14:54.40,0:14:57.22,normal_Wed,,0,0,0,,Because of the proximity to Yoshimoto's theater
+Dialogue: 0,0:14:57.22,0:14:59.83,normal_Wed,,0,0,0,,Magical Lovely's Murakami appears
+Dialogue: 0,0:14:59.83,0:15:03.04,wipe_Wed,,0,0,0,,Bound to happen being outside for 10 hours
+Dialogue: 0,0:15:01.14,0:15:03.04,normal_Wed,,0,0,0,,So they asked him
+Dialogue: 0,0:15:03.52,0:15:05.05,normal_Wed,,0,0,0,,Suzuki Takahiro
+Dialogue: 0,0:15:05.80,0:15:07.52,wipe_Wed,,0,0,0,,Yes, his name is not Murakami
+Dialogue: 0,0:15:07.02,0:15:08.79,normal_Wed,,0,0,0,,Murakami, your real name is Suzuki
+Dialogue: 0,0:15:08.79,0:15:10.89,normal_Wed,,0,0,0,,Its a bit complicated \N -Overcomplicated
+Dialogue: 0,0:15:10.89,0:15:12.56,normal_Wed,,0,0,0,,Sorry  \N-No no no
+Dialogue: 0,0:15:13.03,0:15:13.94,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:15:15.26,0:15:17.06,normal_Wed,,0,0,0,,Oswald
+Dialogue: 0,0:15:17.06,0:15:18.96,normal_Wed,,0,0,0,,Lets ask
+Dialogue: 0,0:15:20.50,0:15:23.20,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:15:23.20,0:15:25.70,normal_Wed,,0,0,0,,I don't know your full names
+Dialogue: 0,0:15:25.70,0:15:27.77,normal_Wed,,0,0,0,,You don't know? \N -Yes
+Dialogue: 0,0:15:28.09,0:15:29.78,normal_Wed,,0,0,0,,Shunsuke Ito
+Dialogue: 0,0:15:29.78,0:15:31.54,normal_Wed,,0,0,0,,Ito Shunsuke, then you are
+Dialogue: 0,0:15:32.04,0:15:33.37,normal_Wed,,0,0,0,,Yu Hatake
+Dialogue: 0,0:15:33.37,0:15:35.14,normal_Wed,,0,0,0,,Hatake Yu?
+Dialogue: 0,0:15:35.53,0:15:37.58,wipe_Wed,,0,0,0,,Sounds like a male actor
+Dialogue: 0,0:15:36.58,0:15:38.68,normal_Wed,,0,0,0,,You two get out of here
+Dialogue: 0,0:15:38.68,0:15:41.25,normal_Wed,,0,0,0,,How did we let you down?\N  -Just go to the Lumine
+Dialogue: 0,0:15:41.25,0:15:43.79,normal_Wed,,0,0,0,,Wait a minute, I'm so curious
+Dialogue: 0,0:15:43.79,0:15:47.02,normal_Wed,,0,0,0,,What is this? \N -That's my line!
+Dialogue: 0,0:15:47.02,0:15:48.76,normal_Wed,,0,0,0,,Please show them one by one
+Dialogue: 0,0:15:48.76,0:15:49.96,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:15:50.53,0:15:51.68,normal_Wed,,0,0,0,,Ebi Yasufumi
+Dialogue: 0,0:15:50.53,0:15:51.68,note_Wed,,0,0,0,,{\blur4}※Ebi - shrimp
+Dialogue: 0,0:15:51.68,0:15:56.80,normal_Wed,,0,0,0,,We got shrimp, a good one!
+Dialogue: 0,0:15:56.91,0:16:00.20,normal_Wed,,0,0,0,,The best target of this project has appeared. Thank you
+Dialogue: 0,0:16:00.20,0:16:02.07,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:16:02.12,0:16:03.40,normal_Wed,,0,0,0,,Umeda
+Dialogue: 0,0:16:03.98,0:16:05.28,normal_Wed,,0,0,0,,Umeda! (ume - plum)
+Dialogue: 0,0:16:05.99,0:16:07.04,normal_Wed,,0,0,0,,Kikuchi Ginga
+Dialogue: 0,0:16:07.04,0:16:09.55,normal_Wed,,0,0,0,,Kikuchi \N-Ginga
+Dialogue: 0,0:16:09.55,0:16:13.15,normal_Wed,,0,0,0,,Ginga, what a name
+Dialogue: 0,0:16:13.35,0:16:15.59,normal_Wed,,0,0,0,,Is chrysanthemum (kiku) okay? Great!
+Dialogue: 0,0:16:18.16,0:16:23.09,normal_Wed,,0,0,0,,Kin (gold)! Kin! Can sprinkle the dust on top
+Dialogue: 0,0:16:23.09,0:16:24.53,normal_Wed,,0,0,0,,Really really!
+Dialogue: 0,0:16:24.70,0:16:26.46,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:16:26.83,0:16:28.99,normal_Wed,,0,0,0,,Isogai Yu
+Dialogue: 0,0:16:29.60,0:16:33.80,normal_Wed,,0,0,0,,Kai! (shellfish)
+Dialogue: 0,0:16:31.40,0:16:32.87,wipe_Wed,,0,0,0,,Can any kind of shellfish be used?
+Dialogue: 0,0:16:33.97,0:16:36.07,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)\c&H2724FD&}Can choose{\1c&FFFFFF&} shellfish
+Dialogue: 0,0:16:34.23,0:16:38.14,normal_Wed,,0,0,0,,Thank you, if its shellfish, I choose scallops
+Dialogue: 0,0:16:39.08,0:16:42.41,normal_Wed,,0,0,0,,One by one, the two teams get the ingredients
+Dialogue: 0,0:16:42.41,0:16:44.18,wipe_Wed,,0,0,0,,Ogata got none
+Dialogue: 0,0:16:44.45,0:16:48.01,normal_Wed,,0,0,0,,Only Ogata has yet to get anything
+Dialogue: 0,0:16:49.52,0:16:55.29,normal_Wed,,0,0,0,,Hello, hello, hello
+Dialogue: 0,0:16:55.29,0:16:57.89,normal_Wed,,0,0,0,,Do you live nearby? \N -Yes
+Dialogue: 0,0:16:57.89,0:17:00.66,normal_Wed,,0,0,0,,We are shooting on location
+Dialogue: 0,0:17:00.90,0:17:04.50,normal_Wed,,0,0,0,,Can I ask your name? Don't say it yet!
+Dialogue: 0,0:17:04.50,0:17:06.20,normal_Wed,,0,0,0,,You'll never guess
+Dialogue: 0,0:17:06.20,0:17:08.24,normal_Wed,,0,0,0,,I'm not guessing, rest assured
+Dialogue: 0,0:17:08.24,0:17:12.88,normal_Wed,,0,0,0,,"You'll never guess" must be a good opportunity
+Dialogue: 0,0:17:12.98,0:17:16.08,normal_Wed,,0,0,0,,Please tell me your name
+Dialogue: 0,0:17:19.46,0:17:22.61,wipe_Wed,,0,0,0,,Cow!
+Dialogue: 0,0:17:24.22,0:17:25.86,normal_Wed,,0,0,0,,Cow!
+Dialogue: 0,0:17:27.34,0:17:29.18,normal_Wed,,0,0,0,,Really? \N -Really
+Dialogue: 0,0:17:29.18,0:17:30.97,normal_Wed,,0,0,0,,How do you pronounce it? \N -Gorai Hayato
+Dialogue: 0,0:17:30.97,0:17:33.13,normal_Wed,,0,0,0,,Gorai Hayato?
+Dialogue: 0,0:17:33.86,0:17:35.43,normal_Wed,,0,0,0,,A miracle!
+Dialogue: 0,0:17:35.43,0:17:38.14,normal_Wed,,0,0,0,,A miracle!  \N-Terrific
+Dialogue: 0,0:17:38.64,0:17:40.87,normal_Wed,,0,0,0,,Hello?  \N-Hey, its Ogata
+Dialogue: 0,0:17:40.87,0:17:42.31,normal_Wed,,0,0,0,,What's up?
+Dialogue: 0,0:17:42.64,0:17:45.08,normal_Wed,,0,0,0,,I got cow.  \N-Eh?
+Dialogue: 0,0:17:45.08,0:17:48.75,normal_Wed,,0,0,0,,Cow  \N-Cow! Thanks!
+Dialogue: 0,0:17:48.75,0:17:51.25,normal_Wed,,0,0,0,,You're too muted in your response. \N -Wait a minute
+Dialogue: 0,0:17:51.25,0:17:54.85,normal_Wed,,0,0,0,,I tried to hard to find something
+Dialogue: 0,0:17:58.09,0:18:03.56,normal_Wed,,0,0,0,,Is this really the attitude you should have toward getting a cow?
+Dialogue: 0,0:18:04.52,0:18:06.62,normal_Wed,,0,0,0,,7 hours after the start
+Dialogue: 0,0:18:06.62,0:18:13.82,normal_Wed,,0,0,0,,The red team has gotten 14 ingredients, including horse meat, bear meat, beef and other meat-based ingredients
+Dialogue: 0,0:18:13.82,0:18:17.42,wipe_Wed,,0,0,0,,But not all of these can be used, right?\N  -Yes
+Dialogue: 0,0:18:15.68,0:18:23.68,normal_Wed,,0,0,0,,And the blue team got a variety of ingredients such as rice, shrimp, a total of 19
+Dialogue: 0,0:18:23.88,0:18:31.69,normal_Wed,,0,0,0,,Everyone, we have enough ingredients for 3 dishes
+Dialogue: 0,0:18:32.39,0:18:34.36,normal_Wed,,0,0,0,,That's great.\N  -Yes
+Dialogue: 0,0:18:34.46,0:18:40.73,normal_Wed,,0,0,0,,But the only thing I really want is oil
+Dialogue: 0,0:18:40.73,0:18:43.53,normal_Wed,,0,0,0,,Oil ah no oil ah
+Dialogue: 0,0:18:43.93,0:18:48.94,normal_Wed,,0,0,0,,If there are more ingredients, I can't handle it
+Dialogue: 0,0:18:48.94,0:18:54.18,normal_Wed,,0,0,0,,Try not to look for new ingredients\N  -Easy for you to say!
+Dialogue: 0,0:18:54.18,0:18:58.92,normal_Wed,,0,0,0,,You can't talk like that. We're almost dead looking for this stuff  \N-Indeed
+Dialogue: 0,0:18:58.92,0:19:01.08,normal_Wed,,0,0,0,,We can't control it. \N -It's not good for you to say that
+Dialogue: 0,0:19:01.08,0:19:02.95,normal_Wed,,0,0,0,,It's not nice to talk like that\N -We're working hard
+Dialogue: 0,0:19:02.95,0:19:04.52,normal_Wed,,0,0,0,,I'm almost ready to go to the kitchen
+Dialogue: 0,0:19:04.69,0:19:08.46,normal_Wed,,0,0,0,,I'm off to do the dishes
+Dialogue: 0,0:19:08.88,0:19:15.40,normal_Wed,,0,0,0,,Here the two groups of culinary leaders have gone to the kitchen to prepare the ingredients
+Dialogue: 0,0:19:18.00,0:19:20.80,normal_Wed,,0,0,0,,Finally, it's time for the cooking session
+Dialogue: 0,0:19:21.27,0:19:25.48,normal_Wed,,0,0,0,,Okay, this is Beppu, here we go
+Dialogue: 0,0:19:26.22,0:19:29.20,normal_Wed,,0,0,0,,Finally only 2 hours left
+Dialogue: 0,0:19:28.67,0:19:30.41,wipe_Wed,,0,0,0,,2 hours is very short
+Dialogue: 0,0:19:31.06,0:19:37.00,normal_Wed,,0,0,0,,The rest of the members will look for ingredients until the last moment
+Dialogue: 0,0:19:38.09,0:19:39.24,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:19:39.26,0:19:42.26,normal_Wed,,0,0,0,,Hello, this is Beppu
+Dialogue: 0,0:19:42.86,0:19:44.73,normal_Wed,,0,0,0,,I got pork without any problems
+Dialogue: 0,0:19:44.73,0:19:47.16,normal_Wed,,0,0,0,,Pork? Good, good, good
+Dialogue: 0,0:19:47.16,0:19:51.77,normal_Wed,,0,0,0,,Pork can be used for oil \N -Pork
+Dialogue: 0,0:19:52.45,0:19:54.70,normal_Wed,,0,0,0,,Yes, actually
+Dialogue: 0,0:19:54.70,0:19:56.27,normal_Wed,,0,0,0,,Dad's name is
+Dialogue: 0,0:19:56.27,0:19:58.26,normal_Wed,,0,0,0,,Butakku Ryan Akira
+Dialogue: 0,0:19:58.26,0:20:02.11,normal_Wed,,0,0,0,,Acquired pork in the name of a foreigner
+Dialogue: 0,0:19:58.26,0:20:02.11,note_Wed,,0,0,0,,※Pork is pronounced Buta
+Dialogue: 0,0:20:02.11,0:20:03.48,normal_Wed,,0,0,0,,In addition
+Dialogue: 0,0:20:03.48,0:20:06.06,normal_Wed,,0,0,0,,Butakku Mia Cola
+Dialogue: 0,0:20:07.56,0:20:11.32,normal_Wed,,0,0,0,,Shinichi unexpectedly also gets Cola
+Dialogue: 0,0:20:11.32,0:20:13.72,normal_Wed,,0,0,0,,Cola can be used with meat
+Dialogue: 0,0:20:13.72,0:20:15.01,normal_Wed,,0,0,0,,In addition
+Dialogue: 0,0:20:15.96,0:20:17.63,normal_Wed,,0,0,0,,Beppu
+Dialogue: 0,0:20:17.70,0:20:20.14,normal_Wed,,0,0,0,,I got chicken
+Dialogue: 0,0:20:21.27,0:20:23.93,normal_Wed,,0,0,0,,Chicken? Chicken?
+Dialogue: 0,0:20:23.93,0:20:25.00,wipe_Wed,,0,0,0,,That's tough
+Dialogue: 0,0:20:26.50,0:20:27.84,normal_Wed,,0,0,0,,That's about the end of it
+Dialogue: 0,0:20:27.97,0:20:30.64,normal_Wed,,0,0,0,,That's enough, don't look anymore
+Dialogue: 0,0:20:30.12,0:20:34.39,wipe_Wed,,0,0,0,,That's right.  \N-Too much is not good
+Dialogue: 0,0:20:30.86,0:20:31.86,normal_Wed,,0,0,0,,At the same time
+Dialogue: 0,0:20:33.91,0:20:36.55,normal_Wed,,0,0,0,,i got yellowtail \N-No way!
+Dialogue: 0,0:20:37.55,0:20:40.28,normal_Wed,,0,0,0,,Buri, who is called buri?
+Dialogue: 0,0:20:40.55,0:20:43.74,normal_Wed,,0,0,0,,Buri!
+Dialogue: 0,0:20:44.24,0:20:48.19,normal_Wed,,0,0,0,,They also succeeded in obtaining yellowtail from foreigners here
+Dialogue: 0,0:20:48.72,0:20:50.00,normal_Wed,,0,0,0,,In addition
+Dialogue: 0,0:20:52.00,0:20:55.63,normal_Wed,,0,0,0,,Wow, they really got it!
+Dialogue: 0,0:20:55.90,0:20:58.10,normal_Wed,,0,0,0,,What is your name?
+Dialogue: 0,0:21:00.22,0:21:01.37,normal_Wed,,0,0,0,,Yuuki
+Dialogue: 0,0:21:01.37,0:21:02.87,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:21:03.34,0:21:06.00,normal_Wed,,0,0,0,,The desired oil!
+Dialogue: 0,0:21:07.00,0:21:11.23,normal_Wed,,0,0,0,,There is not much time left for the cooking showdown
+Dialogue: 0,0:21:16.55,0:21:18.52,normal_Wed,,0,0,0,,Tastes good
+Dialogue: 0,0:21:19.00,0:21:23.96,normal_Wed,,0,0,0,,What kind of dishes did the two groups make?
+Dialogue: 0,0:21:24.46,0:21:24.66,special_Wed_1,,0,0,0,,{\move(703,438,703,404)\c&HFFFFFF&\3c&HFFFFFF&\clip(537,284,867,384)}After 10 hours
+Dialogue: 0,0:21:24.46,0:21:24.66,special_Wed_1,,0,0,0,,{\move(713,736,713,787)\c&H58FFFF&\3c&HFFFFFF&\clip(435,692,975,796)}The ingredients were found and cooking complete
+Dialogue: 0,0:21:24.66,0:21:27.33,special_Wed_1,,0,0,0,,{\pos(703,404)}{\3c&HFFFFFF&\t(0,870,\3c&H000000&)}After 10 hours
+Dialogue: 0,0:21:24.66,0:21:27.33,special_Wed_1,,0,0,0,,{\pos(713,787)}{\3c&HFFFFFF&\t(0,870,\3c&H000000&)\c&H1DE2FF&}Ingredient search and cooking complete
+Dialogue: 0,0:21:28.21,0:21:31.30,normal_Wed,,0,0,0,,The final showdown takes place in this restaurant
+Dialogue: 0,0:21:31.98,0:21:36.81,normal_Wed,,0,0,0,,The other members watch the showdown in a separate room
+Dialogue: 0,0:21:36.81,0:21:38.54,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:21:41.04,0:21:46.23,normal_Wed,,0,0,0,,Lady Devi thinks she is attending a regular food project
+Dialogue: 0,0:21:47.48,0:21:49.55,normal_Wed,,0,0,0,,Serious comedian cooking duel!
+Dialogue: 0,0:21:50.27,0:21:53.62,normal_Wed,,0,0,0,,The showdown finally begins
+Dialogue: 0,0:21:53.96,0:22:00.50,normal_Wed,,0,0,0,,A serious duel between 2 professional chef-level comedians without laughs
+Dialogue: 0,0:22:00.62,0:22:06.04,normal_Wed,,0,0,0,,The judge for both dishes is Lady Devi
+Dialogue: 0,0:22:03.50,0:22:10.54,special_Wed_1,,0,0,0,,{\fad(167,0)\c&H2724FD&\pos(806,896)}Separate 3-course meal from both teams{\c&HFFFFFF&} Comprehensive evaluation
+Dialogue: 0,0:22:06.04,0:22:08.77,normal_Wed,,0,0,0,,Professional level? \N -Yes
+Dialogue: 0,0:22:08.77,0:22:10.54,normal_Wed,,0,0,0,,No way!
+Dialogue: 0,0:22:10.64,0:22:12.94,normal_Wed,,0,0,0,,First is Fukuda's first course
+Dialogue: 0,0:22:12.94,0:22:16.51,normal_Wed,,0,0,0,,Okay, come on, Fukuda, show your confidence
+Dialogue: 0,0:22:17.55,0:22:19.35,normal_Wed,,0,0,0,,Wow, I'm looking forward to it
+Dialogue: 0,0:22:19.45,0:22:22.32,normal_Wed,,0,0,0,,Please see the first course
+Dialogue: 0,0:22:23.72,0:22:25.06,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:22:26.12,0:22:28.13,normal_Wed,,0,0,0,,Raw Scallop and Horse Meat
+Dialogue: 0,0:22:29.48,0:22:31.80,normal_Wed,,0,0,0,,Here it comes\N  -Scallop and horse meat
+Dialogue: 0,0:22:29.90,0:22:32.72,wipe_Wed,,0,0,0,,Do horse meat and scallops go together?
+Dialogue: 0,0:22:32.10,0:22:34.57,normal_Wed,,0,0,0,,Horse meat?\N  -That's a big deal
+Dialogue: 0,0:22:34.57,0:22:36.13,normal_Wed,,0,0,0,,Horse meat?\N  -What does it mean?
+Dialogue: 0,0:22:36.40,0:22:39.98,normal_Wed,,0,0,0,,Made with raw scallops and horse meat
+Dialogue: 0,0:22:39.98,0:22:41.37,normal_Wed,,0,0,0,,Horse meat \N -Right
+Dialogue: 0,0:22:41.37,0:22:49.41,normal_Wed,,0,0,0,,I topped it with a fruit sauce, and I used pears in the sauce
+Dialogue: 0,0:22:53.12,0:22:55.59,normal_Wed,,0,0,0,,Eat it raw, please
+Dialogue: 0,0:22:56.32,0:22:59.56,normal_Wed,,0,0,0,,Not bad
+Dialogue: 0,0:23:00.99,0:23:03.86,normal_Wed,,0,0,0,,Can it be considered delicious?
+Dialogue: 0,0:23:04.23,0:23:06.20,normal_Wed,,0,0,0,,It's delicious.  \N-Great
+Dialogue: 0,0:23:06.33,0:23:07.77,normal_Wed,,0,0,0,,I'm really happy
+Dialogue: 0,0:23:07.77,0:23:10.59,normal_Wed,,0,0,0,,I'm amazed!\N  -Great
+Dialogue: 0,0:23:10.59,0:23:15.37,normal_Wed,,0,0,0,,I just underestimated you. \N -Underestimated, so straight forward
+Dialogue: 0,0:23:14.28,0:23:16.41,wipe_Wed,,0,0,0,,Devi is very strict
+Dialogue: 0,0:23:19.41,0:23:20.01,normal_Wed,,0,0,0,,Delicious
+Dialogue: 0,0:23:20.01,0:23:23.25,normal_Wed,,0,0,0,,Right? Look, it's good, right?
+Dialogue: 0,0:23:23.25,0:23:23.80,normal_Wed,,0,0,0,,Delicious
+Dialogue: 0,0:23:25.15,0:23:26.28,normal_Wed,,0,0,0,,Appetizer standard
+Dialogue: 0,0:23:27.25,0:23:29.75,normal_Wed,,0,0,0,,The first course just right  \N-Lighter in taste
+Dialogue: 0,0:23:30.12,0:23:31.92,normal_Wed,,0,0,0,,Perfection
+Dialogue: 0,0:23:31.92,0:23:34.07,normal_Wed,,0,0,0,,This is the taste that adults like
+Dialogue: 0,0:23:33.76,0:23:35.49,wipe_Wed,,0,0,0,,Chrysanthemum is a big help
+Dialogue: 0,0:23:35.64,0:23:38.36,normal_Wed,,0,0,0,,Next is the first course for the blue team
+Dialogue: 0,0:23:39.30,0:23:40.33,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:23:41.87,0:23:47.50,normal_Wed,,0,0,0,,Stir-fried shrimp, clams, chicken breast, bamboo shoots, cauliflower and plum meat
+Dialogue: 0,0:23:41.38,0:23:43.53,wipe_Wed,,0,0,0,,Looks good
+Dialogue: 0,0:23:48.77,0:23:51.78,normal_Wed,,0,0,0,,What is this? Shrimp. You got shrimp!
+Dialogue: 0,0:23:51.26,0:23:54.52,wipe_Wed,,0,0,0,,Too many ingredients
+Dialogue: 0,0:23:51.88,0:23:54.24,normal_Wed,,0,0,0,,Shrimp was mine
+Dialogue: 0,0:23:54.52,0:23:55.52,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:23:56.25,0:24:00.62,normal_Wed,,0,0,0,,It looks like it's all dry
+Dialogue: 0,0:24:00.67,0:24:02.04,wipe_Wed,,0,0,0,,Super dry
+Dialogue: 0,0:24:01.35,0:24:02.52,normal_Wed,,0,0,0,,No moisture
+Dialogue: 0,0:24:02.52,0:24:05.16,normal_Wed,,0,0,0,,Looks all dried out
+Dialogue: 0,0:24:05.68,0:24:09.69,normal_Wed,,0,0,0,,The situation is already bad just by looking at it
+Dialogue: 0,0:24:09.69,0:24:11.26,wipe_Wed,,0,0,0,,It tastes good, right?
+Dialogue: 0,0:24:10.55,0:24:13.92,normal_Wed,,0,0,0,,How does it taste?
+Dialogue: 0,0:24:18.00,0:24:19.70,normal_Wed,,0,0,0,,Sorry, it's not good
+Dialogue: 0,0:24:21.54,0:24:22.21,normal_Wed,,0,0,0,,Not good?
+Dialogue: 0,0:24:20.87,0:24:22.21,wipe_Wed,,0,0,0,,Very direct
+Dialogue: 0,0:24:24.34,0:24:26.41,normal_Wed,,0,0,0,,It's not good at all. \N -Really?
+Dialogue: 0,0:24:26.41,0:24:27.51,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:24:27.81,0:24:30.28,normal_Wed,,0,0,0,,It's delicious.  \N-Especially delicious!
+Dialogue: 0,0:24:30.28,0:24:31.72,normal_Wed,,0,0,0,,Taste is also very good
+Dialogue: 0,0:24:31.72,0:24:34.65,normal_Wed,,0,0,0,,It's good.\N  -Yeah
+Dialogue: 0,0:24:34.65,0:24:36.39,normal_Wed,,0,0,0,,It's delicious! \N -Suitable for bento
+Dialogue: 0,0:24:36.72,0:24:40.79,normal_Wed,,0,0,0,,If my dog smelt it they'd walk away
+Dialogue: 0,0:24:40.36,0:24:41.64,wipe_Wed,,0,0,0,,Harsh
+Dialogue: 0,0:24:40.99,0:24:42.49,normal_Wed,,0,0,0,,Dogs wouldn't like it either?
+Dialogue: 0,0:24:43.53,0:24:46.98,normal_Wed,,0,0,0,,The first course was an overwhelming victory for Fukuda
+Dialogue: 0,0:24:47.76,0:24:49.56,normal_Wed,,0,0,0,,Next, the second course
+Dialogue: 0,0:24:49.56,0:24:50.20,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:24:52.47,0:24:54.40,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:24:54.40,0:24:59.48,normal_Wed,,0,0,0,,"Greetings from the Land of Bears."
+Dialogue: 0,0:25:00.01,0:25:02.45,normal_Wed,,0,0,0,,Please be ok
+Dialogue: 0,0:25:02.65,0:25:05.65,normal_Wed,,0,0,0,,The rare ingredient bear meat
+Dialogue: 0,0:25:05.75,0:25:10.59,normal_Wed,,0,0,0,,Was stewed together with bamboo shoots and cauliflower
+Dialogue: 0,0:25:11.01,0:25:13.30,normal_Wed,,0,0,0,,How does it taste?
+Dialogue: 0,0:25:17.49,0:25:19.13,normal_Wed,,0,0,0,,The meat is soft
+Dialogue: 0,0:25:21.87,0:25:24.60,normal_Wed,,0,0,0,,That's a compliment. \N -Good impression
+Dialogue: 0,0:25:24.94,0:25:28.31,normal_Wed,,0,0,0,,Did you use only salt for the seasoning?  \N-Yes
+Dialogue: 0,0:25:28.69,0:25:34.48,normal_Wed,,0,0,0,,Next is the meatball made with yellowtail, however
+Dialogue: 0,0:25:34.48,0:25:37.25,normal_Wed,,0,0,0,,So salty.  \N-Is it?
+Dialogue: 0,0:25:37.25,0:25:41.08,normal_Wed,,0,0,0,,I only taste salt
+Dialogue: 0,0:25:41.40,0:25:46.86,normal_Wed,,0,0,0,,As she said, the only seasoning used was salt
+Dialogue: 0,0:25:47.49,0:25:50.06,normal_Wed,,0,0,0,,Next is the blue team
+Dialogue: 0,0:25:50.06,0:25:51.51,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:25:51.51,0:25:53.23,wipe_Wed,,0,0,0,,Just now criticized as worthless
+Dialogue: 0,0:25:53.80,0:26:00.64,normal_Wed,,0,0,0,,Boiled pork and bear cutlet with fruit sauce and gold shaving
+Dialogue: 0,0:26:00.64,0:26:01.84,normal_Wed,,0,0,0,,Bear \N -Right
+Dialogue: 0,0:26:02.04,0:26:05.64,normal_Wed,,0,0,0,,You got bear, too.\N  -Yes
+Dialogue: 0,0:26:06.21,0:26:10.01,normal_Wed,,0,0,0,,Just had bear, now another bear
+Dialogue: 0,0:26:10.38,0:26:15.79,normal_Wed,,0,0,0,,Bears, horse and pig. \N -Horse meat at the beginning, right?
+Dialogue: 0,0:26:16.30,0:26:20.76,normal_Wed,,0,0,0,,An unusual combination of horse and bear
+Dialogue: 0,0:26:17.45,0:26:18.89,wipe_Wed,,0,0,0,,Not a fan at all
+Dialogue: 0,0:26:20.76,0:26:22.29,wipe_Wed,,0,0,0,,Unclear theme
+Dialogue: 0,0:26:22.29,0:26:25.41,normal_Wed,,0,0,0,,Just now the bear meat was a big hit
+Dialogue: 0,0:26:26.50,0:26:29.37,normal_Wed,,0,0,0,,So hard
+Dialogue: 0,0:26:29.90,0:26:31.60,wipe_Wed,,0,0,0,,The tone of voice
+Dialogue: 0,0:26:32.97,0:26:34.54,normal_Wed,,0,0,0,,100 points for "so hard" tone
+Dialogue: 0,0:26:34.88,0:26:38.06,normal_Wed,,0,0,0,,Next is the last course for the red team
+Dialogue: 0,0:26:42.41,0:26:45.32,normal_Wed,,0,0,0,,Golden peach sauce sirloin
+Dialogue: 0,0:26:47.32,0:26:50.89,normal_Wed,,0,0,0,,Cow  \N-Cow?
+Dialogue: 0,0:26:50.60,0:26:52.60,wipe_Wed,,0,0,0,,Used peach
+Dialogue: 0,0:26:59.53,0:27:02.10,normal_Wed,,0,0,0,,Not bad
+Dialogue: 0,0:27:02.10,0:27:04.20,normal_Wed,,0,0,0,,Not bad, not bad at all
+Dialogue: 0,0:27:04.20,0:27:05.84,normal_Wed,,0,0,0,,This is the highest rating
+Dialogue: 0,0:27:06.00,0:27:07.90,normal_Wed,,0,0,0,,Ok ok ok
+Dialogue: 0,0:27:08.72,0:27:11.17,normal_Wed,,0,0,0,,Cows are good!
+Dialogue: 0,0:27:11.78,0:27:15.21,normal_Wed,,0,0,0,,So came the last course for the blue team
+Dialogue: 0,0:27:16.87,0:27:18.00,normal_Wed,,0,0,0,,Here we go!
+Dialogue: 0,0:27:18.92,0:27:22.49,normal_Wed,,0,0,0,,Aromatic fish and snapper super rice ball
+Dialogue: 0,0:27:22.92,0:27:26.96,normal_Wed,,0,0,0,,Aromatic fish, I love aromatic fish
+Dialogue: 0,0:27:28.86,0:27:30.56,normal_Wed,,0,0,0,,Wait. Aromatic fish? \N -Great!
+Dialogue: 0,0:27:30.56,0:27:32.23,normal_Wed,,0,0,0,,Who got that? \N-Me
+Dialogue: 0,0:27:32.33,0:27:34.41,normal_Wed,,0,0,0,,That was mine!
+Dialogue: 0,0:27:34.41,0:27:36.07,normal_Wed,,0,0,0,,A favorite ingredient appears
+Dialogue: 0,0:27:36.77,0:27:40.85,normal_Wed,,0,0,0,,The blue team got the snapper
+Dialogue: 0,0:27:40.85,0:27:43.24,normal_Wed,,0,0,0,,There's fish! We've got it!
+Dialogue: 0,0:27:38.50,0:27:43.24,special_Wed_1,,0,0,0,,{\fad(167,0)\pos(712,888)\c&H2724FD&}Can choose{\c&HFFFFFF&} the type of fish
+Dialogue: 0,0:27:43.66,0:27:45.04,normal_Wed,,0,0,0,,What is the result?
+Dialogue: 0,0:27:52.37,0:27:53.17,wipe_Wed,,0,0,0,,What?
+Dialogue: 0,0:27:52.85,0:27:54.89,normal_Wed,,0,0,0,,More snapper?
+Dialogue: 0,0:27:55.42,0:27:59.56,normal_Wed,,0,0,0,,It's not bad. \N -Really? Thank you
+Dialogue: 0,0:27:59.56,0:28:01.22,normal_Wed,,0,0,0,,Not particularly tasty either
+Dialogue: 0,0:28:01.46,0:28:05.40,normal_Wed,,0,0,0,,But it's not bad. It's good. It's good
+Dialogue: 0,0:28:05.85,0:28:13.74,normal_Wed,,0,0,0,,This is the end of the tasting of the 6 dishes, what is the result?
+Dialogue: 0,0:28:15.17,0:28:18.11,normal_Wed,,0,0,0,,Your first course was very good. \N -Thanks
+Dialogue: 0,0:28:18.11,0:28:22.71,normal_Wed,,0,0,0,,Beppu's last rice ball was also good \N -Thank you
+Dialogue: 0,0:28:22.98,0:28:25.58,normal_Wed,,0,0,0,,Do I have to choose one?  \N-Yes
+Dialogue: 0,0:28:25.92,0:28:27.35,normal_Wed,,0,0,0,,Please!
+Dialogue: 0,0:28:27.35,0:28:28.82,normal_Wed,,0,0,0,,Please, please, please, please
+Dialogue: 0,0:28:28.82,0:28:31.15,normal_Wed,,0,0,0,,It won't end if you can't choose
+Dialogue: 0,0:28:31.49,0:28:33.49,normal_Wed,,0,0,0,,Then I choose the last
+Dialogue: 0,0:28:38.65,0:28:41.38,wipe_Wed,,0,0,0,,Rice balls
+Dialogue: 0,0:28:42.93,0:28:50.74,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H3732FF&}In Summary\N{\r}The winner is the blue team
+Dialogue: 0,0:28:56.58,0:28:58.01,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:28:58.01,0:29:00.25,normal_Wed,,0,0,0,,Lady Devi is really straightforward
+Dialogue: 0,0:29:00.26,0:29:06.79,normal_Wed,,0,0,0,,Despite them having to cook for her she still said what she thought
+Dialogue: 0,0:29:06.79,0:29:08.86,normal_Wed,,0,0,0,,Its very difficult to still be able to taste when trying lots of different food
+Dialogue: 0,0:29:08.86,0:29:11.13,normal_Wed,,0,0,0,,Was the meat really that hard?
+Dialogue: 0,0:29:11.68,0:29:15.80,normal_Wed,,0,0,0,,The phrase "so hard", it's like she was eating a stone
+Dialogue: 0,0:29:16.27,0:29:20.44,normal_Wed,,0,0,0,,The tone of "so hard" was too funny
+Dialogue: 0,0:29:24.52,0:29:31.11,normal_Wed,,0,0,0,,Next is everybody's theories
+Dialogue: 0,0:29:31.11,0:29:33.62,normal_Wed,,0,0,0,,Tonight's presenter is...
+Dialogue: 0,0:29:33.62,0:29:34.89,normal_Wed,,0,0,0,,It's been a long time!
+Dialogue: 0,0:29:34.89,0:29:37.32,normal_Wed,,0,0,0,,It's Kenji Tamura
+Dialogue: 0,0:29:37.32,0:29:39.06,normal_Wed,,0,0,0,,Hello everyone, long time no see
+Dialogue: 0,0:29:39.06,0:29:41.32,normal_Wed,,0,0,0,,It's been a long time. \N -Yes
+Dialogue: 0,0:29:41.32,0:29:43.19,normal_Wed,,0,0,0,,I thought you were snowed in
+Dialogue: 0,0:29:43.52,0:29:45.06,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:29:45.06,0:29:46.83,normal_Wed,,0,0,0,,If I have offended you, please say so!
+Dialogue: 0,0:29:46.83,0:29:47.71,normal_Wed,,0,0,0,,Why would you have?
+Dialogue: 0,0:29:47.71,0:29:48.90,normal_Wed,,0,0,0,,I'll surely apologize
+Dialogue: 0,0:29:48.90,0:29:51.08,normal_Wed,,0,0,0,,So  \N-Reorganize your mood
+Dialogue: 0,0:29:51.08,0:29:56.88,normal_Wed,,0,0,0,,Yes, do you know the singer Yutaka Oe?
+Dialogue: 0,0:29:56.88,0:29:58.57,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:29:58.57,0:30:01.22,normal_Wed,,0,0,0,,Have you ever been on stage together?  \N-Yes
+Dialogue: 0,0:30:01.22,0:30:03.35,normal_Wed,,0,0,0,,Yes? Of course, Hamada-san...
+Dialogue: 0,0:30:03.35,0:30:05.28,normal_Wed,,0,0,0,,Yes, he came to our show
+Dialogue: 0,0:30:05.28,0:30:06.62,normal_Wed,,0,0,0,,Was he nice?
+Dialogue: 0,0:30:06.62,0:30:08.19,normal_Wed,,0,0,0,,A nice guy, yeah
+Dialogue: 0,0:30:08.19,0:30:09.34,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:30:10.12,0:30:15.63,normal_Wed,,0,0,0,,Today we bring you this hypothesis about Yutaka Oe
+Dialogue: 0,0:30:15.63,0:30:21.97,normal_Wed,,0,0,0,,If Yutaka Oe turns out to be bad in private, people will be accept it without much discomfort
+Dialogue: 0,0:30:21.97,0:30:23.37,normal_Wed,,0,0,0,,What does it mean?
+Dialogue: 0,0:30:23.37,0:30:24.58,normal_Wed,,0,0,0,,Even if he's very scary?
+Dialogue: 0,0:30:25.54,0:30:29.07,normal_Wed,,0,0,0,,His whole person seems to be that of having a wild aura
+Dialogue: 0,0:30:30.27,0:30:31.78,normal_Wed,,0,0,0,,Not really...
+Dialogue: 0,0:30:32.27,0:30:34.28,normal_Wed,,0,0,0,,He seems like a normal person
+Dialogue: 0,0:30:35.08,0:30:36.81,normal_Wed,,0,0,0,,That's why there are contrasts
+Dialogue: 0,0:30:37.41,0:30:40.02,normal_Wed,,0,0,0,,Why is this program aiming their sights at him?
+Dialogue: 0,0:30:41.11,0:30:45.12,normal_Wed,,0,0,0,,Take for example manga, they often have a kind of smiling monk
+Dialogue: 0,0:30:45.82,0:30:50.69,normal_Wed,,0,0,0,,But in private, they are actually very bad  \N-I guess
+Dialogue: 0,0:30:50.86,0:30:54.88,normal_Wed,,0,0,0,,The real Yutaka Oe is such a monk
+Dialogue: 0,0:30:54.88,0:30:56.33,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:30:56.33,0:30:58.15,normal_Wed,,0,0,0,,So even if he's scary in private
+Dialogue: 0,0:30:58.61,0:31:02.27,normal_Wed,,0,0,0,,You may also think that this person is really like this and believe it
+Dialogue: 0,0:31:02.27,0:31:04.07,normal_Wed,,0,0,0,,Don't understand
+Dialogue: 0,0:31:04.07,0:31:08.04,normal_Wed,,0,0,0,,But the acting and singing world does have some scary people
+Dialogue: 0,0:31:10.61,0:31:12.97,normal_Wed,,0,0,0,,People in the enka circle are especially bad
+Dialogue: 0,0:31:12.97,0:31:13.92,normal_Wed,,0,0,0,,What're you talking about "bad"?
+Dialogue: 0,0:31:15.49,0:31:17.72,normal_Wed,,0,0,0,,If he is very, very scary
+Dialogue: 0,0:31:18.27,0:31:19.59,normal_Wed,,0,0,0,,Unimaginable
+Dialogue: 0,0:31:19.59,0:31:21.02,normal_Wed,,0,0,0,,Parking wherever
+Dialogue: 0,0:31:21.02,0:31:22.09,normal_Wed,,0,0,0,,Parking is pretty bad
+Dialogue: 0,0:31:23.02,0:31:26.13,normal_Wed,,0,0,0,,If you park wherever, your license will be revoked
+Dialogue: 0,0:31:27.93,0:31:37.74,normal_Wed,,0,0,0,,If Yutaka Oe turns out to be bad in private, people will be accept it without much discomfort
+Dialogue: 0,0:31:38.25,0:31:46.08,normal_Wed,,0,0,0,,Therefore, Yutaka Oe was brought in as a helper to play the role of a very scary person
+Dialogue: 0,0:31:47.35,0:31:53.70,normal_Wed,,0,0,0,,And the target who will witness this in a fake show is
+Dialogue: 0,0:31:55.11,0:32:00.13,normal_Wed,,0,0,0,,The man who is prone to encountering scary people Chance Oshiro
+Dialogue: 0,0:32:00.13,0:32:02.10,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:32:02.10,0:32:04.03,normal_Wed,,0,0,0,,Our first meeting
+Dialogue: 0,0:32:04.04,0:32:07.94,normal_Wed,,0,0,0,,I am Yutaka Oe, a singer and actor of Kitajima Music Agency
+Dialogue: 0,0:32:08.00,0:32:10.31,wipe_Wed,,0,0,0,,Looks like a nice guy
+Dialogue: 0,0:32:10.31,0:32:13.88,normal_Wed,,0,0,0,,I'm not very good at talking
+Dialogue: 0,0:32:13.88,0:32:15.01,normal_Wed,,0,0,0,,I'm sorry if it's a problem for you
+Dialogue: 0,0:32:15.01,0:32:17.41,normal_Wed,,0,0,0,,No, no, I'm the one who isn't good
+Dialogue: 0,0:32:19.28,0:32:20.85,normal_Wed,,0,0,0,,Very humble
+Dialogue: 0,0:32:20.85,0:32:22.55,normal_Wed,,0,0,0,,This is the normal Yutaka Oe
+Dialogue: 0,0:32:23.20,0:32:25.57,normal_Wed,,0,0,0,,However, soon...
+Dialogue: 0,0:32:26.17,0:32:32.06,normal_Wed,,0,0,0,,Please welcome the singer who is going on a journey with us today
+Dialogue: 0,0:32:32.06,0:32:33.76,normal_Wed,,0,0,0,,It's Yutaka Oe
+Dialogue: 0,0:32:35.80,0:32:39.44,normal_Wed,,0,0,0,,Our first meeting
+Dialogue: 0,0:32:39.54,0:32:43.07,normal_Wed,,0,0,0,,This is out first meeting, I'm Aerosmith
+Dialogue: 0,0:32:43.07,0:32:44.84,normal_Wed,,0,0,0,,Hello, i'm so happy
+Dialogue: 0,0:32:45.11,0:32:49.38,normal_Wed,,0,0,0,,Yutaka Oe completely ignores the Aerosmith joke
+Dialogue: 0,0:32:50.30,0:32:53.28,normal_Wed,,0,0,0,,The 1st bad thing is...
+Dialogue: 0,0:32:53.62,0:32:57.82,normal_Wed,,0,0,0,,Yutaka Oe, this is Choshi, Chiba Prefecture
+Dialogue: 0,0:32:57.82,0:33:00.22,normal_Wed,,0,0,0,,Have you been to Choshi?
+Dialogue: 0,0:33:01.02,0:33:02.73,normal_Wed,,0,0,0,,Oe, brackets, answer
+Dialogue: 0,0:33:02.89,0:33:09.23,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}1st Bad Thing
+Dialogue: 0,0:33:02.89,0:33:09.23,special_Wed_1,,0,0,0,,{\pos(960,886.667)}{\bord4\shad0\3c&HFFFFFF&\c&H000000&\b0}Can't read the teleprompter board
+Dialogue: 0,0:33:06.31,0:33:07.60,normal_Wed,,0,0,0,,Very interesting
+Dialogue: 0,0:33:07.60,0:33:09.23,normal_Wed,,0,0,0,,You are very interesting ah
+Dialogue: 0,0:33:09.23,0:33:12.37,normal_Wed,,0,0,0,,No, no, that... Choshi
+Dialogue: 0,0:33:12.37,0:33:15.54,normal_Wed,,0,0,0,,I asked if you have ever been to Choshi
+Dialogue: 0,0:33:15.54,0:33:16.87,normal_Wed,,0,0,0,,Have you been here?
+Dialogue: 0,0:33:16.87,0:33:18.07,normal_Wed,,0,0,0,,Oe, brackets, answer
+Dialogue: 0,0:33:18.07,0:33:20.61,normal_Wed,,0,0,0,,Ah, uh...
+Dialogue: 0,0:33:20.61,0:33:24.35,normal_Wed,,0,0,0,,Well, this is his first location shoot
+Dialogue: 0,0:33:24.35,0:33:27.52,normal_Wed,,0,0,0,,That... it seems to be the his first location shoot
+Dialogue: 0,0:33:28.02,0:33:33.26,normal_Wed,,0,0,0,,This is where the staff comes in to explain the meaning of the teleprompter board
+Dialogue: 0,0:33:33.26,0:33:37.86,normal_Wed,`,0,0,0,,Ah, I see, so I answer
+Dialogue: 0,0:33:37.99,0:33:40.93,normal_Wed,`,0,0,0,,Yes, yes, just answer Chance's question
+Dialogue: 0,0:33:40.93,0:33:44.00,normal_Wed,`,0,0,0,,Answer... ah sorry
+Dialogue: 0,0:33:44.00,0:33:47.50,normal_Wed,`,0,0,0,,I'm sorry, 'll say it again
+Dialogue: 0,0:33:47.50,0:33:51.09,normal_Wed,`,0,0,0,,Ready Chance, countdown 5 4 3 2
+Dialogue: 0,0:33:52.01,0:33:55.41,normal_Wed,`,0,0,0,,Oe, this is Choshi in Chiba
+Dialogue: 0,0:33:55.41,0:33:56.91,normal_Wed,`,0,0,0,,Have you been to Choshi?
+Dialogue: 0,0:33:58.98,0:34:01.62,normal_Wed,`,0,0,0,,Oe, brackets, answer
+Dialogue: 0,0:34:01.62,0:34:02.85,normal_Wed,`,0,0,0,,{\alpha50}Why?
+Dialogue: 0,0:34:03.35,0:34:05.19,normal_Wed,`,0,0,0,,Why?
+Dialogue: 0,0:34:05.56,0:34:10.26,normal_Wed,`,0,0,0,,Let's move on to the next topic
+Dialogue: 0,0:34:05.84,0:34:07.61,wipe_Wed,,0,0,0,,A little angry
+Dialogue: 0,0:34:10.26,0:34:11.68,normal_Wed,,0,0,0,,Therefore
+Dialogue: 0,0:34:13.20,0:34:16.12,normal_Wed,,0,0,0,,Festival, festival, festival
+Dialogue: 0,0:34:16.12,0:34:20.72,normal_Wed,,0,0,0,,Oe is set up so that he only sings without mistakes
+Dialogue: 0,0:34:17.93,0:34:25.41,normal_Wed,f,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}{\fad(0,300)}2nd Bad Thing
+Dialogue: 0,0:34:17.90,0:34:25.41,special_Wed_1,f,0,0,0,,{\pos(983,884)}{\3c&HFFFFFF&\c&H000000&\b0\bord4\shad0}{\fad(0,300)}Sings as soon as the situation arises
+Dialogue: 0,0:34:20.72,0:34:23.36,normal_Wed,,0,0,0,,Thus the scence is forced to end
+Dialogue: 0,0:34:25.58,0:34:27.81,normal_Wed,`,0,0,0,,Ok, cut, thank you
+Dialogue: 0,0:34:27.81,0:34:30.09,normal_Wed,,0,0,0,,What a great song!
+Dialogue: 0,0:34:30.09,0:34:31.41,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:34:32.75,0:34:39.22,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}3rd Bad Thing
+Dialogue: 0,0:34:32.72,0:34:39.22,special_Wed_1,,0,0,0,,{\pos(967,884)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Unusually thirsty after singing
+Dialogue: 0,0:34:40.46,0:34:43.89,normal_Wed,`,0,0,0,,To hear so... so close
+Dialogue: 0,0:34:43.13,0:34:44.63,wipe_Wed,,0,0,0,,Too close is scary
+Dialogue: 0,0:34:43.89,0:34:46.16,normal_Wed,`,0,0,0,,You can't get a ticket this close, right?
+Dialogue: 0,0:34:46.16,0:34:48.06,normal_Wed,,0,0,0,,Coming over like you want to hit someone
+Dialogue: 0,0:34:49.37,0:34:51.80,normal_Wed,,0,0,0,,The pause is also scary
+Dialogue: 0,0:34:52.47,0:34:57.04,normal_Wed,,0,0,0,,From the start, Oe makes frequent and strange actions
+Dialogue: 0,0:34:57.79,0:35:00.21,normal_Wed,,0,0,0,,Chance who saw these...
+Dialogue: 0,0:35:00.41,0:35:03.65,normal_Wed,`,0,0,0,,He's probably in some kind of trouble
+Dialogue: 0,0:35:03.65,0:35:05.88,normal_Wed,`,0,0,0,,Looks strange
+Dialogue: 0,0:35:06.02,0:35:09.52,normal_Wed,`,0,0,0,,There must be something going on with him
+Dialogue: 0,0:35:08.92,0:35:09.52,wipe_Wed,,0,0,0,,Nice people
+Dialogue: 0,0:35:10.11,0:35:15.92,normal_Wed,,0,0,0,,Something appears to be wrong, but he is unsure what it is
+Dialogue: 0,0:35:17.14,0:35:19.94,normal_Wed,,0,0,0,,The next strange thing is...
+Dialogue: 0,0:35:21.06,0:35:27.60,special_Wed_1,,0,0,0,,{\fnFZPinShangHeiS-DB-GB\fs50\shad0\bord4\3c&&H0200FE&&\pos(909,912)}Chance's Lounge
+Dialogue: 0,0:35:21.06,0:35:27.60,special_Wed_1,,0,0,0,,{\fnFZPinShangHeiS-DB-GB\fs50\pos(654,747)}Pretending to be an agent
+Dialogue: 0,0:35:21.43,0:35:25.10,normal_Wed,`,0,0,0,,Hey, you!
+Dialogue: 0,0:35:25.10,0:35:27.60,normal_Wed,`,0,0,0,,Is this a joke?
+Dialogue: 0,0:35:27.77,0:35:33.38,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}4th Bad Thing
+Dialogue: 0,0:35:27.74,0:35:33.38,special_Wed_1,,0,0,0,,{\pos(816,880)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Fierce to agent
+Dialogue: 0,0:35:28.66,0:35:30.09,normal_Wed,,0,0,0,,Do you want to do it?
+Dialogue: 0,0:35:33.81,0:35:36.41,normal_Wed,`,0,0,0,,What are you thinking about?
+Dialogue: 0,0:35:36.58,0:35:42.89,normal_Wed,`,0,0,0,,Chance will also think I'm a fool if I don't do it right
+Dialogue: 0,0:35:43.59,0:35:45.82,normal_Wed,`,0,0,0,,Do you understand?
+Dialogue: 0,0:35:45.14,0:35:47.46,wipe_Wed,,0,0,0,,He's scary when he's angry
+Dialogue: 0,0:35:45.82,0:35:46.76,normal_Wed,`,0,0,0,,Sorry
+Dialogue: 0,0:35:46.76,0:35:48.56,normal_Wed,`,0,0,0,,Are you kidding me?
+Dialogue: 0,0:35:48.56,0:35:52.63,normal_Wed,`,0,0,0,,Because of you, it's a problem for everyone
+Dialogue: 0,0:35:53.22,0:35:59.25,normal_Wed,,0,0,0,,In the tense atmosphere, Chance holds his breath and the tea in his mouth
+Dialogue: 0,0:36:00.40,0:36:02.27,normal_Wed,`,0,0,0,,Do you want to do well? \N -I want to
+Dialogue: 0,0:36:02.91,0:36:05.54,normal_Wed,`,0,0,0,,I'm asking you if you want to do a good job!
+Dialogue: 0,0:36:05.54,0:36:07.98,normal_Wed,`,0,0,0,,I do!
+Dialogue: 0,0:36:10.01,0:36:12.38,normal_Wed,`,0,0,0,,How many times have you said you're sorry?
+Dialogue: 0,0:36:12.58,0:36:15.29,normal_Wed,`,0,0,0,,I've been saying it all along, right?
+Dialogue: 0,0:36:16.72,0:36:21.96,normal_Wed,`,0,0,0,,Hey, I'll kill you!
+Dialogue: 0,0:36:20.24,0:36:22.32,wipe_Wed,,0,0,0,,I'll kill you
+Dialogue: 0,0:36:22.59,0:36:25.26,normal_Wed,`,0,0,0,,It's really rude to everyone
+Dialogue: 0,0:36:25.26,0:36:27.46,normal_Wed,`,0,0,0,,It's really annoying
+Dialogue: 0,0:36:26.85,0:36:28.87,wipe_Wed,,0,0,0,,But also quite protective of Chance
+Dialogue: 0,0:36:31.17,0:36:32.84,wipe_Wed,,0,0,0,,Finally gone
+Dialogue: 0,0:36:39.28,0:36:40.24,wipe_Wed,,0,0,0,,Only just swallowing now
+Dialogue: 0,0:36:40.51,0:36:45.45,normal_Wed,`,0,0,0,,Seem to have been waiting for a while
+Dialogue: 0,0:36:47.18,0:36:48.72,normal_Wed,f,0,0,0,,{\fad(300,0)\alpha40}Just now...
+Dialogue: 0,0:36:50.09,0:36:51.59,normal_Wed,`,0,0,0,,What's going on?
+Dialogue: 0,0:36:51.59,0:36:53.42,normal_Wed,`,0,0,0,,Oe...
+Dialogue: 0,0:36:53.42,0:36:56.26,normal_Wed,`,0,0,0,,He seems to be angry with his manager
+Dialogue: 0,0:36:56.43,0:36:57.96,normal_Wed,`,0,0,0,,Eh?
+Dialogue: 0,0:36:57.96,0:37:00.26,normal_Wed,`,0,0,0,,Super angry
+Dialogue: 0,0:37:00.53,0:37:03.23,normal_Wed,`,0,0,0,,So scary
+Dialogue: 0,0:37:04.43,0:37:06.77,normal_Wed,`,0,0,0,,I think he was born in Kishiwada
+Dialogue: 0,0:37:07.14,0:37:10.97,normal_Wed,`,0,0,0,,He must have been in a gang in Kishiwada
+Dialogue: 0,0:37:10.97,0:37:13.78,normal_Wed,`,0,0,0,,A real Kishiwada punk
+Dialogue: 0,0:37:13.78,0:37:17.71,normal_Wed,`,0,0,0,,Ah, that's right
+Dialogue: 0,0:37:18.05,0:37:20.45,normal_Wed,`,0,0,0,,Is Kishiwada such a place...
+Dialogue: 0,0:37:20.62,0:37:24.62,normal_Wed,`,0,0,0,,Kishiwada 9 is full on gangsters
+Dialogue: 0,0:37:22.39,0:37:25.08,wipe_Wed,,0,0,0,,No its not!
+Dialogue: 0,0:37:24.62,0:37:31.96,normal_Wed,,0,0,0,,Because of the fury, he begins to think of all of Kishiwada as a dwelling for gangsters
+Dialogue: 0,0:37:32.52,0:37:35.89,normal_Wed,,0,0,0,,Later outside
+Dialogue: 0,0:37:35.89,0:37:38.46,normal_Wed,,0,0,0,,Several different terrible scenarios have been prepared
+Dialogue: 0,0:37:42.84,0:37:45.84,normal_Wed,`,0,0,0,,Hello, this is our first meeting
+Dialogue: 0,0:37:45.84,0:37:49.71,normal_Wed,`,0,0,0,,I am a singer and actor at Kitajima Music Agency
+Dialogue: 0,0:37:49.71,0:37:50.75,normal_Wed,`,0,0,0,,I'm Yutaka Oe
+Dialogue: 0,0:37:50.91,0:37:54.78,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}5th Bad Thing
+Dialogue: 0,0:37:50.88,0:37:54.78,special_Wed_1,,0,0,0,,{\pos(822,880)}{\bord4\shad0\3c&HFFFFFF&\c&H000000&\b0}Memory loss with each break
+Dialogue: 0,0:37:54.78,0:37:57.55,normal_Wed,,0,0,0,,Scary, scary, scary. \N -It's scary
+Dialogue: 0,0:37:57.55,0:37:59.82,normal_Wed,,0,0,0,,Many different terrible aspects
+Dialogue: 0,0:37:59.82,0:38:06.96,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}5th Bad Thing
+Dialogue: 0,0:37:59.82,0:38:06.96,special_Wed_1,,0,0,0,,{\pos(816,876)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Memory loss with each break
+Dialogue: 0,0:38:02.48,0:38:06.56,normal_Wed,,0,0,0,,But Chance did not specifically retort and instead ignored this fact
+Dialogue: 0,0:38:07.62,0:38:14.31,normal_Wed,,0,0,0,,Afterwards, Chance begins to think that Oe is acting strangely because his heart is troubled
+Dialogue: 0,0:38:14.89,0:38:16.60,normal_Wed,,0,0,0,,On the location shoot...
+Dialogue: 0,0:38:16.01,0:38:17.92,wipe_Wed,,0,0,0,,Also sharing an umbrella
+Dialogue: 0,0:38:16.97,0:38:19.78,normal_Wed,`,0,0,0,,Can I say, Oe
+Dialogue: 0,0:38:19.78,0:38:21.78,normal_Wed,`,0,0,0,,There's shit there
+Dialogue: 0,0:38:22.51,0:38:25.32,normal_Wed,`,0,0,0,,If you step on it like this
+Dialogue: 0,0:38:25.32,0:38:31.22,normal_Wed,`,0,0,0,,Just wash it off and you'll be fine
+Dialogue: 0,0:38:31.22,0:38:34.76,normal_Wed,`,0,0,0,,Although at that time, dog shit will be on the sole of your shoe
+Dialogue: 0,0:38:35.12,0:38:36.26,normal_Wed,`,0,0,0,,Like this
+Dialogue: 0,0:38:36.43,0:38:37.69,wipe_Wed,,0,0,0,,You don't need to actually do it!
+Dialogue: 0,0:38:37.69,0:38:39.43,normal_Wed,`,0,0,0,,Right?
+Dialogue: 0,0:38:38.19,0:38:39.43,wipe_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:38:39.43,0:38:41.36,normal_Wed,`,0,0,0,,But what I'm trying to say is...
+Dialogue: 0,0:38:41.03,0:38:42.40,wipe_Wed,,0,0,0,,What's he trying to say
+Dialogue: 0,0:38:43.87,0:38:48.27,normal_Wed,`,0,0,0,,Just wash it off and then everything will be fine
+Dialogue: 0,0:38:49.41,0:38:52.28,normal_Wed,`,0,0,0,,Right? It'll be clean
+Dialogue: 0,0:38:52.71,0:38:55.01,normal_Wed,`,0,0,0,,That's what I'm trying to say
+Dialogue: 0,0:38:52.28,0:38:55.01,wipe_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:38:55.01,0:38:57.35,normal_Wed,`,0,0,0,,Eh? What do you mean?
+Dialogue: 0,0:38:57.36,0:38:58.18,normal_Wed,,0,0,0,,Just that...
+Dialogue: 0,0:38:58.74,0:39:02.29,normal_Wed,,0,0,0,,The meaning is unclear
+Dialogue: 0,0:39:02.82,0:39:06.61,normal_Wed,,0,0,0,,But it was clear that Chance was trying to do something to encourage Oe
+Dialogue: 0,0:39:06.61,0:39:08.57,normal_Wed,,0,0,0,,Just act like a normal person
+Dialogue: 0,0:39:08.57,0:39:10.29,normal_Wed,,0,0,0,,Just trying to do something
+Dialogue: 0,0:39:10.29,0:39:12.06,normal_Wed,,0,0,0,,He wants to help out
+Dialogue: 0,0:39:12.82,0:39:14.63,normal_Wed,,0,0,0,,Here too...
+Dialogue: 0,0:39:17.03,0:39:18.57,wipe_Wed,,0,0,0,,Here we go again
+Dialogue: 0,0:39:23.51,0:39:30.18,normal_Wed,f,0,0,0,,{\fad(300,300)}With cutting trees
+Dialogue: 0,0:39:28.58,0:39:29.77,wipe_Wed,,0,0,0,,Singing is good
+Dialogue: 0,0:39:29.88,0:39:38.29,normal_Wed,f,0,0,0,,{\fad(300,300)}{\pos(720,1080)}Hey hey ho, hey hey ho
+Dialogue: 0,0:39:35.60,0:39:37.92,wipe_Wed,,0,0,0,,What is it this time
+Dialogue: 0,0:39:40.80,0:39:41.80,normal_Wed,,0,0,0,,Ok, cut
+Dialogue: 0,0:39:43.13,0:39:49.20,normal_Wed,f,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}{\fad(0,300)}6th Bad Thing
+Dialogue: 0,0:39:43.09,0:39:49.20,special_Wed_1,f,0,0,0,,{\pos(839,884)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}{\fad(0,300)}Drinking after singing is the most important
+Dialogue: 0,0:39:45.40,0:39:47.00,wipe_Wed,,0,0,0,,This is scary
+Dialogue: 0,0:39:47.00,0:39:48.33,wipe_Wed,,0,0,0,,Drinking and crushing at the same time
+Dialogue: 0,0:39:48.87,0:39:50.82,wipe_Wed,,0,0,0,,The same as drinking jelly
+Dialogue: 0,0:39:52.80,0:39:54.67,normal_Wed,`,0,0,0,,You sure sing very well
+Dialogue: 0,0:39:54.67,0:39:55.77,normal_Wed,`,0,0,0,,Especially powerful
+Dialogue: 0,0:39:56.40,0:39:59.40,normal_Wed,,0,0,0,,Once again, it was time for a break...
+Dialogue: 0,0:40:00.48,0:40:01.53,wipe_Wed,,0,0,0,,Have you washed your shoes?
+Dialogue: 0,0:40:01.68,0:40:05.48,normal_Wed,`,0,0,0,,Do you have towels? \N -Ah!
+Dialogue: 0,0:40:05.48,0:40:09.22,normal_Wed,`,0,0,0,,Not now
+Dialogue: 0,0:40:09.22,0:40:10.99,normal_Wed,`,0,0,0,,Wet wipes are fine
+Dialogue: 0,0:40:10.99,0:40:16.49,normal_Wed,`,0,0,0,,No wet wipes either
+Dialogue: 0,0:40:16.96,0:40:20.00,normal_Wed,`,0,0,0,,What are you thinking? Are you sick?
+Dialogue: 0,0:40:20.00,0:40:21.23,normal_Wed,`,0,0,0,,I'll beat you up!
+Dialogue: 0,0:40:23.93,0:40:25.90,normal_Wed,`,0,0,0,,{\alpha60\pos(720,1000)}Sorry
+Dialogue: 0,0:40:24.40,0:40:26.97,normal_Wed,`,0,0,0,,I'm gonna beat you, come outside
+Dialogue: 0,0:40:27.30,0:40:29.41,normal_Wed,`,0,0,0,,I told you to come outside!
+Dialogue: 0,0:40:31.87,0:40:33.51,normal_Wed,`,0,0,0,,Excuse me, can I interrupt?
+Dialogue: 0,0:40:33.51,0:40:35.38,normal_Wed,`,0,0,0,,Fine
+Dialogue: 0,0:40:40.79,0:40:41.32,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:40:41.32,0:40:42.72,normal_Wed,`,0,0,0,,Okay I got it
+Dialogue: 0,0:40:44.29,0:40:46.46,normal_Wed,`,0,0,0,,Oe-san was so angry
+Dialogue: 0,0:40:46.46,0:40:48.39,normal_Wed,`,0,0,0,,He's fired up?
+Dialogue: 0,0:40:48.39,0:40:50.29,normal_Wed,`,0,0,0,,Super scary...
+Dialogue: 0,0:40:50.29,0:40:52.70,normal_Wed,`,0,0,0,,So annoying, he was so angry
+Dialogue: 0,0:40:53.06,0:40:55.40,normal_Wed,`,0,0,0,,Really angry?
+Dialogue: 0,0:40:55.60,0:41:02.10,normal_Wed,`,0,0,0,,Maybe it's not a problem, he may just be a nasty person
+Dialogue: 0,0:41:00.07,0:41:01.10,wipe_Wed,,0,0,0,,What kind of expression is this?
+Dialogue: 0,0:41:03.21,0:41:04.84,normal_Wed,,0,0,0,,Sorry, sorry
+Dialogue: 0,0:41:04.84,0:41:07.01,normal_Wed,`,0,0,0,,Sorry I'm late
+Dialogue: 0,0:41:07.01,0:41:08.64,normal_Wed,`,0,0,0,,Hello, its our first time meeting
+Dialogue: 0,0:41:08.81,0:41:16.29,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}7th Bad Thing
+Dialogue: 0,0:41:08.78,0:41:16.29,special_Wed_1,,0,0,0,,{\pos(818,880)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Memory loss with each break
+Dialogue: 0,0:41:08.64,0:41:13.12,normal_Wed,,0,0,0,,I'm Oe, the singer of Kitajima Music Agency
+Dialogue: 0,0:41:13.12,0:41:16.29,normal_Wed,`,0,0,0,,Ah, yes, hello, hello
+Dialogue: 0,0:41:16.29,0:41:22.99,normal_Wed,,0,0,0,,Every break he gets angry and then starts shooting again with no memory
+Dialogue: 0,0:41:22.99,0:41:26.26,normal_Wed,,0,0,0,,This is the enigmatic cycle of Oe
+Dialogue: 0,0:41:27.07,0:41:30.27,normal_Wed,,0,0,0,,In the next food review section...
+Dialogue: 0,0:41:36.32,0:41:39.38,normal_Wed,,0,0,0,,After eating the crab in the seafood rice bowl with his hands
+Dialogue: 0,0:41:39.88,0:41:42.72,normal_Wed,,0,0,0,,This should be eaten quickly
+Dialogue: 0,0:41:45.55,0:41:47.48,normal_Wed,,0,0,0,,This is a family meal, right?
+Dialogue: 0,0:41:45.72,0:41:50.35,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}8th Bad Thing
+Dialogue: 0,0:41:45.68,0:41:50.35,special_Wed_1,,0,0,0,,{\pos(747,880)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Eats with his hands
+Dialogue: 0,0:41:51.02,0:41:52.42,wipe_Wed,,0,0,0,,Only eating the crab
+Dialogue: 0,0:42:01.06,0:42:02.90,normal_Wed,`,0,0,0,,What's wrong with that guy?
+Dialogue: 0,0:42:02.90,0:42:05.97,normal_Wed,`,0,0,0,,Tsk. Ha-
+Dialogue: 0,0:42:05.97,0:42:08.40,normal_Wed,`,0,0,0,,Tsk, tsk, tsk, tsk, tsk
+Dialogue: 0,0:42:09.17,0:42:13.88,normal_Wed,,0,0,0,,Because of the pressure, Chance keeps ticking
+Dialogue: 0,0:42:17.60,0:42:19.43,wipe_Wed,,0,0,0,,It's going bad
+Dialogue: 0,0:42:21.51,0:42:22.42,normal_Wed,,0,0,0,,Ha-
+Dialogue: 0,0:42:26.48,0:42:31.54,normal_Wed,,0,0,0,,To calm down he smokes 3 quit sticks
+Dialogue: 0,0:42:32.40,0:42:34.00,normal_Wed,,0,0,0,,Is this magic?
+Dialogue: 0,0:42:35.17,0:42:36.60,normal_Wed,,0,0,0,,What is this little magic trick?
+Dialogue: 0,0:42:37.62,0:42:39.54,normal_Wed,,0,0,0,,Suddenly 3 sticks appear
+Dialogue: 0,0:42:40.64,0:42:43.00,normal_Wed,,0,0,0,,Finally, the last shoot of the day
+Dialogue: 0,0:42:44.94,0:42:48.08,normal_Wed,`,0,0,0,,I'm Oe of Kitajima Music Agency
+Dialogue: 0,0:42:47.01,0:42:52.75,normal_Wed,,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}9th Bad Thing
+Dialogue: 0,0:42:46.98,0:42:52.75,special_Wed_1,,0,0,0,,{\pos(820,877.333)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}Memory loss with each break
+Dialogue: 0,0:42:48.08,0:42:49.85,normal_Wed,`,0,0,0,,Ah, its not the first time
+Dialogue: 0,0:42:49.85,0:42:51.48,normal_Wed,`,0,0,0,,Not the first time
+Dialogue: 0,0:42:50.91,0:42:52.75,wipe_Wed,,0,0,0,,Finally said it
+Dialogue: 0,0:42:52.01,0:42:52.75,normal_Wed,`,0,0,0,,Ah...
+Dialogue: 0,0:42:53.28,0:42:59.06,normal_Wed,,0,0,0,,What'll happen in the closing scene in the middle of a beautiful view
+Dialogue: 0,0:43:02.12,0:43:07.13,normal_Wed,`,0,0,0,,We found a good location to shoot
+Dialogue: 0,0:43:07.13,0:43:08.73,normal_Wed,`,0,0,0,,Go back a little more
+Dialogue: 0,0:43:09.93,0:43:11.90,normal_Wed,`,0,0,0,,Don't push me. Don't push me
+Dialogue: 0,0:43:11.90,0:43:13.24,normal_Wed,`,0,0,0,,Eh?\N  -Don't push me
+Dialogue: 0,0:43:13.40,0:43:17.77,normal_Wed,f,0,0,0,,{\3c&H0000FF&\c&HFFFFFF&\pos(250,790)}{\fad(0,300)}10th Bad Thing
+Dialogue: 0,0:43:13.37,0:43:17.77,special_Wed_1,f,0,0,0,,{\pos(747,884)}{\shad0\bord4\3c&HFFFFFF&\c&H000000&\b0}{\fad(0,300)}Symptoms of delusions of victimization
+Dialogue: 0,0:43:15.44,0:43:17.31,normal_Wed,`,0,0,0,,Don't push me
+Dialogue: 0,0:43:18.01,0:43:22.04,normal_Wed,`,0,0,0,,If you try it, I'll do it first
+Dialogue: 0,0:43:20.78,0:43:22.38,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:43:22.38,0:43:25.11,normal_Wed,`,0,0,0,,Face this way. Watch the distance
+Dialogue: 0,0:43:25.11,0:43:27.42,normal_Wed,`,0,0,0,,Look at the camera
+Dialogue: 0,0:43:31.22,0:43:32.32,normal_Wed,`,0,0,0,,Don't push me
+Dialogue: 0,0:43:32.32,0:43:33.69,normal_Wed,`,0,0,0,,What do you mean by "don't push"?
+Dialogue: 0,0:43:33.69,0:43:35.52,normal_Wed,`,0,0,0,,Don't push me
+Dialogue: 0,0:43:35.52,0:43:37.39,normal_Wed,`,0,0,0,,Of... of course I wont
+Dialogue: 0,0:43:37.39,0:43:39.43,normal_Wed,`,0,0,0,,Of course
+Dialogue: 0,0:43:39.43,0:43:42.57,normal_Wed,`,0,0,0,,Even if it is a joke, do not say so
+Dialogue: 0,0:43:42.93,0:43:45.87,normal_Wed,`,0,0,0,,Can you take a step closer to Oe?
+Dialogue: 0,0:43:47.70,0:43:49.04,normal_Wed,`,0,0,0,,Don't push me
+Dialogue: 0,0:43:49.64,0:43:50.91,normal_Wed,`,0,0,0,,You cannot push me
+Dialogue: 0,0:43:50.91,0:43:51.51,normal_Wed,`,0,0,0,,You touched me
+Dialogue: 0,0:43:51.51,0:43:53.58,normal_Wed,`,0,0,0,,Oh, sorry. \N -You touched me
+Dialogue: 0,0:43:53.58,0:43:58.71,normal_Wed,`,0,0,0,,What do you mean? If you want to do it, just come on!
+Dialogue: 0,0:43:58.71,0:44:00.97,normal_Wed,,0,0,0,,Countdown 5 seconds 4 3 2
+Dialogue: 0,0:44:01.98,0:44:07.79,normal_Wed,`,0,0,0,,Okay, everybody, the view is beautiful. \N -Yes
+Dialogue: 0,0:44:09.36,0:44:15.80,normal_Wed,`,0,0,0,,I feel like i've lived until today just to see this view
+Dialogue: 0,0:44:15.80,0:44:17.47,normal_Wed,,0,0,0,,If the sun comes out
+Dialogue: 0,0:44:17.47,0:44:18.63,normal_Wed,`,0,0,0,,Don't push me. Don't push me
+Dialogue: 0,0:44:18.63,0:44:19.94,normal_Wed,`,0,0,0,,You trying to kill someone?
+Dialogue: 0,0:44:19.94,0:44:20.80,normal_Wed,`,0,0,0,,What?
+Dialogue: 0,0:44:21.70,0:44:23.77,normal_Wed,`,0,0,0,,I will not die alone
+Dialogue: 0,0:44:23.77,0:44:26.11,normal_Wed,`,0,0,0,,I'll definitely take you along
+Dialogue: 0,0:44:26.24,0:44:30.05,normal_Wed,`,0,0,0,,That guy is really dangerous, this guy... really scary
+Dialogue: 0,0:44:32.05,0:44:34.28,normal_Wed,`,0,0,0,,He's gone crazy
+Dialogue: 0,0:44:34.28,0:44:35.62,normal_Wed,`,0,0,0,,He's really that type
+Dialogue: 0,0:44:35.62,0:44:37.62,normal_Wed,`,0,0,0,,Terrible, terrible
+Dialogue: 0,0:44:38.05,0:44:39.72,normal_Wed,`,0,0,0,,Super scary!
+Dialogue: 0,0:44:39.72,0:44:42.09,normal_Wed,`,0,0,0,,I'm not listening to that guy's songs anymore
+Dialogue: 0,0:44:42.09,0:44:47.33,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r}The possibility that he's scary can't be ruled out
+Dialogue: 0,0:44:48.43,0:44:49.32,normal_Wed,,0,0,0,,Who knows?
+Dialogue: 0,0:44:51.23,0:44:52.07,normal_Wed,,0,0,0,,The theory was tested
+Dialogue: 0,0:44:52.07,0:44:54.44,normal_Wed,,0,0,0,,Is this how a verification works?
+Dialogue: 0,0:44:55.09,0:44:57.97,normal_Wed,,0,0,0,,What is this? What have I just watched?
+Dialogue: 0,0:44:57.97,0:45:00.84,normal_Wed,,0,0,0,,Of course, Oe is not that kind of person
+Dialogue: 0,0:45:00.84,0:45:03.25,normal_Wed,,0,0,0,,He took it so seriously
+Dialogue: 0,0:45:03.25,0:45:06.52,normal_Wed,,0,0,0,,No, that's who he is, isn't it?
+Dialogue: 0,0:45:06.52,0:45:07.60,normal_Wed,,0,0,0,,Yeah, right.\N  -Yes
+Dialogue: 0,0:45:08.54,0:45:09.59,normal_Wed,,0,0,0,,He's too good at it, right?
+Dialogue: 0,0:45:10.88,0:45:11.49,normal_Wed,,0,0,0,,Yes, yes
+Dialogue: 0,0:45:11.49,0:45:14.06,normal_Wed,,0,0,0,,The performance is too good, very scary
+Dialogue: 0,0:45:14.06,0:45:17.66,normal_Wed,,0,0,0,,After playing that character, Shiro Sano was also treated as that kind of person...
+Dialogue: 0,0:45:14.06,0:45:17.66,note_Wed,,0,0,0,,{\blur4}※Shiro Sano played an Oedipal character in the TV series "Always Love You"
+Dialogue: 0,0:45:18.57,0:45:19.76,normal_Wed,,0,0,0,,Acted too well
+Dialogue: 0,0:45:20.53,0:45:23.07,normal_Wed,,0,0,0,,It's drama, if you will
+Dialogue: 0,0:45:23.07,0:45:26.57,normal_Wed,,0,0,0,,He was following the instructions of the program team to act like this
+Dialogue: 0,0:45:26.57,0:45:27.84,normal_Wed,,0,0,0,,It's an act
+Dialogue: 0,0:45:27.84,0:45:28.80,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:45:28.80,0:45:30.61,normal_Wed,,0,0,0,,He's actually that kind of person
+Dialogue: 0,0:45:30.61,0:45:32.44,normal_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:45:33.11,0:45:34.88,normal_Wed,,0,0,0,,Let me be clear, he's not
+Dialogue: 0,0:45:34.88,0:45:36.45,normal_Wed,,0,0,0,,Although I know this is an act
+Dialogue: 0,0:45:36.45,0:45:39.28,normal_Wed,,0,0,0,,I can't listen to his songs anymore either
+Dialogue: 0,0:45:39.28,0:45:40.65,normal_Wed,,0,0,0,,Please listen!
+Dialogue: 0,0:45:40.65,0:45:42.85,normal_Wed,,0,0,0,,Everyone please keep listening!
+Dialogue: 0,0:29:20.50,0:29:23.81,normal_Wed,,0,0,0,,I'll have to rewind and watch it again when it comes on.  \N-I do want to watch it again
+Dialogue: 0,0:45:42.52,0:46:14.85,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

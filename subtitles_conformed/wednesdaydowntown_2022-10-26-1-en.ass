@@ -1,0 +1,994 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2022-10-26) (Raw).mp4
+Video File: WDT (2022-10-26) (Raw).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 924
+Active Line: 928
+Video Position: 81017
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,13,13,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+Style: special_Wed_1_2,Arial,37,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,0,0,1,0,0,0,1
+Style: special_Wed_3_3,Arial,70,&H00000000,&H0000D6FF,&H00000000,&H0063D9E2,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,10,1
+Style: Lyrics - 复制,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,-1,0,0,100,120,0,0,1,3,1.5,7,10,200,135,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list_Gaki,Arial,50,&H000200B2,&H00FFFFFF,&H27FFFFFF,&HFF000000,0,0,0,0,100,130,0,0,1,2.5,0.1,8,750,10,65,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_2_B,Arial,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,3,3,2,5,0,0,5,1
+Style: special_Wed_说,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,135,0,0,1,3,1,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: note_Wed - Mid,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.54,0:00:06.85,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown
+Dialogue: 0,0:00:06.85,0:00:11.02,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:15.77,0:00:16.73,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:17.83,0:00:22.60,normal_Wed,,0,0,0,,It's FUJIWARA!
+Dialogue: 0,0:00:23.37,0:00:26.27,normal_Wed,,0,0,0,,Stay tuned for our content!\N  -What?
+Dialogue: 0,0:00:26.27,0:00:28.03,normal_Wed,,0,0,0,,Stay tuned for our content!  \N-Didn't you hear?
+Dialogue: 0,0:00:28.03,0:00:30.41,normal_Wed,,0,0,0,,What?  \N-Who's the old man?
+Dialogue: 0,0:00:30.93,0:00:33.78,normal_Wed,,0,0,0,,It's your fault, right? It's your problem
+Dialogue: 0,0:00:33.78,0:00:35.01,normal_Wed,,0,0,0,,I want you to be louder
+Dialogue: 0,0:00:35.01,0:00:36.75,normal_Wed,,0,0,0,,Getting old \N  -Yes
+Dialogue: 0,0:00:36.75,0:00:41.96,normal_Wed,,0,0,0,,Today, we bring you a new work in the program's usual "Someone" series
+Dialogue: 0,0:00:41.96,0:00:44.32,normal_Wed,,0,0,0,,That's great to hear
+Dialogue: 0,0:00:44.32,0:00:47.56,normal_Wed,,0,0,0,,Hamada loves this one  \N-Really loves it
+Dialogue: 0,0:00:47.56,0:00:52.23,normal_Wed,,0,0,0,,He likes to watch it while eating donburi
+Dialogue: 0,0:00:52.23,0:00:57.37,normal_Wed,,0,0,0,,Some new elements have been added to the "Someone" project this time
+Dialogue: 0,0:00:57.37,0:00:59.71,normal_Wed,,0,0,0,,The theory we bring is this:
+Dialogue: 0,0:01:00.69,0:01:12.19,normal_Wed,,0,0,0,,While panicking that there is someone in the house, if another person suddenly appears and asks "is everything okay", you cant help but ask for help from the latter
+Dialogue: 0,0:01:12.54,0:01:15.86,normal_Wed,,0,0,0,,As before this will take place in the home of the target
+Dialogue: 0,0:01:16.41,0:01:22.36,normal_Wed,,0,0,0,,What happens when a person seemingly comes to your rescue when you are in shock
+Dialogue: 0,0:01:22.88,0:01:24.64,normal_Wed,,0,0,0,,But they're also in their home, right? \N -Yeah
+Dialogue: 0,0:01:25.39,0:01:29.60,normal_Wed,,0,0,0,,Seems like a criminal act
+Dialogue: 0,0:01:29.60,0:01:31.94,normal_Wed,,0,0,0,,You'd panic, right? \N -Yes
+Dialogue: 0,0:01:31.94,0:01:36.64,normal_Wed,,0,0,0,,Think carefully how horrible this would be, being faced with two people
+Dialogue: 0,0:01:37.00,0:01:38.69,normal_Wed,,0,0,0,,It's scary to think about
+Dialogue: 0,0:01:38.69,0:01:41.28,normal_Wed,,0,0,0,,It's tough to imagine \N -I can't think how bad it'd be
+Dialogue: 0,0:01:41.28,0:01:44.16,normal_Wed,,0,0,0,,Regardless of how many people there are, you'd attack, right?
+Dialogue: 0,0:01:44.16,0:01:45.89,normal_Wed,,0,0,0,,Who?\N  -To whom?
+Dialogue: 0,0:01:45.89,0:01:48.62,normal_Wed,,0,0,0,,In short, in the midst of the shock they'll first think to protect themselves by getting something
+Dialogue: 0,0:01:48.62,0:01:50.78,normal_Wed,,0,0,0,,Then they'll be cornered if someone else appears
+Dialogue: 0,0:01:50.78,0:01:53.39,normal_Wed,,0,0,0,,That's too much \N- You'd be scared!
+Dialogue: 0,0:01:53.39,0:01:55.46,normal_Wed,,0,0,0,,You'd probably just stand there frozen
+Dialogue: 0,0:01:55.46,0:01:57.36,normal_Wed,,0,0,0,,It's too scary to think about
+Dialogue: 0,0:02:13.31,0:02:16.92,normal_Wed,,0,0,0,,So, the first target is...
+Dialogue: 0,0:02:20.01,0:02:21.90,normal_Wed,,0,0,0,,Tom Brown's Michio
+Dialogue: 0,0:02:23.56,0:02:27.88,normal_Wed,,0,0,0,,This time the ambush in his room is this suspicious old man
+Dialogue: 0,0:02:27.88,0:02:30.05,wipe_Wed,,0,0,0,,Too scary
+Dialogue: 0,0:02:30.05,0:02:32.05,wipe_Wed,,0,0,0,,Just the right amount of terror
+Dialogue: 0,0:02:28.88,0:02:37.56,normal_Wed,,0,0,0,,When they are frightened, another suspicious person will come in through the front door
+Dialogue: 0,0:02:39.40,0:02:43.81,normal_Wed,,0,0,0,,Will Michio ask him for help?
+Dialogue: 0,0:02:47.05,0:02:47.72,wipe_Wed,,0,0,0,,So scary
+Dialogue: 0,0:02:51.22,0:02:53.29,normal_Wed,,0,0,0,,What what what?
+Dialogue: 0,0:02:51.56,0:02:52.38,wipe_Wed,,0,0,0,,Horrible
+Dialogue: 0,0:02:55.52,0:02:57.56,normal_Wed,,0,0,0,,What what what?
+Dialogue: 0,0:03:01.49,0:03:05.16,normal_Wed,,0,0,0,,When scared to the point of having weak legs
+Dialogue: 0,0:03:06.10,0:03:06.60,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:03:10.21,0:03:11.19,wipe_Wed,,0,0,0,,That's definitely how it'd be
+Dialogue: 0,0:03:09.50,0:03:11.54,normal_Wed,,0,0,0,,What's wrong?
+Dialogue: 0,0:03:11.54,0:03:12.64,normal_Wed,,0,0,0,,Is are okay?
+Dialogue: 0,0:03:12.64,0:03:13.41,normal_Wed,,0,0,0,,Eh? Who?
+Dialogue: 0,0:03:13.64,0:03:16.54,normal_Wed,,0,0,0,,I heard voices
+Dialogue: 0,0:03:17.14,0:03:19.28,normal_Wed,,0,0,0,,There's a weird person standing there
+Dialogue: 0,0:03:19.57,0:03:20.32,wipe_Wed,,0,0,0,,Aren't you also?
+Dialogue: 0,0:03:19.98,0:03:21.88,normal_Wed,,0,0,0,,A stranger? \N -Yes
+Dialogue: 0,0:03:21.88,0:03:23.75,normal_Wed,,0,0,0,,Scary
+Dialogue: 0,0:03:23.75,0:03:24.98,normal_Wed,,0,0,0,,Who is this person?
+Dialogue: 0,0:03:25.49,0:03:31.56,normal_Wed,,0,0,0,,First, Michio confides in a stranger that there is a stranger in the house
+Dialogue: 0,0:03:32.02,0:03:34.36,normal_Wed,,0,0,0,,So, do you live next door?
+Dialogue: 0,0:03:34.36,0:03:38.70,normal_Wed,,0,0,0,,I heard voices so I came to see what's going on
+Dialogue: 0,0:03:38.50,0:03:39.52,wipe_Wed,,0,0,0,,This would also be scary
+Dialogue: 0,0:03:39.40,0:03:43.40,normal_Wed,,0,0,0,,Just happened to be close?\N  -Yes
+Dialogue: 0,0:03:44.14,0:03:46.71,normal_Wed,,0,0,0,,Sorry, thanks. \N -It's okay
+Dialogue: 0,0:03:47.25,0:03:54.94,normal_Wed,,0,0,0,,Just like the theory, Michio opened his heart while forgetting the unauthorized entry
+Dialogue: 0,0:03:53.92,0:03:55.93,wipe_Wed,,0,0,0,,I'd just be even more scared
+Dialogue: 0,0:03:56.45,0:03:57.30,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:04:02.01,0:04:06.57,normal_Wed,,0,0,0,,He grabs a frying pan just in case
+Dialogue: 0,0:04:05.20,0:04:07.95,wipe_Wed,,0,0,0,,Got a weapon
+Dialogue: 0,0:04:09.06,0:04:11.36,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:04:11.90,0:04:14.50,normal_Wed,,0,0,0,,Can... can you come out?
+Dialogue: 0,0:04:14.50,0:04:17.10,normal_Wed,,0,0,0,,What... what's wrong? What happened?
+Dialogue: 0,0:04:17.10,0:04:19.27,normal_Wed,,0,0,0,,What's the matter?
+Dialogue: 0,0:04:19.84,0:04:24.15,normal_Wed,,0,0,0,,There really is someone there, and with a pained expression too
+Dialogue: 0,0:04:24.15,0:04:25.14,normal_Wed,,0,0,0,,What's with this comment?
+Dialogue: 0,0:04:25.21,0:04:26.81,normal_Wed,,0,0,0,,Very good
+Dialogue: 0,0:04:27.56,0:04:30.02,normal_Wed,,0,0,0,,Are you lost?
+Dialogue: 0,0:04:30.51,0:04:31.30,wipe_Wed,,0,0,0,,Nice guy
+Dialogue: 0,0:04:30.88,0:04:33.82,normal_Wed,,0,0,0,,You should say something!
+Dialogue: 0,0:04:37.86,0:04:40.43,normal_Wed,,0,0,0,,Let's calm down first
+Dialogue: 0,0:04:40.41,0:04:41.45,wipe_Wed,,0,0,0,,You too!
+Dialogue: 0,0:04:40.43,0:04:41.73,normal_Wed,,0,0,0,,Are you on my side?
+Dialogue: 0,0:04:42.16,0:04:43.43,normal_Wed,,0,0,0,,Are you going to help me?
+Dialogue: 0,0:04:43.43,0:04:44.86,normal_Wed,,0,0,0,,Yes, of course
+Dialogue: 0,0:04:44.86,0:04:46.70,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:04:47.32,0:04:48.00,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:04:49.01,0:04:51.00,normal_Wed,,0,0,0,,What to do?
+Dialogue: 0,0:04:51.00,0:04:55.17,normal_Wed,,0,0,0,,First... get out first
+Dialogue: 0,0:04:55.17,0:05:02.95,normal_Wed,,0,0,0,,Get out first, I'll call the police, okay?
+Dialogue: 0,0:05:00.77,0:05:02.15,wipe_Wed,,0,0,0,,Doing the right thing
+Dialogue: 0,0:05:04.25,0:05:05.32,wipe_Wed,,0,0,0,,Not talking
+Dialogue: 0,0:05:05.68,0:05:08.22,normal_Wed,,0,0,0,,Can I touch you?
+Dialogue: 0,0:05:06.96,0:05:07.68,wipe_Wed,,0,0,0,,"Can I touch you?"
+Dialogue: 0,0:05:09.46,0:05:11.00,wipe_Wed,,0,0,0,,Very daring to go in
+Dialogue: 0,0:05:09.55,0:05:13.39,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:05:13.39,0:05:14.83,normal_Wed,,0,0,0,,Is it okay?
+Dialogue: 0,0:05:15.50,0:05:16.46,wipe_Wed,,0,0,0,,So gentle
+Dialogue: 0,0:05:15.83,0:05:19.06,normal_Wed,,0,0,0,,It's okay, it's okay, it's okay
+Dialogue: 0,0:05:20.00,0:05:21.30,normal_Wed,,0,0,0,,Okay, let's go
+Dialogue: 0,0:05:16.87,0:05:20.44,wipe_Wed,,0,0,0,,So gentle
+Dialogue: 0,0:05:22.27,0:05:24.70,normal_Wed,,0,0,0,,Can you help me?\N  -Yes, of course
+Dialogue: 0,0:05:24.70,0:05:26.97,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:05:24.36,0:05:26.00,wipe_Wed,,0,0,0,,Helping him
+Dialogue: 0,0:05:30.68,0:05:32.78,normal_Wed,,0,0,0,,Ah, I have Coke
+Dialogue: 0,0:05:33.01,0:05:37.68,normal_Wed,,0,0,0,,Uncle, uncle, have some coke
+Dialogue: 0,0:05:36.58,0:05:38.69,wipe_Wed,,0,0,0,,A nice guy\N  -Coke?
+Dialogue: 0,0:05:37.82,0:05:39.58,normal_Wed,,0,0,0,,Coke
+Dialogue: 0,0:05:39.58,0:05:40.92,normal_Wed,,0,0,0,,Why are you giving him a Coke?
+Dialogue: 0,0:05:40.92,0:05:42.49,normal_Wed,,0,0,0,,Tea would be better
+Dialogue: 0,0:05:42.55,0:05:44.52,normal_Wed,,0,0,0,,Let's go to the station first
+Dialogue: 0,0:05:44.86,0:05:50.33,normal_Wed,,0,0,0,,After they exit the house we reveal the truth
+Dialogue: 0,0:05:55.43,0:05:58.70,normal_Wed,,0,0,0,,Me? Me? Me? Me?
+Dialogue: 0,0:05:58.08,0:05:58.78,wipe_Wed,,0,0,0,,Who else could it be?
+Dialogue: 0,0:05:58.70,0:05:59.10,normal_Wed,,0,0,0,,Thank you for your hard work
+Dialogue: 0,0:05:59.10,0:06:02.31,normal_Wed,,0,0,0,,Is it me? Oh, thank god
+Dialogue: 0,0:06:02.31,0:06:04.08,normal_Wed,,0,0,0,,It's me \N-Yes
+Dialogue: 0,0:06:04.08,0:06:05.14,normal_Wed,,0,0,0,,It's about me, isn't it? \N -Yes
+Dialogue: 0,0:06:05.14,0:06:07.18,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:06:07.61,0:06:11.98,normal_Wed,,0,0,0,,So, we told him what the theory was
+Dialogue: 0,0:06:14.29,0:06:15.72,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:06:15.92,0:06:20.66,normal_Wed,,0,0,0,,He said we'd go to the station together, and I did ask him for help
+Dialogue: 0,0:06:20.86,0:06:26.46,normal_Wed,,0,0,0,,Although suspicious, he seemed like a nice guy
+Dialogue: 0,0:06:26.46,0:06:33.74,normal_Wed,,0,0,0,,Honestly, I thought he was reliable, so I felt okay about it
+Dialogue: 0,0:06:33.97,0:06:38.94,normal_Wed,,0,0,0,,And, to be honest, I have confidence in my own strength
+Dialogue: 0,0:06:39.08,0:06:42.53,normal_Wed,,0,0,0,,If he had attacked me from behind, I could have taken him out
+Dialogue: 0,0:06:42.53,0:06:44.45,normal_Wed,,0,0,0,,So i'm relieved he didn't do anything
+Dialogue: 0,0:06:45.07,0:06:46.86,wipe_Wed,,0,0,0,,Very human
+Dialogue: 0,0:06:44.88,0:06:48.22,normal_Wed,,0,0,0,,The next target is
+Dialogue: 0,0:06:51.12,0:06:54.59,normal_Wed,,0,0,0,,Shinichi
+Dialogue: 0,0:06:53.75,0:06:54.60,wipe_Wed,,0,0,0,,Here we go, trash
+Dialogue: 0,0:06:55.29,0:06:59.60,normal_Wed,,0,0,0,,This time people the ambush occurs in the toilet by the entrance
+Dialogue: 0,0:06:57.79,0:06:58.69,wipe_Wed,,0,0,0,,Super scary!
+Dialogue: 0,0:06:58.69,0:07:01.05,wipe_Wed,,0,0,0,,This candidate is an interesting choice
+Dialogue: 0,0:07:01.70,0:07:02.93,normal_Wed,,0,0,0,,So, soon
+Dialogue: 0,0:07:09.84,0:07:12.18,normal_Wed,,0,0,0,,Whoa, wait a minute! I'm scared!
+Dialogue: 0,0:07:11.28,0:07:13.97,wipe_Wed,,0,0,0,,A scary expression
+Dialogue: 0,0:07:13.65,0:07:15.98,normal_Wed,,0,0,0,,Whoa, wait a minute! I'm scared!
+Dialogue: 0,0:07:17.42,0:07:19.82,normal_Wed,,0,0,0,,Whoa, wait a minute! I'm scared!
+Dialogue: 0,0:07:19.82,0:07:23.25,normal_Wed,,0,0,0,,What!? Scared the hell out of me. Who?
+Dialogue: 0,0:07:23.92,0:07:25.28,normal_Wed,,0,0,0,,Right at that moment
+Dialogue: 0,0:07:25.28,0:07:27.16,normal_Wed,,0,0,0,,This is bad!
+Dialogue: 0,0:07:27.15,0:07:27.79,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:07:27.79,0:07:28.99,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:07:28.99,0:07:29.99,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:07:29.99,0:07:32.13,normal_Wed,,0,0,0,,Wait! Who are you? Don't just let yourself in!
+Dialogue: 0,0:07:32.13,0:07:34.80,normal_Wed,,0,0,0,,I heard you shout\N  -Who are you?
+Dialogue: 0,0:07:34.80,0:07:36.60,normal_Wed,,0,0,0,,Scared the hell out of me, who're you!?
+Dialogue: 0,0:07:36.70,0:07:38.07,normal_Wed,,0,0,0,,Don't just come in!
+Dialogue: 0,0:07:38.07,0:07:39.27,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:07:39.27,0:07:40.37,normal_Wed,,0,0,0,,Someone's here!
+Dialogue: 0,0:07:40.37,0:07:42.64,normal_Wed,,0,0,0,,His brain has shut down due to fear
+Dialogue: 0,0:07:43.04,0:07:44.11,normal_Wed,,0,0,0,,He's super on edge
+Dialogue: 0,0:07:44.21,0:07:46.48,normal_Wed,,0,0,0,,This is horrible.\N  -Is someone here?
+Dialogue: 0,0:07:46.48,0:07:49.75,normal_Wed,,0,0,0,,Yes, through that door right there
+Dialogue: 0,0:07:50.95,0:07:52.88,normal_Wed,,0,0,0,,Ah, scared the hell out of me!
+Dialogue: 0,0:07:52.88,0:07:55.95,normal_Wed,,0,0,0,,Don't know each other? \N -No, I don't
+Dialogue: 0,0:07:55.26,0:07:56.03,wipe_Wed,,0,0,0,,What's he mad about?
+Dialogue: 0,0:07:56.12,0:07:58.49,normal_Wed,,0,0,0,,Don't come over here, i'm so scared
+Dialogue: 0,0:07:58.49,0:08:00.63,normal_Wed,,0,0,0,,I'm scared to death, who the hell are you?
+Dialogue: 0,0:07:58.61,0:08:01.40,wipe_Wed,,0,0,0,,He's afraid of the person
+Dialogue: 0,0:08:00.76,0:08:04.10,normal_Wed,,0,0,0,,I'm shivering, my whole body is shaking
+Dialogue: 0,0:08:04.43,0:08:08.27,normal_Wed,,0,0,0,,It's disgusting. It's scary. So are you!
+Dialogue: 0,0:08:08.80,0:08:16.60,normal_Wed,,0,0,0,,Not only did they not ask for help, they treated the second person as also suspicious
+Dialogue: 0,0:08:17.52,0:08:18.34,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:08:21.68,0:08:24.68,normal_Wed,,0,0,0,,I can't even walk a step, I'm really scared to death
+Dialogue: 0,0:08:25.66,0:08:28.99,normal_Wed,,0,0,0,,Seriously, you stay away from me. Who the hell are you to enter my house?
+Dialogue: 0,0:08:28.99,0:08:31.90,normal_Wed,,0,0,0,,Bluetooth has entered pairing mode
+Dialogue: 0,0:08:31.90,0:08:33.32,normal_Wed,,0,0,0,,Seriously!
+Dialogue: 0,0:08:34.56,0:08:36.03,wipe_Wed,,0,0,0,,Pairing mode now
+Dialogue: 0,0:08:36.09,0:08:38.50,normal_Wed,,0,0,0,,Disgusting!
+Dialogue: 0,0:08:38.70,0:08:42.43,normal_Wed,,0,0,0,,So, we went over to reveal the truth
+Dialogue: 0,0:08:50.74,0:08:52.74,normal_Wed,,0,0,0,,Again!?
+Dialogue: 0,0:08:50.03,0:08:52.71,wipe_Wed,,0,0,0,,A terrible face
+Dialogue: 0,0:08:52.74,0:08:54.71,normal_Wed,,0,0,0,,Wednesday, right? \N -Yes
+Dialogue: 0,0:08:54.72,0:08:59.38,normal_Wed,,0,0,0,,Ugh, I was really, really scared
+Dialogue: 0,0:08:59.38,0:09:01.69,normal_Wed,,0,0,0,,I was shivering, really disgusting
+Dialogue: 0,0:09:01.69,0:09:05.19,normal_Wed,,0,0,0,,What about the second one? The guy who came in after?
+Dialogue: 0,0:09:05.19,0:09:11.53,normal_Wed,,0,0,0,,"If someone else comes, you can't help but ask them for help"
+Dialogue: 0,0:09:11.53,0:09:15.10,normal_Wed,,0,0,0,,Ask for help from him? He's scary too
+Dialogue: 0,0:09:15.33,0:09:19.87,normal_Wed,,0,0,0,,2 strangers in the house at once, 2 is extra scary
+Dialogue: 0,0:09:19.62,0:09:21.45,wipe_Wed,,0,0,0,,It's scary.\N  -Yeah
+Dialogue: 0,0:09:20.14,0:09:23.21,normal_Wed,,0,0,0,,Randomly coming in and encountering people is awful
+Dialogue: 0,0:09:23.34,0:09:25.34,normal_Wed,,0,0,0,,I thought I was going to get my ass kicked
+Dialogue: 0,0:09:25.78,0:09:29.18,normal_Wed,,0,0,0,,So, the next target is
+Dialogue: 0,0:09:30.21,0:09:32.95,normal_Wed,,0,0,0,,Daishizen's Roger
+Dialogue: 0,0:09:33.71,0:09:37.39,normal_Wed,,0,0,0,,This time the person is lying in bed
+Dialogue: 0,0:09:38.54,0:09:39.04,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:09:43.66,0:09:50.03,normal_Wed,,0,0,0,,He put the chain lock on, so we couldn't get in using the key
+Dialogue: 0,0:09:50.89,0:09:56.64,normal_Wed,,0,0,0,,So, it became a simple prank for an extra cautious person
+Dialogue: 0,0:10:07.75,0:10:11.82,normal_Wed,,0,0,0,,Roger is as cool and calm as usual
+Dialogue: 0,0:10:11.74,0:10:13.74,wipe_Wed,,0,0,0,,But he's a strange guy
+Dialogue: 0,0:10:20.22,0:10:21.06,wipe_Wed,,0,0,0,,Getting ready
+Dialogue: 0,0:10:22.64,0:10:24.20,wipe_Wed,,0,0,0,,It's starting
+Dialogue: 0,0:10:24.20,0:10:24.90,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:10:27.36,0:10:30.88,normal_Wed,,0,0,0,,Hey? Sorry
+Dialogue: 0,0:10:30.88,0:10:30.88,wipe_Wed,,0,0,0,,Hey
+Dialogue: 0,0:10:30.88,0:10:32.34,normal_Wed,,0,0,0,,Hey
+Dialogue: 0,0:10:32.68,0:10:34.08,normal_Wed,,0,0,0,,Uncle
+Dialogue: 0,0:10:34.08,0:10:35.35,normal_Wed,,0,0,0,,Hey
+Dialogue: 0,0:10:35.99,0:10:36.70,wipe_Wed,,0,0,0,,What's this for?
+Dialogue: 0,0:10:36.25,0:10:37.82,normal_Wed,,0,0,0,,Hey
+Dialogue: 0,0:10:38.47,0:10:44.96,normal_Wed,,0,0,0,,Talking like an American cop, he receives no response
+Dialogue: 0,0:10:44.25,0:10:45.01,wipe_Wed,,0,0,0,,So cool
+Dialogue: 0,0:10:48.35,0:10:49.87,wipe_Wed,,0,0,0,,But he is shaken
+Dialogue: 0,0:10:49.66,0:10:52.13,normal_Wed,,0,0,0,,Closing the door first
+Dialogue: 0,0:10:51.01,0:10:54.52,wipe_Wed,,0,0,0,,Got an egg pan
+Dialogue: 0,0:10:58.12,0:10:58.55,wipe_Wed,,0,0,0,,What?
+Dialogue: 0,0:11:00.64,0:11:02.64,normal_Wed,,0,0,0,,So, he re-enters
+Dialogue: 0,0:11:06.43,0:11:08.38,normal_Wed,,0,0,0,,Uncle
+Dialogue: 0,0:11:10.31,0:11:11.82,normal_Wed,,0,0,0,,Uncle, get out
+Dialogue: 0,0:11:12.31,0:11:13.05,wipe_Wed,,0,0,0,,What's this?
+Dialogue: 0,0:11:12.95,0:11:15.72,normal_Wed,,0,0,0,,Uncle, you understand, right?
+Dialogue: 0,0:11:16.03,0:11:18.61,wipe_Wed,,0,0,0,,What?
+Dialogue: 0,0:11:17.22,0:11:18.09,normal_Wed,,0,0,0,,Uncle
+Dialogue: 0,0:11:19.76,0:11:20.73,normal_Wed,,0,0,0,,Wait, stop, stop
+Dialogue: 0,0:11:20.73,0:11:23.39,normal_Wed,,0,0,0,,Hey, stop
+Dialogue: 0,0:11:22.10,0:11:22.69,wipe_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:11:23.76,0:11:26.86,normal_Wed,,0,0,0,,Go slowly, stop!
+Dialogue: 0,0:11:29.73,0:11:32.08,wipe_Wed,,0,0,0,,He's not even a foreigner.  \N-Roger is scary
+Dialogue: 0,0:11:32.74,0:11:39.58,normal_Wed,,0,0,0,,Keeping his distance, he drives the suspicious person out
+Dialogue: 0,0:11:44.79,0:11:45.40,wipe_Wed,,0,0,0,,Sweating
+Dialogue: 0,0:11:46.79,0:11:49.17,normal_Wed,,0,0,0,,Here, we revealed the truth
+Dialogue: 0,0:11:50.72,0:11:55.33,normal_Wed,,0,0,0,,It was supposed to be like this, but the other person couldn't come in
+Dialogue: 0,0:11:55.33,0:11:56.36,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:11:56.36,0:11:58.53,normal_Wed,,0,0,0,,Yes  \N-Ok ok ok
+Dialogue: 0,0:11:59.96,0:12:02.27,normal_Wed,,0,0,0,,It's messed up...
+Dialogue: 0,0:12:02.73,0:12:06.60,normal_Wed,,0,0,0,,So, the next target is
+Dialogue: 0,0:12:09.31,0:12:12.58,normal_Wed,,0,0,0,,Bike Kawasaki Bike
+Dialogue: 0,0:12:13.29,0:12:16.21,normal_Wed,,0,0,0,,The person is hidden in the toilet
+Dialogue: 0,0:12:17.24,0:12:21.26,normal_Wed,,0,0,0,,And this time the second person doesn't enter through the front door
+Dialogue: 0,0:12:21.26,0:12:23.67,normal_Wed,,0,0,0,,But actually the balcony
+Dialogue: 0,0:12:25.16,0:12:30.66,normal_Wed,,0,0,0,,A significant change to further test the theory
+Dialogue: 0,0:12:31.38,0:12:33.82,normal_Wed,,0,0,0,,So, 40 minutes after returning home
+Dialogue: 0,0:12:36.76,0:12:38.60,normal_Wed,,0,0,0,,He finally goes into the toilet
+Dialogue: 0,0:12:45.34,0:12:45.89,wipe_Wed,,0,0,0,,Closed the door
+Dialogue: 0,0:12:54.32,0:12:55.55,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:12:55.72,0:12:56.59,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:12:57.62,0:13:00.26,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:13:00.26,0:13:00.99,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:13:00.99,0:13:02.93,normal_Wed,,0,0,0,,What happened, I heard you scream so loud
+Dialogue: 0,0:13:04.86,0:13:06.03,normal_Wed,,0,0,0,,Someone...
+Dialogue: 0,0:13:06.03,0:13:07.30,normal_Wed,,0,0,0,,Someone?\N  -Yes
+Dialogue: 0,0:13:07.30,0:13:09.30,normal_Wed,,0,0,0,,No, no, no...
+Dialogue: 0,0:13:11.04,0:13:12.24,normal_Wed,,0,0,0,,You... who are you?
+Dialogue: 0,0:13:12.24,0:13:14.71,normal_Wed,,0,0,0,,Calm down. What's going on? \N -Who are you?
+Dialogue: 0,0:13:14.71,0:13:16.24,normal_Wed,,0,0,0,,Who are you?
+Dialogue: 0,0:13:16.24,0:13:18.94,normal_Wed,,0,0,0,,What's happening?\N  -Who are you?
+Dialogue: 0,0:13:19.24,0:13:27.39,normal_Wed,,0,0,0,,As unexpected visitors appear BKB temporarily seeks refuge in the washroom
+Dialogue: 0,0:13:28.08,0:13:32.99,normal_Wed,,0,0,0,,Wait, seriously, I'm calling the police
+Dialogue: 0,0:13:33.09,0:13:34.36,normal_Wed,,0,0,0,,Calm down
+Dialogue: 0,0:13:34.36,0:13:37.09,normal_Wed,,0,0,0,,No, there's someone in the bathroom...
+Dialogue: 0,0:13:37.33,0:13:38.60,normal_Wed,,0,0,0,,Is there anyone in the bathroom?
+Dialogue: 0,0:13:41.07,0:13:43.47,normal_Wed,,0,0,0,,He's not a family member?
+Dialogue: 0,0:13:44.30,0:13:45.77,normal_Wed,,0,0,0,,Who are you?\N  -It's okay
+Dialogue: 0,0:13:45.77,0:13:49.67,normal_Wed,,0,0,0,,I heard a voice. That's the guy, right?
+Dialogue: 0,0:13:50.68,0:13:54.48,normal_Wed,,0,0,0,,Don't, oh my god, what is going on?
+Dialogue: 0,0:13:54.48,0:13:56.92,normal_Wed,,0,0,0,,Who who who... you two... who are you both?
+Dialogue: 0,0:13:58.45,0:13:59.95,normal_Wed,,0,0,0,,It will definitely happen
+Dialogue: 0,0:14:00.12,0:14:01.99,normal_Wed,,0,0,0,,Where did you... where did you come in?
+Dialogue: 0,0:14:02.15,0:14:03.72,normal_Wed,,0,0,0,,Yeah, where did you come in?
+Dialogue: 0,0:14:03.72,0:14:05.26,normal_Wed,,0,0,0,,No, no, i'm asking you
+Dialogue: 0,0:14:05.56,0:14:06.92,normal_Wed,,0,0,0,,Seriously, where'd you come in?
+Dialogue: 0,0:14:06.92,0:14:09.19,normal_Wed,,0,0,0,,Who... who... are you
+Dialogue: 0,0:14:09.19,0:14:12.36,normal_Wed,,0,0,0,,I am on the 3rd floor
+Dialogue: 0,0:14:12.63,0:14:14.43,normal_Wed,,0,0,0,,How can you come in on the 3rd floor?
+Dialogue: 0,0:14:14.43,0:14:15.53,normal_Wed,,0,0,0,,You too
+Dialogue: 0,0:14:15.70,0:14:16.60,normal_Wed,,0,0,0,,Scary as hell
+Dialogue: 0,0:14:16.16,0:14:16.77,wipe_Wed,,0,0,0,,A drama
+Dialogue: 0,0:14:16.60,0:14:17.90,normal_Wed,,0,0,0,,You're the one who's scaring me!
+Dialogue: 0,0:14:17.97,0:14:19.40,normal_Wed,,0,0,0,,Don't reply in such a smooth way!
+Dialogue: 0,0:14:19.40,0:14:21.44,normal_Wed,,0,0,0,,It's a three-way skit
+Dialogue: 0,0:14:21.97,0:14:29.01,normal_Wed,,0,0,0,,He starts retorting to the suspicious people who didn't see themselves as a problem
+Dialogue: 0,0:14:29.25,0:14:31.78,normal_Wed,,0,0,0,,We reveal the truth
+Dialogue: 0,0:14:39.39,0:14:42.39,normal_Wed,,0,0,0,,Wh... wh... wh... what
+Dialogue: 0,0:14:42.56,0:14:46.83,normal_Wed,,0,0,0,,"Forget to doubt and ask for help"
+Dialogue: 0,0:14:46.83,0:14:49.80,normal_Wed,,0,0,0,,Won't ask for help, not at all
+Dialogue: 0,0:14:49.80,0:14:51.87,normal_Wed,,0,0,0,,Won't ask for help
+Dialogue: 0,0:14:51.87,0:14:57.17,normal_Wed,,0,0,0,,But I'm relieved to be able to communicate
+Dialogue: 0,0:14:57.38,0:15:00.38,normal_Wed,,0,0,0,,Looks like a nice guy on the outside too
+Dialogue: 0,0:15:01.15,0:15:04.55,normal_Wed,,0,0,0,,But it scared me to death. Suddenly, there was someone in the toilet
+Dialogue: 0,0:15:04.55,0:15:08.01,normal_Wed,,0,0,0,,And then suddenly appeared a BOY
+Dialogue: 0,0:15:08.01,0:15:10.01,normal_Wed,,0,0,0,,BKBKBKB
+Dialogue: 0,0:15:12.37,0:15:15.63,wipe_Wed,,0,0,0,,Doing it with glasses on is a little weird
+Dialogue: 0,0:15:16.03,0:15:19.63,normal_Wed,,0,0,0,,So, the next target is
+Dialogue: 0,0:15:19.90,0:15:22.30,normal_Wed,,0,0,0,,I'm exhausted
+Dialogue: 0,0:15:22.93,0:15:25.80,normal_Wed,,0,0,0,,Cotton Kyon
+Dialogue: 0,0:15:40.32,0:15:44.39,normal_Wed,,0,0,0,,The last target is Cotton Kyon
+Dialogue: 0,0:15:45.15,0:15:48.05,normal_Wed,,0,0,0,,A person is hidden in this position in the living room
+Dialogue: 0,0:15:49.44,0:15:53.88,normal_Wed,,0,0,0,,This time the second person will also appear from the balcony
+Dialogue: 0,0:15:56.09,0:15:57.44,normal_Wed,,0,0,0,,What is the result?
+Dialogue: 0,0:16:05.38,0:16:07.76,wipe_Wed,,0,0,0,,Running towards the balcony
+Dialogue: 0,0:16:11.58,0:16:12.89,wipe_Wed,,0,0,0,,Runing to the entrance is better
+Dialogue: 0,0:16:14.42,0:16:15.15,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:16:16.69,0:16:19.12,normal_Wed,,0,0,0,,This is bad, this is bad \N-Are you okay?
+Dialogue: 0,0:16:19.12,0:16:22.26,normal_Wed,,0,0,0,,What is it? \N-This is bad
+Dialogue: 0,0:16:22.26,0:16:22.76,normal_Wed,,0,0,0,,Who are you?
+Dialogue: 0,0:16:23.49,0:16:26.00,normal_Wed,,0,0,0,,I heard a sound and came to see what's going on
+Dialogue: 0,0:16:26.30,0:16:29.33,normal_Wed,,0,0,0,,You wait
+Dialogue: 0,0:16:29.33,0:16:30.47,normal_Wed,,0,0,0,,Wait a minute
+Dialogue: 0,0:16:30.90,0:16:32.14,normal_Wed,,0,0,0,,What's happening?
+Dialogue: 0,0:16:32.14,0:16:33.44,normal_Wed,,0,0,0,,"What's happening?"
+Dialogue: 0,0:16:33.44,0:16:34.37,normal_Wed,,0,0,0,,Who are you?
+Dialogue: 0,0:16:34.64,0:16:38.24,normal_Wed,,0,0,0,,I heard a lot of screaming. Is everything okay?
+Dialogue: 0,0:16:38.51,0:16:40.88,normal_Wed,,0,0,0,,First of all, I thank you. \N -It's okay, it's okay
+Dialogue: 0,0:16:41.21,0:16:44.45,normal_Wed,,0,0,0,,I thought something terrible had happened
+Dialogue: 0,0:16:42.43,0:16:44.44,wipe_Wed,,0,0,0,,Where did you come in?
+Dialogue: 0,0:16:44.45,0:16:45.72,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:16:46.19,0:16:52.06,normal_Wed,,0,0,0,,First of all, he thanks the man who suddenly broke in from the balcony
+Dialogue: 0,0:16:52.73,0:16:54.52,normal_Wed,,0,0,0,,Afterwards
+Dialogue: 0,0:16:55.46,0:16:58.00,normal_Wed,,0,0,0,,Who are you?
+Dialogue: 0,0:16:58.00,0:16:59.40,normal_Wed,,0,0,0,,No reply?
+Dialogue: 0,0:17:00.16,0:17:01.83,normal_Wed,,0,0,0,,Don't know each other?
+Dialogue: 0,0:17:01.83,0:17:03.00,normal_Wed,,0,0,0,,Don't know him
+Dialogue: 0,0:17:03.13,0:17:05.50,normal_Wed,,0,0,0,,How old are you?
+Dialogue: 0,0:17:06.44,0:17:08.44,normal_Wed,,0,0,0,,Definitely elderly
+Dialogue: 0,0:17:07.94,0:17:09.94,wipe_Wed,,0,0,0,,No shit
+Dialogue: 0,0:17:08.91,0:17:11.58,normal_Wed,,0,0,0,,It's scary. \N -Scary...
+Dialogue: 0,0:17:12.05,0:17:19.84,normal_Wed,,0,0,0,,Ignoring the balcony man, his focus is completely on the green screen old man
+Dialogue: 0,0:17:20.45,0:17:21.37,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:17:21.95,0:17:22.99,normal_Wed,,0,0,0,,What to do?
+Dialogue: 0,0:17:22.99,0:17:26.02,normal_Wed,,0,0,0,,So, what... take him out
+Dialogue: 0,0:17:26.04,0:17:29.39,normal_Wed,,0,0,0,,Okay, let's go
+Dialogue: 0,0:17:28.64,0:17:32.91,wipe_Wed,,0,0,0,,What? What is this scene?
+Dialogue: 0,0:17:33.16,0:17:35.40,normal_Wed,,0,0,0,,That... that...
+Dialogue: 0,0:17:35.40,0:17:36.70,normal_Wed,,0,0,0,,Do you know each other?
+Dialogue: 0,0:17:36.70,0:17:39.50,normal_Wed,,0,0,0,,Not at all
+Dialogue: 0,0:17:39.50,0:17:41.07,normal_Wed,,0,0,0,,What exactly are you...
+Dialogue: 0,0:17:42.71,0:17:44.01,normal_Wed,,0,0,0,,A memorable line
+Dialogue: 0,0:17:44.09,0:17:45.28,wipe_Wed,,0,0,0,,That's a good line
+Dialogue: 0,0:17:46.91,0:17:55.99,normal_Wed,,0,0,0,,The intruders who broke into the house in the form of "Worthless Nobodies" has left
+Dialogue: 0,0:17:54.10,0:17:56.10,wipe_Wed,,0,0,0,,It's like a live performance
+Dialogue: 0,0:18:06.30,0:18:06.99,normal_Wed,,0,0,0,,Thank you for your hard work
+Dialogue: 0,0:18:07.70,0:18:11.47,normal_Wed,,0,0,0,,This is too deadly
+Dialogue: 0,0:18:12.07,0:18:14.94,normal_Wed,,0,0,0,,What a way to get things done!
+Dialogue: 0,0:18:15.27,0:18:18.11,normal_Wed,,0,0,0,,Do you know what the theory is? \N -What theory?
+Dialogue: 0,0:18:19.04,0:18:21.51,normal_Wed,,0,0,0,,The old man was standing there, super scary
+Dialogue: 0,0:18:21.71,0:18:24.12,normal_Wed,,0,0,0,,There's another guy, right? \N -Yeah
+Dialogue: 0,0:18:24.12,0:18:25.72,normal_Wed,,0,0,0,,What do you think of that guy?
+Dialogue: 0,0:18:26.45,0:18:28.12,normal_Wed,,0,0,0,,Saviour
+Dialogue: 0,0:18:28.52,0:18:32.42,normal_Wed,,0,0,0,,We explained the content of the theory for Kyon
+Dialogue: 0,0:18:32.42,0:18:35.37,normal_Wed,,0,0,0,,"Can't help but ask for help"
+Dialogue: 0,0:18:36.63,0:18:38.10,normal_Wed,,0,0,0,,Bingo
+Dialogue: 0,0:18:38.30,0:18:42.67,normal_Wed,,0,0,0,,He became a superhero in my eyes
+Dialogue: 0,0:18:42.67,0:18:50.91,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H3732FF&}In summary\N{\r}The man who breaks into the balcony on the 2nd floor will also be seen as a superhero
+Dialogue: 0,0:18:51.61,0:18:52.92,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:18:53.71,0:18:54.89,normal_Wed,,0,0,0,,What do you think of this theory?
+Dialogue: 0,0:18:56.03,0:18:58.88,normal_Wed,,0,0,0,,Interesting
+Dialogue: 0,0:18:59.31,0:19:02.08,normal_Wed,,0,0,0,,Everyone reacts differently
+Dialogue: 0,0:19:03.22,0:19:06.26,normal_Wed,,0,0,0,,What would happen if Superman appeared?
+Dialogue: 0,0:19:06.26,0:19:07.49,normal_Wed,,0,0,0,,Wearing a Superman suit?
+Dialogue: 0,0:19:08.28,0:19:10.27,normal_Wed,,0,0,0,,Completely dressed as Superman? \N -Yes, yes, yes
+Dialogue: 0,0:19:10.27,0:19:12.16,normal_Wed,,0,0,0,,Asking "Is everything okay?"\N  -S written on the chest
+Dialogue: 0,0:19:12.33,0:19:13.90,normal_Wed,,0,0,0,,You'll laugh, right?
+Dialogue: 0,0:19:15.40,0:19:17.07,normal_Wed,,0,0,0,,The atmosphere will be eased, right?
+Dialogue: 0,0:19:17.07,0:19:21.14,normal_Wed,,0,0,0,,How scary, Superman suddenly comes in from the balcony
+Dialogue: 0,0:19:21.14,0:19:23.61,normal_Wed,,0,0,0,,The first thought would be "He's wearing a Superman suit!"
+Dialogue: 0,0:19:23.61,0:19:26.32,normal_Wed,,0,0,0,,The first reaction would be "Superman's here"
+Dialogue: 0,0:19:28.43,0:19:31.89,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 0,0:19:37.81,0:19:42.22,normal_Wed,,0,0,0,,It's Onigoe Tomahawk
+Dialogue: 0,0:19:43.23,0:19:45.00,normal_Wed,,0,0,0,,Isn't this the newlywed Onigoe?
+Dialogue: 0,0:19:46.67,0:19:48.71,normal_Wed,,0,0,0,,You don't have to do that \N -Both married now
+Dialogue: 0,0:19:49.42,0:19:50.87,normal_Wed,,0,0,0,,We got licensed on the same day
+Dialogue: 0,0:19:50.87,0:19:52.97,normal_Wed,,0,0,0,,Hmm? The same time?
+Dialogue: 0,0:19:52.97,0:19:55.18,normal_Wed,,0,0,0,,The same day and same hairstyle
+Dialogue: 0,0:19:55.18,0:19:56.80,normal_Wed,,0,0,0,,Hair style is different\N  -It's the same as before
+Dialogue: 0,0:19:55.18,0:19:56.80,note_Wed - Mid,,0,0,0,,{\blur4}※She shaved her head in 2013
+Dialogue: 0,0:19:56.80,0:19:58.98,normal_Wed,,0,0,0,,She didn't even shave it that short then
+Dialogue: 0,0:19:59.48,0:20:00.65,normal_Wed,,0,0,0,,Wasn't that bald then
+Dialogue: 0,0:20:02.15,0:20:04.22,normal_Wed,,0,0,0,,Anyway
+Dialogue: 0,0:20:04.22,0:20:05.85,normal_Wed,,0,0,0,,So without further delay this time we have brought
+Dialogue: 0,0:20:05.85,0:20:09.49,normal_Wed,,0,0,0,,The program's favorite "King of Appetite"-related project
+Dialogue: 0,0:20:09.49,0:20:12.53,normal_Wed,,0,0,0,,Programmer's favorite?\N  -The show's favorite
+Dialogue: 0,0:20:12.53,0:20:14.63,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:20:15.83,0:20:18.02,normal_Wed,,0,0,0,,Blitz! Neighborhood Refrigerator
+Dialogue: 0,0:20:21.44,0:20:22.61,normal_Wed,,0,0,0,,What do you mean? \N -The content of this project is
+Dialogue: 0,0:20:22.61,0:20:25.44,normal_Wed,,0,0,0,,Its the same as the original "Blitz! Dinner in the Neighborhood"
+Dialogue: 0,0:20:25.44,0:20:28.44,normal_Wed,,0,0,0,,With no appointment, we suddenly raid ordinary homes
+Dialogue: 0,0:20:28.44,0:20:30.65,normal_Wed,,0,0,0,,But it's not to eat people's dinners
+Dialogue: 0,0:20:30.65,0:20:32.75,normal_Wed,,0,0,0,,Instead, they have to eat everything in people's refrigerators
+Dialogue: 0,0:20:32.75,0:20:35.38,normal_Wed,,0,0,0,,Eh? \N -Finish everything
+Dialogue: 0,0:20:35.38,0:20:37.38,normal_Wed,,0,0,0,,What a messy project!
+Dialogue: 0,0:20:37.38,0:20:40.52,normal_Wed,,0,0,0,,I guess it's okay. \N -Somewhat harsh, right?
+Dialogue: 0,0:20:40.52,0:20:43.89,normal_Wed,,0,0,0,,What's in everyone's fridge?
+Dialogue: 0,0:20:43.89,0:20:46.83,normal_Wed,,0,0,0,,I wonder what's in Downtown's refrigerator
+Dialogue: 0,0:20:46.83,0:20:48.83,normal_Wed,,0,0,0,,I want to know  \N-Why?
+Dialogue: 0,0:20:48.83,0:20:51.07,normal_Wed,,0,0,0,,Just ordinary
+Dialogue: 0,0:20:51.13,0:20:55.07,normal_Wed,,0,0,0,,Probably a lot of takoyaki or something in the refrigerator
+Dialogue: 0,0:20:55.71,0:20:57.72,normal_Wed,,0,0,0,,Osaka people eat takoyaki!
+Dialogue: 0,0:20:57.72,0:21:00.58,normal_Wed,,0,0,0,,They'll never eat it frozen!
+Dialogue: 0,0:21:00.57,0:21:02.36,normal_Wed,,0,0,0,,Absolutely not?\N  -Absolutely not
+Dialogue: 0,0:21:03.24,0:21:05.24,normal_Wed,,0,0,0,,Frozen is also very good  \N -No, no, no
+Dialogue: 0,0:21:05.24,0:21:07.31,normal_Wed,,0,0,0,,It has to be done in the machine
+Dialogue: 0,0:21:07.31,0:21:10.26,normal_Wed,,0,0,0,,I feel like you have all kinds of takoyaki in your house. \N -Don't be stupid!
+Dialogue: 0,0:21:11.01,0:21:13.73,normal_Wed,,0,0,0,,You're underestimating Kansai people, aren't you?
+Dialogue: 0,0:21:16.14,0:21:19.57,normal_Wed,,0,0,0,,Blitz! Neighborhood Refrigerator
+Dialogue: 0,0:21:23.87,0:21:25.87,normal_Wed,,0,0,0,,Refrigerator?\N  -Yes
+Dialogue: 0,0:21:26.00,0:21:27.37,normal_Wed,,0,0,0,,Not "dinner"?\N  -Indeed
+Dialogue: 0,0:21:28.15,0:21:31.84,normal_Wed,,0,0,0,,This time the challenge was carried out by these three groups
+Dialogue: 0,0:21:31.85,0:21:34.48,normal_Wed,,0,0,0,,They'll raid ordinary homes without prior appointments
+Dialogue: 0,0:21:34.48,0:21:37.47,normal_Wed,,0,0,0,,And then eat all the things in the refrigerator
+Dialogue: 0,0:21:38.42,0:21:40.04,normal_Wed,,0,0,0,,First, multi-family housing
+Dialogue: 0,0:21:40.04,0:21:41.72,normal_Wed,,0,0,0,,Then a single-family home
+Dialogue: 0,0:21:42.10,0:21:45.43,normal_Wed,,0,0,0,,Finally, you'll ask passersby
+Dialogue: 0,0:21:45.43,0:21:46.22,normal_Wed,,0,0,0,,Wait a minute... in that order?
+Dialogue: 0,0:21:46.35,0:21:48.35,normal_Wed,,0,0,0,,3 families?\N  -Going to 3 families?
+Dialogue: 0,0:21:48.35,0:21:49.89,normal_Wed,,0,0,0,,3 refrigerators?
+Dialogue: 0,0:21:49.89,0:21:51.72,normal_Wed,,0,0,0,,Eaten in one day?
+Dialogue: 0,0:21:51.72,0:21:54.50,normal_Wed,,0,0,0,,Eat through 3 refrigerators in one day
+Dialogue: 0,0:21:54.50,0:21:58.07,normal_Wed,,0,0,0,,The first team to finish eating wins
+Dialogue: 0,0:21:58.23,0:21:59.50,normal_Wed,,0,0,0,,What is this? This is...
+Dialogue: 0,0:21:59.50,0:22:01.73,normal_Wed,,0,0,0,,We are the team that is good at cooking
+Dialogue: 0,0:22:01.90,0:22:07.40,normal_Wed,,0,0,0,,Is it an advantage to like cooking?
+Dialogue: 0,0:22:07.47,0:22:09.41,normal_Wed,,0,0,0,,I'm actually not that much of a big eater
+Dialogue: 0,0:22:09.99,0:22:11.08,normal_Wed,,0,0,0,,What should we do now?
+Dialogue: 0,0:22:11.08,0:22:12.58,normal_Wed,,0,0,0,,We're at a disadvantage already \N -That's true
+Dialogue: 0,0:22:13.09,0:22:14.21,wipe_Wed,,0,0,0,,Can it all be finished?
+Dialogue: 0,0:22:13.40,0:22:15.47,normal_Wed,,0,0,0,,First is going to multi-family housing
+Dialogue: 0,0:22:15.47,0:22:20.72,normal_Wed,,0,0,0,,Each team will visit a street with many residents
+Dialogue: 0,0:22:22.31,0:22:25.49,normal_Wed,,0,0,0,,The first place the big appetite comedians came to was
+Dialogue: 0,0:22:25.49,0:22:28.39,normal_Wed,,0,0,0,,A street with many college students: Takadanobaba
+Dialogue: 0,0:22:29.09,0:22:31.10,normal_Wed,,0,0,0,,There is a place called "Maa-chan" there...
+Dialogue: 0,0:22:31.26,0:22:32.86,normal_Wed,,0,0,0,,Hey, where's "Maa-chan"?
+Dialogue: 0,0:22:32.86,0:22:34.60,normal_Wed,,0,0,0,,Canteen "Maa-chan"\N  -It's really "Maa-chan"
+Dialogue: 0,0:22:34.90,0:22:37.77,normal_Wed,,0,0,0,,Maa-chan, sorry
+Dialogue: 0,0:22:39.54,0:22:41.97,normal_Wed,,0,0,0,,There are apartments
+Dialogue: 0,0:22:41.97,0:22:42.69,normal_Wed,,0,0,0,,Like a house built with Lego
+Dialogue: 0,0:22:42.69,0:22:44.78,normal_Wed,,0,0,0,,An apartment with a rich color scheme
+Dialogue: 0,0:22:44.78,0:22:45.78,normal_Wed,,0,0,0,,Go ask around
+Dialogue: 0,0:22:46.40,0:22:49.14,normal_Wed,,0,0,0,,It is not too late to make a surprise attack
+Dialogue: 0,0:22:50.31,0:22:52.32,normal_Wed,,0,0,0,,Hello, we've never met before
+Dialogue: 0,0:22:52.32,0:22:58.06,normal_Wed,,0,0,0,,Sorry, we're a funny group of comedians called Onigoe Tomahawk
+Dialogue: 0,0:22:58.06,0:23:00.82,normal_Wed,,0,0,0,,Can we talk to you now... \N -Is that okay?
+Dialogue: 0,0:23:00.82,0:23:01.43,normal_Wed,,0,0,0,,Sorry its not convenient
+Dialogue: 0,0:23:01.43,0:23:02.89,normal_Wed,,0,0,0,,No good?
+Dialogue: 0,0:23:02.89,0:23:05.30,normal_Wed,,0,0,0,,Sorry to bother you then
+Dialogue: 0,0:23:06.04,0:23:09.48,normal_Wed,,0,0,0,,So, they fail at the first hurdle
+Dialogue: 0,0:23:11.04,0:23:16.14,normal_Wed,,0,0,0,,On the other hand, the team of the professional eaters are looking for people in Shimokitazawa
+Dialogue: 0,0:23:17.19,0:23:18.91,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:23:18.93,0:23:20.64,normal_Wed,,0,0,0,,I am Angela Sato
+Dialogue: 0,0:23:20.64,0:23:23.15,normal_Wed,,0,0,0,,Sorry to interrupt, I'm Giant Shirata
+Dialogue: 0,0:23:24.42,0:23:26.88,normal_Wed,,0,0,0,,The most scary...
+Dialogue: 0,0:23:27.15,0:23:30.59,normal_Wed,,0,0,0,,Sorry, we are looking to shoot at someone's home
+Dialogue: 0,0:23:30.59,0:23:34.17,normal_Wed,,0,0,0,,And eat all the things in the refrigerator of someone's home
+Dialogue: 0,0:23:34.17,0:23:35.99,normal_Wed,,0,0,0,,I'm going to work now
+Dialogue: 0,0:23:35.99,0:23:38.26,normal_Wed,,0,0,0,,Ah really
+Dialogue: 0,0:23:38.76,0:23:41.06,normal_Wed,,0,0,0,,Simply put, those of us who
+Dialogue: 0,0:23:41.06,0:23:43.04,normal_Wed,,0,0,0,,Suddenly ring the doorbell to go to someone else's house
+Dialogue: 0,0:23:43.04,0:23:45.17,normal_Wed,,0,0,0,,Also with a large rice spoon, is very scary, right?
+Dialogue: 0,0:23:47.72,0:23:49.26,normal_Wed,,0,0,0,,Standing in the right place.  \N-Yes?
+Dialogue: 0,0:23:50.87,0:23:53.14,normal_Wed,,0,0,0,,Not at home?
+Dialogue: 0,0:23:53.64,0:23:56.28,normal_Wed,,0,0,0,,Because it's a workday
+Dialogue: 0,0:23:57.16,0:23:58.92,normal_Wed,,0,0,0,,There is no one in the house
+Dialogue: 0,0:23:58.92,0:24:02.73,normal_Wed,,0,0,0,,Most of the teams can't even get into people's homes
+Dialogue: 0,0:24:03.52,0:24:06.39,normal_Wed,,0,0,0,,Sorry for the surprise visit
+Dialogue: 0,0:24:06.76,0:24:10.63,normal_Wed,,0,0,0,,We're shooting to eat the contents of someone's fridge
+Dialogue: 0,0:24:10.63,0:24:13.41,normal_Wed,,0,0,0,,It's okay... but there's just nothing in the fridge
+Dialogue: 0,0:24:13.41,0:24:14.57,normal_Wed,,0,0,0,,Oh okay
+Dialogue: 0,0:24:14.57,0:24:17.07,normal_Wed,,0,0,0,,No problem at all.  \N-It's totally fine
+Dialogue: 0,0:24:17.48,0:24:20.37,normal_Wed,,0,0,0,,There's nothing to eat in the fridge. \N -That's perfectly fine. Is it OK to come in?
+Dialogue: 0,0:24:20.54,0:24:24.84,normal_Wed,,0,0,0,,OK.  \N-That's very helpful. Thank you
+Dialogue: 0,0:24:22.82,0:24:24.20,wipe_Wed,,0,0,0,,Lucky
+Dialogue: 0,0:24:24.84,0:24:25.74,normal_Wed,,0,0,0,,So happy!
+Dialogue: 0,0:24:25.78,0:24:29.46,normal_Wed,,0,0,0,,The first step for the big professional eater's team
+Dialogue: 0,0:24:29.46,0:24:32.02,normal_Wed,,0,0,0,,Successfully obtained permission
+Dialogue: 0,0:24:30.17,0:24:32.90,wipe_Wed,,0,0,0,,Asking is difficult
+Dialogue: 0,0:24:33.15,0:24:35.09,normal_Wed,,0,0,0,,Wow, this is great!
+Dialogue: 0,0:24:35.09,0:24:37.29,normal_Wed,,0,0,0,,A very fashionable place
+Dialogue: 0,0:24:37.29,0:24:38.49,normal_Wed,,0,0,0,,Are you a college student?
+Dialogue: 0,0:24:38.49,0:24:40.49,normal_Wed,,0,0,0,,Yes I am
+Dialogue: 0,0:24:40.49,0:24:41.49,normal_Wed,,0,0,0,,By the way, may I ask what your name is?
+Dialogue: 0,0:24:41.49,0:24:43.09,normal_Wed,,0,0,0,,Tomii
+Dialogue: 0,0:24:43.09,0:24:45.33,normal_Wed,,0,0,0,,By the way, which university are you from?
+Dialogue: 0,0:24:45.33,0:24:46.10,normal_Wed,,0,0,0,,Tokyo University
+Dialogue: 0,0:24:46.10,0:24:47.33,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:24:47.33,0:24:48.90,normal_Wed,,0,0,0,,It's not that great. \N -So impressive
+Dialogue: 0,0:24:48.90,0:24:50.33,normal_Wed,,0,0,0,,I'm nothing impressive
+Dialogue: 0,0:24:51.21,0:24:55.26,normal_Wed,,0,0,0,,What is in the refrigerator of a Tokyo University student?
+Dialogue: 0,0:24:55.26,0:24:56.45,wipe_Wed,,0,0,0,,It must be small
+Dialogue: 0,0:24:56.45,0:24:57.77,normal_Wed,,0,0,0,,What's in there?
+Dialogue: 0,0:25:00.02,0:25:01.85,wipe_Wed,,0,0,0,,That's about it, right?
+Dialogue: 0,0:25:03.65,0:25:05.99,normal_Wed,,0,0,0,,This is a great fridge
+Dialogue: 0,0:25:06.12,0:25:08.29,normal_Wed,,0,0,0,,Let's look below too
+Dialogue: 0,0:25:08.29,0:25:11.05,normal_Wed,,0,0,0,,There should be a lot of frozen stuff, right?
+Dialogue: 0,0:25:11.96,0:25:14.49,normal_Wed,,0,0,0,,Quite a lot of things, what is that big one?
+Dialogue: 0,0:25:14.49,0:25:18.79,normal_Wed,,0,0,0,,This is pork
+Dialogue: 0,0:25:18.79,0:25:20.66,normal_Wed,,0,0,0,,This is chicken, right? \N -Yes
+Dialogue: 0,0:25:20.66,0:25:21.84,normal_Wed,,0,0,0,,Pork and chicken
+Dialogue: 0,0:25:22.32,0:25:24.52,normal_Wed,,0,0,0,,Because it is a college student living alone
+Dialogue: 0,0:25:24.52,0:25:27.08,normal_Wed,,0,0,0,,Not many ingredients either
+Dialogue: 0,0:25:21.83,0:25:38.35,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\pos(273,624)}m 0 0 l 210 0 210 380 0 380
+Dialogue: 0,0:25:21.83,0:25:28.34,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFE97B&\pos(274.5,1034)}m 0 0 l 200 0 200 280 0 280
+Dialogue: 0,0:25:21.83,0:25:38.35,special_Wed_1_2,,0,0,0,,{\pos(274.5,624)}Eggs×3\N bread\N cheese\N sweet cooking seaweed\N potatoes×2\N carrots\N clear soup\N ketchup\N takoyaki sauce\N drinking water
+Dialogue: 0,0:25:21.83,0:25:28.34,special_Wed_1_2,,0,0,0,,{\pos(276,1048)}Eel\N corn\N frozen rice×2\N pork\N chicken\N radish stew\N ice cubes\N ice cream
+Dialogue: 0,0:25:23.60,0:25:26.91,wipe_Wed,,0,0,0,,Gotta eat all of that?\N  -All of it
+Dialogue: 0,0:25:28.87,0:25:31.71,normal_Wed,,0,0,0,,In addition, aside from alcohol
+Dialogue: 0,0:25:31.71,0:25:33.95,normal_Wed,,0,0,0,,Liquid condiments such as soy sauce
+Dialogue: 0,0:25:34.45,0:25:38.33,normal_Wed,,0,0,0,,Are also counted
+Dialogue: 0,0:25:39.25,0:25:40.95,normal_Wed,,0,0,0,,It'll be a breeze, right?
+Dialogue: 0,0:25:40.95,0:25:41.69,normal_Wed,,0,0,0,,Come on
+Dialogue: 0,0:25:42.24,0:25:46.17,normal_Wed,,0,0,0,,Shirata, who is also the owner of a kebab store
+Dialogue: 0,0:25:46.17,0:25:49.43,normal_Wed,,0,0,0,,Starts cooking
+Dialogue: 0,0:25:50.77,0:25:54.36,normal_Wed,,0,0,0,,On the other hand, in Nakano's comedian team
+Dialogue: 0,0:25:54.50,0:25:57.20,normal_Wed,,0,0,0,,We're doing a location shoot about people's refrigerators
+Dialogue: 0,0:25:57.33,0:26:01.57,normal_Wed,,0,0,0,,I'm actually in the comedy world\N  -Eh?
+Dialogue: 0,0:26:01.57,0:26:03.54,normal_Wed,,0,0,0,,Wait, what do you mean by that?
+Dialogue: 0,0:26:03.54,0:26:04.44,normal_Wed,,0,0,0,,I am a professional
+Dialogue: 0,0:26:04.44,0:26:05.88,normal_Wed,,0,0,0,,Ah, rakugo
+Dialogue: 0,0:26:06.01,0:26:07.88,normal_Wed,,0,0,0,,Can you wait for 30 minutes?
+Dialogue: 0,0:26:07.88,0:26:09.85,normal_Wed,,0,0,0,,No problem at all. \N -Is it okay?
+Dialogue: 0,0:26:09.85,0:26:11.55,normal_Wed,,0,0,0,,Thank you so much!
+Dialogue: 0,0:26:11.55,0:26:15.44,normal_Wed,,0,0,0,,Coincidentally, they found the home of a peer
+Dialogue: 0,0:26:15.44,0:26:16.72,normal_Wed,,0,0,0,,A successful negotiation
+Dialogue: 0,0:26:17.91,0:26:21.62,normal_Wed,,0,0,0,,And later they meet the family
+Dialogue: 0,0:26:21.62,0:26:23.87,normal_Wed,,0,0,0,,Musashi
+Dialogue: 0,0:26:25.36,0:26:28.04,normal_Wed,,0,0,0,,Living together with his new wife
+Dialogue: 0,0:26:28.04,0:26:29.89,normal_Wed,,0,0,0,,What will their refrigerator be like?
+Dialogue: 0,0:26:30.37,0:26:31.20,normal_Wed,,0,0,0,,Suddenly appeared
+Dialogue: 0,0:26:31.20,0:26:36.21,normal_Wed,,0,0,0,,Wow, what a big fridge!
+Dialogue: 0,0:26:36.21,0:26:38.78,normal_Wed,,0,0,0,,After all, its for a couple
+Dialogue: 0,0:26:38.94,0:26:40.98,normal_Wed,,0,0,0,,Then we'll just open it without further ado\N  -Please
+Dialogue: 0,0:26:40.98,0:26:42.08,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:26:42.08,0:26:43.64,normal_Wed,,0,0,0,,Refrigerator open!
+Dialogue: 0,0:26:45.08,0:26:46.65,normal_Wed,,0,0,0,,That's a lot of stuff
+Dialogue: 0,0:26:46.65,0:26:48.35,normal_Wed,,0,0,0,,That's a lot
+Dialogue: 0,0:26:50.19,0:26:52.92,normal_Wed,,0,0,0,,That's a lot
+Dialogue: 0,0:26:52.27,0:26:53.99,wipe_Wed,,0,0,0,,As expected
+Dialogue: 0,0:26:52.92,0:26:54.96,normal_Wed,,0,0,0,,Check this out too
+Dialogue: 0,0:26:57.06,0:26:57.96,normal_Wed,,0,0,0,,Loaded with stuff
+Dialogue: 0,0:26:58.55,0:26:59.10,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:27:00.23,0:27:02.20,normal_Wed,,0,0,0,,The freezer
+Dialogue: 0,0:27:02.20,0:27:06.77,normal_Wed,,0,0,0,,Wait a minute. \N -Isn't it too much?
+Dialogue: 0,0:27:06.77,0:27:09.37,normal_Wed,,0,0,0,,There's even eel
+Dialogue: 0,0:27:09.37,0:27:10.64,normal_Wed,,0,0,0,,Having us eat it is just a waste
+Dialogue: 0,0:27:10.77,0:27:14.08,normal_Wed,,0,0,0,,Three eels in total
+Dialogue: 0,0:27:14.08,0:27:15.81,normal_Wed,,0,0,0,,There are three eels
+Dialogue: 0,0:27:15.81,0:27:17.31,normal_Wed,,0,0,0,,And more!
+Dialogue: 0,0:27:17.31,0:27:19.48,normal_Wed,,0,0,0,,There are six eels. \N -Do you like eels?
+Dialogue: 0,0:27:19.48,0:27:23.99,normal_Wed,,0,0,0,,It was given to us by my disciple's parents
+Dialogue: 0,0:27:23.99,0:27:24.72,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:27:24.72,0:27:26.32,normal_Wed,,0,0,0,,It's from your disciple's parents
+Dialogue: 0,0:27:26.32,0:27:28.71,normal_Wed,,0,0,0,,The situation is this
+Dialogue: 0,0:27:28.71,0:27:29.82,normal_Wed,,0,0,0,,Although it is a refrigerator for two people
+Dialogue: 0,0:27:29.82,0:27:32.84,normal_Wed,,0,0,0,,The ingredients inside are of a very high quality
+Dialogue: 0,0:27:26.32,0:27:33.66,normal_Wed,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\pos(147,832)}m 0 0 l 170 0 170 530 0 530
+Dialogue: 0,0:27:26.32,0:27:33.66,normal_Wed,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\pos(352.5,828)}m 0 0 l 170 0 170 530 0 530
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFE97B&\pos(64.5,1050)}m 0 0 l 170 0 170 140 0 140
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFE97B&\pos(265.5,1052)}m 0 0 l 170 0 170 140 0 140
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\fs29\pos(60,848)}A box of eggs \N tofu×2\N meatballs×2\N sausages×2\N burgers with steak sauce\N boneless ham×2\N mackerel stewed in miso\N salted cooking seafood\N fukushin pickles\N pickled cucumbers×4\N kimchi×2\N tea pickles\N natto×2\N canned mixed fruits\N onions\N enoki mushrooms\N shredded cabbage\N eggplant×4\N bean sprouts×2
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\fs27\pos(268,798)}Garlic\N onion\N pear×2\N sheep soup×6\N konjac jelly\N cheese\N butter×2\N mayonnaise\N ginger\N mustard\N mustard×2\N spicy oil\N drinking water\N wheat tea\N soy milk\N yogurt×8\N apple juice×8\N pineapple juice\N lemon juice×2
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\fs24\pos(65.5,1056)}Eel×6\N salmon\N beef×6\N pork\N ham\N soy sauce pickled ginger
+Dialogue: 0,0:27:26.32,0:27:33.66,special_Wed_1_2,,0,0,0,,{\fs24\pos(268,1022)}Tuna sashimi \N frozen rice × 3 \N ice cubes \N ramen noodles \N ice cream × 5
+Dialogue: 0,0:27:31.47,0:27:33.66,wipe_Wed,,0,0,0,,That's a lot. \N -A lot of meat!
+Dialogue: 0,0:27:34.46,0:27:37.70,normal_Wed,,0,0,0,,How much mayonnaise is left?
+Dialogue: 0,0:27:37.70,0:27:39.04,normal_Wed,,0,0,0,,Ah this is full
+Dialogue: 0,0:27:42.41,0:27:43.64,normal_Wed,,0,0,0,,We've gotta eat it all...
+Dialogue: 0,0:27:43.63,0:27:44.54,normal_Wed,,0,0,0,,No way, right?
+Dialogue: 0,0:27:44.68,0:27:47.91,normal_Wed,,0,0,0,,Let's make a kimchi mayonnaise stir-fry with pork since we have kimchi
+Dialogue: 0,0:27:47.91,0:27:50.38,normal_Wed,,0,0,0,,Add some bean sprouts to soften the taste
+Dialogue: 0,0:27:50.38,0:27:53.95,normal_Wed,,0,0,0,,The three people who are confident in cooking
+Dialogue: 0,0:27:54.67,0:27:58.73,normal_Wed,,0,0,0,,Prepare to combine unpalatable food into a delicious meal all together
+Dialogue: 0,0:27:59.72,0:28:02.56,normal_Wed,,0,0,0,,Okay, sorry
+Dialogue: 0,0:28:01.44,0:28:03.22,wipe_Wed,,0,0,0,,The 32nd house
+Dialogue: 0,0:28:02.86,0:28:04.76,normal_Wed,,0,0,0,,Got scolded...
+Dialogue: 0,0:28:04.76,0:28:05.90,normal_Wed,,0,0,0,,What did they say?
+Dialogue: 0,0:28:05.90,0:28:08.07,normal_Wed,,0,0,0,,They said "What are you doing?" And then I explained the content of the project
+Dialogue: 0,0:28:08.07,0:28:08.90,normal_Wed,,0,0,0,,They replied "Get out!"
+Dialogue: 0,0:28:09.30,0:28:11.50,normal_Wed,,0,0,0,,So scary \N -That was scary
+Dialogue: 0,0:28:11.50,0:28:13.44,normal_Wed,,0,0,0,,That...
+Dialogue: 0,0:28:13.44,0:28:14.17,normal_Wed,,0,0,0,,"What?"
+Dialogue: 0,0:28:14.17,0:28:16.47,normal_Wed,,0,0,0,,The speed from conversation to quarrel was so quick
+Dialogue: 0,0:28:16.47,0:28:17.91,normal_Wed,,0,0,0,,"Get out!"
+Dialogue: 0,0:28:18.68,0:28:21.23,normal_Wed,,0,0,0,,12:00 noon
+Dialogue: 0,0:28:22.36,0:28:24.41,normal_Wed,,0,0,0,,Waited for a long time
+Dialogue: 0,0:28:24.91,0:28:26.25,normal_Wed,,0,0,0,,Shirata's first course is
+Dialogue: 0,0:28:27.04,0:28:29.76,normal_Wed,,0,0,0,,Vegetables and cheese with chopped meat
+Dialogue: 0,0:28:29.76,0:28:33.58,normal_Wed,,0,0,0,,Stir-fried with tomato sauce and takoyaki sauce
+Dialogue: 0,0:28:33.58,0:28:34.93,wipe_Wed,,0,0,0,,Doesn't look too good
+Dialogue: 0,0:28:34.35,0:28:35.69,normal_Wed,,0,0,0,,Here I go
+Dialogue: 0,0:28:40.16,0:28:41.76,normal_Wed,,0,0,0,,Shirata, this is delicious
+Dialogue: 0,0:28:41.76,0:28:44.60,normal_Wed,,0,0,0,,Is it good?\N  -The takoyaki sauce goes well with this dish
+Dialogue: 0,0:28:45.04,0:28:47.44,normal_Wed,,0,0,0,,Round carrots, not cut into sharp pieces
+Dialogue: 0,0:28:47.94,0:28:51.12,normal_Wed,,0,0,0,,Takoyaki sauce does not have a strong presence, right? \N -Can't really tell its there
+Dialogue: 0,0:28:51.12,0:28:57.12,normal_Wed,,0,0,0,,On the other side, Shirosaki is in charge of the cooking team
+Dialogue: 0,0:28:58.55,0:29:00.75,normal_Wed,,0,0,0,,Here we go. This is a burger with meatballs
+Dialogue: 0,0:29:01.05,0:29:02.49,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:29:02.49,0:29:03.19,normal_Wed,,0,0,0,,Meat plus meat
+Dialogue: 0,0:29:03.19,0:29:04.36,normal_Wed,,0,0,0,,A large quantity
+Dialogue: 0,0:29:04.79,0:29:05.62,normal_Wed,,0,0,0,,This is roasted aubergine
+Dialogue: 0,0:29:05.62,0:29:07.79,normal_Wed,,0,0,0,,Wow, it's great to have roasted aubergine
+Dialogue: 0,0:29:07.79,0:29:09.10,normal_Wed,,0,0,0,,With grapefruit vinegar
+Dialogue: 0,0:29:09.10,0:29:12.21,wipe_Wed,,0,0,0,,They'll be out in the first place, surely
+Dialogue: 0,0:29:12.66,0:29:14.40,normal_Wed,,0,0,0,,This is braised eel
+Dialogue: 0,0:29:14.40,0:29:15.50,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:29:15.50,0:29:16.73,normal_Wed,,0,0,0,,How many bags of eel is this?
+Dialogue: 0,0:29:16.73,0:29:19.07,normal_Wed,,0,0,0,,Used three eels. Three left
+Dialogue: 0,0:29:19.08,0:29:21.71,normal_Wed,,0,0,0,,Three more? Eels?
+Dialogue: 0,0:29:22.47,0:29:24.81,normal_Wed,,0,0,0,,Guimisuke is amazing \N -Too strong
+Dialogue: 0,0:29:22.47,0:29:24.81,note_Wed - Mid,,0,0,0,,{\blur4}※The presenter of the original show
+Dialogue: 0,0:29:24.81,0:29:27.21,normal_Wed,,0,0,0,,Doing this kind of shoot all the time
+Dialogue: 0,0:29:23.88,0:29:27.33,wipe_Wed,,0,0,0,,The 57th family
+Dialogue: 0,0:29:29.31,0:29:30.45,normal_Wed,,0,0,0,,I can't do it anymore, my knees are at their limit...
+Dialogue: 0,0:29:30.45,0:29:31.39,normal_Wed,,0,0,0,,This won't work
+Dialogue: 0,0:29:31.39,0:29:34.39,normal_Wed,,0,0,0,,This is not the climbing exercise that 180kg people can do
+Dialogue: 0,0:29:34.39,0:29:35.70,wipe_Wed,,0,0,0,,What is Sakai doing? I don't understand
+Dialogue: 0,0:29:36.27,0:29:37.45,wipe_Wed,,0,0,0,,Weak knees
+Dialogue: 0,0:29:37.19,0:29:39.39,normal_Wed,,0,0,0,,Wow!
+Dialogue: 0,0:29:39.69,0:29:41.09,normal_Wed,,0,0,0,,So fierce
+Dialogue: 0,0:29:41.09,0:29:44.82,normal_Wed,,0,0,0,,With pork, sausage, and tuna.\N  -Used sausage and tuna
+Dialogue: 0,0:29:45.08,0:29:48.82,wipe_Wed,,0,0,0,,Although it looks fine it seems tough to eat so much
+Dialogue: 0,0:29:44.82,0:29:47.35,normal_Wed,,0,0,0,,And two bags of bean sprouts
+Dialogue: 0,0:29:47.35,0:29:49.61,normal_Wed,,0,0,0,,And cabbage, enoki mushrooms
+Dialogue: 0,0:29:49.61,0:29:50.83,normal_Wed,,0,0,0,,And garlic
+Dialogue: 0,0:29:50.83,0:29:52.94,normal_Wed,,0,0,0,,Let's finish this dish with ramen
+Dialogue: 0,0:29:52.94,0:29:54.91,normal_Wed,,0,0,0,,How many bags of ramen?  \N-One bag
+Dialogue: 0,0:29:55.81,0:30:00.01,normal_Wed,,0,0,0,,What is this system?
+Dialogue: 0,0:30:02.39,0:30:03.91,normal_Wed,,0,0,0,,I really want to find a nice family
+Dialogue: 0,0:30:05.68,0:30:08.82,normal_Wed,,0,0,0,,We're doing a project to eat everything in other people's refrigerators\N  -Eat?
+Dialogue: 0,0:30:08.82,0:30:09.39,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:30:09.39,0:30:11.12,normal_Wed,,0,0,0,,If it is convenient
+Dialogue: 0,0:30:11.12,0:30:12.96,normal_Wed,,0,0,0,,Can we come to your home to shoot?
+Dialogue: 0,0:30:12.96,0:30:18.06,normal_Wed,,0,0,0,,Yes, you can. There's not much in the fridge. \N -It's totally fine
+Dialogue: 0,0:30:18.06,0:30:19.23,normal_Wed,,0,0,0,,So you agree?
+Dialogue: 0,0:30:19.23,0:30:21.30,normal_Wed,,0,0,0,,OK, they agreed!
+Dialogue: 0,0:30:21.30,0:30:23.70,normal_Wed,,0,0,0,,Thank you so much!
+Dialogue: 0,0:30:25.50,0:30:27.66,wipe_Wed,,0,0,0,,Must be hungry.\N  -Super hungry
+Dialogue: 0,0:30:24.80,0:30:26.48,normal_Wed,,0,0,0,,It took two hours to start shooting
+Dialogue: 0,0:30:26.48,0:30:29.78,normal_Wed,,0,0,0,,The team of big appetite comedians finally get permission
+Dialogue: 0,0:30:31.88,0:30:33.77,normal_Wed,,0,0,0,,And were hosted by
+Dialogue: 0,0:30:33.77,0:30:34.46,wipe_Wed,,0,0,0,,Living alone?
+Dialogue: 0,0:30:34.46,0:30:38.16,normal_Wed,,0,0,0,,Suzuki, a programmer on vacation today
+Dialogue: 0,0:30:39.78,0:30:43.89,normal_Wed,,0,0,0,,Isn't this refrigerator a little big for one person? \N -It's not bad, right?
+Dialogue: 0,0:30:43.99,0:30:45.02,normal_Wed,,0,0,0,,I'm opening it!
+Dialogue: 0,0:30:45.04,0:30:45.36,normal_Wed,,0,0,0,,Please
+Dialogue: 0,0:30:45.36,0:30:47.86,normal_Wed,,0,0,0,,Please, please, please, please
+Dialogue: 0,0:30:47.87,0:30:48.66,normal_Wed,,0,0,0,,Opening!
+Dialogue: 0,0:30:51.53,0:30:53.90,normal_Wed,,0,0,0,,Now we've hit the jackpot. \N -Great
+Dialogue: 0,0:30:53.90,0:30:57.33,normal_Wed,,0,0,0,,Can this green onion be eaten?\N  -The color of this onion...
+Dialogue: 0,0:30:57.33,0:30:58.70,normal_Wed,,0,0,0,,It's folded in half
+Dialogue: 0,0:30:56.60,0:30:58.03,wipe_Wed,,0,0,0,,Onion hell
+Dialogue: 0,0:30:59.07,0:31:00.27,normal_Wed,,0,0,0,,Opening!
+Dialogue: 0,0:31:02.87,0:31:05.68,normal_Wed,,0,0,0,,Do single people eat so much?
+Dialogue: 0,0:31:05.68,0:31:07.04,normal_Wed,,0,0,0,,With mixed seafood
+Dialogue: 0,0:31:07.04,0:31:08.61,normal_Wed,,0,0,0,,And beans
+Dialogue: 0,0:31:08.61,0:31:13.88,normal_Wed,,0,0,0,,Wait a minute. Eh? Eh?
+Dialogue: 0,0:31:14.15,0:31:16.99,normal_Wed,,0,0,0,,A salmon sent by someone else?
+Dialogue: 0,0:31:16.99,0:31:19.12,normal_Wed,,0,0,0,,Wait a minute
+Dialogue: 0,0:31:19.12,0:31:20.22,normal_Wed,,0,0,0,,This is heavy
+Dialogue: 0,0:31:20.22,0:31:22.96,normal_Wed,,0,0,0,,This looks so disgusting ... awful
+Dialogue: 0,0:31:22.96,0:31:25.07,normal_Wed,,0,0,0,,Do you have to eat it all?\N  -Stop it!
+Dialogue: 0,0:31:25.75,0:31:27.20,normal_Wed,,0,0,0,,Don't say disgusting
+Dialogue: 0,0:31:28.07,0:31:30.75,normal_Wed,,0,0,0,,Although not much at first glance
+Dialogue: 0,0:31:30.75,0:31:36.54,normal_Wed,,0,0,0,,But the freezer is full of salmon chunks and chicken
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFE97B&\pos(76.5,478)}m 0 0 l 190 0 190 270 0 270
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFE97B&\pos(310.5,478)}m 0 0 l 190 0 190 270 0 270
+Dialogue: 0,0:31:27.73,0:31:37.07,normal_Wed,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\pos(165,1040)}m 0 0 l 170 0 170 400 0 400
+Dialogue: 0,0:31:27.73,0:31:37.07,normal_Wed,,0,0,0,,{\p1\3c&HFFFFFF&\4c&HFFFFFF&\c&HFFFFFF&\pos(397.5,998)}m 0 0 l 170 0 170 370 0 370
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\pos(78,474)}Chicken breast\N pork\N beef\N minced meat\N mixed seafood\N salmon pieces×11\N frozen broccoli
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\pos(312.5,998)}Sweet noodle sauce\NXO sauce\N kimchi sauce\N garlic paste\N ginger paste\N wasabi×2\N mustard seeds\N miso powder\N drinking water\N apple juice
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\pos(78,1048)}Eggs×3\N tofu×2\N bonito plums\N western-style kimchi\N cabbage\N scallions×2\N margarine\N mayonnaise\N ketchup\N miso\N bean paste
+Dialogue: 0,0:31:27.73,0:31:37.07,special_Wed_1_2,,0,0,0,,{\pos(315,426)}Frozen lentils \N frozen spinach \N spring roll skin \N dumpling filling \N ice cubes \N ice cream in a box
+Dialogue: 0,0:31:37.57,0:31:39.01,normal_Wed,,0,0,0,,Let's get started quickly
+Dialogue: 0,0:31:39.01,0:31:40.81,normal_Wed,,0,0,0,,Get cooking
+Dialogue: 0,0:31:40.81,0:31:43.31,normal_Wed,,0,0,0,,Every second counts. Can you do it?
+Dialogue: 0,0:31:43.31,0:31:44.32,normal_Wed,,0,0,0,,I'll do the cooking
+Dialogue: 0,0:31:44.32,0:31:47.22,normal_Wed,,0,0,0,,Just Himan cooks
+Dialogue: 0,0:31:47.22,0:31:50.66,normal_Wed,,0,0,0,,And mostly with frozen ingredients
+Dialogue: 0,0:31:51.42,0:31:52.10,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:31:53.09,0:31:56.46,normal_Wed,,0,0,0,,It's kind of...
+Dialogue: 0,0:31:56.45,0:31:58.50,normal_Wed,,0,0,0,,It's a bit much
+Dialogue: 0,0:31:55.79,0:31:57.72,wipe_Wed,,0,0,0,,What is this, dried sour plums?
+Dialogue: 0,0:31:59.28,0:32:04.56,normal_Wed,,0,0,0,,Onigoe eat the ingredients that do not need to be made into dishes directly
+Dialogue: 0,0:32:06.34,0:32:10.72,normal_Wed,,0,0,0,,Just when the big appetite comedian team had only started eating
+Dialogue: 0,0:32:11.86,0:32:16.48,normal_Wed,,0,0,0,,The professional eaters move toward finishing the first stage
+Dialogue: 0,0:32:16.48,0:32:17.99,wipe_Wed,,0,0,0,,Shirata's not eating anything
+Dialogue: 0,0:32:22.41,0:32:24.62,normal_Wed,,0,0,0,,The first fridge is done
+Dialogue: 0,0:32:24.62,0:32:26.52,normal_Wed,,0,0,0,,Yes!
+Dialogue: 0,0:32:27.78,0:32:30.10,normal_Wed,,0,0,0,,Successfully completed the first stop of multi-family housing
+Dialogue: 0,0:32:31.63,0:32:34.53,normal_Wed,,0,0,0,,Eating isn't really the issue
+Dialogue: 0,0:32:34.52,0:32:38.50,normal_Wed,,0,0,0,,It's hard to find people who will let us into our homes
+Dialogue: 0,0:32:38.50,0:32:42.24,normal_Wed,,0,0,0,,Tomii is a nice kid
+Dialogue: 0,0:32:42.24,0:32:44.31,normal_Wed,,0,0,0,,Why're you smoking an e-cig?
+Dialogue: 0,0:32:44.61,0:32:46.78,normal_Wed,,0,0,0,,You're still being filmed!
+Dialogue: 0,0:32:47.04,0:32:50.45,normal_Wed,,0,0,0,,He had such vitality
+Dialogue: 0,0:32:48.39,0:32:50.45,wipe_Wed,,0,0,0,,He's smoking despite not having eaten anything
+Dialogue: 0,0:32:50.45,0:32:57.79,normal_Wed,,0,0,0,,On the other side is the team of cooking comedians who drew the most abundant ingredients
+Dialogue: 0,0:32:58.27,0:33:00.69,normal_Wed,,0,0,0,,We can't finish without drinking all the yogurt, right?
+Dialogue: 0,0:33:01.10,0:33:02.69,normal_Wed,,0,0,0,,Eating and eating and eating
+Dialogue: 0,0:33:02.69,0:33:05.36,normal_Wed,,0,0,0,,Still no end in sight
+Dialogue: 0,0:33:06.53,0:33:07.36,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:33:07.60,0:33:10.77,normal_Wed,,0,0,0,,This is eel fried rice.\N  -Thanks
+Dialogue: 0,0:33:14.00,0:33:15.37,normal_Wed,,0,0,0,,Delicious
+Dialogue: 0,0:33:13.38,0:33:14.84,wipe_Wed,,0,0,0,,It looks pretty tasty but...
+Dialogue: 0,0:33:16.71,0:33:19.14,normal_Wed,,0,0,0,,It tastes great! \N -I can keep stuffing myself
+Dialogue: 0,0:33:19.58,0:33:21.39,normal_Wed,,0,0,0,,No problem? That's good
+Dialogue: 0,0:33:21.39,0:33:24.88,normal_Wed,,0,0,0,,Although all are full, thanks to the high level of cooking
+Dialogue: 0,0:33:24.88,0:33:27.38,normal_Wed,,0,0,0,,They can still continue to eat
+Dialogue: 0,0:33:29.62,0:33:31.29,normal_Wed,,0,0,0,,Done
+Dialogue: 0,0:33:31.29,0:33:32.82,normal_Wed,,0,0,0,,This is a stir-fry.  \N-Wow, it's done
+Dialogue: 0,0:33:34.96,0:33:36.76,normal_Wed,,0,0,0,,Otsuru stir fry?
+Dialogue: 0,0:33:36.76,0:33:37.69,normal_Wed,,0,0,0,,You can also say Fatty stir-fry
+Dialogue: 0,0:33:41.87,0:33:44.20,normal_Wed,,0,0,0,,Yummy \N -Yummy
+Dialogue: 0,0:33:44.50,0:33:46.34,normal_Wed,,0,0,0,,You come and eat too. \N -I'll eat right away
+Dialogue: 0,0:33:46.34,0:33:48.54,normal_Wed,,0,0,0,,Is this with spinach?\N  -No, it's broccoli
+Dialogue: 0,0:33:48.71,0:33:50.04,normal_Wed,,0,0,0,,Didn't get any broccoli?
+Dialogue: 0,0:33:50.04,0:33:52.58,normal_Wed,,0,0,0,,That's it!
+Dialogue: 0,0:33:52.81,0:33:56.24,normal_Wed,,0,0,0,,The next dish is prepared with spinach and seafood stir-fried with margarine
+Dialogue: 0,0:33:56.48,0:33:58.92,normal_Wed,,0,0,0,,And salmon.\N  -Then make salmon and pork
+Dialogue: 0,0:33:58.92,0:34:01.75,normal_Wed,,0,0,0,,Then cook it with some miso
+Dialogue: 0,0:34:01.75,0:34:04.54,normal_Wed,,0,0,0,,Now at 3pm
+Dialogue: 0,0:34:04.96,0:34:07.51,normal_Wed,,0,0,0,,The progress of each team is shown in the chart
+Dialogue: 0,0:34:09.03,0:34:13.13,normal_Wed,,0,0,0,,Salt is according to personal preference, add it yourself
+Dialogue: 0,0:34:13.13,0:34:13.93,normal_Wed,,0,0,0,,Looks delicious
+Dialogue: 0,0:34:14.20,0:34:17.17,normal_Wed,,0,0,0,,This dish is salmon with seafood
+Dialogue: 0,0:34:17.17,0:34:18.90,normal_Wed,,0,0,0,,Let's eat this much first
+Dialogue: 0,0:34:18.91,0:34:21.24,normal_Wed,,0,0,0,,The next course is directly out of the pot
+Dialogue: 0,0:34:21.44,0:34:23.74,normal_Wed,,0,0,0,,The smell is so strong
+Dialogue: 0,0:34:24.51,0:34:27.08,normal_Wed,,0,0,0,,The taste of margarine is really...
+Dialogue: 0,0:34:27.53,0:34:28.41,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:34:30.48,0:34:33.45,normal_Wed,,0,0,0,,It's been a long time.\N  -Looks good too
+Dialogue: 0,0:34:33.45,0:34:37.25,normal_Wed,,0,0,0,,It's a stew smorgasbord \N  -Looks good
+Dialogue: 0,0:34:37.98,0:34:40.62,normal_Wed,,0,0,0,,They stewed all the remaining ingredients in one pot
+Dialogue: 0,0:34:40.62,0:34:43.35,normal_Wed,,0,0,0,,This chowder one pot stew is their last dish
+Dialogue: 0,0:34:49.17,0:34:50.23,normal_Wed,,0,0,0,,Yummy \N -Delicious
+Dialogue: 0,0:34:50.40,0:34:52.57,normal_Wed,,0,0,0,,Super delicious
+Dialogue: 0,0:34:53.75,0:34:59.84,normal_Wed,,0,0,0,,On this side, they spent 3 hours eating
+Dialogue: 0,0:35:03.18,0:35:05.62,normal_Wed,,0,0,0,,What is this...
+Dialogue: 0,0:35:05.62,0:35:07.75,normal_Wed,,0,0,0,,Can't eat anymore
+Dialogue: 0,0:35:06.93,0:35:08.51,wipe_Wed,,0,0,0,,Probably don't actually eat much in the first place
+Dialogue: 0,0:35:09.02,0:35:12.16,normal_Wed,,0,0,0,,This is what despair looks like, right? \N -It's true
+Dialogue: 0,0:35:12.16,0:35:14.06,normal_Wed,,0,0,0,,Is this what it feels like to be in despair...
+Dialogue: 0,0:35:14.72,0:35:16.56,normal_Wed,,0,0,0,,The chopsticks are now stationary
+Dialogue: 0,0:35:17.30,0:35:18.82,normal_Wed,,0,0,0,,As a halftime break occurs
+Dialogue: 0,0:35:18.82,0:35:20.83,wipe_Wed,,0,0,0,,Yeah, it's still hot
+Dialogue: 0,0:35:21.40,0:35:23.03,normal_Wed,,0,0,0,,This is the last of the dried plums. I'm on it
+Dialogue: 0,0:35:23.03,0:35:24.40,normal_Wed,,0,0,0,,Last one
+Dialogue: 0,0:35:26.30,0:35:27.80,normal_Wed,,0,0,0,,So sour
+Dialogue: 0,0:35:27.80,0:35:30.41,normal_Wed,,0,0,0,,Now all the dried plums are gone
+Dialogue: 0,0:35:31.16,0:35:31.95,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:35:35.65,0:35:37.18,normal_Wed,,0,0,0,,Finished eating \N -Finished
+Dialogue: 0,0:35:37.18,0:35:38.35,normal_Wed,,0,0,0,,Yes!
+Dialogue: 0,0:35:38.35,0:35:39.75,normal_Wed,,0,0,0,,Finished eating
+Dialogue: 0,0:35:40.79,0:35:43.79,normal_Wed,,0,0,0,,The big eater comedian teams completes this stage after 2 hours and 30 minutes
+Dialogue: 0,0:35:43.79,0:35:46.26,normal_Wed,,0,0,0,,The first refrigerator has been fully raided
+Dialogue: 0,0:35:46.96,0:35:52.39,normal_Wed,,0,0,0,,By this time, the professional eaters are seeking a refrigerator of the single-family house
+Dialogue: 0,0:35:49.47,0:35:53.10,wipe_Wed,,0,0,0,,I guess it's hard to find a single-family house
+Dialogue: 0,0:35:53.20,0:35:55.33,normal_Wed,,0,0,0,,Let me change my clothes first
+Dialogue: 0,0:35:55.33,0:35:58.27,normal_Wed,,0,0,0,,So we can shoot at your home, right?\N  -Yes, you can
+Dialogue: 0,0:35:58.27,0:35:59.60,normal_Wed,,0,0,0,,Thank you, that's great
+Dialogue: 0,0:36:00.15,0:36:01.99,normal_Wed,,0,0,0,,Success on the 4th house
+Dialogue: 0,0:36:01.99,0:36:05.99,normal_Wed,,0,0,0,,Uehara, a family of four, agreed
+Dialogue: 0,0:36:07.62,0:36:10.35,normal_Wed,,0,0,0,,Isn't it great?  \N-This is so stylish
+Dialogue: 0,0:36:10.35,0:36:12.05,normal_Wed,,0,0,0,,So fashionable
+Dialogue: 0,0:36:12.05,0:36:14.28,normal_Wed,,0,0,0,,Really great!
+Dialogue: 0,0:36:14.98,0:36:18.61,normal_Wed,,0,0,0,,What is a refrigerator of fashionable people like?
+Dialogue: 0,0:36:19.66,0:36:21.39,normal_Wed,,0,0,0,,Let's take a look together
+Dialogue: 0,0:36:25.12,0:36:26.23,normal_Wed,,0,0,0,,Look!
+Dialogue: 0,0:36:26.23,0:36:28.87,normal_Wed,,0,0,0,,Less food than expected  \N-Isn't it?
+Dialogue: 0,0:36:29.55,0:36:30.26,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:36:30.88,0:36:31.74,wipe_Wed,,0,0,0,,Down below?
+Dialogue: 0,0:36:32.42,0:36:34.48,normal_Wed,,0,0,0,,What happens now?
+Dialogue: 0,0:36:34.48,0:36:37.37,normal_Wed,,0,0,0,,What should we do now that this has happened?
+Dialogue: 0,0:36:37.96,0:36:41.84,normal_Wed,,0,0,0,,Unexpectedly, there's 2kg of rice in the refrigerator
+Dialogue: 0,0:36:42.56,0:36:44.22,normal_Wed,,0,0,0,,2.5kg, right?
+Dialogue: 0,0:36:44.22,0:36:45.31,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:36:48.38,0:36:50.09,normal_Wed,,0,0,0,,It's a two-parter, right?
+Dialogue: 0,0:36:50.09,0:36:53.49,normal_Wed,,0,0,0,,It's really...
+Dialogue: 0,0:36:53.49,0:36:56.99,normal_Wed,,0,0,0,,This is... what?
+Dialogue: 0,0:36:56.99,0:36:59.76,normal_Wed,,0,0,0,,Looks like a whole chicken
+Dialogue: 0,0:36:59.76,0:37:01.46,normal_Wed,,0,0,0,,That's for Christmas
+Dialogue: 0,0:37:01.46,0:37:02.73,normal_Wed,,0,0,0,,Ready this early?
+Dialogue: 0,0:37:03.20,0:37:06.00,normal_Wed,,0,0,0,,It was last Christmas...
+Dialogue: 0,0:37:06.00,0:37:06.91,normal_Wed,,0,0,0,,Roasted chicken
+Dialogue: 0,0:37:06.91,0:37:09.54,normal_Wed,,0,0,0,,But it's still edible \N -Can still eat it?
+Dialogue: 0,0:37:10.27,0:37:15.04,normal_Wed,,0,0,0,,They take all the ingredients out of the fridge
+Dialogue: 0,0:37:15.04,0:37:18.14,normal_Wed,,0,0,0,,Shirata continues cooking
+Dialogue: 0,0:37:17.64,0:37:19.20,wipe_Wed,,0,0,0,,Shirata should also eat some
+Dialogue: 0,0:37:19.64,0:37:21.86,wipe_Wed,,0,0,0,,This one really does not eat
+Dialogue: 0,0:37:23.72,0:37:26.52,normal_Wed,,0,0,0,,The big eater comedian team has entered its single-family home stage
+Dialogue: 0,0:37:26.52,0:37:27.73,normal_Wed,,0,0,0,,Really? \N -Really?
+Dialogue: 0,0:37:28.16,0:37:29.03,normal_Wed,,0,0,0,,We need to pick up the energy
+Dialogue: 0,0:37:29.03,0:37:32.94,normal_Wed,,0,0,0,,We need to show off our skills \N-True
+Dialogue: 0,0:37:33.44,0:37:34.11,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:37:34.38,0:37:35.23,wipe_Wed,,0,0,0,,Absolutely unsuccessful negotiation, right?
+Dialogue: 0,0:37:35.97,0:37:37.13,normal_Wed,,0,0,0,,I'm sorry. \N -We can't?
+Dialogue: 0,0:37:37.13,0:37:39.10,normal_Wed,,0,0,0,,Sorry, thank you
+Dialogue: 0,0:37:37.37,0:37:38.50,wipe_Wed,,0,0,0,,Who told you to look so scary!?
+Dialogue: 0,0:37:40.73,0:37:41.90,wipe_Wed,,0,0,0,,The dog's not happy
+Dialogue: 0,0:37:41.90,0:37:44.11,normal_Wed,,0,0,0,,We're doing a shoot called "Blitz! Neighbor's Refrigerator"
+Dialogue: 0,0:37:44.11,0:37:44.83,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:37:44.83,0:37:46.60,normal_Wed,,0,0,0,,Okay, okay, it's okay
+Dialogue: 0,0:37:48.16,0:37:50.75,normal_Wed,,0,0,0,,Negotiation is still an issue
+Dialogue: 0,0:37:52.25,0:37:55.08,normal_Wed,,0,0,0,,How about changing our target range to older couples?
+Dialogue: 0,0:37:55.52,0:37:56.72,wipe_Wed,,0,0,0,,They just seem like criminals
+Dialogue: 0,0:37:55.08,0:37:58.45,normal_Wed,,0,0,0,,Even if it's a show, you shouldn't say "let's target old couples"
+Dialogue: 0,0:37:58.45,0:37:59.46,normal_Wed,,0,0,0,,It sounds a bit bad
+Dialogue: 0,0:37:59.56,0:38:02.29,normal_Wed,,0,0,0,,The suggestion is that the elderly eat less
+Dialogue: 0,0:38:02.43,0:38:04.99,normal_Wed,,0,0,0,,What if a passerby hears you?
+Dialogue: 0,0:38:05.24,0:38:07.80,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:38:09.40,0:38:12.84,normal_Wed,,0,0,0,,Are you a fan? \N-Yes
+Dialogue: 0,0:38:12.84,0:38:13.97,normal_Wed,,0,0,0,,Really? Thank you for your support
+Dialogue: 0,0:38:13.97,0:38:16.11,normal_Wed,,0,0,0,,I listen to you on GERA
+Dialogue: 0,0:38:16.11,0:38:17.21,normal_Wed,,0,0,0,,A hardcore comedy fan!
+Dialogue: 0,0:38:17.44,0:38:18.51,normal_Wed,,0,0,0,,You listen to GERA radio?
+Dialogue: 0,0:38:18.61,0:38:20.41,normal_Wed,,0,0,0,,Always listening
+Dialogue: 0,0:38:20.41,0:38:22.18,normal_Wed,,0,0,0,,This lady, although we can't say much
+Dialogue: 0,0:38:22.55,0:38:24.81,normal_Wed,,0,0,0,,Can we come to your house?\N  -No, no, no
+Dialogue: 0,0:38:24.81,0:38:26.18,normal_Wed,,0,0,0,,No?
+Dialogue: 0,0:38:26.18,0:38:32.50,normal_Wed,,0,0,0,,The cooking comedians are still in a state of desperation
+Dialogue: 0,0:38:34.99,0:38:37.63,normal_Wed,,0,0,0,,It's been 6 hours already
+Dialogue: 0,0:38:37.63,0:38:40.00,normal_Wed,,0,0,0,,Just gotta eat this part
+Dialogue: 0,0:38:40.00,0:38:42.87,normal_Wed,,0,0,0,,Then we can escape from here finally
+Dialogue: 0,0:38:42.87,0:38:46.20,normal_Wed,,0,0,0,,You said "escape"! \N -You're being too honest
+Dialogue: 0,0:38:46.94,0:38:48.50,normal_Wed,,0,0,0,,It's been 6 hours
+Dialogue: 0,0:38:48.50,0:38:51.84,normal_Wed,,0,0,0,,What is it like to spend 6 hours in a stranger's house?
+Dialogue: 0,0:38:55.11,0:38:56.91,normal_Wed,,0,0,0,,Washing it all down
+Dialogue: 0,0:38:56.91,0:38:58.85,normal_Wed,,0,0,0,,Yeah, I'm done
+Dialogue: 0,0:38:59.87,0:39:02.62,normal_Wed,,0,0,0,,So, the first house is complete
+Dialogue: 0,0:39:04.98,0:39:08.19,normal_Wed,,0,0,0,,At this moment it is already 6:30 p.m
+Dialogue: 0,0:39:08.99,0:39:12.03,normal_Wed,,0,0,0,,So, let's get started
+Dialogue: 0,0:39:12.73,0:39:16.69,normal_Wed,,0,0,0,,This is all ingredients in the fridge
+Dialogue: 0,0:39:17.17,0:39:19.97,normal_Wed,,0,0,0,,With about 2.88kg of rice
+Dialogue: 0,0:39:20.59,0:39:23.71,normal_Wed,,0,0,0,,The all-carb dinner is complete
+Dialogue: 0,0:39:26.69,0:39:30.54,normal_Wed,,0,0,0,,The professional eaters goes for it
+Dialogue: 0,0:39:31.88,0:39:33.25,normal_Wed,,0,0,0,,Such a small damn bite!
+Dialogue: 0,0:39:34.15,0:39:35.08,normal_Wed,,0,0,0,,What are you doing!?
+Dialogue: 0,0:39:35.08,0:39:37.92,normal_Wed,,0,0,0,,Also, the big eater comedians
+Dialogue: 0,0:39:37.92,0:39:41.76,normal_Wed,,0,0,0,,It' ok, right?\N  -Seems fun
+Dialogue: 0,0:39:41.98,0:39:45.65,normal_Wed,,0,0,0,,The 26th family finally accepts
+Dialogue: 0,0:39:42.91,0:39:45.06,wipe_Wed,,0,0,0,,Her daughter was a big help \N -Really helped a lot
+Dialogue: 0,0:39:46.36,0:39:48.36,normal_Wed,,0,0,0,,Wait a minute.  \N-It's huge!
+Dialogue: 0,0:39:48.36,0:39:50.77,normal_Wed,,0,0,0,,What a stylish home!
+Dialogue: 0,0:39:50.77,0:39:53.67,normal_Wed,,0,0,0,,It's a far cry from Suzuki's house.  \N-Stop it!
+Dialogue: 0,0:39:53.67,0:39:57.20,normal_Wed,,0,0,0,,So, they begin shooting here
+Dialogue: 0,0:39:59.03,0:40:02.13,normal_Wed,,0,0,0,,What will be inside the refrigerator?
+Dialogue: 0,0:40:06.55,0:40:09.65,normal_Wed,,0,0,0,,Isn't this too little for a whole family?
+Dialogue: 0,0:40:09.65,0:40:12.26,normal_Wed,,0,0,0,,Although there are natto and kimchi
+Dialogue: 0,0:40:11.16,0:40:13.16,wipe_Wed,,0,0,0,,What's below is the important part
+Dialogue: 0,0:40:12.26,0:40:15.29,normal_Wed,,0,0,0,,The rest is some water... and wine
+Dialogue: 0,0:40:15.45,0:40:17.43,normal_Wed,,0,0,0,,Is this another part?
+Dialogue: 0,0:40:17.43,0:40:20.00,normal_Wed,,0,0,0,,There aren't many vegetables here either
+Dialogue: 0,0:40:20.30,0:40:22.17,normal_Wed,,0,0,0,,Peaches and other fruits
+Dialogue: 0,0:40:22.17,0:40:23.46,normal_Wed,,0,0,0,,Thank you, Madam
+Dialogue: 0,0:40:23.70,0:40:25.60,normal_Wed,,0,0,0,,There are peaches \N -I want to eat peaches
+Dialogue: 0,0:40:25.60,0:40:27.14,normal_Wed,,0,0,0,,Now I want to eat peaches
+Dialogue: 0,0:40:27.14,0:40:29.71,normal_Wed,,0,0,0,,So now the biggest problem is the freezer
+Dialogue: 0,0:40:29.71,0:40:30.35,normal_Wed,,0,0,0,,Open!
+Dialogue: 0,0:40:30.35,0:40:33.33,normal_Wed,,0,0,0,,Not good, the inside of our freezer...
+Dialogue: 0,0:40:36.75,0:40:39.48,normal_Wed,,0,0,0,,Wait, wait, wait, wait
+Dialogue: 0,0:40:39.72,0:40:43.59,normal_Wed,,0,0,0,,Wait, wait, wait.  \N-Excuse me
+Dialogue: 0,0:40:43.69,0:40:47.33,normal_Wed,,0,0,0,,Korean pancake, octopus teriyaki, dumplings
+Dialogue: 0,0:40:47.82,0:40:52.50,normal_Wed,,0,0,0,,On the other side, the team of cooking comedians also successfully negotiated with the single family
+Dialogue: 0,0:40:52.50,0:40:54.45,wipe_Wed,,0,0,0,,These guys can't eat anymore, right?
+Dialogue: 0,0:40:54.20,0:40:56.10,normal_Wed,,0,0,0,,So fashionable!
+Dialogue: 0,0:40:56.10,0:40:58.20,normal_Wed,,0,0,0,,Even got a hammock
+Dialogue: 0,0:40:58.20,0:41:00.00,normal_Wed,,0,0,0,,Even a hammock
+Dialogue: 0,0:41:00.00,0:41:01.33,normal_Wed,,0,0,0,,This is the home of successful people
+Dialogue: 0,0:41:01.64,0:41:03.37,normal_Wed,,0,0,0,,Then, I'll open it.\N  -Please
+Dialogue: 0,0:41:03.37,0:41:04.41,normal_Wed,,0,0,0,,This part is crucial
+Dialogue: 0,0:41:04.41,0:41:05.17,normal_Wed,,0,0,0,,This is so critical, please!
+Dialogue: 0,0:41:05.24,0:41:06.61,normal_Wed,,0,0,0,,Please
+Dialogue: 0,0:41:07.35,0:41:09.35,normal_Wed,,0,0,0,,There's quite a lot
+Dialogue: 0,0:41:09.35,0:41:11.71,normal_Wed,,0,0,0,,Here too
+Dialogue: 0,0:41:11.71,0:41:13.52,normal_Wed,,0,0,0,,A lot of ingredients
+Dialogue: 0,0:41:12.02,0:41:15.96,wipe_Wed,,0,0,0,,The key is the bottom
+Dialogue: 0,0:41:14.68,0:41:17.82,normal_Wed,,0,0,0,,Filled up!
+Dialogue: 0,0:41:17.82,0:41:19.01,normal_Wed,,0,0,0,,We can make so many dishes
+Dialogue: 0,0:41:19.24,0:41:20.02,normal_Wed,,0,0,0,,Below is also...
+Dialogue: 0,0:41:20.02,0:41:22.36,normal_Wed,,0,0,0,,Wow, no way!
+Dialogue: 0,0:41:22.46,0:41:25.03,normal_Wed,,0,0,0,,Pizza... even pizza
+Dialogue: 0,0:41:26.50,0:41:28.87,normal_Wed,,0,0,0,,Isn't pizza a bit much?
+Dialogue: 0,0:41:29.80,0:41:34.96,normal_Wed,,0,0,0,,Now all three teams are at the same stage again
+Dialogue: 0,0:41:48.91,0:41:51.07,normal_Wed,,0,0,0,,By now it was 9:00 p.m
+Dialogue: 0,0:41:52.29,0:41:54.56,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:41:54.56,0:41:57.83,normal_Wed,,0,0,0,,It looks so delicious!  \N-It's delicious
+Dialogue: 0,0:41:58.23,0:42:02.06,normal_Wed,,0,0,0,,{\fad(380,0)}Ah, incredible
+Dialogue: 0,0:42:02.06,0:42:03.33,normal_Wed,,0,0,0,,{\fad(430,0)}So... incredible....
+Dialogue: 0,0:42:04.17,0:42:06.40,normal_Wed,,0,0,0,,Nishimura, I'm done
+Dialogue: 0,0:42:06.40,0:42:08.20,normal_Wed,,0,0,0,,It's a pizza
+Dialogue: 0,0:42:10.47,0:42:12.68,normal_Wed,,0,0,0,,The difficulty factor of this dish is so high \N -This is great
+Dialogue: 0,0:42:15.34,0:42:17.68,normal_Wed,,0,0,0,,The cheese is shredded
+Dialogue: 0,0:42:23.82,0:42:25.86,normal_Wed,,0,0,0,,{\fad(460,0)}Incredible...
+Dialogue: 0,0:42:27.12,0:42:29.93,normal_Wed,,0,0,0,,Don't forget the content of this project
+Dialogue: 0,0:42:29.93,0:42:33.03,normal_Wed,,0,0,0,,You sound so cool
+Dialogue: 0,0:42:34.32,0:42:38.10,normal_Wed,,0,0,0,,While two teams are desperately trying to eat everything
+Dialogue: 0,0:42:41.64,0:42:45.37,normal_Wed,,0,0,0,,The professional eaters have finished\N  -EH!?
+Dialogue: 0,0:42:45.47,0:42:48.41,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:42:48.41,0:42:50.55,normal_Wed,,0,0,0,,They're so fast \N-So fast!
+Dialogue: 0,0:42:51.00,0:42:52.33,normal_Wed,,0,0,0,,Yes, actually
+Dialogue: 0,0:42:52.33,0:42:55.88,normal_Wed,,0,0,0,,The professional eater team finished within two hours
+Dialogue: 0,0:42:58.62,0:43:00.36,normal_Wed,,0,0,0,,Finished!
+Dialogue: 0,0:43:01.18,0:43:04.00,normal_Wed,,0,0,0,,The duo managed to consume everything
+Dialogue: 0,0:43:05.24,0:43:08.09,normal_Wed,,0,0,0,,Then, asking passersby
+Dialogue: 0,0:43:08.10,0:43:09.93,normal_Wed,,0,0,0,,Yes, you can. \N -Thank you
+Dialogue: 0,0:43:10.67,0:43:12.72,normal_Wed,,0,0,0,,They complete a smooth negotiation
+Dialogue: 0,0:43:13.20,0:43:14.10,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:43:14.10,0:43:15.77,normal_Wed,,0,0,0,,Awesome awesome
+Dialogue: 0,0:43:15.77,0:43:17.41,normal_Wed,,0,0,0,,Your place is great!
+Dialogue: 0,0:43:17.41,0:43:19.41,normal_Wed,,0,0,0,,What a lovely home. \N -What's this?
+Dialogue: 0,0:43:20.01,0:43:22.31,normal_Wed,,0,0,0,,Is this your occupation?
+Dialogue: 0,0:43:22.31,0:43:24.95,normal_Wed,,0,0,0,,I just do this in my spare time
+Dialogue: 0,0:43:24.95,0:43:26.48,normal_Wed,,0,0,0,,This is incredible, right?
+Dialogue: 0,0:43:26.48,0:43:28.28,normal_Wed,,0,0,0,,All of these \N -Are made by hand?
+Dialogue: 0,0:43:28.28,0:43:30.25,normal_Wed,,0,0,0,,It's awesome. It's like being in a boutique
+Dialogue: 0,0:43:30.25,0:43:33.74,normal_Wed,,0,0,0,,This DIY-loving owner
+Dialogue: 0,0:43:33.74,0:43:36.09,normal_Wed,,0,0,0,,What's in his fridge?
+Dialogue: 0,0:43:36.10,0:43:38.10,wipe_Wed,,0,0,0,,Good luck!
+Dialogue: 0,0:43:38.10,0:43:39.40,wipe_Wed,,0,0,0,,Super good!
+Dialogue: 0,0:43:39.82,0:43:43.47,normal_Wed,,0,0,0,,Due to being single, he doesn't have much
+Dialogue: 0,0:43:45.00,0:43:46.00,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:43:46.00,0:43:49.16,normal_Wed,,0,0,0,,Pickled cucumber
+Dialogue: 0,0:43:49.69,0:43:50.48,normal_Wed,,0,0,0,,Even has this kind of stuff
+Dialogue: 0,0:43:50.48,0:43:52.84,normal_Wed,,0,0,0,,Don't wanna eat this kind of stuff
+Dialogue: 0,0:43:54.34,0:43:55.98,normal_Wed,,0,0,0,,Bitter gourd what? \N -Bitter gourd stew
+Dialogue: 0,0:43:55.98,0:43:57.85,normal_Wed,,0,0,0,,Did you make it yourself too?\N  -Yes
+Dialogue: 0,0:43:57.51,0:44:00.18,wipe_Wed,,0,0,0,,I don't wanna eat this stuff
+Dialogue: 0,0:43:57.91,0:44:00.18,normal_Wed,,0,0,0,,This is ginger slices
+Dialogue: 0,0:44:00.58,0:44:02.52,normal_Wed,,0,0,0,,Also pickled \N  -Wow
+Dialogue: 0,0:44:01.89,0:44:03.27,wipe_Wed,,0,0,0,,Why're you pickling stuff yourself?
+Dialogue: 0,0:44:03.49,0:44:06.69,normal_Wed,,0,0,0,,This is rakkyo, which I also pickled myself\N  -Whoa
+Dialogue: 0,0:44:07.27,0:44:11.73,normal_Wed,,0,0,0,,The refrigerator is also stuffed with the owner's DIY products
+Dialogue: 0,0:44:13.21,0:44:14.33,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:44:16.90,0:44:17.70,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:44:18.33,0:44:20.55,normal_Wed,,0,0,0,,No need to cook much
+Dialogue: 0,0:44:21.50,0:44:25.51,normal_Wed,,0,0,0,,The third stage is finished!
+Dialogue: 0,0:44:26.13,0:44:29.19,normal_Wed,,0,0,0,,It only took 40 minutes to finish it
+Dialogue: 0,0:44:29.19,0:44:31.66,normal_Wed,,0,0,0,,Yes! Thank you!
+Dialogue: 0,0:44:31.66,0:44:36.42,normal_Wed,,0,0,0,,Yeah! We won! Yeah!
+Dialogue: 0,0:44:39.06,0:44:41.99,normal_Wed,,0,0,0,,That team is just too strong, right?
+Dialogue: 0,0:44:41.99,0:44:43.59,normal_Wed,,0,0,0,,I shouldn't have bothered to eat so much
+Dialogue: 0,0:44:43.59,0:44:51.00,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H3732FF&}In summary\N{\r}The professional eater team won!
+Dialogue: 0,0:44:51.00,0:44:52.77,normal_Wed,,0,0,0,,As expected
+Dialogue: 0,0:44:54.27,0:44:57.11,normal_Wed,,0,0,0,,The first step to find someone is very difficult  \N-Yes
+Dialogue: 0,0:44:57.11,0:45:01.57,normal_Wed,,0,0,0,,Nothing's been booked so its really tough to find
+Dialogue: 0,0:45:01.98,0:45:04.57,normal_Wed,,0,0,0,,Our program team also gave these people a thank-you gift, right?  \N-Yes
+Dialogue: 0,0:45:04.57,0:45:08.62,normal_Wed,,0,0,0,,Of course, we converted the price according to the contents of the refrigerator
+Dialogue: 0,0:45:08.62,0:45:11.28,normal_Wed,,0,0,0,,Converted to the corresponding amount for people
+Dialogue: 0,0:45:11.39,0:45:14.19,normal_Wed,,0,0,0,,If we didn't reimburse them then that's just too...
+Dialogue: 0,0:45:14.19,0:45:16.29,normal_Wed,,0,0,0,,Just theft
+Dialogue: 0,0:45:16.29,0:45:18.09,normal_Wed,,0,0,0,,Straight up theft
+Dialogue: 0,0:45:18.09,0:45:20.26,normal_Wed,,0,0,0,,Everyone who was willing to cooperate was very nice, right?
+Dialogue: 0,0:45:20.26,0:45:21.60,normal_Wed,,0,0,0,,All super nice people
+Dialogue: 0,0:45:21.60,0:45:24.06,normal_Wed,,0,0,0,,But when you are eating the people are just watching the whole time?\N  -Yes
+Dialogue: 0,0:45:24.06,0:45:25.47,normal_Wed,,0,0,0,,Constantly watching you
+Dialogue: 0,0:45:25.47,0:45:28.01,normal_Wed,,0,0,0,,One thing, though, although it might not be appropriate to say
+Dialogue: 0,0:45:28.02,0:45:31.51,normal_Wed,,0,0,0,,As they were all very nice people who let us eat their food
+Dialogue: 0,0:45:32.15,0:45:33.51,normal_Wed,,0,0,0,,Broad-minded \N -True
+Dialogue: 0,0:45:33.51,0:45:34.39,normal_Wed,,0,0,0,,But in fact, they were all
+Dialogue: 0,0:45:34.98,0:45:37.18,normal_Wed,,0,0,0,,Super weird
+Dialogue: 0,0:45:38.54,0:45:40.49,normal_Wed,,0,0,0,,Ouch! Hamada, you're hitting the wrong person!
+Dialogue: 0,0:45:41.12,0:45:42.32,normal_Wed,,0,0,0,,You've made a mistake
+Dialogue: 0,0:45:42.99,0:46:14.92,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

@@ -1,0 +1,660 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: GnT (2011-05-29) #1056 (Raw) - Let's attack by placing things that Matsutchan seems to like!.mp4
+Video File: GnT (2011-05-29) #1056 (Raw) - Let's attack by placing things that Matsutchan seems to like!.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 584
+Active Line: 610
+Video Position: 43414
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: Default - Copy,Arial,59,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.34084,3.47267,2,13,13,17,1
+Style: hamada,Arial,64,&H00FF0011,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: matsumoto,Arial,64,&H000033DD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: hosei,Arial,64,&H0011AA33,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: tanaka,Arial,64,&H00AA0088,&H000000FF,&H00FFFFFF,&H00AA0088,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: endo,Arial,64,&H000077D0,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: Shibata,Arial,56,&H00EF00FF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,5.209,6.94534,2,13,13,17,1
+Style: mrsshibata,Arial,56,&H000000BB,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,5.209,6.94534,2,13,13,17,1
+Style: transl,Arial,56,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,-1,0,0,100,100,0,0,1,3,6,2,13,13,17,1
+Style: gakitittle,Arial,64,&H0065FFFD,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,6,2,13,13,17,1
+Style: dt tittle,Arial,64,&H000091F6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: hosei name,Arial,52,&H00FFFFFF,&H00000000,&H00000000,&H00FF00FF,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: cocorico name,Arial,52,&H00FFFFFF,&H000000FF,&H00000000,&H000077D0,-1,0,0,0,100,100,0,0,1,6,4,2,13,13,17,1
+Style: dt name,Arial,64,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFF00,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: duo name,Arial,66,&H0011AA33,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,3,2,13,13,17,1
+Style: t/n,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H004A4A4A,-1,0,0,0,100,100,0,0,1,4,3,8,15,15,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:10.00,Shibata,,0,0,0,,{\pos(504.957,64.892)}Shibatabread
+Comment: 0,0:00:00.00,0:00:10.00,mrsshibata,,0,0,0,,{\pos(1140.509,67.21)}Mrs. ShibataBread
+Dialogue: 0,0:00:00.00,0:00:10.00,transl,,0,0,0,,{\a5)}Translation by {\rShibata}Shibatabread
+Dialogue: 0,0:00:00.00,0:00:10.00,transl,,0,0,0,,{\a5)}www.shibatabread.com
+Dialogue: 0,0:00:00.00,0:00:10.00,transl,,0,0,0,,{\a7)}Edited by {\rmrsshibata}Mrs. ShibataBread
+Dialogue: 0,0:00:00.00,0:00:10.00,transl,,0,0,0,,{\a7)}@tofupizza on Twitter
+Dialogue: 0,0:00:00.60,0:00:04.18,gakitittle,,0,0,0,,Standing by for Gaki no Tsukai recording time.
+Dialogue: 0,0:00:05.50,0:00:06.65,hamada,,0,0,0,,WHAT?!!
+Dialogue: 0,0:00:06.74,0:00:09.42,hosei name,,0,0,0,,{\pos(288.173,881.863)}Hosei Yamasaki
+Dialogue: 0,0:00:06.74,0:00:09.42,duo name,,0,0,0,,{\pos(958.55,793.795)}Cocorico
+Dialogue: 0,0:00:06.74,0:00:09.42,cocorico name,,0,0,0,,{\pos(723.481,877.229)}Shozo Endo
+Dialogue: 0,0:00:06.74,0:00:09.42,cocorico name,,0,0,0,,{\pos(1195.357,879.547)}Naoki Tanaka
+Dialogue: 0,0:00:07.92,0:00:09.78,tanaka,,0,0,0,,What did you do?
+Dialogue: 0,0:00:09.50,0:00:11.68,duo name,,0,0,0,,{\pos(718.259,789.161)}Downtown
+Dialogue: 0,0:00:09.50,0:00:11.68,dt name,,0,0,0,,{\pos(718.259,914.31)}Masatoshi Hamada
+Dialogue: 0,0:00:09.78,0:00:10.34,endo,,0,0,0,,What'd you do?
+Dialogue: 0,0:00:10.34,0:00:11.68,hamada,,0,0,0,,You just gave me a look.
+Dialogue: 0,0:00:11.90,0:00:13.98,hosei,,0,0,0,,Yes, I just looked at you but...
+Dialogue: 0,0:00:13.98,0:00:17.38,hosei,,0,0,0,,...I get yelled at just for that?
+Dialogue: 0,0:00:17.38,0:00:18.99,tanaka,,0,0,0,,I don't know how you can ever work together.
+Dialogue: 0,0:00:18.99,0:00:21.98,endo,,0,0,0,,You must've woke up on the wrong side of the bed, Hamada-san.
+Dialogue: 0,0:00:21.98,0:00:24.16,hosei,,0,0,0,,Trust me, I won't look your way.
+Dialogue: 0,0:00:24.16,0:00:25.42,endo,,0,0,0,,He got you good.
+Dialogue: 0,0:00:26.38,0:00:27.46,hosei,,0,0,0,,I'm scared now.
+Dialogue: 0,0:00:27.46,0:00:30.96,hamada,,0,0,0,,By the way, what's with your small bag?
+Dialogue: 0,0:00:30.96,0:00:32.12,hamada,,0,0,0,,That's new, right?
+Dialogue: 0,0:00:32.12,0:00:33.48,hosei,,0,0,0,,No, I've had it for awhile.
+Dialogue: 0,0:00:33.49,0:00:34.60,hamada,,0,0,0,,You're serious?
+Dialogue: 0,0:00:35.96,0:00:38.56,Default,,0,0,0,,{\pos(720,819.289)}Downtown Manager
+Dialogue: 0,0:00:35.96,0:00:38.56,Default,,0,0,0,,{\pos(720,910)}Naoya Orita
+Dialogue: 0,0:00:37.22,0:00:38.56,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:00:40.52,0:00:43.34,Default,,0,0,0,,Matsumoto-san has requested that all of you...
+Dialogue: 0,0:00:43.58,0:00:45.50,hamada,,0,0,0,,Oh, I just assumed he was running late.
+Dialogue: 0,0:00:45.50,0:00:46.36,tanaka,,0,0,0,,Me too.
+Dialogue: 0,0:00:47.10,0:00:47.92,hamada,,0,0,0,,What do you want?
+Dialogue: 0,0:00:48.64,0:00:50.65,Default,,0,0,0,,Well...
+Dialogue: 0,0:00:50.65,0:00:55.78,Default,,0,0,0,,...he was wondering how well you know his likes and dislikes.
+Dialogue: 0,0:00:55.78,0:00:57.12,Default,,0,0,0,,He seemed very preoccupied with this idea.
+Dialogue: 0,0:00:57.12,0:00:59.22,endo,,0,0,0,,He's that curious?
+Dialogue: 0,0:01:00.14,0:01:01.32,hamada,,0,0,0,,I don't get it.
+Dialogue: 0,0:01:01.32,0:01:02.64,hamada,,0,0,0,,So what should we do?
+Dialogue: 0,0:01:02.64,0:01:06.04,Default,,0,0,0,,Well, he wants you to come to the studio.
+Dialogue: 0,0:01:06.04,0:01:06.94,hamada,,0,0,0,,But why?
+Dialogue: 0,0:01:06.94,0:01:09.04,endo,,0,0,0,,Why can't we talk about it here?
+Dialogue: 0,0:01:09.04,0:01:10.88,hamada,,0,0,0,,We can discuss it here, right?
+Dialogue: 0,0:01:10.88,0:01:14.63,Default,,0,0,0,,He was very set on having it in the studio.
+Dialogue: 0,0:01:16.72,0:01:19.54,hamada,,0,0,0,,How can I feel good about this?
+Dialogue: 0,0:01:19.54,0:01:21.22,hamada,,0,0,0,,Am I right?
+Dialogue: 0,0:01:21.31,0:01:26.04,Default,,0,0,0,,Downtown Presents:\NGaki No Tsukai Ya Arahende!!
+Dialogue: 0,0:01:28.52,0:01:30.14,hamada,,0,0,0,,Wow!
+Dialogue: 0,0:01:30.14,0:01:32.52,hosei,,0,0,0,,What a huge space we've got here!?
+Dialogue: 0,0:01:33.54,0:01:39.86,Default,,0,0,0,,{\pos(711.295,898.086)}They get invited into one of largest studios
+Dialogue: 0,0:01:33.54,0:01:34.62,hosei,,0,0,0,,He's in here?
+Dialogue: 0,0:01:34.62,0:01:35.56,Default,,0,0,0,,Yes.
+Dialogue: 0,0:01:35.56,0:01:36.56,tanaka,,0,0,0,,In here?
+Dialogue: 0,0:01:36.56,0:01:38.82,hamada,,0,0,0,,But why in the studio?
+Dialogue: 0,0:01:38.82,0:01:40.32,tanaka,,0,0,0,,Yeah, why?
+Dialogue: 0,0:01:40.92,0:01:41.64,hamada,,0,0,0,,Wow!
+Dialogue: 0,0:01:42.86,0:01:44.94,hosei,,0,0,0,,How big is this studio?!
+Dialogue: 0,0:01:44.94,0:01:45.60,endo,,0,0,0,,It's gigantic.
+Dialogue: 0,0:01:45.60,0:01:47.92,hamada,,0,0,0,,It feels huge when there's no set in here.
+Dialogue: 0,0:01:48.78,0:01:50.46,hamada,,0,0,0,,Where's Matsumoto anyhow?
+Dialogue: 0,0:01:50.46,0:01:53.14,endo,,0,0,0,,Matsumoto-san is...
+Dialogue: 0,0:01:53.56,0:01:55.36,hamada,,0,0,0,,What's that say?
+Dialogue: 0,0:01:55.36,0:01:56.68,hamada,,0,0,0,,What's this?
+Dialogue: 0,0:01:56.68,0:01:58.04,endo,,0,0,0,,What's that sign say?
+Dialogue: 0,0:01:58.04,0:02:05.60,hamada,,0,0,0,,"Present Something Matsumoto Might Like and Win His Heart!"
+Dialogue: 0,0:02:05.60,0:02:07.64,endo,,0,0,0,,There used to be a show like this.
+Dialogue: 0,0:02:07.64,0:02:08.02,tanaka,,0,0,0,,What?
+Dialogue: 0,0:02:08.02,0:02:11.40,endo,,0,0,0,,This will tell us if he likes certain things?
+Dialogue: 0,0:02:11.74,0:02:15.48,hamada,,0,0,0,,So we put an object here?
+Dialogue: 0,0:02:13.00,0:02:14.56,hosei,,0,0,0,,{\pos(732.188,772.938)}I see
+Dialogue: 0,0:02:14.66,0:02:15.48,hosei,,0,0,0,,I see.
+Dialogue: 0,0:02:15.86,0:02:17.64,hamada,,0,0,0,,Should we go for it?
+Dialogue: 0,0:02:17.32,0:02:17.98,endo,,0,0,0,,Yes, let's.
+Dialogue: 0,0:02:17.98,0:02:20.24,hosei,,0,0,0,,Let's go find stuff he might like.
+Dialogue: 0,0:02:21.04,0:02:23.60,hamada,,0,0,0,,Since we're here, there's no turning back.
+Dialogue: 0,0:02:24.50,0:02:25.96,hamada,,0,0,0,,What can we find around here?
+Dialogue: 0,0:02:26.68,0:02:31.92,Default,,0,0,0,,They search for items Matsumoto might like...
+Dialogue: 0,0:02:32.28,0:02:35.04,Default,,0,0,0,,{\pos(713.035,485.555)}30 minutes later...
+Dialogue: 0,0:02:32.66,0:02:34.04,endo,,0,0,0,,We got some stuff...
+Dialogue: 0,0:02:34.04,0:02:35.32,tanaka,,0,0,0,,We got some random things.
+Dialogue: 0,0:02:35.32,0:02:36.14,hamada,,0,0,0,,Now what?
+Dialogue: 0,0:02:36.14,0:02:37.38,hamada,,0,0,0,,What's first?
+Dialogue: 0,0:02:37.38,0:02:39.06,hosei,,0,0,0,,Let's just pick one.
+Dialogue: 0,0:02:39.06,0:02:40.68,hamada,,0,0,0,,We can pick whatever.
+Dialogue: 0,0:02:40.98,0:02:43.80,hamada,,0,0,0,,He likes these kind of snacks...
+Dialogue: 0,0:02:42.80,0:02:43.80,hosei,,0,0,0,,{\pos(720,890)}Yes he does.
+Dialogue: 0,0:02:44.62,0:02:46.14,endo,,0,0,0,,Let's start with one of them.
+Dialogue: 0,0:02:46.24,0:02:47.16,hamada,,0,0,0,,Which one first?
+Dialogue: 0,0:02:47.46,0:02:54.90,Default,,0,0,0,,{\pos(218.525,953.709)}Beef Jerky
+Dialogue: 0,0:02:47.46,0:02:48.70,tanaka,,0,0,0,,Beef jerky or...
+Dialogue: 0,0:02:48.70,0:02:49.58,hosei,,0,0,0,,...dried squid?
+Dialogue: 0,0:02:48.70,0:02:54.90,Default,,0,0,0,,{\pos(479.71,953.709)}Dried Squid
+Dialogue: 0,0:02:49.58,0:02:52.20,endo,,0,0,0,,Which would you pick, Hamada-san?
+Dialogue: 0,0:02:52.20,0:02:54.62,hamada,,0,0,0,,He likes both of these.
+Dialogue: 0,0:02:54.62,0:02:56.74,hamada,,0,0,0,,But he's getting too old to chew on these.
+Dialogue: 0,0:02:56.74,0:02:58.02,hosei,,0,0,0,,Too old?
+Dialogue: 0,0:02:57.97,0:03:08.74,Default,,0,0,0,,{\pos(218.525,953.709)}Beef Jerky
+Dialogue: 0,0:02:57.97,0:03:08.74,Default,,0,0,0,,{\pos(479.71,953.709)}Dried Squid
+Dialogue: 0,0:02:58.02,0:03:00.06,hamada,,0,0,0,,I know that makes two of us, but...
+Dialogue: 0,0:03:00.06,0:03:01.66,hosei,,0,0,0,,But you're not that old.
+Dialogue: 0,0:03:02.04,0:03:03.50,hosei,,0,0,0,,C'mon, you can still chew on it.
+Dialogue: 0,0:03:03.50,0:03:05.36,hamada,,0,0,0,,I know, but this one seems a bit...
+Dialogue: 0,0:03:05.36,0:03:07.16,hosei,,0,0,0,,I know he's a big fan of this!
+Dialogue: 0,0:03:07.16,0:03:08.72,hamada,,0,0,0,,You sure?
+Dialogue: 0,0:03:09.00,0:03:11.95,hosei,,0,0,0,,He has always liked gnawing on them since he was young!
+Dialogue: 0,0:03:11.95,0:03:14.72,hamada,,0,0,0,,Could you make it any more foul sounding?
+Dialogue: 0,0:03:11.95,0:03:20.66,Default,,0,0,0,,{\pos(218.525,953.709)}Beef Jerky
+Dialogue: 0,0:03:11.95,0:03:20.66,Default,,0,0,0,,{\pos(479.71,953.709)}Dried Squid
+Dialogue: 0,0:03:15.52,0:03:16.88,hamada,,0,0,0,,Go with this one?
+Dialogue: 0,0:03:17.24,0:03:18.24,tanaka,,0,0,0,,That's it.
+Dialogue: 0,0:03:18.24,0:03:19.90,hosei,,0,0,0,,I'm positive about this.
+Dialogue: 0,0:03:19.90,0:03:21.18,tanaka,,0,0,0,,You're 100% sure?
+Dialogue: 0,0:03:21.18,0:03:22.98,endo,,0,0,0,,Let's go for it.
+Dialogue: 0,0:03:23.56,0:03:24.46,endo,,0,0,0,,Here's beef jerky.
+Dialogue: 0,0:03:24.46,0:03:26.32,hosei,,0,0,0,,Beef jerky!
+Dialogue: 0,0:03:26.32,0:03:27.52,hosei,,0,0,0,,I'm 100% sure.
+Dialogue: 0,0:03:33.51,0:03:36.18,hamada,,0,0,0,,So that idiot's been hiding in there.
+Dialogue: 0,0:03:37.78,0:03:39.68,tanaka,,0,0,0,,Yes, I can hear him inside.
+Dialogue: 0,0:03:42.00,0:03:43.02,endo,,0,0,0,,There's he is!
+Dialogue: 0,0:03:43.02,0:03:43.80,hosei,,0,0,0,,That's him.
+Dialogue: 0,0:03:45.60,0:03:47.82,hamada,,0,0,0,,What a moron!
+Dialogue: 0,0:03:47.82,0:03:48.94,endo,,0,0,0,,That's him alright.
+Dialogue: 0,0:03:49.92,0:03:51.40,hamada,,0,0,0,,Oh, he's taking it!
+Dialogue: 0,0:03:52.86,0:03:54.00,tanaka,,0,0,0,,He's taking it.
+Dialogue: 0,0:03:54.38,0:03:57.06,hamada,,0,0,0,,I thought he'd go for the dried squid, but it's beef jerky, huh...
+Dialogue: 0,0:03:58.14,0:03:59.40,endo,,0,0,0,,I wish he'd hurry up.
+Dialogue: 0,0:04:00.48,0:04:01.40,hosei,,0,0,0,,He's contemplating.
+Dialogue: 0,0:04:01.78,0:04:02.80,endo,,0,0,0,,Which is it?
+Dialogue: 0,0:04:04.28,0:04:05.88,endo,,0,0,0,,He took it!
+Dialogue: 0,0:04:06.74,0:04:10.28,hamada,,0,0,0,,But seriously, what the hell's wrong with him?
+Dialogue: 0,0:04:11.70,0:04:13.06,hamada,,0,0,0,,What's that all about?
+Dialogue: 0,0:04:13.06,0:04:23.10,matsumoto,,0,0,0,,I still have a fond memory of trying this for the first time.
+Dialogue: 0,0:04:23.60,0:04:25.14,tanaka,,0,0,0,,He remembers that?
+Dialogue: 0,0:04:25.14,0:04:27.42,endo,,0,0,0,,That's why he likes it.
+Dialogue: 0,0:04:27.90,0:04:29.88,hamada,,0,0,0,,Seriously, what is this?
+Dialogue: 0,0:04:29.88,0:04:30.96,hamada,,0,0,0,,How irritating.
+Dialogue: 0,0:04:30.96,0:04:32.16,hosei,,0,0,0,,So he likes it?
+Dialogue: 0,0:04:32.16,0:04:33.30,hamada,,0,0,0,,That's why he took it!
+Dialogue: 0,0:04:33.30,0:04:34.82,hamada,,0,0,0,,So you were right!
+Dialogue: 0,0:04:34.96,0:04:35.58,hosei,,0,0,0,,Right?
+Dialogue: 0,0:04:35.58,0:04:36.28,hamada,,0,0,0,,You got it, Yama-chan.
+Dialogue: 0,0:04:36.29,0:04:38.28,hosei,,0,0,0,,I knew he liked beef jerky.
+Dialogue: 0,0:04:38.28,0:04:38.92,hamada,,0,0,0,,Is that so?
+Dialogue: 0,0:04:39.60,0:04:41.92,endo,,0,0,0,,Does he have a sweet tooth?
+Dialogue: 0,0:04:41.92,0:04:42.96,hamada,,0,0,0,,Like this Swiss roll?
+Dialogue: 0,0:04:41.96,0:05:05.92,Default,,0,0,0,,{\pos(265.538,956.027)}Swiss Roll
+Dialogue: 0,0:04:42.96,0:04:44.30,tanaka,,0,0,0,,Right, the Swiss roll.
+Dialogue: 0,0:04:44.30,0:04:46.02,hamada,,0,0,0,,I'm stumped.
+Dialogue: 0,0:04:46.02,0:04:48.22,hamada,,0,0,0,,Does he eat sweets when you guys go out?
+Dialogue: 0,0:04:48.22,0:04:51.39,hosei,,0,0,0,,He started to recently.
+Dialogue: 0,0:04:49.96,0:04:51.39,hamada,,0,0,0,,He never used to.
+Dialogue: 0,0:04:51.39,0:04:54.50,hosei,,0,0,0,,{\pos(720,1061.136)}Right, he never touched sweets until recently.
+Dialogue: 0,0:04:55.16,0:04:56.40,hamada,,0,0,0,,So he orders dessert?
+Dialogue: 0,0:04:56.40,0:05:01.60,hosei,,0,0,0,,Yeah, I catch him sucking on sweets all the time.
+Dialogue: 0,0:05:01.60,0:05:03.20,hamada,,0,0,0,,Can you be less graphic?
+Dialogue: 0,0:05:03.40,0:05:04.58,hosei,,0,0,0,,Did that sound bad?
+Dialogue: 0,0:05:04.58,0:05:05.93,hosei,,0,0,0,,I didn't mean to...
+Dialogue: 0,0:05:05.93,0:05:07.94,hosei,,0,0,0,,I'm curious about what would happen with the roll.
+Dialogue: 0,0:05:07.94,0:05:09.28,endo,,0,0,0,,It's a mystery item.
+Dialogue: 0,0:05:09.28,0:05:12.08,tanaka,,0,0,0,,I would like to know his position on this one.
+Dialogue: 0,0:05:13.78,0:05:16.92,Default,,0,0,0,,Next up is the Swiss Roll.
+Dialogue: 0,0:05:16.92,0:05:19.88,Default,,0,0,0,,Is Matsumoto a fan?
+Dialogue: 0,0:05:20.72,0:05:22.50,hosei,,0,0,0,,He started to eat sweets recently.
+Dialogue: 0,0:05:22.50,0:05:23.16,hamada,,0,0,0,,You sure?
+Dialogue: 0,0:05:23.16,0:05:23.70,hosei,,0,0,0,,Yes...
+Dialogue: 0,0:05:23.70,0:05:25.24,hamada,,0,0,0,,Even Swiss rolls?
+Dialogue: 0,0:05:29.28,0:05:31.10,endo,,0,0,0,,What's with the sound effects?
+Dialogue: 0,0:05:33.40,0:05:35.20,hamada,,0,0,0,,Please let me smack him once.
+Dialogue: 0,0:05:35.98,0:05:37.98,hamada,,0,0,0,,Seriously, what the hell do you think you're doing?
+Dialogue: 0,0:05:38.42,0:05:40.10,hamada,,0,0,0,,Take it already!
+Dialogue: 0,0:05:40.10,0:05:42.10,endo,,0,0,0,,He must be contemplating.
+Dialogue: 0,0:05:42.22,0:05:43.72,hosei,,0,0,0,,He's thinking about it?
+Dialogue: 0,0:05:44.12,0:05:45.72,endo,,0,0,0,,Does he like it or not?
+Dialogue: 0,0:05:47.08,0:05:48.32,endo,,0,0,0,,Can't you reach?
+Dialogue: 0,0:05:50.46,0:05:50.90,hosei,,0,0,0,,See?
+Dialogue: 0,0:05:51.04,0:05:52.50,hamada,,0,0,0,,You were right!
+Dialogue: 0,0:05:52.88,0:05:54.28,tanaka,,0,0,0,,You got it?
+Dialogue: 0,0:05:54.28,0:05:56.48,hosei,,0,0,0,,Why the stare down?
+Dialogue: 0,0:05:56.48,0:05:58.02,tanaka,,0,0,0,,Very hard stare down.
+Dialogue: 0,0:05:58.66,0:06:00.14,endo,,0,0,0,,I wish he'd hurry up.
+Dialogue: 0,0:06:02.52,0:06:03.86,hamada,,0,0,0,,Incredible!
+Dialogue: 0,0:06:04.94,0:06:06.00,hamada,,0,0,0,,I didn't know...
+Dialogue: 0,0:06:06.60,0:06:07.56,tanaka,,0,0,0,,I had no idea...
+Dialogue: 0,0:06:07.56,0:06:09.32,hosei,,0,0,0,,Right?
+Dialogue: 0,0:06:09.70,0:06:14.44,matsumoto,,0,0,0,,Because of the eating sensation is strong.
+Dialogue: 0,0:06:13.48,0:06:14.44,hamada,,0,0,0,,{\pos(720,810.017)}Shut the hell up.
+Dialogue: 0,0:06:16.36,0:06:18.26,endo,,0,0,0,,He likes it because...
+Dialogue: 0,0:06:18.26,0:06:18.94,tanaka,,0,0,0,,I don't get it.
+Dialogue: 0,0:06:18.94,0:06:20.36,hosei,,0,0,0,,What's a strong eating sensation?
+Dialogue: 0,0:06:20.90,0:06:21.84,tanaka,,0,0,0,,He lost me.
+Dialogue: 0,0:06:22.02,0:06:26.68,hamada,,0,0,0,,Let's yank him outta there and beat him up?
+Dialogue: 0,0:06:25.76,0:06:26.68,hosei,,0,0,0,,{\pos(720,881.863)}Is that OK?
+Dialogue: 0,0:06:26.90,0:06:29.30,hosei,,0,0,0,,If Hamada-san if giving us permission, then...
+Dialogue: 0,0:06:29.30,0:06:31.22,endo,,0,0,0,,We'll gladly help you.
+Dialogue: 0,0:06:31.74,0:06:32.72,hamada,,0,0,0,,What a combo though.
+Dialogue: 0,0:06:32.72,0:06:35.02,hamada,,0,0,0,,Beef jerky and Swiss roll.
+Dialogue: 0,0:06:35.02,0:06:36.46,endo,,0,0,0,,He likes them for sure.
+Dialogue: 0,0:06:36.68,0:06:39.75,hosei,,0,0,0,,We pretty much got things we like.
+Dialogue: 0,0:06:39.76,0:06:40.70,tanaka,,0,0,0,,You're right.
+Dialogue: 0,0:06:40.70,0:06:42.30,tanaka,,0,0,0,,I don't know if it's a coincidence but...
+Dialogue: 0,0:06:42.63,0:06:45.90,hamada,,0,0,0,,But who from Osaka wouldn't be into takoyaki?
+Dialogue: 0,0:06:44.60,0:06:45.90,hosei,,0,0,0,,{\pos(728.707,886.499)}Of course, he likes it.
+Dialogue: 0,0:06:46.42,0:06:49.74,hamada,,0,0,0,,Or the 551 brand pork buns.
+Dialogue: 0,0:06:46.42,0:06:49.74,t/n,,0,0,0,,T/N: 551 Horai is a famous pork bun brand that is exclusive to Osaka.
+Dialogue: 0,0:06:49.74,0:06:50.90,hamada,,0,0,0,,Hit him with the takoyaki?
+Dialogue: 0,0:06:50.90,0:06:53.06,endo,,0,0,0,,Let's go for it.
+Dialogue: 0,0:06:52.00,0:06:53.06,tanaka,,0,0,0,,He's 100% into this.
+Dialogue: 0,0:06:53.06,0:06:54.68,endo,,0,0,0,,We did something like this before...
+Dialogue: 0,0:06:55.04,0:06:56.02,hamada,,0,0,0,,That's right!
+Dialogue: 0,0:06:56.66,0:06:58.36,endo,,0,0,0,,I'm pretty sure he likes these.
+Dialogue: 0,0:06:58.48,0:06:59.96,hamada,,0,0,0,,Let's put them right here.
+Dialogue: 0,0:07:02.08,0:07:04.20,hamada,,0,0,0,,Right on the line.
+Dialogue: 0,0:07:08.64,0:07:09.28,hosei,,0,0,0,,What?
+Dialogue: 0,0:07:09.62,0:07:11.02,endo,,0,0,0,,This thing isn't designed well.
+Dialogue: 0,0:07:11.02,0:07:12.43,hosei,,0,0,0,,Not only that, but...
+Dialogue: 0,0:07:12.43,0:07:15.02,hosei,,0,0,0,,...something's wrong with his teeth.
+Dialogue: 0,0:07:15.02,0:07:16.03,endo,,0,0,0,,Where's his other tooth?
+Dialogue: 0,0:07:16.70,0:07:17.56,hosei,,0,0,0,,What happened?
+Dialogue: 0,0:07:17.56,0:07:19.12,hosei,,0,0,0,,Can he take it?
+Dialogue: 0,0:07:19.12,0:07:22.12,hosei,,0,0,0,,He needs to find a way to grab it.
+Dialogue: 0,0:07:22.12,0:07:23.64,endo,,0,0,0,,If he likes it enough, he'll get it.
+Dialogue: 0,0:07:23.64,0:07:24.52,hamada,,0,0,0,,That's right.
+Dialogue: 0,0:07:24.52,0:07:25.75,tanaka,,0,0,0,,He can make it happen.
+Dialogue: 0,0:07:25.75,0:07:27.70,hamada,,0,0,0,,It's still inside the square.
+Dialogue: 0,0:07:27.70,0:07:29.06,hosei,,0,0,0,,He's gonna pull a muscle.
+Dialogue: 0,0:07:29.06,0:07:30.10,hosei,,0,0,0,,That'll hurt.
+Dialogue: 0,0:07:31.30,0:07:33.30,endo,,0,0,0,,Where there's a will, there's a way.
+Dialogue: 0,0:07:34.74,0:07:36.34,tanaka,,0,0,0,,If he wants it bad enough...
+Dialogue: 0,0:07:36.34,0:07:37.96,hosei,,0,0,0,,If he likes it, he'll get it.
+Dialogue: 0,0:07:43.48,0:07:44.72,hamada,,0,0,0,,He got it!
+Dialogue: 0,0:07:44.72,0:07:45.52,endo,,0,0,0,,He loves it.
+Dialogue: 0,0:07:45.52,0:07:47.00,hamada,,0,0,0,,Incredible!
+Dialogue: 0,0:07:48.66,0:07:50.88,matsumoto,,0,0,0,,{\clip(220.5,978,780,1080)}Because it makes me ecstatic.
+Dialogue: 0,0:07:50.88,0:07:53.80,matsumoto,,0,0,0,,Because it makes me ecstatic.
+Dialogue: 0,0:07:54.26,0:07:56.12,hamada,,0,0,0,,It doesn't take much...
+Dialogue: 0,0:07:56.50,0:07:58.60,hamada,,0,0,0,,All it takes is takoyaki to make him ecstatic.
+Dialogue: 0,0:07:57.86,0:07:59.40,tanaka,,0,0,0,,{\pos(745.906,994.637)}Only takoyaki...
+Dialogue: 0,0:07:59.40,0:08:00.56,endo,,0,0,0,,He's from Osaka after all...
+Dialogue: 0,0:08:00.56,0:08:01.95,hamada,,0,0,0,,You've got a point.
+Dialogue: 0,0:08:01.95,0:08:02.54,hamada,,0,0,0,,Good point.
+Dialogue: 0,0:08:03.64,0:08:04.88,hamada,,0,0,0,,Yama-chan, your turn.
+Dialogue: 0,0:08:04.88,0:08:05.80,hamada,,0,0,0,,Offer him something.
+Dialogue: 0,0:08:05.80,0:08:07.58,hosei,,0,0,0,,Well, well, well...
+Dialogue: 0,0:08:08.02,0:08:09.58,hamada,,0,0,0,,Endo and Tanaka just went so...
+Dialogue: 0,0:08:09.58,0:08:10.80,hosei,,0,0,0,,I see...
+Dialogue: 0,0:08:11.00,0:08:12.60,hosei,,0,0,0,,How about this one?
+Dialogue: 0,0:08:12.72,0:08:13.36,endo,,0,0,0,,What's that?
+Dialogue: 0,0:08:13.50,0:08:16.52,hosei,,0,0,0,,This is more like a "necessity".
+Dialogue: 0,0:08:16.74,0:08:18.30,hamada,,0,0,0,,It's a hair clipper!
+Dialogue: 0,0:08:18.30,0:08:19.75,hosei,,0,0,0,,What did you think it was?
+Dialogue: 0,0:08:19.78,0:08:21.72,hamada,,0,0,0,,I thought it was an electric razor.
+Dialogue: 0,0:08:21.72,0:08:22.86,hosei,,0,0,0,,It looks similar.
+Dialogue: 0,0:08:22.86,0:08:25.02,hamada,,0,0,0,,OK, so you choose the clipper.
+Dialogue: 0,0:08:26.50,0:08:31.02,Default - Copy,,0,0,0,,Matsumoto's good friend, Yamasaki, chooses the hair clipper.
+Dialogue: 0,0:08:31.52,0:08:32.68,hosei,,0,0,0,,I'm sure he likes this.
+Dialogue: 0,0:08:44.64,0:08:45.76,hosei,,0,0,0,,A different movement.
+Dialogue: 0,0:08:48.04,0:08:49.26,hamada,,0,0,0,,What's he doing?
+Dialogue: 0,0:08:49.26,0:08:53.20,hosei,,0,0,0,,Is he confirming something?
+Dialogue: 0,0:08:55.46,0:08:56.46,hosei,,0,0,0,,He's looking at it.
+Dialogue: 0,0:08:56.46,0:08:59.24,hamada,,0,0,0,,Oh, he can pick things up.
+Dialogue: 0,0:09:00.00,0:09:01.56,hamada,,0,0,0,,I thought he could only pull things in.
+Dialogue: 0,0:09:01.56,0:09:03.02,hosei,,0,0,0,,He's still looking at us.
+Dialogue: 0,0:09:03.02,0:09:05.24,hamada,,0,0,0,,He's got it in his hand.
+Dialogue: 0,0:09:08.70,0:09:09.80,hosei,,0,0,0,,How's it gonna be?
+Dialogue: 0,0:09:09.80,0:09:11.20,tanaka,,0,0,0,,Which is it?
+Dialogue: 0,0:09:17.80,0:09:19.00,matsumoto,,0,0,0,,{\clip(277.5,986,807,1080)}It's not something to like or dislike, right?
+Dialogue: 0,0:09:19.00,0:09:21.14,matsumoto,,0,0,0,,{\clip(277.5,990,1017,1080)}It's not something to like or dislike, right?
+Dialogue: 0,0:09:21.14,0:09:22.73,matsumoto,,0,0,0,,It's not something to like or dislike, right?
+Dialogue: 0,0:09:24.26,0:09:25.55,endo,,0,0,0,,It's neither, I guess.
+Dialogue: 0,0:09:25.55,0:09:27.80,hamada,,0,0,0,,It's not a "like" or "dislike".
+Dialogue: 0,0:09:28.40,0:09:31.45,hamada,,0,0,0,,See, you shouldn't have picked something like that.
+Dialogue: 0,0:09:31.45,0:09:33.45,matsumoto,,0,0,0,,From now on...
+Dialogue: 0,0:09:33.80,0:09:38.22,matsumoto,,0,0,0,,{\clip(201,972,816,1080)}...if you're wrong, you will be slapped in the face.
+Dialogue: 0,0:09:38.22,0:09:40.48,matsumoto,,0,0,0,,...if you're wrong, you will be slapped in the face.
+Dialogue: 0,0:09:41.20,0:09:42.48,hosei,,0,0,0,,I don't want that.
+Dialogue: 0,0:09:43.18,0:09:44.92,hamada,,0,0,0,,Seriously, what's this all about?
+Dialogue: 0,0:09:44.92,0:09:47.86,hosei,,0,0,0,,By the way, his voice is way too distorted.
+Dialogue: 0,0:09:48.08,0:09:48.66,tanaka,,0,0,0,,His voice isn't clear.
+Dialogue: 0,0:09:48.66,0:09:49.98,hosei,,0,0,0,,It's hard to understand.
+Dialogue: 0,0:09:49.98,0:09:50.76,hamada,,0,0,0,,Endo, you go again.
+Dialogue: 0,0:09:50.76,0:09:51.40,endo,,0,0,0,,Shall I?
+Dialogue: 0,0:09:51.40,0:09:52.84,hamada,,0,0,0,,I don't want to be wrong.
+Dialogue: 0,0:09:52.84,0:09:53.86,tanaka,,0,0,0,,A face slap?
+Dialogue: 0,0:09:53.86,0:09:55.06,endo,,0,0,0,,I don't want to be slapped.
+Dialogue: 0,0:09:55.07,0:09:56.70,hosei,,0,0,0,,Who's slapping us anyhow?
+Dialogue: 0,0:09:57.10,0:09:58.50,endo,,0,0,0,,I choose the socks.
+Dialogue: 0,0:09:58.72,0:10:00.92,hosei,,0,0,0,,Just pick what you like.
+Dialogue: 0,0:10:00.92,0:10:01.78,hamada,,0,0,0,,You're right.
+Dialogue: 0,0:10:01.78,0:10:03.26,endo,,0,0,0,,These are quite useful...
+Dialogue: 0,0:10:04.32,0:10:05.60,endo,,0,0,0,,See these toe socks?
+Dialogue: 0,0:10:05.64,0:10:06.72,hamada,,0,0,0,,You're going for it?
+Dialogue: 0,0:10:07.08,0:10:08.16,hamada,,0,0,0,,That's your final pick?
+Dialogue: 0,0:10:08.16,0:10:08.58,endo,,0,0,0,,Yes.
+Dialogue: 0,0:10:08.86,0:10:10.16,hamada,,0,0,0,,Go for it then.
+Dialogue: 0,0:10:10.16,0:10:11.20,endo,,0,0,0,,Here we go.
+Dialogue: 0,0:10:11.78,0:10:13.78,endo,,0,0,0,,Here's a pair of toe socks.
+Dialogue: 0,0:10:21.62,0:10:22.72,hosei,,0,0,0,,He sounds a little different.
+Dialogue: 0,0:10:23.62,0:10:26.66,hosei,,0,0,0,,He's got a different set of teeth, too.
+Dialogue: 0,0:10:27.88,0:10:30.54,hamada,,0,0,0,,His character keeps changing.
+Dialogue: 0,0:10:38.28,0:10:39.46,endo,,0,0,0,,Take them!
+Dialogue: 0,0:10:41.00,0:10:42.40,endo,,0,0,0,,There! He got them!
+Dialogue: 0,0:10:46.90,0:10:48.04,hamada,,0,0,0,,Take them already!
+Dialogue: 0,0:10:50.86,0:10:52.60,hamada,,0,0,0,,Keep it down!
+Dialogue: 0,0:10:53.14,0:10:54.70,hosei,,0,0,0,,The machine's broken.
+Dialogue: 0,0:10:54.70,0:10:56.18,hamada,,0,0,0,,It's completely out of order.
+Dialogue: 0,0:10:56.94,0:10:58.70,hamada,,0,0,0,,It's sweating bullets too.
+Dialogue: 0,0:11:05.40,0:11:06.78,endo,,0,0,0,,He doesn't like them...
+Dialogue: 0,0:11:08.42,0:11:10.00,matsumoto,,0,0,0,,{\clip(489,974,654,1080)}A slap from Tanaka.
+Dialogue: 0,0:11:10.00,0:11:11.80,matsumoto,,0,0,0,,A slap from Tanaka.
+Dialogue: 0,0:11:12.38,0:11:13.42,hamada,,0,0,0,,From Tanaka?
+Dialogue: 0,0:11:13.42,0:11:14.90,tanaka,,0,0,0,,So I slap him?
+Dialogue: 0,0:11:14.90,0:11:17.08,tanaka,,0,0,0,,I'm supposed to slap Endo then?
+Dialogue: 0,0:11:17.08,0:11:19.86,endo,,0,0,0,,I see, Tanaka gets to slap me.
+Dialogue: 0,0:11:19.86,0:11:20.92,tanaka,,0,0,0,,Me?
+Dialogue: 0,0:11:22.22,0:11:23.38,endo,,0,0,0,,This sucks.
+Dialogue: 0,0:11:23.38,0:11:25.38,tanaka,,0,0,0,,I don't like it either.
+Dialogue: 0,0:11:25.38,0:11:26.72,hamada,,0,0,0,,What're you gonna do?
+Dialogue: 0,0:11:26.72,0:11:29.04,tanaka,,0,0,0,,Shouldn't it be Yamasaki or Hamada-san?
+Dialogue: 0,0:11:29.04,0:11:31.70,hamada,,0,0,0,,Well, it was an order.
+Dialogue: 0,0:11:31.70,0:11:33.70,tanaka,,0,0,0,,Ok, I'm ready.
+Dialogue: 0,0:11:33.70,0:11:35.12,endo,,0,0,0,,This sucks.
+Dialogue: 0,0:11:35.12,0:11:36.28,tanaka,,0,0,0,,You ready?
+Dialogue: 0,0:11:41.24,0:11:42.86,hamada,,0,0,0,,He's looking!
+Dialogue: 0,0:11:42.86,0:11:43.66,tanaka,,0,0,0,,He witnessed it.
+Dialogue: 0,0:11:43.66,0:11:44.92,hamada,,0,0,0,,He peeked.
+Dialogue: 0,0:11:44.92,0:11:46.10,tanaka,,0,0,0,,Yes, he was looking.
+Dialogue: 0,0:11:46.10,0:11:47.36,hosei,,0,0,0,,Was that good?
+Dialogue: 0,0:11:47.36,0:11:48.72,endo,,0,0,0,,Was that good?
+Dialogue: 0,0:11:48.88,0:11:51.98,matsumoto,,0,0,0,,OK, I'll take it.
+Dialogue: 0,0:11:51.98,0:11:54.60,matsumoto,,0,0,0,,OK.
+Dialogue: 0,0:11:54.76,0:11:57.68,matsumoto,,0,0,0,,That was good.
+Dialogue: 0,0:11:57.68,0:11:59.36,endo,,0,0,0,,He sounds very easy going.
+Dialogue: 0,0:11:59.36,0:12:01.58,hamada,,0,0,0,,He's really pissing me off now.
+Dialogue: 0,0:12:02.14,0:12:03.96,endo,,0,0,0,,Well, not much I can do.
+Dialogue: 0,0:12:03.96,0:12:05.82,hamada,,0,0,0,,I'm feeling this one.
+Dialogue: 0,0:12:05.90,0:12:10.12,hamada,,0,0,0,,This comes in handy when your face is sweaty.
+Dialogue: 0,0:12:10.48,0:12:11.84,hamada,,0,0,0,,I choose the wet wipes.
+Dialogue: 0,0:12:11.84,0:12:13.12,hamada,,0,0,0,,I've got a good feeling.
+Dialogue: 0,0:12:13.12,0:12:14.24,endo,,0,0,0,,Go for it.
+Dialogue: 0,0:12:14.24,0:12:15.08,hamada,,0,0,0,,I'll get him.
+Dialogue: 0,0:12:14.48,0:12:15.08,endo,,0,0,0,,{\pos(723.048,998.637)}Good luck!
+Dialogue: 0,0:12:15.22,0:12:16.84,hamada,,0,0,0,,Here's a set of wet wipes.
+Dialogue: 0,0:12:23.60,0:12:24.90,hamada,,0,0,0,,What the...?
+Dialogue: 0,0:12:26.24,0:12:27.16,hosei,,0,0,0,,He's looking!
+Dialogue: 0,0:12:27.16,0:12:28.62,endo,,0,0,0,,There he is!
+Dialogue: 0,0:12:31.92,0:12:33.16,hosei,,0,0,0,,He's out!
+Dialogue: 0,0:12:33.84,0:12:35.16,tanaka,,0,0,0,,Using both hands even!
+Dialogue: 0,0:12:35.16,0:12:35.98,hamada,,0,0,0,,Pretty good.
+Dialogue: 0,0:12:36.86,0:12:38.30,endo,,0,0,0,,That's a new move!
+Dialogue: 0,0:12:39.10,0:12:41.92,hosei,,0,0,0,,He's acting like he's into them.
+Dialogue: 0,0:12:43.22,0:12:45.18,hamada,,0,0,0,,Hurry the hell up!
+Dialogue: 0,0:12:46.00,0:12:47.18,endo,,0,0,0,,Don't try to break the machine!
+Dialogue: 0,0:12:47.18,0:12:48.38,endo,,0,0,0,,He breaks easily.
+Dialogue: 0,0:12:55.08,0:12:57.36,hosei,,0,0,0,,You hurt his feelings!
+Dialogue: 0,0:12:58.56,0:13:01.36,hamada,,0,0,0,,He's being loud as hell and sweating up a storm!
+Dialogue: 0,0:13:01.64,0:13:03.64,hamada,,0,0,0,,Just hurry up and grab it!
+Dialogue: 0,0:13:03.69,0:13:07.80,matsumoto,,0,0,0,,Because you tore my spirit in half.
+Dialogue: 0,0:13:06.28,0:13:07.78,endo,,0,0,0,,{\pos(724.572,1000.636)}See that?
+Dialogue: 0,0:13:07.80,0:13:09.04,endo,,0,0,0,,It's not about just the things he likes.
+Dialogue: 0,0:13:09.04,0:13:10.72,hamada,,0,0,0,,Slapping him was a bad move?
+Dialogue: 0,0:13:11.54,0:13:12.72,hamada,,0,0,0,,Sorry about that.
+Dialogue: 0,0:13:12.72,0:13:14.00,hamada,,0,0,0,,I apologize.
+Dialogue: 0,0:13:14.10,0:13:16.76,matsumoto,,0,0,0,,Endo slaps Hamada.
+Dialogue: 0,0:13:16.76,0:13:18.22,endo,,0,0,0,,No way.
+Dialogue: 0,0:13:18.22,0:13:19.28,hosei,,0,0,0,,Phew!
+Dialogue: 0,0:13:19.28,0:13:23.96,hosei,,0,0,0,,I was just thinking, "Please don't make me slap Hamada-san."
+Dialogue: 0,0:13:23.96,0:13:25.28,endo,,0,0,0,,This sucks!
+Dialogue: 0,0:13:25.28,0:13:26.88,endo,,0,0,0,,Hamada-san, I don't know if I can...
+Dialogue: 0,0:13:26.88,0:13:28.68,hosei,,0,0,0,,I need to watch this closely.
+Dialogue: 0,0:13:29.44,0:13:31.04,tanaka,,0,0,0,,You don't get to see this too often.
+Dialogue: 0,0:13:31.04,0:13:32.14,hosei,,0,0,0,,This never happens.
+Dialogue: 0,0:13:32.14,0:13:33.46,endo,,0,0,0,,I'm sorry in advance.
+Dialogue: 0,0:13:34.32,0:13:35.56,endo,,0,0,0,,Please don't take this personally.
+Dialogue: 0,0:13:36.24,0:13:40.03,hamada,,0,0,0,,Damn, he's been staring the whole time.
+Dialogue: 0,0:13:41.68,0:13:44.10,hosei,,0,0,0,,Right, he's been staring with both eyes.
+Dialogue: 0,0:13:43.12,0:13:44.10,hamada,,0,0,0,,{\pos(716.952,890.637)}He's not even trying to hide.
+Dialogue: 0,0:13:44.22,0:13:46.12,tanaka,,0,0,0,,That's beyond peeking.
+Dialogue: 0,0:13:46.12,0:13:47.82,endo,,0,0,0,,He might as well come all the way out.
+Dialogue: 0,0:13:48.64,0:13:49.96,endo,,0,0,0,,Please excuse me.
+Dialogue: 0,0:13:56.58,0:13:58.72,hamada,,0,0,0,,Look at him chuckling.
+Dialogue: 0,0:13:59.14,0:14:02.24,matsumoto,,0,0,0,,Not hard enough.
+Dialogue: 0,0:14:02.24,0:14:04.06,endo,,0,0,0,,I thought that was good enough.
+Dialogue: 0,0:14:04.06,0:14:05.50,endo,,0,0,0,,I disagree!
+Dialogue: 0,0:14:05.50,0:14:07.50,endo,,0,0,0,,I slapped him fair and square!
+Dialogue: 0,0:14:07.78,0:14:11.98,matsumoto,,0,0,0,,Hit him a little harder.
+Dialogue: 0,0:14:12.38,0:14:13.54,endo,,0,0,0,,What a nightmare.
+Dialogue: 0,0:14:13.54,0:14:14.94,hosei,,0,0,0,,Yeah, pretty hellish.
+Dialogue: 0,0:14:14.94,0:14:16.60,endo,,0,0,0,,This is the worst.
+Dialogue: 0,0:14:17.30,0:14:19.42,endo,,0,0,0,,What a bad deal for both of us.
+Dialogue: 0,0:14:19.94,0:14:21.80,hosei,,0,0,0,,Endo, there's not much you can do now.
+Dialogue: 0,0:14:21.80,0:14:23.26,hosei,,0,0,0,,Even Hamada-san can't do anything about this.
+Dialogue: 0,0:14:23.26,0:14:25.66,tanaka,,0,0,0,,Just make this one count.
+Dialogue: 0,0:14:25.66,0:14:26.72,hamada,,0,0,0,,What the...
+Dialogue: 0,0:14:26.77,0:14:29.52,hamada,,0,0,0,,WHAT THE HELL ARE YOU LOOKING AT!?
+Dialogue: 0,0:14:30.42,0:14:31.52,endo,,0,0,0,,He's not shy about this.
+Dialogue: 0,0:14:32.16,0:14:33.74,hosei,,0,0,0,,Just get over with.
+Dialogue: 0,0:14:33.74,0:14:35.00,endo,,0,0,0,,Right, I don't want to have to do this again.
+Dialogue: 0,0:14:35.00,0:14:35.64,tanaka,,0,0,0,,Agreed.
+Dialogue: 0,0:14:35.64,0:14:36.67,hosei,,0,0,0,,Try to ignore him.
+Dialogue: 0,0:14:36.90,0:14:39.45,hamada,,0,0,0,,He won't stop looking.
+Dialogue: 0,0:14:38.14,0:14:39.45,endo,,0,0,0,,I won't hold back then.
+Dialogue: 0,0:14:39.66,0:14:41.20,endo,,0,0,0,,Here I go!
+Dialogue: 0,0:14:41.20,0:14:42.52,endo,,0,0,0,,Ready?
+Dialogue: 0,0:14:53.88,0:14:55.30,endo,,0,0,0,,You ok, Hamada-san?
+Dialogue: 0,0:14:55.86,0:14:57.16,endo,,0,0,0,,OK, Hamada-san!?
+Dialogue: 0,0:14:57.56,0:14:59.16,endo,,0,0,0,,Hamada-san!
+Dialogue: 0,0:14:59.16,0:15:00.90,endo,,0,0,0,,Tell me you're ok.
+Dialogue: 0,0:15:00.90,0:15:03.00,endo,,0,0,0,,You ok?
+Dialogue: 0,0:15:03.62,0:15:05.10,hamada,,0,0,0,,My ear is ringing.
+Dialogue: 0,0:15:05.10,0:15:06.27,endo,,0,0,0,,His ear is ringing.
+Dialogue: 0,0:15:07.52,0:15:08.35,matsumoto,,0,0,0,,{\clip(493.5,980,618,1080)}That was awesome.
+Dialogue: 0,0:15:08.35,0:15:11.00,matsumoto,,0,0,0,,That was awesome.
+Dialogue: 0,0:15:10.20,0:15:11.16,tanaka,,0,0,0,,{\pos(744.783,814.341)}"That was awesome."
+Dialogue: 0,0:15:11.22,0:15:14.44,hamada,,0,0,0,,How dare you hide behind there and laugh hysterically.
+Dialogue: 0,0:15:16.88,0:15:18.24,hamada,,0,0,0,,That shook my head.
+Dialogue: 0,0:15:18.24,0:15:19.74,endo,,0,0,0,,I'm so sorry.
+Dialogue: 0,0:15:19.82,0:15:24.48,hamada,,0,0,0,,I'm mature enough to keep my composure in front of the camera.
+Dialogue: 0,0:15:22.55,0:15:25.86,endo,,0,0,0,,{\pos(730.667,754.637)}Wait, you'd be pissed if there were no cameras?
+Dialogue: 0,0:15:26.70,0:15:31.30,hamada,,0,0,0,,What would the viewers think if I got seriously pissed off?
+Dialogue: 0,0:15:33.45,0:15:38.18,Default,,0,0,0,,Next up, Tanaka chooses an electric toothbrush.
+Dialogue: 0,0:15:38.66,0:15:39.26,hosei,,0,0,0,,Electric brush?
+Dialogue: 0,0:15:39.26,0:15:42.14,hamada,,0,0,0,,Electric or not, he'll like it.
+Dialogue: 0,0:15:41.06,0:15:42.14,tanaka,,0,0,0,,He'll like it, right?
+Dialogue: 0,0:15:42.14,0:15:43.90,hamada,,0,0,0,,Who doesn't like brushing his teeth?
+Dialogue: 0,0:15:58.08,0:15:59.50,tanaka,,0,0,0,,Come on!
+Dialogue: 0,0:16:00.14,0:16:00.96,tanaka,,0,0,0,,Get it!
+Dialogue: 0,0:16:02.38,0:16:03.88,tanaka,,0,0,0,,Yes, it's electric.
+Dialogue: 0,0:16:05.16,0:16:06.44,tanaka,,0,0,0,,Just scoot it in.
+Dialogue: 0,0:16:06.44,0:16:08.08,tanaka,,0,0,0,,Bring it home.
+Dialogue: 0,0:16:08.08,0:16:10.08,tanaka,,0,0,0,,Just take that with you.
+Dialogue: 0,0:16:10.08,0:16:11.42,tanaka,,0,0,0,,Drag it in.
+Dialogue: 0,0:16:12.22,0:16:13.16,tanaka,,0,0,0,,It's electric.
+Dialogue: 0,0:16:14.92,0:16:16.96,hamada,,0,0,0,,Hurry the hell up!
+Dialogue: 0,0:16:16.96,0:16:18.20,hosei,,0,0,0,,Don't discourage him!
+Dialogue: 0,0:16:18.20,0:16:20.20,endo,,0,0,0,,Hamada-san!
+Dialogue: 0,0:16:21.40,0:16:24.28,tanaka,,0,0,0,,You knew he'd retract once you hit him!?
+Dialogue: 0,0:16:24.28,0:16:26.24,hamada,,0,0,0,,We don't have all day here.
+Dialogue: 0,0:16:26.60,0:16:28.54,tanaka,,0,0,0,,But he went away because you hit him!
+Dialogue: 0,0:16:28.54,0:16:30.88,hamada,,0,0,0,,Maybe he just didn't want it.
+Dialogue: 0,0:16:30.88,0:16:33.08,endo,,0,0,0,,Right, he didn't like it from the get go.
+Dialogue: 0,0:16:33.08,0:16:33.96,hamada,,0,0,0,,I agree!
+Dialogue: 0,0:16:33.96,0:16:36.44,tanaka,,0,0,0,,Well, can we ask him why he left?
+Dialogue: 0,0:16:36.44,0:16:38.72,tanaka,,0,0,0,,Could you tell us why?
+Dialogue: 0,0:16:38.92,0:16:42.90,matsumoto,,0,0,0,,Because I was physically violated.
+Dialogue: 0,0:16:42.10,0:16:44.56,hosei,,0,0,0,,Hamada-san...
+Dialogue: 0,0:16:42.90,0:16:44.56,endo,,0,0,0,,So it was Hamada-san...
+Dialogue: 0,0:16:44.56,0:16:47.70,hamada,,0,0,0,,It makes no sense!
+Dialogue: 0,0:16:46.54,0:16:47.70,tanaka,,0,0,0,,Otherwise, he would have taken it.
+Dialogue: 0,0:16:47.70,0:16:48.58,hosei,,0,0,0,,And here come the slap.
+Dialogue: 0,0:16:48.70,0:16:51.38,matsumoto,,0,0,0,,Hamada slaps Tanaka.
+Dialogue: 0,0:16:51.74,0:16:53.26,hamada,,0,0,0,,Let's make it quick.
+Dialogue: 0,0:16:53.26,0:16:54.00,tanaka,,0,0,0,,Go easy on me.
+Dialogue: 0,0:16:54.00,0:16:56.00,hamada,,0,0,0,,Don't worry, I'll go easy.
+Dialogue: 0,0:16:56.10,0:16:57.70,matsumoto,,0,0,0,,{\clip(444,976,661.5,1080)}Slap him using bad aim.
+Dialogue: 0,0:16:57.70,0:17:01.82,matsumoto,,0,0,0,,Slap him using bad aim.
+Dialogue: 0,0:17:01.82,0:17:02.80,tanaka,,0,0,0,,Bad aim?
+Dialogue: 0,0:17:02.80,0:17:03.78,hosei,,0,0,0,,Not good.
+Dialogue: 0,0:17:04.50,0:17:05.90,hosei,,0,0,0,,So not directly on the cheek?
+Dialogue: 0,0:17:06.44,0:17:07.34,endo,,0,0,0,,He could get hurt.
+Dialogue: 0,0:17:07.82,0:17:08.84,tanaka,,0,0,0,,So hit me over here?
+Dialogue: 0,0:17:09.26,0:17:11.50,tanaka,,0,0,0,,Like towards the back of my head and stuff?
+Dialogue: 0,0:17:12.72,0:17:15.22,hamada,,0,0,0,,What if I just graze your face?
+Dialogue: 0,0:17:15.30,0:17:17.22,hamada,,0,0,0,,That's bad aim.
+Dialogue: 0,0:17:17.22,0:17:18.58,hamada,,0,0,0,,It'll hurt either way.
+Dialogue: 0,0:17:18.58,0:17:19.98,tanaka,,0,0,0,,So that's how it is.
+Dialogue: 0,0:17:19.98,0:17:23.61,tanaka,,0,0,0,,He's looking.
+Dialogue: 0,0:17:21.78,0:17:23.61,endo,,0,0,0,,{\pos(720,880)}He gets shy once we look at him though.
+Dialogue: 0,0:17:23.61,0:17:24.54,hamada,,0,0,0,,Ready?
+Dialogue: 0,0:17:28.92,0:17:31.42,endo,,0,0,0,,That's the painful type.
+Dialogue: 0,0:17:33.82,0:17:35.04,hamada,,0,0,0,,What do you want from me?!
+Dialogue: 0,0:17:35.05,0:17:37.05,hamada,,0,0,0,,That's what I was told to do!
+Dialogue: 0,0:17:37.05,0:17:38.20,hosei,,0,0,0,,You did that perfectly.
+Dialogue: 0,0:17:38.20,0:17:39.54,hamada,,0,0,0,,Right!
+Dialogue: 0,0:17:39.54,0:17:40.86,hosei,,0,0,0,,It was a badly aimed face slap.
+Dialogue: 0,0:17:41.62,0:17:42.26,hamada,,0,0,0,,Your turn, Yama-chan.
+Dialogue: 0,0:17:42.26,0:17:45.92,hosei,,0,0,0,,Can I choose pork buns?
+Dialogue: 0,0:17:44.32,0:17:45.90,endo,,0,0,0,,{\pos(720,880)}No, I don't think so.
+Dialogue: 0,0:17:45.90,0:17:47.04,hosei,,0,0,0,,Why not?!
+Dialogue: 0,0:17:47.04,0:17:49.66,hosei,,0,0,0,,It's my turn, and I get to choose!
+Dialogue: 0,0:17:49.66,0:17:51.60,endo,,0,0,0,,You can't offer him that.
+Dialogue: 0,0:17:51.60,0:17:53.82,hosei,,0,0,0,,Nonsense! This is a game!
+Dialogue: 0,0:17:53.82,0:17:55.82,endo,,0,0,0,,Of course, he'll like this.
+Dialogue: 0,0:17:55.82,0:17:58.45,hosei,,0,0,0,,Well, there's no guarantee.
+Dialogue: 0,0:17:57.15,0:17:58.45,hamada,,0,0,0,,He can choose what he wants.
+Dialogue: 0,0:17:58.45,0:17:58.88,hosei,,0,0,0,,Thank you.
+Dialogue: 0,0:17:59.22,0:18:03.50,Default,,0,0,0,,How about the pork bun loved by all Osaka people?
+Dialogue: 0,0:18:03.50,0:18:05.58,hosei,,0,0,0,,Here they are.
+Dialogue: 0,0:18:10.48,0:18:11.90,matsumoto,,0,0,0,,Pork buns...
+Dialogue: 0,0:18:12.08,0:18:13.30,hamada,,0,0,0,,He can talk now?!
+Dialogue: 0,0:18:13.30,0:18:14.42,hosei,,0,0,0,,I did it!
+Dialogue: 0,0:18:14.42,0:18:15.40,endo,,0,0,0,,He definitely likes them!
+Dialogue: 0,0:18:15.40,0:18:17.02,hamada,,0,0,0,,He even said "pork buns".
+Dialogue: 0,0:18:17.02,0:18:18.84,tanaka,,0,0,0,,He'll definitely take it.
+Dialogue: 0,0:18:19.62,0:18:21.04,hosei,,0,0,0,,Looking good.
+Dialogue: 0,0:18:21.04,0:18:22.38,endo,,0,0,0,,He opened it!
+Dialogue: 0,0:18:23.64,0:18:25.50,matsumoto,,0,0,0,,{\clip(421.5,972,783,1080)}I don't want this right now.
+Dialogue: 0,0:18:25.50,0:18:27.10,matsumoto,,0,0,0,,I don't want this right now.
+Dialogue: 0,0:18:27.10,0:18:29.06,hamada,,0,0,0,,He can talk now.
+Dialogue: 0,0:18:31.52,0:18:34.49,hamada,,0,0,0,,See?\NHe doesn't want this right now.
+Dialogue: 0,0:18:34.50,0:18:37.76,matsumoto,,0,0,0,,From Hamada...
+Dialogue: 0,0:18:37.76,0:18:38.96,hosei,,0,0,0,,No way...
+Dialogue: 0,0:18:39.72,0:18:42.94,hosei,,0,0,0,,This is so rigged!
+Dialogue: 0,0:18:43.26,0:18:45.72,hamada,,0,0,0,,What?\NI got slapped too!!
+Dialogue: 0,0:18:45.72,0:18:49.42,hosei,,0,0,0,,He seems to have changed the rules of the game.
+Dialogue: 0,0:18:50.40,0:18:54.04,hamada,,0,0,0,,He didn't say what I'm supposed to do to you.
+Dialogue: 0,0:18:55.84,0:18:58.08,matsumoto,,0,0,0,,{\clip(418.5,978,759,1080)}Hamada will do a front kick.
+Dialogue: 0,0:18:58.08,0:19:01.10,matsumoto,,0,0,0,,Hamada will do a front kick.
+Dialogue: 0,0:19:04.10,0:19:06.80,hosei,,0,0,0,,Wait, this show took a weird turn just now.
+Dialogue: 0,0:19:05.76,0:19:06.78,endo,,0,0,0,,Agreed.
+Dialogue: 0,0:19:06.92,0:19:08.16,hosei,,0,0,0,,What happened?
+Dialogue: 0,0:19:08.34,0:19:09.98,endo,,0,0,0,,It didn't start this way...
+Dialogue: 0,0:19:09.98,0:19:11.32,hosei,,0,0,0,,Why a kick?
+Dialogue: 0,0:19:11.32,0:19:13.32,endo,,0,0,0,,Why should we even participate?
+Dialogue: 0,0:19:13.40,0:19:16.30,endo,,0,0,0,,Seriously, why are we putting ourselves through this?
+Dialogue: 0,0:19:17.85,0:19:20.70,hamada,,0,0,0,,He won't miss this...
+Dialogue: 0,0:19:20.70,0:19:23.12,hamada,,0,0,0,,Isn't the way he hides so annoying?
+Dialogue: 0,0:19:23.36,0:19:24.83,hosei,,0,0,0,,I'm terrified.
+Dialogue: 0,0:19:24.83,0:19:26.14,hosei,,0,0,0,,A frontal kick sounds...
+Dialogue: 0,0:19:26.14,0:19:27.94,hosei,,0,0,0,,...it sounds scary!
+Dialogue: 0,0:19:27.94,0:19:28.92,hosei,,0,0,0,,Seriously...
+Dialogue: 0,0:19:29.20,0:19:30.28,hamada,,0,0,0,,Ready?
+Dialogue: 0,0:19:37.80,0:19:40.60,matsumoto,,0,0,0,,Stomp on his leg.
+Dialogue: 0,0:19:39.30,0:19:40.60,endo,,0,0,0,,Stomp on his leg?
+Dialogue: 0,0:19:40.60,0:19:42.30,hosei,,0,0,0,,No, no, no, no!
+Dialogue: 0,0:19:44.96,0:19:47.80,hosei,,0,0,0,,Ouch, ouch, ouch!
+Dialogue: 0,0:19:49.90,0:19:50.84,endo,,0,0,0,,He's looking!
+Dialogue: 0,0:19:50.84,0:19:52.00,endo,,0,0,0,,He did!
+Dialogue: 0,0:19:52.66,0:19:56.24,matsumoto,,0,0,0,,That's good.
+Dialogue: 0,0:19:56.24,0:19:57.70,matsumoto,,0,0,0,,That's good.
+Dialogue: 0,0:19:58.36,0:19:59.54,hamada,,0,0,0,,I'm done with this...
+Dialogue: 0,0:19:59.54,0:20:01.48,tanaka,,0,0,0,,I don't want to play anymore...
+Dialogue: 0,0:20:01.80,0:20:07.94,Default,,0,0,0,,A surprise ending in the final attack!
+Dialogue: 0,0:20:08.70,0:20:09.92,hamada,,0,0,0,,Let's do the last item.
+Dialogue: 0,0:20:10.38,0:20:11.40,hosei,,0,0,0,,OK.
+Dialogue: 0,0:20:11.40,0:20:13.00,hosei,,0,0,0,,Well...
+Dialogue: 0,0:20:14.10,0:20:15.60,hosei,,0,0,0,,This is perfect, right?
+Dialogue: 0,0:20:15.60,0:20:16.96,endo,,0,0,0,,Ultra-man figurine collection.
+Dialogue: 0,0:20:17.10,0:20:18.02,hamada,,0,0,0,,Let's do this.
+Dialogue: 0,0:20:18.74,0:20:19.70,hamada,,0,0,0,,This is good.
+Dialogue: 0,0:20:19.70,0:20:23.04,endo,,0,0,0,,As long as he uses his preference to judge this.
+Dialogue: 0,0:20:23.04,0:20:25.70,hamada,,0,0,0,,Look, he's not even hiding anymore.
+Dialogue: 0,0:20:25.88,0:20:27.46,endo,,0,0,0,,Please, take a good look.
+Dialogue: 0,0:20:27.46,0:20:29.46,hosei,,0,0,0,,Tell us whether you like this or not.
+Dialogue: 0,0:20:29.46,0:20:31.46,hamada,,0,0,0,,We got the full set.
+Dialogue: 0,0:20:31.52,0:20:32.64,endo,,0,0,0,,I think...
+Dialogue: 0,0:20:32.64,0:20:34.30,endo,,0,0,0,,I think we got him with these.
+Dialogue: 0,0:20:39.04,0:20:41.08,matsumoto,,0,0,0,,Well...
+Dialogue: 0,0:20:41.34,0:20:44.66,endo,,0,0,0,,{\pos(385,430)}I can see his elbows now.
+Dialogue: 0,0:20:44.78,0:20:47.70,matsumoto,,0,0,0,,I'm not a fan after this generation...
+Dialogue: 0,0:20:47.70,0:20:49.40,hamada,,0,0,0,,I understand but...
+Dialogue: 0,0:20:49.46,0:20:54.10,matsumoto,,0,0,0,,I'm only know the ones up to this point...
+Dialogue: 0,0:20:54.14,0:20:56.14,hamada,,0,0,0,,But here are Ace and Seven...
+Dialogue: 0,0:20:56.14,0:21:01.16,matsumoto,,0,0,0,,I didn't watch much of the Ace series...
+Dialogue: 0,0:21:02.00,0:21:03.52,hosei,,0,0,0,,I've got a good feeling...
+Dialogue: 0,0:21:04.42,0:21:05.72,endo,,0,0,0,,He'll accept these!
+Dialogue: 0,0:21:06.24,0:21:07.58,hosei,,0,0,0,,What's up with him now?
+Dialogue: 0,0:21:11.64,0:21:14.06,endo,,0,0,0,,OK, he's swimming...
+Dialogue: 0,0:21:17.64,0:21:21.24,matsumoto,,0,0,0,,Maybe the Ultra-man Seven?
+Dialogue: 0,0:21:23.10,0:21:25.36,endo,,0,0,0,,Well, he grabbed the Seven...
+Dialogue: 0,0:21:25.37,0:21:28.12,hamada,,0,0,0,,OK, got him, let's go home.
+Dialogue: 0,0:21:26.01,0:21:27.08,endo,,0,0,0,,{\pos(720,880)}He likes it then.
+Dialogue: 0,0:21:27.08,0:21:28.12,hosei,,0,0,0,,{\pos(720,880)}We're done.
+Dialogue: 0,0:21:28.12,0:21:29.18,hosei,,0,0,0,,Let's go home.
+Dialogue: 0,0:21:29.18,0:21:30.14,endo,,0,0,0,,He liked it.
+Dialogue: 0,0:21:30.44,0:21:32.90,matsumoto,,0,0,0,,Wait a sec...
+Dialogue: 0,0:21:34.70,0:21:38.18,matsumoto,,0,0,0,,There's a little more left...
+Dialogue: 0,0:21:39.40,0:21:42.84,matsumoto,,0,0,0,,See you next week!!!
+Dialogue: 0,0:21:43.12,0:21:44.55,hamada,,0,0,0,,What's he saying?
+Dialogue: 0,0:21:44.56,0:21:48.21,matsumoto,,0,0,0,,Same time, same place next week!!!
+Dialogue: 0,0:21:48.22,0:21:49.66,hamada,,0,0,0,,Let's end this.
+Dialogue: 0,0:21:50.45,0:21:53.10,matsumoto,,0,0,0,,I'm not kidding!!!
+Dialogue: 0,0:21:58.12,0:21:59.50,matsumoto,,0,0,0,,Has your physical endurance gone down?
+Dialogue: 0,0:22:00.30,0:22:03.28,hosei,,0,0,0,,Endurance... Yeah, it's gone completely down.
+Dialogue: 0,0:22:03.28,0:22:05.00,matsumoto,,0,0,0,,Oh, but Endo's hasn't, right?
+Dialogue: 0,0:22:05.00,0:22:08.59,endo,,0,0,0,,Has it gone down? Well, normally...
+Dialogue: 0,0:22:08.59,0:22:10.94,endo,,0,0,0,,So let's say running a 100 meter sprint...
+Dialogue: 0,0:22:10.94,0:22:12.84,endo,,0,0,0,,...my recovery has really...
+Dialogue: 0,0:22:12.84,0:22:15.94,hosei,,0,0,0,,Speaking honestly here, Matsumoto-san,
+Dialogue: 0,0:22:15.94,0:22:18.94,hosei,,0,0,0,,If I ran 100 meters with everything I got, I'll seriously vomit.
+Dialogue: 0,0:22:19.24,0:22:20.94,matsumoto,,0,0,0,,No, I don't think so, I wouldn't vomit.
+Dialogue: 0,0:22:21.42,0:22:24.22,hosei,,0,0,0,,Really? I would vomit. A long time ago...
+Dialogue: 0,0:22:24.22,0:22:27.42,matsumoto,,0,0,0,,Actually, to tell the truth, I haven't vomited that much in my life.
+Dialogue: 0,0:22:28.74,0:22:30.54,matsumoto,,0,0,0,,Oh wait, no, I have. Never mind.
+Dialogue: 0,0:22:32.90,0:22:34.56,hosei,,0,0,0,,Right?
+Dialogue: 0,0:22:33.60,0:22:35.70,matsumoto,,0,0,0,,I've thrown up a lot.
+Dialogue: 0,0:22:34.56,0:22:36.92,hosei,,0,0,0,,Why would you lie about something so dumb?
+Dialogue: 0,0:22:36.92,0:22:39.22,matsumoto,,0,0,0,,I thought, "I have to show off."
+Dialogue: 0,0:22:40.88,0:22:43.54,matsumoto,,0,0,0,,"Can't miss his chance to show off!" is what I thought.
+Dialogue: 0,0:22:43.54,0:22:46.34,matsumoto,,0,0,0,,I've thrown up a lot. I've thrown up from motion sickness a lot.
+Dialogue: 0,0:22:47.76,0:22:50.12,hosei,,0,0,0,,Motion sickness?
+Dialogue: 0,0:22:50.12,0:22:52.12,matsumoto,,0,0,0,,I've thrown up as much as the Merlion.
+Dialogue: 0,0:22:50.12,0:22:52.12,t/n,,0,0,0,,T/N: He's referring to the famous Merlion fountain in Singapore that shoots water out of its mouth.
+Dialogue: 0,0:22:55.68,0:22:58.66,matsumoto,,0,0,0,,First of all, diarrhea... You get diarrhea a lot, don't you?
+Dialogue: 0,0:22:58.66,0:23:00.48,matsumoto,,0,0,0,,I don't even understand the meaning of diarrhea.
+Dialogue: 0,0:23:00.48,0:23:03.00,hosei,,0,0,0,,So my answer would be...
+Dialogue: 0,0:23:01.48,0:23:03.00,matsumoto,,0,0,0,,You're a defective product.
+Dialogue: 0,0:23:03.00,0:23:07.28,matsumoto,,0,0,0,,If we were in a factory, getting ready for shipment, you'd be removed!
+Dialogue: 0,0:23:07.28,0:23:09.88,matsumoto,,0,0,0,,They'd look at you and take you aside.
+Dialogue: 0,0:23:10.20,0:23:11.88,matsumoto,,0,0,0,,In a really nasty box.
+Dialogue: 0,0:23:11.88,0:23:13.38,hosei,,0,0,0,,That's enough!
+Dialogue: 0,0:23:15.22,0:23:18.18,hosei,,0,0,0,,My answer would be, I'm not backed up.
+Dialogue: 0,0:23:18.18,0:23:20.34,endo,,0,0,0,,Well, constipation isn't good...
+Dialogue: 0,0:23:20.34,0:23:23.86,hosei,,0,0,0,,Everything comes out of me so my insides are clean.
+Dialogue: 0,0:23:24.38,0:23:27.68,matsumoto,,0,0,0,,But as a living organism, you're a ***.
+Dialogue: 0,0:23:28.82,0:23:31.10,endo,,0,0,0,,As a living organism, ***...
+Dialogue: 0,0:23:31.10,0:23:37.24,matsumoto,,0,0,0,,Diarrhea, people who get stomach aches, people who can't eat hot foods, I hate them.
+Dialogue: 0,0:23:37.24,0:23:39.66,matsumoto,,0,0,0,,"I can't eat foods that are too hot!"
+Dialogue: 0,0:23:39.66,0:23:41.66,matsumoto,,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:23:41.66,0:23:44.64,matsumoto,,0,0,0,,There are so many foods that are so good when served hot.
+Dialogue: 0,0:23:44.64,0:23:49.30,matsumoto,,0,0,0,,"I can't eat it because it's too hot" really pisses me off!
+Dialogue: 0,0:23:49.30,0:23:52.60,hosei,,0,0,0,,Well, if I can say something, I'm very delicate.
+Dialogue: 0,0:23:52.60,0:23:54.68,hosei,,0,0,0,,I'm a sensitive living being.
+Dialogue: 0,0:23:57.42,0:23:59.70,endo,,0,0,0,,Sensitive living being... What do you mean?
+Dialogue: 0,0:24:00.56,0:24:03.40,hosei,,0,0,0,,Uh... Who is the senpai and kohai here?
+Dialogue: 0,0:24:00.56,0:24:03.40,t/n,,0,0,0,,T/N: Senpai is someone who is older or more experienced so they should be treated with respect by their kohai who are younger or less experienced.
+

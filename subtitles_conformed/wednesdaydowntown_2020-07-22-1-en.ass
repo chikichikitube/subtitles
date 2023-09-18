@@ -1,0 +1,1647 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2020-07-22) (Raw) - 2HSP.mp4
+Video File: WDT (2020-07-22) (Raw) - 2HSP.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.625000
+Scroll Position: 1566
+Active Line: 1592
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: watermark,Arial,95,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,60,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,100,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,60,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,100,0,0,1,3,1,7,10,10,95,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: note_Wed - Mid,Arial,60,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,100,0,0,1,3,1,8,10,10,10,1
+Style: Lyrics,Arial,70,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,100,0,0,1,3,1.5,2,200,200,5,1
+Style: 推特文字,Arial,70,&H00000000,&H0000E1FA,&HFF464548,&HFF000000,0,0,0,0,100,100,0,0,1,3,0,4,0,0,0,1
+Style: item,Arial,45,&H00010101,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,4,10,10,0,1
+Style: 大字,Arial,80,&H00FFFFF7,&H0000E1FA,&H000C0BF3,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_1_2,Arial,70,&H00E9F4FE,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,3,3,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.80,0:00:06.68,normal_Wed,,0,0,0,,Welcome to a 2-hour episode of Wednesday Downtown
+Dialogue: 0,0:00:06.68,0:00:07.89,normal_Wed,,0,0,0,,Thanks!
+Dialogue: 0,0:00:08.51,0:00:09.66,normal_Wed,,0,0,0,,It's a special episode
+Dialogue: 0,0:00:09.86,0:00:12.43,normal_Wed,,0,0,0,,Let's welcome our first presenter
+Dialogue: 0,0:00:15.44,0:00:16.64,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:18.96,0:00:22.56,normal_Wed,,0,0,0,,It's Milk Boy!
+Dialogue: 0,0:00:23.16,0:00:26.12,normal_Wed,,0,0,0,,Hello everyone, we are the Milk Boys
+Dialogue: 0,0:00:27.06,0:00:29.44,normal_Wed,,0,0,0,,You're just doing the opening of your manzai!
+Dialogue: 0,0:00:29.44,0:00:31.79,normal_Wed,,0,0,0,,Thank you very much
+Dialogue: 0,0:00:31.79,0:00:36.35,normal_Wed,,0,0,0,,Now picking up the film wrapped around the outside of the crab stick
+Dialogue: 0,0:00:36.35,0:00:38.05,normal_Wed,,0,0,0,,What the hell? \N -Thank you very much
+Dialogue: 0,0:00:38.05,0:00:40.25,normal_Wed,,0,0,0,,No amount of this stuff is too much
+Dialogue: 0,0:00:41.17,0:00:42.48,normal_Wed,,0,0,0,,The film? \N -Yes, film
+Dialogue: 0,0:00:42.48,0:00:44.64,normal_Wed,,0,0,0,,Although very sudden
+Dialogue: 0,0:00:44.64,0:00:52.14,normal_Wed,,0,0,0,,What is posted on SNS will be written as network news at least once
+Dialogue: 0,0:00:52.14,0:00:57.24,normal_Wed,,0,0,0,,Even if things are trivial, they will become network news
+Dialogue: 0,0:00:57.24,0:00:59.48,normal_Wed,,0,0,0,,You made a weird "nyu" sound
+Dialogue: 0,0:00:59.48,0:01:01.52,normal_Wed,,0,0,0,,You have to understand a little bit I am nervous
+Dialogue: 0,0:01:02.32,0:01:04.07,normal_Wed,,0,0,0,,Don't make things too tense
+Dialogue: 0,0:01:04.79,0:01:06.97,normal_Wed,,0,0,0,,There's still something down there
+Dialogue: 0,0:01:06.97,0:01:09.73,normal_Wed,,0,0,0,,Thank you very much
+Dialogue: 0,0:01:09.73,0:01:13.23,normal_Wed,,0,0,0,,Now picking up soggy algae
+Dialogue: 0,0:01:13.80,0:01:16.71,normal_Wed,,0,0,0,,Thank you very much, there isn't much of this type of stuff
+Dialogue: 0,0:01:16.71,0:01:18.12,normal_Wed,,0,0,0,,Thank you very much
+Dialogue: 0,0:01:18.12,0:01:19.87,normal_Wed,,0,0,0,,I can't not pretend something is happening coming here
+Dialogue: 0,0:01:21.64,0:01:24.82,normal_Wed,,0,0,0,,So, we bring you a project about network news
+Dialogue: 0,0:01:24.82,0:01:25.76,normal_Wed,,0,0,0,,It is this:
+Dialogue: 0,0:01:26.26,0:01:29.72,normal_Wed,,0,0,0,,Can't go home until being talked about on network news
+Dialogue: 0,0:01:31.83,0:01:33.37,normal_Wed,,0,0,0,,Sounds tough
+Dialogue: 0,0:01:33.37,0:01:34.04,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:01:34.04,0:01:34.88,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:01:34.88,0:01:38.59,normal_Wed,,0,0,0,,This involves deliberately doing something to make the news
+Dialogue: 0,0:01:38.59,0:01:42.93,normal_Wed,,0,0,0,,And they can't go home until they achieve it
+Dialogue: 0,0:01:44.23,0:01:46.25,normal_Wed,,0,0,0,,Intentionally difficult
+Dialogue: 0,0:01:46.43,0:01:49.10,normal_Wed,,0,0,0,,Yuuki can go home right away then
+Dialogue: 0,0:01:46.43,0:01:49.10,note_Wed,,0,0,0,,{\blur4}※He got in trouble for a cheating scandal
+Dialogue: 0,0:01:49.10,0:01:50.42,normal_Wed,,0,0,0,,Can go home immediately
+Dialogue: 0,0:01:50.42,0:01:52.24,normal_Wed,,0,0,0,,Words will also become network news
+Dialogue: 0,0:01:53.25,0:01:54.48,normal_Wed,,0,0,0,,Every time you say something, it turns into news
+Dialogue: 0,0:01:55.22,0:01:57.98,normal_Wed,,0,0,0,,So, posting on social media
+Dialogue: 0,0:01:58.21,0:02:00.72,normal_Wed,,0,0,0,,They can't ho home until they get on network news
+Dialogue: 0,0:02:01.32,0:02:02.52,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:02:02.52,0:02:05.52,normal_Wed,,0,0,0,,Entertainer, athlete and historical rankings
+Dialogue: 0,0:02:05.52,0:02:08.48,normal_Wed,,0,0,0,,A ranking of the popularity of Japanese people in the past and present
+Dialogue: 0,0:02:09.04,0:02:12.99,normal_Wed,,0,0,0,,And Dancho vs. Kasuga patience challenge
+Dialogue: 0,0:02:57.85,0:03:00.95,normal_Wed,,0,0,0,,You can't go back without being listed in the network news
+Dialogue: 0,0:03:04.51,0:03:05.59,wipe_Wed,,0,0,0,,Everyone is very happy!
+Dialogue: 0,0:03:05.59,0:03:06.97,wipe_Wed,,0,0,0,,People who can easily be covered
+Dialogue: 0,0:03:06.97,0:03:09.31,wipe_Wed,,0,0,0,,Indeed easy to be in the news
+Dialogue: 0,0:03:07.50,0:03:14.84,normal_Wed,,0,0,0,,The above members are a collection of people with different likelihoods of being on the news
+Dialogue: 0,0:03:14.84,0:03:16.47,wipe_Wed,,0,0,0,,Good selection
+Dialogue: 0,0:03:16.25,0:03:18.19,normal_Wed,,0,0,0,,I'm on a hot streak
+Dialogue: 0,0:03:18.19,0:03:20.79,normal_Wed,,0,0,0,,I can be on the news
+Dialogue: 0,0:03:19.92,0:03:20.92,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:03:20.92,0:03:23.82,normal_Wed,,0,0,0,,I put my feet like this and lie down
+Dialogue: 0,0:03:23.82,0:03:26.43,normal_Wed,,0,0,0,,I just say hello and i'm on the news, it's over, I can go back immediately
+Dialogue: 0,0:03:26.43,0:03:28.56,normal_Wed,,0,0,0,,Bye-bye
+Dialogue: 0,0:03:28.56,0:03:29.40,normal_Wed,,0,0,0,,Big star!
+Dialogue: 0,0:03:29.40,0:03:31.97,normal_Wed,,0,0,0,,For today
+Dialogue: 0,0:03:31.97,0:03:33.81,normal_Wed,,0,0,0,,There's 3 strong 2 weak
+Dialogue: 0,0:03:36.10,0:03:37.24,normal_Wed,,0,0,0,,No problem, right?
+Dialogue: 0,0:03:35.29,0:03:36.60,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:03:37.47,0:03:39.17,normal_Wed,,0,0,0,,It's okay!
+Dialogue: 0,0:03:40.64,0:03:42.54,normal_Wed,,0,0,0,,How can such people get on the news?
+Dialogue: 0,0:03:43.52,0:03:46.15,normal_Wed,,0,0,0,,And so, the challenge begins
+Dialogue: 0,0:03:46.95,0:03:48.01,normal_Wed,,0,0,0,,First
+Dialogue: 0,0:03:48.01,0:03:50.98,normal_Wed,,0,0,0,,Is it okay to just tweet as usual?
+Dialogue: 0,0:03:48.57,0:03:50.32,wipe_Wed,,0,0,0,,Straight away
+Dialogue: 0,0:03:50.32,0:03:51.93,wipe_Wed,,0,0,0,,Kuro-chan is impressive
+Dialogue: 0,0:03:50.98,0:03:52.65,normal_Wed,,0,0,0,,Can you tell us what content you are posting?
+Dialogue: 0,0:03:52.65,0:03:54.29,normal_Wed,,0,0,0,,Can I send "Michopa~" now?
+Dialogue: 0,0:03:54.49,0:03:57.22,normal_Wed,,0,0,0,,Eh, "Michopa~" will make the internet news?
+Dialogue: 0,0:03:57.22,0:03:58.69,normal_Wed,,0,0,0,,Sometimes
+Dialogue: 0,0:03:58.91,0:04:00.32,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:03:58.93,0:04:01.63,normal_Wed,,0,0,0,,"Michopa will hate it, don't do it" or something like that
+Dialogue: 0,0:04:01.80,0:04:03.40,normal_Wed,,0,0,0,,Michopa~
+Dialogue: 0,0:04:02.61,0:04:04.39,wipe_Wed,,0,0,0,,Should work
+Dialogue: 0,0:04:05.02,0:04:08.14,normal_Wed,,0,0,0,,Known for his cumbersome operation, Kuro-chan
+Dialogue: 0,0:04:08.14,0:04:13.99,normal_Wed,,0,0,0,,Immediately, he sends a disgusting filtered photo
+Dialogue: 0,0:04:13.99,0:04:16.35,wipe_Wed,,0,0,0,,That's weird. Will that work?
+Dialogue: 0,0:04:15.22,0:04:16.79,normal_Wed,,0,0,0,,Can we go to TBS first?
+Dialogue: 0,0:04:16.79,0:04:17.98,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:04:17.98,0:04:19.41,normal_Wed,,0,0,0,,Want to see who is in today
+Dialogue: 0,0:04:19.51,0:04:23.72,normal_Wed,,0,0,0,,After I combine with other artists, it'll be easier
+Dialogue: 0,0:04:23.72,0:04:26.05,normal_Wed,,0,0,0,,When standing on Kamaitachi before
+Dialogue: 0,0:04:26.05,0:04:27.82,normal_Wed,,0,0,0,,You could see my underwear
+Dialogue: 0,0:04:27.82,0:04:30.09,normal_Wed,,0,0,0,,That became network news
+Dialogue: 0,0:04:31.52,0:04:33.13,normal_Wed,,0,0,0,,"SUNDAY JAPON"
+Dialogue: 0,0:04:33.13,0:04:35.50,normal_Wed,,0,0,0,,Some others
+Dialogue: 0,0:04:36.53,0:04:37.80,normal_Wed,,0,0,0,,Wada is here now!
+Dialogue: 0,0:04:37.93,0:04:40.90,normal_Wed,,0,0,0,,Great! If you take a selfie with Wada it will be 100% popular!
+Dialogue: 0,0:04:40.90,0:04:42.40,normal_Wed,,0,0,0,,That quick?
+Dialogue: 0,0:04:40.63,0:04:42.75,wipe_Wed,,0,0,0,,This person is really... \N-Not respectful
+Dialogue: 0,0:04:42.40,0:04:43.80,normal_Wed,,0,0,0,,Definitely will make the news
+Dialogue: 0,0:04:43.80,0:04:45.11,normal_Wed,,0,0,0,,There is no appointment for anything!
+Dialogue: 0,0:04:45.24,0:04:48.51,normal_Wed,,0,0,0,,It's fine, Sanma and Takeshi Kitano,i've taken pictures with all of them with this thing
+Dialogue: 0,0:04:50.96,0:04:52.93,wipe_Wed,,0,0,0,,She's messing around
+Dialogue: 0,0:04:51.85,0:04:54.18,normal_Wed,,0,0,0,,Ah!
+Dialogue: 0,0:04:55.55,0:04:57.11,wipe_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:04:54.63,0:04:55.68,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:04:55.68,0:04:57.68,normal_Wed,,0,0,0,,What's happening so early?
+Dialogue: 0,0:04:57.68,0:04:59.45,normal_Wed,,0,0,0,,Social distance, distance!
+Dialogue: 0,0:04:59.45,0:05:01.19,normal_Wed,,0,0,0,,Keep your distance!
+Dialogue: 0,0:05:01.19,0:05:03.26,normal_Wed,,0,0,0,,You're working really hard, so early
+Dialogue: 0,0:05:01.64,0:05:03.68,wipe_Wed,,0,0,0,,Yes, can't get too close
+Dialogue: 0,0:05:03.26,0:05:05.79,normal_Wed,,0,0,0,,So cute!
+Dialogue: 0,0:05:06.25,0:05:07.10,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:05:08.68,0:05:10.16,wipe_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:05:10.00,0:05:12.23,normal_Wed,,0,0,0,,Went to a meeting
+Dialogue: 0,0:05:12.23,0:05:13.74,normal_Wed,,0,0,0,,You're too scary
+Dialogue: 0,0:05:13.76,0:05:14.73,wipe_Wed,,0,0,0,,Couldn't get a photo
+Dialogue: 0,0:05:14.27,0:05:16.57,normal_Wed,,0,0,0,,Obviously wanted to take a group photo
+Dialogue: 0,0:05:16.87,0:05:17.90,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:05:17.90,0:05:18.67,normal_Wed,,0,0,0,,Wait wait
+Dialogue: 0,0:05:18.67,0:05:19.94,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:05:19.94,0:05:21.81,normal_Wed,,0,0,0,,I was followed by him now
+Dialogue: 0,0:05:22.83,0:05:23.58,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:05:23.58,0:05:27.38,normal_Wed,,0,0,0,,Eh, now he's my follower, so cute!
+Dialogue: 0,0:05:29.36,0:05:30.89,wipe_Wed,,0,0,0,,Never uses honorifics
+Dialogue: 0,0:05:31.15,0:05:33.82,normal_Wed,,0,0,0,,Having a meeting inside
+Dialogue: 0,0:05:33.82,0:05:34.85,normal_Wed,,0,0,0,,Have a look
+Dialogue: 0,0:05:33.93,0:05:35.24,wipe_Wed,,0,0,0,,So stalkerish
+Dialogue: 0,0:05:41.76,0:05:43.19,wipe_Wed,,0,0,0,,What's up?
+Dialogue: 0,0:05:45.77,0:05:47.77,normal_Wed,,0,0,0,,You'll be told off for this
+Dialogue: 0,0:05:47.98,0:05:51.10,normal_Wed,,0,0,0,,This kid is crazy
+Dialogue: 0,0:05:52.04,0:05:54.91,normal_Wed,,0,0,0,,This will make the news
+Dialogue: 0,0:05:53.62,0:05:56.74,wipe_Wed,,0,0,0,,Really knows what she's doing
+Dialogue: 0,0:05:55.11,0:05:59.05,normal_Wed,,0,0,0,,Now that Wada is following me, he'll definitely see this tweet
+Dialogue: 0,0:05:59.05,0:06:01.05,normal_Wed,,0,0,0,,You are so loud, seriously
+Dialogue: 0,0:06:01.31,0:06:05.59,normal_Wed,,0,0,0,,Before it becomes network news, I might get beaten up
+Dialogue: 0,0:06:06.06,0:06:06.72,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:06:07.39,0:06:10.52,normal_Wed,,0,0,0,,But wait, it's 9:00
+Dialogue: 0,0:06:10.52,0:06:12.23,normal_Wed,,0,0,0,,I have to go live
+Dialogue: 0,0:06:12.23,0:06:17.93,normal_Wed,,0,0,0,,There's a show with Ahn Mika and Chris Matsumura as MCs
+Dialogue: 0,0:06:17.93,0:06:19.60,normal_Wed,,0,0,0,,Wait, let's go over there
+Dialogue: 0,0:06:20.49,0:06:26.74,normal_Wed,,0,0,0,,So, Fuwa leaves the scene temporarily to go to a live broadcast
+Dialogue: 0,0:06:27.81,0:06:32.58,normal_Wed,,0,0,0,,First i'll look at the news
+Dialogue: 0,0:06:32.58,0:06:34.25,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:06:34.25,0:06:38.15,normal_Wed,,0,0,0,,If there is something I can copy, i'll copy it
+Dialogue: 0,0:06:38.45,0:06:42.76,normal_Wed,,0,0,0,,I'll send a tweet with something similar to become news
+Dialogue: 0,0:06:42.86,0:06:44.49,normal_Wed,,0,0,0,,Ah, Hiromi
+Dialogue: 0,0:06:45.36,0:06:48.91,normal_Wed,,0,0,0,,Hiromi claims to be a "Tokyo Disneyland virgin"
+Dialogue: 0,0:06:49.35,0:06:50.83,normal_Wed,,0,0,0,,Ah, Matsumoto Hitoshi
+Dialogue: 0,0:06:50.83,0:06:53.83,normal_Wed,,0,0,0,,Playing a smartphone game debut
+Dialogue: 0,0:06:54.23,0:06:56.34,normal_Wed,,0,0,0,,And that makes news?
+Dialogue: 0,0:06:57.17,0:06:58.57,normal_Wed,,0,0,0,,Ah!
+Dialogue: 0,0:06:58.57,0:07:01.84,normal_Wed,,0,0,0,,Takuya Kimura has failed to quit smoking
+Dialogue: 0,0:07:03.91,0:07:07.25,normal_Wed,,0,0,0,,Should I quit smoking?
+Dialogue: 0,0:07:07.78,0:07:09.28,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:07:09.28,0:07:11.75,normal_Wed,,0,0,0,,Okay, tweeted
+Dialogue: 2,0:07:11.75,0:07:19.56,推特文字,,0,0,0,,{\fs40\pos(129.667,430.666)}{\c&H464646&}At the age of 20, I started to smoke 2 packs of cigarettes a day \N\N decided to quit smoking \N\N This is the last one of my life
+Dialogue: 0,0:07:19.86,0:07:22.30,normal_Wed,,0,0,0,,Can this make the news?
+Dialogue: 0,0:07:22.65,0:07:23.70,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:07:27.57,0:07:29.44,normal_Wed,,0,0,0,,I have debt too
+Dialogue: 2,0:07:29.44,0:07:35.84,normal_Wed,,0,0,0,,I want to inform the public that i'm in debt for a used car
+Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{\\fs60\pos(870.667,586.666)}{\c&H464646&\b1}determined to inform in the crowd \N\N has a debt of about one used domestic car.
+Dialogue: 0,0:07:36.74,0:07:39.52,wipe_Wed,,0,0,0,,Seems likely
+Dialogue: 0,0:07:37.04,0:07:40.88,normal_Wed,,0,0,0,,Informed Twitter about quitting his smoking
+Dialogue: 0,0:07:40.88,0:07:43.12,normal_Wed,,0,0,0,,So, let's see what happens
+Dialogue: 0,0:07:43.52,0:07:46.48,normal_Wed,,0,0,0,,It'd be better to write the amount of debt
+Dialogue: 0,0:07:46.48,0:07:47.59,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:07:48.99,0:07:58.10,推特文字,,0,0,0,,{\fs55\pos(472,498)}{\fn碳纤维正粗黑简体\c&H040404&}Sari Kato said she left her daughter with \Nsomeone else and went on a one-night \Ntrip to a hot spring by herself, and was \N criticized for it
+Dialogue: 0,0:07:55.16,0:07:58.10,normal_Wed,,0,0,0,,There will be criticism today, too, it seems
+Dialogue: 0,0:07:58.40,0:08:00.77,normal_Wed,,0,0,0,,The makeup is too exaggerated
+Dialogue: 0,0:08:01.10,0:08:02.54,normal_Wed,,0,0,0,,By the way, recently
+Dialogue: 0,0:08:02.54,0:08:04.64,normal_Wed,,0,0,0,,What are the things about you that have become network news?
+Dialogue: 0,0:08:04.84,0:08:07.28,normal_Wed,,0,0,0,,I cooked muffins that looked like roasted mushrooms, or something like that
+Dialogue: 4,0:08:06.64,0:08:08.14,wipe_Wed,,0,0,0,,What's wrong with this person?
+Dialogue: 0,0:08:07.94,0:08:11.11,normal_Wed,,0,0,0,,"Roasted mushrooms" and so on became the internet news
+Dialogue: 4,0:08:12.00,0:08:14.33,normal_Wed,,0,0,0,,The place where Sari Kato goes is
+Dialogue: 4,0:08:15.54,0:08:20.34,normal_Wed,,0,0,0,,A 120 square meter photography studio
+Dialogue: 4,0:08:20.98,0:08:25.50,normal_Wed,,0,0,0,,The rent is up to 1,030,000 yen
+Dialogue: 4,0:08:26.43,0:08:29.26,normal_Wed,,0,0,0,,The studio was rented for a video shoot, right?
+Dialogue: 0,0:08:29.26,0:08:30.93,normal_Wed,,0,0,0,,That...
+Dialogue: 0,0:08:30.93,0:08:33.73,normal_Wed,,0,0,0,,A multi-purpose meeting in the studio
+Dialogue: 0,0:08:33.73,0:08:35.80,normal_Wed,,0,0,0,,A multi-purpose photo studio
+Dialogue: 0,0:08:36.10,0:08:39.04,normal_Wed,,0,0,0,,Why is this person so rich?
+Dialogue: 0,0:08:39.91,0:08:42.18,normal_Wed,,0,0,0,,How does this person make so much money?
+Dialogue: 0,0:08:43.04,0:08:44.05,wipe_Wed,,0,0,0,,Really want to know
+Dialogue: 0,0:08:43.52,0:08:47.62,normal_Wed,,0,0,0,,In this strange location, how will she try to get the public's attention?
+Dialogue: 0,0:08:48.21,0:08:52.95,normal_Wed,,0,0,0,,My daughter's toy is a Givenchy bear doll
+Dialogue: 0,0:08:52.95,0:08:54.72,normal_Wed,,0,0,0,,In 30 minutes, it was on the news
+Dialogue: 0,0:08:54.72,0:08:57.19,normal_Wed,,0,0,0,,Her Dior bottle also made the news
+Dialogue: 0,0:08:58.01,0:09:02.64,normal_Wed,,0,0,0,,Pitching news related to luxury goods seems to be easy to make online news
+Dialogue: 0,0:09:02.96,0:09:04.86,normal_Wed,,0,0,0,,At the time of the webcast
+Dialogue: 0,0:09:04.86,0:09:08.50,normal_Wed,,0,0,0,,There are definitely people who ask, "Whose clothes are these? Please take a full body shot" and other questions
+Dialogue: 0,0:09:09.26,0:09:11.58,normal_Wed,,0,0,0,,So, the very first pitches were
+Dialogue: 0,0:09:12.41,0:09:15.50,normal_Wed,,0,0,0,,Detailing the day's outfit and price to the public
+Dialogue: 0,0:09:15.50,0:09:17.05,wipe_Wed,,0,0,0,,The kind that can immediately make the news
+Dialogue: 0,0:09:15.91,0:09:18.48,normal_Wed,,0,0,0,,Star Matching
+Dialogue: 0,0:09:18.48,0:09:19.72,wipe_Wed,,0,0,0,,This way
+Dialogue: 0,0:09:19.72,0:09:21.65,normal_Wed,,0,0,0,,The total amount is out there
+Dialogue: 0,0:09:21.34,0:09:22.84,wipe_Wed,,0,0,0,,Will it work so soon?
+Dialogue: 0,0:09:21.65,0:09:24.05,normal_Wed,,0,0,0,,About the same as a normal monthly income
+Dialogue: 0,0:09:24.05,0:09:29.07,normal_Wed,,0,0,0,,The total is 13,770,080,000 yen
+Dialogue: 0,0:09:28.44,0:09:29.13,wipe_Wed,,0,0,0,,Monthly income?
+Dialogue: 0,0:09:29.09,0:09:32.13,normal_Wed,,0,0,0,,Most people's general income
+Dialogue: 0,0:09:31.38,0:09:32.98,wipe_Wed,,0,0,0,,Who's? Who's?
+Dialogue: 0,0:09:32.56,0:09:34.09,normal_Wed,,0,0,0,,Ready to post to instagram
+Dialogue: 2,0:09:34.10,0:09:41.77,推特文字,,0,0,0,,{\fs53\pos(714.333,953.334)}Today, I was told by my manager that i'm \Nlike a walking department store, so I calculated \N  the total amount and made it public for \N the first time
+Dialogue: 2,0:09:34.10,0:09:41.77,推特文字,,0,0,0,,{\fs54\pos(954,1040)}Today's outfit is 13.8 million
+Dialogue: 0,0:09:35.71,0:09:40.39,normal_Wed,,0,0,0,,Today's outfit is 13.8 million
+Dialogue: 5,0:09:39.94,0:09:41.40,wipe_Wed,,0,0,0,,Should be close
+Dialogue: 3,0:09:41.94,0:09:44.11,normal_Wed,,0,0,0,,One of the two weaker people...
+Dialogue: 3,0:09:43.28,0:09:44.34,wipe_Wed,,0,0,0,,We've gotta see this
+Dialogue: 3,0:09:44.11,0:09:45.24,normal_Wed,,0,0,0,,Joyman Takagi
+Dialogue: 3,0:09:46.11,0:09:49.58,normal_Wed,,0,0,0,,I get coverage sometime
+Dialogue: 0,0:09:49.58,0:09:54.48,normal_Wed,,0,0,0,,"I saw Joyman?" on Twitter there are many such tweets
+Dialogue: 0,0:09:54.61,0:09:58.42,normal_Wed,,0,0,0,,When i'm just around
+Dialogue: 0,0:09:58.42,0:10:02.82,normal_Wed,,0,0,0,,Ordinary people also tweet "Joyman is here"
+Dialogue: 0,0:10:03.66,0:10:07.74,normal_Wed,,0,0,0,,So, aiming for the common man
+Dialogue: 0,0:10:08.26,0:10:13.40,normal_Wed,,0,0,0,,I'm gonna go to the front of the company and try and attract some attention
+Dialogue: 0,0:10:14.99,0:10:15.75,wipe_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:10:15.93,0:10:20.83,normal_Wed,,0,0,0,,In front of Yoshimoto Kogyo, he starts his battle to try and get someone to tweet about him
+Dialogue: 0,0:10:20.03,0:10:21.53,wipe_Wed,,0,0,0,,Why?
+Dialogue: 0,0:10:22.42,0:10:24.70,wipe_Wed,,0,0,0,,He's looking
+Dialogue: 0,0:10:28.82,0:10:30.32,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:10:30.32,0:10:34.32,normal_Wed,,0,0,0,,If I go to an idol's house it should be easy
+Dialogue: 0,0:10:34.32,0:10:36.27,normal_Wed,,0,0,0,,Isn't Rina Hashimoto a good choice?
+Dialogue: 0,0:10:36.78,0:10:37.92,normal_Wed,,0,0,0,,Rina Hashimoto?
+Dialogue: 0,0:10:37.92,0:10:40.06,normal_Wed,,0,0,0,,The black diamond
+Dialogue: 0,0:10:40.06,0:10:43.10,normal_Wed,,0,0,0,,Her words will be in the news
+Dialogue: 0,0:10:42.74,0:10:43.69,wipe_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:10:43.10,0:10:44.23,normal_Wed,,0,0,0,,She's also my type
+Dialogue: 0,0:10:43.69,0:10:44.79,wipe_Wed,,0,0,0,,What the hell is this guy?
+Dialogue: 0,0:10:44.23,0:10:46.03,normal_Wed,,0,0,0,,So this will definitely be covered
+Dialogue: 0,0:10:46.47,0:10:47.43,normal_Wed,,0,0,0,,I'm calling
+Dialogue: 0,0:10:47.43,0:10:48.48,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:10:48.02,0:10:49.19,wipe_Wed,,0,0,0,,What is he doing?
+Dialogue: 0,0:10:49.24,0:10:50.04,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:10:50.04,0:10:53.07,normal_Wed,,0,0,0,,Ah, hello, Rina?
+Dialogue: 0,0:10:53.07,0:10:55.01,normal_Wed,,0,0,0,,Sorry to call you so suddenly
+Dialogue: 0,0:10:55.01,0:10:55.88,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:10:55.88,0:11:01.45,normal_Wed,,0,0,0,,Can I come to your house? I'm on a shoot
+Dialogue: 0,0:11:01.45,0:11:03.15,normal_Wed,,0,0,0,,Eh, well, no
+Dialogue: 0,0:11:03.15,0:11:05.15,normal_Wed,,0,0,0,,Not really?
+Dialogue: 0,0:11:05.15,0:11:07.49,normal_Wed,,0,0,0,,Eh why why why? \N -No way
+Dialogue: 0,0:11:07.49,0:11:09.59,normal_Wed,,0,0,0,,Asking so suddenly, of course not
+Dialogue: 0,0:11:09.59,0:11:10.86,normal_Wed,,0,0,0,,Although sudden
+Dialogue: 0,0:11:10.86,0:11:13.36,normal_Wed,,0,0,0,,But it's for Wednesday Downtown
+Dialogue: 0,0:11:13.49,0:11:16.24,normal_Wed,,0,0,0,,Despicable!
+Dialogue: 0,0:11:16.24,0:11:17.53,normal_Wed,,0,0,0,,So bad
+Dialogue: 0,0:11:17.78,0:11:20.72,normal_Wed,,0,0,0,,Under the pretext of program planning
+Dialogue: 0,0:11:20.72,0:11:21.75,normal_Wed,,0,0,0,,Just for a moment
+Dialogue: 0,0:11:22.19,0:11:24.73,normal_Wed,,0,0,0,,Stalkingly negotiated for 5 minutes
+Dialogue: 0,0:11:25.67,0:11:26.74,wipe_Wed,,0,0,0,,No hesitation at all!
+Dialogue: 0,0:11:26.04,0:11:28.31,normal_Wed,,0,0,0,,Wait, I really just woke up
+Dialogue: 0,0:11:28.31,0:11:28.94,normal_Wed,,0,0,0,,That' fine that's fine
+Dialogue: 0,0:11:28.94,0:11:30.55,normal_Wed,,0,0,0,,I'll come over
+Dialogue: 0,0:11:30.55,0:11:32.01,normal_Wed,,0,0,0,,Let's say in 30 minutes
+Dialogue: 0,0:11:32.01,0:11:33.15,normal_Wed,,0,0,0,,In 30 minutes? Got it
+Dialogue: 0,0:11:33.15,0:11:34.15,normal_Wed,,0,0,0,,Really just got up
+Dialogue: 0,0:11:34.23,0:11:36.06,normal_Wed,,0,0,0,,Not a single word of respect for him
+Dialogue: 0,0:11:39.29,0:11:41.54,normal_Wed,,0,0,0,,So, during the journey
+Dialogue: 0,0:11:41.54,0:11:43.80,wipe_Wed,,0,0,0,,Wednesday Magic
+Dialogue: 0,0:11:42.26,0:11:45.16,normal_Wed,,0,0,0,,Should I do my top 5 girls?
+Dialogue: 0,0:11:45.16,0:11:48.03,normal_Wed,,0,0,0,,Or 7, like God 7?
+Dialogue: 2,0:11:48.03,0:11:53.84,推特文字,,0,0,0,,{\c&H373737&\pos(555,244.667)}Kuro-chan's Girl Ranking
+Dialogue: 2,0:11:49.46,0:11:53.84,normal_Wed,,0,0,0,,Kuro-chan's Girl Ranking
+Dialogue: 0,0:11:55.21,0:11:57.64,normal_Wed,,0,0,0,,Also posted on instagram and Ameba Blog
+Dialogue: 0,0:11:57.81,0:12:03.06,normal_Wed,,0,0,0,,Kuro-chan's hands don't stop moving
+Dialogue: 0,0:12:02.87,0:12:03.90,wipe_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:12:04.41,0:12:08.51,normal_Wed,,0,0,0,,"How much would you do an AV for?" I've been asked that
+Dialogue: 0,0:12:08.68,0:12:12.05,normal_Wed,,0,0,0,,The fee mentioned at the time was over 100 million yen
+Dialogue: 0,0:12:12.05,0:12:16.46,normal_Wed,,0,0,0,,But if I was actually interested, the real thing
+Dialogue: 0,0:12:16.46,0:12:17.96,normal_Wed,,0,0,0,,Would actually be a lot lower
+Dialogue: 0,0:12:18.66,0:12:22.12,normal_Wed,,0,0,0,,She can't decide what to send next here
+Dialogue: 0,0:12:22.61,0:12:24.62,normal_Wed,,0,0,0,,A different type of monster
+Dialogue: 0,0:12:26.43,0:12:29.32,normal_Wed,,0,0,0,,Rina, can I come in?
+Dialogue: 0,0:12:29.32,0:12:29.93,normal_Wed,,0,0,0,,Really!?
+Dialogue: 0,0:12:29.76,0:12:30.86,wipe_Wed,,0,0,0,,So gentle
+Dialogue: 0,0:12:30.47,0:12:35.21,normal_Wed,,0,0,0,,Can I take a selfie with you in your pajamas?
+Dialogue: 0,0:12:35.21,0:12:38.05,normal_Wed,,0,0,0,,"Rina's pajamas are so cute", something like that
+Dialogue: 0,0:12:38.24,0:12:39.35,normal_Wed,,0,0,0,,It'll definitely make the news
+Dialogue: 0,0:12:39.35,0:12:41.08,normal_Wed,,0,0,0,,So, sorry, can you put on your pajamas?
+Dialogue: 0,0:12:41.08,0:12:41.75,normal_Wed,,0,0,0,,Me?
+Dialogue: 0,0:12:41.75,0:12:42.82,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:12:42.82,0:12:43.92,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:12:42.42,0:12:44.72,wipe_Wed,,0,0,0,,How does he know where she lives?
+Dialogue: 0,0:12:43.92,0:12:45.28,normal_Wed,,0,0,0,,Shame on you!
+Dialogue: 0,0:12:45.28,0:12:47.49,normal_Wed,,0,0,0,,I'm sorry, i'll do anything you want after
+Dialogue: 0,0:12:46.18,0:12:48.13,wipe_Wed,,0,0,0,,What kind of relationship is this?
+Dialogue: 0,0:12:48.13,0:12:52.27,normal_Wed,,0,0,0,,So, after forcing her to change into pajamas
+Dialogue: 0,0:12:53.03,0:12:54.88,normal_Wed,,0,0,0,,The photography session starts
+Dialogue: 0,0:12:56.16,0:12:59.00,normal_Wed,,0,0,0,,That's good, that's good, that's good
+Dialogue: 0,0:12:58.27,0:12:59.51,wipe_Wed,,0,0,0,,I can't believe she really let him shoot
+Dialogue: 2,0:12:59.00,0:13:05.89,推特文字,,0,0,0,,{\pos(21,461.334)}Pajamas... I'm \Nsorry to bother \Nyou! The pajamas \Nof Rina are also \N lovable~♪
+Dialogue: 0,0:13:07.84,0:13:10.78,normal_Wed,,0,0,0,,I've gotta go now
+Dialogue: 0,0:13:11.08,0:13:11.94,normal_Wed,,0,0,0,,I will come back
+Dialogue: 0,0:13:11.94,0:13:13.95,normal_Wed,,0,0,0,,Only stayed for 10 minutes
+Dialogue: 0,0:13:14.72,0:13:16.80,normal_Wed,,0,0,0,,Kuro-chan was soon driven out
+Dialogue: 0,0:13:16.80,0:13:18.18,wipe_Wed,,0,0,0,,Even so
+Dialogue: 0,0:13:18.48,0:13:22.00,normal_Wed,,0,0,0,,2.5 hours have passed since the start
+Dialogue: 0,0:13:22.00,0:13:26.27,normal_Wed,,0,0,0,,The contributions of the 5 members posts are shown below
+Dialogue: 0,0:13:29.60,0:13:30.73,wipe_Wed,,0,0,0,,Impossible
+Dialogue: 0,0:13:33.68,0:13:35.83,wipe_Wed,,0,0,0,,What is this for?
+Dialogue: 0,0:13:37.94,0:13:39.87,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:13:40.67,0:13:41.71,wipe_Wed,,0,0,0,,Nothing happened
+Dialogue: 2,0:13:44.45,0:13:55.56,推特文字,,0,0,0,,{\fs50\pos(936.667,390.666)}Although Disneyland is reopening, \Nfor those who haven't been there \Nyet, let Kuro-chan as \NDonald Duck heal your hearts
+Dialogue: 0,0:13:56.12,0:13:57.22,normal_Wed,,0,0,0,,No one has been successful yet
+Dialogue: 0,0:13:57.22,0:14:00.46,normal_Wed,,0,0,0,,Fuwa and and Sari are the ones to watch
+Dialogue: 0,0:14:00.46,0:14:01.83,normal_Wed,,0,0,0,,Morita and Joyman?
+Dialogue: 0,0:14:01.83,0:14:03.53,normal_Wed,,0,0,0,,No, those two people do not have a chance
+Dialogue: 0,0:14:03.80,0:14:06.73,normal_Wed,,0,0,0,,They'll be doing it for a week, right?
+Dialogue: 0,0:14:07.45,0:14:08.69,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:14:09.57,0:14:10.87,normal_Wed,,0,0,0,,Ah!
+Dialogue: 0,0:14:10.55,0:14:11.65,wipe_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:14:14.74,0:14:16.74,normal_Wed,,0,0,0,,Aren't I up already!?
+Dialogue: 0,0:14:16.74,0:14:19.61,normal_Wed,,0,0,0,,Got up while not even paying attention!
+Dialogue: 0,0:14:19.61,0:14:20.49,wipe_Wed,,0,0,0,,Scary scary
+Dialogue: 0,0:14:20.49,0:14:21.59,wipe_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:14:19.61,0:14:21.68,normal_Wed,,0,0,0,,What's happened?
+Dialogue: 0,0:14:22.82,0:14:24.98,normal_Wed,,0,0,0,,The "God 7" article
+Dialogue: 0,0:14:23.87,0:14:24.96,wipe_Wed,,0,0,0,,Really want to beat him up
+Dialogue: 0,0:14:25.59,0:14:27.09,wipe_Wed,,0,0,0,,So fast!
+Dialogue: 0,0:14:25.12,0:14:30.04,normal_Wed,,0,0,0,,Kuro-chan Introduces His "God 7" List of Favorite Girls
+Dialogue: 0,0:14:30.80,0:14:34.11,normal_Wed,,0,0,0,,Who is in first and second place?
+Dialogue: 0,0:14:34.89,0:14:36.70,normal_Wed,,0,0,0,,It's in the news!
+Dialogue: 4,0:14:36.70,0:14:39.03,normal_Wed,,0,0,0,,Thank you very much!
+Dialogue: 4,0:14:39.73,0:14:43.84,normal_Wed,,0,0,0,,As before, Kuro-chan's followers are trolling him like crazy
+Dialogue: 4,0:14:43.84,0:14:49.58,normal_Wed,,0,0,0,,{\fs60}"The comments such as "I don't think he's in anyone's mind," and "It's like Death Note..." keep coming
+Dialogue: 4,0:14:49.58,0:14:52.18,normal_Wed,,0,0,0,,That's not true
+Dialogue: 4,0:14:52.18,0:14:54.05,normal_Wed,,0,0,0,,They should be very happy
+Dialogue: 4,0:14:54.31,0:14:57.28,normal_Wed,,0,0,0,,Although Fuwa said she would never lose
+Dialogue: 4,0:14:57.28,0:15:01.52,normal_Wed,,0,0,0,,No, no, no, the popularity level is completely different
+Dialogue: 0,0:15:01.52,0:15:04.06,normal_Wed,,0,0,0,,I'm not like that noisy woman
+Dialogue: 0,0:15:04.59,0:15:07.98,normal_Wed,,0,0,0,,So, 2 hours and 42 minutes after the start
+Dialogue: 0,0:15:07.98,0:15:10.77,normal_Wed,,0,0,0,,Kuro-chan finishes first
+Dialogue: 0,0:15:11.15,0:15:15.28,normal_Wed,,0,0,0,,Sorry, this is Kuro-chan
+Dialogue: 0,0:15:15.43,0:15:17.07,normal_Wed,,0,0,0,,I'm already in the news
+Dialogue: 0,0:15:17.07,0:15:18.00,normal_Wed,,0,0,0,,Eh? It's a lie, right?
+Dialogue: 0,0:15:18.00,0:15:21.14,normal_Wed,,0,0,0,,Sorry, a genuine news publication
+Dialogue: 0,0:15:21.14,0:15:23.28,normal_Wed,,0,0,0,,Really? It's in the news?
+Dialogue: 0,0:15:23.28,0:15:25.38,normal_Wed,,0,0,0,,I'm up!
+Dialogue: 0,0:15:23.76,0:15:25.68,wipe_Wed,,0,0,0,,What is this tone of voice?
+Dialogue: 0,0:15:25.38,0:15:27.21,normal_Wed,,0,0,0,,How did you make the news?
+Dialogue: 0,0:15:27.21,0:15:28.28,normal_Wed,,0,0,0,,What made the news?
+Dialogue: 0,0:15:28.28,0:15:33.42,normal_Wed,,0,0,0,,My top-7 ranking of girls
+Dialogue: 0,0:15:33.42,0:15:36.46,normal_Wed,,0,0,0,,I just needed to rank 7
+Dialogue: 0,0:15:36.46,0:15:38.09,normal_Wed,,0,0,0,,Really?\N  -So fast
+Dialogue: 0,0:15:38.57,0:15:40.53,normal_Wed,,0,0,0,,Eh, wait
+Dialogue: 0,0:15:40.53,0:15:42.96,normal_Wed,,0,0,0,,I can't believe i'm not in the list
+Dialogue: 0,0:15:42.96,0:15:44.40,normal_Wed,,0,0,0,,What's wrong with you?
+Dialogue: 0,0:15:44.40,0:15:45.41,normal_Wed,,0,0,0,,Why do you want to be in that ranking?
+Dialogue: 0,0:15:45.41,0:15:47.14,normal_Wed,,0,0,0,,Everyone, go for it!
+Dialogue: 0,0:15:47.14,0:15:49.16,normal_Wed,,0,0,0,,It's too weird to try to want to be in that ranking
+Dialogue: 0,0:15:49.84,0:15:51.80,normal_Wed,,0,0,0,,Okay, I'm hanging up
+Dialogue: 0,0:15:51.80,0:15:53.17,normal_Wed,,0,0,0,,So noisy!
+Dialogue: 0,0:15:52.37,0:15:53.89,wipe_Wed,,0,0,0,,This condescending attitude
+Dialogue: 0,0:15:53.17,0:15:57.38,normal_Wed,,0,0,0,,Really seems like they're trying to be funny, so noisy
+Dialogue: 0,0:15:57.38,0:15:59.78,normal_Wed,,0,0,0,,There's no use for them, it should just be all about me
+Dialogue: 0,0:16:00.25,0:16:03.12,normal_Wed,,0,0,0,,Such a shame. I want to be number one
+Dialogue: 0,0:16:03.12,0:16:04.65,normal_Wed,,0,0,0,,We're too slow
+Dialogue: 0,0:16:04.65,0:16:07.35,normal_Wed,,0,0,0,,Its my manager and driver's fault
+Dialogue: 0,0:16:07.35,0:16:09.09,normal_Wed,,0,0,0,,It's definitely not my fault
+Dialogue: 0,0:16:09.08,0:16:10.23,wipe_Wed,,0,0,0,,Scary face
+Dialogue: 0,0:16:10.23,0:16:11.00,wipe_Wed,,0,0,0,,So scary
+Dialogue: 0,0:16:09.54,0:16:11.02,normal_Wed,,0,0,0,,Here
+Dialogue: 0,0:16:11.02,0:16:13.26,normal_Wed,,0,0,0,,Sari has an appointment at 11:30
+Dialogue: 0,0:16:13.36,0:16:14.24,wipe_Wed,,0,0,0,,Who cares about you?
+Dialogue: 0,0:16:13.76,0:16:14.99,normal_Wed,,0,0,0,,What do you have to do?
+Dialogue: 0,0:16:14.99,0:16:16.10,normal_Wed,,0,0,0,,Date
+Dialogue: 0,0:16:16.46,0:16:19.00,normal_Wed,,0,0,0,,So I have to stop for the moment
+Dialogue: 0,0:16:18.88,0:16:19.98,wipe_Wed,,0,0,0,,What!?
+Dialogue: 0,0:16:19.35,0:16:21.93,normal_Wed,,0,0,0,,Regardless of the ongoing shoot
+Dialogue: 0,0:16:22.18,0:16:26.87,normal_Wed,,0,0,0,,Due to a lunch date with a man, Sari Kato's shoot is temporarily halted
+Dialogue: 0,0:16:28.91,0:16:33.39,normal_Wed,,0,0,0,,On the other hand, Morita, is at TBS TV
+Dialogue: 0,0:16:30.40,0:16:31.83,wipe_Wed,,0,0,0,,It's gonna be tough for Morita
+Dialogue: 0,0:16:34.15,0:16:36.22,normal_Wed,,0,0,0,,Ah, Milk Boys!
+Dialogue: 0,0:16:36.22,0:16:37.92,normal_Wed,,0,0,0,,I could meet Milk Boy
+Dialogue: 0,0:16:37.92,0:16:38.95,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:16:38.95,0:16:40.55,normal_Wed,,0,0,0,,We have known each other since we were in Osaka
+Dialogue: 0,0:16:40.55,0:16:41.92,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:16:43.72,0:16:47.36,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:16:47.36,0:16:49.76,normal_Wed,,0,0,0,,It's been a long time. I'm Morita
+Dialogue: 0,0:16:49.76,0:16:52.26,normal_Wed,,0,0,0,,Yeah, we know. What's up?
+Dialogue: 0,0:16:52.26,0:16:54.17,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:16:54.60,0:16:56.60,normal_Wed,,0,0,0,,Long time no see
+Dialogue: 0,0:16:58.07,0:17:00.87,normal_Wed,,0,0,0,,We played together several times at a public performance
+Dialogue: 0,0:17:00.87,0:17:02.88,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:17:02.88,0:17:06.31,normal_Wed,,0,0,0,,We've seen each other a few times
+Dialogue: 0,0:17:06.31,0:17:10.49,normal_Wed,,0,0,0,,I never thought I would see you here one day
+Dialogue: 0,0:17:10.49,0:17:12.82,normal_Wed,,0,0,0,,Yes, in Tokyo, indeed
+Dialogue: 0,0:17:12.82,0:17:14.09,normal_Wed,,0,0,0,,Its very emotional
+Dialogue: 2,0:17:14.09,0:17:36.91,推特文字,,0,0,0,,{\fs45\pos(953.667,468)} I just met Milk Boys, who I performed \N together with to just a few people in \N Osaka, at a TV station in Tokyo. I \N never thought that the day would \N come when we could meet in a \N lounge several times bigger than the \N shabby stage. I want to cry a little. \N Let's drink together when we can
+Dialogue: 0,0:17:17.25,0:17:18.38,wipe_Wed,,0,0,0,,Super long
+Dialogue: 0,0:17:37.51,0:17:44.72,normal_Wed,,0,0,0,,Mixing Asakusa Kid with Nagabuchi
+Dialogue: 0,0:17:44.72,0:17:48.19,normal_Wed,,0,0,0,,A heart-warming story
+Dialogue: 0,0:17:48.19,0:17:50.62,normal_Wed,,0,0,0,,Surprise happenings can make the news
+Dialogue: 0,0:17:50.62,0:17:53.46,normal_Wed,,0,0,0,,I want to go home with this, really
+Dialogue: 0,0:17:53.97,0:17:56.40,normal_Wed,,0,0,0,,Then, after 4 and a half hours from the start
+Dialogue: 0,0:17:56.91,0:18:02.11,normal_Wed,,0,0,0,,Joyman Takagi's attempted public sighting led to no results
+Dialogue: 0,0:18:02.11,0:18:02.85,wipe_Wed,,0,0,0,,Too bad
+Dialogue: 0,0:18:02.74,0:18:11.38,normal_Wed,,0,0,0,,I'll try uploading my own and getting someone to cover it
+Dialogue: 2,0:18:11.38,0:18:19.05,推特文字,,0,0,0,,{\fs55\pos(670.667,273.334)}Where is Joyman?
+Dialogue: 0,0:18:12.96,0:18:17.74,normal_Wed,,0,0,0,,A change of strategy
+Dialogue: 0,0:18:19.85,0:18:22.89,normal_Wed,,0,0,0,,On the other hand, after the 90-minute live show
+Dialogue: 0,0:18:22.89,0:18:24.94,normal_Wed,,0,0,0,,Fuwa is finally back
+Dialogue: 0,0:18:25.86,0:18:27.29,normal_Wed,,0,0,0,,Why didn't you share anything?
+Dialogue: 0,0:18:27.29,0:18:29.24,normal_Wed,,0,0,0,,I planned to post while there
+Dialogue: 0,0:18:29.24,0:18:31.10,normal_Wed,,0,0,0,,But they just kept talking all the time
+Dialogue: 0,0:18:31.10,0:18:33.87,normal_Wed,,0,0,0,,I couldn't look at my phone for even 1 second
+Dialogue: 0,0:18:33.97,0:18:36.14,normal_Wed,,0,0,0,,Okay! OK
+Dialogue: 0,0:18:36.89,0:18:38.18,normal_Wed,,0,0,0,,I like Toshiya!
+Dialogue: 0,0:18:38.71,0:18:40.08,normal_Wed,,0,0,0,,I've tagged him
+Dialogue: 0,0:18:40.94,0:18:41.64,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:18:41.64,0:18:44.94,normal_Wed,,0,0,0,,I was shooting when Anh Mika came in
+Dialogue: 0,0:18:45.31,0:18:47.06,normal_Wed,,0,0,0,,Ah, Ahn Mika
+Dialogue: 0,0:18:47.06,0:18:48.84,normal_Wed,,0,0,0,,Nice yukata!
+Dialogue: 0,0:18:48.84,0:18:49.75,normal_Wed,,0,0,0,,What's going on here?
+Dialogue: 0,0:18:52.66,0:18:53.48,normal_Wed,,0,0,0,,What's going on here?
+Dialogue: 0,0:18:53.48,0:18:54.35,normal_Wed,,0,0,0,,There is no wall here
+Dialogue: 0,0:18:54.35,0:18:55.26,normal_Wed,,0,0,0,,There is!
+Dialogue: 0,0:18:55.26,0:18:56.06,normal_Wed,,0,0,0,,No wall
+Dialogue: 0,0:18:58.46,0:19:02.60,normal_Wed,,0,0,0,,She did a mime
+Dialogue: 0,0:19:02.60,0:19:05.03,normal_Wed,,0,0,0,,This'll surely be big
+Dialogue: 0,0:19:05.03,0:19:07.52,normal_Wed,,0,0,0,,Magic Chris Matsumura!
+Dialogue: 0,0:19:15.94,0:19:19.58,normal_Wed,,0,0,0,,Chris Matsumura is still Chris Matsumura after his transformation
+Dialogue: 0,0:19:20.16,0:19:23.42,normal_Wed,,0,0,0,,Videos with collaborators
+Dialogue: 0,0:19:21.74,0:19:24.10,wipe_Wed,,0,0,0,,Been ages since I've seen Chris Matsumoto
+Dialogue: 0,0:19:23.42,0:19:25.48,normal_Wed,,0,0,0,,Are shared continuously
+Dialogue: 2,0:19:25.80,0:19:32.42,推特文字,,0,0,0,,{\fs55\pos(435,253.334)}It's here. \NRT Where is Joyman?
+Dialogue: 0,0:19:26.64,0:19:29.59,normal_Wed,,0,0,0,,After 7 hours
+Dialogue: 0,0:19:30.10,0:19:31.09,normal_Wed,,0,0,0,,It's now 3pm
+Dialogue: 0,0:19:33.24,0:19:35.62,normal_Wed,,0,0,0,,Sari Kato returns from a date
+Dialogue: 0,0:19:35.62,0:19:36.46,wipe_Wed,,0,0,0,,Where are you going?
+Dialogue: 0,0:19:36.78,0:19:38.85,normal_Wed,,0,0,0,,After checking the phone
+Dialogue: 0,0:19:39.83,0:19:42.13,normal_Wed,,0,0,0,,Ah, news!
+Dialogue: 4,0:19:46.56,0:19:48.54,wipe_Wed,,0,0,0,,This would happen
+Dialogue: 0,0:19:50.20,0:19:52.85,wipe_Wed,,0,0,0,,Real amount
+Dialogue: 0,0:19:53.98,0:19:56.72,normal_Wed,,0,0,0,,But this will not be without repercussions
+Dialogue: 0,0:19:57.64,0:20:02.43,normal_Wed,,0,0,0,,So, 7 hours after the start, Sari Kato goes home
+Dialogue: 0,0:20:03.49,0:20:05.62,normal_Wed,,0,0,0,,I've made the news
+Dialogue: 0,0:20:05.62,0:20:06.29,normal_Wed,,0,0,0,,It's a lie, right?
+Dialogue: 0,0:20:06.29,0:20:09.33,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:20:09.33,0:20:11.76,normal_Wed,,0,0,0,,Really? \N -It's a lie, right?
+Dialogue: 0,0:20:11.90,0:20:15.97,normal_Wed,,0,0,0,,The first and second place is a Kuro-chan and Sari Kato...
+Dialogue: 0,0:20:15.97,0:20:18.07,normal_Wed,,0,0,0,,Japan has entered a not-so-good era
+Dialogue: 0,0:20:18.07,0:20:20.04,normal_Wed,,0,0,0,,You are too rude to say that!
+Dialogue: 0,0:20:22.81,0:20:25.11,normal_Wed,,0,0,0,,Two people are finished
+Dialogue: 0,0:20:25.11,0:20:26.65,normal_Wed,,0,0,0,,Where should we go?
+Dialogue: 0,0:20:26.81,0:20:29.95,normal_Wed,,0,0,0,,Today is the election for the governor of Tokyo, right?
+Dialogue: 0,0:20:29.95,0:20:32.38,normal_Wed,,0,0,0,,Yes, today is July 5th
+Dialogue: 0,0:20:33.12,0:20:36.88,normal_Wed,,0,0,0,,Yes, this is the voting day for the Tokyo governor's election
+Dialogue: 0,0:20:37.69,0:20:41.59,normal_Wed,,0,0,0,,I want to take this opportunity to vote
+Dialogue: 0,0:20:41.99,0:20:44.16,normal_Wed,,0,0,0,,Really, it's not for location shooting
+Dialogue: 0,0:20:44.54,0:20:45.58,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:20:46.43,0:20:47.47,normal_Wed,,0,0,0,,Finished
+Dialogue: 0,0:20:48.70,0:20:51.57,normal_Wed,,0,0,0,,Disguised in order not to cause trouble for the voting office
+Dialogue: 0,0:20:52.24,0:20:53.65,normal_Wed,,0,0,0,,Went to vote
+Dialogue: 0,0:20:53.65,0:20:55.20,normal_Wed,,0,0,0,,I'm off to vote
+Dialogue: 0,0:20:56.41,0:20:57.30,wipe_Wed,,0,0,0,,What's going on here?
+Dialogue: 0,0:20:59.01,0:21:01.31,normal_Wed,,0,0,0,,Did it!
+Dialogue: 0,0:21:01.31,0:21:03.52,normal_Wed,,0,0,0,,I always perform my national duty
+Dialogue: 0,0:21:03.52,0:21:09.22,normal_Wed,,0,0,0,,Really, if I had posted about this, they would have got 500 million votes from young people
+Dialogue: 0,0:21:09.22,0:21:10.79,normal_Wed,,0,0,0,,Eh, did you take a picture?
+Dialogue: 0,0:21:10.79,0:21:13.73,normal_Wed,,0,0,0,,Didn't take any photos 'cause it was so dark
+Dialogue: 0,0:21:13.73,0:21:15.93,normal_Wed,,0,0,0,,So now I'm going to take pictures in front of the metropolitan hall
+Dialogue: 0,0:21:17.56,0:21:19.73,normal_Wed,,0,0,0,,Great! A particularly good shot!
+Dialogue: 0,0:21:21.30,0:21:25.37,normal_Wed,,0,0,0,,Great! Took a great photo!
+Dialogue: 0,0:21:28.25,0:21:29.50,normal_Wed,,0,0,0,,Great, right?
+Dialogue: 0,0:21:28.80,0:21:30.38,wipe_Wed,,0,0,0,,What a great photo!
+Dialogue: 0,0:21:30.56,0:21:32.53,normal_Wed,,0,0,0,,This is a really good photo
+Dialogue: 0,0:21:32.53,0:21:34.01,normal_Wed,,0,0,0,,Indeed news worthy
+Dialogue: 0,0:21:34.08,0:21:35.57,normal_Wed,,0,0,0,,Too photogenic, right?
+Dialogue: 0,0:21:35.57,0:21:36.98,normal_Wed,,0,0,0,,It's really something
+Dialogue: 0,0:21:37.35,0:21:39.49,normal_Wed,,0,0,0,,A Japanese girl, right?
+Dialogue: 2,0:21:39.49,0:21:49.06,推特文字,,0,0,0,,{\fs58\pos(959.333,458.667)}Full compliance with national \N obligations, everyone go and \N vote!
+Dialogue: 0,0:21:46.72,0:21:48.34,normal_Wed,,0,0,0,,Tweeted
+Dialogue: 0,0:21:48.34,0:21:49.62,wipe_Wed,,0,0,0,,This is good!
+Dialogue: 0,0:21:49.62,0:21:51.31,normal_Wed,,0,0,0,,Just 10 minutes later
+Dialogue: 0,0:21:52.00,0:21:53.87,normal_Wed,,0,0,0,,Ah, already on 10,000
+Dialogue: 0,0:21:53.87,0:21:56.57,normal_Wed,,0,0,0,,There's 10,000 likes. \N -10,000 likes?
+Dialogue: 0,0:21:56.57,0:21:58.87,normal_Wed,,0,0,0,,It's a big deal, isn't it?
+Dialogue: 0,0:21:59.07,0:22:02.27,normal_Wed,,0,0,0,,At this speed, I think it will definitely be on the network news
+Dialogue: 0,0:22:02.32,0:22:06.78,normal_Wed,,0,0,0,,Eh, first in the retweet list now
+Dialogue: 0,0:22:04.78,0:22:06.60,wipe_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:22:07.08,0:22:08.98,normal_Wed,,0,0,0,,Great, the first in Japan!
+Dialogue: 0,0:22:08.98,0:22:09.95,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:22:09.95,0:22:11.28,normal_Wed,,0,0,0,,The second is Tomosaku Maezawa
+Dialogue: 0,0:22:12.58,0:22:13.72,normal_Wed,,0,0,0,,The first is Fuwa
+Dialogue: 0,0:22:13.72,0:22:15.29,normal_Wed,,0,0,0,,And all very good comments
+Dialogue: 0,0:22:15.29,0:22:19.49,normal_Wed,,0,0,0,,"It's a good thing that influential people are calling for more votes," and so on
+Dialogue: 0,0:22:19.49,0:22:20.69,normal_Wed,,0,0,0,,All positive comments
+Dialogue: 0,0:22:20.69,0:22:25.40,normal_Wed,,0,0,0,,I can do anything for Wednesday Downtown
+Dialogue: 0,0:22:28.34,0:22:29.93,normal_Wed,,0,0,0,,On the other hand, at the same time
+Dialogue: 0,0:22:31.30,0:22:33.84,normal_Wed,,0,0,0,,How about gossip?
+Dialogue: 0,0:22:33.84,0:22:34.44,normal_Wed,,0,0,0,,For example
+Dialogue: 0,0:22:32.80,0:22:34.17,wipe_Wed,,0,0,0,,Morita, this won't work
+Dialogue: 0,0:22:34.44,0:22:36.28,normal_Wed,,0,0,0,,Roppongi
+Dialogue: 2,0:22:36.28,0:22:38.41,normal_Wed,,0,0,0,,Has bars where you can XXXX
+Dialogue: 0,0:22:38.41,0:22:39.65,normal_Wed,,0,0,0,,There
+Dialogue: 2,0:22:39.65,0:22:43.65,normal_Wed,,0,0,0,,{\pos(786,1064)} XXXX has gone there
+Dialogue: 0,0:22:42.28,0:22:44.24,wipe_Wed,,0,0,0,,That's bad
+Dialogue: 0,0:22:44.05,0:22:46.09,normal_Wed,,0,0,0,,How about that type? Hints
+Dialogue: 0,0:22:46.25,0:22:48.82,normal_Wed,,0,0,0,,Actress's instagram
+Dialogue: 0,0:22:48.99,0:22:52.96,normal_Wed,,0,0,0,,I take the same photo at the same place
+Dialogue: 0,0:22:53.19,0:22:54.66,normal_Wed,,0,0,0,,"These two are dating, right?" and so on
+Dialogue: 0,0:22:54.66,0:22:57.66,normal_Wed,,0,0,0,,The rules for this are very strict
+Dialogue: 0,0:22:59.20,0:23:01.23,normal_Wed,,0,0,0,,Sorry...
+Dialogue: 0,0:23:01.23,0:23:02.77,normal_Wed,,0,0,0,,Impossible
+Dialogue: 0,0:23:03.34,0:23:06.14,normal_Wed,,0,0,0,,All the things I want to do are forbidden
+Dialogue: 0,0:23:06.14,0:23:08.51,normal_Wed,,0,0,0,,Against TBS' rules
+Dialogue: 0,0:23:08.60,0:23:14.99,normal_Wed,,0,0,0,,Morita's ideas continuously hit a wall
+Dialogue: 2,0:23:15.78,0:23:22.79,推特文字,,0,0,0,,{\fs60\pos(579.667,397.333)}Cleaned up the streets because I had a little time! End of my first job as a PR ambassador!
+Dialogue: 0,0:23:17.56,0:23:19.47,normal_Wed,,0,0,0,,Litter picking volunteer
+Dialogue: 0,0:23:19.47,0:23:21.75,normal_Wed,,0,0,0,,The exact opposite of Twitter
+Dialogue: 0,0:23:21.75,0:23:23.75,wipe_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:23:23.06,0:23:24.59,normal_Wed,,0,0,0,,Cigarette butts
+Dialogue: 0,0:23:27.23,0:23:28.83,normal_Wed,,0,0,0,,Wanna smoke
+Dialogue: 2,0:23:28.83,0:23:35.03,推特文字,,0,0,0,,{\fs50\pos(51.334,696)}Report to everyone! Already confirmed to \N play in next year's Molkky Worlds! I'll win \Nthe championship next year!
+Dialogue: 2,0:23:28.83,0:23:35.03,推特文字,,0,0,0,,{\fs50\pos(403,912)}If I get 5,000 likes, i'll never \N say a certain word again. If \N there are 10,000 likes \Ni'll ban another word
+Dialogue: 0,0:23:29.27,0:23:34.21,normal_Wed,,0,0,0,,The two weaker ones keep making mistakes
+Dialogue: 0,0:23:35.85,0:23:38.96,normal_Wed,,0,0,0,,The last person in the top 3, Fuwa
+Dialogue: 0,0:23:39.84,0:23:41.94,normal_Wed,,0,0,0,,How about it?
+Dialogue: 2,0:23:41.95,0:23:43.14,normal_Wed,,0,0,0,,We're on!
+Dialogue: 2,0:23:43.85,0:23:46.97,normal_Wed,,0,0,0,,At this point she contacted a certain person
+Dialogue: 2,0:23:47.65,0:23:52.28,normal_Wed,,0,0,0,,Really happy
+Dialogue: 2,0:23:52.28,0:23:53.65,normal_Wed,,0,0,0,,Really great
+Dialogue: 2,0:23:53.65,0:23:54.49,normal_Wed,,0,0,0,,That is
+Dialogue: 2,0:23:55.22,0:24:02.26,推特文字,,0,0,0,,{\fs35\pos(263,282)}Look~~ \N finally met, my ancestor {\c&H5145CE&}♥♥♥♥♥♥♥{\c}\NShinoraa{\c&H5145CE&}♥♥♥♥♥♥
+Dialogue: 2,0:23:56.95,0:23:58.57,normal_Wed,,0,0,0,,A person Fuwa worships
+Dialogue: 2,0:23:59.73,0:24:01.06,normal_Wed,,0,0,0,,Shinohara Tomoe
+Dialogue: 2,0:24:02.46,0:24:04.76,normal_Wed,,0,0,0,,I've loved her since I was three years old
+Dialogue: 2,0:24:04.76,0:24:06.83,normal_Wed,,0,0,0,,I imitated her look
+Dialogue: 2,0:24:06.83,0:24:09.44,normal_Wed,,0,0,0,,We are one heart, one body, twins
+Dialogue: 2,0:24:10.27,0:24:15.41,normal_Wed,,0,0,0,,Will a collaboration between young and old personalities make the news?
+Dialogue: 2,0:24:16.56,0:24:17.38,normal_Wed,,0,0,0,,However
+Dialogue: 2,0:24:18.24,0:24:21.41,normal_Wed,,0,0,0,,I'm off to my next job
+Dialogue: 2,0:24:21.41,0:24:22.48,normal_Wed,,0,0,0,,You are busy!
+Dialogue: 2,0:24:23.01,0:24:28.98,normal_Wed,,0,0,0,,The big celebrity, Fuwa, is off to do a variety show
+Dialogue: 2,0:24:29.35,0:24:33.43,normal_Wed,,0,0,0,,If I see Wada in the lounge here, i'll be sure to take a picture
+Dialogue: 2,0:24:33.43,0:24:35.59,normal_Wed,,0,0,0,,I'm off
+Dialogue: 2,0:24:36.46,0:24:38.22,normal_Wed,,0,0,0,,But ten minutes later
+Dialogue: 2,0:24:41.07,0:24:43.17,normal_Wed,,0,0,0,,Eh? Fuwa
+Dialogue: 1,0:24:43.83,0:24:44.59,wipe_Wed,,0,0,0,,Don't break the door
+Dialogue: 2,0:24:45.27,0:24:46.84,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 2,0:24:46.84,0:24:49.27,normal_Wed,,0,0,0,,Up!
+Dialogue: 1,0:24:48.82,0:24:49.86,wipe_Wed,,0,0,0,,Sure enough
+Dialogue: 2,0:24:51.64,0:24:55.58,normal_Wed,,0,0,0,,I saw it while walking down the road
+Dialogue: 2,0:24:57.02,0:25:01.54,normal_Wed,,0,0,0,,So, Fuwa can go home after 10 hours and 50 minutes
+Dialogue: 2,0:25:02.29,0:25:03.39,normal_Wed,,0,0,0,,This news is quite good
+Dialogue: 2,0:25:04.53,0:25:09.37,normal_Wed,,0,0,0,,By the way, this post is now up to 40,000 retweets
+Dialogue: 2,0:25:09.37,0:25:13.84,normal_Wed,,0,0,0,,With 284,000 positive comments on Twitter
+Dialogue: 2,0:25:14.60,0:25:18.28,normal_Wed,,0,0,0,,And the other 4 submissions of the day
+Dialogue: 2,0:25:19.23,0:25:22.14,normal_Wed,,0,0,0,,Other than the one of Chris Matsumura the other three made the news the day after
+Dialogue: 2,0:25:22.14,0:25:23.83,normal_Wed,,0,0,0,,Also made the news
+Dialogue: 2,0:25:25.62,0:25:29.07,normal_Wed,,0,0,0,,It proves she's a hit
+Dialogue: 2,0:25:30.82,0:25:34.37,normal_Wed,,0,0,0,,Here, she speaks with the other contestants
+Dialogue: 0,0:25:34.61,0:25:35.64,normal_Wed,,0,0,0,,So
+Dialogue: 1,0:25:41.13,0:25:43.35,wipe_Wed,,0,0,0,,Seriously!?
+Dialogue: 2,0:25:41.13,0:25:44.90,normal_Wed,,0,0,0,,Did everyone make the news?
+Dialogue: 1,0:25:44.39,0:25:45.27,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 2,0:25:45.57,0:25:48.87,normal_Wed,,0,0,0,,Fuwa is non-existent
+Dialogue: 2,0:25:49.64,0:25:53.37,normal_Wed,,0,0,0,,Right now Takagi you're better looking than Fuwa
+Dialogue: 2,0:25:53.79,0:25:57.95,normal_Wed,,0,0,0,,That's right, Takagi, who was beginning to think he'd never be able to go home
+Dialogue: 2,0:25:58.67,0:26:02.44,normal_Wed,,0,0,0,,Made a big move to dye his hair pink
+Dialogue: 2,0:26:04.23,0:26:10.16,normal_Wed,,0,0,0,,The one from Exit's dyed hair was in the news
+Dialogue: 2,0:26:10.16,0:26:12.19,normal_Wed,,0,0,0,,Ahhh
+Dialogue: 2,0:26:12.20,0:26:17.06,推特文字,,0,0,0,,{\fs40\pos(779,302)}Went to the beauty salon. \N Seriously asked them to dye it like EXIT
+Dialogue: 2,0:26:13.16,0:26:16.21,normal_Wed,,0,0,0,,So how was the response?
+Dialogue: 2,0:26:17.20,0:26:19.57,normal_Wed,,0,0,0,,Turned pink!
+Dialogue: 2,0:26:21.59,0:26:28.81,normal_Wed,,0,0,0,,If I take a photo with him together maybe that could work
+Dialogue: 2,0:26:28.81,0:26:31.28,normal_Wed,,0,0,0,,But he just took a photo of himself
+Dialogue: 2,0:26:31.28,0:26:35.41,normal_Wed,,0,0,0,,Takagi's photo could make it
+Dialogue: 2,0:26:36.24,0:26:38.17,normal_Wed,,0,0,0,,At 9.00pm
+Dialogue: 2,0:26:39.72,0:26:42.45,normal_Wed,,0,0,0,,Will it be on the news?
+Dialogue: 2,0:26:43.09,0:26:48.47,normal_Wed,,0,0,0,,Undoubtedly, news updates are slow at night
+Dialogue: 0,0:26:51.00,0:26:51.96,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 2,0:26:52.90,0:26:55.20,normal_Wed,,0,0,0,,Ah, EXIT retweeted it
+Dialogue: 2,0:26:55.92,0:27:02.14,normal_Wed,,0,0,0,,I didn't expect to they'd retweet it
+Dialogue: 2,0:27:03.38,0:27:06.95,normal_Wed,,0,0,0,,Such a good guy
+Dialogue: 1,0:27:10.02,0:27:11.44,wipe_Wed,,0,0,0,,Is that all you do?
+Dialogue: 2,0:27:11.69,0:27:17.92,normal_Wed,,0,0,0,,I really want to go home today
+Dialogue: 2,0:27:27.00,0:27:31.67,normal_Wed,,0,0,0,,I'm on the news. Sorry. I'm really sorry
+Dialogue: 2,0:27:32.17,0:27:33.41,normal_Wed,,0,0,0,,Seriously!?
+Dialogue: 2,0:27:33.41,0:27:35.61,normal_Wed,,0,0,0,,I got on the news first
+Dialogue: 2,0:27:35.61,0:27:37.58,normal_Wed,,0,0,0,,Really?
+Dialogue: 2,0:27:38.06,0:27:43.50,normal_Wed,,0,0,0,,Joyman Takagi took 14 hours and 16 minutes to make the news
+Dialogue: 2,0:27:45.15,0:27:47.92,normal_Wed,,0,0,0,,I was retweeted
+Dialogue: 2,0:27:48.15,0:27:50.02,normal_Wed,,0,0,0,,Wow, really?
+Dialogue: 2,0:27:50.22,0:27:51.92,normal_Wed,,0,0,0,,I have no news whatsoever
+Dialogue: 2,0:27:51.92,0:27:54.16,normal_Wed,,0,0,0,,Is there anything else you can do?
+Dialogue: 2,0:27:54.16,0:27:57.36,normal_Wed,,0,0,0,,Not at all
+Dialogue: 2,0:27:57.56,0:27:59.67,normal_Wed,,0,0,0,,Maybe change your name
+Dialogue: 2,0:27:59.97,0:28:02.80,normal_Wed,,0,0,0,,That's too much, isn't it?
+Dialogue: 2,0:28:02.80,0:28:03.67,normal_Wed,,0,0,0,,Change my name
+Dialogue: 2,0:28:03.77,0:28:07.84,normal_Wed,,0,0,0,,Change my name just because of Wednesday Downtown
+Dialogue: 2,0:28:07.84,0:28:11.21,normal_Wed,,0,0,0,,It could be the second failure since Ontony
+Dialogue: 2,0:28:11.54,0:28:13.81,normal_Wed,,0,0,0,,The time has past 00:00
+Dialogue: 2,0:28:15.13,0:28:19.00,normal_Wed,,0,0,0,,At this point, the pitch ends
+Dialogue: 0,0:28:20.64,0:28:21.98,normal_Wed,,0,0,0,,So
+Dialogue: 2,0:28:22.95,0:28:25.69,normal_Wed,,0,0,0,,This is the place you are staying today
+Dialogue: 2,0:28:25.69,0:28:28.03,normal_Wed,,0,0,0,,This place is scary as hell
+Dialogue: 2,0:28:28.03,0:28:28.83,normal_Wed,,0,0,0,,What is this?
+Dialogue: 2,0:28:29.37,0:28:35.43,normal_Wed,,0,0,0,,Staying overnight in a cheap hotel somewhere in Tokyo, bound by the rule that he can't go back
+Dialogue: 1,0:28:35.60,0:28:36.91,wipe_Wed,,0,0,0,,So cheap \N-Don't say cheap
+Dialogue: 2,0:28:39.77,0:28:44.31,normal_Wed,,0,0,0,,Wow first time seeing a room like this
+Dialogue: 2,0:28:44.44,0:28:47.91,normal_Wed,,0,0,0,,I'm not going to die of oxygen deprivation, am I?
+Dialogue: 1,0:28:47.32,0:28:47.66,wipe_Wed,,0,0,0,,Don't say that
+Dialogue: 2,0:28:50.78,0:28:53.15,normal_Wed,,0,0,0,,What do you think so far?
+Dialogue: 2,0:28:53.69,0:28:55.60,normal_Wed,,0,0,0,,Quite interesting
+Dialogue: 2,0:28:56.05,0:28:59.26,normal_Wed,,0,0,0,,Is Morita the only one to watch in the second half?
+Dialogue: 2,0:28:59.46,0:29:00.69,normal_Wed,,0,0,0,,A bit unbalanced
+Dialogue: 2,0:29:01.75,0:29:04.05,normal_Wed,,0,0,0,,It feels like it will be very short if Morita is alone
+Dialogue: 2,0:29:05.16,0:29:08.30,normal_Wed,,0,0,0,,I feel like I don't want to watch it at all
+Dialogue: 2,0:29:08.30,0:29:09.54,normal_Wed,,0,0,0,,Does it end here?
+Dialogue: 2,0:29:18.01,0:29:21.95,normal_Wed,,0,0,0,,Good morning \N -Good morning
+Dialogue: 2,0:29:22.41,0:29:24.92,normal_Wed,,0,0,0,,I kept hearing the sound of rain
+Dialogue: 2,0:29:24.92,0:29:28.95,normal_Wed,,0,0,0,,The sound of rain, followed by the sound of rain
+Dialogue: 2,0:29:28.95,0:29:32.93,normal_Wed,,0,0,0,,Adjusting the air conditioner is hard as hell
+Dialogue: 2,0:29:33.36,0:29:34.53,normal_Wed,,0,0,0,,3-tatami room
+Dialogue: 2,0:29:34.53,0:29:35.76,normal_Wed,,0,0,0,,Is it cold?
+Dialogue: 2,0:29:35.76,0:29:37.60,normal_Wed,,0,0,0,,Cold and hot at the same time
+Dialogue: 2,0:29:37.60,0:29:41.63,normal_Wed,,0,0,0,,It's really hard, so annoying
+Dialogue: 2,0:29:42.00,0:29:45.21,normal_Wed,,0,0,0,,Not on the news yet?
+Dialogue: 2,0:29:45.21,0:29:48.84,normal_Wed,,0,0,0,,No
+Dialogue: 2,0:29:49.26,0:29:53.95,normal_Wed,,0,0,0,,By the second day his hands are already tied
+Dialogue: 2,0:29:55.42,0:29:58.92,normal_Wed,,0,0,0,,What to do to be on the news?
+Dialogue: 2,0:29:59.12,0:30:06.46,normal_Wed,,0,0,0,,I can't do that one? Talk about not getting paid for that one show
+Dialogue: 2,0:30:06.73,0:30:08.76,normal_Wed,,0,0,0,,Which show?
+Dialogue: 3,0:30:08.76,0:30:11.36,normal_Wed,,0,0,0,,{\c&H000000&\bord0\shad0}A very popular variety show
+Dialogue: 2,0:30:11.36,0:30:13.93,normal_Wed,,0,0,0,,I received no answer at all when I called the person in charge
+Dialogue: 2,0:30:13.93,0:30:14.47,normal_Wed,,0,0,0,,Eh?
+Dialogue: 2,0:30:14.47,0:30:15.77,normal_Wed,,0,0,0,,Always avoiding me
+Dialogue: 2,0:30:15.90,0:30:19.20,normal_Wed,,0,0,0,,It has been delayed for two or three years without payment
+Dialogue: 2,0:30:19.20,0:30:21.54,normal_Wed,,0,0,0,,It's okay for me to say it
+Dialogue: 2,0:30:21.54,0:30:23.51,normal_Wed,,0,0,0,,After all, the notice fee is owed
+Dialogue: 1,0:30:23.56,0:30:24.22,wipe_Wed,,0,0,0,,After all, it is the president
+Dialogue: 2,0:30:24.05,0:30:30.97,normal_Wed,,0,0,0,,But because the TBS Broadcasting regulations prohibit such things
+Dialogue: 2,0:30:32.46,0:30:36.70,normal_Wed,,0,0,0,,Instead, he first checks the day's comedian news
+Dialogue: 2,0:30:37.29,0:30:40.79,normal_Wed,,0,0,0,,High Heels Momoko and her kid out shopping
+Dialogue: 1,0:30:45.00,0:30:45.74,wipe_Wed,,0,0,0,,So cute
+Dialogue: 2,0:30:45.70,0:30:49.50,normal_Wed,,0,0,0,,What the hell, why does this make the news?
+Dialogue: 2,0:30:50.47,0:30:51.74,normal_Wed,,0,0,0,,Stop it
+Dialogue: 2,0:30:52.37,0:30:55.78,normal_Wed,,0,0,0,,A reproduction of the side dishes of the restaurant
+Dialogue: 2,0:31:00.08,0:31:01.45,normal_Wed,,0,0,0,,Very interesting
+Dialogue: 2,0:31:01.78,0:31:04.27,normal_Wed,,0,0,0,,Confusion about what to do
+Dialogue: 2,0:31:04.27,0:31:06.45,normal_Wed,,0,0,0,,Morita, becomes irritated
+Dialogue: 2,0:31:11.26,0:31:13.53,normal_Wed,,0,0,0,,Can I smoke?
+Dialogue: 2,0:31:13.53,0:31:15.29,normal_Wed,,0,0,0,,Eh, you haven't quit smoking?
+Dialogue: 2,0:31:15.29,0:31:18.43,normal_Wed,,0,0,0,,No, I can't, really
+Dialogue: 2,0:31:18.43,0:31:21.20,normal_Wed,,0,0,0,,I can't keep going without smoking
+Dialogue: 2,0:31:21.20,0:31:23.27,normal_Wed,,0,0,0,,If this continues
+Dialogue: 2,0:31:23.27,0:31:29.17,推特文字,,0,0,0,,{\fs47\pos(1059,408)}Although I decided to \Ntry to quit smoking yesterday, \NI couldn't bear it. I'm sorry\N for all the people who\N supported me.
+Dialogue: 2,0:31:24.73,0:31:27.83,normal_Wed,,0,0,0,,Quitting smoking lasted only one day
+Dialogue: 2,0:31:36.58,0:31:41.62,normal_Wed,,0,0,0,,It smells so good!
+Dialogue: 2,0:31:42.76,0:31:49.69,normal_Wed,,0,0,0,,He then uploads a video of the burn marks caused by past cooking
+Dialogue: 3,0:31:52.05,0:31:54.97,normal_Wed,,0,0,0,,In two days he has posted 7 times
+Dialogue: 3,0:31:55.36,0:32:01.06,normal_Wed,,0,0,0,,Despite posting on Twitter multiple times, he's yet to hit the news
+Dialogue: 3,0:32:03.64,0:32:08.45,normal_Wed,,0,0,0,,Name change?
+Dialogue: 3,0:32:08.45,0:32:11.48,normal_Wed,,0,0,0,,It doesn't matter anymore, i'll change it to something like St. Louis, whatever
+Dialogue: 1,0:32:10.65,0:32:11.72,wipe_Wed,,0,0,0,,Hey, hey, hey.  \N-Stop it
+Dialogue: 2,0:32:11.93,0:32:17.02,normal_Wed,,0,0,0,,Nothing has been achieved by the 34th hour
+Dialogue: 2,0:32:18.69,0:32:22.81,normal_Wed,,0,0,0,,But then, Morita comes up with a plan
+Dialogue: 2,0:32:22.81,0:32:24.99,normal_Wed,,0,0,0,,He is waiting for someone
+Dialogue: 0,0:32:25.97,0:32:27.36,normal_Wed,,0,0,0,,The other person is...
+Dialogue: 2,0:32:28.37,0:32:31.20,normal_Wed,,0,0,0,,Here we go. Here we go
+Dialogue: 0,0:32:31.20,0:32:33.38,normal_Wed,,0,0,0,,It's Fuwa, Fuwa, right?
+Dialogue: 2,0:32:33.80,0:32:37.11,normal_Wed,,0,0,0,,The big celebrity Fuwa
+Dialogue: 2,0:32:38.61,0:32:42.52,normal_Wed,,0,0,0,, What are you doing, need my help?
+Dialogue: 2,0:32:43.32,0:32:45.65,normal_Wed,,0,0,0,,Fuwa, you're a freelancer, right?
+Dialogue: 2,0:32:45.98,0:32:47.49,normal_Wed,,0,0,0,,Yeah
+Dialogue: 2,0:32:47.49,0:32:51.66,normal_Wed,,0,0,0,,Why don't you join our office, please?
+Dialogue: 2,0:32:52.06,0:32:56.39,normal_Wed,,0,0,0,,Fuwa, seriously you have to join us
+Dialogue: 2,0:32:56.39,0:32:59.10,normal_Wed,,0,0,0,,It will definitely make the news
+Dialogue: 2,0:32:59.10,0:33:04.54,normal_Wed,,0,0,0,,Fuwa, please, if you join it'll definitely make the news
+Dialogue: 2,0:33:04.54,0:33:09.34,normal_Wed,,0,0,0,,You're really worried about another day
+Dialogue: 2,0:33:09.34,0:33:10.71,normal_Wed,,0,0,0,,I can't
+Dialogue: 2,0:33:12.21,0:33:16.35,normal_Wed,,0,0,0,,How could I possibly join {\i1}your{\i0} agency?
+Dialogue: 2,0:33:17.91,0:33:23.60,normal_Wed,,0,0,0,,Pitching the attempted scouting that was simply rejected
+Dialogue: 2,0:33:26.02,0:33:29.75,normal_Wed,,0,0,0,,Fuwa also retweeted, "I said it was okay to have a meeting with the office since they open at 10, but I refused."
+Dialogue: 2,0:33:30.50,0:33:33.42,normal_Wed,,0,0,0,,I said it was okay to have a meeting with the office since they open at 10, but I refused
+Dialogue: 2,0:33:35.98,0:33:37.70,normal_Wed,,0,0,0,,Sure enough, she's funny!
+Dialogue: 1,0:33:37.69,0:33:40.25,wipe_Wed,,0,0,0,,That hotel again
+Dialogue: 2,0:33:43.48,0:33:45.88,normal_Wed,,0,0,0,,Why? Really
+Dialogue: 2,0:33:46.37,0:33:52.81,normal_Wed,,0,0,0,,Just now, thanks to Fuwa, it's been viewed by more than 10,000 people
+Dialogue: 2,0:33:53.37,0:33:55.29,normal_Wed,,0,0,0,,But still not in the news
+Dialogue: 2,0:33:59.96,0:34:02.03,normal_Wed,,0,0,0,,So annoying!
+Dialogue: 2,0:34:02.50,0:34:06.63,normal_Wed,,0,0,0,,Sell my organs?
+Dialogue: 2,0:34:07.30,0:34:12.35,normal_Wed,,0,0,0,,As the time hits 9.00, a third day becomes apparent
+Dialogue: 2,0:34:16.74,0:34:23.15,normal_Wed,,0,0,0,,Wait, eh?
+Dialogue: 2,0:34:23.92,0:34:27.25,normal_Wed,,0,0,0,,Wait a second, Look at this, on Friday
+Dialogue: 2,0:34:27.25,0:34:38.23,推特文字,,0,0,0,,{\fn碳纤维正粗黑简体\fs45\pos(128,150.666)}Goodbye Light of Youth and Milk Boy's reunion, comedy fans are moved to tears
+Dialogue: 1,0:34:27.25,0:34:32.79,normal_Wed,,0,0,0,,Goodbye Light of Youth and Milk Boy's reunion, comedy fans are moved to tears
+Dialogue: 2,0:34:33.26,0:34:34.33,normal_Wed,,0,0,0,,How about this one?
+Dialogue: 1,0:34:33.87,0:34:34.95,wipe_Wed,,0,0,0,,The time difference is huge
+Dialogue: 2,0:34:34.79,0:34:38.23,normal_Wed,,0,0,0,,I'm on. I'm on
+Dialogue: 0,0:34:38.37,0:34:39.54,normal_Wed,,0,0,0,,Great!
+Dialogue: 2,0:34:40.80,0:34:46.91,normal_Wed,,0,0,0,,Unexpectedly, a submission made 32 hours ago becomes the news
+Dialogue: 1,0:34:47.04,0:34:48.25,wipe_Wed,,0,0,0,,It took a long time
+Dialogue: 2,0:34:53.15,0:34:58.92,normal_Wed,,0,0,0,,Sure enough a gossip magazine saved me
+Dialogue: 2,0:34:59.85,0:35:01.92,normal_Wed,,0,0,0,,Anyway, if I become popular
+Dialogue: 2,0:35:01.92,0:35:07.33,normal_Wed,,0,0,0,,If Friday reveal a scandal about me i'll still forgive them
+Dialogue: 2,0:35:07.73,0:35:15.18,normal_Wed,,0,0,0,,So, after 37 hours and 30 minutes, Morita can finally go home
+Dialogue: 2,0:35:18.76,0:35:22.06,normal_Wed,,0,0,0,,Ultimately, it happened, we were on the news
+Dialogue: 2,0:35:23.43,0:35:25.74,normal_Wed,,0,0,0,,We are also guilty of not being in the news
+Dialogue: 2,0:35:26.87,0:35:32.17,normal_Wed,,0,0,0,,Great! By the way, the inclusion of Fuwa was great!
+Dialogue: 2,0:35:32.39,0:35:37.92,normal_Wed,,0,0,0,,Her rejection of Morita's offer also later made the news
+Dialogue: 2,0:35:42.36,0:35:44.35,normal_Wed,,0,0,0,,If it was Chris, he wouldn't be able to go home
+Dialogue: 2,0:35:46.33,0:35:48.00,normal_Wed,,0,0,0,,He didn't participate this time
+Dialogue: 0,0:35:50.28,0:35:52.93,normal_Wed,,0,0,0,,Let’s get on with the next presenter please
+Dialogue: 0,0:35:58.29,0:36:03.43,normal_Wed,,0,0,0,,Jinnai Tomonori!
+Dialogue: 0,0:36:03.82,0:36:04.88,normal_Wed,,0,0,0,,A divorcee
+Dialogue: 0,0:36:04.88,0:36:08.67,normal_Wed,,0,0,0,,I'm divorced ... still making jokes about this
+Dialogue: 0,0:36:09.06,0:36:12.75,normal_Wed,,0,0,0,,This time I bring a special project
+Dialogue: 0,0:36:12.75,0:36:14.73,normal_Wed,,0,0,0,,First take a look at this
+Dialogue: 0,0:36:14.73,0:36:19.31,normal_Wed,,0,0,0,,Ancient and modern Japanese people popularity ranking
+Dialogue: 0,0:36:19.31,0:36:21.28,normal_Wed,,0,0,0,,This is it
+Dialogue: 0,0:36:21.60,0:36:27.77,normal_Wed,,0,0,0,,Three years ago, one of the most famous people in Japan was revealed to be Ichiro
+Dialogue: 0,0:36:21.60,0:36:27.77,note_Wed,,0,0,0,,{\blur4}※Ichiro Suzuki Japan's most famous baseball player, now retired
+Dialogue: 0,0:36:27.77,0:36:31.35,normal_Wed,,0,0,0,,This is another survey on the popularity of Japanese people
+Dialogue: 0,0:36:31.35,0:36:33.90,normal_Wed,,0,0,0,,Last time, deceased individuals were not counted
+Dialogue: 0,0:36:33.90,0:36:36.96,normal_Wed,,0,0,0,,This time, some famous people who are no longer with us are included
+Dialogue: 0,0:36:37.49,0:36:41.05,normal_Wed,,0,0,0,,So modern and ancient figures
+Dialogue: 0,0:36:42.32,0:36:43.69,normal_Wed,,0,0,0,,Historical figures are also allowed?
+Dialogue: 0,0:36:43.69,0:36:45.83,normal_Wed,,0,0,0,,Of course, such as Sakamoto Ryoma and so on
+Dialogue: 0,0:36:48.32,0:36:50.53,normal_Wed,,0,0,0,,This is a project of what the result would be if this comparison is made
+Dialogue: 0,0:36:50.53,0:36:51.50,normal_Wed,,0,0,0,,The results will be interesting
+Dialogue: 0,0:36:51.85,0:36:55.61,normal_Wed,,0,0,0,,After this, the ranking of Japanese people's popularity will be revealed
+Dialogue: 0,0:36:58.42,0:37:01.95,normal_Wed,,0,0,0,,Ancient and modern Japanese people popularity ranking
+Dialogue: 0,0:37:03.63,0:37:08.32,normal_Wed,,0,0,0,,The program team incorporated various categories of celebrities
+Dialogue: 0,0:37:08.32,0:37:10.45,normal_Wed,,0,0,0,,1000 people were picked randomly
+Dialogue: 0,0:37:11.56,0:37:13.50,normal_Wed,,0,0,0,,From the late teens to early 70s
+Dialogue: 0,0:37:13.50,0:37:18.57,normal_Wed,,0,0,0,,A questionnaire survey was conducted in Japan
+Dialogue: 0,0:37:19.00,0:37:23.79,normal_Wed,,0,0,0,,The same applies to this survey of Yoshimoto artists living nationwide
+Dialogue: 0,0:37:24.25,0:37:28.85,normal_Wed,,0,0,0,,Together with the general population's survey, its a total of 2,000 questionnaires
+Dialogue: 0,0:37:30.19,0:37:34.82,normal_Wed,,0,0,0,,So, the top 100 Japanese celebrity popularity rankings are created based on the questionnaire
+Dialogue: 0,0:37:35.72,0:37:38.54,normal_Wed,,0,0,0,,So let's start with the 100th place
+Dialogue: 0,0:37:38.88,0:37:42.68,normal_Wed,,0,0,0,,Essentially a really nice person
+Dialogue: 0,0:37:42.68,0:37:46.49,normal_Wed,,0,0,0,,I think they are positive
+Dialogue: 0,0:37:46.26,0:37:47.37,wipe_Wed,,0,0,0,,I think it's a comedian
+Dialogue: 0,0:37:46.49,0:37:48.56,normal_Wed,,0,0,0,,But inadvertently also seems a little melancholy
+Dialogue: 0,0:37:48.56,0:37:51.46,normal_Wed,,0,0,0,,Seems like they challenge a lot
+Dialogue: 0,0:37:51.46,0:37:55.59,normal_Wed,,0,0,0,,And they're often successful. I think it's awesome
+Dialogue: 0,0:37:55.86,0:37:58.36,normal_Wed,,0,0,0,,I'm not sure about this person either
+Dialogue: 0,0:37:58.36,0:37:59.87,normal_Wed,,0,0,0,,What's the name?
+Dialogue: 0,0:37:59.87,0:38:02.23,normal_Wed,,0,0,0,,No... i'm not sure then
+Dialogue: 0,0:38:02.23,0:38:04.20,normal_Wed,,0,0,0,,Really don't know the name
+Dialogue: 0,0:38:04.20,0:38:06.87,normal_Wed,,0,0,0,,They play an instrument?
+Dialogue: 0,0:38:06.87,0:38:08.51,normal_Wed,,0,0,0,,The one with the guitar
+Dialogue: 0,0:38:08.64,0:38:09.44,normal_Wed,,0,0,0,,It's Miyazono
+Dialogue: 0,0:38:09.84,0:38:11.24,normal_Wed,,0,0,0,,Miyazono
+Dialogue: 0,0:38:11.54,0:38:14.55,normal_Wed,,0,0,0,,In 100th place, Miyazono
+Dialogue: 0,0:38:15.55,0:38:19.12,normal_Wed,,0,0,0,,He enjoys wide popularity in the under-fifties age group
+Dialogue: 0,0:38:19.13,0:38:21.86,normal_Wed,,0,0,0,,At the age of 60 or 70, there is no presence
+Dialogue: 0,0:38:21.86,0:38:25.66,normal_Wed,,0,0,0,,Total popularity is 65.6%
+Dialogue: 0,0:38:26.46,0:38:29.66,normal_Wed,,0,0,0,,In ninety-nine is Junji Takada
+Dialogue: 0,0:38:30.24,0:38:32.44,normal_Wed,,0,0,0,,The opposite of the previous in the lower age groups
+Dialogue: 0,0:38:32.44,0:38:36.58,normal_Wed,,0,0,0,,In particular, only 20.2% of those in their teens are aware
+Dialogue: 0,0:38:36.16,0:38:37.66,wipe_Wed,,0,0,0,,It can't be helped
+Dialogue: 0,0:38:36.67,0:38:39.77,normal_Wed,,0,0,0,,Total popularity is 65.9%
+Dialogue: 0,0:38:40.21,0:38:42.10,normal_Wed,,0,0,0,,So, ninety-eighth place is
+Dialogue: 0,0:38:42.51,0:38:46.79,normal_Wed,,0,0,0,,Always smiling and able to respond to any kind of weirdness
+Dialogue: 0,0:38:47.01,0:38:50.75,normal_Wed,,0,0,0,,It's as if they were born to do comedy
+Dialogue: 0,0:38:50.75,0:38:53.18,normal_Wed,,0,0,0,,Married to a TV announcer, right?
+Dialogue: 0,0:38:53.65,0:38:55.25,normal_Wed,,0,0,0,,They do that
+Dialogue: 0,0:38:55.25,0:38:56.89,normal_Wed,,0,0,0,,Himura
+Dialogue: 0,0:38:57.33,0:39:03.17,normal_Wed,,0,0,0,,With a characteristic appearance, Himura of Bananaman is ranked ninety-eighth
+Dialogue: 0,0:39:03.41,0:39:06.33,normal_Wed,,0,0,0,,With a popularity of 66.1%
+Dialogue: 0,0:39:07.49,0:39:11.12,normal_Wed,,0,0,0,,Ninety-seventh place is Shohei Ohtani
+Dialogue: 0,0:39:11.65,0:39:15.04,normal_Wed,,0,0,0,,Ninety-sixth is Sakagami Shinobu
+Dialogue: 0,0:39:16.64,0:39:19.52,normal_Wed,,0,0,0,,After that, in ninety-fifth place is
+Dialogue: 0,0:39:20.58,0:39:23.65,normal_Wed,,0,0,0,,Heard they're a very capable person
+Dialogue: 0,0:39:23.65,0:39:26.45,normal_Wed,,0,0,0,,But seems to like women maybe a bit too much
+Dialogue: 0,0:39:26.65,0:39:30.56,normal_Wed,,0,0,0,,Huh? Who is this? I've seen him before
+Dialogue: 0,0:39:30.56,0:39:32.46,normal_Wed,,0,0,0,,Which textbook was he in?
+Dialogue: 0,0:39:32.46,0:39:34.76,normal_Wed,,0,0,0,,Seems like literary kind of thing
+Dialogue: 0,0:39:35.03,0:39:37.90,normal_Wed,,0,0,0,,Originally, the Prime Minister, of course, the former
+Dialogue: 0,0:39:37.90,0:39:40.83,normal_Wed,,0,0,0,,On the previous thousand yen bill, right?
+Dialogue: 0,0:39:40.83,0:39:42.60,normal_Wed,,0,0,0,,Ito Hirobumi
+Dialogue: 0,0:39:42.83,0:39:45.57,normal_Wed,,0,0,0,,Ninety-five Hirobumi Ito
+Dialogue: 0,0:39:45.79,0:39:49.27,normal_Wed,,0,0,0,,Here, for the first time, a historical character joins the list
+Dialogue: 0,0:39:49.74,0:39:52.94,normal_Wed,,0,0,0,,As opposed to the 40-somethings who used the old 1000 yen bills
+Dialogue: 0,0:39:52.94,0:39:56.13,normal_Wed,,0,0,0,,The difference in perception with the under-thirties is obvious
+Dialogue: 0,0:39:56.13,0:39:59.80,normal_Wed,,0,0,0,,The total is 66.5%
+Dialogue: 0,0:40:00.71,0:40:03.90,normal_Wed,,0,0,0,,The other rankings from ninety to one hundred are as follows
+Dialogue: 0,0:40:05.66,0:40:10.79,normal_Wed,,0,0,0,,Comedians who are active on variety shows and idols are all on the list.
+Dialogue: 0,0:40:12.87,0:40:18.24,normal_Wed,,0,0,0,,Next is 90-80
+Dialogue: 0,0:40:19.36,0:40:27.03,normal_Wed,,0,0,0,,Veteran artists such as Osamu Tezuka, the god of manga, Hagimoto Kinichi, and Takashi Okamura
+Dialogue: 0,0:40:27.03,0:40:32.12,normal_Wed,,0,0,0,,Also, two members of Arashi
+Dialogue: 0,0:40:32.67,0:40:36.36,normal_Wed,,0,0,0,,Among them, the eighty-first ranking is
+Dialogue: 0,0:40:37.32,0:40:43.96,normal_Wed,,0,0,0,,He is the man that women of our time long for
+Dialogue: 0,0:40:43.96,0:40:46.46,normal_Wed,,0,0,0,,Is he the one who imitated Junichi Ishida?
+Dialogue: 0,0:40:46.46,0:40:50.54,normal_Wed,,0,0,0,,The person with the rolled up knitted sweater?
+Dialogue: 0,0:40:50.54,0:40:53.17,normal_Wed,,0,0,0,,Junichi Koishida?
+Dialogue: 0,0:40:52.42,0:40:54.06,wipe_Wed,,0,0,0,,Junichi Koishida can get here?
+Dialogue: 0,0:40:54.06,0:40:56.20,wipe_Wed,,0,0,0,,How is that possible
+Dialogue: 0,0:40:53.34,0:40:55.21,normal_Wed,,0,0,0,,Showa's Big Star
+Dialogue: 0,0:40:55.44,0:40:57.44,normal_Wed,,0,0,0,,Police...?
+Dialogue: 0,0:40:57.44,0:40:59.81,normal_Wed,,0,0,0,,Looking through blinds like this
+Dialogue: 0,0:40:59.98,0:41:01.95,normal_Wed,,0,0,0,,Yujiro Ishihara
+Dialogue: 0,0:41:02.37,0:41:05.07,normal_Wed,,0,0,0,,The eighty-first person, Yujiro Ishihara
+Dialogue: 0,0:41:05.78,0:41:11.08,normal_Wed,,0,0,0,,Awareness rate among people in the 50s and 60s is over 90%
+Dialogue: 0,0:41:11.30,0:41:16.07,normal_Wed,,0,0,0,,Only 12.8% of teenagers are aware of him
+Dialogue: 0,0:41:16.56,0:41:20.66,normal_Wed,,0,0,0,,The overall total is 71.2% awareness
+Dialogue: 0,0:41:22.29,0:41:25.04,normal_Wed,,0,0,0,,Next is 79-70
+Dialogue: 0,0:41:26.54,0:41:32.51,normal_Wed,,0,0,0,,An entertainer, politician, actor, musician, former boxer and the 10,000 yen bill
+Dialogue: 0,0:41:31.15,0:41:32.51,note_Wed - Mid,,0,0,0,,{\blur4}※Fukuzawa Okekichi was printed on the 10,000 yen bill from 2004 to 2024, and will be replaced by Shibuzawa Eiichi
+Dialogue: 0,0:41:32.88,0:41:36.20,normal_Wed,,0,0,0,,Appearances by prominent individuals across a wide range of categories
+Dialogue: 0,0:41:36.67,0:41:40.12,normal_Wed,,0,0,0,,Next is 69-60
+Dialogue: 0,0:41:41.85,0:41:48.14,normal_Wed,,0,0,0,,With Kei Nishikori, Naomi Osaka, two of the world's most active professional tennis players
+Dialogue: 0,0:41:48.14,0:41:49.99,normal_Wed,,0,0,0,,And two surprising ones
+Dialogue: 0,0:41:51.93,0:41:57.24,normal_Wed,,0,0,0,,I think i've seen a program about him, something to do with a vault
+Dialogue: 0,0:41:58.27,0:41:59.14,normal_Wed,,0,0,0,,Tokugawa Ieyasu?
+Dialogue: 0,0:41:59.14,0:42:01.47,normal_Wed,,0,0,0,,No
+Dialogue: 0,0:42:01.47,0:42:03.51,normal_Wed,,0,0,0,,Like... \N -Emperor Tenchi?
+Dialogue: 0,0:42:03.52,0:42:07.08,normal_Wed,,0,0,0,,It's the monkey, isn't it?
+Dialogue: 0,0:42:07.08,0:42:09.68,normal_Wed,,0,0,0,,What is the name of the one nicknamed Monkey?
+Dialogue: 0,0:42:09.68,0:42:13.42,normal_Wed,,0,0,0,,Toyotomi Hideyoshi, right?
+Dialogue: 0,0:42:13.42,0:42:14.56,normal_Wed,,0,0,0,,So it's him...
+Dialogue: 0,0:42:14.93,0:42:17.85,normal_Wed,,0,0,0,,Sixty-seventh is Toyotomi Hideyoshi
+Dialogue: 0,0:42:18.31,0:42:23.42,normal_Wed,,0,0,0,,A popularity rate of 74.9%
+Dialogue: 0,0:42:23.96,0:42:26.96,normal_Wed,,0,0,0,,And this one in sixty-third place is
+Dialogue: 0,0:42:27.63,0:42:30.64,normal_Wed,,0,0,0,,Always trying to achieve his dream
+Dialogue: 0,0:42:30.64,0:42:32.74,normal_Wed,,0,0,0,,The man who established the Edo Shogunate?
+Dialogue: 0,0:42:33.07,0:42:34.18,normal_Wed,,0,0,0,,Tokugawa Ieyasu
+Dialogue: 0,0:42:34.57,0:42:39.30,normal_Wed,,0,0,0,,Two superstars of the Warring States period made the list in the 60s
+Dialogue: 0,0:42:41.02,0:42:44.01,normal_Wed,,0,0,0,,Next is 59th to 50th
+Dialogue: 0,0:42:44.40,0:42:47.66,normal_Wed,,0,0,0,,Baseball players such as Hideki Matsui and Katsuya Nomura
+Dialogue: 0,0:42:48.17,0:42:52.36,normal_Wed,,0,0,0,,And a leading figure in Japan, Masayoshi Son
+Dialogue: 0,0:42:53.56,0:42:55.64,normal_Wed,,0,0,0,,Ranked at the fifty-sixth position is
+Dialogue: 0,0:42:56.13,0:42:58.20,normal_Wed,,0,0,0,,Thinks about future generations
+Dialogue: 0,0:42:58.20,0:43:01.27,normal_Wed,,0,0,0,,Very interesting and very good at talking
+Dialogue: 0,0:43:01.27,0:43:04.17,normal_Wed,,0,0,0,,And stomach not so good
+Dialogue: 0,0:43:04.60,0:43:06.31,normal_Wed,,0,0,0,,A comedian
+Dialogue: 0,0:43:06.54,0:43:09.58,normal_Wed,,0,0,0,,He has the impression that he is very good at improvisation
+Dialogue: 0,0:43:09.97,0:43:12.54,normal_Wed,,0,0,0,,Had an accident on a motorcylce
+Dialogue: 0,0:43:12.54,0:43:13.94,normal_Wed,,0,0,0,,Chihara Junior
+Dialogue: 0,0:43:13.94,0:43:15.31,normal_Wed,,0,0,0,,Great, Junior
+Dialogue: 0,0:43:15.31,0:43:17.92,normal_Wed,,0,0,0,,Awesome! \N-56th!
+Dialogue: 0,0:43:17.92,0:43:24.18,normal_Wed,,0,0,0,,The 56th place is Chihara Junior and the 54th place is
+Dialogue: 0,0:43:20.96,0:43:22.35,wipe_Wed,,0,0,0,,Above Ieyasu
+Dialogue: 0,0:43:24.99,0:43:28.36,normal_Wed,,0,0,0,,The ability to take everything in a funny direction
+Dialogue: 0,0:43:28.43,0:43:30.80,normal_Wed,,0,0,0,,Quick-witted
+Dialogue: 0,0:43:31.56,0:43:37.27,normal_Wed,,0,0,0,,Yoshimoto's commenter, right? The one who interviews in various places
+Dialogue: 0,0:43:37.27,0:43:41.74,normal_Wed,,0,0,0,,Became popular by doing interviews that no one else would do, right?
+Dialogue: 0,0:43:42.54,0:43:44.34,normal_Wed,,0,0,0,,Crawfish caught in the mouth of the one
+Dialogue: 0,0:43:44.34,0:43:48.31,normal_Wed,,0,0,0,,Degawa
+Dialogue: 0,0:43:49.35,0:43:51.42,normal_Wed,,0,0,0,,Very happy, thank you very much
+Dialogue: 0,0:43:51.76,0:43:54.36,normal_Wed,,0,0,0,,Fifty-fourth is Degawa
+Dialogue: 0,0:43:52.88,0:43:54.38,wipe_Wed,,0,0,0,,{\pos(1206,116)}A higher ranking would be acceptable
+Dialogue: 0,0:43:54.60,0:43:58.95,normal_Wed,,0,0,0,,The two people in the studio are on the list together
+Dialogue: 0,0:43:59.25,0:44:02.22,normal_Wed,,0,0,0,,But who is in-between?
+Dialogue: 0,0:44:02.70,0:44:03.76,normal_Wed,,0,0,0,,Whose father?
+Dialogue: 0,0:44:03.76,0:44:06.43,normal_Wed,,0,0,0,,Junichi Ishii... \N -Who is it?
+Dialogue: 0,0:44:06.43,0:44:08.13,normal_Wed,,0,0,0,,Junichi?\N  -Father
+Dialogue: 0,0:44:08.13,0:44:09.74,normal_Wed,,0,0,0,,No
+Dialogue: 0,0:44:09.74,0:44:10.77,normal_Wed,,0,0,0,,Whose father are they?
+Dialogue: 0,0:44:10.77,0:44:16.08,normal_Wed,,0,0,0,,In our days, he was seen as a big boss
+Dialogue: 0,0:44:16.08,0:44:17.74,normal_Wed,,0,0,0,,Nagashima
+Dialogue: 0,0:44:18.18,0:44:20.78,normal_Wed,,0,0,0,,Fifty-fifth is Shigeo Nagashima
+Dialogue: 0,0:44:21.22,0:44:24.47,normal_Wed,,0,0,0,,An unexpected combination
+Dialogue: 0,0:44:24.47,0:44:27.62,normal_Wed,,0,0,0,,Famous people in Japan from the past to the present
+Dialogue: 0,0:44:27.96,0:44:30.87,normal_Wed,,0,0,0,,Next, 49-40
+Dialogue: 0,0:44:32.41,0:44:35.37,normal_Wed,,0,0,0,,Among entertainers and former sports players
+Dialogue: 0,0:44:35.77,0:44:38.02,normal_Wed,,0,0,0,,The forty-first is
+Dialogue: 0,0:44:38.83,0:44:43.54,normal_Wed,,0,0,0,,A world champion, right?
+Dialogue: 0,0:44:43.73,0:44:46.64,normal_Wed,,0,0,0,,Pro wrestling
+Dialogue: 0,0:44:46.87,0:44:49.21,normal_Wed,,0,0,0,,1 2 3
+Dialogue: 0,0:44:50.54,0:44:53.55,normal_Wed,,0,0,0,,Anthony's...what is it again?
+Dialogue: 0,0:44:53.55,0:44:56.11,normal_Wed,,0,0,0,,It's Antonio Inoki
+Dialogue: 0,0:44:56.27,0:44:59.08,normal_Wed,,0,0,0,,Forty-first Antonio Inoki
+Dialogue: 0,0:44:59.58,0:45:02.98,normal_Wed,,0,0,0,,Widely recognized for his participation in a variety of activities
+Dialogue: 0,0:45:02.98,0:45:05.51,normal_Wed,,0,0,0,,The only pro wrestler to make the list
+Dialogue: 0,0:45:07.37,0:45:10.04,normal_Wed,,0,0,0,,Next is 39 to 30
+Dialogue: 0,0:45:11.12,0:45:16.38,normal_Wed,,0,0,0,,From Takuya Kimura, Shingo Katori, Yuzuru Hanyu, and other national stars
+Dialogue: 0,0:45:16.69,0:45:23.27,normal_Wed,,0,0,0,,To Madame Devi, Ken Watanabe and other big names have come together
+Dialogue: 0,0:45:24.51,0:45:27.93,normal_Wed,,0,0,0,,Among them, the 30th is
+Dialogue: 0,0:45:28.45,0:45:31.62,normal_Wed,,0,0,0,,How can I put it? I have the impression that they were involved in some interesting things
+Dialogue: 0,0:45:31.95,0:45:34.59,normal_Wed,,0,0,0,,Killed
+Dialogue: 0,0:45:35.12,0:45:38.86,normal_Wed,,0,0,0,,Takeda likes him.\N  -Ah yes yes yes
+Dialogue: 0,0:45:39.19,0:45:42.76,normal_Wed,,0,0,0,,"The Dawn of Japan is Near"
+Dialogue: 0,0:45:42.76,0:45:44.66,normal_Wed,,0,0,0,,Do you know the name of this one?
+Dialogue: 0,0:45:44.66,0:45:47.13,normal_Wed,,0,0,0,,Not good at history, sorry, I don't know
+Dialogue: 0,0:45:47.13,0:45:48.97,normal_Wed,,0,0,0,,Sakamoto Ryoma
+Dialogue: 0,0:45:49.66,0:45:53.42,normal_Wed,,0,0,0,,Sakamoto Ryoma with 86.0%
+Dialogue: 0,0:45:54.09,0:45:57.11,normal_Wed,,0,0,0,,His popularity in Kochi Prefecture is 100%
+Dialogue: 0,0:45:57.11,0:46:00.40,normal_Wed,,0,0,0,,However, in the country overall he is ranked thirtieth
+Dialogue: 0,0:46:02.39,0:46:07.91,normal_Wed,,0,0,0,,Next is 29-20
+Dialogue: 0,0:46:08.86,0:46:14.79,normal_Wed,,0,0,0,,Her popularity rates exceed 85
+Dialogue: 0,0:46:16.89,0:46:19.38,normal_Wed,,0,0,0,,Twenty-sixth is
+Dialogue: 0,0:46:20.43,0:46:23.50,normal_Wed,,0,0,0,,He is on TV and seems to be very strict with his juniors
+Dialogue: 0,0:46:23.50,0:46:28.44,normal_Wed,,0,0,0,,After being hit by this person, you'll become a star
+Dialogue: 0,0:46:28.44,0:46:31.74,normal_Wed,,0,0,0,,Looks very horny
+Dialogue: 0,0:46:31.74,0:46:34.41,normal_Wed,,0,0,0,,Has the impression of shouting "results are published", right?
+Dialogue: 0,0:46:31.90,0:46:34.62,wipe_Wed,,0,0,0,,That's right!
+Dialogue: 0,0:46:34.41,0:46:35.65,normal_Wed,,0,0,0,,Hama-chan
+Dialogue: 0,0:46:35.88,0:46:38.46,normal_Wed,,0,0,0,,No one wants to be called "horny-looking"
+Dialogue: 0,0:46:39.75,0:46:43.43,normal_Wed,,0,0,0,,Masatoshi Hamada 86.4%
+Dialogue: 0,0:46:44.01,0:46:48.55,normal_Wed,,0,0,0,,Very popular with people in their 30s and 40s
+Dialogue: 0,0:46:48.83,0:46:51.43,normal_Wed,,0,0,0,,Successfully places 26th
+Dialogue: 0,0:46:52.85,0:46:55.25,normal_Wed,,0,0,0,,However, there are also such people
+Dialogue: 0,0:46:57.30,0:47:02.27,normal_Wed,,0,0,0,,This man is... a manzai guy or something?
+Dialogue: 0,0:47:03.78,0:47:04.94,normal_Wed,,0,0,0,,Can't remember
+Dialogue: 0,0:47:05.08,0:47:08.69,normal_Wed,,0,0,0,,But I think this person is certainly not a bad guy
+Dialogue: 0,0:47:08.88,0:47:11.52,normal_Wed,,0,0,0,,This person is a member of the group "Downtown"
+Dialogue: 0,0:47:08.88,0:47:09.92,wipe_Wed,,0,0,0,,Ah, is that right?
+Dialogue: 0,0:47:11.52,0:47:12.82,normal_Wed,,0,0,0,,I don't know them
+Dialogue: 0,0:47:14.42,0:47:17.66,normal_Wed,,0,0,0,,Don't know Downtown, impressive
+Dialogue: 0,0:47:18.11,0:47:21.27,normal_Wed,,0,0,0,,Next in twenty-first place is
+Dialogue: 0,0:47:22.59,0:47:26.97,normal_Wed,,0,0,0,,Ah, this is my favorite person, has been for a long time
+Dialogue: 0,0:47:26.97,0:47:28.60,normal_Wed,,0,0,0,,I am so happy
+Dialogue: 0,0:47:28.60,0:47:32.37,normal_Wed,,0,0,0,,Is a genius and hard worker
+Dialogue: 0,0:47:32.60,0:47:34.61,normal_Wed,,0,0,0,,A big name
+Dialogue: 0,0:47:34.61,0:47:37.04,normal_Wed,,0,0,0,,Last year, AI at Kohaku
+Dialogue: 0,0:47:37.04,0:47:38.88,normal_Wed,,0,0,0,,"Flowing"
+Dialogue: 0,0:47:39.48,0:47:41.15,normal_Wed,,0,0,0,,It's Misora Hibari
+Dialogue: 0,0:47:41.43,0:47:44.09,normal_Wed,,0,0,0,,The twenty-first is Misora Hibari
+Dialogue: 0,0:47:44.47,0:47:48.81,normal_Wed,,0,0,0,,A female Showa singer who has overwhelming popularity among people over 40 years old
+Dialogue: 0,0:47:45.60,0:47:48.54,wipe_Wed,,0,0,0,,{\pos(1218,136)}But the teenagers do not know her very well
+Dialogue: 0,0:47:48.96,0:47:51.43,wipe_Wed,,0,0,0,,{\pos(1270,142)}Indeed, not even half
+Dialogue: 0,0:47:49.20,0:47:52.06,normal_Wed,,0,0,0,,Sure enough, the awareness of the teenage population is not very high
+Dialogue: 0,0:47:52.06,0:47:55.52,normal_Wed,,0,0,0,,Overall statistic is 87.3%
+Dialogue: 0,0:47:56.08,0:48:03.32,normal_Wed,,0,0,0,,Now is 19-11
+Dialogue: 0,0:48:04.27,0:48:06.15,normal_Wed,,0,0,0,,First of all, 19th place is
+Dialogue: 0,0:48:06.97,0:48:11.08,normal_Wed,,0,0,0,,Does collaborations on Youtube
+Dialogue: 0,0:48:11.08,0:48:14.31,normal_Wed,,0,0,0,,Due to the epidemic, I started to pay attention to this person
+Dialogue: 0,0:48:14.31,0:48:17.75,normal_Wed,,0,0,0,,The one who caused social unrest
+Dialogue: 0,0:48:18.08,0:48:20.09,normal_Wed,,0,0,0,,Koike
+Dialogue: 0,0:48:20.28,0:48:23.78,normal_Wed,,0,0,0,,Yuriko Koike 87.7%
+Dialogue: 0,0:48:24.21,0:48:26.74,normal_Wed,,0,0,0,,Who was successfully re-elected in the previous municipal elections
+Dialogue: 0,0:48:26.74,0:48:30.19,normal_Wed,,0,0,0,,Tokyo's Leader ranked 19th place
+Dialogue: 0,0:48:31.37,0:48:33.26,normal_Wed,,0,0,0,,18th place is
+Dialogue: 0,0:48:33.74,0:48:37.19,normal_Wed,,0,0,0,,Tetsuya Takeda 87.8%
+Dialogue: 0,0:48:38.44,0:48:44.29,normal_Wed,,0,0,0,,17th place is Darvish Yu with 88.3%
+Dialogue: 0,0:48:45.54,0:48:47.02,normal_Wed,,0,0,0,,16th is
+Dialogue: 0,0:48:48.41,0:48:51.48,normal_Wed,,0,0,0,,Big body but small capacity
+Dialogue: 0,0:48:51.78,0:48:55.22,normal_Wed,,0,0,0,,Sweet potatoes
+Dialogue: 0,0:48:56.42,0:48:57.59,normal_Wed,,0,0,0,,Seems to like dogs
+Dialogue: 0,0:48:57.59,0:49:00.23,normal_Wed,,0,0,0,,There's a dog on a leash, right? On a bronze statue?
+Dialogue: 0,0:49:00.23,0:49:01.43,normal_Wed,,0,0,0,,Saigo Takamori
+Dialogue: 0,0:49:01.89,0:49:07.27,normal_Wed,,0,0,0,,His bronze statue can be seen in Ueno, 89.4%
+Dialogue: 0,0:49:08.11,0:49:09.93,normal_Wed,,0,0,0,,15th is
+Dialogue: 0,0:49:10.87,0:49:15.94,normal_Wed,,0,0,0,,Very interesting, god of comedy
+Dialogue: 0,0:49:15.94,0:49:20.28,normal_Wed,,0,0,0,,Often see his comments on Twitter
+Dialogue: 0,0:49:20.28,0:49:22.01,normal_Wed,,0,0,0,,Should be a very gentle person
+Dialogue: 0,0:49:22.01,0:49:25.52,normal_Wed,,0,0,0,,Comments frequently on news
+Dialogue: 0,0:49:25.52,0:49:29.12,normal_Wed,,0,0,0,,Although he plays dumb, he also has a serious side
+Dialogue: 0,0:49:29.55,0:49:30.62,normal_Wed,,0,0,0,,Muscle
+Dialogue: 0,0:49:30.62,0:49:31.92,normal_Wed,,0,0,0,,It's not just muscles, right?
+Dialogue: 0,0:49:32.12,0:49:33.70,normal_Wed,,0,0,0,,Hitoshi Matsumoto
+Dialogue: 0,0:49:33.70,0:49:36.66,normal_Wed,,0,0,0,,That's amazing!  \N-90%!
+Dialogue: 0,0:49:37.27,0:49:40.33,normal_Wed,,0,0,0,,Hitoshi Matsumoto with 90.4%
+Dialogue: 0,0:49:40.82,0:49:44.19,normal_Wed,,0,0,0,,Second in Japan in terms of number of Twitter followers
+Dialogue: 0,0:49:44.19,0:49:48.55,normal_Wed,,0,0,0,,Overwhelming popularity in the age group from 20s to 50s
+Dialogue: 0,0:49:48.55,0:49:52.36,normal_Wed,,0,0,0,,The first person to hit 90%
+Dialogue: 0,0:49:53.13,0:49:56.00,normal_Wed,,0,0,0,,Incidentally, the answer from the person who doesn't know Hamada is
+Dialogue: 0,0:49:54.98,0:49:56.00,wipe_Wed,,0,0,0,,Ask him
+Dialogue: 0,0:49:57.08,0:49:58.42,normal_Wed,,0,0,0,,Isn't this person Kiyohara?
+Dialogue: 0,0:50:03.65,0:50:07.44,normal_Wed,,0,0,0,,In 14th
+Dialogue: 0,0:50:08.40,0:50:11.80,normal_Wed,,0,0,0,,Prince Shotoku, with 90.5%
+Dialogue: 0,0:50:13.53,0:50:15.68,normal_Wed,,0,0,0,,13th is
+Dialogue: 0,0:50:16.95,0:50:19.95,normal_Wed,,0,0,0,,Ichiro with 91.1%
+Dialogue: 0,0:50:20.87,0:50:25.15,normal_Wed,,0,0,0,,12th is Kato Cha with 91.2%
+Dialogue: 0,0:50:25.59,0:50:30.66,normal_Wed,,0,0,0,,After that, in 11th place, failing to make the top ten, is
+Dialogue: 0,0:50:32.12,0:50:35.72,normal_Wed,,0,0,0,,Well, that... ah
+Dialogue: 0,0:50:35.72,0:50:37.96,normal_Wed,,0,0,0,,Ug, that, that... that...
+Dialogue: 0,0:50:37.96,0:50:41.46,normal_Wed,,0,0,0,,Last time, uh...
+Dialogue: 0,0:50:41.46,0:50:46.43,normal_Wed,,0,0,0,,Son starred in a TV series
+Dialogue: 0,0:50:48.13,0:50:50.30,normal_Wed,,0,0,0,,Former Prime Minister
+Dialogue: 0,0:50:50.30,0:50:53.21,normal_Wed,,0,0,0,,Son is an actor
+Dialogue: 0,0:50:52.07,0:50:53.20,wipe_Wed,,0,0,0,,Slutty hair
+Dialogue: 0,0:50:53.41,0:50:54.78,normal_Wed,,0,0,0,,Prime Minister Koizumi
+Dialogue: 0,0:50:55.21,0:50:58.84,normal_Wed,,0,0,0,,Junichiro Koizumi with 92.3%
+Dialogue: 0,0:50:59.55,0:51:04.05,normal_Wed,,0,0,0,,The man who has retired from politics but still has a high reputation
+Dialogue: 0,0:50:58.47,0:51:00.48,wipe_Wed,,0,0,0,,{\pos(1292,100)}Impressive, still popular
+Dialogue: 0,0:51:04.05,0:51:06.30,normal_Wed,,0,0,0,,Has a big gap in popularity with his sons
+Dialogue: 0,0:51:06.30,0:51:08.54,normal_Wed,,0,0,0,,Solidly in 11th place
+Dialogue: 0,0:51:10.56,0:51:14.56,normal_Wed,,0,0,0,,After that, we finally hit the top 10
+Dialogue: 0,0:51:14.56,0:51:18.54,normal_Wed,,0,0,0,,Who is the most famous person in Japan?
+Dialogue: 0,0:51:19.26,0:51:22.91,normal_Wed,,0,0,0,,So, that's everything up to 11
+Dialogue: 0,0:51:23.52,0:51:25.42,normal_Wed,,0,0,0,,There are some unexpected results
+Dialogue: 0,0:51:25.42,0:51:27.89,normal_Wed,,0,0,0,,Sakamoto Ryoma is a surprise
+Dialogue: 0,0:51:28.08,0:51:29.96,normal_Wed,,0,0,0,,Junior is very impressive, 56th
+Dialogue: 0,0:51:29.96,0:51:31.77,normal_Wed,,0,0,0,,It's awesome
+Dialogue: 0,0:51:31.77,0:51:34.48,normal_Wed,,0,0,0,,Degawa, Nagashima, Chihara
+Dialogue: 0,0:51:34.48,0:51:36.30,normal_Wed,,0,0,0,,Simply the best clean-up batters
+Dialogue: 0,0:51:38.07,0:51:42.77,normal_Wed,,0,0,0,,I'm really not well known in the grandparents' generation
+Dialogue: 0,0:51:42.77,0:51:48.51,normal_Wed,,0,0,0,,Well, yes, it's true... \N -Although I love them so much
+Dialogue: 0,0:51:48.92,0:51:50.90,normal_Wed,,0,0,0,,Even if you say so...
+Dialogue: 0,0:51:50.90,0:51:56.33,normal_Wed,,0,0,0,,But the fact that more than 50 people don't know Downtown is incredible
+Dialogue: 0,0:51:57.56,0:51:59.25,normal_Wed,,0,0,0,,Confused with Kiyohara
+Dialogue: 0,0:52:00.84,0:52:03.34,normal_Wed,,0,0,0,,Yes, how can I get confused with him?
+Dialogue: 0,0:52:05.96,0:52:11.19,normal_Wed,,0,0,0,,Finally, here is the top 10
+Dialogue: 0,0:52:11.59,0:52:13.47,normal_Wed,,0,0,0,,10th is
+Dialogue: 0,0:52:14.91,0:52:18.45,normal_Wed,,0,0,0,,Nobunaga Oda with 92.4%
+Dialogue: 0,0:52:18.95,0:52:21.56,normal_Wed,,0,0,0,,9th is
+Dialogue: 0,0:52:22.03,0:52:24.00,normal_Wed,,0,0,0,,This person, most people like him a lot
+Dialogue: 0,0:52:24.23,0:52:28.97,normal_Wed,,0,0,0,,I often went to the KOMA theater when he was there
+Dialogue: 0,0:52:28.97,0:52:31.74,normal_Wed,,0,0,0,,Often appears in Toei's yakuza movies
+Dialogue: 0,0:52:31.74,0:52:33.67,normal_Wed,,0,0,0,,Often imitated by people
+Dialogue: 0,0:52:33.67,0:52:35.77,normal_Wed,,0,0,0,,He's been on Kohaku, right?
+Dialogue: 0,0:52:35.77,0:52:36.82,normal_Wed,,0,0,0,,Still alive, right?
+Dialogue: 0,0:52:36.82,0:52:39.41,normal_Wed,,0,0,0,,Still here
+Dialogue: 0,0:52:39.51,0:52:41.05,normal_Wed,,0,0,0,,Kitajima Saburo
+Dialogue: 0,0:52:41.53,0:52:44.99,normal_Wed,,0,0,0,,Kitajima Saburo 92.5%
+Dialogue: 0,0:52:45.61,0:52:47.58,normal_Wed,,0,0,0,,Although not well known amongst teens
+Dialogue: 0,0:52:47.58,0:52:52.44,normal_Wed,,0,0,0,,He has over 90% awareness among people in their thirties and beyond
+Dialogue: 0,0:52:52.44,0:52:55.83,normal_Wed,,0,0,0,,A successful ninth place
+Dialogue: 0,0:52:57.35,0:52:59.16,normal_Wed,,0,0,0,,Next in eighth place is
+Dialogue: 0,0:52:59.64,0:53:02.47,normal_Wed,,0,0,0,,Very popular
+Dialogue: 0,0:53:02.47,0:53:05.10,normal_Wed,,0,0,0,,Although not very handsome
+Dialogue: 0,0:53:05.10,0:53:08.44,normal_Wed,,0,0,0,,It still makes people think "this person is very popular"
+Dialogue: 0,0:53:08.74,0:53:14.91,normal_Wed,,0,0,0,,The top comedian in Japan
+Dialogue: 0,0:53:14.91,0:53:16.75,normal_Wed,,0,0,0,,Loved by everyone
+Dialogue: 0,0:53:19.18,0:53:20.35,normal_Wed,,0,0,0,,Ken Shimura
+Dialogue: 0,0:53:20.71,0:53:25.29,normal_Wed,,0,0,0,,Eighth place is Shimura Ken with 92.8%
+Dialogue: 0,0:53:24.65,0:53:27.25,wipe_Wed,,0,0,0,,{\pos(1258,96)}84% of young people
+Dialogue: 0,0:53:26.24,0:53:30.50,normal_Wed,,0,0,0,,The comedy king who is adored by everyone from children to the elderly
+Dialogue: 0,0:53:30.50,0:53:33.79,normal_Wed,,0,0,0,,High awareness from the teens to the seventies
+Dialogue: 0,0:53:33.79,0:53:36.10,normal_Wed,,0,0,0,,Solidly in the top 10
+Dialogue: 0,0:53:37.48,0:53:39.06,normal_Wed,,0,0,0,,In seventh is
+Dialogue: 0,0:53:40.77,0:53:43.01,normal_Wed,,0,0,0,,Tsurono Takeshi
+Dialogue: 0,0:53:48.41,0:53:50.38,wipe_Wed,,0,0,0,,No chance
+Dialogue: 0,0:53:43.01,0:53:46.36,normal_Wed,,0,0,0,,{\fad(0,250)}Ah, no, ah...
+Dialogue: 0,0:53:46.58,0:53:49.71,normal_Wed,,0,0,0,,Name ah ... can not think of it
+Dialogue: 0,0:53:49.71,0:53:53.79,normal_Wed,,0,0,0,,Lip syncing?
+Dialogue: 0,0:53:53.79,0:53:58.32,normal_Wed,,0,0,0,,That and stalking
+Dialogue: 0,0:53:58.32,0:54:01.43,normal_Wed,,0,0,0,,Rings a bell while saying "order", something like that
+Dialogue: 0,0:54:01.43,0:54:03.53,normal_Wed,,0,0,0,,Masahiro Nakai
+Dialogue: 0,0:54:04.38,0:54:06.30,wipe_Wed,,0,0,0,,{\pos(1232,128)}Confused with Tsurono Takeshi?
+Dialogue: 0,0:54:03.82,0:54:07.46,normal_Wed,,0,0,0,,Masahiro Nakai 93.2%
+Dialogue: 0,0:54:08.10,0:54:10.52,normal_Wed,,0,0,0,,A national level top idol
+Dialogue: 0,0:54:10.52,0:54:15.35,normal_Wed,,0,0,0,,He is now ranked seventh as a representative of Japan
+Dialogue: 0,0:54:15.98,0:54:18.30,normal_Wed,,0,0,0,,Next in sixth place is
+Dialogue: 0,0:54:19.21,0:54:21.01,normal_Wed,,0,0,0,,Already a big name
+Dialogue: 0,0:54:21.01,0:54:23.85,normal_Wed,,0,0,0,,Speaks very strongly
+Dialogue: 0,0:54:23.85,0:54:27.62,normal_Wed,,0,0,0,,Very tall, manly feeling
+Dialogue: 0,0:54:27.62,0:54:30.52,normal_Wed,,0,0,0,,Short hair
+Dialogue: 0,0:54:30.52,0:54:32.03,normal_Wed,,0,0,0,,Wada Akiko
+Dialogue: 0,0:54:32.54,0:54:36.95,normal_Wed,,0,0,0,,Sixth place Wada Akiko 94.0%
+Dialogue: 0,0:54:37.52,0:54:40.88,normal_Wed,,0,0,0,,Very high level of recognition
+Dialogue: 0,0:54:40.88,0:54:44.81,normal_Wed,,0,0,0,,Ranks sixth
+Dialogue: 0,0:54:45.68,0:54:47.76,normal_Wed,,0,0,0,,Next in fifth place is
+Dialogue: 0,0:54:48.24,0:54:54.48,normal_Wed,,0,0,0,,He is famous all over the world and has the impression of being very cultured
+Dialogue: 0,0:54:54.65,0:54:56.75,normal_Wed,,0,0,0,,What's the name again? I'm not sure
+Dialogue: 0,0:54:56.75,0:54:57.78,normal_Wed,,0,0,0,,Can't remember
+Dialogue: 0,0:54:57.78,0:55:01.42,normal_Wed,,0,0,0,,"Tadashi?"
+Dialogue: 0,0:55:03.05,0:55:04.15,normal_Wed,,0,0,0,,Takeshi Kitano
+Dialogue: 0,0:55:04.71,0:55:08.48,normal_Wed,,0,0,0,,The first of the big 3 of comedy to make the list
+Dialogue: 0,0:55:08.86,0:55:13.36,normal_Wed,,0,0,0,,In fourth place, slightly ahead of Takeshi, is
+Dialogue: 0,0:55:14.43,0:55:16.90,normal_Wed,,0,0,0,,Constantly talking\N  -Keep on talking
+Dialogue: 0,0:55:16.90,0:55:18.27,normal_Wed,,0,0,0,,When he's on TV he doesn't stop
+Dialogue: 0,0:55:18.27,0:55:21.37,normal_Wed,,0,0,0,,The most distinctive part is his mouth?
+Dialogue: 0,0:55:21.61,0:55:23.34,normal_Wed,,0,0,0,,Comedy monster
+Dialogue: 0,0:55:23.34,0:55:24.38,normal_Wed,,0,0,0,,Hmm? A monster?
+Dialogue: 0,0:55:24.38,0:55:26.22,normal_Wed,,0,0,0,,Comedy monster
+Dialogue: 0,0:55:26.54,0:55:28.08,normal_Wed,,0,0,0,,Sanma
+Dialogue: 0,0:55:28.69,0:55:30.35,normal_Wed,,0,0,0,,Sanma
+Dialogue: 0,0:55:30.79,0:55:32.69,normal_Wed,,0,0,0,,Visibility among the forty-somethings
+Dialogue: 0,0:55:32.69,0:55:38.34,normal_Wed,,0,0,0,,Is the highest of any age group with 99.6%
+Dialogue: 0,0:55:38.65,0:55:41.22,normal_Wed,,0,0,0,,He successfully lands in 4th place
+Dialogue: 0,0:55:42.30,0:55:44.74,normal_Wed,,0,0,0,,Now, the final stretch of the ranking
+Dialogue: 0,0:55:45.06,0:55:48.17,normal_Wed,,0,0,0,,Who is the most famous person in Japan?
+Dialogue: 0,0:55:48.17,0:55:50.80,normal_Wed,,0,0,0,,In third is
+Dialogue: 0,0:55:52.14,0:55:55.21,normal_Wed,,0,0,0,,A graduate of Seikei University near here
+Dialogue: 0,0:55:55.21,0:55:58.68,normal_Wed,,0,0,0,,Japan's vegetable-beating uncle
+Dialogue: 0,0:55:58.68,0:56:01.35,normal_Wed,,0,0,0,,Small but cute mouth
+Dialogue: 0,0:56:01.35,0:56:02.85,normal_Wed,,0,0,0,,Shinzo Abe
+Dialogue: 0,0:56:03.13,0:56:05.33,normal_Wed,,0,0,0,,Third place is Shinzo Abe
+Dialogue: 0,0:56:06.13,0:56:10.59,normal_Wed,,0,0,0,,The longest-serving Prime Minister of Japan, no less
+Dialogue: 0,0:56:08.13,0:56:09.75,wipe_Wed,,0,0,0,,{\pos(1300,138)}Impressive
+Dialogue: 0,0:56:10.15,0:56:11.88,wipe_Wed,,0,0,0,,{\pos(1244,102)}Not 100% though
+Dialogue: 0,0:56:12.01,0:56:13.67,wipe_Wed,,0,0,0,,{\pos(1266,136)}Not 100%
+Dialogue: 0,0:56:10.89,0:56:14.00,normal_Wed,,0,0,0,,Awareness of 95.5%
+Dialogue: 0,0:56:14.93,0:56:17.04,normal_Wed,,0,0,0,,Who else is there?
+Dialogue: 0,0:56:17.77,0:56:19.98,normal_Wed,,0,0,0,,Next is 2nd place
+Dialogue: 0,0:56:20.33,0:56:22.93,normal_Wed,,0,0,0,,The 2nd most famous person in Japan is
+Dialogue: 0,0:56:23.43,0:56:28.55,normal_Wed,,0,0,0,,A very feminine person
+Dialogue: 0,0:56:28.55,0:56:29.64,normal_Wed,,0,0,0,,Has this impression
+Dialogue: 0,0:56:29.64,0:56:31.68,normal_Wed,,0,0,0,,Talks almost without breathing
+Dialogue: 0,0:56:31.68,0:56:35.55,normal_Wed,,0,0,0,,Seems almost inhuman
+Dialogue: 0,0:56:35.81,0:56:37.75,normal_Wed,,0,0,0,,Tetsuko Kuroyanagi
+Dialogue: 0,0:56:38.15,0:56:41.69,normal_Wed,,0,0,0,,Tetsuko Kuroyanagi with 96.8%
+Dialogue: 0,0:56:42.21,0:56:48.82,normal_Wed,,0,0,0,,As the number one TV actress in Japan, she has been active for over 60 years
+Dialogue: 0,0:56:48.82,0:56:51.04,normal_Wed,,0,0,0,,Successfully places 2nd
+Dialogue: 0,0:56:52.73,0:56:59.37,normal_Wed,,0,0,0,,So, the most popular in both modern and ancient Japan is
+Dialogue: 0,0:56:59.97,0:57:04.64,normal_Wed,,0,0,0,,Hosts, and communicates very well
+Dialogue: 0,0:57:04.64,0:57:06.21,normal_Wed,,0,0,0,,A big name
+Dialogue: 0,0:57:06.81,0:57:09.91,normal_Wed,,0,0,0,,Glamorous sunglasses
+Dialogue: 0,0:57:09.91,0:57:10.98,normal_Wed,,0,0,0,,Tamori
+Dialogue: 0,0:57:11.54,0:57:14.91,normal_Wed,,0,0,0,,Tamori with 97.4%
+Dialogue: 0,0:57:15.19,0:57:17.87,normal_Wed,,0,0,0,,It's been six years since the end of "It's okay to laugh"
+Dialogue: 0,0:57:18.12,0:57:20.74,normal_Wed,,0,0,0,,Although he isn't on TV every day anymore
+Dialogue: 0,0:57:20.74,0:57:23.59,normal_Wed,,0,0,0,,His popularity is still overwhelmingly high
+Dialogue: 0,0:57:23.59,0:57:26.59,normal_Wed,,0,0,0,,He shines in 1st place
+Dialogue: 0,0:57:26.59,0:57:28.76,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:57:29.10,0:57:32.28,normal_Wed,,0,0,0,,It was Tamori
+Dialogue: 0,0:57:32.28,0:57:34.87,normal_Wed,,0,0,0,,The one who doesn't know Downtown
+Dialogue: 0,0:57:34.87,0:57:38.20,normal_Wed,,0,0,0,,Must know Tamori and Tetsuko Kuroyanagi, right?
+Dialogue: 0,0:57:38.20,0:57:39.40,normal_Wed,,0,0,0,,Should do
+Dialogue: 0,0:57:39.40,0:57:41.36,normal_Wed,,0,0,0,,Bring that man to me
+Dialogue: 0,0:57:42.28,0:57:43.68,normal_Wed,,0,0,0,,Wanna beat him up?
+Dialogue: 0,0:57:45.32,0:57:47.71,normal_Wed,,0,0,0,,I want to ask that person a lot of questions
+Dialogue: 0,0:57:47.71,0:57:50.40,normal_Wed,,0,0,0,,Like do you know this or that  person?
+Dialogue: 0,0:57:51.89,0:57:54.88,normal_Wed,,0,0,0,,Surely he knows omelet rice or curry rice, stuff like that, right?
+Dialogue: 0,0:57:55.17,0:57:56.69,normal_Wed,,0,0,0,,Surely, right?
+Dialogue: 0,0:57:56.76,0:57:58.02,normal_Wed,,0,0,0,,Cheeseburger or something
+Dialogue: 0,0:57:58.66,0:58:00.00,normal_Wed,,0,0,0,,Cheeseburger could be a bit iffy
+Dialogue: 0,0:58:00.00,0:58:04.22,normal_Wed,,0,0,0,,"It's something with cheese in it," or something like that
+Dialogue: 0,0:58:06.43,0:58:08.94,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 2,0:58:13.89,0:58:17.40,normal_Wed,,0,0,0,,It's Kendo Kobayashi
+Dialogue: 2,0:58:20.95,0:58:25.49,normal_Wed,,0,0,0,,Do you all know these two?
+Dialogue: 2,0:58:27.32,0:58:28.97,normal_Wed,,0,0,0,,Of course
+Dialogue: 2,0:58:30.36,0:58:36.11,normal_Wed,,0,0,0,,These program has realized these two are extremely odd
+Dialogue: 2,0:58:36.73,0:58:40.95,normal_Wed,,0,0,0,,Kasuga is incredibly good at staying put when told
+Dialogue: 2,0:58:41.41,0:58:44.54,normal_Wed,,0,0,0,,Yes. \N -Speaks strange languages too
+Dialogue: 2,0:58:45.16,0:58:46.63,normal_Wed,,0,0,0,,Basically, we know
+Dialogue: 2,0:58:46.86,0:58:51.73,normal_Wed,,0,0,0,,These two have been found to have unusual endurance
+Dialogue: 2,0:58:52.98,0:59:02.02,normal_Wed,,0,0,0,,Dancho did a verification of riding a bicycle for 24-hours
+Dialogue: 2,0:59:02.02,0:59:08.83,normal_Wed,,0,0,0,,And a competition in -15 degrees in the snow in thin clothing for 2 hours and 20 minutes
+Dialogue: 2,0:59:09.21,0:59:13.53,normal_Wed,,0,0,0,,As well as surviving in a sauna at 80 degrees with clothes on for 56 minutes
+Dialogue: 2,0:59:14.60,0:59:16.64,normal_Wed,,0,0,0,,"Surviving"...
+Dialogue: 2,0:59:16.86,0:59:20.90,normal_Wed,,0,0,0,,Kasuga was proven to be even more obedient than dogs when being told to wait
+Dialogue: 2,0:59:20.90,0:59:25.05,normal_Wed,,0,0,0,,He waited for staff for 6 hours and 39 minutes
+Dialogue: 2,0:59:25.93,0:59:29.72,normal_Wed,,0,0,0,,He was told to wait, so he waited
+Dialogue: 0,0:59:29.72,0:59:30.79,normal_Wed,,0,0,0,,Incredible
+Dialogue: 2,0:59:30.79,0:59:35.73,normal_Wed,,0,0,0,,I've looked at him differently since then
+Dialogue: 2,0:59:35.73,0:59:40.21,normal_Wed,,0,0,0,,So, we put these two together and came up with this project
+Dialogue: 2,0:59:41.39,0:59:45.72,normal_Wed,,0,0,0,,Dancho vs Kasuga endurance duel
+Dialogue: 2,0:59:49.07,0:59:51.12,normal_Wed,,0,0,0,,Finally its time to pit them against each other
+Dialogue: 2,0:59:51.12,0:59:54.12,normal_Wed,,0,0,0,,One-on-one
+Dialogue: 2,0:59:54.12,0:59:56.45,normal_Wed,,0,0,0,,Degawa was also involved in this shoot
+Dialogue: 2,0:59:56.45,0:59:58.16,normal_Wed,,0,0,0,,Yes\N  -Really?
+Dialogue: 2,0:59:58.38,1:00:01.75,normal_Wed,,0,0,0,,With fear and trepidation
+Dialogue: 2,1:00:01.89,1:00:03.82,normal_Wed,,0,0,0,,Both are very unyielding
+Dialogue: 2,1:00:05.62,1:00:13.77,normal_Wed,,0,0,0,,I was concerned enough after seeing the 24-hour bike ride
+Dialogue: 2,1:00:13.77,1:00:17.80,normal_Wed,,0,0,0,,Downtown were also shocked \N -Yes, yes, yes
+Dialogue: 2,1:00:18.06,1:00:22.09,normal_Wed,,0,0,0,,If it's an ordinary program such as Shinuske's
+Dialogue: 2,1:00:22.09,1:00:25.81,normal_Wed,,0,0,0,,Everyone would have congratulated him and been very moved
+Dialogue: 2,1:00:26.45,1:00:29.88,normal_Wed,,0,0,0,,Very moving\N  -With female guest tears brought to tears or something
+Dialogue: 2,1:00:29.88,1:00:33.62,normal_Wed,,0,0,0,,Its obviously so hard to ride for 24 hours
+Dialogue: 2,1:00:34.26,1:00:39.92,normal_Wed,,0,0,0,,Sorry I messed up at the most important part
+Dialogue: 2,1:00:41.76,1:00:43.93,normal_Wed,,0,0,0,,Sounds like the sound of cicadas flying over
+Dialogue: 2,1:00:43.93,1:00:46.56,normal_Wed,,0,0,0,,Like cicadas chirping hikihikihi
+Dialogue: 2,1:01:04.35,1:01:09.15,normal_Wed,,0,0,0,,The commentary for this matchup is brought to you by Degawa Tetsuro
+Dialogue: 2,1:01:13.16,1:01:18.19,normal_Wed,,0,0,0,,To be honest, for me, I am more interested in this than M-1
+Dialogue: 2,1:01:18.19,1:01:18.96,normal_Wed,,0,0,0,,Thank you
+Dialogue: 2,1:01:18.96,1:01:24.57,normal_Wed,,0,0,0,,I think it's going to be a great match and I'm looking forward to it
+Dialogue: 2,1:01:24.57,1:01:26.74,normal_Wed,,0,0,0,,We also look forward to your commentary
+Dialogue: 2,1:01:27.37,1:01:34.86,normal_Wed,,0,0,0,,This time, the first one to win three games from these nine competitions will win
+Dialogue: 2,1:01:36.20,1:01:38.95,normal_Wed,,0,0,0,,The initial competition is
+Dialogue: 2,1:01:39.52,1:01:42.29,normal_Wed,,0,0,0,,So the first to choose is Dancho
+Dialogue: 2,1:01:42.51,1:01:45.19,normal_Wed,,0,0,0,,Lets start with the super hot bath \N -So quick!
+Dialogue: 2,1:01:45.19,1:01:47.61,normal_Wed,,0,0,0,,Super hot bath \N -So quick, so quick
+Dialogue: 2,1:01:48.02,1:01:48.43,normal_Wed,,0,0,0,,Not bad
+Dialogue: 2,1:01:48.43,1:01:52.96,normal_Wed,,0,0,0,,It was the first thing I saw
+Dialogue: 2,1:01:52.96,1:01:54.93,normal_Wed,,0,0,0,,It's decided, then, super hot bath
+Dialogue: 2,1:01:55.61,1:02:00.04,normal_Wed,,0,0,0,,Dancho uses his superb sense of variety shows and chooses the hot bath
+Dialogue: 2,1:02:00.87,1:02:05.68,normal_Wed,,0,0,0,,This is called the 'super' hot bath
+Dialogue: 2,1:02:05.98,1:02:09.38,normal_Wed,,0,0,0,,Because it's hotter than the average variety hot bath
+Dialogue: 2,1:02:09.38,1:02:13.78,normal_Wed,,0,0,0,,And the heating device will start after entering the water
+Dialogue: 2,1:02:13.78,1:02:14.48,normal_Wed,,0,0,0,,Eh?\N  -Eh?
+Dialogue: 1,1:02:15.27,1:02:16.01,wipe_Wed,,0,0,0,,It won't cool down
+Dialogue: 2,1:02:15.38,1:02:27.05,normal_Wed,,0,0,0,,This time, because of the two electric heaters, the water temperature will rise one degree every minute
+Dialogue: 2,1:02:28.36,1:02:31.20,normal_Wed,,0,0,0,,First time i've heard some heating rules like this
+Dialogue: 2,1:02:31.50,1:02:33.20,normal_Wed,,0,0,0,,It's already hot, right?
+Dialogue: 2,1:02:33.37,1:02:36.07,normal_Wed,,0,0,0,,So one degree is already a huge difference
+Dialogue: 0,1:02:36.62,1:02:38.05,normal_Wed,,0,0,0,,So
+Dialogue: 2,1:02:38.73,1:02:40.71,normal_Wed,,0,0,0,,First, the water is tested
+Dialogue: 2,1:02:41.04,1:02:45.52,normal_Wed,,0,0,0,,By Degawa, the first person to get into the tub
+Dialogue: 2,1:02:45.85,1:02:50.19,normal_Wed,,0,0,0,,Well, i'll rely on past experiences to judge
+Dialogue: 2,1:02:50.62,1:02:54.86,normal_Wed,,0,0,0,,I should be able to last 30 seconds to a minute
+Dialogue: 2,1:02:55.06,1:02:58.83,normal_Wed,,0,0,0,,Although I do not know the specific temperature first
+Dialogue: 2,1:02:58.83,1:03:02.27,normal_Wed,,0,0,0,,Is the temperature known? The usual hot bath
+Dialogue: 2,1:03:02.27,1:03:05.67,normal_Wed,,0,0,0,,Real temperature? Real...
+Dialogue: 2,1:03:05.67,1:03:10.41,normal_Wed,,0,0,0,,The real temperature is about 46 degrees
+Dialogue: 2,1:03:10.41,1:03:15.65,normal_Wed,,0,0,0,,For me its 46, for our group leader its 44
+Dialogue: 2,1:03:15.65,1:03:18.05,normal_Wed,,0,0,0,,Everyone is different?
+Dialogue: 2,1:03:18.35,1:03:20.68,normal_Wed,,0,0,0,,Our leader will be angry if he's told
+Dialogue: 2,1:03:20.68,1:03:23.55,normal_Wed,,0,0,0,,If you're feeling unwell it'll be lowered to 42
+Dialogue: 2,1:03:23.55,1:03:24.85,normal_Wed,,0,0,0,,Isn't that just a normal shower?
+Dialogue: 2,1:03:25.05,1:03:27.89,normal_Wed,,0,0,0,,The temperature is just right
+Dialogue: 2,1:03:28.06,1:03:32.80,normal_Wed,,0,0,0,,So, Degawa will now test it
+Dialogue: 1,1:03:32.36,1:03:35.70,wipe_Wed,,0,0,0,,46 degrees is hot enough. \N -It's hot enough
+Dialogue: 2,1:03:36.63,1:03:39.70,normal_Wed,,0,0,0,,Can already feel the heat
+Dialogue: 1,1:03:38.75,1:03:40.54,wipe_Wed,,0,0,0,,It is still fine
+Dialogue: 2,1:03:40.90,1:03:45.18,normal_Wed,,0,0,0,,So scary!
+Dialogue: 2,1:03:45.51,1:03:50.45,normal_Wed,,0,0,0,,Hey, don't push me in!
+Dialogue: 2,1:03:50.75,1:03:52.35,normal_Wed,,0,0,0,,Remember social distance, we can't
+Dialogue: 2,1:03:52.35,1:03:53.98,normal_Wed,,0,0,0,,Eh, what?
+Dialogue: 2,1:03:54.00,1:03:56.02,normal_Wed,,0,0,0,,People should keep distance from each other!
+Dialogue: 2,1:03:56.25,1:03:58.19,normal_Wed,,0,0,0,,You can't push me in because of social distancing, right?
+Dialogue: 2,1:03:58.19,1:04:02.23,normal_Wed,,0,0,0,,This is bad. No, no, no
+Dialogue: 2,1:04:02.23,1:04:04.23,normal_Wed,,0,0,0,,If i'm not pushed I can't react!
+Dialogue: 2,1:04:07.06,1:04:10.83,normal_Wed,,0,0,0,,So fast. \N -Hot, wait...
+Dialogue: 2,1:04:11.64,1:04:13.44,normal_Wed,,0,0,0,,Eh eh eh eh, Degawa?
+Dialogue: 2,1:04:14.47,1:04:16.74,normal_Wed,,0,0,0,,Isn't this stupid, Wednesday?
+Dialogue: 2,1:04:17.84,1:04:18.88,normal_Wed,,0,0,0,,What? What?
+Dialogue: 2,1:04:19.68,1:04:20.44,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 2,1:04:20.44,1:04:21.74,normal_Wed,,0,0,0,,Not 30 seconds at all
+Dialogue: 2,1:04:26.12,1:04:31.22,normal_Wed,,0,0,0,,Sorry, it's hotter than I thought it would be and it scared me
+Dialogue: 2,1:04:31.22,1:04:36.33,normal_Wed,,0,0,0,,How many degrees? How many degrees?\N  -49 degrees
+Dialogue: 2,1:04:36.33,1:04:38.13,normal_Wed,,0,0,0,,Two seconds is all it took to get red
+Dialogue: 2,1:04:39.86,1:04:45.00,normal_Wed,,0,0,0,,Can you see this? Please document this
+Dialogue: 2,1:04:45.00,1:04:46.34,normal_Wed,,0,0,0,,Really red
+Dialogue: 2,1:04:46.34,1:04:49.24,normal_Wed,,0,0,0,,Really burnt, so quickly
+Dialogue: 2,1:04:49.94,1:04:51.84,normal_Wed,,0,0,0,,After learning about the power of hot water
+Dialogue: 2,1:04:52.48,1:04:55.55,normal_Wed,,0,0,0,,I'll go second
+Dialogue: 2,1:04:56.08,1:04:59.86,normal_Wed,,0,0,0,,Dancho is up first in the super hot bath duel
+Dialogue: 2,1:05:00.88,1:05:04.45,normal_Wed,,0,0,0,,So, Dancho will try it first, please let us know your thoughts first
+Dialogue: 2,1:05:04.92,1:05:08.09,normal_Wed,,0,0,0,,I won't retreat until a layer of my skin comes off
+Dialogue: 2,1:05:08.09,1:05:10.76,normal_Wed,,0,0,0,,So cool
+Dialogue: 2,1:05:11.09,1:05:14.10,normal_Wed,,0,0,0,,Nothing interesting to say at all
+Dialogue: 2,1:05:14.83,1:05:17.02,normal_Wed,,0,0,0,,So, Dancho will go first
+Dialogue: 2,1:05:20.20,1:05:22.87,normal_Wed,,0,0,0,,Scald it, scald it, scald it
+Dialogue: 2,1:05:22.87,1:05:24.77,normal_Wed,,0,0,0,,Go, go, go!
+Dialogue: 2,1:05:27.43,1:05:30.25,normal_Wed,,0,0,0,,Dancho has entered the water of 49 degrees
+Dialogue: 1,1:05:31.97,1:05:33.75,wipe_Wed,,0,0,0,,Awesome
+Dialogue: 2,1:05:38.10,1:05:41.67,normal_Wed,,0,0,0,,The temperature is rising
+Dialogue: 2,1:05:44.29,1:05:46.00,normal_Wed,,0,0,0,,Awesome!
+Dialogue: 2,1:05:46.00,1:05:47.75,normal_Wed,,0,0,0,,How long can he put up with it?
+Dialogue: 2,1:05:47.76,1:05:49.83,normal_Wed,,0,0,0,,Butt on the ground!
+Dialogue: 2,1:05:49.83,1:05:51.40,normal_Wed,,0,0,0,,Good sitting posture
+Dialogue: 2,1:05:52.40,1:05:54.74,normal_Wed,,0,0,0,,Not moving a muscle
+Dialogue: 1,1:05:54.64,1:05:56.22,wipe_Wed,,0,0,0,,Probably doesn't want to move
+Dialogue: 2,1:05:56.04,1:05:58.74,normal_Wed,,0,0,0,,Oooh wow, over 30 seconds now
+Dialogue: 2,1:05:59.91,1:06:03.08,normal_Wed,,0,0,0,,Eh, has he stabilized?
+Dialogue: 2,1:06:05.25,1:06:09.27,normal_Wed,,0,0,0,,Not moving for more than 40 seconds
+Dialogue: 2,1:06:13.06,1:06:16.69,normal_Wed,,0,0,0,,Isn't it too fast, isn't it too fast?
+Dialogue: 2,1:06:16.69,1:06:19.66,normal_Wed,,0,0,0,,Temperature is up up up up up
+Dialogue: 2,1:06:19.66,1:06:20.86,normal_Wed,,0,0,0,,It rises one degree each minute
+Dialogue: 2,1:06:20.86,1:06:23.50,normal_Wed,,0,0,0,,No no its hotting up already
+Dialogue: 2,1:06:27.12,1:06:32.26,normal_Wed,,0,0,0,,Now the warming device water temperature has exceeded 50 degrees
+Dialogue: 2,1:06:32.34,1:06:34.98,normal_Wed,,0,0,0,,No, no, no, it definitely went up already
+Dialogue: 2,1:06:34.98,1:06:38.48,normal_Wed,,0,0,0,,It's gotten weird. It's gotten weird
+Dialogue: 2,1:06:39.00,1:06:40.00,normal_Wed,,0,0,0,,Then
+Dialogue: 2,1:06:40.45,1:06:42.45,normal_Wed,,0,0,0,,Getting red
+Dialogue: 2,1:06:42.45,1:06:44.55,normal_Wed,,0,0,0,,So strong, two minutes
+Dialogue: 2,1:06:44.57,1:06:47.52,normal_Wed,,0,0,0,,No no, this is more than 1 degree, more than 1 degree, more than 1 degree
+Dialogue: 2,1:06:47.52,1:06:49.36,normal_Wed,,0,0,0,,It's gone up again!
+Dialogue: 2,1:06:49.44,1:06:52.00,normal_Wed,,0,0,0,,The water temperature should be over 51 degrees
+Dialogue: 0,1:06:53.16,1:06:53.86,normal_Wed,,0,0,0,,Up!
+Dialogue: 2,1:06:58.07,1:07:00.54,normal_Wed,,0,0,0,,Ah i'm burning!
+Dialogue: 1,1:07:02.56,1:07:03.66,wipe_Wed,,0,0,0,,Come out, come out!
+Dialogue: 2,1:07:03.71,1:07:07.48,normal_Wed,,0,0,0,,Up again!
+Dialogue: 1,1:07:06.01,1:07:09.75,wipe_Wed,,0,0,0,,The soup is boiling
+Dialogue: 2,1:07:09.23,1:07:12.43,normal_Wed,,0,0,0,,Exactly how long will he last?
+Dialogue: 1,1:07:12.50,1:07:15.50,wipe_Wed,,0,0,0,,This is really...
+Dialogue: 2,1:07:17.39,1:07:20.22,normal_Wed,,0,0,0,,You can do it!
+Dialogue: 2,1:07:21.76,1:07:24.29,normal_Wed,,0,0,0,,{\c&HFFEC3E&\1a&H74&}What's the count? What's the count? What's the count?
+Dialogue: 2,1:07:25.60,1:07:27.60,normal_Wed,,0,0,0,,{\c&HFFEC3E&\1a&H74&}3 minutes 3 minutes 3 minutes 3 minutes
+Dialogue: 2,1:07:27.60,1:07:30.70,normal_Wed,,0,0,0,,3 minutes, up again!
+Dialogue: 2,1:07:30.70,1:07:33.97,normal_Wed,,0,0,0,,He wants to pass 3 minutes
+Dialogue: 2,1:07:37.21,1:07:39.76,normal_Wed,,0,0,0,,{\c&HFFEC3E&\1a&H74&}Is it up to 3? {\c\1a} -Not yet, 55
+Dialogue: 2,1:07:40.35,1:07:44.33,normal_Wed,,0,0,0,,56 57 58 59 3 minutes
+Dialogue: 2,1:07:47.56,1:07:48.58,wipe_Wed,,0,0,0,,Oooh wow so strong
+Dialogue: 2,1:07:48.63,1:07:50.60,normal_Wed,,0,0,0,,Dancho sets a record of 3 minutes and 1 second
+Dialogue: 2,1:07:51.59,1:07:54.29,normal_Wed,,0,0,0,,So red!
+Dialogue: 2,1:07:59.76,1:08:03.78,normal_Wed,,0,0,0,,Completely red, there's no bit that isn't red
+Dialogue: 2,1:08:04.13,1:08:06.14,normal_Wed,,0,0,0,,I've never seen anything like this
+Dialogue: 2,1:08:06.14,1:08:08.54,normal_Wed,,0,0,0,,So strange so strange, what's happened to the chest here
+Dialogue: 2,1:08:10.02,1:08:11.97,normal_Wed,,0,0,0,,The armpit is especially bad
+Dialogue: 2,1:08:12.18,1:08:13.38,normal_Wed,,0,0,0,,Incredible
+Dialogue: 2,1:08:13.41,1:08:15.91,normal_Wed,,0,0,0,,Dancho seems to have more sensitive skin than the average person
+Dialogue: 2,1:08:17.48,1:08:24.69,normal_Wed,,0,0,0,,You have to pay attention to where you put your foot and the surface of the water
+Dialogue: 2,1:08:24.69,1:08:27.62,normal_Wed,,0,0,0,,This piece of water is so hot
+Dialogue: 2,1:08:27.62,1:08:29.03,normal_Wed,,0,0,0,,The hot water will flow upwards
+Dialogue: 2,1:08:29.63,1:08:37.97,normal_Wed,,0,0,0,,A medical examination of the Dancho's skin then takes place, after which the duel continues
+Dialogue: 2,1:08:38.55,1:08:42.04,normal_Wed,,0,0,0,,Next, Kasuga takes on the challenge
+Dialogue: 1,1:08:41.49,1:08:42.96,wipe_Wed,,0,0,0,,It's too hard to top
+Dialogue: 0,1:08:43.37,1:08:45.91,normal_Wed,,0,0,0,,I see
+Dialogue: 0,1:08:45.91,1:08:48.98,normal_Wed,,0,0,0,,Ah, I see!
+Dialogue: 0,1:08:48.98,1:08:53.55,normal_Wed,,0,0,0,,It does feel hot here already
+Dialogue: 0,1:08:53.85,1:08:57.19,normal_Wed,,0,0,0,,What exactly do you want to feel, Kasuga?
+Dialogue: 0,1:08:57.19,1:08:58.62,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,1:08:58.62,1:08:59.86,normal_Wed,,0,0,0,,I'm going!
+Dialogue: 0,1:08:59.86,1:09:05.36,normal_Wed,,0,0,0,,So, hot bath, here I come!
+Dialogue: 0,1:09:04.30,1:09:05.79,wipe_Wed,,0,0,0,,Not easy for Kasuga either
+Dialogue: 0,1:09:14.57,1:09:16.57,normal_Wed,,0,0,0,,I see...
+Dialogue: 0,1:09:18.11,1:09:21.34,normal_Wed,,0,0,0,,That's how it feels...
+Dialogue: 0,1:09:23.41,1:09:25.31,normal_Wed,,0,0,0,,It's not often that you see Kasuga like this
+Dialogue: 0,1:09:29.29,1:09:32.66,normal_Wed,,0,0,0,,It's not hot at all!
+Dialogue: 0,1:09:34.54,1:09:37.09,normal_Wed,,0,0,0,,Really...
+Dialogue: 0,1:09:37.09,1:09:47.77,normal_Wed,,0,0,0,,Foot foot foot foot!
+Dialogue: 0,1:09:47.77,1:09:49.14,normal_Wed,,0,0,0,,It's been heating up since then, right here
+Dialogue: 0,1:09:49.14,1:09:52.24,normal_Wed,,0,0,0,,Indeed! Although invisible to the naked eye, the temperature did rise
+Dialogue: 0,1:09:52.44,1:09:53.64,normal_Wed,,0,0,0,,The temperature changes in a flash
+Dialogue: 0,1:09:59.58,1:10:01.92,normal_Wed,,0,0,0,,I see, I have never experienced something like this
+Dialogue: 0,1:10:01.92,1:10:03.49,normal_Wed,,0,0,0,,Please take care of me for the first time...
+Dialogue: 0,1:10:07.32,1:10:09.49,normal_Wed,,0,0,0,,Ah... it's really hot
+Dialogue: 0,1:10:10.07,1:10:15.03,normal_Wed,,0,0,0,,Just like Dancho, Kasuga also survives the hot water to over 50 degrees
+Dialogue: 0,1:10:16.70,1:10:21.14,normal_Wed,,0,0,0,,Ah, it's true, what Dancho said is true
+Dialogue: 0,1:10:21.14,1:10:22.81,normal_Wed,,0,0,0,,He is an honest person
+Dialogue: 0,1:10:23.04,1:10:25.04,normal_Wed,,0,0,0,,Its true about the top
+Dialogue: 0,1:10:25.04,1:10:27.41,normal_Wed,,0,0,0,,From the feet to the top
+Dialogue: 0,1:10:28.01,1:10:30.44,normal_Wed,,0,0,0,,I see-
+Dialogue: 0,1:10:32.65,1:10:35.28,normal_Wed,,0,0,0,,Ahh...!\N  -It's 2 minutes and 30 seconds
+Dialogue: 0,1:10:36.49,1:10:40.02,normal_Wed,,0,0,0,,{\c&HFFEC3E&\1a&H74&}Hold on a little more, a little more, a little more, a little more.
+Dialogue: 0,1:10:40.82,1:10:42.56,normal_Wed,,0,0,0,,Wow is he coming out? Is he coming out?
+Dialogue: 0,1:10:42.56,1:10:46.70,normal_Wed,,0,0,0,,Ah--! It hurts!
+Dialogue: 0,1:10:47.50,1:10:48.90,normal_Wed,,0,0,0,,Ouch!
+Dialogue: 0,1:10:48.90,1:10:53.54,normal_Wed,,0,0,0,,It's not often that you can hear the words "it hurts" in the bath
+Dialogue: 0,1:10:54.34,1:10:56.13,normal_Wed,,0,0,0,,The feeling has changed from "so hot" to "so painful"
+Dialogue: 0,1:10:56.13,1:11:00.27,normal_Wed,,0,0,0,,10 seconds left. 10 seconds left!\N  -Can he beat Dancho's record?
+Dialogue: 0,1:11:00.34,1:11:02.18,normal_Wed,,0,0,0,,Wow, it's getting there
+Dialogue: 0,1:11:03.15,1:11:04.85,normal_Wed,,0,0,0,,Wow, he's over!
+Dialogue: 0,1:11:15.64,1:11:18.76,normal_Wed,,0,0,0,,So hot-!
+Dialogue: 0,1:11:18.81,1:11:21.03,normal_Wed,,0,0,0,,So hot-!
+Dialogue: 0,1:11:21.29,1:11:23.90,normal_Wed,,0,0,0,,So hot-!
+Dialogue: 0,1:11:24.17,1:11:27.17,normal_Wed,,0,0,0,,I don't feel anything on my side anymore
+Dialogue: 0,1:11:27.64,1:11:32.41,normal_Wed,,0,0,0,,It really feels like being whipped
+Dialogue: 0,1:11:32.41,1:11:35.09,normal_Wed,,0,0,0,,Look at the color of his side is completely red
+Dialogue: 0,1:11:37.68,1:11:39.62,normal_Wed,,0,0,0,,It's hot! These swimming trunks!
+Dialogue: 0,1:11:39.98,1:11:42.32,normal_Wed,,0,0,0,,Really impressive!
+Dialogue: 0,1:11:42.95,1:11:48.67,normal_Wed,,0,0,0,,The first round goes to Kasuga
+Dialogue: 0,1:11:50.35,1:11:54.42,normal_Wed,,0,0,0,,The rule is that the next matchup is chosen by the loser
+Dialogue: 0,1:11:55.66,1:12:02.46,normal_Wed,,0,0,0,,This thing Kasuga is very good at, of course, I am also very good at it
+Dialogue: 0,1:12:02.65,1:12:04.97,normal_Wed,,0,0,0,,Underwater breath-holding duel
+Dialogue: 0,1:12:04.97,1:12:07.27,normal_Wed,,0,0,0,,Ah, here it is!
+Dialogue: 0,1:12:08.48,1:12:14.91,normal_Wed,,0,0,0,,So the second round takes place in a pool
+Dialogue: 0,1:12:15.76,1:12:20.45,normal_Wed,,0,0,0,,The 2nd round is Dancho vs Kasuga in a breath-holding duel
+Dialogue: 0,1:12:20.86,1:12:21.99,normal_Wed,,0,0,0,,Please offer us a few words, Dancho
+Dialogue: 0,1:12:22.30,1:12:25.63,normal_Wed,,0,0,0,,Well, 15 years ago
+Dialogue: 0,1:12:25.63,1:12:29.90,normal_Wed,,0,0,0,,I had a similar match with Kasuga
+Dialogue: 0,1:12:29.90,1:12:31.03,normal_Wed,,0,0,0,,So i'm looking forward to this
+Dialogue: 0,1:12:31.72,1:12:37.40,normal_Wed,,0,0,0,,Indeed, these two previously faced off in a diving competition before
+Dialogue: 0,1:12:38.54,1:12:42.01,normal_Wed,,0,0,0,,Well, I won the "hot water" part anyway
+Dialogue: 0,1:12:42.01,1:12:46.05,normal_Wed,,0,0,0,,So I hope Dancho will pick up the pace
+Dialogue: 0,1:12:46.05,1:12:48.08,normal_Wed,,0,0,0,,In short
+Dialogue: 0,1:12:48.42,1:12:50.42,normal_Wed,,0,0,0,,He seems to be really angry
+Dialogue: 0,1:12:50.72,1:12:54.06,normal_Wed,,0,0,0,,Didn't think it was funny at all
+Dialogue: 0,1:12:54.87,1:12:59.52,normal_Wed,,0,0,0,,Degawa also tries this first
+Dialogue: 0,1:13:05.33,1:13:06.60,normal_Wed,,0,0,0,,I’m OK—
+Dialogue: 0,1:13:06.60,1:13:09.57,normal_Wed,,0,0,0,,You'd definitely be ok like this!  \N-Absolutely
+Dialogue: 0,1:13:08.79,1:13:12.24,wipe_Wed,,0,0,0,,30 seconds is average
+Dialogue: 0,1:13:10.42,1:13:12.35,normal_Wed,,0,0,0,,Finally the time has come for the duel
+Dialogue: 0,1:13:15.08,1:13:18.01,normal_Wed,,0,0,0,,Tap me every 30 seconds
+Dialogue: 0,1:13:18.00,1:13:19.22,normal_Wed,,0,0,0,,Pat me on the back
+Dialogue: 0,1:13:19.22,1:13:21.32,normal_Wed,,0,0,0,,Every minute?  \N-Yes
+Dialogue: 0,1:13:21.68,1:13:24.52,normal_Wed,,0,0,0,,Okay, the one minute countdown begins now
+Dialogue: 0,1:13:25.37,1:13:27.30,wipe_Wed,,0,0,0,,Doing it at the same time
+Dialogue: 0,1:13:26.76,1:13:31.43,normal_Wed,,0,0,0,,The battle has already begun with this first minute
+Dialogue: 0,1:13:32.60,1:13:35.81,normal_Wed,,0,0,0,,The two adjust their breathing to prepare
+Dialogue: 0,1:13:36.91,1:13:46.36,normal_Wed,,0,0,0,,10 9 8 7 6 5 4 3 2 1
+Dialogue: 0,1:13:54.93,1:13:56.17,wipe_Wed,,0,0,0,,An amazing image
+Dialogue: 0,1:13:57.30,1:14:01.89,normal_Wed,,0,0,0,,Their breathing before going under is really impressive
+Dialogue: 0,1:14:06.53,1:14:10.83,normal_Wed,,0,0,0,,This is one hell of a battle
+Dialogue: 0,1:14:14.97,1:14:16.92,wipe_Wed,,0,0,0,,Seems tough
+Dialogue: 0,1:14:18.57,1:14:20.03,normal_Wed,,0,0,0,,It's 30 seconds
+Dialogue: 0,1:14:22.35,1:14:25.75,normal_Wed,,0,0,0,,They are both motionless
+Dialogue: 0,1:14:25.39,1:14:26.55,wipe_Wed,,0,0,0,,No way, right?
+Dialogue: 0,1:14:26.08,1:14:28.11,normal_Wed,,0,0,0,,It's now 1 minute and 30 seconds
+Dialogue: 0,1:14:29.18,1:14:32.16,normal_Wed,,0,0,0,,Not long after, they've now survived 1 minute and 30 seconds
+Dialogue: 0,1:14:38.36,1:14:39.91,normal_Wed,,0,0,0,,Seems like they'll pass 2 minutes
+Dialogue: 0,1:14:39.68,1:14:41.11,wipe_Wed,,0,0,0,,So scary
+Dialogue: 0,1:14:42.77,1:14:44.51,normal_Wed,,0,0,0,,This is the underwater image
+Dialogue: 0,1:14:45.60,1:14:47.21,wipe_Wed,,0,0,0,,That's awesome
+Dialogue: 0,1:14:46.23,1:14:48.61,normal_Wed,,0,0,0,,1 minute and 50 seconds, almost 2 minutes
+Dialogue: 0,1:14:52.82,1:14:54.72,wipe_Wed,,0,0,0,,Kasuga...
+Dialogue: 0,1:14:54.79,1:15:01.16,normal_Wed,,0,0,0,,These two still haven't come up
+Dialogue: 0,1:15:02.17,1:15:04.96,normal_Wed,,0,0,0,,But Kasuga is starting to make some small movements
+Dialogue: 0,1:15:05.99,1:15:10.06,normal_Wed,,0,0,0,,Although Kasuga's body is moving slightly his head hasn't
+Dialogue: 0,1:15:08.62,1:15:10.44,wipe_Wed,,0,0,0,,Dancho is incredible
+Dialogue: 0,1:15:10.15,1:15:16.08,normal_Wed,,0,0,0,,It's true, Kasuga is a little shaken. 2 minutes and 20 seconds.\N  -It's over, it's over, it's over
+Dialogue: 0,1:15:15.82,1:15:18.26,wipe_Wed,,0,0,0,,Kasuga looks like he's struggling a bit
+Dialogue: 0,1:15:17.02,1:15:19.33,normal_Wed,,0,0,0,,Is Dancho also struggling?
+Dialogue: 0,1:15:20.53,1:15:22.40,normal_Wed,,0,0,0,,It's over. Is Dancho okay? He's shaking a bit
+Dialogue: 0,1:15:22.57,1:15:23.97,wipe_Wed,,0,0,0,,Is he shaking?\N -Ah, it's moving
+Dialogue: 0,1:15:27.24,1:15:29.05,wipe_Wed,,0,0,0,,Kasuga is out
+Dialogue: 0,1:15:29.40,1:15:30.92,wipe_Wed,,0,0,0,,Dancho's done it
+Dialogue: 0,1:15:30.85,1:15:32.98,normal_Wed,,0,0,0,,I'm OK!\N  -Let's check the time
+Dialogue: 0,1:15:37.06,1:15:42.55,normal_Wed,,0,0,0,,The time difference between the two is about 10 seconds
+Dialogue: 0,1:15:43.06,1:15:45.23,normal_Wed,,0,0,0,,I’m OK
+Dialogue: 0,1:15:45.51,1:15:52.89,normal_Wed,,0,0,0,,In the underwater duel, Dancho stayed under for 2 minutes and 43 seconds and Kasuga for 2 minutes and 32 seconds
+Dialogue: 0,1:15:52.89,1:15:55.23,normal_Wed,,0,0,0,,The winner is Dancho!
+Dialogue: 0,1:16:01.96,1:16:06.23,normal_Wed,,0,0,0,,The winner of the second round is Dancho
+Dialogue: 0,1:16:08.39,1:16:12.87,normal_Wed,,0,0,0,,So, Kasuga will choose the 3rd round
+Dialogue: 0,1:16:13.74,1:16:20.53,normal_Wed,,0,0,0,,Yes, I'll go with oden. Let's have some super hot oden
+Dialogue: 0,1:16:20.87,1:16:30.30,normal_Wed,,0,0,0,,The rules are simple, eat these three super hot ingredients in order, the faster one wins
+Dialogue: 0,1:16:32.68,1:16:36.91,normal_Wed,,0,0,0,,What do you think, Degawa? \N -This is a big deal!
+Dialogue: 0,1:16:36.91,1:16:40.72,normal_Wed,,0,0,0,,This is like a steam train
+Dialogue: 0,1:16:41.47,1:16:45.42,normal_Wed,,0,0,0,,Here we also let Degawa try it out
+Dialogue: 0,1:16:44.95,1:16:48.09,wipe_Wed,,0,0,0,,Degawa experienced it all
+Dialogue: 0,1:16:48.46,1:16:50.46,normal_Wed,,0,0,0,,Wow!
+Dialogue: 0,1:16:53.30,1:16:54.70,normal_Wed,,0,0,0,,It's still bubbling!
+Dialogue: 0,1:16:55.03,1:16:56.87,normal_Wed,,0,0,0,,Wow really incredible
+Dialogue: 0,1:16:57.33,1:17:01.90,normal_Wed,,0,0,0,,Wait a minute, I can't get it up.\N -They're all in one big pile
+Dialogue: 0,1:17:01.90,1:17:05.44,normal_Wed,,0,0,0,,Look at this and you'll understand\N -Even the fish cake is impossible
+Dialogue: 0,1:17:05.05,1:17:06.27,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,1:17:05.77,1:17:07.44,normal_Wed,,0,0,0,,Okay, I'll eat it
+Dialogue: 0,1:17:06.87,1:17:08.09,wipe_Wed,,0,0,0,,Really eating it!?
+Dialogue: 0,1:17:09.65,1:17:11.91,normal_Wed,,0,0,0,,Wow, this is too hot, right?
+Dialogue: 0,1:17:10.90,1:17:12.61,wipe_Wed,,0,0,0,,It's too hot!
+Dialogue: 0,1:17:11.91,1:17:14.08,normal_Wed,,0,0,0,,Wow it's scary
+Dialogue: 0,1:17:17.99,1:17:20.29,normal_Wed,,0,0,0,,Whoa! Hot!
+Dialogue: 0,1:17:20.29,1:17:21.39,normal_Wed,,0,0,0,,Whoa! Hot!
+Dialogue: 0,1:17:24.43,1:17:26.56,normal_Wed,,0,0,0,,Okay, that's tough
+Dialogue: 0,1:17:35.74,1:17:37.34,normal_Wed,,0,0,0,,I'm sorry. I'm really sorry
+Dialogue: 0,1:17:37.71,1:17:43.05,normal_Wed,,0,0,0,,Ah, it's really hot. \N -You should cool it down
+Dialogue: 0,1:17:43.28,1:17:46.52,normal_Wed,,0,0,0,,Seriously, I've never eaten something so hot before
+Dialogue: 0,1:17:46.95,1:17:48.72,normal_Wed,,0,0,0,,I've done something similar before
+Dialogue: 0,1:17:48.92,1:17:52.86,normal_Wed,,0,0,0,,But one time I was asked to-
+Dialogue: 0,1:17:53.38,1:17:56.51,normal_Wed,,0,0,0,,The third round is the super hot oden duel
+Dialogue: 0,1:17:56.75,1:18:00.50,normal_Wed,,0,0,0,,The patience of our staff is really awful
+Dialogue: 0,1:18:00.57,1:18:02.77,normal_Wed,,0,0,0,,The staff doesn't allow for anything
+Dialogue: 0,1:18:02.90,1:18:05.12,normal_Wed,,0,0,0,,Prepare - Start!
+Dialogue: 0,1:18:07.97,1:18:11.57,normal_Wed,,0,0,0,,It's a great feeling a great scene. \N -It's boiling
+Dialogue: 0,1:18:11.63,1:18:14.14,normal_Wed,,0,0,0,,Is it from the egg to the fish cake? \N -Start with the egg
+Dialogue: 0,1:18:14.55,1:18:18.07,normal_Wed,,0,0,0,,Wow we are off, Kasuga is eating it!
+Dialogue: 0,1:18:20.51,1:18:22.40,wipe_Wed,,0,0,0,,How hot are the eggs?
+Dialogue: 0,1:18:23.47,1:18:29.02,normal_Wed,,0,0,0,,What the hell is wrong with this guy!\N  -Seems to be a strategy to cool it down in the mouth
+Dialogue: 0,1:18:29.12,1:18:31.59,normal_Wed,,0,0,0,,Sure enough these two people are too good
+Dialogue: 0,1:18:33.15,1:18:34.95,normal_Wed,,0,0,0,,That's awesome
+Dialogue: 0,1:18:35.33,1:18:39.20,normal_Wed,,0,0,0,,It's definitely super hard on the mouth right now
+Dialogue: 0,1:18:39.87,1:18:41.31,wipe_Wed,,0,0,0,,Kasuga is awesome!
+Dialogue: 0,1:18:41.04,1:18:44.61,normal_Wed,,0,0,0,,Just putting it in your mouth is impressive enough, right?
+Dialogue: 0,1:18:44.61,1:18:48.94,normal_Wed,,0,0,0,,How to say... i'm moved
+Dialogue: 0,1:18:48.94,1:18:52.49,normal_Wed,,0,0,0,,After Kasuga, Dancho is now also chewing!
+Dialogue: 0,1:18:53.27,1:18:54.47,wipe_Wed,,0,0,0,,Wow that was fast!
+Dialogue: 0,1:18:54.26,1:18:55.38,normal_Wed,,0,0,0,,No way!
+Dialogue: 0,1:18:55.38,1:18:56.42,normal_Wed,,0,0,0,,Eat the fish cake next!
+Dialogue: 0,1:18:58.22,1:18:59.86,normal_Wed,,0,0,0,,Hey, hey, look at Dancho
+Dialogue: 0,1:19:01.47,1:19:07.10,normal_Wed,,0,0,0,,Kasuga is now ready to eat fish cake \N -He practically swallowed the egg
+Dialogue: 0,1:19:07.10,1:19:08.58,wipe_Wed,,0,0,0,,You can't eat this in one go
+Dialogue: 0,1:19:15.17,1:19:19.48,normal_Wed,,0,0,0,,This guy is amazing!  Wow it's awesome!
+Dialogue: 0,1:19:19.60,1:19:21.03,wipe_Wed,,0,0,0,,They both have the same expression
+Dialogue: 0,1:19:21.03,1:19:22.46,wipe_Wed,,0,0,0,,Bad bad bad
+Dialogue: 0,1:19:21.88,1:19:23.68,normal_Wed,,0,0,0,,That's awesome...
+Dialogue: 0,1:19:22.92,1:19:24.49,wipe_Wed,,0,0,0,,Dancho is flailing
+Dialogue: 0,1:19:23.68,1:19:25.58,normal_Wed,,0,0,0,,It's really awesome
+Dialogue: 0,1:19:26.84,1:19:29.67,normal_Wed,,0,0,0,,There's a gap of just one item
+Dialogue: 0,1:19:30.39,1:19:35.26,normal_Wed,,0,0,0,,Their mouths look very distorted
+Dialogue: 0,1:19:38.23,1:19:40.06,normal_Wed,,0,0,0,,He's still stuck on the egg
+Dialogue: 0,1:19:40.06,1:19:44.07,normal_Wed,,0,0,0,,Just one egg... an egg is so painful
+Dialogue: 0,1:19:44.07,1:19:49.07,normal_Wed,,0,0,0,,Whoa, Dancho!   \N-Kasuga is now on the radish
+Dialogue: 0,1:19:49.07,1:19:50.17,normal_Wed,,0,0,0,,It's too fast!
+Dialogue: 0,1:19:52.51,1:19:56.31,normal_Wed,,0,0,0,,You can't, it's impossible to eat it!
+Dialogue: 0,1:20:06.42,1:20:08.66,normal_Wed,,0,0,0,,Dancho still hasn't put the fish cake in his mouth
+Dialogue: 0,1:20:11.47,1:20:12.76,normal_Wed,,0,0,0,,Oh, Dancho's put it in!
+Dialogue: 0,1:20:15.16,1:20:17.20,normal_Wed,,0,0,0,,Stuffing it in!
+Dialogue: 0,1:20:19.70,1:20:24.14,normal_Wed,,0,0,0,,I've never seen chopsticks used like this... \N -He's shoving it in
+Dialogue: 0,1:20:24.14,1:20:27.91,normal_Wed,,0,0,0,,Dancho is using a great move, he's stabbing it
+Dialogue: 0,1:20:28.38,1:20:31.96,normal_Wed,,0,0,0,,On the other side, Kasuga is struggling with the final boss: Radish
+Dialogue: 0,1:20:31.96,1:20:35.29,normal_Wed,,0,0,0,,Dancho is still trying to catch up on the fish cake
+Dialogue: 0,1:20:38.60,1:20:42.87,normal_Wed,,0,0,0,,Okay now both of them are on the radish stage! Dancho has caught up!
+Dialogue: 0,1:20:43.03,1:20:44.90,normal_Wed,,0,0,0,,Who will be the winner?
+Dialogue: 0,1:20:45.71,1:20:49.55,normal_Wed,,0,0,0,,Dancho's method is good, eating around the edges
+Dialogue: 0,1:20:49.63,1:20:51.80,normal_Wed,,0,0,0,,Ah, Kasuga put it in! Will he swallow it completely?
+Dialogue: 0,1:20:51.80,1:20:54.14,normal_Wed,,0,0,0,,Dancho also stuffs it in!
+Dialogue: 0,1:20:57.40,1:20:59.97,normal_Wed,,0,0,0,,Who will be the winner? Who will it be? Who will it be?
+Dialogue: 0,1:21:00.42,1:21:02.38,normal_Wed,,0,0,0,,The one who swallows first is the winner!
+Dialogue: 0,1:21:03.01,1:21:04.52,wipe_Wed,,0,0,0,,A hot battle
+Dialogue: 0,1:21:04.97,1:21:09.15,normal_Wed,,0,0,0,,Dancho is struggling with the heat of the radish
+Dialogue: 0,1:21:09.34,1:21:12.05,normal_Wed,,0,0,0,,Who will be the one to swallow it all first?
+Dialogue: 0,1:21:15.36,1:21:18.63,normal_Wed,,0,0,0,,Okay-! Thanks for the meal!
+Dialogue: 0,1:21:18.63,1:21:23.34,normal_Wed,,0,0,0,,Please show the camera your mouth
+Dialogue: 0,1:21:24.26,1:21:26.31,normal_Wed,,0,0,0,,Kasuga wins!
+Dialogue: 0,1:21:27.60,1:21:30.79,normal_Wed,,0,0,0,,Your mouths must really be in a bad state right now
+Dialogue: 0,1:21:30.79,1:21:35.31,normal_Wed,,0,0,0,,Yes, i'll have to be careful what I eat tomorrow
+Dialogue: 0,1:21:35.86,1:21:37.82,normal_Wed,,0,0,0,,So, the scores are currently 2-1
+Dialogue: 0,1:21:38.20,1:21:41.87,normal_Wed,,0,0,0,,The fourth competition chosen by the loser is
+Dialogue: 0,1:21:43.42,1:21:48.79,normal_Wed,,0,0,0,,This elastic band endurance duel
+Dialogue: 0,1:21:49.59,1:21:52.26,normal_Wed,,0,0,0,,I think maybe i'll go with this \N -I got it.
+Dialogue: 0,1:21:52.26,1:22:01.00,normal_Wed,,0,0,0,,Think calmly and carefully think about playing this with how your mouths are right now
+Dialogue: 0,1:22:01.00,1:22:03.04,normal_Wed,,0,0,0,,Huh? Oh...
+Dialogue: 0,1:22:03.82,1:22:10.18,normal_Wed,,0,0,0,,This endurance duel involves both people pulling one end with their mouth
+Dialogue: 0,1:22:11.91,1:22:14.97,normal_Wed,,0,0,0,,First, Degawa tests it out
+Dialogue: 0,1:22:22.49,1:22:23.79,normal_Wed,,0,0,0,,Hey? Coughing?
+Dialogue: 0,1:22:24.63,1:22:27.40,normal_Wed,,0,0,0,,I'm sorry, I'm out of breath... sorry, sorry
+Dialogue: 0,1:22:28.02,1:22:34.06,normal_Wed,,0,0,0,,With no way back, Dancho's choice, the elastic band showdown, begins!
+Dialogue: 0,1:22:41.11,1:22:42.27,wipe_Wed,,0,0,0,,Oh, I see
+Dialogue: 0,1:22:40.45,1:22:45.17,normal_Wed,,0,0,0,,Kasuga is powerfully pulling away gradually
+Dialogue: 0,1:22:50.29,1:22:53.59,normal_Wed,,0,0,0,,Dancho is now handing over the reigns to Kasuga
+Dialogue: 0,1:22:54.79,1:22:56.39,normal_Wed,,0,0,0,,They're both close
+Dialogue: 0,1:22:56.76,1:22:59.73,normal_Wed,,0,0,0,,This is a true battle
+Dialogue: 0,1:23:00.30,1:23:01.90,normal_Wed,,0,0,0,,Now Dancho is leading the aciton
+Dialogue: 0,1:23:03.75,1:23:06.99,wipe_Wed,,0,0,0,,This kind of protracted war is too tiring, right?
+Dialogue: 0,1:23:10.71,1:23:14.61,wipe_Wed,,0,0,0,,Ordinary people, their jaw wouldn't be able to handle it
+Dialogue: 0,1:23:11.62,1:23:14.87,normal_Wed,,0,0,0,,And so it goes on, one after the other, in and out
+Dialogue: 0,1:23:16.76,1:23:19.12,wipe_Wed,,0,0,0,,Whoa, 10 minutes?
+Dialogue: 0,1:23:18.81,1:23:23.55,normal_Wed,,0,0,0,,They are really both after victory, you can feel it, right?
+Dialogue: 0,1:23:27.68,1:23:33.13,normal_Wed,,0,0,0,,So, after another 10 minutes, finally
+Dialogue: 0,1:23:35.78,1:23:37.77,normal_Wed,,0,0,0,,Wow, Dancho is pulling like crazy!
+Dialogue: 0,1:23:41.27,1:23:42.47,normal_Wed,,0,0,0,,Ah, damn it!
+Dialogue: 0,1:23:45.54,1:23:47.08,normal_Wed,,0,0,0,,Ah, damn it!
+Dialogue: 0,1:23:42.70,1:23:44.01,wipe_Wed,,0,0,0,,Too much force, right?
+Dialogue: 0,1:23:51.25,1:23:54.25,normal_Wed,,0,0,0,,What just happened! What's going on!?
+Dialogue: 0,1:23:54.25,1:23:56.94,normal_Wed,,0,0,0,,Dancho won!
+Dialogue: 0,1:23:58.55,1:24:01.19,normal_Wed,,0,0,0,,A great show, look at his sweat
+Dialogue: 0,1:24:01.39,1:24:05.53,normal_Wed,,0,0,0,,It escaped, it escaped me
+Dialogue: 0,1:24:07.82,1:24:13.42,normal_Wed,,0,0,0,,Now the two are tied
+Dialogue: 0,1:24:14.90,1:24:17.74,normal_Wed,,0,0,0,,What is the final stage chosen by Kasuga?
+Dialogue: 0,1:24:22.09,1:24:26.83,normal_Wed,,0,0,0,,I'll choose the acupuncture board one
+Dialogue: 0,1:24:27.52,1:24:29.35,normal_Wed,,0,0,0,,Hey, what's this? \N -I don't understand it either
+Dialogue: 0,1:24:29.92,1:24:34.74,normal_Wed,,0,0,0,,Then the final battle is the upright acupuncture board not moving duel
+Dialogue: 0,1:24:31.69,1:24:33.21,wipe_Wed,,0,0,0,,This one is probably the hardest
+Dialogue: 0,1:24:36.18,1:24:40.22,normal_Wed,,0,0,0,,Foot acupressure boards are placed on 2-meter-high pillars
+Dialogue: 0,1:24:41.39,1:24:44.69,normal_Wed,,0,0,0,,They must stand on them barefoot until they can stand no longer
+Dialogue: 0,1:24:45.03,1:24:46.95,normal_Wed,,0,0,0,,The rules are as simple as that
+Dialogue: 0,1:24:49.50,1:24:51.67,normal_Wed,,0,0,0,,Ah, it hurts...
+Dialogue: 0,1:24:53.01,1:24:56.98,normal_Wed,,0,0,0,,Ah, it hurts... this could be over very early
+Dialogue: 0,1:24:57.11,1:25:01.68,normal_Wed,,0,0,0,,Even these two are super powerful, surely they can't stand it for that long
+Dialogue: 0,1:25:01.98,1:25:07.06,normal_Wed,,0,0,0,,Probably everyone but Dancho and me thinks so \N  -It's true...
+Dialogue: 0,1:25:07.79,1:25:15.00,normal_Wed,,0,0,0,,Finally, the final showdown will be held. Who will get the title of King of Endurance?
+Dialogue: 0,1:25:15.73,1:25:18.50,normal_Wed,,0,0,0,,Climbing up you can really feel the height \N -This is quite high
+Dialogue: 0,1:25:19.03,1:25:22.60,normal_Wed,,0,0,0,,It's much higher than it looks from below.\N  -It's not the same at all, right?
+Dialogue: 0,1:25:22.90,1:25:29.61,normal_Wed,,0,0,0,,Also very narrow, just a tiny bit of space, makes it seem worse
+Dialogue: 0,1:25:29.61,1:25:31.81,normal_Wed,,0,0,0,,So, please take off your shoes!
+Dialogue: 0,1:25:34.76,1:25:36.21,wipe_Wed,,0,0,0,,This could be over straight away
+Dialogue: 0,1:25:37.52,1:25:40.19,normal_Wed,,0,0,0,,Ow...
+Dialogue: 0,1:25:40.96,1:25:44.43,normal_Wed,,0,0,0,,I can't believe Kasuga has such a pained expression
+Dialogue: 0,1:25:44.88,1:25:51.14,normal_Wed,,0,0,0,,So let's start the final round!
+Dialogue: 0,1:25:52.63,1:25:53.81,wipe_Wed,,0,0,0,,Here we go
+Dialogue: 0,1:25:55.22,1:25:56.44,wipe_Wed,,0,0,0,,Kasuga's expression is interesting
+Dialogue: 0,1:25:56.00,1:26:01.14,normal_Wed,,0,0,0,,His face has completely changed
+Dialogue: 0,1:26:01.14,1:26:02.74,normal_Wed,,0,0,0,,What the heck is this...
+Dialogue: 0,1:26:03.08,1:26:05.71,normal_Wed,,0,0,0,,How does it feel?
+Dialogue: 0,1:26:05.71,1:26:09.38,normal_Wed,,0,0,0,,No pain no pain no pain
+Dialogue: 0,1:26:09.38,1:26:12.79,normal_Wed,,0,0,0,,It doesn't hurt, it doesn't hurt at all
+Dialogue: 0,1:26:12.99,1:26:19.33,normal_Wed,,0,0,0,,How to say, the positioning is important due to the different parts of the feet
+Dialogue: 0,1:26:19.33,1:26:25.93,normal_Wed,,0,0,0,,Moving it slightly feels better but its also risky because of how narrow the space is
+Dialogue: 0,1:26:27.04,1:26:29.04,normal_Wed,,0,0,0,,Well, its pretty complicated
+Dialogue: 0,1:26:29.37,1:26:33.21,normal_Wed,,0,0,0,,If this was a normal variety show that'd definitely be cut out
+Dialogue: 0,1:26:33.21,1:26:35.98,normal_Wed,,0,0,0,,Sure enough, these two are incredible
+Dialogue: 0,1:26:36.38,1:26:39.88,normal_Wed,,0,0,0,,Generally speaking, if nothing happens, you will be upset, right?
+Dialogue: 0,1:26:40.42,1:26:45.72,normal_Wed,,0,0,0,,But those two people are very calm, not afraid at all
+Dialogue: 0,1:26:45.72,1:26:49.42,normal_Wed,,0,0,0,,Instead of fear they're calm
+Dialogue: 0,1:26:49.90,1:26:54.17,normal_Wed,,0,0,0,,So, nothing really happened and 30 minutes passed
+Dialogue: 0,1:26:55.76,1:26:59.43,normal_Wed,,0,0,0,,It hurts when you move your feet
+Dialogue: 0,1:26:59.43,1:27:03.67,normal_Wed,,0,0,0,,Ah, its a bit scary
+Dialogue: 0,1:27:03.87,1:27:07.48,normal_Wed,,0,0,0,,If you move even a little, it will be very painful. \N -It's true
+Dialogue: 0,1:27:07.48,1:27:10.15,normal_Wed,,0,0,0,,It is tough
+Dialogue: 0,1:27:10.38,1:27:12.05,normal_Wed,,0,0,0,,Kasuga is struggling
+Dialogue: 0,1:27:12.05,1:27:14.02,normal_Wed,,0,0,0,,The position just now was quite good
+Dialogue: 0,1:27:14.62,1:27:20.45,normal_Wed,,0,0,0,,In order not to let the pain build up, the two move ever so slightly occasionally
+Dialogue: 0,1:27:21.66,1:27:22.86,normal_Wed,,0,0,0,,Dancho \N-Yes?
+Dialogue: 0,1:27:23.08,1:27:27.34,normal_Wed,,0,0,0,,Which is more painful, being on a bike for 24 hours or this?
+Dialogue: 0,1:27:27.93,1:27:31.07,normal_Wed,,0,0,0,,For me, the bike is easier
+Dialogue: 0,1:27:32.30,1:27:37.47,normal_Wed,,0,0,0,,Because you are moving, its more painful to not move
+Dialogue: 0,1:27:38.23,1:27:43.50,normal_Wed,,0,0,0,,Yes, the pain in the feet is increased with the restriction of not being able to take a single step
+Dialogue: 0,1:27:44.00,1:27:47.44,normal_Wed,,0,0,0,,This matchup can be said to be tough on a mental level as well
+Dialogue: 0,1:27:47.80,1:27:51.20,normal_Wed,,0,0,0,,The soles of the feet are so uncomfortable
+Dialogue: 0,1:27:52.12,1:27:55.16,normal_Wed,,0,0,0,,It is also hard to move the surface of the foot
+Dialogue: 0,1:27:55.16,1:27:57.66,normal_Wed,,0,0,0,,Constant pain
+Dialogue: 0,1:27:58.03,1:28:02.40,normal_Wed,,0,0,0,,It hurts when you move around.\N  -Yeah
+Dialogue: 0,1:28:02.40,1:28:04.13,normal_Wed,,0,0,0,,You have to move although it hurts
+Dialogue: 0,1:28:04.83,1:28:08.87,normal_Wed,,0,0,0,,The intervals between shifting become shorter
+Dialogue: 0,1:28:09.37,1:28:16.98,normal_Wed,,0,0,0,,Honestly, I would never do this sort of thing, really, I would never do it
+Dialogue: 0,1:28:17.38,1:28:24.02,normal_Wed,,0,0,0,,I've never said no to anything before, but this, I really couldn't do it
+Dialogue: 0,1:28:24.55,1:28:26.86,normal_Wed,,0,0,0,,Not funny at all
+Dialogue: 0,1:28:27.60,1:28:28.76,normal_Wed,,0,0,0,,It is just standing
+Dialogue: 0,1:28:28.76,1:28:30.49,normal_Wed,,0,0,0,,Hate things that aren't funny
+Dialogue: 0,1:28:34.76,1:28:35.73,normal_Wed,,0,0,0,,That was close...
+Dialogue: 0,1:28:39.98,1:28:44.29,normal_Wed,,0,0,0,,In order to reduce the pain, Kasuga spreads his weight to the edge
+Dialogue: 0,1:28:44.82,1:28:47.76,normal_Wed,,0,0,0,,But almost lost his balance
+Dialogue: 0,1:28:49.39,1:28:50.53,normal_Wed,,0,0,0,,Just like that, 2 hours passes
+Dialogue: 0,1:28:54.65,1:28:58.09,normal_Wed,,0,0,0,,Sweaty feet. \N -Right? It's obviously barefoot.
+Dialogue: 0,1:28:58.09,1:28:59.95,normal_Wed,,0,0,0,,It's getting wet.\N  -It's wet
+Dialogue: 0,1:29:00.09,1:29:02.19,normal_Wed,,0,0,0,,Ah, you're sweating just standing there?
+Dialogue: 0,1:29:02.32,1:29:09.26,normal_Wed,,0,0,0,,The soles of the feet are sweaty, the soles of the feet are so sweaty
+Dialogue: 0,1:29:09.70,1:29:15.67,normal_Wed,,0,0,0,,Ugh, it hurts too much, it hurts too much, damn it!
+Dialogue: 0,1:29:14.60,1:29:15.82,wipe_Wed,,0,0,0,,So cool
+Dialogue: 0,1:29:15.67,1:29:17.57,normal_Wed,,0,0,0,,Ah, not good, don't be so angry
+Dialogue: 0,1:29:17.97,1:29:21.04,normal_Wed,,0,0,0,,Tsk, so irritating
+Dialogue: 0,1:29:21.84,1:29:25.62,normal_Wed,,0,0,0,,So, 2 hours and 30 minutes passes
+Dialogue: 0,1:29:26.16,1:29:30.22,normal_Wed,,0,0,0,,It's hard to stand in place for two hours \N -Yes, it is
+Dialogue: 0,1:29:39.76,1:29:41.90,normal_Wed,,0,0,0,,It hurts...
+Dialogue: 0,1:29:42.68,1:29:46.97,normal_Wed,,0,0,0,,Even these two can not hide the pain and fatigue
+Dialogue: 0,1:29:50.70,1:29:52.63,wipe_Wed,,0,0,0,,I was watching
+Dialogue: 0,1:29:54.44,1:29:59.39,normal_Wed,,0,0,0,,What time is it?\N  -It's about 9:40 p.m
+Dialogue: 0,1:29:59.39,1:30:00.68,normal_Wed,,0,0,0,,9:40
+Dialogue: 0,1:30:01.23,1:30:03.06,wipe_Wed,,0,0,0,,Let them rest tomorrow
+Dialogue: 0,1:30:02.23,1:30:04.20,normal_Wed,,0,0,0,,2 hours and 20 minutes to go
+Dialogue: 0,1:30:04.82,1:30:06.86,normal_Wed,,0,0,0,,Until Monday.\N  -Monday
+Dialogue: 0,1:30:06.86,1:30:12.89,normal_Wed,,0,0,0,,I'm setting a goal to make it to Monday
+Dialogue: 0,1:30:13.16,1:30:16.23,normal_Wed,,0,0,0,,Wow, no!
+Dialogue: 0,1:30:16.23,1:30:17.80,normal_Wed,,0,0,0,,Let's celebrate a new day!
+Dialogue: 0,1:30:18.41,1:30:22.27,normal_Wed,,0,0,0,,For the man who can continue to ride on the bike for 24 hours
+Dialogue: 0,1:30:23.28,1:30:27.40,normal_Wed,,0,0,0,,And the man who waited for 6 and a half hours without saying a word
+Dialogue: 0,1:30:28.80,1:30:32.08,normal_Wed,,0,0,0,,There is no end in sight...
+Dialogue: 0,1:30:32.61,1:30:35.18,normal_Wed,,0,0,0,,How is Kasuga doing now? Any thoughts?
+Dialogue: 0,1:30:35.18,1:30:40.62,normal_Wed,,0,0,0,,Well, in any case, we've really stood for 3 and a half hours
+Dialogue: 0,1:30:40.62,1:30:45.19,normal_Wed,,0,0,0,,After standing here for 3 hours, i'll never forget the shape of these rocks
+Dialogue: 0,1:30:45.76,1:30:47.86,normal_Wed,,0,0,0,,If you put it like this, it will hurt and so on
+Dialogue: 0,1:30:48.66,1:30:53.20,normal_Wed,,0,0,0,,Different places have completely different pain
+Dialogue: 0,1:30:55.77,1:30:57.17,normal_Wed,,0,0,0,,Wow... damn it!
+Dialogue: 0,1:31:07.02,1:31:10.42,normal_Wed,,0,0,0,,Hey, why, why, why, why?  \N-Just now his foot moved
+Dialogue: 0,1:31:11.12,1:31:13.32,normal_Wed,,0,0,0,,Wow, a complete oversight
+Dialogue: 0,1:31:13.92,1:31:17.06,normal_Wed,,0,0,0,,Ah, really slippery feet\N  -Scared the hell out of me
+Dialogue: 0,1:31:19.26,1:31:22.06,normal_Wed,,0,0,0,,It really hurts, right?  \N-Yes, it hurts
+Dialogue: 0,1:31:22.06,1:31:24.30,normal_Wed,,0,0,0,,Painful from the beginning
+Dialogue: 0,1:31:24.70,1:31:29.74,normal_Wed,,0,0,0,,We are competing in "endurance", so it is impossible for "no pain"
+Dialogue: 0,1:31:29.74,1:31:35.48,normal_Wed,,0,0,0,,From the first round it was like this, there is no "not hot", it was super hot!
+Dialogue: 0,1:31:35.78,1:31:37.41,normal_Wed,,0,0,0,,We are just holding back!
+Dialogue: 0,1:31:37.65,1:31:40.38,normal_Wed,,0,0,0,,So in the Endurance Showdown
+Dialogue: 0,1:31:40.78,1:31:45.74,normal_Wed,,0,0,0,,The winner is Dancho, congratualtions!
+Dialogue: 0,1:31:49.20,1:31:52.89,normal_Wed,,0,0,0,,Okay, after watching VTR, what do you think?
+Dialogue: 0,1:31:53.03,1:31:59.23,normal_Wed,,0,0,0,,I thought i'd react like "you can do it" and "amazing!"
+Dialogue: 0,1:31:59.72,1:32:02.21,normal_Wed,,0,0,0,,But watching it I was really close to tears
+Dialogue: 0,1:32:02.47,1:32:04.51,normal_Wed,,0,0,0,,It was really like a fight to the death
+Dialogue: 0,1:32:04.68,1:32:06.82,normal_Wed,,0,0,0,,They were so serious
+Dialogue: 0,1:32:07.28,1:32:09.82,normal_Wed,,0,0,0,,Hamada is also good at this, next time let him do it
+Dialogue: 0,1:32:09.82,1:32:11.58,normal_Wed,,0,0,0,,Really? \N-I want to see it
+Dialogue: 0,1:32:11.58,1:32:14.92,normal_Wed,,0,0,0,,Just now in the pool, they should've let them sink
+Dialogue: 0,1:32:15.28,1:32:17.81,normal_Wed,,0,0,0,,That won't work. \N -You can't broadcast that
+Dialogue: 0,1:32:18.39,1:32:23.27,normal_Wed,,0,0,0,,You want to see that, don't you? You can laugh at that, right? "They've sunk!"
+Dialogue: 0,1:32:24.43,1:32:28.76,normal_Wed,,0,0,0,,Hamada-, are you still living 20 years in the past?
+Dialogue: 0,1:32:28.82,1:32:30.69,normal_Wed,,0,0,0,,Yes, he is the "Comedy Time Traveler"
+Dialogue: 0,1:32:30.69,1:32:33.94,normal_Wed,,0,0,0,,"Time Traveler"? "Back to the Future"?
+Dialogue: 0,1:32:33.94,1:32:38.01,normal_Wed,,0,0,0,,That's right, "90 points for violence!" in those days
+Dialogue: 0,1:32:33.94,1:32:38.01,note_Wed,,0,0,0,,{\blur4}※ゲバゲバ 90 points! : A variety show broadcasted on Japanese television from 1969 to 1971
+Dialogue: 0,1:32:40.73,1:33:24.61,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

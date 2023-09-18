@@ -1,0 +1,505 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Audio File: ../Downloads/The Silent Library Torrent - 2022.01.31/01 - Mainline GnT/#1323 - Rendezvous Game #3 Part 2.mkv
+Video File: ../Downloads/The Silent Library Torrent - 2022.01.31/01 - Mainline GnT/#1323 - Rendezvous Game #3 Part 2.mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.750000
+Scroll Position: 228
+Active Line: 245
+Video Position: 43181
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H001ACCFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,8,8,10,1
+Style: White,Arial,55,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Matsumoto,Arial,55,&H001A1BBD,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Hamada,Arial,55,&H0086530D,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Yamasaki,Arial,55,&H00257E1F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Endo,Arial,55,&H00066CF6,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Tanaka,Arial,55,&H008B319F,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Guest1,Arial,55,&H0092C840,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Guest2,Arial,55,&H007D95B6,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Other,Arial,48,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6.6,2,2,8,8,10,1
+Style: Black - Small,Arial,26,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Black,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Classic Yellow,Arial,55,&H001ACCFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+Style: Red Small,Arial,39,&H003839D8,&H005680EA,&H0093B7FF,&H00000000,-1,0,0,0,100,104,0,0,1,2.8,2,2,8,8,10,1
+Style: White - MASSIVE,Arial,81,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,104,0,0,1,5,2,2,8,8,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.80,0:00:05.64,Classic Yellow,,0,0,0,,I loro cuori sono collegati? Incontrarsi senza telefono
+Dialogue: 0,0:00:06.13,0:00:12.58,Classic Yellow,,0,0,0,,La regola: andare in un posto in base al suggerimento. La sfida finisce se tutti si incontrano
+Dialogue: 0,0:00:13.30,0:00:17.96,Classic Yellow,,0,0,0,,L'ultima volta, il primo indizio è stato: Un negozio dove c'è tanta fila fuori
+Dialogue: 0,0:00:26.98,0:00:31.11,Classic Yellow,,0,0,0,,Nessuno riuscì a trovarsi
+Dialogue: 0,0:00:31.13,0:00:34.12,Matsumoto,,0,0,0,,Pensavo che voi ragazzi avreste intuito
+Dialogue: 0,0:00:36.00,0:00:38.50,Matsumoto,,0,0,0,,Siete incapaci
+Dialogue: 0,0:00:38.51,0:00:42.46,Classic Yellow,,0,0,0,,Il secondo indizio, era un hotel
+Dialogue: 0,0:00:43.20,0:00:48.25,Classic Yellow,,0,0,0,,Tutti, tranne Tanaka, hanno fatto affidamento sui loro ricordi
+Dialogue: 0,0:00:54.14,0:00:56.94,Yamasaki,,0,0,0,,Meno male
+Dialogue: 0,0:00:57.80,0:01:00.91,Classic Yellow,,0,0,0,,Solo Matsumoto e Hosei si sono incontrati
+Dialogue: 0,0:01:00.91,0:01:02.83,Matsumoto,,0,0,0,,Hamada fa paura vero?
+Dialogue: 0,0:01:02.83,0:01:06.51,Classic Yellow,,0,0,0,,Riusciranno a incontrarsi?
+Dialogue: 0,0:01:06.92,0:01:11.40,Matsumoto,,0,0,0,,1, 2, Dogenzaka\N {\c&HFF00FF&\1a&H4A&}Nikotama dev'essere la risposta giusta
+Dialogue: 0,0:01:12.11,0:01:17.57,Matsumoto,,0,0,0,,C'è qualcuno, lì, lì!
+Dialogue: 0,0:01:12.11,0:01:17.57,Default,,0,0,0,,{\fs42\i1\b1\pos(449.333,100.667)}Tradotto da Lorenzo Toma (tomplayer)\NPer info/segnalazioni lorenzotomasubs@gmail.com{\i0\b0}
+Dialogue: 0,0:01:18.94,0:01:22.37,Classic Yellow,,0,0,0,,1 ora e 34 minuti dall'inizio
+Dialogue: 0,0:01:23.23,0:01:26.14,Classic Yellow,,0,0,0,,È il momento del terzo indizio
+Dialogue: 0,0:01:26.60,0:01:27.97,Yamasaki,,0,0,0,,Ecco qua
+Dialogue: 0,0:01:30.11,0:01:31.60,Matsumoto,,0,0,0,,E' difficile
+Dialogue: 0,0:01:30.11,0:01:32.57,Classic Yellow,,0,0,0,,{\pos(727.2,921.2)}UNIQLO
+Dialogue: 0,0:01:31.86,0:01:35.77,Yamasaki,,0,0,0,,Sai, ne ho appena pensato uno,
+Dialogue: 0,0:01:35.77,0:01:38.03,Matsumoto,,0,0,0,,Io non ne ho idea,
+Dialogue: 0,0:01:38.46,0:01:43.20,Matsumoto,,0,0,0,,Al 3, \N 1, 2, Dogenzaka
+Dialogue: 0,0:01:40.43,0:01:43.20,Yamasaki,,0,0,0,,Shinjiku
+Dialogue: 0,0:01:43.71,0:01:45.57,Yamasaki,,0,0,0,,Uno dei due
+Dialogue: 0,0:01:45.57,0:01:48.34,Matsumoto,,0,0,0,,Quello al [Shibuya] 109 vero?
+Dialogue: 0,0:01:48.34,0:01:50.50,Yamasaki,,0,0,0,,Penso uno dei due,
+Dialogue: 0,0:01:50.50,0:01:53.93,Yamasaki,,0,0,0,,Credo che quello di Bic Camera, lo chiamino BICQLO o qualcosa del genere,
+Dialogue: 0,0:01:53.93,0:01:58.25,Yamasaki,,0,0,0,,Su Shinjiku-dori di fronte a Kinokuniya [Grande Magazzino]
+Dialogue: 0,0:01:56.60,0:02:00.95,Matsumoto,,0,0,0,,Eravamo lì, ora dobbiamo tornare indietro?
+Dialogue: 0,0:02:00.95,0:02:03.50,Matsumoto,,0,0,0,,E' davvero grande quello
+Dialogue: 0,0:02:02.27,0:02:06.45,Yamasaki,,0,0,0,,Ma ho pensato prima a Shibuya o Shinjiku
+Dialogue: 0,0:02:06.45,0:02:09.85,Matsumoto,,0,0,0,,Shibuya vero? Ce n'è anche uno a Ginza
+Dialogue: 0,0:02:09.85,0:02:12.20,Matsumoto,,0,0,0,,Ma Ginza è fuori vero?
+Dialogue: 0,0:02:12.20,0:02:15.45,Yamasaki,,0,0,0,,Quello di Shinjiku è un BICQLO però
+Dialogue: 0,0:02:15.45,0:02:18.60,Yamasaki,,0,0,0,,E' la collaborazione con Bic Camera
+Dialogue: 0,0:02:18.05,0:02:21.25,Matsumoto,,0,0,0,,Oh sì, Tanaka direbbe qualcosa di strano su questo
+Dialogue: 0,0:02:21.25,0:02:23.30,Matsumoto,,0,0,0,,Quindi diciamo, Shinjiku?
+Dialogue: 0,0:02:22.40,0:02:25.45,Yamasaki,,0,0,0,,No, Shibuya
+Dialogue: 0,0:02:24.15,0:02:26.40,Matsumoto,,0,0,0,,Vero, Shibuya
+Dialogue: 0,0:02:26.40,0:02:29.90,Matsumoto,,0,0,0,,Mi sono solo distratto. Hai ragione.
+Dialogue: 0,0:02:29.90,0:02:32.84,Matsumoto,,0,0,0,,Quello è un BICQLO, giusto
+Dialogue: 0,0:02:33.60,0:02:37.80,Classic Yellow,,0,0,0,,I due si dirigono verso UNIQLO a Shibuya
+Dialogue: 0,0:02:38.35,0:02:43.05,Matsumoto,,0,0,0,,Yamasaki di solito è vicino, come il cartellone dell'ultima volta
+Dialogue: 0,0:02:43.05,0:02:47.50,Matsumoto,,0,0,0,,Non voglio davvero dirlo, perché potrei continuare all'infinito,
+Dialogue: 0,0:02:47.50,0:02:51.10,Matsumoto,,0,0,0,,Per dirla semplicemente, questo è un problema di quoziente intellettivo
+Dialogue: 0,0:02:50.40,0:02:54.00,Yamasaki,,0,0,0,,Hai ragione, il loro è troppo basso
+Dialogue: 0,0:02:54.00,0:02:56.76,Matsumoto,,0,0,0,,E' una questione di intelligenza
+Dialogue: 0,0:02:56.76,0:03:02.10,Yamasaki,,0,0,0,,Forse non lo sappiamo ma potrebbe esserci un enorme UNIQLO da qualche parte
+Dialogue: 0,0:03:02.10,0:03:05.60,Matsumoto,,0,0,0,,Questo è quello che mi ha fatto pensare a Ginza
+Dialogue: 0,0:03:05.60,0:03:07.00,Yamasaki,,0,0,0,,Davvero?
+Dialogue: 0,0:03:07.00,0:03:10.30,White,,0,0,0,,Quello di Ginza si vede spesso in tv
+Dialogue: 0,0:03:10.32,0:03:15.55,Matsumoto,,0,0,0,,Ma Cocorico e Hamada in Ginza...
+Dialogue: 0,0:03:15.55,0:03:19.30,Matsumoto,,0,0,0,,Penso che Hamada sia probabilmente bandito da Ginza
+Dialogue: 0,0:03:19.30,0:03:22.30,Yamasaki,,0,0,0,,Non è vero ovviamente
+Dialogue: 0,0:03:21.40,0:03:24.15,Hamada,,0,0,0,,Non ne ho idea
+Dialogue: 0,0:03:26.56,0:03:34.90,Hamada,,0,0,0,,Per esempio, c'era quell'enorme UNIQLO a Ginza che era in tv
+Dialogue: 0,0:03:37.10,0:03:40.10,Hamada,,0,0,0,,Ma gli altri ci penseranno?
+Dialogue: 0,0:03:40.55,0:03:42.35,Hamada,,0,0,0,,Dove ce ne sono altri?
+Dialogue: 0,0:03:42.35,0:03:44.55,Hamada,,0,0,0,,Ce ne sono a Shibuya?
+Dialogue: 0,0:03:44.55,0:03:46.85,White,,0,0,0,,Ce n'è uno a Shibuya
+Dialogue: 0,0:03:45.40,0:03:46.86,Hamada,,0,0,0,,C'è vero
+Dialogue: 0,0:03:46.86,0:03:50.80,Hamada,,0,0,0,,Non credo Shinjuku. Magari Shibuya...
+Dialogue: 0,0:03:53.30,0:03:56.50,Hamada,,0,0,0,,Andiamo a [Nascosto]
+Dialogue: 0,0:03:56.50,0:04:00.50,Classic Yellow,,0,0,0,,In quale UNIQLO è diretto Hamada?
+Dialogue: 0,0:04:06.05,0:04:09.55,Hamada,,0,0,0,,Mi faranno penare,
+Dialogue: 0,0:04:09.55,0:04:12.25,Hamada,,0,0,0,,se vado in quello sbagliato
+Dialogue: 0,0:04:14.40,0:04:22.00,Matsumoto,,0,0,0,,Ci sono 2 cose che Hamada non usa, che la gente normale userebbe,
+Dialogue: 0,0:04:22.00,0:04:24.95,Matsumoto,,0,0,0,,Il primo, è la parola "delizioso"
+Dialogue: 0,0:04:24.95,0:04:27.35,Matsumoto,,0,0,0,,Non esclamerà mai "Delizioso!".
+Dialogue: 0,0:04:27.35,0:04:29.75,Matsumoto,,0,0,0,,Il suo gusto è spazzatura
+Dialogue: 0,0:04:29.75,0:04:33.29,Matsumoto,,0,0,0,,"Delizioso!" Non lo direbbe mai
+Dialogue: 0,0:04:33.29,0:04:35.80,Matsumoto,,0,0,0,,Le persone normali lo direbbero di sicuro, ma non lui
+Dialogue: 0,0:04:36.25,0:04:38.70,Matsumoto,,0,0,0,,E l'altra cosa,
+Dialogue: 0,0:04:38.70,0:04:40.55,Matsumoto,,0,0,0,,"Nostalgico!"
+Dialogue: 0,0:04:40.55,0:04:42.90,Yamasaki,,0,0,0,,Non gliel'ho mai sentito dire
+Dialogue: 0,0:04:41.63,0:04:43.60,Matsumoto,,0,0,0,,No vero?
+Dialogue: 0,0:04:42.90,0:04:47.05,Yamasaki,,0,0,0,,Non l'ho mai sentito usare la frase "Così nostalgico"
+Dialogue: 0,0:04:47.80,0:04:50.36,Yamasaki,,0,0,0,,Mai sentito
+Dialogue: 0,0:04:50.36,0:04:55.48,Matsumoto,,0,0,0,,Il suo sangue non è liquido
+Dialogue: 0,0:04:53.20,0:04:54.64,Yamasaki,,0,0,0,,Quello di Hamada-san?
+Dialogue: 0,0:04:55.16,0:04:57.64,Matsumoto,,0,0,0,,E' in forma di polvere
+Dialogue: 0,0:04:57.04,0:05:01.56,Yamasaki,,0,0,0,,Non ha mai visto del sangue prima
+Dialogue: 0,0:04:58.32,0:05:01.57,Matsumoto,,0,0,0,,Sì, è vero. Ecco perché il suo è in polvere
+Dialogue: 0,0:05:02.96,0:05:06.08,Hamada,,0,0,0,,Voglio incontrare persone simpatiche
+Dialogue: 0,0:05:06.66,0:05:09.80,Hamada,,0,0,0,,Così da essere nel giusto
+Dialogue: 0,0:05:10.84,0:05:14.20,Hamada,,0,0,0,,Visto che quei due sono insieme
+Dialogue: 0,0:05:14.20,0:05:16.72,Hamada,,0,0,0,,Credono di sapere la risposta migliore
+Dialogue: 0,0:05:17.24,0:05:23.34,Matsumoto,,0,0,0,,Ma comunque, Hamada è come il pus di questo show
+Dialogue: 0,0:05:24.20,0:05:27.64,Yamasaki,,0,0,0,,Dai, non è per niente vero
+Dialogue: 0,0:05:27.64,0:05:30.60,Matsumoto,,0,0,0,,Tutti i problemi derivano da lui, giusto?
+Dialogue: 0,0:05:33.58,0:05:36.58,Matsumoto,,0,0,0,,È tutto incasinato, tutto di lui
+Dialogue: 0,0:05:37.38,0:05:39.16,Matsumoto,,0,0,0,,La sua fortuna
+Dialogue: 0,0:05:37.38,0:05:38.53,Yamasaki,,0,0,0,,La sua fortuna?
+Dialogue: 0,0:05:39.64,0:05:41.33,Yamasaki,,0,0,0,,Nah nah non è...
+Dialogue: 0,0:05:43.29,0:05:47.06,Classic Yellow,,0,0,0,,Tanaka non ha ancora scelto il luogo
+Dialogue: 0,0:05:47.06,0:05:52.27,Tanaka,,0,0,0,,UNIQLO... dove ce ne sono altri oltre che a Nikotama?
+Dialogue: 0,0:05:53.51,0:05:57.02,Classic Yellow,,0,0,0,,La risposta che gli è venuta?
+Dialogue: 0,0:05:58.89,0:06:02.44,Tanaka,,0,0,0,,A [Nascosto]
+Dialogue: 0,0:06:02.44,0:06:04.84,Tanaka,,0,0,0,,Ce n'era uno?
+Dialogue: 0,0:06:04.84,0:06:07.16,Tanaka,,0,0,0,,Andiamo a [Nascosto]
+Dialogue: 0,0:06:07.16,0:06:09.38,White,,0,0,0,,Va bene?
+Dialogue: 0,0:06:09.38,0:06:13.16,Classic Yellow,,0,0,0,,Quale UNIQLO avrà scelto Tanaka?
+Dialogue: 0,0:06:13.87,0:06:16.39,Tanaka,,0,0,0,,Keshigomu (staff), ti viene in mente un negozio?
+Dialogue: 0,0:06:13.87,0:06:16.39,Default,,0,0,0,,
+Dialogue: 0,0:06:16.39,0:06:18.84,White,,0,0,0,,Direi quello a Ginza
+Dialogue: 0,0:06:19.78,0:06:22.09,White,,0,0,0,,Ce n'è uno grande a Ginza
+Dialogue: 0,0:06:23.11,0:06:26.58,Tanaka,,0,0,0,,Non so quanto sia grande l'UNIQLO a Ginza...
+Dialogue: 0,0:06:26.58,0:06:29.64,Tanaka,,0,0,0,,Un grande UNIQLO a Ginza?
+Dialogue: 0,0:06:29.64,0:06:33.08,Endo,,0,0,0,,Ce n'è uno a Shibuya,
+Dialogue: 0,0:06:33.08,0:06:36.08,Endo,,0,0,0,,Non so dove però
+Dialogue: 0,0:06:37.02,0:06:38.76,Endo,,0,0,0,,Andiamo a [Nascosto]
+Dialogue: 0,0:06:40.27,0:06:44.29,Classic Yellow,,0,0,0,,L'auto di Matsumoto si affretta verso Shibuya
+Dialogue: 0,0:06:45.20,0:06:50.99,Classic Yellow,,0,0,0,,Qualcuno riuscirà a incontrarsi?
+Dialogue: 0,0:06:51.01,0:06:55.24,Matsumoto,,0,0,0,,Se mi passano di nuovo un telefono, mi arrabbio
+Dialogue: 0,0:06:55.24,0:06:59.34,Yamasaki,,0,0,0,,Ci diranno che sono in un posto diverso
+Dialogue: 0,0:06:59.78,0:07:02.40,Matsumoto,,0,0,0,,Ti fa iniziare a odiarli
+Dialogue: 0,0:07:02.40,0:07:05.07,Yamasaki,,0,0,0,,Ti fa dire "Perché? Solo perché?"
+Dialogue: 0,0:07:05.07,0:07:09.20,Yamasaki,,0,0,0,,"Woah, non ci conosciamo affatto"
+Dialogue: 0,0:07:11.42,0:07:14.71,Matsumoto,,0,0,0,,"Parliamo la stessa lingua?"
+Dialogue: 0,0:07:16.40,0:07:19.91,Classic Yellow,,0,0,0,,I 2 raggiungono Shibuya Dogenzaka
+Dialogue: 0,0:07:19.91,0:07:24.00,Matsumoto,,0,0,0,,Non vedo altro staff in giro
+Dialogue: 0,0:07:24.00,0:07:26.40,Matsumoto,,0,0,0,,Ecco l'UNIQLO
+Dialogue: 0,0:07:27.47,0:07:29.73,Yamasaki,,0,0,0,,Hmm? Matsumoto-san
+Dialogue: 0,0:07:30.31,0:07:32.00,Yamasaki,,0,0,0,,Guarda
+Dialogue: 0,0:07:35.47,0:07:37.47,Yamasaki,,0,0,0,,Non c'è qualcuno lì?
+Dialogue: 0,0:07:37.47,0:07:40.22,Yamasaki,,0,0,0,,Non sembra ci sia qualcuno lì?
+Dialogue: 0,0:07:40.22,0:07:42.53,Matsumoto,,0,0,0,,E' Keshigomu!
+Dialogue: 0,0:07:41.11,0:07:42.56,Yamasaki,,0,0,0,,E' lui vero?
+Dialogue: 0,0:07:42.56,0:07:45.82,Matsumoto,,0,0,0,,E' Keshigomu quello? Oh c'è qualcuno lì!
+Dialogue: 0,0:07:47.87,0:07:50.58,Matsumoto,,0,0,0,,sì sì sì chi è
+Dialogue: 0,0:07:49.29,0:07:50.60,Matsumoto,,0,0,0,,OOOHHH TANAKA!!!
+Dialogue: 0,0:07:52.84,0:07:54.44,Tanaka,,0,0,0,,Visto!
+Dialogue: 0,0:07:53.22,0:07:55.87,Matsumoto,,0,0,0,,Davvero?
+Dialogue: 0,0:07:53.82,0:07:57.07,Tanaka,,0,0,0,,Questa è la risposta giusta
+Dialogue: 0,0:07:57.07,0:07:59.20,Tanaka,,0,0,0,,Vero?
+Dialogue: 0,0:07:58.13,0:08:00.71,Yamasaki,,0,0,0,,Meno male!
+Dialogue: 0,0:08:00.71,0:08:04.40,Matsumoto,,0,0,0,,Perchè è enorme vero?
+Dialogue: 0,0:08:06.95,0:08:08.85,Matsumoto,,0,0,0,,Oh meno male
+Dialogue: 0,0:08:08.25,0:08:10.55,Tanaka,,0,0,0,,Grazie a Dio!
+Dialogue: 0,0:08:09.97,0:08:14.48,Yamasaki,,0,0,0,,Questa è l'unica risposta\N O qui o Shinjuku
+Dialogue: 0,0:08:14.48,0:08:17.70,Yamasaki,,0,0,0,,Ma quello a Shinjuku è un BICQLO
+Dialogue: 0,0:08:17.70,0:08:23.25,Matsumoto,,0,0,0,,E abbiamo pensato "Tanaka avrebbe qualche problema con questo" così siamo venuti qui invece
+Dialogue: 0,0:08:23.25,0:08:25.60,Tanaka,,0,0,0,,Ah ho capito
+Dialogue: 0,0:08:26.69,0:08:30.40,Matsumoto,,0,0,0,,È solo Hamada, dobbiamo mirare a lui
+Dialogue: 0,0:08:29.75,0:08:31.35,Yamasaki,,0,0,0,,Hai ragione
+Dialogue: 0,0:08:30.40,0:08:34.55,Tanaka,,0,0,0,,È vero, è lui quello strano
+Dialogue: 0,0:08:33.30,0:08:35.75,Matsumoto,,0,0,0,,E' lui il problema
+Dialogue: 0,0:08:35.75,0:08:39.25,Yamasaki,,0,0,0,,Colpa mia, pensavo che Tanaka fosse il problema,
+Dialogue: 0,0:08:39.25,0:08:43.37,Yamasaki,,0,0,0,,Ma per tutto il tempo nel taxi abbiamo parlato di Hamada
+Dialogue: 0,0:08:43.37,0:08:46.00,Yamasaki,,0,0,0,,Tuttto il viaggio
+Dialogue: 0,0:08:45.20,0:08:49.48,Matsumoto,,0,0,0,,Il fatto che non sia venuto all'Hotel Yoko ha fatto davvero male
+Dialogue: 0,0:08:48.15,0:08:50.00,Tanaka,,0,0,0,,Ah, ecco
+Dialogue: 0,0:08:49.48,0:08:51.75,Matsumoto,,0,0,0,,Perchè il Westin?
+Dialogue: 0,0:08:51.75,0:08:56.95,Tanaka,,0,0,0,,I miei genitori sono stati lì
+Dialogue: 0,0:08:58.00,0:08:59.45,Matsumoto,,0,0,0,,Al Westin?
+Dialogue: 0,0:08:58.90,0:09:02.70,Yamasaki,,0,0,0,,Come avremmo fatto a saperlo
+Dialogue: 0,0:09:01.05,0:09:02.03,Matsumoto,,0,0,0,,Non è possibile\N
+Dialogue: 0,0:09:02.03,0:09:08.03,Matsumoto,,0,0,0,,"Oh sì, i genitori di Tanaka sono stati lì!" - Pensavi che avremmo detto così?
+Dialogue: 0,0:09:06.85,0:09:09.10,Yamasaki,,0,0,0,,Hai pensato così?
+Dialogue: 0,0:09:08.03,0:09:14.60,Matsumoto,,0,0,0,,E poi arrivano Endo e Hamada: "Certo, vero? I genitori di Tanaka sono stati qui dopo tutto!"
+Dialogue: 0,0:09:14.60,0:09:17.40,Matsumoto,,0,0,0,,"Ci vediamo la prossima settimana!" Sarebbe successo così?
+Dialogue: 0,0:09:18.71,0:09:24.00,Tanaka,,0,0,0,,Ma Endo mi ha scioccato al primo indizio,
+Dialogue: 0,0:09:24.00,0:09:29.49,Tanaka,,0,0,0,,Stavamo parlando del posto con la coda, giusto? \NAbbiamo anche menzionato Hirunandesu
+Dialogue: 0,0:09:29.49,0:09:33.79,Yamasaki,,0,0,0,,Così si sarebbe ricordato del negozio di pancake
+Dialogue: 0,0:09:31.07,0:09:34.62,Tanaka,,0,0,0,,Vero? Il posto dei pancake
+Dialogue: 0,0:09:33.79,0:09:37.16,Matsumoto,,0,0,0,,In realtà nemmeno io penserei a un posto per i pancake,
+Dialogue: 0,0:09:36.67,0:09:39.38,Yamasaki,,0,0,0,,Ma Hirunandesu era-
+Dialogue: 0,0:09:38.58,0:09:40.98,Matsumoto,,0,0,0,,Hai la cerniera dei pantaloni aperta
+Dialogue: 0,0:09:45.42,0:09:47.73,Matsumoto,,0,0,0,,E' un sacco aperta
+Dialogue: 0,0:09:47.20,0:09:49.64,Yamasaki,,0,0,0,,E' in quell'età dopo tutto
+Dialogue: 0,0:09:47.73,0:09:52.13,Matsumoto,,0,0,0,,E non l'hai nemmeno chiusa bene
+Dialogue: 0,0:09:52.13,0:09:54.13,Yamasaki,,0,0,0,,Stai cercando di farci ridere?
+Dialogue: 0,0:09:58.09,0:10:02.12,Classic Yellow,,0,0,0,,Dove sono Hamada e Endo?
+Dialogue: 0,0:10:02.12,0:10:04.02,Matsumoto,,0,0,0,,Prima di tutto, Endo
+Dialogue: 0,0:10:04.02,0:10:11.80,Endo,,0,0,0,,Sono andato all'UNIQLO di Shinjuku
+Dialogue: 0,0:10:13.40,0:10:15.07,Matsumoto,,0,0,0,,Come abbiamo detto,
+Dialogue: 0,0:10:15.07,0:10:17.00,Yamasaki,,0,0,0,,Non è giusto quello
+Dialogue: 0,0:10:17.00,0:10:18.67,Matsumoto,,0,0,0,,Quello è un BICQLO
+Dialogue: 0,0:10:18.67,0:10:23.94,Endo,,0,0,0,,C'è scritto BICQLO, ma dice UNIQLO proprio a fianco
+Dialogue: 0,0:10:24.30,0:10:28.40,Matsumoto,,0,0,0,,Non ti perdonerò mai
+Dialogue: 0,0:10:22.77,0:10:23.96,Matsumoto,,0,0,0,,Ecco qua
+Dialogue: 0,0:10:36.62,0:10:42.57,Matsumoto,,0,0,0,,Qui ci siamo incontrati io, Yamasaki e Tanaka!
+Dialogue: 0,0:10:31.40,0:10:35.93,Matsumoto,,0,0,0,,Non ti perdonerò mai, qualunque cosa accada
+Dialogue: 0,0:10:43.17,0:10:44.96,Tanaka,,0,0,0,,Ci siamo incontrati
+Dialogue: 0,0:10:43.63,0:10:44.98,Endo,,0,0,0,,Tanaka è lì?
+Dialogue: 0,0:10:46.10,0:10:50.23,Matsumoto,,0,0,0,,Siamo all'UNIQLO di Dogenzaka
+Dialogue: 0,0:10:50.63,0:10:52.97,Hamada,,0,0,0,,L'UNIQLO a Dogenzaka?
+Dialogue: 0,0:10:52.97,0:10:56.40,Matsumoto,,0,0,0,,È il più ovvio!
+Dialogue: 0,0:10:55.40,0:10:57.81,Yamasaki,,0,0,0,,E' molto visibile
+Dialogue: 0,0:10:57.81,0:10:58.90,Matsumoto,,0,0,0,,Hamada
+Dialogue: 0,0:10:59.80,0:11:02.57,Matsumoto,,0,0,0,,Cosa stai facendo?
+Dialogue: 0,0:11:01.90,0:11:05.10,Hamada,,0,0,0,,Cosa intendi con "Cosa stai facendo?"
+Dialogue: 0,0:11:05.10,0:11:07.63,Matsumoto,,0,0,0,,UNIQLO ... Sei a uno in Giappone, giusto?
+Dialogue: 0,0:11:07.63,0:11:10.37,Hamada,,0,0,0,,Sì, sono a un UNIQLO
+Dialogue: 0,0:11:10.87,0:11:12.63,Hamada,,0,0,0,,A Ginza
+Dialogue: 0,0:11:13.03,0:11:14.49,Matsumoto,,0,0,0,,Eccolo lì
+Dialogue: 0,0:11:14.87,0:11:16.03,Tanaka,,0,0,0,,L'ha detto, Ginza
+Dialogue: 0,0:11:16.03,0:11:18.23,Endo,,0,0,0,,Ce n'è uno a Ginza?
+Dialogue: 0,0:11:18.23,0:11:21.40,Hamada,,0,0,0,,Certo, ha 12 piani!
+Dialogue: 0,0:11:21.40,0:11:23.53,Hamada,,0,0,0,,E' il più grande della città
+Dialogue: 0,0:11:22.37,0:11:26.30,Matsumoto,,0,0,0,,No, devi pensare al momento,
+Dialogue: 0,0:11:26.30,0:11:30.60,Hamada,,0,0,0,,Voi state solo usando il potere dei numeri per decidere quale è giusto
+Dialogue: 0,0:11:30.60,0:11:33.57,Hamada,,0,0,0,,E' la quantità che decide?
+Dialogue: 0,0:11:33.57,0:11:35.77,Hamada,,0,0,0,,Credo sia sbagliato
+Dialogue: 0,0:11:35.20,0:11:38.37,Matsumoto,,0,0,0,,Lo scopo di questo episodio è quello di avere il maggior numero di persone
+Dialogue: 0,0:11:38.37,0:11:40.93,Hamada,,0,0,0,,Anche se dici così,
+Dialogue: 0,0:11:40.93,0:11:44.00,Hamada,,0,0,0,,E' un episodio dove ci si "incontra"
+Dialogue: 0,0:11:41.40,0:11:44.45,Matsumoto,,0,0,0,,E' quello il punto della sfida
+Dialogue: 0,0:11:44.45,0:11:48.77,Matsumoto,,0,0,0,,Come vuoi, basta. Parleremo più tardi, va bene, va bene
+Dialogue: 0,0:11:49.60,0:11:51.27,White,,0,0,0,,Hanno attaccato?
+Dialogue: 0,0:11:52.27,0:11:54.10,Hamada,,0,0,0,,Pure Tanaka è con loro
+Dialogue: 0,0:11:54.93,0:11:57.67,Hamada,,0,0,0,,Ne ho abbastanza
+Dialogue: 0,0:11:58.40,0:12:01.17,Classic Yellow,,0,0,0,,2 ore e 2 minuti dall'inizio
+Dialogue: 0,0:12:01.93,0:12:05.17,Classic Yellow,,0,0,0,,Tempo per il quarto indizio
+Dialogue: 0,0:12:05.17,0:12:06.27,Yamasaki,,0,0,0,,Forza!
+Dialogue: 0,0:12:07.46,0:12:09.11,Black,,0,0,0,,{\pos(736.5,864)}Un luogo per intervistare le persone per strada
+Dialogue: 0,0:12:09.11,0:12:13.00,Yamasaki,,0,0,0,,Ecco, sappiamo già che c'è
+Dialogue: 0,0:12:10.37,0:12:13.93,Black,,0,0,0,,{\pos(714,848)}Un luogo per intervistare le persone per strada
+Dialogue: 0,0:12:14.29,0:12:15.69,Matsumoto,,0,0,0,,Ho capito
+Dialogue: 0,0:12:14.89,0:12:16.23,Yamasaki,,0,0,0,,Anch'io
+Dialogue: 0,0:12:16.23,0:12:18.31,Matsumoto,,0,0,0,,Tu hai capito?
+Dialogue: 0,0:12:18.31,0:12:20.44,Yamasaki,,0,0,0,,Perchè quella faccia stupida?
+Dialogue: 0,0:12:20.44,0:12:24.16,Matsumoto,,0,0,0,,Sto sicuramente pensando allo stesso posto di Yamasaki
+Dialogue: 0,0:12:22.91,0:12:24.18,Yamasaki,,0,0,0,,Lo stesso
+Dialogue: 0,0:12:24.18,0:12:26.29,Yamasaki,,0,0,0,,Perchè quell'espressione?
+Dialogue: 0,0:12:26.97,0:12:29.69,Yamasaki,,0,0,0,,Okay diciamo la risposta insieme,
+Dialogue: 0,0:12:30.34,0:12:33.94,Yamasaki,,0,0,0,,1, 2, Shinbashi!
+Dialogue: 0,0:12:31.43,0:12:33.94,Matsumoto,,0,0,0,,Shinbashi!
+Dialogue: 0,0:12:31.43,0:12:33.94,Tanaka,,0,0,0,,Center Gai!
+Dialogue: 0,0:12:35.91,0:12:40.43,Yamasaki,,0,0,0,,È Shinbashi, non c'è dubbio!
+Dialogue: 0,0:12:36.89,0:12:41.57,Matsumoto,,0,0,0,,Dev'essere SL Plaza COS'HAI VISTO SEMPRE IN TELEVISIONE?!?!
+Dialogue: 0,0:12:41.57,0:12:43.86,Yamasaki,,0,0,0,,Probabilmente ci saranno delle interviste anche adesso
+Dialogue: 0,0:12:43.86,0:12:47.34,Tanaka,,0,0,0,,Ma Center Gai non è il centro di Shibuya?
+Dialogue: 0,0:12:47.34,0:12:50.46,Tanaka,,0,0,0,,Lì intervistano sempre persone
+Dialogue: 0,0:12:48.43,0:12:51.46,Matsumoto,,0,0,0,,Sono interviste su argomenti di nicchia
+Dialogue: 0,0:12:51.46,0:12:54.46,Matsumoto,,0,0,0,,Non dovrebbe riguardare solo la moda o argomenti del genere,
+Dialogue: 0,0:12:54.46,0:12:58.43,Matsumoto,,0,0,0,,Ma più quello che si vede nei telegiornali giapponesi
+Dialogue: 0,0:12:58.43,0:13:01.71,Matsumoto,,0,0,0,,Quindi dev'essere Shinbashi
+Dialogue: 0,0:13:00.26,0:13:02.86,Yamasaki,,0,0,0,,Dev'essere SL Plaza a Shinbashi!
+Dialogue: 0,0:13:04.49,0:13:07.69,Matsumoto,,0,0,0,,Per tutto il tempo ho pensato cos'è questo "CLANK CLANK".
+Dialogue: 0,0:13:07.69,0:13:11.26,Matsumoto,,0,0,0,,SEI TU CHE FAI IN MODO CHE QUESTA CATENA COLPISCA STA COSA!!!
+Dialogue: 0,0:13:11.26,0:13:13.09,Matsumoto,,0,0,0,,FAI UN PASSO AVANTI!
+Dialogue: 0,0:13:13.71,0:13:15.71,Matsumoto,,0,0,0,,Mi fa ribollire il sangue
+Dialogue: 0,0:13:14.37,0:13:16.57,Yamasaki,,0,0,0,,Era quello il rumore?
+Dialogue: 0,0:13:16.57,0:13:19.49,Yamasaki,,0,0,0,,Per tutta la chiamata sentivo questo CLANK CLANK
+Dialogue: 0,0:13:19.49,0:13:21.11,Yamasaki,,0,0,0,,Eri tu?!
+Dialogue: 0,0:13:21.11,0:13:23.91,Yamasaki,,0,0,0,,Credevo fosse qualcosa dal telefono
+Dialogue: 0,0:13:25.49,0:13:27.66,Tanaka,,0,0,0,,Mi spiace, mi spiace
+Dialogue: 0,0:13:25.49,0:13:27.67,Matsumoto,,0,0,0,,È esasperante, esasperante vero?
+Dialogue: 0,0:13:28.04,0:13:30.31,Yamasaki,,0,0,0,,Meno male l'abbiamo incontrato, immagina se non l'avessimo fatto
+Dialogue: 0,0:13:30.31,0:13:33.43,Matsumoto,,0,0,0,,Sì meno male. Io e Yamasaki pensiamo uguale vero?
+Dialogue: 0,0:13:33.43,0:13:36.46,Yamasaki,,0,0,0,,Matsumoto-san ci siamo, finiremo con questo indizio
+Dialogue: 0,0:13:35.71,0:13:38.94,Tanaka,,0,0,0,,Ginza! Hamada è lì
+Dialogue: 0,0:13:37.83,0:13:39.74,Matsumoto,,0,0,0,,E' vicino,
+Dialogue: 0,0:13:39.74,0:13:43.26,Matsumoto,,0,0,0,,Se è una persona normale, verrà a Shinbashi
+Dialogue: 0,0:13:44.23,0:13:46.97,Classic Yellow,,0,0,0,,Si dirigono alla SL Plaza a Shinbashi
+Dialogue: 0,0:13:46.97,0:13:49.85,Classic Yellow,,0,0,0,,Si troveranno tutti?
+Dialogue: 0,0:13:51.11,0:13:52.51,Classic Yellow,,0,0,0,,E Endo?
+Dialogue: 0,0:13:52.53,0:13:58.19,Endo,,0,0,0,,Ci sono solo 2 risposte, \N SL Plaza, o Shibuya?
+Dialogue: 0,0:13:59.11,0:14:03.43,Endo,,0,0,0,,Davanti a Hachiko, vedi spesso gente con il microfono
+Dialogue: 0,0:14:03.74,0:14:07.37,Classic Yellow,,0,0,0,,Considera SL Plaza, e la statua di Hachiko a Shibuya
+Dialogue: 0,0:14:07.37,0:14:09.46,Endo,,0,0,0,,Quale sceglierà?
+Dialogue: 0,0:14:10.97,0:14:12.63,Classic Yellow,,0,0,0,,Nel frattempo, Hamada,
+Dialogue: 0,0:14:13.11,0:14:15.23,Hamada,,0,0,0,,Questa la so
+Dialogue: 0,0:14:15.66,0:14:18.57,Hamada,,0,0,0,,Quello è il posto, [Nascosto]
+Dialogue: 0,0:14:19.40,0:14:21.71,Hamada,,0,0,0,,Dev'essere quello, senza dubbio
+Dialogue: 0,0:14:21.71,0:14:23.77,Hamada,,0,0,0,,Andiamo. Quello è l'unico posto
+Dialogue: 0,0:14:24.31,0:14:29.57,Classic Yellow,,0,0,0,,Questa volta sono pieni di fiducia, ma incontreranno il gruppo di Matsumoto?
+Dialogue: 0,0:14:30.54,0:14:32.54,Hamada,,0,0,0,,Ho fiducia in questa scelta,
+Dialogue: 0,0:14:32.54,0:14:37.00,Hamada,,0,0,0,,Se mi dicono che mi sbaglio, questo diventerà un problema politico
+Dialogue: 0,0:14:39.90,0:14:42.49,Hamada,,0,0,0,,Hanno i numeri dalla loro
+Dialogue: 0,0:14:43.54,0:14:47.89,Classic Yellow,,0,0,0,,D'ora in poi, Tanaka filma il gruppo di Matsumoto
+Dialogue: 0,0:14:48.71,0:14:53.94,Matsumoto,,0,0,0,,Se questo fosse "Il viaggio in Occidente", Tanaka sarebbe la sacerdotessa
+Dialogue: 0,0:14:55.17,0:14:56.91,Yamasaki,,0,0,0,,Cosa intendi?
+Dialogue: 0,0:14:55.89,0:14:59.80,Matsumoto,,0,0,0,,Ci incontra uno per uno
+Dialogue: 0,0:15:00.17,0:15:02.69,Yamasaki,,0,0,0,,Quindi è la sacerdotessa?
+Dialogue: 0,0:15:01.11,0:15:03.63,Matsumoto,,0,0,0,,E io sono Son Goku ovviamente
+Dialogue: 0,0:15:03.63,0:15:10.00,Yamasaki,,0,0,0,,Lui è la sacerdotessa, e tu sei Son Goku\N Io chi sono allora?
+Dialogue: 0,0:15:09.74,0:15:12.11,Matsumoto,,0,0,0,,Tu sei Sagojo no?
+Dialogue: 0,0:15:12.49,0:15:14.49,Yamasaki,,0,0,0,,Quindi, Hamada-san...
+Dialogue: 0,0:15:14.49,0:15:17.23,Matsumoto,,0,0,0,,Hamada è Chohakai no?
+Dialogue: 0,0:15:17.23,0:15:18.80,Endo,,0,0,0,,E Endo?
+Dialogue: 0,0:15:18.80,0:15:20.60,Matsumoto,,0,0,0,,Chi sarebbe Endo?
+Dialogue: 0,0:15:20.60,0:15:23.11,Matsumoto,,0,0,0,,Lui è Gautama Buddha
+Dialogue: 0,0:15:22.51,0:15:25.00,Yamasaki,,0,0,0,,Fantastico\N Endo è incredibile
+Dialogue: 0,0:15:25.49,0:15:27.14,Yamasaki,,0,0,0,,E' fantastico
+Dialogue: 0,0:15:28.40,0:15:36.23,Matsumoto,,0,0,0,,Ma voglio dire, noi guardiamo praticamente solo il canale NHK, no?
+Dialogue: 0,0:15:36.91,0:15:41.63,Matsumoto,,0,0,0,,E su NHK news, registrano spesso a SL Plaza,
+Dialogue: 0,0:15:41.23,0:15:42.60,Tanaka,,0,0,0,,Oh davvero?
+Dialogue: 0,0:15:41.63,0:15:44.51,Matsumoto,,0,0,0,,E' solo un'associazione che sto facendo
+Dialogue: 0,0:15:44.51,0:15:47.40,Matsumoto,,0,0,0,,"SL Plaza - Shinbashi"
+Dialogue: 0,0:15:48.11,0:15:50.97,Matsumoto,,0,0,0,,Poi il suono del treno che passa vicino
+Dialogue: 0,0:15:50.97,0:15:55.49,Matsumoto,,0,0,0,,Quindi dev'essere, SM....
+Dialogue: 0,0:15:55.49,0:15:57.89,Matsumoto,,0,0,0,,E' un club SM di solito
+Dialogue: 0,0:15:58.23,0:16:01.51,Matsumoto,,0,0,0,,Il corso vero? \N Ti chiedi quale corso SM sceglieranno
+Dialogue: 0,0:16:01.09,0:16:03.20,Tanaka,,0,0,0,,Ma cosa stai dicendo?
+Dialogue: 0,0:16:03.20,0:16:04.51,Tanaka,,0,0,0,,SM...
+Dialogue: 0,0:16:04.20,0:16:07.80,Yamasaki,,0,0,0,,Per poco non sputavo fuori l'acqua
+Dialogue: 0,0:16:04.20,0:16:07.09,Matsumoto,,0,0,0,,{\pos(1057.2,697.2)}... il corso ...
+Dialogue: 0,0:16:07.80,0:16:09.17,Yamasaki,,0,0,0,,Ha balbettato!
+Dialogue: 0,0:16:09.17,0:16:12.86,Yamasaki,,0,0,0,,Si è confuso tra SL e SM
+Dialogue: 0,0:16:10.97,0:16:13.51,Matsumoto,,0,0,0,,{\pos(1113.6,646)}No no non è vero
+Dialogue: 0,0:16:13.51,0:16:16.57,Yamasaki,,0,0,0,,Poi ha cercato di far finta di niente con il club SM
+Dialogue: 0,0:16:17.54,0:16:19.57,Yamasaki,,0,0,0,,Per poco non mi andava di traverso
+Dialogue: 0,0:16:20.17,0:16:22.63,Tanaka,,0,0,0,,Stava parlando di SL all'inizio
+Dialogue: 0,0:16:22.63,0:16:24.69,Tanaka,,0,0,0,,Ha balbettato la L in una M
+Dialogue: 0,0:16:24.69,0:16:27.69,Matsumoto,,0,0,0,,{\pos(897.6,903.6)}No ho solo pensato di finire lì la mia storia,\N ho cambiato argomento
+Dialogue: 0,0:16:29.20,0:16:34.23,Classic Yellow,,0,0,0,,Il gruppo di Matsumoto si dirige alla SL Plaza a Shinbashi
+Dialogue: 0,0:16:34.23,0:16:38.03,Classic Yellow,,0,0,0,,Hamada ed Endo saranno in grado di incontrarli?
+Dialogue: 0,0:16:38.83,0:16:42.49,Matsumoto,,0,0,0,,Tanaka, qual è il primo sport olimpico che ti viene in mente?
+Dialogue: 0,0:16:41.38,0:16:43.63,Tanaka,,0,0,0,,Uno sport olimpico?
+Dialogue: 0,0:16:43.63,0:16:45.66,Yamasaki,,0,0,0,,Io ce l'ho
+Dialogue: 0,0:16:46.14,0:16:47.60,Yamasaki,,0,0,0,,Lo diciamo insieme?
+Dialogue: 0,0:16:48.63,0:16:50.46,Matsumoto,,0,0,0,,Oh sì facciamolo
+Dialogue: 0,0:16:53.20,0:16:56.31,Tanaka,,0,0,0,,{\pos(319.2,1054)}Corsa 100 metri
+Dialogue: 0,0:16:53.20,0:16:56.31,Yamasaki,,0,0,0,,{\pos(571.2,866.8)}Corsa 100 metri
+Dialogue: 0,0:16:53.20,0:16:56.31,Matsumoto,,0,0,0,,{\pos(882,665.2)}Ginnastica
+Dialogue: 0,0:16:56.31,0:16:58.34,Tanaka,,0,0,0,,Devono essere i 100 metri di corsa
+Dialogue: 0,0:16:58.34,0:17:01.34,Tanaka,,0,0,0,,E' quella più ovvia
+Dialogue: 0,0:17:00.60,0:17:03.26,Yamasaki,,0,0,0,,E' la prima cosa che ti viene in mente delle olimpiadi
+Dialogue: 0,0:17:01.34,0:17:04.17,Tanaka,,0,0,0,,E' la prima cosa che ti viene in mente
+Dialogue: 0,0:17:04.17,0:17:06.41,Tanaka,,0,0,0,,La prima pagina
+Dialogue: 0,0:17:06.86,0:17:12.77,Matsumoto,,0,0,0,,Ma le persone che corrono i 100 metri, fanno un po' di ginnastica prima
+Dialogue: 0,0:17:12.77,0:17:14.75,Yamasaki,,0,0,0,,Credi che funzioni così?
+Dialogue: 0,0:17:14.75,0:17:16.91,Matsumoto,,0,0,0,,Prima competono nella ginnastica
+Dialogue: 0,0:17:15.03,0:17:18.54,Yamasaki,,0,0,0,,Si preparano facendo ginnastica?
+Dialogue: 0,0:17:18.54,0:17:20.40,Yamasaki,,0,0,0,,Non è uno sport olimpico allora
+Dialogue: 0,0:17:21.34,0:17:23.40,Matsumoto,,0,0,0,,C'è il Judo, il Wrestling e così via,
+Dialogue: 0,0:17:23.40,0:17:26.86,Matsumoto,,0,0,0,,Si preparano tutti con la ginnastica
+Dialogue: 0,0:17:24.40,0:17:25.94,Yamasaki,,0,0,0,,Tutti quanti?
+Dialogue: 0,0:17:27.63,0:17:29.49,Matsumoto,,0,0,0,,Siamo vicini vero?
+Dialogue: 0,0:17:29.49,0:17:34.43,Tanaka,,0,0,0,,Shinbashi è vicino ad Hamada che era a Ginza
+Dialogue: 0,0:17:35.87,0:17:42.17,Classic Yellow,,0,0,0,,Arrivano alla SL Plaza \N La sfida si concluderà qui?
+Dialogue: 0,0:17:42.94,0:17:45.66,Matsumoto,,0,0,0,,C'è qualcuno qui?
+Dialogue: 0,0:17:44.34,0:17:46.46,Yamasaki,,0,0,0,,Non sembra
+Dialogue: 0,0:17:46.46,0:17:48.54,Matsumoto,,0,0,0,,Nessuno eh?
+Dialogue: 0,0:17:48.54,0:17:51.54,Yamasaki,,0,0,0,,No, no, no, OH!
+Dialogue: 0,0:17:51.54,0:17:54.23,Yamasaki,,0,0,0,,Lì lì lì
+Dialogue: 0,0:17:52.51,0:17:54.51,Matsumoto,,0,0,0,,Hai ragione!
+Dialogue: 0,0:17:55.17,0:17:57.40,Matsumoto,,0,0,0,,Chi? Chi è?
+Dialogue: 0,0:17:58.60,0:18:00.71,Matsumoto,,0,0,0,,Chi c'è?
+Dialogue: 0,0:17:58.60,0:18:00.71,Tanaka,,0,0,0,,Laggiù
+Dialogue: 0,0:18:04.63,0:18:06.63,Matsumoto,,0,0,0,,Ovviamente, vero?
+Dialogue: 0,0:18:06.63,0:18:08.06,Tanaka,,0,0,0,,Sono contento
+Dialogue: 0,0:18:09.89,0:18:12.54,Matsumoto,,0,0,0,,E' questo il posto no?
+Dialogue: 0,0:18:12.54,0:18:14.26,Matsumoto,,0,0,0,,Tu eri a Ginza, qua vicino
+Dialogue: 0,0:18:13.63,0:18:18.80,Hamada,,0,0,0,,Ci sono molte interviste anche a Ginza,
+Dialogue: 0,0:18:19.44,0:18:21.28,Yamasaki,,0,0,0,,Ma qui è il massimo
+Dialogue: 0,0:18:21.28,0:18:23.48,Hamada,,0,0,0,,Aspettate, dov'è Endo
+Dialogue: 0,0:18:22.84,0:18:24.12,Tanaka,,0,0,0,,Non qui
+Dialogue: 0,0:18:24.12,0:18:26.40,Matsumoto,,0,0,0,,Ma da dove arrivava?
+Dialogue: 0,0:18:26.40,0:18:28.39,Tanaka,,0,0,0,,Shinjiku
+Dialogue: 0,0:18:28.39,0:18:30.88,Hamada,,0,0,0,,Aspettiamo un attimo ancora
+Dialogue: 0,0:18:29.76,0:18:33.52,Yamasaki,,0,0,0,,Probabilmente non è ancora arrivato
+Dialogue: 0,0:18:33.52,0:18:36.80,Yamasaki,,0,0,0,,Non ci hanno dato ancora i telefoni
+Dialogue: 0,0:18:36.30,0:18:38.76,Hamada,,0,0,0,,Esatto non c'è nessuna chiamata da fare ancora
+Dialogue: 0,0:18:38.76,0:18:41.36,Hamada,,0,0,0,,C'è la possibilità stia arrivando
+Dialogue: 0,0:18:42.04,0:18:47.40,Classic Yellow,,0,0,0,,Endo arriverà a SL Plaza?
+Dialogue: 0,0:18:47.40,0:18:50.08,Matsumoto,,0,0,0,,
+Dialogue: 0,0:18:50.08,0:18:52.32,Matsumoto,,0,0,0,,
+Dialogue: 0,0:18:52.32,0:18:56.49,Tanaka,,0,0,0,,Potrebbe essere a Shibuya, a Center Gai
+Dialogue: 0,0:18:57.40,0:18:59.44,Matsumoto,,0,0,0,,E' come-
+Dialogue: 0,0:18:58.04,0:19:01.24,Endo,,0,0,0,,Bel lavoro oggi!
+Dialogue: 0,0:18:59.80,0:19:01.24,Endo,,0,0,0,,E' questo no?
+Dialogue: 0,0:19:01.24,0:19:03.49,Endo,,0,0,0,,Meno male!
+Dialogue: 0,0:19:06.84,0:19:09.72,Matsumoto,,0,0,0,,Pensavo davvero che non saresti venuto!
+Dialogue: 0,0:19:09.72,0:19:17.36,Endo,,0,0,0,,Pensavo questo fosse l'unico posto\N Ma voi eravat già a Shibuya
+Dialogue: 0,0:19:17.36,0:19:20.36,Matsumoto,,0,0,0,,Ci stavo pensando anch'io
+Dialogue: 0,0:19:18.88,0:19:21.56,Endo,,0,0,0,,Ma ho scommesso su questo posto
+Dialogue: 0,0:19:23.96,0:19:26.40,Hamada,,0,0,0,,E' stato stancante
+Dialogue: 0,0:19:25.56,0:19:27.40,Tanaka,,0,0,0,,Sì davvero
+Dialogue: 0,0:19:26.75,0:19:30.52,Matsumoto,,0,0,0,,Ma ragazzi, voi fate schifo!
+Dialogue: 0,0:19:30.52,0:19:34.64,Matsumoto,,0,0,0,,Il BICQLO\N I pancake
+Dialogue: 0,0:19:34.64,0:19:36.96,Matsumoto,,0,0,0,,Il Hyatt!
+Dialogue: 0,0:19:35.56,0:19:37.76,Hamada,,0,0,0,,Il Grand Hyatt
+Dialogue: 0,0:19:38.63,0:19:41.64,Matsumoto,,0,0,0,,solo idioti qui
+Dialogue: 0,0:19:42.23,0:19:45.64,Matsumoto,,0,0,0,,Ma naturalmente Yamasaki e io, gli spettatori lo sapevano già
+Dialogue: 0,0:19:44.48,0:19:48.20,Hamada,,0,0,0,,Voi usate solo i numeri per decidere la risposta giusta
+Dialogue: 0,0:19:48.20,0:19:51.20,Matsumoto,,0,0,0,,Sei stato all'hotel Yoko così tante volte!
+Dialogue: 0,0:19:51.20,0:19:54.92,Hamada,,0,0,0,,E' vero, ma l'indizio era "Un hotel"
+Dialogue: 0,0:19:54.92,0:19:57.68,Hamada,,0,0,0,,Yoko non ci ha niente a che fare, è minuscolo
+Dialogue: 0,0:19:57.70,0:20:01.42,Hamada,,0,0,0,,Quel gigantesco hotel in mezzo alla città sì
+Dialogue: 0,0:20:01.42,0:20:05.84,Matsumoto,,0,0,0,,Pensavi davvero che avremmo fatto tutti "ciao!" e ci saremmo incontrati lì?
+Dialogue: 0,0:20:05.84,0:20:08.88,Hamada,,0,0,0,,Sì, è per quello che ero lì
+Dialogue: 0,0:20:11.76,0:20:13.12,Hamada,,0,0,0,,
+Dialogue: 0,0:20:26.71,0:20:31.80,Black,,0,0,0,,Tanaka chiacchiera con gli altri; \N Una storia successa mentre registrava un drama
+Dialogue: 0,0:20:32.27,0:20:35.05,Tanaka,,0,0,0,,Vorrei sapere cosa ne pensiate
+Dialogue: 0,0:20:35.07,0:20:38.45,Tanaka,,0,0,0,,Dovevo essere in un drama
+Dialogue: 0,0:20:38.45,0:20:41.24,Matsumoto,,0,0,0,,Vuoi lavorare qui invece?
+Dialogue: 0,0:20:42.18,0:20:45.49,Matsumoto,,0,0,0,,Vuoi assolutamente lavorare qui
+Dialogue: 0,0:20:38.45,0:20:41.24,Tanaka,,0,0,0,,Allo studio-
+Dialogue: 0,0:20:43.42,0:20:45.49,Tanaka,,0,0,0,,No, non intendo quello
+Dialogue: 0,0:20:45.49,0:20:47.87,Endo,,0,0,0,,Mi porti con te
+Dialogue: 0,0:20:47.11,0:20:49.69,Matsumoto,,0,0,0,,Sì è rischioso per te se ti lascia solo
+Dialogue: 0,0:20:49.02,0:20:51.42,Endo,,0,0,0,,Portami con te
+Dialogue: 0,0:20:50.23,0:20:53.33,Matsumoto,,0,0,0,,C'è sempre Busjack 2
+Dialogue: 0,0:20:53.73,0:20:56.31,Matsumoto,,0,0,0,,Potrebbero farci una serie
+Dialogue: 0,0:20:53.35,0:20:56.31,Hamada,,0,0,0,,Non c'è nessuna news a riguardo
+Dialogue: 0,0:20:55.33,0:20:59.02,Endo,,0,0,0,,Proprio zero. Anche se online è famosa
+Dialogue: 0,0:20:58.57,0:21:00.98,Hamada,,0,0,0,,Dovrebbero semplicemente farla
+Dialogue: 0,0:21:00.98,0:21:04.22,Hamada,,0,0,0,,Abbiamo tutti detto che ci saremmo anche noi
+Dialogue: 0,0:21:02.89,0:21:07.42,Endo,,0,0,0,,Davvero? Dowtown in un film insieme
+Dialogue: 0,0:21:06.55,0:21:09.02,Matsumoto,,0,0,0,,Sì, sì lo faremo
+Dialogue: 0,0:21:08.31,0:21:12.12,Hamada,,0,0,0,,Abbiamo detto lo faremmo, dovrebbero cominciare a fare il 2
+Dialogue: 0,0:21:11.02,0:21:15.82,Endo,,0,0,0,,E' una grande occasione vedere loro due insieme
+Dialogue: 0,0:21:14.22,0:21:18.31,Hamada,,0,0,0,,Tutti quanti, lo facciamo tutti
+Dialogue: 0,0:21:17.53,0:21:19.69,Tanaka,,0,0,0,,Esatto, esatto
+Dialogue: 0,0:21:20.22,0:21:21.69,Tanaka,,0,0,0,,Busjack è una cosa,
+Dialogue: 0,0:21:21.69,0:21:25.29,Tanaka,,0,0,0,,Ci sono sempre regali no?
+Dialogue: 0,0:21:24.33,0:21:27.29,Matsumoto,,0,0,0,,Sì, nei drama ci sono
+Dialogue: 0,0:21:25.87,0:21:29.51,Tanaka,,0,0,0,,Li distribuiscono sempre, vero?
+Dialogue: 0,0:21:30.98,0:21:36.53,Tanaka,,0,0,0,,Quindi, in quel dramma a cui ho partecipato, ero con la squadra di Yoshimoto
+Dialogue: 0,0:21:36.53,0:21:39.78,Tanaka,,0,0,0,,Stavo parlando con loro di portare dei regali,
+Dialogue: 0,0:21:39.78,0:21:44.04,Tanaka,,0,0,0,,Mi chiedevo che tipo di regali potrei fare e a che ora farlo
+Dialogue: 0,0:21:44.04,0:21:47.09,Tanaka,,0,0,0,,Così quel giorno ho detto loro di portare i regali,
+Dialogue: 0,0:21:47.09,0:21:51.91,Tanaka,,0,0,0,,Mi aspettavo che qualcuno dicesse "Tanaka-san ha portato questi per voi", ma nessuno disse nulla,
+Dialogue: 0,0:21:51.91,0:21:57.91,Tanaka,,0,0,0,,Ma alle 22-23, dopo l'ultima scena registrata, esattamente dopo la fine del lavoro,
+Dialogue: 0,0:21:57.91,0:22:01.47,Tanaka,,0,0,0,,Qualcuno ha detto : "Tanaka-san ha portato delle ciliegie per voi"
+Dialogue: 0,0:22:01.47,0:22:03.56,Endo,,0,0,0,,Capisco cosa intendi
+Dialogue: 0,0:22:02.98,0:22:07.96,Tanaka,,0,0,0,,Alle 22, 23, dopo la fine delle riprese, \N chi vorrebbe mangiare ciliegie?
+Dialogue: 0,0:22:07.96,0:22:10.27,Endo,,0,0,0,,Vogliono andarsene a casa
+Dialogue: 0,0:22:08.71,0:22:10.30,Tanaka,,0,0,0,,Vogliono andare a casa
+Dialogue: 0,0:22:10.30,0:22:16.58,Tanaka,,0,0,0,,C'erano questi bicchieri di carta con 5-6 ciliegie allineati su un tavolo,
+Dialogue: 0,0:22:16.58,0:22:20.29,Tanaka,,0,0,0,,Così che il personale le prenda sulla via d'uscita
+Dialogue: 0,0:22:20.29,0:22:23.63,Tanaka,,0,0,0,,Chi? Chi potrebbe apprezzare questo?
+Dialogue: 0,0:22:23.63,0:22:26.63,Tanaka,,0,0,0,,-E' quello che penso.\N Tipo: va bene così?
+Dialogue: 0,0:22:26.63,0:22:28.58,Endo,,0,0,0,,È un cattivo tempismo
+Dialogue: 0,0:22:28.13,0:22:31.38,Matsumoto,,0,0,0,,È un reclamo contro Yoshimoto?
+Dialogue: 0,0:22:31.38,0:22:34.67,Tanaka,,0,0,0,,Questo è un reclamo contro Yoshimoto
+Dialogue: 0,0:22:35.42,0:22:40.13,Tanaka,,0,0,0,,Così la squadra teatrale di Yoshimoto ha fatto tutto questo,
+Dialogue: 0,0:22:40.13,0:22:44.67,Tanaka,,0,0,0,,Ma a volte si ricevono questi regali che sono come, che diavolo è questo?
+Dialogue: 0,0:22:42.53,0:22:46.53,Matsumoto,,0,0,0,,Sì, è vero\N Ti fanno dire "Che diavolo è questo?"
+Dialogue: 0,0:22:46.53,0:22:49.64,Tanaka,,0,0,0,,Lo staff di teatro che ha portato questi regali,
+Dialogue: 0,0:22:49.64,0:22:57.16,Tanaka,,0,0,0,,Non avevano idea di cosa fossero, quindi dissero: "Tanaka-san ha portato degli snack gelatinosi per voi".
+Dialogue: 0,0:22:57.16,0:22:58.84,Tanaka,,0,0,0,,Non sapevo nulla
+Dialogue: 0,0:22:58.84,0:23:02.04,Tanaka,,0,0,0,,Cose del genere succedono,
+Dialogue: 0,0:23:02.04,0:23:05.47,Matsumoto,,0,0,0,,Cercano di essere un po' stravaganti
+Dialogue: 0,0:23:05.48,0:23:08.18,Hamada,,0,0,0,,I regali cliché vanno bene, no?
+Dialogue: 0,0:23:08.18,0:23:09.82,Hamada,,0,0,0,,Come l'ultima volta,
+Dialogue: 0,0:23:09.82,0:23:11.78,Matsumoto,,0,0,0,,Come quel tofu
+Dialogue: 0,0:23:12.44,0:23:14.27,Matsumoto,,0,0,0,,Un regalo normale va bene
+Dialogue: 0,0:23:15.58,0:23:19.20,Hamada,,0,0,0,,Per "Ashita Ga Aru Sa", avevano la Coca-Cola che aveva dato lo sponsor
+Dialogue: 0,0:23:15.58,0:23:22.05,Classic Yellow,,0,0,0,,{\pos(720,206)}"Ashita Ga Aru Sa" è un dramma di NTV in cui sono apparsi tutti i membri di Gaki tranne Yamasaki
+Dialogue: 0,0:23:20.44,0:23:24.18,Hamada,,0,0,0,,C'erano una montagna di drink
+Dialogue: 0,0:23:24.18,0:23:28.36,Endo,,0,0,0,,Scusate, possiamo fermarci? Il viso di Hosei-san è diventato cupo
+Dialogue: 0,0:23:28.36,0:23:30.98,Endo,,0,0,0,,Se continuiamo a parlarne,
+Dialogue: 0,0:23:29.49,0:23:31.01,Matsumoto,,0,0,0,,Re:Japan
+Dialogue: 0,0:23:29.49,0:23:33.98,Classic Yellow,,0,0,0,,{\pos(720,212)}Nota: Re:Japan è il gruppo musicale che partecipò al drama... a cui Hosei non partecipò
+Dialogue: 0,0:23:30.98,0:23:34.49,Endo,,0,0,0,,La sua faccia diventa così quando ne parliamo
+Dialogue: 0,0:23:33.98,0:23:38.10,Yamasaki,,0,0,0,,Cos'è "Ashita Ga Aru Sa?"
+Dialogue: 0,0:23:36.98,0:23:39.42,Matsumoto,,0,0,0,,Ci partecipavamo noi non ti ricordi?
+Dialogue: 0,0:23:39.42,0:23:40.89,Endo,,0,0,0,,Era tanto tempo fa
+Dialogue: 0,0:23:40.89,0:23:43.91,Yamasaki,,0,0,0,,Non ne ho mai sentito parlare, non so cosa sia
+Dialogue: 0,0:23:43.91,0:23:46.49,Yamasaki,,0,0,0,,Non ne so niente, non lo conosco!
+Dialogue: 0,0:23:45.33,0:23:47.81,Matsumoto,,0,0,0,,Eravamo anche in Kouhaku
+Dialogue: 0,0:23:45.33,0:23:51.05,Classic Yellow,,0,0,0,,{\pos(720,172)}Nota: Kouhaku è uno speciale musicale di Capodanno che compete con il No Laughing Batsu
+Dialogue: 0,0:23:47.16,0:23:49.87,Yamasaki,,0,0,0,,No, non mi dice niente
+Dialogue: 0,0:23:48.84,0:23:51.05,Matsumoto,,0,0,0,,A Kouhaku Uta Gassen
+Dialogue: 0,0:23:52.13,0:23:54.48,Matsumoto,,0,0,0,,Eravamo a Kouhaku
+Dialogue: 0,0:23:53.16,0:23:55.78,Yamasaki,,0,0,0,,Stavo guardando Gaki a Capodanno
+Dialogue: 0,0:23:55.80,0:23:58.76,Matsumoto,,0,0,0,,Non ti ricordi fosse successo?
+Dialogue: 0,0:23:57.82,0:24:00.26,Yamasaki,,0,0,0,,Ci sono anch'io in Gaki No Tsukaiiiiii
+Dialogue: 0,0:24:00.80,0:24:03.36,Matsumoto,,0,0,0,,Che modo fastidioso di parlare
+Dialogue: 0,0:24:03.36,0:24:06.36,Matsumoto,,0,0,0,,
+

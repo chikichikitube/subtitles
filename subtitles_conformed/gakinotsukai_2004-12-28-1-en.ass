@@ -1,0 +1,1511 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 8
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Yugawara
+Audio File: Gaki no Tsukai - No-Laughing Onsen Yugawara (2004) [bluray remux].mkv
+Video File: Gaki no Tsukai - No-Laughing Onsen Yugawara (2004) [bluray remux].mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 9
+Video Position: 219713
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,34,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Matsumoto,Arial,45,&H000607D2,&H000000FF,&H00CFCFF6,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Yamazaki,Arial,45,&H00089C0D,&H000000FF,&H00BEF1C0,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Endo,Arial,45,&H003099F2,&H000000FF,&H00E6F7FF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Tanaka,Arial,45,&H00E624BC,&H000000FF,&H00FCCCF1,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Hamada,Arial,45,&H00DD4137,&H000000FF,&H00FFE0C6,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Fujiwara,Arial,45,&H00A5B90B,&H000000FF,&H00F9FFE4,&H00C6EA0A,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Normal,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Narrator,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Black,Arial,45,&H00000000,&H00000000,&H00FBFBFD,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Gray,Arial,45,&H00717171,&H000000FF,&H00E3E3E3,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Pink,Arial,45,&H00942DFE,&H000000FF,&H00FCECFF,&H00000000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+Style: Itao,Arial,45,&H00A0A23E,&H000000FF,&H00FDFFCB,&H00F31000,-1,0,0,0,100,100,0,0,1,4.5,4.5,2,261,261,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.58,0:00:15.58,Narrator,,0,0,0,,{\b1\fnArial Black\fs58.5\pos(608.451,103.5)}original subs by: Morizaemo{\b0}
+Dialogue: 0,0:00:01.58,0:00:15.58,Narrator,,0,0,0,,{\b1\pos(545.352,162)\3c&HFFDEDD&\c&HFF8700&}Subbed by : Shadi & Zurui
+Dialogue: 0,0:00:01.58,0:00:15.58,Narrator,,0,0,0,,{\b1\fnArial Black\fs58.5\pos(1385.915,108)}Color Coding:{\b0}
+Dialogue: 0,0:00:01.58,0:00:15.58,Hamada,,0,0,0,,{\pos(1381.408,175.5)}Hamada
+Dialogue: 0,0:00:01.58,0:00:15.58,Matsumoto,,0,0,0,,{\pos(1379.155,222.75)}Matsumoto
+Dialogue: 0,0:00:01.58,0:00:15.58,Yamazaki,,0,0,0,,{\pos(1383.662,279)}Yamazaki
+Dialogue: 0,0:00:01.58,0:00:15.58,Endo,,0,0,0,,{\pos(1381.408,335.25)}Endo
+Dialogue: 0,0:00:01.58,0:00:15.58,Tanaka,,0,0,0,,{\pos(1379.155,391.5)}Tanaka
+Dialogue: 0,0:00:01.58,0:00:15.58,Fujiwara,,0,0,0,,{\pos(1383.662,454.5)}Fujiwara
+Dialogue: 0,0:00:00.47,0:00:02.40,Narrator,,0,0,0,,Fall of 2004
+Dialogue: 0,0:00:02.68,0:00:06.13,Narrator,,0,0,0,,Again we had a strict batsu game
+Dialogue: 0,0:00:06.40,0:00:08.40,Narrator,,0,0,0,,There was only 1 rule
+Dialogue: 0,0:00:07.80,0:00:11.50,Narrator,,0,0,0,,{\fnBrush Script Std\b1\c&H19ACE3&\fs108\pos(932.958,722.25)}Don't laugh under any circumstances{\b0}
+Dialogue: 0,0:00:04.68,0:00:07.70,Narrator,,0,0,0,,{\c&H0B0BCC&\b1\fs81\3c&H0E0E0F&\fnTrajan Pro\pos(962.254,693)}Again we see another strict batsu game{\b0}
+Dialogue: 0,0:00:12.13,0:00:17.10,Narrator,,0,0,0,,The title is No-Laughing Onsen 1 night & 2 day trip
+Dialogue: 0,0:00:13.30,0:00:17.30,Narrator,,0,0,0,,{\fs108\3c&HB1570B&\fnCooper Std Black\b1\pos(966.761,654.75)}No-laughing in Onsen Inn 1 night & 2 days in Yugawara
+Dialogue: 0,0:00:18.96,0:00:25.36,Narrator,,0,0,0,,Only humans can laugh, what happens when we take away this emotion from humans?
+Dialogue: 0,0:00:25.80,0:00:30.13,Narrator,,0,0,0,,The answer will be shown in this 2003 punishment game.
+Dialogue: 0,0:00:17.80,0:00:26.70,Normal,,0,0,0,,{\fs81\b1\c&H1A82E3&\4c&HFFFFFF&\pos(948.732,861.75)}No-Laughing Onsen trip, 1 day 2 nights{\b1}
+Dialogue: 0,0:00:17.70,0:00:19.53,Endo,,0,0,0,,Bell paper!
+Dialogue: 0,0:00:30.53,0:00:32.40,Matsumoto,,0,0,0,,Hell is here!
+Dialogue: 0,0:00:32.91,0:00:35.79,Narrator,,0,0,0,,{\c&H0B0BCC&\b1\fs81\3c&H0E0E0F&\fnTrajan Pro\pos(944.225,632.25)}This time there will be 3 participants in this Batsu game{\b0}
+Dialogue: 0,0:00:32.68,0:00:36.38,Narrator,,0,0,0,,These are the 3 men that will experience this hell.
+Dialogue: 0,0:00:40.00,0:00:41.40,Narrator,,0,0,0,,Tanaka Naoki
+Dialogue: 0,0:00:44.70,0:00:45.70,Narrator,,0,0,0,,Yamazaki Hosei
+Dialogue: 0,0:00:50.40,0:00:51.40,Narrator,,0,0,0,,Hamada Masatoshi
+Dialogue: 0,0:00:52.63,0:00:55.93,Narrator,,0,0,0,,{\c&H0B0BCC&\b1\fs81\3c&H0E0E0F&\fnVerdana\pos(984.789,618.75)}Who will be controlling this batsu game{\b0}
+Dialogue: 0,0:00:53.40,0:00:56.94,Narrator,,0,0,0,,Who are the ones deciding the fate of the 3?
+Dialogue: 0,0:00:58.28,0:00:59.28,Narrator,,0,0,0,,Endo Shozo
+Dialogue: 0,0:01:01.11,0:01:05.15,Narrator,,0,0,0,,and the mastermind of this batsu game is this man.
+Dialogue: 0,0:01:05.40,0:01:07.40,Narrator,,0,0,0,,Matsumoto Hitoshi
+Dialogue: 0,0:01:09.78,0:01:18.16,Narrator,,0,0,0,,What you will witness is a record of the 3 men during their 1 day 2 night, ass-whipping hell
+Dialogue: 0,0:01:10.72,0:01:19.73,Narrator,,0,0,0,,{\b1\fs81\3c&HFFDFC4&\4c&H000000&\c&H823E04&\pos(939.718,945)}A record of the 3 men during their\N1 day 2 nights onsen batsu hell{\b0}
+Dialogue: 0,0:01:18.40,0:01:20.40,Hamada,,0,0,0,,That's Enough get outta here!
+Dialogue: 0,0:01:20.66,0:01:23.13,Narrator,,0,0,0,,This is how it all began
+Dialogue: 0,0:01:23.56,0:01:29.20,Hamada,,0,0,0,,1st ever, Gaki no Tsukaiya Arahende Chiki Chiki Tensai Yamasaki's idea
+Dialogue: 0,0:01:29.27,0:01:34.51,Hamada,,0,0,0,,Who will be punished, Russian Roulette wasabi sushi Batsu Tournament!
+Dialogue: 0,0:01:20.39,0:01:23.40,Narrator,,0,0,0,,{\c&H0B0BCC&\b1\fs81\3c&H0E0E0F&\pos(966.761,492.75)\fnVerdana}It all started from this{\b0}
+Dialogue: 0,0:01:34.77,0:01:39.38,Narrator,,0,0,0,,Yamasaki's idea of a Russian Roulette wasabi eating tournament
+Dialogue: 0,0:01:39.38,0:01:44.98,Narrator,,0,0,0,,Out of 100 sushi, there will be 4 pieces with extra hot wasabi
+Dialogue: 0,0:01:45.22,0:01:52.29,Narrator,,0,0,0,,They will take turns until either Matsumoto or Hamada eats the super hot wasabi sushi
+Dialogue: 0,0:01:47.02,0:01:51.75,Normal,,0,0,0,,{\fs81\pos(1138.028,886.5)\3c&HFFFFFF&\c&H833F06&}Matsumoto Hitoshi\N\N\NHamada Masatoshi\N\N\NYamazaki Hosei\N\N\N\NTanaka Naoki\N\N\N\NEndo Shozo
+Dialogue: 0,0:01:47.02,0:01:51.76,Default,,0,0,0,,{\c&H0B0BCC&\fnArial Black\b1\fs58.5\pos(964.507,938.25)}Who ever eats the wasabi sushi will be in the Batsu game{\b1}
+Dialogue: 0,0:01:38.78,0:01:46.02,Narrator,,0,0,0,,{\b1\c&H914606&\3c&HFFFFFF&\fs58.5\pos(946.479,936)}10 different types of sushi x 10 pieces each\N100 total pieces. {\b1\c&H0B0BCC&} 4 will contain super hot wasabi{\b0}
+Dialogue: 0,0:01:38.78,0:01:45.99,Narrator,,0,0,0,,{\b1\c&H0B0BCC&\fs63\pos(962.254,139.5)}Russian Roulette, Wasabi sushi tournament{\b0}
+Dialogue: 0,0:01:53.59,0:01:56.40,Narrator,,0,0,0,,First to qualify is
+Dialogue: 0,0:01:57.70,0:01:58.66,Hamada,,0,0,0,,Here we go
+Dialogue: 0,0:01:58.40,0:02:16.68,Black,,0,0,0,,{\pos(529.577,987.75)}Maguro Sushi
+Dialogue: 0,0:01:59.67,0:02:00.77,Hamada,,0,0,0,,Eat it all
+Dialogue: 0,0:02:02.70,0:02:04.40,Hamada,,0,0,0,,Cut it out already
+Dialogue: 0,0:02:04.67,0:02:05.64,Endo,,0,0,0,,Tanaka just start
+Dialogue: 0,0:02:07.01,0:02:08.40,Tanaka,,0,0,0,,That's safe?
+Dialogue: 0,0:02:08.40,0:02:09.40,Matsumoto,,0,0,0,,That's enough
+Dialogue: 0,0:02:11.31,0:02:14.38,Hamada,,0,0,0,,Why are you so noisy, just be quiet, stupid
+Dialogue: 0,0:02:18.40,0:02:20.40,Endo,,0,0,0,,No way!
+Dialogue: 0,0:02:24.10,0:02:26.40,Hamada,,0,0,0,,Yamazaki is in the Batsu Game!!
+Dialogue: 0,0:02:26.39,0:02:29.93,Normal,,0,0,0,,{\fs81\fnArial Black\b1\3c&H0B0BCC&\c&H000000&\pos(944.225,978.75)}Yamazaki is the first participant in the Batsu Game!{\b1}
+Dialogue: 0,0:02:30.63,0:02:32.77,Narrator,,0,0,0,,The next qualifier is
+Dialogue: 0,0:02:34.88,0:02:35.40,Yamazaki,,0,0,0,,Safe?
+Dialogue: 0,0:02:36.48,0:02:37.78,Yamazaki,,0,0,0,,Safe?
+Dialogue: 0,0:02:37.77,0:02:39.41,Yamazaki,,0,0,0,,What about you Endo?
+Dialogue: 0,0:02:39.60,0:02:40.40,Yamazaki,,0,0,0,,Safe?
+Dialogue: 0,0:02:41.60,0:02:42.40,Yamazaki,,0,0,0,,Tanaka?
+Dialogue: 0,0:02:49.22,0:02:51.22,Hamada,,0,0,0,,Tanaka is in the Batsu game!
+Dialogue: 0,0:02:51.52,0:02:54.52,Hamada,,0,0,0,,{\fs81\pos(944.225,927)\fnArial Black\b1\3c&H0B0BCC&\c&H000000&}Tanaka is the 2nd participant in the Batsu Game!{\b1}
+Dialogue: 0,0:02:52.12,0:02:54.12,Tanaka,,0,0,0,,I didn't feel it for a while
+Dialogue: 0,0:02:55.82,0:02:57.82,Narrator,,0,0,0,,and then...
+Dialogue: 0,0:02:59.33,0:03:00.33,Endo,,0,0,0,,I'm safe!
+Dialogue: 0,0:03:00.33,0:03:02.33,Tanaka,,0,0,0,,You're safe?
+Dialogue: 0,0:03:02.26,0:03:04.26,Tanaka,,0,0,0,,Matsumoto you're safe?
+Dialogue: 0,0:03:15.87,0:03:18.47,Endo,,0,0,0,,Hamada-san gets to do the Batsu game!!
+Dialogue: 0,0:03:18.91,0:03:21.81,Endo,,0,0,0,,{\fs81\pos(944.225,927)\fnArial Black\b1\3c&H0B0BCC&\c&H000000&}Hamada is the final participant in the Batsu Game!{\b1}
+Dialogue: 0,0:03:22.65,0:03:27.65,Normal,,0,0,0,,{\pos(969.014,902.25)\fn\fs81\3c&H7E7E7E&\c&H8282FB&}{\2c&H1E1EC6&\c&H5A5AFB&}The 3 of them will participate in the No-laughing Batsu Game
+Dialogue: 0,0:03:22.21,0:03:27.65,Narrator,,0,0,0,,The laughing demons opening ceremony is starting
+Dialogue: 0,0:03:35.29,0:03:39.29,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\pos(964.507,668.25)\c&H4445FF&\3c&HABFCFB&}Russian Roulette Sushi Winners{\b0}
+Dialogue: 0,0:03:35.29,0:03:39.29,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\c&H169402&\3c&HFFFFFF&\pos(581.408,821.25)}Downtown{\b0}
+Dialogue: 0,0:03:35.29,0:03:39.29,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\3c&H873E00&\pos(1142.535,828)}Cocorico {\b0}
+Dialogue: 0,0:03:35.29,0:03:39.29,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\3c&HDD4137&\pos(703.099,918)}Matsumoto Hitoshi{\b0}
+Dialogue: 0,0:03:35.29,0:03:39.29,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\3c&HDD4137&\pos(1289.014,913.5)}Endo Shozo{\b0}
+Dialogue: 0,0:03:36.06,0:03:38.06,Endo,,0,0,0,,{\pos(966.761,985.5)}Thank You!
+Dialogue: 0,0:03:36.06,0:03:38.06,Matsumoto,,0,0,0,,--Thank You
+Dialogue: 0,0:03:38.63,0:03:41.50,Matsumoto,,0,0,0,,We're going to take a look at the batsu game
+Dialogue: 0,0:03:41.60,0:03:43.74,Endo,,0,0,0,,{\pos(948.732,945)}It's because we won
+Dialogue: 0,0:03:42.80,0:03:47.24,Matsumoto,,0,0,0,,{\pos(953.239,1012.5)}--Yes we won, so now we shall see the losers
+Dialogue: 0,0:03:47.67,0:03:49.68,Endo,,0,0,0,,{\pos(960,1062)}Yes!  Please enter!
+Dialogue: 0,0:03:57.42,0:04:00.72,Normal,,0,0,0,,{\b1\fnArial Black\fs63\pos(964.507,668.25)\c&H000000&\3c&HABFCFB&}Russian Roulette Sushi Losers{\b0}
+Dialogue: 0,0:03:57.42,0:04:00.72,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\c&H169402&\3c&HFFFFFF&\pos(473.239,812.25)}Downtown{\b0}
+Dialogue: 0,0:03:57.42,0:04:00.72,Normal,,0,0,0,,{\b1\fnArial Black\fs63\3c&H873E00&\pos(1322.817,821.25)}Cocorico {\b0}
+Dialogue: 0,0:03:57.42,0:04:00.72,Normal,,0,0,0,,{\b1\fnArial Black\fs63\3c&HDD4137&\pos(534.085,922.5)}Hamada Masatoshi{\b0}
+Dialogue: 0,0:03:57.42,0:04:00.72,Normal,,0,0,0,,{\b1\fnArial Black\fs63\3c&HDD4137&\pos(1009.577,920.25)}Yamazaki Hosei{\b0}
+Dialogue: 0,0:03:57.42,0:04:00.72,Normal,,0,0,0,,{\b1\fnArial Black\fs63\3c&HDD4137&\pos(1417.465,918)}Tanaka Naoki{\b0}
+Dialogue: 0,0:03:58.65,0:04:00.05,Matsumoto,,0,0,0,,So how are you feeling?
+Dialogue: 0,0:04:00.35,0:04:02.59,Hamada,,0,0,0,,--I'm feeling alright
+Dialogue: 0,0:04:03.09,0:04:04.42,Hamada,,0,0,0,,{\pos(962.254,945)}Well, not right after the batsu game
+Dialogue: 0,0:04:04.66,0:04:05.66,Yamazaki,,0,0,0,,{\pos(946.479,1003.5)}--Yeah
+Dialogue: 0,0:04:04.66,0:04:05.66,Tanaka,,0,0,0,,--You're Right
+Dialogue: 0,0:04:07.13,0:04:08.13,Matsumoto,,0,0,0,,What?
+Dialogue: 0,0:04:07.76,0:04:09.76,Yamazaki,,0,0,0,,--We were very tired
+Dialogue: 0,0:04:09.70,0:04:12.57,Matsumoto,,0,0,0,,You got so much mucus from the wasabi that you lost your voice
+Dialogue: 0,0:04:13.93,0:04:15.94,Yamazaki,,0,0,0,,I wonder why that is
+Dialogue: 0,0:04:17.20,0:04:19.71,Matsumoto,,0,0,0,,It was really very hard
+Dialogue: 0,0:04:19.84,0:04:21.91,Matsumoto,,0,0,0,,it was quite long
+Dialogue: 0,0:04:22.31,0:04:27.71,Yamazaki,,0,0,0,,We were doing it so many times over and over
+Dialogue: 0,0:04:28.05,0:04:30.05,Matsumoto,,0,0,0,,What the hell are you saying?
+Dialogue: 0,0:04:30.75,0:04:33.75,Yamazaki,,0,0,0,,You're just picking on me!
+Dialogue: 0,0:04:30.75,0:04:33.75,Hamada,,0,0,0,,You can understand right?
+Dialogue: 0,0:04:31.52,0:04:34.52,Hamada,,0,0,0,,--He just said it
+Dialogue: 0,0:04:34.82,0:04:36.82,Yamazaki,,0,0,0,,I'm just being picked on!
+Dialogue: 0,0:04:37.12,0:04:39.12,Yamazaki,,0,0,0,,About the mucus and stuff
+Dialogue: 0,0:04:40.09,0:04:42.09,Yamazaki,,0,0,0,,I'm begging you
+Dialogue: 0,0:04:42.19,0:04:47.00,Yamazaki,,0,0,0,,It was the end of the year and I was so busy that I lost my voice
+Dialogue: 0,0:04:49.87,0:04:51.07,Matsumoto,,0,0,0,,Hey
+Dialogue: 0,0:04:51.04,0:04:53.04,Yamazaki,,0,0,0,,--I just couldn't
+Dialogue: 0,0:04:53.14,0:04:55.87,Hamada,,0,0,0,,Well, then that couldn't be helped
+Dialogue: 0,0:04:55.64,0:04:57.64,Yamazaki,,0,0,0,,--Yes that's only normal
+Dialogue: 0,0:04:58.04,0:05:02.05,Matsumoto,,0,0,0,,Seems like everyone is your enemy, who can be on your side?
+Dialogue: 0,0:05:02.25,0:05:06.39,Tanaka,,0,0,0,,He can be so quiet sometimes, this just surprised me!
+Dialogue: 0,0:05:05.25,0:05:06.25,Hamada,,0,0,0,,That's true
+Dialogue: 0,0:05:07.60,0:05:09.60,Narrator,,0,0,0,,2:00 p.m., Day of the Batsu Game
+Dialogue: 0,0:05:09.60,0:05:13.48,Narrator,,0,0,0,,The 3 men arrive at Yugawara train station
+Dialogue: 0,0:05:09.96,0:05:19.57,Default,,0,0,0,,{\b1\fs81\c&H0EEDEB&\pos(950.986,918)}Our 3 losers arrives at Yugawara train station{\b0}
+Dialogue: 0,0:05:13.48,0:05:18.57,Narrator,,0,0,0,,The famous spa resort will be transformed\Ninto a comedic and demonic den.
+Dialogue: 0,0:05:18.57,0:05:20.80,Narrator,,0,0,0,,And their guide is of course this guy...
+Dialogue: 0,0:05:20.80,0:05:22.20,Fujiwara,,0,0,0,,Here!
+Dialogue: 0,0:05:23.40,0:05:24.50,Fujiwara,,0,0,0,,Here!
+Dialogue: 0,0:05:27.50,0:05:30.30,Yamazaki,,0,0,0,,Why the hell is he in such high spirits?
+Dialogue: 0,0:05:30.30,0:05:32.90,Hamada,,0,0,0,,We can laugh now, right?
+Dialogue: 0,0:05:32.38,0:05:33.38,Fujiwara,,0,0,0,,--Here!
+Dialogue: 0,0:05:33.90,0:05:35.72,Yamazaki,,0,0,0,,Stop sounding like a broken recorder
+Dialogue: 0,0:05:35.32,0:05:37.40,Fujiwara,,0,0,0,,It's nice of you to come all this way
+Dialogue: 0,0:05:36.08,0:05:40.18,Normal,,0,0,0,,{\b1\fn\fs63\pos(1246.197,947.25)\3c&HDD4137&}Downtown former Manager\NFujiwara Hiroshi{\b1}
+Dialogue: 0,0:05:38.40,0:05:40.40,Hamada,,0,0,0,,We can laugh now, right?
+Dialogue: 0,0:05:40.90,0:05:43.18,Fujiwara,,0,0,0,,Do you know where you are?
+Dialogue: 0,0:05:43.90,0:05:45.65,Hamada,,0,0,0,,We're in Yugawara
+Dialogue: 0,0:05:46.35,0:05:48.50,Fujiwara,,0,0,0,,...but a wrong answer for a comedian
+Dialogue: 0,0:05:48.50,0:05:50.70,Fujiwara,,0,0,0,,Always be a comedian!
+Dialogue: 0,0:05:50.70,0:05:52.40,Yamazaki,,0,0,0,,How are we supposed to know?
+Dialogue: 0,0:05:52.40,0:05:54.90,Fujiwara,,0,0,0,,Didn't you learn that in NSC training school?
+Dialogue: 0,0:05:55.40,0:05:58.70,Hamada,,0,0,0,,Will you stop laughing for no reason?
+Dialogue: 0,0:05:58.70,0:06:00.70,Tanaka,,0,0,0,,--Yeah you need to stop that!
+Dialogue: 0,0:06:02.40,0:06:03.90,Fujiwara,,0,0,0,,You're going to play a batsu game today
+Dialogue: 0,0:06:04.60,0:06:07.80,Hamada,,0,0,0,,I will never, ever be triggered to laugh by you!
+Dialogue: 0,0:06:08.20,0:06:11.70,Fujiwara,,0,0,0,,You're going to play a batsu game today
+Dialogue: 0,0:06:13.99,0:06:15.99,Fujiwara,,0,0,0,,How can you guys get prime time?
+Dialogue: 0,0:06:16.99,0:06:18.80,Fujiwara,,0,0,0,,It's the end of the world
+Dialogue: 0,0:06:19.12,0:06:21.12,Yamazaki,,0,0,0,,You're disgusting
+Dialogue: 0,0:06:20.90,0:06:23.38,Fujiwara,,0,0,0,,Here are the rules for the batsu game:
+Dialogue: 0,0:06:23.36,0:06:26.10,Fujiwara,,0,0,0,,so listen carefully
+Dialogue: 0,0:06:24.90,0:06:25.90,Hamada,,0,0,0,,--Ok
+Dialogue: 0,0:06:26.63,0:06:31.90,Fujiwara,,0,0,0,,Rule# 1: You will stay overnight at the hot spring inn
+Dialogue: 0,0:06:31.97,0:06:37.77,Endo,,0,0,0,,{\b1\fn\fs63\pos(486.761,776.25)}Rule 1{\b1}
+Dialogue: 0,0:06:31.97,0:06:37.77,Normal,,0,0,0,,{\b1\fnTahoma\fs63\pos(982.535,947.25)}Hamada, Yamazaki and Tanaka will stay\Nin a Hot spring inn until tomorrow morning{\b1}
+Dialogue: 0,0:06:32.00,0:06:37.66,Fujiwara,,0,0,0,,#2: No matter what, do not laugh during the trip
+Dialogue: 0,0:06:37.84,0:06:43.84,Endo,,0,0,0,,{\b1\fn\fs63\pos(486.761,776.25)}Rule 2{\b1}
+Dialogue: 0,0:06:37.84,0:06:43.84,Normal,,0,0,0,,{\b1\fnTahoma\fs63\pos(982.535,947.25)}They must not Laugh under\Nany circumstances{\b1}
+Dialogue: 0,0:06:37.80,0:06:43.75,Fujiwara,,0,0,0,,#3: If you do laugh, you'll be punished immediately
+Dialogue: 0,0:06:44.15,0:06:47.55,Normal,,0,0,0,,{\b1\fnTahoma\fs63\pos(982.535,947.25)}Should they Laugh, a severe punishment will\Nbe delivered immediately
+Dialogue: 0,0:06:44.15,0:06:47.55,Endo,,0,0,0,,{\b1\fn\fs63\pos(486.761,776.25)}Rule 3{\b1}
+Dialogue: 0,0:06:43.85,0:06:44.45,Fujiwara,,0,0,0,,That's it.
+Dialogue: 0,0:06:46.60,0:06:50.62,Fujiwara,,0,0,0,,Matsumoto-san simplified things so\Neven stupid Hamada could understand
+Dialogue: 0,0:06:50.90,0:06:52.85,Fujiwara,,0,0,0,,Lucky for you, Hamada
+Dialogue: 0,0:06:54.10,0:06:54.85,Hamada,,0,0,0,,Yeah
+Dialogue: 0,0:06:54.85,0:06:57.90,Fujiwara,,0,0,0,,It's about time to start
+Dialogue: 0,0:06:57.90,0:06:59.90,Fujiwara,,0,0,0,,Are you all ready?
+Dialogue: 0,0:07:00.61,0:07:01.69,Tanaka,,0,0,0,,Yes.
+Dialogue: 0,0:07:04.36,0:07:05.71,Hamada,,0,0,0,,I swear I won't laugh
+Dialogue: 0,0:07:05.11,0:07:08.06,Fujiwara,,0,0,0,,--The game begins when you go pass this gate
+Dialogue: 0,0:07:08.21,0:07:10.21,Endo,,0,0,0,,{\b1\fn\fs63\pos(543.099,769.5)}Rule 4{\b1}
+Dialogue: 0,0:07:08.21,0:07:13.61,Normal,,0,0,0,,{\b1\fnTahoma\fs63\pos(946.479,886.5)}The Game begins after they cross the Line{\b1}
+Dialogue: 0,0:07:08.06,0:07:10.90,Yamazaki,,0,0,0,,When we go through, we can't laugh?
+Dialogue: 0,0:07:12.90,0:07:14.40,Fujiwara,,0,0,0,,Follow me
+Dialogue: 0,0:07:13.90,0:07:16.97,Hamada,,0,0,0,,I swear I won't laugh
+Dialogue: 0,0:07:15.85,0:07:16.85,Yamazaki,,0,0,0,,--Let's go
+Dialogue: 0,0:07:16.95,0:07:19.05,Tanaka,,0,0,0,,So we're going?
+Dialogue: 0,0:07:21.10,0:07:23.36,Yamazaki,,0,0,0,,Let's do this together
+Dialogue: 0,0:07:25.10,0:07:27.80,Normal,,0,0,0,,{\b1\i1\fn\fs162\c&HE441F9&\3c&H810791&\pos(926.197,987.75)}-Showtime!-{\b0\c&HE441F9&\3c&H7E038E&}
+Dialogue: 0,0:07:27.86,0:07:29.86,Hamada,,0,0,0,,Is the hot spring inn near?
+Dialogue: 0,0:07:29.87,0:07:34.33,Fujiwara,,0,0,0,,It's near, but we're taking a side trip first
+Dialogue: 0,0:07:37.20,0:07:42.88,Fujiwara,,0,0,0,,Hey, look to your left, there are beautiful autumn colors.
+Dialogue: 0,0:07:44.58,0:07:45.81,Fujiwara,,0,0,0,,What a beautiful town.
+Dialogue: 0,0:07:45.84,0:07:46.84,Yamazaki,,0,0,0,,--Yeah it is
+Dialogue: 0,0:07:46.58,0:07:50.11,Fujiwara,,0,0,0,,And the people here seems to be happy to have you around
+Dialogue: 0,0:07:51.22,0:07:52.05,Fujiwara,,0,0,0,,Look there
+Dialogue: 0,0:07:55.89,0:07:56.86,Fujiwara,,0,0,0,,Look there
+Dialogue: 0,0:07:58.95,0:08:02.97,Normal,,0,0,0,,{\fnArial Black\fs81\b1\pos(937.465,762.75)}-Welcome to Yugawara-\N(Producer Suga){\b1}
+Dialogue: 0,0:08:02.96,0:08:05.10,Default,,0,0,0,,{\pos(1449.014,335.25)}[This is some surprise.]
+Dialogue: 0,0:08:03.06,0:08:08.07,Default,,0,0,0,,{\pos(1113.239,999)}(Cheif Producer Suga Kenji) welcome to Yugawara billboard
+Dialogue: 0,0:08:06.90,0:08:08.90,Default,,0,0,0,,{\pos(1428.732,193.5)}[This is incredible!]
+Dialogue: 0,0:08:09.81,0:08:14.41,Default,,0,0,0,,{\pos(498.028,369)}[This is disturbing!\NThe entire town supported them.]
+Dialogue: 0,0:08:12.14,0:08:14.14,Default,,0,0,0,,{\pos(1113.239,999)}(Cheif Producer Suga Kenji) welcome to Yugawara signboard
+Dialogue: 0,0:08:17.52,0:08:21.43,Tanaka,,0,0,0,,What? What?  Was that counted as laughing?!
+Dialogue: 0,0:08:21.43,0:08:23.31,Yamazaki,,0,0,0,,Yeah, you laughed.
+Dialogue: 0,0:08:31.89,0:08:34.89,Normal,,0,0,0,,{\b1\fnArial Black\pos(973.521,900)\3c&H4445FF&\c&H56CDFF&\fs54}-An S&M army punishes laughers by whipping their butt.-{\b0}
+Dialogue: 0,0:08:33.13,0:08:35.13,Yamazaki,,0,0,0,,That looked painful!
+Dialogue: 0,0:08:38.90,0:08:41.80,Hamada,,0,0,0,,They couldn't have done this without the town's cooperation.
+Dialogue: 0,0:08:41.80,0:08:43.14,Yamazaki,,0,0,0,,That's incredible!
+Dialogue: 0,0:08:47.15,0:08:49.18,Endo,,0,0,0,,What?  I'm at Yugawara station now.
+Dialogue: 0,0:08:49.18,0:08:55.62,Normal,,0,0,0,,{\pos(763.944,801)\b0\3c&HF31000&}The infamous pro wrestler\N Dynamite Shikoku passing by (Endo)
+Dialogue: 0,0:08:51.28,0:08:52.28,Endo,,0,0,0,,What?
+Dialogue: 0,0:08:55.71,0:08:56.72,Normal,,0,0,0,,Shikoku!
+Dialogue: 0,0:08:56.72,0:08:57.72,Endo,,0,0,0,,Yeah?
+Dialogue: 0,0:08:56.90,0:08:58.90,Normal,,0,0,0,,May I have your autograph?
+Dialogue: 0,0:08:59.40,0:09:03.70,Normal,,0,0,0,,{\fnTahoma\fs63\b1\pos(750.423,819)}Fans of Dynamite Shikoku wants\N his autograph{\b1}
+Dialogue: 0,0:09:02.90,0:09:04.28,Default,,0,0,0,,{\pos(502.535,128.25)}[That was a laugh.]
+Dialogue: 0,0:09:05.13,0:09:06.44,Endo,,0,0,0,,Wait a moment
+Dialogue: 0,0:09:06.44,0:09:10.15,Default,,0,0,0,,{\pos(673.803,333)}[Shikoku has always been Tanaka's weakness.]
+Dialogue: 0,0:09:10.13,0:09:11.90,Default,,0,0,0,,{\pos(480,342)}[I fell for it everytime.]
+Dialogue: 0,0:09:13.60,0:09:14.98,Pink,,0,0,0,,Wow, this is so cool!
+Dialogue: 0,0:09:14.98,0:09:18.52,Normal,,0,0,0,,Skikoku! please perform your special move.
+Dialogue: 0,0:09:18.50,0:09:21.44,Pink,,0,0,0,,Please!  Do it!
+Dialogue: 0,0:09:21.58,0:09:22.60,Endo,,0,0,0,,OK, ready?
+Dialogue: 0,0:09:26.49,0:09:28.64,Endo,,0,0,0,,Shikoku! Shikoku!
+Dialogue: 0,0:09:30.75,0:09:32.93,Endo,,0,0,0,,Shikoku! Shikoku!
+Dialogue: 0,0:09:34.45,0:09:36.19,Hamada,,0,0,0,,That's not fair!
+Dialogue: 0,0:09:42.60,0:09:43.96,Yamazaki,,0,0,0,,So stupid.
+Dialogue: 0,0:09:44.36,0:09:47.80,Default,,0,0,0,,{\pos(466.479,306)}[No one can survive this.]
+Dialogue: 0,0:09:52.61,0:09:54.41,Tanaka,,0,0,0,,What? Again?!
+Dialogue: 0,0:10:00.98,0:10:02.98,Default,,0,0,0,,{\pos(513.803,333)}[That was really painful]
+Dialogue: 0,0:10:04.49,0:10:05.83,Hamada,,0,0,0,,Why were you hit twice?
+Dialogue: 0,0:10:05.65,0:10:07.65,Tanaka,,0,0,0,,--I don't know!
+Dialogue: 0,0:10:07.96,0:10:12.75,Black,,0,0,0,,At 3:00 p.m. today, a title match at the Yuguwara Gymnasium...
+Dialogue: 0,0:10:09.49,0:10:11.49,Default,,0,0,0,,{\pos(495.775,335.25)}[Tanaka got hit 2 times]
+Dialogue: 0,0:10:12.75,0:10:16.56,Black,,0,0,0,,YWGP heavyweight champion Escargot Man vs.
+Dialogue: 0,0:10:16.56,0:10:21.43,Black,,0,0,0,,the violent superstar from Seto Inland Sea...
+Dialogue: 0,0:10:21.43,0:10:25.65,Black,,0,0,0,,Dynamite Shikoku\NThis will be an incredible match
+Dialogue: 0,0:10:27.42,0:10:29.01,Yamazaki,,0,0,0,,Get away from my sight!
+Dialogue: 0,0:10:30.19,0:10:32.77,Yamazaki,,0,0,0,,What are you waiting for?
+Dialogue: 0,0:10:32.88,0:10:35.41,Default,,0,0,0,,{\pos(583.662,355.5)}[Seriously, what are you waiting for?]
+Dialogue: 0,0:10:35.41,0:10:36.42,Endo,,0,0,0,,Goodbye
+Dialogue: 0,0:10:36.42,0:10:38.11,Default,,0,0,0,,--Good-bye and good luck.
+Dialogue: 0,0:10:39.99,0:10:41.99,Default,,0,0,0,,{\pos(525.07,348.75)}[Well, that was kinda funny]
+Dialogue: 0,0:10:42.66,0:10:43.66,Hamada,,0,0,0,,That guy's annoying
+Dialogue: 0,0:10:43.82,0:10:44.92,Tanaka,,0,0,0,,Damn right
+Dialogue: 0,0:10:45.22,0:10:49.80,Fujiwara,,0,0,0,,Wow, the kids in Yugawara really take their studying seriously
+Dialogue: 0,0:10:50.76,0:10:52.77,Tanaka,,0,0,0,,Oh my god
+Dialogue: 0,0:10:57.74,0:11:06.75,Normal,,0,0,0,,{\pos(1336.338,663.75)}Suga dressed as a student
+Dialogue: 0,0:10:59.71,0:11:01.71,Default,,0,0,0,,{\pos(443.944,328.5)}[that was...]
+Dialogue: 0,0:11:03.41,0:11:05.41,Default,,0,0,0,,{\pos(536.338,337.5)}[Suga-chan is everywhere]
+Dialogue: 0,0:11:07.08,0:11:09.78,Yamazaki,,0,0,0,,My ass...my ass is on fire!
+Dialogue: 0,0:11:10.92,0:11:17.72,Normal,,0,0,0,,{\pos(1354.366,661.5)}Suga's fake poster
+Dialogue: 0,0:11:11.75,0:11:15.75,Hamada,,0,0,0,,Why the hell, it was only a half smile
+Dialogue: 0,0:11:15.96,0:11:17.96,Default,,0,0,0,,{\pos(459.718,333)}[That was not good]
+Dialogue: 0,0:11:20.57,0:11:22.99,Default,,0,0,0,,{\pos(491.268,326.25)}[Tanaka missed it here]
+Dialogue: 0,0:11:23.86,0:11:25.86,Yamazaki,,0,0,0,,That was...incredible!
+Dialogue: 0,0:11:25.16,0:11:26.66,Tanaka,,0,0,0,,{\pos(1144.789,738)}Yeah, Suga's amazing
+Dialogue: 0,0:11:27.90,0:11:30.79,Yamazaki,,0,0,0,,This is bad, we shouldn't get suckered in so easily
+Dialogue: 0,0:11:29.90,0:11:30.90,Hamada,,0,0,0,,--Damn right
+Dialogue: 0,0:11:31.74,0:11:33.74,Fujiwara,,0,0,0,,Yugawara's a famous spa resort
+Dialogue: 0,0:11:33.49,0:11:36.01,Default,,0,0,0,,{\pos(1322.817,893.25)\c&H4445FF&\3c&H56CDFF&\b1}Yugawara's a famous spa resort\NSound Truck{\b0}
+Dialogue: 0,0:11:34.30,0:11:36.68,Fujiwara,,0,0,0,,It has many shops of long standing
+Dialogue: 0,0:11:36.88,0:11:38.60,Fujiwara,,0,0,0,,Let's have some tea.
+Dialogue: 0,0:11:39.60,0:11:45.70,Default,,0,0,0,,{\b1\fnArial Black\fs81\pos(998.31,823.5)}Yamasaki used his arm to cover his laughing face{\b0}
+Dialogue: 0,0:11:42.90,0:11:44.74,Default,,0,0,0,,{\pos(466.479,319.5)}[Cheater!]
+Dialogue: 0,0:11:46.89,0:11:48.59,Hamada,,0,0,0,,Thank you very much
+Dialogue: 0,0:11:49.26,0:11:50.26,Tanaka,,0,0,0,,Thank you
+Dialogue: 0,0:11:50.59,0:11:57.31,Normal,,0,0,0,,Hi! Today, I'm at Yugawara, which is at its height of fall color
+Dialogue: 0,0:11:57.31,0:12:01.19,Normal,,0,0,0,,I can see clear blue sky in every direction
+Dialogue: 0,0:12:00.90,0:12:05.90,Normal,,0,0,0,,{\fs63\pos(1187.606,945)\fn\b0\3c&HF31000&}(Travel show reporter)\N\NKinomoto Ryo {\b1}
+Dialogue: 0,0:12:01.19,0:12:05.14,Normal,,0,0,0,,Everybody knows Yugawara is a spa resort
+Dialogue: 0,0:12:05.14,0:12:08.59,Normal,,0,0,0,,But before I bathe, I'll show you some goodies
+Dialogue: 0,0:12:08.59,0:12:13.08,Default,,0,0,0,,{\b1\fnArial Black\fs81\pos(957.746,837)}Hamada used his cup to cover his laughing face
+Dialogue: 0,0:12:11.18,0:12:13.18,Normal,,0,0,0,,This is really good
+Dialogue: 0,0:12:15.97,0:12:20.12,Normal,,0,0,0,,What do you recommend as a best buy?
+Dialogue: 0,0:12:20.12,0:12:22.45,Pink,,0,0,0,,This one sir, Amanogawa (Milky Way) manjuu
+Dialogue: 0,0:12:22.50,0:12:25.94,Normal,,0,0,0,,Amanogawa? What a beautiful name!
+Dialogue: 0,0:12:26.54,0:12:31.82,Hamada,,0,0,0,,They don't care if we shoot at the same place?
+Dialogue: 0,0:12:31.82,0:12:34.10,Yamazaki,,0,0,0,,He's speaking very loudly
+Dialogue: 0,0:12:34.10,0:12:36.48,Tanaka,,0,0,0,,We are definitely in their frame
+Dialogue: 0,0:12:36.48,0:12:39.60,Normal,,0,0,0,,WHY!?  Why is it called Amanogawa?!
+Dialogue: 0,0:12:41.60,0:12:44.22,Hamada,,0,0,0,,Did you hear how much he stressed "why"?
+Dialogue: 0,0:12:45.22,0:12:49.57,Default,,0,0,0,,{\b1\fnArial Black\fs81\pos(1165.07,814.5)}Hamada & Yamasaki drink tea to cover their laugh
+Dialogue: 0,0:12:52.89,0:12:54.89,Hamada,,0,0,0,,What the hell?!
+Dialogue: 0,0:12:57.90,0:13:01.40,Tanaka,,0,0,0,,That comment was totally unnecessary!
+Dialogue: 0,0:13:02.24,0:13:04.90,Default,,0,0,0,,{\pos(534.085,326.25)}[You guys are too easy.]
+Dialogue: 0,0:13:09.34,0:13:11.34,Normal,,0,0,0,,Damn that's good
+Dialogue: 0,0:13:12.71,0:13:15.72,Hamada,,0,0,0,,He whipped my balls
+Dialogue: 0,0:13:15.72,0:13:17.30,Hamada,,0,0,0,,My balls...
+Dialogue: 0,0:13:17.30,0:13:23.74,Normal,,0,0,0,,There's much more to come, We'll be right back
+Dialogue: 0,0:13:23.90,0:13:25.26,Normal,,0,0,0,,{\pos(1160.563,650.25)}(Director):\N CUT!
+Dialogue: 0,0:13:25.26,0:13:26.98,Default,,0,0,0,,OK!
+Dialogue: 0,0:13:28.00,0:13:30.02,Default,,0,0,0,,{\pos(561.127,324)}[Isn't the director too old?]
+Dialogue: 0,0:13:35.33,0:13:38.14,Yamazaki,,0,0,0,,Watch it! It's hot!
+Dialogue: 0,0:13:44.80,0:13:47.90,Hamada,,0,0,0,,I just realized how old that director was.
+Dialogue: 0,0:13:47.90,0:13:51.90,Default,,0,0,0,,{\pos(671.549,999)}-{\b1\fnArial Black\fs63}The director is in his 80s{\b0}
+Dialogue: 0,0:13:49.48,0:13:51.48,Yamazaki,,0,0,0,,I guess he's still nostalgic
+Dialogue: 0,0:13:51.90,0:13:55.70,Fujiwara,,0,0,0,,Let's go, That way
+Dialogue: 0,0:13:56.43,0:14:01.75,Fujiwara,,0,0,0,,There's a place I want you to see before we head for the inn
+Dialogue: 0,0:14:01.75,0:14:04.42,Fujiwara,,0,0,0,,We'll go there first
+Dialogue: 0,0:14:06.02,0:14:08.01,Yamazaki,,0,0,0,,Why can't we just go to the inn?
+Dialogue: 0,0:14:08.17,0:14:11.66,Fujiwara,,0,0,0,,Hey!  Hey!
+Dialogue: 0,0:14:16.30,0:14:21.29,Default,,0,0,0,,{\pos(953.239,834.75)}-{\b1\fnArial Black\fs63}Harley Davidson with a sidecar
+Dialogue: 0,0:14:22.34,0:14:23.96,Hamada,,0,0,0,,A sidecar
+Dialogue: 0,0:14:25.96,0:14:28.76,Fujiwara,,0,0,0,,Get in the car, I'll lead the way.
+Dialogue: 0,0:14:28.76,0:14:30.75,Hamada,,0,0,0,,Are you going to ride in that?
+Dialogue: 0,0:14:30.75,0:14:32.74,Fujiwara,,0,0,0,,I'll lead the way, Get in
+Dialogue: 0,0:14:33.74,0:14:37.02,Default,,0,0,0,,{\pos(937.465,857.25)}-{\b1\fnArial Black\fs63}Fujiwara puts the 3 men in the taxicab
+Dialogue: 0,0:14:38.02,0:14:39.49,Hamada,,0,0,0,,Thank you
+Dialogue: 0,0:14:42.90,0:14:46.33,Tanaka,,0,0,0,,It's much more intense than before
+Dialogue: 0,0:14:46.00,0:14:47.00,Yamazaki,,0,0,0,,{\pos(1388.169,994.5)}--Damn right
+Dialogue: 0,0:14:48.41,0:14:50.09,Tanaka,,0,0,0,,This is bad
+Dialogue: 0,0:14:50.58,0:14:54.03,Default,,0,0,0,,{\c&H4445FF&\3c&H56CDFF&\b1\pos(1394.93,609.75)}Japanese-style\Nhairdo helmet
+Dialogue: 0,0:14:54.90,0:14:57.72,Yamazaki,,0,0,0,,That Dynamite thing was close
+Dialogue: 0,0:14:58.28,0:15:08.68,Normal,,0,0,0,,{\pos(966.761,139.5)}Dynamite Shikuko vs, The Escargot man
+Dialogue: 0,0:14:58.28,0:14:59.28,Tanaka,,0,0,0,,Yes it was
+Dialogue: 0,0:14:59.40,0:15:00.90,Yamazaki,,0,0,0,,That Escargot Man
+Dialogue: 0,0:15:04.45,0:15:07.49,Default,,0,0,0,,{\pos(698.592,342)}[This wasn't the only time you weren't punished.]
+Dialogue: 0,0:15:07.48,0:15:11.50,Default,,0,0,0,,{\pos(944.225,879.75)}-{\b1\fnArial Black\fs63}Hamada's safe because the watcher missed it
+Dialogue: 0,0:15:12.10,0:15:17.79,Narrator,,0,0,0,,They're leaving the Yugawara station.\NWhere is Fujiwara taking them?
+Dialogue: 0,0:15:17.90,0:15:22.71,Narrator,,0,0,0,,What awaits them?
+Dialogue: 0,0:15:22.71,0:15:26.66,Yamazaki,,0,0,0,,So much has happened in a short time
+Dialogue: 0,0:15:27.84,0:15:29.09,Tanaka,,0,0,0,,The town is against us
+Dialogue: 0,0:15:28.47,0:15:30.47,Hamada,,0,0,0,,--That signboard was something!
+Dialogue: 0,0:15:30.79,0:15:31.78,Yamazaki,,0,0,0,,Yes, it was
+Dialogue: 0,0:15:34.38,0:15:35.38,Hamada,,0,0,0,,It was tough
+Dialogue: 0,0:15:35.70,0:15:37.59,Normal,,0,0,0,,Mind if I turn on the radio?
+Dialogue: 0,0:15:37.59,0:15:39.48,Hamada,,0,0,0,,Radio? No, go ahead
+Dialogue: 0,0:15:46.70,0:15:53.73,Black,,0,0,0,,Yoshida Terumi's (radio host)\N"Yugawara, Oh My Mind!"
+Dialogue: 0,0:15:53.90,0:16:02.90,Normal,,0,0,0,,{\b1\fnArial Black\pos(849.577,897.75)}Yoshida Terumi hosts on the radio{\b0}
+Dialogue: 0,0:16:00.90,0:16:03.94,Black,,0,0,0,,"As always, I'm your host, Yoshida Terumi."
+Dialogue: 0,0:16:03.94,0:16:06.88,Black,,0,0,0,,"How are you doing? The same old, same old?"
+Dialogue: 0,0:16:06.88,0:16:12.05,Black,,0,0,0,,"This year is almost over, time flies
+Dialogue: 0,0:16:10.18,0:16:11.18,Normal,,0,0,0,,--Time flies...
+Dialogue: 0,0:16:12.07,0:16:17.09,Black,,0,0,0,,"At this rate, I'll be 90 by the end of next year."
+Dialogue: 0,0:16:17.88,0:16:21.48,Default,,0,0,0,,{\pos(944.225,879.75)}{\b1\fnArial Black\fs63}The driver begins to laugh loudly
+Dialogue: 0,0:16:18.36,0:16:23.36,Black,,0,0,0,,"Is this really the end of March, the weather is so warm"
+Dialogue: 0,0:16:24.11,0:16:26.13,Black,,0,0,0,,"Give me more time!"
+Dialogue: 0,0:16:26.13,0:16:29.16,Black,,0,0,0,,"And my name happens to be 'Tell me' (Terumi), too!"
+Dialogue: 0,0:16:37.90,0:16:40.19,Hamada,,0,0,0,,Are they going to stop here?
+Dialogue: 0,0:16:43.90,0:16:46.17,Hamada,,0,0,0,,They are being very thorough
+Dialogue: 0,0:16:46.17,0:16:49.16,Yamazaki,,0,0,0,,No break for us
+Dialogue: 0,0:16:50.05,0:16:53.95,Default,,0,0,0,,{\b1\3c&H4445FF&\c&H56CDFF&\fn\fs63\pos(935.211,841.5)}If anyone laughs, the car stops and he is punished outside.
+Dialogue: 0,0:16:59.90,0:17:01.85,Hamada,,0,0,0,,You heard that?
+Dialogue: 0,0:17:01.85,0:17:04.80,Yamazaki,,0,0,0,,I can hear that even with the window closed.
+Dialogue: 0,0:17:04.80,0:17:06.27,Hamada,,0,0,0,,It's very loud
+Dialogue: 0,0:17:12.78,0:17:14.83,Normal,,0,0,0,,Do you mind if I turn on the radio?
+Dialogue: 0,0:17:18.75,0:17:21.32,Default,,0,0,0,,{\pos(536.338,337.5)}[I don't believe Hamada didn't laugh]
+Dialogue: 0,0:17:20.82,0:17:23.21,Black,,0,0,0,,"Yugawara, Oh My Mind"
+Dialogue: 0,0:17:23.60,0:17:24.94,Normal,,0,0,0,,I love this show
+Dialogue: 0,0:17:25.05,0:17:30.86,Black,,0,0,0,,"What's up? Dynamite Shikoku has finally come to Yugawara."
+Dialogue: 0,0:17:30.86,0:17:36.26,Black,,0,0,0,,"He's as rough as a whirling current in the Naruto Channel."
+Dialogue: 0,0:17:38.75,0:17:41.03,Default,,0,0,0,,{\pos(525.07,321.75)}[Tanaka You suck.]
+Dialogue: 0,0:17:41.03,0:17:44.74,Tanaka,,0,0,0,,No, please don't "Dynamite" me anymore!
+Dialogue: 0,0:17:48.30,0:17:52.51,Default,,0,0,0,,{\pos(944.225,879.75)}-{\b1\fnArial Black\fs63}Hamada takes advantage of the watcher's absence
+Dialogue: 0,0:17:52.73,0:17:55.38,Hamada,,0,0,0,,He has zero tolerance toward the Dynamite sketches
+Dialogue: 0,0:18:00.90,0:18:02.90,Yamazaki,,0,0,0,,Hang in there, Tanaka.
+Dialogue: 0,0:18:05.90,0:18:07.99,Normal,,0,0,0,,Do you mind if I turn on the radio?
+Dialogue: 0,0:18:13.09,0:18:15.42,Hamada,,0,0,0,,Why do you need to ask everytime?
+Dialogue: 0,0:18:16.91,0:18:18.79,Hamada,,0,0,0,,Why not just turn it on?
+Dialogue: 0,0:18:23.88,0:18:27.65,Default,,0,0,0,,{\pos(624.225,344.25)}[It's annoying when you have no choice.]
+Dialogue: 0,0:18:27.65,0:18:30.59,Default,,0,0,0,,{\pos(633.239,348.75)}[You get out of the car and get whipped...]
+Dialogue: 0,0:18:31.92,0:18:33.93,Default,,0,0,0,,{\pos(446.197,371.25)}[That's horrible]\N[--it looked painful!]
+Dialogue: 0,0:18:37.43,0:18:39.80,Default,,0,0,0,,{\pos(443.944,346.5)}[This is hard.]
+Dialogue: 0,0:18:40.40,0:18:42.40,Hamada,,0,0,0,,It hurts!
+Dialogue: 0,0:18:44.02,0:18:46.85,Narrator,,0,0,0,,This is only the beginning for them
+Dialogue: 0,0:18:46.85,0:18:50.58,Narrator,,0,0,0,,There are more traps to come
+Dialogue: 0,0:18:53.15,0:18:58.02,Default,,0,0,0,,{\pos(667.042,587.25)}-{\b1\fnArial Black\fs63}Old lady hitchhiker\N looking for a ride to L.A.
+Dialogue: 0,0:18:58.95,0:19:01.79,Default,,0,0,0,,{\pos(563.38,337.5)}[She must be out of her mind!]
+Dialogue: 0,0:19:09.37,0:19:11.43,Hamada,,0,0,0,,I suppressed my laughter!
+Dialogue: 0,0:19:13.90,0:19:16.86,Hamada,,0,0,0,,Who'd give her a ride?!
+Dialogue: 0,0:19:27.73,0:19:31.18,Default,,0,0,0,,{\pos(590.423,186.75)}[She's still holding up the sign.]
+Dialogue: 0,0:19:32.13,0:19:34.01,Hamada,,0,0,0,,My balls!
+Dialogue: 0,0:19:34.55,0:19:36.55,Tanaka,,0,0,0,,My balls hurt!
+Dialogue: 0,0:19:37.15,0:19:38.36,Hamada,,0,0,0,,Hey wait!
+Dialogue: 0,0:19:38.90,0:19:41.96,Hamada,,0,0,0,,How the hell are we not supposed to laugh at this?!
+Dialogue: 0,0:19:42.36,0:19:44.82,Hamada,,0,0,0,,we'll Laugh for sure!
+Dialogue: 0,0:19:52.36,0:19:53.94,Yamazaki,,0,0,0,,Look at her face
+Dialogue: 0,0:19:57.31,0:19:59.31,Hamada,,0,0,0,,My ass is throbbing
+Dialogue: 0,0:20:00.15,0:20:02.15,Hamada,,0,0,0,,It will definitely be swollen
+Dialogue: 0,0:20:01.55,0:20:03.55,Default,,0,0,0,,{\pos(538.592,339.75)}[You still didn't even reach the Inn]{\s1}
+Dialogue: 0,0:20:08.62,0:20:11.02,Hamada,,0,0,0,,Why is he checking on us
+Dialogue: 0,0:20:08.62,0:20:12.62,Normal,,0,0,0,,{\fnArial Black\b1\pos(1313.803,954)}The punisher turns around{\b1}
+Dialogue: 0,0:20:12.96,0:20:13.96,Hamada,,0,0,0,,Isn't that dirty?
+Dialogue: 0,0:20:14.23,0:20:16.23,Yamazaki,,0,0,0,,{\pos(1293.521,999)}It's dirty
+Dialogue: 0,0:20:14.23,0:20:16.23,Tanaka,,0,0,0,,{\pos(590.423,999)}It's dirty
+Dialogue: 0,0:20:16.60,0:20:18.60,Yamazaki,,0,0,0,,You know, he's wearing glasses
+Dialogue: 0,0:20:23.97,0:20:25.84,Default,,0,0,0,,{\pos(617.465,342)}[Of course we're going to laugh at that]
+Dialogue: 0,0:20:31.38,0:20:33.38,Hamada,,0,0,0,,Why can't you just shut up!
+Dialogue: 0,0:20:33.98,0:20:36.25,Tanaka,,0,0,0,,Cut it out already!
+Dialogue: 0,0:20:36.38,0:20:38.38,Hamada,,0,0,0,,What are you trying to do?
+Dialogue: 0,0:21:05.34,0:21:07.35,Default,,0,0,0,,{\pos(540.845,326.25)}[The mask was off center]
+Dialogue: 0,0:21:07.58,0:21:09.58,Tanaka,,0,0,0,,He whipped my balls again!
+Dialogue: 0,0:21:15.52,0:21:18.52,Hamada,,0,0,0,,At this rate, we will never reach the Inn!
+Dialogue: 0,0:21:18.02,0:21:19.76,Default,,0,0,0,,{\pos(461.972,371.25)}[You knew that huh?]\N[-Yeah]
+Dialogue: 0,0:21:20.33,0:21:22.33,Hamada,,0,0,0,,I'm begging you
+Dialogue: 0,0:21:22.33,0:21:23.10,Tanaka,,0,0,0,,Really
+Dialogue: 0,0:21:29.40,0:21:34.91,Narrator,,0,0,0,,They finally reach the next destination
+Dialogue: 0,0:21:34.90,0:21:37.90,Narrator,,0,0,0,,But where have they arrived?
+Dialogue: 0,0:21:39.19,0:21:40.55,Fujiwara,,0,0,0,,Please get out
+Dialogue: 0,0:21:40.55,0:21:43.69,Hamada,,0,0,0,,Why don't we just go to the inn already!
+Dialogue: 0,0:21:43.69,0:21:46.80,Fujiwara,,0,0,0,,There's something I want you to do here
+Dialogue: 0,0:21:49.44,0:21:51.01,Fujiwara,,0,0,0,,This is a temple!
+Dialogue: 0,0:21:51.01,0:21:54.11,Fujiwara,,0,0,0,,You have too many wordly desires\NThat's why you can't help but laugh.
+Dialogue: 0,0:21:54.11,0:21:56.59,Fujiwara,,0,0,0,,You'll need some training, Follow me
+Dialogue: 0,0:21:56.60,0:21:59.40,Yamazaki,,0,0,0,,A Temple...
+Dialogue: 0,0:21:59.41,0:22:04.27,Narrator,,0,0,0,,They arrive at an old venerable temple
+Dialogue: 0,0:22:04.27,0:22:09.88,Narrator,,0,0,0,,What training must they undertake?
+Dialogue: 0,0:22:11.67,0:22:14.75,Tanaka,,0,0,0,,We should cut out the unnessary comments
+Dialogue: 0,0:22:13.68,0:22:14.68,Yamazaki,,0,0,0,,--I agree
+Dialogue: 0,0:22:14.75,0:22:18.30,Yamazaki,,0,0,0,,Tanaka, raise your threshold.
+Dialogue: 0,0:22:18.40,0:22:20.07,Black,,0,0,0,,What's that got to do with it?
+Dialogue: 0,0:22:19.65,0:22:20.65,Fujiwara,,0,0,0,,{\pos(1307.042,749.25)}Wait a minute...
+Dialogue: 0,0:22:20.40,0:22:22.30,Normal,,0,0,0,,It's got everything to do with it!
+Dialogue: 0,0:22:22.66,0:22:24.13,Black,,0,0,0,,What's your beef?
+Dialogue: 0,0:22:24.12,0:22:28.92,Normal,,0,0,0,,{\pos(881.127,958.5)\3c&HF31000&\fn\b0}Ungirls (Comedy Duo)\NYamane Yoshiaki & Tanaka Takushi{\b1}
+Dialogue: 0,0:22:24.13,0:22:27.32,Normal,,0,0,0,,I don't like to ride behind you.
+Dialogue: 0,0:22:27.32,0:22:29.57,Black,,0,0,0,,What's wrong?
+Dialogue: 0,0:22:29.57,0:22:31.65,Normal,,0,0,0,,Your steering sucks
+Dialogue: 0,0:22:31.65,0:22:35.09,Normal,,0,0,0,,I think I should steer
+Dialogue: 0,0:22:35.09,0:22:39.28,Black,,0,0,0,,What? My steering was fine
+Dialogue: 0,0:22:38.27,0:22:39.27,Normal,,0,0,0,,--No it's not
+Dialogue: 0,0:22:39.38,0:22:41.58,Black,,0,0,0,,What do you mean?
+Dialogue: 0,0:22:41.58,0:22:43.83,Normal,,0,0,0,,You get tired and...
+Dialogue: 0,0:22:44.17,0:22:46.90,Black,,0,0,0,,Then why asking me to join in the first place?
+Dialogue: 0,0:22:46.90,0:22:49.61,Normal,,0,0,0,,Because I had no one else to ask
+Dialogue: 0,0:22:51.36,0:22:54.65,Normal,,0,0,0,,You wanna fight?
+Dialogue: 0,0:23:11.24,0:23:13.74,Default,,0,0,0,,{\pos(556.62,335.25)}[They're getting better at this.]
+Dialogue: 0,0:23:19.94,0:23:21.66,Normal,,0,0,0,,To hell with this
+Dialogue: 0,0:23:21.66,0:23:22.92,Black,,0,0,0,,Hey Wait!
+Dialogue: 0,0:23:42.86,0:23:44.05,Hamada,,0,0,0,,Timeout
+Dialogue: 0,0:23:44.05,0:23:47.10,Hamada,,0,0,0,,Don't count this laugh, OK?
+Dialogue: 0,0:23:47.10,0:23:48.98,Hamada,,0,0,0,,He whipped my dick
+Dialogue: 0,0:23:51.33,0:23:54.93,Default,,0,0,0,,{\fnCooper Std Black\fs63\b1\c&HDD2CFE&\3c&H2324AA&\4c&H6464A0&\pos(923.944,877.5)}This whip was for Tanaka, but the S&M guy missed and...
+Dialogue: 0,0:23:59.95,0:24:02.75,Default,,0,0,0,,{\fnCooper Std Black\fs63\b1\4c&H6464A0&\pos(923.944,877.5)\c&H46C4F9&\3c&H3188AD&}...hits Hamada's penis instead!!
+Dialogue: 0,0:24:03.19,0:24:05.19,Default,,0,0,0,,{\pos(495.775,335.25)}[You should've moved]
+Dialogue: 0,0:24:03.83,0:24:04.81,Hamada,,0,0,0,,My right ball hurts
+Dialogue: 0,0:24:04.81,0:24:08.26,Hamada,,0,0,0,,He whipped my right ball
+Dialogue: 0,0:24:08.26,0:24:11.15,Hamada,,0,0,0,,Isn't it supposed to be on the butt?
+Dialogue: 0,0:24:11.15,0:24:14.63,Fujiwara,,0,0,0,,Ah...there he is...
+Dialogue: 0,0:24:12.26,0:24:14.26,Hamada,,0,0,0,,--You're not listening...
+Dialogue: 0,0:24:14.63,0:24:16.82,Fujiwara,,0,0,0,,This local priest will take care of you
+Dialogue: 0,0:24:16.82,0:24:17.48,Fujiwara,,0,0,0,,Greet him
+Dialogue: 0,0:24:18.56,0:24:20.57,Fujiwara,,0,0,0,,Hello there
+Dialogue: 0,0:24:19.74,0:24:20.74,Normal,,0,0,0,,--Oh yes?
+Dialogue: 0,0:24:23.43,0:24:27.31,Default,,0,0,0,,{\pos(748.169,803.25)}-{\b1\fnArial Black\fs63}Eyes are painted on\N the local priest's eyelids
+Dialogue: 0,0:24:27.31,0:24:30.40,Normal,,0,0,0,,Welcome all, my name is Tenkai, the local priest
+Dialogue: 0,0:24:33.88,0:24:34.89,Normal,,0,0,0,,Please come in
+Dialogue: 0,0:24:36.09,0:24:37.77,Normal,,0,0,0,,I'll show you inside
+Dialogue: 0,0:24:39.99,0:24:41.99,Normal,,0,0,0,,Please come inside
+Dialogue: 0,0:24:43.18,0:24:46.62,Yamazaki,,0,0,0,,May we enter?
+Dialogue: 0,0:24:44.46,0:24:46.46,Normal,,0,0,0,,--Yes please do
+Dialogue: 0,0:24:46.62,0:24:49.63,Normal,,0,0,0,,This is the main hall
+Dialogue: 0,0:24:57.58,0:25:02.92,Normal,,0,0,0,,The pictures behind me are of previous priests
+Dialogue: 0,0:25:02.93,0:25:09.01,Normal,,0,0,0,,Our last resident priest was Priest Parakeet
+Dialogue: 0,0:25:09.66,0:25:11.66,Normal,,0,0,0,,he was one of the most revered priests around
+Dialogue: 0,0:25:13.66,0:25:15.66,Default,,0,0,0,,{\pos(1485.07,330.75)}[That was too much]
+Dialogue: 0,0:25:20.70,0:25:25.70,Normal,,0,0,0,,Today, we have a great priest visiting us from Kyoto
+Dialogue: 0,0:25:26.01,0:25:28.01,Normal,,0,0,0,,He wants to see you
+Dialogue: 0,0:25:28.47,0:25:31.47,Normal,,0,0,0,,Please pay your respects
+Dialogue: 0,0:25:33.35,0:25:35.35,Normal,,0,0,0,,Please come in
+Dialogue: 0,0:25:37.75,0:25:42.05,Default,,0,0,0,,{\pos(964.507,841.5)}{\b1\fnArial Black\fs63}A black priest enters the room
+Dialogue: 0,0:25:51.06,0:25:53.46,Black,,0,0,0,,ACHUkata desho (Atsukata desho) = It was hot, huh?
+Dialogue: 0,0:25:57.10,0:25:59.10,Default,,0,0,0,,{\pos(1430.986,333)}[Hou-san has zero respect!]
+Dialogue: 0,0:26:01.77,0:26:02.77,Yamazaki,,0,0,0,,Excuse me
+Dialogue: 0,0:26:02.87,0:26:05.34,Default,,0,0,0,,{\pos(1480.563,369)}[It wasn't hot] \N-[It was cold]
+Dialogue: 0,0:26:05.81,0:26:08.41,Default,,0,0,0,,{\pos(1489.577,373.5)}[He should be saying\N that during summer]
+Dialogue: 0,0:26:18.39,0:26:21.39,Black,,0,0,0,,This year is really
+Dialogue: 0,0:26:21.61,0:26:23.86,Black,,0,0,0,,Hot huh?
+Dialogue: 0,0:26:27.18,0:26:29.73,Black,,0,0,0,,It's really hot
+Dialogue: 0,0:26:33.30,0:26:33.84,Black,,0,0,0,,Well?
+Dialogue: 0,0:26:37.89,0:26:40.08,Black,,0,0,0,,It's hot right?
+Dialogue: 0,0:26:44.88,0:26:46.88,Default,,0,0,0,,{\pos(1469.296,366.75)}[So persistent huh?]\N[--yeah]
+Dialogue: 0,0:26:54.89,0:26:57.43,Black,,0,0,0,,Right?  It's hot, right?
+Dialogue: 0,0:27:00.10,0:27:02.10,Black,,0,0,0,,I'm\N- So suddenly
+Dialogue: 0,0:27:04.25,0:27:05.25,Black,,0,0,0,,So
+Dialogue: 0,0:27:08.72,0:27:11.04,Black,,0,0,0,,I'm
+Dialogue: 0,0:27:13.43,0:27:14.72,Black,,0,0,0,,before you
+Dialogue: 0,0:27:18.68,0:27:21.02,Black,,0,0,0,,Oshitoshimasu (Oitomashimasu) = leaving
+Dialogue: 0,0:27:28.16,0:27:30.16,Default,,0,0,0,,{\pos(1421.972,342)}[We couldn't hold it anymore]
+Dialogue: 0,0:27:36.40,0:27:38.40,Tanaka,,0,0,0,,aw..my balls!
+Dialogue: 0,0:27:41.71,0:27:46.71,Default,,0,0,0,,{\pos(964.507,841.5)}{\b1\fnArial Black\fs63}Poor Tanaka got whipped 3 times in the balls
+Dialogue: 0,0:27:49.41,0:27:52.71,Normal,,0,0,0,,I want you to practice Zen setting meditation
+Dialogue: 0,0:27:53.92,0:27:57.73,Normal,,0,0,0,,Your eyes may stay open during the meditation
+Dialogue: 0,0:27:57.73,0:28:01.19,Normal,,0,0,0,,But you must never disrupt your equilibrium
+Dialogue: 0,0:28:05.29,0:28:08.90,Normal,,0,0,0,,You may begin
+Dialogue: 0,0:28:09.10,0:28:12.12,Default,,0,0,0,,{\pos(953.239,852.75)\fnArial Black\fs108\b1\3c&H9AE1FF&\4c&HCAEFFF&\c&H108EF9&}Meditation Time{\b1}
+Dialogue: 0,0:28:33.53,0:28:38.36,Default,,0,0,0,,{\pos(964.507,841.5)}{\b1\fnArial Black\fs63}2 Grannies Impersonating t.A.T.u.
+Dialogue: 0,0:28:33.53,0:28:38.33,Default,,0,0,0,,{\pos(707.606,126)}Note: t.A.T.u is a famous Russian\N pop duo (Lena Katina & Yulia Volkova)
+Dialogue: 0,0:28:52.63,0:28:56.65,Pink,,0,0,0,,I'm afraid I'm pregnant
+Dialogue: 0,0:28:56.65,0:28:58.68,Black,,0,0,0,,Keep the baby
+Dialogue: 0,0:29:04.82,0:29:08.36,Default,,0,0,0,,{\pos(1467.042,333)}[They're always funny.]
+Dialogue: 0,0:29:11.28,0:29:12.96,Normal,,0,0,0,,You need to try harder
+Dialogue: 0,0:29:13.05,0:29:18.34,Default,,0,0,0,,{\c&H4445FF&\3c&H56CDFF&\b1\fs63\pos(935.211,776.25)}The priest punishes with the board-stick
+Dialogue: 0,0:29:24.04,0:29:30.48,Normal,,0,0,0,,Good afternoon Tokyo!
+Dialogue: 0,0:29:27.48,0:29:30.48,Default,,0,0,0,,{\pos(721.127,103.5)}Note: Thomas Mcgregor is a famous Hollywood actor
+Dialogue: 0,0:29:27.48,0:29:30.25,Normal,,0,0,0,,{\3c&HF31000&\fn\b1\pos(987.042,911.25)}Thomas McGregor\N(Impersonated by Chief producer Suga Kenji)
+Dialogue: 0,0:29:30.48,0:29:34.49,Normal,,0,0,0,,Good afternoon Yugawara!
+Dialogue: 0,0:29:35.62,0:29:38.32,Normal,,0,0,0,,{\3c&HF31000&\fn\b0\pos(1433.239,976.5)}Chief Producer\NSuga Kenji
+Dialogue: 0,0:29:35.35,0:29:36.85,Normal,,0,0,0,,Good afternoon
+Dialogue: 0,0:29:39.39,0:29:40.39,Normal,,0,0,0,,Good afternoon
+Dialogue: 0,0:29:40.99,0:29:46.29,Normal,,0,0,0,,Good afternoon Tokyo!
+Dialogue: 0,0:29:42.63,0:29:46.80,Default,,0,0,0,,{\pos(1430.986,346.5)}[He was so persistent.]
+Dialogue: 0,0:29:46.80,0:29:50.80,Default,,0,0,0,,{\pos(1444.507,346.5)}[He kept repeating it]
+Dialogue: 0,0:29:48.00,0:29:51.56,Normal,,0,0,0,,Good afternoon Yugawara!
+Dialogue: 0,0:29:53.84,0:29:58.84,Normal,,0,0,0,,Good afternoon Tokyo!
+Dialogue: 0,0:29:59.91,0:30:04.91,Normal,,0,0,0,,Good afternoon Yugawara!
+Dialogue: 0,0:30:03.31,0:30:07.15,Hamada,,0,0,0,,--You persistent bastard!
+Dialogue: 0,0:30:05.18,0:30:09.18,Normal,,0,0,0,,Good afternoon Tokyo!
+Dialogue: 0,0:30:16.24,0:30:18.06,Normal,,0,0,0,,You should try harder
+Dialogue: 0,0:30:19.47,0:30:22.60,Hamada,,0,0,0,,What's wrong with That  jerk?!
+Dialogue: 0,0:30:25.10,0:30:30.94,Default,,0,0,0,,{\pos(964.507,841.5)}{\b1\fnArial Black\fs63}A mysterious person appears from behind
+Dialogue: 0,0:30:42.59,0:30:45.50,Hamada,,0,0,0,,This is disturbing
+Dialogue: 0,0:30:45.49,0:30:46.83,Default,,0,0,0,,{\pos(1446.761,346.5)}[Yeah, it's spooky.]
+Dialogue: 0,0:30:46.83,0:30:48.96,Default,,0,0,0,,{\pos(1446.761,339.75)}[Makes you nervous.]
+Dialogue: 0,0:30:50.92,0:30:56.83,Pink,,0,0,0,,It's me, Yinling of Joytoy
+Dialogue: 0,0:30:51.13,0:30:54.13,Default,,0,0,0,,{\pos(732.394,123.75)}Note: Yinling is a famous swimsuit model
+Dialogue: 0,0:31:04.64,0:31:06.11,Default,,0,0,0,,{\pos(1442.254,335.25)}[That was a suprise.]
+Dialogue: 0,0:31:07.97,0:31:09.82,Normal,,0,0,0,,Try harder.
+Dialogue: 0,0:31:11.00,0:31:15.33,Tanaka,,0,0,0,,Yinling ... It's Yinling!
+Dialogue: 0,0:31:15.90,0:31:18.34,Hamada,,0,0,0,,That's amazing
+Dialogue: 0,0:31:24.90,0:31:26.90,Default,,0,0,0,,{\pos(964.507,841.5)}{\b1\fnArial Black\fs63}Dynamite Shikoku enters the Temple
+Dialogue: 0,0:31:26.57,0:31:28.57,Normal,,0,0,0,,Oh, Maito-san
+Dialogue: 0,0:31:28.60,0:31:31.74,Endo,,0,0,0,,It's not "Maito", I'm Dynamite Shikoku
+Dialogue: 0,0:31:31.77,0:31:34.81,Endo,,0,0,0,,Remember, I'm not "Maito"
+Dialogue: 0,0:31:36.14,0:31:38.14,Endo,,0,0,0,,Is it alright if I pay for a win?
+Dialogue: 0,0:31:38.47,0:31:40.54,Endo,,0,0,0,,Oh, great priests are here
+Dialogue: 0,0:31:49.29,0:31:52.52,Endo,,0,0,0,,Please let me beat
+Dialogue: 0,0:31:52.88,0:31:56.23,Endo,,0,0,0,,the world's best wrestler, Escargot man
+Dialogue: 0,0:32:05.00,0:32:08.00,Tanaka,,0,0,0,,Cut it out already
+Dialogue: 0,0:32:11.28,0:32:12.28,Endo,,0,0,0,,Here I go
+Dialogue: 0,0:32:18.68,0:32:20.68,Endo,,0,0,0,,Want me to do it?
+Dialogue: 0,0:32:23.76,0:32:23.96,Endo,,0,0,0,,Ready?
+Dialogue: 0,0:32:25.42,0:32:26.42,Endo,,0,0,0,,1
+Dialogue: 0,0:32:26.42,0:32:27.44,Endo,,0,0,0,,2
+Dialogue: 0,0:32:28.43,0:32:29.43,Endo,,0,0,0,,3
+Dialogue: 0,0:32:29.53,0:32:33.43,Endo,,0,0,0,,Shikuko, Shikuko!!
+Dialogue: 0,0:32:42.07,0:32:45.07,Hamada,,0,0,0,,Cut that out, damn it
+Dialogue: 0,0:33:00.53,0:33:02.53,Normal,,0,0,0,,Try harder
+Dialogue: 0,0:33:09.64,0:33:10.86,Fujiwara,,0,0,0,,Thank you very much
+Dialogue: 0,0:33:12.37,0:33:13.35,Fujiwara,,0,0,0,,Training is over
+Dialogue: 0,0:33:14.64,0:33:17.74,Fujiwara,,0,0,0,,Have you learned a thing or two?
+Dialogue: 0,0:33:18.09,0:33:22.35,Narrator,,0,0,0,,It's just 3 hours in, and they're not at the Inn yet
+Dialogue: 0,0:33:22.35,0:33:24.97,Narrator,,0,0,0,,But they look badly beaten
+Dialogue: 0,0:33:24.97,0:33:30.33,Narrator,,0,0,0,,This is only the prologue to crueler and harsher chapters
+Dialogue: 0,0:33:30.92,0:33:32.92,Hamada,,0,0,0,,We haven't even get to the Inn yet
+Dialogue: 0,0:33:33.39,0:33:35.39,Tanaka,,0,0,0,,Yeah it hasn't even started yet
+Dialogue: 0,0:33:36.50,0:33:38.80,Matsumoto,,0,0,0,,It's like 2 leading characters haven't even met in a romance movie!
+Dialogue: 0,0:33:39.67,0:33:43.10,Hamada,,0,0,0,,I think the person who got hit the most so far was Tanaka
+Dialogue: 0,0:33:43.20,0:33:44.23,Yamazaki,,0,0,0,,--That's right
+Dialogue: 0,0:33:44.33,0:33:45.01,Matsumoto,,0,0,0,,Weak!
+Dialogue: 0,0:33:46.04,0:33:49.64,Default,,0,0,0,,{\pos(520.563,981)}Swimsuit model: Yinling
+Dialogue: 0,0:33:45.13,0:33:48.04,Tanaka,,0,0,0,,I've told you about Yinling before, but it's the first time I've
+Dialogue: 0,0:33:48.20,0:33:49.52,Tanaka,,0,0,0,,seen her in person
+Dialogue: 0,0:33:50.27,0:33:51.36,Matsumoto,,0,0,0,,Oh, you've never seen her?
+Dialogue: 0,0:33:51.44,0:33:55.64,Tanaka,,0,0,0,,I never expected to see her like this!
+Dialogue: 0,0:33:56.67,0:33:59.05,Matsumoto,,0,0,0,,But, Dynamite Shikoku is so funny
+Dialogue: 0,0:33:59.91,0:34:02.61,Endo,,0,0,0,,Actually it's been 7 years
+Dialogue: 0,0:34:03.01,0:34:03.53,Tanaka,,0,0,0,,Rght?
+Dialogue: 0,0:34:03.59,0:34:07.79,Endo,,0,0,0,,A long time ago during Shichi Henge, he appeared
+Dialogue: 0,0:34:08.13,0:34:20.13,Default,,0,0,0,,{\pos(1343.099,612)}9/1997 On Air
+Dialogue: 0,0:34:08.13,0:34:20.13,Default,,0,0,0,,{\pos(1349.859,983.25)}Endo's Shichi Henge
+Dialogue: 0,0:34:07.84,0:34:09.45,Matsumoto,,0,0,0,,During Endo's Shichi Henge?
+Dialogue: 0,0:34:09.65,0:34:11.48,Endo,,0,0,0,,It's been about 6-7 years ago
+Dialogue: 0,0:34:11.56,0:34:12.60,Matsumoto,,0,0,0,,Oh, yeah!
+Dialogue: 0,0:34:12.75,0:34:14.33,Hamada,,0,0,0,,He just loved it
+Dialogue: 0,0:34:14.38,0:34:17.23,Tanaka,,0,0,0,,Yes, he was my favorite
+Dialogue: 0,0:34:18.34,0:34:20.80,Matsumoto,,0,0,0,,You still like him even after 7 years
+Dialogue: 0,0:34:21.22,0:34:23.05,Tanaka,,0,0,0,,Feels like finally he appeared!
+Dialogue: 0,0:34:25.61,0:34:29.17,Matsumoto,,0,0,0,,It's interesting to watch everyone's hot button
+Dialogue: 0,0:34:28.22,0:34:31.64,Matsumoto,,0,0,0,,I couldn't stop laughing at the Parakeet bit
+Dialogue: 0,0:34:32.35,0:34:34.35,Tanaka,,0,0,0,,Yeah it was amazing
+Dialogue: 0,0:34:30.38,0:34:36.11,Default,,0,0,0,,{\pos(547.606,960.75)}Priest Parakeet
+Dialogue: 0,0:34:33.77,0:34:37.79,Yamazaki,,0,0,0,,The 2 Mrs. were awesome
+Dialogue: 0,0:34:37.79,0:34:41.06,Matsumoto,,0,0,0,,I don't think you've seen the LA woman in person
+Dialogue: 0,0:34:41.33,0:34:51.73,Default,,0,0,0,,{\pos(511.549,972)}LA old lady
+Dialogue: 0,0:34:41.06,0:34:44.10,Matsumoto,,0,0,0,,Her face is literally a bigger than her body!
+Dialogue: 0,0:34:45.08,0:34:47.47,Yamazaki,,0,0,0,,I think it's half the size of her body
+Dialogue: 0,0:34:47.47,0:34:49.11,Yamazaki,,0,0,0,,I think it encompasses all of it
+Dialogue: 0,0:34:49.11,0:34:51.88,Matsumoto,,0,0,0,,All? That's impossible
+Dialogue: 0,0:34:53.14,0:34:54.99,Tanaka,,0,0,0,,That'd make her a monster
+Dialogue: 0,0:34:54.99,0:34:56.58,Matsumoto,,0,0,0,,Where's her body then?
+Dialogue: 0,0:34:56.68,0:35:01.97,Default,,0,0,0,,-6:00 p.m.,\N(4 hours past)-
+Dialogue: 0,0:35:01.97,0:35:06.68,Narrator,,0,0,0,,The sun goes down, and the taxi finally takes them to the inn
+Dialogue: 0,0:35:07.87,0:35:10.12,Fujiwara,,0,0,0,,This is the inn
+Dialogue: 0,0:35:11.70,0:35:15.22,Narrator,,0,0,0,,They are staying at this inn
+Dialogue: 0,0:35:16.12,0:35:19.28,Narrator,,0,0,0,,What awaits them?
+Dialogue: 0,0:35:20.45,0:35:25.71,Default,,0,0,0,,{\pos(1176.338,445.5)\c&H4445FF&\3c&H0FB4F9&}A pair of slippers glued to the floor
+Dialogue: 0,0:35:22.10,0:35:24.10,Fujiwara,,0,0,0,,Come in
+Dialogue: 0,0:35:24.11,0:35:25.15,Fujiwara,,0,0,0,,Good evening
+Dialogue: 0,0:35:26.11,0:35:27.11,Yamazaki,,0,0,0,,Good evening
+Dialogue: 0,0:35:27.33,0:35:29.56,Hamada,,0,0,0,,My ass is sore...
+Dialogue: 0,0:35:37.27,0:35:38.89,Default,,0,0,0,,{\pos(1460.282,333)}[You fell for an old trick.]
+Dialogue: 0,0:35:49.62,0:35:51.60,Default,,0,0,0,,{\pos(1478.31,330.75)}[What about LA!]
+Dialogue: 0,0:35:57.46,0:36:04.65,Default,,0,0,0,,{\pos(793.239,864)}{\b1\fnArial Black\fs63}(The female hitchhiker is having trouble with the desk clerk.)
+Dialogue: 0,0:35:57.47,0:35:59.47,Normal,,0,0,0,,--You need a reservation
+Dialogue: 0,0:36:01.77,0:36:04.77,Normal,,0,0,0,,You can't stay here without having a reservation first
+Dialogue: 0,0:36:12.42,0:36:13.42,Hamada,,0,0,0,,Give me a break
+Dialogue: 0,0:36:24.65,0:36:26.90,Fujiwara,,0,0,0,,Let's go to your room
+Dialogue: 0,0:36:27.13,0:36:29.01,Hamada,,0,0,0,,This is a nice inn.
+Dialogue: 0,0:36:28.60,0:36:29.60,Yamazaki,,0,0,0,,--Yeah
+Dialogue: 0,0:36:31.80,0:36:33.80,Yamazaki,,0,0,0,,Can't wait, really
+Dialogue: 0,0:36:33.80,0:36:37.74,Fujiwara,,0,0,0,,This is your room
+Dialogue: 0,0:36:37.74,0:36:39.16,Fujiwara,,0,0,0,,Isn't it a nice room?
+Dialogue: 0,0:36:39.16,0:36:41.68,Hamada,,0,0,0,,We aren't there yet
+Dialogue: 0,0:36:43.65,0:36:45.22,Default,,0,0,0,,{\pos(1394.93,348.75)}[He's just memorized the script.]
+Dialogue: 0,0:36:46.75,0:36:48.86,Fujiwara,,0,0,0,,What a nice room
+Dialogue: 0,0:36:48.86,0:36:51.94,Hamada,,0,0,0,,This really is a nice room
+Dialogue: 0,0:36:51.94,0:36:54.73,Fujiwara,,0,0,0,,The scroll has a welcoming message
+Dialogue: 0,0:36:55.39,0:36:59.23,Default,,0,0,0,,Feature ramen or animals for a high rating.\N--Suga Kenji--
+Dialogue: 0,0:36:59.23,0:37:07.34,Fujiwara,,0,0,0,,I'm leaving, the serving lady will take care of you
+Dialogue: 0,0:36:59.70,0:37:01.70,Default,,0,0,0,,{\pos(1453.521,326.25)}[So enlightening]
+Dialogue: 0,0:37:09.13,0:37:11.51,Yamazaki,,0,0,0,,I want to take a piss
+Dialogue: 0,0:37:11.08,0:37:12.08,Hamada,,0,0,0,,Me too
+Dialogue: 0,0:37:12.03,0:37:13.58,Yamazaki,,0,0,0,,Shall we go?
+Dialogue: 0,0:37:20.13,0:37:23.42,Hamada,,0,0,0,,There must be a trick in here
+Dialogue: 0,0:37:28.86,0:37:29.86,Hamada,,0,0,0,,Why?!
+Dialogue: 0,0:37:36.47,0:37:39.77,Yamazaki,,0,0,0,,Hey!, this is wrong am Yamazaki, he said "Hamada Out"
+Dialogue: 0,0:37:40.51,0:37:42.51,Yamazaki,,0,0,0,,Wait! wait!, this is wrong!
+Dialogue: 0,0:37:44.71,0:37:45.71,Yamazaki,,0,0,0,,Why?!
+Dialogue: 0,0:37:46.15,0:37:48.15,Yamazaki,,0,0,0,,It was Hamada-san who laughed
+Dialogue: 0,0:37:44.64,0:37:46.64,Default,,0,0,0,,{\pos(984.789,846)}{\b1\fnArial Black\fs63}Yamazaki was punished instead of Hamada
+Dialogue: 0,0:37:49.52,0:37:51.52,Yamazaki,,0,0,0,,What the hell?!
+Dialogue: 0,0:37:52.12,0:37:54.12,Yamazaki,,0,0,0,,I didn't laugh at all
+Dialogue: 0,0:37:58.29,0:38:00.29,Tanaka,,0,0,0,,We were in the bathroom
+Dialogue: 0,0:37:59.63,0:38:01.63,Yamazaki,,0,0,0,,--You laughed right?
+Dialogue: 0,0:38:01.93,0:38:04.93,Hamada,,0,0,0,,Not really, I was only commenting on something, and they mistook it for a laugher
+Dialogue: 0,0:38:05.23,0:38:07.23,Yamazaki,,0,0,0,,But I heard the Judge
+Dialogue: 0,0:38:07.60,0:38:09.60,Yamazaki,,0,0,0,,He called you out...
+Dialogue: 0,0:38:17.64,0:38:19.65,Yamazaki,,0,0,0,,It's true
+Dialogue: 0,0:38:21.18,0:38:23.18,Hamada,,0,0,0,,Wait a minute...
+Dialogue: 0,0:38:30.59,0:38:32.59,Hamada,,0,0,0,,What are you saying?
+Dialogue: 0,0:38:32.19,0:38:35.49,Yamazaki,,0,0,0,,--After he called you out, the punisher came in here and hit me
+Dialogue: 0,0:38:39.53,0:38:41.53,Hamada,,0,0,0,,Will you just cut it out
+Dialogue: 0,0:38:51.61,0:38:53.21,Yamazaki,,0,0,0,,That was loud
+Dialogue: 0,0:38:56.52,0:38:58.52,Hamada,,0,0,0,,It hurts really bad
+Dialogue: 0,0:39:00.12,0:39:02.49,Yamazaki,,0,0,0,,It was really loud too
+Dialogue: 0,0:39:07.23,0:39:10.53,Narrator,,0,0,0,,{\b1\fnArial Black\fs63\c&H4445FF&\3c&H1D1EBA&\pos(928.451,850.5)}There's something in the Hot spring pamphlet{\b0}
+Dialogue: 0,0:39:06.66,0:39:09.43,Narrator,,0,0,0,,Yamazaki picks up the Hot springs pamphlet
+Dialogue: 0,0:39:09.66,0:39:18.04,Narrator,,0,0,0,,inside there are introductions by famous people that stayed at the inn.  Included also is a part by chief producer Suga
+Dialogue: 0,0:39:19.20,0:39:23.41,Default,,0,0,0,,{\pos(1106.479,967.5)}-Producer Suga-\NHe is a genius producer who produced many hit programs. \N He loves Yugawara very much which is \Nwhy he features Yugawara in many of his programs.  \NSince he was younger he always dreamed about the onsen baths.  \NHis brain cells become so flexible because of the onsen steam.
+Dialogue: 0,0:39:26.15,0:39:28.15,Default,,0,0,0,,{\pos(486.761,324)}[You had to read them in order]
+Dialogue: 0,0:39:35.69,0:39:37.69,Yamazaki,,0,0,0,,Not so rough!
+Dialogue: 0,0:39:46.13,0:39:48.73,Default,,0,0,0,,{\pos(527.324,366.75)}[When I see someone else getting hit\NI think I shouldn't laugh]
+Dialogue: 0,0:39:49.60,0:39:52.61,Yamazaki,,0,0,0,,Hamada-san, take a look at this
+Dialogue: 0,0:39:50.47,0:39:55.47,Default,,0,0,0,,{\pos(982.535,888.75)}{\b1\fnArial Black\fs63}Yamazaki wants to trick Hamada by \Nshowing him Suga's fake introduction
+Dialogue: 0,0:39:55.17,0:39:55.94,Hamada,,0,0,0,,It's beautiful
+Dialogue: 0,0:39:56.08,0:39:58.34,Yamazaki,,0,0,0,,--Yes it really is
+Dialogue: 0,0:39:58.91,0:40:00.61,Hamada,,0,0,0,,They even have this shape
+Dialogue: 0,0:40:02.11,0:40:03.72,Hamada,,0,0,0,,Even an out door bath
+Dialogue: 0,0:40:23.34,0:40:25.34,Hamada,,0,0,0,,You bastard...
+Dialogue: 0,0:40:40.85,0:40:42.86,Default,,0,0,0,,{\pos(538.592,337.5)}[Why do you look bland?!]
+Dialogue: 0,0:40:42.39,0:40:43.39,Hamada,,0,0,0,,That was pretty surprising
+Dialogue: 0,0:40:44.69,0:40:46.19,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,0:40:46.26,0:40:48.26,Tanaka,,0,0,0,,--Yes it was
+Dialogue: 0,0:40:48.93,0:40:52.57,Yamazaki,,0,0,0,,I think we have to be more careful
+Dialogue: 0,0:40:51.86,0:40:52.86,Normal,,0,0,0,,--Excuse me
+Dialogue: 0,0:40:53.02,0:40:56.23,Default,,0,0,0,,{\pos(969.014,841.5)}{\b1\fnArial Black\fs63}Seemingly ordinary serving lady
+Dialogue: 0,0:40:54.90,0:40:59.57,Pink,,0,0,0,,We have some Japanese bathrobes for you to change into
+Dialogue: 0,0:41:02.26,0:41:06.05,Pink,,0,0,0,,We have 2 sizes, M and L.
+Dialogue: 0,0:41:06.05,0:41:08.43,Pink,,0,0,0,,Tanaka-san, which will it be?
+Dialogue: 0,0:41:08.43,0:41:11.02,Tanaka,,0,0,0,,Ah... an L, please.
+Dialogue: 0,0:41:11.02,0:41:12.67,Pink,,0,0,0,,Yes, sir.
+Dialogue: 0,0:41:12.67,0:41:15.27,Pink,,0,0,0,,Yamasaki-san?
+Dialogue: 0,0:41:13.45,0:41:14.45,Yamazaki,,0,0,0,,I'll take an M
+Dialogue: 0,0:41:16.40,0:41:18.83,Pink,,0,0,0,,Lip Monster-san?
+Dialogue: 0,0:41:19.92,0:41:23.01,Pink,,0,0,0,,Which would you like, Lip Monster-san?
+Dialogue: 0,0:41:28.87,0:41:30.87,Hamada,,0,0,0,,What, for real?!
+Dialogue: 0,0:41:42.48,0:41:44.48,Pink,,0,0,0,,Oh I forgot, let me show you something...
+Dialogue: 0,0:41:44.78,0:41:47.78,Pink,,0,0,0,,we have an introductory video of our Inn, please watch it
+Dialogue: 0,0:41:49.29,0:41:54.09,Normal,,0,0,0,,{\pos(946.479,488.25)\fnArial Black\fs81}Hot Spring Inn Guide
+Dialogue: 0,0:41:50.36,0:41:52.36,Pink,,0,0,0,,Please take your time and watch it
+Dialogue: 0,0:41:57.03,0:42:01.63,Normal,,0,0,0,,{\pos(1189.859,1008)\fn\fs81}Host          \NEndo Shozo
+Dialogue: 0,0:41:56.20,0:42:00.23,Endo,,0,0,0,,Now we will introduce this Hot spring inn
+Dialogue: 0,0:42:04.77,0:42:07.17,Endo,,0,0,0,,Eh...everyone often
+Dialogue: 0,0:42:08.07,0:42:10.07,Endo,,0,0,0,,comes with their family and kids
+Dialogue: 0,0:42:11.21,0:42:15.21,Endo,,0,0,0,,and spend a lot on Sushi etc
+Dialogue: 0,0:42:17.62,0:42:22.62,Endo,,0,0,0,,I'm going to introduce, hey you!
+Dialogue: 0,0:42:22.99,0:42:26.99,Default,,0,0,0,,{\pos(1462.535,360)}[Endo went to Yugawara\N alone just for this]
+Dialogue: 0,0:42:10.18,0:42:12.18,Default,,0,0,0,,{\pos(1419.718,337.5)}[I'm seeing this for the first time]
+Dialogue: 0,0:42:43.21,0:42:44.24,Tanaka,,0,0,0,,It stopped
+Dialogue: 0,0:42:44.84,0:42:50.85,Default,,0,0,0,,{\pos(982.535,830.25)}{\b1\fnArial Black\fs63}Endo's Takeshi Kitano Onsen Guide starts again
+Dialogue: 0,0:43:01.46,0:43:04.46,Endo,,0,0,0,,It was kinda long
+Dialogue: 0,0:43:05.00,0:43:06.70,Default,,0,0,0,,{\pos(1471.549,337.5)}He filmed a long vtr
+Dialogue: 0,0:43:03.26,0:43:04.56,Default,,0,0,0,,{\pos(1485.07,328.5)}Quite long
+Dialogue: 0,0:43:01.46,0:43:04.46,Default,,0,0,0,,{\fnArial Black\fs63\b1\pos(1189.859,801)}5 Minutes later...{\b1}
+Dialogue: 0,0:43:06.20,0:43:08.20,Endo,,0,0,0,,That's incredible!
+Dialogue: 0,0:43:09.54,0:43:11.94,Endo,,0,0,0,,This is the main hall, yea
+Dialogue: 0,0:43:20.41,0:43:22.35,Default,,0,0,0,,{\pos(1476.056,335.25)}[How cheap]
+Dialogue: 0,0:43:22.48,0:43:27.48,Default,,0,0,0,,{\fnArial Black\fs63\b1\pos(1189.859,801)}10 Minutes later...
+Dialogue: 0,0:43:24.75,0:43:28.35,Endo,,0,0,0,,Hey honey, where are you from?
+Dialogue: 0,0:43:38.80,0:43:38.90,Endo,,0,0,0,,Eh?
+Dialogue: 0,0:43:43.77,0:43:45.77,Tanaka,,0,0,0,,I made it through...
+Dialogue: 0,0:43:45.82,0:43:47.20,Hamada,,0,0,0,,They actually made this video
+Dialogue: 0,0:43:50.30,0:43:55.78,Narrator,,0,0,0,,Meanwhile, the mastermind of this batsu, Matsumoto arrives at the inn.
+Dialogue: 0,0:43:56.66,0:43:58.45,Matsumoto,,0,0,0,,Good evening
+Dialogue: 0,0:43:59.49,0:44:00.49,Matsumoto,,0,0,0,,This is amazing
+Dialogue: 0,0:44:00.39,0:44:07.39,Matsumoto,,0,0,0,,{\pos(531.831,164.25)}Headquarters
+Dialogue: 0,0:44:02.02,0:44:04.50,Matsumoto,,0,0,0,,Look at this place
+Dialogue: 0,0:44:04.61,0:44:08.30,Matsumoto,,0,0,0,,You guys are really desperate to punish them.
+Dialogue: 0,0:44:08.65,0:44:16.42,Default,,0,0,0,,-7:00 p.m.\N(5 hours past)-
+Dialogue: 0,0:44:16.42,0:44:21.69,Narrator,,0,0,0,,They've changed their clothes and are lounging peacefully
+Dialogue: 0,0:44:21.69,0:44:24.18,Narrator,,0,0,0,,but It won't last long
+Dialogue: 0,0:44:36.94,0:44:43.15,Default,,0,0,0,,{\pos(466.479,1019.25)}C3PO\N(Producer Nakamura)-
+Dialogue: 0,0:44:45.63,0:44:52.63,Default,,0,0,0,,{\pos(461.972,1008)}C3PO\N (Producer Nakamura)
+Dialogue: 0,0:44:45.63,0:44:52.51,Default,,0,0,0,,{\pos(766.197,1008)}R2D2\N(Director Ohnuma)-
+Dialogue: 0,0:44:48.51,0:44:51.72,Default,,0,0,0,,{\pos(592.676,321.75)}[Why does R2D2 look so lousy?]
+Dialogue: 0,0:44:53.72,0:44:56.76,Default,,0,0,0,,{\pos(646.761,324)}[They probably spent all the money on C3PO.]
+Dialogue: 0,0:45:16.33,0:45:28.71,Default,,0,0,0,,{\pos(493.521,1014.75)}Darth Vader\N(Old lady 1)
+Dialogue: 0,0:46:11.24,0:46:13.42,Default,,0,0,0,,{\pos(527.324,357.75)}[Hurts more in a robe?]\N--[Yes.]
+Dialogue: 0,0:46:13.84,0:46:15.85,Yamazaki,,0,0,0,,Hamada-san also laughed!
+Dialogue: 0,0:46:16.19,0:46:17.19,Hamada,,0,0,0,,--No I didn't
+Dialogue: 0,0:46:23.98,0:46:26.90,Hamada,,0,0,0,,That's a false accusation
+Dialogue: 0,0:46:27.16,0:46:28.87,Yamazaki,,0,0,0,,Was it my imagination?
+Dialogue: 0,0:46:34.75,0:46:39.21,Default,,0,0,0,,-8:00 p.m., (6 hours past)-
+Dialogue: 0,0:46:40.01,0:46:42.01,Hamada,,0,0,0,,What time is it?
+Dialogue: 0,0:46:43.28,0:46:45.28,Default,,0,0,0,,{\pos(982.535,830.25)}{\b1\fnArial Black\fs63}The room has no clock
+Dialogue: 0,0:46:42.81,0:46:48.41,Yamazaki,,0,0,0,,I think it's about ... 7:00
+Dialogue: 0,0:46:48.44,0:46:53.01,Hamada,,0,0,0,,Might be a little past?
+Dialogue: 0,0:46:53.81,0:46:56.41,Yamazaki,,0,0,0,,I'm starving
+Dialogue: 0,0:46:58.41,0:47:00.91,Yamazaki,,0,0,0,,I eat like a horse these days
+Dialogue: 0,0:47:00.83,0:47:01.53,Tanaka,,0,0,0,,--Really?
+Dialogue: 0,0:47:01.31,0:47:03.11,Yamazaki,,0,0,0,,It's because I quit smoking
+Dialogue: 0,0:47:02.74,0:47:03.74,Tanaka,,0,0,0,,--Ah I see
+Dialogue: 0,0:47:04.84,0:47:05.71,Yamazaki,,0,0,0,,What about you?
+Dialogue: 0,0:47:05.80,0:47:06.80,Hamada,,0,0,0,,I did too
+Dialogue: 0,0:47:07.11,0:47:08.71,Yamazaki,,0,0,0,,So I eat a lot
+Dialogue: 0,0:47:10.41,0:47:13.11,Tanaka,,0,0,0,,When did you quit smoking?
+Dialogue: 0,0:47:13.51,0:47:14.61,Yamazaki,,0,0,0,,About 2 months ago
+Dialogue: 0,0:47:18.01,0:47:20.61,Tanaka,,0,0,0,,I really want to quit, too
+Dialogue: 0,0:47:23.11,0:47:24.91,Yamazaki,,0,0,0,,I don't think you want to quit
+Dialogue: 0,0:47:25.22,0:47:26.92,Tanaka,,0,0,0,,That's true, but...
+Dialogue: 0,0:47:26.92,0:47:31.72,Tanaka,,0,0,0,,I need to switch to another brand\NI'm smoking a stronger one now
+Dialogue: 0,0:47:32.12,0:47:33.62,Yamazaki,,0,0,0,,What do you mean by "stronger"?
+Dialogue: 0,0:47:33.72,0:47:34.87,Tanaka,,0,0,0,,Magnitude
+Dialogue: 0,0:47:34.92,0:47:36.87,Yamazaki,,0,0,0,,Magnitude?
+Dialogue: 0,0:47:44.77,0:47:47.22,Yamazaki,,0,0,0,,What the hell is "magnitude"?
+Dialogue: 0,0:47:59.68,0:48:01.48,Hamada,,0,0,0,,"Magnitude" was a bad move, Tanaka
+Dialogue: 0,0:48:01.73,0:48:03.03,Yamazaki,,0,0,0,,You did it on purpose?
+Dialogue: 0,0:48:03.29,0:48:04.16,Tanaka,,0,0,0,,No
+Dialogue: 0,0:48:04.19,0:48:06.96,Yamazaki,,0,0,0,,If you did, that was lame
+Dialogue: 0,0:48:09.51,0:48:10.11,Default,,0,0,0,,{\pos(486.761,335.25)}[Hey.]
+Dialogue: 0,0:48:10.11,0:48:15.91,Default,,0,0,0,,{\pos(545.352,362.25)}[The gorilla is acting strange.\NIt's definitely acting funny.]
+Dialogue: 0,0:48:16.26,0:48:18.21,Default,,0,0,0,,{\pos(502.535,326.25)}[Look at its mouth.]
+Dialogue: 0,0:48:16.64,0:48:18.64,Tanaka,,0,0,0,,Magnitude
+Dialogue: 0,0:48:18.21,0:48:22.21,Default,,0,0,0,,{\pos(500.282,339.75)}[He's about to laugh.]
+Dialogue: 0,0:48:21.11,0:48:24.11,Tanaka,,0,0,0,,It's been affecting me a lot
+Dialogue: 0,0:48:26.31,0:48:28.83,Hamada,,0,0,0,,Cut it out!
+Dialogue: 0,0:48:30.58,0:48:35.28,Hamada,,0,0,0,,Just shut up! Why do you have to talk?!
+Dialogue: 0,0:48:44.43,0:48:48.08,Hamada,,0,0,0,,This is your fault, you kept talking
+Dialogue: 0,0:48:49.13,0:48:54.68,Tanaka,,0,0,0,,I didn't want him to think I did it on purpose
+Dialogue: 0,0:48:54.68,0:48:56.63,Tanaka,,0,0,0,,I just wanted to explain
+Dialogue: 0,0:48:56.63,0:49:02.13,Yamazaki,,0,0,0,,It's not grammatically correct, idiot
+Dialogue: 0,0:49:04.58,0:49:08.37,Yamazaki,,0,0,0,,Hamada-san, are you..
+Dialogue: 0,0:49:08.92,0:49:10.57,Hamada,,0,0,0,,What is it?
+Dialogue: 0,0:49:14.87,0:49:17.88,Default,,0,0,0,,{\pos(621.972,330.75)}[You should stop with the friendly fire.]
+Dialogue: 0,0:49:17.88,0:49:22.73,Default,,0,0,0,,{\pos(628.732,326.25)}[It's too early to be on the disabled list.]
+Dialogue: 0,0:49:28.08,0:49:29.31,Yamazaki,,0,0,0,,Why?!
+Dialogue: 0,0:49:29.31,0:49:30.56,Hamada,,0,0,0,,You had it coming!
+Dialogue: 0,0:49:30.66,0:49:33.26,Hamada,,0,0,0,,What's with the swing?
+Dialogue: 0,0:49:33.61,0:49:35.96,Yamazaki,,0,0,0,,I was just worried about your ass
+Dialogue: 0,0:49:37.81,0:49:40.46,Yamazaki,,0,0,0,,You replied in such a gentle voice!
+Dialogue: 0,0:49:47.51,0:49:49.63,Tanaka,,0,0,0,,What's up with that guy?
+Dialogue: 0,0:49:49.73,0:49:51.38,Hamada,,0,0,0,,He whips very hard
+Dialogue: 0,0:49:51.43,0:49:52.83,Tanaka,,0,0,0,,He does it every time
+Dialogue: 0,0:50:09.03,0:50:10.53,Hamada,,0,0,0,,Not again!
+Dialogue: 0,0:50:10.89,0:50:13.98,Default,,0,0,0,,{\pos(1113.239,873)}{\b1\fnArial Black\fs63}C3PO returns for a 2nd time
+Dialogue: 0,0:50:22.18,0:50:23.78,Hamada,,0,0,0,,It's cold
+Dialogue: 0,0:50:41.38,0:50:43.21,Hamada,,0,0,0,,He just left it open
+Dialogue: 0,0:50:53.76,0:50:57.31,Hamada,,0,0,0,,That Bastard
+Dialogue: 0,0:50:59.19,0:51:01.09,Hamada,,0,0,0,,They're doing it just to annoy us
+Dialogue: 0,0:51:10.89,0:51:18.56,Default,,0,0,0,,{\pos(1115.493,780.75)}{\b1\fnArial Black\fs63}C3PO returns for a 3rd time
+Dialogue: 0,0:51:38.56,0:51:40.28,Hamada,,0,0,0,,I can't...
+Dialogue: 0,0:51:40.33,0:51:41.93,Hamada,,0,0,0,,Please go easy on me
+Dialogue: 0,0:51:49.39,0:51:52.30,Hamada,,0,0,0,,It's throbbing
+Dialogue: 0,0:51:52.80,0:51:54.85,Hamada,,0,0,0,,And it's cold
+Dialogue: 0,0:52:00.38,0:52:02.58,Hamada,,0,0,0,,I wish they'd stop
+Dialogue: 0,0:52:13.38,0:52:16.83,Default,,0,0,0,,{\pos(1115.493,780.75)}{\b1\fnArial Black\fs63}C3PO returns for a 4th time
+Dialogue: 0,0:52:21.33,0:52:24.08,Hamada,,0,0,0,,Please, I'm begging you
+Dialogue: 0,0:52:27.28,0:52:29.43,Hamada,,0,0,0,,The music is enough to crack me up
+Dialogue: 0,0:52:29.48,0:52:31.79,Hamada,,0,0,0,,It's becoming a conditioned reflex
+Dialogue: 0,0:52:31.99,0:52:33.89,Yamazaki,,0,0,0,,Hang on, Hamada-san.
+Dialogue: 0,0:52:43.96,0:52:49.56,Default,,0,0,0,,9:00 pm\N(7 hours past)
+Dialogue: 0,0:52:52.61,0:52:55.86,Fujiwara,,0,0,0,,It's about time to bathe, you guys stink!
+Dialogue: 0,0:52:55.91,0:52:58.86,Fujiwara,,0,0,0,,Why not bathe in the hot spring?
+Dialogue: 0,0:53:00.36,0:53:02.46,Fujiwara,,0,0,0,,Do you want to take a bath?
+Dialogue: 0,0:53:00.91,0:53:02.51,Yamazaki,,0,0,0,,--I do
+Dialogue: 0,0:53:02.56,0:53:03.66,Fujiwara,,0,0,0,,Let's go then
+Dialogue: 0,0:53:04.71,0:53:06.56,Hamada,,0,0,0,,OK.
+Dialogue: 0,0:53:09.54,0:53:12.39,Fujiwara,,0,0,0,,Underground lies one of the finest hot springs
+Dialogue: 0,0:53:12.39,0:53:14.59,Fujiwara,,0,0,0,,So enjoy
+Dialogue: 0,0:53:15.74,0:53:20.99,Narrator,,0,0,0,,As they pass by, Matsumoto hides in the bathroom
+Dialogue: 0,0:53:21.14,0:53:24.01,Narrator,,0,0,0,,What is he planning?
+Dialogue: 0,0:53:31.11,0:53:37.71,Default,,0,0,0,,{\pos(1185.352,857.25)}{\b1\fnArial Black\fs63}Nukumizu (actor)\N happens to be in the changing room
+Dialogue: 0,0:53:40.34,0:53:42.04,Default,,0,0,0,,{\pos(513.803,247.5)}[That can't be]
+Dialogue: 0,0:53:51.38,0:53:53.38,Tanaka,,0,0,0,,He whipped my balls
+Dialogue: 0,0:53:54.28,0:53:55.28,Normal,,0,0,0,,"Works instantly"
+Dialogue: 0,0:53:56.18,0:54:02.18,Default,,0,0,0,,{\pos(910.423,891)}{\b1\fnArial Black\fs63}Nukumizu puts hair grower on his head
+Dialogue: 0,0:53:57.75,0:53:59.75,Normal,,0,0,0,,Hot!
+Dialogue: 0,0:54:08.23,0:54:10.23,Normal,,0,0,0,,Let me try this
+Dialogue: 0,0:54:09.70,0:54:17.70,Default,,0,0,0,,{\pos(910.423,891)}{\b1\fnArial Black\fs63}Nukumizu tries a different brand
+Dialogue: 0,0:54:37.22,0:54:40.97,Default,,0,0,0,,{\pos(1216.901,803.25)}{\b1\fnArial Black\fs63}Nukumizu is having\N difficulty tying his sash
+Dialogue: 0,0:54:45.90,0:54:46.90,Hamada,,0,0,0,,Please stop it
+Dialogue: 0,0:54:47.07,0:54:49.07,Yamazaki,,0,0,0,,Tanaka's laughing too
+Dialogue: 0,0:54:52.10,0:54:54.10,Yamazaki,,0,0,0,,ehh, Wait...
+Dialogue: 0,0:55:01.68,0:55:02.68,Hamada,,0,0,0,,It hurts!!
+Dialogue: 0,0:55:05.18,0:55:08.03,Fujiwara,,0,0,0,,Hey! Hold up there!
+Dialogue: 0,0:55:08.53,0:55:11.38,Fujiwara,,0,0,0,,What are you doing?  How many years\Nhave you been in the TV business?
+Dialogue: 0,0:55:12.28,0:55:14.33,Fujiwara,,0,0,0,,You can't be naked on "primetime" TV
+Dialogue: 0,0:55:14.38,0:55:17.08,Fujiwara,,0,0,0,,I have some "primetime" swim shorts for you to wear
+Dialogue: 0,0:55:16.80,0:55:17.80,Yamazaki,,0,0,0,,--If you say so...
+Dialogue: 0,0:55:18.28,0:55:20.58,Fujiwara,,0,0,0,,Hey, Tanaka!
+Dialogue: 0,0:55:22.88,0:55:28.63,Default,,0,0,0,,{\pos(957.746,861.75)}{\b1\fnArial Black\fs63}A middle-aged man is wearing\NTanaka's "primetime" swim shorts.
+Dialogue: 0,0:55:26.84,0:55:28.84,Tanaka,,0,0,0,,Are you for real?
+Dialogue: 0,0:55:36.17,0:55:38.55,Yamazaki,,0,0,0,,Who the hell are you?!
+Dialogue: 0,0:55:38.25,0:55:39.25,Yamazaki,,0,0,0,,Wait
+Dialogue: 0,0:55:39.58,0:55:41.19,Yamazaki,,0,0,0,,Easy, please go easy on me
+Dialogue: 0,0:55:41.22,0:55:42.76,Yamazaki,,0,0,0,,Please!
+Dialogue: 0,0:55:49.63,0:55:51.29,Fujiwara,,0,0,0,,Tanaka
+Dialogue: 0,0:55:51.78,0:55:53.53,Fujiwara,,0,0,0,,Put this on
+Dialogue: 0,0:55:56.17,0:55:58.27,Fujiwara,,0,0,0,,Next, Yamazaki
+Dialogue: 0,0:56:07.14,0:56:10.40,Fujiwara,,0,0,0,,Yamasaki, these are for you
+Dialogue: 0,0:56:11.50,0:56:13.70,Yamazaki,,0,0,0,,Why must they wear them first?
+Dialogue: 0,0:56:14.89,0:56:16.59,Fujiwara,,0,0,0,,Next, Hamada
+Dialogue: 0,0:56:21.95,0:56:22.45,Hamada,,0,0,0,,{\pos(1074.93,569.25)}(laughs)
+Dialogue: 0,0:56:40.85,0:56:42.85,Hamada,,0,0,0,,what the hell, he's not wearing anything!
+Dialogue: 0,0:56:49.19,0:56:51.69,Hamada,,0,0,0,,Why the hell is he naked?!
+Dialogue: 0,0:56:53.26,0:56:55.50,Yamazaki,,0,0,0,,Why no underwear?
+Dialogue: 0,0:56:55.23,0:56:56.23,Hamada,,0,0,0,,--yeah why?
+Dialogue: 0,0:57:06.82,0:57:08.60,Hamada,,0,0,0,,This is just wrong!
+Dialogue: 0,0:57:13.68,0:57:15.68,Hamada,,0,0,0,,cut it out! already!
+Dialogue: 0,0:57:18.45,0:57:22.29,Default,,0,0,0,,{\pos(534.085,371.25)}[Why did you keep putting\N your shorts back on?]
+Dialogue: 0,0:57:22.29,0:57:26.16,Default,,0,0,0,,{\pos(536.338,366.75)}[Don't keep putting them on!\NJust give them to me!]
+Dialogue: 0,0:57:44.69,0:57:47.27,Hamada,,0,0,0,,This can't be happening
+Dialogue: 0,0:57:59.39,0:58:00.66,Default,,0,0,0,,{\pos(477.746,339.75)}[That's digusting!]
+Dialogue: 0,0:58:04.83,0:58:06.93,Default,,0,0,0,,{\pos(461.972,328.5)}[Bare ass.]
+Dialogue: 0,0:58:06.94,0:58:13.85,Default,,0,0,0,,{\pos(565.634,330.75)}[You farted on us with your bare ass.]
+Dialogue: 0,0:58:20.74,0:58:23.19,Hamada,,0,0,0,,He's insane!
+Dialogue: 0,0:58:31.66,0:58:33.53,Default,,0,0,0,,{\pos(1397.183,337.5)}[The ball came from nowhere.]
+Dialogue: 0,0:58:43.80,0:58:47.81,Default,,0,0,0,,{\pos(903.662,85.5)}Note: Pro golfer Saru(Monkey) is a classic cartoon & video game character
+Dialogue: 0,0:58:43.14,0:58:47.74,Default,,0,0,0,,{\pos(957.746,861.75)}{\b1\fnArial Black\fs63}Pro Golfer Monkey (Old Lady. 1)
+Dialogue: 0,0:58:51.51,0:58:55.15,Default,,0,0,0,,{\pos(1327.324,337.5)}[She must've plopped the ball into the bath.]
+Dialogue: 0,0:58:55.21,0:58:57.75,Default,,0,0,0,,{\pos(1460.282,337.5)}[How many strokes?]
+Dialogue: 0,0:58:57.75,0:58:58.65,Default,,0,0,0,,{\pos(1473.803,337.5)}[Why?]
+Dialogue: 0,0:59:07.96,0:59:15.17,Default,,0,0,0,,{\pos(1491.831,335.25)}[Why?!]
+Dialogue: 0,0:59:15.18,0:59:17.18,Yamazaki,,0,0,0,,Why did she kiss him?
+Dialogue: 0,0:59:26.38,0:59:29.75,Default,,0,0,0,,{\pos(1406.197,335.25)}[You were laughing from the pain.]
+Dialogue: 0,0:59:39.69,0:59:43.03,Matsumoto,,0,0,0,,They really put the camera at a bad place for Tanaka.
+Dialogue: 0,0:59:45.03,0:59:46.57,Matsumoto,,0,0,0,,He can't even relax
+Dialogue: 0,0:59:49.90,0:59:52.37,Matsumoto,,0,0,0,,He looks like a Gunji Hiyoronka (Military spokesman)
+Dialogue: 0,0:59:56.26,1:00:00.16,Default,,0,0,0,,{\pos(957.746,879.75)}{\b1\fnArial Black\fs63}Hamada is instructed to put on an Afro wig
+Dialogue: 0,1:00:14.59,1:00:17.44,Default,,0,0,0,,{\pos(567.887,326.25)}[That laugh should have counted!]
+Dialogue: 0,1:00:39.45,1:00:43.16,Hamada,,0,0,0,,Inside of the basket, this wig didn't look so big
+Dialogue: 0,1:00:43.89,1:00:46.16,Hamada,,0,0,0,,I knew it wouldn't be a regular afro
+Dialogue: 0,1:00:48.69,1:00:50.70,Yamazaki,,0,0,0,,So that's an "Afro"
+Dialogue: 0,1:00:50.90,1:00:52.90,Yamazaki,,0,0,0,,Isn't it hot?
+Dialogue: 0,1:00:52.80,1:00:54.80,Yamazaki,,0,0,0,,Why is it hot in here?
+Dialogue: 0,1:00:56.37,1:00:57.27,Tanaka,,0,0,0,,I wonder why
+Dialogue: 0,1:00:58.80,1:01:04.01,Hamada,,0,0,0,,I just washed my hair, this is bad
+Dialogue: 0,1:01:07.85,1:01:09.38,Hamada,,0,0,0,,It's hot
+Dialogue: 0,1:01:22.74,1:01:24.94,Default,,0,0,0,,{\pos(509.296,333)}[We acted alike.]
+Dialogue: 0,1:01:24.94,1:01:29.14,Default,,0,0,0,,{\pos(615.211,330.75)}[We were desperately trying not to laugh.]
+Dialogue: 0,1:01:40.92,1:01:44.45,Tanaka,,0,0,0,,Please stop staring at me like that
+Dialogue: 0,1:01:42.72,1:01:43.72,Hamada,,0,0,0,,--Huh?
+Dialogue: 0,1:01:52.34,1:01:55.64,Default,,0,0,0,,{\pos(554.366,333)}[It accumulates, doesn't it?]
+Dialogue: 0,1:01:56.16,1:01:57.94,Tanaka,,0,0,0,,Weren't you staring at me for awhile?
+Dialogue: 0,1:02:00.80,1:02:02.45,Tanaka,,0,0,0,,Weren't you?
+Dialogue: 0,1:02:02.45,1:02:03.55,Yamazaki,,0,0,0,,He was
+Dialogue: 0,1:02:03.55,1:02:04.50,Yamazaki,,0,0,0,,He sure was
+Dialogue: 0,1:02:11.31,1:02:12.71,Fujiwara,,0,0,0,,Hamada you suck!
+Dialogue: 0,1:02:13.01,1:02:15.01,Fujiwara,,0,0,0,,Remove that wig now!
+Dialogue: 0,1:02:16.28,1:02:17.28,Fujiwara,,0,0,0,,Die!
+Dialogue: 0,1:02:29.80,1:02:30.73,Hamada,,0,0,0,,It messed up my hair
+Dialogue: 0,1:02:31.33,1:02:32.33,Fujiwara,,0,0,0,,Die!
+Dialogue: 0,1:02:36.94,1:02:39.37,Default,,0,0,0,,10:00 pm\N(8 hours past)
+Dialogue: 0,1:02:39.54,1:02:44.51,Narrator,,0,0,0,,A usual guest is coming to visit the 3 men in their room
+Dialogue: 0,1:02:48.74,1:02:50.41,Yamazaki,,0,0,0,,Yes?
+Dialogue: 0,1:02:51.45,1:02:53.60,Normal,,0,0,0,,Good Evening
+Dialogue: 0,1:02:56.26,1:02:57.96,Normal,,0,0,0,,I went to a wedding nearby
+Dialogue: 0,1:02:58.49,1:03:02.49,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(905.915,497.25)}Fukawa Ryo\N(Comedian)
+Dialogue: 0,1:02:58.11,1:03:02.94,Normal,,0,0,0,,So I decided to drop by to say hello
+Dialogue: 0,1:03:04.08,1:03:06.88,Normal,,0,0,0,,And cheer you up
+Dialogue: 0,1:03:06.88,1:03:09.27,Normal,,0,0,0,,How are you holding up?
+Dialogue: 0,1:03:09.27,1:03:10.88,Normal,,0,0,0,,You look tired
+Dialogue: 0,1:03:18.62,1:03:20.80,Normal,,0,0,0,,Are you all right?
+Dialogue: 0,1:03:20.02,1:03:22.40,Black,,0,0,0,,--Fukawa-kun
+Dialogue: 0,1:03:22.88,1:03:23.60,Normal,,0,0,0,,What?
+Dialogue: 0,1:03:23.95,1:03:26.85,Black,,0,0,0,,Please let me hear that "old saying" again
+Dialogue: 0,1:03:27.25,1:03:30.15,Normal,,0,0,0,,That speech is only for that occasion
+Dialogue: 0,1:03:30.70,1:03:32.80,Black,,0,0,0,,Please let me hear that speech again
+Dialogue: 0,1:03:32.80,1:03:36.56,Normal,,0,0,0,,It's only for...
+Dialogue: 0,1:03:35.73,1:03:37.73,Black,,0,0,0,,--Just one time please
+Dialogue: 0,1:03:36.57,1:03:38.73,Normal,,0,0,0,,All right, promise me you'll leave right after
+Dialogue: 0,1:03:40.84,1:03:47.54,Normal,,0,0,0,,An old adage says there are 3 sacks\Nvital for a happy marriage
+Dialogue: 0,1:03:47.54,1:03:49.14,Normal,,0,0,0,,Firstly,
+Dialogue: 0,1:03:49.14,1:03:50.93,Normal,,0,0,0,,the sack of nuts
+Dialogue: 0,1:03:53.08,1:03:54.89,Black,,0,0,0,,The sack of nuts!
+Dialogue: 0,1:03:54.89,1:03:57.69,Black,,0,0,0,,And it's the very first one!
+Dialogue: 0,1:04:00.16,1:04:03.56,Black,,0,0,0,,Once more, please
+Dialogue: 0,1:04:01.22,1:04:02.22,Normal,,0,0,0,,--no way
+Dialogue: 0,1:04:05.18,1:04:07.17,Normal,,0,0,0,,Sorry, everyone
+Dialogue: 0,1:04:10.73,1:04:13.67,Normal,,0,0,0,,Didn't you get what you wanted?
+Dialogue: 0,1:04:13.67,1:04:15.39,Gray,,0,0,0,,Hey
+Dialogue: 0,1:04:17.39,1:04:19.44,Gray,,0,0,0,,May I hear your "one phrase" joke?
+Dialogue: 0,1:04:22.81,1:04:25.86,Gray,,0,0,0,,Let me hear it once more, please
+Dialogue: 0,1:04:25.94,1:04:28.73,Normal,,0,0,0,,OK, only if you leave immediately after hearing it
+Dialogue: 0,1:04:28.73,1:04:31.68,Normal,,0,0,0,,Does it matter if the Chinese characters reads Hagiwara or Ogiwara?
+Dialogue: 0,1:04:33.98,1:04:38.13,Gray,,0,0,0,,Ogiwara or Hagiwara!
+Dialogue: 0,1:04:38.13,1:04:39.89,Normal,,0,0,0,,Are you satisfied now?
+Dialogue: 0,1:04:44.42,1:04:50.67,Gray,,0,0,0,,Ogiwara or Hagiwara!
+Dialogue: 0,1:04:47.17,1:04:50.17,Black,,0,0,0,,--Let me hear that speech again
+Dialogue: 0,1:04:54.97,1:04:58.93,Yamazaki,,0,0,0,,You guys are too persistent!
+Dialogue: 0,1:04:58.93,1:05:01.00,Tanaka,,0,0,0,,Take them out!
+Dialogue: 0,1:05:12.09,1:05:18.04,Narrator,,0,0,0,,Matsumoto once again devices a plan to bring more misery upon them
+Dialogue: 0,1:05:22.79,1:05:24.81,Tanaka,,0,0,0,,You scared me
+Dialogue: 0,1:05:24.81,1:05:26.61,Matsumoto,,0,0,0,,It's Matsumoto-Kyoto
+Dialogue: 0,1:05:29.21,1:05:31.06,Matsumoto,,0,0,0,,How its going?
+Dialogue: 0,1:05:31.06,1:05:33.16,Matsumoto,,0,0,0,,How's it going-rolling?
+Dialogue: 0,1:05:34.95,1:05:40.02,Matsumoto,,0,0,0,,You're moving faster than we did on any batsu game we've done so far
+Dialogue: 0,1:05:48.72,1:05:50.12,Matsumoto,,0,0,0,,You wanna drink water-later?
+Dialogue: 0,1:05:50.12,1:05:53.97,Default,,0,0,0,,{\pos(955.493,850.5)}{\b1\fnArial Black\fs63}Matsumoto can't contain his laughter
+Dialogue: 0,1:06:03.72,1:06:05.42,Yamazaki,,0,0,0,,What's that all about?
+Dialogue: 0,1:06:08.37,1:06:10.43,Yamazaki,,0,0,0,,What are you doing?
+Dialogue: 0,1:06:14.05,1:06:16.62,Matsumoto,,0,0,0,,I'm here to lift up your spirits
+Dialogue: 0,1:06:16.62,1:06:19.23,Matsumoto,,0,0,0,,Why do you look annoyed?
+Dialogue: 0,1:06:19.23,1:06:22.33,Matsumoto,,0,0,0,,Tell me why-shy-thy
+Dialogue: 0,1:06:22.33,1:06:26.96,Matsumoto,,0,0,0,,I'm here to help you
+Dialogue: 0,1:06:28.16,1:06:31.11,Hamada,,0,0,0,,Why can't you speak normally?
+Dialogue: 0,1:06:32.46,1:06:34.56,Matsumoto,,0,0,0,,I am speaking normally-formally
+Dialogue: 0,1:06:44.04,1:06:47.23,Matsumoto,,0,0,0,,You know, I've got something for you
+Dialogue: 0,1:06:47.23,1:06:50.73,Matsumoto,,0,0,0,,I wanna know what you think of these
+Dialogue: 0,1:06:50.12,1:06:51.02,Yamazaki,,0,0,0,,--What's in there?
+Dialogue: 0,1:06:51.03,1:06:55.78,Matsumoto,,0,0,0,,Just take a look at these-cheese
+Dialogue: 0,1:06:58.03,1:07:03.67,Default,,0,0,0,,{\pos(588.169,1010.25)}Kuwano Nobuyoshi's (comedian)\NDriver's License.
+Dialogue: 0,1:06:58.43,1:07:12.41,Default,,0,0,0,,{\pos(987.042,191.25)}Note: A gold license is given out to people who don’t\Nhave any points on their current driving license,\Nthis is an achievement usually limited to “paper” drivers – those who have a license but never actually drive!
+Dialogue: 0,1:07:12.51,1:07:15.41,Yamazaki,,0,0,0,,He's got a gold card!
+Dialogue: 0,1:07:22.95,1:07:24.82,Matsumoto,,0,0,0,,I'm sorry
+Dialogue: 0,1:07:26.01,1:07:27.01,Matsumoto,,0,0,0,,I just wanted you to see it
+Dialogue: 0,1:07:27.03,1:07:30.18,Matsumoto,,0,0,0,,Maybe you'll find this funny
+Dialogue: 0,1:07:31.18,1:07:37.12,Default,,0,0,0,,{\pos(1104.225,978.75)}Banjo Eiji (TV Talent)
+Dialogue: 0,1:07:34.12,1:07:37.61,Matsumoto,,0,0,0,,You think this ... No? OK
+Dialogue: 0,1:07:40.10,1:07:42.54,Matsumoto,,0,0,0,,It's for you, Hamada
+Dialogue: 0,1:07:44.32,1:07:47.92,Default,,0,0,0,,{\pos(1104.225,981)}Charlie Hama (Comedian)
+Dialogue: 0,1:07:51.03,1:07:53.45,Hamada,,0,0,0,,He looks so blank
+Dialogue: 0,1:07:53.89,1:07:56.96,Default,,0,0,0,,{\pos(597.183,339.75)}[Why do they've all have gold cards.]
+Dialogue: 0,1:08:00.66,1:08:04.73,Hamada,,0,0,0,,They hit the same spot over and over
+Dialogue: 0,1:08:06.93,1:08:09.88,Matsumoto,,0,0,0,,I really wish I could make them stop
+Dialogue: 0,1:08:10.53,1:08:13.23,Matsumoto,,0,0,0,,But it doesn't work that way-say-hey
+Dialogue: 0,1:08:14.57,1:08:15.31,Matsumoto,,0,0,0,,Try hard OK?
+Dialogue: 0,1:08:16.58,1:08:18.31,Matsumoto,,0,0,0,,You're not even half way yet
+Dialogue: 0,1:08:22.08,1:08:24.48,Matsumoto,,0,0,0,,You guys are kind of disgusting
+Dialogue: 0,1:08:31.16,1:08:34.76,Matsumoto,,0,0,0,,I just don't get it, what's so funny?\NWhy are you laughing?
+Dialogue: 0,1:08:35.46,1:08:37.46,Hamada,,0,0,0,,Go easy on me please
+Dialogue: 0,1:08:44.40,1:08:46.27,Matsumoto,,0,0,0,,See ya!
+Dialogue: 0,1:08:46.27,1:08:47.54,Yamazaki,,0,0,0,,Good bye-eye
+Dialogue: 0,1:08:47.64,1:08:48.64,Matsumoto,,0,0,0,,What?!
+Dialogue: 0,1:08:48.79,1:08:49.39,Matsumoto,,0,0,0,,You rhymed
+Dialogue: 0,1:08:49.40,1:08:50.89,Matsumoto,,0,0,0,,And Hamada laughed again
+Dialogue: 0,1:08:54.65,1:08:56.25,Hamada,,0,0,0,,Cut it out!
+Dialogue: 0,1:09:00.69,1:09:03.81,Matsumoto,,0,0,0,,I'll be leaving now
+Dialogue: 0,1:09:15.54,1:09:17.84,Hamada,,0,0,0,,He ate us alive
+Dialogue: 0,1:09:42.53,1:09:47.53,Default,,0,0,0,,{\pos(1433.239,992.25)}Darth Vader\N(Old lady.1)
+Dialogue: 0,1:10:47.69,1:10:49.40,Yamazaki,,0,0,0,,Are you alright?
+Dialogue: 0,1:10:52.23,1:10:54.23,Hamada,,0,0,0,,What's this?
+Dialogue: 0,1:10:53.57,1:10:57.57,Default,,0,0,0,,{\pos(962.254,891)}{\b1\fnArial Black\fs63}Darth Vader dropped a piece of his equipment
+Dialogue: 0,1:11:03.31,1:11:05.31,Yamazaki,,0,0,0,,We had enough
+Dialogue: 0,1:11:13.27,1:11:15.49,Default,,0,0,0,,11:00 pm\N(9 hours past)
+Dialogue: 0,1:11:15.49,1:11:18.88,Narrator,,0,0,0,,They haven't eaten any food ever since they arrived at Yugawara
+Dialogue: 0,1:11:18.93,1:11:23.20,Narrator,,0,0,0,,Maybe that's why they look so limp
+Dialogue: 0,1:11:30.92,1:11:31.92,Fujiwara,,0,0,0,,It stinks!
+Dialogue: 0,1:11:33.29,1:11:34.94,Fujiwara,,0,0,0,,You guys sure do stink!
+Dialogue: 0,1:11:34.95,1:11:39.34,Fujiwara,,0,0,0,,Since you keep demanding food...
+Dialogue: 0,1:11:39.35,1:11:43.16,Fujiwara,,0,0,0,,We'll get you some cho ... dinner
+Dialogue: 0,1:11:45.17,1:11:46.44,Fujiwara,,0,0,0,,You want it?
+Dialogue: 0,1:11:45.95,1:11:46.95,Yamazaki,,0,0,0,,--Yes of course
+Dialogue: 0,1:11:46.44,1:11:49.09,Fujiwara,,0,0,0,,You're pathetic!
+Dialogue: 0,1:11:50.50,1:11:55.35,Fujiwara,,0,0,0,,We'll have dinner and refresh ourselves
+Dialogue: 0,1:11:55.35,1:11:57.60,Hamada,,0,0,0,,OK?\N--OK.
+Dialogue: 0,1:12:03.04,1:12:08.04,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(588.169,1026)}Staying at the Inn\NIjiri Okada\N(Comedian)
+Dialogue: 0,1:12:08.06,1:12:09.51,Default,,0,0,0,,{\pos(484.507,328.5)}[This is weird.]
+Dialogue: 0,1:12:09.51,1:12:12.17,Default,,0,0,0,,{\pos(495.775,375.75)}[I don't understand\Nwhy he's there.]
+Dialogue: 0,1:12:12.17,1:12:14.28,Default,,0,0,0,,{\pos(491.268,335.25)}[Who called him?]
+Dialogue: 0,1:12:14.31,1:12:15.80,Hamada,,0,0,0,,What?!
+Dialogue: 0,1:12:16.18,1:12:19.39,Default,,0,0,0,,{\pos(980.282,841.5)}{\b1\fnArial Black\fs63}Hamada gets a child's plate
+Dialogue: 0,1:12:28.51,1:12:31.77,Hamada,,0,0,0,,For God's sake, give me some decent food
+Dialogue: 0,1:12:44.99,1:12:46.49,Hamada,,0,0,0,,What are you doing here, Ijiri?
+Dialogue: 0,1:12:46.49,1:12:49.54,Normal,,0,0,0,,I had a gig at a nearby bar, doing impersonation acts
+Dialogue: 0,1:12:58.15,1:13:02.45,Default,,0,0,0,,{\pos(980.282,841.5)}{\b1\fnArial Black\fs63}Tanaka spills his dinner
+Dialogue: 0,1:13:06.17,1:13:08.43,Default,,0,0,0,,{\pos(518.31,328.5)}[The lid wouldn't open.]
+Dialogue: 0,1:13:12.43,1:13:15.58,Default,,0,0,0,,{\c&H4445FF&\3c&H56CDFF&\b1\pos(1126.761,668.25)}Pantyhose
+Dialogue: 0,1:13:18.93,1:13:21.96,Default,,0,0,0,,{\pos(565.634,333)}[What did you think it was?!]
+Dialogue: 0,1:13:23.48,1:13:26.15,Default,,0,0,0,,{\pos(583.662,335.25)}[What made you think it was food?]
+Dialogue: 0,1:13:28.22,1:13:31.07,Default,,0,0,0,,{\pos(583.662,339.75)}[I thought it was dried bean curd.]
+Dialogue: 0,1:13:31.57,1:13:34.52,Default,,0,0,0,,{\pos(980.282,841.5)}{\b1\fnArial Black\fs63}Yamasaki almost ate a pair of pantyhose
+Dialogue: 0,1:13:37.98,1:13:40.75,Default,,0,0,0,,{\pos(601.69,326.25)}[This is more confusing than funny.]
+Dialogue: 0,1:13:43.42,1:13:47.27,Default,,0,0,0,,{\pos(563.38,335.25)}[You thought that was food?]
+Dialogue: 0,1:13:53.43,1:13:56.18,Tanaka,,0,0,0,,What the hell is that?
+Dialogue: 0,1:13:56.23,1:13:59.43,Yamazaki,,0,0,0,,It's a pair of pantyhose, I almost ate it
+Dialogue: 0,1:14:03.67,1:14:05.44,Yamazaki,,0,0,0,,I feel sick!
+Dialogue: 0,1:14:06.29,1:14:08.33,Yamazaki,,0,0,0,,It was in the egg hotchpotch
+Dialogue: 0,1:14:09.50,1:14:11.50,Pink,,0,0,0,,Excuse me
+Dialogue: 0,1:14:13.67,1:14:16.40,Pink,,0,0,0,,In fact, today in the next room
+Dialogue: 0,1:14:17.14,1:14:20.41,Pink,,0,0,0,,there is E.Yazawa's Japan tour group
+Dialogue: 0,1:14:21.14,1:14:24.74,Pink,,0,0,0,,so it may be a little noisy.  I'm sorry for the trouble
+Dialogue: 0,1:14:25.34,1:14:26.34,Tanaka,,0,0,0,,--Thank you
+Dialogue: 0,1:14:30.02,1:14:31.02,Pink,,0,0,0,,I'm sorry but
+Dialogue: 0,1:14:31.32,1:14:34.32,Pink,,0,0,0,,it looks like it's starting
+Dialogue: 0,1:14:58.58,1:15:02.58,Default,,0,0,0,,{\pos(982.535,807.75)}{\b1\fnArial Black\fs63}Eichan's towel can be seen
+Dialogue: 0,1:15:46.56,1:15:51.56,Default,,0,0,0,,{\pos(1203.38,830.25)}{\b1\fnArial Black\fs63}Eichan along with back band
+Dialogue: 0,1:15:56.34,1:15:58.34,Black,,0,0,0,,Thank you very much!
+Dialogue: 0,1:15:58.70,1:16:01.70,Black,,0,0,0,,Please have a wonderful time!
+Dialogue: 0,1:16:07.11,1:16:09.11,Black,,0,0,0,,2 hours and half is tiring, huh
+Dialogue: 0,1:16:29.80,1:16:31.80,Yamazaki,,0,0,0,,They dropped the dishes
+Dialogue: 0,1:16:43.88,1:16:46.06,Default,,0,0,0,,Midnight\N(10 hours past)
+Dialogue: 0,1:16:49.08,1:16:55.08,Narrator,,0,0,0,,With so many traps, one after the other, they are growing tired
+Dialogue: 0,1:16:59.14,1:17:02.73,Fujiwara,,0,0,0,,If you guys don't have anything to talk about, let's go with Mr. Marick
+Dialogue: 0,1:17:05.60,1:17:07.60,Yamazaki,,0,0,0,,What should we do with Mr. Marick?
+Dialogue: 0,1:17:08.71,1:17:10.71,Fujiwara,,0,0,0,,Talk about him
+Dialogue: 0,1:17:10.71,1:17:42.21,Default,,0,0,0,,{\fn\fs58.5\pos(545.352,992.25)\c&H4445FF&}Theme\N{\c&H000000&\3c&HFFFFFF&}Mr. Marick
+Dialogue: 0,1:17:13.48,1:17:16.48,Tanaka,,0,0,0,,Doesn't  he have another name?
+Dialogue: 0,1:17:16.35,1:17:17.78,Yamazaki,,0,0,0,,What was it?
+Dialogue: 0,1:17:18.17,1:17:18.96,Hamada,,0,0,0,,Don't you know?
+Dialogue: 0,1:17:19.24,1:17:20.44,Tanaka,,0,0,0,,Japanese name
+Dialogue: 0,1:17:21.24,1:17:22.98,Tanaka,,0,0,0,,Is it Matsuo Shokyokusai?
+Dialogue: 0,1:17:24.16,1:17:24.82,Yamazaki,,0,0,0,,Matsuo..
+Dialogue: 0,1:17:31.76,1:17:32.89,Hamada,,0,0,0,,What kind of name is that?
+Dialogue: 0,1:17:36.63,1:17:37.75,Hamada,,0,0,0,,Where did that come from?
+Dialogue: 0,1:17:45.20,1:17:46.28,Tanaka,,0,0,0,,Another name
+Dialogue: 0,1:17:46.51,1:17:48.51,Tanaka,,0,0,0,,His Japanese name
+Dialogue: 0,1:17:49.25,1:17:50.07,Yamazaki,,0,0,0,,Mr. Marick
+Dialogue: 0,1:17:49.95,1:17:52.75,Hamada,,0,0,0,,What kind of name is Matsuo Shokyokusai?
+Dialogue: 0,1:17:59.39,1:18:02.77,Hamada,,0,0,0,,This is because you mentioned about Matsuo Shokyokusai
+Dialogue: 0,1:18:03.66,1:18:10.06,Default,,0,0,0,,{\fs45\pos(592.676,697.5)}Correct Information
+Dialogue: 0,1:18:03.66,1:18:10.66,Default,,0,0,0,,{\fnArial Black\fs58.5\c&H4445FF&\3c&HDBDBFF&\pos(975.775,794.25)}Matsuo Gentousai
+Dialogue: 0,1:18:03.66,1:18:10.67,Black,,0,0,0,,{\pos(978.028,920.25)}Mr. Marick's another name when he performs his magic show in Japanese costume
+Dialogue: 0,1:18:04.46,1:18:05.76,Yamazaki,,0,0,0,,He surely does
+Dialogue: 0,1:18:05.76,1:18:07.25,Hamada,,0,0,0,,I didn't know at all
+Dialogue: 0,1:18:08.57,1:18:10.57,Hamada,,0,0,0,,When he dresses up like an old man?
+Dialogue: 0,1:18:10.65,1:18:12.52,Hamada,,0,0,0,,Ah..I guess so
+Dialogue: 0,1:18:14.24,1:18:15.07,Yamazaki,,0,0,0,,With Un-nan
+Dialogue: 0,1:18:15.57,1:18:17.58,Fujiwara,,0,0,0,,Next theme is design perm
+Dialogue: 0,1:18:18.61,1:19:07.59,Default,,0,0,0,,{\fn\fs58.5\c&H4445FF&\pos(556.62,983.25)}Theme\N{\c&H000000&\3c&HFFFFFF&}Design perm
+Dialogue: 0,1:18:20.78,1:18:22.41,Hamada,,0,0,0,,What is design perm like?
+Dialogue: 0,1:18:22.51,1:18:23.95,Tanaka,,0,0,0,,Well it's like..
+Dialogue: 0,1:18:25.85,1:18:26.65,Hamada,,0,0,0,,What?
+Dialogue: 0,1:18:26.75,1:18:30.72,Yamazaki,,0,0,0,,I got a perm, only on the top
+Dialogue: 0,1:18:46.54,1:18:47.71,Hamada,,0,0,0,,Looks very natural
+Dialogue: 0,1:18:48.37,1:18:51.28,Yamazaki,,0,0,0,,I think design perm is only partial
+Dialogue: 0,1:18:51.98,1:18:52.98,Hamada,,0,0,0,,Is that so?
+Dialogue: 0,1:18:53.05,1:18:56.98,Yamazaki,,0,0,0,,I think so.. who else got design perm?
+Dialogue: 0,1:18:58.05,1:18:59.33,Hamada,,0,0,0,,I wonder who
+Dialogue: 0,1:19:00.32,1:19:00.95,Tanaka,,0,0,0,,Mostly
+Dialogue: 0,1:19:01.62,1:19:02.49,Hamada,,0,0,0,,Mostly?
+Dialogue: 0,1:19:10.63,1:19:12.26,Yamazaki,,0,0,0,,You are bad, Tanaka
+Dialogue: 0,1:19:12.87,1:19:15.47,Tanaka,,0,0,0,,What are you doing Tanaka?  Really
+Dialogue: 0,1:19:16.54,1:19:19.07,Hamada,,0,0,0,,I dont know what you mean by "Mostly"
+Dialogue: 0,1:19:36.79,1:19:40.54,Fujiwara,,0,0,0,,Listen, today there's...
+Dialogue: 0,1:19:40.54,1:19:44.54,Fujiwara,,0,0,0,,...a Hollywood star secretly staying at the Inn.
+Dialogue: 0,1:19:44.54,1:19:45.64,Yamazaki,,0,0,0,,What?
+Dialogue: 0,1:19:45.89,1:19:48.24,Fujiwara,,0,0,0,,He kindly said he wanted to say hello to you bums
+Dialogue: 0,1:19:48.24,1:19:49.96,Fujiwara,,0,0,0,,You'll be stunned
+Dialogue: 0,1:19:50.42,1:19:52.58,Fujiwara,,0,0,0,,Please come in
+Dialogue: 0,1:19:56.83,1:20:01.53,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(948.732,974.25)}The Hollywood star\NRobert De Niro
+Dialogue: 0,1:20:01.53,1:20:03.67,Default,,0,0,0,,{\pos(552.113,330.75)}[He really looks like him.]
+Dialogue: 0,1:20:03.67,1:20:07.17,Default,,0,0,0,,{\pos(500.282,373.5)}[Especially when he\Nsmiles and cries.]
+Dialogue: 0,1:20:19.12,1:20:22.83,Yamazaki,,0,0,0,,I've seen that face so many times
+Dialogue: 0,1:20:27.93,1:20:31.23,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(705.352,992.25)}Teru  (Comedian)
+Dialogue: 0,1:20:31.23,1:20:32.56,Yamazaki,,0,0,0,,Good Evening
+Dialogue: 0,1:20:43.61,1:20:47.36,Fujiwara,,0,0,0,,"De Niro humoring a baby."
+Dialogue: 0,1:21:00.11,1:21:01.40,Default,,0,0,0,,(Bump.)
+Dialogue: 0,1:21:09.20,1:21:12.51,Default,,0,0,0,,{\pos(1399.437,333)}[The door hit him.]
+Dialogue: 0,1:21:16.98,1:21:18.92,Fujiwara,,0,0,0,,De Niro making...
+Dialogue: 0,1:21:24.32,1:21:26.28,Hamada,,0,0,0,,Come on!
+Dialogue: 0,1:21:26.29,1:21:28.89,Hamada,,0,0,0,,Give me a break!
+Dialogue: 0,1:21:28.89,1:21:29.89,Hamada,,0,0,0,,Please!
+Dialogue: 0,1:21:29.89,1:21:34.18,Yamazaki,,0,0,0,,No way that's in the script
+Dialogue: 0,1:21:43.31,1:21:45.52,Hamada,,0,0,0,,That's just an intro
+Dialogue: 0,1:21:46.31,1:21:48.79,Hamada,,0,0,0,,I swear I won't laugh again
+Dialogue: 0,1:21:48.95,1:21:51.20,Fujiwara,,0,0,0,,"De Niro performing a 'hammer throw'"
+Dialogue: 0,1:22:13.99,1:22:17.49,Fujiwara,,0,0,0,,Mr. De Niro is a busy man, He says he has to go
+Dialogue: 0,1:22:17.49,1:22:19.79,Fujiwara,,0,0,0,,Consider yourself lucky
+Dialogue: 0,1:22:44.54,1:22:49.11,Matsumoto,,0,0,0,,You know what, about the C3PO thing, give me a break
+Dialogue: 0,1:22:49.52,1:22:50.62,Tanaka,,0,0,0,,Oh yeah
+Dialogue: 0,1:22:50.68,1:22:54.59,Matsumoto,,0,0,0,,When you hear the "ba ba ba ban" we had a different plan
+Dialogue: 0,1:22:55.15,1:23:05.03,Default,,0,0,0,,{\pos(475.493,976.5)}Naka-C3PO\N(producer Nakamura)
+Dialogue: 0,1:22:58.79,1:23:05.10,Default,,0,0,0,,{\pos(824.789,969.75)}Swimsuit model Yinling
+Dialogue: 0,1:22:55.45,1:22:58.46,Matsumoto,,0,0,0,,When the door opened, Yinling was supposed to appear
+Dialogue: 0,1:22:58.96,1:23:01.46,Matsumoto,,0,0,0,,But she had that thing on, so she couldn't open the door
+Dialogue: 0,1:23:01.56,1:23:05.56,Matsumoto,,0,0,0,,We wanted you to laugh when Yinling entered the door
+Dialogue: 0,1:23:05.60,1:23:07.60,Matsumoto,,0,0,0,,But you laughed just because of the door opening
+Dialogue: 0,1:23:08.87,1:23:09.90,Tanaka,,0,0,0,,Oh, really
+Dialogue: 0,1:23:10.20,1:23:13.87,Matsumoto,,0,0,0,,"ahh my stomach is sore, my ass is sore"
+Dialogue: 0,1:23:13.91,1:23:16.18,Matsumoto,,0,0,0,,and then, again gara gara (door opening sound)
+Dialogue: 0,1:23:16.51,1:23:18.41,Matsumoto,,0,0,0,,He closes it again!
+Dialogue: 0,1:23:18.58,1:23:20.38,Matsumoto,,0,0,0,,Again Nakamura appears!
+Dialogue: 0,1:23:21.68,1:23:23.32,Tanaka,,0,0,0,,Yeah that's true
+Dialogue: 0,1:23:24.82,1:23:27.79,Matsumoto,,0,0,0,,"Ow, that hurt" Again he closes the door!
+Dialogue: 0,1:23:27.79,1:23:29.02,Matsumoto,,0,0,0,,What the hell?
+Dialogue: 0,1:23:30.59,1:23:32.59,Matsumoto,,0,0,0,,Get outta here!
+Dialogue: 0,1:23:33.43,1:23:35.25,Default,,0,0,0,,1:00 am\N(11 hours past)
+Dialogue: 0,1:23:35.25,1:23:40.72,Narrator,,0,0,0,,{\pos(950.986,1035)}All 3 are tired after hours of torture
+Dialogue: 0,1:23:40.72,1:23:44.96,Narrator,,0,0,0,,{\pos(946.479,1028.25)}But that doesn't stop us from sending another assassin
+Dialogue: 0,1:23:50.75,1:23:53.65,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(969.014,1003.5)}Itao Itsuji (Comedian)
+Dialogue: 0,1:24:29.03,1:24:32.93,Default,,0,0,0,,{\pos(1223.662,787.5)}{\b1\fnArial Black\fs63}Itao takes out a rifle\Nfrom the fishing bag
+Dialogue: 0,1:24:34.97,1:24:36.93,Default,,0,0,0,,{\pos(504.789,337.5)}[He's so clumsy.]
+Dialogue: 0,1:24:36.93,1:24:39.97,Default,,0,0,0,,{\pos(621.972,337.5)}[He's supposed to be a professional.]
+Dialogue: 0,1:24:39.97,1:24:43.27,Default,,0,0,0,,{\pos(567.887,328.5)}[He kept trying again and again.]
+Dialogue: 0,1:24:47.36,1:24:51.06,Default,,0,0,0,,{\pos(640,346.5)}[He doesn't realize that details do matter.]
+Dialogue: 0,1:25:04.39,1:25:05.89,Itao,,0,0,0,,Hello?
+Dialogue: 0,1:25:07.36,1:25:08.39,Itao,,0,0,0,,Yeah
+Dialogue: 0,1:25:09.64,1:25:11.84,Itao,,0,0,0,,A guy wearing black-rimmed glasses?
+Dialogue: 0,1:25:18.14,1:25:20.54,Itao,,0,0,0,,Let's not talk about it now
+Dialogue: 0,1:25:20.54,1:25:22.93,Default,,0,0,0,,{\pos(509.296,330.75)}[What did they say?]
+Dialogue: 0,1:25:24.43,1:25:27.68,Itao,,0,0,0,,Yes?
+Dialogue: 0,1:25:27.68,1:25:29.73,Itao,,0,0,0,,Change of target?
+Dialogue: 0,1:25:31.03,1:25:33.48,Itao,,0,0,0,,A guy with contact lenses?
+Dialogue: 0,1:25:51.35,1:25:55.00,Default,,0,0,0,,{\pos(964.507,837)}{\b1\fnArial Black\fs63}The sniper Itao, gets sniped
+Dialogue: 0,1:25:57.44,1:25:59.42,Default,,0,0,0,,{\pos(565.634,328.5)}[He went to the wrong side.]
+Dialogue: 0,1:26:02.57,1:26:05.95,Default,,0,0,0,,{\pos(579.155,328.5)}[That was definitely the wrong side.]
+Dialogue: 0,1:26:12.38,1:26:14.78,Yamazaki,,0,0,0,,Anyone would be stunned by that
+Dialogue: 0,1:26:16.82,1:26:18.02,Default,,0,0,0,,{\pos(576.901,342)}[Yeah, it's more startling than funny.]
+Dialogue: 0,1:26:29.10,1:26:32.14,Yamazaki,,0,0,0,,I've been to Paris, 3 times
+Dialogue: 0,1:26:32.37,1:26:33.71,Hamada,,0,0,0,,No way, really?
+Dialogue: 0,1:26:34.21,1:26:35.11,Hamada,,0,0,0,,That many times?
+Dialogue: 0,1:26:40.81,1:26:42.81,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(1316.056,434.25)}Endo     Matsumoto
+Dialogue: 0,1:26:52.99,1:26:55.03,Matsumoto,,0,0,0,,Trying hard?
+Dialogue: 0,1:26:55.49,1:26:56.73,Matsumoto,,0,0,0,,How's it going?
+Dialogue: 0,1:26:57.50,1:26:59.73,Yamazaki,,0,0,0,,I'm trying my best but
+Dialogue: 0,1:26:59.97,1:27:02.87,Yamazaki,,0,0,0,,my ass hurts more than ever...
+Dialogue: 0,1:27:04.00,1:27:06.47,Matsumoto,,0,0,0,,Because you're laughing too much
+Dialogue: 0,1:27:06.54,1:27:08.21,Endo,,0,0,0,,He really laughs a lot
+Dialogue: 0,1:27:08.97,1:27:10.44,Endo,,0,0,0,,Really
+Dialogue: 0,1:27:14.71,1:27:17.72,Matsumoto,,0,0,0,,Let's change the atmosphere
+Dialogue: 0,1:27:17.85,1:27:20.19,Matsumoto,,0,0,0,,Let's play a game
+Dialogue: 0,1:27:20.85,1:27:24.85,Default,,0,0,0,,{\c&H0000FF&\fn\fs81\pos(966.761,828)}Impersonation {\c&H27AB00&}Game
+Dialogue: 0,1:27:25.72,1:27:29.72,Default,,0,0,0,,{\c&H0000FF&\fn\fs81\pos(962.254,828)\3c&HC1C1FF&}Rule
+Dialogue: 0,1:27:25.72,1:27:29.72,Default,,0,0,0,,{\pos(975.775,942.75)\fnArial Black\fs49.5\c&H000000&\3c&HBABABA&}Impersonate famous people while saying certain words
+Dialogue: 0,1:27:26.29,1:27:28.29,Endo,,0,0,0,,Ok let's start!
+Dialogue: 0,1:27:37.87,1:27:39.87,Matsumoto,,0,0,0,,This is the first one
+Dialogue: 0,1:27:40.21,1:27:44.54,Matsumoto,,0,0,0,,Kuwata Keisuke's impersonation of things katakana
+Dialogue: 0,1:27:45.28,1:27:47.28,Matsumoto,,0,0,0,,Endo you start
+Dialogue: 0,1:27:49.55,1:27:53.55,Endo,,0,0,0,,Gadaru Kanaru Taka (person's name)
+Dialogue: 0,1:27:54.22,1:27:56.22,Endo,,0,0,0,,Ok? Gadaru
+Dialogue: 0,1:27:58.99,1:28:00.99,Endo,,0,0,0,,Hamada-san is smirking
+Dialogue: 0,1:28:01.03,1:28:03.03,Matsumoto,,0,0,0,,Ok Fujiwara you next
+Dialogue: 0,1:28:02.70,1:28:04.70,Matsumoto,,0,0,0,,Do Kuwata Kesukei impersonation
+Dialogue: 0,1:28:05.50,1:28:07.27,Fujiwara,,0,0,0,,Nai fu! (Knife)
+Dialogue: 0,1:28:14.64,1:28:15.64,Endo,,0,0,0,,Why knife?
+Dialogue: 0,1:28:19.18,1:28:20.58,Yamazaki,,0,0,0,,What did you say?
+Dialogue: 0,1:28:21.41,1:28:22.41,Fujiwara,,0,0,0,,Knife
+Dialogue: 0,1:28:24.55,1:28:26.55,Tanaka,,0,0,0,,I didn't laugh at that
+Dialogue: 0,1:28:27.89,1:28:29.89,Yamazaki,,0,0,0,,Watch this
+Dialogue: 0,1:28:32.22,1:28:34.23,Tanaka,,0,0,0,,I was safe
+Dialogue: 0,1:28:37.00,1:28:39.00,Matsumoto,,0,0,0,,That's an Incredible whip!
+Dialogue: 0,1:28:42.87,1:28:44.87,Matsumoto,,0,0,0,,Ok it's Tanaka's turn
+Dialogue: 0,1:28:44.90,1:28:47.74,Matsumoto,,0,0,0,,Go Hiromi impersonating something about the Kansai region
+Dialogue: 0,1:28:51.41,1:28:52.11,Tanaka,,0,0,0,,Takoyaki
+Dialogue: 0,1:28:53.65,1:28:54.35,Matsumoto,,0,0,0,,What that?
+Dialogue: 0,1:28:57.42,1:29:00.42,Tanaka,,0,0,0,,I can't do impersonations, it's hard
+Dialogue: 0,1:29:01.32,1:29:02.32,Matsumoto,,0,0,0,,Ok Yamazaki
+Dialogue: 0,1:29:04.96,1:29:06.13,Yamazaki,,0,0,0,,Okonomiyaki
+Dialogue: 0,1:29:11.90,1:29:14.10,Endo,,0,0,0,,Hamada-san your turn
+Dialogue: 0,1:29:15.70,1:29:17.70,Matsumoto,,0,0,0,,No, Yamazaki again
+Dialogue: 0,1:29:18.64,1:29:20.64,Yamazaki,,0,0,0,,Okonomiyaki
+Dialogue: 0,1:29:25.01,1:29:27.01,Matsumoto,,0,0,0,,Yamazaki again
+Dialogue: 0,1:29:26.68,1:29:28.68,Yamazaki,,0,0,0,,--Okonomiyaki
+Dialogue: 0,1:29:33.32,1:29:36.32,Hamada,,0,0,0,,Why do you keep repeating the same phrase?
+Dialogue: 0,1:29:42.06,1:29:45.20,Matsumoto,,0,0,0,,Well maybe we shouldn't have come...
+Dialogue: 0,1:29:45.53,1:29:47.93,Tanaka,,0,0,0,,No, it was fun
+Dialogue: 0,1:29:49.30,1:29:51.30,Matsumoto,,0,0,0,,If you wanted to say something, please say it now
+Dialogue: 0,1:29:52.67,1:29:54.67,Hamada,,0,0,0,,Take off the glasses and talk
+Dialogue: 0,1:29:58.94,1:30:01.15,Matsumoto,,0,0,0,,You're talking to me rudely, I'm getting disgusted
+Dialogue: 0,1:30:02.75,1:30:04.95,Endo,,0,0,0,,Hamada-san, you know...
+Dialogue: 0,1:30:08.65,1:30:13.99,Endo,,0,0,0,,if you have kids, you teach them to look at someone's eyes when you speak to them
+Dialogue: 0,1:30:14.33,1:30:15.26,Matsumoto,,0,0,0,,Hamada!
+Dialogue: 0,1:30:25.64,1:30:27.21,Hamada,,0,0,0,,Pass me
+Dialogue: 0,1:30:28.41,1:30:28.97,Matsumoto,,0,0,0,,What?
+Dialogue: 0,1:30:28.97,1:30:30.84,Hamada,,0,0,0,,Never mind.  Fujiwara...
+Dialogue: 0,1:30:31.84,1:30:33.85,Matsumoto,,0,0,0,,What are you talking about?
+Dialogue: 0,1:30:33.78,1:30:35.78,Hamada,,0,0,0,,Fujiwara get them out of here
+Dialogue: 0,1:30:35.58,1:30:37.58,Matsumoto,,0,0,0,,--Take who out?
+Dialogue: 0,1:30:38.38,1:30:40.39,Matsumoto,,0,0,0,,Who and who do you want out of here?
+Dialogue: 0,1:30:40.55,1:30:42.56,Matsumoto,,0,0,0,,Say it clearly
+Dialogue: 0,1:30:42.76,1:30:44.76,Matsumoto,,0,0,0,,Look at my face and tell me
+Dialogue: 0,1:30:44.76,1:30:45.46,Matsumoto,,0,0,0,,HAMADA!
+Dialogue: 0,1:30:52.63,1:30:55.03,Hamada,,0,0,0,,Give me a break already!
+Dialogue: 0,1:30:59.91,1:31:01.91,Endo,,0,0,0,,Damn He hits hard
+Dialogue: 0,1:31:03.88,1:31:05.88,Matsumoto,,0,0,0,,Ok Fujiwara, should we go?
+Dialogue: 0,1:31:06.71,1:31:10.71,Default,,0,0,0,,2:00AM\N(15 hours in the Batsu game)
+Dialogue: 0,1:31:11.85,1:31:17.39,Narrator,,0,0,0,,Madam Fujiwara invites them to the temple next door
+Dialogue: 0,1:31:17.89,1:31:18.96,Narrator,,0,0,0,,And then...
+Dialogue: 0,1:31:21.23,1:31:23.50,Normal,,0,0,0,,Beware the Damned!
+Dialogue: 0,1:31:23.50,1:31:25.50,Normal,,0,0,0,,Help me!
+Dialogue: 0,1:31:22.76,1:31:25.26,Default,,0,0,0,,{\pos(547.606,996.75)}Undead Warrior\NHeipo (Director)
+Dialogue: 0,1:31:28.20,1:31:29.47,Yamazaki,,0,0,0,,That looked painful
+Dialogue: 0,1:31:30.24,1:31:32.67,Tanaka,,0,0,0,,That was dangerous
+Dialogue: 0,1:31:33.54,1:31:35.64,Normal,,0,0,0,,I'm scared!
+Dialogue: 0,1:31:38.11,1:31:39.98,Default,,0,0,0,,{\pos(1403.944,337.5)}[Tanaka you were really scared]
+Dialogue: 0,1:31:44.48,1:31:51.49,Narrator,,0,0,0,,So they enter the temple and the priest begins to show them scary pictures
+Dialogue: 0,1:31:54.53,1:31:58.73,Normal,,0,0,0,,Please take a look at this picture of some boys sitting down
+Dialogue: 0,1:31:59.77,1:32:05.57,Normal,,0,0,0,,Out of the 5 boys, 2 are Kishibe Shiro
+Dialogue: 0,1:32:08.21,1:32:11.51,Normal,,0,0,0,,This is a picture of a family playing
+Dialogue: 0,1:32:12.75,1:32:14.75,Normal,,0,0,0,,Please look closely
+Dialogue: 0,1:32:15.98,1:32:17.05,Normal,,0,0,0,,at the spots
+Dialogue: 0,1:32:19.55,1:32:22.05,Normal,,0,0,0,,Most of the spots are Kishibe Shiro
+Dialogue: 0,1:32:22.22,1:32:24.79,Normal,,0,0,0,,This is just a regular picture, but
+Dialogue: 0,1:32:26.66,1:32:29.83,Normal,,0,0,0,,there's something in the tea container
+Dialogue: 0,1:32:33.50,1:32:38.14,Normal,,0,0,0,,You can see clearly, it's Kishibe Shiro
+Dialogue: 0,1:32:38.90,1:32:43.91,Normal,,0,0,0,,So from now on, please be aware of Kishibe Shiro
+Dialogue: 0,1:33:28.92,1:33:33.62,Default,,0,0,0,,{\pos(964.507,837)}{\b1\fnArial Black\fs63}Sniper Itao get shot in the back
+Dialogue: 0,1:33:35.19,1:33:37.43,Default,,0,0,0,,{\pos(520.563,339.75)}[You guys were the targets]
+Dialogue: 0,1:34:04.65,1:34:05.65,Default,,0,0,0,,3:00 am\N(12 hours past)
+Dialogue: 0,1:34:05.65,1:34:08.03,Narrator,,0,0,0,,our 3 went to take a bath again
+Dialogue: 0,1:34:08.03,1:34:12.00,Narrator,,0,0,0,,But there are cleverly-devised traps even in the bathroom
+Dialogue: 0,1:34:13.38,1:34:15.68,Hamada,,0,0,0,,It's so cold
+Dialogue: 0,1:34:15.79,1:34:19.74,Default,,0,0,0,,{\pos(964.507,837)}{\b1\fnArial Black\fs63}A mysterious woman is having a bath
+Dialogue: 0,1:34:46.41,1:34:50.51,Default,,0,0,0,,{\pos(964.507,837)}{\b1\fnArial Black\fs63}The woman farts in the bath
+Dialogue: 0,1:35:13.02,1:35:16.68,Default,,0,0,0,,{\pos(1381.408,375.75)}[You guys looked stunned.]\N--[Yes, we were.]
+Dialogue: 0,1:35:26.34,1:35:28.07,Hamada,,0,0,0,,Why did they call me out?
+Dialogue: 0,1:35:28.13,1:35:30.28,Tanaka,,0,0,0,,The rules are awfully tough
+Dialogue: 0,1:35:38.77,1:35:41.82,Hamada,,0,0,0,,They don't care if we laugh or not anymore
+Dialogue: 0,1:35:46.92,1:35:54.52,Default,,0,0,0,,{\pos(964.507,837)}{\b1\fnArial Black\fs63}Tanaka is instructed to put on a spooky mask
+Dialogue: 0,1:35:58.09,1:35:59.84,Tanaka,,0,0,0,,I'm going to pee
+Dialogue: 0,1:36:01.22,1:36:03.48,Yamazaki,,0,0,0,,You did it just now
+Dialogue: 0,1:36:08.35,1:36:11.15,Hamada,,0,0,0,,Tanaka, we're leaving now
+Dialogue: 0,1:36:14.62,1:36:19.57,Default,,0,0,0,,{\pos(1108.732,841.5)}{\b1\fnArial Black\fs63}Tanaka in a spooky mask
+Dialogue: 0,1:36:26.77,1:36:28.77,Default,,0,0,0,,{\pos(450.704,380.25)}[Scary isn't it?\N--Yeah it is]
+Dialogue: 0,1:36:31.37,1:36:33.37,Default,,0,0,0,,{\pos(491.268,333)}[ohh a strong swing]
+Dialogue: 0,1:36:35.20,1:36:37.93,Hamada,,0,0,0,,Damn it, now my ass hurts a lot
+Dialogue: 0,1:36:43.97,1:36:45.35,Yamazaki,,0,0,0,,That mask must be hot
+Dialogue: 0,1:36:45.35,1:36:47.42,Tanaka,,0,0,0,,It's very hot
+Dialogue: 0,1:36:47.43,1:36:49.28,Tanaka,,0,0,0,,Extremely hot
+Dialogue: 0,1:36:50.13,1:36:53.58,Default,,0,0,0,,{\pos(957.746,810)}{\b1\fnArial Black\fs63}Tanaka enjoys looking at his masked face in the mirror
+Dialogue: 0,1:36:53.58,1:36:55.84,Default,,0,0,0,,{\pos(570.141,342)}[You liked that mask, didn't you?]
+Dialogue: 0,1:37:11.40,1:37:14.75,Tanaka,,0,0,0,,(Gurgle)
+Dialogue: 0,1:37:16.50,1:37:19.10,Hamada,,0,0,0,,Cut it out
+Dialogue: 0,1:37:19.28,1:37:20.95,Tanaka,,0,0,0,,What?
+Dialogue: 0,1:37:27.85,1:37:29.35,Yamazaki,,0,0,0,,Try this on
+Dialogue: 0,1:37:29.35,1:37:30.35,Hamada,,0,0,0,,Yeah, do it
+Dialogue: 0,1:37:31.10,1:37:33.50,Tanaka,,0,0,0,,Oh, this?
+Dialogue: 0,1:37:34.75,1:37:37.24,Tanaka,,0,0,0,,This is huge
+Dialogue: 0,1:37:47.08,1:37:49.08,Default,,0,0,0,,{\pos(455.211,330.75)}[Come on.]
+Dialogue: 0,1:37:55.95,1:37:58.96,Tanaka,,0,0,0,,Ouch, that must've hurt
+Dialogue: 0,1:38:09.21,1:38:12.66,Default,,0,0,0,,{\pos(946.479,846)}{\b1\fnArial Black\fs63}The Mad Brothers enter the room
+Dialogue: 0,1:38:14.90,1:38:19.80,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(1302.535,994.5)}{\pos(1280,981)}Mad Endo    Mad Matsumoto
+Dialogue: 0,1:38:20.06,1:38:23.16,Matsumoto,,0,0,0,,The inn has a specialty
+Dialogue: 0,1:38:23.15,1:38:27.72,Matsumoto,,0,0,0,,They have a kind of night show here
+Dialogue: 0,1:38:27.73,1:38:29.63,Matsumoto,,0,0,0,,A sort of feast
+Dialogue: 0,1:38:29.63,1:38:31.38,Matsumoto,,0,0,0,,You wanna go?
+Dialogue: 0,1:38:31.38,1:38:33.77,Yamazaki,,0,0,0,,We can't have it here?
+Dialogue: 0,1:38:33.78,1:38:35.45,Matsumoto,,0,0,0,,Of course not
+Dialogue: 0,1:38:36.43,1:38:38.43,Endo,,0,0,0,,it's a great show really
+Dialogue: 0,1:38:37.90,1:38:39.64,Yamazaki,,0,0,0,,Night show?
+Dialogue: 0,1:38:40.69,1:38:44.06,Endo,,0,0,0,,I really want you to enjoy it, Hamada-san
+Dialogue: 0,1:38:44.06,1:38:46.06,Hamada,,0,0,0,,You do?
+Dialogue: 0,1:38:44.67,1:38:45.67,Endo,,0,0,0,,--Yes
+Dialogue: 0,1:38:47.51,1:38:49.51,Endo,,0,0,0,,Lets go
+Dialogue: 0,1:38:51.54,1:38:52.85,Matsumoto,,0,0,0,,Now
+Dialogue: 0,1:39:05.27,1:39:08.04,Hamada,,0,0,0,,If we must, let's just go now
+Dialogue: 0,1:39:08.04,1:39:10.51,Yamazaki,,0,0,0,,That pose means, "let's go!"
+Dialogue: 0,1:39:16.09,1:39:17.76,Matsumoto,,0,0,0,,Sucks for you
+Dialogue: 0,1:39:23.63,1:39:26.73,Hamada,,0,0,0,,Why can't we just go!
+Dialogue: 0,1:39:29.06,1:39:31.74,Hamada,,0,0,0,,How long are you gonna keep doing that?
+Dialogue: 0,1:39:31.75,1:39:34.45,Hamada,,0,0,0,,Let's get going, now!
+Dialogue: 0,1:39:34.46,1:39:36.66,Matsumoto,,0,0,0,,We're gonna go soon
+Dialogue: 0,1:39:37.71,1:39:40.51,Yamazaki,,0,0,0,,That guy is so powerful
+Dialogue: 0,1:39:45.68,1:39:47.58,Hamada,,0,0,0,,Hey, enough already...
+Dialogue: 0,1:39:54.76,1:39:56.84,Hamada,,0,0,0,,Get the hell out! Now!
+Dialogue: 0,1:39:59.52,1:40:01.89,Matsumoto,,0,0,0,,I said we will soon, OK?
+Dialogue: 0,1:40:01.89,1:40:05.21,Hamada,,0,0,0,,Don't make those moves!
+Dialogue: 0,1:40:08.71,1:40:11.61,Yamazaki,,0,0,0,,Hamada-san, you should come over here quickly
+Dialogue: 0,1:40:11.61,1:40:14.33,Yamazaki,,0,0,0,,Maybe it's the angle
+Dialogue: 0,1:40:19.01,1:40:21.63,Default,,0,0,0,,{\pos(558.873,180)}[What the hell are you doing!]
+Dialogue: 0,1:40:27.97,1:40:29.64,Yamazaki,,0,0,0,,No way!
+Dialogue: 0,1:40:30.90,1:40:32.81,Yamazaki,,0,0,0,,Haven't you had enough?
+Dialogue: 0,1:40:32.81,1:40:34.72,Yamazaki,,0,0,0,,How much more are we supposed to take it?
+Dialogue: 0,1:40:37.85,1:40:40.19,Matsumoto,,0,0,0,,OK, I got it we'll go right now
+Dialogue: 0,1:40:51.75,1:40:53.68,Hamada,,0,0,0,,Stop it! Goddamn it!
+Dialogue: 0,1:40:54.26,1:40:55.74,Hamada,,0,0,0,,Out! Now!
+Dialogue: 0,1:40:57.13,1:40:58.99,Tanaka,,0,0,0,,Please get out
+Dialogue: 0,1:40:59.00,1:41:02.60,Yamazaki,,0,0,0,,We can't take it anymore
+Dialogue: 0,1:41:02.61,1:41:05.49,Matsumoto,,0,0,0,,I promise I won't do it anymore
+Dialogue: 0,1:41:15.53,1:41:18.44,Default,,0,0,0,,{\pos(946.479,846)}{\b1\fnArial Black\fs63}All 5 attend the nightly dinner show
+Dialogue: 0,1:41:18.44,1:41:22.43,Narrator,,0,0,0,,They finally exit the room
+Dialogue: 0,1:41:22.43,1:41:26.28,Narrator,,0,0,0,,They're on their way to see the night show.
+Dialogue: 0,1:41:26.28,1:41:29.82,Narrator,,0,0,0,,The batsu game gets tougher and crueler
+Dialogue: 0,1:41:29.82,1:41:32.31,Narrator,,0,0,0,,What awaits them?
+Dialogue: 0,1:41:32.34,1:41:35.04,Default,,0,0,0,,{\pos(946.479,846)}{\b1\fnArial Black\fs63}Mysterious MC
+Dialogue: 0,1:41:35.96,1:41:39.90,Normal,,0,0,0,,Thank you for coming to the inn and this show
+Dialogue: 0,1:41:39.90,1:41:46.45,Normal,,0,0,0,,Tonight, we proudly present\Na wonderful dinner show
+Dialogue: 0,1:41:46.45,1:41:51.13,Normal,,0,0,0,,First up is an '80s superstar\Nwho's finally playing in Yugawara
+Dialogue: 0,1:41:51.13,1:41:54.41,Normal,,0,0,0,,Please give him a warm applause!
+Dialogue: 0,1:42:05.24,1:42:10.31,Default,,0,0,0,,{\pos(736.901,1003.5)}{\b1\fnArial Black\fs58.5}Yogiriyo Konya mo Arigato\N Ishihara Yujiro (Late singer and actor)-\N*The Japanese Sinatra.\N (Yutarou)
+Dialogue: 0,1:42:11.58,1:42:13.48,Default,,0,0,0,,{\pos(475.493,220.5)}[What a sweet voice!]
+Dialogue: 0,1:42:49.31,1:42:55.07,Default,,0,0,0,,{\pos(978.028,922.5)}They've laughed, but please watch without interruption.
+Dialogue: 0,1:43:10.06,1:43:12.24,Matsumoto,,0,0,0,,Great!
+Dialogue: 0,1:43:12.24,1:43:14.20,Endo,,0,0,0,,Yujiro!
+Dialogue: 0,1:43:16.00,1:43:17.65,Matsumoto,,0,0,0,,Awesome!
+Dialogue: 0,1:43:18.48,1:43:20.47,Matsumoto,,0,0,0,,Awesome!
+Dialogue: 0,1:43:34.04,1:43:37.44,Endo,,0,0,0,,Add another blow
+Dialogue: 0,1:43:36.03,1:43:37.03,Matsumoto,,0,0,0,,--that must be tough
+Dialogue: 0,1:43:37.49,1:43:40.68,Normal,,0,0,0,,Up next, from the famous\Ncomedian agency, Yoshimoto...
+Dialogue: 0,1:43:40.68,1:43:43.89,Normal,,0,0,0,,the comedian better known\Nas "The Comedy Commando."
+Dialogue: 0,1:43:43.89,1:43:45.37,Normal,,0,0,0,,Please give him a good clap.
+Dialogue: 0,1:43:46.76,1:43:50.96,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(980.282,992.25)}Yamashita Shigenori (Comedian)
+Dialogue: 0,1:43:53.50,1:43:55.35,Default,,0,0,0,,{\pos(1421.972,339.75)}[You guys didn't clap.]
+Dialogue: 0,1:43:56.01,1:43:58.48,Normal,,0,0,0,,Yamashita splits!
+Dialogue: 0,1:44:09.84,1:44:11.40,Normal,,0,0,0,,Squash!
+Dialogue: 0,1:44:14.49,1:44:17.96,Default,,0,0,0,,-5 minutes later-
+Dialogue: 0,1:44:17.96,1:44:21.57,Default,,0,0,0,,{\pos(1356.62,263.25)}[It must have felt like an eternity.]
+Dialogue: 0,1:44:30.68,1:44:33.72,Normal,,0,0,0,,Let's just get to the next act
+Dialogue: 0,1:44:33.72,1:44:39.19,Normal,,0,0,0,,Also from Yoshimoto is a rising star, bright-eyed and bushy-tailed
+Dialogue: 0,1:44:39.22,1:44:40.35,Fujiwara,,0,0,0,,Take it away!
+Dialogue: 0,1:44:48.57,1:44:50.57,Normal,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(962.254,884.25)}Jicho Kacho\N (Comedy Duo)
+Dialogue: 0,1:44:47.93,1:44:52.06,Normal,,0,0,0,,Please watch our impressions\Nand sound imitations
+Dialogue: 0,1:44:52.06,1:44:54.58,Normal,,0,0,0,,"An old time radio."
+Dialogue: 0,1:44:54.93,1:45:00.04,Normal,,0,0,0,,(Oldie)
+Dialogue: 0,1:45:01.97,1:45:07.51,Normal,,0,0,0,,In 1945, Japan surrended and signed the US-Japan peace Treaty
+Dialogue: 0,1:45:10.34,1:45:13.75,Normal,,0,0,0,,Next is "an orangutan eating ants."
+Dialogue: 0,1:45:33.98,1:45:37.22,Normal,,0,0,0,,Next, Katsura Kinshi Shishou
+Dialogue: 0,1:45:38.68,1:45:43.36,Normal,,0,0,0,,Welcome, to the affairs of the state
+Dialogue: 0,1:45:44.39,1:45:47.73,Normal,,0,0,0,,When people line up
+Dialogue: 0,1:45:47.99,1:45:49.43,Normal,,0,0,0,,a long line
+Dialogue: 0,1:45:51.53,1:45:52.57,Normal,,0,0,0,,it was for Katsura Kinshi
+Dialogue: 0,1:46:13.15,1:46:15.15,Endo,,0,0,0,,That was a very good night show
+Dialogue: 0,1:46:14.25,1:46:16.26,Matsumoto,,0,0,0,,Yes it was
+Dialogue: 0,1:46:18.56,1:46:20.56,Matsumoto,,0,0,0,,You'll have a good memory
+Dialogue: 0,1:46:20.63,1:46:27.30,Normal,,0,0,0,,Next a veteran singing duo, the brothers Pinkara Kyodai
+Dialogue: 0,1:46:35.07,1:46:39.08,Default,,0,0,0,,{\pos(723.38,983.25)}{\b1\fnArial Black\fs63}Onna no Michi\NPinkara Kyodai\N(Nobu & Fukki)
+Dialogue: 0,1:47:34.67,1:47:36.44,Default,,0,0,0,,{\pos(563.38,258.75)}[This guy also looks like the real person too]
+Dialogue: 0,1:47:59.59,1:48:01.06,Default,,0,0,0,,4:00 am\N(14 hours past)
+Dialogue: 0,1:48:01.06,1:48:08.04,Narrator,,0,0,0,,After the night show, it's time to hit the long-awaited bed
+Dialogue: 0,1:48:08.04,1:48:10.09,Narrator,,0,0,0,,But...
+Dialogue: 0,1:48:18.73,1:48:24.13,Default,,0,0,0,,{\pos(1124.507,875.25)}{\b1\fnArial Black\fs63}Pro Golfer Monkey comes in
+Dialogue: 0,1:48:19.01,1:48:24.01,Default,,0,0,0,,{\pos(504.789,965.25)}Pro Golfer Monkey\N(Old lady.1)
+Dialogue: 0,1:48:25.53,1:48:27.91,Default,,0,0,0,,{\pos(468.732,218.25)}[I felt so sleepy.]
+Dialogue: 0,1:48:27.91,1:48:30.63,Default,,0,0,0,,{\pos(615.211,276.75)}[So did she, We had to drag her out of bed.]
+Dialogue: 0,1:48:37.24,1:48:39.85,Default,,0,0,0,,{\pos(590.423,335.25)}[You made her wear this thing again.]
+Dialogue: 0,1:49:15.08,1:49:18.31,Default,,0,0,0,,{\pos(509.296,335.25)}[What is she doing?]
+Dialogue: 0,1:49:18.31,1:49:21.98,Default,,0,0,0,,{\pos(673.803,346.5)}[We had no idea what she was going to do to us.]
+Dialogue: 0,1:49:31.36,1:49:33.41,Yamazaki,,0,0,0,,She tickled me
+Dialogue: 0,1:49:37.85,1:49:40.01,Default,,0,0,0,,{\pos(529.577,339.75)}[She's using the big guns.]
+Dialogue: 0,1:49:43.98,1:49:45.93,Default,,0,0,0,,{\pos(962.254,875.25)}{\b1\fnArial Black\fs63}A deep kiss for good-night
+Dialogue: 0,1:49:49.99,1:49:51.64,Default,,0,0,0,,{\pos(470.986,333)}[Rape.]
+Dialogue: 0,1:49:57.12,1:49:59.11,Hamada,,0,0,0,,Score one for her
+Dialogue: 0,1:50:11.62,1:50:14.44,Yamazaki,,0,0,0,,Disgusting!
+Dialogue: 0,1:50:17.09,1:50:20.99,Yamazaki,,0,0,0,,Hamada-san, this is unbearable
+Dialogue: 0,1:50:20.99,1:50:23.24,Hamada,,0,0,0,,Isn't it a bomb?
+Dialogue: 0,1:50:22.67,1:50:24.67,Yamazaki,,0,0,0,,--it sure is
+Dialogue: 0,1:50:26.35,1:50:29.54,Hamada,,0,0,0,,You better go to the bathroom
+Dialogue: 0,1:50:29.54,1:50:30.54,Yamazaki,,0,0,0,,Excuse me
+Dialogue: 0,1:50:30.86,1:50:33.61,Yamazaki,,0,0,0,,I'm going to wash my mouth
+Dialogue: 0,1:50:34.27,1:50:38.53,Default,,0,0,0,,{\pos(978.028,895.5)}{\b1\fnArial Black\fs63}Yamasaki runs to the bathroom\Nto wash his mouth.
+Dialogue: 0,1:50:42.88,1:50:46.91,Matsumoto,,0,0,0,,It would be hilarious if she were to be at the doorway when he comes out
+Dialogue: 0,1:50:48.41,1:50:48.79,Matsumoto,,0,0,0,,Is she ready?
+Dialogue: 0,1:50:48.79,1:50:51.58,Matsumoto,,0,0,0,,Tell her to go if she's ready
+Dialogue: 0,1:51:14.63,1:51:17.32,Default,,0,0,0,,{\pos(946.479,850.5)}{\b1\fnArial Black\fs63}Hamada wraps himself in the futon
+Dialogue: 0,1:51:17.32,1:51:18.87,Default,,0,0,0,,{\pos(998.31,834.75)}{\b1\fnArial Black\fs63}Tanaka is just astonished
+Dialogue: 0,1:51:25.50,1:51:28.27,Default,,0,0,0,,{\pos(1491.831,337.5)}[Why is he out?]
+Dialogue: 0,1:51:32.89,1:51:33.74,Hamada,,0,0,0,,Doomed!
+Dialogue: 0,1:51:33.74,1:51:35.59,Hamada,,0,0,0,,Doomed! Yama-chan is doomed!
+Dialogue: 0,1:51:46.26,1:51:50.15,Default,,0,0,0,,-30 minutes later-
+Dialogue: 0,1:51:58.93,1:52:05.89,Normal,,0,0,0,,Tonight is Yamada(Crucial)
+Dialogue: 0,1:52:03.67,1:52:08.27,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(815.775,927)}Yamada Hussein
+Dialogue: 0,1:52:05.89,1:52:09.89,Default,,0,0,0,,{\pos(721.127,132.75)}Note: It's supposed to mean, when properly pronounced,\N"Tonight is a crucial night.
+Dialogue: 0,1:52:27.66,1:52:30.98,Hamada,,0,0,0,,Give me a break!
+Dialogue: 0,1:52:41.70,1:52:42.34,Default,,0,0,0,,-Bed Time-
+Dialogue: 0,1:52:42.34,1:52:44.34,Narrator,,0,0,0,,They went to sleep shortly thereafter.
+Dialogue: 0,1:52:44.49,1:52:49.26,Narrator,,0,0,0,,After a short sleeping period,\Nit's time to wake up
+Dialogue: 0,1:52:53.21,1:52:55.06,Fujiwara,,0,0,0,,Wake up guys!
+Dialogue: 0,1:52:57.95,1:52:59.60,Fujiwara,,0,0,0,,Wake up
+Dialogue: 0,1:53:00.92,1:53:02.97,Fujiwara,,0,0,0,,Come on, guys
+Dialogue: 0,1:53:02.97,1:53:05.70,Fujiwara,,0,0,0,,The Batsu game isn't over yet
+Dialogue: 0,1:53:10.43,1:53:11.26,Default,,0,0,0,,{\pos(489.014,335.25)}[Huh?]
+Dialogue: 0,1:53:12.59,1:53:14.20,Fujiwara,,0,0,0,,Come on, Yamasaki.
+Dialogue: 0,1:53:20.10,1:53:22.25,Hamada,,0,0,0,,I completely forgot about the No-Laughing rule
+Dialogue: 0,1:53:24.35,1:53:26.18,Default,,0,0,0,,{\pos(475.493,335.25)}[Oh, come on!]
+Dialogue: 0,1:53:26.18,1:53:29.06,Default,,0,0,0,,{\pos(567.887,337.5)}[You thought you were in your house?]
+Dialogue: 0,1:53:38.95,1:53:42.34,Narrator,,0,0,0,,All 3 are groggily having breakfast
+Dialogue: 0,1:53:42.34,1:53:45.22,Narrator,,0,0,0,,And there comes unexpected news.
+Dialogue: 0,1:53:47.46,1:53:49.81,Fujiwara,,0,0,0,,Hamada, this is the morning paper
+Dialogue: 0,1:53:49.81,1:53:52.12,Fujiwara,,0,0,0,,You like the sports section, right?
+Dialogue: 0,1:53:55.30,1:54:00.27,Default,,0,0,0,,{\pos(941.972,834.75)}{\b1\fnArial Black\fs63}Hamada is in no hurry to read the paper
+Dialogue: 0,1:54:04.66,1:54:06.06,Hamada,,0,0,0,,It's good.
+Dialogue: 0,1:54:09.33,1:54:16.46,Default,,0,0,0,,Yugawara Post:\N"Dynamite Shikoku Pulls a Muscle Again!!"
+Dialogue: 0,1:54:16.91,1:54:18.87,Default,,0,0,0,,{\pos(1444.507,321.75)}[He's too weak.]
+Dialogue: 0,1:54:19.66,1:54:21.58,Default,,0,0,0,,{\pos(1453.521,335.25)}[This is funny.]
+Dialogue: 0,1:54:21.59,1:54:25.10,Default,,0,0,0,,{\pos(1388.169,373.5)}[I like the word, "again."\NHe had done it before.]
+Dialogue: 0,1:54:28.45,1:54:31.02,Default,,0,0,0,,{\pos(1451.268,366.75)}[Tanaka, you have no\Ntolerance to Shikoku.]
+Dialogue: 0,1:54:37.37,1:54:41.76,Default,,0,0,0,,{\pos(1426.479,375.75)}[I read the paper carefully.\NIt's well-written.]
+Dialogue: 0,1:54:43.67,1:54:47.46,Default,,0,0,0,,{\pos(1446.761,335.25)}[It's very detailed.]
+Dialogue: 0,1:54:49.15,1:54:51.66,Hamada,,0,0,0,,This early in the morning, that sucks
+Dialogue: 0,1:54:55.01,1:54:56.01,Yamazaki,,0,0,0,,Tanaka
+Dialogue: 0,1:54:57.18,1:54:59.18,Yamazaki,,0,0,0,,Read this Article about Escargot man
+Dialogue: 0,1:55:01.18,1:55:02.95,Yamazaki,,0,0,0,,About Escargot man
+Dialogue: 0,1:55:03.95,1:55:04.65,Tanaka,,0,0,0,,Interview?
+Dialogue: 0,1:55:05.78,1:55:10.06,Narrator,,0,0,0,,This newspaper looks like a real sports page
+Dialogue: 0,1:55:10.52,1:55:16.80,Narrator,,0,0,0,,There's an article about Dynamite Shikoku getting injured and his surprising fight
+Dialogue: 0,1:55:18.90,1:55:23.27,Narrator,,0,0,0,,He tried he best to fight with the champion Escargot man
+Dialogue: 0,1:55:23.30,1:55:27.57,Narrator,,0,0,0,,but he lost the fight after 58 seconds into the 1st round
+Dialogue: 0,1:55:28.91,1:55:30.81,Tanaka,,0,0,0,,He lasted only 58 seconds
+Dialogue: 0,1:55:32.81,1:55:35.08,Tanaka,,0,0,0,,Just 58 seconds
+Dialogue: 0,1:55:44.12,1:55:47.13,Tanaka,,0,0,0,,He lost in 58 seconds!
+Dialogue: 0,1:56:01.12,1:56:05.92,Default,,0,0,0,,{\pos(971.268,859.5)}{\b1\fnArial Black\fs63}Yamasaki suddenly decides\Nto do a De Niro impression
+Dialogue: 0,1:56:14.45,1:56:15.52,Tanaka,,0,0,0,,Shit!
+Dialogue: 0,1:56:23.88,1:56:24.63,Default,,0,0,0,,(Bump)
+Dialogue: 0,1:56:27.83,1:56:30.28,Default,,0,0,0,,{\pos(1419.718,346.5)}[That's been there all the while!]
+Dialogue: 0,1:56:32.59,1:56:35.85,Default,,0,0,0,,{\pos(1376.901,353.25)}[I can't blame you guys for laughing.]
+Dialogue: 0,1:56:38.09,1:56:40.03,Default,,0,0,0,,{\pos(1410.704,344.25)}[No way wouldn't we laugh.]
+Dialogue: 0,1:56:48.13,1:56:50.79,Hamada,,0,0,0,,You can't do that
+Dialogue: 0,1:56:59.70,1:57:00.50,Hamada,,0,0,0,,You work today?
+Dialogue: 0,1:57:01.07,1:57:02.07,Tanaka,,0,0,0,,Yes
+Dialogue: 0,1:57:03.86,1:57:05.39,Yamazaki,,0,0,0,,I wonder what time it is
+Dialogue: 0,1:57:05.39,1:57:06.82,Tanaka,,0,0,0,,Me too
+Dialogue: 0,1:57:08.43,1:57:11.01,Yamazaki,,0,0,0,,They never let us know what time it is
+Dialogue: 0,1:57:11.30,1:57:18.93,Normal,,0,0,0,,Tonight is YAMADA(Crucial)
+Dialogue: 0,1:57:22.06,1:57:28.40,Normal,,0,0,0,,Tonight is YAMADA(Crucial)
+Dialogue: 0,1:57:37.46,1:57:44.26,Normal,,0,0,0,,Tonight is YAMADA(Crucial)
+Dialogue: 0,1:57:58.07,1:58:00.34,Yamazaki,,0,0,0,,So persistent
+Dialogue: 0,1:58:01.83,1:58:06.82,Tanaka,,0,0,0,,If it keeps coming like that, we're done
+Dialogue: 0,1:58:07.66,1:58:08.78,Default,,0,0,0,,(Bump)
+Dialogue: 0,1:58:09.53,1:58:10.28,Default,,0,0,0,,(Bump)
+Dialogue: 0,1:58:14.88,1:58:16.60,Default,,0,0,0,,{\pos(452.958,339.75)}[Why!]
+Dialogue: 0,1:58:19.69,1:58:22.34,Hamada,,0,0,0,,Come on, Yama-chan, enough is enough
+Dialogue: 0,1:58:24.01,1:58:28.64,Hamada,,0,0,0,,We should stop attacking each other
+Dialogue: 0,1:58:54.46,1:58:56.21,Hamada,,0,0,0,,Yama-chan, knock it off
+Dialogue: 0,1:58:57.70,1:59:00.84,Tanaka,,0,0,0,,You looked at me with that funny look of yours
+Dialogue: 0,1:59:04.93,1:59:07.63,Hamada,,0,0,0,,It's not like that was your first time walking there
+Dialogue: 0,1:59:11.10,1:59:14.97,Default,,0,0,0,,{\pos(1133.521,884.25)}{\b1\fnArial Black\fs63}Fujiwara dressed as\NBruce Lee (Game of Death)
+Dialogue: 0,1:59:15.12,1:59:19.47,Fujiwara,,0,0,0,,It's almost time to check out
+Dialogue: 0,1:59:19.47,1:59:21.34,Fujiwara,,0,0,0,,So let's go to the lobby
+Dialogue: 0,1:59:22.37,1:59:26.98,Default,,0,0,0,,{\pos(962.254,857.25)}{\b1\fnArial Black\fs63}Fujiwara Lee talks to Hamada with\Nhis face almost touching Hamada's
+Dialogue: 0,1:59:29.85,1:59:31.15,Fujiwara,,0,0,0,,Hamada
+Dialogue: 0,1:59:33.53,1:59:34.62,Default,,0,0,0,,{\pos(448.451,337.5)}[Too close.]
+Dialogue: 0,1:59:34.62,1:59:37.07,Default,,0,0,0,,{\pos(477.746,335.25)}[Yeah, it's too close.]
+Dialogue: 0,1:59:45.61,1:59:47.71,Hamada,,0,0,0,,Asshole
+Dialogue: 0,1:59:54.29,1:59:57.90,Yamazaki,,0,0,0,,That landed hard
+Dialogue: 0,1:59:59.01,2:00:01.96,Hamada,,0,0,0,,Why aren't you in your landlady's outfit?
+Dialogue: 0,2:00:03.58,2:00:06.38,Hamada,,0,0,0,,Why Bruce Lee?
+Dialogue: 0,2:00:09.05,2:00:12.59,Fujiwara,,0,0,0,,All hotel employees are here
+Dialogue: 0,2:00:12.60,2:00:14.94,Fujiwara,,0,0,0,,Let's thank them
+Dialogue: 0,2:00:14.94,2:00:16.82,Fujiwara,,0,0,0,,Come here
+Dialogue: 0,2:00:23.51,2:00:26.37,Pink,,0,0,0,,Thank you very much for staying at out inn
+Dialogue: 0,2:00:26.37,2:00:29.10,Pink,,0,0,0,,Thank you, sirs
+Dialogue: 0,2:00:29.42,2:00:35.61,Pink,,0,0,0,,As a sign of our gratitude, we have a present for you
+Dialogue: 0,2:00:46.12,2:00:51.50,Default,,0,0,0,,{\pos(1234.93,792)}{\b1\fnArial Black\fs63}Dynamite Shikoku\N pops out from the box
+Dialogue: 0,2:00:54.82,2:00:55.89,Endo,,0,0,0,,Everyone
+Dialogue: 0,2:00:56.86,2:00:59.55,Endo,,0,0,0,,On the count of 3...
+Dialogue: 0,2:01:08.37,2:01:11.40,Endo,,0,0,0,,Shikoku! Shikoku!
+Dialogue: 0,2:01:20.63,2:01:22.86,Default,,0,0,0,,{\pos(513.803,292.5)}[Look at the cleaning lady.]
+Dialogue: 0,2:01:33.79,2:01:36.46,Hamada,,0,0,0,,That jackass, at the very end, too!
+Dialogue: 0,2:01:38.18,2:01:41.71,Default,,0,0,0,,{\3c&HF31000&\b0\fnTahoma\fs63\pos(637.746,236.25)}Matsumoto Hitoshi
+Dialogue: 0,2:01:38.06,2:01:41.26,Normal,,0,0,0,,A day from hell is now over
+Dialogue: 0,2:01:41.26,2:01:44.18,Default,,0,0,0,,{\pos(1433.239,339.75)}[Don't use my song!]
+Dialogue: 0,2:01:44.38,2:01:46.65,Normal,,0,0,0,,They can't think of anything...
+Dialogue: 0,2:01:47.75,2:01:50.76,Normal,,0,0,0,,but their painful asses...
+Dialogue: 0,2:01:48.19,2:01:50.19,Default,,0,0,0,,{\pos(1408.451,344.25)}[Don't use my song!]
+Dialogue: 0,2:01:51.27,2:01:55.85,Default,,0,0,0,,{\fn\fs63\pos(996.056,965.25)\c&H6BF9FF&}Number of times participants were whipped:\N\N\N{\c&HF37F74&}No. 3     Tanaka Naoki      {\c&H6F6FFE&}64 times
+Dialogue: 0,2:01:56.15,2:02:00.71,Default,,0,0,0,,{\fn\fs63\pos(996.056,965.25)\c&H6BF9FF&}Number of times participants were whipped:\N\N\N{\c&HF37F74&}No. 2     Yamazaki Hosei     {\c&H6F6FFE&}72 times
+Dialogue: 0,2:02:02.59,2:02:04.71,Default,,0,0,0,,{\fn\fs63\pos(996.056,965.25)\c&H6BF9FF&}Number of times participants were whipped:\N\N\N{\c&HF37F74&}No. 1     Hamada Masatoshi     {\c&H6F6FFE&}
+Dialogue: 0,2:02:04.71,2:02:08.47,Default,,0,0,0,,{\fn\fs63\pos(996.056,965.25)\c&H6BF9FF&}Number of times participants were whipped:\N\N\N{\c&HF37F74&}No. 1     Hamada Masatoshi      {\c&H6F6FFE&}78 times
+Dialogue: 0,2:02:09.24,2:02:11.74,Hamada,,0,0,0,,That was pretty funny
+Dialogue: 0,2:02:11.84,2:02:14.21,Hamada,,0,0,0,,Tanaka you didn't get hit much
+Dialogue: 0,2:02:14.21,2:02:16.22,Tanaka,,0,0,0,,Hamada-san you were #1
+Dialogue: 0,2:02:17.62,2:02:23.16,Matsumoto,,0,0,0,,Last time I was #1, but it was 52 hits
+Dialogue: 0,2:02:23.26,2:02:25.26,Yamazaki,,0,0,0,,This was very different
+Dialogue: 0,2:02:25.36,2:02:27.29,Matsumoto,,0,0,0,,20 hits more than me
+Dialogue: 0,2:02:27.86,2:02:30.96,Matsumoto,,0,0,0,,Nakai's Shikoku Shikoku was great
+Dialogue: 0,2:02:30.73,2:02:32.40,Endo,,0,0,0,,Yes it was
+Dialogue: 0,2:02:32.03,2:02:34.03,Tanaka,,0,0,0,,--She was great
+Dialogue: 0,2:02:34.07,2:02:36.20,Matsumoto,,0,0,0,,She's great
+Dialogue: 0,2:02:44.14,2:02:48.14,Normal,,0,0,0,,{\pos(1151.549,137.25)}Watch the Serving lady!
+Dialogue: 0,2:02:48.28,2:02:50.28,Default,,0,0,0,,{\pos(545.352,400.5)}[She's amazing!]
+Dialogue: 0,2:03:03.50,2:03:04.76,Default,,0,0,0,,{\pos(525.07,400.5)}[She did it perfectly]
+Dialogue: 0,2:03:08.77,2:03:10.47,Matsumoto,,0,0,0,,Enough with this song!
+Dialogue: 0,2:03:12.81,2:03:14.81,Matsumoto,,0,0,0,,Stop using this song!
+Dialogue: 0,2:03:16.94,2:03:19.11,Hamada,,0,0,0,,Yeah, but it's you singing so we can
+Dialogue: 0,2:03:19.48,2:03:21.01,Yamazaki,,0,0,0,,Yes
+Dialogue: 0,2:03:22.11,2:03:23.42,Matsumoto,,0,0,0,,Well, no wonder it played twice
+Dialogue: 0,2:03:31.22,2:03:32.26,Matsumoto,,0,0,0,,Well shall we end here
+Dialogue: 0,2:03:32.29,2:03:33.83,Matsumoto,,0,0,0,,Yes after the song finishes
+Dialogue: 0,2:03:35.76,2:03:37.76,Yamazaki,,0,0,0,,Thank you everyone
+Dialogue: 0,2:02:20.15,2:02:22.15,Matsumoto,,0,0,0,,
+

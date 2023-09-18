@@ -1,0 +1,95 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 640
+PlayResY: 480
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: ../trimmed raws/ダウンタウンのごっつええ感じ 1994.08.14 #110 [DivX505 640x480 46m59s]-00.34.00.540-00.35.41.307.avi
+Video File: ../trimmed raws/ダウンタウンのごっつええ感じ 1994.08.14 #110 [DivX505 640x480 46m59s]-00.34.00.540-00.35.41.307.avi
+Video AR Mode: 4
+Video AR Value: 1.333333
+Video Zoom Percent: 0.500000
+Scroll Position: 38
+Active Line: 50
+Video Position: 419
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,41,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.75,0,2,6,6,8,1
+Style: filop,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1.5,2,6,6,8,1
+Style: TILT,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,7,1,1.5,1.5,2,6,6,8,1
+Style: GEKIHA,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,68,1,1.5,1.5,2,6,6,8,1
+Style: 90°,Arial,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,-90,1,1.5,1.5,2,6,6,8,1
+Style: Tanaka,Cooper Black,32,&H00A81A5E,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Matsumoto,Cooper Black,32,&H000000FF,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Hamada,Cooper Black,32,&H00B41009,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Endo,Cooper Black,32,&H002087FA,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Yamazaki,Cooper Black,32,&H00009F09,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Fujiwara,Cooper Black,32,&H00496500,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Black font,Cooper Black,32,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: White font,Cooper Black,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Interviewer,Cooper Black,32,&H00594A4A,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Questions / Answers,Arial,29,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: Guesses,Arial,29,&H00FFFFFF,&H000000FF,&H00EE761A,&H00EE761A,-1,0,0,0,100,100,0,0,1,1.5,1.5,2,6,6,8,1
+Style: nippon no uso,Franklin Gothic Medium,18,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.875,0,2,6,6,8,1
+Style: MISSING,Franklin Gothic Medium,18,&H000000FF,&H000000FF,&H0000FFDF,&H00000000,0,0,0,0,100,100,0,0,1,1.875,0,2,6,6,8,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.71,0:00:06.05,Default,,0,0,0,,{\fad(300,500)\pos(325.634,196.5)\c&H642FDF&\3c&HF29081&\3a&H77&\1a&H28&}OPERATION
+Dialogue: 0,0:00:07.35,0:00:08.32,Default,,0,0,0,,Scalpel\N- Here
+Dialogue: 0,0:00:12.96,0:00:14.16,Default,,0,0,0,,Forceps\N- Here
+Dialogue: 0,0:00:16.76,0:00:17.63,Default,,0,0,0,,I had enough
+Dialogue: 0,0:00:18.13,0:00:19.46,Default,,0,0,0,,Come on, that's enough
+Dialogue: 0,0:00:19.46,0:00:20.00,Default,,0,0,0,,But--
+Dialogue: 0,0:00:21.03,0:00:21.77,Default,,0,0,0,,Geez
+Dialogue: 0,0:00:22.07,0:00:23.54,Default,,0,0,0,,But you can't\N- I had enough
+Dialogue: 0,0:00:23.54,0:00:24.87,Default,,0,0,0,,It's taking so long!
+Dialogue: 0,0:00:25.17,0:00:25.60,Default,,0,0,0,,But--
+Dialogue: 0,0:00:26.00,0:00:27.11,Default,,0,0,0,,But it takes time!
+Dialogue: 0,0:00:27.11,0:00:29.81,Default,,0,0,0,,I thought it would be \Nlike, 20 or 30 minutes
+Dialogue: 0,0:00:30.11,0:00:32.71,Default,,0,0,0,,But this and that and this...\NI'm going now!
+Dialogue: 0,0:00:32.71,0:00:33.45,Default,,0,0,0,,You can't
+Dialogue: 0,0:00:33.95,0:00:34.98,Default,,0,0,0,,No, I'm going
+Dialogue: 0,0:00:34.98,0:00:35.98,Default,,0,0,0,,We're not done yet
+Dialogue: 0,0:00:35.98,0:00:37.12,Default,,0,0,0,,But I'm fine, really
+Dialogue: 0,0:00:37.12,0:00:37.82,Default,,0,0,0,,I'm going now
+Dialogue: 0,0:00:37.82,0:00:38.62,Default,,0,0,0,,I can't let you
+Dialogue: 0,0:00:38.62,0:00:39.08,Default,,0,0,0,,Huh?
+Dialogue: 0,0:00:39.38,0:00:40.05,Default,,0,0,0,,I still have to---
+Dialogue: 0,0:00:40.05,0:00:40.82,Default,,0,0,0,,I said I'm ok
+Dialogue: 0,0:00:41.09,0:00:42.89,Default,,0,0,0,,Can you bring me a mirror?
+Dialogue: 0,0:00:44.56,0:00:45.49,Default,,0,0,0,,Is this..?
+Dialogue: 0,0:00:45.86,0:00:47.13,Default,,0,0,0,,Oh, that's my bag
+Dialogue: 0,0:00:47.43,0:00:48.83,Default,,0,0,0,,And here's the mirror
+Dialogue: 0,0:00:52.23,0:00:54.43,Default,,0,0,0,,Alright, I can go\N- No, you can't!
+Dialogue: 0,0:00:54.43,0:00:55.63,Default,,0,0,0,,It's ok\N- No, it's not!
+Dialogue: 0,0:00:55.63,0:00:56.47,Default,,0,0,0,,I told you I can
+Dialogue: 0,0:00:56.47,0:00:57.24,Default,,0,0,0,,It's no ok!
+Dialogue: 0,0:00:57.24,0:00:58.47,Default,,0,0,0,,But I have a date today
+Dialogue: 0,0:00:58.47,0:00:59.10,Default,,0,0,0,,No way
+Dialogue: 0,0:00:59.10,0:01:01.47,Default,,0,0,0,,We're going to Disneyland\N to ride jet coasters
+Dialogue: 0,0:01:01.47,0:01:02.47,Default,,0,0,0,,You can't ride that!
+Dialogue: 0,0:01:02.47,0:01:04.08,Default,,0,0,0,,I told you it's ok, I'm going
+Dialogue: 0,0:01:04.38,0:01:05.08,Default,,0,0,0,,You should not--
+Dialogue: 0,0:01:05.08,0:01:08.41,Default,,0,0,0,,Don't worry I have this mousse,\NI'll be decent enough
+Dialogue: 0,0:01:11.42,0:01:12.52,Default,,0,0,0,,Please don't do that!!
+Dialogue: 0,0:01:12.52,0:01:13.75,Default,,0,0,0,,It's full of germs!
+Dialogue: 0,0:01:13.75,0:01:15.52,Default,,0,0,0,,I told you guys it's fine, geez
+Dialogue: 0,0:01:15.92,0:01:18.19,Default,,0,0,0,,Also I think I need... a hat, maybe?
+Dialogue: 0,0:01:18.19,0:01:19.19,Default,,0,0,0,,Is it sunny outside?
+Dialogue: 0,0:01:19.19,0:01:20.79,Default,,0,0,0,,Yes it's clear weather
+Dialogue: 0,0:01:23.80,0:01:25.10,Default,,0,0,0,,You shouldn't do that!
+Dialogue: 0,0:01:26.23,0:01:28.47,Default,,0,0,0,,Wait a second, maybe this...
+Dialogue: 0,0:01:29.27,0:01:30.07,Default,,0,0,0,,Oh, good! I can go
+Dialogue: 0,0:01:30.07,0:01:32.07,Default,,0,0,0,,No you can't, of course you can't!
+Dialogue: 0,0:01:32.07,0:01:33.11,Default,,0,0,0,,Sorry but I'm good!
+Dialogue: 0,0:01:33.11,0:01:34.01,Default,,0,0,0,,Thanks a bunch!
+Dialogue: 0,0:01:34.01,0:01:36.31,Default,,0,0,0,,Wait! Where are you going?!
+Dialogue: 0,0:01:36.31,0:01:38.31,Default,,0,0,0,,
+

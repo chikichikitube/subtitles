@@ -1,0 +1,343 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: WEDNESDAY DOWNTOWN 2016-06-08-cut.mp4
+Video File: WEDNESDAY DOWNTOWN 2016-06-08-cut.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 99
+Active Line: 125
+Video Position: 14651
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Narrator,Arial,60,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Matsumoto,Arial,60,&H001525D4,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Hamada,Arial,60,&H00FF0015,&H00000000,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,6,4,2,11,11,15,1
+Style: Default Talking Over,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,9,10,80,260,1
+Style: Matsumoto Talking Over,Arial,50,&H001525D4,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,9,10,80,260,1
+Style: Hamada Talking Over,Arial,50,&H00FF0015,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,9,10,80,260,1
+Style: Translator's Notes,Arial,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,2,8,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:02.00,Default,,0,0,0,,Translation: royaltree1204\NAdditional translations: Oolong, GakiDave\NTiming and typesetting: GakiDave
+Dialogue: 0,0:00:02.00,0:00:05.65,Hamada,,0,0,0,,Let's welcome our next presenter.
+Dialogue: 0,0:00:13.51,0:00:17.45,Hamada,,0,0,0,,It's Mr. Maric!
+Dialogue: 0,0:00:18.93,0:00:22.57,Hamada,,0,0,0,,We have... We have an unusual presenter.
+Dialogue: 0,0:00:22.75,0:00:25.17,Default,,0,0,0,,I'm very interested in this presentation though!
+Dialogue: 0,0:00:25.17,0:00:26.81,Default,,0,0,0,,What are you possibly going to present?
+Dialogue: 0,0:00:26.81,0:00:31.93,Default,,0,0,0,,Since I'm a magician, it will be about magicians.
+Dialogue: 0,0:00:30.05,0:00:31.96,Matsumoto,,0,0,0,,Ah, yes.
+Dialogue: 0,0:00:31.96,0:00:34.88,Default,,0,0,0,,When I say "magician," what do you all think of?
+Dialogue: 0,0:00:37.17,0:00:40.13,Default,,0,0,0,,A person who deceives.
+Dialogue: 0,0:00:40.13,0:00:42.99,Default,,0,0,0,,That is probably the most common, a person who deceives.
+Dialogue: 0,0:00:42.99,0:00:45.87,Hamada,,0,0,0,,Someone who is very dexterous.
+Dialogue: 0,0:00:45.99,0:00:51.38,Default,,0,0,0,,That is my specialty so I'd like to bring a theory related to that.
+Dialogue: 0,0:00:52.41,0:00:57.57,Hamada,,0,0,0,,If an evil magician decided to go all out, they can shoplift without security guards noticing.
+Dialogue: 0,0:00:59.57,0:01:02.91,Matsumoto,,0,0,0,,In a way, this has mixed rules.
+Dialogue: 0,0:01:03.01,0:01:05.96,Default,,0,0,0,,For example, from this distance, as an example...
+Dialogue: 0,0:01:07.51,0:01:10.91,Default,,0,0,0,,...here's a gold necklace. See the gold necklace?
+Dialogue: 0,0:01:10.91,0:01:12.95,Default,,0,0,0,,Let's say I shoplifted this.
+Dialogue: 0,0:01:12.95,0:01:14.74,Matsumoto,,0,0,0,,And we're the security guards.
+Dialogue: 0,0:01:14.84,0:01:18.59,Default,,0,0,0,,A magician can do this with a necklace like this.
+Dialogue: 0,0:01:18.59,0:01:21.29,Default,,0,0,0,,Put it in my hand like this.
+Dialogue: 0,0:01:21.55,0:01:24.55,Default,,0,0,0,,It's in my hand, are you watching?
+Dialogue: 0,0:01:26.55,0:01:30.07,Default,,0,0,0,,And it's gone. It's gone.
+Dialogue: 0,0:01:30.71,0:01:32.22,Default,,0,0,0,,It's nowhere to be found.
+Dialogue: 0,0:01:32.35,0:01:34.45,Default,,0,0,0,,If you seriously do not know what happened...
+Dialogue: 0,0:01:34.61,0:01:37.63,Default,,0,0,0,,...and if we were in a big grocery store, I could steal all I want.
+Dialogue: 0,0:01:39.27,0:01:43.50,Hamada,,0,0,0,,You're right, if he were an evil magician though.
+Dialogue: 0,0:01:43.50,0:01:47.03,Translator's Notes,,0,0,0,,{/a6}  T/N: The word for narcotics is "mayaku" while shoplifting is "manbiki" so Matsumoto accidentally mistakes them.
+Dialogue: 0,0:01:43.50,0:01:47.03,Matsumoto,,0,0,0,,But if narcotics... Wait, we're not talking about narcotics officers.
+Dialogue: 0,0:01:47.03,0:01:51.79,Hamada,,0,0,0,,ARE YOU STEALING NARCOTICS?!
+Dialogue: 0,0:01:49.63,0:01:51.79,Default,,0,0,0,,No, he's supposed to be the security guard.
+Dialogue: 0,0:01:52.65,0:01:59.37,Narrator,,0,0,0,,We tested the theory of if an evil magician decided to go all out, they can shoplift without security guards noticing.
+Dialogue: 0,0:02:00.25,0:02:06.83,Narrator,,0,0,0,,With that, we turn to a store that is worried about shoplifting in the Adachi ward in Tokyo.
+Dialogue: 0,0:02:06.83,0:02:08.33,Hamada Talking Over,,0,0,0,,Then don't do \Nit there!
+Dialogue: 0,0:02:08.33,0:02:10.29,Default Talking Over,,0,0,0,,Even though\Nthey're worried,\Nyou do it there?
+Dialogue: 0,0:02:08.01,0:02:13.15,Narrator,,0,0,0,,We conduct a magician vs. security shoplifting showdown.
+Dialogue: 0,0:02:13.15,0:02:17.10,Narrator,,0,0,0,,The rules are two teams of two.
+Dialogue: 0,0:02:17.95,0:02:20.83,Narrator,,0,0,0,,If security can catch the two magicians...
+Dialogue: 0,0:02:20.83,0:02:26.45,Narrator,,0,0,0,,...among ten random customers, they win.
+Dialogue: 0,0:02:26.99,0:02:33.82,Narrator,,0,0,0,,Tonight, Mr. Maric chooses to enlist these two magicians for the project.
+Dialogue: 0,0:02:34.01,0:02:35.51,Narrator,,0,0,0,,First up:
+Dialogue: 0,0:02:37.85,0:02:40.41,Narrator,,0,0,0,,A veteran performer for 30 years...
+Dialogue: 0,0:02:40.41,0:02:42.41,Narrator,,0,0,0,,Ken Masaki.
+Dialogue: 0,0:02:43.73,0:02:52.23,Narrator,,0,0,0,,Although he doesn't show up in the media much, he is known in the industry as a hidden genius magician.
+Dialogue: 0,0:02:52.65,0:02:54.15,Narrator,,0,0,0,,And the other:
+Dialogue: 0,0:02:56.83,0:03:00.74,Narrator,,0,0,0,,Female magician Mayuko.
+Dialogue: 0,0:03:01.59,0:03:04.17,Narrator,,0,0,0,,An expert magician whose sleight-of-hand work...
+Dialogue: 0,0:03:04.17,0:03:09.92,Narrator,,0,0,0,,...even Mr. Maric considers the best in the business.
+Dialogue: 0,0:03:10.09,0:03:12.82,Default,,0,0,0,,How confident are you tonight?
+Dialogue: 0,0:03:13.16,0:03:15.19,Default,,0,0,0,,Our specialty is to reveal things.
+Dialogue: 0,0:03:15.19,0:03:17.59,Default,,0,0,0,,I am a little uneasy, but...
+Dialogue: 0,0:03:17.59,0:03:21.03,Default,,0,0,0,,...we are still magicians.
+Dialogue: 0,0:03:21.03,0:03:24.39,Default,,0,0,0,,I believe I can make things disappear without getting caught.
+Dialogue: 0,0:03:25.33,0:03:27.07,Default,,0,0,0,,Mr. Maric...
+Dialogue: 0,0:03:27.07,0:03:32.45,Default,,0,0,0,,challenged me to do magic that can be seen 360° around me.
+Dialogue: 0,0:03:32.74,0:03:35.74,Default,,0,0,0,,Whether security or regular customers are watching...
+Dialogue: 0,0:03:35.74,0:03:40.65,Default,,0,0,0,,...viewing from anywhere - I'll work my magic.
+Dialogue: 0,0:03:39.75,0:03:40.68,Default Talking Over,,0,0,0,,Whoa, cool.
+Dialogue: 0,0:03:41.39,0:03:42.89,Narrator,,0,0,0,,Their opponent:
+Dialogue: 0,0:03:44.39,0:03:48.15,Narrator,,0,0,0,,Security Guard Ito Yuu.
+Dialogue: 0,0:03:48.79,0:03:52.89,Narrator,,0,0,0,,Fighting against all shoplifters in various media...
+Dialogue: 0,0:03:53.53,0:03:57.83,Narrator,,0,0,0,,...he's a top security guard.
+Dialogue: 0,0:03:55.99,0:03:57.83,Default Talking Over,,0,0,0,,Scary, scary!
+Dialogue: 0,0:03:57.93,0:04:00.90,Default,,0,0,0,,How many shoplifters have you caught?
+Dialogue: 0,0:04:01.03,0:04:02.70,Default,,0,0,0,,I've been in my career for 16 years.
+Dialogue: 0,0:04:02.70,0:04:07.65,Default,,0,0,0,,I would think over 4,000 people.
+Dialogue: 0,0:04:07.91,0:04:10.65,Default,,0,0,0,,Staff: Tonight they'll be magicians.
+Dialogue: 0,0:04:12.15,0:04:17.62,Default,,0,0,0,,I don't know what kind of tricks they'll use, but...
+Dialogue: 0,0:04:17.62,0:04:20.85,Default,,0,0,0,,...they still have to take the item and hide it.
+Dialogue: 0,0:04:21.09,0:04:23.59,Default,,0,0,0,,So we don't get tricked...
+Dialogue: 0,0:04:23.59,0:04:27.21,Default,,0,0,0,,...for us, we fight with our eyes.
+Dialogue: 0,0:04:27.95,0:04:31.05,Narrator,,0,0,0,,One hour before the showdown.
+Dialogue: 0,0:04:31.93,0:04:37.65,Narrator,,0,0,0,,Both teams get 10 minutes to scope the place.
+Dialogue: 0,0:04:40.94,0:04:42.18,Default,,0,0,0,,Kiwis.
+Dialogue: 0,0:04:42.18,0:04:44.55,Default,,0,0,0,,I like round things, even in everyday life.
+Dialogue: 0,0:04:44.55,0:04:46.08,Default,,0,0,0,,Normally I use white balls.
+Dialogue: 0,0:04:46.08,0:04:49.02,Default,,0,0,0,,Making them appear and disappear is my forte.
+Dialogue: 0,0:04:49.02,0:04:51.47,Default,,0,0,0,,If I can take this, that would be nice.
+Dialogue: 0,0:04:51.69,0:04:53.87,Default,,0,0,0,,Something like this is OK.
+Dialogue: 0,0:04:53.87,0:04:57.49,Default,,0,0,0,,You can make this disappear, just like that, with your custom device.
+Dialogue: 0,0:04:57.49,0:04:59.26,Default,,0,0,0,,This would be easy.
+Dialogue: 0,0:04:58.09,0:05:00.09,Default Talking Over,,0,0,0,,Custom device?
+Dialogue: 0,0:05:00.29,0:05:06.20,Narrator,,0,0,0,,It appears they've found a number of items they can use their magic on.
+Dialogue: 0,0:05:06.89,0:05:08.39,Narrator,,0,0,0,,Meanwhile...
+Dialogue: 0,0:05:09.23,0:05:12.39,Default,,0,0,0,,I kind of have a bad feeling.
+Dialogue: 0,0:05:12.39,0:05:14.61,Default,,0,0,0,,Staff: Bad feeling?
+Dialogue: 0,0:05:13.04,0:05:14.61,Default,,0,0,0,,{\pos(740,820)}I have a bad feeling.
+Dialogue: 0,0:05:14.61,0:05:17.86,Default,,0,0,0,,Bad guys like dimly lit areas.
+Dialogue: 0,0:05:18.25,0:05:21.29,Default,,0,0,0,,This opening also concerns me.
+Dialogue: 0,0:05:21.29,0:05:23.71,Default,,0,0,0,,There's three ways, but...
+Dialogue: 0,0:05:23.71,0:05:25.95,Default,,0,0,0,,...you can only see it from here.
+Dialogue: 0,0:05:26.57,0:05:33.60,Narrator,,0,0,0,,Tonight we set up 20 cameras to get every angle.
+Dialogue: 0,0:05:34.19,0:05:38.75,Narrator,,0,0,0,,One of the security guards will watch the monitors.
+Dialogue: 0,0:05:39.35,0:05:44.31,Narrator,,0,0,0,,The other will be deployed on scene.
+Dialogue: 0,0:05:45.34,0:05:47.31,Default,,0,0,0,,We should be able to tell.
+Dialogue: 0,0:05:47.31,0:05:49.98,Default,,0,0,0,,If we don't get this...
+Dialogue: 0,0:05:50.58,0:05:53.23,Default,,0,0,0,,...I'll have to quit my job.
+Dialogue: 0,0:05:53.97,0:05:56.89,Narrator,,0,0,0,,Let's review the rules.
+Dialogue: 0,0:05:57.73,0:06:00.19,Narrator,,0,0,0,,Among ten random customers...
+Dialogue: 0,0:06:00.19,0:06:03.75,Narrator,,0,0,0,,...two will be magicians, and one a security guard.
+Dialogue: 0,0:06:04.69,0:06:10.55,Narrator,,0,0,0,,The competition starts with neither knowing what the other looks like.
+Dialogue: 0,0:06:11.13,0:06:17.23,Narrator,,0,0,0,,During the 30 minutes only magicians will steal items.
+Dialogue: 0,0:06:17.55,0:06:20.09,Narrator,,0,0,0,,At the end of the contest...
+Dialogue: 0,0:06:20.09,0:06:22.99,Narrator,,0,0,0,,...the security guard will accuse the suspect...
+Dialogue: 0,0:06:22.99,0:06:25.69,Narrator,,0,0,0,,...who he believes is a magician, of shoplifting...
+Dialogue: 0,0:06:26.37,0:06:29.31,Narrator,,0,0,0,,...and call out what items were stolen.
+Dialogue: 0,0:06:29.97,0:06:34.97,Narrator,,0,0,0,,If at least two items are correct, the security guards win.
+Dialogue: 0,0:06:37.25,0:06:43.25,Narrator,,0,0,0,,However, if at least two items aren't correct, the magician wins.
+Dialogue: 0,0:06:44.53,0:06:49.23,Narrator,,0,0,0,,We thought the incorrect items will then be given as a prize...
+Dialogue: 0,0:06:49.23,0:06:54.39,Narrator,,0,0,0,,...but that would just be stealing, so dismiss that idea.
+Dialogue: 0,0:06:55.49,0:06:58.71,Narrator,,0,0,0,,Tonight will just be for self-satisfaction.
+Dialogue: 0,0:06:58.89,0:07:00.77,Hamada,,0,0,0,,Was it necessary to say that?
+Dialogue: 0,0:07:01.55,0:07:05.69,Narrator,,0,0,0,,Who will win this showdown? Magicians?
+Dialogue: 0,0:07:06.31,0:07:10.18,Narrator,,0,0,0,,Or will it be the security guards?
+Dialogue: 0,0:07:17.31,0:07:18.81,Default Talking Over,,0,0,0,,Here they come.
+Dialogue: 0,0:07:20.60,0:07:24.34,Default,,0,0,0,,Everyone looks the part.
+Dialogue: 0,0:07:31.13,0:07:34.85,Matsumoto Talking Over,,0,0,0,,Everyone? Do they look\Nlike shoplifters or magicians?
+Dialogue: 0,0:07:38.35,0:07:41.25,Default,,0,0,0,,That old man is suspicious.
+Dialogue: 0,0:07:39.37,0:07:41.25,Default Talking Over,,0,0,0,,He thinks the old man \Nis suspicious.
+Dialogue: 0,0:07:42.35,0:07:47.65,Narrator,,0,0,0,,The security guards suspects something about the magician's movement...
+Dialogue: 0,0:07:47.65,0:07:50.47,Narrator,,0,0,0,,...as soon as he walks in.
+Dialogue: 0,0:07:48.77,0:07:51.15,Hamada Talking Over,,0,0,0,,But it's meaningless \Nif he doesn't see \Nhim take anything.
+Dialogue: 0,0:07:51.65,0:07:53.79,Default,,0,0,0,,Follow him.  I'll look elsewhere.
+Dialogue: 0,0:07:53.79,0:07:55.29,Default Talking Over,,0,0,0,,Already marked.
+Dialogue: 0,0:07:55.19,0:08:00.87,Narrator,,0,0,0,,The male magician is being closely marked by security.
+Dialogue: 0,0:08:07.38,0:08:08.88,Default Talking Over,,0,0,0,,My heart is pounding.
+Dialogue: 0,0:08:12.25,0:08:15.52,Default,,0,0,0,,This guy? Maybe this guy?
+Dialogue: 0,0:08:15.52,0:08:17.89,Default,,0,0,0,,No, he's yawning.
+Dialogue: 0,0:08:17.89,0:08:20.25,Default,,0,0,0,,Throw out the guy in beige.
+Dialogue: 0,0:08:21.06,0:08:24.59,Default,,0,0,0,,What about boy with headphones, that guy. No?
+Dialogue: 0,0:08:24.59,0:08:25.57,Default,,0,0,0,,No...
+Dialogue: 0,0:08:25.83,0:08:29.23,Matsumoto,,0,0,0,,Kind of rude!
+Dialogue: 0,0:08:28.35,0:08:29.23,Hamada,,0,0,0,,That's true.
+Dialogue: 0,0:08:30.19,0:08:35.41,Narrator,,0,0,0,,Security narrows down the targets one by one.
+Dialogue: 0,0:08:36.21,0:08:37.71,Narrator,,0,0,0,,However...
+Dialogue: 0,0:08:38.11,0:08:41.21,Default,,0,0,0,,I can't make any headway.
+Dialogue: 0,0:08:41.55,0:08:43.82,Default,,0,0,0,,Staff: Maybe they haven't stolen anything yet?
+Dialogue: 0,0:08:43.82,0:08:46.59,Default,,0,0,0,,I don't see anyone moving suspiciously.
+Dialogue: 0,0:08:47.25,0:08:50.25,Narrator,,0,0,0,,Ten minutes into the contest.
+Dialogue: 0,0:09:01.17,0:09:05.23,Default,,0,0,0,,She has something.  She's got something.
+Dialogue: 0,0:09:07.74,0:09:10.68,Default,,0,0,0,,Candy! Candy! Candy!
+Dialogue: 0,0:09:12.98,0:09:15.55,Default,,0,0,0,,Behind you.
+Dialogue: 0,0:09:15.55,0:09:21.77,Default,,0,0,0,,Maybe gum? I didn't see what she took.
+Dialogue: 0,0:09:22.43,0:09:25.87,Narrator,,0,0,0,,Security reacts to the female magician's movements.
+Dialogue: 0,0:09:26.85,0:09:30.09,Narrator,,0,0,0,,But couldn't get proof of what was taken.
+Dialogue: 0,0:09:30.39,0:09:32.45,Hamada Talking Over,,0,0,0,,It looked like she put\N it in the basket.
+Dialogue: 0,0:09:33.21,0:09:34.71,Narrator,,0,0,0,,However, afterwards...
+Dialogue: 0,0:09:38.21,0:09:41.48,Default,,0,0,0,,Her behavior is suspicious. This one.
+Dialogue: 0,0:09:44.61,0:09:47.61,Narrator,,0,0,0,,They continue marking her.
+Dialogue: 0,0:09:52.52,0:09:56.16,Default,,0,0,0,,I don't think I'm wrong about this one.
+Dialogue: 0,0:09:57.03,0:10:01.03,Narrator,,0,0,0,,They conclude this is one of the magicians.
+Dialogue: 0,0:10:03.31,0:10:08.31,Narrator,,0,0,0,,But can they correctly identify what was stolen?
+Dialogue: 0,0:10:10.15,0:10:15.15,Narrator,,0,0,0,,And how much is the other magician getting away with?
+Dialogue: 0,0:10:20.77,0:10:22.38,Default,,0,0,0,,Staff: How was it?
+Dialogue: 0,0:10:22.38,0:10:24.28,Default,,0,0,0,,It was harder than I thought.
+Dialogue: 0,0:10:24.62,0:10:26.31,Default,,0,0,0,,Staff: Do you know who the magicians are?
+Dialogue: 0,0:10:26.31,0:10:30.46,Default,,0,0,0,,I think I know who the magicians are.
+Dialogue: 0,0:10:31.19,0:10:33.37,Narrator,,0,0,0,,Time to prove their claim.
+Dialogue: 0,0:10:33.37,0:10:35.69,Narrator,,0,0,0,,As the customers leave the store...
+Dialogue: 0,0:10:35.69,0:10:38.97,Narrator,,0,0,0,,...they stop the ones they believe to be a magician.
+Dialogue: 0,0:10:39.85,0:10:42.43,Narrator,,0,0,0,,The result?
+Dialogue: 0,0:10:59.51,0:11:05.15,Narrator,,0,0,0,,How well did security observe the magician's acts of crime?
+Dialogue: 0,0:11:10.77,0:11:13.11,Hamada Talking Over,,0,0,0,,That's the first guy \Nhe threw out.
+Dialogue: 0,0:11:13.11,0:11:15.11,Default Talking Over,,0,0,0,,He did say "throw out \Nthe guy in beige."
+Dialogue: 0,0:11:20.43,0:11:22.68,Default,,0,0,0,,You're a magician, aren't you?
+Dialogue: 0,0:11:22.68,0:11:24.21,Default,,0,0,0,,Yes.
+Dialogue: 0,0:11:24.91,0:11:29.38,Narrator,,0,0,0,,They got the first magician correct.
+Dialogue: 0,0:11:30.03,0:11:32.81,Narrator,,0,0,0,,But here's where the real battle starts.
+Dialogue: 0,0:11:33.65,0:11:36.65,Narrator,,0,0,0,,If two of the stolen items are accurately declared...
+Dialogue: 0,0:11:36.65,0:11:38.65,Narrator,,0,0,0,,...the security guards win.
+Dialogue: 0,0:11:40.47,0:11:43.65,Default,,0,0,0,,So, what did she take?
+Dialogue: 0,0:11:43.65,0:11:46.89,Default,,0,0,0,,I think it's a cup of noodles and a Kewpie mayonnaise.  A small one.
+Dialogue: 0,0:11:47.95,0:11:50.45,Narrator,,0,0,0,,And the result is?
+Dialogue: 0,0:11:50.45,0:11:52.03,Hamada Talking Over,,0,0,0,,Cup of noodles?
+Dialogue: 0,0:11:52.03,0:11:56.85,Default,,0,0,0,,No, I do not have a cup of noodles and mayonnaise.
+Dialogue: 0,0:11:59.89,0:12:03.41,Narrator,,0,0,0,,What?! Wrongly accused!
+Dialogue: 0,0:12:03.95,0:12:08.95,Narrator,,0,0,0,,With that said, under these circumstances the magician wins.
+Dialogue: 0,0:12:10.26,0:12:12.36,Hamada,,0,0,0,,What did she take?
+Dialogue: 0,0:12:13.01,0:12:15.65,Narrator,,0,0,0,,Indeed, what did she steal?
+Dialogue: 0,0:12:17.25,0:12:21.25,Narrator,,0,0,0,,What came out of the special costume was...
+Dialogue: 0,0:12:23.81,0:12:29.11,Default,,0,0,0,,{\pos(200,1015)}Rice seasoning
+Dialogue: 0,0:12:25.99,0:12:26.81,Narrator,,0,0,0,,Furthermore...
+Dialogue: 0,0:12:29.11,0:12:34.02,Default,,0,0,0,,{\pos(200,940)}Rice seasoning
+Dialogue: 0,0:12:29.11,0:12:34.02,Default,,0,0,0,,{\pos(200,1015)}Chocolate
+Dialogue: 0,0:12:29.31,0:12:31.61,Default,,0,0,0,,This is what I thought was mayonnaise.
+Dialogue: 0,0:12:31.61,0:12:33.11,Default,,0,0,0,,A small one.
+Dialogue: 0,0:12:34.02,0:12:37.65,Default,,0,0,0,,{\pos(200,860)}Rice seasoning
+Dialogue: 0,0:12:34.02,0:12:37.65,Default,,0,0,0,,{\pos(200,935)}Chocolate
+Dialogue: 0,0:12:34.02,0:12:37.65,Default,,0,0,0,,{\pos(200,1015)}Ramune candy
+Dialogue: 0,0:12:37.65,0:12:39.15,Default,,0,0,0,,{\pos(200,785)}Rice seasoning
+Dialogue: 0,0:12:37.65,0:12:39.15,Default,,0,0,0,,{\pos(200,860)}Chocolate
+Dialogue: 0,0:12:37.65,0:12:39.15,Default,,0,0,0,,{\pos(200,935)}Ramune candy
+Dialogue: 0,0:12:37.65,0:12:39.15,Default,,0,0,0,,{\pos(200,1010)}Kiwi
+Dialogue: 0,0:12:39.29,0:12:43.12,Matsumoto,,0,0,0,,This girl took a lot!
+Dialogue: 0,0:12:43.12,0:12:43.62,Default,,0,0,0,,{\pos(200,780)}Rice seasoning
+Dialogue: 0,0:12:43.12,0:12:43.62,Default,,0,0,0,,{\pos(200,860)}Chocolate
+Dialogue: 0,0:12:43.12,0:12:43.62,Default,,0,0,0,,{\pos(200,935)}Ramune
+Dialogue: 0,0:12:43.12,0:12:43.62,Default,,0,0,0,,{\pos(200,1015)}Kiwi
+Dialogue: 0,0:12:43.62,0:12:45.26,Default,,0,0,0,,{\pos(200,710)}Rice seasoning
+Dialogue: 0,0:12:43.62,0:12:45.26,Default,,0,0,0,,{\pos(200,785)}Chocolate
+Dialogue: 0,0:12:43.62,0:12:45.26,Default,,0,0,0,,{\pos(200,860)}Ramune
+Dialogue: 0,0:12:43.62,0:12:45.26,Default,,0,0,0,,{\pos(200,940)}Kiwi
+Dialogue: 0,0:12:43.62,0:12:45.26,Default,,0,0,0,,{\pos(200,1015)}Yōkan
+Dialogue: 0,0:12:43.89,0:12:49.51,Narrator,,0,0,0,,Afterwards, more and more items \Nkept coming from her clothes.
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,630)}Rice seasoning
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,710)}Chocolate
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,785)}Ramune candy
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,860)}Kiwi
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,935)}Yōkan
+Dialogue: 0,0:12:45.26,0:12:46.43,Default,,0,0,0,,{\pos(200,1010)}Lime
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,560)}Rice seasoning
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,635)}Chocolate
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,710)}Ramune candy
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,790)}Kiwi
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,865)}Yōkan
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,940)}Lime
+Dialogue: 0,0:12:46.43,0:12:47.33,Default,,0,0,0,,{\pos(200,1010)}Ramune candy
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,480)}Rice seasoning
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,560)}Chocolate
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,635)}Ramune candy
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,710)}Kiwi
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,785)}Yōkan
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,860)}Lime
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,935)}Ramune candy
+Dialogue: 0,0:12:47.33,0:12:48.83,Default,,0,0,0,,{\pos(200,1010)}Ramune candy
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,400)}Rice seasoning
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,480)}Chocolate
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,555)}Ramune candy
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,635)}Kiwi
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,710)}Yōkan
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,860)}Ramune candy
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,935)}Ramune candy
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,785)}Lime
+Dialogue: 0,0:12:48.83,0:12:50.43,Default,,0,0,0,,{\pos(200,1010)}Candy
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,330)}Rice seasoning
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,410)}Chocolate
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,485)}Ramune candy
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,565)}Kiwi
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,640)}Yōkan
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,715)}Lime
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,790)}Ramune candy
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,865)}Ramune candy
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,940)}Candy
+Dialogue: 0,0:12:50.43,0:12:52.73,Default,,0,0,0,,{\pos(200,1015)}Chocolate
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,255)}Rice seasoning
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,335)}Chocolate
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,410)}Ramune candy
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,485)}Kiwi
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,560)}Yōkan
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,635)}Lime
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,710)}Ramune candy
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,785)}Ramune candy
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,860)}Candy
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,935)}Chocolate
+Dialogue: 0,0:12:52.73,0:12:55.67,Default,,0,0,0,,{\pos(200,1010)}Cucumber
+Dialogue: 0,0:12:52.73,0:12:54.75,Default Talking Over,,0,0,0,,A cucmber?!
+Dialogue: 0,0:12:54.75,0:12:55.67,Default Talking Over,,0,0,0,,Amazing!
+Dialogue: 0,0:12:56.59,0:12:59.81,Narrator,,0,0,0,,Here is that technique.
+Dialogue: 0,0:13:06.87,0:13:08.37,Default Talking Over,,0,0,0,,It just went in.
+Dialogue: 0,0:13:09.25,0:13:12.01,Default Talking Over,,0,0,0,,In her sleeve.
+Dialogue: 0,0:13:13.19,0:13:16.19,Narrator,,0,0,0,,Did you notice?
+Dialogue: 0,0:13:18.19,0:13:21.19,Narrator,,0,0,0,,Pretending to reach for one cucumber...
+Dialogue: 0,0:13:23.53,0:13:27.37,Narrator,,0,0,0,,...the other is put in the sleeve.
+Dialogue: 0,0:13:27.77,0:13:33.81,Narrator,,0,0,0,,The average person cannot pull off this technique.
+Dialogue: 0,0:13:34.21,0:13:38.65,Narrator,,0,0,0,,The magician continues putting things in her clothes, one by one.
+Dialogue: 0,0:13:40.45,0:13:43.15,Narrator,,0,0,0,,In there there's also this.
+Dialogue: 0,0:13:46.22,0:13:48.05,Default,,0,0,0,,A fish!
+Dialogue: 0,0:13:50.33,0:13:52.03,Hamada,,0,0,0,,Wow!
+Dialogue: 0,0:13:52.99,0:13:57.85,Narrator,,0,0,0,,A total of 15 items stolen without one being detected.
+Dialogue: 0,0:13:57.85,0:14:01.78,Narrator,,0,0,0,,A complete victory for the magician.
+Dialogue: 0,0:14:02.25,0:14:04.25,Narrator,,0,0,0,,And the second...
+Dialogue: 0,0:14:15.98,0:14:18.55,Default,,0,0,0,,You're a magician, aren't you?
+Dialogue: 0,0:14:17.82,0:14:18.55,Default,,0,0,0,,{\pos(720,820)}You're wrong.
+Dialogue: 0,0:14:18.55,0:14:21.99,Default,,0,0,0,,Ah...is that so?
+Dialogue: 0,0:14:22.85,0:14:28.65,Narrator,,0,0,0,,What?! This one didn't give away he was a magician!
+Dialogue: 0,0:14:29.05,0:14:33.23,Default,,0,0,0,,Actually my name is Ken Masaki.  A magician.
+Dialogue: 0,0:14:33.60,0:14:35.37,Default,,0,0,0,,We were debating.
+Dialogue: 0,0:14:35.37,0:14:37.51,Default,,0,0,0,,Staff: How do you think he did it?
+Dialogue: 0,0:14:36.34,0:14:37.51,Default,,0,0,0,,{\pos(720,820)}I don't know his method...
+Dialogue: 0,0:14:37.51,0:14:39.87,Default,,0,0,0,,...but he looked puffy, so I was marking him.
+Dialogue: 0,0:14:40.71,0:14:43.61,Narrator,,0,0,0,,The security guards noticed the puffiness in his stomach.
+Dialogue: 0,0:14:43.61,0:14:46.05,Narrator,,0,0,0,,What did they find there?
+Dialogue: 0,0:14:46.25,0:14:49.17,Default,,0,0,0,,I have potatoes, carrots, and onions.
+Dialogue: 0,0:14:51.43,0:14:54.35,Default,,0,0,0,,My goal was curry.
+Dialogue: 0,0:14:55.65,0:14:59.47,Default,,0,0,0,,You have three hands.
+Dialogue: 0,0:14:57.95,0:14:59.47,Default,,0,0,0,,{\pos(720,880)}This is magic.
+Dialogue: 0,0:14:59.47,0:15:03.65,Hamada,,0,0,0,,I see!
+Dialogue: 0,0:15:04.21,0:15:05.71,Narrator,,0,0,0,,That's right.
+Dialogue: 0,0:15:09.45,0:15:11.95,Default Talking Over,,0,0,0,,Having an extra hand\N is an advantage.
+Dialogue: 0,0:15:15.19,0:15:18.19,Default Talking Over,,0,0,0,,What is this?!\NScary! Scary!
+Dialogue: 0,0:15:16.15,0:15:20.19,Narrator,,0,0,0,,The right hand pushing the cart was a dummy.
+Dialogue: 0,0:15:21.35,0:15:25.37,Narrator,,0,0,0,,With his real hand hidden from the cameras in his stomach...
+Dialogue: 0,0:15:25.37,0:15:28.37,Narrator,,0,0,0,,...he is calmly able to commit crimes.
+Dialogue: 0,0:15:30.97,0:15:32.97,Narrator,,0,0,0,,This was also inside.
+Dialogue: 0,0:15:36.99,0:15:39.47,Default,,0,0,0,,You did well to fit that in.
+Dialogue: 0,0:15:40.07,0:15:42.69,Default,,0,0,0,,We only check to see both hands.
+Dialogue: 0,0:15:43.00,0:15:45.39,Default,,0,0,0,,You win.
+Dialogue: 0,0:15:45.85,0:15:47.95,Narrator,,0,0,0,,In conclusion, shoplifting is a crime.
+Dialogue: 0,0:15:47.95,0:15:50.73,Narrator,,0,0,0,,You could serve up to ten years...
+Dialogue: 0,0:15:50.73,0:15:54.52,Narrator,,0,0,0,,...and fined up to 500,000 yen.
+Dialogue: 0,0:15:50.73,0:15:54.52,Translator's Notes,,0,0,0,,{/a6} T/N: At the time of translating, 500,000yen is equal to $3,611USD.
+Dialogue: 0,0:15:58.19,0:15:59.69,Default,,0,0,0,,Perfect!
+Dialogue: 0,0:16:00.09,0:16:02.40,Default,,0,0,0,,Although I don't think there will be anyone who would try to imitate this after watching.
+Dialogue: 0,0:16:02.62,0:16:05.76,Default,,0,0,0,,You won't be able to pull it off this well.
+Dialogue: 0,0:16:06.87,0:16:10.01,Default,,0,0,0,,I repeat, this is in the context of evil magicians.
+Dialogue: 0,0:16:13.69,0:16:16.75,Matsumoto,,0,0,0,,But the one who took 10 or so items...
+Dialogue: 0,0:16:16.75,0:16:19.19,Matsumoto,,0,0,0,,...Mr. Maric was so amused, you'd almost cringe.
+Dialogue: 0,0:16:20.09,0:16:22.09,Default,,0,0,0,,But she took a fish! A fish!
+Dialogue: 0,0:16:22.25,0:16:27.09,Default,,0,0,0,,Is it something only relatable to magicians?
+

@@ -1,0 +1,1026 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2022-06-29) (Raw).mp4
+Video File: WDT (2022-06-29) (Raw).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 21
+Video Position: 2095
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,30,30,23,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,110,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: Matsumoto,Arial,65,&H0002FFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: ippon Dialogue_Black,Arial,65,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,5,1
+Style: ippon Dialogue,Arial,70,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,0,0,0,1
+Style: special_Gaki,Arial,60,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,2,7,658,10,834,1
+Style: normal_Gaki,Arial,55,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,135,0,0,1,2.5,2,2,10,10,5,1
+Style: Special_Blue_Gaki,Arial,55,&H00E8C810,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,130,0,0,1,4,2,2,10,10,210,1
+Style: edit,Arial,35,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,4,2,7,15,10,15,1
+Style: note_Gaki,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+Style: staff_list_Gaki,Arial,50,&H000200B2,&H00FFFFFF,&H27FFFFFF,&HFF000000,0,0,0,0,100,130,0,0,1,2.5,0.1,8,750,10,65,1
+Style: Talk_M,Arial,55,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,135,0,0,1,2.5,2,2,10,10,5,1
+Style: Talk_H,Arial,55,&H00FFFFFF,&H000000FF,&H00FAA337,&H00000000,-1,0,0,0,100,135,0,0,1,2.5,2,2,10,10,5,1
+Style: Talk_wipe_L,Arial,42,&H00FFFFFF,&H000000FF,&H00FAA337,&H00000000,-1,0,0,0,100,130,0,0,1,4,2,8,20,1160,260,1
+Style: Talk_wip,Arial,42,&H00FFFFFF,&H000000FF,&H00FAA337,&H00000000,-1,0,0,0,100,135,0,0,1,2.5,2,8,1200,100,280,1
+Style: special_Wed_1_2,Arial,55,&H0027EBFF,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: special_Wed_2_2,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.61,0:00:06.31,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown
+Dialogue: 0,0:00:07.36,0:00:10.36,normal_Wed,,0,0,0,,Let's get on with our first presenter please
+Dialogue: 0,0:00:15.42,0:00:18.24,normal_Wed,,0,0,0,,Welcome to Oda
+Dialogue: 0,0:00:18.24,0:00:20.87,normal_Wed,,0,0,0,,Oh my god
+Dialogue: 0,0:00:21.00,0:00:22.01,normal_Wed,,0,0,0,,It's the glasses duo!
+Dialogue: 0,0:00:22.01,0:00:24.68,normal_Wed,,0,0,0,,You're right.  \N-We are not copying anyone
+Dialogue: 0,0:00:24.68,0:00:26.03,normal_Wed,,0,0,0,,There are others
+Dialogue: 0,0:00:26.61,0:00:28.77,normal_Wed,,0,0,0,,There are a lot
+Dialogue: 0,0:00:28.77,0:00:30.31,normal_Wed,,0,0,0,,Enough is enough\N  -Enough is enough
+Dialogue: 0,0:00:30.54,0:00:32.10,normal_Wed,,0,0,0,,So what are we here for?
+Dialogue: 0,0:00:33.03,0:00:33.75,normal_Wed,,0,0,0,,This time we bring you this:
+Dialogue: 0,0:00:33.75,0:00:39.54,normal_Wed,,0,0,0,,The 2nd edition of the theory from last year
+Dialogue: 0,0:00:39.54,0:00:41.49,normal_Wed,,0,0,0,,It is this:
+Dialogue: 0,0:00:41.49,0:00:47.43,normal_Wed,,0,0,0,,The 2nd "It's impossible to cry while doing the Matsuken Samba"
+Dialogue: 0,0:00:50.22,0:00:53.20,normal_Wed,,0,0,0,,I don't feel its worth doing this again
+Dialogue: 0,0:00:53.20,0:00:53.94,normal_Wed,,0,0,0,,Hasn't it already been proven?
+Dialogue: 0,0:00:53.94,0:00:54.88,normal_Wed,,0,0,0,,Do you remember?
+Dialogue: 0,0:00:54.88,0:00:58.30,normal_Wed,,0,0,0,,Of course, super hard to do
+Dialogue: 0,0:00:58.30,0:01:00.43,normal_Wed,,0,0,0,,As you know
+Dialogue: 0,0:01:00.43,0:01:06.58,normal_Wed,,0,0,0,,We did the project before of trying to cry while doing the Matsuken Samba
+Dialogue: 0,0:01:06.71,0:01:08.41,normal_Wed,,0,0,0,,It was a little hard to understand though
+Dialogue: 0,0:01:09.31,0:01:10.36,normal_Wed,,0,0,0,,He's very nervous right now
+Dialogue: 0,0:01:10.36,0:01:12.86,normal_Wed,,0,0,0,,At times like this, you don't make a joke at all?
+Dialogue: 0,0:01:12.86,0:01:14.15,normal_Wed,,0,0,0,,What is there to say?
+Dialogue: 0,0:01:15.01,0:01:17.23,normal_Wed,,0,0,0,,There's no script so this'll happen
+Dialogue: 0,0:01:17.23,0:01:19.20,normal_Wed,,0,0,0,,Well, while singing and dancing...  \N-Difficult
+Dialogue: 0,0:01:19.20,0:01:22.34,normal_Wed,,0,0,0,,I'm wondering if I can ask to do it
+Dialogue: 0,0:01:22.34,0:01:23.82,normal_Wed,,0,0,0,,You're so noisy \N -What are you talking about?
+Dialogue: 0,0:01:24.99,0:01:26.00,normal_Wed,,0,0,0,,So scary
+Dialogue: 0,0:01:41.65,0:01:48.32,normal_Wed,,0,0,0,,The 2nd "It's impossible to cry while doing the Matsuken Samba"
+Dialogue: 0,0:01:49.04,0:01:51.16,normal_Wed,,0,0,0,,This time
+Dialogue: 0,0:01:51.16,0:01:54.50,normal_Wed,,0,0,0,,The challengers are dancing the Matsuken Samba
+Dialogue: 0,0:01:54.94,0:01:58.09,normal_Wed,,0,0,0,,57 seconds from the beginning of the second verse to the chorus
+Dialogue: 0,0:01:58.09,0:02:02.32,normal_Wed,,0,0,0,,Will they be able to cry?
+Dialogue: 0,0:02:03.58,0:02:05.01,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:02:06.65,0:02:08.13,wipe_Wed,,0,0,0,,This one won't work
+Dialogue: 0,0:02:06.67,0:02:08.39,normal_Wed,,0,0,0,,The first challenger is
+Dialogue: 0,0:02:08.39,0:02:10.28,normal_Wed,,0,0,0,,Diane's Tsuda
+Dialogue: 0,0:02:10.28,0:02:12.58,normal_Wed,,0,0,0,,Little things make me cry easily
+Dialogue: 0,0:02:11.85,0:02:13.24,wipe_Wed,,0,0,0,,No way
+Dialogue: 0,0:02:12.58,0:02:14.71,normal_Wed,,0,0,0,,I cry whenever I think about certain things
+Dialogue: 0,0:02:14.71,0:02:16.11,normal_Wed,,0,0,0,,I am very confident about this
+Dialogue: 0,0:02:15.09,0:02:16.69,wipe_Wed,,0,0,0,,A crybaby
+Dialogue: 0,0:02:16.25,0:02:18.48,normal_Wed,,0,0,0,,What kind of combat strategy will you use this time?
+Dialogue: 0,0:02:17.87,0:02:20.51,wipe_Wed,,0,0,0,,No such impression \N -No
+Dialogue: 0,0:02:18.48,0:02:20.15,normal_Wed,,0,0,0,,Battle strategy...
+Dialogue: 0,0:02:20.15,0:02:25.06,normal_Wed,,0,0,0,,The Rugby World Cup 2015 in South Africa
+Dialogue: 0,0:02:24.58,0:02:25.93,wipe_Wed,,0,0,0,,It was a long time ago
+Dialogue: 0,0:02:25.29,0:02:29.66,normal_Wed,,0,0,0,,At that time, they photographed the audience who came from Japan to support the team
+Dialogue: 0,0:02:29.66,0:02:31.20,normal_Wed,,0,0,0,,There was someome that looked like a retired rugby player
+Dialogue: 0,0:02:31.20,0:02:34.23,normal_Wed,,0,0,0,,Looking at their faces, even now, will make me cry
+Dialogue: 0,0:02:34.23,0:02:35.90,normal_Wed,,0,0,0,,I can cry already, seriously
+Dialogue: 0,0:02:36.38,0:02:37.65,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:02:35.90,0:02:40.77,normal_Wed,,0,0,0,,There's one in the audience with glasses
+Dialogue: 0,0:02:40.77,0:02:43.07,normal_Wed,,0,0,0,,I'm going to cry when I think of that person
+Dialogue: 0,0:02:41.80,0:02:43.39,wipe_Wed,,0,0,0,,Maybe it will work
+Dialogue: 0,0:02:43.48,0:02:45.78,normal_Wed,,0,0,0,,Although I have never played rugby
+Dialogue: 0,0:02:45.06,0:02:47.63,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:02:46.44,0:02:51.29,normal_Wed,,0,0,0,,Tsuda, who has a tear switch
+Dialogue: 0,0:02:47.63,0:02:49.40,wipe_Wed,,0,0,0,,Obviously never played rugby
+Dialogue: 0,0:02:52.21,0:02:55.97,normal_Wed,,0,0,0,,Will he succeed?
+Dialogue: 0,0:02:59.49,0:03:03.15,wipe_Wed,,0,0,0,,It's perfect.  \N-It's a perfect match
+Dialogue: 0,0:03:03.15,0:03:05.00,wipe_Wed,,0,0,0,,A joyful appearance
+Dialogue: 0,0:03:10.44,0:03:17.74,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:03:17.74,0:03:26.85,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:03:26.85,0:03:34.19,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:03:34.19,0:03:42.93,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:03:42.93,0:04:01.55,normal_Wed,,0,0,0,,Ole ole, Matsuken Samba! Ole ole, Matsuken Samba!
+Dialogue: 0,0:04:01.55,0:04:05.56,normal_Wed,,0,0,0,,Ah, come to love, my friend, come to dance, my lady
+Dialogue: 0,0:04:05.56,0:04:11.30,normal_Wed,,0,0,0,,Sleepless and restlessly dance until dawn
+Dialogue: 0,0:04:11.30,0:04:24.01,normal_Wed,,0,0,0,,Samba Viva Samba Matsuken Samba Ole!
+Dialogue: 0,0:03:13.71,0:03:18.70,wipe_Wed,,0,0,0,,It's a good song.  \N-Indeed
+Dialogue: 0,0:03:22.43,0:03:26.13,wipe_Wed,,0,0,0,,It's hard, can it really work?
+Dialogue: 0,0:03:37.93,0:03:41.54,wipe_Wed,,0,0,0,,Remember, remember
+Dialogue: 0,0:03:41.54,0:03:42.64,wipe_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:03:46.93,0:03:48.67,wipe_Wed,,0,0,0,,No way
+Dialogue: 0,0:03:48.67,0:03:50.52,wipe_Wed,,0,0,0,,That's pretty much it!
+Dialogue: 0,0:03:52.14,0:03:54.17,wipe_Wed,,0,0,0,,Just a gloomy expression
+Dialogue: 0,0:03:55.11,0:03:57.35,wipe_Wed,,0,0,0,,To dance is really a little
+Dialogue: 0,0:03:57.35,0:04:00.25,wipe_Wed,,0,0,0,,The emotions are off. \N -Yeah
+Dialogue: 0,0:04:01.45,0:04:02.95,wipe_Wed,,0,0,0,,Impossible
+Dialogue: 0,0:04:03.42,0:04:05.72,wipe_Wed,,0,0,0,,Out of time! \N -20 seconds left
+Dialogue: 0,0:04:13.72,0:04:17.00,wipe_Wed,,0,0,0,,Hurry up! \N -There's no time. There's no time
+Dialogue: 0,0:04:17.00,0:04:18.86,wipe_Wed,,0,0,0,,Get in the mood.  \N-It's not working
+Dialogue: 0,0:04:19.97,0:04:21.68,wipe_Wed,,0,0,0,,No tears at all
+Dialogue: 0,0:04:23.19,0:04:26.40,wipe_Wed,,0,0,0,,That's the end of it. \N -What are you doing?
+Dialogue: 0,0:04:26.40,0:04:28.26,wipe_Wed,,0,0,0,,It's not the time for "Ole"!
+Dialogue: 0,0:04:29.58,0:04:31.82,normal_Wed,,0,0,0,,Can't cry at all
+Dialogue: 0,0:04:31.82,0:04:35.15,normal_Wed,,0,0,0,,I'm trying my best to remember that scene
+Dialogue: 0,0:04:35.85,0:04:38.82,normal_Wed,,0,0,0,,But the lyrics are too positive
+Dialogue: 0,0:04:37.81,0:04:39.32,wipe_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:04:39.50,0:04:44.42,normal_Wed,,0,0,0,,The one that nullifies all but the "joy" of happiness and sadness
+Dialogue: 0,0:04:44.42,0:04:47.63,normal_Wed,,0,0,0,,Devil's song "Matsuken Samba"
+Dialogue: 0,0:04:46.44,0:04:50.34,wipe_Wed,,0,0,0,,The Devil's Song, this is awesome
+Dialogue: 0,0:04:49.29,0:04:51.72,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:04:54.83,0:04:56.55,normal_Wed,,0,0,0,,Takahashi Minami
+Dialogue: 0,0:04:55.35,0:04:57.39,wipe_Wed,,0,0,0,,This one is different
+Dialogue: 0,0:04:57.94,0:04:59.01,normal_Wed,,0,0,0,,I feel like I probably
+Dialogue: 0,0:04:59.14,0:05:03.68,normal_Wed,,0,0,0,,Can dance and sing and cry more beautifully than any other challenger
+Dialogue: 0,0:05:02.24,0:05:05.64,wipe_Wed,,0,0,0,,Indeed  \N-She has that impression
+Dialogue: 0,0:05:03.82,0:05:07.12,normal_Wed,,0,0,0,,I cried especially hard when I graduated from AKB
+Dialogue: 0,0:05:07.12,0:05:08.42,normal_Wed,,0,0,0,,It all came to me
+Dialogue: 0,0:05:08.42,0:05:12.66,normal_Wed,,0,0,0,,All of the happy and sad times in AKB
+Dialogue: 0,0:05:12.66,0:05:15.19,normal_Wed,,0,0,0,,I'm going to go back to those scenes in one fell swoop
+Dialogue: 0,0:05:15.66,0:05:17.53,normal_Wed,,0,0,0,,I think it will work
+Dialogue: 0,0:05:14.52,0:05:17.79,wipe_Wed,,0,0,0,,Indeed more likely that Tsuda
+Dialogue: 0,0:05:18.25,0:05:22.68,normal_Wed,,0,0,0,,Songs, dances, and tears are all part of the job
+Dialogue: 0,0:05:22.68,0:05:25.76,normal_Wed,,0,0,0,,Arguably the strongest challenger in this project
+Dialogue: 0,0:05:27.20,0:05:28.58,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:05:32.05,0:05:34.97,wipe_Wed,,0,0,0,,The atmosphere is not depressing
+Dialogue: 0,0:05:35.61,0:05:37.22,wipe_Wed,,0,0,0,,Good dancing
+Dialogue: 0,0:05:37.22,0:05:39.31,wipe_Wed,,0,0,0,,Very brisk movements
+Dialogue: 0,0:05:44.61,0:05:51.91,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:05:51.91,0:06:01.02,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:06:01.02,0:06:08.36,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:06:08.36,0:06:17.10,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:06:17.10,0:06:35.72,normal_Wed,,0,0,0,,Ole ole, Matsuken Samba! Ole ole, Matsuken Samba!
+Dialogue: 0,0:06:35.72,0:06:39.73,normal_Wed,,0,0,0,,Ah, come to love, my friend, come to dance, my lady
+Dialogue: 0,0:06:39.73,0:06:45.47,normal_Wed,,0,0,0,,Sleepless and restlessly dance until dawn
+Dialogue: 0,0:06:45.47,0:06:58.73,normal_Wed,,0,0,0,,Samba Viva Samba Matsuken Samba Ole!
+Dialogue: 0,0:05:46.11,0:05:49.37,wipe_Wed,,0,0,0,,This piece is still cheerful
+Dialogue: 0,0:05:51.35,0:05:53.13,wipe_Wed,,0,0,0,,The lyrics are awesome!
+Dialogue: 0,0:06:02.73,0:06:05.68,wipe_Wed,,0,0,0,,Here we go. Getting into shape
+Dialogue: 0,0:06:06.87,0:06:08.02,wipe_Wed,,0,0,0,,Remember
+Dialogue: 0,0:06:21.84,0:06:23.22,wipe_Wed,,0,0,0,,Feels like it's coming soon
+Dialogue: 0,0:06:24.44,0:06:26.81,wipe_Wed,,0,0,0,,Feels good
+Dialogue: 0,0:06:27.51,0:06:29.07,wipe_Wed,,0,0,0,,30 seconds left
+Dialogue: 0,0:06:33.53,0:06:34.98,wipe_Wed,,0,0,0,,Eyes already wet
+Dialogue: 0,0:06:37.19,0:06:39.75,wipe_Wed,,0,0,0,,Is there no problem here? There is a phrase "my lady"
+Dialogue: 0,0:06:40.67,0:06:41.86,wipe_Wed,,0,0,0,,Will all the work be lost?
+Dialogue: 0,0:06:44.14,0:06:47.51,wipe_Wed,,0,0,0,,Time is almost up. \N -15 seconds
+Dialogue: 0,0:06:47.51,0:06:48.76,wipe_Wed,,0,0,0,,Can do can do
+Dialogue: 0,0:06:51.36,0:06:53.16,wipe_Wed,,0,0,0,,There is no more time
+Dialogue: 0,0:06:53.87,0:06:55.55,wipe_Wed,,0,0,0,,Still not working?
+Dialogue: 0,0:06:57.36,0:06:58.52,wipe_Wed,,0,0,0,,The end
+Dialogue: 0,0:07:02.73,0:07:04.74,normal_Wed,,0,0,0,,It's too hard
+Dialogue: 0,0:07:04.68,0:07:06.74,wipe_Wed,,0,0,0,,It's too hard
+Dialogue: 0,0:07:05.94,0:07:08.91,normal_Wed,,0,0,0,,It's really disheartening
+Dialogue: 0,0:07:08.91,0:07:11.68,normal_Wed,,0,0,0,,If I have another 10 seconds, I may be able to cry
+Dialogue: 0,0:07:12.04,0:07:15.38,normal_Wed,,0,0,0,,Although it reminds me of the past of AKB
+Dialogue: 0,0:07:15.38,0:07:20.85,normal_Wed,,0,0,0,,Jumping and jumping Mr. Akimoto and Mr. Matsudaira Ken mixed together
+Dialogue: 0,0:07:17.19,0:07:19.38,wipe_Wed,,0,0,0,,Now the tears are flowing\N  -Too bad
+Dialogue: 0,0:07:20.85,0:07:25.16,normal_Wed,,0,0,0,,How to put it ... now I can cry a lot
+Dialogue: 0,0:07:23.79,0:07:26.06,wipe_Wed,,0,0,0,,It's confusing.\N  -Pity
+Dialogue: 0,0:07:25.16,0:07:27.96,normal_Wed,,0,0,0,,And now you are in the state? \N -Yes, I'm in the state
+Dialogue: 0,0:07:27.96,0:07:33.87,normal_Wed,,0,0,0,,Although I was in the state the dance is too intense
+Dialogue: 0,0:07:28.23,0:07:29.71,wipe_Wed,,0,0,0,,Another 10 seconds
+Dialogue: 0,0:07:33.23,0:07:34.88,wipe_Wed,,0,0,0,,So close
+Dialogue: 0,0:07:34.30,0:07:37.70,normal_Wed,,0,0,0,,I wish I could have another 10 seconds
+Dialogue: 0,0:07:37.21,0:07:39.18,wipe_Wed,,0,0,0,,Just a little bit
+Dialogue: 0,0:07:38.27,0:07:40.46,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:07:42.09,0:07:43.94,wipe_Wed,,0,0,0,,Forget about this guy. \N -Bad guy
+Dialogue: 0,0:07:42.97,0:07:46.06,normal_Wed,,0,0,0,,Yasuda Dai Circus's Kuro-chan
+Dialogue: 0,0:07:46.64,0:07:49.21,normal_Wed,,0,0,0,,Last time I cried
+Dialogue: 0,0:07:49.66,0:07:52.24,normal_Wed,,0,0,0,,That's right, when it comes to Kuro-chan
+Dialogue: 0,0:07:52.82,0:07:56.83,normal_Wed,,0,0,0,,He completed a challenge of crying during the chorus of a song
+Dialogue: 0,0:07:56.83,0:07:59.83,normal_Wed,,0,0,0,,The first successful winner of the chorus crying contest
+Dialogue: 0,0:07:56.95,0:07:58.73,wipe_Wed,,0,0,0,,The singing style is terrible
+Dialogue: 0,0:07:59.83,0:08:05.61,normal_Wed,,0,0,0,,To eliminate your demons
+Dialogue: 0,0:08:04.26,0:08:06.56,wipe_Wed,,0,0,0,,After all, it is this kind of music
+Dialogue: 0,0:08:06.56,0:08:07.84,wipe_Wed,,0,0,0,,Sad
+Dialogue: 0,0:08:06.14,0:08:11.44,normal_Wed,,0,0,0,,I'm also getting drenched today
+Dialogue: 0,0:08:07.84,0:08:09.60,wipe_Wed,,0,0,0,,This time the song is not the same
+Dialogue: 0,0:08:13.27,0:08:16.41,normal_Wed,,0,0,0,,I think I was asked to come because the project was too difficult
+Dialogue: 0,0:08:16.41,0:08:19.66,normal_Wed,,0,0,0,,I've experienced a lot of nasty things so far
+Dialogue: 0,0:08:19.66,0:08:22.31,normal_Wed,,0,0,0,,In this program especially
+Dialogue: 0,0:08:21.64,0:08:25.07,wipe_Wed,,0,0,0,,That's right, he has experienced a lot of things
+Dialogue: 0,0:08:22.31,0:08:23.92,normal_Wed,,0,0,0,,So I can cry
+Dialogue: 0,0:08:24.84,0:08:27.78,normal_Wed,,0,0,0,,So Kuro-chan tackles the challenge
+Dialogue: 0,0:08:27.78,0:08:30.36,normal_Wed,,0,0,0,,Will he succeed?
+Dialogue: 0,0:08:29.67,0:08:30.90,wipe_Wed,,0,0,0,,Scary
+Dialogue: 0,0:08:30.36,0:08:31.52,normal_Wed,,0,0,0,,What'll happen?
+Dialogue: 0,0:08:30.90,0:08:32.55,wipe_Wed,,0,0,0,,It's scary when he laughs
+Dialogue: 0,0:08:32.55,0:08:33.86,wipe_Wed,,0,0,0,,A bit like Kuwano
+Dialogue: 0,0:08:33.86,0:08:34.94,wipe_Wed,,0,0,0,,Very similar indeed
+Dialogue: 0,0:08:38.31,0:08:45.70,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:08:45.70,0:08:54.72,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:08:54.72,0:09:02.06,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:09:02.06,0:09:10.80,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:09:10.80,0:09:29.42,normal_Wed,,0,0,0,,Ole ole, Matsuken Samba! Ole ole, Matsuken Samba!
+Dialogue: 0,0:09:29.42,0:09:33.43,normal_Wed,,0,0,0,,Ah, come to love, my friend, come to dance, my lady
+Dialogue: 0,0:09:33.43,0:09:39.17,normal_Wed,,0,0,0,,Sleepless and restlessly dance until dawn
+Dialogue: 0,0:09:39.17,0:09:51.67,normal_Wed,,0,0,0,,Samba Viva Samba Matsuken Samba Ole!
+Dialogue: 0,0:08:46.46,0:08:47.80,wipe_Wed,,0,0,0,,Pretty good
+Dialogue: 0,0:08:52.29,0:08:54.58,wipe_Wed,,0,0,0,,Start from here
+Dialogue: 0,0:08:54.58,0:08:56.07,wipe_Wed,,0,0,0,,Can he do it?
+Dialogue: 0,0:09:03.61,0:09:04.69,wipe_Wed,,0,0,0,,Already in the zone
+Dialogue: 0,0:09:04.69,0:09:08.25,wipe_Wed,,0,0,0,,Come on!  \N-There's still a chance here
+Dialogue: 0,0:09:09.17,0:09:11.02,wipe_Wed,,0,0,0,,There are still 40 seconds left
+Dialogue: 0,0:09:15.35,0:09:17.06,wipe_Wed,,0,0,0,,The singing is really bad
+Dialogue: 0,0:09:17.06,0:09:18.44,wipe_Wed,,0,0,0,,There's no way around it
+Dialogue: 0,0:09:19.26,0:09:21.57,wipe_Wed,,0,0,0,,A distorted expression
+Dialogue: 0,0:09:21.57,0:09:23.17,wipe_Wed,,0,0,0,,The expressions are great
+Dialogue: 0,0:09:28.44,0:09:29.59,wipe_Wed,,0,0,0,,It depends on what happens next
+Dialogue: 0,0:09:34.37,0:09:35.66,wipe_Wed,,0,0,0,,This won't work, will it?
+Dialogue: 0,0:09:37.65,0:09:40.03,wipe_Wed,,0,0,0,,Oh, no.  \N-Not good
+Dialogue: 0,0:09:40.03,0:09:41.15,wipe_Wed,,0,0,0,,Last 10 seconds
+Dialogue: 0,0:09:41.93,0:09:43.46,wipe_Wed,,0,0,0,,Running out of time
+Dialogue: 0,0:09:44.12,0:09:45.55,wipe_Wed,,0,0,0,,Impossible
+Dialogue: 0,0:09:46.91,0:09:49.38,wipe_Wed,,0,0,0,,It's really hard!
+Dialogue: 0,0:09:49.38,0:09:51.66,wipe_Wed,,0,0,0,,Kuro-chan can't do it
+Dialogue: 0,0:09:53.83,0:09:55.99,wipe_Wed,,0,0,0,,Just a sad expression
+Dialogue: 0,0:10:00.24,0:10:02.41,normal_Wed,,0,0,0,,Good work, everyone!
+Dialogue: 0,0:10:01.31,0:10:02.42,wipe_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:10:02.88,0:10:07.25,normal_Wed,,0,0,0,,Although I was sad, I couldn't cry to this song
+Dialogue: 0,0:10:07.76,0:10:13.26,normal_Wed,,0,0,0,,Even the strongest challengers are powerless
+Dialogue: 0,0:10:13.26,0:10:17.20,normal_Wed,,0,0,0,,The impossible crying son Matsuken Samba
+Dialogue: 0,0:10:17.20,0:10:19.60,normal_Wed,,0,0,0,,Who can do it?
+Dialogue: 0,0:10:20.14,0:10:22.46,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:10:22.23,0:10:24.25,wipe_Wed,,0,0,0,,AMEMIYA
+Dialogue: 0,0:10:25.61,0:10:26.88,normal_Wed,,0,0,0,,AMEMIYA
+Dialogue: 0,0:10:27.61,0:10:30.61,normal_Wed,,0,0,0,,I cry quite easily. \N -Is that so?
+Dialogue: 0,0:10:30.88,0:10:33.08,normal_Wed,,0,0,0,,At child abuse and stuff like that
+Dialogue: 0,0:10:33.08,0:10:35.95,normal_Wed,,0,0,0,,When I see news like that, I cry out of anger
+Dialogue: 0,0:10:35.95,0:10:38.45,normal_Wed,,0,0,0,,Also cry when I watch "Crash Landing on You"
+Dialogue: 0,0:10:37.70,0:10:38.83,wipe_Wed,,0,0,0,,I understand
+Dialogue: 0,0:10:38.72,0:10:43.96,normal_Wed,,0,0,0,,The last episode of the "4 o'clock" program, I also cried after watching it
+Dialogue: 0,0:10:44.12,0:10:46.26,normal_Wed,,0,0,0,,You have a very wide range of crying points
+Dialogue: 0,0:10:46.26,0:10:51.63,normal_Wed,,0,0,0,,How to say, my emotional ups and downs are still very intense
+Dialogue: 0,0:10:55.29,0:10:58.16,wipe_Wed,,0,0,0,,This expression is too terrible
+Dialogue: 0,0:10:58.16,0:11:00.68,wipe_Wed,,0,0,0,,Can't even recognize who it is
+Dialogue: 0,0:11:00.68,0:11:02.43,wipe_Wed,,0,0,0,,A bit scary indeed
+Dialogue: 0,0:11:02.43,0:11:03.44,wipe_Wed,,0,0,0,,This expression is great
+Dialogue: 0,0:11:03.44,0:11:05.93,wipe_Wed,,0,0,0,,Eyes wide open, no problem, right?
+Dialogue: 0,0:11:05.96,0:11:13.25,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:11:13.25,0:11:22.37,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:11:22.37,0:11:29.71,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:11:29.71,0:11:38.45,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:11:38.45,0:11:56.96,normal_Wed,,0,0,0,,Ole ole, Matsuken Samba! Ole ole, Matsuken Samba!
+Dialogue: 0,0:11:56.96,0:12:01.08,normal_Wed,,0,0,0,,Ah, come to love, my friend, come to dance, my lady
+Dialogue: 0,0:12:01.08,0:12:06.82,normal_Wed,,0,0,0,,Sleepless and restlessly dance until dawn
+Dialogue: 0,0:12:06.82,0:12:19.05,normal_Wed,,0,0,0,,Samba Viva Samba Matsuken Samba Ole!
+Dialogue: 0,0:11:08.37,0:11:10.08,wipe_Wed,,0,0,0,,That's a good one. \N -Indeed
+Dialogue: 0,0:11:14.84,0:11:16.20,wipe_Wed,,0,0,0,,The action is a little scary
+Dialogue: 0,0:11:16.93,0:11:19.93,wipe_Wed,,0,0,0,,Too stiff, the body is shaking
+Dialogue: 0,0:11:19.93,0:11:23.38,wipe_Wed,,0,0,0,,The singing is good but not the dancing
+Dialogue: 0,0:11:32.20,0:11:33.55,wipe_Wed,,0,0,0,,Seems like he'll cry
+Dialogue: 0,0:11:37.84,0:11:39.24,wipe_Wed,,0,0,0,,Getting into the mood
+Dialogue: 0,0:11:49.45,0:11:51.13,wipe_Wed,,0,0,0,,What kind of emotion is this?
+Dialogue: 0,0:11:51.75,0:11:52.15,wipe_Wed,,0,0,0,,Can it be done?
+Dialogue: 0,0:11:52.15,0:11:53.12,wipe_Wed,,0,0,0,,What's this?
+Dialogue: 0,0:12:02.87,0:12:05.40,wipe_Wed,,0,0,0,,Can't do it
+Dialogue: 0,0:12:05.83,0:12:07.90,wipe_Wed,,0,0,0,,No more time
+Dialogue: 0,0:12:10.23,0:12:13.38,wipe_Wed,,0,0,0,,There's no time \N  -Not good
+Dialogue: 0,0:12:15.59,0:12:18.24,wipe_Wed,,0,0,0,,Just a sad expression
+Dialogue: 0,0:12:22.55,0:12:23.97,wipe_Wed,,0,0,0,,No tears were shed
+Dialogue: 0,0:12:23.72,0:12:26.56,normal_Wed,,0,0,0,,Didn't cry
+Dialogue: 0,0:12:26.89,0:12:29.63,normal_Wed,,0,0,0,,Not crying?
+Dialogue: 0,0:12:29.63,0:12:30.90,normal_Wed,,0,0,0,,No
+Dialogue: 0,0:12:31.90,0:12:33.36,wipe_Wed,,0,0,0,,It's too hard
+Dialogue: 0,0:12:31.29,0:12:33.66,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:12:35.95,0:12:39.23,normal_Wed,,0,0,0,,Mr. SASUKE Yamada Katsumi
+Dialogue: 0,0:12:36.46,0:12:38.93,wipe_Wed,,0,0,0,,You guys really love using Yamada!
+Dialogue: 0,0:12:38.93,0:12:41.89,wipe_Wed,,0,0,0,,But he seems like he might be the type
+Dialogue: 0,0:12:40.14,0:12:42.61,normal_Wed,,0,0,0,,I'm confident I can cry
+Dialogue: 0,0:12:43.38,0:12:48.62,normal_Wed,,0,0,0,,We've seen it a hundred times, everyone is familiar with Katsumi Yamada
+Dialogue: 0,0:12:47.81,0:12:49.77,wipe_Wed,,0,0,0,,You don't have to say 100 times
+Dialogue: 0,0:12:48.62,0:12:50.61,normal_Wed,,0,0,0,,SASUKE is my everything!
+Dialogue: 0,0:12:52.95,0:12:54.49,normal_Wed,,0,0,0,,When it comes to SASUKE, I can cry easily
+Dialogue: 0,0:12:54.49,0:12:56.95,normal_Wed,,0,0,0,,Just cried a week ago
+Dialogue: 0,0:12:57.00,0:12:58.21,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:12:57.71,0:12:59.07,normal_Wed,,0,0,0,,What'll happen?
+Dialogue: 0,0:13:11.64,0:13:18.94,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:13:18.94,0:13:28.05,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:13:28.05,0:13:35.39,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:13:35.39,0:13:44.14,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:13:48.97,0:13:50.68,normal_Wed,,0,0,0,,Ole!
+Dialogue: 0,0:13:12.28,0:13:13.58,wipe_Wed,,0,0,0,,Why is his face so colorful?
+Dialogue: 0,0:13:15.31,0:13:17.31,wipe_Wed,,0,0,0,,Singing is quite gentle, really unexpected
+Dialogue: 0,0:13:18.25,0:13:20.40,wipe_Wed,,0,0,0,,It's awesome!  \N-Singing and dancing well
+Dialogue: 0,0:13:42.48,0:13:44.21,wipe_Wed,,0,0,0,,Not dancing
+Dialogue: 0,0:13:48.76,0:13:50.51,wipe_Wed,,0,0,0,,It's okay to fast forward
+Dialogue: 0,0:13:50.51,0:13:53.43,wipe_Wed,,0,0,0,,This is too much. \N -What the hell?
+Dialogue: 0,0:13:53.14,0:13:54.45,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:13:53.43,0:13:57.30,wipe_Wed,,0,0,0,,It's too much.\N  -Really?
+Dialogue: 0,0:13:55.01,0:13:57.12,normal_Wed,,0,0,0,,The next challengers are
+Dialogue: 0,0:13:59.32,0:14:00.52,wipe_Wed,,0,0,0,,Kintaro
+Dialogue: 0,0:13:59.87,0:14:01.51,normal_Wed,,0,0,0,,Kintaro
+Dialogue: 0,0:14:02.19,0:14:06.12,normal_Wed,,0,0,0,,Since becoming a mother its been very easy to cry
+Dialogue: 0,0:14:05.12,0:14:06.55,wipe_Wed,,0,0,0,,Yes
+Dialogue: 0,0:14:06.36,0:14:10.06,normal_Wed,,0,0,0,,People who have had children should be able to understand
+Dialogue: 0,0:14:10.06,0:14:13.80,normal_Wed,,0,0,0,,It's really easy to cry compared to before
+Dialogue: 0,0:14:14.00,0:14:15.80,normal_Wed,,0,0,0,,Do you have a battle plan?
+Dialogue: 0,0:14:15.80,0:14:20.54,normal_Wed,,0,0,0,,My two years old child is in a difficult rebellious period
+Dialogue: 0,0:14:20.54,0:14:25.64,normal_Wed,,0,0,0,,Its tough being a mother
+Dialogue: 0,0:14:25.74,0:14:31.28,normal_Wed,,0,0,0,,So I want to express my gratitude to my mother
+Dialogue: 0,0:14:30.93,0:14:32.61,wipe_Wed,,0,0,0,,Seems like a good way to cry
+Dialogue: 0,0:14:31.28,0:14:35.32,normal_Wed,,0,0,0,,But now that mom is gone
+Dialogue: 0,0:14:35.55,0:14:40.32,normal_Wed,,0,0,0,,I should be able to cry while thinking of my mother
+Dialogue: 0,0:14:38.95,0:14:40.66,wipe_Wed,,0,0,0,,Should work
+Dialogue: 0,0:14:40.66,0:14:42.53,wipe_Wed,,0,0,0,,Indeed, you'd be moved
+Dialogue: 0,0:14:40.94,0:14:47.51,normal_Wed,,0,0,0,,Now remembering her late mother, she wont be fooling around
+Dialogue: 0,0:14:48.73,0:14:50.09,normal_Wed,,0,0,0,,What'll happen?
+Dialogue: 0,0:14:52.47,0:14:53.37,wipe_Wed,,0,0,0,,Does this remind you of your mother?
+Dialogue: 0,0:14:55.96,0:14:58.10,wipe_Wed,,0,0,0,,Its just too funny
+Dialogue: 0,0:15:03.17,0:15:05.02,wipe_Wed,,0,0,0,,The expression is too terrible
+Dialogue: 0,0:15:05.03,0:15:12.32,normal_Wed,,0,0,0,,Bang the bongos, play the samba, dance the southern carnival
+Dialogue: 0,0:15:12.32,0:15:21.44,normal_Wed,,0,0,0,,Whoever you are, let's party, let's sweat and shine
+Dialogue: 0,0:15:21.44,0:15:28.78,normal_Wed,,0,0,0,,In the hot wind, I give my body to dance until my heart is satisfied
+Dialogue: 0,0:15:28.78,0:15:37.52,normal_Wed,,0,0,0,,The waves also sing the samba of love, the rhythm of the chest is full
+Dialogue: 0,0:15:37.52,0:15:56.13,normal_Wed,,0,0,0,,Ole ole, Matsuken Samba! Ole ole, Matsuken Samba!
+Dialogue: 0,0:15:56.13,0:16:00.15,normal_Wed,,0,0,0,,Ah, come to love, my friend, come to dance, my lady
+Dialogue: 0,0:16:00.15,0:16:05.89,normal_Wed,,0,0,0,,Sleepless and restlessly dance until dawn
+Dialogue: 0,0:16:05.89,0:16:18.39,normal_Wed,,0,0,0,,Samba Viva Samba Matsuken Samba Ole!
+Dialogue: 0,0:15:07.25,0:15:09.71,wipe_Wed,,0,0,0,,Singing and dancing are good
+Dialogue: 0,0:15:11.37,0:15:15.63,wipe_Wed,,0,0,0,,True, although not yet in the mood
+Dialogue: 0,0:15:19.87,0:15:22.36,wipe_Wed,,0,0,0,,Got it all figured out.  \N-Great!
+Dialogue: 0,0:15:23.06,0:15:25.26,wipe_Wed,,0,0,0,,We're in the zone.\N  -Here we go
+Dialogue: 0,0:15:25.26,0:15:26.65,wipe_Wed,,0,0,0,,Koroke!
+Dialogue: 0,0:15:31.24,0:15:32.95,wipe_Wed,,0,0,0,,A small Koroke
+Dialogue: 0,0:15:34.70,0:15:37.17,wipe_Wed,,0,0,0,,But it does get you into the mood
+Dialogue: 0,0:15:37.17,0:15:38.95,wipe_Wed,,0,0,0,,Memories of Mom
+Dialogue: 0,0:15:46.61,0:15:47.76,wipe_Wed,,0,0,0,,Remember
+Dialogue: 0,0:15:51.26,0:15:54.13,wipe_Wed,,0,0,0,,Tears are coming out \N -Amazing
+Dialogue: 0,0:15:54.74,0:15:56.86,wipe_Wed,,0,0,0,,It's already flowing out, right?
+Dialogue: 0,0:15:57.95,0:16:01.32,wipe_Wed,,0,0,0,,Amazing! Amazing! Unbelievable!
+Dialogue: 0,0:16:05.26,0:16:07.62,wipe_Wed,,0,0,0,,That's awesome!
+Dialogue: 0,0:16:10.68,0:16:12.62,wipe_Wed,,0,0,0,,Crying like crazy!  \N-Really crying
+Dialogue: 0,0:16:12.62,0:16:15.34,wipe_Wed,,0,0,0,,Tears are flowing \N-Seriously!?
+Dialogue: 0,0:16:18.03,0:16:21.20,wipe_Wed,,0,0,0,,Perfect \N -Terrific
+Dialogue: 0,0:16:21.20,0:16:23.75,wipe_Wed,,0,0,0,,Awesome \N -Scary scary scary
+Dialogue: 0,0:16:24.00,0:16:25.20,normal_Wed,,0,0,0,,Impressive
+Dialogue: 0,0:16:25.50,0:16:26.43,normal_Wed,,0,0,0,,It's like Kabuki!
+Dialogue: 0,0:16:26.70,0:16:29.43,normal_Wed,,0,0,0,,Thank you. You've did it.\N  -Great!
+Dialogue: 0,0:16:30.51,0:16:31.96,wipe_Wed,,0,0,0,,Both eyes are tearing up
+Dialogue: 0,0:16:32.07,0:16:34.41,normal_Wed,,0,0,0,,Thank you so much!
+Dialogue: 0,0:16:34.24,0:16:35.32,wipe_Wed,,0,0,0,,Really great
+Dialogue: 0,0:16:36.43,0:16:37.85,wipe_Wed,,0,0,0,,It's fast
+Dialogue: 0,0:16:35.77,0:16:40.93,normal_Wed,,0,0,0,,7 seconds into the second main verse of the crying section
+Dialogue: 0,0:16:40.93,0:16:43.26,normal_Wed,,0,0,0,,Tears were already shining in the corners of her eyes
+Dialogue: 0,0:16:42.88,0:16:44.13,wipe_Wed,,0,0,0,,Only 7 seconds in
+Dialogue: 0,0:16:46.12,0:16:49.07,wipe_Wed,,0,0,0,,It's really fast. \N -Amazing
+Dialogue: 0,0:16:50.79,0:16:55.21,normal_Wed,,0,0,0,,14 seconds later, she succeeded in shedding tears
+Dialogue: 0,0:16:50.31,0:16:51.89,wipe_Wed,,0,0,0,,It's out! It's out!
+Dialogue: 0,0:16:52.95,0:16:56.68,wipe_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:16:57.41,0:17:01.80,normal_Wed,,0,0,0,,After that there were also tears from the other side of the eye
+Dialogue: 0,0:17:01.60,0:17:04.03,wipe_Wed,,0,0,0,,Awesome\N  -This is really awesome
+Dialogue: 0,0:17:02.22,0:17:05.63,normal_Wed,,0,0,0,,So, she completed the Matsuken Samba crying project
+Dialogue: 0,0:17:06.40,0:17:07.71,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:17:07.71,0:17:11.51,normal_Wed,,0,0,0,,I'm betting all of 2022 on this
+Dialogue: 0,0:17:11.98,0:17:14.78,normal_Wed,,0,0,0,,Finishing the year on this, it was worth it
+Dialogue: 0,0:17:14.78,0:17:15.75,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:17:14.52,0:17:15.76,wipe_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:17:15.75,0:17:22.82,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In Summary\N{\r}If there is a sequel, it will be a Genghis Khan tear project
+Dialogue: 0,0:17:19.81,0:17:21.40,wipe_Wed,,0,0,0,,This really does not work
+Dialogue: 0,0:17:22.82,0:17:24.42,normal_Wed,,0,0,0,,Genghis Khan is too far
+Dialogue: 0,0:17:24.42,0:17:25.59,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:17:26.79,0:17:29.31,normal_Wed,,0,0,0,,It's over. Someone really did it
+Dialogue: 0,0:17:29.31,0:17:32.20,normal_Wed,,0,0,0,,So, how do you feel?
+Dialogue: 0,0:17:32.73,0:17:34.47,normal_Wed,,0,0,0,,It was really a big surprise
+Dialogue: 0,0:17:34.47,0:17:36.49,normal_Wed,,0,0,0,,Yes\N  -A big surprise
+Dialogue: 0,0:17:36.49,0:17:37.64,normal_Wed,,0,0,0,,It's true
+Dialogue: 0,0:17:37.64,0:17:40.07,normal_Wed,,0,0,0,,She was so cool at the end. \N -Indeed
+Dialogue: 0,0:17:40.07,0:17:41.74,normal_Wed,,0,0,0,,It was like Kabuki
+Dialogue: 0,0:17:43.11,0:17:45.48,normal_Wed,,0,0,0,,You wouldn't be able to do it, right?  \N-No way
+Dialogue: 0,0:17:45.48,0:17:50.31,normal_Wed,,0,0,0,,But I do feel that the longing for one's mother can really overpower "Matsuken Samba"!
+Dialogue: 0,0:17:50.31,0:17:52.65,normal_Wed,,0,0,0,,What are you saying here all of a sudden?\N  -It's too sudden
+Dialogue: 0,0:17:53.22,0:17:57.93,normal_Wed,,0,0,0,,Mr. SASUKE, you fast-forwarded it, wouldn't cutting it be better?
+Dialogue: 0,0:17:58.56,0:18:01.37,normal_Wed,,0,0,0,,He was invited at least
+Dialogue: 0,0:18:03.77,0:18:06.26,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 0,0:18:11.28,0:18:14.20,normal_Wed,,0,0,0,,Magical Lovely!
+Dialogue: 0,0:18:15.88,0:18:17.65,normal_Wed,,0,0,0,,We are Magical Lovely
+Dialogue: 0,0:18:17.65,0:18:18.96,normal_Wed,,0,0,0,,Magi-Love
+Dialogue: 0,0:18:18.96,0:18:21.41,normal_Wed,,0,0,0,,We are Magical Love
+Dialogue: 0,0:18:21.41,0:18:22.78,normal_Wed,,0,0,0,,It's not short for a Magical Love
+Dialogue: 0,0:18:22.78,0:18:24.68,normal_Wed,,0,0,0,,Yes, I'm in Magic Haruka
+Dialogue: 0,0:18:24.68,0:18:25.85,normal_Wed,,0,0,0,,Magic Haruka?
+Dialogue: 0,0:18:25.85,0:18:27.89,normal_Wed,,0,0,0,,The name has become strange \N -Opportunities like this don't happen too much
+Dialogue: 0,0:18:27.89,0:18:28.90,normal_Wed,,0,0,0,,Magic Haruri?
+Dialogue: 0,0:18:31.62,0:18:36.86,normal_Wed,,0,0,0,,Have people ever said bad things about others or talked badly about people behind their backs?
+Dialogue: 0,0:18:36.86,0:18:37.89,normal_Wed,,0,0,0,,Yuuchami, have you?
+Dialogue: 0,0:18:37.89,0:18:39.70,normal_Wed,,0,0,0,,If I have anything to say I generally say it directly in person
+Dialogue: 0,0:18:39.70,0:18:40.93,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:18:40.93,0:18:42.38,normal_Wed,,0,0,0,,So I don't really say bad things behind people's backs
+Dialogue: 0,0:18:42.38,0:18:43.53,normal_Wed,,0,0,0,,A typical gyaru
+Dialogue: 0,0:18:43.53,0:18:47.97,normal_Wed,,0,0,0,,So this time we have a project about badmouthing
+Dialogue: 0,0:18:47.97,0:18:52.24,normal_Wed,,0,0,0,,The King of inducing people to talk badly behind the backs of others
+Dialogue: 0,0:18:53.57,0:18:54.35,normal_Wed,,0,0,0,,Induction King
+Dialogue: 0,0:18:55.09,0:18:57.75,normal_Wed,,0,0,0,,Senior comedians will be the setters
+Dialogue: 0,0:18:57.75,0:19:00.78,normal_Wed,,0,0,0,,And will attempt to induce junior artists to speak ill of them behind their backs
+Dialogue: 0,0:19:00.78,0:19:01.44,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:19:01.44,0:19:04.92,normal_Wed,,0,0,0,,I drank with Kubota of Toro Salmon before
+Dialogue: 0,0:19:05.22,0:19:08.32,normal_Wed,,0,0,0,,He kept bad-mouthing Kyojin
+Dialogue: 0,0:19:08.32,0:19:10.53,normal_Wed,,0,0,0,,Everyone in Japan knows this. \N -Is that so?
+Dialogue: 0,0:19:10.53,0:19:13.26,normal_Wed,,0,0,0,,That's not backbiting anymore.\N  -So it's not backbiting
+Dialogue: 0,0:19:28.48,0:19:32.82,normal_Wed,,0,0,0,,{\fs15\t(0,220,\fs53)}The King of inducing people to talk badly behind the backs of others
+Dialogue: 0,0:19:33.60,0:19:37.58,normal_Wed,,0,0,0,,This time, the contestants are four comedians
+Dialogue: 0,0:19:38.69,0:19:42.10,normal_Wed,,0,0,0,,The first one is Cunning's Takeyama
+Dialogue: 0,0:19:43.01,0:19:47.41,normal_Wed,,0,0,0,,The next generation of comedians to be targeted are these four
+Dialogue: 0,0:19:48.66,0:19:50.40,normal_Wed,,0,0,0,,But one of them
+Dialogue: 0,0:19:50.40,0:19:52.32,normal_Wed,,0,0,0,,Higuchi
+Dialogue: 0,0:19:52.32,0:19:57.05,normal_Wed,,0,0,0,,Is an accomplice controlling the direction of the conversation
+Dialogue: 0,0:19:55.52,0:19:57.21,wipe_Wed,,0,0,0,,So there are spys
+Dialogue: 0,0:19:57.21,0:19:59.00,wipe_Wed,,0,0,0,,He's controlling the situation
+Dialogue: 0,0:19:59.08,0:20:02.18,normal_Wed,,0,0,0,,My idea is to intimidate them directly at the beginning
+Dialogue: 0,0:20:02.33,0:20:05.45,normal_Wed,,0,0,0,,But it's somewhat unnatural to suddenly intimidate them
+Dialogue: 0,0:20:05.45,0:20:08.95,normal_Wed,,0,0,0,,So I'll just be unpleasant from the very beginning
+Dialogue: 0,0:20:09.09,0:20:11.29,normal_Wed,,0,0,0,,And i'll focus on one after another
+Dialogue: 0,0:20:11.29,0:20:13.69,normal_Wed,,0,0,0,,Slamming their character and attitude towards their work
+Dialogue: 0,0:20:13.69,0:20:15.93,normal_Wed,,0,0,0,,I'm prepared to do this but here's the problem
+Dialogue: 0,0:20:16.16,0:20:17.73,normal_Wed,,0,0,0,,The people's styles etc
+Dialogue: 0,0:20:17.73,0:20:19.96,normal_Wed,,0,0,0,,I don't even know what kind of work they do
+Dialogue: 0,0:20:19.96,0:20:23.63,normal_Wed,,0,0,0,,But since none of them are popular i'll just focus on this
+Dialogue: 0,0:20:23.77,0:20:26.04,normal_Wed,,0,0,0,,Only by imagination
+Dialogue: 0,0:20:26.73,0:20:30.53,normal_Wed,,0,0,0,,By the way, this time at Misaki Fishing Port in Kanagawa Prefecture
+Dialogue: 0,0:20:30.54,0:20:33.25,normal_Wed,,0,0,0,,They are recording the next morning in a location shoot
+Dialogue: 0,0:20:33.25,0:20:37.17,normal_Wed,,0,0,0,,As the group came to the local accommodation one day in advance for the shooting
+Dialogue: 0,0:20:39.17,0:20:40.68,normal_Wed,,0,0,0,,Then on that night
+Dialogue: 0,0:20:40.68,0:20:42.79,normal_Wed,,0,0,0,,At the dinner invited by the seniors
+Dialogue: 0,0:20:42.79,0:20:46.01,normal_Wed,,0,0,0,,The backstabbing challenge takes place
+Dialogue: 0,0:20:47.56,0:20:50.39,normal_Wed,,0,0,0,,Although these words wont really help you...
+Dialogue: 0,0:20:50.39,0:20:51.96,normal_Wed,,0,0,0,,I'll say it. I didn't want to do this job
+Dialogue: 0,0:20:52.50,0:20:54.40,normal_Wed,,0,0,0,,Ah really
+Dialogue: 0,0:20:54.63,0:20:56.20,normal_Wed,,0,0,0,,I spoke to my agent
+Dialogue: 0,0:20:56.20,0:20:59.44,normal_Wed,,0,0,0,,That guy clearly said something like "Okay, I get it".
+Dialogue: 0,0:20:59.44,0:21:00.74,normal_Wed,,0,0,0,,But still added me to the job
+Dialogue: 0,0:21:00.82,0:21:03.67,normal_Wed,,0,0,0,,With you unpopular guys
+Dialogue: 0,0:21:03.67,0:21:06.24,normal_Wed,,0,0,0,,Eh? \N-What kind of location shoot is this
+Dialogue: 0,0:21:06.78,0:21:10.05,normal_Wed,,0,0,0,,Just like Takeyama stated before, he is immediately angry from the outset
+Dialogue: 0,0:21:10.53,0:21:13.41,normal_Wed,,0,0,0,,At this point in time when the atmosphere is heavy
+Dialogue: 0,0:21:13.88,0:21:16.22,special_Wed_1_2,,0,0,0,,{\shad8\frz-180\t(0,167,\frz0)}The game begins
+Dialogue: 0,0:21:16.58,0:21:17.76,normal_Wed,,0,0,0,,Matsu, you...
+Dialogue: 0,0:21:17.76,0:21:21.13,normal_Wed,,0,0,0,,It's been a long time since we've seen each other, but I'd like to say something  \N-Ok
+Dialogue: 0,0:21:21.33,0:21:24.53,normal_Wed,,0,0,0,,Tomorrow's Sun Music Live is a first-tier live performance, right?
+Dialogue: 0,0:21:24.53,0:21:28.20,normal_Wed,,0,0,0,,How long have you been there, but you still aren't leading it?
+Dialogue: 0,0:21:28.20,0:21:30.97,normal_Wed,,0,0,0,,You can't say you're at my level, right?
+Dialogue: 0,0:21:31.20,0:21:33.44,normal_Wed,,0,0,0,,Yes \N -You also said that you "rehearse the segment every day"
+Dialogue: 0,0:21:33.44,0:21:36.54,normal_Wed,,0,0,0,,You also said "we can't go to the sauna together today"
+Dialogue: 0,0:21:36.84,0:21:39.54,normal_Wed,,0,0,0,,How is Nori doing these days? Still not gained popularity?
+Dialogue: 0,0:21:39.81,0:21:43.31,normal_Wed,,0,0,0,,Indeed, not much movement
+Dialogue: 0,0:21:44.18,0:21:46.55,normal_Wed,,0,0,0,,Didn't you start in this business with Kazlaser?
+Dialogue: 0,0:21:46.55,0:21:48.72,normal_Wed,,0,0,0,,Aren't you contemporaries?\N  -Yes
+Dialogue: 0,0:21:47.38,0:21:48.26,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:21:48.99,0:21:50.99,normal_Wed,,0,0,0,,And Kaz is super popular now, right?
+Dialogue: 0,0:21:50.99,0:21:52.46,normal_Wed,,0,0,0,,Aren't your frustrated?
+Dialogue: 0,0:21:52.86,0:21:54.39,normal_Wed,,0,0,0,,I don't pay attention to him
+Dialogue: 0,0:21:54.39,0:21:57.03,normal_Wed,,0,0,0,,Even if you say "I don't pay attention", I can't help it
+Dialogue: 0,0:21:57.23,0:21:59.03,normal_Wed,,0,0,0,,Its hopeless if you're just choosing to ignore it
+Dialogue: 0,0:21:59.03,0:22:02.23,normal_Wed,,0,0,0,,Anyway, giving up being a comedian isn't the same as dying
+Dialogue: 0,0:22:01.73,0:22:04.96,wipe_Wed,,0,0,0,,Pretty convincing
+Dialogue: 0,0:22:02.78,0:22:03.76,normal_Wed,,0,0,0,,Going further
+Dialogue: 0,0:22:04.44,0:22:05.54,normal_Wed,,0,0,0,,Already on board?
+Dialogue: 0,0:22:05.87,0:22:07.57,normal_Wed,,0,0,0,,Yes, I'm an official member now
+Dialogue: 0,0:22:07.84,0:22:12.18,normal_Wed,,0,0,0,,You're a member of Sun Music?\N  -Yes
+Dialogue: 0,0:22:13.18,0:22:15.95,normal_Wed,,0,0,0,,Done any Lives? \N  -Yes, I did
+Dialogue: 0,0:22:16.21,0:22:18.12,normal_Wed,,0,0,0,,What if you get more work?
+Dialogue: 0,0:22:18.42,0:22:20.45,normal_Wed,,0,0,0,,I'm on paid leave
+Dialogue: 0,0:22:20.45,0:22:23.72,normal_Wed,,0,0,0,,With this attitude you can't make it \N -Indeed
+Dialogue: 0,0:22:23.72,0:22:27.21,normal_Wed,,0,0,0,,I think you should not stay in the company with such an uncertain attitude
+Dialogue: 0,0:22:27.21,0:22:28.73,normal_Wed,,0,0,0,,It will cause trouble for others
+Dialogue: 0,0:22:29.16,0:22:32.16,normal_Wed,,0,0,0,,Do a good job. Be serious. \N -Okay
+Dialogue: 0,0:22:33.37,0:22:37.28,normal_Wed,,0,0,0,,After preaching precisely to the three juniors like this
+Dialogue: 0,0:22:39.70,0:22:41.07,normal_Wed,,0,0,0,,I'm going first
+Dialogue: 0,0:22:41.07,0:22:43.27,normal_Wed,,0,0,0,,They don't know what I said for my comment "sorry, I forgot" they said
+Dialogue: 0,0:22:43.27,0:22:44.78,normal_Wed,,0,0,0,,What do you mean by "forgot", you bastard
+Dialogue: 0,0:22:45.41,0:22:47.28,normal_Wed,,0,0,0,,Don't oversleep for me tomorrow!
+Dialogue: 0,0:22:47.51,0:22:48.95,normal_Wed,,0,0,0,,I won't oversleep
+Dialogue: 0,0:22:48.95,0:22:50.78,normal_Wed,,0,0,0,,Really if you oversleep I'll kill you
+Dialogue: 0,0:22:51.38,0:22:55.54,normal_Wed,,0,0,0,,After dropping his final harsh comment, he retires for the night
+Dialogue: 0,0:22:56.48,0:22:57.33,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:22:58.16,0:23:00.82,normal_Wed,,0,0,0,,So annoying
+Dialogue: 0,0:23:00.82,0:23:03.63,normal_Wed,,0,0,0,,He really has something wrong with his brain
+Dialogue: 0,0:23:03.79,0:23:06.80,normal_Wed,,0,0,0,,I can't watch, too scary
+Dialogue: 0,0:23:06.80,0:23:08.93,normal_Wed,,0,0,0,,I can't stand this type
+Dialogue: 0,0:23:08.93,0:23:10.47,normal_Wed,,0,0,0,,He's so pretentious
+Dialogue: 0,0:23:10.47,0:23:12.07,normal_Wed,,0,0,0,,Just now also when coming in
+Dialogue: 0,0:23:12.07,0:23:14.34,normal_Wed,,0,0,0,,That walk, what is he acting like?
+Dialogue: 0,0:23:14.34,0:23:16.44,normal_Wed,,0,0,0,,Wants to walk with the aura of an entertainer'\N  -What entertainer!?
+Dialogue: 0,0:23:16.44,0:23:18.01,normal_Wed,,0,0,0,,But that guy is usually
+Dialogue: 0,0:23:18.01,0:23:20.64,normal_Wed,,0,0,0,,"Hehehehehehe" just sitting there laughing
+Dialogue: 0,0:23:20.78,0:23:22.58,normal_Wed,,0,0,0,,Come on, someone stop him!
+Dialogue: 0,0:23:23.01,0:23:24.68,normal_Wed,,0,0,0,,They don't want me to laugh like that?
+Dialogue: 0,0:23:23.96,0:23:24.89,wipe_Wed,,0,0,0,,Scary
+Dialogue: 0,0:23:24.82,0:23:26.58,normal_Wed,,0,0,0,,"Hehehe hisshisshiss"
+Dialogue: 0,0:23:27.92,0:23:32.61,normal_Wed,,0,0,0,,Badmouthing the seniors when they are not around
+Dialogue: 0,0:23:28.82,0:23:31.00,wipe_Wed,,0,0,0,,They sure know how to talk!
+Dialogue: 0,0:23:31.77,0:23:33.05,wipe_Wed,,0,0,0,,Only stupid people smoke
+Dialogue: 0,0:23:32.70,0:23:33.62,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:23:33.56,0:23:34.58,wipe_Wed,,0,0,0,,Looks so happy
+Dialogue: 0,0:23:34.86,0:23:37.16,normal_Wed,,0,0,0,,He must have felt the same way when we traveled to Kyushu together
+Dialogue: 0,0:23:37.16,0:23:38.56,normal_Wed,,0,0,0,,So suddenly got angry then too
+Dialogue: 0,0:23:38.90,0:23:42.30,normal_Wed,,0,0,0,,Did he start to get angry when he left Tokyo?
+Dialogue: 0,0:23:42.29,0:23:44.20,wipe_Wed,,0,0,0,,This sentence is super laughable
+Dialogue: 0,0:23:43.33,0:23:45.67,normal_Wed,,0,0,0,,Is it because he's nervous? \N -No, it can't be
+Dialogue: 0,0:23:46.29,0:23:51.48,normal_Wed,,0,0,0,,The bad things being said behind the scenes are not only about this time, but also previous times
+Dialogue: 0,0:23:49.05,0:23:50.45,wipe_Wed,,0,0,0,,Bad
+Dialogue: 0,0:23:50.45,0:23:52.29,wipe_Wed,,0,0,0,,It is difficult to say bad things about seniors
+Dialogue: 0,0:23:52.08,0:23:54.94,normal_Wed,,0,0,0,,I said, "I'm going back to Osaka," but he was mean to me for three hours
+Dialogue: 0,0:23:55.11,0:23:57.68,normal_Wed,,0,0,0,,I was asked, "What did you do the next day?" I said, "I went back to Osaka."
+Dialogue: 0,0:23:57.68,0:23:59.62,normal_Wed,,0,0,0,,He said, "Why? Everyone is working so hard."
+Dialogue: 0,0:23:59.62,0:24:01.45,normal_Wed,,0,0,0,,Three hours of lecturing like this
+Dialogue: 0,0:24:01.69,0:24:02.62,normal_Wed,,0,0,0,,Yeah, with me
+Dialogue: 0,0:24:02.62,0:24:05.26,normal_Wed,,0,0,0,,At a barbecue place I just asked for a bowl of rice
+Dialogue: 0,0:24:05.26,0:24:07.79,normal_Wed,,0,0,0,,He shouted "What the hell are you doing eating rice at barbecue!?"
+Dialogue: 0,0:24:07.79,0:24:09.62,normal_Wed,,0,0,0,,Went on for six hours
+Dialogue: 0,0:24:09.89,0:24:13.70,normal_Wed,,0,0,0,,What a way to talk! These guys have poison tongues
+Dialogue: 0,0:24:14.11,0:24:16.75,normal_Wed,,0,0,0,,Then the conversation goes even deeper
+Dialogue: 0,0:24:17.87,0:24:19.50,normal_Wed,,0,0,0,,Although it may not be appropriate to say this, but I think the guy really
+Dialogue: 0,0:24:19.50,0:24:21.54,normal_Wed,,0,0,0,,I think if I really argue back I can absolutely win
+Dialogue: 0,0:24:22.64,0:24:24.64,normal_Wed,,0,0,0,,I just have that feeling
+Dialogue: 0,0:24:23.20,0:24:24.14,wipe_Wed,,0,0,0,,His last words
+Dialogue: 0,0:24:24.81,0:24:26.27,normal_Wed,,0,0,0,,Its not like that
+Dialogue: 0,0:24:26.68,0:24:27.98,normal_Wed,,0,0,0,,Like a high school student
+Dialogue: 0,0:24:27.98,0:24:30.55,normal_Wed,,0,0,0,,I had the same feeling when I was his driver
+Dialogue: 0,0:24:30.55,0:24:34.89,normal_Wed,,0,0,0,,I thought "I could just drive straight off the capital highway at any time"
+Dialogue: 0,0:24:34.89,0:24:36.12,normal_Wed,,0,0,0,,Straight off of the highway
+Dialogue: 0,0:24:36.12,0:24:38.46,normal_Wed,,0,0,0,,I want us both to die right now, like this
+Dialogue: 0,0:24:38.46,0:24:40.62,normal_Wed,,0,0,0,,This is the first time I've heard of such an thought
+Dialogue: 0,0:24:40.62,0:24:42.16,normal_Wed,,0,0,0,,He wants to kill me!
+Dialogue: 0,0:24:41.82,0:24:43.01,wipe_Wed,,0,0,0,,So sad
+Dialogue: 0,0:24:42.33,0:24:44.36,normal_Wed,,0,0,0,,Doesn't he always ask for people's help? It's confusing
+Dialogue: 0,0:24:44.36,0:24:46.33,normal_Wed,,0,0,0,,What do you mean by "Come with me to the shoot"?
+Dialogue: 0,0:24:46.33,0:24:48.20,normal_Wed,,0,0,0,,Always something unreasonable
+Dialogue: 0,0:24:47.78,0:24:49.48,wipe_Wed,,0,0,0,,I've probably done the same
+Dialogue: 0,0:24:48.40,0:24:51.00,normal_Wed,,0,0,0,,Once I was told to "wait in the car"
+Dialogue: 0,0:24:51.00,0:24:56.24,normal_Wed,,0,0,0,,I would deliberately smoke cigarettes in the car
+Dialogue: 0,0:24:56.47,0:24:59.18,normal_Wed,,0,0,0,,This guy. This guy
+Dialogue: 0,0:24:59.65,0:25:04.36,normal_Wed,,0,0,0,,This is no longer a backstabbing, its a secret revenge plan
+Dialogue: 0,0:25:05.68,0:25:08.39,normal_Wed,,0,0,0,,When I worked for him as a driver
+Dialogue: 0,0:25:08.39,0:25:10.12,normal_Wed,,0,0,0,,In his Toyota Alfa, I XXXX loads of times
+Dialogue: 0,0:25:13.39,0:25:17.79,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:25:13.73,0:25:15.26,wipe_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:25:17.79,0:25:20.30,normal_Wed,,0,0,0,,They really don't deserve to be popular
+Dialogue: 0,0:25:20.77,0:25:22.24,normal_Wed,,0,0,0,,Right at that moment
+Dialogue: 0,0:25:25.27,0:25:28.17,normal_Wed,,0,0,0,,{\alpha55}Scared me{\r}\N-We'll be done in a minute
+Dialogue: 0,0:25:27.22,0:25:29.45,wipe_Wed,,0,0,0,,Everyone sat down at once
+Dialogue: 0,0:25:28.92,0:25:32.81,normal_Wed,,0,0,0,,The sudden return makes the targets panic
+Dialogue: 0,0:25:29.45,0:25:30.90,wipe_Wed,,0,0,0,,Everyone's stiffened all of a sudden
+Dialogue: 0,0:25:33.44,0:25:35.28,normal_Wed,,0,0,0,,Anyway, you must be saying bad things about me
+Dialogue: 0,0:25:35.41,0:25:39.35,normal_Wed,,0,0,0,,No, no, no, not at all \N -How can we say anything bad about you?
+Dialogue: 0,0:25:40.09,0:25:44.49,normal_Wed,,0,0,0,,Unveiling the whole thing under a clichéd lie
+Dialogue: 0,0:25:41.98,0:25:45.25,wipe_Wed,,0,0,0,,You guys are really bad
+Dialogue: 0,0:25:53.16,0:25:56.07,normal_Wed,,0,0,0,,You all said a lot of bad things
+Dialogue: 0,0:25:56.07,0:25:58.84,normal_Wed,,0,0,0,,The moment I left, you started talking bad
+Dialogue: 0,0:25:59.27,0:26:03.77,normal_Wed,,0,0,0,,And what did you do to my car when you were my driver {\alpha55}\N-Ah, well...
+Dialogue: 0,0:26:03.77,0:26:05.98,normal_Wed,,0,0,0,,{\alpha55}Uh... what did i...?
+Dialogue: 0,0:26:06.11,0:26:08.81,normal_Wed,,0,0,0,,What's going on here? Where did it start?  \N-I heard it from the beginning to the end
+Dialogue: 0,0:26:08.81,0:26:10.75,normal_Wed,,0,0,0,,Is it limited to this venue? You heard the bad things from just now?
+Dialogue: 0,0:26:11.62,0:26:14.05,normal_Wed,,0,0,0,,What do you mean here only? \N -Did you hear the bad words in the car over?
+Dialogue: 0,0:26:14.05,0:26:15.65,normal_Wed,,0,0,0,,You talked bad about me in the car?
+Dialogue: 0,0:26:15.98,0:26:17.28,normal_Wed,,0,0,0,,That was close
+Dialogue: 0,0:26:19.64,0:26:28.48,normal_Wed,,0,0,0,,The next challenger is Impulse's Tsutsumishita and the target is these four juniors
+Dialogue: 0,0:26:27.69,0:26:29.40,wipe_Wed,,0,0,0,,Sloppy members
+Dialogue: 0,0:26:31.09,0:26:36.00,normal_Wed,,0,0,0,,The next challenger is Impulse's Tsutsumishita
+Dialogue: 0,0:26:36.64,0:26:39.64,normal_Wed,,0,0,0,,How old is Satake?\N  -39 years old. The same age as us
+Dialogue: 0,0:26:40.11,0:26:41.68,normal_Wed,,0,0,0,,I'll be 40 years old this year
+Dialogue: 0,0:26:42.08,0:26:43.55,normal_Wed,,0,0,0,,What about Mr. Half?
+Dialogue: 0,0:26:43.55,0:26:47.58,normal_Wed,,0,0,0,,Mr. Half?
+Dialogue: 0,0:26:45.60,0:26:46.66,wipe_Wed,,0,0,0,,What does that mean?
+Dialogue: 0,0:26:47.58,0:26:49.60,normal_Wed,,0,0,0,,He's split in two
+Dialogue: 0,0:26:49.60,0:26:51.49,normal_Wed,,0,0,0,,When did this happen?
+Dialogue: 0,0:26:51.49,0:26:53.56,normal_Wed,,0,0,0,,It's not for anyone's sake
+Dialogue: 0,0:26:53.56,0:26:56.66,normal_Wed,,0,0,0,,I just wanted to be more eye-catching
+Dialogue: 0,0:26:57.80,0:27:02.37,normal_Wed,,0,0,0,,They are just talking about the strange tricks of unpopular artists to receive attention
+Dialogue: 0,0:27:03.57,0:27:09.41,normal_Wed,,0,0,0,,Why don't you put more effort in comedy?
+Dialogue: 0,0:27:09.54,0:27:13.04,normal_Wed,,0,0,0,,I thought about trying. \N -No, no, you didn't
+Dialogue: 0,0:27:13.04,0:27:14.62,normal_Wed,,0,0,0,,More than just a thought
+Dialogue: 0,0:27:14.88,0:27:17.91,normal_Wed,,0,0,0,,It feels like you didn't make any action
+Dialogue: 0,0:27:18.18,0:27:20.02,normal_Wed,,0,0,0,,You're 46 now too, right?\N  -Yes
+Dialogue: 0,0:27:20.02,0:27:22.13,normal_Wed,,0,0,0,,What'll you do when you're 50?
+Dialogue: 0,0:27:22.13,0:27:23.89,normal_Wed,,0,0,0,,Okamoto is the same way
+Dialogue: 0,0:27:23.90,0:27:27.96,normal_Wed,,0,0,0,,This guy has been in the industry for a while but look at him now
+Dialogue: 0,0:27:27.96,0:27:30.49,normal_Wed,,0,0,0,,You don't even know what you want to do, do you?
+Dialogue: 0,0:27:30.61,0:27:33.73,normal_Wed,,0,0,0,,You're too half-assed when it comes to comedy
+Dialogue: 0,0:27:34.97,0:27:37.53,normal_Wed,,0,0,0,,Half-assed?\N  -Completely
+Dialogue: 0,0:27:36.66,0:27:38.12,wipe_Wed,,0,0,0,,So true
+Dialogue: 0,0:27:37.63,0:27:40.74,normal_Wed,,0,0,0,,This approach will also bleed into your daily life
+Dialogue: 0,0:27:40.74,0:27:43.61,normal_Wed,,0,0,0,,You'll lose your way
+Dialogue: 0,0:27:43.61,0:27:46.44,normal_Wed,,0,0,0,,You think this about my comedy? \N  -Your comedy as well as other things
+Dialogue: 0,0:27:46.61,0:27:50.15,normal_Wed,,0,0,0,,I guess all of you are not very motivated
+Dialogue: 0,0:27:47.18,0:27:48.65,wipe_Wed,,0,0,0,,Good way to criticize
+Dialogue: 0,0:27:50.15,0:27:52.88,normal_Wed,,0,0,0,,I don't really think thats the case
+Dialogue: 0,0:27:53.05,0:27:56.75,normal_Wed,,0,0,0,,Why don't you just quit your jobs?
+Dialogue: 0,0:27:56.45,0:27:58.30,wipe_Wed,,0,0,0,,Seems to be angry
+Dialogue: 0,0:27:57.42,0:27:59.69,normal_Wed,,0,0,0,,When drinking just now, I asked "What do you want to eat?"
+Dialogue: 0,0:27:58.29,0:27:59.70,wipe_Wed,,0,0,0,,He's angry
+Dialogue: 0,0:27:59.69,0:28:01.29,normal_Wed,,0,0,0,,And also said "this is really delicious"
+Dialogue: 0,0:28:01.60,0:28:02.69,normal_Wed,,0,0,0,,None of this is funny
+Dialogue: 0,0:28:02.69,0:28:05.00,normal_Wed,,0,0,0,,You're all just saying "what's delicious?"
+Dialogue: 0,0:28:05.40,0:28:07.56,normal_Wed,,0,0,0,,Obviously I want to joke around
+Dialogue: 0,0:28:07.56,0:28:09.41,normal_Wed,,0,0,0,,But you guys don't even pick up on it
+Dialogue: 0,0:28:10.72,0:28:16.89,normal_Wed,,0,0,0,,After his stern rebuke
+Dialogue: 0,0:28:14.78,0:28:16.84,wipe_Wed,,0,0,0,,Everyone is holding back
+Dialogue: 0,0:28:18.14,0:28:21.81,normal_Wed,,0,0,0,,I'm bored really {\alpha55}\N-Sorry
+Dialogue: 0,0:28:21.81,0:28:23.48,normal_Wed,,0,0,0,,I'm going
+Dialogue: 0,0:28:22.62,0:28:23.82,wipe_Wed,,0,0,0,,What a clever induction
+Dialogue: 0,0:28:24.14,0:28:27.41,normal_Wed,,0,0,0,,Leaving after dropping 30,000 for a dinner party
+Dialogue: 0,0:28:28.93,0:28:30.62,wipe_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:28:30.62,0:28:31.92,wipe_Wed,,0,0,0,,They are holding back
+Dialogue: 0,0:28:32.82,0:28:34.16,normal_Wed,,0,0,0,,That
+Dialogue: 0,0:28:34.36,0:28:38.86,normal_Wed,,0,0,0,,I haven't been out drinking for a long time,  is this the atmosphere now?
+Dialogue: 0,0:28:38.86,0:28:40.43,normal_Wed,,0,0,0,,Does this happen often?
+Dialogue: 0,0:28:40.43,0:28:42.73,normal_Wed,,0,0,0,,Or just when he's in a bad mood?
+Dialogue: 0,0:28:42.83,0:28:45.27,normal_Wed,,0,0,0,,It's possible
+Dialogue: 0,0:28:45.27,0:28:47.67,normal_Wed,,0,0,0,,But there's nothing you can do about this stuff
+Dialogue: 0,0:28:48.07,0:28:51.34,normal_Wed,,0,0,0,,Just simply venting their frustrations, right?
+Dialogue: 0,0:28:51.64,0:28:52.94,normal_Wed,,0,0,0,,First of all, what did he just say?
+Dialogue: 0,0:28:52.94,0:28:55.51,normal_Wed,,0,0,0,,I thought "Who are you to say that?"
+Dialogue: 0,0:28:55.61,0:28:58.22,normal_Wed,,0,0,0,,Like when he said, "What are you going to do from now on?"
+Dialogue: 0,0:28:58.35,0:28:59.78,normal_Wed,,0,0,0,,He's concerned
+Dialogue: 0,0:28:59.78,0:29:03.05,normal_Wed,,0,0,0,,Although he said a lot of things out of concern
+Dialogue: 0,0:29:03.05,0:29:04.02,normal_Wed,,0,0,0,,But I'm also very concerned about that guy's situation
+Dialogue: 0,0:29:04.02,0:29:06.09,normal_Wed,,0,0,0,,Called me "that guy"
+Dialogue: 0,0:29:05.64,0:29:06.80,wipe_Wed,,0,0,0,,Already started
+Dialogue: 0,0:29:07.09,0:29:12.29,normal_Wed,,0,0,0,,The juniors who have entered the rhythm of badmouthing have started to call him "that guy"
+Dialogue: 0,0:29:08.86,0:29:09.66,wipe_Wed,,0,0,0,,So fast
+Dialogue: 0,0:29:10.46,0:29:12.08,wipe_Wed,,0,0,0,,Gradually showing their aggressiveness
+Dialogue: 0,0:29:12.08,0:29:13.88,wipe_Wed,,0,0,0,,Really angry
+Dialogue: 0,0:29:13.63,0:29:16.53,normal_Wed,,0,0,0,,He seems to think that eating just a little is
+Dialogue: 0,0:29:16.53,0:29:18.34,normal_Wed,,0,0,0,,Very cool
+Dialogue: 0,0:29:18.34,0:29:19.70,normal_Wed,,0,0,0,,Yeah yeah
+Dialogue: 0,0:29:19.70,0:29:20.80,normal_Wed,,0,0,0,,But I don't know what he's pretending to be
+Dialogue: 0,0:29:20.80,0:29:23.41,normal_Wed,,0,0,0,,He's showing off
+Dialogue: 0,0:29:24.07,0:29:25.98,normal_Wed,,0,0,0,,Talking about some very serious topics to make himself feel cool
+Dialogue: 0,0:29:25.98,0:29:28.75,normal_Wed,,0,0,0,,He himself does not even know that his ability is the lower-mid level
+Dialogue: 0,0:29:28.75,0:29:31.21,normal_Wed,,0,0,0,,What lower middle level, his ability is right on the edge
+Dialogue: 0,0:29:31.21,0:29:33.08,normal_Wed,,0,0,0,,His look is also bad \N-It's a disaster
+Dialogue: 0,0:29:33.08,0:29:35.52,normal_Wed,,0,0,0,,Fat and ugly face with a ghostly appearance
+Dialogue: 0,0:29:35.52,0:29:36.55,normal_Wed,,0,0,0,,Pure stupidity
+Dialogue: 0,0:29:35.93,0:29:36.74,wipe_Wed,,0,0,0,,They won't stop
+Dialogue: 0,0:29:36.75,0:29:40.22,normal_Wed,,0,0,0,,I've come to hate these guys really
+Dialogue: 0,0:29:40.39,0:29:43.66,normal_Wed,,0,0,0,,Throws the money down and says "I'm leaving"
+Dialogue: 0,0:29:43.79,0:29:46.33,normal_Wed,,0,0,0,,There were times when the money he drops isn't even enough to settle the bill, right?  \N-It's true
+Dialogue: 0,0:29:46.33,0:29:48.50,normal_Wed,,0,0,0,,Pretending to not know the price of something
+Dialogue: 0,0:29:48.50,0:29:50.20,normal_Wed,,0,0,0,,His brain is messed up
+Dialogue: 0,0:29:50.53,0:29:51.30,normal_Wed,,0,0,0,,I'm an idiot, right?
+Dialogue: 0,0:29:51.30,0:29:53.10,normal_Wed,,0,0,0,,But that stupid pig?
+Dialogue: 0,0:29:53.10,0:29:54.37,normal_Wed,,0,0,0,,These two shiny titles
+Dialogue: 0,0:29:54.37,0:29:56.37,normal_Wed,,0,0,0,,Isn't it tough being such an idiot?
+Dialogue: 0,0:29:56.54,0:30:00.64,normal_Wed,,0,0,0,,Saying i'm a stupid pig is too much, right? It's tough
+Dialogue: 0,0:30:00.64,0:30:02.85,normal_Wed,,0,0,0,,A real character attack
+Dialogue: 0,0:30:02.85,0:30:05.55,normal_Wed,,0,0,0,,When comedians get together
+Dialogue: 0,0:30:05.55,0:30:08.59,normal_Wed,,0,0,0,,He always starts with this seniority stuff
+Dialogue: 0,0:30:08.84,0:30:10.99,normal_Wed,,0,0,0,,He thinks he's on top
+Dialogue: 0,0:30:10.99,0:30:12.42,normal_Wed,,0,0,0,,When really, he's the worst
+Dialogue: 0,0:30:12.52,0:30:15.13,normal_Wed,,0,0,0,,How can he still stand on the head of others?
+Dialogue: 0,0:30:15.56,0:30:20.90,normal_Wed,,0,0,0,,At this point, one member continues to unleash an unstoppable tirade
+Dialogue: 0,0:30:22.60,0:30:24.67,normal_Wed,,0,0,0,,He's really quite a loser
+Dialogue: 0,0:30:24.67,0:30:25.60,normal_Wed,,0,0,0,,Completely
+Dialogue: 0,0:30:25.60,0:30:27.87,normal_Wed,,0,0,0,,Because he used to work for NSC
+Dialogue: 0,0:30:27.87,0:30:29.47,normal_Wed,,0,0,0,,Everyone hates him
+Dialogue: 0,0:30:29.64,0:30:33.41,normal_Wed,,0,0,0,,He really makes people angry, that piece of shit
+Dialogue: 0,0:30:33.54,0:30:36.92,normal_Wed,,0,0,0,,Frankly speaking, we hate him from the bottom of our hearts, right?
+Dialogue: 0,0:30:36.92,0:30:38.80,normal_Wed,,0,0,0,,My two-year-old daughter is more obedient
+Dialogue: 0,0:30:38.80,0:30:39.98,normal_Wed,,0,0,0,,A no-go is a no-go
+Dialogue: 0,0:30:41.25,0:30:43.39,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:30:43.84,0:30:45.36,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:30:45.36,0:30:47.10,wipe_Wed,,0,0,0,,I don't want to look
+Dialogue: 0,0:30:49.33,0:30:50.39,normal_Wed,,0,0,0,,Still drinking?
+Dialogue: 0,0:30:50.66,0:30:51.66,normal_Wed,,0,0,0,,Drinking and chatting happily
+Dialogue: 0,0:30:51.66,0:30:53.23,normal_Wed,,0,0,0,,Drinking and talking well? \N -Yes
+Dialogue: 0,0:30:53.23,0:30:55.30,normal_Wed,,0,0,0,,We were talking about how to change ourselves starting tomorrow
+Dialogue: 0,0:30:55.30,0:30:57.83,normal_Wed,,0,0,0,,And talking about tuna
+Dialogue: 0,0:30:57.41,0:30:58.38,wipe_Wed,,0,0,0,,Tuna?
+Dialogue: 0,0:30:57.83,0:31:00.44,normal_Wed,,0,0,0,,Talking about this kind of stuff the whole time?\N  -Yes
+Dialogue: 0,0:31:00.86,0:31:03.97,normal_Wed,,0,0,0,,To the juniors clearly did not talk about any of this
+Dialogue: 0,0:31:04.86,0:31:06.57,normal_Wed,,0,0,0,,We revealed the truth
+Dialogue: 0,0:31:06.61,0:31:07.85,wipe_Wed,,0,0,0,,This is too much to bear
+Dialogue: 0,0:31:07.85,0:31:09.34,wipe_Wed,,0,0,0,,Super difficult
+Dialogue: 0,0:31:12.38,0:31:13.88,normal_Wed,,0,0,0,,What the hell is this?
+Dialogue: 0,0:31:13.88,0:31:16.94,normal_Wed,,0,0,0,,Then, the content of this project was conveyed to them
+Dialogue: 0,0:31:17.82,0:31:19.72,normal_Wed,,0,0,0,,Wow!
+Dialogue: 0,0:31:19.72,0:31:23.03,normal_Wed,,0,0,0,,Wait, what is this situation?
+Dialogue: 0,0:31:23.03,0:31:26.56,normal_Wed,,0,0,0,,I heard it all when I wasn't here!
+Dialogue: 0,0:31:26.76,0:31:29.80,normal_Wed,,0,0,0,,About 40 minutes of badmouthing me without stopping
+Dialogue: 0,0:31:29.80,0:31:32.20,normal_Wed,,0,0,0,,But I also know your nature
+Dialogue: 0,0:31:30.32,0:31:32.21,wipe_Wed,,0,0,0,,Scary, what to do now?
+Dialogue: 0,0:31:32.74,0:31:34.10,normal_Wed,,0,0,0,,I'll apologize afterwards
+Dialogue: 0,0:31:34.10,0:31:36.11,normal_Wed,,0,0,0,,I will apologize to you solemnly afterwards
+Dialogue: 0,0:31:36.11,0:31:38.21,normal_Wed,,0,0,0,,It's really too much. \N -Ah, this... this...
+Dialogue: 0,0:31:38.76,0:31:42.52,normal_Wed,,0,0,0,,The next challenger is the Nichokenju' Kobori
+Dialogue: 0,0:31:43.08,0:31:46.72,normal_Wed,,0,0,0,,The target is these four junior artists
+Dialogue: 0,0:31:47.76,0:31:51.05,normal_Wed,,0,0,0,,Always feel a little messed up
+Dialogue: 0,0:31:51.05,0:31:52.19,normal_Wed,,0,0,0,,Not that it's perfunctory either
+Dialogue: 0,0:31:52.19,0:31:55.53,normal_Wed,,0,0,0,,Its like eating up your savings
+Dialogue: 0,0:31:55.69,0:31:58.96,normal_Wed,,0,0,0,,Do you mean we aren't challenging ourselves to do something new?
+Dialogue: 0,0:31:58.78,0:32:00.34,wipe_Wed,,0,0,0,,He is sure to be badmouthed
+Dialogue: 0,0:32:00.05,0:32:08.58,normal_Wed,,0,0,0,,"You're too comfortable with the status quo," Kobori said to Keishi and Murakami for about an hour
+Dialogue: 0,0:32:08.58,0:32:11.78,wipe_Wed,,0,0,0,,That's a great choice.  \N-The scene must be very confusing
+Dialogue: 0,0:32:09.58,0:32:10.46,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:32:11.11,0:32:15.15,normal_Wed,,0,0,0,,I really think you're unacceptable
+Dialogue: 0,0:32:15.89,0:32:20.82,normal_Wed,,0,0,0,,After dropping a simple "You're unacceptable" to New Okabe
+Dialogue: 0,0:32:22.45,0:32:27.21,normal_Wed,,0,0,0,,He retreats as before with an unhappy look
+Dialogue: 0,0:32:33.33,0:32:35.83,normal_Wed,,0,0,0,,Did he get weird from halfway through?
+Dialogue: 0,0:32:36.20,0:32:37.77,normal_Wed,,0,0,0,,Yeah, really
+Dialogue: 0,0:32:37.77,0:32:41.04,normal_Wed,,0,0,0,,There really are some seniors that our concerned for our wellbeing \N -Some
+Dialogue: 0,0:32:41.04,0:32:44.91,normal_Wed,,0,0,0,,I thought he didn't even take us seriously
+Dialogue: 0,0:32:44.91,0:32:47.64,normal_Wed,,0,0,0,,No, don't compliment me
+Dialogue: 0,0:32:48.22,0:32:49.13,normal_Wed,,0,0,0,,But
+Dialogue: 0,0:32:49.91,0:32:51.38,normal_Wed,,0,0,0,,What did he say to you, Okabe?
+Dialogue: 0,0:32:51.92,0:32:57.72,normal_Wed,,0,0,0,,Honestly... unacceptable
+Dialogue: 0,0:32:59.19,0:33:01.96,normal_Wed,,0,0,0,,Although it is a small thing
+Dialogue: 0,0:33:01.96,0:33:04.16,normal_Wed,,0,0,0,,Didn't I give him some cigarettes?
+Dialogue: 0,0:33:04.36,0:33:05.86,normal_Wed,,0,0,0,,You did?
+Dialogue: 0,0:33:06.66,0:33:12.07,normal_Wed,,0,0,0,,He only smoked a tiny bit
+Dialogue: 0,0:33:12.07,0:33:14.44,normal_Wed,,0,0,0,,It's true, so I can't say its badmouthing
+Dialogue: 0,0:33:14.44,0:33:16.54,normal_Wed,,0,0,0,,Look, look, look, look, it's still long, right?
+Dialogue: 0,0:33:17.51,0:33:20.38,normal_Wed,,0,0,0,,All of the finished ones are the same lengths
+Dialogue: 0,0:33:23.73,0:33:24.92,wipe_Wed,,0,0,0,,This is really not good, right?
+Dialogue: 0,0:33:23.95,0:33:27.55,normal_Wed,,0,0,0,,Same, same. \N -It's very even. It's completely consistent
+Dialogue: 0,0:33:27.55,0:33:30.62,normal_Wed,,0,0,0,,He's only smoking the tip of it!
+Dialogue: 0,0:33:34.09,0:33:37.49,normal_Wed,,0,0,0,,Not ingesting the nicotine at all
+Dialogue: 0,0:33:37.49,0:33:39.93,normal_Wed,,0,0,0,,So why is he even smoking? \N-The look
+Dialogue: 0,0:33:39.93,0:33:42.77,normal_Wed,,0,0,0,,It's over for him
+Dialogue: 0,0:33:43.00,0:33:44.87,normal_Wed,,0,0,0,,He's pissing me off. What a statement!
+Dialogue: 0,0:33:44.87,0:33:46.10,normal_Wed,,0,0,0,,What do you mean by "the look"?
+Dialogue: 0,0:33:46.27,0:33:48.74,normal_Wed,,0,0,0,,A fake smoker
+Dialogue: 0,0:33:48.74,0:33:50.54,normal_Wed,,0,0,0,,All for appearance?
+Dialogue: 0,0:33:50.54,0:33:51.57,normal_Wed,,0,0,0,,Smoking to look cool
+Dialogue: 0,0:33:51.71,0:33:54.64,normal_Wed,,0,0,0,,Not to be a cool comedian but a musician
+Dialogue: 0,0:33:54.64,0:33:56.21,normal_Wed,,0,0,0,,He definitely pretends to be like that
+Dialogue: 0,0:33:57.06,0:33:58.85,normal_Wed,,0,0,0,,They're looking down on me!
+Dialogue: 0,0:33:59.32,0:34:00.06,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:34:00.58,0:34:02.29,normal_Wed,,0,0,0,,Jun as well
+Dialogue: 0,0:34:02.45,0:34:04.42,normal_Wed,,0,0,0,,I'm always being lectured by him
+Dialogue: 0,0:34:04.54,0:34:07.59,normal_Wed,,0,0,0,,I don't think it's a problem at all. \N -That's not possible, is it?
+Dialogue: 0,0:34:07.59,0:34:09.24,normal_Wed,,0,0,0,,Won't there be "question marks" in your head when you are being lectured?
+Dialogue: 0,0:34:09.24,0:34:11.26,normal_Wed,,0,0,0,,There will, but, how to put it...
+Dialogue: 0,0:34:11.26,0:34:14.46,normal_Wed,,0,0,0,,Even if we talk back he doesn't understand
+Dialogue: 0,0:34:14.86,0:34:16.00,normal_Wed,,0,0,0,,Oi!
+Dialogue: 0,0:34:16.00,0:34:18.10,normal_Wed,,0,0,0,,That's the worst!
+Dialogue: 0,0:34:18.10,0:34:20.10,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:34:18.90,0:34:20.58,wipe_Wed,,0,0,0,,Totally looked down on
+Dialogue: 0,0:34:21.00,0:34:23.67,normal_Wed,,0,0,0,,Although it might be a bit much
+Dialogue: 0,0:34:23.67,0:34:25.28,normal_Wed,,0,0,0,,I've always thought i'll never lose to him
+Dialogue: 0,0:34:26.44,0:34:27.68,normal_Wed,,0,0,0,,This is not good!
+Dialogue: 0,0:34:27.68,0:34:29.58,normal_Wed,,0,0,0,,Never thought of losing to Nichokenju
+Dialogue: 0,0:34:29.58,0:34:31.71,normal_Wed,,0,0,0,,No, not Nichokenju, just Kobori
+Dialogue: 0,0:34:32.22,0:34:37.08,normal_Wed,,0,0,0,,When Kobori returns to his seat as before
+Dialogue: 0,0:34:38.05,0:34:41.46,special_Wed_2_2,,0,0,0,,{\move(720,1090,720,885,0,133)\c&HFFFFFF&\3c&H0C0AF2&\fade(900,300)}The truth is revealed
+Dialogue: 0,0:34:39.84,0:34:40.89,wipe_Wed,,0,0,0,,The mood is heavy
+Dialogue: 0,0:34:40.89,0:34:41.98,wipe_Wed,,0,0,0,,It's getting heavy
+Dialogue: 0,0:34:46.23,0:34:47.70,normal_Wed,,0,0,0,,{\fade(300,0)}Oh...
+Dialogue: 0,0:34:49.73,0:34:51.47,normal_Wed,,0,0,0,,This is Wednesday Downtown
+Dialogue: 0,0:34:50.86,0:34:51.61,wipe_Wed,,0,0,0,,Good face
+Dialogue: 0,0:34:54.60,0:34:56.38,normal_Wed,,0,0,0,,You said, "i'll never lose to him"
+Dialogue: 0,0:34:57.24,0:34:59.14,normal_Wed,,0,0,0,,That sentence hurt me the most
+Dialogue: 0,0:34:59.41,0:35:01.64,normal_Wed,,0,0,0,,What do you mean by "i'll never lose to him"?
+Dialogue: 0,0:35:01.78,0:35:03.98,normal_Wed,,0,0,0,,Look at the wristband
+Dialogue: 0,0:35:04.78,0:35:06.62,normal_Wed,,0,0,0,,He's pretending to be a musician
+Dialogue: 0,0:35:06.62,0:35:08.09,normal_Wed,,0,0,0,,It's not like that!
+Dialogue: 0,0:35:08.65,0:35:11.65,normal_Wed,,0,0,0,,So the final challenger is
+Dialogue: 0,0:35:12.70,0:35:14.24,wipe_Wed,,0,0,0,,This candidate is a little dangerous
+Dialogue: 0,0:35:14.21,0:35:19.56,normal_Wed,,0,0,0,,Nagano is assisted by a junior at his firm
+Dialogue: 0,0:35:19.55,0:35:20.76,wipe_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:35:20.36,0:35:23.73,normal_Wed,,0,0,0,,This is a good opportunity to convey the facts
+Dialogue: 0,0:35:23.73,0:35:25.03,normal_Wed,,0,0,0,,For them
+Dialogue: 0,0:35:25.03,0:35:27.57,normal_Wed,,0,0,0,,They wont say something they've never thought
+Dialogue: 0,0:35:27.57,0:35:29.54,normal_Wed,,0,0,0,,To incite them hard
+Dialogue: 0,0:35:29.54,0:35:31.98,normal_Wed,,0,0,0,,I'll start with the psychological aspect
+Dialogue: 0,0:35:31.98,0:35:35.11,normal_Wed,,0,0,0,,And then just let them talk bad about me, right? \N -Yes
+Dialogue: 0,0:35:35.12,0:35:37.51,normal_Wed,,0,0,0,,I usually scold them
+Dialogue: 0,0:35:37.51,0:35:39.38,normal_Wed,,0,0,0,,Do you usually tell them off?\N  -Usually
+Dialogue: 0,0:35:39.38,0:35:42.65,normal_Wed,,0,0,0,,I've scolded all of them before, yeah
+Dialogue: 0,0:35:42.01,0:35:42.92,wipe_Wed,,0,0,0,,Really
+Dialogue: 0,0:35:43.64,0:35:46.80,normal_Wed,,0,0,0,,Although Nagano is confident about this project
+Dialogue: 0,0:35:47.65,0:35:48.90,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:35:50.56,0:35:54.56,normal_Wed,,0,0,0,,If you know which artist is badmouthing you behind you back, they'll be sent away as soon as possible
+Dialogue: 0,0:35:54.56,0:35:56.17,normal_Wed,,0,0,0,,What do you mean "sent away?"
+Dialogue: 0,0:35:56.17,0:35:58.67,normal_Wed,,0,0,0,,Never work with him again
+Dialogue: 0,0:35:58.67,0:36:02.02,normal_Wed,,0,0,0,,I'd like to think that I would accept it with an open mind and move on
+Dialogue: 0,0:36:03.53,0:36:07.36,normal_Wed,,0,0,0,,It's rare for these members to get together so why don't I just say it
+Dialogue: 0,0:36:07.44,0:36:11.08,normal_Wed,,0,0,0,,It's really impossible for you, right now
+Dialogue: 0,0:36:11.08,0:36:13.82,normal_Wed,,0,0,0,,How long ago did you decide to be comedians?
+Dialogue: 0,0:36:15.25,0:36:19.86,normal_Wed,,0,0,0,,If something happens, the office will fire you
+Dialogue: 0,0:36:20.33,0:36:24.00,normal_Wed,,0,0,0,,First Nagano lectures the helper
+Dialogue: 0,0:36:24.44,0:36:27.49,normal_Wed,,0,0,0,,Making the atmosphere worse
+Dialogue: 0,0:36:28.44,0:36:29.42,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:36:29.77,0:36:32.20,normal_Wed,,0,0,0,,Isn't Shinichi very strange lately?
+Dialogue: 0,0:36:32.34,0:36:34.69,normal_Wed,,0,0,0,,Will you get the trophy again?
+Dialogue: 0,0:36:34.69,0:36:37.31,normal_Wed,,0,0,0,,Get the R-1 trophy by playing dumb?
+Dialogue: 0,0:36:37.40,0:36:39.28,normal_Wed,,0,0,0,,I think so
+Dialogue: 0,0:36:39.28,0:36:42.18,normal_Wed,,0,0,0,,I've always wanted to get it back \N  -That!
+Dialogue: 0,0:36:42.18,0:36:45.22,normal_Wed,,0,0,0,,But now its like "is it ever gonna happen?"
+Dialogue: 0,0:36:45.22,0:36:46.08,normal_Wed,,0,0,0,,The staff thinks so
+Dialogue: 0,0:36:46.88,0:36:49.15,normal_Wed,,0,0,0,,Everyone is tired of your act
+Dialogue: 0,0:36:49.15,0:36:51.69,normal_Wed,,0,0,0,,You're just playing the fool
+Dialogue: 0,0:36:49.18,0:36:51.22,wipe_Wed,,0,0,0,,In fact, only Nagano-san thinks so
+Dialogue: 0,0:36:51.70,0:36:55.29,normal_Wed,,0,0,0,,The trophy has passed by so many times
+Dialogue: 0,0:36:55.43,0:36:57.53,normal_Wed,,0,0,0,,Shinichi almost got it
+Dialogue: 0,0:36:57.53,0:37:00.70,normal_Wed,,0,0,0,,I've pretty much had enough
+Dialogue: 0,0:36:59.88,0:37:01.96,wipe_Wed,,0,0,0,,Already starting to get angry
+Dialogue: 0,0:37:00.70,0:37:04.36,normal_Wed,,0,0,0,,Shinichi's stuff is just not funny anymore
+Dialogue: 0,0:37:04.70,0:37:08.44,normal_Wed,,0,0,0,,Although you seem to be fine with it, what are you going to do in the future?
+Dialogue: 0,0:37:08.97,0:37:10.87,normal_Wed,,0,0,0,,This will not work
+Dialogue: 0,0:37:10.88,0:37:14.24,normal_Wed,,0,0,0,,You've also made a lot of enemies because you have been badmouthing others
+Dialogue: 0,0:37:14.90,0:37:17.36,normal_Wed,,0,0,0,,With Nagano's natural sinister look
+Dialogue: 0,0:37:17.54,0:37:18.78,wipe_Wed,,0,0,0,,Don't say it's natural!
+Dialogue: 0,0:37:18.44,0:37:24.65,normal_Wed,,0,0,0,,This session differs greatly from the previous lectures
+Dialogue: 0,0:37:25.99,0:37:27.06,normal_Wed,,0,0,0,,As expected of him
+Dialogue: 0,0:37:27.10,0:37:28.42,normal_Wed,,0,0,0,,Straight to the core now
+Dialogue: 0,0:37:29.09,0:37:31.79,normal_Wed,,0,0,0,,Fujiwara too
+Dialogue: 0,0:37:31.79,0:37:34.80,normal_Wed,,0,0,0,,The final of King of Conte? \N -Yes
+Dialogue: 0,0:37:34.80,0:37:38.50,normal_Wed,,0,0,0,,How many times have you been in the final?\N  -3 times
+Dialogue: 0,0:37:38.50,0:37:41.10,normal_Wed,,0,0,0,,3 times to the final?\N  -Yes
+Dialogue: 0,0:37:41.30,0:37:44.94,normal_Wed,,0,0,0,,In the final 3 times but still not popular, such a waste
+Dialogue: 0,0:37:45.61,0:37:48.04,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:37:48.04,0:37:50.08,normal_Wed,,0,0,0,,Isn't it awful?
+Dialogue: 0,0:37:50.08,0:37:54.75,normal_Wed,,0,0,0,,It still depends on the audience, if they don't like you its impossible
+Dialogue: 0,0:37:53.97,0:37:55.18,wipe_Wed,,0,0,0,,Speak for yourself
+Dialogue: 0,0:37:54.75,0:37:59.09,normal_Wed,,0,0,0,,Does anyone like you guys?
+Dialogue: 0,0:37:59.22,0:38:01.06,normal_Wed,,0,0,0,,Not many fans, no
+Dialogue: 0,0:38:01.06,0:38:02.93,normal_Wed,,0,0,0,,No, right?  \N-Yes
+Dialogue: 0,0:38:02.21,0:38:03.42,wipe_Wed,,0,0,0,,Feels like it's about to explode
+Dialogue: 0,0:38:03.19,0:38:05.56,normal_Wed,,0,0,0,,You also
+Dialogue: 0,0:38:05.56,0:38:10.43,normal_Wed,,0,0,0,,I don't even know what your purpose is
+Dialogue: 0,0:38:10.43,0:38:13.04,normal_Wed,,0,0,0,,You're writing more
+Dialogue: 0,0:38:13.04,0:38:15.61,normal_Wed,,0,0,0,,On various programs
+Dialogue: 0,0:38:15.61,0:38:19.13,normal_Wed,,0,0,0,,Although Shinichi's stuff isn't funny
+Dialogue: 0,0:38:19.13,0:38:20.78,normal_Wed,,0,0,0,,They're used at least, despite not being funny
+Dialogue: 0,0:38:20.69,0:38:21.73,wipe_Wed,,0,0,0,,Angry?
+Dialogue: 0,0:38:20.97,0:38:22.81,normal_Wed,,0,0,0,,How to put it...
+Dialogue: 0,0:38:22.81,0:38:26.22,normal_Wed,,0,0,0,,Aren't you a big guy?
+Dialogue: 0,0:38:26.22,0:38:27.48,normal_Wed,,0,0,0,,It's really disgusting
+Dialogue: 0,0:38:27.75,0:38:31.59,normal_Wed,,0,0,0,,There are loads of entertainers over one meter seven
+Dialogue: 0,0:38:32.72,0:38:39.42,normal_Wed,,0,0,0,,In this way, he vents his usual outrageous words for an hour
+Dialogue: 0,0:38:40.05,0:38:40.97,wipe_Wed,,0,0,0,,Terrible
+Dialogue: 0,0:38:41.70,0:38:45.23,normal_Wed,,0,0,0,,Drink what you want. Here's the money
+Dialogue: 0,0:38:45.64,0:38:50.90,normal_Wed,,0,0,0,,Dropping a 3,000 yen dinner fee, which was not even enough for one person, he leaves
+Dialogue: 0,0:38:48.90,0:38:52.65,wipe_Wed,,0,0,0,,Too cheap, right?
+Dialogue: 0,0:38:52.14,0:38:53.28,normal_Wed,,0,0,0,,He's gone
+Dialogue: 0,0:38:53.28,0:38:55.45,normal_Wed,,0,0,0,,He's really gone
+Dialogue: 0,0:38:55.45,0:38:58.18,normal_Wed,,0,0,0,,What a guy
+Dialogue: 0,0:38:58.18,0:39:01.15,normal_Wed,,0,0,0,,Isn't tomorrow's shoot going to be awful?
+Dialogue: 0,0:39:01.15,0:39:02.62,normal_Wed,,0,0,0,,Not great
+Dialogue: 0,0:39:02.99,0:39:06.49,normal_Wed,,0,0,0,,Isn't he jealous? Because Shinichi got there first
+Dialogue: 0,0:39:06.49,0:39:08.76,normal_Wed,,0,0,0,,Saying all that about Shinichi
+Dialogue: 0,0:39:09.06,0:39:11.26,normal_Wed,,0,0,0,,His complex seems clear
+Dialogue: 0,0:39:11.26,0:39:13.53,normal_Wed,,0,0,0,,Really bad, he said such a lot of strange things
+Dialogue: 0,0:39:13.53,0:39:16.60,normal_Wed,,0,0,0,,You really don't need to care \N -You don't need to care about what he said
+Dialogue: 0,0:39:16.22,0:39:18.02,wipe_Wed,,0,0,0,,They're all very kind
+Dialogue: 0,0:39:16.77,0:39:21.17,normal_Wed,,0,0,0,,Mostly because no one at R-1 takes him seriously
+Dialogue: 0,0:39:21.17,0:39:23.44,normal_Wed,,0,0,0,,Because you won, he has an inferiority complex
+Dialogue: 0,0:39:23.61,0:39:26.88,normal_Wed,,0,0,0,,He's a bundle of low self-esteem
+Dialogue: 0,0:39:27.11,0:39:32.18,normal_Wed,,0,0,0,,And his popularity is now gone, too
+Dialogue: 0,0:39:32.18,0:39:35.52,normal_Wed,,0,0,0,,So he's become neurotic
+Dialogue: 0,0:39:32.98,0:39:33.92,wipe_Wed,,0,0,0,,The devil
+Dialogue: 0,0:39:35.95,0:39:38.22,normal_Wed,,0,0,0,,So he hurts others with his words
+Dialogue: 0,0:39:39.49,0:39:41.70,normal_Wed,,0,0,0,,Because of Nagano's tone of voice
+Dialogue: 0,0:39:41.20,0:39:42.86,wipe_Wed,,0,0,0,,Shinichi is really upset
+Dialogue: 0,0:39:41.70,0:39:47.36,normal_Wed,,0,0,0,,The juniors did not mix any funny elements and instead just bad-mouth seriously
+Dialogue: 0,0:39:48.87,0:39:51.37,normal_Wed,,0,0,0,,But Shinichi, you've been on set recently
+Dialogue: 0,0:39:51.37,0:39:53.94,normal_Wed,,0,0,0,,Aren't there a lot of times you perform with him? \N -Yes
+Dialogue: 0,0:39:54.04,0:39:55.87,normal_Wed,,0,0,0,,I'm super wary of him.\N  -Ha?
+Dialogue: 0,0:39:55.87,0:39:57.70,normal_Wed,,0,0,0,,Super wary
+Dialogue: 0,0:39:57.84,0:40:01.31,normal_Wed,,0,0,0,,What happened to make you feel like that?
+Dialogue: 0,0:40:01.31,0:40:04.15,normal_Wed,,0,0,0,,Everything, literally everything
+Dialogue: 0,0:40:04.15,0:40:09.79,normal_Wed,,0,0,0,,It's so tiring \N-You're lying, right? I thought we had a good relationship
+Dialogue: 0,0:40:11.35,0:40:15.32,normal_Wed,,0,0,0,,I think he has too much pride
+Dialogue: 0,0:40:15.79,0:40:18.60,normal_Wed,,0,0,0,,In the end, he has no charisma at all
+Dialogue: 0,0:40:18.60,0:40:22.43,normal_Wed,,0,0,0,,He thinks he does?\N  -I used to think so
+Dialogue: 0,0:40:21.77,0:40:23.05,wipe_Wed,,0,0,0,,So serious!
+Dialogue: 0,0:40:22.43,0:40:23.93,normal_Wed,,0,0,0,,I don't think he has charisma
+Dialogue: 0,0:40:23.93,0:40:26.87,normal_Wed,,0,0,0,,I just pretended to respect him
+Dialogue: 0,0:40:27.04,0:40:29.04,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:40:29.04,0:40:31.44,normal_Wed,,0,0,0,,He's always said that before... eh?
+Dialogue: 0,0:40:31.69,0:40:33.74,normal_Wed,,0,0,0,,That guy is just a drag. \N -A drag?
+Dialogue: 0,0:40:33.74,0:40:36.45,normal_Wed,,0,0,0,,It's a big drag. \N -What do you mean, on set?
+Dialogue: 0,0:40:36.45,0:40:39.75,normal_Wed,,0,0,0,,He's the type that just wants whats best for himself
+Dialogue: 0,0:40:39.75,0:40:45.96,normal_Wed,,0,0,0,,So because I also hope to do well, i've been desperately trying to please him
+Dialogue: 0,0:40:45.96,0:40:47.86,normal_Wed,,0,0,0,,But on TV
+Dialogue: 0,0:40:48.06,0:40:49.69,normal_Wed,,0,0,0,,He drags everything down
+Dialogue: 0,0:40:49.69,0:40:52.53,normal_Wed,,0,0,0,,This is also too hurtful
+Dialogue: 0,0:40:52.30,0:40:55.00,wipe_Wed,,0,0,0,,Looks so sad
+Dialogue: 0,0:40:54.93,0:40:58.03,normal_Wed,,0,0,0,,I really feel like keeping my distance from him
+Dialogue: 0,0:40:58.03,0:40:59.37,normal_Wed,,0,0,0,,I've gradually understood everything
+Dialogue: 0,0:40:59.37,0:41:02.30,normal_Wed,,0,0,0,,I can't stand that guy right now
+Dialogue: 0,0:41:04.07,0:41:05.44,normal_Wed,,0,0,0,,Can't stand me?
+Dialogue: 0,0:41:04.97,0:41:06.37,wipe_Wed,,0,0,0,,Good and true bad words
+Dialogue: 0,0:41:06.31,0:41:08.94,normal_Wed,,0,0,0,,It was tough from the start but right now its really impossible
+Dialogue: 0,0:41:08.94,0:41:11.91,normal_Wed,,0,0,0,,So that's what you thought, Shinichi?
+Dialogue: 0,0:41:11.91,0:41:14.92,normal_Wed,,0,0,0,,I thought he was a very cool and interesting person
+Dialogue: 0,0:41:14.92,0:41:19.02,normal_Wed,,0,0,0,,But a part of his character makes him impossible to like
+Dialogue: 0,0:41:19.02,0:41:21.02,normal_Wed,,0,0,0,,I really think so
+Dialogue: 0,0:41:21.26,0:41:24.16,normal_Wed,,0,0,0,,If he wants to go to dinner together I definitely will not go
+Dialogue: 0,0:41:24.16,0:41:26.63,normal_Wed,,0,0,0,,So that's what you think?
+Dialogue: 0,0:41:25.64,0:41:26.86,wipe_Wed,,0,0,0,,So real
+Dialogue: 0,0:41:26.93,0:41:30.63,normal_Wed,,0,0,0,,You know what? He never takes the lead
+Dialogue: 0,0:41:30.63,0:41:31.83,normal_Wed,,0,0,0,,He absolutely must take a back seat
+Dialogue: 0,0:41:32.00,0:41:34.67,normal_Wed,,0,0,0,,He himself said that "playing the fool is really a skill"
+Dialogue: 0,0:41:34.67,0:41:37.84,normal_Wed,,0,0,0,,But instead he just acts like a big shot
+Dialogue: 0,0:41:37.84,0:41:39.94,normal_Wed,,0,0,0,,Hiding in the back, not wanting to be found
+Dialogue: 0,0:41:39.94,0:41:43.25,normal_Wed,,0,0,0,,He also always wears a hat, but even if he doesn't no one will recognize him
+Dialogue: 0,0:41:43.25,0:41:45.45,normal_Wed,,0,0,0,,You wouldn't recognize him if you ran into him on the train, right?
+Dialogue: 0,0:41:43.52,0:41:45.04,wipe_Wed,,0,0,0,,Unstoppable
+Dialogue: 0,0:41:45.45,0:41:46.92,normal_Wed,,0,0,0,,With a strange hat\N  -Really weird
+Dialogue: 0,0:41:46.92,0:41:48.89,normal_Wed,,0,0,0,,Gross, a gross dude
+Dialogue: 0,0:41:48.89,0:41:50.69,normal_Wed,,0,0,0,,Can't even tie shoelaces
+Dialogue: 0,0:41:50.69,0:41:52.22,normal_Wed,,0,0,0,,So he probably can't even live a normal life
+Dialogue: 0,0:41:52.22,0:41:54.79,normal_Wed,,0,0,0,,From now on, I really can't work with him on set
+Dialogue: 0,0:41:54.79,0:41:55.86,normal_Wed,,0,0,0,,Same with live shows
+Dialogue: 0,0:41:55.86,0:41:57.52,normal_Wed,,0,0,0,,Either is impossible
+Dialogue: 0,0:41:57.52,0:42:01.06,normal_Wed,,0,0,0,,This project is really difficult to top
+Dialogue: 0,0:42:01.06,0:42:04.30,normal_Wed,,0,0,0,,I really hope he can work more carefully
+Dialogue: 0,0:42:04.30,0:42:05.60,normal_Wed,,0,0,0,,And he's also stingy as hell
+Dialogue: 0,0:42:05.97,0:42:08.77,normal_Wed,,0,0,0,,Seriously, does he ever treat anyone?
+Dialogue: 0,0:42:09.01,0:42:13.34,normal_Wed,,0,0,0,,The money he gave is not enough at all.  \N-Really?
+Dialogue: 0,0:42:13.34,0:42:15.18,normal_Wed,,0,0,0,,What can you do with 3,000 yen?
+Dialogue: 0,0:42:15.18,0:42:17.85,normal_Wed,,0,0,0,,He probably doesn't understand the price of goods
+Dialogue: 0,0:42:17.85,0:42:19.25,normal_Wed,,0,0,0,,And he can't count
+Dialogue: 0,0:42:19.75,0:42:22.52,normal_Wed,,0,0,0,,Because he only goes to cheap izakayas
+Dialogue: 0,0:42:22.52,0:42:24.12,normal_Wed,,0,0,0,,Doesn't know the price of anything
+Dialogue: 0,0:42:24.12,0:42:26.62,normal_Wed,,0,0,0,,Just drops 3,000 yen as a token of appreciation
+Dialogue: 0,0:42:25.32,0:42:28.76,wipe_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:42:26.62,0:42:28.46,normal_Wed,,0,0,0,,I really think he's not thinking straight
+Dialogue: 0,0:42:28.62,0:42:31.96,normal_Wed,,0,0,0,,Its so frustrating
+Dialogue: 0,0:42:31.96,0:42:36.87,normal_Wed,,0,0,0,,What do you guys hate most about Nagano-san?
+Dialogue: 0,0:42:36.87,0:42:39.10,normal_Wed,,0,0,0,,I don't like his scruffy look either \N -Ha?
+Dialogue: 0,0:42:39.10,0:42:42.24,normal_Wed,,0,0,0,,It's really disgusting
+Dialogue: 0,0:42:42.24,0:42:44.57,normal_Wed,,0,0,0,,Only wears lame shoes
+Dialogue: 0,0:42:44.57,0:42:47.51,normal_Wed,,0,0,0,,Dirty socks, dirty underwear too
+Dialogue: 0,0:42:47.78,0:42:50.35,normal_Wed,,0,0,0,,When he's changing you can see his wrinkly underwear
+Dialogue: 0,0:42:50.52,0:42:53.28,normal_Wed,,0,0,0,,That old "Grape" logo
+Dialogue: 0,0:42:54.41,0:43:02.40,normal_Wed,,0,0,0,,Ultimately, lots of bad things were said from various angles
+Dialogue: 0,0:43:00.35,0:43:02.36,wipe_Wed,,0,0,0,,Like search engine keywords
+Dialogue: 0,0:43:03.58,0:43:06.65,normal_Wed,,0,0,0,,At this point, he returns
+Dialogue: 0,0:43:07.46,0:43:08.72,normal_Wed,,0,0,0,,And we reveal the truth
+Dialogue: 0,0:43:12.20,0:43:14.84,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:43:15.04,0:43:15.97,normal_Wed,,0,0,0,,Who?
+Dialogue: 0,0:43:15.97,0:43:17.67,normal_Wed,,0,0,0,,What program?
+Dialogue: 0,0:43:17.67,0:43:18.84,normal_Wed,,0,0,0,,Which show?
+Dialogue: 0,0:43:19.11,0:43:20.61,normal_Wed,,0,0,0,,Shinichi's?
+Dialogue: 0,0:43:20.61,0:43:22.85,normal_Wed,,0,0,0,,I really don't understand what's going on at all
+Dialogue: 0,0:43:23.01,0:43:25.89,normal_Wed,,0,0,0,,This is Wednesday Downtown
+Dialogue: 0,0:43:27.95,0:43:30.05,normal_Wed,,0,0,0,,Seriously!?
+Dialogue: 0,0:43:30.22,0:43:33.29,normal_Wed,,0,0,0,,So after informing them of the content of the project
+Dialogue: 0,0:43:35.93,0:43:38.53,normal_Wed,,0,0,0,,So you heard everything?
+Dialogue: 0,0:43:38.53,0:43:40.73,normal_Wed,,0,0,0,,It's not true, Nagano
+Dialogue: 0,0:43:40.73,0:43:43.03,normal_Wed,,0,0,0,,It's not true, what I said
+Dialogue: 0,0:43:43.03,0:43:45.64,normal_Wed,,0,0,0,,The worst... really bad
+Dialogue: 0,0:43:44.41,0:43:46.02,wipe_Wed,,0,0,0,,Look at Nagano's face
+Dialogue: 0,0:43:46.17,0:43:48.34,normal_Wed,,0,0,0,,I really think this is a project that should not be done
+Dialogue: 0,0:43:48.44,0:43:50.67,normal_Wed,,0,0,0,,This expression
+Dialogue: 0,0:43:50.72,0:43:52.80,normal_Wed,,0,0,0,,This is not an expression for a variety show
+Dialogue: 0,0:43:52.98,0:43:56.38,normal_Wed,,0,0,0,,This time, really...  \N-It's really bad...
+Dialogue: 0,0:43:56.95,0:44:00.02,normal_Wed,,0,0,0,,{\fad(400,370)}This relationship... we have...
+Dialogue: 0,0:44:01.52,0:44:03.89,normal_Wed,,0,0,0,,Well...
+Dialogue: 0,0:44:03.89,0:44:06.19,normal_Wed,,0,0,0,,Our relationship is over \N -No, no, no
+Dialogue: 0,0:44:06.49,0:44:09.53,normal_Wed,,0,0,0,,It's not like that, it's really not like that
+Dialogue: 0,0:44:08.41,0:44:10.16,wipe_Wed,,0,0,0,,It's already irreparable
+Dialogue: 0,0:44:09.53,0:44:11.96,normal_Wed,,0,0,0,,{\alpha55}This is the end
+Dialogue: 0,0:44:11.96,0:44:19.20,normal_Wed,,0,0,0,,{\c&H0C0AF2&\3c&HFFFFFF&}In summary\N{\r}Nagano is the King
+Dialogue: 0,0:44:19.20,0:44:20.45,normal_Wed,,0,0,0,,This is embarrassing
+Dialogue: 0,0:44:21.00,0:44:22.05,normal_Wed,,0,0,0,,How about this project?
+Dialogue: 0,0:44:22.05,0:44:24.47,normal_Wed,,0,0,0,,Matsumoto, do you think this project should not be done?
+Dialogue: 0,0:44:24.47,0:44:27.56,normal_Wed,,0,0,0,,This is really bad this time
+Dialogue: 0,0:44:30.42,0:44:34.01,normal_Wed,,0,0,0,,I also think Grape Company is done for
+Dialogue: 0,0:44:34.01,0:44:35.36,normal_Wed,,0,0,0,,It was already struggling
+Dialogue: 0,0:44:35.36,0:44:38.35,normal_Wed,,0,0,0,,Before the company was stronger\N -Now it's bad
+Dialogue: 0,0:44:38.35,0:44:40.97,normal_Wed,,0,0,0,,After all, the juniors were wound up
+Dialogue: 0,0:44:41.60,0:44:44.34,normal_Wed,,0,0,0,,That's why they are cursing
+Dialogue: 0,0:44:44.34,0:44:47.70,normal_Wed,,0,0,0,,The juniors are more fired up than usual
+Dialogue: 0,0:44:47.70,0:44:51.03,normal_Wed,,0,0,0,,Why do they have to make so much effort to rile them up?
+Dialogue: 0,0:44:51.03,0:44:52.70,normal_Wed,,0,0,0,,So true
+Dialogue: 0,0:44:52.70,0:44:54.24,normal_Wed,,0,0,0,,Let's not do it a 2nd time, then
+Dialogue: 0,0:44:54.24,0:44:56.74,normal_Wed,,0,0,0,,It's too harsh \N-Let's do it again
+Dialogue: 0,0:44:56.74,0:44:58.97,normal_Wed,,0,0,0,,Regardless of whether to do it again or not
+Dialogue: 0,0:44:58.97,0:45:02.75,normal_Wed,,0,0,0,,It shouldn't have been done the first time
+Dialogue: 0,0:45:03.42,0:45:05.76,normal_Wed,,0,0,0,,I drink with my juniors all the time
+Dialogue: 0,0:45:05.76,0:45:10.79,normal_Wed,,0,0,0,,It's great, and everything is said with respect
+Dialogue: 0,0:45:10.79,0:45:12.66,normal_Wed,,0,0,0,,Even so, when you leave they still say
+Dialogue: 0,0:45:12.66,0:45:15.26,normal_Wed,,0,0,0,,"So annoying"
+Dialogue: 0,0:45:15.26,0:45:16.93,normal_Wed,,0,0,0,,What is that response?
+Dialogue: 0,0:45:19.16,0:45:22.10,normal_Wed,,0,0,0,,It is better not to say bad things behind others
+Dialogue: 0,0:45:22.10,0:45:24.37,normal_Wed,,0,0,0,,How to put it
+Dialogue: 0,0:45:24.37,0:45:27.07,normal_Wed,,0,0,0,,I don't want it to end yet
+Dialogue: 0,0:45:27.07,0:45:28.52,normal_Wed,,0,0,0,,You want to end on a lighter note, don't you?
+Dialogue: 0,0:45:30.97,0:45:33.14,normal_Wed,,0,0,0,,I would like to talk more
+Dialogue: 0,0:45:33.14,0:45:34.54,normal_Wed,,0,0,0,,Just let it end
+Dialogue: 0,0:45:34.71,0:45:37.68,normal_Wed,,0,0,0,,I don't want to go back to the lounge yet
+Dialogue: 0,0:45:37.68,0:45:40.14,normal_Wed,,0,0,0,,Let's all hold hands and go back together in a friendly manner
+Dialogue: 0,0:45:40.14,0:45:42.89,normal_Wed,,0,0,0,,Let's live in harmony, after all, it is a funny show
+Dialogue: 0,0:45:42.89,0:46:14.85,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

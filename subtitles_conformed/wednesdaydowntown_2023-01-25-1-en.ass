@@ -1,0 +1,920 @@
+﻿[Script Info]
+Title: New subtitles
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2023-01-25) (Raw).mkv
+Video File: WDT (2023-01-25) (Raw).mkv
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.375000
+Scroll Position: 855
+Active Line: 878
+Video Position: 82000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,23,23,23,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,135,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: special_Wed_X,Arial,37,&H00FFFFFF,&H000000FF,&H00211E21,&H00000000,-1,0,0,0,100,120,0,0,1,2,0,2,10,10,10,1
+Style: special_Wed_1_X,Arial,45,&H002E3030,&H0000E1FA,&H002E3030,&H00000000,0,0,0,0,100,135,0,0,1,0,0,2,0,0,0,1
+Style: special_Wed_2_1,Arial,55,&H00000000,&H0000E1FA,&H0000B4CA,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,5,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: normal_Wed_up,Arial,53,&H00FFEC3E,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,0,8,10,10,100,1
+Style: special_Wed_2_0,Arial,60,&H00FFFFFF,&H00FFFFFF,&H3B1B00E1,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,200,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.36,0:00:06.02,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown
+Dialogue: 0,0:00:06.65,0:00:10.45,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:12.38,0:00:13.70,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:15.20,0:00:18.80,normal_Wed,,0,0,0,,It's Bakarhythm!
+Dialogue: 0,0:00:19.91,0:00:21.37,normal_Wed,,0,0,0,,Bakarhythm \N-Yes
+Dialogue: 0,0:00:21.37,0:00:28.92,normal_Wed,,0,0,0,,Straight to the point, have you guys ever wanted to be in the world of a TV show?
+Dialogue: 0,0:00:28.92,0:00:30.02,normal_Wed,,0,0,0,,Have you, Ano?
+Dialogue: 0,0:00:30.02,0:00:32.45,normal_Wed,,0,0,0,,Well, yes I suppose so
+Dialogue: 0,0:00:32.45,0:00:33.71,normal_Wed,,0,0,0,,Give me an example. Which one?
+Dialogue: 0,0:00:34.11,0:00:35.86,normal_Wed,,0,0,0,,Hanazawa Naoki
+Dialogue: 0,0:00:35.86,0:00:38.38,normal_Wed,,0,0,0,,So which character do you want to be?
+Dialogue: 0,0:00:38.65,0:00:41.49,normal_Wed,,0,0,0,,The stubborn Naoki
+Dialogue: 0,0:00:41.49,0:00:44.59,normal_Wed,,0,0,0,,Is Naoki characterized by stubbornness?
+Dialogue: 0,0:00:44.59,0:00:45.76,normal_Wed,,0,0,0,,Isn't he a more complex character?
+Dialogue: 0,0:00:45.76,0:00:48.66,normal_Wed,,0,0,0,,Is he stubborn? \N -Not really
+Dialogue: 0,0:00:48.66,0:00:53.33,normal_Wed,,0,0,0,,So today, we bring you such an experience
+Dialogue: 0,0:00:53.33,0:00:55.41,normal_Wed,,0,0,0,,What? \N -This is what it is
+Dialogue: 0,0:00:56.14,0:01:02.94,normal_Wed,,0,0,0,,A mind-numbing prank of not being able to leave the world of a mystery drama until the culprit is found
+Dialogue: 0,0:01:05.25,0:01:13.72,normal_Wed,,0,0,0,,In other words, they'll be involved in a mystery drama-style murder case
+Dialogue: 0,0:01:13.72,0:01:15.51,normal_Wed,,0,0,0,,But it differs from usual pranks in that
+Dialogue: 0,0:01:16.12,0:01:19.16,normal_Wed,,0,0,0,,It doesn't end until the culprit is found
+Dialogue: 0,0:01:19.16,0:01:21.20,normal_Wed,,0,0,0,,Knowing this
+Dialogue: 0,0:01:21.20,0:01:24.06,normal_Wed,,0,0,0,,Even though its obviously fake, they still have to find the culprit to bring it to an end
+Dialogue: 0,0:01:24.06,0:01:25.76,normal_Wed,,0,0,0,,How do you feel about this kind of trickery, Degawa?
+Dialogue: 0,0:01:27.06,0:01:30.94,normal_Wed,,0,0,0,,Well, it's, uh, it's, uh, it's kind of funny, but, uh, it's, uh
+Dialogue: 0,0:01:30.94,0:01:33.74,normal_Wed,,0,0,0,,Sorry... didn't get it at all
+Dialogue: 0,0:01:49.94,0:01:54.56,normal_Wed,,0,0,0,,So, the person we're calling out for a fake location shoot is
+Dialogue: 0,0:01:55.52,0:01:57.73,normal_Wed,,0,0,0,,Diane's Tsuda
+Dialogue: 0,0:02:00.21,0:02:06.07,normal_Wed,,0,0,0,,This time, he checks in one day early at a simple hotel in Nagano Prefecture
+Dialogue: 0,0:02:07.82,0:02:14.42,normal_Wed,,0,0,0,,The next morning he'll be swept up in the world of a mystery drama
+Dialogue: 0,0:02:14.72,0:02:17.13,normal_Wed,,0,0,0,,I'd like to introduce myself. I'm Sasaki, the director
+Dialogue: 0,0:02:18.61,0:02:20.59,normal_Wed,,0,0,0,,I'm Marui, the cameraman
+Dialogue: 0,0:02:23.81,0:02:31.54,normal_Wed,,0,0,0,,They then have a 30-minute meeting to discuss the itinerary for the next morning's fake location shoot
+Dialogue: 0,0:02:33.27,0:02:37.41,normal_Wed,,0,0,0,,So tomorrow is all planned  \N-Yes
+Dialogue: 0,0:02:37.64,0:02:41.81,normal_Wed,,0,0,0,,8:00 here. This is the cafeteria, so meet here at 8:00
+Dialogue: 0,0:02:41.81,0:02:43.41,normal_Wed,,0,0,0,,Ok, got it
+Dialogue: 0,0:02:43.41,0:02:48.81,normal_Wed,,0,0,0,,Let's just make a quick note
+Dialogue: 0,0:02:48.81,0:02:50.55,normal_Wed,,0,0,0,,Lest you forget, though you shouldn't
+Dialogue: 0,0:02:50.55,0:02:52.22,normal_Wed,,0,0,0,,Okay, got it
+Dialogue: 0,0:02:52.22,0:02:53.55,normal_Wed,,0,0,0,,Can stick it there
+Dialogue: 0,0:02:53.55,0:02:54.79,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:02:55.37,0:03:00.82,normal_Wed,,0,0,0,,After receiving a note with the next day's meeting time, he is dismissed
+Dialogue: 0,0:03:02.53,0:03:04.17,wipe_Wed,,0,0,0,,Tutting as he comes back
+Dialogue: 0,0:03:03.03,0:03:06.74,normal_Wed,,0,0,0,,What is this? Don't even have a bath
+Dialogue: 0,0:03:06.73,0:03:08.45,normal_Wed,,0,0,0,,Started complaining right away
+Dialogue: 0,0:03:08.45,0:03:10.28,normal_Wed,,0,0,0,,That was fast
+Dialogue: 0,0:03:10.76,0:03:14.63,normal_Wed,,0,0,0,,After cursing the accommodation, he falls asleep
+Dialogue: 0,0:03:17.81,0:03:24.85,normal_Wed,,0,0,0,,Now, on the second day, the curtain rises on the mystery drama
+Dialogue: 0,0:03:25.38,0:03:28.65,normal_Wed,,0,0,0,,Good morning. Thank you
+Dialogue: 0,0:03:29.11,0:03:30.29,normal_Wed,,0,0,0,,Did you sleep well?
+Dialogue: 0,0:03:30.52,0:03:32.42,normal_Wed,,0,0,0,,Just slept a little \N -Oh, really?
+Dialogue: 0,0:03:32.42,0:03:36.06,normal_Wed,,0,0,0,,I was watching football
+Dialogue: 0,0:03:36.76,0:03:39.97,normal_Wed,,0,0,0,,Good morning. Coffee \N -Thank you
+Dialogue: 0,0:03:42.76,0:03:43.39,normal_Wed,,0,0,0,,Enjoy your meal
+Dialogue: 0,0:03:46.65,0:03:48.65,wipe_Wed,,0,0,0,,Why are you in a bad mood?
+Dialogue: 0,0:03:51.18,0:03:53.18,wipe_Wed,,0,0,0,,Very suspicious
+Dialogue: 0,0:03:55.42,0:03:57.50,wipe_Wed,,0,0,0,,Staring straight at him
+Dialogue: 0,0:04:04.25,0:04:06.01,wipe_Wed,,0,0,0,,You don't have to stare like that
+Dialogue: 0,0:04:05.93,0:04:07.68,normal_Wed,,0,0,0,,At this very moment
+Dialogue: 0,0:04:07.93,0:04:11.96,normal_Wed,,0,0,0,,Marui isn't here. I'm sorry
+Dialogue: 0,0:04:11.96,0:04:14.20,normal_Wed,,0,0,0,,Ah, it's totally fine
+Dialogue: 0,0:04:15.73,0:04:19.17,normal_Wed,,0,0,0,,Just one more moment, please. I'm sorry. \N -It's okay
+Dialogue: 0,0:04:19.46,0:04:23.66,normal_Wed,,0,0,0,,Noone's picking up the phone, so...
+Dialogue: 0,0:04:23.66,0:04:26.17,normal_Wed,,0,0,0,,I'll go straight to him. \N -Ok fine
+Dialogue: 0,0:04:34.09,0:04:36.98,wipe_Wed,,0,0,0,,Why're you so tired?
+Dialogue: 0,0:04:42.73,0:04:44.66,normal_Wed,,0,0,0,,Mr. Marui
+Dialogue: 0,0:04:48.42,0:04:49.70,normal_Wed,,0,0,0,,Mr. Marui
+Dialogue: 0,0:04:51.27,0:04:53.44,normal_Wed,,0,0,0,,I'm opening the door
+Dialogue: 0,0:04:55.88,0:04:58.24,normal_Wed,,0,0,0,,Ah, Mr. Marui!
+Dialogue: 0,0:04:58.24,0:05:00.31,normal_Wed,,0,0,0,,Are you okay?
+Dialogue: 0,0:05:01.73,0:05:04.64,wipe_Wed,,0,0,0,,Whoa scary!
+Dialogue: 0,0:05:05.29,0:05:07.39,normal_Wed,,0,0,0,,Mr. Marui has collapsed in his room!
+Dialogue: 0,0:05:07.39,0:05:09.75,normal_Wed,,0,0,0,,Tsuda, can you come over here for a minute?\N  -Mr. Marui?
+Dialogue: 0,0:05:08.42,0:05:10.66,wipe_Wed,,0,0,0,,Worried \N-Natural
+Dialogue: 0,0:05:10.66,0:05:12.48,wipe_Wed,,0,0,0,,Helping seriously
+Dialogue: 0,0:05:14.43,0:05:17.36,normal_Wed,,0,0,0,,Something's holding the door shut
+Dialogue: 0,0:05:17.36,0:05:19.40,normal_Wed,,0,0,0,,But I can see his feet. \N -What?
+Dialogue: 0,0:05:20.43,0:05:22.30,normal_Wed,,0,0,0,,Can you help me open it?
+Dialogue: 0,0:05:22.30,0:05:23.87,normal_Wed,,0,0,0,,Eh, you want me to do it?
+Dialogue: 0,0:05:23.87,0:05:26.20,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:05:27.31,0:05:30.11,normal_Wed,,0,0,0,,Can you open it?\N  -No...
+Dialogue: 0,0:05:30.11,0:05:32.71,normal_Wed,,0,0,0,,Looks like there's an umbrella stuck in there
+Dialogue: 0,0:05:32.71,0:05:35.68,normal_Wed,,0,0,0,,Oh, its open!
+Dialogue: 0,0:05:35.68,0:05:37.38,normal_Wed,,0,0,0,,Eh eh eh?
+Dialogue: 0,0:05:37.95,0:05:41.49,normal_Wed,,0,0,0,,Ah, scared the shit out of me. Eh, what? What? What?
+Dialogue: 0,0:05:41.62,0:05:43.79,normal_Wed,,0,0,0,,Mr. Marui \N -Eh?
+Dialogue: 0,0:05:43.79,0:05:46.22,normal_Wed,,0,0,0,,Eh, there's a knife...
+Dialogue: 0,0:05:47.49,0:05:50.36,normal_Wed,,0,0,0,,Killed...
+Dialogue: 0,0:05:49.40,0:05:51.55,wipe_Wed,,0,0,0,,An easy to understand scenario
+Dialogue: 0,0:05:54.07,0:05:56.67,normal_Wed,,0,0,0,,Eh eh?
+Dialogue: 0,0:05:53.24,0:05:56.33,wipe_Wed,,0,0,0,,He's laughing!
+Dialogue: 0,0:05:56.67,0:05:58.30,normal_Wed,,0,0,0,,Tsuda...\N  -Eh?
+Dialogue: 0,0:05:58.69,0:06:02.08,normal_Wed,,0,0,0,,Because this is a strange scenario no matter how you look at it
+Dialogue: 0,0:06:02.08,0:06:06.37,normal_Wed,,0,0,0,,Tsuda is immediately convinced it is a trick and couldn't help but laugh
+Dialogue: 0,0:06:07.08,0:06:08.37,normal_Wed,,0,0,0,,Is he dead?
+Dialogue: 0,0:06:08.37,0:06:10.88,normal_Wed,,0,0,0,,Saying something like "Is he dead?"...
+Dialogue: 0,0:06:11.38,0:06:13.95,normal_Wed,,0,0,0,,Eh, really?
+Dialogue: 0,0:06:12.01,0:06:13.72,wipe_Wed,,0,0,0,,What a pain
+Dialogue: 0,0:06:13.72,0:06:15.92,wipe_Wed,,0,0,0,,It's a pain in the ass, getting pranked like this
+Dialogue: 0,0:06:13.95,0:06:16.42,normal_Wed,,0,0,0,,Hey... wait
+Dialogue: 0,0:06:17.29,0:06:18.79,normal_Wed,,0,0,0,,Mr. Tsuda...
+Dialogue: 0,0:06:18.79,0:06:19.92,normal_Wed,,0,0,0,,No, it...
+Dialogue: 0,0:06:19.92,0:06:21.53,normal_Wed,,0,0,0,,Wait a moment!
+Dialogue: 0,0:06:21.53,0:06:23.53,normal_Wed,,0,0,0,,Ahhhh, you scared the shit out of me. What's going on?
+Dialogue: 0,0:06:23.53,0:06:25.13,normal_Wed,,0,0,0,,I'm a doctor
+Dialogue: 0,0:06:25.01,0:06:26.30,wipe_Wed,,0,0,0,,Just by chance
+Dialogue: 0,0:06:26.06,0:06:28.71,normal_Wed,,0,0,0,,Wait a minute what's going on here...?
+Dialogue: 0,0:06:29.48,0:06:31.18,wipe_Wed,,0,0,0,,A doctor
+Dialogue: 0,0:06:29.87,0:06:31.17,normal_Wed,,0,0,0,,What...
+Dialogue: 0,0:06:34.01,0:06:36.54,normal_Wed,,0,0,0,,No, what's going on...
+Dialogue: 0,0:06:36.54,0:06:37.08,normal_Wed,,0,0,0,,He's dead
+Dialogue: 0,0:06:38.14,0:06:39.88,normal_Wed,,0,0,0,,What the hell is this...
+Dialogue: 0,0:06:39.88,0:06:41.75,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:06:43.92,0:06:45.45,normal_Wed,,0,0,0,,It's weird, isn't it?
+Dialogue: 0,0:06:45.45,0:06:48.19,normal_Wed,,0,0,0,,I don't know what's going on, though
+Dialogue: 0,0:06:48.19,0:06:49.85,normal_Wed,,0,0,0,,But the cause of death
+Dialogue: 0,0:06:49.85,0:06:53.02,normal_Wed,,0,0,0,,Must be the stab wound from this knife
+Dialogue: 0,0:06:53.39,0:06:56.33,normal_Wed,,0,0,0,,Of course... what the hell?
+Dialogue: 0,0:06:57.33,0:06:59.50,normal_Wed,,0,0,0,,Judging by the stiffness of the body
+Dialogue: 0,0:06:58.77,0:07:00.82,wipe_Wed,,0,0,0,,Looking for the cameras
+Dialogue: 0,0:07:00.06,0:07:02.43,normal_Wed,,0,0,0,,The presumed time of death was 3:00 a.m
+Dialogue: 0,0:07:02.73,0:07:06.17,normal_Wed,,0,0,0,,No...what ... what are we talking about...
+Dialogue: 0,0:07:06.17,0:07:08.74,normal_Wed,,0,0,0,,The exact time is unclear
+Dialogue: 0,0:07:08.74,0:07:10.64,normal_Wed,,0,0,0,,But it was around that time
+Dialogue: 0,0:07:10.64,0:07:13.45,normal_Wed,,0,0,0,,No... he...he ...
+Dialogue: 0,0:07:13.45,0:07:15.55,normal_Wed,,0,0,0,,Is he okay? He's alive...
+Dialogue: 0,0:07:15.55,0:07:17.82,normal_Wed,,0,0,0,,Please don't touch him
+Dialogue: 0,0:07:17.82,0:07:20.29,normal_Wed,,0,0,0,,But that... blood... it's weird
+Dialogue: 0,0:07:20.29,0:07:20.89,normal_Wed,,0,0,0,,Please calm down
+Dialogue: 0,0:07:21.10,0:07:22.99,normal_Wed,,0,0,0,,I'm already calm
+Dialogue: 0,0:07:22.99,0:07:24.39,normal_Wed,,0,0,0,,What kind of situation is this?
+Dialogue: 0,0:07:24.39,0:07:27.16,normal_Wed,,0,0,0,,Let's get organized
+Dialogue: 0,0:07:27.16,0:07:28.86,normal_Wed,,0,0,0,,Organize... organize what?
+Dialogue: 0,0:07:29.06,0:07:31.03,normal_Wed,,0,0,0,,Let's all go back to the cafeteria
+Dialogue: 0,0:07:31.03,0:07:33.33,normal_Wed,,0,0,0,,Why?
+Dialogue: 0,0:07:34.10,0:07:37.04,normal_Wed,,0,0,0,,Call an ambulance or the police
+Dialogue: 0,0:07:38.10,0:07:39.70,normal_Wed,,0,0,0,,Everyone... \N-Call the police
+Dialogue: 0,0:07:39.70,0:07:42.77,normal_Wed,,0,0,0,,Let's all go back to the cafeteria together first... then call the cops
+Dialogue: 0,0:07:42.82,0:07:44.56,wipe_Wed,,0,0,0,,Do as you're told
+Dialogue: 0,0:07:48.05,0:07:48.81,normal_Wed,,0,0,0,,What is this...
+Dialogue: 0,0:07:48.81,0:07:50.75,normal_Wed,,0,0,0,,Let's go
+Dialogue: 0,0:07:49.62,0:07:52.13,wipe_Wed,,0,0,0,,It always happens like this
+Dialogue: 0,0:07:51.78,0:07:53.85,normal_Wed,,0,0,0,,And "Let's go"...
+Dialogue: 0,0:07:54.29,0:07:56.22,normal_Wed,,0,0,0,,Can't help but go along with it
+Dialogue: 0,0:07:56.22,0:07:58.13,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:07:58.26,0:08:00.23,normal_Wed,,0,0,0,,Otherwise it'd be over
+Dialogue: 0,0:08:00.59,0:08:05.62,normal_Wed,,0,0,0,,Although Tsuda was commenting constantly at this inexplicable situation
+Dialogue: 0,0:08:06.48,0:08:13.18,normal_Wed,,0,0,0,,This trick has a special mechanism that it won't end until the culprit is found
+Dialogue: 0,0:08:13.18,0:08:17.72,normal_Wed,,0,0,0,,So Tsuda's actions will be ignored
+Dialogue: 0,0:08:12.65,0:08:15.14,wipe_Wed,,0,0,0,,Quite interesting
+Dialogue: 0,0:08:18.68,0:08:19.98,normal_Wed,,0,0,0,,What's going on here?
+Dialogue: 0,0:08:19.98,0:08:21.61,normal_Wed,,0,0,0,,Why haven't the police been called...
+Dialogue: 0,0:08:21.61,0:08:23.85,normal_Wed,,0,0,0,,Why are you sitting in my seat all of a sudden?
+Dialogue: 0,0:08:23.85,0:08:27.52,normal_Wed,,0,0,0,,Anyway, let's call the police first
+Dialogue: 0,0:08:27.65,0:08:29.45,normal_Wed,,0,0,0,,Go ahead
+Dialogue: 0,0:08:29.55,0:08:31.32,normal_Wed,,0,0,0,,No good...
+Dialogue: 0,0:08:31.32,0:08:32.59,normal_Wed,,0,0,0,,The phone line's been cut
+Dialogue: 0,0:08:32.76,0:08:34.53,normal_Wed,,0,0,0,,Eh? The phone line
+Dialogue: 0,0:08:34.53,0:08:35.63,normal_Wed,,0,0,0,,You all have cell phones, right?
+Dialogue: 0,0:08:35.63,0:08:38.70,normal_Wed,,0,0,0,,Cell phones too... no signal
+Dialogue: 0,0:08:38.70,0:08:40.64,normal_Wed,,0,0,0,,My cell phone is fine
+Dialogue: 0,0:08:40.83,0:08:43.70,normal_Wed,,0,0,0,,Oh, really? \N -I can't get a signal either
+Dialogue: 0,0:08:44.07,0:08:46.97,normal_Wed,,0,0,0,,I've got three bars
+Dialogue: 0,0:08:46.97,0:08:47.84,normal_Wed,,0,0,0,,There's no signal
+Dialogue: 0,0:08:47.97,0:08:50.21,normal_Wed,,0,0,0,,It's not like there's no signal
+Dialogue: 0,0:08:49.56,0:08:51.14,wipe_Wed,,0,0,0,,There's no signal in this world
+Dialogue: 0,0:08:50.35,0:08:52.79,normal_Wed,,0,0,0,,Under these circumstances
+Dialogue: 0,0:08:52.98,0:08:54.98,normal_Wed,,0,0,0,,No good
+Dialogue: 0,0:08:54.98,0:08:58.05,normal_Wed,,0,0,0,,Because of the heavy rain, the river's flooded
+Dialogue: 0,0:08:58.05,0:08:58.88,normal_Wed,,0,0,0,,It's fake, right?
+Dialogue: 0,0:08:58.88,0:09:00.99,normal_Wed,,0,0,0,,The bridge is washed away
+Dialogue: 0,0:09:00.99,0:09:01.72,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:09:01.72,0:09:02.89,normal_Wed,,0,0,0,,No, it's just a little rain
+Dialogue: 0,0:09:02.57,0:09:04.05,wipe_Wed,,0,0,0,,Can't get out
+Dialogue: 0,0:09:02.89,0:09:06.72,normal_Wed,,0,0,0,,The only bridge connected to the city...
+Dialogue: 0,0:09:05.70,0:09:07.64,wipe_Wed,,0,0,0,,They're on an island
+Dialogue: 0,0:09:07.04,0:09:10.82,normal_Wed,,0,0,0,,Contact with the outside world and means of transportation are disrupted
+Dialogue: 0,0:09:11.20,0:09:15.66,normal_Wed,,0,0,0,,The hotel itself is a huge escape room
+Dialogue: 0,0:09:15.66,0:09:20.10,normal_Wed,,0,0,0,,The setup is just a little cheap bit of that
+Dialogue: 0,0:09:20.17,0:09:21.01,normal_Wed,,0,0,0,,Tsuda
+Dialogue: 0,0:09:21.01,0:09:21.74,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:09:21.74,0:09:22.68,normal_Wed,,0,0,0,,Well...
+Dialogue: 0,0:09:22.97,0:09:25.58,normal_Wed,,0,0,0,,What's going on? What's going on?
+Dialogue: 0,0:09:25.71,0:09:31.45,normal_Wed,,0,0,0,,The bridge is broken. No can leave
+Dialogue: 0,0:09:31.45,0:09:33.55,normal_Wed,,0,0,0,,The people who have been here since yesterday
+Dialogue: 0,0:09:33.55,0:09:39.46,normal_Wed,,0,0,0,,Including the dead Mr. Marui, are all still here
+Dialogue: 0,0:09:40.56,0:09:43.16,normal_Wed,,0,0,0,,That is to say...
+Dialogue: 0,0:09:41.02,0:09:42.67,wipe_Wed,,0,0,0,,In other words
+Dialogue: 0,0:09:43.36,0:09:46.97,normal_Wed,,0,0,0,,What about the culprit?
+Dialogue: 0,0:09:46.97,0:09:49.53,normal_Wed,,0,0,0,,"What about the culprit?"
+Dialogue: 0,0:09:48.20,0:09:49.58,wipe_Wed,,0,0,0,,Passing him the ball
+Dialogue: 0,0:09:49.53,0:09:51.70,normal_Wed,,0,0,0,,I'll say it again
+Dialogue: 0,0:09:51.70,0:09:57.38,normal_Wed,,0,0,0,,The bridge is broken. No one can leave
+Dialogue: 0,0:09:56.72,0:09:58.30,wipe_Wed,,0,0,0,,What an idiot
+Dialogue: 0,0:09:57.38,0:09:59.55,normal_Wed,,0,0,0,,The people who have been here since yesterday
+Dialogue: 0,0:09:59.55,0:10:02.86,normal_Wed,,0,0,0,,Are all still here
+Dialogue: 0,0:10:02.86,0:10:05.05,normal_Wed,,0,0,0,,That is to say...
+Dialogue: 0,0:10:05.05,0:10:06.95,normal_Wed,,0,0,0,,What about the culprit?
+Dialogue: 0,0:10:06.95,0:10:08.89,normal_Wed,,0,0,0,,"What about the culprit?"
+Dialogue: 0,0:10:08.89,0:10:12.49,normal_Wed,,0,0,0,,Ah, that...
+Dialogue: 0,0:10:12.49,0:10:13.99,normal_Wed,,0,0,0,,You mean, like, "the culprit is still among us"?
+Dialogue: 0,0:10:20.13,0:10:22.93,normal_Wed,,0,0,0,,Now you say it
+Dialogue: 0,0:10:23.20,0:10:24.57,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:10:24.57,0:10:25.61,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:10:25.61,0:10:28.38,normal_Wed,,0,0,0,,It's nothing to do with us, and I don't want to stay here any longer
+Dialogue: 0,0:10:28.84,0:10:30.44,normal_Wed,,0,0,0,,Sayuri, come back
+Dialogue: 0,0:10:30.44,0:10:31.65,normal_Wed,,0,0,0,,Just a minute
+Dialogue: 0,0:10:31.78,0:10:34.68,normal_Wed,,0,0,0,,The bridge has been washed away so cars can't get across
+Dialogue: 0,0:10:33.28,0:10:35.65,normal_Wed_up,,0,0,0,,There's a car outside
+Dialogue: 0,0:10:34.68,0:10:37.68,normal_Wed,,0,0,0,,Does that mean we're stuck here?
+Dialogue: 0,0:10:38.52,0:10:42.02,normal_Wed,,0,0,0,,Cars are making noises outside
+Dialogue: 0,0:10:42.02,0:10:43.55,normal_Wed,,0,0,0,,Tsuda, can I have a word?
+Dialogue: 0,0:10:43.55,0:10:46.02,normal_Wed,,0,0,0,,Really, it's so early still...
+Dialogue: 0,0:10:46.02,0:10:47.86,normal_Wed,,0,0,0,,Tsuda, can we go to the 2nd floor?\N  -Really?
+Dialogue: 0,0:10:47.86,0:10:50.06,normal_Wed,,0,0,0,,What the hell? It's so early still...
+Dialogue: 0,0:10:51.80,0:10:54.23,normal_Wed,,0,0,0,,Seriously, what's going on here...
+Dialogue: 0,0:10:54.83,0:10:56.87,normal_Wed,,0,0,0,,This guy is definitely the culprit
+Dialogue: 0,0:10:57.04,0:11:00.00,normal_Wed,,0,0,0,,Here... here for what?
+Dialogue: 0,0:11:00.00,0:11:01.47,normal_Wed,,0,0,0,,Well
+Dialogue: 0,0:11:01.74,0:11:04.51,normal_Wed,,0,0,0,,How about we resolve the incident?
+Dialogue: 0,0:11:04.51,0:11:06.68,normal_Wed,,0,0,0,,Why?
+Dialogue: 0,0:11:06.68,0:11:08.55,normal_Wed,,0,0,0,,What for?
+Dialogue: 0,0:11:08.85,0:11:10.55,normal_Wed,,0,0,0,,You want to avenge Mr. Marui's death, don't you?
+Dialogue: 0,0:11:10.55,0:11:13.15,normal_Wed,,0,0,0,,No, what's it got to do with me? It doesn't matter
+Dialogue: 0,0:11:13.15,0:11:15.25,normal_Wed,,0,0,0,,I don't have any memories with him
+Dialogue: 0,0:11:16.10,0:11:21.69,normal_Wed,,0,0,0,,Forcing Tsuda, an overly aloof man, into the role of detective
+Dialogue: 0,0:11:21.69,0:11:26.34,normal_Wed,,0,0,0,,First is to confirm the alibi of the entire staff
+Dialogue: 0,0:11:26.36,0:11:27.83,normal_Wed,,0,0,0,,Let's go.  \N-Can we go?
+Dialogue: 0,0:11:27.83,0:11:29.13,normal_Wed,,0,0,0,,Go solve the incident
+Dialogue: 0,0:11:29.13,0:11:31.90,normal_Wed,,0,0,0,,Why do I have to be the one to solve it...
+Dialogue: 0,0:11:33.07,0:11:35.31,normal_Wed,,0,0,0,,What... what program is this exactly?
+Dialogue: 0,0:11:35.74,0:11:37.41,normal_Wed,,0,0,0,,Please. \N -With this?
+Dialogue: 0,0:11:39.11,0:11:40.18,normal_Wed,,0,0,0,,Is it okay to ask?
+Dialogue: 0,0:11:40.28,0:11:41.78,normal_Wed,,0,0,0,,What should I ask?
+Dialogue: 0,0:11:41.78,0:11:44.63,normal_Wed,,0,0,0,,Name and what they did last night
+Dialogue: 0,0:11:44.63,0:11:46.02,normal_Wed,,0,0,0,,Ah, like this
+Dialogue: 0,0:11:46.02,0:11:48.09,normal_Wed,,0,0,0,,That's all that needs to be asked
+Dialogue: 0,0:11:46.57,0:11:48.09,wipe_Wed,,0,0,0,,Get the alibi
+Dialogue: 0,0:11:48.52,0:11:50.25,normal_Wed,,0,0,0,,I'm sorry
+Dialogue: 0,0:11:50.46,0:11:51.76,normal_Wed,,0,0,0,,You're the owner, right?\N  -Yes, I am
+Dialogue: 0,0:11:51.76,0:11:52.72,normal_Wed,,0,0,0,,Can you give me your name?
+Dialogue: 0,0:11:53.33,0:11:55.89,normal_Wed,,0,0,0,,I'm Terashima, the owner.  \N-Ok
+Dialogue: 0,0:11:55.89,0:12:00.70,normal_Wed,,0,0,0,,Last night, I was watching a movie in my room
+Dialogue: 0,0:12:00.70,0:12:04.20,normal_Wed,,0,0,0,,"Watched a movie."
+Dialogue: 0,0:12:04.20,0:12:05.74,normal_Wed,,0,0,0,,What movie?
+Dialogue: 0,0:12:06.14,0:12:07.41,normal_Wed,,0,0,0,,Pocahontas
+Dialogue: 0,0:12:07.64,0:12:12.41,normal_Wed,,0,0,0,,Pocahontas? Why that...?
+Dialogue: 0,0:12:12.81,0:12:15.10,wipe_Wed,,0,0,0,,It's not the kind of movie you'd randomely watch
+Dialogue: 0,0:12:12.84,0:12:14.98,normal_Wed,,0,0,0,,Watched Pocahontas
+Dialogue: 0,0:12:14.98,0:12:19.56,normal_Wed,,0,0,0,,Here's the alibi for the others
+Dialogue: 0,0:12:14.98,0:12:21.99,special_Wed_X,,0,0,0,,{\pos(422,796)}Three people \Nplayed poker
+Dialogue: 0,0:12:14.98,0:12:21.99,special_Wed_X,,0,0,0,,{\fs40\pos(1147,562.666)}Watched a \Nmovie alone
+Dialogue: 0,0:12:14.98,0:12:21.99,special_Wed_X,,0,0,0,,{\fs40\pos(1158,969.333)}No comment
+Dialogue: 0,0:12:19.50,0:12:22.07,wipe_Wed,,0,0,0,,No comment is suspicious
+Dialogue: 0,0:12:22.15,0:12:24.56,normal_Wed,,0,0,0,,You two asked us
+Dialogue: 0,0:12:24.56,0:12:25.39,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:12:25.59,0:12:27.43,normal_Wed,,0,0,0,,What about you two?
+Dialogue: 0,0:12:27.43,0:12:29.05,normal_Wed,,0,0,0,,Uh, yeah
+Dialogue: 0,0:12:29.05,0:12:29.99,normal_Wed,,0,0,0,,You are the director...
+Dialogue: 0,0:12:29.99,0:12:31.23,normal_Wed,,0,0,0,,Sasaki
+Dialogue: 0,0:12:31.23,0:12:33.66,normal_Wed,,0,0,0,,My name is Miyu Sasaki
+Dialogue: 0,0:12:34.77,0:12:35.43,normal_Wed,,0,0,0,,What were you doing then?
+Dialogue: 0,0:12:35.43,0:12:38.94,normal_Wed,,0,0,0,,I was using a GoPro for location shooting
+Dialogue: 0,0:12:38.94,0:12:41.84,normal_Wed,,0,0,0,,Ah, checking the GoPro? \N -Checking it
+Dialogue: 0,0:12:42.11,0:12:45.08,normal_Wed,,0,0,0,,On the computer...
+Dialogue: 0,0:12:45.08,0:12:46.61,normal_Wed,,0,0,0,,A recording
+Dialogue: 0,0:12:51.88,0:12:53.28,normal_Wed,,0,0,0,,Ah, that's it...
+Dialogue: 0,0:12:55.95,0:12:58.39,normal_Wed,,0,0,0,,Ah, it's the way it looks in the room
+Dialogue: 0,0:12:59.85,0:13:02.83,normal_Wed,,0,0,0,,Selfie. Ah, 3:08
+Dialogue: 0,0:13:02.27,0:13:04.00,wipe_Wed,,0,0,0,,About that time
+Dialogue: 0,0:13:04.59,0:13:06.96,normal_Wed,,0,0,0,,Ah, about that time
+Dialogue: 0,0:13:07.20,0:13:09.33,normal_Wed,,0,0,0,,That's an alibi, isn't it?
+Dialogue: 0,0:13:10.00,0:13:11.50,normal_Wed,,0,0,0,,That should do it
+Dialogue: 0,0:13:11.64,0:13:13.84,normal_Wed,,0,0,0,,So, Tsuda
+Dialogue: 0,0:13:13.84,0:13:14.70,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:13:14.70,0:13:15.74,normal_Wed,,0,0,0,,What were you doing?
+Dialogue: 0,0:13:15.74,0:13:18.48,normal_Wed,,0,0,0,,Me? I was sleeping
+Dialogue: 0,0:13:18.48,0:13:19.60,normal_Wed,,0,0,0,,In bed...
+Dialogue: 0,0:13:19.60,0:13:21.21,normal_Wed,,0,0,0,,Went to bed after watching football
+Dialogue: 0,0:13:21.31,0:13:23.58,normal_Wed,,0,0,0,,Doesn't that mean you have no alibi?
+Dialogue: 0,0:13:23.58,0:13:24.68,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:13:25.55,0:13:27.28,normal_Wed,,0,0,0,,Shouldn't everyone be asleep at that hour?
+Dialogue: 0,0:13:27.29,0:13:31.62,normal_Wed,,0,0,0,,I mean, you've been point the finger at everyone else
+Dialogue: 0,0:13:32.09,0:13:34.56,normal_Wed,,0,0,0,,Scared me! What are you doing?
+Dialogue: 0,0:13:34.56,0:13:36.93,normal_Wed,,0,0,0,,I think you're the culprit
+Dialogue: 0,0:13:36.93,0:13:38.36,normal_Wed,,0,0,0,,No, no, no...it's inexplicable
+Dialogue: 0,0:13:38.36,0:13:39.50,normal_Wed,,0,0,0,,But it makes sense, doesn't it?
+Dialogue: 0,0:13:39.50,0:13:40.40,normal_Wed,,0,0,0,,Why does that make sense?
+Dialogue: 0,0:13:40.40,0:13:42.23,normal_Wed,,0,0,0,,Your reaction is suspicious
+Dialogue: 0,0:13:42.23,0:13:43.73,normal_Wed,,0,0,0,,What, how?
+Dialogue: 0,0:13:44.37,0:13:48.01,normal_Wed,,0,0,0,,{\fad(0,400)}Why am I the culprit on a TV show?
+Dialogue: 0,0:13:48.91,0:13:51.01,normal_Wed,,0,0,0,,Why are you so quiet all of a sudden?
+Dialogue: 0,0:13:51.18,0:13:54.28,normal_Wed,,0,0,0,,You're the one who said "TV program"
+Dialogue: 0,0:13:54.89,0:13:58.72,normal_Wed,,0,0,0,,Suspicion of Tsuda cannot be cleared for the time being...
+Dialogue: 0,0:13:58.72,0:14:02.68,normal_Wed,,0,0,0,,So the first step was to establish everyone's alibi
+Dialogue: 0,0:14:02.68,0:14:05.42,normal_Wed,,0,0,0,,The next step is to find the evidence
+Dialogue: 0,0:14:05.49,0:14:09.59,normal_Wed,,0,0,0,,Wouldn't it be better to investigate Mr. Marui's room again?
+Dialogue: 0,0:14:09.69,0:14:10.96,normal_Wed,,0,0,0,,That's right
+Dialogue: 0,0:14:11.26,0:14:13.66,normal_Wed,,0,0,0,,Let's go see if there's any more evidence
+Dialogue: 0,0:14:17.37,0:14:18.20,normal_Wed,,0,0,0,,Where?
+Dialogue: 0,0:14:18.20,0:14:19.30,normal_Wed,,0,0,0,,Let's go
+Dialogue: 0,0:14:19.30,0:14:20.42,normal_Wed,,0,0,0,,I'll come along
+Dialogue: 0,0:14:20.42,0:14:21.17,normal_Wed,,0,0,0,,Ah, the doctor, right?
+Dialogue: 0,0:14:21.17,0:14:22.64,normal_Wed,,0,0,0,,You're Mr. Hasegawa, right?
+Dialogue: 0,0:14:22.64,0:14:25.94,normal_Wed,,0,0,0,,I'm Takuro Hasegawa
+Dialogue: 0,0:14:25.94,0:14:26.84,normal_Wed,,0,0,0,,Let's go
+Dialogue: 0,0:14:30.65,0:14:33.85,normal_Wed,,0,0,0,,Let's find out what other evidence there is
+Dialogue: 0,0:14:33.85,0:14:35.32,normal_Wed,,0,0,0,,What? Evidence?
+Dialogue: 0,0:14:35.32,0:14:36.49,normal_Wed,,0,0,0,,Maybe even fingerprints...
+Dialogue: 0,0:14:37.15,0:14:40.32,normal_Wed,,0,0,0,,Ah, I've got my fingerprint checker with me
+Dialogue: 0,0:14:40.32,0:14:42.96,normal_Wed,,0,0,0,,Why would you bring it?
+Dialogue: 0,0:14:42.96,0:14:45.23,normal_Wed,,0,0,0,,Why?
+Dialogue: 0,0:14:45.58,0:14:51.45,normal_Wed,,0,0,0,,Dr. Hasegawa had a fingerprint test kit with him for some reason
+Dialogue: 0,0:14:51.45,0:14:57.74,normal_Wed,,0,0,0,,The culprit's fingerprints were lifted from the handle of the murder weapon's pocket knife and the inside handle of the door
+Dialogue: 0,0:14:58.64,0:14:59.84,normal_Wed,,0,0,0,,Tsuda
+Dialogue: 0,0:15:00.54,0:15:04.58,normal_Wed,,0,0,0,,This fingerprint. Did you find anything?
+Dialogue: 0,0:15:04.68,0:15:06.26,normal_Wed,,0,0,0,,Something from the fingerprints?
+Dialogue: 0,0:15:06.26,0:15:08.02,normal_Wed,,0,0,0,,The hell do I know?
+Dialogue: 0,0:15:08.02,0:15:11.16,normal_Wed,,0,0,0,,A culprit... exists
+Dialogue: 0,0:15:11.16,0:15:13.89,normal_Wed,,0,0,0,,Found out someone killed him
+Dialogue: 0,0:15:13.89,0:15:16.19,normal_Wed,,0,0,0,,Tsuda
+Dialogue: 0,0:15:16.19,0:15:19.50,normal_Wed,,0,0,0,,This fingerprint. Did you find anything?
+Dialogue: 0,0:15:19.50,0:15:21.03,normal_Wed,,0,0,0,,Again?
+Dialogue: 0,0:15:21.03,0:15:23.18,normal_Wed,,0,0,0,,She'll never stop asking questions
+Dialogue: 0,0:15:23.40,0:15:24.97,normal_Wed,,0,0,0,,It's like a game
+Dialogue: 0,0:15:25.40,0:15:28.11,normal_Wed,,0,0,0,,Is there any other...that is to say any other reason?
+Dialogue: 0,0:15:28.51,0:15:30.88,normal_Wed,,0,0,0,,Wait a moment
+Dialogue: 0,0:15:30.88,0:15:34.61,normal_Wed,,0,0,0,,The fingerprints here are the same as here, right?
+Dialogue: 0,0:15:34.61,0:15:37.62,normal_Wed,,0,0,0,,Ah, 1, 2, 3, 4
+Dialogue: 0,0:15:37.62,0:15:38.58,normal_Wed,,0,0,0,,There are four fingerprints
+Dialogue: 0,0:15:40.80,0:15:42.44,wipe_Wed,,0,0,0,,Think about it
+Dialogue: 0,0:15:44.22,0:15:45.92,normal_Wed,,0,0,0,,Left-handed
+Dialogue: 0,0:15:46.22,0:15:48.66,normal_Wed,,0,0,0,,It's true that he's left-handed
+Dialogue: 0,0:15:50.19,0:15:52.14,wipe_Wed,,0,0,0,,He's kind of happy
+Dialogue: 0,0:15:51.38,0:15:53.00,normal_Wed,,0,0,0,,Stabbed like this
+Dialogue: 0,0:15:53.00,0:15:56.90,normal_Wed,,0,0,0,,So there's four prints on this, which means the perp's left-handed
+Dialogue: 0,0:15:56.90,0:15:59.24,normal_Wed,,0,0,0,,Eh? Really?
+Dialogue: 0,0:15:59.24,0:16:01.67,normal_Wed,,0,0,0,,{\alpha55}Yes, we're making progress
+Dialogue: 0,0:16:01.67,0:16:03.47,normal_Wed,,0,0,0,,What's next?
+Dialogue: 0,0:16:03.47,0:16:05.91,normal_Wed,,0,0,0,,What, are you looking for a lefty?
+Dialogue: 0,0:16:06.17,0:16:11.42,normal_Wed,,0,0,0,,Is there any other evidence here?\N  -Eh?
+Dialogue: 0,0:16:08.78,0:16:10.16,wipe_Wed,,0,0,0,,There's more
+Dialogue: 0,0:16:11.59,0:16:19.01,normal_Wed,,0,0,0,,They checked Marui's backpack for evidence
+Dialogue: 0,0:16:19.59,0:16:21.59,normal_Wed,,0,0,0,,Anything?
+Dialogue: 0,0:16:21.59,0:16:23.33,normal_Wed,,0,0,0,,Shinshu Daily News
+Dialogue: 0,0:16:23.33,0:16:26.08,normal_Wed,,0,0,0,,Death of a member of the Mountaineering Department
+Dialogue: 0,0:16:26.72,0:16:34.04,normal_Wed,,0,0,0,,Tsuyoshi Ito (19), a second-year mountaineer at Suwa University in Nagano Prefecture, fell from a mountain
+Dialogue: 0,0:16:34.04,0:16:35.37,normal_Wed,,0,0,0,,Fellow travelers called the police
+Dialogue: 0,0:16:35.47,0:16:39.21,normal_Wed,,0,0,0,,The owner of the hotel where Mr. Ito stayed talked about the dangers at the site, saying...
+Dialogue: 0,0:16:41.85,0:16:43.51,normal_Wed,,0,0,0,,Ah, Mr. Terashima
+Dialogue: 0,0:16:43.75,0:16:47.42,normal_Wed,,0,0,0,,The owner of this place. It's in the paper
+Dialogue: 0,0:16:47.86,0:16:50.84,normal_Wed,,0,0,0,,Anything else?
+Dialogue: 0,0:16:53.82,0:16:55.36,normal_Wed,,0,0,0,,Is this Mr. Hasegawa?
+Dialogue: 0,0:16:56.99,0:16:59.00,normal_Wed,,0,0,0,,This one
+Dialogue: 0,0:16:59.00,0:17:01.97,normal_Wed,,0,0,0,,Looks like Mr. Hasegawa, right?
+Dialogue: 0,0:17:02.67,0:17:06.00,normal_Wed,,0,0,0,,I mean, everyone's in the paper, right? Everyone who's here
+Dialogue: 0,0:17:07.41,0:17:08.34,normal_Wed,,0,0,0,,There are also women
+Dialogue: 0,0:17:09.43,0:17:10.87,normal_Wed,,0,0,0,,You're right
+Dialogue: 0,0:17:11.24,0:17:13.18,normal_Wed,,0,0,0,,1234…
+Dialogue: 0,0:17:13.70,0:17:16.25,normal_Wed,,0,0,0,,Well, everyone downstairs is in the picture
+Dialogue: 0,0:17:16.25,0:17:17.62,normal_Wed,,0,0,0,,In other words
+Dialogue: 0,0:17:17.62,0:17:18.55,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:17:18.55,0:17:21.72,normal_Wed,,0,0,0,,The men...
+Dialogue: 0,0:17:21.72,0:17:24.09,normal_Wed,,0,0,0,,Do they know each other?
+Dialogue: 0,0:17:24.09,0:17:25.72,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:17:26.06,0:17:28.66,normal_Wed,,0,0,0,,Let's go downstairs first and summarize
+Dialogue: 0,0:17:28.66,0:17:31.60,normal_Wed,,0,0,0,,This story is getting more and more backstory
+Dialogue: 0,0:17:31.70,0:17:36.10,normal_Wed,,0,0,0,,People who behave strangely when investigating alibis
+Dialogue: 0,0:17:36.47,0:17:38.47,normal_Wed,,0,0,0,,Mr. Yamada, right?
+Dialogue: 0,0:17:39.54,0:17:41.94,normal_Wed,,0,0,0,,Mr. Yamada didn't say anything
+Dialogue: 0,0:17:41.94,0:17:44.01,normal_Wed,,0,0,0,,The strangest ones are Mr. Yamada and Mr. Terashima
+Dialogue: 0,0:17:44.01,0:17:48.14,normal_Wed,,0,0,0,,What's so strange about Mr. Terashima?
+Dialogue: 0,0:17:48.45,0:17:50.58,normal_Wed,,0,0,0,,Watching a movie...
+Dialogue: 0,0:17:50.58,0:17:54.52,normal_Wed,,0,0,0,,Who would watch Pocahontas at 3:00 in the morning?
+Dialogue: 0,0:17:54.52,0:17:57.47,normal_Wed,,0,0,0,,What aroused Tsuda's suspicions was
+Dialogue: 0,0:17:57.47,0:18:00.89,normal_Wed,,0,0,0,,Yamada, who kept quiet about last night's action
+Dialogue: 0,0:18:00.89,0:18:04.23,normal_Wed,,0,0,0,,And Terashima, who claimed to be watching a movie alone in his room
+Dialogue: 0,0:18:04.23,0:18:12.31,normal_Wed,,0,0,0,,Then they deduced from the traces at the scene that the culprit was left-handed
+Dialogue: 0,0:18:13.07,0:18:16.04,normal_Wed,,0,0,0,,In other words, the culprit is...
+Dialogue: 0,0:18:19.21,0:18:20.85,normal_Wed,,0,0,0,,Mr. Yamada
+Dialogue: 0,0:18:22.98,0:18:25.08,normal_Wed,,0,0,0,,His right hand is bandaged
+Dialogue: 0,0:18:25.08,0:18:27.45,normal_Wed,,0,0,0,,Not left-handed
+Dialogue: 0,0:18:27.45,0:18:31.92,normal_Wed,,0,0,0,,Instead, the culprit had to use his left hand
+Dialogue: 0,0:18:31.92,0:18:36.19,normal_Wed,,0,0,0,,Mr. Yamada's right hand was injured, so he had to stab with his left
+Dialogue: 0,0:18:36.19,0:18:38.43,normal_Wed,,0,0,0,,In other words, the culprit is...
+Dialogue: 0,0:18:38.60,0:18:40.00,normal_Wed,,0,0,0,,Mr. Yamada
+Dialogue: 0,0:18:43.13,0:18:46.30,normal_Wed,,0,0,0,,Let's go to Mr. Yamada's room and ask him for confirmation. Come on
+Dialogue: 0,0:18:47.07,0:18:49.08,normal_Wed,,0,0,0,,Bring this?
+Dialogue: 0,0:18:49.74,0:18:53.11,normal_Wed,,0,0,0,,With or without. \N -Either...
+Dialogue: 0,0:18:54.30,0:18:56.44,wipe_Wed,,0,0,0,,It's because it's already been decided how it's going to develop
+Dialogue: 0,0:18:57.85,0:18:59.16,normal_Wed,,0,0,0,,No answer
+Dialogue: 0,0:18:59.16,0:19:01.25,normal_Wed,,0,0,0,,No? \N -Yeah
+Dialogue: 0,0:19:01.16,0:19:03.95,wipe_Wed,,0,0,0,,Huh? Scary
+Dialogue: 0,0:19:02.62,0:19:03.99,normal_Wed,,0,0,0,,The door is open
+Dialogue: 0,0:19:03.99,0:19:05.62,normal_Wed,,0,0,0,,Can we go in?
+Dialogue: 0,0:19:07.73,0:19:10.06,normal_Wed,,0,0,0,,Ahhhh! Eh!
+Dialogue: 0,0:19:10.83,0:19:12.53,normal_Wed,,0,0,0,,Dead?
+Dialogue: 0,0:19:12.90,0:19:14.20,normal_Wed,,0,0,0,,He's dead
+Dialogue: 0,0:19:16.13,0:19:18.90,normal_Wed,,0,0,0,,Hey, he's dead!
+Dialogue: 0,0:19:20.70,0:19:22.74,normal_Wed,,0,0,0,,Hey, Mr. Yamada is dead
+Dialogue: 0,0:19:23.01,0:19:24.54,normal_Wed,,0,0,0,,What's with the Kansai accent...
+Dialogue: 0,0:19:24.54,0:19:25.94,normal_Wed,,0,0,0,,It's ruining the atmosphere...
+Dialogue: 0,0:19:28.38,0:19:30.49,normal_Wed,,0,0,0,,Confession
+Dialogue: 0,0:19:30.49,0:19:31.65,normal_Wed,,0,0,0,,He's confessed
+Dialogue: 0,0:19:31.65,0:19:33.37,normal_Wed,,0,0,0,,I'm the one who killed Marui
+Dialogue: 0,0:19:33.37,0:19:37.38,normal_Wed,,0,0,0,,The accident...no, I should say incident...28 years ago
+Dialogue: 0,0:19:37.38,0:19:41.00,normal_Wed,,0,0,0,,He was going to tell the truth about the day Ito fell to his death
+Dialogue: 0,0:19:41.00,0:19:42.94,normal_Wed,,0,0,0,,I was so angry, I killed him
+Dialogue: 0,0:19:43.06,0:19:46.73,normal_Wed,,0,0,0,,That is to say, as expected...
+Dialogue: 0,0:19:47.87,0:19:51.10,normal_Wed,,0,0,0,,The culprit is Mr. Yamada
+Dialogue: 0,0:19:51.34,0:19:53.43,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:19:53.43,0:19:59.20,normal_Wed,,0,0,0,,And then, unable to bear the burden of sin, he died
+Dialogue: 0,0:19:59.34,0:20:03.61,normal_Wed,,0,0,0,,The incident is resolved
+Dialogue: 0,0:20:04.38,0:20:06.32,normal_Wed,,0,0,0,,Well, that's the way it is, isn't it?
+Dialogue: 0,0:20:06.61,0:20:09.88,normal_Wed,,0,0,0,,The incident in Tsuda's mind has been resolved
+Dialogue: 0,0:20:09.88,0:20:12.12,normal_Wed,,0,0,0,,However
+Dialogue: 0,0:20:10.27,0:20:13.54,wipe_Wed,,0,0,0,,The victim and the killer are dead
+Dialogue: 0,0:20:23.93,0:20:25.49,wipe_Wed,,0,0,0,,Doesn't get it
+Dialogue: 0,0:20:26.56,0:20:29.17,wipe_Wed,,0,0,0,,Can't figure out what's wrong with it
+Dialogue: 0,0:20:28.97,0:20:31.81,normal_Wed,,0,0,0,,{\fad(255,255)}What is this?
+Dialogue: 0,0:20:34.32,0:20:36.42,wipe_Wed,,0,0,0,,It's not about the incident
+Dialogue: 0,0:20:36.78,0:20:40.22,normal_Wed,,0,0,0,,What to do?
+Dialogue: 0,0:20:40.52,0:20:44.46,normal_Wed,,0,0,0,,What can I do to end it?
+Dialogue: 0,0:20:44.76,0:20:47.65,normal_Wed,,0,0,0,,Yeah, well, the fun's not over yet
+Dialogue: 0,0:20:47.65,0:20:50.80,normal_Wed,,0,0,0,,It means that the matter has not been resolved
+Dialogue: 0,0:21:05.14,0:21:08.06,normal_Wed,,0,0,0,,Tsuda, did you think of something?
+Dialogue: 0,0:21:08.06,0:21:08.65,normal_Wed,,0,0,0,,It's just that the...
+Dialogue: 0,0:21:09.48,0:21:11.48,normal_Wed,,0,0,0,,Mr. Yamada is dead
+Dialogue: 0,0:21:12.01,0:21:17.90,normal_Wed,,0,0,0,,Tsuda told Dr. Hasegawa what he had previously learned
+Dialogue: 0,0:21:19.16,0:21:22.66,normal_Wed,,0,0,0,,Here, that...
+Dialogue: 0,0:21:24.26,0:21:29.13,normal_Wed,,0,0,0,,All the people here are related to the events that were published in the newspaper
+Dialogue: 0,0:21:29.13,0:21:31.37,normal_Wed,,0,0,0,,Mr. Hasegawa is one of them
+Dialogue: 0,0:21:31.93,0:21:34.37,normal_Wed,,0,0,0,,Then Hasegawa confessed
+Dialogue: 0,0:21:34.37,0:21:40.92,normal_Wed,,0,0,0,,This time, everyone was actually called to the hotel after receiving strange letters
+Dialogue: 0,0:21:40.92,0:21:50.12,normal_Wed,,0,0,0,,As well as hiding the relationship between them due to the threat of a fall accident back then
+Dialogue: 0,0:21:52.20,0:21:53.76,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:21:55.93,0:21:56.63,normal_Wed,,0,0,0,,Did something happen?
+Dialogue: 0,0:21:56.63,0:21:58.33,normal_Wed,,0,0,0,,Oh, I'm sorry to hear that
+Dialogue: 0,0:21:58.33,0:22:01.43,normal_Wed,,0,0,0,,Lately, the electric switch has been tripping on its own
+Dialogue: 0,0:22:01.43,0:22:06.34,normal_Wed,,0,0,0,,Yesterday, between 2:30 and 6:00 in the morning
+Dialogue: 0,0:22:06.70,0:22:09.41,normal_Wed,,0,0,0,,The circuit breaker's tripped, too
+Dialogue: 0,0:22:09.41,0:22:09.94,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:22:09.94,0:22:12.78,normal_Wed,,0,0,0,,I don't know if it's bothering any of you?
+Dialogue: 0,0:22:11.90,0:22:14.40,wipe_Wed,,0,0,0,,Taking notes now
+Dialogue: 0,0:22:12.78,0:22:14.41,normal_Wed,,0,0,0,,The circuit breaker tripped?
+Dialogue: 0,0:22:14.85,0:22:16.11,normal_Wed,,0,0,0,,I didn't even notice
+Dialogue: 0,0:22:16.11,0:22:17.88,normal_Wed,,0,0,0,,Oh, I'm so sorry
+Dialogue: 0,0:22:18.97,0:22:21.38,wipe_Wed,,0,0,0,,What's the secret?
+Dialogue: 0,0:22:21.38,0:22:26.86,normal_Wed,,0,0,0,,That's when the two came to Yamada's room again to investigate
+Dialogue: 0,0:22:27.96,0:22:30.19,normal_Wed,,0,0,0,,Tsuda \N -Yes
+Dialogue: 0,0:22:31.40,0:22:33.53,normal_Wed,,0,0,0,,I'm thinking
+Dialogue: 0,0:22:33.73,0:22:36.63,normal_Wed,,0,0,0,,Yamada didn't commit suicide. \N -I see
+Dialogue: 0,0:22:36.63,0:22:37.40,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:22:37.57,0:22:40.47,normal_Wed,,0,0,0,,It's... \N -He was killed
+Dialogue: 0,0:22:40.47,0:22:43.11,normal_Wed,,0,0,0,,I think that's more likely.  \N-Yes
+Dialogue: 0,0:22:44.48,0:22:46.44,normal_Wed,,0,0,0,,The culprit is someone else
+Dialogue: 0,0:22:46.81,0:22:52.12,normal_Wed,,0,0,0,,For some reason Tsuda seemed to have finally made up his mind at this point
+Dialogue: 0,0:22:52.35,0:22:57.45,normal_Wed,,0,0,0,,Maybe there's some evidence left here too
+Dialogue: 0,0:23:05.00,0:23:06.46,normal_Wed,,0,0,0,,This one's a little weird
+Dialogue: 0,0:23:07.26,0:23:09.53,normal_Wed,,0,0,0,,This light
+Dialogue: 0,0:23:09.53,0:23:11.77,normal_Wed,,0,0,0,,What's so strange about this clock?
+Dialogue: 0,0:23:12.30,0:23:15.57,normal_Wed,,0,0,0,,It's not running. It just keeps flashing
+Dialogue: 0,0:23:16.24,0:23:18.54,normal_Wed,,0,0,0,,Blackout...
+Dialogue: 0,0:23:18.88,0:23:23.28,normal_Wed,,0,0,0,,The power's out, so it's out. \N -And then
+Dialogue: 0,0:23:24.95,0:23:26.78,normal_Wed,,0,0,0,,And...
+Dialogue: 0,0:23:27.32,0:23:30.05,normal_Wed,,0,0,0,,This mirror is weird, too
+Dialogue: 0,0:23:30.05,0:23:34.73,normal_Wed,,0,0,0,,What's going on? What's wrong with this mirror?
+Dialogue: 0,0:23:39.06,0:23:40.03,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:23:40.03,0:23:41.77,normal_Wed,,0,0,0,,I think there's some kind of number written here
+Dialogue: 0,0:23:42.00,0:23:43.17,normal_Wed,,0,0,0,,What does it say?
+Dialogue: 0,0:23:43.17,0:23:45.74,normal_Wed,,0,0,0,,It's "1114," right?
+Dialogue: 0,0:23:46.84,0:23:50.61,normal_Wed,,0,0,0,,This is the message of death, isn't it?
+Dialogue: 0,0:23:50.61,0:23:52.41,normal_Wed,,0,0,0,,It's a death message
+Dialogue: 0,0:23:52.71,0:23:54.14,normal_Wed,,0,0,0,,"1114"?
+Dialogue: 0,0:23:54.48,0:23:56.66,normal_Wed,,0,0,0,,November 14th?
+Dialogue: 0,0:23:56.66,0:23:57.98,normal_Wed,,0,0,0,,November 14
+Dialogue: 0,0:23:57.98,0:23:59.28,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:23:59.29,0:24:00.82,normal_Wed,,0,0,0,,Birthday?
+Dialogue: 0,0:24:00.82,0:24:02.79,normal_Wed,,0,0,0,,Whose birthday is it?
+Dialogue: 0,0:24:02.79,0:24:04.76,normal_Wed,,0,0,0,,The elevation of the mountain?
+Dialogue: 0,0:24:05.06,0:24:07.06,normal_Wed,,0,0,0,,1,114-meter mountain
+Dialogue: 0,0:24:07.06,0:24:08.29,normal_Wed,,0,0,0,,Too short?
+Dialogue: 0,0:24:09.79,0:24:12.13,normal_Wed,,0,0,0,,Is this "1114"?
+Dialogue: 0,0:24:12.05,0:24:14.04,wipe_Wed,,0,0,0,,Look at it from a different angle
+Dialogue: 0,0:24:17.47,0:24:19.64,normal_Wed,,0,0,0,,Want to use a mirror?
+Dialogue: 0,0:24:23.67,0:24:24.84,normal_Wed,,0,0,0,,If you look in the mirror...
+Dialogue: 0,0:24:29.48,0:24:30.88,normal_Wed,,0,0,0,,"Miyu"?
+Dialogue: 0,0:24:31.25,0:24:33.45,normal_Wed,,0,0,0,,"Miyu" "Sasaki Miyu"
+Dialogue: 0,0:24:34.42,0:24:35.79,normal_Wed,,0,0,0,,It's Miyu
+Dialogue: 0,0:24:38.39,0:24:43.39,normal_Wed,,0,0,0,,But Miyu was busy at the time of Mr. Marui's murder
+Dialogue: 0,0:24:43.39,0:24:45.20,normal_Wed,,0,0,0,,There's an alibi
+Dialogue: 0,0:24:46.57,0:24:50.37,normal_Wed,,0,0,0,,Clock, that...selfie in the room
+Dialogue: 0,0:24:50.51,0:24:55.26,normal_Wed,,0,0,0,,Then Tsuda checked the video image once more
+Dialogue: 0,0:24:56.94,0:24:59.48,normal_Wed,,0,0,0,,Wait a minute, please
+Dialogue: 0,0:24:59.48,0:25:02.61,normal_Wed,,0,0,0,,The power's out at 3:08
+Dialogue: 0,0:25:02.61,0:25:05.35,normal_Wed,,0,0,0,,The power's on in here...it's on, which is weird, right?
+Dialogue: 0,0:25:03.37,0:25:04.23,wipe_Wed,,0,0,0,,So happy
+Dialogue: 0,0:25:06.35,0:25:08.55,normal_Wed,,0,0,0,,Tsuda, this is a great discovery
+Dialogue: 0,0:25:08.75,0:25:10.92,normal_Wed,,0,0,0,,Oi!
+Dialogue: 0,0:25:11.66,0:25:12.86,normal_Wed,,0,0,0,,Oi!
+Dialogue: 0,0:25:12.86,0:25:16.59,normal_Wed,,0,0,0,,And then there's this suicide note...
+Dialogue: 0,0:25:17.09,0:25:19.30,normal_Wed,,0,0,0,,It's like its written by a woman
+Dialogue: 0,0:25:19.30,0:25:21.20,normal_Wed,,0,0,0,,Is there any handwriting to compare it to?
+Dialogue: 0,0:25:21.57,0:25:23.23,normal_Wed,,0,0,0,,Ah-
+Dialogue: 0,0:25:24.17,0:25:27.57,normal_Wed,,0,0,0,,Ah-what's there? What's there?
+Dialogue: 0,0:25:27.57,0:25:28.74,normal_Wed,,0,0,0,,She wrote something
+Dialogue: 0,0:25:29.01,0:25:30.94,normal_Wed,,0,0,0,,Want to go look for it?\N  -Okay
+Dialogue: 0,0:25:31.73,0:25:33.78,wipe_Wed,,0,0,0,,The one he got the day before
+Dialogue: 0,0:25:34.98,0:25:38.55,wipe_Wed,,0,0,0,,Yes, the one with the meeting time
+Dialogue: 0,0:25:34.85,0:25:37.05,normal_Wed,,0,0,0,,It's not in that script?
+Dialogue: 0,0:25:37.05,0:25:38.80,normal_Wed,,0,0,0,,She took it, didn't she?
+Dialogue: 0,0:25:38.80,0:25:40.80,normal_Wed,,0,0,0,,No, that'd be weird
+Dialogue: 0,0:25:41.79,0:25:43.19,normal_Wed,,0,0,0,,Not here
+Dialogue: 0,0:25:43.51,0:25:45.56,normal_Wed,,0,0,0,,Not here...
+Dialogue: 0,0:25:46.26,0:25:48.66,normal_Wed,,0,0,0,,Nothing else?
+Dialogue: 0,0:25:49.69,0:25:51.76,normal_Wed,,0,0,0,,Please think back
+Dialogue: 0,0:25:51.76,0:25:55.03,normal_Wed,,0,0,0,,Oh, wow. I was in a daze at that point
+Dialogue: 0,0:25:56.03,0:25:58.27,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:26:03.17,0:26:06.34,normal_Wed,,0,0,0,,Ah, the paper with today's meeting time on it
+Dialogue: 0,0:26:10.51,0:26:11.21,normal_Wed,,0,0,0,,He got it
+Dialogue: 0,0:26:11.27,0:26:13.14,wipe_Wed,,0,0,0,,So funny
+Dialogue: 0,0:26:15.55,0:26:17.59,normal_Wed,,0,0,0,,Ohhhh!
+Dialogue: 0,0:26:18.92,0:26:20.12,normal_Wed,,0,0,0,,Aaahhhh!
+Dialogue: 0,0:26:20.36,0:26:22.16,normal_Wed,,0,0,0,,Ah, scary
+Dialogue: 0,0:26:22.79,0:26:24.43,normal_Wed,,0,0,0,,This
+Dialogue: 0,0:26:24.43,0:26:25.90,normal_Wed,,0,0,0,,This this this this this this this
+Dialogue: 0,0:26:25.90,0:26:28.73,normal_Wed,,0,0,0,,Let's compare. \N -Wow
+Dialogue: 0,0:26:25.26,0:26:27.72,wipe_Wed,,0,0,0,,That's what happens when you think carefully
+Dialogue: 0,0:26:28.73,0:26:32.14,normal_Wed,,0,0,0,,Whoa, scary
+Dialogue: 0,0:26:32.47,0:26:33.20,normal_Wed,,0,0,0,,Ah- scary!
+Dialogue: 0,0:26:33.20,0:26:35.49,normal_Wed,,0,0,0,,8 is the same
+Dialogue: 0,0:26:35.74,0:26:38.38,normal_Wed,,0,0,0,,It's the same 8
+Dialogue: 0,0:26:38.38,0:26:40.03,normal_Wed,,0,0,0,,Look!
+Dialogue: 0,0:26:38.36,0:26:40.03,wipe_Wed,,0,0,0,,It's a very distinctive feature
+Dialogue: 0,0:26:40.03,0:26:41.55,normal_Wed,,0,0,0,,28 years and 8
+Dialogue: 0,0:26:41.98,0:26:44.68,normal_Wed,,0,0,0,,8 is the same as this...
+Dialogue: 0,0:26:47.15,0:26:48.35,normal_Wed,,0,0,0,,I'll go get everyone
+Dialogue: 0,0:26:48.59,0:26:50.45,normal_Wed,,0,0,0,,Okay \N  -I'll have everyone gather in the cafeteria
+Dialogue: 0,0:26:50.72,0:26:52.72,normal_Wed,,0,0,0,,Please reveal the real culprit. \N -Okay
+Dialogue: 0,0:26:53.32,0:26:54.68,normal_Wed,,0,0,0,,It's a pep talk
+Dialogue: 0,0:26:55.23,0:26:58.04,normal_Wed,,0,0,0,,This guy can be a real pain in the ass when he really gets going
+Dialogue: 0,0:26:59.70,0:27:00.63,normal_Wed,,0,0,0,,One moment, please.  \N-Okay
+Dialogue: 0,0:27:04.90,0:27:08.20,normal_Wed,,0,0,0,,Eh, what's this feeling...
+Dialogue: 0,0:27:08.50,0:27:12.75,normal_Wed,,0,0,0,,And now, the prank is finally coming to a climax
+Dialogue: 0,0:27:13.57,0:27:19.58,normal_Wed,,0,0,0,,Detective Tsuda, the first part of the serial hotel killings
+Dialogue: 0,0:27:20.22,0:27:23.32,normal_Wed,,0,0,0,,Mr. Yamada was killed by someone
+Dialogue: 0,0:27:21.44,0:27:23.35,wipe_Wed,,0,0,0,,Like a movie
+Dialogue: 0,0:27:23.32,0:27:26.19,normal_Wed,,0,0,0,,Next to Mr. Yamada's body
+Dialogue: 0,0:27:26.69,0:27:29.86,normal_Wed,,0,0,0,,Was this suicide note
+Dialogue: 0,0:27:28.86,0:27:31.00,wipe_Wed,,0,0,0,,Kansai accent is completely gone
+Dialogue: 0,0:27:29.86,0:27:33.30,normal_Wed,,0,0,0,,It looks like it was written by a woman
+Dialogue: 0,0:27:33.50,0:27:38.84,normal_Wed,,0,0,0,,I got a note yesterday
+Dialogue: 0,0:27:39.77,0:27:45.58,normal_Wed,,0,0,0,,This is Ms. Sasaki's. You wrote it
+Dialogue: 0,0:27:45.88,0:27:49.25,normal_Wed,,0,0,0,,Then, Mr. Yamada's desk was left open
+Dialogue: 0,0:27:49.25,0:27:52.38,normal_Wed,,0,0,0,,Dining... dining... dining message
+Dialogue: 0,0:27:52.38,0:27:55.75,normal_Wed,,0,0,0,,Dying message
+Dialogue: 0,0:27:56.99,0:27:59.16,normal_Wed,,0,0,0,,"Miyu" in katakana
+Dialogue: 0,0:27:59.16,0:28:00.89,normal_Wed,,0,0,0,,You can tell it's "Miyu"
+Dialogue: 0,0:28:00.89,0:28:02.80,normal_Wed,,0,0,0,,In other words
+Dialogue: 0,0:28:02.80,0:28:06.65,normal_Wed,,0,0,0,,You're the one who wrote this suicide note, Ms. Miyu
+Dialogue: 0,0:28:06.65,0:28:08.67,normal_Wed,,0,0,0,,The culprit is you
+Dialogue: 0,0:28:16.00,0:28:20.08,normal_Wed,,0,0,0,,Although Tsuda was so impatient at first...
+Dialogue: 0,0:28:20.66,0:28:25.65,normal_Wed,,0,0,0,,He's now a full-blown detective
+Dialogue: 0,0:28:28.39,0:28:30.25,normal_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:28:30.49,0:28:32.96,normal_Wed,,0,0,0,,I have an alibi...
+Dialogue: 0,0:28:34.39,0:28:37.19,normal_Wed,,0,0,0,,You showed us this alibi video
+Dialogue: 0,0:28:38.35,0:28:44.20,normal_Wed,,0,0,0,,A famous detective who brilliantly solved the alibi ruse
+Dialogue: 0,0:28:44.43,0:28:48.37,normal_Wed,,0,0,0,,So you shot this video at some other time and put the clock on it
+Dialogue: 0,0:28:48.37,0:28:51.68,normal_Wed,,0,0,0,,The video was not taken at that time
+Dialogue: 0,0:28:51.68,0:28:53.28,normal_Wed,,0,0,0,,Isn't that correct!?
+Dialogue: 0,0:28:53.46,0:28:55.28,wipe_Wed,,0,0,0,,He's tough
+Dialogue: 0,0:28:57.00,0:28:59.98,normal_Wed,,0,0,0,,Now that i've been exposed, there's nothing I can do about it.\N  -Oh, oh!
+Dialogue: 0,0:28:59.98,0:29:04.09,normal_Wed,,0,0,0,,I didn't realize that the handwriting would reveal it
+Dialogue: 0,0:29:06.12,0:29:10.53,normal_Wed,,0,0,0,,But i'll never forgive
+Dialogue: 0,0:29:10.76,0:29:17.97,normal_Wed,,0,0,0,,How could you forget Ito from the former mountaineering group?
+Dialogue: 0,0:29:18.54,0:29:20.27,normal_Wed,,0,0,0,,Well...
+Dialogue: 0,0:29:20.68,0:29:25.24,normal_Wed,,0,0,0,,It's your fault my brother is dead
+Dialogue: 0,0:29:24.72,0:29:26.31,wipe_Wed,,0,0,0,,So realistic
+Dialogue: 0,0:29:25.73,0:29:30.97,normal_Wed,,0,0,0,,The real killer, Miyu Sasaki, is the brother of Miyu Ito
+Dialogue: 0,0:29:31.52,0:29:37.99,normal_Wed,,0,0,0,,It's because the mountaineering group, especially Yamada and Marui, made fun of him
+Dialogue: 0,0:29:37.99,0:29:39.99,normal_Wed,,0,0,0,,That he fell to his death
+Dialogue: 0,0:29:40.64,0:29:45.33,normal_Wed,,0,0,0,,And so, she wanted to kill everyone involved on that day
+Dialogue: 0,0:29:46.26,0:29:50.23,normal_Wed,,0,0,0,,With Miyu's confession, the incident came to an end...
+Dialogue: 0,0:29:50.84,0:29:54.64,normal_Wed,,0,0,0,,Please atone for your sins
+Dialogue: 0,0:29:54.64,0:29:58.28,normal_Wed,,0,0,0,,When you get out, i'll be happy to do more location shoots with you
+Dialogue: 0,0:29:57.33,0:29:59.38,wipe_Wed,,0,0,0,,It's like a closing statement
+Dialogue: 0,0:29:58.28,0:30:02.35,normal_Wed,,0,0,0,,Miyu, you must turn yourself in
+Dialogue: 0,0:30:02.01,0:30:04.97,wipe_Wed,,0,0,0,,Can they still shoot together...?
+Dialogue: 0,0:30:02.35,0:30:06.95,normal_Wed,,0,0,0,,Please atone properly for your sins \N -Miyu Ito!
+Dialogue: 0,0:30:08.02,0:30:09.45,normal_Wed,,0,0,0,,Ah, ah, the police
+Dialogue: 0,0:30:09.45,0:30:12.39,normal_Wed,,0,0,0,,I'm arresting you on suspicion of murder.\N  -Oh, that was fast
+Dialogue: 0,0:30:13.58,0:30:17.25,normal_Wed,,0,0,0,,That's it. That's the end of it
+Dialogue: 0,0:30:18.03,0:30:20.33,normal_Wed,,0,0,0,,Tsuda.  \N-Yes?
+Dialogue: 0,0:30:20.33,0:30:21.30,normal_Wed,,0,0,0,,You've done a great service
+Dialogue: 0,0:30:22.10,0:30:23.97,normal_Wed,,0,0,0,,No no. It's sad...
+Dialogue: 0,0:30:23.97,0:30:25.74,normal_Wed,,0,0,0,,A sad turn of events
+Dialogue: 0,0:30:25.97,0:30:31.84,normal_Wed,,0,0,0,,If another incident occurs, please continue to assist us
+Dialogue: 0,0:30:33.04,0:30:39.72,normal_Wed,,0,0,0,,Well, please don't get me involved again
+Dialogue: 0,0:30:39.72,0:30:46.65,normal_Wed,,0,0,0,,{\1c&H3732FF&\3c&FFFFFF&}In Summary\N{\r}Look forward to Detective Tsuda's next case
+Dialogue: 0,0:30:47.41,0:30:49.43,normal_Wed,,0,0,0,,Well well well
+Dialogue: 0,0:30:49.43,0:30:51.89,normal_Wed,,0,0,0,,The famous detective Tsuda
+Dialogue: 0,0:30:51.89,0:30:53.23,normal_Wed,,0,0,0,,What do you think, Goto?
+Dialogue: 0,0:30:53.23,0:30:55.22,normal_Wed,,0,0,0,,Very interesting
+Dialogue: 0,0:30:55.22,0:30:59.84,normal_Wed,,0,0,0,,There's a part of me that was simply curious as to how it was going to play out
+Dialogue: 0,0:30:59.84,0:31:02.57,normal_Wed,,0,0,0,,As well as seeing Tsuda get more and more into it
+Dialogue: 0,0:31:02.57,0:31:07.17,normal_Wed,,0,0,0,,Hamada called out, "Oh yeah, the notes he got the day before"
+Dialogue: 0,0:31:07.17,0:31:10.84,normal_Wed,,0,0,0,,This guy really enjoyed it!
+Dialogue: 0,0:31:11.49,0:31:12.50,normal_Wed,,0,0,0,,What do you think, Matsumoto?
+Dialogue: 0,0:31:13.28,0:31:14.62,normal_Wed,,0,0,0,,I hated it
+Dialogue: 0,0:31:16.45,0:31:18.66,normal_Wed,,0,0,0,,Tsuda's just no good
+Dialogue: 0,0:31:18.66,0:31:19.49,normal_Wed,,0,0,0,,The main character isn't very good
+Dialogue: 0,0:31:19.49,0:31:22.52,normal_Wed,,0,0,0,,The main character's no good. He's too noisy
+Dialogue: 0,0:31:22.52,0:31:24.84,normal_Wed,,0,0,0,,The ending didn't conclude very smoothly either
+Dialogue: 0,0:31:24.84,0:31:26.26,normal_Wed,,0,0,0,,True
+Dialogue: 0,0:31:26.26,0:31:31.70,normal_Wed,,0,0,0,,But there was a lot of hints. They kept repeating things
+Dialogue: 0,0:31:32.07,0:31:35.14,normal_Wed,,0,0,0,,It's like a game where you repeat the same line over and over again
+Dialogue: 0,0:31:37.19,0:31:39.77,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 0,0:31:42.03,0:31:42.98,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:31:46.42,0:31:49.70,normal_Wed,,0,0,0,,Einstein!
+Dialogue: 0,0:31:52.66,0:31:56.83,normal_Wed,,0,0,0,,Appearing from that side is really scary \N -Yes, indeed
+Dialogue: 0,0:31:57.23,0:31:59.63,normal_Wed,,0,0,0,,It's like a month's worth of food
+Dialogue: 0,0:31:59.63,0:32:01.33,normal_Wed,,0,0,0,,It's been a long time, everyone.\N  -Long time no see
+Dialogue: 0,0:32:01.33,0:32:05.60,normal_Wed,,0,0,0,,Protruding chin, tiny glasses, chronic rhinitis, thinning hair
+Dialogue: 0,0:32:05.60,0:32:06.97,normal_Wed,,0,0,0,,I'm everyone's jaw, Itada
+Dialogue: 0,0:32:06.97,0:32:08.82,normal_Wed,,0,0,0,,What the hell?  \N-What are you reciting?
+Dialogue: 0,0:32:08.82,0:32:10.07,normal_Wed,,0,0,0,,What was that?
+Dialogue: 0,0:32:10.07,0:32:12.34,normal_Wed,,0,0,0,,Well, recently. \N -Can you tell me what you're gonna say in advance?
+Dialogue: 0,0:32:15.92,0:32:17.84,normal_Wed,,0,0,0,,Speaking of which \N -Yes
+Dialogue: 0,0:32:17.84,0:32:20.82,normal_Wed,,0,0,0,,Have you been told you have bad breath lately?
+Dialogue: 0,0:32:20.82,0:32:23.59,normal_Wed,,0,0,0,,That's why you're hosting?
+Dialogue: 0,0:32:25.40,0:32:29.42,normal_Wed,,0,0,0,,That's too much information. I'll do it.\N  -Is that okay?
+Dialogue: 0,0:32:29.42,0:32:32.80,normal_Wed,,0,0,0,,So, have you ever been told you have a bad breath?
+Dialogue: 0,0:32:32.80,0:32:37.59,normal_Wed,,0,0,0,,No, and I've been wearing a mask lately. \N -Yeah
+Dialogue: 0,0:32:38.21,0:32:42.15,normal_Wed,,0,0,0,,Today we have a hypothesis about bad breath. Here it is
+Dialogue: 0,0:32:43.02,0:32:50.25,normal_Wed,,0,0,0,,Even if you eat a lot of garlic and meet someone, it's surprisingly difficult for someone to point out
+Dialogue: 0,0:32:50.25,0:32:52.60,normal_Wed,,0,0,0,,Yes, it's very possible
+Dialogue: 0,0:32:53.40,0:32:55.39,normal_Wed,,0,0,0,,Would you say anything, Ano?
+Dialogue: 0,0:32:55.39,0:32:58.46,normal_Wed,,0,0,0,,I don't think so
+Dialogue: 0,0:32:58.46,0:33:04.09,normal_Wed,,0,0,0,,If I tell them they smell, they'll be hurt.\N  -That's right
+Dialogue: 0,0:33:04.09,0:33:07.12,normal_Wed,,0,0,0,,Considerate people don't say such things
+Dialogue: 0,0:33:07.12,0:33:08.95,normal_Wed,,0,0,0,,Hamada looks like the type to say it
+Dialogue: 0,0:33:09.50,0:33:11.00,normal_Wed,,0,0,0,,What do you mean?
+Dialogue: 0,0:33:11.53,0:33:14.19,normal_Wed,,0,0,0,,Like you'd say it even if it didn't stink
+Dialogue: 0,0:33:14.97,0:33:25.54,normal_Wed,,0,0,0,,Even if you eat a lot of garlic and meet someone, it's surprisingly difficult for someone to point out
+Dialogue: 0,0:33:25.54,0:33:31.55,normal_Wed,,0,0,0,,We want you to conduct a surprise interview after eating garlic
+Dialogue: 0,0:33:33.22,0:33:36.14,normal_Wed,,0,0,0,,Will there be a camera? \N -Yes
+Dialogue: 0,0:33:36.73,0:33:41.10,normal_Wed,,0,0,0,,You can choose where and who you want to interview.\N  -Okay
+Dialogue: 0,0:33:41.10,0:33:47.20,normal_Wed,,0,0,0,,It only ends when the other person says, "Did you eat garlic?" or "Garlic stinks"
+Dialogue: 0,0:33:47.20,0:33:50.64,normal_Wed,,0,0,0,,You have to get the person to say the word "garlic." \N -Yes
+Dialogue: 1,0:33:50.64,0:33:58.93,normal_Wed,,0,0,0,,So, we get the three of them to eat these garlic-filled dishes right away
+Dialogue: 0,0:34:00.78,0:34:02.75,normal_Wed,,0,0,0,,Whoa
+Dialogue: 0,0:34:03.78,0:34:07.99,normal_Wed,,0,0,0,,I can clearly smell the flavor in my mouth after eating garlic chips
+Dialogue: 0,0:34:08.36,0:34:12.96,normal_Wed,,0,0,0,,I'll just focus on the garlic chips
+Dialogue: 0,0:34:12.96,0:34:15.63,normal_Wed,,0,0,0,,We'll just have to go straight to this
+Dialogue: 0,0:34:15.63,0:34:18.60,normal_Wed,,0,0,0,,They'll surely realize
+Dialogue: 0,0:34:20.17,0:34:23.17,normal_Wed,,0,0,0,,It's not going to affect my work after, right?
+Dialogue: 0,0:34:23.17,0:34:26.71,normal_Wed,,0,0,0,,I'm gonna freestyle with a rapper
+Dialogue: 0,0:34:25.33,0:34:27.01,wipe_Wed,,0,0,0,,What kind of job is this?
+Dialogue: 0,0:34:27.01,0:34:32.28,normal_Wed,,0,0,0,,For a supposed TBS year-end special
+Dialogue: 0,0:34:33.22,0:34:39.34,normal_Wed,,0,0,0,,The unannounced interview will be "What's was your toughest job in 2022?"
+Dialogue: 0,0:34:39.34,0:34:40.62,wipe_Wed,,0,0,0,,Seems like a real thing
+Dialogue: 0,0:34:40.46,0:34:46.56,normal_Wed,,0,0,0,,As long as the person points out the problem in the interview, it's a pass
+Dialogue: 0,0:34:45.38,0:34:48.96,wipe_Wed,,0,0,0,,Just find a senior
+Dialogue: 0,0:34:49.17,0:34:52.40,normal_Wed,,0,0,0,,It stinks
+Dialogue: 0,0:34:52.90,0:34:57.10,normal_Wed,,0,0,0,,If it was the other way around Fujimon would definitely say something
+Dialogue: 0,0:34:57.60,0:35:01.82,normal_Wed,,0,0,0,,So, Fujimon and Iguchi roam TBS
+Dialogue: 0,0:35:02.70,0:35:06.41,normal_Wed,,0,0,0,,While Komiya heads to the Yoshimoto Head Office
+Dialogue: 0,0:35:06.41,0:35:09.90,normal_Wed,,0,0,0,,They split up to find interviewees
+Dialogue: 0,0:35:11.17,0:35:12.68,normal_Wed,,0,0,0,,At this time
+Dialogue: 0,0:35:14.36,0:35:16.46,normal_Wed,,0,0,0,,Okay, okay, okay. Here it is
+Dialogue: 0,0:35:16.46,0:35:20.95,normal_Wed,,0,0,0,,Suddenly, Magical Lovely are found while filming Love It!
+Dialogue: 0,0:35:22.76,0:35:26.77,normal_Wed,,0,0,0,,However, it is necessary to keep a certain distance from the other person during the interview
+Dialogue: 0,0:35:26.77,0:35:30.37,normal_Wed,,0,0,0,,No perverse proximity
+Dialogue: 0,0:35:30.37,0:35:34.58,normal_Wed,,0,0,0,,The subject of the interview is what was the hardest job you ever experienced
+Dialogue: 0,0:35:34.58,0:35:37.35,normal_Wed,,0,0,0,,Filming at a ski resort in just a pair of shorts
+Dialogue: 0,0:35:37.35,0:35:41.95,normal_Wed,,0,0,0,,Yeah, the ski resort. It was like an indoor ski resort
+Dialogue: 0,0:35:42.35,0:35:46.59,normal_Wed,,0,0,0,,In just a pair of shorts
+Dialogue: 0,0:35:43.07,0:35:45.36,wipe_Wed,,0,0,0,,Seems they can kind of smell it
+Dialogue: 0,0:35:45.36,0:35:47.09,wipe_Wed,,0,0,0,,Obvious smell
+Dialogue: 0,0:35:47.09,0:35:54.65,normal_Wed,,0,0,0,,The smell of garlic quickly gave Murakami the impression that something was wrong
+Dialogue: 0,0:35:53.08,0:35:55.44,wipe_Wed,,0,0,0,,Bathing in the smell of garlic
+Dialogue: 0,0:35:55.73,0:35:57.73,normal_Wed,,0,0,0,,Anything else? Noda?
+Dialogue: 0,0:35:57.73,0:36:04.11,normal_Wed,,0,0,0,,Ended up with a bad result when doing SASUKE
+Dialogue: 0,0:36:05.41,0:36:07.41,normal_Wed,,0,0,0,,You've been practicing, haven't you? \N -I've been practicing
+Dialogue: 0,0:36:07.41,0:36:13.22,normal_Wed,,0,0,0,,I'm trying to build muscle for SASUKE, to practice, to learn, to challenge
+Dialogue: 0,0:36:13.22,0:36:14.75,normal_Wed,,0,0,0,,Where did you get to?
+Dialogue: 0,0:36:14.75,0:36:16.45,normal_Wed,,0,0,0,,Well...
+Dialogue: 0,0:36:14.55,0:36:17.17,wipe_Wed,,0,0,0,,Murakami has gone completely silent
+Dialogue: 0,0:36:16.45,0:36:17.82,normal_Wed,,0,0,0,,Not the beginning
+Dialogue: 0,0:36:17.82,0:36:21.29,normal_Wed,,0,0,0,,I can't believe I went out so fast. \N -Went down so early
+Dialogue: 0,0:36:22.31,0:36:26.77,normal_Wed,,0,0,0,,Murakami is very bothered by Fujimoto's bad breath
+Dialogue: 0,0:36:28.10,0:36:34.74,normal_Wed,,0,0,0,,But it wasn't pointed out until the end of the interview
+Dialogue: 0,0:36:36.84,0:36:38.27,normal_Wed,,0,0,0,,Okay. Okay
+Dialogue: 0,0:36:43.81,0:36:45.22,normal_Wed,,0,0,0,,No, no, no. No more
+Dialogue: 0,0:36:45.52,0:36:48.55,normal_Wed,,0,0,0,,What did you eat yesterday?
+Dialogue: 0,0:36:48.89,0:36:50.62,normal_Wed,,0,0,0,,What did you eat yesterday? \N -You realized?
+Dialogue: 0,0:36:50.75,0:36:52.92,normal_Wed,,0,0,0,,Did you eat garlic?
+Dialogue: 0,0:36:52.92,0:36:56.59,normal_Wed,,0,0,0,,Why didn't you say that? Why didn't you say that?
+Dialogue: 0,0:36:57.06,0:36:58.93,normal_Wed,,0,0,0,,There's a camera recording
+Dialogue: 0,0:36:59.06,0:37:00.93,normal_Wed,,0,0,0,,I thought it was your normal state
+Dialogue: 0,0:37:00.93,0:37:02.37,normal_Wed,,0,0,0,,What do you mean by "normal"?
+Dialogue: 0,0:37:02.57,0:37:04.80,normal_Wed,,0,0,0,,I thought it was common
+Dialogue: 0,0:37:05.04,0:37:09.27,normal_Wed,,0,0,0,,On the other side, Iguchi captured this trio
+Dialogue: 0,0:37:09.27,0:37:15.93,normal_Wed,,0,0,0,,They said they wanted to be weighed, but they're both 106kg
+Dialogue: 0,0:37:15.93,0:37:17.61,normal_Wed,,0,0,0,,I couldn't
+Dialogue: 0,0:37:17.61,0:37:20.12,normal_Wed,,0,0,0,,106 \N -Yes
+Dialogue: 0,0:37:20.12,0:37:23.01,normal_Wed,,0,0,0,,It was very traumatizing, and they're still the same weight
+Dialogue: 0,0:37:23.61,0:37:28.02,normal_Wed,,0,0,0,,Not even pointed out at the end
+Dialogue: 0,0:37:28.02,0:37:29.33,normal_Wed,,0,0,0,,I thought it was Anri
+Dialogue: 0,0:37:29.33,0:37:31.83,normal_Wed,,0,0,0,,I just finished. \N -What a mess
+Dialogue: 0,0:37:31.83,0:37:33.80,normal_Wed,,0,0,0,,All mixed up.\N  -Yeah
+Dialogue: 0,0:37:33.80,0:37:35.90,normal_Wed,,0,0,0,,Why have you just eaten?
+Dialogue: 0,0:37:36.14,0:37:41.06,normal_Wed,,0,0,0,,The same goes for Komiya who met Yasushi Ishida at the Yoshimoto Head Office
+Dialogue: 0,0:37:39.13,0:37:40.91,wipe_Wed,,0,0,0,,A big senior
+Dialogue: 0,0:37:41.80,0:37:43.44,normal_Wed,,0,0,0,,Something stinks
+Dialogue: 0,0:37:44.31,0:37:47.91,normal_Wed,,0,0,0,,You knew it.  \N-Yes, but it's not polite to say that on a first meeting
+Dialogue: 0,0:37:47.91,0:37:49.68,normal_Wed,,0,0,0,,There's a reason for that, too
+Dialogue: 0,0:37:57.39,0:37:59.32,wipe_Wed,,0,0,0,,If you're not close, you won't say anything
+Dialogue: 0,0:37:50.06,0:37:57.88,normal_Wed,,0,0,0,,All three groups smelt it, but it was still hard to get them to point it out
+Dialogue: 0,0:37:59.32,0:38:04.34,normal_Wed,,0,0,0,,At this point, the next thing Fujimoto saw was
+Dialogue: 0,0:38:04.49,0:38:06.16,normal_Wed,,0,0,0,,Got one \N -Yes, hello
+Dialogue: 0,0:38:04.34,0:38:09.57,wipe_Wed,,0,0,0,,Ishida seems like he's going to laugh and comment
+Dialogue: 0,0:38:07.26,0:38:09.86,normal_Wed,,0,0,0,,NON STYLE's Ishida
+Dialogue: 0,0:38:10.47,0:38:13.08,normal_Wed,,0,0,0,,One that you found hard  \N-Physically tiring
+Dialogue: 0,0:38:13.08,0:38:18.51,normal_Wed,,0,0,0,,There was an Osaka Castle Dream Festival that lasted 9 days
+Dialogue: 0,0:38:18.51,0:38:19.94,normal_Wed,,0,0,0,,Yes, yes, yes, yes
+Dialogue: 0,0:38:19.94,0:38:24.18,normal_Wed,,0,0,0,,I did 54 shows in nine days
+Dialogue: 0,0:38:24.18,0:38:27.62,normal_Wed,,0,0,0,,Fifty-four?
+Dialogue: 0,0:38:28.89,0:38:30.49,normal_Wed,,0,0,0,,The stinky "54" is flying out
+Dialogue: 0,0:38:30.59,0:38:33.09,normal_Wed,,0,0,0,,I was on so many
+Dialogue: 0,0:38:33.09,0:38:35.16,normal_Wed,,0,0,0,,It was super exhausting
+Dialogue: 0,0:38:35.16,0:38:40.12,normal_Wed,,0,0,0,,54 \N -54
+Dialogue: 0,0:38:39.45,0:38:40.87,wipe_Wed,,0,0,0,,So exaggerated
+Dialogue: 0,0:38:40.69,0:38:44.15,normal_Wed,,0,0,0,,Despite increasing in an attempt to elicit a response
+Dialogue: 0,0:38:45.21,0:38:48.30,normal_Wed,,0,0,0,,This time the other side didn't point it out either
+Dialogue: 0,0:38:48.67,0:38:50.27,normal_Wed,,0,0,0,,Is your nose clogged?
+Dialogue: 0,0:38:50.89,0:38:55.24,normal_Wed,,0,0,0,,I have paranasal sinusitis \N -An infection?
+Dialogue: 0,0:38:54.37,0:38:55.67,wipe_Wed,,0,0,0,,Didn't realize
+Dialogue: 0,0:38:55.67,0:39:05.56,normal_Wed,,0,0,0,,Then they found Alco&Peace, Gerard, and New York
+Dialogue: 0,0:39:06.09,0:39:08.79,normal_Wed,,0,0,0,,Shinya is about 40kg for three people
+Dialogue: 0,0:39:09.09,0:39:13.10,normal_Wed,,0,0,0,,It doesn't even look like they're going to point it out
+Dialogue: 0,0:39:14.70,0:39:20.37,normal_Wed,,0,0,0,,So, Iguchi ate five more chunks of garlic
+Dialogue: 0,0:39:20.37,0:39:22.01,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:39:23.11,0:39:24.41,normal_Wed,,0,0,0,,Mukai's here
+Dialogue: 0,0:39:24.33,0:39:26.02,wipe_Wed,,0,0,0,,Doesn't look like the type
+Dialogue: 0,0:39:25.24,0:39:29.49,normal_Wed,,0,0,0,,A member of Panther is encountered while recording
+Dialogue: 0,0:39:29.81,0:39:33.20,normal_Wed,,0,0,0,,It feels like you've done a lot of work.\N  -Sort of
+Dialogue: 0,0:39:33.20,0:39:35.75,normal_Wed,,0,0,0,,Outside.\N  -Yes, yes, yes
+Dialogue: 0,0:39:35.75,0:39:38.42,normal_Wed,,0,0,0,,The studio, and all these broadcasts
+Dialogue: 0,0:39:38.42,0:39:43.33,normal_Wed,,0,0,0,,Broadcasting is the toughest
+Dialogue: 0,0:39:43.33,0:39:46.00,normal_Wed,,0,0,0,,Don't you think something stinks?
+Dialogue: 0,0:39:46.00,0:39:47.63,normal_Wed,,0,0,0,,Don't you think something stinks?
+Dialogue: 0,0:39:47.63,0:39:49.43,normal_Wed,,0,0,0,,What do you mean, what's going on?
+Dialogue: 0,0:39:49.43,0:39:50.97,normal_Wed,,0,0,0,,Stinks!
+Dialogue: 0,0:39:50.97,0:39:52.30,normal_Wed,,0,0,0,,What? What stench?
+Dialogue: 0,0:39:52.50,0:39:54.67,normal_Wed,,0,0,0,,It stinks
+Dialogue: 0,0:39:54.67,0:39:55.74,normal_Wed,,0,0,0,,What? Sorry, sorry, sorry
+Dialogue: 0,0:39:56.01,0:39:57.71,normal_Wed,,0,0,0,,What? What stench?
+Dialogue: 0,0:39:57.84,0:40:00.18,normal_Wed,,0,0,0,,Garlic odor  \N-Garlic odor?
+Dialogue: 0,0:40:00.93,0:40:02.37,normal_Wed,,0,0,0,,Yeah!
+Dialogue: 0,0:40:02.37,0:40:04.11,normal_Wed,,0,0,0,,Oh, its you \N -Stinky! Stinky! Stinky!
+Dialogue: 0,0:40:04.11,0:40:06.01,normal_Wed,,0,0,0,,Thank you \N -Stinks so much
+Dialogue: 0,0:40:06.58,0:40:11.38,normal_Wed,,0,0,0,,So, finally some success
+Dialogue: 0,0:40:12.26,0:40:15.73,special_Wed_2_0,,0,0,0,,Truth Revealed
+Dialogue: 0,0:40:13.27,0:40:15.73,normal_Wed,,0,0,0,,It's also surprisingly difficult to say "have you eaten garlic?"
+Dialogue: 0,0:40:16.73,0:40:19.70,normal_Wed,,0,0,0,,No no, its too much
+Dialogue: 0,0:40:19.70,0:40:21.73,normal_Wed,,0,0,0,,You'd have to say it
+Dialogue: 0,0:40:21.73,0:40:26.77,normal_Wed,,0,0,0,,Honestly, I couldn't even listen to what he was saying
+Dialogue: 0,0:40:27.21,0:40:30.96,normal_Wed,,0,0,0,,Elsewhere with Komiya
+Dialogue: 0,0:40:31.64,0:40:33.48,normal_Wed,,0,0,0,,He found Rice
+Dialogue: 0,0:40:32.80,0:40:34.56,wipe_Wed,,0,0,0,,Sekimachi is just like a middle-aged woman
+Dialogue: 0,0:40:35.62,0:40:37.69,normal_Wed,,0,0,0,,Are you trying to popularize that line from the beginning?
+Dialogue: 0,0:40:37.69,0:40:39.93,normal_Wed,,0,0,0,,I've been doing it for about 5 years or so
+Dialogue: 0,0:40:39.93,0:40:41.81,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:40:41.81,0:40:45.09,normal_Wed,,0,0,0,,Maybe the next time we come back will be two years from now, so I have to try
+Dialogue: 0,0:40:47.03,0:40:48.13,normal_Wed,,0,0,0,,It had to be said
+Dialogue: 0,0:40:48.26,0:40:51.96,normal_Wed,,0,0,0,,What was your toughest job?
+Dialogue: 0,0:40:51.96,0:40:53.46,normal_Wed,,0,0,0,,Probably LIVE STAND
+Dialogue: 0,0:40:55.70,0:41:01.17,normal_Wed,,0,0,0,,Yoshimoto's big comedy festival, LIVE STAND
+Dialogue: 0,0:40:58.57,0:41:00.42,wipe_Wed,,0,0,0,,Touching their noses
+Dialogue: 0,0:41:01.17,0:41:04.61,normal_Wed,,0,0,0,,Comedy festival
+Dialogue: 0,0:41:02.53,0:41:04.22,wipe_Wed,,0,0,0,,What's up?
+Dialogue: 0,0:41:04.61,0:41:06.38,normal_Wed,,0,0,0,,Doesn't it stink?
+Dialogue: 0,0:41:06.38,0:41:07.26,normal_Wed,,0,0,0,,It stinks
+Dialogue: 0,0:41:07.26,0:41:08.85,normal_Wed,,0,0,0,,Do you stink, Komiya, or is it outside?
+Dialogue: 0,0:41:08.85,0:41:10.41,normal_Wed,,0,0,0,,Yeah? Is it outside?
+Dialogue: 0,0:41:10.78,0:41:17.42,normal_Wed,,0,0,0,,It's hard... "LIVE STAND" in front of thousands of people!
+Dialogue: 0,0:41:18.29,0:41:20.96,normal_Wed,,0,0,0,,It stinks. Wait
+Dialogue: 0,0:41:22.02,0:41:23.29,normal_Wed,,0,0,0,,It stinks so bad I can't even talk
+Dialogue: 0,0:41:23.29,0:41:24.53,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:41:24.76,0:41:27.14,normal_Wed,,0,0,0,,Did you eat the garlic?
+Dialogue: 0,0:41:27.14,0:41:28.70,normal_Wed,,0,0,0,,Yeah!
+Dialogue: 0,0:41:29.12,0:41:33.78,normal_Wed,,0,0,0,,So Komiya also managed to pass
+Dialogue: 0,0:41:32.62,0:41:35.29,wipe_Wed,,0,0,0,,Everyone's so fast
+Dialogue: 0,0:41:35.14,0:41:39.84,normal_Wed,,0,0,0,,Komiya's a good choice since he's a junior
+Dialogue: 0,0:41:39.21,0:41:41.21,wipe_Wed,,0,0,0,,Yeah, it depends on the person
+Dialogue: 0,0:41:40.20,0:41:45.24,normal_Wed,,0,0,0,,As expected, both groups commented on their juniors
+Dialogue: 0,0:41:45.24,0:41:46.52,wipe_Wed,,0,0,0,,I'd say it to my juniors
+Dialogue: 0,0:41:46.52,0:41:54.86,normal_Wed,,0,0,0,,Fujimoto, a veteran with few seniors to talk to easily, is in a dangerous situation
+Dialogue: 0,0:41:56.53,0:41:59.96,normal_Wed,,0,0,0,,You're a senior, it can't be said
+Dialogue: 0,0:42:00.40,0:42:05.77,normal_Wed,,0,0,0,,Next, we met Kasuga, who wanted to say something, but the result was the same
+Dialogue: 0,0:42:05.77,0:42:07.12,normal_Wed,,0,0,0,,Nowadays
+Dialogue: 0,0:42:08.56,0:42:12.66,normal_Wed,,0,0,0,,The other guy didn't even flinch
+Dialogue: 0,0:42:14.34,0:42:19.28,normal_Wed,,0,0,0,,I won't eat garlic, i'll put it in
+Dialogue: 0,0:42:19.88,0:42:24.45,normal_Wed,,0,0,0,,After the garlic, Fujimoto's next target is...
+Dialogue: 0,0:42:24.75,0:42:26.77,normal_Wed,,0,0,0,,Okay, here we go\N You scared the shit out of me
+Dialogue: 0,0:42:26.77,0:42:28.39,normal_Wed,,0,0,0,,Scared me
+Dialogue: 0,0:42:28.22,0:42:29.70,wipe_Wed,,0,0,0,,He'll say it
+Dialogue: 0,0:42:28.97,0:42:33.40,normal_Wed,,0,0,0,,Despite being a junior, we have high hopes for Daisuke Miyagawa
+Dialogue: 0,0:42:33.40,0:42:36.13,normal_Wed,,0,0,0,,He'll surely say something
+Dialogue: 0,0:42:36.43,0:42:39.04,normal_Wed,,0,0,0,,He's got to say something
+Dialogue: 0,0:42:39.30,0:42:41.00,normal_Wed,,0,0,0,,Hello\N-Hello, what's up?
+Dialogue: 0,0:42:41.00,0:42:44.17,normal_Wed,,0,0,0,,Daisuke, it's been a long time, hasn't it? \N -Long time no see
+Dialogue: 0,0:42:44.17,0:42:45.17,normal_Wed,,0,0,0,,You scared me. What's going on?
+Dialogue: 0,0:42:46.45,0:42:48.18,normal_Wed,,0,0,0,,It's a TBS year-end special.\N  -What?
+Dialogue: 0,0:42:49.21,0:42:51.27,normal_Wed,,0,0,0,,Can I interview you? \N -Yes
+Dialogue: 0,0:42:52.21,0:42:55.52,normal_Wed,,0,0,0,,Wait, can I tell you something?\N  -What?
+Dialogue: 0,0:42:55.52,0:42:57.05,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:42:57.05,0:43:00.52,normal_Wed,,0,0,0,,Of all the jobs you've had this year. \N -Stinks, what is that?
+Dialogue: 0,0:43:00.52,0:43:02.26,normal_Wed,,0,0,0,,Seriously, what's going on?
+Dialogue: 0,0:43:02.26,0:43:03.89,normal_Wed,,0,0,0,,What?  \N -Don't you smell the stench?
+Dialogue: 0,0:43:03.89,0:43:06.33,normal_Wed,,0,0,0,,Stink? What?
+Dialogue: 0,0:43:09.33,0:43:11.43,normal_Wed,,0,0,0,,What's wrong? \N It stinks
+Dialogue: 0,0:43:13.14,0:43:14.10,normal_Wed,,0,0,0,,No, I'm sorry
+Dialogue: 0,0:43:14.17,0:43:15.32,normal_Wed,,0,0,0,,Daisuke you...
+Dialogue: 0,0:43:16.21,0:43:18.24,normal_Wed,,0,0,0,,It stinks! What's that smell? It stinks!
+Dialogue: 0,0:43:18.24,0:43:20.28,normal_Wed,,0,0,0,,It stinks, doesn't it?  \N-What?
+Dialogue: 0,0:43:20.41,0:43:22.55,normal_Wed,,0,0,0,,It stinks too much \N -Let me do the interview
+Dialogue: 0,0:43:22.55,0:43:25.18,normal_Wed,,0,0,0,,What? I'm pissed off
+Dialogue: 0,0:43:25.18,0:43:26.75,normal_Wed,,0,0,0,,What's the problem?  \N-It stinks
+Dialogue: 0,0:43:29.25,0:43:29.89,normal_Wed,,0,0,0,,What are you laughing at?
+Dialogue: 0,0:43:29.89,0:43:35.06,normal_Wed,,0,0,0,,You're definitely bad. You've got stomach problems. You're overworked. Your breath stinks
+Dialogue: 0,0:43:35.06,0:43:37.13,normal_Wed,,0,0,0,,Stand up. What do you look like?  \N-I'm serious
+Dialogue: 0,0:43:37.29,0:43:40.36,normal_Wed,,0,0,0,,Stop talking for a second
+Dialogue: 0,0:43:40.36,0:43:42.23,normal_Wed,,0,0,0,,Why is that? \N -Your mouth stinks
+Dialogue: 0,0:43:42.23,0:43:44.70,normal_Wed,,0,0,0,,What? Can an interviewer be like this you asshole?
+Dialogue: 0,0:43:44.70,0:43:45.53,normal_Wed,,0,0,0,,That's too much!
+Dialogue: 0,0:43:45.53,0:43:47.60,normal_Wed,,0,0,0,,It is, but it just stinks
+Dialogue: 0,0:43:47.60,0:43:49.87,normal_Wed,,0,0,0,,I just smelled it and I almost threw up
+Dialogue: 0,0:43:49.87,0:43:51.31,normal_Wed,,0,0,0,,What's this? \N -Agh!
+Dialogue: 0,0:43:51.31,0:43:54.18,normal_Wed,,0,0,0,,You're so rude
+Dialogue: 0,0:43:54.18,0:43:56.35,normal_Wed,,0,0,0,,No, no, it's not right. It's not right. It's not right
+Dialogue: 0,0:43:56.35,0:43:58.61,normal_Wed,,0,0,0,,No, no, no, no, no
+Dialogue: 0,0:43:58.61,0:44:01.45,normal_Wed,,0,0,0,,It stinks. Seriously, what?
+Dialogue: 0,0:44:01.45,0:44:02.52,normal_Wed,,0,0,0,,What the hell? \N -Something's wrong.
+Dialogue: 0,0:44:02.52,0:44:06.59,normal_Wed,,0,0,0,,Tell me what your hardest job has been
+Dialogue: 0,0:44:08.76,0:44:10.79,normal_Wed,,0,0,0,,Let me think
+Dialogue: 0,0:44:10.79,0:44:12.63,normal_Wed,,0,0,0,,Yeah...
+Dialogue: 0,0:44:12.63,0:44:13.63,normal_Wed,,0,0,0,,"Yeah" stinks
+Dialogue: 0,0:44:15.53,0:44:16.70,normal_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:44:16.70,0:44:19.17,normal_Wed,,0,0,0,,Seriously, what did you eat? Seriously, what the hell?
+Dialogue: 0,0:44:19.17,0:44:22.61,normal_Wed,,0,0,0,,Can I have one breath please?
+Dialogue: 0,0:44:28.68,0:44:30.15,normal_Wed,,0,0,0,,It stinks
+Dialogue: 0,0:44:30.15,0:44:31.71,normal_Wed,,0,0,0,,Garlic and meat?
+Dialogue: 0,0:44:31.88,0:44:35.38,normal_Wed,,0,0,0,,He said it!
+Dialogue: 0,0:44:36.35,0:44:38.39,normal_Wed,,0,0,0,,He said it! \N -What are you doing here?
+Dialogue: 0,0:44:38.99,0:44:43.48,normal_Wed,,0,0,0,,So Fujimoto finally passed after the sixth try
+Dialogue: 0,0:44:44.26,0:44:47.56,normal_Wed,,0,0,0,,Daisuke, you're the first to point it out.  \N-No way
+Dialogue: 0,0:44:47.56,0:44:50.57,normal_Wed,,0,0,0,,Probably because i've been speaking to juniors
+Dialogue: 0,0:44:50.57,0:44:52.70,normal_Wed,,0,0,0,,But if you think about it, you're a junior too
+Dialogue: 0,0:44:52.70,0:44:54.77,normal_Wed,,0,0,0,,When I think about it, he's a junior too
+Dialogue: 0,0:44:54.77,0:44:55.64,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:44:55.64,0:45:00.37,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H3732FF&}In summary\N{\r}The juniors basically don't point out problems
+Dialogue: 0,0:45:00.37,0:45:02.61,normal_Wed,,0,0,0,,Very fun
+Dialogue: 0,0:45:02.61,0:45:05.64,normal_Wed,,0,0,0,,Why is it so funny to see people get hit by bad smells?
+Dialogue: 0,0:45:05.64,0:45:06.85,normal_Wed,,0,0,0,,Yeah, really
+Dialogue: 0,0:45:06.85,0:45:09.60,normal_Wed,,0,0,0,,Daisuke's reaction was very funny
+Dialogue: 0,0:45:09.60,0:45:12.42,normal_Wed,,0,0,0,,I met Fujimoto on that day
+Dialogue: 0,0:45:12.42,0:45:15.07,normal_Wed,,0,0,0,,Just wandering round the TV station
+Dialogue: 0,0:45:15.07,0:45:17.30,normal_Wed,,0,0,0,,You met him while they were filming?
+Dialogue: 0,0:45:17.30,0:45:19.49,normal_Wed,,0,0,0,,He stank \N  -Really?
+Dialogue: 0,0:45:19.49,0:45:20.37,normal_Wed,,0,0,0,,Did you say anything?
+Dialogue: 0,0:45:20.37,0:45:25.26,normal_Wed,,0,0,0,,When I met him, I greeted him
+Dialogue: 0,0:45:25.26,0:45:30.55,normal_Wed,,0,0,0,,I said something smelled bad, and he said, "Don't worry, its because of Wednesday Downtown"
+Dialogue: 0,0:45:30.55,0:45:32.54,normal_Wed,,0,0,0,,He explained
+Dialogue: 0,0:45:32.54,0:45:35.66,normal_Wed,,0,0,0,,I thought you wouldn't say anything
+Dialogue: 0,0:45:36.73,0:45:38.66,normal_Wed,,0,0,0,,That's a good point
+Dialogue: 0,0:45:38.66,0:45:42.34,normal_Wed,,0,0,0,,Even I would say it stinks
+Dialogue: 0,0:45:43.22,0:46:14.75,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

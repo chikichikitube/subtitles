@@ -1,0 +1,840 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2022-11-02) (Raw).mp4
+Video File: WDT (2022-11-02) (Raw).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 770
+Active Line: 793
+Video Position: 82248
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,13,13,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+Style: special_Wed_1_2,Arial,37,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,0,0,1,0,0,0,1
+Style: special_Wed_3_3,Arial,70,&H00000000,&H0000D6FF,&H00000000,&H0063D9E2,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,10,1
+Style: Lyrics - 复制,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,-1,0,0,100,120,0,0,1,3,1.5,7,10,200,135,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list_Gaki,Arial,50,&H000200B2,&H00FFFFFF,&H27FFFFFF,&HFF000000,0,0,0,0,100,130,0,0,1,2.5,0.1,8,750,10,65,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_2_B,Arial,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,3,3,2,5,0,0,5,1
+Style: special_Wed_说,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,135,0,0,1,3,1,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,115,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: note_Wed - mid,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,20,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.01,0:00:06.44,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 0,0:00:06.44,0:00:11.56,normal_Wed,,0,0,0,,Tonight we have several presenters
+Dialogue: 0,0:00:13.25,0:00:15.25,normal_Wed,,0,0,0,,It's the usual one, right?
+Dialogue: 0,0:00:19.38,0:00:21.34,normal_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:00:23.24,0:00:28.29,normal_Wed,,0,0,0,,Kotouge, Takahashi and Kasuga!
+Dialogue: 0,0:00:28.29,0:00:30.28,normal_Wed,,0,0,0,,Twoos! \N -A very loud voice
+Dialogue: 0,0:00:30.28,0:00:31.82,normal_Wed,,0,0,0,,Exactly the same!
+Dialogue: 0,0:00:31.82,0:00:33.68,normal_Wed,,0,0,0,,Who?  \N-Where?
+Dialogue: 0,0:00:33.68,0:00:35.35,normal_Wed,,0,0,0,,Exactly the same
+Dialogue: 0,0:00:35.35,0:00:37.94,normal_Wed,,0,0,0,,You have a problem with your eyesight
+Dialogue: 0,0:00:37.94,0:00:40.35,normal_Wed,,0,0,0,,So, all of us today
+Dialogue: 0,0:00:40.35,0:00:44.93,normal_Wed,,0,0,0,,Bring you the semi-annual "Everybody's Theories" special
+Dialogue: 0,0:00:44.93,0:00:46.12,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:01:03.44,0:01:06.55,normal_Wed,,0,0,0,,So, the first theory is this
+Dialogue: 0,0:01:07.74,0:01:13.43,normal_Wed,,0,0,0,,If you see a skinny bald guy in blue leather jacket in a TV station, you'll presume its Kotouge
+Dialogue: 0,0:01:14.60,0:01:16.48,normal_Wed,,0,0,0,,I guess you do have that style
+Dialogue: 0,0:01:16.48,0:01:17.62,normal_Wed,,0,0,0,,You do!
+Dialogue: 0,0:01:17.62,0:01:19.25,normal_Wed,,0,0,0,,Very much so
+Dialogue: 0,0:01:19.25,0:01:22.02,normal_Wed,,0,0,0,,It's the changing of the seasons\N  -I understand
+Dialogue: 0,0:01:22.02,0:01:24.42,normal_Wed,,0,0,0,,It's autumn!
+Dialogue: 0,0:01:24.42,0:01:26.48,normal_Wed,,0,0,0,,Seeing my leather jacket\N  -Yes
+Dialogue: 0,0:01:26.48,0:01:32.43,normal_Wed,,0,0,0,,It turns out that the staff of this program called him "thin blue leather jacket bald head"
+Dialogue: 0,0:01:32.43,0:01:34.06,normal_Wed,,0,0,0,,Well said
+Dialogue: 0,0:01:34.06,0:01:36.64,normal_Wed,,0,0,0,,I can't believe i'm thought of like that
+Dialogue: 0,0:01:36.64,0:01:37.74,normal_Wed,,0,0,0,,Skinny bald head
+Dialogue: 0,0:01:38.46,0:01:46.09,normal_Wed,,0,0,0,,If you see a skinny bald guy in blue leather jacket in a TV station, you'll presume its Kotouge
+Dialogue: 0,0:01:46.89,0:01:52.95,normal_Wed,,0,0,0,,Therefore, we prepared the blue leather jacket that Kotouge loves to wear
+Dialogue: 0,0:01:54.43,0:01:58.59,normal_Wed,,0,0,0,,This will be verified by a similarly bald-headed man, Hyouroku
+Dialogue: 0,0:01:57.42,0:01:59.77,wipe_Wed,,0,0,0,,What a skinny bald guy to get
+Dialogue: 0,0:01:58.90,0:02:05.37,normal_Wed,,0,0,0,,So, Hyouroku is placed in position
+Dialogue: 0,0:02:05.37,0:02:06.64,normal_Wed,,0,0,0,,It's Kotouge!
+Dialogue: 0,0:02:06.64,0:02:08.47,normal_Wed,,0,0,0,,Kotouge
+Dialogue: 0,0:02:08.92,0:02:11.12,normal_Wed,,0,0,0,,The 1st target is
+Dialogue: 0,0:02:10.43,0:02:12.54,wipe_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:02:13.36,0:02:15.14,normal_Wed,,0,0,0,,Diane's Tsuda
+Dialogue: 0,0:02:16.08,0:02:18.52,normal_Wed,,0,0,0,,What happens?
+Dialogue: 0,0:02:25.72,0:02:31.83,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:02:34.12,0:02:37.26,normal_Wed,,0,0,0,,"Who are you?" is written on his face
+Dialogue: 0,0:02:37.80,0:02:38.37,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:02:39.39,0:02:41.40,normal_Wed,,0,0,0,,A greeting was offered
+Dialogue: 0,0:02:42.92,0:02:44.48,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:02:46.14,0:02:47.62,normal_Wed,,0,0,0,,A beautiful double-take
+Dialogue: 0,0:02:52.02,0:02:53.75,normal_Wed,,0,0,0,,It's Kotouge...
+Dialogue: 0,0:02:54.05,0:02:56.99,normal_Wed,,0,0,0,,Everyone... everyone will fall for it
+Dialogue: 0,0:02:56.99,0:02:59.62,normal_Wed,,0,0,0,,You can't walk pass Kotouge...
+Dialogue: 0,0:02:59.62,0:03:05.88,normal_Wed,,0,0,0,,The next target is Asahi Nao
+Dialogue: 0,0:03:13.51,0:03:15.60,wipe_Wed,,0,0,0,,Didn't look
+Dialogue: 0,0:03:20.66,0:03:22.45,wipe_Wed,,0,0,0,,No such impression, right?
+Dialogue: 0,0:03:21.09,0:03:23.56,normal_Wed,,0,0,0,,She walks straight past
+Dialogue: 0,0:03:26.19,0:03:28.32,wipe_Wed,,0,0,0,,Why does he look so despondent?
+Dialogue: 0,0:03:26.94,0:03:29.48,normal_Wed,,0,0,0,,The final target is
+Dialogue: 0,0:03:28.32,0:03:30.76,wipe_Wed,,0,0,0,,Looks like he's asking "why!?"
+Dialogue: 0,0:03:30.76,0:03:34.53,normal_Wed,,0,0,0,,A direct junior from the same firm, Nishkikoi's Watanabe
+Dialogue: 0,0:03:36.42,0:03:38.18,normal_Wed,,0,0,0,,What happens?
+Dialogue: 0,0:03:37.22,0:03:39.58,wipe_Wed,,0,0,0,,Its possible they'll realize something is up
+Dialogue: 0,0:03:39.58,0:03:40.85,wipe_Wed,,0,0,0,,True
+Dialogue: 0,0:03:48.31,0:03:49.57,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:03:49.57,0:03:50.88,normal_Wed,,0,0,0,,Good morning \N -Ah!
+Dialogue: 0,0:03:50.88,0:03:53.71,normal_Wed,,0,0,0,,Sorry \N -Good morning
+Dialogue: 0,0:03:53.71,0:03:56.51,normal_Wed,,0,0,0,,Sorry. Good morning
+Dialogue: 0,0:03:56.51,0:03:58.85,normal_Wed,,0,0,0,,Good morning. Sorry. \N -Good morning
+Dialogue: 0,0:03:58.85,0:04:00.79,normal_Wed,,0,0,0,,Wrong person, sorry, sorry
+Dialogue: 0,0:04:00.79,0:04:03.36,normal_Wed,,0,0,0,,No, no
+Dialogue: 0,0:04:03.36,0:04:05.22,normal_Wed,,0,0,0,,Thanks for your hard work\N  -Thank you
+Dialogue: 0,0:04:05.22,0:04:07.39,wipe_Wed,,0,0,0,,There's nothing to be sorry about
+Dialogue: 0,0:04:07.39,0:04:10.83,wipe_Wed,,0,0,0,,There is another such person in the world!
+Dialogue: 0,0:04:16.23,0:04:17.98,wipe_Wed,,0,0,0,,No, right?
+Dialogue: 0,0:04:17.94,0:04:22.37,normal_Wed,,0,0,0,,I mistook him for Kotouge
+Dialogue: 0,0:04:22.37,0:04:27.08,normal_Wed,,0,0,0,,"I'm sorry for thinking of you as Kotouge just because of your baldness."
+Dialogue: 0,0:04:27.08,0:04:28.81,normal_Wed,,0,0,0,,I apologize profusely
+Dialogue: 0,0:04:31.78,0:04:38.69,normal_Wed,,0,0,0,,Seems he's not...
+Dialogue: 0,0:04:33.24,0:04:34.69,wipe_Wed,,0,0,0,,Background
+Dialogue: 0,0:04:35.61,0:04:39.87,wipe_Wed,,0,0,0,,We don't need him in the background!
+Dialogue: 0,0:04:38.96,0:04:42.09,normal_Wed,,0,0,0,,I don't want to be that kind of person
+Dialogue: 0,0:04:42.10,0:04:46.48,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r}Comedians will say hello
+Dialogue: 0,0:04:50.73,0:04:54.35,normal_Wed,,0,0,0,,Watanabe and I know each other very well
+Dialogue: 0,0:04:54.35,0:04:57.65,normal_Wed,,0,0,0,,I didn't expect him to fall for it
+Dialogue: 0,0:04:57.65,0:04:59.44,normal_Wed,,0,0,0,,I'd love to see the fake Kotogue!
+Dialogue: 0,0:04:59.44,0:05:02.69,normal_Wed,,0,0,0,,What would happen if Kotouge saw it?\N  -What would happen?
+Dialogue: 0,0:05:05.55,0:05:07.70,normal_Wed,,0,0,0,,Of course I wouldn't think "This is Kotouge, right?
+Dialogue: 0,0:05:07.70,0:05:08.78,normal_Wed,,0,0,0,,You'd ignore him?
+Dialogue: 0,0:05:10.47,0:05:14.80,normal_Wed,,0,0,0,,The next theory chosen by Takahashi is...
+Dialogue: 0,0:05:15.65,0:05:21.90,normal_Wed,,0,0,0,,The sound effect of cracking bones being played during an orthopedic won't be noticed
+Dialogue: 0,0:05:21.90,0:05:30.25,normal_Wed,,0,0,0,,Under this massage bed are speakers that will play the effect of sound to verify
+Dialogue: 0,0:05:31.96,0:05:32.93,wipe_Wed,,0,0,0,,It's close
+Dialogue: 0,0:05:32.93,0:05:34.97,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:05:37.65,0:05:41.86,normal_Wed,,0,0,0,,Sanshiro Komiya, who think this is their private time
+Dialogue: 0,0:05:42.61,0:05:44.53,wipe_Wed,,0,0,0,,Komiya is very perceptive
+Dialogue: 0,0:05:44.92,0:05:46.79,normal_Wed,,0,0,0,,So dirty
+Dialogue: 0,0:05:46.53,0:05:48.21,wipe_Wed,,0,0,0,,Enough!
+Dialogue: 0,0:05:48.21,0:05:50.30,wipe_Wed,,0,0,0,,So much whining
+Dialogue: 0,0:05:49.73,0:05:54.60,normal_Wed,,0,0,0,,Next is the orthopedic treatment of the lower back
+Dialogue: 0,0:05:54.60,0:05:57.58,normal_Wed,,0,0,0,,Will he realize?
+Dialogue: 0,0:05:58.04,0:05:59.84,normal_Wed,,0,0,0,,I'll shake you gently
+Dialogue: 0,0:06:00.17,0:06:01.71,normal_Wed,,0,0,0,,Please breathe in
+Dialogue: 0,0:06:00.08,0:06:02.95,wipe_Wed,,0,0,0,,What is the sound?
+Dialogue: 0,0:06:04.84,0:06:06.30,wipe_Wed,,0,0,0,,Very real
+Dialogue: 0,0:06:07.51,0:06:09.48,normal_Wed,,0,0,0,,Please turn over
+Dialogue: 0,0:06:09.95,0:06:14.02,normal_Wed,,0,0,0,,We'll do the same as just now
+Dialogue: 0,0:06:14.59,0:06:16.76,normal_Wed,,0,0,0,,Please breathe in
+Dialogue: 0,0:06:20.26,0:06:22.43,normal_Wed,,0,0,0,,Please tilt your head
+Dialogue: 0,0:06:22.59,0:06:25.23,normal_Wed,,0,0,0,,Here we go. Please exhale
+Dialogue: 0,0:06:30.00,0:06:32.07,normal_Wed,,0,0,0,,Go back
+Dialogue: 0,0:06:33.84,0:06:37.08,normal_Wed,,0,0,0,,Seems to have missed it completely
+Dialogue: 0,0:06:38.18,0:06:42.46,normal_Wed,,0,0,0,,The next verification is even bolder
+Dialogue: 0,0:06:43.55,0:06:45.18,normal_Wed,,0,0,0,,Please relax
+Dialogue: 0,0:06:45.98,0:06:47.92,normal_Wed,,0,0,0,,Please breathe in
+Dialogue: 0,0:06:47.92,0:06:48.92,normal_Wed,,0,0,0,,1  2
+Dialogue: 0,0:06:50.86,0:06:52.29,normal_Wed,,0,0,0,,Now the other side
+Dialogue: 0,0:06:53.53,0:06:54.99,normal_Wed,,0,0,0,,Please relax
+Dialogue: 0,0:06:55.53,0:06:56.49,normal_Wed,,0,0,0,,1  2
+Dialogue: 0,0:06:56.96,0:06:58.30,normal_Wed,,0,0,0,,Okay
+Dialogue: 0,0:06:57.14,0:06:59.14,wipe_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:07:00.47,0:07:01.77,normal_Wed,,0,0,0,,Is everything okay?
+Dialogue: 0,0:07:01.77,0:07:03.94,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:07:03.94,0:07:05.77,normal_Wed,,0,0,0,,Did it make a noise?
+Dialogue: 0,0:07:05.17,0:07:07.30,wipe_Wed,,0,0,0,,Certainly didn't feel anything
+Dialogue: 0,0:07:08.01,0:07:10.01,normal_Wed,,0,0,0,,Eh, huh?  \N-Is everything okay?
+Dialogue: 0,0:07:10.01,0:07:12.28,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:07:14.41,0:07:15.21,normal_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:07:15.21,0:07:16.28,normal_Wed,,0,0,0,,1  2
+Dialogue: 0,0:07:17.31,0:07:21.46,wipe_Wed,,0,0,0,,You'd surely realize
+Dialogue: 0,0:07:17.85,0:07:18.92,normal_Wed,,0,0,0,,1  2
+Dialogue: 0,0:07:23.19,0:07:24.89,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:07:25.66,0:07:27.35,normal_Wed,,0,0,0,,Is everything okay?
+Dialogue: 0,0:07:28.69,0:07:29.83,normal_Wed,,0,0,0,,What was it just now?
+Dialogue: 0,0:07:29.83,0:07:31.06,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:07:33.63,0:07:35.93,normal_Wed,,0,0,0,,Hmm?
+Dialogue: 0,0:07:40.31,0:07:41.84,normal_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:07:41.84,0:07:42.84,normal_Wed,,0,0,0,,Did you realize?
+Dialogue: 0,0:07:43.17,0:07:44.61,normal_Wed,,0,0,0,,Don't use noises!
+Dialogue: 0,0:07:46.01,0:07:50.61,normal_Wed,,0,0,0,,The next theory chosen by Takahashi is
+Dialogue: 0,0:07:51.42,0:07:56.53,normal_Wed,,0,0,0,,Blueberry Farmer Vision Test 2.0
+Dialogue: 0,0:07:57.31,0:08:03.43,normal_Wed,,0,0,0,,We came to this blueberry farm in Hachioji
+Dialogue: 0,0:08:08.53,0:08:11.54,normal_Wed,,0,0,0,,Sorry, we are from TBS
+Dialogue: 0,0:08:11.54,0:08:14.17,normal_Wed,,0,0,0,,Ok. \N -Ah...
+Dialogue: 0,0:08:14.17,0:08:15.91,normal_Wed,,0,0,0,,One wearing glasses!
+Dialogue: 0,0:08:17.49,0:08:21.91,normal_Wed,,0,0,0,,The next theory chosen by Takahashi is
+Dialogue: 0,0:08:22.66,0:08:29.96,normal_Wed,,0,0,0,,You can't complain if you  ordered the kaki set and was served persimmons
+Dialogue: 0,0:08:22.66,0:08:29.96,note_Wed - mid,,0,0,0,,{\blur4}※Both Japanese oyster and persimmon are pronounced as "kaki"
+Dialogue: 0,0:08:30.74,0:08:35.64,normal_Wed,,0,0,0,,With the assistance of this canteen
+Dialogue: 0,0:08:36.58,0:08:44.40,normal_Wed,,0,0,0,,We called out an unsuspecting male as a target
+Dialogue: 0,0:08:47.41,0:08:50.48,normal_Wed,,0,0,0,,Welcome!
+Dialogue: 0,0:08:50.48,0:08:53.14,normal_Wed,,0,0,0,,Would you like to order now?
+Dialogue: 0,0:08:53.14,0:08:56.28,normal_Wed,,0,0,0,,The fried kaki  \N-good
+Dialogue: 0,0:08:56.28,0:09:02.79,normal_Wed,,0,0,0,,So, he orders the recommended dish of the day, the fried kaki set
+Dialogue: 0,0:09:03.68,0:09:11.13,normal_Wed,,0,0,0,,But the dish served is made of persimmons cut into pieces
+Dialogue: 0,0:09:11.74,0:09:19.20,normal_Wed,,0,0,0,,Coated with wheat flour, egg wash, breadcrumbs and fried
+Dialogue: 0,0:09:20.01,0:09:23.14,normal_Wed,,0,0,0,,A fried persimmon set like this
+Dialogue: 0,0:09:24.02,0:09:27.55,normal_Wed,,0,0,0,,Although the appearance is difficult to distinguish
+Dialogue: 0,0:09:27.55,0:09:30.50,normal_Wed,,0,0,0,,The content is completely different
+Dialogue: 0,0:09:32.35,0:09:33.79,normal_Wed,,0,0,0,,Sorry for the wait
+Dialogue: 0,0:09:33.89,0:09:36.59,normal_Wed,,0,0,0,,Here's your order
+Dialogue: 0,0:09:36.59,0:09:37.96,normal_Wed,,0,0,0,,Please take your time
+Dialogue: 0,0:09:38.46,0:09:40.34,normal_Wed,,0,0,0,,And then...
+Dialogue: 0,0:09:45.85,0:09:49.18,normal_Wed,,0,0,0,,First he takes photos
+Dialogue: 0,0:09:50.22,0:09:52.56,normal_Wed,,0,0,0,,Then beings to eat
+Dialogue: 0,0:09:59.59,0:10:00.92,wipe_Wed,,0,0,0,,Very brittle, right?
+Dialogue: 0,0:10:06.94,0:10:08.44,wipe_Wed,,0,0,0,,Looked at the blackboard
+Dialogue: 0,0:10:08.44,0:10:11.30,wipe_Wed,,0,0,0,,It's time to eat
+Dialogue: 0,0:10:14.26,0:10:17.61,normal_Wed,,0,0,0,,Then took another picture
+Dialogue: 0,0:10:18.49,0:10:21.44,normal_Wed,,0,0,0,,Uploaded to Instagram
+Dialogue: 0,0:10:22.46,0:10:25.94,normal_Wed,,0,0,0,,Fried kaki set: 800 yen
+Dialogue: 0,0:10:25.94,0:10:29.04,normal_Wed,,0,0,0,,I can't believe it's the kaki of persimmon!
+Dialogue: 0,0:10:30.35,0:10:33.51,normal_Wed,,0,0,0,,Sees it as an interesting accident in daily life
+Dialogue: 0,0:10:33.93,0:10:35.62,normal_Wed,,0,0,0,,And then...
+Dialogue: 0,0:10:38.35,0:10:42.04,normal_Wed,,0,0,0,,Persimmons also have a unique flavor
+Dialogue: 0,0:10:42.66,0:10:45.08,normal_Wed,,0,0,0,,One after another
+Dialogue: 0,0:10:46.25,0:10:48.82,normal_Wed,,0,0,0,,All 4 pieces were eaten
+Dialogue: 0,0:10:50.30,0:10:55.36,normal_Wed,,0,0,0,,The 2nd target is this male
+Dialogue: 0,0:11:02.89,0:11:04.80,wipe_Wed,,0,0,0,,Looking first
+Dialogue: 0,0:11:04.80,0:11:07.20,wipe_Wed,,0,0,0,,It's different with Chinese characters
+Dialogue: 0,0:11:07.20,0:11:09.23,wipe_Wed,,0,0,0,,If the writing is Chinese characters you'd complain
+Dialogue: 0,0:11:09.23,0:11:12.05,wipe_Wed,,0,0,0,,It is written in Katakana
+Dialogue: 0,0:11:12.05,0:11:14.84,wipe_Wed,,0,0,0,,It does make sense
+Dialogue: 0,0:11:14.03,0:11:22.44,normal_Wed,,0,0,0,,He reads the board 3 times to confirm that the writing is true
+Dialogue: 0,0:11:23.39,0:11:26.32,normal_Wed,,0,0,0,,Also eaten completely
+Dialogue: 0,0:11:26.66,0:11:28.40,normal_Wed,,0,0,0,,Sorry to interrupt
+Dialogue: 0,0:11:28.40,0:11:30.03,normal_Wed,,0,0,0,,Kaki means persimmon?
+Dialogue: 0,0:11:30.03,0:11:31.47,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:11:31.47,0:11:35.37,normal_Wed,,0,0,0,,Also not complaining about the writing of kaki despite thinking it meant oysters
+Dialogue: 0,0:11:35.37,0:11:36.97,normal_Wed,,0,0,0,,I didn't think it was a persimmon, which is rare
+Dialogue: 0,0:11:36.97,0:11:39.28,normal_Wed,,0,0,0,,But...
+Dialogue: 0,0:11:39.38,0:11:41.72,normal_Wed,,0,0,0,,Also quite delicious
+Dialogue: 0,0:11:43.38,0:11:47.72,normal_Wed,,0,0,0,,The next theory chosen by Takahashi is
+Dialogue: 0,0:11:48.48,0:11:52.98,normal_Wed,,0,0,0,,Nowadays, elementary school students do not know the word "sewer"
+Dialogue: 0,0:11:53.96,0:11:55.86,normal_Wed,,0,0,0,,Do you know dobu?
+Dialogue: 0,0:11:55.86,0:11:57.66,normal_Wed,,0,0,0,,No idea
+Dialogue: 0,0:11:57.66,0:11:59.26,normal_Wed,,0,0,0,,What do you think it is?
+Dialogue: 0,0:11:59.53,0:12:02.13,normal_Wed,,0,0,0,,Is it a type of container?
+Dialogue: 0,0:12:02.47,0:12:03.97,normal_Wed,,0,0,0,,Do you know dobu?
+Dialogue: 0,0:12:03.97,0:12:05.70,normal_Wed,,0,0,0,,I don't know \N -I don't know
+Dialogue: 0,0:12:05.05,0:12:06.91,wipe_Wed,,0,0,0,,Not anymore?
+Dialogue: 0,0:12:06.00,0:12:08.32,normal_Wed,,0,0,0,,Plant?
+Dialogue: 0,0:12:08.47,0:12:09.81,normal_Wed,,0,0,0,,No idea
+Dialogue: 0,0:12:09.81,0:12:11.34,normal_Wed,,0,0,0,,What do you think it is?
+Dialogue: 0,0:12:11.34,0:12:13.48,normal_Wed,,0,0,0,,A fish
+Dialogue: 0,0:12:15.01,0:12:18.27,normal_Wed,,0,0,0,,As expected, no one knows
+Dialogue: 0,0:12:18.72,0:12:21.55,normal_Wed,,0,0,0,,Do you know dobu?
+Dialogue: 0,0:12:25.09,0:12:27.22,normal_Wed,,0,0,0,,Mobile App?
+Dialogue: 0,0:12:28.84,0:12:33.23,normal_Wed,,0,0,0,,The final theory chosen by Takahashi is
+Dialogue: 0,0:12:33.74,0:12:38.04,normal_Wed,,0,0,0,,Suzumi Muneo is the strongest of reaching-out-of-the-car
+Dialogue: 0,0:12:38.24,0:12:40.30,normal_Wed,,0,0,0,,What does strongest mean?
+Dialogue: 0,0:12:41.04,0:12:46.38,normal_Wed,,0,0,0,,Candidates are not obligated to wear seat belts during the election period
+Dialogue: 0,0:12:46.38,0:12:53.08,normal_Wed,,0,0,0,,And they can wave to voters by poking their body out of the car window
+Dialogue: 0,0:12:54.11,0:12:56.99,normal_Wed,,0,0,0,,And Suzuki Muneo...
+Dialogue: 0,0:12:58.81,0:13:03.05,normal_Wed,,0,0,0,,Presents his body in a very unique fashion
+Dialogue: 0,0:13:10.45,0:13:11.93,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:13:28.30,0:13:34.62,normal_Wed,,0,0,0,,It can be said that this exceeds the concept of reaching out of the car
+Dialogue: 0,0:13:37.20,0:13:39.26,normal_Wed,,0,0,0,,So, there we go
+Dialogue: 0,0:13:39.26,0:13:42.01,normal_Wed,,0,0,0,,Is it possible to do that during the election?
+Dialogue: 0,0:13:42.01,0:13:43.18,normal_Wed,,0,0,0,,Yes, you can
+Dialogue: 0,0:13:43.30,0:13:46.10,normal_Wed,,0,0,0,,Does it influence the vote?
+Dialogue: 0,0:13:46.10,0:13:48.74,normal_Wed,,0,0,0,,If they do it badly it wont help
+Dialogue: 0,0:13:48.74,0:13:50.44,normal_Wed,,0,0,0,,No problem if its the "head extension party"
+Dialogue: 0,0:13:50.44,0:13:52.57,normal_Wed,,0,0,0,,Everyone who stretches out of cars
+Dialogue: 0,0:13:54.53,0:13:59.29,normal_Wed,,0,0,0,,Next is a theory chosen by Kotouge
+Dialogue: 0,0:13:59.29,0:14:02.69,normal_Wed,,0,0,0,,So, the theory I choose is this...
+Dialogue: 0,0:14:03.58,0:14:08.26,normal_Wed,,0,0,0,,It's hard to crack shells with a stone on your stomach like a sea otter
+Dialogue: 0,0:14:08.26,0:14:10.73,normal_Wed,,0,0,0,,That's for sure
+Dialogue: 0,0:14:10.73,0:14:12.33,normal_Wed,,0,0,0,,Must be a lot of work
+Dialogue: 0,0:14:12.33,0:14:16.83,normal_Wed,,0,0,0,,This time we tested whether humans can do the same as sea otters
+Dialogue: 0,0:14:16.83,0:14:20.88,normal_Wed,,0,0,0,,A realistic sea otter tournament was held
+Dialogue: 0,0:14:20.88,0:14:22.48,normal_Wed,,0,0,0,,Realistic Sea Otter Tournament
+Dialogue: 0,0:14:22.48,0:14:26.61,normal_Wed,,0,0,0,,I didn't hear about the registration for this tournament
+Dialogue: 0,0:14:26.61,0:14:28.34,normal_Wed,,0,0,0,,If you heard would you have signed up?
+Dialogue: 0,0:14:28.34,0:14:29.61,normal_Wed,,0,0,0,,If I heard about it, of course
+Dialogue: 0,0:14:29.61,0:14:31.60,normal_Wed,,0,0,0,,Realistic sea otter tournament?
+Dialogue: 0,0:14:31.60,0:14:33.32,normal_Wed,,0,0,0,,But I wouldn't really want to do it in the morning
+Dialogue: 0,0:14:33.32,0:14:35.13,normal_Wed,,0,0,0,,There is no difference in the afternoon, right?
+Dialogue: 0,0:14:35.13,0:14:38.10,normal_Wed,,0,0,0,,It's the same in the morning and afternoon, right?
+Dialogue: 0,0:14:38.98,0:14:46.44,normal_Wed,,0,0,0,,It's hard to crack shells with a stone on your stomach like a sea otter
+Dialogue: 0,0:14:47.54,0:14:49.95,normal_Wed,,0,0,0,,Realistic Sea Otter Tournament
+Dialogue: 0,0:14:51.36,0:14:55.94,normal_Wed,,0,0,0,,Participating in the challenge are these 3 comedians
+Dialogue: 0,0:14:56.99,0:15:04.02,normal_Wed,,0,0,0,,The first person to crack open and eat 5 clams wins
+Dialogue: 0,0:15:04.87,0:15:10.62,normal_Wed,,0,0,0,,First each choose a stone to crack open the clams
+Dialogue: 0,0:15:11.72,0:15:14.46,normal_Wed,,0,0,0,,This... will my stomach be okay?
+Dialogue: 0,0:15:15.36,0:15:19.33,normal_Wed,,0,0,0,,These are very dangerous to use to smash the stomach
+Dialogue: 0,0:15:20.08,0:15:24.14,normal_Wed,,0,0,0,,Realistic Sea Otter Tournament - Start!
+Dialogue: 0,0:15:24.14,0:15:26.47,normal_Wed,,0,0,0,,It's begun!
+Dialogue: 0,0:15:26.47,0:15:28.96,normal_Wed,,0,0,0,,Ogata is going for it!
+Dialogue: 0,0:15:28.96,0:15:31.30,normal_Wed,,0,0,0,,Smash failed!
+Dialogue: 0,0:15:31.30,0:15:33.77,normal_Wed,,0,0,0,,The stone hit the stomach
+Dialogue: 0,0:15:33.77,0:15:36.46,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:15:38.37,0:15:40.24,normal_Wed,,0,0,0,,Clams are flying!
+Dialogue: 0,0:15:40.24,0:15:43.33,normal_Wed,,0,0,0,,Micho smashes!
+Dialogue: 0,0:15:43.33,0:15:44.92,normal_Wed,,0,0,0,,Ogata is in pain!
+Dialogue: 0,0:15:44.92,0:15:46.36,normal_Wed,,0,0,0,,This hurts!
+Dialogue: 0,0:15:46.72,0:15:50.46,normal_Wed,,0,0,0,,Unexpected blows to the stomach
+Dialogue: 0,0:15:50.46,0:15:53.73,normal_Wed,,0,0,0,,All 3 people lose their spirit in the first move
+Dialogue: 0,0:15:53.73,0:15:57.64,normal_Wed,,0,0,0,,Not only is it difficult to hit the shells accurately
+Dialogue: 0,0:15:57.64,0:16:02.81,normal_Wed,,0,0,0,,A slight deviation and the stomach will be hit hard
+Dialogue: 0,0:16:03.73,0:16:08.48,normal_Wed,,0,0,0,,Michio completely hammered his stomach on the first attempt
+Dialogue: 0,0:16:10.20,0:16:13.01,normal_Wed,,0,0,0,,And has not yet started again
+Dialogue: 0,0:16:16.40,0:16:19.09,normal_Wed,,0,0,0,,But 2 minutes after starting...
+Dialogue: 0,0:16:23.69,0:16:25.50,normal_Wed,,0,0,0,,Success!
+Dialogue: 0,0:16:26.06,0:16:31.62,normal_Wed,,0,0,0,,Minamikawa hit the center of the shell with a sharp stone and succeeded in breaking it open
+Dialogue: 0,0:16:31.62,0:16:35.43,normal_Wed,,0,0,0,,Minamikawa opened the 1st shell
+Dialogue: 0,0:16:35.43,0:16:38.81,normal_Wed,,0,0,0,,How about Ogata? Can he catch up with Minamikawa?
+Dialogue: 0,0:16:38.81,0:16:41.80,normal_Wed,,0,0,0,,This one... one is out!
+Dialogue: 0,0:16:41.80,0:16:43.78,normal_Wed,,0,0,0,,Minamikawa gets the 1st piece of shellfish
+Dialogue: 0,0:16:43.78,0:16:47.62,normal_Wed,,0,0,0,,Then the clams are sent to the iron plate
+Dialogue: 0,0:16:47.62,0:16:52.12,normal_Wed,,0,0,0,,For safety, the clams are cooked first before being eaten
+Dialogue: 0,0:16:50.81,0:16:53.08,wipe_Wed,,0,0,0,,Really considerate
+Dialogue: 0,0:16:53.08,0:16:59.08,normal_Wed,,0,0,0,,As Minamikawa eats a hot clam he's one step ahead
+Dialogue: 0,0:16:59.08,0:17:00.48,normal_Wed,,0,0,0,,Minamikawa is burnt!
+Dialogue: 0,0:17:01.58,0:17:03.89,normal_Wed,,0,0,0,,Can Ogata catch up?
+Dialogue: 0,0:17:03.89,0:17:05.58,normal_Wed,,0,0,0,,Cracked open!
+Dialogue: 0,0:17:05.58,0:17:09.27,normal_Wed,,0,0,0,,Ogata has also succeeded!
+Dialogue: 0,0:17:09.27,0:17:11.63,normal_Wed,,0,0,0,,He's catching up
+Dialogue: 0,0:17:11.63,0:17:13.43,normal_Wed,,0,0,0,,How about Michio?
+Dialogue: 0,0:17:14.28,0:17:16.65,normal_Wed,,0,0,0,,Wait a minute...can't fix it at all
+Dialogue: 0,0:17:16.95,0:17:18.42,normal_Wed,,0,0,0,,The stomach is no good
+Dialogue: 0,0:17:18.42,0:17:21.11,normal_Wed,,0,0,0,,Does a flabby tummy absorb the pressure?
+Dialogue: 0,0:17:21.11,0:17:22.94,normal_Wed,,0,0,0,,My stomach is no good
+Dialogue: 0,0:17:23.50,0:17:28.75,normal_Wed,,0,0,0,,Ogata is also covered in clam juice
+Dialogue: 0,0:17:28.75,0:17:31.82,normal_Wed,,0,0,0,,Minamikawa gets his 2nd
+Dialogue: 0,0:17:31.82,0:17:34.42,normal_Wed,,0,0,0,,Ogata is still trying to get his second one
+Dialogue: 0,0:17:34.42,0:17:35.97,normal_Wed,,0,0,0,,I have the talent to be a sea otter
+Dialogue: 0,0:17:35.97,0:17:37.18,normal_Wed,,0,0,0,,Oh, got it!
+Dialogue: 0,0:17:37.27,0:17:39.60,normal_Wed,,0,0,0,,What is "the talent to be a sea otter"?
+Dialogue: 0,0:17:39.82,0:17:45.50,normal_Wed,,0,0,0,,The gap between Ogata and Minamikawa is gradually lessening as the competition is fierce
+Dialogue: 0,0:17:46.47,0:17:48.41,normal_Wed,,0,0,0,,Opened the 3rd one!
+Dialogue: 0,0:17:48.41,0:17:53.86,normal_Wed,,0,0,0,,And Michio has yet to open one
+Dialogue: 0,0:17:55.77,0:17:57.38,normal_Wed,,0,0,0,,And then...
+Dialogue: 0,0:17:59.36,0:18:02.20,normal_Wed,,0,0,0,,On this side, both have just one left
+Dialogue: 0,0:18:03.38,0:18:06.58,normal_Wed,,0,0,0,,1 more 1 more
+Dialogue: 0,0:18:06.58,0:18:08.95,normal_Wed,,0,0,0,,Will Ogata be the winner?
+Dialogue: 0,0:18:08.95,0:18:10.54,normal_Wed,,0,0,0,,Ah! It hit his face!
+Dialogue: 0,0:18:10.54,0:18:16.89,normal_Wed,,0,0,0,,A flying clam hit his face!
+Dialogue: 0,0:18:17.82,0:18:19.84,normal_Wed,,0,0,0,,Next to him
+Dialogue: 0,0:18:20.47,0:18:24.01,normal_Wed,,0,0,0,,It's open, but not quite
+Dialogue: 0,0:18:24.01,0:18:26.05,normal_Wed,,0,0,0,,Its cracked!
+Dialogue: 0,0:18:26.05,0:18:27.35,normal_Wed,,0,0,0,,It's cracked. It's close. \N -It's already cracked
+Dialogue: 0,0:18:27.35,0:18:29.70,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:18:29.70,0:18:34.06,normal_Wed,,0,0,0,,For some reason, Ogata now places the clam very low
+Dialogue: 0,0:18:35.12,0:18:38.10,normal_Wed,,0,0,0,,Oh, it's open!
+Dialogue: 0,0:18:39.13,0:18:41.92,normal_Wed,,0,0,0,,Smashed open!
+Dialogue: 0,0:18:43.16,0:18:47.03,normal_Wed,,0,0,0,,Ogata smashes the last clam by sheer willpower alone
+Dialogue: 0,0:18:47.03,0:18:50.74,normal_Wed,,0,0,0,,He's finished eating 5 of them
+Dialogue: 0,0:18:50.74,0:18:54.79,normal_Wed,,0,0,0,,So the winner of the Realistic Sea Otter Championship is Ogata!
+Dialogue: 0,0:18:54.80,0:18:56.70,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:18:59.09,0:19:00.12,normal_Wed,,0,0,0,,Damn
+Dialogue: 0,0:19:00.32,0:19:03.25,normal_Wed,,0,0,0,,It really hurts. I have dark skin so I can't see it
+Dialogue: 0,0:19:03.25,0:19:06.76,normal_Wed,,0,0,0,,This... should not be broadcast
+Dialogue: 0,0:19:06.76,0:19:08.71,normal_Wed,,0,0,0,,This is also my own work
+Dialogue: 0,0:19:08.71,0:19:10.49,normal_Wed,,0,0,0,,Not smashed by others
+Dialogue: 0,0:19:10.49,0:19:11.96,normal_Wed,,0,0,0,,Yes, although some want to
+Dialogue: 0,0:19:11.96,0:19:13.13,normal_Wed,,0,0,0,,There's no reason to be hit b y others
+Dialogue: 0,0:19:13.13,0:19:14.17,normal_Wed,,0,0,0,,Yes, no reason
+Dialogue: 0,0:19:14.02,0:19:15.48,wipe_Wed,,0,0,0,,He's turning red
+Dialogue: 0,0:19:14.48,0:19:16.57,normal_Wed,,0,0,0,,And then...
+Dialogue: 0,0:19:16.57,0:19:18.44,normal_Wed,,0,0,0,,Want to see the sea otter model?
+Dialogue: 0,0:19:18.44,0:19:19.54,normal_Wed,,0,0,0,,Want to see
+Dialogue: 0,0:19:19.74,0:19:22.07,normal_Wed,,0,0,0,,Want to watch, want to learn!
+Dialogue: 0,0:19:22.07,0:19:26.64,normal_Wed,,0,0,0,,So lets take a look
+Dialogue: 0,0:19:28.05,0:19:30.65,normal_Wed,,0,0,0,,The location is very close to the bottom
+Dialogue: 0,0:19:30.65,0:19:32.92,normal_Wed,,0,0,0,,Eh, wait... \N -Hey
+Dialogue: 0,0:19:33.08,0:19:34.79,normal_Wed,,0,0,0,,Isn't the stone on the bottom?
+Dialogue: 0,0:19:35.15,0:19:36.39,normal_Wed,,0,0,0,,The stone is below
+Dialogue: 0,0:19:36.39,0:19:38.92,normal_Wed,,0,0,0,,It's the opposite of us
+Dialogue: 0,0:19:38.92,0:19:40.06,normal_Wed,,0,0,0,,The stone is placed underneath
+Dialogue: 0,0:19:40.06,0:19:43.63,normal_Wed,,0,0,0,,It uses the shell and smashes it downwards
+Dialogue: 0,0:19:43.76,0:19:45.80,normal_Wed,,0,0,0,,Surely more efficient
+Dialogue: 0,0:19:46.66,0:19:48.53,wipe_Wed,,0,0,0,,Sea otters are so smart
+Dialogue: 0,0:19:47.16,0:19:47.80,normal_Wed,,0,0,0,,No pain either
+Dialogue: 0,0:19:47.80,0:19:50.33,normal_Wed,,0,0,0,,What is it? \N -I don't know
+Dialogue: 0,0:19:50.33,0:19:53.04,normal_Wed,,0,0,0,,Tell us in advance!
+Dialogue: 0,0:19:53.04,0:19:55.47,normal_Wed,,0,0,0,,You only said "like a sea otter"
+Dialogue: 0,0:19:55.47,0:19:59.31,normal_Wed,,0,0,0,,You are the ones who decided to do the opposite
+Dialogue: 0,0:20:01.31,0:20:03.55,normal_Wed,,0,0,0,,Don't say that
+Dialogue: 0,0:20:03.55,0:20:07.82,normal_Wed,,0,0,0,,But we should be reminded how to do it
+Dialogue: 0,0:20:07.82,0:20:14.22,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r}The sea otter's practice and the imitation is the complete opposite
+Dialogue: 0,0:20:16.01,0:20:18.77,normal_Wed,,0,0,0,,That is, sea otters are smarter than they are
+Dialogue: 0,0:20:19.73,0:20:22.41,normal_Wed,,0,0,0,,But Ogata... \N -Yes, yes, yes
+Dialogue: 0,0:20:22.41,0:20:24.84,normal_Wed,,0,0,0,,Very forced
+Dialogue: 0,0:20:24.84,0:20:26.69,normal_Wed,,0,0,0,,Instead, it's a bit of a buzzkill
+Dialogue: 0,0:20:26.69,0:20:29.65,normal_Wed,,0,0,0,,Putting in the crotch seems very dangerous
+Dialogue: 0,0:20:29.65,0:20:32.84,normal_Wed,,0,0,0,,There was no interest here at all
+Dialogue: 0,0:20:47.96,0:20:52.56,normal_Wed,,0,0,0,,The next theory chosen by Kotouge is
+Dialogue: 0,0:20:53.33,0:21:00.91,normal_Wed,,0,0,0,,The order of popularity of Robert's members's full names should be Yamamoto Akiyama and Maba
+Dialogue: 0,0:21:01.64,0:21:05.88,normal_Wed,,0,0,0,,The most well-known surname is presumably Akiyama
+Dialogue: 0,0:21:05.88,0:21:11.13,normal_Wed,,0,0,0,,With the the most well-known full name presumably being Yamamoto Hiroshi
+Dialogue: 0,0:21:11.13,0:21:16.12,normal_Wed,,0,0,0,,So, a survey was conducted with 100 people who knew about Robert
+Dialogue: 0,0:21:16.32,0:21:19.12,normal_Wed,,0,0,0,,Baba, Akiyama and Yamamoto
+Dialogue: 0,0:21:19.42,0:21:22.59,normal_Wed,,0,0,0,,Do you know their full names?
+Dialogue: 0,0:21:22.59,0:21:26.40,normal_Wed,,0,0,0,,Well... I know Ryuji Akiyama
+Dialogue: 0,0:21:26.40,0:21:27.97,normal_Wed,,0,0,0,,Don't know the remaining two?
+Dialogue: 0,0:21:27.97,0:21:29.07,normal_Wed,,0,0,0,,No idea
+Dialogue: 0,0:21:29.07,0:21:31.97,normal_Wed,,0,0,0,,Akiyama Baba Yamamoto
+Dialogue: 0,0:21:31.97,0:21:35.51,normal_Wed,,0,0,0,,Hiroshi Yamamoto
+Dialogue: 0,0:21:35.71,0:21:36.91,normal_Wed,,0,0,0,,Only know Yamamoto's full name?
+Dialogue: 0,0:21:36.91,0:21:38.08,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:21:38.18,0:21:41.91,normal_Wed,,0,0,0,,Akiyama always called him by it
+Dialogue: 0,0:21:42.28,0:21:43.21,normal_Wed,,0,0,0,,After that too...
+Dialogue: 0,0:21:43.35,0:21:45.15,normal_Wed,,0,0,0,,Ryuji Akiyama
+Dialogue: 0,0:21:45.15,0:21:46.85,normal_Wed,,0,0,0,,Others I don't know
+Dialogue: 0,0:21:46.85,0:21:50.99,normal_Wed,,0,0,0,,Hiroshi Yamamoto
+Dialogue: 0,0:21:50.99,0:21:53.93,normal_Wed,,0,0,0,,Akiyama... eh?
+Dialogue: 0,0:21:53.93,0:21:57.63,normal_Wed,,0,0,0,,Ryuji Akiyama
+Dialogue: 0,0:21:57.63,0:22:01.67,normal_Wed,,0,0,0,,Hiroshi Yamamoto
+Dialogue: 0,0:22:01.67,0:22:03.23,normal_Wed,,0,0,0,,Baba...
+Dialogue: 0,0:22:03.23,0:22:06.28,normal_Wed,,0,0,0,,I don't know the name of Baba, sorry
+Dialogue: 0,0:22:07.16,0:22:10.05,normal_Wed,,0,0,0,,The survey results are shown in the figure
+Dialogue: 0,0:22:10.05,0:22:15.37,normal_Wed,,0,0,0,,The full name of the popularity is shown above
+Dialogue: 0,0:22:15.37,0:22:18.32,normal_Wed,,0,0,0,,The theory is verified
+Dialogue: 0,0:22:18.52,0:22:21.27,normal_Wed,,0,0,0,,What is the full name of Baba?
+Dialogue: 0,0:22:21.27,0:22:23.82,normal_Wed,,0,0,0,,Baba Hiroiki
+Dialogue: 0,0:22:23.82,0:22:25.96,normal_Wed,,0,0,0,,That's the right answer. \N -Really?
+Dialogue: 0,0:22:25.96,0:22:27.60,normal_Wed,,0,0,0,,I guessed
+Dialogue: 0,0:22:29.12,0:22:33.60,normal_Wed,,0,0,0,,The next theory chosen by Kotouge is
+Dialogue: 0,0:22:34.15,0:22:40.97,normal_Wed,,0,0,0,,People whose game of shiritori ends with "n" definitely say "ah"
+Dialogue: 0,0:22:41.17,0:22:43.37,normal_Wed,,0,0,0,,By the way there is another verification  \N-Okay
+Dialogue: 0,0:22:43.97,0:22:47.21,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:22:47.21,0:22:50.41,normal_Wed,,0,0,0,,Anyway, two person shiritori
+Dialogue: 0,0:22:50.41,0:22:51.82,normal_Wed,,0,0,0,,2 people? \N -Yes
+Dialogue: 0,0:22:51.82,0:22:53.78,normal_Wed,,0,0,0,,So Asahi will go first. \N -Ok
+Dialogue: 0,0:22:54.28,0:22:56.19,normal_Wed,,0,0,0,,kuruma (car)\N  -marimo (green algae)
+Dialogue: 0,0:22:56.19,0:22:58.46,normal_Wed,,0,0,0,,mozuku (sea foam)\N  -kurumi (walnut)
+Dialogue: 0,0:22:58.46,0:23:01.39,normal_Wed,,0,0,0,,mikazuki (new moon)\N  -kitutuki (woodpecker)
+Dialogue: 0,0:23:01.39,0:23:03.19,normal_Wed,,0,0,0,,kiiro (yellow)\N  -roba (donkey)
+Dialogue: 0,0:23:04.26,0:23:05.66,normal_Wed,,0,0,0,,tomato (tomato)\N  -toire (toilet)
+Dialogue: 0,0:23:05.66,0:23:06.46,normal_Wed,,0,0,0,,renkon (lotus root)
+Dialogue: 0,0:23:06.46,0:23:08.30,normal_Wed,,0,0,0,,Ah...
+Dialogue: 0,0:23:11.14,0:23:12.76,wipe_Wed,,0,0,0,,What is this atmosphere?
+Dialogue: 0,0:23:14.79,0:23:20.58,normal_Wed,,0,0,0,,Before doing a double jump with a jumping rope, you have to first jump normally three times
+Dialogue: 0,0:23:19.20,0:23:20.58,wipe_Wed,,0,0,0,,Equivalent to assisted running
+Dialogue: 0,0:23:21.31,0:23:23.71,normal_Wed,,0,0,0,,There is another theory that I would like you to test
+Dialogue: 0,0:23:23.81,0:23:27.45,normal_Wed,,0,0,0,,Please use this jump rope to do a double jump\N  -Double jump?
+Dialogue: 0,0:23:27.58,0:23:29.55,normal_Wed,,0,0,0,,At your own pace \N -OK
+Dialogue: 0,0:23:29.55,0:23:30.69,normal_Wed,,0,0,0,,Please.\N  -I'm ready
+Dialogue: 0,0:23:35.49,0:23:38.01,wipe_Wed,,0,0,0,,First, the normal jump three times\N  -Three times
+Dialogue: 0,0:23:40.80,0:23:42.30,normal_Wed,,0,0,0,,End of verification \N -What the heck!?
+Dialogue: 0,0:23:43.95,0:23:48.31,normal_Wed,,0,0,0,,The last theory chosen by Kotouge is...
+Dialogue: 0,0:23:49.15,0:23:57.28,normal_Wed,,0,0,0,,A "small but heavy item" can be held for about the same amount of time as a "large but light item"
+Dialogue: 0,0:23:58.71,0:24:00.41,normal_Wed,,0,0,0,,To help us test this theory
+Dialogue: 0,0:24:02.52,0:24:03.89,normal_Wed,,0,0,0,,What's up!?
+Dialogue: 0,0:24:04.41,0:24:08.08,normal_Wed,,0,0,0,,We called Westland's Inokichi for a fake program
+Dialogue: 0,0:24:09.29,0:24:10.63,normal_Wed,,0,0,0,,The fact that its Wednesday Downtown doesn't matter
+Dialogue: 0,0:24:10.63,0:24:12.60,normal_Wed,,0,0,0,,What the theory is what matters
+Dialogue: 0,0:24:12.60,0:24:14.43,normal_Wed,,0,0,0,,Anyway, can you take this first?
+Dialogue: 0,0:24:14.43,0:24:15.97,normal_Wed,,0,0,0,,So scary!
+Dialogue: 0,0:24:15.97,0:24:16.77,normal_Wed,,0,0,0,,No problem, right?
+Dialogue: 0,0:24:17.27,0:24:19.04,normal_Wed,,0,0,0,,Wow, it's heavy!
+Dialogue: 0,0:24:19.14,0:24:23.87,normal_Wed,,0,0,0,,This tungsten block the same volume as iron, but is 2.5 times the weight of iron
+Dialogue: 0,0:24:23.87,0:24:27.44,normal_Wed,,0,0,0,,It's a rare metal. \N -It's very heavy
+Dialogue: 0,0:24:27.44,0:24:31.95,normal_Wed,,0,0,0,,This is a challenge project to see how long you can last holding it
+Dialogue: 0,0:24:31.95,0:24:33.12,normal_Wed,,0,0,0,,Oh right
+Dialogue: 0,0:24:33.12,0:24:35.22,normal_Wed,,0,0,0,,Can you convey to the audience that this super heavy
+Dialogue: 0,0:24:35.22,0:24:37.04,normal_Wed,,0,0,0,,I don't know if the audience can understand
+Dialogue: 0,0:24:37.62,0:24:41.46,normal_Wed,,0,0,0,,Because this size of it makes it look very easy to hold
+Dialogue: 0,0:24:41.95,0:24:48.57,normal_Wed,,0,0,0,,We also didn't tell him about the additional verification of holding a large but light item
+Dialogue: 0,0:24:49.03,0:24:54.69,normal_Wed,,0,0,0,,So, we set up a fixed camera before leaving
+Dialogue: 0,0:24:52.22,0:24:53.42,wipe_Wed,,0,0,0,,Physical strength is no problem, right?
+Dialogue: 0,0:24:55.41,0:24:58.01,normal_Wed,,0,0,0,,What's the meaning of this?
+Dialogue: 0,0:24:57.93,0:25:01.14,wipe_Wed,,0,0,0,,Left him alone
+Dialogue: 0,0:25:01.88,0:25:06.18,normal_Wed,,0,0,0,,This is seriously heavy
+Dialogue: 0,0:25:06.66,0:25:10.22,normal_Wed,,0,0,0,,Putting the heavy object on one's chest or stomach
+Dialogue: 0,0:25:10.22,0:25:14.35,normal_Wed,,0,0,0,,Using body parts other than the palm of the hand is prohibited
+Dialogue: 0,0:25:14.35,0:25:15.84,wipe_Wed,,0,0,0,,A good rule
+Dialogue: 0,0:25:15.89,0:25:19.26,normal_Wed,,0,0,0,,Very painful,  the edge of the metal block is so sharp
+Dialogue: 0,0:25:20.01,0:25:23.39,normal_Wed,,0,0,0,,And so, an hour and 30 minutes passed
+Dialogue: 0,0:25:23.97,0:25:26.04,normal_Wed,,0,0,0,,I should eat
+Dialogue: 0,0:25:28.21,0:25:30.27,normal_Wed,,0,0,0,,Wait a minute, so heavy, ugh
+Dialogue: 0,0:25:30.27,0:25:32.61,normal_Wed,,0,0,0,,It's too hard to hold the top when you hold it with one hand
+Dialogue: 0,0:25:33.11,0:25:35.91,normal_Wed,,0,0,0,,My wrist hurts
+Dialogue: 0,0:25:35.91,0:25:39.52,normal_Wed,,0,0,0,,My wrist is starting to hurt, seriously
+Dialogue: 0,0:25:39.61,0:25:40.92,normal_Wed,,0,0,0,,The complaints are mounting
+Dialogue: 0,0:25:40.92,0:25:42.49,normal_Wed,,0,0,0,,This guy can really complain
+Dialogue: 0,0:25:43.15,0:25:46.39,normal_Wed,,0,0,0,,Even if you try to hold it again, it will be edited out, right?
+Dialogue: 0,0:25:46.39,0:25:49.09,normal_Wed,,0,0,0,,Last time I searched for chess pieces for so long
+Dialogue: 0,0:25:49.26,0:25:50.79,normal_Wed,,0,0,0,,Outside on location for 10 hours
+Dialogue: 0,0:25:50.79,0:25:53.76,normal_Wed,,0,0,0,,Why do I have to spend 10 hours just to be cut out?
+Dialogue: 0,0:25:54.13,0:25:56.53,normal_Wed,,0,0,0,,Why can't I go to a "Love it!" location shoot and eat delicious food?
+Dialogue: 0,0:25:56.89,0:26:00.27,normal_Wed,,0,0,0,,Three hours have passed since the start
+Dialogue: 0,0:26:00.27,0:26:01.39,wipe_Wed,,0,0,0,,Complaining so much but still trying hard
+Dialogue: 0,0:26:01.39,0:26:03.02,wipe_Wed,,0,0,0,,This 3 hours is not easy
+Dialogue: 0,0:26:05.01,0:26:06.38,normal_Wed,,0,0,0,,Ah...
+Dialogue: 0,0:26:07.56,0:26:08.85,normal_Wed,,0,0,0,,My back hurts too
+Dialogue: 0,0:26:08.85,0:26:11.68,normal_Wed,,0,0,0,,Not only wrist pain but also finger pain
+Dialogue: 0,0:26:11.93,0:26:15.65,normal_Wed,,0,0,0,,This is now full-body pain
+Dialogue: 0,0:26:15.51,0:26:18.79,wipe_Wed,,0,0,0,,It's hard, isn't it? \N -It's been 4 hours
+Dialogue: 0,0:26:19.89,0:26:21.33,normal_Wed,,0,0,0,,Ow ow ow
+Dialogue: 0,0:26:21.33,0:26:23.13,normal_Wed,,0,0,0,,OW!
+Dialogue: 0,0:26:23.13,0:26:24.16,normal_Wed,,0,0,0,,Ah! Ow!
+Dialogue: 0,0:26:19.99,0:26:22.91,wipe_Wed,,0,0,0,,Getting more screen time than expected at least \N -Keep going!
+Dialogue: 0,0:26:24.70,0:26:26.30,normal_Wed,,0,0,0,,I can't, it hurts!
+Dialogue: 0,0:26:26.30,0:26:28.50,normal_Wed,,0,0,0,,It really hurts!
+Dialogue: 0,0:26:28.50,0:26:29.75,wipe_Wed,,0,0,0,,Can't hold on any longer
+Dialogue: 0,0:26:28.89,0:26:30.00,normal_Wed,,0,0,0,,Ouch!
+Dialogue: 0,0:26:29.74,0:26:30.77,wipe_Wed,,0,0,0,,Reached his limit
+Dialogue: 0,0:26:30.77,0:26:33.15,normal_Wed,,0,0,0,,From start to finish in 4 hours and 2 minutes
+Dialogue: 0,0:26:33.15,0:26:35.48,normal_Wed,,0,0,0,,A very simple way to end the challenge
+Dialogue: 0,0:26:39.84,0:26:41.65,normal_Wed,,0,0,0,,It hurts so much...
+Dialogue: 0,0:26:42.25,0:26:45.75,normal_Wed,,0,0,0,,Isn't this project the most boring Wednesday Downtown project?
+Dialogue: 0,0:26:46.75,0:26:49.50,normal_Wed,,0,0,0,,If I don't need to bring my manzai clothes can't you just tell me in advance?
+Dialogue: 0,0:26:49.50,0:26:51.32,normal_Wed,,0,0,0,,Bringing clothes with you is a real pain
+Dialogue: 0,0:26:51.24,0:26:53.07,wipe_Wed,,0,0,0,,A hundred complaints a second
+Dialogue: 0,0:26:52.32,0:26:56.69,normal_Wed,,0,0,0,,Not knowing there is a follow-up, he returns home for now
+Dialogue: 0,0:26:57.19,0:26:59.96,normal_Wed,,0,0,0,,Tsk, what the hell is this?
+Dialogue: 0,0:27:00.80,0:27:02.60,normal_Wed,,0,0,0,,After 3 days
+Dialogue: 0,0:27:02.00,0:27:04.53,wipe_Wed,,0,0,0,,Have to test with the same subject to make it fair, right?
+Dialogue: 0,0:27:07.14,0:27:09.07,normal_Wed,,0,0,0,,Oh!
+Dialogue: 0,0:27:10.07,0:27:11.01,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:27:11.01,0:27:12.98,normal_Wed,,0,0,0,,Enough already, right?
+Dialogue: 0,0:27:13.91,0:27:20.94,normal_Wed,,0,0,0,,This time, he'll challenge a large and light cardboard box which is half the weight of the tungsten block
+Dialogue: 0,0:27:24.05,0:27:25.45,wipe_Wed,,0,0,0,,It's hard too, isn't it?
+Dialogue: 0,0:27:26.12,0:27:28.53,normal_Wed,,0,0,0,,What position should I hold this in?
+Dialogue: 0,0:27:29.00,0:27:34.02,normal_Wed,,0,0,0,,As before, touching with parts other than the palm of the hand is not accepted
+Dialogue: 0,0:27:34.02,0:27:35.93,wipe_Wed,,0,0,0,,Can't use your head
+Dialogue: 0,0:27:36.03,0:27:38.67,normal_Wed,,0,0,0,,Its so hard to get a hold of
+Dialogue: 0,0:27:38.67,0:27:40.40,normal_Wed,,0,0,0,,Unbearable...
+Dialogue: 0,0:27:40.87,0:27:43.61,normal_Wed,,0,0,0,,This seems to be even worse
+Dialogue: 0,0:27:43.94,0:27:50.15,normal_Wed,,0,0,0,,He tries various positions to hold the cardboard box
+Dialogue: 0,0:27:48.72,0:27:49.91,wipe_Wed,,0,0,0,,Looks like a sculpture
+Dialogue: 0,0:27:51.01,0:27:52.75,normal_Wed,,0,0,0,,Whoa whoa
+Dialogue: 0,0:27:55.04,0:27:57.93,normal_Wed,,0,0,0,,But still can't find a suitable position
+Dialogue: 0,0:27:58.50,0:28:01.31,normal_Wed,,0,0,0,,He brought his clothes with him again
+Dialogue: 0,0:28:01.79,0:28:06.03,normal_Wed,,0,0,0,,This pose must look really weird, right?
+Dialogue: 0,0:28:06.03,0:28:08.00,normal_Wed,,0,0,0,,But now only this position is slightly more comfortable
+Dialogue: 0,0:28:08.44,0:28:11.60,normal_Wed,,0,0,0,,An hour later
+Dialogue: 0,0:28:16.81,0:28:19.38,normal_Wed,,0,0,0,,Oh no. Tsk!
+Dialogue: 0,0:28:19.38,0:28:21.08,normal_Wed,,0,0,0,,This is the worst
+Dialogue: 0,0:28:19.78,0:28:21.06,wipe_Wed,,0,0,0,,His manzai clothes got wet, right?
+Dialogue: 0,0:28:21.59,0:28:24.51,normal_Wed,,0,0,0,,The table, and his stuff, are now soaking wet
+Dialogue: 0,0:28:25.20,0:28:26.52,normal_Wed,,0,0,0,,It's not going to work
+Dialogue: 0,0:28:27.31,0:28:28.09,normal_Wed,,0,0,0,,Afterwards
+Dialogue: 0,0:28:28.09,0:28:29.77,wipe_Wed,,0,0,0,,Must want to drink water too
+Dialogue: 0,0:28:28.72,0:28:30.35,normal_Wed,,0,0,0,,This is the position
+Dialogue: 0,0:28:33.36,0:28:37.09,normal_Wed,,0,0,0,,Like this... but still can't rest
+Dialogue: 0,0:28:31.65,0:28:32.66,wipe_Wed,,0,0,0,,Found it?
+Dialogue: 0,0:28:41.36,0:28:43.07,normal_Wed,,0,0,0,,It hurts
+Dialogue: 0,0:28:43.87,0:28:46.67,normal_Wed,,0,0,0,,The record is 1 hour and 23 minutes
+Dialogue: 0,0:28:46.67,0:28:49.19,normal_Wed,,0,0,0,,Sadly, the challenge is over
+Dialogue: 0,0:28:51.58,0:28:53.78,normal_Wed,,0,0,0,,{\fad(200,200)}It hurts...
+Dialogue: 0,0:28:54.18,0:28:56.81,normal_Wed,,0,0,0,,{\fad(200,0)}It hurts... tsk
+Dialogue: 0,0:28:56.98,0:29:00.38,normal_Wed,,0,0,0,,The verification result is that the small and heavy item can be held for longer
+Dialogue: 0,0:29:00.38,0:29:02.45,normal_Wed,,0,0,0,,So what?
+Dialogue: 0,0:29:02.01,0:29:03.77,wipe_Wed,,0,0,0,,So strict \N -Angry
+Dialogue: 0,0:29:04.19,0:29:05.29,normal_Wed,,0,0,0,,What about my manzai clothes?
+Dialogue: 0,0:29:05.46,0:29:07.39,normal_Wed,,0,0,0,,You don't need them \N-Tsk
+Dialogue: 0,0:29:07.80,0:29:11.63,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r} An inefficient location shoot
+Dialogue: 0,0:29:11.63,0:29:12.62,normal_Wed,,0,0,0,,Interesting
+Dialogue: 0,0:29:14.29,0:29:16.87,normal_Wed,,0,0,0,,So pissed off  \N-That guy was making a lot of noise, talking about his clothes
+Dialogue: 0,0:29:16.87,0:29:20.32,normal_Wed,,0,0,0,,If he's not even willing to bring his manzai clothes, he shouldn't even do manzai
+Dialogue: 0,0:29:20.32,0:29:22.48,normal_Wed,,0,0,0,,Really doesn't want to bring his performance clothes
+Dialogue: 0,0:29:22.48,0:29:24.67,normal_Wed,,0,0,0,,What happens if you have to hold poo?
+Dialogue: 0,0:29:24.67,0:29:26.10,normal_Wed,,0,0,0,,Fresh raw poo
+Dialogue: 0,0:29:26.10,0:29:28.05,normal_Wed,,0,0,0,,Raw poo?
+Dialogue: 0,0:29:28.05,0:29:31.55,normal_Wed,,0,0,0,,You have to hold raw poop. \N -That's too hard to top
+Dialogue: 0,0:29:32.06,0:29:34.22,normal_Wed,,0,0,0,,Contrast it with holding a heavy object
+Dialogue: 0,0:29:35.12,0:29:37.42,normal_Wed,,0,0,0,,Depends on who's it is
+Dialogue: 0,0:29:37.42,0:29:41.80,normal_Wed,,0,0,0,,Yes, it depends on whether it is yours or your partner's
+Dialogue: 0,0:29:41.80,0:29:43.17,normal_Wed,,0,0,0,,Partner's poop would be awful
+Dialogue: 0,0:29:43.89,0:29:47.83,normal_Wed,,0,0,0,,What do you mean by raw poo? Is there such a thing as cooked poo?
+Dialogue: 0,0:29:47.83,0:29:50.24,normal_Wed,,0,0,0,,It's unprocessed. \N -All stool is raw, right?
+Dialogue: 0,0:29:50.24,0:29:52.64,normal_Wed,,0,0,0,,What does raw poo mean?\N  -Pure green natural GMO-free poop
+Dialogue: 0,0:29:52.64,0:29:54.64,normal_Wed,,0,0,0,,What the hell is that face!?
+Dialogue: 0,0:29:55.47,0:29:56.41,normal_Wed,,0,0,0,,You wanna fight!?
+Dialogue: 0,0:29:57.38,0:29:58.31,normal_Wed,,0,0,0,,You listening?
+Dialogue: 0,0:29:59.02,0:30:02.63,normal_Wed,,0,0,0,,Next is the first theory chosen by Kasuga
+Dialogue: 0,0:30:03.78,0:30:08.85,normal_Wed,,0,0,0,,So, Kasuga's gonna finish it off \N -He's finally speaking!
+Dialogue: 0,0:30:08.85,0:30:12.22,normal_Wed,,0,0,0,,It's true, apart from "Twoos" at the start he hasn't said anything at all
+Dialogue: 0,0:30:12.22,0:30:14.86,normal_Wed,,0,0,0,,Indeed\N  -You aren't doing some kind of verification on the sly, are you?
+Dialogue: 0,0:30:14.86,0:30:18.89,normal_Wed,,0,0,0,,No, I'm not doing a verification, i'm just quiet
+Dialogue: 0,0:30:19.20,0:30:21.44,normal_Wed,,0,0,0,,I just simply can't think of anything to say
+Dialogue: 0,0:30:21.44,0:30:24.57,normal_Wed,,0,0,0,,Couldn't think of a single thing to say the whole time
+Dialogue: 0,0:30:24.57,0:30:27.14,normal_Wed,,0,0,0,,I'm the strong-silent type
+Dialogue: 0,0:30:27.14,0:30:28.48,normal_Wed,,0,0,0,,So, i'll continue
+Dialogue: 0,0:30:28.48,0:30:31.44,normal_Wed,,0,0,0,,The theories I have chosen are these
+Dialogue: 0,0:30:32.68,0:30:36.24,normal_Wed,,0,0,0,,Sons must be able to understand the type of women their father likes
+Dialogue: 0,0:30:36.97,0:30:39.61,normal_Wed,,0,0,0,,Is that so? \N -That's right
+Dialogue: 0,0:30:40.29,0:30:45.00,normal_Wed,,0,0,0,,Do you know?\N  -I don't know my father's preferences at all
+Dialogue: 0,0:30:45.00,0:30:49.76,normal_Wed,,0,0,0,,My father and I don't get along, and we basically don't talk to each other
+Dialogue: 0,0:30:50.45,0:30:51.53,normal_Wed,,0,0,0,,So it's a mystery to me
+Dialogue: 0,0:30:51.53,0:30:55.83,normal_Wed,,0,0,0,,That man is more of a mystery to me than anyone else
+Dialogue: 0,0:30:55.83,0:30:57.98,normal_Wed,,0,0,0,,Can people understand that?\N  -Absolutely not
+Dialogue: 0,0:30:57.98,0:31:00.79,normal_Wed,,0,0,0,,How about women?
+Dialogue: 0,0:31:00.79,0:31:02.43,normal_Wed,,0,0,0,,I know
+Dialogue: 0,0:31:02.54,0:31:07.34,normal_Wed,,0,0,0,,He likes women who like to carry heavy-looking luggage
+Dialogue: 0,0:31:07.34,0:31:09.12,normal_Wed,,0,0,0,,What are you talking about?\N  -What's heavy?
+Dialogue: 0,0:31:09.12,0:31:12.29,normal_Wed,,0,0,0,,Even if you offer a helping hand, they'll say "no, it's fine"
+Dialogue: 0,0:31:12.29,0:31:13.25,normal_Wed,,0,0,0,,This low-key kind of vibe
+Dialogue: 0,0:31:13.25,0:31:15.45,normal_Wed,,0,0,0,,Low-key?
+Dialogue: 0,0:31:15.99,0:31:23.43,normal_Wed,,0,0,0,,Sons must be able to understand the type of women their father likes
+Dialogue: 0,0:31:23.43,0:31:25.51,wipe_Wed,,0,0,0,,The relationship is a big part of this
+Dialogue: 0,0:31:23.88,0:31:24.98,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:31:27.64,0:31:32.25,normal_Wed,,0,0,0,,The challenger this time is Miyashita Kusanagi of Miyashita
+Dialogue: 0,0:31:33.14,0:31:37.01,normal_Wed,,0,0,0,,My father is a bit special
+Dialogue: 0,0:31:37.01,0:31:38.98,normal_Wed,,0,0,0,,He is an underground fighter
+Dialogue: 0,0:31:38.98,0:31:40.24,normal_Wed,,0,0,0,,Underground fighter?\N  -Yes
+Dialogue: 0,0:31:40.24,0:31:42.68,normal_Wed,,0,0,0,,At this time, his father...
+Dialogue: 0,0:31:46.39,0:31:50.58,normal_Wed,,0,0,0,,Sakurai Mac Hideki is 54 years old
+Dialogue: 0,0:31:51.69,0:31:53.79,normal_Wed,,0,0,0,,He was married once before
+Dialogue: 0,0:31:53.79,0:31:58.40,normal_Wed,,0,0,0,,And divorced my mother and got married again
+Dialogue: 0,0:31:58.40,0:32:01.20,normal_Wed,,0,0,0,,So he must have a lot of energy
+Dialogue: 0,0:32:01.20,0:32:04.11,normal_Wed,,0,0,0,,Is he very popular?\N  -He should be very popular
+Dialogue: 0,0:32:04.11,0:32:07.80,normal_Wed,,0,0,0,,Your son Miyashita got married recently, right?\N  -Yes
+Dialogue: 0,0:32:07.80,0:32:09.64,normal_Wed,,0,0,0,,Do you know your daughter-in-law?\N  -Yes, I do
+Dialogue: 0,0:32:09.81,0:32:12.31,normal_Wed,,0,0,0,,She's a pretty and cute girl
+Dialogue: 0,0:32:12.31,0:32:15.15,normal_Wed,,0,0,0,,Incidentally, can I ask if your daughter-in-law is your type?
+Dialogue: 0,0:32:15.15,0:32:17.28,normal_Wed,,0,0,0,,If my daughter-in-law took the initiative to approach me
+Dialogue: 0,0:32:17.28,0:32:21.38,normal_Wed,,0,0,0,,I'd like it, after all, she's pretty
+Dialogue: 0,0:32:19.75,0:32:20.78,wipe_Wed,,0,0,0,,Stop that!
+Dialogue: 0,0:32:21.61,0:32:23.95,normal_Wed,,0,0,0,,Isn't that what men are like?
+Dialogue: 0,0:32:23.95,0:32:29.13,normal_Wed,,0,0,0,,Miyashita's father walks the path of the man
+Dialogue: 0,0:32:29.84,0:32:33.20,normal_Wed,,0,0,0,,From these five different types of women
+Dialogue: 0,0:32:33.20,0:32:37.23,normal_Wed,,0,0,0,,He will be asked to choose his favorite
+Dialogue: 0,0:32:37.63,0:32:40.77,normal_Wed,,0,0,0,,It's hard to choose
+Dialogue: 0,0:32:41.24,0:32:43.77,normal_Wed,,0,0,0,,For example, the type of woman you like
+Dialogue: 0,0:32:43.77,0:32:49.55,normal_Wed,,0,0,0,,I mostly find women's eyes to be very attractive
+Dialogue: 0,0:32:49.68,0:32:51.05,normal_Wed,,0,0,0,,Such a gross scene
+Dialogue: 0,0:32:52.32,0:32:54.68,normal_Wed,,0,0,0,,You don't want to see your father doing this\N  -After all, it's your dad
+Dialogue: 0,0:32:55.18,0:32:56.88,normal_Wed,,0,0,0,,Who's better, I wonder?
+Dialogue: 0,0:32:56.88,0:32:59.60,normal_Wed,,0,0,0,,Have you chosen?
+Dialogue: 0,0:32:59.60,0:33:01.76,normal_Wed,,0,0,0,,I've made my choice
+Dialogue: 0,0:33:01.76,0:33:06.79,normal_Wed,,0,0,0,,After the father has chosen his preferred type of female
+Dialogue: 0,0:33:08.12,0:33:12.64,normal_Wed,,0,0,0,,The next step is for the son to predict his father's choice
+Dialogue: 0,0:33:12.97,0:33:16.64,normal_Wed,,0,0,0,,Wow, this is tough
+Dialogue: 0,0:33:16.87,0:33:18.68,normal_Wed,,0,0,0,,Oh, I'm worried
+Dialogue: 0,0:33:18.68,0:33:20.98,normal_Wed,,0,0,0,,Which one is it?
+Dialogue: 0,0:33:20.56,0:33:22.23,wipe_Wed,,0,0,0,,What is this vibe, watching his son guess
+Dialogue: 0,0:33:21.28,0:33:28.89,normal_Wed,,0,0,0,,I personally like D, this kind of innocent feeling
+Dialogue: 0,0:33:28.89,0:33:34.22,normal_Wed,,0,0,0,,And B, the formal look
+Dialogue: 0,0:33:34.29,0:33:37.26,normal_Wed,,0,0,0,,I get what he means, sophisticated type
+Dialogue: 0,0:33:37.83,0:33:40.70,normal_Wed,,0,0,0,,My father should be the opposite of my preference
+Dialogue: 0,0:33:40.70,0:33:43.06,normal_Wed,,0,0,0,,It should not be the two of them
+Dialogue: 0,0:33:43.06,0:33:46.67,normal_Wed,,0,0,0,,I think my father likes gyaru type
+Dialogue: 0,0:33:46.67,0:33:51.98,normal_Wed,,0,0,0,,So I think either A, C or E
+Dialogue: 0,0:33:51.98,0:33:54.68,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:33:54.91,0:33:58.98,normal_Wed,,0,0,0,,In terms of figure, I think E
+Dialogue: 0,0:33:58.98,0:34:03.32,normal_Wed,,0,0,0,,She's similar to my mother when she was young
+Dialogue: 0,0:34:03.49,0:34:06.49,normal_Wed,,0,0,0,,My mother used to wear boots like this
+Dialogue: 0,0:34:07.52,0:34:09.36,normal_Wed,,0,0,0,,She did, it was popular then
+Dialogue: 0,0:34:09.53,0:34:12.76,normal_Wed,,0,0,0,,I feel like A is also the type my father would like
+Dialogue: 0,0:34:12.76,0:34:18.44,normal_Wed,,0,0,0,,She has similarities to my mother
+Dialogue: 0,0:34:18.44,0:34:20.90,normal_Wed,,0,0,0,,Good point
+Dialogue: 0,0:34:21.20,0:34:24.61,normal_Wed,,0,0,0,,Because the face is the type that my father likes, its possible
+Dialogue: 0,0:34:24.61,0:34:28.51,normal_Wed,,0,0,0,,But E is also very similar to my mother
+Dialogue: 0,0:34:28.51,0:34:29.98,normal_Wed,,0,0,0,,What to do?
+Dialogue: 0,0:34:29.98,0:34:32.55,normal_Wed,,0,0,0,,Which one...?
+Dialogue: 0,0:34:33.82,0:34:36.05,normal_Wed,,0,0,0,,For the women in the gyaru category
+Dialogue: 0,0:34:36.05,0:34:41.52,normal_Wed,,0,0,0,,Two have similarities to his mother
+Dialogue: 0,0:34:41.93,0:34:45.46,normal_Wed,,0,0,0,,So, its time to reveal the results
+Dialogue: 0,0:34:45.66,0:34:51.43,normal_Wed,,0,0,0,,The female your father chose has his signature on the back of their tag
+Dialogue: 0,0:34:51.43,0:34:55.77,normal_Wed,,0,0,0,,If there is nothing on the back, the choice is wrong
+Dialogue: 0,0:34:55.91,0:34:58.51,normal_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:34:58.68,0:35:04.88,normal_Wed,,0,0,0,,So which one do you think is your father's favorite type?
+Dialogue: 0,0:35:05.05,0:35:07.98,normal_Wed,,0,0,0,,The type of women my father likes is...
+Dialogue: 0,0:35:11.05,0:35:12.56,normal_Wed,,0,0,0,,A
+Dialogue: 0,0:35:13.89,0:35:18.13,normal_Wed,,0,0,0,,So, please can A peel off the tag
+Dialogue: 0,0:35:18.46,0:35:20.86,normal_Wed,,0,0,0,,What will be the result?
+Dialogue: 0,0:35:20.69,0:35:21.18,wipe_Wed,,0,0,0,,Please!
+Dialogue: 0,0:35:21.65,0:35:22.78,wipe_Wed,,0,0,0,,Is there a signature?
+Dialogue: 0,0:35:26.48,0:35:27.84,normal_Wed,,0,0,0,,Right answer!
+Dialogue: 0,0:35:29.04,0:35:30.81,normal_Wed,,0,0,0,,So happy!
+Dialogue: 0,0:35:31.20,0:35:34.32,normal_Wed,,0,0,0,,Yes, so happy!
+Dialogue: 0,0:35:35.78,0:35:37.75,normal_Wed,,0,0,0,,This is a good one!
+Dialogue: 0,0:35:37.98,0:35:41.02,normal_Wed,,0,0,0,,I got it right, super happy!
+Dialogue: 0,0:35:39.92,0:35:41.11,wipe_Wed,,0,0,0,,You must be super happy!
+Dialogue: 0,0:35:41.02,0:35:43.22,normal_Wed,,0,0,0,,What kind of feeling is this?
+Dialogue: 0,0:35:43.49,0:35:47.39,normal_Wed,,0,0,0,,Dad.  \N-You got it!
+Dialogue: 0,0:35:48.73,0:35:53.43,normal_Wed,,0,0,0,,She seems like the type found in high class hostess clubs
+Dialogue: 0,0:35:51.40,0:35:52.29,wipe_Wed,,0,0,0,,Where are you manners!
+Dialogue: 0,0:35:53.43,0:35:55.40,normal_Wed,,0,0,0,,In a place like that?\N  -Like a club in Ginza
+Dialogue: 0,0:35:55.57,0:35:57.17,normal_Wed,,0,0,0,,This is a key point
+Dialogue: 0,0:35:57.17,0:36:00.60,normal_Wed,,0,0,0,,My mother also worked at a hostess club
+Dialogue: 0,0:36:01.20,0:36:04.24,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r}He likes hostess clubs
+Dialogue: 0,0:36:04.24,0:36:07.04,normal_Wed,,0,0,0,,What a rough conclusion. \N -But guessed right
+Dialogue: 0,0:36:07.04,0:36:09.54,normal_Wed,,0,0,0,,Guess correctly \N  This is the father-son bond
+Dialogue: 0,0:36:09.55,0:36:11.77,normal_Wed,,0,0,0,,It could also be seen as a very touching theory
+Dialogue: 0,0:36:11.77,0:36:12.42,normal_Wed,,0,0,0,,Seriously
+Dialogue: 0,0:36:12.42,0:36:15.08,normal_Wed,,0,0,0,,Indeed, it is still difficult to guess
+Dialogue: 0,0:36:15.08,0:36:18.59,normal_Wed,,0,0,0,,How can I put it? I don't have such a good relationship with my father
+Dialogue: 0,0:36:18.59,0:36:20.42,normal_Wed,,0,0,0,,Halfway through I felt like I wanted to cry
+Dialogue: 0,0:36:20.42,0:36:23.19,normal_Wed,,0,0,0,,But once he said, "Nice, right? Feels like a high-class hostess"
+Dialogue: 0,0:36:23.19,0:36:25.49,normal_Wed,,0,0,0,,I couldn't help but think "this guy isn't great"
+Dialogue: 0,0:36:25.49,0:36:26.74,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:36:27.33,0:36:29.23,normal_Wed,,0,0,0,,This...
+Dialogue: 0,0:36:30.28,0:36:34.60,normal_Wed,,0,0,0,,Was it the type of woman that Miyashita likes?
+Dialogue: 0,0:36:34.61,0:36:36.91,normal_Wed,,0,0,0,,No \N -It wasn't? It was the father's?
+Dialogue: 0,0:36:36.91,0:36:38.47,normal_Wed,,0,0,0,,Miyashita's father  \N-Huh?
+Dialogue: 0,0:36:38.47,0:36:40.88,normal_Wed,,0,0,0,,Did you watch it carefully?
+Dialogue: 0,0:36:40.88,0:36:42.71,normal_Wed,,0,0,0,,I watched but didn't know who was choosing
+Dialogue: 0,0:36:42.71,0:36:45.08,normal_Wed,,0,0,0,,Because Miyashita was on screen choosing more
+Dialogue: 0,0:36:45.08,0:36:48.12,normal_Wed,,0,0,0,,So you thought he was picking his own type, right?  \N-That's right
+Dialogue: 0,0:36:48.12,0:36:51.08,normal_Wed,,0,0,0,,That's not good. \N -I know I'm sorry
+Dialogue: 0,0:36:51.08,0:36:54.56,normal_Wed,,0,0,0,,It has nothing to do with me, there is no need to hit me, right?
+Dialogue: 0,0:36:54.56,0:36:56.94,normal_Wed,,0,0,0,,Why is it that the closest to you has to be hit?
+Dialogue: 0,0:36:59.64,0:37:03.24,normal_Wed,,0,0,0,,The next theory chosen by Kasuga is...
+Dialogue: 0,0:37:04.62,0:37:08.66,normal_Wed,,0,0,0,,No one really uses the deciliter as a unit of measurement
+Dialogue: 0,0:37:08.89,0:37:13.63,normal_Wed,,0,0,0,,One tenth of a liter is one deciliter
+Dialogue: 0,0:37:14.81,0:37:22.22,normal_Wed,,0,0,0,,After learning this point in elementary school, it's rarely heard of again
+Dialogue: 0,0:37:22.52,0:37:24.19,normal_Wed,,0,0,0,,Incidentally abroad
+Dialogue: 0,0:37:26.02,0:37:28.76,normal_Wed,,0,0,0,,Juice in Sweden
+Dialogue: 0,0:37:29.09,0:37:31.73,normal_Wed,,0,0,0,,And Swiss instant soup, etc
+Dialogue: 0,0:37:32.43,0:37:35.46,normal_Wed,,0,0,0,,It is still used in Europe and other places
+Dialogue: 0,0:37:36.28,0:37:38.00,normal_Wed,,0,0,0,,Also in Japan
+Dialogue: 0,0:37:39.80,0:37:43.38,normal_Wed,,0,0,0,,I heard that the unit of measurement this store uses is "deciliter"
+Dialogue: 0,0:37:43.38,0:37:48.38,normal_Wed,,0,0,0,,Mixed grains here are sold by the "penny"
+Dialogue: 0,0:37:48.91,0:37:50.49,normal_Wed,,0,0,0,,Really
+Dialogue: 0,0:37:50.49,0:37:53.49,normal_Wed,,0,0,0,,Here it is used to calculate the amount of small beans sold
+Dialogue: 0,0:37:53.95,0:37:56.39,normal_Wed,,0,0,0,,Why is the unit of measurement "deciliter" used?
+Dialogue: 0,0:37:56.39,0:37:59.20,normal_Wed,,0,0,0,,Previously, it was sold as 1 in 2
+Dialogue: 0,0:37:56.39,0:37:59.20,note_Wed,,0,0,0,,{\blur4}※The volume unit in Japan is 0.180 kg per unit.
+Dialogue: 0,0:37:59.20,0:38:01.26,normal_Wed,,0,0,0,,But the shakuhan method is not used anymore
+Dialogue: 0,0:37:59.20,0:38:01.26,note_Wed,,0,0,0,,{\blur4}※The Shakukan method is a traditional Japanese metric system derived from Chinese weights and measures
+Dialogue: 0,0:38:01.26,0:38:04.70,normal_Wed,,0,0,0,,So we had to use the metric system
+Dialogue: 0,0:38:04.70,0:38:09.86,normal_Wed,,0,0,0,,1 is a little under 2 deciliters
+Dialogue: 0,0:38:10.90,0:38:12.47,normal_Wed,,0,0,0,,So we use the 2 deciliter
+Dialogue: 0,0:38:09.16,0:38:10.85,wipe_Wed,,0,0,0,,Metrics are very carefully observed
+Dialogue: 0,0:38:13.00,0:38:17.75,normal_Wed,,0,0,0,,Yes, the Shakuhan method was banned in Showa 34
+Dialogue: 0,0:38:18.35,0:38:23.20,normal_Wed,,0,0,0,,In terms of the amount sold, the unit of measurement such as the combined and liters can not be used
+Dialogue: 0,0:38:18.35,0:38:23.20,note_Wed,,0,0,0,,{\blur4}※The liters mentioned here are the liters of the shakuhan method, and one liter is equal to 1.8039 liters.
+Dialogue: 0,0:38:23.78,0:38:29.62,normal_Wed,,0,0,0,,So stores began to use sub-liters to measure
+Dialogue: 0,0:38:29.62,0:38:31.55,normal_Wed,,0,0,0,,So with this kind of container
+Dialogue: 0,0:38:31.55,0:38:36.67,normal_Wed,,0,0,0,,We made this kind of container of 2 deciliters for trading
+Dialogue: 0,0:38:37.45,0:38:42.93,normal_Wed,,0,0,0,,Incidentally, deciliters are also used for medical reports and in the medical field
+Dialogue: 0,0:38:44.68,0:38:48.95,normal_Wed,,0,0,0,,The next theory chosen by Kasuga is...
+Dialogue: 0,0:38:49.76,0:38:54.17,normal_Wed,,0,0,0,,The 2nd Before doing a double jump with a jumping rope, you have to first jump normally three times
+Dialogue: 0,0:38:54.17,0:38:55.88,normal_Wed,,0,0,0,,Please do a double jump
+Dialogue: 0,0:39:01.14,0:39:02.52,wipe_Wed,,0,0,0,,Sure enough, the first three jumps
+Dialogue: 0,0:39:03.95,0:39:05.19,wipe_Wed,,0,0,0,,He can jump
+Dialogue: 0,0:39:06.72,0:39:11.19,normal_Wed,,0,0,0,,The next theory chosen by Kasuga is
+Dialogue: 0,0:39:07.76,0:39:09.03,wipe_Wed,,0,0,0,,It's awesome! Not a single word!
+Dialogue: 0,0:39:09.03,0:39:09.85,wipe_Wed,,0,0,0,,Nothing to say
+Dialogue: 0,0:39:12.04,0:39:20.88,normal_Wed,,0,0,0,,Drawing Hotei Tomoyasu's face in the same way as Hachi no Hemoji is possible
+Dialogue: 0,0:39:25.64,0:39:28.24,normal_Wed,,0,0,0,,So, following the rhythm
+Dialogue: 0,0:39:28.41,0:39:32.65,normal_Wed,,0,0,0,,Let's have a drawing song
+Dialogue: 0,0:39:32.92,0:39:36.69,normal_Wed,,0,0,0,,Like drawing the old man
+Dialogue: 0,0:39:36.72,0:39:43.73,normal_Wed,,0,0,0,,Let's draw the face of Hotei
+Dialogue: 0,0:39:46.63,0:39:51.90,normal_Wed,,0,0,0,,Use these characters twice
+Dialogue: 0,0:39:52.10,0:39:56.61,normal_Wed,,0,0,0,,Let's draw his face
+Dialogue: 0,0:39:58.47,0:40:00.24,normal_Wed,,0,0,0,,First, write a "Ho" on the right side
+Dialogue: 0,0:40:00.24,0:40:02.52,normal_Wed,,0,0,0,,Then write a "Te" in the middle
+Dialogue: 0,0:40:02.76,0:40:05.19,normal_Wed,,0,0,0,,Write an "I" on the left side
+Dialogue: 0,0:40:05.19,0:40:07.56,normal_Wed,,0,0,0,,Falling into madness
+Dialogue: 0,0:40:07.56,0:40:10.08,normal_Wed,,0,0,0,,"To" is his nose
+Dialogue: 0,0:40:10.08,0:40:13.24,normal_Wed,,0,0,0,,"Mo" is his ear
+Dialogue: 0,0:40:13.24,0:40:15.92,normal_Wed,,0,0,0,,"Ya" is his hair
+Dialogue: 0,0:40:15.92,0:40:18.00,normal_Wed,,0,0,0,,Use "Su" to draw eyes
+Dialogue: 0,0:40:18.00,0:40:19.48,normal_Wed,,0,0,0,,Hug tightly
+Dialogue: 0,0:40:19.48,0:40:22.12,normal_Wed,,0,0,0,,Hotei Tomoyasu
+Dialogue: 0,0:40:23.72,0:40:25.27,wipe_Wed,,0,0,0,,No, no, no, no, no
+Dialogue: 0,0:40:32.84,0:40:34.36,wipe_Wed,,0,0,0,,Good drawing skills
+Dialogue: 0,0:40:22.12,0:40:25.81,normal_Wed,,0,0,0,,Like drawing the old man
+Dialogue: 0,0:40:25.81,0:40:32.82,normal_Wed,,0,0,0,,We drew the face of Hotei Tomoyasu
+Dialogue: 0,0:40:34.03,0:40:35.48,normal_Wed,,0,0,0,,The best!
+Dialogue: 0,0:40:36.97,0:40:39.01,wipe_Wed,,0,0,0,,This painting can be anyone, right?
+Dialogue: 0,0:40:36.97,0:40:40.87,normal_Wed,,0,0,0,,The final theory chosen by Kasuga is...
+Dialogue: 0,0:40:42.55,0:40:50.80,normal_Wed,,0,0,0,,How many points will Shimizu's new imitation get from Noriko Awaya speaking through a psychic?
+Dialogue: 0,0:40:50.80,0:40:53.43,normal_Wed,,0,0,0,,She used to tell him off a lot
+Dialogue: 0,0:40:53.63,0:40:56.97,normal_Wed,,0,0,0,,It is already a fixed process
+Dialogue: 0,0:40:57.57,0:41:01.22,normal_Wed,,0,0,0,,Thank you, friends and viewers!
+Dialogue: 0,0:41:01.22,0:41:03.34,normal_Wed,,0,0,0,,If you have any theories, please feel free to submit them
+Dialogue: 0,0:41:03.34,0:41:07.24,normal_Wed,,0,0,0,,We will do this project again in about half a year
+Dialogue: 0,0:41:07.24,0:41:10.14,normal_Wed,,0,0,0,,This is "Everybody's Theories" special
+Dialogue: 0,0:41:11.24,0:41:19.36,normal_Wed,,0,0,0,,How many points will Shimizu's new imitation get from the departed Noriko Awaya speaking through a psychic?
+Dialogue: 0,0:41:22.46,0:41:26.63,normal_Wed,,0,0,0,,Vulgar imitations and dirty imitations
+Dialogue: 0,0:41:26.63,0:41:32.94,normal_Wed,,0,0,0,,She'd usually score at least an 8
+Dialogue: 0,0:41:33.72,0:41:34.98,normal_Wed,,0,0,0,,As shown in the theory
+Dialogue: 0,0:41:38.72,0:41:39.68,wipe_Wed,,0,0,0,,Psychic Medium Mikami
+Dialogue: 0,0:41:39.68,0:41:42.99,normal_Wed,,0,0,0,,No specific explanations were given
+Dialogue: 0,0:41:42.99,0:41:46.42,normal_Wed,,0,0,0,,First, we ask the psychic Noriko Awaya to get into the body
+Dialogue: 0,0:41:48.33,0:41:51.32,normal_Wed,,0,0,0,,Three minutes have passed since the spirit was invited to the body
+Dialogue: 0,0:41:52.46,0:41:55.66,normal_Wed,,0,0,0,,Is it Noriko Awaya?\N  -Yes.
+Dialogue: 0,0:41:55.47,0:41:56.38,wipe_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:41:55.66,0:41:57.96,normal_Wed,,0,0,0,,Sorry to trouble you
+Dialogue: 0,0:41:57.96,0:41:59.43,normal_Wed,,0,0,0,,Today I want you to
+Dialogue: 0,0:41:59.43,0:42:06.10,normal_Wed,,0,0,0,,Look at someone's parody and score it
+Dialogue: 0,0:42:06.10,0:42:07.87,normal_Wed,,0,0,0,,Can you help?
+Dialogue: 0,0:42:08.84,0:42:12.01,normal_Wed,,0,0,0,,Me? \N -Yes
+Dialogue: 0,0:42:12.01,0:42:16.61,normal_Wed,,0,0,0,,I would like to ask Noriko Awaji to rate it
+Dialogue: 0,0:42:16.61,0:42:19.95,normal_Wed,,0,0,0,,Okay... got it
+Dialogue: 0,0:42:20.55,0:42:23.68,normal_Wed,,0,0,0,,After receiving permission
+Dialogue: 0,0:42:26.08,0:42:28.41,normal_Wed,,0,0,0,,We asked her to take a seat at the judges' table
+Dialogue: 0,0:42:30.50,0:42:31.97,normal_Wed,,0,0,0,,Preparation is complete
+Dialogue: 0,0:42:32.86,0:42:36.30,normal_Wed,,0,0,0,,What are you feeling right now?
+Dialogue: 0,0:42:38.97,0:42:48.51,normal_Wed,,0,0,0,,{\fad(200,0)}Thanks for letting me be in the spotlight
+Dialogue: 0,0:42:50.51,0:42:53.35,normal_Wed,,0,0,0,,You are welcome
+Dialogue: 0,0:42:53.13,0:42:54.55,wipe_Wed,,0,0,0,,Who are the other judges?
+Dialogue: 0,0:42:54.55,0:42:56.66,normal_Wed,,0,0,0,,Then show it quickly!
+Dialogue: 0,0:42:57.18,0:43:00.42,normal_Wed,,0,0,0,,Shimizu-san's new segment is a parody of Piko Taro-san
+Dialogue: 0,0:43:00.85,0:43:02.85,normal_Wed,,0,0,0,,Please
+Dialogue: 0,0:43:04.65,0:43:06.39,normal_Wed,,0,0,0,,POOP
+Dialogue: 0,0:43:06.39,0:43:09.84,normal_Wed,,0,0,0,,P O O P
+Dialogue: 0,0:43:09.84,0:43:14.10,normal_Wed,,0,0,0,,P O O P
+Dialogue: 0,0:43:14.10,0:43:15.81,normal_Wed,,0,0,0,,I have a pen
+Dialogue: 0,0:43:15.81,0:43:19.12,normal_Wed,,0,0,0,,I have a ass...
+Dialogue: 0,0:43:19.12,0:43:21.05,normal_Wed,,0,0,0,,Asspen
+Dialogue: 0,0:43:21.05,0:43:22.64,normal_Wed,,0,0,0,,I have a pen
+Dialogue: 0,0:43:22.64,0:43:25.73,normal_Wed,,0,0,0,,I have a boobs, an~
+Dialogue: 0,0:43:25.73,0:43:27.53,normal_Wed,,0,0,0,,Boobspen
+Dialogue: 0,0:43:27.53,0:43:29.53,normal_Wed,,0,0,0,,Asspen
+Dialogue: 0,0:43:29.53,0:43:30.98,normal_Wed,,0,0,0,,Boobspen
+Dialogue: 0,0:43:30.98,0:43:35.72,normal_Wed,,0,0,0,,Unh! Pen boobs ass pen
+Dialogue: 0,0:43:37.80,0:43:39.02,wipe_Wed,,0,0,0,,Seems like she's in a bad mood
+Dialogue: 0,0:43:40.80,0:43:43.29,normal_Wed,,0,0,0,,Pen boobs ass pen
+Dialogue: 0,0:43:43.29,0:43:45.57,normal_Wed,,0,0,0,,Pen pen pen pen pen pen pen
+Dialogue: 0,0:43:45.57,0:43:49.26,normal_Wed,,0,0,0,,It hurts! It hurts when you slap the butt!
+Dialogue: 0,0:43:53.64,0:43:56.81,normal_Wed,,0,0,0,,Thank you Shimizu
+Dialogue: 0,0:43:57.08,0:43:59.92,normal_Wed,,0,0,0,,How do you personally rate your performance today?
+Dialogue: 0,0:43:59.92,0:44:02.49,normal_Wed,,0,0,0,,I think it's full marks
+Dialogue: 0,0:44:02.75,0:44:06.89,normal_Wed,,0,0,0,,Then let's start scoring  \N-So nostalgic~
+Dialogue: 0,0:44:06.89,0:44:10.64,normal_Wed,,0,0,0,,Shimizu's score is...
+Dialogue: 0,0:44:11.20,0:44:13.16,normal_Wed,,0,0,0,,10分 10分 10分 5分
+Dialogue: 0,0:44:13.16,0:44:16.15,normal_Wed,,0,0,0,,10分 10分 10分 10分 10分 10 分
+Dialogue: 0,0:44:16.57,0:44:18.15,normal_Wed,,0,0,0,,Total 95 points
+Dialogue: 0,0:44:18.51,0:44:21.04,wipe_Wed,,0,0,0,,5 points?
+Dialogue: 0,0:44:24.61,0:44:27.58,normal_Wed,,0,0,0,,My first time to get 5 points
+Dialogue: 0,0:44:27.74,0:44:30.71,normal_Wed,,0,0,0,,The lowest score I've ever received was a 6...
+Dialogue: 0,0:44:30.71,0:44:33.02,normal_Wed,,0,0,0,,Why 5?
+Dialogue: 0,0:44:33.34,0:44:41.92,normal_Wed,,0,0,0,,I think Akira-kun's imitations used to be more spirited
+Dialogue: 0,0:44:42.39,0:44:45.73,normal_Wed,,0,0,0,,Did Awaya always call you Akira-kun?
+Dialogue: 0,0:44:45.90,0:44:48.00,normal_Wed,,0,0,0,,It was always "Shimizu-san"
+Dialogue: 0,0:44:49.07,0:44:52.47,normal_Wed,,0,0,0,,Today was "Akira-kun"
+Dialogue: 0,0:44:52.46,0:44:59.17,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H250EED&}In summary\N{\r}Awaya's scoring has become stricter since going to heaven
+Dialogue: 0,0:44:59.18,0:45:00.91,normal_Wed,,0,0,0,,That's what happened.  \N-She's gotten stricter
+Dialogue: 0,0:45:03.65,0:45:06.21,normal_Wed,,0,0,0,,What do you think, Shigemori? Which ones did you like the most?
+Dialogue: 0,0:45:06.21,0:45:09.53,normal_Wed,,0,0,0,,I like the one about the deciliter
+Dialogue: 0,0:45:09.53,0:45:10.54,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:45:12.09,0:45:16.71,normal_Wed,,0,0,0,,If you ask an idiot "What unit of measurement do you prefer?" The answer is usually deciliters
+Dialogue: 0,0:45:16.71,0:45:18.53,normal_Wed,,0,0,0,,What makes you say that?\N  -Because it sounds cool
+Dialogue: 0,0:45:19.11,0:45:22.34,normal_Wed,,0,0,0,,What appears in exams is also generally deciliter
+Dialogue: 0,0:45:22.34,0:45:24.40,normal_Wed,,0,0,0,,Are they usually divided into liters?\N  -Questions about capacity
+Dialogue: 0,0:45:24.40,0:45:26.69,normal_Wed,,0,0,0,,If you want to get tattoo, you'd get one of a deciliter, right?  \N-Yes
+Dialogue: 0,0:45:29.49,0:45:30.35,normal_Wed,,0,0,0,,Woman!
+Dialogue: 0,0:45:31.76,0:45:33.52,normal_Wed,,0,0,0,,Woman!\N  -Sorry
+Dialogue: 0,0:45:33.52,0:45:34.52,normal_Wed,,0,0,0,,What is this angry mode?
+Dialogue: 0,0:45:34.52,0:45:36.38,normal_Wed,,0,0,0,,It's because of this woman that I got beaten up
+Dialogue: 0,0:45:37.61,0:45:39.05,normal_Wed,,0,0,0,,Woman!
+Dialogue: 0,0:45:39.05,0:45:41.02,normal_Wed,,0,0,0,,Kotouge has problems too! \N -Don't do this
+Dialogue: 0,0:45:41.22,0:45:42.95,normal_Wed,,0,0,0,,Don't call people by their gender
+Dialogue: 0,0:45:42.95,0:46:14.92,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

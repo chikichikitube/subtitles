@@ -1,0 +1,960 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT_2022-11-16_#327.mp4
+Video File: WDT_2022-11-16_#327.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 901
+Active Line: 902
+Video Position: 81430
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,13,13,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+Style: special_Wed_1_1,Arial,55,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,2,0,1,0,0,0,1
+Style: special_Wed_3_3,Arial,70,&H00000000,&H0000D6FF,&H00000000,&H0063D9E2,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,10,1
+Style: Lyrics - 复制,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,-1,0,0,100,120,0,0,1,3,1.5,7,10,200,135,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list_Gaki,Arial,50,&H000200B2,&H00FFFFFF,&H27FFFFFF,&HFF000000,0,0,0,0,100,130,0,0,1,2.5,0.1,8,750,10,65,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_2_B,Arial,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,3,3,2,5,0,0,5,1
+Style: special_Wed_说,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,135,0,0,1,3,1,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,99,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: note_Wed - Mid,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.55,0:00:06.83,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown
+Dialogue: 0,0:00:06.83,0:00:10.52,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:12.54,0:00:14.65,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:15.82,0:00:17.56,normal_Wed,,0,0,0,,Savannah's Takahashi!
+Dialogue: 0,0:00:17.56,0:00:19.64,normal_Wed,,0,0,0,,It's Takahashi!
+Dialogue: 0,0:00:20.40,0:00:21.67,normal_Wed,,0,0,0,,Looks in good spirits
+Dialogue: 0,0:00:21.67,0:00:25.12,normal_Wed,,0,0,0,,It hasn't been that long, right?
+Dialogue: 0,0:00:26.17,0:00:29.55,normal_Wed,,0,0,0,,So, today I bring you a regular segment
+Dialogue: 0,0:00:29.55,0:00:33.81,normal_Wed,,0,0,0,,Hamada-san's favorite "someone" series
+Dialogue: 0,0:00:33.81,0:00:34.78,normal_Wed,,0,0,0,,The scary one
+Dialogue: 0,0:00:34.78,0:00:37.80,normal_Wed,,0,0,0,,Hamada, is it not your favorite? \N  -I do like it
+Dialogue: 0,0:00:37.80,0:00:41.95,normal_Wed,,0,0,0,,This time, we bring you a new spin on it
+Dialogue: 0,0:00:41.95,0:00:42.84,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:00:43.64,0:00:49.82,normal_Wed,,0,0,0,,Is it possible for a comedian to make the person hiding in the room laugh
+Dialogue: 0,0:00:49.82,0:00:50.48,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:00:51.66,0:00:53.03,normal_Wed,,0,0,0,,A reverse prank?
+Dialogue: 0,0:00:53.03,0:00:53.99,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:00:53.99,0:00:55.12,normal_Wed,,0,0,0,,This is a good plan
+Dialogue: 0,0:00:55.12,0:00:57.94,normal_Wed,,0,0,0,,The rule is within thirty minutes
+Dialogue: 0,0:00:57.94,0:00:59.50,normal_Wed,,0,0,0,,They can do anything
+Dialogue: 0,0:00:59.50,0:01:07.28,normal_Wed,,0,0,0,,But if the person that is thinks "they're trying to make me laugh" then they're disqualified
+Dialogue: 0,0:01:07.28,0:01:08.68,normal_Wed,,0,0,0,,Otherwise the project will be too tasteless
+Dialogue: 0,0:01:08.68,0:01:12.49,normal_Wed,,0,0,0,,The person involved has to be cautious
+Dialogue: 0,0:01:12.49,0:01:15.75,normal_Wed,,0,0,0,,Because they shouldn't laugh out loud  \N-Indeed
+Dialogue: 0,0:01:15.75,0:01:17.72,normal_Wed,,0,0,0,,What do you think will happen, Matsumoto?
+Dialogue: 0,0:01:17.72,0:01:21.46,normal_Wed,,0,0,0,,I think it'll be tough for the comedians
+Dialogue: 0,0:01:21.46,0:01:23.80,normal_Wed,,0,0,0,,If there's not a question of whether it can be broadcast or not
+Dialogue: 3,0:01:23.80,0:01:26.77,normal_Wed,,0,0,0,,They may do some twisted XXXX
+Dialogue: 0,0:01:26.77,0:01:30.98,normal_Wed,,0,0,0,,If you watch it in VR you'd definitely laugh
+Dialogue: 0,0:01:30.98,0:01:32.04,normal_Wed,,0,0,0,,Surely laugh
+Dialogue: 0,0:01:49.97,0:01:58.13,normal_Wed,,0,0,0,,Is it possible for a comedian to make the person hiding in the room laugh
+Dialogue: 0,0:01:58.60,0:02:00.97,normal_Wed,,0,0,0,,The first challenger is
+Dialogue: 0,0:02:03.66,0:02:05.79,normal_Wed,,0,0,0,,Morishita
+Dialogue: 0,0:02:06.30,0:02:10.18,normal_Wed,,0,0,0,,I've been in this situation before
+Dialogue: 0,0:02:09.64,0:02:10.67,wipe_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:02:10.18,0:02:13.61,normal_Wed,,0,0,0,,I don't think it'll be that easy to make the person laugh
+Dialogue: 0,0:02:13.61,0:02:16.53,normal_Wed,,0,0,0,,Whoa...
+Dialogue: 0,0:02:16.53,0:02:19.38,normal_Wed,,0,0,0,,Tough...
+Dialogue: 0,0:02:20.00,0:02:29.53,normal_Wed,,0,0,0,,This time, we gathered ten extras of different ages and genders to be the "someone"
+Dialogue: 0,0:02:30.15,0:02:34.12,normal_Wed,,0,0,0,,They select the target from the extras themselves
+Dialogue: 0,0:02:34.57,0:02:36.37,normal_Wed,,0,0,0,,Done
+Dialogue: 0,0:02:36.37,0:02:37.77,normal_Wed,,0,0,0,,A man in his 20s
+Dialogue: 0,0:02:37.77,0:02:39.50,wipe_Wed,,0,0,0,,Not bad
+Dialogue: 0,0:02:38.33,0:02:39.60,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:02:39.80,0:02:42.47,normal_Wed,,0,0,0,,Should be OK?
+Dialogue: 0,0:02:42.47,0:02:46.81,normal_Wed,,0,0,0,,The ideal choice is about 30 years old, more than 20 years old is almost in the target range, right?
+Dialogue: 0,0:02:46.81,0:02:48.35,normal_Wed,,0,0,0,,Sounds like he's experienced
+Dialogue: 0,0:02:48.81,0:02:50.06,normal_Wed,,0,0,0,,Ideal target is 30 years old
+Dialogue: 0,0:02:51.12,0:02:55.85,normal_Wed,,0,0,0,,Morishita first leaves the room first and the house empty
+Dialogue: 0,0:02:55.85,0:02:59.86,normal_Wed,,0,0,0,,This is when the extras are hidden in the closet
+Dialogue: 0,0:02:59.86,0:03:02.69,normal_Wed,,0,0,0,,Preparation work completed
+Dialogue: 0,0:03:03.22,0:03:11.54,normal_Wed,,0,0,0,,A surveillance monitor is set up in front of him on the pretext of "finding a time to scare him"
+Dialogue: 0,0:03:11.87,0:03:15.34,normal_Wed,,0,0,0,,After waiting for 30 minutes
+Dialogue: 0,0:03:15.57,0:03:18.86,normal_Wed,,0,0,0,,Morishita returns home pretending not to know anything
+Dialogue: 0,0:03:20.36,0:03:21.93,normal_Wed,,0,0,0,,The challenge begins
+Dialogue: 0,0:03:23.56,0:03:26.11,wipe_Wed,,0,0,0,,The extras must be nervous
+Dialogue: 0,0:03:33.08,0:03:36.85,wipe_Wed,,0,0,0,,Gonna laugh out loud, right?
+Dialogue: 0,0:03:35.20,0:03:41.63,normal_Wed,,0,0,0,,To show authenticity, Morishita first rests in bed
+Dialogue: 0,0:03:41.63,0:03:42.96,wipe_Wed,,0,0,0,,Why do you need that pose?
+Dialogue: 0,0:03:42.96,0:03:44.66,normal_Wed,,0,0,0,,3 minutes after starting
+Dialogue: 0,0:03:45.35,0:03:47.63,normal_Wed,,0,0,0,,It's finally time to start the first round of combat
+Dialogue: 0,0:03:49.81,0:03:55.25,normal_Wed,,0,0,0,,Hey, that...
+Dialogue: 0,0:03:55.25,0:03:57.62,normal_Wed,,0,0,0,,Hatsase, you
+Dialogue: 0,0:03:56.51,0:03:58.78,wipe_Wed,,0,0,0,,Pretending to be on the phone with his partner
+Dialogue: 0,0:03:58.85,0:04:04.09,normal_Wed,,0,0,0,,The segment to be performed tomorrow has not yet been decided, right?
+Dialogue: 0,0:04:00.73,0:04:02.64,wipe_Wed,,0,0,0,,Very realistic
+Dialogue: 0,0:04:04.09,0:04:06.56,normal_Wed,,0,0,0,,What to do?
+Dialogue: 0,0:04:10.19,0:04:14.53,normal_Wed,,0,0,0,,Do that one? Ok
+Dialogue: 0,0:04:14.53,0:04:16.07,normal_Wed,,0,0,0,,The one with the big demon god balls
+Dialogue: 0,0:04:16.07,0:04:19.20,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(732,885.333)\frx-270\t(0,170,\frx-360)\org(996,845.333)}Attack 1 {\c&H000000&}A Dumb routine
+Dialogue: 0,0:04:18.41,0:04:22.45,wipe_Wed,,0,0,0,,Laughing
+Dialogue: 0,0:04:19.20,0:04:21.57,normal_Wed,,0,0,0,,The one with the big demon god balls
+Dialogue: 0,0:04:22.27,0:04:27.48,normal_Wed,,0,0,0,,The first attempt caused a snicker
+Dialogue: 0,0:04:27.84,0:04:28.74,normal_Wed,,0,0,0,,After that too
+Dialogue: 0,0:04:29.11,0:04:34.09,normal_Wed,,0,0,0,,No, Slippery Beethoven is a bit old, right?
+Dialogue: 0,0:04:33.32,0:04:34.42,wipe_Wed,,0,0,0,,What is this name?
+Dialogue: 0,0:04:34.29,0:04:36.12,normal_Wed,,0,0,0,,What about the one with the oyster pie girl?
+Dialogue: 0,0:04:36.12,0:04:38.66,normal_Wed,,0,0,0,,It has to be a baby stag beetle, right?
+Dialogue: 0,0:04:38.66,0:04:44.10,normal_Wed,,0,0,0,,So first the big demon balls
+Dialogue: 0,0:04:44.10,0:04:46.91,normal_Wed,,0,0,0,,Balls appear to be able to elicit a response the easiest
+Dialogue: 0,0:04:47.40,0:04:49.47,normal_Wed,,0,0,0,,But unfortunately the target did not laugh out loud
+Dialogue: 0,0:04:50.14,0:04:53.00,normal_Wed,,0,0,0,,Morishita also doesn't know which he reacted to
+Dialogue: 0,0:04:53.00,0:04:55.83,normal_Wed,,0,0,0,,I hope Morishita will realize that the target can't resist balls
+Dialogue: 0,0:04:56.46,0:04:57.32,normal_Wed,,0,0,0,,Right at that moment
+Dialogue: 0,0:04:58.34,0:05:00.38,normal_Wed,,0,0,0,,Wait a minute...Oh no!
+Dialogue: 0,0:05:00.38,0:05:04.02,normal_Wed,,0,0,0,,I'm sorry, I'm overdue
+Dialogue: 0,0:05:04.02,0:05:05.58,normal_Wed,,0,0,0,,This is bad...
+Dialogue: 0,0:05:05.58,0:05:08.19,normal_Wed,,0,0,0,,Yes, right now
+Dialogue: 0,0:05:08.19,0:05:09.99,normal_Wed,,0,0,0,,It's already 2:00
+Dialogue: 0,0:05:09.99,0:05:11.56,normal_Wed,,0,0,0,,At 2:00 I must drink my medicine, sorry
+Dialogue: 0,0:05:11.56,0:05:15.13,normal_Wed,,0,0,0,,Anyway, please, stag beetle diapers
+Dialogue: 0,0:05:15.13,0:05:17.36,normal_Wed,,0,0,0,,Ok ok
+Dialogue: 0,0:05:22.40,0:05:24.07,normal_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:05:27.04,0:05:29.17,normal_Wed,,0,0,0,,Unbearable, unbearable, unbearable
+Dialogue: 0,0:05:28.01,0:05:30.58,wipe_Wed,,0,0,0,,How can you laugh at this? It's scary!
+Dialogue: 0,0:05:30.58,0:05:32.30,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:05:42.49,0:05:45.49,normal_Wed,,0,0,0,,Meow Meow
+Dialogue: 0,0:05:45.49,0:05:48.54,normal_Wed,,0,0,0,,Meow Meow Meow Meow
+Dialogue: 0,0:05:48.54,0:05:51.40,normal_Wed,,0,0,0,,Meow Meow
+Dialogue: 0,0:05:51.40,0:05:53.33,normal_Wed,,0,0,0,,Meow Meow
+Dialogue: 0,0:05:53.33,0:05:54.87,wipe_Wed,,0,0,0,,Failed in combat, right?
+Dialogue: 0,0:05:54.77,0:05:56.47,normal_Wed,,0,0,0,,Meow Meow
+Dialogue: 0,0:05:55.44,0:05:56.87,wipe_Wed,,0,0,0,,Its like a horror film
+Dialogue: 0,0:05:58.14,0:05:59.64,normal_Wed,,0,0,0,,Meow Meow
+Dialogue: 0,0:05:57.45,0:05:59.48,wipe_Wed,,0,0,0,,Too far from funny, right?
+Dialogue: 0,0:06:00.22,0:06:01.55,wipe_Wed,,0,0,0,,He's scared to death, isn't he?
+Dialogue: 0,0:06:03.45,0:06:05.01,wipe_Wed,,0,0,0,,What kind of battle plan is that?
+Dialogue: 0,0:06:06.85,0:06:09.35,normal_Wed,,0,0,0,,Wow!
+Dialogue: 0,0:06:09.35,0:06:12.25,normal_Wed,,0,0,0,,Satomi, don't come out again
+Dialogue: 0,0:06:12.25,0:06:27.63,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(550,890.667)\frx-270\t(0,170,\frx-360)\org(938,850.667)}Attack 2 {\c&H000000&}Multiple personality
+Dialogue: 0,0:06:16.20,0:06:18.59,normal_Wed,,0,0,0,,Enough, right?
+Dialogue: 0,0:06:18.88,0:06:22.89,normal_Wed,,0,0,0,,It's morning, right? 5:00 in the morning, right?
+Dialogue: 0,0:06:17.53,0:06:18.92,wipe_Wed,,0,0,0,,It's too complicated, right?
+Dialogue: 0,0:06:22.89,0:06:25.36,normal_Wed,,0,0,0,,It's 2:00 p.m. here. I'm sorry
+Dialogue: 0,0:06:25.36,0:06:27.63,normal_Wed,,0,0,0,,I'm sorry I got mad at you
+Dialogue: 0,0:06:27.67,0:06:31.83,normal_Wed,,0,0,0,,15 minutes left
+Dialogue: 0,0:06:34.95,0:06:35.45,wipe_Wed,,0,0,0,,Call
+Dialogue: 0,0:06:35.37,0:06:37.51,normal_Wed,,0,0,0,,Thank you for your hard work
+Dialogue: 0,0:06:39.51,0:06:42.58,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:06:42.58,0:06:45.68,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:06:45.68,0:06:47.65,normal_Wed,,0,0,0,,It's late?
+Dialogue: 0,0:06:47.92,0:06:49.69,normal_Wed,,0,0,0,,The funny video?
+Dialogue: 0,0:06:49.69,0:06:52.02,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:06:52.02,0:06:53.43,normal_Wed,,0,0,0,,Fine
+Dialogue: 0,0:06:53.43,0:06:55.19,normal_Wed,,0,0,0,,Then I'll shoot now
+Dialogue: 0,0:06:55.19,0:06:59.63,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(422,880)\org(790,845.333)\frx-270\t(0,170,\frx-360)}Attack 3 {\c&H000000&}Self-shooting
+Dialogue: 0,0:06:57.76,0:06:59.04,wipe_Wed,,0,0,0,,Nice \N -Very natural
+Dialogue: 0,0:06:59.04,0:07:00.58,wipe_Wed,,0,0,0,,This does happen
+Dialogue: 0,0:07:06.11,0:07:10.34,normal_Wed,,0,0,0,,It's me
+Dialogue: 0,0:07:10.34,0:07:17.38,normal_Wed,,0,0,0,,Sasaki, who has traveled from a parallel world
+Dialogue: 0,0:07:18.12,0:07:21.05,normal_Wed,,0,0,0,,Me
+Dialogue: 0,0:07:17.57,0:07:19.46,wipe_Wed,,0,0,0,,A serious routine
+Dialogue: 0,0:07:19.46,0:07:21.12,wipe_Wed,,0,0,0,,Frontal attack!
+Dialogue: 0,0:07:21.05,0:07:27.96,normal_Wed,,0,0,0,,It's a special bowling ball
+Dialogue: 0,0:07:27.15,0:07:28.99,wipe_Wed,,0,0,0,,It's quite effective
+Dialogue: 0,0:07:28.99,0:07:30.20,normal_Wed,,0,0,0,,And
+Dialogue: 0,0:07:30.20,0:07:33.06,normal_Wed,,0,0,0,,I...
+Dialogue: 0,0:07:33.06,0:07:40.27,normal_Wed,,0,0,0,,I'm Chiaki from another world
+Dialogue: 0,0:07:41.51,0:07:48.91,normal_Wed,,0,0,0,,I am Inoue Kouzou from a parallel world
+Dialogue: 0,0:07:48.91,0:07:51.92,normal_Wed,,0,0,0,,Inoue Kouzou
+Dialogue: 0,0:07:49.85,0:07:51.57,wipe_Wed,,0,0,0,,It worked. I saw the teeth
+Dialogue: 0,0:07:52.40,0:07:58.99,normal_Wed,,0,0,0,,It took Morishita 24 minutes to complete the challenge with an imitation of Inoue Kouzou
+Dialogue: 0,0:07:59.32,0:08:01.59,normal_Wed,,0,0,0,,Doesn't feel like a parallel world version
+Dialogue: 0,0:08:02.15,0:08:07.50,normal_Wed,,0,0,0,,At this time the staff send the news of the successful challenge to Morishita
+Dialogue: 0,0:08:17.74,0:08:19.04,normal_Wed,,0,0,0,,What? What? What?
+Dialogue: 0,0:08:19.04,0:08:20.85,normal_Wed,,0,0,0,,Eh? Who is it? Who are you? Who is it?
+Dialogue: 0,0:08:20.85,0:08:22.18,normal_Wed,,0,0,0,,Wait a minute...who are you?
+Dialogue: 0,0:08:22.27,0:08:26.54,normal_Wed,,0,0,0,,He still pretends to be scared by the hidden performer
+Dialogue: 0,0:08:26.54,0:08:27.78,wipe_Wed,,0,0,0,,Is this needed?
+Dialogue: 0,0:08:27.78,0:08:29.99,normal_Wed,,0,0,0,,The truth is revealed
+Dialogue: 0,0:08:30.38,0:08:31.63,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:08:32.46,0:08:33.93,normal_Wed,,0,0,0,,What is it? What is this?
+Dialogue: 0,0:08:32.54,0:08:34.02,wipe_Wed,,0,0,0,,Who is this acting for?
+Dialogue: 0,0:08:34.69,0:08:39.23,normal_Wed,,0,0,0,,Morishita continues playing the role of the target
+Dialogue: 0,0:08:39.23,0:08:40.68,normal_Wed,,0,0,0,,How did it feel to hide?
+Dialogue: 0,0:08:41.13,0:08:43.50,normal_Wed,,0,0,0,,It was hard to hold in a smile all the time
+Dialogue: 0,0:08:43.70,0:08:48.21,normal_Wed,,0,0,0,,The real content is then explained
+Dialogue: 0,0:08:48.67,0:08:50.17,normal_Wed,,0,0,0,,Laughed?\N  -Yes
+Dialogue: 0,0:08:50.17,0:08:51.41,normal_Wed,,0,0,0,,Yes!
+Dialogue: 0,0:08:52.80,0:08:57.05,normal_Wed,,0,0,0,,Really happy
+Dialogue: 0,0:08:57.05,0:09:03.09,normal_Wed,,0,0,0,,As happy as when I entered the third round of R-1
+Dialogue: 0,0:09:03.52,0:09:05.32,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:09:10.36,0:09:12.26,normal_Wed,,0,0,0,,Makino
+Dialogue: 0,0:09:12.26,0:09:14.53,normal_Wed,,0,0,0,,The same lottery was conducted
+Dialogue: 0,0:09:14.53,0:09:17.26,normal_Wed,,0,0,0,,To decide the target
+Dialogue: 0,0:09:18.28,0:09:23.94,normal_Wed,,0,0,0,,The target is placed in the lower level of the closet
+Dialogue: 0,0:09:24.69,0:09:30.03,normal_Wed,,0,0,0,,The challenge begins when Makino returns home
+Dialogue: 0,0:09:32.52,0:09:34.17,normal_Wed,,0,0,0,,Upon entering
+Dialogue: 0,0:09:38.69,0:09:42.89,normal_Wed,,0,0,0,,Sports underwear, waistband and men's underwear
+Dialogue: 0,0:09:43.10,0:09:47.60,normal_Wed,,0,0,0,,She changes into a costume
+Dialogue: 0,0:09:46.64,0:09:48.56,wipe_Wed,,0,0,0,,This can be considered an attack
+Dialogue: 0,0:09:48.12,0:09:51.37,normal_Wed,,0,0,0,,She suddenly starts to eat dango
+Dialogue: 0,0:09:59.15,0:10:00.91,wipe_Wed,,0,0,0,,You'd laugh at this
+Dialogue: 0,0:10:01.48,0:10:03.78,wipe_Wed,,0,0,0,,I think it's good!
+Dialogue: 0,0:10:03.98,0:10:10.19,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(586,890.667)\frx-270\t(0,170,\frx-360)\org(914,856)}Attack 1 {\c&H0102DB&}Can't eat dango horizontally
+Dialogue: 0,0:10:08.62,0:10:10.19,normal_Wed,,0,0,0,,It's hard to eat dango
+Dialogue: 0,0:10:10.95,0:10:14.09,normal_Wed,,0,0,0,,Playing dumb doesn't work
+Dialogue: 0,0:10:14.68,0:10:15.82,normal_Wed,,0,0,0,,Next
+Dialogue: 0,0:10:16.06,0:10:18.86,normal_Wed,,0,0,0,,Hello?
+Dialogue: 0,0:10:20.53,0:10:26.24,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(732,893.333)\frx-270\t(0,170,\frx-360)\org(1048,861.333)}Attack 2 {\c&H000000&}Phone call
+Dialogue: 0,0:10:38.88,0:10:51.13,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(612,893.333)\frx-270\t(0,170,\frx-360)\org(958,858.666)}Attack 3{\c&H000000&}Rehearsal
+Dialogue: 0,0:10:20.83,0:10:22.27,normal_Wed,,0,0,0,,I have an old cracked hemorrhoid
+Dialogue: 0,0:10:22.27,0:10:26.24,normal_Wed,,0,0,0,,From birth until now
+Dialogue: 0,0:10:26.84,0:10:30.51,normal_Wed,,0,0,0,,But this doesn't work either
+Dialogue: 0,0:10:31.78,0:10:32.57,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:10:36.41,0:10:38.88,normal_Wed,,0,0,0,,Practice time
+Dialogue: 0,0:10:38.03,0:10:38.88,wipe_Wed,,0,0,0,,Everyone does this
+Dialogue: 0,0:10:39.12,0:10:43.05,normal_Wed,,0,0,0,,Discounted fish in supermarkets
+Dialogue: 0,0:10:43.05,0:10:44.89,normal_Wed,,0,0,0,,With fat or without it?
+Dialogue: 0,0:10:44.89,0:10:46.92,normal_Wed,,0,0,0,,I can tell!
+Dialogue: 0,0:10:46.92,0:10:49.99,normal_Wed,,0,0,0,,Forty Party Forty Party
+Dialogue: 0,0:10:51.33,0:10:53.46,normal_Wed,,0,0,0,,This won't tickle a 60 year old's funny bone
+Dialogue: 0,0:10:53.83,0:10:55.27,normal_Wed,,0,0,0,,Wont work over 20 years old
+Dialogue: 0,0:10:56.67,0:11:01.24,normal_Wed,,0,0,0,,When eating a good steak
+Dialogue: 0,0:11:01.24,0:11:03.34,normal_Wed,,0,0,0,,Forgot about sushi
+Dialogue: 0,0:11:03.34,0:11:06.11,normal_Wed,,0,0,0,,I spit, straight to the core!
+Dialogue: 0,0:11:10.93,0:11:15.75,normal_Wed,,0,0,0,,This segment also fails
+Dialogue: 0,0:11:16.16,0:11:18.09,normal_Wed,,0,0,0,,There are no more...
+Dialogue: 0,0:11:18.32,0:11:21.29,normal_Wed,,0,0,0,,Empty... gone...
+Dialogue: 0,0:11:22.72,0:11:24.84,normal_Wed,,0,0,0,,No more
+Dialogue: 0,0:11:24.84,0:11:27.23,normal_Wed,,0,0,0,,There's nothing in the top of the fridge either, right?
+Dialogue: 0,0:11:27.23,0:11:30.60,normal_Wed,,0,0,0,,So, in a last desperate attempt
+Dialogue: 0,0:11:32.14,0:11:33.97,normal_Wed,,0,0,0,,Future, future
+Dialogue: 0,0:11:33.97,0:11:34.97,normal_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:11:36.14,0:11:37.80,normal_Wed,,0,0,0,,No good  \N-No?
+Dialogue: 0,0:11:40.08,0:11:41.81,normal_Wed,,0,0,0,,Super interesting though
+Dialogue: 0,0:11:43.95,0:11:47.42,normal_Wed,,0,0,0,,At this point we force termination
+Dialogue: 0,0:11:46.23,0:11:48.22,wipe_Wed,,0,0,0,,This is a foul
+Dialogue: 0,0:11:47.69,0:11:49.69,normal_Wed,,0,0,0,,Why completely naked?
+Dialogue: 0,0:11:49.99,0:11:53.32,normal_Wed,,0,0,0,,There is nothing else to do but to take it all off
+Dialogue: 0,0:11:53.32,0:11:54.69,normal_Wed,,0,0,0,,At the end of my tether
+Dialogue: 0,0:11:54.99,0:11:57.84,normal_Wed,,0,0,0,,I've heard that if you take it off, you can get a laugh
+Dialogue: 0,0:11:57.84,0:12:00.97,normal_Wed,,0,0,0,,I actually couldn't stop laughing
+Dialogue: 0,0:12:01.18,0:12:04.14,normal_Wed,,0,0,0,,The next third challenger is
+Dialogue: 0,0:12:07.80,0:12:10.67,normal_Wed,,0,0,0,,Morita
+Dialogue: 0,0:12:11.33,0:12:17.25,normal_Wed,,0,0,0,,For Morita, a more difficult challenge is prepared
+Dialogue: 0,0:12:17.25,0:12:20.89,normal_Wed,,0,0,0,,There are five people hiding in your house.  \N-5 people?
+Dialogue: 0,0:12:20.89,0:12:23.09,normal_Wed,,0,0,0,,Please make all 5 of them laugh
+Dialogue: 0,0:12:23.45,0:12:27.46,normal_Wed,,0,0,0,,Five people, it's quite difficult
+Dialogue: 0,0:12:28.04,0:12:33.93,normal_Wed,,0,0,0,,This time, the five people are hidden as shown above
+Dialogue: 0,0:12:34.27,0:12:38.29,normal_Wed,,0,0,0,,The challenge is to make all these people laugh
+Dialogue: 0,0:12:38.72,0:12:39.70,normal_Wed,,0,0,0,,This challenge is called
+Dialogue: 0,0:12:41.33,0:12:44.88,normal_Wed,,0,0,0,,THE IEMONEA
+Dialogue: 0,0:12:41.33,0:12:44.88,note_Wed,,0,0,0,,{\blur4}*Spoofed of THE IROMONEA, a variety show
+Dialogue: 0,0:12:45.95,0:12:52.25,normal_Wed,,0,0,0,,Aim to make 5 people laugh!
+Dialogue: 0,0:12:55.29,0:12:56.12,normal_Wed,,0,0,0,,Ah, I'm exhausted
+Dialogue: 0,0:13:04.04,0:13:05.95,wipe_Wed,,0,0,0,,Very natural feeling
+Dialogue: 0,0:13:05.95,0:13:09.28,normal_Wed,,0,0,0,,Morita's initial battle plan is
+Dialogue: 0,0:13:21.55,0:13:43.00,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(1146,637.334)\frx-270\t(0,170,\frx-360)\org(1258,560.001)}Attack 1 \NFart
+Dialogue: 0,0:13:28.76,0:13:32.32,wipe_Wed,,0,0,0,,The one in the middle is going to laugh\N  -Straight away
+Dialogue: 0,0:13:40.65,0:13:43.23,wipe_Wed,,0,0,0,,Laughing!
+Dialogue: 0,0:13:43.23,0:13:50.42,normal_Wed,,0,0,0,,Successfully made a women in her fifties laugh with fart noises
+Dialogue: 0,0:13:52.68,0:13:53.58,normal_Wed,,0,0,0,,Hello?
+Dialogue: 0,0:13:56.77,0:13:58.32,normal_Wed,,0,0,0,,Is it convenient now?
+Dialogue: 0,0:13:58.82,0:14:04.09,normal_Wed,,0,0,0,,Something for FRIDAY
+Dialogue: 0,0:13:58.82,0:14:04.09,note_Wed,,0,0,0,,{\blur4}*FRIDAY - Magazine which sometimes reports cheating celebrities
+Dialogue: 0,0:14:04.64,0:14:08.16,normal_Wed,,0,0,0,,Well, I have some inforation
+Dialogue: 0,0:14:08.16,0:14:10.43,normal_Wed,,0,0,0,,I want to sell it to you
+Dialogue: 0,0:14:12.46,0:14:18.14,normal_Wed,,0,0,0,,It's about New York's Yashiki cheating
+Dialogue: 0,0:14:18.14,0:14:41.09,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(334,653.333)\frx-270\t(0,170,\frx-360)\org(776,618.666)}Attack 2{\c&H000000&} Selling comedian gossip
+Dialogue: 0,0:14:21.32,0:14:23.23,wipe_Wed,,0,0,0,,Everyone is listening with great interest!
+Dialogue: 0,0:14:22.27,0:14:24.68,normal_Wed,,0,0,0,,Photos have been taken
+Dialogue: 0,0:14:24.68,0:14:26.25,normal_Wed,,0,0,0,,Not a photo of the cheating scene
+Dialogue: 0,0:14:26.24,0:14:29.41,normal_Wed,,0,0,0,,It is a photo of drinking with the cheating partner
+Dialogue: 0,0:14:29.61,0:14:33.58,normal_Wed,,0,0,0,,How much can I get?
+Dialogue: 0,0:14:28.76,0:14:30.00,wipe_Wed,,0,0,0,,Listening carefully!
+Dialogue: 0,0:14:35.49,0:14:37.39,normal_Wed,,0,0,0,,20…
+Dialogue: 0,0:14:37.39,0:14:41.09,normal_Wed,,0,0,0,,Oh really
+Dialogue: 0,0:14:41.19,0:14:47.20,normal_Wed,,0,0,0,,Well, 20...20 is a bit low, right?
+Dialogue: 0,0:14:47.20,0:14:48.93,normal_Wed,,0,0,0,,When selling TKO Kimoto's news before
+Dialogue: 0,0:14:48.93,0:14:52.37,normal_Wed,,0,0,0,,There was 60
+Dialogue: 0,0:14:50.01,0:14:51.26,wipe_Wed,,0,0,0,,So it was you!
+Dialogue: 0,0:14:52.84,0:14:57.71,normal_Wed,,0,0,0,,No, a 60 percent negotiation
+Dialogue: 0,0:14:57.71,0:15:04.05,normal_Wed,,0,0,0,,So, in comparison, the 20 for New York is a bit less, right?
+Dialogue: 0,0:15:00.04,0:15:00.94,wipe_Wed,,0,0,0,,Listening to it, listening to it
+Dialogue: 0,0:15:02.20,0:15:04.60,wipe_Wed,,0,0,0,,"It was you!" might make them laugh
+Dialogue: 0,0:15:04.05,0:15:06.12,normal_Wed,,0,0,0,,Do you accept those kinds of things?
+Dialogue: 0,0:15:06.12,0:15:09.85,normal_Wed,,0,0,0,,Do you also accept info about harassment?
+Dialogue: 0,0:15:09.86,0:15:12.82,normal_Wed,,0,0,0,,It's about Rice
+Dialogue: 0,0:15:12.82,0:15:14.82,wipe_Wed,,0,0,0,,Too weak?
+Dialogue: 0,0:15:15.59,0:15:19.30,normal_Wed,,0,0,0,,4,000 yen? Eh?
+Dialogue: 0,0:15:18.25,0:15:20.76,wipe_Wed,,0,0,0,,Another laughed!
+Dialogue: 0,0:15:21.00,0:15:25.24,normal_Wed,,0,0,0,,No, he is also the King of Conte champion
+Dialogue: 0,0:15:25.60,0:15:26.70,normal_Wed,,0,0,0,,Later
+Dialogue: 0,0:15:30.06,0:15:33.66,normal_Wed,,0,0,0,,By hanging his competitor's pictures on the dartboard
+Dialogue: 0,0:15:34.24,0:15:36.72,normal_Wed,,0,0,0,,He made a man in his 40s laugh too
+Dialogue: 0,0:15:30.01,0:15:36.75,special_Wed_1_1,,0,0,0,,{\pos(284,656)\c&H0102DB&\frx-270\t(0,170,\frx-360)\org(744,624)}Attack 3{\c&H000000&} Competitors on dartboard
+Dialogue: 0,0:15:36.76,0:15:39.48,normal_Wed,,0,0,0,,Throwing darts straight at New York
+Dialogue: 0,0:15:39.95,0:15:44.72,normal_Wed,,0,0,0,,The pace is very good at this point as he has amused three
+Dialogue: 0,0:15:46.06,0:15:47.21,normal_Wed,,0,0,0,,Coming
+Dialogue: 0,0:15:49.90,0:15:52.91,wipe_Wed,,0,0,0,,Morita doesn't know how many people are left
+Dialogue: 0,0:15:52.93,0:15:55.30,normal_Wed,,0,0,0,,I'm sorry you had to come all the way out here
+Dialogue: 0,0:15:55.30,0:15:57.87,normal_Wed,,0,0,0,,Come on in.\N  -Excuse me
+Dialogue: 0,0:15:56.96,0:15:58.65,wipe_Wed,,0,0,0,,Is that Hyouroku?
+Dialogue: 0,0:15:59.66,0:16:04.56,normal_Wed,,0,0,0,,At this point he is joined by his junior Hyouroku who has been prepared in advance to elicit laughs
+Dialogue: 0,0:16:05.85,0:16:10.08,normal_Wed,,0,0,0,,Morita finds an excuse to go out first
+Dialogue: 0,0:16:10.08,0:16:12.27,normal_Wed,,0,0,0,,And lets the others watch Hyouroku alone in the house
+Dialogue: 0,0:16:12.59,0:16:14.05,wipe_Wed,,0,0,0,,Handed over to Hyouroku?
+Dialogue: 0,0:16:19.52,0:16:25.13,special_Wed_1_1,,0,0,0,,{\3c&H0102DB&\c&HFFFFFF&\pos(962,565.333)\fad(200,200)}Morita's cigarette
+Dialogue: 0,0:16:24.37,0:16:26.01,wipe_Wed,,0,0,0,,Is Hyouroku a bad guy?
+Dialogue: 0,0:16:31.14,0:16:32.38,wipe_Wed,,0,0,0,,What kind of clothes are these?
+Dialogue: 0,0:16:34.57,0:16:38.71,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(424,648)\frx-270\t(0,170,\frx-360)\org(770,613.333)}Attack 4 {\c&H0102DB&} Unauthorized smoking
+Dialogue: 0,0:16:35.32,0:16:37.59,wipe_Wed,,0,0,0,,What a unique smoking position
+Dialogue: 0,0:16:38.72,0:16:41.40,normal_Wed,,0,0,0,,Very in synch with the bear behind him
+Dialogue: 0,0:16:43.39,0:16:46.81,wipe_Wed,,0,0,0,,Like a composite photo
+Dialogue: 0,0:16:47.91,0:16:49.32,wipe_Wed,,0,0,0,,What are we watching?
+Dialogue: 0,0:16:49.85,0:16:51.71,wipe_Wed,,0,0,0,,How old is Hyouroku?
+Dialogue: 0,0:16:52.33,0:17:00.66,special_Wed_1_1,,0,0,0,,{\c&HFFFFFF&\fad(200,0)\pos(368,426.667)\3c&H0000FF&}Morita's bag
+Dialogue: 0,0:16:56.42,0:16:58.04,wipe_Wed,,0,0,0,,Hyouroku's a bad guy!
+Dialogue: 0,0:17:00.04,0:17:01.08,wipe_Wed,,0,0,0,,Going through other peoples bags
+Dialogue: 0,0:17:01.74,0:17:03.20,wipe_Wed,,0,0,0,,How can you laugh at this?
+Dialogue: 0,0:17:03.20,0:17:05.91,wipe_Wed,,0,0,0,,This thin bald headed guy is too scary
+Dialogue: 0,0:17:08.88,0:17:10.74,wipe_Wed,,0,0,0,,Opening everything!
+Dialogue: 0,0:17:12.35,0:17:14.22,wipe_Wed,,0,0,0,,What brand of clothes are you wearing?
+Dialogue: 0,0:17:15.21,0:17:17.78,normal_Wed,,0,0,0,,Wow, that's a lot of money
+Dialogue: 0,0:17:19.33,0:17:20.51,wipe_Wed,,0,0,0,,You can't laugh at this, right?
+Dialogue: 0,0:17:24.53,0:17:31.34,wipe_Wed,,0,0,0,,This thin bald headed guy counting money is so scary
+Dialogue: 0,0:17:36.04,0:17:38.14,wipe_Wed,,0,0,0,,Put it back first
+Dialogue: 0,0:17:41.18,0:17:42.36,wipe_Wed,,0,0,0,,Hyouroku stage
+Dialogue: 0,0:17:46.60,0:17:48.88,wipe_Wed,,0,0,0,,What is this plot?
+Dialogue: 0,0:17:47.98,0:17:57.29,special_Wed_1_1,,0,0,0,,{\c&H0102DB&\pos(332,648)\frx-270\t(0,170,\frx-360)\org(774,616)}Attack 5 {\c&H0102DB&}Hyouroku steals 70,000 yen
+Dialogue: 0,0:17:55.16,0:17:57.51,wipe_Wed,,0,0,0,,So there are people that'd laugh
+Dialogue: 0,0:17:57.54,0:18:00.49,normal_Wed,,0,0,0,,Now there's only one person left
+Dialogue: 0,0:18:00.49,0:18:02.04,wipe_Wed,,0,0,0,,This one is very tolerant
+Dialogue: 0,0:18:02.04,0:18:06.80,normal_Wed,,0,0,0,,Morita gives Hyouroku 10,000 yen for the taxi upon returning
+Dialogue: 0,0:18:08.43,0:18:10.17,normal_Wed,,0,0,0,,Take a taxi back
+Dialogue: 0,0:18:10.73,0:18:14.72,normal_Wed,,0,0,0,,When graciously sending the thief Hyouroku out
+Dialogue: 0,0:18:15.34,0:18:17.94,normal_Wed,,0,0,0,,The time ends
+Dialogue: 0,0:18:17.58,0:18:18.54,wipe_Wed,,0,0,0,,Very strong
+Dialogue: 0,0:18:18.54,0:18:24.75,normal_Wed,,0,0,0,,The staff reports to Morita that he failed to make all five laugh
+Dialogue: 0,0:18:26.75,0:18:30.29,normal_Wed,,0,0,0,,It's so annoying, really
+Dialogue: 0,0:18:32.54,0:18:37.66,normal_Wed,,0,0,0,,Just like before, he pretends to be surprised
+Dialogue: 0,0:18:43.13,0:18:45.17,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:18:46.17,0:18:48.71,normal_Wed,,0,0,0,,Enough already
+Dialogue: 0,0:18:50.01,0:18:52.08,normal_Wed,,0,0,0,,Ah!
+Dialogue: 0,0:18:51.19,0:18:52.66,wipe_Wed,,0,0,0,,What is this part?
+Dialogue: 0,0:18:55.45,0:18:56.84,wipe_Wed,,0,0,0,,The search is quite fast
+Dialogue: 0,0:18:58.02,0:18:59.65,normal_Wed,,0,0,0,,Oi!
+Dialogue: 0,0:18:59.88,0:19:02.25,normal_Wed,,0,0,0,,Unfortunately, that's it
+Dialogue: 0,0:19:02.25,0:19:03.99,normal_Wed,,0,0,0,,There was one person left
+Dialogue: 0,0:19:03.99,0:19:06.59,normal_Wed,,0,0,0,,Because the time ran out
+Dialogue: 0,0:19:06.59,0:19:09.83,normal_Wed,,0,0,0,,It's as bad as failing at IROMONEA
+Dialogue: 0,0:19:09.83,0:19:10.79,normal_Wed,,0,0,0,,Really
+Dialogue: 0,0:19:10.79,0:19:16.20,normal_Wed,,0,0,0,,{\c&H0000FF&\3c&HFFFFFF&}In summary \N{\c\3c}Now accepting challengers
+Dialogue: 0,0:19:18.50,0:19:20.00,normal_Wed,,0,0,0,,What do you think, Matsumoto?
+Dialogue: 0,0:19:20.00,0:19:23.94,normal_Wed,,0,0,0,,There was a pattern of doing their routines
+Dialogue: 0,0:19:23.94,0:19:26.48,normal_Wed,,0,0,0,,Indeed, under the pretext of making a video
+Dialogue: 0,0:19:26.48,0:19:30.11,normal_Wed,,0,0,0,,Came up with a reason to perform
+Dialogue: 0,0:19:30.11,0:19:31.76,normal_Wed,,0,0,0,,Incidentally
+Dialogue: 0,0:19:31.76,0:19:34.22,normal_Wed,,0,0,0,,After filming
+Dialogue: 0,0:19:34.75,0:19:37.99,normal_Wed,,0,0,0,,She was scolded by her manager, who is much younger than her
+Dialogue: 0,0:19:38.80,0:19:40.16,normal_Wed,,0,0,0,,What was she doing
+Dialogue: 0,0:19:40.32,0:19:44.36,normal_Wed,,0,0,0,,"How can this be broadcast!?" she said
+Dialogue: 0,0:19:45.26,0:19:46.30,normal_Wed,,0,0,0,,But it's actually on the air!
+Dialogue: 0,0:19:47.80,0:19:50.28,normal_Wed,,0,0,0,,Indeed, when I look back on it now
+Dialogue: 0,0:19:50.28,0:19:54.57,normal_Wed,,0,0,0,,Her shouting "future future" was pretty entertaining
+Dialogue: 0,0:19:55.66,0:19:57.80,normal_Wed,,0,0,0,,No futuristic feeling at all
+Dialogue: 0,0:20:11.51,0:20:14.16,normal_Wed,,0,0,0,,Let's welcome the next presenter
+Dialogue: 0,0:20:16.70,0:20:17.38,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:20:19.13,0:20:22.44,normal_Wed,,0,0,0,,He's here! \N-Its Fujiawara!
+Dialogue: 0,0:20:24.34,0:20:26.27,normal_Wed,,0,0,0,,I remember.\N  -Yeah
+Dialogue: 0,0:20:26.27,0:20:28.64,normal_Wed,,0,0,0,,What follows is not a theory
+Dialogue: 0,0:20:28.64,0:20:31.04,normal_Wed,,0,0,0,,It is the continuation from last week
+Dialogue: 0,0:20:32.23,0:20:34.10,normal_Wed,,0,0,0,,MONSTER LOVE
+Dialogue: 0,0:20:34.10,0:20:35.76,normal_Wed,,0,0,0,,Here we go!
+Dialogue: 0,0:20:37.41,0:20:41.92,normal_Wed,,0,0,0,,Last week Kuro-chan's new project began
+Dialogue: 0,0:20:41.92,0:20:45.03,normal_Wed,,0,0,0,,Everyone has already seen the first episode
+Dialogue: 0,0:20:45.03,0:20:45.99,normal_Wed,,0,0,0,,Of course
+Dialogue: 0,0:20:45.99,0:20:49.02,normal_Wed,,0,0,0,,Here's a brief review
+Dialogue: 0,0:20:49.04,0:20:55.28,normal_Wed,,0,0,0,,9 women claim to like Kuro-chan, who knows nothing
+Dialogue: 0,0:20:55.28,0:21:01.28,normal_Wed,,0,0,0,,Among these 9 are people just pretending to like him
+Dialogue: 0,0:21:01.28,0:21:04.74,normal_Wed,,0,0,0,,Two were selected for elimination
+Dialogue: 0,0:21:04.74,0:21:08.68,normal_Wed,,0,0,0,,And both were just pretending to like him
+Dialogue: 0,0:21:08.68,0:21:10.14,normal_Wed,,0,0,0,,That's what happened
+Dialogue: 0,0:21:10.14,0:21:12.80,normal_Wed,,0,0,0,,So now it's down to these 7
+Dialogue: 0,0:21:15.44,0:21:19.72,normal_Wed,,0,0,0,,They are arranged in order of Kuro-chan's preference
+Dialogue: 0,0:21:20.54,0:21:21.78,normal_Wed,,0,0,0,,Starting with Miku
+Dialogue: 0,0:21:22.34,0:21:27.32,normal_Wed,,0,0,0,,We also don't know how many people are lying.  \N-That's interesting
+Dialogue: 0,0:21:28.34,0:21:32.60,normal_Wed,,0,0,0,,Now, they are going to start living together in Okinawa
+Dialogue: 0,0:21:32.60,0:21:34.62,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:21:34.62,0:21:35.68,normal_Wed,,0,0,0,,Let's watch
+Dialogue: 0,0:21:36.38,0:21:38.17,normal_Wed,,0,0,0,,Getting wet!
+Dialogue: 0,0:21:40.14,0:21:43.32,normal_Wed,,0,0,0,,Typhoon, hurry up!
+Dialogue: 0,0:21:40.45,0:21:41.63,wipe_Wed,,0,0,0,,A very exciting beginning
+Dialogue: 0,0:21:43.33,0:21:44.80,normal_Wed,,0,0,0,,Here, here
+Dialogue: 0,0:21:45.99,0:21:47.65,normal_Wed,,0,0,0,,Hurry up!
+Dialogue: 0,0:21:47.65,0:21:49.28,wipe_Wed,,0,0,0,,Trying to escape the weather
+Dialogue: 0,0:21:49.69,0:21:52.32,normal_Wed,,0,0,0,,This place is awesome!
+Dialogue: 0,0:21:52.32,0:21:53.46,normal_Wed,,0,0,0,,Awesome!
+Dialogue: 0,0:21:53.59,0:21:55.79,normal_Wed,,0,0,0,,Amazing!
+Dialogue: 0,0:21:55.79,0:21:56.96,normal_Wed,,0,0,0,,Its like an art museum!
+Dialogue: 0,0:21:56.96,0:22:00.06,normal_Wed,,0,0,0,,The 2nd floor is also very luxurious
+Dialogue: 0,0:22:00.06,0:22:01.71,normal_Wed,,0,0,0,,Absolutely luxurious
+Dialogue: 0,0:22:02.63,0:22:07.60,normal_Wed,,0,0,0,,Except for one who could not attend due to the typhoon
+Dialogue: 0,0:22:07.60,0:22:12.01,normal_Wed,,0,0,0,,The six women here will start living with Kuro-chan
+Dialogue: 0,0:22:13.38,0:22:18.38,normal_Wed,,0,0,0,,By the way, the absent Nodoka is also a pretender
+Dialogue: 0,0:22:19.45,0:22:21.79,normal_Wed,,0,0,0,,Cheers!
+Dialogue: 0,0:22:21.79,0:22:23.75,normal_Wed,,0,0,0,,Since we've toasted
+Dialogue: 0,0:22:24.69,0:22:27.09,normal_Wed,,0,0,0,,Are there any places you would like to visit?
+Dialogue: 0,0:22:27.26,0:22:29.09,normal_Wed,,0,0,0,,Ah, I do. I want to go to the aquarium
+Dialogue: 0,0:22:29.09,0:22:29.76,normal_Wed,,0,0,0,,Aquarium?
+Dialogue: 0,0:22:29.76,0:22:30.75,normal_Wed,,0,0,0,,Not bad
+Dialogue: 0,0:22:32.40,0:22:33.39,normal_Wed,,0,0,0,,Who wants to go to the aquarium?
+Dialogue: 0,0:22:33.90,0:22:35.16,normal_Wed,,0,0,0,,Ah, everyone!
+Dialogue: 0,0:22:35.16,0:22:35.87,normal_Wed,,0,0,0,,I want to go
+Dialogue: 0,0:22:35.87,0:22:37.68,normal_Wed,,0,0,0,,It's suitable for a rainy day too
+Dialogue: 0,0:22:37.68,0:22:40.18,normal_Wed,,0,0,0,,Then pack your bags first
+Dialogue: 0,0:22:40.47,0:22:42.44,normal_Wed,,0,0,0,,To the aquarium yo~
+Dialogue: 0,0:22:42.57,0:22:43.91,normal_Wed,,0,0,0,,Don't go swimming in there yo~
+Dialogue: 0,0:22:44.48,0:22:45.28,wipe_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:22:46.06,0:22:49.28,wipe_Wed,,0,0,0,,What a boring conversation. \N -Yeah
+Dialogue: 0,0:22:51.40,0:22:52.86,wipe_Wed,,0,0,0,,Talking is boring
+Dialogue: 0,0:22:55.34,0:22:56.94,wipe_Wed,,0,0,0,,This opening
+Dialogue: 0,0:23:10.54,0:23:11.38,wipe_Wed,,0,0,0,,Very beautiful
+Dialogue: 0,0:23:15.37,0:23:16.55,wipe_Wed,,0,0,0,,What a shot!
+Dialogue: 0,0:23:18.90,0:23:19.52,wipe_Wed,,0,0,0,,So annoying
+Dialogue: 0,0:23:19.52,0:23:21.31,wipe_Wed,,0,0,0,,Do you need to make it so fashionable?
+Dialogue: 0,0:23:21.31,0:23:22.46,wipe_Wed,,0,0,0,,Annoying
+Dialogue: 0,0:23:23.72,0:23:26.53,wipe_Wed,,0,0,0,,Ah its the one that's just been completed
+Dialogue: 0,0:23:28.59,0:23:30.29,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:23:34.99,0:23:38.40,normal_Wed,,0,0,0,,Looks like Nemo
+Dialogue: 0,0:23:38.40,0:23:39.60,normal_Wed,,0,0,0,,Isn't it?
+Dialogue: 0,0:23:41.06,0:23:43.17,normal_Wed,,0,0,0,,So cute!
+Dialogue: 0,0:23:42.60,0:23:45.27,wipe_Wed,,0,0,0,,So annoying  \N-Boring as hell!
+Dialogue: 0,0:23:43.30,0:23:45.27,normal_Wed,,0,0,0,,A little like Kuro-chan
+Dialogue: 0,0:23:45.27,0:23:46.70,normal_Wed,,0,0,0,,So cute!
+Dialogue: 0,0:23:46.94,0:23:50.01,normal_Wed,,0,0,0,,I have something to say to Kuro-chan
+Dialogue: 0,0:23:51.31,0:23:52.44,normal_Wed,,0,0,0,,To me? \N-Yeah
+Dialogue: 0,0:23:52.44,0:23:53.50,wipe_Wed,,0,0,0,,This approach of taking the initiative is suspicious
+Dialogue: 0,0:23:53.74,0:23:55.88,normal_Wed,,0,0,0,,Can I?  \N-Sure
+Dialogue: 0,0:23:55.88,0:23:56.41,normal_Wed,,0,0,0,,Let's go
+Dialogue: 0,0:23:59.70,0:24:01.50,wipe_Wed,,0,0,0,,Whoa
+Dialogue: 0,0:24:01.92,0:24:04.25,normal_Wed,,0,0,0,,Crocodile
+Dialogue: 0,0:24:04.25,0:24:05.20,normal_Wed,,0,0,0,,It's not moving
+Dialogue: 0,0:24:06.59,0:24:07.83,normal_Wed,,0,0,0,,Look here. Crocodile
+Dialogue: 0,0:24:09.86,0:24:12.20,normal_Wed,,0,0,0,,Its really not moving, but pretty cute
+Dialogue: 0,0:24:12.76,0:24:16.44,normal_Wed,,0,0,0,,Isn't it impressive? It's big. \N -Yes, it is
+Dialogue: 0,0:24:16.70,0:24:21.18,normal_Wed,,0,0,0,,Eh? Two people talking alone
+Dialogue: 0,0:24:21.61,0:24:24.14,normal_Wed,,0,0,0,,Is this happening?
+Dialogue: 0,0:24:24.78,0:24:29.68,normal_Wed,,0,0,0,,You said you wanted to ask me something. What is it?
+Dialogue: 0,0:24:29.68,0:24:34.49,normal_Wed,,0,0,0,,Before, you said I am the cutest
+Dialogue: 0,0:24:34.49,0:24:38.76,normal_Wed,,0,0,0,,You said you liked me the most
+Dialogue: 0,0:24:36.39,0:24:37.89,wipe_Wed,,0,0,0,,That's what this guy says to everyone
+Dialogue: 0,0:24:38.56,0:24:39.78,wipe_Wed,,0,0,0,,Then the ranking is revealed
+Dialogue: 0,0:24:38.92,0:24:40.59,normal_Wed,,0,0,0,,Yes, I said so
+Dialogue: 0,0:24:41.19,0:24:46.76,normal_Wed,,0,0,0,,But when it was announced
+Dialogue: 0,0:24:46.76,0:24:50.70,normal_Wed,,0,0,0,,I wasn't first, I was second
+Dialogue: 0,0:24:51.56,0:24:54.36,wipe_Wed,,0,0,0,,Yeah \N-He said he likes her the most
+Dialogue: 0,0:24:54.36,0:24:55.43,normal_Wed,,0,0,0,,Qualified
+Dialogue: 0,0:24:55.43,0:24:57.52,wipe_Wed,,0,0,0,,It's not the same as what he said
+Dialogue: 0,0:24:59.15,0:24:59.74,wipe_Wed,,0,0,0,,Second
+Dialogue: 0,0:24:59.74,0:25:03.34,wipe_Wed,,0,0,0,,A little concerned, right?
+Dialogue: 0,0:25:03.21,0:25:04.44,normal_Wed,,0,0,0,,Ah~
+Dialogue: 0,0:25:04.44,0:25:05.81,normal_Wed,,0,0,0,,What "ah~"
+Dialogue: 0,0:25:05.81,0:25:07.68,normal_Wed,,0,0,0,,Remember?
+Dialogue: 0,0:25:08.42,0:25:11.19,normal_Wed,,0,0,0,,I'm not sure why
+Dialogue: 0,0:25:12.25,0:25:14.09,normal_Wed,,0,0,0,,Are you concerned?\N  -Yeah
+Dialogue: 0,0:25:14.39,0:25:16.48,normal_Wed,,0,0,0,,Well, that...
+Dialogue: 0,0:25:16.63,0:25:20.29,normal_Wed,,0,0,0,,If you are the first to be called
+Dialogue: 0,0:25:20.90,0:25:24.63,normal_Wed,,0,0,0,,People will know that I obviously like you
+Dialogue: 0,0:25:23.71,0:25:24.63,wipe_Wed,,0,0,0,,What does it matter?
+Dialogue: 0,0:25:24.94,0:25:28.14,normal_Wed,,0,0,0,,The other girls may be jealous and annoyed at you
+Dialogue: 0,0:25:28.81,0:25:31.61,normal_Wed,,0,0,0,,So I chose you second on purpose
+Dialogue: 0,0:25:31.81,0:25:33.91,normal_Wed,,0,0,0,,Misdirection, misdirection
+Dialogue: 0,0:25:33.91,0:25:36.98,normal_Wed,,0,0,0,,I want to be first
+Dialogue: 0,0:25:33.96,0:25:35.81,wipe_Wed,,0,0,0,,Is that a valid reason?
+Dialogue: 0,0:25:37.31,0:25:41.89,normal_Wed,,0,0,0,,You know... for you
+Dialogue: 0,0:25:41.89,0:25:44.44,normal_Wed,,0,0,0,,I want you to feel at ease
+Dialogue: 0,0:25:44.44,0:25:46.11,wipe_Wed,,0,0,0,,What are you talking about? \N -So gross
+Dialogue: 0,0:25:45.76,0:25:49.13,normal_Wed,,0,0,0,,I'm a bit worried \N-Worried?
+Dialogue: 0,0:25:47.36,0:25:49.12,wipe_Wed,,0,0,0,,So annoying \N -What a playboy
+Dialogue: 0,0:25:49.89,0:25:51.64,normal_Wed,,0,0,0,,But feeling uneasy like this
+Dialogue: 0,0:25:52.56,0:25:54.53,normal_Wed,,0,0,0,,You'll like me even more, right?
+Dialogue: 0,0:25:54.73,0:25:58.06,normal_Wed,,0,0,0,,Yeah, but i've been kind of concerned since then
+Dialogue: 0,0:25:58.30,0:26:02.37,normal_Wed,,0,0,0,,After coming to Okinawa I still think of you the first
+Dialogue: 0,0:26:03.41,0:26:05.79,normal_Wed,,0,0,0,,Really? Really? \N -Yeah
+Dialogue: 0,0:26:03.47,0:26:05.79,wipe_Wed,,0,0,0,,Must have said the same to others
+Dialogue: 0,0:26:06.64,0:26:08.11,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:26:07.62,0:26:09.88,wipe_Wed,,0,0,0,,Pretty direct
+Dialogue: 0,0:26:09.81,0:26:12.05,normal_Wed,,0,0,0,,So direct
+Dialogue: 0,0:26:12.05,0:26:17.29,normal_Wed,,0,0,0,,You know, i'm not looking for a fun relationship
+Dialogue: 0,0:26:17.62,0:26:19.12,normal_Wed,,0,0,0,,Such a cool face
+Dialogue: 0,0:26:21.16,0:26:23.46,normal_Wed,,0,0,0,,I'm serious
+Dialogue: 0,0:26:25.46,0:26:27.83,normal_Wed,,0,0,0,,I can feel the tingling of fate
+Dialogue: 0,0:26:24.97,0:26:27.01,wipe_Wed,,0,0,0,,So disgusting!
+Dialogue: 0,0:26:27.48,0:26:28.47,wipe_Wed,,0,0,0,,Tingling
+Dialogue: 0,0:26:28.90,0:26:33.16,normal_Wed,,0,0,0,,Great, I'll remember those words
+Dialogue: 0,0:26:33.47,0:26:39.72,normal_Wed,,0,0,0,,In turn, what you're saying to me now
+Dialogue: 0,0:26:42.26,0:26:43.61,normal_Wed,,0,0,0,,You're not lying to me, are you?
+Dialogue: 0,0:26:44.38,0:26:46.65,normal_Wed,,0,0,0,,It's not a trick
+Dialogue: 0,0:26:45.16,0:26:47.94,wipe_Wed,,0,0,0,,He's suspicious
+Dialogue: 0,0:26:46.66,0:26:47.95,normal_Wed,,0,0,0,,Really
+Dialogue: 0,0:26:48.78,0:26:50.55,normal_Wed,,0,0,0,,Can I trust you?\N  -Yeah
+Dialogue: 0,0:26:54.20,0:26:56.16,normal_Wed,,0,0,0,,I believe in you
+Dialogue: 0,0:26:55.34,0:26:59.03,wipe_Wed,,0,0,0,,He believes \N-Isn't it a little early to believe?
+Dialogue: 0,0:26:59.87,0:27:00.73,wipe_Wed,,0,0,0,,The weather is so bad
+Dialogue: 0,0:27:01.26,0:27:03.63,normal_Wed,,0,0,0,,We whipped up some food
+Dialogue: 0,0:27:03.63,0:27:04.20,normal_Wed,,0,0,0,,If you want to eat
+Dialogue: 0,0:27:04.20,0:27:05.84,normal_Wed,,0,0,0,,Eh? Did you guys make this?
+Dialogue: 0,0:27:05.84,0:27:06.77,normal_Wed,,0,0,0,,We did
+Dialogue: 0,0:27:06.77,0:27:07.80,normal_Wed,,0,0,0,,Who made it?
+Dialogue: 0,0:27:07.80,0:27:09.21,normal_Wed,,0,0,0,,Me and Naru
+Dialogue: 0,0:27:09.21,0:27:10.81,normal_Wed,,0,0,0,,Ah, the 2 of you did it?
+Dialogue: 0,0:27:10.81,0:27:12.04,normal_Wed,,0,0,0,,So impressive!
+Dialogue: 0,0:27:12.21,0:27:14.38,normal_Wed,,0,0,0,,I better eat it while its still hot then!
+Dialogue: 0,0:27:14.38,0:27:15.40,normal_Wed,,0,0,0,,Yes, please do
+Dialogue: 0,0:27:23.12,0:27:24.22,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:27:24.59,0:27:26.48,normal_Wed,,0,0,0,,Yes, it's delicious
+Dialogue: 0,0:27:26.48,0:27:27.40,normal_Wed,,0,0,0,,Is it good?
+Dialogue: 0,0:27:27.99,0:27:28.46,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:27:28.46,0:27:30.33,normal_Wed,,0,0,0,,Mildly spicy
+Dialogue: 0,0:27:37.19,0:27:38.05,wipe_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:27:39.17,0:27:40.47,wipe_Wed,,0,0,0,,An individual action
+Dialogue: 0,0:27:40.47,0:27:42.08,wipe_Wed,,0,0,0,,What's she doing?
+Dialogue: 0,0:27:41.46,0:27:42.28,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:27:42.28,0:27:43.08,normal_Wed,,0,0,0,,Oh, Miku!
+Dialogue: 0,0:27:44.37,0:27:46.06,normal_Wed,,0,0,0,,Can I sit next to you?
+Dialogue: 0,0:27:46.11,0:27:48.48,normal_Wed,,0,0,0,,Oh, of course!
+Dialogue: 0,0:27:48.48,0:27:50.01,normal_Wed,,0,0,0,,Excuse me
+Dialogue: 0,0:27:50.01,0:27:51.48,normal_Wed,,0,0,0,,Please sit down
+Dialogue: 0,0:27:51.72,0:27:53.99,normal_Wed,,0,0,0,,Eh? You're alone?
+Dialogue: 0,0:27:54.38,0:27:56.59,normal_Wed,,0,0,0,,Everyone is resting
+Dialogue: 0,0:27:55.48,0:27:56.01,wipe_Wed,,0,0,0,,So close
+Dialogue: 0,0:27:56.82,0:28:00.62,normal_Wed,,0,0,0,,So I came over
+Dialogue: 0,0:28:00.62,0:28:01.36,normal_Wed,,0,0,0,,You came over
+Dialogue: 0,0:27:59.22,0:28:02.22,wipe_Wed,,0,0,0,,Definitely lying
+Dialogue: 0,0:28:02.29,0:28:04.13,wipe_Wed,,0,0,0,,Not sure yet, right?
+Dialogue: 0,0:28:01.36,0:28:02.29,normal_Wed,,0,0,0,,Came over
+Dialogue: 0,0:28:02.29,0:28:05.76,normal_Wed,,0,0,0,,1 person came
+Dialogue: 0,0:28:05.76,0:28:08.53,normal_Wed,,0,0,0,,Eh? What will you do if I'm the big bad wolf?
+Dialogue: 0,0:28:08.70,0:28:10.27,normal_Wed,,0,0,0,,Die!
+Dialogue: 0,0:28:10.27,0:28:11.77,normal_Wed,,0,0,0,,Please don't say "die!"
+Dialogue: 0,0:28:11.77,0:28:14.07,normal_Wed,,0,0,0,,I'm embarrassed
+Dialogue: 0,0:28:14.07,0:28:18.74,normal_Wed,,0,0,0,,I have something to ask Kuro-chan
+Dialogue: 0,0:28:18.74,0:28:20.71,normal_Wed,,0,0,0,,Want to ask me?
+Dialogue: 0,0:28:19.50,0:28:20.71,wipe_Wed,,0,0,0,,How can there be?
+Dialogue: 0,0:28:20.91,0:28:26.72,normal_Wed,,0,0,0,,Last time I... was your first choice
+Dialogue: 0,0:28:23.60,0:28:24.82,wipe_Wed,,0,0,0,,Disgusting feet
+Dialogue: 0,0:28:26.73,0:28:30.72,normal_Wed,,0,0,0,,You chose me first, right?
+Dialogue: 0,0:28:28.94,0:28:31.29,wipe_Wed,,0,0,0,,She was first
+Dialogue: 0,0:28:31.32,0:28:33.09,normal_Wed,,0,0,0,,In Kuro-chan's mind
+Dialogue: 0,0:28:33.09,0:28:36.68,normal_Wed,,0,0,0,,Am I number one?
+Dialogue: 0,0:28:39.33,0:28:42.43,normal_Wed,,0,0,0,,Of course
+Dialogue: 0,0:28:40.68,0:28:41.53,wipe_Wed,,0,0,0,,You see!
+Dialogue: 0,0:28:42.57,0:28:43.60,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:28:43.60,0:28:45.48,normal_Wed,,0,0,0,,Really. Why are you laughing?
+Dialogue: 0,0:28:45.48,0:28:49.41,normal_Wed,,0,0,0,,It feels like...
+Dialogue: 0,0:28:49.41,0:28:53.44,normal_Wed,,0,0,0,,At that time, I was very happy to be chosen
+Dialogue: 0,0:28:54.08,0:28:57.05,normal_Wed,,0,0,0,,But today, at the aquarium
+Dialogue: 0,0:28:57.06,0:29:06.89,normal_Wed,,0,0,0,,You and Richi were alone together for a long time
+Dialogue: 0,0:29:03.70,0:29:06.89,wipe_Wed,,0,0,0,,She cares about it
+Dialogue: 0,0:29:07.02,0:29:09.33,normal_Wed,,0,0,0,,So I feel a little uneasy
+Dialogue: 0,0:29:06.88,0:29:07.72,wipe_Wed,,0,0,0,,He's so popular!
+Dialogue: 0,0:29:08.76,0:29:09.60,wipe_Wed,,0,0,0,,Exposed!
+Dialogue: 0,0:29:09.60,0:29:11.23,normal_Wed,,0,0,0,,Why do you feel uneasy?
+Dialogue: 0,0:29:12.17,0:29:17.56,normal_Wed,,0,0,0,,Because in the order of your choosing, you were first
+Dialogue: 0,0:29:17.87,0:29:22.91,normal_Wed,,0,0,0,,Do I not have anything to worry about?
+Dialogue: 0,0:29:20.03,0:29:21.31,wipe_Wed,,0,0,0,,His lips are so annoying
+Dialogue: 0,0:29:22.90,0:29:24.79,normal_Wed,,0,0,0,,Didn't I just say that?
+Dialogue: 0,0:29:24.79,0:29:26.50,wipe_Wed,,0,0,0,,So angry!
+Dialogue: 0,0:29:24.98,0:29:28.25,normal_Wed,,0,0,0,,The ranking says it all
+Dialogue: 0,0:29:30.31,0:29:36.09,normal_Wed,,0,0,0,,I've been watching you
+Dialogue: 0,0:29:34.35,0:29:35.42,wipe_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:29:36.25,0:29:38.94,normal_Wed,,0,0,0,,Calling me by my name like that is pretty embarrassing
+Dialogue: 0,0:29:38.94,0:29:40.05,wipe_Wed,,0,0,0,,Ah so cute!
+Dialogue: 0,0:29:39.16,0:29:40.06,normal_Wed,,0,0,0,,So don't want me to say it?
+Dialogue: 0,0:29:40.06,0:29:41.27,normal_Wed,,0,0,0,,No it's not that
+Dialogue: 0,0:29:41.56,0:29:48.03,normal_Wed,,0,0,0,,If you call me "Miku", can I call you "Aki-kun"?
+Dialogue: 0,0:29:48.03,0:29:49.26,wipe_Wed,,0,0,0,,Oh surprisingly she knows his actual name
+Dialogue: 0,0:29:49.13,0:29:50.60,normal_Wed,,0,0,0,,Aki-kun?
+Dialogue: 0,0:29:53.17,0:29:57.24,normal_Wed,,0,0,0,,Then I'll call you "Aki-kun" from now on
+Dialogue: 0,0:29:57.81,0:30:03.19,normal_Wed,,0,0,0,,I don't really want to go back
+Dialogue: 0,0:30:03.19,0:30:06.22,normal_Wed,,0,0,0,,Can I kiss you?
+Dialogue: 0,0:30:04.54,0:30:06.22,wipe_Wed,,0,0,0,,No, right?
+Dialogue: 0,0:30:08.04,0:30:09.43,wipe_Wed,,0,0,0,,She's attacking!
+Dialogue: 0,0:30:09.89,0:30:11.09,normal_Wed,,0,0,0,,(Ok)
+Dialogue: 0,0:30:09.44,0:30:11.09,wipe_Wed,,0,0,0,,He's in danger
+Dialogue: 0,0:30:11.66,0:30:14.12,normal_Wed,,0,0,0,,I'm shy, can you close your eyes?
+Dialogue: 0,0:30:14.15,0:30:17.22,wipe_Wed,,0,0,0,,Seriously, this is bad
+Dialogue: 0,0:30:17.22,0:30:19.72,wipe_Wed,,0,0,0,,Oh, there?
+Dialogue: 0,0:30:23.48,0:30:24.78,wipe_Wed,,0,0,0,,This guy!
+Dialogue: 0,0:30:25.45,0:30:27.14,normal_Wed,,0,0,0,,You're very bold
+Dialogue: 0,0:30:29.31,0:30:30.31,normal_Wed,,0,0,0,,So gross!
+Dialogue: 0,0:30:30.41,0:30:38.65,normal_Wed,,0,0,0,,I can't do this kind of thing normally but I want to because it's with Aki-kun
+Dialogue: 0,0:30:37.74,0:30:38.65,wipe_Wed,,0,0,0,,"Very bold"
+Dialogue: 0,0:30:39.72,0:30:44.40,normal_Wed,,0,0,0,,Miku, you're not lying to me, right?
+Dialogue: 0,0:30:44.40,0:30:44.88,wipe_Wed,,0,0,0,,He said it!
+Dialogue: 0,0:30:44.59,0:30:46.39,normal_Wed,,0,0,0,,I'm not lying to you!
+Dialogue: 0,0:30:47.56,0:30:49.79,normal_Wed,,0,0,0,,You really like me, right?
+Dialogue: 0,0:30:49.89,0:30:51.23,normal_Wed,,0,0,0,,I like you the most
+Dialogue: 0,0:30:51.23,0:30:53.76,normal_Wed,,0,0,0,,You don't trust me?
+Dialogue: 0,0:30:56.34,0:30:58.06,normal_Wed,,0,0,0,,No, I believe you
+Dialogue: 0,0:31:01.67,0:31:04.51,normal_Wed,,0,0,0,,Seriously, this is so tiring
+Dialogue: 0,0:31:06.04,0:31:07.88,normal_Wed,,0,0,0,,I'm so tired of watching this
+Dialogue: 0,0:31:04.51,0:31:06.04,normal_Wed,,0,0,0,,Saying something like "this is so tiring"
+Dialogue: 0,0:31:07.88,0:31:09.31,normal_Wed,,0,0,0,,Before that, you said "die!"
+Dialogue: 0,0:31:09.31,0:31:10.81,normal_Wed,,0,0,0,,It's an endurance test
+Dialogue: 0,0:31:10.81,0:31:14.74,normal_Wed,,0,0,0,,So, what do we think? Miku is on the offensive!
+Dialogue: 0,0:31:14.74,0:31:16.88,normal_Wed,,0,0,0,,She initiated a kiss!
+Dialogue: 0,0:31:16.88,0:31:18.19,normal_Wed,,0,0,0,,Here, right?
+Dialogue: 0,0:31:18.19,0:31:19.39,normal_Wed,,0,0,0,,Although it is the cheek
+Dialogue: 0,0:31:19.39,0:31:23.53,normal_Wed,,0,0,0,,Although it was on the temple
+Dialogue: 0,0:31:23.53,0:31:25.70,normal_Wed,,0,0,0,,I don't know what to think 'cause it was on the temple
+Dialogue: 0,0:31:25.70,0:31:27.13,normal_Wed,,0,0,0,,Although it was there
+Dialogue: 0,0:31:27.13,0:31:29.10,normal_Wed,,0,0,0,,How do women feel watching it?
+Dialogue: 0,0:31:29.10,0:31:33.67,normal_Wed,,0,0,0,,Miku is very suspicious, as is Richi
+Dialogue: 0,0:31:34.54,0:31:35.94,normal_Wed,,0,0,0,,Richi has been from the start
+Dialogue: 0,0:31:35.94,0:31:37.11,normal_Wed,,0,0,0,,Yes, both are very suspicious
+Dialogue: 0,0:31:37.11,0:31:38.64,normal_Wed,,0,0,0,,Really?  \N-Alone at the aquarium
+Dialogue: 0,0:31:38.64,0:31:40.38,normal_Wed,,0,0,0,,Yeah
+Dialogue: 0,0:31:40.38,0:31:45.04,normal_Wed,,0,0,0,,The weather has been bad the whole time, is that a problem? \N -Don't worry about it
+Dialogue: 0,0:31:45.22,0:31:48.45,normal_Wed,,0,0,0,,Will there be a sudden power failure and Kuro-chan will have been killed?
+Dialogue: 0,0:31:48.45,0:31:49.99,normal_Wed,,0,0,0,,This is not a mystery drama
+Dialogue: 0,0:31:51.59,0:31:52.73,normal_Wed,,0,0,0,,Will it clear up tomorrow?
+Dialogue: 0,0:31:52.73,0:31:54.45,normal_Wed,,0,0,0,,The weather forecast says it will be sunny tomorrow?
+Dialogue: 0,0:31:55.36,0:31:57.30,normal_Wed,,0,0,0,,Sorry I called you all here
+Dialogue: 0,0:31:58.63,0:32:01.46,normal_Wed,,0,0,0,,It seems there is a place with a lion statue experience
+Dialogue: 0,0:32:01.46,0:32:03.50,normal_Wed,,0,0,0,,Lion statue experience?
+Dialogue: 0,0:32:03.67,0:32:05.38,normal_Wed,,0,0,0,,Experience "making a lion statue"
+Dialogue: 0,0:32:05.38,0:32:08.74,normal_Wed,,0,0,0,,He means make a lion statue themselves
+Dialogue: 0,0:32:08.84,0:32:11.94,normal_Wed,,0,0,0,,There are places where you can make your own lion statue
+Dialogue: 0,0:32:09.24,0:32:11.19,wipe_Wed,,0,0,0,,Idiot!
+Dialogue: 0,0:32:11.94,0:32:13.68,normal_Wed,,0,0,0,,Well, it would be nice if we could go
+Dialogue: 0,0:32:13.78,0:32:17.28,normal_Wed,,0,0,0,,Originally I wanted to have a barbecue in the evening
+Dialogue: 0,0:32:17.28,0:32:21.99,normal_Wed,,0,0,0,,But looking at the weather, it can't be done
+Dialogue: 0,0:32:21.99,0:32:24.95,normal_Wed,,0,0,0,,So, we'll do an octopus party instead
+Dialogue: 0,0:32:24.95,0:32:28.10,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:32:26.00,0:32:27.33,wipe_Wed,,0,0,0,,Takoyaki party
+Dialogue: 0,0:32:30.19,0:32:36.93,normal_Wed,,0,0,0,,So lets divide into two groups: shopping and lion statue experience
+Dialogue: 0,0:32:33.59,0:32:35.49,wipe_Wed,,0,0,0,,I said its a lion statue {\i1}making{\i0} experience!
+Dialogue: 0,0:32:36.09,0:32:37.49,wipe_Wed,,0,0,0,,To make a lion statue!
+Dialogue: 0,0:32:36.93,0:32:40.64,normal_Wed,,0,0,0,,Who wants to do the lion statue experience with me? \N-I do!
+Dialogue: 0,0:32:41.56,0:32:42.74,wipe_Wed,,0,0,0,,Making experience!
+Dialogue: 0,0:32:41.99,0:32:44.17,normal_Wed,,0,0,0,,Everyone?
+Dialogue: 0,0:32:44.47,0:32:48.85,normal_Wed,,0,0,0,,The quickest to raise their hands were
+Dialogue: 0,0:32:49.05,0:32:54.78,normal_Wed,,0,0,0,,Naru, Richi, and Risa, right?
+Dialogue: 0,0:32:54.78,0:32:57.06,normal_Wed,,0,0,0,,Get some octopus
+Dialogue: 0,0:32:57.72,0:32:59.62,normal_Wed,,0,0,0,,Super big!
+Dialogue: 0,0:32:58.61,0:32:59.97,wipe_Wed,,0,0,0,,They split up
+Dialogue: 0,0:32:59.92,0:33:01.77,normal_Wed,,0,0,0,,Do we need that much? \N -No, I don't think so
+Dialogue: 0,0:33:01.77,0:33:04.36,normal_Wed,,0,0,0,,This one, right? \N -There are also small ones
+Dialogue: 0,0:33:04.36,0:33:06.85,wipe_Wed,,0,0,0,,Super happy when there's just 3 people
+Dialogue: 0,0:33:08.00,0:33:10.67,normal_Wed,,0,0,0,,Wow, this is awesome, huh? There are so many kinds!
+Dialogue: 0,0:33:11.10,0:33:13.28,normal_Wed,,0,0,0,,Super cute~
+Dialogue: 0,0:33:13.47,0:33:15.05,normal_Wed,,0,0,0,,Let me ask you
+Dialogue: 0,0:33:14.74,0:33:17.22,wipe_Wed,,0,0,0,,Lion statue experience  \N-Lion statue making experience
+Dialogue: 0,0:33:15.27,0:33:18.21,normal_Wed,,0,0,0,,What kind of relationships have you been in before?
+Dialogue: 0,0:33:18.61,0:33:22.61,normal_Wed,,0,0,0,,Only really one to speak of
+Dialogue: 0,0:33:22.61,0:33:26.75,normal_Wed,,0,0,0,,And only for about 4 months
+Dialogue: 0,0:33:26.75,0:33:29.22,normal_Wed,,0,0,0,,Never even held hands
+Dialogue: 0,0:33:29.22,0:33:31.15,normal_Wed,,0,0,0,,No?  \N-Nope
+Dialogue: 0,0:33:31.22,0:33:36.59,normal_Wed,,0,0,0,,So, I am very eager to be in a relationship
+Dialogue: 0,0:33:36.76,0:33:38.40,normal_Wed,,0,0,0,,What about you, Ri?
+Dialogue: 0,0:33:38.40,0:33:44.71,normal_Wed,,0,0,0,,I usually pursue people I like
+Dialogue: 0,0:33:44.70,0:33:51.14,normal_Wed,,0,0,0,,Confess to them and then go out with them
+Dialogue: 0,0:33:46.61,0:33:47.72,wipe_Wed,,0,0,0,,Very good at talking
+Dialogue: 0,0:33:51.41,0:33:54.57,normal_Wed,,0,0,0,,Even if the other person has other girlfriends
+Dialogue: 0,0:33:54.57,0:33:58.31,normal_Wed,,0,0,0,,I always thought, "It's okay because I like him," so I went out with him anyway
+Dialogue: 0,0:33:58.62,0:34:00.42,normal_Wed,,0,0,0,,You knew they were dating someone else?\N  -Yes
+Dialogue: 0,0:34:00.82,0:34:04.79,normal_Wed,,0,0,0,,Even if it is the kind of person seems like a playboy, it's ok if I like them
+Dialogue: 0,0:34:04.28,0:34:05.80,wipe_Wed,,0,0,0,,Suitable for Kuro-chan
+Dialogue: 0,0:34:04.80,0:34:07.80,normal_Wed,,0,0,0,,If we have time to be together
+Dialogue: 0,0:34:07.80,0:34:11.19,normal_Wed,,0,0,0,,If you like them you're ok with it \N  -Yeah, if I like them
+Dialogue: 0,0:34:11.19,0:34:13.93,normal_Wed,,0,0,0,,Eh? But that wouldn't end up happily though, right?
+Dialogue: 0,0:34:13.07,0:34:15.08,wipe_Wed,,0,0,0,,This is a trap, right?
+Dialogue: 0,0:34:14.33,0:34:17.67,normal_Wed,,0,0,0,,I think i'll still feel happy
+Dialogue: 0,0:34:17.67,0:34:18.69,wipe_Wed,,0,0,0,,How is it possible?
+Dialogue: 0,0:34:20.20,0:34:22.61,normal_Wed,,0,0,0,,For you to be treated so casually...
+Dialogue: 0,0:34:22.61,0:34:24.88,normal_Wed,,0,0,0,,Although I haven't known you long
+Dialogue: 0,0:34:24.88,0:34:26.94,normal_Wed,,0,0,0,,The thought of it annoys me
+Dialogue: 0,0:34:27.70,0:34:29.29,normal_Wed,,0,0,0,,So cute
+Dialogue: 0,0:34:29.61,0:34:33.96,normal_Wed,,0,0,0,,Isn't Kuro-chan really handsome?
+Dialogue: 0,0:34:34.48,0:34:36.79,normal_Wed,,0,0,0,,Seeing him in real life he's even more cool  \N-Yes, really
+Dialogue: 0,0:34:36.52,0:34:38.04,wipe_Wed,,0,0,0,,When there are only 3 people...
+Dialogue: 0,0:34:36.79,0:34:40.93,normal_Wed,,0,0,0,,He seems more handsome than I expected \N -I know
+Dialogue: 0,0:34:40.93,0:34:42.74,normal_Wed,,0,0,0,,They too...
+Dialogue: 0,0:34:42.74,0:34:46.80,normal_Wed,,0,0,0,,No one knows who's sincere and who's lying
+Dialogue: 0,0:34:46.80,0:34:48.64,normal_Wed,,0,0,0,,Maybe they are testing each other?
+Dialogue: 0,0:34:48.64,0:34:51.10,normal_Wed,,0,0,0,,He's got a good physique and big hands
+Dialogue: 0,0:34:51.10,0:34:54.07,normal_Wed,,0,0,0,,Super gentle  \N-Super gentle!
+Dialogue: 0,0:34:54.07,0:34:58.37,normal_Wed,,0,0,0,,I really think he's much more handsome than on TV
+Dialogue: 0,0:34:58.61,0:35:01.05,normal_Wed,,0,0,0,,The people who went shopping put in a lot of effort!
+Dialogue: 0,0:35:01.05,0:35:03.66,normal_Wed,,0,0,0,,So lets hurry up and start the octopus party!
+Dialogue: 0,0:35:03.66,0:35:06.08,normal_Wed,,0,0,0,,Cheers!
+Dialogue: 0,0:35:07.19,0:35:08.88,wipe_Wed,,0,0,0,,So happy!
+Dialogue: 0,0:35:09.80,0:35:11.40,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:35:13.07,0:35:14.12,normal_Wed,,0,0,0,,Awesome!
+Dialogue: 0,0:35:14.12,0:35:14.76,normal_Wed,,0,0,0,,Delicious!
+Dialogue: 0,0:35:16.56,0:35:19.66,normal_Wed,,0,0,0,,Kuro-chan, you made it super delicious!  \N-Is it good?
+Dialogue: 0,0:35:19.08,0:35:21.00,wipe_Wed,,0,0,0,,Looks very happy
+Dialogue: 0,0:35:20.03,0:35:22.00,normal_Wed,,0,0,0,,Wait, this is wasabi, right?
+Dialogue: 0,0:35:22.00,0:35:23.21,normal_Wed,,0,0,0,,Why is there wasabi?
+Dialogue: 0,0:35:23.21,0:35:25.36,normal_Wed,,0,0,0,,I wanted to play Russian roulette
+Dialogue: 0,0:35:26.00,0:35:28.81,normal_Wed,,0,0,0,,We're gonna eat it?  \N-Yeah
+Dialogue: 0,0:35:29.07,0:35:30.67,normal_Wed,,0,0,0,,No, wait
+Dialogue: 0,0:35:30.91,0:35:32.19,normal_Wed,,0,0,0,,Then close your eyes
+Dialogue: 0,0:35:33.01,0:35:34.66,wipe_Wed,,0,0,0,,Kuro-chan isn't participating
+Dialogue: 0,0:35:34.58,0:35:38.09,normal_Wed,,0,0,0,,You're not allowed to look
+Dialogue: 0,0:35:39.26,0:35:40.11,wipe_Wed,,0,0,0,,Kuro-chan's not eating
+Dialogue: 0,0:35:40.11,0:35:41.07,wipe_Wed,,0,0,0,,The king's entertainment
+Dialogue: 0,0:35:45.32,0:35:47.06,normal_Wed,,0,0,0,,What's up?
+Dialogue: 0,0:35:47.06,0:35:48.91,normal_Wed,,0,0,0,,I feel a draft
+Dialogue: 0,0:35:49.43,0:35:51.59,normal_Wed,,0,0,0,,Indeed the typhoon is very strong!
+Dialogue: 0,0:35:54.73,0:35:56.53,normal_Wed,,0,0,0,,What, what? What's wrong?
+Dialogue: 0,0:35:56.53,0:35:57.69,normal_Wed,,0,0,0,,Seems like a very strong typhoon
+Dialogue: 0,0:36:00.60,0:36:01.97,normal_Wed,,0,0,0,,Typhoon
+Dialogue: 0,0:36:01.52,0:36:03.11,wipe_Wed,,0,0,0,,What the hell are you doing?
+Dialogue: 0,0:36:03.81,0:36:04.57,normal_Wed,,0,0,0,,No. 12
+Dialogue: 0,0:36:04.56,0:36:06.85,wipe_Wed,,0,0,0,,Strange image
+Dialogue: 0,0:36:08.14,0:36:10.55,wipe_Wed,,0,0,0,,What is this guy doing?
+Dialogue: 0,0:36:11.21,0:36:13.18,normal_Wed,,0,0,0,,Stinks!
+Dialogue: 0,0:36:15.34,0:36:16.04,normal_Wed,,0,0,0,,She said it!
+Dialogue: 0,0:36:16.62,0:36:17.76,normal_Wed,,0,0,0,,Exposed!
+Dialogue: 0,0:36:18.56,0:36:19.82,normal_Wed,,0,0,0,,Seems so stinky
+Dialogue: 0,0:36:19.82,0:36:20.56,normal_Wed,,0,0,0,,What a stinky typhoon
+Dialogue: 0,0:36:20.56,0:36:22.65,wipe_Wed,,0,0,0,,Finally said it
+Dialogue: 0,0:36:23.99,0:36:25.15,normal_Wed,,0,0,0,,So smelly
+Dialogue: 0,0:36:26.04,0:36:28.70,normal_Wed,,0,0,0,,Seems so smelly, so smelly
+Dialogue: 0,0:36:30.80,0:36:32.68,normal_Wed,,0,0,0,,A large typhoon is approaching~
+Dialogue: 0,0:36:32.68,0:36:33.46,wipe_Wed,,0,0,0,,Keeps saying he stinks
+Dialogue: 0,0:36:35.21,0:36:36.94,normal_Wed,,0,0,0,,What stinks?
+Dialogue: 0,0:36:36.94,0:36:39.21,normal_Wed,,0,0,0,,Doesn't something stink?
+Dialogue: 0,0:36:39.21,0:36:40.84,normal_Wed,,0,0,0,,She said you "stink", right?
+Dialogue: 0,0:36:41.24,0:36:44.10,normal_Wed,,0,0,0,,Probably because of that? Although she said so
+Dialogue: 0,0:36:44.10,0:36:48.01,normal_Wed,,0,0,0,,MONSTER IDOL and others often say I have bad breath
+Dialogue: 0,0:36:48.22,0:36:49.42,normal_Wed,,0,0,0,,So she probably remembered from there
+Dialogue: 0,0:36:49.42,0:36:53.40,normal_Wed,,0,0,0,,And though it'd be funny to say it because of that, so it actually made me happy
+Dialogue: 0,0:36:53.40,0:36:55.02,normal_Wed,,0,0,0,,I think it was to make things more lively
+Dialogue: 0,0:36:55.02,0:36:56.46,normal_Wed,,0,0,0,,It doesn't actually stink?
+Dialogue: 0,0:36:56.46,0:36:57.79,normal_Wed,,0,0,0,,It doesn't stink!
+Dialogue: 0,0:36:57.79,0:37:00.13,normal_Wed,,0,0,0,,Super non-smelly
+Dialogue: 0,0:36:59.70,0:37:00.84,wipe_Wed,,0,0,0,,It must stink
+Dialogue: 0,0:37:00.84,0:37:02.80,normal_Wed,,0,0,0,,Everyone can open their eyes
+Dialogue: 0,0:37:04.25,0:37:06.03,normal_Wed,,0,0,0,,Ah, I can't tell
+Dialogue: 0,0:37:06.03,0:37:07.20,normal_Wed,,0,0,0,,3 2 1
+Dialogue: 0,0:37:10.21,0:37:13.50,normal_Wed,,0,0,0,,Then please eat at the same time
+Dialogue: 0,0:37:14.07,0:37:15.52,wipe_Wed,,0,0,0,,Kuro-chan's not doing it
+Dialogue: 0,0:37:16.68,0:37:17.96,normal_Wed,,0,0,0,,Ah, it's me
+Dialogue: 0,0:37:17.96,0:37:19.58,normal_Wed,,0,0,0,,Eh? Wait...
+Dialogue: 0,0:37:19.84,0:37:21.57,normal_Wed,,0,0,0,,No, no, it's me
+Dialogue: 0,0:37:23.57,0:37:24.64,wipe_Wed,,0,0,0,,What's going on?
+Dialogue: 0,0:37:26.25,0:37:29.49,normal_Wed,,0,0,0,,It's everyone~
+Dialogue: 0,0:37:29.48,0:37:31.74,wipe_Wed,,0,0,0,,So stupid. What the hell?
+Dialogue: 0,0:37:31.69,0:37:35.77,normal_Wed,,0,0,0,,Everyone yo-
+Dialogue: 0,0:37:32.67,0:37:34.23,wipe_Wed,,0,0,0,,Going to be hated
+Dialogue: 0,0:37:34.23,0:37:35.77,wipe_Wed,,0,0,0,,Going to be killed
+Dialogue: 0,0:37:35.77,0:37:37.30,normal_Wed,,0,0,0,,My nose hurts
+Dialogue: 0,0:37:37.80,0:37:39.48,normal_Wed,,0,0,0,,So bad
+Dialogue: 0,0:37:40.67,0:37:41.93,normal_Wed,,0,0,0,,Ah, so happy~
+Dialogue: 0,0:37:42.94,0:37:43.96,wipe_Wed,,0,0,0,,He is the only one laughing
+Dialogue: 0,0:37:43.64,0:37:47.44,normal_Wed,,0,0,0,,Wonderful, what a great life this is
+Dialogue: 0,0:37:49.07,0:37:50.59,normal_Wed,,0,0,0,,Is it okay?
+Dialogue: 0,0:37:50.68,0:37:52.55,normal_Wed,,0,0,0,,No replies from anyone
+Dialogue: 0,0:37:52.72,0:37:56.30,normal_Wed,,0,0,0,,Thank you for your hospitality
+Dialogue: 0,0:37:58.19,0:37:59.03,wipe_Wed,,0,0,0,,Drinking alone at night
+Dialogue: 0,0:38:02.49,0:38:03.89,normal_Wed,,0,0,0,,Kuro-chan
+Dialogue: 0,0:38:03.89,0:38:05.34,normal_Wed,,0,0,0,,Ah, you're drinking?
+Dialogue: 0,0:38:05.34,0:38:08.46,normal_Wed,,0,0,0,,I was wondering if we should go out for a drink
+Dialogue: 0,0:38:08.46,0:38:09.64,normal_Wed,,0,0,0,,Now? \N -Yeah
+Dialogue: 0,0:38:10.27,0:38:10.94,normal_Wed,,0,0,0,,Okay!
+Dialogue: 0,0:38:10.94,0:38:12.64,normal_Wed,,0,0,0,,Can you?
+Dialogue: 0,0:38:10.94,0:38:12.62,wipe_Wed,,0,0,0,,This girl said he doesn't stink
+Dialogue: 0,0:38:13.00,0:38:15.10,normal_Wed,,0,0,0,,Finished it all in one gulp
+Dialogue: 0,0:38:15.10,0:38:16.41,normal_Wed,,0,0,0,,Let's go！
+Dialogue: 0,0:38:17.35,0:38:18.90,wipe_Wed,,0,0,0,,There's no way he doesn't stink
+Dialogue: 0,0:38:17.51,0:38:18.91,normal_Wed,,0,0,0,,Want to go~
+Dialogue: 0,0:38:23.38,0:38:30.65,normal_Wed,,0,0,0,,Cheers to Risa and Kuro-chan drinking at a bar alone
+Dialogue: 0,0:38:30.67,0:38:32.08,wipe_Wed,,0,0,0,,A toast to the bar
+Dialogue: 0,0:38:33.70,0:38:35.19,wipe_Wed,,0,0,0,,Brain isn't working
+Dialogue: 0,0:38:35.12,0:38:37.00,normal_Wed,,0,0,0,,Tasty \N-Yeah tasty
+Dialogue: 0,0:38:37.23,0:38:39.53,normal_Wed,,0,0,0,,That... you clean up nicely
+Dialogue: 0,0:38:39.53,0:38:42.53,normal_Wed,,0,0,0,,You look like a beautiful actress
+Dialogue: 0,0:38:42.53,0:38:46.07,normal_Wed,,0,0,0,,No, no, no, no
+Dialogue: 0,0:38:46.07,0:38:48.53,normal_Wed,,0,0,0,,No, no, I'm just a chatterbox little girl
+Dialogue: 0,0:38:48.71,0:38:51.04,normal_Wed,,0,0,0,,A chatterbox little girl?
+Dialogue: 0,0:38:51.72,0:38:53.24,wipe_Wed,,0,0,0,,We often see this expression
+Dialogue: 0,0:38:51.81,0:38:54.75,normal_Wed,,0,0,0,,When we all go on a date together and go to dinner together
+Dialogue: 0,0:38:55.01,0:38:57.55,normal_Wed,,0,0,0,,I don't really take the initiative
+Dialogue: 0,0:38:57.55,0:39:01.65,normal_Wed,,0,0,0,,Not as straightforward as Miku or Richi
+Dialogue: 0,0:39:01.65,0:39:05.26,normal_Wed,,0,0,0,,"I like you"... I can't say it on my own initiative
+Dialogue: 0,0:39:05.26,0:39:07.12,normal_Wed,,0,0,0,,So i'm very envious of them
+Dialogue: 0,0:39:06.95,0:39:07.94,wipe_Wed,,0,0,0,,No, she's good
+Dialogue: 0,0:39:07.12,0:39:09.56,normal_Wed,,0,0,0,,Oh, really? \N -I really think so
+Dialogue: 0,0:39:09.83,0:39:15.83,normal_Wed,,0,0,0,,It's only the first day, but I'm a little concerned
+Dialogue: 0,0:39:15.83,0:39:20.50,normal_Wed,,0,0,0,,Like, how to say... where I am out of the 6?
+Dialogue: 0,0:39:21.07,0:39:23.85,normal_Wed,,0,0,0,,First, of course. \N -Really?
+Dialogue: 0,0:39:23.85,0:39:25.91,normal_Wed,,0,0,0,,Is it true? No lies?
+Dialogue: 0,0:39:26.24,0:39:27.38,normal_Wed,,0,0,0,,No lies
+Dialogue: 0,0:39:26.92,0:39:28.44,wipe_Wed,,0,0,0,,The usual routine
+Dialogue: 0,0:39:27.39,0:39:29.24,normal_Wed,,0,0,0,,I wouldn't lie to you
+Dialogue: 0,0:39:29.24,0:39:31.85,normal_Wed,,0,0,0,,You can lie to other people as long as you don't lie to me
+Dialogue: 0,0:39:31.85,0:39:32.48,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:39:34.08,0:39:35.75,normal_Wed,,0,0,0,,Self-centered
+Dialogue: 0,0:39:35.92,0:39:38.79,normal_Wed,,0,0,0,,Because I like Risa the most
+Dialogue: 0,0:39:39.16,0:39:40.89,normal_Wed,,0,0,0,,I want to believe in you
+Dialogue: 0,0:39:41.42,0:39:48.33,normal_Wed,,0,0,0,,Can you look me in the eye and say you're not lying to me?
+Dialogue: 0,0:39:48.33,0:39:49.60,normal_Wed,,0,0,0,,I can
+Dialogue: 0,0:39:50.03,0:39:51.23,normal_Wed,,0,0,0,,Can you say it?
+Dialogue: 0,0:39:51.23,0:39:53.24,normal_Wed,,0,0,0,,Of course
+Dialogue: 0,0:39:53.24,0:39:57.01,normal_Wed,,0,0,0,,I am not lying to you
+Dialogue: 0,0:39:57.02,0:39:57.77,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:39:57.77,0:39:59.40,normal_Wed,,0,0,0,,Really
+Dialogue: 0,0:40:00.58,0:40:05.11,normal_Wed,,0,0,0,,I'm not lying to you either
+Dialogue: 0,0:40:04.54,0:40:05.15,wipe_Wed,,0,0,0,,Obviously lying!
+Dialogue: 0,0:40:05.11,0:40:06.16,normal_Wed,,0,0,0,,I am so happy
+Dialogue: 0,0:40:06.72,0:40:09.95,normal_Wed,,0,0,0,,It's been a long time since my heart beat so fast
+Dialogue: 0,0:40:09.14,0:40:11.20,wipe_Wed,,0,0,0,,Clever. Very cleverly put
+Dialogue: 0,0:40:10.05,0:40:14.46,normal_Wed,,0,0,0,,That shows that i'm really not lying
+Dialogue: 0,0:40:16.07,0:40:20.70,normal_Wed,,0,0,0,,Can I kiss the back of your hand?
+Dialogue: 0,0:40:20.70,0:40:22.87,normal_Wed,,0,0,0,,You can, I want you to kiss it
+Dialogue: 0,0:40:22.87,0:40:24.32,normal_Wed,,0,0,0,,You want me to? \N-Yes
+Dialogue: 0,0:40:24.87,0:40:29.07,normal_Wed,,0,0,0,,I like you the most
+Dialogue: 0,0:40:28.86,0:40:30.18,wipe_Wed,,0,0,0,,I don't believe it!
+Dialogue: 0,0:40:31.54,0:40:33.68,normal_Wed,,0,0,0,,So soft
+Dialogue: 0,0:40:36.28,0:40:38.01,normal_Wed,,0,0,0,,Eh, but only a kiss there?
+Dialogue: 0,0:40:38.01,0:40:41.45,normal_Wed,,0,0,0,,Only a kiss there?
+Dialogue: 0,0:40:41.44,0:40:43.08,wipe_Wed,,0,0,0,,Only a kiss there?
+Dialogue: 0,0:40:43.08,0:40:44.84,wipe_Wed,,0,0,0,,Terrible, terrible
+Dialogue: 0,0:40:44.84,0:40:46.09,wipe_Wed,,0,0,0,,Don't do that!
+Dialogue: 0,0:40:48.89,0:40:50.79,normal_Wed,,0,0,0,,So warm
+Dialogue: 0,0:40:52.46,0:40:54.66,normal_Wed,,0,0,0,,I've got goosebumps
+Dialogue: 0,0:40:54.67,0:40:55.44,normal_Wed,,0,0,0,,An impactful image
+Dialogue: 0,0:40:55.44,0:40:56.58,normal_Wed,,0,0,0,,Excited?
+Dialogue: 0,0:40:56.58,0:40:58.17,normal_Wed,,0,0,0,,Disgusted
+Dialogue: 0,0:40:58.17,0:41:00.40,normal_Wed,,0,0,0,,I got two
+Dialogue: 0,0:41:00.40,0:41:03.97,normal_Wed,,0,0,0,,Ok ok, I believe you
+Dialogue: 0,0:41:04.56,0:41:05.45,normal_Wed,,0,0,0,,Can you say this sort of stuff to others?
+Dialogue: 0,0:41:05.45,0:41:06.58,normal_Wed,,0,0,0,,Ever said anything like this?
+Dialogue: 0,0:41:08.33,0:41:10.48,normal_Wed,,0,0,0,,I can't say what Kuro-chan says
+Dialogue: 0,0:41:10.48,0:41:12.57,normal_Wed,,0,0,0,,Not everyone can
+Dialogue: 0,0:41:12.57,0:41:13.92,normal_Wed,,0,0,0,,He's really a playboy
+Dialogue: 0,0:41:13.92,0:41:15.65,normal_Wed,,0,0,0,,A total playboy!
+Dialogue: 0,0:41:15.65,0:41:17.12,normal_Wed,,0,0,0,,Its because he really wants to have a girlfriend
+Dialogue: 0,0:41:22.12,0:41:24.06,normal_Wed,,0,0,0,,Thank you for waiting!
+Dialogue: 0,0:41:24.46,0:41:30.08,normal_Wed,,0,0,0,,Next, I'll announce who I like
+Dialogue: 0,0:41:30.08,0:41:35.64,normal_Wed,,0,0,0,,In order from 1st to 5th place
+Dialogue: 0,0:41:35.62,0:41:36.74,wipe_Wed,,0,0,0,,What'll he do?
+Dialogue: 0,0:41:36.67,0:41:43.57,normal_Wed,,0,0,0,,The one whose name is not called at the end
+Dialogue: 0,0:41:43.81,0:41:47.55,normal_Wed,,0,0,0,,Will have to say goodbye today
+Dialogue: 0,0:41:50.12,0:41:52.09,normal_Wed,,0,0,0,,1st place is
+Dialogue: 0,0:41:52.09,0:41:57.23,wipe_Wed,,0,0,0,,There's gonna be trouble
+Dialogue: 0,0:41:57.99,0:41:58.79,normal_Wed,,0,0,0,,Risa
+Dialogue: 0,0:42:01.64,0:42:02.68,wipe_Wed,,0,0,0,,She climbed the ranking!
+Dialogue: 0,0:42:02.90,0:42:05.67,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:42:05.60,0:42:07.59,wipe_Wed,,0,0,0,,What excuse will be made this time?
+Dialogue: 0,0:42:05.84,0:42:09.14,normal_Wed,,0,0,0,,Next in 2nd place is
+Dialogue: 0,0:42:09.12,0:42:10.11,wipe_Wed,,0,0,0,,Angry?
+Dialogue: 0,0:42:09.57,0:42:10.81,normal_Wed,,0,0,0,,Miku
+Dialogue: 0,0:42:12.34,0:42:13.60,wipe_Wed,,0,0,0,,Last time she was 1st
+Dialogue: 0,0:42:14.66,0:42:15.72,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:42:15.98,0:42:17.45,normal_Wed,,0,0,0,,3rd place is
+Dialogue: 0,0:42:18.00,0:42:18.75,normal_Wed,,0,0,0,,Mami
+Dialogue: 0,0:42:19.32,0:42:21.32,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:42:24.62,0:42:25.62,normal_Wed,,0,0,0,,Mina
+Dialogue: 0,0:42:22.92,0:42:24.32,normal_Wed,,0,0,0,,4th place is
+Dialogue: 0,0:42:27.39,0:42:28.86,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:42:25.90,0:42:27.87,wipe_Wed,,0,0,0,,Whoa, a big change!
+Dialogue: 0,0:42:29.49,0:42:32.23,normal_Wed,,0,0,0,,These two remain
+Dialogue: 0,0:42:30.11,0:42:33.08,wipe_Wed,,0,0,0,,Richi looks like she's gonna cry
+Dialogue: 0,0:42:32.56,0:42:35.10,normal_Wed,,0,0,0,,5th place is
+Dialogue: 0,0:42:39.24,0:42:40.24,normal_Wed,,0,0,0,,Richi
+Dialogue: 0,0:42:41.04,0:42:42.96,wipe_Wed,,0,0,0,,Deliberately left to the end
+Dialogue: 0,0:42:42.96,0:42:44.96,wipe_Wed,,0,0,0,,He's used this tactic before, right?
+Dialogue: 0,0:42:44.96,0:42:47.70,wipe_Wed,,0,0,0,,Indeed he has
+Dialogue: 0,0:42:46.78,0:42:50.05,normal_Wed,,0,0,0,,Today we are saying goodbye to Naru
+Dialogue: 0,0:42:50.05,0:42:51.95,normal_Wed,,0,0,0,,The reason I didn't choose you
+Dialogue: 0,0:42:52.48,0:42:56.72,normal_Wed,,0,0,0,,Is I see you more like a sister
+Dialogue: 0,0:42:57.95,0:43:03.43,normal_Wed,,0,0,0,,I don't think its possible to be lovers
+Dialogue: 0,0:43:04.26,0:43:07.16,normal_Wed,,0,0,0,,So I didn't choose you
+Dialogue: 0,0:43:06.63,0:43:07.17,wipe_Wed,,0,0,0,,Really?
+Dialogue: 0,0:43:07.46,0:43:13.56,normal_Wed,,0,0,0,,One last time, do you really like me, Naru?
+Dialogue: 0,0:43:13.56,0:43:15.30,normal_Wed,,0,0,0,,No I don't
+Dialogue: 0,0:43:16.01,0:43:18.96,normal_Wed,,0,0,0,,Eh? You didn't you sign up because you like me?
+Dialogue: 0,0:43:18.96,0:43:20.05,wipe_Wed,,0,0,0,,Good good good
+Dialogue: 0,0:43:19.91,0:43:21.01,normal_Wed,,0,0,0,,Eh? Why?
+Dialogue: 0,0:43:21.01,0:43:26.28,normal_Wed,,0,0,0,,No... you seemed to like me so much, it's too strange for it to be fake, right?
+Dialogue: 0,0:43:23.36,0:43:25.32,wipe_Wed,,0,0,0,,No hesitation
+Dialogue: 0,0:43:26.28,0:43:29.79,normal_Wed,,0,0,0,,I thought you really liked me, so I answered you with all my heart
+Dialogue: 0,0:43:29.79,0:43:34.81,normal_Wed,,0,0,0,,I can only think of you as a sister, that's why I made my decision
+Dialogue: 0,0:43:34.81,0:43:36.69,normal_Wed,,0,0,0,,Eh, why?
+Dialogue: 0,0:43:36.69,0:43:38.56,normal_Wed,,0,0,0,,So you didn't sign up?
+Dialogue: 0,0:43:38.56,0:43:41.43,normal_Wed,,0,0,0,,Why do you look so sad now when you didn't sign up? Why?
+Dialogue: 0,0:43:41.66,0:43:43.31,normal_Wed,,0,0,0,,I don't get it at all
+Dialogue: 0,0:43:43.97,0:43:45.64,normal_Wed,,0,0,0,,Eh? What's going on?
+Dialogue: 0,0:43:42.92,0:43:44.84,wipe_Wed,,0,0,0,,Because she was eliminated, right?
+Dialogue: 0,0:43:45.63,0:43:46.50,wipe_Wed,,0,0,0,,Reluctant to go, right?
+Dialogue: 0,0:43:45.64,0:43:48.81,normal_Wed,,0,0,0,,No, no... didn't you lie to me?
+Dialogue: 0,0:43:48.80,0:43:51.44,normal_Wed,,0,0,0,,Why this expression... Eh? What's going on?
+Dialogue: 0,0:43:51.94,0:43:53.31,normal_Wed,,0,0,0,,I don't understand
+Dialogue: 0,0:43:53.31,0:43:54.98,normal_Wed,,0,0,0,,Don't like me?
+Dialogue: 0,0:43:55.24,0:43:58.08,normal_Wed,,0,0,0,,Not really
+Dialogue: 0,0:43:58.08,0:44:00.85,normal_Wed,,0,0,0,,What's going on? What's going on?
+Dialogue: 0,0:44:01.58,0:44:03.09,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:44:03.09,0:44:06.46,normal_Wed,,0,0,0,,Eh? How many girls are there that don't like me?
+Dialogue: 0,0:44:06.62,0:44:11.33,normal_Wed,,0,0,0,,That's four out of nine people so far
+Dialogue: 0,0:44:08.17,0:44:09.82,wipe_Wed,,0,0,0,,Then there must be a lot of them
+Dialogue: 0,0:44:11.32,0:44:12.76,normal_Wed,,0,0,0,,Is there really any that like me?
+Dialogue: 0,0:44:12.76,0:44:13.99,normal_Wed,,0,0,0,,There are?
+Dialogue: 0,0:44:14.16,0:44:17.00,normal_Wed,,0,0,0,,So I need to find them out of these 5?
+Dialogue: 0,0:44:17.00,0:44:20.87,normal_Wed,,0,0,0,,I'll find them, i'm tired of being duped
+Dialogue: 0,0:44:20.87,0:44:22.22,normal_Wed,,0,0,0,,I told you, didn't I?
+Dialogue: 0,0:44:22.57,0:44:26.18,normal_Wed,,0,0,0,,I am here to find a girlfriend
+Dialogue: 0,0:44:26.18,0:44:28.84,normal_Wed,,0,0,0,,Well, not just this time... I've tried every time
+Dialogue: 0,0:44:28.84,0:44:32.58,normal_Wed,,0,0,0,,When I find the one this time, she'll become my girlfriend
+Dialogue: 0,0:44:32.58,0:44:33.65,normal_Wed,,0,0,0,,And then?
+Dialogue: 0,0:44:34.02,0:44:36.39,normal_Wed,,0,0,0,,Marriage!
+Dialogue: 0,0:44:36.39,0:44:37.72,normal_Wed,,0,0,0,,You'll get married?
+Dialogue: 0,0:44:37.72,0:44:39.99,normal_Wed,,0,0,0,,Yes!
+Dialogue: 0,0:44:38.55,0:44:39.16,wipe_Wed,,0,0,0,,Seriously?
+Dialogue: 0,0:44:39.99,0:44:42.09,normal_Wed,,0,0,0,,I'm not playing around with love
+Dialogue: 0,0:44:41.46,0:44:42.45,wipe_Wed,,0,0,0,,Whoa so cool!
+Dialogue: 0,0:44:44.90,0:44:47.14,wipe_Wed,,0,0,0,,It's going well
+Dialogue: 0,0:44:48.68,0:44:50.07,normal_Wed,,0,0,0,,Already overcome a lot of hurdles
+Dialogue: 0,0:44:50.07,0:44:54.53,normal_Wed,,0,0,0,,Well, that's it for this time
+Dialogue: 0,0:44:54.53,0:44:56.91,normal_Wed,,0,0,0,,She was so quick to answer
+Dialogue: 0,0:44:56.91,0:44:58.36,normal_Wed,,0,0,0,,Because she was just pretending
+Dialogue: 0,0:44:58.36,0:45:00.28,normal_Wed,,0,0,0,,No hesitation at all
+Dialogue: 0,0:45:00.28,0:45:02.38,normal_Wed,,0,0,0,,"Do you like me?" "No."
+Dialogue: 0,0:45:02.38,0:45:03.31,normal_Wed,,0,0,0,,She downplayed it
+Dialogue: 0,0:45:04.61,0:45:06.25,normal_Wed,,0,0,0,,Like the speed of a street interview
+Dialogue: 0,0:45:07.74,0:45:13.49,normal_Wed,,0,0,0,,And Richi said his mouth stinks
+Dialogue: 0,0:45:13.49,0:45:16.33,normal_Wed,,0,0,0,,So what's going on?
+Dialogue: 0,0:45:16.33,0:45:20.16,normal_Wed,,0,0,0,,I think Richi is pretending, and couldn't help but admit that he stinks
+Dialogue: 0,0:45:20.16,0:45:23.08,normal_Wed,,0,0,0,,Reflexively, I said "it stinks".\N-Indeed
+Dialogue: 0,0:45:23.08,0:45:27.17,normal_Wed,,0,0,0,,But it can't always stink
+Dialogue: 0,0:45:27.17,0:45:28.40,normal_Wed,,0,0,0,,Kuro-chan? \N-Kuro-chan
+Dialogue: 0,0:45:28.40,0:45:30.01,normal_Wed,,0,0,0,,Because at the lion statue experience
+Dialogue: 0,0:45:30.01,0:45:31.65,normal_Wed,,0,0,0,,I told you its a "lion statue making experience"!
+Dialogue: 0,0:45:33.20,0:45:34.28,normal_Wed,,0,0,0,,What the hell?
+Dialogue: 0,0:45:34.28,0:45:35.34,normal_Wed,,0,0,0,,What does it mean?
+Dialogue: 0,0:45:36.23,0:45:38.13,normal_Wed,,0,0,0,,Lion statue experience is to experience being the statue, surely
+Dialogue: 0,0:45:39.32,0:45:40.18,normal_Wed,,0,0,0,,What is he talking about?
+Dialogue: 0,0:45:41.35,0:45:42.93,normal_Wed,,0,0,0,,Does it matter?
+Dialogue: 0,0:45:42.93,0:46:15.05,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

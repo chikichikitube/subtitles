@@ -1,0 +1,997 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1440
+PlayResY: 1080
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT_2022-12-14.mp4
+Video File: WDT_2022-12-14.mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Active Line: 2
+Video Position: 272
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: special_Wed_2_X,Arial,55,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: special_Wed_3_X,Arial,40,&H00000000,&H000019FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,13,13,10,1
+Style: note_KOC,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,10,1
+Style: special_Wed_1_2,Arial,37,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,2,0,1,0,0,0,1
+Style: special_Wed_3_3,Arial,70,&H00000000,&H0000D6FF,&H00000000,&H0063D9E2,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,10,1
+Style: Lyrics - 复制,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,-1,0,0,100,120,0,0,1,3,1.5,7,10,200,135,1
+Style: special_Wed_4_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_5_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list_Gaki,Arial,50,&H000200B2,&H00FFFFFF,&H27FFFFFF,&HFF000000,0,0,0,0,100,130,0,0,1,2.5,0.1,8,750,10,65,1
+Style: special_Wed_X,Arial,40,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,1.5,2,2,10,10,10,1
+Style: special_Wed_2_B,Arial,60,&H00FFFFFF,&H00FFFFFF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,3,3,2,5,0,0,5,1
+Style: special_Wed_说,Arial,55,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,135,0,0,1,3,1,2,10,10,10,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,99,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: note_Wed - Mid,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,8,10,10,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.38,0:00:06.18,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown
+Dialogue: 0,0:00:06.18,0:00:09.96,normal_Wed,,0,0,0,,Let's get on with our first presenter please
+Dialogue: 0,0:00:10.39,0:00:11.74,normal_Wed,,0,0,0,,Who is it?
+Dialogue: 0,0:00:15.43,0:00:19.40,normal_Wed,,0,0,0,,It's Ozwald
+Dialogue: 0,0:00:21.18,0:00:24.67,normal_Wed,,0,0,0,,It's a shame about M-1. \N -Don't do that
+Dialogue: 0,0:00:24.67,0:00:26.48,normal_Wed,,0,0,0,,How unlucky
+Dialogue: 0,0:00:26.48,0:00:27.94,normal_Wed,,0,0,0,,The qualifiers have not yet competed
+Dialogue: 0,0:00:27.94,0:00:31.06,normal_Wed,,0,0,0,,Think about your position before you speak
+Dialogue: 0,0:00:31.06,0:00:32.28,normal_Wed,,0,0,0,,It will have an impact
+Dialogue: 0,0:00:32.28,0:00:37.22,normal_Wed,,0,0,0,,Anyway, this is the second edition of a previously tested theory
+Dialogue: 0,0:00:37.22,0:00:38.89,normal_Wed,,0,0,0,,It is this
+Dialogue: 0,0:00:39.78,0:00:45.42,normal_Wed,,0,0,0,,The 2nd As long as you say something bad in a positive way, a person won't lose their temper
+Dialogue: 0,0:00:48.01,0:00:49.28,normal_Wed,,0,0,0,,This is interesting
+Dialogue: 0,0:00:49.98,0:00:52.20,normal_Wed,,0,0,0,,The last validation results were very successful
+Dialogue: 0,0:00:52.20,0:00:53.27,normal_Wed,,0,0,0,,Very successful
+Dialogue: 0,0:00:53.27,0:00:55.97,normal_Wed,,0,0,0,,None of them lost their temper
+Dialogue: 0,0:00:55.97,0:00:59.07,normal_Wed,,0,0,0,,Kowagata was clearly on the verge of fury
+Dialogue: 0,0:00:59.07,0:01:01.21,normal_Wed,,0,0,0,,How would everyone else react?
+Dialogue: 0,0:01:02.77,0:01:04.38,normal_Wed,,0,0,0,,It also depends on who it is, right?
+Dialogue: 0,0:01:05.96,0:01:07.78,normal_Wed,,0,0,0,,What is it like? Can you show us?
+Dialogue: 0,0:01:07.78,0:01:08.61,normal_Wed,,0,0,0,,Me? Okay
+Dialogue: 0,0:01:08.61,0:01:11.05,normal_Wed,,0,0,0,,Say something to Hamada
+Dialogue: 0,0:01:11.05,0:01:15.51,normal_Wed,,0,0,0,,Hamada, you've become an old man, but in a good way
+Dialogue: 0,0:01:15.51,0:01:16.86,normal_Wed,,0,0,0,,Its positive
+Dialogue: 0,0:01:16.86,0:01:18.57,normal_Wed,,0,0,0,,That's too mild
+Dialogue: 0,0:01:18.57,0:01:20.53,normal_Wed,,0,0,0,,It's not easy to get angry when you say it's positive
+Dialogue: 0,0:01:20.53,0:01:22.39,normal_Wed,,0,0,0,,I admire him
+Dialogue: 0,0:01:22.39,0:01:23.86,normal_Wed,,0,0,0,,It's a bit subtle
+Dialogue: 0,0:01:39.95,0:01:43.83,normal_Wed,,0,0,0,,The first person to make bad comments is...
+Dialogue: 0,0:01:44.74,0:01:46.28,normal_Wed,,0,0,0,,Minamikawa
+Dialogue: 0,0:01:45.70,0:01:46.92,wipe_Wed,,0,0,0,,Mr. Bad Words
+Dialogue: 0,0:01:47.59,0:01:49.78,normal_Wed,,0,0,0,,His target is
+Dialogue: 0,0:01:49.78,0:01:52.30,wipe_Wed,,0,0,0,,Not good  \N-It's a little dangerous
+Dialogue: 0,0:01:53.36,0:01:55.26,normal_Wed,,0,0,0,,Panzetta Girolamo
+Dialogue: 0,0:01:57.38,0:01:58.99,wipe_Wed,,0,0,0,,He'll be beaten up, right?
+Dialogue: 0,0:01:56.63,0:01:59.10,normal_Wed,,0,0,0,,Girolamo
+Dialogue: 0,0:01:59.10,0:02:06.74,normal_Wed,,0,0,0,,Didn't he come close... to straight up hitting someone on this show?
+Dialogue: 0,0:02:05.61,0:02:06.86,wipe_Wed,,0,0,0,,Already scared
+Dialogue: 0,0:02:07.48,0:02:09.09,wipe_Wed,,0,0,0,,Really super scary
+Dialogue: 0,0:02:09.09,0:02:11.09,wipe_Wed,,0,0,0,,A famous quote now
+Dialogue: 0,0:02:11.28,0:02:13.35,normal_Wed,,0,0,0,,Why are you fighting?
+Dialogue: 0,0:02:13.35,0:02:14.98,normal_Wed,,0,0,0,,Shut up!
+Dialogue: 0,0:02:14.98,0:02:16.32,normal_Wed,,0,0,0,,Who, me?
+Dialogue: 0,0:02:16.58,0:02:19.89,normal_Wed,,0,0,0,,You've ruined the image of Italians in the minds of Japanese people!
+Dialogue: 0,0:02:19.89,0:02:21.59,normal_Wed,,0,0,0,,{\fs65}Do you wanna smack?
+Dialogue: 0,0:02:22.79,0:02:24.32,normal_Wed,,0,0,0,,Super quick
+Dialogue: 0,0:02:24.66,0:02:26.43,normal_Wed,,0,0,0,,"Do you wanna smack?"
+Dialogue: 0,0:02:26.88,0:02:32.50,normal_Wed,,0,0,0,,This time, Girolamo is told to wait for a fake show
+Dialogue: 0,0:02:32.50,0:02:36.21,normal_Wed,,0,0,0,,3 bad "positive" lines have been prepared in advance
+Dialogue: 0,0:02:36.80,0:02:38.65,normal_Wed,,0,0,0,,The first is
+Dialogue: 0,0:02:39.31,0:02:44.01,normal_Wed,,0,0,0,,Tawdry
+Dialogue: 0,0:02:44.01,0:02:46.78,normal_Wed,,0,0,0,,He's not really tawdry
+Dialogue: 0,0:02:46.78,0:02:49.32,normal_Wed,,0,0,0,,This is sure to piss him off
+Dialogue: 0,0:02:49.32,0:02:51.72,normal_Wed,,0,0,0,,I don't know what the tipping point is, though
+Dialogue: 0,0:02:51.72,0:02:55.16,normal_Wed,,0,0,0,,This would be... weird, right?
+Dialogue: 0,0:02:55.87,0:03:01.43,normal_Wed,,0,0,0,,Can bad words be invalidated by saying them positively?
+Dialogue: 0,0:03:02.50,0:03:04.19,normal_Wed,,0,0,0,,I really need to ask for more advice today
+Dialogue: 0,0:03:04.77,0:03:07.00,normal_Wed,,0,0,0,,You wife is angry?
+Dialogue: 0,0:03:07.20,0:03:08.47,normal_Wed,,0,0,0,,You know?
+Dialogue: 0,0:03:08.47,0:03:10.81,normal_Wed,,0,0,0,,Everyone's talking about it
+Dialogue: 0,0:03:10.81,0:03:12.74,normal_Wed,,0,0,0,,My wife? Please don't do that
+Dialogue: 0,0:03:12.74,0:03:14.31,normal_Wed,,0,0,0,,No no
+Dialogue: 0,0:03:15.86,0:03:18.45,normal_Wed,,0,0,0,,You are always very positive
+Dialogue: 0,0:03:18.45,0:03:20.45,normal_Wed,,0,0,0,,Is there a time when you are not so energetic?
+Dialogue: 0,0:03:20.45,0:03:21.41,normal_Wed,,0,0,0,,Down?
+Dialogue: 0,0:03:21.41,0:03:22.89,normal_Wed,,0,0,0,,Is it possible for you to get depressed?
+Dialogue: 0,0:03:22.89,0:03:26.26,normal_Wed,,0,0,0,,Not really
+Dialogue: 0,0:03:26.26,0:03:28.89,normal_Wed,,0,0,0,,Everyone has their bad days
+Dialogue: 0,0:03:28.89,0:03:32.09,normal_Wed,,0,0,0,,But I can get back to normal pretty quickly
+Dialogue: 0,0:03:32.09,0:03:33.06,normal_Wed,,0,0,0,,Ah, a quick recovery
+Dialogue: 0,0:03:33.63,0:03:36.07,normal_Wed,,0,0,0,,But overall your mood is very high
+Dialogue: 0,0:03:36.07,0:03:37.77,normal_Wed,,0,0,0,,High but also calm
+Dialogue: 0,0:03:37.77,0:03:40.67,normal_Wed,,0,0,0,,Ah, so a positive tawdriness
+Dialogue: 0,0:03:41.50,0:03:42.20,normal_Wed,,0,0,0,,Tawdry?
+Dialogue: 0,0:03:42.20,0:03:44.74,normal_Wed,,0,0,0,,Well, it's actually positive
+Dialogue: 0,0:03:44.84,0:03:46.18,normal_Wed,,0,0,0,,Immediately caught on
+Dialogue: 0,0:03:46.18,0:03:47.48,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:03:47.48,0:03:50.08,normal_Wed,,0,0,0,,Especially positive
+Dialogue: 0,0:03:50.08,0:03:52.28,normal_Wed,,0,0,0,,Me?\N  -I mean...
+Dialogue: 0,0:03:52.28,0:03:54.78,normal_Wed,,0,0,0,,You get along well with everyone around you
+Dialogue: 0,0:03:55.32,0:03:56.72,normal_Wed,,0,0,0,,You seem to get along well with everyone
+Dialogue: 0,0:03:56.72,0:03:59.79,normal_Wed,,0,0,0,,But that's not the right word to use, is it? Tawdry?
+Dialogue: 0,0:03:59.79,0:04:01.42,normal_Wed,,0,0,0,,No, no, that...
+Dialogue: 0,0:04:01.42,0:04:04.59,normal_Wed,,0,0,0,,Don't they say that in Italy?
+Dialogue: 0,0:04:04.59,0:04:07.96,normal_Wed,,0,0,0,,The popular type
+Dialogue: 0,0:04:07.96,0:04:10.27,normal_Wed,,0,0,0,,Oh... right \N-Yes, yes, yes.
+Dialogue: 0,0:04:10.27,0:04:13.87,normal_Wed,,0,0,0,,I think being positively tawdry is good
+Dialogue: 0,0:04:13.87,0:04:15.77,normal_Wed,,0,0,0,,I still think your Japanese is wrong
+Dialogue: 0,0:04:15.77,0:04:17.17,normal_Wed,,0,0,0,,No, no, really
+Dialogue: 0,0:04:17.17,0:04:18.54,normal_Wed,,0,0,0,,It's positive!
+Dialogue: 0,0:04:18.54,0:04:21.11,normal_Wed,,0,0,0,,Tawdry in a positive sense...
+Dialogue: 0,0:04:21.91,0:04:26.12,normal_Wed,,0,0,0,,Although being slightly concerned about the use of "tawdry"
+Dialogue: 0,0:04:26.12,0:04:29.84,normal_Wed,,0,0,0,,He's not technically angry, so this is deemed a pass
+Dialogue: 0,0:04:30.75,0:04:33.98,normal_Wed,,0,0,0,,The second is
+Dialogue: 0,0:04:34.72,0:04:40.90,normal_Wed,,0,0,0,,Lame clothes
+Dialogue: 0,0:04:40.90,0:04:42.07,normal_Wed,,0,0,0,,No, no, no, no
+Dialogue: 0,0:04:42.07,0:04:44.07,normal_Wed,,0,0,0,,This is what he makes his living on, right?
+Dialogue: 0,0:04:44.07,0:04:47.34,normal_Wed,,0,0,0,,This sentence is something that will hurt his pride the most, right?
+Dialogue: 0,0:04:48.04,0:04:50.64,normal_Wed,,0,0,0,,And the words just now are still fresh in the mind
+Dialogue: 0,0:04:50.64,0:04:53.08,normal_Wed,,0,0,0,,You have a lot of clothes, right?
+Dialogue: 0,0:04:53.31,0:04:56.98,normal_Wed,,0,0,0,,I have a lot, but I also give a lot away
+Dialogue: 0,0:04:57.15,0:04:59.38,normal_Wed,,0,0,0,,You often see this type of pattern right?
+Dialogue: 0,0:04:59.38,0:05:01.12,normal_Wed,,0,0,0,,This style is quite common
+Dialogue: 0,0:05:01.35,0:05:03.42,normal_Wed,,0,0,0,,I've always liked this type
+Dialogue: 0,0:05:03.79,0:05:07.54,normal_Wed,,0,0,0,,Your clothes are really lame in a good way
+Dialogue: 0,0:05:08.26,0:05:09.96,normal_Wed,,0,0,0,,Huh?
+Dialogue: 0,0:05:09.96,0:05:13.43,normal_Wed,,0,0,0,,No one's perfect, right?
+Dialogue: 0,0:05:13.60,0:05:17.47,normal_Wed,,0,0,0,,Every man will be teased at some point
+Dialogue: 0,0:05:17.69,0:05:21.34,normal_Wed,,0,0,0,,{\fad(0,300)}Oh, maybe...
+Dialogue: 0,0:05:20.91,0:05:22.72,wipe_Wed,,0,0,0,,Not in a good mood anymore
+Dialogue: 0,0:05:23.27,0:05:25.02,wipe_Wed,,0,0,0,,Not good
+Dialogue: 0,0:05:25.77,0:05:26.98,wipe_Wed,,0,0,0,,Can't stop!
+Dialogue: 0,0:05:26.98,0:05:30.11,normal_Wed,,0,0,0,,Finally quiet
+Dialogue: 0,0:05:30.11,0:05:31.48,normal_Wed,,0,0,0,,Am I talking too much?
+Dialogue: 0,0:05:31.48,0:05:34.62,normal_Wed,,0,0,0,,No, I love to talk too
+Dialogue: 0,0:05:34.62,0:05:37.79,normal_Wed,,0,0,0,,Especially when waiting
+Dialogue: 0,0:05:37.79,0:05:39.96,normal_Wed,,0,0,0,,It's easy to talk to friendly people
+Dialogue: 0,0:05:39.96,0:05:42.53,normal_Wed,,0,0,0,,But its the first time we've met
+Dialogue: 0,0:05:42.53,0:05:44.39,normal_Wed,,0,0,0,,So I don't have that much to say
+Dialogue: 0,0:05:44.39,0:05:47.40,normal_Wed,,0,0,0,,It's quite rare
+Dialogue: 0,0:05:48.00,0:05:52.17,normal_Wed,,0,0,0,,As he says "this is the first time we've met"
+Dialogue: 0,0:05:52.17,0:05:55.24,normal_Wed,,0,0,0,,Girolamo's anger is beginning to seep out
+Dialogue: 0,0:05:55.69,0:05:58.11,normal_Wed,,0,0,0,,In light of the dangerous atmosphere
+Dialogue: 0,0:05:58.11,0:06:00.81,normal_Wed,,0,0,0,,Minamikawa retreats momentarily
+Dialogue: 0,0:06:06.02,0:06:09.12,normal_Wed,,0,0,0,,{\fad(300,0)}So annoying
+Dialogue: 0,0:06:09.12,0:06:11.12,wipe_Wed,,0,0,0,,Holding back
+Dialogue: 0,0:06:11.86,0:06:13.40,wipe_Wed,,0,0,0,,He's already angry, right?
+Dialogue: 0,0:06:14.09,0:06:15.38,wipe_Wed,,0,0,0,,Angry
+Dialogue: 0,0:06:15.13,0:06:17.23,normal_Wed,,0,0,0,,Just us two?
+Dialogue: 0,0:06:17.23,0:06:20.40,normal_Wed,,0,0,0,,Yeah, you two \N -Ah
+Dialogue: 0,0:06:20.65,0:06:22.33,normal_Wed,,0,0,0,,He's a weird guy
+Dialogue: 0,0:06:23.13,0:06:25.10,normal_Wed,,0,0,0,,Kind of want to punch him
+Dialogue: 0,0:06:26.10,0:06:28.27,normal_Wed,,0,0,0,,There we go!
+Dialogue: 0,0:06:28.57,0:06:29.98,normal_Wed,,0,0,0,,Straight to the point
+Dialogue: 0,0:06:29.98,0:06:34.82,normal_Wed,,0,0,0,,Ultimately, he returns to Girolamo, who can't wait to get his hands on him
+Dialogue: 0,0:06:35.94,0:06:38.90,normal_Wed,,0,0,0,,To deliver the final blow
+Dialogue: 0,0:06:36.96,0:06:38.55,wipe_Wed,,0,0,0,,Scary
+Dialogue: 0,0:06:39.09,0:06:41.33,wipe_Wed,,0,0,0,,I don't dare to watch
+Dialogue: 0,0:06:40.12,0:06:45.42,normal_Wed,,0,0,0,,How often do you return to Italy?
+Dialogue: 0,0:06:45.42,0:06:49.03,normal_Wed,,0,0,0,,Before covid I went back all the time
+Dialogue: 0,0:06:49.03,0:06:51.83,normal_Wed,,0,0,0,,I haven't got back since it started
+Dialogue: 0,0:06:51.83,0:06:55.73,normal_Wed,,0,0,0,,But I finally went back to Italy in July this year
+Dialogue: 0,0:06:55.73,0:06:57.97,normal_Wed,,0,0,0,,Although still because of work
+Dialogue: 0,0:06:58.20,0:07:03.97,normal_Wed,,0,0,0,,You have a lot of friends back in Italy, right?
+Dialogue: 0,0:07:05.11,0:07:08.37,normal_Wed,,0,0,0,,Of course, but there is no way to see everyone
+Dialogue: 0,0:07:08.37,0:07:09.68,normal_Wed,,0,0,0,,Can't see them all
+Dialogue: 0,0:07:07.16,0:07:09.67,wipe_Wed,,0,0,0,,Are you waiting to hit someone?
+Dialogue: 0,0:07:09.68,0:07:12.75,normal_Wed,,0,0,0,,It's like I thought, Girolamo
+Dialogue: 0,0:07:12.65,0:07:13.85,wipe_Wed,,0,0,0,,Don't say it
+Dialogue: 0,0:07:13.13,0:07:16.52,normal_Wed,,0,0,0,,You've not gone back at all
+Dialogue: 0,0:07:16.72,0:07:18.75,normal_Wed,,0,0,0,,Me? \N -Yeah
+Dialogue: 0,0:07:18.75,0:07:19.55,normal_Wed,,0,0,0,,Because...
+Dialogue: 0,0:07:19.92,0:07:30.53,normal_Wed,,0,0,0,,Italy is ashamed of you, in a good way
+Dialogue: 0,0:07:30.53,0:07:32.07,normal_Wed,,0,0,0,,The news?
+Dialogue: 0,0:07:32.17,0:07:34.94,normal_Wed,,0,0,0,,What?  \N-What do you mean, Italy what?
+Dialogue: 0,0:07:34.94,0:07:36.57,normal_Wed,,0,0,0,,It's a good thing
+Dialogue: 0,0:07:36.71,0:07:39.24,normal_Wed,,0,0,0,,Me?  \N-For Italy
+Dialogue: 0,0:07:39.24,0:07:40.44,normal_Wed,,0,0,0,,They want me out?
+Dialogue: 0,0:07:40.44,0:07:41.78,normal_Wed,,0,0,0,,But in a positive sense
+Dialogue: 0,0:07:41.78,0:07:45.38,normal_Wed,,0,0,0,,That's why...
+Dialogue: 0,0:07:46.02,0:07:47.22,normal_Wed,,0,0,0,,How to say
+Dialogue: 0,0:07:47.22,0:07:50.19,normal_Wed,,0,0,0,,Your efforts in Japan have made you lose support
+Dialogue: 0,0:07:50.19,0:07:52.86,normal_Wed,,0,0,0,,Why do you think so?
+Dialogue: 0,0:07:53.18,0:07:55.31,wipe_Wed,,0,0,0,,This is simply getting angry
+Dialogue: 0,0:07:52.86,0:07:54.36,normal_Wed,,0,0,0,,That is to say
+Dialogue: 0,0:07:55.36,0:07:58.60,normal_Wed,,0,0,0,,Your... persona and so on
+Dialogue: 0,0:07:57.70,0:07:59.50,wipe_Wed,,0,0,0,,This would make you angry
+Dialogue: 0,0:07:59.85,0:08:03.73,normal_Wed,,0,0,0,,I haven't been banned from the country
+Dialogue: 0,0:08:03.73,0:08:05.60,normal_Wed,,0,0,0,,I was actually awarded a medal by the government
+Dialogue: 0,0:08:06.57,0:08:08.27,normal_Wed,,0,0,0,,As a compliment  \N-The president gave it to me
+Dialogue: 0,0:08:08.27,0:08:10.71,normal_Wed,,0,0,0,,From the president? That's impressive
+Dialogue: 0,0:08:13.31,0:08:15.14,normal_Wed,,0,0,0,,Have you ever been beaten up before?
+Dialogue: 0,0:08:15.58,0:08:17.95,normal_Wed,,0,0,0,,Eh, what?
+Dialogue: 0,0:08:18.35,0:08:19.82,normal_Wed,,0,0,0,,What a question to ask...
+Dialogue: 0,0:08:23.17,0:08:26.83,normal_Wed,,0,0,0,,Before he strikes, the truth is revealed here
+Dialogue: 0,0:08:26.83,0:08:28.83,wipe_Wed,,0,0,0,,Can this be considered a success?
+Dialogue: 0,0:08:29.16,0:08:32.06,normal_Wed,,0,0,0,,We are Wednesday Downtown
+Dialogue: 0,0:08:32.06,0:08:33.70,normal_Wed,,0,0,0,,Ah...
+Dialogue: 0,0:08:33.70,0:08:35.37,normal_Wed,,0,0,0,,Did you notice anything strange?
+Dialogue: 0,0:08:35.37,0:08:36.07,normal_Wed,,0,0,0,,Him, right?
+Dialogue: 0,0:08:36.07,0:08:38.82,normal_Wed,,0,0,0,,I may have reacted if he said anything more
+Dialogue: 0,0:08:38.82,0:08:41.27,normal_Wed,,0,0,0,,Beat-beat-beat me up?\N  -I wouldn't beat you up
+Dialogue: 0,0:08:41.27,0:08:43.88,normal_Wed,,0,0,0,,I might just kick off, though
+Dialogue: 0,0:08:43.88,0:08:45.07,normal_Wed,,0,0,0,,What a joke!
+Dialogue: 0,0:08:45.68,0:08:49.02,normal_Wed,,0,0,0,,The next challenger is
+Dialogue: 0,0:08:49.84,0:08:52.75,normal_Wed,,0,0,0,,Onigoe Tomahawk's Sakai
+Dialogue: 0,0:08:53.45,0:08:56.44,normal_Wed,,0,0,0,,His target is
+Dialogue: 0,0:09:00.04,0:09:02.97,normal_Wed,,0,0,0,,Actress Tono Nagiko
+Dialogue: 0,0:09:03.19,0:09:05.73,normal_Wed,,0,0,0,,Have you worked together? \N-No
+Dialogue: 0,0:09:05.90,0:09:09.73,normal_Wed,,0,0,0,,Recently, it seems that she is a regular commentator
+Dialogue: 0,0:09:09.73,0:09:12.83,normal_Wed,,0,0,0,,So i'm a bit nervous
+Dialogue: 0,0:09:13.56,0:09:17.00,normal_Wed,,0,0,0,,The first line is
+Dialogue: 0,0:09:17.74,0:09:22.21,normal_Wed,,0,0,0,,Emotionally unstable
+Dialogue: 0,0:09:22.21,0:09:24.25,normal_Wed,,0,0,0,,No one would say such a thing
+Dialogue: 0,0:09:26.08,0:09:28.22,normal_Wed,,0,0,0,,Positive emotional instability?
+Dialogue: 0,0:09:31.39,0:09:32.99,normal_Wed,,0,0,0,,It's terrible
+Dialogue: 0,0:09:34.10,0:09:35.61,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:09:35.61,0:09:36.68,wipe_Wed,,0,0,0,,In the car
+Dialogue: 0,0:09:36.68,0:09:38.57,wipe_Wed,,0,0,0,,It's even scarier in tight places
+Dialogue: 0,0:09:37.67,0:09:41.20,normal_Wed,,0,0,0,,I watched "Suzuran" when I was in middle school
+Dialogue: 0,0:09:41.20,0:09:42.39,normal_Wed,,0,0,0,,Oh really?
+Dialogue: 0,0:09:37.67,0:09:43.97,note_Wed,,0,0,0,,{\blur4}※A 1999 NHK progam in which Tono appeared
+Dialogue: 0,0:09:42.39,0:09:43.97,normal_Wed,,0,0,0,,I was just 13 years old at the time
+Dialogue: 0,0:09:43.97,0:09:45.80,normal_Wed,,0,0,0,,Really? I'm happy
+Dialogue: 0,0:09:45.80,0:09:47.33,normal_Wed,,0,0,0,,I'm a bit nervous
+Dialogue: 0,0:09:47.33,0:09:51.51,normal_Wed,,0,0,0,,I still have an impression of Tono-san from that time
+Dialogue: 0,0:09:54.04,0:09:57.45,normal_Wed,,0,0,0,,I've changed a lot..
+Dialogue: 0,0:09:57.45,0:09:58.98,normal_Wed,,0,0,0,,It'd be strange not to
+Dialogue: 0,0:09:58.98,0:10:01.45,normal_Wed,,0,0,0,,You say you've changed...
+Dialogue: 0,0:10:01.65,0:10:07.32,normal_Wed,,0,0,0,,But compared to the past, how to put it
+Dialogue: 0,0:10:07.32,0:10:11.46,normal_Wed,,0,0,0,,There's positive emotional instability, right?
+Dialogue: 0,0:10:12.36,0:10:14.38,normal_Wed,,0,0,0,,All the emotions are on display
+Dialogue: 0,0:10:14.38,0:10:18.40,normal_Wed,,0,0,0,,I didn't have much opportunity to show that side before
+Dialogue: 0,0:10:18.40,0:10:20.74,normal_Wed,,0,0,0,,Indeed, only through acting is it possible
+Dialogue: 0,0:10:20.74,0:10:22.87,normal_Wed,,0,0,0,,Yeah, it's just an act
+Dialogue: 0,0:10:22.87,0:10:27.38,normal_Wed,,0,0,0,,So nothing has changed in terms of the emotional instability
+Dialogue: 0,0:10:28.13,0:10:32.11,normal_Wed,,0,0,0,,In regard to this, she understands herself well
+Dialogue: 0,0:10:32.11,0:10:35.72,normal_Wed,,0,0,0,,The first level is passed easily
+Dialogue: 0,0:10:36.30,0:10:40.13,normal_Wed,,0,0,0,,The 2nd line is
+Dialogue: 0,0:10:40.29,0:10:45.56,normal_Wed,,0,0,0,,Can't have a normal conversation
+Dialogue: 0,0:10:45.56,0:10:46.76,normal_Wed,,0,0,0,,This is no good
+Dialogue: 0,0:10:46.76,0:10:49.40,normal_Wed,,0,0,0,,I still have to talk to her
+Dialogue: 0,0:10:49.40,0:10:51.57,normal_Wed,,0,0,0,,Set up the conversation
+Dialogue: 0,0:10:52.27,0:10:54.14,normal_Wed,,0,0,0,,Tono, you're not...
+Dialogue: 0,0:10:54.14,0:10:58.14,normal_Wed,,0,0,0,,In a good way, you can't have a normal conversation
+Dialogue: 0,0:10:59.74,0:11:01.84,normal_Wed,,0,0,0,,What?  \N-It's not...
+Dialogue: 0,0:11:02.01,0:11:05.01,normal_Wed,,0,0,0,,A good conversation
+Dialogue: 0,0:11:05.58,0:11:08.97,normal_Wed,,0,0,0,,In a good way... \N -I don't know what we'll talk about
+Dialogue: 0,0:11:08.97,0:11:10.72,normal_Wed,,0,0,0,,It's like playing catch
+Dialogue: 0,0:11:10.72,0:11:16.03,normal_Wed,,0,0,0,,I threw the ball but I don't know if you'll throw it back to me, there's this sense of tension
+Dialogue: 0,0:11:16.03,0:11:19.06,normal_Wed,,0,0,0,,As a comedian, I think its very interesting
+Dialogue: 0,0:11:19.69,0:11:21.70,wipe_Wed,,0,0,0,,Well rounded
+Dialogue: 0,0:11:19.06,0:11:21.83,normal_Wed,,0,0,0,,How to say...
+Dialogue: 0,0:11:21.83,0:11:23.43,normal_Wed,,0,0,0,,Does it confuse you? \N -No
+Dialogue: 0,0:11:23.43,0:11:25.17,normal_Wed,,0,0,0,,Not confused
+Dialogue: 0,0:11:25.17,0:11:27.40,normal_Wed,,0,0,0,,It's more of an immersive contrast
+Dialogue: 0,0:11:28.88,0:11:30.36,wipe_Wed,,0,0,0,,This has to be reexamined
+Dialogue: 0,0:11:27.97,0:11:32.81,normal_Wed,,0,0,0,,So its good? \N -Yeah, it's great
+Dialogue: 0,0:11:33.46,0:11:38.38,normal_Wed,,0,0,0,,Despite some sparks, the second level is also passed
+Dialogue: 0,0:11:39.44,0:11:43.14,normal_Wed,,0,0,0,,The last line is...
+Dialogue: 0,0:11:43.42,0:11:47.79,normal_Wed,,0,0,0,,Comedy and stuff...do you watch it?  \N-I love it
+Dialogue: 0,0:11:47.79,0:11:50.19,normal_Wed,,0,0,0,,Disregarding people's feelings, who do you like best?
+Dialogue: 0,0:11:50.46,0:11:53.47,normal_Wed,,0,0,0,,Recently the thing I have to watch before bed is...
+Dialogue: 0,0:11:53.47,0:11:56.46,normal_Wed,,0,0,0,,Well, in terms of comedians
+Dialogue: 0,0:11:56.46,0:11:57.43,normal_Wed,,0,0,0,,Isn't the senior and junior relationship important?
+Dialogue: 0,0:11:57.43,0:11:58.23,normal_Wed,,0,0,0,,No no
+Dialogue: 0,0:11:58.23,0:11:58.86,normal_Wed,,0,0,0,,How the relationship is, etc
+Dialogue: 0,0:11:58.86,0:12:00.63,normal_Wed,,0,0,0,,Don't worry about it
+Dialogue: 0,0:12:00.94,0:12:05.37,normal_Wed,,0,0,0,,But I want to hear people say they like an actress I really hate
+Dialogue: 0,0:12:05.37,0:12:07.08,normal_Wed,,0,0,0,,My expression is obvious
+Dialogue: 0,0:12:07.08,0:12:08.38,normal_Wed,,0,0,0,,You'll think, "Seriously!?"
+Dialogue: 0,0:12:08.38,0:12:11.28,normal_Wed,,0,0,0,,Do you have an actress you hate?  \N-Loads!
+Dialogue: 0,0:12:11.28,0:12:11.98,normal_Wed,,0,0,0,,Like who?
+Dialogue: 0,0:12:11.98,0:12:14.75,normal_Wed,,0,0,0,,As soon as they appear, I change the channel immediately
+Dialogue: 0,0:12:13.82,0:12:15.66,wipe_Wed,,0,0,0,,Something is happening
+Dialogue: 0,0:12:15.05,0:12:16.89,normal_Wed,,0,0,0,,Can you tell me?
+Dialogue: 0,0:12:16.89,0:12:18.29,normal_Wed,,0,0,0,,A very big name
+Dialogue: 0,0:12:18.29,0:12:19.89,normal_Wed,,0,0,0,,I won't talk about nobodies
+Dialogue: 0,0:12:19.89,0:12:24.43,normal_Wed,,0,0,0,,Although you are a big name artist
+Dialogue: 0,0:12:24.66,0:12:26.63,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:12:26.89,0:12:34.47,normal_Wed,,0,0,0,,As an actress, you don't act much in film and television anymore, in a good way
+Dialogue: 0,0:12:34.47,0:12:35.87,normal_Wed,,0,0,0,,Me? \N -Yes
+Dialogue: 0,0:12:32.86,0:12:34.24,wipe_Wed,,0,0,0,,Not good
+Dialogue: 0,0:12:35.87,0:12:37.14,normal_Wed,,0,0,0,,I'm in a stage play though
+Dialogue: 0,0:12:37.14,0:12:38.17,normal_Wed,,0,0,0,,Ah, you acted in a stage play?
+Dialogue: 0,0:12:38.17,0:12:39.91,normal_Wed,,0,0,0,,Ah, that's...
+Dialogue: 0,0:12:39.91,0:12:43.38,normal_Wed,,0,0,0,,I feel like your strengths lie more in morning variety
+Dialogue: 0,0:12:43.71,0:12:49.45,normal_Wed,,0,0,0,,This... I don't think so
+Dialogue: 0,0:12:49.45,0:12:53.96,normal_Wed,,0,0,0,,Comedians can sometimes be kind of dangerous
+Dialogue: 0,0:12:54.22,0:12:58.26,normal_Wed,,0,0,0,,So sometimes I can act help but act like that
+Dialogue: 0,0:12:58.86,0:13:02.30,normal_Wed,,0,0,0,,That's pretty impressive
+Dialogue: 0,0:13:02.30,0:13:04.13,normal_Wed,,0,0,0,,Your eyes are too serious...
+Dialogue: 0,0:13:04.30,0:13:05.67,normal_Wed,,0,0,0,,Scary...no it's not okay \N -Scary?
+Dialogue: 0,0:13:05.67,0:13:08.00,normal_Wed,,0,0,0,,Not at all. You are beautiful
+Dialogue: 0,0:13:08.37,0:13:09.71,normal_Wed,,0,0,0,,What's wrong? What are you trying to say?
+Dialogue: 0,0:13:09.71,0:13:11.88,normal_Wed,,0,0,0,,Nothing
+Dialogue: 0,0:13:11.87,0:13:14.54,normal_Wed,,0,0,0,,Have you been to Musashi Koyama?
+Dialogue: 0,0:13:15.24,0:13:16.74,wipe_Wed,,0,0,0,,It's too raw
+Dialogue: 0,0:13:14.54,0:13:17.62,normal_Wed,,0,0,0,,No, I'm looking forward to it
+Dialogue: 0,0:13:17.62,0:13:22.96,normal_Wed,,0,0,0,,A reluctant diversion from the subject
+Dialogue: 0,0:13:22.96,0:13:25.16,normal_Wed,,0,0,0,,And the truth is revealed
+Dialogue: 0,0:13:25.16,0:13:30.16,normal_Wed,,0,0,0,,This location shoot is fake
+Dialogue: 0,0:13:30.36,0:13:34.36,normal_Wed,,0,0,0,,The show is Wednesday Downtown \N-I knew it
+Dialogue: 0,0:13:34.36,0:13:40.54,normal_Wed,,0,0,0,,I lost a friend once to Wednesday Downtown
+Dialogue: 0,0:13:40.90,0:13:45.04,normal_Wed,,0,0,0,,This time I gained a friend
+Dialogue: 0,0:13:45.14,0:13:46.61,normal_Wed,,0,0,0,,How to say it
+Dialogue: 0,0:13:46.61,0:13:48.78,normal_Wed,,0,0,0,,Let's call it even. \N -Scary scary scary
+Dialogue: 0,0:13:49.21,0:13:52.94,normal_Wed,,0,0,0,,The final challenger is
+Dialogue: 0,0:13:54.00,0:13:56.07,normal_Wed,,0,0,0,,Unagi
+Dialogue: 0,0:13:56.65,0:13:59.16,normal_Wed,,0,0,0,,The target is
+Dialogue: 0,0:13:59.16,0:14:01.36,normal_Wed,,0,0,0,,Honkon
+Dialogue: 0,0:14:01.49,0:14:03.49,normal_Wed,,0,0,0,,No one wants to do this
+Dialogue: 0,0:14:03.49,0:14:05.04,normal_Wed,,0,0,0,,What are you talking about?
+Dialogue: 0,0:14:06.29,0:14:09.07,normal_Wed,,0,0,0,,It's too dangerous.  \N-Dangerous?
+Dialogue: 0,0:14:09.17,0:14:11.90,normal_Wed,,0,0,0,,He gets angry even if you don't say anything bad about him
+Dialogue: 0,0:14:12.07,0:14:14.90,normal_Wed,,0,0,0,,With me
+Dialogue: 0,0:14:14.90,0:14:18.51,normal_Wed,,0,0,0,,Getting by can be tough sometimes
+Dialogue: 0,0:14:18.51,0:14:21.48,normal_Wed,,0,0,0,,I just eat bento at Lumine
+Dialogue: 0,0:14:21.48,0:14:24.35,normal_Wed,,0,0,0,,He said, "Don't eat a bento!"
+Dialogue: 0,0:14:25.03,0:14:28.87,normal_Wed,,0,0,0,,The first bad thing to say is...
+Dialogue: 0,0:14:29.55,0:14:35.09,normal_Wed,,0,0,0,,Your appearance and heart are the same
+Dialogue: 0,0:14:35.09,0:14:37.13,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:14:37.13,0:14:39.50,normal_Wed,,0,0,0,,His appearance and heart are the same
+Dialogue: 0,0:14:39.50,0:14:43.07,normal_Wed,,0,0,0,,Like... like a monster
+Dialogue: 0,0:14:43.07,0:14:45.26,normal_Wed,,0,0,0,,We didn't ask you to say to this extent \N -No, you didn't
+Dialogue: 0,0:14:45.40,0:14:47.77,normal_Wed,,0,0,0,,This meeting seems fun
+Dialogue: 0,0:15:01.76,0:15:06.59,normal_Wed,,0,0,0,,He has recently opened an SNS and been ranting continuously
+Dialogue: 0,0:15:07.26,0:15:11.06,normal_Wed,,0,0,0,,An off-balance Honkon
+Dialogue: 0,0:15:11.06,0:15:13.34,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:15:12.56,0:15:14.11,wipe_Wed,,0,0,0,,Positive mood gloom and doom
+Dialogue: 0,0:15:13.56,0:15:17.57,normal_Wed,,0,0,0,,You've been getting a lot of commentary work
+Dialogue: 0,0:15:17.77,0:15:20.64,normal_Wed,,0,0,0,,Just one as a commentator
+Dialogue: 0,0:15:20.64,0:15:22.74,normal_Wed,,0,0,0,,Really? \N -And...
+Dialogue: 0,0:15:22.74,0:15:25.17,normal_Wed,,0,0,0,,Listening to the experts talk
+Dialogue: 0,0:15:25.17,0:15:31.11,normal_Wed,,0,0,0,,Then they said that Japan is now very strange, so I also started doing some research
+Dialogue: 0,0:15:31.11,0:15:34.28,normal_Wed,,0,0,0,,Now I'm starting to think it is weird
+Dialogue: 0,0:15:34.28,0:15:36.15,normal_Wed,,0,0,0,,This is what you've been interested in recently?
+Dialogue: 0,0:15:36.15,0:15:38.49,normal_Wed,,0,0,0,,You could say its become an addiction, even though its part of the job
+Dialogue: 0,0:15:38.49,0:15:42.76,normal_Wed,,0,0,0,,But you've become interested \N-I've become serious about it
+Dialogue: 0,0:15:42.76,0:15:45.26,normal_Wed,,0,0,0,,I want to be complimented
+Dialogue: 0,0:15:45.26,0:15:47.03,normal_Wed,,0,0,0,,So i've been studying
+Dialogue: 0,0:15:47.63,0:15:51.67,normal_Wed,,0,0,0,,The good thing about you is your appearance and heart are the same
+Dialogue: 0,0:15:52.50,0:15:55.64,normal_Wed,,0,0,0,,What do you mean, appearance and heart?
+Dialogue: 0,0:15:55.64,0:15:58.44,normal_Wed,,0,0,0,,Well... how do I put it?
+Dialogue: 0,0:15:58.77,0:16:02.95,normal_Wed,,0,0,0,,Noone has ever said anything good about my appearance
+Dialogue: 0,0:16:02.95,0:16:04.48,normal_Wed,,0,0,0,,They always say "looks dirty"
+Dialogue: 0,0:16:04.48,0:16:07.65,normal_Wed,,0,0,0,,I'm dirty from inside out
+Dialogue: 0,0:16:07.65,0:16:09.02,normal_Wed,,0,0,0,,You're too weird!
+Dialogue: 0,0:16:09.02,0:16:12.25,normal_Wed,,0,0,0,,Most say my appearance and heart are the complete opposite!
+Dialogue: 0,0:16:12.66,0:16:16.06,normal_Wed,,0,0,0,,Still consistent... but in a positive sense
+Dialogue: 0,0:16:16.36,0:16:18.63,normal_Wed,,0,0,0,,No, no, no
+Dialogue: 0,0:16:18.63,0:16:22.13,normal_Wed,,0,0,0,,Most say "you're manly on the inside"
+Dialogue: 0,0:16:22.13,0:16:23.40,normal_Wed,,0,0,0,,You're too weird
+Dialogue: 0,0:16:24.30,0:16:26.40,normal_Wed,,0,0,0,,Just... appearance
+Dialogue: 0,0:16:26.40,0:16:28.14,normal_Wed,,0,0,0,,Even if the exterior is dirty
+Dialogue: 0,0:16:28.14,0:16:29.54,normal_Wed,,0,0,0,,You know...
+Dialogue: 0,0:16:29.54,0:16:34.37,normal_Wed,,0,0,0,,People always ask "do you know"? Of course I do!
+Dialogue: 0,0:16:34.84,0:16:36.65,normal_Wed,,0,0,0,,He's so moody
+Dialogue: 0,0:16:37.05,0:16:38.51,normal_Wed,,0,0,0,,It's positive
+Dialogue: 0,0:16:38.51,0:16:39.34,normal_Wed,,0,0,0,,Right?
+Dialogue: 0,0:16:39.34,0:16:41.58,normal_Wed,,0,0,0,,No, the younger generation certainly wouldn't say it
+Dialogue: 0,0:16:41.58,0:16:42.72,normal_Wed,,0,0,0,,What're you talking about?
+Dialogue: 0,0:16:42.72,0:16:44.66,normal_Wed,,0,0,0,,They surely wouldn't say it to your face
+Dialogue: 0,0:16:44.66,0:16:46.12,normal_Wed,,0,0,0,,You just said it, you said it
+Dialogue: 0,0:16:47.96,0:16:52.56,normal_Wed,,0,0,0,,I think this is positive
+Dialogue: 0,0:16:53.22,0:16:57.66,normal_Wed,,0,0,0,,Regardless of the inner self, a clear sense of patience pervades in terms of the subject of ugly looks
+Dialogue: 0,0:16:57.66,0:17:01.04,normal_Wed,,0,0,0,,Not much anger
+Dialogue: 0,0:17:01.65,0:17:04.89,normal_Wed,,0,0,0,,Second is...
+Dialogue: 0,0:17:05.31,0:17:07.38,normal_Wed,,0,0,0,,Honkon, you...
+Dialogue: 0,0:17:07.38,0:17:11.85,normal_Wed,,0,0,0,,Aren't you pretty harsh about being late?
+Dialogue: 0,0:17:11.85,0:17:15.21,normal_Wed,,0,0,0,,What happened with that one, Ito of Ozwald
+Dialogue: 0,0:17:13.69,0:17:15.21,wipe_Wed,,0,0,0,,Don't involve me!
+Dialogue: 0,0:17:15.21,0:17:17.65,normal_Wed,,0,0,0,,Taking up other people's time
+Dialogue: 0,0:17:17.65,0:17:19.26,normal_Wed,,0,0,0,,Indeed, they should be scolded
+Dialogue: 0,0:17:19.26,0:17:24.63,normal_Wed,,0,0,0,,And then chattering incessantly, of course i'd be angry
+Dialogue: 0,0:17:24.80,0:17:30.87,normal_Wed,,0,0,0,,Do you think it's okay for an attending physician to be late to the operating table?
+Dialogue: 0,0:17:30.87,0:17:31.70,normal_Wed,,0,0,0,,Of course not
+Dialogue: 0,0:17:31.70,0:17:35.54,normal_Wed,,0,0,0,,Bullet train operators, what if they're late?
+Dialogue: 0,0:17:35.87,0:17:38.21,normal_Wed,,0,0,0,,You'd be angry
+Dialogue: 0,0:17:38.21,0:17:39.71,normal_Wed,,0,0,0,,Impossible not to be
+Dialogue: 0,0:17:39.71,0:17:42.01,normal_Wed,,0,0,0,,It's definitely a bad thing
+Dialogue: 0,0:17:42.55,0:17:44.98,normal_Wed,,0,0,0,,That's for sure
+Dialogue: 0,0:17:44.98,0:17:46.35,normal_Wed,,0,0,0,,Honkon is the one
+Dialogue: 0,0:17:46.35,0:17:50.29,normal_Wed,,0,0,0,,That is positively hated by all young artists
+Dialogue: 0,0:17:49.65,0:17:52.30,wipe_Wed,,0,0,0,,That's bad!
+Dialogue: 0,0:17:51.12,0:17:54.19,normal_Wed,,0,0,0,,Really? I don't really care
+Dialogue: 0,0:17:52.30,0:17:54.20,wipe_Wed,,0,0,0,,It sounds like Ito hates him
+Dialogue: 0,0:17:54.50,0:17:56.19,wipe_Wed,,0,0,0,,Don't mention me!
+Dialogue: 0,0:17:54.19,0:17:56.20,normal_Wed,,0,0,0,,Hated by young artists
+Dialogue: 0,0:17:56.20,0:17:59.96,normal_Wed,,0,0,0,,And is everyone serious?
+Dialogue: 0,0:18:01.15,0:18:03.21,wipe_Wed,,0,0,0,,Please don't think it was me that said it
+Dialogue: 0,0:17:59.96,0:18:02.97,normal_Wed,,0,0,0,,Indeed... seriously
+Dialogue: 0,0:18:02.97,0:18:05.40,normal_Wed,,0,0,0,,There are times when I hate you
+Dialogue: 0,0:18:05.40,0:18:07.47,normal_Wed,,0,0,0,,Saying "I can be annoying at times"
+Dialogue: 0,0:18:07.47,0:18:12.51,normal_Wed,,0,0,0,,I also have people I like and people I hate
+Dialogue: 0,0:18:12.91,0:18:16.51,normal_Wed,,0,0,0,,Do you know what it is? The thing that everyone hates
+Dialogue: 0,0:18:17.35,0:18:21.45,normal_Wed,,0,0,0,,Even if people hate me, I still have rice to eat, so it doesn't matter
+Dialogue: 0,0:18:21.45,0:18:25.92,normal_Wed,,0,0,0,,Not everything is about making friends
+Dialogue: 0,0:18:25.92,0:18:28.82,normal_Wed,,0,0,0,,Otherwise there's no sense of tension, it makes things boring
+Dialogue: 0,0:18:28.82,0:18:32.13,normal_Wed,,0,0,0,,Really, a little more tension
+Dialogue: 0,0:18:32.31,0:18:33.89,wipe_Wed,,0,0,0,,What a big name artist!
+Dialogue: 0,0:18:33.52,0:18:37.54,normal_Wed,,0,0,0,,As the conversation is heating up, its time for the final line
+Dialogue: 0,0:18:38.23,0:18:41.60,normal_Wed,,0,0,0,,Political-related statements are irrelevant
+Dialogue: 0,0:18:41.60,0:18:44.44,normal_Wed,,0,0,0,,This is too deadly
+Dialogue: 0,0:18:44.44,0:18:45.81,normal_Wed,,0,0,0,,This is bad
+Dialogue: 0,0:18:45.81,0:18:47.91,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:18:47.91,0:18:51.05,normal_Wed,,0,0,0,,I meant to...
+Dialogue: 0,0:18:51.05,0:18:55.28,normal_Wed,,0,0,0,,I do think they're wrong
+Dialogue: 0,0:18:55.55,0:18:57.59,normal_Wed,,0,0,0,,Here's also gonna see this bit
+Dialogue: 0,0:19:00.69,0:19:02.79,normal_Wed,,0,0,0,,What will happen?
+Dialogue: 0,0:19:02.99,0:19:07.53,normal_Wed,,0,0,0,,I feel that Honkon is a very hot-blooded person
+Dialogue: 0,0:19:07.53,0:19:10.27,normal_Wed,,0,0,0,,And you're very concerned about politics, right?
+Dialogue: 0,0:19:10.50,0:19:14.44,normal_Wed,,0,0,0,,You guys think too little, its not all just about comedy
+Dialogue: 0,0:19:14.44,0:19:17.11,normal_Wed,,0,0,0,,You can do that because its peaceful
+Dialogue: 0,0:19:19.14,0:19:23.08,normal_Wed,,0,0,0,,I always hear your political statements
+Dialogue: 0,0:19:24.08,0:19:27.45,normal_Wed,,0,0,0,,I think, in a good way, your political statements are irrelevant
+Dialogue: 0,0:19:27.68,0:19:29.42,normal_Wed,,0,0,0,,What do you mean by "in a good way"?
+Dialogue: 0,0:19:29.42,0:19:30.78,normal_Wed,,0,0,0,,If you don't know what you're doing, you don't know what you're doing
+Dialogue: 0,0:19:30.78,0:19:33.25,normal_Wed,,0,0,0,,No, that's positive too
+Dialogue: 0,0:19:33.25,0:19:36.73,normal_Wed,,0,0,0,,It's not relevant but it does a good job of livening up the show
+Dialogue: 0,0:19:36.73,0:19:38.76,normal_Wed,,0,0,0,,I'm out of touch? Have you watched me?
+Dialogue: 0,0:19:39.70,0:19:42.83,normal_Wed,,0,0,0,,Yes, one time... \N -For example?
+Dialogue: 0,0:19:43.47,0:19:45.30,normal_Wed,,0,0,0,,I can't really given an example
+Dialogue: 0,0:19:45.30,0:19:47.20,normal_Wed,,0,0,0,,Can't even give an example
+Dialogue: 0,0:19:47.20,0:19:49.77,normal_Wed,,0,0,0,,And you say I'm out of touch, that's not good!
+Dialogue: 0,0:19:51.34,0:19:53.84,normal_Wed,,0,0,0,,You're being so vague
+Dialogue: 0,0:19:53.84,0:19:55.01,normal_Wed,,0,0,0,,After all, it is positive
+Dialogue: 0,0:19:55.01,0:20:01.55,normal_Wed,,0,0,0,,What's positive...that's not how to use "positive"
+Dialogue: 0,0:20:01.55,0:20:04.48,normal_Wed,,0,0,0,,It means that although it is not right to say
+Dialogue: 0,0:20:05.05,0:20:07.42,normal_Wed,,0,0,0,,It still makes the show very lively
+Dialogue: 0,0:20:07.42,0:20:11.36,normal_Wed,,0,0,0,,Is it your intention to go in that direction? \N  -Which one?
+Dialogue: 0,0:20:11.46,0:20:12.64,normal_Wed,,0,0,0,,Politics? \N -Yes
+Dialogue: 0,0:20:12.64,0:20:15.43,normal_Wed,,0,0,0,,No, it's part of the job
+Dialogue: 0,0:20:15.43,0:20:18.07,normal_Wed,,0,0,0,,But I'm worried about Japan
+Dialogue: 0,0:20:19.00,0:20:21.87,normal_Wed,,0,0,0,,Is there anything you want to change?  \N-There are too many things
+Dialogue: 0,0:20:21.87,0:20:23.57,normal_Wed,,0,0,0,,Honestly speaking
+Dialogue: 0,0:20:23.57,0:20:26.11,normal_Wed,,0,0,0,,This country is really in trouble
+Dialogue: 0,0:20:26.11,0:20:27.91,normal_Wed,,0,0,0,,Is that so? \N -Of course
+Dialogue: 0,0:20:27.91,0:20:32.15,normal_Wed,,0,0,0,,So, you'll change...?
+Dialogue: 0,0:20:32.15,0:20:35.62,normal_Wed,,0,0,0,,Of course it is to do what you can, and you don't
+Dialogue: 0,0:20:35.62,0:20:39.05,normal_Wed,,0,0,0,,That's when it's positive. Get involved in some political activities
+Dialogue: 0,0:20:40.92,0:20:45.26,normal_Wed,,0,0,0,,Do you think that by talking more about politics you'll get less work?
+Dialogue: 0,0:20:46.06,0:20:48.70,normal_Wed,,0,0,0,,Yeah, I guess...  \N-Right?
+Dialogue: 0,0:20:48.95,0:20:51.93,normal_Wed,,0,0,0,,You say this... then don't pay taxes
+Dialogue: 0,0:20:51.93,0:20:53.73,normal_Wed,,0,0,0,,But in a positive sense
+Dialogue: 0,0:20:53.73,0:20:57.24,normal_Wed,,0,0,0,,What "positive", you're pissing me off!
+Dialogue: 0,0:20:57.24,0:21:00.78,normal_Wed,,0,0,0,,Do you think you can be forgiven for saying anything by adding "positive" to it?
+Dialogue: 0,0:21:01.04,0:21:02.61,wipe_Wed,,0,0,0,,Straight up said it
+Dialogue: 0,0:21:01.01,0:21:03.08,normal_Wed,,0,0,0,,No, I really don't think so
+Dialogue: 0,0:21:03.69,0:21:07.66,normal_Wed,,0,0,0,,In light of Honkon's comment, the truth is revealed herre
+Dialogue: 0,0:21:10.15,0:21:11.86,normal_Wed,,0,0,0,,What are you doing?
+Dialogue: 0,0:21:11.86,0:21:15.36,normal_Wed,,0,0,0,,This is Wednesday Downtown
+Dialogue: 0,0:21:15.36,0:21:18.93,normal_Wed,,0,0,0,,Honkon was smiling from the moment he came in
+Dialogue: 0,0:21:18.93,0:21:20.40,normal_Wed,,0,0,0,,Did something good happening?\N  -Nothing good
+Dialogue: 0,0:21:20.40,0:21:23.37,normal_Wed,,0,0,0,,Do you really have such a bad impression of me?
+Dialogue: 0,0:21:23.37,0:21:25.63,normal_Wed,,0,0,0,,I don't usually lose my temper
+Dialogue: 0,0:21:26.37,0:21:28.90,normal_Wed,,0,0,0,,You are not the same on the outside as you are on the inside
+Dialogue: 0,0:21:31.18,0:21:38.91,normal_Wed,,0,0,0,,{\3c&HFFFFFF&\c&H3732FF&}In summary\N{\r}No one was too angry (in a good way)
+Dialogue: 0,0:21:38.91,0:21:40.44,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:21:40.44,0:21:42.42,normal_Wed,,0,0,0,,What do you think?
+Dialogue: 0,0:21:43.16,0:21:46.22,normal_Wed,,0,0,0,,Ah, i'm tingling
+Dialogue: 0,0:21:46.22,0:21:49.46,normal_Wed,,0,0,0,,Girolamo was really angry, right?
+Dialogue: 0,0:21:50.09,0:21:52.06,normal_Wed,,0,0,0,,When the person came in
+Dialogue: 0,0:21:52.06,0:21:57.33,normal_Wed,,0,0,0,,He may have hit him, but it was edited out
+Dialogue: 0,0:21:57.33,0:21:58.90,normal_Wed,,0,0,0,,Must have beaten someone up
+Dialogue: 0,0:21:58.90,0:22:02.06,normal_Wed,,0,0,0,,It's true though, Minamikawa is really annoying
+Dialogue: 0,0:22:02.06,0:22:05.80,normal_Wed,,0,0,0,,His expressions and so on, and his glasses \N-Yes, yes
+Dialogue: 0,0:22:05.80,0:22:07.84,normal_Wed,,0,0,0,,Don't say "positive" after that
+Dialogue: 0,0:22:07.84,0:22:12.29,normal_Wed,,0,0,0,,Change it to say "I don't think so though"
+Dialogue: 0,0:22:12.29,0:22:13.65,normal_Wed,,0,0,0,,Pretty good
+Dialogue: 0,0:22:13.78,0:22:17.15,normal_Wed,,0,0,0,,But then they'll ask "so who said it?"
+Dialogue: 0,0:22:17.15,0:22:18.79,normal_Wed,,0,0,0,,It makes no difference
+Dialogue: 0,0:22:20.92,0:22:23.38,normal_Wed,,0,0,0,,Let’s welcome our next presenter please
+Dialogue: 0,0:22:25.22,0:22:27.48,normal_Wed,,0,0,0,,Anyone there?
+Dialogue: 0,0:22:27.48,0:22:28.95,normal_Wed,,0,0,0,,There is, there is
+Dialogue: 0,0:22:30.12,0:22:32.73,normal_Wed,,0,0,0,,It's Fujiwara!
+Dialogue: 0,0:22:35.98,0:22:37.88,normal_Wed,,0,0,0,,So, this is not a theory
+Dialogue: 0,0:22:37.88,0:22:40.92,normal_Wed,,0,0,0,,But the project everyone has been waiting for
+Dialogue: 0,0:22:40.92,0:22:42.03,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:22:43.14,0:22:44.74,normal_Wed,,0,0,0,,MONSTER LOVE
+Dialogue: 0,0:22:44.74,0:22:45.88,normal_Wed,,0,0,0,,It's here!
+Dialogue: 0,0:22:45.88,0:22:47.54,normal_Wed,,0,0,0,,It's here
+Dialogue: 0,0:22:47.54,0:22:49.58,normal_Wed,,0,0,0,,There are also many people who hate this project!
+Dialogue: 0,0:22:49.58,0:22:53.18,normal_Wed,,0,0,0,,No, no, no, the streets are calling it "MONLOVE" "MONLOVE"
+Dialogue: 0,0:22:53.18,0:22:54.79,normal_Wed,,0,0,0,,It's not that popular!
+Dialogue: 0,0:22:54.79,0:22:56.85,normal_Wed,,0,0,0,,So, have you all watched it?
+Dialogue: 0,0:22:56.85,0:22:58.55,normal_Wed,,0,0,0,,Yes \N  -It's disgusting
+Dialogue: 0,0:22:58.55,0:23:02.52,normal_Wed,,0,0,0,,In a "People I don't want to be hugged by" ranking, Kuro-chan was 3rd and I was 4th
+Dialogue: 0,0:23:02.52,0:23:03.96,normal_Wed,,0,0,0,,Just one place difference?
+Dialogue: 0,0:23:03.96,0:23:04.83,normal_Wed,,0,0,0,,Super close!
+Dialogue: 0,0:23:04.83,0:23:06.56,normal_Wed,,0,0,0,,He's actually doing things wrong
+Dialogue: 0,0:23:06.56,0:23:08.20,normal_Wed,,0,0,0,,But i'm just one place away from him!
+Dialogue: 0,0:23:08.20,0:23:09.23,normal_Wed,,0,0,0,,It's about the same level
+Dialogue: 0,0:23:09.23,0:23:11.64,normal_Wed,,0,0,0,,I live my life so carefully
+Dialogue: 0,0:23:11.64,0:23:12.92,normal_Wed,,0,0,0,,What a sad story
+Dialogue: 0,0:23:13.39,0:23:17.24,normal_Wed,,0,0,0,,So, a brief review of what has happened so far
+Dialogue: 0,0:23:17.24,0:23:25.58,normal_Wed,,0,0,0,,Kuro has been living in Okinawa with some women who like him and some pretending to like him
+Dialogue: 0,0:23:25.58,0:23:30.32,normal_Wed,,0,0,0,,Last week, Mami, a pretender, was eliminated
+Dialogue: 0,0:23:30.32,0:23:37.26,normal_Wed,,0,0,0,,And it was revealed in the post-interview that those pretending to like Kuro-chan are doing so in the hopes of debuting as idols
+Dialogue: 0,0:23:37.87,0:23:41.07,normal_Wed,,0,0,0,,Aspiring idols
+Dialogue: 0,0:23:41.07,0:23:42.26,normal_Wed,,0,0,0,,That's why they were crying!
+Dialogue: 0,0:23:46.60,0:23:51.04,normal_Wed,,0,0,0,,Then the cookies baked by Miku were smashed to pieces
+Dialogue: 0,0:23:51.04,0:23:52.32,normal_Wed,,0,0,0,,The "cookie incident"
+Dialogue: 0,0:23:52.32,0:23:54.61,normal_Wed,,0,0,0,,It wasn't that big of an event
+Dialogue: 0,0:23:54.61,0:23:58.25,normal_Wed,,0,0,0,,The culprit was Kuro-chan himself
+Dialogue: 0,0:23:58.25,0:23:59.28,normal_Wed,,0,0,0,,He's the worst
+Dialogue: 0,0:23:59.28,0:24:01.54,normal_Wed,,0,0,0,,Is it really possible to broadcast that part on TV?
+Dialogue: 0,0:24:01.54,0:24:07.73,normal_Wed,,0,0,0,,People may think that being a psychopath is appealing
+Dialogue: 0,0:24:07.73,0:24:10.37,normal_Wed,,0,0,0,,It's the first time i've seen such a disgusting psychopath
+Dialogue: 0,0:24:10.37,0:24:13.00,normal_Wed,,0,0,0,,Purebred psycho
+Dialogue: 0,0:24:13.00,0:24:15.36,normal_Wed,,0,0,0,,Its surprising he can still be on TV
+Dialogue: 0,0:24:15.36,0:24:18.00,normal_Wed,,0,0,0,,Okay, now these three are left
+Dialogue: 0,0:24:19.98,0:24:21.18,normal_Wed,,0,0,0,,Richi, Miku and Mina
+Dialogue: 0,0:24:22.14,0:24:24.88,normal_Wed,,0,0,0,,Let me ask, who do you like, Tanaka?
+Dialogue: 0,0:24:24.88,0:24:26.33,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:24:26.33,0:24:27.28,normal_Wed,,0,0,0,,Of these people?
+Dialogue: 0,0:24:27.28,0:24:28.98,normal_Wed,,0,0,0,,Which one is your type
+Dialogue: 0,0:24:30.41,0:24:31.32,normal_Wed,,0,0,0,,Mina
+Dialogue: 0,0:24:31.32,0:24:32.12,normal_Wed,,0,0,0,,Disgusting
+Dialogue: 0,0:24:32.63,0:24:34.99,normal_Wed,,0,0,0,,You're the one who asked!
+Dialogue: 0,0:24:35.53,0:24:38.01,normal_Wed,,0,0,0,,Amazing!
+Dialogue: 0,0:24:38.01,0:24:39.47,normal_Wed,,0,0,0,,Super beautiful!
+Dialogue: 0,0:24:39.47,0:24:40.72,wipe_Wed,,0,0,0,,3 people
+Dialogue: 0,0:24:40.72,0:24:42.00,wipe_Wed,,0,0,0,,There are only 3 people
+Dialogue: 0,0:24:42.00,0:24:44.25,wipe_Wed,,0,0,0,,Where's the other one?
+Dialogue: 0,0:24:45.56,0:24:47.72,wipe_Wed,,0,0,0,,A nice location
+Dialogue: 0,0:24:48.68,0:24:50.42,normal_Wed,,0,0,0,,It's so hot today!
+Dialogue: 0,0:24:50.77,0:24:54.16,normal_Wed,,0,0,0,,I'm really sorry about the cookie incident yesterday
+Dialogue: 0,0:24:54.16,0:25:01.71,normal_Wed,,0,0,0,,I am the one most likely to be suspected
+Dialogue: 0,0:25:02.08,0:25:03.85,normal_Wed,,0,0,0,,Because i've always been jealous
+Dialogue: 0,0:25:04.08,0:25:06.24,normal_Wed,,0,0,0,,Now i'll be suspected again
+Dialogue: 0,0:25:06.24,0:25:09.11,normal_Wed,,0,0,0,,And Kuro-chan will protect Miku
+Dialogue: 0,0:25:10.75,0:25:12.33,wipe_Wed,,0,0,0,,What a face!
+Dialogue: 0,0:25:11.56,0:25:14.49,normal_Wed,,0,0,0,,I also think it was Miku that broke them
+Dialogue: 0,0:25:13.73,0:25:17.66,wipe_Wed,,0,0,0,,{\i1}He{\i0} did it!
+Dialogue: 0,0:25:16.89,0:25:19.80,normal_Wed,,0,0,0,,That's why I said Miku
+Dialogue: 0,0:25:19.80,0:25:21.02,normal_Wed,,0,0,0,,It's okay
+Dialogue: 0,0:25:21.37,0:25:24.80,normal_Wed,,0,0,0,,No matter who did it, and why
+Dialogue: 0,0:25:25.07,0:25:28.44,normal_Wed,,0,0,0,,I don't care at all
+Dialogue: 0,0:25:28.94,0:25:33.40,normal_Wed,,0,0,0,,Being suspicious of others
+Dialogue: 0,0:25:33.78,0:25:36.81,normal_Wed,,0,0,0,,It makes you feel sad
+Dialogue: 0,0:25:36.81,0:25:40.05,normal_Wed,,0,0,0,,I don't want that
+Dialogue: 0,0:25:40.05,0:25:41.59,normal_Wed,,0,0,0,,That's all
+Dialogue: 0,0:25:41.59,0:25:50.43,normal_Wed,,0,0,0,,So I don't care who broke it
+Dialogue: 0,0:25:48.24,0:25:49.76,wipe_Wed,,0,0,0,,Good girl
+Dialogue: 0,0:25:51.46,0:25:58.09,normal_Wed,,0,0,0,,It feels like a long time has passed and there are so many less people now
+Dialogue: 0,0:25:59.20,0:26:00.77,normal_Wed,,0,0,0,,Its coming to an end soon...
+Dialogue: 0,0:26:00.77,0:26:02.81,normal_Wed,,0,0,0,,I have this feeling
+Dialogue: 0,0:26:02.91,0:26:05.95,normal_Wed,,0,0,0,,3 people, so scary
+Dialogue: 0,0:26:06.11,0:26:11.45,normal_Wed,,0,0,0,,But a 3-person idol group is quite rare, isn't it?
+Dialogue: 0,0:26:11.45,0:26:13.19,normal_Wed,,0,0,0,,Very few indeed
+Dialogue: 0,0:26:13.19,0:26:15.92,normal_Wed,,0,0,0,,The last selected, will they have a solo debut?
+Dialogue: 0,0:26:15.92,0:26:18.42,normal_Wed,,0,0,0,,Oh, is it like that?
+Dialogue: 0,0:26:18.62,0:26:24.93,normal_Wed,,0,0,0,,But there are also people that like Kuro-chan
+Dialogue: 0,0:26:25.23,0:26:27.30,normal_Wed,,0,0,0,,Didn't Kuro-chan say he wouldn't go out with an idol?
+Dialogue: 0,0:26:27.30,0:26:29.80,normal_Wed,,0,0,0,,He did say that
+Dialogue: 0,0:26:29.80,0:26:31.90,normal_Wed,,0,0,0,,What will happen in the end...
+Dialogue: 0,0:26:29.57,0:26:31.91,wipe_Wed,,0,0,0,,Still can't tell
+Dialogue: 0,0:26:31.92,0:26:34.57,wipe_Wed,,0,0,0,,There should be no lies here, right?
+Dialogue: 0,0:26:47.05,0:26:49.52,wipe_Wed,,0,0,0,,The opening is important
+Dialogue: 0,0:26:51.73,0:26:53.26,wipe_Wed,,0,0,0,,Everyone looks like an idol
+Dialogue: 0,0:26:53.90,0:26:54.96,wipe_Wed,,0,0,0,,So disgusting
+Dialogue: 0,0:26:54.96,0:26:57.08,wipe_Wed,,0,0,0,,Disgusting
+Dialogue: 0,0:27:02.62,0:27:03.80,normal_Wed,,0,0,0,,Super beautiful
+Dialogue: 0,0:27:03.80,0:27:06.10,normal_Wed,,0,0,0,,Ah, i'm so happy
+Dialogue: 0,0:27:06.70,0:27:09.02,normal_Wed,,0,0,0,,Wait a sec
+Dialogue: 0,0:27:09.24,0:27:11.64,normal_Wed,,0,0,0,,Everyone wasn't here earlier, right?
+Dialogue: 0,0:27:11.81,0:27:13.90,normal_Wed,,0,0,0,,We went to a private beach together
+Dialogue: 0,0:27:14.11,0:27:15.34,normal_Wed,,0,0,0,,Eh, private... the beach?
+Dialogue: 0,0:27:15.48,0:27:16.38,normal_Wed,,0,0,0,,The beach
+Dialogue: 0,0:27:16.38,0:27:17.58,normal_Wed,,0,0,0,,Eh? So cunning!
+Dialogue: 0,0:27:17.68,0:27:19.18,normal_Wed,,0,0,0,,Leaving me behind?
+Dialogue: 0,0:27:19.32,0:27:21.46,normal_Wed,,0,0,0,,Its nice for it to be just 3 sometimes
+Dialogue: 0,0:27:21.46,0:27:22.92,normal_Wed,,0,0,0,,Yeah, it was fun
+Dialogue: 0,0:27:22.92,0:27:24.05,normal_Wed,,0,0,0,,Super fun
+Dialogue: 0,0:27:24.05,0:27:27.32,normal_Wed,,0,0,0,,But with me it'd be way more fun, ah, so cunning~
+Dialogue: 0,0:27:27.59,0:27:31.70,normal_Wed,,0,0,0,,Such a shock
+Dialogue: 0,0:27:27.31,0:27:29.47,wipe_Wed,,0,0,0,,He's so annoying \N -Really disgusting
+Dialogue: 0,0:27:32.04,0:27:35.73,normal_Wed,,0,0,0,,Feel so tanned
+Dialogue: 0,0:27:35.73,0:27:36.84,normal_Wed,,0,0,0,,I wore sunscreen
+Dialogue: 0,0:27:36.84,0:27:38.37,normal_Wed,,0,0,0,,Put it on twice
+Dialogue: 0,0:27:38.37,0:27:39.67,normal_Wed,,0,0,0,,Did you get a tan?
+Dialogue: 0,0:27:39.67,0:27:41.33,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:27:42.64,0:27:45.38,normal_Wed,,0,0,0,,Eh? Why? Why? Watanabe? What...what's wrong?
+Dialogue: 0,0:27:45.58,0:27:46.78,normal_Wed,,0,0,0,,Eh, why?
+Dialogue: 0,0:27:47.24,0:27:49.05,normal_Wed,,0,0,0,,Eh, what?
+Dialogue: 0,0:27:47.96,0:27:50.12,wipe_Wed,,0,0,0,,Yes, only Kuro-chan doesn't know
+Dialogue: 0,0:27:49.45,0:27:50.85,normal_Wed,,0,0,0,,Hello
+Dialogue: 0,0:27:51.18,0:27:52.65,normal_Wed,,0,0,0,,Oh, hello
+Dialogue: 0,0:27:52.65,0:27:53.82,normal_Wed,,0,0,0,,Please take a seat
+Dialogue: 0,0:27:53.82,0:27:55.35,normal_Wed,,0,0,0,,No, wait a minute. Wait a minute. Why are you here?
+Dialogue: 0,0:27:55.49,0:27:57.59,normal_Wed,,0,0,0,,Eh? Wait a minute, why?
+Dialogue: 0,0:27:57.72,0:28:00.22,normal_Wed,,0,0,0,,You have nothing to do with this project, right?
+Dialogue: 0,0:28:00.22,0:28:03.29,normal_Wed,,0,0,0,,This isn't MONSTER IDOL
+Dialogue: 0,0:28:03.56,0:28:06.76,normal_Wed,,0,0,0,,Eh? Why are you in Okinawa?
+Dialogue: 0,0:28:07.36,0:28:08.96,normal_Wed,,0,0,0,,I have an announcement to make
+Dialogue: 0,0:28:09.63,0:28:11.64,normal_Wed,,0,0,0,,It's not a coincidence?
+Dialogue: 0,0:28:12.60,0:28:14.24,normal_Wed,,0,0,0,,I know you're here filming
+Dialogue: 0,0:28:14.50,0:28:15.77,normal_Wed,,0,0,0,,There is an announcement to make
+Dialogue: 0,0:28:15.77,0:28:17.20,normal_Wed,,0,0,0,,Congratulations to you all
+Dialogue: 0,0:28:17.87,0:28:22.38,normal_Wed,,0,0,0,,You three will debut as an idol group
+Dialogue: 0,0:28:22.38,0:28:22.88,normal_Wed,,0,0,0,,Congratulations
+Dialogue: 0,0:28:22.88,0:28:26.25,normal_Wed,,0,0,0,,Eh? What's going on? What the hell?
+Dialogue: 0,0:28:25.08,0:28:26.14,wipe_Wed,,0,0,0,,Everyone?
+Dialogue: 0,0:28:32.12,0:28:34.59,normal_Wed,,0,0,0,,Eh? What's Watanabe talking about? Wait, what's this?
+Dialogue: 0,0:28:34.86,0:28:37.93,normal_Wed,,0,0,0,,What? Aren't I looking for a girlfriend?
+Dialogue: 0,0:28:37.93,0:28:39.96,normal_Wed,,0,0,0,,What? I don't get it
+Dialogue: 0,0:28:39.72,0:28:40.64,wipe_Wed,,0,0,0,,Panic attack
+Dialogue: 0,0:28:40.34,0:28:47.17,normal_Wed,,0,0,0,,No, actually, its not about liking Kuro-chan
+Dialogue: 0,0:28:47.34,0:28:49.94,normal_Wed,,0,0,0,,It's about wanting to become an idol
+Dialogue: 0,0:28:52.98,0:28:53.64,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:28:53.64,0:28:56.87,normal_Wed,,0,0,0,,Wait, I don't understand, ah, too sudden
+Dialogue: 0,0:28:58.18,0:29:01.55,normal_Wed,,0,0,0,,There's nothing funny about it!
+Dialogue: 0,0:29:03.65,0:29:05.12,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:29:05.12,0:29:07.98,normal_Wed,,0,0,0,,They can be idols if they remain?
+Dialogue: 0,0:29:08.64,0:29:13.34,normal_Wed,,0,0,0,,Yes, the only criterion is to capture the heart of Kuro-chan
+Dialogue: 0,0:29:13.88,0:29:19.20,normal_Wed,,0,0,0,,Thus, these 3 people have qualified for the idol debut
+Dialogue: 0,0:29:20.28,0:29:21.51,normal_Wed,,0,0,0,,Ah, it has been confirmed
+Dialogue: 0,0:29:22.27,0:29:23.63,normal_Wed,,0,0,0,,Hey, what about the ones who really like Kuro-chan?
+Dialogue: 0,0:29:23.87,0:29:27.18,normal_Wed,,0,0,0,,Hey, wait, so, hey?
+Dialogue: 0,0:29:27.18,0:29:30.61,normal_Wed,,0,0,0,,Does that mean there is no girl who likes me among these 3 people?
+Dialogue: 0,0:29:32.02,0:29:33.53,normal_Wed,,0,0,0,,There's one left
+Dialogue: 0,0:29:33.62,0:29:35.16,normal_Wed,,0,0,0,,One more?
+Dialogue: 0,0:29:35.99,0:29:37.65,normal_Wed,,0,0,0,,Hey, wait, that... wait!
+Dialogue: 0,0:29:37.65,0:29:41.32,normal_Wed,,0,0,0,,If she's my girlfriend, why will she still be allowed to make her debut as an idol?
+Dialogue: 0,0:29:41.32,0:29:43.23,normal_Wed,,0,0,0,,{\fad(0,200)}Eh?
+Dialogue: 0,0:29:43.00,0:29:44.83,wipe_Wed,,0,0,0,,What do you think you are saying?
+Dialogue: 0,0:29:44.29,0:29:45.11,normal_Wed,,0,0,0,,No, not my girlfriend...
+Dialogue: 0,0:29:45.11,0:29:45.80,normal_Wed,,0,0,0,,That, that...
+Dialogue: 0,0:29:46.76,0:29:48.80,normal_Wed,,0,0,0,,No, I really don't get it!
+Dialogue: 0,0:29:48.80,0:29:49.90,normal_Wed,,0,0,0,,What the hell is this?
+Dialogue: 0,0:29:49.90,0:29:52.37,normal_Wed,,0,0,0,,Hey...
+Dialogue: 0,0:29:50.68,0:29:52.97,wipe_Wed,,0,0,0,,Hysterical Kuro-chan
+Dialogue: 0,0:29:53.14,0:29:55.97,normal_Wed,,0,0,0,,{\fad(0,200)}So this is the motivation behind it all...
+Dialogue: 0,0:29:55.75,0:29:56.42,wipe_Wed,,0,0,0,,He's realized
+Dialogue: 0,0:29:56.42,0:29:59.51,normal_Wed,,0,0,0,,{\fad(0,200)}That's why people were crying
+Dialogue: 0,0:29:59.71,0:30:01.12,normal_Wed,,0,0,0,,I don't understand it
+Dialogue: 0,0:30:01.12,0:30:04.55,normal_Wed,,0,0,0,,There is 1 person who really likes Kuro-chan
+Dialogue: 0,0:30:04.39,0:30:06.16,wipe_Wed,,0,0,0,,1 person left
+Dialogue: 0,0:30:06.88,0:30:09.82,normal_Wed,,0,0,0,,It seems that after this cohabitation
+Dialogue: 0,0:30:09.82,0:30:13.27,normal_Wed,,0,0,0,,She has also come to think it could be good to try to be an idol too
+Dialogue: 0,0:30:14.76,0:30:16.83,normal_Wed,,0,0,0,,{\fad(0,200)}No. Don't decide for yourself
+Dialogue: 0,0:30:18.16,0:30:22.40,normal_Wed,,0,0,0,,If you stay until the end, do you want debut as an idol?
+Dialogue: 0,0:30:22.63,0:30:24.47,normal_Wed,,0,0,0,,I will consider it
+Dialogue: 0,0:30:25.12,0:30:29.64,normal_Wed,,0,0,0,,Finally, they agreed to debut as an idol
+Dialogue: 0,0:30:30.20,0:30:34.89,normal_Wed,,0,0,0,,So, despite the inclusion of a potential girlfriend for Kuro-chan
+Dialogue: 0,0:30:34.89,0:30:40.29,normal_Wed,,0,0,0,,These 3 will tentatively debut as idols
+Dialogue: 0,0:30:40.52,0:30:42.59,normal_Wed,,0,0,0,,So I would like to ask Kuro-chan
+Dialogue: 0,0:30:42.59,0:30:48.86,normal_Wed,,0,0,0,,Please decide on the name of the idol group and write lyrics for their song
+Dialogue: 0,0:30:50.19,0:30:52.56,normal_Wed,,0,0,0,,I got confused
+Dialogue: 0,0:30:52.83,0:30:56.57,normal_Wed,,0,0,0,,Because I was very "angry"
+Dialogue: 0,0:30:56.58,0:30:57.93,normal_Wed,,0,0,0,,Like a volcano or something
+Dialogue: 0,0:31:01.04,0:31:07.46,normal_Wed,,0,0,0,,Although Kuro-chan is very angry, this is still a love project after all...
+Dialogue: 0,0:31:07.46,0:31:10.38,normal_Wed,,0,0,0,,So it is still mainly about Kuro-chan's love
+Dialogue: 0,0:31:10.68,0:31:13.52,normal_Wed,,0,0,0,,Please return to Tokyo for a date
+Dialogue: 0,0:31:13.75,0:31:18.46,normal_Wed,,0,0,0,,Then you will decide to choose who to confess to
+Dialogue: 0,0:31:22.98,0:31:23.93,wipe_Wed,,0,0,0,,What an expression
+Dialogue: 0,0:31:24.33,0:31:27.56,normal_Wed,,0,0,0,,Hey...wait, wait, wait a minute!
+Dialogue: 0,0:31:27.56,0:31:30.87,normal_Wed,,0,0,0,,I'm looking for a girlfriend...
+Dialogue: 0,0:31:30.87,0:31:33.64,normal_Wed,,0,0,0,,But they became an idol group
+Dialogue: 0,0:31:33.74,0:31:38.37,normal_Wed,,0,0,0,,So I have to find the girl who really likes me to date?
+Dialogue: 0,0:31:40.64,0:31:42.48,normal_Wed,,0,0,0,,So hard to understand
+Dialogue: 0,0:31:42.48,0:31:43.65,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:31:47.92,0:31:49.99,normal_Wed,,0,0,0,,That's lucky
+Dialogue: 0,0:31:50.36,0:31:51.24,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:31:52.99,0:31:57.56,normal_Wed,,0,0,0,,Even if you don't like me, it's nice to pretend to like me
+Dialogue: 0,0:31:57.63,0:31:59.40,normal_Wed,,0,0,0,,Only 1 person? Only 1 person?
+Dialogue: 0,0:31:59.40,0:32:00.64,normal_Wed,,0,0,0,,Is there really only 1 left?
+Dialogue: 0,0:32:00.96,0:32:02.17,normal_Wed,,0,0,0,,Hey
+Dialogue: 0,0:32:02.17,0:32:04.77,normal_Wed,,0,0,0,,Suddenly saying there's just one person, i'm a little surprised
+Dialogue: 0,0:32:06.57,0:32:07.20,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:32:07.20,0:32:09.21,normal_Wed,,0,0,0,,So that's it
+Dialogue: 0,0:32:09.21,0:32:12.08,normal_Wed,,0,0,0,,There are 2 people who do not really like Kuro-chan
+Dialogue: 0,0:32:12.08,0:32:12.64,normal_Wed,,0,0,0,,That sucks!
+Dialogue: 0,0:32:12.64,0:32:14.74,normal_Wed,,0,0,0,,Although the idol debut is confirmed
+Dialogue: 0,0:32:14.74,0:32:16.36,normal_Wed,,0,0,0,,So please hold on until the end
+Dialogue: 0,0:32:16.75,0:32:20.49,normal_Wed,,0,0,0,,Please continue to cheat Kuro-Chan
+Dialogue: 0,0:32:21.21,0:32:23.52,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:32:23.52,0:32:25.86,normal_Wed,,0,0,0,,Such a loud response
+Dialogue: 0,0:32:26.09,0:32:28.69,normal_Wed,,0,0,0,,This isn't what being an idol's about!
+Dialogue: 0,0:32:29.25,0:32:32.67,normal_Wed,,0,0,0,,So, the cohabitation life in Okinawa ended
+Dialogue: 0,0:32:33.33,0:32:35.64,normal_Wed,,0,0,0,,And Kuro-chan returned to Tokyo
+Dialogue: 0,0:32:43.11,0:32:44.41,normal_Wed,,0,0,0,,Coming
+Dialogue: 0,0:32:44.41,0:32:45.39,normal_Wed,,0,0,0,,Good morning
+Dialogue: 0,0:32:45.39,0:32:46.74,normal_Wed,,0,0,0,,Good morning. Eh, what is it?
+Dialogue: 0,0:32:46.84,0:32:48.68,normal_Wed,,0,0,0,,I want to see if you are composing lyrics
+Dialogue: 0,0:32:48.68,0:32:50.84,normal_Wed,,0,0,0,,I'm not slacking off!
+Dialogue: 0,0:32:47.76,0:32:49.68,wipe_Wed,,0,0,0,,The color of his vest is really nasty
+Dialogue: 0,0:32:51.89,0:32:53.44,wipe_Wed,,0,0,0,,So messy!
+Dialogue: 0,0:32:51.58,0:32:55.46,normal_Wed,,0,0,0,,Immediately began work as an idol producer
+Dialogue: 0,0:32:55.89,0:32:57.12,normal_Wed,,0,0,0,,A different feeling
+Dialogue: 0,0:32:57.12,0:33:00.76,normal_Wed,,0,0,0,,I challenged myself to do something new
+Dialogue: 0,0:33:00.76,0:33:02.32,normal_Wed,,0,0,0,,It's not a typical approach?
+Dialogue: 0,0:33:02.46,0:33:03.56,normal_Wed,,0,0,0,,It's a little different
+Dialogue: 0,0:33:03.56,0:33:08.80,normal_Wed,,0,0,0,,Although it's an idol, it's not the "cute" kind of "likable"
+Dialogue: 0,0:33:08.80,0:33:09.87,normal_Wed,,0,0,0,,"Cool"
+Dialogue: 0,0:33:09.87,0:33:11.37,normal_Wed,,0,0,0,,Cool?
+Dialogue: 0,0:33:10.68,0:33:12.53,wipe_Wed,,0,0,0,,Quite serious consideration
+Dialogue: 0,0:33:12.53,0:33:17.40,normal_Wed,,0,0,0,,This kind of vibe could be cool
+Dialogue: 0,0:33:19.64,0:33:21.58,wipe_Wed,,0,0,0,,He is responsible for BiSH's clothing
+Dialogue: 0,0:33:17.74,0:33:20.31,normal_Wed,,0,0,0,,A feeling of distinct colors, right?
+Dialogue: 0,0:33:20.31,0:33:25.91,normal_Wed,,0,0,0,,This time they are different from the previous style, right?
+Dialogue: 0,0:33:26.25,0:33:31.65,normal_Wed,,0,0,0,,How can I say it? If I don't flip 360 degrees and think
+Dialogue: 0,0:33:31.65,0:33:32.92,normal_Wed,,0,0,0,,Then its tough to come up with anything
+Dialogue: 0,0:33:33.36,0:33:36.73,normal_Wed,,0,0,0,,If you flip it 360 degrees, wouldn't it be back to the original place?
+Dialogue: 0,0:33:38.96,0:33:40.63,normal_Wed,,0,0,0,,Well, let's listen to it first
+Dialogue: 0,0:33:40.63,0:33:41.50,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:33:50.17,0:33:55.64,normal_Wed,,0,0,0,,That's right. This time, Black wrote the lyrics for their debut song
+Dialogue: 0,0:33:55.64,0:34:01.68,normal_Wed,,0,0,0,,It is the opening song of MONSTER LOVE
+Dialogue: 0,0:34:00.11,0:34:02.46,wipe_Wed,,0,0,0,,It's good, it's connected
+Dialogue: 0,0:34:02.29,0:34:04.69,normal_Wed,,0,0,0,,I have written a lot
+Dialogue: 0,0:34:04.75,0:34:06.39,normal_Wed,,0,0,0,,I'll write it out first
+Dialogue: 0,0:34:06.39,0:34:07.74,normal_Wed,,0,0,0,,Yes, please
+Dialogue: 0,0:34:08.12,0:34:11.03,normal_Wed,,0,0,0,,Watanabe, do you have any thoughts?
+Dialogue: 0,0:34:11.23,0:34:13.36,normal_Wed,,0,0,0,,"The bond that can't be returned, the bond that can't be broken"
+Dialogue: 0,0:34:13.60,0:34:16.17,normal_Wed,,0,0,0,,This
+Dialogue: 0,0:34:16.37,0:34:19.07,normal_Wed,,0,0,0,,Miku made cookies
+Dialogue: 0,0:34:19.07,0:34:21.67,normal_Wed,,0,0,0,,Then I broke them
+Dialogue: 0,0:34:22.91,0:34:24.57,normal_Wed,,0,0,0,,You broke the cookies she made for you?
+Dialogue: 0,0:34:24.77,0:34:27.17,normal_Wed,,0,0,0,,At that time, it became a total battlefield
+Dialogue: 0,0:34:27.78,0:34:29.48,normal_Wed,,0,0,0,,It's all your fault!
+Dialogue: 0,0:34:29.48,0:34:33.23,normal_Wed,,0,0,0,,What is "old man got up and became an old woman"?
+Dialogue: 0,0:34:34.07,0:34:36.15,normal_Wed,,0,0,0,,I was surprised to be cheated
+Dialogue: 0,0:34:36.15,0:34:38.95,normal_Wed,,0,0,0,,Thought everyone liked me
+Dialogue: 0,0:34:39.42,0:34:42.09,normal_Wed,,0,0,0,,It was as surprising as a sudden change of gender
+Dialogue: 0,0:34:42.69,0:34:43.33,normal_Wed,,0,0,0,,Very profound
+Dialogue: 0,0:34:44.03,0:34:46.50,normal_Wed,,0,0,0,,Yes, it's very profound
+Dialogue: 0,0:34:46.76,0:34:48.63,normal_Wed,,0,0,0,,I think it is very good
+Dialogue: 0,0:34:48.73,0:34:49.81,normal_Wed,,0,0,0,,Watanabe, it's done!
+Dialogue: 0,0:34:49.81,0:34:51.53,normal_Wed,,0,0,0,,It's done!
+Dialogue: 0,0:34:51.53,0:34:52.64,normal_Wed,,0,0,0,,Full marks
+Dialogue: 0,0:34:52.64,0:34:55.24,normal_Wed,,0,0,0,,You put all those memories to use
+Dialogue: 0,0:34:55.51,0:34:58.08,normal_Wed,,0,0,0,,This will make me be liked even more, right?
+Dialogue: 0,0:34:58.91,0:34:59.98,normal_Wed,,0,0,0,,There is 1 person who will
+Dialogue: 0,0:35:03.52,0:35:09.17,normal_Wed,,0,0,0,,Kuro-chan also had the important duty of deciding on the group's name
+Dialogue: 0,0:35:09.17,0:35:10.80,wipe_Wed,,0,0,0,,The name is very important
+Dialogue: 0,0:35:11.64,0:35:13.74,wipe_Wed,,0,0,0,,Wrote a lot
+Dialogue: 0,0:35:12.52,0:35:13.73,normal_Wed,,0,0,0,,I have written a lot
+Dialogue: 0,0:35:14.06,0:35:17.29,normal_Wed,,0,0,0,,Thinking about these
+Dialogue: 0,0:35:18.06,0:35:24.03,normal_Wed,,0,0,0,,This is very different from "Mameshiba no Taigun"
+Dialogue: 0,0:35:21.16,0:35:23.19,wipe_Wed,,0,0,0,,Bearslayer
+Dialogue: 0,0:35:24.03,0:35:26.26,normal_Wed,,0,0,0,,Yes, completely different
+Dialogue: 0,0:35:26.50,0:35:31.17,normal_Wed,,0,0,0,,Leaning more towards the cool type
+Dialogue: 0,0:35:31.21,0:35:34.84,normal_Wed,,0,0,0,,Electricity, gas and water
+Dialogue: 0,0:35:35.31,0:35:37.51,normal_Wed,,0,0,0,,Oh you noticed that one?
+Dialogue: 0,0:35:37.91,0:35:39.15,normal_Wed,,0,0,0,,Because it's a threesome
+Dialogue: 0,0:35:39.28,0:35:43.85,normal_Wed,,0,0,0,,It is very straightforward, 3 essential things in life
+Dialogue: 0,0:35:44.02,0:35:45.92,normal_Wed,,0,0,0,,"Escaped Pineapple"
+Dialogue: 0,0:35:45.92,0:35:50.71,normal_Wed,,0,0,0,,Used the pineapple, which is trendy, and put a sad spin on it
+Dialogue: 0,0:35:50.71,0:35:51.84,wipe_Wed,,0,0,0,,"Full of Sorrow?"
+Dialogue: 0,0:35:51.84,0:35:53.53,normal_Wed,,0,0,0,,"Escaped Spinach"
+Dialogue: 0,0:35:53.67,0:35:55.29,normal_Wed,,0,0,0,,Bearslayer
+Dialogue: 0,0:35:56.53,0:35:58.23,normal_Wed,,0,0,0,,This is Willie Williams
+Dialogue: 0,0:35:58.33,0:35:59.17,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:35:56.53,0:35:58.23,note_Wed - Mid,,0,0,0,,{\blur4}※Karate fighter born in the Jukushin Kaikan with the name "Bearslayer"
+Dialogue: 0,0:35:59.34,0:36:02.41,normal_Wed,,0,0,0,,Willie Williams
+Dialogue: 0,0:36:00.71,0:36:01.96,wipe_Wed,,0,0,0,,Who would know that?
+Dialogue: 0,0:36:02.41,0:36:04.07,normal_Wed,,0,0,0,,Don't you know? "Bearslayer"?
+Dialogue: 0,0:36:03.84,0:36:05.45,wipe_Wed,,0,0,0,,Why do you want to give them this name?
+Dialogue: 0,0:36:04.32,0:36:06.59,normal_Wed,,0,0,0,,Let People Drink Sardine Water
+Dialogue: 0,0:36:07.31,0:36:10.09,normal_Wed,,0,0,0,,Give them a drink when they're dying and they'll be saved
+Dialogue: 0,0:36:10.09,0:36:13.25,normal_Wed,,0,0,0,,Is "Strawberry Honeydew Daifuku" a honeydew melon Daifuku?
+Dialogue: 0,0:36:13.25,0:36:13.95,normal_Wed,,0,0,0,,No, it's not
+Dialogue: 0,0:36:14.22,0:36:15.45,normal_Wed,,0,0,0,,Although it is strawberry Daifuku
+Dialogue: 0,0:36:15.45,0:36:19.60,normal_Wed,,0,0,0,,The taste of honeydew melon is unexpected
+Dialogue: 0,0:36:18.82,0:36:19.60,wipe_Wed,,0,0,0,,What does it mean?
+Dialogue: 0,0:36:20.59,0:36:21.49,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:36:21.76,0:36:23.65,normal_Wed,,0,0,0,,What is "Father's Return"
+Dialogue: 0,0:36:24.09,0:36:26.03,normal_Wed,,0,0,0,,This is a telegram
+Dialogue: 0,0:36:26.83,0:36:27.96,normal_Wed,,0,0,0,,So that's it...
+Dialogue: 0,0:36:28.57,0:36:30.34,normal_Wed,,0,0,0,,It should be quite touching, right?
+Dialogue: 0,0:36:31.57,0:36:33.00,normal_Wed,,0,0,0,,It has meaning
+Dialogue: 0,0:36:33.40,0:36:34.44,normal_Wed,,0,0,0,,Not touched?
+Dialogue: 0,0:36:34.44,0:36:35.98,normal_Wed,,0,0,0,,No...
+Dialogue: 0,0:36:36.84,0:36:40.68,normal_Wed,,0,0,0,,How to put it? Choosing from these names...?
+Dialogue: 0,0:36:40.68,0:36:44.75,normal_Wed,,0,0,0,,No, to be honest, although I thought of a lot
+Dialogue: 0,0:36:45.22,0:36:47.49,normal_Wed,,0,0,0,,I'm trying to think of more
+Dialogue: 0,0:36:46.96,0:36:47.79,wipe_Wed,,0,0,0,,More?
+Dialogue: 0,0:36:48.27,0:36:49.65,normal_Wed,,0,0,0,,Please do
+Dialogue: 0,0:36:49.69,0:36:51.92,wipe_Wed,,0,0,0,,Most aren't doable
+Dialogue: 0,0:36:52.72,0:36:53.82,wipe_Wed,,0,0,0,,Despite thinking so many
+Dialogue: 0,0:36:53.06,0:36:55.36,normal_Wed,,0,0,0,,Oh, it's been a long time.  \N-Long time no see
+Dialogue: 0,0:36:55.63,0:36:58.36,normal_Wed,,0,0,0,,How do you feel after reading the lyrics?
+Dialogue: 0,0:36:59.46,0:37:02.30,normal_Wed,,0,0,0,,Feels very fashionable
+Dialogue: 0,0:37:02.30,0:37:04.20,normal_Wed,,0,0,0,,Not really like Kuro-chan
+Dialogue: 0,0:37:04.20,0:37:04.67,normal_Wed,,0,0,0,,Not alike at all
+Dialogue: 0,0:37:05.07,0:37:08.04,normal_Wed,,0,0,0,,Let me be clear, I'm not in love mode right now
+Dialogue: 0,0:37:08.94,0:37:11.12,normal_Wed,,0,0,0,,Fully in producer mode
+Dialogue: 0,0:37:11.31,0:37:12.11,normal_Wed,,0,0,0,,You see me
+Dialogue: 0,0:37:12.11,0:37:16.85,normal_Wed,,0,0,0,,There may be feelings such as "I like you," "I love you," and "I'm finally at ease"
+Dialogue: 0,0:37:16.57,0:37:17.23,wipe_Wed,,0,0,0,,No, it's not
+Dialogue: 0,0:37:17.78,0:37:22.75,normal_Wed,,0,0,0,,But when recording songs, you need to be professional
+Dialogue: 0,0:37:22.75,0:37:24.65,normal_Wed,,0,0,0,,Be sure to go for it!
+Dialogue: 0,0:37:24.99,0:37:26.46,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:37:26.56,0:37:30.96,normal_Wed,,0,0,0,,First of all, please let me listen to the original and unprocessed song
+Dialogue: 0,0:37:30.96,0:37:31.68,normal_Wed,,0,0,0,,I get it
+Dialogue: 0,0:37:31.96,0:37:32.36,normal_Wed,,0,0,0,,Good
+Dialogue: 0,0:37:32.36,0:37:34.06,normal_Wed,,0,0,0,,Thank you
+Dialogue: 0,0:37:35.15,0:37:40.00,normal_Wed,,0,0,0,,And so, the trio's first recording session ended successfully
+Dialogue: 0,0:37:41.68,0:37:44.37,normal_Wed,,0,0,0,,They have good personalities and different voices
+Dialogue: 0,0:37:44.37,0:37:47.57,normal_Wed,,0,0,0,,I'm sorry... I'm really surprised
+Dialogue: 0,0:37:48.08,0:37:50.61,normal_Wed,,0,0,0,,I thought it would be random trash, I didn't expect it to be anything like that
+Dialogue: 0,0:37:50.61,0:37:52.38,normal_Wed,,0,0,0,,Great singing!
+Dialogue: 0,0:37:50.46,0:37:52.36,wipe_Wed,,0,0,0,,So rude!
+Dialogue: 0,0:37:52.36,0:37:53.48,wipe_Wed,,0,0,0,,What makes you qualified to say that?
+Dialogue: 0,0:37:52.88,0:37:54.28,normal_Wed,,0,0,0,,In addition
+Dialogue: 0,0:37:55.22,0:37:57.19,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:37:57.19,0:37:59.32,normal_Wed,,0,0,0,,You're done?\N  -Yes
+Dialogue: 0,0:38:00.76,0:38:01.46,normal_Wed,,0,0,0,,Little embarrassing...
+Dialogue: 0,0:38:03.06,0:38:03.95,wipe_Wed,,0,0,0,,Their costumes!
+Dialogue: 0,0:38:03.95,0:38:05.06,wipe_Wed,,0,0,0,,So cute
+Dialogue: 0,0:38:05.96,0:38:07.59,normal_Wed,,0,0,0,,Superb!
+Dialogue: 0,0:38:07.90,0:38:10.90,normal_Wed,,0,0,0,,Feel stronger
+Dialogue: 0,0:38:10.90,0:38:13.07,normal_Wed,,0,0,0,,Feel stronger? \N -Yes
+Dialogue: 0,0:38:13.58,0:38:15.61,normal_Wed,,0,0,0,,Do you know what the theme of the outfit is?
+Dialogue: 0,0:38:15.81,0:38:17.61,normal_Wed,,0,0,0,,A hero?  \N-Like a hero
+Dialogue: 0,0:38:17.61,0:38:18.71,normal_Wed,,0,0,0,,Feeling able to fight
+Dialogue: 0,0:38:18.94,0:38:25.42,normal_Wed,,0,0,0,,This time when designing clothes I thought of a "mini 4WD"
+Dialogue: 0,0:38:25.29,0:38:25.73,wipe_Wed,,0,0,0,,Why?
+Dialogue: 0,0:38:26.62,0:38:28.59,normal_Wed,,0,0,0,,Mini four-wheel drive?
+Dialogue: 0,0:38:29.52,0:38:31.79,normal_Wed,,0,0,0,,Mini 4WD...
+Dialogue: 0,0:38:32.00,0:38:34.09,normal_Wed,,0,0,0,,Wait wait wait
+Dialogue: 0,0:38:34.09,0:38:35.99,normal_Wed,,0,0,0,,You don't like it much?
+Dialogue: 0,0:38:35.99,0:38:37.76,normal_Wed,,0,0,0,,No, I like it
+Dialogue: 0,0:38:38.43,0:38:39.93,normal_Wed,,0,0,0,,So, wear these outfits and go for it!
+Dialogue: 0,0:38:39.93,0:38:41.93,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:38:42.10,0:38:45.68,normal_Wed,,0,0,0,,So, this is the group name
+Dialogue: 0,0:38:45.68,0:38:47.00,wipe_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:38:47.00,0:38:47.87,wipe_Wed,,0,0,0,,What is it gonna be?
+Dialogue: 0,0:38:48.80,0:38:51.19,normal_Wed,,0,0,0,,"Mameshiba" is the cute type
+Dialogue: 0,0:38:51.37,0:38:58.78,normal_Wed,,0,0,0,,But for your three I chose a trendier name
+Dialogue: 0,0:38:58.78,0:38:59.78,normal_Wed,,0,0,0,,Looking forward to it
+Dialogue: 0,0:38:59.78,0:39:02.15,normal_Wed,,0,0,0,,So exciting. What is it?
+Dialogue: 0,0:39:02.49,0:39:04.69,normal_Wed,,0,0,0,,The group name is...
+Dialogue: 0,0:39:07.42,0:39:10.93,normal_Wed,,0,0,0,,Somewhere in the City
+Dialogue: 0,0:39:10.93,0:39:11.76,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:39:11.76,0:39:14.46,normal_Wed,,0,0,0,,Wait wait wait, did I hear it properly? What does it mean?
+Dialogue: 0,0:39:14.60,0:39:15.83,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:39:15.83,0:39:17.50,normal_Wed,,0,0,0,,What did you say?\N  -Please say it again
+Dialogue: 0,0:39:17.90,0:39:19.20,normal_Wed,,0,0,0,,Eh, you didn't you hear me?
+Dialogue: 0,0:39:20.14,0:39:21.64,normal_Wed,,0,0,0,,Somewhere in the city?
+Dialogue: 0,0:39:21.11,0:39:21.88,wipe_Wed,,0,0,0,,Heard it
+Dialogue: 0,0:39:21.64,0:39:26.28,normal_Wed,,0,0,0,,Yes, the group name is "Somewhere in the City"
+Dialogue: 0,0:39:26.88,0:39:31.21,normal_Wed,,0,0,0,,You thought about it seriously, right?
+Dialogue: 0,0:39:31.20,0:39:32.65,wipe_Wed,,0,0,0,,They hate it
+Dialogue: 0,0:39:31.91,0:39:33.68,normal_Wed,,0,0,0,,Of course
+Dialogue: 0,0:39:34.25,0:39:37.19,normal_Wed,,0,0,0,,Although I thought up many names with places in them
+Dialogue: 0,0:39:37.89,0:39:42.83,normal_Wed,,0,0,0,,"Somewhere in the City" can appeal to people from everywhere
+Dialogue: 0,0:39:42.83,0:39:44.56,normal_Wed,,0,0,0,,So that's the meaning of "Somewhere in the City"
+Dialogue: 0,0:39:44.73,0:39:46.16,normal_Wed,,0,0,0,,But only within the area of Tokyo
+Dialogue: 0,0:39:47.99,0:39:49.40,wipe_Wed,,0,0,0,,Although you say that everywhere
+Dialogue: 0,0:39:48.46,0:39:49.80,normal_Wed,,0,0,0,,Eh...
+Dialogue: 0,0:39:49.93,0:39:51.44,normal_Wed,,0,0,0,,If you don't like it, do you want to change it?
+Dialogue: 0,0:39:51.83,0:39:53.60,normal_Wed,,0,0,0,,I also hesitated whether or not I should choose another one
+Dialogue: 0,0:39:54.10,0:39:55.27,normal_Wed,,0,0,0,,What is it?
+Dialogue: 0,0:39:55.44,0:39:58.04,normal_Wed,,0,0,0,,The other one is
+Dialogue: 0,0:39:58.04,0:40:00.84,normal_Wed,,0,0,0,,"Eating Too Much Osaka"
+Dialogue: 0,0:40:00.84,0:40:02.75,normal_Wed,,0,0,0,,Why do they all have place names?
+Dialogue: 0,0:40:02.75,0:40:04.57,normal_Wed,,0,0,0,,Based in Osaka?
+Dialogue: 0,0:40:04.75,0:40:07.11,normal_Wed,,0,0,0,,No, it's not based in Osaka, but it's easy to pronounce
+Dialogue: 0,0:40:08.18,0:40:11.09,normal_Wed,,0,0,0,,So Mina, you think "Somewhere in the City" is better?
+Dialogue: 0,0:40:10.26,0:40:11.59,wipe_Wed,,0,0,0,,It's better
+Dialogue: 0,0:40:11.09,0:40:11.59,normal_Wed,,0,0,0,,It's better
+Dialogue: 0,0:40:11.95,0:40:14.28,normal_Wed,,0,0,0,,Then it's "Somewhere in the City"
+Dialogue: 0,0:40:14.69,0:40:17.59,normal_Wed,,0,0,0,,Its decided
+Dialogue: 0,0:40:16.28,0:40:18.01,wipe_Wed,,0,0,0,,Also had "Tokyo Incident"
+Dialogue: 0,0:40:19.87,0:40:21.25,wipe_Wed,,0,0,0,,Don't compare them!
+Dialogue: 0,0:40:17.99,0:40:21.73,normal_Wed,,0,0,0,,So, the name has been decided, and the costume has been decided
+Dialogue: 0,0:40:21.73,0:40:22.53,normal_Wed,,0,0,0,,Let's gather around!
+Dialogue: 0,0:40:22.83,0:40:24.00,normal_Wed,,0,0,0,,Ok
+Dialogue: 0,0:40:24.33,0:40:26.37,normal_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:40:27.30,0:40:29.17,normal_Wed,,0,0,0,,Where are you going?
+Dialogue: 0,0:40:29.19,0:40:32.01,normal_Wed,,0,0,0,,Somewhere in the City
+Dialogue: 0,0:40:30.77,0:40:31.84,wipe_Wed,,0,0,0,,Where?
+Dialogue: 0,0:40:32.01,0:40:33.55,normal_Wed,,0,0,0,,Decided!
+Dialogue: 0,0:40:35.06,0:40:37.44,wipe_Wed,,0,0,0,,Not very exciting
+Dialogue: 0,0:40:37.55,0:40:39.95,normal_Wed,,0,0,0,,1 more time?
+Dialogue: 0,0:40:40.49,0:40:48.28,normal_Wed,,0,0,0,,In this way, the second idol group "Somewhere in the City" is born with Kuro-chan as the advisor
+Dialogue: 0,0:40:48.85,0:40:56.44,normal_Wed,,0,0,0,,So, now, Kuro-chan's search for love is coming to an end
+Dialogue: 0,0:40:57.88,0:41:00.37,normal_Wed,,0,0,0,,Miku
+Dialogue: 0,0:41:01.68,0:41:05.01,normal_Wed,,0,0,0,,Where will his romance go from here?
+Dialogue: 0,0:41:05.01,0:41:08.28,normal_Wed,,0,0,0,,Although i'm humiliated
+Dialogue: 0,0:41:08.28,0:41:08.99,wipe_Wed,,0,0,0,,Here we go again
+Dialogue: 0,0:41:08.78,0:41:10.61,normal_Wed,,0,0,0,,Please go out with me
+Dialogue: 0,0:41:10.61,0:41:13.45,normal_Wed,,0,0,0,,Please
+Dialogue: 0,0:41:14.63,0:41:16.05,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:41:18.54,0:41:25.08,normal_Wed,,0,0,0,,The idol group "Somewhere in the City", with Kuro-chan as the advisor, is born
+Dialogue: 0,0:41:25.70,0:41:30.77,normal_Wed,,0,0,0,,I thought I would see more disgusting antics, but suddenly he became a producer
+Dialogue: 0,0:41:30.77,0:41:34.70,normal_Wed,,0,0,0,,I'm very angry, I don't want to see that side of him
+Dialogue: 0,0:41:34.70,0:41:35.95,normal_Wed,,0,0,0,,Wanna see his disgusting side
+Dialogue: 0,0:41:35.97,0:41:38.84,normal_Wed,,0,0,0,,Show me a guy who is more disgusting than me
+Dialogue: 0,0:41:38.84,0:41:41.14,normal_Wed,,0,0,0,,Nausea is less, and the love is less
+Dialogue: 0,0:41:41.14,0:41:43.40,normal_Wed,,0,0,0,,I shouldn't have come
+Dialogue: 0,0:41:43.40,0:41:47.21,normal_Wed,,0,0,0,,But the final scene was quite shocking
+Dialogue: 0,0:41:47.21,0:41:48.55,normal_Wed,,0,0,0,,A close hug!
+Dialogue: 0,0:41:48.55,0:41:51.12,normal_Wed,,0,0,0,,The next episode preview
+Dialogue: 0,0:41:51.68,0:41:54.40,normal_Wed,,0,0,0,,It's very shocking
+Dialogue: 0,0:41:54.44,0:41:55.64,normal_Wed,,0,0,0,,Who is lying?
+Dialogue: 0,0:41:55.64,0:41:57.29,normal_Wed,,0,0,0,,Richi has been aggressive
+Dialogue: 0,0:41:57.96,0:41:59.86,normal_Wed,,0,0,0,,She must want to be an idol. \N -Definitely an idol
+Dialogue: 0,0:41:59.86,0:42:00.87,normal_Wed,,0,0,0,,Richi wants to be an idol
+Dialogue: 0,0:42:00.87,0:42:04.34,normal_Wed,,0,0,0,,The recording also reveals a personality of a very skilled person
+Dialogue: 0,0:42:04.34,0:42:07.20,normal_Wed,,0,0,0,,Mina is not very active
+Dialogue: 0,0:42:07.87,0:42:09.64,normal_Wed,,0,0,0,,Not very aggressive
+Dialogue: 0,0:42:09.64,0:42:10.38,normal_Wed,,0,0,0,,You see
+Dialogue: 0,0:42:10.84,0:42:12.55,normal_Wed,,0,0,0,,He's really surprisingly into it
+Dialogue: 0,0:42:12.55,0:42:15.72,normal_Wed,,0,0,0,,Despite all the complaints  \N-Watching super seriously
+Dialogue: 0,0:42:15.72,0:42:18.22,normal_Wed,,0,0,0,,Watching super seriously
+Dialogue: 0,0:42:18.22,0:42:24.32,normal_Wed,,0,0,0,,Did you hear that? Can't take his eyes off the video. \N -No, no, no
+Dialogue: 0,0:42:24.75,0:42:29.93,normal_Wed,,0,0,0,,If you like MONSTER LOVE so much, just say it!
+Dialogue: 0,0:42:43.44,0:42:45.28,normal_Wed,,0,0,0,,What do you think the song title is?
+Dialogue: 0,0:42:45.28,0:42:46.91,normal_Wed,,0,0,0,,Could it be...
+Dialogue: 0,0:42:46.91,0:42:48.97,normal_Wed,,0,0,0,,Cookie Incident?
+Dialogue: 0,0:42:48.97,0:42:51.01,normal_Wed,,0,0,0,,The title of the song is "Cookie"
+Dialogue: 0,0:42:52.24,0:42:53.75,normal_Wed,,0,0,0,,Guessed it!
+Dialogue: 0,0:42:53.75,0:42:54.72,normal_Wed,,0,0,0,,Guessed it!
+Dialogue: 0,0:42:55.86,0:42:57.95,normal_Wed,,0,0,0,,Somewhere in the City's Cookie
+Dialogue: 0,0:42:57.95,0:43:00.29,normal_Wed,,0,0,0,,Yes, Somewhere in the City's Cookie
+Dialogue: 0,0:43:00.29,0:43:05.80,normal_Wed,,0,0,0,,So, you're wondering what kind of song it is, right?  \N-Can we listen to it?
+Dialogue: 0,0:43:05.80,0:43:08.64,normal_Wed,,0,0,0,,Please have a listen to "Cookie" by Somewhere in the City
+Dialogue: 0,0:43:08.64,0:43:11.39,normal_Wed,,0,0,0,,The theme of this song is falling in love
+Dialogue: 0,0:43:11.39,0:43:16.11,normal_Wed,,0,0,0,,The 3 of them, I don't think they are that typical cute idol type
+Dialogue: 0,0:43:16.11,0:43:19.37,normal_Wed,,0,0,0,,So I chose a cool and fashionable style
+Dialogue: 0,0:43:19.37,0:43:21.51,normal_Wed,,0,0,0,,Please show your personality
+Dialogue: 0,0:43:21.98,0:43:27.25,normal_Wed,,0,0,0,,Peeking into the cave, there's treasure
+Dialogue: 0,0:43:26.42,0:43:27.66,wipe_Wed,,0,0,0,,Great voice
+Dialogue: 0,0:43:27.25,0:43:32.32,normal_Wed,,0,0,0,,Don't want a love song that ends in tragedy
+Dialogue: 0,0:43:29.63,0:43:30.60,wipe_Wed,,0,0,0,,Cute
+Dialogue: 0,0:43:32.56,0:43:38.03,normal_Wed,,0,0,0,,Spent sleepless nights
+Dialogue: 0,0:43:36.74,0:43:38.42,wipe_Wed,,0,0,0,,Good voice too
+Dialogue: 0,0:43:38.03,0:43:42.37,normal_Wed,,0,0,0,,Bound by the halo of angels
+Dialogue: 0,0:43:42.47,0:43:48.60,normal_Wed,,0,0,0,,Why did you like it?
+Dialogue: 0,0:43:48.60,0:43:52.76,normal_Wed,,0,0,0,,So addictive!
+Dialogue: 0,0:43:51.32,0:43:53.44,wipe_Wed,,0,0,0,,Mina is the most innocent
+Dialogue: 0,0:43:52.75,0:43:54.04,normal_Wed,,0,0,0,,Don't cry
+Dialogue: 0,0:43:54.08,0:43:55.96,normal_Wed,,0,0,0,,Whenever
+Dialogue: 0,0:43:55.96,0:43:59.32,normal_Wed,,0,0,0,,A broken bond that will not be restored
+Dialogue: 0,0:43:59.32,0:44:01.35,normal_Wed,,0,0,0,,Whenever
+Dialogue: 0,0:44:01.35,0:44:04.69,normal_Wed,,0,0,0,,The intersection of possibility and I love you
+Dialogue: 0,0:44:03.30,0:44:04.82,wipe_Wed,,0,0,0,,Forget the CPAP
+Dialogue: 0,0:44:04.69,0:44:06.66,normal_Wed,,0,0,0,,Lovesickness
+Dialogue: 0,0:44:06.66,0:44:10.09,normal_Wed,,0,0,0,,This is the first piece of honesty
+Dialogue: 0,0:44:10.09,0:44:12.60,normal_Wed,,0,0,0,,The inability to weigh the trafficked
+Dialogue: 0,0:44:12.60,0:44:15.13,normal_Wed,,0,0,0,,Escape in the display
+Dialogue: 0,0:44:20.87,0:44:23.91,normal_Wed,,0,0,0,,Whenever
+Dialogue: 0,0:44:26.79,0:44:28.28,normal_Wed,,0,0,0,,Good song
+Dialogue: 0,0:44:28.28,0:44:29.26,normal_Wed,,0,0,0,,Now lets listen
+Dialogue: 0,0:44:29.26,0:44:30.31,normal_Wed,,0,0,0,,To two members of BiSH
+Dialogue: 0,0:44:30.31,0:44:34.08,normal_Wed,,0,0,0,,They all sound very good
+Dialogue: 0,0:44:34.08,0:44:36.89,normal_Wed,,0,0,0,,They have a very good sense of balance
+Dialogue: 0,0:44:36.89,0:44:40.79,normal_Wed,,0,0,0,,And I don't want any of them to become Kuro-chan's girlfriend
+Dialogue: 0,0:44:40.79,0:44:42.02,normal_Wed,,0,0,0,,Why do you say such things?
+Dialogue: 0,0:44:43.23,0:44:44.16,normal_Wed,,0,0,0,,It's a waste
+Dialogue: 0,0:44:44.16,0:44:47.34,normal_Wed,,0,0,0,,These three people came together by chance
+Dialogue: 0,0:44:47.34,0:44:53.64,normal_Wed,,0,0,0,,But they are very well matched and are totally idols
+Dialogue: 0,0:44:53.64,0:44:55.17,normal_Wed,,0,0,0,,They've become idols
+Dialogue: 0,0:44:55.17,0:45:01.54,normal_Wed,,0,0,0,,The old man and the old woman, Watanabe praised that line, but I really hate it
+Dialogue: 0,0:45:01.54,0:45:02.51,normal_Wed,,0,0,0,,Luckily, it wasn't put in
+Dialogue: 0,0:45:02.51,0:45:05.58,normal_Wed,,0,0,0,,Maybe it's in the second verse
+Dialogue: 0,0:45:05.58,0:45:06.59,normal_Wed,,0,0,0,,Yeah true, this is the first verse
+Dialogue: 0,0:45:06.59,0:45:07.17,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:45:07.17,0:45:08.23,normal_Wed,,0,0,0,,Such a bad line
+Dialogue: 0,0:45:09.12,0:45:10.52,normal_Wed,,0,0,0,,I hate that line!
+Dialogue: 0,0:45:10.52,0:45:17.98,normal_Wed,,0,0,0,,So, the CD of this song will be available at CD stores nationwide tomorrow, December 15
+Dialogue: 0,0:45:18.88,0:45:20.34,normal_Wed,,0,0,0,,So fast!
+Dialogue: 0,0:45:21.83,0:45:28.06,normal_Wed,,0,0,0,,And it will be available on all major music streaming platforms from 12pm tonight
+Dialogue: 0,0:45:28.06,0:45:29.71,normal_Wed,,0,0,0,,Please do go and listen to it!
+Dialogue: 0,0:45:29.71,0:45:30.80,normal_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:45:30.80,0:45:37.96,normal_Wed,,0,0,0,,The music video will also be released 11pm tonight
+Dialogue: 0,0:45:37.96,0:45:39.82,normal_Wed,,0,0,0,,Please go watch it.  \N-Somewhere in the City, so confusing
+Dialogue: 0,0:45:39.82,0:45:42.88,normal_Wed,,0,0,0,,That's great. People don't know it's them, right?
+Dialogue: 0,0:45:42.88,0:46:14.95,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

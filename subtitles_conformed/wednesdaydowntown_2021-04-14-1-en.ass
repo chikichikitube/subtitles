@@ -1,0 +1,1149 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1440
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Color Matrix: BT.601
+YCbCr Matrix: TV.601
+
+[Aegisub Project Garbage]
+Last Style Storage: Zwanster Fix
+Audio File: WDT (2021-04-14) (Raw).mp4
+Video File: WDT (2021-04-14) (Raw).mp4
+Video AR Mode: 4
+Video AR Value: 1.777778
+Video Zoom Percent: 0.500000
+Scroll Position: 1090
+Active Line: 1102
+Video Position: 82776
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4.5,4.5,2,23,23,23,1
+Style: normal_Wed,Arial,53,&H00FFF6A1,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,135,0,0,1,4,4,2,10,10,10,1
+Style: wipe_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H003732FF,&H00000000,-1,0,0,0,100,130,0,0,1,2,4,8,1080,10,250,1
+Style: watermark,Arial,70,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00FFFFFF,-1,0,0,0,100,120,0,0,1,0,0,3,10,10,2,1
+Style: staff_list,Arial,50,&H00000000,&H00FFFFFF,&H27FFFFFF,&HFF000000,-1,0,0,0,100,120,0,0,3,1,0.1,7,750,10,65,1
+Style: theory_name,Arial,50,&H00000000,&H00FFFFFF,&H00FFFFFF,&HFF000000,-1,0,0,0,100,150,0,0,3,1,0.1,7,750,10,65,1
+Style: note_Wed,Arial,40,&H00FFFFFF,&H000000FF,&H5A353535,&H00000000,0,0,0,0,100,135,0,0,1,3,1,7,10,10,95,1
+Style: Lyrics,Arial,50,&H00FFFFFF,&H00FFFFFF,&H19000000,&H910E0807,0,0,0,0,100,135,0,0,1,3,1.5,2,200,200,5,1
+Style: special_Wed_3,Arial,45,&H0001497F,&H000000FF,&H00D4F0FF,&H00000000,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,10,1
+Style: special_Wed_2_X,Arial,47,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,1,3,0,5,0,0,5,1
+Style: square1,Arial,40,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,30,1
+Style: square2,Arial,40,&H00FFFFFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,30,1
+Style: square3,Arial,40,&H00CAEEFF,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,135,0,0,1,0,0,2,10,10,30,1
+Style: special_Wed_2_X - 复制,Arial,47,&H00000000,&H0000E1FA,&H00FFFFFF,&H00000000,0,0,0,0,100,135,0,0,3,3,0,5,0,0,5,1
+Style: special_Wed_1_3,Arial,45,&H0000E1FA,&H0000E1FA,&H00000000,&H00000000,0,0,0,0,100,135,0,0,1,3,0,2,0,0,0,1
+Style: wpb_2,Arial,50,&H00212D3D,&H000000FF,&H003732FF,&H00000000,0,0,0,0,100,135,0,0,1,0,0,4,10,10,30,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 3,0:40:20.26,0:40:20.30,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)}Folded leaflets
+Dialogue: 0,0:00:02.45,0:00:06.14,normal_Wed,,0,0,0,,Welcome to Wednesday Downtown,
+Dialogue: 0,0:00:06.63,0:00:10.38,normal_Wed,,0,0,0,,Let’s get on with our first presenter please
+Dialogue: 0,0:00:12.91,0:00:13.58,normal_Wed,,0,0,0,,Who's there?
+Dialogue: 0,0:00:15.89,0:00:18.83,normal_Wed,,0,0,0,,It's Koyabu
+Dialogue: 0,0:00:18.83,0:00:21.73,normal_Wed,,0,0,0,,The one with the good voice!
+Dialogue: 0,0:00:21.73,0:00:27.54,normal_Wed,,0,0,0,,This time, I'm bringing the second part of a theory that was tested four years ago
+Dialogue: 0,0:00:27.90,0:00:33.24,normal_Wed,,0,0,0,,It is, how to put it, a bold experiment
+Dialogue: 0,0:00:33.24,0:00:34.41,normal_Wed,,0,0,0,,Please take a look
+Dialogue: 0,0:00:34.41,0:00:39.71,normal_Wed,,0,0,0,,The 2nd Comparing sweet and harsh, the harsh will make people more desperate
+Dialogue: 0,0:00:42.11,0:00:43.52,normal_Wed,,0,0,0,,What kind of theory is it?
+Dialogue: 0,0:00:44.16,0:00:51.27,normal_Wed,,0,0,0,,Previously we did 'if you can hang a bar for one second longer than normal, you will be rewarded 5,000 yen'
+Dialogue: 0,0:00:51.27,0:00:53.01,normal_Wed,,0,0,0,,With this sweet approach
+Dialogue: 0,0:00:53.23,0:00:56.43,normal_Wed,,0,0,0,,A total of three people extended their records
+Dialogue: 0,0:00:56.76,0:01:02.63,normal_Wed,,0,0,0,,The harsh was doing the hanging bar in the air, if they let go they'll automatically do a bungee jump
+Dialogue: 0,0:01:02.98,0:01:06.18,normal_Wed,,0,0,0,,A harsh situation
+Dialogue: 0,0:01:06.18,0:01:09.38,normal_Wed,,0,0,0,,As a result, not even one person beat their own record
+Dialogue: 0,0:01:09.38,0:01:11.64,normal_Wed,,0,0,0,,Completely stunned by fear\N  -Because it was too scary
+Dialogue: 0,0:01:11.64,0:01:12.72,normal_Wed,,0,0,0,,Forced to let go
+Dialogue: 0,0:01:13.78,0:01:16.02,normal_Wed,,0,0,0,,The whole team fell beautifully
+Dialogue: 0,0:01:16.83,0:01:18.95,normal_Wed,,0,0,0,,In a sense, it was a good experiment
+Dialogue: 0,0:01:18.95,0:01:23.60,normal_Wed,,0,0,0,,The conclusion was that when you are under too much pressure, you won't perform as well as you normally would \N -I see
+Dialogue: 0,0:01:23.60,0:01:24.96,normal_Wed,,0,0,0,,Nice experiment!
+Dialogue: 0,0:01:24.96,0:01:28.06,normal_Wed,,0,0,0,,This type of result disproves the perseverance theory
+Dialogue: 0,0:01:28.06,0:01:30.13,normal_Wed,,0,0,0,,It's like a reflection of the current times. \N -That's right
+Dialogue: 0,0:01:30.13,0:01:31.30,normal_Wed,,0,0,0,,The corresponding data was obtained
+Dialogue: 0,0:01:31.30,0:01:32.87,normal_Wed,,0,0,0,,What a great show
+Dialogue: 0,0:01:33.48,0:01:36.95,normal_Wed,,0,0,0,,In summary, can the pressure of harshness be overcome
+Dialogue: 0,0:01:36.95,0:01:39.57,normal_Wed,,0,0,0,,Will anyone extend their record?
+Dialogue: 0,0:01:39.57,0:01:40.76,normal_Wed,,0,0,0,,Hold on a little longer
+Dialogue: 0,0:01:40.76,0:01:44.87,normal_Wed,,0,0,0,,In addition, Showa, in retrospect, was a mess
+Dialogue: 0,0:01:45.41,0:01:49.41,normal_Wed,,0,0,0,,Also, a new project will be started
+Dialogue: 0,0:02:05.50,0:02:11.97,normal_Wed,,0,0,0,,The 2nd Comparing sweet and harsh, the harsh will make people more desperate
+Dialogue: 0,0:02:12.51,0:02:15.29,normal_Wed,,0,0,0,,The participants in this validation are
+Dialogue: 0,0:02:16.52,0:02:19.87,normal_Wed,,0,0,0,,Battle with Nature - Survival Camping
+Dialogue: 0,0:02:20.28,0:02:24.04,normal_Wed,,0,0,0,,A fake program called these five people
+Dialogue: 0,0:02:24.04,0:02:25.87,wipe_Wed,,0,0,0,,{\pos(1247.5,250)}Got a bunch of great people
+Dialogue: 0,0:02:25.22,0:02:30.80,normal_Wed,,0,0,0,,I'm sure you've all heard that we're having a camping training session here
+Dialogue: 0,0:02:31.33,0:02:33.60,normal_Wed,,0,0,0,,Actually, it's a fake show.  \N-Eh?
+Dialogue: 0,0:02:33.70,0:02:35.90,normal_Wed,,0,0,0,,What's going on? \N -What the hell is it?
+Dialogue: 0,0:02:36.07,0:02:37.44,normal_Wed,,0,0,0,,What do you think this program is?
+Dialogue: 0,0:02:36.34,0:02:38.05,wipe_Wed,,0,0,0,,Progressing very fast
+Dialogue: 0,0:02:37.44,0:02:40.14,normal_Wed,,0,0,0,,Looking at this collection of participants made me a bit concerned
+Dialogue: 0,0:02:40.34,0:02:45.24,normal_Wed,,0,0,0,,There's Nishimura, there's Dancho, and a Mameshiba
+Dialogue: 0,0:02:45.24,0:02:47.08,normal_Wed,,0,0,0,,It can only be that one, right?
+Dialogue: 0,0:02:47.08,0:02:48.75,normal_Wed,,0,0,0,,With Mameshiba people in it
+Dialogue: 0,0:02:48.75,0:02:50.82,normal_Wed,,0,0,0,,As soon as you said it was a fake show I immediately came to my senses
+Dialogue: 0,0:02:50.82,0:02:54.62,normal_Wed,,0,0,0,,I've never seen Mameshiba on anything else
+Dialogue: 0,0:02:54.62,0:02:56.72,normal_Wed,,0,0,0,,What are we doing in a place like this?
+Dialogue: 0,0:02:57.19,0:03:01.86,normal_Wed,,0,0,0,,The other day, weren't you asked to do hanging bar?
+Dialogue: 0,0:03:01.99,0:03:03.26,normal_Wed,,0,0,0,,Did it!
+Dialogue: 0,0:03:03.66,0:03:06.26,normal_Wed,,0,0,0,,Eh  \N-Everyone?
+Dialogue: 0,0:03:05.02,0:03:06.70,wipe_Wed,,0,0,0,,The sweet part's done already
+Dialogue: 0,0:03:06.40,0:03:07.77,normal_Wed,,0,0,0,,Did you hang?
+Dialogue: 0,0:03:07.77,0:03:10.64,normal_Wed,,0,0,0,,Is it the one were we get paid?
+Dialogue: 0,0:03:10.74,0:03:14.11,normal_Wed,,0,0,0,,If I don't get the money this month, I can't pay my water bill
+Dialogue: 0,0:03:14.78,0:03:17.00,normal_Wed,,0,0,0,,Yes, in fact, two days ago
+Dialogue: 0,0:03:18.14,0:03:21.67,normal_Wed,,0,0,0,,The members were called out separately under the name of other fake projects
+Dialogue: 0,0:03:24.23,0:03:27.90,normal_Wed,,0,0,0,,In advance, we measured the time of hanging the bar in general
+Dialogue: 0,0:03:27.67,0:03:28.93,wipe_Wed,,0,0,0,,I see
+Dialogue: 0,0:03:29.67,0:03:30.78,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:03:29.90,0:03:30.99,wipe_Wed,,0,0,0,,How long?
+Dialogue: 0,0:03:31.19,0:03:35.69,normal_Wed,,0,0,0,,If you exceed this record by one second, you'll be awarded 5,000 yen per second
+Dialogue: 0,0:03:35.69,0:03:37.93,normal_Wed,,0,0,0,,{\fad(300,0)}Oh~~
+Dialogue: 0,0:03:39.70,0:03:40.60,normal_Wed,,0,0,0,,{\fad(300,0)}Ooh
+Dialogue: 0,0:03:40.19,0:03:41.21,wipe_Wed,,0,0,0,,Jimmy
+Dialogue: 0,0:03:41.45,0:03:42.52,wipe_Wed,,0,0,0,,Jimmy
+Dialogue: 0,0:03:41.24,0:03:44.68,normal_Wed,,0,0,0,,Money is thus used as the motivating factor
+Dialogue: 0,0:03:44.68,0:03:46.37,normal_Wed,,0,0,0,,To measure the time for the sweet motivator
+Dialogue: 0,0:03:46.37,0:03:47.61,wipe_Wed,,0,0,0,,This really makes people happy
+Dialogue: 0,0:03:47.51,0:03:49.94,normal_Wed,,0,0,0,,I can make more money this way than any commercial performance
+Dialogue: 0,0:03:50.53,0:03:56.23,normal_Wed,,0,0,0,,In summary, the usual data and the "sweet" data measured on that day are shown in the graph
+Dialogue: 0,0:03:55.87,0:03:57.24,wipe_Wed,,0,0,0,,What's wrong with Nishimura-kun?
+Dialogue: 0,0:03:57.39,0:04:00.16,normal_Wed,,0,0,0,,Three of the five extended their records
+Dialogue: 0,0:04:00.16,0:04:03.80,normal_Wed,,0,0,0,,Thus, a nice reward, to some extent, has the effect of allowing people to hold on a bit longer
+Dialogue: 0,0:04:03.80,0:04:05.77,normal_Wed,,0,0,0,,This time it was also confirmed
+Dialogue: 0,0:04:07.53,0:04:08.96,normal_Wed,,0,0,0,,Please do a follow-up on that one
+Dialogue: 0,0:04:09.06,0:04:11.33,normal_Wed,,0,0,0,,Follow-up?\N  -There is no bar here
+Dialogue: 0,0:04:11.83,0:04:14.97,normal_Wed,,0,0,0,,This time it's the other way around. We are testing how a penalty affects people
+Dialogue: 0,0:04:14.97,0:04:18.04,normal_Wed,,0,0,0,,How much will it change in relation to the previous record
+Dialogue: 0,0:04:18.51,0:04:20.77,normal_Wed,,0,0,0,,Ah, i'm scared, what do you mean by punishment?
+Dialogue: 0,0:04:20.97,0:04:24.48,normal_Wed,,0,0,0,,The punishment is the bungee jump over there
+Dialogue: 0,0:04:24.66,0:04:27.31,normal_Wed,,0,0,0,,Wait wait wait \N -There's a bridge!
+Dialogue: 0,0:04:27.31,0:04:29.31,normal_Wed,,0,0,0,,From there?\N  -Jump down?
+Dialogue: 0,0:04:29.32,0:04:30.02,normal_Wed,,0,0,0,,Bungee jumping?
+Dialogue: 0,0:04:30.02,0:04:35.17,normal_Wed,,0,0,0,,Hanging bar in the air with a bungee cord attached to the body
+Dialogue: 0,0:04:36.47,0:04:38.15,normal_Wed,,0,0,0,,That's enough, that's enough
+Dialogue: 0,0:04:38.15,0:04:39.77,normal_Wed,,0,0,0,,Bungee is a NG for me
+Dialogue: 0,0:04:39.77,0:04:41.52,normal_Wed,,0,0,0,,I said that on this program, right?
+Dialogue: 0,0:04:41.01,0:04:42.14,wipe_Wed,,0,0,0,,Yes, it was said
+Dialogue: 0,0:04:41.99,0:04:43.16,normal_Wed,,0,0,0,,Said bungee is a NG
+Dialogue: 0,0:04:43.16,0:04:44.73,normal_Wed,,0,0,0,,But you can also not fall
+Dialogue: 0,0:04:44.73,0:04:47.27,normal_Wed,,0,0,0,,No. That's only if you can set a new record, right?
+Dialogue: 0,0:04:47.33,0:04:48.54,normal_Wed,,0,0,0,,NG?\N  -NG
+Dialogue: 0,0:04:48.54,0:04:49.40,normal_Wed,,0,0,0,,It's also an NG for me
+Dialogue: 0,0:04:49.40,0:04:51.74,normal_Wed,,0,0,0,,I feel like the world is ending
+Dialogue: 0,0:04:52.16,0:04:57.45,normal_Wed,,0,0,0,,Yes, in fact, three of the members consider a bungee NG
+Dialogue: 0,0:04:58.70,0:05:02.18,normal_Wed,,0,0,0,,What is the difference between this and SAW?
+Dialogue: 0,0:05:02.18,0:05:05.92,normal_Wed,,0,0,0,,The kind of psychotic killing method
+Dialogue: 0,0:05:06.26,0:05:11.94,normal_Wed,,0,0,0,,So, we took the members, whose faces were full of disgust, and went to the bungee jumping platform
+Dialogue: 0,0:05:12.10,0:05:13.80,normal_Wed,,0,0,0,,Wow wow wow wow
+Dialogue: 0,0:05:13.54,0:05:14.77,wipe_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:05:14.77,0:05:16.07,wipe_Wed,,0,0,0,,Just need to exceed the last record, right?
+Dialogue: 0,0:05:16.07,0:05:19.19,wipe_Wed,,0,0,0,,They can go back if they stay for longer
+Dialogue: 0,0:05:21.06,0:05:22.96,normal_Wed,,0,0,0,,This is too scary, right?
+Dialogue: 0,0:05:23.48,0:05:24.68,wipe_Wed,,0,0,0,,57m
+Dialogue: 0,0:05:23.49,0:05:27.25,normal_Wed,,0,0,0,,In addition, this time it is not a vertical drop bungee jump
+Dialogue: 0,0:05:27.56,0:05:31.92,normal_Wed,,0,0,0,,Instead, we chose the swinging style to increase the fear factor
+Dialogue: 0,0:05:29.40,0:05:30.71,wipe_Wed,,0,0,0,,Is there such a thing?
+Dialogue: 0,0:05:32.90,0:05:34.42,wipe_Wed,,0,0,0,,This is not bungee jumping anymore, right?
+Dialogue: 0,0:05:35.61,0:05:38.08,normal_Wed,,0,0,0,,I definitely will not jump
+Dialogue: 0,0:05:38.18,0:05:40.89,normal_Wed,,0,0,0,,Is that the thing?
+Dialogue: 0,0:05:40.89,0:05:43.19,normal_Wed,,0,0,0,,That is the bar
+Dialogue: 0,0:05:43.42,0:05:45.19,normal_Wed,,0,0,0,,So first of all, the first person
+Dialogue: 0,0:05:45.49,0:05:47.93,normal_Wed,,0,0,0,,Nishimura\N  -Eh?
+Dialogue: 0,0:05:46.76,0:05:48.41,wipe_Wed,,0,0,0,,Tough to go first
+Dialogue: 0,0:05:48.16,0:05:50.46,normal_Wed,,0,0,0,,I don't want to be the first one
+Dialogue: 0,0:05:51.02,0:05:54.87,normal_Wed,,0,0,0,,The first time he almost broke the 1 minute mark
+Dialogue: 0,0:05:55.22,0:05:59.30,normal_Wed,,0,0,0,,Nishimura, who failed to extend the record with the promise of a reward, comes to challenge first
+Dialogue: 0,0:06:00.56,0:06:04.08,normal_Wed,,0,0,0,,By the way, the backpack carried during the previous test
+Dialogue: 0,0:06:04.42,0:06:07.14,normal_Wed,,0,0,0,,The weight of the harness and helmet was the same as when bungee jumping
+Dialogue: 0,0:06:06.58,0:06:07.99,wipe_Wed,,0,0,0,,It's really strict!
+Dialogue: 0,0:06:07.35,0:06:09.55,normal_Wed,,0,0,0,,Is it pulling me? Why are you pulling me?
+Dialogue: 0,0:06:09.55,0:06:10.98,normal_Wed,,0,0,0,,To get the rope...
+Dialogue: 0,0:06:13.15,0:06:15.12,normal_Wed,,0,0,0,,A little bit shaky
+Dialogue: 0,0:06:14.43,0:06:16.79,wipe_Wed,,0,0,0,,This is scary
+Dialogue: 0,0:06:18.26,0:06:19.59,normal_Wed,,0,0,0,,So scary!
+Dialogue: 0,0:06:20.83,0:06:22.65,wipe_Wed,,0,0,0,,Gotta hang there!?
+Dialogue: 0,0:06:22.66,0:06:25.60,normal_Wed,,0,0,0,,One minute and five seconds is quite long
+Dialogue: 0,0:06:26.03,0:06:28.43,normal_Wed,,0,0,0,,It's going out
+Dialogue: 0,0:06:33.73,0:06:34.89,wipe_Wed,,0,0,0,,Your palms will sweat, right?
+Dialogue: 0,0:06:34.31,0:06:35.91,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:06:35.96,0:06:37.21,normal_Wed,,0,0,0,,And the wind!
+Dialogue: 0,0:06:37.21,0:06:42.81,normal_Wed,,0,0,0,,The eagle over there seems to have foreseen your death
+Dialogue: 0,0:06:42.81,0:06:44.82,normal_Wed,,0,0,0,,The eagle's waiting for Nishimura to go down
+Dialogue: 0,0:06:44.82,0:06:47.42,normal_Wed,,0,0,0,,Generally, if there are people it won't come anywhere close
+Dialogue: 0,0:06:48.15,0:06:49.85,normal_Wed,,0,0,0,,I'm going to be fed to it
+Dialogue: 0,0:06:50.44,0:06:53.46,normal_Wed,,0,0,0,,Will Nishimura be able to overcome the pressure?
+Dialogue: 0,0:06:53.81,0:06:57.56,normal_Wed,,0,0,0,,Can he exceed the previous record of one minute and five seconds?
+Dialogue: 0,0:06:58.05,0:07:01.59,normal_Wed,,0,0,0,,Ready, start!
+Dialogue: 0,0:07:07.37,0:07:10.11,normal_Wed,,0,0,0,,Now you'd complain about why you stayed up for so long the first time
+Dialogue: 0,0:07:10.11,0:07:12.87,normal_Wed,,0,0,0,,It's not good if you fall like this.  \N-It's not good, right?
+Dialogue: 0,0:07:13.41,0:07:15.35,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:07:16.41,0:07:18.45,normal_Wed,,0,0,0,,Wow, so scary!
+Dialogue: 0,0:07:20.38,0:07:23.35,normal_Wed,,0,0,0,,This is the same as hanging on the edge of a cliff
+Dialogue: 0,0:07:21.78,0:07:23.73,wipe_Wed,,0,0,0,,Back to front
+Dialogue: 0,0:07:23.79,0:07:26.19,normal_Wed,,0,0,0,,No, this is terrifying
+Dialogue: 0,0:07:25.61,0:07:29.04,wipe_Wed,,0,0,0,,It's really scary. It's like a shot from a movie
+Dialogue: 0,0:07:30.02,0:07:31.05,normal_Wed,,0,0,0,,Very scary
+Dialogue: 0,0:07:32.84,0:07:34.30,normal_Wed,,0,0,0,,This is bad this is bad
+Dialogue: 0,0:07:34.16,0:07:36.83,wipe_Wed,,0,0,0,,Just hold on for one minute and five seconds
+Dialogue: 0,0:07:36.83,0:07:38.12,wipe_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:07:38.12,0:07:39.47,wipe_Wed,,0,0,0,,Wow scary
+Dialogue: 0,0:07:39.30,0:07:40.31,normal_Wed,,0,0,0,,Half a minute
+Dialogue: 0,0:07:41.16,0:07:42.30,wipe_Wed,,0,0,0,,Don't look down
+Dialogue: 0,0:07:42.30,0:07:43.36,wipe_Wed,,0,0,0,,Be calm
+Dialogue: 0,0:07:44.34,0:07:45.24,normal_Wed,,0,0,0,,Whoa, seriously!
+Dialogue: 0,0:07:45.24,0:07:47.61,normal_Wed,,0,0,0,,Thirty seconds left. Come on, come on
+Dialogue: 0,0:07:48.98,0:07:51.28,normal_Wed,,0,0,0,,{\fad(0,500)}Not good...
+Dialogue: 0,0:07:50.10,0:07:51.10,wipe_Wed,,0,0,0,,No way, right?
+Dialogue: 0,0:07:51.44,0:07:52.36,normal_Wed,,0,0,0,,It's okay, it's okay
+Dialogue: 0,0:07:52.36,0:07:53.40,wipe_Wed,,0,0,0,,20 seconds left
+Dialogue: 0,0:07:55.56,0:07:56.59,normal_Wed,,0,0,0,,Not good!
+Dialogue: 0,0:07:56.60,0:07:57.64,normal_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:07:58.23,0:08:01.12,wipe_Wed,,0,0,0,,It's okay. It's okay.  \N-Not good!
+Dialogue: 0,0:08:00.74,0:08:02.46,normal_Wed,,0,0,0,,15 seconds left
+Dialogue: 0,0:08:10.97,0:08:12.84,normal_Wed,,0,0,0,,A very typical fall
+Dialogue: 0,0:08:29.62,0:08:30.92,wipe_Wed,,0,0,0,,That's awful!
+Dialogue: 0,0:08:30.92,0:08:32.01,wipe_Wed,,0,0,0,,This is the fall
+Dialogue: 0,0:08:36.76,0:08:38.66,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:08:42.75,0:08:44.40,normal_Wed,,0,0,0,,This is too unbearable
+Dialogue: 0,0:08:44.80,0:08:46.34,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:08:46.40,0:08:49.01,normal_Wed,,0,0,0,,Very, very scary!
+Dialogue: 0,0:08:49.01,0:08:51.31,normal_Wed,,0,0,0,,It's like seeing the moment of a person's death
+Dialogue: 0,0:08:51.85,0:08:56.77,normal_Wed,,0,0,0,,Nishimura, just ten seconds away, fell with regret
+Dialogue: 0,0:08:56.57,0:08:58.21,wipe_Wed,,0,0,0,,10 seconds is long
+Dialogue: 0,0:08:59.12,0:09:00.72,normal_Wed,,0,0,0,,{\fad(300,0)}This is a big deal
+Dialogue: 0,0:09:01.15,0:09:02.65,normal_Wed,,0,0,0,,Really?
+Dialogue: 0,0:09:02.92,0:09:04.66,normal_Wed,,0,0,0,,The scariest bungee jump I've done so far
+Dialogue: 0,0:09:04.66,0:09:07.16,normal_Wed,,0,0,0,,Wow, really? What's so scary about it?
+Dialogue: 0,0:09:07.16,0:09:09.43,normal_Wed,,0,0,0,,First of all, not facing forward
+Dialogue: 0,0:09:09.43,0:09:13.60,normal_Wed,,0,0,0,,Normally you're looking ahead when you fall
+Dialogue: 0,0:09:13.60,0:09:16.97,normal_Wed,,0,0,0,,If you can't hold on and fall, it's really...
+Dialogue: 0,0:09:16.97,0:09:19.80,normal_Wed,,0,0,0,,It's the same feeling as falling down because of an accident
+Dialogue: 0,0:09:21.41,0:09:23.54,normal_Wed,,0,0,0,,It totally feels like the moment of death
+Dialogue: 0,0:09:24.12,0:09:27.66,normal_Wed,,0,0,0,,So, the next to go to their death is
+Dialogue: 0,0:09:27.66,0:09:28.98,normal_Wed,,0,0,0,,Morita
+Dialogue: 0,0:09:35.61,0:09:42.21,normal_Wed,,0,0,0,,The survival time of Morita, whose record was extended by sixteen seconds because of the reward, is thirty-eight seconds
+Dialogue: 0,0:09:43.49,0:09:44.59,normal_Wed,,0,0,0,,How?
+Dialogue: 0,0:09:45.20,0:09:47.67,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:09:47.83,0:09:49.77,normal_Wed,,0,0,0,,That guy is a bungee NG!
+Dialogue: 0,0:09:49.77,0:09:52.90,normal_Wed,,0,0,0,,Please put your foot on the board
+Dialogue: 0,0:09:52.90,0:09:54.44,normal_Wed,,0,0,0,,Give me a second, wait, I can't reach it
+Dialogue: 0,0:09:54.44,0:09:55.27,normal_Wed,,0,0,0,,Give me a minute!
+Dialogue: 0,0:09:55.27,0:09:56.14,normal_Wed,,0,0,0,,{\fs60}Give me a minute
+Dialogue: 0,0:09:56.14,0:09:57.64,normal_Wed,,0,0,0,,{\fs65}Wait a little bit
+Dialogue: 0,0:09:57.73,0:09:59.15,wipe_Wed,,0,0,0,,I want to see Morita fall down!
+Dialogue: 0,0:09:58.31,0:10:00.14,normal_Wed,,0,0,0,,What is he talking about?
+Dialogue: 0,0:10:00.58,0:10:02.25,normal_Wed,,0,0,0,,Can you wait a little longer?
+Dialogue: 0,0:10:02.25,0:10:04.55,normal_Wed,,0,0,0,,Can you let me go back first? Wait a second
+Dialogue: 0,0:10:04.55,0:10:07.85,normal_Wed,,0,0,0,,This is very forceful
+Dialogue: 0,0:10:08.49,0:10:12.95,normal_Wed,,0,0,0,,Same as the last time, when none of them could extend the record
+Dialogue: 0,0:10:14.58,0:10:17.24,normal_Wed,,0,0,0,,Their entire bodies are filled with terror
+Dialogue: 0,0:10:17.24,0:10:20.83,normal_Wed,,0,0,0,,So much so that Morita could not even reach the starting position
+Dialogue: 0,0:10:20.23,0:10:22.06,wipe_Wed,,0,0,0,,I guess so
+Dialogue: 0,0:10:22.06,0:10:23.35,wipe_Wed,,0,0,0,,Can't even stand up
+Dialogue: 0,0:10:26.26,0:10:31.11,normal_Wed,,0,0,0,,The bungee NG people are faced with a lot of pressure
+Dialogue: 0,0:10:32.01,0:10:33.05,normal_Wed,,0,0,0,,Let me wait a minute
+Dialogue: 0,0:10:37.94,0:10:38.52,normal_Wed,,0,0,0,,Wait wait
+Dialogue: 0,0:10:38.68,0:10:40.05,normal_Wed,,0,0,0,,Hurry up
+Dialogue: 0,0:10:40.56,0:10:42.86,normal_Wed,,0,0,0,,As he couldn't make up his mind
+Dialogue: 0,0:10:43.24,0:10:46.12,normal_Wed,,0,0,0,,He took 20 minutes to finally get ready
+Dialogue: 0,0:10:48.28,0:10:49.84,wipe_Wed,,0,0,0,,Not good enough
+Dialogue: 0,0:10:48.99,0:10:50.16,normal_Wed,,0,0,0,,Go
+Dialogue: 0,0:10:50.39,0:10:53.36,normal_Wed,,0,0,0,,Okay, here we go
+Dialogue: 0,0:10:53.00,0:10:54.77,wipe_Wed,,0,0,0,,It really took a lot of time
+Dialogue: 0,0:10:53.89,0:10:59.12,normal_Wed,,0,0,0,,Can he or can he not overcome his fear and exceed the record of 38 seconds?
+Dialogue: 0,0:10:58.81,0:11:01.23,wipe_Wed,,0,0,0,,It should be okay. It's only 38 seconds
+Dialogue: 0,0:11:00.87,0:11:02.76,normal_Wed,,0,0,0,,Prepare, Start!
+Dialogue: 0,0:11:03.54,0:11:05.05,wipe_Wed,,0,0,0,,It looks like he's about to fall
+Dialogue: 0,0:11:05.05,0:11:06.76,wipe_Wed,,0,0,0,,Morita\N  -You can do it!
+Dialogue: 0,0:11:06.76,0:11:08.12,wipe_Wed,,0,0,0,,Thirty-eight seconds
+Dialogue: 0,0:11:08.12,0:11:09.75,wipe_Wed,,0,0,0,,Not looking good
+Dialogue: 0,0:11:09.75,0:11:11.29,wipe_Wed,,0,0,0,,Survive!
+Dialogue: 0,0:11:11.29,0:11:13.14,wipe_Wed,,0,0,0,,Too nervous
+Dialogue: 0,0:11:13.81,0:11:14.94,normal_Wed,,0,0,0,,Ten seconds!
+Dialogue: 0,0:11:13.14,0:11:14.57,wipe_Wed,,0,0,0,,Morita, you have to survive!
+Dialogue: 0,0:11:15.67,0:11:16.74,wipe_Wed,,0,0,0,,It's Kaiji!
+Dialogue: 0,0:11:17.93,0:11:19.11,normal_Wed,,0,0,0,,Almost!
+Dialogue: 0,0:11:22.21,0:11:23.58,wipe_Wed,,0,0,0,,20 seconds to go
+Dialogue: 0,0:11:23.58,0:11:25.03,normal_Wed,,0,0,0,,It's been 20 seconds
+Dialogue: 0,0:11:25.04,0:11:26.20,wipe_Wed,,0,0,0,,He can do it
+Dialogue: 0,0:11:27.05,0:11:28.33,wipe_Wed,,0,0,0,,More than usual
+Dialogue: 0,0:11:29.21,0:11:30.70,normal_Wed,,0,0,0,,Twenty-five!
+Dialogue: 0,0:11:30.73,0:11:32.59,wipe_Wed,,0,0,0,,The fear is working
+Dialogue: 0,0:11:32.59,0:11:33.75,wipe_Wed,,0,0,0,,Yes, you can
+Dialogue: 0,0:11:33.12,0:11:34.68,normal_Wed,,0,0,0,,Almost 30
+Dialogue: 0,0:11:34.68,0:11:36.44,normal_Wed,,0,0,0,,30!
+Dialogue: 0,0:11:40.63,0:11:43.02,wipe_Wed,,0,0,0,,So close
+Dialogue: 0,0:11:43.02,0:11:44.92,wipe_Wed,,0,0,0,,Five seconds to go
+Dialogue: 0,0:11:56.85,0:11:58.61,wipe_Wed,,0,0,0,,This is accident footage
+Dialogue: 0,0:11:58.61,0:12:00.74,wipe_Wed,,0,0,0,,It is completely the expression before death
+Dialogue: 0,0:12:03.94,0:12:05.40,wipe_Wed,,0,0,0,,The picture is really clear
+Dialogue: 0,0:12:05.60,0:12:08.27,normal_Wed,,0,0,0,,Well, he looks ok
+Dialogue: 0,0:12:08.58,0:12:10.53,wipe_Wed,,0,0,0,,What a pity!
+Dialogue: 0,0:12:11.35,0:12:12.81,wipe_Wed,,0,0,0,,Four seconds to go
+Dialogue: 0,0:12:14.19,0:12:15.24,normal_Wed,,0,0,0,,Damn
+Dialogue: 0,0:12:15.65,0:12:20.67,normal_Wed,,0,0,0,,Morita died with four seconds to spare
+Dialogue: 0,0:12:17.55,0:12:18.94,wipe_Wed,,0,0,0,,Goodbye Morita
+Dialogue: 0,0:12:21.25,0:12:24.35,normal_Wed,,0,0,0,,The phrase "Goodbye, Morita" has found a new meaning
+Dialogue: 0,0:12:24.56,0:12:27.73,normal_Wed,,0,0,0,,Can't let me fall, right? I said NG
+Dialogue: 0,0:12:29.33,0:12:31.16,normal_Wed,,0,0,0,,What a pity, only four seconds away
+Dialogue: 0,0:12:31.16,0:12:33.96,normal_Wed,,0,0,0,,My heart rate at that time was terrible, right?
+Dialogue: 0,0:12:33.96,0:12:37.07,normal_Wed,,0,0,0,,Breathing was also bad
+Dialogue: 0,0:12:37.98,0:12:39.80,normal_Wed,,0,0,0,,At that time it was really no longer possible
+Dialogue: 0,0:12:39.80,0:12:41.19,normal_Wed,,0,0,0,,Even we could hear it
+Dialogue: 0,0:12:44.40,0:12:46.15,wipe_Wed,,0,0,0,,You can't broadcast this kind of expression on TV
+Dialogue: 0,0:12:44.84,0:12:47.95,normal_Wed,,0,0,0,,This should be against the rules
+Dialogue: 0,0:12:47.95,0:12:50.55,normal_Wed,,0,0,0,,Because I'm NG, really
+Dialogue: 0,0:12:50.55,0:12:52.42,normal_Wed,,0,0,0,,You let me fall, how could you?
+Dialogue: 0,0:12:53.35,0:12:54.42,normal_Wed,,0,0,0,,How to put it?
+Dialogue: 0,0:12:55.05,0:12:59.82,normal_Wed,,0,0,0,,I feel the frustration of having been murdered by Wednesday Downtown
+Dialogue: 0,0:12:59.82,0:13:01.26,normal_Wed,,0,0,0,,Its really heavy
+Dialogue: 0,0:13:01.26,0:13:05.63,normal_Wed,,0,0,0,,There are really things in life that you can't do anything about, no matter what
+Dialogue: 0,0:13:06.27,0:13:07.59,normal_Wed,,0,0,0,,Next up
+Dialogue: 0,0:13:08.71,0:13:09.93,wipe_Wed,,0,0,0,,Pretty good?
+Dialogue: 0,0:13:12.25,0:13:13.38,wipe_Wed,,0,0,0,,Because you can get paid
+Dialogue: 0,0:13:16.22,0:13:22.01,normal_Wed,,0,0,0,,In light of a potential reward, Kaede held on for 9 more seconds
+Dialogue: 0,0:13:22.49,0:13:23.79,wipe_Wed,,0,0,0,,Is it doable?
+Dialogue: 0,0:13:27.03,0:13:28.82,wipe_Wed,,0,0,0,,You'd surely be scared
+Dialogue: 0,0:13:29.18,0:13:30.26,wipe_Wed,,0,0,0,,Already crying
+Dialogue: 0,0:13:30.26,0:13:31.60,wipe_Wed,,0,0,0,,Crying!
+Dialogue: 0,0:13:30.32,0:13:32.12,normal_Wed,,0,0,0,,I want to go home
+Dialogue: 0,0:13:32.12,0:13:35.33,normal_Wed,,0,0,0,,She's the last person who needs to do this kind of thing
+Dialogue: 0,0:13:35.33,0:13:37.16,normal_Wed,,0,0,0,,After all, she's an idol
+Dialogue: 0,0:13:37.16,0:13:40.96,normal_Wed,,0,0,0,,She's unlucky she became famous through this show
+Dialogue: 0,0:13:40.96,0:13:43.37,normal_Wed,,0,0,0,,That's true
+Dialogue: 0,0:13:48.65,0:13:50.91,normal_Wed,,0,0,0,,No, no, no, no
+Dialogue: 0,0:13:53.55,0:13:56.38,normal_Wed,,0,0,0,,Stop giving Hamada close-ups!
+Dialogue: 0,0:13:56.39,0:13:57.31,normal_Wed,,0,0,0,,Ethical Issues
+Dialogue: 0,0:13:58.28,0:13:59.52,normal_Wed,,0,0,0,,Crying
+Dialogue: 0,0:13:59.68,0:14:02.45,normal_Wed,,0,0,0,,How can someone who cries like that do it?
+Dialogue: 0,0:14:02.36,0:14:03.59,wipe_Wed,,0,0,0,,Morita is bad enough
+Dialogue: 0,0:14:02.99,0:14:07.92,normal_Wed,,0,0,0,,Can she exceed the previous record?
+Dialogue: 0,0:14:06.41,0:14:07.93,wipe_Wed,,0,0,0,,Yes, you can!
+Dialogue: 0,0:14:09.99,0:14:11.30,normal_Wed,,0,0,0,,Start
+Dialogue: 0,0:14:08.24,0:14:09.45,wipe_Wed,,0,0,0,,Go, go, go!
+Dialogue: 0,0:14:09.45,0:14:11.18,wipe_Wed,,0,0,0,,Thirty seconds is still possible, right?
+Dialogue: 0,0:14:12.60,0:14:16.65,normal_Wed,,0,0,0,,Go for it! \N -She can do it!
+Dialogue: 0,0:14:16.55,0:14:19.26,wipe_Wed,,0,0,0,,I want to cheer her on
+Dialogue: 0,0:14:19.26,0:14:20.38,wipe_Wed,,0,0,0,,Concentrating
+Dialogue: 0,0:14:20.51,0:14:23.07,normal_Wed,,0,0,0,,7, 8
+Dialogue: 0,0:14:24.29,0:14:26.78,normal_Wed,,0,0,0,,Nine. \N Ah you counted wrong, Jimmy
+Dialogue: 0,0:14:27.51,0:14:29.41,normal_Wed,,0,0,0,,Why do you need to rely on yourself to count \N -There are timing boards over there
+Dialogue: 0,0:14:29.41,0:14:31.35,normal_Wed,,0,0,0,,Why're you timing it yourself
+Dialogue: 0,0:14:31.50,0:14:32.76,wipe_Wed,,0,0,0,,Jimmy is pretty relaxed
+Dialogue: 0,0:14:33.42,0:14:35.30,normal_Wed,,0,0,0,,Twenty seconds have passed.\N -Twenty
+Dialogue: 0,0:14:35.39,0:14:36.65,wipe_Wed,,0,0,0,,Concentrating
+Dialogue: 0,0:14:37.12,0:14:38.35,wipe_Wed,,0,0,0,,Not bad, not bad
+Dialogue: 0,0:14:37.37,0:14:38.35,normal_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:14:38.35,0:14:40.00,wipe_Wed,,0,0,0,,And no more crying.\N  -Amazing
+Dialogue: 0,0:14:40.00,0:14:42.19,normal_Wed,,0,0,0,,Is it possible to pass?\N  -I'll be 30 soon
+Dialogue: 0,0:14:42.19,0:14:43.83,normal_Wed,,0,0,0,,Thirty seconds. Hold on
+Dialogue: 0,0:14:44.46,0:14:46.44,wipe_Wed,,0,0,0,,Five seconds to go.\N  -Not good. A little shaky
+Dialogue: 0,0:14:47.30,0:14:48.32,wipe_Wed,,0,0,0,,Is she...
+Dialogue: 0,0:14:50.68,0:14:52.68,wipe_Wed,,0,0,0,,Great! Great!
+Dialogue: 0,0:14:52.68,0:14:54.12,wipe_Wed,,0,0,0,,This is really moving
+Dialogue: 0,0:14:54.12,0:14:55.64,wipe_Wed,,0,0,0,,Awesome!
+Dialogue: 0,0:14:55.64,0:14:56.89,wipe_Wed,,0,0,0,,She put her life on the line
+Dialogue: 0,0:14:57.56,0:15:02.13,normal_Wed,,0,0,0,,Kaede finally managed to update her record in the face of fear
+Dialogue: 0,0:15:01.99,0:15:03.12,wipe_Wed,,0,0,0,,Great!
+Dialogue: 0,0:15:03.12,0:15:07.74,normal_Wed,,0,0,0,,Finally, the first survivor
+Dialogue: 0,0:15:07.33,0:15:08.98,wipe_Wed,,0,0,0,,This list of participants is pretty impressive
+Dialogue: 0,0:15:09.22,0:15:11.29,normal_Wed,,0,0,0,,Great!
+Dialogue: 0,0:15:10.07,0:15:11.28,wipe_Wed,,0,0,0,,Former participants
+Dialogue: 0,0:15:11.49,0:15:12.89,normal_Wed,,0,0,0,,Impressive!
+Dialogue: 0,0:15:12.89,0:15:14.73,normal_Wed,,0,0,0,,I really can't do high places
+Dialogue: 0,0:15:14.73,0:15:18.43,normal_Wed,,0,0,0,,I even cry on the plane
+Dialogue: 0,0:15:18.43,0:15:19.94,wipe_Wed,,0,0,0,,She worked hard
+Dialogue: 0,0:15:18.43,0:15:21.10,normal_Wed,,0,0,0,,Were you thinking "don't fall!" and stuff like that?
+Dialogue: 0,0:15:21.10,0:15:25.44,normal_Wed,,0,0,0,,I was hanging there think "I don't want to die"
+Dialogue: 0,0:15:25.44,0:15:31.04,normal_Wed,,0,0,0,,I feel like today is the most powerful day of my life
+Dialogue: 0,0:15:31.49,0:15:33.44,normal_Wed,,0,0,0,,The type that is very strong under adversity
+Dialogue: 0,0:15:33.60,0:15:37.21,normal_Wed,,0,0,0,,But Hamada isn't smiling at all \N  -A look of regret
+Dialogue: 0,0:15:37.21,0:15:39.78,normal_Wed,,0,0,0,,No, no, no. \N -Disappointment written all over your face
+Dialogue: 0,0:15:40.03,0:15:41.24,normal_Wed,,0,0,0,,Next up
+Dialogue: 0,0:15:42.21,0:15:43.29,wipe_Wed,,0,0,0,,So short
+Dialogue: 0,0:15:45.45,0:15:47.36,wipe_Wed,,0,0,0,,Only hung for eight seconds originally?
+Dialogue: 0,0:15:48.79,0:15:54.06,normal_Wed,,0,0,0,,Before the issue of rewards or punishments, Jimmy found hanging extremely difficult
+Dialogue: 0,0:15:55.80,0:15:57.37,normal_Wed,,0,0,0,,I can't!
+Dialogue: 0,0:15:57.50,0:16:00.20,normal_Wed,,0,0,0,,Yes, 20 seconds.  \N-Come on
+Dialogue: 0,0:16:01.25,0:16:02.67,normal_Wed,,0,0,0,,Wait a sec!
+Dialogue: 0,0:16:03.50,0:16:07.34,normal_Wed,,0,0,0,,Can he beat his own record of nineteen seconds?
+Dialogue: 0,0:16:09.19,0:16:10.36,normal_Wed,,0,0,0,,Let me go
+Dialogue: 0,0:16:10.36,0:16:12.39,normal_Wed,,0,0,0,,Prepare, Start!
+Dialogue: 0,0:16:12.52,0:16:13.65,wipe_Wed,,0,0,0,,You can do it
+Dialogue: 0,0:16:17.59,0:16:20.33,normal_Wed,,0,0,0,,Go, go, go, Jimmy!
+Dialogue: 0,0:16:20.89,0:16:22.03,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:16:25.10,0:16:26.19,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:16:25.64,0:16:27.27,wipe_Wed,,0,0,0,,Only 8 seconds!
+Dialogue: 0,0:16:28.91,0:16:29.86,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:16:31.92,0:16:32.95,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:16:35.18,0:16:36.23,normal_Wed,,0,0,0,,No!
+Dialogue: 0,0:16:37.63,0:16:38.77,wipe_Wed,,0,0,0,,He said "no"
+Dialogue: 0,0:16:42.03,0:16:43.17,wipe_Wed,,0,0,0,,Eight seconds
+Dialogue: 0,0:16:43.02,0:16:45.80,normal_Wed,,0,0,0,,So fast
+Dialogue: 0,0:16:46.48,0:16:48.16,normal_Wed,,0,0,0,,Scary!
+Dialogue: 0,0:16:50.16,0:16:51.36,wipe_Wed,,0,0,0,,You said "no", right?
+Dialogue: 0,0:16:54.12,0:16:56.26,normal_Wed,,0,0,0,,Very, very scary
+Dialogue: 0,0:16:56.79,0:16:59.30,normal_Wed,,0,0,0,,Terrible
+Dialogue: 0,0:16:59.75,0:17:03.07,normal_Wed,,0,0,0,,Crying for this kind of thing is a first for me
+Dialogue: 0,0:17:04.30,0:17:05.37,normal_Wed,,0,0,0,,Only eight seconds
+Dialogue: 0,0:17:05.37,0:17:06.84,normal_Wed,,0,0,0,,Are you all right, Jimmy?
+Dialogue: 0,0:17:06.84,0:17:10.11,normal_Wed,,0,0,0,,From the beginning, too much force was used
+Dialogue: 0,0:17:10.11,0:17:11.24,normal_Wed,,0,0,0,,Couldn't even move
+Dialogue: 0,0:17:12.24,0:17:14.01,normal_Wed,,0,0,0,,What he is saying, I don't understand at all
+Dialogue: 0,0:17:14.01,0:17:16.45,normal_Wed,,0,0,0,,This is not a bungee jump\N  -It's even scarier than bungee jumping
+Dialogue: 0,0:17:16.45,0:17:18.52,normal_Wed,,0,0,0,,Scarier than bungee jumping
+Dialogue: 0,0:17:18.52,0:17:22.85,normal_Wed,,0,0,0,,It's like listening to some war story
+Dialogue: 0,0:17:23.30,0:17:27.29,normal_Wed,,0,0,0,,So the final challenge is Dancho
+Dialogue: 0,0:17:28.64,0:17:31.82,normal_Wed,,0,0,0,,Known for his great endurance
+Dialogue: 0,0:17:32.00,0:17:33.26,wipe_Wed,,0,0,0,,Especially in this program
+Dialogue: 0,0:17:33.45,0:17:37.03,normal_Wed,,0,0,0,,He is the unbeatable candidate
+Dialogue: 0,0:17:40.40,0:17:45.34,normal_Wed,,0,0,0,,Will he be able to surpass his own record of one minute and 29 seconds?
+Dialogue: 0,0:17:41.82,0:17:45.35,wipe_Wed,,0,0,0,,So long!
+Dialogue: 0,0:17:46.84,0:17:48.20,normal_Wed,,0,0,0,,We start straight away
+Dialogue: 0,0:17:47.95,0:17:51.05,wipe_Wed,,0,0,0,,The expression is already very strange
+Dialogue: 0,0:17:48.97,0:17:51.98,normal_Wed,,0,0,0,,Prepare, Start!
+Dialogue: 0,0:17:51.64,0:17:53.14,wipe_Wed,,0,0,0,,The face has become the same as Morita
+Dialogue: 0,0:17:55.69,0:17:57.19,wipe_Wed,,0,0,0,,A man of great perseverance
+Dialogue: 0,0:18:00.76,0:18:03.73,normal_Wed,,0,0,0,,Not even 10 seconds yet
+Dialogue: 0,0:18:02.30,0:18:03.52,wipe_Wed,,0,0,0,,Saying only bad stuff
+Dialogue: 0,0:18:10.45,0:18:11.80,normal_Wed,,0,0,0,,Go for it!
+Dialogue: 0,0:18:11.80,0:18:13.07,normal_Wed,,0,0,0,,Its been a few seconds, Jimmy
+Dialogue: 0,0:18:13.07,0:18:16.17,normal_Wed,,0,0,0,,Not even 20 seconds. \N -How the hell is it below 20?
+Dialogue: 0,0:18:17.19,0:18:18.73,wipe_Wed,,0,0,0,,There's going to be a problem when it's over
+Dialogue: 0,0:18:20.05,0:18:21.09,normal_Wed,,0,0,0,,Oh, its working
+Dialogue: 0,0:18:21.09,0:18:22.25,normal_Wed,,0,0,0,,Reaching 30
+Dialogue: 0,0:18:23.25,0:18:26.42,normal_Wed,,0,0,0,,Times three
+Dialogue: 0,0:18:24.49,0:18:25.72,wipe_Wed,,0,0,0,,That's a nasty way of putting it
+Dialogue: 0,0:18:26.42,0:18:28.25,normal_Wed,,0,0,0,,This statement is not good
+Dialogue: 0,0:18:28.25,0:18:29.57,normal_Wed,,0,0,0,,Times three something
+Dialogue: 0,0:18:33.43,0:18:35.17,normal_Wed,,0,0,0,,Okay one minute one minute
+Dialogue: 0,0:18:34.73,0:18:35.93,wipe_Wed,,0,0,0,,Awesome
+Dialogue: 0,0:18:35.93,0:18:37.03,wipe_Wed,,0,0,0,,Passed the original one
+Dialogue: 0,0:18:37.03,0:18:38.49,normal_Wed,,0,0,0,,30 seconds left
+Dialogue: 0,0:18:38.62,0:18:40.87,wipe_Wed,,0,0,0,,Great \N -Not thinking anything
+Dialogue: 0,0:18:43.10,0:18:45.57,normal_Wed,,0,0,0,,How do you feel now?\N  -Why are you asking him that?
+Dialogue: 0,0:18:46.69,0:18:47.97,wipe_Wed,,0,0,0,,So close
+Dialogue: 0,0:18:50.03,0:18:51.19,wipe_Wed,,0,0,0,,So close
+Dialogue: 0,0:18:51.98,0:18:53.40,wipe_Wed,,0,0,0,,His hands are shaking
+Dialogue: 0,0:18:57.48,0:18:59.95,wipe_Wed,,0,0,0,,He was so close
+Dialogue: 0,0:19:00.48,0:19:01.70,wipe_Wed,,0,0,0,,Jimmy!
+Dialogue: 0,0:19:01.70,0:19:02.92,wipe_Wed,,0,0,0,,I blame Jimmy, he said a lot of useless things
+Dialogue: 0,0:19:08.49,0:19:09.93,wipe_Wed,,0,0,0,,Of course it will turn out like this
+Dialogue: 0,0:19:12.33,0:19:13.96,normal_Wed,,0,0,0,,Did you hear Jimmy's voice?
+Dialogue: 0,0:19:13.98,0:19:17.37,normal_Wed,,0,0,0,,Super annoying
+Dialogue: 0,0:19:17.37,0:19:24.47,normal_Wed,,0,0,0,,{\c&H260EF0&\3c&HFFFFFF&}In summary\N{\c\3c}Only some can extend due to fear
+Dialogue: 0,0:19:26.19,0:19:27.55,normal_Wed,,0,0,0,,Kaede is awesome!
+Dialogue: 0,0:19:27.55,0:19:32.15,normal_Wed,,0,0,0,,Only Kaede succeeded
+Dialogue: 0,0:19:32.15,0:19:34.37,normal_Wed,,0,0,0,,Don't want to see her fall either, right?
+Dialogue: 0,0:19:34.37,0:19:37.65,normal_Wed,,0,0,0,,Sure enough, we hoped she wouldn't fall and would come back safely
+Dialogue: 0,0:19:37.65,0:19:39.94,normal_Wed,,0,0,0,,Everyone is happy
+Dialogue: 0,0:19:39.94,0:19:41.48,normal_Wed,,0,0,0,,He said something very important
+Dialogue: 0,0:19:41.86,0:19:44.53,normal_Wed,,0,0,0,,"What the hell? Why didn't she fall down?" and so on
+Dialogue: 0,0:19:44.53,0:19:48.73,normal_Wed,,0,0,0,,Everyone clapped when Kaede succeeded
+Dialogue: 0,0:19:48.73,0:19:50.57,normal_Wed,,0,0,0,,Only one person kept his head down like this
+Dialogue: 0,0:19:51.47,0:19:53.07,normal_Wed,,0,0,0,,When Morita fell, he smiled as if someone asked him
+Dialogue: 0,0:19:53.07,0:19:56.64,normal_Wed,,0,0,0,,"Should we go out for a steak?"
+Dialogue: 0,0:19:56.64,0:19:59.04,normal_Wed,,0,0,0,,He had a big meal. \N -As if there was a plate of steak in front of you
+Dialogue: 0,0:20:01.35,0:20:06.48,normal_Wed,,0,0,0,,I'd like to ask if everyone here was born in the Showa period
+Dialogue: 0,0:20:06.48,0:20:07.58,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:20:07.58,0:20:10.75,normal_Wed,,0,0,0,,We all experienced the turbulent Showa era
+Dialogue: 0,0:20:10.75,0:20:16.33,normal_Wed,,0,0,0,,Thinking back, there was a lot of unethical behavior
+Dialogue: 0,0:20:16.63,0:20:19.40,normal_Wed,,0,0,0,,There are a lot of those things, right?
+Dialogue: 0,0:20:19.40,0:20:21.00,normal_Wed,,0,0,0,,The TV world is the same way
+Dialogue: 0,0:20:21.00,0:20:23.86,normal_Wed,,0,0,0,,The theory I bring is this:
+Dialogue: 0,0:20:23.86,0:20:28.10,normal_Wed,,0,0,0,,Showa, in retrospect, was a mess
+Dialogue: 0,0:20:29.31,0:20:30.77,normal_Wed,,0,0,0,,It's true. \N -It was a mess
+Dialogue: 0,0:20:43.92,0:20:50.79,normal_Wed,,0,0,0,,Showa, in retrospect, was a mess
+Dialogue: 0,0:20:51.46,0:20:55.20,normal_Wed,,0,0,0,,Compared to today, the Showa era had a lax system
+Dialogue: 0,0:20:56.25,0:21:00.94,normal_Wed,,0,0,0,,The most liberal of these was the regulation of smoking
+Dialogue: 0,0:21:00.63,0:21:04.68,wipe_Wed,,0,0,0,,It's true.  \N-Everyone smoked
+Dialogue: 0,0:21:02.23,0:21:05.90,normal_Wed,,0,0,0,,At that time, smoking on the road and at stations was a common behavior
+Dialogue: 0,0:21:06.66,0:21:09.31,normal_Wed,,0,0,0,,There were no non-smoking cars on the Shinkansen
+Dialogue: 0,0:21:10.00,0:21:12.98,normal_Wed,,0,0,0,,It was also fine on the plane
+Dialogue: 0,0:21:13.25,0:21:16.66,normal_Wed,,0,0,0,,And even in the hospital consultation room
+Dialogue: 0,0:21:16.66,0:21:19.42,normal_Wed,,0,0,0,,There were also many doctors who smoked in front of their patients
+Dialogue: 0,0:21:20.32,0:21:24.32,normal_Wed,,0,0,0,,In the diet, politicians were covered in a haze
+Dialogue: 0,0:21:24.32,0:21:27.76,normal_Wed,,0,0,0,,Thinking about it now, it was a mess
+Dialogue: 0,0:21:28.72,0:21:34.07,normal_Wed,,0,0,0,,In a recent survey, the smoking rate among men was at 27.8%
+Dialogue: 0,0:21:35.07,0:21:40.49,normal_Wed,,0,0,0,,But in Showa 41, it was as high as 83.7%
+Dialogue: 0,0:21:39.96,0:21:41.94,wipe_Wed,,0,0,0,,That's true.\N  -Everybody smoked
+Dialogue: 0,0:21:41.73,0:21:47.03,normal_Wed,,0,0,0,,So at the time of the morning rush, the platform was like this
+Dialogue: 0,0:21:48.31,0:21:50.92,normal_Wed,,0,0,0,,Incidentally, our Downtown also
+Dialogue: 0,0:21:50.84,0:21:52.52,wipe_Wed,,0,0,0,,So young
+Dialogue: 0,0:21:52.12,0:21:55.91,normal_Wed,,0,0,0,,In the past, when I had no job and no money
+Dialogue: 0,0:21:55.91,0:21:57.55,normal_Wed,,0,0,0,,I wanted to be on TV so much, I wanted to be on TV!
+Dialogue: 0,0:21:57.55,0:21:59.86,normal_Wed,,0,0,0,,Didn't even have a regular program
+Dialogue: 0,0:22:02.99,0:22:04.97,normal_Wed,,0,0,0,,This is just a special case
+Dialogue: 0,0:22:05.36,0:22:11.64,normal_Wed,,0,0,0,,Even in Heisei, you could still smoke and record talk shows in the studio
+Dialogue: 0,0:22:12.14,0:22:16.41,normal_Wed,,0,0,0,,There were also other messy things about the Showa era
+Dialogue: 0,0:22:17.24,0:22:18.77,normal_Wed,,0,0,0,,Traffic
+Dialogue: 0,0:22:20.24,0:22:26.64,normal_Wed,,0,0,0,,The current Tokyo morning rail congestion rate is 163%
+Dialogue: 0,0:22:27.31,0:22:30.28,normal_Wed,,0,0,0,,For the full complement of trams in the 1960s
+Dialogue: 0,0:22:30.28,0:22:34.56,normal_Wed,,0,0,0,,Surprisingly, it was over 300%
+Dialogue: 0,0:22:35.31,0:22:40.89,normal_Wed,,0,0,0,,Not only was the number of runs low, but preparation for the ride was also impossible
+Dialogue: 0,0:22:40.89,0:22:43.23,normal_Wed,,0,0,0,,Thus, it was a hell of a commute
+Dialogue: 0,0:22:43.80,0:22:49.07,normal_Wed,,0,0,0,,We asked Mr. Hanashima, a former employee of the National Railroad, about the situation
+Dialogue: 0,0:22:49.65,0:22:51.72,normal_Wed,,0,0,0,,Looking back on it now it really was like hell
+Dialogue: 0,0:22:51.72,0:22:53.92,normal_Wed,,0,0,0,,We were overwhelmed by too many people
+Dialogue: 0,0:22:53.92,0:22:56.95,normal_Wed,,0,0,0,,Broken windows were also a common occurrence
+Dialogue: 0,0:22:57.09,0:23:02.13,normal_Wed,,0,0,0,,Especially when shattered by elbows, there were casualties
+Dialogue: 0,0:23:02.33,0:23:06.33,normal_Wed,,0,0,0,,Peak season, summer, was the worst
+Dialogue: 0,0:23:06.66,0:23:10.60,normal_Wed,,0,0,0,,Some people collapsed because of the heat and pressure
+Dialogue: 0,0:23:09.15,0:23:10.29,wipe_Wed,,0,0,0,,Heatstroke
+Dialogue: 0,0:23:11.01,0:23:12.13,normal_Wed,,0,0,0,,What's more
+Dialogue: 0,0:23:12.74,0:23:15.51,normal_Wed,,0,0,0,,It may not even be imaginable now
+Dialogue: 0,0:23:15.87,0:23:19.68,normal_Wed,,0,0,0,,Sometimes when people squeezed on, their shoes fell off
+Dialogue: 0,0:23:19.68,0:23:23.21,normal_Wed,,0,0,0,,When leaving the platform, they realized their shoes were missing
+Dialogue: 0,0:23:23.45,0:23:26.32,normal_Wed,,0,0,0,,Larger stations had a shoe rental service
+Dialogue: 0,0:23:26.85,0:23:29.42,normal_Wed,,0,0,0,,Incidentally, it was not only the train that was like this
+Dialogue: 0,0:23:27.89,0:23:29.26,wipe_Wed,,0,0,0,,Through the window?
+Dialogue: 0,0:23:29.99,0:23:32.26,normal_Wed,,0,0,0,,The roads were also a mess
+Dialogue: 0,0:23:33.02,0:23:36.23,normal_Wed,,0,0,0,,Wearing a seat belt while driving was not a requirement
+Dialogue: 0,0:23:36.80,0:23:39.38,normal_Wed,,0,0,0,,Driving a motorcycle without a helmet was also the norm
+Dialogue: 0,0:23:40.70,0:23:43.68,normal_Wed,,0,0,0,,Also, driving etiquette was not taken seriously
+Dialogue: 0,0:23:44.14,0:23:47.48,normal_Wed,,0,0,0,,The lane lines at that time were also undefined
+Dialogue: 0,0:23:48.19,0:23:52.05,normal_Wed,,0,0,0,,Looking back on it now, Showa was incredible
+Dialogue: 0,0:23:52.05,0:23:53.21,normal_Wed,,0,0,0,,There are also other things
+Dialogue: 0,0:23:54.02,0:23:59.93,normal_Wed,,0,0,0,,The pesticide DDT, which has now been detected as a carcinogen and banned from use
+Dialogue: 0,0:23:59.63,0:24:01.19,wipe_Wed,,0,0,0,,Spraying wildly!
+Dialogue: 0,0:24:00.46,0:24:02.93,normal_Wed,,0,0,0,,Was sprayed directly onto human skin
+Dialogue: 0,0:24:03.87,0:24:07.97,normal_Wed,,0,0,0,,Absorb the vibrations of this machine by putting your hand on it to improve performance
+Dialogue: 0,0:24:07.97,0:24:11.13,normal_Wed,,0,0,0,,Your character will improve with this machine
+Dialogue: 0,0:24:11.04,0:24:12.24,wipe_Wed,,0,0,0,,Absolutely fraudulent
+Dialogue: 0,0:24:12.03,0:24:16.74,normal_Wed,,0,0,0,,If you sleep on the pillow, you will become a genius
+Dialogue: 0,0:24:19.56,0:24:21.38,wipe_Wed,,0,0,0,,I had the x-ray glasses
+Dialogue: 0,0:24:17.62,0:24:25.06,normal_Wed,,0,0,0,,Products that blatantly advertised outrageous features were published in famous magazines
+Dialogue: 0,0:24:26.01,0:24:28.82,normal_Wed,,0,0,0,,In retrospect it was quite a lawless zone
+Dialogue: 0,0:24:29.72,0:24:32.35,normal_Wed,,0,0,0,,But even more excessive is
+Dialogue: 0,0:24:33.67,0:24:36.09,normal_Wed,,0,0,0,,Privacy of celebrities
+Dialogue: 0,0:24:37.41,0:24:40.15,normal_Wed,,0,0,0,,We heard from a journalist
+Dialogue: 0,0:24:40.36,0:24:44.33,normal_Wed,,0,0,0,,It was common to simply reveal the address of a celebrity
+Dialogue: 0,0:24:44.33,0:24:46.36,normal_Wed,,0,0,0,,In a lot of magazines
+Dialogue: 0,0:24:46.36,0:24:49.80,normal_Wed,,0,0,0,,They were subtly included in there
+Dialogue: 0,0:24:50.00,0:24:55.54,normal_Wed,,0,0,0,,And written next to the person's name
+Dialogue: 0,0:24:55.74,0:24:59.17,normal_Wed,,0,0,0,,Yes, next to the name of Japanese celebrities at the time
+Dialogue: 0,0:24:59.17,0:25:04.24,normal_Wed,,0,0,0,,The artist's real name and home address were clearly stated
+Dialogue: 0,0:25:04.99,0:25:10.28,normal_Wed,,0,0,0,,In this all-star address book, published as a supplement to the magazine
+Dialogue: 0,0:25:11.17,0:25:16.19,normal_Wed,,0,0,0,,A total of 1,857 celebrities' residences were revealed
+Dialogue: 0,0:25:16.19,0:25:17.19,normal_Wed,,0,0,0,,What's more
+Dialogue: 0,0:25:17.67,0:25:23.72,normal_Wed,,0,0,0,,The addresses were also thoughtfully organized into a map of the "streets where the stars live"
+Dialogue: 0,0:25:24.72,0:25:25.92,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:25:26.60,0:25:31.01,normal_Wed,,0,0,0,,They'd go through actresses' bins
+Dialogue: 0,0:25:31.27,0:25:34.38,normal_Wed,,0,0,0,,The magazines would report on it
+Dialogue: 0,0:25:34.58,0:25:36.11,normal_Wed,,0,0,0,,That's a crime
+Dialogue: 0,0:25:36.67,0:25:42.71,normal_Wed,,0,0,0,,At that time, there were many reporters who went through the trash cans of celebrities to collect information
+Dialogue: 0,0:25:43.27,0:25:49.90,normal_Wed,,0,0,0,,One magazine had a "Trash Hunt Series"
+Dialogue: 0,0:25:50.86,0:25:54.07,normal_Wed,,0,0,0,,Which revealed a big starlet's cigarette butts
+Dialogue: 0,0:25:55.01,0:25:57.42,normal_Wed,,0,0,0,,Toothbrushes and other household waste
+Dialogue: 0,0:25:57.42,0:25:59.12,normal_Wed,,0,0,0,,In addition
+Dialogue: 0,0:25:59.12,0:26:03.60,normal_Wed,,0,0,0,,From scripts for TV shows to things that can't be shown on TV
+Dialogue: 0,0:26:04.77,0:26:09.31,normal_Wed,,0,0,0,,All kinds of garbage were posted like a house raid
+Dialogue: 0,0:26:10.84,0:26:15.50,normal_Wed,,0,0,0,,Clearly, there was no privacy for celebrities at that time
+Dialogue: 0,0:26:16.33,0:26:17.47,normal_Wed,,0,0,0,,What's more
+Dialogue: 0,0:26:18.05,0:26:20.76,normal_Wed,,0,0,0,,Now I think about it, it's unbelievable
+Dialogue: 0,0:26:20.76,0:26:26.23,normal_Wed,,0,0,0,,The tax bureau revealed how much certain people paid
+Dialogue: 0,0:26:26.23,0:26:28.06,normal_Wed,,0,0,0,,Published in a serious manner
+Dialogue: 0,0:26:28.33,0:26:30.83,normal_Wed,,0,0,0,,With the tax money
+Dialogue: 0,0:26:30.83,0:26:34.10,normal_Wed,,0,0,0,,Annual income can be generally guessed
+Dialogue: 0,0:26:34.66,0:26:38.93,normal_Wed,,0,0,0,,A ranking of the rich issued from 1950 onwards
+Dialogue: 0,0:26:40.76,0:26:45.43,normal_Wed,,0,0,0,,Featured annual publication of high tax payers in the arts and energy sectors
+Dialogue: 0,0:26:45.82,0:26:48.83,normal_Wed,,0,0,0,,Thus, their annual income was known
+Dialogue: 0,0:26:49.38,0:26:53.36,normal_Wed,,0,0,0,,Among the most popular people in all walks of life
+Dialogue: 0,0:26:54.98,0:27:00.02,normal_Wed,,0,0,0,,In 1993, the 30-year-old Downtown made the list
+Dialogue: 0,0:27:01.51,0:27:03.49,normal_Wed,,0,0,0,,After two years
+Dialogue: 0,0:27:03.49,0:27:08.03,normal_Wed,,0,0,0,,The difference with Yoshiko Mita, who won four consecutive championships, was huge
+Dialogue: 0,0:27:09.36,0:27:14.49,normal_Wed,,0,0,0,,At the young age of 32, they'd literally reached the top of the entertainment industry
+Dialogue: 0,0:27:15.04,0:27:16.38,wipe_Wed,,0,0,0,,Still smoking
+Dialogue: 0,0:27:16.57,0:27:20.05,normal_Wed,,0,0,0,,This isn't good
+Dialogue: 0,0:27:20.51,0:27:25.15,normal_Wed,,0,0,0,,Until the system was abandoned in 2004
+Dialogue: 0,0:27:25.15,0:27:28.39,normal_Wed,,0,0,0,,Neither of them ever dropped out of the top 10
+Dialogue: 0,0:27:29.33,0:27:34.59,normal_Wed,,0,0,0,,{\c&H260EF0&\3c&HFFFFFF&}In summary\N{\c\3c}Showa era and Downtown were a mess
+Dialogue: 0,0:27:35.35,0:27:36.67,normal_Wed,,0,0,0,,Why do we have to be involved?
+Dialogue: 0,0:27:38.63,0:27:41.34,normal_Wed,,0,0,0,,I did see the rich ranking a lot when we were kids
+Dialogue: 0,0:27:41.34,0:27:43.24,normal_Wed,,0,0,0,,I've seen it. \N -It's true
+Dialogue: 0,0:27:43.24,0:27:45.80,normal_Wed,,0,0,0,,They made it into a book
+Dialogue: 0,0:27:45.80,0:27:49.58,normal_Wed,,0,0,0,,And someone even tried to sell it to me
+Dialogue: 0,0:27:49.58,0:27:50.56,normal_Wed,,0,0,0,,Rich ranking?
+Dialogue: 0,0:27:50.56,0:27:54.35,normal_Wed,,0,0,0,,After ringing the doorbell, he said that this year's rich ranking is out
+Dialogue: 0,0:27:54.63,0:27:56.92,normal_Wed,,0,0,0,,Do you want to buy one?
+Dialogue: 0,0:27:56.92,0:27:59.62,normal_Wed,,0,0,0,,"Matsumoto, you're in there!"
+Dialogue: 0,0:27:59.62,0:28:02.02,normal_Wed,,0,0,0,,What a mess. \N -I don't get it
+Dialogue: 0,0:28:02.02,0:28:05.99,normal_Wed,,0,0,0,,Compiling other people's income into a book is already too much
+Dialogue: 0,0:28:05.99,0:28:08.42,normal_Wed,,0,0,0,,Not to mention that, you come directly to my house
+Dialogue: 0,0:28:08.42,0:28:10.83,normal_Wed,,0,0,0,,Why do I have to pay for it?
+Dialogue: 0,0:28:12.57,0:28:16.21,normal_Wed,,0,0,0,,Cigarette smoking while filming was very normal
+Dialogue: 0,0:28:16.21,0:28:19.01,normal_Wed,,0,0,0,,What shows would you do it on?
+Dialogue: 0,0:28:19.01,0:28:21.98,normal_Wed,,0,0,0,,How to say, they were in the late-night slot  \N-Late night
+Dialogue: 0,0:28:21.98,0:28:25.42,normal_Wed,,0,0,0,,But I think smoking on prime time was also common?
+Dialogue: 0,0:28:25.42,0:28:27.80,normal_Wed,,0,0,0,,Like throwing cigarette butts at other people
+Dialogue: 0,0:28:27.80,0:28:29.09,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:28:29.71,0:28:31.65,normal_Wed,,0,0,0,,Thrown  \N-Yes it happened
+Dialogue: 0,0:28:31.85,0:28:35.09,normal_Wed,,0,0,0,,He was a professional at smoking and throwing it at others
+Dialogue: 0,0:28:35.09,0:28:37.03,normal_Wed,,0,0,0,,Competitive? \N-Yes
+Dialogue: 0,0:28:37.03,0:28:39.16,normal_Wed,,0,0,0,,Cigarette butt flicking
+Dialogue: 0,0:28:41.16,0:28:44.99,normal_Wed,,0,0,0,,And walking like this
+Dialogue: 0,0:28:44.99,0:28:46.76,normal_Wed,,0,0,0,,Like a monster in Space Invaders
+Dialogue: 0,0:28:48.18,0:28:51.07,normal_Wed,,0,0,0,,Shoulders like that \N -Little by little rubbing forward
+Dialogue: 0,0:28:51.07,0:28:53.24,normal_Wed,,0,0,0,,The Nagoya method
+Dialogue: 0,0:28:51.07,0:28:53.24,note_Wed,,0,0,0,,{\blur4}※The Nagoya method of play is a basic technique that allows players to use the loopholes in the game Space Invaders to get high points from their turrets by attacking without damage.
+Dialogue: 0,0:28:56.99,0:28:59.12,normal_Wed,,0,0,0,,Let's welcome the next presenter please
+Dialogue: 0,0:29:00.99,0:29:01.68,normal_Wed,,0,0,0,,Who?
+Dialogue: 0,0:29:04.35,0:29:06.82,normal_Wed,,0,0,0,,Nanamagari!
+Dialogue: 0,0:29:08.10,0:29:09.36,normal_Wed,,0,0,0,,We are Nanamagari
+Dialogue: 0,0:29:10.66,0:29:12.50,normal_Wed,,0,0,0,,I thought your were the car rental clerk at the airport
+Dialogue: 0,0:29:12.50,0:29:14.89,normal_Wed,,0,0,0,,No, we're Nanamagari
+Dialogue: 0,0:29:14.89,0:29:16.63,normal_Wed,,0,0,0,,Okinawa, right? \N -Okinawa or something like that
+Dialogue: 0,0:29:16.63,0:29:17.95,normal_Wed,,0,0,0,,The one standing there with a board
+Dialogue: 0,0:29:17.95,0:29:19.60,normal_Wed,,0,0,0,,At Naha Airport
+Dialogue: 0,0:29:19.60,0:29:20.33,normal_Wed,,0,0,0,,I get it
+Dialogue: 0,0:29:21.62,0:29:23.35,normal_Wed,,0,0,0,,We are here regarding that Nanamagari project
+Dialogue: 0,0:29:23.76,0:29:25.20,normal_Wed,,0,0,0,,The legendary one. \N -Do you remember?
+Dialogue: 0,0:29:25.20,0:29:28.92,normal_Wed,,0,0,0,,The guessing one
+Dialogue: 0,0:29:28.92,0:29:30.58,normal_Wed,,0,0,0,,We'd never been on TV before
+Dialogue: 0,0:29:30.58,0:29:32.76,normal_Wed,,0,0,0,,It even won the Galaxy Award.  \N-Yeah!
+Dialogue: 0,0:29:32.76,0:29:35.34,normal_Wed,,0,0,0,,It was an honor to receive the Galaxy Award
+Dialogue: 0,0:29:36.02,0:29:38.08,normal_Wed,,0,0,0,,This time we bring a follow-up project
+Dialogue: 0,0:29:38.08,0:29:41.09,normal_Wed,,0,0,0,,A new escape
+Dialogue: 0,0:29:41.09,0:29:42.26,normal_Wed,,0,0,0,,The content is as follows
+Dialogue: 0,0:29:42.26,0:29:50.53,normal_Wed,,0,0,0,,If you are locked up, if you can get the "lucky item of the day", you will be able to escape with luck
+Dialogue: 0,0:29:50.99,0:29:52.80,normal_Wed,,0,0,0,,Aah!  \N-An escape room
+Dialogue: 0,0:29:53.12,0:29:55.69,normal_Wed,,0,0,0,,A group of comedians will be locked up in a building
+Dialogue: 0,0:29:55.69,0:29:58.66,normal_Wed,,0,0,0,,Somewhere they cant get out of
+Dialogue: 0,0:29:58.66,0:30:05.32,normal_Wed,,0,0,0,,These two people will receive the "lucky item of the day" announced in the fortune telling segment of the TV program every day
+Dialogue: 0,0:30:05.32,0:30:06.35,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:30:06.35,0:30:09.92,normal_Wed,,0,0,0,,And we will see if they can successfully escape with these items
+Dialogue: 0,0:30:09.92,0:30:12.52,normal_Wed,,0,0,0,,Will items useful for escape be given to them?
+Dialogue: 0,0:30:12.52,0:30:14.22,normal_Wed,,0,0,0,,They are lucky items
+Dialogue: 0,0:30:14.22,0:30:17.67,normal_Wed,,0,0,0,,So even if they are locked up, they'll surely be able to escape, right?
+Dialogue: 0,0:30:17.67,0:30:20.06,normal_Wed,,0,0,0,,Sorry to interrupt, but Hagi hasn't said a word
+Dialogue: 0,0:30:20.74,0:30:21.93,normal_Wed,,0,0,0,,Sorry
+Dialogue: 0,0:30:21.93,0:30:32.48,normal_Wed,,0,0,0,,If you are locked up, if you can get the "lucky item of the day", you will be able to escape with luck
+Dialogue: 0,0:30:34.26,0:30:35.36,wipe_Wed,,0,0,0,,It's Yoshimoto again!
+Dialogue: 0,0:30:35.61,0:30:38.52,normal_Wed,,0,0,0,,This time, the challengers are...
+Dialogue: 0,0:30:36.18,0:30:39.25,wipe_Wed,,0,0,0,,It depends on who comes out of the building first
+Dialogue: 0,0:30:41.21,0:30:47.03,normal_Wed,,0,0,0,,24 years in the business but with an empty schedule
+Dialogue: 0,0:30:47.82,0:30:48.71,wipe_Wed,,0,0,0,,Too harsh
+Dialogue: 0,0:30:48.24,0:30:50.16,normal_Wed,,0,0,0,,It's not too late
+Dialogue: 0,0:30:51.76,0:30:53.60,normal_Wed,,0,0,0,,It's a lie, right?
+Dialogue: 0,0:30:53.60,0:30:54.46,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:30:54.46,0:30:57.47,normal_Wed,,0,0,0,,Scary scary scary
+Dialogue: 0,0:30:57.73,0:30:59.57,normal_Wed,,0,0,0,,Please come with us to another place
+Dialogue: 0,0:30:59.70,0:31:00.87,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:31:00.87,0:31:02.97,normal_Wed,,0,0,0,,Now? No way
+Dialogue: 0,0:31:03.60,0:31:06.62,normal_Wed,,0,0,0,,The two immediately understood the situation
+Dialogue: 0,0:31:06.62,0:31:08.06,wipe_Wed,,0,0,0,,The only program that would do this is this one
+Dialogue: 0,0:31:07.44,0:31:09.05,normal_Wed,,0,0,0,,Please put your hands out
+Dialogue: 0,0:31:10.09,0:31:11.68,normal_Wed,,0,0,0,,Okay, thank you
+Dialogue: 0,0:31:11.68,0:31:13.54,wipe_Wed,,0,0,0,,Still seriously disinfected
+Dialogue: 0,0:31:14.05,0:31:15.04,wipe_Wed,,0,0,0,,How to say...
+Dialogue: 0,0:31:15.04,0:31:18.41,normal_Wed,,0,0,0,,In view of the current situation, no infection prevention measures should be left behind
+Dialogue: 0,0:31:18.41,0:31:19.78,wipe_Wed,,0,0,0,,It's a bit too much, isn't it?
+Dialogue: 0,0:31:20.09,0:31:23.06,normal_Wed,,0,0,0,,Eh? This way?
+Dialogue: 0,0:31:23.06,0:31:24.69,normal_Wed,,0,0,0,,Super scary
+Dialogue: 0,0:31:24.86,0:31:26.36,normal_Wed,,0,0,0,,Please get on
+Dialogue: 0,0:31:26.36,0:31:28.53,normal_Wed,,0,0,0,,Please note the steps
+Dialogue: 0,0:31:28.01,0:31:29.00,wipe_Wed,,0,0,0,,So kind
+Dialogue: 0,0:31:29.00,0:31:33.27,normal_Wed,,0,0,0,,After obtaining their consent they are gently guided to the car
+Dialogue: 0,0:31:30.52,0:31:32.72,wipe_Wed,,0,0,0,,Has to be done this way
+Dialogue: 0,0:31:33.47,0:31:35.31,normal_Wed,,0,0,0,,Just the two of us?
+Dialogue: 0,0:31:35.31,0:31:37.54,normal_Wed,,0,0,0,,I appreciate the opportunity but it's scary
+Dialogue: 0,0:31:37.54,0:31:41.38,normal_Wed,,0,0,0,,You know, after being on the show last year
+Dialogue: 0,0:31:41.38,0:31:43.65,normal_Wed,,0,0,0,,We haven't been on any other show
+Dialogue: 0,0:31:43.91,0:31:46.45,normal_Wed,,0,0,0,,Well, it's certainly good that someone wants to use us
+Dialogue: 0,0:31:46.45,0:31:49.05,normal_Wed,,0,0,0,,It's just being locked for this show...
+Dialogue: 0,0:31:49.64,0:31:52.82,normal_Wed,,0,0,0,,As they said, a year ago
+Dialogue: 0,0:31:52.82,0:31:56.96,normal_Wed,,0,0,0,,The duo were also locked up for work
+Dialogue: 0,0:31:56.96,0:32:01.59,normal_Wed,,0,0,0,,Happy New Year! Congratulations on the New Year!
+Dialogue: 0,0:32:01.59,0:32:06.96,normal_Wed,,0,0,0,,These 43 and 48-year-old professional confinement entertainers
+Dialogue: 0,0:32:08.45,0:32:10.38,normal_Wed,,0,0,0,,Travel for 5 hours
+Dialogue: 0,0:32:10.88,0:32:12.09,wipe_Wed,,0,0,0,,It's quite far
+Dialogue: 0,0:32:13.17,0:32:14.91,wipe_Wed,,0,0,0,,Why is it always 5 hours?
+Dialogue: 0,0:32:11.61,0:32:16.51,normal_Wed,,0,0,0,,It's been a long time, where are you taking me to?
+Dialogue: 0,0:32:17.58,0:32:21.23,normal_Wed,,0,0,0,,They eventually reach a certain building in a certain place
+Dialogue: 0,0:32:24.69,0:32:27.06,normal_Wed,,0,0,0,,Ah, ah, it's indoors
+Dialogue: 0,0:32:27.46,0:32:29.69,normal_Wed,,0,0,0,,So warm
+Dialogue: 0,0:32:30.00,0:32:31.52,wipe_Wed,,0,0,0,,Warm at least
+Dialogue: 0,0:32:30.38,0:32:34.20,normal_Wed,,0,0,0,,All clothes and personal belongings will be confiscated at this time
+Dialogue: 0,0:32:35.66,0:32:38.34,normal_Wed,,0,0,0,,And they change into plain clothes
+Dialogue: 0,0:32:37.49,0:32:38.92,wipe_Wed,,0,0,0,,Still haven't figured out whats happening
+Dialogue: 0,0:32:40.06,0:32:41.10,normal_Wed,,0,0,0,,Then
+Dialogue: 0,0:32:42.31,0:32:45.74,normal_Wed,,0,0,0,,Can this be taken off? Eye patch
+Dialogue: 0,0:32:46.04,0:32:47.28,normal_Wed,,0,0,0,,Won't answer us?
+Dialogue: 0,0:32:47.28,0:32:48.24,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:32:48.38,0:32:50.11,normal_Wed,,0,0,0,,Take it off
+Dialogue: 0,0:32:50.11,0:32:54.32,normal_Wed,,0,0,0,,Okay, take it off. \N -Blinding!
+Dialogue: 0,0:32:54.32,0:32:57.25,normal_Wed,,0,0,0,,Oh, oh, oh. \N -What is this place?
+Dialogue: 0,0:32:57.25,0:32:59.09,normal_Wed,,0,0,0,,Quite spacious
+Dialogue: 0,0:32:59.59,0:33:02.69,normal_Wed,,0,0,0,,What is this place?\N  -What's the room for?
+Dialogue: 0,0:33:02.69,0:33:03.26,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:33:03.39,0:33:06.20,normal_Wed,,0,0,0,,Can't start without reading this first, right?
+Dialogue: 0,0:33:06.41,0:33:24.31,note_Wed,,0,0,0,,From now on, you will use the "Today's lucky item" horoscope published in the morning horoscope broadcast by each TV station to escape from this secret room and return to Yoshimoto headquarters
+Dialogue: 0,0:33:20.07,0:33:21.79,wipe_Wed,,0,0,0,,Have to go back there?
+Dialogue: 0,0:33:21.38,0:33:24.31,normal_Wed,,0,0,0,,Yoshimoto headquarters? By ourselves?
+Dialogue: 0,0:33:22.63,0:33:24.28,wipe_Wed,,0,0,0,,More than just escaping from the room!
+Dialogue: 0,0:33:24.48,0:33:26.98,normal_Wed,,0,0,0,,Eh? How far have we travelled?
+Dialogue: 0,0:33:27.55,0:33:35.63,note_Wed,,0,0,0,,The earliest broadcast of horoscopes is 4:25 a.m. on TBS HAYADOKI, \NGood luck!
+Dialogue: 0,0:33:31.31,0:33:33.17,wipe_Wed,,0,0,0,,Too early
+Dialogue: 0,0:33:33.91,0:33:35.32,wipe_Wed,,0,0,0,,Horoscope program, right?
+Dialogue: 0,0:33:35.86,0:33:38.60,normal_Wed,,0,0,0,,So cruel? This program
+Dialogue: 0,0:33:38.15,0:33:39.04,wipe_Wed,,0,0,0,,It's cruel
+Dialogue: 0,0:33:39.04,0:33:44.06,normal_Wed,,0,0,0,,So, this time, the two were challenged to escape from the secret life via the use of lucky items
+Dialogue: 0,0:33:45.80,0:33:51.07,normal_Wed,,0,0,0,,In the horoscope segment of various programs
+Dialogue: 0,0:33:51.47,0:33:55.28,normal_Wed,,0,0,0,,The lucky items stated in each will be provided
+Dialogue: 0,0:33:56.02,0:34:00.79,normal_Wed,,0,0,0,,They will try to use these items to escape from this secret room
+Dialogue: 0,0:34:01.48,0:34:04.82,normal_Wed,,0,0,0,,Its closed...
+Dialogue: 0,0:34:04.82,0:34:07.86,normal_Wed,,0,0,0,,You see, this is a lock or something here, a padlock
+Dialogue: 0,0:34:07.86,0:34:09.26,normal_Wed,,0,0,0,,Ah there is
+Dialogue: 0,0:34:09.76,0:34:12.80,normal_Wed,,0,0,0,,Here's also locked
+Dialogue: 0,0:34:12.80,0:34:15.50,normal_Wed,,0,0,0,,Two locks.  \N-This is the second lock
+Dialogue: 0,0:34:16.02,0:34:20.32,normal_Wed,,0,0,0,,Yes, this door has two locks
+Dialogue: 0,0:34:22.24,0:34:25.37,normal_Wed,,0,0,0,,So, the location of the key is...
+Dialogue: 0,0:34:27.08,0:34:30.15,normal_Wed,,0,0,0,,Ah, I found it
+Dialogue: 0,0:34:30.15,0:34:32.62,normal_Wed,,0,0,0,,Wow, what is this thing?
+Dialogue: 0,0:34:32.62,0:34:33.52,normal_Wed,,0,0,0,,There's a key
+Dialogue: 0,0:34:33.78,0:34:36.59,normal_Wed,,0,0,0,,The key? The one hanging
+Dialogue: 0,0:34:37.19,0:34:38.49,normal_Wed,,0,0,0,,It's so high!
+Dialogue: 0,0:34:38.49,0:34:42.46,normal_Wed,,0,0,0,,If the lucky item isn't high pruning shears we're done for
+Dialogue: 0,0:34:42.83,0:34:46.00,normal_Wed,,0,0,0,,A ladder or something will definitely not be in the lucky item list
+Dialogue: 0,0:34:46.80,0:34:49.56,normal_Wed,,0,0,0,,A ceiling height of 4.5 meters
+Dialogue: 0,0:34:48.85,0:34:49.56,wipe_Wed,,0,0,0,,Too high!
+Dialogue: 0,0:34:50.08,0:34:51.29,wipe_Wed,,0,0,0,,A serious escape room
+Dialogue: 0,0:34:50.88,0:34:53.43,normal_Wed,,0,0,0,,Also, another key is hidden elsewhere
+Dialogue: 0,0:34:54.74,0:34:58.61,normal_Wed,,0,0,0,,I feel like I can hear something
+Dialogue: 0,0:34:58.61,0:35:00.34,normal_Wed,,0,0,0,,Is there something in there?
+Dialogue: 0,0:35:02.31,0:35:04.05,normal_Wed,,0,0,0,,Eh? Eh? Eh?
+Dialogue: 0,0:35:04.05,0:35:06.52,normal_Wed,,0,0,0,,{\c&HFFEC3E&\1a&H72&\3c&H000000&\3a&H72&}What's down there?
+Dialogue: 0,0:35:04.21,0:35:06.12,wipe_Wed,,0,0,0,,Scary. Scary. \N -Is there a living thing?
+Dialogue: 0,0:35:06.52,0:35:07.55,normal_Wed,,0,0,0,,What's this?
+Dialogue: 0,0:35:07.55,0:35:09.12,normal_Wed,,0,0,0,,This is a rat, right?
+Dialogue: 0,0:35:09.12,0:35:10.39,normal_Wed,,0,0,0,,A rat?
+Dialogue: 0,0:35:12.02,0:35:12.89,normal_Wed,,0,0,0,,So big, so big, so big, so scared, so scared, so scared
+Dialogue: 0,0:35:12.89,0:35:15.19,normal_Wed,,0,0,0,,What?
+Dialogue: 0,0:35:15.19,0:35:18.03,normal_Wed,,0,0,0,,Look. Side. Side. Side of the neck
+Dialogue: 0,0:35:18.03,0:35:19.03,normal_Wed,,0,0,0,,There's a key!
+Dialogue: 0,0:35:19.03,0:35:20.80,normal_Wed,,0,0,0,,The key is on it!
+Dialogue: 0,0:35:21.66,0:35:22.83,normal_Wed,,0,0,0,,The key to the other lock
+Dialogue: 0,0:35:22.83,0:35:24.23,normal_Wed,,0,0,0,,The key to the padlock
+Dialogue: 0,0:35:24.23,0:35:25.97,normal_Wed,,0,0,0,,Ah so it is so it is
+Dialogue: 0,0:35:26.04,0:35:26.80,normal_Wed,,0,0,0,,What a joke
+Dialogue: 0,0:35:26.80,0:35:28.94,normal_Wed,,0,0,0,,The key to this lock is hanging around the neck of the mouse, right?
+Dialogue: 0,0:35:28.94,0:35:30.80,wipe_Wed,,0,0,0,,I can't believe its on a rat
+Dialogue: 0,0:35:29.52,0:35:34.66,normal_Wed,,0,0,0,,The mouse inside has the second key hanging around his neck
+Dialogue: 0,0:35:36.01,0:35:38.05,normal_Wed,,0,0,0,,Hmm? Where did it go?
+Dialogue: 0,0:35:38.05,0:35:39.85,normal_Wed,,0,0,0,,So far inside
+Dialogue: 0,0:35:37.36,0:35:40.76,wipe_Wed,,0,0,0,,Too tough to catch, super fast
+Dialogue: 0,0:35:39.85,0:35:41.95,normal_Wed,,0,0,0,,Did it go in?
+Dialogue: 0,0:35:42.99,0:35:44.09,normal_Wed,,0,0,0,,Come here
+Dialogue: 0,0:35:44.09,0:35:47.22,normal_Wed,,0,0,0,,It ran to the farthest point
+Dialogue: 0,0:35:47.22,0:35:48.56,normal_Wed,,0,0,0,,Not coming out?
+Dialogue: 0,0:35:48.56,0:35:50.63,normal_Wed,,0,0,0,,We can't wait for it to come out
+Dialogue: 0,0:35:50.63,0:35:52.66,normal_Wed,,0,0,0,,Rats can go anywhere they want
+Dialogue: 0,0:35:52.66,0:35:54.83,normal_Wed,,0,0,0,,If it goes in a crack somewhere its over
+Dialogue: 0,0:35:54.83,0:35:56.33,normal_Wed,,0,0,0,,It'll go outside?
+Dialogue: 0,0:35:56.33,0:35:58.74,normal_Wed,,0,0,0,,We'll never get out for the rest of our lives. \N -Yeah
+Dialogue: 0,0:35:59.49,0:36:05.53,normal_Wed,,0,0,0,,Can the two men get the two keys and escape from the room?
+Dialogue: 0,0:36:05.94,0:36:06.90,normal_Wed,,0,0,0,,Also
+Dialogue: 0,0:36:07.23,0:36:10.18,normal_Wed,,0,0,0,,How do we get back?
+Dialogue: 0,0:36:10.35,0:36:12.65,normal_Wed,,0,0,0,,We don't even know where we are
+Dialogue: 0,0:36:12.95,0:36:15.08,normal_Wed,,0,0,0,,There was no sound outside
+Dialogue: 0,0:36:15.08,0:36:19.56,wipe_Wed,,0,0,0,,This is interesting. More interesting than I thought
+Dialogue: 0,0:36:15.25,0:36:20.46,normal_Wed,,0,0,0,,But it's warmer than last time. \N -It's warm
+Dialogue: 0,0:36:20.72,0:36:23.44,normal_Wed,,0,0,0,,Isn't this a daily conversation in the sauna?
+Dialogue: 0,0:36:23.99,0:36:27.93,normal_Wed,,0,0,0,,There is another reason for setting to be purposely warm
+Dialogue: 0,0:36:28.55,0:36:29.37,normal_Wed,,0,0,0,,Because
+Dialogue: 0,0:36:32.53,0:36:33.45,wipe_Wed,,0,0,0,,Where is this!?
+Dialogue: 0,0:36:33.75,0:36:40.36,normal_Wed,,0,0,0,,They are in a small, isolated house in a snowy field somewhere in Nagano Prefecture
+Dialogue: 0,0:36:38.47,0:36:42.45,wipe_Wed,,0,0,0,,Wont they be uncomfortable when they get out?
+Dialogue: 0,0:36:41.81,0:36:44.35,normal_Wed,,0,0,0,,Please return to Yoshimoto Headquarters
+Dialogue: 0,0:36:44.88,0:36:53.68,normal_Wed,,0,0,0,,With the luck of the lucky items, can they return to distant Tokyo from this snowy land?
+Dialogue: 0,0:36:55.06,0:36:56.86,normal_Wed,,0,0,0,,So hot
+Dialogue: 0,0:36:56.16,0:36:57.10,wipe_Wed,,0,0,0,,Looks hot
+Dialogue: 0,0:36:57.10,0:37:00.05,normal_Wed,,0,0,0,,At this point, late at night, 1:30 am
+Dialogue: 0,0:37:00.45,0:37:02.80,wipe_Wed,,0,0,0,,Nothing to do
+Dialogue: 0,0:37:00.45,0:37:04.37,normal_Wed,,0,0,0,,To prepare for tomorrow morning's divination session, they go to sleep
+Dialogue: 0,0:37:04.37,0:37:06.07,normal_Wed,,0,0,0,,Lying down I can still see the key
+Dialogue: 0,0:37:06.07,0:37:07.88,normal_Wed,,0,0,0,,I'm aiming for that key
+Dialogue: 0,0:37:07.88,0:37:11.84,normal_Wed,,0,0,0,,I want to smoke. \N -I want to have a puff
+Dialogue: 0,0:37:10.08,0:37:11.84,wipe_Wed,,0,0,0,,Said he wanted to smoke
+Dialogue: 0,0:37:11.84,0:37:14.59,wipe_Wed,,0,0,0,,Understandable
+Dialogue: 0,0:37:12.70,0:37:17.33,normal_Wed,,0,0,0,,Lucky item escape room life - Day 1
+Dialogue: 0,0:37:14.59,0:37:16.85,wipe_Wed,,0,0,0,,Quit smoking!
+Dialogue: 0,0:37:16.85,0:37:18.40,wipe_Wed,,0,0,0,,Wow the snow is flying!
+Dialogue: 0,0:37:20.48,0:37:21.35,wipe_Wed,,0,0,0,,Here we go
+Dialogue: 0,0:37:21.77,0:37:22.65,wipe_Wed,,0,0,0,,Turn on the TV
+Dialogue: 0,0:37:22.65,0:37:23.74,wipe_Wed,,0,0,0,,Watch TV
+Dialogue: 0,0:37:24.58,0:37:28.29,normal_Wed,,0,0,0,,Okay, 4:20
+Dialogue: 0,0:37:25.43,0:37:26.84,wipe_Wed,,0,0,0,,Get it in one
+Dialogue: 0,0:37:28.79,0:37:34.66,normal_Wed,,0,0,0,,This early in the morning there are horoscope programs...
+Dialogue: 0,0:37:35.21,0:37:41.36,normal_Wed,,0,0,0,,First of all, they watched "HAYADOKI!", the first TBS show with a horoscope segment
+Dialogue: 0,0:37:41.36,0:37:45.93,normal_Wed,,0,0,0,,And this time, the content of the broadcast was sent to the room
+Dialogue: 0,0:37:46.99,0:37:51.34,normal_Wed,,0,0,0,,The two people's zodiac signs are Aquarius and Virgo, respectively, what are the results?
+Dialogue: 0,0:37:52.55,0:37:54.82,normal_Wed,,0,0,0,,Originally it was going to be you two
+Dialogue: 0,0:37:55.72,0:37:56.82,normal_Wed,,0,0,0,,So close!
+Dialogue: 0,0:37:58.45,0:38:00.56,normal_Wed,,0,0,0,,There was a slight overlap with their schedules
+Dialogue: 0,0:38:00.56,0:38:03.96,normal_Wed,,0,0,0,,Great, thank god for the theatre
+Dialogue: 0,0:38:06.03,0:38:09.83,normal_Wed,,0,0,0,,Ah, here we go.\N  -Ok
+Dialogue: 0,0:38:08.59,0:38:10.47,wipe_Wed,,0,0,0,,Who looks forward to this so much?
+Dialogue: 0,0:38:11.12,0:38:12.44,wipe_Wed,,0,0,0,,Horoscopes, right?
+Dialogue: 0,0:38:09.83,0:38:12.14,normal_Wed,,0,0,0,,Opening animation
+Dialogue: 0,0:38:14.37,0:38:17.23,wipe_Wed,,0,0,0,,Not so quick
+Dialogue: 0,0:38:14.77,0:38:17.57,normal_Wed,,0,0,0,,What is this?
+Dialogue: 0,0:38:17.57,0:38:20.44,normal_Wed,,0,0,0,,How long will it take for the horoscope part to begin
+Dialogue: 0,0:38:19.12,0:38:22.28,wipe_Wed,,0,0,0,,In the second part, right?
+Dialogue: 0,0:38:22.28,0:38:23.11,wipe_Wed,,0,0,0,,True
+Dialogue: 0,0:38:20.44,0:38:22.71,normal_Wed,,0,0,0,,Later on, right?\N  -Yeah
+Dialogue: 0,0:38:23.17,0:38:26.89,normal_Wed,,0,0,0,,They waited 15 minutes for the horoscope session
+Dialogue: 0,0:38:27.93,0:38:29.50,wipe_Wed,,0,0,0,,Here it comes
+Dialogue: 0,0:38:29.50,0:38:31.29,wipe_Wed,,0,0,0,,So cute
+Dialogue: 0,0:38:30.99,0:38:33.09,normal_Wed,,0,0,0,,Horoscope horoscope!
+Dialogue: 0,0:38:33.09,0:38:35.43,normal_Wed,,0,0,0,,Ah, this?
+Dialogue: 0,0:38:32.19,0:38:34.78,wipe_Wed,,0,0,0,,{\pos(495,800)}The best fortune today is
+Dialogue: 0,0:38:35.43,0:38:37.03,normal_Wed,,0,0,0,,It starts at 4:40
+Dialogue: 0,0:38:38.16,0:38:39.60,normal_Wed,,0,0,0,,Let's record it
+Dialogue: 0,0:38:38.68,0:38:39.50,wipe_Wed,,0,0,0,,{\pos(495,800)}Gemini
+Dialogue: 0,0:38:42.12,0:38:44.10,wipe_Wed,,0,0,0,,{\pos(495,800)}Today you can play to your strengths
+Dialogue: 0,0:38:44.60,0:38:46.77,normal_Wed,,0,0,0,,Wait, this one
+Dialogue: 0,0:38:44.10,0:38:50.18,wipe_Wed,,0,0,0,,{\pos(495,800)}Language skills and communication skills become stronger, your evaluation will also improve
+Dialogue: 0,0:38:47.97,0:38:50.51,normal_Wed,,0,0,0,,The lucky item is a glow stick
+Dialogue: 0,0:38:50.18,0:38:52.20,wipe_Wed,,0,0,0,,{\pos(495,800)}Lucky color is yellow-green
+Dialogue: 0,0:38:52.44,0:38:54.38,normal_Wed,,0,0,0,,So that's it. Lucky items are coming
+Dialogue: 0,0:38:54.38,0:38:57.11,normal_Wed,,0,0,0,,Ah, look at your own look at your own \N -Aquarius
+Dialogue: 0,0:38:57.11,0:38:58.14,normal_Wed,,0,0,0,,Sweater
+Dialogue: 0,0:38:58.88,0:39:01.35,normal_Wed,,0,0,0,,The sweater is good to get
+Dialogue: 0,0:39:02.00,0:39:03.88,wipe_Wed,,0,0,0,,Useful for the snow
+Dialogue: 0,0:39:03.88,0:39:06.06,normal_Wed,,0,0,0,,These two people on the TV are also Virgo
+Dialogue: 0,0:39:06.06,0:39:11.28,wipe_Wed,,0,0,0,,History books, do not need this
+Dialogue: 0,0:39:11.02,0:39:12.89,normal_Wed,,0,0,0,,History books \N -History books?
+Dialogue: 0,0:39:14.07,0:39:16.88,wipe_Wed,,0,0,0,,The following lucky item "priority seat" is also something
+Dialogue: 0,0:39:16.88,0:39:18.38,wipe_Wed,,0,0,0,,What does "priority seat" mean?
+Dialogue: 0,0:39:15.47,0:39:17.07,normal_Wed,,0,0,0,,That's the end of it?
+Dialogue: 0,0:39:18.63,0:39:20.87,normal_Wed,,0,0,0,,Eh, wait, I want to see the other star signs
+Dialogue: 0,0:39:21.14,0:39:22.64,normal_Wed,,0,0,0,,Check it out!
+Dialogue: 0,0:39:22.64,0:39:24.71,normal_Wed,,0,0,0,,There is also a "flower painting"
+Dialogue: 0,0:39:24.71,0:39:25.68,normal_Wed,,0,0,0,,This is too much
+Dialogue: 0,0:39:25.68,0:39:28.71,normal_Wed,,0,0,0,,What can we do with this sort of thing?
+Dialogue: 0,0:39:31.51,0:39:34.25,normal_Wed,,0,0,0,,This part is unexpectedly fast \N -It's so short!
+Dialogue: 0,0:39:34.25,0:39:37.82,normal_Wed,,0,0,0,,Couldn't see what the others were
+Dialogue: 0,0:39:36.18,0:39:37.82,wipe_Wed,,0,0,0,,{\pos(495,800)}Next is the weather forecast
+Dialogue: 0,0:39:38.02,0:39:42.86,normal_Wed,,0,0,0,,Lazy egg horoscope? My first time
+Dialogue: 3,0:39:43.44,0:39:48.98,normal_Wed,,0,0,0,,The lucky items stated on "HAYADOKI!" on this day are as follows
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(678,169.333,1099,237.333)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 245 l 1099 245 1099 301 1094 312 678 313)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 317 l 1093 317 b 1091 323 1087 323 1088 338 1088 352 1088 362 1090 372 l 1093 382 1096 387 678 385)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 391 l 1099 391 1099 459 678 459)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 465 l 1099 465 1099 533 678 533)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 538 l 1099 538 1099 606 678 606)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 612 l 1099 612 1099 680 678 680)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 685 l 1099 685 1099 753 678 753)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 759 l 1099 759 1099 822 1096 827 678 827)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 834 l 1092 834 b 1080 869 1090 889 1094 903 l 678 902)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 908 l 1099 908 1099 976 678 976)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 1,0:39:42.86,0:39:58.74,square2,,0,0,0,,{\p1\\pos(726.6,1070.134)\clip(m 678 980 l 1099 980 1099 1048 678 1048)}m 0 0 l 0 927 l 1115 927 l 1115 0
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,206)}Glow Stick
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,280)}Badges
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,354)}Sweater
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,426)}History book
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,502)}Fashion Magazine
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,576)}Belt
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,650)}Video App
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,722)}Coaster
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,800)}Forks
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,870)}History Books
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,946)}Priority Seats
+Dialogue: 2,0:39:42.86,0:39:58.74,special_Wed_2_X,,0,0,0,,{\pos(884.5,1016)}Flower Painting
+Dialogue: 3,0:39:45.93,0:39:47.82,wipe_Wed,,0,0,0,,Not great
+Dialogue: 3,0:39:47.82,0:39:50.60,wipe_Wed,,0,0,0,,Yes, the useful ones seem to be...
+Dialogue: 3,0:39:49.52,0:39:54.00,normal_Wed,,0,0,0,,Although there are no items useful for obtaining the two keys
+Dialogue: 3,0:39:54.00,0:39:58.08,normal_Wed,,0,0,0,,The two tentatively obtained a sweater and history book first
+Dialogue: 3,0:39:57.70,0:39:59.25,wipe_Wed,,0,0,0,,History book is useless
+Dialogue: 0,0:39:59.21,0:40:02.11,normal_Wed,,0,0,0,,History books are really not needed, right?
+Dialogue: 0,0:40:01.72,0:40:02.35,wipe_Wed,,0,0,0,,The most useless
+Dialogue: 0,0:40:02.94,0:40:06.01,normal_Wed,,0,0,0,,They then looked to other station broadcasts
+Dialogue: 0,0:40:06.01,0:40:06.95,normal_Wed,,0,0,0,,So
+Dialogue: 0,0:40:06.95,0:40:09.15,normal_Wed,,0,0,0,,See if it's on Asahi Channel?
+Dialogue: 0,0:40:09.25,0:40:10.49,normal_Wed,,0,0,0,,Oh, here we go, here we go
+Dialogue: 0,0:40:10.49,0:40:13.49,normal_Wed,,0,0,0,,Oh, "Gogo Horoscope" \N -"Gogo Horoscope"
+Dialogue: 0,0:40:13.98,0:40:18.37,normal_Wed,,0,0,0,,Gogo Star Horoscope on Asahi TV's "good! morning"
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,231.677)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,297.277)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,426.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,490.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,554.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,620.477)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,684.477)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,750.077)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,879.677)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:13.49,0:40:36.28,square1,,0,0,0,,{\p1\\pos(599.057,945.277)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,206)}Ship models
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,270)}Novel
+Dialogue: 3,0:40:20.30,0:40:20.33,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)\iclip(478,300,741,346.667)}Folded leaflets
+Dialogue: 1,0:40:20.30,0:40:20.33,square1,,0,0,0,,{\p1\pos(599,362)\iclip(m 479 300 l 742 300 741 346 478 346)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:20.33,0:40:20.36,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)\iclip(476.4,300.8,742.8,334.4)}Folded leaflets
+Dialogue: 1,0:40:20.33,0:40:20.36,square1,,0,0,0,,{\p1\pos(604,358)\iclip(m 478 300 l 741 300 741 333 478 333)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:20.36,0:40:20.40,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)\iclip(477.6,297.6,740.4,323.2)}Folded leaflets
+Dialogue: 1,0:40:20.36,0:40:20.40,square1,,0,0,0,,{\p1\pos(604,358)\iclip(m 478 300 l 741 300 741 322 478 322)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:20.40,0:40:20.43,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)\iclip(473,296,748,310.667)}Folded leaflets
+Dialogue: 1,0:40:20.40,0:40:20.43,square1,,0,0,0,,{\p1\pos(604,358)\iclip(m 478 300 l 741 300 741 309 478 309)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:20.43,0:40:20.46,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)}Folded leaflets
+Dialogue: 1,0:40:20.43,0:40:36.28,square1,,0,0,0,,{\p1\pos(604,362)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:20.46,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)}Folded leaflets
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,400)}Reference Books
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)}Home Theater
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,530)}Poetry Collection
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,592)}One Stroke Paper
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,660)}Bulbous Root
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,722)}Musical Greeting Card
+Dialogue: 3,0:40:24.83,0:40:24.87,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,790)\iclip(452.4,755.2,756,803.2)}Rose Fragrance
+Dialogue: 1,0:40:24.83,0:40:24.87,square1,,0,0,0,,{\p1\pos(607.7,817.2)\iclip(477.429,754.286,742.286,802.286)}m 0 0 l 0 46 l 282 46 l 282 0
+Dialogue: 3,0:40:24.87,0:40:24.90,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,790)\iclip(450,753.6,762,790.4)}Rose Fragrance
+Dialogue: 1,0:40:24.87,0:40:24.90,square1,,0,0,0,,{\p1\pos(607.7,817.2)\iclip(m 477 754 l 742 754 742 790 477 790)}m 0 0 l 0 46 l 282 46 l 282 0
+Dialogue: 3,0:40:24.90,0:40:24.93,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,790)\iclip(453.6,753.6,753.6,779.2)}Rose Fragrance
+Dialogue: 1,0:40:24.90,0:40:24.93,square1,,0,0,0,,{\p1\pos(607.7,817.2)\iclip(m 477 754 l 742 754 742 778 477 778)}m 0 0 l 0 46 l 282 46 l 282 0
+Dialogue: 3,0:40:24.93,0:40:24.97,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,790)\iclip(468,750.4,759.6,768)}Rose Fragrance
+Dialogue: 1,0:40:24.93,0:40:24.97,square1,,0,0,0,,{\p1\pos(607.7,817.2)\iclip(m 477 754 l 742 754 742 766 477 766)}m 0 0 l 0 46 l 282 46 l 282 0
+Dialogue: 3,0:40:24.97,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,790)}Rose Fragrance
+Dialogue: 1,0:40:24.97,0:40:36.28,square1,,0,0,0,,{\p1\pos(607.7,817.2)}m 0 0 l 0 46 l 282 46 l 282 0
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,852)}Glow Stick
+Dialogue: 3,0:40:13.49,0:40:36.28,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)}Sound Mix
+Dialogue: 0,0:40:19.30,0:40:20.90,normal_Wed,,0,0,0,,Oh here comes Aquarius
+Dialogue: 0,0:40:20.90,0:40:23.77,normal_Wed,,0,0,0,,What are "folded leaflets"?
+Dialogue: 0,0:40:22.50,0:40:23.51,wipe_Wed,,0,0,0,,Folded leaflets
+Dialogue: 0,0:40:23.77,0:40:25.37,normal_Wed,,0,0,0,,10th is the same as just now
+Dialogue: 0,0:40:25.37,0:40:29.31,normal_Wed,,0,0,0,,What? What the hell is "rose fragrance"?
+Dialogue: 0,0:40:28.24,0:40:30.02,wipe_Wed,,0,0,0,,It's not even an item anymore
+Dialogue: 0,0:40:29.31,0:40:30.67,normal_Wed,,0,0,0,,What? The smell?
+Dialogue: 0,0:40:31.22,0:40:33.01,wipe_Wed,,0,0,0,,Smells aren't needed
+Dialogue: 0,0:40:31.97,0:40:34.28,normal_Wed,,0,0,0,,Not at all!
+Dialogue: 0,0:40:34.77,0:40:35.71,normal_Wed,,0,0,0,,After that
+Dialogue: 0,0:40:36.06,0:40:37.91,wipe_Wed,,0,0,0,,Will these things work?
+Dialogue: 4,0:40:36.65,0:40:38.51,normal_Wed,,0,0,0,,Oh, it's airing quickly, this is dangerous
+Dialogue: 4,0:40:38.59,0:40:40.14,wipe_Wed,,0,0,0,,Nervous this time
+Dialogue: 4,0:40:38.51,0:40:40.28,normal_Wed,,0,0,0,,Oh wow, wait, that was close, that was close
+Dialogue: 4,0:40:41.20,0:40:46.03,normal_Wed,,0,0,0,,Fuji Channel's "Alarm TV" started almost simultaneously with Asahi Channel
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,206)}French Bread
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,270)}Stacked Rings
+Dialogue: 3,0:40:40.28,0:40:40.32,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,336)}Tomb
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,402)}Honey Beverages
+Dialogue: 3,0:40:51.29,0:40:51.33,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)\iclip(449.143,430.857,757.714,477.714)}Latest Hot App
+Dialogue: 1,0:40:51.29,0:40:51.33,square1,,0,0,0,,{\p1\pos(604,490.667)\iclip(449.143,430.857,757.714,477.714)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:51.33,0:40:51.36,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)\iclip(m 449 430 l 757 430 757 465 449 465)}Latest Hot App
+Dialogue: 1,0:40:51.33,0:40:51.36,square1,,0,0,0,,{\p1\pos(604,490.667)\iclip(m 449 430 l 757 430 757 465 449 465)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:51.36,0:40:51.39,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)\iclip(m 449 430 l 757 430 757 451 449 451)}Latest Hot App
+Dialogue: 1,0:40:51.36,0:40:51.39,square1,,0,0,0,,{\p1\pos(604,490.667)\iclip(m 449 430 l 757 430 757 451 449 451)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:51.39,0:40:51.43,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)\iclip(m 449 430 l 757 430 757 441 449 441)}Latest Hot App
+Dialogue: 1,0:40:51.39,0:40:51.43,square1,,0,0,0,,{\p1\pos(604,490.667)\iclip(m 449 430 l 757 430 757 441 449 441)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:51.43,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,464)}Latest Hot App
+Dialogue: 1,0:40:51.43,0:41:01.77,square1,,0,0,0,,{\p1\pos(604,490.667)}m 0 0 l 0 43 l 282 43 l 282 0
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,530)}Winter Delicacies
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,592)}Bargains
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,660)}Soy Milk Latte
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,722)}Alleyway Shop
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,788)}Chocolate Board
+Dialogue: 3,0:40:40.28,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,856)}T-junction
+Dialogue: 3,0:40:57.93,0:40:57.97,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)\iclip(450,883.2,759.6,931.2)}New Products Page
+Dialogue: 1,0:40:57.93,0:40:57.97,square1,,0,0,0,,{\p1\pos(605.2,943)\iclip(450,883.2,759.6,931.2)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:57.97,0:40:58.00,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)\iclip(m 450 883 l 759 883 759 918 450 918)}New Products Page
+Dialogue: 1,0:40:57.97,0:40:58.00,square1,,0,0,0,,{\p1\pos(605.2,943)\iclip(m 450 883 l 759 883 759 918 450 918)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:58.00,0:40:58.03,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)\iclip(m 450 883 l 759 883 759 906 450 906)}New Products Page
+Dialogue: 1,0:40:58.00,0:40:58.03,square1,,0,0,0,,{\p1\pos(605.2,943)\iclip(m 450 883 l 759 883 759 906 450 906)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:58.03,0:40:58.07,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)\iclip(m 450 883 l 759 883 757 896 448 896)}New Products Page
+Dialogue: 1,0:40:58.03,0:40:58.07,square1,,0,0,0,,{\p1\pos(605.2,943)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 3,0:40:58.07,0:41:01.77,special_Wed_2_X,,0,0,0,,{\fs43\pos(604,918)\iclip(m 450 883 l 759 883 757 896 448 896)}New Products Page
+Dialogue: 1,0:40:58.07,0:41:01.77,square1,,0,0,0,,{\p1\pos(605.2,943)}m 0 0 l 0 43 l 330 43 l 330 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,231.677)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,297.277)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,360.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,426.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,554.877)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,620.477)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,684.477)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,750.077)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,815.677)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 1,0:40:40.28,0:41:01.77,square1,,0,0,0,,{\p1\\pos(599.057,879.277)}m 0 0 l 0 43 l 370 43 l 370 0
+Dialogue: 4,0:40:46.03,0:40:48.72,normal_Wed,,0,0,0,,In today's ranking
+Dialogue: 4,0:40:48.72,0:40:51.76,normal_Wed,,0,0,0,,Aquarius is fifth place\N  -Aquarius fifth place, its different
+Dialogue: 4,0:40:52.05,0:40:54.91,normal_Wed,,0,0,0,,Latest Hot App, what?
+Dialogue: 4,0:40:55.40,0:40:57.23,normal_Wed,,0,0,0,,Ah! I came in last!
+Dialogue: 4,0:40:57.23,0:41:00.44,normal_Wed,,0,0,0,,Virgo is new products page
+Dialogue: 4,0:41:00.44,0:41:01.77,normal_Wed,,0,0,0,,What does that mean?
+Dialogue: 4,0:41:01.77,0:41:04.17,normal_Wed,,0,0,0,,To increase your luck: a sip of water
+Dialogue: 4,0:41:05.07,0:41:10.35,normal_Wed,,0,0,0,,What about "a sip of water"? We drink it every day!
+Dialogue: 0,0:41:10.68,0:41:13.95,normal_Wed,,0,0,0,,So far there are no items that can be used at all
+Dialogue: 0,0:41:12.72,0:41:14.68,wipe_Wed,,0,0,0,,Can they do it?
+Dialogue: 0,0:41:15.20,0:41:16.91,wipe_Wed,,0,0,0,,The items are awful
+Dialogue: 0,0:41:14.72,0:41:17.19,normal_Wed,,0,0,0,,Okay, next is Nihon Television
+Dialogue: 0,0:41:18.22,0:41:21.62,normal_Wed,,0,0,0,,After that, they looked around for other stations to watch
+Dialogue: 0,0:41:22.07,0:41:24.56,normal_Wed,,0,0,0,,But no other lucky items were found
+Dialogue: 0,0:41:26.00,0:41:29.23,normal_Wed,,0,0,0,,Oh wow, no horoscope?
+Dialogue: 0,0:41:29.72,0:41:36.41,normal_Wed,,0,0,0,,Exactly. The only programs with lucky items are these three
+Dialogue: 0,0:41:34.20,0:41:36.41,wipe_Wed,,0,0,0,,{\pos(1250.5,250)}It's too hard. Even after watching there's nothing they can do
+Dialogue: 0,0:41:37.32,0:41:43.24,normal_Wed,,0,0,0,,Not only that, these divination sessions are all concentrated in the morning before 5:00
+Dialogue: 0,0:41:44.45,0:41:49.39,normal_Wed,,0,0,0,,4 o'clock is the most important time in our lives now
+Dialogue: 0,0:41:50.15,0:41:53.16,normal_Wed,,0,0,0,,What to do the rest of the time?
+Dialogue: 0,0:41:53.73,0:41:57.73,normal_Wed,,0,0,0,,The bored two decided to have lunch
+Dialogue: 0,0:41:53.73,0:41:55.28,wipe_Wed,,0,0,0,,Too difficult
+Dialogue: 0,0:41:55.28,0:41:57.28,wipe_Wed,,0,0,0,,At least they've got food
+Dialogue: 0,0:41:57.28,0:41:58.68,wipe_Wed,,0,0,0,,That's good
+Dialogue: 0,0:42:00.05,0:42:02.81,wipe_Wed,,0,0,0,,Its probably better than yours
+Dialogue: 0,0:42:03.82,0:42:05.04,wipe_Wed,,0,0,0,,We didn't get food
+Dialogue: 0,0:41:58.33,0:41:59.25,normal_Wed,,0,0,0,,Sleeping
+Dialogue: 0,0:42:00.07,0:42:01.58,normal_Wed,,0,0,0,,Temporary Forced Sleep
+Dialogue: 0,0:42:02.83,0:42:06.34,normal_Wed,,0,0,0,,After 1:00 p.m
+Dialogue: 3,0:42:04.10,0:42:10.27,special_Wed_2_X,,0,0,0,,{\fs68\pos(258,570)\c&HFFFFFF&\3c&H0E00E1&}Bathroom
+Dialogue: 1,0:42:04.10,0:42:10.27,square2,,0,0,0,,{\p1\\pos(259.457,667.677)\clip(179,514.667,334,614.667)\c&H0E00E1&}m 0 0 l 0 143 l 182 143 l 182 0
+Dialogue: 3,0:42:04.10,0:42:10.27,special_Wed_2_X,,0,0,0,,{\fs68\c&HFFFFFF&\3c&H0E00E1&\pos(778.5,676)}Toilet
+Dialogue: 1,0:42:04.10,0:42:10.27,square2,,0,0,0,,{\p1\\c&H0E00E1&\pos(784.457,813.677)\clip(m 687 626 l 873 626 872 722 686 722)}m 0 0 l 0 243 l 182 243 l 182 0
+Dialogue: 0,0:42:06.34,0:42:07.36,wipe_Wed,,0,0,0,,What's arrived?
+Dialogue: 0,0:42:07.36,0:42:08.37,wipe_Wed,,0,0,0,,They have a bathroom too
+Dialogue: 0,0:42:08.37,0:42:10.40,wipe_Wed,,0,0,0,,Ah so, the delivery is coming
+Dialogue: 0,0:42:10.37,0:42:14.28,normal_Wed,,0,0,0,,{\fad(0,1500)}Can I have some toilet paper?
+Dialogue: 0,0:42:14.07,0:42:15.46,wipe_Wed,,0,0,0,,Say something
+Dialogue: 0,0:42:15.46,0:42:17.30,wipe_Wed,,0,0,0,,Ah, they won't give it?
+Dialogue: 0,0:42:15.85,0:42:17.68,normal_Wed,,0,0,0,,Why?\N  -Completely ignored
+Dialogue: 0,0:42:18.88,0:42:21.70,normal_Wed,,0,0,0,,Today's lucky item delivery
+Dialogue: 0,0:42:23.63,0:42:25.28,normal_Wed,,0,0,0,,It's finally here. It's finally here
+Dialogue: 0,0:42:25.28,0:42:26.83,normal_Wed,,0,0,0,,History Books
+Dialogue: 0,0:42:27.45,0:42:29.03,normal_Wed,,0,0,0,,Sweater
+Dialogue: 0,0:42:29.35,0:42:30.01,wipe_Wed,,0,0,0,,Sweater
+Dialogue: 0,0:42:31.03,0:42:32.21,wipe_Wed,,0,0,0,,Good subdued color
+Dialogue: 0,0:42:33.55,0:42:35.05,normal_Wed,,0,0,0,,Rose Fragrance
+Dialogue: 0,0:42:37.46,0:42:39.07,normal_Wed,,0,0,0,,Folded leaflets
+Dialogue: 0,0:42:41.67,0:42:45.24,normal_Wed,,0,0,0,,What? What about that?
+Dialogue: 0,0:42:45.24,0:42:46.01,normal_Wed,,0,0,0,,What about the APP and the web thing?
+Dialogue: 0,0:42:46.01,0:42:48.64,normal_Wed,,0,0,0,,What about the stuff from Fuji Channel and the stuff from Asashi TV?
+Dialogue: 0,0:42:48.64,0:42:52.46,normal_Wed,,0,0,0,,Ones that aren't physical objects wont be delivered?
+Dialogue: 0,0:42:48.64,0:42:54.28,special_Wed_1_3,,0,0,0,,{\c&HFFFFFF&\shad4\an5\pos(720,674.667)\frx-280\t(0,160,\frx-360)}Non-physical items{\c&H0000FF&} Won't be provided
+Dialogue: 0,0:42:57.52,0:43:01.66,normal_Wed,,0,0,0,,Ah, it smells good!
+Dialogue: 0,0:43:01.66,0:43:03.16,normal_Wed,,0,0,0,,The scent of roses
+Dialogue: 0,0:43:03.59,0:43:05.39,normal_Wed,,0,0,0,,Life has become leisurely with this
+Dialogue: 0,0:43:05.39,0:43:07.70,normal_Wed,,0,0,0,,But it's not necessary
+Dialogue: 0,0:43:07.70,0:43:10.33,normal_Wed,,0,0,0,,This is completely useless for escaping
+Dialogue: 0,0:43:10.78,0:43:14.92,normal_Wed,,0,0,0,,However, such useless items this time can
+Dialogue: 0,0:43:15.97,0:43:19.57,normal_Wed,,0,0,0,,Be sold
+Dialogue: 0,0:43:21.19,0:43:22.18,normal_Wed,,0,0,0,,I see
+Dialogue: 0,0:43:23.68,0:43:28.32,normal_Wed,,0,0,0,,Unwanted items can be sold at market price
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,317)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,408)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,500)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,591.4)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,959)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,683)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,776)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,868)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(185,1052)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,317)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,408)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,500)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,591.4)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,959)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,683)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,776)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,868)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(641,1052)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,317)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,408)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,500)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,591.4)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,959)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,683)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,776)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,868)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 1,0:43:29.19,0:43:40.66,square3,,0,0,0,,{\p1\pos(1098.5,1052)}m 0 0 l 298 0 298 65 0 65
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,278)}Paper towels
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,372)}Cups
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,462)}Hand towel
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,552)}Underwear
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,648)}Sweatshirt (set)
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,740)}Potato Chips
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,832)}Tea
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,922)}Cigarette (one)
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(53.5,1015)}Lucky Chance Small
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,280)}Wipes
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,374)}Toothbrush set
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,464)}Bath Towel
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,554)}Socks
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,648)}Chocolate
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,742)}Peanut Rice Fruit (sachet)
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,834)}Coke
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,924)}Cigarettes (one box)
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(502,1015)}Lucky Chance Medium
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,276)}Toilet paper
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,370)}Bath Set
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,460)}Blanket
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,550)}Slippers
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,644)}Dried Squid
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,738)}Cheese
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,833.558)}Beer (350ml)
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,920.336)}Lighter
+Dialogue: 2,0:43:29.19,0:43:40.66,wpb_2,,0,0,0,,{\pos(962.5,1015)}Lucky Chance Large
+Dialogue: 3,0:43:29.71,0:43:35.17,normal_Wed,,0,0,0,,They can buy the items from the following material table
+Dialogue: 3,0:43:35.75,0:43:40.62,normal_Wed,,0,0,0,,It can also be used for transportation to Tokyo for the upcoming days
+Dialogue: 2,0:43:40.66,0:43:45.20,wpb_2,,0,0,0,,{\fs70\pos(93.5,988)\fn方正正粗黑_GBK}Cigarette (one)
+Dialogue: 1,0:43:40.66,0:43:45.20,square3,,0,0,0,,{\p1\pos(971,1084)\clip(723,914.667,1168,1050.667)}m 0 0 l 498 0 498 265 0 265
+Dialogue: 3,0:43:40.66,0:43:45.20,wpb_2,,0,0,0,,{\fs70\pos(758.5,988)\fn方正正粗黑_GBK}Cigarettes (one box)
+Dialogue: 1,0:43:40.66,0:43:45.20,square3,,0,0,0,,{\p1\pos(271,1084)\clip(m 39 914 l 484 914 484 1050 39 1050)}m 0 0 l 498 0 498 265 0 265
+Dialogue: 3,0:43:40.66,0:43:41.40,normal_Wed,,0,0,0,,Cigarettes are expensive
+Dialogue: 3,0:43:41.40,0:43:44.35,normal_Wed,,0,0,0,,What? Cigarettes are more expensive than in our time
+Dialogue: 3,0:43:41.40,0:43:45.20,note_Wed,,0,0,0,,{\blur4}※At that time, a cigarette was 50 yen, and a box of cigarettes was 800 yen
+Dialogue: 3,0:43:44.35,0:43:45.20,normal_Wed,,0,0,0,,Really expensive
+Dialogue: 3,0:43:45.47,0:43:47.80,normal_Wed,,0,0,0,,It's too expensive, really
+Dialogue: 3,0:43:47.97,0:43:49.91,wipe_Wed,,0,0,0,,300 yen per stick
+Dialogue: 3,0:43:48.56,0:43:49.91,normal_Wed,,0,0,0,,Toothbrush set
+Dialogue: 3,0:43:51.12,0:43:54.31,normal_Wed,,0,0,0,,300 yen per stick \N-Wow, that's expensive!
+Dialogue: 3,0:43:54.64,0:43:56.11,normal_Wed,,0,0,0,,Its like Kaiji!
+Dialogue: 3,0:43:56.71,0:44:00.32,normal_Wed,,0,0,0,,If we don't buy this underwear, is there no change of clothes?
+Dialogue: 3,0:44:00.32,0:44:01.52,normal_Wed,,0,0,0,,If the underwear isn't used
+Dialogue: 3,0:44:01.52,0:44:02.94,normal_Wed,,0,0,0,,Toothbrush set also
+Dialogue: 3,0:44:04.69,0:44:06.66,normal_Wed,,0,0,0,,At least one. \N -I want it
+Dialogue: 3,0:44:06.66,0:44:08.32,normal_Wed,,0,0,0,,One for two people is good
+Dialogue: 3,0:44:08.59,0:44:10.59,normal_Wed,,0,0,0,,Lucky Chance is also available here
+Dialogue: 3,0:44:10.59,0:44:12.86,normal_Wed,,0,0,0,,It's a bit expensive, isn't it?
+Dialogue: 3,0:44:14.00,0:44:18.00,normal_Wed,,0,0,0,,And so begins the life of the lucky item escape room
+Dialogue: 3,0:44:18.77,0:44:22.08,normal_Wed,,0,0,0,,Will the two of them be able to use the power of luck?
+Dialogue: 3,0:44:22.08,0:44:27.76,normal_Wed,,0,0,0,,What about escaping safely from a lonely little house in the middle of a vast snowfield?
+Dialogue: 3,0:44:29.16,0:44:30.63,normal_Wed,,0,0,0,,Ah~
+Dialogue: 3,0:44:31.16,0:44:32.81,normal_Wed,,0,0,0,,What a cruel project!
+Dialogue: 3,0:44:32.81,0:44:33.58,normal_Wed,,0,0,0,,Indeed
+Dialogue: 0,0:44:33.58,0:44:35.25,normal_Wed,,0,0,0,,Isn't it just snow everywhere?
+Dialogue: 0,0:44:35.25,0:44:35.90,normal_Wed,,0,0,0,,Yes
+Dialogue: 0,0:44:35.90,0:44:38.75,normal_Wed,,0,0,0,,Didn't they realize when going in?
+Dialogue: 0,0:44:38.75,0:44:41.53,normal_Wed,,0,0,0,,The snow was removed when the two were brought in
+Dialogue: 0,0:44:41.53,0:44:46.47,normal_Wed,,0,0,0,,The snow was shoveled out of the way for them to walk through
+Dialogue: 0,0:44:46.47,0:44:47.75,normal_Wed,,0,0,0,,Then the snow was piled back in again
+Dialogue: 0,0:44:47.75,0:44:50.19,normal_Wed,,0,0,0,,It was smooth when they went in
+Dialogue: 0,0:44:50.19,0:44:53.30,normal_Wed,,0,0,0,,Why put so much effort into this part?
+Dialogue: 0,0:44:53.31,0:44:57.00,normal_Wed,,0,0,0,,Incidentally, in the old days, cigarettes were 50 yen each
+Dialogue: 3,0:44:57.51,0:44:59.23,normal_Wed,,0,0,0,,The price has really gone up
+Dialogue: 3,0:44:59.23,0:45:00.36,normal_Wed,,0,0,0,,The cigarette exchange rate has gone up
+Dialogue: 3,0:45:00.36,0:45:02.68,normal_Wed,,0,0,0,,It's desperate. This cigarette smoking
+Dialogue: 3,0:45:02.68,0:45:04.21,normal_Wed,,0,0,0,,You haven't quit smoking yet?
+Dialogue: 3,0:45:04.21,0:45:06.63,normal_Wed,,0,0,0,,From that time onwards, I liked smoking more
+Dialogue: 3,0:45:06.63,0:45:07.92,normal_Wed,,0,0,0,,Its really the best taste in the world
+Dialogue: 3,0:45:07.92,0:45:10.02,normal_Wed,,0,0,0,,Really the best! Cigarettes!
+Dialogue: 0,0:45:10.58,0:45:11.88,normal_Wed,,0,0,0,,The feeling of being able to smoke freely
+Dialogue: 0,0:45:11.88,0:45:14.91,normal_Wed,,0,0,0,,Every day, I thank God for letting me smoke freely
+Dialogue: 0,0:45:15.66,0:45:17.14,normal_Wed,,0,0,0,,Getting back to the point, we are now looking forward to the sequel
+Dialogue: 0,0:45:17.14,0:45:19.03,normal_Wed,,0,0,0,,It can't be helped
+Dialogue: 0,0:45:19.03,0:45:20.96,normal_Wed,,0,0,0,,Surprisingly...
+Dialogue: 0,0:45:20.96,0:45:22.69,normal_Wed,,0,0,0,,That's it for this week
+Dialogue: 0,0:45:22.69,0:45:23.15,normal_Wed,,0,0,0,,Eh?
+Dialogue: 0,0:45:23.15,0:45:24.27,normal_Wed,,0,0,0,,There's more?
+Dialogue: 0,0:45:24.27,0:45:27.27,normal_Wed,,0,0,0,,Next week, we will present the final chapter to you in its entirety
+Dialogue: 0,0:45:27.27,0:45:29.73,normal_Wed,,0,0,0,,Please look forward to
+Dialogue: 0,0:45:45.68,0:45:49.95,normal_Wed,,0,0,0,,Next week is the finale
+Dialogue: 0,0:45:49.95,0:45:51.04,normal_Wed,,0,0,0,,Eh? What's the deal?
+Dialogue: 0,0:45:54.26,0:45:56.19,normal_Wed,,0,0,0,,What the hell do we have to do to get it right!
+Dialogue: 0,0:45:56.72,0:45:59.52,normal_Wed,,0,0,0,,Will the two of them be able to use the power of luck
+Dialogue: 0,0:45:59.52,0:46:01.92,normal_Wed,,0,0,0,,From a lonely little house in the middle of a vast snowfield
+Dialogue: 0,0:46:01.92,0:46:05.38,normal_Wed,,0,0,0,,What about escaping to the distant Tokyo?
+Dialogue: 0,0:46:06.80,0:46:09.47,normal_Wed,,0,0,0,,Going this far to be on TV
+Dialogue: 0,0:46:09.47,0:46:14.72,normal_Wed,,0,0,0,,Thanks for watching. Support me and get subs early at patreon.com/zwanster03
+

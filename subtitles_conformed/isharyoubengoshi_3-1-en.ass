@@ -1,0 +1,784 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 624
+Audio URI: F:\Isharyou Bengoshi E03 (1280x720).mp4
+Scroll Position: 699
+Active Line: 705
+Video Zoom Percent: 1
+PlayResY: 366
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Overlap,Arial,24,&H00B8B8B8,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Internal/Narrator,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Flashback,Arial,24,&H00FFFFFF,&H000000FF,&H004F2E2C,&H004F2E2C,0,0,0,0,100,100,0,0,1,2,1,2,10,10,15,0
+Style: Bengoshi-Flashback_Top,Arial,24,&H00FFFFFF,&H000000FF,&H004F2E2C,&H004F2E2C,0,0,0,0,100,100,0,0,1,2,1,8,10,10,10,0
+Style: Bengoshi-Top,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,8,10,10,15,0
+Style: Bengoshi-Title,Arial,30,&H009DD1E8,&H000000FF,&H00275F82,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,10,1
+Style: Bengoshi-Ep_Title,Arial,20,&H00E8F2FF,&H000000FF,&H001B1273,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,1
+Style: Bengoshi-Next_Episode,Arial,22,&H00E2DFE0,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,7,30,10,50,0
+Style: Bengoshi-Fiction,Arial,20,&H00E2DFE0,&H000000FF,&H00302F2F,&H00131313,-1,0,0,0,100,100,0,0,1,1,1,3,10,30,35,0
+Style: Bengoshi-Credits,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,120,10,35,0
+Style: Bengoshi-Credits_Left,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,30,10,35,0
+Style: Bengoshi-Credits_Right,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,300,10,35,0
+Style: Bengoshi-End_Splash_Left,Arial,28,&H00BB84E6,&H000000FF,&H0042004E,&H002C0047,-1,0,0,0,100,100,0,0,1,1,2,1,80,10,105,1
+Style: Bengoshi-End_Splash_Right,Arial,25,&H00DDCF69,&H000000FF,&H00000000,&H0004010D,-1,0,0,0,100,100,0,0,1,1,2,3,10,10,50,1
+Style: Bengoshi-Saionji,Arial,25,&H00C2F7FF,&H000000FF,&H008CBEFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,10,100,25,0
+Style: Bengoshi-Ayaka_Note,Arial,22,&H00073374,&H000000FF,&H003D91E3,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,80,50,0
+Style: Bengoshi-Timestamp,Arial,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,2,2,10,10,55,0
+Style: Bengoshi-2012_Diagnosis,Arial,20,&H00071537,&H000000FF,&H00327ECD,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,50,10,0
+Style: Bengoshi-2012_Diagnosis_Closer,Arial,25,&H00150F24,&H000000FF,&H002F78CA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,9,10,30,70,0
+Style: Bengoshi-Diagnosis_Good,Arial,25,&H00000E5B,&H000000FF,&H0044AFEE,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,10,150,10,0
+Style: Bengoshi-Calendar_Due,Arial,25,&H007E4341,&H000000FF,&H00B8AB9B,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,270,10,100,0
+Style: Bengoshi-Investigation_Report,Arial,20,&H00221E29,&H000000FF,&H00C7C1D2,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,1,100,10,130,0
+Style: Bengoshi-Investigation_Caption,Arial,20,&H00221E29,&H000000FF,&H00D0CAD6,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,10,40,100,0
+Style: Bengoshi-Spy_Marilyn,Arial,20,&H00CDC3DC,&H000000FF,&H002E2829,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,20,1
+Style: Bengoshi-Money_Obtainable,Arial,24,&H00FCF8FB,&H000000FF,&H001B1922,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,110,0
+Style: Bengoshi-Property_Dist,Arial,22,&H002F87BC,&H000000FF,&H000D1728,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,60,10,60,1
+Style: Bengoshi-Split_Pension,Arial,22,&H002F87BC,&H000000FF,&H000D1728,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,10,10,60,1
+Style: Bengoshi-Compensation,Arial,22,&H002F87BC,&H000000FF,&H000D1728,&H00000000,0,0,0,0,100,100,0,0,1,3,0,3,10,80,60,1
+Style: Bengoshi-Vocab_Word,Arial,22,&H002F87BC,&H000000FF,&H000D1728,&H00000000,0,0,0,0,100,100,0,0,1,3,0,1,30,10,90,1
+Style: Bengoshi-Vocab_Definition,Arial,23,&H00FCFCFF,&H000000FF,&H002B2C31,&H002A2B2F,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Bengoshi-Life_Golf,Arial,20,&H00130F20,&H000000FF,&H007B758D,&H002A2B2F,-1,0,0,0,100,100,0,0,1,2,0,9,10,50,50,1
+Style: Bengoshi-UF_Bank,Arial,23,&H00282130,&H000000FF,&H00635A6D,&H002A2B2F,-1,0,0,0,100,100,0,0,1,2,0,8,10,30,10,1
+Style: Bengoshi-Pension_Ledger,Arial,23,&H00080F29,&H000000FF,&H001A225A,&H002A2B2F,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,130,1
+Style: Bengoshi-Chalkboard_Class,Arial,25,&H006B717C,&H000000FF,&H001A1D23,&H002A2B2F,0,0,0,0,100,100,0,0,1,3,0,1,10,10,50,1
+Style: Bengoshi-Saionji_Night,Arial,25,&H00835E39,&H000000FF,&H0033241A,&H00000000,0,0,0,0,100,100,0,0,1,2,0,9,10,100,10,0
+Style: Bengoshi-Vocab_Definition2,Arial,23,&H00FCFCFF,&H000000FF,&H002B2C31,&H002A2B2F,0,0,0,0,100,100,0,0,1,2,1,3,10,10,60,1
+Style: Bengoshi-Saionji_Worth,Arial,25,&H00261C28,&H000000FF,&H00A691AD,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0
+Style: Bengoshi-Hakamada_Office_Sign,Arial,28,&H00809B95,&H000000FF,&H00363F3E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,10,10,130,1
+Style: Bengoshi-Nakatani_Card,Arial,22,&H00301827,&H000000FF,&H00D6C1D2,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,100,10,10,0
+Style: Bengoshi-Journal_Entries,Arial,22,&H00453E48,&H000000FF,&H00C4B3CA,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,10,10,10,0
+Style: Bengoshi-Saionji_Evening,Arial,25,&H008CD2FF,&H000000FF,&H0067A5E8,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,10,160,50,0
+Style: Bengoshi-Hakamada_Vertical_Sign,Arial,25,&H00211D1B,&H000000FF,&H0073706E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,6,10,110,10,0
+Style: Bengoshi-Manga_Bubbble,Arial,22,&H00335068,&H000000FF,&H0077A3C4,&H00000000,0,0,0,0,100,100,0,0,1,2,0,6,10,10,20,0
+Style: Bengoshi-Credits_Misato,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,3,10,60,25,0
+Style: Bengoshi-Credits_Sara,Arial,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,2,1,270,10,75,0
+Style: Bengoshi-Vocab_Definition3,Arial,23,&H00FCFCFF,&H000000FF,&H002B2C31,&H002A2B2F,0,0,0,0,100,100,0,0,1,2,1,3,10,10,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.45,0:00:04.72,Bengoshi-Saionji,Plaque,0,0,0,,Saionji
+Dialogue: 0,0:00:06.95,0:00:09.89,Bengoshi-Ayaka_Note,Letter,0,0,0,,Dear father and mother, \NThank you for everything. \NI am going to be happy\N with Takayuki-san. \NAyaka
+Dialogue: 0,0:00:09.96,0:00:14.99,Bengoshi-Timestamp,Caption,0,0,0,,{\fad(550,550)}One year ago
+Dialogue: 0,0:00:27.61,0:00:30.04,Bengoshi-2012_Diagnosis,Words,0,0,0,,2012 Health Diagnosis
+Dialogue: 0,0:00:30.04,0:00:32.41,Bengoshi-2012_Diagnosis_Closer,Closeup,0,0,0,,2012 Health Diagnosis Report\N Name: Saionji Tadashi \NAge: 64
+Dialogue: 0,0:00:32.41,0:00:37.35,Bengoshi-Diagnosis_Good,Repeating word,0,0,0,,Good
+Dialogue: 0,0:00:51.71,0:00:55.60,Default,Fumiko,0,0,0,,Ayaka's due date for the baby \Nis the 20th of next month.
+Dialogue: 0,0:00:53.53,0:00:55.60,Bengoshi-Calendar_Due,Calendar,0,0,0,,Ayaka's childbirth\N due date
+Dialogue: 0,0:00:55.60,0:00:58.18,Bengoshi-Top,Fumiko,0,0,0,,What kind of present should we give her?
+Dialogue: 0,0:00:55.73,0:01:00.91,Bengoshi-Timestamp,Caption,0,0,0,,{\fad(550,550)}Present
+Dialogue: 0,0:00:58.18,0:01:00.81,Bengoshi-Top,Fumiko,0,0,0,,Money would be better \Nthan material objects, I think—
+Dialogue: 0,0:01:00.81,0:01:02.04,Default,Saionji,0,0,0,,Anything's fine.
+Dialogue: 0,0:01:03.22,0:01:05.76,Default,Saionji,0,0,0,,Don't ask me silly questions.
+Dialogue: 0,0:01:06.25,0:01:08.35,Default,Fumiko,0,0,0,,Let's give them money, then.
+Dialogue: 0,0:01:08.35,0:01:10.14,Default,Saionji,0,0,0,,Cash, huh?
+Dialogue: 0,0:01:15.34,0:01:17.22,Default,Fumiko,0,0,0,,Does that displease you?
+Dialogue: 0,0:01:17.22,0:01:19.87,Default,Saionji,0,0,0,,There are times I don't want to eat fish.
+Dialogue: 0,0:01:19.87,0:01:21.96,Default,Saionji,0,0,0,,Shouldn't you know me by now?
+Dialogue: 0,0:01:23.18,0:01:25.82,Default,Fumiko,0,0,0,,I'll fix you something else, then.
+Dialogue: 0,0:01:25.82,0:01:27.70,Default,Fumiko,0,0,0,,Would you like meat of some kind—
+Dialogue: 0,0:01:26.87,0:01:28.25,Bengoshi-Overlap,Saionji,0,0,0,,Forget it. How's the bath?
+Dialogue: 0,0:01:28.25,0:01:29.41,Default,Fumiko,0,0,0,,It is ready.
+Dialogue: 0,0:01:29.41,0:01:31.10,Default,Fumiko,0,0,0,,Your robe is ready, too.
+Dialogue: 0,0:01:31.10,0:01:32.52,Default,Fumiko,0,0,0,,Please take it when you please.
+Dialogue: 0,0:01:32.52,0:01:35.47,Default,Saionji,0,0,0,,I come home from work, and \Nthere's nothing decent to eat.
+Dialogue: 0,0:01:35.47,0:01:36.61,Default,Fumiko,0,0,0,,I am sorry.
+Dialogue: 0,0:01:37.32,0:01:40.44,Default,Saionji,0,0,0,,You're not bowing low enough.\N It's meaningless!
+Dialogue: 0,0:02:24.69,0:02:27.26,Bengoshi-Investigation_Report,Words in bold,0,0,0,,Investigation Report
+Dialogue: 0,0:02:27.93,0:02:29.56,Default,Kurumi,0,0,0,,Urai Asako, 22 years old.
+Dialogue: 0,0:02:29.56,0:02:32.74,Default,Kurumi,0,0,0,,She's a student in your husband's \NJapanese literature class.
+Dialogue: 0,0:02:31.46,0:02:32.73,Bengoshi-Investigation_Caption,Words,0,0,0,,Saionji Tadashi (65)
+Dialogue: 0,0:02:33.14,0:02:34.63,Default,Fumiko,0,0,0,,His student?
+Dialogue: 0,0:02:34.63,0:02:37.86,Bengoshi-Top,Kurumi,0,0,0,,I will thoroughly investigate\N their behavior.
+Dialogue: 0,0:02:34.70,0:02:38.10,Bengoshi-Credits_Right,Caption,0,0,0,,{\fad(380,380)}Freelance investigator: \NUmemoto Kurumi
+Dialogue: 0,0:02:38.65,0:02:40.21,Default,Kurumi,0,0,0,,Congratulations.
+Dialogue: 0,0:02:40.21,0:02:43.21,Default,Kurumi,0,0,0,,You finally have a basis for divorce.
+Dialogue: 0,0:02:43.21,0:02:44.80,Default,Yoshie,0,0,0,,Hey, hey...
+Dialogue: 0,0:02:44.80,0:02:46.93,Default,Yoshie,0,0,0,,An illicit affair between a university \Nprofessor and his student?
+Dialogue: 0,0:02:46.93,0:02:48.45,Default,Yoshie,0,0,0,,Isn't this a little too scandalous?
+Dialogue: 0,0:02:48.45,0:02:49.93,Default,Rina,0,0,0,,We scored.
+Dialogue: 0,0:02:49.93,0:02:53.35,Default,Rina,0,0,0,,We couldn't ask for a better way \Nto corner the husband for infidelity.
+Dialogue: 0,0:02:52.62,0:02:55.99,Bengoshi-Credits,Caption,0,0,0,,{\fad(380,380)}Office landlord:\N Toyama Yoshie
+Dialogue: 0,0:02:53.35,0:02:55.95,Bengoshi-Top,Yoshie,0,0,0,,We'll make a bundle in \Ncompensation, a bundle in fees,
+Dialogue: 0,0:02:55.95,0:02:57.62,Bengoshi-Top,Yoshie,0,0,0,,and you can pay your rent!
+Dialogue: 0,0:02:57.98,0:03:01.89,Bengoshi-Top,Kanae,0,0,0,,Please excuse them. I know you've\N just learned of your husband's affair.
+Dialogue: 0,0:02:58.52,0:03:01.79,Bengoshi-Credits,Caption,0,0,0,,{\fad(380,380)}Hakamada's assistant: \NNonomura Kanae
+Dialogue: 0,0:03:01.89,0:03:03.36,Default,Fumiko,0,0,0,,I don't mind.
+Dialogue: 0,0:03:03.36,0:03:06.53,Default,Yoshie,0,0,0,,After all, Fumiko-san's \Nbeen hoping for this.
+Dialogue: 0,0:03:06.53,0:03:08.47,Default,Kanae,0,0,0,,Hoping for it?
+Dialogue: 0,0:03:09.55,0:03:11.53,Bengoshi-Top,Yoshie,0,0,0,,Sensei, is the tea ready?
+Dialogue: 0,0:03:10.04,0:03:13.44,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(380,380)}Temp: \NShinozuka Rina
+Dialogue: 0,0:03:11.53,0:03:14.33,Bengoshi-Top,Rina,0,0,0,,Please hurry. Our client is waiting.
+Dialogue: 0,0:03:14.33,0:03:15.42,Bengoshi-Top,Hakamada,0,0,0,,I'm sorry.
+Dialogue: 0,0:03:14.44,0:03:17.84,Bengoshi-Credits,Caption,0,0,0,,{\fad(380,380)}Attorney:\N Hakamada Yukio
+Dialogue: 0,0:03:15.42,0:03:17.37,Bengoshi-Top,Hakamada,0,0,0,,I made you some tea.
+Dialogue: 0,0:03:17.37,0:03:20.25,Bengoshi-Top,Hakamada,0,0,0,,The turtle bread will be done soon, too.
+Dialogue: 0,0:03:20.25,0:03:22.54,Default,Rina,0,0,0,,I could barf from the name alone.
+Dialogue: 0,0:03:22.54,0:03:24.58,Default,Yoshie,0,0,0,,What's the idea behind it? Aggravation?
+Dialogue: 0,0:03:24.58,0:03:30.06,Default,Hakamada,0,0,0,,Healthy turtle bread is the first in my \Nwinter nutrition fortification series.
+Dialogue: 0,0:03:30.65,0:03:32.59,Default,Hakamada,0,0,0,,It will invigorate
+Dialogue: 0,0:03:32.59,0:03:33.95,Default,Hakamada,0,0,0,,Fumiko-san for tasks that lie ahead,
+Dialogue: 0,0:03:33.95,0:03:35.50,Default,Hakamada,0,0,0,,and it's also delicious.
+Dialogue: 0,0:03:35.50,0:03:38.13,Default,Kanae,0,0,0,,Sensei, forget about the \Nbread for now. This way.
+Dialogue: 0,0:03:38.13,0:03:39.16,Default,Kanae,0,0,0,,Come on.
+Dialogue: 0,0:03:39.16,0:03:43.39,Bengoshi-Top,Fumiko,0,0,0,,Hakamada-sensei, thank you \Nfor all you've done for me.
+Dialogue: 0,0:03:40.63,0:03:45.20,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(380,380)}Current episode's client:\N Saionji Fumiko
+Dialogue: 0,0:03:43.72,0:03:47.14,Bengoshi-Top,Fumiko,0,0,0,,I can finally divorce my husband.
+Dialogue: 0,0:03:47.14,0:03:48.41,Default,Hakamada,0,0,0,,No, no.
+Dialogue: 0,0:03:48.41,0:03:50.22,Default,Hakamada,0,0,0,,We can't let our guard down just yet.
+Dialogue: 0,0:03:50.86,0:03:53.49,Default,Hakamada,0,0,0,,All we've done is identify \Nthe illicit partner.
+Dialogue: 0,0:03:53.49,0:03:59.46,Default,Hakamada,0,0,0,,These photos aren't proof \Nthey're having physical relations.
+Dialogue: 0,0:03:59.93,0:04:03.12,Default,Hakamada,0,0,0,,Please bear with us for a while,
+Dialogue: 0,0:04:03.12,0:04:05.02,Default,Hakamada,0,0,0,,until we have gathered solid evidence.
+Dialogue: 0,0:04:07.46,0:04:09.76,Default,Fumiko,0,0,0,,We've been married for 34 years.
+Dialogue: 0,0:04:10.24,0:04:13.03,Default,Fumiko,0,0,0,,I've endured and endured...
+Dialogue: 0,0:04:13.77,0:04:20.06,Default,Fumiko,0,0,0,,But, ever since my daughter got \Nmarried and left home a year ago...
+Dialogue: 0,0:04:21.04,0:04:25.01,Default,Fumiko,0,0,0,,Thanks to your help, I've been \Nable to prepare myself for this.
+Dialogue: 0,0:04:25.01,0:04:26.08,Default,Kanae,0,0,0,,A year?
+Dialogue: 0,0:04:26.08,0:04:29.19,Default,Kanae,0,0,0,,You've been making \Npreparations for a whole year?
+Dialogue: 0,0:04:29.19,0:04:31.84,Default,Fumiko,0,0,0,,I have been following Sensei's \Nand everyone else's instructions.
+Dialogue: 0,0:04:31.84,0:04:33.94,Default,Fumiko,0,0,0,,Oh, right!
+Dialogue: 0,0:04:33.94,0:04:40.09,Default,Fumiko,0,0,0,,This was the first time I've ever \Nwatched a foreign drama.
+Dialogue: 0,0:04:40.09,0:04:44.70,Default,Fumiko,0,0,0,,It was a greatly helpful \Nresource for my research.
+Dialogue: 0,0:04:44.70,0:04:49.20,Bengoshi-Spy_Marilyn,DVD box-set,0,0,0,,Invasive Investigation \NIron Spy Woman Marilyn
+Dialogue: 0,0:04:44.70,0:04:49.20,Default,Kurumi,0,0,0,,"Iron Spy Woman Marilyn" \Nseason 3, "Invasive Investigation."
+Dialogue: 0,0:04:49.20,0:04:52.02,Default,Kurumi,0,0,0,,It's a unique and \Nbodacious action series.
+Dialogue: 0,0:04:52.02,0:04:54.99,Default,Kurumi,0,0,0,,Amidst psychological \Nwarfare, we see Marilyn's
+Dialogue: 0,0:04:54.99,0:04:58.14,Default,Kurumi,0,0,0,,feminine sorrows oozing \Nout for the first time.
+Dialogue: 0,0:04:58.14,0:05:01.58,Default,Kurumi,0,0,0,,It's the most mature season so far.
+Dialogue: 0,0:05:01.58,0:05:04.44,Default,Marilyn,0,0,0,,I'm a spy first and a woman second.
+Dialogue: 0,0:05:06.34,0:05:10.33,Default,Marilyn,0,0,0,,I'll feign love if necessary,\N to gather information.
+Dialogue: 0,0:05:16.81,0:05:18.26,Default,Yoshie,0,0,0,,I want some, too!
+Dialogue: 0,0:05:18.26,0:05:19.29,Default,Yoshie,0,0,0,,Let me see it.
+Dialogue: 0,0:05:19.29,0:05:22.50,Default,Rina,0,0,0,,Those are my eyedrops.\N Don't use them for stupid games.
+Dialogue: 0,0:05:22.50,0:05:25.14,Default,Hakamada,0,0,0,,By the way, how are flower\N arrangement classes going?
+Dialogue: 0,0:05:25.98,0:05:27.57,Default,Fumiko,0,0,0,,I'm making a living with it.
+Dialogue: 0,0:05:27.57,0:05:29.17,Default,Fumiko,0,0,0,,I have a room at the Culture \NSchool near the station,
+Dialogue: 0,0:05:29.17,0:05:35.21,Default,Fumiko,0,0,0,,I have more students now, \Nand have saved up a lot.
+Dialogue: 0,0:05:35.21,0:05:36.68,Default,Hakamada,0,0,0,,Beautiful.
+Dialogue: 0,0:05:36.68,0:05:38.28,Default,Kanae,0,0,0,,1,240,000...
+Dialogue: 0,0:05:38.28,0:05:41.19,Default,Kanae,0,0,0,,Did you save all that in a year?
+Dialogue: 0,0:05:42.52,0:05:46.18,Default,Fumiko,0,0,0,,My daughter is having \Nher baby next month...
+Dialogue: 0,0:05:46.66,0:05:50.13,Default,Fumiko,0,0,0,,and I don't have anything \Nto worry about any more.
+Dialogue: 0,0:05:50.52,0:05:54.97,Default,Fumiko,0,0,0,,I am finally confident \Nenough to live on my own.
+Dialogue: 0,0:05:57.48,0:06:01.68,Bengoshi-Flashback,Fumiko,0,0,0,,{\a6}I saw my husband's health\N diagnosis report after
+Dialogue: 0,0:05:59.67,0:06:04.24,Bengoshi-Timestamp,Caption,0,0,0,,{\fad(550,550)}One year ago
+Dialogue: 0,0:06:02.46,0:06:08.68,Bengoshi-Flashback,Fumiko,0,0,0,,{\a6}my daughter's wedding, \Nthe night I came home.
+Dialogue: 0,0:06:08.98,0:06:10.88,Bengoshi-2012_Diagnosis_Closer,Words,0,0,0,,2012 Health Diagnosis Report. Name: Saionji Tadashi. Age: 64
+Dialogue: 0,0:06:08.98,0:06:12.92,Bengoshi-Flashback,Fumiko,0,0,0,,The projected life-span was 89 years.
+Dialogue: 0,0:06:10.88,0:06:12.92,Bengoshi-2012_Diagnosis_Closer,Closeup,0,0,0,,{\b1}Projected life span: 89 years.{\b0}
+Dialogue: 0,0:06:12.92,0:06:15.79,Bengoshi-Flashback,Fumiko,0,0,0,,My husband will be 64 this year.
+Dialogue: 0,0:06:16.89,0:06:22.60,Bengoshi-Flashback,Fumiko,0,0,0,,That means that after my daughter\N has gotten married and left home...
+Dialogue: 0,0:06:22.60,0:06:27.07,Bengoshi-Flashback,Fumiko,0,0,0,,I would have to live alone with that \Nboorish man for another 25 years.
+Dialogue: 0,0:06:27.07,0:06:28.27,Bengoshi-Flashback,Fumiko,0,0,0,,The very thought of it...
+Dialogue: 0,0:06:35.14,0:06:37.16,Bengoshi-Flashback,Saionji,0,0,0,,Hey, where's my food?
+Dialogue: 0,0:06:37.16,0:06:38.33,Bengoshi-Flashback,Fumiko,0,0,0,,Ah, I'll prepare it—
+Dialogue: 0,0:06:39.21,0:06:42.48,Bengoshi-Credits_Left,Caption,0,0,0,,{\fad(500,500)}Fumiko's husband:\N Saionji Tadashi
+Dialogue: 0,0:06:40.09,0:06:41.78,Bengoshi-Flashback,Saionji,0,0,0,,{\a6}I'd better not catch your cold!
+Dialogue: 0,0:06:45.32,0:06:47.12,Bengoshi-Flashback,Fumiko,0,0,0,,I have reached my limit.
+Dialogue: 0,0:06:47.12,0:06:50.09,Bengoshi-Flashback,Fumiko,0,0,0,,I cannot bear it any longer.
+Dialogue: 0,0:06:51.60,0:06:53.01,Bengoshi-Flashback,Hakamada,0,0,0,,Please relax.
+Dialogue: 0,0:06:55.40,0:06:57.57,Bengoshi-Flashback,Hakamada,0,0,0,,What's essential when \Ndivorcing at an older age,
+Dialogue: 0,0:06:57.57,0:07:00.87,Bengoshi-Flashback,Hakamada,0,0,0,,is to have the funds necessary to \Nplan your life after the divorce.
+Dialogue: 0,0:07:01.79,0:07:05.60,Bengoshi-Flashback,Hakamada,0,0,0,,Because you are a housewife, I advise being patient\N with the divorce until you enough for living expenses
+Dialogue: 0,0:07:05.60,0:07:07.80,Bengoshi-Flashback,Hakamada,0,0,0,,until you have sufficient \Nsavings for living expenses.
+Dialogue: 0,0:07:08.33,0:07:10.48,Bengoshi-Flashback,Fumiko,0,0,0,,Savings for living expenses...
+Dialogue: 0,0:07:10.48,0:07:15.92,Bengoshi-Flashback,Hakamada,0,0,0,,In general, there are three ways for an elderly\N wife to obtain money in a divorce.
+Dialogue: 0,0:07:12.14,0:07:27.76,Bengoshi-Money_Obtainable,Caption,0,0,0,,Money obtainable in senior citizen divorce
+Dialogue: 0,0:07:16.78,0:07:27.76,Bengoshi-Property_Dist,Caption,0,0,0,,{\fad(550,0)}Property distribution
+Dialogue: 0,0:07:16.81,0:07:21.37,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Property distribution, split \Npension, and compensation.
+Dialogue: 0,0:07:18.42,0:07:27.76,Bengoshi-Split_Pension,Caption,0,0,0,,{\fad(550,0)}Split pension
+Dialogue: 0,0:07:20.19,0:07:27.76,Bengoshi-Compensation,Caption,0,0,0,,{\fad(550,0)}Compensation
+Dialogue: 0,0:07:22.40,0:07:27.76,Bengoshi-Flashback_Top,Fumiko,0,0,0,,In my rush to leave him, \NI had not thought that far...
+Dialogue: 0,0:07:27.77,0:07:30.94,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Firstly, concerning \Nproperty distribution...
+Dialogue: 0,0:07:28.99,0:07:37.97,Bengoshi-Vocab_Word,Caption,0,0,0,,{\fad(550,0)}Property distribution
+Dialogue: 0,0:07:31.48,0:07:35.18,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Even if your financial properties \Nare in your husband's name,
+Dialogue: 0,0:07:31.56,0:07:37.97,Bengoshi-Vocab_Definition,Caption2,0,0,0,,{\fad(550,0)}The wife is entitled to half the estate.
+Dialogue: 0,0:07:35.18,0:07:37.97,Bengoshi-Flashback_Top,Hakamada,0,0,0,,as the wife, you are entitled to half.
+Dialogue: 0,0:07:38.32,0:07:41.06,Bengoshi-Flashback,Hakamada,0,0,0,,Research his savings, \Ninsurance, and so on,
+Dialogue: 0,0:07:39.91,0:07:42.68,Bengoshi-Life_Golf,Certificate on right,0,0,0,,{\b0}{\fs20}Kanto Central Golf Club{\b1}\N\N{\fs23}Life Insurance \NCertificate
+Dialogue: 0,0:07:41.06,0:07:42.68,Bengoshi-Flashback,Hakamada,0,0,0,,and make a list of them.
+Dialogue: 0,0:07:42.68,0:07:45.21,Bengoshi-Flashback,Hakamada,0,0,0,,Even if he's been hiding them,
+Dialogue: 0,0:07:45.21,0:07:47.48,Bengoshi-UF_Bank,Letterhead,0,0,0,,U&F Bank
+Dialogue: 0,0:07:45.21,0:07:48.32,Bengoshi-Flashback,Hakamada,0,0,0,,financial institutions \Nsend statements regularly.
+Dialogue: 0,0:07:49.35,0:07:50.85,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Regarding split pension,
+Dialogue: 0,0:07:50.32,0:08:00.06,Bengoshi-Vocab_Word,Caption,0,0,0,,{\fad(500,500)}Split pension
+Dialogue: 0,0:07:50.85,0:07:53.55,Bengoshi-Flashback_Top,Hakamada,0,0,0,,if your husband agrees, or if the \Ncourt decides in your favor,
+Dialogue: 0,0:07:53.09,0:08:00.06,Bengoshi-Vocab_Definition,Caption2,0,0,0,,{\fad(500,1)}It is possible to receive at most 1/2 of welfare pension
+Dialogue: 0,0:07:53.55,0:07:58.09,Bengoshi-Flashback_Top,Hakamada,0,0,0,,it's possible for you to receive, \Nat most, half of the annuity,
+Dialogue: 0,0:07:53.55,0:08:00.06,Bengoshi-Pension_Ledger,Booklet words,0,0,0,,Pension Ledger
+Dialogue: 0,0:07:58.09,0:08:00.06,Bengoshi-Flashback_Top,Hakamada,0,0,0,,as of April 2007.
+Dialogue: 0,0:08:00.06,0:08:03.43,Bengoshi-Flashback,Hakamada,0,0,0,,You can inquire about his pension \Nat the social security bureau.
+Dialogue: 0,0:08:03.97,0:08:04.89,Bengoshi-Flashback,Fumiko,0,0,0,,Yes.
+Dialogue: 0,0:08:04.89,0:08:06.53,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Regarding compensation...
+Dialogue: 0,0:08:05.60,0:08:24.35,Bengoshi-Vocab_Word,Caption,0,0,0,,{\fad(550,0)}Compensation
+Dialogue: 0,0:08:06.53,0:08:08.88,Bengoshi-Flashback_Top,Hakamada,0,0,0,,it is contingent on whether \Nyour husband has been
+Dialogue: 0,0:08:08.88,0:08:11.21,Bengoshi-Flashback_Top,Hakamada,0,0,0,,engaging in illicit activities, \Nwhich would be reason for divorce.
+Dialogue: 0,0:08:09.24,0:08:24.35,Bengoshi-Vocab_Definition,Caption2,0,0,0,,{\a1}{\fad(550,0)}It can be collected if there have been illicit activities
+Dialogue: 0,0:08:11.64,0:08:13.45,Bengoshi-Flashback_Top,Fumiko,0,0,0,,"Illicit activities"?
+Dialogue: 0,0:08:13.45,0:08:17.11,Bengoshi-Flashback_Top,Hakamada,0,0,0,,Has there been any domestic \Nviolence? Or adultery?
+Dialogue: 0,0:08:14.51,0:08:24.35,Bengoshi-Vocab_Definition3,Caption3,0,0,0,,{\fad(550,0)}Domestic violence, adultery (affairs)
+Dialogue: 0,0:08:20.54,0:08:24.35,Bengoshi-Flashback_Top,Fumiko,0,0,0,,I have been dismayed by my husband's \Nconstant infidelity for many years.
+Dialogue: 0,0:08:24.35,0:08:25.70,Bengoshi-Flashback,Hakamada,0,0,0,,Let's take that route, then!
+Dialogue: 0,0:08:26.52,0:08:29.64,Bengoshi-Flashback,Hakamada,0,0,0,,While researching your husband's finances \Nand pension to prepare for the divorce,
+Dialogue: 0,0:08:29.64,0:08:32.22,Bengoshi-Flashback,Hakamada,0,0,0,,we'll wait for your husband to show signs of cheating.
+Dialogue: 0,0:08:33.26,0:08:34.99,Bengoshi-Flashback,Fumiko,0,0,0,,I understand.
+Dialogue: 0,0:08:34.99,0:08:35.96,Bengoshi-Flashback,Hakamada,0,0,0,,Lastly,
+Dialogue: 0,0:08:36.22,0:08:39.80,Bengoshi-Flashback,Hakamada,0,0,0,,please secure three months worth\N of living expenses for after the divorce.
+Dialogue: 0,0:08:41.40,0:08:43.00,Bengoshi-Flashback,Hakamada,0,0,0,,Let's say you were to \Nfind a room to rent.
+Dialogue: 0,0:08:43.00,0:08:46.90,Bengoshi-Flashback,Hakamada,0,0,0,,Living expenses would be at \Nleast 170,000 yen per month.
+Dialogue: 0,0:08:47.29,0:08:50.43,Bengoshi-Flashback,Hakamada,0,0,0,,Plus, you'd need to make a deposit, and \Npay a finder's fee to the Realtor.
+Dialogue: 0,0:08:51.01,0:08:52.52,Bengoshi-Flashback,Hakamada,0,0,0,,Right, so...
+Dialogue: 0,0:08:52.52,0:08:55.85,Bengoshi-Flashback,Hakamada,0,0,0,,To be on the safe side, save\N up about one million yen.
+Dialogue: 0,0:08:56.11,0:08:57.68,Bengoshi-Flashback,Fumiko,0,0,0,,One million?!
+Dialogue: 0,0:08:59.02,0:09:02.09,Bengoshi-Flashback,Fumiko,0,0,0,,But, my husband is in \Ncharge of all our finances...
+Dialogue: 0,0:09:03.06,0:09:06.63,Bengoshi-Flashback,Hakamada,0,0,0,,Is it possible for you to \Nwork and earn the money?
+Dialogue: 0,0:09:08.40,0:09:10.54,Bengoshi-Flashback,Fumiko,0,0,0,,I have gotten on in age...
+Dialogue: 0,0:09:11.10,0:09:13.18,Bengoshi-Flashback,Fumiko,0,0,0,,I have no work experience either...
+Dialogue: 0,0:09:14.03,0:09:16.84,Bengoshi-Flashback,Hakamada,0,0,0,,Do you have a hobby of some kind?
+Dialogue: 0,0:09:17.18,0:09:18.93,Bengoshi-Flashback,Fumiko,0,0,0,,A hobby?
+Dialogue: 0,0:09:19.46,0:09:20.97,Bengoshi-Flashback,Hakamada,0,0,0,,It could be anything.
+Dialogue: 0,0:09:23.74,0:09:27.44,Bengoshi-Flashback,Fumiko,0,0,0,,Well, I am a certified \Nflower arrangement instructor.
+Dialogue: 0,0:09:27.44,0:09:29.88,Bengoshi-Flashback,Fumiko,0,0,0,,That's it. That's a good one.
+Dialogue: 0,0:09:32.03,0:09:34.93,Default,Kanae,0,0,0,,You've been steadily \Npreparing ever since...
+Dialogue: 0,0:09:35.48,0:09:39.29,Default,Hakamada,0,0,0,,You can take your first step \Ntoward self-sufficiency, at last.
+Dialogue: 0,0:09:40.97,0:09:44.14,Default,Fumiko,0,0,0,,Hakamada-sensei, and everyone else,
+Dialogue: 0,0:09:44.14,0:09:46.23,Default,Fumiko,0,0,0,,I cannot thank you all enough.
+Dialogue: 0,0:09:46.93,0:09:48.48,Default,Hakamada,0,0,0,,I must reiterate, however,
+Dialogue: 0,0:09:48.97,0:09:52.74,Default,Hakamada,0,0,0,,that these photos are not enough\N to demand compensation.
+Dialogue: 0,0:09:52.74,0:09:55.79,Default,Hakamada,0,0,0,,They are not sufficient \Nevidence of illicit activity.
+Dialogue: 0,0:09:56.13,0:09:59.00,Default,Kurumi,0,0,0,,As to the invasive investigation, \Nour performance is about to begin.
+Dialogue: 0,0:09:59.00,0:10:01.24,Default,Kurumi,0,0,0,,And if you would, please continue
+Dialogue: 0,0:10:01.24,0:10:03.85,Default,Kurumi,0,0,0,,with the investigation \Nof your husband's activities.
+Dialogue: 0,0:10:05.98,0:10:07.80,Default,Hakamada,0,0,0,,We're now at a critical stage.
+Dialogue: 0,0:10:08.78,0:10:10.19,Default,Hakamada,0,0,0,,I hope you're ready.
+Dialogue: 0,0:10:10.75,0:10:14.19,Default,Fumiko,0,0,0,,I have been ready for a long time now.
+Dialogue: 0,0:10:15.86,0:10:18.27,Default,Yoshie,0,0,0,,This is the final stage \Nbefore compensation.
+Dialogue: 0,0:10:18.27,0:10:20.07,Default,Yoshie,0,0,0,,Proceed with caution.
+Dialogue: 0,0:10:27.72,0:10:36.82,Bengoshi-Title,Title,0,0,0,,Divorce Chaser\N{\fs25}~Let's Turn Your Tears into Money~
+Dialogue: 0,0:10:37.18,0:10:42.02,Bengoshi-Ep_Title,Title right,0,0,0,,Divorce Chaser Episode 3\NOld Age Divorce, Top Secret Win-Win Method!!
+Dialogue: 0,0:10:42.02,0:10:44.32,Default,Fumiko,0,0,0,,Let's see...
+Dialogue: 0,0:10:42.02,0:10:48.03,Bengoshi-Chalkboard_Class,Blackboard,0,0,0,,Enandai Culture School\N 2:00PM \NFlower Arrangement Class\NSaionji-sensei
+Dialogue: 0,0:10:44.59,0:10:48.96,Default,Fumiko,0,0,0,,What if you inserted the yellow orchid here?
+Dialogue: 0,0:10:49.62,0:10:51.39,Default,Fumiko,0,0,0,,And one more.
+Dialogue: 0,0:10:51.82,0:10:54.11,Default,Student,0,0,0,,How lovely!
+Dialogue: 0,0:10:54.11,0:10:56.12,Default,Student,0,0,0,,Thank you very much!
+Dialogue: 0,0:10:56.12,0:11:01.08,Default,Student,0,0,0,,I'm so honored to be taught by \Nthe wife of professor Saionji.
+Dialogue: 0,0:11:01.08,0:11:03.74,Default,Student2,0,0,0,,It is an honor, isn't it?
+Dialogue: 0,0:11:03.74,0:11:08.05,Bengoshi-Saionji_Night,Plaque,0,0,0,,Saionji
+Dialogue: 0,0:11:10.73,0:11:14.02,Default,Saionji,0,0,0,,What were you doing out so late?
+Dialogue: 0,0:11:14.02,0:11:15.39,Default,Fumiko,0,0,0,,I am sorry.
+Dialogue: 0,0:11:15.39,0:11:18.49,Default,Fumiko,0,0,0,,I wish you had told me \Nyou would be home early.
+Dialogue: 0,0:11:18.49,0:11:20.74,Default,Saionji,0,0,0,,It's all because of that\N flower arrangement class.
+Dialogue: 0,0:11:20.74,0:11:24.68,Default,Saionji,0,0,0,,That's why you weren't home \Nto greet your husband.
+Dialogue: 0,0:11:24.68,0:11:27.20,Default,Saionji,0,0,0,,Throw this crap away!
+Dialogue: 0,0:11:27.20,0:11:29.05,Default,Fumiko,0,0,0,,What are you doing?!
+Dialogue: 0,0:11:29.05,0:11:31.77,Default,Fumiko,0,0,0,,The flower arrangement class means so much to me...
+Dialogue: 0,0:11:30.80,0:11:33.10,Bengoshi-Overlap,Saionji,0,0,0,,Who cares about your flower arrangement class?
+Dialogue: 0,0:11:33.10,0:11:34.27,Default,Saionji,0,0,0,,It's just a hobby, isn't it?
+Dialogue: 0,0:11:34.27,0:11:36.14,Default,Saionji,0,0,0,,As of today, you're quitting!
+Dialogue: 0,0:11:37.77,0:11:39.76,Default,Saionji,0,0,0,,I said, you're quitting!
+Dialogue: 0,0:11:39.76,0:11:41.88,Default,Fumiko,0,0,0,,Please, stop!
+Dialogue: 0,0:11:41.88,0:11:45.04,Default,Fumiko,0,0,0,,My students count on me!
+Dialogue: 0,0:11:46.09,0:11:46.75,Default,Saionji,0,0,0,,What?
+Dialogue: 0,0:11:47.37,0:11:48.29,Default,Saionji,0,0,0,,What?
+Dialogue: 0,0:11:49.65,0:11:51.19,Default,Saionji,0,0,0,,Yeah, sure.
+Dialogue: 0,0:11:51.19,0:11:52.89,Default,Saionji,0,0,0,,Cut the cheap trick.
+Dialogue: 0,0:11:52.89,0:11:55.83,Default,Saionji,0,0,0,,You can't even keep house properly.
+Dialogue: 0,0:11:55.83,0:11:58.09,Default,Saionji,0,0,0,,Flower arrangement class, my ass!
+Dialogue: 0,0:11:59.48,0:12:01.33,Default,Fumiko,0,0,0,,I am truly sorry.
+Dialogue: 0,0:12:01.33,0:12:04.04,Default,Fumiko,0,0,0,,I will return early from now on.
+Dialogue: 0,0:12:04.04,0:12:06.67,Default,Fumiko,0,0,0,,So please, please let me \Ncontinue the flower arrangement class...
+Dialogue: 0,0:12:06.67,0:12:10.93,Default,Fumiko,0,0,0,,Please let me continue \Nthe flower arrangement class!
+Dialogue: 0,0:12:11.70,0:12:14.28,Default,Saionji,0,0,0,,Who feeds you, huh?
+Dialogue: 0,0:12:14.28,0:12:15.58,Default,Saionji,0,0,0,,I said you're quitting, and you'll obey!
+Dialogue: 0,0:12:19.44,0:12:21.49,Default,Saionji,0,0,0,,What's with that look?
+Dialogue: 0,0:12:27.72,0:12:30.30,Default,Saionji,0,0,0,,What's with that look?
+Dialogue: 0,0:12:38.90,0:12:40.85,Default,Saionji,0,0,0,,Now, draw me a bath.
+Dialogue: 0,0:12:40.85,0:12:42.59,Default,Saionji,0,0,0,,Then, make dinner.
+Dialogue: 0,0:12:42.59,0:12:43.44,Default,Saionji,0,0,0,,Understood?
+Dialogue: 0,0:12:48.73,0:12:50.35,Default,Saionji,0,0,0,,Get on with it!
+Dialogue: 0,0:12:57.50,0:12:58.69,Default,Saionji,0,0,0,,Where do you think you're going?
+Dialogue: 0,0:13:02.22,0:13:06.08,Default,Yoshie,0,0,0,,I told you to proceed with caution.
+Dialogue: 0,0:13:06.08,0:13:09.38,Default,Kanae,0,0,0,,I understand how you \Nmust feel, Fumiko-san.
+Dialogue: 0,0:13:09.84,0:13:11.72,Default,Kanae,0,0,0,,You have bear with\N it one last time.
+Dialogue: 0,0:13:11.72,0:13:12.54,Default,Kanae,0,0,0,,You have to go back.
+Dialogue: 0,0:13:14.10,0:13:15.38,Default,Rina,0,0,0,,Hey, Sensei.
+Dialogue: 0,0:13:15.38,0:13:18.09,Default,Rina,0,0,0,,Your "invigoration bread" \Nisn't cutting it this time.
+Dialogue: 0,0:13:20.57,0:13:21.90,Default,Hakamada,0,0,0,,Fumiko-san.
+Dialogue: 0,0:13:21.90,0:13:24.81,Default,Hakamada,0,0,0,,We must establish a solid \Npremise for divorce.
+Dialogue: 0,0:13:25.14,0:13:28.56,Default,Hakamada,0,0,0,,We will have solid evidence of your\N husband's illicit activities soon,
+Dialogue: 0,0:13:29.48,0:13:31.22,Default,Hakamada,0,0,0,,so you have to persevere \Njust a little longer.
+Dialogue: 0,0:13:43.82,0:13:47.06,Default,Kanae,0,0,0,,I know it's painful, \Nbut please, return home.
+Dialogue: 0,0:13:47.06,0:13:49.51,Default,Kanae,0,0,0,,I'll go with you. Okay?
+Dialogue: 0,0:13:54.75,0:13:56.11,Default,Kanae,0,0,0,,Fumiko-san!
+Dialogue: 0,0:13:56.11,0:13:57.17,Default,Kanae,0,0,0,,Are you all right?
+Dialogue: 0,0:13:56.67,0:13:57.53,Bengoshi-Overlap,Yoshie,0,0,0,,Fumiko-san!
+Dialogue: 0,0:13:57.53,0:13:58.34,Default,Kanae,0,0,0,,Are you all right?
+Dialogue: 0,0:13:58.34,0:13:59.64,Default,Rina,0,0,0,,Are you all right?
+Dialogue: 0,0:13:59.64,0:14:01.40,Default,Fumiko,0,0,0,,I can't do it...
+Dialogue: 0,0:14:02.00,0:14:05.78,Default,Fumiko,0,0,0,,I don't even want to breathe \Nthe same air as my husband.
+Dialogue: 0,0:14:05.78,0:14:07.37,Default,Kanae,0,0,0,,Fumiko-san...
+Dialogue: 0,0:14:07.87,0:14:09.08,Default,Fumiko,0,0,0,,I...
+Dialogue: 0,0:14:09.49,0:14:12.73,Default,Fumiko,0,0,0,,I... If I stay with him...
+Dialogue: 0,0:14:13.90,0:14:17.33,Default,Fumiko,0,0,0,,I may kill him...
+Dialogue: 0,0:14:21.09,0:14:22.58,Default,Yoshie,0,0,0,,You mustn't.
+Dialogue: 0,0:14:22.58,0:14:26.50,Default,Yoshie,0,0,0,,If you kill him, you \Nwon't get compensated.
+Dialogue: 0,0:14:29.08,0:14:30.45,Default,Kanae,0,0,0,,Sensei...
+Dialogue: 0,0:14:38.01,0:14:42.29,Default,Hakamada,0,0,0,,Now that Fumiko-san has left her home...
+Dialogue: 0,0:14:45.97,0:14:49.98,Bengoshi-Top,Hakamada,0,0,0,,I have to use the moral harassment card.
+Dialogue: 0,0:14:47.37,0:14:51.70,Bengoshi-Vocab_Word,Caption top,0,0,0,,{\fad(550,550)}Moral harassment
+Dialogue: 0,0:14:47.37,0:14:51.70,Bengoshi-Vocab_Definition,Caption bottom,0,0,0,,{\fad(550,550)}Moral harassment -> psychological violence
+Dialogue: 0,0:14:49.98,0:14:52.08,Bengoshi-Top,Hakamada,0,0,0,,With it I'll bill for the divorce,
+Dialogue: 0,0:14:52.08,0:14:54.32,Bengoshi-Top,Hakamada,0,0,0,,bill for matrimonial expenses \Nin case of separation,
+Dialogue: 0,0:14:54.32,0:14:55.74,Bengoshi-Top,Hakamada,0,0,0,,and set the stage for \Nthe longer-term battle.
+Dialogue: 0,0:14:55.74,0:14:57.18,Default,Kanae,0,0,0,,What are "matrimonial expenses"?
+Dialogue: 0,0:14:57.18,0:15:03.92,Bengoshi-Vocab_Word,Caption,0,0,0,,{\fad(550,0)}Matrimonial expenses
+Dialogue: 0,0:14:58.41,0:15:03.92,Bengoshi-Vocab_Definition2,Caption2,0,0,0,,{\fad(550,0)}The husband can be billed \Nfor living expenses during a separation
+Dialogue: 0,0:14:58.43,0:15:02.35,Bengoshi-Top,Hakamada,0,0,0,,The husband can be billed \Nfor living expenses during a separation.
+Dialogue: 0,0:15:03.92,0:15:07.72,Default,Hakamada,0,0,0,,However, so that he \Ndoesn't get suspicious,
+Dialogue: 0,0:15:07.72,0:15:11.92,Default,Hakamada,0,0,0,,I'll keep that under wraps \Nuntil we have evidence of his adultery.
+Dialogue: 0,0:15:12.68,0:15:16.60,Default,Yoshie,0,0,0,,You're buying time while \NKurumi-chan gathers evidence.
+Dialogue: 0,0:15:16.60,0:15:19.57,Default,Kanae,0,0,0,,But, what if we don't get solid evidence?
+Dialogue: 0,0:15:20.43,0:15:24.93,Default,Hakamada,0,0,0,,Based on the current situation,\N it would be difficult to get compensation.
+Dialogue: 0,0:15:25.84,0:15:28.57,Default,Kanae,0,0,0,,I hope Fumiko-san can go on with this.
+Dialogue: 0,0:15:28.57,0:15:34.25,Default,Hakamada,0,0,0,,The year-long preparation period is also \Na barometer of the client's commitment.
+Dialogue: 0,0:15:34.70,0:15:36.97,Default,Hakamada,0,0,0,,I believe she will pave \Nher own path from here on.
+Dialogue: 0,0:15:36.97,0:15:39.39,Default,Hakamada,0,0,0,,No matter what happens.
+Dialogue: 0,0:15:39.39,0:15:40.67,Default,Hakamada,0,0,0,,Fumiko-san can do it.
+Dialogue: 0,0:15:42.15,0:15:45.00,Default,Asako,0,0,0,,No way. Really?
+Dialogue: 0,0:15:45.00,0:15:46.68,Default,Asako,0,0,0,,I'm so happy.
+Dialogue: 0,0:15:47.23,0:15:49.96,Default,Asako,0,0,0,,Excuse me. I'd like \Nanother one of these.
+Dialogue: 0,0:15:49.96,0:15:51.49,Default,Kurumi,0,0,0,,Right away.
+Dialogue: 0,0:16:08.75,0:16:10.08,Default,Saionji,0,0,0,,Hold on.
+Dialogue: 0,0:16:13.73,0:16:15.21,Default,Hakamada,0,0,0,,How do you do?
+Dialogue: 0,0:16:15.21,0:16:17.46,Default,Hakamada,0,0,0,,I'm an attorney from the \NHakamada Law Office.
+Dialogue: 0,0:16:17.46,0:16:19.13,Default,Hakamada,0,0,0,,My name is Hakamada.
+Dialogue: 0,0:16:19.90,0:16:23.60,Default,Hakamada,0,0,0,,I represent your wife, \Nwho is requesting a divorce.
+Dialogue: 0,0:16:24.05,0:16:26.68,Default,Saionji,0,0,0,,Requesting a divorce?
+Dialogue: 0,0:16:28.26,0:16:30.25,Default,Saionji,0,0,0,,Divorce.
+Dialogue: 0,0:16:30.25,0:16:32.89,Default,Saionji,0,0,0,,She must be momentarily confused.
+Dialogue: 0,0:16:32.89,0:16:37.61,Default,Kanae,0,0,0,,Your wife can no longer endure \Nyour moral harassment,
+Dialogue: 0,0:16:37.61,0:16:39.38,Default,Kanae,0,0,0,,and desires a divorce.
+Dialogue: 0,0:16:41.17,0:16:42.84,Default,Saionji,0,0,0,,There's a misunderstanding.
+Dialogue: 0,0:16:42.84,0:16:47.74,Default,Saionji,0,0,0,,She was doing that flower arrangement class \Nand neglecting her household duties.
+Dialogue: 0,0:16:47.74,0:16:52.43,Default,Saionji,0,0,0,,So I cautioned her a little, that's all.
+Dialogue: 0,0:16:52.43,0:16:53.86,Default,Saionji,0,0,0,,Poor thing.
+Dialogue: 0,0:16:54.46,0:16:58.70,Default,Saionji,0,0,0,,That woman can't do a thing on her own.
+Dialogue: 0,0:16:58.70,0:17:00.05,Default,Saionji,0,0,0,,Just leave her be.
+Dialogue: 0,0:17:00.05,0:17:02.33,Default,Saionji,0,0,0,,She'll come crawling back to me.
+Dialogue: 0,0:17:02.33,0:17:03.64,Default,Hakamada,0,0,0,,I wonder about that.
+Dialogue: 0,0:17:05.07,0:17:07.01,Default,Hakamada,0,0,0,,According to Fumiko-san's research,
+Dialogue: 0,0:17:07.01,0:17:13.77,Default,Hakamada,0,0,0,,the net worth of the Saionji household\N is 60,252,063 yen,
+Dialogue: 0,0:17:14.21,0:17:16.38,Bengoshi-Saionji_Worth,Words,0,0,0,,Saionji Tadashi Financial Property List\N Net worth: 60,252,063 yen
+Dialogue: 0,0:17:16.75,0:17:18.38,Default,Saionji,0,0,0,,What is this?
+Dialogue: 0,0:17:18.38,0:17:20.40,Default,Hakamada,0,0,0,,She can't do anything on her own?
+Dialogue: 0,0:17:20.81,0:17:24.38,Default,Hakamada,0,0,0,,I'd say her research was quite splendid.
+Dialogue: 0,0:17:25.66,0:17:27.31,Default,Saionji,0,0,0,,Don't be absurd!
+Dialogue: 0,0:17:27.31,0:17:30.40,Default,Saionji,0,0,0,,I worked for this money.\N This is {\i1}my{\i0} money!
+Dialogue: 0,0:17:30.40,0:17:32.83,Default,Hakamada,0,0,0,,It might be in your name,
+Dialogue: 0,0:17:32.83,0:17:36.97,Default,Hakamada,0,0,0,,but financial properties acquired \Nduring matrimony belong to the couple.
+Dialogue: 0,0:17:37.38,0:17:39.93,Default,Hakamada,0,0,0,,In the case of divorce, \Nyour wife is entitled to half.
+Dialogue: 0,0:17:39.93,0:17:43.24,Default,Hakamada,0,0,0,,That is, approximately 30 million yen.
+Dialogue: 0,0:17:43.24,0:17:45.04,Default,Saionji,0,0,0,,30 million?
+Dialogue: 0,0:17:46.53,0:17:48.28,Default,Saionji,0,0,0,,When did she do this?
+Dialogue: 0,0:17:49.17,0:17:50.42,Default,Saionji,0,0,0,,Where is she?
+Dialogue: 0,0:17:51.04,0:17:53.30,Default,Hakamada,0,0,0,,We are keeping her safe at our office.
+Dialogue: 0,0:17:53.30,0:17:55.01,Default,Saionji,0,0,0,,I won't agree to it!
+Dialogue: 0,0:17:55.01,0:17:56.68,Default,Saionji,0,0,0,,She's the one who walked out on me!
+Dialogue: 0,0:17:56.68,0:17:58.49,Default,Saionji,0,0,0,,I won't give her a single yen!
+Dialogue: 0,0:17:58.49,0:18:01.99,Default,Saionji,0,0,0,,And I won't consent to a divorce!
+Dialogue: 0,0:18:02.90,0:18:04.58,Default,Kanae,0,0,0,,Don't.
+Dialogue: 0,0:18:04.08,0:18:05.00,Bengoshi-Overlap,Saionji,0,0,0,,This is a load of crap!
+Dialogue: 0,0:18:05.00,0:18:06.30,Default,Hakamada,0,0,0,,Go right ahead.
+Dialogue: 0,0:18:06.30,0:18:07.72,Default,Hakamada,0,0,0,,We've saved the data.
+Dialogue: 0,0:18:07.72,0:18:10.20,Default,Hakamada,0,0,0,,Rip it up to your heart's content.
+Dialogue: 0,0:18:12.19,0:18:13.39,Default,Saionji,0,0,0,,Get out!
+Dialogue: 0,0:18:13.39,0:18:15.30,Default,Saionji,0,0,0,,Get out now!
+Dialogue: 0,0:18:16.72,0:18:17.97,Default,Hakamada,0,0,0,,I see.
+Dialogue: 0,0:18:18.54,0:18:20.54,Default,Hakamada,0,0,0,,It's just as Fumiko-san said.
+Dialogue: 0,0:18:21.24,0:18:26.24,Default,Hakamada,0,0,0,,You have trouble \Ncontrolling your emotions.
+Dialogue: 0,0:18:26.97,0:18:30.68,Default,Hakamada,0,0,0,,You and I will have a discussion later,
+Dialogue: 0,0:18:30.68,0:18:33.34,Default,Hakamada,0,0,0,,concerning compensation for \Nmoral harassment of your wife,
+Dialogue: 0,0:18:33.34,0:18:36.96,Default,Hakamada,0,0,0,,and matrimonial expenses while \Nshe lives separately from you.
+Dialogue: 0,0:18:37.71,0:18:39.27,Default,Hakamada,0,0,0,,Please look forward to it.
+Dialogue: 0,0:18:49.98,0:18:52.18,Bengoshi-Hakamada_Office_Sign,Window,0,0,0,,Hakamada Law Office
+Dialogue: 0,0:18:50.72,0:18:52.18,Default,Hakamada,0,0,0,,Now, everyone.
+Dialogue: 0,0:18:52.18,0:18:54.84,Default,Hakamada,0,0,0,,Nutrition fortification series, part two!
+Dialogue: 0,0:18:54.84,0:18:57.88,Default,Hakamada,0,0,0,,I have just finished baking \Nred adder Korean ginseng bread.
+Dialogue: 0,0:18:57.88,0:18:59.02,Default,Hakamada,0,0,0,,Let's have lunch.
+Dialogue: 0,0:18:59.84,0:19:01.18,Default,Kanae & Yoshie & Rina,0,0,0,,Go ahead.
+Dialogue: 0,0:19:01.18,0:19:02.04,Default,Kanae & Yoshie & Rina,0,0,0,,Go ahead.
+Dialogue: 0,0:19:01.18,0:19:02.04,Bengoshi-Overlap,Kanae & Yoshie & Rina,0,0,0,,After you.
+Dialogue: 0,0:19:02.04,0:19:03.73,Default,Kanae & Yoshie & Rina,0,0,0,,No, you go ahead!
+Dialogue: 0,0:19:02.64,0:19:04.30,Bengoshi-Overlap,Hakamada,0,0,0,,No need to hesitate.
+Dialogue: 0,0:19:06.03,0:19:08.92,Default,Fumiko,0,0,0,,How very kind of you.\N I will try one.
+Dialogue: 0,0:19:08.92,0:19:11.86,Default,Rina,0,0,0,,Well... I don't think you should...
+Dialogue: 0,0:19:10.53,0:19:12.46,Bengoshi-Overlap,Hakamada,0,0,0,,Please. It's fresh from the oven.
+Dialogue: 0,0:19:13.02,0:19:14.84,Default,Fumiko,0,0,0,,Thank you.
+Dialogue: 0,0:19:17.17,0:19:18.47,Default,Fumiko,0,0,0,,Dear.
+Dialogue: 0,0:19:19.07,0:19:20.69,Default,Yoshie,0,0,0,,Is that the moral-harassment husband?
+Dialogue: 0,0:19:23.22,0:19:24.74,Default,Rina,0,0,0,,Hey, what do you want?
+Dialogue: 0,0:19:24.74,0:19:25.56,Default,Saionji,0,0,0,,Out of my way.
+Dialogue: 0,0:19:25.56,0:19:26.70,Default,Saionji,0,0,0,,Hey. You're going home.
+Dialogue: 0,0:19:26.70,0:19:28.67,Default,Fumiko,0,0,0,,No. I will not go back.
+Dialogue: 0,0:19:28.67,0:19:30.13,Default,Saionji,0,0,0,,Never mind. You're coming back.
+Dialogue: 0,0:19:29.14,0:19:30.52,Bengoshi-Overlap,Yoshie,0,0,0,,Hey you!
+Dialogue: 0,0:19:29.60,0:19:31.14,Bengoshi-Top,Kanae,0,0,0,,Please stop!
+Dialogue: 0,0:19:32.09,0:19:34.17,Default,Saionji,0,0,0,,Boy, you're stupid.
+Dialogue: 0,0:19:34.17,0:19:36.90,Default,Saionji,0,0,0,,Don't you know they're conning you?
+Dialogue: 0,0:19:36.90,0:19:37.81,Default,Saionji,0,0,0,,Let's go.
+Dialogue: 0,0:19:38.45,0:19:40.13,Default,Kanae,0,0,0,,Please stop it.
+Dialogue: 0,0:19:42.51,0:19:44.33,Default,Hakamada,0,0,0,,I may be overstepping out bounds,
+Dialogue: 0,0:19:45.69,0:19:51.24,Default,Hakamada,0,0,0,,but I don't tolerate \Nharassment in my office.
+Dialogue: 0,0:19:51.24,0:19:53.04,Default,Kanae,0,0,0,,Sensei.
+Dialogue: 0,0:19:56.74,0:19:59.34,Default,Saionji,0,0,0,,What's all this about harassment?
+Dialogue: 0,0:19:59.34,0:20:00.45,Default,Saionji,0,0,0,,Bastard.
+Dialogue: 0,0:20:00.45,0:20:01.81,Default,Hakamada,0,0,0,,My name is Hakamada!
+Dialogue: 0,0:20:01.81,0:20:02.94,Default,Saionji,0,0,0,,No, you're a bastard.
+Dialogue: 0,0:20:02.94,0:20:05.36,Default,Saionji,0,0,0,,You're the culprit who tricked Fumiko.
+Dialogue: 0,0:20:05.90,0:20:07.88,Default,Hakamada,0,0,0,,If you don't let go,
+Dialogue: 0,0:20:07.88,0:20:12.43,Default,Hakamada,0,0,0,,domestic violence will be added \Nto your compensation fee.
+Dialogue: 0,0:20:12.43,0:20:14.28,Default,Hakamada,0,0,0,,Are you okay with that?
+Dialogue: 0,0:20:17.56,0:20:20.25,Default,Saionji,0,0,0,,Hakamada Law Office, my ass!
+Dialogue: 0,0:20:20.25,0:20:21.97,Default,Saionji,0,0,0,,You're nothing but a third-rate lawyer.
+Dialogue: 0,0:20:22.69,0:20:24.36,Default,Saionji,0,0,0,,I have representation by \Na first-rate law firm,
+Dialogue: 0,0:20:24.36,0:20:26.44,Default,Saionji,0,0,0,,which has served my \Nfamily for generations.
+Dialogue: 0,0:20:26.44,0:20:28.01,Default,Saionji,0,0,0,,You're in for a treat!
+Dialogue: 0,0:20:33.56,0:20:34.57,Default,Hakamada,0,0,0,,Yes.
+Dialogue: 0,0:20:35.18,0:20:40.45,Default,Hakamada,0,0,0,,I'm in for a treat, all right.
+Dialogue: 0,0:20:41.69,0:20:46.36,Default,Nakatani,0,0,0,,Saionji-san states he has no recollection\N of instances of moral harassment.
+Dialogue: 0,0:20:41.72,0:20:43.76,Bengoshi-Nakatani_Card,Biz card,0,0,0,,Wilson-Nakatani Corporate Law Offices\NAttorney at Law: {\b1}Nakatani Takuya{\b0}
+Dialogue: 0,0:20:46.36,0:20:49.98,Default,Nakatani,0,0,0,,Regardless of the fact that \Nher husband is faultless,
+Dialogue: 0,0:20:49.98,0:20:54.60,Default,Nakatani,0,0,0,,the wife has requested \Ndivorce of her own accord.
+Dialogue: 0,0:20:54.60,0:20:58.30,Bengoshi-Credits_Right,Caption,0,0,0,,{\fad(380,0)}Saionji's legal adviser: \NNakatani Takuya
+Dialogue: 0,0:20:54.60,0:20:58.30,Bengoshi-Top,Nakatani,0,0,0,,This being the case, the wife will be \Nliable for compensating her husband.
+Dialogue: 0,0:20:58.30,0:21:03.08,Default,Nakatani,0,0,0,,It will be deducted when their assets\Nare divided on occasion of a divorce.
+Dialogue: 0,0:21:03.56,0:21:06.05,Default,Hakamada,0,0,0,,Is he intending to take it to court?
+Dialogue: 0,0:21:06.05,0:21:09.81,Default,Nakatani,0,0,0,,The wife started a new business, \Nthen neglected her family life,
+Dialogue: 0,0:21:09.81,0:21:13.05,Default,Nakatani,0,0,0,,thereby leaving her husband \Nin the lurch, all to himself.
+Dialogue: 0,0:21:13.05,0:21:15.29,Default,Nakatani,0,0,0,,He is emphatic on this point.
+Dialogue: 0,0:21:15.29,0:21:20.63,Default,Hakamada,0,0,0,,Concretely explain what \Nyou mean by "neglected."
+Dialogue: 0,0:21:20.63,0:21:22.76,Default,Nakatani,0,0,0,,Preparing meals,
+Dialogue: 0,0:21:23.07,0:21:24.48,Default,Nakatani,0,0,0,,cleaning...
+Dialogue: 0,0:21:24.48,0:21:26.74,Default,Nakatani,0,0,0,,General household duties.
+Dialogue: 0,0:21:27.10,0:21:30.29,Default,Nakatani,0,0,0,,It's typical in cases such as this.
+Dialogue: 0,0:21:37.11,0:21:38.29,Default,Hakamada,0,0,0,,These journals contain
+Dialogue: 0,0:21:38.29,0:21:41.34,Default,Hakamada,0,0,0,,One year's worth of entries since \NFumiko-san started her flower arrangement class.
+Dialogue: 0,0:21:41.34,0:21:45.50,Default,Hakamada,0,0,0,,For one whole year she has logged \Nwith dates, morning and evening,
+Dialogue: 0,0:21:45.50,0:21:47.62,Default,Hakamada,0,0,0,,the two meals per day she prepared,
+Dialogue: 0,0:21:47.62,0:21:49.36,Default,Hakamada,0,0,0,,the upkeep of their home, doing laundry,
+Dialogue: 0,0:21:49.36,0:21:51.22,Default,Hakamada,0,0,0,,and so on, accompanied \Nwith photographs.
+Dialogue: 0,0:21:51.71,0:21:52.86,Default,Nakatani,0,0,0,,If I may say so,
+Dialogue: 0,0:21:55.26,0:21:57.50,Default,Hakamada,0,0,0,,Fumiko-san is a very meticulous person.
+Dialogue: 0,0:21:57.50,0:22:02.49,Default,Hakamada,0,0,0,,And coincidentally, the journals \Nprovide fodder for her case.
+Dialogue: 0,0:22:02.00,0:22:03.67,Bengoshi-Journal_Entries,Notebook page (top),0,0,0,,{\a8}2013 February 3 (Sunday). \NA month has passed since I began teaching flower arrangement class...
+Dialogue: 0,0:22:03.67,0:22:05.64,Bengoshi-Journal_Entries,Notebook page under photo,0,0,0,,{\a2\3c&HE7D1E9&}My husband said, "Mussel soup again? Did you forget you served it yesterday? Are you dumber than an elementary schooler?"
+Dialogue: 0,0:22:05.64,0:22:07.67,Bengoshi-Journal_Entries,Notebook margin,0,0,0,,{\a2\3c&HE1CDE0&}Daikon salad, he left two bites untouched.
+Dialogue: 0,0:22:21.30,0:22:22.94,Default,Hakamada,0,0,0,,The exit is that way.
+Dialogue: 0,0:22:24.52,0:22:27.56,Bengoshi-Saionji_Evening,Plaque,0,0,0,,Saionji
+Dialogue: 0,0:22:25.90,0:22:31.54,Default,Nakatani,0,0,0,,Your wife's journals are sufficient \Nevidence for the court
+Dialogue: 0,0:22:31.54,0:22:34.78,Default,Nakatani,0,0,0,,that she was not neglectful \Nof her household duties.
+Dialogue: 0,0:22:34.78,0:22:36.48,Default,Saionji,0,0,0,,So what?
+Dialogue: 0,0:22:36.93,0:22:39.38,Default,Nakatani,0,0,0,,That lawyer Hakamada...
+Dialogue: 0,0:22:39.38,0:22:43.88,Default,Nakatani,0,0,0,,He looks like a goof, \Nbut he's quite wily.
+Dialogue: 0,0:22:43.88,0:22:46.86,Default,Nakatani,0,0,0,,Though they appear\N to be your wife's journals,
+Dialogue: 0,0:22:46.86,0:22:52.82,Default,Nakatani,0,0,0,,he probably advised her a year \Nago to keep a detailed record.
+Dialogue: 0,0:22:53.34,0:22:56.40,Default,Nakatani,0,0,0,,Gauging the fact that she has even \Nlisted all your financial assets,
+Dialogue: 0,0:22:56.40,0:22:59.64,Default,Nakatani,0,0,0,,we must assume our opponent has \Neven more thorough preparations.
+Dialogue: 0,0:22:59.92,0:23:01.85,Default,Saionji,0,0,0,,My home, my property.
+Dialogue: 0,0:23:02.34,0:23:04.66,Default,Saionji,0,0,0,,She's going to take half of everything?
+Dialogue: 0,0:23:04.66,0:23:06.73,Default,Nakatani,0,0,0,,As for that, please don't worry.
+Dialogue: 0,0:23:07.03,0:23:15.38,Bengoshi-Vocab_Word,Top caption,0,0,0,,{\fad(550,0)}Separate property
+Dialogue: 0,0:23:07.03,0:23:15.38,Bengoshi-Vocab_Definition2,Bottom,0,0,0,,{\fs22\fad(500,0)}Estate inherited from previous generations {\b1\c&H2BE8FC&}→{\b0\c&HFCFCFF&} exempt from property distribution
+Dialogue: 0,0:23:07.12,0:23:08.70,Bengoshi-Top,Nakatani,0,0,0,,We will claim it as separate property,
+Dialogue: 0,0:23:08.70,0:23:11.14,Bengoshi-Top,Nakatani,0,0,0,,in which case it will be exempt \Nfrom property distribution.
+Dialogue: 0,0:23:11.14,0:23:13.13,Bengoshi-Top,Nakatani,0,0,0,,Everything you have inherited from your family
+Dialogue: 0,0:23:13.13,0:23:15.41,Bengoshi-Top,Nakatani,0,0,0,,is exempt from property distribution.
+Dialogue: 0,0:23:15.97,0:23:17.88,Default,Saionji,0,0,0,,Anyway, do something.
+Dialogue: 0,0:23:17.88,0:23:19.71,Default,Saionji,0,0,0,,You're a legal advisor, aren't you?
+Dialogue: 0,0:23:20.00,0:23:22.28,Default,Saionji,0,0,0,,And don't let her take \Na single yen of my money.
+Dialogue: 0,0:23:22.28,0:23:23.42,Default,Nakatani,0,0,0,,Saionji-san.
+Dialogue: 0,0:23:24.40,0:23:27.56,Default,Nakatani,0,0,0,,If as you say you don't \Nwant her to take a yen,
+Dialogue: 0,0:23:27.56,0:23:31.89,Default,Nakatani,0,0,0,,we would need your wife to withdraw\N her request for divorce.
+Dialogue: 0,0:23:31.89,0:23:33.68,Default,Saionji,0,0,0,,What am I supposed to do about it?
+Dialogue: 0,0:23:33.94,0:23:36.76,Default,Nakatani,0,0,0,,Firstly, sincerely apologize to her.
+Dialogue: 0,0:23:37.31,0:23:41.59,Default,Nakatani,0,0,0,,Then you apologize, apologize, \Nand keep apologizing.
+Dialogue: 0,0:23:41.59,0:23:46.03,Default,Saionji,0,0,0,,I've been feeding that \Nworthless woman for 34 years.
+Dialogue: 0,0:23:46.03,0:23:47.77,Default,Saionji,0,0,0,,Why do {\i1}I{\i0} have to apologize?
+Dialogue: 0,0:23:47.77,0:23:50.48,Default,Nakatani,0,0,0,,Do you want her to make off \Nwith your fortune?
+Dialogue: 0,0:23:51.65,0:23:53.84,Default,Nakatani,0,0,0,,It's cheaper to apologize.
+Dialogue: 0,0:23:54.20,0:23:56.76,Default,Nakatani,0,0,0,,However, if you decide to apologize,
+Dialogue: 0,0:23:56.76,0:23:59.54,Default,Nakatani,0,0,0,,be as sincere as you can,\Nkeep your emotions under control,
+Dialogue: 0,0:23:59.54,0:24:01.06,Default,Nakatani,0,0,0,,and keep apologizing.
+Dialogue: 0,0:24:07.19,0:24:09.58,Default,Fumiko,0,0,0,,I don't want to see Saionji ever again.
+Dialogue: 0,0:24:09.98,0:24:15.56,Default,Kanae,0,0,0,,His lawyer says your husband\N is deeply repentant,
+Dialogue: 0,0:24:15.56,0:24:18.70,Default,Kanae,0,0,0,,and wants to beg your forgiveness \Nfrom the bottom of his heart.
+Dialogue: 0,0:24:18.70,0:24:20.28,Default,Fumiko,0,0,0,,Beg my forgiveness?
+Dialogue: 0,0:24:20.72,0:24:23.21,Default,Fumiko,0,0,0,,I know what that Saionji is up to.
+Dialogue: 0,0:24:23.65,0:24:25.77,Default,Fumiko,0,0,0,,I don't want to see \Nhis face ever again!
+Dialogue: 0,0:24:26.41,0:24:29.79,Default,Kanae,0,0,0,,I know you can't bear to breathe\N the same air as him.
+Dialogue: 0,0:24:29.79,0:24:31.90,Default,Kanae,0,0,0,,I know how that feels.
+Dialogue: 0,0:24:31.90,0:24:33.79,Default,Kanae,0,0,0,,I was like that, too.
+Dialogue: 0,0:24:34.32,0:24:36.69,Default,Hakamada,0,0,0,,Let's meet with your husband.
+Dialogue: 0,0:24:36.69,0:24:37.86,Default,Kanae,0,0,0,,Huh?
+Dialogue: 0,0:24:41.93,0:24:44.07,Bengoshi-Hakamada_Vertical_Sign,Sign,0,0,0,,Hakamada\N Law Office
+Dialogue: 0,0:24:52.84,0:24:54.59,Default,Saionji,0,0,0,,I'm sorry.
+Dialogue: 0,0:24:55.23,0:25:00.51,Default,Saionji,0,0,0,,I didn't know you were so unhappy.
+Dialogue: 0,0:25:01.70,0:25:07.23,Default,Fumiko,0,0,0,,This is the first time you \Nhave ever apologized to me.
+Dialogue: 0,0:25:08.52,0:25:11.86,Default,Saionji,0,0,0,,I make no excuses. Truly.
+Dialogue: 0,0:25:13.16,0:25:14.66,Default,Fumiko,0,0,0,,"I am sorry."
+Dialogue: 0,0:25:15.21,0:25:16.53,Default,Fumiko,0,0,0,,"I make no excuses."
+Dialogue: 0,0:25:18.78,0:25:21.57,Default,Fumiko,0,0,0,,I want you to show me\N your genuine feelings.
+Dialogue: 0,0:25:21.57,0:25:23.11,Default,Saionji,0,0,0,,Genuine feelings?
+Dialogue: 0,0:25:23.11,0:25:24.37,Default,Saionji,0,0,0,,How dare you talk to me that way!
+Dialogue: 0,0:25:24.37,0:25:25.39,Default,Nakatani,0,0,0,,Saionji-san.
+Dialogue: 0,0:25:29.81,0:25:32.74,Default,Saionji,0,0,0,,I am sorry. I mean it!
+Dialogue: 0,0:25:41.88,0:25:45.29,Default,Fumiko,0,0,0,,You're not bowing low enough.\N It's meaningless!
+Dialogue: 0,0:25:48.46,0:25:50.11,Default,Fumiko,0,0,0,,What's the matter?
+Dialogue: 0,0:25:50.86,0:25:54.40,Default,Fumiko,0,0,0,,Is that not what you always say to me?
+Dialogue: 0,0:25:54.40,0:25:57.36,Bengoshi-Flashback,Saionji,0,0,0,,You're not bowing low enough.\N It's meaningless!
+Dialogue: 0,0:25:57.75,0:25:58.82,Default,Saionji,0,0,0,,You...
+Dialogue: 0,0:25:58.82,0:26:04.52,Default,Fumiko,0,0,0,,Do you have any idea \Nof why I was unhappy?
+Dialogue: 0,0:26:05.41,0:26:07.48,Default,Fumiko,0,0,0,,Isn't that what you came \Nto apologize about?
+Dialogue: 0,0:26:07.94,0:26:12.02,Default,Fumiko,0,0,0,,Tell me. Why was I unhappy?
+Dialogue: 0,0:26:12.02,0:26:15.54,Default,Saionji,0,0,0,,Well, you know...
+Dialogue: 0,0:26:17.10,0:26:19.97,Default,Fumiko,0,0,0,,You don't even know why \Nyou're apologizing.
+Dialogue: 0,0:26:19.97,0:26:21.22,Default,Fumiko,0,0,0,,You're a riot.
+Dialogue: 0,0:26:21.95,0:26:23.08,Default,Saionji,0,0,0,,What's so funny?
+Dialogue: 0,0:26:23.08,0:26:25.38,Default,Saionji,0,0,0,,How dare you take advantage of my—
+Dialogue: 0,0:26:25.38,0:26:27.13,Default,Fumiko,0,0,0,,So, you wanted to apologize.
+Dialogue: 0,0:26:27.55,0:26:30.07,Default,Fumiko,0,0,0,,I knew it was just a ploy!
+Dialogue: 0,0:26:32.44,0:26:34.27,Default,Saionji,0,0,0,,You trapped me, didn't you?
+Dialogue: 0,0:26:34.27,0:26:37.88,Default,Saionji,0,0,0,,I fed you for 34 years, and\N this is the thanks I get?
+Dialogue: 0,0:26:37.88,0:26:38.96,Default,Fumiko,0,0,0,,That's right.
+Dialogue: 0,0:26:38.96,0:26:43.04,Default,Fumiko,0,0,0,,For 34 years as a housewife,
+Dialogue: 0,0:26:43.04,0:26:46.57,Default,Fumiko,0,0,0,,until Ayaka grew up, I had no \Nchoice but to live with you.
+Dialogue: 0,0:26:47.36,0:26:49.09,Default,Fumiko,0,0,0,,With a person like {\i1}you!{\i0}
+Dialogue: 0,0:26:49.09,0:26:53.00,Default,Saionji,0,0,0,,"A person like you"? How dare you!
+Dialogue: 0,0:26:53.00,0:26:54.26,Default,Nakatani,0,0,0,,Saionji-san.
+Dialogue: 0,0:26:54.82,0:26:57.46,Default,Hakamada,0,0,0,,Fumiko-san has lived with you,
+Dialogue: 0,0:26:57.46,0:27:00.59,Default,Hakamada,0,0,0,,and knows what kind of person \Nyou are, through and through.
+Dialogue: 0,0:27:01.38,0:27:04.68,Default,Hakamada,0,0,0,,On the other hand, for 34 years,
+Dialogue: 0,0:27:05.34,0:27:09.54,Default,Hakamada,0,0,0,,you have known nothing about Fumiko-san.
+Dialogue: 0,0:27:11.97,0:27:13.78,Default,Hakamada,0,0,0,,And now you have to face reality.
+Dialogue: 0,0:27:15.40,0:27:19.71,Default,Hakamada,0,0,0,,What you can do now, \Nis to learn of Fumiko-san's pain,
+Dialogue: 0,0:27:20.48,0:27:22.56,Default,Hakamada,0,0,0,,and express your genuine feelings.
+Dialogue: 0,0:27:25.66,0:27:26.63,Default,Saionji,0,0,0,,Ha!
+Dialogue: 0,0:27:27.22,0:27:30.65,Default,Saionji,0,0,0,,Wake up, you dumb woman!
+Dialogue: 0,0:27:30.93,0:27:35.42,Default,Saionji,0,0,0,,Don't you realize this \Nlawyer is tricking you?
+Dialogue: 0,0:27:35.42,0:27:36.80,Default,Nakatani,0,0,0,,Saionji-san, please calm down!
+Dialogue: 0,0:27:36.94,0:27:39.70,Default,Saionji,0,0,0,,You don't know how the world works!
+Dialogue: 0,0:27:39.70,0:27:42.33,Default,Saionji,0,0,0,,You'll never make it alone!
+Dialogue: 0,0:27:42.33,0:27:44.64,Default,Saionji,0,0,0,,You're going to regret this!
+Dialogue: 0,0:27:50.11,0:27:54.05,Default,Nakatani,0,0,0,,Your wife is firmly \Nresolved to divorce you.
+Dialogue: 0,0:27:54.05,0:27:56.51,Default,Nakatani,0,0,0,,To protect your assets, \Nwe will take it to court.
+Dialogue: 0,0:27:56.51,0:28:01.43,Default,Nakatani,0,0,0,,But before we do, it would be most \Njudicious to refer to arbitration.
+Dialogue: 0,0:28:01.43,0:28:03.31,Default,Saionji,0,0,0,,You're saying I should get the divorce?
+Dialogue: 0,0:28:03.31,0:28:06.70,Default,Nakatani,0,0,0,,By referring to arbitration \Nbefore taking it to court,
+Dialogue: 0,0:28:06.70,0:28:10.17,Default,Nakatani,0,0,0,,we can minimize the compensation.
+Dialogue: 0,0:28:10.17,0:28:13.23,Default,Nakatani,0,0,0,,I will outline the arbitration proposal.
+Dialogue: 0,0:28:13.60,0:28:17.95,Default,Nakatani,0,0,0,,Before the opposing attorney \Ngarners any evidence,
+Dialogue: 0,0:28:17.95,0:28:20.29,Default,Nakatani,0,0,0,,I advise you to make \Nyour decision immediately.
+Dialogue: 0,0:28:20.29,0:28:21.23,Default,Nakatani,0,0,0,,Goodbye.
+Dialogue: 0,0:28:27.23,0:28:29.76,Default,Misato,0,0,0,,Divorcing at old age...
+Dialogue: 0,0:28:28.89,0:28:30.92,Bengoshi-Manga_Bubbble,Manga bubble right,0,0,0,,Divorce?! You think you can\N make it on your own?!
+Dialogue: 0,0:28:28.89,0:28:30.92,Bengoshi-Manga_Bubbble,Manga bubble left,0,0,0,,{\a10}You're coming home!!
+Dialogue: 0,0:28:29.76,0:28:32.27,Default,Misato,0,0,0,,A woman's grudge is a scary thing.
+Dialogue: 0,0:28:32.27,0:28:38.66,Default,Kanae,0,0,0,,The crux of the story is that the husband\N is clueless that his wife loathes him.
+Dialogue: 0,0:28:39.03,0:28:42.29,Default,Kanae,0,0,0,,Makes you wonder what \Nmarriage is all about.
+Dialogue: 0,0:28:42.63,0:28:46.71,Default,Misato,0,0,0,,It's your job to find out, Kanae-sensei.
+Dialogue: 0,0:28:46.71,0:28:48.02,Default,Kanae,0,0,0,,"Sensei"?
+Dialogue: 0,0:28:48.02,0:28:50.79,Default,Kanae,0,0,0,,Oh stop it. "Sensei." \NJeez, come on.
+Dialogue: 0,0:28:50.79,0:28:53.56,Default,Misato,0,0,0,,Your popularity is off \Nthe charts lately.
+Dialogue: 0,0:28:53.56,0:28:55.67,Default,Misato,0,0,0,,Please keep up the good work.
+Dialogue: 0,0:28:56.15,0:28:59.69,Bengoshi-Credits_Misato,Caption,0,0,0,,{\fad(380,380)}Editor at Tokiwa Publishing:\N Tabata Misato
+Dialogue: 0,0:28:56.15,0:29:00.90,Bengoshi-Top,Misato,0,0,0,,I can't wait to find out what \Nhappens to the senior couple.
+Dialogue: 0,0:29:01.36,0:29:02.48,Default,Kanae,0,0,0,,Me, too.
+Dialogue: 0,0:29:02.48,0:29:03.69,Default,Kanae,0,0,0,,I wonder what's going to happen.
+Dialogue: 0,0:29:04.72,0:29:08.09,Bengoshi-Credits_Sara,Caption,0,0,0,,{\fad(380,380)}Cafe waitress: \NMizutani Sara
+Dialogue: 0,0:29:06.10,0:29:08.16,Default,Sara,0,0,0,,First there will be thunder...
+Dialogue: 0,0:29:11.94,0:29:15.81,Default,Sara,0,0,0,,Then, there will be a rain of blood.
+Dialogue: 0,0:29:24.64,0:29:28.84,Default,Kanae,0,0,0,,Excuse me. I didn't order tomato juice.
+Dialogue: 0,0:29:43.68,0:29:45.50,Default,Fumiko,0,0,0,,Hello.
+Dialogue: 0,0:29:45.50,0:29:48.22,Default,Fumiko,0,0,0,,You weren't in class today \Nso I was wondering...
+Dialogue: 0,0:29:49.08,0:29:50.43,Default,Fumiko,0,0,0,,Hello?
+Dialogue: 0,0:29:57.41,0:29:59.48,Default,Fumiko,0,0,0,,Oh, Ayumi-san.
+Dialogue: 0,0:30:00.08,0:30:03.48,Default,Fumiko,0,0,0,,Do you know where everyone is today?
+Dialogue: 0,0:30:04.21,0:30:05.63,Default,Ayumi,0,0,0,,I...
+Dialogue: 0,0:30:06.98,0:30:09.03,Default,Ayumi,0,0,0,,think I'm going to quit.
+Dialogue: 0,0:30:09.09,0:30:10.10,Default,Fumiko,0,0,0,,What?
+Dialogue: 0,0:30:10.53,0:30:11.82,Default,Ayumi,0,0,0,,I'm sorry.
+Dialogue: 0,0:30:12.11,0:30:14.46,Default,Fumiko,0,0,0,,W-Wait, please!
+Dialogue: 0,0:30:14.80,0:30:17.01,Default,Fumiko,0,0,0,,Please! Please tell me why!
+Dialogue: 0,0:30:17.01,0:30:18.11,Default,Ayumi,0,0,0,,I'm in a hurry.
+Dialogue: 0,0:30:18.11,0:30:22.43,Default,Fumiko,0,0,0,,No one came to class.\N What's wrong?
+Dialogue: 0,0:30:22.43,0:30:26.98,Default,Fumiko,0,0,0,,If there is something about me \Nthat is amiss, please tell me.
+Dialogue: 0,0:30:26.98,0:30:29.98,Default,Ayumi,0,0,0,,It's not you, Mrs. Saionji.
+Dialogue: 0,0:30:29.98,0:30:31.99,Default,Fumiko,0,0,0,,Then, why?
+Dialogue: 0,0:30:34.06,0:30:37.32,Default,Hakamada,0,0,0,,The students stopped coming \Nto class, all at once?
+Dialogue: 0,0:30:38.67,0:30:42.60,Default,Yoshie,0,0,0,,Could your husband be\N behind this, somehow?
+Dialogue: 0,0:30:42.60,0:30:43.71,Default,Fumiko,0,0,0,,No, that's not it.
+Dialogue: 0,0:30:43.71,0:30:46.27,Default,Rina,0,0,0,,It's suspicious that everyone \Nstopped coming all at once, though!
+Dialogue: 0,0:30:46.27,0:30:51.63,Default,Fumiko,0,0,0,,No, one of my students told me, \Nso I know what happened.
+Dialogue: 0,0:30:52.34,0:31:00.59,Default,Fumiko,0,0,0,,Everyone came to class because \NI was the wife of professor Saionji.
+Dialogue: 0,0:31:00.59,0:31:02.07,Default,Kanae,0,0,0,,That's ridiculous.
+Dialogue: 0,0:31:02.07,0:31:04.08,Default,Kanae,0,0,0,,Just because you're Saionji-san's wife?
+Dialogue: 0,0:31:04.08,0:31:05.85,Default,Kanae,0,0,0,,What's that got to do with anything?
+Dialogue: 0,0:31:05.85,0:31:09.87,Default,Fumiko,0,0,0,,The Saionji family lineage has \Ngenerations of prestigious men.
+Dialogue: 0,0:31:10.40,0:31:13.51,Default,Fumiko,0,0,0,,The students had connections\N with them in various ways.
+Dialogue: 0,0:31:13.51,0:31:17.32,Default,Fumiko,0,0,0,,But, when they learned \Nabout the divorce...
+Dialogue: 0,0:31:17.32,0:31:22.50,Default,Hakamada,0,0,0,,In short, the students stopped coming\N so as to not offend Saionji-san.
+Dialogue: 0,0:31:24.88,0:31:27.30,Default,Fumiko,0,0,0,,"You don't know how the world works!
+Dialogue: 0,0:31:27.99,0:31:31.03,Default,Fumiko,0,0,0,,You'll never make it alone!"
+Dialogue: 0,0:31:31.37,0:31:34.74,Default,Fumiko,0,0,0,,Maybe my husband was right.
+Dialogue: 0,0:31:34.74,0:31:36.74,Default,Kanae,0,0,0,,Fumiko-san.
+Dialogue: 0,0:31:43.95,0:31:48.02,Default,Hakamada,0,0,0,,Be that as it may, would you \Nwant to return to your husband?
+Dialogue: 0,0:31:48.60,0:31:53.86,Default,Hakamada,0,0,0,,Can you stand living with him as \Nyou have, for the next 25 years?
+Dialogue: 0,0:31:54.31,0:31:56.13,Default,Fumiko,0,0,0,,I...
+Dialogue: 0,0:31:58.53,0:31:59.91,Default,Fumiko,0,0,0,,can't do it!
+Dialogue: 0,0:32:00.70,0:32:04.07,Default,Hakamada,0,0,0,,In that case, all we \Ncan do is forge ahead.
+Dialogue: 0,0:32:08.87,0:32:12.82,Default,Hakamada,0,0,0,,Your husband's lawyer drafted \Nan arbitration proposal.
+Dialogue: 0,0:32:13.32,0:32:16.88,Default,Hakamada,0,0,0,,I'm certain he intends to \Ntake it to court after that.
+Dialogue: 0,0:32:18.72,0:32:21.89,Default,Fumiko,0,0,0,,I shouldn't have been so \Nhasty to leave the house.
+Dialogue: 0,0:32:23.09,0:32:26.45,Default,Fumiko,0,0,0,,If he takes us to court, \Nmy husband will win.
+Dialogue: 0,0:32:27.23,0:32:28.76,Default,Hakamada,0,0,0,,That remains to be seen.
+Dialogue: 0,0:32:29.55,0:32:31.33,Default,Hakamada,0,0,0,,But, before the hearing,
+Dialogue: 0,0:32:32.82,0:32:34.67,Default,Hakamada,0,0,0,,can you fight one more battle?
+Dialogue: 0,0:32:48.98,0:32:51.87,Default,Nakatani,0,0,0,,What have you got up your \Nsleeve, Hakamada-san?
+Dialogue: 0,0:32:51.87,0:32:55.92,Default,Nakatani,0,0,0,,Why would you suddenly want to have a \Nmeeting with Saionji-san before arbitration?
+Dialogue: 0,0:32:56.43,0:33:00.74,Default,Nakatani,0,0,0,,We have no intention of \Ncanceling arbitration,
+Dialogue: 0,0:33:00.74,0:33:03.46,Default,Nakatani,0,0,0,,unless his wife agrees \Nto return back home.
+Dialogue: 0,0:33:03.46,0:33:06.64,Default,Saionji,0,0,0,,I told you she'd come \Ncrawling back to me.
+Dialogue: 0,0:33:06.64,0:33:08.10,Default,Saionji,0,0,0,,Just look at her.
+Dialogue: 0,0:33:08.10,0:33:10.36,Default,Saionji,0,0,0,,How's she going to make it on her own?
+Dialogue: 0,0:33:10.93,0:33:12.27,Default,Hakamada,0,0,0,,Saionji-san.
+Dialogue: 0,0:33:12.27,0:33:17.26,Default,Hakamada,0,0,0,,Fumiko-san insists there's something \Nshe must tell you before the hearing.
+Dialogue: 0,0:33:20.26,0:33:21.43,Default,Hakamada,0,0,0,,Fumiko-san.
+Dialogue: 0,0:33:21.92,0:33:25.86,Default,Hakamada,0,0,0,,This is your chance to express \Nyourself fully to your husband.
+Dialogue: 0,0:33:26.70,0:33:30.72,Default,Hakamada,0,0,0,,Everything you couldn't tell \Nyour husband for 34 years.
+Dialogue: 0,0:33:38.80,0:33:41.52,Default,Fumiko,0,0,0,,Do you remember this place?
+Dialogue: 0,0:33:42.64,0:33:44.17,Default,Saionji,0,0,0,,This is stupid.
+Dialogue: 0,0:33:44.17,0:33:52.18,Default,Fumiko,0,0,0,,You proposed to me here, 34 years ago.
+Dialogue: 0,0:33:52.71,0:33:55.06,Default,Saionji,0,0,0,,Don't beat around the bush.
+Dialogue: 0,0:33:55.32,0:33:56.63,Default,Saionji,0,0,0,,If you want to come back,
+Dialogue: 0,0:33:56.63,0:33:57.88,Default,Saionji,0,0,0,,be straightforward and say it.
+Dialogue: 0,0:33:57.88,0:33:59.36,Default,Saionji,0,0,0,,I'll forgive you this time around.
+Dialogue: 0,0:34:00.19,0:34:01.59,Default,Saionji,0,0,0,,All right. Let's go home.
+Dialogue: 0,0:34:04.66,0:34:05.63,Default,Saionji,0,0,0,,What are you doing?
+Dialogue: 0,0:34:07.47,0:34:11.30,Default,Fumiko,0,0,0,,I heard Ayaka is having a baby girl.
+Dialogue: 0,0:34:11.36,0:34:12.37,Default,Saionji,0,0,0,,Huh?
+Dialogue: 0,0:34:13.13,0:34:15.72,Default,Fumiko,0,0,0,,Takayuki-san is beside himself with joy.
+Dialogue: 0,0:34:15.72,0:34:20.12,Default,Fumiko,0,0,0,,He said he's stocking up on all \Nthe baby girl goods he can find.
+Dialogue: 0,0:34:20.12,0:34:21.74,Default,Saionji,0,0,0,,So what?
+Dialogue: 0,0:34:21.74,0:34:22.91,Default,Saionji,0,0,0,,I don't have time for this.
+Dialogue: 0,0:34:22.91,0:34:26.02,Default,Fumiko,0,0,0,,Do you remember what you said
+Dialogue: 0,0:34:26.02,0:34:29.91,Default,Fumiko,0,0,0,,to me at the maternity ward, \Nsoon after Ayaka was born?
+Dialogue: 0,0:34:30.94,0:34:32.29,Default,Saionji,0,0,0,,Maternity ward?
+Dialogue: 0,0:34:33.33,0:34:36.32,Default,Fumiko,0,0,0,,"Damn it. It's a girl."
+Dialogue: 0,0:34:39.80,0:34:42.40,Default,Fumiko,0,0,0,,The fulfillment I had felt after \Nenduring the pain of delivery,
+Dialogue: 0,0:34:43.58,0:34:45.89,Default,Fumiko,0,0,0,,the joy I felt of becoming a mother...
+Dialogue: 0,0:34:46.55,0:34:52.04,Default,Fumiko,0,0,0,,You crushed them all \Nwith those cold words.
+Dialogue: 0,0:34:52.04,0:34:55.53,Default,Saionji,0,0,0,,Why are you bringing that up now? \NThat was years ago.
+Dialogue: 0,0:34:55.53,0:34:58.41,Default,Saionji,0,0,0,,My parents were desperate \Nfor me to have an heir.
+Dialogue: 0,0:34:58.41,0:34:59.88,Default,Saionji,0,0,0,,I was scared!
+Dialogue: 0,0:34:59.88,0:35:02.00,Default,Fumiko,0,0,0,,"You married into the Saionji family,
+Dialogue: 0,0:35:02.82,0:35:05.02,Default,Fumiko,0,0,0,,but you can't even produce a boy?!"
+Dialogue: 0,0:35:06.54,0:35:12.14,Default,Fumiko,0,0,0,,You tortured me constantly for \Nmy subsequent infertility,
+Dialogue: 0,0:35:12.96,0:35:18.10,Default,Fumiko,0,0,0,,and escaped from me by \Nrepeatedly having affairs.
+Dialogue: 0,0:35:19.64,0:35:22.67,Default,Hakamada,0,0,0,,If another woman were \Nto bear you a baby boy,
+Dialogue: 0,0:35:22.67,0:35:25.34,Default,Hakamada,0,0,0,,Fumiko-san had determined \Nto leave the Saionji family.
+Dialogue: 0,0:35:25.91,0:35:28.57,Default,Hakamada,0,0,0,,That was how desperate she was.
+Dialogue: 0,0:35:28.57,0:35:29.76,Default,Saionji,0,0,0,,Affairs?
+Dialogue: 0,0:35:30.70,0:35:32.60,Default,Saionji,0,0,0,,You have no proof.
+Dialogue: 0,0:35:33.59,0:35:35.82,Default,Saionji,0,0,0,,Why didn't you tell me these things?
+Dialogue: 0,0:35:35.82,0:35:38.02,Default,Kanae,0,0,0,,How could she?
+Dialogue: 0,0:35:38.59,0:35:42.35,Default,Kanae,0,0,0,,She knew you had withdrawn from her,
+Dialogue: 0,0:35:42.35,0:35:45.18,Default,Kanae,0,0,0,,because she couldn't bear you an heir.
+Dialogue: 0,0:35:47.41,0:35:49.04,Default,Fumiko,0,0,0,,Your ill temper,
+Dialogue: 0,0:35:49.46,0:35:52.42,Default,Fumiko,0,0,0,,your ignoring me, verbal abuse,
+Dialogue: 0,0:35:53.44,0:35:55.37,Default,Fumiko,0,0,0,,crude remarks...
+Dialogue: 0,0:35:56.08,0:35:58.50,Default,Fumiko,0,0,0,,Even when I would get sick,
+Dialogue: 0,0:35:58.50,0:36:01.96,Default,Fumiko,0,0,0,,you were only concerned \Nabout your meals.
+Dialogue: 0,0:36:03.42,0:36:05.95,Default,Fumiko,0,0,0,,You did not view me as a woman...
+Dialogue: 0,0:36:05.95,0:36:09.62,Default,Fumiko,0,0,0,,no, you did not view \Nme as a human being.
+Dialogue: 0,0:36:23.95,0:36:26.17,Default,Saionji,0,0,0,,You're not young any more.
+Dialogue: 0,0:36:26.72,0:36:31.66,Default,Saionji,0,0,0,,I thought maybe we'd give our \Nmarriage another chance, but...
+Dialogue: 0,0:36:34.22,0:36:40.18,Default,Saionji,0,0,0,,It seems there's no choice now \Nbut fight it out in court.
+Dialogue: 0,0:36:41.57,0:36:44.62,Default,Hakamada,0,0,0,,Are you sure you want \Nto take it to court?
+Dialogue: 0,0:36:44.62,0:36:45.63,Default,Saionji,0,0,0,,Yes.
+Dialogue: 0,0:36:46.24,0:36:48.03,Default,Saionji,0,0,0,,I'll tear her apart.
+Dialogue: 0,0:36:52.79,0:36:53.68,Default,Hakamada,0,0,0,,Too bad for you.
+Dialogue: 0,0:36:53.68,0:36:55.56,Default,Hakamada,0,0,0,,Because when it goes to court,
+Dialogue: 0,0:36:55.56,0:36:59.09,Default,Hakamada,0,0,0,,you're the one who will be torn apart.
+Dialogue: 0,0:37:34.72,0:37:36.36,Default,Saionji,0,0,0,,So what?
+Dialogue: 0,0:37:36.36,0:37:39.01,Default,Saionji,0,0,0,,This woman was nothing but a diversion!
+Dialogue: 0,0:37:39.01,0:37:41.06,Default,Saionji,0,0,0,,She seduced me!
+Dialogue: 0,0:37:42.92,0:37:44.99,Default,Hakamada,0,0,0,,Even as a diversion,
+Dialogue: 0,0:37:45.28,0:37:48.45,Default,Hakamada,0,0,0,,illicit affairs are bad news \Nfor a marriage.
+Dialogue: 0,0:37:49.55,0:37:51.99,Default,Hakamada,0,0,0,,Isn't that so, Nakatani-sensei?
+Dialogue: 0,0:37:52.96,0:37:56.10,Default,Nakatani,0,0,0,,Even in the case of illicit affairs,
+Dialogue: 0,0:37:56.10,0:38:00.32,Default,Nakatani,0,0,0,,we won't be charged more than \Nthree million or so in compensation.
+Dialogue: 0,0:38:00.32,0:38:01.46,Default,Nakatani,0,0,0,,Let's go.
+Dialogue: 0,0:38:04.14,0:38:06.30,Default,Hakamada,0,0,0,,I personally don't care, but \Nthis is going to be a scandal.
+Dialogue: 0,0:38:07.16,0:38:08.73,Default,Hakamada,0,0,0,,Having an illicit affair with a student.
+Dialogue: 0,0:38:11.00,0:38:12.10,Default,Nakatani,0,0,0,,Your student?
+Dialogue: 0,0:38:13.10,0:38:16.99,Default,Hakamada,0,0,0,,Sure, maybe you'll get away \Nwith three million in compensation.
+Dialogue: 0,0:38:17.35,0:38:22.25,Default,Hakamada,0,0,0,,However, losing your position\N as a university professor.
+Dialogue: 0,0:38:22.25,0:38:24.47,Default,Hakamada,0,0,0,,would be an immeasurable loss,\N would it not?
+Dialogue: 0,0:38:24.74,0:38:30.35,Default,Hakamada,0,0,0,,Fumiko-san does not want\N to tarnish your reputation.
+Dialogue: 0,0:38:30.35,0:38:32.72,Default,Hakamada,0,0,0,,She just wants you to consent to the divorce.
+Dialogue: 0,0:38:32.72,0:38:35.16,Default,Hakamada,0,0,0,,That's why she asked you here,\Nto this place full of memories...
+Dialogue: 0,0:38:38.43,0:38:43.06,Default,Fumiko,0,0,0,,Because I know, that if you lost\N your university professorship
+Dialogue: 0,0:38:43.06,0:38:46.17,Default,Fumiko,0,0,0,,it would be the end of you.
+Dialogue: 0,0:38:49.68,0:38:51.12,Default,Nakatani,0,0,0,,Saionji-san.
+Dialogue: 0,0:38:51.12,0:38:52.25,Default,Nakatani,0,0,0,,We're done for.
+Dialogue: 0,0:38:54.76,0:38:56.23,Default,Saionji,0,0,0,,You...
+Dialogue: 0,0:38:57.63,0:39:02.46,Default,Saionji,0,0,0,,You would go to such \Nlengths to leave me?
+Dialogue: 0,0:39:03.89,0:39:05.03,Default,Fumiko,0,0,0,,That day...
+Dialogue: 0,0:39:05.56,0:39:07.46,Bengoshi-2012_Diagnosis_Closer,Letters,0,0,0,,2012 Health Diagnosis Report
+Dialogue: 0,0:39:06.82,0:39:10.06,Default,Fumiko,0,0,0,,when I saw all the "good" listed \Non your health diagnosis report...
+Dialogue: 0,0:39:10.06,0:39:11.11,Default,Fumiko,0,0,0,,I thought to myself,
+Dialogue: 0,0:39:13.24,0:39:18.71,Default,Fumiko,0,0,0,,"How much longer must this man live?
+Dialogue: 0,0:39:22.58,0:39:25.76,Default,Fumiko,0,0,0,,It's true that I am not young any more.
+Dialogue: 0,0:39:25.76,0:39:28.55,Default,Fumiko,0,0,0,,But, I still have many \Nmore years to live.
+Dialogue: 0,0:39:29.33,0:39:35.09,Default,Fumiko,0,0,0,,I don't want to die as Saionji Fumiko."
+Dialogue: 0,0:40:46.67,0:40:47.81,Default,Saionji,0,0,0,,Fumiko.
+Dialogue: 0,0:40:58.27,0:40:59.52,Default,Student,0,0,0,,Yazawa-sensei.
+Dialogue: 0,0:40:58.27,0:41:01.94,Bengoshi-Chalkboard_Class,Blackboard,0,0,0,,{\fad(1,500)}Enandai Culture School \N2:00PM \NFlower Arrangement Class \NYazawa Sensei
+Dialogue: 0,0:40:59.52,0:41:01.78,Default,Fumiko,0,0,0,,Yes, how nice!
+Dialogue: 0,0:41:01.78,0:41:03.16,Default,Student,0,0,0,,How do I arrange this part?
+Dialogue: 0,0:41:03.16,0:41:10.38,Default,Fumiko,0,0,0,,You balance it out delicately, like this.
+Dialogue: 0,0:41:10.38,0:41:12.69,Default,Ayumi,0,0,0,,Oh, I see! Thank you very much.
+Dialogue: 0,0:41:12.69,0:41:14.45,Default,Fumiko,0,0,0,,Nice work.
+Dialogue: 0,0:41:16.20,0:41:20.76,Bengoshi-Top,Kanae,0,0,0,,Saionji-san has some shred \Nof decency, at least.
+Dialogue: 0,0:41:20.76,0:41:23.38,Bengoshi-Top,Kanae,0,0,0,,He notified the flower arrangement students \Nand had them return to class.
+Dialogue: 0,0:41:23.38,0:41:25.70,Bengoshi-Top,Rina,0,0,0,,He was raked over the coals.
+Dialogue: 0,0:41:25.70,0:41:28.97,Bengoshi-Top,Rina,0,0,0,,Even Mr. Moral Harassment \Nhimself did some introspection.
+Dialogue: 0,0:41:30.51,0:41:34.64,Bengoshi-Top,Hakamada,0,0,0,,A good divorce is something \Nthat helps people grow.
+Dialogue: 0,0:41:35.01,0:41:38.27,Bengoshi-Top,Hakamada,0,0,0,,That's my opinion anyway, \Nas my client's attorney.
+Dialogue: 0,0:41:38.71,0:41:42.69,Bengoshi-Top,Hakamada,0,0,0,,I hope that Fumiko-san and Saionji-san, \Nnow that they've gone separate ways,
+Dialogue: 0,0:41:42.69,0:41:46.72,Bengoshi-Top,Hakamada,0,0,0,,will live out their next 25 \Nyears in a much better way.
+Dialogue: 0,0:41:49.84,0:41:52.36,Bengoshi-Top,Yoshie,0,0,0,,Neither does he marry nor divorce.
+Dialogue: 0,0:41:52.68,0:41:58.11,Bengoshi-Top,Yoshie,0,0,0,,Such is the bread baker man \Nwe got here, who doesn't grow.
+Dialogue: 0,0:42:03.97,0:42:05.78,Bengoshi-Top,Hakamada,0,0,0,,It's ready at last.
+Dialogue: 0,0:42:06.06,0:42:08.07,Bengoshi-Top,Hakamada,0,0,0,,The final in my nutrition fortification series:
+Dialogue: 0,0:42:08.07,0:42:12.20,Bengoshi-Top,Hakamada,0,0,0,,the whole turtle red viper \NKorean ginseng special!
+Dialogue: 0,0:42:14.64,0:42:16.75,Bengoshi-Top,Hakamada,0,0,0,,Looks delicious.
+Dialogue: 0,0:42:16.75,0:42:19.06,Bengoshi-Top,Hakamada,0,0,0,,Hey everyone, please try the...
+Dialogue: 0,0:42:20.99,0:42:22.12,Bengoshi-Top,Hakamada,0,0,0,,Huh?
+Dialogue: 0,0:42:24.69,0:42:36.80,Bengoshi-Next_Episode,Caption,0,0,0,,{\fad(0,380)}Next episode
+Dialogue: 0,0:42:25.25,0:42:26.29,Bengoshi-Top,Hakamada,0,0,0,,You're completely useless!
+Dialogue: 0,0:42:26.89,0:42:28.86,Bengoshi-Top,Hakamada,0,0,0,,You're suffering because \Nof a monster wife.
+Dialogue: 0,0:42:28.86,0:42:32.20,Bengoshi-Top,V,0,0,0,,You cheer them on before the \Ndivorce, that's how it's done.
+Dialogue: 0,0:42:28.86,0:42:34.47,Bengoshi-End_Splash_Left,Caption,0,0,0,,The Horror of the Monster Wife!
+Dialogue: 0,0:42:30.93,0:42:34.47,Bengoshi-End_Splash_Right,Caption,0,0,0,,Intense Revenge of the {\c&H0885D6&}Cowardly Husband!
+Dialogue: 0,0:42:32.20,0:42:35.14,Bengoshi-Top,M,0,0,0,,Who do you think you're talking \Nto, you piece of trash?
+Dialogue: 0,0:42:35.14,0:42:37.23,Bengoshi-Top,M,0,0,0,,Get on your knees and beg!
+Dialogue: 0,0:42:36.80,0:42:39.67,Bengoshi-Fiction,Caption,0,0,0,,{\fad(360,0)}This drama is a work of fiction.
+Dialogue: 0,0:42:37.23,0:42:39.64,Bengoshi-Top,Hakamada,0,0,0,,Let's turn your fear into money.
+

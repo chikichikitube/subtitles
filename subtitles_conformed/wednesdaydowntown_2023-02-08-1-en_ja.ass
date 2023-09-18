@@ -1,0 +1,608 @@
+﻿[Script Info]
+Title: Japanese Closed Caption Subtitlies
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 960
+PlayResY: 540
+ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 1
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Video File: WDT (2023-02-08) (Raw).[0].ts.ass
+Scroll Position: 568
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: normal,Arial,37,&H00FFFFFF,&H000000FF,&H00000000,&H88000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: medium,Arial,37,&H00FFFFFF,&H000000FF,&H00000000,&H88000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+Style: small,Arial,18,&H00FFFFFF,&H000000FF,&H00000000,&H88000000,0,0,0,0,100,100,0,0,1,2,2,1,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.08,0:00:06.71,normal,,0,0,0,,{\rmedium}{\c&H00ffff&}{\pos(170,389)}{\an1}{\rnormal}{\c&H00ffff&}皆さん{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}よろしくお願いいたします\N
+Dialogue: 0,0:00:02.08,0:00:06.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}{\c&H00ffff&}さあ{\rmedium}{\c&H00ffff&}「{\rnormal}{\c&H00ffff&}水曜日のダウンタウン{\rmedium}{\c&H00ffff&}」\N
+Dialogue: 0,0:00:06.71,0:00:09.08,normal,,0,0,0,,{\rnormal}{\c&H00ffff&}{\pos(250,389)}{\an1}最初のプレゼンター\N
+Dialogue: 0,0:00:06.71,0:00:09.08,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,329)}{\an1}{\c&H00ffff&}さあ{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}早速まいりましょう\N
+Dialogue: 0,0:00:09.08,0:00:11.05,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}こちらの方です{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}どうぞ\N
+Dialogue: 0,0:00:09.08,0:00:11.05,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:11.05,0:00:15.04,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\c&Hffff00&}いるのー\N
+Dialogue: 0,0:00:15.04,0:00:18.39,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(470,389)}{\an1}{\rnormal}{\c&H00ffff&}小峠でございます\N
+Dialogue: 0,0:00:15.04,0:00:18.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(470,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}はい{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}バイきんぐ{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:00:15.04,0:00:18.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:18.39,0:00:20.42,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(710,449)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffff00&}生や\N
+Dialogue: 0,0:00:18.39,0:00:20.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,389)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}お願いします{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:18.39,0:00:20.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:20.42,0:00:22.38,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(430,509)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffffff&}本物や\N
+Dialogue: 0,0:00:20.42,0:00:22.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}よろしくお願いします{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:20.42,0:00:22.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:22.38,0:00:24.93,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}さあ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}今回はですね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}毎年恒例の\N
+Dialogue: 0,0:00:22.38,0:00:24.93,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:24.93,0:00:29.93,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(190,509)}{\an1}{\rnormal}{\c&H00ff00&}こちらです\N
+Dialogue: 0,0:00:24.93,0:00:29.93,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}あの企画を持ってまいりました{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:24.93,0:00:29.93,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:31.98,0:00:34.41,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,509)}{\an1}名物\N
+Dialogue: 0,0:00:31.98,0:00:34.41,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(470,449)}{\an1}{\rnormal}{\c&Hffffff&}やった！\N
+Dialogue: 0,0:00:31.98,0:00:34.41,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:34.41,0:00:37.42,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(190,509)}{\an1}{\rnormal}{\c&H00ff00&}やらしていただいてますけども\N
+Dialogue: 0,0:00:34.41,0:00:37.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}まあまあ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}この時期{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}毎年{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:34.41,0:00:37.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:37.42,0:00:40.08,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(290,329)}{\an1}{\c&H00ff00&}あっ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}そうなんですよ\N
+Dialogue: 0,0:00:37.42,0:00:40.08,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,269)}{\an1}{\c&Hffff00&}これの第{\rmedium}{\c&Hffff00&}１{\rnormal}{\c&Hffff00&}号が{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}小峠やったもんね\N
+Dialogue: 0,0:00:40.08,0:00:43.78,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(270,329)}{\an1}{\rnormal}{\c&H00ff00&}やらしてもらいまして\N
+Dialogue: 0,0:00:40.08,0:00:43.78,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,269)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}僕は{\rmedium}{\c&H00ff00&}２０１４ ２０１５{\rnormal}{\c&H00ff00&}と{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:40.08,0:00:43.78,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:43.78,0:00:47.13,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,299)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}今回で{\rmedium}{\c&H00ff00&}９{\rnormal}{\c&H00ff00&}回目という\N
+Dialogue: 0,0:00:43.78,0:00:47.13,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:47.13,0:00:49.74,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(170,389)}{\an1}回ったことってあんまりないの？\N
+Dialogue: 0,0:00:47.13,0:00:49.74,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}{\c&Hffff00&}えっ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}小峠{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}かける側に\N
+Dialogue: 0,0:00:49.74,0:00:53.44,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(250,509)}{\an1}なるようになりましたね\N
+Dialogue: 0,0:00:49.74,0:00:53.44,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\c&H00ff00&}いや{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}かける側にも\N
+Dialogue: 0,0:00:53.44,0:00:55.40,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(310,509)}{\an1}{\rnormal}{\c&H00ff00&}ドッキリの流れで\N
+Dialogue: 0,0:00:53.44,0:00:55.40,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}何か{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}あるんすよね{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:53.44,0:00:55.40,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:55.40,0:00:57.78,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(270,509)}{\an1}{\rnormal}{\c&H00ff00&}何か{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}何となく\N
+Dialogue: 0,0:00:55.40,0:00:57.78,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}かけられ続けたやつが{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:55.40,0:00:57.78,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:00:57.78,0:00:59.92,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\c&H00ff00&}かける側に移行していくみたいな\N
+Dialogue: 0,0:00:59.92,0:01:04.92,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(370,419)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffff00&}そうなんや\N
+Dialogue: 0,0:00:59.92,0:01:04.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,359)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}流れがあるんですよね{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:00:59.92,0:01:04.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:01:04.95,0:01:08.71,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(630,329)}{\an1}{\rnormal}{\c&Hffffff&}逆に効く{\c&H00ff00&}そう{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}気付いたらかけられてたのに\N
+Dialogue: 0,0:01:04.95,0:01:08.71,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:01:08.71,0:01:13.71,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(370,509)}{\an1}{\c&Hffff00&}なるほどね\N
+Dialogue: 0,0:01:08.71,0:01:13.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}{\c&H00ff00&}かける側になってた{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}みたいな\N
+Dialogue: 0,0:01:33.05,0:01:38.05,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}まず{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}第{\rmedium}{\c&Hffffff&}１０{\rnormal}{\c&Hffffff&}位は{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:01:40.40,0:01:45.40,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}人が同率{\rmedium}{\c&Hffffff&}ランクイン＞\N
+Dialogue: 0,0:01:40.40,0:01:45.40,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}続いて{\rmedium}{\c&Hffffff&} ８{\rnormal}{\c&Hffffff&}回で\N
+Dialogue: 0,0:01:49.25,0:01:54.25,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}第{\rmedium}{\c&Hffffff&}７{\rnormal}{\c&Hffffff&}位は{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:01:56.30,0:02:01.30,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}続く{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}第{\rmedium}{\c&Hffffff&}６{\rnormal}{\c&Hffffff&}位は{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:02.26,0:02:04.86,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,389)}{\an1}{\rmedium}{\c&Hffffff&}＜２０１４{\rnormal}{\c&Hffffff&}年の調査開始以来{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:04.86,0:02:06.95,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}芸人以外では最多となる{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:04.86,0:02:06.95,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:02:06.95,0:02:10.36,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,389)}{\an1}{\rmedium}{\c&Hffffff&}＜５{\rnormal}{\c&Hffffff&}度目のランクイン{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:10.36,0:02:15.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,239)}{\an1}{\rnormal}{\c&Hffffff&}同数で{\rmedium}{\c&Hffffff&}ランクイン＞\N
+Dialogue: 0,0:02:10.36,0:02:15.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,179)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}続いても{\rmedium}{\c&Hffffff&} ３{\rnormal}{\c&Hffffff&}人が{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:02:10.36,0:02:15.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:02:18.45,0:02:23.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(590,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして�{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:18.45,0:02:23.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:02:23.25,0:02:28.25,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}惜しくも�{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:23.25,0:02:28.25,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,149)}{\an1}{\rmedium}{\c&Hffffff&}＜２０２１{\rnormal}{\c&Hffffff&}年のダマされ王\N
+Dialogue: 0,0:02:30.31,0:02:35.31,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,179)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}続いて{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}第{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}位は{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:30.31,0:02:35.31,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:02:38.75,0:02:41.24,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,389)}{\an1}{\rmedium}{\c&Hffffff&}＜２０２０{\rnormal}{\c&Hffffff&}年のダマされ王が{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:41.24,0:02:43.90,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}今年もしっかり上位をキープし{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:43.90,0:02:46.91,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}第{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}位にランクイン{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:46.91,0:02:48.93,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(490,389)}{\an1}何{\rmedium}{\c&Hffffff&}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}{\c&Hffffff&}撮ってんねん\N
+Dialogue: 0,0:02:48.93,0:02:53.93,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}第{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}位に輝いたのは{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:02:48.93,0:02:53.93,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}栄えある\N
+Dialogue: 0,0:02:58.76,0:03:01.19,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}＜２{\rnormal}{\c&Hffffff&}位に{\rmedium}{\c&Hffffff&} ５{\rnormal}{\c&Hffffff&}回もの差をつけ{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:03:01.19,0:03:06.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}２０２２{\rnormal}{\c&Hffffff&}年のダマされ王に輝いた{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:03:01.19,0:03:06.19,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}酒井が{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}見事\N
+Dialogue: 0,0:03:07.04,0:03:09.75,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(470,509)}{\an1}{\rnormal}{\c&H00ff00&}なりましたけども\N
+Dialogue: 0,0:03:07.04,0:03:09.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(470,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}このような結果に{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:03:07.04,0:03:09.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:09.75,0:03:13.51,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(330,389)}{\an1}芸人ばっかりの中�\N
+Dialogue: 0,0:03:09.75,0:03:13.51,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,329)}{\an1}{\c&Hffff00&}こんだけ\N
+Dialogue: 0,0:03:13.51,0:03:16.06,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(430,389)}{\an1}{\rmedium}{\c&H00ff00&}ＪＯＹ {\rnormal}{\c&H00ff00&}すごいっすよね\N
+Dialogue: 0,0:03:13.51,0:03:16.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}すごいっすよね{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:03:13.51,0:03:16.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:16.06,0:03:19.59,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(510,509)}{\an1}お\N
+Dialogue: 0,0:03:16.06,0:03:19.59,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,479)}{\an1}{\c&H00ffff&}最近{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}全然会うてないしな{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:03:16.06,0:03:19.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,419)}{\an1}{\rnormal}{\c&Hffffff&}どんな{\rmedium}{\c&Hffffff&}ドッキリ{\rnormal}{\c&Hffffff&}に引っかかった…\N
+Dialogue: 0,0:03:16.06,0:03:19.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:19.59,0:03:22.42,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(210,509)}{\an1}やっぱ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}すごいんじゃないですか\N
+Dialogue: 0,0:03:19.59,0:03:22.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(210,449)}{\an1}{\c&H00ff00&}ここにきての{\rmedium}{\c&H00ff00&}ＪＯＹ{\rnormal}{\c&H00ff00&}の{\rmedium}{\c&H00ff00&}１０{\rnormal}{\c&H00ff00&}回は\N
+Dialogue: 0,0:03:22.42,0:03:26.06,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(270,509)}{\an1}{\rnormal}{\c&H00ff00&}ランクインしたっていう\N
+Dialogue: 0,0:03:22.42,0:03:26.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}しかも結構{\rmedium}{\c&H00ff00&} ５{\rnormal}{\c&H00ff00&}回ぐらい今まで{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:03:22.42,0:03:26.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:26.06,0:03:31.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}上位やもんね{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}全部\N
+Dialogue: 0,0:03:26.06,0:03:31.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:31.56,0:03:33.64,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\c&Hffff00&}浜田さん{\rmedium}{\c&Hffff00&}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}{\c&Hffff00&}よくないよ\N
+Dialogue: 0,0:03:33.64,0:03:38.61,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(350,389)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffff00&}よくないよ�\N
+Dialogue: 0,0:03:33.64,0:03:38.61,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}{\c&H00ff00&}今のは{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}ちょっと{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:03:38.61,0:03:42.89,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(290,509)}{\an1}言葉ありますからね\N
+Dialogue: 0,0:03:38.61,0:03:42.89,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,449)}{\an1}{\c&H00ff00&}他に{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}いくらでも\N
+Dialogue: 0,0:03:42.89,0:03:47.00,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rmedium}{\c&Hffffff&} １{\rnormal}{\c&Hffffff&}月某日{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:03:47.00,0:03:51.22,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}酒井に{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}今回の結果を報告{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:03:47.00,0:03:51.22,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:03:51.22,0:03:56.22,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,299)}{\an1}{\rmedium}{\c&Hffffff&}（スタッフ）{\rnormal}{\c&Hffffff&}おはようございますおはようございます\N
+Dialogue: 0,0:03:51.22,0:03:56.22,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:04:14.01,0:04:19.01,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで…{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:04:21.35,0:04:26.35,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜１{\rnormal}{\c&Hffffff&}週間予告ドッキリ{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:04:43.73,0:04:48.73,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そんな酒井に{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}今回仕掛けるのは{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:05:25.78,0:05:28.96,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(210,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}カメラが{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}酒井に{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}週間密着{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:05:28.96,0:05:33.96,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,389)}{\an1}{\rmedium}{\c&Hffffff&}７{\rnormal}{\c&Hffffff&}つのドッキリを仕掛け{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:05:28.96,0:05:33.96,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,329)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}その中で{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}先ほどの\N
+Dialogue: 0,0:05:39.95,0:05:44.95,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}全て正解することはできるのか{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:05:39.95,0:05:44.95,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}果たして{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:05:39.95,0:05:44.95,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:06:51.72,0:06:56.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,359)}{\an1}{\rnormal}{\c&Hffffff&}あっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ああ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}そうなんですね\N
+Dialogue: 0,0:06:51.72,0:06:56.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:06:59.41,0:07:01.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}負けてた{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ああ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}そうなんですね\N
+Dialogue: 0,0:06:59.41,0:07:01.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:07:01.55,0:07:06.35,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(450,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}男性{\rmedium}{\c&Hffffff&}）５{\rnormal}{\c&Hffffff&}…{\rmedium}{\c&Hffffff&} ５００{\rnormal}{\c&Hffffff&}万！\N
+Dialogue: 0,0:07:06.35,0:07:11.35,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(510,389)}{\an1}{\rnormal}{\c&Hffffff&}すごいですね\N
+Dialogue: 0,0:07:06.35,0:07:11.35,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:07:19.02,0:07:21.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,449)}{\an1}{\rnormal}{\c&Hffffff&}あっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}なるほど{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}なるほど\N
+Dialogue: 0,0:07:19.02,0:07:21.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:07:21.04,0:07:26.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rnormal}{\c&Hffffff&}そこの芸人さんたちの…\N
+Dialogue: 0,0:07:21.04,0:07:26.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:07:28.39,0:07:33.39,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}芸人さんとかはエッチするって話\N
+Dialogue: 0,0:07:28.39,0:07:33.39,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}酒井より気持ちいいかって言って\N
+Dialogue: 0,0:07:40.88,0:07:45.88,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,449)}{\an1}すいません{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すいません\N
+Dialogue: 0,0:07:40.88,0:07:45.88,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,389)}{\an1}すいません\N
+Dialogue: 0,0:07:56.55,0:08:01.55,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}お召し物{\rmedium}{\c&Hffffff&}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}{\c&Hffffff&}大丈夫ですか{\rmedium}{\c&Hffffff&}！？\N
+Dialogue: 0,0:07:56.55,0:08:01.55,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}あーっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}大丈夫ですか{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すいません\N
+Dialogue: 0,0:08:27.03,0:08:30.67,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,449)}{\an1}まずは{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}つ正解{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:08:27.03,0:08:30.67,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}酒井\N
+Dialogue: 0,0:08:30.67,0:08:35.67,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,449)}{\an1}皮がちぎれて…\N
+Dialogue: 0,0:08:37.04,0:08:42.04,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(410,209)}{\an1}{\c&H00ff00&}こぼしても{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}なおいく\N
+Dialogue: 0,0:08:37.04,0:08:42.04,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(610,149)}{\an1}嫌やな\N
+Dialogue: 0,0:08:42.36,0:08:47.36,normal,,0,0,0,,{\rsmall}{\c&Hffff00&}{\pos(310,509)}{\an1}{\rnormal}{\c&Hffff00&}{\c&H00ff00&}ねえ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}これは{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}うん\N
+Dialogue: 0,0:08:42.36,0:08:47.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&Hffff00&}これは分かる{\rsmall}{\c&Hffff00&}\N
+Dialogue: 0,0:08:42.36,0:08:47.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:09:10.81,0:09:15.81,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,329)}{\an1}{\rnormal}{\c&Hffffff&}絶対ない{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}まずない\N
+Dialogue: 0,0:09:10.81,0:09:15.81,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:09:42.85,0:09:45.86,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,419)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そんな酒井の{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}マジ再現ドラマは{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:09:42.85,0:09:45.86,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:09:45.86,0:09:48.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,419)}{\an1}{\rmedium}{\c&Hffffff&}＜ＴＢＳ「{\rnormal}{\c&Hffffff&}ワールド極限ミステリー{\rmedium}{\c&Hffffff&}」{\rnormal}{\c&Hffffff&}で{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:09:45.86,0:09:48.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:09:48.92,0:09:53.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,419)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}先日{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すでに放送済み{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:09:48.92,0:09:53.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:09:55.23,0:10:00.23,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}早くも�{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:10:28.08,0:10:33.08,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,419)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}さらに{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:10:28.08,0:10:33.08,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:10:55.78,0:10:57.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,329)}{\an1}{\rnormal}{\c&Hffffff&}これ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ドッキリなのかな\N
+Dialogue: 0,0:10:55.78,0:10:57.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:10:57.75,0:10:59.94,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,329)}{\an1}分かんないですけど\N
+Dialogue: 0,0:10:57.75,0:10:59.94,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,269)}{\an1}どういう類いのか\N
+Dialogue: 0,0:10:59.94,0:11:04.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,359)}{\an1}{\rnormal}{\c&Hffffff&}僕あの�\N
+Dialogue: 0,0:10:59.94,0:11:04.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:13.71,0:11:15.73,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,329)}{\an1}気持ち悪かった\N
+Dialogue: 0,0:11:15.73,0:11:20.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}めっちゃ外れるやんけ\N
+Dialogue: 0,0:11:15.73,0:11:20.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:30.42,0:11:35.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,419)}{\an1}{\rnormal}{\c&Hffffff&}奇妙な出来事が起こりがちな酒井{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:11:30.42,0:11:35.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}と{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}自宅周辺で{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:30.42,0:11:35.42,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:38.40,0:11:40.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}正解が{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}つしか出ないまま{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:11:38.40,0:11:40.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:40.89,0:11:44.77,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(330,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}最終{\rmedium}{\c&Hffffff&} ７{\rnormal}{\c&Hffffff&}つ目へ{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:11:44.77,0:11:49.77,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,419)}{\an1}{\rnormal}{\c&Hffffff&}あの{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何かね\N
+Dialogue: 0,0:11:44.77,0:11:49.77,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:11:58.41,0:12:03.41,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,209)}{\an1}そうですよね{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:12:19.47,0:12:24.47,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rnormal}{\c&Hffffff&}はい{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}お願いします\N
+Dialogue: 0,0:12:19.47,0:12:24.47,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:12:38.90,0:12:41.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rnormal}{\c&Hffffff&}はい{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}お願いします\N
+Dialogue: 0,0:12:38.90,0:12:41.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:12:41.96,0:12:46.96,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}聞かざる{\rmedium}{\c&Hffffff&}」{\rnormal}{\c&Hffffff&}でおなじみの三猿\N
+Dialogue: 0,0:12:41.96,0:12:46.96,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}�まず{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}つ目が{\rmedium}{\c&Hffffff&}「{\rnormal}{\c&Hffffff&}見ざる{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}言わざる\N
+Dialogue: 0,0:13:01.92,0:13:06.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}酒井{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}ちょっと遅かったですね\N
+Dialogue: 0,0:13:01.92,0:13:06.92,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,389)}{\an1}はい{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すいません{\rmedium}{\c&Hffffff&} １{\rnormal}{\c&Hffffff&}回止めます{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:13:21.98,0:13:26.98,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}聞かざる{\rmedium}{\c&Hffffff&}」{\rnormal}{\c&Hffffff&}でおなじみの三猿\N
+Dialogue: 0,0:13:21.98,0:13:26.98,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}�まず{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}つ目が{\rmedium}{\c&Hffffff&}「{\rnormal}{\c&Hffffff&}見ざる{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}言わざる\N
+Dialogue: 0,0:13:48.76,0:13:53.76,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}聞かざる{\rmedium}{\c&Hffffff&}」{\rnormal}{\c&Hffffff&}でおなじみの三猿\N
+Dialogue: 0,0:13:48.76,0:13:53.76,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}�まず{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}つ目が{\rmedium}{\c&Hffffff&}「{\rnormal}{\c&Hffffff&}見ざる{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}言わざる\N
+Dialogue: 0,0:14:25.37,0:14:27.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,449)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:14:25.37,0:14:27.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:14:27.39,0:14:29.42,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,209)}{\an1}{\rnormal}{\c&Hffffff&}�{\rmedium}{\c&Hffffff&}「{\rnormal}{\c&Hffffff&}悪い行いを自然だと見るな{\rmedium}{\c&Hffffff&}」\N
+Dialogue: 0,0:14:27.39,0:14:29.42,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}早口で{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:14:29.42,0:14:31.44,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,209)}{\an1}{\rnormal}{\c&Hffffff&}という教えで\N
+Dialogue: 0,0:14:29.42,0:14:31.44,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,149)}{\an1}�{\rmedium}{\c&Hffffff&}「{\rnormal}{\c&Hffffff&}理由もなく悪く言うな{\rmedium}{\c&Hffffff&}」\N
+Dialogue: 0,0:14:31.44,0:14:36.44,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}という戒めなんだとか\N
+Dialogue: 0,0:14:31.44,0:14:36.44,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}�素直な心のままに成長させよ\N
+Dialogue: 0,0:14:49.08,0:14:52.73,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}早口で読むマネをする{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:14:52.73,0:14:55.79,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}早口で読むマネをする{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:14:55.79,0:15:00.79,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,269)}{\an1}�それがこちらの{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ゆば\N
+Dialogue: 0,0:15:10.36,0:15:15.36,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,269)}{\an1}ゆばは{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}江戸時代に…\N
+Dialogue: 0,0:15:30.38,0:15:32.40,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,269)}{\an1}ゆばは{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}江戸時代に…\N
+Dialogue: 0,0:15:32.40,0:15:37.40,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(330,419)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}あ〜{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}入んないや\N
+Dialogue: 0,0:15:32.40,0:15:37.40,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:15:37.49,0:15:42.49,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}ああ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}なるほど�\N
+Dialogue: 0,0:15:37.49,0:15:42.49,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:15:55.42,0:16:00.42,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,269)}{\an1}ゆばは{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}江戸時代に…\N
+Dialogue: 0,0:16:18.90,0:16:23.90,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}結果は{\rmedium}{\c&Hffffff&}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}{\c&Hffffff&}ご覧のとおり{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:16:18.90,0:16:23.90,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:16:18.90,0:16:23.90,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:16:37.93,0:16:42.73,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(410,449)}{\an1}そうっすね\N
+Dialogue: 0,0:16:42.73,0:16:47.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,449)}{\an1}{\rnormal}{\c&Hffffff&}あっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}よかった\N
+Dialogue: 0,0:16:42.73,0:16:47.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:17:12.92,0:17:15.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,269)}{\an1}{\rnormal}{\c&Hffffff&}ほんの一部\N
+Dialogue: 0,0:17:12.92,0:17:15.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,209)}{\an1}{\rnormal}{\c&Hffffff&}�ただ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}今回ご紹介したのは{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:17:12.92,0:17:15.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:17:15.92,0:17:20.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,269)}{\an1}{\rnormal}{\c&Hffffff&}たくさんあるんです\N
+Dialogue: 0,0:17:15.92,0:17:20.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,209)}{\an1}{\rnormal}{\c&Hffffff&}�他にも見てほしい日光は{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:17:15.92,0:17:20.92,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:18:17.86,0:18:22.20,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}と{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}正解の{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}つを伝えたところで{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:18:22.20,0:18:27.20,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}残りの{\rmedium}{\c&Hffffff&}５{\rnormal}{\c&Hffffff&}つもネタばらし{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:18:22.20,0:18:27.20,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}酒井がスルーした\N
+Dialogue: 0,0:18:42.29,0:18:47.09,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}残りの{\rmedium}{\c&Hffffff&}５{\rnormal}{\c&Hffffff&}つも{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ここでネタばらし{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:18:42.29,0:18:47.09,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}酒井がスルーした{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:18:42.29,0:18:47.09,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:18:47.09,0:18:52.09,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}ご出身ということですけれども\N
+Dialogue: 0,0:18:47.09,0:18:52.09,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,149)}{\an1}あの{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}酒井さんは東京都目黒区の\N
+Dialogue: 0,0:18:52.12,0:18:54.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,209)}{\an1}{\rnormal}{\c&Hffffff&}いらしたことありますか？\N
+Dialogue: 0,0:18:52.12,0:18:54.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,149)}{\an1}{\rnormal}{\c&Hffffff&}鹿児島は{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:18:52.12,0:18:54.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:18:54.38,0:18:59.38,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}鹿児島は{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}あの\N
+Dialogue: 0,0:18:59.76,0:19:02.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}豊平{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}あっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}そうですか\N
+Dialogue: 0,0:19:02.19,0:19:07.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}セミの鳴き声{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:19:15.20,0:19:20.20,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(590,449)}{\an1}{\rnormal}{\c&Hffffff&}そうですね\N
+Dialogue: 0,0:19:15.20,0:19:20.20,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:19:30.00,0:19:32.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}おはようございます{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すいません\N
+Dialogue: 0,0:19:30.00,0:19:32.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}おはようございます\N
+Dialogue: 0,0:19:32.90,0:19:36.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}よろしくお願いします\N
+Dialogue: 0,0:19:32.90,0:19:36.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}ディレクターのタケダと申します\N
+Dialogue: 0,0:19:36.71,0:19:38.68,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}ホントにありがとうございます\N
+Dialogue: 0,0:19:36.71,0:19:38.68,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}今回{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}お忙しいのに\N
+Dialogue: 0,0:19:38.68,0:19:40.76,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,389)}{\an1}いえ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ありがとうございます早速なんですけど➡\N
+Dialogue: 0,0:19:40.76,0:19:44.69,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,389)}{\an1}春の特番のほうの\N
+Dialogue: 0,0:19:40.76,0:19:44.69,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,329)}{\an1}今回はですね{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}その\N
+Dialogue: 0,0:19:44.69,0:19:49.69,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}タレコミ調査というもの…\N
+Dialogue: 0,0:19:44.69,0:19:49.69,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}芸能界の先輩後輩\N
+Dialogue: 0,0:19:52.39,0:19:56.72,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}いつも{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}お笑い一直線の方ですけど\N
+Dialogue: 0,0:19:56.72,0:19:59.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}すごい{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}いいっていう\N
+Dialogue: 0,0:19:56.72,0:19:59.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}何か{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}そういう後輩の面倒見が\N
+Dialogue: 0,0:19:59.90,0:20:04.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}よーく背景を見ていれば{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:19:59.90,0:20:04.90,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ちなみに\N
+Dialogue: 0,0:20:08.52,0:20:13.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}あるにはあったのだが{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:20:08.52,0:20:13.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}気付けるヒントも{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:20:08.52,0:20:13.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:20:39.06,0:20:42.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(510,149)}{\an1}{\rnormal}{\c&Hffffff&}いや〜{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何か\N
+Dialogue: 0,0:20:39.06,0:20:42.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:20:42.06,0:20:47.06,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,209)}{\an1}{\c&Hffff00&}いやいや{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}いやいやいや\N
+Dialogue: 0,0:20:42.06,0:20:47.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,149)}{\an1}{\rnormal}{\c&Hffffff&}ないこと{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}なさそうやねんな\N
+Dialogue: 0,0:20:42.06,0:20:47.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:20:50.10,0:20:55.10,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,149)}{\an1}{\c&Hffff00&}それを言うとんねん\N
+Dialogue: 0,0:20:58.37,0:21:01.32,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(290,209)}{\an1}{\c&H00ff00&}じじいの乳首{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}見ないもんな\N
+Dialogue: 0,0:20:58.37,0:21:01.32,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(570,149)}{\an1}{\c&Hffff00&}そっか〜\N
+Dialogue: 0,0:21:01.32,0:21:03.98,normal,,0,0,0,,{\rsmall}{\c&Hffff00&}{\pos(670,209)}{\an1}{\rnormal}{\c&Hffff00&}{\c&H00ff00&}ああ〜\N
+Dialogue: 0,0:21:01.32,0:21:03.98,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(570,149)}{\an1}{\c&Hffff00&}見ないか{\rsmall}{\c&Hffff00&}\N
+Dialogue: 0,0:21:03.98,0:21:08.98,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,149)}{\an1}{\c&Hffff00&}何か葉っぱがついたんかな{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}とか\N
+Dialogue: 0,0:21:28.68,0:21:31.17,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,509)}{\an1}ああーっ！\N
+Dialogue: 0,0:21:31.17,0:21:36.17,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,509)}{\an1}{\rnormal}{\c&Hffffff&}ああーっ！\N
+Dialogue: 0,0:21:31.17,0:21:36.17,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:21:40.19,0:21:45.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,449)}{\an1}ビーッ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}みたいな\N
+Dialogue: 0,0:21:50.89,0:21:55.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(450,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして�{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:21:50.89,0:21:55.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:22:03.03,0:22:08.03,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(550,509)}{\an1}{\rnormal}{\c&Hffffff&}あっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}どうも\N
+Dialogue: 0,0:22:03.03,0:22:08.03,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:22:08.06,0:22:13.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,419)}{\an1}{\rnormal}{\c&Hffffff&}いやこれキャストも…{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}イカツイな\N
+Dialogue: 0,0:22:08.06,0:22:13.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:22:18.65,0:22:21.19,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,149)}{\an1}{\rnormal}{\c&Hffffff&}イカツイて{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}これは\N
+Dialogue: 0,0:22:18.65,0:22:21.19,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:22:21.19,0:22:26.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,209)}{\an1}一応{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}オシャレにはしてはんねや\N
+Dialogue: 0,0:22:21.19,0:22:26.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(610,149)}{\an1}いや〜\N
+Dialogue: 0,0:22:26.69,0:22:29.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,149)}{\an1}{\rnormal}{\c&Hffffff&}{\c&Hffff00&}悪いな〜{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}何か悪いな〜\N
+Dialogue: 0,0:22:26.69,0:22:29.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:22:29.52,0:22:34.52,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(450,149)}{\an1}{\c&Hffff00&}色々と悪いな〜\N
+Dialogue: 0,0:22:42.01,0:22:47.01,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}（スタッフ）{\rnormal}{\c&Hffffff&}だって{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}こんな家でしたよね\N
+Dialogue: 0,0:22:52.71,0:22:57.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,209)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}酒井{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}えー{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何か{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}こういう…{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}あっ\N
+Dialogue: 0,0:23:06.65,0:23:11.65,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}３{\rnormal}{\c&Hffffff&}人…{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}えっ\N
+Dialogue: 0,0:23:19.66,0:23:21.69,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}何や{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}それ\N
+Dialogue: 0,0:23:19.66,0:23:21.69,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:21.69,0:23:25.33,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}ということで{\rmedium}{\c&H00ff00&}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}{\c&H00ff00&}酒井は{\rmedium}{\c&H00ff00&} ７{\rnormal}{\c&H00ff00&}つ中{\rmedium}{\c&H00ff00&}２{\rnormal}{\c&H00ff00&}つ\N
+Dialogue: 0,0:23:21.69,0:23:25.33,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:25.33,0:23:27.70,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&H00ffff&}{\c&H00ff00&}正解ということになりましたね\N
+Dialogue: 0,0:23:25.33,0:23:27.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,449)}{\an1}{\rmedium}{\c&Hffffff&}{\c&H00ffff&}２{\rnormal}{\c&H00ffff&}つか{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:23:25.33,0:23:27.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:27.70,0:23:30.71,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,509)}{\an1}{\rnormal}{\c&H00ff00&}ウイカちゃん{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}どうでしたか\N
+Dialogue: 0,0:23:27.70,0:23:30.71,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}だいぶ少なめでしたけども{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:23:27.70,0:23:30.71,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:30.71,0:23:34.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}のほうが{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ハードすぎたんですね\N
+Dialogue: 0,0:23:30.71,0:23:34.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rnormal}{\c&Hffffff&}プライベートで起きてること{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:30.71,0:23:34.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:34.70,0:23:37.36,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(250,509)}{\an1}うんこ落ちてたりとかね\N
+Dialogue: 0,0:23:34.70,0:23:37.36,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\c&H00ff00&}ああ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}そうかもしんないね\N
+Dialogue: 0,0:23:37.36,0:23:40.02,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}めっちゃ面白かったんですけど\N
+Dialogue: 0,0:23:37.36,0:23:40.02,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}全体的に{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ドッキリ\N
+Dialogue: 0,0:23:40.02,0:23:43.03,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(290,419)}{\an1}{\rnormal}{\c&Hffffff&}石田さんのだけ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何か�\N
+Dialogue: 0,0:23:40.02,0:23:43.03,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:43.03,0:23:44.99,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,419)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}やっぱり{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}何か切なかったね\N
+Dialogue: 0,0:23:43.03,0:23:44.99,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:44.99,0:23:49.74,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,389)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}渋谷{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}何か{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:23:49.74,0:23:54.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(210,419)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}そうっすよね\N
+Dialogue: 0,0:23:49.74,0:23:54.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(210,359)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}くっきー！{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}怖い番組ですわ{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:49.74,0:23:54.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:23:56.04,0:24:01.04,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&H00ffff&}こちらの方です{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}どうぞ\N
+Dialogue: 0,0:23:56.04,0:24:01.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}続いてのプレゼンター{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:23:56.04,0:24:01.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:03.62,0:24:06.62,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(190,359)}{\an1}{\rmedium}{\c&H00ffff&}ＦＵＪＩＷＡＲＡ {\rnormal}{\c&H00ffff&}フジモンでございます\N
+Dialogue: 0,0:24:03.62,0:24:06.62,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,299)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}はい{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:24:03.62,0:24:06.62,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:06.62,0:24:08.99,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,359)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}よろしくお願いします\N
+Dialogue: 0,0:24:06.62,0:24:08.99,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:08.99,0:24:12.64,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(210,509)}{\an1}皆さん{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}何か{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}お分かりですか\N
+Dialogue: 0,0:24:08.99,0:24:12.64,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}{\c&H00ff00&}あの{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}僕が来たということは\N
+Dialogue: 0,0:24:12.64,0:24:15.36,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(410,509)}{\an1}{\c&H00ffff&}そうね\N
+Dialogue: 0,0:24:12.64,0:24:15.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&Hffff00&}もう終わったしな\N
+Dialogue: 0,0:24:12.64,0:24:15.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:15.36,0:24:20.36,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(270,389)}{\an1}{\rnormal}{\c&H00ff00&}世間を騒がした�\N
+Dialogue: 0,0:24:15.36,0:24:20.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}はい{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}もうね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}年末{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}ねっ{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:24:15.36,0:24:20.36,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:20.68,0:24:22.64,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,509)}{\an1}{\c&H00ff00&}ラストのね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}キスとか\N
+Dialogue: 0,0:24:22.64,0:24:25.36,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(210,509)}{\an1}こびりついてんちゃいますか\N
+Dialogue: 0,0:24:22.64,0:24:25.36,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}{\c&H00ff00&}皆さん{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}まだ脳裏に\N
+Dialogue: 0,0:24:25.36,0:24:28.66,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}音も{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すごい残って…\N
+Dialogue: 0,0:24:25.36,0:24:28.66,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(250,449)}{\an1}{\rnormal}{\c&Hffffff&}キスも{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}絵面も{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}そうやし\N
+Dialogue: 0,0:24:25.36,0:24:28.66,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,389)}{\an1}{\rsmall}{\c&Hffffff&}えづら\N
+Dialogue: 0,0:24:28.66,0:24:31.32,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,509)}{\an1}{\c&H00ff00&}クチュクチュね\N
+Dialogue: 0,0:24:28.66,0:24:31.32,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}ペチャペチャ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ペチャペチャ\N
+Dialogue: 0,0:24:28.66,0:24:31.32,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:31.32,0:24:34.33,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}あったじゃないですか\N
+Dialogue: 0,0:24:31.32,0:24:34.33,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rnormal}{\c&Hffffff&}砂時計のネックレス{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:31.32,0:24:34.33,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:34.33,0:24:39.01,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,509)}{\an1}{\rnormal}{\c&Hffffff&}探して見にいったら\N
+Dialogue: 0,0:24:34.33,0:24:39.01,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}あれ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}おんなじの欲しなって{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:34.33,0:24:39.01,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:39.01,0:24:42.02,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,389)}{\an1}{\rnormal}{\c&H00ff00&}めちゃくちゃ売れたんですよ\N
+Dialogue: 0,0:24:39.01,0:24:42.02,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}そうなのよ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}あれ{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:24:39.01,0:24:42.02,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:42.02,0:24:45.37,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(230,389)}{\an1}{\rnormal}{\c&H00ffff&}{\c&H00ff00&}ていうか�\N
+Dialogue: 0,0:24:42.02,0:24:45.37,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(590,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}マジで…{\rsmall}{\c&H00ffff&}\N
+Dialogue: 0,0:24:42.02,0:24:45.37,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:45.37,0:24:47.34,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,389)}{\an1}何で欲しなんの？{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}あれ\N
+Dialogue: 0,0:24:47.34,0:24:50.06,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,509)}{\an1}{\rnormal}{\c&H00ff00&}話題になったんですけれども\N
+Dialogue: 0,0:24:47.34,0:24:50.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}めちゃくちゃ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}もうホントに{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:24:47.34,0:24:50.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:50.06,0:24:55.06,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,509)}{\an1}{\rnormal}{\c&H00ff00&}クロちゃん{\rmedium}{\c&H00ff00&}・{\rnormal}{\c&H00ff00&}リチカップルが\N
+Dialogue: 0,0:24:50.06,0:24:55.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}今回はですね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}その{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:24:50.06,0:24:55.06,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:55.67,0:24:58.38,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(410,389)}{\an1}{\c&H00ffff&}ええ…\N
+Dialogue: 0,0:24:55.67,0:24:58.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}はい\N
+Dialogue: 0,0:24:55.67,0:24:58.38,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:24:58.38,0:25:02.55,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(310,389)}{\an1}{\rmedium}{\c&H00ff00&}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}渋谷{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}わあ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}見たい\N
+Dialogue: 0,0:24:58.38,0:25:02.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,329)}{\an1}{\rmedium}{\c&Hffffff&}{\c&H00ff00&}ＶＴＲ{\rnormal}{\c&H00ff00&}がありますんで{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}皆さん{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:24:58.38,0:25:02.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:25:02.55,0:25:05.32,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(190,389)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffff00&}あんまり長いのは{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}いいよ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}もう\N
+Dialogue: 0,0:25:02.55,0:25:05.32,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}えっ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}何でですか？{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:25:02.55,0:25:05.32,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:25:05.32,0:25:07.29,normal,,0,0,0,,{\rnormal}{\c&H00ffff&}{\pos(370,509)}{\an1}{\c&Hffff00&}短めなら…\N
+Dialogue: 0,0:25:05.32,0:25:07.29,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,449)}{\an1}{\c&H00ffff&}確かに\N
+Dialogue: 0,0:25:07.29,0:25:09.32,normal,,0,0,0,,{\rnormal}{\c&Hffff00&}{\pos(330,509)}{\an1}{\rmedium}{\c&Hffff00&}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}浜田{\rmedium}{\c&Hffffff&}・{\rnormal}{\c&Hffffff&}藤本{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:25:07.29,0:25:09.32,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\c&Hffff00&}今日{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}これ{\rmedium}{\c&Hffff00&} ２{\rnormal}{\c&Hffff00&}つ目ですよね\N
+Dialogue: 0,0:25:09.32,0:25:13.65,normal,,0,0,0,,{\rsmall}{\c&Hffff00&}{\pos(390,389)}{\an1}{\rnormal}{\c&Hffff00&}{\c&H00ffff&}ないです\N
+Dialogue: 0,0:25:09.32,0:25:13.65,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,329)}{\an1}{\rmedium}{\c&Hffffff&}{\c&Hffff00&}３{\rnormal}{\c&Hffff00&}つ目は？{\rsmall}{\c&Hffff00&}\N
+Dialogue: 0,0:25:09.32,0:25:13.65,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:25:13.65,0:25:18.28,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(350,509)}{\an1}{\rnormal}{\c&H00ff00&}{\c&Hffff00&}いやだ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}長いわ\N
+Dialogue: 0,0:25:13.65,0:25:18.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rmedium}{\c&Hffffff&}{\c&H00ff00&}「{\rnormal}{\c&H00ff00&}いやぁ{\rmedium}{\c&H00ff00&}」{\rnormal}{\c&H00ff00&}って何なんっすか{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:25:13.65,0:25:18.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:26:49.60,0:26:51.62,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(140,509)}{\an1}＜日清のお椀で食べるシリーズは➡\N
+Dialogue: 0,0:26:51.62,0:26:54.11,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(60,509)}{\an1}いつもの{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}あの味が{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}お椀で食べられるんです＞\N
+Dialogue: 0,0:26:54.11,0:26:56.89,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(180,509)}{\an1}♫〜おわんわーん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}おわんわーん\N
+Dialogue: 0,0:26:56.89,0:26:59.14,normal,,0,0,0,,{\rsmall}{\c&H00ffff&}{\pos(200,329)}{\an1}{\rmedium}{\c&H00ffff&}（{\rnormal}{\c&H00ffff&}斉藤{\rmedium}{\c&H00ffff&}）{\rnormal}{\c&H00ffff&}みんな大好き{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}あの味が\N
+Dialogue: 0,0:26:56.89,0:26:59.14,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(220,269)}{\an1}{\rsmall}{\c&Hffffff&}{\c&H00ffff&}さいとう\N
+Dialogue: 0,0:26:59.14,0:27:01.11,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(320,329)}{\an1}{\c&H00ffff&}オワウェウィ〜！\N
+Dialogue: 0,0:27:01.11,0:27:05.79,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(180,509)}{\an1}{\c&H00ffff&}おかずに！おやつに！お夜食に！\N
+Dialogue: 0,0:27:05.79,0:27:10.79,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(220,509)}{\an1}♫〜おわんわん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}おわんわん\N
+Dialogue: 0,0:27:10.94,0:27:14.41,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(60,509)}{\an1}{\c&H00ffff&}オーケー{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}おなじみの味で間違いないよね{\rmedium}{\c&H00ffff&}！ {\rnormal}{\c&H00ffff&}ね{\rmedium}{\c&H00ffff&}！\N
+Dialogue: 0,0:27:14.41,0:27:17.30,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(80,509)}{\an1}{\rmedium}{\c&Hffffff&}{\c&Hffff00&}（ジャングルポケット）＜このサイズがちょうどいい！「お{\rnormal}{\c&Hffff00&}椀{\rmedium}{\c&Hffff00&}で{\rnormal}{\c&Hffff00&}食{\rmedium}{\c&Hffff00&}べるシリーズ」＞\N
+Dialogue: 0,0:27:43.39,0:27:48.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(510,509)}{\an1}{\rnormal}{\c&Hffffff&}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}うん\N
+Dialogue: 0,0:27:43.39,0:27:48.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:28:19.07,0:28:24.07,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}待っといて\N
+Dialogue: 0,0:28:28.78,0:28:30.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(550,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}高橋{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}わあっ\N
+Dialogue: 0,0:28:28.78,0:28:30.75,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}お待たせ{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:28:30.75,0:28:35.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,449)}{\an1}{\rnormal}{\c&Hffffff&}えーっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}えーっ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}えーっ\N
+Dialogue: 0,0:28:30.75,0:28:35.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:29:19.45,0:29:24.45,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,449)}{\an1}{\rnormal}{\c&Hffffff&}ええっ？\N
+Dialogue: 0,0:29:19.45,0:29:24.45,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:29:54.78,0:29:59.78,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}続いて{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}この人にも報告{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:30:03.46,0:30:08.09,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,449)}{\an1}初めまして…{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何か�\N
+Dialogue: 0,0:30:08.09,0:30:13.09,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}{\c&Hffff00&}何食うてんの\N
+Dialogue: 0,0:31:06.27,0:31:11.07,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}団長{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}安田大サーカス\N
+Dialogue: 0,0:31:06.27,0:31:11.07,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:31:11.07,0:31:16.07,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}こちらの親友{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}人にも{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:31:11.07,0:31:16.07,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:31:18.07,0:31:23.07,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}どうぞ\N
+Dialogue: 0,0:31:47.44,0:31:52.44,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}菊地{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}ええっ\N
+Dialogue: 0,0:31:47.44,0:31:52.44,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:32:04.62,0:32:07.05,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(610,449)}{\an1}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}うん\N
+Dialogue: 0,0:32:07.05,0:32:10.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(710,509)}{\an1}{\rnormal}{\c&Hffffff&}あっ\N
+Dialogue: 0,0:32:07.05,0:32:10.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:32:10.75,0:32:15.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}呼び出し中{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:32:10.75,0:32:15.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:32:18.04,0:32:23.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(290,389)}{\an1}{\rnormal}{\c&Hffffff&}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}明人\N
+Dialogue: 0,0:32:18.04,0:32:23.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,329)}{\an1}あきひと\N
+Dialogue: 0,0:32:18.04,0:32:23.04,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:32:40.77,0:32:45.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}リチ{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}いやあ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ホントに\N
+Dialogue: 0,0:32:40.77,0:32:45.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:32:45.74,0:32:50.43,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,449)}{\an1}☎いやあ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}まあ…\N
+Dialogue: 0,0:32:50.43,0:32:55.43,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,389)}{\an1}{\rnormal}{\c&Hffffff&}ああ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}いえ\N
+Dialogue: 0,0:32:50.43,0:32:55.43,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:33:19.63,0:33:24.63,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}はい\N
+Dialogue: 0,0:35:09.05,0:35:13.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(670,449)}{\an1}{\rnormal}{\c&Hffffff&}した？\N
+Dialogue: 0,0:35:09.05,0:35:13.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:35:13.68,0:35:15.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(630,449)}{\an1}{\rnormal}{\c&Hffffff&}一気にね\N
+Dialogue: 0,0:35:13.68,0:35:15.70,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:35:15.70,0:35:19.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(710,449)}{\an1}{\rnormal}{\c&Hffffff&}ねっ\N
+Dialogue: 0,0:35:15.70,0:35:19.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:35:19.75,0:35:24.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}リチ{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}始まる\N
+Dialogue: 0,0:35:19.75,0:35:24.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}始まる始まる{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}リチ{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:35:19.75,0:35:24.75,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:35:28.72,0:35:33.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}リチ{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}ああっ\N
+Dialogue: 0,0:35:28.72,0:35:33.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:36:14.70,0:36:19.70,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}こんなの見てたら{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}もう…\N
+Dialogue: 0,0:36:25.74,0:36:30.74,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,509)}{\an1}こんなに好きになったんだよ\N
+Dialogue: 0,0:36:25.74,0:36:30.74,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}�{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}リチだから\N
+Dialogue: 0,0:36:56.74,0:36:58.77,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,509)}{\an1}うわあ\N
+Dialogue: 0,0:36:58.77,0:37:03.77,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,509)}{\an1}{\c&H00ff00&}さあ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}ねっ{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}幸せそうでしたね\N
+Dialogue: 0,0:37:06.75,0:37:08.71,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,389)}{\an1}{\c&H00ff00&}�するというね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}斬新\N
+Dialogue: 0,0:37:08.71,0:37:10.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&Hffff00&}まあ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}そうやな\N
+Dialogue: 0,0:37:08.71,0:37:10.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}くっきー！{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}いや{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}すごいな{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:37:08.71,0:37:10.74,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:37:10.74,0:37:14.38,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}奥に{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}まだ後頭部ありましたね\N
+Dialogue: 0,0:37:10.74,0:37:14.38,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}クロちゃんのキスしてる後頭部の\N
+Dialogue: 0,0:37:14.38,0:37:17.39,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,509)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}ウイカ{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}鏡合わせみたいな\N
+Dialogue: 0,0:37:14.38,0:37:17.39,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}ずっと映ってるやつみたいな{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:37:17.39,0:37:20.05,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(170,509)}{\an1}ちょっと{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}お忘れでしょう\N
+Dialogue: 0,0:37:17.39,0:37:20.05,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}{\c&H00ff00&}そしてですね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}皆さん{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}もうひとつ\N
+Dialogue: 0,0:37:20.05,0:37:24.73,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(190,389)}{\an1}{\rnormal}{\c&H00ff00&}リチが抜けたアイドルグループ\N
+Dialogue: 0,0:37:20.05,0:37:24.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,329)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}あの{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:37:20.05,0:37:24.73,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:37:24.73,0:37:27.05,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(170,389)}{\an1}追加メンバーの件{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}ありましたよね\N
+Dialogue: 0,0:37:24.73,0:37:27.05,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}{\c&H00ff00&}これ\N
+Dialogue: 0,0:37:27.05,0:37:29.07,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(550,389)}{\an1}{\rnormal}{\c&H00ff00&}{\c&H00ffff&}どうでもええ\N
+Dialogue: 0,0:37:27.05,0:37:29.07,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}{\c&H00ff00&}えっ？{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:37:29.07,0:37:32.02,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(210,509)}{\an1}{\c&H00ffff&}勝手にやってくれたら{\rmedium}{\c&H00ffff&} {\rnormal}{\c&H00ffff&}ええて\N
+Dialogue: 0,0:37:29.07,0:37:32.02,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}{\c&H00ff00&}どうでもよくないでしょ\N
+Dialogue: 0,0:37:32.02,0:37:36.36,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(290,389)}{\an1}そんなん言われたら\N
+Dialogue: 0,0:37:32.02,0:37:36.36,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,329)}{\an1}{\rmedium}{\c&Hffffff&}{\c&H00ff00&}ＶＴＲ{\rnormal}{\c&H00ff00&}いけないっすわ\N
+Dialogue: 0,0:37:36.36,0:37:38.38,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,389)}{\an1}{\c&H00ff00&}ありますよ\N
+Dialogue: 0,0:37:38.38,0:37:40.41,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,509)}{\an1}{\c&Hffff00&}もうええ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}長いよ\N
+Dialogue: 0,0:37:40.41,0:37:42.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,389)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}クロちゃんのね{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}恋愛と{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}そして\N
+Dialogue: 0,0:37:40.41,0:37:42.72,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:37:42.72,0:37:45.73,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,389)}{\an1}{\c&H00ff00&}ダブルスタンバイですよ\N
+Dialogue: 0,0:37:45.73,0:37:50.24,normal,,0,0,0,,{\rsmall}{\c&Hffff00&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffff00&}{\c&H00ff00&}都内某所{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}ちゃんと面倒みないと\N
+Dialogue: 0,0:37:45.73,0:37:50.24,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,449)}{\an1}{\c&Hffff00&}長いんだよ{\rmedium}{\c&Hffff00&} {\rnormal}{\c&Hffff00&}もう{\rsmall}{\c&Hffff00&}\N
+Dialogue: 0,0:39:12.85,0:39:15.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}年末には{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:39:12.85,0:39:15.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:39:15.28,0:39:18.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,389)}{\an1}{\rnormal}{\c&Hffffff&}最後のアイドル仕事となる{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:39:15.28,0:39:18.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,329)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}リチにとって{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:39:15.28,0:39:18.28,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:39:18.28,0:39:23.28,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,389)}{\an1}{\rmedium}{\c&Hffffff&}＜「ＣＤＴＶ {\rnormal}{\c&Hffffff&}年越し{\rmedium}{\c&Hffffff&}スペシャル」{\rnormal}{\c&Hffffff&}への出演が{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:39:44.25,0:39:49.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,509)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:39:44.25,0:39:49.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}スタッフ{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}以上で{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:39:44.25,0:39:49.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:09.29,0:40:14.29,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}やだやだやだ{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ホントやだ\N
+Dialogue: 0,0:40:26.30,0:40:31.30,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,449)}{\an1}はい\N
+Dialogue: 0,0:40:32.25,0:40:35.61,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,389)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}こうして�{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:32.25,0:40:35.61,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:35.61,0:40:37.57,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,329)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:35.61,0:40:37.57,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:37.57,0:40:42.26,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,329)}{\an1}新メンバーを募集{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:37.57,0:40:42.26,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(170,269)}{\an1}{\rmedium}{\c&Hffffff&}＜２{\rnormal}{\c&Hffffff&}人になってしまった都内某所は\N
+Dialogue: 0,0:40:42.26,0:40:47.23,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,509)}{\an1}{\rnormal}{\c&Hffffff&}多数の応募が{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:42.26,0:40:47.23,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}すると{\rmedium}{\c&Hffffff&} １０００{\rnormal}{\c&Hffffff&}件を超える{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:42.26,0:40:47.23,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:47.23,0:40:49.26,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(290,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}早速{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:49.26,0:40:51.28,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(330,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}クロちゃんと{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:51.28,0:40:54.29,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,209)}{\an1}{\rmedium}{\c&Hffffff&}ＷＡＣＫ{\rnormal}{\c&Hffffff&}の代表{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}渡辺さんで{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:51.28,0:40:54.29,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}都内某所の所属事務所\N
+Dialogue: 0,0:40:54.29,0:40:57.30,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(370,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}書類審査{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:57.30,0:40:59.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,419)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}通過した{\rmedium}{\c&Hffffff&}１００{\rnormal}{\c&Hffffff&}名で{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:57.30,0:40:59.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:40:59.96,0:41:04.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,419)}{\an1}{\rmedium}{\c&Hffffff&}＜１{\rnormal}{\c&Hffffff&}次オーディションを開催{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:40:59.96,0:41:04.96,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:41:52.18,0:41:55.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}♫〜ドはドーナツのド\N
+Dialogue: 0,0:41:52.18,0:41:55.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:41:55.59,0:42:00.59,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,509)}{\an1}♫〜レはレモンのレ\N
+Dialogue: 0,0:42:06.29,0:42:08.26,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}はい➡\N
+Dialogue: 0,0:42:08.26,0:42:12.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,449)}{\an1}{\rnormal}{\c&Hffffff&}ああ\N
+Dialogue: 0,0:42:08.26,0:42:12.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:42:12.94,0:42:17.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}ありがとうございます\N
+Dialogue: 0,0:42:12.94,0:42:17.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:42:24.97,0:42:29.97,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}はい{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:42:42.15,0:42:47.15,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(250,449)}{\an1}いい？{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}えっ…\N
+Dialogue: 0,0:42:58.17,0:43:00.60,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(270,449)}{\an1}{\rnormal}{\c&Hffffff&}泣きやみますね{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}これは\N
+Dialogue: 0,0:42:58.17,0:43:00.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,389)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）\N
+Dialogue: 0,0:42:58.17,0:43:00.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:43:00.60,0:43:05.60,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,509)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}その後も{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:43:17.25,0:43:22.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(710,449)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:43:17.25,0:43:22.25,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:43:22.29,0:43:24.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(670,449)}{\an1}{\rnormal}{\c&Hffffff&}はい➡\N
+Dialogue: 0,0:43:22.29,0:43:24.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:43:24.60,0:43:29.60,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(690,449)}{\an1}はい\N
+Dialogue: 0,0:43:30.56,0:43:35.56,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(710,449)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:43:30.56,0:43:35.56,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:43:56.23,0:43:59.24,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}見事{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ご覧の{\rmedium}{\c&Hffffff&}１０{\rnormal}{\c&Hffffff&}名が{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:43:59.24,0:44:01.27,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,149)}{\an1}{\rmedium}{\c&Hffffff&}＜１{\rnormal}{\c&Hffffff&}次オーディションを通過{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:43:59.24,0:44:01.27,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:44:01.27,0:44:06.27,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,209)}{\an1}{\rnormal}{\c&Hffffff&}なった{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:44:01.27,0:44:06.27,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,149)}{\an1}{\rmedium}{\c&Hffffff&}＜２{\rnormal}{\c&Hffffff&}次審査へと駒を進めることと{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:44:01.27,0:44:06.27,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:44:08.90,0:44:13.90,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(410,449)}{\an1}はい\N
+Dialogue: 0,0:44:25.44,0:44:30.44,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}♫〜つぼみをあげよう\N
+Dialogue: 0,0:44:25.44,0:44:30.44,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:44:40.42,0:44:43.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,509)}{\an1}{\rnormal}{\c&Hffffff&}♫〜あなたは何もかも\N
+Dialogue: 0,0:44:40.42,0:44:43.89,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:44:43.89,0:44:48.89,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,509)}{\an1}♫〜初めて歩いた日のことも\N
+Dialogue: 0,0:44:53.55,0:44:57.89,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,449)}{\an1}うん{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}何か…\N
+Dialogue: 0,0:44:57.89,0:45:01.59,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,509)}{\an1}よろしくお願いします\N
+Dialogue: 0,0:44:57.89,0:45:01.59,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}高校{\rmedium}{\c&Hffffff&}１{\rnormal}{\c&Hffffff&}年生{\rmedium}{\c&Hffffff&} １６{\rnormal}{\c&Hffffff&}歳のイズキです\N
+Dialogue: 0,0:45:01.59,0:45:06.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}お願いします\N
+Dialogue: 0,0:45:01.59,0:45:06.59,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:45:24.60,0:45:29.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(630,389)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:45:24.60,0:45:29.60,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:45:32.93,0:45:34.96,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(690,389)}{\an1}はい\N
+Dialogue: 0,0:45:34.96,0:45:37.62,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(370,509)}{\an1}誰に届けたくて？\N
+Dialogue: 0,0:45:34.96,0:45:37.62,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,449)}{\an1}♫〜何を奏でて？\N
+Dialogue: 0,0:45:37.62,0:45:42.62,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,509)}{\an1}♫〜不確かなままでいい\N
+Dialogue: 0,0:45:42.94,0:45:47.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(630,449)}{\an1}{\rnormal}{\c&Hffffff&}はい\N
+Dialogue: 0,0:45:42.94,0:45:47.94,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:45:58.32,0:46:03.32,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(410,509)}{\an1}あの日の恋\N
+Dialogue: 0,0:45:58.32,0:46:03.32,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,449)}{\an1}♫〜懐かしいと笑えた\N
+Dialogue: 0,0:46:10.64,0:46:15.64,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,509)}{\an1}{\c&H00ff00&}パンティーテックスやないですよ\N
+Dialogue: 0,0:46:24.98,0:46:29.98,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,509)}{\an1}{\rnormal}{\c&Hffffff&}誰よりも輝き\N
+Dialogue: 0,0:46:24.98,0:46:29.98,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(350,449)}{\an1}{\rnormal}{\c&Hffffff&}♫〜あなたの笑顔は{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:46:24.98,0:46:29.98,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:46:31.63,0:46:36.63,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,449)}{\an1}{\rmedium}{\c&Hffffff&}２{\rnormal}{\c&Hffffff&}次{\rmedium}{\c&Hffffff&}オーディション{\rnormal}{\c&Hffffff&}の結果を発表します\N
+Dialogue: 0,0:46:31.63,0:46:36.63,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,389)}{\an1}{\rmedium}{\c&Hffffff&}（{\rnormal}{\c&Hffffff&}クロちゃん{\rmedium}{\c&Hffffff&}）{\rnormal}{\c&Hffffff&}それでは{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:46:31.63,0:46:36.63,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:08.30,0:47:10.33,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(330,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ということで{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:10.33,0:47:12.64,normal,,0,0,0,,{\rmedium}{\c&Hffffff&}{\pos(250,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}ご覧の{\rmedium}{\c&Hffffff&}５{\rnormal}{\c&Hffffff&}名が最終審査へ{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:12.64,0:47:16.34,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,209)}{\an1}{\rnormal}{\c&Hffffff&}そして誰が{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:12.64,0:47:16.34,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}果たして{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}このなかから何名が{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:12.64,0:47:16.34,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:16.34,0:47:20.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,149)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}都内某所の新{\rmedium}{\c&Hffffff&}メンバー{\rnormal}{\c&Hffffff&}となるのか{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:16.34,0:47:20.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:20.68,0:47:23.68,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(370,509)}{\an1}{\c&H00ffff&}なるほどね\N
+Dialogue: 0,0:47:20.68,0:47:23.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}はい{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}というわけで\N
+Dialogue: 0,0:47:20.68,0:47:23.68,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:23.68,0:47:26.63,normal,,0,0,0,,{\rnormal}{\c&H00ff00&}{\pos(210,509)}{\an1}決まります\N
+Dialogue: 0,0:47:23.68,0:47:26.63,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(210,449)}{\an1}{\c&H00ff00&}来週{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}都内某所の新メンバーが\N
+Dialogue: 0,0:47:26.63,0:47:28.66,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(430,509)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ffff&}へえ\N
+Dialogue: 0,0:47:26.63,0:47:28.66,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:28.66,0:47:31.26,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,509)}{\an1}{\rnormal}{\c&H00ff00&}クロちゃん{\rmedium}{\c&H00ff00&}・{\rnormal}{\c&H00ff00&}リチカップルが\N
+Dialogue: 0,0:47:28.66,0:47:31.26,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}ちなみにですね{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:47:28.66,0:47:31.26,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:31.26,0:47:33.57,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(290,509)}{\an1}{\c&H00ff00&}その後も{\rmedium}{\c&H00ff00&} {\rnormal}{\c&H00ff00&}正月休みに\N
+Dialogue: 0,0:47:33.57,0:47:38.57,normal,,0,0,0,,{\rsmall}{\c&H00ff00&}{\pos(230,509)}{\an1}{\rnormal}{\c&H00ff00&}皆さん\N
+Dialogue: 0,0:47:33.57,0:47:38.57,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(230,449)}{\an1}{\rnormal}{\c&Hffffff&}{\c&H00ff00&}密着{\rmedium}{\c&H00ff00&}ＶＴＲ{\rnormal}{\c&H00ff00&}とかもありますんで{\rsmall}{\c&H00ff00&}\N
+Dialogue: 0,0:47:33.57,0:47:38.57,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:38.95,0:47:42.19,normal,,0,0,0,,{\rnormal}{\c&Hffffff&}{\pos(170,389)}{\an1}{\c&Hffff00&}ええ…\N
+Dialogue: 0,0:47:44.08,0:47:46.11,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,359)}{\an1}{\rnormal}{\c&Hffffff&}例の店あんじゃん\N
+Dialogue: 0,0:47:44.08,0:47:46.11,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,299)}{\an1}{\rnormal}{\c&Hffffff&}最近{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}噂になってる{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:44.08,0:47:46.11,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:46.11,0:47:50.10,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,359)}{\an1}{\rnormal}{\c&Hffffff&}強力ゴシップが聞こえてきたら{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:46.11,0:47:50.10,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,299)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}次週{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}喫煙所で横から{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:46.11,0:47:50.10,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:50.10,0:47:52.53,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,359)}{\an1}{\rnormal}{\c&Hffffff&}タバコを吸い続けてしまうのか{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:50.10,0:47:52.53,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(190,299)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}何本{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:50.10,0:47:52.53,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:52.53,0:47:54.49,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(310,359)}{\an1}{\rmedium}{\c&Hffffff&}３{\rnormal}{\c&Hffffff&}本目{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}いきました\N
+Dialogue: 0,0:47:52.53,0:47:54.49,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:54.49,0:47:56.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}さらに{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:54.49,0:47:56.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:56.52,0:47:59.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(290,359)}{\an1}{\rnormal}{\c&Hffffff&}初めての旅行へ{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:47:56.52,0:47:59.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(290,299)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}クロちゃんとリチが{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:56.52,0:47:59.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:47:59.52,0:48:01.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,359)}{\an1}{\rnormal}{\c&Hffffff&}一緒にいればいるほど\N
+Dialogue: 0,0:47:59.52,0:48:01.55,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:48:01.55,0:48:04.56,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(270,359)}{\an1}{\rnormal}{\c&Hffffff&}失いたくないと強く思います\N
+Dialogue: 0,0:48:01.55,0:48:04.56,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:48:04.56,0:48:06.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(390,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}そして{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:48:04.56,0:48:06.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+Dialogue: 0,0:48:06.52,0:48:11.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}{\pos(170,359)}{\an1}{\rmedium}{\c&Hffffff&}＜{\rnormal}{\c&Hffffff&}都内某所の新{\rmedium}{\c&Hffffff&}メンバー{\rnormal}{\c&Hffffff&}が{\rmedium}{\c&Hffffff&} {\rnormal}{\c&Hffffff&}ついに決定{\rmedium}{\c&Hffffff&}＞\N
+Dialogue: 0,0:48:06.52,0:48:11.52,normal,,0,0,0,,{\rsmall}{\c&Hffffff&}\N
+
