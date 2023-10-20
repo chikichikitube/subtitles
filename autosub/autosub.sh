@@ -18,3 +18,6 @@ pip3 install torch torchvision torchaudio --extra-index-url https://download.pyt
 
 # symlink autosub.py script from git and execute
 cd /chikichiki.tube/autosub && python3 /chikichiki.tube/autosub/autosub.py
+
+
+########## CHECK https://github.com/abdeladim-s/subsai
